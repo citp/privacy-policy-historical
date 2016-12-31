@@ -1,0 +1,2896 @@
+<!--The following is the downloaded HTML source of the ratehub.ca privacy policy that was archived on 2016-12-31.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161231175455id_/http%3A//www.ratehub.ca/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html class="rh" lang="en"><head>
+  <meta http-equiv="X-UA-Compatible" content="IE=9; IE=8; IE=7; IE=EDGE">
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>  <title>Privacy Policy</title>
+  <meta name="description" content="Privacy Policy">
+  <link rel="shortcut icon" href="/favicon.ico">
+    <link rel="canonical" href="/privacy">
+    <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
+  <!-- styles -->
+        <link rel="stylesheet" type="text/css" href="/assets/css/app.css?v=9f87af60">
+  <!--[if IE 8]>
+    <script src="/assets/js/html5shiv.js"></script>
+    <link rel="stylesheet" type="text/css" href="/assets/css/fallbacks-ie8.css">
+    <script src="/assets/js/respond.js"></script>
+  <![endif]-->
+  <link rel="stylesheet" href="//cdn.jsdelivr.net/pure/0.6.0/pure-min.css">
+  <!--[if lte IE 8]>
+    <link rel="stylesheet" href="//cdn.jsdelivr.net/pure/0.6.0/grids-responsive-old-ie-min.css">
+  <![endif]-->
+<!--[if gt IE 8]><!-->  <link rel="stylesheet" href="//cdn.jsdelivr.net/pure/0.6.0/grids-responsive-min.css">
+<!--<![endif]-->  </head>
+  <body ng-app="ratehub" class="normal">
+  <header>
+    <!-- Optional leaderboard -->
+      <div class="leaderboard">
+        <div id="leaderboard-1"></div>
+      </div>
+    <!-- Topbar -->
+    <div id="topbar">
+      <div><div id="nav_header">
+        <a id="nav_mobile" class="menu">
+          <i class="fa fa-fw fa-bars"></i>
+        </a>
+        <div id="nav_mobile_active"></div>
+        <a id="nav_logo" href="/">
+          <span class="rh-offscreen">ratehub</span>
+        </a>
+      </div><div id="nav_main">
+        <nav>
+
+  <ul class="menu desktop">
+<li>
+      <a href="/mortgages">
+        <i class="fa fa-fw fa-home"></i>
+      <span>Mortgages</span>
+        <i class="fa fa-fw submenu-indicator"></i>
+      </a>
+  <ul class="submenu advanced">
+      <li>
+        <a href="/best-mortgage-rates">
+          <i class="fa fa-fw fa-home"></i>
+          <span>Compare Mortgages</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">compare mortgage rates</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/best-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-fixed-mortgage-rates"></div>
+                        </div>
+                        <div class="title">Fixed Mortgage Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/best-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-variable-mortgage-rates"></div>
+                        </div>
+                        <div class="title">Variable Mortgage Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/best-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-heloc-mortgage-rates"></div>
+                        </div>
+                        <div class="title">HELOC Mortgage Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/best-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-cash-back-mortgage-rates"></div>
+                        </div>
+                        <div class="title">Cash Back Mortgage Rates</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">rates by provider</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/banks/bank-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-all-bank-mortgage-rates"></div>
+                        </div>
+                        <div class="title">All Bank Mortgage Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/brokers/broker-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-all-broker-mortgage-rates"></div>
+                        </div>
+                        <div class="title">All Broker Mortgage Rates</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a href="/best-mortgage-rates">
+          <i class="fa fa-fw fa-sort-numeric-asc"></i>
+          <span>Mortgage Terms</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title"></div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/best-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-see-all-terms"></div>
+                        </div>
+                        <div class="title">See All Terms</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">popular terms</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/best-mortgage-rates/3-year/fixed">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-3-yr-fixed-rates"></div>
+                        </div>
+                        <div class="title">3 YR Fixed Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/best-mortgage-rates/5-year/fixed">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-5-yr-fixed-rates"></div>
+                        </div>
+                        <div class="title">5 YR Fixed Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/best-mortgage-rates/10-year/fixed">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-10-yr-fixed-rates"></div>
+                        </div>
+                        <div class="title">10 YR Fixed Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/best-mortgage-rates/3-year/variable">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-3-yr-variable-rates"></div>
+                        </div>
+                        <div class="title">3 YR Variable Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/best-mortgage-rates/5-year/variable">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-5-yr-variable-rates"></div>
+                        </div>
+                        <div class="title">5 YR Variable Rates</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">historical rates</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/historical-mortgage-rates-widget">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-historical-rate-chart-builder"></div>
+                        </div>
+                        <div class="title">Historical Rate Chart Builder</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/3-year-fixed-mortgage-rate-history">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-3-yr-fixed-rates"></div>
+                        </div>
+                        <div class="title">3 YR Fixed Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/5-year-fixed-mortgage-rate-history">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-5-yr-fixed-rates"></div>
+                        </div>
+                        <div class="title">5 YR Fixed Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/10-year-fixed-mortgage-rate-history">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-10-yr-fixed-rates"></div>
+                        </div>
+                        <div class="title">10 YR Fixed Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/5-year-variable-mortgage-rate-history">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-5-yr-variable-rates"></div>
+                        </div>
+                        <div class="title">5 YR Variable Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/mortgage-rate-history-canada">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-see-all-terms"></div>
+                        </div>
+                        <div class="title">See all</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a href="/mortgage-brokers-canada">
+          <i class="fa fa-fw fa-users"></i>
+          <span>Mortgage Providers</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title"></div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/mortgage-brokers-canada">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-find-mortgage-broker"></div>
+                        </div>
+                        <div class="title">Find a Mortgage Broker</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">popular brokers</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/brokers/safebridge-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-safebridge"></div>
+                        </div>
+                        <div class="title">Safebridge Mortgage Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/brokers/canwise-financial-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-canwise-financial"></div>
+                        </div>
+                        <div class="title">Canwise Financial Mortgage Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/brokers/butler-mortgage-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-butler-mortgage"></div>
+                        </div>
+                        <div class="title">Butler Mortgage Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/brokers/axess-mortgage-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-axess-mortgage"></div>
+                        </div>
+                        <div class="title">Axess Mortgage Rates</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">popular banks</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/banks/scotiabank-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-scotiabank"></div>
+                        </div>
+                        <div class="title">Scotiabank Mortgage Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/banks/td-bank-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-td-bank"></div>
+                        </div>
+                        <div class="title">TD Bank Mortgage Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/banks/rbc-royal-bank-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-rbc-royal-bank"></div>
+                        </div>
+                        <div class="title">RBC Mortgage Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/banks/cibc-mortgage-rates">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-cibc"></div>
+                        </div>
+                        <div class="title">CIBC Mortgage Rates</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a href="/mortgage-payment-calculator">
+          <i class="fa fa-fw rh-calculator"></i>
+          <span>Calculators</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">home buying calculators</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/mortgage-payment-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-payment-calculator"></div>
+                        </div>
+                        <div class="title">Payment Calculator</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/mortgage-affordability-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-affordability-calculator"></div>
+                        </div>
+                        <div class="title">Affordability Calculator</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/land-transfer-tax">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-land-transfer-tax-calculator"></div>
+                        </div>
+                        <div class="title">Land Transfer Tax Calculator</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/cmhc-mortgage-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-mortgage-insurance-calculator"></div>
+                        </div>
+                        <div class="title">Mortgage Insurance Calculator</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">refinancing calculators</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/mortgage-refinance-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-refinance-calculator"></div>
+                        </div>
+                        <div class="title">Refinance Calculator</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/penalty-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-penalty-calculator"></div>
+                        </div>
+                        <div class="title">Penalty Calculator</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/debt-consolidation-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-debt-consolidation-calculator"></div>
+                        </div>
+                        <div class="title">Debt Consolidation</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/mortgage-refinance-equity">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-max-equity-refinance"></div>
+                        </div>
+                        <div class="title">Maximum Equity Refinance</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-lightbulb-o"></i>
+          <span>Education Centre</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">browse our education centre</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/buying">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-home-buying-guide"></div>
+                        </div>
+                        <div class="title">Home Buying Guide</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/renewing">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-renewing-guide"></div>
+                        </div>
+                        <div class="title">Renewing Guide</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/refinancing">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-refinancing-guide"></div>
+                        </div>
+                        <div class="title">Refinancing Guide</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/special-mortgages">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-special-mortgages-guide"></div>
+                        </div>
+                        <div class="title">Special Mortgages Guide</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/glossary">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-glossary"></div>
+                        </div>
+                        <div class="title">Glossary</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/canadian-mortgage-reports">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-mg-mortgages-report"></div>
+                        </div>
+                        <div class="title">Mortgage Reports</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+  </ul>
+  </li><li>
+      <a href="/credit-cards">
+        <i class="fa fa-fw fa-credit-card"></i>
+      <span>Credit Cards</span>
+        <i class="fa fa-fw submenu-indicator"></i>
+      </a>
+  <ul class="submenu advanced">
+      <li>
+        <a href="/credit-cards/rewards">
+          <i class="fa fa-fw fa-credit-card"></i>
+          <span>Compare Cards</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title"></div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/best-credit-cards">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-best-credit-cards"></div>
+                        </div>
+                        <div class="title">Best Credit Cards</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">Rewards Cards</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/travel">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-travel-credit-cards"></div>
+                        </div>
+                        <div class="title">Travel Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/cash-back">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-cash-back-credit-cards"></div>
+                        </div>
+                        <div class="title">Cash Back Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/store-credit">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-store-credit-cards"></div>
+                        </div>
+                        <div class="title">Store Credit Cards</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">Other Card Types</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/low-interest">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-low-interest-credit-cards"></div>
+                        </div>
+                        <div class="title">Low Interest Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/no-fee">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-no-fee-credit-cards"></div>
+                        </div>
+                        <div class="title">No Fee Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/balance-transfer">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-balance-transfer-credit-cards"></div>
+                        </div>
+                        <div class="title">Balance Transfer Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/secured">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-secured-credit-cards"></div>
+                        </div>
+                        <div class="title">Secured Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/business">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-business-credit-cards"></div>
+                        </div>
+                        <div class="title">Business Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/student">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-student-credit-cards"></div>
+                        </div>
+                        <div class="title">Student Credit Cards</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-gift"></i>
+          <span>Reward Programs</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">Top Programs</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/aeroplan-miles">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-aeroplan"></div>
+                        </div>
+                        <div class="title">Aeroplan Miles Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/td-points">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-td-bank"></div>
+                        </div>
+                        <div class="title">TD Points Credit Cards</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">All Travel Programs</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/aeroplan-miles">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-aeroplan"></div>
+                        </div>
+                        <div class="title">Aeroplan Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/air-miles">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-air-miles"></div>
+                        </div>
+                        <div class="title">Air Miles Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/aventura-points">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-cibc"></div>
+                        </div>
+                        <div class="title">Aventura Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/bmo-rewards-points">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-bank-of-montreal"></div>
+                        </div>
+                        <div class="title">BMO Rewards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/card/american-express-blue-sky">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-blue-sky"></div>
+                        </div>
+                        <div class="title">Blue Sky Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/mbna-reward-points">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-mbna"></div>
+                        </div>
+                        <div class="title">MBNA Rewards Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/membership-rewards-points">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-american-express"></div>
+                        </div>
+                        <div class="title">Amex Membership Rewards Points</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/scotia-rewards-points">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-scotiabank"></div>
+                        </div>
+                        <div class="title">Scotia Rewards Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/starpoints">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-starpoints"></div>
+                        </div>
+                        <div class="title">Starwood Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/td-points">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-td-bank"></div>
+                        </div>
+                        <div class="title">TD Points Credit Cards</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">All Store Credit Programs</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/card/amazon-ca-rewards-visa-from-chase">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-amazon-points"></div>
+                        </div>
+                        <div class="title">Amazon.ca Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/card/harley-davidson-mastercard">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-harley"></div>
+                        </div>
+                        <div class="title">Harley-Davidson Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/pc-points">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-pc-financial"></div>
+                        </div>
+                        <div class="title">PC Points Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/card/scotia-scene-visa">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-scene"></div>
+                        </div>
+                        <div class="title">Scene Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/card/sony-card-mastercard-from-mbna">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-sony"></div>
+                        </div>
+                        <div class="title">Sony Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/card/walmart-mastercard">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-walmart"></div>
+                        </div>
+                        <div class="title">Walmart Credit Cards</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-bank"></i>
+          <span>Card Providers</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">Credit Card Networks</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/visa">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-visa"></div>
+                        </div>
+                        <div class="title">Visa Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/mastercard">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-mastercard"></div>
+                        </div>
+                        <div class="title">Mastercard Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/american-express-network">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-american-express"></div>
+                        </div>
+                        <div class="title">American Express Credit Cards</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">Popular Banks</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/bank-of-montreal">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-bank-of-montreal"></div>
+                        </div>
+                        <div class="title">BMO Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/mbna">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-mbna"></div>
+                        </div>
+                        <div class="title">MBNA Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/td-bank">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-td-bank"></div>
+                        </div>
+                        <div class="title">TD  Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/scotiabank">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-scotiabank"></div>
+                        </div>
+                        <div class="title">Scotiabank Credit Cards</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">All Banks</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/american-express">
+                        <div class="thumbnail">
+                            <div class="sprite program-logos-american-express"></div>
+                        </div>
+                        <div class="title">American Express Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/bank-of-montreal">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-bank-of-montreal"></div>
+                        </div>
+                        <div class="title">BMO Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/canadian-tire">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-canadian-tire"></div>
+                        </div>
+                        <div class="title">Canadian Tire Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/chase">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-chase"></div>
+                        </div>
+                        <div class="title">Chase Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/cibc">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-cibc"></div>
+                        </div>
+                        <div class="title">CIBC Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/mbna">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-mbna"></div>
+                        </div>
+                        <div class="title">MBNA Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/pc-financial">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-pc-financial"></div>
+                        </div>
+                        <div class="title">PC Financial Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/national-bank">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-national-bank"></div>
+                        </div>
+                        <div class="title">National Bank Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/scotiabank">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-scotiabank"></div>
+                        </div>
+                        <div class="title">Scotiabank Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/tangerine">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-tangerine"></div>
+                        </div>
+                        <div class="title">Tangerine Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/td-bank">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-td-bank"></div>
+                        </div>
+                        <div class="title">TD  Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/capital-one">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-capital-one"></div>
+                        </div>
+                        <div class="title">Capital One  Credit Cards</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw rh-calculator"></i>
+          <span>Calculators</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title"></div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/rewards-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-rewards-calculator"></div>
+                        </div>
+                        <div class="title">Rewards Calculator</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/aeroplan-miles-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-aeroplan-miles-calculator"></div>
+                        </div>
+                        <div class="title">Aeroplan Miles Calculator</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/air-miles-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-air-miles-calculators"></div>
+                        </div>
+                        <div class="title">Air Miles Calculator</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/td-points-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-td-points-calculators"></div>
+                        </div>
+                        <div class="title">TD Points Calculator</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/mbna-reward-points-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-mbna-rewards-calculator"></div>
+                        </div>
+                        <div class="title">MBNA Reward Points Calculator</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/bmo-rewards-points-calculator">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-bmo-points-calculator"></div>
+                        </div>
+                        <div class="title">BMO Rewards Points Calculator</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-lightbulb-o"></i>
+          <span>Education Centre</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">browse our education centre</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-cards/credit-card-basics">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-credit-card-basics"></div>
+                        </div>
+                        <div class="title">Credit Card Basics</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/types-of-credit-cards">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-best-credit-cards"></div>
+                        </div>
+                        <div class="title">Types of Credit Cards</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/types-of-rewards-credit-cards">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-rewards-credit-card-guides"></div>
+                        </div>
+                        <div class="title">Rewards Credit Cards Guide</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/credit-card-insurance-products">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-credit-card-insurance-guide"></div>
+                        </div>
+                        <div class="title">Credit Card Insurance Guide</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-cards/credit-score-and-fraud">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cc-credit-score-fraud-guide"></div>
+                        </div>
+                        <div class="title">Credit Score and Fraud Guide</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+  </ul>
+  </li><li>
+      <a href="/savings-accounts">
+        <i class="fa fa-fw fa-bank"></i>
+      <span>Banking</span>
+        <i class="fa fa-fw submenu-indicator"></i>
+      </a>
+  <ul class="submenu advanced">
+      <li>
+        <a href="/savings-accounts">
+          <i class="fa fa-fw fa-search"></i>
+          <span>Savings Accounts</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title"></div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/savings-accounts/best-savings-accounts">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-see-all-types"></div>
+                        </div>
+                        <div class="title">See All Types</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">Savings Account Types</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/savings-accounts/accounts/high-interest">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-high-interest-accounts"></div>
+                        </div>
+                        <div class="title">High Interest Accounts</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/savings-accounts/accounts/tfsa">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-tfsa"></div>
+                        </div>
+                        <div class="title">TFSA</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/savings-accounts/accounts/youth">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-youth-accounts"></div>
+                        </div>
+                        <div class="title">Youth Accounts</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/savings-accounts/accounts/senior">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-senior-accounts"></div>
+                        </div>
+                        <div class="title">Senior Accounts</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-users"></i>
+          <span>Providers</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">Savings Account Providers</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/savings-accounts/accounts/eq-bank">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-eq-bank"></div>
+                        </div>
+                        <div class="title">EQ Bank</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/savings-accounts/accounts/tangerine">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-tangerine"></div>
+                        </div>
+                        <div class="title">Tangerine</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/savings-accounts/accounts/td-bank">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-td-bank"></div>
+                        </div>
+                        <div class="title">TD Bank</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/savings-accounts/accounts/rbc-royal-bank">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-rbc-royal-bank"></div>
+                        </div>
+                        <div class="title">Royal Bank of Canada</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/savings-accounts/accounts/cibc">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-cibc"></div>
+                        </div>
+                        <div class="title">CIBC</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/savings-accounts/accounts/oaken-financial">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-oaken-financial"></div>
+                        </div>
+                        <div class="title">Oaken Financial</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-lightbulb-o"></i>
+          <span>Education Centre</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">Savings Education Centre</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/savings-accounts/what-is-a-savings-account">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-what-is-a-savings-account"></div>
+                        </div>
+                        <div class="title">What is a Savings Account</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/savings-accounts/tiered-savings-accounts">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-tiered-savings-accounts"></div>
+                        </div>
+                        <div class="title">Tiered Savings Accounts</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/savings-accounts/savings-account-alternatives">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-savings-accounts-alternatives"></div>
+                        </div>
+                        <div class="title">Savings Account Alternatives</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+  </ul>
+  </li><li>
+      <a href="/gics/">
+        <i class="fa fa-fw fa-bank"></i>
+      <span>Investing</span>
+        <i class="fa fa-fw submenu-indicator"></i>
+      </a>
+  <ul class="submenu advanced">
+      <li>
+        <a href="/gics/">
+          <i class="fa fa-fw fa-search"></i>
+          <span>GIC Rates</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title"></div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/gics/best-gic-rates">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-see-all-types"></div>
+                        </div>
+                        <div class="title">See All Types</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">GIC Types</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/gics/best-gic-rates">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-short-term-rates"></div>
+                        </div>
+                        <div class="title">Short Term Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/best-gic-rates">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-long-term-rates"></div>
+                        </div>
+                        <div class="title">Long Term Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/gic-rates/tfsa/1-year/">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-tfsa-rates"></div>
+                        </div>
+                        <div class="title">TFSA Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/gic-rates/usd/1-year/">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-usd-rates"></div>
+                        </div>
+                        <div class="title">US Dollar Rates</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/gic-rates/registered/1-year/">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-registered-rates"></div>
+                        </div>
+                        <div class="title">Registered Rates</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">GIC Terms</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/gics/gic-rates/non-registered/180-day">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-180-days"></div>
+                        </div>
+                        <div class="title">180 Days</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/gic-rates/non-registered/1-year">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-1-yr"></div>
+                        </div>
+                        <div class="title">1 Year</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/gic-rates/non-registered/2-year">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-2-yr"></div>
+                        </div>
+                        <div class="title">2 Year</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/gic-rates/non-registered/3-year">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-3-yr"></div>
+                        </div>
+                        <div class="title">3 Year</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/gic-rates/non-registered/4-year">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-4-yr"></div>
+                        </div>
+                        <div class="title">4 Year</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/gic-rates/non-registered/5-year">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-5-yr"></div>
+                        </div>
+                        <div class="title">5 Year</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/gic-rates/non-registered/6-year">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-6-yr"></div>
+                        </div>
+                        <div class="title">6 Year</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-users"></i>
+          <span>Providers</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">GIC Rate Providers</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/gics/equitable-bank-gic-rates/non-registered/1-year">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-equitable-bank"></div>
+                        </div>
+                        <div class="title">Equitable Bank</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/td-bank-gic-rates/non-registered/1-year">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-td-bank"></div>
+                        </div>
+                        <div class="title">TD Bank</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/rbc-royal-bank-gic-rates/non-registered/1-year">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-rbc-royal-bank"></div>
+                        </div>
+                        <div class="title">RBC Royal Bank</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/bank-of-montreal-gic-rates/non-registered/1-year">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-bank-of-montreal"></div>
+                        </div>
+                        <div class="title">Bank of Montreal</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/cibc-gic-rates/non-registered/1-year">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-cibc"></div>
+                        </div>
+                        <div class="title">CIBC</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/oaken-gic-rates/non-registered/1-year">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-oaken-financial"></div>
+                        </div>
+                        <div class="title">Oaken Financial</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-lightbulb-o"></i>
+          <span>Education Centre</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">GIC Education Centre</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/gics/gic-basics">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-gic-basics"></div>
+                        </div>
+                        <div class="title">GIC Basics</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/gic-terms">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-gic-terms"></div>
+                        </div>
+                        <div class="title">GIC Terms</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/types-of-gics">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-types-of-gics"></div>
+                        </div>
+                        <div class="title">Types of GICs</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/registered-gics">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-registered-rates"></div>
+                        </div>
+                        <div class="title">Registered Investment Account GICs</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/gics/how-to-buy-gics">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-ba-how-to-buy-a-gic"></div>
+                        </div>
+                        <div class="title">How to Buy a GIC</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+  </ul>
+  </li><li>
+      <a href="/insurance">
+        <i class="fa fa-fw fa-shield"></i>
+      <span>Insurance</span>
+        <i class="fa fa-fw submenu-indicator"></i>
+      </a>
+  <ul class="submenu advanced">
+      <li>
+        <a href="/insurance/best-life-insurance-quote">
+          <i class="fa fa-fw fa-heart"></i>
+          <span>Life Insurance</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title"></div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/insurance/best-life-insurance-quote">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-compare-life-insurance"></div>
+                        </div>
+                        <div class="title">Get a Quote</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/bmo-life-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite provider-nav-bank-of-montreal"></div>
+                        </div>
+                        <div class="title">BMO Insurance</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">Types</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/insurance/what-is-whole-life-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-whole-life-insurance"></div>
+                        </div>
+                        <div class="title">Whole</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/what-is-term-life-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-term-life-insurance"></div>
+                        </div>
+                        <div class="title">Term</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/what-is-no-medical-life-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-no-medical-insurance"></div>
+                        </div>
+                        <div class="title">No Medical</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/what-is-guaranteed-life-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-guaranteed-life-insurance"></div>
+                        </div>
+                        <div class="title">Guaranteed</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/types-of-life-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-other-types"></div>
+                        </div>
+                        <div class="title">Other Types</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a href="/home-insurance">
+          <i class="fa fa-fw fa-home"></i>
+          <span>Home Insurance</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title"></div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/insurance/best-home-insurance-quote">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-compare-home-insurance"></div>
+                        </div>
+                        <div class="title">Get a Quote</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">Types</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/insurance/home-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-home-insurance"></div>
+                        </div>
+                        <div class="title">Home</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/condo-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-condo-insurance"></div>
+                        </div>
+                        <div class="title">Condo</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/renters-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-tenant-renters-insurance"></div>
+                        </div>
+                        <div class="title">Renters (Tenant)</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/vacation-property-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-vacation-property-insurance"></div>
+                        </div>
+                        <div class="title">Vacation Property (Cottage)</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/rental-income-property-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-rental-property-insurance"></div>
+                        </div>
+                        <div class="title">Rental (Income) Property</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a href="/insurance/best-car-insurance-quote">
+          <i class="fa fa-fw fa-car"></i>
+          <span>Auto Insurance</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title"></div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/insurance/best-car-insurance-quote">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-compare-car-insurance"></div>
+                        </div>
+                        <div class="title">Get a Quote</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">Types</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/insurance/third-party-liability-car-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-liability-insurance"></div>
+                        </div>
+                        <div class="title">Liability</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/comprehensive-car-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-comprehensive-insurance"></div>
+                        </div>
+                        <div class="title">Comprehensive</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">Vehicle Types</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/insurance/sports-car-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-car-insurance"></div>
+                        </div>
+                        <div class="title">Sports Car</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/truck-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-truck-insurance"></div>
+                        </div>
+                        <div class="title">Truck</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/van-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-van-insurance"></div>
+                        </div>
+                        <div class="title">Van</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/types-of-car-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-other-types"></div>
+                        </div>
+                        <div class="title">Other Types</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-lightbulb-o"></i>
+          <span>Education Centre</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">life insurance education centre</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/insurance/life-insurance-basics">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-life-insurance-basics"></div>
+                        </div>
+                        <div class="title">Life Insurance Basics</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/types-of-life-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-types-of-life-insurance"></div>
+                        </div>
+                        <div class="title">Types of Life Insurance</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/situational-life-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-situational-life-insurance"></div>
+                        </div>
+                        <div class="title">Situational Life Insurance</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">home insurance education centre</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/insurance/how-to-save-on-home-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-how-to-save"></div>
+                        </div>
+                        <div class="title">How to Save</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/home-insurance-basics">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-property-insurance-basics"></div>
+                        </div>
+                        <div class="title">Home Insurance Basics</div>
+                      </a>
+                    </li>
+                </ul>
+              </div><div class="section">
+                <div class="title">auto insurance education centre</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/insurance/how-to-buy-car-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-how-to-buy"></div>
+                        </div>
+                        <div class="title">How to Buy</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/how-to-save-on-car-insurance">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-how-to-save"></div>
+                        </div>
+                        <div class="title">How to Save</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/insurance/how-car-insurance-rates-are-calculated">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-in-rates-calculations-guides"></div>
+                        </div>
+                        <div class="title">Rates Calculation Guide</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+  </ul>
+  </li><li>
+      <a href="/free-credit-score">
+        <i class="fa fa-fw fa-shield"></i>
+      <span>Credit Score</span>
+        <i class="fa fa-fw submenu-indicator"></i>
+      </a>
+  <ul class="submenu advanced">
+      <li>
+        <a href="/free-credit-score">
+          <i class="fa fa-fw fa-search"></i>
+          <span>Free Credit Score</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title"></div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/free-credit-score">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-free-credit-score"></div>
+                        </div>
+                        <div class="title">Free Credit Score</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-score/faq">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-understanding-credit-report"></div>
+                        </div>
+                        <div class="title">FAQs</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-users"></i>
+          <span>Providers</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">Credit Score Providers</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-score/equifax">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-provider-equifax"></div>
+                        </div>
+                        <div class="title">Equifax</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-score/transunion">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-provider-transunion"></div>
+                        </div>
+                        <div class="title">TransUnion</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+      <li>
+        <a>
+          <i class="fa fa-fw fa-lightbulb-o"></i>
+          <span>Education Centre</span>
+          <i class="fa fa-fw submenu-indicator"></i>
+        </a>
+          <div class="content content-style2">
+<div class="section">
+                <div class="title">Credit Score Education Centre</div>
+                <ul>
+                    <li>
+                      <a class="pane" href="/credit-score/what-is-credit-score">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-what-is-a-credit-score"></div>
+                        </div>
+                        <div class="title">What is a credit score?</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-score/understand-your-credit-score">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-understanding-credit-score"></div>
+                        </div>
+                        <div class="title">Understanding your credit score</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-score/what-impacts-credit-score">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-what-impacts-credit-score"></div>
+                        </div>
+                        <div class="title">What impacts your credit score</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-score/how-to-improve-credit-score">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-how-can-improve-credit-score"></div>
+                        </div>
+                        <div class="title">How to improve your credit score</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-score/building-credit-history">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-building-credit-history"></div>
+                        </div>
+                        <div class="title">Building credit history</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-score/dealing-with-identity-theft">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-dealing-with-identity-theft"></div>
+                        </div>
+                        <div class="title">Dealing with identity theft</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-score/fixing-an-error-on-your-credit-report">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-fixing-error-credit-report"></div>
+                        </div>
+                        <div class="title">Fixing an error on your credit report</div>
+                      </a>
+                    </li>
+                    <li>
+                      <a class="pane" href="/credit-score/monitor-your-credit-report">
+                        <div class="thumbnail">
+                            <div class="sprite nav-icons-cs-monitor-credit-report"></div>
+                        </div>
+                        <div class="title">Monitor your credit report</div>
+                      </a>
+                    </li>
+                </ul>
+              </div>          </div>
+      </li>
+  </ul>
+  </li><li>
+      <span>
+        <i class="fa fa-fw fa-users"></i>
+      <span>More</span>
+        <i class="fa fa-fw submenu-indicator"></i>
+      </span>
+  <ul class="simple submenu">
+<li>
+      <a href="/special-offers">
+      <span>Special Offers</span>
+        <i class="fa fa-fw no-submenu"></i>
+      </a>
+  </li><li>
+      <a href="/blog">
+      <span>Blog</span>
+        <i class="fa fa-fw no-submenu"></i>
+      </a>
+  </li><li>
+      <a href="/about-ratehub">
+      <span>About Us</span>
+        <i class="fa fa-fw no-submenu"></i>
+      </a>
+  </li><li>
+      <a href="/contact-ratehub">
+      <span>Contact Us</span>
+        <i class="fa fa-fw no-submenu"></i>
+      </a>
+  </li>  </ul>
+  </li>  </ul>
+
+        </nav>
+      </div><div id="nav_other">
+        <ul class="menu desktop"><li class="search">
+          <a>
+            <span><i class="fa fa-search"></i></span>
+          </a>
+          <div class="submenu simple searchbar hang-left">
+            <form id="search" name="search" action="/search" method="get">
+              <input class="rh-input" type="text" name="q" placeholder="Search">
+              <button type="submit">
+                <i class="fa fa-level-down fa-rotate-90"></i>
+              </button>
+              <a>
+                <i class="fa fa-fw fa-close"></i>
+              </a>
+            </form>
+          </div>
+        </li>          <a id="login" class="rh-button rh-button--secondary" href="/login" rh-popup="" popup-width="490px" popup-height="650px" popup-class="rh-login-popup" popup-min-width="640px" force-standard-mobile="true">
+Login          </a>
+        </ul>
+      </div></div>
+    </div>
+  </header>
+      <div class="content-area">
+  <div class="l-container">
+    <main>
+        <div class="l-split-left">
+          <div class="l-content">
+<h1>
+Privacy Policy</h1>
+<p>
+Last Updated: <strong>October 17th, 2016</strong>.</p>
+<hr>
+<p>
+RateHub Inc. (“<strong>RateHub</strong>”/“<strong>we</strong>”/”<strong>us</strong>”) is committed to protecting your privacy. We make the website, <a href="/">www.ratehub.ca</a> (the “<strong>Website</strong>”) available together with our services as further described in our <a href="/terms">Terms of Use</a> (the “<strong>Services</strong>”). This Privacy Policy describes how we collect, store, use and distribute information about our users through the Website and Services.</p>
+<p>
+<strong>Consent: By using the Website or our Services you consent to the use of your Personal Information as described in this Privacy Policy</strong>. Except as set forth in this Privacy Policy, your Personal Information will not be used for any other purpose without your consent. We will not actively collect Personal Information for the purpose of sale or marketing in a way that specifically identifies the individual. In other words, we don’t sell customer lists. You may withdraw your consent to our processing of your Personal Information at any time. However, withdrawing consent may result in your inability to continue using the Website and/or the Services.</p>
+<p>
+<strong>Collection of Information</strong>: We aim to collect, use and disclose only such information as is required to enable us to manage your account, to provide the Services, to maintain our customer/visitor lists, to respond to your inquiries or provide feedback, for identification and authentication purposes, and for service improvement. We will maintain the confidentiality of any contact information you provide to us on signing up for our Services or contacting us with questions or for further information and we will use it only for the purposes for which we have collected it (subject to the exclusions and disclosures we have listed below), unless you agree that we may disclose it to other third parties.</p>
+<p>
+Two types of information may be collected through the Website and our Services: Personal Information and Non-Personal Information. This Privacy Policy does not extend to the collection, use or disclosure of the following information which is currently not limited by applicable privacy laws: (a) information that is publicly available, such as names, addresses, telephone numbers and electronic address when listed in a directory or made available through directory assistance; or (b) Non-Personal Information (as defined further below).</p>
+<p>
+“<strong><em>Personal Information</em></strong>” is personally identifiable information, such as your name, address, e-mail address, credit card information, address, birth date and gender. At the time of collection, we will clearly identify the information being collected and the purposes for which it will be used. It is always your choice whether or not to provide Personal Information but if you choose not to provide certain requested Personal Information, in some instances you may not be able to register to use the Website or be able to access and use the Website at all. In other instances, your choice not to provide certain other Personal Information may mean that you will not be able to use certain features of the Website. We may collect Personal Information in respect of the Website through registration processes; Request Form submissions, quote inquiries, communications with you; information downloads; user support; and surveys.</p>
+<p>
+“<strong><em>Non-Personal Information</em></strong>” is information of an anonymous nature, such as an Internet Protocol Address (IP Address) that has been stripped of all personal information, the domain used to access the Website, and the type and version of browser or operating system being used by visitors to the website. Aggregate information, such as demographic statistics of our users (e.g. average age or geographical allocation of our users), number of visitors, what pages users access or visit, and average time spent on the Website is not considered Personal Information. Similarly, business contact information such as the name, title, business address, or telephone number of a business or professional person or an employee of an organization is not considered Personal Information.</p>
+<p>
+Although the use of certain Non-Personal Information collected, used or disclosed through the Internet as described herein is not restricted (and to the extent that such is the case, the obligations under this Privacy Policy do not apply to such information), we provide information in this Privacy Policy about the collection of such information for the sake of transparency with respect to the operation of the Website. Such Non- Personal Information is collected or derived by us in the course of operating this Website. For example, our web servers may automatically collect Non-Personal Information that is provided through your browser or stored in a cookie when you choose to visit the Website.</p>
+<p>
+<strong>Use of Information</strong>: We collect information for the following purposes:</p>
+<ol class="rh-list">
+  <li><u>Registration</u>: You may be asked to register for an account to use the Services. If you choose to register for an account you must provide certain Personal Information to us such as your full name, address and email address. In general, none of your account registration information will be shared with any other users of the Website or our Services.</li>
+  <li><u>Request Forms</u>: If you request more information about a certain Financial Product listed on our Website you may be required to input certain further Personal Information, such as name, contact information, address, and certain other information depending on the nature of the Financial Product you are interested in. If you submit such a request form, we will send the information contained in the form to the applicable Vendor of the Financial Product, and you hereby consent to us sharing your Personal Information with such Vendors. Any Personal Information that we provide to third party Vendors will be treated in accordance with the terms of such Vendor’s own Privacy Policy, which you should read. RateHub will not be responsible in any way for how any Vendor treats your Personal Information.</li>
+  <li><u>Insurance Quotes</u>: If you request an insurance quote, you will be required to input your postal code. Once you submit your postal code, you will be automatically redirected to a third party website, hosted by one of our insurance provider partners. With the exception of your postal code, any information you submit in the insurance quote process will be submitted directly to such third party provider, and not to RateHub. Accordingly, your personal information will be treated in accordance with the privacy policy of the applicable third party insurance provider, and RateHub shall not be responsible for how any third party provider or Vendor treats your Personal Information.</li>
+  <li><u>Credit Reports</u>: In order to obtain a free credit report, you will be required to input your name, email address, date of birth, income, phone number and address to the Website. We will provide this information to our partner Equifax. All the personal information we provide to Equifax will be subject to, and treated in accordance with the Equifax Terms of Use and Privacy Policy, which you should read carefully. We will update your credit report regularly, and accordingly, will also use the personal information you provide in order to provide updated credit reports, which you can find in your account.</li>
+  <li><u>Location Information</u>: Certain Financial Products are only available in certain areas, and therefore we may ask for your location, either by requesting your postal code, city, and/or address</li>
+  <li><u>Transactional Notifications</u>: We provide notifications for certain activities relating to your use of our Services despite your indicated e-mail preferences, for example we may send you notices of any updates to our Terms of Use or Privacy Policy.</li>
+  <li><u>Marketing Communications</u>: RateHub is compliant with the Canadian Anti-Spam Legislation (“<strong>CASL</strong>”). If you opt-in to receive marketing communications from us, we will keep you up to date on our products and services. You may withdraw your consent to receiving marketing communications from us at any time by following the opt-out instructions in each communication, or by contacting our marketing department at marketing@ratehub.ca.</li>
+  <li><u>Statistics</u>: We also collect statistics about use of the Services purchased through the Website. This information will be kept confidential, however, aggregate statistics that do not personally identify an individual will be kept by us and such aggregate statistics may be made available to other members or third parties.</li>
+  <li><u>System Logs &amp; Cookies</u>: Cookies are used by us to track content usage and traffic on the Website. A cookie is a feature of your web browser that consists of a text file that is placed on your hard disk by a web server. The Website uses cookies to help it compile aggregate statistics about usage of this Website, such as how many users visit the Website, how long users spend viewing the Website, and what pages are viewed most often, and what pages Users may visit directly after leaving the Website. This information is used to improve the content of the Website and to provide and improve the Services. You can set your browser to notify you when you are sent a cookie. This gives you the chance to decide whether or not to accept it. If you disable cookies, you may not be able to take advantage of all the features of the Website. We do not link any of the information we use in cookies to any personally identifiable information submitted by you when you are on the Website.</li>
+  <p>
+Your IP address is reported by your web browser whenever you visit a page on the Website. This information is recorded together with your registration information on our databases.  </p>
+  <li><u>Advertisements</u>: Advertisements appearing on the Website may be delivered by us or one or more third-party web advertisers. These third party web advertisers may set cookies. These cookies allow the advertisement server operated by that third party to recognize your computer each time they send you an online advertisement. Accordingly, advertisement servers may compile information about where or whether you viewed their advertisements and which advertisements you clicked on. This information allows web advertisers to deliver targeted advertisements that they believe will be of most interest to you. The Privacy Policy applies to cookies placed on your computer by us, but does not cover the use of cookies by any third-party web advertisers. For the privacy practices of such third-party web advertisers, you should consult the applicable privacy policy for the relevant third-party web advertiser(s).</li>
+</ol>
+<p>
+If we plan to use your Personal Information in future for any other purposes not identified above, we will only do so after informing you by updating this Privacy Policy. See further the section of this Privacy Policy entitled ‘<em>Amendment of this Policy</em>’.</p>
+<p>
+<strong>Disclosures &amp; Transfers</strong>: We have put in place contractual and other organizational safeguards with our agents (see further below) to ensure a proper level of protection of your Personal Information (see further <em>Security</em> below). In addition to those measures, we will not disclose or transfer your Personal Information to third parties without your permission, except as specified in this Privacy Policy (see further <em>Important Exceptions</em> below).</p>
+<p>
+As at the date of this Privacy Policy, we share Personal Information about you in respect of the Website only with service providers and partners such as Vendors (as described above), with Equifax if you request a credit report, as well as website hosting, our advertising service providers, email marketing services, cloud service providers, and analytics providers. Our servers are also located in Canada and accordingly your Personal Information may be available to the Canadian government or its agencies under a lawful order, irrespective of the safeguards we have put in place for the protection of your Personal Information.</p>
+<p>
+From time to time we may employ third parties to help us improve the Website and/or the Services. These third parties may have limited access to databases of user information solely for the purpose of helping us to improve the Website and/or the Services and they will be subject to contractual restrictions prohibiting them from using the information about our members for any other purpose.</p>
+<p>
+<strong><em>Important Exceptions</em></strong>: We may disclose your Personal Information to third parties without your consent if we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be causing injury to or interference with (either intentionally or unintentionally) our rights or property, other Website members, other users of the Services, or anyone else (including the rights or property of anyone else) that could be harmed by such activities. We may disclose Personal Information when we believe in good faith that such disclosure is required by and in accordance with the law.</p>
+<p>
+We may also disclose your Personal Information in connection with a corporate re-organization, a merger or amalgamation with another entity, a sale of all or a substantial portion of our assets or stock, including any due diligence exercise carried out in relation to the same, provided that the information disclosed continues to be used for the purposes permitted by this Privacy Policy by the entity acquiring the information.</p>
+<p>
+<strong>Security</strong>: The security of your Personal Information is important to us. We use commercially reasonable efforts to store and maintain your Personal Information in a secure environment. We take technical, contractual, administrative, and physical security steps designed to protect Personal Information that you provide to us. We have implemented procedures designed to limit the dissemination of your Personal Information to only such designated staff as are reasonably necessary to carry out the stated purposes we have communicated to you.</p>
+<p>
+You are also responsible for helping to protect the security of your Personal Information. For instance, never give out your email account information or your password for the Services to third parties.</p>
+<p>
+<strong>Retention</strong>: We will keep your Personal Information for as long as it remains necessary for the identified purpose or as required by law, which may extend beyond the termination of our relationship with you. We may retain certain data as necessary to prevent fraud or future abuse, or for legitimate business purposes, such as analysis of aggregated, non-personally-identifiable data, account recovery, or if required by law. All retained personal information will remain subject to the terms of this Privacy Policy. If you request that your name be removed from our databases, it may not be possible to completely delete all your Personal Information due to technological and legal constraints.</p>
+<p>
+<strong>Amendment of this Policy</strong>: We reserve the right to change this Privacy Policy at any time. If we decide to change this Privacy Policy in the future, we will post an appropriate notice on the home page at www.ratehub.ca. Any non-material change (such as clarifications) to this Privacy Policy will become effective on the date the change is posted and any material changes will become effective 30 days from their posting on the Website. Unless stated otherwise, our current Privacy Policy applies to all Personal Information that we have about you. The date on which the latest update was made is indicated at the bottom of this document. We recommend that you print a copy of this Privacy Policy for your reference and revisit this policy from time to time to ensure you are aware of any changes. Your continued use of the Website signifies your acceptance of any changes.</p>
+<p>
+<strong>Access and Accuracy</strong>: You have the right to access the Personal Information we hold about you in order to verify the Personal Information we have collected in respect to you and to have a general account of our uses of that information. Upon receipt of your written request, we will provide you with a copy of your Personal Information although in certain limited circumstances, we may not be able to make all relevant information available to you such as where that information also pertains to another user. In such circumstances we will provide reasons for the denial to you upon request. We will endeavor to deal with all requests for access and modifications in a timely manner.</p>
+<p>
+We will make every reasonable effort to keep your Personal Information accurate and up-to-date, and we will provide you with mechanisms to update, correct, delete or add to your Personal Information as appropriate. As appropriate, this amended Personal Information will be transmitted to those parties to which we are permitted to disclose your information. Having accurate Personal Information about you enables us to give you the best possible service.</p>
+<p>
+<strong>Contact Us</strong>: You can help by keeping us informed of any changes such as a change of address or telephone number. If you would like to access your information, if you have any questions, comments or suggestions of if you find any errors in our information about you, please contact us at: admin@ratehub.ca.</p>
+          </div>
+        </div>
+    </main>
+    <div class="l-split-right">
+      <aside>
+            <div class="big-box">
+              <div id="big-box-1"></div>
+            </div>
+
+    <ul class="rh-panels rh-panels-large">
+    <li class="rh-panel collapsed">
+      <a class="title" href="/best-mortgage-rates" data-panel="collapse-next">
+<i class="fa fa-fw rh-rates"></i><span>Rates</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+    <ul class="rh-panels contents rh-panels-small">
+    <li class="rh-panel collapsed">
+      <a class="title" href="/best-mortgage-rates" data-panel="collapse-next">
+<span>Fixed Mortgage Rates</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/best-mortgage-rates/1-year/fixed"><i class="fa fa-fw fa-check"></i><span>1-Year Fixed Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/2-year/fixed"><i class="fa fa-fw fa-check"></i><span>2-Year Fixed Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/3-year/fixed"><i class="fa fa-fw fa-check"></i><span>3-Year Fixed Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/4-year/fixed"><i class="fa fa-fw fa-check"></i><span>4-Year Fixed Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/5-year/fixed"><i class="fa fa-fw fa-check"></i><span>5-Year Fixed Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/6-year/fixed"><i class="fa fa-fw fa-check"></i><span>6-Year Fixed Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/7-year/fixed"><i class="fa fa-fw fa-check"></i><span>7-Year Fixed Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/8-year/fixed"><i class="fa fa-fw fa-check"></i><span>8-Year Fixed Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/9-year/fixed"><i class="fa fa-fw fa-check"></i><span>9-Year Fixed Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/10-year/fixed"><i class="fa fa-fw fa-check"></i><span>10-Year Fixed Mortgage Rates</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" href="/best-mortgage-rates" data-panel="collapse-next">
+<span>Variable Mortgage Rates</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/best-mortgage-rates/heloc"><i class="fa fa-fw fa-check"></i><span>HELOC Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/3-year/variable"><i class="fa fa-fw fa-check"></i><span>3-Year Variable Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/best-mortgage-rates/5-year/variable"><i class="fa fa-fw fa-check"></i><span>5-Year Variable Mortgage Rates</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" href="/banks/bank-mortgage-rates" data-panel="collapse-next">
+<span>Bank Mortgage Rates</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/banks/ing-direct-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>ING Direct Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/banks/bank-of-montreal-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>Bank of Montreal Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/banks/td-bank-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>TD Bank Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/banks/national-bank-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>National Bank Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/banks/cibc-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>CIBC Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/banks/rbc-royal-bank-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>RBC Royal Bank Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/banks/pc-financial-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>PC Financial Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/banks/scotiabank-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>Scotiabank Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/banks/laurentian-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>Laurentian Mortgage Rates</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" href="/brokers/broker-mortgage-rates" data-panel="collapse-next">
+<span>Broker Mortgage Rates</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/brokers/centum-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>Centum Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/brokers/invis-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>Invis Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/brokers/safebridge-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>Safebridge Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/brokers/redpath-financial-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>RedPath Financial Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/brokers/canwise-financial-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>CanWise Financial Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/brokers/dlc-top-producers-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>Top Producers Dominion Lending Centres Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/brokers/safebridge-mortgage-rates"><i class="fa fa-fw fa-check"></i><span>Safebridge Verico Mortgage Rates</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" href="/mortgage-rate-history-canada" data-panel="collapse-next">
+<span>Mortgage Rate History</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/1-year-fixed-mortgage-rate-history"><i class="fa fa-fw fa-check"></i><span>1 Year Fixed Mortgage Rate History</span>
+                </a>
+              </li>
+              <li>
+                <a href="/3-year-fixed-mortgage-rate-history"><i class="fa fa-fw fa-check"></i><span>3 Year Fixed Mortgage Rate History</span>
+                </a>
+              </li>
+              <li>
+                <a href="/5-year-fixed-mortgage-rate-history"><i class="fa fa-fw fa-check"></i><span>5 Year Fixed Mortgage Rate History</span>
+                </a>
+              </li>
+              <li>
+                <a href="/10-year-fixed-mortgage-rate-history"><i class="fa fa-fw fa-check"></i><span>10 Year Fixed Mortgage Rate History</span>
+                </a>
+              </li>
+              <li>
+                <a href="/5-year-variable-mortgage-rate-history"><i class="fa fa-fw fa-check"></i><span>5 Year Variable Mortgage Rate History</span>
+                </a>
+              </li>
+              <li>
+                <a href="/prime-mortgage-rate-history"><i class="fa fa-fw fa-check"></i><span>Prime Mortgage Rate History</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" href="/mortgage-brokers-canada" data-panel="collapse-next">
+<i class="fa fa-fw rh-brokers"></i><span>Brokers</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+    <ul class="rh-panels contents rh-panels-small">
+    <li class="rh-panel collapsed">
+      <a class="title" href="/mortgage-brokers-canada" data-panel="collapse-next">
+<span>Brokers by Province</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/mortgage-brokers-ontario"><i class="fa fa-fw fa-check"></i><span>Ontario Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-british-columbia"><i class="fa fa-fw fa-check"></i><span>BC Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-alberta"><i class="fa fa-fw fa-check"></i><span>Alberta Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-quebec"><i class="fa fa-fw fa-check"></i><span>Quebec Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-saskatchewan"><i class="fa fa-fw fa-check"></i><span>Saskatchewan Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-manitoba"><i class="fa fa-fw fa-check"></i><span>Manitoba Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-new-brunswick"><i class="fa fa-fw fa-check"></i><span>New Brunswick Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-nova-scotia"><i class="fa fa-fw fa-check"></i><span>Nova Scotia Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-newfoundland"><i class="fa fa-fw fa-check"></i><span>Newfoundland Mortgage Brokers</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" data-panel="collapse-next">
+<span>Brokers by City</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/mortgage-brokers-toronto"><i class="fa fa-fw fa-check"></i><span>Toronto Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-calgary"><i class="fa fa-fw fa-check"></i><span>Calgary Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-mississauga"><i class="fa fa-fw fa-check"></i><span>Mississauga Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-edmonton"><i class="fa fa-fw fa-check"></i><span>Edmonton Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-montreal"><i class="fa fa-fw fa-check"></i><span>Montreal Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-vancouver"><i class="fa fa-fw fa-check"></i><span>Vancouver Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-kitchener"><i class="fa fa-fw fa-check"></i><span>Kitchener Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-ottawa"><i class="fa fa-fw fa-check"></i><span>Ottawa Mortgage Brokers</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-brokers-london"><i class="fa fa-fw fa-check"></i><span>London Mortgage Brokers</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" href="/mortgage-calculators" data-panel="collapse-next">
+<i class="fa fa-fw rh-calculator"></i><span>Calculators</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+    <ul class="rh-panels contents rh-panels-small">
+    <li class="rh-panel collapsed">
+      <a class="title" href="/mortgage-calculators" data-panel="collapse-next">
+<span>Home Buying Calculators</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/mortgage-payment-calculator"><i class="fa fa-fw fa-check"></i><span>Payment Calculator</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-affordability-calculator"><i class="fa fa-fw fa-check"></i><span>Affordability Calculator</span>
+                </a>
+              </li>
+              <li>
+                <a href="/land-transfer-tax"><i class="fa fa-fw fa-check"></i><span>Land Transfer Tax Calculator</span>
+                </a>
+              </li>
+              <li>
+                <a href="/cmhc-mortgage-insurance"><i class="fa fa-fw fa-check"></i><span>Mortgage Insurance Calculator</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" href="/mortgage-calculators" data-panel="collapse-next">
+<span>Refinancing Calculators</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/mortgage-refinance-calculator"><i class="fa fa-fw fa-check"></i><span>Refinance Calculator</span>
+                </a>
+              </li>
+              <li>
+                <a href="/penalty-calculator"><i class="fa fa-fw fa-check"></i><span>Penalty Calculator</span>
+                </a>
+              </li>
+              <li>
+                <a href="/debt-consolidation-calculator"><i class="fa fa-fw fa-check"></i><span>Debt Consolidation Calculator</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-refinance-equity"><i class="fa fa-fw fa-check"></i><span>Maximum Equity Refinance Calculator</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" data-panel="collapse-next">
+<i class="fa fa-fw fa-lightbulb-o"></i><span>Education</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+    <ul class="rh-panels contents rh-panels-small">
+    <li class="rh-panel collapsed">
+      <a class="title" data-panel="collapse-next">
+<span>Buying</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/how-much-can-i-afford"><i class="fa fa-fw fa-check"></i><span>How Much Can I Afford?</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-and-purchase-process"><i class="fa fa-fw fa-check"></i><span>Mortgage and Purchase Process</span>
+                </a>
+              </li>
+              <li>
+                <a href="/choosing-a-mortgage-rate"><i class="fa fa-fw fa-check"></i><span>Choosing a Mortgage Rates</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-payment"><i class="fa fa-fw fa-check"></i><span>Mortgage Payment</span>
+                </a>
+              </li>
+              <li>
+                <a href="/first-time-home-buyer"><i class="fa fa-fw fa-check"></i><span>First Time Home Buyer</span>
+                </a>
+              </li>
+              <li>
+                <a href="/closing-costs"><i class="fa fa-fw fa-check"></i><span>Closing Costs</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" data-panel="collapse-next">
+<span>Renewing</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/mortgage-renewal-process"><i class="fa fa-fw fa-check"></i><span>Mortgage Renewal Process</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-renewal-tips"><i class="fa fa-fw fa-check"></i><span>Mortgage Renewal Tips</span>
+                </a>
+              </li>
+              <li>
+                <a href="/early-mortgage-renewal"><i class="fa fa-fw fa-check"></i><span>Early Mortgage Renewal</span>
+                </a>
+              </li>
+              <li>
+                <a href="/mortgage-renewal-denied"><i class="fa fa-fw fa-check"></i><span>Mortgage Renewal Denied Situation</span>
+                </a>
+              </li>
+              <li>
+                <a href="/switching-providers"><i class="fa fa-fw fa-check"></i><span>Switching Providers</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" data-panel="collapse-next">
+<span>Refinancing</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/reasons-to-refinance"><i class="fa fa-fw fa-check"></i><span>Reasons to Refinance</span>
+                </a>
+              </li>
+              <li>
+                <a href="/methods-of-refinancing"><i class="fa fa-fw fa-check"></i><span>Methods of Refinancing</span>
+                </a>
+              </li>
+              <li>
+                <a href="/refinancing-costs"><i class="fa fa-fw fa-check"></i><span>Costs of Refinancing</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" data-panel="collapse-next">
+<span>Special Mortgages</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/bad-credit-mortgages"><i class="fa fa-fw fa-check"></i><span>Bad Credit</span>
+                </a>
+              </li>
+              <li>
+                <a href="/condo-guide"><i class="fa fa-fw fa-check"></i><span>Condos</span>
+                </a>
+              </li>
+              <li>
+                <a href="/new-to-canada-mortgage"><i class="fa fa-fw fa-check"></i><span>New to Canada</span>
+                </a>
+              </li>
+              <li>
+                <a href="/investment-property"><i class="fa fa-fw fa-check"></i><span>Investment Properties</span>
+                </a>
+              </li>
+              <li>
+                <a href="/second-mortgage-canada"><i class="fa fa-fw fa-check"></i><span>Second Mortgages</span>
+                </a>
+              </li>
+              <li>
+                <a href="/private-mortgage-loans"><i class="fa fa-fw fa-check"></i><span>Private Mortgages</span>
+                </a>
+              </li>
+              <li>
+                <a href="/self-employed-mortgage"><i class="fa fa-fw fa-check"></i><span>Self-employed Mortgages</span>
+                </a>
+              </li>
+              <li>
+                <a href="/bridge-financing"><i class="fa fa-fw fa-check"></i><span>Bridge Financing</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" data-panel="collapse-next">
+<span>Glossary</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/glossary"><i class="fa fa-fw fa-check"></i><span>All Terms</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" data-panel="collapse-next">
+<i class="fa fa-fw fa-plus-circle"></i><span>More</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+    <ul class="rh-panels contents rh-panels-small">
+    <li class="rh-panel collapsed">
+      <a class="title" data-panel="collapse-next">
+<span>Company</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/blog"><i class="fa fa-fw fa-check"></i><span>Blog</span>
+                </a>
+              </li>
+              <li>
+                <a href="/ratehub-widgets"><i class="fa fa-fw fa-check"></i><span>RateHub Widgets</span>
+                </a>
+              </li>
+              <li>
+                <a href="/about-ratehub"><i class="fa fa-fw fa-check"></i><span>About Us</span>
+                </a>
+              </li>
+              <li>
+                <a href="/contact-ratehub"><i class="fa fa-fw fa-check"></i><span>Contact Us</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    <li class="rh-panel collapsed">
+      <a class="title" data-panel="collapse-next">
+<span>Press</span><i class="fa fa-fw fa-chevron-up"></i><i class="fa fa-fw fa-chevron-down"></i>      </a>
+          <ul class="contents rh-check-list">
+              <li>
+                <a href="/press-centre"><i class="fa fa-fw fa-check"></i><span>Press Centre</span>
+                </a>
+              </li>
+              <li>
+                <a href="/team-bios"><i class="fa fa-fw fa-check"></i><span>Team Bios</span>
+                </a>
+              </li>
+              <li>
+                <a href="/logo"><i class="fa fa-fw fa-check"></i><span>Logo Download</span>
+                </a>
+              </li>
+              <li>
+                <a href="/miscellaneous-images"><i class="fa fa-fw fa-check"></i><span>Screenshots and Infographics</span>
+                </a>
+              </li>
+          </ul>
+    </li>
+    </ul>
+    </li>
+    </ul>
+
+
+  <div class="rh-subscribe">
+    <div class="content">
+  <div style="padding: 1em 1em 0 1em;">
+    <p style="margin: 1.5em auto 0 auto;">
+      <span style="color: #A2C139; font-size: 4.5em; letter-spacing: -0.05em;">
+500,000      </span>
+      <br>
+      <span style="color: #56ACC2; font-size: 1.9em;">
+Canadians a month      </span>
+    </p>
+    <p style="margin:0.3em auto 1em auto; text-transform: uppercase; font-size: 0.8em;">
+Save money and make better financial decisions using RateHub.ca    </p>
+  </div>
+    </div>
+    <div class="subscribe">
+      <div class="title">
+Join our weekly newsletter for tips, news and deals!      </div>
+      <form class="subscribe-newsletter" name="form" id="subscribe_newsletter" novalidate="" ng-submit="submitForm()"><input class="rh-input" type="email" placeholder="youremail@address.com"><button class="rh-button" type="submit">
+Submit      </button>
+      </form>
+      <div class="disclaimer">
+By submitting your email address, you are agreeing to RateHub.ca's 
+<a href="http://www.ratehub.ca/privacy" target="_blank">Privacy Policy</a> and <a href="http://www.ratehub.ca/terms" target="_blank">Terms and Conditions</a>      </div>
+    </div>
+  </div>
+
+            <div class="big-box">
+              <div id="big-box-2"></div>
+            </div>
+      </aside>
+    </div>
+  </div>
+      </div>
+  <footer>
+      <div class="leaderboard">
+        <div id="leaderboard-2"></div>
+      </div>
+  <div class="rh-stub direction-up is-open" id="footer_stub">
+    <a class="stub">
+      <span class="closed">
+        <span>
+Popular Content        </span>
+      </span>
+      <span class="open">
+        <span>
+Popular Content        </span>
+      </span>
+    </a>
+  </div>
+
+<div id="popular_content"><ul><li>
+  <span>Credit Cards</span>
+  <ul>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards">
+Canadian Credit Cards      </a>
+    </li>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/best-credit-cards">
+Best Credit Cards Canada       </a>
+    </li>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/travel">
+Best Travel Credit Cards      </a>
+    </li>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/rewards">
+Best Rewards Credit Cards      </a>
+    </li>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/aeroplan-miles">
+Best Aeroplan Credit Cards      </a>
+    </li>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/air-miles">
+Best Air Miles Credit Cards						      </a>
+    </li>
+  </ul>
+</li><li>
+  <span>Best Credit Cards</span>
+  <ul>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/card/bmo-cashback-mastercard">
+BMO CashBack MasterCard      </a>
+    </li>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/card/mbna-rewards-world-elite">
+MBNA Rewards World Elite      </a>
+    </li>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/card/tangerine-money-back-credit-card">
+Tangerine Money-Back Card      </a>
+    </li>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/card/bmo-world-elite-mastercard">
+BMO World Elite MasterCard      </a>
+    </li>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/card/trueline-mastercard">
+TrueLine MasterCard      </a>
+    </li>
+    <li>
+      <a href="http://www.ratehub.ca/credit-cards/card/the-new-simply-cash-card-from-american-express">
+SimplyCash by American Express      </a>
+    </li>
+  </ul>
+</li><li>
+  <span>Mortgage Rates by City</span>
+  <ul>
+    <li>
+      <a href="/mortgage-rates-toronto">
+Toronto Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/mortgage-rates-montreal">
+Montreal Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/mortgage-rates-vancouver">
+Vancouver Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/mortgage-rates-calgary">
+Calgary Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/mortgage-rates-edmonton">
+Edmonton Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/mortgage-rates-ottawa">
+Ottawa Mortgage Rates      </a>
+    </li>
+  </ul>
+</li><li>
+  <span>Mortgage Rates by Type</span>
+  <ul>
+    <li>
+      <a href="/best-mortgage-rates/5-year/fixed">
+5-Year Fixed Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/best-mortgage-rates/5-year/variable">
+5-Year Variable Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/best-mortgage-rates/3-year/fixed">
+3-Year Fixed Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/best-mortgage-rates/3-year/variable">
+3-Year Variable Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/best-mortgage-rates/10-year/fixed">
+10-Year Fixed Mortgage Rates      </a>
+    </li>
+  </ul>
+</li><li>
+  <span>Brokers by Province</span>
+  <ul>
+    <li>
+      <a href="/mortgage-brokers-ontario">
+Ontario Mortgage Brokers      </a>
+    </li>
+    <li>
+      <a href="/mortgage-brokers-quebec">
+Quebec Mortgage Brokers      </a>
+    </li>
+    <li>
+      <a href="/mortgage-brokers-british-columbia">
+BC Mortgage Brokers      </a>
+    </li>
+    <li>
+      <a href="/mortgage-brokers-alberta">
+Alberta Mortgage Brokers      </a>
+    </li>
+    <li>
+      <a href="/mortgage-brokers-manitoba">
+Manitoba Mortgage Brokers      </a>
+    </li>
+    <li>
+      <a href="/mortgage-brokers-nova-scotia">
+Nova Scotia Mortgage Brokers      </a>
+    </li>
+  </ul>
+</li><li>
+  <span>Mortgage Rates by Bank</span>
+  <ul>
+    <li>
+      <a href="/banks/td-bank-mortgage-rates">
+TD Bank Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/banks/cibc-mortgage-rates">
+CIBC Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/banks/bank-of-montreal-mortgage-rates">
+Bank of Montreal Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/banks/scotiabank-mortgage-rates">
+Scotiabank Mortgage Rates      </a>
+    </li>
+    <li>
+      <a href="/banks/tangerine-mortgage-rates">
+Tangerine Mortgage Rates      </a>
+    </li>
+  </ul>
+</li><li>
+  <span>Mortgage Calculators</span>
+  <ul>
+    <li>
+      <a href="/mortgage-payment-calculator">
+Mortgage Payment Calculator      </a>
+    </li>
+    <li>
+      <a href="/mortgage-affordability-calculator">
+Home Affordability Calculator      </a>
+    </li>
+    <li>
+      <a href="/cmhc-mortgage-insurance">
+CMHC Insurance Calculator      </a>
+    </li>
+    <li>
+      <a href="/land-transfer-tax">
+Land Transfer Tax Calculator      </a>
+    </li>
+    <li>
+      <a href="/mortgage-refinance-calculator">
+Mortgage Refinance Calculator      </a>
+    </li>
+    <li>
+      <a href="/penalty-calculator">
+Mortgage Penalty Calculator      </a>
+    </li>
+  </ul>
+</li><li>
+  <span>Education Centre</span>
+  <ul>
+    <li>
+      <a href="/variable-or-fixed-mortgage">
+Variable vs. Fixed Rates      </a>
+    </li>
+    <li>
+      <a href="/mortgage-term-vs-amortization">
+Term vs. Amortization      </a>
+    </li>
+    <li>
+      <a href="/mortgage-pre-payment">
+Prepayment Options      </a>
+    </li>
+    <li>
+      <a href="/bank-vs-mortgage-broker">
+Bank vs. Mortgage Broker      </a>
+    </li>
+    <li>
+      <a href="/mortgage-down-payment">
+Down Payment Basics      </a>
+    </li>
+  </ul>
+</li></ul></div>
+<div id="site_links">
+  <ul><li>
+    <span>Company</span>
+    <ul>
+      <li>
+        <a href="/about-ratehub">About Us</a>
+      </li>
+      <li>
+        <a href="/team-bios">Meet the Team</a>
+      </li>
+      <li>
+        <a href="/contact-ratehub">Contact Us</a>
+      </li>
+      <li>
+        <a href="/press-centre">Press Centre</a>
+      </li>
+    </ul>
+  </li><li>
+    <span>Legal</span>
+    <ul>
+      <li>
+        <a href="/logo">Logo Usage</a>
+      </li>
+      <li>
+        <a href="/disclaimer">Disclaimer</a>
+      </li>
+      <li>
+        <a href="/terms">Terms of Use</a>
+      </li>
+      <li>
+        <a href="/privacy">Privacy Policy</a>
+      </li>
+    </ul>
+  </li><li>
+    <span>Community</span>
+    <ul>
+      <li>
+        <a href="/broker-login">Broker Login</a>
+      </li>
+      <li>
+        <a href="/affiliate-login">Affiliate Login</a>
+      </li>
+      <li>
+        <a href="/mortgage-blog">Blog</a>
+      </li>
+      <li>
+        <a href="/ratehub-widgets">Widgets</a>
+      </li>
+    </ul>
+  </li><li>
+    <span>Social</span>
+    <ul>
+      <li>
+        <a href="https://www.facebook.com/RateHub"><span class="fa-stack">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-facebook fa-stack-1x"></i>
+        </span>Facebook        </a>
+      </li>
+      <li>
+        <a href="https://twitter.com/RateHub"><span class="fa-stack">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-twitter fa-stack-1x"></i>
+        </span>Twitter        </a>
+      </li>
+      <li>
+        <a href="http://www.linkedin.com/company/ratehub-ca"><span class="fa-stack">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-linkedin fa-stack-1x"></i>
+        </span>LinkedIn        </a>
+      </li>
+      <li>
+        <a href="https://plus.google.com/+RatehubCanada/posts"><span class="fa-stack">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-google-plus fa-stack-1x"></i>
+        </span>Google+        </a>
+      </li>
+      <li>
+        <a href="https://www.youtube.com/user/RateHub"><span class="fa-stack">
+          <i class="fa fa-circle fa-stack-2x"></i>
+          <i class="fa fa-youtube fa-stack-1x"></i>
+        </span>YouTube        </a>
+      </li>
+    </ul>
+  </li><li>
+    <span>Contact Information</span>
+    <ul>
+      <li>
+        <a href="mailto:admin@ratehub.ca">admin@ratehub.ca</a>
+      </li>
+      <li>
+        <address style="font-style:normal;">
+411 Richmond Street East          <br>
+Suite 208          <br>
+Toronto, ON M5A 3S5        </address>
+      </li>
+      <li>
+1 (800) 679-9622      </li>
+    </ul>
+  </li></ul>
+  <span class="fa rh-logo"></span>
+</div>
+  </footer>
+    <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+  <script type="text/javascript">
+window.ratehub = {"serverUri":"https:\/\/www.ratehub.ca","requestPath":"\/privacy","displayVersion":2,"isWidget":false,"analytics":{"key":"UA-17477445-1"},"ads":{"tags":{"leaderboard-1":["\/57452754\/RH_ROS_728x90_Top_ATF",[728,90],"leaderboard-1"],"mobile-leaderboard-1":["\/57452754\/RH_ROS_320x50_ATF",[320,50],"mobile-leaderboard-1"],"big-box-1":["\/57452754\/RH_ROS_300x250_ATF",[300,250],"big-box-1"],"big-box-2":["\/57452754\/RH_ROS_300x250_BTF",[[300,250],[300,600]],"big-box-2"],"leaderboard-all-rates":["\/57452754\/RateHub_MortgageRates_728x90_Chart",[728,90],"leaderboard-all-rates"],"mobile-leaderboard-chart":["\/57452754\/RH_320x50_Chart",[320,50],"mobile-leaderboard-chart"],"big-box-content":["\/57452754\/RH_ROS_300x250_Content",[300,250],"big-box-content"],"big-box-content-2":["\/57452754\/RH_ROS_300x250_Content_2",[300,250],"big-box-content-2"],"leaderboard-content":["\/57452754\/RH_ROS_728x90_Content",[728,90],"leaderboard-content"],"leaderboard-content-2":["\/57452754\/RH_ROS_728x90_Content_2",[728,90],"leaderboard-content-2"],"mobile-leaderboard-content":["\/57452754\/RH_320x50_Content",[320,50],"mobile-leaderboard-content"],"mobile-leaderboard-content-2":["\/57452754\/RH_320x50_Content_2",[320,50],"mobile-leaderboard-content-2"],"leaderboard-2":["\/57452754\/RH_ROS_728x90_Bottom_BTF",[728,90],"leaderboard-2"],"mobile-leaderboard-2":["\/57452754\/RH_ROS_320x50_BTF",[320,50],"mobile-leaderboard-2"],"skin":["\/57452754\/RH_ROS_SKIN_1x1",[[1,1],[1000,1000]],"skin"]},"targeting":{"section":["mortgages"]}},"features":{"sumome":true,"zopim":false},"user":{"browser":{"mobile":false},"location":{"id":4190,"name":"Toronto","slug":"toronto","status":"default","province":{"code":"ON","full_name":"Ontario","common_name":"Ontario","sort_order":5,"slug":"ontario","timezone":"America\/Toronto","principal_city":{"id":4190,"name":"Toronto","slug":"toronto","status":"default","province":[],"latitude":43.66669845581,"longitude":-79.416702270508}},"latitude":43.66669845581,"longitude":-79.416702270508},"language":"en","aff_info":null,"logged_in":true,"auto_save_data":[]},"strings":{"messages":{"close":"Close","thank-you-title":"Thank you!"}}};  </script>
+    <script type="text/javascript" src="/assets/js/app.js?v=c2f3ed48"></script>
+    <script type="text/javascript" src="/assets/js/controls.js?v=c714b797"></script>
+  <script type="text/javascript">
+rh.Control.init();
+  </script>
+  <div id="hidden" style="display:none;">
+      <div id="skin"></div>
+  </div>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"01f43ed725","applicationID":"11263150","transactionName":"blNXYxdYX0FXBkRfW1cZdkIWTV5fGQFVUFVMWkEaCVhIXUMRH1JRX1dAWxEUXVNPCkVC","queueTime":2,"applicationTime":112,"atts":"QhRUFV9CTE8=","errorBeacon":"bam.nr-data.net","agent":""}</script>  <script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
+</body></html>
