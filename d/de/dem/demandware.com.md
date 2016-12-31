@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602095648id_/http%3A//www.demandware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandware.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231114932id_/http%3A//www.demandware.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Commerce Cloud Services | Demandware, Inc.
 
@@ -8,7 +8,7 @@ The following policy describes the privacy practices for Demandware, Inc. and it
 
 [We self-certify compliance with:](https://safeharbor.export.gov/list.aspx)
 
-[](http://www.export.gov/safeharbor)[](https://privacy.truste.com/privacy-seal/Demandware-Inc-/validation?rid=66ffd56c-16bb-41e6-b3d2-785d6d93dc0d "TRUSTe European Safe Harbor certification")
+[](http://www.export.gov/safeharbor)[](https://privacy.truste.com/privacy-seal/Demandware-Inc-/validation?rid=66ffd56c-16bb-41e6-b3d2-785d6d93dc0d "TRUSTe Privacy Certification")
 
 Demandware respects the privacy of our customers, partners, employees, web site visitors, and job applicants. We believe it is important for you to understand the type of information we collect about you and how that information is used. We recognize the need for appropriate safeguards and management of personal information you provide to us or that we gather from your visit ("Personal Information"). This Privacy Policy sets forth the privacy principles Demandware follows with respect to your Personal Information.
 
