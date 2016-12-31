@@ -1,93 +1,65 @@
-> *The following text is extracted and transformed from the biggerrandbetter.com privacy policy that was archived on 2015-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151108094855id_/http%3A//www.mobilelikez.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggerrandbetter.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231154747id_/http%3A//www.nbcuniversal.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Mobile Likes
+# Home & Summary | NBCUniversal
 
-This web site is owned and managed by WLK Holdings Pty Ltd. 
+## Home & Summary
 
-To reach us via e-mail, you can email talktous@wlkholdings.com 
+Last Updated: 19 October 2016
 
-This privacy policy sets out how mobilelikez.com uses and protects any information that you mobilelikez.com when you use this website. 
+In this privacy policy:
 
-mobilelikez.com is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. 
+  * We’ve summarized our privacy policy terms so you can find what you need quickly;
+  * We’ve designed one privacy policy to apply across many NBCUniversal online services;
+  * We’ve added more detail about the personal information we use and collect, including through mobile apps;
+  * We explain how we share information with the companies in the NBCUniversal group.
 
-By using mobilelikez.com, you signify your agreement to our privacy policy as stated above. Note that this policy may be revised periodically without notice. Please re-read this policy prior to submitting any personal information if you have concerns about how your information is being collected and used. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Sunday 7th July 2013. 
 
-What we collect 
 
-We may collect the following information: 
+Highlights of most recent changes – December 2015
 
-– e-mail addresses users who post messages to our forum  
-– e-mail addresses users and visitors who communicate with us via e-mail  
-– e-mail addresses of those who make postings to our chat areas or any public areas where users or visitors can supply content  
-– contact information including email address  
-– demographic information such as postcode, preferences and interests  
-– other information relevant to customer surveys and/or offers  
-– IP Address 
+### Privacy at NBCUniversal
 
-Our web-server also records IP addresses from all visitors to our site. An IP address is a number that is automatically assigned to your computer when you use the Internet. We use IP addresses to help diagnose problems with our server, to administer our site, to analyze trends, to track user movement, and to gather broad demographic information all for the purpose of continually improving our website and delivering personalized, custom content. IP addresses are not linked to personally identifiable information, and their collection is standard procedure in most web-server environments. 
+At NBCUniversal, we respect personal information and take seriously our privacy obligations. This website describes NBCUniversal’s approach to privacy for the NBCUniversal websites and mobile applications that link to this page (“online services”).  We are committed to handling personal information in compliance with the specific provisions of applicable privacy laws worldwide.
 
-What we do with the information we gather 
+### Summary
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:  
-Internal record keeping.  
-We may use the information to improve our products and services.  
-We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.  
-From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.  
-We may collect information to improve our Web site’s content and to notify consumers about our site’s updates.  
-Security 
+**What information do we collect and how is it used?**
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+NBCUniversal may collect the following information:(1) information you provide actively (e.g. through forms, surveys, or similar interactive features on the online services); (2) information from the device that you use to access the online services; (3) information about your use of the online services, including video viewing, which may be collected through [cookies/ tracking technologies](https://web.archive.org/privacy/cookies/) and/or (4) information from third parties.
 
-How we use cookies 
+**How do we share information?**
 
-A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
+You understand and agree that NBCUniversal may share information we collect as follows:
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
+  * Within NBCUniversal and with third party suppliers, in order to provide you with the online services;
+  * With other third parties (e.g., law enforcement agencies) where required by law or where required as a part of a corporate transaction (e.g., if a company is sold);
+  * With third parties for marketing and advertising purposes (this may vary across different countries or states in accordance with law). California residents can access a list of these third parties.
+  * With companies in the NBCUniversal family, in order to cross-promote NBCUniversal services or for research purposes. You have choices about this.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. 
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
 
-Links to other websites 
+**How is information protected?**
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
+We provide physical, electronic, and procedural safeguards to protect information. Please be aware that, although we endeavor to provide reasonable security for information we process and maintain, no security system can prevent all potential security breaches.
 
-Controlling your personal information 
+**Where is information processed?**
 
-Personal information collected may be transferred and shared in the event of a sale of mobilelikez.com 
+NBCUniversal is a global company with headquarters in the United States. Information may be processed in the United States, as well as at various locations globally.
 
-You may choose to restrict the collection or use of your personal information in the following ways: 
+**Children and Privacy**
 
-– Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes where such a box is available  
-– If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at talktous@wlkholdings.com  
-– Members can edit their personal information by clicking on My Profile/ Options located in the upper right corner of each page.  
-– Registrants can un-register by writing to talktous@wlkholdings.com. Once you have established a member account with us, you can opt-out of future promotional mailings by clicking on My Profile/ Options and changing your settings.  
-– We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.  
-– You may request details of personal information which we hold about you under the Data Protection Act 1998. If you would like a copy of the information held on you please write to talktous@wlkholdings.com. 
+Except where otherwise indicated, we do not knowingly collect or store any personal information from children under the age of 13. We use an age-gate to make certain features unavailable for use by children under 13, and we do not knowingly collect personal information from children under 13 in connection with those features. If a parent or guardian becomes aware that his or her child under 13 has provided us with information without his or her consent, he or she should contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com). As required by law, we will delete such information from our files within a reasonable time.
 
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
+**Your rights and choices**
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at talktous@wlkholdings.com. 
+NBCUniversal provides online service users with access to and choices about their information as required by law. This includes rights to unsubscribe from marketing, opt out of targeted advertising and revoke permissions previously provided (e.g. you may revoke permissions to have a mobile app use your current location). Some online services may not be available or there may be impact on functionality when you make these choices.
 
-At mobilelikez.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by mobilelikez.com and how it is used. 
+**Tracking/Cookies and Ads**
 
-Log Files  
-Like many other Web sites, mobilelikez.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+We may use the information we collect about your use of online services from your browsing behavior to provide you with online advertisements that might be relevant to you. You can opt out of this “targeted advertising”. The effect of opting out is controlled by third parties; they may still collect your usage information for analytic, research or internal operations purposes.
 
-Cookies and Web Beacons  
-mobilelikez.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+Cookies/ tracking technologies are used on some of our online services to serve ads, perform analytics, and make the online services as interesting as possible to you. By using our online services you are consenting to the use of these cookies/tracking technologies but you do have choices about cookies/tracking technologies.  Some online services may not be available or there may be impact on functionality when you make these [choices](https://web.archive.org/privacy/cookies/#your_cookie_choices_and_how_to_opt_out).
 
-DoubleClick DART Cookie  
-.:: Google, as a third party vendor, uses cookies to serve ads on mobilelikez.com.  
-.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to mobilelikez.com and other sites on the Internet.  
-.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html 
+**Contact us**
 
-Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
-Google Adsense  
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on mobilelikez.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
-
-mobilelikez.com has no access to or control over these cookies that are used by third-party advertisers. 
-
-You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. mobilelikez.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
-
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites. 
+If you have questions about the privacy practices of our online services, please contact us at [privacy@nbcuni.com](mailto:privacy@nbcuni.com).  Please include specific information about the online service you are using and your question so we can respond as soon as possible.
