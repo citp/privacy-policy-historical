@@ -1,14 +1,18 @@
-> *The following text is extracted and transformed from the buzztache.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630155132id_/http%3A//buzztache.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzztache.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231195808id_/http%3A//buzztache.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Buzztache
+# Privacy Policy | Buzztache
 
-This privacy policy sets out how Buzztache.com uses and protects any information that you give us when you use this website. Buzztache is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement. Buzztache may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Aug 6, 2015.
+This privacy policy sets out how Buzztache.com uses and protects any information that you give us when you use this website. Buzztache is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, you can be assured that it will only be used in accordance with this privacy statement. Buzztache may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Aug 6, 2015.  
+
 
 ### What we collect
 
 We may ask to collect the following information:
 
+  
+
   * E-mail address (for use to send you the daily Buzztache newsletter, which you can unsubscribe from at any time)
+  
 
 
 
@@ -28,11 +32,24 @@ You may opt out of Google’s use of cookies by visiting Google’s [Ads Settin
 
 ### Third Party Vendors
 
-  * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
-  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Buzztache and/or other sites on the Internet.
-  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting [Ads Settings](http://www.google.com/ads/preferences/).
-  * Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads.
+  
 
+
+  
+
+  * Third party vendors, including Google, use cookies to serve ads based on a your prior web site visits.
+  
+
+  * Google’s use of the DoubleClick cookie enables it and its partners to serve ads to you based on your visits to Buzztache and/or other sites on the Internet.
+  
+
+  * You may opt out of the use of the DoubleClick cookie for interest-based advertising by visiting�[Ads Settings](http://www.google.com/ads/preferences/).
+  
+
+  * Third parties may use cookies, web beacons, and similar technologies to collect or receive information from your website and elsewhere on the internet and use that information to provide measurement services and target ads.
+  
+
+  
 
 
 ### Links to other websites
