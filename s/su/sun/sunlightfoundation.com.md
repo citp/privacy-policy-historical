@@ -1,16 +1,16 @@
-> *The following text is extracted and transformed from the sunlightfoundation.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624095014id_/http%3A//sunlightfoundation.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sunlightfoundation.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231192404id_/http%3A//sunlightfoundation.com/legal/privacy) for the most accurate reproduction.*
 
-# Sunlight Foundation
+# Privacy Policy : Sunlight Foundation
 
 ## Privacy Policy
 
-The Sunlight Foundation values your privacy. When you trust us with your personal information, we take that responsibility seriously. Here’s what we hope is a readable summary of the most important parts of our Terms of Service and Privacy Policy: 
+The Sunlight Foundation values your privacy. When you trust us with your personal information, we take that responsibility seriously. Here’s what we hope is a readable summary of the most important parts of our Terms of Service and Privacy Policy:
 
   * We will never sell, rent, share or distribute your personal information without your permission.
   * We only collect and store your personal information for login purposes and in order to stay in touch with you.
   * You can remove yourself from our systems whenever you want. 
   * We collect analytics about how people use our tools. We use that information to improve them, and we sometimes share it with reporters, funders and others. But we only share that information at an aggregate level; we never share information about individual users.
-  * If you use our APIs, we would like your permission to talk about it--this helps us secure the resources necessary to keep them going. If you don’t like the sound of this, you can opt out of it when you sign up for an API key.
+  * If you use our APIs, we would like your permission to talk about it–this helps us secure the resources necessary to keep them going. If you don’t like the sound of this, you can opt out of it when you sign up for an API key.
 
 
 
