@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2015-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151219152321id_/http%3A//www.miniclip.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miniclip.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231140835id_/http%3A//miniclip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Miniclip, Play Games
 
@@ -80,6 +80,6 @@ This Privacy Policy is part of Miniclip's Terms and Conditions to which you agre
 
 Miniclip recommends that parents take time to communicate and educate their children about Internet Safety. Please see the Miniclip Internet Safety webpage for information on Internet Safety: <http://www.miniclip.com/games/page/en/internet-safety/>
 
-Advertisement 피드백
+Advertisement Feedback
 
-[ 멀티플레이어 ](https://web.archive.org/games/genre-2/multiplayer/kr/#t-w-c "More 멀티플레이어 Games")
+[ Multiplayer ](https://web.archive.org/games/genre-2/multiplayer/en/#t-w-c "More Multiplayer Games")
