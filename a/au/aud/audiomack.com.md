@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiomack.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401001304id_/http%3A//www.audiomack.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiomack.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231043752id_/http%3A//www.audiomack.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Audiomack
 
@@ -85,6 +85,26 @@ Information about your subscription tier (Gold, Platinum) if applicable;
 To show you relevant ads on behalf of advertisers and/or sponsors, which may include location and sensor data, along with demographic data you make available to us or through connected third party services, recent search history, and behavior with content, ads, or other users on the Platform;
 
 To provide you with a customized experience on the Platform.
+
+## 4 - How we share your information
+
+Information about you or your activity on the Platform may be shared in two ways: the first is information you share via your public profile on the Platform is publicly visible to other users of the Platform and thus is shared and the second is data and information Audiomack collects on you (as described in section two above) that Audiomack may in their sole discretion share with reputable third parties in hopes of enhancing the Platform, its analytics and services.
+
+Information you share via your use of the Platform:
+
+Any information you provide in your public profile (username, name, location, social media feeds) and/or use of the Platform (plays, favorites, following, re-ups, playlists) is public and may be seen by other users on the Platform or by Audiomack administrators.
+
+Information we share:
+
+Audiomack uses several reputable third party partners and services, based in the U.S., to enhance the functionality, reliability, utility, and profitability of the Platform and to provide certain specialized services for our administrators and users. Some examples of services Audiomack routinely works with are Localytics, Crashlytics, and other mobile analytics and data solutions. In order to work with said services, Audiomack will share certain user information, _but will only do so when necessary._ Although Audiomack is not responsible for the Privacy Policy or Data Security of said third party services, we emphasize data security and integrity as a top priority when selecting services to work with.
+
+Audiomack uses aggregate and de-indentified user data to perform platform-scale analysis, optimizations, and advertisement targeting and retargeting. This data may be shared with third parties, but only once any personally identifiable information (email address, name) has been removed or hashed.
+
+Audiomack will disclose your personal information in any case where it is necessary to do so to comply with a criminal complaint, subpoena, court order, or legitimate law enforcement inquiry.
+
+Audiomack may disclose your personal information if we feel it is necessary to do so to protect our intellectual property, rights, business interests, or the safety or reliability of our platform, users, employees, or stakeholders.
+
+Audiomack may transfer your information to any person or party that acquires all or a substantial portion of our company or assets, or in the case of a merger, acquisition, or if the company becomes insolvent.
 
 ## 5 - How we use cookies and technology
 
