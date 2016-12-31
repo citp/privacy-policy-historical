@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icicibank.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630202518id_/http%3A//www.icicibank.com/privacy.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icicibank.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231121731id_/https%3A//www.icicibank.com/privacy.page) for the most accurate reproduction.*
 
 # Privacy Commitment | ICICI Bank
 
-In the course of using this website or availing the products and services vide the online application forms and questionnaires, ICICI Bank and its Affiliates may become privy to the personal information of its customers, including information that is of a confidential nature.
+In the course of using this website, mobile applications or its custom extensions or availing the products and services vide the online application forms and questionnaires, ICICI Bank and its Affiliates may become privy to the personal information of its customers, including information that is of a confidential nature.
 
 ICICI Bank is strongly committed to protecting the privacy of its customers and has taken all necessary and reasonable measures to protect the confidentiality of the customer information and its transmission through the world wide web and it shall not be held liable for disclosure of the confidential information when in accordance with this privacy Commitment or in terms of the agreements, if any, with the Customers.
 
