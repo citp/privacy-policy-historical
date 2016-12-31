@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ucoz.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630094115id_/http%3A//www.ucoz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ucoz.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231120929id_/http%3A//www.ucoz.com/privacy) for the most accurate reproduction.*
 
 # uCoz - Privacy Policy
 
