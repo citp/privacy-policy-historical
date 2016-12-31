@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nicershoes.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507014947id_/http%3A//nicershoes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nicershoes.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231111824id_/http%3A//nicershoes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy at NicerShoes.Com
 
@@ -20,14 +20,6 @@ Nicershoes.com does use cookies to store information about visitors preferences
 
 Nicershoes.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com.
 
-**DoubleClick DART Cookie**
-
-  * Google, as a third party vendor, uses cookies to serve ads on nicershoes.com.
-  * Google’s use of the DART cookie enables it to serve ads to users based on their visit to nicershoes.com and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
-
-
-
 Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include:
 
   * Google Adsense
@@ -45,7 +37,6 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-If you have any questions contact us [here](http://nicershoes.com/contact-us/).  
-  
-  
+If you have any questions contact us [here](http://nicershoes.com/contact-us/).
 
+## __Subscribe to our Newsletter
