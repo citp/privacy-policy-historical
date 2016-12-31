@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the atlassian.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616052212id_/https%3A//www.atlassian.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atlassian.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231010021id_/https%3A//www.atlassian.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Atlassian
 
-_Effective starting: June 23, 2015_  ([view archived versions](https://www.atlassian.com/legal/archives/))
+_Effective starting: December 14, 2016_  ([view archived versions](https://www.atlassian.com/legal/archives/))
 
 ## Introduction
 
@@ -184,7 +184,7 @@ Where Downloadable Products are used, responsibility of securing access to the d
 
 You may opt out of receiving promotional communications from Atlassian by using the unsubscribe link within each email, updating your email preferences at my.atlassian.com or within your Atlassian Service account settings menu, or emailing us to have your contact information removed from our promotional email list or registration database. Although opt-out requests are usually processed immediately, please allow ten (10) business days for a removal request to be processed. Even after you opt out from receiving promotional messages from us, you will continue to receive transactional messages from us regarding Atlassian's Services. You can opt-out of some notification messages in your account settings.
 
-You may be able to opt out of receiving personalized advertisements from companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising. For more information about this practice and to understand your options, please visit: [http://www.aboutads.info](http://www.aboutads.info/) and <http://www.networkadvertising.org/choices/>. You may also use TRUSTe's Preference Manager at [http://preferences-mgr.truste.com](http://preferences-mgr.truste.com/).
+You may be able to opt out of receiving personalized advertisements from companies who are members of the Network Advertising Initiative or who subscribe to the Digital Advertising Alliance's Self-Regulatory Principles for Online Behavioral Advertising. For more information about this practice and to understand your options, please visit: [http://www.aboutads.info](http://www.aboutads.info/) and <http://www.networkadvertising.org/choices/>. 
 
 ## Accessing and updating your information
 
@@ -206,18 +206,6 @@ If you are visiting from the European Union or other regions with laws governing
 
 ## HipChat-specific certifications
 
-**TRUSTe Privacy Certification for HipChat** :
-
-Atlassian's SaaS Product named HipChat ("HipChat") has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking on the TRUSTe seal.
-
-If you have any questions or concerns about our data use practices pertaining to HipChat, you can contact us using the contact information located at the bottom of this document. If you have an unresolved privacy or data use concern pertaining to HipChat that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request). Please click [here](https://www.truste.com/about-TRUSTe/contact-us/) for fax and postal mail information.
-
-The TRUSTe program covers our collection, use and disclosure of information through HipChat's website, web application, and mobile application, but not through any software downloaded from our site or other hosted products.
-
-[](https://privacy.truste.com/privacy-seal/Atlassian-Pty-Ltd/validation?rid=5c657897-2b36-484f-a891-1faf8105ac38 "TRUSTe Privacy Certification")
-
- 
-
 **E.U. Safe Harbor for HipChat** :
 
 HipChat complies with the U.S. - E.U. Safe Harbor Framework and the U.S. - Swiss Safe Harbor Framework as set forth by the U.S Department of Commerce regarding the collection, use, and retention of personal data from the European Union member countries. Atlassian has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement with respect to HipChat. To learn more about the Safe Harbor program, and to view Atlassian's certification for HipChat, please visit <http://www.export.gov/safeharbor/>
@@ -229,3 +217,13 @@ c/o Atlassian, Inc.
 1098 Harrison Street  
 San Francisco, CA 94103  
 E-Mail: [privacy@atlassian.com](mailto:privacy@atlassian.com)
+
+## Notice and Disclaimer for JIRA Service Desk Guest Users
+
+JIRA Service Desk (“Service Desk”) allows individuals from the public to log support and other tickets on a private instance of Service Desk controlled by an inviting party.
+
+You, as a guest user, acknowledge and agree that your access to and use of this service desk is on behalf of the party that invited you to the Service Desk, and not Atlassian Pty Ltd or any of its affiliates (“Atlassian”). Neither Atlassian nor its suppliers shall be liable to you for any loss of use, lost or inaccurate data, lost profits, failure of security mechanisms, interruption of business, delays or any direct, indirect, special, incidental, reliance or consequential damages of any kind, regardless of the form of action, whether in contract, tort (including negligence), strict liability or otherwise, even if informed of the possibility of such damages in advance. In any event, Atlassian’s aggregate liability to you will not exceed fifty U.S. Dollars (U.S. $50).
+
+You further acknowledge and agree that any text, data, content, code, video, or other materials of any type that you upload, submit, or otherwise transmit to or through the service desk are not confidential and can be used or shared by the inviting party in accordance with any agreement it may have with you as well as by Atlassian according to its [privacy policy](https://web.archive.org/legal/privacy-policy).
+
+Service Desk is provided “as is,” and Atlassian and its suppliers expressly disclaim any and all warranties and representations of any kind, including any warranty of non-infringement, title, fitness for a particular purpose, functionality, or merchantability, whether express, implied, or statutory. 
