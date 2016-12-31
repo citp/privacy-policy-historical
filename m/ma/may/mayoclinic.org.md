@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mayoclinic.org privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623211351id_/http%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mayoclinic.org privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231121359id_/http%3A//www.mayoclinic.org/about-this-site/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - About This Site - Mayo Clinic
 
@@ -132,5 +132,7 @@ Rochester, MN 55905
 If you've contacted the website about a privacy-related concern and you do not believe your problem has been addressed, you may file a complaint with the Mayo Clinic chief security officer by calling the Mayo Clinic general number at 507-284-2511 and asking for the chief security officer.
 
 This policy was last updated in November 2015.
+
+Nov. 05, 2015
 
 .
