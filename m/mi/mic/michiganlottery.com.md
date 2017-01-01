@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the michiganlottery.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905084604id_/https%3A//info.michiganlottery.com/Privacy.aspx%3Fpopup%3D1%26LNG%3DENU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganlottery.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101041112id_/https%3A//info.michiganlottery.com/Privacy.aspx%3Fpopup%3D1%26LNG%3DENU) for the most accurate reproduction.*
 
-# michiganlottery.com
+# Michiganlottery.com
 
 Thank you for visiting michiganlottery.com, official player website of the Michigan Lottery. This Privacy Policy describes the Michigan Lottery’s practices regarding information collected from users of this website.   
 As used herein, “this policy” refers to this Privacy Policy; “this website” refers to michiganlottery.com; “we,” “us,” and “our” refer to the Michigan Lottery, its agents, contractors, sub-contractors, and third parties involved in producing or delivering this website; and “you” or “your” refers to you, the website user.   
@@ -21,7 +21,7 @@ AGE REQUIREMENT
 
 Use of this website, including all of its content and services, by anyone under 18 years of age is strictly prohibited. We do not knowingly collect personal information from or create profiles of a person under the age of 18. Our account registration process uses age and identity verification software. Users are cautioned, however, that information collected automatically or voluntarily submitted in certain ways such as an email, text, or survey, will be treated as though it was submitted by an adult. 
 
-If you choose to do so, you can configure your browser to notify you when a new cookie is received. You can also view and delete existing cookies, prevent your browser from accepting new cookies, and disable cookies altogether. If you disable cookies, you can still use michiganlottery.com, but your ability to use some areas or functions of the website may be limited. 
+If you choose to do so, you can configure your browser to notify you when a new cookie is received. You can also view and delete existing cookies, prevent your browser from accepting new cookies, and disable cookies altogether. If you disable cookies, you can still use Michiganlottery.com, but your ability to use some areas or functions of the website may be limited. 
 
 LOCATION INFORMATION   
 
