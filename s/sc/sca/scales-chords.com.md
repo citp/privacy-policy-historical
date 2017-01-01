@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the scales-chords.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000608id_/http%3A//www.scales-chords.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scales-chords.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101144254id_/https%3A//www.scales-chords.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Our policy is very private. Learn about the www.scales-chords.com privacy policy
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/web/20161119000608id_/http%3A//www.scales-chords.com/contact.php). 
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by using our [contact form](https://web.archive.org/web/20170101144254id_/https%3A//www.scales-chords.com/contact.php). 
 
 At www.scales-chords.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.scales-chords.com and how it is used.
 
@@ -30,7 +30,7 @@ Some of our advertising partners may use cookies and web beacons on our site. Ou
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.scales-chords.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
 
-www.scales-chords.com has no access to or control over these cookies that are used by third-party advertisers. 
+www.scales-chords.com has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.scales-chords.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
 
