@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821130704id_/http%3A//www.brokengold.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brokengold.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101115915id_/http%3A//www.brokengold.com/privacy-policy.php) for the most accurate reproduction.*
 
 # BrokenGold.com Privacy Policy - Sell Scrap Gold & Broken Jewelry Online
 
