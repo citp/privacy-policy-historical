@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the firstsiteguide.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015212026id_/https%3A//firstsiteguide.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstsiteguide.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101213554id_/https%3A//firstsiteguide.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 This Privacy Policy was last modified on April 17, 2014.
 
-First Site Guide (“us”, “we”, or “our”) operates http://firstsiteguide.com/ (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+First Site Guide (“us”, “we”, or “our”) operates https://firstsiteguide.com/ (the “Site”). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://firstsiteguide.com/.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at https://firstsiteguide.com/.
 
 **Information Collection And Use**  
 While using our Site, we may ask you to provide us with certain personally identifiable information that can be used to contact or identify you. Personally identifiable information may include, but is not limited to, your name, email address, postal address and phone number (“Personal Information”).
