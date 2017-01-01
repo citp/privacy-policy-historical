@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sociallever.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104211956id_/http%3A//sociallever.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sociallever.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101145243id_/http%3A//sociallever.com/privacy.php) for the most accurate reproduction.*
 
 # "Limited Special Offer: Get FB Business in Box" Monster PLR for Dirt Cheap
 
