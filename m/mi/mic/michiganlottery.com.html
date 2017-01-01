@@ -1,16 +1,17 @@
-<!--The following is the downloaded HTML source of the michiganlottery.com privacy policy that was archived on 2015-09-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150905084604id_/https%3A//info.michiganlottery.com/Privacy.aspx%3Fpopup%3D1%26LNG%3DENU) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the michiganlottery.com privacy policy that was archived on 2017-01-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170101041112id_/https%3A//info.michiganlottery.com/Privacy.aspx%3Fpopup%3D1%26LNG%3DENU) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html id="ctl00_htmlMaster" xmlns="http://www.w3.org/1999/xhtml" lang="en"><head><title>
 	
-        michiganlottery.com
+        Michiganlottery.com
     
-</title><meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1"><meta http-equiv="Content-Language" content="en"><meta name="CODE_LANGUAGE" content="Visual Basic .NET 7.1"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KVTG3B"></script><script type="text/javascript" language="javascript">document.domain='michiganlottery.com'</script><meta name="robots" content="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no">
+</title><meta name="GENERATOR" content="Microsoft Visual Studio .NET 7.1"><meta http-equiv="Content-Language" content="en"><meta name="CODE_LANGUAGE" content="Visual Basic .NET 7.1"><meta name="vs_defaultClientScript" content="JavaScript"><meta name="vs_targetSchema" content="http://schemas.microsoft.com/intellisense/ie5"><meta http-equiv="Content-Type" content="text/html; charset=utf-8"><meta name="google-site-verification" content="GTM-P9T8HT"><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-P9T8HT"></script><script type="text/javascript" language="javascript">document.domain='michiganlottery.com'</script><meta name="robots" content="NOINDEX, NOFOLLOW"><meta name="format-detection" content="telephone=no">
     <script type="text/javascript" language="javascript" src="Brands/General/JS/jquery-1.7.1.min.js"></script>
     
     <script type="text/javascript" language="javascript" src="Brands/General/JS/lng_handler.js?1.1"></script>
-    <script type="text/javascript" language="javascript" src="Brands/General/JS/LoadFlash.js?V1.0.2015-3.1.130"></script>
+    <script type="text/javascript" language="javascript" src="Brands/General/JS/LoadFlash.js?V1.0.2016-4.1.285"></script>
     <script type="text/javascript" language="javascript" src="Brands/General/JS/LocalTimeConverter.js"></script>
+    <script type="text/javascript" language="javascript" src="Brands/General/JS/common.js"></script>
     <!-- On remote brand's client is repsonsible to call to the HTMLFramework script, therefore we remove the automatic call.( Lanadas.com (114), Kultakaivos.com (116)) -->
     <link type="text/css" rel="stylesheet" href="Brands/MichiganLottery/CSS/SkinCss.css">
     <link rel="Stylesheet" type="text/css" href="Brands/General/CSS/General.css">
@@ -103,12 +104,12 @@
 
         var whdl = null;
 
-        function OpenLobby(pRegistrationMode, pBonusOption, pGameId, pRelatedProductType)
+        function OpenLobby(pRegistrationMode, pBonusOption, pGameId)
         {
-                
+            
 			    //Open Michigan website
-			    var url = "https://promotest.michiganlottery.com/ilottery_lobby";
-			    var env= "";
+			    var url = "";
+			    var env= "production";
 
 			    if (env=="qa"){
 			        url="https://promotest.michiganlottery.com/ilottery_lobby";
@@ -116,20 +117,19 @@
 			    else if(env=="uat") {
 			        url="https://review.michiganlottery.com/ilottery_lobby";
 			    }
-			    else if(env=="pr") {
+			    else if(env=="production") {
 			        url="https://www.michiganlottery.com/ilottery_lobby";
 			    }
                 			   
 			    window.open(url, "Website");
 			    return;
-			    
+			
 
 			    // ** Registration-Mode and Bonus-Option Initialization
 			    //  A. Initialize using the master page parameters (page scope)
 			    var  strRegistrationMode = "M";
-			    var  strBonusOption = "M";
+			    var  strBonusOption = "";
 			    var  strGameId = "";
-			    var strRelatedProductType="";
                 
 			    //  B. Allow banners to override the page data with their own parameters (banner scope)
 			    if(typeof(pRegistrationMode)!="undefined" && pRegistrationMode!=null){
@@ -147,18 +147,13 @@
                 return;
             }  
 
-            if(typeof(pRelatedProductType)!="undefined" && pRelatedProductType!=null){
-                strRelatedProductType = '&'+ 'RelatedProductType' + '=' + escape(pRelatedProductType);
-                 }
-                
-				
                  if (typeof(top._ng_env) != "undefined" && top._ng_env.isHTMLBrand) {
                      top.LoadGamePlatform("M", null, null);
                  }
                  else
                  {
-                     var url = 'https://Gamesrv1.michiganlottery.com/ScratchCards/Lobby.aspx?CSI=113&SKI=0&CUR=USD&LNG=ENU&AFI=113&MMI=0&PRD=1&UNIQUEVISITORID=9D1FE5A6B54031C6F2D22852A685AE64&AR=&PAR=&LPR=&BD=info.michiganlottery.com&SDN=michiganlottery.com&CORID=&SENTDATE=&COREXPDATE=&BP_RequestId=&BP_UserId=&BP_ElementId=&RegistrationMode=' + escape(strRegistrationMode) + '&BO=' + escape(strBonusOption) + '&GID=' + strGameId + strRelatedProductType ;
-                    
+                     var url = 'https://Gamesrv1.Michiganlottery.com/ScratchCards/Lobby.aspx?CSI=113&SKI=0&CUR=USD&LNG=ENU&AFI=113&MMI=0&GAMEVERTICALID=&UNIQUEVISITORID=258A6DECFE12D5FBA7B286406CB16E32&AR=&PAR=&LPR=&BD=info.michiganlottery.com&SDN=Michiganlottery.com&CORID=&SENTDATE=&COREXPDATE=&BP_RequestId=&BP_UserId=&BP_ElementId=&RegistrationMode=' + escape(strRegistrationMode) + '&BO=' + escape(strBonusOption) + '&GID=' + strGameId;
+                     
                     
                     var winName= 'LobbyWindow';
                     var urlParms = "scrollbars=yes,resizable=yes,left=0,top=0,width=" + (window.screen.availWidth-8) + ",height=" + (window.screen.availHeight - 50);
@@ -292,25 +287,103 @@
 
             function lpAddMonitorTag(src) {
                 try {
-                    if(typeof(src)=='undefined'||typeof(src)=='object') {
-                        src=lpMTagConfig.lpMTagSrc?lpMTagConfig.lpMTagSrc:'/hcp/html/mTag.js';
-                    }
-                    if(src.indexOf('http')!=0) {
-                        src=lpMTagConfig.lpProtocol+"://"+lpMTagConfig.lpServer+src+'?site='+lpMTagConfig.lpNumber;
-                    } else {
-                        if(src.indexOf('site=')<0) {
-                            if(src.indexOf('?')<0)
-                                src=src+'?';
-                            else
-                                src=src+'&';
-                            src=src+'site='+lpMTagConfig.lpNumber;
+                    window.lpTag = window.lpTag || {}
+
+            if (typeof window.lpTag._tagCount === 'undefined') {
+                window.lpTag = {
+                    site: top._ng_env.ChatLivePersonSiteID || '',
+                    section: lpTag.section || '',
+                    autoStart: lpTag.autoStart === false ? false : true,
+                    ovr: lpTag.ovr || {},
+                    _v: '1.5.1',
+                    _tagCount: 1,
+                    protocol: (document.location.toString().indexOf('https:') == 0) ? 'https:' : 'http:',
+                    vars: lpTag.vars || [],
+                    dbs: lpTag.dbs || [],
+                    ctn: lpTag.ctn || [],
+                    sdes: lpTag.sdes || [],
+                    ev: lpTag.ev || [],
+                    events: {
+                        bind: function(app, ev, fn) {
+                            lpTag.defer(function() {
+                                lpTag.events.bind(app, ev, fn);
+                            }, 0);
+                        },
+                        trigger: function(app, ev, json) {
+                            lpTag.defer(function() {
+                                lpTag.events.trigger(app, ev, json);
+                            }, 1);
                         }
-                    };
-                    var s=document.createElement('script');
-                    s.setAttribute('type','text/javascript');
-                    s.setAttribute('charset','iso-8859-1');
-                    s.setAttribute('src',src);
-                    document.getElementsByTagName('head').item(0).appendChild(s);
+                    },
+                    defer: function(fn, fnType) {
+                        if (fnType == 0) {
+                            this._defB = this._defB || [];
+                            this._defB.push(fn);
+                        } else if (fnType == 1) {
+                            this._defT = this._defT || [];
+                            this._defT.push(fn);
+                        } else {
+                            this._defL = this._defL || [];
+                            this._defL.push(fn);
+                        }
+                    },
+                    load: function(src, chr, id) {
+                        var t = this;
+                        setTimeout(function() {
+                            t._load(src, chr, id);
+                        }, 0);
+                    },
+                    _load: function(src, chr, id) {
+                        var url = src;
+                        if (!src) {
+                            url = this.protocol + '//' + ((this.ovr && this.ovr.domain) ? this.ovr.domain : 'lptag.liveperson.net') + '/tag/tag.js?site=' + this.site;
+                        }
+                        var s = document.createElement('script');
+                        s.setAttribute('charset', chr ? chr : 'UTF-8');
+                        if (id) {
+                            s.setAttribute('id', id);
+                        }
+                        s.setAttribute('src', url);
+                        document.getElementsByTagName('head').item(0).appendChild(s);
+                    },
+                    init: function() {
+                        this._timing = this._timing || {};
+                        this._timing.start = (new Date()).getTime();
+                        var that = this;
+                        if (window.attachEvent) {
+                            window.attachEvent('onload', function() {
+                                that._domReady('domReady');
+                            });
+                        } else {
+                            window.addEventListener('DOMContentLoaded', function() {
+                                that._domReady('contReady');
+                            }, false);
+                            window.addEventListener('load', function() {
+                                that._domReady('domReady');
+                            }, false);
+                        }
+                        if (typeof (window._lptStop) == 'undefined') {
+                            this.load();
+                        }
+                    },
+                    start: function() {
+                        this.autoStart = true;
+                    },
+                    _domReady: function(n) {
+                        if (!this.isDom) {
+                            this.isDom = true;
+                            this.events.trigger('LPT', 'DOM_READY', {
+                                t: n
+                            });
+                        }
+                        this._timing[n] = (new Date()).getTime();
+                    }
+                }
+
+                lpTag.init();
+            } else {
+                window.lpTag._tagCount += 1;
+            }
                 }
                 catch (err) { }
             }
@@ -328,7 +401,9 @@
             // END LivePerson Monitor.
 
             function Chat(pUsername,pPlayMode) {
-                if (!true) {
+                var topWindow = window.opener ? window.opener : top;
+
+                if ((!topWindow || !topWindow._ng_env || !topWindow._ng_env.Player) && 'MI' == '' ) {
 			        // If country is prohibited for money registration - don't open chat, show messege to user.
                     alert('Chat is only available in countries that permit online gaming for real money.\nFor additional assistance, please feel free to contact us via email.');
                 return;
@@ -377,7 +452,7 @@
 
 				    // In case HTML R&L use Chat Engine
                         if (typeof(top._ng_env) != "undefined" && top._ng_env.isHTMLBrand && typeof(top.objChatEngine) != "undefined") {
-                            top.objChatEngine.OpenChat();
+                            top._ng_fw.OpenChat();
                         }
                         else {
                             var livePerson = 16735134;
@@ -451,24 +526,24 @@
 </head>
 <body id="Privacy" class="PageBody" style="margin:0px;">
    
-    <!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KVTG3B"  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function (w, d, s, l, i) {  w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-KVTG3B');</script>    <!-- End Google Tag Manager -->
+    <!-- Google Tag Manager --><noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-P9T8HT"  height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> <script>(function (w, d, s, l, i) {  w[l] = w[l] || []; w[l].push({ 'gtm.start': new Date().getTime(), event: 'gtm.js' }); var f = d.getElementsByTagName(s)[0], j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : ''; j.async = true; j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl; f.parentNode.insertBefore(j, f); })(window, document, 'script', 'dataLayer', 'GTM-P9T8HT');</script>    <!-- End Google Tag Manager -->
     
     
-    <form name="aspnetForm" method="post" action="Privacy.aspx?popup=1&amp;LNG=ENU" id="aspnetForm">
+    <form name="aspnetForm" method="post" action="./Privacy.aspx?popup=1&amp;LNG=ENU" id="aspnetForm">
 <div>
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzExNjkzNDI4D2QWAmYPZBYCAgEPFgIeBGxhbmcFAmVuFgRmD2QWFmYPZBYCZg8VARFbQnJhbmREb21haW5OYW1lXWQCAg8WAh4HY29udGVudAUCZW5kAggPFgIfAQURTk9JTkRFWCwgTk9GT0xMT1dkAg4PFgIeBGhyZWYFJkJyYW5kcy9NaWNoaWdhbkxvdHRlcnkvQ1NTL1NraW5Dc3MuY3NzZAIPDxUBHkJyYW5kcy9HZW5lcmFsL0NTUy9HZW5lcmFsLmNzc2QCEA8VAQ5CcmFuZHMvR2VuZXJhbGQCEQ8WAh8CBSdCcmFuZHMvTWljaGlnYW5Mb3R0ZXJ5L0NTUy9OR1RpY2tlci5jc3NkAhIPFQEvQnJhbmRzL01pY2hpZ2FuTG90dGVyeS9jc3MvTGFuZ3VhZ2VEcm9wRG93bi5jc3NkAhQPFQEiQnJhbmRzL0dlbmVyYWwvQ1NTL1Jld2FyZHNQYWdlLmNzc2QCFQ8VASZCcmFuZHMvR2VuZXJhbC9DU1MvUGxheWVyc0NsdWJQYWdlLmNzc2QCFg8WAh8CBVBodHRwczovL2Rvd25sb2FkLmdhbWVzcnYxLmNvbS9CcmFuZHMvTWljaGlnYW5Mb3R0ZXJ5L1dlYnNpdGUvR2VuZXJhbC9mYXZpY29uLmljb2QCAg9kFgICBQ8WAh4HVmlzaWJsZWgWAmYPFQEUY3RsMDBfZGl2T1BCYWNrQXJyb3dkZBJqPxtr9WOyTGtegeQKipFinvrm">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUJNzExNjkzNDI4D2QWAmYPZBYCAgEPFgIeBGxhbmcFAmVuFgRmD2QWFmYPZBYCZg8VARFbQnJhbmREb21haW5OYW1lXWQCAg8WAh4HY29udGVudAUCZW5kAggPFgIfAQURTk9JTkRFWCwgTk9GT0xMT1dkAg4PFgIeBGhyZWYFJkJyYW5kcy9NaWNoaWdhbkxvdHRlcnkvQ1NTL1NraW5Dc3MuY3NzZAIPDxUBHkJyYW5kcy9HZW5lcmFsL0NTUy9HZW5lcmFsLmNzc2QCEA8VAQ5CcmFuZHMvR2VuZXJhbGQCEQ8WAh8CBSdCcmFuZHMvTWljaGlnYW5Mb3R0ZXJ5L0NTUy9OR1RpY2tlci5jc3NkAhIPFQEvQnJhbmRzL01pY2hpZ2FuTG90dGVyeS9jc3MvTGFuZ3VhZ2VEcm9wRG93bi5jc3NkAhQPFQEiQnJhbmRzL0dlbmVyYWwvQ1NTL1Jld2FyZHNQYWdlLmNzc2QCFQ8VASZCcmFuZHMvR2VuZXJhbC9DU1MvUGxheWVyc0NsdWJQYWdlLmNzc2QCFg8WAh8CBVBodHRwczovL2Rvd25sb2FkLmdhbWVzcnYxLmNvbS9CcmFuZHMvTWljaGlnYW5Mb3R0ZXJ5L1dlYnNpdGUvR2VuZXJhbC9mYXZpY29uLmljb2QCAg9kFgRmDxUBEWFsaWduID0gImNlbnRlciIgZAIGDxYCHgdWaXNpYmxlaBYCZg8VARRjdGwwMF9kaXZPUEJhY2tBcnJvd2RksVbGWstRWL5vtRMPoU/x7WIjlrU=">
 </div>
 
 
 <script type="text/javascript">
 //<![CDATA[
-var g_lng_currency = 'USD';var g_lng_language = 'ENU';var g_lng_domain = 'michiganlottery.com';var g_lng_path = '/Privacy.aspx';var g_lng_supported_languages = 'ENU';var g_default_number_format_symbol_alignment = 'L';var g_default_number_format_digit_symbol = ',';var g_default_number_format_decimal_symbol = '.';//]]>
+var g_lng_currency = 'USD';var g_lng_language = 'ENU';var g_lng_domain = 'Michiganlottery.com';var g_lng_path = '/Privacy.aspx';var g_lng_supported_languages = 'ENU';var g_default_number_format_symbol_alignment = 'L';var g_default_number_format_digit_symbol = ',';var g_default_number_format_decimal_symbol = '.';//]]>
 </script>
 
 <div>
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="EAA40B43">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAi6/qUUNaYwRbTP5LNagzF7Ym286qRMoNijOOXAata9SSkIB5U4Kf45kbGtW2Z02swlDHlc7s1BCrsdebTuID4n8qAA3CSZsz2DvholEobyMo0+4RWCGWCvMjpZJj63/a0mjap3JECxJpMon20G0DpOOmOqHCPJXOxC8hvK2SXJJDz5FaxzXnCeqVgkZriJCvLX0E5a">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAhwjYzj7I+TPPcmotLb8Ee9Ym286qRMoNijOOXAata9SSkIB5U4Kf45kbGtW2Z02swlDHlc7s1BCrsdebTuID4n8qAA3CSZsz2DvholEobyMo0+4RWCGWCvMjpZJj63/a0mjap3JECxJpMon20G0DpOOmOqHCPJXOxC8hvK2SXJJL/s0RpF/1zAuLzPULHwJGPQu4/K">
 </div>
     <script type="text/javascript" language="javascript">
         var ngSiteBasePath = "";
@@ -609,7 +684,7 @@ var g_lng_currency = 'USD';var g_lng_language = 'ENU';var g_lng_domain = 'michig
 						   <br><br>
 						   If you choose to do so, you can configure your browser to notify you when a new cookie is received.  
 						   You can also view and delete existing cookies, prevent your browser from accepting new cookies, 
-						   and disable cookies altogether.  If you disable cookies, you can still use michiganlottery.com, but your 
+						   and disable cookies altogether.  If you disable cookies, you can still use Michiganlottery.com, but your 
 						   ability to use some areas or functions of the website may be limited.
 						   
 						   
@@ -779,7 +854,7 @@ var g_lng_currency = 'USD';var g_lng_language = 'ENU';var g_lng_domain = 'michig
                     
                 </div>
                 <noscript id="ctl00_noSciptTag">
-                </noscript>
+                <a href="https://info.michiganlottery.com" title="link"></a></noscript>
                 
                 
                 
@@ -798,7 +873,7 @@ var g_lng_currency = 'USD';var g_lng_language = 'ENU';var g_lng_domain = 'michig
     </div>
     <input type="hidden" name="ctl00$hfCompanyName" id="ctl00_hfCompanyName">
     <input type="hidden" name="ctl00$hfBrandName" id="ctl00_hfBrandName">
-    <input type="hidden" name="ctl00$hfBrandDomainName" id="ctl00_hfBrandDomainName" value="michiganlottery.com">
+    <input type="hidden" name="ctl00$hfBrandDomainName" id="ctl00_hfBrandDomainName" value="Michiganlottery.com">
     <input type="hidden" name="ctl00$hfCurrencyCode" id="ctl00_hfCurrencyCode" value="USD">
     <input type="hidden" name="ctl00$hfLanguageCode" id="ctl00_hfLanguageCode" value="ENU">
     <input type="hidden" name="ctl00$hfCountryID" id="ctl00_hfCountryID" value="US">
