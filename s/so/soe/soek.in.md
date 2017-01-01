@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soek.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119105359id_/http%3A//soek.in/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soek.in privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101091711id_/https%3A//soek.in/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy / Soek
 
