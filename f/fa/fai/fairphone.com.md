@@ -1,83 +1,131 @@
-> *The following text is extracted and transformed from the fairphone.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313092622id_/https%3A//fairphone.zendesk.com/hc/en-us/articles/201359463-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fairphone.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101213628id_/https%3A//www.fairphone.com/en/privacy-cookie-policy) for the most accurate reproduction.*
 
-# Privacy Policy (English) – Support
+# Privacy and Cookie policy - Fairphone
 
-**Fairphone Privacy Policy**
+This Privacy Policy describes how we, Fairphone B.V handles the data you provide us. In addition, it also describes the choices you have in protecting your privacy and how you can access or update your information. By using our website you agree to our policy and you consent to our use of cookies.
 
-Your privacy is important to us. Therefore, we are taking steps in protecting your privacy. Our privacy policy describes the type of information that are gathered by us, how we use this information, how we protect this information and how we may disclose them. You can also find more information below on the choices you have in protecting your privacy.
+This Privacy Policy applies to the website [www.fairphone.com](http://www.fairphone.com/) owned (including Fairphone webshop, forum, blogs and Fairphone support platform) and operated by Fairphone B.V.
 
-At Fairphone, we have a few fundamental principles:
+## Data we may collect from you
 
-  * We don’t ask you for personal information unless we really need it
-  * We don’t share your personal information with anyone, except to comply with the law, develop and deliver our products, or protect our rights
-  * We use cookies to understand your preferences and deliver you the best online experience; some of our partner websites might also use cookies through our website
+We may collect and process the following data you provide us at the time of request of goods, services and information from us:
 
+ **Non-personal data**
 
+Like most website operators, we collect data of non-personal information automatically and store them in log files, such as browser type, internet service provider (ISP), language preference, referral site, the date and timestamps, clickstream data and any other information that web browsers and servers typically make available.
 
-Please make sure you carefully read our privacy policy and contact us at any time if you do not understand something or you want us to apply a different treatment to your personal information.
+ **Potentially Personally-Identifying Information**
 
-**The type of information that are gathered by us**
+We also collect potentially personally-identifying information such as the data gathered when you leave comments on our blogs and forum or when you complete our surveys or when you apply for a position at Fairphone. For more information, please refer to the “Additional Relevant Privacy Information” section below.
 
-  * **Non-Personally-Identifying Information**
+ **Personal Data**
 
+Fairphone collects your personal data only insofar as is necessary, appropriate or really useful to fulfill the purpose of your interaction with Fairphone. These personal data includes:
 
+(i) the details that you provide us by registering to our website. The details include contact information such as name, e-mail address, phone numbers, Internet Protocol (IP) addresses, unique identifiers (such user name, account number, password), and preferences information (such as transaction history and marketing preferences);
 
-We operate the Fairphone.com website. Like most website operators, Fairphone collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, the date and time of each visitor request, and any other information the user chooses to send. We collect this information as we are interested to better understand how you all use our website and optimize our website.
+(ii) If you choose to list your company with us, we may ask details on your business including company name, size, business type and VAT numbers;
 
-  * **Potentially Personally-Identifying Information**
+(iii) the details of transactions you carry out through our Fairphone webshop and of the fulfilment of your order(s); and
 
+(iv) the information that you provide us when you write to us, including per e-mail.
 
+## The purpose for collecting or processing the data
 
-Fairphone also collects potentially personally-identifying information like Internet Protocol (IP) addresses for logged-in users and for users leaving comments on our blogs. Fairphone only discloses logged-in user and commenter IP addresses under the same circumstances that it uses and discloses personally-identifying information as described below, except that blog commenter IP addresses are visible and disclosed to the administrators of the blog where the comment was left.
+We use the data collected or processed about you in the following ways:
 
-  * **Personally-Identifying Information**
+ **– Provided that you consented us, to supply you with information on our products, services and projects;**  
+**– To carry out our obligations arising from any contracts entered into between you and us;**  
+**– To notify you about changes to our goods and services;**  
+**– To deal with inquiries, complaints or feedback made by you relating to our website, products and services;**  
+**– To ensure that the content from our website is presented in the most effective manner for you by better understanding how you use our website and based on this, to optimize our website.**  
+**– To analyze trends, administer our website and to gather demographic information about our user base as a whole.**
 
+We will collect and process your data strictly in accordance with this Privacy Policy.
 
+## Disclosure of your data
 
-Certain visitors to Fairphone’s websites choose to interact with Fairphone in ways that require Fairphone to gather personally-identifying information. The amount and type of information that Fairphone gathers depends on the nature of the interaction. For example, we ask visitors who sign up for our subscribers’ list to provide an e-mail address. This data is processed and registered by (third-party service provider provider such as) MailChimp. Those who, for example, buy a Fairphone are asked to provide additional information, including as necessary the personal and financial information required to process the payment and actually deliver your order. In each case, Fairphone collects such information only insofar as is necessary, appropriate or really useful to fulfill the purpose of the visitor’s interaction with Fairphone. Visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Fairphone will never sell your data or information about you to any third parties.
 
-Other examples of our use of the data include: dealing with inquiries and complaints made by or about you relating to the website; keeping the website secure and prevent fraud; verify compliance with the terms and conditions, this privacy policy, the disclaimer or other applicable policies.
+We may permit our employees, third-party service providers and affiliate organizations to access your data strictly for the purpose which we allow them access to.
 
-**How we protect your Personally-Identifying Information**
+For example, we may provide your personal data to our service provider for the purpose of shipping your order, processing payments, product returns and repairs. These service providers are authorised to use your personal data only as necessary to fulfil these services to us.
 
-We want you to feel confident about using our website and/or our webshop to make purchases and that we are committed in protecting the personal information we collect. While no website can guarantee a complete security, we have implemented appropriate technical and security procedures to help protect the personal information that you provide us against any unlawful destruction, accidental loss, alteration or unauthorised disclosure or access.
+In addition, these service providers will not contact you by electronic means to provide you with any newsletter, marketing email or information about our products and services.
 
-However, you acknowledge that the transmission of information over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet. Furthermore, you also need to take all reasonable measures to keep your data secure at all times. For example, you are responsible for keeping your password and other log-in details confidential. We will not ask you for your password (except when you log in to the website).
+We may disclose your personal data to third parties in the case of duty to disclose for the purpose of complying with any legal obligation, or to protect the rights, or safety of us and yours as our customers.
 
-We process your personal data in accordance with the Dutch Data Protection Act (or known as, “ _Wet Bescherming Persoonsgegevens_ ”). We have registered our personal data processing with the Dutch Data Protection Authority (or known as “ _Het College Bescherming Persoonsgegevens_ ”). You can find our registration published on the Dutch Data Protection Authority website. Our registration number is 1540849.
+## How we protect and secure your personal data
 
-**How we disclose your information**
+We process your personal data in accordance with the Dutch Data Protection Act (or known as, “ _Wet Bescherming Persoonsgegevens_ ”). We have registered to the Dutch Data Protection Authority (or known as “ _Het College Bescherming Persoonsgegevens_ ”) under the registration number of 1540849.
 
-Fairphone discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors, and affiliated organizations. These persons might need to know that information in order to process it on Fairphone’s behalf and have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; It can happen that your data needs to be used by such partners of Fairphone, in accordance with applicable regulations. Fairphone will never rent or sell (potentially) personally-identifying information to anyone. The only reason that Fairphone would disclose such information other than mentioned above is when it is required by law or government.
+All information and data you provide to us is stored on our secure servers.
 
-**Cookies**
+We attempt to collect, store and if applicable, process your personal data within the European Union, European Economic Area (“EEA”) and Switzerland. In the case where any collection, transfer or processing of your personal data occurs outside of these areas, we will ensure adequate data protection and privacy requirements.
 
-By using our website you agree to our policy and you consent to our use of cookies. A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+Although we want you to feel confident in using our website and that we are committed in protecting the personal data we collect or process, no website can guarantee a complete security. We have implemented appropriate technical and security procedures to help protect the personal data that you provide us against any unlawful destruction, accidental loss, alteration or unauthorised disclosure or access. However, please acknowledge that the transmission of information and data over the internet is inherently insecure, and we cannot guarantee the security of data sent over the internet.
 
-We use both "session" cookies and "persistent" cookies on the website. Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
+Furthermore, you also need to take all reasonable measures to keep your data secure at all times. For example, you are responsible for keeping your password and other log-in confidential details. We will not ask you for your password, except when you log in to our website.
 
-We will use the session cookies mainly to keep track of you whilst you navigate the website, keep track of items in your shopping basket and prevent fraud and increase website security. We will use the persistent cookies mainly to enable our website to recognize you when you visit and keep track of your preferences in relation to your use of our website.
+## Your right to access information and data
 
-We use Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information, so make sure you read Google’s privacy policy as well.
+If you do not want us to use your data in one, more or all of the circumstances mentioned above, please let us know by contacting us at [support@fairphone.com](mailto:support@fairphone.com)
 
-You can now choose to opt-out from being tracked by Google Analytics for the future by downloading and installing Google Analytics Opt-Out Browser Add-on for your current we browser, here: <https://tools.google.com/dlpage/gaoptout?hl=en-GB>
+In case of changes to your personal information, you may correct, update, amend, delete, remove or request it be deleted by making changes in your account settings page or by contacting us at [support@fairphone.com](mailto:support@fairphone.com)
 
-Our advertisers, payment services providers or partner websites may also make use of cookies.
+If you wish to subscribe to our newsletters, we will use your name and email address to supply them to you. You may choose to stop receiving our newsletters or marketing emails by following the unsubscribe instructions included in these newsletters. Similarly, you have the right to ask us not to process your personal data for marketing purposes. We will inform you prior to collecting your data if we intend to use your data for such purpose. You can exercise this right by contacting us at any time.
 
-Also, please note that you can address the use of cookies via the settings of your browser. Most browsers allow you to reject all cookies, whilst some browsers allow you to reject just third-party cookies. For example, in Internet Explorer (version 9) you can refuse all cookies by clicking "Tools", "Internet options", "Privacy", and selecting "Block All Cookies" using the sliding selector. Blocking all cookies will, however, have a negative impact upon the usability of many websites, including this one.
+## How long we retain data
 
-**Privacy Policy Changes**
+We will not store your data for any longer period than permitted by law and only as necessary for the purpose which we have collect or process your data. Therefore, how long we retain your data depends on the type of data and the purpose for which we collected or processed your data.
 
-Although most changes are likely to be minor, Fairphone may change its Privacy Policy from time to time. Fairphone encourages visitors to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+## Additional relevant privacy information
 
-You can always [_contact us_](http://www.fairphone.com/asksupport) if you'd like more information.
+ **– Job applicants**
 
-Fairphone
+If you apply for a position at Fairphone, we will collect information about your educational and professional background such as those provided in your CV, any reference letter about you or if relevant, in your LinkedIn page. The information will be solely used for the purpose of pre-selection and selection of applicants.
 
-Jollemanhof 17
+ **– Blogs/ Forum discussions**
 
-1019 GW Amsterdam
+Our websites offers a publicly accessible blog and forum for community discussion. Please be aware that when you submit a post or comment to the our blogs or forum discussions page, visitors to and users of these pages will be able to see the content of your post and comment, the username associated with your post or comment, and the date and time you originally placed the post or comment.
 
+Furthermore, any information you provide on the post or comment to our blog and forum may be read, collected and used by others who access them. The information others may read, collect and use from our blog or forum discussions includes your activities, your username, your prior comment or post, likes, badges, moderator status and how long you have been a member of our blog and forum discussion page.
+
+ **– Links to third party sites**
+
+Our website may contain links to and from the websites of our suppliers, partners, networks and affiliates. In case you follow a link to any of these websites, please note that the privacy policies will be applicable. Fairphone does not accept any responsibility or liability for these policies or the content or operation of these websites.
+
+Make sure to read the terms of the websites prior to submitting any personal data to these websites.
+
+ **– Social Media Widgets**
+
+Our website includes social media features. These features may collect your IP address, which page you are visiting on our site and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our website. Your interactions with these features are governed by the privacy policy of the company providing it.
+
+## Changes to our Privacy Policy
+
+We reserve the right to change our Privacy Policy, from time to time. We encourages you to frequently check this page for any changes to its Privacy Policy. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+A cookie is a file containing an identifier (a string of letters and numbers) that is sent by a web server to a web browser and is stored by the browser. The identifier is then sent back to the server each time the browser requests a page from the server. This enables the web server to identify and track the web browser.
+
+We use both “session” cookies and “persistent” cookies on the website. Session cookies will be deleted from your computer when you close your browser. Persistent cookies will remain stored on your computer until deleted, or until they reach a specified expiry date.
+
+We use cookies to estimate our visitor size and usage pattern, including to store data about your preferences and to allow us to customize our site according to your individual interests. Cookies will also be used to prevent fraud and increase the security of our website.
+
+We will use the persistent cookies mainly to enable our website to recognize you when you visit and keep track of your preferences in relation to your use of our website.
+
+We also use advertising cookies (of third parties) to collect information to help better tailor advertising to your interests, both within and beyond our Sites.
+
+To analyze the use of our website and to create reports about the use of our website, we use Google Analytics. It generates statistical and other data about website use by means of cookies, which are stored on your computers.
+
+You can control the use of cookies at the individual browser level by installing the Google Analytics opt-out browser add-on here. Please bear in mind, however that if you disable cookies, your ability to use some features or areas of our website will be limited.
+
+Should you have any concerns about how your information is handled or questions, remarks and feedback on our privacy policy, please feel free to contact us at [support@fairphone.com](mailto:support@fairphone.com)
+
+Fairphone B.V  
+Address: Jollemanhof 17  
+1019 GW Amsterdam  
 The Netherlands
 
-[www.fairphone.com](http://www.fairphone.com/)
+CoC registration #55901964
+
+Date of application: 15 August 2016. 
