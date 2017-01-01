@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mainstreetroi.com privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711004354id_/https%3A//www.mainstreetroi.com/privacy-policy-terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainstreetroi.com privacy policy that was archived on 2017-01-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170101233007id_/https%3A//www.mainstreetroi.com/privacy-policy-terms) for the most accurate reproduction.*
 
 # Privacy Policy
 
