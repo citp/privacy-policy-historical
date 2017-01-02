@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the onlineshoes.com privacy policy that was archived on 2016-12-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161204141440id_/http%3A//www.onlineshoes.com/Info/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the onlineshoes.com privacy policy that was archived on 2017-01-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170102020713id_/http%3A//www.onlineshoes.com/Info/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US" class="no-js"><!--<![endif]--><head>
 		<meta charset="utf-8">
@@ -24,8 +24,35 @@
         <!-- DTM Production Code - TODO: Need to add staging logic -->
         <script src="//assets.adobedtm.com/5317847f1893ec7ff94c58e422558c756f8fe614/satelliteLib-a49f348f0b24987611e458e0fb7d598fa8329256.js"></script>
 		
-		
-		<!--[if gte IE 9]><!--> 
+
+				<script type="text/javascript" src="https://www.google.com/recaptcha/api.js?onload=onReCaptchaLoadCallback&amp;render=explicit" async="" defer=""></script>
+				<script type="text/javascript">
+					var grecaptchaReady = false;
+					var lastReCaptchaWidgetId;
+
+					var onReCaptchaLoadCallback = function() {
+						grecaptchaReady = true;
+					};
+
+					var renderReCaptcha = function(clientId, siteKey) {
+						if (typeof grecaptcha !== 'undefined' && grecaptchaReady === true) {
+							lastReCaptchaWidgetId = grecaptcha.render(clientId, {
+							  'sitekey': siteKey
+							});
+							return;
+						}
+						window.setTimeout(function() {
+							renderReCaptcha(clientId, siteKey);
+						}, 500);
+					}
+
+					var resetLastReCaptchaWidget = function() {
+						if (typeof grecaptcha !== 'undefined' && grecaptchaReady === true && lastReCaptchaWidgetId != undefined) {
+							grecaptcha.reset(lastReCaptchaWidgetId);
+						}
+					}
+				</script>
+					<!--[if gte IE 9]><!--> 
 		
 		<script src="http://s3.onlineshoes.com/Scripts/lab-2.0.3.53828.js" type="text/javascript"></script>
 		<!--<![endif]-->
@@ -52,7 +79,7 @@
 
 <!--[if gte IE 9]><!--> 
 <script type="text/javascript">
-	$LAB.queueScript("http://s1.onlineshoes.com/Scripts/jquery-2.1.3.53828.js").queueWait().queueScript("http://s1.onlineshoes.com/Scripts/responsive.61238.js").queueWait().queueScript("http://s1.onlineshoes.com/Scripts/shoprunner.30939.js").queueWait();
+	$LAB.queueScript("http://s1.onlineshoes.com/Scripts/jquery-2.1.3.53828.js").queueWait().queueScript("http://s2.onlineshoes.com/Scripts/responsive.61454.js").queueWait().queueScript("http://s1.onlineshoes.com/Scripts/shoprunner.30939.js").queueWait();
 </script><!--<![endif]-->
 
 
@@ -79,11 +106,11 @@
 
 <!--[if gte IE 9]><!--> 
 
-<link href="http://s.onlineshoes.com/Css/responsive.61273.css" rel="stylesheet" type="text/css"><!--<![endif]-->
+<link href="http://s.onlineshoes.com/Css/responsive.61454.css" rel="stylesheet" type="text/css"><!--<![endif]-->
 
 
 <!--[if lt IE 9]>
-<link rel="stylesheet" type="text/css" href="/Css/responsive.61273.css" />
+<link rel="stylesheet" type="text/css" href="/Css/responsive.61454.css" />
 <link rel="stylesheet" type="text/css" href="/Css/ie8_responsive.53828.css" />
 <![endif]-->
 
@@ -91,7 +118,7 @@
 	
 
 		<style type="text/css">
-			@font-face {font-family:'ols';src:url('http://s2.onlineshoes.com/Fonts/ols.61203.eot');src:url('http://s2.onlineshoes.com/Fonts/ols.61203.eot?#iefix?v1') format('embedded-opentype'),url('http://s1.onlineshoes.com/Fonts/ols.61203.woff?v1') format('woff'),url('http://s3.onlineshoes.com/Fonts/ols.61203.ttf?v1') format('truetype'),url('http://s2.onlineshoes.com/Fonts/ols.61203.svg#ols?v1') format('svg');font-weight: normal;font-style: normal;}@font-face {font-family:'AvenirNext-Regular';src:url('http://s3.onlineshoes.com/Fonts/AvenirNext-Regular.53768.eot');src:url('http://s3.onlineshoes.com/Fonts/AvenirNext-Regular.53768.eot?#iefix?v1') format('embedded-opentype'),url('http://s1.onlineshoes.com/Fonts/AvenirNext-Regular.53768.woff?v1') format('woff'),url('http://s3.onlineshoes.com/Fonts/AvenirNext-Regular.53768.ttf?v1') format('truetype'),url('http://s3.onlineshoes.com/Fonts/AvenirNext-Regular.53768.svg#avenir?v1') format('svg');font-weight: normal;font-style: normal;}@font-face {font-family:'AvenirNextLTPro-Demi';src:url('http://s1.onlineshoes.com/Fonts/AvenirNextLTPro-Demi.eot');src:url('http://s1.onlineshoes.com/Fonts/AvenirNextLTPro-Demi.eot?#iefix?v1') format('embedded-opentype'),url('http://s3.onlineshoes.com/Fonts/AvenirNextLTPro-Demi.woff?v1') format('woff'),url('http://s2.onlineshoes.com/Fonts/AvenirNextLTPro-Demi.ttf?v1') format('truetype'),url('http://s2.onlineshoes.com/Fonts/AvenirNextLTPro-Demi.svg#avenir?v1') format('svg');font-weight: normal;font-style: normal;}
+			@font-face {font-family:'ols';src:url('http://s2.onlineshoes.com/Fonts/ols.61434.eot');src:url('http://s2.onlineshoes.com/Fonts/ols.61434.eot?#iefix?v1') format('embedded-opentype'),url('http://s1.onlineshoes.com/Fonts/ols.61434.woff?v1') format('woff'),url('http://s3.onlineshoes.com/Fonts/ols.61434.ttf?v1') format('truetype'),url('http://s3.onlineshoes.com/Fonts/ols.61434.svg#ols?v1') format('svg');font-weight: normal;font-style: normal;}@font-face {font-family:'AvenirNext-Regular';src:url('http://s3.onlineshoes.com/Fonts/AvenirNext-Regular.53768.eot');src:url('http://s3.onlineshoes.com/Fonts/AvenirNext-Regular.53768.eot?#iefix?v1') format('embedded-opentype'),url('http://s1.onlineshoes.com/Fonts/AvenirNext-Regular.53768.woff?v1') format('woff'),url('http://s3.onlineshoes.com/Fonts/AvenirNext-Regular.53768.ttf?v1') format('truetype'),url('http://s3.onlineshoes.com/Fonts/AvenirNext-Regular.53768.svg#avenir?v1') format('svg');font-weight: normal;font-style: normal;}@font-face {font-family:'AvenirNextLTPro-Demi';src:url('http://s1.onlineshoes.com/Fonts/AvenirNextLTPro-Demi.eot');src:url('http://s1.onlineshoes.com/Fonts/AvenirNextLTPro-Demi.eot?#iefix?v1') format('embedded-opentype'),url('http://s3.onlineshoes.com/Fonts/AvenirNextLTPro-Demi.woff?v1') format('woff'),url('http://s2.onlineshoes.com/Fonts/AvenirNextLTPro-Demi.ttf?v1') format('truetype'),url('http://s2.onlineshoes.com/Fonts/AvenirNextLTPro-Demi.svg#avenir?v1') format('svg');font-weight: normal;font-style: normal;}
 
 #blockui {  background-image: url(http://s2.onlineshoes.com/images/global/navframework/20141028_spin100.gif); }
 
@@ -182,7 +209,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 
 <section class="nav-top">
 	<div class="nav-locale">
-			<span>Shipping to: <a data-reveal-ajax="true" data-reveal-id="modal1e7ea23ccfa04194ab9f7e848e8ab9c0" href="/International?dMode=r"><img alt="Change shipping country" class="nav-locale-flag" height="14" src="http://s3.onlineshoes.com/images/global/12.12/flags/US.gif" width="21"></a><div class="reveal-modal small" data-reveal="" id="modal1e7ea23ccfa04194ab9f7e848e8ab9c0"></div></span>
+			<span>Shipping to: <a data-reveal-ajax="true" data-reveal-id="modalacc3871b5cad46d18a231975c2e48d4b" href="/International?dMode=r"><img alt="Change shipping country" class="nav-locale-flag" height="14" src="http://s3.onlineshoes.com/images/global/12.12/flags/US.gif" width="21"></a><div class="reveal-modal small" data-reveal="" id="modalacc3871b5cad46d18a231975c2e48d4b"></div></span>
         <div class="nav-props ">
             <div class="value-flag">
                 <span></span>
@@ -203,7 +230,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
     </div>
 	<div class="nav-user-account">
 		<ul class="clean-list block-list">
-				<li><a data-reveal-ajax="true" data-reveal-id="modal5283e9b0778642058143796ba28f3c0b" data-reveal-with-creds="true" href="https://www.onlineshoes.com/Account/Login?xhr=y" rel="nofollow">Sign In</a><div class="reveal-modal small" data-reveal="" id="modal5283e9b0778642058143796ba28f3c0b"></div></li>
+				<li><a data-reveal-ajax="true" data-reveal-id="modal464690f4c533406caeefced4d7ad32c2" data-reveal-with-creds="true" href="https://www.onlineshoes.com/Account/Login?xhr=y" rel="nofollow">Sign In</a><div class="reveal-modal small" data-reveal="" id="modal464690f4c533406caeefced4d7ad32c2"></div></li>
 				<li>
 					<div class="ols-drop">
 						<a href="#" data-dropdown="userActionsDrop">My Orders <i class="icon-angle-down"></i></a>
@@ -214,7 +241,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 
 						</ul>
 					</div>
-				</li>		
+				</li>
+			        <li>
+			            <a href="http://www.onlineshoes.com/Returns" id="topNavReturnsExchanagesLink" style="padding-left: 20px;">Returns &amp; Exchanges</a>
+			        </li>				
 		</ul>
         <div class="nav-user-utils  ">
 		    <ul class="clean-list">
@@ -929,7 +959,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 
 <ul class="off-canvas-list">
 	<li class="raised">
-				<a href="https://www.onlineshoes.com/Account/Login?xhr=y" data-reveal-ajax="true" data-reveal-id="modal5283e9b0778642058143796ba28f3c0b" rel="nofollow">&nbsp;<i>Sign In</i></a>
+				<a href="https://www.onlineshoes.com/Account/Login?xhr=y" data-reveal-ajax="true" data-reveal-id="modal464690f4c533406caeefced4d7ad32c2" rel="nofollow">&nbsp;<i>Sign In</i></a>
 
 	</li>	
 	<li>
@@ -1388,7 +1418,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 <div class="off-canvas-nav">
 	<ul class="off-canvas-locale clean-list block-list">
 		<li>Shipping to:</li>
-		<li><a data-reveal-ajax="true" data-reveal-id="modala539391036f0465b9891ccd7bc34b2d6" href="/International?dMode=r"><img alt="Change shipping country" height="14" src="http://s3.onlineshoes.com/images/global/12.12/flags/US.gif" width="21"><span>Select Country</span></a><div class="reveal-modal small" data-reveal="" id="modala539391036f0465b9891ccd7bc34b2d6"></div></li>
+		<li><a data-reveal-ajax="true" data-reveal-id="modal13eb3624ad324fe1ae8bb08ab70f03ad" href="/International?dMode=r"><img alt="Change shipping country" height="14" src="http://s3.onlineshoes.com/images/global/12.12/flags/US.gif" width="21"><span>Select Country</span></a><div class="reveal-modal small" data-reveal="" id="modal13eb3624ad324fe1ae8bb08ab70f03ad"></div></li>
 	</ul>
 	<div class="off-canvas-cs">
 		<h4>Customer Service:</h4>
@@ -1412,8 +1442,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 				
 
 
-<div class="headband row collapse">
-<div class="small-12 columns"><span>Save 30% on orders over $99. Free shipping. Use code CYBERWEEK2016.</span> <span><a href="#" onclick="alert('To receive your discount, enter the promotion code CYBERMONDAY2016 during checkout. 30% discount off the regular price of eligible sale and regularly priced items. Not valid on clearance items. Cannot be applied to previous purchases, gift certificates or combined with other offers. Offer valid on U.S. orders only. Applicable to participating brands. Additional restrictions apply.                          Excludes the following brands:      Adidas, Aetrex, Ahnu, Alegria, Altra, Andre Assous, Arcopedico, Ariat, ASICS, Bearpaw, Bed:stu, Bionica, Birkenstock, Blundstone, Bogs, Born, Brahmin, Brooks, Calvin Klein, Carhartt, Carolina, CAT Footwear, Chaco, Chippewa, Clarks, Cole Haan, Columbia, Converse, Danner, Dansko, Double-H Boots, Dr. Martens, Drew, Earth, Earthies, ECCO, El Naturalista, EMU, Finn Comfort, Fit Flop, Fjallraven, Florsheim, Frye, Gee Wawa Footwear, Giesswein, Haflinger, Hoka One One, Isola, J. Renee, Jack Rogers, Johnston &amp; Murphy, Josef Siebel, Justin Boots, Keds, Kalso Earth Shoe, KEEN, Kork Ease, La Sportiva, Lucchese, Mephisto, Merrell, Michael Michael Kors, Minnetonka, Miz Mooz, Mizuno, Naot, Native Shoes, New Balance, Nunn Bush, Nurse Mates, Oboz, Olukai, The Original Muck Boot Company, Pikolinos, PrAna, PUMA, Red Wing Heritage, Rieker, Romika, Sacha London, Salomon, Sam Edelman, Saucony, Sofft, Softpots, Sorel, Sperry, Spring Step, Stacy Adams, Steve Madden, Stride Rite, Tamaris, Taos, Teva, Timberland, Timberland Pro, The Flexx, The North Face, The Original Muck Boot Company, Timbuk2, Toni Pons, UGG, Under Armour, Vans, Vasque, Vintage Shoe Company, Vionic, Walk-Over, Wolky, Wonders'); return false;">restrictions</a></span></div>
+<div class="headband row collapse" style="color:#c9b164;background-color:#404140;">
+<div class="row collapse">
+<div class="small-12 columns"><span>Save 30% on orders over $99. Free shipping. Use code RESOLUTION.</span> <span><a href="#" onclick="alert('To receive a discount, orders must meet the required spending threshold (before taxes and shipping). Enter the promotion code RESOLUTION during checkout. 30% discount off the regular price of eligible sale and regularly priced items. Brand restrictions apply to regularly priced items. Product restrictions apply. Offer valid on U.S. orders only. Additional restrictions apply.                          Excludes the following brands:      Adidas, Aetrex, Ahnu, Alegria, Altra, Andre Assous, Arcopedico, Ariat, ASICS, Bearpaw, Bed:stu, Bionica, Birkenstock, Blundstone, Bogs, Born, Brahmin, Brooks, Calvin Klein, Carhartt, Carolina, CAT Footwear, Chaco, Chippewa, Clarks, Cole Haan, Columbia, Converse, Danner, Dansko, Double-H Boots, Dr. Martens, Drew, Earth, Earthies, ECCO, El Naturalista, EMU, Finn Comfort, Fit Flop, Fjallraven, Florsheim, Frye, Gee Wawa Footwear, Giesswein, Haflinger, Hoka One One, Isola, J. Renee, Jack Rogers, Johnston &amp; Murphy, Josef Siebel, Justin Boots, Keds, Kalso Earth Shoe, KEEN, Kork Ease, La Sportiva, Lucchese, Mephisto, Merrell, Michael Michael Kors, Minnetonka, Miz Mooz, Mizuno, Naot, Native Shoes, New Balance, Nunn Bush, Nurse Mates, Oboz, Olukai, The Original Muck Boot Company, Pikolinos, PrAna, PUMA, Red Wing Heritage, Rieker, Romika, Sacha London, Salomon, Sam Edelman, Saucony, Sofft, Softpots, Sorel, Sperry, Spring Step, Stacy Adams, Steve Madden, Stride Rite, Tamaris, Taos, Teva, Timberland, Timberland Pro, The Flexx, The North Face, The Original Muck Boot Company, Timbuk2, Toni Pons, UGG, Under Armour, Vans, Vasque, Vintage Shoe Company, Vionic, Walk-Over, Wolky, Wonders'); return false;">restrictions apply</a></span></div>
+</div>
 </div>
 
                 
@@ -1528,7 +1560,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 					</a>
 				</li>
 				<li class="footer-prop">
-					<a href="http://www.onlineshoes.com/Info/WhyShop">
+					<a href="http://www.onlineshoes.com/Returns">
 						<div class="exchanges">
 							<p class="subtitle">Free exchanges</p>
 							<p>If the fit isn't right, we'll exchange<br>your item at no charge.</p>
@@ -1537,7 +1569,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 					</a>
 				</li>
 				<li class="footer-prop">
-					<a href="http://www.onlineshoes.com/Info/WhyShop">
+					<a href="http://www.onlineshoes.com/Returns">
 						<div class="returns">
 							<p class="subtitle">365-day returns</p>
 							<p>If you don't love it, you have 365<br>days to return it.</p>
@@ -1699,7 +1731,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 	<h6>Your best foot forward™</h6>
 </div><div class="minimal">
 <a href="http://www.onlineshoes.com/Info/TermsOfUse">Terms of Use</a><a href="http://www.onlineshoes.com/Info/PrivacyPolicy">Privacy Policy</a>
-	<span>© OnlineShoes.com 1996-2016</span>
+	<span>© OnlineShoes.com 1996-2017</span>
 </div>
 		</div>
 </footer>
@@ -1713,7 +1745,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 
 <!--[if lt IE 9]>
 <script src="http://s.onlineshoes.com/Scripts/jquery-1.10.2.53828.js" type="text/javascript"></script>
-<script src="http://s.onlineshoes.com/Scripts/responsive.61238.js" type="text/javascript"></script><script src="http://s.onlineshoes.com/Scripts/ie8_responsive.53828.js" type="text/javascript"></script>
+<script src="http://s.onlineshoes.com/Scripts/responsive.61454.js" type="text/javascript"></script><script src="http://s.onlineshoes.com/Scripts/ie8_responsive.53828.js" type="text/javascript"></script>
 <script>
 	if (legacyIE) {
 		init();
@@ -1729,7 +1761,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 <div id="wrpGlobalSiteCat">
 	<script type="text/javascript">
 	/* <![CDATA[ */
-		s_ols.server="34";
+		s_ols.server="56";
 	s_ols.pageName="PrivacyPolicy";
 	s_ols.prop10="Corporate";
 	s_ols.channel="Corporate";
@@ -1744,12 +1776,12 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.goog
 	s_ols.prop49="Guest";
 	s_ols.eVar31="http://www.onlineshoes.com/Info/PrivacyPolicy";
 	s_ols.prop25="http://www.onlineshoes.com/Info/PrivacyPolicy";
-	s_ols.eVar22="Direct";
-	s_ols.prop19="Direct";
+	s_ols.eVar22="http://www.onlineshoes.com/";
+	s_ols.prop19="http://www.onlineshoes.com/";
 	s_ols.eVar5="AemBranchFalse:aembranchfalse";
 	s_ols.prop5="AemBranchFalse:aembranchfalse";
-	s_ols.eVar46="MainNavNewArrivals:New";
-	s_ols.prop38="MainNavNewArrivals:New";
+	s_ols.eVar46="MainNavNewArrivals:Nothing";
+	s_ols.prop38="MainNavNewArrivals:Nothing";
 
 		/************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 		var s_code=s_ols.t();if(s_code)document.write(s_code)
