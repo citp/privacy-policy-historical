@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2016-06-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160609213353id_/http%3A//www.intouch.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intouch.org privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102194647id_/https%3A//www.intouch.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,6 +24,10 @@ Our systems automatically collect the IP address of the computer you use to visi
 ##### PERSONAL INFORMATION
 
 ITM never collects personal information without your knowledge and consent. We may request personal information when you create an account, request a resource, create a subscription to one of our publications, make a donation, make a purchase, submit a prayer request, or use site links to otherwise communicate with us. This information may include, but may not be limited to, your first and last names, postal address, telephone number, email address, and other demographic information. For online transactions, we also request your credit card number, expiration date, and may request your Card Security Code [CSC, CVV2, or CCID] number. 
+
+#### SMS subscriptions
+
+Summary Terms & Conditions: Our mobile text messages are intended for subscribers over the age of 13 and are delivered via USA short code 99000 and 76000.You may receive up to 30 message(s) per month for text alerts. Message and data rates may apply. This service is available to persons with text-capable phones subscribing to carriers including AT&T, Verizon Wireless, T-Mobile®, Sprint, Virgin Mobile USA, Cincinnati Bell, Centennial Wireless, Unicel, U.S. Cellular®, and Boost. For help, text HELP to 99000, email partnerrelations@intouch.org, or call +1 8007891473. You may stop your mobile subscription at any time by text messaging STOP to short code 99000.
 
 #### HOW WE USE THE INFORMATION WE COLLECT
 
