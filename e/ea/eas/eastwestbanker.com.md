@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastwestbanker.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603233008id_/https%3A//eastwestbanker.com/info/ew_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastwestbanker.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102141736id_/https%3A//eastwestbanker.com/info/ew_privacy.asp) for the most accurate reproduction.*
 
 # EastWest Bank | Privacy Statement - [EastWestBanker.com]
 
