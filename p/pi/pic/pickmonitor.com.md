@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pickmonitor.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324072940id_/https%3A//www.pickmonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pickmonitor.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102211516id_/https%3A//www.pickmonitor.com/privacy) for the most accurate reproduction.*
 
 # Pick Monitor Privacy Policy
 
