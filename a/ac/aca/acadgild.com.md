@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the acadgild.com privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823184948id_/https%3A//acadgild.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acadgild.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102035630id_/https%3A//acadgild.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy, Site Security, Changes - AcadGild.com
 
@@ -73,7 +73,3 @@ AcadGild may, in its sole discretion, modify or update this Privacy Policy from 
 ### 7\. HOW TO CONTACT US
 
 If you have any questions about this Privacy Policy or the Service, please contact us at enquiry@acadgild.com. 
-
-Copyright © Edvista Educational Services Pvt. Ltd. 2016. All Rights Reserved 
-
-AcadGild is an online training academy which teaches web development, mobile application development and big data courses. AcadGild provides mentor driven online courses in frontend web development, Android app development, big data development, hadoop development, big data administration and robotics. With AcadGild, you can learn how to build great responsive websites using latest technologies like Angular and Node. You can also learn to develop Android applications from the comfort of your home. Want to learn how to build fully functional and complex websites ? Or want to learn Android application development courses? Looking to create beautiful mobile applications? Looking for mentor driven web development Android programming course at affordable price? Trying to find best online classes for frontend development and Android development? Looking for summer programming camp for children at affordable price? Looking for Android programming for children? Looking for an expert to teach you big data development or big data administration? Want your child to become a robotics engineer? Look no further. Our expert mentors can teach to beginners as well as expert programmers. Our web development, Android app programming courses, big data courses and robotics course are tailored to your need. If you do not have any prior programming knowledge or skills, we will teach you from the basics of programming. With our comprehensive web development and Android app development courses, we are sure AcadGild is the best online coding bootcamp for Android programming courses. 
