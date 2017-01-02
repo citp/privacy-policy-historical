@@ -1,68 +1,46 @@
-> *The following text is extracted and transformed from the ipaymy.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317210841id_/http%3A//ipaymy.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ipaymy.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102193445id_/https%3A//ipaymy.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | iPayMy
+# Privacy Policy - iPayMy
 
-1.We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.iPaymy.com (collectively, the “Site”) and our application for mobile devices (the “Application”). This Privacy Policy applies only to information that you provide to us through the Site and Application. This Privacy Policy may be updated from time to time. We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your Account) or by means of a notice on the Site and Application prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Capitalised terms used herein but undefined will have the meaning given to such term in our Terms of Use.
-
-2.By using our Site and Service and by providing or making available your content, personal information and such other information about yourself to us, you are agreeing and expressly consenting to the collection and use of your personal data or information by us for the purposes of providing the Service to you as well as our purposes 
-
-#### 3\. How We Collect Your Personal Data 
-
-Our primary goals in collecting information are to provide and improve our Site, Application, services, features and content, to administer your use of the Site and Application (together, the “Service”) and to enable our customers to enjoy and easily navigate the Site and Application.
-
-3.1 When you register with us through the Site or Application and become a user or when you wish to contact another User of our site, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you (”Identity Information”). Identity Information includes, but is not limited to, your name, phone number, email address, and home postal address but does not include your credit card number or billing information.
-
-3.2 In order to process some of your transactions through the Site and Application, we may also ask for your credit card number and other billing information (“Billing Information”) (Billing Information and Identity Information together, “Personal Information”). If the address of a property you provide matches that of your credit card billing address, that address would be considered Identity Information. Some Personal Information is required, like your name and email address, and other Personal Information is optional, like your date of birth. We reserve the right to require confirmation of your address where necessary. 
-
-3.3 We collect Personal Information in connection with your registration to join the Service. You can register to join via the Site or Application by completing the required forms.
-
-#### 4\. What Data We Collect – Some examples of the data we collect include:
-
-  * a. Personal particulars – eg. name, NRIC/FIN/passport details, address, telephone number, email address, date of birth, education details, photographs and videos
-  * b. Financial information – eg. credit card and/or banking information of you and your family
-  * c. Employment information – eg. details of Employment pass, work permit and similar documents Your interaction with us – eg. phone calls, call recordings, mobile text messages, emails, faxes, letters, forms, and any other correspondences
-  * d. Your service information – eg. the schemes, services, programmes, courses, or any other assistance rendered by us to you
-  * e. Information from other agencies, individuals or organisations – eg. banks, financial institutions and/or other agencies, organisations and individuals who may have rendered their services to you
-
-
-
-#### 5\. How Your Data is Used
-
-  * a. Process, provide, and/or administer services, programs or any other assistance to you
-  * b. Complete your transactions
-  * c. Verify, screen, and conduct due diligence checks for the purposes of providing said services. 
-  * d. Respond to queries, feedback, and requests from you or people you have authorised
-  * e. Process claims, reimbursements, payouts, or payments for services or any other purposes
-  * f. Address or investigate any complaints, claims or disputes
-  * g. Facilitate referrals or connections to other organisations or agencies that may provide relevant services or assistance to you
-  * h. Inform you about our schemes, services, programmes, courses, events, or other essential information
-  * i. Produce materials for internal and/or external communications, publicity, or other purposes deemed appropriate by us whether in the print, online or in any other media including but not limited to photographs, images, audio or video files
-  * j. Conduct research, analysis, studies, statistics compilation, evaluation, policy formulation, reporting, audit, and record keeping
-  * k. Meet legal, regulatory and other requirements including providing assistance to law enforcement, judicial and other government agencies
-  * l. Provide your data to organisations or agencies which administer or provide services, or other assistance which may be of relevance to you; industry regulators and other government organisations, as required by local laws and regulations; financial institutions, for purposes such as facilitating payments, screenings or checks; as well as organisations, for the purposes of data analysis, evaluation and policy formulation, for which you will not be identified as a specific individual.
-
-
+  1. We provide this Privacy Policy to inform you of our policies and procedures regarding the collection, use and disclosure of personal information we receive from users of www.iPaymy.com (collectively, the “Site”) and our application for mobile devices (the “Application”). This Privacy Policy applies only to information that you provide to us through the Site and Application. This Privacy Policy may be updated from time to time. We may update this Privacy Policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your Account) or by means of a notice on the Site and Application prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices. Capitalised terms used herein but undefined will have the meaning given to such term in our Terms of Use. 
+  2. By using our Site and Service and by providing or making available your content, personal information and such other information about yourself to us, you are agreeing and expressly consenting to the collection and use of your personal data or information by us for the purposes of providing the Service to you as well as our purposes 
+  3. How We Collect Your Personal Data  
+Our primary goals in collecting information are to provide and improve our Site, Application, services, features and content, to administer your use of the Site and Application (together, the “Service”) and to enable our customers to enjoy and easily navigate the Site and Application. 
+    1. When you register with us through the Site or Application and become a user or when you wish to contact another User of our site, we will ask you for personally identifiable information. This refers to information about you that can be used to contact or identify you (”Identity Information”). Identity Information includes, but is not limited to, your name, phone number, email address, and home postal address but does not include your credit card number or billing information.
+    2. In order to process some of your transactions through the Site and Application, we may also ask for your credit card number and other billing information (“Billing Information”) (Billing Information and Identity Information together, “Personal Information”). If the address of a property you provide matches that of your credit card billing address, that address would be considered Identity Information. Some Personal Information is required, like your name and email address, and other Personal Information is optional, like your date of birth. We reserve the right to require confirmation of your address where necessary.
+    3. We collect Personal Information in connection with your registration to join the Service. You can register to join via the Site or Application by completing the required forms.
+  4. What Data We Collect – Some examples of the data we collect include: 
+    1. Personal particulars – eg. name, NRIC/FIN/passport details, address, telephone number, email address, date of birth, education details, photographs and videos
+    2. Financial information – eg. credit card and/or banking information of you and your family
+    3. Employment information – eg. details of Employment pass, work permit and similar documents Your interaction with us – eg. phone calls, call recordings, mobile text messages, emails, faxes, letters, forms, and any other correspondences
+    4. Your service information – eg. the schemes, services, programmes, courses, or any other assistance rendered by us to you
+    5. Information from other agencies, individuals or organisations – eg. banks, financial institutions and/or other agencies, organisations and individuals who may have rendered their services to you
+  5. How Your Data is Used 
+    1. Process, provide, and/or administer services, programs or any other assistance to you
+    2. Complete your transactions
+    3. Verify, screen, and conduct due diligence checks for the purposes of providing said services.
+    4. Respond to queries, feedback, and requests from you or people you have authorised
+    5. Process claims, reimbursements, payouts, or payments for services or any other purposes
+    6. Address or investigate any complaints, claims or disputes
+    7. Facilitate referrals or connections to other organisations or agencies that may provide relevant services or assistance to you
+    8. Inform you about our schemes, services, programmes, courses, events, or other essential information
+    9. Produce materials for internal and/or external communications, publicity, or other purposes deemed appropriate by us whether in the print, online or in any other media including but not limited to photographs, images, audio or video files
+    10. Conduct research, analysis, studies, statistics compilation, evaluation, policy formulation, reporting, audit, and record keeping
+    11. Meet legal, regulatory and other requirements including providing assistance to law enforcement, judicial and other government agencies
+    12. Provide your data to organisations or agencies which administer or provide services, or other assistance which may be of relevance to you; industry regulators and other government organisations, as required by local laws and regulations; financial institutions, for purposes such as facilitating payments, screenings or checks; as well as organisations, for the purposes of data analysis, evaluation and policy formulation, for which you will not be identified as a specific individual.
 
 We will not use your personal data for purposes other than what we have informed you above, or which are permitted or compellable under local laws and regulations. We may send your personal data to our subsidiaries, employees or agents outside of Singapore and we will ensure that your data will be handled, protected and secured in such a manner that is in accordance with local laws and regulations. 
 
-#### 6\. Log Data
+  6. Log Data 
+    1. When you visit the Site and Application, whether as a Member or a non-registered user just browsing, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to our Site and Application, pages of our Site and Application that you visit, the time spent on those pages, information you search for on our Site and Application, access times and dates, and other statistics. We use this information to monitor and analyse use of the Site, Application and the Service and for the Site and Application’s technical administration, to increase our Site and Application’s functionality and user-friendliness, and to better tailor our Site and Application to our visitors’ needs. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyse and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information.
+  7. Cookies 
+    1. Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilise persistent cookies to save your login information for future logins to the Site and Application. Second, we utilise session ID cookies to enable certain features of the Site and Application, to better understand how you interact with the Site and Application and to monitor aggregate usage by Users and web traffic routing on the Site and Application. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site, Application and Service and then close your browser. Third party advertisers on the Site and Application may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or Application or all functionality of the Service.
+  8. Protecting Your data 
+    1. The security of your personal data is important to us. We have in place appropriate safeguards required by law to protect the personal data stored with us.
+    2. We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Site and Application, you can contact us.
+    3. We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Site and Application in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
+  9. Withdrawal of Consent 
+    1. You may withdraw your consent given, or deemed to have been given, for any or all purposes set out in this Privacy Policy, by contacting us. Do note that if you withdraw your consent to any or all of the purposes, we may not be in a position to continue to provide our services to you.
+    2. Please direct any queries about our Privacy Policy to the below designated email address including any request to delete data which we have obtained from you or from third parties or to opt out of any messages, emails, newsletters or other marketing or promotional materials from us to you. customerservice@ipaymy.com
 
-6.1 When you visit the Site and Application, whether as a Member or a non-registered user just browsing, our servers automatically record information that your browser sends whenever you visit a website (“Log Data”). This Log Data may include information such as your computer’s Internet Protocol (“IP”) address, browser type or the webpage you were visiting before you came to our Site and Application, pages of our Site and Application that you visit, the time spent on those pages, information you search for on our Site and Application, access times and dates, and other statistics. We use this information to monitor and analyse use of the Site, Application and the Service and for the Site and Application’s technical administration, to increase our Site and Application’s functionality and user-friendliness, and to better tailor our Site and Application to our visitors’ needs. We also use this information to verify that visitors to the Site meet the criteria required to process their requests. We do not treat Log Data as Personal Information or use it in association with other Personal Information, though we may aggregate, analyse and evaluate such information for the same purposes as stated above regarding other Non-Identifying Information. 
 
-#### 7\. Cookies
-
-7.1 Like many websites, we use “cookies” to collect information. A cookie is a small data file that we transfer to your computer’s hard disk for record-keeping purposes. We use cookies for two purposes. First, we utilise persistent cookies to save your login information for future logins to the Site and Application. Second, we utilise session ID cookies to enable certain features of the Site and Application, to better understand how you interact with the Site and Application and to monitor aggregate usage by Users and web traffic routing on the Site and Application. Unlike persistent cookies, session cookies are deleted from your computer when you log off from the Site, Application and Service and then close your browser. Third party advertisers on the Site and Application may also place or read cookies on your browser. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. If you do not accept cookies, however, you may not be able to use all portions of the Site or Application or all functionality of the Service.
-
-#### 8\. Protecting Your data
-
-8.1 The security of your personal data is important to us. We have in place appropriate safeguards required by law to protect the personal data stored with us.
-
-8.2 We follow generally accepted industry standards to protect the Personal Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Site and Application, you can contact us.
-
-8.3 We will make any legally required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored “personal data” (as defined in applicable state statutes on security breach notification) to you via email or conspicuous posting on the Site and Application in the most expedient time possible and without unreasonable delay, insofar as consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system. 
-
-#### 9\. Withdrawal of Consent
-
-9.2 You may withdraw your consent given, or deemed to have been given, for any or all purposes set out in this Privacy Policy, by contacting us. Do note that if you withdraw your consent to any or all of the purposes, we may not be in a position to continue to provide our services to you.
-
-9.1 Please direct any queries about our Privacy Policy to the below designated email address including any request to delete data which we have obtained from you or from third parties or to opt out of any messages, emails, newsletters or other marketing or promotional materials from us to you. customerservice@ipaymy.com
