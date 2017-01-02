@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ezfile.ch privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905062703id_/https%3A//filecloud.io/%3Fm%3Dhelp%26a%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ezfile.ch privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102232417id_/https%3A//filecloud.io/%3Fm%3Dhelp%26a%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Policy - filecloud.io
 
@@ -21,10 +21,6 @@ The above information is the absolute minimum required for the system to functio
 This data will not be sold or given to any third parties. 
 
 * * *
-
-**Information collected when you purchase credits:**   
-You can purchase __credits only using payment methods which guarantee your financial security and privacy such as Amazon.com gift vouchers, Bitcoin and Webmoney.   
-This is done deliberately so as to protect your privacy, cut out payment fees and remove various middlemen such as PayPal and Credit Card providers who love nothing better than collect tons of information about you and your purchasing habits and sell it to the highest bidder. 
 
 * * *
 
