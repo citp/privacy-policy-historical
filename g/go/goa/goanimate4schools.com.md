@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goanimate4schools.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821184433id_/https%3A//goanimate4schools.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goanimate4schools.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102134830id_/https%3A//goanimate4schools.com/privacy) for the most accurate reproduction.*
 
 # We treat your personal information very carefully - GoAnimate for Schools
 
@@ -19,7 +19,8 @@ Cookies and Other Tracking Mechanisms
 User-Generated Content   
 Third-Party Links   
 Security   
-Rights to Review, Delete, and Control Our Use of Students’ Personal Information   
+Rights to Review, Delete, and Control Our Use of Students’ Personal Information    
+State-Specific Information for Users in the United States - Connecticut (CT)    
 Users Outside the United States    
 Contact Us   
 Changes to this COPPA Policy
@@ -91,6 +92,10 @@ We have taken steps to help protect the information we collect from loss, misuse
 Teachers have a right to review the personal information we have collected about their students, to delete it, and to tell us to no longer use or disclose it. Teachers can review most of the personal information we collect about their students by logging in to their accounts and reviewing their account information and updating the personal information we maintain about their students. If a teacher does not want us to collect and use his/her student’s personal information anymore, then the teacher may cancel the student’s account and the student’s use of the Services. 
 
 Parents may also contact us at schools@goanimate4schools.com to request access to their child’s information or cancellation of their child’s account. After liaising with that child’s teacher, we will endeavor to honor a parent’s request. 
+
+##  State-Specific Information for Users in the United States 
+
+Connecticut (CT) Users - [Connecticut Privacy Statement](https://web.archive.org/privacy/usct)
 
 ## Users Outside the United States
 
