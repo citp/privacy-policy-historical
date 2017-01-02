@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the customermagnetism.com privacy policy that was archived on 2015-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150317014955id_/https%3A//www.customermagnetism.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customermagnetism.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102101605id_/https%3A//www.customermagnetism.com/privacy-policy) for the most accurate reproduction.*
 
 # Customer Magnetism Privacy Policy
 
