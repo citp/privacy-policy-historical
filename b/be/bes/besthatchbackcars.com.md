@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the besthatchbackcars.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015194652id_/http%3A//besthatchbackcars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the besthatchbackcars.com privacy policy that was archived on 2017-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170102071701id_/http%3A//besthatchbackcars.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 2016 Hatchback & New Cars
+# Privacy Policy | Hatchback & New Cars
 
 Privacy Policy
 
