@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igoldrush.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114003513id_/http%3A//www.igoldrush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igoldrush.com privacy policy that was archived on 2017-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170103063855id_/https%3A//www.igoldrush.com/privacy-policy) for the most accurate reproduction.*
 
 # iGoldrush Privacy Policy
 
