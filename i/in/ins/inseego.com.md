@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the inseego.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108225814id_/http%3A//www.inseego.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inseego.com privacy policy that was archived on 2017-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170103090412id_/http%3A//www.inseego.com/privacy.html) for the most accurate reproduction.*
 
 # Inseego - Privacy Policy
 
