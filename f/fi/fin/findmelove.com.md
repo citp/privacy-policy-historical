@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findmelove.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018143638id_/http%3A//findmelove.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findmelove.com privacy policy that was archived on 2017-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170103152004id_/http%3A//www.findmelove.com/privacy) for the most accurate reproduction.*
 
-# Find Me Love | findmelove.com
+# Find Me Love | www.findmelove.com
 
 September 28, 2014
 
