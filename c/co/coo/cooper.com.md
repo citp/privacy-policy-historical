@@ -1,24 +1,18 @@
-> *The following text is extracted and transformed from the cooper.com privacy policy that was archived on 2015-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150103172333id_/http%3A//www.cooper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cooper.com privacy policy that was archived on 2017-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170103225706id_/https%3A//www.cooper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Cooper
 
-Updated June 19, 2013
+**Updated June 19, 2013**
 
 Cooper knows that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. When you visiting cooper.com, you are accepting the practices described in this Privacy Policy. In the sections below, we explain what we do with any data that we gather, and what you can do to learn more about this.
 
 ## What personal information about customers does Cooper gather?
 
-  * Information you give us: The only information you give us that we store are e-mail addresses for mailings. All other information is not kept electronically by Cooper.
-  * Automatic information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses cooper.com. We use this information to help understand some practical things about our web traffic—which pages are visited most often, which browsers are used, the typical length of a visit, and so on.
-
-
+Information you give us: The only information you give us that we store are e-mail addresses for mailings. All other information is not kept electronically by Cooper. Automatic information: We receive and store certain types of information whenever you interact with us. For example, like many Web sites, we use “cookies,” and we obtain certain types of information when your Web browser accesses cooper.com. We use this information to help understand some practical things about our web traffic—which pages are visited most often, which browsers are used, the typical length of a visit, and so on.
 
 ## What About Cookies?
 
-  * Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser.
-  * The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Web site of its manufacturer.
-
-
+Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your browser to enable our systems to recognize your browser. The Help portion of the toolbar on most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on’s settings or visiting the Web site of its manufacturer.
 
 ## Does Cooper share the information we receive?
 
