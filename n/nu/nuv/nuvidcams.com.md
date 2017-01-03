@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nuvidcams.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102103109id_/http%3A//www.nuvidcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nuvidcams.com privacy policy that was archived on 2017-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170103062653id_/http%3A//nuvidcams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # NuvidCams - Privacy Policy
 
