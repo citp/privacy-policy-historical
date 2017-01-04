@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytopdirectory.info privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023224655id_/http%3A//www.mytopdirectory.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytopdirectory.info privacy policy that was archived on 2017-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170104182738id_/http%3A//www.mytopdirectory.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Its All Abou Blogging Here
 
@@ -32,4 +32,4 @@ The Site is not intended for children under the age of 13. Children under the ag
 If you have any questions about these Terms, please address them to admin@mytopdirectory.info.
 
 Last Updated  
-These terms were last updated on November 21, 2015
+These terms were last updated on November 21, 2016
