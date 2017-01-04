@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the demandprogress.org privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020112456id_/https%3A//demandprogress.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the demandprogress.org privacy policy that was archived on 2017-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170105000558id_/https%3A//demandprogress.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Demand Progress
 
