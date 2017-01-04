@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyroommate.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119101710id_/http%3A//www.easyroommate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyroommate.com privacy policy that was archived on 2017-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170104043559id_/http%3A//www.easyroommate.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
