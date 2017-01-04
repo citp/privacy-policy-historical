@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warmane.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118222543id_/http%3A//www.warmane.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warmane.com privacy policy that was archived on 2017-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170104205618id_/https%3A//www.warmane.com/policies/privacy) for the most accurate reproduction.*
 
 # Warmane | Privacy Policy
 
