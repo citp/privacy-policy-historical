@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 77tracking.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624061222id_/http%3A//v1.77tracking.com/admin/Privacy%2520and%2520Security%2520Policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 77tracking.com privacy policy that was archived on 2017-01-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170104044937id_/http%3A//v1.77tracking.com/admin/Privacy%2520and%2520Security%2520Policy.pdf) for the most accurate reproduction.*
 
 # PRIVACY & SECURITY POLICY G
 
