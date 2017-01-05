@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the openadmintools.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413000916id_/https%3A//www.openadmintools.com/en/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openadmintools.com privacy policy that was archived on 2017-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170105014621id_/https%3A//www.openadmintools.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Open Admin Tools
 
