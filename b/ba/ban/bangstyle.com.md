@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the bangstyle.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624120620id_/https%3A//www.bangstyle.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangstyle.com privacy policy that was archived on 2017-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170105182447id_/https%3A//www.bangstyle.com/privacy_policy) for the most accurate reproduction.*
 
 # 
 
 **BANGSTYLE PRIVACY POLICY**  
-**Effective as of October 21, 2015**
+**Effective as of July 12, 2016**
 
 **USE OF OUR SERVICES SIGNIFIES YOUR UNDERSTANDING AND AGREEMENT TO COMPLY WITH THE ENTIRE PRIVACY POLICY.**
 
 **Note to All Users**
 
-Our Commitment To Privacy. This privacy policy (“Privacy Policy”) is designed to inform you about how Bangstyle Pty Ltd. (“Bangstyle” and "Nailstyle") uses information we collect from you in connection with your use of Bangstyle and Nailstyle websites or applications (including mobile applications) or other services provided by Bangstyle (collectively “Services”). It is also intended to explain the conditions under which Bangstyle and Nailstyle uses and discloses that information and your rights relating to the collection, use and disclosure of that information. For purposes of this Privacy Policy, the terms “we,” “us,” and “our” refer to Bangstyle and Nailstyle, and “you” or “your” refers to you, as a user of the Services. 
+Our Commitment To Privacy. This privacy policy (“Privacy Policy”) is designed to inform you about how Cutter and Stiles, USA Inc, DBA Bangstyle (“Bangstyle” and "Nailstyle") uses information we collect from you in connection with your use of Bangstyle and Nailstyle websites or applications (including mobile applications) or other services provided by Bangstyle (collectively “Services”). It is also intended to explain the conditions under which Bangstyle and Nailstyle uses and discloses that information and your rights relating to the collection, use and disclosure of that information. For purposes of this Privacy Policy, the terms “we,” “us,” and “our” refer to Bangstyle and Nailstyle, and “you” or “your” refers to you, as a user of the Services. 
 
 **_Your Consent._**   
 By using the Services, you consent to our collection, use and disclosure of your personal information as described in this Privacy Policy. Please review the entire policy to learn about what type of information is gathered, how such information is used, and what information may be disclosed to third parties. If you do not consent to our practices, do not register, subscribe, sign up or create an account with Bangstyle. 
