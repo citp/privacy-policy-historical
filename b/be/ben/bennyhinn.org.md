@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bennyhinn.org privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910142925id_/http%3A//www.bennyhinn.org/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bennyhinn.org privacy policy that was archived on 2017-01-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170105163640id_/http%3A//www.bennyhinn.org/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Benny Hinn Ministries
 
