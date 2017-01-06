@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biotecnika.org privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709052559id_/https%3A//www.biotecnika.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biotecnika.org privacy policy that was archived on 2017-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170106104426id_/https%3A//www.biotecnika.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | BioTecNika
 
@@ -16,7 +16,7 @@ For More contacts visit our [Contact Us](https://web.archive.org/contact-us/) pa
 
   * The information we collect is used for internal review and is then discarded, used to improve the content of our Web page, used to customize the content and/or layout of our page for each individual visitor, used to notify consumers about updates to our Web site and .
 
-  *  **With respect to cookies:** We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, customize Web page content based on visitors' browser type or other information that the visitor sends.
+  * **With respect to cookies:** We use cookies to store visitors preferences, record user-specific information on what pages users access or visit, customize Web page content based on visitors' browser type or other information that the visitor sends.
 
   * If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address, writing to us at the above address.
 
@@ -26,7 +26,7 @@ For More contacts visit our [Contact Us](https://web.archive.org/contact-us/) pa
 
   * Please provide us with your name and phone number. We will be sure your name is removed from the list we share with other organizations
 
-  *  _ **With respect to Ad Servers**_ : To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. For further information, consult the privacy policy of:  
+  * _**With respect to Ad Servers**_ : To try and bring you offers that are of interest to you, we have relationships with other companies that we allow to place ads on our Web pages. As a result of your visit to our site, ad server companies may collect information such as your domain type, your IP address and click stream information. For further information, consult the privacy policy of:  
 [ http://www.google.com/privacy.html](https://www.biotecnika.org/privacy-policy/?xurl=%3A%2F%2Fwww.google.com%2Fprivacy.html)
 
   * With respect to security: We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site.
