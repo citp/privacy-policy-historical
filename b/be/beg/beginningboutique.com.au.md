@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beginningboutique.com.au privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827124758id_/https%3A//beginningboutique.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beginningboutique.com.au privacy policy that was archived on 2017-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170106045016id_/https%3A//beginningboutique.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -93,4 +93,6 @@ If for any reason, you believe your privacy has been breached, please contact in
 
 ### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us info@beginningboutique.com.au or call +61 413 028 685
+If you have any questions about this Privacy Policy, please contact us   
+3/40 Ross St, Newstead, QLD, 4006  
+info@beginningboutique.com.au or call +61 413 028 685
