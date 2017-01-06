@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the irakyat.com.my privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802192513id_/https%3A//www2.irakyat.com.my/personal/welcome/welcome.do%3FprivacySecurity%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the irakyat.com.my privacy policy that was archived on 2017-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170106124148id_/https%3A//www2.irakyat.com.my/personal/welcome/welcome.do%3FprivacySecurity%3D) for the most accurate reproduction.*
 
 # Privacy Policy
 
