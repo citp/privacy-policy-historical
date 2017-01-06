@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ghbase.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421075103id_/http%3A//www.ghbase.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ghbase.com privacy policy that was archived on 2017-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170106063750id_/https%3A//www.ghbase.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - GhBase•com™
+# Privacy Policy | GhBase•com™
 
 Privacy Policy for ghbase.com
 
