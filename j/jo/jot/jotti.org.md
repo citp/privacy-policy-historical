@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jotti.org privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120064848id_/https%3A//virusscan.jotti.org/en-US/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jotti.org privacy policy that was archived on 2017-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170106081639id_/https%3A//virusscan.jotti.org/en-US/doc/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Jotti's malware scan
 
