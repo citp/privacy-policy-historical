@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blipshift.com privacy policy that was archived on 2015-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151126135745id_/http%3A//blipshift.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blipshift.com privacy policy that was archived on 2017-01-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170106104445id_/https%3A//www.blipshift.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | blipshift
 
@@ -69,14 +69,12 @@ This policy was last updated 05/23/2012.
 If you have questions regarding this privacy policy you may contact us using the information below or complete our [online contact form](https://web.archive.org/pages/contact-us).
 
 blipshift 
+39-13 23rd St. 
   
 
 
-PO Box 290H 
-  
-
-
-Scarsdale, NY 10583 
+2nd Fl. 
+LIC, NY 11101 
 http://www.blipshift.com 
   
 
