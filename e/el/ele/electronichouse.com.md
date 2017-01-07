@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the electronichouse.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702180253id_/https%3A//www.electronichouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the electronichouse.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107065027id_/https%3A//www.electronichouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Electronic House
 
-EH Publishing, Inc. is committed to protecting your privacy to ensure a safe and enjoyable online experience.
+EH Publishing, Inc. d.b.a EH Media is committed to protecting your privacy to ensure a safe and enjoyable online experience.
 
-EH Publishing, Inc.  
+EH Publishing, Inc. d.b.a EH Media  
 Privacy Policy  
-Latest Revision: May 2016
+Latest Revision: October 2016
 
-Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. This Privacy Policy describes the policies of the publishers of this web site, EH Publishing, Inc., (“EH” or “we”), and its divisions, regarding the collection, use, disclosure and protection of the following types of information:
+Our site visitors’ privacy and trust are important to us. We provide this notice in order to make sure that your expectations and our practices are aligned, and that you are aware of your choices with regard to our use and disclosure of the information you provide to this site. This Privacy Policy describes the policies of the publishers of this web site, EH Publishing, Inc. d.b.a EH Media, (“EH” or “we”), and its divisions, regarding the collection, use, disclosure and protection of the following types of information:
 
   * Information obtained when you (“you” or “User”) visit our web sites.
   * This “Site”, ElectronicHouse.com
@@ -41,7 +41,7 @@ We use Personally Identifiable Information collected on this Site for the follow
 
 
 
-We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site. We may use the information you provide us to send you e-mail, fax and other communications on behalf of EH Publishing, Inc., and our affiliates. These communications may include e-mail newsletters, as well as offers for other EH Publishing, Inc. services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from EH Publishing, Inc . We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers either from us, or the third party directly, which is dependent on the origination of such messages.
+We also may use your information to better understand our Users and to improve our Site. For example, we may use this information to determine what portions of this Site are most popular and the demographics of our Users generally. Cookies and other User information also enable us to customize your experience on the Site. We may use IP addresses to help diagnose problems with our servers or to administer our Site. We may also use IP addresses to help identify a User during a particular session and to gather data regarding use of this Site. We may use the information you provide us to send you e-mail, fax and other communications on behalf of EH Publishing, Inc. d.b.a EH Media, and our affiliates. These communications may include e-mail newsletters, as well as offers for other EH Publishing, Inc. d.b.a EH Media services. All email newsletters will provide you with an opportunity to opt out of receiving future issues of the newsletter. All promotional offers will include an opportunity to opt out of receiving future promotions from EH Publishing, Inc. d.b.a. EH Media We also may use your information to send you e-mail and other communications on behalf of third parties. Each of these communications will include instructions for opting out of receiving future third party offers either from us, or the third party directly, which is dependent on the origination of such messages.
 
 #### Disclosing of Your Information: To Whom and When
 
@@ -49,11 +49,11 @@ We may disclose aggregated, anonymous statistics about many Users, and individua
 
   * Name and/or business name and title (but not information by which you may be contacted (i.e. name, postal address, telephone number, fax number and e-mail address ) in representative lists of our magazine circulation and/or web site membership, but not for further use or dissemination by the recipient.
   * Portions of this Site may be provided as “Premium” or “Sponsored” content. Premium or Sponsored content is made available to Users on the condition that we may share the User’s registration information with our trusted third party partners and sponsors, advertisers and/or their service providers. This partner or sponsor your information could potentially be shared with may not always be available or displayed when accessing Premium and/or Sponsored content on the Site.
-  * These third parties are under strict contractual agreement with EH Publishing to keep any Personally Identifiable User Registration data confidential, and only market their own products and services themselves (or via their service providers on their behalf). Any further sharing of user data or sales of this registration data by our third party partners and sponsors is strictly prohibited.
-  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving EH Publishing, Inc. or this Site.
+  * These third parties are under strict contractual agreement with EH Publishing, Inc. d.b.a EH Media to keep any Personally Identifiable User Registration data confidential, and only market their own products and services themselves (or via their service providers on their behalf). Any further sharing of user data or sales of this registration data by our third party partners and sponsors is strictly prohibited.
+  * To any successor pursuant to an asset sale, merger, consolidation, restructuring, reorganization, liquidation or other similar transaction involving EH Publishing, Inc. d.b.a EH Media or this Site.
   * When we believe such disclosure is required by law, regulation or securities exchange requirement or for the protection of persons or property.
   * When disclosure is necessary to accomplish the purpose for which you provide it.  
-To other EH Publishing, Inc. member companies for any uses consistent with those disclosed in this Privacy Policy.
+To other EH Publishing, Inc. d.b.a EH Media member companies for any uses consistent with those disclosed in this Privacy Policy.
 
 
 
@@ -70,7 +70,7 @@ You may view and update information that you previously submitted to this Site b
 This Site contains content, services, advertising and other materials that link to Web sites operated by third parties. We have no control over those other sites, and this Privacy Policy does not apply to them. We encourage you to refer to the privacy policies, if any, of those sites.
 
 Our sites are owned and operated by:  
-EH Publishing, Inc.  
+EH Publishing, Inc. d.b.a EH Media  
 111 Speen St.  
 Framingham, MA 01701  
 508-663-1500
