@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the costadelhome.com privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320034421id_/http%3A//media.costadelhome.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costadelhome.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107100647id_/http%3A//media.costadelhome.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Costa del Home
 
-**PRIVACY POLICY (costadelhome.com); Publicación Costa del Home S.L. (CIF B-93244119)**
+**PRIVACY POLICY (costadelhome.com); Costa del Home Digital S.L. (CIF B-93448512)**
 
 **Introduction**
 
-The costadelhome.com website (“ **our website** “) is operated by Publicación Costa del Home S.L.
+The costadelhome.com website (“ **our website** “) is operated by Costa del Home Digital S.L.
 
 The Privacy Policy set out below outlines the manner in which we manage personal information obtained through or displayed on our website or otherwise provided by estate agents or visitors to our website. By using our website, or entering into an agreement with us (eg. to list a property or advertise on our website) you are taken to have read, and agreed to the collection, use, disclosure and handling of your personal information in accordance with, this Privacy Policy.
 
@@ -68,7 +68,7 @@ We also disclose real estate agent contact details (which may include a profile 
 
 We strive to ensure the security, integrity and privacy of personal information submitted to our websites, and we review and update our security measures in light of current technologies. Unfortunately, no data transmission over the internet can be guaranteed to be totally secure. However, we will endeavour to take reasonable steps to protect the personal information you may transmit to us or from our online products and services. Once we do receive your transmission, we will also use reasonable endeavors to ensure its security on our systems. In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality of any personal information held by us. However, we are not responsible for events arising from unauthorized access to your personal information.
 
-Data (including personal data) submitted by costadelhome.com’s customers and visitors to our website may be held on servers located in Spain or in the data centres of Publicación Costa del Home S.L. outsourced data processors with data centers in the United States of America and Europe. The purposes of transfer of data outside of Spain are the secure storage, back-up and retrieval of data. Publicación Costa del Home S.L. has implemented policies and procedures to safeguard the secure storage and processing of data intra-group, has verified the security arrangements of its outsourced data processors and has implemented contractual arrangements intra-group and with its outsourced data processors in accordance with the Organic Law 15/1999, of 13 December, of Personal Protection Character Law and Royal Decree 1720/2007. You give consent to the transfer of personal data on these terms and for the purposes described above.
+Data (including personal data) submitted by costadelhome.com’s customers and visitors to our website may be held on servers located in Spain or in the data centres of Costa del Home Digital S.L. outsourced data processors with data centers in the United States of America and Europe. The purposes of transfer of data outside of Spain are the secure storage, back-up and retrieval of data. Costa del Home Digital S.L. has implemented policies and procedures to safeguard the secure storage and processing of data intra-group, has verified the security arrangements of its outsourced data processors and has implemented contractual arrangements intra-group and with its outsourced data processors in accordance with the Organic Law 15/1999, of 13 December, of Personal Protection Character Law and Royal Decree 1720/2007. You give consent to the transfer of personal data on these terms and for the purposes described above.
 
 **Correction and access**
 
