@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019022624id_/http%3A//www.bfads.net/Legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bfads.net privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107171525id_/https%3A//www.bfads.net/Legal) for the most accurate reproduction.*
 
 # Black Friday Ads - Legal Information and Privacy Policy
 
