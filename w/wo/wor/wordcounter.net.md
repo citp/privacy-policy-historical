@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordcounter.net privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913214136id_/https%3A//wordcounter.net/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordcounter.net privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107012457id_/https%3A//wordcounter.net/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Word Counter Blog
 
@@ -42,4 +42,4 @@ Wherever we collect sensitive information (such as credit card data), that infor
 
 Our Privacy Policy may change from time to time and all updates will be posted on this page.
 
-If you feel that we are not abiding by this privacy policy, you should contact us immediately via telephon via email at info@1s0s.com
+If you feel that we are not abiding by this privacy policy, you should contact us immediately via email at info AT 1s0s.com
