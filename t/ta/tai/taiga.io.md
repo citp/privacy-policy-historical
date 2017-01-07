@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taiga.io privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517001357id_/https%3A//taiga.io/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taiga.io privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107071728id_/https%3A//taiga.io/privacy-policy.html) for the most accurate reproduction.*
 
 # Taiga.io
 
