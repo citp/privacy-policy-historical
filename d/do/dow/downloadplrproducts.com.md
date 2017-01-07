@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadplrproducts.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820091211id_/https%3A//downloadplrproducts.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadplrproducts.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107041128id_/https%3A//downloadplrproducts.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Download PLR Products
 
