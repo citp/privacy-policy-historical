@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104152751id_/http%3A//www.shoeme.ca/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoeme.ca privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107155113id_/http%3A//www.shoeme.ca/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SHOEme.ca
 
