@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the eatclean.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107212044id_/http%3A//www.rodaleinc.com/customer-care/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy - Rodale Inc
+
+Personally identifying information (“PII”) is information about you as an identifiable individual. Rodale collects PII from you offline when you communicate with us by mail, fax, telephone, or in person. We collect PII from you online when you visit our websites, through email, through social media, and through the use of our mobile applications. We also collect PII during transactions, sponsored events, and contests/sweepstakes. PII includes your name, postal address, email address, telephone and cell phone numbers, wireless service provider, and all other information that identifies you or that is subject to personal information protection legislation.
+
+We also collect information about your interaction with Rodale sites, applications, and services. For example, we use website analytics tools on our site to retrieve information from your browser, including the site you came from, the search engine(s) and the keywords you used to find our site, the pages you view within our site, your browser add-ons, and your browser’s width and height. We also use technologies, such as cookies and web beacons (described below), to collect information about the pages you view, the links you click, and other actions you take on our sites and services. Additionally, we collect certain standard information that your browser sends to every website you visit, such as your IP address, browser type and language, access times, and referring website addresses.
+
+When you receive newsletters or promotional email from Rodale, we use web beacons (described below), customized links, or similar technologies to determine whether the email has been opened and which links you click.
+
+Information collected through one Rodale site, application, or service may be combined with information obtained through other Rodale sites, applications, or services. We may also supplement the information we collect with information obtained from other companies from time to time.
