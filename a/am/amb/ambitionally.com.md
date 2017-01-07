@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ambitionally.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405044317id_/http%3A//nathalielussier.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ambitionally.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107101603id_/http%3A//ambitionally.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Nathalie Lussier
+# Privacy Policy - AmbitionAlly
 
 Our Privacy Policy was last updated and posted on May 29, 2013. It governs the privacy terms of our Website, located at http://nathalielussier.com. Any capitalized terms not defined in our Privacy Policy, have the meaning as specified in our Terms of Service.
 
@@ -22,10 +22,8 @@ When you use our Website, we automatically collect certain computer information 
 
   * **Cookies**  
 Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
-
   * **Automatic Information**  
 We automatically receive information from your web browser or mobile device. This information includes the name of the website from which you entered our Website, if any, as well as the name of the website to which you’re headed when you leave our website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
-
 
 
 
@@ -34,16 +32,12 @@ We use the information we receive from you as follows:
 
   * **Customizing Our Website**  
 We may use the Personally Identifiable information you provide to us along with any computer information we receive to customize our Website.
-
   * **Sharing Information with Affiliates and Other Third Parties**  
 We do not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. We may provide your Personally Identifiable Information to affiliates that provide services to us with regards to our Website (i.e. payment processors, Website hosting companies, etc.); such affiliates will only receive information necessary to provide the respective services and will be bound by confidentiality agreements limiting the use of such information.
-
   * **Data Aggregation**  
 We retain the right to collect and use any Non Personal Information collected from your use of our Website and aggregate such data for internal analytics that improve our Website and Service as well as for use or resale to others. At no time is your Personally Identifiable Information included in such data aggregations.
-
   * **Legally Required Releases of Information**  
 We may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of Nathalie Lussier Media Inc., our Users, employees, and affiliates.
-
 
 
 
@@ -55,5 +49,3 @@ We reserve the right to modify this Privacy Policy at any time. You should revie
 
 **Questions About Our Privacy Practices or This Privacy Policy**  
 If you have any questions about our Privacy Practices or this Policy, please contact us.
-
-[](https://www.pinterest.com/pin/create/button/)
