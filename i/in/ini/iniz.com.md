@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iniz.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118044225id_/https%3A//iniz.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iniz.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107174225id_/https%3A//iniz.com/privacy-policy) for the most accurate reproduction.*
 
 # INIZ - Privacy Policy
 
@@ -60,7 +60,7 @@ As part of the California Online Privacy Protection Act, all users of our site m
 **This online privacy policy applies only to information collected through our website and not to information collected offline.
 
 **Terms and Conditions  
-**Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [here](https://web.archive.org/web/20161118044225id_/https%3A//iniz.com/terms).
+**Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [here](https://web.archive.org/web/20170107174225id_/https%3A//iniz.com/terms).
 
 **Your Consent  
 **By using our site, you consent to our privacy policy.
