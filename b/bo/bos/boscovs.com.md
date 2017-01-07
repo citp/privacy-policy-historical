@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boscovs.com privacy policy that was archived on 2016-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160717145513id_/http%3A//www.boscovs.com/wcsstore/boscovs/images/store/product/docs/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boscovs.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107065113id_/http%3A//www.boscovs.com/wcsstore/boscovs/images/store/product/docs/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Boscov’s Privacy Policy
 
