@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iseepassword.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016183834id_/http%3A//www.iseepassword.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iseepassword.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107090305id_/https%3A//www.iseepassword.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy of iSeePassword
 
