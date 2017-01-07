@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awok.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528012742id_/http%3A//www.awok.com/help-info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awok.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107165702id_/https%3A//www.awok.com/help-info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AWOK Online Shopping Store
 
@@ -54,7 +54,7 @@ If you believe that your password has been misused, please notify us immediately
 
 ## Correcting Your Information and Removal/Opt-Out
 
-If your name, e-mail, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by going to your profile under “My Account”. If you request us to do so, we will amend any personal information which is inaccurate, incomplete or out of date. You may \ directly contact us or send an email at info@awok.com. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at info@awok.com or by clicking on the one click unsubscribe link at the bottom of any marketing e-mail you receive from us.
+If your name, e-mail, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by going to your profile under “My Account”. If you request us to do so, we will amend any personal information which is inaccurate, incomplete or out of date. You may \ directly contact us or send an email at support@awok.com. In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at support@awok.com or by clicking on the one click unsubscribe link at the bottom of any marketing e-mail you receive from us.
 
 ## Children and Privacy
 
