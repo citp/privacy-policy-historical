@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the advancedmedicalcertification.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414151357id_/https%3A//advancedmedicalcertification.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the advancedmedicalcertification.com privacy policy that was archived on 2017-01-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170107231017id_/https%3A//advancedmedicalcertification.com/privacy-policy) for the most accurate reproduction.*
 
 # AMC - Privacy Policy
 
