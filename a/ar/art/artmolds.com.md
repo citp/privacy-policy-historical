@@ -1,93 +1,184 @@
-> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2014-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140623232133id_/http%3A//www.artmolds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artmolds.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108035809id_/https%3A//www.artmolds.com/privacy) for the most accurate reproduction.*
 
-# Privacy
+# Privacy | EnvironMolds - ArtMolds
 
-##### Security Statement  
-  
-| 
+* * *
 
-ArtMolds' checkout process is protected with Secure Sockets Layer (SSL), the standard for encrypted commercial transactions throughout the Internet. Shop safely on-line for art supplies with ArtMolds! SSL encrypts all personal information, including your name and credit card number, so that this information cannot be read as it travels through the Internet.  
-  
----  
-  
-We guarantee that every online transaction you make will be 100% safe. This means you pay nothing if unauthorized charges are made to your card as a result of shopping at our online store. Under the Fair Credit Billing Act, your bank cannot hold you liable for more than $50.00 of fraudulent charges. If your bank does hold you liable for any of this $50.00, we will cover the entire liability for you, up to the full $50.00. We will only cover this liability if the unauthorized use of your credit card resulted through no fault of your own from purchases made while using the secure server. In the event of unauthorized use of your credit card, you must notify your credit card provider in accordance with its reporting rules and procedures.  
-  
-| 
+This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
-[](https://smarticon.geotrust.com/smarticonprofile?Referer=http://www.artmolds.com/dev/)
+**What personal information do we collect from the people that visit our blog, website or app?**
 
-| 
+When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address, mailing address, phone number or other details to help you with your experience.
 
-ArtMolds uses GeoTrust, an industry leader, as it's security verification service. Transaction information is encrypted prior to transmission using the most powerful and secure encryption technology. In addition, our site ownership, operation, and identity is verified as authentic and valid. Click on the GeoTrust Secured icon at the bottom of every page to verify and view ArtMolds' security certificate.  
-  
----|---  
-  
-Only those web pages where you actually enter your credit card and billing information pass encrypted information. When you request one of these checkout screens, the page's URL begins with `https` instead of `http`, and the "security" icon on your browser has the appearance of a closed padlock.  
-  
-##### Privacy Statement  
-  
-| 
+**When do we collect information?**
 
-ArtMolds does not collect or maintain any information about how you as an individual use our website. We analyze our web log statistics as a whole, but we do not track your browsing as an individual, and we do not share or offer this information to other companies.  
-  
----  
-  
-ArtMolds, like all companies that sell through a catalog or through an online store, maintains a list of current and potential customers. If you order from us, or if you request a catalog, then we will send you a new catalog from time to time, depending on the amount of business you do with us. We like to have email as well as postal addresses if possible. It's our best way of staying in touch.  
-  
-We recognize that you may or may not want to receive future catalogs and offers. If you don't want either catalogs or email from us, let us know and we will follow your wishes. If you're an on-line customer, you can tell us your wishes on this website, by clicking on "My Account" (located on every page of our site, in the upper right corner) and clicking on the link to "Update your Account Preferences".  
-  
-Like other companies in our industry, we sometimes rent or exchange names and mailing addresses with companies that offer catalogs in related fields. If you do not wish to receive other catalogs, please call 1-866-278-6653or email us at [info@artmolds.com](mailto:info@artmolds.com).  
-  
-We do not rent or exchange email addresses or telephone numbers, and we have no plans to do so in the future. We maintain that information in our own records only so that we can contact you.  
-  
-We do no "direct telemarketing" by telephone or fax, and we will never offer your name and phone number to any company that does. We occasionally call our customers to ask them how our service is. For example, we sometimes monitor the shippers we use to make sure that orders are delivered in a timely manner, and without damages. However, we do no telephone marketing and we do not sell information to companies that do.  
-  
-If you are on online customer and you have created an account on this website, you can notify us automatically through the Internet, by clicking on "My Account" (located on every page of our site, in the upper right corner) and clicking on the link to "Update your Account Preferences". If you have never been our customer, but you request a catalog, we offer you the same options on our Catalog Request page.  
-  
-In the event artmolds.com or substantially all of its assets are acquired or merged with another company, all of the customer information that we have collected may be transferred to the new company.  
-  
-##### What if I don't want e-mail or catalogs?  
-  
-| 
+We collect information from you when you register on our site, place an order, subscribe to a newsletter or enter information on our site.
 
-At ArtMolds, we give you the option to change your privacy settings once you have logged into our website. While logged in, click on "My Account" (located on every page of our site, in the upper right corner), then click on the link to "Update your Account Preferences".  
-  
----  
-  
-On the "Your Account Preferences" page, you will find a series of checkboxes. Use these checkboxes to tell us whether you are interested in receiving email promotions from us, mailings from us, or mailings from other companies that may be interested in contacting you.  
-  
-If you've never ordered online, but you are already a customer of ours, please feel free to write us and let us know your wishes. Write to us at [info@artmolds.com](mailto:info@artmolds.com), or send us an ordinary letter. It helps to include your customer number (available on any recent invoice, or on the address label of a recent catalog) so that we can match your request with information in our records. Although we try hard to avoid it, we sometimes end up with duplicate records for a customer.  
-  
-If you have asked us not to send catalogs, but you still receive one, you may be on other mailing lists. We periodically rent and exchange names with a few other companies that offer similar products and services. We try hard not to send anybody a catalog unnecessarily, and we seek your help in avoiding duplicate accounts and unnecessary mailings.  
-  
-If you are interested in avoiding catalog mailings in general, the Direct Marketing Association and the United States Postal Service maintain a list of consumers who do not want to receive unsolicited catalogs. If you put your name on the DMA list and keep your mailing information on that list up to date, we will not rent your name or mail you a catalog unless you request it.  
-  
-We try hard not to mail unnecessarily to current and prospective customers who do not want to receive catalogs. Unsolicited and unwanted catalogs are very costly to us. We really appreciate your help in avoiding unwanted mailings.  
-  
-##### What are cookies, and do you use them?  
-  
-| 
+**How do we use your information?**
 
-Cookies are bits of information your web browser stores on your computer to help a server (such as our website) communicate with you. These cookies are not accessible by any company or internet domain other than our own website located at artmolds.com.  
   
----  
-  
-We do use cookies to improve your shopping experience. When you visit artmolds.com, a cookie helps us keep track of your order as you shop on our site. If you are a "Registered Customer", a cookie allows us to recognize you when you return to our site and provides you with access to your account information as well as helps assist in reducing data input during checkout. We may monitor and maintain information about your use of our Web site in a manner that does not identify you. In either case, this information helps us serve you better by improving our site design, as well as our products, services, contests, and promotions.  
-  
-We also use cookies to track and maintain the identity of the Web site you visited immediately prior to ours to further improve our site design and fulfill contracts with our business partners. We do not otherwise track any information about your use of other Web sites.  
-  
-ArtMolds does use various 3rd party cookies to sponsor other websites you may visit, provide promotions on other websites, and capture visitor website usage in aggregate (not individually) for analytic and diagnostic purposes.  
-  
-You can refuse all cookies, 1st party cookies, and/or 3rd party cookies by turning them off in your browser, however, if you turn off 1st party cookies, we will not be able to track your order or enable you to make a purchase from our site nor will we be able to recognize you as a "Registered Customer" to allow you access to your account information or assist data input during checkout processing.  
-  
-If you are concerned about cookies and want to avoid keeping them on your machine, we urge you to use or purchase one of the many excellent "Cookie Eliminator" programs readily available. Alternatively, many modern web browsers allow you to configure your preferred "Privacy" settings as they relate to cookies. For example, you may choose to not accept "3rd party cookies" or you may wish to "delete" all cookies upon closing/exiting the browser application. Other than forcing you to log in again, using any or all of these methods will not affect your use of artmolds.com.  
-  
-##### What other information do you collect?  
-  
-As you browse and order on our site, our servers log your activity and your path through artmolds.com, recording each request for a page as well as other information. ArtMolds collects and analyzes data about how visitors use this website, but we do not use this information to identify or contact individual users nor do we supply any data that could identify individual users to a third party. We use this data only to improve our site and our services. We do nothing with this information other than analyze it in aggregate, use it to diagnose occasional problems, or for audit purposes in the event of fraudulent or unscrupulous activity.  
-  
-##### Policy Changes
 
-ArtMolds provides its services to you subject to the preceding policies which may be updated and/or revised from time to time by ArtMolds without notice to you, and which become effective when posted. Please refer to this page to review our most current policies and terms of use.  
+
+We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
+
+**•** To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+
+**•** To improve our website in order to better serve you.
+
+**•** To allow us to better service you in responding to your customer service requests.
+
+**•** To administer a contest, promotion, survey or other site feature.
+
+**•** To quickly process your transactions.
+
+**•** To send periodic emails regarding your order or other products and services.
+
+**How do we protect visitor information?**
+
   
-The table below lists the cookies we collect and what information they store.
+
+
+Our website is scanned on a regular basis for security holes and known vulnerabilities in order to make your visit to our site as safe as possible.
+
+We use regular Malware Scanning.
+
+Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology.
+
+We implement a variety of security measures when a user places an order enters, submits, or accesses their information to maintain the safety of your personal information.
+
+All transactions are processed through a gateway provider and are not stored or processed on our servers.
+
+**Do we use 'cookies'?**
+
+Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future.
+
+**•** Help remember and process the items in the shopping cart.
+
+**•** Understand and save user's preferences for future visits.
+
+**•** Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third party services that track this information on our behalf.
+
+You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies.
+
+If you disable cookies off, some features will be disabled It won't affect the users experience that make your site experience more efficient and some of our services will not function properly.
+
+However, you can still place orders .
+
+**Third Party Disclosure**
+
+  
+
+
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information unless we provide you with advance notice. This does not include website hosting partners and other parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. 
+
+However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+
+**Third party links**
+
+We do not include or offer third party products or services on our website.
+
+**Google**
+
+  
+
+
+Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+
+We use Google AdSense Advertising on our website.
+
+Google, as a third party vendor, uses cookies to serve ads on our site. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our site and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+**We have implemented the following:**
+
+**•** Remarketing with Google AdSense
+
+**•** Demographics and Interests Reporting
+
+We along with third-party vendors, such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions, and other ad service functions as they relate to our website.
+
+_Opting out:  
+Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising initiative opt out page or permanently using the Google Analytics Opt Out Browser add on._
+
+**California Online Privacy Protection Act**
+
+CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf
+
+**According to CalOPPA we agree to the following:**
+
+Users can visit our site anonymously
+
+Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website.
+
+Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above.
+
+Users will be notified of any privacy policy changes:
+
+**•** On our Privacy Policy Page
+
+Users are able to change their personal information:
+
+**•** By emailing us
+
+**How does our site handle do not track signals?**
+
+We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
+
+**Does our site allow third party behavioral tracking?**
+
+It's also important to note that we do not allow third party behavioral tracking
+
+**COPPA (Children Online Privacy Protection Act)**
+
+When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online.
+
+We do not specifically market to children under 13.
+
+**Fair Information Practices**
+
+  
+
+
+The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information.
+
+**In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur:**
+
+We will notify the users via email
+
+**•** Within 7 business days
+
+We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors.
+
+**CAN SPAM Act**
+
+The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations.
+
+**We collect your email address in order to:**
+
+**•** Send information, respond to inquiries, and/or other requests or questions.
+
+**•** Process orders and to send information and updates pertaining to orders
+
+**•** We may also send you additional information related to your product and/or service.
+
+**•** Market to our mailing list or continue to send emails to our clients after the original transaction has occurred
+
+**To be in accordance with CANSPAM we agree to the following:**
+
+**•** NOT use false, or misleading subjects or email addresses
+
+**•** Identify the message as an advertisement in some reasonable way
+
+**•** Include the physical address of our business or site headquarters
+
+**•** Monitor third party email marketing services for compliance, if one is used.
+
+**•** Honor opt-out/unsubscribe requests quickly
+
+**•** Allow users to unsubscribe by using the link at the bottom of each email
+
+**  
+If at any time you would like to unsubscribe from receiving future emails, you can**
+
+info@artmolds.com and we will promptly remove you from **ALL** correspondence.
+
+If there are any questions regarding this privacy policy you may contact us using the information below.
