@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themehorse.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316225244id_/http%3A//themehorse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themehorse.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108185540id_/https%3A//www.themehorse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Theme Horse
 
