@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whitewall.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107194352id_/https%3A//us.whitewall.com/service/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitewall.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108141735id_/https%3A//us.whitewall.com/service/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WhiteWall
 
