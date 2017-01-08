@@ -1,98 +1,58 @@
-> *The following text is extracted and transformed from the giftobit.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912070055id_/https%3A//giftobit.com/index.php/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the giftobit.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108120919id_/https%3A//giftobit.com/index.php/page/privacy_policy) for the most accurate reproduction.*
 
 # GIFTOBIT | Home
 
-Privacy Policy
+GiftoBit Foundation Privacy Policy
 
-This Privacy Policy sets out how GiftoBit (not for profit, non-religious and non-political international NGO (Non-Government Organisation) protects the privacy of personal information that is collected through the website available at [GiftoBit.com](http://giftobit.com/)  **(Site)** , or directly from you. We are committed to ensuring that your privacy is protected. Please read this Privacy Policy carefully.
+##### Overview of our Privacy Policy
 
-Should we ask you to provide any information by which you can be identified when using this Site, we assure you that it will only be used in accordance with this Privacy Policy and the Australian Privacy Principles. You are not required to provide any personal information to us. If you do not do so, but it may affect your use of this Site or the products and services offered on the Site.
+For those who want the short and relevant answer, we will always, ALWAYS, respect your privacy, your email address, and the information you give us. We’re not going to sell it, trade it, or abuse any information you submit to us. But I’m sure you’ve got some questions. Here’s our answers to what may be running through your mind.
 
-This Privacy Policy may be amended from time to time with changes, additions and deletions, at our sole discretion. You should check this page regularly to ensure that you are aware of any changes. Your continued use of the Site following any amendments indicates that you accept the amendments.
+##### How’s my information going to be used?
 
-#### Collection of personal information
+When you sign up on our Products or Services at giftobit.com, you’ll be receiving relevant information about GiftoBit Foundation (GiftoBit), invites to our weekly online training, news relating to your GiftoBit account (such as advice of new payments received, or new referrals who have used your referral link), and information about programs or products that pertain to Bitcoin, cryptocurrency, philanthropy and how you can create wealth online.
 
-The information that we collect may include:
+##### How do I to stop receiving emails from you in the future?
 
-names  
-contact information, including email address  
-demographic information such as postcodes  
-other relevant information  
-any other information requested on this Site or otherwise required by us or provided by you
+If you wish to stop receiving emails from us, you may unsubscribe at any time using the link provided at the bottom of all our emails. But if you’re still receiving emails from us, don’t worry, simply email us at [admin@giftobit.com.](mailto:admin@giftobit.com)
 
-As with most online businesses, we may log information about your access and use of our Site, including through the use of Internet cookies, your communications with our Site, the type of browser you are using, the type of operating system you are using and the domain name of your Internet service provider.
+##### Who’s going to get my information?
 
-We may contact you to voluntarily respond to questionnaires, surveys or market research to seek your opinion and feedback.  Providing this information is optional to you.
+Your information’s safe with us. So don’t worry about getting spam emails about Viagra or debt consolidation. We’ll never give out your email address or any of the information you submit on this site to anyone else. Only GiftoBit and your direct sponsor (whose referral link you used to register) will know your email address. GiftoBit is passionate about supporting peer-to-peer communications within our community, and your direct sponsor is responsible for answering any personal questions you may have, and assisting you in any way possible. Look forward to receiving your sponsor’s welcoming email!
 
-We may receive personal information from third parties. If we do, we will protect it as set out in this Privacy Policy.
+##### What if I email you guys?
 
-#### Use of personal information
+Your emails are confidential; we won’t share your email, data, or email address. It’s just between you and us.
 
-We collect and use personal information for the following purposes:  
-to provide information, products and services to you  
-to respond to your queries for advice and services  
-to better understand your needs, enabling us to improve our products and services  
-for internal record keeping  
-to circulate promotional emails about new products and services, special offers or other information which we think you may find interesting  
-to contact you for market research purposes  
-direct marketing  
-to customise the Site according to your interests   
-to customise documents according to your needs
+##### How tech savvy are you guys when it comes to data security?
 
-We may contact you by a variety of measures including by telephone, email, sms or mail.
+We’re real good. We have lots of administrative, managerial, and technical security measures put in place to protect your personal information. We’ve never had a breach of security and always strive for excellence in maintaining your privacy. We have also been authenticated by SiteLock, which gives extra security to our website. And you will notice, as one of our members, which we always encourage the use of Two Factor Authentication (2FA) to keep your account secure – and that is why you are emailed for confirmation every time you sign in to your GiftoBit back office.
 
-#### Disclosure of personal information
+##### Your privacy is very important to us
 
-We may disclose personal information:
+We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet’s vast array of information, tools, and opportunities with complete confidence.  
+We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our organization collects information from all end users of our Internet services (the “Services”), including those who access some of our Services but do not have accounts (“Visitors”) and those who may purchase Products and/or subscribe to the Service (“Members”). This Policy also explains what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully.
 
-for the purpose of providing information, products and services
+##### We Appreciate Your Right to Anonymity 
 
-providing information, products and services to you which may include parties located, or that store data, outside of Australia
+Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address and telephone number. The personal information collected from Members during the registration process (or at any other time) is used primarily to provide a customized experience as you use our Products and Services. Your information will never be licensed or sold to any third party. We appreciate your right to anonymity, and do not check if you are using your real or legal name when you register with us. GiftoBit operates as a Non-Government Organization (NGO) and we never provide disclosure of your personal information to any bodies, groups or persons.
 
-By providing us with personal information, you consent to this disclosure. Where we disclose your personal information to third parties, we will request or otherwise seek to get comfortable that the third party follows the Australian Privacy Principles regarding handling your personal information.
+##### Responses to email inquiries
 
-If there is a change of control of our business or a sale or transfer of business assets, we reserve the right to transfer to the extent permissible at law our user databases, together with any personal information and non-personal information contained in those databases. This information may be disclosed to a potential purchaser. We would seek to only disclose information in good faith and where we have sought to maintain confidentiality.
+When Visitors or Members send email inquiries to our organization, the return email address is used to answer the email inquiry we receive. Our organization does not use the return email address for any other purpose and does not share the return email address with any third party.
 
-#### Security
+##### Public forums
 
-We are committed to ensuring that the information you provide to us is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure that information and protect it from misuse, interference, loss and unauthorised access, modification and disclosure.
+Some parts of our site or related systems may enable you to participate in public services such as Facebook groups, blogs, and live events. Please use discretion when posting personal information about yourself when using these services. Be aware that when you disclose personal information at these sites, such as your name, member name, email address, etc., the information may be collected and used by others to send unsolicited email. The services are open to the public, and what you post there can be seen by anyone and is not protected. We try to moderate the comments as best we can but we can’t guarantee total control of the comments that you may receive while you participate in these services. Sometimes, you may find other people’s comments to be offensive, harmful or inaccurate.
 
-No information transmitted over the Internet can be guaranteed to be secure. We cannot guarantee the security of any information that you transmit to us, or receive from us. The transmission and exchange of information is carried out at your own risk. Although we take measures to safeguard against unauthorised disclosures of information, we cannot assure you that personal information that we collect will not be disclosed in a manner that is inconsistent with this Privacy Policy.
+##### Our organization’s commitment to data security
 
-#### How we use cookies
+We implement a variety of administrative, managerial, and technical security measures to help protect your personal information. Our organization has various internal control standards which relate specifically to the handling of personal information. These include certain controls to help safeguard the information we collect online. Our employees are trained to understand and comply with these controls and we communicate our Privacy Notice, practices and guidelines to our employees. However, while we strive to protect your personal information, you must also take steps to protect your information. We urge you to take every precaution to protect your personal information while you are on the Internet, and to make use of Two Factor Authentication (2FA) and to utilize an email service provider that provides you with 2FA. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party “hackers” from illegally obtaining this information.
 
-We may use cookies on our Site from time to time. A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs and preferences by collecting and remembering information about you.
+##### Revisions to this policy
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse information about web page traffic and improve our Site by tailoring it to your needs. We use this information for statistical analysis purposes only, following which the data is removed from the system.
+Our organization reserves the right to revise, amend, or modify this policy, and our other policies and agreements at any time and in any manner, by updating this posting.
 
-Overall, cookies help us provide you with a better Site, by enabling us to monitor which pages you find useful and which you do not. A cookie does not give us access to your computer or any information about you, other than the data you provide to us.
+##### Where to direct questions about our privacy policy
 
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies but you can usually modify your browser settings to decline cookies if you prefer. This may, however, prevent you from taking full advantage of the Site.
-
-We may also use web beacons on this Site from time to time. Web beacons or clear .gifs are small pieces of code placed on a web page to monitor the behaviour and collect data about the visitors viewing a web page. For example, web beacons can be used to count the users who visit a web page or to deliver a cookie to the browser of a visitor viewing that page.
-
-#### Links to other websites
-
-Our Site may contain links to other websites of interest. Please note that we do not have any control over those websites. We are not responsible for the protection and privacy of any information which you provide whilst visiting such websites and such websites are not governed by this privacy policy. You should exercise caution when accessing such websites and look at the privacy policy applicable to the website in question.
-
-#### Controlling your personal information
-
-Choice and Consent: Providing us with your personal information is optional to you. You can choose not to provide personal information. When you provide us with your personal information, you consent to the terms in this Privacy Policy, and to us disclosing or receiving your personal information for these purposes. We will not sell, distribute or lease your personal information to third parties unless we have your permission or are legally required to do so.
-
-Restrict: You may choose to restrict the collection or use of your personal information. If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by contacting us, details below.
-
-Access: You may request details of personal information that we hold about you in accordance with the provisions of the Privacy Act 1988 (Cth). A small administrative fee may be payable for the provision of information. If you would like a copy of the information which we hold about you, please email us. We reserve the right to refuse to provide you with information that we hold about you, in certain circumstances set out in the Privacy Act.
-
-Correction: If you believe that any information we hold on you is inaccurate, out of date, incomplete, irrelevant or misleading, please contact us, details below. We rely in part upon clients advising us when their personal information changes.  We will respond to any request within a reasonable time and will endeavour to promptly correct any information found to be incorrect so that the information is accurate, up to date, complete, relevant and not misleading.
-
-Unsubscribe: To unsubscribe from our e-mail database, or opt out of communications, please contact us at the details below.
-
-#### Complaints
-
-If you believe that we have breached the Australian Privacy Principles and wish to make a complaint about that breach then please email us setting out details of the breach. We will promptly investigate your complaint and will endeavour to respond to you in writing within 28 days setting out the outcome of our investigation, what steps we propose to take to remedy the breach and any other action we will take to deal with your complaint.
-
-#### To contact our Privacy Officer, please contact us at:
-
-[admin@gifotbit.com](mailto:admin@gifotbit.com)  
-Registered Address:  
-14/19 Finness St Darwin, Northern Territory, Australia
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us by using the Support Ticket option in your GiftoBit back office.
