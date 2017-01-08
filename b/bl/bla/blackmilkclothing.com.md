@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629104328id_/https%3A//blackmilkclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackmilkclothing.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108145549id_/https%3A//blackmilkclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Black Milk Clothing
 
