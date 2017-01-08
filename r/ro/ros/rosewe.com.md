@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rosewe.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107235624id_/http%3A//www.rosewe.com/privacy-policy-a91.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rosewe.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108071456id_/https%3A//www.rosewe.com/privacy-policy-a91.html) for the most accurate reproduction.*
 
 # Privacy Policy | Rosewe.com
 
@@ -43,5 +43,5 @@ regulation, or the terms oppolicies for the Website.
 
 Upon your request, we will (a) correct or update your personal information; (b) stop sending emails to your email address; and/or (c) disable your account to prevent any future purchases through that account. You can make these requests at the customer information section, or by telephoning, or emailing your request to Rosewe.com’s Customer Support department at [support center](http://www.rosewe.com/support.php) .Please do not email your credit card number or other sensitive information.
 
-Next:[Terms of Use](https://web.archive.org/web/20161107235624id_/http%3A//www.rosewe.com/terms-of-use-a92.html)  
-Previous:[About Us](https://web.archive.org/web/20161107235624id_/http%3A//www.rosewe.com/about-us-a35.html)
+Next:[Terms of Use](https://web.archive.org/web/20170108071456id_/https%3A//www.rosewe.com/terms-of-use-a92.html)  
+Previous:[About Us](https://web.archive.org/web/20170108071456id_/https%3A//www.rosewe.com/about-us-a35.html)
