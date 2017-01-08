@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getmoremomentum.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104212238id_/http%3A//getmoremomentum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getmoremomentum.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108192135id_/http%3A//getmoremomentum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Get More Momentum
 
