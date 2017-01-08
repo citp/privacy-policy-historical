@@ -1,142 +1,78 @@
-> *The following text is extracted and transformed from the fuzing.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629232210id_/http%3A//www.fuzing.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuzing.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108042227id_/https%3A//www.fuzing.com/privacy-policy) for the most accurate reproduction.*
 
-# Fuzing.com! - Privacy Policy
+# Privacy Policy
 
-PRIVACY POLICY
+Fuzing.com is owned and operated by Bidrz, LLC., a Colorado Limited Liability Company. 
 
-(Last revised: February 22, 2007)  
-This is the Privacy Policy governing your use of the Fuzing.com Site.   
-By using this Site, you approve and agree to our Privacy Policy set forth below. All terms not defined in this document have the meanings ascribed to them in the Terms of Use Agreement between you and Fuzing.com which by use of this Site you agree to accept. 
+Bidrz, LLC.  (“Company” or “We”) respects your privacy and is committed to protecting it through our compliance with this policy. This policy describes the types of information we may collect from you or that you may provide when you visit the website www.fuzing.com (our “Website”) and our practices for collecting, using, maintaining, protecting and disclosing that information. 
 
-Fuzing.com and Fuzing, Inc. (The legal owner and the operator of this site) treats an individual's privacy very seriously. Fuzing.com and Fuzing, Inc. are considered as one and the same legal person and are mentioned as Fuzing.com (or the Site) throughout this Privacy Policy Statement.
+This policy applies to information we collect: On this Website, in email(s), text and other electronic messages between you and this Website, via your phone call(s) with our representative(s), when you interact with the Website blog, question and answer forum and testimonials. It does not apply to information collected by us:  offline or through any other means, including on any other website operated by the Company or any third party including our affiliates and subsidiaries; or any third party including our affiliates and subsidiaries, including through any application or content including advertising that may link to or be accessible from or on the Website. 
 
-The services that Fuzing.com provides you with may require that we gather, process, use and distribute your member information which you provide by filling out our various forms and formats; for example, your company name, contact information, company profile and homepage and the products you buy and sell, etc. Therefore, Fuzing.com does not guarantee that your information will be protected from exposure to any particular party. In fact the purpose of this e-marketplace is to set up a virtual online trade show that facilitates making you and your company as well-known as possible. If you wish to remove your company’s information from Fuzing.com you may do so at any time by contacting us (see section below on how to Contact Us). If you wish to update your company’s information, you may do so by logging in to your account and making those changes.
+Please read this policy carefully to understand our policies and practices regarding your information and how we will treat it. If you do not agree with our policies and practices, you have the choice to not use our Website. By accessing or using this Website, you agree to this privacy policy. This policy may change from time to time. Your continued use of this Website after we make changes is deemed to be acceptance of those changes, so please check the policy periodically for updates. 
 
-If you have questions or concerns regarding this statement, you should first contact Peter Beresford by telephone at +1-720-242-5574, or in writing to: Fuzing, Inc., 5551 Sunshine Canyon Dr., Boulder, Colorado 80302, USA.  
+#### Children Under The Age of 13
 
+Our Website is not intended for children under 13 years of age. No one under age 13 may provide any personal information to or on the Website. We do not knowingly collect personal information from children under 13. If you are under 13, do not use or provide any information on this Website or on or through any of its features/register on the Website, make any purchases through the Website, use any of the interactive or public comment features of this Website or provide any information about yourself to us, including your name, address, telephone number, e-mail address or any screen name or user name you may use. If we learn we have collected or received personal information from a child under 13 without verification of parental consent, we will delete that information. If you believe we might have any information from or about a child under 13, please contact us at support@fuzing.com. 
 
-1\. The Information We Collect 
+#### Information We Collect About You and How We Collect It
 
-1.1 Registration Information.  
-At the time you register to become a Registered User of the Site, you will be asked to fill out a registration form which requires you provide information such as your name, address, phone/fax number, email address and other personal information as well as information about your business (“Registration Information”). In the event that you decide to publish a product/service listing, or if you elect to have your own Fuzing site prefix (i.e. youcompany.fuzing.com) then much of your Registration Information will be published on our site and becomes "Publishing Information" (see next section).
+We collect several types of information from and about users of our Website, including information, by which you may be personally identified, such as name, postal address, e-mail address, telephone number or social media profiles (“personal information”); that is about you but individually does not identify you, such as pages visited, items searched; and/or about your internet connection, the equipment you use to access our Website and usage details. 
 
-1.2 Publishing Information.  
-If you submit any information to Fuzing.com to be published on the Site through the publishing tools, including but not limited to our Company Directory (Extended Profile), Trade/Product/Service Listings, then you are deemed to have given consent to the publication of such information (“Publishing Information”). Once you have elected to publish this information then much of your Registration Information becomes Publishing Information (notable exceptions: we will never publish your username, password or email address - nor will we ever publish Payment Information [see next section]).
+We collect this information: Directly from you when you provide it to us. Automatically as you navigate through the site. Information collected automatically may include usage details, IP addresses and information collected through cookies, web beacons, and other tracking technologies. From third parties, for example, our business partners. 
 
-1.3 Payment Information.  
-If you upgrade to a premium Fuzing service we collect additional information, including billing information, which may include credit card numbers and expiration dates (“Payment Information”). The security of your Payment Information is important to us. When you enter this information we encrypt it using Secure Socket Layer technology (SSL).
+#### Information You Provide To Us
 
-1.4 Statistical Information.  
-In addition, we gather aggregate statistical information about our Site and Users, such as IP addresses, browser software, operating system, pages viewed, number of sessions and unique visitors, etc. (“Statistical Information”). 
+The information we collect on or through our Website may include: Information that you provide by filling in forms on our website or linking your social profiles to our website. This includes information provided at the time of registering to use our Website, subscribing to our service, posting material to our blog or question and answer forum and/or providing testimonials, or requesting further services. We may also ask you for information when you enter a contest or promotion sponsored by us, and when you report a problem with our Website. Records and copies of your correspondence (including e-mail addresses), if you contact us. Your responses to surveys that we might ask you to complete for research purposes. Details of transactions you carry out through our Website and of the fulfillment of your orders. You may be required to provide financial information before placing an order through our Website. 
 
-1.5 Registration Information, Publishing Information, Payment Information, Statistical Information and any information we collect from you through the use of cookies (see Section 6 below) or any other means shall collectively be referred to as “Collected Information”. 
+You also may provide information to be published or displayed (hereinafter, “posted”) on public areas of the Website, or transmitted to other users of the Website or third parties (collectively, “User Contributions”). Your User Contributions are posted on and transmitted to others at your own risk. Although we limit access to certain pages, you may set certain privacy settings for such information by logging into your account profile, please be aware that no security measures are perfect or impenetrable. Additionally, we cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. Therefore, we cannot and do not guarantee that your User Contributions will not be viewed by unauthorized persons. 
 
-1.6 Registration Information, Publishing Information and Payment Information shall collectively be referred to as “Personal Identifying Information” because it may contain information that personally identifies you or your company.
+Usage Details, IP Addresses, Cookies and Other Technologies: As you navigate through and interact with our Website, we may automatically collect certain information about your equipment, browsing actions and patterns, including: Details of your visits to our Website, including traffic data, location data, logs, and other communication data and the resources that you access and use on the Website. Information about your computer and internet connection, including your IP address, operating system and browser type. The information we collect automatically is statistical data , and does not identify any individual. It helps us to improve our Website and to deliver a better and more personalized service by enabling us to: Estimate our audience size and usage patterns. Store information about your preferences, allowing us to customize our Website according to your individual interests. Speed up your searches. Recognize you when you return to our Website. The technologies we use for this automatic data collection may include: 
 
-2\. How We Use Information 
-
-2.1 General.  
-We use your Collected Information to improve our marketing and promotional efforts, to statistically analyze site usage, to improve our content and product offerings and to customize our Site's content, layout and service specifically for you.   
-We use your Collected Information to service your Account with us, including but not limited to investigating problems, resolving disputes and enforcing agreements with us.  
-We share certain aggregate information based on analysis of Collected Information with our partners, customers, advertisers or potential Users. 
-
-2.2 Registration Information.   
-We use your Registration Information to provide services that you request or to contact you regarding additional services about which Fuzing.com determines that you might be interested.   
-Specifically, we use your email address, mailing address, phone number or fax number to contact you regarding notices, product alerts, and communications relevant to your use of our Site, if you choose to receive these as indicated at the time of registration.   
-We generate reports and analysis based on the Registration Information for internal analysis, monitoring and marketing decisions. 
-
-2.3 Publishing Information.  
-All of your Publishing Information will be publicly available on the Site and therefore accessible by any internet user.
-
-Any Publishing Information that you disclose to Fuzing.com becomes public information and you relinquish any proprietary rights (including but not limited to the rights of confidentiality and copyrights) in such information. 
-
-You should exercise caution when deciding to include personal or proprietary information in the Publishing Information that you submit to us. 
-
-2.4 Payment Information.  
-At Fuzing.com, your payment information may be distributed to our 3rd party payment processor (“Quickbooks”) in order to enable transactions to be completed by Fuzing.com. Any credit card information that you provide through the Fuzing.com Site is directly submitted to a payment server of the credit card processing bank. “Quickbooks” will not use the payment information collected for any reasons other than to perform and validate the transaction. While “Quickbooks” has in place up-to-date technology and internal procedures to guard your Payment Information against intruders, there is no guarantee that such technology or procedure can eliminate all of the risks of theft, loss or mis-use. Fuzing.com shall not be liable to you or any other person for any damages that might result from unauthorized use, publication, disclosure or any other mis-use of Payment Information, including credit card information. 
-
-2.5 Statistical Information.  
-We use Statistical Information to help diagnose problems with and maintain our computer servers, to manage our Site, and to enhance your Site and services based on the usage pattern data we receive.   
-We generate reports and analysis based on the Statistical Information for internal analysis, monitoring and marketing decisions. We provide Statistical Information to third parties, but when we do so, we do not provide them any Personal Identifying Information.
-
-3\. Disclosure of Information 
-
-3.1 We reserve the right to disclose your Personal Identifying Information to relevant authorities where we have reason to believe that such disclosure is necessary to identify, contact or bring legal action against someone who may be infringing or threatening to infringe, or who may otherwise be causing injury to or interference with, the title, rights, interests or property of Fuzing.com, our Users, customers, partners, other web site users or anyone else who could be harmed by such activities.
-
-3.2 We also reserve the right to disclose Personal Identifying Information in response to a subpoena or other judicial order or when we reasonably believe that such disclosure is required by law, regulation or administrative order of any court, governmental or regulatory authority. 
-
-3.3 If we have reason to believe that a User is in breach of the Terms of User Agreement or any other agreement with us, then we reserve the right to make public or otherwise disclose such User’s Personal Identifying Information in order to pursue our claim or prevent further injury to Fuzing.com or others.
-
-3.4 We will never share, sell, rent or trade Personal Identifying Information with third parties for their promotional purposes.
-
-4\. Exposing Personal Identifying Information 
-
-Members who sign up for Fuzing service may promote themselves by listing a profile along with product/service listings that are then made visible to other members and the rest of the internet community. At this point the promoting member exposes Personal Identifying Information for public viewing (The information exposed EXCLUDES their email address, their user name, their password or any of their Billing Information). The promoting member has full control over the information that is being published and may change it at any time.  
+  1. **Cookies (or browser cookies) & Web Tokens:** A cookie/token is a small file placed on the hard drive of your computer. You may refuse to accept browser cookies and tokens by activating the appropriate setting in your browser. However, if you select this setting you may be unable to access any or certain parts of our Website. Unless you have adjusted your browser setting so that it will refuse cookies and tokens, our system will issue cookies and/or tokens when you direct your browser to our Website. 
+  2. **Web Beacons:** Pages of our the Website and our e-mails may contain small electronic files known as web beacons (also referred to as clear gifs. pixel tags and single-pixel gifs) that permit the Company, for example, to count users who have visited those pages or opened an e-mail and for other related website statistics (for example, recording the popularity of certain website content and verifying system and server integrity). 
 
 
-The ads appearing on this Web site are delivered to users by Google’s AdSense program and Yahoo Search Marketing, our advertising partners.
 
-6\. Cookies 
+#### Third Party Advertiser Use of Cookies and Other Tracking Technologies
 
-We use “cookies” to store specific information about you and track your visits to our Site. We also use the information that we store in cookies to link to your Personal Identifying Information. It is not uncommon for web sites to use cookies to enhance identification of their users. A “cookie” is a small amount of data that is sent to your browser and stored on your computer's hard drive.
+Some advertisements on the Website may be served by third-party advertisers, ad networks and ad servers. These third parties may use cookies or tokens alone or in conjunction with web beacons or other tracking technologies to collect information about our users. This may include information about users’ behavior on this and other websites to serve them interested-based (behavioral) advertising. We do not control these third parties’ tracking technologies or how they may be used. If you have any questions about an advertisement, you should contact the responsible advertiser directly. 
 
-A cookie can be sent to your computer’s hard drive only if you access our Site using the computer.   
-If you do not de-activate or erase the cookie, each time you use the same computer to access our Site, our web servers will be notified of your visit to our Site and in turn we have knowledge of your visit and the pattern of your usage.
+#### How We Use Your Information
 
-Some of our business partners (e.g., advertisers, tracking utilities) use cookies on our site. We have no access to or control over these cookies.
+We use information that we collect about you or that you provide to us, including any personal information: to present our Website and its contents to you; to provide you with information, products or services that you request from us; to fulfill any other purpose for which you provide it; to carry out our obligations and enforce our rights arising from any contracts entered into between you and us, including for billing and collection; to notify you about changes to our Website or any products or services we offer or provide through it; to allow you to participate in interactive features on our Website; and in any other way we may describe when you provide the information for any other purpose with your consent. 
 
-This privacy statement covers the use of cookies by Fuzing.com at www.fuzing.com only and does not cover the use of cookies by any third parties.
+We may use the information we have collected from you to enable us to display advertisements to our advertisers’ target audiences. Even though we do not disclose your personal information for these purposes without your consent, if you click on or otherwise interact with an advertisement, the advertiser may assume that you meet its target criteria. 
 
-Generally, we use cookies to identify you and enable us to access your Registration Information, Publishing Information or Payment Information so you do not have to re-enter it; gather statistical information about usage by Users; research visiting patters and help target advertisements based on User interests; assist our partners to track User visits to the Site and process orders; and track progress and participation in promotions.
+#### Disclosure of Your Information
 
-You can determine if and how a cookie will be accepted by configuring your browser which is installed in the computer you are using to access the Site.
+We may disclose aggregated information about our users, and information that does not identify any individual, without restriction. We may disclose personal information that we collect or you provide as described in this privacy policy: to our subsidiaries and affiliates; to contractors, service providers and other third parties we use to support our business and who are bound by contractual obligations to keep personal information confidential and use it only for the purposes for which we disclose it to them; to a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of Bidrz assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by Bidrz about our website users is among the assets transferred; to fulfill the purpose for which you provide it. 
 
-If you desire, you can change those configurations in your browser.
+We may also disclose your personal information: to comply with any court order, law or legal process, including to respond to any government or regulatory request; to enforce or apply our Terms of Service Agreement (TOS) and other agreements, including for billing and collection purposes; if we believe disclosure is necessary or appropriate to protect the rights, property, or safety of Bidrz, our customers or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction. 
 
-By setting your preferences in the browser, you can accept all cookies, you can be notified when a cookie is sent, or you can reject all cookies.
+Additionally, we may also disclose your personal information with your consent. 
 
-If you reject all cookies by choosing the cookie-disabling function in your browser, you may be required to re-enter your information on our Site more often and certain features of our Site may be unavailable. 
+#### Choices About How We Use and Disclose Your Information
 
-7\. Minors 
+We strive to provide you with choices regarding the personal information you provide to us. We have created mechanisms to provide you with the following control over your information: Tracking Technologies and Advertising. You can set your browser to refuse all or some browser cookies and tokens, or to alert you when cookies or tokens are being sent. If you disable or refuse cookies or tokens, please note that all or some parts of this site may then be inaccessible or may not function properly. 
 
-The Site and its contents are not intended to be targeted to minors under applicable law and we do not intend to sell any of our products or services to minors.
+#### Accessing and Correcting Your Information
 
-However, we have no way of distinguishing the age of individuals who access our Site and so we carry out the same Privacy Policy for individuals of all ages. 
+You can review and change your personal information by logging into the Website and visiting your account profile page. You may also send us an e-mail at support@fuzing.com to request access to, correct or delete any personal information that you have provided to us. We cannot delete your personal information except by also deleting your user account. We may not accommodate a request to change information if we believe the change would violate any law or legal requirement or cause the information to be incorrect. If you delete your User Contributions from the Website, copies of your User Contributions may remain viewable in cached and archived pages, or might have been copied or stored by other Website users. Proper access and use of information provided on the Website, including User Contributions, is governed by our Terms of Service Agreement (TOS). 
 
-If a minor has provided us with personal information without parental or guardian consent, the parent or guardian should contact us to remove the information. 
+#### Data Security
 
-8\. Security Measures 
+We have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration and disclosure. All information you provide to us is stored on our secure servers behind firewalls. Any payment transactions and other communication between your browser and our servers will be encrypted using SSL technology. The safety and security of your information also depends on you. Where we have given you (or where you have chosen) a password for access to certain parts of our Website, you are responsible for keeping this password confidential. We ask you not to share your password with anyone. We urge you to be careful about giving out information in public areas of the Website like message boards. The information you share in public areas may be viewed by any user of the Website. Unfortunately, the transmission of information via the internet is not completely secure. Although we do our best to protect your personal information, we cannot guarantee the security of your personal information transmitted to our Website. Any transmission of personal information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Website. 
 
-8.1 We employ commercially reasonable security methods to prevent unauthorized access, maintain data accuracy and ensure correct use of information. 
+#### Changes to Our Privacy Policy
 
-8.2 As a Registered User, your Registration Information, Publishing Information and Payment Information (if any) can be viewed and edited through your Account which is protected by Password.  
-We recommend that you do not divulge your Password to anyone. Our personnel will never ask you for your Password in an unsolicited phone call or in an unsolicited e-mail. If you share a computer with others, you should not choose to save your log-in information (e.g., User ID and Password) on the computer. Remember to sign out of your Account and close your browser window when you have finished your session. 
+It is our policy to post any changes we make to our privacy policy on this page with a notice that the privacy policy has been updated on the Website home page. If we make material changes to how we treat our users’ personal information, we will notify you by e-mail to the primary e-mail address specified in your account and/or through a notice on the Website home page. The date the privacy policy was last revised is identified at the bottom of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting our Website and this privacy policy to check for any changes. 
 
-8.3 No data transmission over the Internet or any wireless network can be guaranteed to be perfectly secured. As a result, while we try to protect your information, no web site or company, including ourselves, can absolutely ensure or guarantee the security of any information you transmit to us and you do so at your own risk. 
+#### Contact Information
 
-9\. Changes to Privacy Policy 
+To ask questions or comment about this privacy policy and our privacy practices, please send us a message by visiting [Our Contact Page](https://www.fuzing.com/contact-us)
 
-We reserve the right to modify this privacy policy at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home-page.
+### End of Privacy Policy
 
-This Privacy Policy was last amended on February 22, 2007. 
+* * *
 
-10\. Correcting Your Information 
-
-You can access, view and edit your Registration Information, Publishing Information and Payment Information (if any) through your Account with Fuzing.com.
-
-To update or correct such information, please log into your account and make the changes.   
-If you wish to unsubscribe to our email communications and/or de-list your company profile please advise us of this by communicating with us at: <http://www.fuzing.com/contact.htm>
-
-11\. Contacting Us 
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, you can contact:   
-
-
-Fuzing, Inc.  
-5551 Sunshine Canyon Drive  
-Boulder, Colorado 80302  
-USA  
-Tel: +1 720-242-5574  
-Fax: +1 720-406-7546  
-Or you may contact us via our online contact form at:  
-<http://www.fuzing.com/contact.htm>
+Privacy Policy Version 0.9 - 3/15/2016
