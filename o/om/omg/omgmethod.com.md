@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgmethod.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031030052id_/http%3A//omgmethod.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgmethod.com privacy policy that was archived on 2017-01-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170108081340id_/http%3A//omgmethod.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OMG Method -
 
