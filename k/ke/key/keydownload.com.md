@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keydownload.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129022658id_/http%3A//keydownload.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keydownload.com privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109001457id_/http%3A//keydownload.com/privacy.html) for the most accurate reproduction.*
 
 # Key Download
 
