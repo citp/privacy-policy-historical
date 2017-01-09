@@ -1,24 +1,6 @@
-> *The following text is extracted and transformed from the globalcallforwarding.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625110643id_/https%3A//www.globalcallforwarding.com/gcf/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalcallforwarding.com privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109200940id_/https%3A//www.globalcallforwarding.com/privacy-policy) for the most accurate reproduction.*
 
-# Call Forwarding Phone - International Call Forwarding - Toll Free Forwarding
-
-Unleash the power of smart phone numbers
-
-Expand your business
-
-Access new markets
-
-Increase sales
-
-Be local to your customers
-
-Select your
-
-New phone number
-
-Enter your
-
-Destination number
+# Privacy Policy | Global Call Forwarding
 
 **What information do we collect?**
 
