@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the webulous.in privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421233241id_/http%3A//www.webulous.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webulous.in privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109125317id_/https%3A//www.webulousthemes.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Webulous Themes
+# Privacy Policy – Webulous
 
-This Privacy Policy governs the manner in which Webulous.in collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.webulous.in/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Webulous.in.
+This Privacy Policy governs the manner in which http://www.webulousthemes.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.webulousthemes.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by http://www.webulousthemes.com.
 
 ## Personal identification information
 
@@ -18,7 +18,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 ## How we use collected information
 
-Webulous.in may collect and use Users personal information for the following purposes:
+http://www.webulousthemes.com may collect and use Users personal information for the following purposes:
 
   * To improve customer service  
 Information you provide helps us respond to your customer service requests and support needs more efficiently.
@@ -50,7 +50,7 @@ Users may find advertising or other content on our Site that link to the sites a
 
 ## Changes to this privacy policy
 
-Webulous.in has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+http://www.webulousthemes.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 ## Your acceptance of these terms
 
@@ -60,9 +60,8 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-### Webulous
+### Webulous Themes
 
-http://www.webulous.in/  
 4/352D, MS Nagar, Salem 636015. Tamilnadu. India  
 hi@webulous.in
 
