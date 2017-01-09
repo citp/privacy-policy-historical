@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the yerha.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818065313id_/http%3A//www.yerha.com/content/9-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yerha.com privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109183033id_/http%3A//www.yerha.com/content/9-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yerha.com
 
-**yeraha.com PRIVACY POLICY**
+**yerha.com PRIVACY POLICY**
 
-We are committed to maintaining the accuracy, confidentiality, and security of your personally identifiable information ("Personal Information"). This Privacy Policy provides succinctly the manner your data is collected and used by yeraha.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by yeraha.com you agree to the collection and use of your data by yeraha.com in the manner provided in this Privacy Policy.
+We are committed to maintaining the accuracy, confidentiality, and security of your personally identifiable information ("Personal Information"). This Privacy Policy provides succinctly the manner your data is collected and used by yerha.com. You are advised to please read the Privacy Policy carefully. By accessing the services provided by yerha.com you agree to the collection and use of your data by yerha.com in the manner provided in this Privacy Policy.
 
  **Identifying Purposes**
 
@@ -36,7 +36,7 @@ We will make information available to you about our policies and practices with 
 
 Upon request, you will be informed of the existence, use and disclosure of your Personal Information, and will be given access to it. You may verify the accuracy and completeness of your Personal Information, and may request that it be amended, if appropriate. However, in certain circumstances permitted by law, we will not disclose certain information to you. For example, we may not disclose information relating to you if other individuals are referenced or if there are legal, security or commercial proprietary restrictions.
 
-Handling Customer Complaints and Suggestions You may direct any questions or enquiries with respect to our privacy policy or our practices by contacting Email us: customercare@yeraha.com
+Handling Customer Complaints and Suggestions You may direct any questions or enquiries with respect to our privacy policy or our practices by contacting Email us: customercare@yerha.com
 
  **Policy updates**
 
