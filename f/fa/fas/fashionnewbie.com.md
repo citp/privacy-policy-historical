@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fashionnewbie.com privacy policy that was archived on 2016-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160916021058id_/http%3A//fashionnewbie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionnewbie.com privacy policy that was archived on 2017-01-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170109103651id_/http%3A//fashionnewbie.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fashion NewbieFashion Newbie
 
