@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the credomen.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227085248id_/http%3A//credomen.com/online-shopping/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the credomen.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110230119id_/https%3A//www.credomen.com/online-shopping/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy | Credo Mannenmode
 
