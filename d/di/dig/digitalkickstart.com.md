@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the digitalkickstart.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830235605id_/http%3A//digitalkickstart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitalkickstart.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110112153id_/https%3A//digitalkickstart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Digital Kickstart
+# Privacy Policy - Digital Kickstart
 
 **PRIVACY POLICY**  
 Effective Date: November 15th, 2013
