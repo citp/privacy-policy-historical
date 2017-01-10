@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecurrent.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219000937id_/http%3A//www.mpr.org/public/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecurrent.org privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110095630id_/http%3A//www.mpr.org/public/privacy) for the most accurate reproduction.*
 
 # Your Privacy Rights | Minnesota Public Radio
 
