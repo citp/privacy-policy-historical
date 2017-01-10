@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the w3counter.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413022546id_/https%3A//www.w3counter.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the w3counter.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110064831id_/https%3A//www.w3counter.com/legal/privacy) for the most accurate reproduction.*
 
 # W3Counter Privacy Policy
 
