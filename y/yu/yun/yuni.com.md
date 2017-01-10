@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yuni.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025110310id_/http%3A//yuni.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yuni.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110080223id_/http%3A//www.yuni.com/privacy.html) for the most accurate reproduction.*
 
 # yuni.com | Privacy Policy
 
