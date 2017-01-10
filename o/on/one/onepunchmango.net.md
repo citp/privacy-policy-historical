@@ -1,17 +1,17 @@
-> *The following text is extracted and transformed from the onepunchmango.net privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924080845id_/http%3A//onepunchmango.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepunchmango.net privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110215719id_/http%3A//gogoanime.ch/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy - OnepunchmanGo.me
+# Privacy Policy - GoGoAnime
 
-This privacy policy is intended to inform you about the types of information gathered by OnepunchmanGo.me when you visit OnepunchmanGo.me.
+This privacy policy is intended to inform you about the types of information gathered by GoGoAnime.ch when you visit GoGoAnime.ch.
 
 Log Files  
-We may automatically and through third-party tracking services (e.g., Google Analytics) gather certain non-personally identifiable information about your use of OnepunchmanGo.me and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, solely to improve the quality of our services. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information.
+We may automatically and through third-party tracking services (e.g., Google Analytics) gather certain non-personally identifiable information about your use of GoGoAnime.ch and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, solely to improve the quality of our services. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information.
 
 COOKIES  
-A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to use OnepunchmanGo.me. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use OnepunchmanGo.me, and to enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. You are free to decline cookies, but by doing so, you may not be able to take full advantage of all of our offerings. We do not link the information we store in cookies to any personally identifiable information you submit while using OnepunchmanGo.me.
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to use GoGoAnime.ch. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use GoGoAnime.ch, and to enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. You are free to decline cookies, but by doing so, you may not be able to take full advantage of all of our offerings. We do not link the information we store in cookies to any personally identifiable information you submit while using GoGoAnime.ch.
 
 Changes to Privacy Policy  
-We may periodically update this policy. If you are a OnepunchmanGo.me member, we will attempt to notify you of material updates by sending a notice to an email address you may have provided to us. Otherwise, you may view the updated version of this policy on the OnepunchmanGo.me website.
+We may periodically update this policy. If you are a GoGoAnime.ch member, we will attempt to notify you of material updates by sending a notice to an email address you may have provided to us. Otherwise, you may view the updated version of this policy on the GoGoAnime.ch website.
 
 Cookies & 3rd Party Advertisements
 
