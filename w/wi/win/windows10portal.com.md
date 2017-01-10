@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windows10portal.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000304id_/http%3A//windows10portal.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windows10portal.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110050655id_/https%3A//windows10portal.com/privacy.php) for the most accurate reproduction.*
 
 # Download Latest versions of Software for Windows 10 - Windows10Portal.com
 
