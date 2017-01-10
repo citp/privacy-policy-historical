@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamewisp.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110001016id_/https%3A//gamewisp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamewisp.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110043624id_/https%3A//gamewisp.com/privacy-policy) for the most accurate reproduction.*
 
 # GameWisp - Subscription Tools and Reward Management for Twitch Streamers and YouTubers
 
