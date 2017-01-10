@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralrad.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111103735id_/http%3A//viralrad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralrad.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110085237id_/http%3A//viralrad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ViralRad
 
