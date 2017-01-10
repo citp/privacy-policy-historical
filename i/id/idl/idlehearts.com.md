@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the idlehearts.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102202021id_/http%3A//www.idlehearts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idlehearts.com privacy policy that was archived on 2017-01-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170110212736id_/https%3A//www.idlehearts.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - IdleHearts
 
 ###### We take your privacy very seriously.
 
@@ -56,4 +56,4 @@ Although most changes are likely to be minor, IdleHearts may change its privacy 
 
 ###### Contact Us
 
-If you have any questions about this privacy policy or our site in general, please [contact us](https://web.archive.org/contact/)
+If you have any questions about this privacy policy or our site in general, please contact us at _**advice [at] idlehearts.com**_.
