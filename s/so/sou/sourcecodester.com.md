@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sourcecodester.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128150329id_/http%3A//www.sourcecodester.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sourcecodester.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111204519id_/http%3A//www.sourcecodester.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement | Free source code, tutorials and articles
 
