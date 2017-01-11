@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwestern.edu privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610081836id_/https%3A//www.midwestern.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwestern.edu privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111032342id_/https%3A//www.midwestern.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Midwestern University
 
