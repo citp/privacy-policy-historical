@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 4-ship.com privacy policy that was archived on 2015-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150820064536id_/http%3A//4-ship.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4-ship.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111115238id_/https%3A//4-ship.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | 4SHIP
+# Privacy Policy | فور شيب
 
 #### What information do we collect?
 
