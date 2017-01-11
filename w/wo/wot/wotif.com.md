@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330083728id_/https%3A//www.wotif.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wotif.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111025851id_/https%3A//www.wotif.com/privacy) for the most accurate reproduction.*
 
 # Wotif Privacy Policy
 
@@ -145,7 +145,7 @@ We may update this Privacy Policy in the future. We will notify you about materi
 
 #### How you can contact us 
 
-If you have questions about this Privacy Policy (or your travel planning or purchases) or if you wish to make a complaint about our handling of your personal information, [here](https://web.archive.org/pub/agent.dll?qscr=fbak) is information on how to contact us. 
+If you have questions about this Privacy Policy (or your travel planning or purchases) or if you wish to make a complaint about our handling of your personal information, [here](https://web.archive.org/feedback) is information on how to contact us. 
 
 This Privacy Policy is effective as of 15 April 2015. 
 
