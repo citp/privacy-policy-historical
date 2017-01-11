@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the philipbrownemenswear.co.uk privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509200533id_/https%3A//www.philipbrownemenswear.co.uk/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the philipbrownemenswear.co.uk privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111131807id_/https%3A//www.philipbrownemenswear.co.uk/pages/privacy) for the most accurate reproduction.*
 
 # Privacy | Philip Browne Menswear
 
@@ -58,4 +58,4 @@ NR2 1JH
 UNITED KINGDOM
 
 T: +44 (0) 1603 664886   
-e: [customerservices@philipbrownemenswear.co.uk](https://web.archive.org/web/20160509200533id_/https%3A//www.philipbrownemenswear.co.uk/pages/customerservices@philipbrownemenswear.co.uk "customerservices@philipbrownemenswear.co.uk")
+e: [customerservices@philipbrownemenswear.co.uk](https://web.archive.org/web/20170111131807id_/https%3A//www.philipbrownemenswear.co.uk/pages/customerservices@philipbrownemenswear.co.uk "customerservices@philipbrownemenswear.co.uk")
