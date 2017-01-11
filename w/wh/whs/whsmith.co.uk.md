@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whsmith.co.uk privacy policy that was archived on 2016-07-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160716002841id_/https%3A//www.whsmith.co.uk/fcp/content/Help-OnlinePolicies-PrivacyPolicyandCookies/content%23privacycookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whsmith.co.uk privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111071925id_/https%3A//www.whsmith.co.uk/fcp/content/Help-OnlinePolicies-PrivacyPolicyandCookies/content%23privacycookies) for the most accurate reproduction.*
 
 # Privacy policy & cookies | WHSmith
 
@@ -115,6 +115,10 @@ Google Analytics User | __utma | Google Analytics (GA) tracking cookies are used
 Google Analytics Session | __utmb, __utmc  | For Google Analytics: These cookies establish that an anonymous user has started a session. | Expires at end of session  
 Google Analytics Origin | __utmz | For Google Analytics: When visitors reach the site via a search engine result, a direct link, or an ad that links to the page, Google Analytics stores the type of referral information in a cookie.  | 182 days (6 months)  
 Google Analytics Custom | __utmv | For Google Analytics: This cookie enables us to identify specific actions by a user. This is not currently used.  | 730 days (2 years)  
+N/A | IDE | These cookies are used to remember user preferences and display relevant advertising to users around the web | 2 years  
+N/A | id | These cookies are used to remember user preferences and display relevant advertising to users around the web | 2 years  
+N/A | DSID | These cookies are used to remember user preferences and display relevant advertising to users around the web | 1 hour  
+N/A | GED_PLAYLIST_ACTIVITY | These cookies are used to remember user preferences and display relevant advertising to users around the web | Deleted on close of browser window  
   
 Back to top
 
