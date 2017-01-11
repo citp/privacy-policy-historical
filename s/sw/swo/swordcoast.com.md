@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swordcoast.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927075107id_/https%3A//swordcoast.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swordcoast.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111170640id_/https%3A//swordcoast.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Sword Coast Legends
 
