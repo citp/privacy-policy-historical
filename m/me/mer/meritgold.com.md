@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meritgold.com privacy policy that was archived on 2016-05-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160505145731id_/https%3A//www.goldline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meritgold.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111104822id_/https%3A//www.goldline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Goldline Buy Gold and Silver at Goldline
 
@@ -132,7 +132,7 @@ To opt out of all of Goolge's interest-based ads on your browser, you'll need to
 
 ## OPT OUT/CORRECTIONS
 
-Upon your request, we will correct/update your personal contact information; however, certain contact information such as names and addresses cannot be deleted.  Additionally, you can request to unsubscribe to emails by  using the resources at customer information section of the Site <https://www.goldline.com/goldline-contact-information>, by telephoning Goldline at 800-963-9798, by emailing your request to [info@goldline.com](mailto:info@goldline.com), or by using the “unsubscribe” link found within our marketing emails. Please do not email your credit-card information or any other sensitive information.
+Upon your request, we will correct/update your personal contact information; however, certain contact information such as names and addresses cannot be deleted.  Additionally, you can request to unsubscribe to emails by  using the resources at customer information section of the Site [/goldline-contact-information](https://web.archive.org/goldline-contact-information), by telephoning Goldline at 800-963-9798, by emailing your request to [info@goldline.com](mailto:info@goldline.com), or by using the “unsubscribe” link found within our marketing emails. Please do not email your credit-card information or any other sensitive information.
 
 Goldline does not maintain a process for an individual consumer who uses or visits its commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through the Web site or online service.
 
