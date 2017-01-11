@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pays2save.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025061045id_/http%3A//pays2save.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pays2save.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111162402id_/http%3A//pays2save.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pays2Save
 
