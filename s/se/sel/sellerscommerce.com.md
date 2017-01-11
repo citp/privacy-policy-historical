@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sellerscommerce.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811064542id_/http%3A//www.sellerscommerce.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sellerscommerce.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111133639id_/http%3A//www.sellerscommerce.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Sellers Commerce
 
