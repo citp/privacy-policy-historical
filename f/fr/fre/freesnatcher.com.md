@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freesnatcher.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018090207id_/http%3A//www.freesnatcher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freesnatcher.com privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111070326id_/http%3A//www.freesnatcher.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Snatcher
 
@@ -11,6 +11,8 @@ In general, you are responsible for the information you submit in the form of a 
 This blog uses third-party advertising companies to serve ads when you visit FreeSnatcher. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.google.com/privacy_ads.html) to visit the Google Privacy Center.
 
 Please contact me by email at [sean@freesnatcher.com](mailto:sean@freesnatcher.com) if you have any questions about these policies.
+
+_Disclaimer: This post may have an affiliate link. See our[disclosure policy](http://www.freesnatcher.com/disclosure-disclaimer-and-privacy/) for more information._
 
   
 
