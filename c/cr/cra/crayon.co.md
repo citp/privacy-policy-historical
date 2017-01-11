@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crayon.co privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926135738id_/https%3A//www.crayon.co/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crayon.co privacy policy that was archived on 2017-01-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170111073931id_/https%3A//www.crayon.co/privacy) for the most accurate reproduction.*
 
 # Crayon | Privacy Policy
 
-Last updated February 5, 2014
+Last updated July 3, 2015
 
 * * *
 
@@ -24,7 +24,7 @@ You may provide us with certain personally identifiable information when you:
   * sign up for, or redeem, special offers;
   * respond to surveys;
   * use our share or Email-to-a-Friend or Refer-A-Friend features, or similar features; and
-  * approve your child's request to open a Crayon account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA).
+  * approve your child's request to open a Crayon account in accordance with The Children's Online Privacy Protection Act of 1998 (COPPA). 
 
 
 
@@ -56,7 +56,7 @@ We use the personally identifiable information you provide to:
 
   * provide the features and functionality of the Site;
   * fulfill your requests for our products and services;
-  * communicate with you about the status of your orders and other inquiries about our products and services;
+  * communicate with you about the status of your orders and other inquiries about our products and services; 
   * send you information about our products and services;
   * for our internal business purposes, such as data analysis, audits and so forth;
   * help us create content that is most relevant to you; and
@@ -81,9 +81,9 @@ If you sign up for a promotion (e.g., a contest or sweepstakes offer) or enroll 
 M80 Labs may release information (including your name, addresses, telephone number, and account activity) when we, in our sole discretion believe that such release is necessary or appropriate to:
 
   * comply with law;
-  * comply with subpoenas, warrants, court orders, government investigations, or other legal process;
+  * comply with subpoenas, warrants, court orders, government investigations, or other legal process; 
   * enforce or apply the terms of any of our user or license agreements;
-  * investigate or respond to allegations of fraud, intellectual property infringement, or other unlawful activity
+  * investigate or respond to allegations of fraud, intellectual property infringement, or other unlawful activity 
   * investigate fraud or similar claims;
   * protect the rights, property or safety of Crayon, our users, or others.
   * to protect our operations; or
