@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kualo.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807023423id_/https%3A//www.iubenda.com/privacy-policy/698140/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kualo.com privacy policy that was archived on 2017-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170112180543id_/https%3A//www.iubenda.com/privacy-policy/698140/legal) for the most accurate reproduction.*
 
 # Privacy Policy of www.kualo.com
 
