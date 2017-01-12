@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpwithcooking.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026134842id_/http%3A//www.helpwithcooking.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpwithcooking.com privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113002752id_/http%3A//www.helpwithcooking.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy policy - HelpwithCooking.com
 
