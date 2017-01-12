@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jiffyondemand.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224191413id_/https%3A//jiffyondemand.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jiffyondemand.com privacy policy that was archived on 2017-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170112222854id_/https%3A//jiffyondemand.com/privacy_policy) for the most accurate reproduction.*
 
 # Jiffy - Easy Home Maintenance
 
