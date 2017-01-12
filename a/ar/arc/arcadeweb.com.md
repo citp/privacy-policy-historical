@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadeweb.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403142246id_/http%3A//www.tikiarcade.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadeweb.com privacy policy that was archived on 2017-01-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170112083719id_/http%3A//arcadeweb.com/privacy-policy) for the most accurate reproduction.*
 
 # TikiArcade | Privacy Policy
 
