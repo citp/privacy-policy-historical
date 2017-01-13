@@ -1,58 +1,72 @@
-> *The following text is extracted and transformed from the religionclothing.com privacy policy that was archived on 2015-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150407082515id_/http%3A//religionclothing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the religionclothing.com privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113215352id_/https%3A//religionclothing.com/privacy-policy) for the most accurate reproduction.*
 
-# Religion | Privacy Policy
+# Privacy Policy
 
-This privacy policy sets out how RELIGION uses and protects any information that you give RELIGION when you use this website. RELIGION is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. RELIGION may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
+When you visit, register or order products or services on http://www.religionclothing.com you may be asked to provide certain information about yourself including your name, email address, home or business address and other information. The Company will not collect personally identifiable information from users while they use the web site, unless they voluntarily provide it to us or authorise us to collect such information. Users may provide other information about themselves, in addition to the mandatory personal information (hereafter “Voluntary Information").
 
-### WHAT WE COLLECT
+The Company may use or disclose personally identifiable information to:  
+1\. Operate and manage the Company web site;  
+2\. Enable you to participate in interactive features of our service, when you choose to do so;  
+3\. Provide products/services that have been requested by you;  
+4\. Respond to other inquires or requests by you.  
+5\. Provide you with information about specials, sales or new products or services that the Company will introduce in the future.  
+6\. It’s partners and/or vendors in order to fulfil orders from you.
 
-We may collect the following information:
+In order to provide the best services, the Company may disclose your name on certain pages at http://www.religionclothing.com/. We may also disclose personally identifiable information in the establishment or exercise of legal rights or defences against legal claims, to comply with applicable laws or regulations, to comply with a valid legal process, such as a search warrant, subpoena or court order or to investigate suspected fraud or a violation of our Terms and Conditions of Use. We will never sell user information to any 3rd-party not affiliated with the Company, without consent, except in connection with the sale or merger of the Company or the division responsible for such services provided. The Company may also use such Voluntary Information for marketing its products and services to you unless you have ‘opted out’ of receiving such marketing information from us. User may ‘opt out’ by contacting customer service at help@religionclothing.com.
 
-  * Name
-  * Contact information including email address
-  * Demographic information such as postcode, preferences and interests
-  * Other information relevant to customer surveys and/or offers
+The Company may, from time to time, send or post surveys or requests for your feedback in order to help us make our web site and services better. Any responses we receive from users will be used only to evaluate our web site and services and no personally identifiable information from respondents will be shared with any non-employees of Company, except that information provided in the Feedback/Comments areas. The Company may, from time to time, send notices about special offers, promotions or contests. If you sign up to participate in any of these, we will collect your email address. If you are chosen for a promotion or as a winner in a contest, you give the Company permission to use your name, image and other information about you, for marketing purposes. To maintain customer service standards and to assist staff training, we may record and monitor incoming calls.
 
+The information you provide to us may be accessed by or given to third parties who act for us for the purposes set out in this policy or for other purposes approved by you. Those parties process information, fulfil and deliver orders, process credit card payments and provide support services on our behalf. We may also pass aggregate information on the usage of our website to third parties but this will not include information that can be used to identify you.
 
+Where you have consented when providing us with your details, we may also allow other companies in our group, to contact you occasionally about products and services which may be of interest to you. They may contact you by e-mail. If you change your mind about being contacted by these companies in the future, please let us know at help@religionclothing.com.
 
-For the exhaustive list of cookies we collect see the List of cookies we collect section.
+You agree that we may disclose your identity and contact details to (1) any third party who claims to us that any material posted or uploaded by you to our site constitutes a violation of their intellectual property rights or their rights of privacy, and (2) to other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-### WHAT WE DO WITH THE INFORMATION WE GATHER
+Finally, if our business enters into a joint venture with or is sold to or merged with another business entity, your information may be disclosed to our new business partners or owners. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk.
 
-We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
+Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
 
-  * Internal record keeping
-  * We may use the information to improve our products and services.
-  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
-  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail.
-  * We may use the information to customise the website according to your interests.
+Cookies are small text files that a website can write to your computer. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. We use cookies to identify you and allow you to log in once to our web site and search or post without having to log in again and again. Cookies are also used by our affiliates or links to identify you as a User of http://www.religionclothing.com.
 
+The following is a summary of the types of cookies that are being used on this site, along with information on how you can block them.
 
+Cookie Type| Cookie File Names| Purpose| Active on this site| More Information  
+---|---|---|---|---  
+Essential Site Cookies | Various | Site cookies are essential to the operation of this website. They are usually set when you first visit the site and deleted when you close your browser. If blocked, this site will not operate correctly | No | n/a  
+CMS (Content Management System) | Various | Cookies are set by our CMS/Blog system when you first visit this site. These cookies are not used by Religion Clothing. These cookies are usually deleted when a user closes their browser | Yes | n/a  
+Google Analytics | _utma  
+_utmb  
+_utmc  
+_utmz | These cookies are used to collect information about how visitors use our site. The information is used to compile reports that let us improve the site. The information is collected in any anonymous form, including the number of visits to this site, how you arrived at the site, and which pages you visted. | Yes | You can opt-out of these cookies by following this link: <http://tools.google.com/dlpage/gaoptout>  
+Adverts | various | Our advertisers may use cookies to serve you with adverts based on your previous search and web usage. These cookies are not used directly by Religion Clothing. | Yes | You can visit <http://www.youronlinechoices.com/uk/your-ad-choices> for more information on how the information is used, and how you can block them.  
+Site Cookie Acceptance | cookietab-last-shown-time  
+cookietab-consent | These cookies are used to record if a user has accepted the use of cookies on this website | Yes | n/a  
+  
+Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit www.allaboutcookies.org.  
+The Company does not use Cookies to store information such as credit card numbers, telephone numbers, or other information you provide.  
+This Privacy Policy only covers the use of Cookies by Religion Clothing. It does not cover the use of Cookies by any other 3rd-party or advertisers.
 
-### SECURITY
+The Company web site may contain links to various 3rd-party web sites and the external web sites of our advertisers and/or 3rd-party partners. Each of these web sites may have a privacy policy that differs from that of the Company. This Policy does not cover the privacy policies of other web sites. We urge you to check the privacy policies of each web site that you may visit or interact with. The only Voluntary Information that may be shared between Company and one of our partner web sites is that which pertains to information used in the furtherance of tracking an order and providing you with correct information regarding same.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
+Order information, including order numbers and amounts, may be available to the Company, affiliate merchants and 3rd-party affiliate program management companies, for accurate tracking purposes. The Company will not release this information to other parties unless you request it.
 
-### HOW WE USE COOKIES
+The Company provides banner and other advertising on its web site, from Google and other third parties, that may place and read cookies on your browser, or use web beacons to collect information in the course of advertisements being served. If you are concerned about your privacy regarding these advertisements, please refer to Google’s (or other third party) privacy policies.
 
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
+We employ security measures to protect, so far as reasonably possible, your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage. We will retain your information for a reasonable period or as long as the law requires or permits.
 
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
+The Company requires that our advertisers and partners ensure the security of the data that users provide to them, however, in the event of a breach of their security measures, you agree that the Company will not be liable for any losses or damages.
 
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
+The Company limits access to personal information about users to employees, for whom we reasonably believe it is necessary, in order to provide products or services.
 
-### LINKS TO OTHER WEBSITES
+IF YOU ARE A USER IN CALIFORNIA, USA: The State of California, USA, has passed legislation requiring certain specific disclosures be made available to California residents who use the Internet and provide information that may be used for marketing purposes. That legislation requires any business that discloses a customer's personal information (as defined by the “Act”) to any 3rd-party, for direct marketing purposes, to provide the customer a method for obtaining the names, addresses and certain other specified details of anyone who might have received that personal information. If you are a California resident you may request this information from Company by writing to: 
 
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
+Choice Ltd trading as Religion Clothing  
+Spring Gardens Industrial Estate,   
+Romford,  
+Essex,  
+RM7 9LD,  
+Attn: California, USA Privacy Rights.
 
-### CONTROLLING YOUR PERSONAL INFORMATION
+or by sending an e-mail, with “California, USA Privacy Rights” in the subject line, to help@religionclothing.com.
 
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * Whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+Choice Ltd is not obligated to respond to more than one such request from User per calendar year.
