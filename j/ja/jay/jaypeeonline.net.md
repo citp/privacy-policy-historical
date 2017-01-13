@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jaypeeonline.net privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708105425id_/https%3A//jaypeeonline.net/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jaypeeonline.net privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113164943id_/https%3A//jaypeeonline.net/policies) for the most accurate reproduction.*
 
 # Policies - JaypeeOnline
 
@@ -42,10 +42,10 @@ JaypeeOnline allows registered and anonymous users to participate in discussions
 The Site has security measures in place to protect the loss, misuse, and alteration of information under our control. While measures are in place, please be aware that nothing is 100% secure and we do not claim it to be so.
 
 **Data Quality/Access**  
-To change or modify any personal account information provided during site registration, you may visit the following URL: http://jaypeeonline.net/wp-admin/profile.php.
+To change or modify any personal account information provided during site registration, you may visit the following URL: https://jaypeeonline.net/wp-admin/profile.php.
 
 **Contacting Us**  
-If you have any questions about this privacy statement, our practices, or regarding your activities within this Web site, you can contact us via the [Contact page](http://jaypeeonline.net/contact/).
+If you have any questions about this privacy statement, our practices, or regarding your activities within this Web site, you can contact us via the [Contact page](https://jaypeeonline.net/contact/).
 
 ## COMMENT POLICY
 
@@ -57,7 +57,7 @@ All comments that contain SEO keywords will not be marked as spam but will be DE
 
 All comments are moderated and have to be approved by the editor before being published.
 
-All comments are scanned and filtered by **Akismet**. It does a great job of filtering spam but the technology is not perfect and at times, may flag legitimate comments as spam due to false positives. If your comment doesn’t show up within 24-48 hours and you think that your comment was inadvertently flagged as spam please let us know via the [Contact page](http://jaypeeonline.net/contact/).
+All comments are scanned and filtered by **Akismet**. It does a great job of filtering spam but the technology is not perfect and at times, may flag legitimate comments as spam due to false positives. If your comment doesn’t show up within 24-48 hours and you think that your comment was inadvertently flagged as spam please let us know via the [Contact page](https://jaypeeonline.net/contact/).
 
 ## DISCLOSURE POLICY
 
