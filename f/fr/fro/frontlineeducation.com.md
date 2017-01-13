@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frontlineeducation.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121035401id_/http%3A//www.frontlineeducation.com/Pages/Privacy_Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontlineeducation.com privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113091353id_/https%3A//www.frontlineeducation.com/Pages/Privacy_Policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
