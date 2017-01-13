@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paperchase.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122165234id_/http%3A//www.paperchase.co.uk/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paperchase.co.uk privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113190714id_/https%3A//www.paperchase.co.uk/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies at Paperchase
 
