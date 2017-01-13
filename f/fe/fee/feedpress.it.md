@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the feedpress.it privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416220922id_/https%3A//feed.press/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedpress.it privacy policy that was archived on 2017-01-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170113183537id_/https%3A//feed.press/privacy) for the most accurate reproduction.*
 
-# FeedPress
+# Privacy Policy | FeedPress
 
-This Privacy Policy governs the manner in which FeedPress collects, uses, maintains and discloses information collected from users (each, a "User") of the https://feed.press website ("Site"). This privacy policy applies to the Site and all products and services offered by FeedPress.
+This Privacy Policy governs the manner in which FeedPress collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://feed.press](https://feed.press/) website ("Site"). This privacy policy applies to the Site and all products and services offered by FeedPress.
 
 ## Personal identification information
 
@@ -20,12 +20,9 @@ Our Site may use "cookies" to enhance User experience. User's web browser places
 
 FeedPress may collect and use Users personal information for the following purposes:
 
-  * To improve customer service  
-Information you provide helps us respond to your customer service requests and support needs more efficiently. 
-  * To personalize user experience  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
-  * To send periodic emails  
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+  * To improve customer service: Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * To personalize user experience: We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To send periodic emails: We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
@@ -54,10 +51,10 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
 FeedPress  
-Beta & Cie  
-79 boulevard Charles de Gaulle  
-92700 COLOMBES  
+Netcats SAS  
+10 rue de Penthièvre  
+75008 PARIS  
 FRANCE  
-beta@betacie.com
+contact@netcats.com
 
-This document was last updated on April 17, 2013
+This document was last updated on December 28, 2016
