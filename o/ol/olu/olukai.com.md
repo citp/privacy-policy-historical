@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olukai.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407235703id_/https%3A//www.olukai.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olukai.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114021002id_/https%3A//www.olukai.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,13 +6,17 @@ OluKai, LLC is committed to respecting the privacy of our website visitors. The 
 
 ## PRIVACY POLICY
 
-What information do we collect?
+At OluKai we value your privacy and take steps to ensure your information is secure. In doing so we collect personal information to help us create the best, most customized shopping experience possible.
 
-We collect information from you when you register on the site, place an order, enter a contest or sweepstakes, respond to a survey or communication such as e-mail, or participate in other site promotions.
+We will never rent or sell your e-mail address. We do not share credit card information with third parties except for the purpose of processing your order payment and as required by law.
 
-When ordering or registering, we may ask you for your name, date of birth, e-mail address, mailing address, daytime phone number, credit card information or other information.
+Persons who supply us with their telephone numbers online will only receive telephone contact from us with information regarding orders they have placed online.
 
-We use browser cookies to enhance your experience and gather information about visitors to our websites. Please refer to the “Why do we use cookies?” section below for information about cookies and how we use them.
+We use cookies to monitor the navigational patterns our customers take on our site. We also place advertising cookies to provide you with enhanced online display advertising tailored to your interests. 
+
+We may make your name and postal address available to other direct marketing companies who may have offers of interest to you. If do not wish to receive such mailings, or if you would like to opt out of OluKai's e-mails or catalogs, please email our customer service info@olukai.com team with subject “unsubscribe”.
+
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes. If you are concerned about how your information is used, you should check back periodically.
 
 ## HOW DO WE USE YOUR INFORMATION?
 
@@ -50,10 +54,55 @@ We realize that many children will visit our site, and we therefore encourage ch
 
 ## CHANGES TO OUR POLICY
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on March 14, 2011. Questions and Feedback 
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on April 20, 2016. Questions and Feedback 
 
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
 ## ONLINE POLICY ONLY
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
+
+## FACEBOOK GIVEAWAY TERMS & CONDITIONS
+
+  * No Purchase Necessary
+  * Void where prohibited.
+  * Agreement to Rules: By participating, the contestant (“You”) agree to be fully unconditionally bound by the Rules, and You represent and warrant that You meet the Eligibility requirements.
+
+
+
+**Rules & Eligibility:**
+
+  * Age: You must be at least 18 years of age to enter. 
+  * Residency: You must be a U.S. resident.
+  * Entry: Only one entry per person. 
+  * OluKai employees are not eligible.
+  * Email: By entering the sweepstakes and signing up for the email list, you agree to receive emails from OluKai.
+  * Promotion Period: Monthly, promotion ends on the last day of each month.
+  * How to Enter: Facebook form only.
+  * Prizes: Women’s Winner: Moku Boat Shoe approximate retail value $100 - Men’s Winner: 'Ohana Sandal approximate retail value $65.
+  * Odds of Winning: The number of eligible entries received determines odds of winning.
+  * Winner: One winner from each gender will be selected at random the last day of each month, the winner has one week to reply via email to claim prize.
+  * Delivery: Prize will be delivered to winner via UPS or USPS within 2 weeks of a legitimate claim.
+  * Winner Names: We reserve the right to publicize all winners names.
+  * Legal Venue: This promotion is governed by the laws of the State of California.
+  * Release & Waiver: By participating in the promotion, you agree to release, discharge and hold harmless OluKai from and against any and all liability, loss, injuries or damages associated with participation in the promotion, including all rights to claim punitive, indirect, incidental and consequential damages, and attorneys’ fees. 
+
+
+
+## FREE GIFT WRAP WITH PURCHASE TERMS & CONDITIONS
+
+  * Free Sheet of Hawaiian Gift Wrap with the Purchase of each item online only from 11/10/16-12/31/16 in limited quantities, while supplies last, on OluKai.com for US orders only. Not valid at third-party retailers. Employee and discounted VIP/Pro-Deal orders do not qualify for this offer.
+  * A sheet of Gift Wrap will be added automatically in Checkout for each qualifying purchase. 
+  * Gift Wrap Sheet cannot be exchanged for cash or store credit. 
+  * Offer not valid on previously purchased merchandise or purchases of gift cards.
+  * Gift Wrap sheet can only be shipped to the same destination as your order and cannot be shipped to international addresses.
+  * This offer is subject to change, alteration, or termination by OluKai at its sole discretion at any time. 
+
+
+
+## FREE SHIPPING ON ORDERS OVER $100 AND FREE RETURNS TERMS & CONDITIONS
+
+  * Free Shipping on orders over $100 valid 11/10/16-12/31/16 on OluKai.com for US orders only. Not valid at third-party retailers. Employee and discounted VIP/Pro-Deal orders do not qualify for these offers.
+  * A free return label will be placed in all packages for orders placed 11/10/16-12/31/16 on OluKai.com for US orders only.  Employee and discounted VIP/Pro-Deal orders do not qualify for this offer.
+
+
