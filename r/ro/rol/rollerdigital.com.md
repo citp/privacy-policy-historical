@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rollerdigital.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227052941id_/https%3A//www.rollerdigital.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rollerdigital.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114192206id_/https%3A//www.rollerdigital.com/Privacy) for the most accurate reproduction.*
 
 # Privacy - Roller Digital
 
