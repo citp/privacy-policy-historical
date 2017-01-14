@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the searchgby.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030030601id_/http%3A//www.searchgby.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the searchgby.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114202318id_/http%3A//searchgby.com/pages/privacy) for the most accurate reproduction.*
 
 # Search GBY
 
