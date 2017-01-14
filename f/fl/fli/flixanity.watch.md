@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixanity.watch privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121121543id_/http%3A//flixanity.watch/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixanity.watch privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114220738id_/http%3A//flixanity.watch/pages/privacy) for the most accurate reproduction.*
 
 # FliXanity - Watch TV Shows Online | Watch Movies Online
 
