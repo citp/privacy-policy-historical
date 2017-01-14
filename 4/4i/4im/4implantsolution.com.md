@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4implantsolution.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120144307id_/http%3A//www.4implantsolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4implantsolution.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114043450id_/http%3A//4implantsolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Golpa G4-Implant Solution
 
@@ -68,11 +68,5 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on May 18, 2015
-
-#### About 
-
-After graduating from the University of Southern California School of Dentistry, in 1996, Dr. Golpa became a highly sought-after and successful Cosmetic Dentist, transforming the smiles of several, of America’s most influential personalities.  
-As part of his Cosmetic Restorations, Dr. Golpa began placing Dental Implants, with an industry leading success rate, nearly 2 decades ago. In early in 2005, Dr. Golpa went to Portugal and began an in depth and personal study of both the surgical and prosthetic protocol, with Dr. Paulo Malo, the inventor of the ALL-ON-4® Treatment Concept. Realizing that improvements could be made that would improve the concept, Dr Golpa developed the G4-Implant Solution.  
-The Golpa (G4)-Implant Solution provides a permanent, titanium re-enforced Bridge for the entire upper and/or lower set of teeth (arch), in just 1 visit. The procedure is best for patients in dentures, or with significant tooth loss or decay, and for people whose bone loss in the jaw area prevents them from getting traditional dental implants. The Golpa (G4)-Implant Solution consists in establishing a fully customized bridge based on, as few as, four titanium implants. The solution takes advantage of existing bone, even if scarce, avoiding having to use bone grafts. By following the 4 fundamental protocols (4p’s) of the G4-Implant Solution, we are able to provide Patients a permanent bridge with a titanium bar in just one visit. This allows Patients to enjoy the foods they love hours after surgery!
 
 Share: 
