@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 4fcams.com privacy policy that was archived on 2016-09-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160915164842id_/https%3A//4fcams.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 4fcams.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114155052id_/https%3A//4fcams.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 4fuckr Live Sex Cams
 
