@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autotrader.ie privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322180124id_/http%3A//www.autotrader.ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autotrader.ie privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114222514id_/http%3A//www.autotrader.ie/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,7 +17,7 @@ By using Autotrader.ie, you permit the collection and use of your personal infor
     * 7.2.1 [On Internet Explorer, please follow **Tools** , **Internet Options** , **Privacy** and select the appropriate settings.
     * 7.2.2 On Mozilla Firefox, please follow **Tools** , **Options** , **Privacy Panel** and select the appropriate settings.
     * 7.2.3 On Google Chrome, please select the wrench icon, **Options** ( **Preferences** on Mac and Linux; **Settings** on a Chromebook), and select the appropriate settings.]
-You may also contact us directly if you require any further assistance in at [enquiries@autotrader.ie](mailto:enquiries@autotrader.ie) All Geo Data is anonymised before use and does not identify any individual, except if required by the law. We retain this Geo Data for a limited period of 7 days after which the Geo Data is deleted. We also use Google Analytics ([www.google.com/intl/en_uk/analytics](http://www.google.com/intl/en_uk/analytics)) to allow us to track how popular our site is and to record visitor trends over time and the manner that this entity processes this Geo Data is set out in the terms and conditions that apply to these third party activities. You should read the terms and conditions, including any privacy policy, applicable to such third party activities to make sure that you understand the use that they may make of your information. 
+You may also contact us directly if you require any further assistance in at [Support@Carzone.ie](mailto:Support@Carzone.ie) All Geo Data is anonymised before use and does not identify any individual, except if required by the law. We retain this Geo Data for a limited period of 7 days after which the Geo Data is deleted. We also use Google Analytics ([www.google.com/intl/en_uk/analytics](http://www.google.com/intl/en_uk/analytics)) to allow us to track how popular our site is and to record visitor trends over time and the manner that this entity processes this Geo Data is set out in the terms and conditions that apply to these third party activities. You should read the terms and conditions, including any privacy policy, applicable to such third party activities to make sure that you understand the use that they may make of your information. 
 
 7.3 For the same reason, we may obtain information about your general internet usage by using a cookie file which is stored on the hard drive of your computer. Cookies contain information that is transferred to your computer's hard drive. On revisiting Autotrader.ie our computer server will recognise the cookie, giving us information about your last visit. They help us to improve Autotrader.ie and to deliver a better and more personalised service. 
 
@@ -25,7 +25,7 @@ You may also contact us directly if you require any further assistance in at [en
 
 8.1 At any time, you can make a written request to have access to and/or delete all the personal information that we hold about you. We will provide this information to you and may request a small administrative charge.
 
-8.2 As an Advertiser, you can modify or update or delete your personal information at any time by accessing your account on Autotrader.ie and choosing the option "Edit details" or by contacting us at [enquiries@autotrader.ie](mailto:enquiries@autotrader.ie).
+8.2 As an Advertiser, you can modify or update or delete your personal information at any time by accessing your account on Autotrader.ie and choosing the option "Edit details" or by contacting us at [Support@Carzone.ie](mailto:Support@Carzone.ie).
 
   * **9 CHANGES TO OUR PRIVACY POLICY**
 
@@ -35,7 +35,7 @@ You may also contact us directly if you require any further assistance in at [en
 
   * **10 USER FEEDBACK AND COMPLAINTS**
 
-10.1 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [enquiries@autotrader.ie](mailto:enquiries@autotrader.ie) or by post to General Manager, Auto Trader Limited, Paramount Court, Corrig Road, Dublin 18, Ireland.
+10.1 Questions, comments and requests regarding this Privacy Policy are welcomed and should be addressed to [Support@Carzone.ie](mailto:Support@Carzone.ie) or by post to General Manager, Auto Trader Limited, Paramount Court, Corrig Road, Dublin 18, Ireland.
 
 
 
