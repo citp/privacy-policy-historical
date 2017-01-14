@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the keeptruckin.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402223433id_/https%3A//keeptruckin.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keeptruckin.com privacy policy that was archived on 2017-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170115000059id_/https%3A//keeptruckin.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - KeepTruckin Electronic Logs
+# Privacy Policy
 
 ## KeepTruckin Privacy Policy
 
@@ -8,7 +8,7 @@ Last Updated: November 7, 2013
 
 Protecting your privacy is really important to us. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our [Terms of Service](https://web.archive.org/tos)). This Privacy Policy applies only to those websites, services and applications included within "Services" and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
 
-#### How do we collect and use information?
+##### How do we collect and use information?
 
 Our primary goals in collecting information are to provide and improve our Services, to administer your use of the Services (including your Account, if you are an Account holder), and to enable you to enjoy and easily navigate our Services.
 
@@ -20,7 +20,7 @@ _Information Related to Use of the Services._ Our servers automatically record c
 
 _Location Information._ In some cases we collect and store information about where you are located, such as by converting your IP address into a rough geolocation or through GPS or wireless network triangulation. We may use location information to improve and personalize our Services for you (for example, by helping you complete your driving logs).
 
-#### What Information Do We Share With Third Parties?
+##### What Information Do We Share With Third Parties?
 
 We will not share any PII that we have collected from you except as described below:
 
@@ -32,32 +32,32 @@ _Information Disclosed in Connection with Business Transactions._ Information th
 
 _Information Disclosed for Our Protection and the Protection of Others._ It is our policy to protect you from having your privacy violated through abuse of the legal systems, whether by individuals, entities or government, and to contest claims that we believe to be invalid under applicable law. However, it is also our policy to cooperate with government and law enforcement officials and private parties. Accordingly, we reserve the right to disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary: (i) to satisfy or comply with any applicable law, regulation or legal process or to respond to lawful requests, including subpoenas, warrants or court orders; (ii) to protect our property, rights and safety and the rights, property and safety of third parties or the public in general; and (iv) to prevent or stop activity we consider to be illegal or unethical.
 
-#### The Security of Your Information
+##### The Security of Your Information
 
 We take reasonable measures to protect the information that we collect from or about you (including your PII) from unauthorized access, use or disclosure. Please be aware, however, that no method of transmitting information over the Internet or storing information is completely secure. Accordingly, we cannot guarantee the absolute security of any information.
 
 We use Amazon's S3 storage service to store some of your information (for example, your documents). You can find more information on Amazon's data security from the [S3 FAQs](https://aws.amazon.com/s3/faqs/).
 
-#### Links to Other Sites
+##### Links to Other Sites
 
 Our Services may contain links to other websites and services. Any information that you provide on or to a third-party website or service is provided directly to the owner of the website or service and is subject to that party's privacy policy. Our Privacy Policy does not apply to such websites or services and we're not responsible for the content, privacy or security practices and policies of those websites or services. To protect your information we recommend that you carefully review the privacy policies of other websites and services that you access.
 
-#### Modifying Your Information
+##### Modifying Your Information
 
 You can access and modify the PII associated with your Account by changing your "account settings" on the Site or the App. If you want us to delete your PII and your Account, please contact us at support@keeptruckin.com with your request. We'll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law.
 
-#### International Transfer
+##### International Transfer
 
 Your PII may be transferred to, and maintained on, computers located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. If you're located outside the United States and choose to provide your PII to us, we may transfer your PII to the United States and process it there. Your consent to this Privacy Policy followed by your submission of any PII represents your agreement to that transfer.
 
-#### Our Policy Toward Children
+##### Our Policy Toward Children
 
 Our Services are not directed to children under 13 and we do not knowingly collect PII from children under 13. If we learn that we have collected PII of a child under 13 we will take steps to delete such information from our files as soon as possible.
 
-#### Changes to Privacy Policy
+##### Changes to Privacy Policy
 
 Any information that we collect is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we'll notify you of such changes by posting them on the Services or by sending you an email or other notification, and we'll indicate when such changes will become effective.
 
-#### Questions?
+##### Questions?
 
 Please contact us at support@keeptruckin.com or at 350 Sansome Street, Suite 500, San Francisco, CA 94104 if you have any questions about our Privacy Policy.
