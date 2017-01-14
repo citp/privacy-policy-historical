@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anspress.io privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731154427id_/https%3A//anspress.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anspress.io privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114063206id_/https%3A//anspress.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AnsPress
 
