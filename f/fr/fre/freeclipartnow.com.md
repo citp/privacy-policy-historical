@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeclipartnow.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030144200id_/http%3A//freeclipartnow.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeclipartnow.com privacy policy that was archived on 2017-01-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170114062757id_/https%3A//freeclipartnow.com/privacy.html) for the most accurate reproduction.*
 
 # freeclipartnow.com | Privacy Policy
 
