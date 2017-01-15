@@ -1,20 +1,24 @@
-<!--The following is the downloaded HTML source of the milwaukeetool.com privacy policy that was archived on 2016-04-05.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160405120937id_/https%3A//www.milwaukeetool.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the milwaukeetool.com privacy policy that was archived on 2017-01-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170115140530id_/https%3A//www.milwaukeetool.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
 	<!--[if lt IE 9]>
-		<script src="~/Scripts/vendor/html5-3.6-respond-1.1.0.min.js"></script>
-		<script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-		<script src="~/Scripts/vendor/html5shiv-printshiv.js"></script>
+		<script src="//ajax.aspnetcdn.com/ajax/respond/1.4.2/respond.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script>
+		<script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
 	<![endif]-->
 	<meta charset="utf-8">
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-	<script src="//www.youtube.com/iframe_api"></script><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//www.milwaukeetool.com/scripts/jquery-1.8.1.js" type="text/javascript"></script>
-	
+	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js" type="text/javascript"></script>
+	<script type="text/javascript">!window.jQuery && document.write(unescape('%3cscript src="/scripts/jquery-1.9.1.min.js"%3e%3c/script%3e'))</script><script src="/scripts/jquery-1.9.1.min.js"></script>
+
+	<script src="//ajax.aspnetcdn.com/ajax/jquery.migrate/jquery-migrate-1.2.1.min.js" type="text/javascript"></script>
+	<script type="text/javascript">!window.jQuery && document.write(unescape('%3cscript src="/scripts/jquery-migrate-1.2.1.min.js"%3e%3c/script%3e'))</script>
 	
 
-        <script src="//www.milwaukeetool.com/scripts/modernizr.js" type="text/javascript"></script>    
+
+		<script src="//www.milwaukeetool.com/scripts/modernizr.js" type="text/javascript"></script>
 
 	
     
@@ -30,7 +34,7 @@
 	
     
 	<link rel="canonical">
-	<link rel="alternate" hreflang="es-MX" href="http://www.milwaukeetool.com/política-de-privacidad"><link rel="alternate" hreflang="en-CA" href="http://www.milwaukeetool.ca/privacy-policy"><link rel="alternate" hreflang="fr-CA" href="http://www.milwaukeetool.ca/fr/politique-de-confidentialité">
+	<link rel="alternate" hreflang="es-MX" href="http://www.milwaukeetool.mx/política-de-privacidad"><link rel="alternate" hreflang="en-CA" href="http://www.milwaukeetool.ca/privacy-policy"><link rel="alternate" hreflang="fr-CA" href="http://www.milwaukeetool.ca/fr/politique-de-confidentialité"><link rel="alternate" hreflang="en-AU" href="http://www.milwaukeetools.com.au/privacy-policy">
 
 
 	
@@ -38,21 +42,20 @@
 
 
 
-	
-    <link href="//www.milwaukeetool.com/Content/css/main.css" rel="stylesheet" type="text/css" media="screen">
-    <link href="//www.milwaukeetool.com/Content/css/powerreviews.milwaukeetool.css" rel="stylesheet" type="text/css" media="screen">
-    <link href="//www.milwaukeetool.com/Content/css/print.milwaukeetool.css" rel="stylesheet" type="text/css" media="print">
+
+<link href="//www.milwaukeetool.com/Content/css/main.css" rel="stylesheet" type="text/css" media="screen"><link href="//www.milwaukeetool.com/Content/css/powerreviews.milwaukeetool.css" rel="stylesheet" type="text/css" media="screen"><link href="//www.milwaukeetool.com/Content/css/print.milwaukeetool.css" rel="stylesheet" type="text/css" media="print">
 
 	
     
 	
+
+	
 	
 
 
 
 
-
-
+	
 	
 <script type="text/javascript">
 	var _gaq = _gaq || [];
@@ -104,11 +107,83 @@
 
 </script>
 
+
+	
+	
+	
+
+
+
+
+
+	
+
+
 </head>
 <body>
 	
 
 
+
+
+
+<div class="takeover-banner">
+	<div class="container">
+			<div class="initial" style="">
+				<a href="/lithium-ion"><img src="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Lithium Ion/2016/HD-9oh_takeover_banner-v1-Lrg.jpg" alt=""></a>
+			</div>
+
+		<div class="permanent" style="display: none;">
+			<a href="/lithium-ion"><img src="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Lithium Ion/2016/HD-9oh_takeover_banner-v1-Sm.jpg" alt=""></a>
+		</div>
+		
+			<div class="toggle ">
+				Swap Banner
+			</div>
+	</div>
+</div>
+
+<script>
+	$(function () {
+		var basePosition;
+		var setScrollPosition = true;
+
+		var getBannerHeight = function () {
+			return $('.takeover-banner').height();
+		};
+
+		var swapImage = function () {
+			setCurrentPosition();
+
+			$('.takeover-banner .initial, .takeover-banner .permanent').slideToggle({
+				progress: setBrowserPosition
+			});
+
+			$('.takeover-banner .toggle').toggleClass('collapsed');
+		};
+
+		var setBrowserPosition = function (animation, progress, remainingMs) {
+			if (setScrollPosition) {
+				var height = getBannerHeight();
+				$(document).scrollTop(basePosition + height);
+			}
+		};
+
+		var setCurrentPosition = function () {
+			basePosition = $(document).scrollTop() - getBannerHeight();
+		};
+
+			var autoCollapse = setTimeout(swapImage, 10000);
+
+		$('.takeover-banner .toggle').click(function () {
+			if (typeof autoCollapse != "undefined") {
+				clearTimeout(autoCollapse);
+			}
+			setScrollPosition = false;
+			swapImage();
+		});
+	});
+</script>
 
 
 <header id="header">
@@ -139,93 +214,17 @@
 
 
 <div class="span8">
-	<div id="localization">
-<a id="locale-selector-link" href="#">
-<img alt="United States" src="//cdn.milwaukeetool.com/Content/images/locale/usa.jpg" id="locale_flag">
-<img alt="Select a Location" src="//cdn.milwaukeetool.com/Content/images/icon-drop_down.jpg" id="locale_select_icon">
-</a>
-<div id="locale-selector">
-<div id="locale-selector-content">
-<div class="locale-selector-column" id="locale-selector-columnA">
-<h5>
-North America</h5>
-<ul>
-    <li><a href="http://www.milwaukeetool.com">United States - English</a></li>
+    
 
-    <li><a href="http://www.milwaukeetool.ca">Canada - English</a></li>
+<div id="localization">
+    <a id="locale-selector-link" href="#">
 
-    <li><a href="http://www.milwaukeetool.ca/fr">Canada - français</a></li>
-</ul>
-<h5>
-Central America</h5>
-<ul>
-    <li><a href="http://www.milwaukeetool.mx">Español </a></li>
+        <img src="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Locale/USA.jpg" id="locale_flag">
+        <img alt="Select a Location" src="//cdn.milwaukeetool.com/Content/images/icon-drop_down.jpg" id="locale_select_icon">
+    </a>
+    <div id="locale-selector"><div id="locale-selector-content"><div class="locale-selector-column" id="locale-selector-columnA"><h5>North America</h5><ul><li><a href="http://www.milwaukeetool.com">English (US)</a></li><li><a href="http://www.milwaukeetool.ca">English (CA)</a></li><li><a href="http://www.milwaukeetool.ca/fr">French (CA)</a></li></ul><h5>Central America</h5><ul><li><a href="http://www.milwaukeetool.com">English</a></li></ul><h5>South America</h5><ul><li><a href="http://www.milwaukeetool.com.br">Brazil - Portuguese</a></li><li><a href="http://www.milwaukeetool.com">English</a></li></ul></div><!-- /locale-selector-columnA --><div class="locale-selector-divider"></div><div class="locale-selector-column" id="locale-selector-columnB"><h5>Europe</h5><ul><li><a href="http://www.milwaukeetool.eu">English (International)</a></li><li><a href="http://www.milwaukeetool.co.uk">English (UK)</a></li><li><a href="http://www.milwaukeetool.cz/int/cz/cz_site.nsf/frmIndex?ReadForm">Czech</a></li><li><a href="http://www.milwaukeetool.dk/int/da/da_site.nsf/frmIndex?ReadForm">Dansk</a></li><li><a href="http://www.milwaukeetool.de/int/de/de_site.nsf/frmIndex?ReadForm">Deutsch</a></li><li><a href="http://www.es.milwaukee-et.com/int/es/es_site.nsf/frmIndex?ReadForm">Español</a></li><li><a href="http://www.milwaukeetool.fr/int/fr/fr_site.nsf/frmIndex?ReadForm">Françias</a></li><li><a href="http://www.milwaukeetool.it/int/it/it_site.nsf/frmIndex?ReadForm">Italiano</a></li><li><a href="http://www.milwaukeetool.hu/int/hu/hu_site.nsf/frmIndex?ReadForm">Magyar</a></li><li><a href="http://www.milwaukeetool.nl/int/nl/nl_site.nsf/frmIndex?ReadForm">Nederlands</a></li><li><a href="http://www.milwaukeetool.no/int/no/no_site.nsf/frmIndex?ReadForm">Norsk</a></li><li><a href="http://www.milwaukeetools.pl/int/pl/pl_site.nsf/frmIndex?ReadForm">Polski</a></li><li><a href="http://www.milwaukeetool.ru/int/ru/ru_site.nsf/frmIndex?ReadForm">Russian</a></li><li><a href="http://www.milwaukeetool.fi/int/fi/fi_site.nsf/frmIndex?ReadForm">Suomi</a></li><li><a href="http://www.milwaukeetool.se/int/sv/sv_site.nsf/frmIndex?ReadForm">Svenska</a></li></ul></div><!-- /locale-selector-columnB --><div class="locale-selector-divider"></div><div class="locale-selector-column" id="locale-selector-columnC"><h5>Middle East</h5><ul><li><a href="http://www.milwaukee-et.com/int/int_site.nsf/frmIndex?ReadForm">English (International)</a></li><li><a href="http://www.milwaukeetool.fr/int/fr/fr_site.nsf/frmIndex?ReadForm">Françias</a></li></ul><h5>Africa</h5><ul><li><a href="http://www.milwaukee-et.com/int/int_site.nsf/frmIndex?ReadForm">English (International)</a></li><li><a href="http://www.milwaukeetool.fr/int/fr/fr_site.nsf/frmIndex?ReadForm">Françias</a></li></ul><h5>Asia</h5><ul><li><a href="http://www.milwaukee-et.com/int/int_site.nsf/frmIndex?ReadForm">English(International)</a></li></ul><h5>Australia</h5><ul><li><a href="http://www.milwaukeetools.com.au/">English (International)</a></li></ul></div><!-- /locale-selector-columnC --><div class="clear"></div></div></div>
+</div>
 
-</ul>
-<h5>
-South America</h5>
-<ul>
-    <li><a href="http://www.milwaukeetool.com.br">Brasil - Português</a></li>
-
-</ul>
-</div>
-<!-- /locale-selector-columnA -->
-<div class="locale-selector-divider">
-</div>
-<div class="locale-selector-column" id="locale-selector-columnB">
-<h5>
-Europe</h5>
-<ul>
-    <li><a href="http://www.milwaukeetool.eu">International - English</a></li>
-    <li><a href="http://www.milwaukeetool.co.uk">United Kingdom - English </a></li>
-    <li><a href="http://www.milwaukeetool.cz/int/cz/cz_site.nsf/frmIndex?ReadForm">Czech</a></li>
-    <li><a href="http://www.milwaukeetool.dk/int/da/da_site.nsf/frmIndex?ReadForm">Dansk</a></li>
-    <li><a href="http://www.milwaukeetool.de/int/de/de_site.nsf/frmIndex?ReadForm">Deutsch</a></li>
-    <li><a href="http://es.milwaukeetool.eu">Español</a></li>
-    <li><a href="http://www.milwaukeetool.fr/int/fr/fr_site.nsf/frmIndex?ReadForm">Français</a></li>
-    <li><a href="http://www.milwaukeetool.it/int/it/it_site.nsf/frmIndex?ReadForm">Italiano</a></li>
-    <li><a href="http://www.milwaukeetool.hu/int/hu/hu_site.nsf/frmIndex?ReadForm">Magyar</a></li>
-    <li><a href="http://www.milwaukeetool.nl/int/nl/nl_site.nsf/frmIndex?ReadForm">Nederlands</a></li>
-    <li><a href="http://www.milwaukeetool.no/int/no/no_site.nsf/frmIndex?ReadForm">Norsk</a></li>
-    <li><a href="http://www.milwaukeetools.pl/int/pl/pl_site.nsf/frmIndex?ReadForm">Polski</a></li>
-    <li><a href="http://www.milwaukeetool.ru/int/ru/ru_site.nsf/frmIndex?ReadForm">Russian</a></li>
-    <li><a href="http://www.milwaukeetool.fi/int/fi/fi_site.nsf/frmIndex?ReadForm">Suomi</a></li>
-    <li><a href="http://www.milwaukeetool.se/int/sv/sv_site.nsf/frmIndex?ReadForm">Svenska</a></li>
-</ul>
-</div>
-<!-- /locale-selector-columnB -->
-<div class="locale-selector-divider">
-</div>
-<div class="locale-selector-column" id="locale-selector-columnC">
-<h5>
-Middle East</h5>
-<ul>
-    <li><a href="http://www.milwaukeetool.eu">International - English</a></li>
-    <li><a href="http://www.milwaukeetool.fr">Français</a></li>
-</ul>
-<h5>
-Africa</h5>
-<ul>
-    <li><a href="http://www.milwaukeetool.eu">International - English</a></li>
-   <li><a href="http://www.milwaukeetool.fr">Français</a></li>
-</ul>
-<h5>
-Asia</h5>
-<ul>
-    <li><a href="http://www.milwaukeetool.eu">International - English</a></li>
-</ul>
-<h5>
-Australia</h5>
-<ul>
-    <li><a href="http://www.milwaukeetools.com.au/">English</a></li>
-</ul>
-</div>
-<!-- /locale-selector-columnC -->
-<div class="clear">
-</div>
-</div>
-</div>
-</div>
 		<ul>
 				<li><a href="//www.milwaukeetool.com/company" class="">Company</a>
 				</li>
@@ -253,7 +252,7 @@ Australia</h5>
 
 
 <div class="span4 header-logo">
-	<a href="//www.milwaukeetool.com/"><img src="//cdn.milwaukeetool.com/~/media/Images/Miscellaneous/logo-milwtool_header.png" alt=""></a>
+	<a href="//www.milwaukeetool.com/"><img src="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Miscellaneous/logo-milwtool_header.png" alt=""></a>
 </div>
 <div class="span8">
 
@@ -287,147 +286,161 @@ Australia</h5>
 								<ul class="third-level clearfix">
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=Applicators">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/applicators.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Applicators">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/applicators.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Applicators">
 	<span>Applicators</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+Types=Diamond+Coring">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/diamond-coring.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Diamond Coring Tools">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/diamond-coring.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Diamond Coring Tools">
 	<span>Diamond Coring Tools</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=Drills">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/drills.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Drills">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/drills.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Drills">
 	<span>Drills</span>
 </a>
 
 										</li>
 										<li>
+											<a href="//www.milwaukeetool.com/power-tools/cordless?product+types=Equipment+Tracker">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/TickNav.png" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Equipment Tracker">
+	<span>Equipment Tracker</span>
+</a>
+
+										</li>
+										<li>
 											<a href="//www.milwaukeetool.com/propex">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/navicon_ProPex.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Expansion Tools">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/navicon_ProPex.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Expansion Tools">
 	<span>Expansion Tools</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=Metalworking+and+Grinders">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/grinders.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Grinders">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/grinders.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Grinders">
 	<span>Metalworking and Grinders</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=Heat+Guns">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/heat-guns.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Heat Guns">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/heat-guns.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Heat Guns">
 	<span>Heat Guns</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/heated-gear">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/heated-gerar.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Heated Gear">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/heatedgear.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Heated Gear">
 	<span>Heated Gear</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=hoists">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/hoists.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Hoists">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/hoists.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Hoists">
 	<span>Hoists</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/crimpers">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/Crimpers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Hydraulic Crimpers and Cutters">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/Crimpers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Hydraulic Crimpers and Cutters">
 	<span>Hydraulic Crimpers &amp; Cutters</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=impacts+and+fastening">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/impacts-fastening.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Impacts and Fastening">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/impacts.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Impacts and Fastening">
 	<span>Impacts and Fastening</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/m18-knockout">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/nav_thumbnail-knockout.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Knockout Tools">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/nav_thumbnail-knockout.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Knockout Tools">
 	<span>Knockout Tools</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/lighting?product+types=S">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/nav_Lighting_Thumbnail.png" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Lighting">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/nav_Lighting_Thumbnail.png" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Lighting">
 	<span>Lighting</span>
 </a>
 
 										</li>
 										<li>
+											<a href="//www.milwaukeetool.com/power-tools?product+types=Outdoor Power Equipment">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/outdoor-power-tools.jpeg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Outdoor Power Equipment">
+	<span>Outdoor Power Equipment</span>
+</a>
+
+										</li>
+										<li>
 											<a href="//www.milwaukeetool.com/press-tool-system">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/NavIcon_Press.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Press Tools">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/NavIcon_Press.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Press Tools">
 	<span>Press Tools</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=radios">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/radios-lighting.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Radios">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/radio.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Radios">
 	<span>Radios</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/rotary-hammers">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/hammers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Rotary and Demolition Hammers">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/hammers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Rotary and Demolition Hammers">
 	<span>Rotary and Demolition Hammers</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=routers">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/routers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Routers">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/routers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Routers">
 	<span>Routers</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=sanders+and+polishers">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/sanders-polishers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Sanders and Polishers">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/sanders-polishers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Sanders and Polishers">
 	<span>Sanders and Polishers</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=saws+and+cutters">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/saws-cutters.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Saws and Cutters">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/saws-cutters.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Saws and Cutters">
 	<span>Saws and Cutters</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=Screwdrivers">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/screwdrivers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Screwdrivers">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/screwdrivers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Screwdrivers">
 	<span>Screwdrivers</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=shears+and+nibblers">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/shears-nibblers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Shears and Nibblers">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/shears-nibblers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Shears and Nibblers">
 	<span>Shears and Nibblers</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools?product+types=vacuums">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/vaccuums.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Vacuums">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/vaccuums.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Vacuums">
 	<span>Vacuums</span>
 </a>
 
@@ -438,21 +451,21 @@ Australia</h5>
 								<ul class="third-level clearfix">
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools/cordless?utm_source=Nav&amp;utm_medium=Icon&amp;utm_campaign=webtracking&amp;utm_content=cordless">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/cordless.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Cordless">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/cordless.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Cordless">
 	<span>Cordless</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools/corded?utm_source=Nav&amp;utm_medium=Icon&amp;utm_campaign=webtracking&amp;utm_content=cordless">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/corded.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Corded">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/corded.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Corded">
 	<span>Corded</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/power-tools/combo-kits?utm_source=Nav&amp;utm_medium=Icon&amp;utm_campaign=webtracking&amp;utm_content=cordless">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/combo.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Combo Kits">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/combo.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Combo Kits">
 	<span>Combo Kits</span>
 </a>
 
@@ -463,21 +476,21 @@ Australia</h5>
 								<ul class="third-level clearfix">
 										<li>
 											<a href="//www.milwaukeetool.com/system/m12">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/m12.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="M12 Cordless Lithium-Ion System">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/m12.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="M12 Cordless Lithium-Ion System">
 	<span>M12™ Cordless<br>Lithium-Ion System</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/system/m18">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/m18.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="M18 Cordless Lithium-Ion System">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/m18.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="M18 Cordless Lithium-Ion System">
 	<span>M18™ Cordless<br>Lithium-Ion System</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/system/m28">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/m28.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="M28 Cordless Lithium-Ion System">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/m28.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="M28 Cordless Lithium-Ion System">
 	<span>M28™ Cordless<br>Lithium-Ion System</span>
 </a>
 
@@ -490,7 +503,7 @@ Australia</h5>
 						<ul class="promos">
 								<li>
 <a href="//www.milwaukeetool.com/catalogs?utm_source=navigation&amp;utm_medium=banner&amp;utm_campaign=catalogs">
-										<img src="//cdn.milwaukeetool.com/~/media/Images/Promotions/Miscellaneous/promo-catalogs.png">
+										<img src="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Promotions/Miscellaneous/promo-catalogs.png">
 </a>
 								</li>
 						</ul>
@@ -523,70 +536,70 @@ Australia</h5>
 								<ul class="third-level clearfix">
 										<li>
 											<a href="//www.milwaukeetool.com/hand-tools/fastening">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/nav_thumbnail-fastening.png" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Fastening">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/fastening.png" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Fastening">
 	<span>Fastening</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/hand-tools/layout">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/Layout.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Layout">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/Layout.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Layout">
 	<span>Layout</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/hand-tools/pliers">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/combo-pliers.png" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Pliers">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/combo-pliers.png" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Pliers">
 	<span>Pliers</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/hand-tools/saws-and-cutters">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/saws.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Saws and Cutters">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/saws.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Saws and Cutters">
 	<span>Saws &amp; Cutters</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/hand-tools/screwdrivers">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/htscrewdrivers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Screwdrivers">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/htscrewdrivers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Screwdrivers">
 	<span>Screwdrivers &amp; Nutdrivers</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/hand-tools/snips-and-scissors">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/nav_thumbnails-snipscissors (1).jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Snips">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/nav_thumbnails-snipscissors (1).jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Snips">
 	<span>Snips &amp; Scissors</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/hand-tools/storage">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/nav_thumbnail-storage.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Storage">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/nav_thumbnail-storage.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Storage">
 	<span>Work Gear &amp; Storage</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/hand-tools/utility-knives">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/utility-knives.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Utility Knives">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/utility-knives.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Utility Knives">
 	<span>Utility Knives</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/hand-tools/combo-kits">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/combo-kits.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Combo Kits">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/combo-kits.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Combo Kits">
 	<span>Combo Kits</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/hand-tools/hand-tool-accessories">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/hand-tool-acc.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Hand Tool Accessories">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/hand-tool-acc.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Hand Tool Accessories">
 	<span>Hand Tool Accessories</span>
 </a>
 
@@ -625,70 +638,70 @@ Australia</h5>
 								<ul class="third-level clearfix">
 										<li>
 											<a href="//www.milwaukeetool.com/instruments/clamp-meters">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/clamp-meters.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Clamp Meters">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/clamp-meters.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Clamp Meters">
 	<span>Clamp Meters</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/instruments/digital-multimeters">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/digital-multimeter.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Digital Mutlimeters">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/digital-multimeter.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Digital Mutlimeters">
 	<span>Digital Multimeters</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/instruments/fork-meters">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/fork-meter.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Fork Meters">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/fork-meter.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Fork Meters">
 	<span>Fork Meters</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/instruments/inspection-and-detection">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/inspection-detection.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Inspection and Detection">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/inspection-detection.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Inspection and Detection">
 	<span>Inspection and Detection</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/instruments/leveling-and-distance">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/leveling-distance.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Leveling and Distance">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/leveling-distance.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Leveling and Distance">
 	<span>Leveling and Distance</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/instruments/lighting-testers">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/lighting-tester.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Lighting Tester">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/lighting-tester.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Lighting Tester">
 	<span>Lighting Tester</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/instruments/temperature-meters">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/temperature-gun.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Temperature Meters">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/temperature-gun.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Temperature Meters">
 	<span>Temperature Meters</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/instruments/thermal-imaging">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/thermal-imaging.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Thermal Imaging">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/thermal-imaging.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Thermal Imaging">
 	<span>Thermal Imaging</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/instruments/combo-kits">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/instrument-combo.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Combo Kit">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/instrument-combo.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Combo Kit">
 	<span>Combo Kits</span>
 </a>
 
 										</li>
 										<li>
 											<a href="//www.milwaukeetool.com/instruments/instrument-accessories">
-	<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/instrument-acc.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Instrument Accessories">
+	<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/instrument-acc.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Instrument Accessories">
 	<span>Instrument Accessories</span>
 </a>
 
@@ -715,17 +728,18 @@ Australia</h5>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/accessories/cutting">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/cutting.png" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Cutting">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/cutting.png" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Cutting">
 </a>
 
 		<div class="summary">
 <a href="//www.milwaukeetool.com/accessories/cutting">
 Cutting</a>
 			<div>
-				<a href="//www.milwaukeetool.com/accessories/cutting#product+types=sawzall+and+hackzall+Blades">SAWZALL® &amp; HACKZALL™ Blades</a>
+				<a href="//www.milwaukeetool.com/accessories/cutting#product+types=sawzall+Blades">SAWZALL® Blades</a>
+<a href="//www.milwaukeetool.com/accessories/cutting#product+types=hackzall+Blades">HACKZALL™ Blades</a>
 <a href="//www.milwaukeetool.com/accessories/cutting#product+types=circular+saw+blades">Circular Saw Blades &amp; Accessories</a>
 <a href="//www.milwaukeetool.com/accessories/cutting#product+types=jig+saw+blades">Jig Saw Blades</a>
-<a href="//www.milwaukeetool.com/accessories/cutting#product+types=portable+bandsaw+blades">Portable Bandsaw Blades</a>
+<a href="//www.milwaukeetool.com/accessories/cutting#product+types=bandsaw+blades">Portable Bandsaw Blades</a>
 <a href="//www.milwaukeetool.com/accessories/cutting#product+types=shear+and+nibbler+accessories">Shear &amp; Nibbler Accessories</a>
 <a href="//www.milwaukeetool.com/accessories/cutting#product+types=Multi-Tool+Accessories">Multi-Tool Accessories</a>
 			</div>
@@ -736,17 +750,18 @@ Cutting</a>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/accessories/drilling">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/drilling_1.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Drilling">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/drilling_1.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Drilling">
 </a>
 
 		<div class="summary">
 <a href="//www.milwaukeetool.com/accessories/drilling">
 Drilling</a>
 			<div>
-				<a href="//www.milwaukeetool.com/accessories/drilling#product+types=hole+saws+and+accessories">Hole Saws &amp; Accessories</a>
-<a href="//www.milwaukeetool.com/accessories/drilling#product+types=annular+and+carbide+cutters">Annular &amp; Carbide Cutters</a>
+				<a href="//www.milwaukeetool.com/accessories/drilling#product+types=hole+saws">Hole Saws</a>
+<a href="//www.milwaukeetool.com/accessories/drilling#product+types=carbide+bits">Carbide Bits</a>
+<a href="//www.milwaukeetool.com/accessories/drilling#product+types=annular+cutters">Annular Cutters</a>
+<a href="//www.milwaukeetool.com/accessories/drilling#product+types=carbide+tooth+cutters">Carbide Cutters</a>
 <a href="//www.milwaukeetool.com/accessories/drilling#product+types=wood+boring+bits">Wood Boring Bits</a>
-<a href="//www.milwaukeetool.com/accessories/drilling#product+types=masonry+drill+bits">Masonry Drill Bits</a>
 <a href="//www.milwaukeetool.com/accessories/drilling#product+types=step+drill+bits">Step Drill Bits</a>
 <a href="//www.milwaukeetool.com/accessories/drilling#product+types=twist+drill+bits">Twist Drill Bits</a>
 <a href="//www.milwaukeetool.com/accessories/drilling#product+types=Drilling+Extensions">Drilling Extensions</a>
@@ -758,7 +773,7 @@ Drilling</a>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/accessories/fastening">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/fastening.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Fastening">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/fastening.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Fastening">
 </a>
 
 		<div class="summary">
@@ -769,7 +784,7 @@ Fastening</a>
 <a href="//www.milwaukeetool.com/accessories/Fastening#product+types=Bit+holders+and+extensions">Bit Holders &amp; Extensions</a>
 <a href="//www.milwaukeetool.com/accessories/Fastening#product+types=magnetic+nut+drivers">Magnetic Nut Drivers</a>
 <a href="//www.milwaukeetool.com/accessories/Fastening#product+types=Sockets+and+adapters">Sockets &amp; Adapters</a>
-<a href="//www.milwaukeetool.com/accessories/Fastening#product+types=Kits">Kits</a>
+
 			</div>
 		</div>
 	</div>
@@ -778,7 +793,7 @@ Fastening</a>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/accessories/material-removal">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/material-removal.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Material Removal">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/material-removal.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Material Removal">
 </a>
 
 		<div class="summary">
@@ -798,7 +813,7 @@ Material Removal</a>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/accessories/batteries-and-chargers">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/batteries-chargers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Batteries and Chargers">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/batteries-chargers.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Batteries and Chargers">
 </a>
 
 		<div class="summary">
@@ -819,7 +834,7 @@ Batteries &amp; Chargers</a>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/accessories/miscellaneous">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/misc.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Miscellaneous">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/misc.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Miscellaneous">
 </a>
 
 		<div class="summary">
@@ -867,7 +882,7 @@ Miscellaneous</a>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/eservice">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/Service/tmb-eservice.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="eService">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/Service/tmb-eservice.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="eService">
 </a>
 
 		<div class="summary">
@@ -884,7 +899,7 @@ eService</a>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/service/find-a-service-center">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/Service/parts-find-service.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Find a Service Center">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/Service/parts-find-service.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Find a Service Center">
 </a>
 
 		<div class="summary">
@@ -901,7 +916,7 @@ Find a Service Center</a>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/service/parts-pricing">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/Service/parts-pricing.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Parts and Repair Pricing">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/Service/parts-pricing.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Parts and Repair Pricing">
 </a>
 
 		<div class="summary">
@@ -919,7 +934,7 @@ Pricing</a>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/service/manuals-and-downloads">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/Service/parts-manuals-catalog.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Manuals">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/Service/parts-manuals-catalog.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Manuals">
 </a>
 
 		<div class="summary">
@@ -936,7 +951,7 @@ Manuals</a>
 					<li>
 							<div class="summary-link">
 <a href="//www.milwaukeetool.com/service/milwaukee-warranty">
-			<img data-original="//cdn.milwaukeetool.com/~/media/Images/Thumbnails/Service/parts-warranty.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Milwaukee Warranty">
+			<img data-original="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Thumbnails/Service/parts-warranty.jpg" src="//cdn.milwaukeetool.com/Content/images/ajax-loader-white.gif" alt="Milwaukee Warranty">
 </a>
 
 		<div class="summary">
@@ -972,12 +987,14 @@ Milwaukee Warranty</a>
 
 
 
-<div class="page-header " style="background-image: url('//cdn.milwaukeetool.com/~/media/Images/Page Headers/banner-interior-generic.ashx')">
-	<div class="container">
-		<h1>Privacy Policy</h1>
-		<h2><p>&nbsp;</p></h2>
-	</div>
-</div>;
+
+    <div class="page-header" style="background-image: url('//cdn.milwaukeetool.com/~/media/4C6AAAFF69814BD09B4299BECF39F74B.ashx')">
+        <div class="container">
+            <h1>Privacy Policy</h1>
+            <h2><p>&nbsp;</p></h2>
+        </div>
+    </div>
+
 
 <div class="container">
 
@@ -1058,6 +1075,7 @@ Milwaukee Warranty</a>
 <div class="container">
 	
 </div>
+
 
 
 
@@ -1154,6 +1172,8 @@ Milwaukee Warranty</a>
 </li>
 							<li>		<a href="//www.milwaukeetool.com/accessories/miscellaneous">Miscellaneous</a>
 </li>
+							<li>		<a href="//www.milwaukeetool.com/pta">Accessories Catalog</a>
+</li>
 						</ul>
 					</li>
 					<li class="span2">
@@ -1188,9 +1208,9 @@ Milwaukee Warranty</a>
 </li>
 							<li>		<a href="//www.milwaukeetool.com/media-inquiry">Media Inquiries</a>
 </li>
-							<li>		<a href="//www.milwaukeetool.com/contact">Contact Us</a>
-</li>
 							<li>		<a href="http://milwaukeegear.wildimpact.com" target="_blank">Milwaukee Gear</a>
+</li>
+							<li>		<a href="//www.milwaukeetool.com/contact">Contact Us</a>
 </li>
 							<li>		<a href="//www.milwaukeetool.com/prostories">Pro Stories </a>
 </li>
@@ -1207,20 +1227,23 @@ Milwaukee Warranty</a>
 					<div class="span4 footer-milwtoollogo">
 						<a href="//www.milwaukeetool.com/"><img src="//cdn.milwaukeetool.com/Content/images/logo-milwtool_footer.png" alt="Milwaukee Tool"></a>
 					</div>
-					<div class="social-links span4">
-	<h6>Stay Connected with Milwaukee Tool</h6>
-	<a class="facebook" href="http://www.facebook.com/MilwaukeeTool" target="_blank">Facebook</a>
-	<a class="twitter" href="http://twitter.com/MilwaukeeTool" target="_blank">Twitter</a>
-	<a class="youtube" href="http://www.youtube.com/METToolTV" target="_blank">YouTube</a>
-	<a class="flickr" href="http://www.flickr.com/photos/milwaukeetool" target="_blank">Flickr</a>
-	<a class="instagram" href="http://instagram.com/MilwaukeeTool" target="_blank">Instagram</a>
-	<a class="googleplus" href="http://plus.google.com/u/0/109443430746518713050" target="_blank">Google+</a>
-</div>
+					﻿﻿    <div class="social-links span4">
+        <h6>Stay Connected with Milwaukee Tool</h6>
+                <a href="http://www.facebook.com/MilwaukeeTool" class="facebook" target="_blank">Facebook</a>
+                <a href="http://www.flickr.com/photos/milwaukeetool" class="flickr" target="_blank">Flickr</a>
+                <a href="http://plus.google.com/u/0/109443430746518713050" class="googleplus" target="_blank">Google+</a>
+                <a href="http://instagram.com/MilwaukeeTool" class="instagram" target="_blank">Instagram</a>
+                <a href="http://twitter.com/MilwaukeeTool" class="twitter" target="_blank">Twitter</a>
+                <a href="http://www.youtube.com/METToolTV" class="youtube" target="_blank">YouTube</a>
+
+    </div>
+
+
 				</div>
 			</div>
 		</div>
 		<div class="row footer-copyright">
-	<p>© 2016 by Milwaukee Tool. All rights reserved.
+	<p>© 2017 by Milwaukee Tool. All rights reserved.
 	<a href="//www.milwaukeetool.com/legal">Legal</a>  <span class="separator">|</span>  
 	<a href="//www.milwaukeetool.com/privacy">Privacy Policy</a>  <span class="separator">|</span>  
 	<a href="//www.milwaukeetool.com/contact">Contact Us</a>  <span class="separator">|</span>  
@@ -1235,51 +1258,40 @@ Milwaukee Warranty</a>
     <img src="//cdn.milwaukeetool.com/content/images/ajax-loader.gif">
 </div>
 
-<img src="//cdn.milwaukeetool.com/~/media/Images/Parallax Images/parallax-generic.jpg" id="parallax">
-
-
-
-
+<img src="//cdn.milwaukeetool.com/~/media/US/Miscellaneous Images/Parallax Images/parallax-generic.jpg" id="parallax">
 
 
 
 
 
 	
-<script src="//ajax.aspnetcdn.com/ajax/jquery.ui/1.10.2/jquery-ui.min.js"></script>
-<script>!window.jQuery.ui && document.write(unescape('%3cscript src="/scripts/jquery-ui-1.10.2.min.js"%3e%3c/script%3e'))</script>
-<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"></script>
-<script>!window.jQuery.fn.validate && document.write(unescape('%3cscript src="/scripts/jquery.validate.min.js"%3e%3c/script%3e'))</script>
 
 
-<script src="//www.milwaukeetool.com/scripts/mainlayoutjs.js" type="text/javascript"></script>    
-	
+
+	<script src="//ajax.aspnetcdn.com/ajax/jquery.ui/1.10.2/jquery-ui.min.js"></script>
+	<script>!window.jQuery.ui && document.write(unescape('%3cscript src="/scripts/jquery-ui-1.10.2.min.js"%3e%3c/script%3e'))</script><script src="/scripts/jquery-ui-1.10.2.min.js"></script>
+
+
+	<script src="//ajax.aspnetcdn.com/ajax/jquery.validate/1.14.0/jquery.validate.min.js"></script>
+	<script>!window.jQuery.fn.validate && document.write(unescape('%3cscript src="/scripts/jquery.validate.min.js"%3e%3c/script%3e'))</script><script src="/scripts/jquery.validate.min.js"></script>
+	<script src="//www.milwaukeetool.com/scripts/mainsite.1.0.0.js" type="text/javascript"></script>
+
+
+		<script src="//www.milwaukeetool.com/scripts/LightboxSupport.js" type="text/javascript"></script>
+		<script src="//www.milwaukeetool.com/scripts/VideoSupport.js" type="text/javascript"></script>
+
 	<!-- The order of these two scripts matter because a function override exists in one of the javascript files included in the second one. -->
 	<script type="text/javascript" src="//embedded.pricespider.com/WidgetScript.psjs?wc=4f117b85-cc2d-4561-bc6d-70aa2bb0df24"></script>
 	<script type="text/javascript" src="//embedded.pricespider.com/WidgetScript.psjs?wc=5fc523b6-71e9-47fb-b9a7-85eb804aad8a"></script>
     <script type="text/javascript" src="//embedded.pricespider.com/WidgetScript.psjs?wc=4c40504b-ad30-47bb-9c9b-bbea5ff94c2a"></script>
 
 
-<script type="text/javascript">
-	var tag = document.createElement('script');
-	tag.src = '//www.youtube.com/iframe_api';
-	var firstScriptTag = document.getElementsByTagName('script')[0];
-	firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+	<script>
+		$(function () {
+			$.asyncLoad('https://stats.manticoretechnology.com/mtcFormAPI.js', null);
+		})
+	</script>
 
-	function onPlayerReady(event) {
-		$('#' + event.target.getVideoData().video_id).youTrack(event.target, { tracker: _gaq, logLevel: 1 });
-	}
-
-	function onYouTubeIframeAPIReady() {
-		Videos.init();
-		Videos.setUpYouTubeVideos();
-	}
-</script>
-<script>
-	$(function () {
-		$.asyncLoad('https://stats.manticoretechnology.com/mtcFormAPI.js', null);
-	})
-</script>
 
 	
     
@@ -1290,6 +1302,9 @@ Milwaukee Warranty</a>
 
 	
     
+	
+
+
 	
 	<script type="text/javascript">
 		$(function () {
@@ -1298,7 +1313,6 @@ Milwaukee Warranty</a>
 	</script>
 
 	
-
 
 
 	<!--Begin Manticore Technology Code-->
@@ -1333,7 +1347,11 @@ Milwaukee Warranty</a>
 <!--End Manticore Technology Code--> 
 
 
+
+
+
 	
+
 
 
 
