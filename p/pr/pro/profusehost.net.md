@@ -1,33 +1,84 @@
-> *The following text is extracted and transformed from the profusehost.net privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228052652id_/https%3A//www.photonvps.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the profusehost.net privacy policy that was archived on 2017-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170115064831id_/http%3A//www.chimehost.com/privacy.html) for the most accurate reproduction.*
 
-# PhotonVPS - Privacy Policy
+# Privacy Policy - Chime Host
 
-### Privacy Policy
+##  Chime Host Privacy Policy 
 
-PhotonVPS has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.PhotonVPS.com
+Chime Host takes your privacy very seriously. This document sets forth a list of promises that we make to you regarding your privacy and security on the Chime Host web site. This document will let you know what information we collect from Chime Host users and how we use that information. This document will let you know what choices you have concerning your personal information and tell you how to make them.
 
-We use your IP address to help diagnose problems with our server, and to administer our Web site.
+Chime Host takes your privacy very seriously. This document sets forth a list of promises that we make to you regarding your privacy and security on the Chime Host web site. This document will let you know what information we collect from Chime Host users and how we use that information. This document will let you know what choices you have concerning your personal information and tell you how to make them.
 
-Our site uses cookies to keep track of your shopping cart. We use cookies to deliver content specific to your interests and to save your password so you don't have to re-enter it each time you visit our site.
+### Collection and Use of Information 
 
-This site contains links to other sites. PhotonVPS is not responsible nor can it be held liable for the privacy practices or the content of such Web sites.
+Chime Host collects information from customers that sign up for Web Hosting Services, Domain Name Registration, Affiliate Accounts, Web Hosting Resale Accounts and other such services. This information includes name, address, telephone number, email address, billing information, URL information and other data relating to the sale, use and billing of such services. This information is used for the registration and management of your account. It may also be used to contact you for purposes of collecting any outstanding balance on your account.
 
-We will not disclose or distribute your information to or with any third-parties, for whichever purpose it may be. Never will any third-party consciously gain access to your personal information.
+Chime Host may use this information internally to provide the services that you have requested and facilitate customer communications, domain registration services, web hosting services and billing and/or collection activities associated therewith. Chime Host may from time to time also communicate with you on behalf of our marketing partners. Chime Host will also in some instances share your personally identifiable information with our approved marketing partners for marketing purposes related to specific special offers that we believe you would like to receive based upon the services that you express an interest in from us. We require all marketing partners to comply with the Federal CAN-SPAM Act and all other applicable laws. We require that each such marketing partner provide a conspicuous opt-out link for your use to remove your information from their email list. Furthermore, if you wish us not to share your email address or other personally identifiable information you may contact us by email at
 
-Our site uses an order form for customers to request information, products, and services. We collect visitor's contact information (like their email address) and financial information (like their account or credit card numbers). Contact information from the order form is used to send orders and information about our company to our customers. The customer's contact information is also used to get in touch with the visitor when necessary. Users may opt-out of receiving future mailings; see the choice/opt-out section below. Financial information that is collected is used to check the users' qualifications and bill the user for products and services.
+### Surveys or Contests
 
-##### Public Forums
+On occasion we provide hosting customers with the opportunity to participate in contests or surveys on our site. If you participate, we will request certain personally identifiable information from you. Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code).
 
-This site makes chat rooms, forums, message boards, and/or news groups available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information.
+If the contest or survey requires, permits or is otherwise related to the submission by you to us of any story, artwork, photograph or other such material this information and/or material may be used to select a winner and/or tabulate survey results. In addition, we may use any such submission pursuant to the relevant portion of our Terms of Service to display to other hosting customers or non-hosting customers whether or not in conjunction with information from our advertisers or partners.
 
-##### Security
+### Additional Information
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. We have excellent anti-hacking software in place that was either purchased from third-parties and or programmed by our in-house developers. There is hardly any risk of information being compromised or accessed by any unauthorized parties.
+In addition to the registration information set forth above, Chime Host also records and tracks your IP address, and browser type for purposes of security, maintaining the web site and ensuring the best possible user experience. This non-personally identifiable information is also tabulated in the aggregate for purposes of determining broad demographic usage information and on occasion is shared with third-parties to provide more relevant services and advertisements to hosting customers. We do not link aggregate user data with personally identifiable information.
 
-##### Choice/Opt-Out
+Information that you may choose to post on the Service including any text entries, photos, videos or other content are displayed to other hosting customers and, at times, are available to unregistered web site visitors. Your full name, address, telephone number, or email address are never provided to other hosting customers or web site visitors by Chime Host.
 
-Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor. This site gives users the following options for removing their information from our database to not receive future communications or to no longer receive our service. You can send email to [sales@photonvps.com](mailto:sales@photonvps.com)
+### As Required by Law
 
-##### Correct/Update
+We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order, or legal process served on our Web site
 
-This site gives users the following options for changing and modifying information previously provided. Email : [sales@photonvps.com](mailto:sales@photonvps.com)
+### Cookies
+
+A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+
+We use session ID cookies which expire when you close your browser. These cookies make it easier for you to navigate our site. If you reject cookies, you may still use our site, but your ability to use some areas of our site, such as contests or surveys, will be limited.
+
+### Links to Other Sites
+
+This Web site contains links to other sites that are not owned or controlled by Chime Host. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our site and to read the privacy statements of each and every Web site that you visit collects personally identifiable information.
+
+### Your Websites
+
+Information that you post on the Internet or in public forums can be read, collected, or used by other users of the Internet, and could be used to identify you, contact you, send you unsolicited messages or for any other possible purpose. We have no control over the use of such information. We are not responsible for any personally identifiable information you post and we caution you to consider all such information to be publicly available. If you believe that you have been contacted in a manner that is in violation of our Terms of Service please notify us and include all information you may have as to the nature of any communication that you received and the identity of the person initiating such communication. Please send all notices under this paragraph to abuse[at]chimehost.com. 
+
+According to our terms of service misuse of such information can result in the termination of a user account.
+
+### Security
+
+The security of your personal information is important to us. Information that you submit in relation to a financial transaction is encrypted using secure socket layer technology (SSL). Information in our possession is maintained according to generally accepted industry standards. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+If you have any questions about security on our Web site, you may contact us at support[at]chimehost.com
+
+### Business Transitions
+
+In the event Chime Host goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information via email at the address you have provided during registration.
+
+### In the event Chime Host goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personally identifiable information will likely be among the assets transferred. You will be notified of any such change in ownership or control of your personal information via email at the address you have provided during registration.
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page.
+
+Contact Us
+
+If you have any questions or suggestions regarding our privacy policy, please contact us
+
+### Chime Host - Under 13 Privacy Statement   
+Information Collection & Use
+
+Chime Host does not specifically target this web site to children under 13 years of age. Nonetheless, all Chime Host web site content is intended to be generally appropriate for children with the proper parental guidance and as such we encourage parents to explore this web site together with their children and to discuss the information obtained.
+
+### How to Access or Modify Your Information
+
+Chime Host offers hosting customers the opportunity to access or modify information provided during registration. To access or modify such information, visit your customer account page and click Billing/Contact Information.
+
+### Questions About Chime Host Privacy Policy
+
+If you have any questions about this Privacy Policy or the practices described herein, you may contact us. 
+
+### Revisions to This Policy
+
+Chime Host reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our web site: www.chimehost.com.
