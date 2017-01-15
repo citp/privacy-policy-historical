@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008203244id_/https%3A//www.winndixie.com/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winndixie.com privacy policy that was archived on 2017-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170115023924id_/https%3A//www.winndixie.com/about/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Policies | Winn-Dixie
 
@@ -17,7 +17,7 @@ Winn-Dixie may use Customer Information, or any part thereof, to: (i) complete a
 
 ### Cookies
 
-We may use cookies (a small, unique identifier text file), web beacons (a small graphic), and other technologies to receive and store certain types of information whenever you interact with the Digital Marketing Program through your computer or your internet-enabled device. The purpose of this technology is to identity you when you visit the Digital Marketing Program so that we can enhance and customize your online experience. You may set your browser so that it does not accept cookies. You may also manually delete cookies from your computer. For more information on how to disable cookies, you should consult with the provider of your browser services. If you disable cookies, however, portions of the Digital Marketing Program may not function properly.
+We may use cookies (a small, unique identifier text file), web beacons (a small graphic), and other technologies to receive and store certain types of information whenever you interact with the Digital Marketing Program through your computer or your internet-enabled device. The purpose of this technology is to identify you when you visit the Digital Marketing Program so that we can enhance and customize your online experience. You may set your browser so that it does not accept cookies. You may also manually delete cookies from your computer. For more information on how to disable cookies, you should consult with the provider of your browser services. If you disable cookies, however, portions of the Digital Marketing Program may not function properly.
 
 We may collect certain technical information from your computer or internet-enabled device when you visit our websites and other areas within our Digital Marketing Program, including, without limitation, your Internet Protocol (IP) address, your computer’s operating system, browser type, and any referring website address. We use this information to enhance your experience during your visit to our websites and other areas within our Digital Marketing Program and for system administration, security, and troubleshooting purposes.
 
