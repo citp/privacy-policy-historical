@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ondvdreleases.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208173027id_/http%3A//www.ondvdreleases.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondvdreleases.com privacy policy that was archived on 2017-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170115030433id_/https%3A//www.ondvdreleases.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
