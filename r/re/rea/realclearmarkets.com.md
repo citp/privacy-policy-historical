@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the realclearmarkets.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208170804id_/http%3A//www.realclearmarkets.com/static/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realclearmarkets.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116233206id_/http%3A//www.realclearmarkets.com/privacy.html) for the most accurate reproduction.*
 
-# RealClearMarkets - Static Pages: Privacy Policy
-
-## Privacy Policy
+# Privacy Policy
 
 RealClearMarkets knows that you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our privacy policy. By visiting the RealClearMarkets website, you are accepting the practices outlined in this Privacy Policy.
 
@@ -25,9 +23,9 @@ We receive and store any information you enter on our website or provide to us i
 We receive and store certain types of information whenever you interact with us. RealClearMarkets automatically receives and records certain "traffic data" on our server logs from your browser including your IP address, RealClearMarkets cookie information, and the page you requested. RealClearMarkets uses this traffic data to help diagnose problems with its servers, analyze trends and administer the website.
 
 RealClearMarkets may also add on any page display the total counts that page has been viewed. This includes member profile pages.  
-**Social sharing of data** : RealClearMarketsmay in the future allow other users to browse stories that you have voted on, or submitted. RealClearMarkets may choose to post this data on other site features in the future.  
-**Profile information** : RealClearMarkets does not currently allow other users to browse your full name, location, and instant messaging URL, within your member profile should you provide this optional information.  
-**Syndication** : RealClearMarkets allows for the RSS syndication of all of its public content within the website.
+ **Social sharing of data** : RealClearMarketsmay in the future allow other users to browse stories that you have voted on, or submitted. RealClearMarkets may choose to post this data on other site features in the future.  
+ **Profile information** : RealClearMarkets does not currently allow other users to browse your full name, location, and instant messaging URL, within your member profile should you provide this optional information.  
+ **Syndication** : RealClearMarkets allows for the RSS syndication of all of its public content within the website.
 
 Many companies offer programs that help you to visit websites anonymously. While RealClearMarkets will not be able to provide you with a personalized experience if we cannot recognize you, we want you to be aware that these programs are available.
 
@@ -42,9 +40,9 @@ Some of our business partners may use cookies on our website (for example, adver
 ### Will RealClearMarkets Share Any of the Information it Receives?
 
 Information about our users is an integral part of our business. We neither rent nor sell your personal information to anyone. We share your personal information only as described below.  
-**Business Transfers** : In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if RealClearMarkets, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.  
-**Protection of RealClearMarkets and Others** : We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of RealClearMarkets, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  
-**With Your Consent** : Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.
+ **Business Transfers** : In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the business assets that is transferred. Moreover, if RealClearMarkets, or substantially all of its assets, were acquired, user information would be one of the assets that is transferred.  
+ **Protection of RealClearMarkets and Others** : We may release personal information when we believe in good faith that release is necessary to comply with that law; enforce or apply our conditions of use and other agreements; or protect the rights, property, or safety of RealClearMarkets, our employees, our users, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.  
+ **With Your Consent** : Except as set forth above, you will be notified when your personal information may be shared with third parties or used for a purpose incompatible with the purpose(s) for which it was originally collected, and you will be able to prevent the sharing of this information by opting out.
 
 ### Is Information About Me Secure?
 
@@ -76,4 +74,4 @@ If you decide to visit RealClearMarkets website, your visit and any possible dis
 
 ### Privacy Policy Changes
 
-We reserve the right to change this Privacy Policy at any time. You agree to obtain changes to this Privacy Policy electronically by visiting this Site. We require you to check back from time to time to review changes to our Privacy Policy. 
+We reserve the right to change this Privacy Policy at any time. You agree to obtain changes to this Privacy Policy electronically by visiting this Site. We require you to check back from time to time to review changes to our Privacy Policy.
