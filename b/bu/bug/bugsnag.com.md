@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the bugsnag.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404154927id_/https%3A//bugsnag.com/docs/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugsnag.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116183642id_/https%3A//docs.bugsnag.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Bugsnag
+# Bugsnag docs › Legal & security › Privacy Policy
 
-> Last modified March 26, 2015
+Details on how Bugsnag processes and stores your data.
+
+_Last modified March 26, 2015_
 
 Bugsnag understands that privacy is important. This Privacy Policy applies to any and all products, services, applications, Applications, websites, or other affiliated ventures operated by Bugsnag, Inc. Throughout this Policy, “Bugsnag” and “We” refers to Bugsnag, Inc. and its affiliates. “You” refers to you, our customers and users - everyone who uses, subscribes to, publishes through, advertises through, joins, or visits Bugsnag. The “Bugsnag Platform” refers to the libraries, API, website and software-as-a-service platform You choose to download, integrate, and access at [https://bugsnag.com](https://bugsnag.com/).
 
@@ -22,11 +24,11 @@ Information You Provide: You may provide to Bugsnag personal information (such a
 
 You may use Your browser settings to disable non-essential cookies.
 
-Bugsnag collects, analyzes, and stores information provided by You, including information about Your employees who will want to use the Bugsnag dashboard ("Employee Data") and details of Your Software being monitored by Bugsnag. Employee Data is explicitly provided by You to allow Your employees to log on and access the Bugsnag Dashboards, and is essential for the operation of the Bugsnag Platform.
+Bugsnag collects, analyzes, and stores information provided by You, including information about Your employees who will want to use the Bugsnag dashboard (“Employee Data”) and details of Your Software being monitored by Bugsnag. Employee Data is explicitly provided by You to allow Your employees to log on and access the Bugsnag Dashboards, and is essential for the operation of the Bugsnag Platform.
 
-Bugsnag collects, analyzes, and stores information about crashes and errors in Your Software ("Error Data"). This contains information about how and why Your Software crashed. Error Data is used by You to prioritize and fix errors in Your Software.
+Bugsnag collects, analyzes, and stores information about crashes and errors in Your Software (“Error Data”). This contains information about how and why Your Software crashed. Error Data is used by You to prioritize and fix errors in Your Software.
 
-Error Data may include diagnostic information to help You reproduce and resolve errors in Your Software ("Diagnostic Data"). Diagnostic Data may contain information about users of Your Software ("End Users”).
+Error Data may include diagnostic information to help You reproduce and resolve errors in Your Software (“Diagnostic Data”). Diagnostic Data may contain information about users of Your Software (“End Users”).
 
 Bugsnag may collect certain Diagnostic Data automatically after adding Bugsnag Your Software, but You are always in full control of exactly what Diagnostic Data is collected and/or sent to Bugsnag.
 
@@ -46,7 +48,7 @@ You are responsible for procuring permission from Your End Users to share any Di
 
 You have full access to Your Employee Data, Error Data and Diagnostic Data.
 
-Bugsnag’s employees have access to Employee Data, Error Data and Diagnostic Data. Bugsnag employees will only ever access this data in order to help You with support requests, or to aid You in the integration of Bugsnag into Your Software. All Bugsnag Employees must adhere to Bugsnag's Information Security Policy.
+Bugsnag’s employees have access to Employee Data, Error Data and Diagnostic Data. Bugsnag employees will only ever access this data in order to help You with support requests, or to aid You in the integration of Bugsnag into Your Software. All Bugsnag Employees must adhere to Bugsnag’s Information Security Policy.
 
 Bugsnag uses encryption on all data in transit and multifactor authentication to secure your data. Access is limited to Bugsnag’s employees.
 
@@ -56,11 +58,11 @@ Bugsnag uses the information that You provide or that we collect to operate, mai
 
 Bugsnag uses the information that we collect to understand the usage trends and preferences of You and our other customers, to improve the way the Bugsnag Platform works and looks, to create new features and functionality. Using the Bugsnag dashboard, You control how Your Employee Data, Error Data, and Diagnostic Data is used for Your Software.
 
-Bugsnag may use automatically collected information and cookies information to: (a) remember Your information so that You will not have to re-enter it during Your visit or the next time You access the Bugsnag Platform; (b) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and (c) provide metrics to You as they pertain to Your use of the Bugsnag Platform;
+Bugsnag may use automatically collected information and cookies information to: (a) remember Your information so that You will not have to re-enter it during Your visit or the next time You access the Bugsnag Platform; (b) monitor and report aggregate usage metrics such as total number of visitors and pages accessed; and © provide metrics to You as they pertain to Your use of the Bugsnag Platform;
 
 ## 5\. When Bugsnag Discloses Information
 
-Bugsnag reserves the right to share broad crash statistics with other customers ("Aggregate Information") in order to help our customers understand industry trends. This data will never contain any personally identifiable information, or any specific information relating to customers or any customer’s software.
+Bugsnag reserves the right to share broad crash statistics with other customers ("Aggregate Information”) in order to help our customers understand industry trends. This data will never contain any personally identifiable information, or any specific information relating to customers or any customer’s software.
 
 We may disclose some limited information to affiliated companies or other businesses or persons to: provide web site hosting, maintenance, and security services; fulfill orders; conduct data analysis and create reports; offer certain functionality; and to assist Bugsnag in improving the Bugsnag Platform and creating new services features. We contractually require that these parties process such information in compliance with this Privacy Policy, we authorize only a limited use of such information, and we require these parties to use reasonable confidentiality measures.
 
@@ -76,9 +78,9 @@ Employee Data is stored for as long as Customers require access to their Bugsnag
 
 ## 7\. Where is Data Stored?
 
-All data and backups are currently stored on Amazon's AWS, on US servers. Please see Amazon’s AWS Privacy Policy for further details: <http://aws.amazon.com/privacy/>.
+All data and backups are currently stored on Amazon’s AWS, on US servers. Please see Amazon’s AWS Privacy Policy for further details: <http://aws.amazon.com/privacy/>.
 
-Bugsnag is a globally diverse company. Bugsnag employs U.S. and non-U.S. citizens. Every Bugsnag employee agrees to comply with the Bugsnag Information Security Policy. 
+Bugsnag is a globally diverse company. Bugsnag employs U.S. and non-U.S. citizens. Every Bugsnag employee agrees to comply with the Bugsnag Information Security Policy.
 
 Bugsnag reserves the right to change service providers at any time.
 
