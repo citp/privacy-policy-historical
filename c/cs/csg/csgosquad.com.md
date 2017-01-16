@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgosquad.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527135126id_/https%3A//csgosquad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgosquad.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116091536id_/https%3A//csgosquad.com/privacy) for the most accurate reproduction.*
 
 # CS:GO Squad - Privacy Policy
 
