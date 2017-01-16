@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the flixpress.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812083403id_/https%3A//flixpress.com/PrivacyStatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixpress.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116191824id_/https%3A//flixpress.com/PrivacyStatement.aspx) for the most accurate reproduction.*
 
-# Flixpress - Create video, animation & intros online > PrivacyStatement
+# Privacy Policy
 
 Flixpress is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Flixpress Web site and governs data collection and usage. By using the Flixpress website, you consent to the data practices described in this statement.
 
