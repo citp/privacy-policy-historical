@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the infousa.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019013659id_/https%3A//www.infousa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infousa.com privacy policy that was archived on 2017-01-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170116201654id_/https%3A//www.infousa.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy and Security | Consumer List | Business Lists | InfoUSA
+# Privacy and Security | Consumer Center | Resources | InfoUSA
 
 **1\. Introduction to Infogroup’s Services**  
 Infogroup and its various affiliates and subsidiaries provide to clients a wide variety of data management, distribution, analytic and marketing services, which help our clients and the platforms and partners they work with to provide more relevant marketing and communications, and to understand their consumers better. These clients may reach their customers and others, for instance, through direct mail, email, display, mobile and multi-media channels. Many of these services are described in greater detail on our website, http://www.infogroup.com.
