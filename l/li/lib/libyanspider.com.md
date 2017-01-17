@@ -1,18 +1,8 @@
-> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210085037id_/http%3A//libyanspider.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libyanspider.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117133514id_/https%3A//libyanspider.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Libyan Spider
+# Privacy policy - Libyan Spider
 
-At LibyanSpider.com we care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy. By visiting the LibyanSpider.com Web site (the “Site”) or by otherwise interacting with LibyanSpider.com, you agree to accept the practices described in this Privacy Notice.
-
-  * What Information Does LibyanSpider.com Collect?
-  * Does LibyanSpider.com Share the Information It Receives?
-  * How Secure Is Information About Me?
-  * What Information Can I Access?
-  * Sites Other Than LibyanSpider.com
-  * Children
-  * Conditions of Use, Notices, and Revisions
-
-
+At LibyanSpider.com we care how information about you is used and shared, and we appreciate your expectation that we will do so carefully and sensibly. This notice describes our privacy policy.
 
 ### What Information Does LibyanSpider.com Collect?
 
@@ -119,3 +109,5 @@ Due to the constantly changing nature of our business, we reserve the right to c
 If you do not agree to be so bound, do not remain on the Site. You are responsible for checking our Site frequently to keep apprised of recent changes.
 
 If you have any concerns about your privacy at LibyanSpider.com, please [click here](http://libyanspider.com/contact-us/) to contact Customer Support, and we will attempt to resolve it.
+
+__
