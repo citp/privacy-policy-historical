@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531071517id_/https%3A//www.empoweringparents.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the empoweringparents.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117163510id_/https%3A//www.empoweringparents.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Empowering Parents
 
