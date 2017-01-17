@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mansfieldnewsjournal.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123142109id_/http%3A//static.mansfieldnewsjournal.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mansfieldnewsjournal.com privacy policy that was archived on 2017-01-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170117163434id_/http%3A//static.mansfieldnewsjournal.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | mansfieldnewsjournal.com
 
