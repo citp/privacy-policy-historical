@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the explore.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124225326id_/http%3A//explore.org/extra/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the explore.org privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118182652id_/https%3A//explore.org/extra/privacy_policy) for the most accurate reproduction.*
 
 # 
 
