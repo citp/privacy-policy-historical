@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the mygotvmail.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604081045id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygotvmail.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118111120id_/http%3A//grasshopper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Grasshopper
 
 ### Information Collection
 
-This privacy statement discloses the privacy practices of Grasshopper Group LLC "Grasshopper", an affiliate of Citrix Systems, Inc., and the information collected on [grasshopper.com](http://grasshopper.com/), [secure.grasshopper.com](https://secure.grasshopper.com/), [uk.grasshopper.com](http://uk.grasshopper.com/) and [uksecure.grasshopper.com](https://uksecure.grasshopper.com/). Grasshopper collects information from our users at several different points on our Web site.
+This privacy statement discloses the privacy practices of Grasshopper Group LLC "Grasshopper", an affiliate of GetGo, Inc., and the information collected on [grasshopper.com](http://grasshopper.com/), [secure.grasshopper.com](https://secure.grasshopper.com/), [uk.grasshopper.com](http://uk.grasshopper.com/) and [uksecure.grasshopper.com](https://uksecure.grasshopper.com/). Grasshopper collects information from our users at several different points on our Web site.
 
 ### Order
 
@@ -118,7 +118,7 @@ We use Google Analytics as described in [“How Google uses data when you use ou
 
 We also employ IP address masking, a technique used to truncate IP addresses collected by Google Analytics and store them in an abbreviated form to prevent them from being traced back to individual users.
 
-We may also use Google Analytics Demographics and Interests. We use the data provided by this service (such as age range, gender and interests) to better understand our website audience and tune our communications appropriately. 
+We may also use Google Analytics Demographics and Interests. We use the data provided by this service (such as age range, gender and interests) to better understand our website and app audience and tune our communications appropriately. 
 
 _Portions of our website may also use Google Analytics for Display Advertisers including DoubleClick or Dynamic Remarketing which provide interest-based ads based on your visit to this or other websites. You can use[Ads Settings](https://www.google.com/settings/u/0/ads/authenticated) to manage the Google ads you see and opt-out of interest-based ads._
 
