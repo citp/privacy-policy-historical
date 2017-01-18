@@ -1,153 +1,134 @@
-> *The following text is extracted and transformed from the tvshowtime.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003135id_/http%3A//www.tvshowtime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvshowtime.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118074010id_/http%3A//www.tvshowtime.com/privacy) for the most accurate reproduction.*
 
 # TVShow Time - Privacy Policy
 
-This privacy policy has been compiled to better serve those who are concerned with how their 'Personally identifiable information' (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. 
+## I. Privacy Policy
 
-##  What personal information do we collect from the people that visit our blog, website or app? 
+**Effective Date: This privacy policy (this "Privacy Policy") is effective and was last updated as of December 9, 2016.**
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your name, email address or other details to help you with your experience. 
+## II. Our Commitment to Your Privacy
 
-##  When do we collect information? 
+A. Whip Networks, Inc. or its affiliates ("We" or "us" or "WNI") is pleased to provide you its online services and applications, including (i) the whipclip.com, realcoolvideos.com, realcoolnation.com, tozelabs.com, and tvshowtime.com websites, and any other website owned or operated by WNI (each a “Site,” and collectively the “Sites”), (ii) any mobile applications owned or operated by WNI (the "Apps"), (iii) our tools embedded on third party partner sites and apps ("Tools"), and (iv) any other content, features, materials, widgets, and/or online services offered through by WNI (collectively (i) through (iv), the “Service").
 
-We collect information from you when you register on our site or enter information on our site. 
+B. The privacy of our visitors and users (collectively, "you" or "your") is very important to us. This Privacy Policy describes:
 
-##  How do we use your information? 
+  1. how and why we collect certain information from you via the Service;
+  2. how we use and with whom we share such information;
+  3. how you can access and update such information; and
+  4. the choices you can make about how we collect, use and share your information.
 
-We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways: 
 
-  * To personalize user's experience and to allow us to deliver the type of content and product offerings in which you are most interested. 
-  * To improve our website in order to better serve you. 
-  * To allow us to better service you in responding to your customer service requests. 
-  * To send periodic emails regarding your order or other products and services. 
 
+C. Please read this Privacy Policy carefully to understand our policies and practices regarding your information and how we will treat it. By accessing or using the Service, you agree to be bound by this Privacy Policy. If you do not agree to abide by this or any future Privacy Policy, you are not permitted to access or use the Service.
 
+D. If you have any questions regarding this Privacy Policy or our information collection and use practices, please contact us using the information in the "Contact Us" section below.
 
-##  How do we protect visitor information? 
+## III. Information We Collect and How We Collect It
 
-We do not use vulnerability scanning and/or scanning to PCI standards. Your personal information is contained behind secured networks and is only accessible by a limited number of persons who have special access rights to such systems, and are required to keep the information confidential. In addition, all sensitive/credit information you supply is encrypted via Secure Socket Layer (SSL) technology. 
+A. We collect information generally in one of three following ways: (i) we collect information you submit via the Service; (ii) we collect information we derive from your use of the Service; and (iii) we collect information we obtain from third parties. The information we gather enables us to personalize, improve, monetize and continue to operate the Service.
 
-We implement a variety of security measures enters, submits, or accesses their information All transactions are processed through a gateway provider and are not stored or processed on our servers. 
+B. In connection with certain features of the Service, we may collect several types of information from and about you, including:
 
-##  Do we use 'cookies'? 
+  1. information that, taken alone, identifies you and that can be used to contact you, on-line or offline ("Personally Identifiable Information"), which may include, for example: your name, physical address, email address, gender, telephone number, date of birth or age range;
+  2. information about you that cannot be used, alone, to identify you; and
+  3. information about your use of the Service, which may include, for example, internet connection, your computer or mobile device and software you use to access the Service, including your Internet Protocol ("IP") address or other device identifiers.
 
-Yes. Cookies are small files that a site or its service provider transfers to your computer's hard drive through your Web browser (if you allow) that enables the site's or service provider's systems to recognize your browser and capture and remember certain information. For instance, we use cookies to help us remember and process the items in your shopping cart. They are also used to help us understand your preferences based on previous or current site activity, which enables us to provide you with improved services. We also use cookies to help us compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
 
-###  We use cookies to: 
 
-  * Understand and save user's preferences for future visits. 
+C. Below are specific types of information we collect from our users:
 
+  1. Account Information. Certain features of the Service may require you to create a user account (an "Account"). If you create an Account with us, you will be asked to provide information that could be Personally Identifiable Information, such as your name, username, password, postal address and email address. You acknowledge that this information may be personal to you, and by creating an Account on the Service and providing Personally Identifiable Information to us, you allow others, including us, to identify you, and therefore, you may not be anonymous.
+  2. Information from Social Networking Websites. 
+    1. By registering for an Account, you may have the option to sign in using third party social networking websites ("Social Networks"), such as Facebook or Twitter. You may also have the option of connecting to Social Networks to complete your profile information and populate your Account with information from these networks. If you choose to sign in through these Social Networks or connect your Account to these Social Networks, we use the information you have already provided to such Social Networks in registering for an account with such Social Networks and which you have allowed such Social Networks to share with WNI, including, but not limited to, your first name, your user profile picture, your friends and contacts list, your gender, and the networks to which you belong (collectively, your "Submitted Information").
+    2. You expressly authorize us to collect and use your Submitted Information in connection with your use of the Service. You further acknowledge and agree that WNI may, but is not obligated to, maintain copies of your Submitted Information indefinitely, or delete any or all Submitted Information, at our sole discretion.
+    3. We advise you to carefully read to the terms of use and privacy policies of Social Networks. It is your responsibility to read and accept the respective Social Networks policies prior to signing into your Account through such Social Network.
+  3. Content. 
+    1. Among other features, the Service (including via whipclip.com and the Whipclip App) will allow you to (i) create, reproduce, display, perform and distribute (including by means of streaming or other digital transmission) bookmarked excerpts of certain third party streamed and on-demand audio and video content generated through use of the Service or third party websites or services ("Whip Clips"), (ii) provide comments with respect to Whip Clips, (iii) share links of Whip Clips through the Service, Social Networks and search engines, and (iv) follow other users who have created Whip Clips.
+    2. Some features of the Service, including, but not limited to, your creation, use, viewing, and sharing of Whip Clips, allow you to submit content to the Service, which may include videos, audio, images, graphics, written posts and comments and other forms of multimedia (collectively, "User Content"). All User Content submitted by you may be retained by us indefinitely, even after you terminate your Account. We may continue to disclose such User Content to third parties in a manner that does not reveal Personally Identifiable Information, as described in this Privacy Policy. By submitting any User Content, you agree that such User Content is non-confidential for all purposes. In addition, you User Content is posted and transmitted at your own risk. Additionally, we cannot control the actions of other users of the Service with whom you may choose to share User Content. Therefore, we cannot and do not guarantee that your User Content will not be viewed by unauthorized persons.
+  4. IP Address Information and Other Information Collected Automatically. 
+    1. We may collect IP addresses from you when you use the Service, and we may collect and monitor other data and information about your activities on the Service. We only use such data anonymously and in the aggregate. This data is not used to track or monitor Personally Identifiable Information of individual users. We gather and monitor this data to analyze trends, administer the Service, identify users when they visit or use the Service, track users' movements when using of the Service, and gather broad demographic information for aggregate use. We also may use the IP addresses to geo-target advertisements. We may share this information with our partners so that they too may understand our user base and Service usage patterns, but only on a collective, aggregated basis and in a manner which does not reveal any Personally Identifiable Information about any individual User.
+    2. We may use spot light ads/web beacons/GIF and/or pixel tags which are site instrumentation tools that help us to determine, for instance, whether a page has been viewed or not and, if so, how many times. When you ask us to send you information on a promotion or a newsletter, we may use web beacons to establish how many of the emails are actually opened. In general, any electronic image viewed as part of a web page, including an ad banner, can act as a web beacon. We may use web beacons to collect web usage analytics.
+    3. When you visit portions of the Server, the server housing the applicable pages automatically generates a "session log." We use session logs to help us determine how people travel through the Service. In this way, we can structure our pages so that the information most frequently visited is easier to find. By tracking page visits, we can also determine if the information we're providing is being used. The only data gathered is the Internet Protocol (IP) address from which you came (which contains no personal information), the web site that referred you, the pages you visited and the date and time of those visits.
+    4. Users may be directed to the Service via banner ads or site links. Ads or website links that are placed by the Service may use cookies or web beacons to deliver metrics on the effectiveness of the ads or links. They do not collect Personally Identifiable Information from the user.
+    5. We or our vendors or content partners use several common online tracking tools, including browser and flash cookies, web beacons and similar technologies, to personal your experience on the Service, provide measurement services, and serve you targeted advertisements. Some web browsers have a "Do Not Track" feature that lets the browser specify that a user does not want to have their online activities tracked. These browser features are not uniform, and the Service does not respond to those “Do Not Track” signals.
+    6. _Information Collected using Cookies._ Cookies, which are small text files recorded in a user's hard drive, are employed by thousands of sites to enhance users' web viewing. Cookies cannot damage user files, nor can they read information from a user's hard drive. Cookies allow sites and advertisers to "remember" users across pages of a site and across multiple visits to a site. Cookies in and of themselves do not personally identify users, although they do identify a user's computer. We use session and persistent cookies for remembering user preferences and current session information. Because of our use of cookies, we can deliver faster service, more consistent, updated results, and a more personalized site.
+    7. _Information Related to Advertising._ To support and enhance the Service, we may serve, and also allow third party, advertisements (including, without limitation, pre-and post-roll, banner, frame and pop-up advertisements) through the Service. These advertisements are sometimes targeted and served to particular users and may come from third party companies called "ad networks." Ad networks include third party ad servers, ad agencies, ad technology vendors and research firms. Advertisements served through the Service may be targeted to users who fit a certain general profile category and may be based on (i) anonymized information inferred from information provided to us by a user, including Personally Identifiable Information, (ii) Service usage patterns of particular users, (iii) the content in the Whip Clips you create or share or (iv) your activity on a Third Party Website. We do not provide Personally Identifiable Information to any ad networks for use outside of the Service.
 
 
-You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser (like Internet Explorer) settings. Each browser is a little different, so look at your browser's Help menu to learn the correct way to modify your cookies. 
 
-###  If users disable cookies in their browser: 
+## IV. How We Use Information Collected from You
 
-If you disable cookies off, some features will be disabled It will turn off some of the features that make your site experience more efficient and some of our services will not function properly. 
+A. We may use information that we collect about you or that you provide to us, including any Personally Identifiable Information, as follows:
 
-However, you can still place orders . 
+  1. to register and service your Account;
+  2. to secure your Account and prevent fraud;
+  3. for our internal records, tracking and lawful business purposes;
+  4. in order to contact you to respond to your questions or requests or to provide you with technical support;
+  5. to enable you to provide feedback to us;
+  6. to provide to you and communicate with you about the services, content, features or products you use or request (including to provide you with information concerning changes to the Service which may affect your Account and/or your use of the Service);
+  7. to customize and optimize the content or advertisements you receive when you use the Service, and to otherwise improve the Service and your experience therewith, which may include tracking traffic, usage, trends and navigation patterns related to your activities on the Service and the links we provide to Third Party Websites or advertisements;
+  8. to protect our or third-party rights or interests, including to enforce our Terms of Service;
+  9. to respond to subpoenas, court orders or legal process, or to establish or exercise our legal rights or defend against legal claims;
+  10. to prevent fraud or other illegal activity, to prevent imminent bodily harm, or to protect ourselves and you from people violating our Terms of Service, which may include sharing information with other companies, lawyers, courts or other government entities;
+  11. in any other way we may describe when you provide the information; and
+  12. for any other purpose with your prior consent.
 
-##  Third Party Disclosure 
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. 
 
-##  Third party links 
+B. When you complete your Account, you will be presented with a series of choices regarding whether you want to receive certain types of communications directly from us or on behalf of our business partners and advertisers. If you do not wish to receive any or all of such communications, you may opt-out by responding "no" or clicking the appropriate box to opt-out. By electing not to opt-out of such communications, you are granting permission to allow WNI, its business partners and advertisers to send the selected communications. We reserve the right to send you communications regarding the Service, or to advise you of Service changes or other events or occurrences which may affect your access to or use of the Service (such as service announcements, administrative notices and the like) without offering you the opportunity to opt out of them. If you wish to opt-out of receiving future communications, you may do so at any time. We may allow you to do so by logging in to your applicable Account and you will find options for editing your opt-in preferences, otherwise you can communicate your preferences to us by emailing us at privacy@whipclip.com.
 
-Occasionally, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites. 
+C. We are a US-based company so the information that we collect from you will be transferred to, and stored at, a destination outside of your country and the European Economic Area ("EEA") and, in particular, the United States or France, which may have different or less protective privacy laws than those in your country. The Information may also be processed by any service providers appointed by us who operate outside the EEA and their staff, and/or our own staff based outside of the EEA. If you reside outside the United States, you acknowledge and agree that your information may be transferred to the United States, and processed and stored there under United States privacy standards. By using the Application and providing information to us, you consent to such transfer to, and processing in, the United States.
 
-##  Google 
+## V. Sharing Your Information
 
-Google's advertising requirements can be summed up by Google's Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en 
+Your information may be shared as follows:
 
-We have not enabled Google AdSense on our site but we may do so in the future. 
+_A. Non-Personal Identifiable Information._ We may share information that is not Personally Identifiable Information and that does not identify you personally about your interests, your use of the Service, and the links and ads that you follow, with our content provider, advertisers or other third parties. If we do so, we will not provide them with your name or contact information.
 
-##  California Online Privacy Protection Act 
+_B. Safety, Security and Compliance with Law._ We may disclose any information, including Personally Identifiable Information, we deem necessary to comply with any applicable law, regulation, legal process or governmental request, or to enforce our rights or to protect the safety and security of the Service or other users.
 
-CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf 
+_C. Business Transfers._ In the event WNI undergoes a business transition, such as a merger or acquisition by another company, or sale of all or a portion of its assets, we may transfer your Personally Identifiable Information to the successor organization in such transaction. If material changes to the Service’s privacy practices will occur as a result of the business transition, WNI or its successor will attempt to notify you via, including by posting a notice on the Service so that you can elect whether to delete your Account.
 
-###  According to CalOPPA we agree to the following: 
+_D. To Service Providers Performing Services on Our Behalf._ We may contract with third party companies to perform services on our behalf, including marketing assistance, e-mail delivery, hosting services, customer service and data analysis. We require any third party service providers to maintain the confidentiality of the information disclosed to them, and such service providers will not permitted to use your Personally Identifiable Information for any purpose other than to provide services to us.
 
-Users can visit our site anonymously Once this privacy policy is created, we will add a link to it on our home page, or as a minimum on the first significant page after entering our website. Our Privacy Policy link includes the word 'Privacy', and can be easily be found on the page specified above. 
+## VI. How to Access and Modify Your Information
 
-Users will be notified of any privacy policy changes: 
+You may access and modify the information that you have provided to us as follows:
 
-  * On our Privacy Policy Page 
+A. You may contact us at privacy@whipclip.com and request to review, amend or delete your Personally Identifiable Information collected by us, and/or request us to cease collecting Personally Identifiable Information from you in the future.
 
+B. If you have created an Account, you may review and make changes to certain of your Personally Identifiable Information and other information by logging into your Account and updating your Account profile.
 
+## VII. Third Party Websites
 
-Users are able to change their personal information: 
+A. This Privacy Policy does not apply to the practices of third parties that we do not own or control, including, but not limited to, any third party websites, services and applications (and the information or content contained therein) ("Third Party Websites") that may be linked to or from the Service and/or that you elect to access through the Service, or to any individuals that we do not manage or employ. While we attempt to facilitate access only to those Third Party Websites that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Websites. Please remember that when you navigate away from the Service to another website, this Privacy Policy is no longer in effect. Your browsing and interaction on any Third Party Website, including websites which have a link on the Service, is subject to such Third Party Website's own rules and policies. We encourage you to carefully review the rules and privacy policies of any Third Party Website you access.
 
-  * By logging in to their account 
+## VIII. Our Policy Towards Children
 
+A. This Service is not intended for children under the age of 13. We do not knowingly collect or solicit Personally Identifiable Information from anyone under the age of 13 or knowingly allow such persons to register an Account. Children under the age of 13 should not use the Service or access the Service at any time. In the event that we learn that we have inadvertently collected Personally Identifiable Information from a child under the age of 13, we will use reasonable efforts to erase such information from our records.
 
+## IX. Security of Your Information
 
-###  How does our site handle do not track signals? 
+A. We implement reasonable administrative, technical and physical security measures to protect the security of your information both online and offline, and we are committed to the protection of user information. In general, our business practices limit employee access to confidential information to those employees we reasonably believe need such information do their jobs.
 
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place. 
+B. Your Account information is protected by the password you use to access your Account. It is important that you protect and maintain the security of your Account and that you immediately notify us of any unauthorized use of your Account.
 
-###  Does our site allow third party behavioral tracking? 
+C. While we take reasonable precautions against possible security breaches of the Service, no website or Internet transmission is completely secure, and we cannot guarantee that unauthorized access, hacking, data loss, or other breaches will never occur. We urge you to take steps to keep your Personally Identifiable Information (including your Account password)safe and to log out of your Account after use.
 
-It's also important to note that we allow third party behavioral tracking 
+## X. Changes to this Privacy Policy
 
-##  COPPA (Children Online Privacy Protection Act) 
+A. It may be necessary from time to time for us to modify this Privacy Policy to reflect changes in the way we collect and use information or changes in privacy-related laws, regulations and industry standards. Accordingly, we reserve the right to change this Privacy Policy at any time by posting the revised Privacy Policy on the Service and updating the "Effective Date” at the top of this page. If the changes are material, we will attempt to notify you and other users of the Service by sending a notice to the email address provided to us and/or by placing a notice on the Service. You should periodically check the Service for such notices. We encourage you to refer to this policy on an ongoing basis so that you understand the current Privacy Policy. If revisions to this Privacy Policy are unacceptable to you, you must cease using the Service.
 
-When it comes to the collection of personal information from children under 13, the Children's Online Privacy Protection Act (COPPA) puts parents in control. The Federal Trade Commission, the nation's consumer protection agency, enforces the COPPA Rule, which spells out what operators of websites and online services must do to protect children's privacy and safety online. 
+## XI. Your California Privacy Rights
 
-We do not specifically market to children under 13. 
+A. A California resident who has provided personal information to a business with whom he/she has established a business relationship for personal, family, or household purposes ("California customer") is entitled to request information about whether the business has disclosed personal information to any third parties for the third parties' direct marketing purposes. In general, if the business has made such a disclosure of personal information, upon receipt of a request by a California customer, the business is required to provide a list of all third parties to whom personal information was disclosed in the preceding calendar year, as well as a list of the categories of personal information that were disclosed.
 
-##  Fair Information Practices 
+B. However, under the law, a business is not required to provide the above-described lists if the business adopts and discloses to the public (in its privacy policy) a policy of not disclosing customer’s personal information to third parties for their direct marketing purposes unless the customer first affirmatively agrees to the disclosure, as long as the business maintains and discloses this policy. Rather, the business may comply with the law by notifying the customer of his or her right to prevent disclosure of personal information and providing a cost free means to exercise that right.
 
-The Fair Information Practices Principles form the backbone of privacy law in the United States and the concepts they include have played a significant role in the development of data protection laws around the globe. Understanding the Fair Information Practice Principles and how they should be implemented is critical to comply with the various privacy laws that protect personal information. 
+C. California customers may request further information about our compliance with this law by e-mailing privacy@whipclip.com. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address.
 
-###  In order to be in line with Fair Information Practices we will take the following responsive action, should a data breach occur: 
+## XII. Contact Us
 
-We will notify the users via email 
+If you have any questions, comments or concerns regarding our Privacy Policy and/or practices, please send an email to: privacy@whipclip.com.
 
-  * Within 7 business days
-
-
-
-We will notify the users via in site notification 
-
-  * Within 1 business day
-
-
-
-We also agree to the individual redress principle, which requires that individuals have a right to pursue legally enforceable rights against data collectors and processors who fail to adhere to the law. This principle requires not only that individuals have enforceable rights against data users, but also that individuals have recourse to courts or a government agency to investigate and/or prosecute non-compliance by data processors. 
-
-##  CAN SPAM Act 
-
-The CAN-SPAM Act is a law that sets the rules for commercial email, establishes requirements for commercial messages, gives recipients the right to have emails stopped from being sent to them, and spells out tough penalties for violations. 
-
-###  We collect your email address in order to: 
-
-  * Send information, respond to inquiries, and/or other requests or questions. 
-  * Process orders and to send information and updates pertaining to orders 
-  * We may also send you additional information related to your product and/or service. 
-
-
-
-###  To be accordance with CANSPAM we agree to the following: 
-
-  * NOT use false, or misleading subjects or email addresses 
-  * Identify the message as an advertisement in some reasonable way 
-  * Include the physical address of our business or site headquarters 
-  * Monitor third party email marketing services for compliance, if one is used. 
-  * Honor opt-out/unsubscribe requests quickly 
-  * Allow users to unsubscribe by using the link at the bottom of each email 
-
-
-
-###  If at any time you would like to unsubscribe from receiving future emails, you can 
-
-  * Follow the instructions at the bottom of each email.
-
-
-
-## Contacting Us
-
-If there are any questions regarding this privacy policy you may contact us using the information below. 
-
-www.tvshowtime.com Paris France 107 rue Pierre Semard 92320 support@tvshowtime.com 
-
-Last Edited on 2014-09-17
+You may also contact us at Whip Networks, Inc., 1847 Centinela Ave., Santa Monica, CA 90404.
