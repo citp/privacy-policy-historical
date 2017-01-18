@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldgroups.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618191040id_/http%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/general/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldgroups.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118134136id_/https%3A//www.ifriends.net/ifpage.dll%3Ft%3Dsite/general/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Statement for iFriends
 
