@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the metamarkets.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806044331id_/https%3A//metamarkets.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the metamarkets.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118222703id_/https%3A//metamarkets.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Metamarkets
 
