@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hometrainingtools.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221024225id_/http%3A//www.hometrainingtools.com/a/terms-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hometrainingtools.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118230823id_/http%3A//www.hometrainingtools.com/a/terms-privacy) for the most accurate reproduction.*
 
 # Terms of Use & Privacy Policy | Home Science Tools
 
