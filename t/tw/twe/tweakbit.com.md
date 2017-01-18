@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tweakbit.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220060659id_/http%3A//www.tweakbit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tweakbit.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118050506id_/http%3A//www.tweakbit.com/privacy) for the most accurate reproduction.*
 
 # TweakBit - Privacy Notice
 
@@ -14,6 +14,6 @@ We use the Google AdWords remarketing service to advertise on third party websit
 
 You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/), and if you want to you can [opt out](http://www.google.com/settings/ads/onweb/) of interest-based advertising entirely by cookie settings or permanently using a [browser plugin](https://www.google.com/settings/ads/plugin). 
 
-Some of the web search services provided herein are provided by Trovi Search and powered by Trovi search partners. For information on the web search services data collection, please visit <http://info.trovi.com/Privacy>, and the search provider's privacy policy, as applicable. 
+Some of the web search services provided herein are provided by Yahoo Search. For information on the web search services data collection, please visit <https://policies.yahoo.com/us/en/yahoo/terms/utos/index.htm>, and the search provider's privacy policy <https://policies.yahoo.com/us/en/yahoo/privacy/index.htm>, as applicable. 
 
 If you install our web browser extension Privacy Shield, it may make changes to browser settings, which may include finding and deleting tracking cookies, finding and deleting traces of personal information (such as credit card info), changing the default new tab page or home page, changing the default search engine used in a browser. We do not collect information on the websites you visit or your search history. 
