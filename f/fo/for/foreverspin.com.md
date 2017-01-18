@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foreverspin.com privacy policy that was archived on 2016-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160516194218id_/http%3A//foreverspin.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foreverspin.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118042931id_/https%3A//foreverspin.com/pages/privacy) for the most accurate reproduction.*
 
 # ForeverSpin - Privacy Statement
 
@@ -17,9 +17,11 @@ If we ask for your personal information for a secondary reason, like marketing, 
 How do I withdraw my consent?  
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@foreverspin.com or mailing us at:  
 foreverspin.com  
-1 Dundas Street West Unit 2500
+215 Spadina Avenue 
 
-Toronto, ON M5G1Z3
+UNIT 225
+
+Toronto, ON M5T2C7
 
 Canada  
  
@@ -86,10 +88,10 @@ If you would like to: access, correct, amend or delete any personal information 
 foreverspin.com  
 Re: Privacy Compliance Officer
 
-foreverspin.com  
-1 Dundas Street West Unit 2500
+foreverspin.com
 
-Toronto, ON M5G1Z3
+215 Spadina Ave UNIT 225  
+Toronto, ON M5T2C7
 
 Canada
 
