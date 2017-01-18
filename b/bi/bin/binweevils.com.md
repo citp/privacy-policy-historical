@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219165948id_/http%3A//www.binweevils.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the binweevils.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119000318id_/https%3A//www.binweevils.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Bin Weevils
 
