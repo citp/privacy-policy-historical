@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingovtjob.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202135310id_/http%3A//www.ingovtjob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingovtjob.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118140033id_/https%3A//www.ingovtjob.com/privacy-policy) for the most accurate reproduction.*
 
 # latest Privacy Policy govt jobs 2016 upcoming recruitment 2017 notification
 
