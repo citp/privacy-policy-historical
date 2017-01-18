@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the myanimelist.net privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402064235id_/http%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myanimelist.net privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118185233id_/https%3A//myanimelist.net/about/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyAnimeList.net
 
 LAST UPDATED: [1/9/2015]
 
-In this Privacy Policy, “Company”, “we”, “us”, or “our” means MyAnimeList, LLC, the owner and operator of the website [www.MyAnimeList.net](http://myanimelist.net/) (the “Site”). Your privacy is important to the Company, and we take your privacy very seriously. We designed our Privacy Policy to cover how we collect and use your information in connection with use of our Site; how you can control the use and disclosure of your information; how your information is protected; and how this information may be used and disclosed. If you have any questions about this privacy policy, please contact us at [legal@myanimelist.net](mailto:legal@myanimelist.net).
+In this Privacy Policy, “Company”, “we”, “us”, or “our” means MyAnimeList, LLC, the owner and operator of the website [www.MyAnimeList.net](https://myanimelist.net/) (the “Site”). Your privacy is important to the Company, and we take your privacy very seriously. We designed our Privacy Policy to cover how we collect and use your information in connection with use of our Site; how you can control the use and disclosure of your information; how your information is protected; and how this information may be used and disclosed. If you have any questions about this privacy policy, please contact us at [legal@myanimelist.net](mailto:legal@myanimelist.net).
 
   * Scope
   * What information the Site collects
