@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapid-search-engine.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012935id_/http%3A//rapid-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapid-search-engine.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118063942id_/http%3A//rapid-search-engine.com/index-cmd-privacy.html) for the most accurate reproduction.*
 
 # Rapidshare search engine - Search files hosted on rapidshare
 
