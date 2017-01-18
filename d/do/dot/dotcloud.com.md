@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dotcloud.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008081528id_/https%3A//www.docker.com/docker-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dotcloud.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119002054id_/https%3A//www.docker.com/docker-privacy-policy) for the most accurate reproduction.*
 
 # Docker Legal Terms - Privacy Policy
 
