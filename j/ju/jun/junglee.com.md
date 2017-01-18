@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the junglee.com privacy policy that was archived on 2015-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151224234818id_/http%3A//www.junglee.com/f/1000570153) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the junglee.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118170207id_/http%3A//www.junglee.com/j/f/1000570153) for the most accurate reproduction.*
 
 # Junglee.com – Privacy Notice
 
@@ -23,8 +23,6 @@ Junglee.com knows that you care how information about you is used and shared and
 **Controllers of Personal Information**
 
 Any personal information provided to or gathered by Amazon Seller Services Private Limited under this Privacy Notice will be stored and controlled by Amazon Media EU Sarl (the data controller), at 5 Rue Plaetis, L-2338, Luxembourg..
-
-Amazon.com, Inc. and its controlled US subsidiaries are participants in the Safe Harbour programme developed by the US Department of Commerce and the European Union. These Amazon Group companies have certified that they adhere to the Safe Harbour Privacy Principles agreed upon by the US and the EU. For more information about the Safe Harbour and to view these Amazon Group companies' certification, visit the U.S. Department of Commerce's Safe Harbour website. If you would like to contact Amazon directly about the Safe Harbour programme, please send an e-mail to safeharbor@amazon.com.
 
 Return to Privacy Notice or go back to [Help](https://paywithamazon.junglee.com/help)
 
