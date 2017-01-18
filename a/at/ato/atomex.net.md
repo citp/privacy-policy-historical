@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomex.net privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211184419id_/http%3A//revx.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomex.net privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118231743id_/http%3A//revx.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
