@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the foodler.com privacy policy that was archived on 2016-08-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160803231511id_/https%3A//www.foodler.com/privacy.do) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the foodler.com privacy policy that was archived on 2017-01-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170118065611id_/https%3A//www.foodler.com/privacy.do) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head><meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
@@ -10,7 +10,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, minimum-scale=1">
   <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
-  <link rel="shortcut icon" href="https://d23r70117fwr5h.cloudfront.net/dyn/6t1/favicon.ico">
+  <link rel="shortcut icon" href="https://d23r70117fwr5h.cloudfront.net/dyn/3eu/favicon.ico">
   <link rel="apple-touch-icon" href="https://d23r70117fwr5h.cloudfront.net/dyn/72x/apple-touch-icon.png">
 
   <meta name="apple-itunes-app" content="app-id=615802139">
@@ -30,8 +30,12 @@
   <meta name="twitter:app:name:ipad" content="Foodler">
   <meta name="twitter:app:name:googleplay" content="Foodler">
 
-  <link rel="stylesheet" href="https://d23r70117fwr5h.cloudfront.net/dyn/4st/common/min/style.css" type="text/css">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://d23r70117fwr5h.cloudfront.net/dyn/c8k/jscript/min/97aa.js" type="text/javascript"></script><script>
+  <link rel="stylesheet" href="https://d23r70117fwr5h.cloudfront.net/dyn/5l2/common/style.css" type="text/css">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://d23r70117fwr5h.cloudfront.net/dyn/64i/jscript/min/main-rep.merged.js" type="text/javascript"></script><script>
+        Bugsnag.apiKey = "5e7ae3844d39ed4ccbfdf5c94d74720c";
+        Bugsnag.releaseStage = "production";
+        Bugsnag.appVersion = "f5f9cbdafd";
+      </script><script>
     function encodeSession(url) {
       url = removeSession(url);
       var idx = url.indexOf("?");
@@ -120,7 +124,7 @@
 
 
 
-<div id="logo" class="middle">
+<div id="logo">
 
 
 <a href="/"><div class="foodler"></div></a>
@@ -132,27 +136,26 @@
 
 
 <div class="nav-item">
-<a href="javascript:void(0);" class="nav-inner signup desktop-only toggle-modal" data-toggle="register-modal-open">
+<a href="/reg/NewAcc.do" class="nav-inner signup desktop-only toggle-modal" data-modal="register-modal">
 New to Foodler?<br>
 <b>Sign Up</b>
 </a>
 </div>
 
 
-<div class="nav-item">
+<div class="nav-item login">
 <div class="nav-inner">
-<a href="javascript:void(0);" class="button md inverse toggle-modal" data-toggle="login-modal-open" id="login">
+<a href="/reg/Login.do" class="button md inverse toggle-modal" data-modal="login-modal">
 Log In
 </a>
 </div>
 </div>
 
-<div class="nav-item cart mobile-only">
-<a id="cart-dropdown-icon" class="nav-inner" href="javascript: toggleHeaderOrders()">
-<img src="https://d23r70117fwr5h.cloudfront.net/dyn/ixg/images/header/cart.svg" class="icon">
-</a>
-<div class="content" id="cart-dropdown-content"></div>
-</div>
+
+
+
+
+
 
 
 
@@ -302,7 +305,7 @@ should periodically check this section of our Web site.</div><p></p>
 <span>
 
 
-© 2016 A&amp;D Network Solutions, Inc.
+© 2017 A&amp;D Network Solutions, Inc.
 
 
 
@@ -347,7 +350,7 @@ should periodically check this section of our Web site.</div><p></p>
 <span>
 
 
-© 2016 A&amp;D Network Solutions, Inc.
+© 2017 A&amp;D Network Solutions, Inc.
 
 
 
@@ -367,7 +370,7 @@ should periodically check this section of our Web site.</div><p></p>
 <span>
 
 
-© 2016 A&amp;D Network Solutions, Inc.
+© 2017 A&amp;D Network Solutions, Inc.
 
 
 
@@ -414,10 +417,10 @@ new Ajax.Request('/setPixelRatio.do', { method: 'get', parameters: 'dpr=' + dpr 
 
 </div>
 
-<div class="modal-outer login-modal">
-<div class="backdrop toggle-modal" data-toggle="login-modal-open"></div>
+<div id="login-modal" class="modal-outer">
+<a href="" class="backdrop toggle-modal"></a>
 <div class="modal">
-<button type="button" class="close toggle-modal" data-toggle="login-modal-open" aria-label="Close Login Popup"><span aria-hidden="true">×</span></button>
+<a href="" class="close toggle-modal" aria-label="Close Login Popup"><span aria-hidden="true">×</span></a>
 <div class="content">
 <h1>Log In</h1>
 <form action="/reg/Login-submit.do" method="post">
@@ -427,7 +430,7 @@ new Ajax.Request('/setPixelRatio.do', { method: 'get', parameters: 'dpr=' + dpr 
 </div>
 <div class="form-group">
 <label for="login-modal-password">Password</label>
-<span class="forgot-pass pull-right toggle-modal" data-toggle="login-modal-open forgot-pass-modal-open">Forgot?</span>
+<a href="/reg/Login.do" class="forgot-pass pull-right toggle-modal" data-modal="forgot-pass-modal">Forgot?</a>
 <input id="login-modal-password" type="password" class="form-control" name="password" value="" autocomplete="off">
 </div>
 <input type="hidden" name="_from" value="">
@@ -441,7 +444,7 @@ new Ajax.Request('/setPixelRatio.do', { method: 'get', parameters: 'dpr=' + dpr 
 </div>
 <div class="footer">
 <p>
-Don't have an account? <span class="toggle-modal" data-toggle="login-modal-open register-modal-open">Sign Up</span>
+Don't have an account? <a href="/reg/NewAcc.do" class="toggle-modal" data-modal="register-modal">Sign Up</a>
 </p>
 </div>
 </div>
@@ -450,18 +453,18 @@ document.observe('dom:loaded', function() {
 /*
 * When the login button is pressed, focus the email field in the modal
 */
-$$('.toggle-modal#login').each(function(element) {
+$$('.toggle-modal.login').each(function(element) {
 element.on('click', function() {
-$$('.login-modal')[0].down('input[type="email"]').focus()
+$$('#login-modal')[0].down('input[type="email"]').focus()
 });
 });
 });
 </script>
 </div>
-<div class="modal-outer register-modal">
-<div class="backdrop toggle-modal" data-toggle="register-modal-open"></div>
+<div id="register-modal" class="modal-outer">
+<a href="" class="backdrop toggle-modal"></a>
 <div class="modal">
-<button type="button" class="close toggle-modal" data-toggle="register-modal-open" aria-label="Close Register Popup"><span aria-hidden="true">×</span></button>
+<a href="" class="close toggle-modal" aria-label="Close Register Popup"><span aria-hidden="true">×</span></a>
 <div class="content">
 <h1>Create an Account</h1>
 <form action="/reg/RegForm-submit.do" method="post">
@@ -486,15 +489,15 @@ $$('.login-modal')[0].down('input[type="email"]').focus()
 </div>
 <div class="footer">
 <p>
-Already have an account? <span class="toggle-modal" data-toggle="register-modal-open login-modal-open">Log In</span>
+Already have an account? <a href="/reg/Login.do" class="toggle-modal" data-modal="login-modal">Log In</a>
 </p>
 </div>
 </div>
 </div>
-<div class="modal-outer forgot-pass-modal">
-<div class="backdrop toggle-modal" data-toggle="forgot-pass-modal-open"></div>
+<div id="forgot-pass-modal" class="modal-outer">
+<a href="" class="backdrop toggle-modal"></a>
 <div class="modal">
-<button type="button" class="close toggle-modal" data-toggle="forgot-pass-modal-open" aria-label="Close Forgot Pass Popup"><span aria-hidden="true">×</span></button>
+<a href="" class="close toggle-modal" aria-label="Close Forgot Pass Popup"><span aria-hidden="true">×</span></a>
 <div class="content">
 <h1>Reset Password</h1>
 <p>
@@ -510,7 +513,7 @@ Enter your email address below and we'll send you a link to reset your password.
 </div>
 <div class="footer">
 <p>
-Already have an account? <span class="toggle-modal" data-toggle="forgot-pass-modal-open login-modal-open">Log In</span>
+Already have an account? <a href="/reg/Login.do" class="toggle-modal" data-modal="login-modal">Log In</a>
 </p>
 </div>
 </div>
