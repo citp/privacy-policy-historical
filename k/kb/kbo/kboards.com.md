@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kboards.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002415id_/http%3A//www.kboards.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kboards.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118073825id_/https%3A//www.kboards.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Kboards Privacy Policy
 
