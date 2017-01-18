@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the govtjobsupdate.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119020247id_/http%3A//www.govtjobsupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the govtjobsupdate.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118182825id_/https%3A//www.govtjobsupdate.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Govt Jobs Update
+# Privacy Policy – Govt Jobs Update
 
 If you require any more information or have any questions about our privacy policy, please feel free to [contact](https://www.govtjobsupdate.com/contact-us/) us by email at admin@govtjobsupdate.com
 
