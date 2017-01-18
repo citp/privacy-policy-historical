@@ -1,27 +1,85 @@
-> *The following text is extracted and transformed from the fmtrader.com privacy policy that was archived on 2012-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121217085644id_/http%3A//www.fmtrader.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fmtrader.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118042444id_/https%3A//fmtrader.com/privacy-policy) for the most accurate reproduction.*
 
-# fmtrader - Privacy
+# Privacy Policy
 
-   
-
-PRIVACY POLICY
-
-fmtrader does its utmost to ensure the privacy, confidentiality and security of its clients are preserved both throughout their interaction with the company and afterwards, to the fullest extent achievable by the company.
-
-1\. When clients register with fmtrader they acknowledge their willingness to share with the company certain private information which we use for the purpose of confirming the client�s identity and ensuring the security of their deposits and trading account. This information is collected in line with our stringent verification procedures which are used to deter international money laundering operations and to ensure the security and safety of our customer�s trading activity throughout.
-
-2\. Our clients undertake to supply us with true, updated and accurate information about their identity. Furthermore  they are required to state categorically that they are registering and trading on their own behalf and are not seeking at any time to act any manner which could be considered fraudulent nor are they seeking to impersonate any other individuals for any purposes whatsoever.
-
-3\. fmtrader�s data collection procedures include the collection of client�s freely disclosed information as shared with the company, in addition to the placement of cookies for the purposes of gathering data about the manner in which client�s interact with the fmtrader website. These tools for gathering client�s information are employed for the purpose of ensuring the customer�s own security and all data collected by the company is shared only with individuals within the company who are involved with the verification of customer account information for the express purpose of ensuring the customer�s confidentiality and security.  
-
-4\. fmtrader will never disclose any private or otherwise confidential information in regards to our clients and former clients to third parties without the express, written consent of our clients, except in such specific cases in which disclosure is a requirement under law, or is otherwise necessary in order to perform verification analysis on the client�s identity for the purposes of safeguarding their account and securing their personal information. 
-
-5\. By registering with fmtrader and through the voluntary interaction they undertake with fmtrader�s products and services the client confirms and agrees that they consent to the use of all or part of the information they supply concerning their fmtrader trading account, the transactions they undertake through it and the interactions which they perform with the company on behalf of the company. All interactions the customer undertakes with the cmpanywill be stored by the company for the purposes of record and as such may be employed by the company in such cases that disputes arise between clients and fmtrader.
-
-6\. fmtrader does its utmost to ensure the confidentiality of its clients personal information including the implementation of data protection procedures designed to ensure client confidentiality. fmtrader ensures that its data protection policy is regularly updated in order to ensure that client�s confidential information is continually safeguarded.
-
-7\. From time to time fmtrader may contact clients whether by phone or email for the purpose of offering them further information about fmtrader, binary options trading or financial market trading. In addition the company may, on occasion, seek to contact clients, whether by phone or by email, for the purpose of informing them of unique promotional offerings provided by fmtrader for the client. Clients consent to the receipt of such contact when they consent to our terms and conditions of use when registering with fmtrader. Any person wishing to opt out of further contact with fmtrader at anytime whatsoever is entitled to do so, simply by contacting the company whether by phone or email and requesting that no further contact on behalf of the company be made.  
+  1. **Our Commitment to You**
 
 
-  
 
+We understand the importance of maintaining the confidentiality and privacy of Your Information. By entrusting us with your information, we would like to assure you of our commitment to keep such information private. We have taken measurable steps to protect the confidentiality, security and integrity of Your Information.
+
+  2. **Collection of Information**
+
+
+
+If you decide to apply to open an account with us and hence become our Client there is certain information that we will require from you in order to do so.
+
+We may collect Your Information directly from you (in your completed Account Opening Application Form or other way) or from other persons including, for example, credit reference agencies, fraud prevention agencies, banks, other financial institutions, third authentication service providers and the providers of public registers. This information includes, but is not limited to personal details such as name, address, date of birth, contact details, payment details, including credit card, debit card and bank account details, and other necessary financial information.
+
+We may also collect Your Information in regards to your use of our website(s), such as pages visited, frequency, duration of visit and trading activities.
+
+From time to time we may also request further information to help us improve our Service to you (if you are our Client) or our activities (if you are our Provider for Trading Data) under our relevant Agreement, as the case may be, or comply with Applicable Regulations.
+
+  3. **Use of the Information**
+
+
+
+We will use, store, process and handle Your Personal Information (in case you are a natural person) in connection with the furthering of the Agreement between us.
+
+Your Information (not in the public domain or already possessed by us without a duty of confidentiality) which we hold is to be treated by us as confidential and will not be used for any purpose other than in connection with the provision, administration and improvement of our Services to you or the furthering of our Agreement between us, establishing and managing your account or a relationship between us, reviewing your ongoing needs, enhancing customer service and products, giving you ongoing information or opportunities that we believe may be relevant to you, improving our relationship, anti-money laundering and due diligence checks, for research and statistical purposes and for marketing purposes (according to the Agreement between us), as applicable.
+
+  4. **Contacting You**
+
+
+
+We may, for the purpose of administering the terms of our Agreement between us, from time to time, make direct contact with you by telephone, fax, email, or post.
+
+If you agree, we or any of our Affiliates of the Company or any other company in our group, may make contact with you from time to time, by telephone, fax, email or post for marketing purposes to bring to your attention products or services that may be of interest to you or to conduct market research.
+
+  5. **Disclosure of Information**
+
+
+
+Under the Agreement between us, we have the right to disclose Your Information (including recordings and documents of a confidential nature, card details) in certain circumstances. According to the Agreement between us, Your Information may be disclosed:
+
+(a) Where required by law or a court order by a competent Court;
+
+(b) Where requested by our Supervising regulatory authority having control or jurisdiction over us or you or our associates or in whose territory we have Clients or Providers, as applicable;
+
+(c) To relevant authorities to investigate or prevent fraud, money laundering or other illegal activity;
+
+(d) A Broker so as to execute your Instructions or Orders and for purposes ancillary to the provision of our Services to you as our Client;
+
+(e) To credit reference and fraud prevention agencies, third authentication service providers, banks and other financial institutions for credit checking, fraud prevention, anti-money laundering purposes, identification or due diligence checks of you. To do so they may check the details you supplied against any particulars on any database (public or otherwise) to which they have access. They may also use your details in the future to assist other companies for verification purposes. A record of the search will be retained by us;
+
+(f) To our professional advisors provided that in each case the relevant professional shall be informed about the confidential nature of such information and commit to the confidentiality herein obligations as well;
+
+(g) To other service providers who create, maintain or process databases (whether electronic or not), offer record keeping services, email transmission services, messaging services or similar services which aim to assist us collect, storage, process and use Your Information or get in touch with you or improve the provision of our Services or activities under the Agreement between us;
+
+(h) To data reporting service providers;
+
+(i) To other service providers for statistical purposes in order to improve our marketing, in such a case, the data will be provided in an aggregate form;
+
+(j) To market research call centers that provide telephone or email surveys with the purpose to improve our Services or activities, but only contact details;
+
+(k) Where necessary in order for us to defend or exercise our legal rights to any court or tribunal or arbitrator or Ombudsman or governmental authority, as the case may be;
+
+(l) At your request or with your consent;
+
+(m) To our Affiliates or any other company in our group;
+
+(n) To our employees so as to exercise their duties to further the Agreement between us, or to assure the efficient functioning of our Platform, the Automatic Orders and the Trading Data functions.
+
+  6. **Safeguard Measures**
+
+
+
+Your Information is stored on secure servers.
+
+We limit access of Your Information only to those employees or partners that need to know the information in order to enable the carrying out of the Agreement between us.
+
+We have procedures in place regarding how to safeguard and use Your Information, for example by requesting our Affiliates and employees to maintain the confidentiality of Your Information.
+
+We will not keep Your Information for any longer than is required. In many cases, information must be kept for considerable periods of time. Retention periods will be determined taking into account the type of information that is collected and the purpose for which it is collected, bearing in mind the requirements applicable to the situation and the need to destroy outdated, unused information at the earliest reasonable time. In any event, we will keep Your Information for the duration of applicable Limitation of Actions Laws as a minimum.
+
+While we will use all reasonable efforts to safeguard Your Information, you acknowledge that the use of the internet is not entirely secure and for this reason we cannot guarantee the security or integrity of any personal data transferred from you, or to you via the internet.
