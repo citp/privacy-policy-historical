@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the takefile.link privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235427id_/http%3A//takefile.link/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the takefile.link privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118083017id_/https%3A//takefile.link/privacy-policy) for the most accurate reproduction.*
 
 # TakeFile - Бесплатный хостинг файлов
 
