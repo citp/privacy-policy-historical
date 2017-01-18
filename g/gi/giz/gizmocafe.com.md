@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gizmocafe.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325041727id_/http%3A//www.gizmocafe.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gizmocafe.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118022606id_/http%3A//www.gizmocafe.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
