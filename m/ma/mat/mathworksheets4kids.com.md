@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathworksheets4kids.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228111846id_/http%3A//www.mathworksheets4kids.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathworksheets4kids.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118120841id_/https%3A//www.mathworksheets4kids.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -24,7 +24,7 @@ Google, a third party vendor, uses the DART cookie to serve ads to our users bas
 
 Google AdSense and Google certified third-party vendors or ad networks may use cookies, JavaScript or web beacons on our site to measure the effectiveness of their advertisements and/or to personalize the advertising content that you see. Google AdSense also displays certified third-party vendors and networks ads. [List of third-party vendors and ad networks](https://www.google.com/support/adsense/bin/answer.py?hl=en&answer=94149)
 
-These third-party ad servers or ad networks use various technologies to deliver advertisements. Links that appear on [www.mathworksheets4kids.com](https://web.archive.org/web/20161228111846id_/http%3A//www.mathworksheets4kids.com/index.php) are sent directly to your browsers. They automatically receive your IP address when this occurs.
+These third-party ad servers or ad networks use various technologies to deliver advertisements. Links that appear on [www.mathworksheets4kids.com](https://web.archive.org/web/20170118120841id_/https%3A//www.mathworksheets4kids.com/index.php) are sent directly to your browsers. They automatically receive your IP address when this occurs.
 
 **How do we protect your information?**
 
