@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107150801id_/https%3A//www.avidian.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avidian.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118125914id_/https%3A//www.avidian.com/privacy-policy) for the most accurate reproduction.*
 
 # Avidian - Privacy Policy for Avidian CRM
 
