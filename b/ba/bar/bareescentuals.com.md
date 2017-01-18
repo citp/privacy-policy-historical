@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bareescentuals.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119041106id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/en_US/Experience-BEGlobalPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bareescentuals.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118165818id_/http%3A//www.bareescentuals.com/on/demandware.store/Sites-BareEscentuals-Site/en_US/Experience-BEGlobalPolicy) for the most accurate reproduction.*
 
 # Global Privacy Policy
 
@@ -210,9 +210,11 @@ To opt-out from third party cookies that are used for advertising purposes, you 
 
 We may use third party web analytics services on our websites or applications, such as those of Qubit, Coremetrics and/or Google Analytics. The service providers that administer those services use technologies such as cookies, web server logs and web beacons to help us analyze how visitors use the site. The information collected through these means (including IP address) is disclosed to these service providers, who use the information to analyze use of our websites and applications. You may deactivate the ability of these analytics services to analyze your browsing activities on our websites and applications. To learn more about web analytics services, and exercise your choice with respect to their collection of information on our websites or applications:
 
-\- For Coremetrics, please [click here](https://www-01.ibm.com/software/marketing-solutions/privacy/visitor-opt-out.html).  
-\- For Qubit, please [click here.](http://www.qubit.com/legal/privacy-and-cookie-policy)  
-\- To disable Google Analytics, please download the browser add-on for the deactivation of Google Analytics provided by Google at <http://tools.google.com/dlpage/gaoptout?hl=en>, To learn more about privacy and Google Analytics, please consult the Google Analytics overview provided by Google at [](http://www.google.com/intl/en/analytics/privacyoverview.html%3Ehttp://www.google.com/intl/en/analytics/privacyoverview.html%3C/a%3E%3Cbr%3E%3Cbr%3E%3Cp%20class=)Back to top
+• For Coremetrics, please [click here](https://www-01.ibm.com/software/marketing-solutions/privacy/visitor-opt-out.html).  
+• For Qubit, please [click here.](http://www.qubit.com/legal/privacy-and-cookie-policy)  
+• To disable Google Analytics, please download the browser add-on for the deactivation of Google Analytics provided by Google at <http://tools.google.com/dlpage/gaoptout?hl=en>, To learn more about privacy and Google Analytics, please consult the Google Analytics overview provided by Google at <http://www.google.com/intl/en/analytics/privacyoverview.html>.
+
+Back to top
 
 * #### 5\. With whom do we share your information?
 
