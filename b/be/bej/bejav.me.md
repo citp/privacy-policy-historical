@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bejav.me privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130205649id_/http%3A//bejav.me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bejav.me privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118151148id_/http%3A//bejav.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BeJav.Me - Free Jav Streaming Online Free Porn Full HD
 
@@ -39,4 +39,4 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 YOUR RIGHTS
 
-You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the [Contact us](https://web.archive.org/web/20161130205649id_/http%3A//contact-us/).
+You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the [Contact us](https://web.archive.org/web/20170118151148id_/http://bejav.me/contact-us/).
