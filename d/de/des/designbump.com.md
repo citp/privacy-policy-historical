@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the designbump.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215103651id_/http%3A//designbump.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbump.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118135422id_/https%3A//designbump.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy -DesignBump
 
