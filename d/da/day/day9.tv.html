@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the day9.tv privacy policy that was archived on 2016-11-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161118232035id_/http%3A//day9.tv/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the day9.tv privacy policy that was archived on 2017-01-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170118124234id_/https%3A//day9.tv/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -119,11 +119,19 @@
             <div id="header-inner">
                 <div id="logo"><a href="/" class="">Day[9]TV</a></div>
                 <div id="countdown" style="">
-                    <div id="live" style="">
-                        <a href="/d/Day9/day9s-day-off-owlboy/">
+                    <div id="live" style="display:none;">
+                        <a href="/d/Day9/day9-learngs-dota-2-episode-1/">
                         <h5>Day[9] is</h5>
                         <h3>LIVE</h3>
                         </a>
+                    </div>
+                
+                    <div id="countdown-inner">
+                    <h5><a href="/d/b/day9tv-dailies/">The Day[9] Daily</a></h5>
+                    <h5>Next Broadcast</h5>
+                    <a href="/d/Day9/day9-learngs-dota-2-episode-1/" class="counter-outer" title="Day[9] Learns Dota - Episode 1 - Laning"><div class="counter"></div></a>
+                    <a href="/d/subscription/user/Day9/set/?event_notification=1" class="day9-subscribe ajax-login-required" data-success="1" title="Get notified when Day[9] goes live."><i class="icon-bell icon-white"></i></a>
+                    <div class="info"><p>Sean "Day[9]" Plott casts the<br>Day[9] Daily Mon - Thurs, 7PM PST</p></div>
                     </div>
                 
                 </div>
@@ -288,7 +296,7 @@ change.</p>
         <a href="/dmca/" title="Day[9]TV DMCA Notice">DMCA</a> |
         <a href="/about/" title="About Day[9]TV">About</a> |
         <a href="/contact/" title="Contact Day[9]TV">Contact</a></p>
-    <p>Copyright 2016 Day[9]TV</p>
+    <p>Copyright 2017 Day[9]TV</p>
 </div>
 
 
@@ -412,10 +420,11 @@ change.</p>
         
         
         
+        
         <script type="text/javascript">
             $(document).ready(function() {
                 $('#countdown .counter').countdown({
-                    until: $.countdown.UTCDate(0, new Date(2016, 11-1, 18, 20, 30, 00)),
+                    until: $.countdown.UTCDate(0, new Date(2017, 01-1, 18, 21, 00, 00)),
                     layout: '{d<}<span class="days">{dn}</span>d:{d>}<span class="hours">{hnn}</span>h:<span class="mins">{mnn}</span>m',
                     format: 'dHM',
                     onExpiry: function() {
@@ -423,7 +432,7 @@ change.</p>
                         $('#live').show();
                     },
                     alwaysExpire: true,
-                    serverSync: function() { return $.countdown.UTCDate(0, new Date(2016, 11-1, 18, 23, 20, 35)); },
+                    serverSync: function() { return $.countdown.UTCDate(0, new Date(2017, 01-1, 18, 12, 42, 34)); },
                 });
             });
         </script>
@@ -433,6 +442,11 @@ change.</p>
 
 
         
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jstimezonedetect/1.0.6/jstz.min.js"></script>
+        <script type="text/javascript">
+            var tz = jstz.determine();
+            document.cookie = "user_timezone=" + tz.name();
+        </script>
         
 
     <!--[if lt IE 9]>
