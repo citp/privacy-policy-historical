@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toyota.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401140630id_/https%3A//www.toyota.co.uk/footer/privacy-policy.json) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toyota.co.uk privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118232841id_/https%3A//www.toyota.co.uk/footer/privacy-policy.json) for the most accurate reproduction.*
 
 # Privacy Policy | Toyota UK
 
