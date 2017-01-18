@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cernerworks.com privacy policy that was archived on 2013-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130917060500id_/http%3A//www.cernerworks.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cernerworks.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118113411id_/http%3A//www.cernerworks.com/Privacy) for the most accurate reproduction.*
 
-# Privacy Policy : Cerner.co.in
+# Privacy Policy : Cerner.com.au
 
 Overview
 
