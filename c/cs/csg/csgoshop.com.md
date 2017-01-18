@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgoshop.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801210319id_/https%3A//csgoshop.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgoshop.com privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118160506id_/https%3A//csgoshop.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - CSGOShop
 
