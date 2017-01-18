@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitbin.it privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221114052id_/http%3A//bitbin.it/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitbin.it privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118183325id_/https%3A//bitbin.it/privacy_policy) for the most accurate reproduction.*
 
 # BitBin
 
