@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bioone.org privacy policy that was archived on 2016-05-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160511191218id_/http%3A//www.bioone.org/page/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bioone.org privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118215253id_/http%3A//www.bioone.org/page/privacy_policy) for the most accurate reproduction.*
 
-# BioOne Online Journals - Privacy Policy
+# Privacy Policy
 
 BioOne is committed to protecting the privacy of the users of its website. To inform you of our policy concerning user privacy, we have adopted the following guidelines, which are intended to adhere to the Safe Harbor Principles published by the U.S. Department of Commerce. Please note that these guidelines are subject to change, and any such changes will be included on this page and shall become effective upon their posting on our website.   (See Changes to Policy below.)   
 
