@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the afdah.tv privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118225339id_/http%3A//afdah.tv/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afdah.tv privacy policy that was archived on 2017-01-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170118115754id_/http%3A//afdah.tv/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Afdah
 
