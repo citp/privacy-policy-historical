@@ -1,14 +1,11 @@
-> *The following text is extracted and transformed from the wsiworld.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326063949id_/http%3A//www.wsiworld.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wsiworld.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119073326id_/https%3A//www.wsiworld.com/privacy) for the most accurate reproduction.*
 
-# Digital Solutions Provider And SEO Marketing Company | WSI Digital Marketing > Privacy
+# Privacy - WSI World
 
-#### Privacy
+## WSI’s Official Privacy Statement
 
-## WSI's Official Privacy Statement
-
-WSI is committed to protecting your privacy. This privacy statement explains data collection and use practices of wsiworld.com site (the "Site"); it does not apply to offline products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.
-
-### What are cookies, and how do you use them?
+WSI is committed to protecting your privacy. This privacy statement explains data collection and use practices of wsiworld.com site (the “Site”); it does not apply to offline products or services. By accessing the Site, you are consenting to the information collection and use practices described in this privacy statement.  
+What are cookies, and how do you use them?
 
 Cookies are used on this Site to ensure the integrity of the registration process and to personalize the Site. A cookie is a small text file placed on your hard disk to enable a site to recall your specific information on subsequent visits, saving you time and effort. While cookies are able to remember your information to provide you with this convenience, they cannot be used to run programs or disseminate viruses to your computer. This site uses cookies to deliver relevant content, ease site navigation or collect information for statistical use, such as how many visitors our site received. You have the ability to accept or decline cookies at any time, and you can erase cookies from your operating system as well. However, declining or erasing cookies may preclude you from fully experiencing all the features of this website. No information collected by cookies on this site will be shared with any outside parties.
 
@@ -20,7 +17,7 @@ Personal information is any information that identifies you, or by which your id
 
 The information requested on this Site is required to process your request for more information about our company, services and products. Access to this information will be restricted to WSI employees, administrators or WSI Internet Franchise Consultants who are responsible for the marketing and administration of WSI services. Your consent to the use of personal information to offer you products and services is optional, and if you wish to discontinue such use, contact us electronically or write to:
 
-Privacy Officer, WSI   
+Privacy Officer, WSI  
 1660 Tech Avenue, Unit 2  
 Mississauga, Ontario  
 Canada, L4W 5S9
@@ -37,7 +34,7 @@ Except as otherwise described in this statement, personal information you provid
 
 If you wish to access your personal information, click here or write to:
 
-Privacy Officer, WSI   
+Privacy Officer, WSI  
 1660 Tech Avenue, Unit 2  
 Mississauga, Ontario  
 Canada, L4W 5S9
@@ -50,11 +47,11 @@ WSI is committed to protecting the security of your personal information. We use
 
 WSI welcomes your comments regarding this privacy statement. If you believe that WSI has not adhered to this privacy statement, please contact us electronically or via postal mail at the address provided below, and we will use commercially reasonable efforts to promptly determine and remedy the problem.
 
-Privacy Officer, WSI   
+Privacy Officer, WSI  
 1660 Tech Avenue, Unit 2  
 Mississauga, Ontario  
 Canada, L4W 5S9
 
 ### Opt-Out Option
 
-You may have your personal/contact information removed from our databases. You can contact us directly via our [Contact Us form](https://web.archive.org/contact-us) to make this request. 
+You may have your personal/contact information removed from our databases. You can contact us directly via our [Contact](https://wsiworld.com/contact/) form to make this request.
