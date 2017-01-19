@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043721id_/https%3A//www.wrike.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrike.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119051703id_/https%3A//www.wrike.com/privacy) for the most accurate reproduction.*
 
 # Wrike Privacy Policy
 
@@ -136,7 +136,7 @@ Wrike will attempt to answer your questions and satisfy your concerns in a timel
 
   * For human resources personal information that Wrike receives under the Privacy Shield or Safe Harbor (i.e., information about past or present employees collected in the context of the employment relationship): cooperation with the data protection authority where the employee works.
   * For other personal information Wrike receives under the Privacy Shield: the BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus. If your issue or complaint is not satisfactorily resolved by Wrike, you may visit the BBB EU PRIVACY SHIELD web site at <http://www.bbb.org/EU-privacy-shield/file-a-complaint> for further information.
-  * For other personal information Wrike receives under US-Swiss Safe Harbor: Wrike has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20161229043721id_/https://www.wrike.com/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+  * For other personal information Wrike receives under US-Swiss Safe Harbor: Wrike has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](https://web.archive.org/web/20170119051703id_/https://www.wrike.com/privacy/www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 
 
