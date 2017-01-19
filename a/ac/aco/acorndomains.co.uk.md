@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the acorndomains.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119233058id_/http%3A//www.acorndomains.co.uk/help/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the acorndomains.co.uk privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119124209id_/http%3A//www.acorndomains.co.uk/help/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Acorn UK Domains Forum - Domain Name Forum UK
 
-[](https://web.archive.org/web/20161119233058id_/http://www.acorndomains.co.uk/help/Privacy/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20170119124209id_/http://www.acorndomains.co.uk/help/Privacy/misc/quick-navigation-menu "Open quick navigation")
 
 **Acorn UK Domains Forum - Domain Name Forum UK**
 
-[Forums](http://www.acorndomains.co.uk/) [Help](https://web.archive.org/web/20161119233058id_/http://www.acorndomains.co.uk/help/Privacy/help/) >
+[Forums](http://www.acorndomains.co.uk/) [Help](https://web.archive.org/web/20170119124209id_/http://www.acorndomains.co.uk/help/Privacy/help/) >
 
 **Privacy policy**  
 We are committed to safeguarding the privacy of our website visitors; this policy sets out how we will treat your personal information.
@@ -95,10 +95,10 @@ Please let us know if the personal information which we hold about you needs to 
 _(11) Contact_  
 If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to admin@acorndomains.co.uk or via the Contact Form on the site. 
 
-[](https://web.archive.org/web/20161119233058id_/http://www.acorndomains.co.uk/help/Privacy/misc/quick-navigation-menu "Open quick navigation")
+[](https://web.archive.org/web/20170119124209id_/http://www.acorndomains.co.uk/help/Privacy/misc/quick-navigation-menu "Open quick navigation")
 
 **Acorn UK Domains Forum - Domain Name Forum UK**
 
-[Forums](http://www.acorndomains.co.uk/) [Help](https://web.archive.org/web/20161119233058id_/http://www.acorndomains.co.uk/help/Privacy/help/) >
+[Forums](http://www.acorndomains.co.uk/) [Help](https://web.archive.org/web/20170119124209id_/http://www.acorndomains.co.uk/help/Privacy/help/) >
 
 [ ](http://www.acorndomains.co.uk/)
