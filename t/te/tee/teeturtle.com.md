@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teeturtle.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119044718id_/http%3A//www.teeturtle.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teeturtle.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119014347id_/https%3A//www.teeturtle.com/pages/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | TeeTurtle
+# Privacy Policy – TeeTurtle
 
 **1**. Your personal information is safe here. We will not release or sell any of the data you submit to the site. We receive and store any information you enter on our Web site or give us in any other way. In order to provide you with the most protection, we store all credit card information on a secure processing server (https://). You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store and communicating with you. 
 
