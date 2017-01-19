@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the busycreatingmemories.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120100402id_/http%3A//busycreatingmemories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the busycreatingmemories.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119220658id_/http%3A//busycreatingmemories.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-This article may contain affiliate links which pay for my Dr Pepper & book addiction Ok, truthfully it just helps to cover the cost of running this site as a FREE resource for you. If you purchase any items through these links, I will get a few pennies as a thank you, but you will still get the same low price! Thank you for supporting our site. 
 
 ### Privacy
 
