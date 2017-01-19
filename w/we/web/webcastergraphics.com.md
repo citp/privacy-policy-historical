@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcastergraphics.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218180532id_/http%3A//www.webcastergraphics.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcastergraphics.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119141723id_/http%3A//www.webcastergraphics.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # privacy
 
