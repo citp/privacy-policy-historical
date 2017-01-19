@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dailyvanity.sg privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120081045id_/http%3A//dailyvanity.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dailyvanity.sg privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120003228id_/https%3A//dailyvanity.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Daily Vanity
 
@@ -26,7 +26,7 @@ It is possible that this website:
   * Uses Remarketing with Google Analytics to advertise online.
   * Third-party vendors, including Google, show ads on sites across the Internet.
   * We and third-party vendors, including Google, use first-party cookies (such as the Google Analytics cookie) and third-party cookies (such as the DoubleClick cookie) together to inform, optimize, and serve ads based on someone’s past visits to this website.
-  * Data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics may be used to:
+  * Data from Google’s Interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics may be used to: 
     * To personalize your experience (your information helps us to better respond to your individual needs)
     * To improve customer service (your information helps us to more effectively respond to your customer service requests and support needs)
     * To send periodic emails (The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.)
@@ -89,4 +89,4 @@ Daily Vanity (DAILY VANITY PTE. LTD) reserves the rights to amend any of the pol
 
 Your continued use of our website and acceptance of our services after any changes to this Privacy Policy constitutes your consent to any such changes; to the extent such consent is not otherwise provided.
 
-[Last updated 1 July 2014]
+[Last updated 1 July 2014] 
