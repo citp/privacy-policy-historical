@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directblinds.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120045528id_/http%3A//www.directblinds.co.uk/our-policy-on-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directblinds.co.uk privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119222302id_/https%3A//www.directblinds.co.uk/our-policy-on-privacy) for the most accurate reproduction.*
 
 # Our Policy on Privacy - Privacy Policy - Direct Blinds
 
