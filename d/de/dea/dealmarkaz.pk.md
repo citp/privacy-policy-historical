@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealmarkaz.pk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119201100id_/http%3A//dealmarkaz.pk/privacy-policy-p26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealmarkaz.pk privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119130911id_/https%3A//dealmarkaz.pk/privacy-policy-p26) for the most accurate reproduction.*
 
 # Privacy Policy | DealMarkaz.pk
 
@@ -30,3 +30,5 @@ Except as provided above, we will not use or disclose personal information for p
 **Cookies and IP Addresses:**
 
 When you use our website, we and our service providers may place cookies (data files on your computer, phone or mobile device's drive) or web beacons (electronic images that are placed in a web page's the code) or similar technologies. We use cookies to help us identify you as a user, to provide you a better experience on our Website, to measure promotional effectiveness and to ensure trust and safety on our Website.
+
+Copyright © 2017 **DealMarkaz.pk** \- All Rights Reserved. 
