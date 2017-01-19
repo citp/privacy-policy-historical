@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the functionloops.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605114600id_/http%3A//www.functionloops.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the functionloops.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119220602id_/https%3A//www.functionloops.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Function Loops
 
