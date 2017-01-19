@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsmansoutdoorsuperstore.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225214452id_/http%3A//www.sportsmansoutdoorsuperstore.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsmansoutdoorsuperstore.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119053150id_/https%3A//www.sportsmansoutdoorsuperstore.com/privacy_policy.cfm) for the most accurate reproduction.*
 
 # Sportsman's Outdoor Superstore | Online Shopping for Firearms, Ammunition and Shooting Accessories
 
