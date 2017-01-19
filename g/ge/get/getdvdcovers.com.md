@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the getdvdcovers.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624002843id_/http%3A//www.freedvdcover.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getdvdcovers.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119014156id_/https%3A//www.freedvdcover.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - FreeDVDCover.Com
 
-We here at GetDVDCovers.Com respect your privacy. Your privacy is of paramount importance to us and we are always committed to safeguarding it.
+We here at FreeDVDcover.Com respect your privacy. Your privacy is of paramount importance to us and we are always committed to safeguarding it.
 
-GetDVDCovers.Com does not collect any personal information about you such as your name, address, phone number or email ID without your knowledge. When you provide your email ID while contacting us using [contact page](http://www.freedvdcover.com/contact/), we never share it with anyone. We only use it to respond to your email.
+FreeDVDCover.Com does not collect any personal information about you such as your name, address, phone number or email ID without your knowledge. When you provide your email ID while contacting us using [contact page](http://www.freedvdcover.com/contact/), we never share it with anyone. We only use it to respond to your email.
 
 We use cookies to personalize content and ads, to provide social media features and to analyse our traffic. We also share information about your use of our site with our social media, advertising and analytics partners.
 
