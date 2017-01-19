@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the subtitlesfree.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120070040id_/http%3A//subtitlesfree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the subtitlesfree.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119215141id_/https%3A//subtitlesfree.com/privacy) for the most accurate reproduction.*
 
 # Subtitles Free
 
