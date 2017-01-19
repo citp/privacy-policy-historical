@@ -1,370 +1,37 @@
-<!--The following is the downloaded HTML source of the teeturtle.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119044718id_/http%3A//www.teeturtle.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the teeturtle.com privacy policy that was archived on 2017-01-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170119014347id_/https%3A//www.teeturtle.com/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><!--<![endif]--><head>
-
+<!DOCTYPE html><html><!--<![endif]--><head>
     <meta charset="utf-8">
-    <meta http-equiv="cleartype" content="on">
-    <meta name="robots" content="index,follow">
-    <title>
-      
-        Privacy Policy
-        
-        
-        | TeeTurtle
-      
-    </title>
-    <!-- jQuery and jQuery fallback -->
-    <script type="text/javascript" async="" src="//cdn.socialannex.com/partner/9914561/universal.js"></script><script type="text/javascript" async="" src="//d1liekpayvooaz.cloudfront.net/apps/customizery/customizery.js?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="//secure.apps.shappify.com/apps/bundle/generate_bundle.php?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="http://beacon.riskified.com?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="//cdn.shopify.com/fb-commerce/conversion_pixels/6019714160058.js?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="//cdn.shopify.com/fb-commerce/tracking_pixels/773859112652747.js?shop=teeturtle-2.myshopify.com"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://a.klaviyo.com/media/js/analytics/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-LP1S3y-Ev0gs_" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/bvhCr3DSXlbRgcsHcvRWWQ5gf4EQPqcC/analytics.min.js"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2016.11.01.1"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
-    <script>
-      //if (!window.jQuery)
-      //document.write("<script src='//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/jquery-1.8.3.min.js?7024102999445355182'>\x3C/script>");
-    </script>
-
-    <!-- Qubit Universal Variable start -->
-<script>
-(function () {
-
-  var uv = window.universal_variable = window.universal_variable || {};
-
-
-  /*
-   * Liquid variable setting
-   * Take a bunch of the shopify variables and pass them into local JS variables
-   * to enable the mapping to Universal Variable.
-   */
-
-    // http://docs.shopify.com/themes/liquid-variables/global
-    var template = "page";
-    var pageTitle = "Privacy Policy";
-
-    // http://docs.shopify.com/api/product
-    var product = null;
-
-    // http://docs.shopify.com/themes/liquid-variables/customer
-    var user = {
-      name: "",
-      user_id: "",
-      email: ""
-      // TODO: has_transacted
-    };
-
-    // http://docs.shopify.com/themes/liquid-variables/cart
-    var basket = {"token":"80f7498d4975afc2cfa8f68c8881ffdd","note":null,"attributes":{},"original_total_price":0,"total_price":0,"total_discount":0,"total_weight":0,"item_count":0,"items":[],"requires_shipping":false};
-    var basketProducts = [];
-    
-
-    // http://docs.shopify.com/themes/liquid-variables/collection
-    var collection = null;
-    var collectionItems = null;
-
-    // http://docs.shopify.com/themes/liquid-variables/search
-    var searchQuery = "";
-    var searchResults = null;
-
-
-  /*
-   * Generic functions
-   * Useful for parsing shopify data into a UV-compitable format, among other things.
-   */
-
-    // Get the page category
-    var getPageCategory = function () {
-      switch (template) {
-        case "index":
-          return "Home";
-          break;
-        case "page":
-          return "Content";
-          break;
-        case "article":
-          return "Blog";
-          break;
-        case "product":
-          return "Product";
-          break;
-        case "search":
-          return "Search";
-          break;
-        case "collection":
-          return "Category";
-          break;
-        case "cart":
-          return "Basket";
-          break;
-
-        // Handle other templates, although
-        default:
-          return template;
-      }
-    };
-
-    // Take a `product` (http://docs.shopify.com/api/product) Shopify
-    // object and return a mapped uv product object
-    var getUvProduct = function (product) {
-      var uvProduct = {
-
-        id: String(product.id),
-        image_url: product.images[0],
-        // path is not attached to the shopify product, pass back as the pathname
-        url: window.location.pathname,
-
-
-        name: product.title,
-        description: product.description,
-        manufacturer: product.vendor,
-        category: product.type,
-
-        // Custom: take the first tag applied, as shopify does not support subcategories
-        // TOOD: loop through the tags[] array and add them as key value pairs on a deeper level
-        // e.g. subsubcategory, subsubsubcategory
-        subcategory: product.tags[0],
-        currency: "USD",
-        unit_price: product.price / 100,
-        unit_sale_price: product.price_min / 100,
-
-        // Take the sku_code from the first variant
-        sku_code: product.variants[0].sku,
-
-        // The stock on the product page. Take the quantity of the first variant.
-        stock: product.variants[0].inventory_quantity,
-
-        // Shopify doesn't have a voucher on the product level
-        // voucher: "MYVOUCHER1",
-
-        // TODO: determine a way of incorporating color and size
-        // most likely it'll be handled through the `properties` key
-        // color: "Red",
-        // size: "M"
-
-        // TODO: add custom variable for images
-
-
-      }
-      return uvProduct;
-    };
-
-
-  /*
-   * Page
-   */
-
-
-
-    uv.page = {
-
-      type: getPageCategory(),
-
-      breadcrumb: function () {
-        var category = getPageCategory();
-        if (category === "Product") {
-          return [ product.type ];
-        } else if (category === "Category" && collection) {
-          return [ collection.title ];
-        }
-      }()
-
-     };
-
-
-  /*
-   * Product
-   */
-
-    if (product) {
-      uv.product = getUvProduct(product);
-      window.__productCategoryObject = product;
-    };
-
-
-  /*
-   * Listing - collection pages
-   */
-
-    if (collection) {
-      uv.listing = {
-       items: []
-      };
-
-      // Add the items from the collection.products
-      for (var i = 0; i < collectionItems.length; i++) {
-        var item = collectionItems[i];
-        uv.listing.items.push(getUvProduct(item));
-      };
-    }
-
-  /*
-   * Listing - search pages
-   */
-
-    if (searchQuery) {
-      uv.listing = {
-        items: [],
-        query: searchQuery
-      };
-
-      for (var i = 0; i < searchResults.length; i++) {
-        var item = searchResults[i];
-        // check it's a product (blog posts and pages can come up)
-        if (typeof item.price !== "undefined") {
-          uv.listing.items.push(getUvProduct(item));
-        }
-      };
-    }
-
-
-  /*
-   * Basket
-   */
-    uv.basket =  {
-      id: basket.token,
-
-      // TODO
-      // currency: USD,
-
-      subtotal: (basket.total_price/100).toFixed(2),
-
-      // TODO
-      // subtotal_include_tax: true,
-      // voucher: MYVOUCHER1,
-      // voucher_discount: 15,
-      // tax: 5,
-      // shipping_cost: 4.5,
-      // shipping_method: Royal Mail 1st Class,
-
-      // TODO: Check if this should be identical to subtotal
-      // ideally we'll add shipping and tax
-      total: (basket.total_price/100).toFixed(2),
-
-      // The items purcahased
-      line_items: []
-    };
-
-    // Add items to the line_items array. See
-    // http://docs.shopify.com/themes/liquid-variables/line_item for reference.
-    // Note that the below does not create an exhaustive `product` UV parameter,
-    // it just takes the variables from within the Shopify line_item object and
-    // passes them to the UV.
-    for (var i = 0; i < basket.items.length; i++) {
-      var item = basket.items[i];
-      var product = basketProducts[i];
-
-      // parse the product variable to get the majority of variables. The only
-      // ones we need left are the url, sku, price, url, quantity
-      var uvProduct = getUvProduct(product);
-      uvProduct.sku_code = item.sku;
-      uvProduct.url = item.url;
-      uv.basket.line_items.push({
-        product: uvProduct,
-        quantity: item.quantity,
-        subtotal: item.line_price / 100
-      });
-    };
-
-
-  /*
-   * User
-   */
-
-    if (user) {
-      uv.user = user;
-    }
-
-  /*
-   * Events
-   */
-
-    uv.events = [];
-
-
-  /*
-   * Version
-   */
-
-    uv.version = "1.2.0";
-
-
-}());
-</script>
-<!-- Qubit Universal Variable end -->
-
-<!-- Opentag container REPLACE XXXX-XXXX with your own id -->
-<script src="//d3c3cq33003psk.cloudfront.net/opentag-89513-962211.js"></script>
-<!-- Opentag container end -->
-
-<script src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/plugins.js?7024102999445355182" type="text/javascript"></script>
-	<meta name="viewport" content="initial-scale=1">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
     
-      <meta name="description" content="Your privacy is important to us! If you want to know all the details, read up on our privacy policy.">
+      <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/0267/4223/t/38/assets/favicon.png?6205719932272810927" type="image/png">
     
-    <meta name="google-site-verification" content="BN5Wrsbr1JW-f_nPKn6CgHJXnZoRA16ISWjOMxA7u5g">
-    
-
-    
-      <meta name="twitter:card" content="summary">
-      <meta name="twitter:site" content="@teeturtlenews">
-      <meta name="twitter:creator" content="@teeturtlenews">
-    
+    <title>Privacy Policy – TeeTurtle</title>
 
     
-      
-        <meta property="og:image" content="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/logo.png?7024102999445355182">
-      
-      <meta property="og:url" content="http://www.teeturtle.com/pages/privacy">
-      <meta property="og:title" content="Privacy Policy">
-      <meta property="og:description" content="Your privacy is important to us! If you want to know all the details, read up on our privacy policy.">
-      <meta property="og:type" content="website">
+    <meta name="description" content="Your privacy is important to us! If you want to know all the details, read up on our privacy policy.">
     
 
-    <meta property="og:site_name" content="TeeTurtle">
-    <meta name="author" content="TeeTurtle">
+    <!-- Bold D&H //theme -->
+    
+    <!-- // end theme D&H -->
 
-    <!-- Mobile Specific Metas -->
-    <meta name="HandheldFriendly" content="True">
-    <meta name="MobileOptimized" content="320">
-    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-
-
-    <!-- Owl Carousel Stylesheets -->
-    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/owl.carousel.scss.css?7024102999445355182" rel="stylesheet" type="text/css" media="all">
-    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/owl.transitions.scss.css?7024102999445355182" rel="stylesheet" type="text/css" media="all">
-    <!-- Stylesheets -->
-    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/styles.scss?7024102999445355182" rel="stylesheet" type="text/css" media="all">
-    <!--[if lte IE 8]>
-    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/ie.scss.css?7024102999445355182" rel="stylesheet" type="text/css" media="all" />
-    <![endif]-->
-
-
-    <!-- Icons -->
-    <link rel="shortcut icon" type="image/x-icon" href="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/favicon.png?7024102999445355182">
     <link rel="canonical" href="http://www.teeturtle.com/pages/privacy">
+    <meta name="viewport" content="width=device-width,initial-scale=1.0">
 
-    <!-- Custom Fonts -->
-    <link href="//netdna.bootstrapcdn.com/font-awesome/3.2.1/css/font-awesome.css" rel="stylesheet">
-    <link href="//fonts.googleapis.com/css?family=.|Dosis:light,normal,bold|Dosis:light,normal,bold|Dosis:light,normal,bold|" rel="stylesheet" type="text/css">
-    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,300,700,600" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Dosis:400,700|Open+Sans:400,400i,700,700i" rel="stylesheet" type="text/css" media="all">
+    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/38/assets/grid.scss.css?6205719932272810927" rel="stylesheet" type="text/css" media="all">
+    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/38/assets/plugins.scss.css?6205719932272810927" rel="stylesheet" type="text/css" media="all">
+    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/38/assets/icomoon.scss.css?6205719932272810927" rel="stylesheet" type="text/css" media="all">
+    <link href="//cdn.shopify.com/s/files/1/0267/4223/t/38/assets/main.scss.css?6205719932272810927" rel="stylesheet" type="text/css" media="all">
 
-
-    
-
-
-
-    
-    <script src="//cdn.shopify.com/s/assets/themes_support/option_selection-f3dd7ba25bddfb6b0fe9addc0cae11dc709eeb6a469ec7f66f49e3abc4ce8c81.js" type="text/javascript"></script>
-    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/site-min.js?7024102999445355182" type="text/javascript"></script>
-
-
-    <script type="text/javascript">
-      function doNothing(){
-      }
-    </script>
-
-    <script>
+    <script type="text/javascript" async="" src="//secure.apps.shappify.com/apps/upsell/upselljsscript.php?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="//d1liekpayvooaz.cloudfront.net/apps/customizery/customizery.js?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="//secure.apps.shappify.com/apps/bundle/generate_bundle.php?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="http://beacon.riskified.com?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="//cdn.shopify.com/fb-commerce/conversion_pixels/6019714160058.js?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="//cdn.shopify.com/fb-commerce/tracking_pixels/773859112652747.js?shop=teeturtle-2.myshopify.com"></script><script type="text/javascript" async="" src="https://a.klaviyo.com/media/js/analytics/analytics.js"></script><script async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://a.klaviyo.com/media/js/analytics/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js"></script><script async="" src="https://s.pinimg.com/ct/core.js"></script><script src="https://secure.quantserve.com/aquant.js?a=p-LP1S3y-Ev0gs_" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://cdn.segment.com/analytics.js/v1/bvhCr3DSXlbRgcsHcvRWWQ5gf4EQPqcC/analytics.min.js"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2016.12.06.1"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script>
 //<![CDATA[
       var Shopify = Shopify || {};
       Shopify.shop = "teeturtle-2.myshopify.com";
-      Shopify.theme = {"name":"TeeTurtle Square Comps 9\/13\/16","id":140780937,"theme_store_id":null,"role":"main"};
+      Shopify.theme = {"name":"TeeTurtle | Rakuten Tags | 12\/07\/16","id":155774153,"theme_store_id":null,"role":"main"};
 
 //]]>
 </script>
@@ -374,7 +41,7 @@
 //<![CDATA[
     (function() {
       function asyncLoad() {
-        var urls = ["\/\/cdn.shopify.com\/fb-commerce\/tracking_pixels\/773859112652747.js?shop=teeturtle-2.myshopify.com","\/\/cdn.shopify.com\/fb-commerce\/conversion_pixels\/6019714160058.js?shop=teeturtle-2.myshopify.com","http:\/\/beacon.riskified.com?shop=teeturtle-2.myshopify.com","\/\/secure.apps.shappify.com\/apps\/bundle\/generate_bundle.php?shop=teeturtle-2.myshopify.com","\/\/d1liekpayvooaz.cloudfront.net\/apps\/customizery\/customizery.js?shop=teeturtle-2.myshopify.com"];
+        var urls = ["\/\/cdn.shopify.com\/fb-commerce\/tracking_pixels\/773859112652747.js?shop=teeturtle-2.myshopify.com","\/\/cdn.shopify.com\/fb-commerce\/conversion_pixels\/6019714160058.js?shop=teeturtle-2.myshopify.com","http:\/\/beacon.riskified.com?shop=teeturtle-2.myshopify.com","\/\/secure.apps.shappify.com\/apps\/bundle\/generate_bundle.php?shop=teeturtle-2.myshopify.com","\/\/d1liekpayvooaz.cloudfront.net\/apps\/customizery\/customizery.js?shop=teeturtle-2.myshopify.com","\/\/secure.apps.shappify.com\/apps\/upsell\/upselljsscript.php?shop=teeturtle-2.myshopify.com"];
         for (var i = 0; i < urls.length; i++) {
           var s = document.createElement('script');
           s.type = 'text/javascript';
@@ -391,7 +58,7 @@
 </script>
 <script id="__st">
 //<![CDATA[
-var __st={"a":2674223,"offset":-18000,"reqid":"e13d8de8-d644-4a3e-b11e-7cbd62a8a540","pageurl":"www.teeturtle.com\/pages\/privacy","s":"pages-11724134","u":"a6e1eecd3bfd","p":"page","rtyp":"page","rid":11724134};
+var __st={"a":2674223,"offset":-18000,"reqid":"76b30c0f-6e1c-4375-b342-ee2ae354949c","pageurl":"www.teeturtle.com\/pages\/privacy","s":"pages-11724134","u":"fc9df31b3234","p":"page","rtyp":"page","rid":11724134};
 //]]>
 </script>
 <script>
@@ -405,8 +72,8 @@ var __st={"a":2674223,"offset":-18000,"reqid":"e13d8de8-d644-4a3e-b11e-7cbd62a8a
 //]]>
 </script>
 <script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-668547562549a84f5dfa01ef82607987f85ecbe1c8301faf25059becfa208199.js" defer="defer"></script>
-        <script type="text/javascript">
-          
+      <script type="text/javascript">
+        
       window.ShopifyAnalytics = window.ShopifyAnalytics || {};
       window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
       window.ShopifyAnalytics.meta.currency = 'USD';
@@ -415,81 +82,80 @@ var __st={"a":2674223,"offset":-18000,"reqid":"e13d8de8-d644-4a3e-b11e-7cbd62a8a
         window.ShopifyAnalytics.meta[attr] = meta[attr];
       }
     
-        </script>
+      </script>
 
-        <script type="text/javascript">
-          window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
-            ga('require', 'displayfeatures');
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          ga('require', 'displayfeatures');
+        };
+      </script>
+
+      <script type="text/javascript" class="analytics">
+        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+        
+
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
+
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
           };
-        </script>
 
-        <script type="text/javascript" class="analytics">
-          (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
-          
-
-          (function () {
-            var customDocumentWrite = function(content) {
-              var jquery = null;
-
-              if (window.jQuery) {
-                jquery = window.jQuery;
-              } else if (window.Checkout && window.Checkout.$) {
-                jquery = window.Checkout.$;
-              }
-
-              if (jquery) {
-                jquery('body').append(content);
-              }
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
             };
-
-            window.__shopify_trekkie_canary = true;
-
-            var trekkie_version = '2016.11.01.1';
-            var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
-            if (trekkie.integrations) {
-              return;
-            }
-            trekkie.methods = [
-              'identify',
-              'page',
-              'ready',
-              'track',
-              'trackForm',
-              'trackLink'
-            ];
-            trekkie.factory = function(method) {
-              return function() {
-                var args = Array.prototype.slice.call(arguments);
-                args.unshift(method);
-                trekkie.push(args);
-                return trekkie;
-              };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
             };
-            for (var i = 0; i < trekkie.methods.length; i++) {
-              var key = trekkie.methods[i];
-              trekkie[key] = trekkie.factory(key);
-            }
-            trekkie.load = function(config) {
-              trekkie.config = config;
-              var script = document.createElement('script');
-              script.type = 'text/javascript';
-              script.onerror = function(e) { (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load'; };
-              script.async = true;
-              script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.' + config.Trekkie.appName + '.min.js?v=' + trekkie_version;
-              var first = document.getElementsByTagName('script')[0];
-              first.parentNode.insertBefore(script, first);
-            };
-            trekkie.load(
-              {"Trekkie":{"appName":"storefront","environment":"production","defaultAttributes":{"shopId":2674223}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.001},"Google Analytics":{"trackingId":"UA-30862721-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["751466521585265"],"agent":"plshopify1.2"}}
-            );
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2016.12.06.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","environment":"production","defaultAttributes":{"shopId":2674223}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Google Analytics":{"trackingId":"UA-30862721-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["751466521585265"],"agent":"plshopify1.2"}}
+          );
 
-            var loaded = false;
-            trekkie.ready(function() {
-              if (loaded) return;
-              loaded = true;
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
 
-              window.ShopifyAnalytics.lib = window.trekkie;
-              
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
       ga('require', 'linker');
       function addListener(element, type, callback) {
         if (element.addEventListener) {
@@ -525,51 +191,152 @@ var __st={"a":2674223,"offset":-18000,"reqid":"e13d8de8-d644-4a3e-b11e-7cbd62a8a
       });
     
 
-              var originalDocumentWrite = document.write;
-              document.write = customDocumentWrite;
-              try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
-              document.write = originalDocumentWrite;
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
 
-              
+            
         window.ShopifyAnalytics.lib.page(
           null,
           {"pageType":"page","resourceType":"page","resourceId":11724134}
         );
       
-              
-            });
-
             
+          });
+
+          
       var eventsListenerScript = document.createElement('script');
       eventsListenerScript.async = true;
-      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-0f0d4352f69ee7a261e3c3adb4119f7887f607806e48f1306c3cefb38b33775f.js";
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-37861b7e433c159ab7ac8932b47d1b8813173005dff35ce87a5900b43e3492ed.js";
       document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
     
-          })();
-        </script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-0f0d4352f69ee7a261e3c3adb4119f7887f607806e48f1306c3cefb38b33775f.js"></script>
-      
+        })();
+      </script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-37861b7e433c159ab7ac8932b47d1b8813173005dff35ce87a5900b43e3492ed.js"></script>
+    
 <meta name="p:domain_verify" content="e0727128685db998be2ff5a12acafce4">
 
 <link rel="stylesheet" media="all" href="//cdn.shopify.com/s/assets/storefront/additional-checkout-buttons-e666b0b8a20c90d1eaafcc0f38897f2b4ab8af21f68426b37926e48a2ae452c2.css">
 
     
 
-    <script>
-      var page_template = 'page';
-      var shop_url = "teeturtle-2.myshopify.com";
-    </script>
+    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/38/assets/base.js?6205719932272810927" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/assets/themes_support/option_selection-f3dd7ba25bddfb6b0fe9addc0cae11dc709eeb6a469ec7f66f49e3abc4ce8c81.js" type="text/javascript"></script>
+    
 
-    <link href="https://plus.google.com/101969870859833977674" rel="publisher">
 
-    <script type="text/javascript">
 
-// After you put this snippet into your admin
-// Copy and paste your API Key inside the quotes below
-// ==================================================
+
+
+<script type="application/ld+json">
+    {
+      "@context": "http://schema.org",
+      "@type": "Organization",
+      "url": "http://www.teeturtle.com",
+      "logo": "http://cdn.shopify.com/s/files/1/0267/4223/t/38/assets/logo.png?6205719932272810927'",
+      "contactPoint" : [{
+        "@type" : "ContactPoint",
+        "telephone" : "+3144499669",
+        "contactType" : "customer service"
+      }],
+      "sameAs" : [
+        "https://twitter.com/teeturtlenews",
+        "https://www.facebook.com/teeturtle"
+      ]
+    }
+</script>
+
+
+
+
+
+
+
+
+
+  
+  
+
+  
+
+  <script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      
+        
+        {
+          "@type": "ListItem",
+          "position": 1,
+          "item": {
+            "@id": "/",
+            "name": "Home"
+          }
+        },
+      
+        
+        {
+          "@type": "ListItem",
+          "position": 2,
+          "item": {
+            "@id": "/pages/privacy",
+            "name": "Privacy Policy"
+          }
+        }
+      
+    ]
+  }
+  </script>
+
+
+    
+<script>
+var cartAttributes = {};
+$(function(){
+  var cartAttr = cartAttributes.country == undefined ? '' : cartAttributes.country.toLowerCase().replace(/ /g, ''),
+      ipApiUrl = '//pro.ip-api.com/json/?key=lCR4eha0HzVlUNy';
+  debugger;
+  if(cartAttr ==  "" || cartAttr == undefined || cartAttr == 'puertorico'){
+    $.ajax({
+      type: 'GET',
+      url: ipApiUrl,
+      dataType: 'json',
+      success: function(response){
+        debugger;
+        var country = response.country;
+        if(country == 'Puerto Rico'){
+          country = "United States";
+        }
+        $.ajax({
+          url: '/cart/update',
+          type: 'post',
+          dataType: 'json',
+          data: {
+            attributes: {
+              "country": country
+            }
+          },
+          success: function(){
+            window.location.href = window.location.href;
+          }
+        });
+      }
+    });
+  }
+});
+</script>
+<style>
+  .countryName{ text-transform: capitalize; }
+</style>
+
+
+<script src="//d3c3cq33003psk.cloudfront.net/opentag-89513-962211.js" async="" defer=""></script>
+
+
+<script>
 var WINDSOR_CIRCLE_API_KEY ="bvhCr3DSXlbRgcsHcvRWWQ5gf4EQPqcC"
-// ==================================================
-// Don't modify anything below this line
-
 !function(){var analytics=window.analytics=window.analytics||[];if(!analytics.initialize)if(analytics.invoked)window.console&&console.error&&console.error("Segment snippet included twice.");else{analytics.invoked=!0;analytics.methods=["trackSubmit","trackClick","trackLink","trackForm","pageview","identify","group","track","ready","alias","page","once","off","on"];analytics.factory=function(t){return function(){var e=Array.prototype.slice.call(arguments);e.unshift(t);analytics.push(e);return analytics}};for(var t=0;t<analytics.methods.length;t++){var e=analytics.methods[t];analytics[e]=analytics.factory(e)}analytics.load=function(t){var e=document.createElement("script");e.type="text/javascript";e.async=!0;e.src=("https:"===document.location.protocol?"https://":"http://")+"cdn.segment.com/analytics.js/v1/"+t+"/analytics.min.js";var n=document.getElementsByTagName("script")[0];n.parentNode.insertBefore(e,n)};analytics.SNIPPET_VERSION="3.0.1";
   window.analytics.load(WINDSOR_CIRCLE_API_KEY);
   // identify the customer if they have an account
@@ -578,447 +345,142 @@ var WINDSOR_CIRCLE_API_KEY ="bvhCr3DSXlbRgcsHcvRWWQ5gf4EQPqcC"
 }}();
 </script>
 
-    <!--  Quantcast Tag -->
+
 <script>
- var ezt = ezt ||[];
-
- (function(){
-   var elem = document.createElement('script');
-   elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-LP1S3y-Ev0gs_";
-   elem.async = true;
-   elem.type = "text/javascript";
-   var scpt = document.getElementsByTagName('script')[0];
-   scpt.parentNode.insertBefore(elem,scpt);
- }());
-
-
- ezt.push({qacct: 'p-LP1S3y-Ev0gs_',
-           orderid: '',
-           revenue: ''
-           });
+var ezt = ezt ||[];
+(function(){
+  var elem = document.createElement('script');
+  elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://pixel") + ".quantserve.com/aquant.js?a=p-LP1S3y-Ev0gs_";
+  elem.async = true;
+  elem.type = "text/javascript";
+  var scpt = document.getElementsByTagName('script')[0];
+  scpt.parentNode.insertBefore(elem,scpt);
+}());
+ezt.push({qacct: 'p-LP1S3y-Ev0gs_',
+  orderid: '',
+  revenue: ''
+});
 </script>
 <noscript>
   <img src="//pixel.quantserve.com/pixel/p-LP1S3y-Ev0gs_.gif?labels=_fp.event.Default" style="display: none;" border="0" height="1" width="1" alt="Quantcast"/>
 </noscript>
-<!-- End Quantcast Tag -->
 
-<!-- Bold Managed Services - Customer Geolocation Customization - April 14, 2016 -->
+
 <script>
-  var cartAttributes = {}; 
-  $(function(){
-
-    var cartAttr = cartAttributes.country == undefined ? '' : cartAttributes.country.toLowerCase().replace(/ /g, ''),
-        ipApiUrl = '//pro.ip-api.com/json/?key=lCR4eha0HzVlUNy';
-    if(cartAttr ==  "" || cartAttr == undefined){    
-      $.ajax({
-        type: 'GET',
-        url: ipApiUrl,
-        dataType: 'json',
-        success: function(response){
-          var country = response.country;
-          $.ajax({
-            url: '/cart/update',
-            type: 'post',
-            dataType: 'json',
-            data: {
-              attributes: {
-                "country": country
-              }
-            },
-            success: function(){ 
-              window.location.href = window.location.href;
-            }
-          });
-        }
-      });    
-    }
-  });      
- 
+window._talkableq = window._talkableq || [];
+  _talkableq.push(['authenticate_customer', {
+    email: '',
+    first_name: '',
+    last_name: ''
+  }]);
+ _talkableq.push(['register_affiliate', {}]);
 </script>
-    <style>
-      .countryName{ text-transform: capitalize; }
-    </style>    
-<!-- Bold Managed Services - Customer Geolocation Customization -->
-    
-<!-- Bold Managed Services - Search Term Checker - July 28, 2016 -->    
-	<script>
-  function searchTermChecker(){
-
-    // add more search terms to array
-    var searchTermsToCheckFor = ['pokemon'];
-    $.each(searchTermsToCheckFor, function(index, term){
-
-      // check each term, if there is a match redirect customer
-      switch (term) {
-        case "pokemon":
-          if(window.location.href.toLowerCase().indexOf("q="+term)>-1){
-            window.location.href = '/collections/search';
-          }  
-          break;        
-      }            
-    });
-  }
-  
-</script>
-<!-- Bold Managed Services - Search Term Checker --> 
-    
-      <!-- Begin Talkable integration code -->
-  <script>
-    window._talkableq = window._talkableq || [];
-    _talkableq.push(['authenticate_customer', {
-      email: '',
-      first_name: '',
-      last_name: ''
-    }]);
-   _talkableq.push(['register_affiliate', {}]);
-  </script>
-  <script src="//d2jjzw81hqbuqv.cloudfront.net/integration/clients/teeturtle.min.js"></script>
-  <!-- End Talkable integration code -->
-    
-    
-  </head>
-  <body>
-    
-    <!-- Google Code for Remarketing Tag -->
-    <!--------------------------------------------------
-Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
---------------------------------------------------->
-    <script type="text/javascript">
-      var google_tag_params = {
-        ecomm_prodid: 0,
-        ecomm_pagetype: 'other',
-        
-      };
-
-    </script>
-    <script type="text/javascript">
-      /* <![CDATA[ */
-      var google_conversion_id = 990310522;
-      var google_custom_params = window.google_tag_params;
-      var google_remarketing_only = true;
-      /* ]]> */
-    </script>
-    <script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-    </script>
-    <noscript>
-      <div style="display:inline;">
-        <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990310522/?value=0&amp;guid=ON&amp;script=0"/>
-      </div>
-    </noscript>      
-    
-    <div class="topbar">
-      
-        <div class="social-buttons">
-          
-  
+<script src="//d2jjzw81hqbuqv.cloudfront.net/integration/clients/teeturtle.min.js"></script>
 
 
-
-  
-  <div class="social_buttons right globally">
-    
-  <span class="plusonecont"><g:plusone size="medium" annotation="none"></g:plusone></span>
-  <span class="twittercont"><a href="//twitter.com/share" class="twitter-share-button" data-url="http://www.teeturtle.com/pages/privacy" data-count="none">Tweet</a></span>
-
-  
-  
-  
-
-  <iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fteeturtle&amp;width&amp;layout=standard&amp;action=like&amp;show_faces=false&amp;share=false&amp;height=35&amp;appId=161231683961750" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:35px; margin: 6px 0 0 6px;" allowtransparency="true"></iframe>
-  
-
-    <span class="facebookcont fb-like large" data-href="https://www.facebook.com/teeturtle" data-send="false" data-layout="standard" data-width="300" data-show-faces="false" data-colorscheme="dark"></span>
-    <span class="facebookcont fb-like small" data-href="https://www.facebook.com/teeturtle" data-send="false" data-layout="button_count" data-width="90" data-show-faces="false"></span>
-  </div>
-
-        </div>
-        <ul class="topbar-nav">
-          
-            <li><a href="/account/register">Sign Up</a></li>
-            <li><a href="/account/login">Log In</a></li>
-          
-          <li class="desktop-only">
-            <form class="search desktop-search" action="/search">
-              <input type="hidden" name="type" value="product">
-              <input type="text" name="q" class="search-top" placeholder="Search...">
-            </form>
-          </li>
-          <li class="desktop-only"><a href="/pages/contact-us" class="contact-top"></a></li>
-          <li class="mobile"><a href="/cart" class="cart-top"></a></li>
-          <li class="desktop-only"><a href="/cart" class="cart-top cart-top-desktop"></a></li>
-        </ul>
-      
-    </div>
-    <div id="header" class="fixed-header">
-      <div class="container content no-top">
-        <div class="sixteen columns">
-          <div class="one-third column logo alpha">
-            <a href="http://www.teeturtle.com" title="TeeTurtle">
-              
-                <img src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/logo.png?7024102999445355182" alt="TeeTurtle">
-              
-            </a>
-          </div>
-          <div class="two-thirds column nav omega">
-            <ul class="main-nav">
-  
-  		
-		    	<li><a href="/collections/top-sellers">SHOP   |</a><span class="period-divider"></span></li>
-    	
-  
-  		
-    			<li><a href="/pages/about-us">INFO<span class="arrow">▾</span></a>
-    				 <ul class="sub-navigation">
-                      
-                       <li><a href="/pages/sizing-guide" title="Sizing Guide">Sizing Guide</a></li>
-                         
-                      
-                       <li><a href="/pages/faqs" title="FAQs">FAQs</a></li>
-                         
-                      
-                       <li><a href="/pages/about-us" title="About Us">About Us</a></li>
-                         
-                      
-                       <li><a href="/pages/convention-schedule" title="Convention Schedule">Convention Schedule</a></li>
-                         
-                      
-                       <li><a href="/blogs/news" title="Blog">Blog</a></li>
-                         
-                      
-                       <li><a href="/pages/contact-us" title="Contact Us">Contact Us</a></li>
-                         
-                      
-                    </ul>
-    			</li>
-    	
-  
-</ul>
-            <a href="/cart" class="cart">0</a>
-          </div>
-          <a href="#" class="mobile-nav-btn mobile"><span class="bar"></span><span class="bar"></span><span class="bar"></span></a>
-        </div>
-      </div>
-      <div class="mobile">
-        <ul class="mobile-navigation">
-          <li>
-            <form class="search" action="/search">
-              <input type="hidden" name="type" value="product">
-              <input type="text" name="q" class="mobile-search" placeholder="Search...">
-            </form>
-          </li>
-          
-            
-              <li><a href="/pages/sizing-guide">Sizing Guide</a></li>
-            
-          
-            
-              <li><a href="/pages/order-lookup">Order Status</a></li>
-            
-          
-            
-              <li><a href="/pages/contact-us">Contact Us</a></li>
-            
-          
-        </ul>
-      </div>
-    </div>
-    
-        
-          
-          
-          <div class="container main content">
-        
-    
-
-      <div class="sixteen columns clearfix collection_nav">
-  <h1 class="collection_title">
-    Privacy Policy
-  </h1>
-</div>
-
-<div class="sixteen columns page">
-    <p><strong>1</strong>. Your personal information is safe here. We will not release or sell any of the data you submit to the site.&nbsp;We receive and store any information you enter on our Web site or give us in any other way. In order to provide you with the most protection, we store all credit card information on a secure processing server (https://). You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store and communicating with you.&nbsp;</p>
-<p><strong>2</strong>. TeeTurtle collects data about you and your activities when you visit our website and the websites and online services where we display advertisements (“Publishers”). This information may include the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as “Retargeting”). We collect information about where you saw the ads we serve you and what ads you clicked on. We obtain certain types of information when your Web browser accesses TeeTurtle.com or advertisements and other content served by or on behalf of TeeTurtle.com on other Web sites. These specific types of information gathered are known as "cookies," unique identifiers that we transfer to your device to enable our systems to recognize your&nbsp;device and to provide features such as personalized advertisements on other Web Sites and storage of items in your Shopping Cart in between visits. Cookies serve to make your shopping experience quicker and easier.&nbsp;If you are having trouble with shopping functions, make sure you have cookies enabled. To prevent us from collecting this information, &nbsp;disable the "storing cookies" function of your Web browser.&nbsp;</p>
-<p><strong>3</strong>. You decide what is enough. We will never send you more e-mail than you want. If at any point you feel as if you are getting spammed, shoot an email to our service team and we will make sure to take care of the problem for you. All of our newsletters include an unsubscribe button, and if you choose to unsubscribe, you will never get another one again unless you manually allow us back in.&nbsp;<span>If you are located in the United&nbsp;States, you may have the right to request access to and receive information about the personal information we maintain about you, update and correct inaccuracies in your personal information and have the information blocked or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements. You also have the right to opt out, free of charge, from the processing of your personal information for marketing purposes.</span></p>
-<p><span>If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, please contact s</span>upport@teeturtle.com<span>.</span></p>
-</div>
 <script type="text/javascript">
-var sa_uni = sa_uni || [];
-sa_uni.push(['sa_pg', '1']);
-(function () { function sa_async_load() { var sa = document.createElement('script'); sa.type = 'text/javascript'; sa.async = true; sa.src = '//cdn.socialannex.com/partner/9914561/universal.js'; var sax = document.getElementsByTagName('script')[0]; sax.parentNode.insertBefore(sa, sax); } if (window.attachEvent) { window.attachEvent('onload', sa_async_load); } else { window.addEventListener('load', sa_async_load, false); } })();
+!function(e){if(!window.pintrk){window.pintrk=function(){window.pintrk.queue.push(Array.prototype.slice.call(arguments))};var n=window.pintrk;n.queue=[],n.version="3.0";var t=document.createElement("script");t.async=!0,t.src=e;var r=document.getElementsByTagName("script")[0];r.parentNode.insertBefore(t,r)}}("https://s.pinimg.com/ct/core.js");
+
+pintrk('load','2615124392918');
+pintrk('page', {
+page_name: 'Privacy Policy',
+page_category: 'page'
+});
+</script>
+<noscript>
+<img height="1" width="1" style="display:none;" alt=""
+src="https://ct.pinterest.com/v3/?tid=2615124392918&noscript=1" />
+</noscript>
+        
+    <meta name="google-site-verification" content="ZAeQmzeIzv8GyG6cGb9UbCRE6C9LxwGP6w72HxisyCc">
+  
+
+</head>
+  <body data-template="page">
+    
+<div id="fb-root"></div>
+<script>
+(function() {
+  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+  po.src = 'https://apis.google.com/js/plusone.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+
+(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));
 </script>
 
-<script type="text/javascript" src="//tags.mediaforge.com/js/3564"></script>
 
-    
-      </div>
-    
+<script>
+window.twttr = (function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0],
+    t = window.twttr || {};
+  if (d.getElementById(id)) return t;
+  js = d.createElement(s);
+  js.id = id;
+  js.src = "https://platform.twitter.com/widgets.js";
+  fjs.parentNode.insertBefore(js, fjs);
 
+  t._e = [];
+  t.ready = function(f) {
+    t._e.push(f);
+  };
 
-    <div class="footer-top">
-      <div class="container">
-        <div class="footer-column newsletter-column">
-            
-                <div class="newsletter">
-                  <h3>Join our newsletter!</h3>
-                  <p>Get updates on new designs, sales and giveaways!</p>
-                  
-                    <form action="https://manage.kmail-lists.com/subscriptions/subscribe?g=sfFhS2" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="contact-form" target="_blank">
-                      <input type="email" value="" name="EMAIL" class="required email" id="contact_email" placeholder="Enter Email Address">
-                      <input type="submit" value="Submit" id="sign_up" name="subscribe" class="action_button">
-                    </form>
-                  
-                </div>
-            
-        </div>
-        <div class="footer-column">
-          <ul>
-            
-              <li><a href="http://www.teeturtle.com/collections/top-sellers">Shop All Tees</a></li>
-            
-              <li><a href="/pages/faqs">FAQs</a></li>
-            
-              <li><a href="/pages/contact-us">Contact Us</a></li>
-            
-          </ul>
-        </div>
-        <div class="footer-column">
-          <ul>
-            
-              <li><a href="/pages/sizing-guide">Sizing Guide</a></li>
-            
-              <li><a href="/blogs/news">Blog</a></li>
-            
-              <li><a href="/pages/about-us">About Us</a></li>
-            
-          </ul>
-        </div>
-        <div class="footer-column">
-          <ul>
-            
-              <li><a href="/pages/order-lookup">Order Status</a></li>
-            
-              <li><a href="/pages/privacy">Privacy</a></li>
-            
-              <li><a href="/products/gift-card">Gift Cards</a></li>
-            
-          </ul>
-        </div>
-        <div class="footer-column social-column">
-          <ul class="icons">
-
-              
-                <li class="instagram"><a href="http://instagram.com/teeturtle" title="TeeTurtle on Instagram" rel="me" target="_blank" class="icon-instagram"></a></li>
-              
-
-              
-                <li class="pinterest"><a href="http://pinterest.com/teeturtle" title="TeeTurtle on Pinterest" rel="me" target="_blank" class="icon-pinterest"></a></li>
-              
-
-              
-                <li class="tumblr"><a href="http://teeturtlenews.tumblr.com/" title="TeeTurtle on Tubmlr" rel="me" target="_blank" class="icon-tumblr"></a></li>
-              
-
-              
-                <li class="twitter"><a href="https://twitter.com/teeturtlenews" title="TeeTurtle on Twitter" rel="me" target="_blank" class="icon-twitter"></a></li>
-              
-
-              
-                <li class="facebook"><a href="https://www.facebook.com/teeturtle" title="TeeTurtle on Facebook" rel="me" target="_blank" class="icon-facebook"></a></li>
-              
-
-              
-
-              
-
-              
-
-              
-
-              
+  return t;
+}(document, "script", "twitter-wjs"));
+</script>
 
 
-              
-
-            </ul>
-        </div>
-      </div>
-    </div>
-    <div class="footer">
-      <div class="container">
-          <div class="six columns">
-          <p class="credits">
-            © 2016 TeeTurtle
-          </p>
-        </div>
-
-        <div class="ten columns credits_right">
-          <div class="payment_methods">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/cc-paypal.gif?7024102999445355182" alt="PayPal">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/cc-visa.gif?7024102999445355182" alt="Visa">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/cc-visaelectron.gif?7024102999445355182" alt="Visa Electron">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/cc-mastercard.gif?7024102999445355182" alt="Mastercard">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/cc-amex.gif?7024102999445355182" alt="American Express">
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/cc-cirrus.gif?7024102999445355182" alt="Cirrus">
-            
-            <img src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/cc-discover.gif?7024102999445355182" alt="Discover">
-            
-          </div>
-        </div>
-      </div>
-      </div>
-    
+<script type="text/javascript">
+(function() {
+  var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+  po.src = 'https://apis.google.com/js/plusone.js';
+  var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+})();
+$( window ).load(function() {
+  !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
+});
+</script>
 
 
+<script type="text/javascript">
+var google_tag_params = {
+  ecomm_prodid: 0,
+  ecomm_pagetype: 'other',
+  
+};
+</script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 990310522;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+  <div style="display:inline;">
+    <img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/990310522/?value=0&amp;guid=ON&amp;script=0"/>
+  </div>
+</noscript>
 
-    
-      <script type="text/javascript">
-        (function() {
-          var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-          po.src = 'https://apis.google.com/js/plusone.js';
-          var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-        })();
-      </script>
-      <script>
-        $( window ).load(function() {
-        !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.async=true;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-        });
-    </script>
-    
 
-  <!-- Power Tools view count code -->
-    
-  <!-- Power Tools view count code -->
-
-  <div id="cart-overlay"></div>
-  <div id="cart-preview">
-    <div class="cart-inner">
-      <p class="shipping-note"></p>
-      <div class="preview-wrapper">
-        <div class="cart-wrapper"></div>
-          <a href="" class="continue-shopping cart-btn">&lt;Continue Shopping</a>
-          
-            <a href="" class="checkout cart-btn login-checkout">Checkout&gt;</a>
-          
-          
-      </div>
-    </div>
-    
-    <script type="text/javascript">
+<script type="text/javascript">
   var _learnq = _learnq || [];
-
   _learnq.push(['account', 'qTcCKB']);
-
   (function () {
-  var b = document.createElement('script'); b.type = 'text/javascript'; b.async = true;
-  b.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'a.klaviyo.com/media/js/analytics/analytics.js';
-  var a = document.getElementsByTagName('script')[0]; a.parentNode.insertBefore(b, a);
+    var b = document.createElement('script'); b.type = 'text/javascript'; b.async = true;
+    b.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'a.klaviyo.com/media/js/analytics/analytics.js';
+    var a = document.getElementsByTagName('script')[0]; a.parentNode.insertBefore(b, a);
   })();
 </script>
-   
-  </div>
-    
-    <!-- Twitter universal website tag code -->
+
+
 <script>
 !function(e,n,u,a){e.twq||(a=e.twq=function(){a.exe?a.exe.apply(a,arguments):
 a.queue.push(arguments);},a.version='1',a.queue=[],t=n.createElement(u),
@@ -1028,16 +490,898 @@ s.parentNode.insertBefore(t,s))}(window,document,'script');
 twq('init','nvdaj');
 twq('track','PageView');
 </script>
-<!-- End Twitter universal website tag code -->
-
-
-  <script src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/app.js?7024102999445355182" type="text/javascript"></script>
 
 
 
-  <div class="preload">
-    <img src="//cdn.shopify.com/s/files/1/0267/4223/t/33/assets/uh-oh-turtle.png?7024102999445355182">
-  </div>
+
+
     
+      <div class="drawer cart-drawer">
+        <div class="cart-drawer-inner drawer-inner">
+          <!-- Bold: Options 4-1 -->
+<script>function update_qty_builder(builder_id, qty){ jQuery('.'+builder_id+"_qty").val(qty.value); } function remove_product_builder(builder_id){ jQuery('.'+builder_id+"_qty").val(0); jQuery('.'+builder_id+"_qty").parents("form").submit();  }</script>
+<script async="" src="//secure.apps.shappify.com/apps/options/bold_cart_handler.php?shop=teeturtle-2.myshopify.com"></script>
+
+<!-- // end Options 4-1 -->
+
+
+  <h2>Shopping Cart</h2>
+  <p>Your cart is currently empty.</p>
+  <p class="cart-drawer-continue">Continue browsing <a href="/collections/all">here</a>.</p>
+
+
+        </div>
+      </div>
+    
+
+    <div class="drawer menu-drawer">
+      <div class="menu-drawer-inner drawer-inner">
+        <div id="shopify-section-main-nav" class="shopify-section"><div class="nav">
+  <div class="menu-drawer-close close-btn">X</div>
+  <div class="grid">
+
+    <div class="col-12 padding">
+      <form class="search ib-fix" action="/search" method="get" role="search">
+        <input type="hidden" name="type" value="product">
+        <input class="search-input" type="search" name="q" value="" placeholder="Search our store">
+        <button class="search-btn" type="submit"><i class="icomoon-search"></i></button>
+      </form>
+    </div>
+
+    <div class="col-12 padding">
+      <ul class="nav-menu">
+        
+          
+          
+          
+          
+              <li class="nav-main-item"><a href="/collections/top-sellers" style="color: #ecad23;">Trending</a></li>
+          
+        
+          
+          
+          
+          
+              <li class="nav-main-item"><a href="/collections/newest-designs" style="color: #1aa801;">New Designs</a></li>
+          
+        
+          
+          
+          
+          
+              <li class="nav-main-item"><a href="/collections/100-hours" style="color: #de2727;">On Sale Now!</a></li>
+          
+        
+          
+          
+          
+          
+            <ul class="nav-section">
+              <li class="nav-main-title">Shop by Category</li>
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/cute-dark-twisted-collection">Cute, Dark &amp; Twisted</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/cats-collection">Cats</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/gaming-collection">Gaming</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/kawaii-collection">Kawaii</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/bookworm-collection">Bookworm</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/nap-time-collection">Nap Time</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/princess-collection">Princess</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/unicorns-and-rainbows-collection">Unicorns &amp; Rainbows</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/horror-collection">Horror</a></li>
+              
+            
+            </ul>
+            
+          
+        
+          
+          
+          
+          
+            <ul class="nav-section">
+              <li class="nav-main-title">Shop by Fandom</li>
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/star-wars-collection">Star Wars</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/marvel-collection">Marvel</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/adventure-time-collection">Adventure Time</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/how-to-train-your-dragon-collection">How To Train Your Dragon</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/steven-universe-collection">Steven Universe</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/supernatural-collection">Supernatural</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/the-big-bang-theory-collection">The Big Bang Theory</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/mean-girls-collection">Mean Girls</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/the-wizard-of-oz-collection">The Wizard of Oz</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/collections/sonic-the-hedgehog-collection">Sonic the Hedgehog</a></li>
+              
+            
+            </ul>
+            
+          
+        
+          
+          
+          
+          
+            <ul class="nav-section">
+              <li class="nav-main-title">Popular Pages</li>
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="http://www.teeturtle.com/pages/order-lookup">Track my Order</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="http://www.teeturtle.com/pages/faqs#what-is-your-return-and-exchange-policy">Returns &amp; Exchanges</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/pages/sizing-guide">Sizing Guide</a></li>
+              
+            
+          
+        
+          
+          
+          
+          
+              
+              
+              
+              <li class="nav-sub-item"><a href="/pages/faqs">FAQS</a></li>
+              
+            
+            </ul>
+            
+          
+        
+          
+          
+          
+          
+              <li class="nav-main-item"><a href="/pages/about-us" style="color: #7edd37;">About Us</a></li>
+          
+        
+          
+          
+          
+          
+              <li class="nav-main-item"><a href="/pages/contact-us" style="color: #5fb7e5;">Contact Us</a></li>
+          
+        
+          
+          
+          
+          
+              <li class="nav-main-item"><a href="/blogs/news" style="color: #faec3d;">Blog</a></li>
+          
+        
+      </ul>
+    </div>
+
+  </div>
+</div><!-- nav -->
+
+</div>
+      </div>
+    </div>
+
+    <div class="wrapper">
+      <div id="shopify-section-header" class="shopify-section"><div class="top-header">
+  <div class="container">
+    <div class="grid">
+      <div class="col-6_sm-hide">
+        <div class="top-header-social">
+  <g:plusone size="medium" annotation="none"></g:plusone>
+</div>
+<div class="top-header-social">
+  <a class="twitter-share-button" href="https://twitter.com/intent/tweet?original_referer=http%3A%2F%2Fwww.teeturtle.com%2Fcollections%2Ftop-sellers&amp;ref_src=twsrc%5Etfw&amp;text=Top%20Sellers%20%7C%20TeeTurtle&amp;tw_p=tweetbutton&amp;url=http%3A%2F%2Fwww.teeturtle.com%2Fcollections%2Ftop-sellers&amp;via=teeturtlenews">Tweet</a>
+</div>
+<div class="top-header-social">
+  <div class="fb-like" data-href="https://www.facebook.com/teeturtle/" data-layout="button" data-action="like" data-show-faces="false" data-share="false"></div>
+</div>
+
+      </div>
+      <div class="col-6_sm-12 text-right">
+        <ul class="top-header-links mod--unstyled--inline ib-fix">
+          
+            
+              
+              <li>
+                <a href="/account/register">Create account</a>
+              </li>
+              
+              <li>
+                <a href="/account/login">Log in</a>
+              </li>
+            
+          
+          <li class="element_sm-hide">
+            <a class="svg-wrapper" href="/pages/faqs"><!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<svg class="question" width="18px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Question mark</title>
+    <desc>A question mark in a circle.</desc>
+    <style>
+    #question-1 path {
+      fill: #444;
+    }
+    .svg-wrapper:hover #question-1 path {
+      fill: #2694cf;
+    }
+    </style>
+    <g id="question-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M16.5,33 C25.6126984,33 33,25.6126984 33,16.5 C33,7.38730163 25.6126984,0 16.5,0 C7.38730163,0 0,7.38730163 0,16.5 C0,25.6126984 7.38730163,33 16.5,33 Z M9.7475,7.405 C9.7475,6.4249951 10.3308275,5.4916711 11.4975,4.605 C12.6641725,3.7183289 14.2274902,3.275 16.1875,3.275 C18.3808443,3.275 20.1308268,3.8349944 21.4375,4.955 C22.7441732,6.0750056 23.3975,7.48665815 23.3975,9.19 C23.3975,9.77333625 23.3100009,10.3449972 23.135,10.905 C22.9599991,11.4650028 22.7733343,11.9374981 22.575,12.3225 C22.3766657,12.7075019 22.0850019,13.1391643 21.7,13.6175 C21.3149981,14.0958357 21.0291676,14.4283324 20.8425,14.615 L19.9325,15.49 L19.2675,16.05 C18.4741627,16.6800031 17.9841676,17.3099968 17.7975,17.94 C17.6108324,18.5700031 17.5175,19.4799941 17.5175,20.67 C17.5175,21.5100042 16.9341725,21.93 15.7675,21.93 C15.1841637,21.93 14.7700012,21.7900014 14.525,21.51 C14.2799988,21.2299986 14.1575,20.7166704 14.1575,19.97 C14.1575,17.5433212 14.857493,15.7000063 16.2575,14.44 L17.2725,13.6 C17.8091694,13.133331 18.2116653,12.7658347 18.48,12.4975 C18.7483347,12.2291653 19.0166653,11.8325026 19.285,11.3075 C19.5533347,10.7824974 19.6875,10.2400028 19.6875,9.68 C19.6875,8.72332855 19.3608366,7.98250262 18.7075,7.4575 C18.0541634,6.93249737 17.1791721,6.67 16.0825,6.67 C15.3124962,6.67 14.6708359,6.79833205 14.1575,7.055 C13.6441641,7.31166795 13.2941676,7.58583187 13.1075,7.8775 C12.9208324,8.16916812 12.6933347,8.44333205 12.425,8.7 C12.1566653,8.95666795 11.8475017,9.085 11.4975,9.085 C11.0541644,9.085 10.6516685,8.93916812 10.29,8.6475 C9.92833152,8.35583187 9.7475,7.94166935 9.7475,7.405 Z M13.4575,26.83 C13.4575,26.1766634 13.6849977,25.616669 14.14,25.15 C14.5950023,24.683331 15.1491634,24.45 15.8025,24.45 C16.4558366,24.45 17.015831,24.683331 17.4825,25.15 C17.949169,25.616669 18.1825,26.1766634 18.1825,26.83 C18.1825,27.4600031 17.949169,28.0141643 17.4825,28.4925 C17.015831,28.9708357 16.4558366,29.21 15.8025,29.21 C15.1491634,29.21 14.5950023,28.9708357 14.14,28.4925 C13.6849977,28.0141643 13.4575,27.4600031 13.4575,26.83 Z" id="Combined-Shape" fill="#444444"></path>
+    </g>
+</svg>
+
+</a>
+          </li>
+          <li class="header-search element_sm-hide">
+            <form class="search ib-fix" action="/search" method="get" role="search">
+              <input type="hidden" name="type" value="product">
+              <input class="search-input" type="search" name="q" value="" placeholder="Search our store">
+              <span class="hidden-search-trigger svg-wrapper"><!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<svg class="search" width="18px" viewBox="0 0 33 33" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Search</title>
+    <desc>A magnifying glass icon.</desc>
+    <style>
+    #search-1 path {
+      fill: #444;
+    }
+    .svg-wrapper:hover #search-1 path {
+      fill: #2694cf;
+    }
+    </style>
+    <g id="search-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <path d="M22.875,14.25 C22.875,11.8411338 22.0188888,9.78060752 20.3066406,8.06835938 C18.5943925,6.35611123 16.5338662,5.5 14.125,5.5 C11.7161338,5.5 9.65560752,6.35611123 7.94335938,8.06835938 C6.23111123,9.78060752 5.375,11.8411338 5.375,14.25 C5.375,16.6588662 6.23111123,18.7193925 7.94335938,20.4316406 C9.65560752,22.1438888 11.7161338,23 14.125,23 C16.5338662,23 18.5943925,22.1438888 20.3066406,20.4316406 C22.0188888,18.7193925 22.875,16.6588662 22.875,14.25 L22.875,14.25 Z M32.875,30.5 C32.875,31.1770867 32.6276066,31.7630184 32.1328125,32.2578125 C31.6380184,32.7526066 31.0520867,33 30.375,33 C29.6718715,33 29.0859398,32.7526066 28.6171875,32.2578125 L21.9179688,25.578125 C19.5872279,27.1927164 16.9895977,28 14.125,28 C12.2630115,28 10.4824304,27.6386755 8.78320312,26.9160156 C7.08397588,26.1933558 5.61914678,25.216803 4.38867188,23.9863281 C3.15819697,22.7558532 2.18164424,21.2910241 1.45898438,19.5917969 C0.736324512,17.8925696 0.375,16.1119885 0.375,14.25 C0.375,12.3880115 0.736324512,10.6074304 1.45898438,8.90820312 C2.18164424,7.20897588 3.15819697,5.74414678 4.38867188,4.51367188 C5.61914678,3.28319697 7.08397588,2.30664424 8.78320312,1.58398438 C10.4824304,0.861324512 12.2630115,0.5 14.125,0.5 C15.9869885,0.5 17.7675696,0.861324512 19.4667969,1.58398438 C21.1660241,2.30664424 22.6308532,3.28319697 23.8613281,4.51367188 C25.091803,5.74414678 26.0683558,7.20897588 26.7910156,8.90820312 C27.5136755,10.6074304 27.875,12.3880115 27.875,14.25 C27.875,17.1145977 27.0677164,19.7122279 25.453125,22.0429688 L32.1523438,28.7421875 C32.634117,29.2239607 32.875,29.8098924 32.875,30.5 L32.875,30.5 Z" id="" fill="#444444"></path>
+    </g>
+</svg>
+
+</span>
+            </form>
+          </li>
+        </ul>
+      </div>
+
+    </div>
+  </div>
+</div><!-- top-header -->
+
+<div class="header">
+  <div class="container">
+    <div class="grid-middle">
+
+      <div class="col-4_sm-3">
+        <div class="menu-link header-link">
+          <span class="menu-icon">
+            <span class="bar"></span>
+            <span class="bar"></span>
+            <span class="bar"></span>
+          </span>
+          <span class="link-text sm-hide">Explore</span>
+        </div>
+      </div>
+
+      <div class="col-4_sm-6 text-center">
+        
+          <div class="logo">
+            <a href="/"><!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<svg class="logo-svg" width="250px" viewBox="0 0 384 65" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Teeturtle Logo</title>
+    <desc>The word teeturtle with a small cartoon turtle standing next to it.</desc>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <g id="turtle" transform="translate(314.000000, 1.000000)">
+                <path d="M0.160337204,18.4371072 C0.174236129,18.263758 0.188184516,18.0904088 0.202083441,17.9172082 C0.205496344,17.8858162 0.205496344,17.8858162 0.211382366,17.8420457 C0.513449032,15.1577331 1.34021247,12.6210719 2.40226839,10.1559091 C3.42519957,7.78140682 4.87504043,5.70493041 6.75747914,3.92088478 C7.59284903,3.12915295 8.45126839,2.38500425 9.44481892,1.80217277 C10.179434,1.3712013 10.9780039,1.09248595 11.771677,0.79822314 C13.2168189,0.262380622 14.7042017,0.0185232569 16.2462404,0.0524404742 C17.3578082,0.0769004819 18.4687824,0.0925964788 19.5636318,0.301843428 C20.533391,0.487175025 21.4686748,0.797777513 22.4029695,1.11679741 C23.6966082,1.55851346 24.8175243,2.3062767 25.9572856,3.0284411 C27.368991,3.92286535 28.4945071,5.1216533 29.5562168,6.38827569 C30.7496942,7.81210561 31.5919888,9.43295248 32.2490963,11.1648102 C32.5861329,12.0529956 32.873163,12.9570256 33.0790254,13.8772468 C33.2785071,14.7690468 33.5345738,15.6501022 33.6680232,16.556905 C33.6771243,16.6185502 33.6570426,16.7054475 33.722877,16.7364434 C33.8117609,16.7783324 33.8464834,16.6802943 33.897034,16.6346918 C34.4070899,16.1742594 35.0272985,15.9085662 35.639791,15.6228199 C36.2300254,15.3474715 36.8575544,15.2344801 37.4846877,15.0884133 C39.5758082,14.6012432 41.6922039,14.7667691 43.8007351,14.8084601 C45.1888963,14.8358909 46.5389222,15.1703592 47.8678275,15.560432 C48.9814232,15.8873247 50.0722662,16.2857653 51.068834,16.8899869 C52.7572813,17.9137422 54.1856555,19.2331467 55.3656791,20.8158182 C56.3007652,22.0699135 57.1544856,23.3790685 57.9957415,24.6988692 C59.2415006,26.6531941 60.2156619,28.7407617 61.1023243,30.8698716 C61.6173265,32.1064884 62.0658512,33.3748438 62.4716899,34.6520622 C63.0454533,36.4575475 63.4981329,38.2972471 63.7678512,40.1765085 C63.7977759,40.3848147 63.8900727,40.4796838 64.0783265,40.5855452 C65.3927888,41.3246434 66.2712899,42.3751364 66.399892,43.9470632 C66.4464856,44.517021 66.4587523,45.0812847 66.3354426,45.6416367 C66.3129867,45.743735 66.3507265,45.7863172 66.4271953,45.8394954 C66.6981501,46.0278474 66.9870598,46.1842627 67.2724576,46.3484022 C67.9325824,46.7281265 68.4884404,47.2188616 68.8413049,47.9103767 C68.8711308,47.968754 68.906249,48.0292603 68.9159437,48.0922919 C69.0655178,49.0652951 69.0343566,49.9924978 68.3440103,50.7974004 C67.5342125,51.7415864 66.6236103,52.5462414 65.4634705,53.0306882 C65.3284877,53.0870849 65.3345716,53.1772007 65.3345716,53.2861814 C65.3344727,53.9875003 65.3442662,54.6904037 65.2499415,55.3867217 C65.1559135,56.0808116 65.0535759,56.7828732 64.77352,57.426112 C64.3915716,58.3034043 63.7384705,58.9375325 62.8543308,59.3273082 C61.2711888,60.0252106 59.6124684,60.0952732 57.9371781,59.8677555 C56.9004469,59.7269372 55.9634318,59.28126 55.0712791,58.7256613 C53.9022361,57.9976542 52.9748168,57.0023201 52.0038705,56.0534302 C51.8740813,55.9265749 51.7828232,55.9001343 51.6261265,55.9793075 C50.8615372,56.3657162 50.0641049,56.6734468 49.2499544,56.9364662 C48.1995716,57.2758364 47.1195609,57.4898863 46.0365824,57.6954196 C44.4792103,57.9910688 42.9014103,58.094603 41.326677,58.2276476 C40.8184017,58.2705764 40.3071587,58.2819647 39.7969544,58.295185 C39.6577673,58.2987995 39.581991,58.3416293 39.5024555,58.460909 C38.558763,59.876371 37.4905243,61.176465 36.0346985,62.1025783 C35.4059329,62.5025539 34.7042103,62.7013038 33.9720684,62.8002827 C32.7398125,62.9667989 31.509634,62.9493204 30.2808899,62.7574034 C29.7985824,62.6820428 29.4070877,62.4356602 29.0437372,62.1307023 C27.7810125,61.0709007 27.0674189,59.6855928 26.6869049,58.1097543 C26.5905523,57.7106205 26.5422275,57.2997518 26.4746619,56.893785 C26.4611092,56.8122846 26.4675888,56.7214756 26.3782598,56.6803788 C26.1243695,56.5634263 25.8692426,56.4491476 25.6127802,56.3379387 C25.5202856,56.2977827 25.5095028,56.3809666 25.4789845,56.4373137 C25.3302017,56.712464 25.2006103,57.0012308 25.0246232,57.2579618 C24.0014942,58.7502699 22.7744318,60.0146641 21.0468103,60.6849376 C20.2332533,61.0005411 19.3805222,61.0310418 18.5173544,60.9760315 C18.0667028,60.9473628 17.6408813,60.8552664 17.2295028,60.6727571 C17.0470856,60.591851 16.8731759,60.4983187 16.7263716,60.3664129 C15.8614727,59.5893372 15.1716211,58.684317 14.7779006,57.5802992 C14.5033845,56.8105516 14.3669178,56.0040151 14.2638877,55.1972804 C14.0442748,53.4775537 13.9287802,51.7499543 14.0179609,50.0152248 C14.0771673,48.8628316 14.1816318,47.7135578 14.3543544,46.5722064 C14.3957544,46.298591 14.4693544,46.0272037 14.5565071,45.7641844 C14.6047824,45.6184641 14.579606,45.5163659 14.4968555,45.4018395 C13.6280985,44.1994866 13.5183415,42.8321028 13.6229544,41.4133728 C13.6535716,40.9984935 13.7524963,40.6012907 13.8538447,40.20285 C13.8857974,40.0772325 13.8801092,39.9902856 13.7580856,39.9141823 C12.8365028,39.3391741 11.9488017,38.710641 10.989677,38.1950003 C9.5961243,37.4457516 8.26143183,36.6027231 6.98693505,35.6627953 C6.03888989,34.963655 5.07348344,34.2891728 4.21541032,33.47511 C3.32276301,32.6282689 2.62638237,31.6486308 2.02130925,30.5740244 C1.10501892,28.9465426 0.486492043,27.225281 0.139315699,25.4007823 C0.0238210753,24.7939859 -0.0022455914,24.1738702 0.000128602151,23.5537546 C0.00611354839,22.0030198 -0.011396129,20.4518889 0.110330753,18.904125 C0.110330753,18.904323 0.112111398,18.8829329 0.112111398,18.8829329 L0.112111398,18.8829329 C0.124872688,18.7789036 0.137683441,18.6748248 0.150444731,18.570944 C0.159644731,18.4614186 0.152917849,18.520192 0.160337204,18.4371072" id="logo-1" stroke="#979797" fill="#7AC02C"></path>
+                <path d="M63.9182168,48.2615313 C64.0934619,48.885014 64.1431716,49.5877688 64.3055566,50.2688859 C64.3317222,50.3785599 64.388406,50.3714793 64.4680899,50.3321651 C64.9576684,50.0908329 65.4304791,49.8252884 65.8113888,49.4229361 C66.1810211,49.0325167 66.1610383,48.7688042 65.7223566,48.4501309 C65.4559028,48.2565799 65.1845028,48.0686241 64.9044963,47.8957701 C64.751806,47.8015446 64.6359157,47.5663522 64.4756576,47.6047257 C64.3151028,47.6431487 64.1911996,47.8386307 64.0536447,47.9677637 C63.9835566,48.033568 63.888391,48.0867463 63.9182168,48.2615313 M15.627763,41.6242043 C15.6038727,42.4824831 16.0060017,43.0976969 16.4752512,43.6846876 C16.5290662,43.7519278 16.5837716,43.7647025 16.6672641,43.7268242 C17.3708168,43.4071111 17.9276641,42.9312797 18.2874533,42.2363481 C18.3620426,42.0923114 18.3444834,42.0201692 18.1977781,41.9249039 C17.4863114,41.462887 16.7125222,41.1094053 16.0027867,40.6461505 C15.8588512,40.5521726 15.8267996,40.6554592 15.7920275,40.7439411 C15.6734662,41.0459776 15.6156447,41.3602441 15.627763,41.6242043 M52.3442705,52.1112098 C52.3213695,52.1179437 52.2974297,52.1222019 52.2758641,52.1318572 C50.2873781,53.019498 48.2259351,53.5379115 46.0281243,53.3897651 C45.2230254,53.3354975 44.4207458,53.2485506 43.6301394,53.0988692 C42.8720791,52.9552781 42.1085286,52.8106967 41.3907802,52.506531 C41.2199372,52.4341413 41.1194791,52.4411723 41.09272,52.6613619 C41.0660598,52.8810563 41.0050232,53.096443 40.9612985,53.3142064 C40.7789802,54.2217024 40.5339437,55.1074617 40.0757738,55.9213264 C39.9811523,56.0894765 40.1301824,56.0460526 40.2024469,56.0500137 C40.7302598,56.079029 41.2560942,56.0252071 41.7810383,55.9900025 C43.0773974,55.9030061 44.3675243,55.7580781 45.6445931,55.5092198 C47.6113157,55.1259305 49.480449,54.5031906 51.1265566,53.3154443 C51.5959049,52.9767673 52.0054533,52.5804062 52.3442705,52.1112098 M16.3367071,54.1541156 C16.3577781,54.8369657 16.3855759,55.5182809 16.5341609,56.1901884 C16.773806,57.2736083 17.3743781,58.0906914 18.3221759,58.6546084 C18.6023308,58.8212732 18.9307114,58.8691039 19.2301071,58.7958724 C19.9885135,58.6103428 20.6735178,58.2977102 21.2222039,57.6876954 C22.1263265,56.6824584 22.7438146,55.5451176 23.0372254,54.227248 C23.0590877,54.1291109 23.0539437,54.061326 22.9756447,53.9861139 C21.845677,52.9015552 20.9134598,51.6608287 20.0948576,50.3295903 C19.5592297,49.4585368 19.1069458,48.5419302 18.6130146,47.6481001 C18.2742963,47.035164 17.9541265,46.4145037 17.735849,45.7458146 C17.7147781,45.6812481 17.6908383,45.5626121 17.6152598,45.5818731 C17.4936813,45.6129185 17.3672555,45.6735734 17.3028555,45.7994385 C17.2811415,45.8419216 17.2780254,45.8944067 17.2688254,45.942782 C17.0580168,47.050761 16.9265953,48.1706233 16.7814727,49.2880099 C16.6840813,50.0380508 16.6052877,50.7912606 16.5458834,51.5452626 C16.4773286,52.4147317 16.3218684,53.2775164 16.3367071,54.1541156 M62.5722469,52.8598643 C62.5727415,51.9766302 62.4946404,51.0981495 62.3662361,50.2263533 C62.2378318,49.3543589 62.0775243,48.4864743 61.7330684,47.6659747 C61.5160275,47.1490466 61.1104361,46.8592896 60.5804469,46.7578845 C59.318563,46.5165029 58.2354856,46.9595558 57.2843738,47.7362849 C56.6455178,48.2580653 56.1393695,48.9186341 55.6555286,49.5892047 C54.9825437,50.5219034 54.4953394,51.5635829 53.9110899,52.548222 C53.7575092,52.8069336 53.7256555,53.083916 53.7767006,53.3595119 C53.8828469,53.9326881 54.0808447,54.4882868 54.4581437,54.9319339 C55.4270125,56.0712553 56.6845931,56.7449948 58.1364125,57.0465362 C58.9474963,57.2149835 59.7548211,57.07877 60.5547759,56.9101247 C61.5550039,56.6992437 62.1270361,56.0480332 62.3547114,55.0925084 C62.5285222,54.3630159 62.5731867,53.6114401 62.5722469,52.8598643 M29.059763,42.6445926 C28.618163,43.0461526 28.1561845,43.2592617 27.7012791,43.4877201 C26.2348189,44.2241941 24.7019802,44.4446808 23.1015759,44.0654517 C22.1847415,43.8481834 21.3242447,43.4675184 20.482791,43.0488759 C20.3319802,42.9738124 20.2589738,42.9926278 20.1681114,43.1308219 C19.932077,43.4897997 19.6557308,43.818673 19.3388254,44.1091727 C19.2305028,44.2084486 19.195434,44.312775 19.1948899,44.4547322 C19.19212,45.1797189 19.3582146,45.8748486 19.5483974,46.5670074 C19.7452082,47.2832796 19.9455308,48.0048498 20.2914211,48.6603681 C21.0850447,50.1643615 22.1487824,51.4446003 23.5090469,52.4857846 C24.4744039,53.2246848 25.5254791,53.7489905 26.6974899,54.049195 C26.8903931,54.0985606 26.9679006,54.0717735 26.9643394,53.8542081 C26.9575135,53.4342288 26.9774963,53.0145466 27.000249,52.5944682 C27.0826533,51.0716594 27.3264533,49.5782621 27.8772662,48.1543331 C28.2619351,47.1598407 28.7394447,46.206346 29.5998426,45.5134445 C29.7270598,45.4109502 29.9355437,45.3221217 29.9583458,45.199376 C29.9869351,45.0456345 29.759606,44.94621 29.6620168,44.8078674 C29.6478211,44.7877151 29.6367415,44.7653347 29.622991,44.7448358 C29.2139372,44.1332366 28.9568813,43.4774212 29.059763,42.6445926 M31.458292,41.6131131 C31.4586877,42.3809296 31.611477,43.1110162 32.0878985,43.7284086 C32.3320447,44.0448043 32.6255049,44.3101508 33.0776404,44.3486233 C33.5839372,44.3917006 34.0916189,44.4682496 34.5866877,44.5824293 C35.3731888,44.7638493 36.0650684,45.1794713 36.7721329,45.5507287 C37.2545394,45.8039938 37.7351157,46.071717 38.1218125,46.4582247 C39.1072512,47.4431114 40.0738447,48.4469125 41.0472641,49.4438311 C41.0815415,49.4789366 41.1031071,49.5270149 41.1391157,49.5596943 C41.4533996,49.8447969 41.6683135,50.2260562 42.0122748,50.4796678 C42.2306017,50.6406385 42.4668834,50.7776937 42.69812,50.9204926 C43.5111329,51.422517 44.3990813,51.7202953 45.3469286,51.7836239 C46.133034,51.8361585 46.9241845,51.867699 47.7120211,51.7487164 C48.3709092,51.6491929 49.0361781,51.5809624 49.6716705,51.3698339 C51.7444404,50.6814381 53.5270146,49.5200334 55.0503566,47.968952 C55.9068469,47.0969082 56.837877,46.3368654 57.9092813,45.7517068 C59.0423652,45.132928 60.2011695,44.6178814 61.5472877,44.8691164 C62.1233759,44.9766117 62.6383286,45.1911567 62.9986125,45.6752074 C63.0820555,45.7873075 63.1161351,45.7487359 63.1775673,45.6766433 C63.3656727,45.4559585 63.5236555,45.2123983 63.6583415,44.9587866 C64.2996211,43.7512346 63.7241265,42.815367 62.4673867,42.384346 C62.074606,42.2496179 61.6826662,42.3855839 61.2953265,42.4397524 C60.2584469,42.584829 59.2654899,42.900779 58.3546899,43.4067645 C57.20192,44.0471809 56.1302684,44.8192061 55.1211372,45.6701074 C53.9737587,46.6375651 52.8009566,47.5690259 51.5337308,48.3763052 C50.7450533,48.8786762 49.9127501,49.3119253 49.0186684,49.5649428 C47.7052447,49.9365467 46.3551695,50.0759292 44.9866447,49.9135721 C44.3241953,49.8349931 43.6941437,49.6470868 43.1247824,49.303904 C42.2796684,48.7945516 41.5876899,48.1093247 41.0603716,47.2787243 C40.4740942,46.3553342 39.7605996,45.5516695 38.9026748,44.8850105 C37.8980447,44.1044193 36.69052,43.769951 35.4908598,43.4413749 C34.9621566,43.2965459 34.4395372,43.1379024 33.9930899,42.8246757 C33.6329544,42.5720543 33.2697523,42.281109 33.2116834,41.7905719 C33.1768125,41.4964081 33.1767135,41.1981842 33.2198447,40.902634 C33.3316297,40.1367981 33.60392,39.4163667 33.902277,38.7129187 C34.4845974,37.3402369 35.1276082,35.9953821 35.5395802,34.5528358 C35.7959437,33.6551931 35.874391,32.7510146 35.7196727,31.8469846 C35.5459609,30.8320923 35.1294877,29.8910257 34.5481071,29.0406691 C34.2312512,28.5772163 33.8025114,28.2081376 33.3010619,27.9386814 C33.2486318,27.9105078 33.1863587,27.8458423 33.1236404,27.9039719 C33.0734856,27.9504657 33.1199802,28.0129526 33.13472,28.0661804 C33.2468017,28.4703647 33.341077,28.8808373 33.477049,29.2769013 C34.0152985,30.8446689 33.969348,32.4450169 33.6991845,34.0406116 C33.39232,35.8526822 32.7626641,37.5709235 32.0434318,39.2580699 C31.7236082,40.0083088 31.418277,40.7697875 31.458292,41.6131131 M49.8815394,19.3899582 C49.8724877,19.7693358 49.8286146,20.0863752 49.7270684,20.3920262 C49.6258189,20.6966375 49.512649,20.9973372 49.4132791,21.3025921 C49.3635695,21.4553929 49.2821049,21.5353088 49.1224899,21.4640084 C48.7414318,21.2938281 48.3336641,21.2399072 47.9282705,21.1679631 C46.679692,20.9463871 45.4272555,20.7625409 44.1546383,20.8533499 C43.3661587,20.9096475 42.5825265,21.0136273 41.8384641,21.3049688 C41.6971996,21.3602762 41.5746813,21.3589393 41.4386598,21.2862524 C40.8191931,20.9553491 40.1601071,20.7212461 39.5022576,20.4790722 C38.2573888,20.0207689 37.0089092,19.5787557 35.6907372,19.3867892 C35.2843544,19.3276198 34.8504211,19.1565483 34.4839544,19.5386493 C34.2383243,19.7947861 33.9563888,20.0167087 33.7289609,20.330183 C33.9149394,20.351078 34.0602598,20.3665264 34.2053329,20.3838564 C35.33812,20.5190797 36.4255996,20.8489927 37.515849,21.1638534 C38.4672082,21.4385581 39.3865652,21.7983282 40.2746619,22.2386578 C40.6760985,22.4377048 40.8999652,22.7310764 40.86272,23.1970544 C40.8411049,23.467798 40.8337845,23.7396308 40.8208254,24.0110181 C40.7968856,24.513191 40.7912469,25.0169978 40.7461372,25.5172396 C40.6625458,26.4433529 40.5524426,27.3669906 40.4603437,28.2923612 C40.4015824,28.8824713 40.3125501,29.4678775 40.2085802,30.0511051 C40.1896856,30.157313 40.1729178,30.2788703 40.000492,30.2683733 C39.7050039,30.2503502 39.4094168,30.2935265 39.1147695,30.3010527 C38.3821824,30.319769 37.6482598,30.3311573 36.9158211,30.2849111 C36.7815308,30.2764441 36.7550684,30.3153128 36.7893953,30.438405 C36.877834,30.7555929 36.9621673,31.0740186 37.0415544,31.3935337 C37.069649,31.5066736 37.1262834,31.5234094 37.237277,31.5172201 C38.0935695,31.4694884 38.9509501,31.492265 39.8078856,31.4972164 C40.0411501,31.4985533 40.2575974,31.5569305 40.4141953,31.7622658 C40.5588232,31.9519051 40.7273415,32.1229767 40.877163,32.3088529 C41.4348017,33.0006651 41.9370426,33.7361488 42.5449351,34.3886468 C43.601649,35.5228682 44.5404447,36.756118 45.5122318,37.9614914 C45.6411802,38.1214222 45.650677,38.2901666 45.5690146,38.4689128 C45.3908017,38.8588865 45.2578469,39.2671805 45.093434,39.661759 C44.6561867,40.7112122 44.1947028,41.7501188 43.6566017,42.7538704 C43.1894297,43.6251715 42.7064297,44.4866688 42.1668942,45.3148926 C42.0819178,45.445412 42.0871609,45.5338444 42.1765394,45.6427756 C42.3906619,45.9037648 42.6052791,46.1645065 42.8137135,46.4300016 C42.9143695,46.5582434 42.9678383,46.5432406 43.0648834,46.412127 C43.4294705,45.9195104 43.6984963,45.3695563 44.0041243,44.8436166 C44.4668942,44.0472304 44.8701114,43.2162339 45.3002361,42.4008343 C45.9663953,41.1381235 46.5331351,39.8313451 47.0079243,38.4858466 C47.0889437,38.2562493 47.2118082,38.1873751 47.432806,38.1701937 C48.000634,38.126027 48.5689071,38.1316221 49.1364877,38.1421687 C50.6205071,38.1698471 52.0985415,38.0524489 53.5775652,37.9672845 C53.8841329,37.9496575 54.0821308,38.0646294 54.2428834,38.2915034 C55.2102684,39.6569066 56.178692,41.0222108 56.7843092,42.6010696 C56.8301609,42.7205474 56.8747759,42.7659023 56.99492,42.6828671 C57.2454469,42.509716 57.4988426,42.3404765 57.7551071,42.1759408 C57.8740146,42.0996395 57.8982017,42.0221002 57.8307351,41.890442 C57.6729006,41.5824638 57.5315372,41.2660681 57.3812211,40.9541288 C56.845692,39.8424363 56.1448598,38.8330401 55.4244404,37.8388447 C55.2428146,37.5882039 55.1980017,37.372124 55.3078576,37.0952407 C55.4171695,36.8196943 55.511049,36.537711 55.603791,36.2559753 C56.1515372,34.5920015 56.5154813,32.8883174 56.6950297,31.1456161 C56.7065049,31.0345558 56.7236189,30.961869 56.8581566,30.9491934 C57.1359867,30.9230004 57.4115415,30.8714066 57.68952,30.8481844 C57.8428039,30.8353603 57.8504211,30.766387 57.8041738,30.6541879 C57.7319092,30.4790067 57.6508404,30.307341 57.5833738,30.1304268 C57.4277652,29.7220338 57.4301394,29.721093 56.9978877,29.7851644 C56.9653415,29.7899673 56.9323996,29.7936808 56.9004963,29.8013555 C56.6234576,29.8679521 56.4495974,29.7714489 56.3110533,29.51145 C55.5571974,28.0964336 54.6485243,26.783862 53.6345458,25.5439278 C52.7040103,24.4059927 51.6724727,23.3648084 50.57792,22.3861606 C50.4385351,22.2615334 50.4049501,22.1676545 50.4979888,21.9957412 C50.7588533,21.5139682 50.8840426,20.9819878 51.030748,20.4584743 C51.0570125,20.3647439 51.0371286,20.3054755 50.9705028,20.2402653 C50.6520641,19.9283754 50.2866856,19.679121 49.8815394,19.3899582 M32.1997824,60.4721752 C33.3693695,60.4779188 34.3498125,60.1752386 35.2510662,59.5855742 C35.7391609,59.2662572 36.1513802,58.8622214 36.5490576,58.4484314 C37.6882748,57.2631608 38.4991114,55.8647812 39.1325759,54.3548461 C39.3943802,53.7308188 39.65292,53.1084255 39.752092,52.4330025 C39.8072426,52.0574869 39.8620469,51.6840509 39.7217716,51.3117042 C39.4186168,50.5067521 39.0724791,49.7294784 38.5172641,49.0558874 C37.6307006,47.9802908 36.6433824,47.0507114 35.3044361,46.5515589 C34.2416877,46.1553464 33.1612318,46.0440385 32.0547092,46.2671495 C31.0275738,46.4742178 30.4917974,47.1994025 30.1771178,48.1383896 C29.8407738,49.1418936 29.6818017,50.1824837 29.4997802,51.2206476 C29.15572,53.1831919 28.9773092,55.1532128 29.1942017,57.1403161 C29.2986662,58.0975243 29.6136426,58.9881855 30.271492,59.7220848 C30.5723716,60.0576919 30.9087652,60.352846 31.3824662,60.4024592 C31.6847802,60.4340493 31.986649,60.4864353 32.1997824,60.4721752 M2.97004688,21.8872556 C2.97004688,22.4540445 2.96890925,22.907842 2.97029419,23.3616395 C2.97281677,24.2153136 3.10132,25.05245 3.32800602,25.872999 C3.59426194,26.8368422 3.94950065,27.7684021 4.44466839,28.6389605 C4.80332,29.2694741 5.21019742,29.8708734 5.63502968,30.459102 C5.98270065,30.9405284 6.3485243,31.4111112 6.77088344,31.8266838 C7.43442108,32.4795778 8.16201247,33.0625578 8.8747157,33.6608873 C9.55586194,34.2326771 10.2153437,34.8355618 10.9760254,35.302233 C12.3532555,36.1470936 13.693834,37.044043 14.9793114,38.0235822 C15.6541759,38.5378365 16.272406,39.1204204 16.9487049,39.6335854 C17.8337845,40.3052454 18.822092,40.7950892 19.7913071,41.3238017 C21.2073652,42.096322 22.6545845,42.7796178 24.2445523,43.1100755 C25.7373265,43.4203809 27.1276641,43.1953884 28.3680318,42.2716517 C28.7221824,42.0078897 29.1174361,41.7705682 29.3214189,41.3554908 C29.4603092,41.0729133 29.6101308,40.7968222 29.793191,40.5451416 C30.6758963,39.3316975 31.2917523,37.9821388 31.7523953,36.5682117 C32.2373738,35.0793697 32.5603135,33.5524017 32.67472,31.9797321 C32.7301673,31.2174117 32.6343092,30.513518 32.3558856,29.8079409 C31.8824813,28.6083112 31.554249,27.36501 31.4330662,26.0783344 C31.3327071,25.012492 31.3533824,23.9393711 31.2847781,22.8701122 C31.2230985,21.9091904 31.1642877,20.9482686 31.0728318,19.9899711 C30.9129695,18.3153518 30.6156017,16.6636576 30.1968533,15.0348389 C29.68012,13.0249591 28.9342275,11.1188115 27.7182447,9.41245361 C27.0196383,8.43202322 26.2385286,7.53022135 25.3142748,6.76765338 C23.3777243,5.1698306 21.1900039,4.07630981 18.7279652,3.52670235 C17.2381587,3.19416508 15.7360361,3.10840651 14.2763523,3.49887538 C12.619363,3.94217588 11.0571437,4.65196173 9.67293935,5.71206045 C8.52185118,6.5935615 7.52849849,7.61721778 6.75856731,8.8427929 C5.88140172,10.2390434 5.07872645,11.6765393 4.43749634,13.2023684 C3.62225763,15.1422352 3.12708989,17.150481 3.02712645,19.2555271 C2.98369849,20.1701532 2.95906624,21.0846802 2.97004688,21.8872556 M0.160337204,18.4371072 C0.174236129,18.263758 0.188184516,18.0904088 0.202083441,17.9172082 C0.205496344,17.8858162 0.205496344,17.8858162 0.211382366,17.8420457 C0.513449032,15.1577331 1.34021247,12.6210719 2.40226839,10.1559091 C3.42519957,7.78140682 4.87504043,5.70493041 6.75747914,3.92088478 C7.59284903,3.12915295 8.45126839,2.38500425 9.44481892,1.80217277 C10.179434,1.3712013 10.9780039,1.09248595 11.771677,0.79822314 C13.2168189,0.262380622 14.7042017,0.0185232569 16.2462404,0.0524404742 C17.3578082,0.0769004819 18.4687824,0.0925964788 19.5636318,0.301843428 C20.533391,0.487175025 21.4686748,0.797777513 22.4029695,1.11679741 C23.6966082,1.55851346 24.8175243,2.3062767 25.9572856,3.0284411 C27.368991,3.92286535 28.4945071,5.1216533 29.5562168,6.38827569 C30.7496942,7.81210561 31.5919888,9.43295248 32.2490963,11.1648102 C32.5861329,12.0529956 32.873163,12.9570256 33.0790254,13.8772468 C33.2785071,14.7690468 33.5345738,15.6501022 33.6680232,16.556905 C33.6771243,16.6185502 33.6570426,16.7054475 33.722877,16.7364434 C33.8117609,16.7783324 33.8464834,16.6802943 33.897034,16.6346918 C34.4070899,16.1742594 35.0272985,15.9085662 35.639791,15.6228199 C36.2300254,15.3474715 36.8575544,15.2344801 37.4846877,15.0884133 C39.5758082,14.6012432 41.6922039,14.7667691 43.8007351,14.8084601 C45.1888963,14.8358909 46.5389222,15.1703592 47.8678275,15.560432 C48.9814232,15.8873247 50.0722662,16.2857653 51.068834,16.8899869 C52.7572813,17.9137422 54.1856555,19.2331467 55.3656791,20.8158182 C56.3007652,22.0699135 57.1544856,23.3790685 57.9957415,24.6988692 C59.2415006,26.6531941 60.2156619,28.7407617 61.1023243,30.8698716 C61.6173265,32.1064884 62.0658512,33.3748438 62.4716899,34.6520622 C63.0454533,36.4575475 63.4981329,38.2972471 63.7678512,40.1765085 C63.7977759,40.3848147 63.8900727,40.4796838 64.0783265,40.5855452 C65.3927888,41.3246434 66.2712899,42.3751364 66.399892,43.9470632 C66.4464856,44.517021 66.4587523,45.0812847 66.3354426,45.6416367 C66.3129867,45.743735 66.3507265,45.7863172 66.4271953,45.8394954 C66.6981501,46.0278474 66.9870598,46.1842627 67.2724576,46.3484022 C67.9325824,46.7281265 68.4884404,47.2188616 68.8413049,47.9103767 C68.8711308,47.968754 68.906249,48.0292603 68.9159437,48.0922919 C69.0655178,49.0652951 69.0343566,49.9924978 68.3440103,50.7974004 C67.5342125,51.7415864 66.6236103,52.5462414 65.4634705,53.0306882 C65.3284877,53.0870849 65.3345716,53.1772007 65.3345716,53.2861814 C65.3344727,53.9875003 65.3442662,54.6904037 65.2499415,55.3867217 C65.1559135,56.0808116 65.0535759,56.7828732 64.77352,57.426112 C64.3915716,58.3034043 63.7384705,58.9375325 62.8543308,59.3273082 C61.2711888,60.0252106 59.6124684,60.0952732 57.9371781,59.8677555 C56.9004469,59.7269372 55.9634318,59.28126 55.0712791,58.7256613 C53.9022361,57.9976542 52.9748168,57.0023201 52.0038705,56.0534302 C51.8740813,55.9265749 51.7828232,55.9001343 51.6261265,55.9793075 C50.8615372,56.3657162 50.0641049,56.6734468 49.2499544,56.9364662 C48.1995716,57.2758364 47.1195609,57.4898863 46.0365824,57.6954196 C44.4792103,57.9910688 42.9014103,58.094603 41.326677,58.2276476 C40.8184017,58.2705764 40.3071587,58.2819647 39.7969544,58.295185 C39.6577673,58.2987995 39.581991,58.3416293 39.5024555,58.460909 C38.558763,59.876371 37.4905243,61.176465 36.0346985,62.1025783 C35.4059329,62.5025539 34.7042103,62.7013038 33.9720684,62.8002827 C32.7398125,62.9667989 31.509634,62.9493204 30.2808899,62.7574034 C29.7985824,62.6820428 29.4070877,62.4356602 29.0437372,62.1307023 C27.7810125,61.0709007 27.0674189,59.6855928 26.6869049,58.1097543 C26.5905523,57.7106205 26.5422275,57.2997518 26.4746619,56.893785 C26.4611092,56.8122846 26.4675888,56.7214756 26.3782598,56.6803788 C26.1243695,56.5634263 25.8692426,56.4491476 25.6127802,56.3379387 C25.5202856,56.2977827 25.5095028,56.3809666 25.4789845,56.4373137 C25.3302017,56.712464 25.2006103,57.0012308 25.0246232,57.2579618 C24.0014942,58.7502699 22.7744318,60.0146641 21.0468103,60.6849376 C20.2332533,61.0005411 19.3805222,61.0310418 18.5173544,60.9760315 C18.0667028,60.9473628 17.6408813,60.8552664 17.2295028,60.6727571 C17.0470856,60.591851 16.8731759,60.4983187 16.7263716,60.3664129 C15.8614727,59.5893372 15.1716211,58.684317 14.7779006,57.5802992 C14.5033845,56.8105516 14.3669178,56.0040151 14.2638877,55.1972804 C14.0442748,53.4775537 13.9287802,51.7499543 14.0179609,50.0152248 C14.0771673,48.8628316 14.1816318,47.7135578 14.3543544,46.5722064 C14.3957544,46.298591 14.4693544,46.0272037 14.5565071,45.7641844 C14.6047824,45.6184641 14.579606,45.5163659 14.4968555,45.4018395 C13.6280985,44.1994866 13.5183415,42.8321028 13.6229544,41.4133728 C13.6535716,40.9984935 13.7524963,40.6012907 13.8538447,40.20285 C13.8857974,40.0772325 13.8801092,39.9902856 13.7580856,39.9141823 C12.8365028,39.3391741 11.9488017,38.710641 10.989677,38.1950003 C9.5961243,37.4457516 8.26143183,36.6027231 6.98693505,35.6627953 C6.03888989,34.963655 5.07348344,34.2891728 4.21541032,33.47511 C3.32276301,32.6282689 2.62638237,31.6486308 2.02130925,30.5740244 C1.10501892,28.9465426 0.486492043,27.225281 0.139315699,25.4007823 C0.0238210753,24.7939859 -0.0022455914,24.1738702 0.000128602151,23.5537546 C0.00611354839,22.0030198 -0.011396129,20.4518889 0.110330753,18.904125 C0.110330753,18.904323 0.112111398,18.8829329 0.112111398,18.8829329 L0.112111398,18.8829329 C0.124872688,18.7789036 0.137683441,18.6748248 0.150444731,18.570944 C0.159644731,18.4614186 0.152917849,18.520192 0.160337204,18.4371072" id="logo-2" fill="#016C17"></path>
+                <path d="M19.7368688,22.0989337 C19.6939355,21.2314947 19.8264946,20.4523395 20.2190774,19.7326508 C20.5184731,19.183786 20.9717462,18.8233228 21.6139656,18.8169354 C22.2448086,18.8106471 22.7723247,19.0691112 23.1030796,19.6284234 C23.8399204,20.8744479 23.8585677,22.1571624 23.1604065,23.4094752 C22.6869527,24.258693 21.9536731,24.640794 21.0002366,24.2462154 C20.3867054,23.9923562 20.0716796,23.433341 19.8725935,22.8189195 C19.7915247,22.5687738 19.7140667,22.3147165 19.7368688,22.0989337" id="logo-3" fill="#016C17"></path>
+                <path d="M6.99125806,21.2147886 C6.97394624,22.0541036 6.81769462,22.8549955 6.29215699,23.538935 C5.86396129,24.0962171 5.28287742,24.0472971 4.90632043,23.4488687 C4.47955914,22.7706234 4.4244086,22.0234543 4.48168602,21.2569252 C4.52110753,20.729104 4.6191914,20.2132157 4.87347742,19.7361465 C4.97952473,19.5371985 5.09655269,19.3541445 5.25839355,19.1962438 C5.62871828,18.8349388 6.08174409,18.8538532 6.41076774,19.2587307 C6.65471613,19.5588857 6.78776989,19.9140014 6.88367742,20.2836248 C6.96266882,20.5882361 7.00451398,20.8981454 6.99125806,21.2147886" id="logo-4" fill="#016C17"></path>
+                <path d="M11.3150454,29.294563 C11.7232088,29.4225076 12.0630153,29.5899646 12.4305701,29.6684941 C13.0812475,29.8074804 13.731183,29.9687481 14.4026346,29.938594 C15.1428884,29.9053205 15.8771572,29.8191163 16.5751701,29.5454018 C16.6739465,29.5066817 16.7412153,29.4846479 16.768469,29.626308 C16.9286282,30.4596318 16.236897,31.6186103 15.4295228,31.8471183 C14.9189228,31.9916502 14.4201443,31.9134673 13.9294776,31.7374939 C13.3488389,31.5292372 12.8935873,31.1356489 12.4478819,30.7313656 C12.0622239,30.3815479 11.7400755,29.9741947 11.4435981,29.5470853 C11.3993787,29.4834596 11.372026,29.4080495 11.3150454,29.294563" id="logo-5" fill="#016C17"></path>
+                <path d="M45.2469454,22.0694579 C46.6334744,22.0223699 47.9428422,22.3346559 49.2363325,22.7397315 C49.5406744,22.8350463 49.733726,23.0875686 49.9615991,23.2831001 C50.5124615,23.7558616 50.9946701,24.2986856 51.4792529,24.8391329 C52.2721841,25.7233573 53.0271776,26.638528 53.7313239,27.5940032 C54.3977303,28.4982808 54.9476034,29.4752452 55.462012,30.4736987 C55.64344,30.8258931 55.5904163,31.1841778 55.5352163,31.5285985 C55.2921583,33.0436335 54.8974981,34.5227708 54.4442249,35.9884897 C54.2995475,36.4562502 54.1267755,36.7348666 53.5594422,36.7582868 C52.50164,36.8018593 51.4517518,36.9742676 50.3873217,36.9846161 C49.2681862,36.9954597 48.1504357,37.0829513 47.029668,37.0694339 C46.5730809,37.0639378 46.2315432,36.9222778 45.9499045,36.5320069 C45.4488508,35.8376695 44.9027862,35.1752192 44.3619647,34.5104913 C43.6287841,33.6093331 42.815969,32.7756132 42.1052938,31.854897 C41.8686658,31.5483051 41.629911,31.2433472 41.3881389,30.9408156 C41.338726,30.8789724 41.3250744,30.8334688 41.3416938,30.7463238 C41.5757991,29.5168371 41.7453561,28.2780912 41.8570916,27.031225 C41.9872766,25.5789739 42.1333389,24.1277131 42.1015841,22.6666485 C42.0988142,22.5381097 42.1506508,22.4741374 42.2631282,22.4248212 C42.6551174,22.252908 43.0791088,22.2373605 43.4911798,22.1691795 C44.0773088,22.0721812 44.6703131,22.0549998 45.2469454,22.0694579" id="logo-6" fill="#016C17"></path>
+            </g>
+            <path d="M115.585,49.77 L115.585,2.34 C115.585,1.739997 115.884997,1.2300021 116.485,0.81 C117.085003,0.3899979 117.744996,0.18 118.465,0.18 C119.245004,0.18 119.934997,0.3899979 120.535,0.81 C121.135003,1.2300021 121.435,1.739997 121.435,2.34 L121.435,20.43 L133.045,20.43 C133.645003,20.43 134.139998,20.6699976 134.53,21.15 C134.920002,21.6300024 135.115,22.1999967 135.115,22.86 C135.115,23.5200033 134.920002,24.0899976 134.53,24.57 C134.139998,25.0500024 133.645003,25.29 133.045,25.29 L121.435,25.29 L121.435,49.77 C121.435,52.7100147 122.049994,54.7649941 123.28,55.935 C124.510006,57.1050058 126.684984,57.69 129.805,57.69 L132.325,57.69 C133.105004,57.69 133.749997,57.9449974 134.26,58.455 C134.770003,58.9650025 135.025,59.5799964 135.025,60.3 C135.025,61.0200036 134.770003,61.6499973 134.26,62.19 C133.749997,62.7300027 133.105004,63 132.325,63 L129.805,63 C120.324953,63 115.585,58.5900441 115.585,49.77 L115.585,49.77 Z M142.045,46.71 L142.045,22.68 C142.045,22.1399973 142.329997,21.6300024 142.9,21.15 C143.470003,20.6699976 144.174996,20.43 145.015,20.43 C145.735004,20.43 146.394997,20.6699976 146.995,21.15 C147.595003,21.6300024 147.895,22.1399973 147.895,22.68 L147.895,46.71 C147.895,49.710015 149.004989,52.3799883 151.225,54.72 C153.445011,57.0600117 156.084985,58.23 159.145,58.23 C162.205015,58.23 164.844989,57.0600117 167.065,54.72 C169.285011,52.3799883 170.395,49.710015 170.395,46.71 L170.395,22.59 C170.395,21.989997 170.694997,21.4800021 171.295,21.06 C171.895003,20.6399979 172.584996,20.43 173.365,20.43 C174.145004,20.43 174.819997,20.6399979 175.39,21.06 C175.960003,21.4800021 176.245,21.989997 176.245,22.59 L176.245,46.71 C176.245,51.2100225 174.550017,55.154983 171.16,58.545 C167.769983,61.9350169 163.765023,63.63 159.145,63.63 C154.464977,63.63 150.445017,61.9350169 147.085,58.545 C143.724983,55.154983 142.045,51.2100225 142.045,46.71 L142.045,46.71 Z M187.135,60.66 L187.135,22.59 C187.135,21.989997 187.404997,21.4800021 187.945,21.06 C188.485003,20.6399979 189.174996,20.43 190.015,20.43 C190.795004,20.43 191.454997,20.6399979 191.995,21.06 C192.535003,21.4800021 192.805,21.989997 192.805,22.59 L192.805,27 C193.885005,25.0199901 195.47499,23.3400069 197.575,21.96 C199.675011,20.5799931 202.104986,19.89 204.865,19.89 L208.015,19.89 C208.615003,19.89 209.154998,20.1599973 209.635,20.7 C210.115002,21.2400027 210.355,21.8699964 210.355,22.59 C210.355,23.3100036 210.115002,23.9399973 209.635,24.48 C209.154998,25.0200027 208.615003,25.29 208.015,25.29 L204.865,25.29 C201.744984,25.29 198.985012,26.5049878 196.585,28.935 C194.184988,31.3650121 192.985,34.5299805 192.985,38.43 L192.985,60.66 C192.985,61.260003 192.700003,61.7999976 192.13,62.28 C191.559997,62.7600024 190.855004,63 190.015,63 C189.234996,63 188.560003,62.7600024 187.99,62.28 C187.419997,61.7999976 187.135,61.260003 187.135,60.66 L187.135,60.66 Z M216.745,49.77 L216.745,2.34 C216.745,1.739997 217.044997,1.2300021 217.645,0.81 C218.245003,0.3899979 218.904996,0.18 219.625,0.18 C220.405004,0.18 221.094997,0.3899979 221.695,0.81 C222.295003,1.2300021 222.595,1.739997 222.595,2.34 L222.595,20.43 L234.205,20.43 C234.805003,20.43 235.299998,20.6699976 235.69,21.15 C236.080002,21.6300024 236.275,22.1999967 236.275,22.86 C236.275,23.5200033 236.080002,24.0899976 235.69,24.57 C235.299998,25.0500024 234.805003,25.29 234.205,25.29 L222.595,25.29 L222.595,49.77 C222.595,52.7100147 223.209994,54.7649941 224.44,55.935 C225.670006,57.1050058 227.844984,57.69 230.965,57.69 L233.485,57.69 C234.265004,57.69 234.909997,57.9449974 235.42,58.455 C235.930003,58.9650025 236.185,59.5799964 236.185,60.3 C236.185,61.0200036 235.930003,61.6499973 235.42,62.19 C234.909997,62.7300027 234.265004,63 233.485,63 L230.965,63 C221.484953,63 216.745,58.5900441 216.745,49.77 L216.745,49.77 Z M244.375,2.53 C244.375,1.929997 244.644997,1.4200021 245.185,1 C245.725003,0.5799979 246.414996,0.37 247.255,0.37 C248.095004,0.37 248.799997,0.5799979 249.37,1 C249.940003,1.4200021 250.225,1.929997 250.225,2.53 L250.225,60.66 C250.225,61.260003 249.940003,61.7999976 249.37,62.28 C248.799997,62.7600024 248.095004,63 247.255,63 C246.474996,63 245.800003,62.7600024 245.23,62.28 C244.659997,61.7999976 244.375,61.260003 244.375,60.66 L244.375,2.53 Z M260.665,46.53 L260.665,36.45 C260.665,31.9499775 262.344983,28.0650163 265.705,24.795 C269.065017,21.5249836 273.114976,19.89 277.855,19.89 C282.415023,19.89 286.359983,21.4499844 289.69,24.57 C293.020017,27.6900156 294.685,31.5899766 294.685,36.27 C294.685,37.9500084 294.490002,39.2999949 294.1,40.32 C293.709998,41.3400051 293.080004,42.0599979 292.21,42.48 C291.339996,42.9000021 290.545004,43.1699994 289.825,43.29 C289.104996,43.4100006 288.115006,43.47 286.855,43.47 L266.515,43.47 L266.515,46.8 C266.515,50.3400177 267.789987,53.1749893 270.34,55.305 C272.890013,57.4350106 276.17498,58.5 280.195,58.5 C282.23501,58.5 284.019992,58.200003 285.55,57.6 C287.080008,56.999997 288.249996,56.400003 289.06,55.8 C289.870004,55.199997 290.514998,54.9 290.995,54.9 C291.655003,54.9 292.239997,55.2149968 292.75,55.845 C293.260003,56.4750031 293.515,57.089997 293.515,57.69 C293.515,58.9500063 292.225013,60.2549932 289.645,61.605 C287.064987,62.9550067 283.855019,63.63 280.015,63.63 C274.314972,63.63 269.665018,62.0550157 266.065,58.905 C262.464982,55.7549842 260.665,51.6300255 260.665,46.53 L260.665,46.53 Z M266.515,39.15 L284.515,39.15 C286.315009,39.15 287.514997,38.9550019 288.115,38.565 C288.715003,38.174998 289.015,37.3500063 289.015,36.09 C289.015,33.089985 287.950011,30.4500114 285.82,28.17 C283.689989,25.8899886 281.005016,24.75 277.765,24.75 C274.644984,24.75 271.990011,25.8299892 269.8,27.99 C267.609989,30.1500108 266.515,32.729985 266.515,35.73 L266.515,39.15 Z" id="logo-7" fill="#006B32"></path>
+            <path d="M70.765,45.81 L70.765,37.26 C70.765,32.5199763 72.5949817,28.4250172 76.255,24.975 C79.9150183,21.5249827 84.3249742,19.8 89.485,19.8 C94.4050246,19.8 98.6199825,21.3749842 102.13,24.525 C105.640018,27.6750157 107.395,31.649976 107.395,36.45 C107.395,38.250009 107.185002,39.7049944 106.765,40.815 C106.344998,41.9250055 105.685005,42.7049977 104.785,43.155 C103.884996,43.6050022 103.045004,43.8899994 102.265,44.01 C101.484996,44.1300006 100.465006,44.19 99.205,44.19 L80.215,44.19 L80.215,46.26 C80.215,49.260015 81.2949892,51.6449911 83.455,53.415 C85.6150108,55.1850088 88.4349826,56.07 91.915,56.07 C94.3750123,56.07 96.6999891,55.5000057 98.89,54.36 C101.080011,53.2199943 102.414998,52.65 102.895,52.65 C103.915005,52.65 104.784996,53.1299952 105.505,54.09 C106.225004,55.0500048 106.585,55.9799955 106.585,56.88 C106.585,58.3800075 105.145014,59.8949923 102.265,61.425 C99.3849856,62.9550076 95.845021,63.72 91.645,63.72 C85.5249694,63.72 80.5150195,62.0700165 76.615,58.77 C72.7149805,55.4699835 70.765,51.1500267 70.765,45.81 Z M80.215,38.34 L95.155,38.34 C96.4750066,38.34 97.3599978,38.1600018 97.81,37.8 C98.2600023,37.4399982 98.485,36.7200054 98.485,35.64 C98.485,33.239988 97.6150087,31.2000084 95.875,29.52 C94.1349913,27.8399916 91.9750129,27 89.395,27 C86.8749874,27 84.715009,27.794992 82.915,29.385 C81.114991,30.9750079 80.215,32.9999877 80.215,35.46 L80.215,38.34 Z" id="logo-8" fill="#78C336"></path>
+            <path d="M28.105,45.81 L28.105,37.26 C28.105,32.5199763 29.9349817,28.4250172 33.595,24.975 C37.2550183,21.5249827 41.6649742,19.8 46.825,19.8 C51.7450246,19.8 55.9599825,21.3749842 59.47,24.525 C62.9800176,27.6750157 64.735,31.649976 64.735,36.45 C64.735,38.250009 64.5250021,39.7049944 64.105,40.815 C63.6849979,41.9250055 63.0250045,42.7049977 62.125,43.155 C61.2249955,43.6050022 60.3850039,43.8899994 59.605,44.01 C58.8249961,44.1300006 57.8050063,44.19 56.545,44.19 L37.555,44.19 L37.555,46.26 C37.555,49.260015 38.6349892,51.6449911 40.795,53.415 C42.9550108,55.1850088 45.7749826,56.07 49.255,56.07 C51.7150123,56.07 54.0399891,55.5000057 56.23,54.36 C58.420011,53.2199943 59.7549976,52.65 60.235,52.65 C61.2550051,52.65 62.1249964,53.1299952 62.845,54.09 C63.5650036,55.0500048 63.925,55.9799955 63.925,56.88 C63.925,58.3800075 62.4850144,59.8949923 59.605,61.425 C56.7249856,62.9550076 53.185021,63.72 48.985,63.72 C42.8649694,63.72 37.8550195,62.0700165 33.955,58.77 C30.0549805,55.4699835 28.105,51.1500267 28.105,45.81 Z M37.555,38.34 L52.495,38.34 C53.8150066,38.34 54.6999978,38.1600018 55.15,37.8 C55.6000023,37.4399982 55.825,36.7200054 55.825,35.64 C55.825,33.239988 54.9550087,31.2000084 53.215,29.52 C51.4749913,27.8399916 49.3150129,27 46.735,27 C44.2149874,27 42.055009,27.794992 40.255,29.385 C38.454991,30.9750079 37.555,32.9999877 37.555,35.46 L37.555,38.34 Z" id="logo-9" fill="#78C336"></path>
+            <path d="M0.025,48.96 L0.025,3.87 C0.025,3.0299958 0.5049952,2.310003 1.465,1.71 C2.4250048,1.109997 3.504994,0.81 4.705,0.81 C5.905006,0.81 6.99999505,1.109997 7.99,1.71 C8.98000495,2.310003 9.475,3.0299958 9.475,3.87 L9.475,20.34 L20.455,20.34 C21.2350039,20.34 21.8649976,20.6849965 22.345,21.375 C22.8250024,22.0650034 23.065,22.8899952 23.065,23.85 C23.065,24.8100048 22.8250024,25.6349965 22.345,26.325 C21.8649976,27.0150034 21.2350039,27.36 20.455,27.36 L9.475,27.36 L9.475,48.96 C9.475,51.1200108 9.93999535,52.6499955 10.87,53.55 C11.8000047,54.4500045 13.4349883,54.9 15.775,54.9 L18.925,54.9 C20.1850063,54.9 21.1749964,55.2899961 21.895,56.07 C22.6150036,56.8500039 22.975,57.8099943 22.975,58.95 C22.975,60.0900057 22.6150036,61.0499961 21.895,61.83 C21.1749964,62.6100039 20.1850063,63 18.925,63 L15.775,63 C5.2749475,63 0.025,58.3200468 0.025,48.96 L0.025,48.96 Z" id="logo-10" fill="#78C336"></path>
+        </g>
+    </g>
+</svg>
+
+</a>
+          </div>
+        
+      </div>
+
+      <div class="col-4_sm-3 text-right">
+        <a href="/cart" class="cart-link header-link svg-wrapper">
+          
+
+
+          
+
+
+          
+          <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<svg class="cart-message" width="60px" viewBox="0 0 61 15" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Fill me!</title>
+    <desc>A speech bubble coming from the cart icon that says "Feed me!"</desc>
+    <style>
+    #cart-message-1 {
+      fill: #444;
+    }
+    .svg-wrapper:hover #cart-message-1 {
+      fill: #2694cf;
+    }
+    </style>
+    <defs></defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group">
+            <path d="M60.2813,9.875 L53.4373,6.131 L53.4373,2.41 C53.4373,1.084 52.3533,0 51.0273,0 L2.4103,0 C1.0843,0 0.0003,1.084 0.0003,2.41 L0.0003,12 C0.0003,13.326 1.0843,14.41 2.4103,14.41 L51.0273,14.41 C52.3533,14.41 53.4373,13.326 53.4373,12 L53.4373,9.875 L60.2813,9.875 Z" id="cart-message-1" fill="#444444"></path>
+            <path d="M7.115,10.59 L7.115,4.1 C7.115,3.9733327 7.1716661,3.8733337 7.285,3.8 C7.3983339,3.7266663 7.5316659,3.69 7.685,3.69 L11.175,3.69 C11.308334,3.69 11.408333,3.74499945 11.475,3.855 C11.541667,3.96500055 11.575,4.0966659 11.575,4.25 C11.575,4.4100008 11.5400004,4.5466661 11.47,4.66 C11.3999997,4.7733339 11.3016673,4.83 11.175,4.83 L8.415,4.83 L8.415,6.83 L9.945,6.83 C10.0716673,6.83 10.1699997,6.8799995 10.24,6.98 C10.3100004,7.0800005 10.345,7.2033326 10.345,7.35 C10.345,7.483334 10.3100004,7.5999995 10.24,7.7 C10.1699997,7.8000005 10.0716673,7.85 9.945,7.85 L8.415,7.85 L8.415,10.59 C8.415,10.7166673 8.35000065,10.8166663 8.22,10.89 C8.08999935,10.9633337 7.9383342,11 7.765,11 C7.5849991,11 7.4316673,10.9633337 7.305,10.89 C7.1783327,10.8166663 7.115,10.7166673 7.115,10.59 L7.115,10.59 Z M12.695,10.59 L12.695,4.1 C12.695,3.9733327 12.7516661,3.8733337 12.865,3.8 C12.9783339,3.7266663 13.1116659,3.69 13.265,3.69 L16.825,3.69 C16.958334,3.69 17.0599997,3.7466661 17.13,3.86 C17.2000004,3.9733339 17.235,4.1033326 17.235,4.25 C17.235,4.4100008 17.1983337,4.5466661 17.125,4.66 C17.0516663,4.7733339 16.9516673,4.83 16.825,4.83 L13.995,4.83 L13.995,6.83 L15.515,6.83 C15.6416673,6.83 15.7416663,6.88166615 15.815,6.985 C15.8883337,7.08833385 15.925,7.2099993 15.925,7.35 C15.925,7.4766673 15.8900004,7.59166615 15.82,7.695 C15.7499997,7.79833385 15.648334,7.85 15.515,7.85 L13.995,7.85 L13.995,9.86 L16.825,9.86 C16.9516673,9.86 17.0516663,9.9166661 17.125,10.03 C17.1983337,10.1433339 17.235,10.2799992 17.235,10.44 C17.235,10.5866674 17.2000004,10.7166661 17.13,10.83 C17.0599997,10.9433339 16.958334,11 16.825,11 L13.265,11 C13.1116659,11 12.9783339,10.9633337 12.865,10.89 C12.7516661,10.8166663 12.695,10.7166673 12.695,10.59 L12.695,10.59 Z M18.495,10.59 L18.495,4.1 C18.495,3.9733327 18.5516661,3.8733337 18.665,3.8 C18.7783339,3.7266663 18.9116659,3.69 19.065,3.69 L22.625,3.69 C22.758334,3.69 22.8599997,3.7466661 22.93,3.86 C23.0000004,3.9733339 23.035,4.1033326 23.035,4.25 C23.035,4.4100008 22.9983337,4.5466661 22.925,4.66 C22.8516663,4.7733339 22.7516673,4.83 22.625,4.83 L19.795,4.83 L19.795,6.83 L21.315,6.83 C21.4416673,6.83 21.5416663,6.88166615 21.615,6.985 C21.6883337,7.08833385 21.725,7.2099993 21.725,7.35 C21.725,7.4766673 21.6900004,7.59166615 21.62,7.695 C21.5499997,7.79833385 21.448334,7.85 21.315,7.85 L19.795,7.85 L19.795,9.86 L22.625,9.86 C22.7516673,9.86 22.8516663,9.9166661 22.925,10.03 C22.9983337,10.1433339 23.035,10.2799992 23.035,10.44 C23.035,10.5866674 23.0000004,10.7166661 22.93,10.83 C22.8599997,10.9433339 22.758334,11 22.625,11 L19.065,11 C18.9116659,11 18.7783339,10.9633337 18.665,10.89 C18.5516661,10.8166663 18.495,10.7166673 18.495,10.59 L18.495,10.59 Z M24.295,10.6 L24.295,4.09 C24.295,3.9833328 24.3483328,3.8900004 24.455,3.81 C24.5616672,3.7299996 24.6983325,3.69 24.865,3.69 L26.635,3.69 C27.3483369,3.69 27.9183312,3.8733315 28.345,4.24 C28.7716688,4.6066685 28.985,5.1866627 28.985,5.98 L28.985,8.71 C28.985,9.5033373 28.7716688,10.0833315 28.345,10.45 C27.9183312,10.8166685 27.3483369,11 26.635,11 L24.865,11 C24.6983325,11 24.5616672,10.9600004 24.455,10.88 C24.3483328,10.7999996 24.295,10.7066672 24.295,10.6 L24.295,10.6 Z M25.595,9.86 L26.635,9.86 C27.3350035,9.86 27.685,9.4766705 27.685,8.71 L27.685,5.98 C27.685,5.2133295 27.3350035,4.83 26.635,4.83 L25.595,4.83 L25.595,9.86 Z M33.095,10.59 L33.095,4.34 C33.095,4.1199989 33.1566661,3.9566672 33.28,3.85 C33.403334,3.7433328 33.5583324,3.69 33.745,3.69 C33.9916679,3.69 34.181666,3.7333329 34.315,3.82 C34.448334,3.9066671 34.5949992,4.0933319 34.755,4.38 L35.985,6.62 L37.215,4.38 C37.3750008,4.0933319 37.5233327,3.9066671 37.66,3.82 C37.7966674,3.7333329 37.9883321,3.69 38.235,3.69 C38.4216676,3.69 38.5766661,3.7433328 38.7,3.85 C38.823334,3.9566672 38.885,4.1199989 38.885,4.34 L38.885,10.59 C38.885,10.7166673 38.8200007,10.8166663 38.69,10.89 C38.5599994,10.9633337 38.4083342,11 38.235,11 C38.0549991,11 37.9016673,10.9633337 37.775,10.89 C37.6483327,10.8166663 37.585,10.7166673 37.585,10.59 L37.585,6.29 L36.415,8.37 C36.3216662,8.5433342 36.175001,8.63 35.975,8.63 C35.7816657,8.63 35.6383338,8.5433342 35.545,8.37 L34.395,6.21 L34.395,10.59 C34.395,10.7166673 34.3300007,10.8166663 34.2,10.89 C34.0699994,10.9633337 33.9183342,11 33.745,11 C33.5649991,11 33.4116673,10.9633337 33.285,10.89 C33.1583327,10.8166663 33.095,10.7166673 33.095,10.59 L33.095,10.59 Z M40.585,10.59 L40.585,4.1 C40.585,3.9733327 40.6416661,3.8733337 40.755,3.8 C40.8683339,3.7266663 41.0016659,3.69 41.155,3.69 L44.715,3.69 C44.848334,3.69 44.9499997,3.7466661 45.02,3.86 C45.0900004,3.9733339 45.125,4.1033326 45.125,4.25 C45.125,4.4100008 45.0883337,4.5466661 45.015,4.66 C44.9416663,4.7733339 44.8416673,4.83 44.715,4.83 L41.885,4.83 L41.885,6.83 L43.405,6.83 C43.5316673,6.83 43.6316663,6.88166615 43.705,6.985 C43.7783337,7.08833385 43.815,7.2099993 43.815,7.35 C43.815,7.4766673 43.7800004,7.59166615 43.71,7.695 C43.6399997,7.79833385 43.538334,7.85 43.405,7.85 L41.885,7.85 L41.885,9.86 L44.715,9.86 C44.8416673,9.86 44.9416663,9.9166661 45.015,10.03 C45.0883337,10.1433339 45.125,10.2799992 45.125,10.44 C45.125,10.5866674 45.0900004,10.7166661 45.02,10.83 C44.9499997,10.9433339 44.848334,11 44.715,11 L41.155,11 C41.0016659,11 40.8683339,10.9633337 40.755,10.89 C40.6416661,10.8166663 40.585,10.7166673 40.585,10.59 L40.585,10.59 Z M46.205,10.38 C46.205,10.1933324 46.2699994,10.033334 46.4,9.9 C46.5300007,9.766666 46.6916657,9.7 46.885,9.7 C47.0716676,9.7 47.231666,9.766666 47.365,9.9 C47.498334,10.033334 47.565,10.1933324 47.565,10.38 C47.565,10.5600009 47.498334,10.7183326 47.365,10.855 C47.231666,10.9916673 47.0716676,11.06 46.885,11.06 C46.6916657,11.06 46.5300007,10.993334 46.4,10.86 C46.2699994,10.726666 46.205,10.5666676 46.205,10.38 L46.205,10.38 Z M46.255,4.2 C46.255,4.0266658 46.3133328,3.89166715 46.43,3.795 C46.5466673,3.69833285 46.6949991,3.65 46.875,3.65 C47.0550009,3.65 47.2049994,3.6999995 47.325,3.8 C47.4450006,3.9000005 47.505,4.0333325 47.505,4.2 C47.505,4.6400022 47.4816669,5.3733282 47.435,6.4 C47.3883331,7.4266718 47.365,8.1599978 47.365,8.6 C47.365,8.7200006 47.3133338,8.813333 47.21,8.88 C47.1066662,8.946667 46.9950006,8.98 46.875,8.98 C46.5483317,8.98 46.385,8.8533346 46.385,8.6 C46.385,8.1599978 46.3633336,7.4266718 46.32,6.4 C46.2766665,5.3733282 46.255,4.6400022 46.255,4.2 L46.255,4.2 Z" id="FEED-ME!" fill="#FFFFFF"></path>
+        </g>
+    </g>
+</svg>
+
+
+          
+          <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<svg width="40px" viewBox="0 0 71 64" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>Cart</title>
+    <desc>A cart icon with a smilling face on it.</desc>
+    <style>
+    #Fill-1, #Fill-4, #Fill-6 {
+      fill: #444;
+    }
+    .svg-wrapper:hover #Fill-1, .svg-wrapper:hover #Fill-4, .svg-wrapper:hover #Fill-6 {
+      fill: #2694cf;
+    }
+    </style>
+    <defs>
+        <polygon id="path-1" points="2.71050543e-20 0.5002 2.71050543e-20 50.6072 70.4230993 50.6072 70.4230993 0.5002 0 0.5002"></polygon>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g transform="translate(0.000000, -1.000000)">
+            <g id="Group-3" transform="translate(0.000000, 0.500000)">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"></use>
+                </mask>
+                <g id="Clip-2"></g>
+                <path d="M52.6875,26.3062 C50.8585,26.3062 49.3745,23.7492 49.3745,20.5942 C49.3745,17.4402 50.8585,14.8832 52.6875,14.8832 C54.5165,14.8832 56.0005,17.4402 56.0005,20.5942 C56.0005,23.7492 54.5165,26.3062 52.6875,26.3062 M41.5625,34.0562 C35.0005,34.0562 34.5005,27.6812 34.5005,27.6812 L48.6255,27.6812 C48.6255,27.6812 48.1255,34.0562 41.5625,34.0562 M29.5625,26.3062 C27.7335,26.3062 26.2505,23.7492 26.2505,20.5942 C26.2505,17.4402 27.7335,14.8832 29.5625,14.8832 C31.3915,14.8832 32.8755,17.4402 32.8755,20.5942 C32.8755,23.7492 31.3915,26.3062 29.5625,26.3062 M67.9845,7.0002 L14.7495,7.0002 L13.5765,2.1202 C13.2305,1.1492 12.3115,0.5002 11.2805,0.5002 L2.4375,0.5002 C1.0915,0.5002 -0.0005,1.5912 -0.0005,2.9372 L-0.0005,4.6872 C-0.0005,6.0332 1.0915,7.1252 2.4375,7.1252 L8.8745,7.1252 L16.4765,48.6032 C16.6865,49.7632 17.6965,50.6072 18.8745,50.6072 L61.0625,50.6072 C62.4265,50.6072 63.5245,49.4882 63.5005,48.1252 L63.5005,46.8932 C63.4755,45.5642 62.3915,44.5002 61.0625,44.5002 L21.7505,44.3752 L21.6255,39.6252 L64.4765,39.6252 C65.7045,39.6252 66.7405,38.7112 66.8945,37.4932 L70.4035,9.7432 C70.5875,8.2872 69.4525,7.0002 67.9845,7.0002" id="Fill-1" fill="#444444" mask="url(#mask-2)"></path>
+            </g>
+            <path d="M31.6875,59.0625 C31.6875,62.0655 29.2535,64.4995 26.2505,64.4995 C23.2465,64.4995 20.8125,62.0655 20.8125,59.0625 C20.8125,56.0595 23.2465,53.6255 26.2505,53.6255 C29.2535,53.6255 31.6875,56.0595 31.6875,59.0625" id="Fill-4" fill="#444444"></path>
+            <path d="M60.25,59.0625 C60.25,62.0655 57.816,64.4995 54.813,64.4995 C51.809,64.4995 49.375,62.0655 49.375,59.0625 C49.375,56.0595 51.809,53.6255 54.813,53.6255 C57.816,53.6255 60.25,56.0595 60.25,59.0625" id="Fill-6" fill="#444444"></path>
+        </g>
+    </g>
+</svg>
+
+
+          <!-- <img src="//cdn.shopify.com/s/files/1/0267/4223/t/38/assets/cart.svg?6205719932272810927" width="40px" /> -->
+          <span class="cart-item-count link-text">0</span>
+        </a>
+      </div>
+
+    </div>
+  </div>
+</div><!-- header -->
+
+
+</div>
+      <div class="wrapper-content">
+        <div class="page padding">
+  <div class="container">
+    <div class="grid-center">
+
+      
+        <div class="col-8_sm-12 padding">
+          <h1 class="page-title">Privacy Policy</h1>
+        </div>
+
+        <div class="col-8_sm-12">
+          <div class="page-content">
+            <p><strong>1</strong>. Your personal information is safe here. We will not release or sell any of the data you submit to the site.&nbsp;We receive and store any information you enter on our Web site or give us in any other way. In order to provide you with the most protection, we store all credit card information on a secure processing server (https://). You can choose not to provide certain information, but then you might not be able to take advantage of many of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our store and communicating with you.&nbsp;</p>
+<p><strong>2</strong>. TeeTurtle collects data about you and your activities when you visit our website and the websites and online services where we display advertisements (“Publishers”). This information may include the content you view, the date and time that you view this content, the products you purchase, or your location information associated with your IP address. We use the information we collect to serve you more relevant advertisements (referred to as “Retargeting”). We collect information about where you saw the ads we serve you and what ads you clicked on. We obtain certain types of information when your Web browser accesses TeeTurtle.com or advertisements and other content served by or on behalf of TeeTurtle.com on other Web sites. These specific types of information gathered are known as "cookies," unique identifiers that we transfer to your device to enable our systems to recognize your&nbsp;device and to provide features such as personalized advertisements on other Web Sites and storage of items in your Shopping Cart in between visits. Cookies serve to make your shopping experience quicker and easier.&nbsp;If you are having trouble with shopping functions, make sure you have cookies enabled. To prevent us from collecting this information, &nbsp;disable the "storing cookies" function of your Web browser.&nbsp;</p>
+<p><strong>3</strong>. You decide what is enough. We will never send you more e-mail than you want. If at any point you feel as if you are getting spammed, shoot an email to our service team and we will make sure to take care of the problem for you. All of our newsletters include an unsubscribe button, and if you choose to unsubscribe, you will never get another one again unless you manually allow us back in.&nbsp;<span>If you are located in the United&nbsp;States, you may have the right to request access to and receive information about the personal information we maintain about you, update and correct inaccuracies in your personal information and have the information blocked or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements. You also have the right to opt out, free of charge, from the processing of your personal information for marketing purposes.</span></p>
+<p><span>If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, please contact s</span>upport@teeturtle.com<span>.</span></p>
+          </div>
+        </div>
+      
+
+    </div>
+  </div>
+</div>
+
+<script type="text/javascript" src="//tags.mediaforge.com/js/3564"></script>
+      </div>
+      <div id="shopify-section-footer" class="shopify-section"><div class="footer text-center-sm">
+  <div class="container">
+    <div class="grid">
+
+      <div class="col-4_sm-12 padding" data-push-right="off-2_sm-0">
+        
+        <h3 class="footer-header padding">Stay in the Know</h3>
+        
+        
+        <p class="footer-text padding">Don't miss out on your next favourite tee! Add your e-mail address to get the latest on new designs and exclusive sales.</p>
+        
+        
+        <form class="newsletter-form ib-fix padding" action="https://manage.kmail-lists.com/subscriptions/subscribe?g=sfFhS2" method="post" target="_blank">
+          <input class="input" type="email" value="" placeholder="email@example.com" name="EMAIL" aria-label="email@example.com" autocorrect="off" autocapitalize="off">
+          <input class="button--compressed" type="submit" value="Submit">
+        </form>
+        <div class="footer-social-media">
+          
+            <a href="https://www.facebook.com/teeturtle"><i class="icomoon-facebook2"></i></a>
+          
+          
+            <a href="https://twitter.com/teeturtlenews"><i class="icomoon-twitter"></i></a>
+          
+          
+          
+            <a href="https://www.instagram.com/teeturtle/"><i class="icomoon-instagram"></i></a>
+          
+          
+          
+            <a href="https://www.pinterest.com/teeturtle/"><i class="icomoon-pinterest"></i></a>
+          
+        </div>
+      </div>
+
+      <div class="col-6_sm-12 padding">
+        <div class="grid">
+          
+          <div class="col-4_sm-12">
+            <ul class="footer-nav-list">
+            	
+              
+              
+
+              
+              
+              	<li class="footer-nav-item"><a href="/pages/faqs">FAQs</a></li>
+              
+              	<li class="footer-nav-item"><a href="/pages/order-lookup">Track my Order</a></li>
+              
+              	<li class="footer-nav-item"><a href="/pages/faqs#what-is-your-return-and-exchange-policy">Returns &amp; Exchanges</a></li>
+              
+            </ul>
+          </div>
+          
+          <div class="col-4_sm-12">
+            <ul class="footer-nav-list">
+            	
+              
+              
+
+              
+              
+              	<li class="footer-nav-item"><a href="/pages/contact-us">Contact Us</a></li>
+              
+              	<li class="footer-nav-item"><a href="/pages/about-us">About Us</a></li>
+              
+              	<li class="footer-nav-item"><a href="/pages/privacy">Privacy Policy</a></li>
+              
+            </ul>
+          </div>
+          
+          <div class="col-4_sm-12">
+            <ul class="footer-nav-list">
+            	
+              
+              
+
+              
+              
+              	<li class="footer-nav-item"><a href="/blogs/news">Blog</a></li>
+              
+              	<li class="footer-nav-item"><a href="/collections/all">Shop all Designs</a></li>
+              
+              	<li class="footer-nav-item"><a href="/products/gift-card">Gift Cards</a></li>
+              
+            </ul>
+          </div>
+          
+          <div class="col-4_sm-12">
+            <ul class="footer-nav-list">
+            	
+              
+              
+
+              
+              
+            </ul>
+          </div>
+          
+        </div>
+      </div>
+
+      <div class="col-12 text-center">
+        <p class="copyright">© 2017 TeeTurtle</p>
+      </div>
+
+    </div>
+    <!--?xml version="1.0" encoding="UTF-8" standalone="no"?-->
+
+<svg class="turtle-footer" width="300px" viewBox="0 0 292 249" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 40.3 (33839) - http://www.bohemiancoding.com/sketch -->
+    <title>TeeTurtle's turtle logo</title>
+    <desc>A cartoon, happy turtle.</desc>
+    <style>
+    #turtle-footer-1 path {
+      fill: #444;
+    }
+    .svg-wrapper:hover #turtle-footer-1 path {
+      fill: #444;
+    }
+    </style>
+    <g id="turtle-footer-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g fill="#231F1F">
+            <path d="M270.3381,204.4705 C272.9311,205.7355 269.0191,210.6985 273.4231,211.1125 C275.8511,211.3405 279.0041,209.0475 278.8361,206.3175 C278.6661,203.5355 275.5351,201.9825 272.9091,201.1305 C270.9851,200.5075 270.5101,202.2495 270.3381,204.4705 L270.3381,204.4705 Z M67.5461,171.8725 C65.9581,172.2195 66.1711,174.0975 66.3631,175.6175 C66.7691,178.8345 66.7811,182.9255 71.0181,183.2335 C73.8011,183.4365 76.2601,181.1605 77.0561,178.1785 C77.5121,176.4695 70.7971,171.7715 67.5461,171.8725 L67.5461,171.8725 Z M219.3681,221.1165 C207.3661,225.4505 195.2721,225.7355 183.0391,223.3065 C174.5031,221.6115 174.5471,221.5255 172.1061,229.4925 C171.6711,230.9105 170.9741,232.2565 170.3211,233.5975 C169.1841,235.9345 170.2261,236.8145 172.4151,236.4285 C180.0771,235.0765 187.9861,235.7045 195.5331,233.5215 C204.2781,230.9925 212.9211,228.2445 219.3681,221.1165 L219.3681,221.1165 Z M264.3041,221.8125 C264.8261,217.2705 263.8021,212.1705 262.8601,207.1485 C260.8901,196.6555 255.0741,194.0035 245.6111,198.9435 C244.1611,199.7005 242.8361,200.7515 241.5771,201.8135 C235.3141,207.0955 231.9731,214.4325 227.9951,221.3155 C227.0871,222.8855 227.3811,224.4685 227.9521,226.1185 C230.9031,234.6505 237.6171,238.8035 245.8351,240.1145 C256.6881,241.8445 264.7591,238.6515 264.3081,225.4635 C264.2741,224.4665 264.3041,223.4675 264.3041,221.8125 L264.3041,221.8125 Z M81.4181,187.6325 C81.7411,189.5835 81.9711,191.2265 82.2881,192.8525 C85.3421,208.5265 94.2471,219.6715 108.7361,226.1595 C113.8681,228.4575 114.0741,227.9455 114.3181,222.2515 C114.6991,213.3595 115.7131,204.2245 121.0351,197.0695 C124.5401,192.3565 126.4841,189.0515 123.5101,183.4415 C122.2841,181.1285 121.7631,180.6125 119.7861,181.8575 C109.7751,188.1625 99.6361,187.3165 89.3231,182.6275 C85.8331,181.0415 81.4211,184.1525 81.4181,187.6325 L81.4181,187.6325 Z M140.4471,117.5485 C140.9751,120.0005 141.1701,121.6335 141.6821,123.1595 C144.4951,131.5375 143.5891,139.8635 141.5641,148.2155 C139.8711,155.2015 137.0041,161.7575 134.3951,168.4125 C130.5171,178.3015 133.8561,185.0225 143.9221,187.2715 C151.0771,188.8695 157.7231,191.7215 162.6921,197.0105 C167.1371,201.7405 171.7531,206.2975 176.2381,210.9825 C179.6571,214.5525 183.8781,216.7015 188.8091,217.6335 C204.2641,220.5555 217.2141,215.3705 228.8071,205.5815 C235.8871,199.6035 242.2731,192.7725 251.5441,189.7515 C255.6791,188.4035 259.2621,188.6565 263.1671,189.9595 C264.7841,190.4985 266.4671,193.9005 268.4141,190.3175 C270.0501,187.3085 271.6011,184.3055 268.4451,181.2495 C266.5511,179.4155 264.3731,178.5305 261.7051,178.5425 C255.1171,178.5755 249.4381,181.2265 243.9531,184.4845 C237.7751,188.1545 232.5861,193.1315 226.8831,197.4275 C216.9181,204.9335 206.4581,211.2795 193.2641,210.5645 C187.6051,210.2585 182.6211,208.5785 178.4481,204.4195 C175.4641,201.4465 173.3171,197.9185 170.7351,194.6905 C165.0381,187.5685 156.8131,184.7725 148.4771,182.1505 C140.4181,179.6145 138.9261,176.3175 141.5501,168.2015 C144.0621,160.4335 148.2631,153.3485 150.5081,145.4595 C153.3621,135.4275 149.4201,123.2975 140.4471,117.5485 L140.4471,117.5485 Z M144.0041,85.1715 C152.4431,87.4195 160.9591,88.9115 168.7641,92.7395 C171.3421,94.0045 172.2841,95.6915 172.4241,98.5665 C172.7571,105.4245 171.4431,112.1505 171.2481,118.9585 C171.0191,126.9705 170.2851,127.5735 162.1631,127.5905 C161.1631,127.5925 160.1531,127.4985 159.1671,127.6155 C157.8581,127.7705 155.7891,126.9695 155.9571,129.4545 C156.0791,131.2405 156.9421,132.6245 159.1081,132.5655 C160.7731,132.5195 162.4621,132.7475 164.1011,132.5415 C168.5731,131.9795 171.4031,133.7825 174.0751,137.4745 C178.7361,143.9175 183.8921,150.0515 189.3121,155.8755 C192.4201,159.2135 192.7731,162.1285 191.1151,166.1925 C187.8951,174.0865 183.8201,181.5155 179.6021,188.8745 C178.2441,191.2435 178.5681,193.2395 180.5231,194.5355 C183.0781,196.2275 183.4921,193.2205 184.2581,191.9945 C189.7331,183.2275 194.4241,174.0305 198.1041,164.3725 C199.1771,161.5585 200.6361,160.5765 203.5771,160.5205 C210.7111,160.3855 217.8871,161.3315 224.9791,159.7315 C227.4271,159.1785 229.0421,160.5625 230.3101,162.5635 C233.0691,166.9175 236.1781,171.0415 238.4541,175.7125 C239.1901,177.2215 239.4741,180.2555 242.4201,178.6845 C245.0391,177.2885 244.1641,175.0555 243.0071,173.0775 C240.9121,169.4945 239.0311,165.7345 236.5221,162.4605 C234.1771,159.4015 233.5921,156.7785 234.8571,152.9455 C236.9261,146.6795 239.3451,140.3875 239.3131,133.6025 C239.3051,131.8725 240.0001,130.8215 241.6711,130.2555 C242.7141,129.9025 244.0801,129.5465 243.7761,127.9555 C243.5441,126.7375 242.8211,125.7585 241.4871,125.6385 C238.7011,125.3875 237.7631,123.2285 236.5411,121.2165 C232.0401,113.8075 226.8681,106.8995 220.8341,100.6535 C217.1951,96.8875 211.7401,93.8735 215.2241,87.1075 C215.4661,86.6385 215.1811,85.7715 214.9141,85.1935 C214.3341,83.9385 213.4001,82.8485 211.9271,82.8905 C210.3221,82.9355 210.4171,84.3985 210.2841,85.5155 C209.7851,89.7165 207.1581,89.9925 203.7621,89.2515 C195.7461,87.5015 187.6541,86.4615 179.6011,88.7895 C176.7961,89.6005 174.5361,89.1645 171.9811,88.0065 C165.7651,85.1875 159.3151,82.8975 152.5721,81.7485 C149.3701,81.2035 145.8251,80.8445 144.0041,85.1715 L144.0041,85.1715 Z M69.2881,14.5535 C66.8381,14.8065 63.6941,14.3075 60.5611,15.3095 C46.7081,19.7405 35.5061,27.6475 28.1641,40.3445 C21.8671,51.2345 15.7411,62.3005 13.7411,74.9655 C12.5681,82.3895 13.4771,89.9315 13.2511,97.4165 C12.9691,106.7305 16.0401,114.9735 20.7591,122.8755 C27.8911,134.8205 38.5751,142.8595 49.8201,150.3985 C55.0661,153.9165 60.6561,157.1065 65.2791,161.3315 C74.7071,169.9485 85.6981,175.8075 97.4801,179.9365 C109.6591,184.2035 120.4281,182.1295 127.0951,169.2565 C129.3131,164.9725 131.8971,160.8675 133.4161,156.2745 C137.3041,144.5105 140.9841,132.7665 135.2231,120.4095 C133.9311,117.6375 133.6591,114.3005 133.3381,111.1805 C131.7621,95.8485 131.1111,80.4765 128.5481,65.1775 C123.9381,37.6615 97.9471,14.5135 69.2881,14.5535 L69.2881,14.5535 Z M64.2941,248.5845 C60.4351,236.2745 58.6911,223.6895 59.2971,210.7835 C59.4301,207.9605 59.6181,205.1755 60.0211,202.3585 C60.8081,196.8755 62.1001,191.4855 58.8461,185.9315 C56.5131,181.9475 56.5991,176.8295 57.7631,172.2545 C58.5511,169.1585 57.5091,167.9215 55.0881,166.2935 C44.6101,159.2495 33.1191,153.7955 23.3401,145.6405 C8.9931,133.6755 1.1261,118.4835 0.3771,99.8605 C-0.0629,88.9025 -0.7309,77.7025 2.4491,67.1125 C8.9611,45.4265 16.9961,24.2835 36.7571,10.7285 C55.9811,-2.4575 76.8351,-2.8025 97.6901,5.9515 C120.9561,15.7165 134.7551,33.8895 140.6951,58.2435 C141.5561,61.7725 140.2911,66.8725 143.1241,68.4935 C145.4811,69.8425 149.0121,65.7955 152.2951,64.7525 C156.2721,63.4905 160.2551,62.3715 164.5111,62.5865 C174.9651,63.1165 185.4591,61.6625 195.9011,63.4915 C213.7491,66.6185 226.8131,76.7995 236.9931,91.1665 C253.2881,114.1615 264.5841,139.3225 269.2931,167.2475 C269.5681,168.8755 270.2721,169.9115 271.6031,170.8415 C278.1991,175.4525 281.8591,181.6155 281.2411,189.8905 C281.0591,192.3295 282.0501,193.7925 284.1901,195.0995 C293.4221,200.7405 294.3341,208.7875 286.8121,216.5185 C278.2551,225.3135 278.0541,225.2695 275.4291,237.3645 C274.5081,241.6065 271.4861,244.6215 270.2941,248.5845 L232.2941,248.5845 C230.0261,243.9955 225.0981,241.9605 222.1541,238.0155 C220.3701,235.6245 218.3761,235.5385 215.6621,236.8355 C209.5151,239.7715 202.9991,241.5545 196.2451,242.7645 C187.7511,244.2855 179.2021,244.9665 170.6291,245.5555 C168.4761,245.7045 166.6111,245.9535 166.2941,248.5845 L153.2941,248.5845 C153.3481,247.1245 154.2711,246.1585 155.2211,245.2135 C160.6431,239.8135 163.6481,233.0065 166.6631,226.1305 C169.8271,218.9125 167.8911,212.7965 163.2591,207.1865 C161.0461,204.5055 158.5501,201.9925 155.8811,199.7655 C143.1101,189.1115 129.2941,193.7545 126.0661,209.7325 C123.4601,222.6285 121.7061,235.5585 125.2941,248.5845 L113.2941,248.5845 C112.9411,245.9645 112.5571,243.3485 112.2461,240.7225 C112.0621,239.1685 111.0691,238.4025 109.7411,237.9515 C108.6491,237.5815 107.5801,237.9395 107.2451,238.9715 C106.0401,242.6805 102.3721,244.8285 101.2941,248.5845 L83.2941,248.5845 C83.3761,247.1365 84.6401,246.9425 85.5611,246.2665 C90.7561,242.4545 94.9121,237.8215 96.8391,231.4695 C97.5921,228.9865 97.3121,226.9365 95.3251,225.1355 C90.1921,220.4815 86.7481,214.5655 83.3251,208.6685 C80.3191,203.4915 77.5141,198.1975 73.9211,191.6875 C71.1811,205.6215 69.5911,218.0595 69.3361,230.6535 C69.2431,235.2495 70.4371,239.4795 73.3321,243.2035 C74.8451,245.1485 77.6111,245.9065 78.2941,248.5845 L64.2941,248.5845 Z" id="Fill-1"></path>
+            <path d="M100.2609,90.6022 C100.2589,91.4252 100.3279,92.2592 100.2469,93.0782 C99.7779,97.8812 96.3869,102.2162 92.8869,102.5392 C88.8819,102.9092 84.8739,99.4772 83.7999,94.2912 C82.9349,90.1162 83.7829,85.9672 86.1389,82.4782 C89.7999,77.0542 95.5639,77.6392 98.7359,83.4432 C99.9699,85.7012 100.5149,88.0522 100.2609,90.6022" id="Fill-4"></path>
+            <path d="M30.2466,89.0601 C30.4986,92.1481 29.5576,94.9691 28.1706,97.6461 C27.3916,99.1521 26.2746,100.4051 24.3776,100.4781 C22.3346,100.5571 21.5486,99.0541 20.7806,97.5451 C18.2206,92.5151 19.0196,87.5761 21.2816,82.7281 C22.0786,81.0201 23.2946,79.6281 25.4376,79.6931 C27.4556,79.7531 28.1066,81.3801 28.9156,82.8341 C29.9986,84.7791 30.4536,86.8461 30.2466,89.0601" id="Fill-6"></path>
+            <path d="M49.8904,123.9027 C56.1704,125.4177 62.3204,126.4687 68.6204,124.8287 C70.9824,124.2137 71.4804,126.0547 71.1524,127.9127 C70.5434,131.3617 68.4394,133.5907 65.0264,134.3757 C59.5954,135.6257 51.4734,130.1267 49.8904,123.9027" id="Fill-8"></path>
+            <path d="M208.4969,155.6148 C207.6639,155.6148 206.8109,155.4948 206.0019,155.6338 C198.9619,156.8378 193.9989,154.2298 190.1839,148.1458 C187.5629,143.9658 184.1449,140.2098 180.6889,136.6488 C176.7419,132.5818 174.7129,128.5788 176.1179,122.4988 C177.9409,114.6058 178.5059,106.4178 178.2819,98.2568 C178.1979,95.2238 179.2719,93.8598 182.5049,93.4458 C187.3079,92.8318 192.0269,92.4098 196.8819,92.8998 C205.2699,93.7458 211.8149,97.4408 217.2939,103.8878 C223.1199,110.7418 228.8869,117.5658 233.2699,125.4678 C234.7789,128.1898 235.2089,130.7558 234.6089,133.9908 C233.5449,139.7348 232.1419,145.3448 230.3889,150.8968 C229.7449,152.9358 228.9279,154.5648 226.3849,154.5868 C220.4079,154.6408 214.5279,156.4338 208.4969,155.6148" id="Fill-10"></path>
+        </g>
+    </g>
+</svg>
+
+
+  </div>
+</div>
+
+
+</div>
+    </div>
+
+    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/38/assets/plugins.js?6205719932272810927" type="text/javascript"></script>
+    <script src="//cdn.shopify.com/s/files/1/0267/4223/t/38/assets/theme.js?6205719932272810927" type="text/javascript"></script>
+
+    <!-- Bold: CSP Step 1 (theme) -->
+    <script type="text/javascript" charset="utf-8">
+    var shappify_customer_tags =null
+    </script>
+    <!-- // end bold code -->
+
+    <!-- Bold: Memberships -->
+    
+    <!-- end Bold code -->
+    <script>
+// (c) Copyright 2016 Caroline Schnapp. All Rights Reserved. Contact: mllegeorgesand@gmail.com
+// See https://docs.shopify.com/themes/customization/navigation/link-product-options-in-menus
+var Shopify = Shopify || {};
+Shopify.optionsMap = {};
+Shopify.updateOptionsInSelector = function(selectorIndex) {
+  switch (selectorIndex) {
+    case 0:
+      var key = 'root';
+      var selector = jQuery('.single-option-selector:eq(0)');
+      break;
+    case 1:
+      var key = jQuery('.single-option-selector:eq(0)').val();
+      var selector = jQuery('.single-option-selector:eq(1)');
+      break;
+    case 2:
+      var key = jQuery('.single-option-selector:eq(0)').val();
+      key += ' / ' + jQuery('.single-option-selector:eq(1)').val();
+      var selector = jQuery('.single-option-selector:eq(2)');
+  }
+
+  var initialValue = selector.val();
+  selector.empty();
+  var availableOptions = Shopify.optionsMap[key];
+  for (var i=0; i<availableOptions.length; i++) {
+    var option = availableOptions[i];
+    var newOption = jQuery('<option></option>').val(option).html(option);
+    selector.append(newOption);
+  }
+  jQuery('.swatch[data-option-index="' + selectorIndex + '"] .swatch-element').each(function() {
+    if (jQuery.inArray($(this).attr('data-value'), availableOptions) !== -1) {
+      $(this).removeClass('soldout').show().find(':radio').removeAttr('disabled','disabled').removeAttr('checked');
+    }
+    else {
+      $(this).addClass('soldout').hide().find(':radio').removeAttr('checked').attr('disabled','disabled');
+    }
+  });
+  if (jQuery.inArray(initialValue, availableOptions) !== -1) {
+    selector.val(initialValue);
+  }
+  selector.trigger('change');
+
+};
+Shopify.linkOptionSelectors = function(product) {
+  // Building our mapping object.
+  for (var i=0; i<product.variants.length; i++) {
+    var variant = product.variants[i];
+    if (variant.available) {
+      // Gathering values for the 1st drop-down.
+      Shopify.optionsMap['root'] = Shopify.optionsMap['root'] || [];
+      Shopify.optionsMap['root'].push(variant.option1);
+      Shopify.optionsMap['root'] = Shopify.uniq(Shopify.optionsMap['root']);
+      // Gathering values for the 2nd drop-down.
+      if (product.options.length > 1) {
+        var key = variant.option1;
+        Shopify.optionsMap[key] = Shopify.optionsMap[key] || [];
+        Shopify.optionsMap[key].push(variant.option2);
+        Shopify.optionsMap[key] = Shopify.uniq(Shopify.optionsMap[key]);
+      }
+      // Gathering values for the 3rd drop-down.
+      if (product.options.length === 3) {
+        var key = variant.option1 + ' / ' + variant.option2;
+        Shopify.optionsMap[key] = Shopify.optionsMap[key] || [];
+        Shopify.optionsMap[key].push(variant.option3);
+        Shopify.optionsMap[key] = Shopify.uniq(Shopify.optionsMap[key]);
+      }
+    }
+  }
+  // Update options right away.
+  Shopify.updateOptionsInSelector(0);
+  if (product.options.length > 1) Shopify.updateOptionsInSelector(1);
+  if (product.options.length === 3) Shopify.updateOptionsInSelector(2);
+  // When there is an update in the first dropdown.
+  jQuery(".single-option-selector:eq(0)").change(function() {
+    Shopify.updateOptionsInSelector(1);
+    if (product.options.length === 3) Shopify.updateOptionsInSelector(2);
+    return true;
+  });
+  // When there is an update in the second dropdown.
+  jQuery(".single-option-selector:eq(1)").change(function() {
+    if (product.options.length === 3) Shopify.updateOptionsInSelector(2);
+    return true;
+  });
+};
+
+
+
+</script>
+
+    
+    <!--- Rakuten Scripts Start ---><script type="text/javascript" src="//tags.mediaforge.com/js/3564"></script><!--- Rakuten Scripts End --->    
+    
+    <!--- Klaviyo Scripts Start --->
+    <script type="text/javascript"> 
+     var _learnq = _learnq || [];
+     _learnq.push(['account', 'qTcCKB']); 
+     (function () { 
+     var b = document.createElement('script'); b.type = 'text/javascript'; b.async = true; 
+     b.src = ('https:' == document.location.protocol ? 'https://' : 'http://') +     'a.klaviyo.com/media/js/analytics/analytics.js'; 
+     var a = document.getElementsByTagName('script')[0]; a.parentNode.insertBefore(b, a);
+     })(); 
+</script>
+    <!--- Klaviyo Scripts End --->
+    
+  
 
 </body></html>
