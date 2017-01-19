@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the top10companiesinindia.co.in privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120065409id_/http%3A//top10companiesinindia.co.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the top10companiesinindia.co.in privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119110920id_/http%3A//top10companiesinindia.co.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Top 10 Companies In India
 
@@ -9,13 +9,13 @@ If you require any more information or have any questions about our privacy poli
 
 At www.Top10CompaniesInIndia.co.in, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by www.Top10CompaniesInIndia.co.in and how it is used.
 
- **Log Files**  
+**Log Files**  
 Like many other Web sites, www.Top10CompaniesInIndia.co.in makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track users movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
- **Cookies and Web Beacons**  
+**Cookies and Web Beacons**  
 www.Top10CompaniesInIndia.co.in does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
- **DoubleClick DART Cookie**
+**DoubleClick DART Cookie**
 
 .:: Google, as a third party vendor, uses cookies to serve ads on www.Top10CompaniesInIndia.co.in.
 
@@ -33,5 +33,3 @@ www.Top10CompaniesInIndia.co.in has no access to or control over these cookies t
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.Top10CompaniesInIndia.co.in’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
-
-**DISCLAIMER** : The data provided here is based on the facts and research using available sources. As the data is made available on "as is" basis and subject to change anytime. This website shall not be liable for any discrepancy found in the data on our site and actual figures.
