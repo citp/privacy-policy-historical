@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpspower.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113812id_/http%3A//www.gpspower.net/forum-rules/334017-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpspower.net privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119021018id_/https%3A//www.gpspower.net/forum-rules/334017-privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
