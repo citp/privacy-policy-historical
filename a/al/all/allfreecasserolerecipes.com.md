@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreecasserolerecipes.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201170309id_/http%3A//www.allfreecasserolerecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreecasserolerecipes.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119110930id_/https%3A//www.allfreecasserolerecipes.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeCasseroleRecipes.com
 
