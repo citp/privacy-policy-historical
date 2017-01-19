@@ -1,15 +1,16 @@
-<!--The following is the downloaded HTML source of the workthesystemacademy.com privacy policy that was archived on 2015-07-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150709163501id_/http%3A//www.workthesystemacademy.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the workthesystemacademy.com privacy policy that was archived on 2017-01-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170119113540id_/https%3A//www.workthesystemacademy.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 <meta charset="utf-8">
 <title>Work The System Academy</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-<link href="css/common.css" rel="stylesheet" type="text/css">
+<link href="http://www.workthesystemacademy.com/wp-content/themes/wtsacad/css/common.css" rel="stylesheet" type="text/css">
+<link rel="stylesheet" href="http://www.workthesystemacademy.com/wp-content/themes/wtsacad/css/overlay.css" type="text/css" media="screen">
 
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="js/work-the-system-academy.js" type="text/javascript"></script>
-<script src="js/columnizer.js" type="text/javascript"></script>
-<script src="js/scroll.js" type="text/javascript"> </script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-K2PRL7"></script><script src="http://www.workthesystemacademy.com/wp-content/themes/wtsacad/js/work-the-system-academy.js" type="text/javascript"></script>
+<script src="http://www.workthesystemacademy.com/wp-content/themes/wtsacad/js/columnizer.js" type="text/javascript"></script>
+<script src="http://www.workthesystemacademy.com/wp-content/themes/wtsacad/js/scroll.js" type="text/javascript"> </script>
 
 <script type="text/javascript">
 	jQuery(document).ready(function(){
@@ -17,7 +18,7 @@
 	}) ;
 </script>
 
-<script src="js/jquery.balance.js" type="text/javascript"></script>
+<script src="http://www.workthesystemacademy.com/wp-content/themes/wtsacad/js/jquery.balance.js" type="text/javascript"></script>
 
 <script type="text/javascript">
 	$(window).load(function() {
@@ -37,95 +38,267 @@
 		/*$('.FooterHeight').balance() ;*/
 	}) ;	// $(document).ready
 </script>
+
+
 <script type="text/javascript">
+function setCookie(c_name,value,exdays)
+{
+	var exdate=new Date();
+	exdate.setDate(exdate.getDate() + exdays);
+	var c_value=escape(value) + ((exdays==null) ? "" : "; expires="+exdate.toUTCString());
+	document.cookie=c_name + "=" + c_value;
+}
 
-  var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-34988930-1']);
-  _gaq.push(['_trackPageview']);
+function getCookie(c_name)
+{
+	var c_value = document.cookie;
+	var c_start = c_value.indexOf(" " + c_name + "=");
+	if (c_start == -1)
+	  {
+	  c_start = c_value.indexOf(c_name + "=");
+	  }
+	if (c_start == -1)
+	  {
+	  c_value = null;
+	  }
+	else
+	  {
+	  c_start = c_value.indexOf("=", c_start) + 1;
+	  var c_end = c_value.indexOf(";", c_start);
+	  if (c_end == -1)
+	  {
+	c_end = c_value.length;
+	}
+	c_value = unescape(c_value.substring(c_start,c_end));
+	}
+	return c_value;
+}
 
-  (function() {
-    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-  })();
-
+function checkCookie()
+{
+	var username=getCookie("username");
+	if (username!=null && username!="")
+	{
+		//alert("Welcome again " + username);
+	}
+	else 
+	{
+		username=prompt("Please enter your name:","");
+		if (username!=null && username!="")
+		{
+			setCookie("username",username,365);
+		}
+	}
+}
 </script>
 </head>
 
-<body>
-<a id="top"></a>
+<body class="page-template-default page page-id-2 privacy-policy">
+<!-- Google Tag Manager -->
+<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-K2PRL7"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-K2PRL7');</script>
+<!-- End Google Tag Manager -->
+<div id="top"></div>
+<div style=" position:fixed; height:10px; top:10px; width:100%; " id="ID"></div>
+<!-- <div style="position:absolute; width: 127px; z-index: 1; left:68%; top:10px"> -->
+<div class="wtsa_circleButton" style="position:absolute; width: 127px; z-index: 1; left:68%; top:10px; display:none;">
+		<a href="http://www.workthesystem.com/">
+		<img border="0" src="http://workthesystemacademy.com/wp-content/uploads/2015/07/wtsa-header-button-5.png" width="128" height="118"></a></div>
+<div class="overlay" id="overlay" style="display:none;"></div>
+	<!-- Popup-->
+   <!-- <div class="PopupWrapper box" id="WTSOverlay" style="display:none;">
+        <div class="Close group ClearBoth" >
+        	<a href="#" class="boxclose"><img src="http://www.workthesystemacademy.com/wp-content/uploads/2015/07/close-btn.png" width="23" height="23" alt=""></a>
+        </div>
+        <div class="Wait">
+    		<img src="http://www.workthesystemacademy.com/wp-content/uploads/2015/07/wait.jpg" width="800" height="101" alt="">
+     	</div>
+        <div class="group ClearBoth">
+            <div class="VideoWrapper">
+            	
+                <iframe src="//player.vimeo.com/video/83070803" id="player" width="360" height="200" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+            	
+            </div>
+            <div class="VideoTextWrapper">
+                <h2>
+                    I will show you...
+                    <img src="http://www.workthesystemacademy.com/wp-content/uploads/2015/07/down-arrow.png" width="31" height="32" alt="">
+                </h2>
+                <ul class="Tick">
+                  <li>The most common pitfall when systemizing your business</li>
+                    <li>How to slash your workweek</li>
+                    <li>How to drastically increase your income</li>
+                    <li>Tips, Tricks and Samples to help you get started</li>
+                </ul>
+            </div>
+        </div>
+        <div class="PaddingLR">
+        	<div class="BgColor4 PaddingTB FSize22 TAC TextColor5 FSwisBold">
+            	Let me show you the proven blueprint for going from
+            </div>
+            <div class="TAC TextColor3 PaddingTB15">
+            	<h3>Overworked and Underpaid <span class="TextColor5">To</span> Overpaid and Underworked</h3>
+            </div>
+        </div>
+        <div class="TryItNowWrapper">
+        	<div class="TryItNowBtn">
+            	<a href="https://uo115.infusionsoft.com/app/orderForms/WTSA-7-Day-Trial" target="_blank">Try It NOW</a>
+            </div>
+        </div>
+    </div>  -->  
+    <!--Poup End-->
+	<script type="text/javascript">
+	jQuery(document).ready(function() {
+		jQuery('.box').hide() ;
+		/*
+		jQuery('.boxclose').click(function(e){
+			e.preventDefault() ;
+			jQuery('#WTSOverlay').fadeOut('fast', function() {
+				jQuery('#overlay').fadeOut('fast');
+				$('iframe#player').attr('src','');
+			 	//player.api('unload');
+				//jQuery('#NewsletterFormContainer').html('') ;
+			});
+		});
+		*/
+	});
+	
+	
+	jQuery(document).ready(function() {
+		/*
+		jQuery('#ID').mouseout(function() {
+
+			if( getCookie('worksystem_demo') == null || getCookie('worksystem_demo') != 1 ) {
+				setCookie('worksystem_demo', 1, 1) ;
+				jQuery('#overlay').fadeIn('fast') ;
+				jQuery('#WTSOverlay').fadeIn('slow', function() {
+					$('iframe#player').attr('src','//player.vimeo.com/video/83070803?autoplay=1');
+				});
+				
+			}
+		}) ;
+		*/
+	}) ;
+	
+	
+</script>
     <div class="BgColor2">
     	<div class="TopMainWrapper">
-        	<div class="TopBg group ClearBoth">
+        	<!-- <div class="TopBg group ClearBoth" style="width: 805px; height: 142px"> -->
+        	<div class="TopBg group ClearBoth" style="width: 100%;">
             	<div class="Logo">
-                	<a href="index.html">Work The System Academy</a>
+                	<a href="http://www.workthesystemacademy.com">Work The System Academy</a>
                 </div>
-         <!--       <div class="Button1"><a href="https://workthesystem.customerhub.net/" target="_blank">Login</a></div>    -->
+                <!--<div class="Button1"><a href="https://workthesystem.customerhub.net/" target="_blank">Login</a></div>-->
             </div>
         </div>
    	</div> 
-    
- 	<div class="MainWrapper group ClearBoth">
-    	<div class="StaggeringWrapper group ClearBoth">
-        	<div><h1>Privacy Policy</h1></div>
-            <div class="PaddingLR20 PaddingTB40 FParagraph">
-             	<p>BACKGROUND:</p>
-                <p>This Policy applies as between you, the User of this Web Site and   Work the System Consultants Ltd (WTSC Ltd) the owner and provider of   this Web Site. This Policy applies to our use of any and all Data   collected by us in relation to your use of the Web Site and any Services   or Systems therein.</p>
-                <p>Definitions and Interpretation</p>
-                <p>In this Policy the following terms shall have the following meanings:</p>
-                <p>“Account” means collectively the personal information, Payment   Information and credentials used by Users to access Material and / or   any communications System on the Web Site;</p>
-                <p> “Content” means any text, graphics, images, audio, video, software, data   compilations and any other form of information capable of being stored   in a computer that appears on or forms part of this Web Site;</p>
-                <p> “Cookie” means a small text file placed on your computer by Work the   Ststem Consultants Ltd when you visit certain parts of this Web Site.   This allows us to identify recurring visitors and to analyse their   browsing habits within the Web Site. Further details are contained in   Clause 10 ;</p>
-                <p> “Data” means collectively all information that you submit to the Web   Site. This includes, but is not limited to, Account details and   information submitted using any of our Services or Systems;</p>
-                <p> “Name” means Work the System Consultants Ltd trading as Work the System Academy</p>
-                <p> “Service” means collectively any online facilities, tools, services or   information that Work the System Consultants Ltd makes available through   the Web Site either now or in the future;</p>
-                <p> “System” means any online communications infrastructure that Work the   System Consultants Ltd makes available through the Web Site either now   or in the future. This includes, but is not limited to, web-based email,   message boards, live chat facilities and email links;</p>
-                <p> “User” / “Users” means any third party that accesses the Web Site and is   not employed by Work the System Consultants Ltd and acting in the   course of their employment; and</p>
-                <p> “Visitors and Authorised visitors” Visitor is any person visiting the   site but who does not transact any business; authorised visitor is any   person who not only visits the site but also transacts business;</p>
-                <p> .“Web Site” means the website that you are currently using   www.workthesystemacademy.com and any sub-domains of this site unless   expressly excluded by their own terms and conditions.</p>
-                <p>General Statement We understand that privacy is important to users of   our website. This statement governs our privacy policies regarding   those users of the Site (“Visitors”) who visit without transacting   business, and also for Visitors who register to transact business on the   Site (“Authorized Customers”) and who make use of the various services   provided by Work the System Consultants Ltd</p>
-                <p> What information is collected</p>
-                <p>Personally Identifiable Information refers to any information that   identifies or can be used to identify, contact, or locate the person to   whom such information pertains, including, but not limited to, name,   address, phone number, fax number, email address, financial profiles,   Social Security number, and credit card information. Personally   Identifiable Information does not include information that is collected   anonymously (that is, without identification of the individual user) or   demographic information that is not connected to an identified   individual.</p>
-                <p> We may collect basic user profile information from all of our Visitors.   We collect the following additional information from our Authorized   Customers: bill to and ship to names, addresses, phone numbers, email   addresses and credit card information needed to authorize purchases and   transact payments for products and services.</p>
-                <p>3.Third Party Web Sites and Services</p>
-                <p>3.1 WTSC Ltd may, from time to time, employ the services of other   parties for dealing with matters that may include, but are not limited   to, payment handling, delivery of purchased items, search engine   facilities, advertising and marketing. The providers of such services   may have access to certain personal Data provided by Users of this Web   Site. Any Data used by such parties is used only to the extent required   by them to perform the services that WTSC Ltd requests. Any use for   other purposes is strictly prohibited. Furthermore, any Data that is   processed by third parties must be processed within the terms of this   Policy and in accordance with the Data Protection Act 1998 .</p>
-                <p>3.2 We do not store credit card details nor do we share customer details with any 3rd parties.</p>
-                <p>4.Changes of Business Ownership and Control</p>
-                <p>4.1 WTSC Ltd may, from time to time, expand or reduce its business   and this may involve the sale of certain divisions or the transfer of   control of certain divisions to other parties. Data provided by Users   will, where it is relevant to any division so transferred, be   transferred along with that division and the new owner or newly   controlling party will, under the terms of this Policy, be permitted to   use the Data for the purposes for which it was supplied by you.</p>
-                <p>4.2 In the event that any Data submitted by Users will be transferred   in such a manner, you not be contacted in advance and informed of the   changes.</p>
-                <p>5. Access to your Data</p>
-                <p>You may at any time amend your Data either through the login area of   the site (for Account holders) or by requesting amends directly via our   support team. You may need to modify or update your Data if your   circumstances change. Additional Data as to your marketing preferences   may also be stored and you may change this at any time.</p>
-                <p>6. Your Right to Withhold Information</p>
-                <p>6.1 You may access certain areas of the Web Site without providing   any Data at all. However, to use all Services and Systems available on   the Web Site you may be required to submit Account information or other   Data.</p>
-                <p>6.2 You may restrict your internet browser’s use of Cookies. For more information see Clause 10 below.</p>
-                <p>7. Accessing your own Data</p>
-                <p>7.1 You may access your Account at any time to view or amend the   Data. You may need to modify or update your Data if your circumstances   change. Additional Data as to your marketing preferences may also be   stored and you may change this at any time.</p>
-                <p>7.2 You have the right to ask for a copy of your personal Data on payment of a small fee.</p>
-                <p>8. Security Data security is of great importance to WTSC Ltd and to   protect your Data we have put in place suitable physical, electronic and   managerial procedures to safeguard and secure Data collected online.</p>
-                <p>9. Cookies</p>
-                <p>9.1 WTSC Ltd may set and access first-party Cookies on your computer.   Cookies that may be placed on your computer are detailed in Schedule 1   to this Policy. These Cookies are integral to the services provided by   the Web Site to you.</p>
-                <p>9.2 You can choose to enable or disable Cookies in your web browser.   By default, your browser will accept Cookies, however this can be   altered. For further details please consult the help menu in your   browser. Disabling Cookies may prevent you from using the full range of   Services available on the Web Site.</p>
-                <p>9.3 You may delete Cookies, however you may lose any information that enables you to access the Web Site more quickly.</p>
-                <p>10. Changes to this Policy</p>
-                <p>WTSC Ltd reserves the right to change this Privacy Policy as we may   deem necessary from time to time or as may be required by law. Any   changes will be immediately posted on the Web Site and you are deemed to   have accepted the terms of the Policy on your first use of the Web Site   following the alterations.</p>
-                <p>11. Links</p>
-                <p>This Web site contains links to other Web sites. Please note that   when you click on one of these links, or you ask us to forward   information to a third party site on your behalf, you are moving to   another Web site. We encourage you to read the privacy statements of   these linked sites as their privacy policies may differ from ours.</p>
-                
-             </div>
-        </div>
-    </div>
- 
-   
-     
-     <div class="BgColor3">
-     	<div class="Footer">
-     	  <div class="group ClearBoth"> <a href="index.html">Home</a> | <a href="https://workthesystem.customerhub.net/" target="_blank">Login</a> | <a href="affiliate.html">Become an Affiliate</a> | <a href="http://www.workthesystem.com/" target="_blank">Work the System</a><br>
-     	    <a href="terms-n-conditions-of-use.html">Terms and Conditions of Use</a> | <a href="terms-n-conditions-of-service.html">Terms and Conditions of Service</a> | <a href="privacy-policy.html">Privacy Policy</a> </div>
-     	  <p class="SmallText TextColor2 Caps">Copyright © 2014. Work the System. All rights reserved. </p>
-        </div>
-     	
-     </div>
+	<main role="main">
+		<!-- section -->
+		<section>
 
 
+		
+			<!-- article -->
+			<article id="post-2" class="post-2 page type-page status-publish hentry">
+
+				<div class="MainWrapper group ClearBoth">
+<div class="StaggeringWrapper group ClearBoth">
+<div>
+<h1>Privacy Policy</h1>
+</div>
+<div class="PaddingLR20 PaddingTB40 FParagraph">
+<p>BACKGROUND:</p>
+<p>This Policy applies as between you, the User of this Web Site and Work the System Consultants Ltd (WTSC Ltd) the owner and provider of this Web Site. This Policy applies to our use of any and all Data collected by us in relation to your use of the Web Site and any Services or Systems therein.</p>
+<p>Definitions and Interpretation</p>
+<p>In this Policy the following terms shall have the following meanings:</p>
+<p>“Account” means collectively the personal information, Payment Information and credentials used by Users to access Material and / or any communications System on the Web Site;</p>
+<p>“Content” means any text, graphics, images, audio, video, software, data compilations and any other form of information capable of being stored in a computer that appears on or forms part of this Web Site;</p>
+<p>“Cookie” means a small text file placed on your computer by Work the Ststem Consultants Ltd when you visit certain parts of this Web Site. This allows us to identify recurring visitors and to analyse their browsing habits within the Web Site. Further details are contained in Clause 10 ;</p>
+<p>“Data” means collectively all information that you submit to the Web Site. This includes, but is not limited to, Account details and information submitted using any of our Services or Systems;</p>
+<p>“Name” means Work the System Consultants Ltd trading as Work the System Academy</p>
+<p>“Service” means collectively any online facilities, tools, services or information that Work the System Consultants Ltd makes available through the Web Site either now or in the future;</p>
+<p>“System” means any online communications infrastructure that Work the System Consultants Ltd makes available through the Web Site either now or in the future. This includes, but is not limited to, web-based email, message boards, live chat facilities and email links;</p>
+<p>“User” / “Users” means any third party that accesses the Web Site and is not employed by Work the System Consultants Ltd and acting in the course of their employment; and</p>
+<p>“Visitors and Authorised visitors” Visitor is any person visiting the site but who does not transact any business; authorised visitor is any person who not only visits the site but also transacts business;</p>
+<p>.“Web Site” means the website that you are currently using www.workthesystemacademy.com and any sub-domains of this site unless expressly excluded by their own terms and conditions.</p>
+<p>General Statement We understand that privacy is important to users of our website. This statement governs our privacy policies regarding those users of the Site (“Visitors”) who visit without transacting business, and also for Visitors who register to transact business on the Site (“Authorized Customers”) and who make use of the various services provided by Work the System Consultants Ltd</p>
+<p>What information is collected</p>
+<p>Personally Identifiable Information refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, but not limited to, name, address, phone number, fax number, email address, financial profiles, Social Security number, and credit card information. Personally Identifiable Information does not include information that is collected anonymously (that is, without identification of the individual user) or demographic information that is not connected to an identified individual.</p>
+<p>We may collect basic user profile information from all of our Visitors. We collect the following additional information from our Authorized Customers: bill to and ship to names, addresses, phone numbers, email addresses and credit card information needed to authorize purchases and transact payments for products and services.</p>
+<p>3.Third Party Web Sites and Services</p>
+<p>3.1 WTSC Ltd may, from time to time, employ the services of other parties for dealing with matters that may include, but are not limited to, payment handling, delivery of purchased items, search engine facilities, advertising and marketing. The providers of such services may have access to certain personal Data provided by Users of this Web Site. Any Data used by such parties is used only to the extent required by them to perform the services that WTSC Ltd requests. Any use for other purposes is strictly prohibited. Furthermore, any Data that is processed by third parties must be processed within the terms of this Policy and in accordance with the Data Protection Act 1998 .</p>
+<p>3.2 We do not store credit card details nor do we share customer details with any 3rd parties.</p>
+<p>4.Changes of Business Ownership and Control</p>
+<p>4.1 WTSC Ltd may, from time to time, expand or reduce its business and this may involve the sale of certain divisions or the transfer of control of certain divisions to other parties. Data provided by Users will, where it is relevant to any division so transferred, be transferred along with that division and the new owner or newly controlling party will, under the terms of this Policy, be permitted to use the Data for the purposes for which it was supplied by you.</p>
+<p>4.2 In the event that any Data submitted by Users will be transferred in such a manner, you not be contacted in advance and informed of the changes.</p>
+<p>5. Access to your Data</p>
+<p>You may at any time amend your Data either through the login area of the site (for Account holders) or by requesting amends directly via our support team. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.</p>
+<p>6. Your Right to Withhold Information</p>
+<p>6.1 You may access certain areas of the Web Site without providing any Data at all. However, to use all Services and Systems available on the Web Site you may be required to submit Account information or other Data.</p>
+<p>6.2 You may restrict your internet browser’s use of Cookies. For more information see Clause 10 below.</p>
+<p>7. Accessing your own Data</p>
+<p>7.1 You may access your Account at any time to view or amend the Data. You may need to modify or update your Data if your circumstances change. Additional Data as to your marketing preferences may also be stored and you may change this at any time.</p>
+<p>7.2 You have the right to ask for a copy of your personal Data on payment of a small fee.</p>
+<p>8. Security Data security is of great importance to WTSC Ltd and to protect your Data we have put in place suitable physical, electronic and managerial procedures to safeguard and secure Data collected online.</p>
+<p>9. Cookies</p>
+<p>9.1 WTSC Ltd may set and access first-party Cookies on your computer. Cookies that may be placed on your computer are detailed in Schedule 1 to this Policy. These Cookies are integral to the services provided by the Web Site to you.</p>
+<p>9.2 You can choose to enable or disable Cookies in your web browser. By default, your browser will accept Cookies, however this can be altered. For further details please consult the help menu in your browser. Disabling Cookies may prevent you from using the full range of Services available on the Web Site.</p>
+<p>9.3 You may delete Cookies, however you may lose any information that enables you to access the Web Site more quickly.</p>
+<p>10. Changes to this Policy</p>
+<p>WTSC Ltd reserves the right to change this Privacy Policy as we may deem necessary from time to time or as may be required by law. Any changes will be immediately posted on the Web Site and you are deemed to have accepted the terms of the Policy on your first use of the Web Site following the alterations.</p>
+<p>11. Links</p>
+<p>This Web site contains links to other Web sites. Please note that when you click on one of these links, or you ask us to forward information to a third party site on your behalf, you are moving to another Web site. We encourage you to read the privacy statements of these linked sites as their privacy policies may differ from ours.</p>
+</div>
+</div>
+</div>
+
+			</article>
+			<!-- /article -->
+
+		
+		
+		</section>
+		<!-- /section -->
+	</main>
+
+			<!-- footer -->
+			<footer class="footer" role="contentinfo">
+			 <div class="BgColor3">
+			     	<div class="Footer">
+			        	<div class="group ClearBoth">
+			                <!-- <a href="http://www.workthesystemacademy.com" >Back To Top</a> -->
+							<a href="http://www.workthesystemacademy.com">Home</a>	|
+			                <a href="https://workthesystem.customerhub.net/" target="_blank">Login</a>	|
+			                 <a href="http://www.workthesystem.com/" class="lcworkthesystem01" target="_blank">Work the System</a>	|
+							 <a href="/privacy-policy/">Privacy Policy</a> <br>
+			                <a href="/terms-n-conditions-of-use/">Terms and Conditions of Use</a>	|  
+			                <a href="/terms-n-conditions-of-service/">Terms and Conditions of Service</a>           
+			            </div>
+			            <p class="SmallText TextColor2 Caps">Copyright © 2017. Work the System. All rights reserved. </p>
+			        </div>
+			     	
+			     </div>
+				
+
+			</footer>
+			<!-- /footer -->
+
+		
+		<!-- /wrapper -->
+
+		<script type="text/javascript" src="http://www.workthesystemacademy.com/wp-content/themes/html5blank-stable/js/lib/conditionizr-4.3.0.min.js?ver=4.3.0"></script>
+<script type="text/javascript" src="http://www.workthesystemacademy.com/wp-content/themes/html5blank-stable/js/lib/modernizr-2.7.1.min.js?ver=2.7.1"></script>
+<script type="text/javascript" src="http://www.workthesystemacademy.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="http://www.workthesystemacademy.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="http://www.workthesystemacademy.com/wp-content/themes/html5blank-stable/js/scripts.js?ver=1.0.0"></script>
+<script type="text/javascript" src="http://www.workthesystemacademy.com/wp-includes/js/comment-reply.min.js?ver=4.7.1"></script>
+
+	
 
 </body></html>
