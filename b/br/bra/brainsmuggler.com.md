@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the brainsmuggler.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127085122id_/http%3A//brainsmuggler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainsmuggler.com privacy policy that was archived on 2017-01-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170119092739id_/http%3A//brainsmuggler.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Brain Smuggler
+# Privacy Policy – Brain Smuggler
 
 This Privacy Policy discloses the privacy practices for the www.brainsmuggler.com Site and various related services (together referred to as the “Site”). Brain Smuggler (“Brain Smuggler,” “Us,” “Our” or “We”) is committed to protecting Your privacy online. All visitors to, or users of, Brain Smuggler Site are referred to, individually, as “You” or “Your.” Please read the information below to learn the following regarding Your use of this Site.
 
