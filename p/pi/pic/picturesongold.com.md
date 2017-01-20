@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturesongold.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120173358id_/http%3A//www.picturesongold.com/service/PrivacyPolicy_p21.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturesongold.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120034014id_/https%3A//www.picturesongold.com/service/PrivacyPolicy_p21.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -7,11 +7,11 @@
     * [Lockets](http://www.picturesongold.com/shop/locket-jewelry.html)
     * [Photo Engraved Jewelry](http://www.picturesongold.com/shop/photo-jewelry.html)
     * [Religious Jewelry](http://www.picturesongold.com/shop/religious-jewelry.html)
-    * [Medical Id Jewelry](http://www.picturesongold.com/shop/medical-jewelry.html)
     * [Sports & Number Jewelry](http://www.picturesongold.com/shop/sports-numbers-and-charms.html)
-    * [Engravable Jewelry](http://www.picturesongold.com/shop/engraveable-jewelry.html)
+    * [Medical Id Jewelry](http://www.picturesongold.com/shop/medical-jewelry.html)
     * [Thumbprint / Fingerprint Jewelry](http://www.picturesongold.com/shop/thumbprint-fingerprint-jewelry.html)
     * [Police & Firefighter Jewelry](http://www.picturesongold.com/shop/fraternal-jewelry.html)
+    * [Engravable Jewelry](http://www.picturesongold.com/shop/engraveable-jewelry.html)
     * [Id Bracelets](http://www.picturesongold.com/shop/id-bracelets.html)
     * [Chains](http://www.picturesongold.com/shop/chains.html)
     * [Signet Rings](http://www.picturesongold.com/shop/signet-rings.html)
