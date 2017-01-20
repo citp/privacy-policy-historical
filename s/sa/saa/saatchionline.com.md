@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saatchionline.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219100537id_/http%3A//www.saatchionline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saatchionline.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120142943id_/https%3A//www.saatchiart.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Saatchi Art
 
