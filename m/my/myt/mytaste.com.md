@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytaste.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121051927id_/http%3A//www.mytaste.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytaste.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120225213id_/http%3A//www.mytaste.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - myTaste.com
 
