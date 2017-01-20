@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the askchefdennis.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120020140id_/http%3A//www.askchefdennis.com/about-chef-dennis/terms-conditions-disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the askchefdennis.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120114954id_/http%3A//www.askchefdennis.com/about-chef-dennis/terms-conditions-disclosures) for the most accurate reproduction.*
 
 # Disclosures and Privacy - A Culinary Journey With Chef Dennis
 
