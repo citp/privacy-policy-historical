@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prohealth.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109182216id_/https%3A//www.prohealth.com/shop/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prohealth.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120090011id_/https%3A//www.prohealth.com/shop/privacy.cfm) for the most accurate reproduction.*
 
 # ProHealth Vitamin & Supplement Store: Privacy Policy
 
