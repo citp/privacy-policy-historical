@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the themarketingmoron.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805053054id_/http%3A//www.themarketingmoron.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themarketingmoron.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120171212id_/http%3A//www.themarketingmoron.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Internet Marketing Advice, Internet Business Blog, Work From Home Blog
 
