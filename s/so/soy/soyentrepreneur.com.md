@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soyentrepreneur.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217141057id_/https%3A//www.entrepreneur.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soyentrepreneur.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120032949id_/https%3A//www.entrepreneur.com/privacypolicy) for the most accurate reproduction.*
 
 # Entrepreneur.com Online Privacy Statement
 
