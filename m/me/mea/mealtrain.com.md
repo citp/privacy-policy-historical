@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mealtrain.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601103934id_/https%3A//www.mealtrain.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mealtrain.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120035659id_/https%3A//www.mealtrain.com/privacy_policy) for the most accurate reproduction.*
 
 # Meal Train | Privacy Policy
 
