@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flightmyweb.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120053823id_/https%3A//flightmyweb.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flightmyweb.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120053806id_/https%3A//flightmyweb.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Book Flights Tickets Online at http://flightmyweb.com
 
