@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the magemojo.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021210355id_/https%3A//magemojo.com/magento/cms_privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magemojo.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120142504id_/https%3A//magemojo.com/magento/cms_privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Best Ecommerce Solutions - Expert Magento Servers
 
 Privacy for our customers is extremely important to MageMojo. We take your privacy seriously, and we do not share your personal information with any third parties without your permission. Your email addresses are not for sale or trade and are strictly guarded. 
 
