@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entrepreneurindia.in privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401060952id_/http%3A//www.entrepreneur.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entrepreneurindia.in privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120032949id_/https%3A//www.entrepreneur.com/privacypolicy) for the most accurate reproduction.*
 
 # Entrepreneur.com Online Privacy Statement
 
