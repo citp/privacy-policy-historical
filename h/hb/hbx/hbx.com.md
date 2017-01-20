@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hbx.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230012907id_/http%3A//hbx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hbx.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120072743id_/https%3A//hbx.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | HBX.
 
