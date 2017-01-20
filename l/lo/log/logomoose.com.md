@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the logomoose.com privacy policy that was archived on 2015-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150906031125id_/http%3A//www.logomoose.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logomoose.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120090156id_/https%3A//www.logomoose.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • LogoMoose
 
