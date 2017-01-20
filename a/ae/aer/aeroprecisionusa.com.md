@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aeroprecisionusa.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120180355id_/http%3A//aeroprecisionusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aeroprecisionusa.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120111334id_/https%3A//aeroprecisionusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Aero Precision
 
