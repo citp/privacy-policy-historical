@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the primeloops.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326192357id_/https%3A//primeloops.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the primeloops.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120220114id_/https%3A//primeloops.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
