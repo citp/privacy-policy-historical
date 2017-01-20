@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thenewsstar.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818160926id_/http%3A//static.thenewsstar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thenewsstar.com privacy policy that was archived on 2017-01-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170120185301id_/http%3A//static.thenewsstar.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The News Star
 
