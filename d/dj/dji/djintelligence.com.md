@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222202900id_/http%3A//www.djintelligence.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the djintelligence.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121054926id_/https%3A//www.djintelligence.com/privacy) for the most accurate reproduction.*
 
 # DJ Intelligence® | Privacy Policy
 
