@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alienskin.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120114149id_/http%3A//www.alienskin.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alienskin.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121102833id_/https%3A//www.alienskin.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Alien Skin Software
 
