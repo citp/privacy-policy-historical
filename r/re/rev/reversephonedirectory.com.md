@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reversephonedirectory.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121045407id_/http%3A//www.reversephonedirectory.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversephonedirectory.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121061058id_/http%3A//www.reversephonedirectory.com/privacy.html) for the most accurate reproduction.*
 
 # Reverse Phone Directory Privacy Policy | ReversePhoneDirectory.com
 
