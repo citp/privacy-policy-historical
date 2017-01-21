@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the com-unik.info privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112050916id_/http%3A//www.com-unik.info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the com-unik.info privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121165925id_/https%3A//www.com-unik.info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Community Financial News
 
