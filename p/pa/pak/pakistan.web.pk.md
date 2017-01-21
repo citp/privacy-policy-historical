@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pakistan.web.pk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121161837id_/http%3A//www.pakistan.web.pk/help/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pakistan.web.pk privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121073353id_/http%3A//www.pakistan.web.pk/help/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pakistan Social Web
 
-[Dismiss Notice](https://web.archive.org/web/20161121161837id_/http%3A//www.pakistan.web.pk/help/account/dismiss-notice?notice_id=0 "Dismiss Notice")
+[Dismiss Notice](https://web.archive.org/web/20170121073353id_/http%3A//www.pakistan.web.pk/help/account/dismiss-notice?notice_id=0 "Dismiss Notice")
 
 Pakistan.web.pk would like to wish Happy Birthday to all its members who celebrate their birthday today __
 
@@ -21,7 +21,7 @@ To personalize your experience (your information helps us to better respond to y
 
 ### Do we use cookies?
 
-    Yes. This page explains how this site uses cookies.: [Cookie Usage](https://web.archive.org/web/20161121161837id_/http%3A//www.pakistan.web.pk/help/help/cookies)
+    Yes. This page explains how this site uses cookies.: [Cookie Usage](https://web.archive.org/web/20170121073353id_/http%3A//www.pakistan.web.pk/help/help/cookies)
 
 ### Do we disclose any information to outside parties?
 
@@ -33,7 +33,7 @@ To personalize your experience (your information helps us to better respond to y
 
 ### Terms and Conditions
 
-    Please visit our Terms of Service and Rules section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service and Rules](https://web.archive.org/web/20161121161837id_/http%3A//www.pakistan.web.pk/help/help/terms) page.
+    Please visit our Terms of Service and Rules section establishing the use, disclaimers, and limitations of liability governing the use of our website at [Terms of Service and Rules](https://web.archive.org/web/20170121073353id_/http%3A//www.pakistan.web.pk/help/help/terms) page.
 
 ### Changes to our Privacy Policy
 
@@ -41,7 +41,7 @@ To personalize your experience (your information helps us to better respond to y
 
 ### Contacting Us
 
-    If there are any questions regarding this privacy policy you may [Contact Us by Clicking Here](https://web.archive.org/web/20161121161837id_/http%3A//www.pakistan.web.pk/help/misc/contact).
+    If there are any questions regarding this privacy policy you may [Contact Us by Clicking Here](https://web.archive.org/web/20170121073353id_/http%3A//www.pakistan.web.pk/help/misc/contact).
 
 Pakistan Social Web
 http://www.pakistan.web.pk
