@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121162651id_/http%3A//www.ashp.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashp.org privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121021044id_/http%3A//www.ashp.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -53,7 +53,7 @@ Users who do not want to receive mailings or emails from ASHP can contact ASHP b
   1. [Change of Address Form](http://www.ashp.org/go/account.aspx)
   2. [custserv@ashp.org](mailto:custserv@ashp.org)
   3. Postal mail: **American Society of Health-System Pharmacists  
-**7272 Wisconsin Avenue  
+**4500 East-West Highway, Suite 900  
 Bethesda, MD 20814
   4. Telephone: 301-657-3000 
 
@@ -78,5 +78,6 @@ Maintaining the integrity of data collected at www.ashp.org is of utmost importa
 If you have any questions about this privacy statement, the practices of this site, or your use of this Web site, please contact the ASHP Web team: 
 
 American Society of Health-System Pharmacists   
-7272 Wisconsin Avenue Bethesda, MD 20814  
+4500 East-West Highway, Suite 900  
+Bethesda, MD 20814  
 [www@ashp.org](mailto:www@ashp.org)
