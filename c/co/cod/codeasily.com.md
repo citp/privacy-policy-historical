@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codeasily.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121033022id_/http%3A//codeasily.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codeasily.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121095142id_/https%3A//codeasily.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CodEasily.com
 
