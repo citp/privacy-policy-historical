@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theprizefinder.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229050140id_/http%3A//www.theprizefinder.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theprizefinder.com privacy policy that was archived on 2017-01-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170121150200id_/https%3A//www.theprizefinder.com/privacy) for the most accurate reproduction.*
 
 # Privacy | The Prize Finder
 
