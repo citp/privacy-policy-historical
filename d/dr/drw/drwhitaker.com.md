@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drwhitaker.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127034110id_/http%3A//www.drwhitaker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drwhitaker.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122230247id_/http%3A//www.drwhitaker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
