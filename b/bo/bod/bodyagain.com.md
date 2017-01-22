@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bodyagain.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214232850id_/http%3A//bodyagain.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bodyagain.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122192915id_/http%3A//bodyagain.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Body Again
 
