@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allfreecrochetafghanpatterns.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121231653id_/http%3A//www.allfreecrochetafghanpatterns.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allfreecrochetafghanpatterns.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122011817id_/https%3A//www.allfreecrochetafghanpatterns.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | AllFreeCrochetAfghanPatterns.com
 
