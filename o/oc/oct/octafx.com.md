@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the octafx.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123005515id_/http%3A//www.octafx.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the octafx.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122065439id_/http%3A//www.octafx.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Client Protection
 
