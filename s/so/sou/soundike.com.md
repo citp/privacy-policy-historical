@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122095601id_/http%3A//www.soundike.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundike.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122041653id_/https%3A//www.soundike.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
