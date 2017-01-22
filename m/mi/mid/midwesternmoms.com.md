@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midwesternmoms.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122105229id_/http%3A//midwesternmoms.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midwesternmoms.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122033038id_/https%3A//midwesternmoms.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Midwestern Moms
 
