@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the survley.com privacy policy that was archived on 2016-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161122131428id_/http%3A//en.survley.com/en/home/privacy_policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the survley.com privacy policy that was archived on 2017-01-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170122092454id_/https%3A//en.survley.com/en/home/privacy_policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 
@@ -119,7 +119,7 @@
 
 
 
-	<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=1635438680029134"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="http://cdn.taboola.com/libtrc/survleycom/loader.js"></script><script src="http://en.survley.com/assets/js/jquery-1.10.2.min.js"></script>
+	<script async="" src="//www.google-analytics.com/analytics.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1&amp;appId=1635438680029134"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//cdn.taboola.com/libtrc/survleycom/loader.js" id="tb_loader_script"></script><script src="http://en.survley.com/assets/js/jquery-1.10.2.min.js"></script>
 
     <script src="http://en.survley.com/assets/js/bootstrap.min.js"></script>
 	<script src="http://en.survley.com/assets/js/user_cookie.js"></script>
@@ -161,14 +161,18 @@
 	<script type="text/javascript">
   window._taboola = window._taboola || [];
   _taboola.push({article:'auto'});
-  !function (e, f, u) {
-    e.async = 1;
-    e.src = u;
-    f.parentNode.insertBefore(e, f);
+  !function (e, f, u, i) {
+    if (!document.getElementById(i)){
+      e.async = 1;
+      e.src = u;
+      e.id = i;
+      f.parentNode.insertBefore(e, f);
+    }
   }(document.createElement('script'),
   document.getElementsByTagName('script')[0],
-  'http://cdn.taboola.com/libtrc/survleycom/loader.js');
-</script> 	<!-- End: Taboola Code -->
+  '//cdn.taboola.com/libtrc/survleycom/loader.js',
+  'tb_loader_script');
+</script>	<!-- End: Taboola Code -->
 	<!-- Start: FB Pix  -->
 	<script>(function() {
 var _fbq = window._fbq || (window._fbq = []);
@@ -208,7 +212,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
     '&random='+(new Date).getTime()+
     '" type="text/javascript">'+'\x3C/scr'+'ipt>');
 })();
-</script><script src="//survey.g.doubleclick.net/survey?site=_dmea5ybvipiqlpcn3v5tmqjopm&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20161122131428id_%2Fhttp%253A%2F%2Fen.survley.com%2Fen%2Fhome%2Fprivacy_policy&amp;cid=everything&amp;random=1580409239970" type="text/javascript"></script>	<!-- Survey End -->
+</script><script src="//survey.g.doubleclick.net/survey?site=_dmea5ybvipiqlpcn3v5tmqjopm&amp;url=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170122092454id_%2Fhttps%253A%2F%2Fen.survley.com%2Fen%2Fhome%2Fprivacy_policy&amp;cid=everything&amp;random=1580409237041" type="text/javascript"></script>	<!-- Survey End -->
 
 	
 
@@ -424,7 +428,7 @@ window._fbq.push(['track', 'PixelInitialized', {}]);
 
 			<a href="http://en.survley.com/en/contact-us.html">Contact</a> <br>
 
-			<a href="http://en.survley.com/en/">Survley.com</a> © 2016. All rights reserved			<div class="text-center"><p><font size="2"><a href="mailto:survley.contact@gmail.com?Subject=Web%20form%20entry%20-%20Contact%20Us%20Form" target="_top">survley.contact@gmail.com</a> | <a href="http://survley.com/home/facebook_app_privacy_policy" target="_top">FB App Privacy Policy</a></font></p><font size="2">
+			<a href="http://en.survley.com/en/">Survley.com</a> © 2017. All rights reserved			<div class="text-center"><p><font size="2"><a href="mailto:survley.contact@gmail.com?Subject=Web%20form%20entry%20-%20Contact%20Us%20Form" target="_top">survley.contact@gmail.com</a> | <a href="http://survley.com/home/facebook_app_privacy_policy" target="_top">FB App Privacy Policy</a></font></p><font size="2">
 <p>This site is not part of the Facebook website or Facebook Inc. <br>Additionally, this site is NOT endorsed by Facebook in any way. FACEBOOK is a trademark of FACEBOOK, Inc. </p>
 </font><p><font size="2"><a href="http://en.survley.com/en/home/privacy_policy" target="_top">Disclaimer: All content is provided for fun and entertainment purposes only</a></font></p></div>
 
@@ -844,6 +848,7 @@ function checkCount_bottom_popup() {
 
 
 <script src="http://essay-topics.org/assets/js/url.js"></script>
+<script src="http://essay-topics.org/assets/js/jquery.timer.js"></script>
 <script type="text/javascript" src="http://survley.com/assets/templates/content_rich/js/jquery.md5.min.js"></script>
 <script language="javascript">
 
@@ -883,9 +888,8 @@ function checkCount_bottom_popup() {
 	
 
    
- $(document).ready(function() {
+  $(document).ready(function() {
 	
-
 	$.getJSON("http://freegeoip.net/json/", function (data) {
 		var country = data.country_name;
 		var country_code = data.country_code;
@@ -905,22 +909,38 @@ function checkCount_bottom_popup() {
 		
 		var traffics_cookie=getCookie_traffics(name);
 		//var traffics_cookie=false;
+		
+		
+		
 	
 		if(!traffics_cookie)
 		{
 			if(affiliate !="undefined" || affiliate !=" ")
 			{
-				saveCookie_traffics(name,value,'1'); 
-				$.ajax({
-					crossDomain : true,
-					type:'POST',
-					dataType: "json",
-					data: { domain_name: domain_name, alias: alias, lang:lang, affiliate:affiliate, ip:ip, country:country, country_code:country_code,city:city },
-					url: "http://essay-topics.org/api/add_clicks",
-					success: function(data) {
-						//alert('sss');
-					}
-				});
+				var count = 0;
+				var timer = $.timer(
+					function() {
+						count++;
+						if(count == 2)
+						{
+							saveCookie_traffics(name,value,'1'); 
+							$.ajax({
+								crossDomain : true,
+								type:'POST',
+								dataType: "json",
+								data: { domain_name: domain_name, alias: alias, lang:lang, affiliate:affiliate, ip:ip, country:country, country_code:country_code,city:city },
+								url: "http://essay-topics.org/api/add_clicks",
+								success: function(data) {
+									//alert('data');
+								}
+							});
+						}
+					},
+					1000,
+					false
+				);	
+				timer.play();
+				
 			}
 		}
 			
