@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the educake.co.uk privacy policy that was archived on 2016-06-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160625201747id_/https%3A//www.educake.co.uk/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the educake.co.uk privacy policy that was archived on 2017-01-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170122114457id_/https%3A//www.educake.co.uk/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="X-UA-Compatible" content="IE=edge">
@@ -18,15 +18,27 @@
  
 <link rel="apple-touch-icon-precomposed" href="/images/apple-touch-icon-precomposed.png">
 <!--[if IE 6]><script  type="text/javascript" src="js/jq-png-min.js"></script><![endif]-->
-<link href="https://www.educake.co.uk/styles/style.css?v=76" media="screen" rel="stylesheet" type="text/css">
+ 
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//rum-static.pingdom.net/prum.min.js"></script><script>
+        var _prum = [['id', '57dfb48799108134c8c5cfb7'],
+                     ['mark', 'firstbyte', (new Date()).getTime()]];
+        (function() {
+            var s = document.getElementsByTagName('script')[0]
+              , p = document.createElement('script');
+            p.async = 'async';
+            p.src = '//rum-static.pingdom.net/prum.min.js';
+            s.parentNode.insertBefore(p, s);
+        })();
+        </script>
+<link href="https://www.educake.co.uk/styles/style.css?v=88" media="screen" rel="stylesheet" type="text/css">
 <link href="https://www.educake.co.uk/styles/hopscotch.css" media="screen" rel="stylesheet" type="text/css">
-<link href="https://www.educake.co.uk/styles/ui-lightness/jquery-ui.min.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script type="text/javascript" src="https://www.educake.co.uk/scripts/smartlook.js"></script>
+<link href="https://www.educake.co.uk/styles/ui-lightness/jquery-ui.min.css" media="screen" rel="stylesheet" type="text/css"><script type="text/javascript" src="https://www.educake.co.uk/scripts/smartlook.js"></script>
 <script type="text/javascript" src="https://www.educake.co.uk/scripts/hopscotch.min.js"></script>
 <script type="text/javascript" src="https://www.educake.co.uk/scripts/jquery-1.7.1.min.js"></script>
 <script type="text/javascript" src="https://www.educake.co.uk/scripts/jquery-ui.min.js"></script>
 <script type="text/javascript" src="https://www.educake.co.uk/scripts/jquery.validate.js"></script>
 <script type="text/javascript" src="https://www.educake.co.uk/scripts/jblock.js"></script>
-<script type="text/javascript" src="https://www.educake.co.uk/scripts/common.js?v=8"></script>
+<script type="text/javascript" src="https://www.educake.co.uk/scripts/common.js?v=10"></script>
 </head>
 <body>
 <div id="wrapper">
@@ -55,7 +67,7 @@
 <input type="image" src="https://www.educake.co.uk/images/go_btn.gif" class="go_btn">
 </span>
 <div align="right">
-<span style=""><a href="forgotpassword" style="text-decoration: none"><p><font color="#A6A6A6">Forgotten your password?</font></p></a></span>
+<span style=""><a href="forgotpassword" id="forgotpasswordlink" style="text-decoration: none"><p>Trouble logging in? Click here for help</p></a></span>
 </div>
 <input type="hidden" id="loginerror" value="0">
 <input type="hidden" name="logintrue" id="logintrue" value="1">
@@ -82,12 +94,16 @@ $(document).ready(function(){
         $('#username').val('Email');
       }
       $('#username').attr('placeholder', 'Email');
+      //change forgot password link
+      $('#forgotpasswordlink').attr('href', '/forgotpassword?user=teacher');
     }
     else if (logintype == 'studentloginbutton') {
       if (ie9 == 'true') {
         $('#username').val('Username');
       }
       $('#username').attr('placeholder', 'Username');
+      $('#forgotpasswordlink').attr('href', '/forgotpassword?user=student');
+      //change forgot password link
     }
   });
 
@@ -163,7 +179,6 @@ $(document).ready(function(){
 <div class="left_side">
 <font color="#000000">
 We will treat any information you give us with great care.<br><br>
-We will not give your details to other companies.<br><br>
 Everything is kept on a safe and secure server.<br><br><br>
 <a href="#" style="text-decoration: none" id="showdata"><b><font color="#000000">Click here if you want more detail...<br><br></font></b></a>
 </font><div class="dropdown"><font color="#000000">
@@ -179,6 +194,7 @@ We may collect the following information:
 <ul class="copyrigtbullet">
 <li><ul><li>your name</li></ul></li>
 <li>your school name</li>
+<li>your mobile phone number</li>
 <li>contact information including email address</li>
 <li>other information relevant to market research</li>
 </ul><br><br><br>
@@ -198,21 +214,16 @@ information of other students.<br>
 The Educake website does not provide students with any means to communicate directly with
 each other. For example, there are no chat rooms.<br><br><br><br>
 <b>Security</b><br><br>
-Information is stored on a secure server. We are committed to ensuring that your information is secure.
+Information is stored on secure servers in the EU. We are committed to ensuring that your information is secure.
 In order to prevent unauthorised access or disclosure, we have put in place suitable physical,
 electronic and managerial procedures to safeguard and secure the information we collect online.<br><br><br><br>
 <b>How we use cookies</b><br><br>
-A cookie is a common small file which asks permission to be placed on your computer's hard drive.
-Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site.
+A cookie is a common small file which asks permission to be placed on your computer's hard drive. The file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site.
 Cookies allow web applications to respond to you as an individual.<br><br>
 We use traffic log cookies to identify which pages are being used.
-This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs.
-We only use this information for statistical analysis purposes and then the data is removed from the system.<br><br>
-Cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not.
-A cookie does not give us access to your computer or any information about you, other than the data you choose to share with us.<br><br>
-You can choose to accept or decline cookies. Most web browsers automatically accept cookies,
-but you can usually modify your browser setting to decline cookies if you prefer.
-This may prevent you from taking full advantage of the website.<br><br><br><br>
+This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.<br><br>
+Cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie does not give us access to your computer or any information about you, other than the data you choose to share with us.<br><br>
+Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.<br><br><br><br>
 <b>Links to other websites</b><br><br>
 Our website may contain links to other websites of interest. We usually do not have any control over the content
 of these websites. Because of this, we cannot be responsible for the protection and privacy of any information which
@@ -275,7 +286,7 @@ Oxford Innospace<br>
 115 Magdalen Road<br>
 Oxford<br>
 OX4 1RQ<br></li>
-<li>01865 582488</li>
+<li>01865 241465</li>
 <li>support@educake.co.uk</li>
 </ul>
 </div>
