@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lebanon-lotto.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122190313id_/http%3A//www.lebanon-lotto.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lebanon-lotto.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122060935id_/https%3A//www.lebanon-lotto.com/privacy_policy.php) for the most accurate reproduction.*
 
 # PRIVACY POLICY | LEBANON LOTTO, Buy The Loto, Check the Results, Win The Draw; play lebanon loto from La Libanaise Des Jeux
 
