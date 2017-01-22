@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moodfabrics.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123081132id_/http%3A//www.moodfabrics.com/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moodfabrics.com privacy policy that was archived on 2017-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170122195604id_/https%3A//www.moodfabrics.com/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
@@ -56,13 +56,6 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to Customer Service Hours: 
 
 **Monday - Friday:** 9am - 6pm EST
-
-Mood Fabrics online will be closed the following days:  
-November 24, 2016  
-December 24, 2016  
-December 26, 2016  
-December 31, 2016  
-January 2nd, 2017
 
 .
 
