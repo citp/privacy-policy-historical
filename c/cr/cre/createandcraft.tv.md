@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the createandcraft.tv privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123182200id_/http%3A//www.createandcraft.tv/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createandcraft.tv privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123083500id_/http%3A//www.createandcraft.tv/privacypolicy) for the most accurate reproduction.*
 
-# Privacy Policy - CreateAndCraft
+# Privacy Policy | Create and Craft
 
 The www.createandcraft.tv website is operated by Ideal Shopping Direct Limited, a company registered in England and Wales, whose registered office is at Newark Road, Peterborough, Cambridgeshire, United Kingdom, PE1 5WG.
 
@@ -88,7 +88,7 @@ Back to Top
 
 10\. Your browser also generates other information, including which language the site is displayed in, and your Internet Protocol address (IP address). An IP address is a set of numbers which is assigned to your computer during a browsing session whenever you log on to the Internet via your internet service provider or your network (if you access the Internet from, for example, a computer at work). Your IP address is automatically logged by our servers and used to collect traffic data about visitors to our websites. We do not use your IP address to identify you personally.
 
-For more information about cookies, visit our [About Cookies](https://web.archive.org/about-cookies) page. 
+For more information about cookies, visit our [About Cookies](https://web.archive.org/gb/about-cookies) page. 
 
 Back to Top
 
@@ -98,7 +98,7 @@ Back to Top
 
 11\. We endeavour to take all reasonable steps to protect your personal information. However, we cannot guarantee the security of any data you disclose online. You accept the inherent security risks of providing information and dealing online over the Internet and will not hold us responsible for any breach of security unless this is due to our negligence or wilful default.
 
-12\. For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on [Security.](https://web.archive.org/Safety-and-Security)
+12\. For further information about the steps we take to protect your information and make online shopping as secure as possible, please see information on [Security.](https://web.archive.org/gb/Safety-and-Security)
 
 Back to Top
 
@@ -126,6 +126,6 @@ Back to Top
 
 To change any of your registered details on createandcraft.tv or idealworld.tv, click on 'your account' and enter your login name and PIN. Once logged in change any of the details shown and click 'change details'.
 
-For further information about shopping on idealworld.tv, please read our [Terms and Conditions](https://web.archive.org/terms_and_conditions) and [Home Delivery.](https://web.archive.org/HomeDelivery)
+For further information about shopping on idealworld.tv, please read our [Terms and Conditions](https://web.archive.org/gb/terms_and_conditions) and [Home Delivery.](https://web.archive.org/gb/HomeDelivery)
 
 Back to Top
