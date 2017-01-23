@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the executionists.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221143756id_/http%3A//executionists.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the executionists.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123184612id_/http%3A//www.executionists.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Executionists | Web Design, Development and Marketing Agency
+# Privacy Policy
 
 This Privacy Policy covers the privacy practices for Executionists.com. This privacy notice applies solely to information collected by this web site.
 
