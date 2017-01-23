@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tieks.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122100916id_/http%3A//tieks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tieks.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123110003id_/https%3A//tieks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
