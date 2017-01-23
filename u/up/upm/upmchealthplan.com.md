@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711181438id_/https%3A//www.upmchealthplan.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upmchealthplan.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123104508id_/https%3A//www.upmchealthplan.com/privacy.aspx) for the most accurate reproduction.*
 
 # UPMC Health Plan | Affordable Health Care for Individuals & Families
 
-That's right — your personal information is private and confidential. We at UPMC Health Plan want to take this opportunity to remind you that this is the trust that we establish with you. It is a pledge that we take seriously. Whether you are a prospective, current or former member, living or deceased, we respect and safeguard the privacy and confidentiality of the information that we have about you.   
+Your personal information is private and confidential. We at UPMC Health Plan want to take this opportunity to remind you that this is the trust that we establish with you. It is a pledge that we take seriously. Whether you are a prospective, current or former member, living or deceased, we respect and safeguard the privacy and confidentiality of the information that we have about you.   
 Privacy is one of your rights as a consumer as well as a UPMC Health Plan member. It also is a right that you retain even when you are no longer a member of UPMC Health Plan. 
 
 But what does "private and confidential" **really** mean? 
@@ -20,6 +20,10 @@ When you fill out your enrollment or renewal application form and sign it, you a
 Your personal information covers a number of elements that all have one thing in common: they are all unique to you, they can be used to identify you. This means that any files containing information that includes such things as your name, address, social security number and birth date are considered "protected health information." And it is our responsibility to ensure the privacy of the protected health information of all our members — prospective, current or former. 
 
 The files that a managed care organization collects or maintains are **not** things such as medical charts or records, but include things such as the claims we have received and paid for the services provided to you, or the health care premiums that you or your company have paid. So whether the protected health information we have is considered health information or non-public personal financial information — we only use the information we have in our files within our company and with our contracted providers, vendors and agents for the purposes of your health care insurance. 
+
+ClinicalConnect Health Information Exchange (HIE) – UPMC Insurance Services Division participates in the ClinicalConnect HIE. The individual PHI and health information stored within ClinicalConnect HIE includes data such as test results, medication lists, consultation and progress notes, and clinical claims information. UPMC Insurance Services Division data will be shared only if the member has been to a ClinicalConnect HIE provider or facility and, while there, did not choose to opt out of such information sharing. Members must notify their ClinicalConnect HIE provider if they do not wish to participate in the HIE. 
+
+Organized Health Care Arrangement (OHCA) – UPMC Insurance Services Division and UPMC established an OHCA to conduct analysis for quality assessment and improvement activities, utilization review, payment activities, and clinical solutions development to facilitate more effective and efficient delivery of health care services to patients and members. This includes participation in various health care quality measures. Individual PHI may be accessed, used, and/or shared in the course of carrying out such OHCA activities. 
 
 Other than for the well-defined, routine purposes described above, or as required by law, the only one who has access to your personal information and records is you. 
 
@@ -59,7 +63,7 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 
 ### UPMC Health Plan (Commercial)
 
-  * [Notice of Privacy Practices](http://www.upmchealthplan.com/pdf/2014_COM_NOPP.pdf)
+  * [Notice of Privacy Practices](https://embed.widencdn.net/pdf/view/upmc/7oihmtganm/16SO0017---2016-Notice-of-Privacy-Policy-CM.pdf?u=uqsfyz)
   * [Personal Representative Designation Form](http://www.upmchealthplan.com/pdf/commercialPRD.pdf)
   * [Member Authorization to Use/Disclose PHI](http://www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
 
@@ -67,8 +71,8 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 
 ### UPMC _for Life_ (Medicare)
 
-  * [Notice of Privacy Practices HMO/PPO Members](https://embed.widencdn.net/pdf/plus/upmc/ysrpvelzgi/MC_NOPP.pdf?u=8gpqp2)
-  * [Personal Representative Designation Form](https://embed.widencdn.net/pdf/plus/upmc/37ylg3xtas/MC_PRDFRM.pdf?u=8gpqp2)
+  * [Notice of Privacy Practices HMO/PPO Members](https://embed.widencdn.net/pdf/plus/upmc/yklzbky1bq/2017_NOPP_16MCID0438.pdf?u=uqsfyz)
+  * [Personal Representative Designation Form](https://p.widencdn.net/jbdfda/MC_PRDFRM)
   * [Member Authorization to Use/Disclose PHI](http://www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
 
 
@@ -92,8 +96,8 @@ Specific inquiries about this statement regarding HIPAA readiness and compliance
 
 ### UPMC Medicare Special Needs Plans
 
-  * [Notice of Privacy Practices](http://www.upmchealthplan.com/pdf/2015_SNP_NOPP.pdf)
-  * [Personal Representative Designation Form](https://embed.widencdn.net/pdf/plus/upmc/37ylg3xtas/MC_PRDFRM.pdf?u=8gpqp2)
+  * [Notice of Privacy Practices](https://embed.widencdn.net/pdf/plus/upmc/yklzbky1bq/2017_NOPP_16MCID0438.pdf?u=uqsfyz)
+  * [Personal Representative Designation Form](https://p.widencdn.net/jbdfda/MC_PRDFRM)
   * [Member Authorization to Use/Disclose PHI](http://www.upmchealthplan.com/pdf/MemberPHIauth.pdf)
 
 
