@@ -1,9 +1,12 @@
-> *The following text is extracted and transformed from the whoislookupdb.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105000737id_/http%3A//whoislookupdb.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoislookupdb.com privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123175139id_/https%3A//whoislookupdb.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy Whois Domain Lookup Database
 
 **DNS and WHOIS - How it Works**  
 WHOIS databases are usually mainly run by registrars and registries which serve to point to the WHOIS server the responsible sub registry including providing an overview of the contract details of the registry. On the other hand, the DNS registry operators work to maintain another vital system, the authoritative name servers which usually holds the key to where exactly it is that a website is located. It is then after this that one of the name servers is contacted and in turn sends back the IP address for that domain name. In the end, the computer is therefore able to connect and in turn serve up the homepage. Everything taken into consideration, it is very important to understand the fact that WHOIS is specifically designed in more of less the same way, for instance, once at the WHOIS platform, simply follow the references to the downstream WHO IS servers unless the required information is obtained. This process is illustrated for a thick registry and in the event that the registry is thin an additional process query is run at the registrars' database in a bid to obtain the WHOIS data for the domain name. 
+
+  
+
 
   
 
