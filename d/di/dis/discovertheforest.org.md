@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discovertheforest.org privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123040817id_/http%3A//www.discovertheforest.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discovertheforest.org privacy policy that was archived on 2017-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170123012445id_/http%3A//www.discovertheforest.org/privacy) for the most accurate reproduction.*
 
 # Discover The Forest
 
