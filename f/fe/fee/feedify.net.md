@@ -1,40 +1,41 @@
-> *The following text is extracted and transformed from the feedify.net privacy policy that was archived on 2014-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140627133805id_/http%3A//www.fieldaware.com/privacy-policy/3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedify.net privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124055901id_/https%3A//feedify.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Feedify - Privacy
 
-This webpage describes FieldAware’s Privacy Policy in regard to the collection and usage of personal or corporate information that you may provide to us. By exploring or using our web site, and by submitting information, you agree to FieldAware’s usage of such information as described herein.
+Atizva Technologies (we" or "us") values its visitors' privacy. This privacy policy is for this website Feedify.net and served by Atizva Technologies and governs the privacy of its users who choose to use it.
 
-FieldAware is the sole owner of the information collected on this website. We will not sell to, or share this information with, third parties in ways different from what is disclosed in this statement. FieldAware collects information from our users at several different points on the website.
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
-###  Cookies
+## 1\. Information We Collect
 
-FieldAware may use browser cookies on this website to keep track of your visit. A “cookie” is a small amount of data that is sent from a Web server to your browser and stored on your computer’s hard drive. Use of cookies may allow FieldAware to provide a higher quality, more relevant, customer experience. Use of cookies may also allow us to automate entry into password protected portions of our website so that you will not need to re-enter your password each time you visit our Site. We may also use cookies to track which areas of our website are most popular with our users. With most Internet Browsers, however, you can erase cookies from your computer hard drive, block all cookies, or receive a warning before a cookie is stored on your computer. Please refer to your browser instructions or a help screen to learn more about these functions and how to use them. Please be advised that certain sections or functionalities of our website may be inaccessible to you if your browser does not accept cookies.
+  1. Data Received from you: When you use the Services, consult with our customer service team, send us an email, post on our blog, or communicate with us in any way, you’re giving us information that we collect. That information may include your and your Subscribers’ IP address, name, physical address, email address, phone number, credit card information, operating system, as well as details like gender, occupation, location, birth date, purchase history, and other demographic information. By giving us this information, you consent to your information being collected, used, disclosed, transferred to us and stored by us, as described in our Terms of Use and Privacy Policy.
+  2. List and Email Information: When we receive your customer List or create an email with the Services, we have and may access the data on your list and the information in your email.
+  3. Information from your Use of the Service: We may get information about how and when you use the Services, store it in log files associated with your account, and link it to other information we collect about you. This information may include, for example, your IP address, time, date, browser used, and actions you’ve taken within the application.
+  4. Web Tracking: When you user our services, we track your Members/customers, we may track behavior such as who opened/clicked on the products. We do that to measure the performance of our products activated by you and to show you the analytics behavior and reports about how your campaign performed and what actions your Subscribers took also it may be used improve our features for specific segments to Members.
+  5. Security: We take precautions to protect your information. When you submit sensitive information via the website, your information is protected both online and offline.Wherever we collect sensitive information (such as credit card data), that information is encrypted and transmitted to us in a secure way. You can verify this by looking for a closed lock icon at the bottom of your web browser, or looking for "https" at the beginning of the address of the web page.
 
-###  Use of Web Beacons
 
-When we send you emails, we may include a web beacon to allow us to determine the number of people who open our emails. When you click on a link in an email, we may record this individual response to allow us to customize our offerings to you. Web beacons collect only limited information, such as a cookie identifier, time and date of a page being viewed, and a description of the page on which the Web Beacon resides (the URL).
 
-Web Beacons can be refused when delivered via email. If you do not wish to allow Web Beacons via email, you will need to disable HTML images or refuse HTML (select Text only) emails via your email software.
+## 2\. Other information we collect
 
-###  Links
+We may collect other information that cannot be readily used to identify you, such as (for example) the domain name and IP address of your computer. We may use this information, individually or in the aggregate, for technical administration of our Web site(s); research and development; customer- and account administration; and to help us focus our marketing efforts more precisely.
 
-FieldAware.com contains links to external sites, including our partners’ websites and others. These websites are not governed by this Privacy Policy, and we do not take responsibility for the privacy practices of any third-party websites to which we link.  
-Sharing and Usage of Your Personal Information
+## 3\. Use of Cookies
 
-We will never share, sell, or rent individual personal information with anyone without your advance permission or unless ordered by a court of law. This information is only available to employees managing this information for purposes of contacting you or sending you emails based on your request for information.
+This website uses cookies to better the users experience while visiting the website. A cookie is a piece of data stored on a site visitor's hard drive to help us improve your access to our site and identify repeat visitors to our site. For instance, when we use a cookie to identify you, you would not have to log in a password more than once, thereby saving time while on our site. Cookies can also enable us to track and target the interests of our users to enhance the experience on our site. Usage of a cookie is in no way linked to any personally identifiable information on our site.
 
-###  Compliance with Law
+## 4\. Updates to privacy policy
 
-FieldAware complies with all applicable privacy laws and regulations. We may be compelled to surrender personal user or customer information to United States or other legal authorities without expressed user consent if presented with a court subpoena or similar legal order, or as required or permitted by the laws, rules and regulations of any nation, state or other applicable jurisdiction. In the event of a violation of the terms and conditions of usage of this website or a violation of any restrictions on usage of materials provided in or through this website, we may disclose personal user information to our affected business partners or legal authorities.
+We reserve the right to change this privacy policy as we deem necessary or appropriate because of legal compliance requirements or changes in our business practices.. All updates will be posted on this page.
 
-###  Children’s Online Information Policy
+## 5\. Questions & Concerns
 
-FieldAware understands the importance of protecting children’s privacy, particularly with their online interactions. This website is not designed for and does not intentionally target or solicit anyone younger than 18 years.  
-Individuals who wish to make an access request or remove personal information from our records or if you have any questions in regard to this policy or believe that FieldAware has not complied with the provisions of this policy, should submit such a request by sending an email to us at webmaster@ fieldaware.com. FieldAware is also subject to the jurisdiction of the U.S. Federal Trade Commission. The Federal Trade Commission may be contacted at the following address:
+If you have any questions or comments, or if you want to update, delete, or change any Personal Information we hold, or you have a concern about the way in which we have handled any privacy matter please use our _contact form_ to get in touch. You may also contact us by postal mail or email at:
 
-**Federal Trade Commission**  
-Attn: Consumer Response Center  
-600 Pennsylvania Avenue NW  
-Washington, DC 20580  
-[consumerline@ftc.gov](mailto:consumerline@ftc.gov)  
-[www.ftc.gov](http://www.ftc.gov/)
+Atizva Technologies  
+Attn. Privacy Officer  
+support@feedify.net  
+A-301, Anmol Space,  
+Anand Bazaar,  
+Indore – 452001  
+India
