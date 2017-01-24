@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the velocidrone.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119092502id_/http%3A//www.velocidrone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the velocidrone.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124130339id_/https%3A//www.velocidrone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | VelociDrone FPV Racing Simulator
 
