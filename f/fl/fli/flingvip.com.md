@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flingvip.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123112034id_/http%3A//flingvip.com/support/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flingvip.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124105600id_/http%3A//www.flingvip.com/support/privacy.htm) for the most accurate reproduction.*
 
 # Flingvip - Free live cam girls and sex chat
 
@@ -39,3 +39,6 @@ We may change this privacy policy at any time. No change in the privacy policy w
 **Changes in the Ownership of the Site**
 
 The Site are a growing online service. As such, we may have the occasion to buy or sell assets, including but not limited to merger, dissolution, and transfer of ownership. Depending upon the nature of the transaction, we may share any and all data provided by you to us (including Financial Data and Account Information) with third parties, as necessary to initiate, investigate or complete any such transaction(s).
+
+DNG Investments LTD.  
+
