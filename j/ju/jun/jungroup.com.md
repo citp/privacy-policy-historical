@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jungroup.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117213802id_/http%3A//www.jungroup.com/pp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jungroup.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124165848id_/http%3A//www.jungroup.com/pp.html) for the most accurate reproduction.*
 
 # Jun Group Productions LLC Terms of Use
 
