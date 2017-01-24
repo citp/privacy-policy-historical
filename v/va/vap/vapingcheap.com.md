@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vapingcheap.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125141938id_/http%3A//vapingcheap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vapingcheap.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124173215id_/https%3A//vapingcheap.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Best Vape Deals - Cheap Vape Mods, Tanks & eJuice | Vaping Cheap
 
