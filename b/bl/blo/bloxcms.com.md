@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloxcms.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123182723id_/http%3A//www.townnews365.com/about/privacy-policy/article_56cce232-78ef-11e5-8383-2f2aa5d652b0.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloxcms.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124012418id_/https%3A//www.townnews365.com/about/privacy-policy/article_56cce232-78ef-11e5-8383-2f2aa5d652b0.html) for the most accurate reproduction.*
 
 # Privacy policy | About TownNews.com | townnews365.com
 
