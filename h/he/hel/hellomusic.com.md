@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellomusic.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112145543id_/http%3A//www.hellomusic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellomusic.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124160144id_/http%3A//hellomusic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Hello Music
 
