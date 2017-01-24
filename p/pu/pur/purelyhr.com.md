@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the purelyhr.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325155032id_/http%3A//purelyhr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the purelyhr.com privacy policy that was archived on 2017-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170124164654id_/https%3A//purelyhr.com/privacy-policy) for the most accurate reproduction.*
 
 # PurelyHR Privacy Policy
 
