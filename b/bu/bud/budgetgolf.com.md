@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the budgetgolf.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223140326id_/http%3A//www.budgetgolf.com/BudgetGolf-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the budgetgolf.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125152533id_/https%3A//www.budgetgolf.com/BudgetGolf-Privacy-Policy.html) for the most accurate reproduction.*
 
 # Home :: BudgetGolf Privacy Policy
 
@@ -59,10 +59,10 @@ BudgetGolf reserves the right to amend this Privacy Policy periodically. Any ame
 If Users have any questions about our services or Privacy Policy, please contact:
 
 BudgetGolf Customer Service  
-1605 Rock Creek BLVD  
+3307 Corporate Drive  
 Joliet, IL  60431  
 [sales@BudgetGolf.com](mailto:sales@BudgetGolf.com)
 
 815-630-2098
 
-Amended: Aug 22, 2013
+Amended: January 12th, 2017
