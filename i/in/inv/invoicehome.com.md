@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the invoicehome.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021170822id_/https%3A//invoicehome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoicehome.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125030514id_/https%3A//invoicehome.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Invoice Home
 
@@ -43,5 +43,3 @@ Wikilane reserves the right to modify this Privacy Policy Statement at any time.
 If Wikilane becomes involved in an acquisition, merger, or any form of sale, notice will be published on our website before your personal information becomes subject to a different privacy policy.
 
 If you have any questions regarding this Privacy Policy Statement, please contact us at [legal@wikilane.com](mailto:legal@wikilane.com)
-
-Back to Top
