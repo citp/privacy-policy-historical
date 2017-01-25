@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the englishwsheets.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119223142id_/http%3A//englishwsheets.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the englishwsheets.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125030849id_/https%3A//englishwsheets.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Englishwsheets.com
 
