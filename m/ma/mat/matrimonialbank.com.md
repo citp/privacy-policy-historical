@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the matrimonialbank.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807150157id_/http%3A//www.matrimonialbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the matrimonialbank.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125190246id_/http%3A//www.matrimonialbank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Matrimonial Bank
 
