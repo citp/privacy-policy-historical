@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the picturepush.com privacy policy that was archived on 2016-07-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160706103203id_/https%3A//picturepush.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the picturepush.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125030535id_/https%3A//picturepush.com/privacy) for the most accurate reproduction.*
 
 # None
 
