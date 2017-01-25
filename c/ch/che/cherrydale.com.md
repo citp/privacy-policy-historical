@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cherrydale.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325091517id_/https%3A//www.cherrydale.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cherrydale.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125200552id_/https%3A//cherrydale.com/Privacy_Policy) for the most accurate reproduction.*
 
-# Cherrydale School Fundraising Ideas
+# Cherrydale School Fundraising Ideas And Fundraiser Products Your Community Will Love
 
 Privacy Policy concerning Data collected online.
 
