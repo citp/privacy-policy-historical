@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rohos.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220043900id_/http%3A//www.rohos.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rohos.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125130923id_/http%3A//www.rohos.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy – Rohos
 
