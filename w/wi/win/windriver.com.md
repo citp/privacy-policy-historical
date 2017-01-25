@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windriver.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124231713id_/http%3A//www.windriver.com/company/terms/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windriver.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125023224id_/http%3A//www.windriver.com/company/terms/privacy.html) for the most accurate reproduction.*
 
 # Privacy - Terms and Conditions
 
