@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fulltiltpoker.net privacy policy that was archived on 2016-09-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160923222734id_/http%3A//www.fulltiltpoker.net/help/faq/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fulltiltpoker.net privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125123518id_/http%3A//www.fulltiltpoker.net/help/faq/terms/privacy) for the most accurate reproduction.*
 
 # Security - Privacy Policy - Secure Online Poker
 
@@ -19,16 +19,16 @@ We, members of our Group, our affiliates and third parties providing services on
 
 We may disclose your personal information:
 
-  1. if required to do so by law or by regulatory authority;
-  2. if we believe in good faith that such action is necessary: 
-    1. to comply with any law or comply with legal process served on us;
-    2. to protect and defend our rights or property;
-    3. to any regulatory body or licensing body or authority;
-    4. to third parties who provide services to us or on our behalf;
-    5. to any third party that purchases us or our business or any part of us or our business;
-  3. with your consent;
-  4. for the purposes of disaster recovery; or
-  5. as set out in Section 5 below.
+  * if required to do so by law or by regulatory authority;
+  * if we believe in good faith that such action is necessary: 
+    * to comply with any law or comply with legal process served on us;
+    * to protect and defend our rights or property;
+    * to any regulatory body or licensing body or authority;
+    * to third parties who provide services to us or on our behalf;
+    * to any third party that purchases us or our business or any part of us or our business;
+  * with your consent;
+  * for the purposes of disaster recovery; or
+  * as set out in Section 5 below.
 
 
 
