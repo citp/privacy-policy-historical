@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the somerset.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125142652id_/http%3A//www.somerset.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the somerset.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125162835id_/http%3A//www.somerset.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Somerset Serviced Residence
 
