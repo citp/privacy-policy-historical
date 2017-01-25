@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcosmeticswholesale.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612084548id_/http%3A//www.allcosmeticswholesale.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcosmeticswholesale.com privacy policy that was archived on 2017-01-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170125222507id_/https%3A//www.allcosmeticswholesale.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | All Cosmetics Wholesale
 
