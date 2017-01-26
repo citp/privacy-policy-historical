@@ -1,17 +1,18 @@
-<!--The following is the downloaded HTML source of the muckrock.com privacy policy that was archived on 2016-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107165410id_/https%3A//www.muckrock.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the muckrock.com privacy policy that was archived on 2017-01-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170126120655id_/https%3A//www.muckrock.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title> MuckRock's Privacy Policy </title>
-        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"queueTime":7,"licenseKey":"5c2951ed21","beacon":"bam.nr-data.net","transactionName":"Zl0BMksDCxUAABELDl8XJRNXAREPDg1KEARHXREVUA0LSAwKAQYNVE8CFFxYNwMXChYLDl91CgJdDgARABEATBFDVwADShE6FAQSEAcSRQ==","errorBeacon":"bam.nr-data.net","applicationTime":95,"agent":"","applicationID":"755754"}</script>
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationTime":32,"errorBeacon":"bam.nr-data.net","applicationID":"755754","agent":"","queueTime":1,"beacon":"bam.nr-data.net","licenseKey":"5c2951ed21","transactionName":"Zl0BMksDCxUAABELDl8XJRNXAREPDg1KEARHXREVUA0LSAwKAQYNVE8CFFxYNwMXChYLDl91CgJdDgARABEATBFDVwADShE6FAQSEAcSRQ=="}</script>
         <meta name="description" content="">
         <meta name="viewport" content="width=device-width, initial-scale=1">
+        <meta name="google-site-verification" content="j3QyPvF_0QX1v2YTWeY0Al5JCiBVdxhDjJM5JgFkxVE">
         <meta name="google-site-verification" content="4KnIEDr5Fi-PUL9klVnMlC2BMcStrUwQIj-4gMVfqjk">
         <!-- Load Assets -->
         <link rel="shortcut icon" href="https://d3gn0r3afghep.cloudfront.net/icons/favicon.ico">
         <link rel="mask-icon" href="https://d3gn0r3afghep.cloudfront.net/icons/favicon.svg" color="#367AF0">
         <link rel="apple-touch-icon" href="https://d3gn0r3afghep.cloudfront.net/icons/logo.png">
-        <link rel="stylesheet" href="https://d3gn0r3afghep.cloudfront.net/CACHE/css/581b318d416e.css" type="text/css">
+        <link rel="stylesheet" href="https://d3gn0r3afghep.cloudfront.net/CACHE/css/0a4decc9380c.css" type="text/css">
         
         
         <!-- Prefetch and Prerendering -->
@@ -39,137 +40,16 @@
     </head>
     <body>
         
-        
-
-
-<aside class="website-sidebar" id="website-sidebar">
-    
-    <form method="post" action="/accounts/login/?next=/privacy-policy/" class="quick-log-in" id="quick-log-in-form">
-        <input type="hidden" name="csrfmiddlewaretoken" value="JY9AMm9wrnuYWJhgEyUaZOVO6k9p91NI">
-        <h1>Log In</h1>
-        
-<div class="hidden-fields">
-
-</div>
-<div class="visible-fields">
-
-    
-<div class="field ">
-
-    <header>
-        <label for="id_username">Username</label>
-        
-        <span class="required">Required</span>
-        
-    </header>
-    <input id="id_username" maxlength="254" name="username" type="text">
-    <p class="help-text"></p>
-</div>
-
-
-    
-<div class="field ">
-
-    <header>
-        <label for="id_password">Password</label>
-        
-        <span class="required">Required</span>
-        
-    </header>
-    <input id="id_password" name="password" type="password">
-    <p class="help-text"></p>
-</div>
-
-
-</div>
-
-        <p><a class="forgot" href="/accounts/reset_pw/">Forget your password?</a></p>
-        <div class="row">
-            <span class="cancel button">Cancel</span>
-            <button type="submit" class="primary button" onclick="ga('send', 'event', 'Account', 'Login', window.location.pathname)">Log In</button>
-        </div>
-    </form>
-    
-    <header class="account-links">
-        
-        <a href="/accounts/" class="sign-up">Sign&nbsp;Up</a>
-        <a href="/accounts/login/?next=/privacy-policy/" class="log-in" id="quick-log-in">Log&nbsp;In</a>
-        
-    </header>
-
-    
-
-
-    
-
-    
-
-    
-    
-    <section class="recent articles">
-        
-        <a href="/news/archives/2016/nov/07/umass-amherst-erase-harambe/" title="In September, Harambe-gate at UMass-Amherst hit a fever pitch. Memes paying vulgar homage to the gorilla killed at the Cincinnati Zoo were growing increasingly popular, and an RA's memo meant to curb their use only appears to have added fuel to the flame." class="article">
-            <img src="https://d3gn0r3afghep.cloudfront.net/news_images/2016/11/07/GorillaFace.jpg.250x100_q85_crop.jpg">
-            <p>From strange phone calls to stick-figure sexcapades, college’s Harambe-mania escalated quickly</p>
-        </a>
-        
-        <a href="/news/archives/2016/nov/04/five-most-embarassing-use-fbi-resources/" title="Earlier this week, we looked at how the FBI spent two years hot on the heels of a bloodthirsty cult, only to find out it didn't exist. Inspired by this magnificent waste of time and money, we decided to round up some of the more dubious cases the Bureau's top men have cracked over the years." class="article">
-            <img src="https://d3gn0r3afghep.cloudfront.net/news_images/2016/11/04/FBICov.jpg.250x100_q85_crop.jpg">
-            <p>The five most embarrassing uses of FBI resources</p>
-        </a>
-        
-        <a href="/news/archives/2016/nov/04/foresight-2020-nevadas-none-above-option/" title="With only four sleeps to go until the big Election Day, many Americans are taking their deep breaths and resentfully choosing a presidential candidate to lead the free world, the capstone to a race that’s left an arguable supermajority of us feeling like, “Seriously? These are the choices?”" class="article">
-            <img src="https://d3gn0r3afghep.cloudfront.net/news_images/2016/11/04/NOTA.jpg.250x100_q85_crop.jpg">
-            <p>Foresight 2020: Nevada’s "None of the Above" option</p>
-        </a>
-        
-        <a href="/news/archives/2016/nov/03/whats-full-cost-punishment/" title="The best estimate we have right now for how much debt our inmates, past and present, carry is something like $50 billion. That’s a huge number, but it’s probably not quite accurate, leaving out &quot;pay-to-stay&quot; policies which nickle and dime families. Help us start a massive study of how these policies affect your community." class="article">
-            <img src="https://d3gn0r3afghep.cloudfront.net/news_images/2016/11/03/PrisonFam.jpg.250x100_q85_crop.jpg">
-            <p>What’s the full cost of punishment?</p>
-        </a>
-        
-        <a href="/news/archives/2016/nov/03/baltimore-emails/" title="After the release of an email exchange in which an officer mocked a teenage sexual assault victim, Baltimore Police Department appears to have changed their policies so that getting emails is a much more difficult - and prohibitively expensive - process." class="article">
-            <img src="https://d3gn0r3afghep.cloudfront.net/news_images/2016/11/02/BPD.jpg.250x100_q85_crop.jpg">
-            <p>After release of embarrassing exchange, Baltimore Police make requesting emails more difficult - and expensive</p>
-        </a>
-        
-        <a href="/news/archives/2016/nov/02/remind-your-local-state-and-town-about-importance-/" title="Attacks like last month’s on the East Coast’s web are not uncommon. And the fact that for some people the attack was partially-facilitated by their very own appliances is a little too close to Maximum Overdrive for comfort. So help us find out: is your local government taking steps to protect itself and you from the threat of INTERNET?" class="article">
-            <img src="https://d3gn0r3afghep.cloudfront.net/news_images/2016/11/02/HackersCov.jpg.250x100_q85_crop.jpg">
-            <p>Remind your local state and town about the importance of cybersecurity</p>
-        </a>
-        
-        <a href="/news/archives/2016/nov/02/braintree-police/" title="Massachusetts agencies can get very creative when trying to avoid complying with public records requests, but some deny requests with such complete disregard for reality that it’s (almost) impressive. Enter the Braintree Police department." class="article">
-            <img src="https://d3gn0r3afghep.cloudfront.net/news_images/2016/11/01/BTPol.jpg.250x100_q85_crop.jpg">
-            <p>Braintree Police make new strides in creative public records rejections</p>
-        </a>
-        
-        <a href="/news/archives/2016/nov/01/does-your-dog-have-what-it-takes-be-part-beagle-br/" title="The Beagle Brigade is on the frontlines of the U.S. Department of Agriculture’s efforts to prevent the entry or exit of forbidden flora and fauna. With the National Dog Detector Manual and a little help from your human, you’ll soon be on your way to becoming the government’s nose on the ground." class="article">
-            <img src="https://d3gn0r3afghep.cloudfront.net/news_images/2016/11/01/BeagleCov.jpg.250x100_q85_crop.jpg">
-            <p>Does your dog have what it takes to be a part of the Beagle Brigade?</p>
-        </a>
-        
-        <a href="/news/archives/2016/nov/01/cia-wants-you-print-out-and-mail-obituaries-famous/" title="Former Secretary-General of the United Nations Boutros Boutros-Ghali died earlier this year at the age of 93. Nobody seems to have told the CIA." class="article">
-            <img src="https://d3gn0r3afghep.cloudfront.net/news_images/2016/10/31/BBG.jpg.250x100_q85_crop.jpg">
-            <p>CIA wants records requesters to print out and mail obituaries of famous people</p>
-        </a>
-        
-        <a href="/news/archives/2016/oct/31/5-terrifying-truths-about-our-criminal-justice-sys/" title="As we approach the end of the year and the beginning of a new presidency, let’s give some thought on the everyday, mind-boggling ways that being a prisoner in America is absolutely terrifying." class="article">
-            <img src="https://d3gn0r3afghep.cloudfront.net/news_images/2016/10/31/PrisonNight.jpg.250x100_q85_crop.jpg">
-            <p>Five terrifying truths about our criminal justice system</p>
-        </a>
-        
-    </section>
-    
-    
-
-</aside>
-
         <div class="container">
             <div id="modal-overlay"></div>
-            <header class="website-header">
-    <nav class="website-navigation">
-        <div class="nav-section">
-            <a href="/" class="nav-item brand">
+            
+
+
+
+<header class="global-header">
+    <nav class="global-navigation space-between mb0" id="nav">
+        <div class="nav-section align-center mb0" id="site-nav">
+            <a href="/" class="nav-item brand" id="nav-brand">
                 <span class="logotype">
                     <svg viewBox="0 0 225 30">
     <title>MuckRock Logotype</title>
@@ -196,16 +76,24 @@
 
                 </span>
             </a>
-            <ul class="website-sections" id="global-sections">
+
+            
+            <span class="nav-item section-toggle" id="toggle-sections" data-for="#nav-list-sections">
+                <svg width="16px" height="16px" viewBox="0 0 16 16" class="sections icon">
+    <title>Sections</title>
+    <desc>A list of items</desc>
+    <path fill-rule="evenodd" d="M1,1 L15,1 L15,4 L1,4 L1,1 Z M1,6 L15,6 L15,9 L1,9 L1,6 Z M1,11 L15,11 L15,14 L1,14 L1,11 Z"></path>
+</svg>
+
+            </span>
+            
+            <ul class="unauthenticated section-list" id="nav-list-sections">
                 <li><a class="nav-item" href="/news/">News</a></li>
                 <li><a class="nav-item" href="/project/">Projects</a></li>
-                <li><a class="nav-item" href="/foi/list/">Requests</a></li>
-                <li><a class="nav-item" href="/agency/">Agencies</a></li>
-                <li><a class="nav-item" href="/questions/">Q&amp;A Forum</a></li>
-                
-            </ul>
-            <div class="nav-item website-sections-button" id="show-sections">
-                <svg width="16px" height="16px" viewBox="0 0 16 16" class="sections icon">
+                <li><a class="nav-item" href="/foi/">Requests</a></li>
+            
+                <li class="dropdown" id="more-sections">
+                    <span class="nav-item"><svg width="16px" height="16px" viewBox="0 0 16 16" class="sections icon">
     <title>Sections</title>
     <desc>A list of items</desc>
     <g>
@@ -214,48 +102,60 @@
         <circle cx="14" cy="8" r="2"></circle>
     </g>
 </svg>
+ <span class="label">More</span></span>
+                    <ul>
+                        <li><a class="nav-item" href="/place/">Jurisdictions</a></li>
+                        <li><a class="nav-item" href="/agency/">Agencies</a></li>
+                        <li class="separator"><a class="nav-item" href="/questions/">Q&amp;A Forum</a></li>
+                        <li class="separator"><a class="nav-item" href="/donate/">Donate</a></li>
+                        <li><a class="nav-item" href="/about/">About Us</a></li>
+                        <li><a class="nav-item" href="/staff/">Staff</a></li>
+                        <li><a class="nav-item" href="/faq/">FAQ</a></li>
+                        <li><a class="nav-item" href="/api/">API</a></li>
+                    </ul>
+                </li>
+            </ul>
 
-                <span class="label">Sections</span>
-            </div>
-        </div>
-        <!-- We have to keep the search form in the middle, otherwise Firefox will mess up the flexbox justification -->
-        <form action="/search" method="get" class="search-form" id="global-search">
-            <div class="search-form-container">
-                <input type="search" name="q" placeholder="Search">
-                <input type="submit" style="display: none;">
-                <div class="search-cancel" id="hide-search">Cancel</div>
-            </div>
-        </form>
-        <div class="nav-section">
-            <div class="nav-item search-button" id="show-search">
-                <svg width="16px" height="16px" viewBox="0 0 24 24" class="search icon">
+            
+            <div class="global-search">
+                <span class="nav-item search-toggle" id="show-search">
+                    <svg width="16px" height="16px" viewBox="0 0 24 24" class="search icon">
     <title>Search Icon</title>
     <desc>A magnifying glass</desc>
     <path fill-rule="evenodd" d="M13.7662737,16.6357276 C12.3841494,17.5002833 10.7504323,18 9,18 C4.02943725,18 0,13.9705627 0,9 C0,4.02943725 4.02943725,0 9,0 C13.9705627,0 18,4.02943725 18,9 C18,10.7504323 17.5002833,12.3841494 16.6357276,13.7662737 L24,21.1305462 L21.1305462,24 L13.7662737,16.6357276 Z M9,14.25 C11.8994949,14.25 14.25,11.8994949 14.25,9 C14.25,6.10050506 11.8994949,3.75 9,3.75 C6.10050506,3.75 3.75,6.10050506 3.75,9 C3.75,11.8994949 6.10050506,14.25 9,14.25 Z"></path>
 </svg>
 
-                <span class="label">Search</span>
+                    <span class="label">Search</span>
+                </span>
+                <form action="/search" method="get" class="search-form" id="global-search">
+                    <div class="search-container">
+                        <input type="search" name="q" placeholder="Search">
+                        <div class="nav-item search-cancel" id="hide-search">Cancel</div>
+                    </div>
+                </form>
             </div>
-            <a class="dark nav-item create-request-button" href="/foi/create/" onclick="ga('send', 'event', 'Requests', 'File', window.location.pathname)">
-                <svg width="16px" height="16px" viewBox="0 0 16 16" class="create-request icon">
+            
+            <div class="search-placeholder"></div>
+        </div>
+
+        <div class="nav-section" id="user-nav">
+            <ul>
+                <li>
+                    <a class="blue nav-item" href="/foi/create/" onclick="ga('send', 'event', 'Requests', 'File', window.location.pathname)">
+                        <svg width="16px" height="16px" viewBox="0 0 16 16" class="create-request icon">
     <title>Create Request</title>
     <path d="M13,3.5 L13,8 L11,8 L11,4 L13,4 L13,3.5 Z M2,2 L13,2 L13,16 L2,16 L2,2 Z M4,4 L11,4 L11,14 L4,14 L4,4 Z M13,3.5 L13,3 L11,3 L11,4 L7,4 L7,2 L13,2 L13,3.5 Z"></path>
     <path d="M13,2 L13,0 L11,0 L11,2 L9,2 L9,4 L11,4 L11,6 L13,6 L13,4 L15,4 L15,2 L13,2 Z"></path>
 </svg>
 
-                <span class="label">File<span class="extended"> Request</span></span>
-            </a>
-            <div class="dark nav-item sidebar-toggle" id="sidebar-button">
+                        <span class="label">File<span class="extended"> Request</span></span>
+                    </a>
+                </li>
                 
-                <svg width="16px" height="16px" viewBox="0 0 16 16" class="sections icon">
-    <title>Sections</title>
-    <desc>A list of items</desc>
-    <path fill-rule="evenodd" d="M1,1 L15,1 L15,4 L1,4 L1,1 Z M1,6 L15,6 L15,9 L1,9 L1,6 Z M1,11 L15,11 L15,14 L1,14 L1,11 Z"></path>
-</svg>
-
+                <li><a href="/accounts/" class="sign-up black nav-item">Sign&nbsp;Up</a></li>
+                <li><a href="/accounts/login/?next=/privacy-policy/" class="log-in black nav-item">Log&nbsp;In</a></li>
                 
-                <span class="label">Menu</span>
-            </div>
+            </ul>
         </div>
     </nav>
 </header>
@@ -324,12 +224,20 @@
         <p class="label"><strong>Newsletter</strong></p>
         <p class="cta">Want the latest investigative and FOIA news?</p>
     </div>
-    <form class="signup-form" method="post" action="/newsletter/?next=/privacy-policy/" onsubmit="ga('send', 'event', 'Newsletter', 'Subscription', window.location.pathname)">
-        <input type="hidden" name="csrfmiddlewaretoken" value="JY9AMm9wrnuYWJhgEyUaZOVO6k9p91NI">
+    <form class="oneline-form" method="post" action="/newsletter/?next=/privacy-policy/" onsubmit="ga('send', 'event', 'Newsletter', 'Subscription', window.location.pathname)">
+        <input type="hidden" name="csrfmiddlewaretoken" value="RKToEz6WipvqLE90CMvlsaQBYZfd2yhx">
         <input id="id_list" name="list" type="hidden" value="20aa4a931d">
-        <div class="email-field">
+        <div class="field">
             <input id="id_email" name="email" placeholder="email address" type="email">
-            <button class="basic blue button" type="submit">Subscribe</button>
+            <button class="basic blue button" type="submit">
+                <svg width="16px" height="16px" viewBox="0 0 16 16" class="email icon">
+    <title>Email</title>
+    <desc>Icon resembling an envelope.</desc>
+    <path d="M14,4 L14,12 L2,12 L2,4 L8,10 L14,4 Z M0,2 L16,2 L16,14 L0,14 L0,2 Z M4,4 L12,4 L8,8 L4,4 Z"></path>
+</svg>
+
+        	    <span class="label">Subscribe</span>
+            </button>
         </div>
         
     </form>
@@ -346,7 +254,7 @@
             </a>
             <p>MuckRock is a non-profit collaborative news site that gives you the tools to keep our government transparent and accountable.</p>
             <p><a class="blue button" href="/donate/">Make a Donation</a></p>
-            <p class="copyright">© 2010–2016 Muckrock</p>
+            <p class="copyright">© 2010–2017 Muckrock</p>
         </div>
         <div class="links">
             <div class="link-group sitemap">
@@ -411,11 +319,12 @@
                 
                 
                 
+                
             }
         </script>
         <!-- End Google Analytics -->
         <script src="https://s3.amazonaws.com/s3.documentcloud.org/viewer/loader.js" type="text/javascript"></script>
-        <script type="text/javascript" src="https://d3gn0r3afghep.cloudfront.net/CACHE/js/ee1f627364fb.js"></script>
+        <script type="text/javascript" src="https://d3gn0r3afghep.cloudfront.net/CACHE/js/391e29c317b9.js"></script>
         <script src="//cdn.optimizely.com/js/2610441018.js"></script>
         <script src="https://checkout.stripe.com/checkout.js" type="text/javascript"></script>
         
