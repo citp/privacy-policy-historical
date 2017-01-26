@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224063848id_/https%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roughguides.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126133119id_/https%3A//www.roughguides.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Rough Guides
 
@@ -90,4 +90,4 @@ WC2R 0RL
 
 or by telephoning: 020 7010 3000.
 
-Last Updated: 27 November 2012
+Last Updated: 3 January 2017
