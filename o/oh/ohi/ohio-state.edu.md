@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohio-state.edu privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216034134id_/https%3A//www.osu.edu/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohio-state.edu privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126174345id_/https%3A//www.osu.edu/privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement for The Ohio State University osu.edu websites - The Ohio State University
 
