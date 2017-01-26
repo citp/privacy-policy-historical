@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hillpeoplegear.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207095833id_/http%3A//hillpeoplegear.com/Home/tabid/1157/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillpeoplegear.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126213215id_/https%3A//hillpeoplegear.com/Home/tabid/1157/ctl/Privacy/Default.aspx) for the most accurate reproduction.*
 
 # Home | Hill People Gear
 
