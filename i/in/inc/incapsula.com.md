@@ -1,95 +1,144 @@
-> *The following text is extracted and transformed from the incapsula.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310083146id_/https%3A//www.incapsula.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incapsula.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126072204id_/https%3A//www.incapsula.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Incapsula
 
-By using the incapsula services (as defined below) you give your consent that all personal data that you submit may be processed by incapsula in the manner and for the purposes described in the following privacy policy.
+## This privacy policy applies to Imperva and its subsidiaries, including Incapsula.
 
-If you do not agree to this terms and conditions set forth herein do not use the Incapsula on-line service.
+## Consent
 
-At Incapsula, Inc. (“Incapsula”), we recognize that privacy is important. This Policy applies to all of the software, services, information, tools, features and functionality located on the Site/s offered by Incapsula or its subsidiaries or affiliated companies (collectively, the "Services") and covers how personal and other information that Incapsula collects and receives, including information related to use of the Services, is treated.
+By using this website and providing personally identifiable information in your interactions with Imperva and its subsidiaries, you consent to the collection and use of the information as described in this privacy policy. The purpose of this privacy policy is to provide you with clear and understandable information about Imperva’s privacy practices.
 
-If you have any questions about this Policy, please feel free to contact us at: [privacypolicy@incapsula.com](mailto:privacypolicy@incapsula.com)
+## Information we collect
 
-## Information we collect and how we use it:
+Imperva and its subsidiaries gather information from you to help us manage our relationship with you. The information we gather may include:
 
-Incapsula will not share, sell, auction off or give away your personal information to any third-party or other organization without first obtaining your prior written consent.
-
-In order to provide our Services, we may collect the following types of information:
-
-  *  **Information you provide** \- When you sign up for Services, we ask you for contact information. In certain situations, we may also request credit card or other payment account information that we maintain in encrypted form on industry secure servers. We sometimes supplement the information that you provide with information that is received from third parties. For instance, if inaccurate postal or zip codes are received, we will use third party software to fix them.
-  *  **Personal information** \- We process your personal information only for specific and limited purposes. We ask only for data that is adequate, relevant and not excessive for those purposes. Some of these purposes may include to inform you of new services we will be providing, to send you requested product information and promotional material, for marketing purposes and market research, and internally to help us improve our Services and to help resolve any problems.
-  *  **User information** \- When you use our Services, we automatically receive and record information from your site, documents and browser, including your IP address, cookie information, software and hardware attributes.
-  *  **Site information** \- When you use the Services, our servers automatically cahe and/or record information in relation to your site and its usage. This information may include the content of the site, usage information and other site properties.
-  *  **Document Download** \- We may download/store cache content contained on your site on our servers for the sole purpose of obtaining the functionality of the Service.
-  *  **Cookies** \- When you use our Site, we may send one or more cookies - a small file containing a string of characters - to your computer that uniquely identifies your browser. We use cookies to improve the quality of our service by storing user preferences and tracking user information. Most browsers are initially set up to accept cookies, but you can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some Services may not function properly if your cookies are disabled. Incapsula may use **“Automatically Collected” information and “Cookies” information to: (a) automatically update the Service on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access; (c) monitor aggregate site usage metrics such as total number of visitors and pages accessed; (d) provide such metrics to users as they pertain to such user’s uploaded content; and (e) track your entries, submissions, and status in any promotions or other activities**
-  *  **User communications** \- When you send email or other communication to Incapsula, we may retain those communications in order to process your inquiries, respond to your requests and improve our Services.
-  *  **Links** \- Links to other sites may be provided by Incapsula as a convenience to our customers. Incapsula is not responsible for the privacy practices of other sites. This privacy statement applies solely to information collected by us.
-  *  **Children – If you are a child under the age of 13, you must obtain parental consent prior to using our Service**. Incapsula will not knowingly contact or engage with children under the age of 13 without said parental consent. If you have reason to believe that a child has provided us with their personal information, please contact us at the address given above and we will endeavor to delete that information from our databases.
-  *  **Maintenance-Incapsula uses the information that you provide or that we collect to operate, maintain, enhance, and provide all of the features and services found on the Site as well as to track user-generated content and Users to the extent necessary to comply as a service provider with the Digital Millennium Copyright Act.**
-  *  **eMail- We may use your email address, without further consent, for administrative communications such as notifying you of major Site updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the Site.**
-  *  **Analysis- Incapsula uses all of the information that we collect to understand the usage trends and preferences of our users, to improve the way the Site works and looks, and to create new features and functionality.**
-  *  **Data Retention** \- You agree that Incapsula may retain (but shall have no obligation to retain) your data for a limited reasonable period after your trial or license has been terminated, expired, or otherwise lapsed, for the sole purpose of enabling you to renew your license to the Services shortly thereafter.
+  * contact details such as your user name, email address, telephone number, your company’s name and your title,
+  * if you contact us by email through the websites we may keep a record of your contact information and correspondence, including any information that you provide to us in your message,
+  * shipping, billing and payment information,
+  * your transaction history,
+  * information you provide to us to receive technical assistance or during customer service interactions,
+  * information about other people that you may provide with any program or services,
+  * information about your computer or device, including browser type and settings, IP address and traffic data relating to your Internet connection,
+  * product performance data and information about how you use our products and services, and
+  * aggregated data or other information that does not specifically identify you, such as actions taken on our websites.
 
 
 
-## Choices for personal information:
+## How we use your information
 
-When you sign up for Services we ask you to provide contact information. If we use this information in a manner different than the purpose of the services, then we will ask for your consent prior to such use.
+We may use your information to:
 
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive information (i.e. medical or health conditions, racial or ethnic origin, political affiliation) for purposes other than those described in this Policy and/or in relevant agreements, unless we have obtained your prior consent.
-
-You can decline to submit personal information, in which case Incapsula may not be able to provide you with Services.
-
-## Information sharing:
-
-Incapsula only shares personal information with other companies or individuals in the following limited circumstances:
-
-  * We have your consent.
-  * We require opt-in consent for the sharing of any sensitive personal information.
-  * We provide such information to our subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures.
-  * We have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or enforceable governmental request, (b) enforce applicable agreements and/or their terms, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against imminent harm to the rights, property or safety of Incapsula, its users or the public as required or permitted by law.
-  * If we become involved in a merger, acquisition, or any form of sale of some or all of our assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
-  * If we obtain assurances from our agents that they will safeguard personal information through measures consistent with this Privacy Policy. Where we have knowledge that an agent is using or disclosing personal information in a manner contrary to this Privacy Policy, we take commercially reasonable steps to prevent or stop the unauthorized use or disclosure.
-
-
-
-Please contact us at the above address for any additional questions about the management or use of personal data.
-
-## Information security:
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data.
-
-  * We strive to maintain the reliability, accuracy, completeness and currency of personal information that we collect and to protect the privacy and security of our customers. We keep your personal information only for as long as reasonably necessary for the purposes for which it was collected or to comply with any applicable legal or ethical reporting or document retention requirements.
-  * We limit access to personal information about you to employees, contractors and agents who we believe reasonably need to come into contact with that information. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
-  * We have physical, electronic, and procedural security measures and safeguards to protect personal information. Our servers and our databases are protected by industry standard security technology, such as industry standard firewalls and password protection.
-  * Although we cannot guarantee against any loss, misuse, unauthorized disclosure, alteration or destruction of data, we try to prevent such unfortunate occurrences.
+  * communicate with you, including responding to you if you contact us,
+  * verify your identity and entitlement to products and services,
+  * provide, register and support our products and services,
+  * deliver newsletters, product updates or technical alerts,
+  * manage your registered user account through which you can take advantage of the services made available by Imperva and its subsidiaries, including access to the support or the download websites,
+  * allow you to view information on the website,
+  * market specific products and services,
+  * provide quotes, process orders and subscriptions, update order status, ship products, and collect payment information and payment,
+  * evaluate, analyze and improve our products and services through surveys, questionnaires, and other methods of gathering information,
+  * allow you to download our “white papers”, participate in webinars or request a space in one of our training classes,
+  * download investor information or to receive news feeds through our “RSS Feed Registration” service, or email alerts such as press releases, SEC filings or stock information, through our “Email Alert Subscription” service,
+  * collect feedback, conduct chat sessions and improve our chat sessions by reviewing them with our customer service representatives,
+  * communicate with you about and manage your participation in contests, offers or promotions,
+  * secure our systems and applications,
+  * facilitate the provisioning of services,
+  * provide you with a customized experience when you visit our websites,
+  * enforce our legal rights or comply with legal requirements, and
+  * meet contractual obligations.
 
 
 
-Please contact us at the above address for any additional questions about our information security or the protection of personal data.
+## Information from third parties
 
-## Data integrity, accessing and updating personal information:
+We may combine information about you that we receive from third parties with the information we have gathered to improve the quality of our product and service offerings and to tailor our communications with you.
 
-Incapsula processes personal information only for the purposes for which it was collected and in accordance with this Policy or any applicable service agreements. We review our data collection, storage and processing practices to ensure that we only collect, store and process the personal information needed to provide or improve our Services. We take reasonable steps to ensure that the personal information we process is accurate, complete, and current, but we depend on our users to update or correct their personal information whenever necessary.
+If, at any time, you do not want to be contacted in this manner you may unsubscribe as indicated in this privacy policy or in the communications themselves.
 
-  * Upon receipt of your written request and enough information to permit us to identify your personal information, we will disclose to you the information we hold about you. We will also correct, amend or delete any personal information that is inaccurate and notify any third party recipients of the necessary changes.
-  * We do not charge for complying with a correction request, however, for all other requests, we may charge a small fee to cover its costs. Requests to delete personal information are subject to any applicable legal and ethical reporting or document retention obligations imposed on Incapsula.
-  * We ask individual users to identify themselves and the information requested to be accessed, corrected or removed before processing such requests, and we may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others, or would be extremely impractical, or for which access is not otherwise required.
+## Browser Information
+
+Our servers automatically record log data that your browser sends whenever you visit a website. Log data may include information such as your IP address, browser type or the domain from which you are visiting, the web pages you visit and the search terms you use. For most users accessing the Internet from an Internet service provider, the IP address will be different every time you log on. Except as described in this privacy policy, we do not use this information to identify you personally. We use it to monitor use of our websites and of our service, and for the technical administration of the websites.
+
+## Cookies
+
+Like many websites, we also use “cookie” technology to collect additional website usage data and to improve our websites and service. A cookie is a small data file that we transfer to your computer’s hard disk. We do not use cookies to collect personally identifiable information. However, IP addresses are collected by the use of cookies. we may use both session cookies and persistent cookies to better understand how you interact with our websites and our service, to monitor aggregate usage by our users and web traffic routing on our websites, and to improve our websites and our services. In addition, please be aware that other parties may also place their own cookies on our websites, and may collect or solicit personal information from you. A session cookie enables certain features of our websites and our service and is deleted from your computer when you disconnect from or leave our websites. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to our websites. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
+
+## How we protect your information
+
+#### Security
+
+We are very concerned about safeguarding the confidentiality of your personally identifiable information. We employ appropriate security measures designed to protect your information from unauthorized access. Those measures include:
+
+  * controlled access to our facilities, locked doors and file cabinets and secure destruction of media containing your information,
+  * the use of anti-virus and endpoint protection software, encryption, and monitoring of our systems and data centers to ensure that they comply with our security policies, and
+  * training and awareness programs on security and privacy, to make sure employees understand the importance and means by which they must protect your information.
 
 
 
-Please contact us at the above address for any additional questions or to access and update personal information.
+We bind our employees to observe your privacy and confidentiality rights.
 
-## Enforcement:
+#### Data Retention
 
-Incapsula regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or our treatment of personal information by contacting us as provided above. When we receive formal written complaints it is Incapsula 's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal information that cannot be resolved between Incapsula and an individual.
+Personal data will be maintained as necessary to satisfy the reasons it was collected. We also retain and use your information as necessary to comply with our legal obligations, resolve disputes and enforce our agreements.
 
-## Changes to this Privacy Policy:
+#### Our Policy Towards Children
 
-Incapsula may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your account or by placing a prominent notice on our site.
+Imperva’s and its subsidiaries’ businesses are not focused on, nor do we knowingly collect information from children under the age of 13. If a parent or guardian becomes aware that his or her child, who is under 13, has provided us with personally identifiable information without the guardian’s consent, he or she should contact us at support@imperva.com. If we become aware that a child under 13 has provided us with personally identifiable information, we will remove such information from our files.
 
-You are responsible for ensuring your users agree to onward transfer of data for the purposes hereof and that your users are bound by terms similar to those set forth herein, no less protective of Incapsula than those set forth herein including those set forth under the Terms of Use that this Policy is attached to.
+## Links to other websites
 
-## Questions:
+Our websites contain links to third party websites. The fact that we link to a third party website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personal information from you. This privacy policy addresses the use and disclosure of information that we collect from you through our websites. Other websites follow different rules regarding the use or disclosure of the personal information you submit to them. We encourage you to read the privacy policies or statements of the third party websites you visit.
 
-If you have any questions about this Privacy Policy or concerns about the way we process your personal information, please contact us at [privacypolicy@incapsula.com](mailto:privacypolicy@incapsula.com)
+## How we share your information
+
+#### General
+
+Except as set forth in this privacy policy, we will not share your personally identifiable information with third parties.
+
+#### Affiliates
+
+Imperva and its subsidiaries may share personally identifiable information submitted or collected among their affiliated entities for purposes of improving products or services, responding to inquiries or orders, or for processing or storage.
+
+#### Servers
+
+We have a number of websites globally. Information volunteered or collected on one of Imperva or its subsidiaries’ websites may be delivered or transferred electronically to our servers in another country. We protect your personally identifiable information by following the procedures outlined in the “How we protect your information -- Security” section of this privacy policy.
+
+#### Resellers and Partners
+
+We may also share personally identifiable information with business partners, authorized third-party agents, contractors, distributors and resellers for the purposes described in this privacy policy, as well as to provide you with information about related products and services that may be of interest to you.
+
+#### Service Providers
+
+We may engage business partners, service vendors, authorized third-party agents or contractors who may utilize your personally identifiable information on our behalf for the purposes described in this privacy policy. We will share your personally identifiable information with these third parties, but only pursuant to binding contractual obligations requiring such third parties to maintain the confidentiality of your data.
+
+#### Interest-based advertising
+
+The information you give us about your interest in our products may be used by third parties to provide you with more relevant advertising. If we send you interest-based advertising on a third party website and you click on our advertising, we will know only the domain you came from. We do not track your other activities on that website.
+
+#### Compliance with Laws and Law Enforcement
+
+We cooperate with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties that we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including subpoenas and court orders); to protect our property and rights or the property and rights of a third party, the safety of the public or any person; to prevent or stop any illegal, unethical or legally actionable activity; or to comply with the law.
+
+#### Business Transfers
+
+Imperva may decide to sell, merge or otherwise reorganize businesses. Such transactions may involve, in accordance with applicable law, the disclosure of personal information to prospective or actual purchasers. We make it a practice to seek appropriate protection for information in these situations.
+
+## Managing your information
+
+#### Choice/opt-out
+
+We communicate with users who subscribe to our services on a regular basis via email, and we may also communicate by phone to resolve customer complaints or investigate suspicious transactions. We may use your email address to confirm your opening of an account, to send you notice of payments, to send you information about changes to our products and services or to provide those products or services, and to send notices and other disclosures as required by law. Generally, users cannot opt out of these communications, but they will be primarily informational in nature rather than promotional.
+
+We provide you the opportunity to exercise an opt-out choice if you do not want to receive other types of communication from us such as updates from us regarding new services and products. You may withdraw your consent to our use of your personal information if you do not want us to utilize it for such purposes or to share it with third parties. The opt-out choice or withdrawal of consent may be exercised by clicking on the link provided for such purposes in the emails you receive or by unsubscribing at [support@imperva.com](mailto:support@imperva.com).
+
+#### Inquiries, access and updating your personal data
+
+Please help us keep the personal data you have shared accurate and up to date. You may make these updates yourself online as a registered user via our customer or partner portal or otherwise by sending an email to [support@imperva.com](mailto:support@imperva.com). We will respond to requests to access or delete your information within a reasonable period of time.
+
+If you have any other questions about this privacy statement or if you wish to inspect the information we hold about you, please contact [support@imperva.com](mailto:support@imperva.com).
+
+#### Changes to this privacy policy
+
+We reserve the right to revise or modify this privacy policy. If this happens, we will post a prominent notice on this website prior to the change becoming effective.
+
+ _Last updated: December 12, 2016_
