@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gogobot.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112111536id_/https%3A//www.gogobot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogobot.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126185457id_/https%3A//www.trip.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy discloses the privacy practices of Gogobot, Inc., the website located at [http://www.gogobot.com ](http://www.gogobot.com/), the Gogobot mobile applications, and the related services, applications, and websites owned or operated by Gogobot, Inc. and its corporate affiliates (collectively, the "Service").
+This privacy policy discloses the privacy practices of Gogobot Inc., the website located at [http://www.gogobot.com and ](http://www.gogobot.com/)[http://www.trip.com](http://www.trip.com/), the Gogobot and Trip mobile applications, and the related services, applications, and websites owned or operated by Gogobot Inc. and its corporate affiliates (collectively, the "Service").
 
 #### What Information We Collect
 
@@ -36,7 +36,7 @@ However, it is important to note that:
 
 #### Information About You
 
-When you register for the Service, we collect a variety of information about you to complete your online profile. Except as otherwise stated in this Privacy Policy, we do not disclose your PII to other users of the Service. If you choose to connect your Gogobot account with Facebook or any other service, we will receive and retain basic account registration data you provide to that service, such as name, email address, user ID and profile page URL. We may also receive and display content relevant to your use of the Service from activity feeds or other information from Facebook and other linked services, including the contents of your "Wall," status updates, comments, photos and location "check-ins" to the extent you grant us access to such information from those services.
+When you register for the Service, we collect a variety of information about you to complete your online profile. Except as otherwise stated in this Privacy Policy, we do not disclose your PII to other users of the Service. If you choose to connect your Gogobot or Trip account with Facebook or any other service, we will receive and retain basic account registration data you provide to that service, such as name, email address, user ID and profile page URL. We may also receive and display content relevant to your use of the Service from activity feeds or other information from Facebook and other linked services, including the contents of your "Wall," status updates, comments, photos and location "check-ins" to the extent you grant us access to such information from those services.
 
 #### E-mail
 
@@ -101,7 +101,7 @@ Choice/Opt-OutYou may use the following options for removing your information fr
 
 
 
-Gogobot, Inc.  
+Gogobot Inc.  
 650 Live Oak Ave. Suite 110  
 Menlo Park, CA 94025  
 Attn: Customer Service
@@ -116,10 +116,10 @@ If you have any questions about this Privacy Policy, the practices of our Servic
 
 
 Site Administrator  
-Gogobot, Inc.  
+Gogobot Inc.  
 650 Live Oak Ave. Suite 110  
 Menlo Park, CA 94025  
-privacy@gogobot.com  
+privacy@trip.com  
 (650) 838-9877
 
 #### Acceptance of Privacy Policy
