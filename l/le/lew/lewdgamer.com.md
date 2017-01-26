@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lewdgamer.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730141144id_/https%3A//www.lewdgamer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lewdgamer.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126105947id_/https%3A//www.lewdgamer.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - LewdGamer.com
+# Privacy Policy | LewdGamer
 
 Posted by: [ superlewd ](https://www.lewdgamer.com/author/superlewd/) 13 March 2015 
 
