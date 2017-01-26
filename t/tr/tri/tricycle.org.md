@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tricycle.org privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026050705id_/http%3A//tricycle.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tricycle.org privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126113039id_/https%3A//tricycle.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Tricycle
 
