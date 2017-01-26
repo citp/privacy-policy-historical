@@ -1,90 +1,91 @@
-> *The following text is extracted and transformed from the rightjobs.pk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122073103id_/http%3A//rightjobs.pk/privacy-and-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightjobs.pk privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126075059id_/https%3A//rightjobs.pk/privacy-and-security) for the most accurate reproduction.*
 
 # Privacy Policy - RIGHTJOBS.PK
 
-**Privacy Policy**
+### **Privacy Policy**
 
-The following privacy policy is a proof of our commitment to securing your privacy and personal information. It will explain in detail how we collect your data and use it on [www.RightJobs.pk](http://www.rightjobs.pk/). The “RightJobs.pk”, “We”, “Us”, “Our” includes all information, web pages, subsidiaries, sister websites operated under [www.RightJobs.pk](http://www.rightjobs.pk/) banner. By accessing RightJobs.pk you show your consent to collecting information (personal and public) and use it as described in this Privacy Policy.
+Rightjobs collects information about you and uses this information to help you connect with employers and job seekers and to provide other services to you. This policy describes how your information is collected and used and your choices with respect to your personal information.
 
-We promise to use the information provided by you and present on this website in the following ways:
+#### **Scope**
 
-**What information are you collecting and how are you collecting it?**
+This policy applies to information we collect or use on sites and applications owned or controlled by Rightjobs.
 
-We collect information from you when you register on our website. We do not collect any information if users are browsing anonymously. During registration we ask for personal identifiable information such as name, telephone number, email, address, date of birth etc. along with other demographic information such as gender, interest, hobbies etc.
+Rightjobs is not responsible for the privacy policies or practices of ad networks and other websites, third parties with whom we work to provide you personalized services, or those who access your information on our sites or applications.
 
-We also collect information about which area of our website do you visit and some other non-personal data which is mainly used to improve our services. Such information is critical for us to keep a track on which areas of our website need improvement.
+#### **Information We Collect**
 
-Information may also be needed when you refer RightJobs.pk on your social network. If we require any other information, it will be mentioned at the said area.
+When you visit or register on the Site you may be asked to provide certain information about yourself including your name, address, email address, telephone number, gender, role sought and availability. We also collect information about you automatically such as how you use and interact with Rightjobs, your demographic information, and information about your computer or mobile device. We may also acquire information about you from third parties to further personalize and enhance your experience.
 
-We do not store any information with us without user consent. All our data is specifically for our own use and is not shared with any third party for promotional or marketing purposes.
+If you choose to sign in with Facebook or similar sites, we import the requested information from your account and we make it part of your profile. You can also restrict the information available to others by deleting information you do not want visible or by not providing it at all.
 
-**Do we collect IP addresses?**
+#### **How We Use Information**
 
-Every computer on the internet has a unique set of numbers as an address. These numbers are called IP (Internet Protocol) address. The IP address reveals no personal information about the user but is only used to identify them. When you connect to our servers, we use the IP address to evaluate the traffic, identify and investigate misuse or to cooperate with law enforcement agencies. Our web servers do not automatically record any email address of the visitors unless specified.
+We use the information we collect about you to deliver the products and services we offer, respond to you, and operate and improve our sites and applications. Our services include showing you personalized content and advertising on Rightjobs or other sites with which we have a business relationship. We may use your information to contact you about Rightjobs updates, conduct surveys, or to provide informational and service-related communications, including important security updates.
+
+By registering with Rightjobs, by managing your profile, or by opting in when presented with choices, you have consented for us to use your information in the following ways:
+
+  1. to create a profile for you based on information that you have provided to us, information collected or imported from other sites or applications, or information provided to us by third parties such as your contacts or advertisers;
+
+  2. to add information gathered from public websites to your profile;
+
+  3. to provide personalized, targeted, or location-based content, services, and advertising from us and third parties;
+
+  4. to allow you to contact other or to invite others to join or create an account;
+
+  5. to allow you to import information about yourself or your contacts from other sites or applications or to export your information to other sites or applications;
+
+  6. to make purchases;
+
+  7. to contact you about feature updates, informational and service-related communications, including important security updates;
+
+  8. to provide you with additional communications, information, and promotions such as newsletters and career advice;
+
+  9. to inform you of other products or services available from Rightjobs or its affiliates;
+
+  10. to enable you to contact us and for us to respond to you to conduct surveys, promotions and contests, and to publish the results thereof;
+
+  11. to help your friends, contacts, and potential employers find your profile and connect with you;
+
+  12. to provide information about you and your potential interest in job postings to employer customers;
+
+  13. to display targeted messages from employers based on the content of your CV or profile;
+
+  14. to provide products and services to employer customers to complete the recruitment and hiring process;
+
+  15. to generate internal reports about the use of our sites and applications;
+
+  16. to provide customers with reports about the characteristics and trends of the job market including availability of talent;
+
+  17. to give search engines access to public information;
+
+
+
+
+#### **How We Share Information**
+
+  1. We do not share contact information with third parties for their direct marketing purposes without your consent.
+
+  2. We share your information with third parties who help us deliver our products and services to you. These third parties may not use your information for any other purpose.
+
+  3. We may share information to third parties if you consent. For example, we may use your information to contact you about products or services available from Rightjobs or our affiliates. If you opt in, we may supply your information to third parties who may contact you about their products or services. You may change your contact preferences by adjusting your preferences settings.
+
+  4. We may disclose to third parties’ information that we have collected from other websites.
+
+  5. We disclose information where legally required.
+
+
+
+
+#### **How We Store Information**
+
+You may access, review, correct, update, or delete your CV or profile any time by  _signing in to your account_. We retain all information and CVs indefinitely. If you change your mind about being contacted in the future, please let us know or, if you would like us to delete your personal information or to remove a CV that you have uploaded please delete your details via your "Job Seeker" login Rightjobs reserves the right to retain information that you have requested be deleted where there is a legitimate legal reason why such information or CV should be retained by Rightjobs. When you delete your personal information, we will retain logs and non-personal information about your activity on Rightjobs. We will also retain an archival copy of your information which is not accessible by you or third parties on the Internet. If your personal information was previously accessed by others using Rightjobs, we are unable to delete the information from their systems.
 
 **Cookies**
 
-Cookies are small files that our web servers may send to your browser and store them automatically in your computer’s hard drive. These files are not harmful to your system/network and are only used to identify users, their behavior on our site, browsing history on our website so that the next time you visit, those specific areas of our website are quickly accessible. Cookies are automatically sent to your system but they can be disabled from your browser settings. Disabling cookies may result in slower browsing as our servers will treat you as a new user every time you visit. We do not collect any personal information or any other browsing history from these cookies and we certainly do not support/use/promote any spyware that collects user’s personal information with the help of cookies.
+Rightjobs uses cookies, however it will function in a more limited way with cookies disabled.
 
-Third party advertisers on our website may also use cookies to personalize content, banners, promotions and advertisements. We have no control over third party advertisements and will not be held responsible for any actions resulting in from these files.
+**Security**
 
-**How do you use single-pixel gifs?**
+We employ security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage.
 
-RightJobs.pk and third party advertisers may sometimes use single-pixel gif images (also referred as web beacons) to count web page accesses and gather statistical information about your behavior on different parts of our website. We do not collect any personal information from such files and cookies.
-
-Third party advertisers that use cookies may also use web beacons to track personal information. However we have no control over such advertisements and are not responsible for any actions resulting in use of these practices.
-
-**What personal information do we collect?**
-
-  * Wherever Rightjobs.pk collects any personal information, we will place a link for users to see this privacy policy. We will ask you when we will need any information that will personally identify you and it will be collected with your consent. The personal information we collect may include your name, title, company or organization name, e-mail address, phone number, work or home address, information about your job function, information about your company, and credit card information.
-  * Apart from the above mentioned information, we may ask for your email address or physical address for the purpose of conducting a contest, survey, sending invitations for shows and conferences or newsletter subscription. Participation in such actions is completely voluntary and up to the user’s decision. Contact information is used to notify winners and for any future correspondence.
-  * RightJobs.pk also may collect information from you for registration on our website. This information will be used for processing data on our websites against our services. Information collected will not be shared with any third party unless specified.
-  * RightJobs.pk is an online job portal and like other online recruiting portals, we may ask users to submit their resume/curriculum vitae or build one online. Such documents will be shared with third parties such as employers/recruiters but after consent of users.
-  * We use third party services for some services on our website like third party payment options. Your personal information will be required to perform these functions.
-  * We will not disclose any personal information unless specified. However we will disclose personal information of an individual if: (a) Required by law or any security agency for security purposes. (b) In order to fulfill any legal requirements. (c) Prevent crime or to protect national security. (d) Protect the personal safety of any other individual.
-
-
-
-**Disclosure of information to third parties.**
-
-Rightjobs.pk will disclose personal information with your consent to third parties:
-
-  * With our partners to contact you for promotions, products, services that may be interest to you.
-  * When required by law.
-  * To cooperate with law enforcing agencies if required to do so.
-  * Protect and defend the rights of our website/company/network, their intellectual property protect the rights of our users, or our right to do business.
-  * Identify and prosecute any person misusing our services, violating law, misuse of our website, violating this privacy policy, protect and enforce terms of use of our website.
-  * Fill a user request on basis of our services like providing personal information to possible recruiters/HR management or companies that are a part of our website.
-  * To process and fulfill your order or notify you of order status.
-
-
-
-**Protection of information.**
-
-Rightjobs.pk is a complete jobs portal that is protected to the maximum extent with a number of security protocols. In case of any attack on the website/servers/users by third parties will not be held responsibility for the management of our website. Users should be aware of their online rights and privacy.
-
-**Your consent to get/use your information.**
-
-When you are using our services, it automatically means that we have your consent to get and use your personal information as termed in this privacy policy.
-
-RightJobs.pk has a network of partner websites and we may share personal information with them. The websites under our direct control will be governed with the same privacy policy. But any third party website that are not directly under our control, will not be governed by this privacy policy. Users are advised to read and show consent to their privacy policies.
-
-**What should you know about online privacy?**
-
-Rightjobs.pk contains hyperlinks to third party websites. Our website also contains third party advertisements. These links and adverts are for promotional purposes only and we are not to be held responsible for any actions taken by these third party links or advertisements. We have no control over these companies and websites and will not be brought into any confrontation with them. The links and advertisements are from third parties and may change from time to time.
-
-Please keep in mind that whenever you voluntarily disclose personal information online - for example through e-mail, discussion lists, or elsewhere - that information can be collected and used by others. In short, if you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return.
-
-Ultimately, you are solely responsible for maintaining the secrecy of your personal information. Please be careful and responsible whenever you're online.
-
-**Public areas of our website.**
-
-Anything you post on our public areas will be visible to others. If your personal information is visible to others, RightJobs.pk will have no responsibility is any third party uses that information for sending unsolicited messages or spam.
-
-**Your consent to this agreement.**
-
-By using the RightJobs.pk Network, you consent to the collection and use of information by RightJobs.pk as specified above.
-
-**Modifications to this policy**
-
-RightJobs.pk reserves the right to modify this privacy policy. Any modifications that are to be done on this privacy policy will be updated on our homepage. We will also notify our users through email or any other means with the news of a new privacy policy.
+We strive to provide a safe environment by attempting to limit access to our database to legitimate users, but we cannot guarantee that unauthorized parties will not gain access. We also cannot control how authorized users store or transfer information you give to us, so you should not post sensitive information to Rightjobs.
