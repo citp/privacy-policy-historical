@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newmatilda.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118032053id_/https%3A//newmatilda.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newmatilda.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126070811id_/https%3A//newmatilda.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - New Matilda
 
