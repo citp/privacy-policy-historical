@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warframe.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102095435id_/https%3A//www.warframe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warframe.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126200227id_/https%3A//www.warframe.com/privacy) for the most accurate reproduction.*
 
 # Warframe: Privacy Policy
 
