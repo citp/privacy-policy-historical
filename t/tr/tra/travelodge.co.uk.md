@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelodge.co.uk privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016200419id_/https%3A//www.travelodge.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelodge.co.uk privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126223130id_/https%3A//www.travelodge.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Travelodge | Privacy policy
 
@@ -59,7 +59,7 @@ Functional| Travelodge consent cookie| Indicates if you have been asked for cons
  | Session ID| Allows the basket function to work on the site and is automatically removed once you leave the websites  
  | Cookiekey| Allows the ‘remember me’ function (if set) to automatically log you in to My Travelodge when you return to the websites  
 Statistical| Google Analytics and Web trends| Records (anonymous) statistical information about usage of the Travelodge websites for performance monitoring and to drive insight into areas for improvement  
- | Maxymiser| Travelodge uses Maxymiser to test new content on our site to improve performance. The cookie is set if you visit a page that has is being optimised and is used to recognise you and serve you the most relevant content when you return to the site.  
+ | Oracle Maxymiser| Travelodge uses Maxymiser to test new content on our site to improve performance. The cookie is set if you visit a page that has is being optimised and is used to recognise you and serve you the most relevant content when you return to the site.  
 Marketing| Doubleclick| Doubleclick use cookies to serve Travelodge advertising across other relevant websites. They also gather information about advertising performance and conversion information.  
  | ReallyB2B| ReallyB2B use cookies to help Travelodge identify where visitors to our website are coming from and help Travelodge take decisions regarding business marketing activities.  
  | Redeye| Redeye track any interaction and conversion that comes as a result of clicking on a link in a Travelodge promotional email using cookies.  
