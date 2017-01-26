@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817081615id_/https%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caringbridge.org privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126162831id_/https%3A//www.caringbridge.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CaringBridge
 
@@ -94,7 +94,7 @@ Generally, CaringBridge does not use any personal information posted in content 
 
 _Survey Information._ From time to time, we may post a survey on the Service, if we have your contact information and your consent, we may send you a questionnaire or survey. Your participation in any survey is always voluntary. We compile statistical information from the responses to our surveys. These statistics do not identify you personally. These statistics help us understand the needs and preferences of the groups we serve and improve the content and functionality of the Site as well as Individual Sites.
 
-_Email Communications from the Site._ We will occasionally send you information about products, services, newsletters and promotions on our Service. You can sign up for these emails from us on our site. Out of respect for your privacy, we present the option not to receive these types of communications. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org). We offer an opportunity to opt-out of certain communications in your account, or you may contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org) or CaringBridge 1715 Yankee Doodle Rd. Suite 301, Eagan, MN 55121 to opt-out.
+_Email Communications from the Site._ We will occasionally send you information about products, services, newsletters and promotions on our Service. You can sign up for these emails from us on our site. Out of respect for your privacy, we present the option not to receive these types of communications. If you no longer wish to receive our newsletter and promotional communications, you may opt-out of receiving them by following the instructions included in each newsletter or communication or by emailing us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org). We offer an opportunity to opt-out of certain communications in your account, or you may contact us at [customercare@caringbridge.org](mailto:customercare@caringbridge.org) or CaringBridge 2750 Blue Water Rd. Suite 275, Eagan, MN 55121 to opt-out.
 
 _Notifications from the Mobile Application._ When using our mobile application we will provide you with the opportunity to opt into receiving notifications from us through your device. If you no longer wish to receive these communications you may opt out of receiving them at the device level by modifying your profile settings.
 
@@ -160,4 +160,4 @@ This Service, including individual Sites, may provide links to other websites op
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy or our privacy practices, please contact us by email at [privacy@caringbridge.org](mailto:privacy@caringbridge.org) or by mail at CaringBridge, 1715 Yankee Doodle Road, Suite 301, Eagan, MN, U.S.A. 55121, Attn: Chief Privacy Officer.
+If you have any questions about this Privacy Policy or our privacy practices, please contact us by email at [privacy@caringbridge.org](mailto:privacy@caringbridge.org) or by mail at CaringBridge, 2750 Blue Water Road, Suite 275, Eagan, MN, U.S.A. 55121, Attn: Chief Privacy Officer.
