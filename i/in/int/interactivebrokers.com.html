@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the interactivebrokers.com privacy policy that was archived on 2016-12-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161214194952id_/https%3A//www.interactivebrokers.com/en/index.php%3Ff%3D305) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the interactivebrokers.com privacy policy that was archived on 2017-01-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170126075611id_/https%3A//www.interactivebrokers.com/en/index.php%3Ff%3D305) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=""><head>
 <meta charset="utf-8">
@@ -44,8 +44,27 @@ function uiLoaded()
 function coreLoaded() 
 {
  createScriptElement({ source : "/scripts/common/js/2015/design.js?ver=1" });
- createScriptElement({ source : "/scripts/common/js/lib.js?ver=2" });
+ createScriptElement({ source : "/scripts/common/js/lib.js?ver=2", loadfunction: storeCookie });
  createScriptElement({ source : "/scripts/common/js/twsUtils.js?ver=2", loadfunction: twsUtils });
+}
+function storeCookie()
+{
+ if(typeof(Storage) !== 'undefined')
+ {
+  var webCookie = getCookie("web");
+  if(webCookie !== null)
+  {
+   if(localStorage.getItem('web') != webCookie)
+   {
+    localStorage.setItem('web', webCookie);
+   }
+  } else {
+   if(localStorage.getItem('web') !== null)
+   {
+    setCookie('web', localStorage.getItem('web'), 365, '.interactivebrokers.com');
+   }
+  }
+ }
 }
 function twsUtils()
 {
@@ -86,7 +105,7 @@ $(function() {
 <link rel="stylesheet" media="screen" type="text/css" href="/stylesheet/web/ib-common.css?ver=1" id="ib-common-css">
 <link rel="stylesheet" media="screen" type="text/css" href="/stylesheet/web/web-styles.css?ver=1" id="web-styles-css">
 <link rel="stylesheet" media="print" type="text/css" href="/stylesheet/web/print.css?ver=1" id="print-css">
-<script type="text/javascript" src="/scripts/common/js/2015/jquery.fancybox.js?ver=1"></script><script type="text/javascript" src="/scripts/common/js/2015/design.js?ver=1"></script><script type="text/javascript" src="/scripts/common/js/lib.js?ver=2"></script><script type="text/javascript" src="/scripts/common/js/twsUtils.js?ver=2"></script><style type="text/css">.fancybox-margin{margin-right:0px;}</style></head>
+<script type="text/javascript" src="/scripts/common/js/2015/jquery.fancybox.js?ver=1"></script><style type="text/css">.fancybox-margin{margin-right:0px;}</style><script type="text/javascript" src="/scripts/common/js/2015/design.js?ver=1"></script><script type="text/javascript" src="/scripts/common/js/lib.js?ver=2"></script><script type="text/javascript" src="/scripts/common/js/twsUtils.js?ver=2"></script></head>
 <body>
 <!-- Google Tag Manager -->
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','GTM-NK9NSD');</script>
@@ -176,39 +195,17 @@ $(function() {
                     </ul>
                 </li>
                 <!-- OPEN ACCOUNT FOR HOME PAGE -->
-                                <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle open-account">Open Account <b class="caret"></b></a>
+                                <!-- OPEN ACCOUNT FOR SINGLE ACCOUNT SECTIONS -->
+                <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle open-account">Open Account <b class="caret"></b></a>
                     <ul class="dropdown-menu dropdown-menu-right">
                     <li>
                     <div class="megamenu-content">
-                    	<div class="row">
-                        	<ul class="col-sm-8 list-unstyled">
-                            <li class="hidden-xs"><p class="borderbottom text-black"><span class="text-black">Choose an Account</span></p></li>
-                            </ul>
-                        </div>
                         <div class="row">
                             <ul class="col-sm-4 list-unstyled">
-                            <li class="hidden-xs"><p>Trader &amp; Investor Accounts</p></li>
-                            <li><a href="/inv/en/main.php#open-account" target="_self">Trader or Investor</a></li>
-                                                        <li><a href="/sb/en/main.php#open-account" target="_self">Small Business</a></li>
-                            <li><a href="/ff/en/main.php#open-account" target="_self">Friends and Family Advisor</a></li>
-                            <li><a href="/fo/en/main.php#open-account" target="_self">Family Office</a></li>
-                                                        </ul>
-                            <ul class="col-sm-4 list-unstyled">
-                            <li class="hidden-xs"><p>Institution Accounts</p></li>
-                                                        <li><a href="/adv/en/main.php#open-account" target="_self">Registered Advisor</a></li>
-                            <li><a href="/mm/en/main.php#open-account" target="_self">Money Manager</a></li>
-                            <li><a href="/bro/en/main.php#open-account" target="_self">Broker</a></li>
-                                                        <li><a href="/ptgs/en/main.php#open-account" target="_self">Proprietary Trading Group</a></li>
-                                                        <li><a href="/hmf/en/main.php#open-account" target="_self">Hedge or Mutual Fund</a></li>
-                            <li><a href="/co/en/main.php#open-account" target="_self">Compliance Officer</a></li>
-                            <li><a href="/adm/en/main.php#open-account" target="_self">Administrator</a></li>
-                                                        </ul>
-                        </div>
-                        <div class="row">
-                        	<hr>
-                        	<ul class="col-sm-8 list-unstyled">
-                            <li><a href="/en/index.php?f=4945&amp;p=accountstructures" target="_self">How to Choose and Configure an Account</a></li>
-                            <li><a href="https://gdcdyn.interactivebrokers.com/sso/Login?c=t" target="_blank">Continue or Finish Your Application</a></li>
+                                                        <li><a href="https://gdcdyn.interactivebrokers.com/Universal/jsp/marketing/referralFee.jsp" target="_blank" class="menu-button">Start an Application - Flat Fee-Based</a></li>
+                            <li><a href="https://gdcdyn.interactivebrokers.com/Universal/servlet/formWelcome?p=100&amp;atype=REFERRER" target="_blank" class="menu-button">Start an Application - Commission-Based</a></li>
+                                                        <li><a href="/sso/Login?c=t" target="_blank">Finish an Application</a></li>
+                                                                                                                <li><a href="/en/index.php?f=1560" target="_self">Contact a Representative</a></li>
                             </ul>
                         </div>
                     </div>
@@ -236,7 +233,7 @@ $(function() {
             <div id="navbar-collapse-1" class="navbar-collapse collapse">
                 <ul class="nav navbar-nav hidden-sm">
                 <!-- SITES -->
-                                <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Home<b class="caret"></b></a>
+                                <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">Referrer<b class="caret"></b></a>
                     <ul class="dropdown-menu dropdown-menu-left">
                     <li>
                     <div class="megamenu-content">
@@ -256,7 +253,7 @@ $(function() {
                             <li><a href="/co/en/main.php" target="_self">Compliance Officer</a></li>
                             <li><a href="/adm/en/main.php" target="_self">Administrator</a></li>
                             <li><a href="/edu/en/main.php" target="_self">Educator</a></li>
-                            <li><a href="/ref/en/main.php" target="_self">Referrer</a></li>
+                            <li><a href="/ref/en/main.php" class="selected" target="_self">Referrer</a></li>
                                                         </ul>
                         </div>
                     </div>
@@ -265,8 +262,6 @@ $(function() {
                 </li>
                                 </ul>
                 <ul class="nav navbar-nav navbar-right">
-                                <!-- WHY IB DROPDOWN HIDDEN FROM SINGLE ACCOUNT SECTIONS -->
-                <li><a href="/en/index.php?f=1338">Why IB</a></li>
                                 <!-- FREE TRIAL MOBILE -->
                 <li class="hidden-lg hidden-md hidden-sm"><a href="/en/index.php?f=1286" target="_self">Free Trial</a></li>
                                                       <li class="dropdown"><a href="#" data-toggle="dropdown" class="dropdown-toggle">PRICING <b class="caret"></b></a>
@@ -279,13 +274,10 @@ $(function() {
 					<li><a href="/en/index.php?f=1590" target="_self">Commissions</a></li>
 					<li><a href="/en/index.php?f=1595" target="_self">Interest and Financing</a></li>
 					<li><a href="/en/index.php?f=14193" target="_self">Research, News and Market Data</a></li>
-					<li><a href="/en/index.php?f=18615" target="_self">Institutional Research</a></li>
 				</ul>
 				<ul class="col-sm-4 list-unstyled">
 					<li><a href="/en/index.php?f=4969" target="_self">Required Minimums</a></li>
 					<li><a href="/en/index.php?f=14718" target="_self">Other Fees</a></li>
-					<li><a href="/en/index.php?f=14529" target="_self">Advisor Fees</a></li>
-					<li><a href="/en/index.php?f=14528" target="_self">Broker Client Markups</a></li>
 				</ul>
 			</div>
 <div class="row">
@@ -314,9 +306,6 @@ $(function() {
 					<li class="hidden-xs"><p>TECHNOLOGY</p></li>
 					<li><a href="/en/index.php?f=1685" target="_self">SmartRouting</a></li>
 					<li><a href="/en/index.php?f=4985" target="_self">Order Types and Algos</a></li>
-					<li><a href="/en/index.php?f=4986" target="_self">Customer Activity Monitor</a></li>
-					<li><a href="/en/index.php?f=15491" target="_self">Third Party Integration</a></li>
-					<li><a href="/en/index.php?f=14322" target="_self">White Branding</a></li>
 					<li><a href="/en/index.php?f=20636" target="_self">Features in Focus</a></li>
 				</ul>
 				<div class="hidden-xs hidden-md hidden-lg"><span class="clearfix"></span></div>
@@ -332,12 +321,12 @@ $(function() {
 				<ul class="col-sm-4 list-unstyled">
 					<li class="hidden-xs"><p>SERVICES</p></li>
 					<li><a href="/en/index.php?f=5079" target="_self">Account Management</a></li>
-					<li><a href="/en/index.php?f=13870" target="_self">EmployeeTrack Management</a></li>
 					<li><a href="/en/index.php?f=14429" target="_self">IRA Information</a></li>
 					<li><a href="/en/index.php?f=1544" target="_self">Funding Reference</a></li>
 					<li><a href="/en/index.php?f=14527" target="_self">Securities Financing</a></li>
 					<li><a href="https://gdcdyn.interactivebrokers.com/mkt/?src=tradersmktpl&amp;url=/Universal/servlet/MarketPlace.MarketPlaceServlet" target="_blank">Investors' Marketplace</a></li>
 					<li><a href="/en/index.php?f=2493" target="_self">New Features Poll</a></li>
+					<li><a href="/en/index.php?f=1554" target="_self">Tax Information and Reporting</a></li>
 				</ul>
 			</div>
 <div class="row">
@@ -416,8 +405,8 @@ $(function() {
 			<div class="megamenu-content">
 			<div class="row">
 				<ul class="col-sm-4 list-unstyled">
-					<li><a href="/en/index.php?f=1560" target="_self">Customer Service</a></li>
-					<li><a href="/en/index.php?f=978" target="_self">Institutions Customer Service</a></li>
+					<li><a href="/en/index.php?f=1560" target="_self">Client Services</a></li>
+					<li><a href="/en/index.php?f=978" target="_self">Institutions Client Services</a></li>
 					<li><a href="/en/index.php?f=1565" target="_self">Institutions Sales Contacts</a></li>
 					<li><a href="/en/index.php?f=979" target="_self">Trading Desks</a></li>
 					<li><a href="http://ibkb.interactivebrokers.com" target="_blank">IB Knowledge Base</a></li>
