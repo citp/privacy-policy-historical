@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trueandco.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111122806id_/https%3A//trueandco.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trueandco.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126063946id_/https%3A//trueandco.com/privacy_policy) for the most accurate reproduction.*
 
 # True&Co.: We Make Bras That Make You Feel Amazing
 
