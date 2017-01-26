@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the tubemogul.com privacy policy that was archived on 2016-11-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161112002352id_/https%3A//www.tubemogul.com/compliance/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tubemogul.com privacy policy that was archived on 2017-01-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170126071714id_/https%3A//www.tubemogul.com/compliance/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
 <!-- Google Tag Manager -->
@@ -14,8 +14,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 <!-- End Google Tag Manager -->
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<link rel="icon" type="image/png" href="https://www.tubemogul.com/wp-content/themes/tubemogul/_img/_icons/favicon.png">
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+<link rel="icon" type="image/ico" href="https://www.tubemogul.com/wp-content/themes/tubemogul/_img/_icons/favicon.ico">
+<!-- <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css"> -->
 <link rel="pingback" href="https://www.tubemogul.com/xmlrpc.php">
 
 <link rel="alternate" hreflang="es" href="https://es.tubemogul.com/compliance/privacy-policy/">
@@ -38,7 +38,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <title>Privacy Policy</title>
 
-<!-- This site is optimized with the Yoast SEO plugin v3.7.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v3.8 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="TubeMogul Privacy Policy">
 <meta name="robots" content="noodp">
 <link rel="canonical" href="https://www.tubemogul.com/compliance/privacy-policy/">
@@ -83,9 +83,9 @@ img.emoji {
 <link rel="stylesheet" id="tube-mogul-normalize-css" href="https://www.tubemogul.com/wp-content/themes/tubemogul/css/_includes/normalize.css?ver=4.6.1" type="text/css" media="all">
 <link rel="stylesheet" id="tube-mogul-foundation-css" href="https://www.tubemogul.com/wp-content/themes/tubemogul/css/_includes/foundation.css?ver=4.6.1" type="text/css" media="all">
 <link rel="stylesheet" id="tube-mogul-colorbox-css" href="https://www.tubemogul.com/wp-content/themes/tubemogul/css/colorbox.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="tube-mogul-main-css" href="https://www.tubemogul.com/wp-content/themes/tubemogul/css/main.css?ver=20161109" type="text/css" media="all">
+<link rel="stylesheet" id="tube-mogul-main-css" href="https://www.tubemogul.com/wp-content/themes/tubemogul/css/main.css?ver=20170105" type="text/css" media="all">
 <link rel="stylesheet" id="tube-mogul-overrides-css" href="https://www.tubemogul.com/wp-content/themes/tubemogul/style.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="tube-mogul-fontawesome-css" href="https://www.tubemogul.com/wp-content/themes/tubemogul/css/font-awesome-4.2.0/css/font-awesome.min.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="tube-mogul-fontawesome-css" href="https://www.tubemogul.com/wp-content/themes/tubemogul/css/font-awesome-4.7.0/css/font-awesome.min.css?ver=4.6.1" type="text/css" media="all">
 <script type="text/javascript" src="https://www.tubemogul.com/wp-content/themes/tubemogul/js/jquery-1.11.2.min.js?ver=20120206"></script>
 <script type="text/javascript" src="https://www.tubemogul.com/wp-content/themes/tubemogul/js/jquery-ui.min.js?ver=20120206"></script>
 <script type="text/javascript" src="https://www.tubemogul.com/wp-content/themes/tubemogul/js/jquery.waypoints.min.js?ver=20120206"></script>
@@ -106,8 +106,38 @@ img.emoji {
 <script>
 var admin_ajax = "https://www.tubemogul.com/wp-admin/admin-ajax.php";
 
+// Uncomment when deploying ajax caching solution
+// $.post(
+// 	admin_ajax, 
+// 	{
+// 		action: 'ajax_authenticated_user'}, 
+// 		function(res) { 
+// 			if ( res.authuser ) {
+// 				var dashboard_url = '/playtime/placements';
+				
+// 				if ( $('body').hasClass('home') ) {
+// 					location.href = dashboard_url;
+// 				}
+
+// 				// update home/dashboard link (logo and breadcrumb)
+// 				$('.headerbar_title a').attr('href', dashboard_url);
+// 				$('a.bread-link.bread-home').attr('href', dashboard_url);
+
+// 				// update Login link and text (for both desktop and mobile)
+// 				$('button[data-popup="#login"]').text('Dashboard').attr('onClick', "window.location.href=\'" + dashboard_url + "\'").removeClass('cboxElement');
+// 				$('.mobile_menu_login a').text('Dashboard').attr('href', dashboard_url);
+// 			}
+// 		}
+// ).fail(
+// 	function() { 
+// 		console.log( 'error' ); 
+// 	}
+// );
+
 $(document).ready(function() {
-  	
+
+
+
 	// Sticky Header Bar
 	var stickyMenuTop = $('#sticky_menu').offset().top;
 
@@ -117,33 +147,28 @@ $(document).ready(function() {
 
 			if ($("#headerbar_mobile").is(":visible")) {
 
-				if ($(window).width() < 640) {
-					$(".headerbar_logo, .headerbar_login").fadeOut(100, function() {
-						$(".headerbar_demo_button").fadeIn(200);
-					});
-				} else {
-					$(".headerbar_login").fadeOut(100, function() {
-						$(".headerbar_demo_button").fadeIn(200);
-					});
-				}
-			}
+				$(".headerbar_login").fadeOut(100, function() {
+					$(".headerbar_demo_button").fadeIn(200);
+				});
 
+			}
 	    } else {
 	        $('#sticky_menu').css({position: 'static', top: '0px'});
 
 			if ($("#headerbar_mobile").is(":visible")) {
 
 				$(".headerbar_demo_button").fadeOut(100, function() {
-					$(".headerbar_logo, .headerbar_login").fadeIn(200);
+					$(".headerbar_login").fadeIn(200);
 				});
 			}
 	    }
-
 	});
 
 	// Show/Hide Menu
 
 	function hideMenu() {
+
+		$("#mobile_menu_underlay").fadeOut();
 
 	    $('#menu').animate({
 	        opacity: 0
@@ -165,9 +190,6 @@ $(document).ready(function() {
 			$('#mobile_menu_container').animate({'left': -300}, 300, function() {
 				$(this).hide();
 			})
-			if (!$("#menu_container").is(":visible")) {
-				$("#menu_container").hide();
-			}
 		});
 
 		$("#menu_button_close").fadeOut(200, function() {
@@ -178,7 +200,6 @@ $(document).ready(function() {
 			$("#mobile_menu_button_open").fadeIn(200);
 		});
 
-		$("#mobile_menu_underlay, #menu_underlay").hide();
 
 	}
 
@@ -197,6 +218,7 @@ $(document).ready(function() {
 	}
 
 	function showMenu() {
+		console.log("showing main menu");
 		var height = $('#menu').outerHeight();
 		$('#menu_container').addClass("open").animate({
 			height: height
@@ -212,7 +234,6 @@ $(document).ready(function() {
 		$("#menu_button_open").fadeOut(200, function() {
 			$("#menu_button_close").fadeIn(200);
 		});
-		$("#menu_underlay").show();
 
 	}
 
@@ -226,7 +247,7 @@ $(document).ready(function() {
 		showMobileMenu();
 	});
 
-	$("#menu_button_close, #mobile_menu_button_close, #menu_underlay, #mobile_menu_underlay").click(function(e) {
+	$("#menu_button_close, #mobile_menu_button_close, #mobile_menu_underlay").click(function(e) {
 		e.preventDefault();
 		hideMenu();
 	});
@@ -238,6 +259,8 @@ $(document).ready(function() {
 });
 
 </script>
+<meta name="google-site-verification" content="tMMxINmQnZGCSmG5xRWQiAwbhrP21XBakRb5TnUbqK8">
+<meta name="google-site-verification" content="OSMU7rboQf5S_VaMN1wOEG8I5MqQNEmQckF8ldCZDBU">
 <script type="text/javascript" async="" src="//static.getclicky.com/js"></script></head>
 <body class="page page-id-21574 page-child parent-pageid-21573 page-template-default privacy-policy">
 <!-- Google Tag Manager (noscript) -->
@@ -278,12 +301,12 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<a href="/">Home</a>
 			</div>
 			<div class="mobile_menu_login">
-									<a data-popup="#login" href="#login">Log In</a>
-							</div>
+				<a href="/auth/login">Login</a>
+			</div>
 
-			<div class="mobile_menu_header"><div class="mobile_menu_item_title">Solutions</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/cross-channel-advertising/">Cross-Channel Advertising</a></div></div><div class="mobile_menu_subitem"><div class="mobile_menu_subitem_content"><div class="mobile_menu_item_title"><span class="dot">·</span><a href="https://www.tubemogul.com/digital-formats/">Digital Advertising Formats</a></div></div><div class="clearfix"></div></div><div class="mobile_menu_subitem"><div class="mobile_menu_subitem_content"><div class="mobile_menu_item_title"><span class="dot">·</span><a href="https://www.tubemogul.com/programmatic-television/">Programmatic TV</a></div></div><div class="clearfix"></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/premium-ad-inventory/">Premium Ad Inventory</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/creative-advertising-services/">Creative Advertising Services</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/tubemogul-ad-swap/">Ad Swap</a></div></div><div class="mobile_menu_header"><div class="mobile_menu_item_title">Technology</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/tubemogul-software/">TubeMogul Software</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/benefits/">Benefits</a></div></div><div class="mobile_menu_header"><div class="mobile_menu_item_title">Resources</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/insights/">Insights</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/education/">Education</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/engineering/">Engineering</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/blog/">Blog</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/glossary/">Ad Glossary</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="http://content.tubemogul.com/TubeMogulMediaKit_Download.html">Media Kit</a></div></div><div class="mobile_menu_header"><div class="mobile_menu_item_title">Careers</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/company-culture/">Company Culture</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/opportunities/">Opportunities</a></div></div><div class="mobile_menu_header"><div class="mobile_menu_item_title">About</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/guiding-principles/">Guiding Principles</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/leadership/">Leadership</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/awards/">Awards</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/locations/">Locations</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/events/">Events</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/press-and-news/">Press &amp; News</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="http://investor.tubemogul.com">Investor Relations</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/contact-us/">Contact Us</a></div></div>			<div class="mobile_menu_header"><div class="mobile_menu_item_title">Misc</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/compliance/privacy-policy/">Privacy Policy</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="/compliance/privacy-policy/#opt-out">Opt Out</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/compliance/terms-of-service/">Terms of Service</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/ad-specs/">Ad Specs</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="http://content.tubemogul.com/TubeMogulMediaKit_Download.html">Media Kit</a></div></div>
+			<div class="mobile_menu_header"><div class="mobile_menu_item_title">Technology</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/tubemogul-software/">TubeMogul Software</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/cross-channel-advertising/">Cross-Channel Advertising</a></div></div><div class="mobile_menu_subitem"><div class="mobile_menu_subitem_content"><div class="mobile_menu_item_title"><span class="dot">·</span><a href="https://www.tubemogul.com/digital-formats/">Digital Advertising Formats</a></div></div><div class="clearfix"></div></div><div class="mobile_menu_subitem"><div class="mobile_menu_subitem_content"><div class="mobile_menu_item_title"><span class="dot">·</span><a href="https://www.tubemogul.com/programmatic-tv/">Programmatic TV</a></div></div><div class="clearfix"></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/tubemogul-ad-swap/">Ad Swap</a></div></div><div class="mobile_menu_header"><div class="mobile_menu_item_title">Solutions</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/benefits/">Benefits</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/creative-advertising-services/">Creative Advertising Services</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/education/">Education</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/premium-ad-inventory/">Premium Ad Inventory</a></div></div><div class="mobile_menu_header"><div class="mobile_menu_item_title">Resources</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/insights/">Insights</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/engineering/">Engineering</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/blog/">Blog</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/press-and-news/">Press &amp; News</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/glossary/">Ad Glossary</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="http://content.tubemogul.com/TubeMogulMediaKit_Download.html">Media Kit</a></div></div><div class="mobile_menu_header"><div class="mobile_menu_item_title">About</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/locations/">Locations</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/awards/">Awards</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.adobe.com/about-adobe/events.html">Events</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/opportunities/">Careers</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/contact-us/">Contact Us</a></div></div>			<div class="mobile_menu_header"><div class="mobile_menu_item_title">Misc</div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/compliance/privacy-policy/">Privacy Policy</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="/compliance/privacy-policy/#opt-out">Opt Out</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/compliance/terms-of-service/">Terms of Service</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="https://www.tubemogul.com/ad-specs/">Ad Specs</a></div></div><div class="mobile_menu_item"><div class="mobile_menu_item_title"><a href="http://content.tubemogul.com/TubeMogulMediaKit_Download.html">Media Kit</a></div></div>
 			<div class="mobile_menu_logo">
-				<img src="https://www.tubemogul.com/wp-content/themes/tubemogul/_img/_logos/tubemogul_gray.svg" alt="TubeMogul Logo">
+				<br>
 			</div>
 
 		</div>
@@ -297,6 +320,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 			<div id="headerbar_container">
 
 				<div id="headerbar_mobile">
+
+					<div class="headerbar_logo text-left new">
+						<a href="/"><img src="https://www.tubemogul.com/wp-content/themes/tubemogul/_img/_logos/adobe_red_tag.jpg" alt="Adobe Logo"></a>
+					</div>
 					<div class="headerbar_menu text-center">
 
 						<div id="mobile_menu_button_container">
@@ -327,15 +354,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 							</a>
 						</div>
 
-					</div>
-					<div class="headerbar_logo text-center">
-						<a href="/"><img src="https://www.tubemogul.com/wp-content/themes/tubemogul/_img/_logos/tubemogul_symbol.svg" alt="TubeMogul Icon"></a>
-					</div>
+					</div>					
 					<div class="headerbar_login text-right">
-													<a data-popup="#login" href="#login">
-								<div class="mobile_icon icon small hot" id="mobile_login_icon">
-									<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 75 75" style="enable-background:new 0 0 75 75;" xml:space="preserve">
+						<div class="popup mobile_icon icon small hot" href="#login" data-popup="#login" id="mobile_login_icon">
+							<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 75 75" style="enable-background:new 0 0 75 75;" xml:space="preserve">
 <style type="text/css">
 	.st0{fill:none;stroke:#737474;stroke-width:2.5;stroke-linecap:round;stroke-miterlimit:10;}
 </style>
@@ -348,11 +370,10 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	</g>
 </g>
 </svg>
-								</div>
-							</a>
-												</div>
+						</div>					
+					</div>
 					<div class="headerbar_demo_button">
-						<a href="/request-a-demo/"><button id="mobile_demo_button" class="small white">Request a demo</button></a>
+						<a href="/watch-a-demo/"><button id="mobile_demo_button" class="small white">Watch a demo</button></a>
 					</div>
 					<div class="clearfix"></div>
 				</div>
@@ -360,14 +381,14 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 
 
 				<div id="headerbar">
-					<div class="headerbar_title text-left">
-						<a href="/"><img src="https://www.tubemogul.com/wp-content/themes/tubemogul/_img/_logos/tubemogul_full.svg" alt="TubeMogul Logo"></a>
+					<div class="headerbar_title text-left new">
+						<a href="/"><img src="https://www.tubemogul.com/wp-content/themes/tubemogul/_img/_logos/adobe_red_tag.jpg" alt="Adobe Logo"></a>
 					</div>
 					<div class="headerbar_menu text-center">
-							<div id="menu_button_container">
-								<a href="">
-									<div class="menu_button icon small" id="menu_button_open">
-										<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+						<div id="menu_button_container">
+							<a href="">
+								<div class="menu_button icon small" id="menu_button_open">
+									<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 75 75" style="enable-background:new 0 0 75 75;" xml:space="preserve">
 
 <g id="XMLID_218_">
@@ -376,11 +397,11 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<line id="XMLID_224_" x1="5.6" y1="51.6" x2="69.7" y2="51.6"></line>
 </g>
 </svg>
-									</div>
-								</a>
-								<a href="">
-									<div class="menu_button icon small" id="menu_button_close">
-										<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+								</div>
+							</a>
+							<a href="">
+								<div class="menu_button icon small" id="menu_button_close">
+									<!-- Generator: Adobe Illustrator 19.0.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="-37 38 75 75" style="enable-background:new -37 38 75 75;" xml:space="preserve">
 
 <g id="XMLID_220_">
@@ -388,13 +409,13 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 	<line id="XMLID_221_" class="st0" x1="-17.5" y1="94.2" x2="18.9" y2="57.8"></line>
 </g>
 </svg>
-									</div>
-								</a>
-							</div>
+								</div>
+							</a>
+						</div>
 					</div>
 					<div class="headerbar_nav text-right">
 						<div class="headerbar_buttons">
-							<ul id="menu-top-buttons" class="menu"><li id="menu-item-21621"><button class="menu-item menu-item-type-post_type menu-item-object-page small titlecase narrowtext" onclick="window.location.href='https://www.tubemogul.com/request-a-demo/'">Request a Demo</button></li>
+							<ul id="menu-top-buttons" class="menu"><li id="menu-item-65392"><button class="menu-item menu-item-type-post_type menu-item-object-page small titlecase narrowtext" onclick="window.location.href='https://www.tubemogul.com/watch-a-demo/'">Watch a Demo</button></li>
 <li id="menu-item-21606"><button class="white popup menu-item menu-item-type-custom menu-item-object-custom small titlecase narrowtext" data-popup="#login" href="#login">Login</button><div class="popup-content" id="login">	<div id="login_box" class="OneLinkKeepLinks">
 		<div class="login_logo">
 		<img src="https://www.tubemogul.com/wp-content/themes/tubemogul/_img/_logos/tubemogul_full.svg">		</div>
@@ -416,7 +437,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 				<div id="menu">
 					<div class="menu_main">
 
-						<div class="menu_col_container"><div class="menu_col"><div class="menu_header"><a href="https://www.tubemogul.com/cross-channel-advertising/">Solutions</a></div><div class="menu_item"><a href="https://www.tubemogul.com/cross-channel-advertising/"><div class="menu_item_title">Cross-Channel Advertising</div></a></div><div class="menu_subitem"><a href="https://www.tubemogul.com/digital-formats/"><div class="menu_item_title"><span class="dot">·</span>Digital Advertising Formats</div></a></div><div class="menu_subitem"><a href="https://www.tubemogul.com/programmatic-television/"><div class="menu_item_title"><span class="dot">·</span>Programmatic TV</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/premium-ad-inventory/"><div class="menu_item_title">Premium Ad Inventory</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/creative-advertising-services/"><div class="menu_item_title">Creative Advertising Services</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/tubemogul-ad-swap/"><div class="menu_item_title">Ad Swap</div></a></div></div></div><div class="menu_col_container"><div class="menu_col"><div class="menu_header"><a href="https://www.tubemogul.com/tubemogul-software/">Technology</a></div><div class="menu_item"><a href="https://www.tubemogul.com/tubemogul-software/"><div class="menu_item_title">TubeMogul Software</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/benefits/"><div class="menu_item_title">Benefits</div></a></div><div class="menu_video"><span class="wistia_embed wistia_async_ni1bpf0f8i popover=true popoverContent=link popoverSize=1200x675"> <div class="video_container">   <img class="video_cap" src="https://www.tubemogul.com/wp-content/uploads/2015/05/menu_tubemogulvideo3.jpg">   <img class="play_btn tiny center" src="https://www.tubemogul.com/wp-content/themes/tubemogul/_img/_icons/playButtonWhite.svg"> </div></span></div></div></div><div class="menu_col_container"><div class="menu_col"><div class="menu_header"><a href="https://www.tubemogul.com/insights/">Resources</a></div><div class="menu_item"><a href="https://www.tubemogul.com/insights/"><div class="menu_item_title">Insights</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/education/"><div class="menu_item_title">Education</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/engineering/"><div class="menu_item_title">Engineering</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/blog/"><div class="menu_item_title">Blog</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/glossary/"><div class="menu_item_title">Ad Glossary</div></a></div><div class="menu_item"><a href="http://content.tubemogul.com/TubeMogulMediaKit_Download.html"><div class="menu_item_title">Media Kit</div></a></div></div></div><div class="menu_col_container"><div class="menu_col"><div class="menu_header"><a href="https://www.tubemogul.com/company-culture/">Careers</a></div><div class="menu_item"><a href="https://www.tubemogul.com/company-culture/"><div class="menu_item_title">Company Culture</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/opportunities/"><div class="menu_item_title">Opportunities</div></a></div><div class="menu_video"><span class="wistia_embed wistia_async_4r2sxatere popover=true popoverContent=link popoverSize=1200x675"> <div class="video_container">   <img class="video_cap" src="https://www.tubemogul.com/wp-content/uploads/2015/05/menu_careersvideo.png">   <img class="play_btn tiny center" src="https://www.tubemogul.com/wp-content/themes/tubemogul/_img/_icons/playButtonWhite.svg"> </div></span></div></div></div><div class="menu_col_container"><div class="menu_col"><div class="menu_header"><a href="https://www.tubemogul.com/guiding-principles/">About</a></div><div class="menu_item"><a href="https://www.tubemogul.com/guiding-principles/"><div class="menu_item_title">Guiding Principles</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/leadership/"><div class="menu_item_title">Leadership</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/awards/"><div class="menu_item_title">Awards</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/locations/"><div class="menu_item_title">Locations</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/events/"><div class="menu_item_title">Events</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/press-and-news/"><div class="menu_item_title">Press &amp; News</div></a></div><div class="menu_item"><a href="http://investor.tubemogul.com"><div class="menu_item_title">Investor Relations</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/contact-us/"><div class="menu_item_title">Contact Us</div></a></div></div></div>
+						<div class="menu_col_container"><div class="menu_col"><div class="menu_header"><a href="https://www.tubemogul.com/tubemogul-software/">Technology</a></div><div class="menu_item"><a href="https://www.tubemogul.com/tubemogul-software/"><div class="menu_item_title">TubeMogul Software</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/cross-channel-advertising/"><div class="menu_item_title">Cross-Channel Advertising</div></a></div><div class="menu_subitem"><a href="https://www.tubemogul.com/digital-formats/"><div class="menu_item_title"><span class="dot">·</span>Digital Advertising Formats</div></a></div><div class="menu_subitem"><a href="https://www.tubemogul.com/programmatic-tv/"><div class="menu_item_title"><span class="dot">·</span>Programmatic TV</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/tubemogul-ad-swap/"><div class="menu_item_title">Ad Swap</div></a></div></div></div><div class="menu_col_container"><div class="menu_col"><div class="menu_header"><a href="https://www.tubemogul.com/benefits/">Solutions</a></div><div class="menu_item"><a href="https://www.tubemogul.com/benefits/"><div class="menu_item_title">Benefits</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/creative-advertising-services/"><div class="menu_item_title">Creative Advertising Services</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/education/"><div class="menu_item_title">Education</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/premium-ad-inventory/"><div class="menu_item_title">Premium Ad Inventory</div></a></div></div></div><div class="menu_col_container"><div class="menu_col"><div class="menu_header"><a href="https://www.tubemogul.com/insights/">Resources</a></div><div class="menu_item"><a href="https://www.tubemogul.com/insights/"><div class="menu_item_title">Insights</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/engineering/"><div class="menu_item_title">Engineering</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/blog/"><div class="menu_item_title">Blog</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/press-and-news/"><div class="menu_item_title">Press &amp; News</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/glossary/"><div class="menu_item_title">Ad Glossary</div></a></div><div class="menu_item"><a href="http://content.tubemogul.com/TubeMogulMediaKit_Download.html"><div class="menu_item_title">Media Kit</div></a></div></div></div><div class="menu_col_container"><div class="menu_col"><div class="menu_header"><a href="https://www.tubemogul.com/locations/">About</a></div><div class="menu_item"><a href="https://www.tubemogul.com/locations/"><div class="menu_item_title">Locations</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/awards/"><div class="menu_item_title">Awards</div></a></div><div class="menu_item"><a href="https://www.adobe.com/about-adobe/events.html"><div class="menu_item_title">Events</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/opportunities/"><div class="menu_item_title">Careers</div></a></div><div class="menu_item"><a href="https://www.tubemogul.com/contact-us/"><div class="menu_item_title">Contact Us</div></a></div></div></div>
 						<div class="clearfix"></div>
 					</div>
 					<div class="menu_search_container">
@@ -433,7 +454,6 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 		</div>
 		<div class="clear"></div>
 	</div>
-	<div id="menu_underlay"></div>
 	<div id="mobile_menu_underlay"></div>
 	<div id="modal_underlay"></div>
 	
@@ -708,7 +728,7 @@ var untranslated = true;
 
 	<div id="footer_copy_container">
 		<div id="footer_copy">
-			© TubeMogul Inc.<a class="blend OneLinkShow_zh" href="http://www.miibeian.gov.cn" target="_blank"> ICP证: 沪B2-20160065</a>
+			Copyright © 2017 Adobe Systems Incorporated. All rights reserved.<a class="blend OneLinkShow_zh" href="http://www.miibeian.gov.cn" target="_blank"> ICP证: 沪B2-20160065</a>
 		</div>
 	</div>
 
@@ -736,7 +756,7 @@ var untranslated = true;
 			<div class="clearfix"></div>
 		</div>
 		<div id="mobile_copy">
-			© TubeMogul Inc.<a class="blend OneLinkShow_zh" href="http://www.miibeian.gov.cn" target="_blank"> ICP证: 沪B2-20160065</a>
+			Copyright © 2017 Adobe Systems Incorporated. All rights reserved.<a class="blend OneLinkShow_zh" href="http://www.miibeian.gov.cn" target="_blank"> ICP证: 沪B2-20160065</a>
 		</div>
 
 	</div>
