@@ -1,115 +1,135 @@
-> *The following text is extracted and transformed from the trip.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318075428id_/http%3A//www.trip.com/about-us/trip-privacy-policy-sp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trip.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126185457id_/https%3A//www.trip.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Trip.com
+# Privacy Policy
 
-_Effective: March 31, 2011_
+This privacy policy discloses the privacy practices of Gogobot Inc., the website located at [http://www.gogobot.com and ](http://www.gogobot.com/)[http://www.trip.com](http://www.trip.com/), the Gogobot and Trip mobile applications, and the related services, applications, and websites owned or operated by Gogobot Inc. and its corporate affiliates (collectively, the "Service").
 
-This Privacy Policy describes the principles and practices that apply to personal information collected from users of our services ("you") on the Web sites at which this policy is posted (the "Site"), including away.com, www.gorp.com, www.adventurefinder.com, and www.trip.com (but not including third party pages hosted at that URL). This policy also applies to information you submit to us by telephone or through email communications, or in interviews, surveys, sweepstakes, contests, or raffles. 
+#### What Information We Collect
 
-## Your California Privacy Rights
+The types of information that we collect fall under two general categories: personally identifiable information (PII) and non-personally identifiable information (non-PII). PII consists of any information which can be used to specifically identify you as an individual, whereas non-PII consists of aggregate information or any other information that does not reveal your identity. This Privacy Policy describes how your PII and non-PII are collected by us, and how we use such information. Please note that we store all information we collect, including PII and non-PII, on servers located in the United States. When you use the Service, you consent to that.
 
-Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, e-mail address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please write to us at: Privacy Coordinator, The Away Network, 1001 G Street, NW, Suite 725 W, Washington, DC 20001, with a reference to California Disclosure Information. 
+#### Log Files
 
-We will respond to such written requests within 30 days following receipt at the mailing address stated above. If we receive your request at a different mailing address, we will respond within a reasonable period of time, but not to exceed 150 days from the date received. Please note that we are only required to respond to each customer once per calendar year. 
+Any time you access the Service, our servers automatically gather information from your browser or device, including some PII and some non-PII. This information includes your IP addresses and browser type (if you are using a browser), device ID, location (if you have enabled this feature), Internet service provider (ISP) or wireless service provider, referring/exit pages, platform type, date/time stamp, and number of clicks. We may use this information to analyze trends, administer and improve the Service, prevent fraud, track visitor movement in the aggregate, and gather broad demographic information. Except as set forth in this Privacy Policy, we do not share this information externally.
 
-The remainder of this policy describes our personal information handling practices in detail.
+#### Cookies
 
-## Consent
+We use "cookies" to keep track of some types of information while you are visiting our website or using the Service. Cookies are very small files placed on your computer, and they allow us to count the number of visitors to our website and distinguish repeat visitors from new visitors. They also allow us to save user preferences and track user trends. We rely on cookies for the proper operation of our Service. If your browser rejects cookies from the Service, then the Service will not function properly with your browser, and we are not responsible for any resulting loss of functionality in the Service.
 
-BY SUBMITTING PERSONAL INFORMATION TO US, AND/OR BY USING OUR SITE, YOU AGREE THAT WE MAY COLLECT, USE AND DISCLOSE SUCH PERSONAL INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND AS PERMITTED OR REQUIRED BY LAW. 
+#### Service Analytics
 
-If you do not agree with these terms, do not provide any personal information to us. If you refuse or withdraw your consent, or if you choose not to provide us with any required personal information, we may not be able to provide you with products or services that can be offered on our Site only if we have access to certain personal information.
+We use third-party analytics service providers (“Analytics Providers”), such as Google, Mixpanel, and Flurry, to help us analyze how users use the Service. We may change the Analytics Providers that we use from time to time. The information generated by your browser or device about your use of the Service will be transmitted to and stored by the Analytics Provider(s) on servers in the United States. The Analytics Providers will use this information for the purpose of evaluating your use of the Service, compiling reports on website or mobile activity for our use and providing other services relating to Service activity and Internet usage. The Analytics Providers may also transfer this information to third parties where required to do so by law, or where such third parties process the information on the Analytics Providers’ behalf. By using the Service, you consent to the processing of data about you by the Analytics Provider in the manner and for the purposes set out above.
 
-## Minors
+#### Location Information
 
-Minors (as defined under the laws of their jurisdiction or residence) are not eligible to register for, use, or purchase products or Services available on the Away Network Web sites. We do not knowingly collect personal information from any Minor, and will not use this information if we discover that it has been provided by a Minor.
+If you enable location-based services by the Service and your mobile device, the Service may collect data about your geographic location. Such location data may include, for example, geographic coordinates or other data used to determine your location (using GPS, IP address, Wi-Fi, or other technology to determine the location of your device), the time when such data is collected, and a non-PII identifier that we may use to correlate such data to you (collectively, the “Location Data”). The Location Data may be collected, stored, and processed by us and/or by our third-party location licensors or service providers. We may use the Location Data to analyze usage of the Service, to improve the Service, and to provide the Service to you (e.g., by providing you with location-based recommendations of places we think you might want to visit through the Service when you are exploring a new city). 
 
-## Personal and Demographic Data Collected by The Away Network
+For example, if you visit Hotel XYZ in San Francisco, the Service and/or one of our third-party service providers may collect the location visited, the time of your visit, and a non-PII code that is unique to you. The Service could then use this information to push notifications to you relevant to that visit (e.g., recommendations of the most popular dinner places near Hotel XYZ or interesting events happening near the hotel).  
+However, it is important to note that:  
+(a) We will not share Location Data with anyone other than our licensors or service providers who provide the location services for the Service.  
+(b) If any such third-party licensor or service provider collects, stores, or processes any Location Data for the Service, we contractually require that they not use the Location Data for their own purposes (other than analyzing and improving their location products and services) or share this data with anyone but us (other than aggregated, anonymized data that does not identify any individuals).  
+(c) You may enable or disable location services at any time using the settings in the app and/or your device’s operating system.
 
-When you register on the Site, we ask for a username, email address, current city, year of birth, and in some instances information pertaining to your preferred departure airport and personal interests. (You can access and update this information by accessing the ["Update My Account"](http://away.com/useraccount/updateuserbasicinfo) Web page and clicking on "Profile Settings". If you have difficulty reaching this page, please visit our ["Customer Feedback"](http://www.trip.com/customer-service/feedback-trip-sp.html) Web page.) 
+#### Web Beacons
 
-During or after registration, or in connection with other interactive features such as entering a contest or promotion, The Away Network may also ask for other personal information, such as your personal interests (including favorite activities and destinations), address, birth date, occupation, and income range. User Profile pages also ask for optional information including your name, a profile photo, a favorite quote, or places you've been or would like to visit. The Away Network might collect this information through personal interest forms, surveys, or contests. We also ask whether you want to receive emails from us or special offers from partners, and whether you would like to share certain information with fellow travelers publicly (see "Privacy Settings" on "Profile Settings" screen). See the section on "Sharing of Data" for further detail.
+"Web beacons" (also known as "clear gifs" and "pixel tags") are small transparent graphic images that are often used in conjunction with cookies in order to further personalize our website for our users and to collect a limited set of information about our visitors. We may also use web beacons in email communications in order to understand the behavior of our customers. We do not link the web beacons to any PII.
 
-You can still use the Site without providing personal information, but you will not be able to take advantage of many of our personalized services.
+#### Information About You
 
-## Public Forums & Reviews
+When you register for the Service, we collect a variety of information about you to complete your online profile. Except as otherwise stated in this Privacy Policy, we do not disclose your PII to other users of the Service. If you choose to connect your Gogobot or Trip account with Facebook or any other service, we will receive and retain basic account registration data you provide to that service, such as name, email address, user ID and profile page URL. We may also receive and display content relevant to your use of the Service from activity feeds or other information from Facebook and other linked services, including the contents of your "Wall," status updates, comments, photos and location "check-ins" to the extent you grant us access to such information from those services.
 
-The Away Network makes comment sections available to its members, as well as allowing you to submit reviews about your travel experiences or about travel products. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information in such a forum. Users who have set their profile pages to "public" in the Privacy Settings screen will have their comments linked directly to their public profile page. 
+#### E-mail
 
-## Cookies and I.P. Addresses
+We require an email address from you when you register for the Service. We use your email both for transactional purposes (e.g., activity updates such as notices that another user is now following you on the Service) and for promotional purposes (e.g., newsletters, new product offerings, event notifications, special third-party offers). Email messages we send you may contain code that enables our database to track your usage of the emails, including whether the email was opened and what links (if any) were clicked. If you would rather not receive promotional emails from us, please see the section below labeled "Choice/Opt-Out". We reserve the right to send you certain communications, such as service announcements and administrative messages, without offering you the opportunity to opt out of receiving them. We may also contact you by text message (including to any wireless number you may provide to us) solely in connection with the Service. If you would rather not receive text messages from us, you may change or delete your number from your "Account Settings" page, or ask to be removed from our contact list if you receive a call or text message from us. We fully comply with the requirements of the U.S. CAN-SPAM Act.
 
-As part of offering you a valuable service, The Away Network uses cookies or "pixel tags" to provide personalized services and content, as well as to collect "Session Data." A cookie or "pixel tag" is a small amount of data that is sent to your browser from a web server and stored on your computer's hard drive. A cookie is set when you browse our site. You can set your browser to refuse cookies, but your user experience at The Away Network will be significantly limited if you do so. "Session Data" includes such information as, the type of Internet browser and operating system an individual uses, the domain name of the site from which the individual came, the date, time and duration of the visit, number of visits, average time spent on the individual's site, pages viewed, domain name of the individual, and number of cookies accumulated.
+#### Demographic Data
 
-We use cookies to: (1) customize your online experience; (2) enable you to obtain access to our member-only Web pages without having to retype your login name and password; (3) allow us to offer personalized services to you; and (4) calculate the number of people who visit an Away Network Web site (or a certain Web page) to allow us to provide better service in the future. Unless you register, we cannot identify you other than through the information stored in the cookie. 
+Demographic data is also collected by the Service. We use this data to tailor our visitors' experience, showing them content that we think they might be interested in, and displaying the content according to their preferences. Some of this information may be shared with advertisers on a non-personally identifiable basis.
 
-## Sharing Of Data
+#### Online Survey Data
 
-  * Select Partners and Affiliates: The Away Network shares your personal information with third parties only with your express permission, or as otherwise disclosed in this privacy policy. For example, The Away Network may share your information with a third party when, if in acting on a third party promotion described in an e-mail we have sent or on our Site, you provide additional personal information (such as age, income range, activity interests, etc.) you consent to that information being shared with the designated partner. Additionally, if a contest is sponsored by or together with any of The Away Network's strategic partners, we may share information with that sponsor. By entering the contest you are consenting to our sponsor receiving the information you provide. That partner will have its own privacy policy that governs its use of the information you provide.
-  * Third Party Web sites on "Away" URL: The Away Network hosts and maintains a separate Web site on the away.com URL, the Outside Online Web site (which is accessible from outside.away.com, www.outsideonline.com, and www.outsidemag.com). All information collected by The Away Network on Outside Online is subject to this privacy policy. Information collected on the Outside Online may be shared with Mariah Media Inc., the publisher of Outside Magazine.
-  * Co-branded Sites that Offer Merchandise: The Away Network may have links to the Web sites of other entities to allow you to purchase merchandise. These Web sites may look similar to The Away Network, but are run by separate entities with whom The Away Network has partnered (look in your browser bar to determine if you are still on an Away Network Web site, located at away.com). The Away Network receives a commission for any purchases you make on partner sites. To help calculate these commissions, The Away Network sends a tracking number to the partners. We do not provide personal information to our merchandise partners (except with your permission or as otherwise mentioned herein). Our merchandise partners provide us with aggregate purchase data, no individual purchase data is disclosed. Each partner site has its own privacy policy on gathering information from you. You may wish to check this policy before giving out personal information. The Away Network does not control how a partner uses information gathered on its site. 
-  * Aggregated Data: The Away Network will provide aggregate, anonymous information (e.g. "55% of our members enjoy hiking") to advertisers and third parties. Such aggregate data cannot be linked to any one person. 
-  * Facebook Login: The Away Network allows for Facebook Login functionality, should you choose to use it. You can remove this feature and the associated privacy settings within your Facebook account, and this functionality is subject to the Facebook Privacy Policy. 
-  * Required Disclosure: The Away Network will disclose personal information when required to by law enforcement or other appropriate governmental authorities, or if the personal information is pertinent in a legal proceeding or court action. 
-  * Business Transfers: As we continue to develop our business, we might sell or buy Web sites or other assets. In such transactions, customer information is usually one of the transferred business assets. Also, in the event that Mariah Media or The Away Network merges with or sells all or substantially all of its assets to another company, customer information collected on The Away Network Web sites may be one of the transferred assets.
+We may periodically conduct voluntary member surveys. We encourage our members to participate in such surveys because they provide us with important information regarding the improvement of the Service. You may also volunteer for certain surveys that we may offer to our users, and any additional rules regarding the conduct of such surveys will be disclosed to you prior to your participation.
 
+#### Information Regarding Your Friends
 
+We offer contact importer tools to help you upload your friends' addresses so that you can find your friends on the Service, and invite your contacts who do not have Gogobot accounts to join. If you give us your password to retrieve those contacts, we will not store your password after you have uploaded your contacts' information. We will send your designated contacts one or more email messages containing your name and inviting them to participate in the Service, which may include follow-up or reminder messages. These emails will also include instructions on how to remove their information from our database.
 
-## Advertising Services
+#### Public Forums
 
-Third parties advertise on our Site, and we also contract with third parties to serve ads across the Internet. These third parties may serve ads about our products or services, or third party products or services in which, based on your Session Data, we or our business partners believe you may be interested. 
+We make discussion areas available to our Service's users and visitors. Any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose any PII. Please consult the Community Guidelines when posting comments on them for other specific information.
 
-While we may share Session Data with third parties to help facilitate the serving of these ads, we do not share any personal information about you unless you give us permission to do so, separate from any permission you provide during the Member registration process. These third parties may seek to use cookies and pixel tags, including those collected on our Site, to track Session Data about the ads you have seen and types of things in which you appear interested. These third parties may also use combined information about your visits to our Site and other sites in order to provide advertisements about related goods and services that may be of interest to you. 
+#### Disclosure of Your Information to Third Parties
 
-When you click on a third party advertisers' link from our Site, you will be taken off of our Site and will enter the third party's site. We are not responsible for such third party's sites. You should carefully review the privacy statements of any other site you visit, because those privacy statements will apply to your visit to that site, and may be very different from our policy.
+Disclosure Authorized or Required By Law. You acknowledge and agree that we may disclose information you provide if:  
+(a) we believe in good faith that we are authorized or required to do so by law, requests or orders from law enforcement, or any legal process; or  
+(b) you give us your consent to do so, including if we notify you that the information you provide will be shared in a particular manner and you provide such information; or  
+(c) we believe that disclosure is reasonably necessary or appropriate to protect or defend the rights or property of Gogobot or a third party or to protect someone's health or safety.
 
-## Email
+#### Disclosure to Trusted Third Parties By Us
 
-From time to time we may provide special offers on this Site, or may send special email offers about our products and services. Or, if you elected to receive them, those of selected partners or our affiliated companies. The Away Network will not send you any email that you do not wish to receive. If you wish to receive newsletters and special offers by email from The Away Network, selected partners, or our affiliated companies, you can visit the ["Manage Email Subscriptions"](http://away.com/useraccount/updateuserbasicinfo) section of the Profile Settings Web page. If at any time you wish to unsubscribe from any of The Away Network's email products, either click on the unsubscribe link at the bottom of any of these communications or visit the ["Email Subscriptions"](http://away.com/useraccount/updateuserbasicinfo) Web page and deselect the email products that you no longer wish to receive. To access this Web page, you will need to be logged-in to The Away Network, which may require you to type-in your Away Network password. If you are having difficulty reaching our email Subscriptions page, please access The Away Network's ["Customer Feedback"](http://www.trip.com/customer-service/feedback-trip-sp.html) Web page. 
+We will only share your information with third parties in the ways defined in this Privacy Policy. We may share your non-PII with third parties, but not in a manner that would reveal your identity. For example, when you access a page on our website, a cookie may be automatically set by us or by our service providers to recognize your browser as you navigate on the Internet and to present you with information and advertising based on your apparent interests.  
+We may share your PII, sometimes in conjunction with your non-PII, with service providers that may be associated with us to perform functions on our behalf. For example, outsourced customer support agents or technology infrastructure providers (such as a provider of location services, as described above) may need access to your information to perform services for you. Your information will be treated as private and confidential by such service providers and not used for any other purpose than we authorize. In addition, from time to time, we may share PII (such as email or mailing address) about our user base with carefully selected third parties, so they can offer goods and services that we believe may be of interest to our users. If you do not wish to receive offers from our trusted partners, you can change your email preferences at any time by following the steps outlined in the "Choice/Opt-Out" section below.
 
-Periodically, The Away Network introduces new email products or improves existing ones. If you are subscribed to an Away Network email product we may provide you with a trial subscription to the new product. You may unsubscribe from any of these products at any time. 
+#### Information Transferred As a Result of Sale of Business.
 
-We use an email system that can individually track who opens an email (if you receive the email in HTML format) and who clicks on any link contained in an email. This is personally-identifiable information, which we collect to: 
+In the event that we are acquired by another company, your PII may be part of the assets transferred to the acquiring party. If this occurs, you will be notified if there are any material changes to the way your PII is collected or used.
 
-  1. calculate how many people were interested in particular topics or particular links contained in an email product; and 
-  2. provide personalized services that are best suited to your interests 
+#### Third-Party Advertising
 
+We may use third-party advertising agencies or other service providers to serve ads on the Service on behalf of Gogobot or third-party advertisers (e.g., retailers of goods or services). These companies may employ cookies and web beacons to measure advertising effectiveness. Any information that these third parties collect via cookies and web beacons is completely anonymous. Some of these third-party advertising agencies may be members of the Network Advertising Initiative, which offers you the option to opt out of ad targeting from its member agencies by following the procedures listed at Networkadvertising.org.
 
+#### Age Restrictions
 
-If you do not wish such information to be collected about you, you should unsubscribe from our emails.
+Our age restrictions for the Service are set forth in our Terms of Use. We do not target any portion of our Service to children under the age of 13. In compliance with the Children's Online Privacy Protection Act, any information we may receive from users we believe to be under the age of 13 will be purged from our database.
 
-## Security
+#### Geographic Restrictions
 
-The Away Network employs physical, administrative and technical safeguards to help protect the confidentiality and integrity of personal information and to reduce the risk of loss, misuse, unauthorized access disclosure or modification of personal information. 
+Our services are intended for use by United States residents at this time, and the information collected in connection with the Service (including PII) is stored and processed in the United States. If you reside outside the United States, in accessing or using the Service, you consent to the collection, transfer, use, storage and disclosure of your information, as described in this Privacy Policy (including PII), in the United States and as governed by United States Law. Users may not access, use, or register for the Service if prohibited by law in their country of residence.
 
-As a further security precaution, The Away Network asks you to provide a password when you register on our Web sites, which is stored in your Session Data until you exit the browser program. That Session Data expires after 30 minutes or is deleted when you click the "Log Out" link. 
+#### Security
 
-If the computer you are using is not for your sole use, after you have finished accessing an Away Network Web site, you should click on [this link](http://away.com/useraccount/j_acegi_logout), which will sign you off of the Web site. This action prevents other people from accessing your information. Users who have logged in through Facebook should clear their browser cookies and log out of Facebook at the end of their session. When you want to access member-only areas of The Away Network's Web sites at another time, you will need to sign-in and type-in your password. You will have the option of resetting your password if you have forgotten what it is. 
+We have security measures in place that are designed to protect against the loss, misuse and alteration of the information stored in our database. We will exercise reasonable care in providing secure transmission of information between your computer or mobile device and our servers. However, no information transmitted over the Internet can be guaranteed 100% secure, so we cannot ensure or warrant the security of any information transmitted to us over the Internet and accept no liability for any unintentional interception or misuse.
 
-If you choose to contact the Away Network through the Web site, you should be aware that any information transmitted electronically via the World Wide Web might not be secure. The Away Network assumes no liability for the loss of any information that you transmit to us via the World Wide Web. 
+#### Links to Other Sites
 
-In communicating with you, we may send email as unencrypted plain text because we are aware that many users cannot readily process encrypted e-mail. This is done for your convenience, but with the security concern that, if misrouted or intercepted, it could be read more easily than encrypted email.
+We are not responsible for the privacy practices or the content of other websites that may be linked to our Service or of any third party advertisers.  
+Choice/Opt-OutYou may use the following options for removing your information from our email mailing list if you wish to opt out of receiving promotional emails and newsletters.
 
-## Changes in Privacy Policy
-
-As the nature of our business changes, The Away Network may need to change its privacy policy. If the policy is changed, this page will be updated. If there is a material change to this policy we will notify all users who are currently receiving email from The Away Network. 
-
-If you have any questions or suggestions about this privacy policy, please contact privacy@away.com. Alternatively, you can mail The Away Network at:
-
-Privacy Coordinator  
-The Away Network  
-1001 G Street, NW  
-Suite 725W  
-Washington, DC 20001   
+  * Click on the "unsubscribe" link on the bottom of the email;
+  * Click on the "Account Settings" link from our website or mobile app, and un-check the undesired promotions.
+  * Send mail to the following postal address letting us know which promotional emails you wish to opt-out of:
 
 
-Only questions about The Away Network's Privacy Policy should be addressed to the above addresses. Any inquiries sent to these addresses that are not related to the Privacy Policy will not be reviewed. You may address other concerns regarding The Away Network, by visiting the ["Customer Feedback"](http://www.trip.com/customer-service/feedback-trip-sp.html) Web page. 
 
-### Network Sites and Company Information:
+Gogobot Inc.  
+650 Live Oak Ave. Suite 110  
+Menlo Park, CA 94025  
+Attn: Customer Service
 
-[Away.com:](http://away.com/) The Web's best travel and vacation-planning resource. Great expert reviews and trip ideas for your travel interests and all the flights, hotels, and attraction information to get you there.
+#### Updating Your Information
 
-[GORP.com:](http://www.gorp.com/) Comprehensive resource for adventure travel, outdoor sports and gear, national parks, and more. 
+You may change your email address, password and other information from the "Account Settings" page accessible via a link from our website and mobile application. To the extent you choose to include PII or other information in your profile, the Service allows you to update or remove that information by editing or deleting the content.
 
-[AdventureFinder.com:](http://www.adventurefinder.com/) AdventureFinder.com (formerly GORPtravel) is an online travel directory of active vacations, tour outfitters, and adventure lodges, providing travelers with a one-stop shop to research and plan their next adventure. 
+#### Contacting Gogobot
 
-[Trip.com:](http://www.trip.com/) Free travel search site designed to help travelers like you find the cheapest flights, cheapest hotels, cheapest car rentals, and cheapest vacation packages across all of your favorite travel websites with one easy click. 
+If you have any questions about this Privacy Policy, the practices of our Service, or your dealings with us, you can contact:  
+
+
+Site Administrator  
+Gogobot Inc.  
+650 Live Oak Ave. Suite 110  
+Menlo Park, CA 94025  
+privacy@trip.com  
+(650) 838-9877
+
+#### Acceptance of Privacy Policy
+
+Your use of any of our Services is subject to this Privacy Policy and our Terms of Use. BY USING ANY PORTION OF OUR SERVICE, YOU ARE ACCEPTING THE PRACTICES SET OUT IN THIS PRIVACY POLICY AND THE TERMS OF USE.
+
+#### Changes
+
+Any information that is collected is subject to the privacy policy in effect at the time such information is collected. We may, however, modify and revise our privacy policy from time-to-time. If we make any material changes to this policy, we will notify you of such changes by posting them on the Service or by sending you an email or other notification, and we will indicate when such changes will become effective. By continuing to access or use the Service after those changes become effective, you are agreeing to be bound by the revised policy.
+
+#### Effective Date
+
+This privacy statement was last revised on September 14, 2015.
