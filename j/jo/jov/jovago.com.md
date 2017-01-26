@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jovago.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127011239id_/https%3A//travel.jumia.com/en-gb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jovago.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126154707id_/https%3A//travel.jumia.com/en-gb/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Jumia Travel
 
