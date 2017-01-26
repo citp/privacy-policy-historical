@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the daviswiki.org privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730000130id_/https%3A//localwiki.org/main/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daviswiki.org privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126123148id_/https%3A//localwiki.org/main/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Guide - LocalWiki
 
