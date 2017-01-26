@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joe.co.uk privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122190546id_/http%3A//www.joe.co.uk/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joe.co.uk privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126103616id_/https%3A//www.joe.co.uk/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | JOE.co.uk
 
