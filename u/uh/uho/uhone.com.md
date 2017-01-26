@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uhone.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328053942id_/https%3A//www.uhone.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhone.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126015444id_/https%3A//www.uhone.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy of your personal information is important | UnitedHealthOne
 
