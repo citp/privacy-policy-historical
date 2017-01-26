@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bugcrowd.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108112715id_/http%3A//bugcrowd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bugcrowd.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126192427id_/https%3A//bugcrowd.com/privacy) for the most accurate reproduction.*
 
 # Bugcrowd | Your Elastic Security Team, better security testing through bug bounties and managed security programs
 
