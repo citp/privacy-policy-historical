@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instantssl.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821043140id_/https%3A//www.instantssl.com/ssl-certificate-legal/ssl-certificate-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instantssl.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126110706id_/https%3A//www.instantssl.com/ssl-certificate-legal/ssl-certificate-privacy.html) for the most accurate reproduction.*
 
 # SSL Certificate Privacy Statement from Instant SSL
 
