@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401055417id_/https%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crowdcube.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126170349id_/https%3A//www.crowdcube.com/pg/privacy-and-cookie-policy-17) for the most accurate reproduction.*
 
 # Privacy and cookie policy
 
 **CROWDCUBE LIMITED** (“Crowdcube” " **we** ", “ **us** ”) are committed to protecting and respecting your privacy.
 
-****Last Update Effective Date 14/07/2015****
+****Last Update Effective Date 12/09/2016****
 
 This privacy policy applies to the website www.crowdcube.com owned and operated by Crowdcube Limited. This privacy policy describes how Crowdcube collects and uses the personal information you provide on [www.crowdcube.com](https://web.archive.org/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
@@ -67,7 +67,9 @@ In addition to the above, we may disclose your personal information to third par
 
 
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [Terms and Conditions of Website Use](https://web.archive.org/pg/terms-16) and other agreements; or to protect the rights, property, or safety of us, our customers, or others. This includes exchanging information with other companies and organizations for the purposes of fraud protection and credit risk reduction.
-  * If you have made an investment or applied to invest in a company via www.crowdcube.com, your personal information may be disclosed to the company (or the company's professional representatives) that you have invested or applied to invest in.
+
+
+  * If you have made an investment or applied to invest in a company via www.crowdcube.com, your personal information may be disclosed to the company (or the company's professional representatives) that you have invested or applied to invest in. If you request a business plan or contact a business or entrepreneur via a pitch page your contact details may also be shared with that business or entrepreneur.
 
 
 
@@ -143,7 +145,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button. T
 
 **Single Sign-On**
 
-You can log in to our site using the sign-in service such as LinkedIn. This service will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like LinkedIn give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
+You can log in to our site using the sign-in service such as LinkedIn, Facebook and Google. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like LinkedIn, Facebook and Google may give you the option to post information about your activities on this Web site to your profile page to share with others within your network.
 
 **CHANGES TO OUR PRIVACY POLICY**
 
