@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the inc42.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506011124id_/http%3A//inc42.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the inc42.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126164638id_/https%3A//inc42.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Inc42 Magazine
+# Privacy Policy - Inc42 Media
 
 As used in this Privacy Policy, “Inc42” refers to all websites (including Inc42.com)
 
