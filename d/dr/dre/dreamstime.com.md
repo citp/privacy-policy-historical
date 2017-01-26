@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dreamstime.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114181740id_/https%3A//www.dreamstime.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dreamstime.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126073650id_/https%3A//www.dreamstime.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Dreamstime
 
