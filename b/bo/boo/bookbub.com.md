@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bookbub.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105212155id_/https%3A//www.bookbub.com/home/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bookbub.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126130908id_/https%3A//www.bookbub.com/home/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - BookBub
 
@@ -74,7 +74,7 @@ Personal information which we collect may be transferred to, stored in, and used
 
 **DISPUTE RESOLUTION**
 
-If you believe that the Company not adhered to this Privacy Policy, please contact the Company by email at help@bookbub.com. We will do our best to address your concerns. If you feel that your complaint has not been addressed completely, we invite you to let us know for further investigation. If you and the Company are unable to reach a resolution to the dispute, you and the Company will settle the dispute exclusively under the rules of the Judicial Arbitration and Mediation Services (www.jamsadr.org).
+If you believe that the Company not adhered to this Privacy Policy, please contact the Company by email at help@bookbub.com. We will do our best to address your concerns. If you feel that your complaint has not been addressed completely, we invite you to let us know for further investigation. If you and the Company are unable to reach a resolution to the dispute, you and the Company will settle the dispute exclusively under the rules of the Judicial Arbitration and Mediation Services (www.jamsadr.com).
 
 **CHANGES TO THIS POLICY**
 
