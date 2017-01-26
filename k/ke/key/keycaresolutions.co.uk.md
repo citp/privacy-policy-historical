@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120160215id_/http%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the keycaresolutions.co.uk privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126070018id_/https%3A//www.keycaresolutions.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -48,7 +48,7 @@ We may on occasion gather information regarding your computer whilst you are on 
 
 The information that we collect and store relating to you is primarily used to enable us to provide our services to you. In addition, we may use the information for the following purposes:
 
-  * To provide you with information requested from us, relating to our products or services. 
+  * To provide you with the information requested from us, relating to our products or services. 
 
 
   * To estimate our audience size and usage pattern.
