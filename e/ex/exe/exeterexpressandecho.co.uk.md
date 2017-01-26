@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exeterexpressandecho.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120103139id_/http%3A//www.exeterexpressandecho.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exeterexpressandecho.co.uk privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126182340id_/http%3A//www.exeterexpressandecho.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # Exeter Express and Echo | Privacy Policy
 
