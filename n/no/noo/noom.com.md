@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the noom.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603224900id_/https%3A//www.noom.com/noom-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noom.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126150026id_/https%3A//www.noom.com/terms-and-conditions-of-use/noom-privacy-policy) for the most accurate reproduction.*
 
-# NOOM PRIVACY POLICY | Noom Inc.
+# NOOM PRIVACY POLICY - Noom Inc. | Noom Inc.
+
+Table of Contents
+
+  * Privacy Policy (English)
+  * [Privacy Policy 개인정보취급방침](https://www.noom.com/kr/kr-privacy-policy/) (Korean)
+  * [Privacy Policy (プライバシーポリシー](https://www.noom.com/jp/jp-privacy-policy/)[)](http://www.noom.com/terms-and-conditions-of-use/noom-privacy-policy-japanese/) (Japanese)
+  * [Política de Privacidad ](https://www.noom.com/es/es-privacy-policy/)(Spanish)
+
+
 
 **NOOM, INC.**  
 **PRIVACY POLICY**
@@ -11,11 +20,11 @@ Please read this Privacy Policy (this “ **Privacy Policy** ”) carefully. To 
 
 **Protected Health Information**. Noom is also committed to protecting the privacy of your protected health information (“ **Protected Health Information** ”). “ **Protected Health Information** ” is a subset of Personal Information that is information about you, including demographic information, that may identify you and that relates to your past, present or future physical or mental health or condition; related health care services; or related to yhe past, present, or future payment for the provision of health care to you.
 
-For a description of how we may use and disclose your Protected Health Information to carry out treatment, payment or health care operations and for other purposes that are permitted or required by law, including the Health Insurance Portability and Accountability Act of 1996 (“ **HIPAA** ”), please refer to our HIPAA Notice of Privacy Practices (“ **[HIPAA Notice](https://www.noom.com/hipaa-notice/)** ”). Any conflict between this Privacy Policy and the HIPAA Notice with respect to such submitted Protected Health Information shall be governed by the HIPAA Notice.
+For a description of how we may use and disclose your Protected Health Information to carry out treatment, payment or health care operations and for other purposes that are permitted or required by law, including the Health Insurance Portability and Accountability Act of 1996 (“ **HIPAA** ”), please refer to our HIPAA Notice of Privacy Practices (“ **[HIPAA Notice](https://www.noom.com/terms-and-conditions-of-use/hipaa-notice/)** ”). Any conflict between this Privacy Policy and the HIPAA Notice with respect to such submitted Protected Health Information shall be governed by the HIPAA Notice.
 
-This Privacy Policy applies to our Services operated in the United States and the European Union (“ **EU** ”) and we provide this Privacy Policy explaining our online information practices and the choices you can make about the way Personal Information is collected and used in connection with the Service. By using the Website and the Mobile App, User acknowledges and accepts this Privacy Policy.
+This Privacy Policy applies to our Services operated in the United States, Korea and Japan, and we provide this Privacy Policy explaining our online information practices and the choices you can make about the way Personal Information is collected and used in connection with the Service. By using the Website and the Mobile App, User acknowledges and accepts this Privacy Policy.
 
-Each User’s participation is also governed by the “ **Terms & Conditions**,” which is entered into and agreed to by each User prior to using the Website and the Mobile App. Unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings set forth in our Terms & Conditions. This Privacy Policy also applies to User’s use of interactive features or downloads that: (i) Noom owns or controls; (ii) are available through the Website or the Mobile App; or (iii) interact with the Website (including through social media) and/or the Mobile App.
+Each User’s participation is also governed by the “[ **Terms & Conditions**](http://www.noom.com/terms-and-conditions-of-use/),” which is entered into and agreed to by each User prior to using the Website and the Mobile App. Unless we define a term in this Privacy Policy, all capitalized terms used in this Privacy Policy have the same meanings set forth in our Terms & Conditions. This Privacy Policy also applies to User’s use of interactive features or downloads that: (i) Noom owns or controls; (ii) are available through the Website or the Mobile App; or (iii) interact with the Website (including through social media) and/or the Mobile App.
 
 **Information That Noom  Collects**
 
@@ -141,8 +150,6 @@ Please be aware that certain Personal Information and other information provided
 
 **Merger, Sale or Bankruptcy**. If we are acquired by or merged with a third party entity, or if we are subject to a bankruptcy or any comparable event, we reserve the right to transfer or assign Personal Information in connection therewith.
 
-**International Transfer of Data**. Your information is stored on Noom’s data host servers located in the United States. If you are located outside the United States and choose to use our Website, Mobile App and/or Services, we may collect and transfer your data, including your Personal Information, to the United States. If you choose to access and use the Website, Mobile App and/or Service from outside the U.S. you acknowledge that you are doing so on your own initiative, at your own risk, and are responsible for compliance with applicable laws.
-
 **California Online Privacy Protection Act Notice**  
 On September 27, 2013, California enacted A.B. 370, amending the California Online Privacy Protection Act to require website operators like us to disclose how we respond to “Do Not Track Signals”; and whether third parties collect personally identifiable information about users when they visit us.
 
@@ -158,9 +165,9 @@ Upon receipt of User’s written request and upon Noom’s receipt of enough inf
 
 Noom uses a self-assessment approach to assure compliance with this Privacy Policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the promises in this policy. Noom encourages interested persons to raise any concerns using the contact information provided and Noom will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with this policy.
 
-**Noom International Website Visitors**
+**Noom Service: International Users**
 
-Noom’s Service is operated in the United States. If User is located outside of the United States, please be aware that information Noom collects, including Personal Information, will be transferred to, and processed, stored and used in the United States. The data protection laws in the United States may differ from those of the country in which User is located, and User’s Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. U.S. law may not provide the degree of protection for Personal Information that is available in other countries. Noom takes commercially reasonable steps to ensure that User’s data is treated securely, including entering into appropriate data transfer agreements. By using the Service or providing Noom with any information, User consents to the transfer to, and processing, usage, sharing and storage of User’s information, including Personal Information, in the United States as set forth in this Privacy Policy. If User does not consent to such transfer, User may not use this Website.
+Noom’s Service is operated in the United States. If User is located outside of the United States, please be aware that information Noom collects, including Personal Information, will be transferred to, and processed, stored and used in the United States. The data protection laws in the United States may differ from those of the country in which User is located, and User’s Personal Information may be subject to access requests from governments, courts, or law enforcement in the United States according to laws of the United States. U.S. law may not provide the degree of protection for Personal Information that is available in other countries. Noom takes commercially reasonable steps to ensure that User’s data is treated securely, including entering into appropriate data transfer agreements. By using the Service or providing Noom with any information, User consents to the transfer to, and processing, usage, sharing and storage of User’s information, including Personal Information, in the United States as set forth in this Privacy Policy. If User does not consent to such transfer, User may not use the Service.  If you choose to access and use the Website, Mobile App and/or Service from outside the U.S. you acknowledge that you are doing so on your own initiative, at your own risk, and are responsible for compliance with applicable laws.
 
 **Business Transitions**
 
@@ -180,4 +187,4 @@ New York, NY 10001
 
 Noom reserves the right to amend this Privacy Policy at any time as needed with notice provided to User. Changes will take effect upon User’s acceptance of the modified terms and User’s continued use of the Website, Mobile App and/or Services.
 
-Last Updated: April 29, 2016
+Last Updated: June 18, 2016
