@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arcadiapower.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120135004id_/http%3A//www.arcadiapower.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arcadiapower.com privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126124844id_/https%3A//www.arcadiapower.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Arcadia Power
 
