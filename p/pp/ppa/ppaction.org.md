@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ppaction.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610092245id_/http%3A//www.plannedparenthoodaction.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppaction.org privacy policy that was archived on 2017-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170126150209id_/https%3A//www.plannedparenthoodaction.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Planned Parenthood Federation of America, Planned Parenthood Action Fund, and Planned Parenthood Affiliates (collectively “Planned Parenthood”, “we,” “our,” or “us”) respects and is committed to protecting the privacy of users of our websites, applications, and other online services (collectively, the “Online Services”). We want our Online Services to be safe and helpful, and to help make you aware of our data practices we drafted this Privacy Policy, which describes the ways in which Planned Parenthood uses, discloses, and collects information from or about you through [www.plannedparenthood.org](https://www.plannedparenthood.org/), [www.plannedparenthoodaction.org](http://www.plannedparenthoodaction.org/), and all other Online Services that link to this policy. Please be aware that your use of the Online Services is not guaranteed to be anonymous, and Planned Parenthood may collect, use, and disclose information about your use of the Online Services as set forth in this Privacy Policy.
+Planned Parenthood Federation of America, Planned Parenthood Action Fund, and Planned Parenthood Affiliates (collectively “Planned Parenthood”, “we,” “our,” or “us”) respects and is committed to protecting the privacy of users of our websites, applications, and other online services (collectively, the “Online Services”). We want our Online Services to be safe and helpful, and to help make you aware of our data practices we drafted this Privacy Policy, which describes the ways in which Planned Parenthood uses, discloses, and collects information from or about you through [www.plannedparenthood.org](https://www.plannedparenthood.org/), [www.plannedparenthoodaction.org](https://web.archive.org/), and all other Online Services that link to this policy. Please be aware that your use of the Online Services is not guaranteed to be anonymous, and Planned Parenthood may collect, use, and disclose information about your use of the Online Services as set forth in this Privacy Policy.
 
 Important note: This Privacy Policy does not apply to information you may share with Planned Parenthood in connection with your receipt of healthcare services online or via in-person visits at facilities operated by Planned Parenthood Affiliates. Such information is protected by state and federal law.
 
@@ -31,7 +31,7 @@ We and our affiliates may use the information we collect from or about you throu
 
 We also may combine or aggregate any of the information we collect through the Online Services or elsewhere for any of these purposes, including for the delivery of Targeted Advertisements.
 
-Read more about how we use your information
+Read more about how we [use your information](https://www.plannedparenthoodaction.org/about-us/privacy-policy#informationuse)
 
 ### To Whom We Disclose Your Information
 
@@ -84,7 +84,7 @@ The information that you provide us can include, but is not limited to:
 
 We and our service providers may automatically collect certain technical information from your computer or mobile device over time and across different websites when you use the Online Services using cookies or similar technologies, such as your Internet Protocol address, your browser type, your operating system, the pages you view on the Online Services, etc. This information allows us and our service providers to recognize you and personalize your experience if you return to the Online Services, to improve the Online Services and the services we provide, and to provide you with advertisements targeted to your interests.
 
-Read more about how we collect information from or about you
+Read more about how we [collect information](https://www.plannedparenthoodaction.org/about-us/privacy-policy#information%20collection) from or about you
 
 ### Your Choices
 
@@ -92,7 +92,7 @@ If you do not want the Online Services to collect information through the use of
 
 If you wish to review or correct the contact information we have on file for you or inform us how you wish your contact information to be used, please contact our staff using the contact information below.
 
-Read more about your choices
+Read more about your [choices](https://www.plannedparenthoodaction.org/about-us/privacy-policy#yourchoices)
 
 ### How to Contact Us
 
