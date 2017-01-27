@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaanoon.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007051911id_/https%3A//www.kaanoon.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaanoon.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127221035id_/https%3A//www.kaanoon.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
