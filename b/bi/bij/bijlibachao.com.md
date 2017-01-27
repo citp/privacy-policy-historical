@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504182621id_/https%3A//www.bijlibachao.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bijlibachao.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127134257id_/https%3A//www.bijlibachao.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Bijli Bachao
 
 **What information do we collect?**  
 
-We collect information from you when you register on our site, subscribe to our newsletter, respond to a survey or fill out a form. 
+We collect information from you when you register on our site, subscribe to our [newsletter](https://web.archive.org/web/20170127134257id_/https%3A//www.bijlibachao.com/newsletter-signup), respond to a survey or fill out a form. 
 
 When registering on our site, you may be asked to enter your Facebook Login. You may, however, visit our site anonymously.
 
@@ -44,9 +44,9 @@ Occasionally, at our discretion, we may include or offer third party products or
 
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
- **Terms and Conditions**  
+ **[Terms and Conditions](https://web.archive.org/web/20170127134257id_/https%3A//www.bijlibachao.com/terms-and-conditions)**  
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [http://www.bijlibachao.com/terms-and-conditions](https://web.archive.org/web/20160504182621id_/https%3A//www.bijlibachao.com/terms-and-conditions)
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [https://www.bijlibachao.com/terms-and-conditions](https://web.archive.org/web/20170127134257id_/https%3A//www.bijlibachao.com/terms-and-conditions)
 
  **Your Consent**  
 
