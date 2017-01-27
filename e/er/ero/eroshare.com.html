@@ -1,0 +1,549 @@
+<!--The following is the downloaded HTML source of the eroshare.com privacy policy that was archived on 2017-01-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170127063641id_/https%3A//eroshare.com/terms) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html flow-init=""><head>
+
+                                                                            <!--
+  ,d88b.d88b,
+  88888888888
+  `Y8888888Y'  Eroshare loves you!
+    `Y888Y'
+      `Y'
+                                                                             -->
+
+
+  <title>Eroshare ♥</title>
+
+  <meta name="viewport" content="width=device-width,initial-scale=1,minimal-ui">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+
+<!--
+  <meta name="apple-mobile-web-app-capable" content="yes"/>
+  <meta name="apple-mobile-web-app-status-bar-style" content="black"/>
+  <link rel="apple-touch-icon" href="//assets.eroshare.com/assets/logo-square-e530c5a03249d626da3bfc5970cc0b87.png">
+-->
+  <link rel="apple-touch-icon" href="//assets.eroshare.com/assets/logo-square-e530c5a03249d626da3bfc5970cc0b87.png">
+
+  <link rel="stylesheet" media="all" href="//assets.eroshare.com/assets/application-eced596cdd35a9e834db6911c2da95c1.css">
+  <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="5S0AqPOXFdGGoYPtoNlzc3Y6Zh9z3EBJ+g0R2Bd2oKJE9xLlylDL3XfpxGGqPE7h2gMl26fko8nI78CjUVELBA==">
+
+  <link rel="shortcut icon" href="/favicon.ico">
+  <link rel="apple-itouch-icon" href="/favicon.png">
+
+  <script type="text/javascript" async="" defer="" src="//stats.eroshare.com/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+      var chunked_upload = false;
+
+      var logged_in = false;
+      var current_user = null;
+
+      var upload_path = "https://c1.eroshare.com/api/v1/items/chunked";
+
+    var production = true;
+    var env = "production";
+    var basepath = "https://eroshare.com/"
+
+    var hide_header_on_scroll = false
+    var angularLoaded = true;
+    //hide_header_on_scroll = false; // there is a bug
+
+  </script>
+
+  <script src="//assets.eroshare.com/assets/application-cb64ec83b41f8097403ef63d2e6397f0.js"></script>
+
+
+
+    <script type="text/javascript">
+
+        var angularScripts = [
+          "https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular.min.js",
+          "https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular-resource.min.js",
+          "https://ajax.googleapis.com/ajax/libs/angularjs/1.4.9/angular-route.min.js",
+          "//assets.eroshare.com/assets/ng-angular-compiled-277d5eee65a6ebed527c069799324c48.js"
+        ];
+        angularLoaded = false;
+    </script>
+
+
+
+
+
+
+  
+</head>
+
+<body role="document" ng-controller="AlbumCtrl" data-no-turbolink="true" flow-prevent-drop="">
+
+<div class="wrapper" flow-drop="">
+
+
+    <!-- Fixed navbar -->
+    <nav id="navbar-id" class="navbar navbar-inverse navbar-fixed-top" style="">
+      <div class="container-fluid">
+        <div class="navbar-header">
+
+
+            <button class="btn upload-button navbar-toggle collapsed   navbar-toggle-popular" onclick="signup()">
+              <span style="color:white; font-size:12px; font-weight:100; color:#cecece; opacity:0.8">SIGN IN</span>
+            </button>
+
+
+            <label class="btn upload-button navbar-toggle collapsed   navbar-toggle-popular" for="file-input-mob-h">
+              <!--<i class="fa fa-cloud-upload fa-fw fa-lg" style="color:white;"></i>-->
+              <span style="color:white; font-size:12px; font-weight:100; color:#cecece; opacity:0.8">UPLOAD</span>
+              <input type="file" onclick="postloadAngular()" flow-btn="" nv-file-select="" uploader="uploader" id="file-input-mob-h" style="display:none;" ng-click="newAlbum()" multiple="">
+            </label>
+
+
+          <a class="navbar-brand" href="/"><span></span></a>
+        </div>
+
+
+
+        <div id="navbar" class="navbar-collapse collapse">
+
+
+          <ul class="nav navbar-nav navbar-right">
+
+
+            <!-- desktop -->
+              <li class="navbar-btn-container hidden-xs" style="padding-right:10px;">
+                <div class="navbar-btn">
+                  <label class="btn btn-nav-custom" for="file-input-3">
+                    <i class="fa fa-cloud-upload fa-lg"></i> <span>UPLOAD</span>
+                    <input type="file" onclick="uploadOrSignup()" flow-btn="" nv-file-select="" uploader="uploader" id="file-input-3" style="display:none;" ng-click="newAlbum()" multiple="">
+                  </label>
+                  <!--
+                  <a href="#" onclick="uploadOrSignup()" class="btn upload-button"><i class="fa fa-heart"></i><span>UPLOAD</span></a>
+                  -->
+                </div>
+              </li>
+              <li class="navbar-btn-container hidden-xs">
+                <div class="navbar-btn">
+                  <button class="btn btn-nav-custom" onclick="signup()">
+                    SIGN IN
+                  </button>
+                </div>
+              </li>
+
+
+
+
+
+
+
+          </ul>
+
+        </div><!--/.nav-collapse -->
+      </div>
+    </nav>
+
+
+    <script type="text/javascript">
+
+    </script>
+
+
+    <div class="nav-progress" ng-cloak="">
+      <div class="nav-progress-bar transition-ease" ng-style="{ 'width': $flow.progress() * 100 + '%' }"></div>
+    </div>
+
+
+
+
+
+
+
+    <div class="container " role="main">
+
+
+
+
+      <div ng-show="!album" id="non-album-container">
+        <div class="p10 terms_and_conditions" style="margin-top:10px;">
+
+	<h1>Terms &amp; Privacy</h1>
+
+<p>Welcome to Eroshare! Your use and access to Eroshare referred to as service, site, or website are included below. You are accepting these terms when using this service. If needed, these terms might be changed.</p>
+
+<p class="toc_h">Your Content</p>
+<p>In these terms, "your content" means material (videos, photos, text and so on) that you submit to this website. Your content is yours.</p>
+
+<p>We need your permission to do things like hosting and displaying your content in connection with the site. Our service also provides you with features like photo and video thumbnails, editing and sharing. You give us permission to do those things.</p>
+
+<p>These terms don't give us any rights to your user content except for the limited rights that enable us to offer the service.</p>
+
+<p>Upon deletion, your content is completely removed from the site.</p>
+
+<p>We reserve the right to screen submitted material and remove any content that doesn’t comply with the service. Your content must adhere to applicable laws and regulations. Content depicting minors is strictly prohibited.</p>
+
+<p class="toc_h">No Warranties and Liabilities</p>
+<p>This website is offered in its current form without warranty.</p>
+
+<p>Nothing on this website signifies, or is intended to signify, any type of advice.</p>
+
+<p>We will not be liable to you concerning the contents, use, or losses in any form in connection with the service. You accept indemnifying, defending, and holding harmless the service for any losses, responsibilities and expenses regarding or occurring out of your use of or incapacity to use the service.</p>
+
+<p class="toc_h">Access</p>
+<p>You must hereby strictly obey every law governed during use. If you are likely to access any content or services from outside of the service’s establishment, you are accountable for following applicable international and jurisdictional laws.</p>
+
+<p>We respect your privacy. This privacy statement offers information about our practices with respect to individual and public information that we might gather, utilize, and reveal utilizing the service. In addition, we have established to adhere to every international regulation that handles privacy and data protection. It is thereby your legal duty to review and accept this policy.</p>
+
+<p class="toc_h">Gathered Information</p>
+<p>We collect on standard accounts your email (optional) and IP-addresses for identification while visiting and utilizing the service. If you use Facebook or Google+ to create an account we save an encrypted version of the unique identifier given to us. If you use Reddit to create an account we save your Reddit-username.</p>
+
+<p>We might also automatically gather information which relates to your computer hardware and software. This information can and might consist of: IP addresses, browser type, domain names, access times and submitting website addresses. This information is utilized for the operation to maintain service quality and make general statistics available concerning the Site’s use.  We do not sell, lease or share customer list and information to third parties.</p>
+
+<p>We are using Google Analytics to better understand how the site is being used. For more information about Google Analytics please visit <a href="https://support.google.com/analytics/answer/6004245" target="_blank">https://support.google.com/analytics/answer/6004245</a>.</p>
+
+<p class="toc_h">Advertisements</p>
+<p>We may use third-party advertising companies to serve ads when you use the service. These companies may use information about your visits to this and other web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies for interest based advertising, please visit <a href="http://www.aboutads.info/choices/" target="_blank">http://www.aboutads.info/choices/</a>.</p>
+
+<p class="toc_h">Cookies</p>
+<p>We ask you for the collection, usage and storage of “Cookies” through our web servers.  We might send at least one cookie to your computer that exclusively recognizes your browser session. However, the site’s features may be unavailable if you consider refusing cookies. </p>
+
+<p>Although our servers currently don't respond to "do-not-track" requests, you can block these cookies in other ways, for example by turning off your browser’s cookie functionality.</p>
+
+<p class="toc_h">Disclosing Information</p>
+<p>We will undoubtedly disclose all private information if you intentionally upload any unlawful material to the service without notice and any other relevant information given that it is requested to legally do so or in such belief required through good faith. We will disclose all private information if requested by law enforcement in any of the operating countries.</p>
+
+<p class="toc_h">Security</p>
+<p>We will assume every reasonable and technical precaution to stop the loss, misuse or modification of your private and public information. All information is stored on our protected servers and could be saved, processed in, and transferred between any of the operating countries to allow information use according to this privacy policy. You consent to such cross-border transfers of private information.</p>
+
+<p class="toc_h">Privacy of Your Content</p>
+<p>Every video and photo uploaded to Eroshare has its own URL. No matter what your privacy settings are, your stuff can be accessed and viewed by anyone who has the URL. We do offer options to hide albums from your profile page.</p>
+
+<p>Your profile page has its own URL and can be accessed by anyone with that exact URL. We do offer the option to disable your profile page.</p>
+
+<p class="toc_h">Jurisdiction</p>
+<p>These terms and conditions will be governed in accordance with the laws of Austria, and any disputes relating to these terms and conditions will be subject to the nonexclusive jurisdiction of the courts.</p>
+
+<p>You may email us at <a href="mailto:abuse@eroshare.com">abuse@eroshare.com</a> if you have any questions or believe that somebody has misused any of these terms.</p>
+
+</div>
+
+      </div>
+
+    </div>
+
+
+      <div ng-if="album" ng-include="" src="'/templates/album.html'"></div>
+
+
+
+
+
+
+    
+
+
+    <noscript>Please enable Javascript. Otherwise eroshare won't work properly.</noscript>
+
+</div><!--wrapper-->
+    <div class="footer">
+
+
+      <a href="/faq">FAQ</a> •
+      <a href="/api/v1/doc">API</a> •
+      <a href="/terms">Terms &amp; Privacy</a> •
+      <a href="/report-abuse">Report Abuse</a>
+
+    </div>
+
+
+    <script src="//assets.eroshare.com/assets/postload-eb1d3ec45bee4ddd3c8daccec00782c0.js"></script>
+
+
+<div class="modal fade" id="delete-album-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" data-album-id="">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">Delete Album</h4>
+      </div>
+      <div class="modal-body">
+        Are you sure you want to permanently delete the entire album? This action is permanent.
+      </div>
+      <div class="modal-footer text-left">
+        <button type="button" class="btn btn-default" data-dismiss="modal">Cancel</button>
+        <a class="btn btn-primary delete-button" href="/please-dont-go" data-method="delete" data-remote="true">Delete</a>
+      </div>
+    </div>
+  </div>
+</div>
+
+
+
+
+<script type="text/javascript">
+  var ConfirmDeleteAlbum = function(id){
+    $('#delete-album-modal .delete-button').attr("href","/api/v1/albums/"+id+".json");
+    $('#delete-album-modal').data("album-id",id);
+    $('#delete-album-modal').modal("show");
+
+  };
+  
+  $('#delete-album-modal .delete-button').click(function(){
+    $('#delete-album-modal').modal("hide");
+    var album_id = $('#delete-album-modal').data("album-id");
+    $('#delete-album-modal').data("album-id",'');
+
+    if($('#album-'+album_id).length > 0){
+      // remove album from list
+      $('#album-'+album_id).remove()
+    }else{
+      // redirect
+      window.location = "/";
+    }
+
+  });
+</script>
+
+<div class="modal fade" id="upload-modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-signup" role="document" style="">
+    <div class="modal-content">
+      <div class="modal-body">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4>Upload</h4>
+
+        <label class="btn btn-pink" for="file-input-3">
+          <span>Select Files</span>
+          <input type="file" flow-btn="" nv-file-select="" uploader="uploader" id="file-input-3" style="display:none;" ng-click="newAlbum()" multiple="">
+        </label>
+          <br><br>
+
+        <a href="#" data-dismiss="modal" onclick="signup()">Or Register</a>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="signup-modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog modal-signup" role="document" style="">
+    <div class="modal-content">
+
+      <div class="modal-body">
+
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+
+        <h4>Get Started</h4>
+
+        <div id="new_user_errors"></div>
+
+        <form role="form" class="new_user" id="new_user" action="/users.json" accept-charset="UTF-8" data-remote="true" method="post"><input name="utf8" type="hidden" value="✓">
+
+          <div class="form-group">
+            <input autofocus="autofocus" placeholder="Username" class="form-control" type="text" name="user[nick]" id="user_nick">
+          </div>
+
+          <div class="form-group">
+            <input class="form-control" placeholder="Password" type="password" name="user[password]" id="user_password">
+          </div>
+
+
+          <div class="form-group">
+            <input class="form-control" placeholder="E-Mail (optional)" type="email" name="user[email]" id="user_email">
+          </div>
+
+
+          <input type="submit" name="commit" value="Sign up" class="btn btn-pink btn-block uppercase" data-disable-with="Please wait...">
+
+          <input type="hidden" id="follow_after_signing_up" name="follow_user">
+          <input type="hidden" id="like_after_signing_up" name="like_album">
+          <input type="hidden" id="front_page_after_signing_up" name="front_page_after_signing_up">
+
+</form>
+        <div class="text-center">
+
+          <div class="seperator small-nice-text">
+
+            <span>— Log In —</span>
+
+          </div>
+
+          <div class="other-login-methods">
+
+            <div class="btn-group btn-group-20 btn-group-200" role="group" style="margin:auto;" id="social_login_return_to_page">
+              <a type="button" class="btn btn-pink" href="/auth/reddit"><i class="fa fa fa-reddit-alien fa-lg"></i></a>
+              <a type="button" class="btn btn-pink" href="/auth/twitter"><i class="fa fa-twitter fa-lg"></i></a>
+              <a type="button" class="btn btn-pink" href="/auth/facebook"><i class="fa fa-facebook fa-lg"></i></a>
+              <a type="button" class="btn btn-pink" href="/auth/google_oauth2"><i class="fa fa-google-plus fa-lg"></i></a>
+              <a type="button" class="btn btn-pink" href="/users/sign_up"><i class="fa fa-envelope fa-lg"></i></a>
+
+            </div>
+
+            <div class="btn-group btn-group-20 btn-group-200" role="group" style="margin:auto;" id="social_login_go_to_frontpage">
+              <a type="button" class="btn btn-pink" href="/auth/reddit?fp=t"><i class="fa fa fa-reddit-alien fa-lg"></i></a>
+              <a type="button" class="btn btn-pink" href="/auth/twitter?fp=t"><i class="fa fa-twitter fa-lg"></i></a>
+              <a type="button" class="btn btn-pink" href="/auth/facebook?fp=t"><i class="fa fa-facebook fa-lg"></i></a>
+              <a type="button" class="btn btn-pink" href="/auth/google_oauth2?fp=t"><i class="fa fa-google-plus fa-lg"></i></a>
+              <a type="button" class="btn btn-pink" href="/users/sign_up"><i class="fa fa-envelope fa-lg"></i></a>
+            </div>
+
+            <div style="clear:both;"></div>
+          </div><!--other-login-methods-->
+
+        
+        </div><!--text-center-->
+
+
+
+
+      </div><!--modal-body-->
+    </div><!--modal-content-->
+  </div><!--modal-dialog-->
+</div><!--modal-->
+
+<div class="modal fade" id="edit-link-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" data-album-id="">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">Secret Edit Link</h4>
+      </div>
+      <div class="modal-body">
+        <div class="row">
+          <div class="col-xs-12" style="margin-bottom:3px;">
+          Save this link so you can edit this album at a later time. Do not share it.
+          </div>
+        </div>
+        <form class="form">
+          <div class="form-group">
+            <input class="form-control" id="edit-link-input" style="font-size:11px;" rows="1" onclick="this.select()">
+          </div>
+        </form>
+
+        <button class="copy-button btn btn-pink float-left clipboard" data-clipboard-target="#edit-link-input">Copy</button>
+        <a href="#" data-dismiss="modal" class="btn btn-pink btn-small">Done</a>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+
+<div class="modal fade" id="embed-modal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" data-album-id="">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content">
+      <div class="modal-header">
+        <h4 class="modal-title" id="myModalLabel">Embed Album</h4>
+      </div>
+      <div class="modal-body">
+        <form class="form">
+          <div class="form-group">
+            <input class="form-control" onclick="this.select()" style="font-size:11px;" rows="1">
+          </div>
+        </form>
+
+        <a href="#" data-dismiss="modal" class="btn btn-pink btn-small">Done</a>
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+<div class="modal fade" id="share-modal" tabindex="-1" role="dialog">
+  <div class="modal-dialog" role="document" style="max-width:350px;">
+    <div class="modal-content">
+      <div class="modal-header">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title" id="share-modal-title">Share Album</h4>
+      </div>
+      <div class="modal-body">
+
+        <ul class="nav nav-tabs" role="tablist" id="share-modal-tabs">
+          <li role="presentation" class="active" id="share-link-tab"><a href="#share-link" aria-controls="home" role="tab" data-toggle="tab">Share</a></li>
+          <li role="presentation" id="direct-link-tab"><a href="#direct-link" aria-controls="home" role="tab" data-toggle="tab">Direct Link</a></li>
+          <li role="presentation"><a href="#embed" aria-controls="home" role="tab" data-toggle="tab">Embed</a></li>
+        </ul>
+
+        <div class="tab-content" style="padding-top:10px;">
+          <div role="tabpanel" class="tab-pane active" id="share-link">
+            <form class="form">
+              <div class="form-group">
+                  <input class="form-control" id="share-modal-url-input" onclick="this.select()" style="font-size:11px;" rows="1">
+                  <input type="hidden" id="share-modal-title">
+              </div>
+            </form>
+
+            <button class="copy-button btn btn-pink float-left clipboard" data-clipboard-target="#share-modal-url-input">Copy</button>
+            <button class="btn btn-pink share-network float-left" data-share-network="reddit" data-share-input="share-modal-url-input"><i class="fa fa-reddit-alien fa-fw"></i></button>
+            <button class="btn btn-pink share-network float-left" data-share-network="tumblr" data-share-input="share-modal-url-input"><i class="fa fa-tumblr fa-fw"></i></button>
+            <button class="btn btn-pink share-network float-left" data-share-network="twitter" data-share-input="share-modal-url-input"><i class="fa fa-twitter fa-fw"></i></button>
+
+            <a href="#" data-dismiss="modal" class="btn btn-pink" style="float:right;">Done</a>
+            <div style="clear:both;"></div>
+          </div><!--share_link-->
+
+          <div role="tabpanel" class="tab-pane" id="direct-link">
+            <form class="form">
+              <div class="form-group">
+                  <input class="form-control" id="share-modal-direct-link-input" onclick="this.select()" style="font-size:11px;" rows="1">
+              </div>
+            </form>
+
+            <button class="copy-button btn btn-pink float-left clipboard" data-clipboard-target="#share-modal-direct-link-input">Copy</button>
+            <button class="btn btn-pink share-network float-left" data-share-network="reddit" data-share-input="share-modal-direct-link-input"><i class="fa fa-reddit-alien fa-fw"></i></button>
+            <button class="btn btn-pink share-network float-left" data-share-network="tumblr" data-share-input="share-modal-direct-link-input"><i class="fa fa-tumblr fa-fw"></i></button>
+            <button class="btn btn-pink share-network float-left" data-share-network="twitter" data-share-input="share-modal-direct-link-input"><i class="fa fa-twitter fa-fw"></i></button>
+
+            <a href="#" data-dismiss="modal" class="btn btn-pink" style="float:right;">Done</a>
+            <div style="clear:both;"></div>
+
+          </div><!--share_link-->
+
+          <div role="tabpanel" class="tab-pane" id="embed">
+            <form class="form">
+              <div class="form-group">
+                  <input class="form-control" id="share-modal-embed-input" onclick="this.select()" style="font-size:11px;" rows="1">
+              </div>
+            </form>
+
+            <button class="copy-button btn btn-pink float-left clipboard" data-clipboard-target="#share-modal-embed-input">Copy</button>
+            <a href="#" data-dismiss="modal" class="btn btn-pink" style="float:right;">Done</a>
+            <div style="clear:both;"></div>
+
+          </div><!--share_link-->
+
+      </div>
+
+    </div>
+  </div>
+</div>
+
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-66111540-1', {'sampleRate': 10});
+  ga('send', 'pageview');
+
+</script>
+
+
+<script type="text/javascript">
+  var _paq = _paq || [];
+  // tracker methods like "setCustomDimension" should be called before "trackPageView"
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  (function() {
+    var u="//stats.eroshare.com/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+
+
+
+
+
+</div></body></html>
