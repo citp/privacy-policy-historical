@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viral20.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023202942id_/http%3A//www.viral20.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viral20.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127203636id_/http%3A//www.viral20.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Viral News - Popular Videos
 
