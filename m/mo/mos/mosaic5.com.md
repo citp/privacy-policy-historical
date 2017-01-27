@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mosaic5.com privacy policy that was archived on 2016-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160725101301id_/http%3A//mosaic5.com//privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mosaic5.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127070208id_/http%3A//mosaic5.com//privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mosaic5
+# Privacy Policy - Mosaic5
 
 The Bull Wire’s Privacy Policy
 
