@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630055917id_/http%3A//www.boston.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boston.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127131430id_/https%3A//www.boston.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Boston.com
+# Privacy Policy
 
 This policy was last updated on **Aug. 1, 2015**.
 
@@ -52,7 +52,7 @@ _We gather the following types of information:_
 
 **You voluntarily provide information to us.** You may choose to provide us with contact, demographic, billing, or other personal information to order Boston Globe products or take advantage of our services. For example, you may enable location-based mobile features to provide us with access to your location information so that we can deliver customized content through Boston Globe mobile applications. (Your location information will be stored on your mobile device, unless you elect to have it saved to your search history and stored on Boston Globe servers.) If you contact the Boston Globe, we may collect information about our interaction with you.
 
-**We use technology to gather non-personal information.** We may use cookies, web beacons, clear gifs, and other technologies to log non-personal information about your use of the Boston Globe digital properties. You will not be able to access certain areas of the Boston Globe websites if your computer does not accept cookies from us. For more information about our use of cookies, see [Frequently Asked Questions about Cookies](http://www.boston.com/cookie_faq/).
+**We use technology to gather non-personal information.** We may use cookies, web beacons, clear gifs, and other technologies to log non-personal information about your use of the Boston Globe digital properties. You will not be able to access certain areas of the Boston Globe websites if your computer does not accept cookies from us. For more information about our use of cookies, see [Frequently Asked Questions about Cookies](https://www.boston.com/cookie_faq/).
 
 **Log Files.** As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
@@ -66,7 +66,7 @@ _We gather the following types of information:_
 
 – Some sections of our websites are operated by third parties. For example, if you are searching for a job, you will be redirected to monster.com, which is framed within the boston.com website.
 
-Third parties collect, use, and store information according to their own privacy policies. We do not have control over third party privacy practices. You may contact that third party directly to opt-out of future messages from them. For example, Google is one of the companies that serves advertisements on Boston Globe properties. It uses the DART cookie and other technologies to serve ads based on your visit to Boston Globe properties and other websites. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/settings/u/0/ads/authenticated?hl=en). Please [click here](http://www.boston.com/privacy-policy-third-party-advertisers) to see a list of third parties that may use cookies to serve advertising on our digital properties.
+Third parties collect, use, and store information according to their own privacy policies. We do not have control over third party privacy practices. You may contact that third party directly to opt-out of future messages from them. For example, Google is one of the companies that serves advertisements on Boston Globe properties. It uses the DART cookie and other technologies to serve ads based on your visit to Boston Globe properties and other websites. You may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/settings/u/0/ads/authenticated?hl=en). Please [click here](https://www.boston.com/privacy-policy-third-party-advertisers) to see a list of third parties that may use cookies to serve advertising on our digital properties.
 
 If you would like more information about advertisers’ use of cookies, and about your option not to accept these cookies, please [click here](http://www.networkadvertising.org/choices/). If you would like to opt-out of having interest-based information collected for advertising purposes during your visits to this or other sites, [click here](http://www.aboutads.info/choices/). Your access to our Boston Globe properties should not be affected if you do not accept cookies served by third parties.
 
@@ -122,7 +122,7 @@ We will not use your phone number to initiate a call or text message exchange wi
 
 **5\. How do you change, update, or delete your personal information?**
 
-**Changes to Personal Information:** You may review and update your membership or account information and access your transactions history in our Member Center, a centralized area where you can manage your relationship with the Boston Globe. At the [Member Center](https://www.boston.com/eom/SysConfig/WebPortal/BDC/Framework/regi/membercenter-update-info.jsp), you can update and correct your personal information, subscribe to and unsubscribe from email newsletters, and manage your delivery options.
+**Changes to Personal Information:** You may review and update your membership or account information and access your transactions history in our Member Center, a centralized area where you can manage your relationship with the Boston Globe. At the[ Member Center](https://archive.boston.com/eom/SysConfig/WebPortal/BDC/Framework/regi/membercenter-update-info.jsp), you can update and correct your personal information, subscribe to and unsubscribe from email newsletters, and manage your delivery options.
 
 **Opting Out:** If you wish to discontinue receiving any specific email sent by our marketing partners or us, simply follow the unsubscribe options at the bottom of the email. If you wish to opt out of receiving any direct mail or telephone solicitations from the Boston Globe, you may notify us by calling 617-929-2233 or emailing [csadvocate@globe.com](mailto:csadvocate@globe.com).
 
@@ -154,4 +154,4 @@ Mail: 135 Morrissey Blvd., Boston, MA 02125, Attention Privacy Manager
 
 **Unsubscribe Requests.** If you would like to contact us about unsubscribing from our email lists, please email [feedback@boston.com](mailto:feedback@boston.com) and provide all of your email addresses that could appear on our email lists, as well as the name of the newsletter from which you would like to unsubscribe.
 
-**Updates to Personal Information.** If you would like to update the personal information that we have about you, or if you no longer desire our services, you can update your preferences at the [Member Center](https://www.boston.com/eom/SysConfig/WebPortal/BDC/Framework/regi/membercenter-update-info.jsp).
+**Updates to Personal Information.** If you would like to update the personal information that we have about you, or if you no longer desire our services, you can update your preferences at the [Member Center](https://archive.boston.com/eom/SysConfig/WebPortal/BDC/Framework/regi/membercenter-update-info.jsp).
