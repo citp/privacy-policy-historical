@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spotebi.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013065248id_/http%3A//www.spotebi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotebi.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127080630id_/https%3A//www.spotebi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ By using our website, you consent to our privacy policy.
 
 If you have any questions, please email us at contact@spotebi.com.
 
-Last updated: July 21, 2016
+Last updated: January 2, 2017
