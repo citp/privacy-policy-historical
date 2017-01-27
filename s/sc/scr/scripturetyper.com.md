@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scripturetyper.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820134256id_/https%3A//scripturetyper.com/TermsAndPrivacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scripturetyper.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127133726id_/https%3A//scripturetyper.com/TermsAndPrivacy.aspx) for the most accurate reproduction.*
 
 # 
 
