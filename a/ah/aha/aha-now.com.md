@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aha-now.com privacy policy that was archived on 2015-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150610150348id_/http%3A//www.aha-now.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aha-now.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127055755id_/https%3A//www.aha-now.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Aha!NOW & The ABC
+# Privacy Policy | Aha!NOW
 
 At Aha!NOW, we recognize that privacy of your personal information is important. We will not release any member information  
 unless under court or government order to do so.
