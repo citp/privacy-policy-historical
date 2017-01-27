@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the unclebobs.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127132528id_/http%3A//www.unclebobs.com/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unclebobs.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127082901id_/http%3A//www.unclebobs.com/privacy.cfm) for the most accurate reproduction.*
 
 # Privacy on Unclebobs.com
 
 ## Uncle Bob's Privacy Policy
 
-Copyright © 2016 Sovran Self Storage, Inc. All rights reserved. Uncle Bob's Self Storage is a registered trademark of Sovran Self Storage, Inc.
+Copyright © 2017 Sovran Self Storage, Inc. All rights reserved. Uncle Bob's Self Storage is a registered trademark of Sovran Self Storage, Inc.
 
 ### We Respect Your Privacy
 
