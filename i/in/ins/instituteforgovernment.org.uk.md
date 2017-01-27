@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the instituteforgovernment.org.uk privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130222136id_/http%3A//www.instituteforgovernment.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the instituteforgovernment.org.uk privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127192500id_/https%3A//www.instituteforgovernment.org.uk/privacy) for the most accurate reproduction.*
 
 # Privacy | The Institute for Government
 
