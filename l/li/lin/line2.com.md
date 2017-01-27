@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the line2.com privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304232129id_/https%3A//www.line2.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the line2.com privacy policy that was archived on 2017-01-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170127034917id_/http%3A//www.line2.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Line2
 
