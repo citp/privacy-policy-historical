@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seatgeek.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120183339id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seatgeek.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128170741id_/https%3A//seatgeek.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SeatGeek
 
@@ -102,4 +102,4 @@ If SeatGeek decides to change our Privacy Policy, we will post the updated polic
 
 Should you have any questions, concerns or comments please email us at [hi@seatgeek.com](mailto:hi@seatgeek.com).
 
-© 2016 SeatGeek, all rights reserved. SeatGeek and SEATGEEK are trademarks of SeatGeek Inc.
+© 2017 SeatGeek, all rights reserved. SeatGeek and SEATGEEK are trademarks of SeatGeek Inc.
