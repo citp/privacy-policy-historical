@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ring.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206101156id_/https%3A//ring.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ring.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128130642id_/https%3A//ring.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Legal | Ring
 
