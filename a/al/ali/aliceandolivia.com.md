@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aliceandolivia.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601033658id_/https%3A//www.aliceandolivia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aliceandolivia.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128173641id_/https%3A//www.aliceandolivia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Alice + Olivia
 
