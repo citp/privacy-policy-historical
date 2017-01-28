@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coxbusiness.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226062432id_/http%3A//www.cox.com/aboutus/policies/business-annual-privacy-notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coxbusiness.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128205202id_/https%3A//www.cox.com/aboutus/policies/business-annual-privacy-notice.html) for the most accurate reproduction.*
 
 # Annual Privacy Notice | Cox Communications
 
