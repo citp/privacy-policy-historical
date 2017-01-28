@@ -1,145 +1,207 @@
-> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611221800id_/http%3A//www.successfactors.com/en_us/about-successfactors/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the successfactors.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128194452id_/https%3A//www.successfactors.com/en_us/about-successfactors/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Introduction
+## SAP Privacy Statement
 
-SuccessFactors, Inc. ("SuccessFactors") is committed to protecting the privacy of your personal information while using our Web site ([www.successfactors.com/](http://www.successfactors.com/)) and hosted services. This Privacy Statement applies to all Personal Information entered by a Customer or Employee into the Hosted Service, as well as specific terms for the SuccessFactors Web site.
+Protecting the individual's privacy on the Internet is crucial to the future of Internet-based business and the move towards a true Internet economy. We have created this Privacy Statement to demonstrate our firm commitment to the individual's right to privacy. This Privacy Statement outlines our handling practices with regard to such information that can be used to directly or indirectly identify an individual (“ **Personal Data** ”).
 
-Data transfers of Personal Information for legal purposes (e.g., to fulfill law enforcement, discovery, or other legal requests) are not covered by this Privacy Statement.
+This Privacy Statement applies to www.sap.com and any other website which references this Privacy Statement. The data controller in the case of www.sap.com is SAP America Inc., 3999 West Chester Pike, Newtown Square, PA 19073, USA. The data controller in the case of other websites that reference or otherwise use this Privacy Statement is the SAP group entity set out in the relevant legal disclosure or, if a legal disclosure is not required in accordance with local laws, the copyright of such website. This will be in particular SAP SE, Dietmar-Hopp-Allee 16, 69190 Walldorf, Germany with a view to the corporate website of the SAP group ([www.sap.com/corporate-de/about.html](http://www.sap.com/corporate-de/about.html) and [www.sap.com/corporate-en/about.html](http://www.sap.com/corporate-en/about.html)), product-specific websites, SCN and the SAP Store. SAP America Inc., SAP SE and any relevant SAP group entity are hereafter individually referred to as “ **SAP** ”
 
-#### Safe Harbor Certification
+Some SAP group entities, offerings, programs and/or websites may have their own, possibly different, privacy statements. We therefore encourage you to read the privacy statements of each of the SAP websites, offerings or programs you visit or review.
 
-SuccessFactors complies with the United States (“US”) - European Union (“EU”) Framework and US-Swiss Safe Harbor Framework and has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement detailed below. To comply with the Safe Harbor Principles and data protection statutes in other jurisdictions, SuccessFactors must ensure that Personal Information (including personal information of SuccessFactors Employees and Customers) is properly handled and protected in the SuccessFactors’ hosted services and Web site. Notwithstanding the foregoing this Privacy Statement sets the minimum standards whereas additional obligations may derive from contractual obligations with a Customer or the applicable data protection laws and regulations.
+### I. Global Privacy Fundamentals
 
-To learn more about the Safe Harbor program, and to view SuccessFactors’ certification, please visit <http://www.export.gov/safeharbor/>.
+Our privacy practices set out herein reflect current global principles and standards on handling Personal Data. These principles include notice of data use, choice of data use, data access, data integrity, security, onward transfer, and enforcement/oversight. We abide by the privacy laws in the countries where we do business.
 
-#### Onward Transfer
+### II. Consent
 
-Transfers of Personal Information to third parties may only occur if and when such organizations follow adequate data protection principles. All SuccessFactors Affiliates are equally bound by SuccessFactors’ then current relevant privacy policies and guidelines. All SuccessFactors Subprocessors (e.g., vendors, service providers, contractors, consultants, or other agents) performing services on SuccessFactors’ behalf are contractually obligated to provide the same level of security and privacy protections provided by SuccessFactors and have to agree to comply with SuccessFactors’ lawful instructions. Subprocessors must not use Personal Information for their own purpose(s) unless explicitly authorized.
+By using this website, you consent to the collection and use of your Personal Data as described herein. If you do not agree with the terms set out herein, please do not use this website.
 
-#### Security
+If we decide to make changes to this Privacy Statement, we will post the changes on this website so that you will always know what Personal Data we collect, and how we use it. We therefore encourage you to periodically look for updates to this Privacy Statement.
 
-SuccessFactors undertakes to Customers and Web site visitors, and Employees that it has taken and will, on a continuing basis, take appropriate technical and organizational measures to keep Personal Information secure and protect such Personal Information against unauthorized or unlawful processing and accidental loss, destruction or damage, with SuccessFactors ensuring a level of security appropriate to: (i) the harm that might result from the unauthorized or unlawful processing of or accidental loss, destruction or damage to such Personal Information; and (ii) the nature of the Personal Information to be protected.
+As may be required by applicable law, we may also seek your explicit consent to process certain Personal Data collected on this website or volunteered by you. Kindly note that any consent will be entirely voluntarily. In case you do not grant the requested consent to the processing of your Personal Data or (in accordance with Subsection 10 (Data Retention) below) later inform SAP that you do not want SAP to further process your Personal Data, however, the (further) use of certain offerings or services of SAP may be either not possible or limited in scope.
 
-SuccessFactors shall use commercially reasonable efforts to ensure that those Employees to whom it grants access to such Personal Information are appropriately trained.
+### III. Collection and Processing of Your Personal Data
 
-SuccessFactors will, upon Customer's or Employees’ reasonable request, provide such information and documentation as may be necessary to reasonably satisfy itself of SuccessFactors’ compliance with this Privacy Statement.
+To serve you better and understand your needs and interests, SAP collects, exports, and uses Personal Data with adequate notice (as set out herein) and, where legally required, consent, along with required filings with data protection authorities, when applicable.
 
-#### Choice
+When you visit our website, we may record your IP address and use cookies and other Internet technologies (referred to below as “ **Automated Tools** ” and “ **Embedded Web Links** ”) to gather information about our visitors and their interests. Depending on the Automated Tools used, the gathered data comprise, in addition to your IP address, the cloud identity we assign to you when you register with SAP, the type of browser you use, the SAP websites you have visited, the objects you have clicked on a certain SAP website, the time you have spent on a certain website, the referring website from which you have accessed a SAP website and the foreign destination website which you access from an SAP website. The technologies used and the information collected are described in more detail in Subsection 5 (Automated Tools) below. After you have granted your consent (where legally required), SAP may add information collected by way of Automated Tools to user profiles SAP retains about you. Such additional information includes your user ID, website preferences and your interest in SAP’s products.
 
-Unless required for the performance of the employment rights and duties between SuccessFactors and its Employees or required or permitted by applicable laws, individuals may have the ability to opt out of the collection and forward transfer of the data to third parties to the extent fully disclosed to an individual at the time of collecting data. Employees are responsible for the appropriate use of the Hosted Service and individuals have the right to access information held about them and correct or delete it if it is inaccurate.
+We may further collect and process any Personal Data that you volunteer to us, e.g. when you register for events or other offerings of SAP, subscribe to newsletters, participate in online surveys, discussion groups, forums or SAP’s chat service, or when you make purchases or otherwise submit your contact details to SAP. In case you provide SAP with your IDs of social media, SAP may retrieve publicly available information about you.
 
-In the event your personal information is acquired, or is reasonably believed to have been acquired, by an unauthorized person, and applicable law requires notification to you by SuccessFactors, SuccessFactors will notify you of such breach promptly by email, fax, or U.S. mail, as permitted by law and consistent with the reasonable investigatory needs of law enforcement and/or SuccessFactors.
+Such Personal Data will comprise in the individual case (a subset of): your first and last name, your postal and email address (as further detailed in Subsection 2. (Email Addresses) below), your telephone number, log in data for social networks, financial and banking details relevant to process your order (as further detailed in Subsection 3. (Shopping or Event Registration) below), and certain information about the company you are working for (i.e. your company’s name and postal address, your job title and seniority level) as well as information as to which relationship (i.e. which version of SAP’s terms of use you have accepted or what our choice regarding receiving marketing materials from SAP is) between SAP and you exists.
 
-#### Data Integrity
+### 1\. Use and Purpose of Collected Personal Data
 
-SuccessFactors will use Personal Information that is relevant for the purpose(s) it was collected for and take reasonable steps to ensure that Personal Information is kept accurate and current by its Employees. SuccessFactors will undertake to obtain Employee’s prior consent, where legally required, to the extent it wishes to extend the purpose of the data processing.
+The information SAP collects to understand your needs and interests helps SAP deliver a consistent and personalized experience. We will use such information only as described in this Privacy Statement and/or in the way we specify at the time of collection. We will not subsequently change the way your Personal Data is used without your consent, as required by applicable law. We will exclusively use your Personal Data for the following purposes:
 
-#### Access
-
-Upon request of an Employee, SuccessFactors will provide access to Personal Information held and correct or delete it if it is inaccurate.
-
-#### Choice/Opt-Out and Updating Information
-
-If you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by emailing your request to unsubscribe here: [webmaster@sap.com](mailto:webmaster@sap.com).
-
-Users of SuccessFactors Recruiting Marketing (RMK) may elect not to receive future communications. If you are a registered User, please open the email you received from RMK and click on the unsubscribe link. If you prefer to have your account removed permanently, please email your request to [webmaster@sap.com](mailto:webmaster@sap.com).
-
-#### Data Retention
-
-SuccessFactors will retain RMK User information for as long as the User account is active or as needed to provide services. If you as a User wish to cancel your account or request that we no longer use your information to provide you services, contact us at [webmaster@sap.com](mailto:webmaster@sap.com).
-
-We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-#### Enforcement
-
-SuccessFactors has implemented and will maintain appropriate measures to enforce this Privacy Statement, including but not limited to:
-
-  * Conducting independent audits of its control environment by third party auditor(s), Customers and SuccessFactors internal audit and/or Legal department
-  * Educating and training SuccessFactors Employees, Subprocessors on these principles
-  * Investigating any data security breach in accordance with a defined procedure by its CIO, General Counsel and Data Protection Officer, as applicable.
-  * Employees who fail to comply with this Privacy Statement may be subject to disciplinary action up to and including termination of employment.
-  * Customers and Employees who receive information indicating that (i) an Affiliate or Subprocessor is collecting, using, sharing, or storing Personal Information in violation of applicable statutes and regulations, contractual agreements, or SuccessFactors policies and procedures should immediately notify the SAP Data Protection Officer.
-  * Complaints, inquiries or data privacy requests shall be directed to the SuccessFactors at [webmaster@sap.com](mailto:webmaster@sap.com).
-  * Written inquiries may be addressed to: SuccessFactors, Inc., SAP Data Protection Office, Dietmar- Hopp- Allee 16, 69190 Walldorf, Germany.
-  * Unresolved complaints about SuccessFactors’ privacy practices can also be submitted to an independent dispute resolution mechanism with the UK Information Commissioner.
+  * To process your orders and deliver the products, services and information that you have ordered;
+  * To keep you up to date on the latest product announcements, software updates, software upgrades, security patches, system enhancements, special offers, and other information regarding SAP’s software and services. This may occasionally include information from other technology companies or business partners about products and services that can add value to your SAP products. Such communication may be provided not only by SAP, but by any other company of the SAP group of companies, including, for the avoidance of doubt all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy subgroup companies. In this regard, you expressly acknowledge that your contact details may be shared by SAP with such other companies of the SAP group. Furthermore, you acknowledge that any information required to track your choices regarding receiving marketing materials (i.e. depending on the country where the relevant SAP group company operates whether you have granted an explicit consent into receiving and/or opted-out of receiving marketing materials) may be stored and exchanged between any of the above mentioned companies;
+  * To tailor information about our products and services to your individual interests. For example, during a visit to our website, it allows us to provide you with specific information on products and services that may be of interest;
+  * To provide the ability to create by way of the SAP Cloud ID Service a single user profile which one individual can use within the whole SAP group of companies (including all SAP companies as well as all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy companies) to access web offerings and services. Therefore, you acknowledge that such Personal Data required for the creation of your user profile may be shared within and used by the whole SAP group of companies for this purpose. Such service may also allow you to share information about you (including Personal Data) with other registered users of the same service. You can use the functionality of the relevant service to determine which information you want to share;
+  * Beyond the SAP Cloud ID Service profile described in the bullet point above to provide the ability to create other user profiles and access to other service specific personal profile areas (e.g. in connection with SAP’s own partner programs, forums and communities). Since such profiles may allow you to access services of different members of the SAP group of companies (including all SAP companies as well as all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy companies) you acknowledge that such Personal Data required for the creation of your user profile may be shared within and used by the whole SAP group of companies for this purpose. Such service may also allow you to share information about you (including Personal Data) with other registered users of the same service. You can use the functionality of the relevant service to determine which information you want to share;
+  * To provide a personalized user experience and view protected content.
+  * To conduct online "Click to Chat" and "Click to Call" sessions;
+  * In order to ensure and control the quality of the information and experience you have during chat sessions with SAP by educating our personnel to effectively answer your questions;
+  * To provide the ability to contact you in order to respond to your inquiries, and provide you with shipping and billing information, and to provide customer feedback and support;
+  * To provide contests, sweepstakes or other marketing or promotional activities on the www.sap.com or other SAP websites. Personal Data may be collected to administer those programs;
+  * To conduct questionnaires and surveys in order to provide better products and services to our customers and end users. Your completion of any questionnaires is voluntary;
+  * To support recruitment inquiries;
+  * To prepare anonymized data regarding the use of SAP’s websites and offerings. SAP will use such anonymized data only for the improvement of such websites and offerings;
+  * To meet contractual obligations; and
+  * To comply with applicable regulatory requirements, in particular resulting from export laws. SAP and its products, technologies and services are subject to the export laws of various countries, including without limitation, to those of the European Union and its member states, and the United States of America. You acknowledge that, pursuant to the applicable export laws, trade sanctions and embargoes issued by these countries, SAP is required to take measures to prevent entities, organizations and parties listed in government issued sanctioned party lists from accessing certain products, technologies and services through SAP’s websites or other delivery channels controlled by SAP. You therefore acknowledge and agree that SAP may (i) automatically check any user registration data and other information you provide about your identity against applicable sanctioned party lists; (ii) regularly repeat such checks whenever a sanctioned party list is updated or when you update your information; (iii) block your access to SAP’s services and systems in case of a potential match; and (iv) in case of a potential match contact you in order to confirm your identity.
 
 
 
-#### Web Site Specific Terms
+### 2\. E-mail Addresses
 
-The following Web Site Specific Terms provide further information, in addition to the principles above, about how SuccessFactors collects and uses personally identifiable information if and when you use our Web site or provide information to us in connection with your visit:
+If you choose to give us your e-mail address, we will communicate with you via e-mail. We do not share your e-mail address with others outside the SAP group of companies unless this is required for the business relationship between you and SAP or if you register for third party services. You can choose not to receive any more e-mails at any time (in accordance with Subsection 9. (Choice/Opt-Out) below). However, such choice will not affect the sending of emails that are strictly required to perform the business relationship between you and SAP.
 
-  * By using our Web site, you are agreeing to the collection and use of personal information in the manner described in this Privacy Statement. Your personal information may be transferred abroad (including outside the EU for our users in the EU and Switzerland) in connection with your visit to the SuccessFactors’ Web site.
-  
+Depending on how your e-mail application is set up, information about you may be transmitted automatically when you send e-mail to SAP.
 
-  * Our server software gathers in log files, general demographic information from all users of our Web site. For each visitor to the SuccessFactors Web site, our Web server automatically recognizes the visitor's domain name, browser type, operating system, referring domains, entry page, exit page, and average time on the Web site. This information is used for internal purposes only, to help us improve our Web site and better understand our visitors' needs.
-  
+If you choose to register for third-party services, we may need to send some information from your registration with SAP to the service provider, possibly including your e-mail address.
 
-  * We currently contract with several online partners to help manage and optimize our Internet business and communications. We use the services of marketing companies to help us collect and/or log Internet Protocol addresses, Internet domain names, the web browser and operating system used to access the SuccessFactors Web site, the files visited, the time spent in each file, and the time and date of each visit. We use Web beacons and cookies provided by our marketing companies. Cookies are identifiers that can be sent from a Web site via your browser to be placed on your computer's hard drive. Thereafter when you visit a Web site, a message is sent back to the Web server by the browser accessing the Web site. Your browser may allow you to set a “Do not track” preference, which tells websites you visit that you do not want these messages to be submitted. Our website does not honor “Do not track” requests, but you may elect not to accept cookies by changing the designated settings on your Web browser. However, not utilizing cookies may prevent you from using certain functions and features of our Web site. The information collected from the use of cookies is used and analyzed to improve our Web site. We use cookies to personalize the experience of our visitors, provide support to customers, record visitor preferences, provide personalized and specialized content, record session information, track visitor clickstream behavior throughout the Web site, and customize site content based on your browser type, operating system, and preferences. By gathering such information to supplement our records, we learn things like what pages are most attractive to our visitors, which of our products most interest our customers, and what kinds of offers our customers like to see. Although our marketing companies log the information coming from our site on our behalf, we control how that data may and may not be used. If you do not want to help us learn how to improve our site, products, offers and marketing strategy, you can opt-out of this Web site analysis tool by disabling your cookies. If you disable your cookies, you may still use our Web site; however, you may not be able to access certain areas within it.
-  
+### 3\. Shopping or Event Registration
 
-  * If you choose to receive company or product information, you will need to complete our online request forms. The online forms provide site visitors with an opportunity to request free product downloads and demos, view SuccessFactors white papers, register for free SuccessFactors online seminars, and enroll for various services. These forms require your name, company name, e-mail address, company address, phone number as well as other information to help us determine and respond to your needs related to the products and/or services requested. All information provided by the visitor is voluntary. We use this information to send updates about our company and our products and to contact you if requested or necessary. We also use the demographic information you provide on these forms in connection with studies and reports regarding our Web site, such as Web site usage patterns, in order to better understand the needs of visitors to our Web site. We will not, however, associate any personally identifiable information which you provide with the information in these studies and reports.
-  
+Our site includes order forms that you fill out to request information, products, and services. These forms may in addition to the information described above collect your financial information, such as your banking details or credit card numbers. SAP promises to use any financial information that you submit solely for billing and payment purposes for that special transaction. This may include the transfer of your data to third parties involved in executing the transaction, such as banks, credit card companies, payment facilitators and other financial and credit control institutions.
 
-  * **E-mail Addresses**  
-We do not collect e-mail addresses without the site visitor voluntarily providing us with this information (typically via our online information request form, whitepaper request form, and other Web site forms and surveys). We will periodically use your e-mail information for service, sales, support, and marketing purposes. From time to time, we may share your e-mail address with our partner organizations and companies for service, sales, support, and marketing purposes. If you do not wish to receive marketing e-mail from us or our partners in the future, you may opt out as described above.
-  
+### 4\. IP Addresses
 
-  * **Third Party Websites**  
-The SuccessFactors Web site may provide links to third-party Web sites for your convenience and information. If you access those links, you will leave the SuccessFactors Web site. SuccessFactors does not control these third-party sites or their privacy practices, which may differ from SuccessFactors'. We do not endorse or make any representations about third party Web sites. The personal data you choose to give to unrelated third parties is not covered by this Privacy Statement.
-  
+We use IP addresses to help diagnose problems, to establish the country from which a user is using our websites and services in order to provide appropriate legal statements, to administer our website, and to gather demographic information as further stated in the below Subsection 5 (Automated Tools).
 
-  * **DMCA Notice**
+We may also use IP addresses or other information, as further explained in Subsection 5 (Automated Tools) below you have shared on this website or at any earlier occasion or a campaign code, to determine which pages on our sites you visit and which topics may be of interest to you so we can provide you with information about relevant products and services.
 
-If you believe that your copyrighted work has been copied in a way that constitutes copyright infringement and is accessible via the SuccessFactors Web site or a hosted service provided by SuccessFactors, please notify SuccessFactors' copyright agent, in accordance with the Digital Millennium Copyright Act of 1998 ("DMCA"). For your complaint to be valid under the DMCA, you must provide the following information in writing:
+SAP may also collect IP addresses (and other technical information such as browser type) during a Click-to-Chat or Click-to-Call session that you initiate. This information is collected when you connect to SAP so that we may identify your session, deliver content based on the technical capabilities of your browser, and for quality control purposes. Your IP address will not be used to identify you unless you provide your prior consent.
 
-    1. An electronic or physical signature of a person authorized to act on behalf of the copyright owner;
-    2. Identification of the copyrighted work that you claim has been infringed;
-    3. Identification of the material that is claimed to be infringing and where it is located on the SuccessFactors Web site or hosted service;
-    4. Information reasonably sufficient to permit SuccessFactors to contact you, such as your address, telephone number, and, e-mail address;
-    5. A statement that you have a good faith belief that use of the material in the manner complained of is not authorized by the copyright owner, its agent, or law; and
-    6. A statement, made under penalty of perjury, that the above information is accurate, and that you are the copyright owner or are authorized to act on behalf of the owner.
+SAP will only gather information related to your visit to the SAP site. We do not track or collect Personal Data from your visits to companies or entities outside the SAP Group of companies beyond the information stated above in the Subsection III. (Collection and Processing of Your Personal Data).
 
-The above information must be submitted to the following DMCA Agent:
+### 5\. Automated Tools
 
-DMCA Notice  
-SuccessFactors, Inc.  
-1 Tower Place, Suite 1100  
-South San Francisco, CA 94080  
-Attn: General Counsel
+In addition to the information you provide, SAP may also collect information during your visit to a SAP website through Automated Tools, which include Web beacons, cookies, embedded Web links, and other commonly used information-gathering tools. These tools collect certain standard information that your browser sends to our website such as your browser type and language, access times, and the address of the website from which you arrived at an SAP website. Using these tools, SAP is also able to confirm receipt of e-mails that the recipient consented to receive, and can track other information such as pages visited on the relevant SAP site and whether or not the recipient registers for an event offered by SAP and certain other aggregate data that is not related to a particular individual.
 
-Telephone: 650-645-2000  
-Fax: 650-645-2099  
-Email: [SuccessFactors-AR@sap.com](mailto:SuccessFactors-AR@sap.com), with “DMCA Notice” in the subject line
+Unless another means to make your choice is listed below, you may refuse the use of Automated Tools like cookies (i) if the relevant website supports TRUSTe Consent Manager by clicking on the respective link in the footer of the website or, (ii) if TRUSTe Consent Manager is not available, by selecting the appropriate settings in your browser. Kindly note that in the latter case the settings in your browser regarding cookies are limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to disable the tracking cookies in the browsers of all relevant devices. However kindly further note that if you do this you may not be able to use the full functionality of the relevant site.
 
-And  
+SAP is in particular currently using the following Automated Tools for the purposes set out below.
 
+#### a. Adobe Analytics
 
-Scott J. Zimmerman  
-Senior IP Counsel, SAP  
-15 Wayside Road  
-Burlington, MA 01803, USA  
-(781) 852-3054  
-[copyrights@sap.com](mailto:copyrights@sap.com)
+Some websites which refer to this Privacy Statement use Adobe Analytics. Adobe Analytics uses IP addresses to establish the approximate region where a user is coming from. Therefore, Adobe Analytics collects the full IP address of users in a first step and then anonymizes it in a second step. Only the anonymized IP address is used to determine the approximate location from where a user is accessing a certain website.
 
-Under federal law, if you knowingly misrepresent that online material is infringing, you may be subject to criminal prosecution for perjury and civil penalties, including monetary damages, court costs, and attorneys’ fees.
+Furthermore, if you are a registered user and logged on, SAP uses Adobe Analytics to track your user ID together with how you use the relevant website.
 
-Please note that this procedure is exclusively for notifying SuccessFactors that your copyrighted material has been infringed. The preceding requirements are intended to comply with SuccessFactors' rights and obligations under the DMCA, including 17 U.S.C. §512(c), but do not constitute legal advice. It may be advisable to contact an attorney regarding your rights and obligations under the DMCA and other applicable laws.
+In addition to an opt-out by way of the TRUSTe Consent Manager (where available) you can opt-out of the use of Adobe Analytics by using this link: [http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1](http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1)
 
-  * **Photography** Any photography used on this website is prohibited for downloading, republication, retransmission, reproduction or other used as a stand alone file.
+#### b. Adobe Target
 
+Some websites which refer to this Privacy Statement use Adobe Target. Adobe Target assigns a user ID to each user who does not opt-out of the tracking as described below and then creates a user profile based on this user ID by adding information about the user’s (i) browser and other device specific information, (ii) information about usage behavior and (iii) location data. Location data is collected by way of analyzing the user’s anonymized IP address: Adobe Target collects the full IP address of users in a first step and then anonymizes it in a second step. Only the anonymized IP address is used to determine the approximate location from where a user is accessing a certain website.
 
+This information is used to display targeted content on the SAP group websites using Adobe Target.
 
-#### Contacting Us
+In addition to an opt-out by way of the TRUSTe Consent Manager (where available) you can opt-out of the use of Adobe Analytics by using this link: [http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1](http://sap.d1.sc.omtrdc.net/optout.html?optout=1&confirm_change=1)
 
-If you have any questions about this Privacy Statement or this Web site, please contact us directly at: [webmaster@sap.com](mailto:webmaster@sap.com).
+#### c. Google Analytics
 
-Written inquiries may be addressed to: SuccessFactors, Inc., SAP Data Protection Office, Dietmar- Hopp- Allee 16, 69190 Walldorf, Germany.
+Some websites which refer to this Privacy Statement use Google Analytics. Google Analytics uses cookies, which are text files placed on your computer to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on site activity for site operators and providing other services relating to site activity and internet usage.
 
-#### Notification of Privacy Statement Changes
+Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
 
-SuccessFactors may amend this Privacy Statement from time to time. If SuccessFactors decides to make material changes in the way we use your personal information, we will post the changes on this page so that you always will know what information we collect, how it is used, and when and how it will be disclosed. Your use of the SuccessFactors Web site following notice of such change will be deemed acceptance of the revised Privacy Statement, which may include application of the new policy to information provided prior to the date of such change.
+In addition to an opt-out by way of TRUSTe Consent Manager (where available), Google has developed the Google Analytics Opt-out Browser Add-on. It provides website visitors more choice on how their data is collected by Google Analytics. The add-on communicates with the Google Analytics JavaScript (ga.js) to indicate that information about the website visit should not be sent to Google Analytics. It can be downloaded here: <http://tools.google.com/dlpage/gaoptout?hl=en>
 
-The effective date of this revision of the Privacy Statement is April 27, 2015.
+#### d. SAP Web Analytics
+
+Some websites which refer to this Privacy Statement use SAP Web Analytics (“ **SWA** ”). SWA helps to analyze how users use the relevant site. The information generated (including a part of your IP address and a browser-ID) will be transmitted to and stored by SAP. SAP will use this information only for the purpose of evaluating your use of the website and compiling reports on website activity for website operators – and finally, to improve SAP’s websites.
+
+Each website which uses SWA contains a separate statement regarding such use and provides for an option of the user to opt-out of the tracking by SWA either directly in the relevant statement or by way of the TRUSTe Consent Manager which can be reached over a link on the relevant page (where available).
+
+#### e. Usage tracking for marketing purposes
+
+SAP websites may collect the way you are accessing and using such websites by other means in order to prepare usage profiles that are used to determine which content is the most appropriate to be displayed while you visit a certain website.
+
+In this case, SAP is capturing your usage behavior (websites visited, point in time a website has been visited, activity on a website/clicks made on (objects of) a website, browser type, operating or computing system used, referring website from which you have accessed a SAP website, the location from where you access a website) together with a unique identifier (like your IP address or a cookie ID) that allows SAP to establish that there is a certain person active on its websites but no information like your name that can be used to directly identify you. SAP will use the collected information only in order to display appropriate and relevant content on its websites.
+
+You may opt-out of this tracking (i) if the relevant website supports TRUSTe Consent Manager by clicking on the respective link in the footer of the website or, (ii) if TRUSTe Consent Manager is not available, by selecting the appropriate settings in your browser. Kindly note that in the latter case the settings in your browser are limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to make the respective adjustments in the browsers of all relevant devices. However kindly further note that depending on the settings made in your browser(s) you may not be able to use the full functionality of the relevant site.
+
+#### f. Embedded Web Links
+
+Emails from SAP often use links designed to lead you to a relevant area on the Web, after redirection through SAP's servers. The redirection system allows SAP to change the destination URL of these links, if necessary, and to determine the effectiveness of our marketing initiatives.
+
+In emails, such links may also allow SAP to determine if you have clicked on a link in the email, and the information about this interaction may be connected to your personal identity. If you do not want SAP to collect information about the links you clicked, you can simply choose not to click on the links in an e-mail that SAP sends you.
+
+#### g. Cookies
+
+Cookies are identifiers that can be sent from a site via your browser to be placed on your computer's hard drive. SAP uses cookies to deliver personalized content, to save you having to re-enter your password or complete registration forms repeatedly, to keep track of your shopping cart, and to tailor our information offerings to how you and others use the site.
+
+We offer to you the following two ways to make your choice regarding SAP’s use of cookies:
+
+aa. Some websites of SAP use the TRUSTe Consent Manager to enable users to make their choices regarding SAP’s use of cookies. Wherever the TRUSTe Consent Manager is used, you will find in a footer a link to it. Please click on that link to access the TRUSTe Consent Manager and to make your choice regarding SAP’s use of cookies.
+
+bb. In case a SAP website does not use the TRUSTe Consent Manager, you may refuse the use of cookies by selecting the appropriate settings in your browser. Kindly note that the settings in your browser regarding cookies is limited to the particular browser installed on a particular device and that, as a consequence, if you visit SAP’s websites with different browsers or different devices, you have to disable the cookies in the browsers of all relevant devices. Furthermore, please note that if you disable cookies you may not be able to use the full functionality of a website.
+
+### 6\. Sharing Your Personal Data
+
+As a member of a global group of companies, SAP operates a number of websites around the world. Any data and information that you volunteer or that is otherwise collected on one of our sites in any one country may be sent electronically to a server for one of these sites in another country. Such servers or other types of data processing facilities may be located within or outside the European Economic Area or third countries that are regarded by the EU Commission as featuring an adequate level of data protection. However, we safeguard your privacy interests around the world by ensuring that this SAP website adheres to our data protection principles described in this statement. All companies of the SAP group (including, for the avoidance of doubt, all SAP companies as well as all Ariba, SuccessFactors, Hybris, Sybase, Business Objects, Fieldglass, Concur, Multiposting and SeeWhy companies) may use the information internationally in connection with processing your inquiries and orders, in order to provide services to you, to help improve our products and services to keep you up to date about the latest IT product announcements, software updates, software upgrades, security patches, system enhancements, special offers, for processing and storage and for all other purposes set out in the section “Use and Purpose of Collected Personal Data” above. This includes that all companies of the SAP group may provide you with marketing materials if (depending on the country in which the relevant SAP group company operates) you have granted your prior consent and/or unless you have opted out of receiving marketing materials.
+
+We may also share such information with business partners, service vendors, authorized third-party agents or contractors (such as Google, Inc. or Adobe Systems Inc.) in order to provide a requested service or transaction, including processing orders, processing credit card transactions, hosting websites, hosting event and seminar registration and providing customer support, providing you with information on products and services that may be of interest to you or in order to analyze the user behavior on our webpages (e.g. in case of Adobe Analytics or Google Analytics).
+
+We only provide these third parties with the minimum amount of Personal Data necessary to provide the services on our behalf, and the third parties are (where legally required) bound by appropriate order data processing agreements and/or comprehensive confidentiality undertakings and therefore not permitted to use your Personal Data except for the limited purpose of completing the requested service or transaction.
+
+We do not sell or rent your Personal Data to third parties for marketing purposes unless you have granted us permission to do so.
+
+We may respond to subpoenas, court orders, or legal process by disclosing your Personal Data and other related information, if necessary. We also may choose to establish or exercise our legal rights or defend against legal claims.
+
+Circumstances may arise where, whether for strategic or other business reasons, SAP decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve, in accordance with applicable law, the disclosure of Personal Data to prospective or actual purchasers, or the receipt of it from sellers. It is SAP's practice to seek appropriate protection for information in these types of transactions.
+
+We may collect and share Personal Data and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of SAP's terms of use, or as otherwise required by law.
+
+While visiting SAP's website you may be directed to content or functionality that is hosted by a third-party supplier. Most often, this is done to host special events, such as contests or seminars. When information is collected on behalf of SAP exclusively, the appropriate SAP entity's privacy statement will be referenced on the website and will govern how information is used. For other, non-SAP sites, the site's owner's privacy policy will be referenced. It is SAP's practice to require such suppliers and business partners to handle information in a manner consistent with SAP's privacy statement.
+
+### 7\. Security of Your Personal Data
+
+SAP is committed to protecting the Personal Data you share with us. SAP uses a combination of industry-standard security technologies, procedures, and organizational measures to help protect your Personal Data from unauthorized access, use or disclosure. SAP supports online security using secure server technology because we want your data to be safe. There are state-of-the-art security arrangements and facilities on SAP sites to prevent abuse.
+
+We bind our employees and data processors to observe your privacy and confidentiality rights.
+
+### 8\. Links to Other Sites
+
+This website may contain links to foreign (i.e. non SAP group of companies) sites. SAP is not responsible for the privacy practices or the content of other websites outside the SAP Group of companies. Therefore, we recommend that you carefully read the privacy statements of such foreign sites.
+
+### 9\. Choice/Opt-Out
+
+We communicate with users who subscribe to our services on a regular basis via email, and we may also communicate by phone to resolve customer complaints or investigate suspicious transactions. We may use your email address to confirm your opening of an account, to send you notice of payments, to send you information about changes to our products and services, and to send notices and other disclosures as required by law. Generally, users cannot opt out of these communications, which are not marketing related but merely required for the relevant business relationship.
+
+With regard to marketing related types of communication (i.e. emails and phone calls), SAP will (i) where legally required only provide you with such information after you have granted your opt-in and (ii) provide you the opportunity to exercise an opt-out choice if you do not want to receive further marketing related types of communication from us. The opt-out choice may be exercised, depending on the respective SAP group web offering:
+
+a. SAP SE, local SAP affiliates, Hybris and Ariba: <http://www.sap.com/profile/unsubscribe.epx>
+
+b. SuccessFactors: if you receive marketing or similar e-mail messages from us and wish to opt out of receiving such messages, you may simply follow the opt-out procedure specified in such e-mail. In addition, if you have registered on our site, you may opt out of receiving any future marketing or similar messages by emailing your request to unsubscribe here: [webmaster@sap.com](mailto:webmaster@sap.com). Users of SuccessFactors Recruiting Marketing (RMK) may elect not to receive future communications. If you are a registered User, please open the email you received from RMK and click on the unsubscribe link. If you prefer to have your account removed permanently, please email your request to [webmaster@sap.com](mailto:webmaster@sap.com).
+
+### 10\. Data Retention
+
+SAP will not retain your Personal Data longer than is necessary to fulfill the purposes for which it was collected or as required by applicable laws or regulations. In particular, and if no such contradicting statutory obligation exists, SAP will delete your Personal Data once you inform SAP that you do not want SAP to further process your Personal Data. Please direct any such request to [webmaster@SAP.com](mailto:webmaster@sap.com). Kindly note that in this case the use of certain services or offerings may either be limited or not possible any longer. In case there is a contradicting statutory obligation for SAP to retain your Personal Data, SAP will block it against further processing and then delete the relevant Personal Data when the requirement to retain it has ceased.
+
+### 11\. Inquiries, Access and Updating Your Personal Data
+
+SAP needs your help in keeping the Personal Data you have shared with us accurate and up to date. If you are a registered user, you may make these updates yourself online via www.sap.com/profile. You may also make these updates or other changes by sending an email to [webmaster@SAP.com](mailto:webmaster@sap.com).
+
+If you have any other questions about this Privacy Statement or if you wish to inspect the Personal Data we hold about you, please contact: Webmaster: [webmaster@sap.com](mailto:webmaster@sap.com)
+
+### 12\. US-Specific Provisions
+
+To the extent that SAP is subject to US privacy requirements, the below applies in addition:
+
+#### a. Do Not Track
+
+Cookies are identifiers that can be sent from a site via your browser to be placed on your computer's hard drive. Thereafter when you visit a site, a message is sent back to the web server by the browser accessing the site. Your browser may allow you to set a “Do not track” preference. Our site does not honor “Do not track” requests, but you may elect not to accept cookies by changing the designated settings on your web browser or, where available by way of the TRUSTe Consent Manager if the relevant website contains a link to it. However, not utilizing cookies may prevent you from using certain functions and features of our site. This site does not allow third parties to gather information about you over time and across sites.
+
+#### b. Requirements to Protect Children's Privacy
+
+We do not intend for our websites or online services to be used by anyone under the age of 13. If you are a parent or guardian and believe we may have collected information about a child, please contact us as described in this Privacy Statement.
+
+### 13\. Russia-Specific Provisions:
+
+The below applies to users residing in the Russian Federation:
+
+The services hereunder are not intended for use by the citizens of the Russian Federation, who reside in Russia. If you are a Russian citizen residing in Russia, you are hereby notified, that any Personal Data that you input into the services will be solely at your own risk and responsibility, you explicitly agree that SAP may accumulate your Personal Data and will process this data in the US and in other countries and that you will not hold SAP accountable for any potential non-observance of the Russian Federation legislation.
+
+Revised and posted as of July 25, 2016
