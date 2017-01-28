@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ebth.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222000238id_/https%3A//www.ebth.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ebth.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128105810id_/https%3A//www.ebth.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy : EBTH
 
