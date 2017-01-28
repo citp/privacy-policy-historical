@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mygalottery.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428100620id_/https%3A//www.mygalottery.com/en-us/footer/prvcyplcy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygalottery.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128120556id_/https%3A//www.mygalottery.com/en-us/footer/prvcyplcy.html) for the most accurate reproduction.*
 
 # Georgia Lottery - Privacy Policy
 
