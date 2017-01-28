@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804203241id_/https%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsflare.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128232430id_/https%3A//www.newsflare.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - How Newsflare works | Newsflare
 
@@ -7,9 +7,8 @@
 This Newsflare website ("Website") is operated by Newsflare Limited whose registered address is: 
 
 Newsflare Limited   
-Lynton House   
-7-12 Tavistock Square   
-London WC1H 9LT   
+Fourth Floor, 30-31 Furnival Street   
+London EC4A 1JQ   
 United Kingdom 
 
 The terms "Newsflare", "we", "us", "our" and "ours" when used in this Privacy Policy mean Newsflare Ltd which includes all entities under the control of Newsflare Ltd. 
@@ -137,11 +136,11 @@ We welcome comments about this Privacy Policy. If you have any questions about t
 Our postal address is: 
 
 Newsflare Limited   
-Communications House,   
-26 York St,   
-London, W1U 6PZ   
+Fanshaw House   
+Fanshaw Street   
+London, N1 6HX   
 United Kingdom 
 
 * * *
 
-Privacy Policy last updated February 2012 
+Privacy Policy last updated October 2016 
