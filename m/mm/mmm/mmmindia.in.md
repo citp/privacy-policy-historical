@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mmmindia.in privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221032906id_/http%3A//www.mmmindia.in/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mmmindia.in privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128182954id_/http%3A//mmmindia.in/privacy_policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY / MMM INDIA - Official Website
 
