@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facebakers.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109152806id_/https%3A//www.socialbakers.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebakers.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128165147id_/https%3A//www.socialbakers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Socialbakers
 
@@ -137,16 +137,6 @@ ID No.: 290 98 271
 [support@socialbakers.com](mailto:support@socialbakers.com)
 
 ## Whether you need to **Measure** , **Manage** or **Monetize** we have the solution for you.
-
-[]() Premium content
-
-First login to your account
-
-[__Sign In](https://web.archive.org/sign/login?backlink=https%3A%2F%2Fwww.socialbakers.com%2Fprivacy-policy&ref=www-fe-modal) [Browse Socialbakers.com without sign in]()
-
-## Just **$50** / Month
-
-Get membership rights to exclusive insights, in-depth social marketing tips, and hidden data for every reported country. Become a part of Socialbakers Premium Community!
 
 The content on this page is available only to signed-in users. Simply sign in to gain access to all materials in the Socialbakers Resources. Once signed-in, you will then be able to access and download various types of studies, reports, articles and other types of content for free.
 
