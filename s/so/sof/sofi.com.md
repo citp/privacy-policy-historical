@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sofi.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117023014id_/https%3A//www.sofi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sofi.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128165951id_/https%3A//www.sofi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SoFi
 
