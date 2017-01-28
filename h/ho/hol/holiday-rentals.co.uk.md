@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holiday-rentals.co.uk privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228051631id_/https%3A//www.homeaway.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holiday-rentals.co.uk privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128170443id_/https%3A//www.homeaway.co.uk/info/about-us/legal/privacy-policy) for the most accurate reproduction.*
 
 # HomeAway Holiday-Rentals Privacy Policy
 
