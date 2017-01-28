@@ -1,64 +1,121 @@
-> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120233651id_/http%3A//leagueathletics.com/guest/privacy.shtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leagueathletics.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128174024id_/https%3A//subscription.timeinc.com/storefront/privacy/siplay/generic_privacy_new.html) for the most accurate reproduction.*
 
-# Privacy Policy | LeagueAthletics.com
+# SI Play Privacy Policy for the US
 
-Last revised: April 14, 2015 
+## PRIVACY POLICY
 
-As a user of a LeagueAthletics.com hosted World Wide Web site (the "Service") your privacy is very important to us. You are entitled to know how your use of the Service will affect your personal privacy. In general, LeagueAthletics.com will under no circumstances share any personal information with anyone other than the members of the sports organization to which you belong. The purpose of this Privacy Policy Statement is to inform you about: 
+### Table of Contents
 
-  * what information about you will be collected by LeagueAthletics.com, Inc. ("LeagueAthletics.com"), the operator of the Service, and the circumstances under which the information will be collected; and 
-  * how the information will be used or disclosed to others 
+  * Scope of the Privacy Policy
+  * Information We Collect
+  * How We Use your Information
+  * Collection of Information by Third-Party Sites and Sponsors
+  * Cookies
+  * Your California Privacy Rights: Notice to California Customers
+  * Our Commitment to Security
+  * Accessing, Correcting, and Deleting Your Personal Information
+  * Retention of Personal Information
+  * Changes to this Privacy Policy
+  * How to Contact Us
 
 
 
-THIS WEBSITE IS ONLY INTENDED FOR ADULTS OVER THE AGE OF 18. 
+#### Scope of the Privacy Policy
 
-NOTICE TO CHILDREN UNDER THE AGE OF 13 AND THEIR PARENTS OR LEGAL GUARDIANS: 
+Thank you for visiting SI Play! Your privacy is very important to us. To better protect your privacy, SI Play LLC and its affiliates (collectively, “SI Play”, “we” or “us”) provide this Privacy Policy explaining our information practices and how we use the information you provide to us. This Privacy Policy governs how we use and collect your data through our websites, mobile device applications and other services (collectively, the “Services”), including the services provided through leaguetoolbox.com; leagueathletics.com; sportssignup.com; iscore.com; and www.siplay.com. If you were a previous user of the services offered by iScore, SportsSignup, League ToolBox or League Athletics, your personal information is now governed by the this Privacy Policy.
 
-IF YOU ARE UNDER THE AGE OF 13 AND WOULD LIKE TO CONTACT US OR PARTICIPATE IN THE SERVICES PLEASE DO SO THROUGH YOUR PARENTS OR LEGAL GUARDIANS. THE COMPANY DOES NOT KNOWINGLY COLLECT PERSONAL INFORMATION FROM CHILDREN UNDER THE AGE OF 13. IF YOU ARE UNDER THE AGE OF 13, DO NOT SEND US ANY PERSONAL INFORMATION INCLUDING WITHOUT LIMITATION YOUR EMAIL ADDRESS, NAME AND/OR CONTACT INFORMATION. 
+All users of SI Play are adults over the age of 18 who are either completing a registration to participate themselves or are completing registrations for their minor children. We do not knowingly collect information from children under the age of 13. If we learn that we have received any information directly from a child under age 13 without first receiving his or her parent's verified consent, we will delete that information.
 
-**_Disclosure_**
+#### Information We Collect
 
-In the normal course of operations it is likely that we will maintain your personal information on computers in the United States (the “Information”). You agree to the transfer of the Information among such computers. 
+**Volunteered Information** : This category of information includes, but is not limited to: (i) information that you voluntarily provide to SI Play upon your use of, and registration for, the Service or for a sports program that uses our Service, including information such as your name, email address, and other contact information; (ii) if you are a participant in a sports program, the information that you provide to that program at the time of enrollment and thereafter through the Service by you directly inputting the information into the Service; and (iii) information that you provide as a result of your purchase of any goods or services offered through the Service (e.g., financial information, billing and shipping addresses. Additionally, through some Services, you may be able to submit information about other people. For example, you might submit a person's name, mailing and/or e-mail address to send a gift or electronic greeting card. The types of personally identifiable information that may be collected about other people at these pages include: recipient's name, address, e-mail address and telephone number.
 
-**_Application_**
+**Background Checks** : SI Play provides a service, called KidSafePlus®, to help manage the background check process for individuals you designate. While it is understandable that consumers are reluctant to disclose their Social Security Number, it is a crucial piece of information to help ensure the name being provided will match potential criminal records, to acquire a list of possible aliases used, and to provide additional information reduce the number of false positives resulting from “common name” matches. Social Security numbers are captured as part of a your profile for the designated, and passed on to our background check partner (via secure communications), who performs the background check. The specific background check provider used is fully disclosed during the background check registration process. The whole Social Security numbers are deleted from our system once the results are returned (often minutes after the user supplies the information).
 
-This Privacy Policy Statement applies only to the Service and not to Web sites operated and maintained by other companies or organizations to which the Service is linked, or companies with whom you may engage in transactions for the sale of products or services through the Service. 
+**Other Non-Personally Identifiable Data** : We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information (collectively, “System Data”).
 
-**_Information Collected by LeagueAthletics.com_**
+#### Information Regarding Children
 
-The types of Information that LeagueAthletics.com may collect about you, either as a user of the Service or as a participant in a sports program that uses our services, are limited to the following: 
+You may provide personal information regarding your child when you register your child for the Service. At your complete discretion, you can choose to make that personal information viewable to the rest of the league. At any time, you can use controls in the Service to revoke that permission.
 
-**Volunteered Information:** This category consists of (i) Information that you voluntarily provide to LeagueAthletics.com upon your registration for this service or for a sports program that uses our Service, such as your name, email address, and other contact information, (ii) Information that you subsequently volunteer to LeagueAthletics.com regarding your contact information through the Password protected features of the Service, or changes in your registration information, (iii) if you are a participant in a sports program, the Information that you provide to that program at the time of enrollment and thereafter through the Service by you directly inputting the Information into the Service, and (iv) other Information about you that you may voluntarily provide through the Service at LeagueAthletics.com's request. 
+Children are prohibited from creating their own accounts on the Service. However, you may create an account on the Service for your child, provided that you are the parent or legal guardian of that child. Through this account, your child may upload photographs, videos, comments and other information to his or her team page on the Service (collectively, “Child Content”). By creating an account for your child, you are consenting to the fact that we may use, display, and/or publish the Child Content on the Service as described herein. If you do not consent to our use of the Child Content in this manner, you are prohibited from creating accounts for your child on the Service. Child Content may be viewable only on the team page, and SI Play will not use the Child Content for any other purpose without the parent’s consent. The coach or league manager alone may choose to make the team’s page viewable to the public.
 
-**Transaction Information:** This category consists of Information you may provide to LeagueAthletics.com as a result of your purchase of goods or services from the Service, which may include contact information, billing and shipping addresses and financial information such as credit card number and expiration date. Information that you may provide to a third party other than LeagueAthletics.com during a transaction consummated by access to the third party through the Service is not included in this Privacy Policy Statement and will be subject to the privacy policies and practices, if any, employed by the third party with whom you are dealing. 
+At no time will we collect any personal information from your child for advertising purposes. The Child Content is not shared with third parties, except to the extent necessary in order to provide the Services (e.g., our hosting provider). Additionally, when your child uses the Service, we will collect System Data from them, which, as described above, is anonymous and does not contain personal information.
 
-**"Cookie" Information:** As is the case with many Web sites, the Service uses standard technology called "cookies," which are small data files that are downloaded onto your computer when you visit a particular Web site. Cookies automatically identify your browser to the LeagueAthletics.com server whenever you interact with the Service. LeagueAthletics.com uses cookies to keep track of your teams and preferences, but cannot track any activity by you on other Web sites. If you prefer not to have any Information collected by cookies, you may disable cookies by turning them off in your browser; however, some areas of the Service may not function properly if you do. 
+At any time, you can use controls in the Service to view the Child Content from your child or to delete any account created for your child. If you would like us to delete any Child Content provided by your child, please email us at parents@siplay.com or reach us at the contact information below in the “How to Contact Us” section of this Privacy Policy. You may also contact us if you have any other questions or concerns you may have about what Child Content SI Play has collected, how the Child Content is used by SI Play, or anything else related to the Service.
 
-All of these types of Information about you may be maintained by LeagueAthletics.com on computers located in the United States, and may be transferred from time to time among those computers. 
+back to top
 
-These types of Information will be retained by LeagueAthletics.com indefinitely until LeagueAthletics.com or its successors determines that it is no longer needed, at its sole discretion. 
+#### How We Use Your Information
 
-**_How this Information will be used or shared with others_**
+Except as set forth in this section, your personal information will not be shared or transferred to third parties.
 
-Except as provided in this Section, LeagueAthletics.com will not use or disclose to any third party other than the sports organization to which you belong, any personally identifiable information about you for any purpose without your express prior consent. 
+**General Use** : The information you provide to us will be used (i) to operate the Service; (ii) to fulfill any requests you make to us, e.g., your requests for a particular product or service; and (iii) by SI Play to send you information about SI Play, marketing information about SI Play products and services, and other services in which we think you might be interested.
 
-**Volunteered Information:** will be used by LeagueAthletics.com to operate the Service and maintain your contact information within the Service, including the record of your team membership(s). For this purpose it will be necessary to disclose such Volunteered Information to LeagueAthletics.com employees and contractors who have a need to know. Volunteered Information may be used by LeagueAthletics.com to send you information about LeagueAthletics.com and promotional material about products and services of LeagueAthletics.com. 
+**Third Party Fulfillment** : In order to fulfill a request you may make or for us to otherwise operate the Service, it may be necessary for SI Play to share your information with a vendor or other third party. In those instances, any third party that has access to your information will be required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for SI Play.
 
-**Transaction Information:** will be used by LeagueAthletics.com solely for the purpose of completing the transaction you have requested and providing customer service with respect to that transaction. Financial Information such as credit card number and expiration dates will not be stored or saved on our servers. 
+**Customize and Improve the Services** : We may use the System Data that we collect to improve the design, features and content of our Services, to analyze Service usage, and to enable us to customize your experience while using the Services.
 
-**Cookie Information:** (which is identified to your browser, and not to you personally) will be used only to assist in your navigation within the Service, to monitor consumer interest in the range of products and services available on the Service, to assist LeagueAthletics.com in tailoring the content of the Service to users' needs by collecting Information about their preferences through tracking patterns of page-viewing on the Service, and to assist LeagueAthletics.com in delivering content that appears to meet your preferences. Disclosures Required By Law: LeagueAthletics.com may be required by law or legal process to disclose Information about you in its possession. 
+**Required by Law or to Otherwise Protect our Rights** : We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. Further, to the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of SI Play, our agents, affiliates, parent company, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
 
-Additionally, we may transfer your information if we are acquired by, sold to, merged with or otherwise transferred to another entity. 
+**In Connection with a Merger or Sale of Assets** : Additionally, please note that if SI Play or any of our subsidiaries or lines of business are merged, acquired, divested, financed, sold, disposed of or dissolved, including through merger of, consolidation, sale or divestiture of assets, the relevant customer database, including personally identifiable information we may possess about you, may, in whole or in part, be sold, disposed of, transferred, divested, or otherwise disclosed as part of that transaction or proceeding.
 
-**_California Do Not Track Disclosures_**
+#### Collection of Information by Third-Party Sites and Sponsors
 
-LeagueAthletics.com relies on a user’s browser for handling do-not-track requests. 
+**Information Collected by Third Parties** : Our Services may contain links to other sites whose information practices may be different than ours. SI Play also allows you to connect with other sites and services in order to share content and information. You should consult the other sites' and services' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties or their use of your information. Any information that you provide to a third party through the Service, e.g., if you make a payment for a service through Apple’s app store, that third party’s use of your information is not covered by this privacy policy. Further, any technologies, e.g., cookies that are placed or used by third parties on the Services are also outside the scope of this Privacy Policy. Such information and practices will be subject to the privacy policies and practices of the applicable third party.
 
-**_Modifications to the Privacy Policy_**
+**Sponsored Pages or Promotions** : SI Play may offer contests, sweepstakes, promotions, editorial features, or other activities or offerings that are sponsored or co-sponsored by or presented with identified third parties. By virtue of your participation in such activities or offerings, your IP address and the personally identifiable information that you voluntarily submit may be provided to both the SI Play and the third parties. SI Play has no control over the third parties' use of this information.
 
-LeagueAthletics.com may modify this Privacy Policy Statement at any time, at its discretion, and modifications are effective upon being posted here on the Service. You are responsible for revisiting this Privacy Policy Statement periodically to ensure that you are aware of any changes to it. 
+**Advertisements** : SI Play may use reputable third parties to present or serve advertisements, including online behavioral advertisements, that you may see on the web pages and to conduct research about the advertisements. This Privacy Policy does not cover any use of information that such third parties may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs). 
 
-**_Contact information_**
+#### Our Commitment to Security
 
-You may contact LeagueAthletics.com at either of the following contact points with any inquiry or complaint or to exercise any of the rights and options set forth in this Privacy Policy Statement. If you have any questions about this Privacy Policy Statement or LeagueAthletics.com's practices, or if you believe the privacy or security of your Information has been compromised in any way, please contact LeagueAthletics.com at the email address below. If you are a California resident, you have the right to request information regarding the disclosure of your personal information by LeagueAthletics.com to third parties. If you are a California resident under the age of 18, and a registered user of any site where this policy is posted, you have the right to request and you may obtain removal of content or Information you have publicly posted. To make such a request, please contact LeagueAthletics at the email address: info@leagueathletics.com. 
+We have put in place appropriate administrative, technical, and physical safeguards to help prevent unauthorized access, maintain data security and correctly use the information we collect. No system can be completely secure, however, and we do not guarantee that unauthorized disclosures and access will not happen.
+
+#### Cookies
+
+**Generally** : We (or our analytic or service partners) may place "cookies" on your computer or device. Cookies are small text files that we place in your computer or device to store your preferences. Cookies, by themselves, do not tell us your e-mail address or other personal information unless you choose to provide this information to us by, for example, registering with one of our Services. Once you choose to provide us with personal information, this information may be linked to the data stored in the cookie. A cookie assigns a unique numerical identifier to your Web browser or device, and may enable us to recognize you as the same user who has used our Services, and relate your use of the Services to other information about you, such as your usage information and personal information.
+
+We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or clear gifs, all described further below) to understand usage of the Services and to improve our content and offerings and to deliver advertisements that you might be interested in. For example, we may use cookies to personalize your experience on our Services (e.g., to recognize you by name when you return to our site, to save your password in password-protected areas, to enable shopping carts, or to tailor content or product and service offerings).
+
+Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser’s instructions.
+
+_Local Shared Objects_ : Local Shared Objects: Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
+
+_HTML 5_ : HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
+
+_Cache Cookies_ : Cache cookies, such as eTags, may be used to identify your computer or device as the same computer or device that visited a Service or Services in the past.
+
+_Web Beacons_ : Our websites may also use small pieces of code called "web beacons" or "clear gifs" to collect anonymous and aggregate advertising metrics, such as counting page views, promotion views, or advertising responses. A web beacon is an electronic image called a single-pixel or clear GIF. Web beacons can recognize certain types of information, such as a user's cookie number, time and date of a page view, and description of the page where the web beacon is placed. These web beacons may be used to deliver cookies that conform to our cookie policy above.
+
+These tracking technologies may be deployed by us and/or by our service providers or partners on our behalf. These technologies enable us to assign a unique number to you, and relate your Service usage information to other information about you, including your personal information. We may match information collected from you through different means or at different times, including both personal information and Service usage information, and use such information along with offline and online information obtained from other sources (including third parties) such as demographic information and updated contact information (where that information has been lawfully disclosed to us) for the purposes of learning more about you so we can provide you with relevant content.
+
+back to top
+
+#### Your California Privacy Rights: Notice to California Customers
+
+California's "Shine the Light" law, Civil Code section 1798.83, requires certain businesses to respond to requests from California customers asking about the businesses' practices related to disclosing personal information to third parties for the third parties' direct marketing purposes. Alternately, such businesses may have in place a policy not to disclose personal information of customers to third parties for the third parties' direct marketing purposes if the customer has exercised an option to opt-out of such information-sharing. Note: SI Play sites do not recognize the “do not track signals” that some browsers may employ. To find out more about your opt-out rights, please contact us as described in the **"How to Contact Us"** section below
+
+#### Accessing, Correcting, and Deleting Your Personal Information
+
+**Managing your Information** : We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates. We encourage you to review, update, and correct the personal information that we maintain about you, and you may make modifications to certain personal information through the Services themselves or you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
+
+**Retention of Personal Information** : We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in accordance with the **"Managing Your Information"** section above. 
+
+**Opt-out** : If you receive an email from SI Play, you may choose to stop receiving further emails from SI Play by following the unsubscribe instructions included in the email, accessing the email preferences in your account settings, or by sending a request to privacy@siplay.com.
+
+#### Changes to this Privacy Policy
+
+This Privacy Policy may be changed by SI Play. The revised Privacy Policy will be posted to this page so that you are aware of the information we collect, how we use it, and under what circumstances we may disclose it.
+
+#### How to Contact Us
+
+If you have any questions or concerns about the Privacy Policy or its implementation please contact us via email by [clicking here](mailto:privacy@siplay.com) or by writing to:
+
+Sports Illustrated Play  
+18 Division St. Suite 414  
+Saratoga Springs, NY, 12866
+
+back to top
+
+This Privacy Policy was revised November 22, 2016.
