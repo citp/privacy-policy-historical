@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422015713id_/https%3A//www.lootcrate.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lootcrate.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128185649id_/https%3A//www.lootcrate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -82,7 +82,7 @@ Childrens Online Privacy Protection Act Compliance
 
 **
 
-We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. [info@lootcrate.com](mailto:info@lootcrate.com)
+We are in compliance with the requirements of COPPA (Childrens Online Privacy Protection Act), we do not collect any information from anyone under 13 years of age. Our website, products and services are all directed to people who are at least 13 years old or older. [info@lootcrate.com](https://web.archive.org/cdn-cgi/l/email-protection#95fcfbf3fad5f9fafae1f6e7f4e1f0bbf6faf8)
 
 **
 
