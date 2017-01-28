@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111104440id_/https%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sovereignman.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128164914id_/https%3A//www.sovereignman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Sovereign Man
 
