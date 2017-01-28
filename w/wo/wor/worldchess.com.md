@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldchess.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118053207id_/http%3A//worldchess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldchess.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128015826id_/https%3A//worldchess.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | World Chess | News, ratings, events in a chess world
 
