@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the gooverseas.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501074242id_/http%3A//www.gooverseas.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gooverseas.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128170017id_/https%3A//www.gooverseas.com/privacy-policy) for the most accurate reproduction.*
 
 # Go Overseas Privacy Policy
 
 _Last updated: March 1, 2016_
 
-Go Overseas is dedicated to protecting your personal information and informing you about how we use your information. This privacy policy applies to your use of the Go Overseas services including our website [www.gooverseas.com](http://www.gooverseas.com/ "www.gooverseas.com") (collectively "Platform"). This Privacy Policy should be read in conjunction with the Go Overseas Terms of Service. All capitalized proper nouns will have the same definitions and meanings as defined by the Terms of Service. Please review this Privacy Policy periodically as we may revise it from time to time without notice. If you do not agree with or accept our Privacy Policy in its entirety, you must not access or use the Platform.
+Go Overseas is dedicated to protecting your personal information and informing you about how we use your information. This privacy policy applies to your use of the Go Overseas services including our website [www.gooverseas.com](https://web.archive.org/) (collectively "Platform"). This Privacy Policy should be read in conjunction with the Go Overseas Terms of Service. All capitalized proper nouns will have the same definitions and meanings as defined by the Terms of Service. Please review this Privacy Policy periodically as we may revise it from time to time without notice. If you do not agree with or accept our Privacy Policy in its entirety, you must not access or use the Platform.
 
-As Go Overseas respects your privacy rights, we adhere to the [Safe Harbor Principles](http://www.export.gov/safeharbor/eu/eg_main_018475.asp) that were established by the U.S Department of Commerce to help safeguard personal data online. Additionally, we intend to comply with all US laws relating to online privacy and the EU Data Protection Directive (94/56/EC).
+As Go Overseas respects your privacy rights, we adhere to the [Safe Harbor Principles](http://www.export.gov/safeharbor/) that were established by the U.S Department of Commerce to help safeguard personal data online. Additionally, we intend to comply with all US laws relating to online privacy and the EU Data Protection Directive (94/56/EC).
 
 If you have any questions, complaints, or comments regarding our privacy policy, please contact us at [Privacy@GoOverseas.com](mailto:privacy@gooverseas.com).
 
@@ -76,7 +76,7 @@ though we attempt to keep your information safe and secure, you must understand 
 
 ### California Users
 
-Go Overseas permits residents of the State of California to use its Service, and complies with the California Business and Professions Code SSSS 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact ush3>Privacy@GoOverseas.comwany questions.
+Go Overseas permits residents of the State of California to use its Service, and complies with the California Business and Professions Code SSSS 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact [Privacy@GoOverseas.com](mailto:privacy@gooverseas.com) with any questions.
 
 ### Are there age requirements?
 
