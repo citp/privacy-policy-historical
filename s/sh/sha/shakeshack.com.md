@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shakeshack.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203194558id_/https%3A//shop.shakeshack.com/index.php%3Fstatp%3Dprivacy%26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shakeshack.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128153244id_/https%3A//shop.shakeshack.com/index.php%3Fstatp%3Dprivacy%26) for the most accurate reproduction.*
 
 # Shake Shack | Shop - Privacy Policy
 
