@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108212304id_/https%3A//www.shu.ac.uk/about-this-website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shu.ac.uk privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128155639id_/https%3A//www.shu.ac.uk/about-this-website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Sheffield Hallam University
 
