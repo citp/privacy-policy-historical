@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coxbusiness.com privacy policy that was archived on 2016-12-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161226062432id_/http%3A//www.cox.com/aboutus/policies/business-annual-privacy-notice.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coxbusiness.com privacy policy that was archived on 2017-01-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170128205202id_/https%3A//www.cox.com/aboutus/policies/business-annual-privacy-notice.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	
@@ -28,7 +28,7 @@
 	
 	
     
-<link rel="stylesheet" href="//webcdn4.cox.com/etc/clientlibs/cox/main.min.0746b71ab72f0fb22bbc8232f4c28849.css" type="text/css">
+<link rel="stylesheet" href="//webcdn4.cox.com/etc/clientlibs/cox/main.min.3807e0eb7ef3fd03bd9a782973e5a8a6.css" type="text/css">
 <script type="text/javascript" src="//webcdn4.cox.com/etc/clientlibs/cox/main.min.1069456f4481b5729d75349097d1aa4d.js"></script>
 
 
@@ -398,6 +398,13 @@ if ( !CQ_Analytics.UDO ) {
 	if (urlParam("pc") !== "") {
 		utag_data.promoCode = urlParam("pc");
 	}
+	if (urlParam("zip") !== "") {
+		var between = "?";
+		if (udoUrl.match(/\?/)) {
+			between = "&";
+		}
+		udoUrl += between + "zip=" + urlParam("zip");
+	}
 	if (getUDOCookies("cox-search-recent-terms")) {
 		utag_data.searchTerm = getUDOCookies("cox-search-recent-terms");
 	}
@@ -432,7 +439,10 @@ if ( !CQ_Analytics.UDO ) {
 	xhr.send();
 	if (getUDOCookies("cox-current-zipcode")) {
 		utag_data.zip = getUDOCookies("cox-current-zipcode");
-       }
+		if (typeof CQ_Analytics !== 'undefined' && CQ_Analytics.UDO && CQ_Analytics.UDO.data) {
+	        CQ_Analytics.UDO.setProperty("zip", utag_data.zip);
+		}
+	}
 	// NOW we can load in the utag.js file.
 	(function(w,u,a,b,c,d){
 		if(w.utag)return;u=w.utag={};u.e=[];
@@ -444,6 +454,7 @@ if ( !CQ_Analytics.UDO ) {
 		a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
 	}(window));
 </script>
+
 
 	<!-- Tealium End -->
 	<!-- Global Mbox Store BEGIN -->
@@ -549,17 +560,17 @@ if ( !CQ_Analytics.UDO ) {
 	<!-- START: select-location -->
 	
         <div class="pf-overlay pf-location-panel" id="pf-location-panel">
-            <form method="post" action="https://intercept.cox.com/dispatch/5935266341482421457/intercept.cox?lob=aboutus&amp;s=pf" id="pf-location-zipcode-form">
+            <form method="post" action="https://intercept.cox.com/dispatch/2414251920287260782/intercept.cox?lob=aboutus&amp;s=pf" id="pf-location-form">
                 <fieldset>
                     <legend>Select a Location</legend>
                     <input type="hidden" name="dest" value="" id="pf-dest">
                     <input type="hidden" name="gl" value="pfgeolocation">
-                    <span aria-label="Close" class="pf-close-btn"></span>
+                    <a title="Close Location Selection" class="pf-close-btn"></a>
                     <div class="pf-loader"></div>
                     <p class="pf-location-mobile-heading">Current Location:<span class="pf-location-value"></span></p>
                     <div class="pf-location-info"></div>
                     <p class="pf-location-intro">Let us know the location you'd like to browse.</p>
-                    <div id="pf-location-zipcode-form-status" style="display: none;"></div>
+                    <div id="pf-location-form-status" style="display: none;"></div>
                     <div class="pf-location-panel-mid-section">
                         <label for="pf-zipcode" class="pf-hidden">Zip Code</label>
                         <input type="text" placeholder="Zip" title="Zip Code" data-type="zip" name="zipcode" id="pf-zipcode" maxlength="5">
@@ -731,23 +742,23 @@ if ( !CQ_Analytics.UDO ) {
 							<ul class="pf-main-nav-primary-links">
 								<li class="pf-community">
                 <a href="#" title="Community" class="pf-trigger">
-                    <span class="community"></span>
+                    <span class=""></span>
                     Community</a>
               </li><li class="pf-careers">
                 <a href="#" title="Careers" class="pf-trigger">
-                    <span class="careers"></span>
+                    <span class=""></span>
                     Careers</a>
               </li><li class="pf-newsroom">
                 <a href="#" title="Newsroom" class="pf-trigger">
-                    <span class="newsroom"></span>
+                    <span class=""></span>
                     Newsroom</a>
               </li><li class="pf-diversity">
                 <a href="#" title="Diversity" class="pf-trigger">
-                    <span class="diversity"></span>
+                    <span class=""></span>
                     Diversity</a>
               </li><li class="pf-suppliers">
                 <a href="#" title="Suppliers" class="pf-trigger">
-                    <span class="suppliers"></span>
+                    <span class=""></span>
                     Suppliers</a>
               </li>
 								<!-- begin mobile only 'my account' div -->
@@ -882,7 +893,7 @@ if ( !CQ_Analytics.UDO ) {
 				
 				<div class="pf-sub-nav pf-my-account-items">
 		<div class="pf-sub-nav-underlay">
-			<div class="pf-sub-nav-close"><a></a></div>
+			<div class="pf-sub-nav-close"><a title="Close Sign In"></a></div>
 		</div>
 	<div class="pf-sub-nav-link">
 		<div>
@@ -1609,28 +1620,6 @@ To help reduce unwanted telemarketing calls, the FCC offers telephone subscriber
 			<div><div class="section"><div class="new"></div>
 </div><div class="iparys_inherited"><div class="parsys iparsys ipartoaster"></div>
 </div></div>
-			
-	
-	
-    	<script id="lazy-load" data-cox-fw-src="//webcdn2.cox.com/ui/5_0/tsw/js/cox.js.jgz" data-cox-lib-src="//webcdn2.cox.com/ui/5_0/tsw/js/lib.js.jgz">
-            if (window.addEventListener) {
-                window.addEventListener("load", function() {
-                    var lib = document.createElement("script");
-                    lib.setAttribute("type", "text/javascript");
-                    lib.setAttribute("src", document.getElementById("lazy-load").attributes["data-cox-lib-src"].value);
-                    lib.addEventListener("load", function() {
-                        var cox = document.createElement("script");
-                        cox.setAttribute("type", "text/javascript");
-                        cox.setAttribute("src", document.getElementById("lazy-load").attributes["data-cox-fw-src"].value);
-                        document.body.appendChild(cox);
-                    });
-                    document.body.appendChild(lib);
-                });
-            }
-        </script>
-	
-
-
 		</div>
 		<!-- END: container -->	
 		<div><div class="section"><div class="new"></div>
@@ -1966,7 +1955,7 @@ To help reduce unwanted telemarketing calls, the FCC offers telephone subscriber
 			</div>
 			<div class="pf-general-info pf-clearfix">
 				
-					<div class="pf-copyright"> © 1998-2016 Cox Communications, Inc.</div>
+					<div class="pf-copyright"> © 1998-2017 Cox Communications, Inc.</div>
 				
 				<div class="pf-social-icons">
 					<a href="http://www.youtube.com/user/CoxCommTV" class="pf-social-you-tube" title="YouTube" target="_blank">YouTube</a>
@@ -2037,6 +2026,13 @@ To help reduce unwanted telemarketing calls, the FCC offers telephone subscriber
 
 	<!-- CLOUD CONFIG END -->
 	
+	
+	
+    	<script type="text/javascript" id="lazy-load" src="//webcdn2.cox.com/ui/5_0/tsw/js/loader.js.jgz" data-cox-src-fw="//webcdn2.cox.com/ui/5_0/tsw/js/cox-core.js.jgz" data-cox-src-lib="//webcdn2.cox.com/ui/5_0/tsw/js/lib.js.jgz" data-cox-src-postfix="/tsw/js/" data-cox-src-suffix=".js.jgz"></script>
+	
+
+
+	
   <!-- global css from new-->
 	<link href="//webcdn2.cox.com/ui/5_0/tsw/css/all.css.jgz" rel="stylesheet">
 	<!-- /global css -->
@@ -2052,4 +2048,4 @@ To help reduce unwanted telemarketing calls, the FCC offers telephone subscriber
 
 
 
-<script type="text/javascript" src="//webcdn2.cox.com/ui/5_0/tsw/js/lib.js.jgz"></script></body></html>
+</body></html>
