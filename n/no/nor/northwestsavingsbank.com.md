@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2016-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160310222937id_/https%3A//www.northwestsavingsbank.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northwestsavingsbank.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128084951id_/https%3A//www.northwestsavingsbank.com/privacy.htm) for the most accurate reproduction.*
 
 # Northwest Savings Bank :: Privacy Policy
 
 **Privacy Statement**
 
-Northwest Savings Bank, hereafter "the Bank", respects the privacy of our customer(s) private information and intends to protect that privacy. We are committed to providing confidential service of the highest integrity to our customers.
+Northwest Bank, hereafter "the Bank", respects the privacy of our customer(s) private information and intends to protect that privacy. We are committed to providing confidential service of the highest integrity to our customers.
 
   
-[**CLICK HERE TO VIEW THE NORTHWEST SAVINGS BANK PRIVACY NOTICE**](https://web.archive.org/files/Privacy_Notice_2015.pdf)
+[**CLICK HERE TO VIEW THE NORTHWEST BANK PRIVACY NOTICE**](https://web.archive.org/web/20170128084951id_/https%3A//www.northwestsavingsbank.com/files/2016_Privacy_Notice.pdf)
 
   
 **INTERNET WEBSITE**
 
   _Information We Collect_
 
-When you visit Northwest Savings Bank’s website, we may collect certain types of information from you, such as information you voluntarily provide via forms, surveys, applications, etc.  We may also collect information about you from your online browsing and transactions, including your preferences, pages visited, technical information regarding your computer and operating systems, such as your Internet protocol address, domain name and system configuration and settings.
+When you visit Northwest Bank’s website, we may collect certain types of information from you, such as information you voluntarily provide via forms, surveys, applications, etc.  We may also collect information about you from your online browsing and transactions, including your preferences, pages visited, technical information regarding your computer and operating systems, such as your Internet protocol address, domain name and system configuration and settings.
 
 _Browsing Our Website_
 
@@ -24,9 +24,9 @@ On pages where you have logged in, you cannot browse anonymously after you have 
 
 _Cookies, Similar Files and Other Technologies_
 
-Cookies are pieces of information stored directly on the computer you are using.  Northwest Savings Bank or our third-party service providers may place cookies or similar files on your hard drive for security purposes to facilitate site navigation and to personalize your experience while visiting our site. Cookies allow us to collect technical and navigation information, such as browser type, time spent on our website and pages visited.  Cookies allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on Northwest Savings Bank’s website. We may also use cookies in online advertisements to track consumer responses to Northwest Savings Bank advertisements and to identify third party sites which may refer you to us.  Cookies and other technologies provide us the capability to monitor the use of our website so we can continually improve the design and functionality to better serve you. Cookies and similar files created or used by Northwest Savings Bank do not contain or capture unencrypted personally identifiable information.
+Cookies are pieces of information stored directly on the computer you are using.  Northwest Bank or our third-party service providers may place cookies or similar files on your hard drive for security purposes to facilitate site navigation and to personalize your experience while visiting our site. Cookies allow us to collect technical and navigation information, such as browser type, time spent on our website and pages visited.  Cookies allow us to select which of our advertisements or offers are most likely to appeal to you and display them while you are on Northwest Bank’s website. We may also use cookies in online advertisements to track consumer responses to Northwest Bank advertisements and to identify third party sites which may refer you to us.  Cookies and other technologies provide us the capability to monitor the use of our website so we can continually improve the design and functionality to better serve you. Cookies and similar files created or used by Northwest Bank do not contain or capture unencrypted personally identifiable information.
 
-Northwest Savings Bank uses cookies in two ways:
+Northwest Bank uses cookies in two ways:
 
 1.       Web-browsing cookies to display information more effectively to you and to gather data about the usage of our website.
 
@@ -34,11 +34,11 @@ Northwest Savings Bank uses cookies in two ways:
 
 **Live Chat**
 
-Northwest Savings Bank is committed to protecting your personal privacy. Therefore, your participation in live chat and any other communication with Northwest Savings Bank is governed by the following guidelines to protect your privacy and security.
+Northwest Bank is committed to protecting your personal privacy. Therefore, your participation in live chat and any other communication with Northwest Bank is governed by the following guidelines to protect your privacy and security.
 
-Disclosure of any information by you, whether in the text of a live chat session, or any personal data contained in an e-mail message, including an e-mail address, is strictly voluntary. You are under no obligation whatsoever to offer Northwest Savings Bank any information. 
+Disclosure of any information by you, whether in the text of a live chat session, or any personal data contained in an e-mail message, including an e-mail address, is strictly voluntary. You are under no obligation whatsoever to offer Northwest Bank any information.
 
-All chat sessions may be monitored for quality assurance purposes. Chat sessions are secure using HTTPS Technology. Northwest Savings Bank makes no representation regarding the security of your personal computer or access and expressly disclaims only and all liability arising from breeches or damages arising there from.
+All chat sessions may be monitored for quality assurance purposes. Chat sessions are secure using HTTPS Technology. Northwest Bank makes no representation regarding the security of your personal computer or access and expressly disclaims only and all liability arising from breeches or damages arising there from.
 
 Our Customer Service Representatives will identify themselves in chat so customers or participants can identify that they are speaking with a Northwest representative.
 
@@ -46,7 +46,7 @@ Unauthorized attempts to upload information or change information on this servic
 
 Penalty for False Statements. The US Criminal Code (Title 18 US Code Section 1001) provides that whoever, in any matter within the jurisdiction of the Government of the United States, knowingly and willfully - (1) falsifies, conceals, or covers up by any trick, scheme, or device a material fact; (2) makes any materially false, fictitious, or fraudulent statement or representation; or (3) makes or uses any false writing or document knowing the same to contain any materially false, fictitious, or fraudulent statement or entry; shall be fined or imprisoned not more than 5 years, or both.
 
-Do not respond to any unsolicited e-mails, telephone calls or other communications that claim to come from Northwest Savings Bank, or any unknown person asking you to submit personal data.
+Do not respond to any unsolicited e-mails, telephone calls or other communications that claim to come from Northwest Bank, or any unknown person asking you to submit personal data.
 
   
 **RESTRICTIONS ON ACCOUNT INFORMATION DISCLOSURE**
@@ -75,26 +75,26 @@ We make our policy regarding confidentiality of customer information available p
     
 **PROTECTION OF SOCIAL SECURITY NUMBERS**
 
-Social Security Numbers are treated as confidential information under Northwest Savings Bank’s Protecting the Privacy of Customer Information Policy.  As such, Social Security Numbers may only be accessed by and disclosed to Northwest Savings Bank employees and others with a legitimate business “need to know” in accordance with applicable laws and regulations. Social Security Numbers, whether in paper or electronic form, are subject to physical, electronic and procedural safeguards and must be stored, transmitted and disposed of in accordance with the provisions of our Protecting the Privacy of Customer Information Policy applicable to confidential information.  These restrictions apply to all Social Security Numbers collected or retained by Northwest Savings Bank in connection with customer, employee or other relationships.
+Social Security Numbers are treated as confidential information under Northwest Bank’s Protecting the Privacy of Customer Information Policy.  As such, Social Security Numbers may only be accessed by and disclosed to Northwest Bank employees and others with a legitimate business “need to know” in accordance with applicable laws and regulations. Social Security Numbers, whether in paper or electronic form, are subject to physical, electronic and procedural safeguards and must be stored, transmitted and disposed of in accordance with the provisions of our Protecting the Privacy of Customer Information Policy applicable to confidential information.  These restrictions apply to all Social Security Numbers collected or retained by Northwest Bank in connection with customer, employee or other relationships.
 
   
 **PROTECTING CHILDREN’S PRIVACY ONLINE**
 
-Northwest Savings Bank does not knowingly solicit data from children and we do not knowingly market to children. We recognize that protecting children’s identities and privacy online is important and that the responsibility to do so rests with the Internet industry and with parents.
+Northwest Bank does not knowingly solicit data from children and we do not knowingly market to children. We recognize that protecting children’s identities and privacy online is important and that the responsibility to do so rests with the Internet industry and with parents.
 
 The Internet is a public network. Children’s access to the Internet can allow them to visit inappropriate websites and be exposed to unwanted risks. COPPA, the Children’s Online Privacy Protection Act, protects children under the age of 13 from the online collect of personal information. For more information about the Children’s Online Privacy Protection Act visit the FTC website at [http://www.ftc.gov/ .](http://www.northwestsavingsbank.com/notice.htm?http:www.ftc.gov/)
 
   
 **SITE LINK DISCLAIMER**
 
-Through our Bank's Website, we provide links to other World Wide Web sites or resources. Northwest Savings Bank is not responsible for the availability of such external sites or resources and does not endorse and is not responsible or liable, directly or indirectly of any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
+Through our Bank's Website, we provide links to other World Wide Web sites or resources. Northwest Bank is not responsible for the availability of such external sites or resources and does not endorse and is not responsible or liable, directly or indirectly of any damage or loss caused or alleged to be caused by or in connection with use of or reliance on any such content, goods or services available on or through any such site or resource.
 
   
 **DO NOT CALL POLICY**
 
-  * Northwest Savings Bank (NSB) complies with the law and regulations and is committed to protecting and respecting consumers' rights to privacy.
-  * NSB maintains a record of the name and telephone number(s) (both customers and non-customers) will be added to the NSB Internal Do Not Call List within five (5) business days of receipt of such request.  This record will be retained for at least five (5) years.
-  * Consumers are responsible for notifying NSB of any changes in name or telephone number if they move or wish to place a new telephone number on the NSB Internal Do Not Call List.  Consumers are responsible for notifying NSB if there is more than one telephone line or number that they wish to place on the NSB Internal Do Not Call List.
+  * Northwest Bank (NB) complies with the law and regulations and is committed to protecting and respecting consumers' rights to privacy.
+  * NB maintains a record of the name and telephone number(s) (both customers and non-customers) will be added to the NB Internal Do Not Call List within five (5) business days of receipt of such request.  This record will be retained for at least five (5) years.
+  * Consumers are responsible for notifying NB of any changes in name or telephone number if they move or wish to place a new telephone number on the NB Internal Do Not Call List.  Consumers are responsible for notifying NSB if there is more than one telephone line or number that they wish to place on the NSB Internal Do Not Call List.
   * Consumers have additional avenues to them which will help reduce or eliminate unwanted telephone solicitations.  Consumers may place their telephone number(s) on the National Do Not Call Registry by calling 1-888-382-1222 or online at [http://www.donotcall.gov/](http://www.northwestsavingsbank.com/notice.htm?http://www.donotcall.gov/).  The Direct marketing Association also offers a free service called "Telephone Preference Service".  Consumers may register for this service online at [http://www.dmaconsumers.org/](http://www.northwestsavingsbank.com/notice.htm?http://www.dmaconsumers.org/) or by sending a written request to:
 
 
@@ -104,8 +104,8 @@ Direct Marketing Association
 P.O. Box 1559  
 Carmel, NY  10512**
 
-  * As a general rule, NSB does not currently engage in telemarketing activities.  However, NSB has established and implemented written procedures to honor consumers' requests that they not be solicited, and appropriate personnel have received training.  Procedures include consultation of both the National Do Not Call Registry and the NSB Internal Do Not Call List prior to making any telephone solicitation.
-  * Telephone solicitation calls to consumers with whom NSB has an established business relationship are permitted unless they have asked to be included on the NSB Internal Do Not Call List.  Calling customers regarding their existing accounts with NSB does not constitute a telephone solicitation call.
+  * As a general rule, NB does not currently engage in telemarketing activities.  However, NB has established and implemented written procedures to honor consumers' requests that they not be solicited, and appropriate personnel have received training.  Procedures include consultation of both the National Do Not Call Registry and the NB Internal Do Not Call List prior to making any telephone solicitation.
+  * Telephone solicitation calls to consumers with whom NB has an established business relationship are permitted unless they have asked to be included on the NB Internal Do Not Call List.  Calling customers regarding their existing accounts with NB does not constitute a telephone solicitation call.
   * No unsolicited facsimile solicitations will be initiated.
   * Consumers may request a copy of the Policy.  Upon receipt of request, we will send a copy via U.S. mail within a reasonable time period of thirty (30) days.
   * If you have any questions or comments regarding NSB's Do Not Call Policy, you may contact:
@@ -113,16 +113,16 @@ Carmel, NY  10512**
 
 
 **Compliance Department - Do Not Call List  
-Northwest Savings Bank  
+Northwest Bank  
 P.O. Box 128  
 Warren, PA  16365**
 
 **EMAIL POLICY**
 
-Northwest Savings Bank (Northwest) complies with the law and regulations and is committed to protecting and respecting consumer’s rights to privacy.  Northwest will use email to provide the most relevant information regarding Northwest products and services.
+Northwest Bank (Northwest) complies with the law and regulations and is committed to protecting and respecting consumer’s rights to privacy.  Northwest will use email to provide the most relevant information regarding Northwest products and services.
 
 To protect your privacy, messages from Northwest will never ask you for any information through an email requesting that you provide personal information to us such as account number, social security number or driver license number. If you receive an email appearing to be from Northwest requesting personal information, please do not respond and contact our Security Department immediately at 1-877-672-5678.
 
 If you prefer not to receive email offers for products or services from Northwest’s Marketing Department, you must send an email to [unsubscribe@nwbcorp.com](mailto:unsubscribe@nwbcorp.com) with “No Promotional Emails” in the SUBJECT line.  Northwest will honor your request within thirty (30) days of receipt.
 
-If you have any general questions regarding our Email Policy or our Privacy Policy, please contact Northwest Savings Bank, Compliance Department, 100 Liberty Street, Warren, PA 16365 or email [nwsbinfo@nwbcorp.com](mailto:nwsbinfo@nwbcorp.com) or call 1-877-672-5678.
+If you have any general questions regarding our Email Policy or our Privacy Policy, please contact Northwest Bank, Compliance Department, 100 Liberty Street, Warren, PA 16365 or email [nwsbinfo@nwbcorp.com](mailto:nwsbinfo@nwbcorp.com) or call 1-877-672-5678.
