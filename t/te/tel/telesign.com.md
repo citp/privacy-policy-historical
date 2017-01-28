@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130172334id_/https%3A//www.telesign.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the telesign.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128141050id_/https%3A//www.telesign.com/privacy-notice) for the most accurate reproduction.*
 
-# Privacy Notice - TeleSign
+# Privacy Notice | TeleSign
 
 TeleSign’s Privacy Notice (telesign.com)
 
