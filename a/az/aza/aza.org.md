@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406030820id_/https%3A//www.aza.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aza.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128215235id_/https%3A//www.aza.org/privacy-policy) for the most accurate reproduction.*
 
-# Association of Zoos and Aquariums - Privacy Statement for www.aza.org
+# Privacy Policy
 
 Thank you for visiting our website. We respect your privacy. This Privacy Policy governs the URL http://www.AZA.org, <http://engage.aza.org/> and http://lists.aza.org/cgi-bin/mailman/listinfo (hereafter the "Site"). By accessing this Site, you agree to the terms set forth in this Privacy Policy.
 
@@ -8,7 +8,7 @@ Thank you for visiting our website. We respect your privacy. This Privacy Policy
 
 Our postal address is: 8403 Colesville Rd, Ste. 710, Silver Spring, MD 20910
 
-We can be reached via e-mail at [generalinquiry@aza.org](mailto:G.e.n.e.r.a.l.I.n.q.u.i.r.y@aza.org) or you can reach us by telephone at 301-562-0777.
+We can be reached via e-mail at [generalinquiry@aza.org](mailto:G.e.n.e.r.a.l.I.n.q.u.i.r.y@aza.org) or you can reach us by telephone at 301-562-0777.
 
 This Site is owned and operated by AZA for the benefit of its members and other visitors interested in zoos and aquariums. Our headquarters is located at 8403 Colesville Road, Suite 710, Silver Spring, Maryland 20910-3314. AZA reserves the right to modify or amend this Privacy Policy at any time and for any reason, without notice.
 
