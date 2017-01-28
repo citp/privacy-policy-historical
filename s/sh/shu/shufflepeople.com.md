@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shufflepeople.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014100257id_/https%3A//www.zoosk.com/privacy%3Ffrom%3Dsignup) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shufflepeople.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128165128id_/https%3A//www.zoosk.com/privacy%3Ffrom%3Dfooter) for the most accurate reproduction.*
 
 # Zoosk > Terms & Policies | Privacy Policy
 
