@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the tiresize.com privacy policy that was archived on 2016-04-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160419203634id_/https%3A//tiresize.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tiresize.com privacy policy that was archived on 2017-01-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170128101553id_/https%3A//tiresize.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <title>Privacy Policy</title>
     <meta name="description" content="Privacy Policy for TireSize.com. Read our privacy policy to understand our use of cookies and other privacy issues.">
-    <meta name="viewport" content="width=1088">
-    <link href="/css/main.css" type="text/css" rel="stylesheet">
-    <link rel="shortcut icon" href="/images/fav.ico">
     <link rel="canonical" href="https://tiresize.com/privacy-policy/">
-    <meta property="og:image" content="/images/fblogo.jpg">
+    <meta name="viewport" content="width=1100">
+    <link href="/css/stylesheet.css" rel="stylesheet" type="text/css">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
+	<meta property="og:image" content="https://tiresize.com/images/fbshare.jpg">
 <script async="" src="//www.google-analytics.com/analytics.js"></script><script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -19,39 +19,63 @@
   ga('create', 'UA-35107301-2', 'auto');
   ga('send', 'pageview');
 </script>
+
 <script>
+var g = function(id){return document.getElementById(id)};
 function setCookie(c_name,value,exdays){var exdate=new Date();exdate.setDate(exdate.getDate() + exdays);var c_value=escape(value) + ((exdays==null) ? "" : ";expires="+exdate.toUTCString());document.cookie=c_name + "=" + c_value+";path=/";}
 function getCookie(c_name){var i,x,y,ARRcookies=document.cookie.split(";");for (i=0;i<ARRcookies.length;i++){x=ARRcookies[i].substr(0,ARRcookies[i].indexOf("="));y=ARRcookies[i].substr(ARRcookies[i].indexOf("=")+1);x=x.replace(/^\s+|\s+$/g,"");if (x==c_name){return unescape(y);}}}
-var http1 = false;if(navigator.appName == "Microsoft Internet Explorer") {http1 = new ActiveXObject("Microsoft.XMLHTTP");} else {http1 = new XMLHttpRequest();}
-var display=getCookie("view");
-if (display=="desktop"){viewport=document.querySelector("meta[name=viewport]");viewport.setAttribute('content','width=1088');}
-if (window.matchMedia("(min-width: 768px)").matches) {viewport=document.querySelector("meta[name=viewport]");viewport.setAttribute('content','width=1088');}
+var http1 = false;var http1 = new XMLHttpRequest();
+if (window.matchMedia("(min-width: 768px)").matches) {viewport=document.querySelector("meta[name=viewport]");viewport.setAttribute('content','width=1100');}
 </script>
 
-</head>
+<style>
+@media (min-width:768px){
+#Content {width:auto;float:none}
+#SideBar {display:block;width:auto}
+.sidead {width:728px;height:90px}
+#sideright {width:auto}
+#sideleft {width:auto}
+.sidebox a {width:178px}
+#manulogos {text-align:center}
+.manubutton {width:168px;margin:5px}
+#text {padding:5px}
+}
+</style></head>
+
 <body>
+<div id="Wrap">
 <div id="HeaderBack">
-<div id="Header">
-<div id="Logo"><a href="https://tiresize.com/"><img src="/images/tsclogo.jpg" alt="tiresize.com"></a></div>
-<div id="Title"><h1>Privacy Policy</h1></div>
-<div id="dropdown" onclick="menuopen()"><div id="line1"></div><div id="line2"></div><div id="line3"></div></div>
-<div id="MenuWrapper">
-<div class="newmenu"><a href="/calculator/">Tire Size Calculator</a></div>
-<div class="newmenu"><a href="/comparison/">Tire Size Comparison</a></div>
-<div class="newmenu"><a href="/chart/">Tire Size Chart</a></div>
-<div class="newmenu hide"><a onclick="scrollToCar()">Tires By Vehicle</a></div>
-<div class="newmenu"><a href="/tires/">Tire Brands</a></div>
-<div class="newmenu"><a href="/how-to-read-tire-size/">How To Read Tires</a></div>
+<header id="Header">
+<div id="Logo"><a href="https://tiresize.com/"><img src="/images/tsclogo.png" alt="tiresize.com"></a></div>
+<div id="signin">
+<div><a href="/buying-tires-online/">Why Buy Tires Online?</a><a href="/deals/">Tire Deals/Promos</a><a href="/rides/">Readers Rides</a></div>
+<a id="facebook" href="https://www.facebook.com/TireSize/" target="_blank"></a><a id="instagram" href="https://www.instagram.com/tiresize/" target="_blank"></a><a id="google" href="https://plus.google.com/+tiresize" target="_blank"></a>
+</div>
+<nav id="MenuWrapper">
+<div class="dd"><a href="/calculator/">Tire Size Calculator</a></div>
+<div class="dd"><a href="/comparison/">Tire Size Comparison</a></div>
+<div class="dd"><a href="/chart/">Tire Size Chart</a></div>
+<div class="dd"><a id="dd3" onclick="dropDown(3)">More Size Tools <span class="spin" id="dspin3"></span></a>
+<div class="ddcontent" id="ddcontent3"></div>
+</div>
+<div class="dd"><a id="dd1" onclick="dropDown(1)">Tires <span class="spin" id="dspin1"></span></a>
+<div class="ddcontent" id="ddcontent1"><a onclick="carmenuOpen();ShowV('v');dropUp(1);ga('send','event','Menu','ByVehicle')">By Vehicle</a><a onclick="carmenuOpen();ShowV('s');dropUp(1);ga('send','event','Menu','BySize')">By Size</a><a onclick="carmenuOpen();ShowV('d');dropUp(1);ga('send','event','Menu','ByDiameter')">By Diameter</a><a href="/tires/">By Brand</a><a href="/tiretypes/">By Type</a></div>
+</div>
+<div class="dd"><a id="dd2" onclick="dropDown(2)">Education <span class="spin" id="dspin2"></span></a>
+<div class="ddcontent" id="ddcontent2"><a href="/how-to-read-tire-size/">How to Read Tires</a><a href="/tread-depth/">Tire Tread Depth</a><a href="/tire-size-meaning/">Tire Size Meaning</a><a href="/faq/">FAQ</a></div>
+</div>
+</nav>
+</header>
+<div id="dropdown" onclick="menuOpen()"><div id="line1"></div><div id="line2"></div><div id="line3"></div></div>
+<div id="CarSearch" onclick="carmenuOpen()">Search By</div>
 </div>
 
-
-</div>
-</div>
-<div id="HeaderBack2"></div>
 <div id="WrapWrapper">
 <div id="Wrapper">
+<div id="CalcTitle"><h1>Privacy Policy</h1></div>
+
+<div id="TopWrap"></div>
 <div id="Content">
-<br><br>
 <div id="text">
 <p><b> Privacy Policy for tiresize.com </b></p>
 <p> If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at info@tiresize.com. </p><br>
@@ -69,7 +93,6 @@ if (window.matchMedia("(min-width: 768px)").matches) {viewport=document.querySel
 <br> Link Share
 <br> Amazon
 <br> Ebay Partner Network
-<br> Impact Radius
 <br> <br> </p>
 <p> These third-party ad servers or ad networks use technology to the advertisements and links that appear on tiresize.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. Tiresize.com has no access to or control over these cookies that are used by third-party advertisers. </p>
 <br><p> You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. Tiresize.com's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. </p>
@@ -77,29 +100,17 @@ if (window.matchMedia("(min-width: 768px)").matches) {viewport=document.querySel
 </div>
 
 </div><!-- close content-->
-<div id="SideBar">
-<div id="Social">
-<a id="facebook" href="https://www.facebook.com/TireSize/" target="_blank"></a>
-<a id="instagram" href="https://www.instagram.com/tiresize/" target="_blank" onclick="ga('send','event','Instagram','CalcPage')"></a>
-<a id="google" href="https://plus.google.com/b/109761639976399600459/109761639976399600459/posts" target="_blank"></a>
+<div id="Vehicle">
+<div id="Xout" onclick="carmenuClose()"></div>
+<div id="choice">
+<a id="bv" onclick="ShowV('v')">Tires By Vehicle</a>
+<a id="bs" onclick="ShowV('s')">By Size</a>
+<a id="bd" onclick="ShowV('d')">By Diameter</a>
 </div>
-
-<div class="sidead">
-<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-<!-- Responsive All Side -->
-<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8010867657956612" data-ad-slot="7266828249" data-ad-format="auto" data-language="en"></ins>
-<script>
-(adsbygoogle = window.adsbygoogle || []).push({});
-</script>
-</div>
-
-<div id="bycar">
-<div class="carsidebox">
-<h2 onclick="ShowVehicles()" class="sbtitles">Browse Tires By Vehicle</h2>
-<div id="sidevehicles">
+<div id="searchchoice">
 <div id="make">
 <select id="makeselect" onchange="GetYear()">
-<option>Select Make</option>
+<option value="Select Make">Select Make</option>
 <option value="Acura">Acura</option>
 <option value="Alfa Romeo">Alfa Romeo</option>
 <option value="American Motors">American Motors</option>
@@ -167,265 +178,365 @@ if (window.matchMedia("(min-width: 768px)").matches) {viewport=document.querySel
 </div>
 
 <div id="year">
-<select id="yearselect" onchange="GetModel()">
+<select id="yearselect">
 <option>Select Year</option>
 </select>
 </div>
 
 <div id="model">
-<select id="modelselect" onchange="GetSubModel()">
+<select id="modelselect">
 <option>Select Model</option>
 </select>
 </div>
 
 <div id="submodel">
-<select id="submodelselect" onchange="GetPattern()">
+<select id="submodelselect">
 <option>Select Option</option>
 </select>
 </div>
-<div id="getpattern"></div>
-</div>
 </div>
 </div>
 
+<div id="goTop" onclick="slideMenu('goTop')"></div>
+
+<div id="SideBar">
+<div class="sidead">
+<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<!-- Responsive All Side -->
+<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-8010867657956612" data-ad-slot="7266828249" data-ad-format="auto" data-language="en"></ins>
+<script>
+(adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+</div>
 <div id="sideright">
-<div class="sidebox">
-<h5 onclick="ShowHelp()" class="sbtitles">Tire Size Help</h5>
+
+<div class="sidebox" id="sbhelp">
+<div onclick="ShowHelp()" class="sbtitles" id="showHelp">Tire Size Tools</div>
 <div id="sidehelp">
-<a href="/speedometer-calibration/">Speedo Calibration</a>
-<a href="/bolt-pattern-finder/">Bolt Pattern Finder</a>
-<a href="/gear-ratio-calculator/">Gear Ratio Calculator</a>
-<a href="/tiresizes/">All Tire Sizes</a>
-<a href="/height-calculator/">Tire Height Calculator</a>
-<a href="/converter/">Tire Size Converter</a>
-<a href="/metric-tire-conversion/">Metric Tire Conversion</a>
-<a href="/tread-depth/">Tire Tread Depth</a>
-<a href="/low-profile-tires/">Low Profile Tires</a>
-<a href="/wheels/">Wheels</a>
+<a href="/converter/">Tire Size Converter</a><a href="/speedometer-calibration/">Speed Calibration</a><a href="/gear-ratio-calculator/">Gear Ratio Calculator</a><a href="/wheel-offset-calculator/">Wheel Offset Calculator</a><a href="/conversion-chart/">Tire Conversion Chart</a><a href="/bolt-pattern-finder/">Bolt Pattern Finder</a><a href="/height-calculator/">Tire Height Calculator</a><a href="/metric-tire-conversion/">Metric Tire Conversion</a><a href="/tyre-size-calculator/">Tyre Size Calculator</a><a href="/height-chart/">Tire Height Chart</a><a href="/tiresizes/">All Tire Sizes</a><a href="/wheels/">Wheels</a>
 </div>
 </div>
 
-<div class="sidebox">
-<h5 onclick="ShowCats()" class="sbtitles">Tire Categories</h5>
+<div class="sidebox" id="sbcats">
+<div onclick="ShowCats()" class="sbtitles" id="showCats">Tire Categories</div>
 <div id="sidecats">
-<a href="/tiretypes/Summer.htm">Summer</a>
-<a href="/tiretypes/All-Season.htm">All Season</a>
-<a href="/tiretypes/All-Terrain.htm">All Terrain</a>
-<a href="/tiretypes/Winter.htm">Winter</a>
-<a href="/tiretypes/Truck-SUV-Summer.htm">Truck/SUV Summer</a>
-<a href="/tiretypes/Truck-SUV-All-Season.htm">Truck/SUV Season</a>
-<a href="/tiretypes/Truck-SUV-Winter.htm">Truck/SUV Winter</a>
-<a href="/tiretypes/Off-Road-Mud-Terrain.htm">Off Road/Mud Terrrain</a>
-<a href="/tiretypes/Studdable.htm">Studdable</a>
-<a href="/tiretypes/Truck-SUV-Studdable.htm">Truck/SUV Studdable</a>
-<a href="/tiretypes/Street-Racetrack.htm">Street/Racetrack</a>
-<a href="/tiretypes/Trailer.htm">Trailer</a>
+<a href="/tiretypes/Summer.htm">Summer</a><a href="/tiretypes/All-Season.htm">All Season</a><a href="/tiretypes/All-Terrain.htm">All Terrain</a><a href="/tiretypes/Winter.htm">Winter</a><a href="/tiretypes/Truck-SUV-Summer.htm">Truck/SUV Summer</a><a href="/tiretypes/Truck-SUV-All-Season.htm">Truck/SUV Season</a><a href="/tiretypes/Truck-SUV-Winter.htm">Truck/SUV Winter</a><a href="/tiretypes/Off-Road-Mud-Terrain.htm">Off Road/Mud Terrrain</a><a href="/tiretypes/Studdable.htm">Studdable</a><a href="/tiretypes/Truck-SUV-Studdable.htm">Truck/SUV Studdable</a><a href="/tiretypes/Street-Racetrack.htm">Street/Racetrack</a><a href="/cheap-mud-tires/">Cheap Mud Tires</a><a href="/cheap-off-road-tires/">Cheap Off Road Tires</a><a href="/low-profile-tires/">Low Profile Tires</a>
 </div>
 </div>
 
-<div class="sidebox">
-<h5 onclick="ShowSizes()" class="sbtitles">Popular Sizes</h5>
+<div class="sidebox" id="sbsizes">
+<div onclick="ShowSizes()" class="sbtitles" id="showSizes">Popular Sizes</div>
 <div id="sidesizes">
-<a href="/tiresizes/32X11.50R15.htm">32X11.50R15</a>
-<a href="/tiresizes/285-75R16.htm">285/75R16</a>
-<a href="/tiresizes/285-70R17.htm">285/70R17</a>
-<a href="/tiresizes/33X12.50R15.htm">33X12.50R15</a>
-<a href="/tiresizes/275-60R20.htm">275/60R20</a>
-<a href="/tiresizes/265-70R17.htm">265/70R17</a>
-<a href="/tiresizes/265-75R16.htm">265/75R16</a>
-<a href="/tiresizes/35X12.50R17.htm">35X12.50R17</a>
-<a href="/tiresizes/255-85R16.htm">255/85R16</a>
-<a href="/tiresizes/33X12.50R18.htm">33X12.50R18</a>
-</div>
-</div>
-
-<div class="sidebox">
-<h5 onclick="ShowMore()" class="sbtitles">More Pages</h5>
-<div id="sidemore">
-<a href="/tiretypes/">Tire Types</a>
-<a href="/cheap-mud-tires/">Cheap Mud Tires</a>
-<a href="/tire-size-meaning/">Tire Size Meaning</a>
-<a href="/conversion-chart/">Tire Conversion Chart</a>
-<a href="/height-chart/">Tire Height Chart</a>
-<a href="/tyre-size-calculator/">Tyre Size Calculator</a>
-<a href="/cheap-off-road-tires/">Cheap Off Road Tires</a>
+<a href="/tiresizes/33-inch-tires/">33 Inch Tires</a><a href="/tiresizes/35-inch-tires/">35 Inch Tires</a><a href="/tiresizes/37-inch-tires/">37 Inch Tires</a><a href="/tiresizes/285-75R16.htm">285/75R16</a><a href="/tiresizes/265-70R17.htm">265/70R17</a><a href="/tiresizes/285-70R17.htm">285/70R17</a><a href="/tiresizes/275-70R18.htm">275/70R18</a><a href="/tiresizes/275-60R20.htm">275/60R20</a>
 </div>
 </div>
 </div>
 
 <div id="sideleft">
-<h5 onclick="ShowBrands()" class="sbtitles manuh5">Tire Brands</h5>
-<div id="manulogos">
-<a href="/tires/BFGoodrich/"><div class="manubutton BFGoodrich">BFGoodrich Tires</div></a>
-<a href="/tires/Goodyear/"><div class="manubutton Goodyear">Goodyear Tires</div></a>
-<a href="/tires/Nitto/"><div class="manubutton Nitto">Nitto Tires</div></a>
-<a href="/tires/Cooper/"><div class="manubutton Cooper">Cooper Tires</div></a>
-<a href="/tires/Toyo/"><div class="manubutton Toyo">Toyo Tires</div></a>
-<a href="/tires/Yokohama/"><div class="manubutton Yokohama">Yokohama Tires</div></a>
-<a href="/tires/Kumho/"><div class="manubutton Kumho">Kumho Tires</div></a>
-<a href="/tires/Michelin/"><div class="manubutton Michelin">Michelin Tires</div></a>
-<a href="/tires/Bridgestone/"><div class="manubutton Bridgestone">Bridgestone Tires</div></a>
-<a href="/tires/Hankook/"><div class="manubutton Hankook">Hankook Tires</div></a>
-<a href="/tires/Maxxis/"><div class="manubutton Maxxis">Maxxis Tires</div></a>
-<a href="/tires/Interco-Super-Swamper/"><div class="manubutton IntercoSuperSwamper">Super Swamper Tires</div></a>
-<a href="/tires/Pro-Comp/"><div class="manubutton ProComp">Pro Comp Tires</div></a>
-<a href="/tires/General/"><div class="manubutton General">General Tires</div></a>
-<a href="/tires/Mickey-Thompson/"><div class="manubutton MickeyThompson">Mickey Thompson Tires</div></a>
-<a href="/tires/Dick-Cepek/"><div class="manubutton DickCepek">Dick Cepek Tires</div></a>
-<a href="/tires/Firestone/"><div class="manubutton Firestone">Firestone Tires</div></a>
-<a href="/tires/Fierce/"><div class="manubutton Fierce">Fierce Tires</div></a>
-<a href="/tires/Falken/"><div class="manubutton Falken">Falken Tires</div></a>
-<a href="/tires/Nexen/"><div class="manubutton Nexen">Nexen Tires</div></a>
-<a href="/tires/Pirelli/"><div class="manubutton Pirelli">Pirreli Tires</div></a>
-<a href="/tires/Dunlop/"><div class="manubutton Dunlop">Dunlop Tires</div></a>
-<a href="/tires/Continental/"><div class="manubutton Continental">Continental Tires</div></a>
-<a href="/tires/Sumitomo/"><div class="manubutton Sumitomo">Sumitomo Tires</div></a>
-<a href="/tires/Uniroyal/"><div class="manubutton Uniroyal">Uniroyal Tires</div></a>
-<a href="/tires/Fuzion/"><div class="manubutton Fuzion">Fuzion Tires</div></a>
-<a href="/tires/Hoosier/"><div class="manubutton Hoosier">Hoosier Tires</div></a>
-<a href="/tires/Avon/"><div class="manubutton Avon">Avon Tires</div></a>
-</div>
+<div onclick="ShowBrands()" class="sbtitles manuh5" id="showBrands">Tire Brands</div>
+<div id="manulogos"><a class="manubutton BFGoodrich" href="/tires/BFGoodrich/">BFGoodrich Tires</a><a class="manubutton Goodyear" href="/tires/Goodyear/">Goodyear Tires</a><a class="manubutton Nitto" href="/tires/Nitto/">Nitto Tires</a><a class="manubutton Cooper" href="/tires/Cooper/">Cooper Tires</a><a class="manubutton Toyo" href="/tires/Toyo/">Toyo Tires</a><a class="manubutton Yokohama" href="/tires/Yokohama/">Yokohama Tires</a><a class="manubutton Kumho" href="/tires/Kumho/">Kumho Tires</a><a class="manubutton Michelin" href="/tires/Michelin/">Michelin Tires</a><a class="manubutton Bridgestone" href="/tires/Bridgestone/">Bridgestone Tires</a><a class="manubutton Hankook" href="/tires/Hankook/">Hankook Tires</a><a class="manubutton Maxxis" href="/tires/Maxxis/">Maxxis Tires</a><a class="manubutton ProComp" href="/tires/Pro-Comp/">Pro Comp Tires</a><a class="manubutton General" href="/tires/General/">General Tires</a><a class="manubutton MickeyThompson" href="/tires/Mickey-Thompson/">Mickey Thompson Tires</a><a class="manubutton DickCepek" href="/tires/Dick-Cepek/">Dick Cepek Tires</a><a class="manubutton Firestone" href="/tires/Firestone/">Firestone Tires</a><a class="manubutton Federal" href="/tires/Federal/">Federal Tires</a><a class="manubutton Falken" href="/tires/Falken/">Falken Tires</a><a class="manubutton Pirelli" href="/tires/Pirelli/">Pirreli Tires</a><a class="manubutton Mastercraft" href="/tires/Mastercraft/">Mastercraft Tires</a><a class="manubutton Atturo" href="/tires/Atturo/">Atturo Tires</a><a class="manubutton Dunlop" href="/tires/Dunlop/">Dunlop Tires</a><a class="manubutton IntercoSuperSwamper" href="/tires/Interco-Super-Swamper/">Super Swamper Tires</a><a class="manubutton Continental" href="/tires/Continental/">Continental Tires</a><a class="manubutton Fierce" href="/tires/Fierce/">Fierce Tires</a><a class="manubutton Hercules" href="/tires/Hercules/">Hercules Tires</a><a class="manubutton Sumitomo" href="/tires/Sumitomo/">Sumitomo Tires</a><a class="manubutton Nexen" href="/tires/Nexen/">Nexen Tires</a><a class="manubutton Uniroyal" href="/tires/Uniroyal/">Uniroyal Tires</a><a class="manubutton Fuzion" href="/tires/Fuzion/">FuzionTires</a><a class="manubutton Hoosier" href="/tires/Hoosier/">Hoosier Tires</a><a class="manubutton Avon" href="/tires/Avon/">Avon Tires</a></div>
 </div>
 
-</div>
-
+</div><!--- close sidebar-->
 </div><!--- close wrapper-->
-</div><!--- close wrapwrapper-->
 <div id="CreditWrapper">
-<div id="Credit">
-<div>&nbsp;© 2016 TireSize.com</div>
+<footer id="Credit">
+<div>&nbsp;© 2017 TireSize.com</div>
 <div><a href="/privacy-policy/">Privacy Policy</a></div>
 <div><a href="/terms-of-service/">Terms of Service</a></div>
 <div><a href="/contact/">Contact</a></div>
-<div><a onclick="mviewport()" style="cursor:pointer">Mobile View</a> | <a onclick="dviewport()" style="cursor:pointer">Desktop View</a></div>
+</footer>
 </div>
-</div>
-
-<!--
-<div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-
-<script src="https://apis.google.com/js/platform.js" async defer></script>
--->
-
-<script>
-function dviewport() {
-viewport=document.querySelector("meta[name=viewport]");
-viewport.setAttribute('content','width=1088');
-setTimeout(function(){
-if (confirm('Would you like to set the desktop view as your default?')){
-    var exdate=new Date();
-    exdate.setDate(exdate.getDate() + 30);
-    var c_value=escape('desktop') + ((30==null) ? "" : "; expires="+exdate.toUTCString());
-    document.cookie='view' + "=" + c_value+"; path=/";
-}
-},5000);
-}
-
-function mviewport() {
-viewport=document.querySelector("meta[name=viewport]");
-viewport.setAttribute('content','width=device-width,initial-scale=1');
-setTimeout(function(){
-if (confirm('Would you like to set the mobile view as your default?')){
-    var exdate=new Date();
-    exdate.setDate(exdate.getDate() + -1);
-    var c_value=escape('mobile') + ((-1==null) ? "" : "; expires="+exdate.toUTCString());
-    document.cookie='view' + "=" + c_value+"; path=/";
-}
-},5000);
-}
-</script>
 
 <script>
 function GetYear() {
-    var url="https://tiresize.com/cgi-bin/make.cgi";
-    var kv="&make="+document.getElementById('makeselect').value;
-    http1.abort();
-    http1.open("POST", url, true);
-    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8");
-    http1.setRequestHeader("Content-length", kv.length);
+	g('year').innerHTML='<br>please wait...';
+    var kv="make="+g('makeselect').value;
+    var url="/cgi-bin/newmake.cgi?";
+	url=url+kv;
+    http1.onreadystatechange=function(){if(http1.readyState == 4) {g('year').innerHTML=http1.responseText;}}
+    http1.open("GET", url, true);
+    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
     http1.send(kv);
-    http1.onreadystatechange=function() {
-        if(http1.readyState == 4) {document.getElementById('year').innerHTML=http1.responseText;}
-    }
 }
+
 function GetModel() {
-    var url="https://tiresize.com/cgi-bin/model.cgi";
-    var kv="&year="+document.getElementById('yearselect').value+"&make="+document.getElementById('makeselect').value;
-    http1.abort();
-    http1.open("POST", url, true);
-    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8");
-    http1.setRequestHeader("Content-length", kv.length);
-    http1.send(kv);
-    http1.onreadystatechange=function() {
-        if(http1.readyState == 4) {document.getElementById('model').innerHTML=http1.responseText;}
-    }
+	g('model').innerHTML='<br>please wait...';
+    var kv="year="+g('yearselect').value+"&make="+g('makeselect').value;
+    var url="/cgi-bin/newmodel.cgi?";
+	url=url+kv;
+    http1.onreadystatechange=function(){if(http1.readyState == 4) {g('model').innerHTML=http1.responseText;}}
+    http1.open("GET", url, true);
+    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    http1.send();
 }
+
 function GetSubModel() {
-    var url="https://tiresize.com/cgi-bin/submodel.cgi";
-    var kv="&year="+document.getElementById('yearselect').value+"&make="+document.getElementById('makeselect').value+"&model="+document.getElementById('modelselect').value;
-    http1.abort();
-    http1.open("POST", url, true);
-    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8");
-    http1.setRequestHeader("Content-length", kv.length);
-    http1.send(kv);
-    http1.onreadystatechange=function() {
-        if(http1.readyState == 4) {document.getElementById('submodel').innerHTML=http1.responseText;}
-    }
+	g('submodel').innerHTML='<br>please wait...';
+    var kv="year="+g('yearselect').value+"&make="+g('makeselect').value+"&model="+g('modelselect').value;
+    var url="/cgi-bin/newsubmodel.cgi?";
+	url=url+kv;
+    http1.onreadystatechange=function(){if(http1.readyState == 4) {g('submodel').innerHTML=http1.responseText;}}
+    http1.open("GET", url, true);
+    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    http1.send();
 }
+
 function GetPattern() {
-    var url="https://tiresize.com/cgi-bin/pattern.cgi";
-    var kv="&year="+document.getElementById('yearselect').value+"&make="+document.getElementById('makeselect').value+"&model="+document.getElementById('modelselect').value+"&submodel="+document.getElementById('submodelselect').value;
-    http1.abort();
-    http1.open("POST", url, true);
-    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded; charset=UTF-8");
-    http1.setRequestHeader("Content-length", kv.length);
-    http1.send(kv);
-    http1.onreadystatechange=function() {
-        if(http1.readyState == 4) {document.getElementById('getpattern').innerHTML=http1.responseText;}
-    }
+var ye=g('yearselect').value
+var ma=g('makeselect').value
+var mo=g('modelselect').value
+var sm=g('submodelselect').value
+    var kv="year="+ye+"&make="+ma+"&model="+mo+"&submodel="+sm;
+    var url="/cgi-bin/newpattern.cgi?";
+	url=url+kv;
+    http1.onreadystatechange=function(){if(http1.readyState == 4){document.location.href=http1.responseText;}}
+    http1.open("GET", url, true);
+    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    http1.send();
+ga('send', 'event', 'vehicle', ye+' '+ma+' '+mo+' '+sm);
 }
 
-function ShowVehicles(){document.getElementById('sidevehicles').style.display="block";document.getElementById('SideBar').getElementsByTagName('h2')[0].setAttribute('onclick','DontShowVehicles()');}
-function DontShowVehicles(){document.getElementById('sidevehicles').style.display="none";document.getElementById('SideBar').getElementsByTagName('h2')[0].setAttribute('onclick','ShowVehicles()');}
-function ShowHelp(){document.getElementById('sidehelp').style.display="block";document.getElementById('sideright').getElementsByTagName('h5')[0].setAttribute('onclick','DontShowHelp()');}
-function DontShowHelp(){document.getElementById('sidehelp').style.display="none";document.getElementById('sideright').getElementsByTagName('h5')[0].setAttribute('onclick','ShowHelp()');}
-function ShowCats(){document.getElementById('sidecats').style.display="block";document.getElementById('sideright').getElementsByTagName('h5')[1].setAttribute('onclick','DontShowCats()');}
-function DontShowCats(){document.getElementById('sidecats').style.display="none";document.getElementById('sideright').getElementsByTagName('h5')[1].setAttribute('onclick','ShowCats()');}
-function ShowSizes(){document.getElementById('sidesizes').style.display="block";document.getElementById('sideright').getElementsByTagName('h5')[2].setAttribute('onclick','DontShowSizes()');}
-function DontShowSizes(){document.getElementById('sidesizes').style.display="none";document.getElementById('sideright').getElementsByTagName('h5')[2].setAttribute('onclick','ShowSizes()');}
-function ShowMore(){document.getElementById('sidemore').style.display="block";document.getElementById('sideright').getElementsByTagName('h5')[3].setAttribute('onclick','DontShowMore()');}
-function DontShowMore(){document.getElementById('sidemore').style.display="none";document.getElementById('sideright').getElementsByTagName('h5')[3].setAttribute('onclick','ShowMore()');}
-function ShowBrands(){document.getElementById('manulogos').style.display="block";document.getElementById('sideleft').getElementsByTagName('h5')[0].setAttribute('onclick','DontShowBrands()');}
-function DontShowBrands(){document.getElementById('manulogos').style.display="none";document.getElementById('sideleft').getElementsByTagName('h5')[0].setAttribute('onclick','ShowBrands()');}
+function ShowHelp(){g('sidehelp').style.display="block";g('showHelp').setAttribute('onclick','DontShowHelp()');}
+function DontShowHelp(){g('sidehelp').style.display="none";g('showHelp').setAttribute('onclick','ShowHelp()');}
+function ShowCats(){g('sidecats').style.display="block";g('showCats').setAttribute('onclick','DontShowCats()');}
+function DontShowCats(){g('sidecats').style.display="none";g('showCats').setAttribute('onclick','ShowCats()');}
+function ShowSizes(){g('sidesizes').style.display="block";g('showSizes').setAttribute('onclick','DontShowSizes()');}
+function DontShowSizes(){g('sidesizes').style.display="none";g('showSizes').setAttribute('onclick','ShowSizes()');}
+function ShowMore(){g('sidemore').style.display="block";g('showMore').setAttribute('onclick','DontShowMore()');}
+function DontShowMore(){g('sidemore').style.display="none";g('showMore').setAttribute('onclick','ShowMore()');}
+function ShowBrands(){g('manulogos').style.display="block";g('showBrands').setAttribute('onclick','DontShowBrands()');}
+function DontShowBrands(){g('manulogos').style.display="none";g('showBrands').setAttribute('onclick','ShowBrands()');}
 
-function menuopen(){document.getElementById('MenuWrapper').style.cssText="display:block;height:192px";document.getElementById('dropdown').setAttribute('onclick','menuclose()');}
-function menuclose(){document.getElementById('MenuWrapper').style.cssText="display:none";document.getElementById('dropdown').setAttribute('onclick','menuopen()');}
-function scrollToCar() {ShowVehicles();document.getElementById('bycar').scrollIntoView();}
+
+function show(){
+var i;
+var trs=g("SizeTable").getElementsByTagName("tr");
+for(i = 0; i < trs.length; i++){trs[i].style.display="table-row"}
+}
+
+function menuOpen(){
+carmenuClose();
+window.scrollTo(0,0);
+g('WrapWrapper').style.cssText="-webkit-transform:translate3d(200px,0,0);transform:translate3d(200px,0,0)";
+g('MenuWrapper').style.cssText="-webkit-transform:translate3d(0px,0,0);transform:translate3d(0px,0,0)";
+g('dropdown').setAttribute('onclick','menuClose()');
+g('signin').style.cssText="-webkit-transform:translate3d(0px,0,0);transform:translate3d(0px,0,0)";
+g('HeaderBack').style.position="absolute"
+ga('send','event','MobileMenu','Open');
+}
+
+function menuClose(){
+if(window.innerWidth<768){
+g('WrapWrapper').style.cssText="-webkit-transform:translate3d(0,0,0);transform:translate3d(0,0,0)";
+g('MenuWrapper').style.cssText="-webkit-transform:translate3d(-200px,0,0);transform:translate3d(-200px,0,0)";
+g('HeaderBack').style.position="fixed";
+}
+g('dropdown').setAttribute('onclick','menuOpen()');
+g('signin').style.cssText="-webkit-transform:translate3d(-200px,0,0);transform:translate3d(-200px,0,0)";
+g('signin').style.cssText="";
+}
+
+function carmenuOpen(){
+menuClose();
+window.scrollTo(0,0);
+g('Vehicle').style.display="block";
+if(window.innerWidth<768){g('Vehicle').style.boxShadow="0px 0px 75px 75px #fff";g('Xout').innerHTML='<img src="/images/xout.png">'}
+g('CarSearch').setAttribute('onclick','carmenuClose()');
+if(window.innerWidth<768){ga('send','event','ShowByVehicle','Mobile')}else{ga('send','event','ShowByVehicle','Desktop')}
+}
+
+function carmenuClose(){
+g('Xout').innerHTML='';
+g('Vehicle').style.cssText="display:none";
+g('CarSearch').setAttribute('onclick','carmenuOpen()');
+}
+
+var SlideTop;
+var topPos;
+var count;
+
+function slideMenu(el,sp){
+topPos=g(el).offsetTop;
+if(sp==undefined){sp=150}
+if(topPos>10000){if(el=='goTop'){window.scrollTo(0,0)}else{window.scrollTo(0,topPos-=50)}
+}else{
+count=window.scrollY;
+if(el=='goTop'){SlideTop=setInterval(function(){moveUp(topPos,sp)},16);}
+else if(el=='help'){SlideTop=setInterval(function(){moveDown(480,sp)},16);}
+else if(el=='tourarrow'){SlideTop=setInterval(function(){moveDown(760,sp)},16);}
+else if(el=='Equivalent'){SlideTop=setInterval(function(){moveDown(530,sp)},16);}
+else if(el=='Viewer'){SlideTop=setInterval(function(){moveDown(510,sp)},16);}
+else if(el=='tire1'){if(g('comp1').offsetTop > 100){SlideTop=setInterval(function(){moveDown(990,sp)},16);}else{SlideTop=setInterval(function(){moveDown(800,sp)},16);}
+}else{
+SlideTop=setInterval(function(){moveDown(topPos,sp)},16);
+}
+}
+}
+
+function moveDown(topPos,sp,dir){
+count+=sp;
+window.scrollTo(0,count)
+if(count<=(topPos-=50)){}else{window.scrollTo(0,topPos);clearInterval(SlideTop)}
+}
+
+function moveUp(topPos,sp){
+count-=sp;
+window.scrollTo(0,count)
+if(count>=(0)){}else{window.scrollTo(0,0);clearInterval(SlideTop)}
+}
+
+function ShowV(v){
+var i;
+var vrs=g("choice").getElementsByTagName("a");
+for(i = 0; i < vrs.length; i++){vrs[i].style.backgroundColor="#25292e"}
+g('b'+v+'').style.backgroundColor="#404750";
+    var url="/includes/"+v+".htm";
+    http1.onreadystatechange=function(){if(http1.readyState == 4) {g('searchchoice').innerHTML=http1.responseText;}}
+    http1.open("GET", url, true);
+    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    http1.send();
+}
+function showRear(){
+if((g('size1select').options[g('size1select').selectedIndex].value == 'Select') || (g('size2select').options[g('size2select').selectedIndex].value == 'Select') || (g('wheelselect').options[g('wheelselect').selectedIndex].value == 'Select')){g('firstsize').innerHTML='Select Front<br>Size First'}else{
+g('getLink').href="#";g('rearsize').style.display="inline-block";g('showrear').innerHTML="Remove Rear Size?";g('showrear').setAttribute('onclick','hideRear()');
+if((g('size3select').options[g('size3select').selectedIndex].value != 'Select') && (g('size4select').options[g('size4select').selectedIndex].value != 'Select') && (g('wheelselect2').options[g('wheelselect2').selectedIndex].value != 'Select')){getStagLink()}
+}
+}
+function hideRear(){
+if((g('size1select').options[g('size1select').selectedIndex].value != 'Select') && (g('size2select').options[g('size2select').selectedIndex].value != 'Select') && (g('wheelselect').options[g('wheelselect').selectedIndex].value != 'Select')){getLink()}
+g('rearsize').style.display="none";g('showrear').innerHTML="Different Rear Size?";g('showrear').setAttribute('onclick','showRear()');
+}
+function getSize1(size1){
+	g('size2').innerHTML='<div class="wait">please wait...</div>';
+	g('getLink').href="#";
+	g('firstsize').innerHTML="";
+    var kv="size1="+size1;
+    var url="/cgi-bin/getsize1.cgi?";
+	url=url+kv;
+    http1.onreadystatechange=function(){
+	if(http1.readyState == 4) {g('size2').innerHTML=http1.responseText;}}
+    http1.open("GET", url, true);
+    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    http1.send();
+}
+function getSize2(size1,size2){
+	g('wheelsize').innerHTML='<div class="wait">please wait...</div>';
+	g('getLink').href="#";
+	g('firstsize').innerHTML="";
+    var kv="size1="+size1+"&size2="+size2;
+    var url="/cgi-bin/getsize2.cgi?";
+	url=url+kv;
+    http1.onreadystatechange=function(){
+	if(http1.readyState == 4) {g('wheelsize').innerHTML=http1.responseText;}}
+    http1.open("GET", url, true);
+    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    http1.send();
+}
+function getSize3(size1){
+	g('size4').innerHTML='<div class="wait">please wait...</div>';
+	g('getLink').href="#";
+    var kv="size1="+size1;
+    var url="/cgi-bin/getsize3.cgi?";
+	url=url+kv;
+    http1.onreadystatechange=function(){
+	if(http1.readyState == 4) {g('size4').innerHTML=http1.responseText;}}
+    http1.open("GET", url, true);
+    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    http1.send();
+}
+function getSize4(size1,size2){
+	g('wheelsize2').innerHTML='<div class="wait">please wait...</div>';
+	g('getLink').href="#";
+    var kv="size1="+size1+"&size2="+size2;
+    var url="/cgi-bin/getsize4.cgi?";
+	url=url+kv;
+    http1.onreadystatechange=function(){
+	if(http1.readyState == 4) {g('wheelsize2').innerHTML=http1.responseText;}}
+    http1.open("GET", url, true);
+    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    http1.send();
+}
+function getLink(){
+g('firstsize').innerHTML="";
+g('rearsize').style.display="none";
+g('showrear').innerHTML="Different Rear Size?";
+g('showrear').setAttribute('onclick','showRear()');
+	var size1=g('size1select').options[g('size1select').selectedIndex].value;
+	var size2=g('size2select').options[g('size2select').selectedIndex].value;
+	var wheelsize=g('wheelselect').options[g('wheelselect').selectedIndex].value;
+	if(size1>100){var link=size1+'-'+size2+'R'+wheelsize+'.htm';}
+	if(size1<100){var link=size1+'X'+size2+'R'+wheelsize+'.htm';}
+	if((size1 != "Select") && (size2 != "Select") && (wheelsize != "Select")){
+    g('getLink').href="/tiresizes/"+link;
+    g('getLink').setAttribute("onclick","ga('send','event','VehicleSizeSearch','"+link+"')");
+    }
+}
+function getStagLink(){
+	var size1=g('size1select').options[g('size1select').selectedIndex].value;
+	var size2=g('size2select').options[g('size2select').selectedIndex].value;
+	var wheelsize=g('wheelselect').options[g('wheelselect').selectedIndex].value;
+	var size3=g('size3select').options[g('size3select').selectedIndex].value;
+	var size4=g('size4select').options[g('size4select').selectedIndex].value;
+	var wheelsize2=g('wheelselect2').options[g('wheelselect2').selectedIndex].value;
+	var link=size1+'-'+size2+'R'+wheelsize;
+	var link2=size3+'-'+size4+'R'+wheelsize2;
+	var link='size1='+link+'&size2='+link2;
+	if((size1 != "Select") && (size2 != "Select") && (wheelsize != "Select") && (size3 != "Select") && (size4 != "Select") && (wheelsize2 != "Select")){
+    g('getLink').href="/tiresizes/staggered/?"+link;
+    g('getLink').setAttribute("onclick","ga('send','event','VehicleStagSizeSearch','"+link+"')");
+    }else{g('getLink').href="#";g('getLink').setAttribute("onclick","");}
+}
 </script>
 
+<script>
+function dropDown(num){
+dropUp(1);dropUp(2);dropUp(3);
+if(num==3){
+    var url="/includes/tools.htm";
+    http1.onreadystatechange=function(){
+    if(http1.readyState == 4) {g('ddcontent3').innerHTML=http1.responseText;}}
+    http1.open("GET", url, true);
+    http1.setRequestHeader("Content-Type","application/x-www-form-urlencoded");
+    http1.send();
+}
+    g('ddcontent'+num+'').style.display="block";
+    g('signin').style.top="475px";
+    g('dspin'+num+'').style.transform="rotateX(180deg)";
+    setTimeout(function(){
+    g('dd'+num+'').setAttribute('onclick','dropUp('+num+')');
+    }, 100);
+//g('WrapWrapper').style.opacity=".5";
+g('WrapWrapper').setAttribute('onclick','dropUp('+num+')');
+}
 
-<!--
+function dropUp(num){
+    g('ddcontent'+num+'').style.display="none";
+    g('signin').style.top="275px";
+    g('dspin'+num+'').style.transform="rotateX(0deg)";
+    setTimeout(function(){
+    g('dd'+num+'').setAttribute('onclick','dropDown('+num+')');
+    }, 100);
+//g('WrapWrapper').style.opacity="1";
+g('WrapWrapper').setAttribute('onclick','');
+}
+</script>
+
 <script>
 var thePageTitle=document.title;
-var manus=document.getElementById("sideleft").getElementsByTagName('a');
-var links=document.getElementById("sideright").getElementsByTagName('a');
-var homelink=document.getElementById("Logo").getElementsByTagName('a');
-homelink[0].addEventListener('click', trackHome);
+var manus=g("sideleft").getElementsByTagName('a');
+var links=g("sideright").getElementsByTagName('a');
+var menulinks=g("Header").getElementsByTagName('a');
 for(i=0;i<manus.length;i++){manus[i].addEventListener('click', trackSidebar);}
 for(i=0;i<links.length;i++){links[i].addEventListener('click', trackSidebar);}
-function trackSidebar() {var linkclick=String(this);ga('send', 'event', 'Sidebar', thePageTitle, linkclick);}
-function trackHome() {ga('send', 'event', 'LogoLink', thePageTitle);}
+for(i=0;i<menulinks.length;i++){menulinks[i].addEventListener('click', trackMenu);}
+function trackSidebar() {var linkclick=String(this);linkclick=linkclick.replace("https://tiresize.com","");ga('send','event','Sidebar',linkclick,thePageTitle);}
+function trackMenu() {var menuclick=String(this);menuclick=menuclick.replace("https://tiresize.com","");ga('send','event','Menu',menuclick,thePageTitle);}
 </script>
--->
 
 
+</div><!--- close wrapwrapper-->
+</div>
 
 
 </body></html>
