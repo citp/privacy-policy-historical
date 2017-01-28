@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ametsoc.org privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107193407id_/https%3A//www.ametsoc.org/ams/index.cfm/privacy-policy-and-disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ametsoc.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128183159id_/https%3A//www.ametsoc.org/ams/index.cfm/privacy-policy-and-disclaimer) for the most accurate reproduction.*
 
 # Privacy Policy and Disclaimer - American Meteorological Society
 
