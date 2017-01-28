@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bcm.edu privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117101619id_/https%3A//www.bcm.edu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bcm.edu privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128193825id_/https%3A//www.bcm.edu/privacy) for the most accurate reproduction.*
 
 # Privacy | Baylor College of Medicine | Houston, Texas
 
@@ -37,6 +37,8 @@ Therefore, the following is Baylor College of Medicine's Internet Privacy Policy
   * You do not need to have cookies* enabled to visit bcm.edu.
 
 
+
+If you have questions, send them to [pa-webteam@bcm.edu](mailto:pa-webteam@bcm.edu).
 
 #### *Session Cookies and Persistent Cookies
 
