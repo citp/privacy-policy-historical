@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tastingtable.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531232937id_/http%3A//www.tastingtable.com/faq%23privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tastingtable.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128082101id_/http%3A//www.tastingtable.com/faq%23privacypolicy) for the most accurate reproduction.*
 
 # FAQ | Tasting Table
 
@@ -20,7 +20,7 @@ Occasionally we'll send you a Partner Tip email from one of our advertisers. The
 
 #### What Does the "Tested & Approved" Banner Mean?
 
-Every recipe we publish has been carefully tested by our food editor in the Tasting Table [Test Kitchen](http://tastingtable.com/kitchen) to ensure that each step of the process works smoothly—and that the final product tastes great. (It's a hard job, but someone's got to do it.) Keep an eye out for the "Tested & Approved" banner at the top right corner of recipe pages on [TastingTable.com.](http://www.tastingtable.com/)
+Every recipe we publish has been carefully tested by our food editor in the Tasting Table [Test Kitchen](http://tastingtable.com/kitchen) to ensure that each step of the process works smoothlyand that the final product tastes great. (It's a hard job, but someone's got to do it.) Keep an eye out for the "Tested & Approved" banner at the top right corner of recipe pages on [TastingTable.com.](http://www.tastingtable.com/)
 
 #### What is Tasting Table's Privacy Policy?
 
