@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cardschat.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022044323id_/https%3A//www.cardschat.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cardschat.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128175210id_/https%3A//www.cardschat.com/privacy-policy.php) for the most accurate reproduction.*
 
 # CardsChat.com Website Privacy Policy
 
