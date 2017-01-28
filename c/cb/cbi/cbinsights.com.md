@@ -1,15 +1,10 @@
-> *The following text is extracted and transformed from the cbinsights.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419224702id_/https%3A//www.cbinsights.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbinsights.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128124421id_/https%3A//www.cbinsights.com/privacy-policy) for the most accurate reproduction.*
 
 # CB Insights Privacy Policy
 
-* * *
-
-This privacy policy applies to your use of our website located at [http://www.cbinsights.com](http://www.cbinsights.com/) (the "Website"), but not does apply to any third party sites that may be linked to the Website. 
+This privacy policy applies to your use of our website located at [http://www.cbinsights.com](http://www.cbinsights.com/) (the "Website"), but not does apply to any third party sites that may be linked to the Website.
 
 The terms "we", "us","our" and "CBI" refer to CB Insights. The terms "you" and "your" refer to you, as a subscriber of our services. The term "personal information" means information that you provide to us which personally identifies you to be contacted or identified, such as your name, phone number, email address, and any other data that is tied to such information. BY USING OUR SERVICES, YOU AGREE TO BE BOUND BY THE TERMS OF THIS PRIVACY POLICY. IF YOU DO NOT AGREE WITH THESE TERMS, PLEASE DO NOT USE CBI.
-
-  
-
 
 ### Information We Collect and How We Use It
 
@@ -25,9 +20,6 @@ We may also collect certain non-personally identifiable information. Non-persona
 
 **Enforcement.**  We may use the information we collect in connection with your use of our services (including your personal information) in order to investigate, enforce, and apply our Terms of Service and Privacy Policy.
 
-  
-
-
 ### Disclosure of Information
 
 We may share your personal information with our parent company, subsidiaries, joint ventures, or other companies under a common control (collectively, "Affiliates") that we may have now or in the future, in which case we will require them to honor this Privacy Policy. If another company acquires our company or our assets, that company will possess your personal information, and will treat it in accordance with their Privacy Policy.
@@ -40,15 +32,9 @@ We may use third party advertising companies to serve ads when you visit our ser
 
 We reserve the right, and you specifically grant the right, for us to use your firm name, logo and/or url in our marketing and promotional materials and efforts.
 
-  
-
-
 ### Links
 
 The Website may contain links to third party websites to which we have no affiliation. Except as set forth herein, we do not share your personal information with those third parties, and are not responsible for their privacy practices. We suggest you read the privacy policies on all such third party websites.
-
-  
-
 
 ### Security
 
@@ -58,15 +44,9 @@ Although we take commercially reasonable measures to safeguard against unauthori
 
 You hereby acknowledge that we are not responsible for any intercepted information sent via the internet, and you hereby release us from any and all claims arising out of or related to the use of intercepted information in any unauthorized manner.
 
-  
-
-
 ### Terms and Modifications to this Privacy Policy
 
 We may modify this Privacy Policy at any time, and we will post any new versions on this page. If we make any material changes in the way we use your personal information, we will notify you by sending an e-mail to the last e-mail address you provided to us and/or by posting notice of the changes on the Website. Any such changes will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on our website. These changes will be effective immediately for new users of our service. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. In any event, changes to this Privacy Policy may affect our use of personal information that you provided us prior to our notification to you of the changes. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your account with us. Continued use of the Website following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.
-
-  
-
 
 ### Questions?
 
@@ -74,6 +54,6 @@ Please also feel free to contact us if you have any questions about this Privacy
 
 CB Information Services
 
-104 West 27th Street, Floor 3
+498 7th Avenue, Floor 17
 
-New York, NY 10001
+New York, NY 10018
