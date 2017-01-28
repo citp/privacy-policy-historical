@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420075504id_/https%3A//www.fatherly.com/sp/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fatherly.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128105547id_/https%3A//www.fatherly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fatherly
 
 ### Personal Information
 
-In order to supply you with Fatherly’s emails, we need your email address. Fatherly doesn’t collect any information except that expressly provided by you. We will not disclose your personal information to any third party without your consent, except as required to provide you with Fatherly material. Fatherly will never sell, rent, or share your personal information, including your email to any third parties for marketing purposes without your explicit consent.
+In order to supply you with Fatherly’s emails, we need your email address. Fatherly doesn’t collect any information except that expressly provided by you.
 
 ### Other Information
 
-Fatherly may also request additional information such as age, buying preferences, annual income, or other demographic or profile information. We use this information to better tailor our content and improve the experience on our site. We may also share this information with third parties, such as advertisers, but only in aggregate, anonymous form. No third party will receive information from us that personally identifies you or anyone else in any way.
+Fatherly may also request additional information such as age, buying preferences, annual income, or other demographic or profile information. We use this information to better tailor our content and improve the experience on our site. We may also share this information with third parties, such as advertisers, but only in aggregate, anonymous form.
 
 ### Usage Information
 
