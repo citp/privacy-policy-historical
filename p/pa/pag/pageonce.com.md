@@ -1,99 +1,158 @@
-> *The following text is extracted and transformed from the pageonce.com privacy policy that was archived on 2013-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130130011840id_/http%3A//www.pageonce.com/legal) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pageonce.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128213625id_/https%3A//www.mint.com/privacy) for the most accurate reproduction.*
 
-# Pageonce Money & Bills: Free Personal Finance App for Mobile
+# Privacy | Mint
 
-**3\. We protect the information we collect.**
+For customers of Mint.com and other Mint branded products and services (collectively "Mint"), this Mint Privacy Statement describes how Intuit, Inc., Intuit Payments Inc., and its subsidiaries and affiliates (collectively referred to as "we", "our" or "us") collect, use, share, and protect your information. Please read this notice carefully to understand what we do.
 
-We take very seriously the privacy of your personal information. We use firewall barriers, SSL 128-bit encryption techniques, and authentication procedures, among others, to maintain the security of your online session and to protect Pageonce accounts and systems from unauthorized access. We may also place cookies and similar files on your hard drive for purposes such as security, to facilitate site navigation, and to personalize your experience on our Site. Our cookies do not identify you by name as an individual or by account number except as described in this Privacy Policy. See the "How we use cookies" section below for more information. 
+This Privacy Statement does not apply to Mint or Intuit sites, services and products that do not display or link to this statement, or that have their own privacy statements. By using Mint.com, any Mint branded product or service, or by providing us your personal information, you agree to this Privacy Statement and agree to be bound by our the Mint Terms of Service. If you do not agree with any term in this Privacy Statement, please do not provide us your personal information or use any Mint branded site or service. 
 
-**4\. How we use the information we collect:**
+Intuit, Inc. ('Intuit') owns and operates Mint.com and other Mint products and services. Bill payment product features and services are provided by Intuit Payments, Inc., a subsidiary of Intuit, Inc. To learn more about Intuit's values, our commitment to your privacy, and the Intuit privacy program, go to <https://security.intuit.com/privacy/>.
 
-We may use the information you provide about yourself and about your Third Party Sites to fulfill your requests for our products, programs, and Services, to respond to your inquiries about our Services, and to offer you other products, programs, or services that we believe may be of interest to you. 
+## What is Personal Information?
 
-In order to allow you to use certain Services, we may be required to verify your identity. To do so, we may, directly or through third parties, use information you provide to order a credit report or to verify information you provide against third party databases or through other sources. We may also use your information to verify your identity in the event you contact us for assistance with the Sites or Services. 
+'Personal Information' means data that identifies you and is associated with a specific person. Personal information does not include information that is anonymous, aggregated, or is no longer identifiable to a specific person.  
 
-In connection with the Bill Payment Service, we may use information you provide on your funding accounts to complete transactions you request via the Bill Payment Service, to verify the existence and condition of your funding accounts, or to assist with the posting of a payment with a payee. We may use information you provide regarding a payee if you ask us to assist with posting of a payment at such payee. 
+## Information We Collect; How We Collect Your Personal Information
 
-We may use your information to pre-fill form fields on the Sites for your convenience. 
+We collect many kinds of information in order to operate effectively and provide you the best products, services and experiences we can. We collect information, including personal information, when you provide it to us, such as when you register or open an account, sign in, pay a bill, or call us for support. We may also automatically collect information when you use our sites and services. We also may get information from other companies or 3rd parties. We automatically collect information in a variety of ways, including from web forms, through technologies like cookies, web logging, and software on your computer or other device.
 
-We may use the checking account and credit card information you provide to confirm your accounts are valid and to access funds from your accounts pursuant to your instructions in connection with our Bill Payment Service or in connection with payment for Services that you subscribe to. 
+The types of personal information we collect and share depend on the product or service you have with us. This information can include:
 
-We may use the information you provide to make bill payments on your behalf if you participate in our Bill Payment Service. For example, if you use our Bill Payment Service, we will use the information you provide us regarding a third party that you receive bills from to verify the validity of your account with that biller and to route payments to that biller pursuant to your instructions, and we will use your payment account details to access the funds in your specified payment account in order to pay the bills that you request be paid to such biller. 
+Identification Info (e.g. name, Social Security number, phone, address); 
 
-We may use your payment account information to recommend the best payment source. For example, we may recommend that you use a specific credit card to pay a given bill because that card has the lowest APR. 
+Credit score and credit history; 
 
-We may use information you provide about Third Party Sites to provide the Services, which may include accessing the Third Party Sites you select on your behalf, so that we can present the requested information to you. 
+Account balances and payment/transaction history; 
 
-In certain situations, we may use or share your personal information:
+Registration info; 
 
-We may outsource some tasks to affiliated companies or third parties and may share your information with those companies or third parties if reasonably necessary to enable them to assist in fulfilling the requests you make or the transactions you conduct via the Sites, including the operation of certain Site functions and Services that require access to information you supply online. In such cases, if such affiliated companies or third parties acting on our behalf are given access to the information you have supplied to us, we require that the companies abide by our privacy policy and institute safeguards to protect the confidentiality of your information. 
+Bill and payment information; and
 
-We may use your information for internal analysis such as analyzing user behavior in aggregate for research and marketing purposes. Pageonce may also aggregate transaction data and disclose such data only in aggregate and in a non-personally identifiable manner to third parties for marketing and promotional purposes (e.g., how many users responded to a particular offer). Aggregated information does not identify you individually. 
+Any 3rd party data (such as your bank account information) synced with your account. 
 
-When you visit our Sites, we may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our Site. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our web design and functionality. 
+## How We Use Your Personal Information
 
-When you use the mobile versions of our Sites, we may collect the unique device identifier assigned to that device by phone makers, carriers, or makers of the operating system (the "Device ID"). Device IDs allow app developers, advertisers, and others to uniquely identify your device for purposes of storing application preferences and other data. We may use your Device ID for security purposes. For example, if you have activated a feature that limits access to a Service from a specific device, our systems will access the Device ID from each device you attempt to access the Service with to determine if the device is the specific authorized device. Additionally, we may use Device IDs to monitor suspicious activity. For example, if we detect that a single account on a Site is being accessed from multiple devices, as determined by tracking the Device IDs that access an account, we may contact the user to ensure that such access has been authorized by the user. Advertisements that appear to you via a Site may be delivered by third party advertisers who may access your Device ID, but we do not provide these advertisers any of your personal information. These advertisers may use the Device ID for purposes of determining appropriate advertisements to display to you on a Site. This Privacy Policy does not cover the use of Device IDs by any advertisers. 
+Mint uses the information we collect to operate, improve and personalize the products and services we offer. We also may use the information to communicate with you, for example, informing you about your account and security updates or to offer you products and services that might be of interest to you. And we may use the information to help make the ads you see on our ad-supported services more relevant. 
 
-Any feedback, questions, comments, suggestions, ideas, or the like that you send to Pageonce will be treated as being non- confidential and nonproprietary, and Pageonce will be free to use such information for any purpose whatsoever including, but not limited to, developing, manufacturing, and marketing products and services incorporating the information. 
+## Reasons Why We Share Personal Information; Your Right to Limit Sharing of Your Personal Information
 
-If our company or our assets are acquired by another company, or in the event of a merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation, we may transfer, sell, or assign to third parties information concerning your relationship with us, including, without limitation, personally identifiable information that you provide and other information concerning your relationship with us. Such third parties will assume responsibility for the personal information collected by us in connection with our business operations or through our Sites and such third parties will assume the rights and obligations regarding such information as described in this Privacy Policy. 
+We will not, without your consent, sell, publish or share information you entrust to us that identifies you or any person. 
 
-**5\. Emails from which you may "Opt-Out":**
+We may share your personal information as needed to complete any transaction or provide any service you have requested or authorized; with vendors or affiliates working on our behalf; or when required by law or to respond to legal process. 
 
-Pageonce complies with the Controlling the Assault of Non-Solicited Pornography and Marketing Act of 2003. Pageonce provides users periodic Site-related notifications, newsletters, or other information via email. Users may elect to stop receiving such messages at their discretion. If you no longer wish to receive periodic email updates from Pageonce, you may update your account preferences on the Site. You may also follow the unsubscribe instructions included in each promotional email. However, please note that certain Services-related email messages that we send users are necessary for the proper functioning and use of the Services, and users who participate in such Services do not have the ability to opt-out of such email messages. 
+We may also share or disclose your personal information with our affiliates and subsidiaries. We may share or disclose your personal information to protect our customers; to maintain the security of our services; to detect, prevent or report fraud, criminal activity, or violations of our terms of service/use; to protect the health and safety of our customers or the general public; and to protect our rights and property.
 
-**6\. Collection of information by third parties and sponsors:**
+All financial companies need to share customers' personal information to run their everyday business. In the table below, we list the reasons why financial companies can share their customers' personal information; the reasons we choose to share; and whether you can limit this sharing. When you are no longer our customer, we continue to share your information as described in this privacy statement.
 
-In certain cases, you may be directed to a third party site to provide information to complete a transaction in connection with one of our Sites (e.g., to purchase a subscription to a Service). In such cases, any information you provide to such third party sites directly to such third party will be subject to the applicable third party's privacy policy and terms of service. For example, for iPhone and iPad users of our Bill Payment Service, subscriptions to the Bill Payment Service are available as an in-app purchase through the Pageonce Money & Bills app, and such purchases are subject to Apple's applicable terms and conditions and privacy policy. For Android users of our Bill Payment Service, subscriptions to the Bill Payment Service are available via Plimus (or its successors or assigns), and such purchases are subject to Plimus's (or its successors' or assigns') applicable terms and conditions and privacy policy. 
+Reasons we can share your personal information  |  Do we share?  |  Can you limit this sharing?   
+---|---|---  
+For our everyday business purposes -  
+such as to process your transactions, maintain your account(s),  
+respond to court orders and legal investigations, or report to credit bureaus | YES | NO  
+For our marketing purposes - to offer our products and services to you | NO | NO  
+For joint marketing with other financial companies | YES  
+(But only If you agree to the joint marketing.) | NO  
+(Because we don't share unless you say it's okay.)  
+For our affiliates' everyday business purposes information about your transactions and experiences | YES | NO  
+For our affiliates' everyday business purposes information about your creditworthiness | YES | YES  
+For our affiliates to market to you | YES | NO  
+For non-affiliates to market to you | NO | NO  
+(Because we don't share unless you say it's okay.)  
+To limit our sharing  |  Call us at 1-888-536-4801. Visit us <https://www.mint.com/contact-mint> or email us at [privacy@intuit.com](mailto:privacy@intuit.com). Please note: If you are a new customer, we can begin sharing your information [30] days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice. However, you can contact us at any time to limit our sharing.   
+---|---  
+  
+"Affiliate" means companies related by common ownership or control. Affiliates can be financial and nonfinancial companies. Our affiliates include companies with the Intuit or Mint name (excluding, however, 'Quicken Loans' loans labeled products and services).  'Non-affiliates' means companies not related by common ownership or control. 'Joint marketing' means a formal agreement between nonaffiliated financial or non-financial companies that together market financial products or services to you. Our joint marketing partners include companies such as financial institutions, such as American Express and Chase. 
 
-Additionally, the Sites may contain links to other sites whose information practices may be different than ours. Visitors should consult the other sites' privacy notices, as we have no control over information that is submitted to, or collected by, these third parties. 
+## Other Important Information about Our Sharing Practices:
 
-The Sites may contain third party advertisements or offers that are complementary to your use of Pageonce that may be custom matched to you based on information you provided to the Site, queries made through the Site or other information. If you choose to use these separate products or services, disclose information to the providers, or grant them permission to collect information about you, then their use of your information is governed by their privacy policies. You should evaluate their practices before deciding to use their services. 
+Users with VT Mailing Address: We will not share your creditworthiness with our affiliates, except as permitted or required by applicable law.
 
-PAGEONCE DOES NOT CONTROL AND IS NOT RESPONSIBLE FOR WHAT THIRD PARTIES DO IN CONNECTION WITH THEIR WEBSITES, OR HOW THEY HANDLE YOUR PERSONAL INFORMATION. PLEASE EXERCISE CAUTION AND CONSULT THE PRIVACY POLICIES POSTED ON EACH THIRD PARTY WEBSITE FOR FURTHER INFORMATION. 
+Users with CA Mailing Address: We will not share information we collect about you with non-affiliates, unless the law allows.
 
-We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online promotions or determine Site activity. We do not share any personally identifiable information about our users with these third parties, and these third parties do not collect such information on our behalf. 
+Users with NV Mailing Addresses: We are providing you this notice pursuant to Nevada law. If you prefer not to receive marketing communications from us, you can opt-out here @ <https://privacy.intuit.com/cpi/do/signin>.
 
-Additionally we may utilize third party ad serving networks and their associated tracking functionality to deliver more targeted advertising to our users and to optimize customer acquisition efforts. 
+## Government Access; Use of Anonymized and Aggregated Data; Mergers and Acquisitions 
 
-**7\. How we use cookies:**
+We reserve the right, in our sole discretion, to share or disclose your personal information with law enforcement, government officials, and other regulatory agencies. We may share or make available anonymous or aggregate information that cannot by used to identify you with: 
 
-To enhance your experience with our Sites, many of our pages use "cookies." Cookies are text files that are placed on your computer to store your preferences or for other record-keeping purposes. Cookies and other user tracking mechanisms (e.g., local shared objects), by themselves, do not tell us your email address or other personally identifiable information unless you choose to provide this information to us by, for example, registering at our Site. However, once you choose to furnish us with personally identifiable information, this information may be linked to the data stored in the cookie or other tracking mechanism. We may use cookies and other user tracking mechanisms, including "persistent cookies", which will remain on your computer even after you close your browser, to understand Site usage and to improve the content and offerings on our Sites. For example, we may use cookies to personalize your experience at our Site (e.g., to recognize you by name when you return to our Site), and to save your password in password-protected areas. We also may use cookies to offer you products, programs, or services. While most browsers are set to accept cookies and other tracking devices by default, you can set yours to refuse tracking devices or to alert you before accepting them. However, by disabling tracking devices, you may not have access to the entire set of features of our Sites. Your browser manufacturer has information on changing the default setting for your specific browser. 
+3rd parties for research, marketing and promotional purposes and those 3rd parties may publicly report the findings of their research or analysis;
 
-Pageonce may use standard Internet technology, such as web beacons and similar technologies, to track your use of the Site or to track your response to email messages that we send you in connection with the Sites or Services. Web beacons (sometimes called transparent GIFs, clear GIFs, or web bugs) are small strings of code that provide a way for us to deliver a small graphic image (usually invisible) on a web page or in an email. Web beacons can recognize certain types of information on your computer such as cookies, the time and date a page is viewed, and a description of the page where the web beacon is placed. Pageonce may use web beacons to improve your experience on the Site, including to provide you with content customized to your interests and to understand whether users read email messages and click on links contained within those messages so that the Site can deliver relevant content. Our web beacons may collect some contact information (for example, the email address associated with an email message that contains a web beacon). The Sites also may include third-party web beacons so that these third parties may receive auditing, research, and reporting information about advertisements viewed on the Site. 
+Organizations that conduct research into consumer spending; and
 
-We use analytics software to allow us to better understand the functionality of our Mobile Applications on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from.
+Users of our services for purposes of comparison of their personal financial situation relative to the broader community. 
 
-**8\. No guarantees:**
+If Mint or its assets are acquired by another company, or in the event of a merger, consolidation, change in control, transfer of substantial assets, reorganization, or liquidation, we may transfer, sell, or assign to third parties, information concerning your relationship with us, including, without limitation, personal information that you provide and other information concerning your relationship with us. Such 3rd parties will assume responsibility for the personal information collected by us in connection with our business operations or through our Sites and such third parties will assume the rights and obligations regarding such information as described in this Mint Privacy Statement.
 
-While this Privacy Statement expresses Pageonce's standards for protection of personally identifiable information, Pageonce is not in a position to guarantee that the standards will always be met. There may be factors beyond our control that may result in unintentional disclosure of data. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security and are not responsible for the theft, destruction, or inadvertent disclosure of your personally identifiable information. 
+## Why Can't I Limit All Sharing of My Personal Information; How To Limit Sharing of Your Personal Information
 
-In the unfortunate event that your "personally identifiable information" (as the term or similar terms are defined by any applicable law requiring notice upon a security breach) is compromised, we may notify you by email (at our sole and absolute discretion) to the last email address you have provided us in the most expedient time reasonable under the circumstances; provided, however, delays in notification may occur while we take necessary measures to determine the scope of the breach and restore reasonable integrity to the system as well as for the legitimate needs of law enforcement if notification would impede a criminal investigation. 
+Under certain federal laws, you only have the right to limit: 
 
-**9\. Ownership of data and changes to your personal information:**
+Sharing for affiliates' everyday business purposes information about your creditworthiness
 
-Your data belongs to you, and you can remove it anytime you want. To cancel your Pageonce account and delete all account information associated with your account, log in to your account at [www.pageonce.com](http://www.pageonce.com/), click "Settings" then click "Delete My Account". If you ask us to delete your account, we will use commercially reasonable efforts to remove your data from our servers. Despite such removal, portions of your data may remain on our production and back-up servers indefinitely. 
+Affiliates from using your information to market to you; and
 
-If you wish to access personal information that you have submitted to us or to request the correction of any inaccurate information you have submitted to us, you may correct certain information via your user account. Alternatively, you can send an email that includes your contact information to [privacy@pageonce.com](mailto:privacy@pageonce.com) to request any corrections to your personal information. 
+Sharing for non-affiliates to market to you. 
 
-**10\. Public forums:**
+As described above, state laws and individual companies may give you additional rights to limit sharing. If you would like to like to limit sharing of your personal information, please email [privacy@intuit.com](mailto:privacy@intuit.com). 
 
-We may offer chat rooms, blogs, message boards, or similar public forums where you and other users of our Sites can communicate. Any personally identifiable information you submit on a forum, blog, message board, or chat room on a Site can be viewed and used by other users, and could be used to send you unsolicited messages. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to this Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Sites. To request removal of your personal information from our blog or community forum, contact us at privacy@pageonce.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why. 
+## Security of Your Data; How We Protect Your Personal Information
 
-**11\. Children:**
+We take the security of your data seriously. We use technical and administrative security measures such as, but not limited to, firewalls, encryption techniques, and authentication procedures, among others, to work to maintain the security of your online session and personal information. 
 
-The features, services, and other aspects of our Sites requiring the submission of personally identifiable information are not intended for anyone under 18 years of age. We do not knowingly collect personally identifiable information from children under the age of 13. If you are a parent or guardian of a child under the age of 13 and believe he or she has disclosed personally identifiable information to us please contact us at privacy@paceonce.com. A parent or guardian of a child under the age of 13 may review and request deletion of such child's personally identifiable information as well as prohibit the use thereof. 
+## Accessing Your Information 
 
-**12\. Your California privacy rights:**
+You may access, review, and update much of the information you have submitted to us at any time via Mint.com. You may choose to close or request that we delete your account and your associated data at any time. 
 
-California Civil Code Section 1798.83, also known as the "Shine The Light" law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to privacy@paceonce.com. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. Please be aware that not all information sharing is covered by the California Privacy Rights requirements and only information on covered sharing will be included in our response. 
+We will use commercially reasonable efforts to remove your data, although some information may be retained. For example, some information may be retained on a server or media, which is necessary to help ensure continued availability of our products and services. We retain your Personal Information as long as necessary to provide the services you have requested. Additionally, we may retain Personal Information to comply with law, prevent fraud, resolve disputes, trouble shoot problems, enforce our TOS, and as permitted by applicable law. 
 
-**13\. Changes to this Privacy Policy:**
+## Communications Preferences
 
-We regularly re-evaluate our privacy and security policies and adapt them as necessary to deal with new challenges. We reserve the right, at our discretion, to make changes to this Privacy Policy from time to time, so please review it frequently. You may review updates to our Terms of Service and Privacy Policy at any time via links on [www.pageonce.com](http://www.pageonce.com/). You agree to accept electronic communications and/or postings of revised versions of this Privacy Policy on [www.pageonce.com](http://www.pageonce.com/) and agree that such electronic communications or postings constitute notice to you of the revised version of this Privacy Policy. If we make material changes to this Privacy Policy, we will notify you here, by email or by posting a notice on our home page.
+We may send periodic service-related alerts, weekly summaries, notifications, newsletters, promotions, or other information via email and text. You may choose to stop receiving alerts, summaries, newsletters and promotions by indicating your preference in your account profile or settings. You will not be able to opt-out of any service-related or critical alerts.
 
-**Got Questions?**
+You may also follow the unsubscribe instructions in the email or text message you receive. Please note that certain service-related messages that we send are necessary for the proper functioning and use of the Mint product and services and you may not have the ability to opt-out of those messages. 
 
-If you have questions or concerns regarding this statement, or if you have any questions or suggestions, you should first contact privacy@pageonce.com. If you do not receive acknowledgment of your inquiry or your inquiry has not been satisfactorily addressed, you should then contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint&url=www.pageonce.com). TRUSTe will then serve as a liaison with us to resolve your concerns. 
+## Location of Your Data
 
-For more information regarding privacy you can visit the following sites:
+The data we process may be transferred to, stored, and processed in, the United States or any other country in which Mint, its parent company or its affiliates, subsidiaries, or service providers maintain operations. By using and providing information to us through our Service, you agree and consent to the transfer, storage, and processing of your data to any such country in order to provide the Service. 
+
+## Analytics, Google Analytics and Adobe Analytics
+
+We may use 3rd parties to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online promotions or analyze activity on our online site. We may permit these 3rd parties to use cookies and similar technologies to perform these services. We do not share any Personal with these 3rd parties and these 3rd parties do not collect such information on our behalf. For example, we may use service providers such as Google Analytics and Adobe's analytics services on parts of the Site to determine age, gender, interest and other data to better serve our customers. If you prefer to not have your data used by these service providers you may visit the [Google Analytics opt-out page ](https://tools.google.com/dlpage/gaoptout)or [Adobe's analytics service page](http://www.adobe.com/privacy/analytics.html) for instructions on how to opt-out.
+
+## Cookies; Web Beacon and Similar Technologies
+
+We use cookies and similar technologies, including mobile app identifiers, to help us recognize you across different services, products, learn about your interests both on and off our services, improve your experience, increase security, offer products, measure use and effectiveness of our services, and serve advertising. Most browsers provide you with the ability to control (i.e. block, delete, or disable) these technologies. If you choose to reject cookies or similar technologies, some services may not be available or some functionality may be limited or unavailable. Please review your browser manufacturer's help pages for assistance with changing your settings. By visiting our services, you consent to the placement of cookies and beacons in your browser and HTML-based emails in accordance with this Privacy Statement.
+
+## Intuit Single Sign-On
+
+Intuit Single Sign-On is a service that allows you to sign-in to a variety of Intuit products, services, and sites. We will collect certain information for security purposes in order to verify your identity, to reset your password if you cannot access your intuit account. Some products and services may require added security and may be asked to provide additional information. The email address and password that you use to sign up for your Intuit account are your "credentials" that you will use to authenticate with our network. We assign a unique ID number to your credentials to identify you and associated information.
+
+## Your Online Activity; Location Data; Do Not Track
+
+We collect information about your interaction with our products and services such as computer browser type, pages visited, average time spent on our Site, IP address, unique identifier of the device, operating system version and app version.
+
+If you choose to use product or service that uses information about your location, we may collect location information from your device and will notify you of this collection. You may control or disable the sharing of location information via your device setting and/or the service.
+
+Without an industry or legal standard of interpreting Do Not Track Signals ('DNT') sent to us by your browser, we do not respond to DNT signals at this time. To learn more about how DNT works, please visit <http://allaboutdnt.com/>. 
+
+## Children
+
+Intuit does not knowingly collect information from children. Mint.com and Mint products and services are not intended for children under the age of 13.
+
+## Joint Accounts 
+
+Mint does not allow the sharing of accounts between users or individuals. 
+
+## Trustee Privacy Seal Program
+
+Intuit is certified through TRUSTe's Privacy Seal Programs. In order to obtain certification, Intuit disclosed its information privacy practices to TRUSTe for its review to ensure compliance with TRUSTe's requirements. Our compliance with the TRUSTe program is viewable on the validation page available by clicking the TRUSTe seal.
+
+## Changes to Our Privacy Statement(s)
+
+We may update this Privacy Statement periodically. If we make material changes to the way we process your Personal Information, we will provide you notice via our service or by some other means, such as via email. Please review any changes carefully. If you agree with the changes, continue to use our Services. If you object to any of the changes and no longer wish to use our services, you may close your account(s). All changes are effective immediately upon posting and your use of our Service after a notice of material change or posting of an updated Privacy Statement shall constitute your consent to all changes. 
+
+## Other Important Privacy Information
+
+If you have questions or concerns regarding this Privacy Statement, our security practices, or our information processing practices please contact us:
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
