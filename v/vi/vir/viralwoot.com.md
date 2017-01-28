@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viralwoot.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205113155id_/https%3A//viralwoot.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viralwoot.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128203923id_/https%3A//viralwoot.com/blog/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ViralWoot
 
