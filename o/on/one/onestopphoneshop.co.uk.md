@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onestopphoneshop.co.uk privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414012753id_/http%3A//www.e2save.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onestopphoneshop.co.uk privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128023119id_/https%3A//www.e2save.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -35,7 +35,7 @@ You agree that we may use your personal information to make a credit check on yo
 
 We may also use your information for research and statistical analysis with the aim of improving our services. When assessing an application, we may use automated decision-making systems.
 
-If you request it, on payment of a fee, which is currently Ã‚Â£10, we will provide you with a copy of the personal information to which you are entitled that we hold about you.
+If you request it, on payment of a fee, which is currently £10, we will provide you with a copy of the personal information to which you are entitled that we hold about you.
 
 The information we hold about you is confidential. We will only disclose it outside the Carphone Warehouse Group when:
 
@@ -140,7 +140,7 @@ or call customer services on 0871 522 3400
 
 ### MEND/SEND
 
-If you buy a handset from us, we will pass your information to the Mobile Equipment National Database ("MEND") and the Stolen Equipment National Database ("SEND") (organisations operated by Recipero Limited, a company registered in England and Wales under Company No. 3794898 and with its registered office at Lawrence House, Lower Bristol Road, Bath BA2 9ET) to enable MEND or SEND to contact you in the event that you lose your Mobile Phone or it is stolen from you. Please contact customer services on 0871 522 3400. if you do not want your information to be passed to MEND and/or SEND. PLEASE NOTE: Once you have been registered with MEND and SEND, it is your responsibility to ensure that you notify any change of mobile phone to MEND and SEND to ensure that there is no interruption of their service to you.
+If you buy a handset from us, we will pass your information to the Mobile Equipment National Database ("MEND") and the Stolen Equipment National Database ("SEND") (organisations operated by Recipero Limited, a company registered in England and Wales under Company No. 3794898 and with its registered office at Lawrence House, Lower Bristol Road, Bath BA2 9ET) to enable MEND or SEND to contact you in the event that you lose your Mobile Phone or it is stolen from you. Please contact customer services on 0871 522 3400 if you do not want your information to be passed to MEND and/or SEND. PLEASE NOTE: Once you have been registered with MEND and SEND, it is your responsibility to ensure that you notify any change of mobile phone to MEND and SEND to ensure that there is no interruption of their service to you.
 
 ### Security
 
@@ -156,6 +156,8 @@ Please note that this policy will be reviewed, and may change, from time to time
 
 ### Your Consent
 
-By using this website you are consenting to this privacy policy. We may in the future change this policy, and if we do so we will post the amended policy on this website. Decision Making
+By using this website you are consenting to this privacy policy. We may in the future change this policy, and if we do so we will post the amended policy on this website.
+
+### Decision Making
 
 Any decision made by us in relation to the services provided to you shall be final.
