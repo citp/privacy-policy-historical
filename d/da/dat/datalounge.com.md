@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the datalounge.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805023718id_/http%3A//www.datalounge.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datalounge.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128194403id_/https%3A//www.datalounge.com/terms) for the most accurate reproduction.*
 
-# /web/20160805023718id_/http%3A//www.datalounge.com/terms
+# the Data Lounge - Gay Celebrity Gossip, Gay Politics, Gay News and Pointless Bitchery since 1995.
 
 This statement covers the site datalounge.com ("The DataLounge" and/or the "Site") which is proved by Mediapolis inc. ("Mediapolis" and/or "we") and any associated content such as email, text messages, and possible subliminal suggestions. Please read this statement carefully before proceeding to access The DataLounge. Your use of The DataLounge indicates your agreement to abide by these terms below. Yes it does. Don't argue. Thank you. 
 
