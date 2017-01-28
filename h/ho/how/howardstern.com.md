@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howardstern.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009130606id_/https%3A//www.howardstern.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howardstern.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128165256id_/https%3A//www.howardstern.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Howard Stern
 
