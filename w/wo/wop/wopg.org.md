@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wopg.org privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020051218id_/http%3A//www.wopg.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wopg.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128143147id_/https%3A//www.wopg.org/privacy-policy) for the most accurate reproduction.*
 
 # WOPG Privacy and Cookies Policy - Words of Peace
 
@@ -30,7 +30,7 @@ When we use a third party for processing part of our data, we choose a party tha
 
 We use the collected personal data in order to provide you with the services or content requested by you and to perform activities related to such services and products, including processing your contributions. We do not store personal data any longer than is needed.
 
-We will not disclose your personal information to third parties without your consent, except when this is necessary in the interests of: 
+We will not disclose your personal information to third parties without your consent, except when this is necessary in the interests of:
 
   * a. State security.
   * b. The prevention, detection and prosecution of criminal offences.
