@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the seedandspark.com privacy policy that was archived on 2016-11-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161117042743id_/https%3A//www.seedandspark.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the seedandspark.com privacy policy that was archived on 2017-01-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170128194006id_/https%3A//www.seedandspark.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="UTF-8">
 		<title>Privacy Policy | Seed&amp;Spark</title>
 	<meta property="og:title" content="Privacy Policy | Seed&amp;Spark">
-			<meta name="csrf-token" content="GnebUEUPDToslXzrMwBwCSlNV6N8nRiEv1RE5MuQ">
+			<meta name="csrf-token" content="SpSE5tGU6YgDe6GxfmcXmgDLbWjLiOf1QtMflWxn">
 	<meta name="viewport" content="width=device-width; initial-scale=1; maximum-scale=1">
-    <meta name="google-site-verification" content="e71PnZHU9doV9UT_QoKpdx0r3ljb5sam9PDwlkB15K0">
+    <meta name="google-site-verification" content="n3JoBEAnAFMGjyqF0_E0IysgHDwK3yMaFmiGkLHy2Fs">
 	<meta property="fb:app_id" content="1122290034459288">
 	
 	<!-- optimizely code needs to be way high up here in order to load early -->
@@ -38,7 +38,7 @@
 	<!-- add class "home" using a variable for home page instance -->
 	<div class="main-container ">
 				<div class="ep-cta-banner">
-			<p><a href="/ep" id="ep-cta-link">Join the revolution in film and TV: stream and fund bold new work in one platform. First month free.</a></p>
+			<p><a href="/ep" id="ep-cta-link" onclick="analytics.track('EP - Click Banner');">Join the revolution in film and TV: stream and fund bold new work in one platform. <span class="mobile-hide">First month free.</span></a></p>
 			<a href="" id="ep-cta-close"><span class="icon-close"></span></a>
 		</div>
 				<header>
@@ -181,7 +181,8 @@
 
 </div></div></div>
 
-        		<div id="launch-project-modal-gate" class="white-popup launch-popup mfp-hide">
+
+		<div id="launch-project-modal-gate" class="white-popup launch-popup mfp-hide">
 			<div class="launch-popup-header">
 				<h2 class="complete">Terms</h2>
 				<h2>&gt;</h2>
@@ -214,7 +215,7 @@
 			</div>
 			<div class="launch-popup-form-container">
 				<form method="POST" action="/fund/launch/project" id="form-launch-project">
-					<input type="hidden" name="_token" value="GnebUEUPDToslXzrMwBwCSlNV6N8nRiEv1RE5MuQ">
+					<input type="hidden" name="_token" value="SpSE5tGU6YgDe6GxfmcXmgDLbWjLiOf1QtMflWxn">
 					<div class="launch-popup-inner-content">
 				  		<label class="anim-label">
 							<input type="text" name="project_title" required="">
@@ -288,6 +289,9 @@
 				  							  			<option value="11267">Science</option>
 				  							  			<option value="11268">Nature</option>
 				  							  		</select>
+				  		<input id="launchCB_seedfund" type="checkbox" name="seed_fund" value="1">
+			      		<label for="launchCB_seedfund" class="cb seed_fund"><span></span>I want to be eligible for the Green Light Seed Fund</label>
+			      		<p class="caption seed-fund-description">The most popular Seed&amp;Spark projects are eligible for extra funding! You can choose to turn this on or off later, no strings attached. <a href="/how-to" target="_blank">Learn more</a>.</p>
 				  	</div>
 		  			<input type="hidden" name="source" value="privacy-policy">
 					<button type="submit" class="btn-blue btn-start">Submit</button>
@@ -312,27 +316,17 @@
 
 		<div id="ep-follower-upsell" class="white-popup survey-popup-thank-you mfp-hide">
 			<div class="thank-you-heading">
-				<h5>Did you know...<span class="bold">you’re part of creating a new kind of film studio.</span></h5>
-				<h5>A studio where creators are funded to make bold, daring, important work.
-		Where independently minded audiences get to choose what gets made.</h5>
+				<h2>Thanks for your feedback</h2>
+				<p>You may not have realized, but you’re part of a revolution in film &amp; TV! Seed&amp;Spark members elevate the stories that need to be told with streaming and funding in one platform.</p>
+				<a href="/ep" class="btn-blue" onclick="analytics.track('EP - Click Subscribe Now', {entryPoint: 'Account'});">Subscribe Now</a>
 			</div>
-			<div class="share-area">
-				<div class="ep-container">
-					<h3>Become a member!</h3>
-					<div class="ep-image">
-						<img src="/img/filmangel/EP-Browser-Mockup-2.png">
-					</div>
-					<div class="ep-content">
-						<h6>For <span class="bold">$10</span>/month, you get...</h6>
-						<p class="ep-perk blue"><span class="icon-icon-126568"></span> Unlimited streaming from our online Cinema</p>
-						<p class="ep-perk blue"><span class="icon-icon-126568"></span> To support a crowdfunding project every month! We’ll put <span class="bold">$5</span> directly towards a project of your choice.</p>
-						<p class="ep-perk blue"><span class="icon-icon-126568"></span> Invites to Seed&amp;Spark events at festivals all over the US</p>
-					</div>
+			<div class="watch-fund-graphic">
+				<div class="watch-fund-text-item">
+					<h3><span class="icon-cinema"></span> Watch</h3>
 				</div>
-				<form action="/ep/checkout" method="get" id="ep-upsell-form">
-					<button class="btn-blue btn-add-to-order" type="submit">Become a Member</button>
-					<a href="#" class="no-thanks">Nevermind <div class="arrow-png"><img src="/img/filmangel/arrow@2x.png"></div></a>
-				</form>
+				<div class="watch-fund-text-item">
+					<h3><span class="icon-money"></span> Fund</h3>
+				</div>
 			</div>
 		</div>
 
