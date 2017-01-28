@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the apexminecrafthosting.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905190013id_/http%3A//apexminecrafthosting.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apexminecrafthosting.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128054337id_/https%3A//apexminecrafthosting.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Apex Minecraft Hosting
 
-Apex Hosting considers user privacy paramount, and Apex Hosting utilizes great care in keeping the information of the customer and/or user (“Customer”) private and secure. To demonstrate our firm commitment to privacy, the following agreement has been created to explain our policies and procedures in relation to all data collected.
+Apex Hosting considers user privacy paramount, and Apex Hosting utilizes great care in keeping the information of the customer and/or user (“Customer”) private and secure. To demonstrate our firm commitment to privacy, the following agreement has been created to explain our policies and procedures in relation to all data collected
 
 #### Types of Data Collected
 
@@ -51,7 +51,8 @@ The Customer portal allows Customers the ability to create users, add/delete use
 
 Apex Hosting has also provided the Customer’s master user the ability to manage the Customer’s account or profile information. We maintain the data and allow the Customer’s master user to update it at any time. To change this information, you must be a current Customer and login with a user ID and password and follow the prompts to “update my profile.” We continue to expand the profile of services and information that you may access and update.
 
-Please note that some email communications are not subject to general opt-out. These include communications related to downloads; communications about sales transactions; information about software updates, patches and fixes; disclosures to comply with legal requirements; and network upgrades or other related service maintenance.  
+Please note that some email communications are not subject to general opt-out. These include communications related to downloads; communications about sales transactions; information about software updates, patches and fixes; disclosures to comply with legal requirements; and network upgrades or other related service maintenance.
+
 If an individual’s personal information is to be (a) disclosed to a third party who is not an Agent; or (b) used for a purpose that is incompatible with the purpose(s) for which it was originally collected or subsequently authorized by the individual, then the individual will be notified prior to such disclosure and may opt out of having the information disclosed by responding to the email and/or author of the notification, where such information shall be clearly set forth.
 
 #### Security
