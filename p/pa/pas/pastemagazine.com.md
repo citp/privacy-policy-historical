@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pastemagazine.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107090926id_/https%3A//www.pastemagazine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pastemagazine.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128200704id_/https%3A//www.pastemagazine.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security :: Paste
 
@@ -14,6 +14,8 @@ When you use our site we will store cookies on your computer in order to facilit
 We have implemented Google Analytics’ Demographics and Interests cookies, which we use to analyze the interests of people who visit Paste Magazine. We use this information to make both the types of articles we publish and the types of advertising we serve more relevant to our visitors’ interests.
 
 You can prevent us from collecting this information through Google Analytics’ free opt-out browser add-on.
+
+When you sign up for our newsletter you may receive emails from Paste and from our other sites, including [Wolfgang’s](https://www.wolfgangs.com/), [Concert Vault](http://www.concertvault.com/) and [Daytrotter](http://www.daytrotter.com/). You can unsubscribe from any of these newsletters at any time by clicking the Unsubscribe link at the bottom of every email.
 
 We do not rent or sell our email lists. In other words, information you give us stays with us. We’ll never pass on your credit card information or your phone number.
 
