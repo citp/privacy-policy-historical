@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the factretriever.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120102832id_/http%3A//www.factretriever.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the factretriever.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128180527id_/https%3A//www.factretriever.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FactRetriever.com
 
