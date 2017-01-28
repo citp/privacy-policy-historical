@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117085813id_/http%3A//about.ask.fm/privacy-policy/%3Flang%3Den) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ask.fm privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128233123id_/https%3A//about.ask.fm/privacy-policy/%3Flang%3Den) for the most accurate reproduction.*
 
 # Privacy | About.ASKfm
 
-Click here for [Privacy Policy](https://web.archive.org/legal/2016-03/en/privacy.html) effective before October 11, 2016.
+Click here for [Privacy Policy](http://ask.fm/about/policy/privacy-policy-20140217) effective before October 11, 2016.
 
 Effective Date: October 11, 2016
 
