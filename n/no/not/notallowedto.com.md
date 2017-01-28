@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notallowedto.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128003212id_/http%3A//notallowedto.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notallowedto.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128040858id_/http%3A//notallowedto.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
