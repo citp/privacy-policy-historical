@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pixpro.net privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919022111id_/http%3A//pixpro.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pixpro.net privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128163200id_/https%3A//pixpro.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pixpro
 
