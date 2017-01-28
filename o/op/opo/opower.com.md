@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the opower.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316115443id_/https%3A//opower.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opower.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128105700id_/https%3A//opower.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Opower :Opower
+# Privacy Policy | Opower
 
-[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.opower.com/seal_m "TRUSTe European Safe Harbor certification")
+[](https://privacy-policy.truste.com/click-with-confidence/eusafe/en/www.opower.com/seal_m "TRUSTe European Safe Harbor certification")_Opower has been[acquired](https://www.oracle.com/corporate/acquisitions/opower/index.html) by Oracle and will soon transition to the Oracle Privacy Policy. Click [here](https://www.oracle.com/legal/privacy/index.html) to view the Oracle Privacy Policy.  Please note that the provisions of Opower’s Privacy Policy below will remain active until the policy transition is complete._
 
 OPOWER, Inc. (“ **Opower** ,” “ **we** ,” “ **us** ,” or “ **our** ”) has created this privacy statement in order to demonstrate our commitment to you, our user (“ **You** ” or “ **Your** ”), regarding Your privacy with respect to information that You submit to Opower by or through the Site or Services (defined below).
 
