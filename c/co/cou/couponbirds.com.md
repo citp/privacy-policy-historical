@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponbirds.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024082416id_/http%3A//www.couponbirds.com/us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponbirds.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128075036id_/https%3A//www.couponbirds.com/us/privacy-policy) for the most accurate reproduction.*
 
 # CouponBirds Privacy Policy
 
