@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cadence.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022142331id_/https%3A//www.cadence.com/content/cadence-www/global/en_US/home/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cadence.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128174037id_/http%3A//www.cadence.com/content/cadence-www/global/en_US/home/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Your privacy is important to Cadence Design Systems, Inc. and its affiliates (collectively, “Cadence”, “we”, “our”, and “us”). The following Privacy Policy discloses the information practices for Cadence, and Cadence websites and products or applications available for download through those websites that link to this Privacy Policy (collectively, the “Sites”), including the types of information gathered, how the information is used, and how the information is shared with others.
 
-##### Types of Information We Collect
+### Types of Information We Collect
 
 ##### Information You Provide to Us
 
@@ -91,17 +91,17 @@ Information covered by this Privacy Policy will be transferred to, stored at, an
 
 ##### Your Choices
 
-You have the right to request access to and to correct certain information that Cadence holds about you. Any access request may be subject to a fee, where permitted and in accordance with law, to meet our costs in providing you with the details of the information that we hold about you. Please send any requests for access to [privacy@cadence.com](mailto:privacy@cadence.com). In some countries, you also may have a right to oppose, for legitimate grounds, the processing of your data by the Sites; in those countries, if you exercise that right, understand that you may not be able to use the Sites and this may result in reduced functionality of the Sites. You may exercise your rights to access, update, rectify, and where the rights is provided by local law, oppose the processing of your information by contacting us at [privacy@cadence.com](mailto:privacy@cadence.com).
+You have the right to request access to and to correct certain information that Cadence holds about you. Any access request may be subject to a fee, where permitted and in accordance with law, to meet our costs in providing you with the details of the information that we hold about you. Please send any requests for access to [privacy@cadence.com](mailto:privacy@cadence.com). In some countries, you also may have a right to oppose, for legitimate grounds, the processing of your data by the Sites; in those countries, if you exercise that right, understand that you may not be able to use the Sites and this may result in reduced functionality of the Sites. You may exercise your rights to access, update, rectify, and where the rights is provided by local law, oppose the processing of your information by contacting us at [privacy@cadence.com](mailto:privacy@cadence.com).
 
-In some cases, we provide a means to create an account or a profile of information on the Sites. In such cases, you may access and correct certain information by accessing your account or profile. For example, to change your contact information on [www.cadence.com](http://www.cadence.com/), log in to your account and select the "My Account" link found on the top of the webpage.
+In some cases, we provide a means to create an account or a profile of information on the Sites. In such cases, you may access and correct certain information by accessing your account or profile. For example, to change your contact information on [www.cadence.com](http://www.cadence.com/), log in to your account and select the "My Account" link found on the top of the webpage.
 
 You may opt-out from receiving promotional or marketing e-mails by notifying us at the address specified at the bottom of any unwanted e-mail. These opt-out procedures may not be available for transactional or relationship messages, such as e-mails that are necessary to provide you with confirmation of a completed transaction (such as a purchase, service request, or change in your user profile), to provide you with warranty information regarding a particular product you purchased, to provide notification of changes of terms of service, or to provide you with important information about the use of a product that you have purchased or software that you have downloaded.
 
 We may send you periodic mailings or telephone you to inform you of new products, services, or events. If you do not wish to receive such calls, you may request to be removed from the call list at the time of the call.
 
-You may set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You may also set your browser to turn off cookies. If you do so, however, some areas of the Sites may not function properly. For more information about cookies and how to manage them, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
+You may set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it. You may also set your browser to turn off cookies. If you do so, however, some areas of the Sites may not function properly. For more information about cookies and how to manage them, visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
-You may opt-out of our collection of analytics information through Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ads Preference Manager](https://www.google.com/settings/ads/onweb) or at <http://www.aboutads.info/choices>. The Google Analytics opt-out browser add-on can be accessed [here](https://tools.google.com/dlpage/gaoptout/).
+You may opt-out of our collection of analytics information through Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ads Preference Manager](https://www.google.com/settings/ads/onweb) or at <http://www.aboutads.info/choices>. The Google Analytics opt-out browser add-on can be accessed [here](https://tools.google.com/dlpage/gaoptout/).
 
 ##### Links to Other Sites
 
@@ -109,9 +109,9 @@ The Sites may contain links to third-party websites and applications. Our provis
 
 ##### Contact Information
 
-Cadence welcomes your comments or questions regarding this Privacy Policy. If you have any questions, please contact Cadence Design Systems, the data controller, at [privacy@cadence.com](mailto:%20privacy@cadence.com).
+Cadence welcomes your comments or questions regarding this Privacy Policy. If you have any questions, please contact Cadence Design Systems, the data controller, at [privacy@cadence.com](mailto:%20privacy@cadence.com).
 
-For your information, Cadence’s locations and contact information are available at [www.cadence.com/cadence/contact_us](https://web.archive.org/content/cadence-www/global/en_US/home/company/contact-us.html).
+For your information, Cadence’s locations and contact information are available at [www.cadence.com/cadence/contact_us](https://web.archive.org/content/cadence-www/global/en_US/home/company/contact-us.html).
 
 ##### Privacy Policy Updates
 
