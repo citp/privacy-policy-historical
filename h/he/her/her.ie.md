@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the her.ie privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118133005id_/http%3A//www.her.ie/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the her.ie privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128171735id_/https%3A//www.her.ie/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Her.ie
 
