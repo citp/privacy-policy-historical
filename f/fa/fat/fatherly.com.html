@@ -1,171 +1,471 @@
-<!--The following is the downloaded HTML source of the fatherly.com privacy policy that was archived on 2016-04-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160420075504id_/https%3A//www.fatherly.com/sp/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fatherly.com privacy policy that was archived on 2017-01-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170128105547id_/https%3A//www.fatherly.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
-    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcEVFNaGwIBVFFbDgkG"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"8a3361d2db","agent":"","transactionName":"blRUNxMEXERZBhBYWlcecBYPBkZeVwtLUlpUXEMNCBFLGU4MAUZGF1dEDA8RQlZfAF5CXFRBWgY+FVNQXQ==","applicationID":"11009981,11009982","errorBeacon":"bam.nr-data.net","applicationTime":27}</script>
-    <title>Privacy Policy | Fatherly</title>
-    <meta name="description" content="See important information about Fatherly and read our privacy policy.">
-    <link rel="stylesheet" href="https://static.rbl.ms/static/css-build/roar_core.css?v=ea3614883e512addc1518714ed7e62fd">
-    <link rel="stylesheet" href="/static/css/roar/fatherly/core.css?v=1409559350">
-    <meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1.0,maximum-scale=1.0,user-scalable=no">
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" class="no-js"><head>
+		<meta charset="UTF-8">
+		<title>Privacy Policy | Fatherly</title>
 
-    <!-- Favicons -->
-    <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/img/whitelabel/fatherly/favicon114X114.png?v=2">
-    <link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/img/whitelabel/fatherly/favicon72X72.png?v=2">
-    <link rel="apple-touch-icon-precomposed" sizes="57x57" href="/static/img/whitelabel/fatherly/favicon57X57.png?v=2">
-    <link rel="shortcut icon" href="/static/img/whitelabel/fatherly/favicon16X16.ico">
+		<link href="//www.google-analytics.com" rel="dns-prefetch">
+	    <meta name="google-site-verification" content="v_8yUZxUmYPsXMRspP4u-f7s-t4-8cH3n0WEO00wQI4">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+		<meta name="description" content="Win Parenting">
+		<link href="//cloud.webtype.com/css/52cc1e8f-3d5c-47d5-95d7-2d4738d74b04.css" rel="stylesheet" type="text/css">
+		<link rel="apple-touch-icon" sizes="57x57" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/apple-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/apple-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/apple-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/apple-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/apple-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/apple-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/apple-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/apple-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/apple-icon-180x180.png">
+<link rel="icon" type="image/png" sizes="192x192" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/android-icon-192x192.png">
+<link rel="icon" type="image/png" sizes="32x32" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="96x96" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="16x16" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/favicon-16x16.png">
+<link rel="manifest" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/icons/manifest.json">
+<meta name="msapplication-TileColor" content="#ffffff">
+<meta name="msapplication-TileImage" content="/ms-icon-144x144.png">
+<meta name="theme-color" content="#ffffff">		    <meta property="fb:pages" content="348596051860210">    
+    
+    <!--[if lt IE 10]>
+    <script type='text/javascript' src='https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/fatherly/js/vendor/ved_analytics-base64-1.1.min.js?ver=4.5.3'></script>
+    <![endif]-->
+    
+    <!--findme-->
 
-<script src="https://bounceexchange.com/tag/1212/i.js" async=""></script></head>
-<body>
-    <div class="body-pretender static-pages">
-        <!-- Main header -->
-        <div class="search-bar">
-    <a href="#" class="close-search"></a>
-    <form action="/search/">
-        <input accesskey="f" placeholder="What are you searching for?" type="text" autocomplete="off" name="q">
+    
+    <!-- Start Google Analytics tag -->
+    <script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=663787347083011&amp;version=v2.3"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+        m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+
+    var ga_id = 'UA-50600763-1';
+    ga('create', ga_id, 'auto');
+
+
+    // SERP Click Tracking
+    (function(w){
+        if(w.VedDecode && w.VedDecode.ved){
+            ga('set', {
+                dimension1: getVedValue('linkIndex'),
+                dimension2: getVedValue('linkType'),
+                dimension3: getVedValue('resultPosition'),
+                dimension4: getVedValue('subResultPosition'),
+                dimension5: getVedValue('page')
+            });
+        }
+        function getVedValue(key){
+            var ret = w.VedDecode[key];
+            return ret ? ret + '' : '(not set)';
+        }
+    })(window);
+
+    
+    ga('send', 'pageview');
+
+    </script>
+    <!-- End Google Analytics tag -->
+
+
+            <!-- Start BounceX tag. Deploy at the beginning of document head. -->
+        <script>
+        (function(d) {
+            var e = d.createElement('script');
+            e.src = d.location.protocol + '//tag.bounceexchange.com/1212/i.js';
+            e.async = true;
+            d.getElementsByTagName("head")[0].appendChild(e);
+        }(document));
+        </script><script src="https://tag.bounceexchange.com/1212/i.js" async=""></script>
+    <!-- End BounceX Tag-->
+     
+
+
+
+        <!-- Start Google DFP -->
+    <script type="text/javascript">
+    var googletag = googletag || {};
+    googletag.cmd = googletag.cmd || [];
+    (function() {
+        var gads = document.createElement('script');
+        gads.async = true;
+        gads.type = 'text/javascript';
+        var useSSL = 'https:' == document.location.protocol;
+        gads.src = (useSSL ? 'https:' : 'https:') +
+        '//www.googletagservices.com/tag/js/gpt.js';
+        var node = document.getElementsByTagName('script')[0];
+        node.parentNode.insertBefore(gads, node);
+    })();
+    </script>
+
+
+        
+    <script type="text/javascript">
+    googletag.cmd.push(function() {
+        googletag.defineSlot('/72233705/Fatherly_Logo', [88, 31], 'div-gpt-ad-1461704423559-3').addService(googletag.pubads());
+        googletag.defineSlot('/72233705/Fatherly_MediumRectangle', [300, 250], 'div-gpt-ad-1484851310504-0').addService(googletag.pubads());
+        googletag.defineSlot('/72233705/Fatherly_Mobile_Leaderboard', [320, 50], 'div-gpt-ad-1482278683686-0').addService(googletag.pubads());
+        googletag.defineSlot('/72233705/Fatherly_Mobile_MediumRectangle', [300, 250], 'div-gpt-ad-1461704423559-6').addService(googletag.pubads());
+        googletag.defineSlot('/72233705/Fatherly_MediumRectangle_Top', [300, 250], 'div-gpt-ad-1476825538131-0').addService(googletag.pubads());
+        googletag.defineSlot('/72233705/Fatherly_Homepage_970x90', [970, 90], 'div-gpt-ad-1476825979997-0').addService(googletag.pubads());
+            googletag.defineSlot('/72233705/Sponsored_Inline', ['fluid'], 'div-gpt-ad-1467994145837-0').addService(googletag.pubads());
+            googletag.defineSlot('/72233705/Side_Sponsored_1', ['fluid'], 'div-gpt-ad-1470175019579-0').addService(googletag.pubads());
+            googletag.defineSlot('/72233705/Side_Sponsored_2', ['fluid'], 'div-gpt-ad-1470287817469-0').addService(googletag.pubads());
+            googletag.defineSlot('/72233705/Side_Sponsored_3', ['fluid'], 'div-gpt-ad-1470287869770-0').addService(googletag.pubads());
+
+        googletag.pubads().enableSingleRequest();
+        googletag.pubads().collapseEmptyDivs();
+                googletag.enableServices();
+        });
+    </script>
+    <!-- End Google DFP -->		
+<!-- This site is optimized with the Yoast SEO plugin v3.4 - https://yoast.com/wordpress/plugins/seo/ -->
+<meta name="news_keywords" content="">
+<link rel="original-source" href="https://www.fatherly.com/privacy-policy/">
+<link rel="canonical" href="https://www.fatherly.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | Fatherly">
+<meta property="og:description" content="Personal Information In order to supply you with Fatherly’s emails, we need your email address. Fatherly doesn’t collect any information except that expressly provided by you. Other Information Fatherly may also request additional information such as age, buying preferences, annual income, or other demographic or profile information. We use this information to better tailor our... View Article">
+<meta property="og:url" content="https://www.fatherly.com/privacy-policy/">
+<meta property="og:site_name" content="Fatherly">
+<meta property="article:publisher" content="https://www.facebook.com/FatherlyHQ/?fref=ts">
+<meta property="og:image" content="https://www.fatherly.com/wp-content/uploads/2016/05/Logo.png">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:description" content="Personal Information In order to supply you with Fatherly’s emails, we need your email address. Fatherly doesn’t collect any information except that expressly provided by you. Other Information Fatherly may also request additional information such as age, buying preferences, annual income, or other demographic or profile information. We use this information to better tailor our... View Article">
+<meta name="twitter:title" content="Privacy Policy | Fatherly">
+<meta name="twitter:site" content="@fatherlyhq">
+<meta name="twitter:image" content="https://www.fatherly.com/wp-content/uploads/2016/05/Logo.png">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="alternate" type="application/rss+xml" title="Fatherly » Feed" href="https://www.fatherly.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Fatherly » Comments Feed" href="https://www.fatherly.com/comments/feed/">
+<link rel="stylesheet" id="theme-my-login-css" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/plugins/theme-my-login/theme-my-login.css?ver=6.4.6" media="all">
+<link rel="stylesheet" id="wsl-widget-css" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/plugins/wordpress-social-login/assets/css/style.css?ver=4.5.6" media="all">
+<link rel="stylesheet" id="fatherly-style-css" href="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/new-style.min.css?ver=4.1" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="//netdna.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css?ver=4.7.0" media="all">
+<script type="text/javascript" src="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" async="async" src="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/js/header-scripts.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://cdn.boomtrain.com/analyticstrain/395257cfe55bb848d0de22073ce7c33e/analyticstrain.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/plugins/theme-my-login/modules/themed-profiles/themed-profiles.js?ver=4.5.6"></script>
+<link rel="https://api.w.org/" href="https://www.fatherly.com/wp-json/">
+<link rel="shortlink" href="http://bit.ly/1Z9nZK0">
+<link rel="alternate" type="application/json+oembed" href="https://www.fatherly.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fatherly.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.fatherly.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.fatherly.com%2Fprivacy-policy%2F&amp;format=xml">
+			<meta property="fb:pages" content="348596051860210">
+			<script type="text/javascript">window.dataLayer = {"title":"Privacy Policy"};</script>		<script type="application/ld+json">{"@context":"http:\/\/schema.org","@type":"Organization","name":"Fatherly","description":"Fatherly is a leading digital resource for new parents, combining practical advice and evidence-based insights from top experts around the world.","url":"https:\/\/www.fatherly.com","logo":{"@type":"ImageObject","contentUrl":"https:\/\/www.fatherly.com\/wp-content\/uploads\/2016\/05\/Logo.png","width":272,"height":72},"email":"hello@fatherly.com","sameAs":["https:\/\/www.facebook.com\/FatherlyHQ\/","https:\/\/twitter.com\/fatherlyhq","https:\/\/www.instagram.com\/fatherlyhq\/","https:\/\/plus.google.com\/+FatherlyHQ\/","https:\/\/www.linkedin.com\/company\/fatherly","https:\/\/www.youtube.com\/channel\/UC-PfbmXWqUYO_UCKP08LKDA\/featured"]}</script>	</head>
+	<body class="page page-id-22147 page-template-default privacy-policy">
+
+	<!--https://www.fatherly.com -->
+<header class="site-header clearfix">
+        <div class="site-navigation clearfix">
+            <div class="menu-button menu-button--closed" data-ev-loc="header-nav" data-ev-name="menu-button">
+                <div class="menu-button__menu-icon">
+                    <span class="menu-button__icon-bar"></span>
+                    <span class="menu-button__icon-bar"></span>
+                    <span class="menu-button__icon-bar"></span>
+                    <span class="menu-button__icon-bar"></span>
+                </div>
+            </div>
+            <div class="site-navigation__right">
+                <div class="site-navigation__right-social">
+                    <a href="https://www.facebook.com/FatherlyHQ/" target="_blank" class="site-navigation__right-social-item site-navigation__right-social-item--facebook fa fa-facebook"></a>
+                    <a href="https://twitter.com/FatherlyHQ" target="_blank" class="site-navigation__right-social-item site-navigation__right-social-item--twitter fa fa-twitter"></a>
+                    <a href="https://www.instagram.com/fatherlyhq/" target="_blank" class="site-navigation__right-social-item site-navigation__right-social-item--instagram fa fa-instagram"></a>
+                    <a href="#" class="site-navigation__right-social-item site-navigation__right-social-item--email fa fa-envelope-o" data-ev-loc="header-nav" data-ev-name="email-button">
+                        <div class="site-navigation__right-email-notification">1</div>                    </a>
+                    <a href="#" class="site-navigation__right-social-item site-navigation__right-social-item--search search-button search-button--closed fa fa-search" data-ev-loc="header-nav" data-ev-name="search-button"></a>                                                                                
+                </div>
+                                <a href="/register" class="mobile-email mobile-email--closed" data-ev-loc="header-nav" data-ev-name="email-button">
+                        <div class="fa fa-user-circle-o"></div>
+                        <div class="menu-button__menu-icon menu-button__menu-icon--open">
+                            <span class="menu-button__icon-bar"></span>
+                            <span class="menu-button__icon-bar"></span>
+                            <span class="menu-button__icon-bar"></span>
+                            <span class="menu-button__icon-bar"></span>
+                        </div>
+                                       
+                        <div class="mobile-email__email-notification">1</div>                    
+                                        </a>
+                                    <a class="sign-in-button" href="/register">
+                        SIGN UP
+                    </a>                    
+                            </div>
+            <a class="logo" href="https://www.fatherly.com/">
+                <img src="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/images/logo-thick.png">
+            </a>
+
+                    </div>
+        
+        <nav class="category-navigation">
+            <ul class="category-navigation__list">
+                <li class="category-navigation__list-item category-navigation__list-item--ages" data-ev-loc="category-nav" data-ev-name="show-more" data-ev-val="ages-stages">
+                    <span class="category-navigation__list-item-link">
+                        <span class="category-navigation__list-item-text category-navigation__list-item-text--ages">Ages &amp; Stages</span>
+                        <i class="fa fa-caret-down category-navigation__ages-arrow" aria-hidden="true"></i>
+                    </span>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/activities/">Activities</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/gear/">Gear</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/toys-and-books/">Toys &amp; Books</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/kids-health-and-development/">Health &amp; Development</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/parenting-and-relationships/">Parenting &amp; Relationships</a>
+                </li>
+
+                <li class="category-navigation__list-item category-navigation__list-item--more" data-ev-loc="category-nav" data-ev-name="show-more" data-ev-val="more-categories">
+                    <span class="category-navigation__list-item-link" href="">
+                        <span class="category-navigation__list-item-text category-navigation__list-item-text--more">More</span>
+                        <i class="fa fa-caret-down category-navigation__more-arrow" aria-hidden="true"></i>
+                    </span>
+                </li>
+            </ul>
+            <ul class="category-navigation__list category-navigation__list--subcategory-list">
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/fatherly-forum/">Fatherly Forum</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/humor/">Humor</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/mens-health/">Men's Health</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/work-money/">Work &amp; Money</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/education-care/">Education</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/travel-and-vacations/">Travel</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/gift-ideas/">Gift Guides</a>
+                </li>
+            </ul>
+            <ul class="category-navigation__list category-navigation__list--ages-list">
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/trying/">Trying</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/pregnancy-expecting/">Expecting</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/age-0-1-years-old/">Newborn</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/age-1-2-years-old/">Age 1</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/age-2-3-years-old/">Age 2</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/age-3-4-years-old/">Age 3</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/age-4-5-years-old/">Age 4</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/age-5-years-and-up/">Age 5</a>
+                </li>  
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/stage-kid">Age 6-10</a>
+                </li>
+                <li class="category-navigation__list-item">
+                    <a class="category-navigation__list-item-link" href="https://www.fatherly.com/tag/stage-tween">Ages 10+</a>
+                </li>                
+            </ul>        
+        </nav>
+</header>
+<div class="desktop-menu">
+    <div class="desktop-menu__info">
+        <div class="desktop-menu__email">
+            <h4 class="desktop-menu__email-title">Sign up for Fatherly</h4>
+            <form method="post" class="boomtrain-form__desktop" data-ev-loc="desktop-menu" dava-ev-name="email-signup">
+                <div>
+                    <input name="boomtrain-form__desktop-email" type="text" value="" class="medium desktop-menu__email-input boomtrain-form__desktop-email" tabindex="1" placeholder="Enter Email Address">
+                    <input type="submit" class="button submit desktop-menu__email-submit boomtrain-form__desktop-submit" value="Sign Me Up" tabindex="2">
+                </div>
+                <div class="validation_message boomtrain-form__desktop-error" style="display:none;"></div>
+            </form>
+            <div id="gform_confirmation_message_2" class="gform_confirmation_message_2 gform_confirmation_message boomtrain-form__desktop-ok" style="display:none;">
+                    Thanks for subscribing!
+            </div>
+        </div>
+        <div class="desktop-menu__social clear clearfix">
+            <ul class="desktop-menu__social-list">
+                <li class="desktop-menu__social-link"><a href="http://facebook.com/fatherlyhq" class="fa fa-facebook"></a></li>
+                <li class="desktop-menu__social-link"><a href="http://twitter.com/fatherlyhq" class="fa fa-twitter"></a></li>
+                <li class="desktop-menu__social-link"><a href="http://instagram.com/fatherlyhq" class="fa fa-instagram"></a></li>
+                <li class="desktop-menu__social-link"><a href="http://pinterest.com/fatherlyhq" class="fa fa-pinterest"></a></li>
+            </ul>
+        </div>            
+        <div class="desktop-menu__about clear clearfix">
+            <ul class="desktop-menu__list">
+                <li class="desktop-menu__category"><a href="/about-us">About Us</a></li>
+                <li class="desktop-menu__category"><a href="/careers">Careers</a></li>
+                <li class="desktop-menu__category"><a href="/terms">Terms &amp; Conditions</a></li>
+                <li class="desktop-menu__category"><a href="/privacy">Privacy Policy</a></li>
+                <li class="desktop-menu__category"><a href="/contact">Contact Us</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="desktop-menu__search">
+        <div class="desktop-menu__search-form">
+            <form class="search" method="get" action="/" role="search">
+                <input class="desktop-menu__search-input" type="text" name="s" placeholder="To search, type and hit enter.">
+                <button class="desktop-menu__search-submit" type="submit" role="button">Search</button>
+            </form>
+        </div>
+    </div>
+    <div class="desktop-menu__transparency"></div>
+</div>
+    <div class="mobile-menu">
+    <div class="mobile-menu__search">
+        <form role="search" method="get" id="searchform" action="/">
+            <div class="mobile-search__inner-wrapper clearfix">
+                <input type="text" class="mobile-search__input" value="" name="s" id="s" placeholder="Search...">
+                <div class="mobile-search__submit-wrapper">
+                    <input type="submit" id="searchsubmit" value="" class="mobile-search__submit-btn">
+                    <div class="mobile-search__submit-icon">
+                        <span></span>                
+                        <span></span>                
+                        <span></span>                
+                    </div>
+                </div>
+            </div>
+        </form>        
+    </div>
+    <div class="mobile-menu__categories">
+        <ul class="mobile-menu__categories-list">
+            <li class="mobile-menu__ages-stages">
+                <h4 class="mobile-menu__title mobile-menu__title--expandable" data-ev-loc="mobile-menu" data-ev-name="show-more" data-ev-val="ages-stages">
+                    Ages &amp; Stages
+                    <i class="mobile-menu__expand-icon fa fa-plus"></i>
+                </h4>
+                <ul class="mobile-menu__list mobile-menu__list--expandable">
+                    <li class="mobile-menu__category"><a href="/tag/trying/">Trying</a></li>
+                    <li class="mobile-menu__category"><a href="/tag/pregnancy-expecting/">Expecting</a></li>
+                    <li class="mobile-menu__category"><a href="/tag/infants-age-0-12-months-old-milestones-development/">Newborn</a></li>
+                    <li class="mobile-menu__category"><a href="/tag/baby-age-1-years-old-milestones-development/">Age 1</a></li>
+                    <li class="mobile-menu__category"><a href="/tag/baby-age-2-years-old-milestones-development/">Age 2</a></li>
+                    <li class="mobile-menu__category"><a href="/tag/toddlers-age-3-years-old-milestones-development/">Age 3</a></li>
+                    <li class="mobile-menu__category"><a href="/tag/toddlers-age-3-years-old-milestones-development/">Age 4</a></li>
+                    <li class="mobile-menu__category"><a href="/tag/ages-5-years-and-up/">Age 5</a></li>
+                    <li class="mobile-menu__category"><a href="/tag/stage-kid/">Ages 6-10</a></li>
+                    <li class="mobile-menu__category"><a href="/tag/stage-tween/">Ages 10+</a></li>
+                </ul>
+            </li>
+            <li class="mobile-menu__browse-categories">
+                <h4 class="mobile-menu__title">
+                    Browse by Category
+                </h4>
+                <ul class="mobile-menu__list">
+                    <li class="mobile-menu__category"><a href="/activities/">Activities</a></li>
+                    <li class="mobile-menu__category"><a href="/gear/">Gear</a></li>
+                    <li class="mobile-menu__category"><a href="/toys-and-books/">Toys &amp; Books</a></li>
+                    <li class="mobile-menu__category"><a href="/kids-health-and-development/">Health &amp; Development</a></li>
+                    <li class="mobile-menu__category"><a href="/parenting-and-relationships/">Parenting &amp; Relationships</a></li>
+                    <li class="mobile-menu__category"><a href="/fatherly-forum/">Fatherly Forum</a></li>
+                    <li class="mobile-menu__category"><a href="/travel-and-vacations/">Travel</a></li>
+                    <li class="mobile-menu__category mobile-menu__category--expand" data-ev-loc="mobile-menu" data-ev-name="show-more" data-ev-val="more-categories"><a href="#">More +</a></li>
+                    <li class="mobile-menu__category mobile-menu__category--hide"><a href="/gift-ideas">Gift Guides</a></li>
+                    <li class="mobile-menu__category mobile-menu__category--hide"><a href="/work-money">Work &amp; Money</a></li>
+                    <li class="mobile-menu__category mobile-menu__category--hide"><a href="/humor">Humor</a></li>
+                    <li class="mobile-menu__category mobile-menu__category--hide"><a href="/education-care">Education</a></li>
+                    <li class="mobile-menu__category mobile-menu__category--hide"><a href="/mens-health">Men's Health</a></li>
+                </ul>
+            </li>
+        </ul>
+    </div>
+    <div class="mobile-menu__about">
+        <h4 class="mobile-menu__title mobile-menu__title--expandable" data-ev-loc="mobile-menu" data-ev-name="show-more" data-ev-val="site-info">
+            About Fatherly
+            <i class="mobile-menu__expand-icon fa fa-plus"></i>
+        </h4>
+        <ul class="mobile-menu__list mobile-menu__list--expandable">
+            <li class="mobile-menu__category"><a href="#">About</a></li>
+            <li class="mobile-menu__category"><a href="#">Careers</a></li>
+            <li class="mobile-menu__category"><a href="#">Terms &amp; Conditions</a></li>
+            <li class="mobile-menu__category"><a href="#">Privacy Policy</a></li>
+        </ul>
+    </div>
+    <div class="mobile-menu__social">
+        <ul class="mobile-menu__social-list">
+            <li class="mobile-menu__social-link"><a href="http://facebook.com/fatherlyhq" class="fa fa-facebook"></a></li>
+            <li class="mobile-menu__social-link"><a href="http://twitter.com/fatherlyhq" class="fa fa-twitter"></a></li>
+            <li class="mobile-menu__social-link"><a href="http://instagram.com/fatherlyhq" class="fa fa-instagram"></a></li>
+            <li class="mobile-menu__social-link"><a href="http://pinterest.com/fatherlyhq" class="fa fa-pinterest"></a></li>
+        </ul>
+    </div>
+</div>
+
+<div class="mobile-email-menu">
+    <div class="mobile-email-menu__outer-wrapper">
+        <div class="mobile-email-menu__inner-wrapper">
+            <h4 class="mobile-email-menu__title">Sign up for Fatherly</h4>
+            <form method="post" class="boomtrain-form__mobile" data-ev-loc="mobile-menu" data-ev-name="email-signup">
+                <div>
+                    <input name="boomtrain-form__mobile-email" type="text" value="" class="medium boomtrain-form__mobile-email" tabindex="1" placeholder="Enter Email Address">
+                    <input type="submit" class="button submit boomtrain-form__mobile-submit" value="Sign Me Up" tabindex="2">
+                </div>
+                <div class="validation_message boomtrain-form__mobile-error" style="display:none;"></div>
+            </form>
+            <div id="gform_confirmation_message_2" class="gform_confirmation_message_2 gform_confirmation_message boomtrain-form__mobile-ok" style="display:none;">
+                    Thanks for subscribing!
+            </div>
+        </div>
+    </div>
+</div>
+
+
+<div class="mobile-search">
+    <form role="search" method="get" id="searchform" action="/">
+        <div class="mobile-search__inner-wrapper">
+            <input type="text" class="mobile-search__input" value="" name="s" id="s" placeholder="Search...">
+            <div class="mobile-search__submit-wrapper">
+                <input type="submit" id="searchsubmit" value="" class="mobile-search__submit-btn">
+                <div class="mobile-search__submit-icon">
+                    <span></span>                
+                    <span></span>                
+                    <span></span>                
+                </div>
+            </div>
+        </div>
     </form>
 </div>
-<div class="header">
-    <a href="/" class="fatherly-logo"></a>
-    <div class="subscrbe-module-floating">
-        <!-- <h2>Not a Fatherly Subscriber?</h2> -->
-        <div class="get-alerts">
-            <div class="input">
-                <i class="icons-sprite icons-subscribe_floating"></i>
-                <input class="form-input" type="email" placeholder="Enter Your Email">
-            </div>
-            <button class="form-submit" data-ga-tracking="signup_topright">SIGN ME UP</button>
-        </div>
-        <span class="brd">|</span>
-    </div>
-    <ul class="social">
-        <li><a href="https://www.facebook.com/fatherlyhq"><i class="icons-sprite fb"></i></a></li>
-        <li><a href="https://www.twitter.com/fatherlyhq"><i class="icons-sprite tw"></i></a></li>
-        <li><a href="#" class="show-search"><i class="icons-sprite search"></i> </a></li>
-    </ul>
-    <a href="#" class="show-search-mobile"><i class="icons-sprite magnifying-glass"></i></a>
-</div>
-<script>
-    require(['jquery', 'underscore'], function($, _) {
-        $(function() {
-            var $window = $(window),
-                $body = $('body'),
-                $header = $('.MainHeader'),
-                headerHeight = $header.outerHeight(),
-                stickyClass = 'with-fixed-header';
 
-            $window.scroll(function(evnt) { // TODO: debounce?
-                  $(".article-header").toggleClass('active',$window.scrollTop() > 700);
-              //  $body.toggleClass(stickyClass, $window.scrollTop() > headerHeight);
-            });
+<div class="mobile-ad-nav">
+</div>    <div id="content">
+			<!-- /header -->
+	<div class="page-content container-xsm clearfix">
+		<main role="main" class="default-page">
+			<!-- section -->
+			<section class="page-template">
 
-            $('.show-search, .show-search-mobile, .close-search').click(function(e){
-                e.preventDefault();
-                $('body').toggleClass('search-active');
-            })
+				<h1 class="page-template__title">Privacy Policy</h1>
 
-        });
-    });
-</script>
-<script>(function() {
-    var _fbq = window._fbq || (window._fbq = []);
-        if (!_fbq.loaded) {
-            var fbds = document.createElement('script');
-            fbds.async = true;
-            fbds.src = '//connect.facebook.net/en_US/fbds.js';
-            var s = document.getElementsByTagName('script')[0];
-            s.parentNode.insertBefore(fbds, s);
-            _fbq.loaded = true;
-        }
-    _fbq.push(['addPixelId', '1596782250568120']);
-})();
-    window._fbq = window._fbq || [];
-    window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=1596782250568120&amp;ev=PixelInitialized" /></noscript>
-        <!-- /Main header -->
-        <!-- menu-overlay -->
-        <div class="menu-overlay"></div>
-<nav class="menu-global">
-    <a href="/" class="site-logo dont-close"></a>
-    <div class="main-menu-wrapper">
-    <div class="menu-main clearfix">
-        <div class="menu-col first">
-            <div class="menu-col-inner">
-        
-                <ul class="menu-items mobile-signup-login">
-                    <li><a class="signup-login" href="/core/in">Sign Up/Login</a></li>
-                </ul>
-        
+			
+				<!-- article -->
+				<article id="post-22147" class="post-22147 page type-page status-publish hentry">
 
-                <span class="menu-title dn-mobile">Topics</span>
-                <ul class="menu-items">
-                    <li><a href="/activities"><span>Activities</span></a></li>
-                    <li><a href="/gear"><span>Gear</span></a></li>
-                    <li><a href="/food--health"><span>Food &amp; Health</span></a></li>
-                    <li><a href="/work--money"><span>Work &amp; Money</span></a></li>
-                    <li><a href="/relationships"><span>Relationships</span></a></li>
-                    <li><a href="/Fatherly-Forum"><span>Fatherly Forum</span></a></li>
-                    <li><a href="http://shop.fatherly.com"><span>Shop</span></a></li>
-                </ul>
-                
-                    <span class="menu-title">Features</span>
-                    <ul class="menu-items">
-                        <!-- <li class="dn-mobile"><a href="#">Product Guides</a></li> -->
-                        <li><a href="/940-saturdays/"><span>940 Saturdays</span></a></li>
-                        <li><a href="/crib-notes/"><span>Crib Notes</span></a></li>
-                        <li><a href="/fatherly-profiles/"><span>Fatherly Profiles</span></a></li>
-                        <li><a href="/why-is-the-sky-blue/"><span>Why Is The Sky Blue</span></a></li>
-                        <li><a href="/the-50-best-places-to-work-for-new-dads-1114879106.html"><span>50 Best Places To Work As A New Dad</span></a></li>
-                        <!-- <li class="dn-mobile"><a href="#">50 Best Companies for Guys With Kids</a></li> -->
-                    </ul>
-                
-                
-                    <span class="menu-title">About&nbsp;Fatherly</span>
-                    <ul class="menu-items mobile-dropdown">
-                        <li><a href="/sp/about-us.html"><span>About Us</span></a></li>
-                        <li><a href="/sp/contact-us.html"><span>Contact Us</span></a></li>
-                        <li><a href="/sp/privacy-policy.html"><span>Privacy Policy</span></a></li>
-                        <li><a href="/sp/careers.html"><span>Careers</span></a></li>
-                        <li><a href="/sp/terms-of-use.html"><span>Terms of Use</span></a></li>
-                    </ul>
-                
-            </div>
-        </div>
-        <div class="menu-col last">
-            <div class="menu-col-inner">
-            
-                <span class="menu-title">My Account</span>
-                <div class="main-menu-wrapper">
-                    <ul id="main-menu" class="main-menu personal-menu"></ul>
-                </div>
-            
-            </div>
-        </div>
-    </div>
-    <div class="menu-social-connect">
-        <a href="http://www.facebook.com/fatherlyhq" class="facebook"><i class="icons-sprite"></i></a>
-        <a href="http://www.twitter.com/fatherlyhq" class="twitter"><i class="icons-sprite"></i></a>
-    </div>
-    </div>
-</nav>
-<script type="text/javascript">
-   require(['jquery'], function($) {
-        $(".mobile-dropdown .menu-title").click(function() {
-            $(this).parent().toggleClass('open');
-        });
-    })
-</script>
-        <!-- /menu-overlay -->
-        <!-- main -->
-        <div class="main">
-            <div class="content layout-width">
-                
-<h2>Privacy Policy</h2>
-<h3>Personal Information</h3>
-<p>In order to supply you with Fatherly’s emails, we need your email address. Fatherly doesn’t collect any information except that expressly provided by you. We will not disclose your personal information to any third party without your consent, except as required to provide you with Fatherly material. Fatherly will never sell, rent, or share your personal information, including your email to any third parties for marketing purposes without your explicit consent.</p>
+					<h3>Personal Information</h3>
+<p>In order to supply you with Fatherly’s emails, we need your email address. Fatherly doesn’t collect any information except that expressly provided by you.</p>
 <h3>Other Information</h3>
-<p>Fatherly may also request additional information such as age, buying preferences, annual income, or other demographic or profile information. We use this information to better tailor our content and improve the experience on our site. We may also share this information with third parties, such as advertisers, but only in aggregate, anonymous form. No third party will receive information from us that personally identifies you or anyone else in any way.</p>
+<p>Fatherly may also request additional information such as age, buying preferences, annual income, or other demographic or profile information. We use this information to better tailor our content and improve the experience on our site. We may also share this information with third parties, such as advertisers, but only in aggregate, anonymous form.</p>
 <h3>Usage Information</h3>
 <p>In addition to collecting other personal and non-personal information, Fatherly may gather other information on how our site is used. This information is not personally identifiable and will be used to determine how our website is being used. Examples of such information is: How much time do users spend on our site? What pages do they view? What sites did they come from? What sites do they go to? All of this information is collected to help us create a better, faster, more efficient website and provide you with better content.</p>
 <h3>Review and Access</h3>
@@ -187,128 +487,146 @@
 <h3>Contact Us</h3>
 <p>If you have questions about this policy, or about the site, please contact us or you could also review our About page.</p>
 
-            </div>            
-        </div>
-        <!-- /main -->
-        <!-- main-footer -->
-        
-            <footer class="ftr clearfix">
-    <div class="footer-logo">
-        <a class="icons-sprite" href="/"></a>
-    </div>
-    <div class="footer-col-left">
-        <ul class="footer-list-link">
-            <li><a href="/sp/about-us.html">About Us</a></li>
-            <li><a href="/sp/contact-us.html">Contact Us</a></li>
-            <li><a href="/sp/privacy-policy.html">Privacy Policy</a></li>
-            <li><a href="/sp/careers.html">Careers</a></li>
-            <li><a href="/sp/terms-of-use.html">Terms of Use</a></li>
-        </ul>
-        <p class="copy">© 2016 Fatherly. All Rights Reserved.</p>
-    </div>
-    <div class="footer-subscrabe-box">
-        <div class="clearfix">
-            <p>Subscribe</p>
-            <div class="get-alerts">
-                <input type="email" placeholder="Enter Email" pattern="^[\w-\.]+)@((?:[\w]+\.)+)([a-zA-Z]{2,6}$">
-                <button type="button" class="btn site-subscribe" data-ga-tracking="signup_footer"></button>
-            </div>
-        </div>
-    </div>
-    <div class="footer-social-list">
-        <p>Connect</p>
-        <ul class="clearfix">
-            <li><a href="https://www.facebook.com/fatherlyhq" class="icons-sprite icons-facebook"></a></li>
-            <li><a href="https://www.twitter.com/fatherlyhq" class="icons-sprite icons-twitter"></a></li>
-            <li><a href="https://www.pinterest.com/FatherlyHQ/" class="icons-sprite icons-pinterest"></a></li>
-        </ul>
-    </div>
-</footer>
-<script type="text/javascript" src="//s.skimresources.com/js/74823X1524793.skimlinks.js" async=""></script>
-<!-- Start BounceX tag. Deploy at the beginning of document head. -->
-<script type="text/javascript">
-(function(d) {
-    var e = d.createElement('script');
-    e.src = d.location.protocol + '//bounceexchange.com/tag/1212/i.js';
-    e.async = true;
-    d.getElementsByTagName("head")[0].appendChild(e);
-}(document));
+
+				</article>
+				<!-- /article -->
+
+			
+			
+			</section>
+			<!-- /section -->
+		</main>
+	</div>
+
+
+			<footer class="site-footer">
+				<a class="site-footer__footer-logo" href="https://www.fatherly.com/">Fatherly</a>
+				<ul class="footer-social site-footer__footer-social-list">
+					<li class="site-footer__footer-social-list-item"><a href="https://www.facebook.com/fatherlyhq" target="_blank"><i class="fa fa-facebook"></i></a></li>
+					<li class="site-footer__footer-social-list-item"><a href="https://www.twitter.com/fatherlyhq" target="_blank"><i class="fa fa-twitter"></i></a></li>
+					<li class="site-footer__footer-social-list-item"><a href="https://www.instagram.com/fatherlyhq/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+				</ul>
+
+				<div class="menu-footer-menu-container site-footer__menu-container">
+					<ul id="menu-footer-menu" class="menu site-footer__menu-container-list">
+						<li class="site-footer__menu-container-list-item"><a href="https://www.fatherly.com/about-us/">About Us</a></li>
+						<li class="site-footer__menu-container-list-item"><a href="https://www.fatherly.com/contact-us/">Contact Us</a></li>
+						<li class="site-footer__menu-container-list-item"><a href="https://www.fatherly.com/privacy-policy/">Privacy Policy</a></li>
+						<li class="site-footer__menu-container-list-item"><a href="https://www.fatherly.com/careers/">Careers</a></li>
+						<li class="site-footer__menu-container-list-item"><a href="https://www.fatherly.com/terms-of-use/">Terms of Use</a></li>
+					</ul>
+				</div>			
+				<p class="site-footer__copyright">© 2017 Fatherly. All rights reserved.</p>
+			</footer>
+
+		</div>
+		<!-- /wrapper -->
+
+		<!--false-->
+		<script type="text/javascript">
+/* <![CDATA[ */
+var fthloadmore = {"url":"https:\/\/www.fatherly.com\/wp-admin\/admin-ajax.php","query":{"page":"","pagename":"privacy-policy"}};
+/* ]]> */
 </script>
-<!-- End Bounce X tag -->
+<script type="text/javascript" src="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/themes/grandfather/js/footer-scripts.js?ver=2.1.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var BJLL_options = {"threshold":"400"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://1ehukb3kd764oddub3rdo4uw-wpengine.netdna-ssl.com/wp-content/plugins/bj-lazy-load/js/bj-lazy-load.min.js?ver=2"></script>
+
+		<!-- Start Boomtrain Analytics -->
+<!-- <script src="https://cdn.boomtrain.com/analyticstrain/395257cfe55bb848d0de22073ce7c33e/analyticstrain.min.js"></script> -->
+
+<!-- End Boomtrain Analytics -->  
 
 <!-- Quantcast Tag -->
 <script type="text/javascript">
-var _qevents = _qevents || [];
+	var _qevents = _qevents || [];
 
-(function() {
-    var elem = document.createElement('script');
-    elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
-    elem.async = true;
-    elem.type = "text/javascript";
-    var scpt = document.getElementsByTagName('script')[0];
-    scpt.parentNode.insertBefore(elem, scpt);
-})();
+	(function() {
+	var elem = document.createElement('script');
+	elem.src = (document.location.protocol == "https:" ? "https://secure" : "http://edge") + ".quantserve.com/quant.js";
+	elem.async = true;
+	elem.type = "text/javascript";
+	var scpt = document.getElementsByTagName('script')[0];
+	scpt.parentNode.insertBefore(elem, scpt);
+	})();
 
-_qevents.push({
-    qacct:"p-CsS7pu3gG9C94"
-});
+	_qevents.push({
+	qacct:"p-CsS7pu3gG9C94"
+	});
 </script>
 
 <noscript>
-<div style="display:none;">
-    <img src="//pixel.quantserve.com/pixel/p-CsS7pu3gG9C94.gif" border="0" height="1" width="1" alt="Quantcast"/>
-</div>
+	<div style="display:none;">
+		<img src="//pixel.quantserve.com/pixel/p-CsS7pu3gG9C94.gif" border="0" height="1" width="1" alt="Quantcast"/>
+	</div>
 </noscript>
 <!-- End Quantcast tag -->
 
-<!-- Measuring time -->
+
+<!-- Facebook SDK -->
+
 <script>
-var spentTime = 0,
-    requestInterval = 20, // seconds
-    initSent = false;
-
-setInterval(function(){
-    spentTime += requestInterval;
-}, requestInterval * 1000);
-
-require(['jquery', 'core/stats/ga_tracker'], function($, gaTracker){
-    setInterval(function() {
-        if (window[window.GoogleAnalyticsObject]) {
-            if (!initSent) {
-                var tempTime = requestInterval;
-                while (tempTime < spentTime) {
-                    gaTracker.trackAction('visit.bounce_time', tempTime + ' seconds');
-                    // console.log("############## " + tempTime + ' seconds');
-                    tempTime += requestInterval;
-                }
-                initSent = true;
-            }
-            gaTracker.trackAction('visit.bounce_time', spentTime + ' seconds');
-            // console.log("############## " + spentTime + ' seconds');
-        }
-    }, requestInterval * 1000);
-});
+      window.fbAsyncInit = function() {
+        FB.init({
+          appId      : '561681104025922',
+          xfbml      : true,
+          version    : 'v2.6'
+        });
+      };
+    (function(d, s, id){
+        var js, fjs = d.getElementsByTagName(s)[0];
+        if (d.getElementById(id)) return;
+        js = d.createElement(s); js.id = id;
+        js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=663787347083011&version=v2.3";
+        fjs.parentNode.insertBefore(js, fjs);
+    }(document, 'script', 'facebook-jssdk'));
 </script>
-<!-- End Measuring time -->
-        
-        <!-- /main-footer -->
-    </div>
-    <script>
-      (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-      (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-      m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-      })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+<!-- End Facebook SDK -->
 
-      if (window.location.hostname.match('\.rebelmouse.com$')) {
-         ga('create', 'UA-26184524-1', {'cookieDomain': 'rebelmouse.com'});
-      } else {
-         ga('create', 'UA-26184524-1', 'auto');
-      }
-      ga('require', 'displayfeatures');
-      ga('send', 'pageview');
-         ga('create', 'UA-50600763-1', 'auto', {'name': 'b'});
-         ga('b.require', 'displayfeatures');
-         ga('b.send', 'pageview');
-    </script>
+
+<!-- Facebook Pixel Code -->
+<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+	fbq('init', '1596782250568120');
+	fbq('track', "PageView");
+</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1596782250568120&ev=PageView&noscript=1"/></noscript>
+<!-- End Facebook Pixel Code -->
+
+
+<!-- Google Analytics RANK Tracking events -->
+<script>
+(function(){
+  var referrer = document.referrer;
+  if(referrer.match(/google\.com/gi) && referrer.match(/cd/gi)){
+    var r    = referrer.match(/cd=(.*?)&/);
+    var rank = parseInt(r[1]);
+    var kw   = referrer.match(/q=(.*?)&/);
+    var word = (kw[1].length > 0) ? decodeURI(kw[1]) : "(not provided)";
+    var p    = document.location.pathname;
+
+    ga('send', 'event', 'RankTracker', word, p, rank, {nonInteraction: true})
+  }
+})()
+</script>
+
+<noscript class="MOAT-fatherlydfp473915855393?moatClientLevel1=%eadv!&amp;moatClientLevel2=%ebuy!&amp;moatClientLevel3=%eaid!&amp;moatClientLevel4=%ecid!&amp;moatClientSlicer1=%esid!&amp;moatClientSlicer2=%epid!&amp;zMoatPS=%%PATTERN:pos%%"></noscript>
+<script src="https://z.moatads.com/fatherlydfp473915855393/moatad.js#moatClientLevel1=%eadv!&amp;moatClientLevel2=%ebuy!&amp;moatClientLevel3=%eaid!&amp;moatClientLevel4=%ecid!&amp;moatClientSlicer1=%esid!&amp;moatClientSlicer2=%epid!&amp;zMoatPS=%%PATTERN:pos%%" type="text/javascript" defer="defer"></script>
+
+
+<script src="//dc8xl0ndzn2cb.cloudfront.net/js/fatherly/v0/keywee.min.js" defer="defer" type="text/javascript"></script>
+
+
+<script type="text/javascript" charset="utf-8" src="//wms.assoc-amazon.com/20070822/US/js/auto-tagger.js?tag=fatherlycom-20&amp;locale=US&amp;overwrite=1" defer="defer"></script>
+	
 
 </body></html>
