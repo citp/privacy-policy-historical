@@ -1,111 +1,146 @@
-> *The following text is extracted and transformed from the topresume.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209063308id_/https%3A//www.topresume.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topresume.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128160143id_/https%3A//www.topresume.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy For TopResume Career Services
 
-## TopResume Privacy Policy
+Welcome to TopResume! We work hard to protect your personal information and ensure your information is kept private and secure. The following privacy policy outlines the types of personal information that Talent Worldwide Inc., d/b/a TopResume ("TopResume") collects. It also explains why we collect the information and how we use it.
 
-This privacy policy was last modified on October 4, 2014.
+Privacy is important to TopResume. If you have any questions or if you believe that TopResume has not adhered to this privacy policy, please send us a note at [contact@topresume.com](mailto:contact@topresume.com).
 
-We built Talent Worldwide Inc., d/b/a TopResume ("TopResume") out of a desire to help people develop their careers. Your comfort and security are our top priority. As such, we are committed to offering a complete set of security options that we hope will make your experience the best possible. We want to provide you with the privacy tools necessary to control how and with whom you share your information.
+## Privacy Policy
 
-This Privacy Policy is only in effect for any web pages, e-mail lists, collective non user-specific information and collective personal information collected on or through TopResume's website, located at topresume.com, as well as any online features, services, applications and/or programs offered by TopResume (collectively, the "Site"). If you have questions or ideas, please send them to [contact@topresume.com](mailto:contact@topresume.com). 
+**1\. ACKNOWLEDGEMENT AND ACCEPTANCE OF TERMS**
 
-  
+Talent Worldwide Inc., d/b/a TopResume ("TopResume") is committed to protecting your privacy. This Privacy Policy sets forth our current privacy practices with regard to the information we collect when you or your computer interact with our website. By accessing www.TopResume.com, you acknowledge and fully understand TopResume’s Privacy Policy and freely consent to the information collection and use practices described in this Website Privacy Policy.
 
+**2\. PARTICIPATING MERCHANT POLICIES**
 
-## Contents
+Related services and offerings with links from this website, including vendor sites, have their own privacy policies that can be viewed by clicking on the corresponding links within each respective website. Online merchants and others who participate in TopResume services are encouraged to participate in industry privacy initiatives and to take a responsible attitude towards consumer privacy. However, since we do not have direct control over the policies or practices of participating merchants and other third parties, we are not responsible for the privacy practices or contents of those sites. We recommend and encourage that you always review the privacy policies of merchants and other third parties before you provide any personal information or complete any transaction with such parties.
 
-  * [Personal Information.](https://web.archive.org/privacy#personalInfo)
-  * [Use of Personal Information.](https://web.archive.org/privacy#useInfo)
-  * [Links to other websites.](https://web.archive.org/privacy#linkInfo)
-  * [Security Measures.](https://web.archive.org/privacy#securityInfo)
-  * [User Agreement.](https://web.archive.org/privacy#agreementInfo)
+**3\. INFORMATION WE COLLECT AND HOW WE USE IT**
 
+TopResume collects certain information from and about its users three ways: directly from our Web Server logs, from any browsing information, including Cookies, and from the user, including in response to surveys and questionnaires and content voluntarily shared in resumes and in forums.
 
+**a. Web Server Logs**
 
-## Personal Information.
+When you visit our Website, we may track information to administer the site and analyze its usage. Examples of information we may track include:
 
-  * Creating a profile on TopResume 
-    * When you register, TopResume asks for your e-mail address, a user selected user name, and other information. Once you are a registered user you can update your profile and may provide additional preferential information (e.g. professional and academic background information, contact information etc).
-    * As a registered user you can change your personal information, including your contact email address, at any time.
-    * You can choose to hide your information under the Privacy Preferences in Account Settings. The options include changing the settings for if you want to be seen in searches, if you want your profile to be seen and if you want your friends list to be seen.
-
-
-
-## Use of Personal Information.
-
-  * Information that we collect is used for four main purposes. First, we collect information to improve the Site by determining which of our features, services, applications and/or programs are most popular. Second, we collect information to personalize the experience of the users of the Site. For example, users of some of the features of the Site are required to create an Account, UserID and password in order to access those features. Third, we collect information to enable our users to participate in features, services, applications, programs and/or other activities from time to time. Finally, we collect information (such as credit card information) to enable our users to purchase our products directly through the Site. 
-  * Technical Information 
-    * Every computer connected to the internet is given a domain name and a set of numbers that serve as that computer's "internet Protocol", or IP, address. When a user requests a web page from the Site, our web servers automatically recognize that user's domain name and IP address. The domain name and IP address reveal nothing personal about the user other than the IP address from which the user has accessed the Site. We may collect IP address for diagnostics, and we may collect aggregated demographic/geographic statistics, but your personal IP information will never be shared with third parties (except as part of the sale or acquisition of TopResume). 
-    * From time to time, we and/or our affiliates or advertisers may send a "cookie" to your computer. A cookie is a small piece of data that is sent to your internet browser from a web server and stored on your computer's hard drive. A cookie, by itself, cannot read data from your hard disk or read cookie files created by other websites. A cookie, by itself, does not damage your system. We may use cookies to identify and keep track of those areas of the Site that you have visited in the past in order to enhance your next visit to the Site, to streamline site usage, and for some statistical purposes. Our advertisers may also use cookies to ascertain how many times that you have seen an advertisement. We and our advertisers may use this information to better personalize the content, banners and promotions that you see on the Site. You can choose whether or not to accept cookies by changing the settings of your internet browser. If you choose not to accept cookies, your experience on the Site may be diminished and some features may not be available or may not work as intended. 
-    * In addition to the other times or occasions on which we might disclose information about users of the Site, we might also disclose information when required by law or in the good-faith belief that such disclosure is necessary to: (a) comply with a legal process; (b) enforce this Privacy Policy; (c) respond to claims that any materials, documents, images, graphics, logos, designs, audio, video and any other information provided from or on the Site violates the rights of third parties; and/or (d) protect the rights, property or personal safety of TopResume, its partners or users or the public. 
-  * In order to provide you with a better experience, we may provide information about you to pre-approved third party websites. You can opt-out of third party services by emailing us at [contact@topresume.com](mailto:contact@topresume.com) or directly with the third-party. 
-  * In order to provide users of the Site with many of the added values and special offers of reputable organizations and retailers, we may provide some or all of your personal information to reputable third-party companies. You may also receive mailings, telephone calls and/or facsimiles from other reputable, third-party companies. Users have the option of not participating in these value added benefits by following the procedure for withholding your personal information that is set forth at the end of this Privacy Policy. 
-  * After registration, TopResume may contact you via email with periodic notifications about network updates, messages, and new features and services.
-  * We may transfer personal information of our users to a third party as part of the acquisition of TopResume or its assets. In any such transfer of information, your user information would remain subject to this Privacy Policy.
-  * We use reasonable precautions to keep the information that is disclosed to us secure. But we cannot and will not be responsible for any breach of security by any third parties or for any actions of any third parties that receive any of the information that is disclosed to us. The Site may link to a variety of other websites and the Site may contain advertisements of third parties. We are not and cannot be responsible for the privacy policies of those websites of third parties or how they treat information about their users. 
-
-
-* Credit Card Information.
-
-  * The Site is designed to protect the privacy of your credit card information, name, address, e-mail and any other information you provide us. TopResume is committed to data security with respect to information collected on our site. We offer the industry standard security measures available by utilizing a Secure Socket Layer ("SSL") connection. It is our practice to contact customers if a problem should arise with your purchase or if we need to send you a normal business communication regarding your purchase. 
+  * Your Internet protocol address.
+  * The kind of browser or computer you use.
+  * Number of links you click within the site.
+  * State or country from which you accessed the site.
+  * Date and time of your visit.
+  * Name of your Internet service provider.
+  * Web page you linked to our site from.
+  * Pages you viewed on the site.
 
 
 
-## Links to other websites.
+**b. Use of Cookies**
 
-  * TopResume may contain links to other websites, including links to various third party service providers. We are not responsible for the privacy practices or the content of such websites. Other than under agreements with certain reputable organizations and companies, and except for third party service providers whose services you voluntarily elect to utilize, we do not share any of the personal information that you provide to us with any of the websites to which the Site links, although we may share aggregate, non-personally identifiable data with those other websites. We may also link to websites that feature TopResume trademarks and names along with trademarks and names of other companies. You should review the privacy policy on those websites, as those websites may not be under TopResume's control.
+TopResume may use cookies to personalize or enhance your user experience. A cookie is a small text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a Web Server in the domain that issued the cookie to you.
 
+One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. Hence, this simplifies the process of delivering relevant content and eases site navigation by providing and saving your preferences and login information as well as providing personalized functionality.
 
+TopResume reserves the right to share aggregated site statistics with partner companies, but does not allow other companies to place cookies on our website unless there is a temporary, overriding customer value (such as merging into www.TopResume.com a site that relies on third-party cookies).
 
-## Security Measures.
+You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies. If you reject cookies by changing your browser settings then be aware that this may disable some of the functionality on our Website.
 
-  * TopResume has security measures in place to protect the loss, misuse, and alteration of the information under our control. These measures include a firewall to prevent unauthorized access to our systems and maintenance of registration information in a secure database.
-  * We do our best to provide secure transmission of information between your computer and our servers. However, we cannot ensure or warrant the security of any information transmitted to us over the internet and we accept no liability for any unintentional disclosure.
-  * For certain features available through the Site, we may require the use of encryption technologies provided for your protection and/or your use of a UserID and password after setting up an Account. We use reasonable precautions to protect the privacy of your UserID, password, Account information and credit card information by utilizing an SSL connection. Accordingly, your UserID, password, Account information and credit card information are encrypted using an SSL connection and are not expected to be read in an intelligible form as they travel to the Site. You, however, are ultimately responsible for protecting your UserID, password, Account information and credit card information from disclosure to third parties, and you are not permitted to circumvent the use of required encryption technologies. You agree to: (a) immediately notify TopResume of any unauthorized use of your UserID, password and/or Account, and/or any other breach of security, and (b) ensure that you exit from your Account at the end of each session. While we may provide certain encryption technologies and use other reasonable precautions to protect your confidential information and provide suitable security, we do not and cannot guarantee or warrant that information transmitted through the internet is secure, or that such transmissions are free from delay, interruption, interception or error.
+**c. Personal Information of Users**
 
+Visitors to our website may be permitted to register to purchase services. When you register, we will request some personal information such as name, address, email, telephone number or facsimile number, account number and other relevant information. If you are purchasing a service, we may request financial information. Any financial information we collect is used only to bill you for the services you purchased. If you purchase by credit card, this information may be forwarded to your credit card provider. We do not store any credit card information. For other types of registrations, we will ask for the relevant information. You may also be asked to disclose personal information to us so that we can provide assistance and information to you. For example, such data may be warranted in order to provide online technical support and troubleshooting. We will also collect such additional personal information as you choose to share with us, such as, content included on your resume or provided to us for use in writing or editing your resume, photos or other content you may post, including, as you may elect to post, social media handles, links to Facebook groups or Google Groups, and other social platforms ("Posted Content"). We may also collect any information provided to us by partners, such as expected salary or industry. We may also match information provided to us by third parties with personally identifiable information in order to validate certain aspects of that information.
 
+We will not disclose personally identifiable information (other than Posted Content, which you agree to make public by posting) we collect from you to third parties without your permission except to the extent necessary including:
 
-## Information From Children. 
-
-  * The Site is not intended or designed to attract children under the age of thirteen (13). We do not collect personally identifiable data from any person that we know to be under the age of thirteen (13). If we learn that a user under the age of thirteen (13) is publicly posting or sharing personally identifiable information on or through the Site, then we will use reasonable measures to block that user from accessing these areas of the Site. 
-  * Parents should be aware that TopResume's Privacy Policy will govern our use of personal data, but also that information that is voluntarily given by children – or others – in chat sessions, e-mail exchanges, bulletin boards or the like may be used by other parties to generate unsolicited communications. TopResume encourages all parents to instruct their children in the safe and responsible use of their personal data while using the internet.
-
-
-
-## European Union Users.
-
-  * Because TopResume's Site is accessible globally, the information that we collect may be made available to our affiliates, partners and subsidiaries worldwide. For those users visiting us from the European Union, please note that TopResume may transfer your personally identifiable data outside the European Union for use for any of the purposes described in this Privacy Policy. By using the Site and providing TopResume with your personal data, you consent to such transfer of your personal data. 
-
-
-
-## User Agreement.
-
-  * As a user of TopResume you will have access to other users' personal information. You agree to use this information solely for recruiting purposes. TopResume and its users shall not tolerate spam of any kind. Accounts suspected of causing spam will be deactivated immediately. Please feel free to report any misuse of TopResume by contacting us at [contact@topresume.com](mailto:contact@topresume.com). 
-  * Your use of the TopResume website, including any dispute concerning privacy, is subject to this Privacy Policy and TopResume's [Terms and Conditions](https://web.archive.org/terms). . We reserve the right to change this Privacy Policy at any time by posting the changes on this page. Please check the revision date at the top of this page to determine if the Policy has been modified since you last reviewed it. Your continued use of any portion of the TopResume website following the posting of the updated Privacy Policy will constitute your acceptance of the changes. 
+  * To fulfill your service requests for products or services, such as providing writers with access to resumes and personal information provided by you. 
+  * To protect ourselves, our customer or our vendors from liability or to defend our rights, including investigations of fraud or misconduct.
+  * To third parties who have agreed in writing to maintain such information in confidence and use such information solely in performance of services to us. 
+  * To respond to legal process or comply with law, including subpoenas.
+  * To entities under common ownership or control with us or to our owners. 
+  * To third parties for purposes of research or analysis or to market goods or services to you (unless you have opted-out under Section 11).
+  * In connection with a merger, acquisition, or liquidation of the company. 
+  * If you purchase a product or service that is sponsored for a group of users, including, for example, your employer, we may share the fact of your participation with the group sponsor.
+  * If you purchase or view a critique, we may share your name and email with the partner.
 
 
 
-## Governing Law; Exclusive Jurisdiction
+We may provide either resumes submitted to us or revised by us to partners. We may also share information with third parties in order to develop and provide services that may be useful to you.
 
-  * This Privacy Policy shall be governed by the laws of the State of California without regard to its conflict of law provisions. Any disputes arising under or related in any way to this Privacy Policy, the Site, any Application or any Services shall be resolved solely through binding arbitration in Santa Clara County, California, in accordance with the JAMS rules then in effect, and judgment upon any award rendered in such arbitration will be binding and conclusive on the parties hereto and may be entered in any court having jurisdiction thereof. 
+**4\. USE OF WEB BEACONS OR GIF FILES**
 
+TopResume Web pages may contain electronic images known as Web beacons – sometimes also called single-pixel gifs – that allow TopResume to count users who have visited those pages and to deliver co-branded services. TopResume may include Web beacons in promotional email messages or newsletters in order to determine whether messages have been opened and acted upon.
 
+Some of these Web beacons may be placed by third party service providers to help determine the effectiveness of our advertising campaigns or email communications. These Web beacons may be used by these service providers to place a persistent cookie on your computer. This allows the service provider to recognize your computer each time you visit certain pages or emails and compile anonymous information in relation to those page views, which in turn enables us and our service providers to learn which advertisements and emails bring you to our website and how you use the site. TopResume prohibits Web beacons from being used to collect or access your personal information.
 
-## Your Consent To This Privacy Policy
+**5\. ACCESSING WEB ACCOUNT INFORMATION**
 
-  * By using the Site, you consent to the collection and use of information by us as specified above or as we otherwise see fit unless you inform us otherwise by means of the procedure identified below. If we decide to change this Privacy Policy, we will make an effort to post those changes on this web page so that you will always be able to understand what information we collect, how we use that information and under what circumstances we may disclose that information to others. We may use comments, information or feedback that you may submit in any manner that we may choose without notice or compensation to you. 
-  * If you have additional questions or comments of any kind, if you see anything on the Site that you think is inappropriate or if you would like to have any or all of your personal information withheld from third party organizations and companies and/or from third party service providers, please let us know by e-mail contact@topresume.com or by sending your comments or requests to: 
-  * Talent Worldwide Inc., d/b/a TopResume  
-149 E 23rd St.   
-Suite 1709   
-New York, NY 10010 
+We will provide you with the means to ensure that personally identifiable information in your web account file is correct and current. You may review this information by contacting us by sending an email to our support attendant – [contact@topresume.com](mailto:contact@topresume.com).
 
-Attn: Customer Care – Website Issues   
-[contact@topresume.com](mailto:contact@topresume.com)
+**6\. DO NOT TRACK**
 
+We have not implemented any technology that would effectively recognize do not track signals and note that some content available on our Site is made available through relationships with third party providers who we do not control and who may collect and/or disclose personally identifiable information.
 
+**7\. HOW TO CORRECT OR UPDATE YOUR INFORMATION**
 
+To update this information made available to us, please contact us at:  
+Talent Worldwide Inc., d/b/a TopResume  
+Attention: Customer Care – Website Issues  
+113 University Place  
+5th Floor  
+New York, NY 10003
+
+**8\. HOW WE PROTECT INFORMATION**
+
+We use commercially reasonable procedures that are designed to protect the personal information in our custody and control that we collect from you against loss, theft and misuse, as well as unauthorized access, disclosure, alteration and destruction. We have developed and implemented and continue to maintain and monitor a written information security program applicable to all records containing personal information. This security program is appropriate to the size, scope and type of our business, the resources available to us, the amount of stored data and the need for security and confidentiality of the personal information we store. No security system is impenetrable. We cannot guarantee the security of our databases or the security during transmission to us of the information you supply over the Internet. You can help us by taking precautions to protect your personal information when you are on the Internet and only disclose information that you want made public. Change your passwords often using a combination of letters and numbers and make sure to use a secure web browser.
+
+For the purposes set out in this Privacy Policy, personal information may be transferred to, processed, stored and accessed by us, our affiliates and third parties in the United States and in other jurisdictions where we or they operate. Courts and other authorities in these jurisdictions may, in certain circumstances, be entitled to access your personal information. By using the Website, you consent to this transfer, processing, storage and access of your personal information in and/or outside of the jurisdiction in which you reside.
+
+**9\. AGGREGATE DATA**
+
+We may share and publicize aggregate and/or de-identified information shared with third parties and the public.
+
+**10\. CHILDREN UNDER 13**
+
+We do not specifically market to or knowingly collect personal information from children under 13 for marketing purposes. Because some information is collected online, it may not appear to be the personal information of a child under 13. If a child under 13 submits personal information to us and we learn that the personal information is the information of a child under 13, we will attempt to delete the information as soon as possible. If you are under 13, please do not register for any of our services or provide us any information about yourself (such as your name, email address or phone number).
+
+**11\. OPTING OUT OF MARKETING**
+
+TopResume will provide the right to request and receive, once a year and free of charge, information about third parties to whom we have disclosed certain types of personal information (if any) about you for our direct marketing purposes in the prior calendar year, and a description of the categories of personal information shared. To make such a request, please send an email to [contact@topresume.com](mailto:contact@topresume.com) and please include the phrase "Personal Information Privacy Request" in the subject line, the domain name of the website you are inquiring about, along with your name, address and email address. At our option, we may respond to such requests by providing instructions about how our users can exercise their options to prevent our disclosure of personal information to third parties for their direct marketing purposes.
+
+This Privacy Policy identifies the categories of "Personally Identifiable Information" (as defined below) that we collect through our website about individual consumers who use or visit our website and the categories of third-party persons or entities with whom such personally identifiable information may be shared.
+
+Depending on the visitor’s activity at our website, certain Personally Identifiable Information may be collected, in addition to information set forth in other sections of this document. For purposes of this Privacy Policy, the term "Personally Identifiable Information" means individually identifiable information about an individual consumer collected online by us from an individual and maintained by us in an accessible form, and may include any of the following: (1) a first and last name; (2) a home or other physical address, including street name and name of a city or town; (3) an email address; (4) a telephone number; (5) any other identifier that permits the physical or online contacting of a specific individual; and (6) information concerning a user that the web site collects online from the use, and maintains in personally identifiable form, in combination with an identifier described within this Privacy Policy.
+
+Please refer to Section 7 for a description of the process maintained by TopResume for an individual customer who uses our website to review and request changes to any of his or her Personally Identifiable Information that is collected through our website.
+
+Please refer to Section 13 for a description of the process by which we notify individual customers who use our website of material changes to this Policy.
+
+**12\. CALIFORNIA ONLINE PRIVACY PROTECTION ACT**
+
+As required by the California Online Privacy Protection Act ("California Act") and the California Business and Professions Code, this Privacy Policy identifies the categories of Personally Identifiable Information (as that term is defined above and in the California Act) that we collect through our website about individual consumers who use or visit our website and the categories of third-party persons or entities with whom such personally identifiable information may be shared.
+
+See more about the California Act at <http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf>
+
+**13\. CHANGES TO THIS POLICY**
+
+TopResume has the discretion to occasionally update this Privacy Policy. When we do, we will also revise the "updated" date at the top of this Privacy page. We encourage you to periodically review this Privacy Policy to stay informed about how we are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this Privacy Policy and any updates.
+
+**14\. TRANSLATIONS**
+
+This Privacy Policy is executed in English. You agree and acknowledge that you have reviewed this Privacy Policy in English. To the extent that any translations of this Privacy Policy are provided, they are solely for convenience and is of no binding effect. The English language version of this Privacy Policy shall control.
+
+**15\. CONTACTING US**
+
+If you have questions regarding our Privacy Policy, its implementation, failure to adhere to this Privacy Policy and/or our general practices, please contact us at [contact@topresume.com](mailto:contact@topresume.com) or send your comments to:
+
+Talent Worldwide Inc., d/b/a TopResume  
+Attention: Customer Care – Website Issues  
+113 University Place  
+5th Floor  
+New York, NY 10003
+
+TopResume will use commercially reasonable efforts to promptly respond and resolve any problem or question.
+
+Copyright © 2016 TopResume, All rights reserved.
 
 What are you waiting for?
 
