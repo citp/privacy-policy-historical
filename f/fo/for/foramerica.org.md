@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foramerica.org privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113214908id_/https%3A//foramerica.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foramerica.org privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128040845id_/https%3A//foramerica.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – For America
 
