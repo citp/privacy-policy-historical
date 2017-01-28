@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the argosy.edu privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207035923id_/https%3A//www.argosy.edu/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the argosy.edu privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128133353id_/https%3A//www.argosy.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Argosy University
 
-This policy was last updated on November 30, 2016
+This policy was last updated on December 7, 2016.
 
 Argosy University (Argosy University, "we" or "our") is committed to protecting any personal information that we maintain about you. Consistent with our [ Privacy Principles](http://www.edmc.edu/edmc-privacy-principles.aspx), we want you to understand what kinds of information we may collect from you, how this information may be used, the steps we take to protect it, choices you have regarding our use and disclosure of personal information about you, and other information about our privacy practices. This Privacy Policy (this "Policy") applies to the online collection of information by our websites, webpages and mobile applications that link to or otherwise adopt this Policy.
 
@@ -82,7 +82,7 @@ Some Internet browsers have begun to offer what often is referred to as "do not 
 [Firefox](https://support.mozilla.org/en-US/kb/delete-cookies-remove-info-websites-stored)  
 [Chrome](https://support.google.com/chrome/answer/95647?hl=en)
 
-You also can opt-out of, or make other choices concerning, the types of third party advertisements that may be targeted to you based on your browser activity by using mechanisms such as the “AdChoices” icon that may appear in advertisements that may appear on some of our sites. You can click on the [“AdChoices”](https://info.evidon.com/pub_info/13716?v=1&nt=0&nw=false%E2%80%9D%20target=) icon, where displayed, to exercise the choices available there. Additional information about AdChoices is available at: [www.youradchoices.com.](http://www.youradchoices.com/) Information and opt-out choices for ads placed by Google are available at: [www.google.com/settings/ads](http://www.google.com/settings/ads/anonymous).
+You also can opt-out of, or make other choices concerning, the types of third party advertisements that may be targeted to you based on your browser activity by using mechanisms such as the “AdChoices” icon that may appear in advertisements that may appear on some of our sites. You can click on the “AdChoices” icon, where displayed, to exercise the choices available there. Additional information about AdChoices is available at: [www.youradchoices.com.](http://www.youradchoices.com/) Information and opt-out choices for ads placed by Google are available at: [www.google.com/settings/ads](http://www.google.com/settings/ads/anonymous).
 
 **How is my information used?**
 
@@ -224,15 +224,13 @@ The privacy policy posted on the website you were visiting, if any, would apply 
 
 This site is designed primarily for users from the United States. By using this site, users from other countries consent to the transfer of any personal or other information collected to the United States and housed on servers in the United States and your information will be subject to use and disclosure in accordance with this Policy and applicable United States federal, state, and local law.
 
-We participate in EU and Swiss Safe Harbor programs administered by the U.S. Department of Commerce. Information we may collect through this site from individuals submitting personal information from countries that participate in the Safe Harbor program also is subject to our Safe Harbor Privacy Policy which is available at http://www.edmc.edu/edmc-safe-harbor-privacy-policy.aspx.
-
 **How do you comply with Children's Online Privacy Protection Act ("COPPA")?**
 
 COPPA regulates the collection of personal information online from children under the age of 13. This site is not intended or designed to attract users under the age of 13 or to collect personal information from such users. We do not collect personally identifiable data from any person we know to be under the age of 13 and those under 13 should not submit any personal information through this site. If we learn that we have inadvertently collected personal information from a child under the age of 13 we will remove the information from our files.
 
 **How will changes to this Policy be communicated?**
 
-If we make any material changes to this privacy policy we will change the "lasted updated" date so that you can quickly determine whether there were material changes since the last time you reviewed the policy.
+If we make any material changes to this privacy policy we will change the "last updated" date so that you can quickly determine whether there were material changes since the last time you reviewed the policy.
 
 **Who can I contact with questions regarding this Policy?**
 
