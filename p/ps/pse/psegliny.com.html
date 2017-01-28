@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the psegliny.com privacy policy that was archived on 2016-05-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160527040539id_/https%3A//www.psegliny.com/page.cfm/PrivacyPolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the psegliny.com privacy policy that was archived on 2017-01-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170128212027id_/https%3A//www.psegliny.com/page.cfm/PrivacyPolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 			
@@ -29,7 +29,7 @@
 			<link rel="STYLESHEET" type="text/css" href="style/PSEGLI/style.css"> 
             
         <link rel="stylesheet" href="style/PSEGLI/CMSContent.css">		
-		<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WQHM6C"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=001506421434786780192:faorbjpnbxw"></script><script src="ext_scripts/prototype.js"></script>
+		<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://www.google.com/cse/cse.js?cx=001506421434786780192:faorbjpnbxw"></script><script src="ext_scripts/prototype.js"></script>
         <script src="ext_scripts/scriptaculous.js"></script>
         <script src="scripts/linkProcessor.js"></script>
         <script src="scripts/UIMessage.js"></script>
@@ -83,20 +83,82 @@
     	font-style: italic;
 	}
 	</style>
+	<script>
+	function setCookie(cname,cvalue,exdays) {
+			    var d = new Date();
+			    d.setTime(d.getTime() + (exdays*24*60*60*1000));
+			    var expires = "expires=" + d.toGMTString();
+			    document.cookie = cname+"="+cvalue+"; "+expires;
+			}
+			
+	function getCookie(cname) {
+			    var name = cname + "=";
+			    var ca = document.cookie.split(';');
+			    for(var i=0; i<ca.length; i++) {
+			        var c = ca[i];
+			        while (c.charAt(0)==' ') {
+			            c = c.substring(1);
+			        }
+			        if (c.indexOf(name) == 0) {
+			            return c.substring(name.length, c.length);
+			        }
+			    }
+			    return "";
+			}
+			
+	function getpassowrd() {
+			var name = "password=";
+			var ca = document.cookie.split(';');
+			for(var i=0; i<ca.length; i++) {
+				var c = ca[i];
+				while (c.charAt(0)==' ') {
+					c = c.substring(1);
+				}
+				if (c.indexOf(name) == 0) {
+					return c.substring(name.length, c.length);
+				}
+			}
+			return "";
+		}
+		
+	function deletecookie(name) {
+       document.cookie = name + '=; expires=Thu, 01 Jan 1970 00:00:01 GMT;';
+     }
+		
+	function rememberUser() {	 
+	   if (document.getElementById('CheckBox1').checked) {	          
+              var user = document.getElementById("usernames").value;
+			  var pasw = document.getElementById("response").value;
+			   if (user != "" && user != null) {
+					   setCookie("username", user, 30);
+				   }
+        }		
+      else{
+	        deletecookie("username");
+           }
+		   
+	 }
+
+	function checkCookie() {		
+		    var user=getCookie("username");		            
+		    if (user != "") {		        
+				document.getElementById("usernames").value=user;				
+				document.getElementById("CheckBox1").checked = true;
+               				
+		    } 
+		}
+		
+		
+	</script>
+	<link rel="STYLESHEET" type="text/css" href="style/PSEGLI/login.css">
+	<script>
+  if (/*@cc_on!@*/false && document.documentMode === 10) {
+    document.documentElement.className+=' ie10';
+  }
+</script>
 	</head>
 
-	<body>
-	
-	<!-- Google Tag Manager --> 
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WQHM6C" 
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript> 
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': 
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], 
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src= 
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); 
-})(window,document,'script','dataLayer','GTM-WQHM6C');</script> 
-<!-- End Google Tag Manager --> 
-
+	<body onload="checkCookie()">
 	<center>
 	
     
@@ -106,12 +168,19 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <a href="./"><img border="0" src="https://www.psegliny.com/appImages/PSEGLI/PSEGLI_Logo.jpg"></a>
             </div>
             <div class="rightHeaderSection">
-             	<div class="outageBtn" onclick="window.location.href='https://www.psegliny.com/page.cfm/CustomerService/ReportOutage';">
-					<img id="OutageIcon" src="https://www.psegliny.com/appImages/PSEGLI/Exclaim.png">
-                    <div>Report an Outage</div>
-                </div>
+
+
             	<div class="contactTab" onclick="window.location.href='https://www.psegliny.com/page.cfm/Home/CustomerService/ContactUs';">
-                	<div><span id="contactUsBtn">Contact Us&nbsp;&nbsp;</span>(800) 490-0025</div>
+                	<img id="contactIcon" src="https://www.psegliny.com/appImages/PSEGLI/icon-contact.png">
+					<div><span id="contactUsBtn">Contact Us</span></div>
+                </div>
+				<div class="outageBtn" onclick="window.location.href='https://www.psegliny.com/page.cfm/CustomerService/ReportOutage';">
+					<img id="OutageIcon" src="https://www.psegliny.com/appImages/PSEGLI/icon-reportoutage.png">
+                    <div><span id="outageID">Report an Outage</span></div>
+                </div>
+				<div class="billBtn" onclick="window.location.href='https://www.psegliny.com/page.cfm/Account/Payment';">
+					<img id="billIcon" src="https://www.psegliny.com/appImages/PSEGLI/icon-pay.png">
+                    <div><span id="billID">Pay Bill</span></div>
                 </div>
                 <div class="HeaderSearchBox">
                     <gcse:searchbox-only resultsurl="pageAction.cfm/Search"></gcse:searchbox-only>            
@@ -132,21 +201,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </a></span>
             
             	<span class="LinkList">
-                <a class="dropDownActivator" dropdownname="menu_3" href="https://www.psegliny.com/page.cfm/AboutUs" parent="0">About Us&nbsp;
+                <a class="dropDownActivator" dropdownname="menu_4" href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter" parent="0">Outage Center&nbsp;
                     <img border="0" src="appImages/PSEGLI/menuArrow_down.png">
                 </a></span>
             
             	<span class="LinkList">
-                <a class="dropDownActivator" dropdownname="menu_4" href="https://www.psegliny.com/page.cfm/Home/CustomerService" parent="0">Customer Service&nbsp;
+                <a class="dropDownActivator" dropdownname="menu_440" href="https://www.psegliny.com/page.cfm/Community" parent="0">Community&nbsp;
+                    <img border="0" src="appImages/PSEGLI/menuArrow_down.png">
+                </a></span>
+            
+            	<span class="LinkList">
+                <a class="dropDownActivator" dropdownname="menu_3" href="https://www.psegliny.com/page.cfm/AboutUs" parent="0">About Us&nbsp;
                     <img border="0" src="appImages/PSEGLI/menuArrow_down.png">
                 </a></span>
             
         	<div class="accountBtn">
-            	<div>
+            	<div style="margin-top:2px;">
                 	<img id="accountLoginImage" border="0" src="appImages/PSEGLI/AccountIcon.png">
-                </div>
-                <div id="accountLoginBox" class="accountDDBox acctDDBoxHide">
-                	<div class="btnBoxOn">
+            </div>
+                <div id="accountLoginBox" class="accountDDBox acctDDBoxHide" style="background-color:#f37121;border-left:2px red;border-right:2px #f37121;">
+                	<div class="btnBoxOn" style="background-color:#f37121;height:70px;margin-right:0px;">
 						
                             <div style="width:100%;height:65px;margin-left:15px;">                        
                                 <form action="https://psegoam.psegliny.com/oam/server/authentication" method="POST" name="SWEEntryForm" id="SWEEntryForm">
@@ -157,36 +231,62 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                     <input name="csn" type="hidden" value="NONE">
                                     <input name="challenge" type="hidden" value="NONE">
                                     <input name="signature" type="hidden" value="NONE">
-                                    <input type="hidden" name="successurl" value="https://myaccount.psegliny.com/eservice_enu">
-                                    <input type="hidden" name="type" value="eservice">
-                                    <input type="text" name="username" class="LoginBox" default="&nbsp;&nbsp;Username" title="User Name" size="12"><br>
-                                    <div id="passwordbox">
-                                        <input type="password" id="response" name="password" class="LoginBox" default="&nbsp;&nbsp;Password" title="Password" placeholder="&nbsp;&nbsp;Password">
-                                    </div>
+                                    <input type="hidden" name="successurl" value="https://myaccount.psegliny.com/user/LoginProcessing">
+                                    
+									<input type="hidden" name="type" value="sitecore">
+									<table>
+									<tbody><tr>
+						            <td>
+									<div style="float:right;margin-top: -18px;">
+                                    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="text" id="usernames" name="username" title="User Name" placeholder="&nbsp;&nbsp;Username" style="height:25px;width:217px;text-decoration:none;font-style:regular;"><br>
+									</div></td>
+									
+									<td>&nbsp;&nbsp;&nbsp;<div id="passwordbox" style="float:right;margin-top: -18px;margin-right: 30px;">
+                                        <input type="password" id="response" name="password" title="Password" placeholder="&nbsp;&nbsp;Password" style="height:25px;width:217px;text-transform:none;font-style:regular;">
+                                    </div></td>
+									</tr>
+									</tbody></table>
+									
                                 </form>
                             </div>
-                            <div id="LoginButton" class="imgLinkBtn loginBtn" style="margin-top:0px;">
-                                <div>Login&nbsp;&nbsp;<img border="0" src="appImages/PSEGLI/menuArrow_right.png"></div>
+							
+                            <div id="LoginButton" class="loginBtn" style="margin-top:-70px; float:right;position: relative;right: 30px;border:1px solid white;height:19px;width:115px;margin-right:-10px">
+							
+                                <div class="e" style="color:white;text-align:center; vertical-align: middle;margin-top: -3px;font-family:Arial;font-size:11pt;">&nbsp;&nbsp;&nbsp;&nbsp;LOG IN</div>
+							
                             </div>
-                            <div style="padding-top:0px;margin-top:10px;">
-                                <a href="https://www.psegliny.com/page.cfm/RegisterAccount" class="orangeLink" style="margin-left:15px;line-height:1.5em;">Register Now</a><br>
-                                <a href="https://myaccount.psegliny.com/customermanagement/KSE_Password.jsp" class="orangeLink" style="margin-left:15px;">Forgot Password?</a><br>
-                                
-                            </div>    
+							
+							<div style="margin-top:-40px;margin-left:360px; color:white;text-decoration: none;font-family: Arial;font-size: 11px;text-transform:none;">
+							
+							<input id="CheckBox1" type="checkbox" name="checkbox" onchange="rememberUser()" class="checkname">
+							 <div style="margin-top:-25px;;margin-left:25px;">Remember me</div>
+							
+							<div style="margin-top:-15px;margin-left:355px; color:white;text-decoration: none;font-family: Arial;font-size: 11px;text-transform:none;"></div>
+							</div>
+							
+							
+						    
+							<table>
+							<tbody><tr>
+							
+                                <td><div style="margin-top:-35px;margin-left:-10px"><a href="https://myaccount.psegliny.com/user/registration" style="color:white;text-decoration: none;margin-left:656px;font-family: Arial;font-size: 11px;text-transform:none;">Register</a></div>
+		
+								</td>
+								<td><div style="margin-top:-24px;font-family: Arial;color:white;">
+								&nbsp;|
+								</div></td>
+								<td><div style="margin-top:-35px;"><a href="https://myaccount.psegliny.com/user/forgot-username-password?P=FU" style="color:white;text-decoration: none;text-transform:none;font-family: Arial;font-size: 11px;">&nbsp;&nbsp;Forgot Username?</a></div></td>
+								<td><div style="margin-top:-24px;font-family: Arial;color:white;">
+								&nbsp;|
+								</div></td>
+                                <td><div style="margin-top:-35px;"><a href="https://myaccount.psegliny.com/user/forgot-username-password" style="color:white;text-decoration: none;text-transform:none;font-family: Arial;font-size: 11px;">&nbsp;&nbsp;Forgot Password?</a></div></td>
+                                </tr>
+							</tbody></table>
+                            
+														
                                             
                     </div>
-                	<div id="acctBox_ReportOutage" class="btnBox" onclick="window.location.href='https://www.psegliny.com/page.cfm/CustomerService/ReportOutage';">
-                    	<img src="appImages/PSEGLI/outageIcon.png" border="0" class="tabIcon">Report an Outage
-                        <img src="appImages/PSEGLI/menuArrow_right.png" border="0" style="float:right;margin-top:10px;margin-right:15px;">
-                    </div>
-                	<div class="btnBox" onclick="window.location.href='https://www.psegliny.com/page.cfm/Account/Payment';">
-                    	<img src="appImages/PSEGLI/calendarIcon.png" border="0" class="tabIcon">Pay Your Bill
-                        <img src="appImages/PSEGLI/menuArrow_right.png" border="0" style="float:right;margin-top:10px;margin-right:15px;">
-                    </div>
-                	<div class="btnBox" onclick="window.location.href='https://www.psegliny.com/page.cfm/CustomerService/StormCenter';">
-                    	<img src="appImages/PSEGLI/stormIcon.png" border="0" class="tabIcon">Storm Center
-                        <img src="appImages/PSEGLI/menuArrow_right.png" border="0" style="float:right;margin-top:10px;margin-right:15px;">
-                    </div>
+                	
                 </div>
             </div>
             
@@ -203,15 +303,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                         <ul>
                         	
-                                <li><a href="https://www.psegliny.com/page.cfm/Account/Payment">Pay Bill</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/Account/Payment">Payment Options</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/Home/Account/ManageBill">Manage Bill</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/Account/Billing">Paperless Bill</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/Home/Account/BillingOptions">Billing Options</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/CustomerService/MyAlerts">MyAlerts</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/Account/ServiceAndRates/ReadMeter">Meter Reading</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/Account/MyBill">Understand Your Bill</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Account/ServiceAndRates">Electric Service and Rates</a></li>
                                 
@@ -224,15 +322,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                         <ul>
                         	
-                                <li><a href="https://www.psegliny.com/page.cfm/Efficiency/Appliances">Appliances &amp; Products</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/Efficiency/CoolingHeating">Cooling &amp; Heating</a></li>
-                                	
                                 <li><a href="https://www.psegliny.com/page.cfm/Efficiency/HomeEfficiency">Home Efficiency</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/Efficiency/Programs/Lighting">Lighting &amp; Fixtures</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/Efficiency/Rebates">Rebates and Incentives</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Efficiency/Renewables">Renewable Energy</a></li>
+                                	
+                                <li><a href="https://www.psegliny.com/page.cfm/Efficiency/Tips">Tips and Tools</a></li>
                                 
                         </ul>
                     
@@ -244,15 +340,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                         <ul>
                         	
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/BRServices">Building and Renovation Services</a></li>
+                                	
                                 <li><a href="https://www.psegliny.com/page.cfm/Home/CustomerService/ContactUs">Contact Us</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Home/CustomerService/Special">Customer Assistance</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Home/CustomerService/FinancialAssistancePrograms">Financial Assistance</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter">Outage Center</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/ServiceRequests">Service Upgrades &amp; Installations</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/MyAlerts">MyAlerts</a></li>
                                 
                         </ul>
                     
@@ -269,12 +365,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Reliability">System Reliability</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/Home/Safety/TreeTrimming">Tree Trimming Program</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/Home/Safety/TreeTrimming">Tree Trim Program</a></li>
                                 
                         </ul>
                     
                     </li>			
                     
+                    	</ul><ul class="colUL"> 
             </ul>
 		</div>	
 		
@@ -286,7 +383,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                         <ul>
                         	
-                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Account/Payment">Pay Bill</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Account/Payment">Payment Options</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Account/Billing/Paperless">Paperless Bill</a></li>
                                 	
@@ -303,15 +400,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                         <ul>
                         	
-                                <li><a href="https://www.psegliny.com/page.cfm/Home/CustomerService/ContactUs">Contact Us</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Checklist">New Business Account</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter">Outage Center</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/BRServices">Building and Renovation Services</a></li>
+                                	
+                                <li><a href="https://www.psegliny.com/page.cfm/Home/CustomerService/ContactUs">Contact Us</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/CustomerService/MyAlerts">MyAlerts</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Checklist">New Business Account</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/CustomerService/ServiceRequests">Service Upgrades &amp; Installations</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter">Outage Center</a></li>
                                 
                         </ul>
                     
@@ -327,7 +424,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Testimonials">Customer Success Stories</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Efficiency/Assessments">Energy Assessments</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/Commercial/Efficiency/Assessments">Energy Consultations</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/Commercial/Efficiency/Rebates-Existing">Rebates for Existing Buildings</a></li>
                                 	
@@ -362,17 +459,67 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             </ul>
 		</div>	
 		
+        <div id="menu_4" class="dropDown">
+            <ul class="colUL">
+                
+                    <li>	
+                    <a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter" class="titleA">Outage Center</a>
+                    
+                        <ul>
+                        	
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/ReportOutage">Report an Outage</a></li>
+                                	
+                                <li><a href="https://outagemap.psegliny.com">Outage Map</a></li>
+                                	
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter/StormSafetyPrepared">Preparing for a Storm</a></li>
+                                	
+                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter/StormRestoration">Storm Restoration</a></li>
+                                
+                        </ul>
+                    
+                    </li>			
+                    
+                    	</ul><ul class="colUL"> 
+            </ul>
+		</div>	
+		
+        <div id="menu_440" class="dropDown">
+            <ul class="colUL">
+                
+                    <li>	
+                    <a href="https://www.psegliny.com/page.cfm/Community/Boards" class="titleA">Community Leadership</a>
+                    
+                    </li>			
+                    
+                    <li>	
+                    <a href="https://www.psegliny.com/page.cfm/Community/Education" class="titleA">Education &amp; Safety</a>
+                    
+                    </li>			
+                    
+                    	</ul><ul class="colUL"> 
+                    <li>	
+                    <a href="https://www.psegliny.com/page.cfm/Community/EverydayOutreach" class="titleA"> Everyday Outreach</a>
+                    
+                    </li>			
+                    
+                    <li>	
+                    <a href="https://www.psegliny.com/page.cfm/Community/MajorEvents" class="titleA">Major Community Events</a>
+                    
+                    </li>			
+                    
+                    <li>	
+                    <a href="https://www.flickr.com/photos/psegli/albums" class="titleA">Event Photos</a>
+                    
+                    </li>			
+                    
+            </ul>
+		</div>	
+		
         <div id="menu_3" class="dropDown">
             <ul class="colUL">
                 
                     <li>	
-                    <a href="https://www.psegliny.com/page.cfm/AboutUs/Newsroom" class="titleA">Newsroom</a>
-                    
-                        <ul>
-                        	
-                                <li><a href="https://www.psegliny.com/page.cfm/AboutUs/PressReleases">Press Releases</a></li>
-                                
-                        </ul>
+                    <a href="https://www.psegliny.com/page.cfm/AboutUs/Awards" class="titleA">Awards &amp; Recognition</a>
                     
                     </li>			
                     
@@ -381,11 +528,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                         <ul>
                         	
-                                <li><a href="https://www.psegliny.com/page.cfm/AboutUs/CurrentInitiatives/IRP">Integrated Resource Plan</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/AboutUs/CurrentInitiatives/FEMA">FEMA Projects</a></li>
                                 	
                                 <li><a href="https://www.psegliny.com/page.cfm/AboutUs/CurrentInitiatives/ReliabilityProjects">Reliability Projects</a></li>
                                 	
-                                <li><a href="https://www.psegliny.com/page.cfm/AboutUs/CurrentInitiatives/FEMA">FEMA Projects</a></li>
+                                <li><a href="https://www.psegliny.com/page.cfm/AboutUs/CurrentInitiatives/IRP">Integrated Resource Plan</a></li>
                                 
                         </ul>
                     
@@ -410,7 +557,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                     </li>			
                     
-                    	</ul><ul class="colUL"> 
                     <li>	
                     <a href="https://www.psegliny.com/page.cfm/AboutUs/CompanyProfile/DocumentLibrary" class="titleA">Document Library</a>
                     
@@ -420,6 +566,18 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                     </li>			
                     
+                    <li>	
+                    <a href="https://www.psegliny.com/page.cfm/AboutUs/Newsroom" class="titleA">Newsroom</a>
+                    
+                        <ul>
+                        	
+                                <li><a href="https://www.psegliny.com/page.cfm/AboutUs/PressReleases">Press Releases</a></li>
+                                
+                        </ul>
+                    
+                    </li>			
+                    
+                    	</ul><ul class="colUL"> 
                     <li>	
                     <a href="https://www.psegliny.com/page.cfm/AboutUs/Proposals" class="titleA">Proposals &amp; Bids</a>
                     
@@ -434,59 +592,6 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     
                         <ul>
                         
-                        </ul>
-                    
-                    </li>			
-                    
-            </ul>
-		</div>	
-		
-        <div id="menu_4" class="dropDown">
-            <ul class="colUL">
-                
-                    <li>	
-                    <a href="https://www.psegliny.com/page.cfm/Home/CustomerService" class="titleA">For Residential Customers</a>
-                    
-                    </li>			
-                    
-                    <li>	
-                    <a href="https://www.psegliny.com/page.cfm/Commercial/CustomerService" class="titleA">For Business Customers</a>
-                    
-                    </li>			
-                    
-                    <li>	
-                    <a href="https://www.psegliny.com/page.cfm/Home/CustomerService/ContactUs" class="titleA">Contact Us</a>
-                    
-                        <ul>
-                        	
-                                <li><a href="https://www.psegliny.com/page.cfm/Home/CustomerService/ContactUs">By Phone</a></li>
-                                	
-                                <li><a href="https://psegliny.custhelp.com/app/ask">By Email</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/Account/Payment/CustomerServiceCenters">In Person</a></li>
-                                
-                        </ul>
-                    
-                    </li>			
-                    
-                    	</ul><ul class="colUL"> 
-                    <li>	
-                    <a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter" class="titleA">Outage Center</a>
-                    
-                        <ul>
-                        	
-                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/ReportOutage">Report an Outage</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/MyAlerts">MyAlerts</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/c.cfm/Outage">Outage Map</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter/StormSafetyPrepared">Preparing for a Storm</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter/StormSafetyPrepared/DuringStorm">During a Storm</a></li>
-                                	
-                                <li><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter/StormSafetyPrepared/AfterStorm">After a Storm</a></li>
-                                
                         </ul>
                     
                     </li>			
@@ -689,13 +794,57 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		
             </div>
     		
+        	<div class="footerNavParent"><a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter" class="footerParentTitle">OUTAGE CENTER</a>
+					
+		<div id="menu_4" class="footerSubMenu">
+			<ul>
+            	
+                <li>	
+                    <a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter">Outage Center</a>
+                </li>
+            
+			</ul>
+		</div>	
+		
+            </div>
+    		
+        	<div class="footerNavParent"><a href="https://www.psegliny.com/page.cfm/Community" class="footerParentTitle">COMMUNITY</a>
+					
+		<div id="menu_440" class="footerSubMenu">
+			<ul>
+            	
+                <li>	
+                    <a href="https://www.psegliny.com/page.cfm/Community/Boards">Community Leadership</a>
+                </li>
+            	
+                <li>	
+                    <a href="https://www.psegliny.com/page.cfm/Community/Education">Education &amp; Safety</a>
+                </li>
+            	
+                <li>	
+                    <a href="https://www.psegliny.com/page.cfm/Community/EverydayOutreach"> Everyday Outreach</a>
+                </li>
+            	
+                <li>	
+                    <a href="https://www.psegliny.com/page.cfm/Community/MajorEvents">Major Community Events</a>
+                </li>
+            	
+                <li>	
+                    <a href="https://www.flickr.com/photos/psegli/albums">Event Photos</a>
+                </li>
+            
+			</ul>
+		</div>	
+		
+            </div>
+    		
         	<div class="footerNavParent"><a href="https://www.psegliny.com/page.cfm/AboutUs" class="footerParentTitle">ABOUT US</a>
 					
 		<div id="menu_3" class="footerSubMenu">
 			<ul>
             	
                 <li>	
-                    <a href="https://www.psegliny.com/page.cfm/AboutUs/Newsroom">Newsroom</a>
+                    <a href="https://www.psegliny.com/page.cfm/AboutUs/Awards">Awards &amp; Recognition</a>
                 </li>
             	
                 <li>	
@@ -719,37 +868,15 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 </li>
             	
                 <li>	
+                    <a href="https://www.psegliny.com/page.cfm/AboutUs/Newsroom">Newsroom</a>
+                </li>
+            	
+                <li>	
                     <a href="https://www.psegliny.com/page.cfm/AboutUs/Proposals">Proposals &amp; Bids</a>
                 </li>
             	
                 <li>	
                     <a href="https://www.psegliny.com/page.cfm/AboutUs/ServiceRates">Service &amp; Rates</a>
-                </li>
-            
-			</ul>
-		</div>	
-		
-            </div>
-    		
-        	<div class="footerNavParent"><a href="https://www.psegliny.com/page.cfm/Home/CustomerService" class="footerParentTitle">CUSTOMER SERVICE</a>
-					
-		<div id="menu_4" class="footerSubMenu">
-			<ul>
-            	
-                <li>	
-                    <a href="https://www.psegliny.com/page.cfm/Home/CustomerService">For Residential Customers</a>
-                </li>
-            	
-                <li>	
-                    <a href="https://www.psegliny.com/page.cfm/Commercial/CustomerService">For Business Customers</a>
-                </li>
-            	
-                <li>	
-                    <a href="https://www.psegliny.com/page.cfm/Home/CustomerService/ContactUs">Contact Us</a>
-                </li>
-            	
-                <li>	
-                    <a href="https://www.psegliny.com/page.cfm/CustomerService/StormCenter">Outage Center</a>
                 </li>
             
 			</ul>
@@ -764,10 +891,11 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 <li style="padding:0px 4px 0px 5px;float:left;"><img title="PSEG Long Island on Facebook" src="appImages/PSEGLI/facebookIcon.png" height="32" onclick="window.parent.open('http://www.facebook.com/psegli', '_top');"></li>
                 <li style="padding:0px 4px 0px 5px;float:left;"><img title="PSEG Long Island on Twitter" src="appImages/PSEGLI/footericon-twitter.png" height="32" onclick="window.parent.open('http://www.twitter.com/psegli', '_top');"></li>
                 <li style="padding:0px 4px 0px 5px;float:left;"><img title="PSEG Long Island on YouTube" src="appImages/PSEGLI/YouTube-social-square-red.png" height="32" onclick="window.parent.open('http://www.youtube.com/psegli', '_top');"></li>
-                <li style="padding:0px 9px 0px 5px;float:left;border-right:1px solid #b1a5c0;"><img title="PSEG Long Island on Flickr" src="appImages/PSEGLI/white-large-chiclet_32.png" height="32" onclick="window.parent.open('https://www.flickr.com/photos/psegli', '_top');"></li>
+                <li style="padding:0px 9px 0px 5px;float:left;"><img title="PSEG Long Island on Flickr" src="appImages/PSEGLI/white-large-chiclet_32.png" height="32" onclick="window.parent.open('https://www.flickr.com/photos/psegli', '_top');"></li>
+				<li style="padding:0px 14px 0px 0px;float:left;border-right:1px solid #b1a5c0;"><img title="PSEG Long Island on Blog-social-square" src="appImages/PSEGLI/Blog-social-square.png" height="32" onclick="window.parent.open('https://pluggedin.psegliny.com', '_top');"></li>
 		<li style="padding:0px 4px 0px 5px;float:left;"><img title="PSEG Long Island on Your Mobile Phone" style="height: 52px; margin-top: -5px;" src="appImages/PSEGLI/footericon-text.png" onclick="window.parent.open('http://m.psegliny.com', '_top');"></li>
-		<li style="padding:0px 4px 0px 5px;float:left;"><img title="PSEG Long Island on Your Mobile text" style="height: 52px; margin-top: -6px;" src="appImages/PSEGLI/footericon-mobile.png" onclick="window.parent.open('https://www.psegliny.com/page.cfm/CustomerService/MyAlerts', '_top');"></li>
-                <li style="padding:0px 4px 0px 5px;float:left;"><img title="Sign up for eNews from PSEG Long Island" style="height: 52px; margin-top: -5px;" src="appImages/PSEGLI/footericon-email.png" onclick="window.parent.open('http://www.psegliny.com/eNews', '_top');"></li>
+		<li style="padding:0px 4px 6px 0px;float:left;"><img title="PSEG Long Island on Your Mobile text" style="height: 52px; margin-top: -6px;" src="appImages/PSEGLI/footericon-mobile.png" onclick="window.parent.open('https://www.psegliny.com/page.cfm/CustomerService/MyAlerts', '_top');"></li>
+                <li style="padding:0px 4px 0px -5px;"><img title="Sign up for eNews from PSEG Long Island" style="height: 52px; margin-top: -5px;margin-right:-15px;" src="appImages/PSEGLI/footericon-email.png" onclick="window.parent.open('http://www.psegliny.com/eNews', '_top');"></li>
             </ul>
         </div>
     	<div style="padding-top:10px;">© Copyright 2016 Public Service Enterprise Group Incorporated
@@ -778,19 +906,22 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
         	<a href="https://www.psegliny.com/page.cfm/Disclaimer" alt="Disclaimer Link">disclaimer</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;
         	<a href="https://www.psegliny.com/page.cfm/PrivacyPolicy" alt="Privacy Policy Link">privacy policy</a>
         </div>
-    
-	<div id="ttdUniversalPixelTag064e5892e0f748a2887a70ed5dd204ec" style="display:none">
-    <script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
-    <script type="text/javascript">
-    (function(global) {
-    if (typeof TTDUniversalPixelApi === 'function') {
-    var universalPixelApi = new TTDUniversalPixelApi();
-    universalPixelApi.init("jcm2vgp", ["um33710"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag064e5892e0f748a2887a70ed5dd204ec");
-    }
-    })(this);
-    </script>
+		
+		<div id="ttdUniversalPixelTag064e5892e0f748a2887a70ed5dd204ec" style="display:none">
+<script src="https://js.adsrvr.org/up_loader.1.1.0.js" type="text/javascript"></script>
+<script type="text/javascript">
+(function(global) {
+if (typeof TTDUniversalPixelApi === 'function') {
+var universalPixelApi = new TTDUniversalPixelApi();
+universalPixelApi.init("jcm2vgp", ["um33710"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag064e5892e0f748a2887a70ed5dd204ec");
+}
+})(this);
+</script>
+
+</div>
+		
     </div>
-	</div>
+	
     
 </div>
 </center>
