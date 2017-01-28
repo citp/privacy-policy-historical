@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiresize.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419203634id_/https%3A//tiresize.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiresize.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128101553id_/https%3A//tiresize.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -25,8 +25,7 @@ Google Adsense
 Commission Junction   
 Link Share   
 Amazon   
-Ebay Partner Network   
-Impact Radius 
+Ebay Partner Network 
 
 These third-party ad servers or ad networks use technology to the advertisements and links that appear on tiresize.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. Tiresize.com has no access to or control over these cookies that are used by third-party advertisers. 
 
