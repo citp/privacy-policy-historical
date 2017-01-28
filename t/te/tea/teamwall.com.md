@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamwall.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617193628id_/https%3A//subscription.timeinc.com/storefront/privacy/siplay/generic_privacy_new.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamwall.com privacy policy that was archived on 2017-01-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170128174024id_/https%3A//subscription.timeinc.com/storefront/privacy/siplay/generic_privacy_new.html) for the most accurate reproduction.*
 
 # SI Play Privacy Policy for the US
 
@@ -8,7 +8,7 @@
 
   * Scope of the Privacy Policy
   * Information We Collect
-  * How We Use your Information 
+  * How We Use your Information
   * Collection of Information by Third-Party Sites and Sponsors
   * Cookies
   * Your California Privacy Rights: Notice to California Customers
@@ -32,19 +32,29 @@ All users of SI Play are adults over the age of 18 who are either completing a r
 
 **Background Checks** : SI Play provides a service, called KidSafePlus®, to help manage the background check process for individuals you designate. While it is understandable that consumers are reluctant to disclose their Social Security Number, it is a crucial piece of information to help ensure the name being provided will match potential criminal records, to acquire a list of possible aliases used, and to provide additional information reduce the number of false positives resulting from “common name” matches. Social Security numbers are captured as part of a your profile for the designated, and passed on to our background check partner (via secure communications), who performs the background check. The specific background check provider used is fully disclosed during the background check registration process. The whole Social Security numbers are deleted from our system once the results are returned (often minutes after the user supplies the information).
 
-**Other Non-Personally Identifiable Data** : We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information.
+**Other Non-Personally Identifiable Data** : We may also collect certain non-personally identifiable information when you visit our web pages or use our applications, such as the type of browser and operating system you are using, your IP address, your device identifiers, your Internet or wireless service provider, and location-based information (collectively, “System Data”).
+
+#### Information Regarding Children
+
+You may provide personal information regarding your child when you register your child for the Service. At your complete discretion, you can choose to make that personal information viewable to the rest of the league. At any time, you can use controls in the Service to revoke that permission.
+
+Children are prohibited from creating their own accounts on the Service. However, you may create an account on the Service for your child, provided that you are the parent or legal guardian of that child. Through this account, your child may upload photographs, videos, comments and other information to his or her team page on the Service (collectively, “Child Content”). By creating an account for your child, you are consenting to the fact that we may use, display, and/or publish the Child Content on the Service as described herein. If you do not consent to our use of the Child Content in this manner, you are prohibited from creating accounts for your child on the Service. Child Content may be viewable only on the team page, and SI Play will not use the Child Content for any other purpose without the parent’s consent. The coach or league manager alone may choose to make the team’s page viewable to the public.
+
+At no time will we collect any personal information from your child for advertising purposes. The Child Content is not shared with third parties, except to the extent necessary in order to provide the Services (e.g., our hosting provider). Additionally, when your child uses the Service, we will collect System Data from them, which, as described above, is anonymous and does not contain personal information.
+
+At any time, you can use controls in the Service to view the Child Content from your child or to delete any account created for your child. If you would like us to delete any Child Content provided by your child, please email us at parents@siplay.com or reach us at the contact information below in the “How to Contact Us” section of this Privacy Policy. You may also contact us if you have any other questions or concerns you may have about what Child Content SI Play has collected, how the Child Content is used by SI Play, or anything else related to the Service.
 
 back to top
 
 #### How We Use Your Information
 
-Except as set forth in this section, your personal information will not be shared or transferred to third parties. 
+Except as set forth in this section, your personal information will not be shared or transferred to third parties.
 
 **General Use** : The information you provide to us will be used (i) to operate the Service; (ii) to fulfill any requests you make to us, e.g., your requests for a particular product or service; and (iii) by SI Play to send you information about SI Play, marketing information about SI Play products and services, and other services in which we think you might be interested.
 
 **Third Party Fulfillment** : In order to fulfill a request you may make or for us to otherwise operate the Service, it may be necessary for SI Play to share your information with a vendor or other third party. In those instances, any third party that has access to your information will be required to protect this information in a manner that is consistent with this Privacy Policy by, for example, not using the information for any purpose other than to carry out the services they are performing for SI Play.
 
-**Customize and Improve the Services** : We may use the non-personally identifiable information that we collect to improve the design, features and content of our Services, to analyze Service usage, and to enable us to customize your experience while using the Services.
+**Customize and Improve the Services** : We may use the System Data that we collect to improve the design, features and content of our Services, to analyze Service usage, and to enable us to customize your experience while using the Services.
 
 **Required by Law or to Otherwise Protect our Rights** : We will disclose information we maintain when required to do so by law, for example, in response to a court order or a subpoena. We also may disclose such information in response to a law enforcement agency's request. Further, to the extent not prohibited under applicable law, transfers and disclosures of personally identifiable information may also be made where necessary for the establishment, exercise, or defense of legal claims, to protect the rights and property of SI Play, our agents, affiliates, parent company, customers, and others, including to enforce our agreements, policies, and terms of use; or to protect the personal safety of any person.
 
@@ -70,7 +80,7 @@ We use cookies (and Local Shared Objects, HTML5, cache cookies, web beacons, or 
 
 Most browsers automatically accept cookies. You can set your browser option so that you will not receive cookies and you can also delete existing cookies from your browser. However, you may find that some parts of the site will not function properly if you have refused cookies or similar tracking technologies and you should be aware that disabling cookies or similar tracking technologies might prevent you from accessing some of our content. However, your viewing of editorial content may be hampered. If you wish to block cookies, go to <http://www.allaboutcookies.org/> to find out how, or check your browser’s instructions.
 
-_Local Shared Objects_ : Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
+_Local Shared Objects_ : Local Shared Objects: Local shared objects, such as .Flash cookies,. also may be stored on your computer or device. Local shared objects operate a lot like cookies, but cannot be managed in the same way. Depending on how local shared objects are enabled on your computer or device, you may be able to manage them using software settings. For information on managing Flash cookies, for example, see <http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html>.
 
 _HTML 5_ : HTML5, the language some Web sites are coded in, may be used to store information on your computer or device about your Service usage activities. This information may be retrieved by us to help us manage our Services, such as by giving us information about how our Services are being used by our visitors, how they can be improved, and to customize them for our users.
 
@@ -90,7 +100,7 @@ California's "Shine the Light" law, Civil Code section 1798.83, requires certain
 
 **Managing your Information** : We will take reasonable steps to accurately record the personal information that you provide to us and any subsequent updates. We encourage you to review, update, and correct the personal information that we maintain about you, and you may make modifications to certain personal information through the Services themselves or you may request that we delete personal information about you that is inaccurate, incomplete, or irrelevant for legitimate purposes, or are being processed in a way which infringes any applicable legal requirements, by contacting us as set out in the "How to Contact Us" section below. At our election, instead of deleting such information, we may retain it with your comment or correction noted in our records. By contacting us, you may also object to our further use of your personal information if you have compelling legitimate grounds (this may involve closing your account). We may ask you to verify your identity and to provide other details before we are able to provide you with any information, correct any inaccuracies, or delete any information. Your right to review, update, correct, and delete your personal information may be limited, subject to the law or your jurisdiction: (i) if your requests are abusive or unreasonably excessive, (ii) where the rights or safety of another person or persons would be encroached upon, or (iii) if the information or material you request relates to existing or anticipated legal proceedings between you and us, or providing access to you would prejudice negotiations between us or an investigation of possible unlawful activity. Your right to review, update, correct and delete your information is subject to our records retention policies and applicable law, including any statutory retention requirements.
 
-**Retention of Personal Information** : We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in accordance with the **"Managing Your Information"** section above.
+**Retention of Personal Information** : We will retain your personal information while you have an account with us and thereafter for as long as we need it for purposes not prohibited by applicable laws. Thereafter, we will either delete your personal information or de-identify it so that it is anonymous and not attributed to your identity. Your rights to request that we delete your personal information are set forth in accordance with the **"Managing Your Information"** section above. 
 
 **Opt-out** : If you receive an email from SI Play, you may choose to stop receiving further emails from SI Play by following the unsubscribe instructions included in the email, accessing the email preferences in your account settings, or by sending a request to privacy@siplay.com.
 
@@ -108,4 +118,4 @@ Saratoga Springs, NY, 12866
 
 back to top
 
-This Privacy Policy was revised April 7, 2016.
+This Privacy Policy was revised November 22, 2016.
