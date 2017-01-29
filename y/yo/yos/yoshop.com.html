@@ -1,99 +1,55 @@
-<!--The following is the downloaded HTML source of the yoshop.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119122731id_/http%3A//www.yoshop.com/article/privacyPolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the yoshop.com privacy policy that was archived on 2017-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170129100257id_/https%3A//www.yoshop.com/article/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://css.yoshop.com/imagecache/YO/buildjs/plugs/ga.js"></script><script type="text/javascript">
-    function browserRedirect() {
-        var sUserAgent = navigator.userAgent.toLowerCase();
-        var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
-        var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
-        var bIsMidp = sUserAgent.match(/midp/i) == "midp";
-        var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
-        var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
-        var bIsAndroid = sUserAgent.match(/android/i) == "android";
-        var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
-        var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
-        if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
-             location.href="http://m.yoshop.com";
-        }
-    }
+	<meta charset="UTF-8">
 
-    browserRedirect();
-</script>
-<meta charset="UTF-8">
+<title>Privacy Policy | Yoshop</title>
 
-<meta property="og:site_name" content="Quality For Less">
-<meta property="fb:admins" content="1547271758900013">
-<meta property="fb:app_id" content="1483423775268859">
-<meta property="og:description" content="I like this. Do you think I should buy it?">
-
-<title>privacyPolicy| Yoshop</title>
 <link rel="shortcut icon" href="/favicon.ico?2016090101">
 
-<link rel="stylesheet" href="https://css.yoshop.com/imagecache/YO/mincss/pages/common.css?20161110001">
-
+<link rel="canonical" href="http://www.yoshop.com/article/privacy-policy.html">
+<link rel="stylesheet" href="https://css.yoshop.com/imagecache/YO/mincss/pages/common.css?20170121">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://css.yoshop.com/imagecache/YO/buildjs/plugs/ga.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;version=v2.8&amp;appId=500588386792107"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://css.yoshop.com/imagecache/YO/buildjs/plugs/require.min.js"></script>
+<script src="https://css.yoshop.com/imagecache/YO/buildjs/plugs/jquery-1.9.1.min.js"></script>
 <script type="text/javascript">
 var COOKIESDIAMON = '.yoshop.com',
-	DOMAIN = 'http://www.yoshop.com/',
+    DOMAIN = 'http://www.yoshop.com/',
     DOMAIN_USER = 'http://user.yoshop.com/',
     DOMAIN_CART = 'http://cart.yoshop.com/',
 
     DIST_URL  = 'https://css.yoshop.com/imagecache/YO/',
     UPLOAD_URL = 'https://gloimg.yoshop.com/',
-    DOMAIN_IMG  = 'https://gloimg.yoshop.com/';
+    DOMAIN_IMG  = 'https://gloimg.yoshop.com/',
+
+    IS_REDIRECT = 0;
 
 
-//https定义
+
 var HTTPS_LOGIN_DOMAIN      = 'http://user.yoshop.com/',
     HTTPS_ORDER_DOMAIN      = 'http://cart.yoshop.com/';
 
-var VERSION = '?20161110001';
+var VERSION = '?20170121';
 var JS_PATH = DIST_URL + (location.hash === '#debug' ? 'js/' : 'buildjs/');
-//var JS_PATH = DIST_URL + (location.hash === '#debug' ? 'js/' : 'js/');
+// var JS_PATH = DIST_URL + (location.hash === '#debug' ? 'js/' : 'js/');
 var resolvePath = function() {
     var mapFn = function(file) {
         return [JS_PATH, file, '.js', VERSION].join('');
     };
-
-    return function (files) {
+        return function (files) {
         return files.map(mapFn);
     };
 }();
 </script>
-<script src="https://css.yoshop.com/imagecache/YO/buildjs/plugs/require.min.js"></script>
-<script src="https://css.yoshop.com/imagecache/YO/buildjs/plugs/jquery-1.9.1.min.js"></script>
 
 
-
-<!-- 注册 Affiliate js 脚本 -->
 <script type="text/javascript">
-    var _graq = _graq || [];
-    _graq.push(['_getlkid', 'yoshop']);  //yoshop 
-    (function() {
-        var gaa = document.createElement('script'); gaa.type = 'text/javascript'; gaa.async = true;
-        gaa.src = JS_PATH + 'plugs/ga.js';
-        var gaas = document.getElementsByTagName('script')[0]; gaas.parentNode.insertBefore(gaa, gaas);
-    })();
-</script>
-
-
-<script>
-    $(function(){
-        $("#home-download-app").mouseover(function(){
-            $('.adv-donwload-top').show();
-        }).mouseout(function(){
-            $('.adv-donwload-top').hide();
-        });
-    })
-</script>
-
-<script>
-	require.config({
+    require.config({
         baseUrl: JS_PATH,
         urlArgs: "bust=",
         paths: {
-                        'i18n': JS_PATH + 'modules/language/en.js?20161110001',
-                        'masonry': 'plugs/masonry.pkgd.min',
+                        'i18n': JS_PATH + 'modules/language/en.js?20170121',
+                        'masonry': 'https://unpkg.com/masonry-layout@4.1.1/dist/masonry.pkgd.min',
             'jquery': 'plugs/jquery-1.9.1.min',
             'infinitescroll': 'plugs/jquery.infinitescroll.min',
             'laytpl': 'plugs/laytpl.min',
@@ -105,7 +61,8 @@ var resolvePath = function() {
             'fly': 'plugs/jquery.fly.min',
             'fileuploadall': 'plugs/jQuery-File-Upload/js/jquery.fileupload',
             'jquery.ui.widget': 'plugs/jQuery-File-Upload/js/vendor/jquery.ui.widget',
-            'googleapi':'https://apis.google.com/js/client:plusone'
+            'googleapi':'https://apis.google.com/js/client:plusone',
+            'fbSDK':'https://connect.facebook.net/en_US/sdk'
         },
         shim: {
             'lazyload': ['jquery'],
@@ -113,8 +70,35 @@ var resolvePath = function() {
             'fly': ['jquery']
         }
     });
+
+    function Top(){}
+
+    Top.prototype.browserRedirect = function(){
+        var sUserAgent = navigator.userAgent.toLowerCase();
+        var bIsIpad = sUserAgent.match(/ipad/i) == "ipad";
+        var bIsIphoneOs = sUserAgent.match(/iphone os/i) == "iphone os";
+        var bIsMidp = sUserAgent.match(/midp/i) == "midp";
+        var bIsUc7 = sUserAgent.match(/rv:1.2.3.4/i) == "rv:1.2.3.4";
+        var bIsUc = sUserAgent.match(/ucweb/i) == "ucweb";
+        var bIsAndroid = sUserAgent.match(/android/i) == "android";
+        var bIsCE = sUserAgent.match(/windows ce/i) == "windows ce";
+        var bIsWM = sUserAgent.match(/windows mobile/i) == "windows mobile";
+        if (bIsIpad || bIsIphoneOs || bIsMidp || bIsUc7 || bIsUc || bIsAndroid || bIsCE || bIsWM) {
+            if(IS_REDIRECT){
+                var pathName = window.location.pathname,
+                    search = window.location.search;
+                window.location.href = "http://m.yoshop.com" + pathName + search;
+            }
+        }
+    }
+
+
+    Top.prototype.init = function(){
+        this.browserRedirect();
+    }
+        
 </script>
-<!-- Facebook Pixel Code 全站安装head标签之间 -->
+
 <script>
 !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
 n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
@@ -128,25 +112,6 @@ fbq('track', "PageView");</script>
     <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=501513380055045&ev=PageView&noscript=1"/>
 </noscript>
 
-<!-- add to cart 添加到购物车页面 -->
-<script>
-    function fbq_addToCart(json) {
-        var product = $.type(json) == 'object' ? json : $.parseJSON(json);
-        fbq(
-            'track',
-            'AddToCart',
-            {
-                content_ids: product.goods_id,              //对应加入购物车的产品的id（sku）
-                content_type: 'product',                     //默认 ‘product’
-                value: product.price,                                //OPTIONAL, but highly recommended
-                currency: 'USD'                             //REQUIRED if you pass a value
-            }
-        );
-    }
-</script>
-
-
-<!-- CompleteRegistration 添加到注册成功的button上 -->
 <script>  
     $('.js-regDoneBtn').click(function(event) {
         /* Act on the event */
@@ -156,114 +121,249 @@ fbq('track', "PageView");</script>
         );
     });                    
 </script>
+</head><body class="min-res-w no-menu article-page" id="dbPage"><div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.8&appId=500588386792107";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+
+
+
+<script type="text/javascript">
+    var _graq = _graq || [];
+    _graq.push(['_getlkid', 'yoshop']);  //yoshop 
+    (function() {
+        var gaa = document.createElement('script'); gaa.type = 'text/javascript'; gaa.async = true;
+        gaa.src = JS_PATH + 'plugs/ga.js';
+        var gaas = document.getElementsByTagName('script')[0]; gaas.parentNode.insertBefore(gaa, gaas);
+    })();
+</script><script type="text/javascript">
+function InhouseAFF() {
+    this.url = window.location.href;
+    this.lkid = _GET('lkid', this.url) || '';
+    this.utm_source = _GET('utm_source', this.url) || '';
+}
+
+InhouseAFF.prototype.init = function() {
+    if (this.lkid != "") {
+        this.setCookie('linkid', this.lkid, 7);
+    }
+    if (this.utm_source != "") {
+        this.setCookie('utm_source', this.utm_source, 7);
+    }
+    if (this.lkid != "" && Number(this.lkid) >= 10000000) {
+        if (this.getCookie('utm_source') != "" && this.getCookie('utm_source') != 'xxxxxx') {
+            this.removeCookie('utm_source');
+        } else {
+            this.setCookie('utm_source', 'xxxxxx', 7);
+        }
+    }
+
+    if (this.utm_source != "") {
+        if (this.getCookie('linkid') != "" && Number(this.getCookie("linkid")) >= 10000000) {
+            this.removeCookie('linkid');
+        }
+    }
+
+    if (this.utm_source != "" && this.lkid != "") {
+        if (Number(this.lkid) >= 10000000) {
+            this.setCookie('utm_source', 'xxxxxx', 7);
+        }
+    }
+
+};
+
+InhouseAFF.prototype.cookieOnly = function(cname) {
+    if (this.getCookie(cname) != '') {
+        return true;
+    } else {
+        return false;
+    }
+};
+
+
+InhouseAFF.prototype.setCookie = function(cname, cvalue, exdays) {
+    var d = new Date();
+    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
+    var expires = "expires=" + d.toUTCString();
+    document.cookie = cname + "=" + cvalue + ";" + expires + ";path=/;domain=" + COOKIESDIAMON;
+};
+
+
+InhouseAFF.prototype.removeCookie = function(cname, cvalue, exdays) {
+    return this.setCookie(cname, '1', -1);
+};
+
+
+InhouseAFF.prototype.getCookie = function(c_name) {
+    if (document.cookie.length > 0) {
+        var c_start = document.cookie.indexOf(c_name + "=")
+        if (c_start != -1) {
+            c_start = c_start + c_name.length + 1
+            var c_end = document.cookie.indexOf(";", c_start)
+            if (c_end == -1) c_end = document.cookie.length
+            return unescape(document.cookie.substring(c_start, c_end));
+        }
+    }
+    return "";
+};
+
+
+function _GET(name, str) {
+    var pattern = new RegExp('[\?&\#]' + name + '=([^&]+)', 'g');
+    str = str || location.search;
+    var arr, match = '';
+    while ((arr = pattern.exec(str)) !== null) {
+        match = arr[1];
+    }
+    return match;
+}
+
+new InhouseAFF().init();
+</script>
+
+
     <meta name="csrf-param" content="_csrf">
-    <meta name="csrf-token" content="RGxfaEZHY3MWOzsmPAgGEghbajkxDiApMV0rHBN2LARwIBw4ED0gOw==">
-<link rel="stylesheet" href="https://css.yoshop.com/imagecache/YO/mincss/pages/article.css?20161110001"></head>
- 
+    <meta name="csrf-token" content="czh4WmJnMDQYWSEtUikJARZeKBM0UUJXGUk8DlQXfEZKdgE7WlFTXQ==">
 
-<body class="min-w-1200 no-menu article-page" id="dbPage">
-    <header class="js-siteNav site-nav clearfix">
-		<div class="top-operate-wrap clearfix">
-	<div class="top-operate-inner">
-		<div class="top-operate download-app" id="home-download-app">
-			 <a target="_blank" style="text-decoration: none" href="http://www.yoshop.com/promotion">Save more on our App</a>
-			 <div id="adv-donwload-top" class="adv-donwload-top">
-			 	<a href="https://itunes.apple.com/us/app/id1025598893" target="_blank" class="app-store"></a>
-			 	<a href="https://play.google.com/store/apps/details?id=com.globalegrow.app.rosegal&amp;referrer=utm_source%3Dwebsite%26utm_medium%3Dhome_icon%26utm_campaign%3Ddownload1" target="_blank" class="android-store"></a>
-				<img src="https://css.yoshop.com/imagecache/YO/images/pageimg/appPublicty/pop-up_07.png">
-			</div> 
+ <link rel="stylesheet" href="https://css.yoshop.com/imagecache/YO/mincss/pages/article.css?20170121">
+
+
+    <header class="js-siteNav site-nav clearfix">.
+         
+<div class="top-operate-wrap js_top_operate_wrap" id="js_top_operate_wrap">
+	<section class="res-w">
+		<div class="clearfix">
+			<div class="top-operate js_language" id="js_language">
+				<span class="language">Language</span>
+				<div class="js_language_box language-box">
+					<div id="google_translate_element"></div>
+				</div>
+			</div>
+			<script type="text/javascript">
+			    function googleTranslateElementInit() {
+			    	new google.translate.TranslateElement({pageLanguage: 'en', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, gaTrack: true, gaId: 'UA-81034136-1'}, 'google_translate_element');
+			    }
+			</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+
+			<div class="top-operate-inner">
+				<dl class="top-operate top-operate-ship js-operateShip">
+		            <dt>Ship to<span class="G-js-country js-topShipCountry ship-country ml5 mr5" data-name="United States" data-code="US" data-id="41"><strong>United States</strong></span>/<span class="js-topShipCurrency ml5">USD</span><span class="v-line">|</span></dt>
+		            <dd class="drop-layer">
+		                <h3>Select Regional Settings</h3>
+		                <div>
+		                    <span class="vam pb5">Ship to</span>
+		                    <dl class="js-topCountry select-box">
+		                        <dt class="value js-topCountryValue G-js-country" data-name="United States" data-code="us" data-id="41"><strong>United States</strong></dt>
+		                        <dd class="value-list"><ul class="js-topCountryList"></ul></dd>
+		                    </dl>
+		                </div>
+		                <div>
+		                    <span class="vam pb5">Currency</span>
+		                    <dl class="js-topCurrency select-box top-current-select">
+		                        <dt class="js-topCurrencyValue value" data-bizhong="USD"><strong>USD</strong></dt>
+		                        <dd class="value-list"><ul class="js-topCurrencyList"></ul></dd>
+		                    </dl>
+		                </div>
+		                <button class="js-operateShipBtn btn btn-orange btn-small w100 mt15">Save</button>
+		            </dd>
+		        </dl>
+				
+		        
+				<dl class="top-operate top-operate-chat js-operate-chat">
+					<dt><span class="mr5">Live Chat</span></dt>
+					<dd class="drop-layer fade-up">
+						<!-- <p class="pre-sales">
+							<strong>Pre-sales</strong><br>If you have any questions before making a purchase,please contact the customer service through live chart  to get more information.							<a href="javascript:void(0);" rel="nofollow" onclick="$('.liveChatBtnHidden .LPMlabel').trigger('click');">Start Online Chat</a>
+							<i class="i-presales">Pre-sales</i>
+						</p> -->
+						<p class="after-sales">
+							<strong>After Sales</strong><br>Contact customer service for order status and other after-sales issues.							<a rel="nofollow" target="_blank" href="https://support.yoshop.com/faq/index/index?lang=en&amp;t=">Submit a Request</a>
+							<i class="i-aftersales">After Sales</i>
+						</p>
+					</dd>
+				</dl>
+			</div>
 		</div>
-		<dl class="top-operate top-operate-ship js-operateShip">
-
-            <dt>Ship to<span class="G-js-country js-topShipCountry ship-country ml5 mr5" data-name="Mexico" data-code="MX" data-id="26"><strong>Mexico</strong></span>/<span class="js-topShipCurrency ml5">USD</span><span class="v-line">|</span></dt>
-            <dd class="drop-layer">
-                <h3>Select Regional Settings</h3>
-                <div>
-                    <span class="vam pb5">Ship to</span>
-                    <dl class="js-topCountry select-box">
-                        <dt class="value js-topCountryValue G-js-country" data-name="United States" data-code="us" data-id="41"><strong>United States</strong></dt>
-                        <dd class="value-list"><ul class="js-topCountryList"></ul></dd>
-                    </dl>
-                </div>
-                <div class="pt10">
-                    <span class="vam pb5">Currency</span>
-                    <dl class="js-topCurrency select-box top-current-select">
-                        <dt class="js-topCurrencyValue value" data-bizhong="USD"><strong>USD</strong></dt>
-                        <dd class="value-list"><ul class="js-topCurrencyList"></ul></dd>
-                    </dl>
-                </div>
-                <button class="js-operateShipBtn btn btn-orange btn-small w100 mt15">Save</button>
-            </dd>
-      </dl>
-		<!--
-        <dl class="top-operate top-operate-lan">
-        	<dt>
-        		<span>Language</span>
-        		<span class="v-line">|</span>
-        	</dt>
-        	<dd class="drop-layer fade-up">
-        		<ul>
-        			<li><a href="http://www.yoshop.com/lang/index?language=en">English</a></li>
-        			<li><a href="http://www.yoshop.com/lang/index?language=pt">Português</a></li>
-        		</ul>
-        	</dd>
-        </dl>
-        -->
-		<dl class="top-operate top-operate-chat js-operate-chat">
-			<dt><span class="mr5">Live Chat</span></dt>
-			<dd class="drop-layer fade-up">
-				<!-- <p class="pre-sales">
-					<strong>Pre-sales</strong><br>If you have any questions before making a purchase,please contact the customer service through live chart  to get more information.					<a href="javascript:void(0);" rel="nofollow" onclick="$('.liveChatBtnHidden .LPMlabel').trigger('click');">Start Online Chat</a>
-					<i class="i-presales">Pre-sales</i>
-				</p> -->
-				<p class="after-sales">
-					<strong>After Sales</strong><br>Contact customer service for order status and other after-sales issues.					<a rel="nofollow" target="_blank" href="https://support.yoshop.com/faq/index/index?lang=en&amp;t=">Submit a Request</a>
-					<i class="i-aftersales">After Sales</i>
-				</p>
-			</dd>
-		</dl>
-	</div>
+	</section>
 </div>
-<div class="nav-belt clearfix">
-	<div class="nav-main">
-		<div class="nav-main-wrap">
-			<form id="js_siteSearchForm" class="site-search-form" action="/buy" method="GET" onsubmit="return false">
-				<input class="js_k2 site-search" type="text" autocomplete="off" name="keyword" value="" placeholder="Search">
-				<button class="site-search-submit" type="submit"></button>
-			</form>
+<div class="js_top_head" id="js_top_head">
+	
+<section class="res-w">
+	<div class="nav-belt clearfix">
+	
+		<div class="nav-sub">
+			<h1 class="vam">
+				<a href="http://www.yoshop.com" title="YoShop">
+					<img src="https://css.yoshop.com/imagecache/YO/images/pageimg/logo.png" alt="YoShop" class="vam">
+				</a>
+				<p class="free-shipping">Free Shipping Refund Within 45 Days!</p>
+			</h1>
+			<!-- <i class="nav-split split-higher"></i>
+			<span class="site-freetips vam"><span class="ml5 fb">FREE SHIPPING</span><br><span>Refund Within 45 Days</span></span> -->
+		</div>
+		<div class="nav-app-down">
+			<a href="https://itunes.apple.com/us/app/id1025598893" target="_blank" class="ios-store">
+				<img src="https://css.yoshop.com/imagecache/YO/images/pageimg/home/app-store.png">
+			</a>
+			<a href="https://play.google.com/store/apps/details?id=com.yoshop" target="_blank" class="android-store">
+				<img src="https://css.yoshop.com/imagecache/YO/images/pageimg/home/android-play.png">
+			</a>
+		</div>
+		<div class="nav-main">
+			<div class="nav-main-wrap">
+				<form id="js_siteSearchForm" class="site-search-form" action="/buy" method="GET" onsubmit="return false">
+					<input class="js_k2 site-search" type="text" autocomplete="off" name="keyword" value="" placeholder="searching">
+					<button class="site-search-submit" type="submit"></button>
+				</form>
+			</div>
+		</div>
+		<div class="nav-extra clearfix">
+			<!-- <div class="fr pt10"> -->
+				<a id="js_siteCart" rel="nofollow" class="site-cart" href="http://cart.yoshop.com/cart/index">
+					<div class="cart-num-wrap"><div id="js_siteCartNum" class="cart-num">0</div></div>
+					<p class="title">Cart</p>
+				</a>
+				<a id="js_siteWishList" class="site-wish has-nav-split split-normal" href="javascript:;">
+					<p>Wish <br>List</p>
+				</a>
+				<dl class="site-user vam">
+					<dt id="js_login" class="">
+						<!-- <p>Sign in Join <br>My Yoshop</p> -->
+						<p>
+						<span class="sign-in js-login" data-signtype="signin">Sign in</span><span class="v-line">|</span><span class="sign-up js-login">Join</span>						</p>
+					</dt>
+				</dl>
+			<!-- </div> -->
 		</div>
 	</div>
-	<div class="nav-sub">
-		<h1 class="vam"><a href="http://www.yoshop.com" title="YoShop"><img src="https://css.yoshop.com/imagecache/YO/images/pageimg/logo.png" alt="YoShop" class="vam"></a></h1>
-		<i class="nav-split split-higher"></i>
-		<span class="site-freetips vam"><span class="ml5 fb">FREE SHIPPING</span><br><span>Refund Within 45 Days</span></span>
-	</div>
-	<div class="nav-extra clearfix">
-		<div class="fr pt10">
-			<dl class="site-user vam">
-				<dt id="js_login" class="js-login">LOG IN/SIGN UP</dt>
-			</dl>
-			<i class="nav-split split-normal"></i>
-			<a id="js_siteWishList" class="site-wish has-nav-split split-normal" href="javascript:;"></a>
-			<i class="nav-split split-normal"></i>
-			<a id="js_siteCart" class="site-cart" href="http://cart.yoshop.com/cart/index"><span id="js_siteCartNum" class="cart-num">0</span></a>
-		</div>
-	</div>
-</div>    </header>
-    <div class="page-content">
-        <div class="article-wrap clearfix">
-            <ul class="article-nav">
-                <li><a href="http://www.yoshop.com/article/aboutUs.html" class="">About us</a></li>
-                <li><a href="http://www.yoshop.com/article/termsOfUse.html" class="">Terms of Use</a></li>
-                <li><a href="http://www.yoshop.com/article/privacyPolicy.html" class="on">Privacy Policy</a></li>
-                <li><a href="http://www.yoshop.com/article/securePaymentMethods.html" class="">Secure Payment Methods</a></li>
-                <li><a href="http://www.yoshop.com/article/shippingHandling.html" class="">Shipping &amp; Handling</a></li>
-                <li><a href="http://www.yoshop.com/article/warrantyReturn.html" class="">Warranty and Return</a></li>
-                <li><a href="http://www.yoshop.com/article/contactUs.html" class="">Contact us</a></li>
-                <li><a href="http://www.yoshop.com/article/paymentVerificationProcedure.html" class="">Payment Verification Procedure</a></li>
+</section>
 
-                <li><a href="http://www.yoshop.com/article/trademarkProtection.html" class="">Trademark Protection</a></li>
-                <li><a href="http://www.yoshop.com/article/affiliateProgram.html" class="">Affiliate Program</a></li>
+</div>	</header>
+
+    <div class="js_tb_padding">
+                <div class="crumbs-nav">
+    <a href="http://yoshop.com">Home</a>
+    &gt; <span class="crumbs-current">Privacy Policy</span></div>        <div class="article-wrap clearfix">
+            <ul class="article-nav">
+                <li><a rel="nofollow" href="http://www.yoshop.com/article/about-us.html" class="">About us</a></li>
+                <li><a rel="nofollow" href="http://www.yoshop.com/article/terms-of-use.html" class="">Terms of Use</a></li>
+                <li><a rel="nofollow" href="http://www.yoshop.com/article/privacy-policy.html" class="on">Privacy Policy</a></li>
+                <li><a rel="nofollow" href="http://www.yoshop.com/article/secure-payment-methods.html" class="">Secure Payment Methods</a></li>
+                <li><a rel="nofollow" href="http://www.yoshop.com/article/shipping-handling.html" class="">Shipping &amp; Handling</a></li>
+                <li><a rel="nofollow" href="http://www.yoshop.com/article/warranty-and-return.html" class="">Warranty and Return</a></li>
+                <li><a rel="nofollow" href="http://www.yoshop.com/article/contact-us.html" class="">Contact us</a></li>
+                <li><a rel="nofollow" href="http://www.yoshop.com/article/payment-verification-procedure.html" class="">Payment Verification Procedure</a></li>
+
+                <li><a rel="nofollow" href="http://www.yoshop.com/article/trademark-protection.html" class="">Trademark Protection</a></li>
+                <li><a rel="nofollow" href="http://www.yoshop.com/article/affiliate-program.html" class="">Affiliate Program</a></li>
+				<li><a rel="nofollow" href="http://www.yoshop.com/article/merchant.html" class="">Merchant</a></li>
+
+				<li><a rel="nofollow" href="http://www.yoshop.com/article/how-to-use-coupon.html" class="">How To Use Coupon</a></li>
+
             </ul>
             <div class="article">
 				<div class="article-banner with-text">
@@ -346,7 +446,8 @@ fbq('track', "PageView");</script>
     <section class="privacy-policy-note">
     <dl>
         <dd>Email: support@yoshop.com</dd>
-        <dd> Phone: (646)340-9762</dd>
+        <dd>Phone:（+1）866 990 1222  --- US Customers only</dd>
+        <dd>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(+001)866 990 1222 --- International Customers</dd>
     </dl>
 </section>
 </div>
@@ -356,18 +457,98 @@ fbq('track', "PageView");</script>
     <footer class="site-footer">
 		<a class="site-support-center" target="_blank" href="https://support.yoshop.com/faq/index/index?lang=en&amp;t="></a>
 <i class="js-gotop site-gotop"></i>
-    </footer>
+    <div class="section-footer" id="js_footer_link">
+        <div class="res-w">
+            <div class="section-container">
+                <div class="site-link">
+                    <div class="about-wrap">
+                        <p class="bold"><a href="http://www.yoshop.com/article/about-us.html" rel="nofollow">About US</a></p>
+                        <p><a href="http://www.yoshop.com/article/contact-us.html" rel="nofollow">Contact Us</a></p>
+                        <p><a href="http://www.yoshop.com/article/privacy-policy.html" rel="nofollow">Privacy Policy</a></p>
+                        <p><a href="https://support.yoshop.com/faq/index/index?lang=en&amp;st=1" rel="nofollow">Support Center</a></p>
+                    </div>
+                    <div class="terms-wrap">
+                        <p class="bold"><a href="http://www.yoshop.com/article/terms-of-use.html" rel="nofollow">Terms Of Use</a></p>
+                        <p><a href="http://www.yoshop.com/article/shipping-handling.html" rel="nofollow">Shipping &amp; Handling</a></p>
+                        <p><a href="http://www.yoshop.com/article/warranty-and-return.html" rel="nofollow">Warranty and Return</a></p>
+                        <p><a href="http://www.yoshop.com/article/secure-payment-methods.html" rel="nofollow">Secure payment methods</a></p>
+                    </div>
+                    <div class="affiliate-wrap">
+                        <p class="bold"><a href="http://www.yoshop.com/article/affiliate-program.html" rel="nofollow">Affiliate Program</a></p>
+                        <p><a href="http://www.yoshop.com/article/trademark-protection.html" rel="nofollow">Trademark Protection</a></p>
+                        <p><a href="http://www.yoshop.com/article/payment-verification-procedure.html" rel="nofollow">Payment Verification Procedure</a></p>
+                        <p><a href="http://www.yoshop.com/article/merchant.html" rel="nofollow">Merchant</a></p>
+                    </div>
+                    <div class="social-wrap">
+                        <p class="bold">FIND US ON</p>
+                        <div class="icon">
+                            <ul>
+                                <li class="fb-icon"><a href="https://www.facebook.com/Yoshoptop/" target="_blank"><span></span></a></li>
+                                <li class="twitter-icon"><a href="https://twitter.com/YoShop_official  " target="_blank"><span></span></a></li>
+                                <li class="youtobe-icon"><a href="https://www.youtube.com/channel/UCt5Xg9ZKiVAsmpdI4G8Xywg" target="_blank"><span></span></a></li>
+                                <!-- <li class="google-icon"><span></span></li> -->
+                                <!-- <li class="ohter-icon"><span></span></li> -->
+                                <li class="ohter1-icon"><a href="https://www.instagram.com/yoshop.official/" target="_blank"><span></span></a></li>
+                            </ul>
+                        </div>
+                        <div class="yoshop-fb-like">
+                            <div class="fb-page" data-href="https://www.facebook.com/Yoshoptop/" data-small-header="true" data-hide-cover="true" data-show-facepile="fase" data-adapt-container-width="false">
+                                <blockquote cite="https://www.facebook.com/Yoshoptop/" class="fb-xfbml-parse-ignore">
+                                    <a href="https://www.facebook.com/Yoshoptop/"></a>
+                                </blockquote>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="copyright-wrap">
+            <div class="copyright-wc res-w">
+                <div class="copyright">
+                    <div class="cr-left">
+                        <p>Copyright © 2017 Yoshop.com. All Rights Reserved.</p>
+                    </div>
+                    <div class="cr-right">
+                        <ul>
+                            <li class="item icon1">
+                                <a href="javascript:void(0);"></a>
+                            </li>
+                            <li class="item icon2">
+                                <a href="javascript:void(0);"></a>
+                            </li>
+                            <li class="item icon3">
+                                <a href="javascript:void(0);"></a>
+                            </li>
+                            <li class="item icon4">
+                                <a href="javascript:void(0);"></a>
+                            </li>
+                            <li class="item icon5">
+                                <a href="javascript:void(0);"></a>
+                            </li>
+                            <li class="item icon6">
+                                <a href="javascript:void(0);"></a>
+                            </li>
+                            <li class="item icon7">
+                                <a href="javascript:void(0);"></a>
+                            </li>
+                            <li class="item icon8">
+                                <a href="javascript:void(0);"></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    
+        </footer>
 
     <script>
         require(resolvePath(['pages/empty']));
 	</script>
-    <!-- 引用livechat.php -->
 
-    <!-- GATC 收集访问者数据并将其发送给Google Analytics数据收据服务器的标记 -->
-<!-- <script async src='//www.google-analytics.com/analytics.js'></script> -->
+     
 <script>
-/*window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-    window.gaFun = window.gaFun || {};*/
 (function(i, s, o, g, r, a, m) {
     i['GoogleAnalyticsObject'] = r;
     i[r] = i[r] || function() {
@@ -382,7 +563,7 @@ fbq('track', "PageView");</script>
 
 
 var isGaLogin = /WEBF-email=(.+?);/ig.exec(document.cookie);
-if (isGaLogin) { //判断cookie中是否有userID, 这里通过在 public.js里面定义的登录变量判断
+if (isGaLogin) { 
     var email = decodeURIComponent(isGaLogin[1]);
     ga('create', 'UA-81034136-1', 'auto', {
         'userId': email,
@@ -409,21 +590,23 @@ if (isGaLogin) { //判断cookie中是否有userID, 这里通过在 public.js里�
     } else{
         ga_taglist = 'home';
     }
-    ga('set', 'contentGroup1', ga_taglist); //使用Tag List中内容组参数替换大括号中部分，填写后去除大括号
+    ga('set', 'contentGroup1', ga_taglist); 
     ga('require', 'displayfeatures');
-    ga('require', 'ec'); // 用来加载电子商务文件库。
+    ga('require', 'ec');   
 
-// banner 广告的统计，如果有。AI  如果有多个广告需要循环
+ 
+
 if (document.querySelector('#js_siteBanner')) {
-    ga('ec:addPromo', { //  站内广告详细信息
-        'id': 'PROMO_1234', // 站内广告ID
-        'name': 'Summer Sale', // 站内广告名称
-        'creative': 'summer_banner2', // 站内广告创意
-        'position': 'index_banner' // 站内广告位置
+    ga('ec:addPromo', { 
+        'id': 'PROMO_1234', 
+        'name': 'Summer Sale',
+        'creative': 'summer_banner2', 
+        'position': 'index_banner' 
     });
 }
 
-//统计商品详情页被浏览的次数 EDP 
+
+ 
 if (/goods-page/.test(document.body.className)) {
     var gtarget = $("button.G-js-addCart");
     var product = {
@@ -434,21 +617,20 @@ if (/goods-page/.test(document.body.className)) {
         brand: gtarget.data('goodBrand') || ''
     };
     ga('ec:addProduct', {
-        'id': product.id || '', // 商品的SKU/ID，必填
-        'name': product.name || '', // 商品的名称，必填
-        'category': product.category || '', // 商品类别，可选
-        'brand': product.brand || '', // 商品品牌，可选
-        'variant': product.variant || '', // 商品属性，可选
-        'price': product.price || '' // 商品价格，可选
+        'id': product.id || '', 
+        'name': product.name || '', 
+        'category': product.category || '', 
+        'brand': product.brand || '', 
+        'variant': product.variant || '', 
+        'price': product.price || '' 
     });
-    ga('ec:setAction', 'detail'); // 执行产品详情动作
+    ga('ec:setAction', 'detail'); 
 }
 
 ga(function(tracker) {
     ga('set', 'dimension2', tracker.get('clientId'));
 });
-ga('send', 'pageview');
-</script>
+ga('send', 'pageview')</script>
 
 
 </body></html>
