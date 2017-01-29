@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the entertainment.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024083331id_/https%3A//answers.entertainment.com/customer/portal/articles/1731240) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the entertainment.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129170221id_/https%3A//answers.entertainment.com/customer/portal/articles/1731240) for the most accurate reproduction.*
 
 # Entertainment | Privacy Policy
 
