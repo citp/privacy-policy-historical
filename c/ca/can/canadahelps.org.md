@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228130336id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadahelps.org privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129040148id_/https%3A//www.canadahelps.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CanadaHelps - Donate to any charity in Canada
 
@@ -91,7 +91,7 @@ CANADAHELPS takes reasonable effort to keep personal information accurate, compl
     * CANADAHELPS makes commercially reasonable efforts to protect personal information from loss, theft, unauthorized access, copying, use, modification, disclosure and destruction by establishing and maintaining appropriate security safeguards appropriate to the sensitivity level of the information.
     * All CANADAHELPS staff members are made aware of the need to maintain strict confidentiality of all personal information.
     * CANADAHELPS uses Transport Layer Security (TLS) technology to help ensure the safety and security of online donations. TLS technology enables encryption (scrambling) of sensitive information, including passwords and credit card numbers, during your online transactions.
-    * CANADAHELPS has thorough security standards to protect our systems and your personal information against unauthorized access and use. This includes the security protections required by PCI compliance as well as specific procedures to keep your donation information secure, private and in Canada.
+    * CANADAHELPS has thorough security standards to protect our systems and personal information against unauthorized access and use. This includes the security protections required by PCI compliance as well as specific procedures to keep donation information secure, private and in Canada.
   8. ### Openness
 
 CANADAHELPS makes information about our policies and practices related to the management of personal information readily available to users of our service and the general public. Our Privacy Policy, which informs users of the type of information we collect, what it is used for, and to whom the information may be disclosed, is posted on our website. Additional information about our privacy policies and practices can be obtained from our Privacy Official as described below.
