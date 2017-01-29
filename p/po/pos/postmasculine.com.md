@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the postmasculine.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218023753id_/http%3A//postmasculine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the postmasculine.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129065918id_/https%3A//markmanson.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Postmasculine
+# Privacy Policy - Mark Manson
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy. 
 
@@ -10,10 +10,10 @@ Your privacy is very important to us. Accordingly, we have developed this Policy
   * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
   * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
   * We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification. 
+  * We use data from Google’s interest-based advertising or 3rd-party audience data (such as age, gender and interests) with Google Analytics. 
+  * Visitors can opt out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). Visitors can also use the Google Analytics [opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/) to prevent their data to be used by Google Analytics. 
   * We will make readily available to customers information about our policies and practices relating to the management of personal information. 
 
 
 
 We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained.
-
-2013-02-27T22:03:30+00:00
