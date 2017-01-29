@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xilinx.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215074154id_/http%3A//www.xilinx.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xilinx.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129051138id_/http%3A//www.xilinx.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Xilinx Privacy Policy
 
@@ -69,7 +69,7 @@ For your convenience, we may provide links on our Site to certain third-party we
 
 ### Unsubscribe/Opt-Out
 
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, or you can contact us at [**Website Feedback and General Questions**](https://web.archive.org/askx/feedback_form.htm).
+You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, or you can contact us at [**Website Feedback and General Questions**](https://web.archive.org/about/feedback/website-feedback.html).
 
 ### Data Retention 
 
