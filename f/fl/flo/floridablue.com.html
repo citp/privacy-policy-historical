@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the floridablue.com privacy policy that was archived on 2016-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124023830id_/https%3A//www.floridablue.com/internet-privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the floridablue.com privacy policy that was archived on 2017-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170129110614id_/https%3A//www.floridablue.com/internet-privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         		 <!-- Begin Monetate tag v6. Place at start of document head. DO NOT ALTER. -->
@@ -21,7 +21,6 @@ var monetateT = new Date().getTime();
                 <title>Internet Privacy Statement | Florida Blue | Florida Blue</title>
 		<meta name="viewport" content="width=device-width, initial-scale=1.0">
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-<link rel="shortcut icon" href="//www.floridablue.com/sites/floridablue.com/files/favicon.png" type="image/png">
 <script>window.dataLayer = window.dataLayer || [];
 window.dataLayer.push({
 	'event': 'dataLayer-loaded',
@@ -29,6 +28,8 @@ window.dataLayer.push({
 	'langSession': 'en', // e.g. 'en', 'es'
 	'zipCode': ''
 });</script>
+<meta content="no-cache, no-store, must-revalidate" http-equiv="Cache-Control">
+<link rel="shortcut icon" href="//www.floridablue.com/sites/floridablue.com/files/favicon.png" type="image/png">
 <meta name="description" content="Find more information about Florida Blue’s internet privacy statement, here.">
 <meta name="keywords" content="Internet Privacy Statement, Privacy Statement, Internet Privacy">
 <meta name="generator" content="Drupal 7 (http://drupal.org)">
@@ -38,7 +39,7 @@ window.dataLayer.push({
 		<link type="text/css" rel="stylesheet" href="//www.floridablue.com/sites/floridablue.com/files/css/css_lQaZfjVpwP_oGNqdtWCSpJT1EMqXdMiU84ekLLxQnc4.css" media="all">
 <link type="text/css" rel="stylesheet" href="//www.floridablue.com/sites/floridablue.com/files/css/css_fRFXZktVhv2Omv_NbpLuQLjQcv_XeBqRR6eA8ecFOVE.css" media="all">
 <link type="text/css" rel="stylesheet" href="//www.floridablue.com/sites/floridablue.com/files/css/css_rdoAoEJpvivCx4ebJBWhCA4LoBmAgdu3wmCuAuocqBw.css" media="all">
-<link type="text/css" rel="stylesheet" href="//www.floridablue.com/sites/floridablue.com/files/css/css_nI0dbvClJLbRnzhpfr_sBfAb93wuoC82JtgV4aghnsY.css" media="all">
+<link type="text/css" rel="stylesheet" href="//www.floridablue.com/sites/floridablue.com/files/css/css_dCJWezzdtSem7YWmCmKME_oE3WsGFu6TPBFr-vK6Uts.css" media="all">
 <link type="text/css" rel="stylesheet" href="//www.floridablue.com/sites/floridablue.com/files/css/css_47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU.css" media="print">
 
 		<link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:900" rel="stylesheet" type="text/css">
@@ -72,7 +73,7 @@ f);
     <div class="off-canvas-wrap" data-offcanvas="">
         <div class="inner-wrap">
             <!-- Header Block START -->
-                <!--host edcldplp430.bcbsfl.com-->
+                <!--host edcldplp413.bcbsfl.com-->
 	<header id="desktop-header" class="show-for-medium-up">
 	<div id="global-search">							
 		<form action="">
@@ -216,9 +217,10 @@ var browser_detect_info = {
 
 <script>
 (function ($) {
-	jQuery(document).ready(function () {
+	jQuery(document).ready(function () {	
+        var lang_cookie_url = Drupal.settings.lang_cookie_url;		
 		$('.lang1').find('a').on('click', function() {
-		var lang_cookie_url = Drupal.settings.lang_cookie_url;		
+			
 		var lang_prefix = $(this).attr('href').split('/');	
 		var lang_prefix1;
 
@@ -231,13 +233,71 @@ var browser_detect_info = {
 		var $e = $("<img>", {src: lang_cookie_url+lang_prefix1 });
 		$(document).append($e);
 	});
+		var path_name = window.location.pathname;
+		var path_name_split = path_name.split('/');	
+		var fb_providers_spanish_disable = Drupal.settings.fb_providers_spanish_disable;
+		var fb_members_spanish_disable = Drupal.settings.fb_members_spanish_disable;
+		var fb_agents_spanish_disable = Drupal.settings.fb_agents_spanish_disable;
+		var fb_employers_spanish_disable = Drupal.settings.fb_employers_spanish_disable;
+		
+        $("#prov-login a").attr("href", "javascript:");
+		$("#prov-login a").attr("onclick", "window.open('/disclaimer?destination=https://apps.availity.com/availity/web/public.elegant.login', '_blank');");
+		$("#prov-login-es a").attr("href", "javascript:");
+		$("#prov-login-es a").attr("onclick", "window.open('/es/disclaimer?destination=https://apps.availity.com/availity/web/public.elegant.login");
+		if(path_name_split[1]  == 'providers' && fb_providers_spanish_disable == 'yes') {
+			$('.hide-lang').hide();
+			// ECIR call to update locale
+			var lang_prefix2 = 'en';
+			var $e = $("<img>", {src: lang_cookie_url+lang_prefix2 });
+			$(document).append($e);
+		} else if(path_name_split[1] == 'es' && path_name_split[2] == 'providers' && fb_providers_spanish_disable == 'yes') {
+			var lang_prefix2 = 'en';
+			var $e = $("<img>", {src: lang_cookie_url+lang_prefix2 });
+			$(document).append($e);
+		}
+		
+		if(path_name_split[1]  == 'members' && fb_members_spanish_disable == 'yes') {
+			$('.hide-lang').hide();
+			// ECIR call to update locale
+			var lang_prefix2 = 'en';
+			var $e = $("<img>", {src: lang_cookie_url+lang_prefix2 });
+			$(document).append($e);
+		} else if(path_name_split[1] == 'es' && path_name_split[2] == 'members' && fb_members_spanish_disable == 'yes') {
+			var lang_prefix2 = 'en';
+			var $e = $("<img>", {src: lang_cookie_url+lang_prefix2 });
+			$(document).append($e);
+		}
+		
+		if(path_name_split[1]  == 'agents' && fb_agents_spanish_disable == 'yes') {
+			$('.hide-lang').hide();
+			// ECIR call to update locale
+			var lang_prefix2 = 'en';
+			var $e = $("<img>", {src: lang_cookie_url+lang_prefix2 });
+			$(document).append($e);
+		} else if(path_name_split[1] == 'es' && path_name_split[2] == 'agents' && fb_agents_spanish_disable == 'yes') {
+			var lang_prefix2 = 'en';
+			var $e = $("<img>", {src: lang_cookie_url+lang_prefix2 });
+			$(document).append($e);
+		}
+		
+		if(path_name_split[1]  == 'employers' && fb_employers_spanish_disable == 'yes') {
+			$('.hide-lang').hide();
+			// ECIR call to update locale
+			var lang_prefix2 = 'en';
+			var $e = $("<img>", {src: lang_cookie_url+lang_prefix2 });
+			$(document).append($e);
+		} else if(path_name_split[1] == 'es' && path_name_split[2] == 'employers' && fb_employers_spanish_disable == 'yes') {
+			var lang_prefix2 = 'en';
+			var $e = $("<img>", {src: lang_cookie_url+lang_prefix2 });
+			$(document).append($e);
+		}
 });
 })(jQuery);
 
 </script>
 
     </section>
-						
+					
 				</div>
 				<div class="medium-6 large-6 columns text-right section-utility">
 				  <section class="block block-block">
@@ -406,7 +466,6 @@ height: 0px;
   <section class="block block-nodeblock">
 
   
-      <h2>Mobile Header Top Content</h2>
     
 
       <div id="node-9" class="node node-custom-nodeblock clearfix">
@@ -445,11 +504,11 @@ height: 0px;
   
     
 
-      <ul class="tier-1"><li class="first expanded active"><div class="active-arrow"></div><a href="#" target="_self" title="Main"><p class="icon icon-explore text-center"></p>Main</a><ul class="tier-2"><li role="menuitem"><a href="/"><span></span>Home</a></li><li role="menuitem"><a href="/mega-dropdown" class="off-canvas-submenu-call"><span></span>Find a Plan <span class="right">+</span></a></li><ul class="off-canvas-submenu" style="display: none;"><li role="menuitem"><a href="https://consumer.websales.floridablue.com/"><span></span>Individuals &amp; Families</a></li><li role="menuitem"><a href="https://shop.floridablue.com"><span></span>Medicare</a></li><li role="menuitem"><a href="/employers/plans-services/overview"><span></span>Businesses</a></li></ul><li role="menuitem" class="leaf small-icons white-circle-bg"><a href="https://providersearch.floridablue.com/providersearch/pub/index.htm"><span class="find-doctor"></span>Find a Doctor</a></li><li role="menuitem"><a href="/find-a-location"><span></span>Find a Location</a></li><li role="menuitem"><a href="/content/contact-us"><span></span>Contact Us</a></li><li role="menuitem" class="leaf lang1"><a href="/www/language/es" class="lang"><span class="icon icon-spanish"></span> Español</a></li><li role="menuitem" class="last leaf search"><a href="#" class="global-search-entry">Search</a></li></ul></li>
+      <ul class="tier-1"><li class="first expanded active"><div class="active-arrow"></div><a href="#" target="_self" title="Main"><p class="icon icon-explore text-center"></p>Main</a><ul class="tier-2"><li role="menuitem"><a href="/"><span></span>Home</a></li><li role="menuitem"><a href="/mega-dropdown" class="off-canvas-submenu-call"><span></span>Find a Plan <span class="right">+</span></a></li><ul class="off-canvas-submenu" style="display: none;"><li role="menuitem"><a href="https://consumer.websales.floridablue.com/"><span></span>Individuals &amp; Families</a></li><li role="menuitem"><a href="https://shop.floridablue.com"><span></span>Medicare</a></li><li role="menuitem"><a href="/employers/plans-services/overview"><span></span>Businesses</a></li></ul><li role="menuitem" class="leaf small-icons white-circle-bg"><a href="https://providersearch.floridablue.com/providersearch/pub/index.htm"><span class="find-doctor"></span>Find a Doctor</a></li><li role="menuitem"><a href="/find-a-location"><span></span>Find a Location</a></li><li role="menuitem"><a href="/general/contact-us"><span></span>Contact Us</a></li><li role="menuitem" class="leaf lang1 hide-lang" member_section=""><a href="/www/language/es" class="lang"><span class="icon icon-spanish"></span> Español</a></li><li role="menuitem" class="last leaf search"><a href="#" class="global-search-entry">Search</a></li></ul></li>
 <li class="expanded"><div class="active-arrow"></div><a href="#" target="_self" title="Members"><p class="icon icon-user-1 text-center"></p>Members</a><ul class="tier-2"><li role="menuitem" member_section=""><a href="/members/individual/home"><span class="icon icon icon-user-1"></span>Individual and Family</a></li><li role="menuitem" member_section=""><a href="https://medicare.websales.floridablue.com/"><span class="icon icon icon-medicare"></span>Medicare</a></li><li role="menuitem" member_section=""><a href="/members/group/home"><span class="icon icon icon-user-1"></span>Insurance Through Your Employer</a></li></ul></li>
 <li class="expanded"><div class="active-arrow"></div><a href="#" target="_self" title="Employers"><p class="icon icon-briefcase-case-two text-center"></p>Employers</a><ul class="tier-2"><li role="menuitem"><a href="/employers"><span></span>Home</a></li><li role="menuitem"><a href="/employers"><span class="icon icon icon-log-in"></span> Employer Login</a></li><li role="menuitem"><a href="/employers/tools-resources/overview"><span></span>Tools &amp; Resources</a></li><li role="menuitem"><a href="/employers/plans-services/overview"><span></span>Plans &amp; Services</a></li><li role="menuitem"><a href="/employers/news/2015-Issues"><span></span>News</a></li></ul></li>
 <li class="expanded"><div class="active-arrow"></div><a href="#" target="_self" title="Agents"><p class="icon icon-single text-center"></p>Agents</a><ul class="tier-2"><li role="menuitem"><a href="/agents"><span></span>Home</a></li><li role="menuitem"><a href="/agents"><span class="icon icon icon-log-in"></span> Agent Login</a></li><li role="menuitem"><a href="/agents/tools-resources/overview"><span></span>Tools &amp; Resources</a></li><li role="menuitem"><a href="/agents/become-an-agent"><span></span>Become an Agent</a></li></ul></li>
-<li class="expanded"><div class="active-arrow"></div><a href="#" target="_self" title="Providers"><p class="icon icon-toolkit text-center"></p>Providers</a><ul class="tier-2"><li role="menuitem"><a href="/providers"><span></span>Home</a></li><li role="menuitem"><a href="https://apps.availity.com/availity/web/public.elegant.login"><span class="icon icon icon-log-in" target="_blank"></span> Provider Login</a></li><li role="menuitem"><a href="/providers/tools-resources/overview"><span></span>Tools &amp; Resources</a></li><li role="menuitem"><a href="/providers/forms"><span></span>Forms</a></li><li role="menuitem"><a href="/providers/compliance-information"><span></span>Ethics &amp; Compliance</a></li></ul></li>
+<li class="expanded"><div class="active-arrow"></div><a href="#" target="_self" title="Providers"><p class="icon icon-toolkit text-center"></p>Providers</a><ul class="tier-2"><li role="menuitem"><a href="/providers"><span></span>Home</a></li><li role="menuitem" id="prov-login" member_section=""><a href="https://apps.availity.com/availity/web/public.elegant.login"><span class="icon icon icon-log-in" target="_blank"></span> Provider Login</a></li><li role="menuitem"><a href="/providers/tools-resources/overview"><span></span>Tools &amp; Resources</a></li><li role="menuitem"><a href="/providers/forms"><span></span>Forms</a></li><li role="menuitem" member_section=""><a href="/about-us/ethics-and-compliance"><span></span>Ethics &amp; Compliance</a></li></ul></li>
 <li class="last expanded"><div class="active-arrow"></div><a href="#" target="_self" title="More"><p class="icon icon-list-bullet text-center"></p>More</a><ul class="tier-2"><li role="menuitem"><a href="/about-us/overview"><span></span>About Us</a></li><li role="menuitem"><a href="/general/web-accessibility"><span></span>Accessibility</a></li><li role="menuitem"><a href="/tools-resources"><span></span>Tools &amp; Resources</a></li><li role="menuitem"><a href="/fna_search"><span></span>Find an Agent</a></li><li role="menuitem"><a href="/members/tools-resources/pharmacy"><span></span>Pharmacy</a></li><li role="menuitem"><a href="/about-us/newsroom"><span></span>News</a></li></ul></li>
 </ul>
     </section>
@@ -1272,7 +1331,7 @@ height: 0px;
 	</div>
 
 	<div class="small-12 medium-8 large-8 columns text-right small-only-text-left">
-		<p class="copyright">© 2016 Blue Cross and Blue Shield of Florida, Inc. DBA Florida Blue. All rights reserved.</p>
+		<p class="copyright">© <script type="text/javascript"> document.write(new Date().getFullYear()); </script>2020 Blue Cross and Blue Shield of Florida, Inc. DBA Florida Blue. All rights reserved.</p>
 	</div>
 </div>
 
@@ -1292,19 +1351,12 @@ height: 0px;
   
     
 
-      <!-- BEGIN: OnlineOpinion v5+
-* The following code is Copyright 1998-2013 Opinionlab, Inc.
-* All rights reserved. Unauthorized use is prohibited.
-* This product and other products of OpinionLab, Inc. are protected by U.S. Patent No. US 6606581, 6421724, 6785717 B1 and other patents pending.
-* http://www.opinionlab.com
--->
-<!-- MAIN OL STYLESHEET -->
-<link rel="stylesheet" type="text/css" href="/profiles/fb_profile/themes/wwwtwig/css/oo_style.css">
-<!-- MAIN OL ENGINE -->
-<script language="javascript" type="text/javascript" charset="windows-1252" src="/profiles/fb_profile/themes/wwwtwig/js/oo_engine.js"></script>
-<!-- FEEDBACK CONFIGURATION -->
-<script language="javascript" type="text/javascript" charset="windows-1252" src="/profiles/fb_profile/themes/wwwtwig/js/oo_conf_tab_inline.js"></script>
-<!-- END: OnlineOpinion v5+ -->
+      <style>
+@media only screen and (max-width: 40em)
+#mobile-nav .tab-bar h2 {
+margin-top: 0em !important;
+}
+</style>
     </section>
 
   </div>
@@ -1327,7 +1379,7 @@ height: 0px;
 <script type="text/javascript" src="//www.floridablue.com/sites/floridablue.com/files/js/js_lcu3ohOsLfD9eLtH7IHUZvZzRol4bXJp4m3VsYN_fhU.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
-jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"wwwtwig","theme_token":"Rvq-Xl8-z3Gpx_BPpmIj6LRZLiOqLfIRWeRRd8D50DY","js":{"profiles\/fb_profile\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/fb_profile\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/fb_profile\/modules\/custom\/global_search\/js\/search_panel.js":1,"profiles\/fb_profile\/modules\/contrib\/devel\/krumo\/krumo.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/vendor\/modernizr.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/vendor\/placeholder.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/vendor\/fastclick.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.abide.js":1,"profiles\/fb_profile\/themes\/wwwtwig\/js\/foundation\/foundation.accordion.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.alert.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.clearing.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.dropdown.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.equalizer.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.interchange.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.joyride.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.magellan.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.offcanvas.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.orbit.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.reveal-wa.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.slider.js":1,"profiles\/fb_profile\/themes\/wwwtwig\/js\/foundation\/foundation.tab.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.tooltip.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.topbar.js":1,"profiles\/fb_profile\/themes\/wwwtwig\/js\/tertiary.js":1,"profiles\/fb_profile\/themes\/wwwtwig\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/fb_profile\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/fb_profile\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/fb_profile\/modules\/custom\/fna\/css\/fna.css":1,"profiles\/fb_profile\/modules\/custom\/webmethod_service\/css\/webmethod_service.css":1,"profiles\/fb_profile\/modules\/contrib\/views\/css\/views.css":1,"profiles\/fb_profile\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/fb_profile\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/fb_profile\/modules\/contrib\/devel\/krumo\/skins\/default\/skin.css":1,"profiles\/fb_profile\/themes\/wwwtwig\/css\/app.css":1,"profiles\/fb_profile\/themes\/wwwtwig\/css\/custom.css":1,"profiles\/fb_profile\/themes\/fbtwig\/css\/print.css":1}},"search":{"site":"www_fb","client":"www_fb_frontend","output":"xml_no_dtd","proxystylesheet":"www_fb_frontend","searchbtn":""},"search_es":{"site":"www_fb_es","client":"www_fb_es_frontend","output":"xml_no_dtd","proxystylesheet":"www_fb_es_frontend","searchbtn":""},"centers":{"\/content\/clermont":"Clermont","\/content\/doral":"Doral","\/content\/fort-lauderdale":"Fort Lauderdale","\/content\/fort-myers":"Fort Myers","\/content\/hialeah":"Hialeah","\/Jacksonville-Winston-YMCA":"Jacksonville - Winston YMCA","\/content\/jacksonville-\u2013-river-city-marketplace":"Jacksonville \u2013 River City Marketplace","\/content\/jacksonville-st-johns-town-center":"Jacksonville \u2013 St. Johns Town Center","\/content\/kendall":"Kendall","\/content\/Lakes-Green":"Lakes on the Green","\/content\/miami":"Miami","\/content\/north-miami":"North Miami","\/content\/orlando":"Orlando","\/content\/palm-beach":"Palm Beach","\/content\/pensacola":"Pensacola","\/content\/pinellas-park":"Pinellas Park","\/content\/port-st-lucie":"Port St Lucie","\/content\/sarasota":"Sarasota","\/content\/tallahassee":"Tallahassee","\/content\/tampa-carrollwood":"Tampa - Carrollwood","\/content\/tampa-west-shore-blvd":"Tampa - West Shore Blvd.","\/content\/winter-haven":"Winter Haven"},"base_url":"https:\/\/www.floridablue.com","lang_path":"en","lang_cookie_url":"https:\/\/login.bcbsfl.com\/setcookie\/localecookie.do?locale="});
+jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":{"theme":"wwwtwig","theme_token":"U-ln-QHa9vR3TbGPmbuceZXNktgIvjroE1QDS85E40s","js":{"profiles\/fb_profile\/modules\/contrib\/jquery_update\/replace\/jquery\/1.10\/jquery.min.js":1,"misc\/jquery.once.js":1,"misc\/drupal.js":1,"profiles\/fb_profile\/modules\/contrib\/jquery_update\/replace\/ui\/external\/jquery.cookie.js":1,"profiles\/fb_profile\/modules\/custom\/global_search\/js\/search_panel.js":1,"profiles\/fb_profile\/modules\/contrib\/devel\/krumo\/krumo.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/vendor\/modernizr.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/vendor\/placeholder.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/vendor\/fastclick.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.abide.js":1,"profiles\/fb_profile\/themes\/wwwtwig\/js\/foundation\/foundation.accordion.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.alert.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.clearing.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.dropdown.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.equalizer.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.interchange.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.joyride.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.magellan.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.offcanvas.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.orbit.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.reveal-wa.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.slider.js":1,"profiles\/fb_profile\/themes\/wwwtwig\/js\/foundation\/foundation.tab.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.tooltip.js":1,"profiles\/fb_profile\/themes\/fbtwig\/js\/foundation\/foundation.topbar.js":1,"profiles\/fb_profile\/themes\/wwwtwig\/js\/tertiary.js":1,"profiles\/fb_profile\/themes\/wwwtwig\/js\/custom.js":1},"css":{"modules\/system\/system.base.css":1,"profiles\/fb_profile\/modules\/contrib\/date\/date_api\/date.css":1,"profiles\/fb_profile\/modules\/contrib\/date\/date_popup\/themes\/datepicker.1.7.css":1,"modules\/field\/theme\/field.css":1,"profiles\/fb_profile\/modules\/custom\/fna\/css\/fna.css":1,"profiles\/fb_profile\/modules\/custom\/webmethod_service\/css\/webmethod_service.css":1,"profiles\/fb_profile\/modules\/contrib\/views\/css\/views.css":1,"profiles\/fb_profile\/modules\/contrib\/ctools\/css\/ctools.css":1,"profiles\/fb_profile\/modules\/contrib\/panels\/css\/panels.css":1,"profiles\/fb_profile\/modules\/contrib\/devel\/krumo\/skins\/default\/skin.css":1,"profiles\/fb_profile\/themes\/wwwtwig\/css\/app.css":1,"profiles\/fb_profile\/themes\/wwwtwig\/css\/custom.css":1,"profiles\/fb_profile\/themes\/fbtwig\/css\/print.css":1}},"search":{"site":"www_fb","client":"www_fb_frontend","output":"xml_no_dtd","proxystylesheet":"www_fb_frontend","searchbtn":""},"search_es":{"site":"www_fb_es","client":"www_fb_es_frontend","output":"xml_no_dtd","proxystylesheet":"www_fb_es_frontend","searchbtn":""},"centers":{"\/content\/clermont":"Clermont","\/content\/doral":"Doral","\/content\/fort-lauderdale":"Fort Lauderdale","\/content\/fort-myers":"Fort Myers","\/content\/hialeah":"Hialeah","\/Jacksonville-Winston-YMCA":"Jacksonville - Winston YMCA","\/content\/jacksonville-\u2013-river-city-marketplace":"Jacksonville \u2013 River City Marketplace","\/content\/jacksonville-st-johns-town-center":"Jacksonville \u2013 St. Johns Town Center","\/content\/kendall":"Kendall","\/content\/Lakes-Green":"Lakes on the Green","\/content\/miami":"Miami","\/content\/north-miami":"North Miami","\/content\/orlando":"Orlando","\/content\/palm-beach":"Palm Beach","\/content\/pensacola":"Pensacola","\/content\/pinellas-park":"Pinellas Park","\/content\/port-st-lucie":"Port St Lucie","\/content\/sarasota":"Sarasota","\/content\/tallahassee":"Tallahassee","\/content\/tampa-carrollwood":"Tampa - Carrollwood","\/content\/tampa-clinisanitas":"Tampa - CliniSanitas","\/content\/tampa-west-shore-blvd":"Tampa - West Shore Blvd.","\/content\/winter-haven":"Winter Haven"},"base_url":"https:\/\/www.floridablue.com","lang_path":"en","lang_cookie_url":"https:\/\/login.bcbsfl.com\/setcookie\/localecookie.do?locale=","fb_providers_spanish_disable":"yes","fb_members_spanish_disable":"no","fb_agents_spanish_disable":"no","fb_employers_spanish_disable":"no"});
 //--><!]]>
 </script>
 
@@ -1354,4 +1406,4 @@ jQuery.extend(Drupal.settings, {"basePath":"\/","pathPrefix":"","ajaxPageState":
 		<!-- Foundation Init Script END -->
 		    
 
-<a href="#" id="oo_tab_1" class="oo_tab_right_1" tabindex="0">feedback<span class="screen_reader">Launches comment card in new window</span><span class="icon"></span></a></body></html>
+</body></html>
