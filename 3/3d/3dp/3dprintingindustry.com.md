@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 3dprintingindustry.com privacy policy that was archived on 2016-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160723164732id_/https%3A//3dprintingindustry.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 3dprintingindustry.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129030626id_/https%3A//3dprintingindustry.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - 3D Printing Industry
 
