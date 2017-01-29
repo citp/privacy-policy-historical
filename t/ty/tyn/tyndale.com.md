@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tyndale.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121230749id_/https%3A//www.tyndale.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tyndale.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129134146id_/https%3A//www.tyndale.com/privacy) for the most accurate reproduction.*
 
 # Tyndale.com: Privacy Policy
 
