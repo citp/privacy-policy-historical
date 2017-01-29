@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thereformation.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107131148id_/https%3A//www.thereformation.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thereformation.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129124653id_/https%3A//www.thereformation.com/privacy) for the most accurate reproduction.*
 
-# Reformation
+# Reformation | Dress Healthy - Sustainable Clothing - Reformation
 
 Our privacy policy describes the information that we collect through our website and how we use it. If you have any questions, please direct all inquiries to: [info@thereformation.com](mailto:info@thereformation.com).
 
