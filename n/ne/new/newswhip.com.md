@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newswhip.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111181147id_/https%3A//www.newswhip.com/newswhip-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newswhip.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129143628id_/https%3A//www.newswhip.com/newswhip-privacy-policy) for the most accurate reproduction.*
 
 # NewsWhip - Privacy Policy
 
