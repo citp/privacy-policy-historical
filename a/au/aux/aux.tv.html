@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the aux.tv privacy policy that was archived on 2016-11-24.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161124101649id_/http%3A//www.aux.tv/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the aux.tv privacy policy that was archived on 2017-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170129080933id_/http%3A//www.aux.tv/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head prefix="og: http://ogp.me/ns#">
 		<meta charset="utf-8">
@@ -14,9 +14,16 @@
 <link rel="dns-prefetch" href="//fonts.googleapis.com">
 <link rel="dns-prefetch" href="//s.w.org">
 		<script id="facebook-jssdk" src="//connect.facebook.net/en_US/all.js#xfbml=1"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://sb.scorecardresearch.com/beacon.js"></script><script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.aux.tv\/wp-includes\/js\/wp-emoji.js?ver=4.6.1","twemoji":"http:\/\/www.aux.tv\/wp-includes\/js\/twemoji.js?ver=4.6.1"}};
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"wpemoji":"http:\/\/www.aux.tv\/wp-includes\/js\/wp-emoji.js?ver=4.7.2","twemoji":"http:\/\/www.aux.tv\/wp-includes\/js\/twemoji.js?ver=4.7.2"}};
 			( function( window, document, settings ) {
 	var src, ready, ii, tests;
+
+	/*
+	 * Create a canvas element for testing native browser support
+	 * of emoji.
+	 */
+	var canvas = document.createElement( 'canvas' );
+	var context = canvas.getContext && canvas.getContext( '2d' );
 
 	/**
 	 * Detect if the browser supports rendering emoji or flag emoji. Flag emoji are a single glyph
@@ -24,18 +31,19 @@
 	 *
 	 * @since 4.2.0
 	 *
-	 * @param type {String} Whether to test for support of "simple", "flag", "diversity" or "unicode8" emoji.
+	 * @param type {String} Whether to test for support of "flag" or "emoji4" emoji.
 	 * @return {Boolean} True if the browser can render emoji, false if it cannot.
 	 */
 	function browserSupportsEmoji( type ) {
-		var canvas = document.createElement( 'canvas' ),
-			context = canvas.getContext && canvas.getContext( '2d' ),
-			stringFromCharCode = String.fromCharCode,
-			flag, flag2, tonedata, tone, tone2;
+		var stringFromCharCode = String.fromCharCode,
+			flag, flag2, technologist, technologist2;
 
 		if ( ! context || ! context.fillText ) {
 			return false;
 		}
+
+		// Cleanup from previous test.
+		context.clearRect( 0, 0, canvas.width, canvas.height );
 
 		/*
 		 * Chrome on OS X added native emoji rendering in M41. Unfortunately,
@@ -50,13 +58,13 @@
 				/*
 				 * This works because the image will be one of three things:
 				 * - Two empty squares, if the browser doesn't render emoji
-				 * - Two squares with 'A' and 'U' in them, if the browser doesn't render flag emoji
-				 * - The Australian flag
+				 * - Two squares with 'U' and 'N' in them, if the browser doesn't render flag emoji
+				 * - The United Nations flag
 				 *
 				 * The first two will encode to small images (1-2KB data URLs), the third will encode
 				 * to a larger image (4-5KB data URL).
 				 */
-				context.fillText( stringFromCharCode( 55356, 56806, 55356, 56826 ), 0, 0 );
+				context.fillText( stringFromCharCode( 55356, 56826, 55356, 56819 ), 0, 0 );
 				if ( canvas.toDataURL().length < 3000 ) {
 					return false;
 				}
@@ -80,45 +88,23 @@
 				flag2 = canvas.toDataURL();
 
 				return flag !== flag2;
-			case 'diversity':
+			case 'emoji4':
 				/*
-				 * This tests if the browser supports the Emoji Diversity specification, by rendering an
-				 * emoji with no skin tone specified (in this case, Santa). It then adds a skin tone, and
-				 * compares if the emoji rendering has changed.
+				 * Emoji 4 has the best technologists. So does WordPress!
+				 *
+				 * To test for support, try to render a new emoji (woman technologist: medium skin tone),
+				 * then compare it to how it would look if the browser doesn't render it correctly
+				 * (woman technologist: medium skin tone + personal computer).
 				 */
-				context.fillText( stringFromCharCode( 55356, 57221 ), 0, 0 );
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 8205, 55357, 56507), 0, 0 );
+				technologist = canvas.toDataURL();
 
-				context.fillText( stringFromCharCode( 55356, 57221, 55356, 57343 ), 0, 0 );
-				// Chrome has issues comparing arrays, and Safari has issues converting arrays to strings.
-				// So, we create our own string and compare that, instead.
-				tonedata = context.getImageData( 16, 16, 1, 1 ).data;
-				tone2 = tonedata[0] + ',' + tonedata[1] + ',' + tonedata[2] + ',' + tonedata[3];
+				context.clearRect( 0, 0, canvas.width, canvas.height );
 
-				return tone !== tone2;
-			case 'simple':
-				/*
-				 * This creates a smiling emoji, and checks to see if there is any image data in the
-				 * center pixel. In browsers that don't support emoji, the character will be rendered
-				 * as an empty square, so the center pixel will be blank.
-				 */
-				context.fillText( stringFromCharCode( 55357, 56835 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode8':
-				/*
-				 * To check for Unicode 8 support, let's try rendering the most important advancement
-				 * that the Unicode Consortium have made in years: the burrito.
-				 */
-				context.fillText( stringFromCharCode( 55356, 57135 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
-			case 'unicode9':
-				/*
-				 * Do Unicode 9 emoji render?
-				 * ¯\_(ツ)_/¯
-				 */
-				context.fillText( stringFromCharCode( 55358, 56631 ), 0, 0 );
-				return context.getImageData( 16, 16, 1, 1 ).data[0] !== 0;
+				context.fillText( stringFromCharCode( 55357, 56425, 55356, 57341, 55357, 56507), 0, 0 );
+				technologist2 = canvas.toDataURL();
+
+				return technologist !== technologist2;
 		}
 
 		return false;
@@ -128,11 +114,11 @@
 		var script = document.createElement( 'script' );
 
 		script.src = src;
-		script.type = 'text/javascript';
+		script.defer = script.type = 'text/javascript';
 		document.getElementsByTagName( 'head' )[0].appendChild( script );
 	}
 
-	tests = Array( 'simple', 'flag', 'unicode8', 'diversity', 'unicode9' );
+	tests = Array( 'flag', 'emoji4' );
 
 	settings.supports = {
 		everything: true,
@@ -184,7 +170,7 @@
 	}
 
 } )( window, document, window._wpemojiSettings );
-		</script><script src="http://www.aux.tv/wp-includes/js/twemoji.js?ver=4.6.1" type="text/javascript"></script><script src="http://www.aux.tv/wp-includes/js/wp-emoji.js?ver=4.6.1" type="text/javascript"></script>
+		</script><script src="http://www.aux.tv/wp-includes/js/twemoji.js?ver=4.7.2" type="text/javascript" defer=""></script><script src="http://www.aux.tv/wp-includes/js/wp-emoji.js?ver=4.7.2" type="text/javascript" defer=""></script>
 		<style type="text/css">
 img.wp-smiley,
 img.emoji {
@@ -199,28 +185,28 @@ img.emoji {
 	padding: 0 !important;
 }
 </style>
-<link rel="stylesheet" id="aux-main-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/main.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="oswald-css" href="http://fonts.googleapis.com/css?family=Oswald%3A700%2C400%2C300&amp;ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-header-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/header.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-body-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/body.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-footer-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/footer.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-posts-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/posts.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-previous-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/previous.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-related-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/related.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-gallery-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/gallery.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-magazine-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/magazine.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-television-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/television.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-contributors-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/contributors.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-search-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/search.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-social-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/social.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-comments-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/comments.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-contact-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/contact.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-404-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/not-found.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-ribbon-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/video-ribbon.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-forms-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/forms.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-widgets-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/widgets.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-queries-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/media-queries.css?ver=4.6.1" type="text/css" media="all">
-<link rel="stylesheet" id="aux-quiz-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/wpvq-custom.css?ver=4.6.1" type="text/css" media="all">
+<link rel="stylesheet" id="aux-main-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/main.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="oswald-css" href="http://fonts.googleapis.com/css?family=Oswald%3A700%2C400%2C300&amp;ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-header-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/header.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-body-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/body.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-footer-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/footer.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-posts-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/posts.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-previous-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/previous.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-related-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/related.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-gallery-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/gallery.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-magazine-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/magazine.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-television-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/television.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-contributors-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/contributors.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-search-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/search.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-social-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/social.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-comments-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/comments.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-contact-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/contact.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-404-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/not-found.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-ribbon-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/video-ribbon.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-forms-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/forms.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-widgets-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/widgets.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-queries-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/media-queries.css?ver=4.7.2" type="text/css" media="all">
+<link rel="stylesheet" id="aux-quiz-css" href="http://www.aux.tv/wp-content/themes/aux_2014/css/wpvq-custom.css?ver=4.7.2" type="text/css" media="all">
 <link rel="https://api.w.org/" href="http://www.aux.tv/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.aux.tv/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.aux.tv/wp-includes/wlwmanifest.xml"> 
@@ -327,6 +313,12 @@ Blue Ant Media Inc. respects the privacy of all of its users and customers and i
 			   <script type="text/javascript" lang="javascript" src="js/responsiveJS/respond.min.js"></script>
 		<![endif]-->
 		
+		<!-- District M Header Bid Script for aux.tv -->
+		<script type="text/javascript" src="//hi.districtm.ca/v3.0.103110.js"></script>
+		<script type="text/javascript" src="//hi.districtm.ca/currency.js"></script>
+		<script type="text/javascript" src="//cdn.districtm.ca/v4.1.header.min.js"></script>
+		<!-- End District M Header Bid Script -->
+
 		<!-- Start: GPT Async -->
 		<script type="text/javascript">
 			var gpt_ad_slots = [];
@@ -393,7 +385,7 @@ Blue Ant Media Inc. respects the privacy of all of its users and customers and i
 	</head>
 
 	
-<body class="page page-id-420440 page-template page-template-template-full page-template-template-full-php">
+<body class="page-template page-template-template-full page-template-template-full-php page page-id-420440">
 
 <a href="https://plus.google.com/102121882982084290618" rel="publisher"></a>
 
@@ -546,29 +538,29 @@ Blue Ant Media Inc. respects the privacy of all of its users and customers and i
 					<div class="header-featured-wrap">
 						<div class="header-table header-featured-cellwrap">
 																														<div class="header-cell">
-									 <span>Popular Now</span> <div class="header-featured-box"> 																	<a href="http://www.aux.tv/2016/11/pen-pineapple-apple-pen-singer-says-he-hasnt-made-a-dime/">
-										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2016/11/PenApple-300x150.jpg" class="attachment-post size-post wp-post-image" alt="penapple" srcset="http://www.aux.tv/wp-content/uploads/2016/11/PenApple-300x150.jpg 300w, http://www.aux.tv/wp-content/uploads/2016/11/PenApple-768x384.jpg 768w, http://www.aux.tv/wp-content/uploads/2016/11/PenApple-1024x512.jpg 1024w, http://www.aux.tv/wp-content/uploads/2016/11/PenApple-614x307.jpg 614w, http://www.aux.tv/wp-content/uploads/2016/11/PenApple-1200x600.jpg 1200w, http://www.aux.tv/wp-content/uploads/2016/11/PenApple.jpg 1280w" sizes="(max-width: 300px) 100vw, 300px" data-retina="http://www.aux.tv/wp-content/uploads/2016/11/PenApple-614x307.jpg">									</a>
+									 <span>Popular Now</span> <div class="header-featured-box"> 																	<a href="http://www.aux.tv/2017/01/bandcamp-paid-out-200-million-to-artists-in-2016/">
+										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2017/01/bigcheque-300x150.jpg" class="attachment-post size-post wp-post-image" alt="" srcset="http://www.aux.tv/wp-content/uploads/2017/01/bigcheque-300x150.jpg 300w, http://www.aux.tv/wp-content/uploads/2017/01/bigcheque-768x384.jpg 768w, http://www.aux.tv/wp-content/uploads/2017/01/bigcheque-1024x512.jpg 1024w, http://www.aux.tv/wp-content/uploads/2017/01/bigcheque-614x307.jpg 614w, http://www.aux.tv/wp-content/uploads/2017/01/bigcheque-1200x600.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" data-retina="http://www.aux.tv/wp-content/uploads/2017/01/bigcheque-614x307.jpg">									</a>
 									<div class="header-featured-tag news">News</div>
-									<a class="header-featured-link news-link" href="http://www.aux.tv/2016/11/pen-pineapple-apple-pen-singer-says-he-hasnt-made-a-dime/">
-										"Pen-Pineapple-Apple-Pen" singer says he hasn't made a dime									</a>
+									<a class="header-featured-link news-link" href="http://www.aux.tv/2017/01/bandcamp-paid-out-200-million-to-artists-in-2016/">
+										Bandcamp paid out $200 million to artists in 2016									</a>
 								</div>
 							</div>
 																														<div class="header-cell">
 																			<div class="header-featured-box" style="margin-top:25px;">
-																										<a href="http://www.aux.tv/2016/11/marcus-stroman-is-a-rapper-now/">
-										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2016/11/215986e0-b991-11e5-95ae-b942318e664d_Screen-Shot-2016-01-12-at-5-00-41-PM-300x150.png" class="attachment-post size-post wp-post-image" alt="215986e0-b991-11e5-95ae-b942318e664d_screen-shot-2016-01-12-at-5-00-41-pm" srcset="http://www.aux.tv/wp-content/uploads/2016/11/215986e0-b991-11e5-95ae-b942318e664d_Screen-Shot-2016-01-12-at-5-00-41-PM-300x150.png 300w, http://www.aux.tv/wp-content/uploads/2016/11/215986e0-b991-11e5-95ae-b942318e664d_Screen-Shot-2016-01-12-at-5-00-41-PM-614x307.png 614w" sizes="(max-width: 300px) 100vw, 300px" data-retina="http://www.aux.tv/wp-content/uploads/2016/11/215986e0-b991-11e5-95ae-b942318e664d_Screen-Shot-2016-01-12-at-5-00-41-PM-614x307.png">									</a>
-									<div class="header-featured-tag sports">Sports</div>
-									<a class="header-featured-link sports-link" href="http://www.aux.tv/2016/11/marcus-stroman-is-a-rapper-now/">
-										Marcus Stroman is a rapper now									</a>
+																										<a href="http://www.aux.tv/2017/01/1997revisited-daft-punk/">
+										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2017/01/1997-Revisited-Homework-300x150.jpg" class="attachment-post size-post wp-post-image" alt="" srcset="http://www.aux.tv/wp-content/uploads/2017/01/1997-Revisited-Homework-300x150.jpg 300w, http://www.aux.tv/wp-content/uploads/2017/01/1997-Revisited-Homework-768x384.jpg 768w, http://www.aux.tv/wp-content/uploads/2017/01/1997-Revisited-Homework.jpg 1024w, http://www.aux.tv/wp-content/uploads/2017/01/1997-Revisited-Homework-614x307.jpg 614w" sizes="(max-width: 300px) 100vw, 300px" data-retina="http://www.aux.tv/wp-content/uploads/2017/01/1997-Revisited-Homework-614x307.jpg">									</a>
+									<div class="header-featured-tag music">Music</div>
+									<a class="header-featured-link music-link" href="http://www.aux.tv/2017/01/1997revisited-daft-punk/">
+										Daft Punk’s 'Homework' shattered expectations of what electronic music could sound like									</a>
 								</div>
 							</div>
 																												<div class="header-cell tablet-pinch">
 								<div class="header-featured-box" style="margin-top:25px;">
-																	<a href="http://www.aux.tv/2016/11/mykki-blanco-collaborates-with-pornhub/">
-										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2016/11/mykki-blanco-loner-2-1000x558-300x150.jpg" class="attachment-post size-post wp-post-image" alt="mykki-blanco-loner-2-1000x558" srcset="http://www.aux.tv/wp-content/uploads/2016/11/mykki-blanco-loner-2-1000x558-300x150.jpg 300w, http://www.aux.tv/wp-content/uploads/2016/11/mykki-blanco-loner-2-1000x558-614x307.jpg 614w" sizes="(max-width: 300px) 100vw, 300px" data-retina="http://www.aux.tv/wp-content/uploads/2016/11/mykki-blanco-loner-2-1000x558-614x307.jpg">									</a>
+																	<a href="http://www.aux.tv/2017/01/very-important-study-says-dogs-like-reggae/">
+										<img width="300" height="150" src="http://www.aux.tv/wp-content/uploads/2017/01/reggaedog-300x150.jpg" class="attachment-post size-post wp-post-image" alt="" srcset="http://www.aux.tv/wp-content/uploads/2017/01/reggaedog-300x150.jpg 300w, http://www.aux.tv/wp-content/uploads/2017/01/reggaedog-768x384.jpg 768w, http://www.aux.tv/wp-content/uploads/2017/01/reggaedog-1024x512.jpg 1024w, http://www.aux.tv/wp-content/uploads/2017/01/reggaedog-614x307.jpg 614w, http://www.aux.tv/wp-content/uploads/2017/01/reggaedog-1200x600.jpg 1200w" sizes="(max-width: 300px) 100vw, 300px" data-retina="http://www.aux.tv/wp-content/uploads/2017/01/reggaedog-614x307.jpg">									</a>
 									<div class="header-featured-tag news">News</div>
-									<a class="header-featured-link news-link" href="http://www.aux.tv/2016/11/mykki-blanco-collaborates-with-pornhub/">
-										Mykki Blanco collaborates with Pornhub									</a>
+									<a class="header-featured-link news-link" href="http://www.aux.tv/2017/01/very-important-study-says-dogs-like-reggae/">
+										Very important study says dogs like reggae									</a>
 								</div>
 							</div>
 													</div>
@@ -764,7 +756,7 @@ Blue Ant Media Inc. respects the privacy of all of its users and customers and i
 					<div class="table">
 						<div class="cell-hf">
 							<ul>
-								<li>AUX.TV is part of the OMNIA Media Music Network, a Division of Blue Ant Media © 2016 Blue Ant Media</li>
+								<li>AUX.TV is part of the OMNIA Media Music Network, a Division of Blue Ant Media © 2017 Blue Ant Media</li>
 							</ul>
 						</div>
 						<div class="cell-hf align-right">
@@ -777,14 +769,14 @@ Blue Ant Media Inc. respects the privacy of all of its users and customers and i
 				</div>
 			</div>
 		</div>
-		<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/jquery_min.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/auxis.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/auxjs.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/htmlParser.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/postscribe.js?ver=4.6.1"></script>
-<script type="text/javascript" src="//cdn.optimizely.com/js/1454880068.js?ver=4.6.1"></script>
-<script type="text/javascript" src="//static.freeskreen.com/publisher/73/freeskreen.min.js?ver=4.6.1"></script>
-<script type="text/javascript" src="http://www.aux.tv/wp-includes/js/wp-embed.js?ver=4.6.1"></script>
+		<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/jquery_min.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/auxis.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/auxjs.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/htmlParser.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://www.aux.tv/wp-content/themes/aux_2014/js/postscribe.js?ver=4.7.2"></script>
+<script type="text/javascript" src="//cdn.optimizely.com/js/1454880068.js?ver=4.7.2"></script>
+<script type="text/javascript" src="//static.freeskreen.com/publisher/73/freeskreen.min.js?ver=4.7.2"></script>
+<script type="text/javascript" src="http://www.aux.tv/wp-includes/js/wp-embed.js?ver=4.7.2"></script>
 
 	<script>
 		var ppp = 14;
