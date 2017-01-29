@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2016-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160202144202id_/https%3A//www.flexjobs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexjobs.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129113707id_/https%3A//www.flexjobs.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # FlexJobs Privacy Policy
 
@@ -60,7 +60,7 @@ We do not disclose your personal information to third parties, or your combined 
 
 ## Personal Information on Resumes, Profiles, Cover Letters, and Work Samples
 
-Since FlexJobs is a career site, you can store your profiles, resumes, cover letters, and/or work samples in our database. Users have several privacy options to choose from for each resume profile (from being completely hidden from employers to allowing their resume profiles to be searchable publicly and indexed by search engines). 
+Since FlexJobs is a career site, you can store your profiles, resumes, cover letters, and/or work samples in our database. Users have two status options to choose from for each resume profile (from keeping it completely hidden from the public and employers to allowing it to be searchable on FlexJobs by employers). Employers who are not logged in will be able to search all but personal contact information. Employers who are logged in will be able to search your entire resume profile, including contact information.
 
 We attempt to limit access to our searchable resume database (or copies thereof) depending on each user's chosen settings. You may remove your resume on FlexJobs or delete your profile on FlexJobs at any time, but, employers, recruiters and others who have had access to the FlexJobs resume database may have retained a copy of your resume or FlexJobs profile in their own files or databases. We are not responsible for the retention, use or privacy of resumes or profiles in these instances.
 
