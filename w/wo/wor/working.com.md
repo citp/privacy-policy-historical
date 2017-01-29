@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the working.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031084146id_/https%3A//about.workopolis.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the working.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129031800id_/https%3A//about.workopolis.com/privacy) for the most accurate reproduction.*
 
-# Workopolis Privacy Policy | About
+# Workopolis Privacy Policy - About
 
 _Last Updated on September 10, 2015_
 
