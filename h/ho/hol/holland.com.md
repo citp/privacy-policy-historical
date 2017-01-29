@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holland.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905092344id_/http%3A//www.holland.com/global/tourism/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holland.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129120239id_/http%3A//www.holland.com/global/tourism/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy & Cookies - Tourism in the Netherlands - Holland.com
 
