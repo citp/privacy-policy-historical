@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rsvpgallery.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403015112id_/http%3A//rsvpgallery.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsvpgallery.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129153825id_/https%3A//rsvpgallery.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – RSVP Gallery
 
