@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freeonescams.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130055653id_/http%3A//www.freeonescams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freeonescams.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129181311id_/http%3A//freeonescams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # FreeOnesCams - Privacy Policy
 
