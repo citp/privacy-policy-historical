@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pokemoncenter.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608185831id_/http%3A//www.pokemoncenter.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemoncenter.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129045400id_/https%3A//www.pokemoncenter.com/privacy-policy) for the most accurate reproduction.*
 
-# Pokémon Center: Help > Privacy, Security & Accessibility
+# Website Privacy Policy for Pokémon Center
 
-Last updated July 10, 2014.
+Last updated June 20, 2016.
 
 Welcome to Pokémon Center!
 
@@ -48,7 +48,6 @@ We receive information from our guests and, with our guests' consent, from third
   4. participate in polls, surveys, or questionnaires
   5. use our Email-a-Friend feature
   6. purchase or request products and services from us
-  7. create your Real Name™
 
 
 
@@ -88,7 +87,7 @@ We don't share, sell, or rent your personal information to third parties without
 
 Whatever the purpose may be, we will only collect information to the extent reasonably necessary to fulfill your requests and our legitimate business objectives.
 
-Information provided in order to create an account, payment information, and other account data is passed through to Amazon, which provides back-end fulfillment and other services for our Site. We do not retain any credit card data, all of which is stored by Amazon.
+Information provided in order to create an account, payment information, and other account data is passed through to our vendors, who provide back-end fulfillment and other services for our Site. We do not retain any credit card data, all of which is stored by Authorize.net.
 
 ### Pokémon Online Tools and Events
 
@@ -139,11 +138,11 @@ We will disclose personal information when we believe in good faith that such di
 
 ## 4\. How Long Do We Keep Your Personally Identifiable Information?
 
-Pokémon will keep your personal information so long as you have an account with Pokémon, provided, however, that Pokémon will use commercially reasonable efforts to delete any personal information collected by Pokémon that is no longer relevant to your use of the Site or the Services offered by Pokémon. Information passed through to Amazon will be retained in accordance with Amazon’s privacy policy available at www.amazon.com.
+Pokémon will keep your personal information so long as you have an account with Pokémon, provided, however, that Pokémon will use commercially reasonable efforts to delete any personal information collected by Pokémon that is no longer relevant to your use of the Site or the Services offered by Pokémon. Information passed through to our vendors may be retained in accordance with each vendor's individual privacy policy.
 
 ## 5\. What choices do you have about the collection, use, and sharing of your personally identifiable information?
 
-As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by contacting us at The Pokémon Company International, Inc., Attention: Pokémon Center Privacy Policy Administrator, 333 108th Avenue, NE, Suite 1900, Bellevue, WA 98004, Fax: +1 (425) 274-1041. Note that this will only remove your personal information from our database and not from Amazon’s database. To remove your personal information from Amazon’s database you must contact them through the means provided at www.amazon.com and make this request.
+As mentioned above, you have control over the personal information you submit to us. If at any time you decide to remove your personal information from our database, you may do so by contacting us at The Pokémon Company International, Inc., Attention: Pokémon Center Privacy Policy Administrator, 601 108th Avenue NE, Suite 1600, Bellevue, WA 98004. Email: legalnotices@pokemon.com  Note that this will only remove your personal information from our database. To remove your personal information from vendor databases you may need to contact them individually and make this request.
 
 If you contact us, please include the name of the Site you used to register and the email address you used to register with us so we can verify your request.
 
@@ -155,7 +154,7 @@ The security and confidentiality of your personal information is extremely impor
 
 You can access and update the contact information you gave us when you registered for an account on www.pokemoncenter.com (that is, your e-mail address or any other information that would directly enable us to contact you), as follows:
 
-  * Please visit the "Your Account" section on the [www.pokemoncenter.com](http://www.pokemoncenter.com/) site (where you can modify your contact information and preferences after logging in) or contact us at The Pokémon Company International, Inc., Attention: Pokémon Center Privacy Policy Administrator, 333 108th Avenue, NE, Suite 1900, Bellevue, WA 98004, Fax: +1 (425) 274-1041.
+  * Please visit the "Your Account" section on the [www.pokemoncenter.com](http://www.pokemoncenter.com/) site (where you can modify your contact information and preferences after logging in) or contact us at The Pokémon Company International, Inc., Attention: Pokémon Center Privacy Policy Administrator, 601 108th Avenue NE, Suite 1600, Bellevue, WA 98004.
 
 
 
@@ -167,12 +166,12 @@ If you have questions or wish to send us comments about this Privacy Policy, you
 
 Site | Contact Information  
 ---|---  
-[www.pokemoncenter.com](http://www.pokemoncenter.com/) |  The Pokémon Company International  
+[www.pokemoncenter.com](http://www.pokemoncenter.com/) | The Pokémon Company International  
 Attn.: Pokémon Center Privacy Policy Administrator  
-333 108th Avenue, NE  
-Suite 1900  
+601 108th Avenue NE  
+Suite 1600  
 Bellevue, WA 98004  
-fax your inquiry to +1(425)274-1041.   
+Email: legalnotices@pokemon.com  
   
 ### Your California Privacy Rights
 
