@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cntrbndshop.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210070414id_/http%3A//www.cntrbndshop.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cntrbndshop.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129152628id_/https%3A//www.cntrbndshop.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – CNTRBND
 
