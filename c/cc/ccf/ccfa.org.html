@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the ccfa.org privacy policy that was archived on 2016-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127181910id_/http%3A//www.ccfa.org/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ccfa.org privacy policy that was archived on 2017-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170129225255id_/http%3A//www.ccfa.org/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '3151:0';
-CONVIO.pageSessionID = 'E8B3D0E2CE127ABEC49C0DBF852D4B0F.app312a';
+CONVIO.pageSessionID = 'A1E401DFED638F93C3E069ED4D138385.app330a';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1480270750922"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1485730375366"></script>
 <script type="text/javascript">
 
 
@@ -46,7 +46,7 @@ deleteCookie("CONVIO.referrer");
 
 
 
-<script>window.jQuery || document.write('<script src="http://www.ccfa.org/assets/js/libs/jquery-1-7-1-min.js"><\/script>')</script><script src="http://www.ccfa.org/assets/js/libs/jquery-1-7-1-min.js"></script>
+<script>window.jQuery || document.write('<script src="http://www.ccfa.org/assets/js/libs/jquery-1-8-3-min.js"><\/script>')</script><script src="http://www.ccfa.org/assets/js/libs/jquery-1-8-3-min.js"></script>
 <script src="https://cdn.optimizely.com/js/4876990812.js"></script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -56,6 +56,7 @@ deleteCookie("CONVIO.referrer");
 <meta name="description" content="Read the privacy policy statements from the Crohn's &amp; Colitis Foundation of America.">
 
 <meta name="google-site-verification" content="4D5Q-jkeqLAb_7wk9NeQsEVCJOBPfI4mxRkFehLhtQA">
+
 <meta name="Language" content="English">
 <meta name="author" content="">
 <meta property="og:image" content="http://www.ccfa.org/assets/images/wrapper/logo.png">
@@ -65,7 +66,11 @@ deleteCookie("CONVIO.referrer");
 
 
 
+<!-- Start new design here -->
+
+
 <link rel="stylesheet" href="http://www.ccfa.org/assets/css/levels/style.css">
+
 <!--[if IE 7]><link rel="stylesheet" href="http://www.ccfa.org/assets/css/levels/ie7.css"><![endif]-->
 
 
@@ -107,6 +112,9 @@ deleteCookie("CONVIO.referrer");
             <!--Top Navigation -->
             
             
+           <!-- Start new design here -->
+            
+            
             <div id="convio-content-395431454" style="display: inline;">
 
 
@@ -143,8 +151,20 @@ if (!Y) {
 
 	<li class="redarrow align"><a href="http://online.ccfa.org/site/UserLogin?NEXTURL=ConsProfileUser"><span class="bold">Log in</span></a></li>
 	
-	<!---<li class="align"><a id="donatetodaylink" href="http://online.ccfa.org/site/Donation2?17861.donation=form1&df_id=17861&s_src=HQXF15K1DFXWDTXX" title="Donate Today!" onclick="_gaq.push(['_trackPageview', '/donatenow/header/']);">&nbsp;<img src="http://online.ccfa.org/assets/images/wrapper/donate.png" alt="Donate Today!" /></a></li> -->
-        <li class="align"><a id="donatetodaylink" href="http://online.ccfa.org/site/Donation2?df_id=23968&amp;mfc_pref=T&amp;23968.donation=form1&amp;s_src=HQXF15K1DFXWDTXX" title="Donate Today!" onclick="_gaq.push(['_trackPageview', '/donatenow/header/']);">&nbsp;<img src="http://online.ccfa.org/assets/images/wrapper/donate.png" alt="Donate Today!"></a></li>
+	<!--<li class="align"><a id="donatetodaylink" href="http://online.ccfa.org/site/Donation2?df_id=23968&mfc_pref=T&23968.donation=form1&s_src=HQXF15K1DFXWDTXX" title="Donate Today!" onclick="_gaq.push(['_trackPageview', '/donatenow/header/']);">&nbsp;<img src="http://online.ccfa.org/assets/images/wrapper/donate.png" alt="Donate Today!" /></a></li> -->
+
+       <li class="align" id="donate_oldlink"><a id="donatetodaylink" href="http://online.ccfa.org/site/Donation2?df_id=23972&amp;mfc_pref=T&amp;23972.donation=form1&amp;s_src=HQXF16M1DFYWDXXX&amp;utm_medium=web&amp;utm_campaign=fy16yearend&amp;utm_source=HQXF16M1DFYWDXXX" title="Donate Today!" onclick="_gaq.push(['_trackPageview', '/donatenow/header/']);">&nbsp;<img src="http://online.ccfa.org/assets/images/wrapper/donate.png" alt="Donate Today!"></a></li>
+       <li class="align" id="donate_newlink" style="display:none;"><a id="donatetodaylink" href="http://online.ccfa.org/site/Donation2?17861.donation=form1&amp;df_id=17861&amp;s_src=HQXW17X1DWXWDXXX&amp;utm_medium=web&amp;utm_campaign=fy17website&amp;utm_source=HQXW17X1DWXWDXXX" title="Donate Today!" onclick="_gaq.push(['_trackPageview', '/donatenow/header/']);">&nbsp;<img src="http://online.ccfa.org/assets/images/wrapper/donate.png" alt="Donate Today!"></a></li>
+
+<script>
+$(function() {
+   if (new Date().getTime() > new Date("January 1, 2017 08:00:00 GMT-0000").getTime()) {
+       $('#donate_oldlink').hide();
+       $('#donate_newlink').show();
+   }
+});
+</script>
+
 	<li><a href="http://www.ccfa.org/science-and-professionals/" title="Switch to Science and Pros"><img src="http://online.ccfa.org/assets/images/wrapper/scienceandpros.png" alt="Swith to Science and Pros"></a></li>
 </ul>
 <ul id="secondary">
@@ -165,13 +185,13 @@ if (!Y) {
 
 
 </div>
-
+            
             
     </div>
     <!--Primary Navigation-->
     
     
-    <div id="convio-content-410320000" style="display: inline;">
+    <div id="convio-content-784095196" style="display: inline;">
 
 
 
@@ -181,94 +201,87 @@ if (!Y) {
 
 
 
-<!--888888888 --><nav>
+<nav>
 <ul id="primary">
-<li> <a title="What are Crohn's &amp; Colitis?" href="http://www.ccfa.org/what-are-crohns-and-colitis/">What are Crohn's &amp; Colitis?</a>
-<div class="submenu">
-				
-<ul>
-<li><a title="What is Crohn's Disease" href="http://www.ccfa.org/what-are-crohns-and-colitis/what-is-crohns-disease/">What is Crohn's Disease</a></li>
-<li><a title="What is Ulcerative Colitis" href="http://www.ccfa.org/what-are-crohns-and-colitis/what-is-ulcerative-colitis/">What is Ulcerative Colitis</a></li>
-</ul>
-<div class="info">
-<h3><a href="http://www.ccfa.org/resources/types-of-medications.html">Types of Medications</a></h3>
-<p>What’s available to treat IBD and what you should know about these medications.</p>
-<h3><a href="http://www.ccfa.org/resources/webcasts.html">Watch a Webcast</a></h3>
-<p>Free educational webcasts on a variety of topics from disease management to diet.</p>
-</div>
-</div>
-</li>
-<li> <a title="Living with Crohn's &amp; Colitis" href="http://www.ccfa.org/living-with-crohns-colitis/">Living with Crohn's &amp; Colitis</a>
-<div class="submenu">
-				
-<ul>
-<li><a title="Search the Library" href="http://www.ccfa.org/resources/">Search Our Resources</a></li>
-<li><a title="Find a Doctor" href="http://www.ccfa.org/living-with-crohns-colitis/find-a-doctor/">Find a Doctor</a></li>
-<li><a title="Find a support group" href="http://www.ccfa.org/living-with-crohns-colitis/find-a-support-group/">Find a Support Group</a></li>
-<li><a title="Talk to a specialist" href="http://www.ccfa.org/living-with-crohns-colitis/talk-to-a-specialist/">Talk to an Info Specialist</a></li>
-<li><a href="http://www.justlikemeibd.org/">Teen Website</a></li>
-</ul>
-<div class="info">
-<h3><a href="http://www.ibdetermined.org/">Understand How To Manage IBD</a></h3><br>
-<p>Learn about IBD treatments, diet, complications, and quality of life through videos, interactive quizzes, and more on the I'll Be Determined disease management website.</p>
-
-<h3><a href="http://www.ccfa.org/research/participate-in-research/find-studies-and-clinical-trials/">Find a Clinical Trial</a></h3>
-<p>Be an active part of the search for cures; participate in a clinical trial of experimental treatments.</p>
-<h3><a href="http://www.ibdetermined.org/Tracker.aspx" "="">Interactive Disease Tracker</a></h3>
-<p>Use GI Buddy to keep a daily log of your disease and see trends over time to share with your healthcare team.</p>
-
-
-</div>
-</div>
-</li>
-<li> <a title="Research" href="http://www.ccfa.org/research/">Explore CCFA Research</a>
-<div class="submenu">
-				
-<ul>
-<li><a title="Research Success" href="http://www.ccfa.org/research/research-success/">Research Success</a></li>
-<li><a title="Current Studies" href="http://www.ccfa.org/research/current-research-studies/">Current Research Studies</a></li>
-<li><a title="Participate in Research" href="http://www.ccfa.org/research/participate-in-research/">Participate in Research</a></li>
-<li><a title="Challenges in IBD Research" href="http://www.ccfa.org/research/challenges-in-ibd-research/">Challenges in IBD Research</a></li>
-</ul>
-<div class="info">
-<h3><a href="http://www.ccfa.org/get-involved/donate-to-ccfa/">Support CCFA Research</a></h3>
-<p>1 in 200 Americans struggle with IBD and your contribution can help find cures and new treatments. Please give today!</p>
-<h3><a href="http://www.ccfa.org/about/mission/">CCFA Mission</a></h3>
-<p>Learn about CCFA’s mission: to cure Crohn'sdisease and ulcerative colitis, and to improve the quality of life of those affected.</p>
-</div>
-</div>
-</li>
-<li> <a title="Get Involved" href="http://www.ccfa.org/get-involved/">Get Involved</a>
-<div class="submenu">
-				
-<ul>
-<li><a title="Attend an Event" href="http://www.ccfa.org/get-involved/events/">Attend an Event</a></li>
-<li><a title="Donate to CCFA" href="http://www.ccfa.org/get-involved/donate-to-ccfa/">Donate to CCFA</a></li>
-<li><a title="Take Steps" href="http://www.ccfa.org/get-involved/take-steps.html">Take Steps</a></li>
-<li><a title="Team Challenge" href="http://www.ccfa.org/get-involved/team-challenge.html">Team Challenge</a></li>
-<li><a title="spin4 crohn’s &amp; colitis cures" href="http://www.ccfa.org/get-involved/spin4.html">spin4 crohn’s &amp; colitis cures</a></li>
-<li><a title="Camp Oasis" href="http://www.ccfa.org/get-involved/camp-oasis/">Camp Oasis</a></li>
-<li><a title="Become a Member" href="http://www.ccfa.org/get-involved/become-member/">Become a Member</a></li>
-</ul>
-<ul>
-<li><a title="Volunteer" href="http://www.ccfa.org/get-involved/volunteer/">Volunteer</a></li>
-<li><a title="Sponsor CCFA" href="http://www.ccfa.org/get-involved/sponsor-ccfa/">Sponsor CCFA</a></li>
-<li><a title="Be an Advocate" href="http://www.ccfa.org/get-involved/be-an-advocate/">Be an Advocate</a></li>
-<li><a title="CCFA Partners" href="http://ccfapartners.com/" target="_blank">CCFA Partners</a></li>
-<li><a title="National Council of College Leaders" href="http://www.ccfa.org/get-involved/national-council-of-college-leaders/">National Council of College Leaders</a></li>
-<li><a title="CCFA Campus Connection" href="http://www.ccfa.org/campus-connection/">CCFA Campus Connection</a></li>
-</ul>
-</div>
-</li>
-<li> <a title="Community" href="http://www.ccfacommunity.org" onclick="_gaq.push(['_trackEvent', 'Community', 'Click', 'ccfacommunitysite']);">Connect with Our Community</a> </li>
-<li class="lastnav"> <a title="IBD Help Center" href="http://www.ccfa.org/living-with-crohns-colitis/talk-to-a-specialist/">IBD Help Center</a> </li>
+    <li class="with-submenu"> <a title="What are Crohn's &amp; Colitis?" href="http://www.ccfa.org/what-are-crohns-and-colitis/">What are Crohn's &amp; Colitis?</a>
+        <div class="submenu">				
+        <ul>
+        <li><a title="What is Crohn's Disease" href="http://www.ccfa.org/what-are-crohns-and-colitis/what-is-crohns-disease/">What is Crohn's Disease</a></li>
+        <li><a title="What is Ulcerative Colitis" href="http://www.ccfa.org/what-are-crohns-and-colitis/what-is-ulcerative-colitis/">What is Ulcerative Colitis</a></li>
+        </ul>
+        <div class="info">
+        <h3><a href="http://www.ccfa.org/resources/types-of-medications.html">Types of Medications</a></h3>
+        <p>What’s available to treat IBD and what you should know about these medications.</p>
+        <h3><a href="http://www.ccfa.org/resources/webcasts.html">Watch a Webcast</a></h3>
+        <p>Free educational webcasts on a variety of topics from disease management to diet.</p>
+        </div>
+        </div>
+    </li>
+    <li class="with-submenu"> <a title="Living with Crohn's &amp; Colitis" href="http://www.ccfa.org/living-with-crohns-colitis/">Living with Crohn's &amp; Colitis</a>
+        <div class="submenu">				
+        <ul>
+        <li><a title="Search the Library" href="http://www.ccfa.org/resources/">Search Our Resources</a></li>
+        <li><a title="Find a Doctor" href="http://www.ccfa.org/living-with-crohns-colitis/find-a-doctor/">Find a Doctor</a></li>
+        <li><a title="Find a support group" href="http://www.ccfa.org/living-with-crohns-colitis/find-a-support-group/">Find a Support Group</a></li>
+        <li><a title="Talk to a specialist" href="http://www.ccfa.org/living-with-crohns-colitis/talk-to-a-specialist/">Talk to an Info Specialist</a></li>
+        <li><a href="http://www.justlikemeibd.org/">Teen Website</a></li>
+        </ul>
+        <div class="info">
+        <h3><a href="http://www.ibdetermined.org/">Understand How To Manage IBD</a></h3><br>
+        <p>Learn about IBD treatments, diet, complications, and quality of life through videos, interactive quizzes, and more on the I'll Be Determined disease management website.</p>
+        
+        <h3><a href="http://www.ccfa.org/research/participate-in-research/find-studies-and-clinical-trials/">Find a Clinical Trial</a></h3>
+        <p>Be an active part of the search for cures; participate in a clinical trial of experimental treatments.</p>
+        <h3><a href="http://www.ibdetermined.org/Tracker.aspx" "="">Interactive Disease Tracker</a></h3>
+        <p>Use GI Buddy to keep a daily log of your disease and see trends over time to share with your healthcare team.</p>
+        </div>
+        </div>
+    </li>
+    <li class="with-submenu"><a title="Research" href="http://www.ccfa.org/research/">Explore CCFA Research</a>
+        <div class="submenu">			
+        <ul>
+        <li><a title="Research Success" href="http://www.ccfa.org/research/research-success/">Research Success</a></li>
+        <li><a title="Current Studies" href="http://www.ccfa.org/research/current-research-studies/">Current Research Studies</a></li>
+        <li><a title="Participate in Research" href="http://www.ccfa.org/research/participate-in-research/">Participate in Research</a></li>
+        <li><a title="Challenges in IBD Research" href="http://www.ccfa.org/research/challenges-in-ibd-research/">Challenges in IBD Research</a></li>
+        </ul>
+        <div class="info">
+        <h3><a href="http://www.ccfa.org/get-involved/donate-to-ccfa/">Support CCFA Research</a></h3>
+        <p>1 in 200 Americans struggle with IBD and your contribution can help find cures and new treatments. Please give today!</p>
+        <h3><a href="http://www.ccfa.org/about/mission/">CCFA Mission</a></h3>
+        <p>Learn about CCFA’s mission: to cure Crohn'sdisease and ulcerative colitis, and to improve the quality of life of those affected.</p>
+        </div>
+        </div>
+    </li>
+    <li class="with-submenu"> <a title="Get Involved" href="http://www.ccfa.org/get-involved/">Get Involved</a>
+        <div class="submenu">
+        <ul>
+        <li><a title="Attend an Event" href="http://www.ccfa.org/get-involved/events/">Attend an Event</a></li>
+        <li><a title="Donate to CCFA" href="http://www.ccfa.org/get-involved/donate-to-ccfa/">Donate to CCFA</a></li>
+        <li><a title="Take Steps" href="http://www.ccfa.org/get-involved/take-steps.html">Take Steps</a></li>
+        <li><a title="Team Challenge" href="http://www.ccfa.org/get-involved/team-challenge.html">Team Challenge</a></li>
+        <li><a title="spin4 crohn’s &amp; colitis cures" href="http://www.ccfa.org/get-involved/spin4.html">spin4 crohn’s &amp; colitis cures</a></li>
+        <li><a title="Camp Oasis" href="http://www.ccfa.org/get-involved/camp-oasis/">Camp Oasis</a></li>
+        <li><a title="Become a Member" href="http://www.ccfa.org/get-involved/become-member/">Become a Member</a></li>
+        </ul>
+        <ul>
+        <li><a title="Volunteer" href="http://www.ccfa.org/get-involved/volunteer/">Volunteer</a></li>
+        <li><a title="Sponsor CCFA" href="http://www.ccfa.org/get-involved/sponsor-ccfa/">Sponsor CCFA</a></li>
+        <li><a title="Be an Advocate" href="http://www.ccfa.org/get-involved/be-an-advocate/">Be an Advocate</a></li>
+        <li><a title="CCFA Partners" href="http://ccfapartners.com/" target="_blank">CCFA Partners</a></li>
+        <li><a title="National Council of College Leaders" href="http://www.ccfa.org/get-involved/national-council-of-college-leaders/">National Council of College Leaders</a></li>
+        <li><a title="CCFA Campus Connection" href="http://www.ccfa.org/campus-connection/">CCFA Campus Connection</a></li>
+        </ul>
+        </div>
+    </li>
+    <li> <a title="Community" href="http://www.ccfacommunity.org" onclick="_gaq.push(['_trackEvent', 'Community', 'Click', 'ccfacommunitysite']);">Connect with Our Community</a> </li>
+    <li class="lastnav"> <a title="IBD Help Center" href="http://www.ccfa.org/living-with-crohns-colitis/talk-to-a-specialist/">IBD Help Center</a> </li>
 </ul>
 </nav>
 
 
 
 </div>
-
     
   </header>
 
@@ -568,6 +581,9 @@ CONVIO.user.isAnonymous = true;
   <div class="contact">733 Third Avenue, Suite 510, New York, NY 10017 &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;800-932-2423 &nbsp;&nbsp;&nbsp;| &nbsp;&nbsp;&nbsp;<a href="mailto:info@ccfa.org;">info@ccfa.org</a></div>
 </div>
 
+<!-- Start new design here -->
+
+
 <footer>
 <div id="convio-content-519738432" style="display: inline;">
 
@@ -579,7 +595,7 @@ CONVIO.user.isAnonymous = true;
 
 
 
-<div class="wrap"> <span class="copyright">© 2016 Crohn's &amp; Colitis Foundation of America</span>
+<div class="wrap"> <span class="copyright">© 2017 Crohn's &amp; Colitis Foundation of America</span>
 	<nav>
 		<ul>
 			<li><a href="http://www.cctakesteps.org"><img src="http://online.ccfa.org/assets/images/wrapper/takesteps.jpg" alt="Take Steps for Crohn's &amp; Colitis"></a></li>
@@ -667,6 +683,7 @@ YAHOO.util.Event.on("toDesktopLink-389470367", "click", doMobile, myMobile);
 </div></span>
 </footer>
 
+
 <div id="poweredBy" style="DISPLAY: inline">
 
 
@@ -695,10 +712,6 @@ YAHOO.util.Event.on("toDesktopLink-389470367", "click", doMobile, myMobile);
 <!-- END: Powered By -->
 </div>
 
-
-
-
-
 <script src="http://www.ccfa.org/assets/js/plugins.js"></script>
 <script src="http://www.ccfa.org/assets/js/libs/jquery-jscrollpane.js"></script>
 <script src="http://www.ccfa.org/assets/js/libs/jquery-easing.js"></script>
@@ -707,8 +720,6 @@ YAHOO.util.Event.on("toDesktopLink-389470367", "click", doMobile, myMobile);
 <script src="http://www.ccfa.org/assets/js/libs/date.js"></script>
 <script src="http://www.ccfa.org/assets/js/libs/jquery-touchwipe-min.js"></script>
 <script src="http://www.ccfa.org/assets/js/libs/jquery-selectbox.js"></script>
-
-
 
 
 
@@ -732,7 +743,7 @@ YAHOO.util.Event.on("toDesktopLink-389470367", "click", doMobile, myMobile);
 <script type="text/javascript">
   var sn_modal_ts = new Date;
   document.write('<script src="/sanky-modal/js/main.js?' + sn_modal_ts.getTime() + '"><\/script>');
-</script><script src="/sanky-modal/js/main.js?1580381929185"></script>
+</script><script src="/sanky-modal/js/main.js?1580381927954"></script>
 
 
 
@@ -805,6 +816,6 @@ var google_remarketing_only = true;
 
 
 <!-- Powered by Convio -->
-<!-- 10.12.0.37:8901 -->
+<!-- 10.12.0.45:8901 -->
 
 </body></html>
