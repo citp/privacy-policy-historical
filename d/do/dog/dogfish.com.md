@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogfish.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121233119id_/http%3A//www.dogfish.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogfish.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129133447id_/https%3A//www.dogfish.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Dogfish Head Craft Brewed Ales | Off Centered Stuff For Off Centered People
 
