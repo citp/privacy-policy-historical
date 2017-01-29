@@ -1,33 +1,61 @@
-> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004161111id_/http%3A//www.ycp.edu/privacy-and-disclaimer-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ycp.edu privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129032612id_/https%3A//www.ycp.edu/privacy-statement) for the most accurate reproduction.*
 
-# Privacy and Disclaimer Statement | York College of Pennsylvania
+# Privacy Statement | York College of PA
 
-**College Disclaimer**
+York College of Pennsylvania (YCP) is committed to protecting your privacy and security. Security procedures are continually updated and improved. This privacy statement is intended to inform you of the ways our websites collect information, the uses of this information and the way this information is protected.
 
-This web site is intended for the guidance of persons applying for, or considering application for admission to York College of Pennsylvania and for the guidance of college staff and faculty. Nothing in this web site constitutes a representation or warranty on the part of the College.
+YCP does not collect your personal information when you visit one of our websites unless you choose to provide that information to us. By visiting YCP websites you consent to the collection and use of information as described in this Privacy Statement. We reserve the right to change this policy at any time without advance notice.
 
-The information in the web site is subject to change from time to time, without notice, as deemed appropriate by the College. The web site is not intended to be, and should not be considered, a contract between York College and any student or other person.
+## Personal Information
 
-**Commitment to Privacy**
+YCP collects personal information when you submit a form that contains your personal information in order to make a request of or to report something to us. Personal information may include but is not limited to:
 
-York College of Pennsylvania is committed to protecting your privacy and security.   Security procedures are continually updated and improved.  This on-line privacy statement is intended to inform you of the ways this web site collects information, the uses of this information and the way this information is protected.
+  * Name
+  * Address
+  * Telephone Number
+  * Email address
 
-**Information Collected**
 
-It is York College of Pennsylvania's policy to collect the least amount of personally identifiable information required to complete a business transaction.  In some sections of our site, we ask for general contact information such as name, address, phone, email address and some other pertinent information.   From time to time, we ask for other information, for example when submitting an admission application or paying tuition.
 
-**Sharing Information**
+YCP does not share your personal information submitted to us with external vendors. We may release your information when required or allowed to do so by federal, state, or local regulations.
 
-York College of Pennsylvania does not share personally identifiable information with third parties for their promotional use, unless we are required by law to do so.   We sometimes provide information to a service provider for the purpose of sending mail or email for a college sponsored or related activity.  The third party service providers are strictly prohibited from using your information other than to act on the college's behalf.
+For various purposes, such as applying, requesting college information, or scheduling a visit, we link to authorized third-party vendor partners such as Hobsons. The vendor partners collect your personal information on their websites to carry out the desired services.
 
-**Use of Cookies**
+## Non-Personal Information
 
-Cookies are small files stored by your web browser on behalf of a web site and returned to the web site on request.   Our web site utilizes cookies in our portal, myYCP, to carry data about your current session in the portal from one web page to the next.  The cookies we use are set when you log on to myYCP and are erased when you log off myYCP or completely close your browser.  We do not use cookies to track or collect personal information or to track the web pages you visit.   If you prefer not to receive cookies, you may turn them off in your browser, or you may set your browser to ask you before accepting cookies.   Some pages will not function properly if the cookies are turned off, especially in myYCP.
+Non-personal information is collected automatically by our web servers and by our authorized third party vendors through the use of electronic tools like cookies and pixel tags. Examples of non-personal information that we collect includes but is not limited to:
 
-**Security -   How do we protect your information?**
+  * The date and time you visit our website.
+  * The pages, files, documents and links that you visit.
+  * The Uniform Resource Locator (URL) of the website you visited before coming to our website and the URL of the website you visit after leaving our website.
+  * The type of browser you are using.
+  * Your Internet Protocol (IP) address.
 
-York College of Pennsylvania will take reasonable steps to protect all personal information collected by using industry standard physical, electronic and procedural security measures.   We restrict access to personal data to employees who are required to view this information as part of their job responsibilities.  Whenever we prompt you to transmit sensitive information, such as credit card number, we use SSL data encryption technology.
 
-**Links to Other Sites**
 
-The York College web site links to a wide variety of other sites. We are not responsible for their privacy policies or how they treat information about their users.
+## Cookies
+
+In addition to information we collect automatically we and our authorized third-party vendors use cookies, which are small text files sent to your browser and stored on your computer when you visit our websites and partner websites. These cookies do not collect personal information. Cookies are used to track visitor usage patterns, traffic trends and other information from visits in order to help us improve and deliver effective, robust website service.
+
+We use cookies to store personal preferences our visitors voluntarily select when visiting My York Experience. The preferences stored on your computer present personalized content on your return visits to our website.
+
+We may use authorized third-party vendors such as Hobsons to carry out services such as applying to YCP, sending you information about YCP that you requested or scheduling a visit to YCP. These vendors may use cookies to support their services when you return to our website. Our privacy policy does not apply to any information these vendors may have collected about your visit on their websites.
+
+We may use authorized third-party vendors such as Google Analytics and SiteImprove to track visitor interactions with our website to help us understand how visitors use or engage with our website and to help us improve and deliver effective, robust website service. We do not combine the information collected by these services with any personal information.
+
+We may use authorized third-party vendors such as SumoMe to allow visitors to share content from our website with others on social media platforms. These vendors may use cookies to collect non-personal information via the Share buttons on our website to monitor traffic and usage patterns to help us deliver effective, robust website service.
+
+We may use authorized third-party vendors such as AdRoll to display ads featuring YCP on other websites. These vendors may use cookies to display these ads based on information collected from your visit to our website. Our privacy policy does not apply to any information these vendors may have collected about your visit.
+
+We may embed social media content from Twitter, Facebook and other social media services. These embedded social media plug-ins use cookies to monitor traffic from our website to theirs and to support visitors logging in to the respective social media accounts if the visitor interacts with the embedded social media content while visiting our website.
+
+You may set your browser to refuse cookies from any website that you visit. If you turn off cookies in your browser when you visit our website, you will eliminate only the ability to save preferences from My York Experience. Otherwise, your experience on our website will not be affected.
+
+We work with the following vendors regularly or on a periodic basis. Please visit the websites below to view their privacy policies. New vendors that we work with and vendors that we no longer work with will be added and removed without notice.
+
+<https://www.hobsons.com/privacy-policy/>  
+<https://privacy.google.com/>  
+<http://go.siteimprove.com/analytics-technical-specifications/>  
+<https://twitter.com/privacy/>  
+<https://www.facebook.com/about/privacy/>  
+<https://www.adroll.com/about/privacy/>
