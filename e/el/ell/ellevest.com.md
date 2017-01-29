@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellevest.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604170704id_/https%3A//www.ellevest.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellevest.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129111412id_/https%3A//www.ellevest.com/privacy_policy) for the most accurate reproduction.*
 
 # Ellevest | Redefining Investing for Women
 
