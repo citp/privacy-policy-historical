@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the helixsleep.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506170129id_/https%3A//www.helixsleep.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helixsleep.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129054521id_/https%3A//www.helixsleep.com/privacy) for the most accurate reproduction.*
 
 # Privacy & Security | Helix Sleep
-
-FREE U.S. SHIPPING & ZERO HASSLE RETURNS.
 
 Effective Date of Current Policy: August 25, 2015
 
@@ -96,7 +94,7 @@ Contact Information
 
 Helix Sleep, Inc.
 
-14 East 4th Street Room 404  
-New York, NY 10012
+1123 Broadway, #600  
+New York, NY 10010
 
 [info@helixsleep.com](mailto:info@helixsleep.com)
