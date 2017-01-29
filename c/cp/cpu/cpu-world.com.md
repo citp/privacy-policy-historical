@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpu-world.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114080315id_/http%3A//www.cpu-world.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpu-world.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129051639id_/http%3A//cpu-world.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
