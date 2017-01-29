@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amanresorts.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513051837id_/https%3A//www.aman.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amanresorts.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129075929id_/https%3A//www.aman.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Aman
 
@@ -6,7 +6,7 @@ This is the privacy policy of Amanresorts International Pte. Limited , a company
 
 Please read this page carefully before you start to use this site.  If you do not wish to be bound by this privacy policy then you should not access this site.  Access of this site by you shall be deemed to be your acceptance of this privacy policy and your agreement that we may process and use your personal data in accordance with this privacy policy. 
 
-If you have any queries regarding this privacy policy or complaints about our use of your information please contact us at [dataprotection@amanresorts.com](mailto:dataprotection@amanresorts.com) and we will do our best to deal with your complaint or query as soon as possible.  
+If you have any queries regarding this privacy policy or complaints about our use of your information please contact us at [dataprotection@aman.com](mailto:dataprotection@aman.com) and we will do our best to deal with your complaint or query as soon as possible.  
 
 **INFORMATION WHICH WE MAY OBTAIN ABOUT YOU**
 
@@ -18,7 +18,7 @@ We ask visitors to our site who register with us to supply us with personal info
 
 
 
-In accordance with your rights under the Data Protection Act 1998, you may request the amendment of the personal information held.  Should you wish to have your information updated or corrected please contact [dataprotection@amanresorts.com](mailto:dataprotection@amanresorts.com?subject=aman.com%20-%20privacy%20policy%20enquiry&body=An%20enquiry%20about%20the%20aman.com%20privacy%20policy%3A%0Ahttps%3A%2F%2Fwww.aman.com%2Fprivacy-policy).  
+In accordance with your rights under the Data Protection Act 1998, you may request the amendment of the personal information held.  Should you wish to have your information updated or corrected please contact [dataprotection@aman.com](mailto:dataprotection@aman.com?subject=aman.com%20-%20privacy%20policy%20enquiry&body=An%20enquiry%20about%20the%20aman.com%20privacy%20policy%3A%0Ahttps%3A%2F%2Fwww.aman.com%2Fprivacy-policy).  
 
 **WHAT WE DO WITH YOUR INFORMATION**
 
@@ -75,11 +75,11 @@ Our site logs your IP address and other information about your computer for admi
 
 **OPTING OUT**
 
-If you do not wish to remain on our database and to receive our personalised mailings (electronic or otherwise) or other communications, please note that you may opt out of our database by using the “Unsubscribe” option at the footer of our email communications, or by sending an email to [dataprotection@amanresorts.com](mailto:dataprotection@amanresorts.com?subject=aman.com%20-%20data%20protection%20enquiry). Our full contact details are as follows:
+If you do not wish to remain on our database and to receive our personalised mailings (electronic or otherwise) or other communications, please note that you may opt out of our database by using the “Unsubscribe” option at the footer of our email communications, or by sending an email to [dataprotection@aman.com](mailto:dataprotection@aman.com?subject=aman.com%20-%20data%20protection%20enquiry). Our full contact details are as follows:
 
 The Data Protection Officer
 
-[dataprotection@amanresorts.com](mailto:dataprotection@amanresorts.com?subject=aman.com%20-%20data%20protection%20enquiry)
+[dataprotection@aman.com](mailto:dataprotection@aman.com?subject=aman.com%20-%20data%20protection%20enquiry)
 
 Aman International Pte Ltd
 
@@ -91,7 +91,7 @@ Contact No: (65) 68832555
 
 **CHILDREN**
 
-Aman does not intend to collect any Personal Information from children or minors under the age of 18. Accordingly, if a minor has provided us with Personal Information, a parent or guardian of the minor may contact us via email at [dataprotection@amanresorts.com](mailto:dataprotection@amanresorts.com) or by telephone at (65) 68832555 and we will immediately remove that minor’s information from our database as soon as practicable.
+Aman does not intend to collect any Personal Information from children or minors under the age of 18. Accordingly, if a minor has provided us with Personal Information, a parent or guardian of the minor may contact us via email at [dataprotection@aman.com](mailto:dataprotection@aman.com) or by telephone at (65) 68832555 and we will immediately remove that minor’s information from our database as soon as practicable.
 
 **QUERIES OR COMPLAINTS**
 
