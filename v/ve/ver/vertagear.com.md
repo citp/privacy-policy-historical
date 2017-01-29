@@ -1,110 +1,41 @@
-> *The following text is extracted and transformed from the vertagear.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329023243id_/http%3A//www.vertagear.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertagear.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129180427id_/http%3A//vertagear.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Vertagear
+# Privacy Policy – Vertagear
 
-This Privacy Policy of VERTAGEAR describes the types of information we may collect when you visit our websites, mobile applications, or social media sites, VERTAGEAR or one of its affiliates or subsidiaries (collectively the “Sites”). We understand how important it is to keep your personal information confidential. We value the information you provide to us and want you to be confident that we are committed to protecting your privacy. Our commitment to protecting your privacy is outlined in the policies below. 
+This Privacy Policy is provided to explain how information is collected on our website and how that information is handled once it has been collected. This Privacy Policy may change at any time. By using the Vertagear.com website, you accept the terms and conditions outlined in this Privacy Policy and the Terms of Use.
 
-This policy addresses the nature, purpose, use, and sharing of any information collected via our Sites. The information you provide on our Sites will be used only for its intended purpose and as outlined in this Privacy Policy. Except as outlined herein, the submission and collection of personally identifiable information (defined below) is strictly voluntary. By using or visiting any VERTAGEAR Site, you acknowledge your agreement on the Terms of Use related to that site or application. If you do not want to give us your permission to use your information, please do not provide it. However, not providing certain information may result in our inability to provide you with the information or services you desire. 
+**PERSONAL INFORMATION**
 
-#### INFORMATION COLLECTED 
+Vertagear collects any Personal Information regarding a specific person. This information includes, but is not limited to name, address, telephone number, email address, birth date, information about the person’s activities and purchases. This also includes sensitive information, such as your credit card number.
 
-The two types of information we collect are personally identifiable information and non-personally identifiable information. 
+**THE INFORMATION WE COLLECT**
 
-Non-personally identifiable information is anonymous information that cannot be used to identify you. Online, we use this information to track navigation through our websites, which pages are viewed most often, what other websites are visited, and similar data. 
+At Vertagear, we collect and store your personal and transactional information in our customer database. This information is used to process your transactions, and cater to your customer service requests. You may also receive both printed and electronic communications from us about new products, discounts, and special promotions.
 
-Personally identifiable information is sensitive information that can be used to identify you. Personally identifiable information includes, among other information, your full name, e-mail address, physical mailing address, and telephone number. Some of the features on our online Sites require that you provide us information about yourself. Online, this information is collected only when you provide it to us by registering as a member for an account or by filling out a form on our online Sites. You can review and update any personally identifiable information you have elected to provide to us prior to submitting the information. When you provide us your personally identifiable information, you consent to the information practices described in this policy. 
+**AGGREGATE DATA AND INFORMATION USAGE**
 
-We will never request your password, user name, or other personally identifiable information through e-mail. This practice, called "phishing," is oftentimes a scam designed to steal your personal information. If you receive an e-mail message that looks like it is from us asking you for your personal information, please do not respond. 
+Along with personal information, we collect and store records about the products purchased pages viewed by all visitors to our website. This data is aggregated to provide us with specific shopping trends on our website. Our Web servers automatically collect information about each visitor who requests Vertagear Web pages, including your computer’s IP address. Through the use of this information, we are able to tailor a unique shopping experience for our customers.
 
-RETURN TO TOP
+**CLICK-STREAM DATA AND COOKIE TECHNOLOGY**
 
-#### USE OF PERSONALLY IDENTIFIABLE INFORMATION YOU CHOOSE TO PROVIDE 
+Click-Stream information is used to process your order and ensure delivery to you. This information will allow us to see how what pages are visited and what features are used. In addition, this information is aggregated to disseminate current shopping trends of our consumers. This information will not reveal your identity or be linked to you personally. Vertagear may also utilize cookies to analyze data as well. Any information that these third parties collect via cookies and action tags is completely anonymous. We use this information to complete, analyze and support your purchases from Vertagear.com and use of the Vertagear.com website to comply with any requirements of law and to determine the commissions for our Affiliates. This information may be provided only to our staff and any third-party involved in the completion of your transaction.
 
-If you choose to provide us with personally identifiable information, we will use that information to enhance your experience in the following ways: 
+**EMAIL SUBSCRIPTION PREFERENCES**
 
-* Complete your request to register as a member of any of our online Sites you select. 
-* Receive candidate information you provide in the career section at any of our online Sites. 
-* Complete your request to sign up to receive information via e-mail at any of our online Sites you select. 
-* Customize your shopping experience. 
-* Notify you of advertisements and promotions related to the VERTAGEAR Brands or any of our online Sites. 
-* Communicate great values and featured items to you. 
-* Comply with valid legal procedures, requirements, regulations, and statutes. 
-* Share your personally identifiable information with third party vendors but only to the extent required to help us perform any of the aforementioned functions. 
+Providing Vertagear your e-mail address opts you in to receive Vertagear e-mail newsletters. You may choose at any time to discontinue receiving e-mail newsletters by opting out or unsubscribing. Vertagear will not rent, sell or give your e-mail address to any other organization for the purposes of marketing or solicitation. Vertagear will need to supply your e-mail address to specific service providers who deliver e-mail on our behalf. However, third-party service providers are contractually prohibited from using your information for any purpose other than in accordance with the terms of their agreements with Vertagear.
 
-RETURN TO TOP
+*Please note: You may be contacted by email, mail, or telephone regarding any placed order on Vertagear.com
 
-#### CHILDREN 
+**COMMUNICATIONS FROM VERTAGEAR OTHER COMPANIES**
 
-Our online Sites are general audience sites. We do not permit anyone who tells us they are under the age of 13 to register with us. We also do not collect any information from anyone that tells us they are under the age of 13. Children under the age of 13 should always ask their parents or guardians for permission before providing any contact information to anyone online. We urge parents and guardians to participate in their children's online activities and use parental controls or other web filtering technology to supervise children's access to the Internet. 
+Vertagear may use third-party companies to help us provide products and services to you, to assist in market research, to manage personal and sensitive information, or to fulfill promotions and communicate with you.  Vertagear.com is not responsible for privacy practices of these companies. All companies that work with Vertagear are restricted from using any information in any manner other than providing you with the products and services available from Vertagear
 
-RETURN TO TOP
+**PRIVACY NOTES**
 
-#### AUTOMATICALLY COLLECTED INFORMATION 
+Vertagear may provide links to Web sites outside of Vertagear.com as an added convenience/service to the user. Additionally, affiliates of Vertagear.com may link to our site. Any link included does not imply or convey endorsement of the other company or organization, its site, or its products or services. Vertagear is not responsible for the privacy, terms of use or other policies of any other Web site.
 
-We save information based on your interaction with our online Sites. This allows us to process your inquiries more efficiently, and ultimately, provide you with enhanced customer service. This information includes, but is not limited to, your Internet Protocol address (the address automatically assigned to your computer every time you establish a connection to the Internet), the name of any referring websites, as well as your navigation and activity on our websites. By tracking this type of information, we may be able to modify our content and product displays to enhance your experience while visiting our online Sites. 
+Vertagear will release account and other personal information when we believe release is appropriate to comply with the law, or protect the rights, property or safety of Vertagear.com, our users or others.
 
-This information is only used to help us make our Sites more useful to you. Except for authorized law enforcement investigations, no attempts are made to identify individual users or their usage habits. Raw data logs are retained temporarily as required for security and site management purposes only. 
+**PRIVACY POLICY CONSENT AND CHANGES**
 
-RETURN TO TOP
-
-#### INFORMATION COLLECTED FOR TRACKING PURPOSES (COOKIES) 
-
-Like many online websites, our Sites do not currently respond to “do not track signals” or other mechanisms that consumers may utilize on their web browsing device to limit the collection of certain information about a consumer’s activities over time and across various websites or online services. As with most websites, we use "cookies" to obtain information when your web browser accesses our online Site. "Cookies" are small amounts of data that are stored on your computer and find their way to your browser via a web server. They flag information about your activity on our online Sites. This information helps us to improve our Sites and to make them friendlier and easier to use. We are then able to "recognize" you and personalize your experience with our Sites. You may "turn off" cookies by following steps outlined in the "Help" portion of the toolbar on most browsers; however, cookies allow you to take advantage of some of our Sites’ best features, so we recommend that you leave them turned on. 
-
-We may use third party service providers to serve advertisements on our behalf. This form of marketing is called "retargeting;" and it enhances the web surfing experience. These companies may use technologies to measure the effectiveness of advertisements and use information about your visits to our online Sites and other websites you visit so that we can provide a better experience for you. These third party service providers may collect anonymous information about your visits to our online Sites and your interaction with our online Sites. This anonymous information is collected through the use of a pixel tag and/or cookie. No personally identifiable information is collected or used in this process. Our third party service providers do not learn the name, telephone number, postal address, e-mail address, or any other personally identifiable information about you in connection with the aforementioned retargeting process. 
-
-RETURN TO TOP
-
-#### SHARING INFORMATION 
-
-We may share aggregated general information collected by our Sites with subsidiaries, affiliates, sister or parent corporations within VERTAGEAR or with independently owned and operated retail furniture stores or with our service providers. Aggregated data does not contain any personally identifiable information that could be used to contact or identify you. 
-
-We only share personally identifiable information in one or more of the following limited circumstances: 
-
-* We have your consent. 
-* We may provide such information to respected third party service providers but only to the extent necessary for them to assist and support us as we attempt to better provide enhanced products and services to you and to complete your requests to receive information from us via email, use our online tools or register as a member of any of our online Sites. When this is done, it is subject to agreements or other specific direction given to the service provider that requires them to process such information only in accordance with our instructions, in compliance with this privacy policy, and with appropriate confidentiality and security measures in place. We have no control over, and bear no responsibility for the privacy policies and/or content of any websites or advertisers linked to or on any of the VERTAGEAR Sites or cookies these websites may deposit on your computer. 
-* We may provide such information to subsidiaries, affiliates, sister or parent corporations within the VERTAGEAR. VERTAGEAR may use this information to offer products and services to you. 
-* When required by law or where we have a good faith belief that such action is necessary to comply with a current judicial proceeding, a criminal investigation, a court order, or legal process served on our company in direct relation to you. We may also share your personally identifiable information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Use of our Sites and services, or as otherwise required by law. 
-* If you have established an account with us, we may share the information submitted under your account among any or all of the VERTAGEAR and affiliated companies and our Sites in order to provide you with a seamless experience and to improve the quality of our services. We will not disclose your account information to other people or non-affiliated companies, except in limited circumstances described in this privacy policy or with your consent. 
-* In the event that another company acquires all or substantially all of the assets related to our business, we reserve the right to include any or all stored personally identifiable information among the assets transferred to the acquiring company. 
-* We may store and process personally identifiable information collected on our Site in the United States or any other country in which we maintain facilities. By using our Sites and services, you consent to the transfer of your information among these facilities, including those located outside your country. 
-
-We currently DO NOT share your personally identifiable information with any other companies or organizations that would present you with offers or promotions that are not directly related to the VERTAGEAR, or our affiliated companies. 
-
-RETURN TO TOP
-
-#### SECURITY 
-
-We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of the data you provide to us. Our servers are protected by firewalls and are physically located in secure data facilities to further increase security. While no computer or facility is 100% safe from outside attacks, we believe that the steps we have taken to protect your personally identifiable information dramatically reduce the likelihood of security problems to a level appropriate for the type of data involved. 
-
-RETURN TO TOP
-
-#### OPT-OUT OF SERVICES 
-
-At any time you may opt-out of our services. You are free to delete all cookies on your browser, or have your browser notify you when a cookie is set - simply check your browser settings. By deleting your cookies you will disable our ability, or that of our third party partners, to deliver advertisements that are targeted to your interests. You will have to clear your cookies each time you visit our online Sites to ensure that you are not receiving retargeted advertisements. 
-
-You may also receive e-mail messages from us if you choose to provide us with your e-mail address. You may choose to stop receiving e-mail messages by "opting-out" of our list. If you no longer wish to receive these communications, let us know by following the opt-out directions on any of the e-mail messages you have received from us. 
-
-RETURN TO TOP
-
-#### PRIVACY POLICY CHANGES 
-
-As we continue to improve the services, products, and features we provide, this privacy policy is subject to change. This privacy policy is subject to change without direct notice to you. We may change our policy at any time by posting a new version of it on our online Sites. Therefore you should review this privacy policy each time you visit our Sites. The dates provided below will inform you as to when the most recent material updates to this policy occurred and the date on which the updated policy became effective. 
-
-* Date of Last Update: JULY 2015 
-* Date Updated Policy Became Effective: JULY 2015 
-
-RETURN TO TOP
-
-#### CALIFORNIA PRIVACY RIGHTS 
-
-Pursuant to Section 1798.83 of California Civil Code, a California resident with whom we have established a business relationship has the right to request from us certain information with respect to the types of personally identifiable information we have shared with third parties for direct marketing purposes by such third parties, and the identities of the third parties with whom we have shared information during the immediately preceding calendar year. All requests for such information must be in writing and sent to: VERTAEAR, 314 Paseo Tesoro, Walnut, CA 91789. 
-
-RETURN TO TOP
-
-#### CONCERNS ABOUT PRIVACY 
-
-If you have any questions or concerns about VERTAGEAR’s Privacy Policy or its implementation, or if you believe there are inaccuracies in your account information you may contact us as follows: 
-
-VERTAGEAR  
-info@vertagear.com
+By using the Vertagear.com web site, you agree to this Privacy and Security Policy. This is our entire and exclusive Privacy and Security Policy and it supersedes any earlier version. We may change our Privacy and Security Policy by posting a new version of the policy on this page, which it is your responsibility to review frequently.
