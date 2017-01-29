@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2016-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160725003320id_/http%3A//www.gcu.edu/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gcu.edu privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130000229id_/https%3A//www.gcu.edu/privacy-policy.php) for the most accurate reproduction.*
 
 # Christian University | Privacy Policy | GCU
 
-[](http://www.gcu.edu/)[Apply](http://www.gcu.edu/#)
+[](https://www.gcu.edu/)[Apply](https://www.gcu.edu/#)
 
 _Effective Date: June 19, 2008_
 
@@ -72,7 +72,7 @@ We strongly encourage you to review the privacy policy of each website you visit
 
 ## Online Advertising
 
-GCU uses Online Advertising Features including Google, Bing, and Yahoo advertising and cookie tracking implemented on gcu.edu. GCU also uses some or all of the following Facebook cookie tracking, web beacons or similar technologies to collect or receive visitor information. These features allow GCU to track impressions on our website, track demographic and interests of visitors, collect data for remarketing purposes and track rich media assisted conversions. If you wish to opt out of these online advertising features, follow the instructions on the corresponding pages:
+GCU uses Online Advertising Features including Google, Bing, and Yahoo advertising and cookie tracking implemented on gcu.edu. GCU also uses some or all of the following Facebook and Twitter cookie tracking, web beacons or similar technologies to collect or receive visitor information. These features allow GCU to track impressions on our website, track demographic and interests of visitors, collect data for remarketing purposes and track rich media assisted conversions. If you wish to opt out of these online advertising features, follow the instructions on the corresponding pages:
 
 **Google** : tools.google.com/dlpage/gaoptout
 
@@ -81,3 +81,5 @@ GCU uses Online Advertising Features including Google, Bing, and Yahoo advertisi
 **Yahoo** : https://aim.yahoo.com/aim/us/en/optout/
 
 **Facebook** : facebook.com/settings/?tab=ads
+
+**Twitter** : https://support.twitter.com/articles/20170405
