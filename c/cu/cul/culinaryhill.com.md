@@ -1,50 +1,71 @@
-> *The following text is extracted and transformed from the culinaryhill.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316171652id_/http%3A//www.culinaryhill.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the culinaryhill.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129144935id_/https%3A//www.culinaryhill.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Culinary Hill
 
-This Privacy Policy governs the manner in which Culinary Hill collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.culinaryhill.com](http://www.culinaryhill.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Culinary Hill.  Your privacy is valuable to Culinary Hill, and we work hard to protect your personal information.
+Effective Date: October 12, 2016 ** **
 
-**Notice Regarding Online Behavioral Advertising**
+Hey there, Meggan here. Just like you, we at Culinary Hill are concerned with how companies collect and use our information online, so it only seems fair we share how your information is collected, secured, and shared on this website. So, let’s get to it.
 
-We allow third party companies to serve ads and/or collect certain anonymous information when you visit our Web site.  These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you.  These companies typically use a cookie or third party web beacon to collect this information.  To learn more about this behavioral advertising practice visit the NAI at [http://www.networkadvertising.org](http://www.networkadvertising.org/).  To opt-out of this type of advertising, you can visit <http://www.aboutads.info/choices>.
+**NOTICE CONCERNING CHILDREN.**
 
-**How we protect your information**
+Any website “directed at children under 13” must undertake certain compliance steps pursuant to the Children’s Online Privacy Protection Act and “COPPA Rule.” This website is directed at adults, not children. Please contact us immediately if you have knowledge of a child under 13 using the website.
 
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
+**INTENDED AUDIENCE.**
 
-**Sharing your personal information**
+While everyone is welcome to visit and use the recipes and information on Culinary Hill, we do create content intended for an audience in the United States. Given this, our focus is on complying with the privacy laws of the United States.
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+**PERSONAL INFORMATION COLLECTED.**
 
-**Third party websites**
+A. Information Collection: You may browse the pages on this website without providing us with any personal information. However, if you decide to 1) contact us, 2) sign up for our newsletter; 3) comment on a post. or 4) download an offering from the website, we require you provide us with certain information that personally identifies you (“Personal Information”). This personal information consists of contact data such as your name and e-mail address (“Contact Data”).
 
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
+B. Modification or Removal Process: If you wish to remove or modify personally identifiable information, please contact us using the Contact function on the website. If you wish to be removed from our email list, simply use the unsubscribe function available in any email message you’ve received from us.
 
-**Advertising**
+C. Privacy Policy Updates: If we modify or update this privacy policy, we will notify you by posting a notice on the website and by sending you an electronic message indicating as much if we have an email address for you. You may reject the update by discontinuing your use of the website.
 
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
+D. Do Not Track Signals: California law requires that we disclose whether we acknowledge “do not track” signals issued by browsers or privacy software. We do not respond to such signals at this time.
 
-**Google Adsense**
+E. Third Party Online Behavioral Tracking: We allow third party companies to serve ads and/or collect certain anonymous information when you visit our website. These companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice visit the NAI at http://www.networkadvertising.org. To opt-out of this type of advertising, you can visit http://www.aboutads.info/choices. You can also visit the privacy policies of third party sites and services we use to gain an understanding of their privacy practices by visiting the following links:
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+  * [Facebook](https://www.facebook.com/about/privacy/)
+  * [Instagram](http://instagram.com/about/legal/privacy/)
+  * [Pinterest](https://about.pinterest.com/en/privacy-policy)
+  * [Twitter](https://twitter.com/privacy)
+  * [Google](https://www.google.com/policies/privacy/)
+  * [SimpleShare](https://simplesharebuttons.com/privacy/)
+  * [AdThrive](http://www.adthrive.com/adthrive-privacy-statement/)
+  * [MailChimp  
+](http://mailchimp.com/legal/privacy/)
 
-**Web browser cookies**
 
-Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-**Changes to this privacy policy**
+F. California Minor Eraser Right: This website is restricted to users 18 or older. Nonetheless, you may contact us if you are a minor to request the removal of content you’ve posted to the website. Please note the removal of the content from this website does not ensure complete or comprehensive removal of the content from appearing elsewhere on the Internet.
 
-Culinary Hill has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+**COOKIES AND TRAFFIC DATA COLLECTED.**
 
-**Your acceptance of these terms**
+We automatically track and collect the following categories of information when you visit our website: (1) IP addresses; (2) domain servers; (3) types of computers accessing the website; and (4) types of web browsers used to access the website (collectively “Traffic Data”). Traffic Data is anonymous information that does not personally identify you but is helpful for marketing purposes and for helping us improve your experience when using the website.
 
-By using this Site, you signify your acceptance of this policy and [terms and conditions](http://www.culinaryhill.com/about/terms-conditions/ "Terms and Conditions"). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+**USE OF INFORMATION COLLECTED.**
 
-**Contacting us**
+A. Our Use Of Information: We use Contact Data to send you information or our products or to contact you when necessary.
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Culinary Hill](http://www.culinaryhill.com/)  
-[http://www.culinaryhill.com](http://www.culinaryhill.com/)  
-meggan@culinaryhill.com
+B. Sharing Personal Information: We share certain categories of information we collect from you in the ways described in this Privacy Policy. We share Contact Data with our business partners who assist us by performing core services (such as hosting, sending email newsletters, or data storage and security) related to our operation of the website. Those business partners have all agreed they will only use your Contact Data and other Personal Information to carry out their specific business obligations to Culinary Hill. If you do not want us to share your Contact Data with any third parties, please contact us, but please understand that such a request will likely limit your ability to take advantage of all of the features and products we offer on the website.
 
-This document was last updated on October 29, 2013
+C. User Choice For Collection, Use, and Sharing Of Personal Information. You may choose not to provide us with any Personal Information. In such an event, you can still access and use much of the website; however, you will not be able to access and use those portions that require your Personal Information. If you do not wish to receive information and promotional material from us, you may select the appropriate “opt-out” option when you receive a communication from us. You may not opt-out of administrative communications.D. Sale of Information: Should we decide to sell all or part of Culinary Hill, Inc. or this website at some point in the future, your Personal Information will be included as an asset in the sale to a new owner.
+
+**SECURITY INFORMATION.**
+
+Confidentiality and Security of Personal Information: Except as otherwise provided in this Privacy Policy, we will keep your Personal Information private and will not share it with third parties, unless such disclosure is necessary to: (a) comply with a court order or other legal process; (b) protect our rights or property; or (c) enforce the legal documents applicable to the website. Your Personal Information is stored on secure servers that are not accessible by unaffiliated third parties.
+
+**AREAS BEYOND OUR CONTROL  
+**  
+A. Public Information: We make comment areas available to you in certain areas of the website. Please understand that any information disclosed in these areas becomes public information. We have no control over its use, and you should exercise caution when deciding to disclose any sensitive or Personal Information.
+
+B. Third Party Websites: The website contains links to other websites. We have no control over the terms and privacy policies of said sites. Please make sure to view the policies of those sites before proceeding.
+
+**CONTACT INFORMATION.**
+
+If you have any questions about this Policy or our practices related to this website, please contact us using the Contact function on the website.
+
+Thanks!
+
+Meggan Hill
