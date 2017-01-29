@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedrybar.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204224153id_/https%3A//www.thedrybar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedrybar.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129025012id_/https%3A//www.thedrybar.com/privacy) for the most accurate reproduction.*
 
 # Drybar, The Nation's Premier Blow Out Salon and Blow Dry Bar
 
@@ -28,7 +28,7 @@ For example, when you purchase something from our online store, as part of the b
 
 
 
-There are times when you may provide information to us voluntarily. This occurs when you provide feedback to us through emails, return forms, letters, or telephone calls. We use this information to respond to your query, to keep track of customer feedback, and to improve our service to customers.
+There are times when you may provide information to us voluntarily. This occurs when you provide feedback to us through emails, return forms, letters, telephone calls, or enter a sweepstakes, contest, or promotion in which Drybar is the sponsor or is a promotional partner with the third-party sponsoring the sweepstakes, contest, or promotion. We use this information to respond to your query, to keep track of customer feedback, to add you to Drybar's email mailing list (please see the information on how to opt out below) and to improve our service to customers.
 
 Even if you do not make a purchase on our site or book an appointment, we have the ability to track your usage of our website, including what pages you visit, what products you view, and the third-party sites that led you to our site. This information is not used to track information about individuals, but is used at an aggregate level to customize our site, improve the online experience, and plan advertising and promotions. When you browse our online website, we also automatically receive your computer’s Internet protocol (IP) address in order to provide us with information that helps us learn about your browser and operating system.
 
