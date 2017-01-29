@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the karatbars.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319031514id_/https%3A//karatbars.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the karatbars.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129222255id_/https%3A//www.karatbars.com/index.php%3Fpage%3Dprivacy_policy) for the most accurate reproduction.*
 
 # Gold - Karatbars International
 
