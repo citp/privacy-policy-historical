@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the springbokcasino.co.za privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207091634id_/http%3A//www.springbokcasino.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springbokcasino.co.za privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129032510id_/https%3A//www.springbokcasino.co.za/privacy-policy) for the most accurate reproduction.*
 
 # Privacy
 
-##  [ Privacy Policy](http://www.springbokcasino.co.za/privacy-policy)
+##  [ Privacy Policy](https://www.springbokcasino.co.za/privacy-policy)
 
 Springbok Casino is committed to respecting and protecting your privacy. The following statement discloses the information gathered by Springbok Casino.
 
@@ -38,4 +38,4 @@ Your winnings and cash-outs are kept strictly confidential, and winnings informa
 
 #### Will Springbok Casino sell my information to any third parties?
 
-Springbok Casino will not and does not sell trade or rent any of its players personal information to any parties. Springbok Casino may provide aggregate statistics about our players, sales, Internet traffic, and related site information to a reputable third-party. However, these statistics will include no personally identifying information. Springbok Casino also allows all of its players to opt out of any mails that they do not wish to receive from us. You can do this by [contacting us.](http://www.springbokcasino.co.za/support)
+Springbok Casino will not and does not sell trade or rent any of its players personal information to any parties. Springbok Casino may provide aggregate statistics about our players, sales, Internet traffic, and related site information to a reputable third-party. However, these statistics will include no personally identifying information. Springbok Casino also allows all of its players to opt out of any mails that they do not wish to receive from us. You can do this by [contacting us.](https://www.springbokcasino.co.za/support)
