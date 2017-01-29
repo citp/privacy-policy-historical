@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the kik.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024052626id_/https%3A//www.kik.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kik.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129042208id_/https%3A//www.kik.com/privacy) for the most accurate reproduction.*
 
 # Privacy » kik
+
+At Kik, your privacy is important to us. We've created this policy to cover:
+
+1\. the information we collect about you when you use the Kik App (including Kik Points) and our website available at kik.com (the " **Services** ") and why we collect it;  
+2\. how we use and share that information; and  
+3\. some of the features that we've built into the Kik App to protect your privacy. 
 
 ### What’s New
 
