@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the csgohandouts.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129221033id_/http%3A//csgohandouts.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csgohandouts.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129161325id_/https%3A//csgohandouts.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - CSGO Handouts
 
