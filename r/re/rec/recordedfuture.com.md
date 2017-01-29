@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recordedfuture.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109194906id_/https%3A//www.recordedfuture.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recordedfuture.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130000610id_/https%3A//www.recordedfuture.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Recorded Future
 
@@ -55,9 +55,9 @@ Recorded Future may collect information about sites that have linked to our site
 
 Recorded Future does not share your personal information with any other companies or individuals except for the following:
 
-**Consent** : We will not share your nonpublic information except to deliver services to you unless you affirmatively opt-in to such sharing. If you share this data with third parties, this is, of course consent to such sharing.
+ **Consent** : We will not share your nonpublic information except to deliver services to you unless you affirmatively opt-in to such sharing. If you share this data with third parties, this is, of course consent to such sharing.
 
-**Legal Requirements** : We may share, or log your information without your consent if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or valid governmental request, (b) enforce applicable Terms of Service, Terms of Use or contractual obligations including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property, safety or security of Recorded Future, its users or the public as required or permitted by law.
+ **Legal Requirements** : We may share, or log your information without your consent if we have a good faith belief that access, use, preservation or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process or valid governmental request, (b) enforce applicable Terms of Service, Terms of Use or contractual obligations including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security or technical issues, or (d) protect against harm to the rights, property, safety or security of Recorded Future, its users or the public as required or permitted by law.
 
 ### Sharing in the Event of a Merger or Acquisition
 
