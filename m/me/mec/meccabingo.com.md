@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meccabingo.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019061849id_/https%3A//www.meccabingo.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meccabingo.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130001028id_/https%3A//www.meccabingo.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MeccaBingo
 
@@ -16,7 +16,7 @@
 
 _Types of information_
 
-2.2 You may give us information about you by filling in forms on our website or by corresponding with us by phone, e-mail or otherwise. The information you give us may include but is not limited to your name, age, gender, address, telephone number, e-mail address and bank details.
+2.2 You may give us information about you by filling in forms on our website or by corresponding with us by phone (we may record such calls), e-mail or otherwise. The information you give us may include but is not limited to your name, age, gender, address, telephone number, e-mail address and bank details.
 
 2.3 If you create an account during the registration process certain information will be stored by us under your account profile include your username, email address, and password.
 
@@ -39,8 +39,9 @@ _How we may use that information_
   * 2.8.5 notify you about changes to our service;
   * 2.8.6 assist us in setting up and managing your account and to build up an accurate customer profile of you;
   * 2.8.7 provide you, or permit selected third parties to provide you, with information, offers, products or services which we feel may interest you and contact you, or permit selected third parties to contact you, for market research purposes. If you do not want us to use your information in this way please tick the relevant box on the registration form or contact us by one of the methods described in paragraph 4.2 below;
-  * 2.8.8 enable us to comply with all regulatory requirements, in particular those relating to the identification of individuals under money laundering legislation; and
-  * 2.8.9 disclosure as set out in paragraph 5 ( _Disclosure of your Personal Data_ ) below.
+  * 2.8.8 enable us to comply with all regulatory requirements, in particular those relating to the identification of individuals under money laundering legislation;
+  * 2.8.9 to use your chat name and any photograph of you in any promotion of our website, including the promotion of winners; and
+  * 2.8.10 disclosure as set out in paragraph 5 ( _Disclosure of your Personal Data_ ) below.
 
 
 
@@ -172,4 +173,4 @@ Telephone number: 0800 083 1988
 
 E-mail: [support@meccabingo.com](mailto:support@meccabingo.com)
 
-Last updated on: 23rd May 2016
+Last updated on: 1st November 2016
