@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spybot.info privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222182036id_/https%3A//www.safer-networking.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spybot.info privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129092928id_/https%3A//www.safer-networking.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Spybot Anti-malware and Antivirus
 
