@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the srx.com.sg privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004071217id_/http%3A//www.srx.com.sg/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the srx.com.sg privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129072551id_/https%3A//www.srx.com.sg/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Singapore Real Estate Exchange (SRX)
 
