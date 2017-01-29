@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the net-a-porter.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110015806id_/https%3A//www.net-a-porter.com/us/en/Help/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the net-a-porter.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129092751id_/https%3A//www.net-a-porter.com/us/en/Help/PrivacyPolicy) for the most accurate reproduction.*
 
 # Help | NET-A-PORTER.COM
 
   * Privacy Policy
 
-This website is owned and run by THE NET-A-PORTER GROUP LIMITED ("we", "our", "us”), part of YOOX NET-A-PORTER GROUP. If we use the term “our Group”, this means us and our subsidiaries, our ultimate holding company and its subsidiaries (or any of them). The term “our online services” refers to NET-A-PORTER.COM, MRPORTER.COM, THEOUTNET.COM, The NET SET, our mobile and tablet applications, our pages on third party social media platforms such as Instagram, Facebook, Twitter, Pinterest and Google+ and any other websites or apps we own or run from time to time. The term “our services” refers to our online services and any of our other products and services, such as PORTER magazine, offered from time to time. If you use any of our services, we will refer to you using the terms “user”, “visitor”, “you”, “your”, “yours” in this policy. 
+This website is owned and run by THE NET-A-PORTER GROUP LIMITED ("we", "our", "us”), part of YOOX NET-A-PORTER GROUP. If we use the term “our Group”, this means us and our subsidiaries, our ultimate holding company and its subsidiaries (or any of them). The term “our online services” refers to NET-A-PORTER, MR PORTER, THE OUTNET, The NET SET, our mobile and tablet applications, our pages on third party social media platforms such as Instagram, Facebook, Twitter, Pinterest and Google+ and any other websites or apps we own or run from time to time. The term “our services” refers to our online services and any of our other products and services, such as PORTER magazine, offered from time to time. If you use any of our services, we will refer to you using the terms “user”, “visitor”, “you”, “your”, “yours” in this policy. 
 
 We respect the privacy rights of our visitors and recognise the importance of protecting the information collected about them. This privacy policy is about how we collect, store, and use the personal information that you provide to us. As part of our commitment to your privacy rights and security, our websites have been certified by Cybertrust.
 
@@ -100,9 +100,9 @@ You have the right to ask us not to use your personal information for marketing.
 
 For NET-A-PORTER, on 0800 044 5700 (UK) or +44 330 022 5700 (from a mobile or internationally) or by email at [customercare.usa@net-a-porter.com](mailto:customercare.usa@net-a-porter.com)
 
-For MRPORTER.COM, on +44 330 022 5705 or by email at [customercare@mrporter.com](mailto:customercare@mrporter.com)
+For MR PORTER, on +44 330 022 5705 or by email at [customercare@mrporter.com](mailto:customercare@mrporter.com)
 
-For THEOUTNET.COM, on +44 330 022 4250 or by email at [customercare@theoutnet.com](mailto:customercare@theoutnet.com)
+For THE OUTNET, on +44 330 022 4250 or by email at [customercare@theoutnet.com](mailto:customercare@theoutnet.com)
 
 If you tell us that you do not want to receive direct marketing, we will still contact you in order to provide you with products and services you request and for administration purposes.
 
@@ -114,7 +114,7 @@ You have the right to see information we hold about you, with some exceptions wh
 
 You have the right to review and update your personal details. If for any reason you are concerned that the personal information we hold is not correct, please visit our online services and, after logging into the site using the "Sign In" menu on the home page, your personal information will be made available for review and change in the "My Account" section. Only you or, upon your request, our Customer Care team, may access your personal data from our online services using your user ID and password. Information may be changed online within “My Details”, “Shipping Details” and “My Email Preferences”. You can change or delete saved credit/debit card details each time you make a purchase. You will also be able to delete saved credit/debit card details by adding or editing a shipping/billing address. If you change your billing or shipping address while your order is still being processed, the order will be re-processed through security validation checks. If you prefer, you may contact us by email at [customercare.usa@net-a-porter.com](mailto:customercare.usa@net-a-porter.com) and we will amend your personal details.
 
-Our Live Chat provider stores all chat conversations for 13 months. To receive a copy of your chat conversation simply request this when exiting Live Chat or contact our Customer Care team by emailing [customercare.usa@net-a-porter.com](mailto:customercare.usa@net-a-porter.com) for NET-A-PORTER.COM chats, [customercare@mrporter.com](mailto:customercare@mrporter.com) for MRPORTER.COM chats and [customercare@theoutnet.com](mailto:customercare@theoutnet.com) for THEOUTNET.COM chats.
+Our Live Chat provider stores all chat conversations for 13 months. To receive a copy of your chat conversation simply request this when exiting Live Chat or contact our Customer Care team by emailing [customercare.usa@net-a-porter.com](mailto:customercare.usa@net-a-porter.com) for NET-A-PORTER chats, [customercare@mrporter.com](mailto:customercare@mrporter.com) for MR PORTER chats and [customercare@theoutnet.com](mailto:customercare@theoutnet.com) for THE OUTNET chats.
 
 Back to top
 
@@ -142,11 +142,11 @@ If you require further information about our privacy policy, please go to the he
 
 If you wish to talk to a Customer Care representative, please call: 
 
-For NET-A-PORTER.COM, on 0800 044 5700 (UK) or +44 330 022 5700 (from a mobile or internationally).
+For NET-A-PORTER, on 0800 044 5700 (UK) or +44 330 022 5700 (from a mobile or internationally).
 
-For MRPORTER.COM, on +44 330 022 5705 or by email at [customercare@mrporter.com](mailto:customercare@mrporter.com).
+For MR PORTER, on +44 330 022 5705 or by email at [customercare@mrporter.com](mailto:customercare@mrporter.com).
 
-For THEOUTNET.COM, on +44 330 022 4250 or by email at [customercare@theoutnet.com](mailto:customercare@theoutnet.com).
+For THE OUTNET, on +44 330 022 4250 or by email at [customercare@theoutnet.com](mailto:customercare@theoutnet.com).
 
 Back to top
 
