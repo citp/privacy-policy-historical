@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewhiskeywash.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209161023id_/http%3A//thewhiskeywash.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewhiskeywash.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129180331id_/https%3A//thewhiskeywash.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Whiskey Wash
 
@@ -8,15 +8,15 @@ The Whiskey Wash understands that you are concerned about your privacy, and we w
 
 This Privacy Policy applies to all information collected or used on the Website and any other websites and applications that we own or control that link to this Privacy Policy.
 
-**1\. Consent to Use of Personal Information.  ** By using the Website, you are accepting the terms of this Privacy Policy and consenting to our collection, use, disclosure, retention, and protection of your personal information as described in this Privacy Policy.
+ **1\. Consent to Use of Personal Information.  ** By using the Website, you are accepting the terms of this Privacy Policy and consenting to our collection, use, disclosure, retention, and protection of your personal information as described in this Privacy Policy.
 
-**2\. Children’s Privacy.  ** The Website and its content are not intended for use by children, especially children under the age of 13. We do not knowingly solicit or collect information from children. If we learn that we may have collected information from anyone under the age of 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us. We do not permit anyone under the age of 21 to receive our emails.
+ **2\. Children’s Privacy.  ** The Website and its content are not intended for use by children, especially children under the age of 13. We do not knowingly solicit or collect information from children. If we learn that we may have collected information from anyone under the age of 13, we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us. We do not permit anyone under the age of 21 to receive our emails.
 
-**3.** **Information We Collect.   **We may collect information that identifies you (“Personally Identifiable Information”) when you use our Website. The types of Personally Identifiable Information that we collect may include your name, address, phone number, birth date, billing and delivery information, email address, credit card information, or other financial account information.
+ **3.** **Information We Collect.   **We may collect information that identifies you (“Personally Identifiable Information”) when you use our Website. The types of Personally Identifiable Information that we collect may include your name, address, phone number, birth date, billing and delivery information, email address, credit card information, or other financial account information.
 
 We may also collect other information that you provide to us but that does not identify you personally, such as your media access control (MAC) address, device type, screen resolution, operating system version, and browser type and version.
 
-**4\. Why We Collect Information.   **We may use the information that we collect for any of the following purposes:
+ **4\. Why We Collect Information.   **We may use the information that we collect for any of the following purposes:
 
 4.1.to ensure that the Website functions properly, help us resolve visitor questions about using it, and improve the Website;
 
@@ -32,7 +32,7 @@ We may also collect other information that you provide to us but that does not i
 
 4.7.to investigate and prevent security issues such as unauthorized access to the Website, fraudulent transactions, and other illegal activities.
 
-**5\. Information Sharing and Disclosure.**
+ **5\. Information Sharing and Disclosure.**
 
 5.1.Technologies We Use.  We do not make subscriber or customer lists available to third parties. We may share non-personally identifiable information, such as annual income, buying preferences, age, and other demographic and profile statistics, with advertisers interested in learning more about the Website. If we do so, we will share such information only in an anonymous form that does not contain any personally identifiable information about you or any other person.
 
@@ -42,7 +42,7 @@ We may also set cookies to help us track repeat visits to the Website. Most brow
 
 This Privacy Policy covers our use of cookies and does not cover the use of cookies by any advertisers, each of whom maintain their own privacy policy. We encourage you to review the privacy statements of websites that you may choose to link to from The Whiskey Wash so that you can understand how those websites may collect, use, or share your information. We cannot be responsible for either the privacy practices or the content of any websites that are not affiliated with us.
 
-**6\. How We Collect Information.**
+ **6\. How We Collect Information.**
 
 6.1.Sharing with Others.  We may use one or more of the following technologies to collect Personally Identifiable Information and other information: cookies, flash cookies, general log information, and referral information from third-party websites. We may also use tracking technologies to collect information about your visits to pages within the Website to determine which of the services that we offer are most popular and to deliver customized content and advertising within the Website to users whose visits indicate their interest in particular content.
 
@@ -56,7 +56,7 @@ This Privacy Policy covers our use of cookies and does not cover the use of cook
 
 
 
-**7\. Controls and Choices.**
+ **7\. Controls and Choices.**
 
 7.1.Your Controls and Choices.  We provide you the ability to exercise certain controls and choices regarding our collection, use, and sharing of your Personally Identifiable Information. Your controls and choices may include any or all of the following:
 
@@ -81,17 +81,17 @@ Portland, OR  97232
 
 You may also submit a request for the above information by contacting us by email to nino[at]thewhiskeywash.com.
 
-**8\. Security of Your Information.**
+ **8\. Security of Your Information.**
 
 8.1.Security Measures.  We have put in place physical, electronic, and managerial procedures designed to help prevent unauthorized access, maintain data security, and correctly use the information that we collect. These safeguards vary based on the sensitivity of the information that we collect and store.
 
 8.2.No Security Guarantees.  Although we take appropriate measures to safeguard against unauthorized disclosures of Personally Identifiable Information, we cannot guarantee that such information will never be disclosed, altered or destroyed, in a manner that is inconsistent with this Privacy Policy.
 
-**9\. Changes to Privacy Policy.  ** Although most changes are likely to be minor, we may occasionally change or update our Privacy Policy. We encourage you to frequently check this page to be informed of how we are protecting your privacy. Your continued use of the Website after any change will constitute your acceptance of this Privacy Policy with those changes.
+ **9\. Changes to Privacy Policy.  ** Although most changes are likely to be minor, we may occasionally change or update our Privacy Policy. We encourage you to frequently check this page to be informed of how we are protecting your privacy. Your continued use of the Website after any change will constitute your acceptance of this Privacy Policy with those changes.
 
-**10\. Links to Other Websites.**   The Website contains links to other sites, which may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices. We encourage you to review the privacy statements of websites that you may choose to link to from The Whiskey Wash so that you can understand how those websites collect, use, and share your information. We cannot be responsible for either the privacy practices or the content of any websites that are not affiliated with us.
+ **10\. Links to Other Websites.**   The Website contains links to other sites, which may be operated by companies not affiliated with us. Linked websites may have their own privacy policies or notices. We encourage you to review the privacy statements of websites that you may choose to link to from The Whiskey Wash so that you can understand how those websites collect, use, and share your information. We cannot be responsible for either the privacy practices or the content of any websites that are not affiliated with us.
 
-**11\. Contacting Us.**   You can reach us at:
+ **11\. Contacting Us.**   You can reach us at:
 
 The Whiskey Wash, LLC
 
