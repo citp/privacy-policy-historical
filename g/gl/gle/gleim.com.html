@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the gleim.com privacy policy that was archived on 2015-12-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151215113711id_/https%3A//www.gleim.com/misc/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the gleim.com privacy policy that was archived on 2017-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170129024131id_/http%3A//www.gleim.com/misc/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html><head>
       <meta https-equiv="content-type" content="text/html; charset=UTF-8">
@@ -8,17 +8,20 @@
       <meta name="description" content="The Gleim privacy policy">
       <meta name="format-detection" content="telephone=no">
       
-      <link rel="stylesheet" type="text/css" href="/_stylesheets/default.lm1448981363.css">
-      <link rel="stylesheet" type="text/css" href="/_stylesheets/glmtal.lm1447949094.css">
+      
+      <link rel="stylesheet" type="text/css" href="/_stylesheets/default.lm1484078862.css">
+      <link rel="stylesheet" type="text/css" href="/_stylesheets/ieBanner.lm1474918488.css">
+      <link rel="stylesheet" type="text/css" href="/_stylesheets/glmtal.lm1483459810.css">
       
       <link rel="canonical" href="http://www.gleim.com/misc/privacy.php">
       
       
-      <script async="" src="//web.archive.org/web/20141219162346/http://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/misc/_js/jquery-1.6.2.min.js"></script>
+      <script async="" src="//web.archive.org/web/20170308230116/https://www.google-analytics.com/analytics.js"></script><script async="" src="//web.archive.org/web/20170308230113/https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="/misc/_js/jquery-1.6.2.min.js"></script>
       
          
          <script type="text/javascript" src="/misc/_js/detect.js"></script>
          
+
          <script type="text/javascript" src="/misc/_js/forms.js"></script>
          <script type="text/javascript" src="/misc/_js/gleim_functions.js"></script>
          <script type="text/javascript" src="/misc/_js/jquery.cookie.js"></script>
@@ -31,13 +34,11 @@
       <link rel="apple-touch-icon-precomposed" sizes="114x114" href="/apple-touch-icon-114x114-precomposed.png">
       
       <link rel="apple-touch-icon-precomposed" sizes="144x144" href="/apple-touch-icon-144x144-precomposed.png">
-      
-      
-      
-   <script async="true" type="text/javascript" src="https://web.archive.org/web/20141219114543/https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="//web.archive.org/web/20141219115710/https://d.adroll.com/pixel/ZI5DG3AAMFA7RI2UBWMUMI/EFMIIL4VKNDW3POFFOLEL5?pv=99955856505.85075&amp;cookie=&amp;keyw="></script></head>
+   <script async="true" type="text/javascript" src="https://web.archive.org/web/20170308230112/https://s.adroll.com/j/roundtrip.js"></script><script async="true" type="text/javascript" src="https://d.adroll.com/pixel/ZI5DG3AAMFA7RI2UBWMUMI/EFMIIL4VKNDW3POFFOLEL5?pv=80328569122.12343&amp;cookie=&amp;adroll_s_ref=&amp;keyw="></script></head>
 
 
    <body>
+      <!--sphider_noindex-->
       
 
       <!--do not include header-->
@@ -63,6 +64,8 @@
    <a onclick="$('.loginPopup').hide('100', 'linear'); $('.loginShader').hide()"><div class="loginShader"></div></a>
    <div id="headLoginWithCart">
       
+   <script type="text/javascript" src="/misc/_js/LoginFormValidation.js"></script>
+   <script type="text/javascript" src="/misc/_js/validateLoginForm.js"></script>
    <a class="headLogButton" href="/account/" onclick="$('.loginPopup').show('100', 'linear'); $('#email').focus(); $('.loginShader').show(); return false">
       LOG IN
    </a>
@@ -73,10 +76,12 @@
             <label for="email">Email:</label>
             <input type="text" id="email" name="email" tabindex="50">
             <br>
-            <label for="passBox">Password:</label>
-            <input type="password" id="passBox" name="password" tabindex="51" maxlength="20">
+            <div class="redError" id="invalidEmail"></div>
+            <label for="password">Password:</label>
+            <input type="password" id="password" name="password" tabindex="51" maxlength="20">
             <br>
-            <input type="submit" class="headLogButton" name="signin" alt="Login" value="LOG IN" tabindex="52">
+            <span class="redError" id="invalidPass"></span><br>
+            <input type="submit" class="headLogButton" id="popupLogButton" name="signin" alt="Login" value="LOG IN" tabindex="52">
          </form>
       </div>
       <div id="loginFormRight">
@@ -116,7 +121,7 @@
                
    <div id="topNavPrimary" class="upperNav">
       <ul>
-         <li class="topBtnContainer"><a class="topBtn" href="/accounting/">Accounting Home</a></li>
+         <li class="topBtnContainer"><a class="topBtn" href="/">Accounting Home</a></li>
          <li class="topBtnContainer"><a class="topBtn" href="/aviation/">Aviation Home</a></li>
          <li class="topBtnContainer PRODselect_"><a class="topBtn" href="/products/">Product Catalog</a></li>
          <li class="topBtnContainer CONTselect_"><a class="topBtn" href="/contact/">Contact Us</a></li>
@@ -129,11 +134,13 @@
             <div class="pageGradient">
                <div class="pageLimit">
                   <div class="pageCenterAllContent">
+                     <!--/sphider_noindex-->
                      
    <div class="contentContainerCenter">
       <h1 class="contentTitle">Privacy Policy</h1>
       <p class="contentTitleNote"></p>
       
+      <div class="contentTitleDescriptions"></div>
       <div class="blueSpace"></div>
       
       <p>
@@ -378,6 +385,7 @@
    
    </div>
 
+                     <!--sphider_noindex-->
                      <div class="pageBottomClear"></div>
                   </div>
                </div>
@@ -388,6 +396,9 @@
       <!--without footer section, just add the javascript files-->
       
 
+      <!-- Add welcome popup. -->
+      
+
       <!--with footer section, with conditional feedback box-->
       <div class="behindFooter">
          <div class="pageLimit">
@@ -395,7 +406,7 @@
       <div class="pieceContainer">
          
    <ul class="footList">
-      <li class="footerTitle"><a href="/accounting/">Accounting</a></li>
+      <li class="footerTitle"><a href="/">Accounting</a></li>
       <li><a href="/accounting/cpa/">CPA</a></li>
       <li><a href="/accounting/cia/">CIA</a></li>
       <li><a href="/accounting/cma/">CMA</a></li>
@@ -410,21 +421,24 @@
    <ul class="footList">
       <li class="socialList">
          <a href="https://www.facebook.com/GleimAccounting" target="_blank">
-             <img src="/public/images/icons/facebook_16x16.png" alt="FB" title="Visit the Gleim Facebook Page">
+             <img src="/public/images/icons/facebook_16x16.png" alt="FB" title="Visit the Gleim Accounting Facebook Page">
          </a>
          <a href="https://twitter.com/gleimaccounting" target="_blank">
-            <img src="/public/images/icons/twitter_16x16.png" alt="TW" title="Visit the Gleim Twitter Page">
+            <img src="/public/images/icons/twitter_16x16.png" alt="TW" title="Visit the Gleim Accounting Twitter Page">
          </a>
          <a href="https://www.youtube.com/user/GleimAccounting" target="_blank">
-            <img src="/public/images/icons/youtube_16x16.png" alt="YT" title="Visit the Gleim YouTube Channel">
+            <img src="/public/images/icons/youtube_16x16.png" alt="YT" title="Visit the Gleim Accounting YouTube Channel">
          </a>
          <a href="https://www.linkedin.com/company/gleim-publications" target="_blank">
-            <img src="/public/images/icons/linkedin_16x16.png" alt="LI" title="See the Gleim LinkedIn Profile">
+            <img src="/public/images/icons/linkedin_16x16.png" alt="LI" title="See the Gleim Accounting LinkedIn Profile">
+         </a>
+         <a href="https://www.instagram.com/gleimaccounting/" target="_blank">
+            <img src="/public/images/icons/instagram_16x16.png" alt="IG" title="See the Gleim Accounting Instagram Page">
          </a>
       </li>
       <li><a href="/accounting/student_aids/">Student Study Aids</a></li>
       <li><a href="/accounting/professors/">Professors</a></li>
-      <li><a href="/accounting/reviewproviders.php">Live Reviews</a></li>
+      <li><a href="/accounting/infopacket.php">Info Request</a></li>
       <li><a href="/accounting/demos/">Free Demos</a></li>
       <li><a href="/accounting/systemforsuccess.php">System for Success</a></li>
       <li><a href="/accounting/products.php">Products</a></li>
@@ -443,6 +457,7 @@
       <li><a href="/aviation/pilot_certs/flight_ground.php">Flight/Ground Instructor</a></li>
       <li><a href="/aviation/pilot_certs/airline_transport.php">Airline Transport Pilot</a></li>
       <li><a href="/aviation/pilot_certs/flight_engineer.php">Flight Engineer</a></li>
+      <li><a href="/drones" target="_blank">sUAS Drones</a></li>
    </ul>
 
       </div>
@@ -452,6 +467,8 @@
       <li class="socialList">
          <a href="https://www.facebook.com/gleimaviation" target="_blank">
             <img src="/public/images/icons/facebook_16x16.png" alt="FB" title="Visit Gleim Aviation's Facebook Page"></a>
+         <a href="https://twitter.com/gleimaviation" target="_blank">
+            <img src="/public/images/icons/twitter_16x16.png" alt="TW" title="Visit the Gleim Twitter Page"></a>
          <a href="https://www.youtube.com/user/GleimAviation" target="_blank">
             <img src="/public/images/icons/youtube_16x16.png" alt="YT" title="Visit the Gleim YouTube Channel"></a>
       </li>
@@ -523,30 +540,15 @@
       
    <p class="copyText">
       <a href="/misc/copyright.php" target="_blank"><strong>Copyright</strong></a>
-      &nbsp;©1995-2015
+      &nbsp;©1995-2017
       Gleim Publications, Inc. and/or Gleim Internet, Inc.<br>
       Phone: 800.874.5346 | Fax: 352.375.6940
    </p>
-   <br>
    <span class=""></span>
    <div class="footerSpace"></div>
    
+      <script type="text/javascript" src="/_js/ieBanner.lm1474918488.js"></script>
    
-   <!-- Analytics/Marketing Tracking --><script type="text/javascript" src="/misc/_js/adroll-tracking.js"></script><script type="text/javascript">
-   /* <![CDATA[ */
-   var google_conversion_id = 1072365747;
-   var google_custom_params = window.google_tag_params;
-   var google_remarketing_only = true;
-   /* ]]> */
-</script><script type="text/javascript" src="/misc/_js/google-analytics.js"></script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js"></script>
-<noscript>
-   <div style="display: inline;">
-      <img height="1" width="1" style="border-style: none;" alt=""
-         src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072365747/?value=0&amp;label=rO4ECLqZsQMQs4Gs_wM&amp;guid=ON&amp;script=0"/>
-   </div>
-</noscript><!-- End of Analytics/Marketing Tracking -->
-
 
    </div>
 </div>
@@ -558,5 +560,30 @@
             </div>
          </div>
       </div>
+      
+<!-- Analytics/Marketing Tracking -->
+<script type="text/javascript" src="/_js/site-tracking/adroll.js"></script>
+
+<script type="text/javascript" src="/_js/site-tracking/facebook-tracking.js"></script>
+<noscript>
+   <img height="1" width="1" style="display:none"
+      src="https://www.facebook.com/tr?id=509127552595256&ev=PageView&noscript=1" />
+</noscript>
+
+<script type="text/javascript" src="/_js/site-tracking/google-remarketing.js"></script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js"></script>
+<noscript>
+   <div style="display: inline;">
+      <img height="1" width="1" style="border-style: none;" alt=""
+         src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1072365747/?value=0&amp;label=rO4ECLqZsQMQs4Gs_wM&amp;guid=ON&amp;script=0" />
+   </div>
+</noscript>
+
+<script type="text/javascript" src="/_js/site-tracking/google-analytics.js"></script>
+
+<script type="text/javascript" src="/_js/site-tracking/piwik.js">&#160;</script>
+<!-- End of Analytics/Marketing Tracking -->
+
+      <!--/sphider_noindex-->
    
 </body></html>
