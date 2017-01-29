@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 15five.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413121805id_/http%3A//www.15five.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 15five.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129015208id_/https%3A//www.15five.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - 15Five
 
