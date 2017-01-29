@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 101cookingfortwo.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129232840id_/http%3A//www.101cookingfortwo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101cookingfortwo.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129121759id_/http%3A//www.101cookingfortwo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 101 Cooking For Two
 
@@ -54,4 +54,4 @@ Amazon, the Amazon logo, MYHABIT, and the MYHABIT logo are trademarks of Amazon.
 
 101 Cooking for Two is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to amazon.com.
 
-(Visited 709 times, 1 visits today)
+(Visited 730 times, 3 visits today)
