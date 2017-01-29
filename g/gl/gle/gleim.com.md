@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gleim.com privacy policy that was archived on 2015-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151215113711id_/https%3A//www.gleim.com/misc/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gleim.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129024131id_/http%3A//www.gleim.com/misc/privacy.php) for the most accurate reproduction.*
 
 # Gleim Misc: Privacy Policy
 
