@@ -1,540 +1,469 @@
-<!--The following is the downloaded HTML source of the dancemarathon.com privacy policy that was archived on 2016-03-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160321175147id_/http%3A//childrensmiraclenetworkhospitals.org/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the dancemarathon.com privacy policy that was archived on 2017-01-29.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170129014628id_/https%3A//childrensmiraclenetworkhospitals.org/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="https://www.facebook.com/2008/fbml"><head><meta content="text/html; charset=utf-8" http-equiv="Content-Type"><meta content="IE=8" http-equiv="X-UA-Compatible"><meta property="fb:page_id" content="30410334534"><link type="image/x-icon" href="/favicon.ico" rel="SHORTCUT ICON"><title>
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#" xmlns="http://www.w3.org/1999/xhtml"><!--<![endif]--><head>
+
+	<!-- META -->
+
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<meta name="format-detection" content="telephone=no">
+
+    <!-- <meta name="theme-color" content="#231f20"> -->
+
+	<!-- Chrome, Firefox OS and Opera -->
+	<meta name="theme-color" content="#ffffff">
+	<!-- Windows Phone -->
+	<meta name="msapplication-navbutton-color" content="#ffffff">
+	<!-- iOS Safari -->
+	<meta name="apple-mobile-web-app-capable" content="yes">
+	<meta name="apple-mobile-web-app-status-bar-style" content="#231f20">
+	<link type="image/x-icon" href="https://cdn.putyourmoneywherethemiraclesare.co/icons/favicon.ico" rel="SHORTCUT ICON">
+    
 	
-	Privacy Policy | Children's Miracle Network Hospitals
+    
+	<!-- Twitter Open Graph -->
+	<meta name="twitter:site" content="@CMNHospitals">
+	<meta name="twitter:creator" content="@CMNHospitals">
 
-</title>
-	<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="/Scripts/jquery-1.4.2.min.js" type="text/javascript"></script>
-	<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.4.3/jquery.min.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery-ui-1.8.2.custom.min.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery.cookie.js" type="text/javascript"></script>
-	<script src="/Scripts/cufon-yui.js" type="text/javascript"></script>
-	<script src="/Scripts/AGBookRound.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery-watermark.js" type="text/javascript"></script>
-	<script src="/Scripts/preloadCssImages.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery.maskedinput-1.2.2.js" type="text/javascript"></script>
-	<script src="/Scripts/validationEngine/js/jquery.validationEngine-en.js" type="text/javascript"></script>
-	<script src="/Scripts/validationEngine/js/jquery.validationEngine.js" type="text/javascript"></script>
-	<script src="/Scripts/jquery.validate.js" type="text/javascript"></script>
-	<script src="/Scripts/MicrosoftMvcJQueryValidation.js" type="text/javascript"></script>
-	<link href="/Content/Reset.css" rel="stylesheet" type="text/css">
-	<link href="/Content/StyleSheet.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript" language="javascript">
-		if ($.browser.msie && $.browser.version == 6) {
-			document.writeln('<link href=\'/Content/StyleSheet-IE6.css\' rel="stylesheet" type="text/css" />');
-			document.writeln('<script type="text/javascript" src=/Scripts/iepngfix_tilebg.js><\/script>');
-			document.writeln('<style type="text/css">img, td, div, input{behavior:url(/Content/iepngfix.htc);}<\/style>');
-		}     
-	</script>
-	<link href="/Content/ui-darkness/jquery-ui-1.8.5.custom.css" rel="stylesheet" type="text/css">
-	<link href="/Scripts/validationEngine/css/validationEngine.jquery.css" rel="stylesheet" type="text/css">
-	<script type="text/javascript">
-	    $(document).ready(function () {
+		<!-- Facebook instant article -->
+		<meta property="fb:pages" content="30410334534">
 
-	        //this should never happen, but just in case, if there is no language cookie then set one.
-	        if (document.cookie.indexOf("language") <= 0) {
-	            setCookie('language', 'en-US', 9999, '.childrensmiraclenetworkhospitals.org');
-	        }
+	<!-- LINKS -->
+	<link rel="profile" href="https://gmpg.org/xfn/11">
+	<link rel="pingback" href="https://childrensmiraclenetworkhospitals.org/xmlrpc.php">
 
-			$.preloadCssImages();
-			// Setup the mask for the zipcode box
-			$('#zipcode').mask("99999", { placeholder: " " });
+	<!--[if lt IE 9]><script src="https://html5shim.googlecode.com/svn/trunk/html5.js"></script><![endif]-->
 
-			// Setup the dialog for the hospital search box
-			$('#marketSearch').dialog({
-				autoOpen: false,
-				modal: true,
-				draggable: false,
-				resizable: false,
-				open: function (event, ui) {
-					_gaq.push(['_trackEvent', 'Popups', 'Hospital Search Dialog Opened', 'Site Master']);
-				},
-				width: 600
-			});
-
-			// When the dialog is closed, set a cookie to flag that they
-			// have already been asked to find a hospital this session
-			$('#marketSearch').bind('dialogclose', function (event, ui) {
-				$.cookie('showMarketSearch', 'false');
-			});
-
-			// If the user hasn't been asked to find a hospital this session and they 
-			// don't already have a hospital set, get the list of hospital names, then 
-			// create add those names to the hospital drop down. Open the dialog
-			if ($.cookie('showMarketSearch') == null && $.cookie('hospitalName') == null) {
-				if ($('#hospitalDropDown > option').size() == 1) {
-					$.getJSON('/Home/GetHospitalNames',     // URL
-                        function (data) {                   // Callback
-                        	$.each(data, function (index, value) {
-                        		$('#hospitalDropDown').append($('<option></option').val(value['HospitalFriendlyName']).html(value['HospitalName']));
-                        	});
-
-                        	$('#marketSearch').dialog('open');
-                        }
-                    );
-				}
-			}
-
-			// Set the language selection
-			if ($.cookie('language') == null || $.cookie('language') == 'es-US') {
-				$('#enLang').show();
-				$('#esLang').hide();
-			} else {
-				$('#enLang').hide();
-				$('#esLang').show();
-			}
-		});
-
-		// When the search button is clicked check the value of either the zipcode box
-		// or the hospital name dropdown list
-		function marketSearchClick() {
-			// If it's the hospital dropdown list, ask the server to set a cookie for
-			// the hospital associated with the hospital name
-			if ($('#hospitalDropDown').val() != '') {
-				$.ajax({
-					url: '/Home/SetMarketInfoForHospitalName',
-					data: { hospitalName: $('#hospitalDropDown').val() },
-					success: function () {
-						$('#yourHospitalLink').attr('href', '/Hospital/' + $.cookie('hospitalName'));
-						$('#marketSearch').dialog('close');
-					}
-				});
-			}
-
-			// If it's the hospital dropdown list, ask the server to set a cookie for
-			// the hospital associated with the zipcode
-			if ($('#zipcode').val() != '') {
-				$.ajax({
-					url: '/Home/SetMarketInfoForZipcode',
-					data: { zipcode: $('#zipcode').val() },
-					success: function () {
-						$('#yourHospitalLink').attr('href', '/Hospital/' + $.cookie('hospitalName'));
-						$('#marketSearch').dialog('close');
-					}
-				});
-			}
-		};
-
-		// Set the language cookie for the user and set it to expire along time from 
-		// now & reload the page , domain: '.childrensmiraclenetworkhospitals.org'
-		function ChangeLangauge(lang) {
-		    $.cookie('language', null);
-		    $.cookie('language', null);
-		    var languageDomain = "";
-		    $.getJSON('/Home/GetLangaugeCookieDomain', // URL
-                function (data) {// Callback
-                    languageDomain = data;
-                }
-            );
-
-		    if (languageDomain == null || languageDomain == '') {
-		        $.cookie('language', null);
-		        $.cookie('language', null);
-		        languageDomain = ".childrensmiraclenetworkhospitals.org";
-		    }
-
-		    DeleteCookie('language');
-		    setCookie('language', lang, 9999, languageDomain);
-		    location.reload();
-		}
-
-		function DeleteCookie(name) {
-		    var expires = new Date();
-		    expires.setUTCFullYear(-1);
-		    document.cookie = name + '=; expires=' + expires.toUTCString();
-		}
-
-		function setCookie(cname, cvalue, exdays, languageDomain) {
-		    var d = new Date();
-		    d.setTime(d.getTime() + (exdays * 24 * 60 * 60 * 1000));
-		    var expires = "expires=" + d.toUTCString();
-		    document.cookie = cname + "=" + cvalue + "; " + expires + "; path=/; domain=" + languageDomain + "; true";
-		}
-
-		Cufon.replace('h1');
-		Cufon.replace('h2');
-		Cufon.replace('h3');
-		Cufon.replace('h4');
-		Cufon.replace('.monthDisplay');
-		Cufon.replace('.monthDisplay2');
-		Cufon.replace('.eventTitle');
-		Cufon.replace('.eventDate');
-		Cufon.replace('.moreEvents');
-		Cufon.replace('.cufon');
-	</script>
-	
-	<script type="text/javascript">
-		Cufon.replace('h1');
-		Cufon.replace('h2');
-	</script>
-
-	<script type="text/javascript">
-
-		var _gaq = _gaq || [];
-		_gaq.push(['_setAccount', 'UA-4159481-5']);
-		_gaq.push(['_setDomainName', '.childrensmiraclenetworkhospitals.org']);
-		_gaq.push(['_trackPageview']);
-
-		(function () {
-			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-		})();
-
-	</script>
-
-	</head>
-<body>
-	<!--[if IE 6]>
-		<script type="text/javascript"> 
-			/*Load jQuery if not already loaded*/ if(typeof jQuery == 'undefined'){ document.write("<script type=\"text/javascript\"   src=\"http://ajax.googleapis.com/ajax/libs/jquery/1.3.2/jquery.min.js\"></"+"script>"); var __noconflict = true; } 
-			var IE6UPDATE_OPTIONS = {
-				icons_path: "/Content/Images/ie6update/"
-			}
-		</script>
-		<script type="text/javascript" src="/Scripts/ie6update.js"></script>
-	<![endif]-->
-	<div id="container">
-		<div id="topBar">
-			<span id="enLang" style="color: #FFFFFF" onclick="ChangeLangauge('en-US')">
-				<img src="/Content/Images/langEN.jpg" width="30" height="16" alt="Change Language To English">
-			</span><span id="esLang" style="color: #FFFFFF" onclick="ChangeLangauge('es-US')">
-				<img src="/Content/Images/langES.jpg" width="30" height="16" alt="Cambie el Idioma A español">
-			</span>
-			<div id="donateTop">
-				<a id="linkDonateTop" href="https://donations.childrensmiraclenetworkhospitals.org">
-					<img src="/Content/Images/donateTop.png" width="91" height="22" alt="Donate Today"></a>
-				
-				
-			</div>
 			
-			<div id="search">
-				<form action="/Search" id="SearchForm" method="get">
-    <script type="text/javascript">
-        $(document).ready(function () {
-            $('#q').keydown(function (event) {
-                if (event.keyCode == 13) {
-                    $('#SearchForm').submit();
-                }
-            });
-        });
-    </script>
-    SEARCH  <input class="searchbox" id="q" name="q" type="text" value="">    
-</form></div>
-			<div class="clearFix">
-			</div>
-		</div>
-		<div id="mainBody">
-			<div id="navTopMaster">
-				<a href="/">
-					<img src="/Content/Images/CMNMark.png" class="cmnMark" alt="Children's Miracle Network Hospitals">
-				</a>
-				<div id="navTop">
-					
-<script src="/Scripts/navigation.js" type="text/javascript"></script>
-<script type="text/javascript">
-	$(document).ready(function () {
-		if ($.cookie('hospitalName') != null) {
-			$('#yourHospitalLink').attr('href', '/Hospital/' + $.cookie('hospitalName'));
+	<script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-T782GW"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+		if (self === top) {
+		   var antiClickjack = document.getElementById("antiClickjack");
+		   antiClickjack.parentNode.removeChild(antiClickjack);
+		} else {
+		   top.location = self.location;
 		}
-		else {
-			$('#yourHospitalLink').attr('href', '/Hospital/');
-        }
+	</script>
 
-        if ($.cookie('language') == null || $.cookie('language') == 'es-US') {
-            $('#about').hide();
-            $('#aboutES').show();            
-        } else {
-            $('#aboutES').hide();
-            $('#about').show();
-        }  
-    });        
+	<!-- WP HEAD -->
+
+	<title>Privacy Policy – Children's Miracle Network Hospitals</title>
+
+<!-- This site is optimized with the Yoast SEO plugin v4.1 - https://yoast.com/wordpress/plugins/seo/ -->
+<link rel="canonical" href="https://childrensmiraclenetworkhospitals.org/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:description" content="Privacy Policy What the Privacy Policy Covers/Does Not Cover This policy covers how Children’s Miracle Network Hospitals treats personal information that Children’s Miracle Network Hospitals collects and receives from donors.">
+<meta property="og:url" content="https://childrensmiraclenetworkhospitals.org/privacy-policy/">
+<meta property="og:site_name" content="Children's Miracle Network Hospitals">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:description" content="Privacy Policy What the Privacy Policy Covers/Does Not Cover This policy covers how Children’s Miracle Network Hospitals treats personal information that Children’s Miracle Network Hospitals collects and receives from donors.">
+<!-- / Yoast SEO plugin. -->
+
+<link rel="dns-prefetch" href="//ajax.googleapis.com">
+<link rel="dns-prefetch" href="//cdn.putyourmoneywherethemiraclesare.co">
+<link rel="dns-prefetch" href="//maxcdn.bootstrapcdn.com">
+<link rel="dns-prefetch" href="//cdnjs.cloudflare.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Children's Miracle Network Hospitals » Feed" href="https://childrensmiraclenetworkhospitals.org/feed/">
+<link rel="alternate" type="application/rss+xml" title="Children's Miracle Network Hospitals » Comments Feed" href="https://childrensmiraclenetworkhospitals.org/comments/feed/">
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/childrensmiraclenetworkhospitals.org\/wp-includes\/js\/wp-emoji-release.min.js?ver=c42d9e38f7c52e070d8a875cd4240c8b"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://childrensmiraclenetworkhospitals.org/wp-includes/js/wp-emoji-release.min.js?ver=c42d9e38f7c52e070d8a875cd4240c8b" type="text/javascript" defer=""></script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+<link rel="stylesheet" id="owl-carousel-css" href="https://cdn.putyourmoneywherethemiraclesare.co/scripts/owl-carousel-v2/assets/owl.carousel.css?ver=c42d9e38f7c52e070d8a875cd4240c8b" type="text/css" media="all">
+<link rel="stylesheet" id="ewd-feup-style-css" href="https://childrensmiraclenetworkhospitals.org/wp-content/plugins/front-end-only-users/css/feu-styles.css?ver=c42d9e38f7c52e070d8a875cd4240c8b" type="text/css" media="all">
+<link rel="stylesheet" id="feup-yahoo-pure-css-css" href="https://childrensmiraclenetworkhospitals.org/wp-content/plugins/front-end-only-users/css/feup-pure.css?ver=c42d9e38f7c52e070d8a875cd4240c8b" type="text/css" media="all">
+<link rel="stylesheet" id="ub_adminbar_general_styles-css" href="https://childrensmiraclenetworkhospitals.org/wp-content/plugins/ultimate-branding/ultimate-branding-files/modules/custom-admin-bar-files/css/general.css?ver=1.0" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesomeness-css" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.6.3/css/font-awesome.min.css?ver=c42d9e38f7c52e070d8a875cd4240c8b" type="text/css" media="all">
+<link rel="stylesheet" id="entypo-css" href="https://cdn.putyourmoneywherethemiraclesare.co/fonts/entypo+/style.css?ver=c42d9e38f7c52e070d8a875cd4240c8b" type="text/css" media="all">
+<link rel="stylesheet" id="animate-css" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css?ver=c42d9e38f7c52e070d8a875cd4240c8b" type="text/css" media="all">
+<link rel="stylesheet" id="external-css" href="https://childrensmiraclenetworkhospitals.org/wp-content/themes/cmnh/dist/css/external.min.css?ver=c42d9e38f7c52e070d8a875cd4240c8b" type="text/css" media="all">
+<link rel="stylesheet" id="cmnh-style-css" href="https://childrensmiraclenetworkhospitals.org/wp-content/themes/cmnh/dist/css/default.min.css?ver=c42d9e38f7c52e070d8a875cd4240c8b" type="text/css" media="all">
+      <script>
+      if (document.location.protocol != "https:") {
+          document.location = document.URL.replace(/^http:/i, "https:");
+      }
+      </script>
+      <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.0/jquery.min.js?ver=2.1.0"></script>
+<script type="text/javascript" src="https://cdn.putyourmoneywherethemiraclesare.co/scripts/owl-carousel-v2/owl.carousel.min.js?ver=2.0.0"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var ewd_feup_ajax_translations = {"mismatch_label":"Mismatch","too_short_label":"Too Short","weak_label":"Weak","good_label":"Good","strong_label":"Strong"};
+/* ]]> */
 </script>
-<ul id="navItems">
-	<li id="home" class="navItem"><a href="/">
-		<img id="homeImg" src="/Content/Images/navTop/topNavHome1.png" width="96" height="31" alt="Home" class="topButton" style="padding-left:0;">
-	</a></li>    
-	<li id="about" class="navItem">
-		<img id="aboutImg" src="/Content/Images/navTop/topNavAbout1.png" width="95" height="31" alt="About" class="topButton">
-		<ul class="subNavItems" style="display: none;">
-			<li class="subNavItem"><a href="/About">
-				History
-			</a></li>
-			<li class="subNavItem"><a href="/About/Children">
-				Children We<br>Help
-			</a></li>
-			<li class="subNavItem"><a href="/About/FAQs">
-				FAQs
-			</a></li>
-			<li class="subNavItem"><a href="/About/ExecBios">
-				Executive Bios
-			</a></li>
-			<li class="subNavItem"><a href="/About/Board">
-				Board of<br>Trustees
-			</a></li>
-			<li class="subNavItem"><a href="/About/LegalDocs">
-				Legal Docs
-			</a></li>
-			<li class="subNavItem"><a href="http://jobs.childrensmiraclenetworkhospitals.org/">
-				Employment
-			</a></li>
-			<li>
-			    <img src="/Content/Images/navTop/topNavBottomCap.png" width="95" height="17" class="topNavBottomCap" alt="">
-            </li>
-		</ul>
-	</li>
-    <li id="aboutES" style="display:none" class="navItem">
-		<img id="aboutImgES" src="/Content/Images/navTop/topNavSobreNosotros1.png" width="148" height="31" alt="Sobre Nosotros" class="topButton">
-		<ul class="subNavItemsLong" style="display: none;">
-			<li class="subNavItemLong"><a href="/About">
-				History
-			</a></li>
-			<li class="subNavItemLong"><a href="/About/Children">
-				Children We<br>Help
-			</a></li>
-			<li class="subNavItemLong"><a href="/About/FAQs">
-				FAQs
-			</a></li>
-			<li class="subNavItemLong"><a href="/About/ExecBios">
-				Executive Bios
-			</a></li>
-			<li class="subNavItemLong"><a href="/About/LegalDocs">
-				Legal Docs
-			</a></li>
-			<li class="subNavItemLong"><a href="/About/Employment">
-				Employment
-			</a></li>
-			<li>	
-                <img src="/Content/Images/navTop/topNavBottomCapLong.png" width="148" height="17" class="topNavBottomCap" alt="">	
-            </li>
-		</ul>
-	</li>
-	<li id="hospital" class="navItem"><a id="yourHospitalLink" href="/Hospital">
-		<img id="yourHospitalImg" src="/Content/Images/navTop/topNavYourHospital1.png" width="121" height="31" alt="Your Hospital" class="topButton">
-	</a></li>
-	<li id="partners" class="navItem">
-		<img id="partnersImg" src="/Content/Images/navTop/topNavPartners1.png" width="95" height="31" alt="Partners" class="topButton">
-		<ul class="subNavItems" style="display: none;">
-			<li class="subNavItem"><a href="/Hospital/Search">
-				Hospitals
-			</a></li>
-			<li class="subNavItem"><a href="/Partners/Sponsors">
-				Corporate<br>Partnerships
-			</a></li>
-			<li class="subNavItem"><a href="/Partners/TvRadio">
-				TV &amp; Radio
-			</a></li>
-			<li class="subNavItem"><a href="/Partners/Celebrities">
-				Celebrities
-			</a></li>
-			<li class="subNavItem"><a href="/Partners/Suppliers">
-				Preferred Suppliers
-			</a></li>
-			<li>
-				 <img src="/Content/Images/navTop/topNavBottomCap.png" width="95" height="17" class="topNavBottomCap" alt="">
-            </li>
-		</ul>
-	</li>
-	<li id="media" class="navItem">
-		<img id="mediaImg" src="/Content/Images/navTop/topNavMedia1.png" width="95" height="31" alt="Media" class="topButton">
-		<ul class="subNavItems" style="display: none;">
-			<li class="subNavItem"><a href="/Media/PressRoom">
-				Press Room
-			</a></li>
-			<li class="subNavItem"><a href="/Media/InTheNews">
-				In The News
-			</a></li>
-			<li class="subNavItem"><a href="/Media/Resources">
-				Resources
-			</a></li>
-			<li class="subNavItem"><a href="/Partners/TvRadio">
-				Partners
-			</a></li>
-			<li class="subNavItem"><a href="/About">
-				Corporate Info
-			</a></li>
-			<li>
-				 <img src="/Content/Images/navTop/topNavBottomCap.png" width="95" height="17" class="topNavBottomCap" alt="">
-                </li>
-		</ul>
-	</li>
-	<li id="blog" class="navItem"><a href="http://blog.childrensmiraclenetworkhospitals.org">
-		<img id="blogImg" src="/Content/Images/navTop/topNavBlog1.png" width="96" height="31" alt="Blog" class="topButton">
-	</a></li>
-</ul>
+<script type="text/javascript" src="https://childrensmiraclenetworkhospitals.org/wp-content/plugins/front-end-only-users//js/ewd-feup-check-password-strength.js?ver=c42d9e38f7c52e070d8a875cd4240c8b"></script>
+<link rel="https://api.w.org/" href="https://childrensmiraclenetworkhospitals.org/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://childrensmiraclenetworkhospitals.org/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://childrensmiraclenetworkhospitals.org/wp-includes/wlwmanifest.xml"> 
 
-				</div>
-				<div class="clearFix">
-				</div>
-			</div>
-			<div id="tagLine">
-				<img src="/Content/Images/tagLine.png" width="455" height="51" alt=""></div>
-			<div id="mainContainer">
-				<div id="sideNavLeft">
-					
-	<table width="182" border="0" cellpadding="0" cellspacing="0">
-		<tbody>
-			<tr>
-				<td style="height: 16px; background: url('/Content/Images/leftNavTopCap.png') no-repeat top left;">
-				</td>
-			</tr>
-			<tr>
-				<td id="sideNavLeftItems">
-					<h3 class="noMargin">
-						Privacy Policy</h3>
-					<div class="dashes">
-						-----</div>
-					<ul>
-						<li><span class="active" style="font-weight: bold;">
-							Jump To:</span></li>
-						<li><a href="#coverage">
-							What the Privacy Policy Covers/Does Not Cover</a></li>
-						<li><a href="#collecting">
-							Information Collecting and Use</a></li>
-						<li><a href="#sharing">
-							Information Sharing and Disclosure</a></li>
-						<li><a href="#updating">
-							Correction/Updating Personal Information</a></li>
-						<li><a href="#security">
-							Confidentiality and Security</a></li>
-						<li><a href="#changes">
-							Changes to This Privacy Policy</a></li>
-					</ul>
-					<div class="thickLine">
-					</div>
-					<h3>
-						Privacy Policy Contact</h3>
-					<p style="font-weight: bold; font-size: 12px; margin-bottom: 3px;">
-						Children's Miracle Network Hospitals</p>
-					<p style="margin-bottom: 3px;">
-						Customer Care -<br>
-						Privacy Policy Issues<br>
-						205 West 700 South<br>
-						Salt Lake City, Utah 84101<br>
-						P 801.214.7400<br>
-						F 801.746.6688</p>
-					<p>
-						<a href="/About/ContactUs">
-							Questions? Email Us</a></p>
-				</td>
-			</tr>
-			<tr>
-				<td style="height: 18px; background: url('/Content/Images/leftNavBottomCap.png') no-repeat top left;">
-				</td>
-			</tr>
-		</tbody>
-	</table>
+<link rel="shortlink" href="https://childrensmiraclenetworkhospitals.org/?p=5388">
+<link rel="alternate" type="application/json+oembed" href="https://childrensmiraclenetworkhospitals.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchildrensmiraclenetworkhospitals.org%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://childrensmiraclenetworkhospitals.org/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fchildrensmiraclenetworkhospitals.org%2Fprivacy-policy%2F&amp;format=xml">
+<script>var FEUP_Min_Pass = 3;
+</script>
+            <script>
+                (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+                (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+                m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+                })(window,document,'script','//www.google-analytics.com/analytics.js','gaplusu');
 
-				</div>
-				<div id="mainContent">
-					
-	<div id="privacyPolicy">
-		<h1>
-			Children's Miracle Network Hospitals
-			Privacy Policy</h1>
-		<a name="coverage"></a>
-		<h2 style="margin-top: 30px;">
-			What the Privacy Policy Covers/Does Not Cover</h2>
-		<ul><li><p>This policy covers how CHILDREN'S MIRACLE NETWORK HOSPITALS treats personal information that CHILDREN'S MIRACLE NETWORK HOSPITALS collects and receives from donors. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.</p></li><li><p>This policy does not apply to the practices of local children's hospitals, companies that CHILDREN'S MIRACLE NETWORK HOSPITALS does not own or control, or to people that CHILDREN'S MIRACLE NETWORK does not employ or manage.</p></li></ul>
-		<div class="lightGreyDivider">
-		</div>
-		<a name="collecting"></a>
-		<h2>
-			Information Collecting and Use</h2>
-		<ul><li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS collects personal information when you donate to CHILDREN'S MIRACLE NETWORK HOSPITALS.</p></li><li><p>When you donate, we ask for information such as your name, email address, and zip code. Once you donate to CHILDREN'S MIRACLE NETWORK, you are not anonymous to us.</p></li><li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS automatically receives and records information on our server logs from your browser, including your IP address, and the page you request.</p></li><li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS uses information for the following general purposes: to improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.</p></li></ul>
-		<div class="lightGreyDivider">
-		</div>
-		<a name="sharing"></a>
-		<h2>
-			Information Sharing and Disclosure</h2>
-		<ul><li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS will share your donor contact information with the CHILDREN'S MIRACLE NETWORK HOSPITALS participating hospital selected during the donor's gift designation. The donor is advised to review the receiving institution's privacy policy to see how they will use their donor information.</p><br></li><li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:</p></li><li><ul><li><p>We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;</p></li><li><p>We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of CHILDREN'S MIRACLE NETWORK HOSPITALS's terms of use, or as otherwise required by law.</p></li><li><p>We transfer information about you if CHILDREN'S MIRACLE NETWORK is acquired by or merged with another company. In this event, CHILDREN'S MIRACLE NETWORK HOSPITALS will notify you before information about you is transferred and becomes subject to a different privacy policy.</p></li></ul></li></ul>
-		<div class="lightGreyDivider">
-		</div>
-		<a name="updating"></a>
-		<h2>
-			Correction/Updating Personal Information</h2>
-		<p>You can change your donor information (name, address, etc…) in our database by contacting our customer support team at 801-278-8900, or by clicking <a href="/About/ContactUs">here</a>.</p><p>Donors who have previously opted-in to external communication lists and services, can also use the above contacts to inform CHILDREN'S MIRACLE NETWORK HOSPITALS that you no longer wish to have your personal information shared outside of the organization.</p>
-		<div class="lightGreyDivider">
-		</div>
-		<a name="security"></a>
-		<h2>
-			Confidentiality and Security</h2>
-		<ul><li><p>We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.</p></li><li><p>We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.</p></li><li><p>In certain areas CHILDREN'S MIRACLE NETWORK HOSPITALS uses industry-standard SSL-encryption to protect data transmissions</p></li></ul>
-		<div class="lightGreyDivider">
-		</div>
-		<a name="changes"></a>
-		<h2>
-			Changes to This Privacy Policy</h2>
-		<ul><li><p>CHILDREN'S MIRACLE NETWORK HOSPITALS may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your CHILDREN'S MIRACLE NETWORK HOSPITALS account or by placing a prominent notice on our site.</p></li><li><p>If you have questions or suggestions, please send them to us by clicking <a href="/About/ContactUs">here</a>.</p><p>Children's Miracle Network Hospitals<br>Customer Care - Privacy Policy Issues<br>205 West 700 South<br>Salt Lake City, UT 84101<br>(801) 214.7400<br></p></li></ul>
-	</div>
-	<input type="hidden" id="navHeading" value="home">
+                                                            gaplusu('create', 'UA-4159481-5', 'auto');
+                    
+                                        
+                    gaplusu('send', 'pageview');
+                
+                            </script>
 
-				</div>
-				<div id="sideNavRight">
-					<a id="linkDonateNavRight" href="https://donations.childrensmiraclenetworkhospitals.org">
-						<img src="/Content/Images/sideNavGive.png" height="53" width="116" alt="Give" class="sideButton"></a>
-					<a href="/About"><img src="/Content/Images/sideNavLearn.png" height="53" width="118" alt="Watch" class="sideButton" style="margin:18px 0;"></a>
-					<a href="/Help">
-						<img src="/Content/Images/sideNavHelp.png" height="53" width="116" alt="Help" class="sideButton"></a>
-					
-				</div>
-				<div class="clearFix">
-				</div>
-				<div id="social">
-					<a target="_blank" href="http://www.charitynavigator.org/index.cfm?bay=search.summary&amp;orgid=5756">
-						<img src="/Content/Images/charity-navigator-badge.jpg" alt="Charity Navigator Badge">
-					</a><a id="facebookLink" href="http://www.facebook.com/cmnhospitals">
-						<img src="/Content/Images/facebook.png" height="19" width="19" alt="Like Us On Facebook">
-					</a><a href="http://twitter.com/cmnhospitals">
-						<img src="/Content/Images/twitter.png" height="19" width="19" alt="Follow Us On Twitter">
-					</a><a href="http://www.youtube.com/cmnhospitals">
-						<img src="/Content/Images/youtube.png" height="19" width="19" alt="Watch On YouTube">
-					</a><a href="http://miraclemall.childrensmiraclenetworkhospitals.org/">
-						<img src="/Content/Images/MiracleMall.png" height="19" width="19" alt="Shop at the Miracle Mall">
-					</a><a href="http://pinterest.com/cmnhospitals/">
-						<img src="/Content/Images/pinterest.png" height="19" width="19" alt="Find us on Pintrest">
+		<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//childrensmiraclenetworkhospitals.org/?wordfence_logHuman=1&hid=175131755C7529383870C0151FCE408C');
+</script>			<meta property="fb:pages" content="30410334534">
+			
+    <!-- Check to see if there is an ECode as a query parameter in all pages in the site -->
+    
+	    
+	<!-- Facebook Pixel Code -->
+	<script type="text/javascript">
+	$(document).ready(function($) {
+
+    
+		
+        !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+        n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+        document,'script','https://connect.facebook.net/en_US/fbevents.js');
+        fbq('init', '908922979156226', {
+                });
+        fbq('track', "PageView");
+
+        
+        	});
+	</script>
+	<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=908922979156226&ev=PageView&noscript=1"/></noscript>
+	<!-- End Facebook Pixel Code -->
+
+	<!-- Google Tag Manager -->
+	<script>
+		(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+		new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+		j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+		'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+		})(window,document,'script','dataLayer','GTM-T782GW');
+	</script>
+	<!-- End Google Tag Manager -->
+    
+</head>
+
+<body data-rsssl="1" id="body" class="page-template-default page page-id-5388 template-page" data-country-id="1">
+		<!-- Google Tag Manager (noscript) -->
+		<noscript>
+			<iframe src="https://www.googletagmanager.com/ns.html?id=GTM-T782GW" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+		</noscript>
+		<!-- End Google Tag Manager (noscript) -->
+
+    
+        <input type="hidden" id="page-type-hidden" value="">
+
+		<!-- New Nav -->
+		<nav class="navbar navbar-default navbar-fixed-top hidden-print">
+			<div class="container">
+				<div class="navbar-header">
+					<div id="nav-icon" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar" aria-expanded="false" aria-controls="navbar"><span></span><span></span><span></span><span></span><span></span><span></span></div>
+					<a class="navbar-brand" href="https://childrensmiraclenetworkhospitals.org"><img class="main-logo" src="https://cdn.putyourmoneywherethemiraclesare.co/images/CorporateWebsite/2016/ThemeImages/cmnh-logo.svg" alt="CMN Hospitals"></a>					<a class="searchTrigger" data-toggle="collapse" href="#searchWrap" aria-expanded="false" aria-controls="searchWrap">
+						<i class="entypomagnifying-glass"></i>
 					</a>
 				</div>
+				<div id="navbar" class="navbar-collapse collapse">
+					<ul class="nav navbar-nav navbar-center">
+					
+						<li class="menu-txt"><a data-slug="the-children" href="https://childrensmiraclenetworkhospitals.org/the-children/">The Children</a></li>
+                        <li class="menu-txt"><a data-slug="our-partners" href="https://childrensmiraclenetworkhospitals.org/our-partners/">Our Partners</a></li>
+                        <li class="menu-txt"><a data-slug="how-to-help" href="https://childrensmiraclenetworkhospitals.org/how-to-help/">How To Help</a></li>
+                        <li class="menu-txt"><a data-slug="about-us" href="https://childrensmiraclenetworkhospitals.org/about-us/">About Us</a></li>
+                        <li class="menu-txt"><a data-slug="blog" href="/blog/">Blog</a></li>
+                        <li class="menu-txt menu-btn"><a data-slug="donate" href="" onclick="donateButton();return false;">Donate</a></li>
+						<input id="currentHospID" type="hidden" value="">
+												<li class="pull-right account">
+																					<a data-toggle="collapse" href="#cmnh_campaign_form" aria-expanded="false" aria-controls="cmnh_campaign_form">
+									<img id="header_account_icon" class="user-svg" src="https://cdn.putyourmoneywherethemiraclesare.co/images/CorporateWebsite/2016/ThemeImages/user.svg">
+								</a>
+																			</li>
+					</ul>
+				</div>
 			</div>
-		</div>
-		
-		<div id="footer">
-			©
-			2016
-			Children’s Miracle Network Hospitals,
-			a not-for-profit, section 501(c)(3)<a href="/Privacy">Privacy Policy</a><a href="http://childrensmiraclenetwork.ca">Children's Miracle Network Canada</a><a href="http://m.childrensmiraclenetworkhospitals.org/?viewMode=mobile">Mobile Site</a>
-		</div>
-		<div id="marketSearch">
-			<h1>
-				Find A Hospital</h1>
-			<h2>
-				We would like to match you with the Children's Miracle Network Hospital that you are most interested in, please enter one of the following:</h2>
-			<div class="editor-label">
-				Please enter your zip code:</div>
-			<div class="editor-field">
-				<input id="zipcode" name="zipcode" onfocus="$('#hospitalDropDown').attr('selectedIndex', 0);" style="width: 100px;" type="text" value="">
-			</div>
-			<div class="clearFix">
-			</div>
-			<div class="editor-label">
-				Please choose a Hospital:
-			</div>
-			<div class="editor-field">
-				<select id="hospitalDropDown" onfocus="$('#zipcode').val('');">
-					<option></option>
-				</select>
-			</div>
-			<div class="clearFix">
-			</div>
-			<input type="image" src="/Content/Images/submitButtonSm.png" id="marketSearchButton" value="Set Hospital" onclick="marketSearchClick();" class="button">
+			<div class="container-fluid login-wrap-outer">
+				<input type="hidden" id="_wpnonce" name="_wpnonce" value="80622527c2"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/"><form action="#" method="post" id="cmnh_campaign_form" class="collapse removeThis" enctype="multipart/form-data"><input type="hidden" id="_wpnonce" name="_wpnonce" value="80622527c2"><input type="hidden" name="_wp_http_referer" value="/privacy-policy/"><input type="hidden" name="cmnh-campaign-action" value="login"><div class="login-wrap"><div class="acct-content container"><div class="row"><div class="col-md-5 col-md-offset-1"><div class="input-row"><input type="text" class="float-input" name="Username" required=""><label class="float-label">Email</label></div><div class="input-row"><input type="password" class="float-input" name="User_Password" required="" autocomplete="off"><label class="float-label">Password</label><span id="login_error" class="username-error" style="display:none"></span></div><div class="input-row row"><div class="col-xs-6"><button class="suggested-button red-btn" onclick="login();return false;">Sign In</button></div><div class="col-xs-6"><a href="https://childrensmiraclenetworkhospitals.org/forgot-password">Forgot?</a></div></div></div><div class="col-md-5"><h3>Why Have a CMN Hospital Account?</h3><ul><li>Create fundraising campaigns.</li><li>Manage your recurring donations.</li><li>Keep up to date with your local CMN Hospital.</li></ul><a class="red-txt" href="https://childrensmiraclenetworkhospitals.org/add-account">Create an account <i class="fa fa-arrow-right"></i></a></div></div></div></div></form>			</div>
+			
+<div class="collapse" id="searchWrap">
+    <div id="main-search">
+        <div class="main-search-inner">
+            <form role="search" method="get" id="searchform" class="hover-show" action="https://childrensmiraclenetworkhospitals.org/site-search/">
+                <div class="container">
+                    <div class="row">
+                        <div class="searchform-inner">
+                            <label for="s">Search our library</label>
+                            <input type="text" name="phrase" id="s" autocomplete="off" style="width:100%" value="">
+                            <input id="submit_s" type="submit">
+                            <!-- Other links are populated here. They are a cloned from the footer links in custom.js -->
+                        </div>
+                    </div>
+                </div>
+            </form>
+        </div>
+    </div>
+</div>
+					</nav>
+		<script type="text/javascript">
+			(function ($) {
+				$(document);
+				var $menuItem = $('.navbar-nav a').data('slug'),
+					$currPage = $(location).prop('pathname').split('/')[1];
+
+											$('a[data-slug="'+$currPage+'"]').parent().addClass('active');
+								}(jQuery));
+		</script>
+		<!--/.nav-collapse -->
+
+	<!-- Main Wrapper Start -->
+	<div class="container-fluid" id="content">
+
+	<div class="row" id="primary">
+		<main id="main" class="site-main" role="main">
+
+			<div class="row header-bg priv-policy">
+	<div class="header-bg-sub">
+		<div class="header-bg-sub-inner">
+			<h1>Privacy Policy</h1>
 		</div>
 	</div>
-	<script type="text/javascript">
-		Cufon.now(); 
-	</script>
-	<script type="text/javascript" src="http://assets.pinterest.com/js/pinit.js"></script>
+</div>
+
+
+<div class="row">
+    <div class="container">
+        <div class="priv-policy row-spacing">
+            <p class="generalinfo-title">What the Privacy Policy Covers/Does Not Cover</p>
+            <p>
+                This policy covers how <strong>Children’s Miracle Network Hospitals</strong> treats personal information that <strong>Children’s Miracle Network Hospitals</strong> collects and receives from donors. Personal information is information about you that is personally identifiable like your name, address, email address, or phone number, and that is not otherwise publicly available.
+            </p>
+            <p>
+                This policy does not apply to the practices of local children’s hospitals, companies that <strong>Children’s Miracle Network Hospitals</strong> does not own or control, or to people that Children’s Miracle Network Hospitals does not employ or manage.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row off-white">
+    <div class="container">
+        <div class="priv-policy row-spacing">
+            <p class="generalinfo-title">Information Collection and Use</p>
+            <p>
+                <strong>Children’s Miracle Network Hospitals</strong> collects personal information when you donate to <strong>Children’s Miracle Network Hospitals</strong>.
+            </p>
+            <p>
+                When you donate, we ask for information such as your name, email address, and zip code. Once you donate to Children’s Miracle Network Hospitals, you are not anonymous to us.
+            </p>
+            <p>
+                <strong>Children’s Miracle Network Hospitals</strong> automatically receives and records information on our server logs from your browser, including your IP address, and the page you request.
+            </p>
+            <p>
+                <strong>Children’s Miracle Network Hospitals</strong> uses information for the following general purposes: to improve our services, contact you, conduct research, and provide anonymous reporting for internal and external clients.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="container">
+        <div class="priv-policy row-spacing">
+            <p class="generalinfo-title">Information Sharing and Disclosure</p>
+            <p>
+                <strong>Children’s Miracle Network Hospitals</strong> will share your donor contact information with the <strong>Children’s Miracle Network Hospitals</strong> participating hospital selected during the donor’s gift designation. The donor is advised to review the receiving institution’s privacy policy to see how they will use their donor information.
+            </p>
+            <p>
+                <strong>Children’s Miracle Network Hospitals</strong> does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances:
+            </p>
+            <ul>
+                <li>
+                    <p>
+                        We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims;
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of <strong>Children’s Miracle Network Hospitals</strong>‘s terms of use, or as otherwise required by law.
+                    </p>
+                </li>
+                <li>
+                    <p>
+                        We transfer information about you if Children’s Miracle Network Hospitals is acquired by or merged with another company. In this event, <strong>Children’s Miracle Network Hospitals</strong> will notify you before information about you is transferred and becomes subject to a different privacy policy.
+                    </p>
+                </li>
+            </ul>
+        </div>
+    </div>
+</div>
+
+<div class="row off-white">
+    <div class="container">
+        <div class="priv-policy row-spacing">
+            <p class="generalinfo-title">Correction/Updating Personal Information</p>
+            <p>
+                You can change your donor information (name, address, etc…) in our database by contacting our customer support team at <a href="tel:801-278-8900">801-278-8900</a>, or by clicking <a href="/contact-us/">here</a>.
+            </p>
+            <p>
+                Donors who have previously opted-in to external communication lists and services, can also use the above contacts to inform <strong>Children’s Miracle Network Hospitals</strong> that you no longer wish to have your personal information shared outside of the organization.
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row">
+    <div class="container">
+        <div class="priv-policy row-spacing">
+            <p class="generalinfo-title">Confidentiality and Security</p>
+            <p>
+                We limit access to personal information about you to employees who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
+            </p>
+            <p>
+                We have physical, electronic, and procedural safeguards that comply with federal regulations to protect personal information about you.
+            </p>
+            <p>
+                In certain areas <strong>Children’s Miracle Network Hospitals</strong> uses industry-standard SSL-encryption to protect data transmissions
+            </p>
+        </div>
+    </div>
+</div>
+
+<div class="row off-white">
+    <div class="container">
+        <div class="priv-policy row-spacing">
+            <p class="generalinfo-title">Changes to This Privacy Policy</p>
+            <p>
+                <strong>Children’s Miracle Network Hospitals</strong> may update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your <strong>Children’s Miracle Network Hospitals</strong> account or by placing a prominent notice on our site.
+            </p>
+            <p>
+                If you have questions or suggestions, please send them to us by clicking <a href="/contact-us/">here</a>.
+            </p>
+            <p>
+                </p><address>
+                <strong>Children’s Miracle Network Hospitals</strong><br>
+                Customer Care – Privacy Policy Issues<br>
+                205 West 700 South<br>
+                Salt Lake City, UT 84101<br>
+                <a href="tel:801-214-7400">801-214-7400</a>
+                </address>
+            <p></p>
+        </div>
+    </div>
+</div>
+
+		</main><!-- #main -->
+	</div><!-- #primary -->
+
+
+<!-- #content End -->
+</div>
+
+
+<!-- Primary Footer Start -->
+<aside id="primary-footer" class="hidden-print">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-12">
+							</div>
+		</div>
+	</div>
+</aside>
+<!-- Primary Footer End -->
+<!-- Secondary Footer Start -->
+<footer id="secondary-footer" class="hidden-print">
+	<div class="container">
+		<div class="row">
+			<div class="col-md-4 left">
+				<div class="lang-switcher"><i class="flag-icon flag-icon-us"></i>USA - ENG</div>					<ul class="social-hover">
+						<li><a href="https://facebook.com/CMNHospitals"><span class="fa-stack fa-lg facebook"><i class="fa fa-facebook fa-stack-1x fa-inverse"></i></span></a></li>
+						<li><a href="https://twitter.com/CMNHospitals"><span class="fa-stack fa-lg twitter"><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></span></a></li>
+						<li><a href="https://www.instagram.com/cmnhospitals/"><span class="fa-stack fa-lg instagram"><i class="fa fa-instagram fa-stack-1x fa-inverse"></i></span></a></li>
+						<li><a href="https://www.snapchat.com/add/cmnhospitals"><span class="fa-stack fa-lg"><i class="fa fa-snapchat-ghost fa-stack-1x fa-inverse"></i></span></a></li>
+						<li><a href="https://www.youtube.com/user/cmnhospitals"><span class="fa-stack fa-lg youtube"><i class="fa fa-youtube fa-stack-1x fa-inverse"></i></span></a></li>
+						<li><a href="https://www.linkedin.com/company/cmnhospitals"><span class="fa-stack fa-lg linkedin"><i class="fa fa-linkedin fa-stack-1x fa-inverse"></i></span></a></li>
+					</ul>
+							</div>
+			<div class="col-md-8 right">
+				<div class="row">
+					<div class="col-md-12">
+						<ul class="otherLinks"><li><a href="https://childrensmiraclenetworkhospitals.org/home">CMN Hospitals National</a></li><li><a href="https://childrensmiraclenetworkhospitals.org/privacy-policy/">Privacy Policy</a></li><li><a href="https://childrensmiraclenetworkhospitals.org/financials/">Financials</a></li><li><a href="https://workforcenow.adp.com/jobs/apply/posting.html?client=cmnhosp&amp;ccId=19000101_000001&amp;type=MP&amp;lang=en_US">Careers</a></li><li><a href="https://newsroom.childrensmiraclenetworkhospitals.org/" target="_blank">Newsroom</a></li><li><a href="https://childrensmiraclenetworkhospitals.org/contact-us/">Contact</a></li></ul>					</div>
+				</div>
+				<div class="row">
+					<div class="col-md-12">
+						
+								<address>
+									<a href="https://goo.gl/maps/Ju3HywiogmK2" target="_blank">
+										<i class="fa fa-map-marker" aria-hidden="true"></i>
+										205 West 700 South Salt Lake City, UT 84101
+									</a>
+								</address>													<p class="copyright">© 2017 Children’s Miracle Network Hospitals, a not-for-profit, section 501(c)(3)</p>
+											</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</footer>
+<!-- Secondary Footer End -->
+<a id="back-to-top" href="#top"><span class="entypochevron-up"></span></a>
+
+<script type="text/javascript" src="https://childrensmiraclenetworkhospitals.org/wp-content/themes/cmnh/dist/js/external.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://childrensmiraclenetworkhospitals.org/wp-content/themes/cmnh/dist/js/variables.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://childrensmiraclenetworkhospitals.org/wp-content/themes/cmnh/dist/js/custom.min.js?ver=1.0.0"></script>
+<script type="text/javascript" src="https://childrensmiraclenetworkhospitals.org/wp-includes/js/wp-embed.min.js?ver=c42d9e38f7c52e070d8a875cd4240c8b"></script>
+
+
 
 
 </body></html>
