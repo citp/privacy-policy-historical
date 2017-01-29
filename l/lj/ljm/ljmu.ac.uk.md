@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ljmu.ac.uk privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412233613id_/https%3A//www.ljmu.ac.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ljmu.ac.uk privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130003525id_/https%3A//www.ljmu.ac.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and cookies | Liverpool John Moores University
 
@@ -8,7 +8,7 @@
 
 Liverpool John Moores University deals with all personal information in a responsible manner that respects personal privacy.
 
-The University is registered as a Data Controller with the office of the Information Commissioner as required under the Data Protection Act 1998.  The University will only process personal data in accordance with the Data Protection Act and for the purposes notified to the Information Commissioner. The University policy can be found under About Us - [Public Information](https://web.archive.org/about-us/public-information/data-protection-and-freedom-of-information-and-public-sector-information/data-protection).
+The University is registered as a Data Controller with the office of the Information Commissioner as required under the Data Protection Act 1998.  The University will only process personal data in accordance with the Data Protection Act and for the purposes notified to the Information Commissioner. The University policy can be found under About Us - [Public Information](https://web.archive.org/about-us/data-protection).
 
 #### Cookies
 
