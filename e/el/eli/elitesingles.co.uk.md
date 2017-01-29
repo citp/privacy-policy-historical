@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elitesingles.co.uk privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612071225id_/http%3A//www.elitesingles.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitesingles.co.uk privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129082835id_/https%3A//www.elitesingles.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | EliteSingles
 
@@ -76,13 +76,15 @@ e) Education
 f) Occupation  
 g) Income
 
-During the personality test you will be asked to answer a series of personal questions (eg. partner preferences, personal characteristics and desired traits in a partner). Information such as ethnicity or religion is called sensitive personal data. Without your consent, this information may not be divulged. We collect this data and other profile information (eg. interests and preferences), because they are the basis of our matching service and the basis of your ELITESINGLES profile. Direct contact information (eg. e-mail address, postal code) does not appear on the profile and is therefore not visible to other members. 
+During the personality test you will be asked to answer a series of personal questions (eg. partner preferences, personal characteristics and desired traits in a partner). Information such as ethnicity or religion is called sensitive personal data, which is subject to increased legal protection and protected by us with increased technological care. Without your consent, this information may not be divulged. We collect this data and other profile information (eg. interests and preferences), because they are the basis of our matching service and the basis of your ELITESINGLES profile. Direct contact information (eg. e-mail address, postal code) does not appear on the profile and is therefore not visible to other members. 
 
 **If you purchase an ELITESINGLES Paid Membership, the following data is collected during the payment process:**
 
 a) First and Last Name  
 b) Bank account details or credit card information  
 c) Home address
+
+Your payment data is processed by our payment service provider Adyen GmbH, Hackescher Markt 4, 10178 Berlin, Germany ("Adyen"). To facilitate payment processing your payment information is stored and made available when making further orders of premium memberships. The payment data is available only after the initial payment is completed, and is shown shortened for your protection. Of course you can add new payment methods for checkout. For questions or concerns, and to enforce the Clause 5 rights listed, please call the number below Clause 5. The provided EliteSingles contact information.
 
 **To log in on EliteSingles you use your specified e-mail address and your chosen password. During every visit to the EliteSingles service, utilisation data is forwarded by your Internet browser and stored in log files called Server Log Files. This data contains:**
 
@@ -104,7 +106,7 @@ The collection of personal data at EliteSingles is done principally with the aim
 
 **In the following, the use of personal data is described in more detail:**
 
-a) Other members can see your profile information and entries on the EliteSingles page. Premium and Premium Plus members can also see the photos you upload on EliteSingles.
+a) Other members can see your profile information and entries on the EliteSingles page. Premium members can also see the photos you upload on EliteSingles.
 
 b) Your profile - and thus your profile information and uploaded photos - is suggested to other members as part of our matching method. The matching can be switched off in your account. When switched off, your profile will not be suggested to any other members and at the same time you do not get any partner suggestions.
 
@@ -119,18 +121,19 @@ e) EliteSingles sends various notifications via email to every registered user.
   * iii. Information messages pertaining to the service, such as the confirmation of customer service and information on the release of images and texts, and on the conclusion of a paid membership, in the form of contract documents, payment processing information, etc., are part of our service and therefore cannot be cancelled.
   * iv. We would also like to inform you via e-mail about EliteSingles Partner offers and events. To protect you and EliteSingles from abuse, we introduced the"double opt-in" procedure, i.e. you only receive the newsletter, if you have ordered it by e-mail or in your user account and confirmed your email address. You can unsubscribe at any time by deactivating this either in the message options, or by following the unsubscribe process in the newsletter.
   * v. If you change your message options, it can take up to 48 hours before it is activated. Nevertheless, depending on the message options, the cancellation is still successful, and after this period you will receive no additional messages from us.
+  * vi. We hereby notify you that we carry out statistical analysis on opening and viewing behavior of our emails. This is done with the help of small graphics that are embedded in the messages (called pixels). If you do not wish to have your viewing behavior analysed, you can disable graphics by default in your email client. For more information, please see instructions offered in your email client, i.e. Microsoft Outlook or Mozilla Thunderbird. Once images are deactived, the messages are not displayed in full, and message functionality may be limited.
 
 
 
 f) EliteSingles sets a filter to protect users from unsolicited mail. For example, automatic filters prevent the sending of messages with certain pay numbers or certain inappropriate keywords.
 
-g) Identity Verification: Premium Plus members can send a copy of their identity card by e-mail, fax or post, along with their additional security code to us. Our customer care then checks whether certain information (e.g. date of birth) coincide with the date of birth on the identity card displayed on the website. Upon successful identity verification, the profile is marked with a symbol. EliteSingles does not store the ID copies and destroys them after identity verification.
+g) Identity Verification: Premium members can send a copy of their identity card by e-mail, fax or post, along with their additional security code to us. Our customer care then checks whether certain information (e.g. date of birth) coincide with the date of birth on the identity card displayed on the website. Upon successful identity verification, the profile is marked with a symbol. EliteSingles does not store the ID copies and destroys them after identity verification.
 
 **Features:**
 
 a) Under the photos and entries of other profiles there is a “Like" button that can be clicked. With the "Like" function, you can express that you like statements or pictures in the profile of another member with one click. As a consequence, the other member is notified. In your own profile you can see how many members like a particular text field or photo of you. You can also see which members have clicked "Like" on a certain profile element.
 
-b) “Message Read”: Premium Plus members can use this function to detect whether their messages have been clicked on by the recipient. When a message is clicked by the recipient, the sender gets a message about the time it was accessed. You can disable this feature allows in the user account.
+b) “Message Read”: Premium members can use this function to detect whether their messages have been clicked on by the recipient. When a message is clicked by the recipient, the sender gets a message about the time it was accessed. You can disable this feature allows in the user account.
 
 c) Import photos from Facebook: If you have a user profile on Facebook, you can transfer photos from this profile to your EliteSingles profile. To do this you must click on the appropriately labeled button to connect to Facebook and log in there with your Facebook user data. After successful login a window will appear were all your Facebook user account pictures are stored. You can select up to 24 photos and import them into your EliteSingles profile.
 
@@ -159,13 +162,13 @@ Most browsers are initially set to accept cookies. However, you can configure yo
 EliteSingles uses session cookies, partner and affiliate cookies and permanent cookies:  
 a) Session Cookies are not stored on your hard drive and are deleted when the browser is closed. Session cookies are used for login authentication and to balance the system load. b) Partner and Affiliate Cookies are used if you access our services via an external advertising space. These cookies are used to settle accounts with the cooperation partners and do not contain personal information from you. c) Permanent cookies are used to save your personal settings. This allows for personalisation and improves the EliteSingles service, because you are able to find your personal settings again on subsequent visits.
 
-### V. Use of (Google) Universal Analytics
+### V. Use of Google Universal Analytics
 
-EliteSingles analyses members’ online behavior. We create anonymous user profiles in order to improve our service to you. For this we use Google Analytics, among other things (with the feature Universal Analytics), a web analytics service provided by Google Inc. ("Google"), but with the extension "_anonymizeIp ()".  Only the shortened IP addresses are processed, excluding direct reference to individuals.
+EliteSingles analyses members’ online behavior. We create anonymous user profiles in order to improve our service to you. For this we use Google Analytics, among other things (with the feature Universal Analytics), a web analytics service provided by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA ("Google"), but with the extension "_anonymizeIp ()".  Only the shortened IP addresses are processed, excluding direct reference to individuals.
 
-The information generated by the cookie about your use of the website (including your IP address) will be transmitted to a Google server in the USA and stored there. Google will use this information to evaluate your use of the website, compiling reports on website activity for website operators and providing others with website and internet related services. Google may also transfer this information to third parties unless required by law or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. We point out, however, that you may not be able to use all features of this website in this case. By using this site, you agree to the processing of data about you by Google in the manner described above and for the aforementioned purpose.
+The information generated by the cookie about your use of the website will be transmitted to a Google server in the USA and stored there. Google will use this information to evaluate your use of the website, compiling reports on website activity for website operators and providing others with website and internet related services. Reports created by Google contain demographic and interests data that have been based on your interaction with advertisements, or your visits to sites of advertisements. Google may also transfer this information to third parties unless required by law or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. We point out, however, that you may not be able to use all features of this website in this case.
 
-You can object to the collection and analysis of your use of the Service (Google) Universal Analytics. Please use the browser add-on to disable (Google) Universal Analytics.
+You can object to the collection and analysis of your use of the Service Google Universal Analytics. Please use the browser add-on to disable Google Universal Analytics.
 
 For more information on Terms of Use and Privacy Policy can be found at:
 
@@ -226,7 +229,7 @@ Kohlfurter Strasse 41/43
 10999 Berlin
 
   E-Mail: security@ELITESINGLES.co.uk  
-Fax: 01805 – 777 449
+Fax: +49 30 991 949 5 32 
 
 Please note that in case of an objection against the use of certain data, it may be impossible to provide some or all of the services we offer on the EliteSingles platform. We are at your disposal for any questions about this.
 
@@ -241,9 +244,9 @@ Kohlfurter Strasse 41/43
 10999 Berlin
 
   E-Mail: security@ELITESINGLES.co.uk  
-Fax: 01805 – 777 449
+Fax: +49 30 991 949 5 32 
 
-Most of the information that you can see on your account you can change or delete yourself. Please only use this service if it is for information you cannot
+Most of the information that you can see on your account you can change or delete yourself. Please only use this service if it is for information you cannot change yourself. 
 
 ## 6\. Further information
 
