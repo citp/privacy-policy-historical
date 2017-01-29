@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the magiccardmarket.eu privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413042518id_/https%3A//www.magiccardmarket.eu/Help/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magiccardmarket.eu privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129195935id_/https%3A//www.magiccardmarket.eu/Help/Privacy_Policy) for the most accurate reproduction.*
 
 # Help | MagicCardMarket
 
-Our website uses cookies to help provide you with the best experience we can. By using our services, you agree that we use cookies. [More information](https://web.archive.org/web/20160413042518id_/https%3A//www.magiccardmarket.eu/Help/Help/Privacy_Policy)
+Our website uses cookies to help provide you with the best experience we can. By using our services, you agree that we use cookies. [More information](https://web.archive.org/web/20170129195935id_/https%3A//www.magiccardmarket.eu/Help/Help/Privacy_Policy)
 
   
 This is a translation into english of the Privacy Policy from 01/08/2014 of Sammelkartenmarkt Limited und Co. KG, Nordkapstr. 4, 10439 Berlin - hereinafter called "Provider". The english version is for informal purposes only. For all legal matters only the german version is to be considered. 
