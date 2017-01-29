@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the beeradvocate.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123063420id_/https%3A//www.beeradvocate.com/community/threads/privacy-policy.393415) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beeradvocate.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129170313id_/https%3A//www.beeradvocate.com/community/threads/privacy-policy.393415) for the most accurate reproduction.*
 
 # General - Privacy Policy | Community | BeerAdvocate
 
 [ ](https://www.beeradvocate.com/)
 
-  1. > **BeerAdvocate.com Privacy Policy**
+  1. [](https://web.archive.org/web/20170129170313id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/beeradvocate.1/)
+
+### 
+
+[BeerAdvocate](https://web.archive.org/web/20170129170313id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/beeradvocate.1/) _Founders (17,470)_ _Aug 23, 1996_ _Massachusetts_
+
+_**Subscriber**_
+
+> **BeerAdvocate.com Privacy Policy**
 > 
 > This privacy policy discloses the privacy practices for this web site ("Service"), and applies solely to information collected by this Service.
 > 
@@ -50,7 +58,7 @@
 > 
 > If you feel that we are not abiding by this privacy policy, you should [contact us immediately](http://www.beeradvocate.com/contact/). 
 
-[Duffman79](https://web.archive.org/web/20161123063420id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/duffman79.762066/) and [jhavs](https://web.archive.org/web/20161123063420id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/jhavs.975431/) like this. 
+[Duffman79](https://web.archive.org/web/20170129170313id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/duffman79.762066/) and [jhavs](https://web.archive.org/web/20170129170313id_/https://www.beeradvocate.com/community/threads/privacy-policy.393415/members/jhavs.975431/) like this. 
 
 
 
