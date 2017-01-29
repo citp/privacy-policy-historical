@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theactivetimes.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225132318id_/http%3A//www.theactivetimes.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theactivetimes.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129210435id_/http%3A//www.theactivetimes.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Active Times
 
