@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thedoctorweighsin.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119181351id_/https%3A//thedoctorweighsin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thedoctorweighsin.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129011604id_/https%3A//thedoctorweighsin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Doctor Weighs In
 
@@ -27,7 +27,7 @@ This policy applies to all personally identifiable information that we collect a
 
 ##### **Accessing or changing your information**
 
-You may view or change your information at any time by contacting us via email at [info@thedoctorweighsin.com](https://thedoctorweighsin.com/contact/).
+You may view or change your information at any time by contacting us via email at [info@thedoctorweighsin.com](http://thedoctorweighsin.com/contact/).
 
 You can also engage with our content, such as video, games, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When you engage with our content on or through third party social networking sites, plug-ins, and applications, you may allow us to have access to certain information from your social media profile (e.g., your name, e-mail address, photo, gender, birthday, location, list of friends, people you follow and/or who follow you, the posts or the ‘likes’ you make) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (e.g., content viewed, games played and performance, high scores, and information about advertisements within the content you have been shown or may have clicked on) from your interaction with our content.
 
@@ -64,7 +64,7 @@ We use your personal information to provide you with products or services that y
 
 ##### **Updating or removing your personal information**
 
-Please contact us at any time to update or change your personal information via an email to [info@thedoctorweighsin.com](https://thedoctorweighsin.com/contact/). ** **
+Please contact us at any time to update or change your personal information via an email to [info@thedoctorweighsin.com](http://thedoctorweighsin.com/contact/). ** **
 
 ##### **How we share your personal information**
 
@@ -80,11 +80,11 @@ We will not share with third parties the personal information you provide except
 
 Examples of us sharing your personal information for the purposes submitted are if you participate in a third-party survey or request information from a third-party; we may provide the information provided to such third party so that they can send to you directly the information you requested. We will seek to obtain your consent at the place where the information is collected either by an “opt-in” or “opt-out” method, or by other means (i.e., sending to you an e-mail). However, if we pass on personal information to an Affiliate, we require that it protect such information in a manner that is consistent with this policy.
 
-If you want us to stop sharing your personal information among The Doctor Weighs In Affiliates, please contact us via [info@thedoctorweighsin.com](https://thedoctorweighsin.com/contact/).
+If you want us to stop sharing your personal information among The Doctor Weighs In Affiliates, please contact us via [info@thedoctorweighsin.com](http://thedoctorweighsin.com/contact/).
 
 Additionally, with your consent, we may share the personal information you provide online with companies not affiliated with us (i.e., third party companies) who are interested in marketing their products or services to you or in asking you questions, both online and offline. We will seek to obtain your consent either by an “opt-in” or “opt-out” method, or by other means (i.e., sending to you an e-mail). Companies with whom we might share your personal information may include consumer products, telecom, financial, military, market research, entertainment, and educational services companies and their third party service providers.
 
-If you want us to stop sharing your personal information with these companies, please contact us at [info@thedoctorweighsin.com](https://thedoctorweighsin.com/contact/).
+If you want us to stop sharing your personal information with these companies, please contact us at [info@thedoctorweighsin.com](http://thedoctorweighsin.com/contact/).
 
 If you consent to receiving communications from non-affiliated companies, you may need to communicate with them directly if you later decide that you no longer wish to receive their communications or if you wish to change any data you provided online. In this instance, any changes or amendments to your personal information must be given directly to each company who communicates with you as these changes, amendments, and/or deletions will not be exchanged between us and non-affiliated companies. If we do share personal information with a non-affiliated company, to the extent practical, we require that they protect such information in a manner that is consistent with this policy. We cannot, however, guarantee how these non-affiliated companies will use your personal information.
 
@@ -134,7 +134,7 @@ We believe we have in place the appropriate physical, electronic, and managerial
 
 Under California Civil Code Section 1798.83, if you are a resident of California, you may make a written request to the Site about how we have shared your personal information during the prior calendar year with third parties for their direct marketing purposes. In response to your written request, under California Civil Code Section 1793.83(c)(2), the Site is allowed to instead provide you with a cost-free means to opt-out of such sharing, or a “Customer Choice Notice”.
 
-The Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the [info@thedoctorweighsin.com](https://thedoctorweighsin.com/contact/). Within 30 days of receiving your request, the Site will provide you with a Customer Choice Notice.
+The Site has chosen to provide you with a cost-free means to opt-out of such sharing. If you would like to exercise your rights under California law, please send your written request to the [info@thedoctorweighsin.com](http://thedoctorweighsin.com/contact/). Within 30 days of receiving your request, the Site will provide you with a Customer Choice Notice.
 
 The California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how the Site responds to “Do Not Track” browser settings. The Site does not currently take action to respond to Do Not Track signals, as a uniform technological standard has not yet been developed. We continue to review new technologies and reserve the right to adopt a standard once one is created.
 
@@ -150,7 +150,7 @@ This policy and our legal obligations are subject to the laws of the State of Ca
 
 ##### **How you can access or correct your personal information**
 
-For instructions on how you can access the personal information that we have collected about you online, or how to correct any errors in such information, please contact us via email to [info@thedoctorweighsin.com](https://thedoctorweighsin.com/contact/).
+For instructions on how you can access the personal information that we have collected about you online, or how to correct any errors in such information, please contact us via email to [info@thedoctorweighsin.com](http://thedoctorweighsin.com/contact/).
 
 To protect your privacy and security, we will take reasonable steps to help verify your identity before granting access or making corrections.
 
@@ -170,4 +170,4 @@ Your continued use of the Site following the posting of any changes to this poli
 
 **How to contact us**
 
-If you have any questions or concerns about this privacy policy you may contact us via email to [info@thedoctorweighsin.com](https://thedoctorweighsin.com/contact/).
+If you have any questions or concerns about this privacy policy you may contact us via email to [info@thedoctorweighsin.com](http://thedoctorweighsin.com/contact/).
