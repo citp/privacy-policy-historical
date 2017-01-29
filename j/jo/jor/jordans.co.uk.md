@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jordans.co.uk privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224123330id_/http%3A//www.jordans.co.uk/about/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jordans.co.uk privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129235929id_/http%3A//www.jordans.co.uk/about/privacy-and-cookies) for the most accurate reproduction.*
 
 # Privacy and Cookies - Jordans
 
@@ -38,7 +38,7 @@ If you do not wish to receive such information, please write to the Head of Mark
  
 
 **How we share your personal information**  
-We may share your personal information with other companies in our group, including Jordan Publishing Limited, Jordans (Scotland) Limited, Jordans Corporate Law Limited and our overseas offices (full details of which are available on our website), for any of the above purposes and with those with whom we are co-presenting any training session or event (in which case the use by our co-presenters will be restricted to arranging and publicising the event).  
+We may share your personal information with other companies in our group, including Jordans (Scotland) Limited, Jordans Corporate Law Limited and our overseas offices (full details of which are available on our website), for any of the above purposes and with those with whom we are co-presenting any training session or event (in which case the use by our co-presenters will be restricted to arranging and publicising the event).  
  
 
 In order to provide services to you we may be required to pass your personal information to parties located outside of the European Economic Area in countries which do not have data protection laws equivalent to those in the UK. Where this is the case we will take reasonable steps to ensure the privacy of your information.  
