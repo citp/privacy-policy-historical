@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the yoshop.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119122731id_/http%3A//www.yoshop.com/article/privacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoshop.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129100257id_/https%3A//www.yoshop.com/article/privacy-policy.html) for the most accurate reproduction.*
 
-# privacyPolicy| Yoshop
+# Privacy Policy | Yoshop
 
 ### Privacy Policy
 
@@ -35,4 +35,5 @@ We send email content to our customers that may include following: Transaction m
 You can unsubscribe by using the link from any email newsletter or your personal subscribe setting after logged in. 
 
     Email: support@yoshop.com
-     Phone: (646)340-9762
+    Phone:（+1）866 990 1222 --- US Customers only
+                 (+001)866 990 1222 --- International Customers
