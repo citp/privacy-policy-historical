@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markmanson.net privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122171849id_/https%3A//markmanson.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markmanson.net privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129065918id_/https%3A//markmanson.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mark Manson
 
