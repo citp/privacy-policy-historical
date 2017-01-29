@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rtbookreviews.com privacy policy that was archived on 2016-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160707144919id_/https%3A//www.rtbookreviews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rtbookreviews.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129195059id_/https%3A//www.rtbookreviews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RT Book Reviews
 
