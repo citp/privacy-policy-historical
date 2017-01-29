@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jet.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103235534id_/https%3A//jet.com/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jet.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129093740id_/https%3A//jet.com/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice | Jet.com
 
