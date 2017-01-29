@@ -1,100 +1,71 @@
-> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029105625id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godeals.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129090938id_/https%3A//www.bradsdeals.com/privacy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Brad's Deals Privacy Policy
 
-**GoDaddy Respects Your Privacy**
+Our Privacy Policy was developed as an extension of our commitment to combine the highest-quality products and services with the highest level of integrity in dealing with our clients and partners. The Policy is designed to assist you in understanding how we collect, use and safeguard the personal information you provide to us and to assist you in making informed decisions when using our site and our products and services. This statement will be continuously assessed against new technologies, business practices and our customers' needs. 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+##  What Information Do We Collect? 
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+When you visit our Web site you may provide us with two types of information: personal information you knowingly choose to disclose that is collected on an individual basis and Web site use information collected on an aggregate basis as you and others browse our Web site. 
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+### 1\. Personal Information You Choose to Provide
 
-**Information Collection and Use**
+Credit Card Information 
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+If you choose to purchase products or services from our partners, you may need to give personal information and authorization to obtain information from various credit services. For example, you may need to provide the following information: 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+  * Name
+  * Mailing address
+  * Email address
+  * Credit card number
+  * Home and business phone number
+  * Other personal information (i.e. mother's maiden name)
+  * Email Information
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+In addition to providing the foregoing information to our partners, if you choose to correspond further with us through email, we may retain the content of your email messages together with your email address and our responses. We provide the same protections for these electronic communications that we employ in the maintenance of information received by mail and telephone. 
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+### 2\. Web Site Use Information
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+Similar to other commercial Web sites, our Web site utilizes a standard technology called "cookies" (see explanation below, "What Are Cookies?") and Web server logs to collect information about how our Web site is used. Information gathered through cookies and Web server logs may include the date and time of visits, the pages viewed, time spent at our Web site, and the Web sites visited just before and just after our Web site. This information is collected on an aggregate basis. None of this information is associated with you as an individual. 
 
-**Security**
+## How Do We Use the Information That You Provide to Us?
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.  We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it.  No method of transmission over the Internet, or method of electronic storage, is 100% secure, however.  Therefore, we cannot guarantee its absolute security.
+Broadly speaking, we use personal information for purposes of administering our business activities, providing customer service and making available other products and services to our customers and prospective customers. Occasionally, we may also use the information we collect to notify you about important changes to our Web site, new services and special offers we think you will find valuable. The lists used to send you product and service offers are developed and managed under our traditional corporate standards designed to safeguard the security and privacy of our customers' personal information. As a customer, you will be given the opportunity, at least once annually, to notify us of your desire not to receive these offers. 
 
-**Updating Your Information**
+What Are Cookies? Cookies are a feature of Web browser software that allows Web servers to recognize the computer used to access a Web site. Cookies are small pieces of data that are stored by a user's Web browser on the user's hard drive. Cookies can remember what information a user accesses on one Web page to simplify subsequent interactions with that Web site by the same user or to use the information to streamline the user's transactions on related Web pages. This makes it easier for a user to move from Web page to Web page and to complete commercial transactions over the Internet. Cookies should make your online experience easier and more personalized. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+## How Do We Use Information We Collect from Cookies?
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users' browsing activities, in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective customers. 
 
-       ii.      You may send mail to GoDaddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site's visitor capacity. We do not use these technologies to capture your individual email address or any personally identifying information about you although they do permit us to send focused online banner advertisements or other such responses to you. 
 
-      iii.      You may call us at: (480) 505-8800
+## How Do We Protect Your Information?
 
-       iv.      You may fax us at: (480) 505-8844
+Information Security. We utilize encryption/security software to safeguard the confidentiality of personal information we collect from unauthorized access or disclosure and accidental loss, alteration or destruction. 
 
-**Sending Emails**
+Evaluation of Information Protection Practices. Periodically, our operations and business practices are reviewed for compliance with corporate policies and procedures governing the security, confidentiality and quality of our information. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Employee Access, Training and Expectations. Our corporate values, ethical standards, policies and practices are committed to the protection of customer information. In general, our business practices limit employee access to confidential information, and limit the use and disclosure of such information to authorized persons, processes and transactions. 
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+## Communication Opt Out
 
-**Compliance with Laws and Law Enforcement**
+If you wish to opt out of receiving offers directly from Brad's Deals LLC network or business partners, you can [unsubscribe](https://web.archive.org/me/unsubscribe) or follow the opt-out instructions in the emails that they send you located at the footer of the communication. We can be reached by postal mail at 6115 Estate Smith Bay Suite 315 St. Thomas, VI 00802, or by phone at 877.970.0707. You can email us at suggestions@bradsdeals.com with questions, comments or suggestions. 
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+## Do We Disclose Information to Outside Parties?
 
-**Third Party Service Providers**
+We allow third-party companies to collect certain information when you visit both our web site and emails. These companies may utilize cookies, pixels or other technologies to collect and use non-personally identifiable information (e.g., hashed data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other web sites in order to provide advertisements about goods and services likely to be of greater interest to you on unaffiliated websites, apps, online service for advertising, analytics, attribution, reporting, and targeted emails based items viewed on a particular website. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [www.aboutads.info](http://www.aboutads.info/) and Networking Advertising Initiative at [www.networkadvertising.org/choices/](http://www.networkadvertising.org/choices/). 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+We may provide aggregate information about our customers, sales, web site traffic patterns and related web site information to our affiliates or reputable third parties, but this information will not include personally identifying data. Personally identifiable information will only be shared if the personally identifiable information has been freely given by the user to both Brad’s Deals and the third party, and as otherwise provided in this Privacy Policy. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel GIF or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+## What About Legally Compelled Disclosure of Information?
 
-**Supplementation of Information**
+We may disclose information when legally compelled to do so, in other words, when we, in good faith, believe that the law requires it or for the protection of our legal rights. 
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+## What About Other Web Sites Linked to Our Web Site?
 
-**Contests/Surveys**
+We are not responsible for the practices employed by Web sites linked to or from our Web site nor the information or content contained therein. 
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. GoDaddy will automatically send the friend a one-time email inviting them to visit our Site. GoDaddy stores this information for the sole purpose of sending this one-time email. The friend may contact GoDaddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-GoDaddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Brad's Deals LLC has financial relationships with some of the merchants included on our site. Brad's Deals LLC may be compensated if consumers choose to apply for or purchase products or services via the links on our site. 
