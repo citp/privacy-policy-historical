@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olightstore.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129175012id_/http%3A//www.olightstore.com/privacy-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olightstore.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129194716id_/https%3A//www.olightstore.com/privacy-security-policy) for the most accurate reproduction.*
 
 # Privacy
 
