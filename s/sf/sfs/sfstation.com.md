@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224113256id_/http%3A//www.sfstation.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfstation.com privacy policy that was archived on 2017-01-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170129150016id_/https%3A//www.sfstation.com/legal/privacy.php) for the most accurate reproduction.*
 
 # SF Station Privacy Policy
 
