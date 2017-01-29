@@ -1,78 +1,235 @@
-<!--The following is the downloaded HTML source of the mrchewy.com privacy policy that was archived on 2016-08-29.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160829204354id_/https%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mrchewy.com privacy policy that was archived on 2017-01-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170130002004id_/https%3A//www.chewy.com/app/content/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
-    <script src="https://s.yimg.com/wi/ytc.js" async=""></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5X325N"></script><script type="text/javascript">
+    <script src="https://s.yimg.com/wi/ytc.js" async=""></script><script type="text/javascript" async="" src="https://www.googlecommerce.com/trustedstores/api/js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5X325N"></script><script src="//cdn.ravenjs.com/3.9.1/raven.min.js" crossorigin="anonymous"></script>
 
-    // loggly will not index any field over 100 chars
-    uaParts = navigator.userAgent.split(')');
-    for(var i = 0; i < (uaParts.length - 1); i++){
-        uaParts[i] = uaParts[i] + ')';
-    }
+    <script type="text/javascript">
 
-    var reqDetails = {
-        'host': 'iad1gsfw05.ecom.chewy.com',
-        'userAgentParts' : uaParts,
-        'userAgent' : navigator.userAgent.substring(0,99),
-        'deviceTypeId' : '',
-        'cookieEnabled': navigator.cookieEnabled,
-        'rid' : 'b9ce-35d984b5-be61d60a',
-        'sid' : '',
-        'cid': '-1002',
-        'uid': '-1002'
-    };
+        var ravenOptions = {
+            ignoreErrors: [
+                // Random plugins/extensions
+                'top.GLOBALS',
+                // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error. html
+                'originalCreateNotification',
+                'canvas.contentDocument',
+                'MyApp_RemoveAllHighlights',
+                'http://tt.epicplay.com',
+                'Can\'t find variable: ZiteReader',
+                'jigsaw is not defined',
+                'ComboSearch is not defined',
+                'http://loading.retry.widdit.com/',
+                'atomicFindClose',
+                // Facebook borked
+                'fb_xd_fragment',
+                // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to
+                // reduce this. (thanks @acdha)
+                // See http://stackoverflow.com/questions/4113268
+                'bmi_SafeAddOnload',
+                'EBCallBackMessageReceived',
+                // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+                'conduitPage'
+            ],
+            ignoreUrls: [
+                // Facebook flakiness
+                /graph\.facebook\.com/i,
+                // Facebook blocked
+                /connect\.facebook\.net\/en_US\/all\.js/i,
+                // Woopra flakiness
+                /eatdifferent\.com\.woopra-ns\.com/i,
+                /static\.woopra\.com\/js\/woopra\.js/i,
+                // Chrome extensions
+                /extensions\//i,
+                /^chrome:\/\//i,
+                // Other plugins
+                /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
+                /webappstoolbarba\.texthelp\.com\//i,
+                /metrics\.itunes\.apple\.com\.edgesuite\.net\//i
+            ],
+            shouldSendCallback: function(data) {
 
-    !function(a,b){function c(){return"xxxxxxxx-xxxx-4xxx-yxxx-xxxxxxxxxxxx".replace(/[xy]/g,function(a){var b=16*Math.random()|0,c="x"==a?b:3&b|8;return c.toString(16)})}function d(){this.key=!1,this.sendConsoleErrors=!1,this.tag="jslogger",this.useDomainProxy=!1}function e(a,b){a.key=b,a.setSession(),i(a)}function f(a,b){a.tag=b}function g(a,b){a.useDomainProxy=b,i(a)}function h(b,c){if(b.sendConsoleErrors=c,b.sendConsoleErrors===!0){var d=a.onerror;a.onerror=function(c,e,f,g){b.push({category:"BrowserJsException",exception:{message:c,url:e,lineno:f,colno:g,'reqDetails':reqDetails}}),d&&"function"==typeof d&&d.apply(a,arguments)}}}function i(b){1==b.useDomainProxy?b.inputUrl=j+a.location.host+"/"+n+"/inputs/"+b.key+"/tag/"+b.tag:b.inputUrl=j+(b.logglyCollectorDomain||k)+"/inputs/"+b.key+"/tag/"+b.tag}var j="http"+("https:"===b.location.protocol?"s":"")+"://",k="logs-01.loggly.com",l="logglytrackingsession",m=l.length+1,n="loggly";d.prototype={setSession:function(a){a?(this.session_id=a,this.setCookie(this.session_id)):this.session_id||(this.session_id=this.readCookie(),this.session_id||(this.session_id=c(),this.setCookie(this.session_id)))},push:function(a){var b=typeof a;if(a&&("object"===b||"string"===b)){var c=this;if("string"===b)a={text:a};else{if(a.logglyCollectorDomain)return void(c.logglyCollectorDomain=a.logglyCollectorDomain);if(void 0!==a.sendConsoleErrors&&h(c,a.sendConsoleErrors),a.tag&&f(c,a.tag),a.useDomainProxy&&g(c,a.useDomainProxy),a.logglyKey)return void e(c,a.logglyKey);if(a.session_id)return void c.setSession(a.session_id)}c.key&&c.track(a)}},track:function(b){b.sessionId=this.session_id;try{var c=new XMLHttpRequest;c.open("POST",this.inputUrl,!0),c.setRequestHeader("Content-Type","text/plain"),c.send(JSON.stringify(b))}catch(d){a&&a.console&&"function"==typeof a.console.log&&(console.log("Failed to log to loggly because of this exception:\n"+d),console.log("Failed log data:",b))}},readCookie:function(){var a=b.cookie,c=a.indexOf(l);if(0>c)return!1;var d=a.indexOf(";",c+1);return d=0>d?a.length:d,a.slice(c+m,d)},setCookie:function(a){b.cookie=l+"="+a}};var o=a._LTracker,p=new d;if(o&&o.length){var q=0,r=o.length;for(q=0;r>q;q++)p.push(o[q])}a._LTracker=p,a.LogglyTracker=d}(window,document);
-    var _LTracker = _LTracker || [];
-    _LTracker.push({'logglyKey': '204f4879-0812-4ada-9788-d9aeeda2d07f',
-        'sendConsoleErrors' : true,
-        'tag' : 'production'
-    });
+                //see SFW-1286
+                if(window.location.search.indexOf("catchpoint=true") !== -1 ){
+                  return false;
+                }
 
-</script><title>Privacy Policy | Chewy.com</title>
+                // only send 10% of errors in production
+                var sample = true;
+                return (!sample || Math.random() <= 0.1);
+            },
+            serverName: 'iad1gsfw01.ecom.chewy.com',
+            release: 'master-1863',
+            environment : 'production',
+            tags: {
+                viewType : 'desktop',
+                pageType : 'other'
+            },
+            extra: {
+                rid: 'DzQzT_Xtc2Uw,03-588E86B3-18F362C7',
+                cid: '-1002'
+            }
+        };
+
+        Raven.config('https://9ba125d92cbf4e6d92f28364e8a4aae8@sentry.io/125686', ravenOptions).install();
+        Raven.setUserContext({id: '-1002'});
+
+    </script>
+
+<title>Privacy Policy | Chewy.com</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 
     <!--[if IE 8]>
         <script type="text/javascript" src="/assets/js/html5shiv.min.js?v=74254dcd"></script>
-        <link rel="stylesheet" type="text/css" href="/assets/css/main-ie.css?v=58a41a35">
+        <link rel="stylesheet" type="text/css" href="/assets/css/main-ie.css?v=d70f6555">
     <![endif]-->
     <!--[if (gt IE 8)|!(IE)]><!-->
-        <link rel="stylesheet" type="text/css" href="/assets/css/main.css?v=cf643f56">
+        <link rel="stylesheet" type="text/css" href="/assets/css/main.css?v=019f27e8">
     <!--<![endif]-->
-    <link rel="stylesheet" type="text/css" href="/assets/css/customerservice.css?v=7ffedd7a">
+    <link rel="stylesheet" type="text/css" href="/assets/css/customerservice.css?v=7bd68d89">
 
     <meta property="og:image" content="http://www.chewy.com/assets/img/logo/chewy-opengraph.png" xmlns:og="http://opengraphprotocol.org/schema/">
-<meta property="og:description" content="Delivering pet happiness by conveniently shipping 500+ brands of pet food and stuff (for free!) while ensuring at-risk animals' lives are improved across the planet. 1-800-67-CHEWY" xmlns:og="http://opengraphprotocol.org/schema/">
+        <meta property="og:description" content="Delivering pet happiness by conveniently shipping 500+ brands of pet food and stuff (for free!) while ensuring at-risk animals' lives are improved across the planet. 1-800-672-4399" xmlns:og="http://opengraphprotocol.org/schema/">
+    <script type="application/ld+json">
+{
+    "@context": "http://schema.org",
+    "@type": "Organization",
+    "name": "Chewy",
+    "url": "http://www.chewy.com",
+    "sameAs": [
+        "http://www.facebook.com/chewy",
+        "https://www.youtube.com/channel/UCpWl2nwLDQQI4TTa1kJgxrg",
+        "http://instagram.com/chewy",
+        "http://twitter.com/chewy",
+        "https://www.linkedin.com/company/2433416",
+        "http://pinterest.com/chewy"
+    ],
+    "contactPoint": [{
+        "@type": "ContactPoint",
+        "telephone": "+1-800-672-4399",
+        "contactType": "customer service"
+    }]
+}
+</script><script>
+    window.chewy = window.chewy || {};
+    //JS var only used by GA
+    window.chewy.pageType = 'other';
+</script>
+
 <script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/js/jquery.simplemodal.1.4.5-ch1.js?v=7c3cd306"></script>
-<script type="text/javascript" src="/assets/js/main.js?v=3b24b129"></script>
-<script type="text/javascript" src="/assets/js/d-main.js?v=dfb12452"></script>
-<script type="text/javascript" src="/assets/js/_desktop/header.min.js?v=96bff792"></script>
+
+<script src="//cdn.ravenjs.com/3.9.1/raven.min.js" crossorigin="anonymous"></script>
+
+    <script type="text/javascript">
+
+        var ravenOptions = {
+            ignoreErrors: [
+                // Random plugins/extensions
+                'top.GLOBALS',
+                // See: http://blog.errorception.com/2012/03/tale-of-unfindable-js-error. html
+                'originalCreateNotification',
+                'canvas.contentDocument',
+                'MyApp_RemoveAllHighlights',
+                'http://tt.epicplay.com',
+                'Can\'t find variable: ZiteReader',
+                'jigsaw is not defined',
+                'ComboSearch is not defined',
+                'http://loading.retry.widdit.com/',
+                'atomicFindClose',
+                // Facebook borked
+                'fb_xd_fragment',
+                // ISP "optimizing" proxy - `Cache-Control: no-transform` seems to
+                // reduce this. (thanks @acdha)
+                // See http://stackoverflow.com/questions/4113268
+                'bmi_SafeAddOnload',
+                'EBCallBackMessageReceived',
+                // See http://toolbar.conduit.com/Developer/HtmlAndGadget/Methods/JSInjection.aspx
+                'conduitPage'
+            ],
+            ignoreUrls: [
+                // Facebook flakiness
+                /graph\.facebook\.com/i,
+                // Facebook blocked
+                /connect\.facebook\.net\/en_US\/all\.js/i,
+                // Woopra flakiness
+                /eatdifferent\.com\.woopra-ns\.com/i,
+                /static\.woopra\.com\/js\/woopra\.js/i,
+                // Chrome extensions
+                /extensions\//i,
+                /^chrome:\/\//i,
+                // Other plugins
+                /127\.0\.0\.1:4001\/isrunning/i,  // Cacaoweb
+                /webappstoolbarba\.texthelp\.com\//i,
+                /metrics\.itunes\.apple\.com\.edgesuite\.net\//i
+            ],
+            shouldSendCallback: function(data) {
+
+                //see SFW-1286
+                if(window.location.search.indexOf("catchpoint=true") !== -1 ){
+                  return false;
+                }
+
+                // only send 10% of errors in production
+                var sample = true;
+                return (!sample || Math.random() <= 0.1);
+            },
+            serverName: 'iad1gsfw01.ecom.chewy.com',
+            release: 'master-1863',
+            environment : 'production',
+            tags: {
+                viewType : 'desktop',
+                pageType : 'other'
+            },
+            extra: {
+                rid: 'DzQzT_Xtc2Uw,03-588E86B3-18F362C7',
+                cid: '-1002'
+            }
+        };
+
+        Raven.config('https://9ba125d92cbf4e6d92f28364e8a4aae8@sentry.io/125686', ravenOptions).install();
+        Raven.setUserContext({id: '-1002'});
+
+    </script>
+
+<script type="text/javascript" src="/assets/js/main.js?v=bcee2cdd"></script>
+<script type="text/javascript" src="/assets/js/d-main.js?v=3d1bcaa2"></script>
+<script type="text/javascript" src="/assets/js/_desktop/header.min.js?v=0107dc15"></script>
 
 <script type="text/javascript">
 
   window.dataLayer = window.dataLayer || [];
 
-  </script>
+    dataLayer.push({
+        'viewType': 'desktop',
+        
+        'pageType': 'other',
+        
+        'ecomm_pagetype':'other',
+
+        
+    });
+</script>
 <!-- BEGIN LivePerson/LiveEngage Variables -->
 <script type="text/javascript">
-    var lpTag = lpTag || {};
-    lpTag.vars = lpTag.vars || [];
-    lpTag.vars.push({scope: 'page', name: 'Server', value: 'iad1gsfw05.ecom.chewy.com'});
+    var lpTag = window.lpTag || {};
+    lpTag.sdes = lpTag.sdes||[];
 
-    try {
-        
-        lpTag.vars.push({scope: 'session', name: 'CustomerID', value: -1002});
-    } catch(e) {}
-
-    </script>
+    lpTag.sdes.push({
+        type: 'ctmrinfo',
+        info: {
+            customerId: '-1002',
+            accountName: ''
+        }
+    });
+    
+</script>
 <!-- END LivePerson/LiveEngage Variables -->
 
-<!-- BEGIN LivePerson/LiveEngage Monitor -->
-<script type="text/javascript">window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'32746522'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;}</script>
-<!-- END LivePerson/LiveEngage Monitor -->
+<!-- BEGIN LivePerson Monitor. -->
+<script type="text/javascript">window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'91373412'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.5.1',_tagCount:1,protocol:location.protocol,events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;} </script>
+<!-- END LivePerson Monitor. -->
 
-<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=32746522"></script></head>
+<script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=91373412"></script></head>
 
     <!--[if IE 8 ]><body class="ie ie-8"> <![endif]-->
     <!--[if IE 9 ]> <body class="ie ie-9"> <![endif]-->
@@ -111,12 +268,11 @@
                                     <p>
                                         Get help from our experts 24/7
                                         <span>
-                                            1-844-992-4399
-                                        </span>
+                                            1-800-672-4399</span>
                                     </p>
                                 </div>
                                 <div class="cw-help-mid">
-                                    <a class="livechat" href="javascript:void(0)" onclick="chat(); return false">Chat Live</a>
+                                    <span class="lp-chat-container" id="LP_DIV_1471551197933"></span>
                                     <a class="emailus" href="/app/content/contact">Contact Us</a>
                                 </div>
                                 <div class="cw-help-bottom">
@@ -232,65 +388,103 @@
                                 <a>shop by pet</a>
 
 <div class="cw-drop drop-pet">
-
-	<section class="pet-drop-left">
-		<ul>
-			<li>
-					<a href="/b/dog-288" data-target="dog">Dog</a>
-				</li>
-			<li>
-					<a href="/b/cat-325" data-target="cat">Cat</a>
-				</li>
-			<li>
-					<a href="/b/fish-885" data-target="fish">Fish</a>
-				</li>
-			<li>
-					<a href="/b/bird-941" data-target="bird">Bird</a>
-				</li>
-			<li>
-					<a href="/b/small-pet-977" data-target="smallpet">Small Pet</a>
-				</li>
-			<li>
-					<a href="/b/reptile-1025" data-target="reptile">Reptile</a>
-				</li>
-			</ul>
-	</section>  <section class="pet-drop-right">
-		<div class="pet-drop-category dog">
-			<div class="pet-drop-top">
-				<div class="pet-drop-main">
-
-					<h2><a href="/b/food-treats-332">Food &amp; Treats</a></h2>
-					<ul>
-						<li><a href="/b/dry-food-294">Dry Food</a></li>
-								<li><a href="/b/wet-food-293">Wet Food</a></li>
-								<li><a href="/b/treats-335">Treats</a></li>
-								<li><a href="/b/prescription-food-459">Prescription Food</a></li>
-								<li><a href="/b/freeze-dried-food-336">Freeze Dried Food</a></li>
-								</ul>
-				</div>
-
-				<div class="pet-drop-essential">
-					<h2><a href="/b/dog-288">supplies</a></h2>
-					<ul>
-						<li><a href="/b/cleaning-potty-351">Cleaning &amp; Potty</a></li>
-							<li><a href="/b/bowls-feeders-338">Bowls &amp; Feeders</a></li>
-							<li><a href="/b/flea-tick-381">Flea &amp; Tick</a></li>
-							<li><a href="/b/health-wellness-372">Health &amp; Wellness</a></li>
-							<li><a href="/b/toys-315">Toys</a></li>
-							</ul>
-						<ul>
-						<li><a href="/b/grooming-355">Grooming</a></li>
-							<li><a href="/b/training-behavior-1449">Training &amp; Behavior</a></li>
-							<li><a href="/b/leashes-collars-344">Leashes &amp; Collars</a></li>
-							<li><a href="/b/beds-crates-gear-364">Beds, Crates &amp; Gear</a></li>
-							</ul>
-				</div>
-			</div>
-			<aside class="pet-drop-brands">
-
-				<h2>popular brands <a href="/app/catalog/brands"><span class="view-all">view all</span></a></h2>
-				<div class="cms-include brand-logos">
-					<ul>
+	<div class="drop-pet--container">
+		<section class="pet-drop-left">
+			<ul>
+				<li>
+						<a href="/b/dog-288" data-target="pet-drop-category__dog">Dog</a>
+					</li>
+				<li>
+						<a href="/b/cat-325" data-target="pet-drop-category__cat">Cat</a>
+					</li>
+				<li>
+						<a href="/b/fish-885" data-target="pet-drop-category__fish">Fish</a>
+					</li>
+				<li>
+						<a href="/b/bird-941" data-target="pet-drop-category__bird">Bird</a>
+					</li>
+				<li>
+						<a href="/b/small-pet-977" data-target="pet-drop-category__smallpet">Small Pet</a>
+					</li>
+				<li>
+						<a href="/b/reptile-1025" data-target="pet-drop-category__reptile">Reptile</a>
+					</li>
+				<li>
+						<a href="/b/horse-1663" data-target="pet-drop-category__horse">Horse</a>
+					</li>
+				</ul>
+		</section>  <section class="pet-drop-right">
+				<div class="pet-drop-category pet-drop-category__dog">
+						<div class="pet-drop-top">
+							<div class="pet-drop-main">
+									<h2><a href="/b/food-332">Food</a></h2>
+									<ul>
+										<li><a href="/b/dry-food-294">Dry Food</a></li>
+												<li><a href="/b/wet-food-293">Wet Food</a></li>
+												<li><a href="/b/prescription-food-459">Prescription Food</a></li>
+												<li><a href="/b/freeze-dried-food-336">Freeze-Dried Food</a></li>
+												<li><a href="/b/raw-frozen-food-334">Raw Frozen Food</a></li>
+												<li><a class="view-all" href="/b/food-332">Shop All</a></li>
+												</ul>
+								</div>
+							<div class="pet-drop-main">
+									<h2><a href="/b/treats-335">Treats</a></h2>
+									<ul>
+										<li><a href="/b/biscuits-crunchy-treats-1537">Biscuits &amp; Crunchy Treats</a></li>
+												<li><a href="/b/bully-sticks-natural-chews-1540">Bully Sticks &amp; Natural Chews</a></li>
+												<li><a href="/b/dental-hard-chews-1539">Dental &amp; Hard Chews</a></li>
+												<li><a href="/b/soft-chewy-treats-1538">Soft &amp; Chewy Treats</a></li>
+												<li><a href="/b/jerky-treats-1546">Jerky Treats</a></li>
+												<li><a class="view-all" href="/b/treats-335">Shop All</a></li>
+												</ul>
+								</div>
+							<div class="pet-drop-essential">
+								<h2><a href="/b/dog-288">supplies</a></h2>
+								<ul>
+									<li>
+											<a href="/b/toys-315">Toys</a>
+												</li>
+										<li>
+											<a href="/b/dental-healthcare-372">Dental &amp; Healthcare</a>
+												</li>
+										<li>
+											<a href="/b/vitamins-supplements-374">Vitamins &amp; Supplements</a>
+												</li>
+										<li>
+											<a href="/b/cleaning-potty-351">Cleaning &amp; Potty</a>
+												</li>
+										<li>
+											<a href="/b/crates-pens-gates-364">Crates, Pens &amp; Gates</a>
+												</li>
+										<li>
+											<a href="/b/beds-mats-365">Beds &amp; Mats</a>
+												</li>
+										</ul><ul class="pet-drop-essential--last">
+										<li>
+											<a href="/b/carriers-travel-371">Carriers &amp; Travel</a>
+												</li>
+										<li>
+											<a href="/b/bowls-feeders-338">Bowls &amp; Feeders</a>
+												</li>
+										<li>
+											<a href="/b/grooming-355">Grooming</a>
+												</li>
+										<li>
+											<a href="/b/flea-tick-381">Flea &amp; Tick</a>
+												</li>
+										<li>
+											<a href="/b/leashes-collars-344">Leashes &amp; Collars</a>
+												</li>
+										<li>
+											<a class="view-all" href="/b/dog-288">Shop All</a>
+												</li>
+										</ul>
+							</div>
+						</div>
+						<aside class="pet-drop-brands">
+							<h2>popular brands <a href="/app/catalog/brands?cgId=288"><span class="view-all">Shop All</span></a></h2>
+							<div class="cms-include brand-logos">
+								<ul>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ABlue+Buffalo"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/blue_buffalo._AC_SS150_V20160523_.jpg" alt="blue buffalo"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AOrijen"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/orijen._AC_SS150_V20160523_.jpg" alt="orijen"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AMerrick"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/merrick._AC_SS150_V20160523_.jpg" alt="merrick"></a></li>
@@ -299,43 +493,77 @@
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ANatural+Balance"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/natural_balance._AC_SS150_V20160523_.jpg" alt="natural balance"></a></li>
 </ul>
 </div>
-			</aside>
-		</div><div class="pet-drop-category cat">
-			<div class="pet-drop-top">
-				<div class="pet-drop-main">
-
-					<h2><a href="/b/food-treats-387">Food &amp; Treats</a></h2>
-					<ul>
-						<li><a href="/b/wet-food-389">Wet Food</a></li>
-								<li><a href="/b/dry-food-388">Dry Food</a></li>
-								<li><a href="/b/treats-391">Treats</a></li>
-								<li><a href="/b/prescription-food-460">Prescription Food</a></li>
-								<li><a href="/b/freeze-dried-food-431">Freeze Dried Food</a></li>
-								</ul>
-				</div>
-
-				<div class="pet-drop-essential">
-					<h2><a href="/b/cat-325">supplies</a></h2>
-					<ul>
-						<li><a href="/b/litter-accessories-410">Litter &amp; Accessories</a></li>
-							<li><a href="/b/bowls-feeders-394">Bowls &amp; Feeders</a></li>
-							<li><a href="/b/flea-tick-404">Flea &amp; Tick</a></li>
-							<li><a href="/b/health-wellness-415">Health &amp; Wellness</a></li>
-							<li><a href="/b/toys-326">Toys</a></li>
-							</ul>
-						<ul>
-						<li><a href="/b/grooming-432">Grooming</a></li>
-							<li><a href="/b/training-cleaning-428">Training &amp; Cleaning</a></li>
-							<li><a href="/b/leashes-collars-400">Leashes &amp; Collars</a></li>
-							<li><a href="/b/beds-crates-gear-424">Beds, Crates &amp; Gear</a></li>
-							</ul>
-				</div>
-			</div>
-			<aside class="pet-drop-brands">
-
-				<h2>popular brands <a href="/app/catalog/brands"><span class="view-all">view all</span></a></h2>
-				<div class="cms-include brand-logos">
-					<ul>
+						</aside>
+					</div><div class="pet-drop-category pet-drop-category__cat">
+						<div class="pet-drop-top">
+							<div class="pet-drop-main">
+									<h2><a href="/b/food-387">Food</a></h2>
+									<ul>
+										<li><a href="/b/wet-food-389">Wet Food</a></li>
+												<li><a href="/b/dry-food-388">Dry Food</a></li>
+												<li><a href="/b/prescription-food-460">Prescription Food</a></li>
+												<li><a href="/b/food-toppings-392">Food Toppings</a></li>
+												<li><a href="/b/freeze-dried-food-431">Freeze-Dried Food</a></li>
+												<li><a href="/b/dehydrated-food-1560">Dehydrated Food</a></li>
+												</ul>
+								</div>
+							<div class="pet-drop-main">
+									<h2><a href="/b/litter-accessories-410">Litter &amp; Accessories</a></h2>
+									<ul>
+										<li><a href="/b/litter-411">Litter</a></li>
+												<li><a href="/b/litter-accessories-412">Litter Accessories</a></li>
+												<li><a href="/b/litter-boxes-413">Litter Boxes</a></li>
+												<li><a href="/b/waste-disposal-414">Waste Disposal</a></li>
+												<li><a href="/b/cleaners-deodorizers-1442">Cleaners &amp; Deodorizers</a></li>
+												</ul>
+								</div>
+							<div class="pet-drop-essential">
+								<h2><a href="/b/cat-325">supplies</a></h2>
+								<ul>
+									<li>
+											<a href="/b/treats-391">Treats</a>
+												</li>
+										<li>
+											<a href="/b/toys-326">Toys</a>
+												</li>
+										<li>
+											<a href="/b/dental-healthcare-415">Dental &amp; Healthcare</a>
+												</li>
+										<li>
+											<a href="/b/vitamins-supplements-417">Vitamins &amp; Supplements</a>
+												</li>
+										<li>
+											<a href="/b/flea-tick-404">Flea &amp; Tick</a>
+												</li>
+										<li>
+											<a href="/b/training-cleaning-428">Training &amp; Cleaning</a>
+												</li>
+										</ul><ul class="pet-drop-essential--last">
+										<li>
+											<a href="/b/crates-pens-gates-424">Crates, Pens &amp; Gates</a>
+												</li>
+										<li>
+											<a href="/b/beds-mats-425">Beds &amp; Mats</a>
+												</li>
+										<li>
+											<a href="/b/trees-condos-scratchers-456">Trees, Condos &amp; Scratchers</a>
+												</li>
+										<li>
+											<a href="/b/carriers-travel-454">Carriers &amp; Travel</a>
+												</li>
+										<li>
+											<a href="/b/bowls-feeders-394">Bowls &amp; Feeders</a>
+												</li>
+										<li>
+											<a class="view-all" href="/b/cat-325">Shop All</a>
+												</li>
+										</ul>
+							</div>
+						</div>
+						<aside class="pet-drop-brands">
+							<h2>popular brands <a href="/app/catalog/brands?cgId=325"><span class="view-all">Shop All</span></a></h2>
+							<div class="cms-include brand-logos">
+								<ul>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ABlue+Buffalo"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/blue_buffalo._AC_SS150_V20160523_.jpg" alt="blue buffalo"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AHalo"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/halo._AC_SS150_V20160523_.jpg" alt="halo"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AMerrick"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/merrick._AC_SS150_V20160523_.jpg" alt="merrick"></a></li>
@@ -344,39 +572,45 @@
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AHill%27s"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/hills._AC_SS150_V20160523_.jpg" alt="Hills science diet"></a></li>
 </ul>
 </div>
-			</aside>
-		</div><div class="pet-drop-category fish">
-			<div class="pet-drop-top">
-				<div class="pet-drop-main">
-
-					<h2><a href="/b/food-treats-886">Food &amp; Treats</a></h2>
-					<ul>
-						<li><a href="/b/tropical-freshwater-887">Tropical Freshwater</a></li>
-								<li><a href="/b/goldfish-892">Goldfish</a></li>
-								<li><a href="/b/marine-fish-889">Marine Fish</a></li>
-								<li><a href="/b/bottom-feeder-890">Bottom Feeder</a></li>
-								<li><a class="view-all" href="/b/food-treats-886">view all</a></li>
-								</ul>
-				</div>
-
-				<div class="pet-drop-essential">
-					<h2><a href="/b/fish-885">supplies</a></h2>
-					<ul>
-						<li><a href="/b/aquariums-accessories-895">Aquariums &amp; Accessories</a></li>
-							<li><a href="/b/water-care-906">Water Care</a></li>
-							<li><a href="/b/filters-media-924">Filters &amp; Media</a></li>
-							<li><a href="/b/cleaning-maintenance-929">Cleaning &amp; Maintenance</a></li>
-							<li><a href="/b/health-wellness-937">Health &amp; Wellness</a></li>
-							</ul>
-						<ul>
-						</ul>
-				</div>
-			</div>
-			<aside class="pet-drop-brands">
-
-				<h2>popular brands <a href="/app/catalog/brands"><span class="view-all">view all</span></a></h2>
-				<div class="cms-include brand-logos">
-					<ul>
+						</aside>
+					</div><div class="pet-drop-category pet-drop-category__fish">
+						<div class="pet-drop-top">
+							<div class="pet-drop-main">
+									<h2><a href="/b/food-treats-886">Food &amp; Treats</a></h2>
+									<ul>
+										<li><a href="/b/tropical-freshwater-887">Tropical Freshwater</a></li>
+												<li><a href="/b/goldfish-892">Goldfish</a></li>
+												<li><a href="/b/marine-fish-889">Marine Fish</a></li>
+												<li><a href="/b/bottom-feeder-890">Bottom Feeder</a></li>
+												<li><a href="/b/betta-891">Betta</a></li>
+												<li><a class="view-all" href="/b/food-treats-886">Shop All</a></li>
+												</ul>
+								</div>
+							<div class="pet-drop-essential">
+								<h2><a href="/b/fish-885">supplies</a></h2>
+								<ul>
+									<li>
+											<a href="/b/aquariums-accessories-895">Aquariums &amp; Accessories</a>
+												</li>
+										<li>
+											<a href="/b/water-care-906">Water Care</a>
+												</li>
+										<li>
+											<a href="/b/filters-media-924">Filters &amp; Media</a>
+												</li>
+										<li>
+											<a href="/b/cleaning-maintenance-929">Cleaning &amp; Maintenance</a>
+												</li>
+										<li>
+											<a href="/b/health-wellness-937">Health &amp; Wellness</a>
+												</li>
+										</ul>
+							</div>
+						</div>
+						<aside class="pet-drop-brands">
+							<h2>popular brands <a href="/app/catalog/brands?cgId=885"><span class="view-all">Shop All</span></a></h2>
+							<div class="cms-include brand-logos">
+								<ul>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ATetra"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/tetra._AC_SS150_V20160523_.jpg" alt="tetra"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AAPI"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/api._AC_SS150_V20160523_.jpg" alt="api"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AAqueon"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/aqueon._AC_SS150_V20160523_.jpg" alt="aqueon"></a></li>
@@ -384,36 +618,42 @@
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AMarineland"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/marineland._AC_SS150_V20160523_.jpg" alt="marineland"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AWardley"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/wardley._AC_SS150_V20160523_.jpg" alt="wardley"></a></li>
 </ul></div>
-			</aside>
-		</div><div class="pet-drop-category bird">
-			<div class="pet-drop-top">
-				<div class="pet-drop-main">
-
-					<h2><a href="/b/food-treats-942">Food &amp; Treats</a></h2>
-					<ul>
-						<li><a href="/b/wild-bird-950">Wild Bird</a></li>
-								<li><a href="/b/parakeet-944">Parakeet</a></li>
-								<li><a href="/b/finch-canary-945">Finch &amp; Canary</a></li>
-								<li><a href="/b/cockatiel-cockatoo-946">Cockatiel &amp; Cockatoo</a></li>
-								<li><a class="view-all" href="/b/food-treats-942">view all</a></li>
-								</ul>
-				</div>
-
-				<div class="pet-drop-essential">
-					<h2><a href="/b/bird-941">supplies</a></h2>
-					<ul>
-						<li><a href="/b/cages-accessories-953">Cages &amp; Accessories</a></li>
-							<li><a href="/b/litter-nesting-962">Litter &amp; Nesting</a></li>
-							<li><a href="/b/perches-toys-967">Perches &amp; Toys</a></li>
-							<li><a href="/b/grooming-health-971">Grooming &amp; Health</a></li>
-							</ul>
-				</div>
-			</div>
-			<aside class="pet-drop-brands">
-
-				<h2>popular brands <a href="/app/catalog/brands"><span class="view-all">view all</span></a></h2>
-				<div class="cms-include brand-logos">
-					<ul>
+						</aside>
+					</div><div class="pet-drop-category pet-drop-category__bird">
+						<div class="pet-drop-top">
+							<div class="pet-drop-main">
+									<h2><a href="/b/food-treats-942">Food &amp; Treats</a></h2>
+									<ul>
+										<li><a href="/b/wild-bird-950">Wild Bird</a></li>
+												<li><a href="/b/parakeet-944">Parakeet</a></li>
+												<li><a href="/b/finch-canary-945">Finch &amp; Canary</a></li>
+												<li><a href="/b/cockatiel-cockatoo-946">Cockatiel &amp; Cockatoo</a></li>
+												<li><a href="/b/lovebird-947">Lovebird</a></li>
+												<li><a class="view-all" href="/b/food-treats-942">Shop All</a></li>
+												</ul>
+								</div>
+							<div class="pet-drop-essential">
+								<h2><a href="/b/bird-941">supplies</a></h2>
+								<ul>
+									<li>
+											<a href="/b/cages-accessories-953">Cages &amp; Accessories</a>
+												</li>
+										<li>
+											<a href="/b/litter-nesting-962">Litter &amp; Nesting</a>
+												</li>
+										<li>
+											<a href="/b/perches-toys-967">Perches &amp; Toys</a>
+												</li>
+										<li>
+											<a href="/b/grooming-health-971">Grooming &amp; Health</a>
+												</li>
+										</ul>
+							</div>
+						</div>
+						<aside class="pet-drop-brands">
+							<h2>popular brands <a href="/app/catalog/brands?cgId=941"><span class="view-all">Shop All</span></a></h2>
+							<div class="cms-include brand-logos">
+								<ul>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AKaytee"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/kaytee._AC_SS150_V20160523_.jpg" alt="kaytee"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ALiving+World"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/living-world._AC_SS150_V20160523_.jpg" alt="living world"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AQuiko"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/quiko._AC_SS150_V20160523_.jpg" alt="quiko"></a></li>
@@ -421,39 +661,45 @@
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AWagner%27s"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/wagners._AC_SS150_V20160523_.jpg" alt="wagners"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ABrown%27s"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/browns._AC_SS150_V20160523_.jpg" alt="browns"></a></li>
 </ul></div>
-			</aside>
-		</div><div class="pet-drop-category smallpet">
-			<div class="pet-drop-top">
-				<div class="pet-drop-main">
-
-					<h2><a href="/b/food-treats-978">Food &amp; Treats</a></h2>
-					<ul>
-						<li><a href="/b/rabbit-979">Rabbit</a></li>
-								<li><a href="/b/hamster-983">Hamster</a></li>
-								<li><a href="/b/guinea-pig-980">Guinea Pig</a></li>
-								<li><a href="/b/gerbil-982">Gerbil</a></li>
-								<li><a class="view-all" href="/b/food-treats-978">view all</a></li>
-								</ul>
-				</div>
-
-				<div class="pet-drop-essential">
-					<h2><a href="/b/small-pet-977">supplies</a></h2>
-					<ul>
-						<li><a href="/b/habitats-accessories-989">Habitats &amp; Accessories</a></li>
-							<li><a href="/b/bedding-litter-1000">Bedding &amp; Litter</a></li>
-							<li><a href="/b/beds-hideouts-toys-1005">Beds, Hideouts &amp; Toys</a></li>
-							<li><a href="/b/harnesses-carriers-1013">Harnesses &amp; Carriers</a></li>
-							<li><a href="/b/grooming-health-1016">Grooming &amp; Health</a></li>
-							</ul>
-						<ul>
-						</ul>
-				</div>
-			</div>
-			<aside class="pet-drop-brands">
-
-				<h2>popular brands <a href="/app/catalog/brands"><span class="view-all">view all</span></a></h2>
-				<div class="cms-include brand-logos">
-					<ul>
+						</aside>
+					</div><div class="pet-drop-category pet-drop-category__smallpet">
+						<div class="pet-drop-top">
+							<div class="pet-drop-main">
+									<h2><a href="/b/food-treats-978">Food &amp; Treats</a></h2>
+									<ul>
+										<li><a href="/b/rabbit-979">Rabbit</a></li>
+												<li><a href="/b/hamster-983">Hamster</a></li>
+												<li><a href="/b/guinea-pig-980">Guinea Pig</a></li>
+												<li><a href="/b/gerbil-982">Gerbil</a></li>
+												<li><a href="/b/chinchilla-degu-981">Chinchilla &amp; Degu</a></li>
+												<li><a class="view-all" href="/b/food-treats-978">Shop All</a></li>
+												</ul>
+								</div>
+							<div class="pet-drop-essential">
+								<h2><a href="/b/small-pet-977">supplies</a></h2>
+								<ul>
+									<li>
+											<a href="/b/habitats-accessories-989">Habitats &amp; Accessories</a>
+												</li>
+										<li>
+											<a href="/b/bedding-litter-1000">Bedding &amp; Litter</a>
+												</li>
+										<li>
+											<a href="/b/beds-hideouts-toys-1005">Beds, Hideouts &amp; Toys</a>
+												</li>
+										<li>
+											<a href="/b/harnesses-carriers-1013">Harnesses &amp; Carriers</a>
+												</li>
+										<li>
+											<a href="/b/grooming-health-1016">Grooming &amp; Health</a>
+												</li>
+										</ul>
+							</div>
+						</div>
+						<aside class="pet-drop-brands">
+							<h2>popular brands <a href="/app/catalog/brands?cgId=977"><span class="view-all">Shop All</span></a></h2>
+							<div class="cms-include brand-logos">
+								<ul>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AKaytee"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/kaytee._AC_SS150_V20160523_.jpg" alt="kaytee"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ACareFresh"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/carefresh._AC_SS150_V20160523_.jpg" alt="care fresh"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AOxbow"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/oxbow._AC_SS150_V20160523_.jpg" alt="oxbow"></a></li>
@@ -461,38 +707,43 @@
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ALiving+World"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/living-world._AC_SS150_V20160523_.jpg" alt="living world"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AHartz"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/hartz._AC_SS150_V20160523_.jpg" alt="hartz"></a></li>
 </ul></div>
-			</aside>
-		</div><div class="pet-drop-category reptile">
-			<div class="pet-drop-top">
-				<div class="pet-drop-main">
-
-					<h2><a href="/b/food-treats-1026">Food &amp; Treats</a></h2>
-					<ul>
-						<li><a href="/b/turtle-1027">Turtle</a></li>
-								<li><a href="/b/frog-newt-1028">Frog &amp; Newt</a></li>
-								<li><a href="/b/lizard-1029">Lizard</a></li>
-								<li><a href="/b/hermit-crab-1031">Hermit Crab</a></li>
-								</ul>
-				</div>
-
-				<div class="pet-drop-essential">
-					<h2><a href="/b/reptile-1025">supplies</a></h2>
-					<ul>
-						<li><a href="/b/habitat-accessories-1032">Habitat Accessories</a></li>
-							<li><a href="/b/heating-lighting-1047">Heating &amp; Lighting</a></li>
-							<li><a href="/b/cleaning-maintenance-1051">Cleaning &amp; Maintenance</a></li>
-							<li><a href="/b/substrate-bedding-1057">Substrate &amp; Bedding</a></li>
-							<li><a href="/b/health-wellness-1061">Health &amp; Wellness</a></li>
-							</ul>
-						<ul>
-						</ul>
-				</div>
-			</div>
-			<aside class="pet-drop-brands">
-
-				<h2>popular brands <a href="/app/catalog/brands"><span class="view-all">view all</span></a></h2>
-				<div class="cms-include brand-logos">
-					<ul>
+						</aside>
+					</div><div class="pet-drop-category pet-drop-category__reptile">
+						<div class="pet-drop-top">
+							<div class="pet-drop-main">
+									<h2><a href="/b/food-treats-1026">Food &amp; Treats</a></h2>
+									<ul>
+										<li><a href="/b/turtle-1027">Turtle</a></li>
+												<li><a href="/b/frog-newt-1028">Frog &amp; Newt</a></li>
+												<li><a href="/b/lizard-1029">Lizard</a></li>
+												<li><a href="/b/hermit-crab-1031">Hermit Crab</a></li>
+												</ul>
+								</div>
+							<div class="pet-drop-essential">
+								<h2><a href="/b/reptile-1025">supplies</a></h2>
+								<ul>
+									<li>
+											<a href="/b/habitat-accessories-1032">Habitat Accessories</a>
+												</li>
+										<li>
+											<a href="/b/heating-lighting-1047">Heating &amp; Lighting</a>
+												</li>
+										<li>
+											<a href="/b/cleaning-maintenance-1051">Cleaning &amp; Maintenance</a>
+												</li>
+										<li>
+											<a href="/b/substrate-bedding-1057">Substrate &amp; Bedding</a>
+												</li>
+										<li>
+											<a href="/b/health-wellness-1061">Health &amp; Wellness</a>
+												</li>
+										</ul>
+							</div>
+						</div>
+						<aside class="pet-drop-brands">
+							<h2>popular brands <a href="/app/catalog/brands?cgId=1025"><span class="view-all">Shop All</span></a></h2>
+							<div class="cms-include brand-logos">
+								<ul>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AZoo+Med"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/zoo-med._AC_SS150_V20160523_.jpg" alt="zoo med"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AExo+Terra"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/exo-terra._AC_SS150_V20160523_.jpg" alt="exo terra"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AZilla"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/zilla._AC_SS150_V20160523_.jpg" alt="zilla"></a></li>
@@ -500,8 +751,50 @@
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ATetrafauna"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/tetrafauna._AC_SS150_V20160523_.jpg" alt="tetrafauna"></a></li>
 	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AAPI"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/api._AC_SS150_V20160523_.jpg" alt="api"></a></li>
 </ul></div>
-			</aside>
-		</div></section> </div></li>
+						</aside>
+					</div><div class="pet-drop-category pet-drop-category__horse">
+						<div class="pet-drop-top">
+							<div class="pet-drop-main">
+									<h2><a href="/b/health-wellness-1691">Health &amp; Wellness</a></h2>
+									<ul>
+										<li><a href="/b/vitamins-supplements-1692">Vitamins &amp; Supplements</a></li>
+												<li><a href="/b/first-aid-1693">First Aid</a></li>
+												<li><a href="/b/pest-control-1694">Pest Control</a></li>
+												</ul>
+								</div>
+							<div class="pet-drop-essential">
+								<h2><a href="/b/horse-1663">supplies</a></h2>
+								<ul>
+									<li>
+											<a href="/b/grooming-1686">Grooming</a>
+												</li>
+										<li>
+											<a href="/b/tack-stable-supplies-1668">Tack &amp; Stable Supplies</a>
+												</li>
+										<li>
+											<a href="/b/toys-1683">Toys</a>
+												</li>
+										<li>
+											<a href="/b/treats-1664">Treats</a>
+												</li>
+										</ul>
+							</div>
+						</div>
+						<aside class="pet-drop-brands">
+							<h2>popular brands <a href="/app/catalog/brands?cgId=1663"><span class="view-all">Shop All</span></a></h2>
+							<div class="cms-include brand-logos">
+								<ul>
+	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AAniMed"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/animed._AC_SS150_V20160523_.jpg"></a></li>
+	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ACosequin"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/cosequin._AC_SS150_V20160523_.jpg"></a></li>
+	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AFiebing%27s"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/fiebings._AC_SS150_V20160523_.jpg"></a></li>
+	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AHorsemen%27s%20Pride"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/horsemensPride._AC_SS150_V20160523_.jpg"></a></li>
+	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3AOster"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/oster._AC_SS150_V20160523_.jpg"></a></li>
+	<li><a href="//www.chewy.com/s?page=1&amp;rh=brand_facet%3ATough-1"><img src="//d1rgby1m7uuvjr.cloudfront.net/is/brand-logos/tough1._AC_SS150_V20160523_.jpg"></a></li>
+</ul>
+</div>
+						</aside>
+					</div></section> </div>
+</div></li>
                             <li class="nav-drop nav-drop-brand">
                                 <a href="/app/catalog/brands">shop by brand</a>
 <div class="cw-drop drop-brand">
@@ -543,7 +836,6 @@
 
                         <ul>
                             <li><a href="/s?rh=brand_facet%3AACANA">ACANA</a></li>
-                            <li><a href="/s?rh=brand_facet%3AActive+Care">Active Care</a></li>
                             <li><a href="/s?rh=brand_facet%3AAdams">Adams</a></li>
                             <li><a href="/s?rh=brand_facet%3AAdaptil">Adaptil</a></li>
                             <li><a href="/s?rh=brand_facet%3AAddiction">Addiction</a></li>
@@ -555,17 +847,22 @@
                             <li><a href="/s?rh=brand_facet%3AAikiou">Aikiou</a></li>
                             <li><a href="/s?rh=brand_facet%3AAlaska+Naturals">Alaska Naturals</a></li>
                             <li><a href="/s?rh=brand_facet%3AAlenza">Alenza</a></li>
+                            <li><a href="/s?rh=brand_facet%3AAll+Four+Paws">All Four Paws</a></li>
+                            <li><a href="/s?rh=brand_facet%3AAll-Absorb">All-Absorb</a></li>
+                            <li><a href="/s?rh=brand_facet%3AAllerpet">Allerpet</a></li>
                         </ul>
                         <ul>
                             <li><a href="/s?rh=brand_facet%3AAlmo+Nature">Almo Nature</a></li>
                             <li><a href="/s?rh=brand_facet%3AALPO">ALPO</a></li>
                             <li><a href="/s?rh=brand_facet%3AAmerican+BioSciences">American BioSciences</a></li>
-                            <li><a href="/s?rh=brand_facet%3AAmerican+Journey">American Journey</a></li>
+                            <li><a href="/s?rh=brand_facet%3AAmerican+Kennel+Club">American Kennel Club</a></li>
                             <li><a href="/s?rh=brand_facet%3AAmerican+Natural+Premium">American Natural Premium</a></li>
                             <li><a href="/s?rh=brand_facet%3AAndis">Andis</a></li>
                             <li><a href="/s?rh=brand_facet%3AAngels%27+Eyes">Angels' Eyes</a></li>
+                            <li><a href="/s?rh=brand_facet%3AAngry+Orange">Angry Orange</a></li>
                             <li><a href="/s?rh=brand_facet%3AAni+Mate">Ani Mate</a></li>
                             <li><a href="/s?rh=brand_facet%3AAnimal+Essentials">Animal Essentials</a></li>
+                            <li><a href="/s?rh=brand_facet%3AAniMed">AniMed</a></li>
                             <li><a href="/s?rh=brand_facet%3AAnnamaet">Annamaet</a></li>
                             <li><a href="/s?rh=brand_facet%3AAntlers">Antlers</a></li>
                             <li><a href="/s?rh=brand_facet%3AAnxiety+Wrap">Anxiety Wrap</a></li>
@@ -582,11 +879,10 @@
                             <li><a href="/s?rh=brand_facet%3AArm+%26+Hammer+Litter">Arm &amp; Hammer Litter</a></li>
                             <li><a href="/s?rh=brand_facet%3AArmarkat">Armarkat</a></li>
                             <li><a href="/s?rh=brand_facet%3AArtemis">Artemis</a></li>
+                            <li><a href="/s?rh=brand_facet%3AAs+Seen+on+TV">As Seen on TV</a></li>
                             <li><a href="/s?rh=brand_facet%3AAspen+Pet">Aspen Pet</a></li>
                             <li><a href="/s?rh=brand_facet%3AAvenaLyt">AvenaLyt</a></li>
                             <li><a href="/s?rh=brand_facet%3AAvoDerm">AvoDerm</a></li>
-                        </ul>
-                        <ul>
                             </ul>
 
                     </div>
@@ -595,7 +891,9 @@
                         <h3 class="brand-list-letter"><span>B</span></h3>
 
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3ABack+to+the+Roots">Back to the Roots</a></li>
                             <li><a href="/s?rh=brand_facet%3ABags+on+Board">Bags on Board</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABark%2B">Bark+</a></li>
                             <li><a href="/s?rh=brand_facet%3ABarkworthies">Barkworthies</a></li>
                             <li><a href="/s?rh=brand_facet%3ABaskerville">Baskerville</a></li>
                             <li><a href="/s?rh=brand_facet%3ABayer">Bayer</a></li>
@@ -606,14 +904,20 @@
                             <li><a href="/s?rh=brand_facet%3ABeneful">Beneful</a></li>
                             <li><a href="/s?rh=brand_facet%3ABergan">Bergan</a></li>
                             <li><a href="/s?rh=brand_facet%3ABest+Bully+Sticks">Best Bully Sticks</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABest+Friends+by+Sheri">Best Friends by Sheri</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABest+Pet+Supplies">Best Pet Supplies</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABetter+Than">Better Than</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABeyond">Beyond</a></li>
                             <li><a href="/s?rh=brand_facet%3ABFF">BFF</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABig+Barker">Big Barker</a></li>
+                        </ul>
+                        <ul>
                             <li><a href="/s?rh=brand_facet%3ABig+Sky+Antler+Chews">Big Sky Antler Chews</a></li>
                             <li><a href="/s?rh=brand_facet%3ABio+Spot">Bio Spot</a></li>
                             <li><a href="/s?rh=brand_facet%3ABioBag">BioBag</a></li>
-                        </ul>
-                        <ul>
                             <li><a href="/s?rh=brand_facet%3ABionic">Bionic</a></li>
                             <li><a href="/s?rh=brand_facet%3ABird+Lover%27s+Blend">Bird Lover's Blend</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABissell">Bissell</a></li>
                             <li><a href="/s?rh=brand_facet%3ABIXBI">BIXBI</a></li>
                             <li><a href="/s?rh=brand_facet%3ABlack+Gold">Black Gold</a></li>
                             <li><a href="/s?rh=brand_facet%3ABlackwood">Blackwood</a></li>
@@ -625,10 +929,11 @@
                             <li><a href="/s?rh=brand_facet%3ABlue+Naturally+Fresh">Blue Naturally Fresh</a></li>
                             <li><a href="/s?rh=brand_facet%3ABlue+Ridge+Naturals">Blue Ridge Naturals</a></li>
                             <li><a href="/s?rh=brand_facet%3ABlue+Wilderness">Blue Wilderness</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABlueberry+Pet">Blueberry Pet</a></li>
                             <li><a href="/s?rh=brand_facet%3ABones+%26+Chews">Bones &amp; Chews</a></li>
-                            <li><a href="/s?rh=brand_facet%3ABooda">Booda</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3ABooda">Booda</a></li>
                             <li><a href="/s?rh=brand_facet%3ABoxiecat">Boxiecat</a></li>
                             <li><a href="/s?rh=brand_facet%3ABravo%21">Bravo!</a></li>
                             <li><a href="/s?rh=brand_facet%3ABreath-Less">Breath-Less</a></li>
@@ -636,13 +941,15 @@
                             <li><a href="/s?rh=brand_facet%3ABreeze">Breeze</a></li>
                             <li><a href="/s?rh=brand_facet%3ABrothers+Complete">Brothers Complete</a></li>
                             <li><a href="/s?rh=brand_facet%3ABrown%27s">Brown's</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABuckeye+Nutrition">Buckeye Nutrition</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABuckley">Buckley</a></li>
                             <li><a href="/s?rh=brand_facet%3ABuddy+Belts">Buddy Belts</a></li>
                             <li><a href="/s?rh=brand_facet%3ABuddy+Biscuits">Buddy Biscuits</a></li>
+                            <li><a href="/s?rh=brand_facet%3ABuddy+Wash">Buddy Wash</a></li>
                             <li><a href="/s?rh=brand_facet%3ABully+Sticks">Bully Sticks</a></li>
                             <li><a href="/s?rh=brand_facet%3ABurt%27s+Bees">Burt's Bees</a></li>
                             <li><a href="/s?rh=brand_facet%3ABusy+Bone">Busy Bone</a></li>
                             <li><a href="/s?rh=brand_facet%3ABusy+Buddy">Busy Buddy</a></li>
-                            <li><a href="/s?rh=brand_facet%3ABy+Nature">By Nature</a></li>
                             </ul>
 
                     </div>
@@ -651,7 +958,10 @@
                         <h3 class="brand-list-letter"><span>C</span></h3>
 
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AC%26S">C&amp;S</a></li>
                             <li><a href="/s?rh=brand_facet%3ACaitec">Caitec</a></li>
+                            <li><a href="/s?rh=brand_facet%3ACaldwell%27s">Caldwell's</a></li>
+                            <li><a href="/s?rh=brand_facet%3ACalifornia+Home+Goods">California Home Goods</a></li>
                             <li><a href="/s?rh=brand_facet%3ACalming+Coat">Calming Coat</a></li>
                             <li><a href="/s?rh=brand_facet%3ACanidae">Canidae</a></li>
                             <li><a href="/s?rh=brand_facet%3ACanine+Caviar">Canine Caviar</a></li>
@@ -661,19 +971,22 @@
                             <li><a href="/s?rh=brand_facet%3ACaru">Caru</a></li>
                             <li><a href="/s?rh=brand_facet%3ACastor+%26+Pollux">Castor &amp; Pollux</a></li>
                             <li><a href="/s?rh=brand_facet%3ACasual+Canine">Casual Canine</a></li>
+                            <li><a href="/s?rh=brand_facet%3ACat+Amazing">Cat Amazing</a></li>
                             <li><a href="/s?rh=brand_facet%3ACat+Chow">Cat Chow</a></li>
                             <li><a href="/s?rh=brand_facet%3ACat+Dancer">Cat Dancer</a></li>
                             <li><a href="/s?rh=brand_facet%3ACat+Lax">Cat Lax</a></li>
-                            <li><a href="/s?rh=brand_facet%3ACat+Mate">Cat Mate</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3ACat+Mate">Cat Mate</a></li>
                             <li><a href="/s?rh=brand_facet%3ACat%27s+Pride">Cat's Pride</a></li>
                             <li><a href="/s?rh=brand_facet%3ACat-Man-Doo">Cat-Man-Doo</a></li>
                             <li><a href="/s?rh=brand_facet%3ACatGenie">CatGenie</a></li>
                             <li><a href="/s?rh=brand_facet%3ACathole">Cathole</a></li>
                             <li><a href="/s?rh=brand_facet%3ACatit">Catit</a></li>
                             <li><a href="/s?rh=brand_facet%3ACats+in+the+Kitchen">Cats in the Kitchen</a></li>
+                            <li><a href="/s?rh=brand_facet%3ACats+Rule">Cats Rule</a></li>
                             <li><a href="/s?rh=brand_facet%3ACesar">Cesar</a></li>
+                            <li><a href="/s?rh=brand_facet%3AChai%27s+Choice">Chai's Choice</a></li>
                             <li><a href="/s?rh=brand_facet%3ACharlee+Bear">Charlee Bear</a></li>
                             <li><a href="/s?rh=brand_facet%3AChasing+Our+Tails">Chasing Our Tails</a></li>
                             <li><a href="/s?rh=brand_facet%3AChewmasters">Chewmasters</a></li>
@@ -686,15 +999,22 @@
                             <li><a href="/s?rh=brand_facet%3AChurpiChews">ChurpiChews</a></li>
                             <li><a href="/s?rh=brand_facet%3AClean+Paws">Clean Paws</a></li>
                             <li><a href="/s?rh=brand_facet%3AClearQuest">ClearQuest</a></li>
+                            <li><a href="/s?rh=brand_facet%3AClevercat">Clevercat</a></li>
                             <li><a href="/s?rh=brand_facet%3ACloud+Star">Cloud Star</a></li>
                             <li><a href="/s?rh=brand_facet%3ACoastal+Pet+Products">Coastal Pet Products</a></li>
                             <li><a href="/s?rh=brand_facet%3AComfort+Zone">Comfort Zone</a></li>
+                            <li><a href="/s?rh=brand_facet%3AComfy+Cone">Comfy Cone</a></li>
+                            <li><a href="/s?rh=brand_facet%3AComfy+Wrap">Comfy Wrap</a></li>
                             <li><a href="/s?rh=brand_facet%3AConairPRO">ConairPRO</a></li>
-                            <li><a href="/s?rh=brand_facet%3AContech">Contech</a></li>
+                            <li><a href="/s?rh=brand_facet%3ACool+Pup">Cool Pup</a></li>
                             <li><a href="/s?rh=brand_facet%3ACoolaroo">Coolaroo</a></li>
                             <li><a href="/s?rh=brand_facet%3ACoralife">Coralife</a></li>
                             <li><a href="/s?rh=brand_facet%3ACosequin">Cosequin</a></li>
                             <li><a href="/s?rh=brand_facet%3ACosmic+Catnip">Cosmic Catnip</a></li>
+                            <li><a href="/s?rh=brand_facet%3ACrazy+Dog">Crazy Dog</a></li>
+                            <li><a href="/s?rh=brand_facet%3ACurrent+USA">Current USA</a></li>
+                        </ul>
+                        <ul>
                             </ul>
 
                     </div>
@@ -703,6 +1023,7 @@
                         <h3 class="brand-list-letter"><span>D</span></h3>
 
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3ADakpets">Dakpets</a></li>
                             <li><a href="/s?rh=brand_facet%3ADarford">Darford</a></li>
                             <li><a href="/s?rh=brand_facet%3ADave%27s+Pet+Food">Dave's Pet Food</a></li>
                             <li><a href="/s?rh=brand_facet%3ADechra">Dechra</a></li>
@@ -714,21 +1035,26 @@
                             <li><a href="/s?rh=brand_facet%3ADiamond">Diamond</a></li>
                             <li><a href="/s?rh=brand_facet%3ADigest-eeze">Digest-eeze</a></li>
                             <li><a href="/s?rh=brand_facet%3ADiggin%27+Your+Dog">Diggin' Your Dog</a></li>
+                            <li><a href="/s?rh=brand_facet%3ADingo">Dingo</a></li>
                         </ul>
                         <ul>
-                            <li><a href="/s?rh=brand_facet%3ADingo">Dingo</a></li>
+                            <li><a href="/s?rh=brand_facet%3ADispoz-A-Scoop">Dispoz-A-Scoop</a></li>
                             <li><a href="/s?rh=brand_facet%3ADog+Chow">Dog Chow</a></li>
                             <li><a href="/s?rh=brand_facet%3ADog+Games">Dog Games</a></li>
                             <li><a href="/s?rh=brand_facet%3ADog+Gone+Smart">Dog Gone Smart</a></li>
                             <li><a href="/s?rh=brand_facet%3ADog+is+Good">Dog is Good</a></li>
                             <li><a href="/s?rh=brand_facet%3ADog+Mate">Dog Mate</a></li>
                             <li><a href="/s?rh=brand_facet%3ADog+Rocks">Dog Rocks</a></li>
+                            <li><a href="/s?rh=brand_facet%3ADoggie+Dooley">Doggie Dooley</a></li>
+                            <li><a href="/s?rh=brand_facet%3ADoggie+Stylz">Doggie Stylz</a></li>
+                            <li><a href="/s?rh=brand_facet%3ADoggone">Doggone</a></li>
                             <li><a href="/s?rh=brand_facet%3ADogit">Dogit</a></li>
                             <li><a href="/s?rh=brand_facet%3ADogswell">Dogswell</a></li>
-                            <li><a href="/s?rh=brand_facet%3ADogzilla">Dogzilla</a></li>
-                            <li><a href="/s?rh=brand_facet%3ADouxo">Douxo</a></li>
+                            <li><a href="/s?rh=brand_facet%3ADogtek">Dogtek</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3ADogzilla">Dogzilla</a></li>
+                            <li><a href="/s?rh=brand_facet%3ADouxo">Douxo</a></li>
                             <li><a href="/s?rh=brand_facet%3ADr.+Elsey%27s">Dr. Elsey's</a></li>
                             <li><a href="/s?rh=brand_facet%3ADr.+Gary%27s+Best+Breed">Dr. Gary's Best Breed</a></li>
                             <li><a href="/s?rh=brand_facet%3ADr.+Gold%27s">Dr. Gold's</a></li>
@@ -755,25 +1081,27 @@
                             <li><a href="/s?rh=brand_facet%3AEarthbath">Earthbath</a></li>
                             <li><a href="/s?rh=brand_facet%3AEarthborn+Holistic">Earthborn Holistic</a></li>
                             <li><a href="/s?rh=brand_facet%3AEast+Side+Collection">East Side Collection</a></li>
+                            <li><a href="/s?rh=brand_facet%3AEasyology">Easyology</a></li>
                             <li><a href="/s?rh=brand_facet%3AEicosaDerm">EicosaDerm</a></li>
+                            <li><a href="/s?rh=brand_facet%3AEncore">Encore</a></li>
                         </ul>
                         <ul>
-                            <li><a href="/s?rh=brand_facet%3AEncore">Encore</a></li>
                             <li><a href="/s?rh=brand_facet%3AEndurosyn">Endurosyn</a></li>
+                            <li><a href="/s?rh=brand_facet%3AEpi-Pet">Epi-Pet</a></li>
+                            <li><a href="/s?rh=brand_facet%3AEQyss+Grooming+Products">EQyss Grooming Products</a></li>
                             <li><a href="/s?rh=brand_facet%3AEthical+Pet">Ethical Pet</a></li>
                             <li><a href="/s?rh=brand_facet%3AEtta+Says%21">Etta Says!</a></li>
                             <li><a href="/s?rh=brand_facet%3AEukanuba">Eukanuba</a></li>
                             <li><a href="/s?rh=brand_facet%3AEvanger%27s">Evanger's</a></li>
+                            <li><a href="/s?rh=brand_facet%3AEver+Clean">Ever Clean</a></li>
                         </ul>
                         <ul>
-                            <li><a href="/s?rh=brand_facet%3AEver+Clean">Ever Clean</a></li>
                             <li><a href="/s?rh=brand_facet%3AEvolve">Evolve</a></li>
                             <li><a href="/s?rh=brand_facet%3AExclusively+Dog">Exclusively Dog</a></li>
                             <li><a href="/s?rh=brand_facet%3AExo+Terra">Exo Terra</a></li>
                             <li><a href="/s?rh=brand_facet%3AEye+Envy">Eye Envy</a></li>
+                            <li><a href="/s?rh=brand_facet%3AEZ">EZ</a></li>
                             <li><a href="/s?rh=brand_facet%3AEzyDog">EzyDog</a></li>
-                        </ul>
-                        <ul>
                             </ul>
 
                     </div>
@@ -792,31 +1120,38 @@
                             <li><a href="/s?rh=brand_facet%3AFelisyl">Felisyl</a></li>
                             <li><a href="/s?rh=brand_facet%3AFeliway">Feliway</a></li>
                             <li><a href="/s?rh=brand_facet%3AFerrera+Farms">Ferrera Farms</a></li>
-                            <li><a href="/s?rh=brand_facet%3AFirstMate">FirstMate</a></li>
+                            <li><a href="/s?rh=brand_facet%3AFiebing%27s">Fiebing's</a></li>
+                            <li><a href="/s?rh=brand_facet%3AFinest+for+Pets">Finest for Pets</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AFirst+Alert">First Alert</a></li>
+                            <li><a href="/s?rh=brand_facet%3AFirstMate">FirstMate</a></li>
                             <li><a href="/s?rh=brand_facet%3AFirstrax">Firstrax</a></li>
+                            <li><a href="/s?rh=brand_facet%3AFish+Mate">Fish Mate</a></li>
                             <li><a href="/s?rh=brand_facet%3AFizzion">Fizzion</a></li>
                             <li><a href="/s?rh=brand_facet%3AFlea+Away">Flea Away</a></li>
                             <li><a href="/s?rh=brand_facet%3AFlexi">Flexi</a></li>
                             <li><a href="/s?rh=brand_facet%3AFluker%27s">Fluker's</a></li>
                             <li><a href="/s?rh=brand_facet%3AFlush+Puppies">Flush Puppies</a></li>
                             <li><a href="/s?rh=brand_facet%3AFluval">Fluval</a></li>
+                            <li><a href="/s?rh=brand_facet%3AFooey">Fooey</a></li>
                             <li><a href="/s?rh=brand_facet%3AFour+Paws">Four Paws</a></li>
+                        </ul>
+                        <ul>
                             <li><a href="/s?rh=brand_facet%3AFree+Form">Free Form</a></li>
                             <li><a href="/s?rh=brand_facet%3AFresh+News">Fresh News</a></li>
                             <li><a href="/s?rh=brand_facet%3AFresh+Step">Fresh Step</a></li>
-                        </ul>
-                        <ul>
                             <li><a href="/s?rh=brand_facet%3AFrisco">Frisco</a></li>
                             <li><a href="/s?rh=brand_facet%3AFriskies">Friskies</a></li>
                             <li><a href="/s?rh=brand_facet%3AFroliCat">FroliCat</a></li>
                             <li><a href="/s?rh=brand_facet%3AFromm">Fromm</a></li>
                             <li><a href="/s?rh=brand_facet%3AFrontline">Frontline</a></li>
                             <li><a href="/s?rh=brand_facet%3AFruitables">Fruitables</a></li>
-                            <li><a href="/s?rh=brand_facet%3AFungi+Perfecti">Fungi Perfecti</a></li>
+                            <li><a href="/s?rh=brand_facet%3AFull+Moon">Full Moon</a></li>
                             <li><a href="/s?rh=brand_facet%3AFURminator">FURminator</a></li>
                             <li><a href="/s?rh=brand_facet%3AFussie+Cat">Fussie Cat</a></li>
+                        </ul>
+                        <ul>
                             </ul>
 
                     </div>
@@ -828,15 +1163,19 @@
                             <li><a href="/s?rh=brand_facet%3AGamma2">Gamma2</a></li>
                             <li><a href="/s?rh=brand_facet%3AGarden+Chic%21">Garden Chic!</a></li>
                             <li><a href="/s?rh=brand_facet%3AGen7Pets">Gen7Pets</a></li>
+                            <li><a href="/s?rh=brand_facet%3AGentle+Giants">Gentle Giants</a></li>
+                            <li><a href="/s?rh=brand_facet%3AGerrard+Larriett+Aromatherapy+Pet+Care">Gerrard Larriett Aromatherapy Pet Care</a></li>
                             <li><a href="/s?rh=brand_facet%3AGet+Naked">Get Naked</a></li>
                             <li><a href="/s?rh=brand_facet%3AGlandex">Glandex</a></li>
+                            <li><a href="/s?rh=brand_facet%3AGloFish">GloFish</a></li>
                             <li><a href="/s?rh=brand_facet%3AGo%21">Go!</a></li>
-                            <li><a href="/s?rh=brand_facet%3AGoDog">GoDog</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AGoDog">GoDog</a></li>
                             <li><a href="/s?rh=brand_facet%3AGood+%27n%27+Fun">Good 'n' Fun</a></li>
                             <li><a href="/s?rh=brand_facet%3AGood+Buddy">Good Buddy</a></li>
                             <li><a href="/s?rh=brand_facet%3AGoPetClub">GoPetClub</a></li>
+                            <li><a href="/s?rh=brand_facet%3AGoughNuts">GoughNuts</a></li>
                             <li><a href="/s?rh=brand_facet%3AGrandma+Lucy%27s">Grandma Lucy's</a></li>
                             <li><a href="/s?rh=brand_facet%3AGrannick%27s+Bitter+Apple">Grannick's Bitter Apple</a></li>
                             <li><a href="/s?rh=brand_facet%3AGray+Muzzle">Gray Muzzle</a></li>
@@ -849,6 +1188,7 @@
                             <li><a href="/s?rh=brand_facet%3AGrillerz">Grillerz</a></li>
                             <li><a href="/s?rh=brand_facet%3AGrizzly">Grizzly</a></li>
                             <li><a href="/s?rh=brand_facet%3AGrriggles">Grriggles</a></li>
+                            <li><a href="/s?rh=brand_facet%3AGuardian+Gear">Guardian Gear</a></li>
                             </ul>
 
                     </div>
@@ -857,18 +1197,24 @@
                         <h3 class="brand-list-letter"><span>H</span></h3>
 
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AH2O4K9">H2O4K9</a></li>
                             <li><a href="/s?rh=brand_facet%3AHabitrail">Habitrail</a></li>
                             <li><a href="/s?rh=brand_facet%3AHagen">Hagen</a></li>
                             <li><a href="/s?rh=brand_facet%3AHalo">Halo</a></li>
                             <li><a href="/s?rh=brand_facet%3AHalti">Halti</a></li>
+                            <li><a href="/s?rh=brand_facet%3AHamilton">Hamilton</a></li>
+                            <li><a href="/s?rh=brand_facet%3AHandsOn">HandsOn</a></li>
                             <li><a href="/s?rh=brand_facet%3AHappy+Hen+Treats">Happy Hen Treats</a></li>
                             <li><a href="/s?rh=brand_facet%3AHare+of+the+Dog">Hare of the Dog</a></li>
+                            <li><a href="/s?rh=brand_facet%3AHarness+Lead">Harness Lead</a></li>
                             <li><a href="/s?rh=brand_facet%3AHartz">Hartz</a></li>
                             <li><a href="/s?rh=brand_facet%3AHealth+Extension">Health Extension</a></li>
                             <li><a href="/s?rh=brand_facet%3AHear+Doggy">Hear Doggy</a></li>
-                            <li><a href="/s?rh=brand_facet%3AHerbsmith">Herbsmith</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AHenny+Penny">Henny Penny</a></li>
+                            <li><a href="/s?rh=brand_facet%3AHerbsmith">Herbsmith</a></li>
+                            <li><a href="/s?rh=brand_facet%3AHeyrex">Heyrex</a></li>
                             <li><a href="/s?rh=brand_facet%3AHi-Tek+Naturals">Hi-Tek Naturals</a></li>
                             <li><a href="/s?rh=brand_facet%3AHi-Tek+Rations">Hi-Tek Rations</a></li>
                             <li><a href="/s?rh=brand_facet%3AHI-TOR">HI-TOR</a></li>
@@ -882,8 +1228,11 @@
                         </ul>
                         <ul>
                             <li><a href="/s?rh=brand_facet%3AHorizon">Horizon</a></li>
+                            <li><a href="/s?rh=brand_facet%3AHorsemen%27s+Pride">Horsemen's Pride</a></li>
+                            <li><a href="/s?rh=brand_facet%3AHot+Spot+Pets">Hot Spot Pets</a></li>
                             <li><a href="/s?rh=brand_facet%3AHound+%26+Gatos">Hound &amp; Gatos</a></li>
                             <li><a href="/s?rh=brand_facet%3AHowl%27s+Kitchen">Howl's Kitchen</a></li>
+                            <li><a href="/s?rh=brand_facet%3AHueter+Toledo">Hueter Toledo</a></li>
                             <li><a href="/s?rh=brand_facet%3AHuggleHounds">HuggleHounds</a></li>
                             <li><a href="/s?rh=brand_facet%3AHugs+Pet+Products">Hugs Pet Products</a></li>
                             <li><a href="/s?rh=brand_facet%3AHydor">Hydor</a></li>
@@ -902,9 +1251,11 @@
                             <li><a href="/s?rh=brand_facet%3AI+Luv+My+Cat">I Luv My Cat</a></li>
                             <li><a href="/s?rh=brand_facet%3AIams">Iams</a></li>
                             <li><a href="/s?rh=brand_facet%3AIams+Veterinary+Formula">Iams Veterinary Formula</a></li>
+                            <li><a href="/s?rh=brand_facet%3AIdeal+Pet+Products">Ideal Pet Products</a></li>
                         </ul>
                         <ul>
-                            <li><a href="/s?rh=brand_facet%3AIndigo">Indigo</a></li>
+                            <li><a href="/s?rh=brand_facet%3AIllumiseen">Illumiseen</a></li>
+                            <li><a href="/s?rh=brand_facet%3AIndipets">Indipets</a></li>
                             <li><a href="/s?rh=brand_facet%3AInfinite">Infinite</a></li>
                             <li><a href="/s?rh=brand_facet%3AInsect+Shield">Insect Shield</a></li>
                             <li><a href="/s?rh=brand_facet%3AInstant+Ocean">Instant Ocean</a></li>
@@ -946,16 +1297,19 @@
                             <li><a href="/s?rh=brand_facet%3AK9+Advantix+II">K9 Advantix II</a></li>
                             <li><a href="/s?rh=brand_facet%3AK9+Natural">K9 Natural</a></li>
                             <li><a href="/s?rh=brand_facet%3AKaNoodles">KaNoodles</a></li>
+                            <li><a href="/s?rh=brand_facet%3AKASIKS">KASIKS</a></li>
                         </ul>
                         <ul>
-                            <li><a href="/s?rh=brand_facet%3AKASIKS">KASIKS</a></li>
                             <li><a href="/s?rh=brand_facet%3AKaytee">Kaytee</a></li>
                             <li><a href="/s?rh=brand_facet%3AKent">Kent</a></li>
+                            <li><a href="/s?rh=brand_facet%3AKidCo">KidCo</a></li>
                             <li><a href="/s?rh=brand_facet%3AKinetic">Kinetic</a></li>
                             <li><a href="/s?rh=brand_facet%3AKit+%26+Kaboodle">Kit &amp; Kaboodle</a></li>
+                            <li><a href="/s?rh=brand_facet%3AKitten+Chow">Kitten Chow</a></li>
                         </ul>
                         <ul>
-                            <li><a href="/s?rh=brand_facet%3AKitten+Chow">Kitten Chow</a></li>
+                            <li><a href="/s?rh=brand_facet%3AKitty+Cot">Kitty Cot</a></li>
+                            <li><a href="/s?rh=brand_facet%3AKitty+Holster">Kitty Holster</a></li>
                             <li><a href="/s?rh=brand_facet%3AKitty%27s+WonderBox">Kitty's WonderBox</a></li>
                             <li><a href="/s?rh=brand_facet%3AKONG">KONG</a></li>
                             <li><a href="/s?rh=brand_facet%3AKurgo">Kurgo</a></li>
@@ -977,13 +1331,17 @@
                         </ul>
                         <ul>
                             <li><a href="/s?rh=brand_facet%3ALitter+Locker">Litter Locker</a></li>
+                            <li><a href="/s?rh=brand_facet%3ALitterMaid">LitterMaid</a></li>
                             <li><a href="/s?rh=brand_facet%3ALiving+World">Living World</a></li>
                             <li><a href="/s?rh=brand_facet%3ALixit">Lixit</a></li>
-                            <li><a href="/s?rh=brand_facet%3ALola+Bean+Pet+Pads">Lola Bean Pet Pads</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3ALola+Bean+Pet+Pads">Lola Bean Pet Pads</a></li>
                             <li><a href="/s?rh=brand_facet%3ALotus">Lotus</a></li>
                             <li><a href="/s?rh=brand_facet%3ALoving+Pets">Loving Pets</a></li>
+                            <li><a href="/s?rh=brand_facet%3ALubriSyn">LubriSyn</a></li>
+                        </ul>
+                        <ul>
                             </ul>
 
                     </div>
@@ -1002,10 +1360,10 @@
                             <li><a href="/s?rh=brand_facet%3AMarshall">Marshall</a></li>
                             <li><a href="/s?rh=brand_facet%3AMax+%26+Ruffy%27s">Max &amp; Ruffy's</a></li>
                             <li><a href="/s?rh=brand_facet%3AMazuri">Mazuri</a></li>
-                        </ul>
-                        <ul>
                             <li><a href="/s?rh=brand_facet%3AMeaty+Bone">Meaty Bone</a></li>
                             <li><a href="/s?rh=brand_facet%3AMelia+Pet">Melia Pet</a></li>
+                        </ul>
+                        <ul>
                             <li><a href="/s?rh=brand_facet%3AMeow+Mix">Meow Mix</a></li>
                             <li><a href="/s?rh=brand_facet%3AMeow+Town">Meow Town</a></li>
                             <li><a href="/s?rh=brand_facet%3AMerrick">Merrick</a></li>
@@ -1014,17 +1372,23 @@
                             <li><a href="/s?rh=brand_facet%3AMidWest">MidWest</a></li>
                             <li><a href="/s?rh=brand_facet%3AMighty+Dog">Mighty Dog</a></li>
                             <li><a href="/s?rh=brand_facet%3AMilk-Bone">Milk-Bone</a></li>
-                        </ul>
-                        <ul>
                             <li><a href="/s?rh=brand_facet%3AMilo%27s+Kitchen">Milo's Kitchen</a></li>
                             <li><a href="/s?rh=brand_facet%3AMiracle+Care">Miracle Care</a></li>
                             <li><a href="/s?rh=brand_facet%3AMoist+%26+Meaty">Moist &amp; Meaty</a></li>
+                            <li><a href="/s?rh=brand_facet%3AMolly+Mutt">Molly Mutt</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="/s?rh=brand_facet%3AMoody+Pet">Moody Pet</a></li>
+                            <li><a href="/s?rh=brand_facet%3AMoonshuttle">Moonshuttle</a></li>
                             <li><a href="/s?rh=brand_facet%3AMr.+Herzher%27s">Mr. Herzher's</a></li>
                             <li><a href="/s?rh=brand_facet%3AMuenster">Muenster</a></li>
                             <li><a href="/s?rh=brand_facet%3AMulligan+Stew">Mulligan Stew</a></li>
                             <li><a href="/s?rh=brand_facet%3AMultipet">Multipet</a></li>
+                            <li><a href="/s?rh=brand_facet%3AMuse">Muse</a></li>
                             <li><a href="/s?rh=brand_facet%3AMusher%27s+Secret">Musher's Secret</a></li>
                             <li><a href="/s?rh=brand_facet%3AMutt+Mitt">Mutt Mitt</a></li>
+                            <li><a href="/s?rh=brand_facet%3AMy+Dog+Nose+It%21">My Dog Nose It!</a></li>
+                            <li><a href="/s?rh=brand_facet%3AMyPet">MyPet</a></li>
                             </ul>
 
                     </div>
@@ -1037,7 +1401,6 @@
                             <li><a href="/s?rh=brand_facet%3ANatural+Balance">Natural Balance</a></li>
                             <li><a href="/s?rh=brand_facet%3ANatural+Chemistry">Natural Chemistry</a></li>
                             <li><a href="/s?rh=brand_facet%3ANatural+Planet">Natural Planet</a></li>
-                            <li><a href="/s?rh=brand_facet%3ANatural+Planet+Organics">Natural Planet Organics</a></li>
                             <li><a href="/s?rh=brand_facet%3ANatural+Ultramix">Natural Ultramix</a></li>
                             <li><a href="/s?rh=brand_facet%3ANaturally+Fresh%21">Naturally Fresh!</a></li>
                             <li><a href="/s?rh=brand_facet%3ANature%27s+Logic">Nature's Logic</a></li>
@@ -1045,14 +1408,19 @@
                             <li><a href="/s?rh=brand_facet%3ANature%27s+Recipe">Nature's Recipe</a></li>
                             <li><a href="/s?rh=brand_facet%3ANature%27s+Variety">Nature's Variety</a></li>
                             <li><a href="/s?rh=brand_facet%3ANaturVet">NaturVet</a></li>
+                            <li><a href="/s?rh=brand_facet%3ANeater">Neater</a></li>
                             <li><a href="/s?rh=brand_facet%3ANeater+Feeder">Neater Feeder</a></li>
+                            <li><a href="/s?rh=brand_facet%3ANeater+Scooper">Neater Scooper</a></li>
+                            <li><a href="/s?rh=brand_facet%3ANeko+Chan">Neko Chan</a></li>
                         </ul>
                         <ul>
                             <li><a href="/s?rh=brand_facet%3ANeko+Flies">Neko Flies</a></li>
+                            <li><a href="/s?rh=brand_facet%3ANeko+Pawdz">Neko Pawdz</a></li>
                             <li><a href="/s?rh=brand_facet%3ANerf+Dog">Nerf Dog</a></li>
                             <li><a href="/s?rh=brand_facet%3ANewman%27s+Own+Organics">Newman's Own Organics</a></li>
                             <li><a href="/s?rh=brand_facet%3ANext+Gen+Pet+Products">Next Gen Pet Products</a></li>
                             <li><a href="/s?rh=brand_facet%3ANina+Ottosson">Nina Ottosson</a></li>
+                            <li><a href="/s?rh=brand_facet%3ANite+Beams">Nite Beams</a></li>
                             <li><a href="/s?rh=brand_facet%3ANite+Ize">Nite Ize</a></li>
                             <li><a href="/s?rh=brand_facet%3ANo+Grainers">No Grainers</a></li>
                             <li><a href="/s?rh=brand_facet%3ANootie">Nootie</a></li>
@@ -1066,6 +1434,8 @@
                             <li><a href="/s?rh=brand_facet%3ANulo">Nulo</a></li>
                             <li><a href="/s?rh=brand_facet%3ANummy+Tum-Tum">Nummy Tum-Tum</a></li>
                             <li><a href="/s?rh=brand_facet%3ANupro">Nupro</a></li>
+                            <li><a href="/s?rh=brand_facet%3ANurtureCALM">NurtureCALM</a></li>
+                            <li><a href="/s?rh=brand_facet%3ANusentia">Nusentia</a></li>
                             <li><a href="/s?rh=brand_facet%3ANutramax">Nutramax</a></li>
                             <li><a href="/s?rh=brand_facet%3ANutri-Vet">Nutri-Vet</a></li>
                             <li><a href="/s?rh=brand_facet%3ANutrisca">Nutrisca</a></li>
@@ -1083,14 +1453,16 @@
                         <h3 class="brand-list-letter"><span>O</span></h3>
 
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AOdormute">Odormute</a></li>
+                            <li><a href="/s?rh=brand_facet%3AOh+You+Lucky+Dog%21">Oh You Lucky Dog!</a></li>
                             <li><a href="/s?rh=brand_facet%3AOkocat">Okocat</a></li>
                             <li><a href="/s?rh=brand_facet%3AOld+Mother+Hubbard">Old Mother Hubbard</a></li>
                             <li><a href="/s?rh=brand_facet%3AOmega+One">Omega One</a></li>
                             <li><a href="/s?rh=brand_facet%3AOmega+Paw">Omega Paw</a></li>
                             <li><a href="/s?rh=brand_facet%3AOmega-Caps">Omega-Caps</a></li>
-                            <li><a href="/s?rh=brand_facet%3AOra-Clens">Ora-Clens</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AOra-Clens">Ora-Clens</a></li>
                             <li><a href="/s?rh=brand_facet%3AOratene">Oratene</a></li>
                             <li><a href="/s?rh=brand_facet%3AORE+Pet">ORE Pet</a></li>
                             <li><a href="/s?rh=brand_facet%3AOrganix">Organix</a></li>
@@ -1105,8 +1477,6 @@
                             <li><a href="/s?rh=brand_facet%3AOvitrol">Ovitrol</a></li>
                             <li><a href="/s?rh=brand_facet%3AOxbow">Oxbow</a></li>
                             <li><a href="/s?rh=brand_facet%3AOxGord">OxGord</a></li>
-                        </ul>
-                        <ul>
                             </ul>
 
                     </div>
@@ -1116,38 +1486,51 @@
 
                         <ul>
                             <li><a href="/s?rh=brand_facet%3AP.L.A.Y.+Pet+Lifestyle+and+You">P.L.A.Y. Pet Lifestyle and You</a></li>
+                            <li><a href="/s?rh=brand_facet%3APangea">Pangea</a></li>
                             <li><a href="/s?rh=brand_facet%3AParagon+Products">Paragon Products</a></li>
+                            <li><a href="/s?rh=brand_facet%3AParticular+Paws">Particular Paws</a></li>
                             <li><a href="/s?rh=brand_facet%3AParty+Animal">Party Animal</a></li>
                             <li><a href="/s?rh=brand_facet%3APaula+Deen+Hugs">Paula Deen Hugs</a></li>
                             <li><a href="/s?rh=brand_facet%3APaw+Plunger">Paw Plunger</a></li>
+                            <li><a href="/s?rh=brand_facet%3APaws+Aboard">Paws Aboard</a></li>
                             <li><a href="/s?rh=brand_facet%3APawtriotic">Pawtriotic</a></li>
                             <li><a href="/s?rh=brand_facet%3APawz">Pawz</a></li>
                             <li><a href="/s?rh=brand_facet%3APedigree">Pedigree</a></li>
                             <li><a href="/s?rh=brand_facet%3APenn-Plax">Penn-Plax</a></li>
                             <li><a href="/s?rh=brand_facet%3APerfect+Coat">Perfect Coat</a></li>
                             <li><a href="/s?rh=brand_facet%3APerfectly+Natural+Dog">Perfectly Natural Dog</a></li>
+                            <li><a href="/s?rh=brand_facet%3APerky-Pet">Perky-Pet</a></li>
                             <li><a href="/s?rh=brand_facet%3APet+%27n+Shape">Pet 'n Shape</a></li>
                             <li><a href="/s?rh=brand_facet%3APet+Botanics">Pet Botanics</a></li>
                             <li><a href="/s?rh=brand_facet%3APet+Center">Pet Center</a></li>
+                            <li><a href="/s?rh=brand_facet%3APet+Fit+For+Life">Pet Fit For Life</a></li>
                             <li><a href="/s?rh=brand_facet%3APet+Gear">Pet Gear</a></li>
+                            <li><a href="/s?rh=brand_facet%3APet+Head">Pet Head</a></li>
                             <li><a href="/s?rh=brand_facet%3APet+Health+Solutions">Pet Health Solutions</a></li>
                             <li><a href="/s?rh=brand_facet%3APet+Naturals+of+Vermont">Pet Naturals of Vermont</a></li>
                             <li><a href="/s?rh=brand_facet%3APet+Odor+Exterminator">Pet Odor Exterminator</a></li>
+                            <li><a href="/s?rh=brand_facet%3APet+Parade">Pet Parade</a></li>
+                            <li><a href="/s?rh=brand_facet%3APet+Qwerks">Pet Qwerks</a></li>
                             <li><a href="/s?rh=brand_facet%3APet+Remedy">Pet Remedy</a></li>
+                            <li><a href="/s?rh=brand_facet%3APet+Standard">Pet Standard</a></li>
+                            <li><a href="/s?rh=brand_facet%3APet+Trex">Pet Trex</a></li>
                             <li><a href="/s?rh=brand_facet%3APet%27s+Choice+Pharmaceuticals">Pet's Choice Pharmaceuticals</a></li>
                             <li><a href="/s?rh=brand_facet%3APetAg">PetAg</a></li>
                             <li><a href="/s?rh=brand_facet%3APetArmor">PetArmor</a></li>
                             <li><a href="/s?rh=brand_facet%3APetcurean">Petcurean</a></li>
+                            <li><a href="/s?rh=brand_facet%3APetego">Petego</a></li>
+                        </ul>
+                        <ul>
                             <li><a href="/s?rh=brand_facet%3APeter%27s">Peter's</a></li>
+                            <li><a href="/s?rh=brand_facet%3APetflect">Petflect</a></li>
                             <li><a href="/s?rh=brand_facet%3APetFusion">PetFusion</a></li>
                             <li><a href="/s?rh=brand_facet%3APetGuard">PetGuard</a></li>
                             <li><a href="/s?rh=brand_facet%3APetite+Cuisine">Petite Cuisine</a></li>
                             <li><a href="/s?rh=brand_facet%3APetKind">PetKind</a></li>
                             <li><a href="/s?rh=brand_facet%3APetlinks">Petlinks</a></li>
-                        </ul>
-                        <ul>
                             <li><a href="/s?rh=brand_facet%3APetmate">Petmate</a></li>
                             <li><a href="/s?rh=brand_facet%3APetmatrix">Petmatrix</a></li>
+                            <li><a href="/s?rh=brand_facet%3APetPeek">PetPeek</a></li>
                             <li><a href="/s?rh=brand_facet%3APetpost">Petpost</a></li>
                             <li><a href="/s?rh=brand_facet%3APetRageous+Designs">PetRageous Designs</a></li>
                             <li><a href="/s?rh=brand_facet%3APets+First">Pets First</a></li>
@@ -1159,34 +1542,37 @@
                             <li><a href="/s?rh=brand_facet%3APhycox">Phycox</a></li>
                             <li><a href="/s?rh=brand_facet%3APiddle+Place">Piddle Place</a></li>
                             <li><a href="/s?rh=brand_facet%3APill+Pockets">Pill Pockets</a></li>
-                            <li><a href="/s?rh=brand_facet%3APinnacle">Pinnacle</a></li>
                             <li><a href="/s?rh=brand_facet%3APioneer+Naturals">Pioneer Naturals</a></li>
                             <li><a href="/s?rh=brand_facet%3APioneer+Pet">Pioneer Pet</a></li>
                             <li><a href="/s?rh=brand_facet%3APlanet+Dog">Planet Dog</a></li>
                             <li><a href="/s?rh=brand_facet%3APlatinum+Pets">Platinum Pets</a></li>
                             <li><a href="/s?rh=brand_facet%3APlato">Plato</a></li>
                             <li><a href="/s?rh=brand_facet%3APlay-N-Squeak">Play-N-Squeak</a></li>
+                            <li><a href="/s?rh=brand_facet%3APlush+Paws+Products">Plush Paws Products</a></li>
+                            <li><a href="/s?rh=brand_facet%3APoochieBells">PoochieBells</a></li>
                             <li><a href="/s?rh=brand_facet%3APop%27n+Bites">Pop'n Bites</a></li>
                             <li><a href="/s?rh=brand_facet%3APopware+for+Pets">Popware for Pets</a></li>
                             <li><a href="/s?rh=brand_facet%3APounce">Pounce</a></li>
                             <li><a href="/s?rh=brand_facet%3APrairie+Dog">Prairie Dog</a></li>
                             <li><a href="/s?rh=brand_facet%3APrecious+Cat">Precious Cat</a></li>
+                        </ul>
+                        <ul>
                             <li><a href="/s?rh=brand_facet%3APrecise">Precise</a></li>
                             <li><a href="/s?rh=brand_facet%3APrecise+Holistic+Complete">Precise Holistic Complete</a></li>
                             <li><a href="/s?rh=brand_facet%3APrecise+Naturals">Precise Naturals</a></li>
                             <li><a href="/s?rh=brand_facet%3APrecision+Pet+Products">Precision Pet Products</a></li>
-                        </ul>
-                        <ul>
                             <li><a href="/s?rh=brand_facet%3APremier">Premier</a></li>
                             <li><a href="/s?rh=brand_facet%3APremium+Chicken+Chomps">Premium Chicken Chomps</a></li>
                             <li><a href="/s?rh=brand_facet%3APremium+Choice">Premium Choice</a></li>
                             <li><a href="/s?rh=brand_facet%3APremium+Edge">Premium Edge</a></li>
                             <li><a href="/s?rh=brand_facet%3APremium+Pork+Chomps">Premium Pork Chomps</a></li>
                             <li><a href="/s?rh=brand_facet%3APreva">Preva</a></li>
+                            <li><a href="/s?rh=brand_facet%3APrevue+Pet+Products">Prevue Pet Products</a></li>
                             <li><a href="/s?rh=brand_facet%3APrimal">Primal</a></li>
                             <li><a href="/s?rh=brand_facet%3APrime+Taste+Treats">Prime Taste Treats</a></li>
                             <li><a href="/s?rh=brand_facet%3APro+Pac">Pro Pac</a></li>
                             <li><a href="/s?rh=brand_facet%3AProbios">Probios</a></li>
+                            <li><a href="/s?rh=brand_facet%3AProDen">ProDen</a></li>
                             <li><a href="/s?rh=brand_facet%3AProSelect">ProSelect</a></li>
                             <li><a href="/s?rh=brand_facet%3APup-Peroni">Pup-Peroni</a></li>
                             <li><a href="/s?rh=brand_facet%3APupCorn">PupCorn</a></li>
@@ -1204,6 +1590,9 @@
                             <li><a href="/s?rh=brand_facet%3APurina+ONE">Purina ONE</a></li>
                             <li><a href="/s?rh=brand_facet%3APurina+Pro+Plan">Purina Pro Plan</a></li>
                             <li><a href="/s?rh=brand_facet%3APurina+Pro+Plan+Veterinary+Diets">Purina Pro Plan Veterinary Diets</a></li>
+                            <li><a href="/s?rh=brand_facet%3APython">Python</a></li>
+                        </ul>
+                        <ul>
                             </ul>
 
                     </div>
@@ -1211,6 +1600,11 @@
                 <div class="brand-list-item" id="brands-Q">
                         <h3 class="brand-list-letter"><span>Q</span></h3>
 
+                        <ul>
+                            <li>
+                                <a href="/s?rh=brand_facet%3AQpets">Qpets</a>
+                            </li>
+                        </ul>
                         <ul>
                             <li>
                                 <a href="/s?rh=brand_facet%3AQT+Dog">QT Dog</a>
@@ -1231,19 +1625,24 @@
 
                         <ul>
                             <li><a href="/s?rh=brand_facet%3ARachael+Ray+Nutrish">Rachael Ray Nutrish</a></li>
+                            <li><a href="/s?rh=brand_facet%3ARealTree">RealTree</a></li>
                             <li><a href="/s?rh=brand_facet%3ARed+Dingo">Red Dingo</a></li>
                             <li><a href="/s?rh=brand_facet%3ARedbarn">Redbarn</a></li>
                             <li><a href="/s?rh=brand_facet%3ARelief">Relief</a></li>
                             <li><a href="/s?rh=brand_facet%3AReMATRIX">ReMATRIX</a></li>
+                            <li><a href="/s?rh=brand_facet%3ARemedy%2BRecovery">Remedy+Recovery</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3ARepitat">Repitat</a></li>
+                            <li><a href="/s?rh=brand_facet%3ARescue+Remedy">Rescue Remedy</a></li>
                             <li><a href="/s?rh=brand_facet%3AResponse+Products">Response Products</a></li>
                             <li><a href="/s?rh=brand_facet%3ARichard%27s+Organics">Richard's Organics</a></li>
+                            <li><a href="/s?rh=brand_facet%3ARichell">Richell</a></li>
                             <li><a href="/s?rh=brand_facet%3ARocco+%26+Roxie+Supply+Co.">Rocco &amp; Roxie Supply Co.</a></li>
                             <li><a href="/s?rh=brand_facet%3ARogz">Rogz</a></li>
-                            <li><a href="/s?rh=brand_facet%3ARoyal+Canin">Royal Canin</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3ARoyal+Canin">Royal Canin</a></li>
                             <li><a href="/s?rh=brand_facet%3ARoyal+Canin+Breed+Health+Nutrition">Royal Canin Breed Health Nutrition</a></li>
                             <li><a href="/s?rh=brand_facet%3ARoyal+Canin+Size+Health+Nutrition">Royal Canin Size Health Nutrition</a></li>
                             <li><a href="/s?rh=brand_facet%3ARoyal+Canin+Veterinary+Diet">Royal Canin Veterinary Diet</a></li>
@@ -1258,6 +1657,8 @@
                         <ul>
                             <li><a href="/s?rh=brand_facet%3ASafari">Safari</a></li>
                             <li><a href="/s?rh=brand_facet%3ASam%27s+Yams">Sam's Yams</a></li>
+                            <li><a href="/s?rh=brand_facet%3AScaredy+Cut">Scaredy Cut</a></li>
+                            <li><a href="/s?rh=brand_facet%3AScience+Diet">Science Diet</a></li>
                             <li><a href="/s?rh=brand_facet%3AScoop+Away">Scoop Away</a></li>
                             <li><a href="/s?rh=brand_facet%3AScoopFree">ScoopFree</a></li>
                             <li><a href="/s?rh=brand_facet%3AScott+Pet+Products">Scott Pet Products</a></li>
@@ -1268,6 +1669,7 @@
                             <li><a href="/s?rh=brand_facet%3ASentry">Sentry</a></li>
                             <li><a href="/s?rh=brand_facet%3ASeresto">Seresto</a></li>
                             <li><a href="/s?rh=brand_facet%3ASergeant%27s">Sergeant's</a></li>
+                            <li><a href="/s?rh=brand_facet%3AShapley%27s">Shapley's</a></li>
                             <li><a href="/s?rh=brand_facet%3ASheaPet">SheaPet</a></li>
                             <li><a href="/s?rh=brand_facet%3ASheba">Sheba</a></li>
                             <li><a href="/s?rh=brand_facet%3AShed-X">Shed-X</a></li>
@@ -1279,6 +1681,7 @@
                             <li><a href="/s?rh=brand_facet%3ASimply+Pine">Simply Pine</a></li>
                             <li><a href="/s?rh=brand_facet%3ASmall+Pet+Select">Small Pet Select</a></li>
                             <li><a href="/s?rh=brand_facet%3ASmart+n%27+Tasty">Smart n' Tasty</a></li>
+                            <li><a href="/s?rh=brand_facet%3ASmart+Pet+Love">Smart Pet Love</a></li>
                             <li><a href="/s?rh=brand_facet%3ASmartBones">SmartBones</a></li>
                             <li><a href="/s?rh=brand_facet%3ASmartCat">SmartCat</a></li>
                             <li><a href="/s?rh=brand_facet%3ASmarter+Toys">Smarter Toys</a></li>
@@ -1286,6 +1689,8 @@
                             <li><a href="/s?rh=brand_facet%3ASmokehouse">Smokehouse</a></li>
                             <li><a href="/s?rh=brand_facet%3ASnausages">Snausages</a></li>
                             <li><a href="/s?rh=brand_facet%3ASnicky+Snaks">Snicky Snaks</a></li>
+                            <li><a href="/s?rh=brand_facet%3ASoft+Claws">Soft Claws</a></li>
+                            <li><a href="/s?rh=brand_facet%3ASoft+Flex">Soft Flex</a></li>
                             <li><a href="/s?rh=brand_facet%3ASogeval">Sogeval</a></li>
                             <li><a href="/s?rh=brand_facet%3ASojos">Sojos</a></li>
                             <li><a href="/s?rh=brand_facet%3ASolid+Gold">Solid Gold</a></li>
@@ -1295,7 +1700,9 @@
                             <li><a href="/s?rh=brand_facet%3ASporn">Sporn</a></li>
                             <li><a href="/s?rh=brand_facet%3ASportDOG">SportDOG</a></li>
                             <li><a href="/s?rh=brand_facet%3ASPORTMiX">SPORTMiX</a></li>
-                            <li><a href="/s?rh=brand_facet%3ASpring+Naturals">Spring Naturals</a></li>
+                            <li><a href="/s?rh=brand_facet%3ASpot+Farms">Spot Farms</a></li>
+                            <li><a href="/s?rh=brand_facet%3ASpunky+Pup">Spunky Pup</a></li>
+                            <li><a href="/s?rh=brand_facet%3AStandlee+JoJo%27s+Best">Standlee JoJo's Best</a></li>
                             <li><a href="/s?rh=brand_facet%3AStarmark">Starmark</a></li>
                             <li><a href="/s?rh=brand_facet%3ASteer+Sticks">Steer Sticks</a></li>
                             <li><a href="/s?rh=brand_facet%3AStella+%26+Chewy%27s">Stella &amp; Chewy's</a></li>
@@ -1304,12 +1711,10 @@
                             <li><a href="/s?rh=brand_facet%3ASunny+%26+Honey">Sunny &amp; Honey</a></li>
                             <li><a href="/s?rh=brand_facet%3ASunseed">Sunseed</a></li>
                             <li><a href="/s?rh=brand_facet%3ASuper+Snouts">Super Snouts</a></li>
-                            <li><a href="/s?rh=brand_facet%3ASwheat+Scoop">Swheat Scoop</a></li>
+                            <li><a href="/s?rh=brand_facet%3AsWheat+Scoop">sWheat Scoop</a></li>
                             <li><a href="/s?rh=brand_facet%3ASyner-G">Syner-G</a></li>
                             <li><a href="/s?rh=brand_facet%3ASynergyLabs">SynergyLabs</a></li>
                             <li><a href="/s?rh=brand_facet%3ASynovi">Synovi</a></li>
-                        </ul>
-                        <ul>
                             </ul>
 
                     </div>
@@ -1323,33 +1728,42 @@
                             <li><a href="/s?rh=brand_facet%3ATemptations">Temptations</a></li>
                             <li><a href="/s?rh=brand_facet%3ATerraMax">TerraMax</a></li>
                             <li><a href="/s?rh=brand_facet%3ATersus">Tersus</a></li>
+                            <li><a href="/s?rh=brand_facet%3ATether+Tug">Tether Tug</a></li>
                             <li><a href="/s?rh=brand_facet%3ATetra">Tetra</a></li>
                             <li><a href="/s?rh=brand_facet%3ATetrafauna">Tetrafauna</a></li>
                             <li><a href="/s?rh=brand_facet%3AThe+Company+of+Animals">The Company of Animals</a></li>
                             <li><a href="/s?rh=brand_facet%3AThe+Fifth+Paw">The Fifth Paw</a></li>
                             <li><a href="/s?rh=brand_facet%3AThe+Goodlife+Recipe">The Goodlife Recipe</a></li>
+                            <li><a href="/s?rh=brand_facet%3AThe+Green+Pet+Shop">The Green Pet Shop</a></li>
                             <li><a href="/s?rh=brand_facet%3AThe+Honest+Kitchen">The Honest Kitchen</a></li>
                             <li><a href="/s?rh=brand_facet%3AThe+Missing+Link">The Missing Link</a></li>
                             <li><a href="/s?rh=brand_facet%3AThe+Real+Meat+Company">The Real Meat Company</a></li>
-                        </ul>
-                        <ul>
                             <li><a href="/s?rh=brand_facet%3AThree+Dog+Bakery">Three Dog Bakery</a></li>
                             <li><a href="/s?rh=brand_facet%3AThunderCap">ThunderCap</a></li>
+                        </ul>
+                        <ul>
+                            <li><a href="/s?rh=brand_facet%3AThunderCollar">ThunderCollar</a></li>
                             <li><a href="/s?rh=brand_facet%3AThunderCover">ThunderCover</a></li>
+                            <li><a href="/s?rh=brand_facet%3AThunderEssence">ThunderEssence</a></li>
                             <li><a href="/s?rh=brand_facet%3AThunderLeash">ThunderLeash</a></li>
                             <li><a href="/s?rh=brand_facet%3AThunderShirt">ThunderShirt</a></li>
                             <li><a href="/s?rh=brand_facet%3AThunderSpray">ThunderSpray</a></li>
                             <li><a href="/s?rh=brand_facet%3AThunderToy">ThunderToy</a></li>
+                            <li><a href="/s?rh=brand_facet%3ATickEase">TickEase</a></li>
                             <li><a href="/s?rh=brand_facet%3ATidy+Cats">Tidy Cats</a></li>
                             <li><a href="/s?rh=brand_facet%3ATiki+Cat">Tiki Cat</a></li>
                             <li><a href="/s?rh=brand_facet%3ATiki+Dog">Tiki Dog</a></li>
                             <li><a href="/s?rh=brand_facet%3ATom+Pet+Products">Tom Pet Products</a></li>
                             <li><a href="/s?rh=brand_facet%3ATomlyn">Tomlyn</a></li>
+                            <li><a href="/s?rh=brand_facet%3ATops+Pet+Products">Tops Pet Products</a></li>
+                            <li><a href="/s?rh=brand_facet%3ATough-1">Tough-1</a></li>
                             <li><a href="/s?rh=brand_facet%3ATranQuil">TranQuil</a></li>
+                            <li><a href="/s?rh=brand_facet%3ATriNova">TriNova</a></li>
                         </ul>
                         <ul>
                             <li><a href="/s?rh=brand_facet%3ATripett">Tripett</a></li>
                             <li><a href="/s?rh=brand_facet%3ATriumph">Triumph</a></li>
+                            <li><a href="/s?rh=brand_facet%3ATrixie">Trixie</a></li>
                             <li><a href="/s?rh=brand_facet%3ATrizCHLOR">TrizCHLOR</a></li>
                             <li><a href="/s?rh=brand_facet%3ATrizULTRA">TrizULTRA</a></li>
                             <li><a href="/s?rh=brand_facet%3ATropical+Carnival">Tropical Carnival</a></li>
@@ -1359,8 +1773,11 @@
                             <li><a href="/s?rh=brand_facet%3ATrue+Chews">True Chews</a></li>
                             <li><a href="/s?rh=brand_facet%3ATrueBlue+Pet+Products">TrueBlue Pet Products</a></li>
                             <li><a href="/s?rh=brand_facet%3ATruFood">TruFood</a></li>
+                            <li><a href="/s?rh=brand_facet%3ATuff+Mutt">Tuff Mutt</a></li>
                             <li><a href="/s?rh=brand_facet%3ATuffy%27s">Tuffy's</a></li>
                             <li><a href="/s?rh=brand_facet%3ATuffy%27s+Pet+Food">Tuffy's Pet Food</a></li>
+                            <li><a href="/s?rh=brand_facet%3ATwigo+Pet+ID+Tags">Twigo Pet ID Tags</a></li>
+                            <li><a href="/s?rh=brand_facet%3ATwo+Meows">Two Meows</a></li>
                         </ul>
                         <ul>
                             </ul>
@@ -1376,13 +1793,16 @@
                             <li><a href="/s?rh=brand_facet%3AUltra+Chewy">Ultra Chewy</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AUltra+Light">Ultra Light</a></li>
                             <li><a href="/s?rh=brand_facet%3AUltra+Paws">Ultra Paws</a></li>
                             <li><a href="/s?rh=brand_facet%3AUnder+the+Sun">Under the Sun</a></li>
-                            <li><a href="/s?rh=brand_facet%3AUrinase">Urinase</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AUrinase">Urinase</a></li>
                             <li><a href="/s?rh=brand_facet%3AUSA+Antlers">USA Antlers</a></li>
                             <li><a href="/s?rh=brand_facet%3AUSA+Bones+%26+Chews">USA Bones &amp; Chews</a></li>
+                        </ul>
+                        <ul>
                             </ul>
 
                     </div>
@@ -1394,23 +1814,30 @@
                             <li><a href="/s?rh=brand_facet%3AVan+Ness">Van Ness</a></li>
                             <li><a href="/s?rh=brand_facet%3AVariety+Pet+Foods">Variety Pet Foods</a></li>
                             <li><a href="/s?rh=brand_facet%3AVenison+Joe%27s">Venison Joe's</a></li>
+                            <li><a href="/s?rh=brand_facet%3AVeRUS">VeRUS</a></li>
                             <li><a href="/s?rh=brand_facet%3AVet+Solutions">Vet Solutions</a></li>
                             <li><a href="/s?rh=brand_facet%3AVet%27s+Best">Vet's Best</a></li>
                             <li><a href="/s?rh=brand_facet%3AVetericyn">Vetericyn</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AVetericyn+Plus">Vetericyn Plus</a></li>
+                            <li><a href="/s?rh=brand_facet%3AVetericyn+VF">Vetericyn VF</a></li>
                             <li><a href="/s?rh=brand_facet%3AVeterinary+Formula+Clinical+Care">Veterinary Formula Clinical Care</a></li>
                             <li><a href="/s?rh=brand_facet%3AVeterinary+Formula+Solutions">Veterinary Formula Solutions</a></li>
+                            <li><a href="/s?rh=brand_facet%3AVetOne">VetOne</a></li>
                             <li><a href="/s?rh=brand_facet%3AVetoquinol">Vetoquinol</a></li>
                             <li><a href="/s?rh=brand_facet%3AVetriScience">VetriScience</a></li>
-                            <li><a href="/s?rh=brand_facet%3AVets+Choice">Vets Choice</a></li>
-                            <li><a href="/s?rh=brand_facet%3AVictor">Victor</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AVets+Choice">Vets Choice</a></li>
+                            <li><a href="/s?rh=brand_facet%3AVictor">Victor</a></li>
                             <li><a href="/s?rh=brand_facet%3AVirbac">Virbac</a></li>
                             <li><a href="/s?rh=brand_facet%3AVision">Vision</a></li>
                             <li><a href="/s?rh=brand_facet%3AVitakraft">Vitakraft</a></li>
                             <li><a href="/s?rh=brand_facet%3AVital+Essentials">Vital Essentials</a></li>
+                            <li><a href="/s?rh=brand_facet%3AVolkman">Volkman</a></li>
+                        </ul>
+                        <ul>
                             </ul>
 
                     </div>
@@ -1436,7 +1863,7 @@
                             <li><a href="/s?rh=brand_facet%3AWest+Paw+Design">West Paw Design</a></li>
                             <li><a href="/s?rh=brand_facet%3AWet+Noses">Wet Noses</a></li>
                             <li><a href="/s?rh=brand_facet%3AWetnoz">Wetnoz</a></li>
-                            <li><a href="/s?rh=brand_facet%3AWhimzees">Whimzees</a></li>
+                            <li><a href="/s?rh=brand_facet%3AWHIMZEES">WHIMZEES</a></li>
                             <li><a href="/s?rh=brand_facet%3AWhiskas">Whiskas</a></li>
                             <li><a href="/s?rh=brand_facet%3AWhisker+Lickin%27s">Whisker Lickin's</a></li>
                         </ul>
@@ -1444,11 +1871,14 @@
                             <li><a href="/s?rh=brand_facet%3AWhole+Earth+Farms">Whole Earth Farms</a></li>
                             <li><a href="/s?rh=brand_facet%3AWhole+Life">Whole Life</a></li>
                             <li><a href="/s?rh=brand_facet%3AWigzi">Wigzi</a></li>
+                            <li><a href="/s?rh=brand_facet%3AWiki+Wags">Wiki Wags</a></li>
                             <li><a href="/s?rh=brand_facet%3AWild+Calling">Wild Calling</a></li>
                             <li><a href="/s?rh=brand_facet%3AWisdom+Panel">Wisdom Panel</a></li>
                             <li><a href="/s?rh=brand_facet%3AWishbone">Wishbone</a></li>
                             <li><a href="/s?rh=brand_facet%3AWorld%27s+Best">World's Best</a></li>
                             <li><a href="/s?rh=brand_facet%3AWysong">Wysong</a></li>
+                        </ul>
+                        <ul>
                             </ul>
 
                     </div>
@@ -1456,6 +1886,11 @@
                 <div class="brand-list-item" id="brands-X">
                         <h3 class="brand-list-letter"><span>X</span></h3>
 
+                        <ul>
+                            <li>
+                                <a href="/s?rh=brand_facet%3AXPOWER">XPOWER</a>
+                            </li>
+                        </ul>
                         <ul>
                             <li>
                                 <a href="/s?rh=brand_facet%3AXtreme+Catnip">Xtreme Catnip</a>
@@ -1474,11 +1909,14 @@
                             <li><a href="/s?rh=brand_facet%3AYesterday%27s+News">Yesterday's News</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AYoPup">YoPup</a></li>
                             <li><a href="/s?rh=brand_facet%3AYummy+Chummies">Yummy Chummies</a></li>
-                            <li><a href="/s?rh=brand_facet%3AYumZies">YumZies</a></li>
                         </ul>
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AYumZies">YumZies</a></li>
                             <li><a href="/s?rh=brand_facet%3AYup%21">Yup!</a></li>
+                        </ul>
+                        <ul>
                             </ul>
 
                     </div>
@@ -1487,9 +1925,10 @@
                         <h3 class="brand-list-letter"><span>Z</span></h3>
 
                         <ul>
+                            <li><a href="/s?rh=brand_facet%3AZack+%26+Zoey">Zack &amp; Zoey</a></li>
                             <li><a href="/s?rh=brand_facet%3AZanies">Zanies</a></li>
-                            <li><a href="/s?rh=brand_facet%3AZendog">Zendog</a></li>
                             <li><a href="/s?rh=brand_facet%3AZero+Odor">Zero Odor</a></li>
+                            <li><a href="/s?rh=brand_facet%3AZesty+Paws">Zesty Paws</a></li>
                             <li><a href="/s?rh=brand_facet%3AZignature">Zignature</a></li>
                         </ul>
                         <ul>
@@ -1497,14 +1936,12 @@
                             <li><a href="/s?rh=brand_facet%3AZippyPaws">ZippyPaws</a></li>
                             <li><a href="/s?rh=brand_facet%3AZiwiPeak">ZiwiPeak</a></li>
                             <li><a href="/s?rh=brand_facet%3AZoic">Zoic</a></li>
+                            <li><a href="/s?rh=brand_facet%3AZoo+Med">Zoo Med</a></li>
                         </ul>
                         <ul>
-                            <li><a href="/s?rh=brand_facet%3AZoo+Med">Zoo Med</a></li>
                             <li><a href="/s?rh=brand_facet%3AZuke%27s">Zuke's</a></li>
                             <li><a href="/s?rh=brand_facet%3AZuPreem">ZuPreem</a></li>
                             <li><a href="/s?rh=brand_facet%3AZymox">Zymox</a></li>
-                        </ul>
-                        <ul>
                             </ul>
 
                     </div>
@@ -1512,11 +1949,6 @@
                 <div class="brand-list-item" id="brands-_">
                         <h3 class="brand-list-letter"><span>#</span></h3>
 
-                        <ul>
-                            <li>
-                                <a href="/s?rh=brand_facet%3A26+Bars+%26+a+Band">26 Bars &amp; a Band</a>
-                            </li>
-                        </ul>
                         <ul>
                             <li>
                                 <a href="/s?rh=brand_facet%3A8in1">8in1</a>
@@ -1547,7 +1979,45 @@
     <div class="brand-overflow"></div>
 </div>
 </li>
-                            <li class="deals-nav"><a href="/app/deals">today's deals</a></li>
+                            <li class="deals-nav deals-nav--daily">
+                                <a href="/app/deals">
+                                    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+    
+        
+        
+    
+
+<span class="sale-label  sale-label--daily">
+    Today's Deals
+</span>
+</a>
+                            </li>
                         </ul>
                     </nav>
                 </div>
@@ -1579,28 +2049,17 @@
             <div id="wrap">
 
                 <div id="bd" class="">
-                    <div id="sidebar">
-                            <div class="section">
-                                <h4>Information</h4>
-                                <ul>
-                                    <li><a href="/app/content/contact" class="">Contact Us</a></li>
-                                    <li><a href="/app/content/faq" class="">Frequently Asked Questions</a></li>
-                                    <li><a href="/app/content/returns" class="">Returns</a></li>
-                                    <li><a href="/app/content/shipping" class="">Shipping</a></li>
-                                    <li><a href="/app/content/payment" class="">Payment Options</a></li>
-                                    <li><a href="/app/content/terms" class="">Terms of Use</a></li>
-                                    <li><a href="/app/content/privacy" class="selected">Privacy Policy</a></li>
-                                    </ul>
-                            </div>
-                        </div>
-                    <div id="content">
-                        <h1>Privacy Policy</h1>
+                    <section class="customer-section">
+                        <div class="customer-content">
+                            <div id="content">
+                                <div class="cms-include cms-include--informations">
+            <h1>Privacy Policy</h1>
 
-<h4>Last updated: October 26, 2015</h4>
+<h4>Last updated: September 23, 2016</h4>
 
 <div class="separator"></div>
 
-<p>Chewy.com, LLC ("Chewy.com") respects the privacy of visitors to our website.
+<p>Chewy, Inc ("Chewy") respects the privacy of visitors to our website.
     This Privacy Policy ("Privacy Policy") explains the type of information we gather from individuals
     that visit our site or other channels described below, and how we use, disclose and protect such information.
     By visiting our site, you accept the practices described in this Privacy Policy.
@@ -1622,7 +2081,7 @@
     information
     may include your name, residential and/or business address, shipping address, billing address, credit card
     information, telephone
-    number(s), email address, birthday and other information you choose to provide. For example, when you set up your
+    number(s), email address and other information you choose to provide. For example, when you set up your
     account and/or make
     online purchases, you will be asked to provide information necessary to facilitate the transaction; when you enter
     our contests, sweepstakes
@@ -1655,7 +2114,7 @@
     logging in to the site using the applicable Social Media Service. Information that we receive from Social Media
     Services is stored and use by us in accordance with this Privacy Policy. </p>
 
-<h4>USE OF COOKIES; ANALYTICS; MOBILE LOCATION</h4>
+<h4>USE OF COOKIES</h4>
 
 <p>As with most websites, we use cookies, web beacons, and other online information-gathering tools in connection with
     our site. These tools are
@@ -1674,38 +2133,56 @@
     a new cookie, or how to disable cookies altogether. Additionally, you can disable or delete similar data used by
     browser add-ons, such as Flash cookies, by
     changing the add-on's settings or visiting the Web site of its manufacturer. Because cookies allow you to take
-    advantage of some of Chewy.com's essential features;
+    advantage of some of Chewy's essential features;
     if you set your browser to limit or remove cookies or otherwise block our use of cookies, some features of the site
     may be unavailable or unable to function properly. </p>
+
+<h4>ANALYTICS</h4>
 
 <p>We may use third party analytics services to help analyze how users use the site. Analytics services use cookies to
     collect information such as how often users use the
     site and what features they use in the site and what products they view on the site. We use this information to
     improve the site and to market and promote our site and
-    products to you on third party sites. The analytics services ability to use and share information collected by them
+    products to you on third party sites. The analytics services' ability to use and share information collected by them
     is restricted by their terms of use and privacy policy,
     which you should refer to for more information about how these entities use this information, and how you can
     opt-out of their use of such information. You may find the privacy policy
     of our third party provider here: http://www.criteo.com/privacy.</p>
 
-<p>In addition, if you access the site through a mobile device, we may also be able to identify the location of your
+
+<h4>MOBILE LOCATION</h4>
+
+<p>If you access the site through a mobile device, we may also be able to identify the location of your
     mobile device. You may choose
     not to share your location details with us by adjusting your mobile device's location services settings. For
     instructions on changing the relevant
     settings, please contact your service provider or device manufacturer.</p>
 
+
+<h4>INTEREST-BASED ADVERTISING</h4>
+<p>Data may be collected on this site in order to deliver you targeted advertising on other websites and services.
+    Such data may be collected directly by third parties, and we may share additional information with such third parties
+    in order to improve these targeted advertising campaigns.  Chewy observes the Self-Regulatory Principles for
+    Online Behavioral Advertising set forth by the Digital Advertising Alliance ("DAA") (www.aboutads.info).
+    Therefore, you may always opt-out of our targeted advertising by visiting the DAA consumer opt-out page at
+    www.aboutads.info/choices.  Opting out will not mean that you will no longer receive Chewy ads, rather, it just
+    means that those ads will not be targeted to you based upon data collected from you on this site.
+</p>
+
+
 <h4>HOW WE USE YOUR INFORMATION</h4>
 
-<p>Chewy.com does not rent, sell, trade or disclose your information to unrelated third parties, except as set forth in
+<p>Chewy does not rent, sell, trade or disclose your information to unrelated third parties, except as set forth in
     this Privacy Policy.
     We do use, process and disclose your information to:</p>
 <ul class="bulleted">
     <li>fulfill and manage purchases, orders, payments, and returns;</li>
     <li>validate pet prescriptions;</li>
     <li>send you promotional marketing materials or marketing messages about products or services that we believe may be
-        of interest to you;
-    </li>
-    <li>place adds on third party websites relating to our products and services that may be of interest to you;</li>
+        of interest to you;</li>
+    <li>match it with other public and private data sources in order to enhance our records, such as appending additional
+        information to your profile, or engaging in advertising;</li>
+    <li>place ads on third party websites relating to our products and services that may be of interest to you;</li>
     <li>administer sweepstakes and contests;</li>
     <li>notify you of any products you have purchased that are subject to recall;</li>
     <li>customize, analyze, adjust and improve our site to meet your needs;</li>
@@ -1724,14 +2201,14 @@
     or confirming on our behalf a transaction
     or series of transactions that you conduct with us. Examples include third parties which may fulfill orders, deliver
     packages, send postal mail and/or e-mail,
-    analyze data, provide marketing assistance, process credit card payments, and provide customer service. These
-    contractors and partners are restricted from using
+    analyze data, provide marketing research and assistance, process credit card payments, and provide customer service.
+    These contractors and partners are restricted from using
     information that identifies you (excluding any information that is aggregated or otherwise reasonably de-identified)
-    in any way other than to provide services for Chewy.com. </p>
+    in any way other than to provide services for Chewy. </p>
 
 <p><strong>Business Transfer.</strong> We may disclose, transfer, or assign to our affiliates or to one or more third
     parties the information collected about you as part of a merger,
-    acquisition or other sale or transfer of any of the assets or business of Chewy.com. In the unlikely event of our
+    acquisition or other sale or transfer of any of the assets or business of Chewy. In the unlikely event of our
     bankruptcy, insolvency, reorganization, receivership, or
     assignment for the benefit of creditors, or the application of laws or equitable principles affecting creditors'
     rights generally, we may transfer your data to a successor
@@ -1743,7 +2220,7 @@
     product suppliers and veterinary offices,
     in order to validate prescriptions for certain products purchased on the site.</p>
 
-<p><strong>Protection of Chewy.com and Others. </strong> We may disclose information about you to the government or to
+<p><strong>Protection of Chewy and Others. </strong> We may disclose information about you to the government or to
     other third parties to comply with the law,
     applicable regulations, governmental and quasi-governmental requests, court orders, subpoenas or other legal
     process. We may also disclose information
@@ -1778,7 +2255,7 @@
     information.
     The policies and procedures we describe here do not apply to those websites. We suggest contacting those websites
     directly for
-    information on their privacy policies. Chewy.com is not responsible for the privacy practices of third parties,
+    information on their privacy policies. Chewy is not responsible for the privacy practices of third parties,
     regardless of whether
     they are linked or otherwise connected to our site.</p>
 
@@ -1799,7 +2276,8 @@
     will not stop marketing or advertising content that is generated for distribution or is otherwise queued for
     transmission to
     you prior to the time when we can implement your request. Following receipt of a request from you, we will take
-    reasonable steps to delete your information</p>
+    reasonable steps to delete your information. In addition, you may opt-out of certain targeted advertising as
+    described above in the "Interest-based Advertising" section.</p>
 
 <p>If you establish an account, you may receive certain types of communications even if you have not opted-in to receive
     them because these types of communications
@@ -1847,10 +2325,27 @@
 </p>
 
 <p>
-    1-844-992-4399<br>
+    1-800-672-4399<br>
     <a href="mailto:service@chewy.com">service@chewy.com</a>
     <br><br><br><br>
-</p></div>
+</p>
+</div>
+    </div>
+                        </div>
+                        <aside class="side-nav">
+                                <nav class="side-nav__inner">
+                                    <ul>
+                                        <li><a href="/app/content/contact">Contact Us</a></li>
+                                        <li><a href="/app/content/faq">FAQ</a></li>
+                                        <li><a href="/app/content/returns">Returns</a></li>
+                                        <li><a href="/app/content/shipping">Shipping</a></li>
+                                        <li><a href="/app/content/payment">Payment Options</a></li>
+                                        <li><a href="/app/content/terms">Terms of Use</a></li>
+                                        <li><a href="/app/content/privacy" class="side-nav--selected">Privacy Policy</a></li>
+                                    </ul>
+                                </nav>
+                            </aside>
+                        </section>
                 </div>
             </div>
 
@@ -1860,8 +2355,10 @@
         <div class="container">
             <ul>
                 <li><strong><span>Our</span> <span class="visible-desktop">experts</span> <span>are</span> <span class="visible-desktop">available 24/7:</span></strong></li>
-                <li class="icon-phone-w"><span>1-844-992-4399</span></li>
-                <li><a href="javascript:void(0)" onclick="chat(); return false" class="icon-chat-w"><span>chat now</span></a></li>
+                <li class="icon-phone-w"><span>1-800-672-4399</span></li>
+                <li>
+                    <span id="LP_DIV_1471551401455" class="lp-chat-container"></span>
+                </li>
                 <li><a href="/app/content/contact" class="icon-email-w"><span>email us</span></a></li>
             </ul>
             <a href="#header-main" class="to-top"><span class="hidden-desktop">back to</span> top</a>
@@ -1874,6 +2371,7 @@
                     <li><a href="/app/content/about-us">About</a></li>
                     <li><a href="/jobs">Jobs</a></li>
                     <li><a href="/app/account" rel="nofollow">Account</a></li>
+                    <li><a href="/petcentral">Blog</a></li>
                 </ul>
             </section>
             <section class="footer-store">
@@ -1894,7 +2392,7 @@
     <section class="footer-copyright">
         <div class="container">
             <ul>
-                <li>Copyright © 2016 Chewy, Inc.</li>
+                <li>Copyright © 2017 Chewy, Inc.</li>
                 <li class="logo-nabp">
                     <a href="http://www.nabp.net/programs/accreditation/e-advertiser-approval-program/find-an-nabp-approved-e-advertiser" target="_blank" title="National Association of Boards of Pharmacy">
                         <img src="/assets/img/logo/logo-nabp-grey.png" alt="National Association of Boards of Pharmacy">
@@ -1908,7 +2406,7 @@
 
 </footer></div>
 
-        <script src="/assets/js/components/cw-modal.min.js"></script>
+        <script src="/assets/js/components/cw-modal.min.js?v=0bb15f30"></script>
         <!-- BEGIN: Google Trusted Stores -->
 <script type="text/javascript">
   var gts = gts || [];
@@ -1935,11 +2433,23 @@
 <script type="text/javascript" src="//bizsolutions.strands.com/sbsstatic/js/sbsLib-1.0.min.js"></script>
 <script type="text/javascript">
     try {
+        var renderCallback = function (rec_info, options) {
+            if (window.chewy && window.chewy.gaHelper) {
+                window.chewy.gaHelper.pushRecommendationsImpressionEvent(rec_info);
+            }
+            return rec_render(rec_info, options);
+        };
         
-        SBS.Recs.setRenderer(function(rec_info) { return rec_render(rec_info, 75, 48,5); },"CART-2"); // cart
-        SBS.Recs.setRenderer(function(rec_info) { return rec_render(rec_info, 125, 48, 8); }); // catch-all
+
+        /// This container is not using a slider so we enforce number of recommendations to prevent UI from breaking
+        SBS.Recs.setRenderer(function(rec_info) { return renderCallback(rec_info, {img_size : 75, rec_max: 3}); },"CART-2");
+        SBS.Recs.setRenderer(function(rec_info) { return renderCallback(rec_info, {}); }); // catch-all
         SBS.Worker.go("UZtQnrll1C");
-    } catch (e){}
+    } catch (e){
+        if(window.console && window.console.warn) {
+            window.console.warn('exception in strands recommender', e);
+        }
+    }
 </script>
 <!-- END strands -->
 <!--BEGIN Yahoo Dot -->
@@ -1949,9 +2459,5 @@
     
 
 
-<!--
-2016-08-29T20:43:54Z iad1gsfw05.ecom.chewy.com v=master-1365
-rid=b9ce-35d984b5-be61d60a sid= cid=-1002 uid=-1002 ms=6
--->
-
+<!-- 2017-01-30T00:20:04Z iad1gsfw01.ecom.chewy.com v=master-1863 rid=DzQzT_Xtc2Uw,03-588E86B3-18F362C7 sid= cid=-1002 uid=-1002 res_time=12 -->
 </body></html>
