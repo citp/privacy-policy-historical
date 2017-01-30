@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the haste.net privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125191529id_/http%3A//haste.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haste.net privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130122053id_/https%3A//haste.net/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Haste
-
-### **Privacy Policy**
+# Privacy Policy - Haste
 
 **Effective Date: April 26, 2016**
 
@@ -60,7 +58,7 @@ Thalonet, Inc., a Delaware corporation d/b/a Haste (“ ** _us_** ,” “ ** _o
   13. _California Residents_. Subject to certain limitations under California Civil Code § 1798.83, California residents may ask us to provide them with (i) a list of certain categories of personal information that we may have disclosed to third parties for their direct marketing purposes during the immediately preceding calendar year, and (ii) the identity of those third parties. To make this request, California residents may contact us as provided in below (see Contact Us).
 
 
-  14. _Contact Us_. If you have any comments, concerns or questions about this Privacy Policy, please contact us at: Thalonet, Inc. d/b/a Haste, Attn: Legal Department, 75 Fifth Street NW, Suite 2135, Atlanta, GA 30308; or by email to: _info@haste.net._
+  14. _Contact Us_. If you have any comments, concerns or questions about this Privacy Policy, please contact us at: Thalonet, Inc. d/b/a Haste, Attn: Legal Department, 75 5th St. NW, Suite 2280, Atlanta, GA 30308; or by email to: _info@haste.net._
 
 
 
