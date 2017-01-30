@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the birchbox.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106175410id_/https%3A//www.birchbox.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the birchbox.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130120140id_/https%3A//www.birchbox.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Birchbox
 
@@ -10,13 +10,13 @@ This Privacy Policy communicates how, when, and why we gather information about 
 
 ### Information Collected
 
-### PERSONAL INFORMATION
+#### PERSONAL INFORMATION
 
 If you subscribe to Birchbox and/or place an order through Birchbox.com, sign up and/or place an order through the App, or subscribe and/or place an order through the Store we will ask you for your name, e-mail address, shipping address, telephone number and credit card information or certain other personally identifiable information about yourself ("Personal Information").
 
 We use this information to process and fulfill your order and to notify you of your order status. All archived credit card information is maintained in a secure and safe environment. Telephone numbers and e-mail addresses are used to contact you regarding your order. In addition, when you respond to a contest, survey, questionnaire, sweepstakes or other promotional feature, we may ask you for your name, address and email address or other Personal Information. We do not collect any Personal Information about you unless it is voluntarily provided by you. **Birchbox will never sell, rent or share your Personal Information, including your e-mail address, with any third parties for marketing purposes without your express permission.**
 
-### NON-PERSONALLY IDENTIFIABLE INFORMATION
+#### NON-PERSONALLY IDENTIFIABLE INFORMATION
 
 In addition, we may also collect non-personally identifiable information, such as IP host address, pages viewed, browser type, duration and frequency of visits, and other data, and may aggregate any information collected in a manner which does not identify any individual ("Aggregate Information"). Information obtained in connection with the Site, the App, and the Store may be intermingled with and used by us in conjunction with information obtained through sources other than the, Site, App, and Store including both offline and online sources.
 
@@ -24,29 +24,29 @@ In addition, we may also collect non-personally identifiable information, such a
 
 We will not share or disclose your information to anyone except as described in this Privacy Policy.
 
-### ENHANCED AND PERSONALIZED SHOPPING EXPERIENCE
+#### ENHANCED AND PERSONALIZED SHOPPING EXPERIENCE
 
 We use Personal Information in order to give you a more enjoyable convenient shopping experience and to help us identify and/or provide information, products or services that may be of interest to you. We use your Personal Information to support and enhance your use of the Site, and its features, the App, and the Store, including without limitation: fulfilling your order; providing customer service; tracking email invitations you send; and otherwise supporting your use of the Site, App, and Store.
 
 We may also track your past purchases to provide you with a personalized profile of your shopping history. In addition, we may notify you about new services or special promotional programs, or send you offers or information. In connection with their performance of services to maintain and operate the Site, the App, and the Store and certain features on the Site, the App, and the Store, certain trusted third parties may be permitted to access your information. For example, we may use third parties to host the Site; operate various features available on the Site and the App; send emails; analyze data; provide search results and links and assist in fulfilling your orders.
 
-### AFFILIATES; CONSULTANTS; THIRD PARTIES
+#### AFFILIATES; CONSULTANTS; THIRD PARTIES
 
 Unless you specifically consent to the disclosure of your Personal Information, aside from us, only our affiliates, technical consultants, third party auditors and other third parties who make our Site, App, and Store available, enhance its functionality, assist with the processing of your purchases, or provide associated services and/or who deal with you in delivering content, samples, products, gifts and prizes, have access to this information, and we require them to agree that they are covered by this policy.
 
-### LAW ENFORCEMENT AND INVESTIGATIONS
+#### LAW ENFORCEMENT AND INVESTIGATIONS
 
 Please note that Birchbox reserves the right to and may disclose Personal Information about you in response to (a) requests from local, state or federal law enforcement officials; (b) any judicial, administrative or similar proceeding or order, such as subpoena; (c) if required by law; or (d) to investigate suspected fraud, harassment, physical threats, or other violations of any law, rule or regulation, the Site, App, or Store rules or policies, or the rights of third parties or to investigate any suspected conduct which we deem improper.
 
-### CHANGE OF CONTROL
+#### CHANGE OF CONTROL
 
 Please also note that we do reserve the right to transfer your Personal Information and other information as an asset in connection with a proposed or actual merger or sale (including any transfers made as part of an insolvency or bankruptcy proceeding) involving all or part of our business or as part of a corporate reorganization, stock sale or other change in control. In such a circumstance the Transferee would be bound by the terms of this Privacy Policy.
 
-### SWEEPSTAKES
+#### SWEEPSTAKES
 
-If you submit your email address to be added to a mailing list or Sweepstakes or other promotion, we will use the email address for the sole purpose of sending you announcements, special offers from Birchbox and its promotional partners along with Site, App, and Store updates. Each email we send will contain information on how to unsubscribe from our mailing list. You can also unsubscribe by sending an email to info@birchbox.com.
+If you submit your email address to be added to a mailing list or Sweepstakes or other promotion, we will use the email address for the sole purpose of sending you announcements, special offers from Birchbox and its promotional partners along with Site, App, and Store updates. Each email we send will contain information on how to unsubscribe from our mailing list. You can also unsubscribe by sending an email to [info@birchbox.com](https://web.archive.org/web/20170130120140id_/https%3A//www.birchbox.com/about/info@birchbox.com).
 
-### REFERRALS
+#### REFERRALS
 
 If you elect to use our referral services for informing a friend about our Site, App, or Store we ask you for the friend's name and email address. Birchbox will automatically send the friend an initial email inviting them to visit or transact with the Site. Birchbox may also send additional emails reminding your friend that you referred them. Additionally, you may send additional "Nudges" to your friend to remind them to sign up. Birchbox stores this information for the sole purpose of sending these referral emails and tracking the success of our referral program. The friend may contact Birchbox at to request the removal of this information from our database and to stop receiving Nudges.
 
@@ -66,15 +66,17 @@ The Site encrypts your credit card number and other Personal Information using s
 
 ### Accessing and Updating Your Personal Information and Preferences
 
-If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to info@birchbox.com.
+If you are a registered user, you may access and update your registration information and your preferences to receive email or other communications from us by sending an email to [info@birchbox.com](https://web.archive.org/web/20170130120140id_/https%3A//www.birchbox.com/about/info@birchbox.com).
 
-You may also update or change your Personal Information or Preferences by sending email to info@birchbox.com. We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.
+You may also update or change your Personal Information or Preferences by sending email to [info@birchbox.com](https://web.archive.org/web/20170130120140id_/https%3A//www.birchbox.com/about/info@birchbox.com). We will take commercially reasonable steps to implement your opt-out requests promptly, but you may still receive communications from us for up to ten business days as we process your request.
 
 While we make efforts to accommodate requests to restrict our use of your information, we reserve the right to delete all or any portion of customer information if we are not able to reasonably accommodate a requested restriction.
 
-Enforcement and Dispute Resolution Birchbox uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles.
+### Enforcement and Dispute Resolution
 
-Birchbox Inc participates in the U.S. - E.U. Safe Harbor framework and the U.S. - Swiss Safe Harbor as set forth by the United States Department of Commerce. As part of [participation](http://export.gov/safeharbor/) in the safe harbor, we have agreed to TRUSTe dispute resolution for disputes relating to our compliance with the Safe Harbor Privacy Framework. If you have any complaints regarding our compliance with the Safe Harbor you should first contact us (as provided above). If contacting us does not resolve your complaint, you may raise your complaint with TRUSTe [here](https://feedback-form.truste.com/watchdog/request). Fax to 415-520-3420, or mail to TRUSTe Safe Harbor Complaints Dept., click [here](http://www.truste.com/about-TRUSTe/contact-us) for mailing address. If you are faxing or mailing TRUSTe to lodge a complaint, you must include the following information: the name of company, the alleged privacy violation, your contact information, and whether you would like the particulars of your complaint shared with the company. For information about TRUSTe or the operation of TRUSTe's dispute resolution process, click here or request this information from TRUSTe at any of the addresses listed above. The TRUSTe dispute resolution process shall be conducted in English.
+Birchbox uses a self-assessment approach to assure compliance with this privacy policy and periodically verifies that the policy is accurate, comprehensive for the information intended to be covered, prominently displayed, completely implemented and accessible and in conformity with the Principles. We encourage interested persons to raise any concerns using the contact information provided and we will investigate and attempt to resolve any complaints and disputes regarding use and disclosure of Personal Information in accordance with the Principles.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ### Children's Privacy and Parental Controls
 
@@ -86,7 +88,7 @@ Our Site may contain links to other web sites, including our affiliated or co-br
 
 ### Site, App, and Store Terms and Conditions
 
-Use of this Site, App, and Store is governed by, and subject to, the legal notices contained in our [Terms and Conditions](https://web.archive.org/about/terms-conditions). Your use, or access, of the Site, App, or Store constitutes your agreement to be bound by these provisions. IF YOU DO NOT AGREE TO THESE TERMS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE, THE APP, OR THE STORE.
+Use of this Site, App, and Store is governed by, and subject to, the legal notices contained in our [Terms and Conditions](https://web.archive.org/about/terms-conditions). Your use, or access, of the Site, App, or Store constitutes your agreement to be bound by these provisions. **IF YOU DO NOT AGREE TO THESE TERMS YOU MAY NOT ACCESS OR OTHERWISE USE THE SITE, THE APP, OR THE STORE.**
 
 ### Privacy Policy Changes
 
@@ -94,16 +96,16 @@ We reserve the right, at our discretion, to change, modify, add, or remove porti
 
 If you have any questions about the Birchbox.com Privacy Policy please contact us at:
 
-Birchbox Inc   
+Birchbox Inc  
 28 East 28th Street  
 11th Floor  
 New York, NY 10016  
 (877) 487-7272  
-[info@birchbox.com](https://web.archive.org/web/20161106175410id_/https%3A//www.birchbox.com/about/info@birchbox.com)
+[info@birchbox.com](https://web.archive.org/web/20170130120140id_/https%3A//www.birchbox.com/about/info@birchbox.com)
 
 #### United States of America
 
-Our Site, App, and Store are maintained in the United States of America. By using the Site, App, or Store you authorize the export of Personal Information to the USA and its storage and use as specified in this policy. Effective Date: This Privacy Policy is effective and was last updated on March, 16, 2016.
+Our Site, App, and Store are maintained in the United States of America. By using the Site, App, or Store you authorize the export of Personal Information to the USA and its storage and use as specified in this policy. Effective Date: This Privacy Policy is effective and was last updated on Decemeber, 12, 2016.
 
 Get a monthly box of five personalized beauty samples. 
 
