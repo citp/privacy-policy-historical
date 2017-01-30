@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201035923id_/http%3A//www.pulpomedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulpomedia.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130145150id_/http%3A//www.pulpomedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pulpo Media
 
@@ -24,7 +24,7 @@ In some cases, if you choose not to provide PII you may not be able to engage in
  **Sensitive Information and Protecting Children**  
 We do not knowingly collect, use or share any financial account numbers or social security numbers for purposes of online behavior advertising without your specific consent.
 
-We do not knowingly collect “personal information,” as defined in the Children’s Online Privacy Protection Act (“COPPA”), from children under the age of 13 or from Sites directed to children under the age of 13, nor do we engage in online behavioral advertising directed to children we have actual knowledge are under the age of 13. If you are a parent or legal guardian, we urge you to participate in your child’s online and mobile activities and to use parental control or other Internet and mobile filtering technology to supervise your child’s access to the Internet. If you believe that we may have obtained information relating to your child who is under the age of 13, please contact us immediately at [privacy@pulpomedia.com](mailto:privacy@pulpomedia.com).
+We do not knowingly collect “personal information, ” as defined in the Children’s Online Privacy Protection Act (“COPPA”), from children under the age of 13 or from Sites directed to children under the age of 13, nor do we engage in online behavioral advertising directed to children we have actual knowledge are under the age of 13. If you are a parent or legal guardian, we urge you to participate in your child’s online and mobile activities and to use parental control or other Internet and mobile filtering technology to supervise your child’s access to the Internet. If you believe that we may have obtained information relating to your child who is under the age of 13, please contact us immediately at [privacy@pulpomedia.com](mailto:privacy@pulpomedia.com).
 
 ## HOW WE USE INFORMATION WE COLLECT
 
