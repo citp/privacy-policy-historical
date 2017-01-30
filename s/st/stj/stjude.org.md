@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624042009id_/https%3A//www.stjude.org/legal/u-s-privacy-policy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stjude.org privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130034737id_/https%3A//www.stjude.org/legal/u-s-privacy-policy-statement.html) for the most accurate reproduction.*
 
 # U.S. Privacy Policy Statement - St. Jude Children’s Research Hospital
 
-This privacy statement applies to St. Jude Children's Research Hospital and its fundraising organization, American Lebanese Syrian Associated Charities (ALSAC). St. Jude and ALSAC respect the privacy of our online visitors and donors.
+This privacy statement applies to St. Jude Children's Research Hospital and its fundraising organization, American Lebanese Syrian Associated Charities (ALSAC). St. Jude and ALSAC respect the privacy of our visitors and donors.
 
 For information regarding our privacy policies for Canadian residents, please [view our Canadian privacy policy](https://web.archive.org/legal/canadian-internet-privacy-policy.html).
 
