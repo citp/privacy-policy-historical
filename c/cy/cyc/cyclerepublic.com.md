@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cyclerepublic.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225001645id_/http%3A//www.cyclerepublic.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyclerepublic.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130142003id_/https%3A//www.cyclerepublic.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
