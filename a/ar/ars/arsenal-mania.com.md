@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arsenal-mania.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130110400id_/http%3A//arsenal-mania.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arsenal-mania.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130034946id_/https%3A//arsenal-mania.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Arsenal Mania
 
