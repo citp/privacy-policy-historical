@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the elitereaders.com privacy policy that was archived on 2015-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150812234730id_/http%3A//www.elitereaders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elitereaders.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130092716id_/https%3A//www.elitereaders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
-**Elite Readers** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. **Elite Readers** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 4, 2014.
+ **Elite Readers** is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. **Elite Readers** may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from October 4, 2014.
 
 ### Security
 
