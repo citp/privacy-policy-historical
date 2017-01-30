@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the csra.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223085747id_/http%3A//www.csra.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csra.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130115950id_/https%3A//www.csra.com/privacy) for the most accurate reproduction.*
 
-# Privacy | CSRA Inc.
+# Privacy Policy | CSRA
 
 ### CSRA's Section 508 Compliance Policy
 
@@ -11,7 +11,7 @@ In 1998, Congress amended the Rehabilitation Act to require Federal agencies to 
 _Effective December 1, 2015._  
 We are very sensitive to privacy issues.   CSRA has adopted this Privacy Notice to let you know how we handle the information we receive from you through this Site and to assure you of our commitment and dedication to privacy so that you can make an informed decision as to whether and to what extent to disclose personal information.
 
-The following Privacy Notice applies to the Web site "[www.csra.com](http://www.csra.com/)" (Site). This Privacy Notice does not apply to information collected offline or via online sources other than the Site. We invite you to visit the Site to search or browse without revealing personal information or registering with CSRA.  However, as we gather information about your usage or as you may choose to give CSRA personal information via the Site, CSRA will let you know how we will use such information and provide you with an option to opt out. Your continued use of the Site will indicate your agreement to this Privacy Notice.
+The following Privacy Notice applies to the Web site "[www.csra.com](https://web.archive.org/)" (Site). This Privacy Notice does not apply to information collected offline or via online sources other than the Site. We invite you to visit the Site to search or browse without revealing personal information or registering with CSRA.  However, as we gather information about your usage or as you may choose to give CSRA personal information via the Site, CSRA will let you know how we will use such information and provide you with an option to opt out. Your continued use of the Site will indicate your agreement to this Privacy Notice.
 
 As used in this Privacy Notice, terms such as "we" or "our" refer to CSRA Inc. and its current and future affiliate entities.
 
@@ -25,7 +25,7 @@ By providing us with your contact information in order to receive information fr
 
 ### Uses and Disclosures of Personal Information
 
-Except as described in this Privacy Notice, we will not use your personal information or disclose it to a third party without your consent.   
+Except as described in this Privacy Notice, we will not use your personal information or disclose it to a third party without your consent.   
 We may use personal information for a number of purposes such as:
 
   * To respond to an e-mail or particular request from you;
@@ -81,13 +81,13 @@ This Site is intended for adult use only. It is not intended for children, and C
 
 ### Additional Terms
 
-Certain features and services of [www.csra.com](http://www.csra.com/) \- especially highly interactive features - may involve types of personal information and data handling that are not specifically discussed here in this Privacy Notice. Rest assured that this notice applies wherever you go within [www.csra.com](http://www.csra.com/). We may, however, provide additional privacy information at a particular feature or service so you can be better informed about CSRA's practices, including how that service may be collecting and using your personal information and opportunities you may have to access and correct your information. Additional terms may also explain how this Privacy Notice applies to the particular feature or service.
+Certain features and services of [www.csra.com](https://web.archive.org/) \- especially highly interactive features - may involve types of personal information and data handling that are not specifically discussed here in this Privacy Notice. Rest assured that this notice applies wherever you go within [www.csra.com](https://web.archive.org/). We may, however, provide additional privacy information at a particular feature or service so you can be better informed about CSRA's practices, including how that service may be collecting and using your personal information and opportunities you may have to access and correct your information. Additional terms may also explain how this Privacy Notice applies to the particular feature or service.
 
 Any personal information that you provide when using the CSRA Site may be transferred between CSRA business units, subsidiaries and affiliates for the purposes outlined in this Privacy Notice. This applies to all jurisdictions including the European Economic Area and by using the services provided you consent to the transfer of your personal information to CSRA global entities for the limited purposes.
 
 ### Contact and Complaint Resolution
 
-CSRA is committed to resolving any complaints you may have in relation to your privacy and CSRA's collection and use of your personal information. Please send any privacy-related complaints or requests, including request for access to information, to [communications@csra.com](mailto:communications@csra.com).
+CSRA is committed to resolving any complaints you may have in relation to your privacy and CSRA's collection and use of your personal information. Please send any privacy-related complaints or requests, including request for access to information, to [communications@csra.com](mailto:communications@csra.com).
 
 ### Changes to the Online Privacy Notice
 
