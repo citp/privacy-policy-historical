@@ -1,42 +1,84 @@
-> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121194132id_/http%3A//www.ixiacom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ixiacom.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130010818id_/https%3A//www.ixiacom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ixia
 
-Ixia  
-Address:  
-26601 W. Agoura Rd.  
-Calabasas, CA 91302
+This privacy policy describes the privacy practices of Ixia and its worldwide affiliates and subsidiaries (collectively referred to as “Ixia,” “our,” or “we”), with respect to Personal Data or other information that has been obtained by Ixia through our websites or any other way (the “Privacy Policy”). Ixia is committed to protecting your privacy and we want to ensure that you understand what we collect from or about you, how we use it and the safeguards we have in place designed to protect it.
 
-We can be reached via e-mail at [contact_us@ixiacom.com](mailto:contact_us@ixiacom.com) by telephone at 818-871-1800
+This Privacy Policy may change from time to time, so please check back periodically.
 
-For each visitor to our website, our web server automatically recognizes no information regarding the domain or e-mail address.
+**_Data Collection_**
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, user-specific information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations.
+“Personal Data" may include your name, addresses, telephone number, email addresses, user name, password, and other specific information such as your organization’s employees or contacts at your customers, partners and/or suppliers.  In addition to information we receive from you, we receive information from other sources, such as public databases, joint marketing partners, social media platforms and other third parties.
 
-The information we collect is used to improve the content of our website.
+Each Ixia website has a specific purpose and has its own characteristics. If additional Personal Data collections are necessary for a specific Ixia website, you will be so informed on the website.
 
-### Use of Cookies
+**_Use of Personal Data_**
 
-We use cookies on this site to ensure the integrity of the registration process and to personalize the site. A cookie is a small text file that is placed on your hard disk by a web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+The following paragraphs describe how Ixia may use your Personal Data.
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. For example, if you personalize a web page, or navigate within a site, a cookie helps the site to recall your specific information on subsequent visits. This simplifies the process of delivering relevant content, eases site navigation, and so on. When you return to the website, the information you previously provided can be retrieved, so you can easily use the site's features that you customized.
+_Fulfilling your Request_
 
-You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other websites you visit.
+If you request something from Ixia, for example, a product or service, a callback, or specific marketing materials, we will use the information you provide to fulfill your request. To help us do this, we may share information with others, for instance, Ixia's business partners, financial institutions, shipping companies, or customs authorities involved in fulfilling your request.
 
-If you provide us with your email address, postal address or telephone number, you may receive periodic emails, postal mailings or telephone contact from us with information on new products and services or upcoming events. If you do not wish to receive such correspondence or contact, please let us know by using the unsubscribe link in an any email that you receive from us and enter the necessary information. Our system will then automatically unsubscribe you from all future unsolicited communications.
+_Website use_
 
-### With respect to Ad Servers:
+We may use information we collect about you to improve the content of our websites and provide you with a personalized experience on our websites, such as providing you with content in which you may be interested and making navigation on our sites easier.
 
-We do not partner with or have special relationships with any ad server companies.
+Ixia websites can include hyperlinks to third party websites. Ixia does not control these websites and thus may not be held responsible for their practices relating to the confidentiality and security of your Personal Data. We invite you to review those websites' privacy policies before using them or providing them with your Personal Data.
 
-From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will contact you before we use your data for these new purposes to notify you of the policy change and to provide you with the ability to opt out of these new uses.
+_Providing Technical Support_
 
-Customers may prevent their information from being used for purposes other than those for which it was originally collected by calling us at the number provided above.
+We may use your Personal Data to provide support for products or services you have obtained from us, such as notifying you of a product update or fix.
 
-Upon request we provide site visitors with access to information that we have collected and that we maintain about them. Consumers can access this information by contacting us at the above email or postal addresses or phone number. Upon request we offer visitors the ability to have factual inaccuracies corrected in information that we maintain about them.
+_Marketing_
 
-### With respect to security:
+The information you provide to Ixia, as well as the information we have collected about you indirectly through third parties, may be used by Ixia for marketing purposes. If such information includes your email address, postal address or telephone number, you may receive periodic emails, postal mailings or telephone contact from us with information on new Ixia products and services, Ixia upcoming events or other Ixia marketing information.
 
-We have appropriate security measures in place in our physical facilities that we believe are reasonably designed to protect against the loss, misuse or alteration of information that we have collected from you at our site.
+_Information of Business Partners_
 
-If you feel that this site is not following its stated information policy, you may contact us at the above email or postal addresses or phone number.
+If you represent an Ixia business partner (including a customer, supplier, etc.), we may use information provided to Ixia to administer and develop our business relationship with you, the business partner you represent, and Ixia business partners generally. We may also contact you as part of customer satisfaction surveys or for market research purposes, as well as use the information in connection with entering into or performing transactions with you, unless you have told us not to.
+
+_Cookies and Other Technologies_
+
+See our [Cookie Policy](https://web.archive.org/cookie-policy)
+
+**_Recipients of your Personal Data_**
+
+Ixia may share your information with selected third parties including:
+
+  * Business partners, suppliers and sub-contractors for the performance of any contract Ixia enters into with them or you.
+  * Analytics and search engine providers that assist us in the improvement and optimisation of our site.
+
+
+
+Ixia may also disclose your personal information to third parties:
+
+  * In the event that Ixia sells or buys any business or assets, in which case Ixia may disclose your Personal Data to the prospective seller or buyer of such business or assets.
+  * If Ixia or substantially all of its assets are acquired by a third party, in which case Personal Data held by it about its customers will be one of the transferred assets.
+  * If Ixia is under a duty to disclose or share your Personal Data in order to comply with any legal obligation, or in order to enforce or apply our terms of use and other agreements; or to protect the rights, property, or safety of Ixia, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+
+
+
+**_Sharing of and International Transfers of Personal Data_**
+
+Ixia is a global company with business processes, management structures and technical systems that cross borders. Ixia may transfer your Personal Data within the company and in particular to the United States, or to its external partners located outside of your home country.
+
+We do not sell or lease your Personal Data. However, circumstances may arise where, whether for strategic or other business reasons, Ixia decides to sell, buy, merge or otherwise reorganize businesses in some countries. Such a transaction may involve the disclosure of Personal Data to prospective or actual purchasers, or the receipt of such information from sellers.
+
+**_Personal Data Security_**
+
+Ixia has established measures to help keep the confidentiality, safety and integrity of its systems containing your Personal Data.
+
+Ixia implements physical, administrative and technical safeguards to help us protect your Personal Data from unauthorized access, use and disclosure.
+
+**_Contacting Us_**
+
+If you have a question about this Privacy Policy or Ixia's handling of your information, we can be reached via e-mail at contact_us@ixiacom.com or by telephone at 1-818-871-1800.  You can also contact us at: Ixia, 26601 W. Agoura Rd., Calabasas, CA 91302 U.S.A.
+
+If you do not wish to receive Ixia marketing correspondence or contact, please let us know by using the unsubscribe link in any email that you receive from us.
+
+**_Privacy Policy Amendments_**
+
+This Privacy Policy is effective as of December 5, 2016.
+
+Any amendments will be posted at this URL and will be effective when posted.
