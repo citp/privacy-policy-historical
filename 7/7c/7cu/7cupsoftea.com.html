@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the 7cupsoftea.com privacy policy that was archived on 2016-11-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161104131708id_/http%3A//www.7cups.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 7cupsoftea.com privacy policy that was archived on 2017-01-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170130011533id_/https%3A//www.7cups.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
         <title>Privacy Policy | 7 Cups</title>
@@ -10,9 +10,13 @@
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
 <link rel="stylesheet" href="/design/dist/css/bootstrap.min.css?v=3.8">
+<link rel="stylesheet" href="/onboarding/dist/css/app.min.css?v=3.8">
 <link rel="stylesheet" href="/css/toastr.min.css">
 <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.css">
 <link rel="stylesheet" href="/css/datepicker.css">
+
+<style type="text/css">
+    </style>
 
 
 <!--[if lt IE 9]>
@@ -20,8 +24,8 @@
   <script src="//oss.maxcdn.com/libs/respond.js/1.3.0/respond.min.js"></script>
 <![endif]-->
 
-<meta property="og:image" content="http://d3twuufqrfygff.cloudfront.net/img/7cupsshare.jpg">
-<meta name="twitter:image" content="http://d3twuufqrfygff.cloudfront.net/img/7cupsshare.jpg">
+<meta property="og:image" content="https://d3twuufqrfygff.cloudfront.net/img/7cupsshare.jpg">
+<meta name="twitter:image" content="https://d3twuufqrfygff.cloudfront.net/img/7cupsshare.jpg">
 <meta name="google-play-app" content="app-id=com.sevencupsoftea.app">
 <meta name="apple-itunes-app" content="app-id=921814681">
 
@@ -44,10 +48,10 @@
 <link rel="icon" type="image/png" href="https://s3-us-west-2.amazonaws.com/7cupstearesources/img/favicon.png">
 
 <!-- Start Event Tracking -->
-<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=5"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-2.2.0-min.gz.js"></script><script type="text/javascript">
+<script type="text/javascript" async="" src="/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&amp;ns=1"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://d24n15hnbwhuhn.cloudfront.net/libs/amplitude-2.2.0-min.gz.js"></script><script type="text/javascript">
 
-var eventDetails = {"isGuest":true,"screenName":"wittyKitten9952","age":"teen"};
-window.activate = function () {  $.post("/connect/guestActivate.php", {id: 'mmpmfHmbkZqdlLBtVVqYlg!!'}); window.activate=false;  };
+var eventDetails = {"isGuest":true,"screenName":"orangeTangerine317","age":"teen"};
+window.activate = function () {  $.post("/connect/guestActivate.php", {id: 'k2Jnd3ealpZY42GxW1eYmsg!'}); window.activate=false;  };
     window.tracker = (function (e) {
         var x = [];
         this.emit = function (i, d) {
@@ -59,8 +63,9 @@ window.activate = function () {  $.post("/connect/guestActivate.php", {id: 'mmpm
                 for (var k in eventDetails)
                     d[k] = eventDetails[k];
                 console.log('Tracking Event', i, d);
-                amplitude.logEvent(i, d);
-		$.get("/event.php", {event: i, data: d});
+		amplitude.logEvent(i, d);
+		if (i != 'jsError')
+			$.get("/event.php", {event: i, data: d});
             }
         };
         return this;
@@ -89,8 +94,10 @@ window.activate = function () {  $.post("/connect/guestActivate.php", {id: 'mmpm
     })(window, document);
 
         amplitude.init("99900cb7735e0949d4ba78b888cba545");
-    amplitude.setUserId('9913313');
+    amplitude.setUserId('5827631');
 amplitude.setUserProperties({'age': 'teen'});
+amplitude.setUserProperties({'therapyToSophia':'1'});
+amplitude.setUserProperties({'qaWellnessTest':'0'});
 
     window.libraryState = '';
 
@@ -123,93 +130,41 @@ amplitude.setUserProperties({'age': 'teen'});
             <button class="navbar-toggler hidden-md-up pull-left" type="button" data-toggle="collapse" data-target="#collapse-navbar-main">
                 <img src="https://s3-us-west-2.amazonaws.com/7cupstearesources/img/i-need-help.png" class="lazyload" alt="Need Help? Try 7 Cups of Tea Online Therapy" style="height:15px">
             </button>
-            <a class="navbar-brand" href="/">   
+            <a class="navbar-brand" href="javascript:void(0)" onclick="window.loadOnboarding()">   
                             <img src="//s3-us-west-2.amazonaws.com/7cupstearesources/img/online-therapy-free-counseling.svg" alt="Online Therapy &amp; Free Counseling" style="height:1.5em">
                         </a>
 
             
             <div class="collapse navbar-toggleable-sm" id="collapse-navbar-main">
                 <ul class="nav navbar-nav">            
-                                            <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Talk to Someone</a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item connectNowStartButton" href="#">Connect Now</a>
-                                <a class="dropdown-item" href="/BrowseListeners/">Browse Listeners</a>
-                                <a class="dropdown-item" href="/connect/groupChatrooms.php">Group Support Chat</a>                                
-                                                                    <a class="dropdown-item" href="/online-therapy/?ob=1" onclick="tracker.emit('ctaOnlineTherapy', {uri: window.location.href, location: 'header', subLocation: 'Talk to Someone Tab'});">Chat with an Online Therapist</a>
-                                    <a class="dropdown-item" href="/therapists/" onclick="tracker.emit('BrowseTherapists', {uri: window.location.href, location: 'header', subLocation: 'Talk to Someone Tab'});">Find a Therapist Near You</a>
-                                                            </div>
-                        </li>   
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Self Care</a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="/member/">Take a Step on My Growth Path</a>
-                                <a class="dropdown-item" href="/member/personalizedPaths.php">Personalized Paths</a>
-                                <a class="dropdown-item" href="/exercises/mindfulness/?showlist=1">Mindfulness Exercises</a>
-                                <a class="dropdown-item" href="/supportGuides/selfHelpGuides.php">Self Help Guides</a>
-                                <a class="dropdown-item" href="/qa/">Questions &amp; Answers</a>
-                                <a class="dropdown-item" href="/forum/">Support Forums</a>
-                            </div>
-                        </li>
-                                                <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Start Therapy</a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="/online-therapy/?ob=1" onclick="tracker.emit('ctaOnlineTherapy', {uri: window.location.href, location: 'header', subLocation: 'Start Therapy Tab'});">Chat with an Online Therapist</a>
-                                <a class="dropdown-item" href="/therapists/" onclick="tracker.emit('BrowseTherapists', {uri: window.location.href, location: 'header', subLocation: 'Start Therapy Tab'});">Find a Therapist Near You</a>
-                            </div>
-                        </li> 
-                                                <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Join 7 Cups</a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="/member/BecomeMember.php">Become a Member</a>
-                                <a class="dropdown-item" href="/listener/becomeListener.php">Become a Listener</a>
-                                <a class="dropdown-item" href="/therapists/directory/">Therapist Signup</a>
-                            </div>
-                        </li>                
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">Organizations</a>
-                            <div class="dropdown-menu">
-                                <a class="dropdown-item" href="/solutions/studentsupport/">Student Support Systems</a>
-                                <a class="dropdown-item" href="/solutions/employeesupport/">Employee Support Systems</a>
-                                <a class="dropdown-item" href="/solutions/nonprofitsupport/">Nonprofit Support Systems</a>
-                            </div>
-                        </li>
-                        <li class="nav-item dropdown">
-                            <a class="nav-link dropdown-toggle" href="#" data-toggle="dropdown">About</a>
-                            <div class="dropdown-menu menu-7cupscontent">
-                                <a class="dropdown-item" href="/about/about.php">About Us</a>
-                                <a class="dropdown-item" href="/about/howitworks.php">How It Works</a>
-                                <a class="dropdown-item" href="/about/faq.php">F.A.Q.</a>
-                                <a class="dropdown-item" href="/about/confidentiality.php">Confidentiality</a>
-                                <a class="dropdown-item" href="/about/faqBadgesCheers.php">Listener Reputation</a>
-                                <a class="dropdown-item" href="/about/memberReputation.php">Member Reputation</a>
-                                <a class="dropdown-item" href="/about/ourteam.php">Our Team</a>
-                                <a class="dropdown-item" href="/about/values.php">Our Values</a>
-                                <a class="dropdown-item" href="/forum/GlensNook_84/OurVisionforaBetterWorld_334/OurMission_18219/1/">Our Mission</a>
-                                <a class="dropdown-item" href="/communities/">Subcommunities</a>
-                                <a class="dropdown-item" href="/blog/">Blog</a>
-                                <a class="dropdown-item" href="/about/press.php">Press</a>
-                                <a class="dropdown-item" href="/about/linktous.php">Link to Us</a>
-                                <a class="dropdown-item" href="/partners/list.php">Partner Organization</a>
-                                <a class="dropdown-item" href="/communities/internships/">Graduate &amp; Undergraduate Internships</a>
-                                <a class="dropdown-item" href="/about/research.php">Research</a>                                
-                            </div>
-                        </li>                               
                     
-                     
+									<li class="nav-item">
+                            <a class="nav-link" href="/connect/?r=therapy" onclick="tracker.emit('ctaOnlineTherapy',{reqType: 'general_therapy', uri: window.location.href, location: 'header', subLocation: 'Start Therapy Tab'});">Start Therapy</a>
+                                                    </li>
+                        
+			 		
+                        <li class="nav-item">
+				<a class="nav-link" href="/backus/upgrade7cups.php" onclick="tracker.emit(\'ctaUpgrade\',{location:\'HeaderUpgrade\'});">Subscribe Risk Free</a>
+                        </li>
+                        
 
-     
-                                            <li class="nav-item"><a class="nav-link" href="/listener/becomeListener.php">Become a Listener</a></li>
-                                   
+                        <li class="nav-item">
+                            <a class="nav-link" href="/listener/becomeListener.php">Become a Listener</a>
+                        </li>
+                    
 
-                     		
-                        <li class="nav-item">		
-                            <a style="font-weight:bold;color:#1e90fe" class="btn btn-white" href="/backus/upgrade7cups.php" onclick="tracker.emit('ctaUpgrade',{location:'HeaderUpgrade'});">Subscribe Risk Free</a> 		
-                        </li>                 		
-                    </ul>
+
+
+
+			
+
+
+    	 
+
+    		                                    </ul>
 
                 <ul class="nav navbar-nav pull-right">
-                    <li class="nav-item"><a class="nav-link" href="/login.php">Login</a></li>
+                    <li class="nav-item"><a class="nav-link" href="/login.php" style="border: 1px solid #fff; border-radius: 1.5rem; padding: .425rem 1.5rem;">Member Login</a></li>
                     <li class="nav-item newMessageCounter hidden-md-down" style="display:none">
                         <a href="#messagesModal" data-toggle="modal" data-target="#messagesModal" class="navMessages">
                             <span class="alertCounter"></span>
@@ -222,34 +177,11 @@ amplitude.setUserProperties({'age': 'teen'});
                         </a>
                     </li>
 
-                            <li class="nav-item">
-                            <a href="/backus/compassionJar.php" class="hidden-md-down clearfix compassionJar">
-                                <span class="alertCounter" style="background-color:#59a1b2;">9</span>
-                                <img src="//d3twuufqrfygff.cloudfront.net/img/compassionJar_50.png" class="img-fluid" alt="50% of Weekly Backer Goal">                       
-                            </a>
-                        </li>
-                    
-        
-                        <li class="nav-item dropdown">
-                            <a class="navNotification hidden-md-down" href="#" data-toggle="dropdown">
-                                <span class="alertCounter">1</span>
-                                <img src="/img/nav-icon-notifications.svg" alt="New Alerts">  
-                            </a>
-                            <a class="nav-link hidden-lg-up navNotification" href="#" data-toggle="dropdown">
-                                New Notifications <span class="label label-pill alertCounter">1</span>                    
-                            </a>
-                            <div class="dropdown-menu notification-menu">
-                                <span class="dropdown-item systemAlert--9995020161104 menualert menualert-success" id="menualert-9995020161104">
-                                        <i class="fa fa-times-circle pull-right" onclick="delSystemAlert(-9995020161104);event.stopPropagation();return false;"></i> 
-                                        <b class="alertHead">Compassion Campaign</b><br>
-                                        We are already halfway to our daily goal! Thank you for being a part of our community! <a href="/backus/compassionJar.php">Learn More Here</a>                                          
-                                      </span>                            </div>
-                        </li>                
+    
                     
                 </ul>
             </div>
         </nav>    
-        
         <div class="container">
             <h1>7 Cups Privacy Policy</h1>
 <hr>
@@ -325,25 +257,26 @@ amplitude.setUserProperties({'age': 'teen'});
                     <div class="col-sm-6 col-xs-12">
                         <h6>About Us</h6>
                         <ul class="list-unstyled">
+                            <li><a href="/about/about.php">About 7 Cups</a></li>
+                            <li><a href="http://www.cafepress.com/7cups" target="_blank">7 Cups Store</a></li> 
                             <li><a href="/about/press.php">Press</a></li>
-                            <li><a href="/online-therapy-jobs/">Online Therapy Jobs</a></li>
-                            <li><a href="/about/research.php">Research</a></li>
-                            <li><a href="/why-do-i-feel-so-alone/">Feeling Alone</a></li>
-                            <li><a href="/nutrition-chat-room/">Nutrition Chat Room</a></li>
-                            <li><a href="/relationship-advice-chat-room/">Relationship Advice Chat</a></li>
-                            <li><a href="/es/">Español</a></li>
+                            <li><a href="/online-therapy-jobs/">Online Therapy Jobs</a></li>                            <li><a href="/about/research.php">Research</a></li>
+                            <li><a href="/solutions/">Organizations</a></li>
+							<li><a href="/chapters/">Chapters</a></li>
+                            <li><a href="/why-do-i-feel-so-alone/">Feeling Alone</a></li>    
+                            <li><a href="/relationship-advice-chat-room/">Relationship Advice Chat</a></li> 
                         </ul>
                     </div>
                     <div class="col-sm-6 col-xs-12">
                         <h6 class="hidden-xs-down">&nbsp;</h6>
-                        <ul class="list-unstyled">
+                        <ul class="list-unstyled">      
+                            <li><a href="/es/">Español</a></li>
                             <li><a href="/family-chat-room/">Family Chat</a></li>                            
                             <li><a href="/i-need-to-vent-to-someone/">Vent To Someone</a></li>
                             <li><a href="/talk-to-strangers-online/">Talk To Strangers</a></li>
-                            <li><a href="/i-need-therapy/">I Need Therapy</a></li>
-                            <li><a href="/i-need-a-hug/">I Need A Hug</a></li>
+                            <li><a href="/i-need-therapy/">I Need Therapy</a></li>                            <li><a href="/i-need-a-hug/">I Need A Hug</a></li>
                             <li><a href="/nutrition-chat-room/">Nutrition Chat Room</a></li>
-                            <li><a href="/lgbtq-chat-room/">LGBTQ Chat Room</a></li>
+                            <li><a href="/lgbtq-chat-room/">LGBTQ Chat Room</a></li>                           
                         </ul>
                     </div>                  
                 </div>
@@ -359,18 +292,19 @@ amplitude.setUserProperties({'age': 'teen'});
                             <li><a href="/bored-lonely-chat-room/">Bored &amp; Lonely Chat</a></li>
                             <li><a href="/teen-chat-support/">Teen Chat Room</a></li>
                             <li><a href="/qa/">Q &amp; A</a></li>
+                            <li><a href="/forum/">Community</a></li>
                             <li><a href="/depression-test/">Tests</a></li>
                         </ul>
                     </div>
                     <div class="col-sm-6 col-xs-12">
-                        <h6>Therapists</h6>
+                                                <h6>Therapists</h6>
                         <ul class="list-unstyled">
-                            <li><a href="/therapists/startTherapy.php">Start Therapy</a></li>
+                            <li><a href="/online-therapy/">Online Therapy</a></li>
                             <li><a href="/therapists/join7cups.php">Join Therapist Community</a></li>
                             <li><a href="/therapists/directory/">Therapist Directory Listing</a></li>
                             <li><a href="/therapists/clinicalBilling.php">Provide Online Therapy</a></li>
                         </ul>
-                         
+                                                 
                         <h6>Terms</h6>
                         <ul class="list-unstyled">
                             <li><a href="/privacy.php" onclick="showPolicy('privacy');return false;">Privacy Policy</a></li>
@@ -418,7 +352,7 @@ amplitude.setUserProperties({'age': 'teen'});
         </div>        
       
         <div class="copyright text-center">
-            Copyright © 2016 7 Cups of Tea. All rights reserved.
+            Copyright © 2017 7 Cups of Tea. All rights reserved.
         </div>
     </div>
 </footer>
@@ -513,7 +447,7 @@ var StripePublishableKey = 'pk_live_wDvUnEmeMcbYwuWPFRWDrr5v';
 
 var userType = 'g';var userInfo = {
                             userType: 'g',
-                            userIDe: 'mmpmfHmbkZqdlLBtVVqYlg!!',
+                            userIDe: 'k2Jnd3ealpZY42GxW1eYmsg!',
                             email: null,
                             
                             age: null                            
@@ -524,6 +458,7 @@ var userType = 'g';var userInfo = {
     <script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/handlebars.js/4.0.3/handlebars.min.js"></script>
 
         <script type="text/javascript" src="/design/dist/js/bootstrap.min.js?v=2.0"></script>
+    <script type="text/javascript" src="/onboarding/dist/js/app.js?v=1.2" async="true"></script>
     <script type="text/javascript" src="/js/tether.min.js"></script>
     <script type="text/javascript" src="/js/jquery.cookie.js"></script>
     <script type="text/javascript" src="/js/moment.js"></script>
@@ -534,7 +469,7 @@ var userType = 'g';var userInfo = {
     <script type="text/javascript" src="/js/renderObjects.js"></script>
     
     <script type="text/javascript" src="/js/bootstrap-datepicker.js"></script>
-    <script type="text/javascript" src="https://nodeproxy.7cups.com/socket.io/socket.io.js?v=5.3.7"></script>    
+    <script type="text/javascript" src="https://nodeproxy.7cups.com/socket.io/socket.io.js?v=5.4.9"></script>    
 
     
     
@@ -568,9 +503,10 @@ var userType = 'g';var userInfo = {
 
         });
 
-        var nodeURL = 'https://nodeproxy.7cups.com/';
+	        var nodeURL = 'https://nodeproxy.7cups.com/';
+	
         </script>
-	    <script type="text/javascript" src="/connect/js/connectWatch.js?v=5.3.7" defer=""></script>    
+	    <script type="text/javascript" src="/connect/js/connectWatch.js?v=5.4.9" defer=""></script>    
 	    <script type="text/javascript">      
 
         function fastClickIt() {
@@ -735,14 +671,17 @@ var userType = 'g';var userInfo = {
 
                 $('#createMemberAccountModal').on('hide.bs.modal', function (e) {
                     if ($.cookie('mid')) {
-                        alert('We will now log you into your new Member Account');
+                        //alert('We will now log you into your new Member Account');
 
                         if (typeof (ChatSession) !== 'undefined' && ChatSession.convID) {
                             window.location.href = '/member/connect/conversation.php?c=' + ChatSession.convID;
                         } else if (backOnCancel) {
                             window.history.back();
                         } else if (window.location.pathname === '/login.php') {
-                            window.location.href = '/member/';
+				if ($.cookie('lastPage'))
+	                            window.location.href = $.cookie('lastPage');
+				else
+	                            window.location.href = '/member/';
                         } else {
                             console.log('reload');
                             window.location.reload(true);
@@ -756,7 +695,7 @@ var userType = 'g';var userInfo = {
             $('#createMemberAccountModal').modal('show');
         }
     </script>  
-    <script type="text/javascript" src="/connect/js/connect.js?v=5.3.7" defer=""></script>
+    <script type="text/javascript" src="/connect/js/connect.js?v=5.4.9" defer=""></script>
     
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -837,6 +776,16 @@ function showPolicy(policy) {
     }
 </script>
 
+<script>
+	var ignorePage = ['/index.php','/login.php','/member/BecomeMember.php','/error/selectAccount.php'];
+	if (ignorePage.indexOf(location.pathname) === -1) {
+        	var date = new Date();
+        	date.setTime(date.getTime()+(24*60*60*1000));
+        	var expires = "; expires="+date.toGMTString();
+	    	document.cookie = "lastPage="+location.pathname+location.search+expires+"; path=/";
+	}
+</script>
+
             
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -850,7 +799,7 @@ function showPolicy(policy) {
 //<![CDATA[
 (function() {
 var _analytics_scr = document.createElement('script');
-_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=5';
+_analytics_scr.type = 'text/javascript'; _analytics_scr.async = true; _analytics_scr.src = '/_Incapsula_Resource?SWJIYLWA=2977d8d74f63d7f8fedbea018b7a1d05&ns=1';
 var _analytics_elem = document.getElementsByTagName('script')[0]; _analytics_elem.parentNode.insertBefore(_analytics_scr, _analytics_elem);
 })();
 // ]]>
