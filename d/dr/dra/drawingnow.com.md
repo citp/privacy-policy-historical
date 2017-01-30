@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the drawingnow.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130183652id_/http%3A//www.drawingnow.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the drawingnow.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130023115id_/https%3A//www.drawingnow.com/policy) for the most accurate reproduction.*
 
 # Privacy Policy | DrawingNow
 
