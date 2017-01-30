@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231084023id_/http%3A//www.brecks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brecks.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130113729id_/https%3A//www.brecks.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy and Terms of Use - Breck's
 
