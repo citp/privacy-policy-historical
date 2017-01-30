@@ -1,61 +1,90 @@
-> *The following text is extracted and transformed from the kentandcurwen.com privacy policy that was archived on 2014-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141014125159id_/http%3A//kentandcurwen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kentandcurwen.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130013049id_/https%3A//www.kentandcurwen.com/privacy-policy) for the most accurate reproduction.*
 
-# KENT AND CURWEN | Privacy
+# Kent & Curwen | David Beckham Collection | Privacy Policy
 
-At Kent and Curwen we are committed to safeguarding and preserving the privacy of our visitors.. 
+This privacy policy sets out how this website (hereafter "the Store") uses and protects any information that you give the Store while using this website. The Store is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. The Store may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes.
 
-This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site. 
+## What we collect
 
-We do update this Policy from time to time so please do review this Policy regularly.
+We may collect the following information:
 
-****Information We Collect****
+  * name
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-In running and maintaining our website we may collect and process the following data about you:  
-i. Information about your use of our site including details of your visits such as pages viewed and the resources that you access. Such information includes traffic data, location data and other communication data.  
-ii. Information provided voluntarily by you. For example, when you register for information or make a purchase.  
-iii. Information that you provide when you communicate with us by any means.
 
-**Use of Cookies**
 
-Cookies provide information regarding the computer used by a visitor. We may use cookies where appropriate to gather information about your computer fin order to assist us in improving our website.  
-We may gather information about your general internet use by using the cookie. Where used, these cookies are downloaded to your computer and stored on the computer’s hard drive. Such information will not identify you personally. It is statistical data. This statistical data does not identify any personal details whatsoever 
+For the exhaustive list of cookies we collect see the List of cookies we collect section.
 
-You can adjust the settings on your computer to decline any cookies if you wish. This can easily be done by activating the reject cookies setting on your computer. 
+## What we do with the information we gather
 
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
+We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Use of Your Information**
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customise the website according to your interests.
 
-We use the information that we collect from you to provide our services to you. In addition to this we may use the information for one or more of the following purposes:  
-i. To provide information to you that you request from us relating to our products or services.  
-ii. To provide information to you relating to other products that may be of interest to you. Such additional information will only be provided where you have consented to receive such information.  
-iii. To inform you of any changes to our website, services or goods and products.
 
-If you have previously purchased goods or services from us we may provide to you details of similar goods or services, or other goods and services, that you may be interested in. 
 
-Where your consent has been provided in advance we may allow selected third parties to use your data to enable them to provide you with information regarding unrelated goods and services which we believe may interest you. Where such consent has been provided it can be withdrawn by you at any time.
+## Security
 
-**Storing Your Personal Data**
+We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-In operating our website it may become necessary to transfer data that we collect from you to locations outside of the European Union for processing and storing. By providing your personal data to us, you agree to this transfer, storing or processing. We do our upmost to ensure that all reasonable steps are taken to make sure that your data is treated stored securely.
+## How we use cookies
 
-Unfortunately the sending of information via the internet is not totally secure and on occasion such information can be intercepted. We cannot guarantee the security of data that you choose to send us electronically, Sending such information is entirely at your own risk. 
+A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
-**Disclosing Your Information**
+We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system.
 
-We will not disclose your personal information to any other party other than in accordance with this Privacy Policy and in the circumstances detailed below:  
-i. In the event that we sell any or all of our business to the buyer.  
-ii. Where we are legally required by law to disclose your personal information.  
-iii. To further fraud protection and reduce the risk of fraud.
+Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Third Party Links**
+## Links to other websites
 
-On occasion we include links to third parties on this website. Where we provide a link it does not mean that we endorse or approve that site’s policy towards visitor privacy. You should review their privacy policy before sending them any personal data. 
+Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Access to Information**
+## Controlling your personal information
 
-In accordance with the Data Protection Act 1998 you have the right to access any information that we hold relating to you. Please note that we reserve the right to charge a fee of £10 to cover costs incurred by us in providing you with the information. 
+You may choose to restrict the collection or use of your personal information in the following ways:
 
-**Contacting Us**
+  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by letting us know using our Contact Us information
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at customerservice@kentandcurwen.us.com
+
+
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen.
+
+You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email us at [contactus@kentandcurwen.com](mailto:contactus@kentandcurwen.com?Subject=Privacy%20and%20Cookies).
+
+If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
+
+## List of cookies we collect
+
+The table below lists the cookies we collect and what information they store.
+
+COOKIE NAME| COOKIE DESCRIPTION  
+---|---  
+CART | The association with your shopping cart.  
+CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
+COMPARE | The items that you have in the Compare Products list.  
+CUSTOMER | An encrypted version of your customer id with the store.  
+CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
+CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
+CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
+EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
+FORM_KEY | Stores form key used by page cache functionality.  
+FRONTEND | Your session ID on the server.  
+GUEST-VIEW | Allows guests to edit their orders.  
+LAST_CATEGORY | The last category you visited.  
+LAST_PRODUCT | The most recent product you have viewed.  
+NEWMESSAGE | Indicates whether a new message has been received.  
+NO_CACHE | Indicates whether it is allowed to use cache.  
+PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
+RECENTLYCOMPARED | The items that you have recently compared.  
+STF | Information on products you have emailed to friends.  
+STORE | The store view or language you have selected.  
+USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
+VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
+WISHLIST | An encrypted list of products added to your Wish List.  
+WISHLIST_CNT | The number of items in your Wish List.
