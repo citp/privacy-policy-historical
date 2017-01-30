@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008193212id_/http%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the danielstrading.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130201236id_/https%3A//www.danielstrading.com/legal-notices/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Daniels Trading
 
@@ -16,6 +16,14 @@ When you apply for or maintain an account with Daniels Trading, we collect perso
   * Information you provide to us to verify your identity, such as a passport, or received from other entities not affiliated with Daniels Trading.
 
 
+
+### Cookies
+
+We use cookies and web beacons (also known as action tags or single-pixel gifs), and other technologies (collectively, “cookies”) to provide us with data we can use to improve your experience and to know you better. Cookies are small text files sent from Web servers that may be stored on your computer. Cookies enable us to capture how you arrived at our site, when you return, which pages on our site you visit, and to recognize that you are already logged on when we receive a page request from your browser. We may link the information we store in cookies to personally identifiable information you submit while on our site. We will never share this information with any 3rd party. Cookies are readable only by us and do not contain any personal information nor do they contain account or password information. We cannot and will not gather information about other sites you may have visited.
+
+We may share usage information about visitors to our websites with reputable advertising companies for the purpose of targeting our Internet banner advertisements. The information collected by the advertising company through the use of these pixel tags is not personally identifiable. We may also use 3rd party software to track and analyze usage and volume statistical information including page requests, form requests and click paths. The third party may use cookies to track behavior and may set cookies on behalf of Daniels Trading.
+
+All web browsers have settings that allow you to block cookies. By visiting our website with your browser set to allow cookies, you consent to our use of cookies as described above. If you choose to block cookies you may use our services but some functions may not work as designed.
 
 ## How We Protect Personal Information
 
@@ -46,7 +54,7 @@ We endeavor to keep our customer files complete and accurate. We will give you r
 
 You may opt-out of promotional communications via the following methods:
 
-  * Visit [http://www.danielstrading.com/unsubscribe/](https://web.archive.org/unsubscribe/) to unsubscribe from E-mail lists.
+  * Visit [https://www.danielstrading.com/unsubscribe/](https://web.archive.org/unsubscribe/) to unsubscribe from E-mail lists.
   * Send an email to: [optout@danielstrading.com](mailto:optout@danielstrading.com).
   * Send a letter to: 
 
