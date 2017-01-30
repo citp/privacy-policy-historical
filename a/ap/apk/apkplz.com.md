@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the apkplz.com privacy policy that was archived on 2015-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151120003323id_/http%3A//apkplz.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the apkplz.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130180843id_/https%3A//apkplz.com/page/privacy-policy) for the most accurate reproduction.*
 
-# ApkPlz - Free Android Apps and Games Apk
+# APK Downloader - Free Android APK Store
 
 We respect your privacy and we are committed to safeguarding your privacy while online at our site www.apkplz.com. The following discloses the information gathering and dissemination practices for this Web site.
 
