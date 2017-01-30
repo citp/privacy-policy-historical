@@ -1,22 +1,22 @@
-> *The following text is extracted and transformed from the liftopia.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113045208id_/http%3A//www.liftopia.com/privacy-statement.page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the liftopia.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130051815id_/https%3A//www.liftopia.com/privacy-statement) for the most accurate reproduction.*
 
-# Liftopia - Privacy Statement
+# Privacy Statement | Liftopia
 
-Last revised on Sept 30, 2016. 
+Last revised on Dec 7, 2016
 
-This privacy statement applies to Liftopia Inc. We at Liftopia, Inc. (Liftopia) are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and books on our website, located at www.liftopia.com (the "Site"). This privacy Policy describes how we collect, use, and secure the personal information you provide. It also describes your choices regarding the use, access and correction of your personal information.
+This privacy statement applies to Liftopia Inc. We at Liftopia, Inc. (Liftopia) are committed to protecting your privacy and creating a safe and secure online environment for anyone who visits and books on our website, located at www.liftopia.com (the "Site"). This privacy Policy describes how we collect, use, and secure the personal information you provide as well as the human resources data of our employees. It also describes your choices regarding the use, access and correction of your personal information.
 
 By submitting "Personally Identifiable Information" (information that allows someone to identify or contact you, as well as any other non-public information about you that is associated with or linked to any of the foregoing information) through our Site, you agree to the terms of this Privacy Statement and you expressly consent to the collection, use and disclosure or your Personally Identifiable Information in accordance with this Privacy Statement. Your trust and confidence are our highest priority. For questions or concerns regarding our Privacy Statement, please contact Liftopia at (800) 349-0870.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [ https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request) Liftopia, Inc. has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints concerning human resources data transferred from the EU in the context of the employment relationship.
 
-Liftopia, Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at [https://www.privacyshield.gov/list](https://www.privacyshield.gov/list.).
+Liftopia participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. We are committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List at [ https://www.privacyshield.gov/list.](https://www.privacyshield.gov/list)
 
-Liftopia, Inc. is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+Liftopia is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. We comply with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
 With respect to personal data received or transferred pursuant to the Privacy Shield Framework, we are subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, we may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-Under certain conditions, more fully described on the Privacy Shield website at <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+Under certain conditions, more fully described on the Privacy Shield website at [ https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
 Liftopia collects, processes, stores, discloses and disposes of Personally Identifiable Information that you submit to us in accordance with applicable United States law, which may be less stringent than the laws of your country. Please note that the Personally Identifiable Information you submit to our Site will be transferred to the United States to be processed by Liftopia for the purposes set forth in this Privacy Statement. If you are not a resident of the United States, you acknowledge and agree that we may collect, use and store your Personally Identifiable Information, as discussed in this Privacy Statement, outside of your resident jurisdiction.
 
@@ -32,7 +32,7 @@ We may receive Personally Identifiable Information, as well as "Anonymous Inform
 
 We may also collect Personally Identifiable Information at other points in our Site that state that Personally Identifiable Information is being collected.
 
-If you add guests to your account we will collect information from you about additional guests such as their first and last name in order to facilitate the booking of group purchases. When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. Added guests or users whose personal information was provided may contact us at [info@liftopia.com](mailto:info@liftopia.com) to request that we remove this information from our database.
+If you add guests to your account we will collect information from you about additional guests such as their first and last name in order to facilitate the booking of group purchases. When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. Added guests or users whose personal information was provided may contact us at [info@liftopia.com](mailto:info@liftopia.com) to request that we remove this information from our database.
 
 #### How your information is used
 
@@ -50,7 +50,7 @@ Liftopia maintains data handling and storage practices and procedures that are d
 
 We follow generally accepted industry standards to protect the Personally Identifiable Information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your Personally Identifiable Information, we cannot guarantee its absolute security.
 
-If you have any questions about security on our Site, you can send email to us at [info@liftopia.com](mailto:info@liftopia.com).
+If you have any questions about security on our Site, you can send email to us at [info@liftopia.com](mailto:info@liftopia.com). 
 
 #### With whom your information may be shared
 
@@ -66,7 +66,7 @@ This Site contains links to other sites that are not owned or controlled by Lift
 
 #### What choices are available?
 
-If your Personally Identifiable Information changes, you may update it by making the change on our My Account section of the Site. You may also send an e-mail to customer support at [support@liftopia.com](mailto:support@liftopia.com) or contact us by telephone or postal mail at the contact information listed at the end of this Privacy Statement, as well as when you request us to provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. You may request deletion of your Personally Identifiable Information and/or your account by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your geo location and personal information for fraud or similar purposes as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will respond to your request to access your Personally Identifiable Information within 30 days.
+If your Personally Identifiable Information changes, you may update it by making the change on our My Account section of the Site. You may also send an e-mail to customer support at support@liftopia.com or contact us by telephone or postal mail at the contact information listed at the end of this Privacy Statement, as well as when you request us to provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. You may request deletion of your Personally Identifiable Information and/or your account by us, but please note that we may be required to keep this information and not delete it (or to keep this information for a certain time, in which case we will comply with your deletion request only after we have fulfilled such requirements). When we delete any information, it will be deleted from the active database, but may remain in our archives. We may retain your geo location and personal information for fraud or similar purposes as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. We will respond to your request to access your Personally Identifiable Information within 30 days.
 
 #### Affiliates and Acquisitions
 
@@ -74,17 +74,17 @@ We may share some or all of your Personally Identifiable Information with our pa
 
 #### Public Forums
 
-Our web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personally Identifiable Information from our blog or community forum, contact us at [support@liftopia.com](mailto:support@liftopia.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your Personally Identifiable Information from our blog or community forum, contact us at [support@liftopia.com](mailto:support@liftopia.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Alternatively, if you used a third party application to post such information, you can remove it, by either logging into the application and removing the information or by contacting the appropriate third party that provides the application.
 
 #### Social Media Features and Widgets
 
-Our web site includes social media features, such as the Facebook button and widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it.
+Our web site includes social media features, such as the Facebook button and widgets, such as the Share this button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our site. Your interactions with these features are governed by the privacy policy of the company providing it. 
 
 #### Advertising
 
-We partner with a third party ad network to either display advertising on our web site or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you can opt out of our display advertising partner(s) and their partners' targeted advertising via the following website(s): <http://preferences-mgr.truste.com/> (or if located in the European Union click <http://www.youronlinechoices.eu/>), the Network Advertising Initiative website (<http://www.networkadvertising.org/>), or the Digital Advertising Alliance website ([http://aboutads.info](http://aboutads.info/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
+We partner with a third party ad network to either display advertising on our web site or to manage our advertising on other sites. Our ad network partner uses cookies and web beacons to collect non-personally identifiable information about your activities on this and other web sites to provide you targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you can opt out of our display advertising partner(s) and their partners' targeted advertising via the following website(s): <http://preferences-mgr.truste.com/> (or if located in the European Union click <http://www.youronlinechoices.eu/>), the Network Advertising Initiative website (<http://www.networkadvertising.org/>), or the Digital Advertising Alliance website ([http://aboutads.info](http://aboutads.info/)). Please note this does not opt you out of being served advertising. You will continue to receive generic ads.
 
 #### Children
 
@@ -96,7 +96,7 @@ This Privacy Statement is subject to occasional revision, and if we make any mat
 
 #### Opt Out Opportunity
 
-We provide you the opportunity to opt-out of having your Personally Identifiable Information used for certain purposes when we ask for such information. If you no longer wish to receive free newsletters or promotional communications from us, you may opt-out of receiving them by following the instructions included in each communication, by emailing us at [support@liftopia.com](mailto:support@liftopia.com), or by contacting us at (800) 349-0870.
+We provide you the opportunity to opt-out of having your Personally Identifiable Information used for certain purposes when we ask for such information. If you no longer wish to receive free newsletters or promotional communications from us, you may opt-out of receiving them by following the instructions included in each communication, by emailing us at [support@liftopia.com](mailto:support@liftopia.com), or by contacting us at (800) 349-0870.
 
 To opt out of push notifications, please go to device settings to turn off notifications. You may opt out of location based services at any time by editing the setting at the device level.
 
@@ -108,6 +108,5 @@ E-mail: [info@liftopia.com](mailto:info@liftopia.com)
 Phone (toll-free): (800) 349-0870  
 Mailing Address:  
 Liftopia, Inc.  
-1061 Market Street  
-Floor 4  
-San Francisco, CA 94103 U.S.A.
+1061 Market Street, Floor 4  
+San Francisco, CA 94103
