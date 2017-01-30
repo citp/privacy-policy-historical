@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasscubes.com privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917104116id_/https%3A//www.glasscubes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasscubes.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130012344id_/https%3A//www.glasscubes.com/privacy) for the most accurate reproduction.*
 
 # Glasscubes Privacy Policy - Committed to protecting your data.
 
