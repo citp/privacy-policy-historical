@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020025521id_/https%3A//www.earthclassmail.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclassmail.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130011143id_/https%3A//www.earthclassmail.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Earth Class Mail
 
-This is the privacy policy of Earth Class Mail, Inc. (ECM) applicable to the website at www.EarthClassMail.com (“the Website”) and, should you become a customer, to our secure hosted software application, which requires registration and payment and may include online postal mail, check processing, or for other mail-related services that we perform (“the Hosted Services”). We take very seriously the jobs of providing high quality service and protecting your privacy. The information below outlines the commitment we have made to protect your privacy. We do reserve the right to change this agreement, but any changes made will be posted here.
+_Last modified: December 21, 2016_
 
-ECM adheres to the U.S., EU, and Swiss Safe Harbor Frameworks which are administered by the U.S. Department of Commerce. We comply with the Safe Harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement. Details on the frameworks are found at: <http://export.gov/safeharbor/>.
+This is the privacy policy of Earth Class Mail, Inc. (ECM) applicable to the website at www.EarthClassMail.com (“the Website”) and, should you become a customer, to our secure hosted software application, which requires registration and payment and may include online postal mail, check processing, or for other mail-related services that we perform (“the Hosted Services”). We take very seriously the jobs of providing high quality service and protecting your privacy. The information below outlines the commitment we have made to protect your privacy. We do reserve the right to change this agreement, but any changes made will be posted here.
 
 ## The Website
 
@@ -32,7 +32,7 @@ The partner's servers automatically generate a unique number identifying your vi
 
 ## The Hosted Services
 
-When you sign up for a Hosted Service that requires registration, we ask you for personal information (such as your name, email address, and an account password). For services such as online postal mail, we also request and store credit card or other payment account information, address and telephone information, and physical copies of your identification papers. For services such as check processing and depositing, we will request and store information relating to your banking account. All information will be maintained in encrypted form on secure servers or in secure physical facilities, as appropriate. We may combine the information you submit under your account with information from other ECM services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. We do not contact site visitors unless they have given us explicit permission to do so, have written to us, or have begun (or completed) the process of signing up for one of our services. Except in the unlikely event that we are required to do so by law, personal details of your visit to our publicly-accessible website will never be shared with any third party without your permission.
+When you sign up for a Hosted Service that requires registration, we ask you for personal information (such as your name, email address, and an account password). For services such as online postal mail, we also request and store credit card or other payment account information, address and telephone information, and physical copies of your identification papers. For services such as check processing and depositing, we will request and store information relating to your banking account. All information will be maintained in encrypted form on secure servers or in secure physical facilities, as appropriate. We may combine the information you submit under your account with information from other ECM services or third parties to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information. We do not contact site visitors unless they have given us explicit permission to do so, have written to us, or have begun (or completed) the process of signing up for one of our services. Except in the unlikely event that we are required to do so by law, personal details of your visit to our publicly-accessible website will never be shared with any third party without your permission.
 
 ## Log information
 
@@ -40,11 +40,11 @@ When you use ECM services, our servers automatically record information that you
 
 ## User communications
 
-When you send email or other communication to ECM, we may retain those communications in order to process your inquiries, respond to your requests and improve our services.
+When you send email or other communication to ECM, we may retain those communications to process your inquiries, respond to your requests and improve our services.
 
 ## Affiliated sites
 
-We may offer some of our services in connection with other web sites. In such cases, personal information that you provide to those sites may be sent to ECM in order to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
+We may offer some of our services in connection with other web sites. In such cases, personal information that you provide to those sites may be sent to ECM to deliver the service. We process such information in accordance with this Policy. The affiliated sites may have different privacy practices and we encourage you to read their privacy policies.
 
 ## Links
 
@@ -56,10 +56,11 @@ This Privacy Policy applies to websites and services that are owned and operated
 
 ECM only processes personal information for the purposes described in the applicable Privacy Policy and/or privacy notice for specific services. In addition to the above, such purposes include:
 
+  * Reporting to credit bureaus;
   * Providing our products and services to users, including the scanning of envelope images, the display of those scanned images in notification emails to you and in your online account, the display and routing of the scanned contents of mail, and solicited advertising content;
   * Sending you certain communications relating to ECM services, such as service announcements, administrative messages, and the ECM newsletter, all of which are considered part of your ECM account and do not require us to offer you the opportunity to opt out of receiving them;
-  * Site usage tracking, in order to enable us to monitor Web site traffic and usage patterns in order to continually enhance and improve the service we offer, and for customer source information. In this process, we may collect IP addresses (which indicate the location of your computer on the Internet) to ensure effective technical operations. We may provide anonymous reporting for internal and external clients.
-  * Auditing, research, and analysis in order to maintain, protect, and improve our services;
+  * Site usage tracking, to enable us to monitor Web site traffic and usage patterns to continually enhance and improve the service we offer, and for customer source information. In this process, we may collect IP addresses (which indicate the location of your computer on the Internet) to ensure effective technical operations. We may provide anonymous reporting for internal and external clients.
+  * Auditing, research, and analysis to maintain, protect, and improve our services;
   * Ensuring the technical functioning of our network; and
   * Developing new services.
 
@@ -67,25 +68,23 @@ ECM only processes personal information for the purposes described in the applic
 
 You can find more information about how we process personal information by referring to the privacy notices for particular services.
 
-ECM processes personal information on our servers in the United States of America and reserves the right to process personal information in other countries. In some cases, we may process personal information on behalf of and according to the instructions of a third party.
+ECM processes personal information on our servers in the United States of America and reserves the right to process personal information in other countries. In some cases, we may process personal information on behalf of and per the instructions of a third party.
 
 ## Choices for personal information
 
-When you sign up for a particular service that requires registration, we notify you of our User Agreement and Privacy Policy. We also ask you to provide personal information. If we use this information in a manner different from the purpose for which it was collected, then we will ask for your consent prior to such use.
+When you sign up for a service that requires registration, we notify you of our User Agreement and Privacy Policy. We also ask you to provide personal information. If we use this information in a manner different from the purpose for which it was collected, then we will ask for your consent prior to such use.
 
-If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive personal information for purposes other than those described in this Policy or the specific service notices, unless we have obtained your prior consent (such as in our service agreements).
-
-You can decline to submit personal information to any of our services, in which case ECM may not be able to provide those services to you.
+If we propose to use personal information for any purposes other than those described in this Policy and/or in the specific service notices, we will offer you an effective way to opt out of the use of personal information for those other purposes. We will not collect or use sensitive personal information for purposes other than those described in this Policy or the specific service notices, unless we have obtained your prior consent (such as in our service agreements). **You can decline to submit personal information to any of our services, in which case ECM may not be able to provide those services to you.**
 
 ## Information sharing
 
-ECM does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested or under the following circumstances:
+ECM does not rent, sell, or share personal information about you with other people or non-affiliated companies except to provide products or services you've requested or under the following circumstances. You may not opt-out of this sharing:
 
-  * If we have your consent. We require opt-in consent for the sharing of any sensitive personal information.
-  * If we provide such information to our subsidiaries, affiliated companies, or other trusted businesses or persons for the purpose of processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures, including adequate data protection principles.
+  * If we provide such information to our subsidiaries, affiliated companies, or other trusted businesses or persons for processing personal information on our behalf. We require that these parties agree to process such information based on our instructions and in compliance with this Policy and any other appropriate confidentiality and security measures, including adequate data protection principles.
   * If we have a good-faith belief that access, use, preservation, or disclosure of such information is reasonably necessary to (a) satisfy any applicable law, regulation, legal process (including without limitation subpoenas and court orders), or enforceable governmental request, (b) enforce applicable terms of service, including investigation of potential violations thereof, (c) detect, prevent, or otherwise address fraud, security, or technical issues, (d) protect against imminent harm to the rights, property, or safety of ECM, its users or the public as required or permitted by law, or (e) to establish or exercise our legal rights or defend against legal claims.
-  * If ECM becomes involved in a merger, acquisition, or any form of sale of some or all of its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
+  * If ECM becomes involved in a merger, acquisition, or any form of sale of some or all its assets, we will provide notice before personal information is transferred and becomes subject to a different privacy policy.
   * We may share with third parties certain pieces of aggregated, non-personal information, such as the number of users who searched for a particular term, for example, or how many users clicked on a particular advertisement. Such information does not identify you individually.
+  * We may disclose information to non-affiliated third parties for routine business reasons. For example, we may disclose information to service providers and other third parties as necessary to facilitate a transaction or the Services, or to report to credit bureaus.
   * Please contact us at the address below for any additional questions about the management or use of personal data.
 
 
@@ -94,7 +93,7 @@ ECM does not rent, sell, or share personal information about you with other peop
 
 We take appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure, or destruction of data. These include internal reviews of our data collection, storage, and processing practices and security measures, as well as physical security measures to guard against unauthorized access to systems where we store personal data.
 
-We restrict access to personal information to ECM employees, contractors, and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
+We restrict access to personal information to ECM employees, contractors, and agents who need to know that information to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, including termination and criminal prosecution, if they fail to meet these obligations.
 
 Earth Class Mail applies rigorous security measures at physical mail facilities, at its data centers, and within the applications that it provides for access to those services.
 
@@ -108,11 +107,11 @@ When you use our Hosted Services, we make good-faith efforts to provide you with
 
 ## Enforcement
 
-Enforcement – Customer Service is staffed to assist and support our customers’ activities and accounts, and also to enforce adherence to our User Agreement terms and conditions. Customer Service can suspend and/or terminate service for any account for breach of those terms or operating in a manner inconsistent with the terms of service. Earth Class Mail’s Human Resources department also works closely with department heads to ensure policies are adhered to and when necessary to terminate employment for any employee, permanent or temporary, that breaches the terms of hire, or presents a security risk.
+Enforcement – Customer Service is staffed to assist and support our customers’ activities and accounts, and to enforce adherence to our User Agreement terms and conditions. Customer Service can suspend and/or terminate service for any account for breach of those terms or operating in a manner inconsistent with the terms of service. Earth Class Mail’s Human Resources department also works closely with department heads to ensure policies are adhered to and when necessary to terminate employment for any employee, permanent or temporary, that breaches the terms of hire, or presents a security risk.
 
 ECM regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or ECM's treatment of personal information by contacting us through this web site or by writing to us at Your Privacy Rights, c/o Earth Class Mail, 9450 SW Gemini Dr, #101, Beaverton, Oregon 97008-7105. When we receive formal written complaints at this address, it is ECM's policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between ECM and an individual.
 
-European residents with inquiries regarding data privacy can contact us at the above address or at privacy@earthclassmail.com.
+European residents with inquiries regarding data privacy can contact us at the above address or at [privacy@earthclassmail.com](mailto:privacy@earthclassmail.com).
 
 ## Changes to this policy
 
