@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219212623id_/http%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividseats.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130102515id_/https%3A//www.vividseats.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Vivid Seats
 
-This Privacy Statement applies to www.vividseats.com owned and operated by Vivid Seats Ltd. ("Vivid Seats"). This Privacy Statement describes how Vivid Seats collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.   
+This Privacy Statement applies to www.vividseats.com owned and operated by Vivid Seats LLC ("Vivid Seats"). This Privacy Statement describes how Vivid Seats collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.   
 
 
 In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request. The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through our mobile application. 
@@ -118,7 +118,7 @@ Vivid Seats may from time to time change its privacy policy. If Vivid Seats make
 
 You can reach us by email [support@vividseats.com](mailto:support@vividseats.com) or you can call us toll-free at 866.848.8499. Please note that messages become our property and, unless you direct otherwise, may be used by us for promotional purposes. 
 
-**Vivid Seats Ltd.**  
+**Vivid Seats LLC**  
 225 W. Randolph  
 30th Floor  
 Chicago, IL 60606  
