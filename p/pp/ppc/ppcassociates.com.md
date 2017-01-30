@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ppcassociates.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102022533id_/https%3A//3qdigital.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ppcassociates.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130173541id_/https%3A//3qdigital.com/privacy-policy) for the most accurate reproduction.*
 
 # 3Q Digital | Privacy Policy
 
