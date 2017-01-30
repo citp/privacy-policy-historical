@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825235552id_/http%3A//www.mercuryinsurance.com/about/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercuryinsurance.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131001438id_/https%3A//www.mercuryinsurance.com/about/privacy-statement.html) for the most accurate reproduction.*
 
 # Mercury Insurance | Policy Statement
 
@@ -24,7 +24,18 @@ Mercury collects personal information (for example, name, address, E-mail addres
 
 If you provide us with your E-mail address, Mercury may use it to occasionally notify you of new services, special offers, or to confirm transactions. If you do not wish to be contacted by E-mail you may click on the "unsubscribe" link at the bottom of any Mercury E-mail you receive and you will no longer receive non-policy related communications from us via E-mail.
 
-The companies of Mercury Insurance Group may work with several third-party vendors, including, but not necessarily limited to [Yahoo!/Bing](http://www.bing.com/), [Google](http://www.google.com/), [AdHarmonics](http://www.adharmonics.com/), [Rocket Fuel](http://rocketfuel.com/), [Facebook](https://www.facebook.com/), [YouTube](https://www.youtube.com/), [Sizmek](http://www.sizmek.com/), and others, to research usage and activities on our website. These third-party vendors use Web beacons and cookies to conduct this research. The information collected through these Web beacons and cookies is used to find out more about our Web site usage patterns, for more accurate reporting, and to improve the effectiveness of our marketing. These vendors may collect information about the online activity of visitors to our website, but they do not collect personally identifiable information. Information recorded through the use of these Web beacons and cookies is aggregated and then shared with us. No personally identifiable information about you is shared by these third-party vendors with the Mercury family of companies. 
+The companies of Mercury Insurance Group may work with several third-party vendors, including, but not necessarily limited to [Yahoo!/Bing](https://www.bing.com/), [Google](https://www.google.com/), [AdHarmonics](http://www.adharmonics.com/), [Rocket Fuel](https://rocketfuel.com/), [Facebook](https://www.facebook.com/), [YouTube](https://www.youtube.com/), [Sizmek](https://www.sizmek.com/), [Oracle BlueKai](https://www.oracle.com/marketingcloud/products/data-management-platform/index.html) and others, to research usage and activities on our website. These third-party vendors use Web beacons and cookies to conduct this research. The information collected through these Web beacons and cookies is used to find out more about our Web site usage patterns, for more accurate reporting, and to improve the effectiveness of our marketing. These vendors may collect information about the online activity of visitors to our website for the purpose of customizing ads to your interests (sometimes referred to as "interest-based" advertising). No personally identifiable information is collected. Information recorded through the use of these Web beacons and cookies is aggregated and then shared with us. No personally identifiable information about you is shared by these third-party vendors with the Mercury family of companies. 
+
+To opt out of interest-based advertising, please visit the following websites:
+
+Digital Advertising Alliance  
+<http://www.aboutads.info/choices/>
+
+Networking Advertising Initiative  
+<http://www.networkadvertising.org/choices/>
+
+Oracle Data Cloud  
+<http://bluekai.com/consumers.php>
 
 ###### _To learn more about how Mercury collects and uses your personal information, please read the following notice._
 
