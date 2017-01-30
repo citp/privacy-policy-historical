@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickboardforschools.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021120523id_/https%3A//www.kickboardforschools.com/terms/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickboardforschools.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130020428id_/https%3A//www.kickboardforschools.com/terms/website-privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy | Kickboard
 
