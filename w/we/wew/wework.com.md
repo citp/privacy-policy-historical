@@ -1,103 +1,176 @@
-> *The following text is extracted and transformed from the wework.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402195049id_/https%3A//www.wework.com/signup/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wework.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130052451id_/https%3A//www.wework.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | WeWork
 
-Safeguarding your privacy is important to us. This Privacy Policy (“Policy”) describes our practices concerning the collection, use, and disclosure of personal and other information in connection with the websites that are located at wework.com and members.wework.com (and all related domains), as well as the WeWork mobile application (collectively, the “Site”). This Policy applies to all registered members of WeWork (“Members”) and any other person who accesses our Site at any point for any amount of time (a “Visitor”), unless otherwise specified. By visiting our Site, you are agreeing to the terms of this Policy. Please carefully review this Policy.
+* * *
 
-## What personal and other information we collect about you
+Safeguarding your privacy is important to us. WeWork is committed to maintaining your trust by protecting personal information that we collect and use.
 
-WeWork collects both “personal information” and “non-personal information” about Site users. For purposes of this Policy, “personal information” is information such as a name or email address that WeWork can directly associate with a specific person without additional information. “Non-personal information” is information that WeWork cannot directly associate with a specific person without the aid of additional information. When we combine non-personal information with personal information, we treat all of the combined information as personal information.
+If you live or are based in the United States, this Privacy Policy (“Policy”) describes how WeWork Companies Inc. and its affiliated companies and subsidiaries ("WeWork", “we” or “us”) collect, use, and disclose your personal information in connection with any website, application, or other service that refers to or links to the Policy (collectively, our “Services”). Please read the Policy carefully before you use our Services. You should not use our Services if you are not comfortable with what is stated below, and your continued use of Services constitutes consent to the practices we describe in this Policy and the use and sharing of your information as provided herein.
 
-Collecting personal and non-personal information enables us to provide a better experience for our Members and Visitors. As discussed in more detail below, we collect this information for a variety of purposes, including protecting the security of the Site and our users, gauging the effectiveness of and improving our service and Site, distributing our newsletters, notifying the winners of contests and sweepstakes, facilitating participation in specified activities, and promoting the Site and other products and services provided by WeWork.
+If you live or are based anywhere else, please refer to our [Privacy Policy (Outside the United States)](https://web.archive.org/legal/privacy/ex-us). When the text of this Policy is available in multiple languages, the English version is the authoritative version, except where prohibited by applicable law.
 
- **Personal Information** : You can visit some parts of the Site without submitting any personal information. However, to gain access to much of the content on the Site, you must become a Member and provide personal information, including your name, telephone number, email address, unique password, postal address, payment information, and company name. If you use certain WeWork services or supplement your automatically-created WeWork profile, we might collect a variety of additional information from you, including your birthday, photograph, gender, job title, and/or industry. For Site activities that request personal information, you agree to provide accurate and current information about yourself. You also agree to the sharing of certain information through your WeWork profile, as described below.
+## Information We Collect
 
-We may combine personal information collected through the Site with other information that we or third parties collect about you in other contexts – such as our communications with you via email or phone or your member or company profile. We will treat such combined information as personal information and protect it in accordance with this Policy.
+We collect various types of personal information in connection with the Services, namely:
 
-We may retain personal information for an indefinite amount of time to preserve our database and to comply with various federal and state laws.
-
- **Direct sharing of information on the Site** : The Site allows users to create profiles, including but not limited to information about themselves, their company, their interests, and their skills. In addition, certain features of the Site make it possible for you to post comments, share information about yourself or your company, and otherwise engage with the larger WeWork community. WeWork member profiles and posted comments are viewable by other members and WeWork employees. When using these features, you must comply with the WeWork Member Community Guidelines, available here.
-
- **Surveys, Sweepstakes, and Events** : From time to time, WeWork may ask Site users to participate in surveys or provide opportunities to participate in sweepstakes or events. Such surveys, sweepstakes, and events may be used to collect both personal and non-personal information. Participation in these activities is completely voluntary, and you therefore have a choice whether or not to disclose your information. For each contest, sweepstakes, and/or special event, we will post on the Site applicable rules for the event, and if necessary, post any supplemental terms and conditions or privacy provisions. To the extent there is a conflict between those privacy provisions and this policy, the privacy provisions for the specific event will govern.
-
- **Weblog Data** : When you use the Site, WeWork automatically receives and records certain information from your computer (or other device) and your browser. This may include such data as your IP address and domain name, the pages you visit on the Site, the date and time of your visit, the files that you download, the URLs from the websites you visit before and after navigating to the Site, your software and hardware attributes (including device IDs), your general geographic location (e.g. your city, state or metropolitan region), and certain cookie information (see below). To obtain such information, we may use web logs or applications that recognize your computer and gather information about its online activity.
-
- **Cookies** : We also use cookies on the Site. Cookies are small files that are stored on your computer or other device by your web browser. A cookie allows the Site to recognize whether you have visited before and may store user preferences and other information. For example, cookies can be used to collect information about your use of the Site during your current session and over time (including the pages you view and the files you download), your computer’s operating system and browser type, your Internet service provider, your domain name and IP address, your general geographic location, the website that you visited before the Site and the link you used to leave the Site. If you are concerned about having cookies on your computer or device, you can set your browser to refuse all cookies or to indicate when a cookie is being set, allowing you to decide whether to accept it. You can also delete cookies from your computer or device. However, if you choose to block or delete cookies, certain features of the Site may not operate correctly.
-
- **Web beacons** : We also may use an application known as a “web beacon” (also known as a “clear gif” or a “web bug”). A web beacon is an electronic file that usually consists of a single-pixel image. It can be embedded in a web page or in an email to transmit information, which could include personal information. For example, it allows an email sender to determine whether a user has opened a particular email. We do not disclose to non-service-provider third parties any personal information that we collect in connection with web beacons. However, other websites that you may link to through the Site also may use web beacons, so you should review other website operators’ privacy policies to determine the type and extent of tracking devices used, and the information shared.
-
- **Third-party online tracking and behavioral advertising** : We also may partner with certain third parties to collect, analyze, and use some of the personal and non-personal information described in this section. For example, we may allow third parties to set cookies or use web beacons on the Site or in email communications from WeWork. This information may be used for a variety of purposes, including online behavioral advertising, as discussed below (see the section entitled “How we share personal and non-personal information with third parties”).
-
-## How we use the personal and non-personal information that we collect
-
-WeWork uses the information that we collect for a variety of purposes. If we have personal information about you, we may use it, for example: to respond to your questions or requests concerning the Site or other services offered by WeWork or our partners; to fulfill the terms of any agreement you have with us; to fulfill your requests for our services or otherwise complete a transaction that you initiate; to send you information about our services and other topics that are likely to be of interest to you; to deliver confirmations, account information, notifications, and similar operational communications; to populate your WeWork profile; to improve your user experience and the quality of our Site and services; to comply with legal and/or regulatory requirements; and to manage our business.
-
-We use the non-personal information that we collect for such purposes as: counting and recognizing users of the Site; analyzing how users navigate the Site and use various Site features; improving the Site and enhancing users’ experiences with the Site; creating new products and services or improving our existing products and Services; enabling additional website analytics and research concerning the Site; and managing our business. WeWork may link non-personal information gathered using cookies and web beacons with personal information. In that event, we will treat the combined information as personal information.
-
-We also may use the personal and non-personal information that we collect to send you promotional communications including emails or postal mail about the products and services offered by WeWork or our partners. Although we hope you will find our promotional emails of interest, you may opt out of receiving them by sending an email to privacy@wework.com with “optout” in the subject line. Promotional emails also will have instructions for opting out of that type of communication in the future.
-
-## How we share personal and non-personal information with third parties
-
-We share your personal and non-personal information with other parties for a variety of purposes as described below.
-
- **Automatically-created WeWork profile**. When you become a WeWork Member, we automatically create a profile for you that contains such personal information as your name and company. This profile is accessible to all other WeWork members, as is any other information that you manually add to your profile. By becoming a WeWork member, you consent to the creation and sharing of your profile.
-
- **Analytics and online behavioral advertising**. We partner with certain third parties to collect the non-personal information discussed above and to engage in analysis, auditing, research, and reporting. These third parties may use web logs or web beacons, and they may set or access cookies on your computer or other device. In particular, the Site uses [Google Analytics](http://www.google.com/analytics/learn/privacy.html) to help collect and analyze certain information for the purposes discussed above. You may opt out of the use of cookies by Google Analytics [here](https://tools.google.com/dlpage/gaoptout).
-
-The site also enables third-party tracking mechanisms to collect your non-personal information for use in online behavioral advertising. For example, third parties may use the fact that you visited the Site to target online ads for WeWork services to you on non-WeWork websites. In addition, our third-party advertising networks might use information about your use of the Site to help target non-WeWork advertisements based on your online behavior in general. For information about behavioral advertising practices, including privacy and confidentiality, visit the [Network Advertising Initiative](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2Funderstanding-online-advertising&sa=D&sntz=1&usg=AFQjCNGvxXbzJnq_bT6FRCa5W4NYkp2aww) website or the [Digital Advertising Alliance](http://www.google.com/url?q=http%3A%2F%2Fwww.aboutads.info&sa=D&sntz=1&usg=AFQjCNGXTk-9hHDlVQw-f774YKeAd8l_oQ) website.
-
-The use of online tracking mechanisms by third parties is subject to those third parties’ own privacy policies and not this Policy. If you prefer to prevent third parties from setting and accessing cookies on your computer or other device, you may set your browser to block cookies. Additionally, you may remove yourself from the targeted advertising of companies within the Network Advertising Initiative by [opting out here](http://www.google.com/url?q=http%3A%2F%2Fwww.networkadvertising.org%2Fchoices%2F&sa=D&sntz=1&usg=AFQjCNF3RowTODpE4s5QXifegtFw_AGUyQ), or of companies participating in the Digital Advertising Alliance program by [opting out here](http://www.google.com/url?q=http%3A%2F%2Fwww.aboutads.info%2Fchoices&sa=D&sntz=1&usg=AFQjCNHF9XatBICNjqnEKN6puV79-Ex5JA). Although our Site currently does not respond to “do not track” browser headers, you can limit tracking through these third-party programs and by taking the other steps discussed above.
-
- **Third-party service providers and business partners** : WeWork also uses other third-party service providers to help us manage and improve the Site and other WeWork services. These service providers may collect and/or use your personal or non-personal information to assist us in achieving the purposes discussed above in the section entitled “How we use the personal and non-personal information we collect.” For example, we use third parties to host and manage the Site, to help us target and implement our email communications and direct mailings, to help us process credit card and other payments, and to help us manage our relationships with the people and companies that use our services.
-
-We also may share your personal or non-personal information with other third parties when necessary to fulfill your requests for services; to complete a transaction that you initiate; to meet the terms of any agreement that you have with us or our partners; or to manage our business.
-
-For the convenience of our Members and Visitors, we may offer a list of helpful website links provided by other entities and/or persons. WeWork does not endorse or recommend, nor is it liable for, the products or services of any websites not owned or operated by WeWork. When you visit other websites, you also will be subject to the privacy policies and terms of usage agreements, if any, of those website operators.
-
- **Direct sharing of information through third-party websites and services** : The Site may enable you to share personal and other information through websites or online services operated by third parties. If you choose to use such features, you may disclose your personal information not just to those third-party websites and services, but also to their users and the public more generally. Because these third-party websites and services are not operated by WeWork, WeWork is not responsible for the content or practices of those websites or services. The collection, use, and disclosure of your personal and non-personal information will be subject to the privacy policies of the third party websites or services, and not this Policy.
-
- **Third-party plug-ins**. The Site may integrate certain third-party plug-ins. Even if you do not click on these plug-ins, they may collect information about you, such as your IP address and the pages that you view. They also may set and/or access a cookie. These plugins are governed by the privacy policy of the company providing them.
-
- **Third-party marketing** : If you opt in to receive marketing emails from third-parties, WeWork will provide your personal information to third parties, so that those third parties may directly contact you about non-WeWork products and services. If you later choose to opt out of receiving marketing emails from third parties, please contact the third party directly and/or follow the instructions at the bottom of their marketing emails.
-
- **Legal Purposes** : We also may use or share your personal or non-personal information with third parties when we believe, in our sole discretion, that doing so is necessary:
-
-  * to comply with applicable law or a court order, subpoena, or other legal process;
-  * to investigate, prevent, or take action regarding illegal activities, suspected fraud, violations or our terms and conditions, or situations involving threats to our property or the property of physical safety of any person or third party;
-  * to establish, protect, or exercise our legal rights or to defend against legal claims; or
-  * to facilitate the financing, securitization, insuring, sale, assignment, bankruptcy, or other disposal of all or part of our business or assets.
+  * information you provide us directly;
+  * information we collect about your device(s) and your use of our Services, including through cookies, web beacons, and other internet technologies; and
+  * information we obtain from third-party sources.
 
 
 
- **Aggregated Information** : From time to time, WeWork also may share de-identified and aggregated information about Site users, such as by publishing a report on the trends in usage of the Site. Similarly, the information that WeWork collects through surveys will be disclosed in de-identified and aggregate form, unless the privacy policy for that particular survey specifies otherwise.
+### Personal Information You Provide Us Directly
 
-## Security
+We collect various types of information and content that you provide us directly. For example, in order to enroll as a member or to access some of our Services, you will be requested to provide us with your name, telephone number, email address, postal address, and where applicable company or organization name. We also collect other content and information that you provide us directly, including the content and information you may add to your member network or other community profile and photographs or other information or documentation you submit or provide us and the communications that you transmit through our networks. We collect billing and payment information you provide when you access some of our Services or purchase products and services. We also collect information that you provide us when you participate in our surveys, sweepstakes or events. If you do not provide us with the requested information, we may be unable to deliver you the Services in full.
 
-WeWork requires our employees to protect all information collected through the Site. Only employees with specific authorization have access to databases containing users’ personal information. WeWork uses commercially reasonable physical, electronic, and procedural safeguards to protect your personal information against loss or unauthorized access, use, modification, or deletion. However, no security program is foolproof and thus we cannot guarantee the absolute security of your personal or other information.
+To the extent that you disclose to us any personal information of another individual, we assume that you have obtained such individual’s consent for the disclosure of such personal information as well as the processing of the same in accordance with the terms of this Policy.
 
-## Reviewing and updating your information
+### Information About Your Device(s) and Your Use of the Services
 
-If you want to learn more about the personal information that WeWork has about you, or you would like to update or change that information, please contact us by email at [privacy@wework.com](mailto:privacy@wework.com).
+We collect information about how you use our Services and, depending on the access permissions you have chosen for your device, other information, as specified below, from and about the computers, phones, and other devices where you install or access our Services. We use standard internet technologies, such as cookies and web beacons, to collect information about your computer or device and your online activity, as explained in more detail in the section on cookies.
 
-## Information for Site Users from outside the United States
+The information we collect in this respect is:
 
-The personal and non-personal information that we collect through or in connection with the Site is transferred to and processed in the United States for the purposes described above. WeWork may subcontract the processing of your data to, or otherwise share your data with, affiliates or third parties in the United States or in other countries. The data-protection laws in these countries may be different from, and less stringent than, those in your country of residence. By using the Site or providing any personal or non-personal information to us, you expressly consent to such transfer and processing.
+  * your browser type and operating system;
+  * IP address and device identifiers;
+  * your browsing behavior on our Services, such as the amount of time spent viewing our online Services and the links you click within our online Services;
+  * websites you visit before or after our websites;
+  * whether you have opened or forwarded our e-mails or connected to offers or links that we send you; and
+  * your general or specific geographic location, such as through GPS, Bluetooth or WiFi signals to the extent permitted by the settings of your devices.
 
-## Children’s privacy
 
-This Site is not directed to children under the age of 13 and WeWork will never knowingly collect personal or other information from anyone it knows is under the age of 13. We recommend that persons over 13 but under 18 years of age ask their parents for permission before using the Site or sending any information about themselves to anyone over the Internet.
 
-## Changes to this policy
+If you use our internet connection, networks, telecommunications systems or information processing systems, your activity and any files or messages on those systems may also be monitored by WeWork at any time, in accordance with applicable law, for purposes of an investigation or to ensure compliance with company policies.
 
-WeWork will review its data security measures and this privacy policy from time to time and may make changes to the Site or to its privacy practices. In that case, WeWork may need to revise this Policy to reflect those changes. WeWork will post all such changes on the Site, so we encourage you to review this Policy periodically.
+### Information From Third-Party Sources
 
-## Questions or comments
+We obtain information about you from your company or organization, including when they may create or supplement your profile for you in the member network. You can review and amend this profile at any time. For further details, see below.
 
-If you have any questions or comments regarding our Policy, please mail or email us at:
+We also receive information about you from publicly and commercially available sources and other third parties as permitted by law. We may combine this information with other information we receive from or about you, where necessary to provide the Services you requested.
 
-Privacy Director   
-WeWork Management LLC   
-115 W 18th St.  
-New York, NY 10011Email: [privacy@wework.com](mailto:privacy@wework.com)
+## Use of Personal Information
 
- **Effective Date** : December 8, 2014
+We use the personal information that we collect as necessary and appropriate for the following purposes:
+
+  * To provide our products and services. We use your personal information to provide you with the products, services, and features that you or your company or organization have requested; to respond to inquiries we receive from you or your company or organization; to verify your identity; in connection with a transaction that you or your company or organization has initiated; to deliver notifications and other operational communications; and for troubleshooting.
+  * To improve our products and services and to analyze how users navigate and use our products and services and individual features.
+  * To manage the performance of our products and services.
+  * For audit and reporting purposes, to perform accounting and administrative tasks, and to enforce or manage legal claims.
+  * To deliver advertising and promotional communications. For example, we may periodically contact you with offers and information about our products, services, features, and events; to send you newsletters or other information about topics that we believe may be of interest; to conduct online surveys; and to otherwise promote our products, services, features, and events. We also may deliver targeted advertisements to you, both on and off the Services.
+  * For security and to protect, enforce, or defend legal rights, privacy, safety or property, whether our own or that of our employees or agents or others, and to enforce compliance with WeWork policies and to comply with applicable law and government requests.
+
+
+
+## Sharing of Personal Information
+
+We disclose your personal information in the following circumstances to the following parties:
+
+  * **Among WeWork companies**. Our services are provided by affiliates of WeWork Companies Inc. depending on where you are located and the services you use. WeWork shares personal information with those affiliates for the purposes mentioned above. These affiliates use your information in accordance with this policy.
+  * **Our Community**. Our Services include online and offline member communities, forums and networks that allow you to share and connect with others. We make this possible for WeWork members by creating a profile for new members that contains your name and the name of your company or other organization. This profile is created automatically and is accessible to other members of the forum or network, some of which include all WeWork members. You can supplement your profile by adding additional information about yourself and your company or organization and by posting content and comments and you may be able to share your profile with a broader audience.
+  * **Service Providers**. We rely on third-party service providers to perform a variety of services on our behalf. For example, we may rely on service providers to host data and platforms, fulfill our product and service requests and answer your questions, send e-mails on our behalf, process payment card or other transactions, and analyze data to improve our products and services.
+  * **Other Parties When Required by Law and as Necessary to Provide and Protect Our Services**. There may be instances when we disclose your information to other parties: 
+    * to provide you with the services you or your company or organization request, such as a disclosure of your information to a landlord in connection with a lease agreement, or to auditors or consultants;
+    * to comply with the law or respond to legal process or a request for cooperation by a government entity or law enforcement;
+    * to detect, suppress, and prevent fraud or verify and enforce compliance with the policies governing our Services; or
+    * to protect our rights, property, and safety or that of any of our respective affiliates, business partners, customers or employees and where otherwise required by law.
+  * **Other Parties in Connection with a Corporate Transaction**. We will disclose your personal information to an acquiror in the event we sell or transfer all or a portion of a business or assets to that third party, such as in connection with a merger or in the event of a bankruptcy reorganization or liquidation.
+  * **Third-Party Partners, With Your Consent**. We may request your consent to share personal information about you with third parties so that they may provide you with special offers, promotional materials, and other materials that may be of interest to you.
+  * **Other Parties at Your Company’s or Organization’s Direction**. In addition to the disclosures described in this Policy, we may share information about you with third parties when your company or organization requests such sharing. For example, we periodically may partner with third parties to make products or services available to individual members or participating companies and organizations. If you or your company or organization requests to participate, we may share your information with the relevant third party in connection with the requested product or service.
+  * **Aggregated and Non-Personal Information**. We also share with third parties information in a manner that does not identify particular individuals, for example, information that has been aggregated with other records.
+
+
+
+Our Services contain links to other sites that we do not own or operate. We provide links to these third-party sites as a convenience to our members. They are not intended as an endorsement of or referral to the linked services. The linked services are subject to their separate and independent privacy statements, notices, and terms, which we recommend you read carefully. The collection, use, and disclosure of your personal information will be subject to the privacy policies of the third party and not this Policy.
+
+## Third Parties That Provide Content or Functionality on Our Services
+
+We also partner with certain third parties to collect, analyze, and use some of the personal information described in this Policy. For example:
+
+  * Third-parties that provide features and functionality on the Services by means of plug-ins. Even if you do not click on or interact with social networking services or other plug-ins, they may collect information about you, such as your IP address and the pages that you view.
+  * Advertising providers help us and our advertisers provide advertisements on our Services or elsewhere, including advertisements that are targeted based on your online behavior, and analytics companies help us measure and evaluate the usage of our services.
+  * Other content providers may offer products and services on our Services and may operate contents, sweepstakes, or surveys on our Services.
+
+
+
+These third parties collect or receive certain information about your use of our Services, including through the use of cookies, web beacons, and Internet technologies and this information may be collected over time and combined with information collected across different websites and online services.
+
+Some of these companies participate in industry-developed programs designed to provide consumers choices about whether to receive targeted advertising. Please visit the websites operated by the [Network Advertising Initiative](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance](http://www.aboutads.info/choices/) to learn more. Further information in local languages may be available at [Your Online Choices](http://www.youronlinechoices.com/).
+
+## Information Security
+
+We have in place various procedures to safeguard your information. Although we take such steps to protect your information, no security program is foolproof and thus we cannot guarantee the absolute security of your personal or other information.
+
+## Reviewing and Updating Your Information
+
+In accordance with applicable law, you may have the right to access, update, or correct inaccuracies in your personal information in our custody and control, subject to certain exceptions prescribed by law. If you would like to access, review, or update your information, please e-mail [privacy@wework.com](mailto:privacy@wework.com).
+
+## Accessing, Reviewing, and Updating Your Personal Information
+
+To the extent provided for under applicable law, you may have the right to access your personal information and to update or correct inaccuracies in your personal information in light of the nature of our certain aspects of the services.
+
+If you would like to exercise any of these rights, please send an e-mail to [privacy@wework.com](mailto:privacy@wework.com) or a letter to Privacy Director, WeWork Companies Inc, 115 West 18th Street, New York, New York 10011.
+
+## International Transfers
+
+The Services are headquartered in the United States. Please be aware that information you provide to us or that we obtain as a result of your use of the Services may be collected in your country and subsequently transferred to another country in accordance with applicable law. By using the Services, you consent to the collection, international transfer, storage, and processing of your information.
+
+## Your California Privacy Rights
+
+You may opt out of having your personal information shared with third parties for those third parties’ direct marketing purposes by e-mailing privacy@wework.com.
+
+Some web browsers may transmit “do-not-track” signals to the websites and other online services with which a user communicates. There is no industry standard that governs what, if anything, websites should do when they receive these signals. We currently do not take action in response to these signals. If and when a standard is established and accepted, we may revisit our policy on responding to these signals.
+
+California residents who are registered members or users of the Services and are under the age of 18 may be entitled under California law to request and obtain removal of content and information that they themselves post on the Services. You may request such removal by emailing us at privacy@wework.com. In your request, please provide a description of the material that you want removed and information sufficient to permit us to locate the material, including your name, email address, year of birth, mailing address (including city, state, and zip code) and the subject line “California Removal Request.” Please note that your request does not ensure complete or comprehensive removal of the material. For example, materials that you have posted may be republished or reposted by another user or third party.
+
+## Collection of Information From Children
+
+The Services are not directed to children under the age of 16 and we do not knowingly collect personal information from anyone under the age of 16. Persons over 16 but under 18 years of age should ask their parents for permission before using the Services or sending any information about themselves to anyone over the Internet.
+
+## Changes to This Privacy Policy in the Future
+
+Privacy laws and guidelines are part of a constantly changing environment. We reserve the right, at our discretion, to change, modify, add, or remove portions of this Policy at any time. We encourage you to review this Policy periodically to ensure that you are aware of our current privacy practices, although we may also elect to notify you by e-mail or by posting something on some or all of our online Services. Your continued use of our Services following any changes signifies your acceptance of these changes.
+
+## Questions or Comments
+
+If you have any questions or comments regarding our Policy, please contact us at:
+
+Privacy Director,  
+WeWork Companies Inc.,  
+115 West 18th Street,  
+New York, New York 10011  
+Email: privacy[at]wework[dot]com
+
+Effective Date: September 1, 2016
+
+* * *
+
+## Cookies, Web Beacons, and Other Internet Technologies
+
+We, as well as certain third parties that provide content and other functionality on our Services, may use cookies, web beacons and other similar technologies on our online Services.
+
+### Cookies
+
+A cookie is a small file that may be stored on your computer or other device. A cookie enables the entity that put the cookie on your device to recognize it across different websites, services, devices, and browsing sessions.
+
+When you use a web browser to access the Services, some browsers may allow you to configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is sent. Click the “Help” menu of your browser to learn more about how to change your cookie preferences. The operating system of your device may contain additional controls for cookies. Please note that disabling cookies may affect your ability to access and use certain features of the Services. To learn more about cookies and how to manage them, please click [here](http://www.allaboutcookies.org/).
+
+### Web Beacons
+
+Web beacons and similar technologies are small bits of code, which are embedded in web pages, ads, and e-mail, that communicate with third parties. We may use web beacons, for example, to count the number of users who have visited a particular web page, to deliver or communicate with cookies, and to understand usage patterns. We also may include web beacons in e-mails to understand whether messages have been opened, acted on, or forwarded.
+
+### Other Technologies
+
+There are other local storage and Internet technologies, such as Local Shared Objects (also referred to as “Flash cookies”) and HTML5 local storage, that operate similarly to the cookies discussed above in that they are stored on your device and can be used to store certain information about your activities and preferences across different services and sessions. Please note that these technologies are distinct from cookies, and you may not be able to control them using standard browser tools and settings. For information about disabling or deleting information contained in Flash cookies, please [click here](https://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html).
+
+### How We Use These Technologies
+
+Our websites use these technologies for the following general purposes:
+
+  * Administering and improving our Services, including helping us measure and research the effectiveness of our content, features, advertisements, and other communications. For example, we measure which pages and features website visitors are accessing and how much time they are spending on our webpages. We may include web beacons in e-mails, for example, to understand whether messages have been opened, acted on, or forwarded.
+  * Storing your sign-in credentials and preferences so that you don’t have to enter those credentials and preferences every time you log on to a Service.
+  * Helping us and third parties provide you with relevant content and advertising by collecting information about your use of our Services and other websites.
+
+
+
+Please see “Use of Information” for details about how we use the information that we collect. By continuing to use the Services, you consent to our use of cookies, web beacons, and other Internet technologies as described above.
