@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knowledgeweighsnothing.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130190244id_/http%3A//knowledgeweighsnothing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowledgeweighsnothing.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131000107id_/https%3A//knowledgeweighsnothing.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy/Disclosure
 
@@ -26,6 +26,8 @@ Other cookies may be stored to your computers hard drive by external vendors whe
 ## Contact & Communication
 
 Users contacting this website and/or it’s owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
+
+[](http://richpws.surviveedt.hop.clickbank.net/?tid=ABC)
 
 This website and it’s owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if your express permission was granted when submitting any form to email process.  
 Your details are not passed on to any third parties.
