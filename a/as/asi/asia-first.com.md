@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asia-first.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506050206id_/https%3A//www.asia-first.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asia-first.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130231044id_/https%3A//www.asia-first.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Asia First
 
