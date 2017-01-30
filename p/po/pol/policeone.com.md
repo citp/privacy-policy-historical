@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the policeone.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230436id_/http%3A//www.policeone.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the policeone.com privacy policy that was archived on 2017-01-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170130072154id_/https%3A//www.policeone.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
