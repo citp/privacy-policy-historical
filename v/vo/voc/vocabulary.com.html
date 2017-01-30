@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vocabulary.com privacy policy that was archived on 2016-11-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161108192803id_/https%3A//www.vocabulary.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vocabulary.com privacy policy that was archived on 2017-01-30.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170130134910id_/https%3A//www.vocabulary.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:vcom="" xmlns:fb=""><head>	
 	<title>Privacy Policy : Vocabulary.com</title>
@@ -16,7 +16,7 @@
 	
 	<link href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" rel="stylesheet" type="text/css">
 	<link href="//cdn.vocab.com/css/3/header-s3n52z.css" rel="stylesheet" type="text/css">
-	<link href="//cdn.vocab.com/css/3/main-s7x38o.css" rel="stylesheet" type="text/css">
+	<link href="//cdn.vocab.com/css/3/main-1ffmcon.css" rel="stylesheet" type="text/css">
 	<link href="//cdn.vocab.com/css/3/grids-1440hlx.css" rel="stylesheet" type="text/css">
 	
 	<link href="//cdn.vocab.com/css/progress-zjqx3f.css" rel="stylesheet" type="text/css">
@@ -28,51 +28,104 @@
 	<link href="//cdn.vocab.com/css/fonts/ss-symbolicons-block-1u3l0c5.css" rel="stylesheet" type="text/css">
 	<link href="//cdn.vocab.com/css/fonts/ss-standard-1nx9nw2.css" rel="stylesheet" type="text/css">	
 		
+	<style>
+	.policy-body h4 {
+		font-weight: normal;
+	}
+
+	.policy-body {
+		font-size: 15px;
+	}
+
+	.policy-body li {
+		margin-top: .25em;
+		margin-bottom: .25em; 
+	}
+
+	.policy-body table {
+		border-collapse: collapse;
+		font-size: 90%;
+		margin: 1em auto;
+	}
+	.policy-body table caption {
+		caption-side: top;
+		margin-bottom: 1em;
+		font-style: italic;
+	}
+
+	.policy-body table th {
+		padding: .25em 10px .25em 0;
+		border-bottom: 1px solid #ccc;
+	}
+	.policy-body table td {
+		padding: .25em 10px .25em 0;
+		border-bottom: 1px solid #eee;
+	}
+
+	.policy-body a.footnote {
+		vertical-align: super;
+		font-size: 75%;
+	}
 	
+	.policy-body h2, .policy-body h3 {
+		margin-top: 2em;
+		margin-bottom: .5em;
+	}
+
+	.policy-body h2 + p, .policy-body h3 + p {
+		margin-top: 0;
+	}
+	
+	.policy-body {
+		padding-bottom: 50px;
+	}
+	.policy-body .footnotes {
+	    margin: 1em auto;
+	    max-width: 720px;
+	    font-size: 11px;
+	    display: block;
+	}
+	.policy-body .footnotes > div {
+		margin-bottom: .5em;
+	} 
+</style>
 		
 	
-	<script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script>var loginData = {"validUser":false,"auth":{"loggedin":false},"perms":{},"points":0,"level":{"id":"L01","name":"Novice"}};</script>	
 	
 
-<script src="//cdn.vocab.com/js/module-esekdz.js" type="text/javascript"></script>
+<script src="//cdn.vocab.com/js/module-1qdrfvs.js" type="text/javascript"></script>
 	
 	<script>
 	(function(){
-		var deps=['vcom/usermenu', 'vcom/maintabs',  ]
+		window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+		ga('create', 'UA-154986-6', 'auto');
+		
+		var deps=['vcom/usermenu', 'vcom/maintabs'  ]
 		try { window.localStorage.setItem('x','1'); window.localStorage.removeItem('x'); } catch (e) {
 			deps.unshift('localstorage');
 		}		
-		Module.use(deps,{});
+		Module.after(deps,function(){
+			VCOM.authCache.get().then(function(auth){
+				if (auth.validUser) {
+					ga('set','dimension1',auth.paid?'paid':'free');
+					ga('set','dimension2',auth.ima||'other');
+					var role = (auth.auth && auth.auth.role) ? auth.auth.role.toLowerCase() : "";
+					if (role=='bill' && auth.plan) role = auth.plan;
+					if (role) ga('set','dimension3',role);
+					if (auth.classes && !auth.classes.empty)  ga('set','dimension4','inclass');
+				} else {
+					ga('set','dimension1','anon');					
+				}
+				ga('send', 'pageview');
+			});
+		});
 	})();
 	</script>
-	
-	<script>
-window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
-ga('create', 'UA-154986-6', 'auto');
-ga('set','dimension1','anon');
-ga('send', 'pageview');
-</script>
-	
-<script async="" src="https://www.google-analytics.com/analytics.js"></script>
 
 		
+	<script async="" src="https://www.google-analytics.com/analytics.js"></script>
 	
-	
-	<script type="text/javascript">
-	var googletag = googletag || {};
-	googletag.cmd = googletag.cmd || [];
-	(function() {
-	var gads = document.createElement('script');
-	gads.async = true;
-	gads.type = 'text/javascript';
-	var useSSL = 'https:' == document.location.protocol;
-	gads.src = (useSSL ? 'https:' : 'http:') +
-	'//www.googletagservices.com/tag/js/gpt.js';
-	var node = document.getElementsByTagName('script')[0];
-	node.parentNode.insertBefore(gads, node);
-	})();
-	</script>
-	<script>Module.use('vcom/adslots',{});</script>
+		
 	
 	
 	<script type="text/javascript">	
@@ -82,11 +135,11 @@ ga('send', 'pageview');
 	</script>
 	
 </head>
-<body class=" top-section-privacy  loggedout">
+<body class=" top-section-privacy ">
 <div class="body-wrapper">
 <header class="page-header noselect" role="banner"><div class="limited-width"><nav class="main">
 		<a href="/" title="Vocabulary.com" class="logo"><img src="//cdn.vocab.com/images/header/logo-1wobq9i.png" alt="Vocabulary.com" class="screen-only"><img src="//cdn.vocab.com/images/logo-sar2cf.svg" class="print-only"></a>
-		<div class="logininfo"><a role="button" class="signin" href="/login">Sign In</a><a role="button" class="signup" href="/signup">Sign Up</a></div><button role="button" aria-pressed="false" aria-label="navigation menu" class="hamburger menu"><span class="rows"></span></button></nav><nav class="tabs"><ul><li title="Play Vocabulary.com" class="playTab"><a href="/play/"><span>PLAY</span></a></li><li title="Look up a word" class="dictTab empty"><a href="/dictionary/"><span>LOOK UP</span></a><div class="wrapper"><input id="search" type="text" autofocus="" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off"><i role="button" class="ss-delete"></i></div></li><li title="Find a Vocabulary List" class="listsTab"><a href="/lists/"><span>LISTS</span></a></li></ul></nav></div></header>
+		<div class="logininfo"></div><button role="button" aria-pressed="false" aria-label="navigation menu" class="hamburger menu"><span class="rows"></span></button></nav><nav class="tabs"><ul><li title="Play Vocabulary.com" class="playTab"><a href="/play/"><span>PLAY</span></a></li><li title="Look up a word" class="dictTab empty"><a href="/dictionary/"><span>LOOK UP</span></a><div class="wrapper"><input id="search" type="text" autofocus="" spellcheck="false" autocapitalize="off" autocomplete="off" autocorrect="off"><i role="button" class="ss-delete"></i></div></li><li title="Find a Vocabulary List" class="listsTab"><a href="/lists/"><span>LISTS</span></a></li></ul></nav></div></header>
 <div class="fixed-tray"></div>
 
 
@@ -97,256 +150,315 @@ ga('send', 'pageview');
 <ul>
 <li><a href="/terms/">Legal</a></li>
 <li><a href="/terms/">Terms of Use</a></li>
-	<li class="selected"><a href="/privacy/">Privacy Policy</a></li>
-	
+<li class="selected"><a href="/privacy/">Privacy Policy</a></li>	
 </ul>
 </nav>
+<div class="limited-width policy-body">
 
-<div class="limited-width">
+<h1>Privacy Policy</h1>
+        <p>This privacy policy explains how Vocabulary.com 
+     	("Vocabulary.com", "We", or "Us") collects and uses personal information that you ("you" or "your") 
+     	  provide on the Vocabulary.com website and on the Vocabulary.com App (collectively "Vocabulary.com"). 
+     	  This privacy policy was last updated on January 24th, 2016.</p>
 
-	<h1>Privacy Policy</h1>
-	<p>This
-privacy policy explains how Thinkmap, Inc. ("Thinkmap",
-"We", or "Us") collects and uses personal information that
-you ("you" or "your") provide on Vocabulary.com and on the
-Vocabulary.com App (collectively "Vocabulary.com"). This privacy
-policy was last updated on 2/6/2014.</p>
 
-<h2>Collecting of Personal Information</h2>
+        <h2>Guiding Principles</h2>
+        <p>Our privacy policy is guided by the following principles:</p>
+        <ol>
+            <li>We’re committed to creating a safe and secure online environment for you.</li>
+            <li>We do not sell your personal information to third parties.</li>
+            <li>We collect very little personally identifiable information about you, and what we do collect we store securely. </li>
+            <li>We believe that ultimately, you own your data, and that, whenever possible, you get to decide whether to take it with you, even if your account was provided by someone else, such as your school. </li>
+            <li>We believe that improving your vocabulary is a worthwhile lifelong pursuit. Therefore, unless you tell us otherwise, we will keep your learning history so that we can continue to personalize your experience over time. </li>
+        </ol>
 
-<p>In
-order to take advantage of certain features of Vocabulary.com, you must
-register. When you register for Vocabulary.com, we require that you provide
-your name, email address, and your date of birth. We also may collect
-information about the school you attend as well as other information that might
-appear on your user profile.</p>
+        <h2>How we collect data</h2>
+        <p>Vocabulary.com collects the following information about you and your use of Vocabulary.com:</p>
 
-<h3>User Profiles</h3>
+        <h3>Personal Information</h3>
+        <p>When you register for Vocabulary.com, you provide to us personal information  (such as your full name, email address, grade level and school affiliation) that could be used to identify you. For the purposes of this Privacy Policy, we call this “Personal Information”. Your Nickname is used to identify you on to other users on Vocabulary.com.  If you do not want to be identified, do not use any part of your real name as your nickname.</p>
+        <p>If you provide your school affiliation to Vocabulary.com, or if you elect to join a Class created by an Educator, we may share some of your personal information (including your learning history), with the creator of the Class, other members of that Class, or with Administrators at your school or school district.  If you do not wish to share this information, do not join a class or do not provide your school affiliation.</p>
 
-<p>Users
-have a public profile page that is linked from their name when it appears on Vocabulary.com.
-These pages present information that you provide such as a nickname or favorite
-word. The profile page may show information about your use of Vocabulary.com such
-as achievements earned, lists created, or your level.</p>
+        
+        <p>The table below outlines what information about you is visible to others on Vocabulary.com:</p>
+        
+        <table>
+        	<caption>Who can see your Personal Information on Vocabulary.com</caption>
+            <thead>
+                <tr>
+                    <th>Personal Information</th>
+                    <th>Your Teachers <a class="footnote" href="#ftnt1">1</a></th>
+                    <th>School Admins</th>
+                    <th>Admins</th>
+                    <th>Your Classmates <a class="footnote" href="#ftnt2">2</a></th>
+                    <th>Other Users / Public</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>Nickname</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                 </tr>
+                <tr>
+                    <td>First &amp; Last Name</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>No</td>
+                 </tr>
+                <tr>
+                    <td>Email Address</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>No</td>
+                    <td>No</td>
+                </tr>
+                <tr>
+                    <td>School Affiliation</td>
+                     <td>Yes</td>
+                     <td>Yes</td>
+                     <td>Yes</td>
+                     <td>Yes</td>
+                    <td>Educators Only <a href="#ftnt3" class="footnote">3</a></td>
+                </tr>
+                <tr>
+                    <td>Grade Level</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                    <td>Yes</td>
+                     <td>No</td>
+                     <td>No</td>
+                </tr>
+                <tr>
+                    <td>Points &amp; Achievements</td>
+                     <td>Yes</td>
+                     <td>Yes</td>
+                    <td>Yes</td>
+                     <td>Yes</td>
+                     <td>Yes</td>
+                </tr>
+                <tr>
+                    <td>Learning History</td>
+                     <td>Yes</td>
+                     <td>Yes</td>
+                    <td>Yes</td>
+                    <td>No</td>
+                     <td>No</td>
+                </tr>
+            </tbody>
+        </table>
+        
+        <div class="footnotes">
+        	<div id="ftnt1"><sup>1</sup> Only Teachers of classes that you join will have access to the information indicated in the chart.</div>
+        	<div id="ftnt2"><sup>2</sup> Only other members of classes that you join will have access to the information indicated in the chart.</div>
+        	<div id="ftnt3"><sup>3</sup> If you identify yourself as an educator and provide your school affiliation, we may make that information public.  
+        	      If you identify yourself as a student, we will never make your school affiliation public.</div>
+        </div>
+        
+        <h3>Information from Third Party Authentication Providers like Facebook or Google</h3>
+        <p>If you decide to register through or otherwise grant access to a third-party authentication provider (“Authentication Provider”), such as Facebook Connect or Google, 
+        Vocabulary.com may also collect Personal Information that is already associated with your Authentication Provider account. You may also have the option of sharing additional 
+        information with Vocabulary.com through an Authentication Provider. If you choose to provide such information, during registration or otherwise, you are giving 
+        Vocabulary.com the permission to use, share, and store it in a manner consistent with this Privacy Policy.</p>
+        
+        <h3>Information Provided by Your School or District</h3>
+        <p>We may collect information about you from your school or district. This may include Personal Information, such as your full name, grade, and email address.</p>
+       
+        <h3>Information about Your Use of Vocabulary.com</h3>
+        <p>We collect usage information about certain features of Vocabulary.com, such as the questions you’ve answered, the words mastered, and the amount of time you’ve spent on Vocabulary.com. </p>
+        
+        <h3>Location information</h3>
+        <p>We may collect and use information about your location (such as your country) to provide you with a better experience on Vocabulary.com, but we don’t collect the precise location of you or your device. </p>
+        
+        <h3>Information you Provide as Part of Your User Profile</h3>
+        <p>Users have a public profile page on Vocabulary.com. This page presents information that you provide such as your nickname, your state, or your favorite word. The profile page may also show information about your use of Vocabulary.com such as achievements earned, lists created, or your level, as well as any comments that you’ve made on the Vocabulary.com. Child Users have a more limited number of options for their profile page. We ask that you or your child do not provide any personally identifiable information as part of the child’s profile. In particular, choose a nickname that is not identifiable as the child’s real name.</p>
+        <p>
+            You can change information that appears on your public profile page from the <a href="/account/">My Account page</a>
+            . You can also view what information is public from clicking on the “View My Public Profile” link on the My Account Page.
+        </p>
 
-<h3>User Content</h3>
+        <h3>Information You Provide while Using Vocabulary.com</h3>
+        <p>Users of Vocabulary.com can create various types of content ("User Content") that may be displayed publicly on Vocabulary.com. User Content includes information such as vocabulary lists, comments, and other types of material that is shared with the community.</p>
+        <p>Any User Content, along with your nickname or username and any image or photo, become public and may be used by us. Your public activities may also be read and collected by other users of the public activity areas on Vocabulary.com. We are not responsible for the personally identifiable information you provide in these forums.</p>
 
-<p>Users
-of Vocabulary.com can create various types of content ("User
-Content") that may be displayed publicly on Vocabulary.com. User Content
-includes information such as vocabulary lists, comments, and other types of
-material that is shared with the community.</p>
+        <h3>Information Necessary to Fulfill Orders</h3>
+        <p>
+            If you purchase a product or service from us, we request certain Personal Information from you on our order form. You must provide contact information (such as name and email) and financial information (such as billing address, credit card number, expiration date). This information is used solely for billing purposes by our PCI-certified payment provider, Stripe.Your credit card information is encrypted and transmitted to Stripe securely via HTTPS. 
+            You can learn more about Stripe's security practices <a href="https://stripe.com/help/security">here</a>.
+        </p>
+        <p>Your credit card details are never stored on Vocabulary.com systems, and no one at Vocabulary.com can access them. A few privileged members of the Vocabulary.com team have access to the last 4 digits of your credit card and its expiration date in order to validate your identity in the case that you need to contact us regarding your payment details.</p>
 
-<h3>Children</h3>
 
-<p>Children
-under 13 are provided a limited feature set. All children who sign up must
-provide a parent's email address. The parent is then notified that the child has
-signed up to use Vocabulary.com. We ask that children chose a username that is
-not their real name. Children are restricted from certain parts of Vocabulary.com.
-For example, children do not have public profiles, and they cannot comment on
-articles or word lists. In addition, we do not collect children's email
-addresses, so all email communication from Vocabulary.com will be sent to the
-parent's email address.</p>
+        <h2>What we will <strong>NOT</strong> do with your Personal Information</h2>
+        <p>Vocabulary.com will <strong>NOT</strong> sell Personal Information provided by you or by your School or District (except in connection of a merger or acquisition).</p>
+        <p>Vocabulary.com will <strong>NOT</strong> use Personal Information provided by you or by your School or District:</p>
 
-<p>If
-you are a parent, and you agree to let your child use Vocabulary.com, you agree
-and acknowledge that you permit your child to use Vocabulary.com and all
-features made available on Vocabulary.com as fully contemplated by us. As a
-parent, you understand that any personally identifiable information that your
-child provides in connection with registration or otherwise may be used by us
-as provided in this Privacy Policy. Except where the context indicates
-otherwise, the remainder of this Privacy Policy (including any discussion of
-the personally identifiable information that we may collect, use or disclose) shall
-apply equally to a child account and an account for someone over 13.</p>
+        <ul style="margin-top: 0;">
+            <li>To engage in targeted advertising</li>
+            <li>To build a profile about students other than for enhancing their experience on Vocabulary.com.</li>
+        </ul>
+        
+        
+        
+        <h2>How we use Data</h2>
+        <p>Vocabulary.com uses collected Personal Information in the following ways:</p>
+        
+        <h3>To Enhance Your Experience on Vocabulary.com</h3>
+        <p>Vocabulary.com uses the information you provide or that we collect to enhance our relationship with you and to operate, maintain, enhance, and provide all of the features and services found on Vocabulary.com. Vocabulary.com, for instance, stores your responses to the questions you’ve answered and the words you’ve had trouble with so we can provide you with the right question at the right time to improve your vocabulary.  We may use your Personal Information to provide you with information about Vocabulary.com’s features, services and other offerings that may be of interest to you. Under certain circumstances and if we obtain your consent (for example, if you submit a testimonial and agree to make it public), we may post your Personal Information on Vocabulary.com.</p>
+        
+        <h3>To Understand How You and Others Use Vocabulary.com</h3>
+        <p>Vocabulary.com uses all of the information that you provide or that we collect from other users to understand and analyze the usage trends, learning behaviors, and preferences of our users, to improve the way Vocabulary.com work and look, and to create new features and functionality. For more information, please see the “Technologies” section, below.</p>
+        
+        
+        <h2>When We Share Data</h2>
+        <p>Vocabulary.com will disclose User Information only as described below:</p>
+        
+        <h3>If you want information shared with other users, we’ll share it for you. </h3>
+        <p>Vocabulary.com has a number of features that allow you to share information with other Users or the public at large. For example, you can create a profile, where you list your name, your location, and a short bio. Or you may create and name a word list. . Whenever you share information with other Users of our Vocabulary.com, any Personal Information that you choose to include in, or is associated with, such User Postings will be accessible by such Users. As with most online services, once you make your Personal Information available to others in any of these ways, it may be collected and used by the recipients without restriction.</p>
+        
+        <h3>We share your achievements.</h3>
+        <p>We will share certain achievements through our leaderboards and your personal profile. When interacting with Vocabulary.com, you will receive points, achieve particular levels, earn badges for various achievements, and master words (“Achievments”). In certain cases, we will make these Achievements public accompanied by your nickname in a leaderboard, on your Profile page, or elsewhere on Vocabulary.com. Achievements each have leaderboards, and when you earn one, your nickname may appear on that leaderboard, and if you have a profile, your nickname will link back to that profile. In certain cases, leaderboards may be in the form of a map. In this case, your nickname and your Achievement will be associated with a location determined based on your IP address, or information that you or your school has provided us.</p>
+        
+        <h3>We will share data when required by law.</h3>
+        <p>
+            We may access, preserve and disclose account information and User Content if required to do so by law or in a good faith belief that such access preservation or disclosure is reasonably necessary to: (i) comply with legal process; (ii) enforce our 
+            <a href="/terms/">Terms of Use</a>
+            ; (iii) respond to claims that any User Content violates the rights of third parties; (iv) provide support relating to Vocabulary.com; or (v) protect the rights, property or personal safety of the company, its users and the public.
+        </p>
+        
+        <h3>We share data with educators if you join a class.</h3>
+        <p>We also may disclose Personal Information to an educator, and to authorized personnel from the school or district that the educator belongs to, if you join a class owned by that educator. In this case, we may provide your full name and your performance on particular activities on Vocabulary.com, so that the educator can better help you with your vocabulary learning.</p>
+        
+        <h3>We share data with schools and districts if you associate yourself with the school.</h3>
+        <p>If you register as an educator and choose a school, we may share your Personal Information with administrators from the chosen school and the district. We may also list your name, and various collective achievements of your students, in reports provided to the school or district. We also may provide the school or district with individual information about your students’ performance, and also Personal Information such as the students first and last name.</p>
+        
+        <h3>We may share data in the context of a change in business, including a merger or acquisition.</h3>
+        <p>We transfer information about you if we are acquired by or merged with another company. In this event, we will notify you of any such change in ownership or control of your information.</p>
+        
+        
+        <h2>Social Media Widgets</h2>
+        <p>Vocabulary.com includes Social Media Features and widgets, such as the "Share This" button. These Features may collect your IP address, which page you are visiting on Vocabulary.com, and may set a cookie to enable the Feature to function properly. Social Media Features and widgets are either hosted by a third party or hosted directly on Vocabulary.com. Your interactions with these Features are governed by the privacy policy of the company providing them.</p>
+        
+        
+        <h2>Advertising on Vocabulary.com</h2>
+        <p>
+            We use third-party advertising companies to serve ads when you visit Vocabulary.com. These companies may use information (not including your name, email address, 
+            school or any information provided directly to Vocabulary.com) about your visits to this and other websites or apps in order to provide advertisements about goods 
+            and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these 
+            companies, <a href="http://www.networkadvertising.org/choices/">click here</a>.
+        </p>
+        <p>
+            We use <a href="http://www.google.com/privacy/ads/privacy-policy.html">Google's DoubleClick cookie</a>
+            to serve ads. You may choose to <a href="http://googleads.g.doubleclick.net/ads/preferences">opt out of the DoubleClick cookie</a>
+            at any time. Vocabulary.com does not provide any personally-identifying information to advertisers.
+        </p>
+        
+        <h3>Advertising is not shown to Users Properly Associated with School or District Accounts</h3>
+        <p>If you join a class owned by a teacher who is part of a paid school or district account, or you use a registered authentication provider that is linked to a paid school or district account, we will not serve ads to you on Vocabulary.com.</p>
+        
+        
+        <h2>Data Security</h2>
+        <p>Data security is important to us.</p>
+        
+        <h3>We try to ensure that Vocabulary.com and the information sent to us are safe, but no security measures are perfect.</h3>
+        <p>Vocabulary.com uses certain physical, managerial, and technical safeguards designed to preserve the integrity and security of your Personal Information and other information we maintain in connection with Vocabulary.com. We cannot, however, ensure or warrant the security of any or all of the information you transmit to us, and you do so at your own risk. Once we receive your transmission of information, we makes commercially reasonable efforts to ensure the security of our systems. We encrypt the transmission of all data using secure socket layer technology (SSL) or similar technologies. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards.</p>
+        
+        
+        <h2>We will notify you electronically or via the website if Vocabulary.com experiences a data security incident that could affect you.</h2>
+        <p>If we learn of a data security incident that compromises or appears to compromise your Personal Information, then we will attempt to notify you electronically so that you can take appropriate protective steps. If you are a paid School or District customer, we will notify you electronically of any data security incident that affects your students. We may also post a notice on Vocabulary.com if a data security incident occurs.</p>
+        
+        
+        <h2>Data Retention</h2>
+        <p>Unless we receive a deletion request from you or your parent or are contractually required to delete your account due to our business relationship with your school or district, we will retain your information for as long as your account is active or as is reasonably useful for operational or educational purposes.</p>
+        <p>
+            If you are a School or District that has a paid account with Vocabulary.com, and you’d like to request that we delete student information that you have provided us, 
+            please contact <a href="/help/contactus">our support team</a>.
+        </p>
+        <p>
+            If you have an account provided by a School or District, and would like to transfer the information to a personal account, please contact <a href="/help/contactus">our support team</a>.
+        </p>
+        
+        
+        <h2>Technical Information</h2>
+        <p>To provide a personalized learning and high-quality experience, we may use various technologies that automatically record certain technical information from your browser or device, including standard log files, web beacons, or pixel tags. This technical information may include your Internet Protocol (IP) address, device or browser type, Internet service provider (ISP), referring or exit pages, clickstream data, operating system, and the dates and times that you visit Vocabulary.com. We do this to better understand how you are using Vocabulary.com so we can improve functionality and the services we offer you.</p>
+        <p>Like most websites, whether or not you are a registered member, we may send one or more cookies – small text files containing a string of alphanumeric characters – to your computer. Cookies remember information about your activities on a website and enable us to provide you with a more personalized learning experience. Vocabulary.com may use both session cookies and persistent cookies. A session cookie disappears automatically after you close your browser. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to Vocabulary.com. You can, however, remove a persistent cookie at any time. Please review your web browser “Help” file to learn the proper way to modify your cookie settings. However, without cookies you will not have access to certain services and features on Vocabulary.com.</p>
+        <p>Vocabulary.com uses a variety of third-party service providers, such as Google Analytics to understand usage. We may allow third-party service providers to place and read their own cookies, web beacons, and similar technologies to collect information through Vocabulary.com. This information is collected directly and automatically by these third parties, and Vocabulary.com does not participate in these data transmissions. Vocabulary.com will, wherever feasible, contractually obligate our third-party service providers to abide by the terms of this Privacy Notice.</p>
+        <p>Vocabulary.com also uses Local Storage Objects (LSOs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on Vocabulary.com may use LSOs such as HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. Please consult your browser’s “Help” function to learn more.</p>
+        
+        
+        <h2>Children</h2>
+        
+        <h3>Vocabulary.com is committed to children’s privacy.</h3>
+        <p>
+            For this reason, we provide a limited feature set to Children under 13 (“Child Users”). We do not knowingly let children under 13 register directly to Vocabulary.com. If you are a parent who discovers that your child has registered to Vocabulary.com without your consent, please contact us at 
+            <a href="mailto:support@vocabulary.com" target="_blank">support@vocabulary.com</a>, and request that we delete the child’s personal information from our systems.
+        </p>
+        
+        <h3>How Child Users May Register and Use Vocabulary.com</h3>
+        <p>All Child Users who sign up must provide a parent's email address. The parent is then notified that the child has signed up to use Vocabulary.com. We ask that children chose a username that is not their real name. </p>
+        <p>Alternatively, a child can be registered to use Vocabulary.com through his or her school, or through an Authentication Provider that is supported by the child’s school, or by teachers, tutors and other similar adults who assist in the educational process who have taken steps to obtain parental consent. Parents always have the option to delete their Child User’s account.</p>
+        <p>If a school or district has provided this information, both parties agree to uphold their responsibilities under the Family Educational Rights and Privacy Act (“FERPA”), the Protection of Pupil Rights Amendment (“PPRA”), and the Children’s Online Privacy and Protection Act (“COPPA”). We provide the Services as an outsourced institutional function under FERPA 34 CFR Part 99.31(a)(1). The Children’s Online Privacy and Protection Act (“COPPA”) requires that online service providers obtain clear and verifiable parental consent before collecting personal information from children under 13. You represent and warrant that you have received consent from parents, or have the authority to provide consent on behalf of parents, for us to receive Personal Information related to children under 13. We recommend that all schools provide appropriate disclosures to students and parents regarding their use of service providers such as Vocabulary.com and that they provide a link to our Privacy Policy to parents and guardians.</p>
+        
+        <h3>Restrictions on Child Users</h3>
+        <p>Children are restricted from certain parts of Vocabulary.com. For example, children cannot comment on articles. In addition, we do not collect children's email addresses (unless they are provided by an Authentication Provider or by the child’s school), so all email communication from Vocabulary.com will be sent to the parent's email address.</p>
+        <p>Some other features of Vocabulary.com, however, may permit a Child User to enter free-form text through which the Child User could enter Personal information that would be visible to other Users. This may occur, for example, when a child names his or her word list, or enters his or her notes or sentence examples on a word list. If you are a parent, please advise your child about the risks of posting Personal Information on Vocabulary.com (or any other online service).</p>
+        <p>If you are a parent, and you agree to let your child use Vocabulary.com, you agree and acknowledge that you permit your child to use Vocabulary.com and all features made available on Vocabulary.com as fully contemplated by us. As a parent, you understand that any personally identifiable information that your child provides in connection with registration or otherwise may be used by us as provided in this Privacy Policy. Except where the context indicates otherwise, the remainder of this Privacy Policy (including any discussion of the personally identifiable information that we may collect, use or disclose) shall apply equally to a Child User account and an account for someone over 13.</p>
+        <p>If you are an educator and you add a student who is under 13 to your class, you acknowledge and agree that you are solely responsible for compliance with the Children's Online Privacy Protection Act of 1998, including, but not limited to, obtaining parental consent concerning collection of students' personal information used in connection with the provisioning and use of Vocabulary.com.</p>
+        
+        <h3>California Children’s Privacy Rights</h3>
+        <p>
+            If you are under the age of 18, or the parent of a User under the age of 18, residing in California, you are entitled to request removal of content or information you have posted on Vocabulary.com. If you would like to request removal of your or your child’s content or information, please email us at <a href="mailto:support@vocabulary.com" target="_blank">support@vocabulary.com</a>
+            for assistance. Please note that removal of your content or information does not ensure complete or comprehensive removal, as there may be deidentified or recoverable elements of your content or information on our servers in some form. Additionally, we will not remove content or information that we may be required to retain under applicable federal and state laws.
+        </p>
+        
+        
+        <h2>Communication from Vocabulary.com</h2>
+        
+        <h3>Customer Service</h3>
+        <p>Based upon Personal Information you provide us, we will send you a welcoming email to verify your email address and password.  We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email only.</p>
+        
+        <h3>Service-related Announcements</h3>
+        <p>We will send you strictly service-related announcements on rare occasions when it is necessary to do so.  For instance, if Vocabulary.com is temporarily suspended for maintenance, we might send you an email.</p>
+        <p>Generally, you may not opt-out of these communications, which are not promotional in nature.</p>
+        
+        <h3>Weekly Update Emails</h3>
+        <p>If you have registered for Vocabulary.com, we may send you a periodic email that includes a personalized vocabulary question, and information about new content on Vocabulary.com. If you have registered for Vocabulary.com and identified yourself as an educator, we may send you a personalized email that describes your students’ use of Vocabulary.com. You may opt out of these emails. (Please see "Choice and Opt-out")</p>
+        
+        <h3>Other Emails</h3>
+        <p>You may opt in to receive other emails, such as comment notifications or emails when new material comes out on the blog. You may opt out of these emails. (Please see "Choice and Opt-out")</p>
+        
+        <h3>Special Offers and Updates</h3>
+        <p>We will occasionally send you information on products, services, special deals, and promotions. You may opt out of these emails.  (Please see "Choice and Opt-out")</p>
+       
+       
+        <h2>Choice and Opt Out</h2>
+        <p>
+            We provide you the opportunity to ‘opt-out’ of having your Personal Information used for certain purposes, when we ask for this information.  For example, if you no longer wish to receive certain communications from us, 
+            you may opt-out of receiving them by either changing <a href="/account/emailprefs">the email preferences</a>
+            section of the <a href="/account/">My Account</a>
+            section, or through clicking on the provided link on any communication that we send.
+        </p>
+        <p>
+            If you would like to opt out or change the behavior of display advertising based on information collected by Google Analytics, follow this <a href="https://www.google.com/settings/ads">link</a>
+            to customize Google Display Network ads.
+        </p>
+        <p>
+            If you would like to opt out of Google Analytics, follow this <a href="https://tools.google.com/dlpage/gaoptout/">link</a>.
+        </p>
+        <h2>Changes to this Privacy Statement</h2>
+        <p>If we decide to change our privacy practices, we will modify this Privacy Policy so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.</p>
+        <p>We reserve the right to modify this Privacy Policy at any time, so please review it frequently.</p>
+        <h2>Contact Us</h2>
+        <p>
+            If you have any questions or suggestions regarding this Privacy Policy or our privacy practices in general, please contact us through <a href="/help/contactus">this form</a>.
+        </p>
 
-<h3>User-Generated Content and Public Activities</h3>
-
-<p>We
-offer opportunities for you to engage in public activities on Vocabulary.com,
-including submitting comments and creating word lists. Any information you
-disclose in your public activities, along with your nickname or username and
-any image or photo, becomes public and may be used by us. Your public
-activities may also be read and collected by other users of the public activity
-areas on Vocabulary.com. We are not responsible for the personally identifiable
-information you choose to submit in these forums.</p>
-
-<h3>Orders</h3>
-
-<p>If
-you purchase a product or service from us, we request certain personally
-identifiable information from you on our order form. You must provide contact
-information (such as name and email) and financial information (such as billing
-address, credit card number, expiration date). We use this information for
-billing purposes. &nbsp;If we have trouble processing an order, we may use this
-information to contact you.</p>
-
-<h2>Communication from Vocabulary.com</h2>
-
-<h3>Customer Service</h3>
-
-<p>Based
-upon the personally identifiable information you provide us, we will send you a
-welcoming email to verify your email address and password. &nbsp;We will also
-communicate with you in response to your inquiries, to provide the services you
-request, and to manage your account. We will communicate with you by email
-only.</p>
-
-<h3>Service-related Announcements</h3>
-
-<p>We
-will send you strictly service-related announcements on rare occasions when it is
-necessary to do so. &nbsp;For instance, if our service is temporarily suspended
-for maintenance, we might send you an email.</p>
-
-<p>Generally,
-you may not opt-out of these communications, which are not promotional in
-nature.</p>
-
-<h3>Question Emails</h3>
-
-<p>If
-you have registered for Vocabulary.com, we may send you a periodic email that
-includes&nbsp;a personalized vocabulary question, and information about new
-content on Vocabulary.com. You may opt out of these emails. (Please see
-"Choice and Opt-out")</p>
-
-<h3>Other Emails</h3>
-
-<p>You
-may opt in to receive other emails, such as comment notifications or emails
-when new material comes out on the blog. You may opt out of these emails.
-(Please see "Choice and Opt-out")</p>
-
-<h3>Special Offers and Updates</h3>
-
-<p>We
-will occasionally send you information on products, services, special deals,
-and promotions. You may opt out of these emails. &nbsp;(Please see "Choice
-and Opt-out")</p>
-
-<h2>How We Handle&nbsp;Personally Identifiable
-Information</h2>
-
-<p>We
-may disclose personally identifiable information to provide products or
-services you've requested when we have your permission, and we may access,
-preserve and disclose account information and User Content if required to do so
-by law or in a good faith belief that such access preservation or disclosure is
-reasonably necessary to: (i) comply with legal process; (ii) enforce our <a href="https://www.vocabulary.com/terms/">Terms
-of Use</a>; (iii) respond to
-claims that any User Content violates the rights of third parties; (iv) provide
-support relating to Vocabulary.com; or (v) protect the rights, property or
-personal safety of the company, its users and the public.</p>
-
-<p>We
-also may disclose personally identifiable information to an educator if you
-join a class owned by that educator. In this case, we may provide your name and
-your performance on particular activities on Vocabulary.com, so that the
-educator can better help you with your vocabulary learning.</p>
-
-<p>If
-you are an educator and you add a student who is under 13 to your class, you
-acknowledge and agree that you are solely responsible for compliance with the Children's
-Online Privacy Protection Act of 1998, including, but not limited to, obtaining
-parental consent concerning collection of students' personal information used
-in connection with the provisioning and use of Vocabulary.com.</p>
-
-<p>In
-addition, we transfer information about you if we are acquired by or merged
-with another company. In this event, we will notify you of any such change in
-ownership or control of your information.</p>
-
-<h2>Aggregated Statistics</h2>
-
-<p>To
-improve Vocabulary.com, we track usage by aggregating information on what pages
-consumers access or visit.</p>
-
-<h3>Cookies</h3>
-
-<p>Cookies
-are required to use Vocabulary.com. A cookie is a small amount of data, which
-often includes an anonymous unique identifier, that is sent to your browser
-from a website's server and stored on your computer's hard drive. We use
-cookies to record current session information, and to track the effectiveness
-of Vocabulary.com changes, marketing, and advertisements. We, and
-third-party vendors, including Google, may use first-party cookies and
-third-party cookies together to inform, optimize and serve ads based on
-someone’s past visits to Vocabulary.com.</p>
-
-<h2>Third Parties</h2>
-
-<p>We
-contract with other companies to provide services on our behalf, including
-credit-card and billing processing, e-mail distribution, and analytics.
-Analytics may include 3<sup>rd</sup> party audience data (such as age, gender,
-and interests) on both our website and any mobile applications.</p>
-
-<h3>Usage of collected information from tracking</h3>
-
-<p>We
-use collected information for the following general purposes: products and
-services provision, identification and authentication, services improvement,
-and research. We may use aggregated information (such as age, gender, and
-interests) to more effectively market Vocabulary.com to advertisers. We may use
-remarketing to advertise online. In this case, third-party vendors, including
-Google, may show our ads on sites across the Internet.</p>
-
-<h3>Registration via Third-Party Tools</h3>
-
-<p>You
-can sign up for an account on Vocabulary.com by using third-party login credentials,
-such as your Facebook account information. This single sign-on service allows
-you to associate your existing third-party profile with an account on Vocabulary.com.
-As part of this process, we may access certain information contained in your
-third-party profile, such as your name, your profile picture, and your email
-address.</p>
-
-<p>When
-you share or like (with or without adding your own comments) any Vocabulary.com
-articles or content to your Facebook profile, that action is governed by the
-<a href="https://www.facebook.com/about/privacy/">Facebook Privacy Policy</a>.
-We do not track or store a record of those comments or actions.</p>
-
-<h2>Choice and Opt Out</h2>
-
-<p>We
-provide you the opportunity to ‘opt-out’ of having your personally identifiable
-information used for certain purposes, when we ask for this information.
-&nbsp;For example, if you purchase a product/service but do not wish to receive
-any additional marketing material from us, you can indicate your preference on
-our order form.</p>
-
-<p>If
-you no longer wish to receive certain communications from us, you may opt-out
-of receiving them by either changing the email preferences section of the <a href="https://www.vocabulary.com/account/">My
-Account</a> section, or
-through clicking on the provided link on any communication that we send.</p>
-
-<p>If
-you would like to opt out or change the behavior of display advertising based
-on information collected by Google Analytics, follow this <a href="https://www.google.com/settings/ads">link</a> to customize Google Display Network ads.</p>
-
-<p>If
-you would like to opt out of Google Analytics, follow this <a href="https://tools.google.com/dlpage/gaoptout/">link</a>.</p>
-
-<h2>Changes in this Privacy Statement</h2>
-
-<p>If
-we decide to change our privacy policy, we will post those changes to this
-privacy statement so that you are aware of what information we collect, how we
-use it, and under what circumstances, if any, we disclose it.</p>
-
-<p>We
-reserve the right to modify this privacy statement at any time, so please
-review it frequently.</p>
-
-<h2>Contact Us</h2>
-
-<p>If
-you have any questions or suggestions regarding our privacy policy, please
-contact us through this <a href="https://www.vocabulary.com/help/contactus">form</a>.</p>
 </div>
 </div>
 </div>
@@ -539,15 +651,13 @@ contact us through this <a href="https://www.vocabulary.com/help/contactus">form
 			</li>
 			
 			<li class="nav-classes perms-create-class-only"><a href="/account/classes"><i class="ss-users"></i>My Classes</a></li>
-			
-			
+						
 			<li class="perms-school-reports-only"><a href="/account/schools"><i class="ss-school ss-symbolicons-block"></i>Schools &amp; Teachers</a></li>
 			
 			<li class="perms-user-admin-only"><a href="/account/users"><i class="ss-usergroup ss-symbolicons-block "></i>User Administration</a></li>
 			<li class="perms-auth-admin-only"><a href="/account/authentication"><i class="ss-key"></i>User Authentication</a></li>
 			<li>
-				<a href="/account/"><i class="ss-settings"></i>My Account</a>
-			
+				<a href="/account/"><i class="ss-settings"></i>My Account</a>			
 			</li>
 		</ul>
 	</div>
