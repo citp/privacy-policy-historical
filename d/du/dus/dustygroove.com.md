@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dustygroove.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118022402id_/https%3A//www.dustygroove.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dustygroove.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201001737id_/https%3A//www.dustygroove.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy -- Dusty Groove is Chicago's Online Record Store
 
