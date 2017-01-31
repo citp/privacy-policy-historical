@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the essayshark.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221010718id_/https%3A//essayshark.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the essayshark.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131093718id_/https%3A//essayshark.com/privacy-policy.html) for the most accurate reproduction.*
 
 # EssayShark Privacy Policy | Read the Details of our Policy on Customers' Personal Information
 
@@ -64,9 +64,9 @@ In the event that any of the privacy policy conditions are modified, correspondi
 
 A set of appropriate security measures is used to make sure you are protected against loss, misuse, or alteration of information we collect from you.
 
-### Links Disclaimer
+### Links disclaimer
 
-In order to introduce our customers to specific information, we may provide links to local, state, and federal government agencies, as well as some websites of other organizations. A link does not constitute an endorsement of the content, products, accuracy, services, opinions, viewpoint, policies, or accessibility of that website. Once you link to another website from this one, including any maintained by the State, you are subject to the terms and conditions of that website, including, but not limited to, its privacy policy.
+In order to introduce our customers to specific information, we may provide links to local, state, and federal government agencies, as well as some websites of other organizations. A link does not constitute an endorsement of the content, products, accuracy, services, opinions, viewpoints, policies, or accessibility of that website. Once you link to another website from this one, including any maintained by the State, you are subject to the terms and conditions of that website, including, but not limited to, its privacy policy.
 
 ### Disclosures Prohibited
 
@@ -74,10 +74,10 @@ Use of information acquired from employers or employees pursuant to this article
 
 ### Will Our Privacy Policy Change in the Future?
 
-Because we constantly work on updating and improving our website, our policies continue to evolve. As a result of this constant effort to enhance your experience, new technological advances are introduced from time to time, and we always make sure to update our Privacy Policy accordingly. So we advise you to keep track of the policy changes we introduce, by visiting this webpage from time to time, and by getting acquainted with the updates in our Privacy Policy. If we make any material changes, we will inform you about it on our website before the changes are implemented. 
+Because we constantly work on updating and improving our website, our policies continue to evolve. As a result of this constant effort to enhance your experience, new technological advances are introduced from time to time, and we always make sure to update our Privacy Policy accordingly. So, we advise you to keep track of the policy changes we introduce by visiting this webpage from time to time, and by getting acquainted with the updates in our Privacy Policy. If we make any material changes, we will inform you about it on our website before the changes are implemented. 
 
 ### Access to information
 
-You can ask to be provided with any personal information that EssayShark holds about you. You can also ask for any inaccuracies to be corrected to make sure the personal information we hold about you is always up-to-date and accurate. Such information requests are subject to a separate charge of $35. Upon such a request of yours, we provide you with access to all information we maintain about you, subject to the conditions of the Data Protection Act 1998. You may request this service by contacting our support team at any time.
+You can ask to be provided with any personal information that EssayShark holds about you. You can also ask for any inaccuracies to be corrected to make sure the personal information we hold about you is always up-to-date and accurate. Such information requests are subject to a separate charge of $35. Upon such a request of yours, we provide you with access to all information we maintain about you, subject to the conditions of the Data Protection Act 1998. You can request this service by contacting our support team at any time.
 
-Last updated: Oct 4, 2016.
+Last updated: Jan 17, 2017.
