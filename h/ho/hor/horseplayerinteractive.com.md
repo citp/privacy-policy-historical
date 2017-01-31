@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013153110id_/https%3A//www.hpibet.com/About/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the horseplayerinteractive.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131212738id_/https%3A//www.hpibet.com/About/Privacy) for the most accurate reproduction.*
 
 # HPIbet.com - Privacy
 
