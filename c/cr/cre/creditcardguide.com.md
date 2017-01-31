@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the creditcardguide.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122210836id_/http%3A//www.creditcardguide.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the creditcardguide.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131041217id_/http%3A//www.creditcardguide.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy - CreditCardGuide.com
 
