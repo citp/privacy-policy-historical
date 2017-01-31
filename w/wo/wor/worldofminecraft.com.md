@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldofminecraft.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201225807id_/http%3A//www.worldofminecraft.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldofminecraft.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131021539id_/http%3A//www.worldofminecraft.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | World of Minecraft
 
@@ -68,7 +68,7 @@ This online privacy policy applies only to information collected through our web
 
 ## Your Consent
 
-By using our site, you consent to our [online privacy policy](https://web.archive.org/web/20161201225807id_/http%3A//www.worldofminecraft.com/privacy).
+By using our site, you consent to our [online privacy policy](https://web.archive.org/web/20170131021539id_/http%3A//www.worldofminecraft.com/privacy).
 
 ## Changes to our Privacy Policy
 
