@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2014-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141111173853id_/http%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diabetesdaily.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131042146id_/https%3A//www.diabetesdaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-DiabetesDaily.com is committed to protecting your private information. Here are our policies in plain English.  
-  
-**Information we collect and how we use it**  
+Diabetes Daily must collect some private information in order to provide you with services. We are committed to collecting this information transparently and protecting that private information.
+
+Here are our policies in plain English.
+
+ **Information we collect and how we use it**  
 We offer a number of services that do not require you to register for an account or provide any personal information to us. In order to provide our full range of services, we may collect the following types of information:
 
   * Information you provide – When you sign up for a DiabetesDaily.com account or other DiabetesDaily.com service or promotion that requires registration, we ask you for personal information (such as your name, email address and an account password). We may combine the information you submit under your account with information from other DiabetesDaily.com services or third parties in order to provide you with a better experience and to improve the quality of our services. For certain services, we may give you the opportunity to opt out of combining such information.
@@ -18,27 +20,26 @@ We offer a number of services that do not require you to register for an account
 
 
 
- **Services Provided by Third Parties  
-**We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here.
+ **Third Party Cookies and Services  
+**We use third-party advertising companies to serve ads when you visit our website. These companies may use information ( **not** including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you.
 
-  * Google, as a third party vendor, uses cookies to serve ads on your site.
-  * Google’s use of the [DART cookie](http://www.doubleclick.com/privacy/faq.aspx) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html).
-  * We use Viglink javascript code which converts links to merchants into affiliate links if Viglink has an affiliate relationship with that merchant. We get paid a percentage of the commission that Viglink makes off of sales of products that we link to. Visit the Viglink FTC Disclosure Page or you can [opt out of Viglink](http://www.viglink.com/corp/ftc) for sites you visit.You may also want to visit Viglink’s Privacy Policy.
+  * Google, as a third party vendor, uses cookies to serve ads on your site. Google’s use of the [DART cookie](https://www.doubleclickbygoogle.com/) enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](https://www.google.com/policies/technologies/ads/).
 
 
+
+Finally, you can choose to disable or selectively turn off cookies or third-party cookies in your browser settings.
 
  **DiabetesDaily.com Account**  
 You may access some of our services by signing up for an account and providing us with some personal information (typically your name, email address and a password). This account information will be used to authenticate you when you access DiabetesDaily.com services and protect your account from unauthorized access by others.
 
-  * We may share personal information among our various services in order to customize content and enhance our services for you.
-  * We may share personal information among contracted parties in order to provide access to services that we provide on a licensed basis. These contracted parties may only use your personal data to provide the services we explicitly license.
+  * We may use your personal information to customize content and enhance our services for you.
+  * We may share personal information among contracted parties in order to provide access to services that we provide on a licensed basis. These contracted parties may only use your personal data to provide the services we explicitly license. **They will never own your information or be given permission to share it with other parties.**
   * No account information is shared with anyone other than DiabetesDaily.com except as specified in the Privacy Policy or with your consent.
 
 
 
  **Remove Your Account**  
-All information posted on this website is property of DiabetesDaily.com. Upon request, we can disable access to your account and remove all personal information associated with it. Please open a [support ticket](http://www.diabetesdaily.com/support/index.php?_m=tickets&_a=submit).
+All information posted on this website is property of DiabetesDaily.com. Upon request, we can disable access to your account and remove all personal information associated with it. Please email team@diabetesdaily.com with any requests.
 
  **Unsubscribe**  
 We have a link to unsubscribe from our email lists at the end of every email we send. Alternately, you can unsubscribe using the contact link in the top right corner of the page or sending a letter to the following address:
@@ -49,4 +50,4 @@ Bedford Heights, OH 44146
 
 If you have any questions or suggestions on how to improve, please contact us.
 
-Last Updated: April 27, 2011
+Last Updated: March 18, 2017
