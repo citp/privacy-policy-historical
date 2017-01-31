@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121121624id_/http%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mercatornet.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131150438id_/https%3A//www.mercatornet.com/info/privacy) for the most accurate reproduction.*
 
-# MercatorNet: promoting human dignity
+# privacy policy
 
 ###### _MercatorNet_ is committed to maintaining the privacy of personal information that you provide us when using our website. This privacy policy describes how we treat personal information received about you when you visit our site. 
 
