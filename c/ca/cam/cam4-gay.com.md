@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4-gay.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202113600id_/http%3A//www.cam4-gay.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4-gay.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131212120id_/http%3A//www.cam4-gay.com/privacy.html%3F) for the most accurate reproduction.*
 
 # CAM 4 GAY CAMS- Privacy Policy
 
