@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moot.it privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319010917id_/https%3A//muut.com/terms/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moot.it privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131084348id_/https%3A//muut.com/terms/privacy-policy.html) for the most accurate reproduction.*
 
 # Muut Privacy Policy
 
