@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthychildren.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119040045id_/https%3A//www.healthychildren.org/english/pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthychildren.org privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131153537id_/https%3A//www.healthychildren.org/english/pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - HealthyChildren.org
 
