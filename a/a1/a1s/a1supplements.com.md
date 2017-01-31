@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a1supplements.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113233941id_/https%3A//www.a1supplements.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a1supplements.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131073446id_/https%3A//www.a1supplements.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - A1supplements
 
