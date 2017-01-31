@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobilepaymentstoday.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125164101id_/http%3A//www.mobilepaymentstoday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobilepaymentstoday.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131065122id_/https%3A//www.mobilepaymentstoday.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Mobile Payments Today
 
