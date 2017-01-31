@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biolegend.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126010715id_/http%3A//www.biolegend.com/media_assets/PrivacyPolicy/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biolegend.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131214143id_/https%3A//www.biolegend.com/media_assets/PrivacyPolicy/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
