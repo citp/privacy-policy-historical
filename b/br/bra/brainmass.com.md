@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621202930id_/https%3A//brainmass.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainmass.com privacy policy that was archived on 2017-01-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170131053822id_/https%3A//brainmass.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BrainMass
 
