@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chrismartenson.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024022530id_/https%3A//www.peakprosperity.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chrismartenson.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201031024id_/http%3A//www.peakprosperity.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Peak Prosperity
 
