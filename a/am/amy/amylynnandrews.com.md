@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amylynnandrews.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110114026id_/https%3A//amylynnandrews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amylynnandrews.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201213945id_/https%3A//amylynnandrews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Amy Lynn Andrews
 
