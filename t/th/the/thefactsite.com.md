@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the thefactsite.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020034617id_/http%3A//www.thefactsite.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thefactsite.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201062158id_/https%3A//www.thefactsite.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Fact Site
 
-This Privacy Policy governs the manner in which The Fact Site collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.thefactsite.com](http://www.thefactsite.com/ "The Fact Site") website (“Site”). This privacy policy applies to the Site and all products and services offered by The Fact Site.
+This Privacy Policy governs the manner in which The Fact Site collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.thefactsite.com](https://www.thefactsite.com/ "The Fact Site") website (“Site”). This privacy policy applies to the Site and all products and services offered by The Fact Site.
 
 **Personal identification information**
 
