@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the betonline.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413180253id_/http%3A//www.betonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the betonline.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201100612id_/https%3A//www.betonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,4 +18,4 @@ All BetOnline employees are required to comply with the terms of this policy as 
 
 **3\. Consent to Privacy Policy**
 
-By opening an account with BetOnline, you agree to the terms of this Privacy Policy. We may occasionally update this Privacy Policy and encourage you to periodically review it. If we change our privacy policy we will post the changes on this page. Your continued use of the BetOnline services constitutes your agreement to this Privacy Policy and any updates. Our terms of service take precedence over any conflicting provision of this Privacy Policy - see our terms and conditions at [http://www.betonline.com/terms-conditions](https://web.archive.org/terms-conditions "Terms and Conditions").
+By opening an account with BetOnline, you agree to the terms of this Privacy Policy. We may occasionally update this Privacy Policy and encourage you to periodically review it. If we change our privacy policy we will post the changes on this page. Your continued use of the BetOnline services constitutes your agreement to this Privacy Policy and any updates. Our terms of service take precedence over any conflicting provision of this Privacy Policy - see our terms and conditions at [https://www.betonline.com/terms-conditions](https://web.archive.org/terms-conditions "Terms and Conditions").
