@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterprisemembers.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914231323id_/http%3A//www.enterprisemembers.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprisemembers.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201105118id_/http%3A//www.enterprisemembers.com/privacy-policy.html) for the most accurate reproduction.*
 
 # EnterpriseMembers.com - Digitasl product Resellers Membership Site
 
