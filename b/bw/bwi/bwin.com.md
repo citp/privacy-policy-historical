@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bwin.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011064355id_/https%3A//help.bwin.com/en/general-information/security/privacy-policy%23cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwin.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202001536id_/https%3A//help.bwin.com/en/general-information/security/privacy-policy%23cookies) for the most accurate reproduction.*
 
 # Help - General Information - Privacy Policy
 
