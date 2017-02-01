@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pursecase.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225233553id_/http%3A//pursecase.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pursecase.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201150656id_/https%3A//pursecase.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | pursecase
 
