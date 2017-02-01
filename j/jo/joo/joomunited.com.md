@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the joomunited.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324172800id_/https%3A//www.joomunited.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomunited.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201095137id_/https%3A//www.joomunited.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
-
-JoomUnited is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the joomunited.com Web site and governs data collection and usage. By using the JoomUnited website, you consent to the data practices described in this statement.
 
 ### Collection of your Personal Information
 
