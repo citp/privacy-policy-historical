@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponswift.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202115040id_/http%3A//www.couponswift.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponswift.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201013452id_/http%3A//www.couponswift.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
