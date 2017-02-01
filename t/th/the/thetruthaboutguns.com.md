@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetruthaboutguns.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128233655id_/https%3A//www.thetruthaboutguns.com/ttag-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetruthaboutguns.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201064606id_/https%3A//www.thetruthaboutguns.com/ttag-privacy-policy) for the most accurate reproduction.*
 
 # TTAG Privacy Policy - The Truth About Guns
 
