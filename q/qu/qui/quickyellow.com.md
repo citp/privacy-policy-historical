@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quickyellow.com privacy policy that was archived on 2016-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160319095008id_/http%3A//www.quickyellow.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickyellow.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201072301id_/http%3A//www.quickyellow.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | We Know Business | QuickYellow.com
 
