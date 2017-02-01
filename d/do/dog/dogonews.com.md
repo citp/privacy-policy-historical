@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018190517id_/http%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogonews.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201190519id_/https%3A//www.dogonews.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Kids Website Review
 
