@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825234337id_/https%3A//www.virusbulletin.com/about-vb/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virusbtn.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201050444id_/https%3A//www.virusbulletin.com/about-vb/privacy-policy) for the most accurate reproduction.*
 
 # Virus Bulletin :: Privacy Policy
 
@@ -62,7 +62,7 @@ Unfortunately, no data transmission over the Internet or any other network can b
 
 This is the website of Virus Bulletin Ltd, a company registered in England and Wales under company number 2388295 whose registered office is at The Pentagon, Abingdon Science Park, Abingdon, Oxon, OX14 3YP, United Kingdom and whose VAT registration number is 532 5598 33.
 
-If you want to request any information about your personal data or believe that we are holding incorrect personal data on you, please contact: [webmaster@virusbtn.com](mailto:webmaster@virusbtn.com). It is possible to obtain a copy of the information that we hold on you. A nominal charge of £10 is made to cover administrative costs involved.
+If you want to request any information about your personal data or believe that we are holding incorrect personal data on you, please contact: [webmaster@virusbulletin.com](mailto:webmaster@virusbulletin.com). It is possible to obtain a copy of the information that we hold on you. A nominal charge of £10 is made to cover administrative costs involved.
 
 ### Notification of changes
 
