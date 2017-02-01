@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the businessownersideacafe.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222194933id_/http%3A//www.businessownersideacafe.com/ideacafe/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessownersideacafe.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201220036id_/http%3A//www.businessownersideacafe.com/ideacafe/privacy_policy.php) for the most accurate reproduction.*
 
 # Business Owners' Idea Cafe - Our Privacy Policy
 
 **You're in Control. Here are Shortcuts for Your Use:**
 
 To change your email address:   
-[http://www.businessownersideacafe.com/ideacafe/change_email.html](https://web.archive.org/web/20161222194933id_/http%3A//www.businessownersideacafe.com/ideacafe/change_email.html)
+[http://www.businessownersideacafe.com/ideacafe/change_email.html](https://web.archive.org/web/20170201220036id_/http%3A//www.businessownersideacafe.com/ideacafe/change_email.html)
 
 To get off Idea Cafe's newsletter list:   
-[http://www.businessownersideacafe.com/ideacafe/remove_request.html](https://web.archive.org/web/20161222194933id_/http%3A//www.businessownersideacafe.com/ideacafe/remove_request.html)
+[http://www.businessownersideacafe.com/ideacafe/remove_request.html](https://web.archive.org/web/20170201220036id_/http%3A//www.businessownersideacafe.com/ideacafe/remove_request.html)
 
 Privacy Policy for Business Owners Idea Cafe
 
@@ -41,12 +41,12 @@ Idea Cafe has security measures in place to protect the loss, misuse and alterat
 **Correct/Update**
 
 This page gives users the following option for changing and modifying email address information previously provided:   
-[http://www.businessownersideacafe.com/ideacafe/change_email.html](https://web.archive.org/web/20161222194933id_/http%3A//www.businessownersideacafe.com/ideacafe/change_email.html)
+[http://www.businessownersideacafe.com/ideacafe/change_email.html](https://web.archive.org/web/20170201220036id_/http%3A//www.businessownersideacafe.com/ideacafe/change_email.html)
 
 **Choice/Opt-Out**
 
 This page gives visitors the following option for removing their information from our database, to no longer receive newsletters or letters from Idea Cafe, or to no longer receive member privileges at this site:   
-[http://www.businessownersideacafe.com/ideacafe/remove_request.html](https://web.archive.org/web/20161222194933id_/http%3A//www.businessownersideacafe.com/ideacafe/remove_request.html)
+[http://www.businessownersideacafe.com/ideacafe/remove_request.html](https://web.archive.org/web/20170201220036id_/http%3A//www.businessownersideacafe.com/ideacafe/remove_request.html)
 
 **Rights Reserved**
 
@@ -56,4 +56,4 @@ Idea Cafe Inc. reserves the right to make changes to company and site content, p
 
 If you have any questions about Idea Cafe's privacy statement, the practices of this site, or your dealings with Idea Cafe site, you can contact our Chef. 
 
-[Back to Registration Form](https://web.archive.org/web/20161222194933id_/http%3A//www.businessownersideacafe.com/ideacafe/register.php)  |  [Back to Idea Cafe Home](https://web.archive.org/Welcome.html)
+[Back to Registration Form](https://web.archive.org/web/20170201220036id_/http%3A//www.businessownersideacafe.com/ideacafe/register.php)  |  [Back to Idea Cafe Home](https://web.archive.org/Welcome.html)
