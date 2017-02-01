@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zen-cart.com privacy policy that was archived on 2014-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140602162507id_/https%3A//www.zen-cart.com/content.php%3F5-Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zen-cart.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201173305id_/https%3A//www.zen-cart.com/content.php%3F5-Privacy-Policy) for the most accurate reproduction.*
 
 # Zen Cart Support - Privacy Policy
 
@@ -75,4 +75,4 @@ You can access all your personally identifiable information that Zen Cart® coll
 
 ### How To Contact Us:
 
-Should you have other questions or concerns about these privacy policies, please contact us.[ **Contact: Zen Cart® Team**](http://www.zen-cart.com/sendmessage.php)
+Should you have other questions or concerns about these privacy policies, please contact us.[ **Contact: Zen Cart® Team**](https://www.zen-cart.com/sendmessage.php)
