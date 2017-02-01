@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wish.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114192652id_/https%3A//www.wish.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wish.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201030037id_/https%3A//www.wish.com/privacy_policy) for the most accurate reproduction.*
 
 # Wish | Privacy Policy
 
