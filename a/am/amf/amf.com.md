@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529132720id_/https%3A//www.amf.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amf.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202004031id_/https%3A//www.amf.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The AMF Bowling Co.
 
-Bowlmor AMF Corp, AMF Bowling Centers Inc. d/b/a Bowlmor AMF Centers, its affiliates and its properties ("Company" or "we," "our," or "us") respects the privacy of our users. This Privacy Policy will tell you how and what information we may receive about you, and how we may use your information when providing you our tools, products and services. Please read this Privacy Policy carefully. Please consult our **[Terms of Use Agreement](https://web.archive.org/web/20160529132720id_/https%3A//www.amf.com/terms "Terms")** for additional terms and conditions that apply to your use of and access to the Site.
+Bowlmor AMF Corp, AMF Bowling Centers Inc. d/b/a Bowlmor AMF Centers, its affiliates and its properties ("Company" or "we," "our," or "us") respects the privacy of our users. This Privacy Policy will tell you how and what information we may receive about you, and how we may use your information when providing you our tools, products and services. Please read this Privacy Policy carefully. Please consult our **[Terms of Use Agreement](https://web.archive.org/web/20170202004031id_/https%3A//www.amf.com/terms "Terms")** for additional terms and conditions that apply to your use of and access to the Site.
 
 ## 1\. How this Privacy Policy Applies
 
