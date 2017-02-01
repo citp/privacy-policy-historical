@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawpay.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506061206id_/https%3A//lawpay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawpay.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201093518id_/https%3A//lawpay.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LawPay
 
@@ -6,7 +6,7 @@ As part of AffiniPay’s long tradition of trust, the confidentiality of persona
 
 #### To what does this Online Privacy Statement apply?
 
-This Online Privacy Statement applies to the personal and business information that we collect from or about you via this [www.LawPay.com](https://web.archive.org/web/20160506061206id_/https://lawpay.com/) web site (this “Site”). This Site may contain links to other web sites, and this Online Privacy Statement does not apply to those sites. If you link to any of those sites, we recommend that you review their privacy policies. If we change our privacy policies or practices, we will also change this Online Privacy Statement. 
+This Online Privacy Statement applies to the personal and business information that we collect from or about you via this [www.LawPay.com](https://web.archive.org/web/20170201093518id_/https://lawpay.com/) web site (this “Site”). This Site may contain links to other web sites, and this Online Privacy Statement does not apply to those sites. If you link to any of those sites, we recommend that you review their privacy policies. If we change our privacy policies or practices, we will also change this Online Privacy Statement. 
 
 #### What personal and technical information do we collect via this Site?
 
