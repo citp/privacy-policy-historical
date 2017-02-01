@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the illuminateed.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805225548id_/https%3A//www.illuminateed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the illuminateed.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201155404id_/https%3A//www.illuminateed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Illuminate Education
 
