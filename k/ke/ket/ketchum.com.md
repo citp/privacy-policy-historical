@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ketchum.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013063825id_/https%3A//www.ketchum.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ketchum.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201182534id_/https%3A//www.ketchum.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ketchum
 
@@ -28,7 +28,7 @@ Other Web Sites: Our Site may contain links to other Web sites not maintained by
 
 Changes to policy; Opt-out Process: We reserve the right, at our discretion, to change, modify, add, or remove portions from this policy at any time. However, if at any time in the future we plan to use Personal Information in a way that differs from this policy, we will post such changes here and provide you the opportunity to opt-out of such differing uses. Your continued use of the Site following the posting of any changes to this policy means you accept such changes.
 
-If you receive an unwanted e-mail from us, you can simply reply and ask not to receive future e-mails. We also give you the option to remove your personal information from our list of active users completely. All unsubscribe or opt-out requests should be sent to us at editor [at] ketchum [dot] com and we will process your request within a reasonable time after receipt. We are not responsible for removing your personal information from the lists of any third party who has been provided your information in accordance with this policy, such as a business partner.
+If you receive an unwanted e-mail from us, you can simply reply and ask not to receive future e-mails. We also give you the option to remove your personal information from our list of active users completely. All unsubscribe or opt-out requests should be sent to us at editor@ketchum.com and we will process your request within a reasonable time after receipt. We are not responsible for removing your personal information from the lists of any third party who has been provided your information in accordance with this policy, such as a business partner.
 
 Communications with Ketchum: By providing your e-mail address to Ketchum, you expressly consent to receive e-mails from us. We may use e-mail to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us, provided that, we will not give your e-mail address to another party to promote their products or services directly to you.
 
@@ -38,7 +38,7 @@ Web Site Content: All pages and content within this Site, including but not limi
 
 EXCEPT AS EXPRESSLY PERMITTED HEREIN, YOU MAY NOT MODIFY, COPY, REPRODUCE, CREATE DERIVATIVE WORKS, REPUBLISH, DISPLAY, UPLOAD, POST, TRANSMIT, OR DISTRIBUTE IN ANY WAY CONTENT AVAILABLE ON THIS SITE WITHOUT THE PRIOR WRITTEN CONSENT OF KETCHUM.
 
-Contact: For questions or concerns relating to privacy, we can be contacted at editor [at] ketchum [dot] com.
+Contact: For questions or concerns relating to privacy, we can be contacted at [editor@ketchum.com](mailto:editor@ketchum.com).
 
 United States of America: Our Site is maintained in the United States of America. By using the Site, you authorize the export of Personal Information to the USA and its storage and use as specified in this policy.
 
