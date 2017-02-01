@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017192514id_/https%3A//www.bhf.org.uk/utilities/our-privacy-and-cookies-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bhf.org.uk privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201212818id_/https%3A//www.bhf.org.uk/utilities/our-privacy-and-cookies-policy) for the most accurate reproduction.*
 
 # Our privacy and cookies policy
 
@@ -215,12 +215,12 @@ _ga | The Google Analytics cookies are used to gather anonymous information abou
  SERVERID |  Usually used for load balancing. Identifies the server that delivered the last page to the browser. Associated with the HAProxy Load Balancer software. The main purpose of this cookie is: Strictly Necessary. |  Session  
  has_js |  Most commonly associated with the Drupal content management system. Drupal uses this cookie to indicate whether or not the visitors browser has JavaScript enabled. The main purpose of this cookie is: Functionality. |  Session  
   
-[Online shop](https://giftshop.bhf.org.uk/)
+[Online shop](https://web.archive.org/shop/shop-online)
 
 **  Name** | **  Purpose** | **  Lifetime**  
 ---|---|---  
  __cfduid |  used to override any security restrictions based on the IP address the visitor is coming from. It does not correspond to any userid in the web application, nor does the cookie store any personally identifiable information. Note: This cookie is strictly necessary for site security operations and can't be turned off. |  1 year  
- frontend |  Your sesssion ID on the server. |    
+ frontend |  Your session ID on the server. |    
   
 [BHF jobs](https://jobs.bhf.org.uk/)
 
@@ -269,6 +269,33 @@ machine 
 ASP.NET_SessionId |  These cookies are essential for the online payments section of our website and are deleted when you close your browser.  
 |  Session  
  x-mapping-fjhppofk |  This is a cookie that ties your session to one of our web servers. This helps us distribute visitors to different servers to keep the site fast even when lots of people visit at once. |  Session  
+  
+[BHF Christmas Appeal](https://christmas.bhf.org.uk/)
+
+**  Name** | **  Purpose** | **  Lifetime**  
+---|---|---  
+_ga   
+_gat   
+_utma   
+_utmt   
+_utmb   
+_utmc   
+_utmz   
+_utmv  | The Google Analytics cookies are used to gather anonymous information about how you use our site. We use this information to improve our site and make it easier to use.  |  2 years  
+10 minutes  
+2 years  
+10 minutes  
+30 minutes  
+Session  
+6 months  
+2 years  
+bhf_cause | This session cookie is used to store information about your activity on the site so that you can easily pick up where you left off next time you visit. |  Session  
+PHPSESSID   
+JSESSIONID   
+machine   
+ASP.NET_SessionId | These cookies are essential for the online payments section of our website and are deleted when you close your browser.  
+|  Session  
+ x-mapping-fjhppofk | This is a cookie that ties your session to one of our web servers. This helps us distribute visitors to different servers to keep the site fast even when lots of people visit at once. |  Session  
   
 The cookies that we use can be broken into four categories:
 
@@ -330,7 +357,7 @@ In addition, when we email you, we may place a tag (also known as ‘tracking pi
 
 ## Your ability to edit and delete your account information and preferences
 
-The accuracy of your information is important to us. You can edit your BHF account information, including your address and contact details at any time. If you would like to change your preferences or update the details we hold about you other than online, please contact our Customer Support Centre on 0300 330 3322 or [supporterservices@bhf.org.uk](https://web.archive.org/web/20161017192514id_/https%3A//www.bhf.org.uk/utilities/supporterservices@bhf.org.uk) or write to Customer Support Centre, British Heart Foundation, Lyndon Place, 2096 Coventry Road, Sheldon, Birmingham, B26 3YU.
+The accuracy of your information is important to us. You can edit your BHF account information, including your address and contact details at any time. If you would like to change your preferences or update the details we hold about you other than online, please contact our Customer Support Centre on 0300 330 3322 or send an email to supporterservices@bhf.org.uk or write to Customer Support Centre, British Heart Foundation, Lyndon Place, 2096 Coventry Road, Sheldon, Birmingham, B26 3YU.
 
 Under the Data Protection Act 1998 you have a right to request a copy of the personal information we hold about you and to have any inaccuracies corrected. We require you to prove your identity with two pieces of approved identification. Please address requests to the Data Protection Officer, Legal Team, British Heart Foundation, 180 Hampstead Road, London, NW1 7AW and we will respond within 40 days, of receipt of your written request and confirmed ID. Please provide as much information as possible about the nature of your contact with us to help us locate your records. We reserve the right to charge a fee of £10 for this process.
 
