@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403024207id_/https%3A//www.vidyard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vidyard.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201201741id_/https%3A//www.vidyard.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Vidyard
+# /privacy-policy/ - Vidyard
 
 ## Last Updated: July 18, 2014 
 
@@ -140,10 +140,10 @@ Email us: [Legal@vidyard.com](mailto:legal@vidyard.com)
 
 or:
 
-Buildscale Inc.   
-119 King St. West, Suite 400   
-Kitchener, ON, Canada   
-N2G 1A7 
+Buildscale Inc.  
+8 Queen St. N, Unit #1  
+Kitchener, ON, Canada  
+N2H 2G8 
 
 ## Google Remarketing Policy
 
