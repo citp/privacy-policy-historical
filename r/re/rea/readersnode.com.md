@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readersnode.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001091145id_/http%3A//readersnode.com/index.php/site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readersnode.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201205558id_/http%3A//readersnode.com/index.php/site/privacy) for the most accurate reproduction.*
 
 # ReadersNode
 
