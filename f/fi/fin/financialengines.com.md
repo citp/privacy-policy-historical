@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financialengines.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606165808id_/https%3A//corp.financialengines.com/corp/FEA_PrivacyPolicy_OA_20120927.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financialengines.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201100732id_/https%3A//legaldocs.fngn.us/Master/FEA_PrivacyPolicy_OA.pdf) for the most accurate reproduction.*
 
 # Financial Engines Privacy Policy
 
