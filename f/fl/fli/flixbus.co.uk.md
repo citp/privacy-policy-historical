@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flixbus.co.uk privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611191354id_/https%3A//www.flixbus.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flixbus.co.uk privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201035824id_/https%3A//www.flixbus.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy → FlixBus
 
@@ -67,7 +67,7 @@ Due to legally mandated data retention periods, personal data required for contr
 
 If you subscribe to our newsletter, your e-mail address is used to communicate with you and to send you, for example, service messages, system messages, emails confirming your registration, to transmit user account information, information about your tickets and itineraries or your travel profiles, until such time as you unsubscribe from the newsletter. In addition, we use your email address for our own advertising purposes. You can unsubscribe at any time.
 
-If we receive your email address in connection with a booking or trip and you have not opted out, we reserve the right to regularly send you offers for products similar to those you have previously purchased from us. You can opt out of this use of your email address at any time by emailing [uns](http://unsubscribe@flixbus.de/)[ubscribe@flixbus.de](http://unsubscribe@flixbus.de/) or by using the opt-out link in the advertising email, without incurring any costs beyond the cost of transmission according to the base rates.
+If we receive your email address in connection with a booking or trip and you have not opted out, we reserve the right to regularly send you offers for products similar to those you have previously purchased from us. You can opt out of this use of your email address at any time by emailing [unsubscribe@flixbus.com](mailto:unsubscribe@flixbus.com) or by using the opt-out link in the advertising email, without incurring any costs beyond the cost of transmission according to the base rates.
 
 ## Data Security
 
@@ -101,15 +101,22 @@ We employ the technologies of Webtrekk GmbH, Robert-Koch-Platz 4, 10115 Berlin, 
 
 You can opt out of data collection and storage by Webtrekk at any time with effect for the future. To do so, and for additional information about Webtrekk’s privacy policy, please visit the following link: <http://www.webtrekk.com/index/datenschutzerklaerung/opt-out.html>.
 
-#### 4\. Optimizely
+#### 4\. AdClear campaign tracking
 
-In addition, this website uses the Optimizely web analytics service by Optimizely Inc., which is used for A/B and multivariate testing. This service uses cookies to identify a visitor's browser and to analyse the use of this web site. The cookies do not collect personal data. More information about how Optimizely processes your data is available at <http://www.optimizely.com/privacy>[y.](http://www.optimizely.com/privacy.) You can deactivate Optimizely tracking at any time by following the instructions at <http://www.optimizely.com/opt_out>.
+We use the services of AdClear GmbH, Robert-Koch-Platz 4, 10115 Berlin ('AdClear') to collect statistical data for campaign tracking and thereby optimize our offer for our customers. We also use cookies for this purpose. The data is only collected in pseudonymized form. No personal data is sent to AdClear. AdClear GmbH is certified by TÜV Saarland for data protection in the field of campaign tracking systems.  
+If you object to the collection of your data by AdClear campaign tracking, a cookie with the name "adclearoptout" will be placed on your computer.  
+You have not objected to the collection of your data by AdClear.  
+[Object to the collection of your data by AdClear](http://www.adclear.de/service/adclear-opt-out/?advid=A3115206)
 
-#### 5\. Crazy Egg
+#### 5\. AB Tasty
+
+In addition, this web page uses the AB Tasty web analytics service by AB TASTY SAS, which is used for A/B and multivariate testing. This service uses cookies to identify a visitor's browser and to analyze the use of this web page. The cookies do not collect personal data. More information about how AB Tasty processes your data is available at <https://www.abtasty.com/uk/terms-of-use/>. On this website you can also find instructions on how to deactivate the tracking at any time.
+
+#### 6\. Crazy Egg
 
 In addition, this website uses Crazy Egg, a web analysis service by Crazy Egg, Inc. that specialises in web usability. This service is used to optimise our site as much as possible to serve our users’ needs. The service analyses how users interact with the website. Personal data are not stored under any circumstances by this service. You have the option to prevent Crazy Egg analysis by following the “opting out” instructions on the following page (<http://www.crazyegg.com/opt-out>).
 
-#### 6\. Hotjar
+#### 7\. Hotjar
 
 To improve the user experience on our web pages we use software by Hotjar ([http://www.hotjar.com](http://www.hotjar.com/), 3 Lyons Range, 20 Bisazza Street, Sliema SLM 1640, Malta, Europe). The software allows us to measure and analyse user behaviour (mouse movements, clicks, keyboard input, scroll depth, etc.) on our web pages. To do so, cookies are set on the user’s end device and user data, such as browser information, operating system, dwell time, etc., can be stored. More information on data processing by Hotjar is available at <https://www.hotjar.com/privacy>. You can opt out of Hotjar’s service at <https://www.hotjar.com/opt-out>.
 
