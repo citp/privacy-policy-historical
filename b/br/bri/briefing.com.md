@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2016-01-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160115104300id_/https%3A//www.briefing.com/corporate/privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the briefing.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201150343id_/https%3A//www.briefing.com/corporate/privacy-statement.htm) for the most accurate reproduction.*
 
 # Privacy
 
-[](https://privacy.truste.com/privacy-seal/Briefing-com/validation?rid=a13d2a83-f198-42e1-8647-b9390a03ed05 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=a13d2a83-f198-42e1-8647-b9390a03ed05)
 
-Effective on: 1/4/16
+Effective on: 12/1/16
 
-Briefing.com has been awarded TRUSTe's Privacy Seal signifying that this privacy statement and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your personal information. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program covers only information that is collected through this Web site, www.briefing.com and does not cover information that may be collected through our mobile site. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
   1. What personally identifiable information Briefing.com collects.
   2. What personally identifiable information third parties collect through the Web site.
@@ -61,9 +61,7 @@ We store information that we collect through log files, clear gifs, and/or third
 
  **Tracking Technologies**
 
-Technologies such as cookies, beacons, scripts and tags are used by Briefing.com and our partners, affiliates, or analytics or service providers [Act-On, Google Universal, SeeWhy]. These technologies are used in analyzing trends, administering the website, tracking users’ movements around the site, and gathering demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual and aggregated basis. Various browsers may offer their own management tools for removing these types of tracking technologies.
-
-We use cookies for our shopping cart, to remember users’ settings (e.g. username), and for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+We Briefing.com and our partners use technologies such as cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. Users can control the use of cookies at the individual browser level. 
 
 **Log Files**
 
@@ -83,7 +81,7 @@ If a user wishes to subscribe to our newsletters, they must opt-in to receive th
 
 **Service Announcements**
 
-We send out service-related emails when it is necessary to do so. For instance, if  we are experiencing technical difficulties or if we have implemented new enhancements to our users' service, we may send an e-mail notification. Generally, users may not opt-out of these communications which are not promotional in nature. If you do not wish to receive them, you have the option to de-activate your account. For more information, please see the Choice and Opt-out sections. 
+We send out service-related emails when it is necessary to do so. For instance, if we are experiencing technical difficulties or if we have implemented new enhancements to our users' service, we may send an e-mail notification. Generally, users may not opt-out of these communications which are not promotional in nature. If you do not wish to receive them, you have the option to de-activate your account. For more information, please see the Choice and Opt-out sections. 
 
 **Customer Service**
 
@@ -93,11 +91,11 @@ We also may contact users who have not checked out, not completed registration, 
 
 Sharing
 
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
+We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties. If you do not want us to share your personal information with these companies, [contact us here](https://www.briefing.com/corporate/contact-us.htm).
 
- **Legal Disclaimer**
+**Legal Disclaimer**
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
+In certain situations, Briefing.com may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site. 
 
 **Aggregate Information (non-personally identifiable)**
 
@@ -106,10 +104,6 @@ We share aggregated demographic information with our partners and advertisers. T
 **Third Party Advertisers**
 
 We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
-
-**These are the instances in which we will share users' personal information:**
-
-We share personal information with Investor's Business Daily. As part of a free trial to Briefing.com, new users are offered the opportunity to also take a free trial subscription to IBD. If a reader opts-in for this service, their name, mailing address and phone number are shared.
 
 **Third Party Intermediaries**
 
@@ -161,7 +155,7 @@ If users have any questions about the security at our Web site, users can send a
 
 Correcting/Updating/Deleting/Deactivating Personal Information
 
-If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support team at [service@briefing.com](mailto:service@briefing.com). Or users may contact us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
+Upon request Briefing.com will provide you with information about whether we hold any of your personal information. If a user's personally identifiable information changes (such as zip code, phone, e-mail or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users' personally identifiable information. This can be done by emailing our Customer Support team at [service@briefing.com](mailto:service@briefing.com). Or users may contact us by telephone or postal mail at the contact information listed below. We will respond to your request to access within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
