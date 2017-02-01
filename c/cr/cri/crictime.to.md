@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crictime.to privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042547id_/http%3A//www.crictime.to/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crictime.to privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201171209id_/http%3A//www.crictime.to/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - Crictime.Com
 
