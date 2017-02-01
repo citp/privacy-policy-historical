@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securekeyconcierge.com privacy policy that was archived on 2016-10-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161031051253id_/http%3A//securekeyconcierge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securekeyconcierge.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201095203id_/http%3A//securekeyconcierge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Notice - SecureKey Concierge
 
@@ -38,7 +38,7 @@ We may disclose End User Information (a) to any governmental authority as part o
 
 Finally, if we sell our business or the part thereof that operates SecureKey Concierge, we will transfer to the purchaser our copy of the End User Information, so that the purchaser can continue to operate the service.
 
-If you require clarification about this statement, please contact our Privacy Office by email at cpo@securekey.com, by phone at 416-477-5625, or in writing to SecureKey Privacy Office, 4101 Yonge Street,  
+If you require clarification about this statement, please contact our Privacy Office by email at cpo@nullsecurekey.com, by phone at 416-477-5625, or in writing to SecureKey Privacy Office, 4101 Yonge Street,  
 Suite 501, Toronto, Ontario M2P 1N6. SecureKey’s general Privacy Policy can be obtained by visiting SecureKey’s website (www.securekey.com).
 
 For more information on privacy issues and PIPEDA in general, please consult the Department of Justice / PIPEDA website, or call 1-800-O-Canada (1-800-622-6232).
@@ -49,4 +49,4 @@ Each Relying Party and Credential Service Provider has their own Privacy Policy.
 
 * * *
 
-© 2016 SecureKey Technologies Inc. | All Rights Reserved | [Privacy](https://web.archive.org/privacy/)
+© 2017 SecureKey Technologies Inc. | All Rights Reserved | [Privacy](https://web.archive.org/privacy/)
