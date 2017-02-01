@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the faveable.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411091800id_/http%3A//faveable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faveable.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202003936id_/https%3A//faveable.com/privacy) for the most accurate reproduction.*
 
-# Faveable.com
+# Faveable | Privacy
 
 Thank you for using **fave** able. We wrote this policy to help you understand what information we collect, how we use it, and what choices you have. We welcome your **questions or comments** on this policy.
 
-### What information do we collect?
+## What information do we collect?
 
 We collect information in two ways:
 
@@ -22,7 +22,7 @@ These days, whenever you use a website, mobile application, or other Internet se
 
 
 
-### How do we use the information we collect?
+## How do we use the information we collect?
 
 We use the information we collect to provide our products to you and make them better, develop new products, and protect **fave** able and our users. For example, we may log how often people use two different versions of a product, which can help us understand which version is better.
 
@@ -45,7 +45,7 @@ The information we collect may be “personally identifiable” (meaning it can 
 
 We use both types of information, and combinations of both types, as described above. We may use or store information wherever **fave** able does business, including countries outside your own.
 
-### What choices do you have about your information?
+## What choices do you have about your information?
 
 Our goal is to give you simple and meaningful choices over your information. If you have a **fave** able account, many of the choices you have on **fave** able are built directly in to the product or your account settings. For example, you can:
 
@@ -66,7 +66,7 @@ You may have choices available to you through the device or software you use to 
 
 To learn more about these choices, please see the information provided by the device or software provider.
 
-### How do we share the information we collect?
+## How do we share the information we collect?
 
 **fave** able is a tool people use to find cool stuff. When you create public boards and Faves, anyone can view them. You may also provide us with profile page information that that anyone can view. The other limited instances where we may share your personal information include:
 
@@ -79,14 +79,14 @@ To learn more about these choices, please see the information provided by the de
 
 We may also share aggregated or non-personally identifiable information with our partners or others. For example, we may tell a business using **fave** able how many people Faved something they shared, or the percentage of people who click a on Fave after viewing it.
 
-### Our Policy on Children’s Information
+## Our Policy on Children’s Information
 
 **fave** able is not directed to children under 13. If you learn that your minor child has provided us with personal information without your consent, please contact us.
 
-### Notice Regarding Interest-Based Advertising
+## Notice Regarding Interest-Based Advertising
 
 Partner Websites may allow third-party companies, including ad networks, to serve advertisements, provide other advertising services and/or collect certain information when you visit our website. Third party companies may use non-personally identifiable information (e.g. click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visit to this website in order to provide advertisements about goods and services likely to be of greater interest to you. Third party may use non- cookie technologies to recognize your computer or device and/or to collect and record information about your web surfing activity including your activities on this website. These technologies may be used directly on this website. Please keep in mind that your web browser may not permit you to block the use of these non-cookie technologies, and those browser settings that block cookies may have no effect on such techniques. To learn more about this Interest-Based Advertising or to opt-out of this type of advertising by those third parties that are members of self-regulatory programs such as the Network Advertising Initiative, please visit the NAI’s website (www.networkadvertising.org) which will allow you to opt out of Interest-Based Advertising by one, or all, NAI members.
 
-### How do we make changes to this policy?
+## How do we make changes to this policy?
 
 We may change this policy from time to time, and if we do we’ll post any changes on this page. If you continue to use **fave** able after those changes are in effect, you agree to the revised policy. If the changes are significant, we may provide more prominent notice or obtain your consent as required by law.
