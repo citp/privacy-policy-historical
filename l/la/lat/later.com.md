@@ -1,395 +1,55 @@
-> *The following text is extracted and transformed from the later.com privacy policy that was archived on 2014-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141024214117id_/http%3A//ww10.later.com/common/advertise/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the later.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201194443id_/https%3A//later.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Later (previously Latergramme): Privacy Policy
 
-**Introduction**
+By visiting our Site and providing information to us, you consent to such transfer to, and processing in the US.
 
-|  | 
+Our primary goals in collecting personally identifiable information are to provide you with the product and services made available through the Site, including, but not limited, to the Service, to communicate with you, and to manage your registered user account, if you have one.
 
-This statement includes: 
+If you desire to have access to certain restricted sections of the Site, you will be required to become a registered user, and to submit certain personally identifiable information to Latergram.me. This happens in a number of instances, such as when you sign up for the Service, or if you desire to receive marketing materials and information. Personally identifiable information that we may collect in such instances may include your IP address, full user name, password, email address, city, time zone, telephone number, and other information that you decide to provide us with.
 
-  * our _collection statement_ , explaining aspects of our collection and use of personal information 
+**Use of Contact Information**
 
-  * our _privacy policy_ , further explaining how we manage personal information. 
+In addition, we may use your contact information to market to you, and provide you with information about, our products and services, including but not limited to our Service. If you decide at any time that you no longer wish to receive such information or communications from us, please un-follow us, or follow the unsubscribe instructions provided in any of the communications.
 
+**Log Data**
 
-  
-|  |   
-|  | 
+When you visit the Site, our servers automatically record information that your browser sends whenever you visit a website ("Log Data" ). This Log Data may include information such as your IP address, browser type or the domain from which you are visiting, the web-pages you visit, the search terms you use, and any advertisements on which you click. For most users accessing the Internet from an Internet service provider the IP address will be different every time you log on. We use Log Data to monitor the use of the Site and of our Service, and for the Site"ªs technical administration. We do not associate your IP address with any other personally identifiable information to identify you personally, except in case of violation of the Terms of Service.
 
-**COLLECTION STATEMENT**  
-  
-|  |   
-  
-**Who we are**
+**Cookies**
 
-|  | 
+Like many websites, we also use "cookie" technology to collect additional website usage data and to improve the Site and our service. A cookie is a small data file that we transfer to your computer's hard disk. We do not use cookies to collect personally identifiable information. Latergram.me may use both session cookies and persistent cookies to better understand how you interact with the Site and our Service, to monitor aggregate usage by our users and web traffic routing on the Site, and to improve the Site and our services. A session cookie enables certain features of the Site and our service and is deleted from your computer when you disconnect from or leave the Site. A persistent cookie remains after you close your browser and may be used by your browser on subsequent visits to the Site. Persistent cookies can be removed by following your web browser help file directions. Most Internet browsers automatically accept cookies. You can instruct your browser, by editing its options, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit.
 
-Dark Blue Sea Pty Ltd ABN 47 091 509 796 
+**Information Sharing and Disclosure**
 
-Fabulous.com Pty Ltd ABN 64 094 218 443 
+**_Service Providers_**
 
-Fabulous Parking Pty Ltd ABN 16 094 225 091 
+We engage certain trusted third parties to perform functions and provide services to us, including, without limitation, hosting and maintenance, billing, customer relationship, database storage and management, and direct marketing campaigns. We will share your personally identifiable information with these third parties, but only to the extent necessary to perform these functions and provide such services, and only pursuant to binding contractual obligations requiring such third parties to maintain the privacy and security of your data.
 
-Fabulous.com.au Pty Ltd ABN 34 139 626 994 
+**_Compliance with Laws and Law Enforcement_**
 
-Roar.com Pty Ltd ABN 99 094 225 064 
+Latergram.me cooperates with government and law enforcement officials or private parties to enforce and comply with the law. We may disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims, legal process (including subpoenas), to protect the property and rights of Latergram.me or a third party, the safety of the public or any person, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
 
-Pageseeker.com Pty Ltd ABN 45 090 513 849 
+**_Business Transfers_**
 
-Darkblue.com Pty Ltd ABN 14 094 225 082 
+Latergram.me may sell, transfer or otherwise share some or all of its assets, including your personally identifiable information, in connection with a merger, acquisition, reorganization or sale of assets or in the event of bankruptcy. You will have the opportunity to opt out of any such transfer if the new entity's planned processing of your information differs materially from that set forth in this Privacy Policy.
 
-Yexa.com Pty Ltd ABN 12 094 225 073 
+**_Changing or Deleting Information_**
 
-Drop.com.au Pty Ltd ABN 79 135 424 878 
+If you are a registered user of the Site, you may access and update or correct the information you provided to us by e-mailing us at help@Latergram.meapp.com.
 
-Yexa.com.au Pty Ltd ABN 84 137 606 172 
+Security 
 
-Whois Privacy Services Pty Ltd ABN 65 133 058 741 
+Latergram.me is very concerned about safeguarding the confidentiality of your personally identifiable information. We employ administrative, physical and electronic measures designed to protect your information from unauthorized access. We will make any legally-required disclosures of any breach of the security, confidentiality, or integrity of your unencrypted electronically stored personal data to you via email or conspicuous posting on this Site in the most expedient time possible and without unreasonable delay, consistent with (i) the legitimate needs of law enforcement or (ii) any measures necessary to determine the scope of the breach and restore the reasonable integrity of the data system.
 
-('the DBS Group', 'we' or 'our')   
-  
-|  |   
-  
-**Our contact details**
+Links to Other Websites 
 
-|  | 
+Our Site contains links to other websites. The fact that we link to a website is not an endorsement, authorization or representation of our affiliation with that third party. We do not exercise control over third party websites. These other websites may place their own cookies or other files on your computer, collect data or solicit personally identifiable information from you. Other sites follow different rules regarding the use or disclosure of the personally identifiable information you submit to them. We encourage you to read the privacy policies or statements of the other websites you visit.
 
-  * Phone: 07 3007 0070 
+The Site is not directed to persons under 13. If a parent or guardian becomes aware that his or her child has provided us with personally identifiable information without their consent, he or she should contact us at help@Latergram.meapp.com. We do not knowingly collect personally identifiable information from children under 13. If we become aware that a child under 13 has provided us with personal identifiable Information, we will delete such information from our files.
 
-  * Email: [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com)
+This Privacy Policy may be updated from time to time for any reason; each version will apply to information collected while it was in place. We will notify you of any material changes to our Privacy Policy by posting the new Privacy Policy on our Site. You are advised to consult this Privacy Policy regularly for any changes.
 
+This Privacy Policy is effective as of Nov 4, 2015.
 
-  
-|  |   
-  
-**Collection from third party sources**
-
-|  | 
-
-We may collect personal information from someone other than you, and you may not be aware of the collection, when it is not reasonable or practicable to collect it from you, and it is available from: 
-
-  * publicly available sources like phone books 
-
-  * other companies in our group that you may have dealt with 
-
-  * third parties like our business partners, your authorised representative/s 
-
-  * information brokers 
-
-  * fraud checking agencies 
-
-  * our affiliates, resellers, contractors and other representatives that you may deal with 
-
-  * our websites and how you use them (through the use of cookies) 
-
-  * various parties listed under _Disclosing personal information_ in our Privacy Policy. 
-
-
-  
-|  |   
-  
-**Collection under law**
-
-|  | 
-
-We may be required to collect personal information in order to comply with the law.   
-  
-|  |   
-  
-**Why we collect and hold personal information**
-
-|  | 
-
-We collect and hold personal information because: 
-
-  * we may need to use it to operate our business 
-
-  * we may need to provide it to other parties in connection with our business. 
-
-
-
-
-The uses and disclosures we may make of personal information are detailed in our Privacy Policy.   
-  
-|  |   
-  
-**Unavailability of personal information**
-
-|  | 
-
-If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
-  
-|  |   
-  
-**Disclosing personal information**
-
-|  | 
-
-We may disclose personal information as reasonably required to contractors and suppliers whose goods and services that we use to operate our business and provide products and support to you, to comply with our contractual obligations with regulatory authorities including publishing personal information in Whois records for domain names, and to other parties detailed in our Privacy Policy. 
-
-Some of these parties may be based overseas eg America.  
-  
-|  |   
-  
-**Access and correction**
-
-|  | 
-
-Our privacy policy contains information about how the you can access and seek correction of the personal information about you that we hold.   
-  
-|  |   
-  
-**Complaints**
-
-|  | 
-
-Our privacy policy explains how you can complain about a breach of the Australian Privacy Principles, and how we will deal with such a complaint.   
-  
-|  |   
-|  | 
-
-**PRIVACY POLICY**  
-  
-|  |   
-  
-**Personal information**
-
-|  | 
-
-This refers to information or an opinion about a living person who is identified or reasonably identifiable, whether or not true and whether or not recorded in material form.   
-  
-|  |   
-  
-**Kinds of personal information we collect and hold**
-
-|  | 
-
-Broadly, we may collect and hold: 
-
-  * _personal details_ like name, date of birth, gender, and occupation 
-
-  * _contact details_ like physical, postal, work and email addresses and phone numbers 
-
-  * _financial details_ like credit card numbers and your billing and payment history with us 
-
-  * _service-related details_ like your user name, encrypted password and service usage history, support incidents, data from cookies, enquiries and complaints 
-
-  * _other details_ relating to special situations. 
-
-
-
-
-In any case, we only collect personal information that is reasonably necessary to support our functions and activities. If we cannot collect the information we need about you, we may not be able to supply the products or service you want.   
-  
-|  |   
-  
-**Collecting personal information**
-
-|  | 
-
-Unless it is not reasonable or practicable to do so, and in other cases allowed by law, we will collect personal information about you directly from you (eg when you contact us by phone or online, or apply for domain names or services on our website). 
-
-In other cases, we may collect personal information about you from: 
-
-  * publicly available sources like phone books 
-
-  * other companies in our group that you may have dealt with 
-
-  * third parties like our business partners, your authorised representative/s 
-
-  * information brokers 
-
-  * fraud checking agencies 
-
-  * our affiliates, resellers, contractors and other representatives that you may deal with 
-
-  * our websites and how you use them (through the use of cookies) 
-
-  * various parties listed under _Disclosing personal information_ below. 
-
-
-  
-|  |   
-  
-**Holding personal information**
-
-|  | 
-
-We hold personal information in hard and/or soft copy at our offices and in other facilities that we own or license from third parties, like data centres. We take reasonable steps to keep it secure and to protect it from unauthorised access, use or alteration.   
-  
-|  |   
-  
-**Why we collect and hold personal information**
-
-|  | 
-
-We collect and hold personal information because: 
-
-  * we may need to use it to operate our business 
-
-  * we may need to provide it to other parties in connection with our business. 
-
-
-  
-|  |   
-  
-**Using personal information**
-
-|  | 
-
-We may use personal information: 
-
-  * to identify you 
-
-  * for credit checks 
-
-  * to prevent fraud 
-
-  * to supply products (including goods and/or services) to you 
-
-  * to give you information about us and our products, and product offers 
-
-  * for direct marketing â€“ see _Direct marketing_ for details 
-
-  * to improve our products, our marketing and our website 
-
-  * to answer your enquiries 
-
-  * to give you customer support and service 
-
-  * to better understand your needs and respond to them 
-
-  * to manage and plan our products and business 
-
-  * to charge and bill you for products you use 
-
-  * to collect payment from you or make payment to you 
-
-  * to monitor, manage, test and improve our network and facilities 
-
-  * to comply with various laws or contractual obligations that apply to us 
-
-  * for other purposes related to the operation of our business. 
-
-
-  
-|  |   
-  
-**Disclosing personal information**
-
-|  | 
-
-We may disclose personal information as reasonably required: 
-
-  * to contractors and suppliers who supply or support us in: 
-
-    * market research, sales and marketing 
-
-    * direct marketing â€“ see _Direct marketing_ for details 
-
-    * identity and fraud checking 
-
-    * credit management 
-
-    * service provisioning 
-
-    * installation, maintenance and repairs 
-
-    * helpdesk and enquiries 
-
-    * support and complaint management 
-
-    * communications and mailing 
-
-    * billing, debt recovery and credit management 
-
-    * network and product design and maintenance 
-
-    * corporate strategy 
-
-    * legal and regulatory advice and compliance 
-
-    * accounting and financial planning 
-
-    * risk management 
-
-    * otherwise providing goods and services that we use to operate our business and provide products and support to you 
-
-  * to your authorised representative/s 
-
-  * to identify you as a registrant of a domain name in publicly available Whois record 
-
-  * if you ask us to do so 
-
-  * to our agents, resellers, affiliates and members of our corporate group 
-
-  * to our business partners and wholesale suppliers 
-
-  * to organisations that provide credit or finance to us 
-
-  * to persons who invest in or acquire all or part of our business or company, or are considering doing so. 
-
-
-
-
-Some of these parties may be based overseas eg America.  
-  
-|  |   
-  
-**Direct marketing**
-
-|  | 
-
-We may use and disclose personal information to direct market to you products offered by us, our agents, resellers, affiliates and members of our corporate group (including each member of the DBS Group), and our business partners, where we think the offers will be of interest to you, using: 
-
-  * post 
-
-  * email 
-
-  * electronic messaging 
-
-  * social media 
-
-  * targeted web content 
-
-  * other direct marketing channels. 
-
-
-
-
-Direct marketing may continue until you opt-out by calling the number in _Contacting us_ even if you are no longer our customer.   
-  
-|  |   
-  
-**Accessing and correcting personal information**
-
-|  | 
-
-Please contact us for these purposes using the details in _Contacting us_ below. We shall process and respond to your request in accordance with Australian Privacy Principle 12. There is no charge for making a request but a reasonable administrative charge, on a cost recovery basis, may be payable before we agree to provide access.   
-  
-|  |   
-  
-**Complaints**
-
-|  | 
-
-If you wish to complain about a breach of the Australian Privacy Principles, please contact us using the details in _Contacting us_ below. We shall: 
-
-  * acknowledge your complaint within a reasonable time 
-
-  * give you an estimated first response time 
-
-  * allocate your complaint to a suitably senior staff member 
-
-  * process and respond to your complaint as soon as we reasonably can. 
-
-
-  
-|  |   
-  
-**Contacting us**
-
-|  | 
-
-Questions, requests and complaints regarding our Privacy Statement or our compliance with privacy laws should be directed to us by telephone on 07 3007 0070 or email to [privacy@darkbluesea.com](mailto:privacy@darkbluesea.com), or by post The Privacy Officer, The DBS Group, P.O. Box 757, Fortitude Valley, QLD 4006. 
+If you have any thoughts or questions about this Privacy Policy please let us know.
