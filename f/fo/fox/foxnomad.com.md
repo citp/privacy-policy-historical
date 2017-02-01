@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the foxnomad.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610195614id_/http%3A//www.foxnomad.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the foxnomad.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201204157id_/http%3A//www.foxnomad.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - foXnoMad
 
@@ -14,6 +14,3 @@ Other Third Party ad servers or ad networks may also use cookies to track users 
 
 **Links to third party Websites**  
 We have included links on this site for your use and reference. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these sites may differ from our own.
-
-  
-
