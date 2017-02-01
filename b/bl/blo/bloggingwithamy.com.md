@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bloggingwithamy.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324161006id_/https%3A//amylynnandrews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bloggingwithamy.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201213945id_/https%3A//amylynnandrews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Amy Lynn Andrews
 
@@ -16,7 +16,7 @@ _Last updated October 9, 2013._
 
 ### The Whole Enchilada Version
 
-This Privacy Policy governs the manner in which AmyLynnAndrews.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://AmyLynnAndrews.com](http://amylynnandrews.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by AmyLynnAndrews.com.
+This Privacy Policy governs the manner in which AmyLynnAndrews.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://AmyLynnAndrews.com](https://amylynnandrews.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by AmyLynnAndrews.com.
 
 **Personal identification information**
 
@@ -34,9 +34,9 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 AmyLynnAndrews.com collects and uses Users personal information for the following purposes:
 
-  * _To improve our Site_ We continually strive to improve our website offerings based on the information and feedback we receive from you.
-  * _To process transactions_ We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _To send periodic emails_ The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
+  * _To improve our Site.  _We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * _To process transactions.  _We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _To send periodic emails.  _The email address Users provide for order processing, will only be used to send them information and updates pertaining to their order. It may also be used to respond to their inquiries, and/or other requests or questions. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
 
 
@@ -58,7 +58,7 @@ Ads appearing on our site may be delivered to Users by advertising partners, who
 
 **Google Adsense**
 
-Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/privacy_ads.html>
+Some of the ads may be served by Google. Google’s use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses “non personally identifiable information” and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at <http://www.google.com/policies/technologies/ads/>
 
 **Changes to this privacy policy**
 
@@ -72,9 +72,9 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact me at:
 
-[AmyLynnAndrews.com](http://amylynnandrews.com/)
+[AmyLynnAndrews.com](https://amylynnandrews.com/)
 
-[http://amylynnandrews.com](http://amylynnandrews.com/)
+[https://amylynnandrews.com](https://amylynnandrews.com/)
 
 AmyLynnAndrews@gmail.com
 
