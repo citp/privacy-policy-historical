@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vividracing.com privacy policy that was archived on 2015-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150612015914id_/http%3A//www.vividracing.com/catalog/privacy-policy-i-28.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vividracing.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201183719id_/https%3A//www.vividracing.com/catalog/privacy-policy-i-28.html) for the most accurate reproduction.*
 
-# VividRacing Shipping & Return Policy
+# 
 
 Vivid Racing respects your privacy and has worked hard to earn our customers respect and trust. We are aware of the confidence you demonstrate when you visit our website and provide us with information. The Privacy Notice below is posted to demonstrate our adherence to the practices you'll find common to the best websites online.
 
-If you have any questions or concerns about our Privacy Policy, please call us at: 1-866-448-4843; e-mail us at [info@vividracing.com](mailto:info@vividracing.com); or send a letter to us: [View Address Info](http://www.vividracing.com/catalog/contact_us.php). 
+If you have any questions or concerns about our Privacy Policy, please call us at: 1-866-448-4843; e-mail us at [info@vividracing.com](mailto:info@vividracing.com); or send a letter to us: [View Address Info](https://www.vividracing.com/catalog/contact_us.php). 
 
 **VividRacing.com Privacy Policy  
 ** By visiting VividRacing.com you agree to accept the practices described in this Privacy Notice. 
@@ -25,7 +25,7 @@ _Sharing of Information with third-parties:
 _ Data received from customers including demographics, purchasing habits, secure information is only used by Vivid Racing.  In the event Vivid Racing decides to sell the information to a secure source, that company will contact you appropriately.
 
  _Newsletter Information:_  
-When you place an order with Vivid Racing online or via phone, we automatically add you to our newsletter system which is controlled by MobileStorm.com. You may unsubscribe from this newsletter at anytime via the "unsubscribe" link on the newsletter or by emailing marketing@vividracing.com. 
+When you place an order with Vivid Racing online or via phone, we automatically add you to our newsletter system. You may unsubscribe from this newsletter at anytime via the "unsubscribe" link on the newsletter or by emailing marketing@vividracing.com. 
 
 _Credit card and Payment Companies:  
 _ When you buy something from us we send your credit card or payment information, name, billing address and the amount of your purchase to your credit card or payment company to verify and authorize the purchase. Your name, telephone number and shipping information must be provided to third party shippers such as UPS, Federal Express and the United States Postal Service to deliver your purchase. 
