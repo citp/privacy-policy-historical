@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tcbk.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806163811id_/https%3A//www.tcbk.com/media/documents/ADV-22_GLBA_privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tcbk.com privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201114447id_/https%3A//www.tcbk.com/media/documents/ADV-22_GLBA_privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
