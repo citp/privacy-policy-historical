@@ -1,12 +1,13 @@
-> *The following text is extracted and transformed from the travelocity.ca privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024232846id_/https%3A//www.travelocity.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelocity.ca privacy policy that was archived on 2017-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170201092006id_/https%3A//www.travelocity.ca/privacy) for the most accurate reproduction.*
 
-# Travelocity.ca Privacy Policy | Travelocity.ca
+# Travelocity.ca Privacy Policy
+
+## Travelocity.ca Privacy Policy
 
 As a user of the web sites, mobile applications and services of Travelocity (collectively, the "Travelocity Service"), you are in control of your travel-planning. We know you want to remain in control of your personal information as well. As one of the pioneers in online travel, we realize that earning and retaining your trust is of paramount importance and it's a responsibility we take very seriously.   
 That's why we've provided this Privacy Policy, which sets forth Travelocity's policies regarding the collection, use and protection of the personal information of those using the Travelocity Service. Personal information means information that can identify you, such as your name, address, telephone number, e-mail address, and billing information (such as your credit card number and expiration date).   
 We encourage you to review this Privacy Policy, and become familiar with it, but you should know that **we do not sell or rent our customers' personal information to third parties**.   
-Please note that we review our Privacy Policy from time to time, and we make changes to the policy in connection with that review. Therefore, you may wish to periodically review this page to make sure that you have the current version. Click here to read about how we may supplement or change this Privacy Policy. If you have questions about this Privacy Policy, please contact us via this [link](mailto:travelocity@Travelocity.com). 
-
+Please note that we review our Privacy Policy from time to time, and we make changes to the policy in connection with that review. Therefore, you may wish to periodically review this page to make sure that you have the current version. Click here to read about how we may supplement or change this Privacy Policy. If you have questions about this Privacy Policy, please contact us via this [link](mailto:travelocity@Travelocity.com).   
 This Privacy Policy explains the following: 
 
   * What personal information we collect and how we use it
