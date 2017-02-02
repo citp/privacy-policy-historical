@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thewritelife.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124163043id_/http%3A//thewritelife.com/privacy-policy-and-disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewritelife.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202182324id_/https%3A//thewritelife.com/privacy-policy-and-disclosures) for the most accurate reproduction.*
 
 # Privacy Policy and Disclosures - The Write Life
 
