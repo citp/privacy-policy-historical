@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pidgeycalc.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908015123id_/http%3A//www.pidgeycalc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pidgeycalc.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202154121id_/https%3A//www.pidgeycalc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-[Back to PidgeyCalc](https://web.archive.org/web/20160908015123id_/http%3A//)
+[Back to PidgeyCalc](https://web.archive.org/web/20170202154121id_/https://www.pidgeycalc.com/)
 
 All Pokémon and Pokémon Go names and references © 2016 The Pokémon Company and Niantic
 
