@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cartercenter.org privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012004054id_/https%3A//www.cartercenter.org/about/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cartercenter.org privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202035948id_/https%3A//www.cartercenter.org/about/privacy.html) for the most accurate reproduction.*
 
 # Website Privacy Statement for The Carter Center, Inc.
 
-This section of the Carter Center's Privacy Statement relates specifically to website privacy. Read the Center's [Donor Privacy Statement here](https://web.archive.org/web/20161012004054id_/https%3A//www.cartercenter.org/about/donor-privacy.html).
+This section of the Carter Center's Privacy Statement relates specifically to website privacy. Read the Center's [Donor Privacy Statement here](https://web.archive.org/web/20170202035948id_/https%3A//www.cartercenter.org/about/donor-privacy.html).
 
 The Carter Center is committed to safeguarding the privacy of its visitors. Information provided by our visitors, or that derived from internal Web tracking, is not sold, rented, or shared with any individual or organization.
 
