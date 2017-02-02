@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821190232id_/https%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cnbank.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203000943id_/https%3A//www.cnbank.com/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Canandaigua National Bank & Trust
 
