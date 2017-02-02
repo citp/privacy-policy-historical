@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magicfreebiesuk.co.uk privacy policy that was archived on 2015-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150403211538id_/https%3A//www.magicfreebiesuk.co.uk/p/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magicfreebiesuk.co.uk privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202141643id_/https%3A//www.magicfreebiesuk.co.uk/p/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Magic Freebies
 
@@ -6,7 +6,7 @@ Magic Freebies is committed to protecting your privacy. Please read on for our p
 
 #### 1\. Your Information and Personal Data
 
-We may collect information from you at times for the purposes of customising your visitor experience whilst using our site.
+We may collect information from you at times for the purposes of customising your visitor experience whilst using our site.  You agree that your customer information may be shared with third parties to perform services on our behalf - sending you our mailing list email, validation of your email address, excluding you from our advertising campaigns, reaching new customers based on your demographics and online activity etc. However, you will never be contacted by anyone but ourselves.
 
 #### 2\. Security
 
@@ -44,7 +44,4 @@ You may unsubscribe from our newsletter at any time. To unsubscribe you may do a
 
 #### 6\. Contact Details
 
-Address: Magic Freebies, Veneficus, 28-30 High Street, Guildford, Surrey, GU1 3EL. Phone: 01483 243377
-
-  
-
+Address: Magic Freebies, Veneficus, 229-235 High Street, Guildford, Surrey, GU1 3BJ. Phone: 01483 610253
