@@ -1,89 +1,21 @@
-> *The following text is extracted and transformed from the jlist.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801153718id_/https%3A//jlist.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlist.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202021240id_/https%3A//jlist.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy
+Your privacy is important to us.
 
-This privacy policy sets out how J-List and JBOX.com uses and protects any information that you give us  when you use this website. J-List takes your privacy seriously and will never abuse it in any way. 
+It is J-List's policy to respect your privacy regarding any information we may collect while operating our website. Accordingly, we have developed this privacy policy in order for you to understand how we collect, use, communicate, disclose and otherwise make use of personal information. We have outlined our privacy policy below.
 
-## What we collect
-
-Until you make an order from you, our server collects normal information from your computer, including things like 
-
-  * your IP address
-  * basic server-related information such as how many users are accessing which parts of the site
-  * information on what device or browser you're using, so we can develop better systems
-
-
-
-For the exhaustive list of cookies we collect see the List of cookies we collect section. 
-
-## When you order
-
-Obviously we can't send you a Totoro bento box or a case of Pocky if we don't have certain information from you, and we store the information you provide us with in keeping with standard industry practices. All computers are running secure, verified secure certificates to allow your device to work securely with ours. Information such as credit card numbers are **not stored by us in any way** , in keeping with industry standards.
+  * We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned.
+  * Before or at the time of collecting personal information, we will identify the purposes for which information is being collected.
+  * We will collect and use personal information solely for fulfilling those purposes specified by us and for other ancillary purposes, unless we obtain the consent of the individual concerned or as required by law.
+  * Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date.
+  * We will protect personal information by using reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+  * We will make readily available to customers information about our policies and practices relating to the management of personal information.
+  * We will only retain personal information for as long as necessary for the fulfilment of those purposes.
 
 
 
+We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. J-List may change this privacy policy from time to time at J-List's sole discretion.
 
-## Security
-
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
-
-## How we use cookies
-
-A cookie is a small file which asks permission to be placed on your computer's hard drive. Once you agree, the file is added and the cookie helps analyse web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. 
-
-We use traffic log cookies to identify which pages are being used. This helps us analyse data about web page traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. 
-
-Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website. 
-
-## Links to other websites
-
-Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question. 
-
-## Controlling your personal information
-
-You may choose to restrict the collection or use of your personal information in the following ways:
-
-  * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes 
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or emailing us at no-reply@jlist.com 
-
-
-
-We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. 
-
-You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please write to . 
-
-If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect. 
-
-## List of cookies we collect
-
-The table below lists the cookies we collect and what information they store.
-
-COOKIE name | COOKIE Description  
----|---  
-CART | The association with your shopping cart.  
-CATEGORY_INFO | Stores the category info on the page, that allows to display pages more quickly.  
-COMPARE | The items that you have in the Compare Products list.  
-CURRENCY | Your preferred currency  
-CUSTOMER | An encrypted version of your customer id with the store.  
-CUSTOMER_AUTH | An indicator if you are currently logged into the store.  
-CUSTOMER_INFO | An encrypted version of the customer group you belong to.  
-CUSTOMER_SEGMENT_IDS | Stores the Customer Segment ID  
-EXTERNAL_NO_CACHE | A flag, which indicates whether caching is disabled or not.  
-FRONTEND | You sesssion ID on the server.  
-GUEST-VIEW | Allows guests to edit their orders.  
-LAST_CATEGORY | The last category you visited.  
-LAST_PRODUCT | The most recent product you have viewed.  
-NEWMESSAGE | Indicates whether a new message has been received.  
-NO_CACHE | Indicates whether it is allowed to use cache.  
-PERSISTENT_SHOPPING_CART | A link to information about your cart and viewing history if you have asked the site.  
-POLL | The ID of any polls you have recently voted in.  
-POLLN | Information on what polls you have voted on.  
-RECENTLYCOMPARED | The items that you have recently compared.   
-STF | Information on products you have emailed to friends.  
-STORE | The store view or language you have selected.  
-USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
-VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
-WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+##### _Last Updated: September 19, 2016_
