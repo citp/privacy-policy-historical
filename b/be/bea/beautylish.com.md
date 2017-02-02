@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the beautylish.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406190441id_/http%3A//www.beautylish.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautylish.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202210721id_/https%3A//www.beautylish.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beautylish
 
-We know that you care about your personal information. This Privacy Statement ("Statement") describes the personal information we collect through our websites, mobile applications and services (collectively, the **"Services"** ), and how we collect and use it. The terms **"we"** , **"us"** , and **"Beautylish"** refer to Beautylish Inc.. This Privacy Policy is part of the Terms of Use, which governs your use of the Services and is located [here](https://web.archive.org/tos).
+We know that you care about your personal information. This Privacy Statement ("Statement") describes the personal information we collect through our websites, mobile applications and services (collectively, the **"Services"** ), and how we collect and use it. The terms **"we"** , **"us"** , and **"Beautylish"** refer to Beautylish Inc.. This Privacy Policy is part of the Terms of Use, which governs your use of the Services and is located [here](https://www.beautylish.com/tos).
 
 * #### Information We Collect and How We Use it
 
