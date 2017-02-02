@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seedrs.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701010643id_/https%3A//www.seedrs.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedrs.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202161830id_/https%3A//www.seedrs.com/privacy_policy) for the most accurate reproduction.*
 
 # Seedrs Privacy Policy
 
@@ -33,6 +33,7 @@ The principal purposes for which we process and store your Personal Data are:
   * To monitor, improve and administer the Website and the services provided on the Website.
   * To enable us to conduct surveys and analysis, and aggregate user profiles.
   * To provide you with information about our business, and on other selected products and services that we think may be of interest to you (unless you have asked us not to do so). 
+  * To measure, understand, or improve the effectiveness of advertising we provide to you and others.
   * To enable us to comply with our legal and regulatory obligations, including reporting to regulators and governmental authorities. 
   * To contact you to ensure customer satisfaction in respect of our role as a website provider and assist you in getting the best value from our service. 
 
@@ -83,8 +84,9 @@ In the event that you wish to see a copy of all of your Personal Data held by us
 
 The Seedrs Data Protection Officer   
 Seedrs Limited   
-201 Borough High Street   
-London SE1 1JA   
+Churchill House   
+142-146 Old Street   
+London EC1V 9BW   
 United Kingdom 
 
 A request for a copy of your Personal Data should be accompanied with payment of a £10 administrative fee. 
