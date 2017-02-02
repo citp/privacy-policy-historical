@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201191053id_/https%3A//www.edf.org/about/this-site/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edf.org privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202044137id_/https%3A//www.edf.org/about/this-site/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Environmental Defense Fund
 
-_Effective date: Aug. 3, 2016_
+_Effective date: Dec. 8, 2016_
 
 This privacy policy applies to Environmental Defense Fund and Environmental Defense Action Fund, our legislative lobbying entity.
 
@@ -18,12 +18,13 @@ If you have any questions, [please ask](https://web.archive.org/contact).
   2. What organization is collecting your information?
   3. How your information may be used.
   4. What choices are available to you regarding collection, use, and distribution of the information?
-  5. What kind of security procedures are in place to protect against the loss, misuse, or alteration of your information?
-  6. How you can access, update, or delete your information.
-  7. How “cookies” are used.
-  8. Changes in our privacy policy.
-  9. Official terms and conditions.
-  10. How to opt out.
+  5. What is your donor policy?
+  6. What kind of security procedures are in place to protect against the loss, misuse, or alteration of your information?
+  7. How you can access, update, or delete your information.
+  8. How “cookies” are used.
+  9. Changes in our privacy policy.
+  10. Official terms and conditions.
+  11. How to opt out.
 
 
 
@@ -41,7 +42,7 @@ We want to be very clear: We only obtain this kind of personally-identifying inf
 
 ### **2\. What organization is collecting your information?**
 
-We are Environmental Defense Fund, a non-profit, tax-deductible environmental advocacy and research organization, and Environmental Defense Action Fund, a non-profit, non-tax-deductible environmental advocacy and research organization. Environmental Defense Fund and Environmental Defense Action Fund are affiliated organizations. We are responsible for any information collected on our web sites. Our organizational sites are [dev.edf.org](http://www.environmentaldefense.org/) and [www.edfaction.org](http://www.edfaction.org/). In addition, we sponsor several other sites, including but not limited to [EDF+ Business](http://business.edf.org/), [EDF Climate Corps](http://edfclimatecorps.org/), [Moms Clean Air Force](http://www.momscleanairforce.org/) and [Defend Our Future](http://defendourfuture.org/).
+We are Environmental Defense Fund, a non-profit, tax-deductible environmental advocacy and research organization, and Environmental Defense Action Fund, a non-profit, non-tax-deductible environmental advocacy and research organization. Environmental Defense Fund and Environmental Defense Action Fund are affiliated organizations. We are responsible for any information collected on our web sites. Our organizational sites are [http://www.environmentaldefense.org](http://www.environmentaldefense.org/) and [www.edfaction.org](http://www.edfaction.org/). In addition, we sponsor several other sites, including but not limited to [EDF+ Business](http://business.edf.org/), [EDF Climate Corps](http://edfclimatecorps.org/), [Moms Clean Air Force](http://www.momscleanairforce.org/) and [Defend Our Future](http://defendourfuture.org/).
 
 [top]
 
@@ -63,19 +64,23 @@ Now, or at any time in the future, you can [correct or update your information o
 
 [top]
 
-### **5\. What kind of security procedures are in place to protect against the loss, misuse, or alteration of your information?**
+### **5\. What is your donor policy?**
+
+EDF participates in donor cooperatives and list exchanges to support our membership recruitment efforts. As an EDF member, you can always ask to remove your name and contact information from these list exchanges. Simply [contact us online](https://web.archive.org/contact) or call us at 1-800-684-3322. EDF Member Services staff are available by phone Monday-Friday, 9 a.m. to 5 p.m. ET.
+
+### **6\. What kind of security procedures are in place to protect against the loss, misuse, or alteration of your information?**
 
 We store your personally identifiable information on secure servers. We also use other “anti-hacking” security measures and employ security consultants. We use a secure server to process all credit card donations and updates to monthly billing.
 
 [top]
 
-### **6\. How you can access, update, or delete your information**
+### **7\. How you can access, update, or delete your information**
 
 Please [contact us](https://web.archive.org/contact) to obtain, change, update or delete our records of your personal information, or to change your privacy options. You can also make updates to your account through our [myEDF portal](https://secure2.edf.org/site/SPageServer?pagename=myedf). Please [contact us](https://web.archive.org/contact) to obtain, change, update or delete our records of your personal information, or to change your privacy options.
 
 [top]
 
-### **7\. How “cookies” are used**
+### **8\. How “cookies” are used**
 
 Some of our web sites use “cookie” data to provide better services. They remind us who you are and how you like to use our web site, based on what you’ve done and told us before. The cookie is stored in your browser and is read when you come back to our web site. Cookies let us take you to the information and features you’re particularly interested in. They also let us track your and others’ usage across devices, so we know which parts of our sites are most popular. You can reject cookies or delete them.
 
@@ -85,13 +90,13 @@ We, along with third-party vendors, including Google, use first- and third-party
 
 [top]
 
-### **8\. Changes in our privacy policy**
+### **9\. Changes in our privacy policy**
 
 Should our practices change, this notice will be immediately updated. See Official Terms and Conditions of using our web sites.
 
 [top]
 
-### **9\. Official terms and conditions**
+### **10\. Official terms and conditions**
 
   
 
@@ -106,7 +111,7 @@ _Legalese version_ : Environmental Defense Fund makes no warranties, express or 
 
 [top]
 
-### **10\. How to opt out**
+### **11\. How to opt out**
 
 To opt-out from receiving content from Environmental Defense Fund or its partners and affiliates, [please tell us](https://web.archive.org/contact). And, you can opt yourself out of email through [myEDF](https://secure2.edf.org/site/SPageServer?pagename=myedf).
 
