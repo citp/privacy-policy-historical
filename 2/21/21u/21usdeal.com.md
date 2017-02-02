@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 21usdeal.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203170238id_/http%3A//www.21usdeal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 21usdeal.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202071533id_/https%3A//www.21usdeal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy 21usDeal.com
 
