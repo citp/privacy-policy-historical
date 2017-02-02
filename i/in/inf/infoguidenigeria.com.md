@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infoguidenigeria.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130142223id_/http%3A//infoguidenigeria.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infoguidenigeria.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202201730id_/http%3A//infoguidenigeria.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Information Guide in Nigeria
 
