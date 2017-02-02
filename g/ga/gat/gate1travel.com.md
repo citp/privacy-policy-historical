@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gate1travel.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326071601id_/https%3A//www.gate1travel.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gate1travel.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202190345id_/https%3A//www.gate1travel.com/privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Policy | Gate 1 Travel - More the World For Less!
+# Privacy Policy | Gate 1 Travel - More of the World For Less!
 
 Gate 1 Travel values your trust and is committed to protecting your privacy. We use SSL encryption to protect your sensitive information online. This privacy policy is designed to inform you of what information we collect, why we collect such information, and how we use the information we collect. By using this Website, you are agreeing to this Privacy Policy.
 
