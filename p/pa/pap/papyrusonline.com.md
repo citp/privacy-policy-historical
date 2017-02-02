@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220204148id_/https%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the papyrusonline.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202100550id_/https%3A//www.papyrusonline.com/customer-services/privacy-security) for the most accurate reproduction.*
 
 # Privacy & Security
 
