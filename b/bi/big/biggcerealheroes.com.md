@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biggcerealheroes.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204023849id_/http%3A//www.generalmills.com/en/Company/privacy-policies/kids-privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biggcerealheroes.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202140429id_/http%3A//www.generalmills.com/en/Company/privacy-policies/kids-privacy-policy-us) for the most accurate reproduction.*
 
 # General Mills: Privacy policy for child-directed sites
 
@@ -43,7 +43,7 @@ General Mills may use the Services of third parties who collect or maintain pers
 
 **Attn: Consumer Services.**
 
-We can also be reached by telephone by dialing our consumer response department at 1-800-328-8360 weekdays from 8 a.m. - 5 p.m. Central Time, or by email at [cshelp@genmills.com](mailto:cshelp@genmills.com).  Please feel free to use this same contact information if at any time you have questions or concerns about our general Privacy Policy. 
+We can also be reached by telephone by dialing our consumer response department at 800-446-7894 weekdays from 7:30 a.m. to 5:30 p.m. Central Time, or by email at [cshelp@genmills.com](mailto:cshelp@genmills.com).  Please feel free to use this same contact information if at any time you have questions or concerns about our general Privacy Policy. 
 
 **7.    ** **Your California Privacy Rights  
 **We do not share information that we collect through the Services with third parties for the third party’s direct marketing purposes.
