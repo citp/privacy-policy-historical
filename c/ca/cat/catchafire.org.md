@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the catchafire.org privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501221021id_/https%3A//www.catchafire.org/about/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the catchafire.org privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202081207id_/https%3A//www.catchafire.org/about/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
