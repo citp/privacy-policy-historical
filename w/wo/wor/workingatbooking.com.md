@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the workingatbooking.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518021220id_/https%3A//workingatbooking.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workingatbooking.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202050311id_/https%3A//workingatbooking.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies - Working at Booking.com
 
