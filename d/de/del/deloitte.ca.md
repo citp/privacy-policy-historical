@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deloitte.ca privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012222314id_/http%3A//www2.deloitte.com/ca/en/footerlinks1/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deloitte.ca privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202033241id_/https%3A//www2.deloitte.com/ca/en/footerlinks1/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -16,7 +16,7 @@ Please note that the other country, regional and practice specific websites cont
 
 This Privacy Statement may be supplemented or amended from time to time by Privacy Statements that are specific to certain areas of this Website (e.g., recruitment). For more detail about the online recruitment process, please review the specific statement governing that area.
 
-If you have any questions regarding this Privacy Statement, please contact webmaster services using the [Contact us](https://web.archive.org/ca/en/get-connected/contact-us.html) link.
+If you have any questions regarding this Privacy Statement, please contact webmaster services using the [Contact us](https://web.archive.org/content/www/ca/en/footerlinks/contact-us.html) link.
 
 **Information collection**
 
@@ -28,7 +28,7 @@ We do not usually seek sensitive information (e.g., data relating to race or eth
 
 **Log information, cookies, and web beacons**
 
-This site collects standard internet log information including your IP address, browser type and language, access times, and referring website addresses. To ensure that this Website is well managed and to facilitate improved navigation, we or our service providers may also use cookies (small text files stored in a user’s browser), or Web beacons (electronic images that allow this Website to count visitors who have accessed a particular page and to access certain cookies) to collect aggregate data. Additional information on how we use cookies and other tracking technologies and how you can control these can be found in our [cookie notice](https://web.archive.org/ca/en/legal/cookies.html).
+This site collects standard internet log information including your IP address, browser type and language, access times, and referring website addresses. To ensure that this Website is well managed and to facilitate improved navigation, we or our service providers may also use cookies (small text files stored in a user’s browser), or Web beacons (electronic images that allow this Website to count visitors who have accessed a particular page and to access certain cookies) to collect aggregate data. Additional information on how we use cookies and other tracking technologies and how you can control these can be found in our [cookie notice](https://web.archive.org/content/www/ca/en/footerlinks1/cookies.html).
 
 **Information use**
 
@@ -54,7 +54,7 @@ This Website may host various blogs, forums, wikis, and other social media appli
 
 **Access to information**
 
-Visitors who would like to request access to their information, to update their details, or unsubscribe from communications should contact webmaster services using the [Contact us](https://web.archive.org/ca/en/get-connected/contact-us.html) link. In all cases we will treat requests to access information or change information in accordance with applicable legal requirements.
+Visitors who would like to request access to their information, to update their details, or unsubscribe from communications should contact webmaster services using the [Contact us](https://web.archive.org/content/www/ca/en/footerlinks/contact-us.html) link. In all cases we will treat requests to access information or change information in accordance with applicable legal requirements.
 
 **Information security**
 
@@ -80,7 +80,7 @@ We understand the importance of protecting children's privacy in the interactive
 
 **Visitors' questions**
 
-If you have any questions or concerns regarding your privacy while using this Website, please direct them to webmaster services using the [contact us](https://web.archive.org/ca/en/get-connected/contact-us.html) link.
+If you have any questions or concerns regarding your privacy while using this Website, please direct them to webmaster services using the [contact us](https://web.archive.org/content/www/ca/en/footerlinks/contact-us.html) link.
 
 To remove your name from our mailing lists, email us at [unsubscribe@deloitte.ca](mailto:unsubscribe@deloitte.ca)
 
