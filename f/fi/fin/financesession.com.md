@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financesession.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104081817id_/http%3A//www.financesession.com/%3Fpage_id%3D155) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financesession.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202212604id_/http%3A//www.financesession.com/%3Fpage_id%3D155) for the most accurate reproduction.*
 
 # Privacy Policy – financesession
 
