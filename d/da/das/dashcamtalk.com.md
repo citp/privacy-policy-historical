@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dashcamtalk.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109022716id_/https%3A//dashcamtalk.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashcamtalk.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202153352id_/https%3A//dashcamtalk.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dash Cam Talk
 
