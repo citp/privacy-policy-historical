@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105172749id_/https%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digicert.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202102433id_/https%3A//www.digicert.com/digicert-privacy-policy.htm) for the most accurate reproduction.*
 
 # DigiCert SSL Certificate Authority | Security | Privacy Policy
 
@@ -127,7 +127,7 @@ Please contact DigiCert with any questions or concerns about this privacy policy
 By mail: 
 
 DigiCert, Inc.  
-2600 West Executive Parkway  
+2801 North Thanksgiving Way  
 Suite 500  
 Lehi, Utah 84043 
 
