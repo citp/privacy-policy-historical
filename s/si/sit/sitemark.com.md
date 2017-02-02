@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sitemark.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202133955id_/http%3A//www.sitemark.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sitemark.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203002030id_/http%3A//www.sitemark.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Sitemark
 
