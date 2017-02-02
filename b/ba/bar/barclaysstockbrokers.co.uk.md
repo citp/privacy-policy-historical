@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barclaysstockbrokers.co.uk privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909013231id_/https%3A//www.barclaysstockbrokers.co.uk/Pages/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barclaysstockbrokers.co.uk privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202192149id_/https%3A//www.barclaysstockbrokers.co.uk/Pages/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Barclays Stockbrokers
 
