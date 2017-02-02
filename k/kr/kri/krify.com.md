@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the krify.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023201458id_/https%3A//krify.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the krify.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202112315id_/https%3A//krify.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Krify
 
