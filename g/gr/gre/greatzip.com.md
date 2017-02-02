@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greatzip.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022080627id_/http%3A//greatzip.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greatzip.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203004442id_/http%3A//greatzip.com/privacy-policy.html) for the most accurate reproduction.*
 
 # GreatZip :: Privacy Policy
 
@@ -9,11 +9,11 @@ If you are under 18, you should ask your parents or a guardian before you use ou
 ### Overview of Our Policy
 
 **Great Zip** Website (We refer to our software and Products throughout this agreement as our "Services").  
-Please read this [Terms & Conditions](https://web.archive.org/web/20161022080627id_/http%3A//greatzip.com/terms.html) | [Privacy Policy](https://web.archive.org/web/20161022080627id_/http%3A//greatzip.com/privacy-policy.html) | Sitemap | About Us | [Contact Us](https://web.archive.org/web/20161022080627id_/http%3A//greatzip.com/contact.html) carefully so that you understand our online privacy practices regarding:
+Please read this [Terms & Conditions](https://web.archive.org/web/20170203004442id_/http%3A//greatzip.com/terms.html) | [Privacy Policy](https://web.archive.org/web/20170203004442id_/http%3A//greatzip.com/privacy-policy.html) | Sitemap | About Us | [Contact Us](https://web.archive.org/web/20170203004442id_/http%3A//greatzip.com/contact.html) carefully so that you understand our online privacy practices regarding:
 
 By accessing Sites, using our Services, providing information requested or by continuing to use our Services, you agree to accept the terms of our Privacy Policy. If you do not agree to the terms of this Privacy Policy, please do not use the Sites or our Services.
 
-We may make available shorter versions of this Privacy Policy. We also may supplement this policy for specific Services. Where there is a conflict between this policy and our summary or supplement, this policy will govern. We reserve the right to modify this Privacy Policy. By accessing the sites or using the Services, you agree to be bound by this [Terms & Conditions](https://web.archive.org/web/20161022080627id_/http%3A//greatzip.com/terms.html) | [Privacy Policy](https://web.archive.org/web/20161022080627id_/http%3A//greatzip.com/privacy-policy.html) | Sitemap | About Us | [Contact Us](https://web.archive.org/web/20161022080627id_/http%3A//greatzip.com/contact.html) as modified.
+We may make available shorter versions of this Privacy Policy. We also may supplement this policy for specific Services. Where there is a conflict between this policy and our summary or supplement, this policy will govern. We reserve the right to modify this Privacy Policy. By accessing the sites or using the Services, you agree to be bound by this [Terms & Conditions](https://web.archive.org/web/20170203004442id_/http%3A//greatzip.com/terms.html) | [Privacy Policy](https://web.archive.org/web/20170203004442id_/http%3A//greatzip.com/privacy-policy.html) | Sitemap | About Us | [Contact Us](https://web.archive.org/web/20170203004442id_/http%3A//greatzip.com/contact.html) as modified.
 
 ### Some Terms We Use in This Policy
 
@@ -38,7 +38,7 @@ We may collect personal information at various times when you use our Services. 
 
 Installation. During the installation process, we will present you with Offers. You may choose not to accept our Offers.
 
-Contacts/IP Information. If you voluntarily submit information or [Terms & Conditions](https://web.archive.org/web/20161022080627id_/http%3A//greatzip.com/terms.html) | [Privacy Policy](https://web.archive.org/web/20161022080627id_/http%3A//greatzip.com/privacy-policy.html) | Sitemap | About Us | [Contact Us](https://web.archive.org/web/20161022080627id_/http%3A//greatzip.com/contact.html) (e.g. password request, technical support), we may keep a record of this communication. We do not merge this information with your Personally Identifiable Information.
+Contacts/IP Information. If you voluntarily submit information or [Terms & Conditions](https://web.archive.org/web/20170203004442id_/http%3A//greatzip.com/terms.html) | [Privacy Policy](https://web.archive.org/web/20170203004442id_/http%3A//greatzip.com/privacy-policy.html) | Sitemap | About Us | [Contact Us](https://web.archive.org/web/20170203004442id_/http%3A//greatzip.com/contact.html) (e.g. password request, technical support), we may keep a record of this communication. We do not merge this information with your Personally Identifiable Information.
 
 ### Aggregate Information We Collect
 
