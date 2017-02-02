@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119084930id_/https%3A//www.aspca.org/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aspca.org privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202143800id_/https%3A//www.aspca.org/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ASPCA
 
-_Last updated on July 25, 2016._
+_Last updated on January 3, 2017._
 
 The American Society for the Prevention of Cruelty to Animals® (“ASPCA,” “we,” “our,” or “us”) understands that privacy is important to our online visitors to our website and online services, and to our donors who donate online or offline (“Donors”).  This Privacy Policy explains how we collect, use, share and protect your non-personally identifiable and personally identifiable information obtained through all ASPCA websites, including, but not limited to, [www.aspca.org](http://www.aspca.org/) and [www.aspcapro.org](http://www.aspcapro.org/) (each, an “ASPCA Website), and through online services, as well as how Donors can opt-out of having their personal information shared or sold. By using an ASPCA Website, you agree to the terms of this Privacy Policy and our [Terms of Use](http://www.aspca.org/about-us/legal-information).  Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our [Terms of Use](http://www.aspca.org/about-us/legal-information).
 
@@ -63,7 +63,7 @@ Any information or content that you voluntarily disclose for posting to the ASPC
 
  **4.               _YOUR CHOICES ABOUT YOUR INFORMATION_**
 
-How to control your communications preferences: We always honor our members’ requests to modify their communication preferences.  You may (a) opt-out of receiving communications from us, and/or (b) have your name and contact information removed from mailing lists that we share or sell by sending an email to us at [website@aspca.org](mailto:website@aspca.org) with your complete name, address and email address. The ASPCA assumes no responsibility for the data collection and use practices of third parties that process online credit card transactions.  You may request a record of your information by calling the Development Department at (212) 876-7700 during normal business hours, Monday-Friday, 9:00am-5:00pm or by e-mail at [development@aspca.org](mailto:development@aspca.org).  If you would like to speak with someone about your communication preferences, including removal from donor lists, please contact us at:
+How to control your communications preferences: We always honor our members’ requests to modify their communication preferences.  You may (a) opt-out of receiving communications from us, and/or (b) have your name and contact information removed from mailing lists that we share or sell by sending an email to us at [website@aspca.org](mailto:website@aspca.org) with your complete name, address and email address. The ASPCA assumes no responsibility for the data collection and use practices of third parties that process online credit card transactions.  You may request a record of your information by calling the Development Department at (212) 876-7700 during normal business hours, Monday-Friday, 9:00am-5:00pm or by e-mail at [solicitations@aspca.org](mailto:solicitations@aspca.org).  If you would like to speak with someone about your communication preferences, including removal from donor lists, please contact us at:
 
 Via Regular Mail:   
 ASPCA   
@@ -72,7 +72,7 @@ Attn.: Donor Stewardship 
 New York, NY 10128
 
 Via email:   
-[development@aspca.org](mailto:development@aspca.org)
+[solicitations@aspca.org](mailto:solicitations@aspca.org)
 
 Via Telephone:   
 (800) 628-0028
@@ -90,7 +90,7 @@ Attn.: Donor Stewardship 
 New York, NY 10128
 
 Via email:   
-[development@aspca.org](mailto:development@aspca.org)
+[solicitations@aspca.org](mailto:solicitations@aspca.org)
 
 Via Telephone:   
 (800) 628-0028
