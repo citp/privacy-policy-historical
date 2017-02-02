@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-print.com.hk privacy policy that was archived on 2015-05-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150516053732id_/http%3A//www.e-print.com.hk/en_foot_other_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-print.com.hk privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202051053id_/http%3A//www.e-print.com.hk/en_foot_other_privacy) for the most accurate reproduction.*
 
 # Privacy Policy - e-print
 
