@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the parcelmonkey.co.uk privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320070432id_/https%3A//www.parcelmonkey.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parcelmonkey.co.uk privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202084156id_/https%3A//www.parcelmonkey.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Parcel Monkey
+# Privacy Policy
 
 Parcel Monkey are committed to protecting and respecting your privacy.
 
@@ -122,18 +122,16 @@ This is a list of the main cookies we use and what each is used for:
 
 Cookie Name | Expires | Information  
 ---|---|---  
-__utma | 2 years | Used by Google Analytics. Each unique browser that visits a page on the site is provided with a unique ID via the __utma cookie. In this way, subsequent visits to the website via the same browser are recorded as belonging to the same (unique) visitor. Thus, if a person interacted with the website using different browsers, the Analytics reports would track this activity under two unique visitors. Similarly if the same browser were used by two different visitors, but with a separate computer account for each, the activity would be recorded under two unique visitor IDs. On the other hand, if the browser happens to be used by two different people sharing the same computer account, one unique visitor ID is recorded, even though two unique individuals accessed the site.  
+__utma | 2 years | Used by Google Analytics. Each unique browser that visits a page on the site is provided with a unique ID via the __utma cookie. In this way, subsequent visits to the website via the same browser are recorded as belonging to the same (unique) visitor. Thus, if a person interacted with the website using different browsers, the Analytics reports would track this activity under two unique visitors. Similarly if the same browser were used by two different visitors, but with a separate computer account for each, the activity would be recorded under two unique visitor IDs. On the other hand, if the browser happens to be used by two different people sharing the same computer account, one unique visitor ID is recorded, even though two unique individuals accessed the site.   
 __utmb | 30 min | Google Analytics uses these two cookies to establish a session. If either of these two cookies is absent, further activity by the user initiates the start of a new session.  
 __utmc | End of session |   
-__utmz | 6 months | When visitors reach the site via a search engine result, a direct link, or an ad that links to the page, Google Analytics stores the type of referral information in a cookie. The parameters in the cookie value string are parsed and sent in the GIF Request (in the utmcc variable). The expiration date for the cookie is set as 6 months into the future. This cookie gets updated with each subsequent page view to the site; thus it is used to determine visitor navigation within the site.  
+__utmz | 6 months | When visitors reach the site via a search engine result, a direct link, or an ad that links to the page, Google Analytics stores the type of referral information in a cookie. The parameters in the cookie value string are parsed and sent in the GIF Request (in the utmcc variable). The expiration date for the cookie is set as 6 months into the future. This cookie gets updated with each subsequent page view to the site; thus it is used to determine visitor navigation within the site.   
 PHPSESSID | End of session | This cookie is a unique identifier for sessions. It identifies a users session e.g. shopping basket, secure area log ins, email subscriptions.  
   
-
-
 ## Changes to our privacy policy
 
-This policy was last updated on the 25/05/2012. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+This policy was last updated on the 05/01/2017. Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
 
 ## Contact
 
-Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to info@parcelmonkey.com.
+Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [info@parcelmonkey.com](mailto:info@parcelmonkey.com).
