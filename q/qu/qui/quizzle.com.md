@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quizzle.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616225800id_/https%3A//www.quizzle.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quizzle.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202062614id_/https%3A//www.quizzle.com/security-and-privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Quizzle
 
