@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sfmta.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106031222id_/https%3A//www.sfmta.com/terms-use) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sfmta.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202212858id_/https%3A//www.sfmta.com/terms-use) for the most accurate reproduction.*
 
 # Terms of Use | SFMTA
 
