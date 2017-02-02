@@ -1,212 +1,252 @@
-> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314101429id_/https%3A//www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html%3Fclk%3DGFOOTER-BOTTOM-PRIVACY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwest.com privacy policy that was archived on 2017-02-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170202042511id_/http%3A//www.southwest.com/html/about-southwest/terms-and-conditions/privacy-policy-pol.html%3Fclk%3DGFOOTER-BOTTOM-PRIVACY) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy applies to the Southwest Airlines web site, **[www.southwest.com](http://www.southwest.com/)** as well as Southwest Airlines' web site specifically designed for business travelers, **[www.swabiz.com](http://www.swabiz.com/)**.
+Effective Date: August 30, 2016.
 
-Southwest Airlines cares about your privacy. When you visit the Southwest Airlines web site, the information you provide to us will be handled according to the standards outlined below.
+This Privacy Policy applies to information we collect in relation to your use of **[www.southwest.com](http://www.southwest.com/)** , **[www.swabiz.com](http://www.swabiz.com/)** , and any other websites, mobile and other applications, or services that post a link to this Privacy Policy (collectively, the “Service”). This Privacy Policy describes how Southwest Airlines Co., P.O. Box 36647 TOP-1CR, Dallas, Texas 75235 (“Southwest,” “Company,” “we,” or “us”) collects, uses and shares information about you.
 
-## Information Collection and Use
+By using our Service, you agree to our [Terms & Conditions](https://web.archive.org/html/about-southwest/terms-and-conditions/index.html?clk=GFOOTER-BOTTOM-TC) and consent to our collection, use and disclosure practices, and other activities as described in this Privacy Policy.
 
-### Purchases
+###  International Transfers
 
-If you purchase a product or service from us, we request certain personally identifiable information from you during the purchase process. You must provide contact information (such as name, phone number, and address) and billing information (such as a credit card number and expiration date) in order to complete a purchase.
+The information we collect from you through the Service may be transferred to, stored at, and processed in destinations outside the European Economic Area (“EEA”) or other country in which you are located, and may be accessible to the governments of such destinations under local law. This includes processing by us, our affiliates, our third party payment processing companies and other third parties who are described in the “Sharing of Information” section below. You agree to such transfer, storing and/or processing outside the EEA or other country in which you are located. We will take steps reasonably necessary to help secure your information and to treat your information that we have collected in accordance with this Privacy Policy.
 
-Additionally, the Transportation and Security Administration (TSA) requires us to request, and you to provide, your full name, date of birth, and gender for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your Redress Number, if available. Failure to provide your full name, date of birth, and gender may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA web site at [www.tsa.gov](http://www.tsa.gov/).
+Back to Top
 
-We use the information we collect during the purchase process, including the information we collect and submit to the TSA, for billing purposes, to fill your orders, for administrative, analytical, correspondence, and operational purposes, to customize advertisements and offers and for other marketing purposes, and for other purposes discussed in this privacy policy. If we have trouble processing an order, we will use this information to contact you.
+###  Information Collection
 
-### Contests & Surveys
+ **Information You Provide to Us**
 
-We may occasionally offer users the opportunity to participate in surveys or contests on our web site.
+We collect information you provide directly to us. For example, we collect information when you use our Service, register for our Service or set up a Southwest, SWABIZ® account, or Rapid Rewards® account, subscribe to our e-mails, mobile messages, or social media notifications, post on our forums or blogs, participate in the Rapid Rewards® Program, a sweepstakes, contest, promotion, survey, or poll, communicate with us via third party social media sites, shop our Service, order physical or digital gift cards, request customer support, apply for a job or otherwise communicate with us through the Service.
 
-If we have your e-mail address, we may also send you surveys or contest invitations by e-mail. We may have your e-mail address if:
+The types of information we may collect include Personal Information. "Personal Information" is information that can be used to identify you (whether alone or in combination), such as your first and last name, e-mail address, zip code, billing address, shipping address, phone number, payment card information, social media account information, travel preferences, birth date, redress number, demographic information, education, and occupation. It also may include sensitive information, such as present and future health status, and genetic information, to allow us to better serve your needs (for example, to assist you with boarding a flight if you need a wheelchair).
 
-  * You have made a purchase on our web site and provided your e-mail address during the purchase process
-  * You have set up a Rapid Rewards® account, a Southwest account, SWABIZ® Traveler Account, or other Southwest Airlines account and provided your e-mail address either during the registration process or when updating your account information
-  * You provide a friend’s e-mail address when you refer the friend to one of our web pages
-  * We have received your e-mail address by any other means
+You may choose to voluntarily submit certain other information to us through the Service, including Personal Information, but you are solely responsible for your own Personal Information in instances where we have not collected such information or requested that you submit such information to us.
 
+**  
+Information We Collect Automatically**
 
+We and our service providers automatically collect certain information about you when you access or use our Service. This information may include, without limitation, demographic information; IP address; browser/device/hardware type; operating system characteristics; information about your use of our Service; and data regarding network connected hardware (e.g., computer or mobile device), such as unique device identifiers, type, model, version, MAC address, device or session ID, error related data status, capability, confirmation, functionality, performance data, and connection type. This information may also include clickstream data, which is information about the page-by-page paths you take as you browse through the Service.
 
-If you choose to participate in a contest or survey, we may request certain personally identifiable information from you. This information may include contact information (such as name, e-mail address, phone number, and shipping address) and optional demographic information (such as your age and gender).  
+This information is gathered by certain tools and methods such as:
 
-Participation in these surveys or contests is completely voluntary and you therefore have a choice whether or not to disclose this information. We may use this information to administer the contest or survey (e.g., notify contest winners, award prizes, and update participant’s profiles). We may also use this information to improve the web site experience for our Customers, to improve our product or service offerings, or for other internal business uses.
+  * _Log Information:_  We collect information about your use of our Service, such as the type of browser you use, access times, pages viewed, your IP address and the referring link through which you accessed our Service.
+  * _Information Collected by Cookies and Other Tracking Technologies:_  We may use cookies, web beacons (also known as "tracking pixels"), embedded scripts, location-identifying technologies, in-app tracking methods, and other tracking technologies to collect information about you when you interact with our Service or e-mails, including information about your browsing and purchasing behavior. We may combine this information with other information we collect about you and use it for various purposes, such as improving our Service and your online experience, understanding which areas and features of our Service are popular, counting visits, understanding campaign effectiveness, tailoring our communications with you, determining whether an e-mail has been opened and/or links within the e-mail have been clicked, and for other internal business purposes _Cookies._
+    * _Cookies:_ Cookies are data files that are placed on a computer when it is used to visit a website. These cookies may be used for many purposes, including, without limitation, tracking user preferences or web pages visited while using our Service. Most web browsers are set to accept cookies by default. If you prefer, you can usually set your browser to remove or reject cookies. Please note that if you choose to remove or reject cookies, this could affect the availability and functionality of our Service. For example, cookies allow us to store items in your cart between visits. In addition, please be aware that if you choose to block cookies, some advertising preferences that are dependent on cookies may not be able to be respected.
+    * _Web Beacons:  _We may include small graphic images called web beacons, also known as "Internet tags" or "clear gifs," in our web pages and e-mail messages. We may use web beacons or similar technologies for a number of purposes, including, without limitation, to count the number of visitors to our Service, to monitor how users navigate the Service, and to count how many e-mails that we sent were actually opened or how many particular articles or links were actually viewed.
+    * _Embedded Scripts:  _An embedded script is programming code that is designed to collect information about your interactions with the Service. It is temporarily downloaded onto your computer from our web server or a third party with whom we work, is active only while you are connected to the Service, and is deleted or deactivated thereafter.
+    * _Location-identifying Technologies:  _We and our third party service providers may use GPS (global positioning systems) software and other location-based technologies to locate you so we may verify your location, and deliver relevant content to you based on your location.
+    * _In-App Tracking Methods:  _There are a variety of tracking technologies that may be included in mobile applications, and these are not browser-based like cookies and cannot be controlled by browser settings. Some use device identifiers, or other identifiers such as “Ad IDs” to associate app user activity to a particular app.
 
-We may use third party service providers to conduct these surveys or contests. These companies are prohibited from using our users’ personally identifiable information for any other purpose. These third parties are bound by contract to Southwest Airlines to use adequate security measures to protect your personal information.
 
-### Forward-to-a-Friend and Refer-a-Friend
 
-You may use a referral feature (either on a web page, in an e-mail, from a banner ad or other communication) to inform a friend about a Southwest web page or promotion. Southwest may use any e-mail address provided when using this referral feature to send an e-mail on your behalf to such designated recipients about the particular promotion, product, or service in which you indicated your "friend" may have an interest.
+Information we automatically collect about you, such as how you interact with our Service, may be combined with your Personal Information. If we associate any such automatically-collected information with Personal Information about you, we will treat the combined information as Personal Information.
 
-### Non Personally Identifiable Information We Collect
+We and our business partners and other third parties may send you product promotions that are aligned with your purchase trends and/or interests identified through automatically-collected information.
 
-In some cases, Southwest may collect information about you that is not personally identifiable. Examples of this type of information include, but are not limited to the frequency of your use of this web site and the route by which you choose to access it, and your use of any hyperlinks available on this web site. We and our service providers or agents may process and use this data for purposes including, but not limited to planning web site development, assessing patterns of use, planning and assessing marketing initiatives by Southwest. This information is gathered by certain tools and methods such as the collection of your IP address or the use of cookies.  
- **  
-IP Addresses**
+**  
+Information We Collect From Our Partners and Other Sources**
 
-We use your IP address to help diagnose problems with our server, to administer our web sites, and for other purposes discussed in this privacy policy. We do not link IP addresses to personally identifiable information except for fraud prevention.
+We may also obtain information about you (such as e-mail and address) from other sources and combine that with information we collect about you. If we receive Personal Information from a third party source and/or if we combine the information we receive from these third party sources with your Personal Information, we will treat that information as Personal Information. We are not responsible for the accuracy of the information provided by third parties or how such third parties collect, use and share such information.
 
- **Cookies**
+We may obtain information from our partners and append it to our existing user information to better understand users’ interests and to provide more relevant content and advertising.
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on all Southwest affiliated web sites and emails covered by this Privacy Policy. We may store certain personally identifiable information you submit while on our web sites in persistent cookies on your computer in an encrypted format.
+We may append information about you that is publicly available or information that is aggregated and/or depersonalized by partners. This information may include, for example, your travel preferences and activity, household income range, or postal code. This information may be associated with personal information as described herein, such as email address, physical address, first and last name combined, or phone number. We may use a third party vendor with whom we share your information to assist with this.
 
-We use both session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our web sites. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. You can remove persistent cookies by following directions provided in your Internet browser's "help" file.
+Back to Top
 
-We set a persistent cookie to store certain information, including your account number, so you don't have to enter it each time you want to log-in to your Rapid Rewards, Southwest or SWABIZ® account. Persistent cookies also enable us to track and target the interests of our users to enhance their experience on our site as well as provide more relevant content in our e-mails. Southwest Airlines has agreed to allow a select group of marketing platforms to place persistent cookies in our web sites, Southwest Airlines emails and Rapid Rewards emails. In addition to use on our web sites, these cookies may be used for targeted online advertising by both Southwest and third party merchants on third party websites. These cookies do not enable a marketing platform to collect personally identifiable information.
+###  Use of Information
 
-**Opt-out  
-** To opt-out from our marketing platform’s persistent cookies click [here](https://smetrics.southwest.com/optout.html?optout=1&confirm_change=1). (please note that if you delete your cookies or switch to a different browser you will have to repeat this procedure). Use of the cookies by the marketing platforms is subject to their privacy policies.
+We may use information about you for various purposes. Primary purposes for use of information include to:
 
-If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited and we may not be able to provide you with the most convenient experience.
+  * Facilitate, personalize, and improve your online or app experience;
+  * Process your registration with our Service, including verifying that your e-mail address(es) are active and valid and enrolling you the Rapid Rewards® Program;
+  * Manage your profile(s) and online account(s), including purchases, orders, payments, returns, exchanges, and blog comments;
+  * Process and deliver frequent flyer points, sweepstakes, contest, promotion, and survey entries and rewards;
+  * Respond to your comments, questions and requests and provide customer service;
+  * Send you technical notices, updates, security alerts and support and administrative messages;
+  * Contact you regarding your use of our Service and, in our discretion, changes to our policies; and
+  * Prevent fraudulent transactions and monitor against threats.
 
-### Site Usage Profile
 
-We store and use certain personally identifiable information and information that we collect through cookies and log files to create a site usage profile of your preferences. We may use this information to provide you with targeted advertisements and offers on our web site. In addition we may provide this information to our select marketing platforms, and these cookies may be used for targeted online advertising by both Southwest and third party merchants on third party websites.
 
-### Southwest Account, SWABIZ®, and Rapid Rewards® Registration
+In addition, there may be secondary purposes for use of information, such as to:
 
-You are not required to establish a Southwest account (also referred to as a SWABIZ Traveler account for the uses of our SWABIZ web site designed for corporate use) to use this web site, however some features of our site are not available to unregistered users. For example, you must have a Rapid Rewards, Southwest or SWABIZ account to save your travel preferences (such as the type of rental car you prefer or your favorite travel routes) for future travel arrangements made through our website, store credit card information so that you do not need to re-enter it for future purchases, have access to special Members-only promotions and discounts.
+  * Create a site usage profile of your preferences and provide advertisements, content or features that match your profile and interests;
+  * Communicate with you about products, services, offers, promotions, rewards and events and provide news and information we think will be of interest to you (for information about how to manage these communications, please see the [Your Choices](https://web.archive.org/html/about-southwest/terms-and-conditions/privacy-policy-pol.html#Your_Choices "Go to "Your Choices" section") section below);
+  * Monitor and analyze trends, usage and activities;
+  * Link or combine with information we get from others to help understand your needs and provide you with better service;
+  * Improve our Service and other Southwest websites, applications, marketing efforts, products and services;
+  * Conduct research and analysis, including focus groups and surveys, on our Service and other Southwest websites, applications, products and services;
+  * Retarget across other sites (as described in the Advertising & Analytics Services and Online Tracking section below);
+  * Carry out any other purpose disclosed elsewhere in this Privacy Policy or at the time you provide your Personal Information; and
+  * Any other purpose, with your consent or as permitted or required by applicable law.
 
-If you would like to take advantage of the conveniences available through special Southwest account or SWABIZ features, you must first register for a Southwest or SWABIZ account. Additional features are available to Rapid Rewards Members. To take advantage of those additional features, you must first enroll in the Rapid Rewards program. During registration, you are required to provide contact information (which may include name, address, phone number, e-mail address, and birth date).
 
-Additionally you have the option to provide demographic information, social media account information, and travel preferences to us; we encourage you to submit this information so we can provide you a more personalized experience on our site, send you valuable offers, and otherwise better serve you online. We may use the preferences you store in your profile to send you special targeted e-mails based on these preferences. For example, if you express a preference for a specific type of rental car, we may send you special offers for renting this type of vehicle.
 
-**Rapid Rewards Program**
+Whether a use is primary or secondary may change over time. Some of the information we collect for primary purposes may be used for secondary purposes.
 
-If you do not already have a Rapid Rewards account, you can easily establish one during the Southwest account or SWABIZ registration process. Electing to establish a Rapid Rewards account will enroll you in the Southwest Airline frequent flyer program and give you the opportunity to earn rewards. You will not be able to earn points toward reward flights if you elect to not sign up for this program. As a Rapid Rewards Member, you may also receive special offers by e-mail simply for being a Member of the Rapid Rewards program.
+Back to Top
 
-We may use the personally identifiable information you provide when you become a Rapid Rewards Member for analytical, administrative, marketing, correspondence or other operational or business purposes. For more information on how we may use your personally identifiable information as a Rapid Rewards Member please see our **Customer Communications** section below.
+###  Sharing of Information
 
-## Customer Communications
+Our agents, vendors, consultants, and other service providers have access to Personal Information to carry out work on our behalf. These third party service providers are prohibited from using your Personal Information for any purpose other than to provide this assistance, and they must provide protections to your Personal Information that are no less protective than those set out in this Privacy Policy. Southwest is not liable for the acts or omissions of these third party service providers except to the extent required by applicable law.
 
-### Post Purchase E-mail Communication
+We may share information about you for various purposes. Primary purposes for sharing of information include:
 
-When you make a travel reservation with us and you provide your e-mail address during the purchase process, we may send you trip-related emails, including, without limitation, emails that (a) confirm the details of your purchase, (b) describe service-related information in connection with your reservation or to inform you of upgrades or product enhancements related to your purchase, (c) request feedback on our services and/or your specific travel experiences, or (d) include special offers for products or services from Southwest Airlines or our marketing partners related to your trip.
+  * With the Transportation and Security Administration (“TSA”) as legally permitted or required under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560;
 
-### E-mail Promotions, Offers, and Updates
 
-As a Member of the Rapid Rewards® program, you may receive Rapid Rewards e-mail communications, which may include program news and special offers, either during the Rapid Rewards enrollment process or from your Rapid Rewards account preferences web page. During enrollment, the default option is to receive both Rapid Rewards e-mail products.  If you are not interested in receiving these messages with special Members-only news and offers, the boxes should be unchecked prior to submitting the enrollment form. You may also opt-out of receiving these messages at any time by adjusting your preferences through the account preferences webpage.
+  * To the maximum extent permitted by applicable law, in response to (i) subpoenas or other legal process or if in our good faith opinion such disclosure is required or permitted by law; and/or (ii) at the request of governmental authorities conducting an investigation;
+  * To defend the Terms & Conditions or other policies applicable to our Service;
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property, life, health, security and safety of us or any third party;
+  * To the maximum extent permitted by applicable law, we may also use IP addresses, mobile device identifiers or any other information we collect to identify users, and may do so in cooperation with copyright owners, Internet service providers, wireless service providers or law enforcement agencies in our discretion. Such disclosures may be carried out without notice to you;
+  * With our service providers for purposes of managing and fulfilling your travel reservations, product purchases, and Rapid Rewards® Program points. For example, we may share your information with our Rewards® Partners to help facilitate your purchase, transfer, or gift of Rapid Rewards® points.
+  * With our service providers to verify your address in order to ensure we maintain the accuracy of our database;
+  * With our affiliates for internal business purposes (including but not limited to managing your travel and/or accounts); and
+  * In connection with, or during negotiations of, any proposed or actual merger, purchase, sale (including a liquidation, realization, foreclosure or repossession), lease, amalgamation or any other type of acquisition of all or any portion of Southwest assets, financing, disposal, conveyance or transfer of all or a portion of our business to another company.
 
-We also provided you with the option of subscribing to our Click 'n Save® and In A Nutshell™ e-mail updates without establishing a Rapid Rewards or Southwest account.  To do so, click on the subscribe links below.  If you are no longer interested in receiving Click 'n Save and/or In A Nutshell™ e-mails, you may unsubscribe from these services by clicking on an opt-out link provided in each e-mail.
 
-For your convenience, a brief description of the periodic e-mails you may choose to receive from us is also provided in the list below along with links to either subscribe or unsubscribe (as applicable) to each option.  
 
-**Click 'n Save ® Special Offers E-mail  
-**Weekly e-mail highlighting travel deals on flights, car rentals, hotels, cruises, and Southwest Vacations[  
-Subscribe](https://web.archive.org/html/email/click_n_save_signup.html) | [Unsubscribe](https://web.archive.org/account/info/view-communication-prefs)
+In addition, there may be secondary purposes for sharing of information, such as:
 
-**In A Nutshell™ News & Promotions E-mail**  
-An e-mail featuring announcements, upcoming promotions, events, contests, new products, and partner offers[  
-Subscribe](https://web.archive.org/flight/subscription/ian-email-subscribe.html) | [Unsubscribe](https://web.archive.org/account/info/view-communication-prefs)
+  * With our business partners, affiliates and other third parties for purposes of sending their own marketing. For example, we may share your information with our financial institution Rewards® Partners for their direct marketing purposes, which may include, but is not limited to, marketing their co-branded credit cards to you;
+  * With third parties who conduct analytics or data appending (such as the process described above) in order for us to offer you more relevant products and services;
+  * For a purpose disclosed elsewhere in this Privacy Policy, or at the time you provide your Personal Information; and
+  * With your consent or at your direction or as required or permitted by applicable law.
 
-**Rapid Rewards ® E-mail Updates**  
-Rapid Rewards news and offers for Members only  
-[Subscribe](https://web.archive.org/rapidrewards/emails) | [Unsubscribe](https://web.archive.org/account/info/view-communication-prefs)
 
-**Rapid Rewards Reports  
-** Monthly report containing Rapid Rewards account balance information, news, promotions and offers for Members only  
-[Subscribe](https://web.archive.org/rapidrewards/emails) | [Unsubscribe](https://web.archive.org/account/info/view-communication-prefs)
 
-### Other E-mail Communication
+Whether sharing is primary or secondary may change over time. Some of the information we share under primary purposes may be shared for secondary purposes.
 
- **SWABIZ ® Corporate Travel Manager E-mail Updates  
-**News related to SWABIZ, Southwest's Business Travel website; for registered Corporate Travel Managers only  
-[Contact Your Area Marketing Manager](http://www.swabiz.com/html/air/business-groups/about-swabiz.html) to Subscribe or Unsubscribe.
+In our sole discretion, we may also share aggregated or de-identified information that cannot reasonably be used to identify you with third parties or affiliates.
 
-**SWAMedia and Investor Relations E-mail Alerts  
-** Southwest Airlines news releases and investor information  
-[Subscribe](http://investors.southwest.com/investor-resources/email-alerts) | [Unsubscribe](http://investors.southwest.com/investor-resources/email-alerts)
+Back to Top
 
-### Promotional Mailings
+###  Information You Disclose Publicly or to Others
 
-As a Southwest Customer, Southwest account, SWABIZ®, or Rapid Rewards® Member, you may receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners.  If you do not wish to receive such promotional mailings, you may call Rapid Rewards Customer Relations at 1-855-234-4654.
+The Service may permit you to submit ideas, photographs, user profiles, writings, music, video, audio recordings, computer graphics, pictures, data, questions, comments, suggestions or other content, including Personal Information (collectively, “User Content”), such as on blogs and forums, and in association with your account and user profile. We or others may store, display, reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed) and may or may not attribute it to you. Others may have access to this User Content and may have the ability to share it with third parties. Please think carefully before deciding what information you share, including Personal Information, in connection with your User Content. Please note that Southwest does not control who will have access to the information that you choose to make public, and cannot ensure that parties who have access to such publicly available information will respect your privacy or keep it secure. We are not responsible for the privacy or security of any information that you make publicly available on the Service or what others do with information you share with them on the Service. We are not responsible for the accuracy, use or misuse of any User Content that you disclose or receive from third parties through the Service. We are not responsible for User Content you submit to third party services via our Service.
 
-### Account Information
+Back to Top
 
-We currently send non-promotional e-mails to our Rapid Rewards® Members containing account and award status notifications, to notify Members of program updates, and to communicate other program-related information.
+###  Rapid Rewards®, Sweepstakes, Contests, and Surveys
 
-### Service-Related Announcements
+We may offer you the opportunity to participate in our Rapid Rewards® Program, sweepstakes, contests, surveys, and other promotions (each, a “Promotion”) that may require registration or for you to submit Personal Information through the Service. Participation in these Promotions is completely voluntary. If you choose to enter a Promotion, your Personal Information may be disclosed to third parties in connection with the administration of such Promotion, such as in connection with winner selection, prize fulfilment, and as required by law, such as on a winners list. By entering a Promotion, you are agreeing to the official rules that govern that Promotion, which may contain specific requirements of you, including, except where prohibited by law, allowing the sponsor and/or other parties to use your name, voice and/or likeness in advertising or marketing materials. Southwest may offer opportunities to enter a Promotion or other feature that we offer jointly with a third party. As a result of your participation in such feature, your information may be shared with the third party that is jointly offering the feature, which will be disclosed at the time your information is collected.
 
-When you purchase our services, or as a member or subscriber of our Click 'n Save® e-mail updates, Southwest account, SWABIZ®, and/or our Rapid Rewards® program, we will send you service-related announcements that may affect your account, flight reservations you have made or your ability to use the services we offer.  For instance, if there is a problem with your flight we may send you an e-mail notifying you of any such issues.  You may not opt-out of these communications, which are informational in nature.
+Back to Top
 
-### Customer Feedback
+###  Advertising & Analytics Services and Online Tracking
 
-We like to hear from our Customers and encourage you to e-mail us your comments, questions or other feedback.  By submitting such information along with your e-mail address, you consent to receiving e-mail from us in response to your feedback or question.
+We engage third parties to serve advertisements on our behalf across the Internet and to provide analytics about the use of our Service. In addition, we may participate in online advertising networks and exchanges that display relevant advertisements to our Service visitors based on their interests as reflected in their browsing of the Service and certain third party sites participating in the same networks and exchanges. These entities may use cookies, web beacons, pixels, embedded scripts, and other technologies to automatically collect information about your use of the Service, such as your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by us and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on the Service and other websites and better understand your online activity. Data collected from a particular browser or device may be used with another computer or device that is linked to the browser or device on which such data was collected, or transferred to a non-affiliate for such purposes.
 
-## Customer Profile
+This means that some information about your browsing of the Service and certain third party sites may be shared with these companies for the purpose of delivering ads to you on the Service and certain third party sites, and Southwest may receive from some of these companies information about third party sites that you have visited. This information is used for marketing purposes and the practice is sometimes termed "retargeting" to indicate that information from one retailer is used to suggest to you relevant products offered by another retailer.
 
-### Supplementation of Information
+These and other third parties may also collect Personal Information about your online activities over time and across different websites when you use our Service.
 
-We may on occasion supplement the personally identifying information you submit to us with information from third party sources.
+We may also work with third parties to serve ads to you as part of a customized campaign on other websites or platforms.
 
- **Address Verification**
+This Privacy Policy does not cover any use of information that such third parties themselves may have collected from you (e.g., type of browser, operating system, domain name, day and time of visit, page(s) visited) or the methods used by the third-parties to collect that information (e.g., cookies, web beacons and clear gifs).
 
-We use a third party to verify your address in order to ensure we maintain the accuracy of our database.
+Note that your browser settings may allow you to automatically transmit a “Do Not Track” signal to websites and online services you visit. There is no consensus among industry participants as to what “Do Not Track” means in this context. Like many websites and online services, Southwest currently does not alter its practices when it receives a “Do Not Track” signal from a visitor’s browser. To find out more about “Do Not Track,” you may wish to visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/ "Find out more about "Do Not Track"").
 
- **Enhancement of Profile Information**
+Certain advertising networks and exchanges may participate in the Digital Advertising Alliance ("DAA") AdChoices Program and may display an Advertising Option Icon for interest-based ads. You can learn more about the DAA AdChoices Program at [http://www.youradchoices.com](http://www.youradchoices.com/ "Learn more about the DAA AdChoices Program") and its opt out program for mobile applications at <http://www.aboutads.info/appchoices>. In addition, certain advertising networks and exchanges may participate in the Network Advertising Initiative (“NAI”). NAI has developed a tool that allows consumers to opt out of targeted advertising delivered by NAI members' ad networks. To learn more about opting out of targeted advertising or to use the tool, visit <http://www.networkadvertising.org/choices/>. We are not responsible for effectiveness of, or compliance with, any third-parties’ opt out options or programs or the accuracy of their statements regarding their programs.
 
-We also obtain data from third parties to supplement our existing user database to better target our advertising and to provide pertinent offers in which we think you might be interested.  To enhance our Customer profiles, we tie this information to the personally identifiable information they have provided to us.
+Southwest also has a specific marketing platform that uses persistent cookies. To opt out from our marketing platform’s persistent cookies click [here](https://web.archive.org/html/about-southwest/terms-and-conditions/cookies-opt-out.html "Click to opt out of our marketing platform's persistent cookies") (please note that if you delete your cookies or switch to a different browser you will have to repeat this procedure). Use of cookies by Southwest’s marketing platform is subject to its privacy policies. Please be aware that, even if you are able to opt out of certain kinds of targeted advertising, you will continue to receive generic ads.
 
-## Information Sharing & Disclosure
+Back to Top
 
- **Company - Agents**
+###  Social Features
 
-We use outside companies to fulfill orders for Rapid Rewards® points and select travel products. We also use third party payment processing companies to bill you for goods and services, or for other purposes within the ordinary course of business. We make these companies commit to contract (1) to provide protections for your personally identifiable information that are no less protective than those set out in this privacy policy, and (2) to use your personally identifying information only for the purposes for which the third party has been engaged by Southwest Airlines. Southwest Airlines is not liable for the acts or omissions of these third parties except to the extent required by applicable law.
+Certain functionality on the Service is specifically designed to permit interactions that you initiate between the Service and third party websites or services, including third party social networks (“Social Features”). Examples of Social Features include enabling you to transmit content to the Service from your account on a third party website or service; to “like” or “share” our Service content to other websites or services; to log-in to the Service using your username and password for a third party site or service; and to otherwise connect our Service to a third party website or service.
 
- **Product and Service Suppliers**
+If you choose to use Social Features, information you post or provide access to, including User Content, may be publicly displayed on our Service or by the provider of the Social Feature that you use. Similarly, if you post information on a third party platform that references our Service (e.g., by using a hashtag associated with Southwest in a tweet or status update), your post may be published on our Service in accordance with the terms of the third party website or service. Also, both Southwest and the third party may have access to certain information about you and your use of our Service and the third party site or service. In addition, we may receive information about you if other users of a third party website give us access to their profiles and you are one of their “connections,” or information about you is otherwise accessible through your “connections” web pages, profile pages, or similar pages on a social networking or other third party website or interactive service.
 
-Third party service and product suppliers may fulfill your travel reservation or product purchases. We do not share your e-mail address with these suppliers unless they need it in connection with travel reservations you have made on **southwest.com**.
+The information we collect in connection with Social Features is subject to this Privacy Policy. The information collected and stored by the third parties remains subject to those third parties’ privacy practices, including whether the third parties continue to share information with us, the types of information shared, and your choices with regard to what is visible to others on those third party websites or services.
 
-We do not limit our suppliers' use or disclosure of personally identifiable information that you may supply to them. Therefore, we encourage you to review the privacy policies of any supplier whose products you purchase through **southwest.com**. These suppliers also may contact you as necessary to obtain additional information about you for your travel reservation.
+Back to Top
 
-**Aggregate Disclosure**
+###  Refer-a-Friend
 
-We may also share information that we collect in the aggregate with third parties, including, without limitation, our marketing partners.
+You may use a referral feature to inform a friend about our services. Southwest may use any e-mail address provided when using this referral feature to send a single e-mail to such designated recipients about products, services, offers, promotions, rewards and events and provide news and information we think will be of interest to such designated recipients. By using a referral feature, you represent that you and your friend are United States citizens and that you have permission to provide your friend’s email address. Southwest will not be responsible for the accuracy of the information you provide.
 
-### Rapid Rewards Partners
+Back to Top
 
-We provide the name, address and other account information of our Rapid Rewards Members to our preferred marketing partners. These companies do not retain, share, store or use personally identifiable information for any purpose other than to send our Rapid Rewards® Members approved marketing offers.
+###  Third Party Websites
 
-### Legal Disclaimer
+The Service contains hyperlinks to other websites or locations that we do not control and are operated and controlled by third parties ("Third Party Websites"). We make no representations regarding the policies or business practices of such Third Party Websites and encourage you to familiarize yourself with their privacy policies before providing them with your Personal Information. Our Privacy Policy does not apply to these Third Party Websites. You should read the privacy policy of each Third Party Website as these Third Party Websites may use their own cookies, web beacons and other technology to independently collect information about you. In addition, these Third Party Websites may solicit Personal Information from you.
 
-We reserve the right to disclose your personally identifiable information as required by law if we believe that disclosure is necessary to protect our rights, for fraud detection or prevention, and/or to comply with a judicial proceeding, court order or other legal processes.
+Back to Top
 
-### Business Transitions
+###  TSA Guidelines
 
-In the event Southwest Airlines Co. goes through a business transition, such as a merger, acquisition by another company, or sale (including transfers made as part of insolvency or bankruptcy proceedings or any other change in corporate control) of all or a portion of its assets, your personally identifiable information may be among the assets transferred or shared.
+The TSA requires us to request, and you to provide, your full name, date of birth, and gender for the purpose of watch list screening, under the authority of 49 U.S.C. section 114, the Intelligence Reform and Terrorism Prevention Act of 2004 and 49 C.F.R parts 1540 and 1560. You may also provide your redress number, if available. Failure to provide your full name, date of birth, and gender may result in denial of transport or denial of authority to enter the boarding area. TSA may share information you provide with law enforcement or intelligence agencies or others under its published system of records notice. For more on TSA privacy policies, or to review the system of records notice and the privacy impact assessment, please see the TSA web site at [www.tsa.gov](http://www.tsa.gov/ "Visit the TSA website").
 
-## Links to Other Sites
+Back to Top
 
-Southwest web sites covered by this Privacy Policy contain links to other sites that are not owned or controlled by Southwest Airlines Co. Please be aware that we are not responsible for the privacy practices of these other sites.
+###  Touch ID
 
-We encourage you to be aware when you navigate away from our site and to read the privacy policies of any other website that you visit that collects personally identifiable information. We provide links to third party websites that you visit that collects personally identifiable information. These links are not intended as an endorsement or referral to the linked web sites. The linked web sites have separate and independent privacy statements, notices, and terms of use, which we recommend you read carefully. We do not have any control over such web sites, and therefore we have no responsibility or liability for the manner in which the organizations that operate such linked web sites may collect, use or disclose, secure and otherwise treat your personally identifiable information.
+If you use the Service through an Apple, Inc. (“Apple”) Device, we may offer Touch ID as an alternative log-in method to password. We are only notified as to whether the authentication was successful and cannot access Touch ID or the data associated with the enrolled fingerprint. For more details, see Apple’s iOS Security Guide at: <https://www.apple.com/business/docs/iOS_Security_Guide.pdf>.
 
-## Children
+Back to Top
 
-Southwest Airlines web sites are targeted at general audiences. We do not knowingly collect personally identifiable information from children under the age of 13. If you are under the age of 13, please do not provide personally identifiable information of any kind whatsoever.
+###  Your Choices
 
-If a child provides us with personally identifiable information, a parent or guardian of that child may contact us by sending an e-mail to [protect@wnco.com](mailto:protect@wnco.com) or by [contacting us](https://web.archive.org/contact-us/contact-us.html) by phone or postal mail if they would like this information deleted from our records.
+ **Profile and Apps**
 
-## Changes, Corrections & Deletions
+You are responsible for maintaining the accuracy of the information you submit to us, such as your contact information provided as part of registration. The Service may allow you to access, review, correct, update, and remove or make inaccessible Personal Information you have provided through the Service’s registration or otherwise, and you may provide registration updates and changes by logging into your Southwest account, SWABIZ® account, or Rapid Rewards® account, or contacting us by phone, e-mail, or postal mail as detailed [here](https://web.archive.org/contact-us/contact-us.html "Contact us here").
 
-If you think we may have incorrect personally identifiable information about you or if your information changes, you may correct or update the information online by logging in to your Southwest, SWABIZ® or Rapid Rewards® account. You may also modify your account information or deactivate your account by [contacting us](https://web.archive.org/contact-us/contact-us.html) by phone or postal mail.
+With respect to our mobile and other applications, you can prospectively stop all collection of information by the application by uninstalling the application. Also, you may at any time opt out from further allowing us to have access to your location data by adjusting the permissions in your mobile device.
 
-## Your Online Password
+We will make good faith efforts to make requested changes in our then-active databases as soon as reasonably practicable (but we may retain prior information as business records). Please note that it is not always possible to completely remove or delete all of your information from our databases and that residual data may remain on backup media or for other reasons. Also, if you have made any public postings on the Service such as in forums or blogs, these communications cannot generally be removed, except California minors should see the [Children](https://web.archive.org/html/about-southwest/terms-and-conditions/privacy-policy-pol.html#Children "Go to the "Children" section") section below.
 
-Your Rapid Rewards® or Southwest account online password is unique to your account and is designed to protect your account from unauthorized use. Southwest Airlines will not be responsible for any lost, stolen, or otherwise disclosed passwords. Additionally, Southwest Airlines will not replace or reinstate any flight points, partner points, or program awards that are generated or redeemed by unauthorized password activity. Accordingly, your password should be guarded and not provided to anyone.
+**  
+Promotional Communications**
 
-  
-We do not require your social security number to enroll in the Rapid Rewards Program, create a Southwest or SWABIZ account or when you make a purchase. You do, however, have the option to provide the last four digits of your social security number when you establish a Rapid Rewards account. This information will help us confirm your identity on **southwest.com**.
+You can opt out of receiving promotional e-mail communications from us at any time by following the instructions provided in those communications or e-mail us as detailed [here](https://web.archive.org/contact-us/contact-us.html "Contact us here")
 
-## Contact Us
+As a Southwest customer, Southwest account holder, SWABIZ®, or Rapid Rewards® Member, or user of the Services, you may also receive periodic promotional postal mailings from Southwest Airlines and/or our select marketing partners. If you do not wish to receive such promotional mailings, you may call Rapid Rewards® Customer Relations at 214-932-0333 (Monday - Friday, 7am-8pm CT).
 
-If you have any questions, complaints or suggestions regarding our privacy policy, please [contact us](https://web.archive.org/contact-us/contact-us.html).
+Please note that even if you opt out of receiving promotional communications, we may continue to send you non-promotional e-mails and other types of communications, as permitted by law, such as those about our ongoing business relations. For example, we may send e-mails that contain service-related announcements that affect your account, confirmations and updates regarding flight reservations you have made, requests for feedback on our services and/or your specific travel experiences, or responses to your comments and feedback submitted to us.  
 
-## Changes in Privacy Policy
+Southwest mobile applications may send you notifications that may include alerts, sounds, and icon badges. These push notifications or in-app messages may include both operational messages and promotional messages regarding products, services and offers that may be of interest to you. Push notifications can be configured in settings on your mobile device. As with e-mails, even if you opt out of receiving promotional communications, we may continue to send you non-promotional push notifications, such as those about your use of the applications or our ongoing business relations.
 
-This privacy policy is current as of the effective date set forth below. Southwest Airlines Co. reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles. If we make changes to this Privacy Policy we will notify you by publication here. If the changes are material, we will provide you additional, prominent notice as appropriate under the circumstances.
+Back to Top
 
-[Additional Privacy Policy for Mexico](https://web.archive.org/html/about-southwest/terms-and-conditions/mexican-privacy-policy.html)
+###  Children
 
-You may use a referral feature (either on a web page, in an e-mail, from a banner ad or other communication) to inform a friend about a Southwest web page or promotion. Southwest may use any e-mail address provided when using this referral feature to send an e-mail on your behalf to such designated recipients about the particular promotion, product, or service in which you indicated your "friend" may have an interest.
+Our Service is not intended for and is not targeted to children under the age of thirteen (13). If you are a child under the age of thirteen (13), you are not permitted to use the Service and should not send any information about yourself to us through the Service.
+
+We do not knowingly collect any personal information from children under the age of 13 and, if we learn that we have received information from a user under the age of 13, we will delete this information in accordance with the Children’s Online Privacy Protection Act (“COPPA”). If you are a parent or guardian and you believe that your child under the age of thirteen (13) has provided us with personal information without COPPA-required consent, please contact us by e-mail as detailed [here](https://web.archive.org/contact-us/contact-us.html "Please contact us by email").
+
+Any California residents under the age of eighteen (18) who have registered to use the Service, and who have posted content or information on the Service, can request that such information be removed from the Service by contacting us by e-mail as detailed [here](https://web.archive.org/contact-us/contact-us.html "Request that information be removed from the Service") or by sending a letter to Southwest Airlines Co., P.O. Box 36647 TOP-1CR, Dallas, Texas 75235 (Attention: Legal Counsel), stating that they personally posted such content or information and detailing where the content or information is posted. We will make reasonable good faith efforts to remove the post from prospective public view or anonymize it so the minor cannot be individually identified. This removal process cannot ensure complete or comprehensive removal. For instance, third parties may have republished the post and archived copies of it may be stored by search engines and others that we do not control.
+
+Back to Top
+
+###  Your California Privacy Rights
+
+California law permits customers in California to request certain details about how their information is shared with third parties and, in some cases, affiliates, for those third parties’ and affiliates’ own direct marketing purposes.
+
+We may from time to time elect to share certain information about you collected by us on the Service with third parties or affiliates for those third parties’ or affiliates’ own direct marketing purposes. For example, we may share your information with our financial institution Rewards® Partners for their direct marketing purposes, which may include, but is not limited to, marketing their co-branded credit cards to you.
+
+If you are a California resident, you may request information about our compliance with this law by contacting us by e-mail as detailed [here](https://web.archive.org/contact-us/contact-us.html "Contact us by email") by sending a letter to Southwest Airlines Co., P.O. Box 36647 TOP-1CR, Dallas, Texas 75235 (Attention: Legal Counsel). Any such request must include "California Privacy Rights Request" in the first line of the description and include your name, street address, city, state, and ZIP code. Please note that we are only required to respond to one request per customer each year, and we are not required to respond to requests made by means other than through this e-mail address or mail address.
+
+Back to Top
+
+###  Data Security
+
+We take reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. Although Southwest uses reasonable efforts to help protect your information, transmission via the Internet is not completely secure and Southwest cannot guarantee the security of your information collected through our Service. Further, you are responsible for protecting your password.
+
+Back to Top
+
+###  Changes to This Privacy Policy
+
+This Privacy Policy is current as of the effective date set forth above. Southwest reserves the right to change this privacy policy from time to time consistent with applicable privacy laws and principles. If we make changes to this Privacy Policy we will notify you by revising the date at the top of this Privacy Policy, and in some cases, we may provide you with additional notice (such as adding a statement to the homepages of our Service or sending you an e-mail notification). If the changes are material, we may provide you additional notice.
+
+Back to Top
+
+###  Contact Us
+
+If you have any questions, complaints, or suggestions regarding this Privacy Policy, please feel free to contact us by phone, e-mail, or postal mail as detailed [here](https://web.archive.org/contact-us/contact-us.html "Contact us via email").
+
+Back to Top
