@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722033405id_/http%3A//www.fha.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fha.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203232809id_/https%3A//www.fha.com/privacy_policy) for the most accurate reproduction.*
 
 # FHA Loan Privacy Policy
 
@@ -12,11 +12,11 @@ Thank you for visiting FHA.com. This Privacy Policy is an integral part of using
 
 Throughout this Agreement, we may use certain words or phrases, and it is important that you understand the meaning of them. The list is not all-encompassing and no definition should be considered binding to the point that it renders this Agreement nonsensical:
 
-"FHA.com" refers to our company, known as "GoLoansOnline.com, Inc."; our Site; our Service; or a combination of all or some of the preceding definitions, depending on the context of the word;
+"FHA.com" refers to our company, known as "First Click Mortgage, Inc."; our Site; our Service; or a combination of all or some of the preceding definitions, depending on the context of the word;
 
 "Service" refers to the services that we provide through our Site, including the information provided through our Site and our Site itself;
 
-"Site" refers to our website, [www.fha.com](http://www.fha.com/);
+"Site" refers to our website, [www.fha.com](https://www.fha.com/);
 
 "User" refers to anyone who visits our Site;
 
