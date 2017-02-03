@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the uncommonwisdomdaily.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218071013id_/http%3A//www.uncommonwisdomdaily.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uncommonwisdomdaily.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203195747id_/https%3A//www.uncommonwisdomdaily.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Uncommon Wisdom Daily
 
