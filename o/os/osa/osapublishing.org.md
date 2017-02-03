@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the osapublishing.org privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803165535id_/https%3A//www.osapublishing.org/privacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the osapublishing.org privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203031716id_/https%3A//www.osapublishing.org/privacy.cfm) for the most accurate reproduction.*
 
 # OSA | OSA Privacy Policy
 
