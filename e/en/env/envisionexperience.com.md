@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the envisionexperience.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914094703id_/https%3A//www.envisionexperience.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the envisionexperience.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203194430id_/https%3A//www.envisionexperience.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
