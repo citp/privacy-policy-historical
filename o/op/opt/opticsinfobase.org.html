@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the opticsinfobase.org privacy policy that was archived on 2016-08-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160803165535id_/https%3A//www.osapublishing.org/privacy.cfm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the opticsinfobase.org privacy policy that was archived on 2017-02-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170203031716id_/https%3A//www.osapublishing.org/privacy.cfm) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" js no-touch svg inlinesvg svgclippaths no-ie8compat" lang="en" style=""><!--<![endif]--><head>
   <meta charset="utf-8">
@@ -10,8 +10,8 @@
   
 
   <link rel="stylesheet" href="/css/token-input-facebook.css">
-  <link rel="stylesheet" href="/css/app.css?v=06212016">
-  <link rel="stylesheet" href="/css/search.css"> <!-- Second style redefines first in app.css -->
+  <link rel="stylesheet" href="/css/app.css?v=12082016">
+  <!--<link rel="stylesheet" href="/css/search.css">  Second style redefines first in app.css -->
   <link rel="stylesheet" href="/css/journal-colors.css">
   <link rel="stylesheet" href="/css/tools.css">
   <link rel="stylesheet" href="/css/jqueryui/jquery-ui.css">
@@ -29,6 +29,20 @@
   <script async="" src="//web.archive.org/web/20190311224312/https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/js/vendor/custom.modernizr.js"></script>
 </head>
 <body class="default" style="">
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+	<symbol id="right-arrow" viewBox="0 0 7.7 8.89">
+	<defs>
+		<style>
+			.rarrow {
+				stroke-miterlimit: 10;
+			}
+		</style>
+	</defs>
+		<title>Expand this Topic</title>
+		<desc>clickable element to expand a topic</desc>
+		<polygon class="rarrow" points="0.5 0.87 0.5 8.03 6.7 4.45 0.5 0.87"></polygon>
+	</symbol>
+</svg>
 
 	<div class="site">
 		
@@ -76,7 +90,7 @@
       <div class="collapse" id="mobile-search">
         <div class="header-search col-sm-9 col-xs-12">
           <div class="input-group form-control">
-            <input id="topSearchTextMobile" type="text" class="form-control input-sm" placeholder="Search All Publications">
+            <input id="topSearchTextMobile" type="text" class="form-control input-sm" placeholder="Search All Publications" aria-label="Search All Publications">
             <div class="input-group-btn">
               <button type="button" class="btn btn-default btn-sm search-options">Options <span class="caret"></span></button>
               <a id="topSearchMobile" class="btn btn-primary btn-sm"><span class="fi-magnifying-glass"></span></a>
@@ -88,7 +102,7 @@
       <div class="header-search hidden-xs">
         <div class="search-bar input-group main-search">
   <form name="nojs" action="/search_noscript.cfm" class="form-inline">
-    <input name="q" id="topSearchText" type="text" class="search-text-input form-control input-sm header-search_inputField" placeholder="Search All Publications">
+    <input name="q" id="topSearchText" type="text" class="search-text-input form-control input-sm header-search_inputField" placeholder="Search All Publications" aria-label="Search All Publications">
     <div class="input-group-btn header-search_btnGroup">
       <button data-toggle="collapse" data-target="#advanced-search-popup" type="button" class="btn btn-default btn-sm search-options">Options <span class="icon-filter"></span> <span class="caret"></span></button>
       <button id="topSearch" type="submit" class="btn btn-primary btn-sm btn-search">
@@ -108,12 +122,13 @@
       <div class="close-top"><a href="#" data-toggle="collapse" data-target="#advanced-search-popup">Close <strong class="fi-x"></strong></a></div>
     </div>
   </div>
-  <div id="formErrors" style="display:none" title="Field Error"><p></p></div>
+  <!--<div id="formErrors" style="display:none" title="Field Error"><p></p></div>-->
   <div class="avs-content">
+    <div class="avs_grayout"></div>
     <div class="row">
       <div class="col-sm-2 avs-label">Keywords</div>
       <div class="col-sm-8">
-        <input name="" id="txtSearch" type="text" class="form-control" placeholder="Enter search terms here">
+        <input name="" id="txtSearch" type="text" class="form-control" placeholder="Enter search terms here" aria-label="Enter search terms here">
         <input id="chkOtrResource" name="selectionChk" type="checkbox" value="">  <span class="avs-inline-label-left">Only if other resources available (images, video, datasets)</span>
       </div>
       <div class="col-sm-2">
@@ -184,14 +199,16 @@
           </div>
         </div>
       </div>
-      <div class="col-sm-1 avs-tiny">
-        Vol. <input id="volSearch" type="text" class="form-control" placeholder="All">
-      </div>
-      <div class="col-sm-1 avs-tiny">
-        Issue <input id="issueSearch" type="text" class="form-control" placeholder="All">
-      </div>
-      <div class="col-sm-1 avs-tiny">
-        Page <input id="pageSearch" type="text" class="form-control" placeholder="All">
+      <div class="col-sm-3 avs-tiny">
+        <div class="avs-tiny_field">
+          Vol. <input id="volSearch" type="text" class="form-control" placeholder="All">
+        </div>
+        <div class="avs-tiny_field">
+          Issue <input id="issueSearch" type="text" class="form-control" placeholder="All">
+        </div>
+        <div class="avs-tiny_field">
+          Page <input id="pageSearch" type="text" class="form-control" placeholder="All">
+        </div>
       </div>
     </div>
     <div class="row space-top-lg">
@@ -206,11 +223,13 @@
           </div>
         </div>
       </div>
-      <div class="col-sm-1 avs-tiny">
-        Year <input id="yearSearch" type="text" class="form-control" placeholder="All">
-      </div>
-      <div class="col-sm-2 avs-tiny">
-        Paper # <input id="sessionPagerSearch" type="text" class="form-control" placeholder="All">
+      <div class="col-sm-3 avs-tiny">
+        <div class="avs-tiny_field">
+          Year <input id="yearSearch" type="text" class="form-control" placeholder="All">
+        </div>
+        <div class="avs-tiny_field avs-tiny_field--expanded">
+          Paper # <input id="sessionPagerSearch" type="text" class="form-control" placeholder="All">
+        </div>
       </div>
     </div>
 
@@ -228,7 +247,7 @@
             <span class="avs-inline-label-right">From</span>
             <input id="startYear" type="text" class="form-control year-inline" placeholder="1917">
             <span class="avs-inline-label-left avs-inline-label-right">To</span>
-            <input id="endYear" type="text" class="form-control year-inline" placeholder="2016">
+            <input id="endYear" type="text" class="form-control year-inline" placeholder="2017">
           </div>
         </div>
       </div>
@@ -239,25 +258,74 @@
     </div>
 
     <div class="row space-top">
-      <div class="col-sm-2">Topic Filters</div>
-      <div class="col-sm-7 input-collapse">
-          <input type="text" id="advsTopicsSelector" class="form-control" placeholder="All topics (type topic names or look up list)">
-          <div class="input-group-btn" name="topic">
-            <button type="button" class="btn btn-default dropdown-toggle avs-modal-open" data-toggle="dropdown"><span class="caret"></span></button>
-          </div>
+      <div class="col-md-12">
+        <div class="avs-help avs-divider"></div>
       </div>
-      <div class="col-sm-3"></div>
     </div>
+
+    <div class="avs_topics">
+      <div class="row space-top mbottom-10">
+        <div class="col-sm-3">Optics &amp; Photonics Topics</div>
+        <div class="col-sm-9 input-collapse avs_topics-search">
+            <a id="browsetopicsbutton" href="#" class="btn btn-default avs_topics-browse-btn">Browse All Topics</a>
+            <input type="text" id="advsTopicsSelector" class="form-control avs_topics-search-field ui-autocomplete-input" placeholder="Search All Topics" autocomplete="off"><span role="status" aria-live="polite" class="ui-helper-hidden-accessible"></span><br>
+        </div>
+      </div>
+      
+      <div class="row space-top selectedtopicsadv mbottom-10">
+        <div class="col-md-2"><small class="muted">Selected topics</small></div>
+        <div class="col-md-10" id="advTopicsSelectedList"></div>
+      </div>
+      <div class="row selectedtopicsadv mbottom-10">
+        <div class="col-md-2"></div>
+        <div class="col-md-10 muted">
+          <input id="chkAnyTopic" name="chkAnyAllTopic" type="radio" value="any" checked="checked"> Find articles with <strong>any</strong> selected topics
+          &nbsp;&nbsp;<input id="chkAllTopic" name="chkAnyAllTopic" type="radio" value="all"> Find articles with <strong>all</strong> selected topics
+        </div>
+      </div>
+      <div class="row hidden mbottom-20" id="pickTopicsBrowse">
+        <div class="col-md-12 mbottom-20 ">
+          <strong>Browse All Topics</strong><br>
+          Click the <svg class="selection-list_arrow"><use xlink:href="#right-arrow"></use></svg> to reveal subtopics. Use the checkbox to select a topic to filter your search.
+        </div>
+        <div id="advBrowseTopics" class="col-md-12">
+        
+
+<div class="more-columns_container">
+	<div class="more-columns_column" id="adv-more-terms-col1">
+	<ul class="selection-list"></ul>
+</div>
+	<div class="more-columns_column" id="adv-more-terms-col2"></div>
+	<div class="more-columns_column" id="adv-more-terms-col3"></div>
+</div>
+
+</div>
+      </div>
+      <div class="row space-top">
+        <div class="col-md-12">
+          <div class="avs-help avs-divider">
+            <a class="avs-help-link" data-action="slide-toggle" data-target="#avsHint2" href="#" title="Help Link">?</a>
+            <div id="avsHint2" class="avs-help-message">
+              <strong>About Optics &amp; Photonics Topics</strong>
+              <br>OSA Publishing developed the Optics and Photonics Topics to help organize its diverse content more accurately by topic area.  This topic browser contains over 2400 terms and is organized in a three-level hierarchy. <a href="/author/thesaurus/OSAThes_home.cfm" target="_blank">Read more.</a>
+              <br><br>Topics can be refined further in the search results. The Topic facet will reveal the high-level topics associated with the articles returned in the search results.
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
 
     <div class="row space-top">
       <div class="col-sm-2">Special Collections</div>
-      <div class="col-sm-7 input-collapse">
-        <input id="specialcollections_ee" name="specialcollections" type="checkbox" value="ee"> <label for="specialcollections_ee" style="font-weight:normal">Energy Express</label><br>
-        <input id="specialcollections_el" name="specialcollections" type="checkbox" value="elnotes"> <label for="specialcollections_el" style="font-weight:normal">Engineering and Laboratory Notes</label><br>
-        <input id="specialcollections_spt" name="specialcollections" type="checkbox" value="spotlight"> <label for="specialcollections_spt" style="font-weight:normal">Spotlight on Optics</label><br>
-        <input id="specialcollections_tut" name="specialcollections" type="checkbox" value="aoptutorial"> <label for="specialcollections_tot" style="font-weight:normal">AOP Tutorials</label>
+      <div class="col-sm-5 input-collapse">
+        <input id="specialcollections_ee" name="specialcollections" type="checkbox" value="ee"> <label class="avs-inline-label-left" for="specialcollections_ee">Energy Express</label><br>
+        <input id="specialcollections_el" name="specialcollections" type="checkbox" value="elnotes"> <label class="avs-inline-label-left" for="specialcollections_el">Engineering and Laboratory Notes</label><br>
       </div>
-      <div class="col-sm-3"></div>
+      <div class="col-sm-5 input-collapse">
+        <input id="specialcollections_spt" name="specialcollections" type="checkbox" value="spotlight"> <label class="avs-inline-label-left" for="specialcollections_spt">Spotlight on Optics</label><br>
+        <input id="specialcollections_tut" name="specialcollections" type="checkbox" value="aoptutorial"> <label class="avs-inline-label-left" for="specialcollections_tut">AOP Tutorials</label>
+      </div>
     </div>
 
     <div class="row space-top">
@@ -268,7 +336,7 @@
 
     <div class="row">
       <div class="col-sm-6"><a id="clearFilters" href="#" class="btn btn-default">Clear my choices above</a></div>
-    <div class="col-sm-6"><a id="cmdSearch" href="#" class="btn btn-primary pull-right ui-button ui-widget ui-state-default ui-corner-all ui-button-text-only" role="button" aria-disabled="false"><span class="ui-button-text"><strong class="fi-magnifying-glass"></strong>&nbsp; Search</span></a></div>
+    <div class="col-sm-6"><a id="cmdSearch" href="#" class="btn btn-primary pull-right"><strong class="fi-magnifying-glass"></strong>&nbsp; Search</a></div>
     </div>
 
   </div>
@@ -295,7 +363,6 @@
 						<li><a href="/as">Applied Spectroscopy</a></li>
 						<li><a href="/boe">Biomedical Optics Express</a></li>
 						<li><a href="/col">Chinese Optics Letters</a></li>
-						<li><a href="/jdt">Journal of Display Technology</a></li>
 						<li><a href="/jlt">Journal of Lightwave Technology</a></li>
 						<li><a href="/jot">Journal of Optical Technology</a></li>
 						<li><a href="/jocn">Journal of Optical Communications and Networking</a></li>
@@ -309,6 +376,7 @@
 						<li><a href="/prj">Photonics Research</a></li>
 						
 						<li class="nav-link-heading">Legacy Journals</li>
+						<li><a href="/jdt">Journal of Display Technology</a></li>
 						<li><a href="/jon">Journal of Optical Networking (2002-2009)</a></li>
 						<li><a href="/josa">Journal of the Optical Society of America (1917-1983)</a></li>
 						<li><a href="/on">Optics News (1975-1989)</a></li>
@@ -324,17 +392,16 @@
 							<li><a href="/as">Applied Spectroscopy</a></li>
 							<li><a href="/boe">Biomedical Optics Express</a></li>
 							<li><a href="/col">Chinese Optics Letters</a></li>
-							<li><a href="/jdt">Journal of Display Technology</a></li>
 							<li><a href="/jlt">Journal of Lightwave Technology</a></li>
 							<li><a href="/jot">Journal of Optical Technology</a></li>
 							<li><a href="/jocn">Journal of Optical Communications and Networking</a></li>
 							<li><a href="/josaa">Journal of the Optical Society of America A</a></li>
 							<li><a href="/josab">Journal of the Optical Society of America B</a></li>
+							<li><a href="/josk">Journal of the Optical Society of Korea</a></li>
 						</ul>
 					</div>
 					<div class="col-sm-6">
 						<ul>
-							<li><a href="/josk">Journal of the Optical Society of Korea</a></li>
 							<li><a href="/optica">Optica</a></li>
 							<li><a href="/ome">Optical Materials Express</a></li>
 							<li><a href="http://www.osa-opn.org" target="_blank">Optics and Photonics News <span class="fa fa-external-link"></span></a></li>
@@ -343,6 +410,7 @@
 							<li><a href="/prj">Photonics Research</a></li>
 							
 							<li class="nav-link-heading">Legacy Journals</li>
+							<li><a href="/jdt">Journal of Display Technology</a></li>
 							<li><a href="/jon">Journal of Optical Networking (2002-2009)</a></li>
 							<li><a href="/josa">Journal of the Optical Society of America (1917-1983)</a></li>
 							<li><a href="/on">Optics News (1975-1989)</a></li>
@@ -373,15 +441,15 @@
 							<li class="nav-link-heading">Newly Published</li>
 							
 							
-								<li><a href="/conference.cfm?meetingid=177&amp;yr=2016">3D Image Acquisition and Display: Technology, Perception and Applications</a></li>
+								<li><a href="/conference.cfm?meetingid=139&amp;yr=2016">International Conference on Fibre Optics and Photonics</a></li>
 							
-								<li><a href="/conference.cfm?meetingid=169&amp;yr=2016">Adaptive Optics: Analysis, Methods &amp; Systems</a></li>
+								<li><a href="/conference.cfm?meetingid=40&amp;yr=2016">Fourier Transform Spectroscopy</a></li>
 							
-								<li><a href="/conference.cfm?meetingid=104&amp;yr=2016">Applied Industrial Optics: Spectroscopy, Imaging and Metrology</a></li>
+								<li><a href="/conference.cfm?meetingid=44&amp;yr=2016">Hyperspectral Imaging and Sounding of the Environment</a></li>
 							
-								<li><a href="/conference.cfm?meetingid=15&amp;yr=2016">Computational Optical Sensing and Imaging</a></li>
+								<li><a href="/conference.cfm?meetingid=131&amp;yr=2016">Optical Nanostructures and Advanced Materials for Photovoltaics</a></li>
 							
-								<li><a href="/conference.cfm?meetingid=63&amp;yr=2016">Digital Holography and Three-Dimensional Imaging</a></li>
+								<li><a href="/conference.cfm?meetingid=174&amp;yr=2016">Optics and Photonics for Energy and the Environment</a></li>
 							
 						</ul>
 					</div>
@@ -395,7 +463,9 @@
 					<div class="col-sm-6">
 						<ul>
 							<li class="nav-link-heading">Publications</li>
-							<li><a href="/books/lasers/lasers.cfm"><em>Lasers</em> eBooks</a></li>
+							<li><a href="/books/bookshelf/lasers.cfm"><em>Lasers</em> eBook</a></li>
+							<li><a href="/books/bookshelf/osa-century-optics.cfm"><em>OSA Century of Optics</em></a></li>
+							<li><a href="/books/bookshelf/opn-centennial-ebooklets.cfm">OPN Centennial eBooklets</a></li>
 							<li><a href="/oida/reports.cfm">OIDA Reports</a></li>
 							<li class="nav-link-heading">Information For</li>
 						    <li><a href="/author/author.cfm">Authors</a></li>
@@ -437,11 +507,11 @@
       <a href="#" class="dropdown-toggle" data-toggle="dropdown" id="recent_pages">Recent Pages <span class="caret"></span></a>
       <div class="dropdown-menu dropdown-one-col">
         <ul class="recent-page-list">
-        <li><a href="https://web.archive.org/web/20160803165535id_/https%3A//www.osapublishing.org/privacy.cfm">OSA Privacy Policy</a></li><li><a href="https://web.archive.org/web/20161021104719id_/https://www.osapublishing.org/">OSA Publishing</a></li><li><a href="javascript:clearRecentPages();"><strong>Clear History</strong></a></li></ul>
+        <li><a href="https://web.archive.org/web/20170203031716id_/https%3A//www.osapublishing.org/privacy.cfm">OSA Privacy Policy</a></li><li><a href="https://web.archive.org/web/20170322011909id_/https://www.osapublishing.org/">OSA Publishing</a></li><li><a href="javascript:clearRecentPages();"><strong>Clear History</strong></a></li></ul>
       </div>
     </li>
   </ul>
-	
+
 	
   <ul class="hidden-sm hidden-md hidden-lg manage-user-acct--mobile">
 <li class="nav-link"><a href="#" data-toggle="modal" data-target="#userLogin" id="loginModal">Login or Create Account</a></li>
@@ -558,12 +628,31 @@ email: <a href="mailto:info@osa.org">info@osa.org</a></p>
 			<li class="dropdown">
 				<a href="#" class="dropdown-toggle" data-toggle="dropdown">Recent Pages <strong class="caret"></strong></a>
 				<ul class="dropdown-menu up recent-page-list">
-				<li><a href="https://web.archive.org/web/20160803165535id_/https%3A//www.osapublishing.org/privacy.cfm">OSA Privacy Policy</a></li><li><a href="https://web.archive.org/web/20161021104719id_/https://www.osapublishing.org/">OSA Publishing</a></li><li><a href="javascript:clearRecentPages();"><strong>Clear History</strong></a></li></ul>
+				<li><a href="https://web.archive.org/web/20170203031716id_/https%3A//www.osapublishing.org/privacy.cfm">OSA Privacy Policy</a></li><li><a href="https://web.archive.org/web/20170322011909id_/https://www.osapublishing.org/">OSA Publishing</a></li><li><a href="javascript:clearRecentPages();"><strong>Clear History</strong></a></li></ul>
 			</li>
 		</ul>
 	</div>
 </div>
 
+
+<div id="formErrors" class="modal fade" role="dialog">
+	<div class="modal-dialog">
+		<div class="modal-content">
+			<div class="modal-header">
+				<button class="close" data-dismiss="modal" aria-label="close">
+					<span aria-hidden="true">×</span>
+				</button>
+				<h4 class="modal-title">Field Error</h4>
+			</div>
+			<div class="modal-body">
+				<p id="formErrorsText"></p>
+			</div>
+			<div class="modal-footer">
+				<button class="btn btn-primary" data-dismiss="modal">Ok</button>
+			</div>
+		</div>
+	</div>
+</div>
 
 <div id="avsModal" class="avs-modal">
   <div id="avsModalContent" class="avs-modal-content">
@@ -573,7 +662,7 @@ email: <a href="mailto:info@osa.org">info@osa.org</a></p>
     <div class="row">
       <div class="col-md-8">
         <div class="input-collapse">
-          <input id="input-popup-selectize" type="text" class="form-control selectized" placeholder="(type names or look up list)" tabindex="-1" style="display: none;"><div class="selectize-control form-control selectized multi plugin-remove_button"><div class="selectize-input items not-full"><input type="text" autocomplete="off" tabindex="-1" placeholder="(type names or look up list)" style="width: 164px;"></div><div class="selectize-dropdown form-control selectized multi plugin-remove_button" style="display: none; width: 0px; top: 0px; left: 0px;"><div class="selectize-dropdown-content"></div></div></div>
+          <input id="input-popup-selectize" type="text" class="form-control selectized" placeholder="(type names or look up list)" tabindex="-1" style="display: none;"><div class="selectize-control form-control selectized multi plugin-remove_button"><div class="selectize-input items not-full"><input type="text" autocomplete="off" tabindex="-1" placeholder="(type names or look up list)" style="width: 172px;"></div><div class="selectize-dropdown form-control selectized multi plugin-remove_button" style="display: none;"><div class="selectize-dropdown-content"></div></div></div>
           <div class="selectize-control form-control multi"></div>
         </div>	
       </div>
@@ -608,7 +697,7 @@ email: <a href="mailto:info@osa.org">info@osa.org</a></p>
   <div class="col-sm-3">
     <ul class="ft-links-list">
     <li class="ft-links-header">Other Resources</li>
-    <li><a href="/books/lasers/lasers.cfm"><em>Lasers</em> eBooks</a></li>
+    <li><a href="/books/default.cfm">OSAP Bookshelf</a></li>
     <li><a href="/oida/reports.cfm">OIDA Reports</a></li>
     <li><a href="http://www.osa-opn.org" target="_blank">Optics &amp; Photonics News <span class="fa fa-external-link"></span></a></li>
     <li><a href="http://imagebank.osa.org" target="_blank">Optics ImageBank <span class="fa fa-external-link"></span></a></li>
@@ -635,7 +724,7 @@ email: <a href="mailto:info@osa.org">info@osa.org</a></p>
 <div class="ft-bottom">
   <div class="container">
     <div class="col-sm-6">
-      © Copyright 2016 | The Optical Society. All Rights Reserved
+      © Copyright 2017 | The Optical Society. All Rights Reserved
     </div>
     <div class="col-sm-6 ft-right">
       <a href="/privacy.cfm">Privacy</a> | <a href="/termsofuse.cfm">Terms of Use</a>
@@ -645,6 +734,7 @@ email: <a href="mailto:info@osa.org">info@osa.org</a></p>
 <div class="modal fade" id="userLogin">
   <div class="modal-dialog login-dialog">
     <div class="modal-content">
+      
       <div class="modal-header">
         <button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
         <h4 class="modal-title">Login or <a href="https://account.osa.org/eweb/dynamicpage.aspx?sso=1&amp;site=osac&amp;webcode=loginrequired&amp;url_success=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fprivacy%2Ecfm%3F%26usertoken%3D%7Btoken%7D">Create Account</a></h4>
@@ -657,13 +747,13 @@ email: <a href="mailto:info@osa.org">info@osa.org</a></p>
           <div class="alert alert-warning loginLoading" style="display: none;">Please wait...</div>
 
           <div class="form-group">
-            <label for="inputEmail3" class="col-sm-2 control-label">Email</label>
+            <label for="inputEmail" class="col-sm-2 control-label">Email</label>
             <div class="col-sm-10">
-              <input type="email" class="form-control" id="inputEmail" placeholder="Email">
+              <input type="email" class="form-control" id="inputEmail" placeholder="Email" autofocus="">
             </div>
           </div>
           <div class="form-group">
-            <label for="inputPassword3" class="col-sm-2 control-label">Password</label>
+            <label for="inputPassword" class="col-sm-2 control-label">Password</label>
             <div class="col-sm-10">
               <input type="password" class="form-control" id="inputPassword" placeholder="Password">
               <span class="help-block"><a href="https://account.osa.org/eweb/Dynamicpage.aspx?webcode=forgotpassword*Site=osac">Forgot your password?</a></span>
@@ -687,6 +777,9 @@ email: <a href="mailto:info@osa.org">info@osa.org</a></p>
         </form>
       </div>
       <div class="modal-footer">
+        <div class="col-xs-12" style="text-align: left"><a href="https://auth.osa.org/connect/authorize?client_id=osap&amp;response_type=id_token&amp;scope=openid email profile affiliation&amp;redirect_uri=https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fdefault%2Ecfm&amp;state=E511B703-963E-44C4-9744906025A33723|https%3A%2F%2Fwww%2Eosapublishing%2Eorg%2Fprivacy%2Ecfm%3F&amp;nonce=E511B703-963E-44C4-9744906025A33723&amp;acr_values=idp:cstnet&amp;response_mode=form_post">CAoS Institutions (China) Login</a></div>
+      </div>
+      <div class="modal-footer">
         <div class="col-xs-6" style="text-align: left"><a href="/privacy.cfm">OSA Privacy Policy</a></div>
         <div class="col-xs-6"><a href="http://www.osa.org/en-us/help/">Need help?</a> <span class="fi-info"></span></div>
       </div>
@@ -707,32 +800,32 @@ document.write('<script src=' +
 <script src="/js/vendor/selectize.custom.js"></script>
 <script src="/js/vendor/sly.min.js"></script>
 <script src="/js/jquery.tinysort.min.js"></script>
-<script src="/js/app.js"></script>
+<script src="/js/app.js?v=11272016"></script>
 <script src="/js/recentPages.js"></script>
 
-<!-- Minified and concatenated bootstrap js - includes dropdown, modal, collapse, tab, and transition js files -->
 <script src="/js/vendor/bootstrap-concat.min.js"></script>
 <script src="/js/quickpager.jquery.js"></script>
 <script src="/js/jquery.unveil.js"></script>
 
 <script type="text/javascript" src="/js/jquery.tokeninput.js"></script>
 <script type="text/javascript" src="/js/jquery.base64.js"></script>
-<script src="/js/search.js"></script>
+<script src="/js/search.js?v=11272016"></script>
+
 <script type="text/javascript" src="/js/underscore.js"></script>
 <script type="text/javascript" src="/js/jquery-ui-1.10.2.custom.min.js"></script>
 
-<script type="text/javascript" src="/js/search/ApiClient.js?v=062016"></script>
-<script type="text/javascript" src="/js/search/Bus.js?v=062016"></script>
-<script type="text/javascript" src="/js/search/Config.js?v=062016"></script>
-<script type="text/javascript" src="/js/search/Constants.js?v=062016"></script>
-<script type="text/javascript" src="/js/search/Template.js?v=062016"></script>
-<script type="text/javascript" src="/js/search/Facet.js?v=062016"></script>
-<script type="text/javascript" src="/js/search/Pagination.js?v=062016"></script>
-<script type="text/javascript" src="/js/search/Results.js?v=062016"></script>
-<script type="text/javascript" src="/js/search/Search.js?v=062016"></script>
-<script type="text/javascript" src="/js/search/Util.js?v=062016"></script>
-<script type="text/javascript" src="/js/search/Main.js?v=062016"></script>
-
+<script type="text/javascript" src="/js/search/ApiClient.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Bus.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Config.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Constants.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Template.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Facet.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Pagination.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Results.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Search.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Topics.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Util.js?v=11272016"></script>
+<script type="text/javascript" src="/js/search/Main.js?v=11272016"></script>
 <!-- templates -->
 <script type="text/template" id="template-page-size-selector">
     <%= selected %>
@@ -764,11 +857,11 @@ document.write('<script src=' +
     <li class="sr-item">
         <input type="checkbox" class="sri-select hidden-xs" name="articles" value="<%= documentUri %>"/>
         <div class="sri-summary">
-            <h3 class="sri-title"><a href="<%= path %>abstract.cfm?uri=<%= documentUri %>&origin=search"><%= title %></a></h3>
+            <h3 class="sri-title"><a href="<%= path %>abstract.cfm?uri=<%= documentUri %>&origin=search" target="_blank"><%= title %></a></h3>
             <span class="sri-authors"><%= authors %></span>
             <ul class="sri-details">
                 <li class="sri-year"><%= year %></li>
-                <li class="sri-journal"><i class="<%= access%>"></i> <%= name %><strong>&nbsp; View: <%= htmlLinks %><%= pdfLinks %></strong><%= binaryText %><%= editorspick %></li>
+                <li class="sri-journal"><i class="<%= access%>"></i> <%= name %><strong>&nbsp; View: <%= htmlLinks %><%= pdfLinks %></strong><%= xinfo %></li>
                 
             </ul>
             <div class="sri-toggle-extended fi-plus">
@@ -795,9 +888,7 @@ document.write('<script src=' +
 
 <script type="text/template" id="search-result-snippet-highlighted"><strong><%= text %></strong></script>
 
-<script type="text/template" id="search-result-snippet-binary-link"> [Suppl. Mat. (<%= numBinaries %>)]</script>
-
-<script type="text/template" id="search-result-snippet-editors-pick">&nbsp; <span class="fa fa-check"></span> Editors' Pick</script>
+<script type="text/template" id="search-result-snippet-xinfo"> [<%= xinfo %>]</script>
 
 <script type="text/template" id="search-result-snippet-pdf"><a href="<%= pdfUri %>" target="_blank">PDF</a></script>
 
@@ -826,23 +917,23 @@ document.write('<script src=' +
 
 <script type="text/template" id="facet-publications">
     <ul class="sf-list">
-        <li><input id="publicationsAll" class="sf-select-all" type="checkbox" checked="checked" disabled="disabled"/> All</li>
-        <li><input id="facet-publications-journals" type="checkbox" name="publications"/> Journals (<%= totalJournals %>)</li>
-        <li><input id="facet-publications-proceedings" type="checkbox" name="publications"/> Proceedings (<%= totalProceedings %>)</li>
+        <li class="sf-list_list-item"><input id="publicationsAll" class="sf-select-all sf-list_input" type="checkbox" checked="checked" disabled="disabled"/> <label class="sf-list_label" for="publicationsAll">All</label></li>
+        <li class="sf-list_list-item"><input id="facet-publications-journals" class="sf-list_input" type="checkbox" name="publications"/> <label class="sf-list_label" for="facet-publications-journals">Journals <span class="facet-count">(<%= totalJournals %>)</span></label></li>
+        <li class="sf-list_list-item"><input id="facet-publications-proceedings" class="sf-list_input" type="checkbox" name="proceedings"/> <label class="sf-list_label" for="facet-publications-proceedings">Proceedings <span class="facet-count">(<%= totalProceedings %>)</span></label></li>
     </ul>
 	</div>
 	<div class="sf-module sf-journals">
-		<div class="row row2">
+		<div class="row2">
     	<h3 id="facet-journal-show" class="sf-group-title collapsed">Journals</h3>
-		<div id="sortJournal"></div>
+		<div id="sortJournal" class="sf-sort"></div>
 		</div>
             <div id="facet-journal-values">
             </div>  
 	</div>
 	<div class="sf-module sf-proceedings">
-		<div class="row row2">
+		<div class="row2">
     	<h3 id="facet-proceeding-show" class="sf-group-title collapsed">Proceedings</h3>
-			<div id="sortProceeding"></div>
+			<div id="sortProceeding" class="sf-sort"></div>
 		</div>
 		<div  id="facet-proceeding-values"></div>
 	</div>
@@ -854,29 +945,78 @@ document.write('<script src=' +
 		<li class="sf-select-all"><input id="<%= allId %>" type="checkbox" checked="checked" disabled="disabled"/> All</li>
 		<%= values %>	
 		<li class="sf-expanded">
-			<a href="#" id="more-<%= allId %>" class="sf-expanded-toggle">more <%=name%> &raquo;</a>
-			<div class="sf-expanded-popup">
-				<div class="row">
-					<div class="col-md-3">
-						<strong><%= name%></strong>
+			<a href="#" id="more-<%= allId %>" class="search-panel_more-link" data-toggle="modal" data-target="#modal-<%= allId %>">more <%=name%> &raquo;</a>
+			<div class="modal full fade" id="modal-<%= allId %>">
+				<div class="modal-dialog">
+					<div class="modal-content search">
+						<div class="row mbottom-20">
+							<div class="col-md-4">
+								<h3 class="modal-header search"><%= modalTitle %></h3>
+							</div>
+							<div class="col-md-6 col-md-offset-2">						
+								<input id="input-<%= allId%>" type="text" class="form-control selectized" placeholder="(type names or look up list)" tabindex="-1"></input>
+								<div class="selectize-control form-control multi"></div>                 					
+							</div>			
+						</div>
+						<div class="modal_option-container mbottom-20 scrollable" id="moreUl-<%=allId%>">
+						</div>
+						
+						<hr>
+						<a href="#" id="apply-<%= allId %>"  class="btn btn-primary" data-dismiss="modal">Apply Filters</a>
+						<a href="#" id="cancel-<%= allId %>" class="btn btn-default" data-dismiss="modal">Cancel</a>
 					</div>
-					<div class="col-md-9">
-						<div class="input-collapse" style="width:300px;">
-							<input id="input-<%= allId%>" type="text" class="form-control selectized" placeholder="(type names or look up list)" tabindex="-1"></input>
-							<div class="selectize-control form-control multi"></div>                  
-							<!--div class="input-group-btn">
-	 						 <button id="hide-<%= allId%>" name="showHideList" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown"><span class="caret"></span></button>
-							</div-->
-						</div>	
-					</div>			
 				</div>
 
-				<ul id="moreUl-<%=allId%>" class="scrollable">
-					<li><img style="position:center; display:none;" src="../images/ajax-loader.gif"/></li>
-				</ul>
-				<hr>
-				<a href="#" id="apply-<%= allId %>" class="button">Apply Filters</a>
-				<a href="#" id="cancel-<%= allId %>" class="">Cancel</a>
+			</div>
+        </li>		
+	</ul>  	
+	
+</script>
+
+<script type="text/template" id="search-result-facet-terms">
+
+    <ul class="sf-list">
+		<li class="sf-select-all">
+			<input id="<%= allId %>" type="checkbox" checked="checked" disabled="disabled"/>
+			<label for="<%= allId %>">Remove all topic filters</label>
+		</li>
+		<%= values %>	
+		<li class="sf-expanded">
+			<a href="#" id="more-<%= allId %>" class="search-panel_more-link hidden-xs" data-toggle="modal" data-target="#modal-<%= allId %>">include more topics &raquo;</a>
+			<div class="modal full fade" id="modal-<%= allId %>">
+				<div class="modal-dialog">
+					<div class="modal-content search">
+						<div class="row mbottom-20">
+							<div class="col-md-4">
+								<h3 class="modal-header search">Optics &amp; Photonics Topics</h3>
+							</div>
+							<div class="col-md-6 col-md-offset-2">
+								<input id="input-<%= allId%>" type="text" class="form-control" placeholder="Search for a specific topic" tabindex="-1"></input>
+							</div>			
+						</div>
+						<div class="row mbottom-20">
+							<div class="col-md-12">
+								<strong>Browse the topics:</strong> 
+								Click the <svg class="selection-list_arrow"><use xlink:href="#right-arrow" /></svg> to reveal subtopics. Use the checkbox to select a topic to filter your search.
+							</div>
+						</div>
+
+						<div class="modal_option-container mbottom-20 scrollable" id="moreUl-<%=allId%>">
+						</div>
+
+						<div class="row">
+							<div class="col-md-12">
+								<strong>Selected Topics</strong>
+							</div>
+						</div>
+
+						<div id="moreSelectedList"></div>
+						<div class="row"><div class="col-md-12">&nbsp;<!-- spacing row --></div></div>
+
+						<a href="#" id="apply-<%= allId %>" class="btn btn-primary" data-dismiss="modal">Add Selected Topic Filters</a>
+						<a href="#" id="cancel-<%= allId %>" class="btn btn-default" data-dismiss="modal">Cancel</a>
+					</div>
+				</div>
 			</div>
         </li>		
 	</ul>  	
@@ -888,24 +1028,30 @@ document.write('<script src=' +
 	<li class="sf-select-all"><label><input id="<%= allId %>" type="checkbox" checked> All</label></li>
 	<%= values %>
 	<li class="sf-expanded">
-			<a href="#" id="more-<%= allId %>" class="sf-expanded-toggle">more <%=name%> &raquo;</a>
-			<div class="sf-expanded-popup">
-				<strong><%= name%></strong>
-				<div class="input-collapse" style="width:200px;">
-					<input id="input-<%= allId%>" type="text" class="form-control selectized" placeholder="(type names or look up list)" tabindex="-1"></input>
-					<div class="selectize-control form-control multi" style="width:400px;"></div>                  
-					<div class="input-group-btn" id="hide-<%= allId%>">
-	  					<button name="showHideList" type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" style="height: 34px; margin-top: -5px;"><span class="caret"></span></button>
+		<a href="#" id="more-<%= allId %>" class="search-panel_more-link" data-toggle="modal" data-target="#modal-<%= allId %>" class="sf-expanded-toggle">more <%=name%> &raquo;</a>
+		<div class="modal full fade" id="modal-<%= allId %>">
+			<div class="modal-dialog">
+				<div class="modal-content search">
+					<div class="row mbottom-20">
+						<div class="col-md-4">
+							<h3 class="modal-header search"><%= modalTitle%></h3>
+						</div>
+						<div class="col-md-6 col-md-offset-2">
+							<input id="input-<%= allId%>" type="text" class="form-control selectized" placeholder="(type names or look up list)" tabindex="-1"></input>
+							<div class="selectize-control form-control multi"></div>                  
+							
+						</div>
 					</div>
+					<div class="modal_option-container mbottom-20 scrollable" id="moreUl-<%=allId%>">
+					</div>
+						
+						
+					<hr>
+					<a href="#" id="apply-<%= allId %>"  class="btn btn-primary" data-dismiss="modal">Apply Filters</a>
+					<a href="#" id="cancel-<%= allId %>" class="btn btn-default" data-dismiss="modal">Cancel</a>
 				</div>
-				
-				<ul id="moreUl-<%=allId%>" class="scrollable">
-					<li><img style="position:center; display:none;" src="../images/ajax-loader.gif"/></li>
-				</ul>
-				<hr>
-				<a href="#" id="apply-<%= allId %>" class="button">Apply Filters</a>
-				<a href="#" id="cancel-<%= allId %>" class="">Cancel</a>
 			</div>
+		</div>
     </li>
  </ul>
 </script>
@@ -915,38 +1061,61 @@ document.write('<script src=' +
 	<ul  class="sf-list">
 		<%= values %>	
 	</ul>
-  	
 </script>
+
 <script type="text/template" id="facet-more-new-content">
-<div class="row"  style="overflow-y: auto; max-height: 300px;">
-	<div class="col-md-4"><ul><%= val1%></ul></div>
-	<div class="col-md-4"><ul><%= val2%></ul></div>
-	<div class="col-md-4"><ul><%= val3%></ul></div>
+<div class="more-columns_container">
+	<div class="more-columns_column"><ul class="selection-list"><%= val1%></ul></div>
+	<div class="more-columns_column"><ul class="selection-list"><%= val2%></ul></div>
+	<div class="more-columns_column"><ul class="selection-list"><%= val3%></ul></div>
+</div>
+</script>
+
+<script type="text/template" id="facet-more-terms-div">
+
+<div class="more-columns_container">
+	<div class="more-columns_column" id="<%= name%>-col1"><%= val%></div>
+	<div class="more-columns_column" id="<%= name%>-col2"></div>
+	<div class="more-columns_column" id="<%= name%>-col3"></div>
 </div>
 
 </script>
 
-
+<script type="text/template" id="facet-more-terms-list">
+	<ul class="selection-list"><%= val%></ul>
+</script>
 
 <script type="text/template" id="search-result-facet-more">
     <a id="more-<%= name %>" href="#" class="sidebar_more white">More</a>
 </script>
 
-<script type="text/template" id="search-result-facet-separator">
-    <!--li><hr/></li-->
-</script>
-
 <script type="text/template" id="search-result-facet-detail">
     <a href="#" id="details-link-<%= id %>" class="sidebar_more black">details</a>
-    <ul id="details-container-<%= id %>" class="ul-list-without-bullet" style="display:none;"></ul>
+    <ul id="details-container-<%= id %>" class="list-unstyled" style="display:none;" data-value="<%= valName %>"></ul>
 </script>
 
 <script type="text/template" id="search-result-facet-value">
-    <%= separator %>
-    <li style="<%= display %>">
-        <input type="checkbox" name="chkFacet-<%= name %>" value="<%= code %>" data-value="<%= dataValue %>" id="<%= id %>" <%= checked %> acronym="<%= acronym %>"/>
-        <label for="<%= id %>" <%= clazz %>><%= valName %>&nbsp;<%= valCount %></label> <%= detail%>
+    <li class="sf-list_list-item <%= rowclass %>" style="<%= display %>">
+        <input type="checkbox" class="sf-list_input <%= boxstyle %>" name="chkFacet-<%= name %>" value="<%= code %>" data-value="<%= dataValue %>" id="<%= id %>" <%= checked %> acronym="<%= acronym %>" />
+	<% if (hasCloseButton === true) { %>
+		<div <% if (isbold != '') { %> class="sf-list_label sf-authors-bold" <% } else { %> class="sf-list_label" style="margin-bottom:5px"<% } %>><%= valName %><span class="facet-count"><%= valCount %></span> <span class="fa-times-circle-o fa facet-value_toggle"></span></div> <%= detail%> 
+	<% } else { %>
+		<label <%= title%> for="<%= id %>"  <% if (isbold != '') { %> class="sf-list_label sf-authors-bold" <% } else { %> class="sf-list_label" <% } %>><%= valName %> <span class="facet-count"><%= valCount %></span></label> <%= detail%> 
+	<% } %>
     </li>
+</script>
+
+<script type="text/template" id="more-term-facet-value">
+    <li class="selection-list_list-item" style="<%= display %>">
+        <input class="selection-list_checkbox" type="checkbox" name="<%= name %>" data-value="<%= dataValue %>" <%= checked %> <%= boxstyle %>/><div class="selection-list_link" name="text-<%= name %>" data-value="<%= dataValue %>" <%= clazz %>><%= valName %><% if (valCount != "") { %> <span class="more-facet-count"><%= valCount %></span><% } %></div><% if (isx === true) { %><a href="#" class="selection-list_expander <%= inputname%>-expandin"><svg class="selection-list_arrow"><use xlink:href="#right-arrow" /></svg></a><% } %>
+    </li>
+</script>
+
+<script type="text/template" id="more-term-selected">
+    <div class="selected-facet" data-topic="<%= finalTopic %>">
+        <%= val %>
+        <a href="#" name="selected-x" data-value="<%= dataValue %>" count="<%= cnt %>" class="selected-facet_close" ><span class="fa-times-circle-o fa"></span></a>
+    </div>
 </script>
 
 <script type="text/template" id="search-result-facet-class">
@@ -970,16 +1139,15 @@ document.write('<script src=' +
 </script>
 
 <script type="text/template" id="filter-selected">
-    <li> <%= filterValue %> <a class="inline-dismiss"><span name="filterSelected" id="<%= filterId %>" class="fi-x" data-value="<%= filterValue %>"></span></a></li>
+    <li class="label filter-tag filter-tag--<%= filterType %>"> <%= filterValue %> <a class="inline-dismiss"><span name="filterSelected" id="<%= filterId %>" class="fi-x" data-value="<%= filterValue %>"></span></a></li>
 </script>
   
   <script type="text/template" id="filter-search">
-    <li class="filter-search"> <%= filterLabel %> <a class="inline-dismiss"><span name="filterSelected" id="<%= filterId %>" class="fi-x" data-value="<%= filterValue %>"></span></a></li>
+    <li class="filter-search label filter-tag filter-tag--<%= filterType %>"> <%= filterLabel %> <a class="inline-dismiss"><span name="filterSelected" id="<%= filterId %>" class="fi-x" data-value="<%= filterValue %>"></span></a></li>
 </script>
 
 <script type="text/template" id="publication-sort-template">
-	<div class="sf-sort displayNone">
-		<span class="icon-sort sf-sort-toggle"></span>
+		<button class="sf-sort-toggle"><span class="icon-sort"></span><span class="sr-only">sort</span></button>
 		<div class="sf-sort-popup">
 			<ul>
 				<li class="active"><a href="#" name="sort-<%= type%>" data-value="<%= type%>:frequency-order:descending">Article Count</a></li>
@@ -987,11 +1155,11 @@ document.write('<script src=' +
 				<li><a href="#" name="sort-<%= type%>" data-value="<%= type%>:item-order:descending">Alphabetical Z>A</a></li>
 			</ul>
 		</div>
-	</div>
+
 </script>
 <script type="text/template" id="author-topic-sort-template">
-	<div class="sf-sort">
-		<span class="icon-sort sf-sort-toggle"></span>
+
+		<button class="sf-sort-toggle"><span class="icon-sort"></span><span class="sr-only">sort</span></button>
 		<div class="sf-sort-popup">
 			<ul>
 				<li class="active"><a href="#" name="sort-<%= type%>" data-value="<%= type%>:frequency-order:descending">Article Count</a></li>
@@ -999,11 +1167,11 @@ document.write('<script src=' +
 				<li><a href="#" name="sort-<%= type%>" data-value="<%= type%>:item-order:descending">Alphabetical Z>A</a></li>
 			</ul>
 		</div>
-	</div>
+
 </script>
 <script type="text/template" id="year-sort-template">
-	<div class="sf-sort">
-		<span class="icon-sort sf-sort-toggle"></span>
+
+		<button class="sf-sort-toggle"><span class="icon-sort"></span><span class="sr-only">sort</span></button>
 		<div class="sf-sort-popup">
 			<ul>
 				<li class="active"><a href="#" name="sort-year" data-value="year:item-order:descending">Newest date first</a></li>
@@ -1011,7 +1179,7 @@ document.write('<script src=' +
 				<li><a href="#" name="sort-year" data-value="year:frequency-order:descending">Article Count</a></li>
 			</ul>
 		</div>
-	</div>
+
 </script>
 <script type="text/template" id="more-pop-up-template">
 		<%= values%>
@@ -1022,26 +1190,19 @@ document.write('<script src=' +
 <script type="text/template" id="all-plus-separator-template">
     <li class="sf-select-all"><label><input id="<%= allId %>" type="checkbox" > All</label></li>
 </script>
-<script type="text/template" id="more-and-box-template">
-   <li class="sf-expanded">
-           <!--a title="collapsed" class="sf-expanded-toggle" href="#" id="more-<%= allId %>">More <%= name %> »</a-->
-			<a href="#" id="more-<%= allId %>" class="sf-expanded-toggle">more <%=name%> &raquo;</a>
-			<div class="sf-expanded-popup">
-				<strong>divToReplace : <%= name%></strong>
-				<ul id="moreUl-<%=allId%>" class="scrollable">
-					<li><img style="position:center; display:none;" src="../images/ajax-loader.gif"/></li>
-				</ul>
-				<hr>
-				<a href="#" id="apply-<%= allId %>" class="button">Apply Filters</a>
-				<a href="#" id="cancel-<%= allId %>" class="">Cancel</a>
-			</div>
-    </li>
+<script type="text/template" id="more-topic-column-header">
+	<li class="selection-list_header"><span class="fa fa-caret-right"></span><%= name %></li>
 </script>
 
+<script type="text/template" id="loader">
+	<div class="progress">
+		<div class="progress-bar progress-bar-striped active" role="progress-bar" id="progress-<%= allId %>"></div>
+	</div>
+</script> 
 
 <script type="text/javascript">     
 	$(document).ready(function() {
-		
+		$.get('/checkjs.cfm?s=QAQAJAG');
 		populateRecentPages();
 		$("img").removeClass("lazyimg").unveil(100);
 	});
@@ -1063,6 +1224,6 @@ document.write('<script src=' +
  </script>
 
 
-<!-- web2 -->
+<!-- web1 -->
 
- <ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><script src="/js/loadJS.js"></script></body></html>
+ <ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-1" tabindex="0" style="display: none;"></ul><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content ui-corner-all" id="ui-id-2" tabindex="0" style="display: none;"></ul><script src="/js/loadJS.js"></script></body></html>
