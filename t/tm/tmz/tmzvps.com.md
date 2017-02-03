@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tmzvps.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408205932id_/https%3A//www.tmzvps.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tmzvps.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203104518id_/https%3A//www.tmzvps.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - tmzVPS
 
@@ -10,13 +10,13 @@ We are committed to protecting any data that we collect concerning you. By using
   
 **Information Collected**
 
-We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and email address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website.  
+We may collect any or all of the information that you give us depending on the type of transaction you enter into, including your name, address, telephone number, fax number and e-mail address, together with data about your use of the website. Other information that may be needed from time to time to process a request may also be collected as indicated on the website.  
 
 
   
 **Information Use**
 
-We use the information collected primarily to process the task for which you visited the website. All reasonable precautions are taken to prevent unauthorised access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details.  
+We use the information collected primarily to process the task for which you visited the website. All reasonable precautions are taken to prevent unauthorized access to this information. This safeguard may require you to provide additional forms of identity should you wish to obtain information about your account details.  
 
 
   
@@ -40,6 +40,4 @@ tmzVPS may disclose any subscriber information to law enforcement agencies witho
   
 **Changes to This Policy**
 
-Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval. 
-
-If you have any questions please contact us.
+Any changes to our Privacy Policy will be placed here and will supersede this version of our Policy. We will take reasonable steps to draw your attention to any changes in our Policy. However, to be on the safe side, we suggest that you read this document each time you use the website to ensure that it still meets with your approval.
