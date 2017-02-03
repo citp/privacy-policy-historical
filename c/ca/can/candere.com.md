@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the candere.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402094708id_/http%3A//www.candere.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the candere.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203192759id_/https%3A//www.candere.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ Thank you for visiting Candere.com. Candere respects your privacy and we underst
 
   **SMS Policy**
 
- SMS notifications are sent only to those who have subscribed to Candere's newsletters or updates. Subscribers' or customers' information will not be shared elsewhere; we respect your privacy. 
+ SMS notifications are sent only to those who have subscribed to Candere's newsletters or updates. Subscribers' or customers' information will not be shared elsewhere; we respect your privacy.
 
   **Security**
 
