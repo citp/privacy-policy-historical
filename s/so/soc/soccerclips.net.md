@@ -1,53 +1,71 @@
-> *The following text is extracted and transformed from the soccerclips.net privacy policy that was archived on 2015-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150628230625id_/http%3A//www.soccerclips.net/pageinfo/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soccerclips.net privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203163015id_/https%3A//www.tipsdaddy.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - Tips Daddy
 
-**Soccerclips Privacy Notice**
+#### Eazibet KENYA Bonus
 
-Soccerclips respects your privacy. This Privacy Policy describes how Soccerclips treats personal information when you use our website.  To understand how we treat the information you give us as you use Soccerclips, you should read this policy.
+Ksh100 [](https://www.tipsdaddy.com/tip/eazibet)
 
-**Personal Information**
+**What is this Privacy Policy for?**
 
-* Non-Account Activity. You can watch videos on Soccerclips without having a Soccerclips Account. You can also contact us about a particular video without having a Soccerclips Account.  
-* Account-Related Activity. Certain other activities on Soccerclips—like uploading videos, posting comments, flagging videos or watching restricted videos—require you to have a Soccerclips Account. We ask for some personal information when you create a Soccerclips Account, including your email address and a password, which is used to protect your account from unauthorised access. A Soccerclips Account allows you to access many of our services that require registration.  
-* Usage Information. We may record information about your usage, such as when you use Soccerclips, the favourites you subscribe to, the contacts you communicate with,  the frequency and size of data transfers, as well as information you display or click on in Soccerclips. If you are logged in, we may associate that information with your account.  
-* Content Uploaded to Site. Any personal information or video content that you voluntarily disclose online (on discussion boards, in messages and chat areas, within your playback or profile pages, etc.) becomes publicly available and can be collected and used by others.
+This privacy policy is for this website TipsDaddy.com and served by iGamer Limited and governs the privacy of its users who choose to use it.
 
- **Uses**
+The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
-* If you submit personally identifiable information to us through the Soccerclips Sites, we use your personal information to operate, maintain and provide to you the general and personalised features and functionality of the Soccerclips Sites and to process any flagging activity or correspondence you send to us.  
-* Your username (not your email address) is displayed to other users when you upload videos or send messages through the Soccerclips Sites and other users can contact you through messages and comments. Any videos that you submit to Soccerclips may be redistributed through the Internet and other media channels and may be viewed by the general public.   
-* We do not use your email address or other personally identifiable information to send commercial or marketing messages without your consent. We may, however, use your email address without further consent for non-marketing or administrative purposes (such as notifying you of major Soccerclips Sites changes or for customer service purposes).  
-* We use both your personally identifiable information and certain non-personally identifiable information (such as anonymous user usage data, cookies, IP addresses, browser type, clickstream data, etc.) to improve the quality and design of the Soccerclips Sites and to create new features, promotions, functionality and services by storing, tracking, analysing and processing user preferences and trends, as well as user activity and communications.  
-* We use cookies, clear gifs and log file information to: (a) store information so that you will not have to re-enter it during your visit or the next time you visit the Soccerclips Sites; (b) provide custom, personalised content and information; (c) monitor the effectiveness of our marketing campaigns; (d) monitor aggregate metrics such as total number of visitors, pages viewed, etc.; and (e) track your entries, submissions and status in promotions, sweepstakes and contests.
+ **The Website**
 
- **Information That is Publicly Available**
+This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies to all UK national laws and requirements for user privacy.
 
-* When you create an account on the site, some information regarding your account and your account activity will be provided to other Users of the site. This may include the date you opened your account, the date you last logged in to your account, your age (if you choose to make it public), your country and the number of videos you have watched.  
-* Your account name (not your email address) is displayed to other Users when you engage in certain activity on the site, such as uploading videos or sending messages via the Soccerclips Sites. Other Users can contact you via messages and comments.  
-* You can also choose to add personal information that will be visible to other Users on your channel page (the public facing page for your account on the site). This may include a profile picture, your name, gender or other details.  
-* If you choose to add certain features to your channel page, these features and your activity associated with these features will be displayed to other Users and may be aggregated and shared with your confirmed friends or other Users. Such shared activity may include videos you add as favourites, videos you rate and videos you have uploaded.  
-* Any videos that you submit to the Soccerclips Sites may be redistributed through the Internet and other media channels and may be viewed by the general public.  
-Your Choices
+ **Use of Cookies**
 
-* You may, of course, decline to submit personally identifiable information through the Soccerclips Sites, in which case you can still view videos and explore the Soccerclips Sites, but Soccerclips may not be able to provide certain services to you.  
-* You may update or correct your personal profile information at any time by visiting your account profile page.
+This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user’s device.
 
-* You can control the information that is available to other Users at any time, by editing your account and the features included on your channel page.
+Cookies are small files saved to the user’s device that track, save and store information about the user’s interactions and usage of the website. This allows the website, through its server to provide the users with a tailored experience within this website.
 
- **Third-party Advertisers, Links to Other Sites**
+Users are advised that if they wish to deny the use and saving of cookies from this website on to their device’s memory they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
 
-Soccerclips allows other companies, called third-party ad servers or ad networks, to serve advertisements within the Soccerclips Sites. These third-party ad servers or ad networks use technology to send, directly to your browser, the advertisements and links that appear on the Soccerclips Sites. They automatically receive your IP address when this happens. They may also use other technologies (such as cookies, JavaScript or Web Beacons) to measure the effectiveness of their advertisements and to personalise the advertising content you see.
+This website uses tracking and recording software to monitor its visitors to better understand how they use it. The software will save a cookie to your device’s memory in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information.
 
-  * Google, as a third party vendor, uses cookies to serve ads on our site. 
-  * Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. 
-  * Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy](http://www.google.com/privacy_ads.html). 
+Other cookies may be stored to your device’s memory by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
+ **Contact & Communication**
 
+Users contacting this website and/or its owners do so at their own discretion and provide any such personal details requested at their own risk. Your personal information is kept private and stored securely until a time it is no longer required or has no use, as detailed in the Data Protection Act 1998. Every effort has been made to ensure a safe and secure form to email submission process but advise users using such form to email processes that they do so at their own risk.
 
-Because publisher sites and laws across countries vary, we're unable to suggest specific privacy policy language. However, you may wish to review resources such as the [Network Advertising Initiative](http://www.networkadvertising.org/), or NAI, which suggests the following language for data collection of non-personally identifying information:
+This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted. This includes using your details to subscribe you to any email newsletter program the website operates but only if this was made clear to you and your express permission was granted when submitting any form to email process. Or whereby you the consumer have previously purchased from or enquired about purchasing from the company a product or service that the email newsletter relates to. This is by no means an entire list of your user rights in regard to receiving email marketing material. Your details are not passed on to any third parties.
 
-> We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click [here](http://www.doubleclick.com/privacy/faq.aspx "here").
+ **Email Newsletter**
 
-Soccerclips does not provide any personally identifiable information to these third-party ad servers or ad networks without your consent.  
-You should consult the respective privacy policies of these third-party ad servers or ad networks for more information on their practices and for instructions on how to opt out of certain practices. Soccerclips’ privacy policy does not apply to, and we cannot control the activities of, such other advertisers or websites. Any data obtained by third-party ad servers, which is subsequently shared with Soccerclips, is maintained and handled by Soccerclips in accordance with this privacy policy.
+This website operates an email newsletter program, used to inform subscribers about products and services supplied by this website. Users can subscribe through an online automated process should they wish to do so but do so at their own discretion. Some subscriptions may be manually processed through prior written agreement with the user.
+
+Subscriptions are taken in compliance with UK Spam Laws detailed in the Privacy and Electronic Communications Regulations 2003. All personal details relating to subscriptions are held securely and in accordance with the Data Protection Act 1998. No personal details are passed on to third parties nor shared with companies / people outside of the company that operates this website. Under the Data Protection Act 1998 you may request a copy of personal information held about you by this website’s email newsletter program. A small fee will be payable. If you would like a copy of the information held on you please write to the business address at the bottom of this policy.
+
+Email marketing campaigns published by this website or its owners may contain tracking facilities within the actual email. Subscriber activity is tracked and stored in a database for future analysis and evaluation. Such tracked activity may include; the opening of emails, forwarding of emails, the clicking of links within the email content, times, dates and frequency of activity [this is by no far a comprehensive list].
+
+This information is used to refine future email campaigns and supply the user with more relevant content based around their activity.
+
+In compliance with UK Spam Laws and the Privacy and Electronic Communications Regulations 2003 subscribers are given the opportunity to un-subscribe at any time through an automated system. This process is detailed at the footer of each email campaign. If an automated un-subscription system is unavailable clear instructions on how to un-subscribe will by detailed instead.
+
+ **External Links**
+
+Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website.
+
+The owners of this website cannot guarantee or verify the contents of any externally linked website despite their best efforts. Users should therefore note they click on external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
+ **Adverts and Sponsored Links**
+
+This website contains sponsored links and adverts. These will typically be served through our advertising partners, to whom may have detailed privacy policies relating directly to the adverts they serve.
+
+Clicking on any such adverts will send you to the advertisers website through a referral program which may use cookies and will track the number of referrals sent from this website. This may include the use of cookies which may in turn be saved on your devices memory. Users should therefore note they click on sponsored external links at their own risk and this website and its owners cannot be held liable for any damages or implications caused by visiting any external links mentioned.
+
+ **Social Media Platforms**
+
+Communication, engagement and actions taken through external social media platforms that this website and its owners participate on are custom to the terms and conditions as well as the privacy policies held with each social media platform respectively.
+
+Users are advised to use social media platforms wisely and communicate / engage upon them with due care and caution in regard to their own privacy and personal details. This website nor its owners will ever ask for personal or sensitive information through social media platforms and encourage users wishing to discuss sensitive details to contact them through primary communication channels such as by telephone or email.
+
+This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
+
+#### Eazibet KENYA Bonus
+
+Ksh100 [](https://www.tipsdaddy.com/tip/eazibet)
