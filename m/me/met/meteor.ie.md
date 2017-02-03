@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729034705id_/https%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meteor.ie privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203185536id_/https%3A//www.meteor.ie/privacy_policy/%3Flinkid%3Dfooter) for the most accurate reproduction.*
 
-# Meteor - Privacy Policy
+# Meteor | Bill Pay Phones | Pay As You Go Phones | Smartphones
 
 Meteor Mobile Communications Limited (hereinafter referred to as "Meteor", "us", "we", or "our") is committed to respecting your privacy and to complying with all applicable data protection and privacy laws. The objective of this policy is to inform you how we handle your personal data.
 
@@ -47,7 +47,11 @@ For the purposes of providing Meteor Services to you it may be necessary for you
 
 Where you have agreed to be in included in our directory enquiry list your information will automatically be included in the National Directory Database (NDD) currently hosted by eircom (as nominated by the Commission for Communications Regulation (ComReg)). We will automatically list you as preferring not to receive direct telemarketing from third parties. You may wish to contact us if you would like to amend this preference. Under no circumstances will lists of customer data/information (i.e. mailing lists or database information) be disclosed to a third party for that third party's exploitation or use without your express permission.
 
-Meteor may disclose your Personal Data acting in good faith if it believes such action is necessary: to conform with a legal requirement or comply with the legal process, protect and defend the rights or property of Meteor and act to protect the interests of its customers or others
+Meteor may disclose your Personal Data acting in good faith if it believes such action is necessary: to conform with a legal requirement or comply with the legal process, protect and defend the rights or property of Meteor and act to protect the interests of its customers or others.
+
+## Credit Insights
+
+If you are a new Customer on or after 29th November 2016 or if you are an existing Customer who enters into a new contract with eir on or after 29th November 2016 please note if you allow your account to fall into arrears by not paying your bills in full and on time, information on your payment performance may be shared with other service providers of landline, broadband and mobile services through the provision of the information to a database operated by the service providers called Credit Insights. Other providers of services who also supply information on payment performance of their customers to the Credit Insights database may check this information when you apply for their services in the future to help them assess your credit worthiness. The information shared with Credit Insights includes name, address, date of birth and account details to include account history and balance owed, and will be held on the database for 6 years from the date of the notification of the arrears.
 
 ## Accuracy of Data
 
