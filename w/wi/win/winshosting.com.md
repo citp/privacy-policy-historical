@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winshosting.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227141008id_/http%3A//www.winshosting.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winshosting.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203175344id_/http%3A//www.winshosting.com/privacy-policy.html) for the most accurate reproduction.*
 
 # domain hosting privacy - hide whois information - WinsHosting
 
