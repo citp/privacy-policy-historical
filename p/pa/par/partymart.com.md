@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the partymart.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006145445id_/http%3A//www.partymart.com/usa/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partymart.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203124000id_/http%3A//www.partymart.com/usa/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+Updated: Monday October 31st, 2011
+
+Effective: Tuesday November 1st, 2011
 
 PartyMart.com respects your privacy. We will only collect, store and use your personal information for defined purposes. The information that you provide us with will be kept confidential and will only be used to support your customer relationship with PartyMart.com. Information we request includes your name, e-mail address, phone number, address, type of business, credit card details, customer preference information, as well as other similar or relevant personal information.
 
@@ -17,21 +21,3 @@ Please be aware that other websites accessed through PartMart.com may collect pe
 Please note that while it is PartyMart.com’s intention to protect and not disclose personal information we will abide by all governing and legal rulings including legal requests from various governments and law-enforcement officials where necessary.  This process may also include pro-active protection of PartyMart.com, its customers, employees and properties where necessary at the managements sole discretion.
 
 This policy was last updated on October 31st, 2011 and effective on the same date. If and hwen this policy is changed the dates will automatically be updated, no further notification may be made.
-
-If you have any questions or concerns about our privacy, contact us at:
-
-Customer Relations
-
-c/o PartyMart.com worldwide Inc.
-
-1493 Begin
-
-Montreal, Quebec
-
-H4R 1V8
-
-[info@partymart.com](mailto:info@partymart.com)
-
-1-866-669-6278
-
-You may also like to visit our Terms and Conditions page for more information concerning to the use of our website.
