@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wickedclothes.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119072533id_/http%3A//www.wickedclothes.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wickedclothes.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203014305id_/https%3A//www.wickedclothes.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
