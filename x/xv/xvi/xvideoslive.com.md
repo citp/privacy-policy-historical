@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xvideoslive.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118220622id_/http%3A//www.xvideoslive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xvideoslive.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203153558id_/https%3A//www.xvideoslive.com/privacy.html) for the most accurate reproduction.*
 
 # XVideosLive - Privacy Policy
 
-[Home](http://www.xvideoslive.com/) / Privacy Policy
+[Home](http://xvideoslive.com/) / Privacy Policy
 
 By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
