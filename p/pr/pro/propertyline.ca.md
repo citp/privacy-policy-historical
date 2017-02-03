@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the propertyline.ca privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315015416id_/http%3A//www.mpac.ca/privacy_policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propertyline.ca privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203185809id_/https%3A//www.mpac.ca/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Statement | MPAC
 
 ### Privacy Policy
 
-The Municipal Property Assessment Corporation (MPAC) is committed to managing the collection, retention and dissemination of personal and non-personal information in a manner which complies with the requirements of the _[Assessment Act](http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90a31_e.htm "assessment act at ontario government website")_ , the _[Municipal Freedom of Information and Protection of Privacy Act](http://www.e-laws.gov.on.ca/html/statutes/english/elaws_statutes_90m56_e.htm "Municipal Freedom of Information and Protection of Privacy Act on the Ontario government website")_ and all other relevant legislation, regulations and judicial rulings.
+The Municipal Property Assessment Corporation (MPAC) is committed to managing the collection, retention and dissemination of personal and non-personal information in a manner which complies with the requirements of the _[Assessment Act](https://www.ontario.ca/laws/statute/90a31 "assessment act at ontario government website")_ , the _[Municipal Freedom of Information and Protection of Privacy Act](https://www.ontario.ca/laws/statute/90m56 "Municipal Freedom of Information and Protection of Privacy Act on the Ontario government website")_ and all other relevant legislation, regulations and judicial rulings.
 
 Except as required by law, MPAC does not release personal information, or any other data which would divulge the identity of an individual. While MPAC may release aggregate information in the form of demographic studies constructed from the analysis of personal information, these studies do not identify individuals. Further, MPAC does not release actual income or expense information except where statutorily required to do so.
 
