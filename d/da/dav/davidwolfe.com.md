@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the davidwolfe.com privacy policy that was archived on 2016-06-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160628004214id_/http%3A//www.davidwolfe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the davidwolfe.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203155814id_/https%3A//www.davidwolfe.com/privacy-policy) for the most accurate reproduction.*
 
-# 
+# Privacy Policy - David Avocado Wolfe
 
 This Privacy Policy governs the manner in which Chaga Inc. collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://www.davidwolfe.com/ website (“Site”). This privacy policy applies to the Site and all products and services offered by Chaga Inc..
 
@@ -20,16 +20,16 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 Chaga Inc. may collect and use Users personal information for the following purposes:
 
-  *  _To run and operate our Site_  
-We may need your information display content on the Site correctly.
-  *  _To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  *  _To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  *  _To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  *  _To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
+  * _To run and operate our Site_  
+We may need your information display content on the Site correctly. 
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  * _To improve our Site_  
+We may use feedback you provide to improve our products and services. 
+  * _To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service. 
+  * _To run a promotion, contest, survey or other Site feature_  
+To send Users information they agreed to receive about topics we think will be of interest to them. 
 
 
 
@@ -39,7 +39,7 @@ We adopt appropriate data collection, storage and processing practices and secur
 
 ### Sharing your personal information
 
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. 
 
 ### Third party websites
 
