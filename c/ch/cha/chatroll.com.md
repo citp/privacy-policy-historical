@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatroll.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807005214id_/https%3A//chatroll.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatroll.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203062355id_/https%3A//chatroll.com/privacy) for the most accurate reproduction.*
 
 # Chatroll — Privacy Policy
 
