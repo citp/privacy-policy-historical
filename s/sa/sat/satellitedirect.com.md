@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the satellitedirect.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120161952id_/http%3A//www.satellitedirect.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satellitedirect.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203102238id_/http%3A//www.satellitedirect.com/privacy.html) for the most accurate reproduction.*
 
 # Satellitedirect.com
 
@@ -23,14 +23,14 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 **Notifications & Opt-Out  
 **If you choose to purchase Software, we will send you a welcome email including information about your purchase and the Software. Unless you elect otherwise, we will periodically send you emails notifying you about new or upcoming products or services, Software updates, information about changing or updating your payment information, changes to our Privacy Policy and any End User License Agreement (“EULA”), and promotional materials and offers from our company as well as from our subsidiaries, affiliates, marketing partners, advertisers and other third parties. Out of respect for your privacy, if you no longer wish to receive these emails, you may opt-out of receiving them by 
 
-_[clicking here](https://web.archive.org/web/20161120161952id_/http%3A//www.satellitedirect.com/contactus.php)_
+_[clicking here](https://web.archive.org/web/20170203102238id_/http%3A//www.satellitedirect.com/contactus.php)_
 
 . 
 
 **Disclosure  
 **We understand how highly our users value the privacy and security of their personally identifiable information. We will disclose information collected from and about you to the following entities for the following purposes: **** (1) to our related companies, service providers and suppliers, to enable them to fulfill a product or service request or to perform a business, professional or technical support function for us; (2) as necessary if we believe that there has been a violation of a EULA or of our rights or the rights of any third party; and (3) **** to respond to judicial process and provide information to law enforcement agencies or in connection with an investigation on matters related to public safety, as permitted by law, or otherwise as required by law. ****
 
-We **** may also sell, rent or lease your personal information to our marketing partners, advertisers or other third parties. If you would prefer that we not share your personal information with such third parties, please [click here](https://web.archive.org/web/20161120161952id_/http%3A//www.satellitedirect.com/contactus.php). 
+We **** may also sell, rent or lease your personal information to our marketing partners, advertisers or other third parties. If you would prefer that we not share your personal information with such third parties, please [click here](https://web.archive.org/web/20170203102238id_/http%3A//www.satellitedirect.com/contactus.php). 
 
 **Business Transitions  
 **In the event ETVCORP goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, any personally identifiable information we have on record will likely be among the assets transferred. The transferred personally identifiable information will remain subject to the provisions of this Privacy Policy or any subsequent updated versions. 
@@ -50,7 +50,7 @@ The Software may also contain links to websites of our marketing partners. We pr
 **We may periodically update this policy, and will post a notice of such updates on our websites. We will attempt to notify you of material updates by sending a notice to an email address you may have provided to us. ****
 
  **Contact Us  
-**If you have any questions or concerns about this policy or any SatelliteDirect software product, please [click here](https://web.archive.org/web/20161120161952id_/http%3A//www.satellitedirect.com/contactus.php) to contact us. 
+**If you have any questions or concerns about this policy or any SatelliteDirect software product, please [click here](https://web.archive.org/web/20170203102238id_/http%3A//www.satellitedirect.com/contactus.php) to contact us. 
 
 Effective Date: October 7, 2010 
 
