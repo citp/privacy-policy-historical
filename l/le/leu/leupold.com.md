@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leupold.com privacy policy that was archived on 2015-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151205095817id_/http%3A//www.leupold.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leupold.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203155501id_/https%3A//www.leupold.com/privacy) for the most accurate reproduction.*
 
 # Leupold Optics Privacy Policy - | Leupold Optics
 
