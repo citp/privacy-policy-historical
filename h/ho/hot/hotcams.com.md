@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the hotcams.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201230608id_/http%3A//www.hotcams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotcams.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203180542id_/https%3A//www.hotcams.com/privacy.html) for the most accurate reproduction.*
 
 # Hotcams - Privacy Policy
 
-[Home](http://www.hotcams.com/) / Privacy Policy
+[Home](http://hotcams.com/) / Privacy Policy
 
 By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
