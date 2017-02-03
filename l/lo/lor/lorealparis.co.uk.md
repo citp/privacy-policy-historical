@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lorealparis.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119055305id_/http%3A//www.loreal-paris.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lorealparis.co.uk privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203085418id_/http%3A//www.loreal-paris.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Legal Information - L'Oréal Paris
 
