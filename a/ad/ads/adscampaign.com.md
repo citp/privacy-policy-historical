@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adscampaign.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928055954id_/http%3A//www.adscampaign.com/company/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adscampaign.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203140343id_/http%3A//www.adscampaign.com/company/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Advertiser Online Advertising
 
