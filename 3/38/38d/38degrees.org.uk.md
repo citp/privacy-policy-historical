@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627140715id_/http%3A//home.38degrees.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 38degrees.org.uk privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203173650id_/http%3A//home.38degrees.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - 38 Degrees
 
@@ -25,6 +25,8 @@ One of the primary purposes of cookies is to provide a convenience feature to sa
 We use Google Analytics to analyse the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users’ computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google’s privacy policy is available [here](http://www.google.com/privacypolicy.html). Our advertisers/payment services providers may also send you cookies.
 
 You have the ability to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the 38degrees.org.uk services or other websites you visit.
+
+You can opt-out of the collection of information for advertising targeting here: <http://www.aboutads.info/choices>
 
 ### **3\. How will we use your personal data?**
 
