@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bosomplumpers.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602060831id_/http%3A//www.bosomplumpers.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bosomplumpers.com privacy policy that was archived on 2017-02-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170203042451id_/http%3A//bosomplumpers.com/privacy.html%3F) for the most accurate reproduction.*
 
 # BosomPlumpers - Privacy Policy
 
-[Home](http://www.bosomplumpers.com/) / Privacy Policy
+[Home](http://bosomplumpers.com/) / Privacy Policy
 
 By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
