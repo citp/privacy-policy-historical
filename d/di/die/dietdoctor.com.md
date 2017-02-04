@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dietdoctor.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204092017id_/https%3A//www.dietdoctor.com/terms) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dietdoctor.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204072044id_/https%3A//www.dietdoctor.com/terms) for the most accurate reproduction.*
 
 # Terms and Conditions - Diet Doctor
 
@@ -18,11 +18,11 @@ For questions or concerns about any medical conditions you may have, please cont
 
 ## Copyright
 
-Feel free to use our non-membership content as long as you add a clearly visible link or reference to our site, and indicate if changes to our content were made. You may use our non-membership content in any reasonable manner, but not in any way that suggests Diet Doctor endorses you or your usage of our content.
+Feel free to use our articles and guides as long as you add a clearly visible link or reference to our site, and indicate if changes to our content were made. You may use such content in any reasonable manner, but not in any way that suggests Diet Doctor endorses you or your usage of our content.
+
+You may not use our recipes or membership content unless you have obtained the right to do so from us. 
 
 You may not use our content for commercial purposes unless you have obtained the right to do so from us.
-
-Before distributing membership content, please [contact us](mailto:support@dietdoctor.com).
 
 ## Privacy Policy
 
