@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidedmind.com privacy policy that was archived on 2015-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150807072927id_/https%3A//www.guidedmind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidedmind.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204230656id_/https%3A//www.guidedmind.com/privacy-policy) for the most accurate reproduction.*
 
 # Guided Mind - Privacy Policy
 
@@ -18,7 +18,7 @@ This Application collects some Personal Data from its Users.
 
 ## Data Controller and Owner
 
-Guided Mind Ltd, Guided Mind Ltd, 67 The Mead, Darlington, Co Durham, DL1 1EU
+Guided Mind Ltd, Bridge Media Ltd, 67 The Mead, Darlington, Co Durham, DL1 1EU
 
 ## Types of Data collected
 
