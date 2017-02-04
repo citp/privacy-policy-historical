@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flognaw.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810050038id_/http%3A//www.flognaw.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flognaw.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204065412id_/http%3A//www.flognaw.com/privacy.html) for the most accurate reproduction.*
 
 # Free Web Directory - Submit Link - Add URL - Privacy Policy
 
