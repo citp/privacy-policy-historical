@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the vacationrentalplanners.com privacy policy that was archived on 2014-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140929134826id_/http%3A//www.vacationrentalplanners.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vacationrentalplanners.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204045115id_/https%3A//www.tripz.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-## Privacy Policy
 
 Collection of information and it's protection
 
 We collect information like email addresses or other personal information required for authentication of property owners. This information is either collected through email communication or a direct phone call. This information is strictly used for owner identification and future correspondences only. We do not get involved in any information selling processes. Privacy of the information is our first priority.
 
-**Entire property details, photos and other information is provided by the property owners. HolidayRentals.com is not responsible for any data duplicacy or authenticity as it is owners copyright and their responsibilty.**
+**Entire property details, photos and other information is provided by the property owners. Tripz.com is not responsible for any data duplicacy or authenticity as it is owners copyright and their responsibilty.**
 
 We also record IP address of the visitor for statistics and analytics purposes on the listing pages of our website.
 
@@ -38,7 +36,8 @@ If you receive an unsolicited email requesting personal information like credit 
 
 Opting out of receiving marketing messages
 
-As a part of marketing, we may contact you through email or phone.  
+As a part of marketing, we may contact you through email or phone.
+
 You can opt out of these marketing communications by following ways -: 
 
   * Contact us at SUPPORT
@@ -49,7 +48,3 @@ You can opt out of these marketing communications by following ways -:
 Contact US
 
 If you have any questions about our Terms & Conditions, Privacy Policy, Process of marketing etc, you may contact us at SUPPORT. 
-
-Call our customer services team on the number below to speak to one of our advisors who will help you with all of your holiday needs.
-
-Call: +44-121-318-5610
