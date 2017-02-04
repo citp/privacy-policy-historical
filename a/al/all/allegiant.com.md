@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the allegiant.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630004011id_/https%3A//www.allegiantair.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allegiant.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204023627id_/https%3A//www.allegiantair.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Allegiant Air
+# Allegiant Air
 
 Effective 05 April 2016
 
