@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitconnect.co privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113202503id_/https%3A//bitconnect.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitconnect.co privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204062928id_/https%3A//bitconnect.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bitconnect
 
