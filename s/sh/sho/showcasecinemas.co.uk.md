@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the showcasecinemas.co.uk privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220092956id_/http%3A//www.showcasecinemas.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showcasecinemas.co.uk privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204205941id_/https%3A//www.showcasecinemas.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Showcase Cinemas
 
