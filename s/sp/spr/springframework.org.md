@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the springframework.org privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611201547id_/http%3A//www.pivotal.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springframework.org privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204140050id_/https%3A//www.pivotal.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Pivotal
 
 Pivotal Software, Inc. Privacy Statement
 
-Last Updated on March 17, 2014
+Last Updated on November 1, 2016
 
 General Information
 
@@ -103,8 +103,10 @@ Pivotal Contact Information for Your Marketing Choices and Your Requests for Acc
 
 Headquarters
 
-3495 Deer Creek Road   
-Palo Alto, CA 94304 
+875 Howard Street   
+Fifth Floor   
+San Francisco, CA 94103   
+United States 
 
 Transfer of Your Information to Other Countries
 
@@ -134,8 +136,10 @@ Questions About and Enforcement of this Privacy Statement
 
 If you have questions regarding our compliance with this Privacy Statement, please contact us by making an e-mail submission to the Pivotal Legal Department at [legal@pivotal.io](mailto:legal@pivotal.io) or by mail to 
 
-3495 Deer Creek Road   
-Palo Alto, CA 94304   
+875 Howard Street   
+Fifth Floor   
+San Francisco, CA 94103   
+United States   
 Attn: Pivotal Legal Department 
 
 Changes to this Privacy Statement
