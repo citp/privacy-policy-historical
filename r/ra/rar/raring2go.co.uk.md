@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502113637id_/http%3A//raring2go.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raring2go.co.uk privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204102639id_/https%3A//raring2go.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy
 
