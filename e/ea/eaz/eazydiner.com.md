@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eazydiner.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414223211id_/https%3A//www.eazydiner.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eazydiner.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204172319id_/https%3A//www.eazydiner.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Static | Eazydiner
 
@@ -138,11 +138,9 @@ If there are any questions regarding this privacy policy you may contact us usin
 
 www.eazydiner.com
 
-V - 9/6 DLF Phase 3
+58,SIRIS ROAD, DLF PHASE-III,
 
-Gurgaon
-
-122010
+Gurgaon - 122010
 
 India
 
