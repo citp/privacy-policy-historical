@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gogoanimeonline.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220220645id_/http%3A//gogoanimeonline.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gogoanimeonline.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205001034id_/http%3A//www1.gogoanimeonline.com/privacy.html) for the most accurate reproduction.*
 
 # Watch anime online in high quality at GoGoAnime
 
