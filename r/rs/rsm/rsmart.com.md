@@ -1,21 +1,21 @@
-> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330070910id_/https%3A//www.rsmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsmart.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204090413id_/https%3A//www.rsmart.com/privacy-policy) for the most accurate reproduction.*
 
-# rSmart Privacy Policy - rSmart OneCampus
+# rSmart Privacy Policy | rSmart
 
 rSmart recognizes and respects the privacy interests of its users. rSmart is committed to protecting that privacy and keeping users informed about our privacy policy.
 
 ## What is covered by this Privacy Statement
 
-  * [rSmart privacy policy and its exceptions](http://www.rsmart.com/privacy-policy#exceptions)
-  * [What do we collect?](http://www.rsmart.com/privacy-policy#what)
-  * [Why do we collect this data?](http://www.rsmart.com/privacy-policy#why)
-  * [How is my personal information used?](http://www.rsmart.com/privacy-policy#how)
-  * [Who else gets to see my information?](http://www.rsmart.com/privacy-policy#who)
-  * [How do I know my information is safe with you?](http://www.rsmart.com/privacy-policy#safe)
-  * [Does rSmart use cookies?](http://www.rsmart.com/privacy-policy#cookies)
-  * [Links](http://www.rsmart.com/privacy-policy#websites)
+  * [rSmart privacy policy and its exceptions](https://www.rsmart.com/privacy-policy#exceptions)
+  * [What do we collect?](https://www.rsmart.com/privacy-policy#what)
+  * [Why do we collect this data?](https://www.rsmart.com/privacy-policy#why)
+  * [How is my personal information used?](https://www.rsmart.com/privacy-policy#how)
+  * [Who else gets to see my information?](https://www.rsmart.com/privacy-policy#who)
+  * [How do I know my information is safe with you?](https://www.rsmart.com/privacy-policy#safe)
+  * [Does rSmart use cookies?](https://www.rsmart.com/privacy-policy#cookies)
+  * [Links](https://www.rsmart.com/privacy-policy#websites)
   * [About this website](https://web.archive.org/privacy-policy#about-this-site)
-  * [Questions](http://www.rsmart.com/privacy-policy#questions)
+  * [Questions](https://www.rsmart.com/privacy-policy#questions)
 
 
 
@@ -69,4 +69,4 @@ This website was created using the latest standards in website development techn
 
 ## Questions?
 
-If you have any questions about this privacy statement and the privacy practices on this site, please [contact us](http://www.rsmart.com/contact-us/ "Contact rSmart").
+If you have any questions about this privacy statement and the privacy practices on this site, please [contact us](https://www.rsmart.com/contact-us/ "Contact rSmart").
