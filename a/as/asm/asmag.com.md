@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the asmag.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911195102id_/http%3A//www.asmag.com/privacy_policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asmag.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204155112id_/https%3A//www.asmag.com/privacy_policy.aspx) for the most accurate reproduction.*
 
-# asmag.com - Security B2B marketplace & Security knowledge library.
+# Untitled Page
 
 What This Privacy Policy Covers
 
