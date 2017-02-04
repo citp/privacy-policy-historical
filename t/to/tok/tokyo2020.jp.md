@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tokyo2020.jp privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205122030id_/https%3A//tokyo2020.jp/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tokyo2020.jp privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204171444id_/https%3A//tokyo2020.jp/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Tokyo Organising Committee of the Olympic and Paralympic Games
 
