@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121194824id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bristol.gov.uk privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204101735id_/https%3A//www.bristol.gov.uk/about-our-website/privacy) for the most accurate reproduction.*
 
 # Privacy - bristol.gov.uk
 
@@ -108,9 +108,9 @@ You may view the council's Data Protection Notification by searching for our reg
 Email: [data.protection@bristol.gov.uk](mailto:data.protection@bristol.gov.uk)
 
 Post:  
-Data Protection Officer  
+Senior Data Protection Officer  
 Bristol City Council  
-Romney House  
-Romney Avenue  
-Bristol  
-BS7 9TB
+ICT Commissioning and Information Governance  
+P O Box 3176  
+BRISTOL  
+BS3 9FS
