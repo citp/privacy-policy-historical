@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couple.net privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112041031id_/http%3A//www.couple.net/about-us/policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couple.net privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204171941id_/http%3A//www.couple.net/about-us/policy.asp) for the most accurate reproduction.*
 
 # Couple.net - Global Matchmaker for True Relationship
 
