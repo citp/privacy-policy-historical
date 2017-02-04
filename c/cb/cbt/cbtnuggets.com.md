@@ -1,232 +1,150 @@
-> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515013638id_/http%3A//www.cbtnuggets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbtnuggets.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204105615id_/https%3A//www.cbtnuggets.com/privacy) for the most accurate reproduction.*
 
 # CBT Nuggets Privacy
 
-## Data Collection
+_Effective July 2016._
 
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 4 data groups. The data practices of each group will be explained separately.
+CBT Nuggets, LLC, a Delaware limited liability company is, located at 1550 Valley River Drive, Eugene, OR 97401, USA **(referred to as “us”, “our”, “we”, “Company”, “CBT Nuggets”)**. We are committed to protecting and respecting your privacy. This Privacy Policy describes the types of information we may collect from you or that you may provide to us when you visit CBT Nuggets’ website located at https://www.cbtnuggets.com **(the “Website”)** or the CBT Nuggets mobile application **(“App”) (collectively the “Services”)** , and our practices for collecting, using, maintaining, protecting and disclosing such information. This Privacy Policy applies to information we collect: (i) through the Services, (ii) in text and electronic messages between you and our Services, and (iii) via mobile applications you download from the Website or via third party vendors, which provide dedicated non-browser-based interactions between you and the Services. This Privacy Policy does not apply to any information collected by us offline or via third-party sites that may be accessed through hyperlinks on the Services.
 
-### Group "Access log information"
+By accessing or using the Services, you expressly agree to this Privacy Policy.  
+Please read the information below:
 
-We collect the following information:
+  1. YOUR CALIFORNIA PRIVACY RIGHTS
+  2. Information we collect about you
+  3. Where we store data
+  4. How we use your information
+  5. Disclosure of your information
+  6. Updating or correcting your personally identifiable information
+  7. Canceling your account or deleting your personally identifiable information
+  8. Choices regarding control of your personally identifiable information
+  9. Data Security
+  10. Cookies
+  11. Mobile Analytics
+  12. Links to third party web sites and advertisers
+  13. Changes to this Privacy Policy
+  14. Communities, forums, chat rooms, and message boards
+  15. How do you contact us with questions?
 
-  * Click-stream data
-  * Search terms
-  * Last URI requested by the user
-  * User agent information
 
 
+**1\. NOTICE TO CALIFORNIA RESIDENTS - “YOUR CALIFORNIA PRIVACY RIGHTS”**  
+If you are a California resident and have provided us with any PII, California law gives you the right to request and receive from us, once per calendar year, information as to how we have shared your PII with third parties for their direct marketing purposes If applicable, such information would include a list of names and addresses of all third parties with whom such information was shared during the prior calendar year as well as a list of the categories of Personally Identifiable Information shared. To make such a request, please send an email to [privacy@cbtnuggets.com](mailto:privacy@cbtnuggets.com) and specify “California Privacy Request” in the subject line. Your request must also include your name, physical mailing address and email address. We will respond to you within thirty days of receiving such a request. 
 
-This data will be used for the following purposes:
+**2\. INFORMATION WE COLLECT ABOUT YOU**  
+We collect several types of information about visitors and/or users of the Services. We may collect this information either directly when you provide it to us or automatically as you navigate through the Website or App. 
 
-  * Completion and support of the current activity.
-  * Web site and system administration.
-  * Research and development.
+(a) _Personally Identifiable Information_. ‘Personally Identifiable Information’ (“PII”) refers to information by which you may be personally identified, such as your name, email address, billing address, company, organization or school. We collect and process such data when you create an account. The relevant data is keyed into a secure webform through third party, cloud based services, via an encrypted session (https/tls). All data entered into this form is temporarily cached in third party cloud service provider’s memory only. There is no data at rest or long-term storage of any PII. The data is sent directly from the cloud service provider to the third party payment gateway service utilized by CBT Nuggets. The data in transit is encrypted. 
 
+When creating an account through the Website or App, you may also be asked to provide a credit card number and other payment-related information. Currently, CBT Nuggets’ cardholder dataflow includes only secure web transactions that transmit cardholder data to a third-party payment gateway provider. Electronic storage of cardholder data is not conducted or permitted. 
 
+You may also voluntarily provide information to be published or displayed (collectively “posted”) on public areas of the Website (such as blogs, forums, message boards, and the CBT Nuggets community), or transmitted to other users of the Website using ‘sharing’ features (collectively “User Contributions”). Your User Contributions are posted and transmitted to others at your own risk. CBT Nuggets cannot control the actions of other users of the Website with whom you may choose to share your User Contributions. 
 
-This data will be used only by ourselves.
+**CBT Nuggets expressly discourages any customers from sending or transmitting any PII via any unsecure networks or channels, including, but not limited to, any customer primary account number (“PAN”) or other cardholder data. You assume any and all risk associated with such transmissions.**
 
-The following explanation is provided for why this data is collected:
+We may also collect your Internet Protocol (‘IP’) address. We use your IP address to diagnose problems with our servers, software, to administer our Services and to gather statistical information on country of origin. 
 
-_Our Web server collects access logs containing this information._
+We do not collect more Personally Identifiable Information than is reasonably necessary to participate in an activity on the Website. 
 
-### Group "Cookies"
+(b) _Non-Personally Identifiable Information_. We may collect, or our third party ad server and/or content server may collect, certain Non-Personally Identifiable Information (“Non-PII”), that does not by itself identify a specific individual. Such information tells us about your equipment, browsing actions, the resources that you access and use through the Services, your operating system and browser type. The information that we collect automatically is ‘statistical’ in nature. It helps us to deliver a better and more personalized service to users, by enabling us to estimate usage patterns, customize our Services according to your individual preferences, and speed up your searches. 
 
-We collect the following information:
+(c) _Device Information_. When you download our App and use our Services, we automatically collect information on the type of device you use and the operating system version, so we know the best application version to provide you with. 
 
-  * HTTP cookies
-  * Unique identifiers
+**3\. WHERE WE STORE DATA**  
+The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for us or for one of our service providers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. CBT Nuggets will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this Privacy Policy. 
 
+**4\. HOW WE USE YOUR INFORMATION**  
+CBT Nuggets uses information held about you in the following ways: 
 
+  * To ensure that content from the Services is presented in the most effective manner for you and for your computer or mobile device;
+  * To provide you with information, products or services that you request from us or which we feel may interest you;
+  * To carry out our obligations arising from any agreements or contracts entered into between you and us, including for billing and collection efforts (as applicable);
+  * If you pay for the Services using a credit card, our cloud services will transmit your credit card data to the payment gateway service;
+  * To allow you to participate in interactive features of the Services, when you choose to do so;
+  * To notify you about changes to the Services, including updates to video and Website content; and
+  * In any other way we may describe when you provide the information.
 
-This data will be used for the following purposes:
 
-  * Research and development.
-  * One-time tailoring.
 
+If you are an existing customer, we will only contact you by e-mail or telephone with information about renewing the Services. 
 
+If you use the Contact Us form on our site, we will keep a record of any information entered for internal purposes only. This information is not provided to any third parties. Additionally, this information will not be used for marketing communications from CBT Nuggets unless otherwise specified in an active account. 
 
-This data will be used only by ourselves.
+**5\. DISCLOSURE OF YOUR INFORMATION**  
+We will share your Personally Identifiable Information with third parties only in the ways that are described in this Privacy Policy. We do not sell, trade, rent or disclose your information to others, except as provided herein: 
 
-The following explanation is provided for why this data is collected:
+(a) CBT Nuggets provides certain aspects of our Services through contractual arrangements with service providers and other third parties. In specific, and limited circumstances, CBT Nuggets and certain service partners use your PII to to deliver the Services. For example, the payment gateway service provider must have access to the financial card information, including PAN, to validate payment for the Services. 
 
-_Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you. We also use cookies to allow our server to maintain information about the contents of your shopping cart._
+(b) Except as provided herein, CBT Nuggets will disclose PII in the following limited circumstances: (i) if required by law enforcement or state or federal court order or subpoena; (ii) if CBT Nuggets has a good faith belief that we are required or permitted to pursuant to governing law; (iii) to protect the rights, reputation, property or safety of CBT Nuggets, or its officers, agents, or employees; (iv) to defend or enforce our rights or your obligations; (v) if the disclosure is required by mandatory professional standards; (vi) to a third party with your prior consent to do so; or (vii) if we are under a duty to disclose or share your PII in order to enforce or apply any contracts or agreement that may exist between you and CBT Nuggets including this Privacy Policy or CBT Nuggets’ License Agreement. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction. 
 
-### Group "Transaction info (required)"
+(c) In the event that CBT Nuggets decides to sell all or part of its membership interest or assets or enters into a merger, the CBT Nuggets expressly reserves the right to include PII and Non-PII among the assets transferred to the acquiring or surviving company. 
 
-We collect the following information:
+(d) We may provide Non-PII about our customers’ sales, traffic patterns, and related Website information to third party advertisers. 
 
-  * Physical contact information
-  * Online contact information
-  * Purchase information
-  * Search terms
-  * User's Name
-  * Name of User's Employer
-  * Transaction history
-  * Computer information
+For a list of third parties and the information that may be shared with or collected by them please click here: [CBT Nuggets Third Parties](https://www.cbtnuggets.com/static/vbfe22df6d86/toolbox/CBT-Nuggets-Third-Parties.pdf)
 
+If you have any inquiries regarding our privacy practices, please contact us directly at [privacy@cbtnuggets.com](mailto:privacy@cbtnuggets.com). 
 
+**6\. UPDATING OR CORRECTING YOUR PERSONALLY IDENTIFYING INFORMATION**  
+You may change any of your PII online by logging into ‘My Account’ through the Website.You may also change your personal information and privacy preferences by emailing us at [privacy@cbtnuggets.com](mailto:privacy@cbtnuggets.com) or [support@cbtnuggets.com](mailto:support@cbtnuggets.com). 
 
-This data will be used for the following purposes:
+You may ask to have your account disabled; however, you will not be able to delete information associated with past transactions on this Website. In addition, we cannot completely delete your information as some data may rest in previous backups. Financial information retained through the Website is never more than last four of card number, name, and expiration date. 
 
-  * Completion and support of the current activity.
-  * Research and development.
+**7\. CANCELING YOUR SUBSCRIPTION**  
+If you are an active CBT Nuggets customer and would like to cancel your subscription, you can log into your account and select ‘My Account’ then ‘Subscription’. You can also contact your sales representatives (as applicable) or contact [support@cbtnuggets.com](mailto:support@cbtnuggets.com). 
 
+Due to CBT Nuggets offering an unpaid service by way of a ‘free-trial’ or ‘free-week’ we reserve the right to retain limited personal information for fraud prevention purposes. This may include information provided during the sign-up process such as name, address and phone number. We also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. _For security purposes, CBT Nuggets reserves the right to reset passwords for inactive accounts_. 
 
+**8\. CHOICES REGARDING CONTROL OF YOUR PERSONALLY IDENTIFIABLE INFORMATION**  
+Through the Website you can access information regarding your recent orders, PII, communication preferences; and payment settings. 
 
-This data will be used only by ourselves. In addition, the following types of entities will receive this information:
+With respect to your communication preferences, you can unsubscribe from CBT Nuggets email communications by following the unsubscribe instructions included in the email you receive or you can log into your account and update your preferences under “Notifications.” If you change your email address, you will need to access your account and update it accordingly. 
 
-  * Delivery services.
+Based upon your Notification preferences for your account, we may occasionally send you direct email about CBT Nuggets products and services that we feel may be of interest to you. Only CBT Nuggets will send you these emails. You may ‘opt-out’ of these messages after which you will no longer receive them. 
 
+We do not send unsolicited commercial emails or spam. We offer commercial email recipients the opportunity to opt-out of further communications in every email, with the exception of non-commercial Service emails regarding any Service order you place. 
 
+**9\. DATA SECURITY**  
+Certain information you provide to us, such as name, address and telephone number, is stored on our secure servers hosted at Amazon Web Services. Any payment transactions made on our website will be encrypted using Transport Layer Security (“TLS”). We do not store financial card data or PANs on our servers. A PCI compliant payment gateway service is responsible for long term storage of all customer financial data. 
 
-The following explanation is provided for why this data is collected:
+To make online purchases you must use an TLS-enabled browser in order to protect the confidentiality of your personal and credit card information, including any PAN, while it is transmitted over the Internet. 
 
-_Information we collect in order to process your purchase._
+Access to your account is granted through a password and unique username you select. This password is encrypted. CBT Nuggets expressly recommends that you do not divulge your password, that you change your password often using a combination of letters, numbers and symbols, and that you ensure access through a secure web browser. CBT Nuggets shall not be held accountable for any adverse effects or activity resulting from your own neglect to safeguard the secrecy of your password and username. If you share a computer, you should always logout of your account after you are finished, in order to prevent access to your information from subsequent users of that computer. 
 
-### Group "Transaction info (optional)"
+If your password or username is compromised, please notify us as soon as possible by calling (888) 888-507-6283 (for United States domestic calls) or (541) 284-5522 (for international calls) for assistance, or email [privacy@cbtnuggets.com](mailto:privacy@cbtnuggets.com). 
 
-We collect the following information:
+Unfortunately, no online data transmission can be fully guaranteed to be secure. Thus, by accessing the Website and/or utilizing the Services, you acknowledge that: (a) there are online security and privacy limitations that are beyond CBT Nuggets’ control; (b) the security, integrity and privacy of any and all information and data exchanged between you and CBT Nuggets through the Website cannot be fully guaranteed and we shall have no liability to you or any third party for loss, misuse, disclosure or alteration of such information not resulting from the direct fault or negligence of CBT Nuggets; and (c) any such information and data may be viewed or tampered with in transit by a third party. 
 
-  * Name of User's Employer
-  * User's Home Contact Information
-  * User's Business Contact Information
-  * Contact Information for the Organization
-  * Organization Name
-  * Department or division of organization
+If we believe that the security of your PII in our control or the control of identified service providers may be compromised, we will notify you as promptly as possible under the circumstances. To the extent we have your email address, we may notify you by email and _you consent to our use of email as a means of such notification_. 
 
+**10\. COOKIES AND OTHER TECHNOLOGIES**  
+When accessing the Website, we may use cookies and other technologies in order to facilitate and customize your use of the Services. 
 
+**What is a cookie?** A cookie is a small data text file, which a website stores on your computer or mobile device (if your browser permits) that can later be retrieved to identify you to us. The cookies enable more efficient use of the Website, including making the Website run more smoothly and saving your logged-in state so that you do not have to login each time that you visit the Website. You may disable and/or delete all types of cookies by using your browser settings. Depending on which browser you use, Cookies are generally easy to disable and/or delete. 
 
-This data will be used for the following purposes:
+We partner with third party ad networks to manage our advertising on other sites. As part of their service, they use cookies and tracking pixels. We will not provide any third-party ad server with any of your PII or purchase/order information. We and our third party ad server will collect and use your IP address and certain Non-PII about you, such as your browser type, the server your computer is logged onto, the area code and zip code associated with your server and whether you responded to a particular advertisement. 
 
-  * Contacting visitors for marketing of services or products.
+**11\. MOBILE ANALYTICS**  
+We use mobile analytics software to allow us to better understand the functionality of our mobile software on your phone. This software may record information such as how often the app is used, events that occur within the app, aggregated usage, performance data, and where the App was downloaded from. We do not link the information we store within the analytics software to any PII you submit within the App. Analytics data cannot be linked with an individual user with exception to crash-reports. The crash-report may be used to identify the mobile device and account for further troubleshooting by software developers. 
 
+**12\. LINKS TO THIRD PARTY WEB SITES AND ADVERTISERS**  
+Except as otherwise expressly provided, this Privacy Policy only addresses the use and disclosure of information CBT Nuggets collects from you. The Website may contain hyperlinks to other third-party web sites, which may collect and disclose information in a manner not consistent with this Privacy Policy, and such collection and disclosure would be governed by that website’s privacy policy, and any questions or concerns should be directed to that company’s site administrator or provided contact information. We are not responsible for the collection, use, or disclosure of information collected through any third-party web sites, and we expressly disclaim any and all liability related to such collection, use, or disclosure. 
 
+**13\. CHANGES TO THIS PRIVACY POLICY**  
+CBT Nuggets shall post any revisions to this Privacy Policy on this web page link. The Effective Date this Privacy Policy version is identified at the top of the page. You are responsible for ensuring we have an up-to-date active and deliverable e-mail address for you, and for periodically visiting the Website and this Privacy Policy to check for any changes. 
 
-This data will be used only by ourselves. In addition, the following types of entities will receive this information:
+Your continued use of the Services after such modifications will constitute your: (a) acknowledgment of the modified Privacy Policy; and (b) agreement to abide and be bound by the modified Privacy Policy. 
 
-  * Delivery services.
+**14\. COMMUNITIES, FORUMS, CHAT ROOMS, AND MESSAGE BOARDS**  
+Any PII that you voluntarily disclose on any Website communities, message boards, forums, and blogs may be collected, accessed and used by third parties and may result in unsolicited messages from third parties. CBT Nuggets is unable to govern any third party’s use of PII that you voluntarily disclose or publish. To request removal of your PII from our blog or community forum, please contact us at [support@cbtnuggets.com](mailto:support@cbtnuggets.com), however note that although CBT Nuggets can remove the PII you posted or published to any such public or Website forum, CBT Nuggets has no ability to delete any copy of the PII made by any third party after your disclosure. 
 
+You acknowledge and accept that any submissions to chat rooms or other public areas on the Websites are accessible to all third parties. If you do not want your comments to be viewed by third parties, you are advised not to make any submissions. Ultimately, you are solely responsible for all activity conducted by you via communities, forums, message boards, chat rooms, blogs etc. 
 
+**CBT Nuggets expressly discourages any customers from sending or transmitting any PII via any unsecure networks or channels, including, but not limited to, any customer primary account number (“PAN”) or other cardholder data. You assume any and all risk associated with such transmissions.**
 
-The following explanation is provided for why this data is collected:
+**15\. HOW DO YOU CONTACT US WITH QUESTIONS?**  
+If you have any questions about this Privacy Policy please contact us by email at [privacy@cbtnuggets.com](mailto:privacy@cbtnuggets.com) or by sending a letter to: 
 
-_Information we collect in order to process your purchase._
-
-## Cookies
-
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.
-
-In some cases we may collect cookies from 3rd parties, such as Google or DoubleClick.
-
-You can opt out of DoubleClick's use of cookies by visiting: [DoubleClick opt-out page](http://www.doubleclick.com/privacy/dart_adserving.aspx)
-
-You can opt out of Google's use of cookies by visiting: [Google advertising opt-out page](http://www.google.com/privacy_ads.html)
-
-Our site makes use of cookies. Cookies are used for the following purposes:
-
-  * User targeting
-  * Research and development
-
-
-
-## Compact Policy Summary
-
-The compact policy which corresponds to this policy is:
-
-CP="CAO CURa ADMa DEVa TAIa CONa OUR DELa BUS IND PHY ONL UNI PUR COM NAV INT DEM STA" 
-
-The following table explains the meaning of each field in the compact policy.
-
-**Field** | **Meaning**  
----|---  
-`CP=` | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-`CAO` |  Access is available to contact and other information.   
-`CURa` |  The data is used for completion of the current activity.   
-`ADMa` |  The data is used for site administration.   
-`DEVa` |  The data is used for research and development.   
-`TAIa` |  The data is used for tailoring the site.   
-`CONa` |  The data is used for contacting the user.   
-`OUR` |  The data is given only to ourselves.   
-`DELa` |  The data is given to delivery services.   
-`BUS` |  Our business practices specify how long the data will be kept.   
-`IND` |  The data will be kept indefinitely.   
-`PHY` |  Physical contact information is collected.   
-`ONL` |  Online contact information is collected.   
-`UNI` |  Unique identifiers are collected.   
-`PUR` |  Purchase information is collected.   
-`COM` |  Computer information is collected.   
-`NAV` |  Navigation and clickstream data is collected.   
-`INT` |  Interactive data is collected.   
-`DEM` |  Demographic and socioeconomic data is collected.   
-`STA` |  State-management data is collected   
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at <http://www.w3.org/TR/p3pdeployment>.
-
-  
-
-
-## Policy Evaluation
-
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6.
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser.
-
-**Unsatisfactory policy** : this compact policy is considered _unsatisfactory_ according to the rules defined by Internet Explorer 6. The behavior of Internet Explorer 6 regarding cookies set under this compact policy is as follows:
-
-| **First-party usage** | **Third-party usage**  
----|---|---  
-**Persistent Cookies** | 
-
-  * **Low:** Policy satisfactory at this level; cookies will be accepted.
-  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie.
-  * **Medium High:** No opt-out is provided, so the cookie will be **blocked**.
-  * **High:** Since opt-in is not required, the cookie will be **blocked**.
-
-| 
-
-  * **Low:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **downgraded** to a session cookie.
-  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **blocked**.
-  * **Medium High:** Since opt-in is not required, the cookie will be **blocked**.
-  * **High:** Since opt-in is not required, the cookie will be **blocked**.
-
-  
-**Session Cookies** | 
-
-  * **Low:** Policy satisfactory at this level; cookies will be accepted.
-  * **Medium:** Policy satisfactory at this level; cookies will be accepted.
-  * **Medium High:** Policy satisfactory at this level; cookies will be accepted.
-  * **High:** Since opt-in is not required, the cookie will be **blocked**.
-
-| 
-
-  * **Low:** Policy satisfactory at this level; cookies will be accepted.
-  * **Medium:** Opt-out is not provided for all unsatisfactory purposes and recipients, so the cookie will be **blocked**.
-  * **Medium High:** Since opt-in is not required, the cookie will be **blocked**.
-  * **High:** Since opt-in is not required, the cookie will be **blocked**.
-
-  
-  
-A policy which is considered unsatisfactory by Internet Explorer 6 contains certain categories of data which are used or shared in a particular manner. This policy is placed in the unsatisfactory category, because the following categories of data are associated with this policy's cookies:
-
-  * Physical contact information is collected.
-  * Online contact information is collected.
-
-
-
-In addition, the data is used in the following manner, marking the policy as unsatisfactory:
-
-  * The data is used for contacting the user.
-
-
-
-Note that allowing an opt-out will make this policy acceptable under the Low and Medium settings, and under Medium High for first-party cookie usage. At the High setting, and at the Medium High setting for third-party cookies, all of these data uses must be opt-in for the policy to be considered satisfactory.
-
-## Social Media
-
-Opinions expressed on this website and in any corresponding comments are the personal opinions of the original contributing authors, not of CBT Nuggets, LLC. The content is provided for entertainment, educational, or informational purposes only and is not meant to be an endorsement or representation by CBT Nuggets, LLC or any other party. Visitors may post reviews, comments, photos and other content, submit suggestions, questions, or other information, so long as the content is not illegal, obscene, threatening, defamatory, invasive of privacy, infringing of intellectual property rights, or other injurious to third parties. You may not use a false email address, impersonate any person or entity, or otherwise mislead as to the origin of your content and/or your identity. 
-
-This site is available to the public. No information you consider confidential or desire to remain private should be posted to this site. By posting you agree to be solely responsible for the content of all information you contribute, link to, or otherwise upload to the website and release CBT Nuggets, LLC from any liability related to your use of the posting in its entirety. If you choose to post, you grant CBT Nuggets a non-exclusive, royalty-free, perpetual, irrevocable and fully sub-licensable right to use, reproduce, modify adapt, publish, translate, distribute, and display such content throughout the world in any media. This includes, but is not limited to, use of website url, links, pictures, movies, and commentary. 
-
-Posts are moderated for relevance and suitability and are approved at the discretion of the moderator. 
+CBT Nuggets, LLC  
+Attn: Legal Department  
+1550 Valley River Drive  
+Eugene, OR 97401 
