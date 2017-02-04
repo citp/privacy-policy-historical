@@ -1,38 +1,80 @@
-> *The following text is extracted and transformed from the caseable.com privacy policy that was archived on 2014-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140214194338id_/http%3A//www.caseable.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caseable.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204134326id_/https%3A//caseable.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | caseable
+# Privacy caseable
 
-## Privacy policy of caseable, LLC
-
-  
-
+## General
 
 The privacy and safety of personal data has an important value for caseable, LLC (hereinafter caseable). The processing, usage and collection of personal data shall only be undertaken due to a legal obligation or with the consent of the individual. Should anonymous or pseudonymous data be needed for business purposes, then only these forms of data shall be used.
 
-Personal data that is stored at caseable is protected by technical and operational safeguards against potential unauthorised access or abuse. caseable's security procedures are regularly reviewed by VeriSign Inc. along with the latest technological developments. caseable uses a secure method of data transmission known as SSL (Secure Socket Layer) transmission by VeriSign Inc. to process user information.
+Personal data that is stored at caseable is protected by technical and operational safeguards against potential unauthorized access or abuse. caseable's security procedures are regularly reviewed by VeriSign Inc. along with the latest technological developments. caseable uses a secure method of data transmission known as SSL (Secure Socket Layer) transmission by VeriSign Inc. to process user information.
+
+## caseable orders and membership
 
 caseable collects, modifies, stores, uses and transmits personal data for their own specific purposes towards the justification and settlement of the user's contract or contract relationships, including individual and personal customer advice and support, and to protect the legitimate business interests of caseable. When necessary, caseable will transmit personal data to third parties (such as delivery companies). Only information that is needed to carry out its task will be transmitted and used.
 
-caseable is permitted the usage and transmission of personal data for advertising and market-research purposes , unless the user disagrees. In this case, he may opt-out by sending a request via email to 
-
-support@caseable.com
-
-.
+caseable is permitted the usage and transmission of personal data for advertising and market-research purposes, unless the user disagrees. In this case, he/she may opt-out by sending a request via email to support@caseable.com.
 
 The usage of personal data for other appropriate purposes is dependent on prior consent from the user.
 
 If a user agrees to the receiving of newsletters, then he/she will receive the newsletter content from caseable.
 
+## Usage of caseable’s online offers
+
 caseable collects and uses personal user data due to legal obligations or when permission from a user is given, for the reason of content-wise alterations or changes to the contractual relations with the user in terms of the usage of tele-media.
 
-As far as is necessary, caseable collects and uses a personal data in order to enable users to operate their online service; for accounting; further legally permissible cases or with the users consent.
+As far as is necessary, caseable collects and uses personal data in order to enable users to operate their online service; for accounting; further legally permissible cases or with the user’s consent.
 
 caseable collects and uses data contained in log-files that the user’s internet browser transmits to us. The data caseable receives is the user’s browser type/version; operating system; referring URLs (the user’s previously visited site); hostname (IP address) of the accessing computer and the time of server inquiry. In order to ensure the safe communication of the caseable online service - it is not necessary for caseable to use the data collected in connection with the specific user. Therefore, after statistical evaluation the data will be deleted and not used in connection with the user.
 
-To make caseable’s online service better, the commonly-named system of ‘Cookies’ are used. Cookies are text files, which are stored on a users computer when they visit a website. Cookies are used either once or over a longer period of time to use a user’s recurring attitudes within the caseable site to his/her benefit – in terms of personalizing the caseable online experience and its functions and tools towards individual user’s needs. The text files contain no address data (i.e. user’s names and E-Mail data) or other personal information. caseable will not link data found in these text files with other data sources. Cookies serve to further our analysis of web-page usage and enables us to make our service more user-friendly; more effective and safer.
+## Usage of cookies
 
-Users can set their web browser to halt the storage of the data files known as Cookies. In some cases this can lead to certain services and website functions to become unusable.
+To make caseable’s online service better, the commonly-named system of ‘Cookies’ are used. Cookies are text files, which are stored on a user’s computer when they visit a website. Cookies are used either once or over a longer period of time to utilize a user’s recurring attitudes within the caseable site to his/her benefit – in terms of personalizing the caseable online experience and its functions and tools towards individual user’s needs. The text files contain no address data (i.e. user’s names and E-Mail data) or other personal information. caseable will not link data found in these text files with other data sources. Cookies serve to further our analysis of web-page usage and enables us to make our service more user-friendly; safer and more effective.
+
+## Deactivation of cookies
+
+Users can set their web browser to halt the storage of the data files known as Cookies. In some cases, this can lead to certain services and website functions to become unusable.
+
+## User rights to access to personal information
 
 Visitors and users of caseable’s web page can request (free of charge) access to any information held about them and its origin.
 
-Effective 10/2010
+## Web Analysis with Google Analytics
+
+This website uses Google Analytics, a web analytics service provided by Google Inc. (“Google”). Google Analytics uses “cookies”, which are text files placed on your computer to help the website analyze site usage by yourself. The data generated by the cookies about your use of the site are generally transmitted and stored by Google on servers in the United States. By activating the anonymization of your IP address on this website, Google however shortens your IP address within Member States of the European Union or in other signatory states of the Association Agreement of the European economic Area. The full IP address is transmitted in exceptional cases to a Google server in the United States to be shortened. At the request of the owner of this website, Google will use this information to evaluate your use of the website, compiling reports on website activity and providing other services relating to website activity and Internet usage to the site owner. Google will not associate your IP address transmitted by your browser as part of Google Analytics with any other data held by Google. You can disable the use of cookies by selecting the appropriate settings on your browser. However, please note that this may prevent the use of some features of this website.
+
+Moreover, you can prevent the transmission of data created by the cookie about your use of this website (including your IP address) to Google and the processing of your data by Google by downloading and installing the browser add-on to disable Google Analytics under the following link (http://tools.google.com/dlpage/gaoptout?hl=fr)." 
+
+## Use of Facebook, Google+, Twitter & Instagram Plugins
+
+The caseable website uses Social Plugins aka “plugins” of social networks Facebook, Google+, Twitter and Instagram. These services are provided by Facebook Inc. company, Google Inc., Twitter Inc. and Instagram LLC.
+
+If one visits one of the caseable pages using one of these plugins, the user's browser establishes a direct connection to the servers of Facebook, Google, Twitter or Instagram. The content of the plugin is provided directly to the browser when opening the web page and the IP address is transmitted directly to the servers of the social networks in the US, even if the user is not connected or maintains no account on these social platforms. If the user is connected to one of the social platforms, it is possible for the user to act on these platforms via the plugin installed on the caseable website. For example, if the user clicks on the “Like” buttons, “+1”, “Tweet” or “Instagram”, the information is directly stored and connected with the corresponding social platforms. The action taken by users on Twitter and Instagram plugins will also be published on the user’s Twitter timeline or Instagram feed. To see how the collection and use of data are carried out by the various social platforms, please see the privacy policies listed below.
+
+Facebook is operated by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA (“Facebook”). A list of Facebook plugins is available here: https://developers.facebook.com/docs/plugins. The privacy policy of Facebook is available here: http://www.facebook.com/policy.php.
+
+Google + is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA (“Google”). A list of Google plugins is available here: https://developers.google.com/+/web/. Google's privacy policy is available here: http://www.google.com/intl/de/+/policy/+1button.html.
+
+Twitter is operated by Twitter Inc., 1355 Market St, Suite 900, San Francisco, CA 94103, USA (“Twitter”). An overview of the Twitter buttons and their appearance can be found here: https://twitter.com/about/resources/buttons.
+
+Instagram is operated by Instagram LLC., 1601 Willow Road, Menlo Park, CA 94025, USA (“Instagram”). An overview of the Instagram buttons and their appearance can be found here: http://blog.instagram.com/post/36222022872/introducing-instagram-badges.
+
+If a page of our website is visited, which contains a plugin, the browser establishes a direct connection to the servers of Facebook, Google, Twitter or Instagram. The content of the plugin is provided directly to the browser and integrated into the side. By integrating the plugin, the provider gets the information that the browser has accessed the corresponding page of our website, even without being logged in and even if no profile exists. This information (including IP address) is transmitted from the browser directly to a server of the provider in the USA and stored there.
+
+When you are logged in to one of the services, the providers can directly refer your visit on our website to your Facebook, Google+, twitter, and Instagram If you interact with the plugins, for example press and or confirm the “Like” -, the “+1” -, the “Tweet” - or the “Instagram”button, the corresponding information is also transmitted directly to a server of the provider and stored. The information will also be published on the social networks of the Twitter- or Instagram account and will display all contacts.
+
+Purpose and scope of data collection, the further processing and use of data by the providers, and the relevant rights and ways to protect privacy can be found in the privacy policies of the provider.
+
+Privacy policy of Facebook: http://www.facebook.com/policy.php Privacy policy of Google: http://www.google.com/intl/de/+/policy/+1button.html Privacy policy of Twitter: https://twitter.com/privacy Privacy Policy of Instagram https://help.instagram.com/155833707900388/
+
+If you do not want Google, Facebook, Twitter or Instagram to collect your data on our web data directly from your profile in the respective service, you must log out of the appropriate service before you visit our site to. You can also install add-ons to completely prevent the loading of plug-ins for your browser, i.e. with the Script Blocker “NoScript” (http://noscript.net/)
+
+## Use of Hotjar
+
+The caseable website uses Hotjar, a web analytics service. Hotjar may record mouse clicks, mouse movements and scrolling activity. Hotjar collects information regarding pages visited, actions taken on visited pages, location, device used, operating system used, and browser used. Hotjar does not collect personally identifiable information. Hotjar does not track your browsing habits across web sites which do not use Hotjar services. If you do not want to be tracked by Hotjar on websites, you can find more information here:https://www.hotjar.com/opt-out  
+
+
+## Privacy Questions
+
+For questions regarding the collection, processing or use of your personal information, the disclosure, correction, blocking or deletion of data and revocation of consents granted, if necessary, or opposition to a particular data use, please turn to support@caseable.com.
+
+Version 10, 2016
