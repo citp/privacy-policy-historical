@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804194506id_/https%3A//relevantradio.com/footer/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the relevantradio.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204215021id_/https%3A//www.relevantradio.com/footer/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | Footer
+# Donor Privacy Policy | Footer
 
 Relevant Radio® is committed to protecting your privacy. Relevant Radio is a general audience web site, intended for users of all ages. Personal information of all users is collected, used and disclosed as described in this Privacy Statement.
 
