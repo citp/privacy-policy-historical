@@ -1,43 +1,53 @@
-> *The following text is extracted and transformed from the realitypassplus.com privacy policy that was archived on 2016-06-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160620100741id_/http%3A//realitypassplus.com/tour3/%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realitypassplus.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204071206id_/http%3A//freecamstars.com/privacy.html%3FAFNO%3D1-100018-s1%257Cp2%257Ctour1%257Ck%257Ck2%257Ck3) for the most accurate reproduction.*
 
-# Privacy Policy Statement
+# FreeCamStars - Privacy Policy
 
-**REALITYPASSPLUS.COM**
+[Home](http://freecamstars.com/?AFNO=1-100018-s1%7Cp2%7Ctour1%7Ck%7Ck2%7Ck3) / Privacy Policy
 
-**PRIVACY POLICY STATEMENT**  
-  
+By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
+
+FreeCamStars respects and safeguards the privacy of every individual who visits our website. This Privacy Statement is a formal document that outlines the information which may be collected about you while you use FreeCamStars, and how that information may be used. This Statement will also instruct you on what to do if you do not want your personal information collected or shared when you visit the FreeCamStars website.
+
+FreeCamStars will not collect any personal identifying information about you (including, but not limited to, your name, address, telephone number, email address, Social Security number, bank account or credit card information, or any combination of data that could be used to identify you, such as birth date, zip code, and gender) unless you provide it to us voluntarily.
+
+If you do not want your personal identifying information collected, please do not submit it to us. If you have already submitted this information and would like for us to remove it from our records, please contact us at the email address listed at the bottom of this Statement. We will use reasonable efforts to delete your information from our existing files.
+
+When you do provide us with personal identifying information, such information will be gathered solely by FreeCamStars, and is for use solely by FreeCamStars and trusted partners. At any point where personal identifying information is requested, any information that is optional to provide, rather than mandatory, will be clearly marked as such. We may use personal identifying information in the following ways, unless stated otherwise: we may store and process that information to better understand your needs and how we can improve our products and services; and we may use that information to contact you. Financial information that is collected is used to check the users' qualifications for registration and to bill the user for products and services.
+
+FreeCamStars may utilize electronic newsletters to reach all or a subset of all registered users, using the email address collected. Users may remove themselves from such mailing lists at any time by following the instructions that shall be sent as part of any of such mailings.
+
+FreeCamStars may request personal identifying information on specific pages that allow users to contact FreeCamStars. Such information is being collected to assist us in solving a specific issue addressed by the user and/or to allow us to contact the user with an appropriate response.
+
+There are a limited number of situations where we may disclose your personal information to others without first receiving your consent: (1) when legally ordered to do so by a lawful subpoena or court order, (2) if you violate or breach an agreement with us, (3) if we believe conduct by you will harm the property or rights of FreeCamStars or those of FreeCamStars customers or chat hosts, (4) under exigent circumstances to protect the physical safety of FreeCamStars, its employees, users or the general public, (5) in connection with the sale of all or substantially all of our company’s assets or the sale of an entire web site or business division or (6) in order to validate credit card numbers for charging for fee services.
+
+Your browser offers so-called "cookies," which – if you allow their use – store small amounts of data on your computer about your visit to our site. Cookies assist us in tracking which of our features you like best. And when you re-visit our sites, cookies can enable us to customize our content according to your preferences. However, cookies tell us nothing about you personally unless you specifically give us additional information.
+
+Cookies used on the website by category:
+
+  * Strictly necessary cookies - These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website.
+  * Performance cookies - These cookies collect anonymous information on the pages visited. By using our site, you agree that we can place these types of cookies on your device. These cookies collect information about how visitors use a website, for instance which pages visitors go to most often. These cookies don't collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works.
+  * Functionality cookies - These cookies remember choices you make to improve your experience. By using our site, you agree that we can place these types of cookies on your device. These cookies allow the website to remember choices you make and provide enhanced, more personal features. The information these cookies collect may be anonymized and they cannot track your browsing activity on other websites.
+  * Advertising cookies - These cookies are used to deliver advertisements more relevant to you and your interests. They are also used to limit the number of times you see an advertisement as well as help measure the effectiveness of the advertising campaign. They are usually placed by advertising networks with the website operator’s permission. They remember that you have visited a website and this information is shared with other organizations such as advertisers. Quite often targeting or advertising cookies will be linked to site functionality provided by the other organization.
 
 
-* * *
 
-has created this Privacy Policy to demonstrate our dedication to respecting privacy. This Privacy Policy sets out our practices with respect to personal information collected regarding visitors and subscribers (collectively referred as "you") of realitypassplus.com. realitypassplus.com is an adult website and membership is solely restricted to adults; persons under the age of eighteen are strictly prohibited from this Site and we do not intentionally collect information on individuals under the age of eighteen. By visiting or subscribing to this Site, you agree and consent to the terms of this Privacy Policy as amended from time to time, as well as the terms and conditions of this Site.
+You also have choices with respect to cookies. By modifying your browser preferences, you have the choice to accept all cookies, to be notified when a cookie is set, or to reject all cookies. However, note that if you reject some or all cookies, your experience at our sites and on other sites throughout the World Wide Web may not be complete. Some sites require cookies to function, such as those with e-commerce features. In addition, if you do not allow cookies, you will not be able to take advantage of personalized content delivery offered by us or other Internet sites.
 
-### Non-Personal Information and Cookies
+This site makes chat rooms available to its users. Please remember that any information that is disclosed in these areas becomes public information and you should exercise caution when deciding to disclose your personal information. If you disclose your email address in a chat room or forum, you may receive unsolicited email or "spam". We cannot safeguard the privacy of any such information you choose to disclose online in this manner and you must do so carefully and at your own risk.
 
-Certain non-personal information may be collected from visitors to this Site including, but not limited to, their browser type, operating system, IP address, and the domain name from which they accessed the Site. Other non-personal information may be collected such as browsing behavior, date and time of visit, the pages visited; the time spent viewing the Site, the number of times the visitor returns to the Site, and click-stream data. We do not track any information about visitors once they leave our Site. We may use cookies to collect this information. We may also allow unaffiliated third parties, such as advertisers, to serve cookies to visitors of our Site. You are always free to decline cookies, but in doing so they may not be able to use certain features on our Site.
+Because we care about the safety and privacy of children online, we comply with the Children’s Online Privacy Act of 1998 (COPA). COPA and its accompanying FTC regulation established United States federal law that protects the privacy of children using the Internet. FreeCamStars does not knowingly collect contact or personal information from persons under 18. Our sites are not intended to solicit information of any kind from persons under 18, and we have designed our sites to block our knowing acceptance of information from persons under 18 wherever age related information is requested.
 
-### Use of Information
+Members areas of FreeCamStars may contain content considered offensive to some, and are inaccessible to individuals under the age of 18 via a standard credit card wall, as advocated by the Communications Decency Act. It is possible that by fraud or deception we may receive information given to us or pertaining to minors under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of information by minors, please do so by emailing us at [support@freecamstars.com](https://web.archive.org/contactsupport.php?AFNO=1-100018-s1%7Cp2%7Ctour1%7Ck%7Ck2%7Ck3).
 
-We collect personal information so that we may custom tailor the web experience for each subscriber and offer the best products and services to meet the needs of each subscriber.
+FreeCamStars does not send unsolicited email to anyone who has requested we do not contact them. Any newsletters that we send are only sent to those who are active members of the site. To stop receiving email or newsletters from FreeCamStars, either follow the instructions on the email or newsletter itself or send a request to be unsubscribed to [Support](https://web.archive.org/contactsupport.php?AFNO=1-100018-s1%7Cp2%7Ctour1%7Ck%7Ck2%7Ck3).
 
-We may use information collected from visitors to our Site for any of the following purposes: (1) to send visitors information and promotional materials about our company, which will not continue if opted out of, (2) to send visitors information and promotional materials from our marketing partners and third parties (3) to deliver targeted display advertisements and offers by email, which will not continue if opted out of (4) to contact visitors to our Site when necessary, (5) to allow one-click purchases or access to proprietary content by pre-populating fields, within registration or other transaction screens, with a visitor's name, billing address, all as provided by that visitor, (6) to help diagnose problems with our server, (7) to administer our Site, (8) to conduct internal reviews of our Site (e.g., to determine the number of visitors to the Site), (9) to help us better understand visitors' use of our Site, and (10) to protect the security or integrity of our Site.
+FreeCamStars also does not condone spam by affiliates or chat hosts advertising our site. Spam by our affiliates is prohibited by our Acceptable Use Policy. Some trusted partners may email a member to present special offers to our members. Further, according to our published policy, if FreeCamStars becomes aware that a customer or affiliate is in violation of the law or this Acceptable Use Policy, FreeCamStars reserves the right to impose disciplinary action in its sole discretion. Our disciplinary action may include: removal from our servers of files that violate our Acceptable Use Policy, the expulsion of the customer from the FreeCamStars program, termination of FreeCamStars services, and forfeiture of all commissions.
 
-No credit card holder information is shared with third parties
+If you have any questions about this Privacy Policy, please contact our customer service department at [support@freecamstars.com](https://web.archive.org/contactsupport.php?AFNO=1-100018-s1%7Cp2%7Ctour1%7Ck%7Ck2%7Ck3) and provide us with your name, your FreeCamStars login name, and any information you feel is important.
 
-Since part of the personal information that is collected and safeguarded by us is your email address, we try very hard to respect your time and privacy by controlling and limiting the frequency of mailings. If you receive a mailing from us or one of our marketing partners, it is because your email address is either listed with us as someone who has expressly shared this address for the purpose of receiving information in the future, or you have registered or purchased or otherwise have an existing relationship with us.
+The address for correspondence by post is
 
-There may be occasions when you will be presented with special offers either from us or from third-party service or content providers, which may include communications, newsletters, commercial advertising, or other promotional or special event materials (collectively referred to as "Offers"). Your consent to this Privacy Policy acts as your consent to receive these occasional mailings by us and by our third party service or content providers.
-
-The Site is not responsible or liable for the use of any information that a subscriber may provide, or that is gathered by third-party websites that have ads or links on the Site. This Site does not control, monitor or endorse the information gathering practices or Privacy Policies of any of those third-party websites. Whenever applicable, each subscriber should seek to read the Privacy Policy of any third-party website provider that has an advertising banner, advertises or has a link on the Site.
-
-If you have received unsolicited email sent via this system or purporting to be sent via this system, please forward a copy of that email with your comments to 
-
-### Security
-
-This Site has security measures in place to protect the loss, misuse and alteration of the information under our control.As for all other information, visitors and subscribers should consider this communication and information to be non-confidential, and consequently, we assume no responsibility or liability if any information relating to any visitor or subscriber is intercepted and/or used by an unintended recipient.
-
-### Acceptance of these Terms
-
-By visiting or subscribing to this Site, you agree to the practices described in this Privacy Policy. We may at any time revise or amend any of these terms and conditions. You are bound by any such revisions and should therefore periodically visit this page to review the then-current terms and conditions to which you are bound. To the extent that any of the third-party sites accessible through our Site (such as our advertisers) have different privacy practices from those stated in this Privacy Policy, those third-party privacy practices govern the collection and use of information you provide when visiting those sites. We are not responsible for the policies, content, and practices of other companies which may collect personal information as a third-party web service provider that has an advertising banner or link on the Site.
-
-* * *
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
