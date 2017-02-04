@@ -1,0 +1,716 @@
+<!--The following is the downloaded HTML source of the loudtronix.co privacy policy that was archived on 2017-02-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170204033517id_/http%3A//www.loudtronix.co/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://www.facebook.com/2008/fbml"><head> 
+	<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+	<meta name="viewport" content="width=device-width">
+	<meta http-equiv="Content-Language" content="en">
+	
+	<title>Privacy Policy</title>
+
+	<link rel="shortcut icon" href="http://www.loudtronix.co/favicon.ico" type="image/x-icon">	
+	<meta name="Description" content="Free Mp3 Downloads &amp; Mp3 Search at LoudTronix.me">
+	<meta name="Keywords" content="				MP3 Search Engine, Free MP3s, Videos, Music, playlist, mp3, free videos, free music, music, unlimited music, free playlist for your profile, free music downloads, free mp3 music download, free music, free audio downloads, listen to music, music, music and
+music downloads, music lyrics, music videos, youtube, youtube videos, mp3s, sheet music, car audio, classical mp3, music downloads, new music, top songs, mp3 music downloads, mp3 downloads, downloads, free mp3 downloads, free mp3 music, mp3 files, mp3 search, free mp3 search engine						">
+
+	
+	
+	<link rel="image_src" href="http://www.loudtronix.co/images/lt.png?v=18">
+
+	<link title="LoudTronix" rel="search" type="application/opensearchdescription+xml" href="http://www.loudtronix.co/lt.xml?v=18"> 
+	<link rel="stylesheet" href="http://www.loudtronix.co/css/layout_results.css?v=18" media="screen"> 
+	<link rel="stylesheet" href="http://www.loudtronix.co/css/style.css?v=18" media="screen"> 
+	
+	<link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/hdfpmjnfglpmofblacoponodofkdongp">
+
+	<script type="text/javascript" async="" src="https://s7.addthis.com/js/250/addthis_widget.js#pubid=loudtronix"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/platform.js"></script><script>
+		/* Define Global Variables */
+		var web_path = "http://www.loudtronix.co/";
+		
+	</script>
+
+	<script type="text/javascript" src="http://www.loudtronix.co/js/advertisement.js?v=18"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.19/jquery-ui.min.js"></script>
+	<!-- <script type="text/javascript" src="http://www.loudtronix.co/js/jquery-ui-1.8.16.custom.min.js"></script> -->
+	<!-- <script type="text/javascript" src="http://www.loudtronix.co/js/jquery.tabSlideOut.v1.3.js"></script> -->
+	<script type="text/javascript" src="http://www.loudtronix.co/js/jquery.timers.js?v=18"></script>
+
+	<script type="text/javascript">
+		// IE console.log Error Fix
+		if (!console){
+			console = { log: function(){} };
+		}
+
+		$(document).ready(function(){
+			if(document.getElementById("adBlockCheck") != undefined) {} else {
+				$("#header").addClass("headerAdblock");
+			}
+		});
+	</script>
+
+	
+		
+	<script type="text/javascript" src="http://www.loudtronix.co/js/main.js?v=18"></script>
+	<!-- <script type="text/javascript" src="http://www.loudtronix.co/js/jquery.pop.js"></script> -->
+	<!-- <script type="text/javascript" src="http://www.loudtronix.co/js/jquery.tipsy.js"></script> -->
+
+	
+
+<script type="text/javascript" language="javascript">
+
+   var http_request = false;
+
+   function makeRequest(url, parameters) {
+
+
+
+      http_request = false;
+
+      if (window.XMLHttpRequest) { // Mozilla, Safari,...
+
+         http_request = new XMLHttpRequest();
+
+         if (http_request.overrideMimeType) {
+
+         	// set type accordingly to anticipated content type
+
+            http_request.overrideMimeType('text/html');
+
+
+
+         }
+
+      } else if (window.ActiveXObject) { // IE
+
+         try {
+
+            http_request = new ActiveXObject("Msxml2.XMLHTTP");
+
+         } catch (e) {
+
+            try {
+
+               http_request = new ActiveXObject("Microsoft.XMLHTTP");
+
+            } catch (e) {}
+
+         }
+
+      }
+
+      if (!http_request) {
+
+         alert('Cannot create XMLHTTP instance');
+
+         return false;
+
+      }
+
+      http_request.onreadystatechange = alertContents;
+
+      http_request.open('GET', url + parameters, true);
+
+      http_request.send(null);
+
+   }
+
+
+
+   function alertContents() {
+
+      if (http_request.readyState == 4) {
+
+         if (http_request.status == 200) {
+
+            //alert(http_request.responseText);
+
+            result = http_request.responseText;
+
+            document.getElementById('myspan').innerHTML = result;            
+
+         } else {
+
+            alert('There was a problem with the request.');
+
+         }
+
+      }
+
+   }
+
+   
+
+   function get(obj) {
+
+      var getstr = "?";
+
+      for (i=0; i<obj.childNodes.length; i++) {
+
+         if (obj.childNodes[i].tagName == "INPUT") {
+
+            if (obj.childNodes[i].type == "text") {
+
+               getstr += obj.childNodes[i].name + "=" + obj.childNodes[i].value + "&";
+
+            }
+
+            if (obj.childNodes[i].type == "checkbox") {
+
+               if (obj.childNodes[i].checked) {
+
+                  getstr += obj.childNodes[i].name + "=" + obj.childNodes[i].value + "&";
+
+               } else {
+
+                  getstr += obj.childNodes[i].name + "=&";
+
+               }
+
+            }
+
+            if (obj.childNodes[i].type == "radio") {
+
+               if (obj.childNodes[i].checked) {
+
+                  getstr += obj.childNodes[i].name + "=" + obj.childNodes[i].value + "&";
+
+               }
+
+            }
+
+         }   
+
+         if (obj.childNodes[i].tagName == "SELECT") {
+
+            var sel = obj.childNodes[i];
+
+            getstr += sel.name + "=" + sel.options[sel.selectedIndex].value + "&";
+
+         }
+
+         
+
+      }
+
+   
+
+   }
+
+</script>
+
+
+
+
+
+
+
+
+
+	<script type="text/javascript"> 
+		<!--
+		function land(ref, target)
+		{
+		lowtarget=target.toLowerCase();
+		if (lowtarget=="_self") {window.location=loc;}
+		else {if (lowtarget=="_top") {top.location=loc;}
+		else {if (lowtarget=="_blank") {window.open(loc);}
+		else {if (lowtarget=="_parent") {parent.location=loc;}
+		else {parent.frames[target].location=loc;};
+		}}}
+		}
+		function jump(menu)
+		{
+		ref=menu.choice.options[menu.choice.selectedIndex].value;
+		splitc=ref.lastIndexOf("*");
+		target="";
+		if (splitc!=-1)
+		{loc=ref.substring(0,splitc);
+		target=ref.substring(splitc+1,1000);}
+		else {loc=ref; target="_self";};
+		if (ref != "") {land(loc,target);}
+		}
+		//-->
+	</script> 
+
+<script type="text/javascript">
+
+
+	http_request = new Array();
+
+	function makeRequest(status, url, parameters, xId) {
+		if(status=="1"){
+			//console.log("Loading: "+xId);
+			if (window.XMLHttpRequest) { // Mozilla, Safari,...
+				http_request[xId] = new XMLHttpRequest();
+				if (http_request[xId].overrideMimeType) {
+					http_request[xId].overrideMimeType('text/html');
+				}
+			} else if (window.ActiveXObject) { // IE
+				try {
+					http_request[xId] = new ActiveXObject("Msxml2.XMLHTTP");
+				} catch (e) {
+					try {
+						http_request[xId] = new ActiveXObject("Microsoft.XMLHTTP");
+					} catch (e) {
+					
+					}
+				}
+			}
+			if (!http_request[xId]) {
+				//document.getElementById(xId).innerHTML = 'Result not available';
+				return false;
+			}
+			http_request[xId].onreadystatechange = function() {
+				if (http_request[xId].readyState == 4) {
+					$(".resultDivs").show();
+					document.getElementById(xId).innerHTML = http_request[xId].responseText;
+					loaded++;
+					if(loaded==enabled){
+						$(document).ready(function() {
+							$("#loadingResults").hide();
+						});
+					}
+
+					/* Re-initialize Javascript for AJAX'd content */
+					$(".toggleShare").click(function(){
+						var origHeight = "34px";
+						var currentHeight = $(this).parent().css('height');
+
+						//console.log(currentHeight+"|"+origHeight);
+		
+						if(origHeight == currentHeight){
+							// Expanding
+							$(this).parent().animate({height:'80px'}, 100, function() {
+								$(this).parent().children(".sharingContainer").show();
+							});
+						} else {
+							// Collapse
+							$(this).parent().animate({height:origHeight}, 100, function() {
+								$(this).parent().children(".sharingContainer").hide();
+							});
+						}
+					});
+
+					/* NEW RESULT BUTTONS */
+					$(".gButton").click(function(){
+						//$(".shareButtonXXX").html("Share");
+						$(".playButton").html("Play");
+						//$(".playlistButtonXXX").html("Add");
+						//$(".downloadButtonXXX").html("Download MP3");
+					});
+					$(".playButton").click(function(){
+						btnWidth = $(this).css("width");
+						$(this).html("<img src='http://www.loudtronix.co/images/buttonLoading.gif' BORDER='0' title='...' style='position:relative;top:2px;' />");
+						$(this).css("width",btnWidth);
+					});
+					$(".playlistButton").click(function(){
+						btnWidth = $(this).css("width");
+						$(this).html("<img src='http://www.loudtronix.co/images/buttonLoading.gif' BORDER='0' title='...' style='position:relative;top:2px;' />");
+						$(this).css("width",btnWidth);
+					});
+
+				}
+			}
+			http_request[xId].open('GET', url + parameters, true);
+			http_request[xId].send(null);
+		}
+		
+	}
+   
+   
+    var newWin = null; 
+	function popUp(strURL, strType, strHeight, strWidth) {
+	 if (newWin != null && !newWin.closed) 
+	   newWin.close(); 
+	 var strOptions=""; 
+	 if (strType=="console") 
+	   strOptions="resizable,height="+ 
+	     strHeight+",width="+strWidth; 
+	 if (strType=="fixed") 
+	   strOptions="status,height="+ 
+	     strHeight+",width="+strWidth; 
+	 if (strType=="elastic") 
+	   strOptions="toolbar,menubar,scrollbars,"+ 
+	     "resizable,location,height="+ 
+	     strHeight+",width="+strWidth; 
+	 newWin = window.open(strURL, 'newWin', strOptions); 
+	 newWin.focus(); 
+	}
+	</script>
+	
+	<script type="text/javascript">
+		/* LoudTronix Bar Player */
+		function LTplayer(id, containerid){
+			$("#"+containerid).height("55");
+			
+			var page_request = false
+			if (window.XMLHttpRequest) // if Mozilla, Safari etc
+				page_request = new XMLHttpRequest()
+			else if (window.ActiveXObject){ // if IE
+				try {
+					page_request = new ActiveXObject("Msxml2.XMLHTTP")
+				} catch (e){
+					try{
+						page_request = new ActiveXObject("Microsoft.XMLHTTP")
+					} catch (e){}
+				}
+			} else
+				return false
+			
+			page_request.onreadystatechange=function(){
+				loadpage(page_request, containerid)
+			}
+			
+			page_request.open('GET', 'http://www.loudtronix.co/listen-results.php?id='+id, true)
+			page_request.send(null)
+		}
+	
+		function loadpage(page_request, containerid){
+			if (page_request.readyState == 4 && (page_request.status==200 || window.location.href.indexOf("http")==-1)){
+				document.getElementById(containerid).innerHTML=page_request.responseText
+				$(".playButton").html("Play");
+			}
+		}
+	</script>
+
+	<script type="text/javascript">
+	function createRequestObject() {
+	    var ro;
+	    var browser = navigator.appName;
+	    if(browser == "Microsoft Internet Explorer"){
+	        ro = new ActiveXObject("Microsoft.XMLHTTP");
+	    }else{
+	        ro = new XMLHttpRequest();
+	    }
+	    return ro;
+	}
+	var http = createRequestObject();
+	/*function sndReq(action) {
+	    http.open('get', 'http://www.loudtronix.co/load.php?action='+action);
+	    http.onreadystatechange = handleResponse;
+	    http.send(null);
+	} */
+	function sndReq(action) {
+	 http.open('get', 'http://www.loudtronix.co/load.php?action='+action);
+	 http.onreadystatechange = handleResponse;
+	 http.send(null);
+	 }
+	function sndReqArg(arg) {
+	 http.open('get', 'http://www.loudtronix.co/flagit.php?arg='+arg);
+	 http.onreadystatechange = handleResponse;
+	 http.send(null);
+	 }
+	function handleResponse() {
+	    if(http.readyState == 4){
+	        var response = http.responseText;
+	        var update = new Array();
+	
+	        if(response.indexOf('|' != -1)) {
+	            update = response.split('|');
+	            document.getElementById(update[0]).innerHTML = update[1];
+	        }
+	    }
+	}
+
+	</script>
+		
+<script async="" src="http://widgets.amung.us/small.js"></script></head> 
+
+<body style="min-width:1024px;">
+<div id="TopBar" style="height:17px;">
+<div id="topnav" class="topnav">
+	<table style="width:100%;margin-top: -4px;">
+		<tbody><tr>
+						 
+
+					<td style="padding-left:10px;top:-3px;position:relative;">
+						<a href="http://www.loudtronix.co/register.php"><b>Register Now!</b></a> | 
+						<a href="http://www.loudtronix.co/"><b>Home</b></a> | 
+						<a href="http://www.loudtronix.co/myplaylist"><b>My Playlist</b></a>
+											</td>
+					<td style="text-align:right;padding-right:10px;">
+						<div style="height:0px; width:200px; position:relative;top:-1px;right:-35px;">
+							<div class="addthis_toolbox addthis_default_style">								<div class="g-plusone" data-href="http://www.loudtronix.co" data-size="medium"></div>
+								<a class="addthis_counter addthis_pill_style"></a>
+							</div>
+						</div> | 
+ 						<a href="http://www.loudtronix.co/faq.php"><b>FAQ</b></a> | 
+						<a target="_blank" href="http://blog.loudtronix.co"><b><u>Blog</u></b></a> | 
+						<a href="#LOGIN" class="signin"><b>Sign In</b><span></span></a>
+					</td>
+	        		</tr>
+	</tbody></table>
+</div>
+</div>
+
+<fieldset id="signin_menu">
+    <div id="signin">
+    	<p>
+      		<label for="username">Username:</label>
+      		<input id="username" name="user" value="" class="usernamefocus roundedInput" title="Username" tabindex="1" type="text">
+      	</p>
+      	<p>
+        	<label for="password">Password:</label>
+        	<input id="password" name="pass" autocomplete="off" value="" class="roundedInput" title="Password" tabindex="2" type="password">
+      	</p>
+      	<input id="remember" name="remember" value="1" tabindex="3" type="checkbox" checked="checked"> Keep me logged in
+      	
+		<p style="padding: 10px 0;">
+			<span id="signin_submit" style="display:inline-block;text-align:center;" tabindex="4">Login</span>
+      		<span class="forgot" style=""><a href="http://www.loudtronix.co/forgotpass.php" id="resend_password_link" title="Forgot your Password?" tabindex="5">[Forgot your Password?]</a></span>
+      		</p><p class="forgot-username" style="display:none;"> <a id="forgot_username_link" title="Forgot your Username?" href="#">Forgot your Username?</a> </p>
+      		<span id="loginError"></span>
+      		<span id="loginSuccess"></span>
+      	<p></p>      	
+    </div>
+</fieldset>
+
+
+<div id="TOP100"> 
+	<a target="_blank" href="http://www.loudtronix.co/top100.php"><img height="102" width="27" border="0" src="http://www.loudtronix.co/images/top100_tab.gif" alt="TOP 100"></a> 
+</div> 
+	
+	<div id="wrapper">
+		<div id="wrapper_top"></div> 
+		<div id="wrapper_main"> 
+	      <div id="header"> 
+			  <div id="logo" style="position:absolute; margin-left: 5px; margin-top: 11px; overflow:auto; height:75px; width:420px;"><a href="http://www.loudtronix.co/" style="display:block; width:99%; height:99%;" title="Go to Homepage"></a></div>
+			  <div id="logo"></div>
+		      <div id="search">
+		       	<form action="http://www.loudtronix.co/searchSuggest.php"> 
+		        	<div id="input"><input id="headerSearchBox" class="inputSearchField" name="txtSearch" type="text" value="" maxlength="500" style=""></div> 
+		        	<div id="button"><input type="submit" id="searchbutton" value=" " name="sa"></div>
+					<input type="hidden" id="dosearch" value="dosearch" name="dosearch">
+					<input type="hidden" name="page" value="1">
+					<input type="hidden" name="id" value="1">
+					<input type="hidden" name="changeurl" value="1">
+	
+		       	</form> 
+		      </div> 
+		  </div> 
+
+		
+		  <div style="float:right; margin-top: -15px; margin-right: 20px;">
+		  	<a target="_blank" rel="nofollow" href="http://www.facebook.com/LoudTronix"><img border="0" width="40px" height="40px" src="http://www.loudtronix.co/images/facebook.png" alt="Become a Fan!"></a>
+			<a target="_blank" rel="nofollow" href="http://www.twitter.com/LoudTronix"><img border="0" width="40px" height="40px" src="http://www.loudtronix.co/images/twitter.png" alt="Follow Us!"></a>
+			<a target="_blank" rel="nofollow" href="http://www.youtube.com/LoudTronix"><img border="0" width="40px" height="40px" src="http://www.loudtronix.co/images/youtube.gif" alt="YouTube Channel!"></a>
+		  </div>
+          <div id="LTplayer"></div>
+		  <div id="container">
+
+
+
+<div style="padding-left:25px; width:90%;">
+	<!-- Privacy Policy -->
+	<span style="display:block;font-size:20px;font-weight:bold;padding-bottom:20px;">Privacy Policy</span>
+	
+	If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@loudtronix.co. 
+	<br><br>
+	At LoudTronix, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by LoudTronix and how it is used. 
+	<br><br>
+	<span style="display:block;font-weight:bold;text-decoration:underline;">Log Files</span>
+	Like many other Web sites, LoudTronix makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user�s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable. 
+	<br><br>
+	<span style="display:block;font-weight:bold;text-decoration:underline;">Cookies and Web Beacons</span>
+	LoudTronix does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser. 
+	<br><br>
+	<span style="display:block;font-weight:bold;text-decoration:underline;">DoubleClick DART Cookie</span>
+	Google, as a third party vendor, uses cookies to serve ads on LoudTronix.
+	Google's use of the DART cookie enables it to serve ads to users based on their visit to LoudTronix and other sites on the Internet. 
+	Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL - http://www.google.com/privacy_ads.html 
+	<br><br>
+	<hr style="width:766px;margin-left:-21px;opacity:0.5;">
+	<br>
+	Some of our advertising partners may use cookies and web beacons on our site.
+	<br><br>
+	These third-party ad servers or ad networks use technology to the advertisements and links that appear on LoudTronix send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see. 
+	<br><br>
+	LoudTronix has no access to or control over these cookies that are used by third-party advertisers. 
+	<br><br>
+	You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. LoudTronix's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites. 
+	<br><br>
+	If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
+	
+	<!-- Privacy Policy -->	
+</div>
+
+<br><br>
+
+					</div>   
+										<div id="footer"> 
+				    	<div id="bottom_search" style="display:none;"> 
+				    		<form action="http://www.loudtronix.co/searchSuggest.php"> 
+					        	<div id="input"><input id="footerSearchBox" class="inputSearchField" name="txtSearch" type="text" value="" maxlength="100"></div> 
+				    	    	<div id="button"><input type="submit" id="searchbutton" value=" " name="sa"></div>
+				        	</form> 
+				      	</div> 
+				      	<div class="postscript" id="postscript">
+							<!-- <strong>Add our <a href="javascript:window.external.AddSearchProvider('http://www.loudtronix.co/lt.xml');">LoudTronix Search Extension</a> on your Browser!</strong><br /> -->
+				
+							<script type="text/javascript">
+								var addthis_config = {
+									username: "LoudTronix", 
+									data_use_cookies: false, 
+									data_use_flash: false
+								}
+							</script>
+							<center>
+					 												<a id="fade" class="addthis_button_facebook"><img width="25px" height="25px" src="http://www.loudtronix.co/images/share/facebook.png" alt="Facebook"></a>
+						            <a id="fade" class="addthis_button_twitter"><img width="25px" height="25px" src="http://www.loudtronix.co/images/share/twitter.png" alt="Twitter"></a>
+						            <a id="fade" class="addthis_button_digg"><img width="25px" height="25px" src="http://www.loudtronix.co/images/share/digg.png" alt="Digg"></a>
+						            <a id="fade" class="addthis_button_stumbleupon"><img width="25px" height="25px" src="http://www.loudtronix.co/images/share/stumbleupon.png" alt="StumbleUpon"></a>
+						            <a id="fade" class="addthis_button_myspace"><img width="25px" height="25px" src="http://www.loudtronix.co/images/share/myspace.png" alt="MySpace"></a>
+						            <a id="fade" class="addthis_button_email"><img width="25px" height="25px" src="http://www.loudtronix.co/images/share/mail.png" alt="Email"></a>
+						            <a id="fade" class="addthis_button_favorites"><img width="25px" height="25px" src="http://www.loudtronix.co/images/share/favorite.png" alt="Favorite"></a>
+						        	<a id="fade" class="addthis_button_expanded"><img width="25px" height="25px" src="http://www.loudtronix.co/images/share/plus.png" alt="More"></a>
+															</center>
+					   	</div> 
+
+						<center>
+							<div style="height:1px; width:1px; overflow:hidden;">	
+								<iframe name="startLTdownload" allowtransparency="true" frameborder="0" marginwidth="0px" marginheight="0px" scrolling="NO" width="0" height="0" src=""></iframe>
+							</div>
+						</center>
+
+						<noscript>
+						<div align="center">
+							<div class="tags">
+																	<a href="http://www.loudtronix.co/search/9erfgttg\\" class="style1">9erfgttg\\</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/tegobtss.ru" class="style3">Tegobtss.ru</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/soyer" class="style2">Soyer</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/ty0[pffjk'" class="style4">Ty0[pffjk'</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/https:youtu.begzprayzkqt8" class="style1">Https:youtu.begzprayzkqt8</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/intifadi" class="style4">Intifadi</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/neelaakaasham" class="style3">Neelaakaasham</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/sendhura" class="style3">Sendhura</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/valuemmpd" class="style2">Valuemmpd</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/https:youtu.bebfgxdw-re0e" class="style1">Https:youtu.bebfgxdw Re0e</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/nutshavk" class="style4">Nutshavk</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/ariel.camachob" class="style3">Ariel.camachob</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/laughtrip" class="style4">Laughtrip</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/imneeta-sakiti" class="style2">Imneeta Sakiti</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/gorrilaz-dirty-harry" class="style1">Gorrilaz Dirty Harry</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/naghihinatay" class="style2">Naghihinatay</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/eminejm" class="style3">Eminejm</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/https:open.spotify.comtrack7f08qp3hrotkfrtnpiyggo" class="style2">Https:open.spotify.comtrack7f08qp3hrotkfrtnpiyggo</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/dj..dubsteb" class="style3">Dj..dubsteb</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/giinuwine" class="style1">Giinuwine</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/https:youtu.becpacnkvncsm" class="style1">Https:youtu.becpacnkvncsm</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/shotfordee" class="style1">Shotfordee</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/espinar" class="style1">Espinar</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/https:youtu.be4u0e3s-dodo" class="style1">Https:youtu.be4u0e3s Dodo</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/tramtep" class="style1">Tramtep</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/ronshens" class="style1">Ronshens</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/tafrob" class="style1">Tafrob</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/the-beatles-let-it-be" class="style1">The Beatles Let It Be</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/https:youtu.be7e0yhxqvlhq" class="style1">Https:youtu.be7e0yhxqvlhq</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/https:goo.gl52xcsc" class="style1">Https:goo.gl52xcsc</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/https:youtu.bewxyj3hhhkes" class="style1">Https:youtu.bewxyj3hhhkes</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/tandas" class="style1">Tandas</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/babes.wodumo" class="style1">Babes.wodumo</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/https:youtu.beakoxv46wmhg" class="style1">Https:youtu.beakoxv46wmhg</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/bambalero" class="style1">Bambalero</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/best.of.gulzar.ahmad.ganie" class="style1">Best.of.gulzar.ahmad.ganie</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/gariekulay" class="style1">Gariekulay</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/chiasmokers" class="style1">Chiasmokers</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/https:youtu.bejr4tmiu9oq4" class="style1">Https:youtu.bejr4tmiu9oq4</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/khalijah" class="style1">Khalijah</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/pagtulong" class="style1">Pagtulong</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/splighamak" class="style1">Splighamak</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/ckoset" class="style1">Ckoset</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/onyia" class="style1">Onyia</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/sthuthichupadi" class="style1">Sthuthichupadi</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/tararat" class="style1">Tararat</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/boyzone\" class="style1">Boyzone\</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/kumpulanantz" class="style1">Kumpulanantz</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/rigtons" class="style1">Rigtons</a>&nbsp; |
+																	<a href="http://www.loudtronix.co/search/compata" class="style1">Compata</a>&nbsp; |
+								 
+							</div>
+						</div>
+						</noscript>
+						<br>
+	
+						<center>
+							<span style="font-size:12px;"><a href="http://www.loudtronix.co/faq.php"><u>FAQ</u></a> | <a href="http://www.loudtronix.co/privacy.php"><u>Privacy Policy</u></a> | <a href="http://www.loudtronix.co/tos.php"><u>Terms of Service</u></a>
+							<br>All Rights Reserved. ©  2008-2017 LoudTronix.me						</span></center>
+					</div>
+				</div>
+	 			<div id="wrapper_bottom"></div> 
+				<div id="copyright"><img border="0" src="http://www.loudtronix.co/images/dmca_compliant.png" alt="DMCA Compliant"></div>
+
+			</div>
+		
+		
+		<!-- ASYNC GOOGLE +1 SCRIPT -->
+		<script type="text/javascript">
+		  (function() {
+		    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+//		    po.src = 'https://apis.google.com/js/plusone.js';
+		    po.src = 'https://apis.google.com/js/platform.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+		  })();
+		</script>
+		
+		<!--- START GOOGLE ANALYTICS--->
+		<script>
+            (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+            (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+            })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+            ga('create', 'UA-8878954-1', 'www.loudtronix.co'); 
+            ga('set', 'dimension1','IPv4');         // Custom Variable: IP Version
+            ga('send', 'pageview');
+        </script>
+		<!--- END GOOGLE ANALYTICS--->
+		
+		<span style="display:none;visibility:hidden;height:0px;">
+			<script id="_wauqzs">
+				var _wau = _wau || [];
+				_wau.push(["small", "yfjhv780ixzz", "qzs"]);
+				(function() {
+					var s=document.createElement("script"); s.async=true;
+					s.src="http://widgets.amung.us/small.js";
+					document.getElementsByTagName("head")[0].appendChild(s);
+				})();
+			</script>
+		</span>
+
+                
+			<!-- pop -->
+                
+		
+		<!--- AddThis Scripting --->
+		<script type="text/javascript">var addthis_config = {"data_track_clickback":true};</script>
+		<script type="text/javascript">
+			(function() {
+				var at = document.createElement('script'); 
+				
+				at.type = 'text/javascript'; 
+				
+				at.async = true;
+				at.src = ('https:' == document.location.protocol ? 'https://' : 'http://') 
+				
+				+ 's7.addthis.com/js/250/addthis_widget.js#pubid=loudtronix';
+				var sat = document.getElementsByTagName('script')[0]; 
+				
+				sat.parentNode.insertBefore(at, sat);
+			})();
+		</script>
+		<!--- <script type="text/javascript" src="http://s7.addthis.com/js/250/addthis_widget.js#pubid=loudtronix"></script> --->
+		
+		<!-- Taboola -->
+		<script type="text/javascript">
+		  window._taboola = window._taboola || [];
+		  _taboola.push({flush: true});
+		</script>
+		
+	
+
+
+<!--Page Render Time: 0.001 seconds.-->
+
+
+</body></html>
