@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the trade.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820180042id_/https%3A//www.trade.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trade.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204013844id_/https%3A//www.trade.com/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Online Forex Trading - TRADE.com
+# Privacy Policy | TRADE.com
 
-###  Privacy Policy
+##  Privacy Policy
 
 Leadcapital Markets Ltd, and its related entities hereafter “the Company”, is responsible for the protection of the privacy and the safeguarding of clients’ personal and financial information. By opening a trading account with the Company, the client hereby gives its consent to such collection, processing, storage and use of personal information by the company as explained below. 
 
