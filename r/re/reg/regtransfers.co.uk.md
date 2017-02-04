@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229012501id_/https%3A//www.regtransfers.co.uk/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the regtransfers.co.uk privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204130220id_/https%3A//www.regtransfers.co.uk/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Regtransfers.co.uk
 
@@ -32,4 +32,4 @@ RegTransfers.co.uk uses cookies to enable us to provide an enhanced, personalise
 
 Internet browsers, such as Internet Explorer, have settings which allow the user to specify whether or not cookies are accepted. If you wish to alter your browser settings to prevent cookies being stored on your computer, please consult the help facility of your internet client program. Please be aware that disabling cookies may make some services on some websites unavailable.
 
-If you have any questions/comments about privacy, you should [email us](https://web.archive.org/web/20161229012501id_/https%3A//www.regtransfers.co.uk/company/email?emailaddress=marketing&emailSubject=email%20from%20website%20privacy%20policy%20page)
+If you have any questions/comments about privacy, you should [email us](https://web.archive.org/web/20170204130220id_/https%3A//www.regtransfers.co.uk/company/email?emailaddress=marketing&emailSubject=email%20from%20website%20privacy%20policy%20page)
