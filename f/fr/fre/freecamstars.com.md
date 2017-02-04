@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the freecamstars.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204163449id_/http%3A//www.freecamstars.com/privacy.html%3FAFNO%3D1-100018-s1%257Cp2%257Ctour1%257Ck%257Ck2%257Ck3) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freecamstars.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204071206id_/http%3A//freecamstars.com/privacy.html%3FAFNO%3D1-100018-s1%257Cp2%257Ctour1%257Ck%257Ck2%257Ck3) for the most accurate reproduction.*
 
 # FreeCamStars - Privacy Policy
 
-[Home](http://www.freecamstars.com/?AFNO=1-100018-s1%7Cp2%7Ctour1%7Ck%7Ck2%7Ck3) / Privacy Policy
+[Home](http://freecamstars.com/?AFNO=1-100018-s1%7Cp2%7Ctour1%7Ck%7Ck2%7Ck3) / Privacy Policy
 
 By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
