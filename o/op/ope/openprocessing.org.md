@@ -1,9 +1,6 @@
-> *The following text is extracted and transformed from the openprocessing.org privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605025713id_/http%3A//www.openprocessing.org/about/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openprocessing.org privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204222755id_/https%3A//www.openprocessing.org/home/prp) for the most accurate reproduction.*
 
-# OpenProcessing
-
-  
-
+# Privacy Policy - OpenProcessing
 
 ### What information do we collect?
 
@@ -23,7 +20,7 @@ Your information, whether public or private, will not be sold, exchanged, transf
 
 * To send periodic emails
 
-The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions.
+The email address you provide may be used to send you information, respond to inquiries, and/or other requests or questions. 
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
@@ -61,7 +58,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.openprocessing.org/about/termsOfService>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.openprocessing.org/about/termsOfService
 
 ### Your Consent
 
@@ -77,9 +74,9 @@ This policy was last modified on 01.07.2011
 
 If there are any questions regarding this privacy policy you may contact us using the information below. 
 
-http://www.openprocessing.org  
-162 Hoyt Street #1  
-Brooklyn, NY 11217  
-USA  
-info@openprocessing.org  
+http://www.openprocessing.org   
+162 Hoyt Street #1   
+Brooklyn, NY 11217   
+USA   
+info@openprocessing.org   
 
