@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219052053id_/http%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneymakingmommy.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204013119id_/https%3A//www.moneymakingmommy.com/privacy-policy-statement) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
-[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.moneymakingmommy.com%2Fprivacy-policy-statement%2F&media=http%3A%2F%2Fwww.moneymakingmommy.com%2Fwp-content%2Fuploads%2F2011%2F02%2FiStock_000011690232XSmall1.jpg&description=)[](http://pinterest.com/kellyland/)
+[](http://pinterest.com/pin/create/button/?url=http%3A%2F%2Fwww.moneymakingmommy.com%2Fprivacy-policy-statement%2F&media=https%3A%2F%2Fi0.wp.com%2Fwww.moneymakingmommy.com%2Fwp-content%2Fuploads%2F2011%2F02%2FiStock_000011690232XSmall1.jpg%3Ffit%3D418%252C287&description=)[](http://pinterest.com/kellyland/)
 
 MoneyMakingMommy.com’s Privacy Policy
 
@@ -48,3 +48,5 @@ ADDITIONAL INFORMATION
 
 We provide a [full disclaimer](https://web.archive.org/disclaimer/) as well.  
 Also – [Contest and Giveaway Terms and Conditions](http://www.moneymakingmommy.com/contest-or-giveaway-terms-and-conditions/)
+
+### _Related_
