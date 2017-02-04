@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the soundstrue.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012160604id_/http%3A//www.soundstrue.com/store/privacy-policy%3F___SID%3DU) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the soundstrue.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204024911id_/http%3A//www.soundstrue.com/store/privacy-policy%3F___SID%3DU) for the most accurate reproduction.*
 
 # Privacy Policy
 
