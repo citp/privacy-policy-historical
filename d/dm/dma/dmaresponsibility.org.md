@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dmaresponsibility.org privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107123322id_/https%3A//thedma.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dmaresponsibility.org privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204223200id_/https%3A//thedma.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | thedma.org
 
@@ -11,9 +11,9 @@ Effective May 9, 2012
 
 #### General Statement of Privacy
 
-The Direct Marketing Association respects the privacy of its members and of those who visit this site.
+The Data & Marketing Association respects the privacy of its members and of those who visit this site.
 
-This Privacy Policy applies to business visitors visiting the websites of the Direct Marketing Association, including The-DMA.org, NewDMA.org, DMAAction.org and micro-sites associated with DMA annual events. The website, DMAeducation.org, has its own privacy policy which you should review if you visit that website.
+This Privacy Policy applies to business visitors visiting the websites of the Data & Marketing Association
 
 Attention Consumers: Consumers can find information to help them with their marketing preferences, including how to register for DMA’s Preference Services, at www.DMAChoice.org and can also contact us via email at Consumer@the-dma.org if they wish to learn more. The DMA does not engage in marketing to consumers and does not maintain consumer marketing data, rather, it offers consumers ways to manage their preferences via DMAchoice.org.
 
@@ -68,9 +68,9 @@ Please note that DMA members who opt-out of promotional DMA communications will 
 
 You can also contact us by mail or phone:
 
-The Direct Marketing Association  
-1120 Avenue of the Americas  
-New York, NY 10036-6700  
+The Data & Marketing Association  
+1333 Broadway, Suite 301  
+New York, NY 10018  
 (212) 768-7277 Extension 1500
 
 Visitors can also choose not to accept cookies. Your Web browser may alert and permit you to refuse cookies. Please check with the company operating your browser for more information on how to change those browser-level settings. Please note that disabling cookies for some services may affect your ability to use that service.
@@ -100,12 +100,12 @@ Fax: (202) 955-0085
 ## DMA’s Online Privacy Policy for Consumers
 
 **DMA Headquarters**  
-Direct Marketing Association, Inc.  
-1120 Avenue of the Americas  
-New York, NY 10036-6700
+Data & Marketing Association, Inc.  
+1333 Broadway, Suite 301  
+New York, NY 10018
 
 **DMA Washington Office**  
-Direct Marketing Association, Inc.  
+Data & Marketing Association, Inc.  
 1615 L Street NW; Suite 1100  
 Washington, DC 20036-5624
 
