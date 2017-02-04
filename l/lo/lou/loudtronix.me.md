@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the loudtronix.me privacy policy that was archived on 2016-01-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160102011937id_/http%3A//www.loudtronix.me/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loudtronix.me privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204033517id_/http%3A//www.loudtronix.co/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 [](http://www.facebook.com/LoudTronix) [](http://www.twitter.com/LoudTronix) [](http://www.youtube.com/LoudTronix)
 
-Privacy Policy If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@loudtronix.me. 
+Privacy Policy If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at support@loudtronix.co. 
 
 At LoudTronix, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by LoudTronix and how it is used. 
 
