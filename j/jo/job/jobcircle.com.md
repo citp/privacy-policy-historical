@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobcircle.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222055618id_/http%3A//www.beyond.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobcircle.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204033926id_/https%3A//www.beyond.com/policies/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Beyond.com
 
