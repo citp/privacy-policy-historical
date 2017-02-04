@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the airdna.co privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221063808id_/https%3A//www.airdna.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airdna.co privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204105319id_/https%3A//www.airdna.co/privacy-policy) for the most accurate reproduction.*
 
 # Airdna Privacy Policy
 
