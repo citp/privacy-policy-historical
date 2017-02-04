@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rticcoolers.com privacy policy that was archived on 2015-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150925213123id_/https%3A//www.rticcoolers.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rticcoolers.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204022438id_/https%3A//www.rticcoolers.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - RTIC Coolers
 
@@ -6,13 +6,13 @@
     Shop With Confidence! Protecting Your Personal Information Privacy Policy
     Last updated: August 8, 2015.
      
-    Thank you for accessing the RTICCoolers.com Website (“Site”) operated by RTIC Coolers LLC We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
+    Thank you for accessing the RTICCoolers.com Website (“Site”) owned and operated by RTIC Web Services LLC We respect your privacy and want to protect your personal information. To learn more, please read this Privacy Policy.
      
     This Privacy Policy explains how we collect, use and (under certain conditions) disclose your personal information. This Privacy Policy also explains the steps we have taken to secure your personal information. Finally, this Privacy Policy explains your options regarding the collection, use and disclosure of your personal information. By visiting the Site directly or through another site, you accept the practices described in this Policy.
      
     This privacy policy applies to the Site. This privacy policy does not necessarily apply to any offline collection of your personal information. Please see below for details.
      
-    We are not responsible for the content or privacy practices on any web site not operated by RTIC Coolers LLC to which the Site links or that links to the Site.
+    We are not responsible for the content or privacy practices on any web site not operated by RTIC Web Services LLC to which the Site links or that links to the Site.
      
     INFORMATION COLLECTION AND USE
      
@@ -46,11 +46,11 @@
      
     2.         Information Use and Disclosure.
      
-    (a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve the Sites’ content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the Site. In order to facilitate such use and the other use described in this Section 2, we may share your information with affiliates under RTIC Coolers LLC’s control.
+    (a) Internal Use. We use your personal information to process your order and provide you with customer service. We may internally use your personal information to improve the Sites’ content and layout, to improve outreach and for our own marketing efforts (including marketing our services and products to you), and to determine general marketplace information about visitors to the Site. In order to facilitate such use and the other use described in this Section 2, we may share your information with affiliates under RTIC Web Services LLC’s control.
      
     (b) Communications with You: We will use your personal information to communicate with you about the Site and your orders and deliveries. Also, we may send you a confirmation email when you register or order with us. We may send you a service-related announcement on the rare occasions when it is necessary (for example, if we must temporarily suspend our service for maintenance.) Also, you may submit your email address for reasons such as to request us to notify you of new brands, new product styles, or product sizes; to sign up for email newsletters and special offers; or to sign up for a newsletter. If you submit your email address, we use it to deliver the information to you. We always permit you to unsubscribe or opt out of future emails (see the opt out section, below, for more details). Because we have to communicate with you about orders that you choose to place, you cannot opt out of receiving emails related to your orders.
      
-    (c) External Use. We want to provide you with excellent service and to offer you a great selection. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under RTIC Coolers LLC’s control, except that:
+    (c) External Use. We want to provide you with excellent service and to offer you a great selection. We do not sell, rent, trade, license or otherwise disclose your specific personal information or financial information to anyone other than to affiliates under RTIC Web Services LLC’s control, except that:
      
     (i) As do most catalog and Internet retailers, we sometimes use others to perform specific functions on our behalf. When we disclose information to these service providers, we disclose information to help them to perform their service. For example, in order to deliver products to you, we must share some information. We partner with third parties (such as the U.S. Postal Service, United Parcel Service, and Federal Express) to ship products, to ensure delivery, and so that we can obtain feedback, improve the quality of our service, and measure and improve the quality of the service of the third party. In the example of shippers, we provide them some personally identifiable information such as your name, shipping address, email, and phone number.
      
