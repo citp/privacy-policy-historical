@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icf.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016125430id_/https%3A//www.icf.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icf.com privacy policy that was archived on 2017-02-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170204024948id_/https%3A//www.icf.com/privacy-statement) for the most accurate reproduction.*
 
 # » ICF
 
@@ -8,7 +8,7 @@ Effective Date: September 20, 2016
 
 ### Scope
 
-This Privacy Statement (“Privacy Statement”) applies to the webpages, mobile applications, features, widgets, online services, electronic mail, and related content (collectively, the “Site(s)") owned, operated, or controlled by ICF International, Inc. and its affiliates, subsidiaries, trusted business partners or alliances, agents, subcontractors, or third-party vendors (collectively, "ICF" or which may be referred to as “we”, “us”, and “our”), as well as any information ICF collects offline in connection with our services or programs.
+This Privacy Statement (“Privacy Statement”) applies to the webpages, intranet pages, mobile applications, features, widgets, online services, electronic mail, and related content (collectively, the “Site(s)") owned, operated, or controlled by ICF International, Inc. and its affiliates, subsidiaries, trusted business partners or alliances, agents, subcontractors, or third-party vendors (collectively, "ICF" or which may be referred to as “we”, “us”, and “our”), as well as any information ICF collects offline in connection with our services or programs.
 
 ICF is a privacy conscious organization and your trust is paramount to us. This Privacy Statement discloses our information treatment practices, from what type of information we gather and track about Site users to how we collect, use, process, share, or transfer such information. This Privacy Statement also describes the choices available to you regarding the use of, your access to, and how to update and correct your information. This Privacy Statement does not apply to any site that does not display or link to this Privacy Statement or that has its own privacy statement. This Privacy Statement does not apply to instances where we merely process data on our client’s behalf for their benefit unless as otherwise expressed in writing. We encourage you to read this Privacy Statement for this Site, privacy statements for our other Sites where this Privacy Statement may not apply (e.g., European Economic Areas (“EEA”), etc.), or applicable privacy statement for other sites you visit or review.
 
@@ -56,7 +56,7 @@ We collect information that identifies you as a specific individual (e.g., our w
 
 ### Collection of Personal Information
 
-Information is collected in two ways:>/p>
+Information is collected in two ways:
 
   1. Information You Voluntarily Provide to Us 
   2. Information Collected Automatically 
@@ -140,6 +140,16 @@ ICF assumes no responsibility for any links to our Sites from another party's we
 
 
 
+
+### Personal Information Accuracy, Privacy, and Security
+
+We intend to maintain Personal Information accuracy, completeness current status, and security. In the event of changes in your Personal Information, you may inform us to make sure that our information is up-to-date.
+
+We implement commercially reasonable physical, administrative and technical safeguards to help us protect the confidentiality, security, and integrity of your Personal Information and prevent the loss, misuse, unauthorized access, unauthorized interception, or information alteration. For example, ICF takes appropriate measure to make sure that the Personal Information you provide is stored on computer servers in controlled, secure environments.
+
+In some instances, ICF contracts with third-party vendors for website hosting and data storage, including Personal Information. These third-party vendors are required to implement security measures and are subject to contractual prohibitions on selling or sharing any Personal Information. When Personal Information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol. 
+
+Your choice to disclose Personal Information in an email submission or online form is voluntary. Unfortunately, no data transmission over the Internet is 100% secure. While we strive to protect your Personal Information, we cannot ensure or warranty the security of any such Personal Information or fully ensure that your private communications and other Personal Information will not be inadvertently disclosed to third parties by ICF or its business partners, agents, subcontractors, or other third-party vendors. Although we take commercially reasonable precautions to maintain the security of our Sites and servers, third parties may unlawfully intercept or access transmissions or private communications.
 
 ### Cookies, Web Beacon, and Other Technology
 
@@ -394,7 +404,7 @@ ICF is committed to protecting children's privacy online. Our Sites are not inte
 
 U.S. Domestic and International Residents
 
-**General**. You may, at any time, exercise your right to decline to supply certain information while using our Sites. Please bear in mind that you, however, may not be able to access certain content or participate in some features on our Sites. If you tell us that you do not want us to use your information to make further contact with you beyond fulfilling your request, we will respect your wishes. You are entitled to know whether we hold Personal Information about you and, if we do, to have access to that Personal Information and require it to be corrected if it is inaccurate. We generally do not make decisions by purely automatic means, but if we do, you have the right to object. If we are going to use your Personal Information in a manner different from that stated at the time of collection, we will notify you, and you will have a choice as to whether or not we can use your Personal Information in such a way. </p>
+**General**. You may, at any time, exercise your right to decline to supply certain information while using our Sites. Please bear in mind that you, however, may not be able to access certain content or participate in some features on our Sites. If you tell us that you do not want us to use your information to make further contact with you beyond fulfilling your request, we will respect your wishes. You are entitled to know whether we hold Personal Information about you and, if we do, to have access to that Personal Information and require it to be corrected if it is inaccurate. We generally do not make decisions by purely automatic means, but if we do, you have the right to object. If we are going to use your Personal Information in a manner different from that stated at the time of collection, we will notify you, and you will have a choice as to whether or not we can use your Personal Information in such a way. 
 
 **Marketing**. You may, at any time, exercise your right to prevent us from sharing marketing materials with you by checking certain boxes on our forms, utilizing the unsubscribe or opt-opt mechanisms in the emails we send you, indicating so when we call you, or [Contacting Us](https://web.archive.org/contact-us). In such cases, we will retain minimum Personal Information to note that you opted out in order to avoid contacting you again.
 
