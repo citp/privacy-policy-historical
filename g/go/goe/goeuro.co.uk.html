@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the goeuro.co.uk privacy policy that was archived on 2016-11-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161125235410id_/http%3A//www.goeuro.co.uk/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the goeuro.co.uk privacy policy that was archived on 2017-02-05.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170205123427id_/http%3A//www.goeuro.co.uk/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 
@@ -22,6 +22,9 @@
         <script type="text/javascript">
                     window.goeuroserverfarm = 'eu';
         
+                            window.userprofilebasepath = 'https://www.goeuro.com/user-profile/users';
+                            window.signinbaseurl = 'https://www.goeuro.com/sso/signin';
+                            window.signoutbaseurl = 'https://www.goeuro.com/sso/signout';
             </script>
     <meta charset="utf-8">
     <title>Privacy | GoEuro </title>
@@ -39,7 +42,7 @@
     <link rel="canonical" href="http://www.goeuro.co.uk/privacy">
             <link href="http://fonts.googleapis.com/css?family=Open+Sans:300,400,700&amp;subset=latin,latin-ext" rel="stylesheet" type="text/css">
     
-                <link rel="stylesheet" type="text/css" href="//cdn-goeuro.com/beta/stylesheets/app.min.4bae431188e53a5.css">
+                <link rel="stylesheet" type="text/css" href="//cdn-goeuro.com/beta/stylesheets/app.min.3f735c0122f62ca.css">
                 <link rel="shortcut icon" href="//cdn-goeuro.com/beta/images/favicon.ico" type="image/x-icon">
         <!--[if lt IE 9]>
         <script type="text/javascript" src="//cdn-goeuro.com/beta/javascripts/html5shiv.js"></script>
@@ -106,16 +109,6 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
                 </ul>
 
                 <section>
-                    <ul class="left">
-                        <li>
-                            <div class="overline">&nbsp;</div>
-                            <a href="/">Travel Planner</a></li>
-                        <li class="divider">&nbsp;</li>
-                                                    <li>
-                            <div class="overline">&nbsp;</div>
-                            <a id="aCarRental" href="https://cars.goeuro.com/en/?clientId=721363" onclick="window._snaq &amp;&amp; window._snaq('trackStructEvent','car-rental-hp', 'click-dw-hp', 'cartrawler', '', '');">Car Rental</a>
-                        </li>
-                    </ul>
                                                 <ul class="right userlogin co.uk-domain">
                             
                                                                                         
@@ -293,12 +286,25 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
 
 </li>
                             
-                                <li id="header-userlogin" class="header-userlogin custom-small-dropdown">
-        <a class="profile dropdown-sel-val" href="/user/login">
-            <span>Login</span>
+                                    <script type="text/template" id="user-anonymous-tmpl">
+        <a class="profile dropdown-sel-val" id="signInLink" target="_top" data-auth-action="signin">
+            <span>Sign in</span>
         </a>
+    </script>
+
+    <script type="text/template" id="user-authenticated-tmpl">
+        <a class="profile user-name dropdown-sel-val" href="javascript:void(0);" id="user-name">
+            <span><%- firstName %> <%- lastName %></span>
+        </a>
+                <ul class="dropdown-profile-list">
+            <li><img src="//cdn-goeuro.com/beta/images/ico-user-signout.svg"><a class="signout-link auth-link dropdown-sel-val" id="signOutLink" target="_top"  data-auth-action="signout">Sign out</a></li>
+        </ul>
+            </script>
+
+    <li id="header-userprofile" class="header-userlogin">
+        <div id="user-auth-placeholder"></div>
     </li>
-                        </ul>
+                            </ul>
                 </section>
 
             </nav>
@@ -313,7 +319,8 @@ var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga
          document.getElementById("aCarRental").href = url;
          };*/
     </script>
-</header>       
+</header>
+    
                 <div class="container content" role="main">
             <!-- begin content -->
                 <div class="wide-img head-img img-flat text-white">
@@ -650,7 +657,7 @@ Germany</p>
                         <script type="text/javascript">
 _gaq.push(['_trackPageview']);
 </script>
-                                    <script class="goeuro-scripts" src="//cdn-goeuro.com/assets/js/common-home.min.9654c05a2aab65d.js" type="text/javascript"></script>
+                                    <script class="goeuro-scripts" src="//cdn-goeuro.com/assets/js/common-home.min.455fdb6402dfd23.js" type="text/javascript"></script>
         
     
     <script src="//cdn-goeuro.com/images/static-pages/js/js.js"></script>
