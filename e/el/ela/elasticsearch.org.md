@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elasticsearch.org privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201220356id_/https%3A//www.elastic.co/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elasticsearch.org privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206001145id_/https%3A//www.elastic.co/legal/privacy-policy) for the most accurate reproduction.*
 
 # Elastic.co Privacy Policies | Elastic
 
