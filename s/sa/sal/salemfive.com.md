@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509012138id_/https%3A//www.salemfive.com/customer-support/security-center/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salemfive.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205190338id_/https%3A//www.salemfive.com/customer-support/security-center/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice
 
@@ -169,4 +169,4 @@ Salem, MA 01970
 
 |   
   
-[](https://web.archive.org/customer-support/security-center/privacy-policy/privacy-notice-january-2016-page-2 "Click here to continue to Privacy Notice Page 2")
+[](https://web.archive.org/customer-support/security-center/privacy-policy/privacy-notice-january-2017-page-2 "Click here to continue to Privacy Notice Page 2")
