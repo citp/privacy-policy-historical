@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodwood.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011163611id_/https%3A//www.goodwood.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodwood.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205120749id_/https%3A//www.goodwood.com/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Goodwood - Privacy Policy
 
