@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voteforbernie.org privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108024144id_/http%3A//voteforbernie.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voteforbernie.org privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205123613id_/http%3A//voteforbernie.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - VoteForBernie.org
 
