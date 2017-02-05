@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103225017id_/https%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemarket.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205033817id_/https%3A//www.comparethemarket.com/information/privacy-policy) for the most accurate reproduction.*
 
 # Compare the Market - Privacy & Cookie Policy
 
@@ -162,6 +162,10 @@ This website also uses Google Analytics to allow us to monitor how users use our
 **Celebrus Technologies**
 
 This site is being monitored by Celebrus Technologies' monitoring software which captures information about your visit and the information you provide that will help us improve the quality of our service.  Celebrus Technologies may use cookies for this purpose. Please see the privacy and cookie policy for more details.
+
+**SessionCam**
+
+SessionCam may record your interaction on this website, including recording mouse clicks, mouse movements, page scrolling and text entered into web forms. This data is used by us in order for us to constantly improve this website.
 
 How can I stop cookies and what effect will this have?
 
