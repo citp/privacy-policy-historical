@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the spectrumbusiness.net privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023093253id_/https%3A//business.spectrum.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spectrumbusiness.net privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205115328id_/https%3A//business.spectrum.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Spectrum Business
-
-####  Website Privacy Policy 
 
 This Privacy Policy discloses the privacy practices for the website, any subdomains and its various related features (together referred to as the "site"). Charter Communications (referred to as "Charter," "us" or "we") is committed to protecting your privacy while on this site. Please read the information below to learn how we collect, use and disclose the information gathered by this site. 
 
@@ -14,7 +12,7 @@ We reserve the right to change this Privacy Policy at any time. Such changes, mo
 
 ####  Are You a Charter Customer? 
 
-This Privacy Policy only applies to your use of this site. This Privacy Policy does not govern Charter's treatment of information it collects, uses or discloses other than through this site. If you are looking for Charter's residential subscriber service agreement, acceptable use policy or other Charter residential subscriber policies, please click here: [ Charter Residential Subscriber Policies](http://www.charter.com/footer-page2/terms-of-service). If you are looking for Charter's commercial acceptable use policy or terms of service, please click here: [ Charter Commercial Subscriber Policies](http://www.charter.com/footer-page2/terms-of-service). If you are looking for Charter's cable television, Internet or telephone privacy policies, please click here: [ Charter Subscriber Privacy Policies](http://www.charter.com/footer-page2/terms-of-service). If you are a commercial customer of Charter, please consult your agreement or contact **800.314.7195** to speak with a Charter representative about how your information is used. 
+This Privacy Policy only applies to your use of this site. This Privacy Policy does not govern Charter's treatment of information it collects, uses or discloses other than through this site. If you are looking for Charter's residential subscriber service agreement, acceptable use policy or other Charter residential subscriber policies, please click here: [ Charter Residential Subscriber Policies](http://www.charter.com/footer-page2/terms-of-service). If you are looking for Charter's commercial acceptable use policy or terms of service, please click here: [Charter Commercial Subscriber Policies](https://web.archive.org/content/general-commercial-disclosures). If you are looking for Charter's cable television, Internet or telephone privacy policies, please click here: [Charter Subscriber Privacy Policies](http://www.charter.com/footer-page2/terms-of-service). If you are a commercial customer of Charter, please consult your agreement or contact **800.314.7195** to speak with a Charter representative about how your information is used. 
 
 * * *
 
