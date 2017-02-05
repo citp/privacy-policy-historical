@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the onbrazzers.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121075700id_/http%3A//www.onbrazzers.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onbrazzers.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205014838id_/https%3A//www.onbrazzers.com/privacy.html) for the most accurate reproduction.*
 
 # OnBrazzers - Privacy Policy
 
-[Home](http://www.onbrazzers.com/) / Privacy Policy
+[Home](http://onbrazzers.com/) / Privacy Policy
 
 By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
