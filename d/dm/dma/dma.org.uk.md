@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117090859id_/http%3A//dma.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dma.org.uk privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205085920id_/https%3A//dma.org.uk/privacy-and-cookie-policy) for the most accurate reproduction.*
 
-# DMA | Page | Privacy and Cookie Policy
+# Privacy and Cookie Policy | DMA | Page | Privacy and Cookie Policy
 
 We believe in respecting your privacy – it's one of the five principles of the DMA Code, to which we hold our members accountable.
 
