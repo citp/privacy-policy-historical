@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the titanium.free.fr privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207195909id_/http%3A//www.titanium.free.fr/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the titanium.free.fr privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205012031id_/http%3A//www.titanium.free.fr/privacy.html) for the most accurate reproduction.*
 
 # Titanium Software - Home
 
@@ -46,7 +46,7 @@ Titanium Software has appropriate security measures in place to protect against 
 
 **COPYRIGHT NOTICE**
 
-This website, including all images and text, are Copyright © 2016 by Titanium Software. Reproduction, with or without alteration, is prohibited without prior written permission.
+This website, including all images and text, are Copyright © 2017 by Titanium Software. Reproduction, with or without alteration, is prohibited without prior written permission.
 
 **CONTROLLER/WEBMASTER CONTACT INFORMATION**
 
