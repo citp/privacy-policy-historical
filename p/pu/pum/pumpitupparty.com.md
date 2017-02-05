@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the pumpitupparty.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324044639id_/http%3A//www.pumpitupparty.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pumpitupparty.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205071759id_/https%3A//www.pumpitupparty.com/privacy-policy) for the most accurate reproduction.*
 
-# Pump It Up Privacy Policy
-
-**Privacy Policy**
+# Privacy Policy | Pump It Up
 
 We want you to enjoy every visit to PumpItUpParty.com. So rest assured, any information you share with us, from your email address to your favorite memory at Pump It Up, will be carefully guarded through our use of industry-standard security software. Please read on for more details about our privacy policy. Pump It Up reserves the right to change this privacy policy at any time. Be sure to check this page periodically for updates. This policy applies only to personal information collected online at www.pumpitupparty.com and does not apply to information collected offline by Pump It Up. This policy is effective May 31, 2006.
 
