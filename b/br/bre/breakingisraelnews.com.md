@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the breakingisraelnews.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233637id_/https%3A//www.breakingisraelnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the breakingisraelnews.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205225943id_/https%3A//www.breakingisraelnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Breaking Israel News | Latest News. Biblical Perspective.
 
