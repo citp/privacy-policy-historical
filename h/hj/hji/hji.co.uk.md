@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the hji.co.uk privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019081347id_/https%3A//www.hji.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hji.co.uk privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205121701id_/https%3A//www.hji.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - HJI
 
 **hji.co.uk is owned and operated by M Squared Media Ltd.**
 
