@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmstrader.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203101226id_/http%3A//www.cmstrader.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmstrader.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205102548id_/http%3A//www.cmstrader.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement|privacy|protect Client’s Privacy Statement
+# Privacy Statement|privacy|protect Client’s
 
 CMSTrader is fully committed to the protection of the privacy of personal and financial information of its clients.  We carefully explain how we handle the data of our clients and ensure its protection. By opening an account, the client hereby gives Pandorex Ventures LTD its consent to such collection, processing, storage, and use of personal information by Pandorex Ventures LTD as explained below.
 
