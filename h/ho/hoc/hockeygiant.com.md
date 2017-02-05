@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the hockeygiant.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123111908id_/http%3A//www.hockeygiant.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hockeygiant.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205115823id_/http%3A//www.hockeygiant.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
-
-FREE GROUND SHIPPING ON ORDERS OVER $49
-
-****
 
 HockeyGiant.com will not sell, share or rent any customer information collected on our web site.
 
