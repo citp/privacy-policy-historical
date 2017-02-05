@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ssmatri.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207110101id_/http%3A//ssmatri.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ssmatri.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205213617id_/https%3A//www.ssmatri.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy and Policy | Brahmins Matrimony | Brahmins Swayamvaram | Chennai Matrimonials | Chennai Matrimoni | Hindu Matrimoni | Remarriage matrimony sites | Remarriage Matrimony | Physically Challenged Matrimony | Iyers Matimonys | Iyengar Matrimonys | Iyer Matimony Mebistes | Iyengar Matrimony Websites | Bride | Matrimony for physically disabled | Remarriages
 
@@ -33,6 +33,6 @@ Chennai Sai Sankara Matrimonials : No 7, Old no 15/2, 9th Avenue, Ashok Nagar, C
 Phone : +91 44 2471 6920, 2471 9042, Mobile: +91 78100 40404, +91 98403 30531(Founder),+91 98403 32531, E-Mail : [saisankara@gmail.com ](mailto:saisankara@gmail.com)  
 Timings: 10.00 A.M to 7.00 P.M Tuesday Holiday
 
-2016 © [Chennai Sai Sankara Matrimonials](http://www.ssmatri.com/) | [Privacy Policy](https://web.archive.org/web/20161207110101id_/http%3A//ssmatri.com/privacy-policy.php)
+2016 © [Chennai Sai Sankara Matrimonials](http://www.ssmatri.com/) | [Privacy Policy](https://web.archive.org/web/20170205213617id_/https%3A//www.ssmatri.com/privacy-policy.php)
 
 As the website uses advanced Java scripts, the website is best viewed at 1024 x 768 resolution in I.E 10 or above, Mozilla 3.5 or above, Google Chrome 3 or above, Safari 5.0 +
