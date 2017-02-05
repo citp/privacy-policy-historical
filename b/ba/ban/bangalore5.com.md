@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bangalore5.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910151827id_/https%3A//www.bangalore5.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bangalore5.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205101255id_/http%3A//bangalore5.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Residential property| Flats for purchase| bangalore5.com
 
