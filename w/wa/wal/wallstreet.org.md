@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallstreet.org privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012230655id_/http%3A//www.wallstreet.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallstreet.org privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205122352id_/http%3A//www.wallstreet.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Wallstreet.org
 
@@ -23,5 +23,3 @@ Some of the services provided on the website and the advertisers of this website
 This website has links to other websites as well, where the privacy policies could vary by either being less or more comprehensive. In such instances, WallStreet.org bears no responsibility, as those are not its domain.
 
 At any point in time, the website retains the right to alter the privacy policy and other terms of use without prior notice.
-
-**Receive News & Ratings Via Email** \- Enter your email address below to receive a concise daily summary of the latest news and analysts’ ratings with [MarketBeat.com’s FREE daily email newsletter](http://www.wallstreet.org/free-analysts-ratings-via-email/).
