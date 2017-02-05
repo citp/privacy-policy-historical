@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the artprice.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119083811id_/http%3A//www.artprice.com/block/privacypolicy%3Fmodal%3Dtrue) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artprice.com privacy policy that was archived on 2017-02-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170205102009id_/https%3A//www.artprice.com/privacypolicy) for the most accurate reproduction.*
 
-# 
+# artprice.com, the world leader in Art market information
 
 We commit ourselves to protect your privacy as well as any personal information that you enter on our website or give by any other means. We use the information to process your orders, send updated news about artprice and inform you on available promotions at the artprice website. 
 
@@ -8,7 +8,7 @@ Our website requires cookies to be enabled in your web browser to maintain your 
 \- a session cookie is used exclusively during your access to the databases;  
 \- a user cookie that saves your username and search language during 365 days. We also use a third-party cookie([google analytics](http://www.google.com/analytics/)) to establish statistics on the traffic and use of our websites by users, while ensuring they can remain anonymous. 
 
-If you do not wish to accept the use of cookies, go on your Internet browser's preferences and follow the procedure in place to block cookies (for example on the following links or any substitute link: [Internet explorer](http://windows.microsoft.com/en-en/windows7/block-enable-or-allow-cookies) , [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer), [Google chrome](https://support.google.com/chrome/answer/95647?hl=en), [Safari](http://support.apple.com/kb/PH11913). 
+If you do not wish to accept the use of cookies, go on your Internet browser's preferences and follow the procedure in place to block cookies (for example on the following links or any substitute link: [Internet explorer](http://windows.microsoft.com/en-en/windows7/block-enable-or-allow-cookies), [Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer), [Google chrome](https://support.google.com/chrome/answer/95647?hl=en), [Safari](http://support.apple.com/kb/PH11913). 
 
 The secure payment ensures secured trading and transmission of information. 
 
