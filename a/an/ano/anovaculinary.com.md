@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the anovaculinary.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518071523id_/http%3A//anovaculinary.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anovaculinary.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206130355id_/https%3A//anovaculinary.com/pages/privacy) for the most accurate reproduction.*
 
 # Anova Culinary Privacy Policy - Anova Culinary
 
-Last modified: December 12, 2014
+Last modified: June 1, 2016
 
 ### COLLECTION:
 
@@ -37,9 +37,9 @@ Questions, Concerns and Comments:
 
 If you have any questions regarding our privacy policy, please contact us:
 
-Anova Culinary, LLC  
-PO BOX 66  
-Stafford, TX 77477  
+Anova Applied Electronics, Inc.  
+580 Howard St., Unit 403  
+San Francisco, CA 94105  
 P:855.421.8282  
 General Requests: [info@anovaculinary.com](mailto:info@anovaculinary.com)  
 Privacy Email: [privacy@anovaculinary.com](mailto:privacy@anovaculinary.com)
