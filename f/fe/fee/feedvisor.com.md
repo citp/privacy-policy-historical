@@ -1,15 +1,20 @@
-> *The following text is extracted and transformed from the feedvisor.com privacy policy that was archived on 2015-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150527212315id_/http%3A//feedvisor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the feedvisor.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206190016id_/https%3A//feedvisor.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Feedvisor |
+# Privacy Policy | Feedvisor
 
-## **FeedVisor™ Privacy Policy**
+  * Feedvisor Privacy Policy
+
+  
+
+
+## **FeedVisor Privacy Policy**
 
 This is the privacy policy (“ **Privacy Policy** “) that governs how we, FeedVisor Ltd. (“ **FeedVisor** “, “ **we** “, “ **our** ” or “ **us** “), use Personal Information (defined below) that we collect, receive and store about individuals in connection with the use of: (i) the website [www.feedvisor.com](http://www.feedvisor.com/), and any other website that we operate (each, together with its sub-domains, content and services, a “ **Site** “); and (ii) any software that we license or enable access to (“ **Software** “). The Site and the Software are individually and collectively referred to herein as the “ **Service** “.
 
   1. **1\. Introduction**. We have implemented this Privacy Policy because your privacy, and the privacy of other Service users, is important to us. This Privacy Policy explains our online information practices and the choices you can make about the way your Personal Information is collected and used in connection with the Service. “ **Personal Information** ” means any information that may be used, either alone or in combination with other information, to personally identify an individual, including, but not limited to, a first and last name, a personal profile, an email address, a home or other physical address, or other contact information.
   2. **2\. Consent and Modification**. By using the Service, you consent to the terms of this Privacy Policy and to FeedVisor’s processing of Personal Information for the purposes set forth herein. If you do not agree to this Privacy Policy, please do not access or otherwise use the Service. We reserve the right, at our discretion, to change this Privacy Policy at any time. Such change will be effective ten (10) days following posting of the revised Privacy Policy on the Site, and your continued use of the Service thereafter means that you accept those changes.
   3. **3\. What Personal Information We Collect and How We Collect It**. We receive and/or collect Personal Information from you in the following ways: 
-    1. 3.1. Account. In order to access and use certain parts of the Service, you may be required to first create an account (“ **Account** ”), and provide us with certain information which may include your user name, email address, and a password that you will use for your Account.
+    1. 3.1. Account. In order to access and use certain parts of the Service, you may be required to first create an account ( **Account** ), and provide us with certain information which may include your user name, email address, and a password that you will use for your Account.
     2. 3.2. Software Access. We may offer you the opportunity to access certain software via a Site portal (“ **Software** “). If you choose to do so, you may first be required to register an Account.
     3. 3.3. Marketplace Account. In order to access and use certain Software services, you may choose to link to an account that you have with a third party e-commerce marketplace (each a “ **Marketplace** “) such as Amazon.com (“ **Amazon** “). You acknowledge and agree to review and be bound by the terms of use and privacy policy of any Marketplace provider that you link to or interact with via the Service. 
       1. (i) For Amazon. In order to link to and interact with Amazon, you may first be required to: (a) grant us authorization to access your Amazon account in accordance with the rules for doing so prescribed by Amazon (“ **Amazon Rules** “); and (b) provide us with your merchant Id, and any other information that Amazon requires us to obtain, so that we may make Amazon Marketplace Web Service (MWS) requests on your behalf. You agree that we may perform the activities on your behalf in connection with your Amazon account which are permitted by Amazon and which are set forth in the Amazon Rules. Please note that in order to link to your Amazon account you may need to be registered with Amazon to use the Amazon MWS.
