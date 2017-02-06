@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whenlovewasreal.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208012319id_/http%3A//www.whenlovewasreal.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whenlovewasreal.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206083559id_/http%3A//www.whenlovewasreal.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - When Love Was Real
 
