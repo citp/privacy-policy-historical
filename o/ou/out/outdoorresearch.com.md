@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outdoorresearch.com privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925135050id_/http%3A//www.outdoorresearch.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outdoorresearch.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206220654id_/https%3A//www.outdoorresearch.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy US EN | Outdoor Research | Designed By Adventure | Outdoor Clothing & Gear
 
