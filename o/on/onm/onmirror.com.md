@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onmirror.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124192655id_/http%3A//onmirror.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onmirror.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206210551id_/http%3A//onmirror.com/privacy) for the most accurate reproduction.*
 
 # OnMirror.com - Укоротите длинные ссылки в один клик
 
