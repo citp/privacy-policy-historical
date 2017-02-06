@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freevectormaps.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429061934id_/https%3A//freevectormaps.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freevectormaps.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206183833id_/https%3A//freevectormaps.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Free Vector Maps
 
