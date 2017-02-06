@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wit.ie privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123165023id_/https%3A//www.wit.ie/about_wit/documents_and_policies/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wit.ie privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206070808id_/https%3A//www.wit.ie/about_wit/documents_and_policies/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | Waterford Institute of Technology
 
@@ -51,7 +51,7 @@ We use Facebook and Twitter functionality within this site so that you can share
 
 We also sometimes use video embedding, like YouTube or Vimeo (3rd party) to enhance your experience of content on our site.
 
-You can find out about YouTube’s Cookie policy here **:[](http://www.google.com/intl/en/policies/privacy/)<http://www.google.com/intl/en/policies/privacy/>, **and Vimeo’s here: **[](http://vimeo.com/privacy)<http://vimeo.com/privacy>**
+You can find out about YouTube’s Cookie policy here **:[](https://www.google.com/chrome/browser/privacy/)<https://www.google.com/chrome/browser/privacy/>, **and Vimeo’s here: **[](http://vimeo.com/privacy)<http://vimeo.com/privacy>**
 
 * * *
 
