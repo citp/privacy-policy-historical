@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the upickem.net privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822062711id_/http%3A//secondstreet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the upickem.net privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206094722id_/https%3A//secondstreet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Second Street
 
@@ -14,11 +14,11 @@ You can choose to not receive e-mails or updates about special benefits, promoti
 
 Any personal data (such as age and gender) you may provide is used to create personalized content, services, and advertising on our Site, as well as to better understand the preferences of our members and customers. We may also aggregate your Site activity so that Second Street and our affiliates may better understand the users that are visiting our Site. In all cases, this aggregated data is anonymous and does not contain any personal information that identifies a user.
 
-Second Street complies with the U.S.-Swiss SafeHarbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. 
+Second Street complies with the U.S.-Swiss SafeHarbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.
 
 Second Street also complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Second Street has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>
 
-As part of the Privacy Shield Framework, Second Street is subject to the investigatory and enforcement powers of the Federal Trade Commision (FTC). Individuals may invoke binding arbitration if possible, and under certain conditions. Second Street assumes liability for cases of onward transfers of EU data to third parties. Last, Second Street is required by law to furnish personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
+As part of the Privacy Shield Framework, Second Street is subject to the investigatory and enforcement powers of the Federal Trade Commision (FTC). Individuals may invoke binding arbitration if possible, and under certain conditions. Second Street assumes liability for cases of onward transfers of EU data to third parties. Last, Second Street is required by law to furnish personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 Per Privacy Shield regulations, Second Street has registered with JAMS as an independent alternative dispute resolution (ADR) service for EU members. More information can be found at: <https://www.jamsadr.com/eu-us-privacy-shield>
 
