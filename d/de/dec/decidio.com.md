@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the decidio.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207111238id_/http%3A//www.decidio.com/termsprivacy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the decidio.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206045526id_/http%3A//www.decidio.com/termsprivacy.cfm) for the most accurate reproduction.*
 
 # Simplified Terms and Privacy | Decidio
 
@@ -18,4 +18,4 @@ There is a technology called "cookies" which can be used to provide you with tai
 
 Each of the documents linked below outline the type of information we collect and store, our usage policy, and who to contact with questions or concerns.
 
-[Privacy Policy](http://www.decidio.com/privacy.cfm) [Terms of Use](http://www.decidio.com/terms.cfm)
+[Privacy Policy](https://www.decidio.com/privacy.cfm) [Terms of Use](https://www.decidio.com/terms.cfm)
