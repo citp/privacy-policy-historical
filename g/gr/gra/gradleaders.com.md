@@ -1,12 +1,18 @@
-> *The following text is extracted and transformed from the gradleaders.com privacy policy that was archived on 2016-05-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160519005243id_/http%3A//www.gradleaders.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gradleaders.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206170337id_/https%3A//www.gradleaders.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GradLeaders
 
-GradLeaders.com, MBAFocus.com and CSOResearch.com (the "Websites") are operated by GradLeaders, LLC and GradLeaders, Inc., (collectively "GradLeaders") located at 5980 Wilcox Place, Dublin, Ohio, 43016 U.S.A.  GradLeaders takes the private nature your personal information very seriously. This privacy policy describes how we collect, use and disclose the personal information of visitors and uses of the Websites.  This privacy policy applies only to information collected by GradLeaders through the Websites.  Please read this notice very carefully.
+GradLeaders.com and CSOResearch.com (the "Websites") are operated by GradLeaders, LLC and GradLeaders, Inc., (collectively "GradLeaders") located at 5980 Wilcox Place, Dublin, Ohio, 43016 U.S.A.  GradLeaders takes the private nature your personal information very seriously. This privacy policy describes how we collect, use and disclose the personal information of visitors and uses of the Websites.  This privacy policy applies only to information collected by GradLeaders through the Websites.  Please read this notice very carefully.
+
+EU-US PRIVACY SHIELD FRAMEWORK
+
+GradLeaders complies with the Eu-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries.  GradLeaders has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.  To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
+
+US-SWISS SAFE HARBOR FRAMEWORK
+
+GradLeaders complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.  GradLeaders has certified that it adheres to the Safe Harbor Privacy Principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access, and Enforcement.  If there is any conflict between the policies in this privacy policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern.  To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor/
 
 BY USING THE WEBSITES, YOU EXPRESSLY CONSENT TO THE PROCESSING OF YOUR PERSONAL INFORMATION ACCORDING TO THIS PRIVACY POLICY. YOUR PERSONAL INFORMATION MAY BE PROCESSED IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY.
-
-GradLeaders complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. GradLeaders has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view GradLeaders' certification (listed under MBA Focus, LLC and CSO Research, Inc.), please visit http://www.export.gov/safeharbor/.
 
 ### The Information We Collect
 
@@ -18,13 +24,17 @@ _Resume and Career Profile_
 
 You may also choose to upload additional information, such as your resume and career profile, to improve your experience and use of the Websites.  When you upload your résumé it will integrated into GradLeaders' School Résumé Database that is available for purchase by other users of the Websites.  Information you submit to the Websites and make public via any public posting or application process, may also be available to other Users or those using the Websites and may be available to third party search engines. We recommend that you guard your anonymity and sensitive information to the extent that you upload any applications. We are not responsible for any Personal Information you chose to disclose on the Websites.  Each User with access to your information will be permitted to use the information in the same manner as if you submitted the information directly to that User.  GradLeaders makes no endorsement or representations and is not responsible regarding the information privacy practices of any User. Any information you choose to make publically available may reveal, or allow others to identify, your nationality, ethnic origin, gender, age, and other aspects of your life. Publically posting any information on the Websites is entirely voluntary on your part.  You may choose not to allow any of your information to be accessible or transferred to third parties, however, this choice may limit your access to the full use of the Services.
 
-### Use and Disclosure of your Personal Information
+### Use of Cookies
+
+As you use the Services, certain information may also be collected passively, including your Internet protocol (IP) address and the browser that you use to visit the Site. GradLeaders may also store a small text file called a "Cookie" on your computer to store your login information (if any) and your personal preferences for the Websites.  GradLeaders may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). While you will still be able to use the Websites if you disable Cookies in your browser, certain parts of the Websites may not function as effectively. After you register and enable Cookies, we may associate this information with personal information that we have collected from you.
+
+Use and Disclosure of your Personal Information
 
 GradLeaders will use the personal information you submit to us to provide you full access and functionality of the Websites.  Accordingly, personal information may be used for the following purposes: (i) to provide and improve our services, features and content; (ii) to administer your  use of our services and accounts; (iii) to enable users to enjoy and easily navigate the Websites; (iv) to better understand your needs and interests; (v) to fulfill requests you may make; (vi) to personalize your experience; (vii) to provide you with announcements, notifications related to your use of the Websites and other communications such as electronic newsletters, promotional e-mails or similar messaging; (viii) to provide service announcements; (ix) to protect against users seeking to hack into the Websites; and (x) to assess the level of general interest in the Websites and specific information included in the Websites.
 
 Except as provided elsewhere in this policy GradLeaders will not disclose your personal information to third parties outside of GradLeaders and its service providers, affiliates, vendors and business partners unless GradLeaders has the good faith belief that disclosure is reasonably necessary to:
 
-  * cooperate with law enforcement authorities or comply with legal process served on GradLeaders or the Websites;
+  * cooperate with law enforcement authorities or comply with legal process served on GradLeaders or the Websites including to meet national security or law enforcement requirements;
   * protect the property and rights of GradLeaders, its affiliates or a third party;
   * protect the safety of the public or any person;
   * prevent or stop any activity we may consider to be, or to pose a risk of being, illegal, unethical, inappropriate or legally actionable;
@@ -33,23 +43,63 @@ Except as provided elsewhere in this policy GradLeaders will not disclose your p
 
 
 
-If GradLeaders discloses your personal information pursuant to one of the above-mentioned conditions, it will do so only to the extent necessary.
+During the normal course of doing business, we may share your information among our business units, our affiliates and unaffiliated third parties as necessary in order to service your accounts or orders you place with us.  If GradLeaders discloses your personal information pursuant to one of the above-mentioned conditions, it will do so only to the extent necessary.
 
-### Destruction of Your Personal Data
+In some instances, you may opt out of particular third party disclosures or uses of your data by  reaching out to [support@gradleaders.com](mailto:support@gradleaders.com) to opt out of employer access to your data.
 
-GradLeaders will store your personal information only so long as necessary to fulfill the purpose for its collection.  Once the storage of your personal information is no longer necessary, GradLeaders will securely destroy your data to protect it from unauthorized use or disclosure.
+### How You Can Update, Correct or Delete Your Information
+
+GradLeaders acknowledges the individual’s right to access their personal data for the purpose of updating, editing or deleting it. You can access the information that we collect online and maintain through normal updating methods. To update, correct or delete this information, you can contact our Privacy Officer Sean Arata via email ([sarata@gradleaders.com](mailto:sarata@gradleaders.com)) or via telephone (614.376.0721). We reserve the right to take appropriate steps to authenticate an applicant’s identity, to charge an adequate fee before providing access and to deny requests, except as required by the EU-U.S. Privacy Shield Framework.
+
+Your account can be deleted or deactivated, but doing so may result in your not being able to access or receive certain services. 
+
+Destruction of Your Personal Data
+
+GradLeaders will store your personal information only so long as necessary to fulfill the purpose for its collection. Once the storage of your personal information is no longer necessary, GradLeaders will securely destroy your data to protect it from unauthorized use or disclosure.
 
 ### Security of your Personal Information
 
 GradLeaders is committed to protecting your personal information. We regularly test our facilities and use a variety of security technologies and procedures to help protect your personal information from unauthorized access, use or disclosure.
 
-### Use of Cookies
-
-As you use the Services, certain information may also be collected passively, including your Internet protocol (IP) address and the browser that you use to visit the Site. GradLeaders may also store a small text file called a "Cookie" on your computer to store your login information (if any) and your personal preferences for the Websites.  GradLeaders may use both session Cookies (which expire once you close your web browser) and persistent Cookies (which stay on your computer until you delete them). While you will still be able to use the Websites if you disable Cookies in your browser, certain parts of the Websites may not function as effectively. After you register and enable Cookies, we may associate this information with personal information that we have collected from you.
-
-### Links to Other Web Sites
+### Third Party Practices
 
 The Websites may contain links to other web sites that are not owned or controlled by GradLeaders. The provision of such links is for your convenience and does not signify our endorsement of such web sites or location or its contents. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other web sites.
+
+GradLeaders may be potentially liable for the onward transfer of personal data to third parties. GradLeaders will not transfer any personal information to a third-party without first ensuring that the third-party adheres to the Privacy Shield principles. GradLeaders does not transfer personal information to unrelated third parties, unless lawfully directed by a client, or in certain limited or exceptional circumstances in accordance with the EU-U.S. Privacy Shield Framework.
+
+In the event that GradLeaders is requested to transfer personal data to an unrelated third party, GradLeaders will ensure that such party enters into a written agreement with the third party requiring them to provide protections consistent with the EU-U.S. Privacy Shield Framework. 
+
+Personal information is accessible only by those employees and consultants who have a reasonable need to access such information in order for us to fulfill contractual, legal and professional obligations. All of our employees and consultants have entered into strict confidentiality agreements, and/or have been subjected to thorough criminal background checks requiring that they maintain the confidentiality of personal information.
+
+### Annual Assessment
+
+GradLeaders assures compliance with this EU-U.S. Privacy Shield Policy and the EU-U.S. Privacy Shield Framework by utilizing the self-assessment approach as specified by the U.S. Department of Commerce. The assessment is conducted on an annual basis to ensure that all of GradLeader’s relevant privacy practices are being followed in conformance with this EU-U.S. Privacy Shield Policy and the EU-U.S. Privacy Shield FrameworkAny employee that GradLeaders determines is in violation of these policies will be subject to discipline, up to and including termination of employment and/or criminal prosecution.
+
+### Applicability
+
+GradLeaders is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC).
+
+### PRIVACY POLICY UPDATES
+
+This  Privacy Policy may occasionally be updated. When material updates are made, the date of the last revision will be reflected at the end of the page. This page may be bookmarked to facilitate periodic review of this Privacy Policy and to note recent updates. Neither this  PrivacyPolicy nor updates to it will affect or modify any contracts we have with our clients.
+
+### EU-U.S. Privacy Shield Contact
+
+In compliance with the EU-U.S. Privacy Shield, GradLeaders commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding this privacy policy should first contact GradLeaders.
+
+If you have questions, please contact GradLeaders’ Privacy Officer, e-mail: sarata@gradleaders.com. Or you may call us at: 614.376.0721. We will promptly investigate and attempt to resolve complaints and disputes in a manner that complies with the principles described in this Policy.
+
+If you are not satisfied with our response, or if contacting us does not resolve your complaint, you can contact BBB EU PRIVACY SHIELD, operated by the Council of Better Business Bureaus – an independent dispute resolution mechanism, pursuant to the EU-U.S. Privacy Shield Framework. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint/
+
+Finally, and as a last resort and under limited circumstances, EU individuals with unresolved privacy complaints can appeal to the Privacy Shield Panel, a binding arbitration mechanism.
+
+EU-U.S. Privacy Shield Policy Effective Date: 1/23/2017
+
+### EU-Swiss Safe Harbor Privacy Contact
+
+In compliance with the US-Swiss Safe Harbor Principles, GradLeaders commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss individuals with inquiries or complaints regarding this privacy policy should first contact GradLeaders’ Privacy Officer, e-mail: [sarata@gradleaders.com](mailto:sarata@gradleaders.com). Or you may call us at: 614.376.0721. We will promptly investigate and attempt to resolve complaints and disputes in a manner that complies with the principles described in this Policy.
+
+GradLeaders has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgement of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
 
 ### Privacy Policy Changes
 
@@ -63,18 +113,14 @@ For users outside the United States, please note that any personally-identifiabl
 
 A business subject to California Civil Code section 1798.83 is required to disclose to its California customers, upon request, the identity of any third parties to whom the business has disclosed personal information within the previous calendar year, along with the type of personal information disclosed, for the third parties' direct marketing purposes.
 
-If you are a California resident and would like to make such a request, please send an email to [support@gradleaders.com](mailto:support@gradleaders.com).
+If you are a California resident and would like to make such a request, please send an email to [support@gradleaders.com](mailto:support@gradleaders.com).
 
 ### Contact Us
 
-You have the right to access your information to verify its accuracy.  To access your information, ask questions about our privacy practices, or issue a complaint, contact us at:
+You have the right to access your information to verify its accuracy.  To access your information, ask questions about our privacy practices, or issue a complaint, contact our Privacy Officer Sean Arata at:
 
 GradLeaders, LLC  
 5980 Wilcox Place,  
 Dublin, Ohio, 43016 U.S.A.  
-(614) 791-9000   
-Email Address: [info@gradleaders.com](mailto:info@gradleaders.com)
-
-### To File a Complaint
-
-GradLeaders has committed to refer unresolved privacy complaints under the Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by GradLeaders, please visit the BBB EU SAFE HARBOR web site at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/us/safe-harbor-complaints) for more information and to file a complaint.
+(614) 791-9000   
+Email Address: [sarata@gradleaders.com](mailto:info@gradleaders.com)
