@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codedump.io privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107192126id_/https%3A//codedump.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codedump.io privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206142722id_/https%3A//codedump.io/privacy) for the most accurate reproduction.*
 
 # CodeDump - Dump your code and share it with others.
 
