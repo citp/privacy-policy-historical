@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 70mack.co privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013151547id_/http%3A//70mack.co/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 70mack.co privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206062424id_/http%3A//70mack.co/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | 70mack
 
