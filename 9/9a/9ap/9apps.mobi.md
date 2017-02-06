@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9apps.mobi privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224190405id_/http%3A//www.9apps.com/about/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9apps.mobi privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206225449id_/https%3A//www.9apps.com/about/privacy_policy.html) for the most accurate reproduction.*
 
 # About - 9Apps
 
