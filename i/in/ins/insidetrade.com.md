@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the insidetrade.com privacy policy that was archived on 2011-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110425002757id_/http%3A//insidetrade.com/201008302184052/Inside-Trade-General/About/privacy-policy/menu-id-614.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insidetrade.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206170506id_/https%3A//insidetrade.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | InsideTrade.com
 
 _Inside Washington Publishers_ provides you with exclusive, top-quality news on issues affecting federal policies in all areas of interest, including the environment, defense, trade, energy and healthcare. You may obtain this timely and valuable information through a wide variety of daily, weekly, biweekly and monthly services, which include investigative news reports, comprehensive news summaries and issue analyses. In an effort to facilitate use of this wealth of information, you may access _Inside Washington Publishers’_ content via the Internet. In addition, you may take advantage of a variety of electronic services provided by _Inside Washington Publishers_. _Inside Washington Publishers_ provides this Internet Privacy Policy to confirm its dedication to your privacy and to encourage broad use of its electronic services.
 
@@ -10,9 +10,9 @@ When you browse _Inside Washington Publishers_ web sites, the web servers automa
 
 ## Use of Information Collected by _Inside Washington Publishers_
 
-_Inside Washington Publishers_ is committed to respecting and protecting the privacy of our subscribers. Subscriber information collected is used by _Inside Washington Publishers_ to enhance its services and to provide you with additional services. For example, _Inside Washington Publishers_ may use the collected information to determine your interests and to provide you with topical information or notices. If you would rather not receive any such information or promotional materials from _Inside Washington Publishers_ , please send an e-mail message stating your wish to not receive such information to [info@iwpnews.com](mailto:info@iwpnews.com) .
+_Inside Washington Publishers_ is committed to respecting and protecting the privacy of our subscribers. Subscriber information collected is used by _Inside Washington Publishers_ to enhance its services and to provide you with additional services. For example, _Inside Washington Publishers_ may use the collected information to determine your interests and to provide you with topical information or notices. If you would rather not receive any such information or promotional materials from _Inside Washington Publishers_ , please send an e-mail message stating your wish to not receive such information to [info@iwpnews.com](mailto:info@iwpnews.com).
 
-As part of our ongoing marketing efforts, _Inside Washington Publishers_ will occasionally allow select organizations to contact our subscribers with specific offers of products or services. With the exception of these occasional marketing arrangements, _Inside Washington Publishers_ does not disclose any information collected from you to any third-party, unless required by law.
+_Inside Washington Publishers_ does not disclose any information collected from you to any third-party, unless required by law.
 
 ## Security Safeguards and Technological Advances
 
@@ -20,4 +20,4 @@ _Inside Washington Publishers_ seeks to maintain the security of all information
 
 ## Additional Services
 
-For additional information about _Inside Washington Publishers’_ Internet Privacy Policy or to change any information provided to _Inside Washington Publishers_ through this site, please contact us, via e-mail at [info@iwpnews.com](mailto:info@iwpnews.com) .
+For additional information about _Inside Washington Publishers’_ Internet Privacy Policy or to change any information provided to _Inside Washington Publishers_ through this site, please contact us, via e-mail at [info@iwpnews.com](mailto:info@iwpnews.com).
