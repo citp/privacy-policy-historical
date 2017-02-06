@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tripleaughtdesign.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601132410id_/https%3A//tripleaughtdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tripleaughtdesign.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206084820id_/https%3A//tripleaughtdesign.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Triple Aught Design
 
