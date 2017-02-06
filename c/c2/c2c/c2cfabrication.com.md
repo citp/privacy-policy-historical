@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the c2cfabrication.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325103413id_/http%3A//www.c2cfabrication.com/pages/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c2cfabrication.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206165210id_/https%3A//www.c2cfabrication.com/pages/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement – Classic 2 Current Fabrication
+# Privacy Statement
 
 **_PRIVACY STATEMENT_**
 
