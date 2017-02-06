@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelogyindia.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206090615id_/http%3A//www.travelogyindia.com/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelogyindia.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206101152id_/http%3A//www.travelogyindia.com/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Travelogy India
 
@@ -84,6 +84,6 @@ Our website may contain links to other websites of interest whose privacy practi
 Travelogy India Pvt. Ltd.  
 Office No. 322, IIIrd Floor,  
 [Create My Trip Now  
-No extra cost ](https://web.archive.org/web/20161206090615id_/http%3A//www.travelogyindia.com/create-my-trip.html) Angel Mega Mall, CK - 1,  
+No extra cost ](https://web.archive.org/web/20170206101152id_/http%3A//www.travelogyindia.com/create-my-trip.html) Angel Mega Mall, CK - 1,  
 Kaushambi, Ghaziabad, Delhi NCR - 201010  
 Email: [santosh@travelogyindia.com](mailto:santosh@travelogyindia.com)
