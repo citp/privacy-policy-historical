@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the patriotupdate.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105072914id_/http%3A//patriotupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the patriotupdate.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206175157id_/http%3A//patriotupdate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy / Terms & Conditions - Patriot Update
 
