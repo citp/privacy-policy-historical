@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leesa.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221094412id_/https%3A//www.leesa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leesa.com privacy policy that was archived on 2017-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170206213325id_/https%3A//www.leesa.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Leesa
 
