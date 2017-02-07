@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cottonbureau.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329101637id_/https%3A//cottonbureau.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cottonbureau.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207042032id_/https%3A//cottonbureau.com/privacy) for the most accurate reproduction.*
 
-# Privacy | Cotton Bureau: hand-picked tees, tanks, and hoodies for people of all ages. Submit yours today.
+# Privacy | Cotton Bureau
 
 Cotton Bureau respects your privacy and wants to give you a powerful online experience that you can trust. This Privacy Policy refers to the Cotton Bureau Website (the “Website”) and governs all of our data collection and usage policies. If you use or visit the Cotton Bureau Website, you are signifying to Cotton Bureau, LP (“Cotton Bureau”) that you agree to the data practices described in this Privacy Policy.
 
