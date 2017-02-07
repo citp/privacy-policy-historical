@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the microscopyu.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806103418id_/http%3A//www.microscopyu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the microscopyu.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207083900id_/https%3A//www.microscopyu.com/privacy) for the most accurate reproduction.*
 
 # Privacy | MicroscopyU
 
