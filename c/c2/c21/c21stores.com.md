@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the c21stores.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110154814id_/https%3A//www.c21stores.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the c21stores.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207070749id_/https%3A//www.c21stores.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Century 21
 
