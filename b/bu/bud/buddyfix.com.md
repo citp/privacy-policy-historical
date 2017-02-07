@@ -1,30 +1,34 @@
-> *The following text is extracted and transformed from the buddyfix.com privacy policy that was archived on 2016-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160330014259id_/https%3A//buddyfix.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buddyfix.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207051647id_/https%3A//buddyfix.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Buddyfix
 
-[ ](https://buddyfix.com/ "Buddyfix")
-
-Navigate __
-
-  * [WordPress Themes](https://buddyfix.com/downloads/category/wordpress/themes/)
-  * eCommerce
-    * [Magento Themes](https://buddyfix.com/downloads/category/magento-themes/)
-    * [Opencart Themes](https://buddyfix.com/downloads/category/opencart-themes/)
-  * More
-    * [Html Templates](https://buddyfix.com/downloads/category/html-templates/)
-    * [WordPress Plugins](https://buddyfix.com/downloads/category/wordpress/plugins/)
-    * [Whmcs](https://buddyfix.com/downloads/category/whmcs/)
-    * [PHP Scripts](https://buddyfix.com/downloads/category/php-scripts/)
-  * [Blog](https://buddyfix.com/post/)
-  * [My Account](https://buddyfix.com/my-account/)
-    * [My Account](https://buddyfix.com/my-account/)
-    * [Support Ticket](https://buddyfix.com/support-ticket/)
-    * [Contact Us](https://buddyfix.com/contact-us/)
-  * [Register](https://buddyfix.com/register/)
-  * [Log In](https://buddyfix.com/login/)
-
-
-
-You are at:[Home](https://buddyfix.com/)»Privacy Policy
-
 This policy covers how we use your personal information. We take your privacy seriously and will take all measures to protect your personal information. Any personal information received will only be used to fulfill your order, and may be used for internal analytical purposes. We will not sell or redistribute your information to anyone.
+
+ If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@buddyfix.com.
+
+At buddyfix.com, the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by buddyfix.com and how it is used.
+
+**Log Files**
+
+Like many other Web sites, buddyfix.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
+
+**Cookies and Web Beacons**
+
+buddyfix.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
+
+**DoubleClick DART Cookie**
+
+.:: Google, as a third party vendor, uses cookies to serve ads on buddyfix.com.  
+.:: Google’s use of the DART cookie enables it to serve ads to users based on their visit to buddyfix.com and other sites on the Internet.  
+.:: Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – http://www.google.com/privacy_ads.html
+
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include ….  
+Google Adsense
+
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on buddyfix.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+
+buddyfix.com has no access to or control over these cookies that are used by third-party advertisers.
+
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. buddyfix.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
+
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
