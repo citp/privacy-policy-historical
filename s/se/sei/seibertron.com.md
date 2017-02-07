@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seibertron.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115234444id_/http%3A//www.seibertron.com/infozone/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seibertron.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207074144id_/https%3A//www.seibertron.com/infozone/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Transformers
 
