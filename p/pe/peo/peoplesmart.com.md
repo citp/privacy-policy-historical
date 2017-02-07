@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624014334id_/https%3A//www.peoplesmart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peoplesmart.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207114758id_/https%3A//www.peoplesmart.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PeopleSmart
+# Privacy Policy | PeopleSmart
 
 ##  What is covered by this privacy policy? 
 
@@ -62,7 +62,7 @@ The methods we use to collect technical and analytics data include the following
   * We use cookies for our shopping cart, to remember your settings (e.g. language preference), for authentication, and for analyzing site usage. You can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
   * As is true of most web sites, we gather certain information automatically and store it in log files. This information may include your internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or your clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve the services we offer you, to improve marketing, analytics, and site functionality.
   * We partner with third parties to manage our advertising on other sites. Our third-party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. To learn more about these practices, and about how to opt out of certain advertising, you can visit the [Google opt-out page](http://www.google.com/ads/preferences/), and the Network Advertising Initiative’s [opt-out system](http://www.networkadvertising.org/choices/). For a closer look into the third-party advertising and tracking cookies we use, you can consult our [About Our Cookies page](https://www.peoplesmart.com/about-our-cookies). This privacy resource provides useful information and options for opting out of these cookies. 
-  * Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information.
+  * Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs/flash and Local Storage/HTML5 to collect and store information.
   * Various browsers may offer their own management tools for removing content stored locally using HTML5.
   * **Third Party Analytics.** We have engaged Inspectlet to analyse the activities of visitors to this website, and Inspectlet’s authorized use of cookies and other tracking technologies enable it to have access to Personal Information of visitors to this website. Such access to and use of Personal Information by Inspectlet is governed by [Inspectlet’s Privacy Policy](https://www.inspectlet.com/legal#privacy). 
   * **Social media integration**. The site includes social media features operated by third parties, such as the Facebook Like button. These features may collect your IP address and other information about your browsing activity, including the page you are visiting on our site. The information those services collect is subject to their respective privacy policies.
@@ -110,13 +110,13 @@ Your information is stored on secure servers in Northern California. While we us
 
 ###  Access and corrections 
 
-You may use your account to access, correct, or change any personal information you have provided to us or associated with your account. You may also email our Privacy Team at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com). We will do our best to promptly respond to your request. 
+You may use your account to access, correct, or change any personal information you have provided to us or associated with your account. You may also email our Privacy Team at [privacy@peoplesmart.com](mailto:privacy@peoplesmart.com). We will do our best to promptly respond to your request within a reasonable time frame. 
 
 ###  Deleting Your Account 
 
 You can delete your account through your PeopleSmart dashboard. Once deleted, you will no longer have access to any information in your account including your registration information and purchase history. 
 
-For information about opting out of our public records search records, [click here](https://web.archive.org/optout-go). We will do our best to promptly respond to your request. 
+For information about opting out of our public records search records, [click here](https://web.archive.org/optout-go). We will do our best to promptly respond to your request within a reasonable time frame. 
 
 ###  Communication Preferences 
 
@@ -158,6 +158,4 @@ The TRUSTe program covers only information that is collected through this websit
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
 
-[ ](https://privacy.truste.com/privacy-seal/validation?rid=96b1f6ff-6271-4c8a-b552-77639a5ca6f4 "TRUSTe Privacy Certification")
-
-Effective Date Of This Policy: February 24, 2016
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=045c56a3-bdd5-4ae6-98fe-ae28e8f56dd2 "TRUSTe Privacy Certification")
