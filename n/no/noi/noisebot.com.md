@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the noisebot.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025203823id_/http%3A//noisebot.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the noisebot.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207033021id_/http%3A//www.noisebot.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NoiseBot.com
 
