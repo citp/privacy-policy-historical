@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sg-micro.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124001903id_/http%3A//www.sg-micro.com/index.php%3Fm%3Ddefault.declares%26id%3D124) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sg-micro.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207073953id_/http%3A//www.sg-micro.com/index.php%3Fm%3Ddefault.declares%26id%3D124) for the most accurate reproduction.*
 
 # SG Micro Corp
 
