@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webcasterwp.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208203250id_/http%3A//webcasterwp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webcasterwp.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207183955id_/http%3A//webcasterwp.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WebCasterWP
 
@@ -144,8 +144,7 @@ users activities on this website to measure advertisement effectiveness
 and other reasons that will be provided in their own privacy policies,  
 our website has no access or control over these cookies that may be  
 used by third party advertisers.  However, you can opt out of  
-some, though likely not all, of these cookies in one easy location at
-
+some, though likely not all, of these cookies in one easy location at  
 http://ww.networkadvertising.org/managing/opt_out.asp
 
 **Links to Third Party Websites**  
