@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparably.com privacy policy that was archived on 2016-04-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160424004226id_/https%3A//www.comparably.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparably.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207063652id_/https%3A//www.comparably.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Comparably
 
@@ -95,4 +95,4 @@ Please be aware that your Personal Information and communications may be transfe
 
 From time to time, we may change this Privacy Policy. If we change this Privacy Policy, we will give you notice by posting the revised Privacy Policy on the Site and application and by notifying you using the contact information provided by you (if any) and/or by posting a notice on the Site and application. Those changes will go into effect on the effective date shown in the revised Privacy Policy. By continuing to use the Site or Services, you consent to the revised Privacy Policy.
 
- **PLEASE PRINT A COPY OF THIS PRIVACY POLICY FOR YOU RECORDS AND PLEASE CHECK THE SITE FREQUENTLY FOR ANY CHANGES TO THIS PRIVACY POLICY.**
+ **PLEASE PRINT A COPY OF THIS PRIVACY POLICY FOR YOUR RECORDS AND PLEASE CHECK THE SITE FREQUENTLY FOR ANY CHANGES TO THIS PRIVACY POLICY.**
