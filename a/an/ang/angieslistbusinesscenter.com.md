@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the angieslistbusinesscenter.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129160157id_/http%3A//www.angieslist.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the angieslistbusinesscenter.com privacy policy that was archived on 2017-02-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170207042656id_/http%3A//www.angieslist.com/privacypolicy.htm) for the most accurate reproduction.*
 
-# Angie's List Privacy Policy | Angies List
+# | Angie's List
 
 _Last Modified November 2, 2015_
 
