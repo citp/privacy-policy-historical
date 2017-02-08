@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809235601id_/https%3A//www.workable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the workable.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209004335id_/https%3A//www.workable.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy | Workable
+# Privacy policy
 
 As the operators of the Workable website, Workable Software Limited (" **We** ", " **Us** ") is committed to protecting and respecting your privacy. This Privacy Policy (" **Policy** ") sets out the basis on which the personal data collected from you, or that you provide to us will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. 
 
