@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the earthclinic.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111173428id_/http%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earthclinic.com privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208013026id_/https%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Earth Clinic's Privacy Notice
 
@@ -54,7 +54,7 @@ Our privacy policy may be updated from time to time in our discretion and for an
 
 **8\. Privacy of Children**
 
-None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the [Children's Online Privacy Protection Act](http://www.ftc.gov/ogc/coppa1.htm) and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
+None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the [Children's Online Privacy Protection Act](https://www.ftc.gov/ogc/coppa1.htm) and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.
 
 **9\. Security**
 
