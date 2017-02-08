@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the casper.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402123738id_/https%3A//casper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casper.com privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208033126id_/https%3A//casper.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Casper®
 
-Effective Date of Current Policy: July 22, 2015
+Effective Date of Current Policy: January 31, 2017
 
-Last Updated Date of Current Policy: July 22, 2015
+This Privacy Policy applies to <https://casper.com/> (the “ **Site** ”) and all other websites owned and operated by Casper Sleep Inc. The term “ **Casper** ,” “ **we** ,” and “ **us** ” includes Casper Sleep Inc. and our affiliates and subsidiaries.
 
-This Privacy Policy is incorporated by reference into the Casper Sleep, Inc. [Terms and Conditions](https://web.archive.org/terms) (the “ **Terms** ”). The term “ **Casper** ,” “ **we** ,” and “ **us** ” includes Casper Sleep, Inc. and our affiliates and subsidiaries. The Privacy Policy explains how Casper may:
+The Privacy Policy explains how Casper may:
 
   * collect,
   * use, and
@@ -14,101 +14,127 @@ This Privacy Policy is incorporated by reference into the Casper Sleep, Inc. [Te
 
 
 
-information we obtain through the Site. All other terms not defined herein will have the meanings set forth in the Terms.
+Personal Information (defined below) we obtain through the Site, your communications with us, or from third parties. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
-“ **Personal Information** ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized so that it does not allow a third party to easily identify a specific individual. We may also collect Personal Information in connection with surveys (as described below). We do not collect Personal Information from you unless you voluntarily provide it to us.
+“ **Personal Information** ” means information that alone or when in combination with other information may be used to readily identify, contact, or locate you, such as: name, address, email address, or phone number. We do not consider Personal Information to include information that has been anonymized such that it does not allow a third party to easily identify a specific individual.
 
-“ **Non-Personal Information** ” means information that does not identify any individual, including without limitation IP type, IP host address, ISP address, cookie IDs and segment IDs associated with cookie IDs, pages viewed and/or search terms entered, browser type, operating system, duration and frequency of visits, anonymous usage statistics including frequency of messaging and interaction with other users, clickstream data other log file data, or social analytics and tracking measurements. On mobile devices, we may also collect device type, make and model, operating system, carrier, user ID, similar device IDs, and information about the apps you use.
+### THE SITE COLLECTS YOUR INFORMATION
 
-We collect Personal Information when you choose to provide it to us including when you:
+#### We collect Personal Information when you choose to provide it to us including when you:
 
   * register to use the Site;
+  * purchase a Casper product on the Site;
   * use the Site; and
   * communicate with us.
 
 
 
-We also collect Non-Personal Information, by using cookies, pixels, server logs, and other similar technology as you use the Site. Please note that we may use third party service providers to help operate the Site and these third party service providers will collect Non-Personal Information from our Site as well.
+We also collect Personal Information by using cookies, pixels, server logs, and other similar technology as you use the Site. Please note that we may use third party service providers to help operate the Site and these third party service providers may collect Personal Information from our Site as well.
 
-**Personal Information Collection.** When you purchase a Mattress, you are given the option to register with the Site. If you do not register, you may checkout as a guest. In any event, when you purchase a Mattress, you must provide us with Personal Information, such as your name, email address, and address.
+**Register an Account.** The Site gives you the option of creating a user account (an “Account”). If you decide to create an Account, you will provide us with certain Personal Information, such as your user name and password. You are not required to register to use the Site.
 
-**Using the Site.** We collect information you post through the Site. For example, when you interact with other users or the Site by posting a review or other materials, the Site will collect the information you provide in such submissions, including any Personal Information. If you choose to submit content to any public area of the Site, such content will be considered “public” and will not be subject to the privacy protections set forth herein.
+**Purchase a Casper Product.** When you purchase a Casper product using the Site, you are given the option of logging into an Account or checking out as a guest. In either case, when you purchase a Casper product, you will provide us with Personal Information, such as your name, email address, and shipping address.
 
-**Making Payments.** When you make payments through the Site, you may need to provide Personal Information to our third-party service providers, such as your credit card number.
+**Make a Payment.** When you make a payment through the Site, you may need to provide Personal Information to our third party payment processors. Such Personal Information may include sensitive Personal Information, such as your credit card number.
 
-**Communications with Us.** We may also collect Personal Information from you when you choose to communicate with us. For example, you may choose to send us Personal Information in an email to us, when signing up for an account, newsletter or other service. By providing your email address to us, you expressly consent to receive emails from us. We may use email to communicate with you, to send information that you have requested or to send information about other products or services developed or provided by us or our partners, provided that, we will not give your email address to another party to promote their products or services directly to you without your consent. If you contact us, we may keep a record of that correspondence.
+**Submit Information to the Site.** We collect information you submit to the Site. For example, when you post a review of a Casper product on the Site or refer a friend to Casper using the Site, the Site will collect the information in your submission to the Site, including any Personal Information. If you choose to submit content to any public area of the Site, such content will be considered “public” and will not be subject to the privacy protections set forth herein.
 
-**Surveys.** From time to time, we may contact you to participate in online surveys. If you do decide to participate, you may be asked to provide certain information which may include Personal Information. Specifically, you may be asked to provide contact information as well as information about your height, weight, gender, date of birth, the number of children you have, whether you sleep alone or with a partner, and other information we may request in connection with our surveys. All information collected from your participation in our surveys is provided by you voluntarily. We may use such information to improve our products, Site and/or services and in any manner consistent with the policies provided herein.
+**Communicate with Us.** We may also collect Personal Information from you when you communicate with us. For example, you may send us Personal Information by writing an email to us, subscribing to the Casper newsletter, or making a reservation for an event hosted by Casper. If you contact us, we may keep a record of that correspondence.
 
-**Cookies, Automatic Data Collection, and Related Technologies.** The Site collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics.
+**Take a Survey.** From time to time, we may contact you to participate in online surveys. If you do decide to participate, you may be asked to provide certain information which may include Personal Information. For example, you may be asked to provide contact information as well as information about your height, weight, gender or date of birth.
 
-When you visit the Site, we and our third-party service providers receive and record information on our server logs from your browser, including your IP address, and from cookies, pixels and similar technology. Cookies are small text files placed in visitors’ computer browsers to store their preferences. Most browsers allow you to block and delete cookies. However, if you do that, the Site may not work properly.
+**Information You Provide About a Third Party.** If you choose to use our referral service to tell a friend about Casper, we may collect your friend's Personal Information, such as name and email address. We will automatically send your friend a one-time email inviting him or her to purchase a Casper product. We store your friend’s information in order to send this one-time email and to track the success of our referral program.
 
-A pixel is a piece of code embedded on the Site that collects information about users’ engagement on that web page. The use of a pixel allows us to record, for example, that a user has visited a particular web page or clicked on a particular advertisment.
+**Passive Collection.** The Site collects and stores information that is generated automatically as you use it, including your preferences and anonymous usage statistics. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data. We use this data to analyze trends in the aggregate and administer the site. Non-personal information that we passively collect may be combined with other information about you, including Personal Information.
 
-By using the Site, you are authorizing us to gather, parse, and retain data related to the provision of the Site.
+**Tracking Technologies.** Casper and its partners use cookies, pixels, server logs, and other similar technology to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. Non-personal information that we collect using these technologies may be combined with other information about you, including Personal Information.
 
-**Opt-Out.** As noted above, you may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt out of certain mobile ads via their device settings.
+**Information Provided by Third Parties.** Casper may collect information about you from third parties or supplement the information we collect from you with additional records received from third parties. Information is collected from third parties in order to enhance our ability to serve you, to tailor our content to you, and to offer you information that we believe may be of interest to you.
 
-The online advertising industry also provides websites from which you may opt-out of receiving targeted ads from our data partners and our other advertising partners that participate in self-regulatory programs.  You can access these, and also learn more about targeted advertising and consumer choice and privacy, at [www.networkadvertising.org/managing/opt_out.asp](http://www.networkadvertising.org/managing/opt_out.asp) and [www.aboutads.info/choices/](http://www.aboutads.info/choices/). You can also choose not to be included in Google Analytics [here](https://tools.google.com/dlpage/gaoptout).
+### HOW CASPER USES YOUR INFORMATION
 
-**To be clear, whether you are using our opt-out or an online industry opt-out, these cookie-based opt-outs must be performed on each device and browser that you wish to have opted-out.** For example, if you have opted out on your computer browser, that opt-out will not be effective on your mobile device. You must separately opt out on each device.
+**We use Personal Information to facilitate and improve our services, and communicate with you.**
 
-Please note that we do not respond to or honor “do not track” (a/k/a/ DNT) signals or similar mechanisms transmitted by web browsers.
-
-If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails. We will process your request within a reasonable time after receipt. We are not responsible for removing your personal information from the lists of any third party who has previously been provided with your information in accordance with this policy.
-
-We use Personal Information to
-
-  * facilitate and improve our services; and
-  * communicate with you.
-
-
-
-We may use aggregate information for any purpose, including for marketing purposes.
-
-**Internal and Service-Related Usage.** We use information, including Personal Information, for internal and service-related purposes only and may provide it to third parties to allow us to facilitate the Site. We may use and retain any data we collect to provide and improve our services. We may also use such data to help us deliver targeted advertising to consumers, to analyze interactions with and performance of our Site, measure the effectiveness of advertising on behalf of our advertising partners, and to identify the audience most likely to respond to an advertisement. We may also use data from third parties (such as data vendors) pursuant to their own privacy policies, and provide access to or share non-personally identifiable information with any number of third parties, including but not limited to business partners, affiliates and advertising clients. Similarly, we may enhance the non-personally identifiable information collected via our Site with such information collected from our business partners. We believe that the use of such information is helpful to providing users with better services. However, if you would like to opt-out of these interest-based advertisements, please follow the opt-out process described below under “Opt-Out.”
+**Internal and Service-Related Usage.** We use and retain information, including Personal Information, to improve and facilitate the Site and our services. We may also use such data to help us deliver targeted advertising to consumers that is displayed on both Casper websites and unaffiliated websites, to analyze interactions with and performance of our Site, to measure the effectiveness of advertising on behalf of our advertising partners, and to identify the audience most likely to respond to an advertisement. We may also use data from third parties (such as data vendors) pursuant to their own privacy policies, and enhance information (including Personal Information) that we have collected with such third-party data. We believe that the use of such information is helpful to providing users with better services. However, if you would like to opt-out of these interest-based advertisements, please follow the opt-out process described below under “Choice.”
 
 **Communications.** We may send email to the email address you provide to us to verify your account and for informational and operational purposes, such as account management, customer service, or system maintenance.
 
-**Marketing.** We may use information, including Personal Information, to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you.
+**Marketing.** We may use information about you, including Personal Information, to send you information about Casper’s products and services.
 
-**Non-Personal Information and Aggregate Data.** We may use Non-Personal Information as well as any anonymized and aggregated data collected through the Site for any purpose. These uses may include but are not limited to analyzing interactions with and performance of the Site, enabling us to improve our Site and services, and sharing such information with our business partners, affiliates, or any other third party. Similarly, we may enhance any such Non-Personal Information collected via our Site with other non-personal information collected from our business partners.
+**Non-Personal Information.** We may use anonymized, aggregated or other data that is not Personal Information for any purpose, including marketing. These uses may include but are not limited to analyzing interactions with and performance of the Site, enabling us to improve our Site and services, and sharing such information with our business partners, affiliates, or any other third party. Similarly, we may enhance any such anonymized and aggregated data collected via our Site with other information collected from our business partners.
 
-We may share your information:
+### CASPER MAY DISCLOSE YOUR INFORMATION
 
-  * with our third-party service providers;
   * to comply with legal obligations;
   * to protect and defend our rights and property; and
   * with your permission.
 
 
 
-We do not rent, sell, or share Personal Information about you with other people or nonaffiliated companies for their direct marketing purposes, unless we have your permission.
+We do not share your Personal Information with third parties for those third parties' marketing purposes unless you first agree to such sharing (either by opting in or choosing not to opt-out at the time we provide the choice).
 
-**We Use Vendors and Service Providers.** We may share any information we receive with vendors and service providers retained in connection with the provision of the Site.
+**We Use Vendors and Service Providers.** We may share Personal Information with our vendors and service providers who perform services on our behalf. These third parties are authorized to use your Personal Information only as necessary to provide these services to us.
+
+  * Providing customer services including fulfilling orders, delivering packages, and communicating with you about your order
+  * Payment processing
+  * Sending, evaluating and improving marketing communications
+  * Fulfilling subscription services
+  * Conducting research and analysis
+  * Measuring and improving the performance of the Site
+  * Verifying your identity and preventing fraud
+  * Developing and improving Casper products and services
+  * Registering your Account
+  * Detecting, preventing and remediating fraud or other potentially prohibited or illegal activities
+
+
 
 **Displaying to Other Users.** The content you post to the Site may be displayed on the Site. Other users of the Site may be able to see some information about you, such as your name if you submit a review. We are not responsible for privacy practices of the other users who will view and use the posted information.
 
-**Marketing.** We may allow access to other data collected by the Site to facilitate transmittal of information that may be useful, relevant, valuable or otherwise of interest to you.
+**Marketing.** If you are in the United States and make a purchase using the Site, information collected from you may be made available to select third parties who offer products or services that may be of interest to you. If you prefer that we not share your information with such third parties, send an email to privacy@casper.com within thirty (30) days of your purchase. Note that if it has been more than thirty (30) days since your purchase, your opt-out may not apply to marketing initiatives that are already underway.
 
-**As Required By Law and Similar Disclosures.** We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to: comply with law enforcement requests and legal process, such as a court order or subpoena; respond to your requests; or protect yours’, ours’ or others’ rights, property, or safety.
+**As Required By Law and Similar Disclosures.** We may access, preserve, and disclose your Personal Information, other account information, and content if we believe doing so is required or appropriate to comply with law enforcement requests and legal process, such as a court order, government request, or subpoena. We may also access, preserve, and disclose your Personal Information, other account information, and content if we believe in good faith that disclosure is necessary to protect yours’, ours’ or others’ rights, property, or safety, or investigate fraud.
 
-**Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. The use of your Personal Information following any of the foregoing events should be governed by the provisions of this Privacy Policy in effect at the time such Personal Information was collected.
+**Merger, Sale, or Other Asset Transfers.** If we are involved in a merger, acquisition, financing due diligence, reorganization, bankruptcy, receivership, sale of company assets, or transition of service to another provider, then your information may be sold or transferred as part of such a transaction as permitted by law and/or contract. The use of your Personal Information following any of the foregoing events should be governed by the provisions of the Privacy Policy in effect at the time such Personal Information was collected.
 
 We may also disclose your Personal Information with your permission.
+
+### ACCESS
+
+Upon request Casper will provide you with information about whether we hold any of your Personal Information. If you would like to access, update, correct, or delete any information that you have provided to us through your use of the Site, you may contact us at privacy@casper.com. We will respond to your request within a reasonable timeframe. We reserve the right to save transaction data as is necessary to comply with legal obligations or for purposes of standard business operations.
+
+### CHOICE
+
+As noted above, you may stop or restrict the placement of cookies on your computer or remove them from your browser by adjusting your web browser preferences. Please note that cookie-based opt-outs are not effective on mobile applications. However, on many mobile devices, application users may opt out of certain mobile ads via their device settings.
+
+To manage our advertising on other sites, we engage third party advertising partners. These third party partners may use technologies such as cookies to gather information about your activities on the Site and other sites in order to provide you advertising based upon your browsing activities and interests. Certain of our third party advertising partners participate in self-regulatory organizations, and those organizations operate websites that give you the ability to opt-out of receiving targeted ads from those partners.  You can access these websites, and also learn more about targeted advertising and privacy, at [Network Advertising](http://www.networkadvertising.org/managing/opt_out.asp) or [AboutAds](http://www.aboutads.info/choices/). You can also choose not to be included in Google Analytics [here](https://tools.google.com/dlpage/gaoptout).
+
+**To be clear, whether you are opting out by adjusting your browser/device settings or by using a website established by a self-regulatory group, these cookie-based opt-outs must be performed on each device and browser that you wish to have opted-out.** For example, if you have opted out on your computer browser, that opt-out will not be effective on your mobile device. You must separately opt out on each device.
+
+Please note that we do not respond to or honor “do not track” (a/k/a/ DNT) signals or similar mechanisms transmitted by web browsers.
+
+If you receive an unwanted email from us, you can use the unsubscribe link found at the bottom of the email to opt out of receiving future emails. We will process your request within a reasonable time after receipt. We are not responsible for removing your personal information from the lists of any third party who has previously been provided with your information in accordance with this policy.
+
+If you would like to opt-out of Casper sharing your information with third parties (such as data vendors) for non-Casper related marketing purposes, send an email to privacy@casper.com.
+
+### THIRD PARTY SITES AND SOCIAL MEDIA PLATFORMS
 
 The Site may contain links to other websites and other websites may reference or link to our Site. These other domains and websites are not controlled by us. We encourage our users to read the privacy policies of each and every website and application that they interact with. We do not endorse, screen or approve, and are not responsible for the privacy practices or content of such other websites or applications. Visiting these other websites or applications is at your own risk.
 
 The Site also contains links and interactive features with various social media platforms. If you already use these platforms, their cookies may be set on your device when using our Site. You should be aware that Personal Information which you voluntarily include and transmit online in a publicly accessible blog, chat room, social media platform or otherwise online, or that you share in an open forum may be viewed and used by others without any restrictions. We are unable to control such uses of your information when interacting with a social media platform, and by using such services you assume the risk that the Personal Information provided by you may be viewed and used by third parties for any number of purposes.
 
-We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
+### SECURITY OF YOUR INFORMATION
 
-By using the Site or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Site. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Site or sending an e-mail to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please notify us at [privacy@casper.com](mailto:privacy@casper.com).
+We take reasonable steps to ensure that your information is treated securely and in accordance with this Privacy Policy. We follow generally accepted standards to protect Personal Information submitted to us, both during transmission and once it is received. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you provide to us. We do not accept liability for unintentional disclosure.
 
-We do not knowingly collect information from children under 13 and we do not want it. We will take steps to delete it if we learn we have collected it.
+By using the Site or providing Personal Information to us, you agree that we may communicate with you electronically regarding security, privacy, and administrative issues relating to your use of the Site. If we learn of a security system’s breach, we may attempt to notify you electronically by posting a notice on the Site or sending an e-mail to you. You may have a legal right to receive this notice in writing. To receive free written notice of a security breach (or to withdraw your consent from receiving electronic notice), please email us at [privacy@casper.com](mailto:privacy@casper.com)
+
+We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+
+### CHILDREN'S PRIVACY
 
 We do not knowingly collect, maintain, or use Personal Information from children under 13 years of age, and no part of the Site is directed to children under the age of 13. If you learn that your child has provided us with Personal Information without your consent, you may alert us at [privacy@casper.com](mailto:privacy@casper.com). If we learn that we have collected any Personal Information from children under 13, we will promptly take steps to delete such information and terminate the child’s account.
+
+### INTERNATIONAL USERS
 
 By using the Site, you will transfer data to the United States.
 
@@ -116,7 +142,23 @@ By choosing to visit the Site or otherwise provide information to us, you agree 
 
 **If you are visiting from the European Union or other regions with laws governing data collection and use, please note that you are agreeing to the transfer of your information to the United States and processing globally. By providing your information you consent to any transfer and processing in accordance with this Policy.**
 
-If you would like to update or correct any information that you have provided to us through your use of the Site or otherwise, or if you have suggestions for improving this Privacy Policy, please send an e-mail to [privacy@casper.com](mailto:privacy@casper.com).
+### EU-U.S. PRIVACY SHIELD
+
+Casper Sleep Inc. participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  Casper Sleep Inc. is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
+
+Under the Privacy Shield Framework, Casper Sleep Inc. is responsible for the processing of personal data it receives and subsequently transfers to a third party acting as an agent on its behalf.  Casper Sleep Inc. complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Casper Sleep Inc. is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, Casper Sleep Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint) website, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+### POST A QUESTION OR SUGGESTION
+
+If you have suggestions for improving this Privacy Policy, please send an e-mail to [privacy@casper.com](mailto:privacy@casper.com).
+
+### CHANGES TO OUR PRIVACY POLICY AND PRACTICES
 
 We may revise this Privacy Policy, so review it periodically. If you continue to visit this Site and use the services made available to you after such changes have been made, you hereby provide your consent to the changes.
 
@@ -124,10 +166,8 @@ We may revise this Privacy Policy, so review it periodically. If you continue to
 
 **New Uses of Personal Information.** From time to time, we may desire to use Personal Information for uses not previously disclosed in our Privacy Policy. If our practices change regarding previously collected Personal Information in a way that would be materially less restrictive than stated in the version of this Privacy Policy in effect at the time we collected the information, we will make reasonable efforts to provide notice and obtain consent to any such uses as may be required by law.
 
-**Contact Information**
+#### Contact Information
 
-Casper Sleep, Inc.
-
-45 Bond Street, Second Floor, New York, NY 10012
-
+Casper Sleep Inc.  
+230 Park Avenue South, 13th Floor, New York, NY 10003  
 [privacy@casper.com](mailto:privacy@casper.com)
