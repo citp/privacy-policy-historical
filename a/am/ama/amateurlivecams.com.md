@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the amateurlivecams.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130002156id_/http%3A//www.amateurlivecams.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateurlivecams.com privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208071634id_/http%3A//www.amateurlivecams.com/privacy.html%3F) for the most accurate reproduction.*
 
 # AmateurLiveCams - Privacy Policy
 
-[Home](http://www.amateurlivecams.com/) / Privacy Policy
+[Home](http://amateurlivecams.com/) / Privacy Policy
 
 By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
