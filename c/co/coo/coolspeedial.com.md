@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coolspeedial.com privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223154925id_/http%3A//coolspeedial.com/%3Fdr%3D%26tm%3Dprivacy_gen) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coolspeedial.com privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208133745id_/http%3A//coolspeedial.com/%3Fdr%3D%26tm%3Dprivacy_gen) for the most accurate reproduction.*
 
 # 
 
