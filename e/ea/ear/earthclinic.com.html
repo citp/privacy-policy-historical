@@ -1,9 +1,16 @@
-<!--The following is the downloaded HTML source of the earthclinic.com privacy policy that was archived on 2016-11-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161111173428id_/http%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the earthclinic.com privacy policy that was archived on 2017-02-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170208013026id_/https%3A//www.earthclinic.com/privacy_policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html dir="ltr" style=""><head>
+<meta http-equiv="Cache-control" content="public">
+<meta property="fb:app_id" content="906963872753645">
+<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script async="" src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js"></script><script type="text/javascript">
+//<![CDATA[
+try{if (!window.CloudFlare) {var CloudFlare=[{verbose:0,p:0,byc:0,owlid:"cf",bag2:1,mirage2:0,oracle:0,paths:{cloudflare:"/cdn-cgi/nexp/dok3v=1613a3a185/"},atok:"71fa30531616a33f7fd0d1ce8d2e09cc",petok:"a4c4161057e5f5da84f26413eb88ba29f24473bb-1486517427-1800",zone:"earthclinic.com",rocket:"0",apps:{"abetterbrowser":{"ie":"8","opera":null,"chrome":null,"safari":null,"firefox":null}}}];!function(a,b){a=document.createElement("script"),b=document.getElementsByTagName("script")[0],a.async=!0,a.src="//ajax.cloudflare.com/cdn-cgi/nexp/dok3v=f2befc48d1/cloudflare.min.js",b.parentNode.insertBefore(a,b)}()}}catch(e){};
+//]]>
+</script>
 <link href="/assets/images/774605510e7c65f6e12950ca622549ae_favicon.ico" rel="icon" type="image/x-icon">
-<script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script>var themeHasJQuery = !!window.jQuery;</script>
+<script>var themeHasJQuery = !!window.jQuery;</script>
 <script type="text/javascript" src="/assets/js/jquery.js?1.0.989"></script>
 <script>window._$ = jQuery.noConflict(themeHasJQuery);</script>
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,11 +21,11 @@
 <script src="/assets/js/layout.ie.js?1.0.989"></script>
 <![endif]-->
 <link class="" href="//fonts.googleapis.com/css?family=Droid+Sans:regular,700|Open+Sans:300,300italic,regular,italic,600,600italic,700,700italic,800,800italic&amp;subset=latin" rel="stylesheet" type="text/css">
-<link rel="stylesheet" href="/assets/css/style.css?1.2.001">
+<link rel="stylesheet" href="/assets/css/style.css?1.2.005">
 <script type="text/javascript" src="/assets/js/layout.core.js"></script>
 <script src="/assets/js/CloudZoom.js?1.0.989"></script>
 <script src="/assets/js/script.js?1.0.989"></script>
-<script src="/assets/js/header-scripts.js?1.0"></script>
+<script src="/assets/js/header-scripts.js?1.21"></script>
 <meta charset="utf-8">
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
 <link href="https://cdn.datatables.net/1.10.12/css/dataTables.bootstrap.min.css" rel="stylesheet">
@@ -38,18 +45,63 @@
   })();
 
 </script>
-<meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
+<script>
+function goin(user,pass)
+{
+	xmlHttp=GetXmlHttpObject2()
+	if (xmlHttp==null)
+	{
+		alert ("Browser does not support HTTP Request")
+		return
+	}
+	var url="https://www.earthclinic.com/signin-process.php";
+
+	xmlHttp.onreadystatechange=stateChanged2	
+	xmlHttp.open("POST",url,true);
+	xmlHttp.setRequestHeader("Content-type","application/x-www-form-urlencoded");
+	xmlHttp.send("sub1=sub1&email="+user+"&pass="+pass);	
+}
+function stateChanged2()
+{
+	if (xmlHttp.readyState==4 || xmlHttp.readyState=="complete")
+	{
+		document.getElementById("signintitle").innerHTML=xmlHttp.responseText; if(xmlHttp.responseText.search("Welcome")==0){ location.reload(); };
+	}
+}
+function GetXmlHttpObject2()
+{
+	var xmlHttp=null;
+	try
+	{
+		// Firefox, Opera 8.0+, Safari
+		xmlHttp=new XMLHttpRequest();
+	}
+	catch (e)
+	{
+		//Internet Explorer
+		try
+		{
+			xmlHttp=new ActiveXObject("Msxml2.XMLHTTP");
+		}
+		catch (e)
+		{
+			xmlHttp=new ActiveXObject("Microsoft.XMLHTTP");
+		}
+	}
+	return xmlHttp;
+
+   }
+</script><meta content="text/html; charset=UTF-8" http-equiv="Content-Type">
 <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 
 <title>Earth Clinic's Privacy Notice </title>
-
 <meta name="description" content="Read Earth Clinic's Privacy Policy agreement.">
 <meta name="keywords" content="Earth Clinic, privacy policy agreement">
-<meta property="og:image" content="http://www.earthclinic.com/images/logo-fb.png">
-<meta property="og:url" content="http://www.earthclinic.com/privacy_policy.html">
+	    <meta property="og:image" content="http://www.earthclinic.com/images/logo-fb.png">
+    <meta property="og:type" content="website"> 
+<meta property="og:url" content="https://www.earthclinic.com/privacy_policy.html">
 <meta property="og:title" content="Earth Clinic's Privacy Notice">
 <meta property="og:description" content="Read Earth Clinic's Privacy Policy agreement.">
-
 <script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.9.1/jquery.min.js"></script>
 
 <script type="text/javascript" src="https://www.earthclinic.com/js/jquery-ui.min.js"></script>
@@ -88,7 +140,7 @@ function followThisTedNeeded(pid, aid)
 {
 	$( "#followdialog" ).dialog();
 	document.getElementById("followdialog").innerHTML="Loading...";
-	var url = "http://www.earthclinic.com/assets/data/postsactions/followtedneeded.php?pid=" + pid + "&aid=" + aid;
+	var url = "https://www.earthclinic.com/assets/data/postsactions/followtedneeded.php?pid=" + pid + "&aid=" + aid;
 	$( "#followdialog" ).load( url );
 }
 function MM_openBrWindow(theURL,winName,features) { //v2.0
@@ -137,7 +189,7 @@ function flagPost(pageId, postId, postTitle, postType)
 {
 	$( "#followdialog" ).dialog();
 	document.getElementById("followdialog").innerHTML="Loading...";
-	var url = "http://www.earthclinic.com/assets/data/postsactions/flag.php?action=" + postType + "&pid=" + pageId + "&id=" + postId + "&title=" + encodeURIComponent(postTitle);
+	var url = "https://www.earthclinic.com/assets/data/postsactions/flag.php?action=" + postType + "&pid=" + pageId + "&id=" + postId + "&title=" + encodeURIComponent(postTitle);
 	$( "#followdialog" ).load( url );
 }
 function sharePost(shareUrl, id, type)
@@ -148,13 +200,15 @@ function sharePost(shareUrl, id, type)
 	}
 	$( "#followdialog" ).dialog();
 	document.getElementById("followdialog").innerHTML="Loading...";
-	var url = "http://www.earthclinic.com/assets/data/postsactions/sharepost.php?url=" + encodeURIComponent(shareUrl) + "&id=" + id + "&type=" + type;
+	var url = "https://www.earthclinic.com/assets/data/postsactions/sharepost.php?url=" + encodeURIComponent(shareUrl) + "&id=" + id + "&type=" + type;
 	$( "#followdialog" ).load( url );
 }
-</script><style>
+</script>
+<style>
 @media (max-width: 1199px){
 	.bd-columnwrapper-82 {order: 0;}
 	.bd-layoutcolumn-82 {display:block !important;}
+	.bd-layoutcolumn-81 {background-color:#fff;}
 }
 @media (max-width: 991px){
 	.bd-columnwrapper-80 {order: 0;}
@@ -169,9 +223,19 @@ function sharePost(shareUrl, id, type)
 	.grandchildpost #comment {background-color:#FFF;}
 	
 </style>
+<link href="/assets/css/rightnavscroll.css" rel="stylesheet">
+                
 <!-- 0 -->
 </head>
 <body class="bd-body-7  bootstrap bd-pagebackground bd-margins">
+<style>
+.bd-layoutcontainer-20 > .bd-container-inner > .container-fluid > .row {
+    margin-bottom: 3px;
+}
+.bd-section-17 {
+    line-height: 17px;
+}
+</style>
 <div class="canvas" canvas="container"><!-- start canvas -->
     <header class=" bd-headerarea-1 bd-margins">
         <section class=" bd-section-11 hidden-xs bd-page-width bd-tagstyles " id="section11" data-section-title="3 Columns">
@@ -187,7 +251,7 @@ function sharePost(shareUrl, id, type)
  col-md-4
  col-sm-4">
      <div class="bd-layoutcolumn-45 bd-no-margins bd-column"><div class="bd-vertical-align-wrapper"><a class=" bd-logo-4" href="/" title="Natural Home Remedies Earth Clinic">
-    <img class=" bd-imagestyles" src="/assets/images/6dc2e0ed9c4e02a50571b6364cc3cc68_logoheader.png" alt="Holistic Health and Alternative Medicine - EARTHCLINIC.COM">
+    <img class=" bd-imagestyles" src="/assets/images/logoheader.png" alt="Holistic Health and Alternative Medicine - EARTHCLINIC.COM">
 </a></div></div>
 </div>
 	
@@ -196,15 +260,14 @@ function sharePost(shareUrl, id, type)
  col-md-6
  col-sm-5">
     <div class="bd-layoutcolumn-52 bd-background-width  bd-column"><div class="bd-vertical-align-wrapper">
-
-				<form action="http://www.earthclinic.com/search.php" id="cse-search-box" class=" bd-search-4 form-inline" name="ecsearchwg">
+				<form action="https://www.earthclinic.com/search.php" id="cse-search-box" class=" bd-search-4 form-inline" name="ecsearchwg">
 					<input type="hidden" name="cx" value="partner-pub-2476760853251960:e2s0aw4vhqg">
 					<input type="hidden" name="cof" value="FORID:10">
 					<input type="hidden" name="ie" value="ISO-8859-1">
 
         <div class="bd-container-inner">
         <div class="bd-search-wrapper">
-					<input type="text" class=" bd-bootstrapinput-6 form-control input-lg" name="q" value="" placeholder="Search">
+					<input type="text" class=" bd-bootstrapinput-6 form-control input-lg" name="q" value="" placeholder="Search" id="headersearch">
 <input type="hidden" name="sa">
 					<a href="#" class="bd-icon-19 bd-icon " link-disable="true" onclick="document.ecsearchwg.submit();"></a>
 		</div>
@@ -246,35 +309,8 @@ function sharePost(shareUrl, id, type)
                 <div class="bd-container-inner">
                     
                     <ul class=" bd-menu-5 nav nav-pills navbar-left">
-                            <li class=" bd-menuitem-20 
- bd-submenu-icon-only">
-                                <a title="Home Page" href="/" onclick="window.location.href = '/';">Home</a>
-                                <div class="bd-menu-6-popup">
-                                    <ul class=" bd-menu-6">
-                                        <li class=" bd-menuitem-21">
-                                            <a title="Home" href="/">Home</a>
-                                        </li>
-                                        <li class=" bd-menuitem-21">
-                                            <a title="Contact Us" href="/contactus.html">Contact Us</a>
-                                        </li>
-                                        <li class=" bd-menuitem-21">
-                                            <a title="How to Support Us" href="/donations.html">How to Support Us</a>
-                                        </li>
-                                        <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="/about.html">Who We Are</a>
-                                        </li>
-                                        <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="/earth-clinic-reviews.html">What People Say</a>
-                                        </li>
-                                        <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="/guides.html">Website Help</a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </li>
-                            
                             <li class=" bd-menuitem-20 ">
-                                <a title="Children" href="/children.html">Children</a>
+                                <a title="Children" href="https://www.youtube.com/c/earthclinic" target="_blank">Videos</a>
                             </li>
                             <li class=" bd-menuitem-20 
  bd-submenu-icon-only">
@@ -282,23 +318,21 @@ function sharePost(shareUrl, id, type)
                                 <div class="bd-menu-6-popup">
                                     <ul class=" bd-menu-6">
                                         <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="/remedies-all-natural.html">All Remedies</a>
+                                            <a title="Natural Remedies" href="/remedies-all-natural.html">All Remedies</a>
                                         </li>
                                         <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="/all-supplements.html">Supplements</a>
+                                            <a title="Supplements" href="/all-supplements.html">Supplements</a>
                                         </li>
-                                        
                                         <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="/herbs.html">Herbs</a>
+                                            <a title="Herbs" href="/herbs.html">Herbs</a>
                                         </li>
-                                        
                                         <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="/beauty.html">Beauty Remedies</a>
+                                            <a title="Beauty" href="/beauty.html">Beauty Remedies</a>
                                         </li>
-                                        
                                         <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="http://ted.earthclinic.com">Ted's Remedies</a>
+                                            <a title="Ted" href="http://ted.earthclinic.com">Ted's Remedies</a>
                                         </li>
+                                        <li class=" bd-menuitem-21"><a href="/children.html">Children's Remedies</a></li>
                                     </ul>
                                 </div>
                             </li>
@@ -314,13 +348,13 @@ function sharePost(shareUrl, id, type)
                                 <div class="bd-menu-6-popup">
                                     <ul class=" bd-menu-6">
                                         <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="/latest_petposts.html">Latest Pet Posts</a>
+                                            <a title="Latest Pet Posts" href="/latest_petposts.html">Latest Pet Posts</a>
                                         </li>
                                         <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="/pets.html">Pet Ailments</a>
+                                            <a title="Remedies for Pets" href="/pets.html">Pet Ailments</a>
                                         </li>
                                         <li class=" bd-menuitem-21">
-                                            <a title="New Page" href="/pet-remedies.php">Pet Remedies</a>
+                                            <a title="Pet Remedies" href="/pet-remedies.php">Pet Remedies</a>
                                         </li>
                                     </ul>
                                 </div>
@@ -334,14 +368,40 @@ function sharePost(shareUrl, id, type)
                                         <li class=" bd-menuitem-21">
                                             <a title="Recent Posts" href="/latest_posts.html">Recent Posts</a>
                                         </li>
-                                        
                                         <li class=" bd-menuitem-21">
                                             <a title="Recent QA" href="http://answers.earthclinic.com/">Recent QA</a>
                                         </li>
                                     </ul>
                                 </div>
                             </li>
-                    </ul>
+                            <li class=" bd-menuitem-20 
+ bd-submenu-icon-only">
+                                <a title="Contact Us" href="/contactus.html" onclick="window.location.href = '/contactus.html';">Contact Us</a>
+                                <div class="bd-menu-6-popup">
+                                  <ul class=" bd-menu-6">
+                                      <li class=" bd-menuitem-21">
+                                          <a title="Contact Us" href="/contactus.html">Contact Us</a>
+                                      </li>
+                                       <li class=" bd-menuitem-21">
+                                          <a title="Earth Clinic Books" href="/earth-clinic-books.html">Our Books</a>
+                                      </li>
+                                     
+                                      <li class=" bd-menuitem-21">
+                                          <a title="About Earth Clinic" href="/about.html">Who We Are</a>
+                                      </li>
+                                      <li class=" bd-menuitem-21">
+                                          <a title="Reviews" href="/earth-clinic-reviews.html">What People Say</a>
+                                      </li> <li class=" bd-menuitem-21">
+                                          <a title="How to Support Us" href="/donations.html">How to Support Us</a>
+                                      </li>
+                                      <li class=" bd-menuitem-21">
+                                          <a title="Guides" href="/contact-us-guidelines.html">Website Help</a>
+                                      </li>
+                                     
+                                    </ul>
+                                </div>
+                            </li>
+                                                </ul>
                 </div>
             </div>
             </div>
@@ -354,7 +414,7 @@ function sharePost(shareUrl, id, type)
  hidden-sm hidden-xs">
     <div class="bd-layoutcolumn-30 hidden-sm hidden-xs bd-background-width  bd-column"><div class="bd-vertical-align-wrapper"><div class=" bd-customhtml-5 bd-tagstyles">
     <div class="bd-container-inner bd-content-element">
-        <a href="/user-approved-remedies.html" title="Cures Reported">Cures Reported</a><br><b>34,681</b>
+        <a href="/user-approved-remedies.html" title="Cures Reported">Cures Reported</a><br><b>34,666</b>
     </div>
 </div></div></div>
 </div>
@@ -376,7 +436,7 @@ function sharePost(shareUrl, id, type)
                   <a class="btn btn-primary dropdown-toggle" data-toggle="dropdown" href="#" aria-expanded="false" style="padding:0;background:none;border:none;">
                     <b>Your Account</b> <span class="fa fa-caret-down" title="Toggle dropdown menu"></span>
                   </a>
-                  <ul class="dropdown-menu" style="border-radius:0px;"><li style="text-align:center;"><input type="reset" class="bd-linkbutton-4 bd-button-39 bd-content-element" onclick="opensigninpopup();" value="Sign in"></li><li><a href="/register.html"><i class="fa fa-user-plus fa-fw"></i> I want to <span class="underline">signup</span></a></li>
+                  <ul class="dropdown-menu" style="border-radius:0px;"><li style="text-align:center;"><input type="reset" class="bd-linkbutton-4 bd-button-39 bd-content-element" onclick="opensigninpopup();" value="Sign in"></li><li><a href="https://www.earthclinic.com/register.html" target="_blank"><i class="fa fa-user-plus fa-fw"></i> I want to <span class="underline">signup</span></a></li>
                   </ul>
             </div>
          </div>
@@ -399,33 +459,35 @@ function sharePost(shareUrl, id, type)
       <div class="dropdown_3columns align_right">                  
           <div class="col_1">
               <ul class="greybox">
-                  <li><a href="http://www.earthclinic.com/guides.html" target="_blank"><img src="http://www.earthclinic.com/images/get-help-dd-nav.jpg" alt="Get Help"><br>Get Help</a></li>
-                  <li><a href="#" onclick="window.open('/feedbacks/index.php', '_blank', 'toolbar=no, scrollbars=yes, resizable=yes, top=20%, left=20%, width=655, height=800');"><img src="http://www.earthclinic.com/images/report-issue-dd-nav.jpg" alt="Report a Problem"><br>Report a Problem</a></li>
-                  <li><a href="http://www.earthclinic.com/contactus.html" target="_blank"><img src="http://www.earthclinic.com/images/contact-us-dd-nav.jpg" alt="Contact Us"><br>Contact Us</a></li>
-                  <li><a target="_blank" onclick="window.open('/feedbacks/index.php', '_blank', 'toolbar=no, scrollbars=yes, resizable=yes, top=20%, left=20%, width=655, height=800');"><img src="http://www.earthclinic.com/images/survey-dd-nav.jpg" alt="Survey"><br>Survey</a></li>
+                  <li><a href="http://www.earthclinic.com/guides.html" target="_blank"><img src="https://www.earthclinic.com/images/get-help-dd-nav.jpg" alt="Get Help"><br>Get Help</a></li>
+                  <li><a href="#" onclick="window.open('/feedbacks/index.php', '_blank', 'toolbar=no, scrollbars=yes, resizable=yes, top=20%, left=20%, width=655, height=800');"><img src="https://www.earthclinic.com/images/report-issue-dd-nav.jpg" alt="Report a Problem"><br>Report a Problem</a></li>
+                  <li><a href="http://www.earthclinic.com/contactus.html" target="_blank"><img src="https://www.earthclinic.com/images/contact-us-dd-nav.jpg" alt="Contact Us"><br>Contact Us</a></li>
+                  <li><a target="_blank" onclick="window.open('/feedbacks/index.php', '_blank', 'toolbar=no, scrollbars=yes, resizable=yes, top=20%, left=20%, width=655, height=800');"><img src="https://www.earthclinic.com/images/survey-dd-nav.jpg" alt="Survey"><br>Survey</a></li>
               </ul>   
           </div>
           <div class="col_1">
               <ul class="greybox">
-                  <li><a href="http://www.earthclinic.com/earth-clinic-books.html" target="_blank"><img src="http://www.earthclinic.com/images/books-dd-nav.jpg" alt="Books"><br>Books</a></li>
-                  <li><a target="_blank" href="http://earthclinic.us8.list-manage.com/subscribe?u=4ee430e801c7be0ca62527784&amp;id=c812d52448"><img src="http://www.earthclinic.com/images/newsletter-dd-nav.jpg" alt="Newsletter" height="35"><br>Newsletter</a></li>
-                  <li><a href="http://www.earthclinic.com/donations.html" target="_blank"><img src="http://www.earthclinic.com/images/goldenHeart.jpg" height="35" alt="Donate"><br>How to Support Us</a></li>
-                  <li><a target="_blank" href="http://answers.earthclinic.com/"><img src="http://answers.earthclinic.com/images/question-title-qmark.png"><br>Answers</a></li>
+                  <li><a href="http://www.earthclinic.com/earth-clinic-books.html" target="_blank"><img src="https://www.earthclinic.com/images/books-dd-nav.jpg" alt="Books"><br>Books</a></li>
+                  <li><a target="_blank" href="https://earthclinic.us8.list-manage.com/subscribe?u=4ee430e801c7be0ca62527784&amp;id=6c120baffb"><img src="https://www.earthclinic.com/images/newsletter-dd-nav.jpg" alt="Newsletter" height="35"><br>Newsletter</a></li>
+                  <li><a href="http://www.earthclinic.com/donations.html" target="_blank"><img src="https://www.earthclinic.com/images/goldenHeart.jpg" height="35" alt="Donate"><br>How to Support Us</a></li>
+                  <li><a target="_blank" href="http://answers.earthclinic.com/"><img src="https://answers.earthclinic.com/images/question-title-qmark.png"><br>Answers</a></li>
               </ul>   
           </div>          
           <div class="col_1">
               <ul class="greybox">
-                  <li><a target="_blank" href="https://www.pinterest.com/earthclinic/"><img src="http://www.earthclinic.com/images/pin-dd-nav.jpg" alt="Pinterest"><br>Pinterest</a></li>
-                  <li><a target="_blank" href="https://www.youtube.com/c/earthclinic"><img src="http://www.earthclinic.com/images/youtube-dd-nav.jpg" alt="Videos"><br>Videos</a></li>
-                  <li><a target="_blank" href="https://www.facebook.com/pages/Earth-Clinic/60803892726"><img src="http://www.earthclinic.com/images/facebook-dd-nav.jpg" alt="Facebook"><br>Facebook</a></li>
-                  <li><a href="https://twitter.com/Earth_Clinic" target="_blank"><img src="http://www.earthclinic.com/images/twitter-dd-nav.jpg" alt="Twitter"><br>Twitter</a></li>
+                  <li><a target="_blank" href="https://www.pinterest.com/earthclinic/"><img src="https://www.earthclinic.com/images/pin-dd-nav.jpg" alt="Pinterest"><br>Pinterest</a></li>
+                  <li><a target="_blank" href="https://www.youtube.com/c/earthclinic"><img src="https://www.earthclinic.com/images/youtube-dd-nav.jpg" alt="Videos"><br>Videos</a></li>
+                  <li><a target="_blank" href="https://www.facebook.com/pages/Earth-Clinic/60803892726"><img src="https://www.earthclinic.com/images/facebook-dd-nav.jpg" alt="Facebook"><br>Facebook</a></li>
+                  <li><a href="https://twitter.com/Earth_Clinic" target="_blank"><img src="https://www.earthclinic.com/images/twitter-dd-nav.jpg" alt="Twitter"><br>Twitter</a></li>
               </ul>   
           </div>                      
       </div>        
     </li>
 </ul>
+<!--
 <a href="#" class="increaseFont" onclick="return false;"><i class="fa fa-plus-circle" aria-hidden="true"></i></a>
 <a href="#" class="decreaseFont" onclick="return false;"><i class="fa fa-minus-circle" aria-hidden="true"></i></a>
+-->
 </div>
     </div>
 </div></div></div>
@@ -482,7 +544,11 @@ function sharePost(shareUrl, id, type)
     </div>
 </section>
 </header>
-<div class="bd-imagelink-17 bd-page-width  bd-imagescaling bd-imagescaling-1 bd-imagestyles    bd-imagescaling-img" style="background-image: url(&quot;/assets/images/87d1feb020af26bed3fbd127ef36af8d_NaturalHomeRemedies.jpg&quot;);"><img src="/assets/images/87d1feb020af26bed3fbd127ef36af8d_NaturalHomeRemedies.jpg"></div>
+
+<div class="bd-imagelink-17 bd-page-width  bd-imagescaling bd-imagescaling-1 bd-imagestyles  bd-imagescaling-img " style="background-image: url(&quot;/assets/images/earth-clinic-header.png&quot;);">
+	</div>
+
+
 <div class=" bd-stretchtobottom-2 bd-stretch-to-bottom" data-control-selector=".bd-content-12">
   <div class=" bd-content-12 bd-page-width   bd-margins">
     <div class=" bd-htmlcontent-9 bd-margins" data-page-id="page.34">
@@ -494,24 +560,24 @@ function sharePost(shareUrl, id, type)
               <div class="row
  bd-row-flex
  bd-row-align-top">
-                <div class=" bd-columnwrapper-82 has-sticky-left col-lg-2 col-md-3 col-sm-12">
+                 <div class=" bd-columnwrapper-82 has-sticky-left col-lg-2 col-md-3 col-sm-12 hidden-xs">
                   <div class="bd-layoutcolumn-82 bd-column">
                     <div class="bd-vertical-align-wrapper">
                       <div class=" bd-customhtml-37 bd-tagstyles bd-custom-bulletlist bd-no-margins">
                         <div class="bd-container-inner bd-content-element">
-                        				<h4 style="padding:0 20px 7px 0;border-bottom:#dddddd solid 1px;" id="toctitle">Natural Remedies</h4><ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;"><li>PAGES YOU MIGHT LIKE<ul>			<li><a href="/remedies/garlic.html">Garlic</a></li>
-						<li><a href="/cures/heart_palpitations.html">Heart Palpitations</a></li>
-						<li><a href="/remedies/sesame-seeds.html">Sesame Seeds</a></li>
-						<li><a href="/cures/ulcer.html">Ulcers</a></li>
-						<li><a href="/cures/food-poisoning-cure.html">Food Poisoning</a></li>
-						<li><a href="/cures/sinus_infection.html">Sinus Infection</a></li>
-						<li><a href="/cures/fungus.html">Toenail Fungus</a></li>
-						<li><a href="/cures/sinus-headache-relief-folk-medicine.html">Sinus Headache</a></li>
-						<li><a href="/cures/granuloma-annulare.html">Granuloma Annulare</a></li>
-						<li><a href="/supplements/msm.html">MSM</a></li>
+                        				<h4 style="padding:0 20px 7px 0;border-bottom:#dddddd solid 1px;" id="toctitle">Natural Remedies</h4><ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;"><li><strong>PAGES YOU MIGHT LIKE</strong><ul>			<li><a href="/cures/hayfever-allergic-rhinitis.html">Hayfever</a></li>
+						<li><a href="/cures/itchy-butt.html">Anal Itch</a></li>
+						<li><a href="/cures/bee_stings.html">Bee Stings</a></li>
+						<li><a href="/cures/allergies.html">Allergies</a></li>
+						<li><a href="/remedies/hydrogen_peroxide_inhalation.html">Hydrogen Peroxide Inhalation</a></li>
+						<li><a href="/remedies/epsom_salts.html">Epsom Salt</a></li>
+						<li><a href="/cures/nail-issues.html">Nail Issues</a></li>
+						<li><a href="/supplements/l-lysine.html">Lysine</a></li>
+						<li><a href="/cures/flu.html">Flu</a></li>
+						<li><a href="/cures/folliculitis.html">Folliculitis</a></li>
 			</ul><ul>			</ul></li></ul>
 			<ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;">
-    			<li>AILMENTS</li>
+    			<li><strong>AILMENTS</strong></li>
 			<ul id="cures">
 						<li id="licures" style=""><a href="/cures/natural-remedies-for-abdominal-adhesions.html">Abdominal Adhesions</a></li>
 					<li id="licures" style=""><a href="/cures/stomach-pain.html">Abdominal Pain</a></li>
@@ -1104,6 +1170,7 @@ function sharePost(shareUrl, id, type)
 					<li id="licures" style="display:none;"><a href="/cures/sore_throat.html">Sore Throat</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/spasmodic-torticollis.html">Spasmodic Torticollis</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/speech_impairment.html">Speech Impairment</a></li>
+					<li id="licures" style="display:none;"><a href="/cures/sphincter-of-oddi-dysfunction.html">Sphincter of Oddi Dysfunction</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/spider_bite.html">Spider Bites</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/spider_veins.html">Spider Veins</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/spinal_cord_injury.html">Spinal Cord Injury</a></li>
@@ -1133,6 +1200,7 @@ function sharePost(shareUrl, id, type)
 					<li id="licures" style="display:none;"><a href="/cures/sty.html">Sty</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/sugar-addiction.html">Sugar Addiction</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/sunburn.html">Sunburn</a></li>
+					<li id="licures" style="display:none;"><a href="/cures/natural-remedies-for-swelling.html">Swelling </a></li>
 					<li id="licures" style="display:none;"><a href="/cures/swimmers_ear.html">Swimmer's Ear</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/h1n1-swine-flu.html">Swine Flu</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/lymph_nodes.html">Swollen Lymph Nodes</a></li>
@@ -1168,6 +1236,8 @@ function sharePost(shareUrl, id, type)
 					<li id="licures" style="display:none;"><a href="/cures/ulcerative-colitis-holistic-treatment.html">Ulcerative Colitis</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/ulcer.html">Ulcers</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/weight-gain-supplements-best-foods.html">Underweight</a></li>
+					<li id="licures" style="display:none;"><a href="/cures/natural-remedies-for-upper-respiratory-infections.html">Upper Respiratory Infection</a></li>
+					<li id="licures" style="display:none;"><a href="/cures/what-should-my-urine-smell-like.html">Urine, Bad Smell</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/vaccinations.html">Vaccinations</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/vaginal-atrophy.html">Vaginal Atrophy</a></li>
 					<li id="licures" style="display:none;"><a href="/cures/vaginal_cysts.html">Vaginal Cysts</a></li>
@@ -1197,7 +1267,7 @@ function sharePost(shareUrl, id, type)
 					<li id="licures" style="display:none;"><a href="/cures/yeast_infection.html">Yeast Infections</a></li>
 					</ul></ul>
 			<ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;">
-    			<li>REMEDIES</li>
+    			<li><strong>REMEDIES</strong></li>
 			<ul id="remedies">
 						<li id="liremedies" style=""><a href="/remedies/charcoal.html">Activated Charcoal</a></li>
 					<li id="liremedies" style=""><a href="/remedies/acupressure.html">Acupressure</a></li>
@@ -1205,12 +1275,13 @@ function sharePost(shareUrl, id, type)
 					<li id="liremedies" style=""><a href="/remedies/apple-cider-vinegar-weight-loss-program.html">ACV for Weight Loss</a></li>
 					<li id="liremedies" style=""><a href="/remedies/apple_cider_vinegar_buy.html">ACV: Where to Buy</a></li>
 					<li id="liremedies" style=""><a href="/remedies/alfalfa-health-benefits.html">Alfalfa</a></li>
+					<li id="liremedies" style=""><a href="/remedies/alkalizing_formulas.html">Alkalizing Formulas</a></li>
 					<li id="liremedies" style=""><a href="/remedies/aloe_vera.html">Aloe Vera</a></li>
 					<li id="liremedies" style=""><a href="/remedies/antibiotic-resistance-natural-antibiotics.html">Antibiotic Resistance</a></li>
 					<li id="liremedies" style=""><a href="/remedies/natural-aphrodisiacs.html">Aphrodisiac Remedies</a></li>
 					<li id="liremedies" style=""><a href="/remedies/acvinegar.html">Apple Cider Vinegar</a></li>
-					<li id="liremedies" style=""><a href="/remedies/acv_recipes.html">Apple Cider Vinegar Recipes</a></li>
-		<li id="lmremedies"><a href="#" style=" font-weight:bold;" onclick="jQuery('li#liremedies').show(); jQuery('li#lmremedies').hide(); return false;">Load More...</a></li>			<li id="liremedies" style="display:none;"><a href="/remedies/drink-apple-cider-vinegar-recipe.html">Apple Cider Vinegar Tonic</a></li>
+		<li id="lmremedies"><a href="#" style=" font-weight:bold;" onclick="jQuery('li#liremedies').show(); jQuery('li#lmremedies').hide(); return false;">Load More...</a></li>			<li id="liremedies" style="display:none;"><a href="/remedies/acv_recipes.html">Apple Cider Vinegar Recipes</a></li>
+					<li id="liremedies" style="display:none;"><a href="/remedies/drink-apple-cider-vinegar-recipe.html">Apple Cider Vinegar Tonic</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/how_to_make_apple_cider_vinegar.html">Apple Cider Vinegar: Homemade</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/apples.html">Apples</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/flowers.html">Bach Flower Remedies</a></li>
@@ -1227,12 +1298,13 @@ function sharePost(shareUrl, id, type)
 					<li id="liremedies" style="display:none;"><a href="/remedies/bloodroot.html">Bloodroot</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/blue_and_sunlight_therapy.html">Blue Glass Sunlight Therapy</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/body-mind-spirit.html">Body, Mind and Spirit</a></li>
-					<li id="liremedies" style="display:none;"><a href="/remedies/borax.html">Borax Remedies</a></li>
+					<li id="liremedies" style="display:none;"><a href="/remedies/borax.html">Borax</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/boswellia-health-benefits.html">Boswellia</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/brain-foods.html">Brain Foods</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/buckwheat.html">Buckwheat</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/budwig-diet.html">Budwig Diet</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/cabbage.html">Cabbage</a></li>
+					<li id="liremedies" style="display:none;"><a href="/remedies/cabbage-wrap-for-swelling-pain-infection.html">Cabbage Wrap</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/superfood-cacao.html">Cacao</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/castor_oil.html">Castor Oil</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/cayenne.html">Cayenne Pepper</a></li>
@@ -1288,6 +1360,7 @@ function sharePost(shareUrl, id, type)
 					<li id="liremedies" style="display:none;"><a href="/remedies/health-video-reviews.html">Health Video Reviews</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/diets.html">Healthy Diet Programs</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/healthy-recipes.html">Healthy Recipes</a></li>
+					<li id="liremedies" style="display:none;"><a href="/remedies/smoothie-of-the-day.html">Healthy Smoothies</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/homeopathy.html">Homeopathic Remedies</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/honey.html">Honey</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/honeycomb.html">Honeycomb</a></li>
@@ -1369,7 +1442,6 @@ function sharePost(shareUrl, id, type)
 					<li id="liremedies" style="display:none;"><a href="/remedies/survival_remedies.html">Survival Remedies</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/swedish-bitters.html">Swedish Bitters</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/tea_tree_oil.html">Tea Tree Oil</a></li>
-					<li id="liremedies" style="display:none;"><a href="/remedies/alkalizing_formulas.html">Ted's Alkalizing Formulas</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/barefoot.html">The Barefoot Remedy</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/the-best-list.html">The Best List</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/tomatoes.html">Tomato</a></li>
@@ -1381,6 +1453,7 @@ function sharePost(shareUrl, id, type)
 					<li id="liremedies" style="display:none;"><a href="/remedies/umeboshi.html">Umeboshi</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/urine.html">Urine Therapy</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/urine_therapy.html">Urine Therapy</a></li>
+					<li id="liremedies" style="display:none;"><a href="/remedies/uv-light-therapy.html">UV Light Therapy</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/vinagre-de-sidra-de-manzana.html">Vinagre de Sidra de Manzana</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/water.html">Water</a></li>
 					<li id="liremedies" style="display:none;"><a href="/remedies/gluten-free.html">Wheat/Gluten-Free Diets</a></li>
@@ -1390,7 +1463,7 @@ function sharePost(shareUrl, id, type)
 					<li id="liremedies" style="display:none;"><a href="/remedies/zapper.html">Zapper</a></li>
 					</ul></ul>
 			<ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;">
-    			<li>SUPPLEMENTS</li>
+    			<li><strong>SUPPLEMENTS</strong></li>
 			<ul id="supplements">
 						<li id="lisupplements" style=""><a href="/supplements/acidophilus.html">Acidophilus</a></li>
 					<li id="lisupplements" style=""><a href="/supplements/ala.html">ALA</a></li>
@@ -1430,6 +1503,7 @@ function sharePost(shareUrl, id, type)
 					<li id="lisupplements" style="display:none;"><a href="/supplements/melatonin.html">Melatonin</a></li>
 					<li id="lisupplements" style="display:none;"><a href="/supplements/mms.html">MMS</a></li>
 					<li id="lisupplements" style="display:none;"><a href="/supplements/msm.html">MSM</a></li>
+					<li id="lisupplements" style="display:none;"><a href="/supplements/msm-side-effects.html">MSM Side Effects</a></li>
 					<li id="lisupplements" style="display:none;"><a href="/supplements/niacin.html">Niacin (B3)</a></li>
 					<li id="lisupplements" style="display:none;"><a href="/supplements/niacinamide-for-alzheimers.html">Niacinamide for Alzheimer's</a></li>
 					<li id="lisupplements" style="display:none;"><a href="/supplements/noni.html">Noni Juice</a></li>
@@ -1445,6 +1519,7 @@ function sharePost(shareUrl, id, type)
 					<li id="lisupplements" style="display:none;"><a href="/supplements/serrapeptase-reviews.html">Serrapeptase</a></li>
 					<li id="lisupplements" style="display:none;"><a href="/supplements/spirulina.html">Spirulina</a></li>
 					<li id="lisupplements" style="display:none;"><a href="/supplements/supplements.html">Supplements</a></li>
+					<li id="lisupplements" style="display:none;"><a href="/supplements/trace-minerals.html">Trace Minerals</a></li>
 					<li id="lisupplements" style="display:none;"><a href="/supplements/vitamin-a.html">Vitamin A</a></li>
 					<li id="lisupplements" style="display:none;"><a href="/supplements/b-six.html">Vitamin B-6</a></li>
 					<li id="lisupplements" style="display:none;"><a href="/supplements/vitamin_c.html">Vitamin C</a></li>
@@ -1453,7 +1528,7 @@ function sharePost(shareUrl, id, type)
 					<li id="lisupplements" style="display:none;"><a href="/supplements/zinc.html">Zinc</a></li>
 					</ul></ul>
 			<ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;">
-    			<li>CHILDREN</li>
+    			<li><strong>CHILDREN</strong></li>
 			<ul id="children">
 						<li id="lichildren" style=""><a href="/children/acid-reflux-remedies.html">Acid Reflux in Children</a></li>
 					<li id="lichildren" style=""><a href="/children/asthma-remedies.html">Asthma</a></li>
@@ -1483,7 +1558,7 @@ function sharePost(shareUrl, id, type)
 					<li id="lichildren" style="display:none;"><a href="/children/underweight_children.html">Underweight Children</a></li>
 					</ul></ul>
 			<ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;">
-    			<li>HERBS</li>
+    			<li><strong>HERBS</strong></li>
 			<ul id="herbs">
 						<li id="liherbs" style=""><a href="/herbs/anise_seed.html">Anise</a></li>
 					<li id="liherbs" style=""><a href="/herbs/artemisinin.html">Artemisinin</a></li>
@@ -1510,6 +1585,7 @@ function sharePost(shareUrl, id, type)
 					<li id="liherbs" style="display:none;"><a href="/herbs/milk-thistle.html">Milk Thistle</a></li>
 					<li id="liherbs" style="display:none;"><a href="/herbs/mint.html">Mint</a></li>
 					<li id="liherbs" style="display:none;"><a href="/herbs/motherwort.html">Motherwort</a></li>
+					<li id="liherbs" style="display:none;"><a href="/herbs/mullein.html">Mullein</a></li>
 					<li id="liherbs" style="display:none;"><a href="/herbs/black-seed-oil.html">Nigella Sativa</a></li>
 					<li id="liherbs" style="display:none;"><a href="/herbs/oregano.html">Oregano</a></li>
 					<li id="liherbs" style="display:none;"><a href="/herbs/parsley.html">Parsley</a></li>
@@ -1524,7 +1600,7 @@ function sharePost(shareUrl, id, type)
 					<li id="liherbs" style="display:none;"><a href="/herbs/yarrow.html">Yarrow</a></li>
 					</ul></ul>
 			<ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;">
-    			<li>BEAUTY</li>
+    			<li><strong>BEAUTY</strong></li>
 			<ul id="beauty">
 						<li id="libeauty" style=""><a href="/beauty/acupressure-for-beautiful-skin.html">Acupressure for the Face</a></li>
 					<li id="libeauty" style=""><a href="/beauty/borage-oil-natures-miracle-skin-cure.html">Borage Oil</a></li>
@@ -1535,7 +1611,7 @@ function sharePost(shareUrl, id, type)
 					<li id="libeauty" style=""><a href="/beauty/oily-skin-remedies.html">Oily Skin Remedies</a></li>
 					</ul></ul>
 			<ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;">
-    			<li>WORLD</li>
+    			<li><strong>WORLD</strong></li>
 			<ul id="world">
 						<li id="liworld" style=""><a href="/world/india-folk-remedies.html">Folk Remedies from India</a></li>
 					<li id="liworld" style=""><a href="/world/czech-republic-traditional-home-remedies.html">Folk Remedies, Czech Republic</a></li>
@@ -1549,7 +1625,7 @@ function sharePost(shareUrl, id, type)
 					<li id="liworld" style=""><a href="/world/britain-ireland-traditional-folk-medicine.html">UK, Ireland Remedies</a></li>
 					</ul></ul>
 			<ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;">
-    			<li>GREEN</li>
+    			<li><strong>GREEN</strong></li>
 			<ul id="green">
 						<li id="ligreen" style=""><a href="/green/how-to-get-rid-of-ants-naturally.html">Ant Deterrent</a></li>
 					<li id="ligreen" style=""><a href="/green/natural-foaming-hand-soap.html">Foaming Hand Soap Recipes</a></li>
@@ -1557,24 +1633,22 @@ function sharePost(shareUrl, id, type)
 					<li id="ligreen" style=""><a href="/green/roach-and-pest-infestations.html">Roach and Pest Infestations</a></li>
 		</ul></ul>
 <ul id="left-menu-ul-border" style="padding:0;margin:0;margin-bottom: 10px;">
-<li>TED</li>
+<li><strong>TED</strong></li>
 <ul id="ted">
 <li id="lited" style=""><a href="http://ted.earthclinic.com/ailments.html">Ted's Remedies</a></li>
 </ul></ul>
 
 <hr id="menu-link-left-mark">
 <span class="follow-scroll-left" style="position:relative;">
-<a class="left-nav-push-btn" data-toggle="offcanvas" data-recalc="false" data-target=".navmenu" data-canvas=".canvas" href="#" onclick="return false;"><i class="fa fa-bars" aria-hidden="true"></i> Menu</a>
-</span>
-                        </div>
+<!--<a class="left-nav-push-btn" data-toggle="offcanvas" data-recalc="false" data-target=".navmenu" data-canvas=".canvas" href="#" onclick="return false;"><i class="fa fa-bars" aria-hidden="true"></i> Menu</a>-->
+</span><br>
+<br>
+                                    </div>
                       </div>
                     </div>
                   </div>
                 </div>
-                <div class=" bd-columnwrapper-81
- col-lg-7
- col-md-6
- col-sm-12">
+                  <div class=" bd-columnwrapper-81 col-lg-7 col-md-6 col-sm-12">
                   <div class="bd-layoutcolumn-81 bd-column">
                     <div class="bd-vertical-align-wrapper">
                                                                                              <div class=" bd-customhtml-21 bd-tagstyles">
@@ -1637,7 +1711,7 @@ We collect personally identifiable information, such as your first name, city, s
 <br>
 <strong>8. Privacy of Children</strong></p>
 
-<p>None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the <a href="http://www.ftc.gov/ogc/coppa1.htm" target="_blank">Children's Online Privacy Protection Act</a> and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.</p>
+<p>None of the sites within our network is directed to children under the age of 13. We operate our network of sites in compliance with the <a href="https://www.ftc.gov/ogc/coppa1.htm" target="_blank">Children's Online Privacy Protection Act</a> and do not permit registration by, and will not knowingly collect or use personally identifiable information from, anyone under 13 years of age. This requirement is clearly posted during the registration process.</p>
 
 <p><strong>9. Security</strong></p>
 
@@ -1655,11 +1729,16 @@ Email: <a href="/contactus.html">Contact Us Form</a></p>
 <p>We read every message submitted and try to reply promptly to every one.                          </p></div>
                         </div>
                       </div>
-                                            <div class=" bd-customhtml-9 bd-tagstyles">
+                      <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle" style="display:block" data-ad-format="autorelaxed" data-ad-client="ca-pub-2476760853251960" data-ad-slot="7242727605"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+                      <div class=" bd-customhtml-9 bd-tagstyles">
                         <div class="bd-container-inner bd-content-element">
-                                                    
-                          <hr>
-
+                          <!--
+                          -->
+<hr>
 
 
                           
@@ -1808,13 +1887,34 @@ Email: <a href="/contactus.html">Contact Us Form</a></p>
 
 
 
-
                 </div>
               </div>
             </div>
-            <div class=" bd-columnwrapper-80 has-sticky-right col-lg-3 col-md-3 col-sm-12">
+              <div class=" bd-columnwrapper-80 has-sticky-right col-lg-2 col-md-3 col-sm-12 hidden-xs hidden-xs">
               <div class="bd-layoutcolumn-80 bd-column">
-                <div class="bd-vertical-align-wrapper"><div class="follow-scroll" style="position:relative;"><center><br><!-- 2 nd Ad-->
+                <div class="bd-vertical-align-wrapper"><div class="follow-scroll" style="position:relative;margin-top: 65px;"><center><div class="follow-scroll-toc" style="display:none; margin-top:8px;">
+<div id="vmenuwrapper" class="stoc" style="width:336px; border:thin #CCC solid; max-width:100%;">
+        <div class="art-vmenublockheader">
+            <h3 class="t" style="text-align:center;"><br>Natural Cures</h3>
+        </div>
+<div class="art-vmenublockcontent">
+<ul class="art-vmenu" style="overflow: auto; min-height:40px; max-height:205px; -webkit-overflow-scrolling: touch;">
+
+<li class="toc-li-highlight-bg"><a href="/privacy_policy.html#intro" onclick="_gaq.push(['_trackEvent', 'TOC', 'OVERVIEW', '/privacy_policy.html#intro']);" class="intro">
+  OVERVIEW  </a></li>
+		</ul>
+
+    <script>
+	$('#fullToc2').toggle('slow');if($('#viewallremediestoc').hasClass('expanded')){ $('#viewallremediestoc').addClass('collapsed').removeClass('expanded');}else{$('#viewallremediestoc').addClass('expanded').removeClass('collapsed');}
+	$('#tocscroll').animate({scrollTop: 262}, 1000);
+	</script>
+
+
+</div>       
+</div>
+</div>
+                
+<br><!-- 2 nd Ad-->
 <!-- <div id="slidedownad" style="display:none; padding:0; margin:0;">-->
 <div style="padding:0; margin:0;" id="adslot1res">
 <script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
@@ -1830,28 +1930,8 @@ Email: <a href="/contactus.html">Contact Us Form</a></p>
 (adsbygoogle = window.adsbygoogle || []).push({});
 </script>
 </div>
-<br><!-- 1 st Ad-->
-<div id="topleftad2" class="adslot_1" style="height:auto !important">
-<script>
-var randomnumber=Math.floor(Math.random()*5)
-if(randomnumber == 0){
-document.write('<a href="http://www.earthclinic.com/earth-clinic-books.html"><img alt="Earth Clinic Publications" src="http://www.earthclinic.com/images/4books-300x250.jpg" width="336"></a>');
-}
-if(randomnumber == 1){
-document.write('<a href="http://www.earthclinic.com/candida-killing-so-sweetly-bill-thompson.html"><img src="http://www.earthclinic.com/images/300X250-candida-2014.png" alt="Candida: Killing So Sweetly by Bill Thompson" width="336" /></a>');
-}
-if(randomnumber == 2){
-document.write('<a href="http://www.earthclinic.com/earth-clinic-books.html" rel="nofollow"><img src="http://www.earthclinic.com/images/ec-books2014-300x250.jpg" alt="Books" width="336" /></a>');
-}
-if(randomnumber == 3){
-document.write('<a href="http://www.earthclinic.com/natures-best-remedies-by-earth-clinic.html"><img alt="Nature\'s Best Remediess" src="http://www.earthclinic.com/images/ec-remedies-banner-336x280.jpg" width="336"></a>');
-}
-if(randomnumber == 4){
-document.write('<a href="http://www.earthclinic.com/apple-cider-vinegar-a-modern-folk-remedy-earth-clinic.html" rel="nofollow"><img src="http://www.earthclinic.com/images/ec-acv-banner-336x280.jpg" alt="Apple Cider Vinegar: A Modern Folk Remedy" width="336" /></a>');
-}
-</script><a href="http://www.earthclinic.com/apple-cider-vinegar-a-modern-folk-remedy-earth-clinic.html" rel="nofollow" target="_blank"><img src="http://www.earthclinic.com/images/ec-acv-banner-336x280.jpg" alt="Apple Cider Vinegar: A Modern Folk Remedy" width="336"></a>
-</div>
-<center></center></center></div>
+</center>
+				                </div>
               </div>
             </div>
           </div>
@@ -1920,117 +2000,116 @@ $(this).attr('id', 'votedheartbutton');
           <input name="pass" id="passpp" type="password" value="" class="textbox" style="max-width:100%; width:100%;" placeholder="Password"><br>
 
           <input name="sub1" id="submit" type="button" value="Sign In" onclick="goin($('#emailpp' ).val(),$('#passpp' ).val());">
-          <input type="hidden" name="reff" value="http://www.earthclinic.com value=" http:="" www.earthclinic.com="" privacy_policy.html""="">
+          <input type="hidden" name="reff" value="https://www.earthclinic.com value=" https:="" www.earthclinic.com="" privacy_policy.html""="">
 </form>
 </div>
 <div id="heartdialog" title="I love this post!" style="width:auto !important; display:none;">
 </div>
 <div id="followdialog" title="Sign In" style="width:auto !important; display:none;">
     <h3 id="followtitle"></h3>
-    <span id="followcontent"><img src="http://www.earthclinic.com/images/preloader.gif"></span>
+    <span id="followcontent"><img src="//www.earthclinic.com/images/preloader.gif"></span>
 </div>
 
+<style>
+.bd-textblock-3 {margin-top: 3px;}
+.bd-textblock-3 a{ color: #8b8b8b;}
+.bd-textblock-3 a:hover{ color: #333;}
+#disclaimer a{color: #8b8b8b; text-decoration:underline;}
+#disclaimer a:hover{color: #333; text-decoration:underline;}
+.bd-footerarea-1 {
+    background-color: #ececec !important;
+}
+</style>
 <footer class=" bd-footerarea-1 bd-margins">
-<section class=" bd-section-7 bd-page-width bd-tagstyles " id="section7" data-section-title="2 Columns">
+<section class=" bd-section-7 bd-page-width bd-tagstyles " id="section7" data-section-title="1 Columns">
     <div class="bd-container-inner bd-margins clearfix">
         <div class=" bd-layoutcontainer-11 bd-page-width  bd-columns bd-no-margins">
     <div class="bd-container-inner">
         <div class="container-fluid">
             <div class="row ">
-                <div class=" bd-columnwrapper-27 col-lg-9 col-sm-6 col-xs-12">
-    <div class="bd-layoutcolumn-27 bd-column"><div class="bd-vertical-align-wrapper"><div class=" bd-customhtml-18 bd-tagstyles">
-    <div class="bd-container-inner bd-content-element">
-        <p><a href="http://www.earthclinic.com/" title="Earth Clinic Home" class="footerlinktopright" target="_blank">HOME</a> | <a href="http://www.earthclinic.com/children.html" class="footerlinktopright" target="_blank">CHILDREN</a> | <a href="http://www.earthclinic.com/remedies-all-natural.html" title="Remedies" class="footerlinktopright" target="_blank">REMEDIES</a> | <a href="http://www.earthclinic.com/ailments.html" title="Ailments" class="footerlinktopright" target="_blank">AILMENTS</a> | <a href="http://www.earthclinic.com/pets.html" title="Pets" class="footerlinktopright" target="_blank">PETS</a> | <a href="http://www.earthclinic.com/latest_posts.html" title="Latest Posts" class="footerlinktopright" target="_blank">RECENT POSTS</a> | <a href="http://www.earthclinic.com/earth-clinic-books.html" class="footerlinktopright" target="_blank">OUR BOOKS</a> | <a href="http://www.earthclinic.com/donations.html" class="footerlinktopright" target="_blank">DONATE</a> | <a href="http://www.earthclinic.com/contactus.html" class="footerlinktopright" target="_blank">CONTACT US</a> | <a href="http://www.earthclinic.com/#" onclick="window.open('/feedbacks/index.php', '_blank', 'toolbar=no, scrollbars=yes, resizable=yes, top=20%, left=20%, width=655, height=800');" class="footerlinktopright" target="_blank">REPORT A PROBLEM</a><br></p>
-    </div>
+                <div align="center" class=" bd-columnwrapper-27 col-lg-12 col-sm-12 col-xs-12">
+    <div class="bd-layoutcolumn-27 bd-column"><div class="bd-vertical-align-wrapper">
+<div class=" bd-socialicons-3">
+<p>
+       <a href="https://www.facebook.com/pages/Earth-Clinic/60803892726" class="ui-link" target="_blank"><img src="/images/facebook.png" alt="facebook"></a> &nbsp;<a href="https://twitter.com/Earth_Clinic" class="ui-link" target="_blank"><img src="/images/twitter.png" alt="twitter"></a> &nbsp;<a href="https://www.pinterest.com/earthclinic/" class="ui-link" target="_blank"><img src="/images/pin.png"></a> &nbsp;<a href="https://plus.google.com/+earthclinic" class="ui-link" target="_blank"><img src="/images/google.png" alt="google"></a> &nbsp;<a href="https://www.instagram.com/earthclinicllc/" class="ui-link" target="_blank"><img src="/images/instagram-s.png" alt="instagram"></a>
+</p>    
 </div>
-		<div class=" bd-customhtml-16 bd-tagstyles">
-    <div class="bd-container-inner bd-content-element">
-        <p><a href="http://www.earthclinic.com/tos.html" title="Terms of Service" target="_blank" class="footerlinkmidright">TERMS OF SERVICE</a><span style="color: rgb(49, 49, 49); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 27px;">&nbsp;|&nbsp;</span><a href="http://www.earthclinic.com/privacy_policy.html" title="Privacy Policy" class="footerlinkmidright" target="_blank">PRIVACY POLICY</a><span style="color: rgb(49, 49, 49); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 12px; line-height: 27px;">&nbsp;|&nbsp;</span><a href="http://www.earthclinic.com/affiliate-disclosure.html" title="Affiliate Disclosure" class="footerlinkmidright" target="_blank">AFFILIATE DISCLOSURE</a><br></p>
-    </div>
-</div>
-		<div class=" bd-customhtml-3 bd-tagstyles">
-    <div class="bd-container-inner bd-content-element">
-        <div id="disclaimer">DISCLAIMER: Our readers offer information and opinions on Earth Clinic, not as a substitute for professional medical prevention, diagnosis, or treatment. Please consult with your physician, pharmacist, or health care provider before taking any home remedies or supplements or following any treatment suggested by anyone on this site. Only your health care provider, personal physician, or pharmacist can provide you with advice on what is safe and effective for your unique needs or diagnose your particular medical history.</div>
-    </div>
 </div></div></div>
 </div>
-		<div class=" bd-columnwrapper-29 col-lg-3 col-sm-6 col-xs-12">
-    <div class="bd-layoutcolumn-29 bd-column"><div class="bd-vertical-align-wrapper"><div class=" bd-customhtml-4 hidden-xs bd-tagstyles">
+            </div>
+		<div class=" container-fluid">
+    <div class="bd-layoutcolumn-29 bd-column"><div class="bd-vertical-align-wrapper">
+		<div class=" bd-customhtml-3 bd-tagstyles">
     <div class="bd-container-inner bd-content-element">
-        <form action="http://eepurl.com/SJgYf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="" style="float:right;">
-          <div class="input-group"><input class="form-control" type="email" value="" name="EMAIL" id="mce-EMAIL" required="" placeholder="Subscribe to our mailing list"> <span class="input-group-btn"><button class="btn btn-default btn-group-sm" type="submit" value="submit" name="subscribe" id="mc-embedded-subscribe" style="padding: 7px;">Go</button></span></div>
-  
-  
-  
-  
-  
-    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_4ee430e801c7be0ca62527784_c812d52448" value=""></div>
-    
-</form>
-    </div>
-</div>
-		<div class=" bd-socialicons-3">
-        <a target="_blank" data-social-url="" data-path-to-root="." class=" bd-socialicon-27 bd-socialicon" href="//www.facebook.com/sharer.php?u=">
-    <span class="bd-icon"></span><span></span>
-</a>
-    
-        <a target="_blank" data-social-url="" data-path-to-root="." class=" bd-socialicon-28 bd-socialicon" href="//twitter.com/share?url=&amp;text=">
-    <span class="bd-icon"></span><span></span>
-</a>
-        <a target="_blank" data-social-url="" data-path-to-root="." class=" bd-socialicon-29 bd-socialicon" href="//plus.google.com/share?url=">
-    <span class="bd-icon"></span><span></span>
-</a>
-    
-        <a target="_blank" data-social-url="" data-path-to-root="." class=" bd-socialicon-30 bd-socialicon" href="//pinterest.com/pin/create/button/?url=&amp;media=&amp;description=">
-    <span class="bd-icon"></span><span></span>
-</a>
-    
-    
-    
-    
-    
-    
-</div>
-	
-		<p class=" bd-textblock-3 bd-content-element">
-    <a href="http://www.earthclinic.com/about.html" class="fotrsmllink1" target="_blank">ABOUT US</a>&nbsp;<a href="http://www.earthclinic.com/contactus.html" title="Contact Us" target="_blank" class="fotrsmllink">CONTACT US</a>&nbsp;<a href="http://www.earthclinic.com/search.html" title="Search" class="fotrsmllink" target="_blank">SEARCH</a>&nbsp;<a href="http://www.earthclinic.com/contact-us-guidelines.html" title="Search" style="outline: 0px; color: rgb(223, 223, 223); font-size: 11px; text-transform: uppercase; font-family: &quot;Droid Sans&quot;, Arial, Helvetica, sans-serif; line-height: 27px; display: inline-block; padding: 0px 5px;" target="_blank">HELP</a><br style="color: rgb(153, 153, 153); font-family: Roboto, Arial, Helvetica, sans-serif; font-size: 11px; line-height: 27px;"><a href="http://www.earthclinic.com/copyright.html" style="outline: 0px; color: rgb(223, 223, 223); font-size: 11px; text-transform: uppercase; font-family: &quot;Droid Sans&quot;, Arial, Helvetica, sans-serif; line-height: 27px; display: inline-block; padding: 0px 5px;" target="_blank">COPYRIGHT © 2016</a>
-</p></div></div>
+        <div id="disclaimer" align="center">
+          <p>The information on this website has not been evaluated by the FDA and is not intended to diagnose, treat, prevent, or cure any disease. </p>
+          <p>By accessing or using this website, you agree to abide by the&nbsp;<a href="https://www.earthclinic.com/medical-disclaimer.html" target="_blank">Medical&nbsp;Disclaimer</a>,&nbsp;<a href="https://www.earthclinic.com/tos.html" target="_blank">Terms of Service</a>, <a href="https://www.earthclinic.com/privacy_policy.html" target="_blank">Privacy Policy</a>,&nbsp;and&nbsp;<a href="https://www.earthclinic.com/affiliate-disclosure.html" target="_blank">Affiliate Disclosure</a>.<br>
+Content may not be reproduced in any form.</p>
+        </div>
+        <br>
+		</div>
+		</div>
+		<p align="center" class=" bd-textblock-3 bd-content-element"><a href="http://www.earthclinic.com/copyright.html" style="outline: 0px; font-size: 11px; text-transform: uppercase; font-family: &quot;Droid Sans&quot;, Arial, Helvetica, sans-serif; line-height: 27px; display: inline-block; padding: 0px 5px;" target="_blank">COPYRIGHT © 2017 EARTH CLINIC. ALL RIGHT RESERVED.</a></p></div></div>
 </div>
             </div>
         </div>
     </div>
-</div>
-    </div>
-</section>
-</footer>
+</section></footer></div>
+    
+
+
 <!--<div data-smooth-scroll data-animation-time="250" class=" bd-smoothscroll-3"><a href="#" class=" bd-backtotop-1 hidden-md hidden-sm hidden-xs hidden-lg "><span class="bd-icon-67 bd-icon "></span></a></div>-->
 		<div data-smooth-scroll="" data-animation-time="250" class=" bd-smoothscroll-3"><a href="#" class=" bd-backtotop-1 hidden-md hidden-sm hidden-xs hidden-lg " style="display: none;">
     <span class="bd-icon-67 bd-icon "></span>
 </a></div>
 	
-		<div data-smooth-scroll="" data-animation-time="250" class=" bd-smoothscroll-6"><a href="#" class=" bd-backtotop-11 hidden-xs " style="display: none;">
+		<!-- BACK TO TOP <div data-smooth-scroll data-animation-time="250" class=" bd-smoothscroll-6"><a href="#" class=" bd-backtotop-11 hidden-xs ">
     <span class="bd-icon-44 bd-icon "></span>
-</a></div>
+</a></div> -->
 
 
-</div><!-- close canvas -->
+<!-- close canvas -->
 <style>
 .bd-imagescaling-1.bd-imagescaling-img, .bd-imagescaling-1 .bd-imagescaling-img {
-    background-position: top center !important;
+    background-position: canter center !important;
 }
-.fotrsmllink{outline: 0px; color: rgb(223, 223, 223); font-size: 11px; text-transform: uppercase; font-family: &quot;Droid Sans&quot;, Arial, Helvetica, sans-serif; line-height: 27px; display: inline-block; padding: 0px 5px; border-right-width: 1px; border-right-style: solid; border-right-color: rgb(102, 102, 102);}
+.fotrsmllink{outline: 0px; color: #8b8b8b; font-size: 11px; text-transform: uppercase; font-family: &quot;Droid Sans&quot;, Arial, Helvetica, sans-serif; line-height: 27px; display: inline-block; padding: 0px 5px; border-right-width: 1px; border-right-style: solid; border-right-color: rgb(102, 102, 102);}
 .fotrsmllink1{outline: 0px; color: rgb(223, 223, 223); font-size: 11px; text-transform: uppercase; font-family: &quot;Droid Sans&quot;, Arial, Helvetica, sans-serif; line-height: 27px; display: inline-block; padding: 0px 10px 0px 0px; border-right-width: 1px; border-right-style: solid; border-right-color: rgb(102, 102, 102);}
 </style>
 <!-- close canvas -->
 <script src="https://cdn.datatables.net/1.10.12/js/jquery.dataTables.min.js"></script>
 <script src="https://cdn.datatables.net/1.10.12/js/dataTables.bootstrap.min.js"></script>
-     <div class="navmenu navmenu-default navmenu-fixed-left" off-canvas="left-nav-push left push" style="margin-left: -255px;">
+<style>
+.navmenu-nav>li>a {
+    padding: 0px !important;
+	line-height: 28px !important;
+	display:inline;
+	font-weight: 700;
+	font-size: 1em;
+    font-family: "Roboto";
+}
+[off-canvas] {background-color:#2a2a2a;}
+[off-canvas*=left] {
+    width: 415px !important;
+	max-width:100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+}
+.navmenu hr{
+	border: 0;
+    height: 0;
+    border-top: 1px solid rgba(0, 0, 0, 0.1);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.3);
+	margin: 15px;}
+
+</style>
+     <div class="navmenu navmenu-default navmenu-fixed-left" off-canvas="left-nav-push left push" style="margin-left: -415px;">
               <a class="btn btn-outline-secondary left-nav-push-btn" data-toggle="offcanvas" data-recalc="false" data-target=".navmenu" data-canvas=".canvas" href="#" onclick="return false;"><i style="color:#FFF;" class="fa fa-times" aria-hidden="true"></i></a>
-      <!--
+      
        <ul class="nav navmenu-nav">
         <li>
-      <form action="http://www.earthclinic.com/search.php" id="cse-search-box" class=" bd-search-4 form-inline" name="ecsearchwgm">
+      <form action="https://www.earthclinic.com/search.php" id="cse-search-box" class=" bd-search-4 form-inline" name="ecsearchwgm">
 					<input type="hidden" name="cx" value="partner-pub-2476760853251960:e2s0aw4vhqg">
 					<input type="hidden" name="cof" value="FORID:10">
 					<input type="hidden" name="ie" value="ISO-8859-1">
@@ -2044,8 +2123,12 @@ $(this).attr('id', 'votedheartbutton');
         </div>
 	</form>
     </li></ul>
-    -->
-    
+    <hr>
+    <ul class="nav navmenu-nav"><li>
+        <a href="#" style="font-size:12px;" onclick="opensigninpopup(); return false;">Sign in</a> | <a href="/register.html" style="font-size:12px;">Sign Up</a>
+            </li></ul>
+     <hr>
+   
     			<style>
 #TocOC li a {
     display: block; width:100%;margin-left:15px; padding: 5px 0;
@@ -2071,67 +2154,47 @@ ul#fullTocOC{list-style-type: none;margin: 0;padding: 0;}
 
 
 
-<hr>        <ul class="nav navmenu-nav"><li>PAGES YOU MIGHT LIKE:</li>			<li><a data-ajax="false" class="ui-link" href="/remedies/garlic.html">Garlic</a></li>
-						<li><a data-ajax="false" class="ui-link" href="/cures/heart_palpitations.html">Heart Palpitations</a></li>
-						<li><a data-ajax="false" class="ui-link" href="/remedies/sesame-seeds.html">Sesame Seeds</a></li>
-						<li><a data-ajax="false" class="ui-link" href="/cures/ulcer.html">Ulcers</a></li>
-						<li><a data-ajax="false" class="ui-link" href="/cures/food-poisoning-cure.html">Food Poisoning</a></li>
-						<li><a data-ajax="false" class="ui-link" href="/cures/sinus_infection.html">Sinus Infection</a></li>
-						<li><a data-ajax="false" class="ui-link" href="/cures/fungus.html">Toenail Fungus</a></li>
-						<li><a data-ajax="false" class="ui-link" href="/cures/sinus-headache-relief-folk-medicine.html">Sinus Headache</a></li>
-						<li><a data-ajax="false" class="ui-link" href="/cures/granuloma-annulare.html">Granuloma Annulare</a></li>
-						<li><a data-ajax="false" class="ui-link" href="/supplements/msm.html">MSM</a></li>
-			</ul><hr>      <ul class="nav navmenu-nav">
+<hr>              <ul class="nav navmenu-nav">
         <li><a href="/ailments.html" data-ajax="false" class="ui-link">Ailments</a></li>
         <li><a href="/latest_posts.html" data-ajax="false" class="ui-link">Recent Posts</a></li>
         <li><a href="/contactus.html" data-ajax="false" class="ui-link">Submit a Post</a></li>
       </ul>
       <hr>
       <ul class="nav navmenu-nav">
-        <li><a href="/remedies-all-natural.html" data-ajax="false" class="ui-link">Home Remedies</a></li>
-        <li><a href="/children.html" data-ajax="false" class="ui-link">Children's Remedies</a></li>
-        <li><a href="/beauty.html" data-ajax="false" class="ui-link">Beauty Remedies</a></li>
-        <li><a href="http://ted.earthclinic.com" data-ajax="false" class="ui-link">Ted's Remedies</a></li>
-        <li><a href="/herbs.html" data-ajax="false" class="ui-link">Herbs</a></li>
-        <li><a href="/all-supplements.html" data-ajax="false" class="ui-link">Supplements</a></li>
+        <li><a href="/remedies-all-natural.html" data-ajax="false" class="ui-link">Natural Cures</a></li>
       </ul>
       <hr>
       <ul class="nav navmenu-nav">
         <li><a href="/pets.html" data-ajax="false" class="ui-link">Pet Ailments</a></li>
-        <li><a href="/latest_petposts.html" data-ajax="false" class="ui-link">Recent Pet Posts</a></li>
         <li><a href="/pet-remedies.php" data-ajax="false" class="ui-link">Pet Remedies</a></li>
+        <li><a href="/latest_petposts.html" data-ajax="false" class="ui-link">Recent Pet Posts</a></li>
       </ul>
       <hr>
       <ul class="nav navmenu-nav">
-        <li><a href="/earth-clinic-books.html" data-ajax="false" class="ui-link">Earth Clinic Books</a></li>
-        <li><a href="https://www.youtube.com/c/earthclinic" data-ajax="false" class="ui-link" target="_blank">Earth Clinic Videos</a></li>
+        <li><a href="https://www.youtube.com/c/earthclinic" data-ajax="false" class="ui-link" target="_blank">Videos</a></li>
+        <li><a href="/earth-clinic-books.html" data-ajax="false" class="ui-link">Books</a></li>
+        <li><a href="http://ted.earthclinic.com" data-ajax="false" class="ui-link">Ted's Remedies</a></li>
       </ul>
       <ul class="nav navmenu-nav">
         <li>
       <div id="social" style="margin:15px 5px 7px;">
-    <a href="/latest_posts_rss.php" title="RSS Feed" class="ui-link"><img src="/images/rss.png"></a> &nbsp;<a href="https://www.facebook.com/pages/Earth-Clinic/60803892726" class="ui-link" target="_blank"><img src="/images/facebook.png"></a> &nbsp;<a href="https://twitter.com/Earth_Clinic" class="ui-link" target="_blank"><img src="/images/twitter.png"></a> &nbsp;<a href="http://www.pinterest.com/earthclinic/" class="ui-link" target="_blank"><img src="/images/pin.png"></a> &nbsp;<a href="https://www.youtube.com/c/earthclinic" class="ui-link" target="_blank"><img src="/images/youtube.png"></a> &nbsp;<a href="https://plus.google.com/+earthclinic" class="ui-link" target="_blank"><img src="/images/google.png"></a>
+    <a href="https://www.facebook.com/pages/Earth-Clinic/60803892726" class="ui-link" target="_blank"><img src="/images/facebook.png" alt="facebook"></a> &nbsp;<a href="https://twitter.com/Earth_Clinic" class="ui-link" target="_blank"><img src="/images/twitter.png" alt="twitter"></a> &nbsp;<a href="https://www.pinterest.com/earthclinic/" class="ui-link" target="_blank"><img src="/images/pin.png"></a> &nbsp;<a href="https://www.youtube.com/c/earthclinic" class="ui-link" target="_blank"><img src="/images/youtube.png" alt="youtube"></a> &nbsp;<a href="https://plus.google.com/+earthclinic" class="ui-link" target="_blank"><img src="/images/google.png" alt="google"></a> &nbsp;<a href="https://www.instagram.com/earthclinicllc/" class="ui-link" target="_blank"><img src="/images/instagram-s.png" alt="instagram"></a>
     </div>
+    </li></ul>
       <hr>
+     <ul class="nav navmenu-nav">
+     <li>
 <div class="panellinkssmall" style="font-size:12px;">
 <a href="/feedbacks/index.php" title="Report a problem" style="font-size:13px;" data-ajax="false" class="ui-link">Report a problem</a><br>
-<a href="/guides.html" data-ajax="false" class="ui-link">Get Help</a><br>
-<a href="/about.html" data-ajax="false" class="ui-link">About Us</a>
-  <hr>
-<a href="http://feeds.feedburner.com/EarthClinic" title="RSS Feed" target="_blank" data-ajax="false" class="ui-link"><i class="fa fa-rss rssicon"></i> RSS</a><br>
+<a href="/about.html" data-ajax="false" class="ui-link">About Us</a><br>
+
 <a href="/copyright.html" data-ajax="false" class="ui-link">Reprints and Permissions</a>
-  <hr>
-<!-- Begin MailChimp Signup Form -->
-<link href="//cdn-images.mailchimp.com/embedcode/slim-081711.css" rel="stylesheet" type="text/css">
-<div id="mc_embed_signup" style="text-align:right;">
-<form action="http://eepurl.com/SJgYf" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate="" style="padding:0 !important; text-align:center;">
-    <input type="email" value="" name="EMAIL" class="email" id="mce-EMAIL" required="" style="color:#000; font-size:16px; width:100%;background-color:#4C4C4C;border:1px #AEAEAE solid !important;" placeholder="Subscribe to our mailing list">
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_4ee430e801c7be0ca62527784_c812d52448" value=""></div>
-    <input type="submit" value="submit" name="subscribe" id="mc-embedded-subscribe" class="button" style="width: 63px !important;padding: 1px;border: none;text-align: center;font-family: Glegoo, Georgia, serif;font-size: 11px;line-height: 11px;text-transform: lowercase;margin-top: 5px !important;">
-</form>
-</div>
-<br>
-</div>
-</li></ul>
+</div></li></ul>
+  <ul class="nav navmenu-nav">
+ <li>
+    </li></ul>
+     <hr>
+
       <ul class="nav navmenu-nav">
         <li>
 <div align="center" style="font-size:12px; line-height:12px;">
@@ -2139,7 +2202,7 @@ ul#fullTocOC{list-style-type: none;margin: 0;padding: 0;}
 		</li>
       </ul>
       <br>
-<p align="center" style="color:#FFF; font-size:12px; font-family:sans-serif; line-height:12px;">Copyright © 2016. All rights reserved.</p>
+<p align="center" style="color:#FFF; font-size:12px; font-family:sans-serif; line-height:12px;">Copyright © 2017. All rights reserved.</p>
       
     </div><!-- end responsive menu -->
 <script>
@@ -2157,10 +2220,12 @@ ablank();
 <script>
 //scrolling ads
 (function($) {
-	if ($( window ).width() > 780){
+	if ($( window ).width() > 991){
 		if ($(".follow-scroll-left")[0]){
 		var element = $('.follow-scroll-left'),
 			originalY = element.offset().top;
+		var element2 = $('.follow-scroll');
+		var element3 = $('.follow-scroll-toc');
 		
 		// Space between element and top of screen (when scrolling)
 		var topMargin = 5;
@@ -2171,42 +2236,27 @@ ablank();
 			if(newY>originalY){originalY=newY;}
 			var scrollTop = $(window).scrollTop();
 			var containerWidth  = $('.has-sticky-left').width();
+			var containerWidth2  = $('.has-sticky-right').width();
 			if(scrollTop < originalY){
 				element.removeClass( "is-sticky" );
 				element.css( "width", containerWidth );
+				element2.removeClass( "is-sticky" );
+				element2.css( "width", containerWidth2 );
+				element2.css( "margin-top", "65px");
+				element3.css( "display", "none" );
 			}else{
 				element.addClass( "is-sticky" );
 				element.css( "width", containerWidth );
+				element2.addClass( "is-sticky" );
+				element2.css( "width", containerWidth2 );
+				element2.css( "margin-top", "1px");
+				element3.css( "display", "block" );
 			}
 		});
 		}
 	}
 })(jQuery);
 
-//scrolling menu link
-(function($) {
-	if ($( window ).width() > 991){
-		if ($(".follow-scroll")[0]){
-			var element = $('.follow-scroll'),
-				originalY = element.offset().top;
-			
-			// Space between element and top of screen (when scrolling)
-			var topMargin = 5;
-			
-			$(window).on('scroll', function(event) {
-				var scrollTop = $(window).scrollTop();
-				var containerWidth  = $('.has-sticky-right').width();
-				if(scrollTop < originalY){
-					element.removeClass( "is-sticky" );
-					element.css( "width", containerWidth );
-				}else{
-					element.addClass( "is-sticky" );
-					element.css( "width", containerWidth );
-				}
-			});
-		}
-	}
-})(jQuery);
 (function($) {
 	if ($( window ).width() > 991){
 		var isScrolledIntoView = function(elem) {
