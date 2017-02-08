@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fsweb.org privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918191727id_/http%3A//www.fsweb.org/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsweb.org privacy policy that was archived on 2017-02-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170208103730id_/http%3A//fsweb.org/privacy.php) for the most accurate reproduction.*
 
 # Fast Service Web Directory
 
