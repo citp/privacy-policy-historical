@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allstartfitness.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016042336id_/http%3A//www.allstartfitness.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allstartfitness.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209130918id_/http%3A//allstartfitness.com/privacy.html) for the most accurate reproduction.*
 
 # All Start Fitness
 
