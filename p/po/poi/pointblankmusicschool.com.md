@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pointblankmusicschool.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229174850id_/http%3A//www.pointblankmusicschool.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pointblankmusicschool.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209064530id_/https%3A//www.pointblankmusicschool.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Point Blank Online | Privacy Policy
 
