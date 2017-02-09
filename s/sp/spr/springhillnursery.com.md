@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the springhillnursery.com privacy policy that was archived on 2013-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130607004251id_/http%3A//www.springhillnursery.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the springhillnursery.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209041102id_/https%3A//www.springhillnursery.com/privacy_policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Spring Hill Nursery
 
 This is the Website of Spring Hill Nurseries
 
@@ -46,3 +46,10 @@ From time to time, it may become necessary for us to change our privacy policy i
 
 **Your Feedback**  
 If you would like to give us your feedback regarding our privacy policy and practice, please do so by emailing us or writing to us at Gardens Alive Brands, c/o Spring Hill Nurseries Marketing Dept., 110 West Elm St., Tipp City, OH 45371.
+
+* * *
+
+Have another question? Return to the [Customer Service Help](https://web.archive.org/Help) page or send an e-mail directly to [Customer Service](mailto:service@springhillnursery.com)
+
+  
+
