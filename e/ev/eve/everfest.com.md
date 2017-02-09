@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the everfest.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216101641id_/https%3A//www.everfest.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everfest.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209213752id_/https%3A//www.everfest.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Everfest
 
