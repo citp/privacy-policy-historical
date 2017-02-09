@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trendyupdates.com privacy policy that was archived on 2016-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160710123506id_/http%3A//www.trendyupdates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trendyupdates.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209102256id_/http%3A//www.trendyupdates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Trendy Updates
 
