@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324165255id_/http%3A//www.topweddingsites.com/wedding-blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topweddingsites.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209101343id_/https%3A//www.topweddingsites.com/wedding-blog/privacy-policy) for the most accurate reproduction.*
 
-# Team Wedding Blog Privacy Policy - Team Wedding Blog
+# Privacy Policy | | TopWeddingSites.com
 
 If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at admin@topweddingsites.com. 
 
@@ -38,3 +38,5 @@ www.topweddingsites.com has no access to or control over these cookies that are 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.topweddingsites.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
+
+[](http://www.top10weddingsites.com/)
