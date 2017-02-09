@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fyvor.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409195701id_/http%3A//www.fyvor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyvor.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209175429id_/https%3A//www.fyvor.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fyvor.com
 
@@ -15,6 +15,10 @@ Fyvor only uses IP addresses for the purposes of Web traffic analysis and trends
 #### Use of Information
 
 Fyvor collect, store, share and use information collected from third parties. While we do not collect or store password from third-party service providers, we may receive or store tokens, which allow us to link your Fyvor account with the third-party service provider. We utilize the information we collect about our users to learn more about how they interact with our Services to customize the Services to their interests and enhance the user experience. Other websites that may be accessible through links from our Services may have their own privacy statements and personal information collection, use, and disclosure practices. Our merchants and business partners also have their own privacy statements, too. Fyvor undertakes to work with third parties who protect and respect your privacy.
+
+#### Intellectual Property Rights
+
+Except for User Submissions, all of the content, arrangement and layout of the Sites and Services, including, but not limited to, any trademarks, service marks, text, images and other content or copyrightable material, and the compilation of the foregoing (collectively, the “Content”) are the sole and exclusive property of Fyvor. Any unauthorized use of the Content or Fyvor Marks is strictly prohibited and may violate civil or criminal laws, including, but not limited to, copyright laws, trademark laws, and the laws of privacy and publicity.
 
 #### Use of Cookies
 
@@ -37,3 +41,5 @@ Fyvor contains links to sites other than Fyvor; those sites may not follow the s
 This privacy policy is not intended to and does not create any contractual or legal rights in or on behalf of any party. Fyvor reserves the right to change this privacy policy at any time and users will be notified of any changes made.
 
 **USE OF THIS SITE SIGNIFIES YOUR CONSENT TO THIS ONLINE PRIVACY POLICY AND THE TERMS AND CONDITIONS OF USE.**
+
+Privacy Policy updated on February 9, 2017
