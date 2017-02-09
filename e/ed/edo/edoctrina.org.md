@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edoctrina.org privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316123059id_/http%3A//www.edoctrina.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edoctrina.org privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209173436id_/https%3A//www.edoctrina.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eDoctrina
 
@@ -32,7 +32,7 @@ eDoctrina Corporation values the privacy of those who use its website, products 
 
 #### Sharing of Data With Third Parties
 
-eDoctrina Corporation will NOT share any customer data with ANY third party without express written consent. If customers wish for eDoctrina Corporation to share data with a third party, they must complete our **[Authorization to share Licensee Content with a third party](http://www.edoctrina.org/wp-content/uploads/2013/11/eDoctrina-License-Agreement-Exhibit-C.docx) **form.  
+eDoctrina Corporation will NOT share any customer data with ANY third party without express written consent. If customers wish for eDoctrina Corporation to share data with a third party, they must complete our **[Authorization to share Licensee Content with a third party](https://www.edoctrina.org/wp-content/uploads/2013/11/eDoctrina-License-Agreement-Exhibit-C.docx) **form.  
 
 
 #### Policy Changes & Updates
