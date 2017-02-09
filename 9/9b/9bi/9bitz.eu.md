@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 9bitz.eu privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517104213id_/http%3A//www.9bitz.eu/PRIVACY-POLICY.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 9bitz.eu privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209075034id_/http%3A//9bitz.eu/PRIVACY-POLICY.html) for the most accurate reproduction.*
 
 # 9bitz.eu
 
