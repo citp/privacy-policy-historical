@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankfab.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610162038id_/https%3A//www.firstunitedbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankfab.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209030342id_/https%3A//www.firstunitedbank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policies :: First United Bank
 
@@ -6,8 +6,7 @@ Consumer Privacy Policy
 
 Online Privacy Policy
 
-  
-
+Social Media Policy
 
 ### Consumer Privacy Policy
 
@@ -133,7 +132,7 @@ We don't share
 
 | 
 
-Print out and mail this form: [Printer Friendly Version with Opt-Out Form](https://web.archive.org/system/resources/W1siZiIsIjIwMTUvMDkvMDEvMTNfNTdfMTZfNDU4X0ZVQl9Qcml2YWN5X05vdGljZV9SZXYuXzAyLjIwMTMucGRmIl1d/FUB%20Privacy%20Notice%20Rev.%2002.2013.pdf "Privacy Notice")
+Print out and mail this form: [Printer Friendly Version with Opt-Out Form](https://web.archive.org/system/resources/W1siZiIsIjIwMTYvMDcvMDgvMTNfNDVfMzdfMzQ0X1N0cmVhbWxpbmVfUHJpdmFjeV9Ob3RpY2UucGRmIl1d/Streamline%20Privacy%20Notice.pdf "Streamline Privacy Notice")
 
 **Please note:**   
 If you are a new customer, we can begin sharing your information 30 days from the date we sent this notice. When you are no longer our customer, we continue to share your information as described in this notice.
@@ -299,28 +298,25 @@ Mailing Address: P.O. Box 130, Durant, OK 74702
 580-924-2211 or 800-924-4427  
 fubinfo@firstunitedbank.com
 
-This document was last updated on August 1, 2015
+This document was last updated on August 1, 2015.
 
-## You will be leaving the First United website and entering .
+### Social Media Policy
 
-This link is provided solely as a courtesy to our customers. First United has no control over the External site and is not responsible for its content. First United does not endorse, warrant or guarantee the products, services or information described or offered through the External site.
+If you have a customer service question, please contact us at 1-800-924-4427 or email us at fubinfo@firstunitedbank.com during business hours. Please do not include your Social Security Number, account number or request financial information or transactions when contacting us online. 
 
-## Why should I select my bank?
+Moderation of First United Bank's Social Media pages will be conducted on an ongoing basis.
 
-By selecting your bank you will have quick access to information about your bank including: today's hours and the bank's phone number. This information will be available on all pages of the website in the top bar.
+We encourage your participation, comments, shares and likes on our pages and ask that you respect others who participate here.
 
-##### Frequently Asked Questions:
+We may remove comments that don't respect the discussion or its participants, contain spam, sensitive personal information, inappropriate links, threatening, defamatory, profane, obscene or abusive material, or ones that suggest illegal activity.
 
-###### Will I have to set my location each time I visit the website?
+We do not endorse third-party links that appear on this site. Also, comments posted do not represent the opinions of First United Bank. 
 
-No. The website will remember your bank location.
+We may use or share the comments you make on our Facebook wall, which gives us the ability to share your stories and comments.
 
-###### Will I be able to change my bank location?
+Facebook and other social media platforms are owned and operated by a third party not affiliated with First United Bank. 
 
-Yes. You will be able to set your bank location from the [locations page](https://web.archive.org/cms/locations).
+This is a public forum. Please do not post sensitive personal or financial information.  
+You participate at your own risk, taking personal responsibility for your comments, your username and any information provided.
 
-###### Are there any computer requirements to use this feature?
-
-Yes. Your web browser must have cookies enabled to set your bank.
-
-×
+This document was last updated on June 16, 2016.
