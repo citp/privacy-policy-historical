@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2016-12-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161227133949id_/https%3A//www.panpacific.com/en/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panpacific.com privacy policy that was archived on 2017-02-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170209144827id_/https%3A//www.panpacific.com/en/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
        
@@ -183,7 +183,7 @@ var fscr = document.getElementsByTagName('script')[0]; fscr.parentNode.insertBef
 var axel = Math.random() + '';
 var a = axel * 10000000000000;
 document.write('<img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/DFPAudiencePixel;ord=' + a + ';dc_seg=27653650?" width=1 height=1 border=0/>');
-</script></head><body><img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/DFPAudiencePixel;ord=6018036110906.72;dc_seg=27653650?" width="1" height="1" border="0/">
+</script></head><body><img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/DFPAudiencePixel;ord=2861286998473.9062;dc_seg=27653650?" width="1" height="1" border="0/">
 <noscript>
 <img src="http://pubads.g.doubleclick.net/activity;dc_iu=/5349/DFPAudiencePixel;ord=1;dc_seg=27653650?" width="1" height="1" border="0/">
 </noscript>
@@ -645,6 +645,7 @@ var reloadMemberNavMenu = function(data) {
                 }
                 else 
                 {
+                    $('#account-details >a').removeAttr("data-analytics");
                     $('#account-details >a').html('<i class="icon-pp_icon-gha"></i>' + welcomeMsg);
                     $('#account-details >div').removeClass();
                     $('#account-details >div').addClass('account-details-welcome is-hidden');
@@ -1047,7 +1048,7 @@ Thank you.</p>
                     </li>
                     
                     <li data-link="loyalty-programmes" class=" last">
-                        <a class="ga-topnav" id="ga-topnav-6" href="/en/loyalty-programmes.html#global%23loyalty-programmes" alt="LOYALTY PROGRAMMES" title="LOYALTY PROGRAMMES">LOYALTY PROGRAMMES</a>
+                        <a class="ga-topnav" id="ga-topnav-6" href="/en/loyalty-programmes.html#global%23loyalty-programmes" alt="LOYALTY" title="LOYALTY">LOYALTY</a>
                     </li>
                     
         </ul>
@@ -1538,6 +1539,18 @@ Thank you.</p>
 
 
 <script type="text/javascript">
+var pagename_			= '';
+var pagename_delimitter = '|';
+var pagename_host 		= window.location.host;
+var pagename_path 		= window.location.pathname.replace(new RegExp('/','g'),pagename_delimitter).split('.')[0];
+var pagename_brandCode 	= 'pp';
+var isMobilePage 		= false;
+if(isMobilePage == true){
+	pagename_ += 'm'+pagename_delimitter;
+}
+
+pagename_ += pagename_brandCode + pagename_path; 
+
 var pphgDataLayer = {
 		'page': {
 	        'pageInfo': {
@@ -1545,8 +1558,9 @@ var pphgDataLayer = {
 	            'channel'			: 'pp',
 	            'siteLanguage'		: 'en',
 	            'pageName'			: 'privacy-policy',
+	            'pagename_url'		: pagename_,
 	            'pageURL'			: window.location.href,
-	            'pageReferrer'		: 'http://www.panpacific.com/en/privacy-policy.html',
+	            'pageReferrer'		: 'homepage',
 	            'pageTitle'			: 'privacy policy',
 	            'siteType'			: 'desktop',
 	            'siteDestination'	: 'global'		            
@@ -2185,7 +2199,7 @@ pphgDataLayer.submitDTMPageLoad = function(){
                                     
                                     <li><a class="ga-footer" title="Awards and Accolades" href="/en/about/awards-and-accolades.html">Awards and Accolades</a></li>
                                     
-                                    <li><a class="ga-footer" title="Pan Pacific Blog" href="http://www.blog.panpacific.com">Pan Pacific Blog</a></li>
+                                    <li><a class="ga-footer" title="Pan Pacific Blog" href="http://blog.panpacific.com/">Pan Pacific Blog</a></li>
                                     
                                     <li><a class="ga-footer" title="Careers" href="/en/careers.html">Careers</a></li>
                                     
