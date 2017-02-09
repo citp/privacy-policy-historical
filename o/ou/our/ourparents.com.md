@@ -1,82 +1,211 @@
-> *The following text is extracted and transformed from the ourparents.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403213127id_/https%3A//www.ourparents.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourparents.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209155518id_/https%3A//www.ourparents.com/support/privacy) for the most accurate reproduction.*
 
-# OurParents - Nursing Homes, Senior Care Providers & Assisted Living
+# A Place For Mom Inc. Corporate Privacy Policy | OurParents
 
-Last updated October 21, 2013
+A Place for Mom Inc. Privacy Policy
 
-RealPage, Inc. (“RealPage”) is committed to providing our product and service users with clear and concise information regarding our privacy policy and practices. This Privacy Policy describes in detail our policy and practices regarding the collection, use, and disclosure of user information by the [RealPage family of companies, products, and services](http://www.realpage.com/company/). By accessing our websites or utilizing our products and services, you consent to the information collection and handling practices outlined in this policy. 
+  * [A Place for Mom Inc. Privacy Policy (U.S.)](http://www.aplaceformom.com/privacy#us)
+  * [A Place for Mom Inc. Privacy Policy (Canada)](http://www.aplaceformom.com/privacy#canada)
 
-### Information Collection
 
-RealPage may collect various types of information, both personal and anonymous, through our products, services, and websites. The information is gathered from your usage of our products and services, as well as from your entry of information on our websites. This collected information consists of two basic types of data: 1) personal information and 2) non-personal information.
 
-Personal information is information that can be used to uniquely identify you as an individual or contact you directly. This may include contact information such as your name, address, telephone number, and email address. For certain financial, health, or credit-based products and services, personal information may also include sensitive data such as payment data, credit records, social security numbers, date of birth, and account numbers. Personal information is only collected based upon your choice to provide it to RealPage through our products, services, and websites. You have the option to choose not to provide personal information to us; however, the lack of such personal information will typically prevent RealPage from providing the requested products or services to you.
+**A PLACE FOR MOM INC. PRIVACY POLICY (U.S.)**
 
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+**(Effective Date: February 2016)**
 
-Non-personal information is general information that does not permit direct association with you as an individual. When you browse RealPage websites, we may automatically collect non-personal information such as your IP address, device information, browser, internet connection speed, past web pages visited, and your link selections on our various website pages. This information may be used to: (1) manage and protect our websites, products, services, and users from fraudulent, abusive, or unlawful uses; and (2) help us research, develop, and improve our websites, products, and services. This type of information may also be aggregated or otherwise rendered anonymous for business and marketing uses by us or by third parties.
+This privacy policy explains the collection, use, and disclosure practices of this Web site as well as all other Web sites owned and/or operated by A Place for Mom, including, but not limited to www.AssistedLiving.com, www. AlzheimersLocator.com, and www.NursingHomes.com (individually and collectively, “Site” or “Sites”). The Sites are maintained by A Place for Mom (“We,” “Us,” or “Our”). We may update this statement occasionally, and we encourage you to check the date of our privacy policy whenever you visit the Sites to see whether it has been modified since your last visit.
 
-### Information Disclosure
+We do not sell your name, email address or other information, except to third parties which may provide or offer the services you’ve requested from us or as otherwise described below under Disclosure of Personal Information.
 
-Except as explained in this Privacy Policy, RealPage does not sell, license, or share our users’ information outside the RealPage family of companies without the consent and authorization of the user whose information will be shared.
+**COLLECTION OF PERSONAL INFORMATION**
 
-We may share your information within the [RealPage family of companies, products, and services](http://www.realpage.com/company/) for operational and marketing purposes. The RealPage companies that access your information will do so in conformity with the practices described in this Privacy Policy. Sharing this information allows RealPage to provide you with the best customer service experience possible, provide you with the services you have ordered or requested, and notify you of the latest information regarding new or enhanced products, services, and promotions. RealPage may periodically send offers, promotions, and updates regarding RealPage products and services to current and potential users via e-mail. Every marketing e-mail RealPage sends contains instructions and procedures allowing you to opt out of additional marketing e-mails for that product or service.
+For services provided on or in connection with our Sites, we may ask you to provide personal information such as name, email address, phone number and zip code, and personally identifiable information, and may or may not include any other information provided by or for you, and/or provided by any other person for whom you may be seeking senior housing and/or care services (“Personal Information”). We may collect and store any Personal Information.
 
-In some circumstances, we use third-party companies, agents, and contractors to perform services on our behalf, such as website optimization, email distribution, processing credit card transactions, infrastructure and IT services, background screening, and other data processing or handling functions. In the course of engaging these third party services, RealPage only shares your information to the extent reasonably necessary for the third party to perform the services on our behalf. We do not permit these third parties to use or disclose your personal information except for the purpose of providing the services we request of them. However, please note that RealPage does not maintain control over the privacy policies and practices of any third party companies, agents, or contractors.
+In addition, we may use Web site analytics tools, or other technologies, like cookies and Web beacons, to collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and our services. We also may collect certain standard information that your browser sends to every Web site you visit, such as your IP address, browser type and language, access times and referring Web site addresses. We also periodically may obtain both personal and non-personal information about you from other businesses, business partners, contractors and other third parties which supplements the Personal Information we collect, use and disclose.
 
-RealPage also reserves the right to disclose user information if we reasonably believe that such disclosure is necessary to (1) satisfy any applicable legal or regulatory requirement, (2) to respond to a governmental request, as required by law such as to comply with a subpoena, or similar legal process (3) enforce RealPage Terms of Use or investigate potential violations thereof, (4) to protect against fraudulent, malicious, abusive, unauthorized or unlawful use of RealPage products, services, and websites, or (5) to protect our rights or property, or the safety or security of our customers, employees or data.
+Like many Web Sites, we use “cookies”, which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of our Sites and online services. We also may use cookies to monitor traffic, improve the Sites and make the Sites easier and/or relevant for your use. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you usually can modify your browser setting to decline cookies if you prefer. If you choose to accept cookies, you also have the ability to later delete cookies that you have accepted. In Internet Explorer 8, you can delete cookies by selecting “Tools”, “Delete browsing history”. Then select the control box “Cookies” and click the “Delete” button. If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
 
-If RealPage enters into any business transition, restructuring, merger, sale, or other transferring of assets, we reserve the right to transfer user information, including all personal information, as part of or in connection with the transaction. You will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+We also use cookies to improve the performance of our advertising on other websites. Although you may not opt out of receiving online advertisements generally, you may control the collection of data on our site used for targeted aplaceformom.com advertising during your visits to other websites. To opt-out of aplaceformom.com data collection for targeted advertising on other sites, click here: [Opt Out Now.](http://media.aplaceformom.com/optout.html)
 
-### Electronic Protected Health Information (ePHI)
+Please be advised that the practices described in this Privacy Policy apply to information gathered online at our Sites, and to information that you may submit to us offline; to Web sites maintained by other companies, or organizations to which we may link; and to Personal Information we may collect further from third parties.
 
-Certain RealPage products, services, and websites are aligned with the senior market, assisted living, and skilled nursing industries. These products, services, and websites allow users to share and disclose protected health information in an electronic format (ePHI). RealPage is committed to protecting the privacy of ePHI received from our users in accordance with the requirements of the Health Insurance Portability and Accountability Act of 1996 (HIPAA). RealPage will not use or disclose user ePHI except as authorized by the user in accordance with the product, service, or website terms or as required by law.
+**USE OF PERSONAL INFORMATION**
 
-### Cookies, Web Beacons, and Other Technologies
+We use Personal Information to provide you with the services you have requested from us and to provide services to the senior housing and care providers who have contracted with us (“Participating Communities”) to be part of our referral information service program in relation to the services that we provide you. In addition, we use Personal Information to send you periodic email and newsletter communications about products and services offered by us or third parties, to operate and improve our Sites and services, to respond to customer inquiries, and to send you survey or other communications.
 
-When you access our websites, products, and services, RealPage servers may place small text files (“cookies”) on your computer for recordkeeping purposes. Among other things, cookies enable RealPage to gather information about your activity on our websites, products, and services for the purposes of improving your online experience, remembering your preferences and settings, delivering advertising to match your preferences and interests, and for other similar customization purposes.
+We use Personal Information also for our own internal business purposes including statistical, design or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns and understand demographic trends among our users.
 
-In addition to cookies, RealPage may utilize web beacons, clear gifs, or other technologies built into our websites, products and services to gather information on how users interact with and utilize various features. These technologies can help personalize your RealPage usage experience and help associate your interactions with our products and services to other information within your account. For example, these technologies can identify popular pages, viewing patterns, click-through, conversion rates, and other information that can be used to improve, monitor, and operate our websites, products, and services. For greater detail on how these technologies function and how your activity records are used, please review the Google Analytics privacy disclosures at [www.google.com/policies/privacy/partners/](http://www.google.com/policies/privacy/partners/).
+**DISCLOSURE OF PERSONAL INFORMATION**
 
-Most internet browsers provide controls that allow users to manage or disable the placement and usage of cookies on their computer. Please note that disabling cookies may deactivate or otherwise restrict certain features on RealPage websites, products, and services. To opt out of any behavioral advertising and tracking cookies, please go to <http://www.aboutads.info/choices> to submit your do not track request.
+We may disclose, sell or share Personal Information about you with other people including:
 
-### Third Party Advertisements and Links to Other Sites
+  * **Participating Communities.** We may disclose, sell or share Personal Information to one or more Participating Communities in order to provide you with the services you’ve requested. The Participating Communities may contact you directly by email, telephone, regular mail, in person visits or other means. We do not control how these Participating Communities use or disclose your Personal Information.
+  * **Other Third Party Providers.** We may disclose, sell or share Personal Information to one or more third parties with whom we have contracted to provide services to us. We may also disclose Personal Information to one or more third parties who are interested in providing services or products to you. We do not control how these third parties use or disclose your Personal Information.
+  * We may disclose some or all of your Personal Information with our parent company, subsidiaries, joint ventures, or other companies under common control with us, in which case we will require them to honor this Privacy Policy.
+  * **Internal Analysis and Operations.** We may disclose Personal Information for our own internal statistical, design or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic trends among our users. We may outsource these tasks and disclose Personal Information about you to third parties, provided the use and disclosure of your Personal Information by these third parties is restricted to performance of such tasks and subject to confidentiality.
+  * **Legal and Other Compliance.** We may disclose Personal Information when we believe it is appropriate to comply with the law; to enforce or apply this Privacy Policy or our other policies or agreements; to protect our or our users’ rights, property or safety; to protect our users from fraudulent, abusive or unlawful use of, our Sites; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+  * **Business Transfers.** We may disclose Personal Information as part of any merger, acquisition, debt financing, sale of company assets or other business transaction.
+  * **Aggregated Information:** We may share aggregated, anonymous information that includes or is based on information about you with third parties. This is information that is combined with the information of other users and does not directly identify you. Depending on the circumstances, we may or may not charge third parties for this aggregated information. We also may not limit the third parties’ use of the aggregated information.
 
-Certain RealPage websites may include third party advertisements and links to other websites. These linked websites are operated by unaffiliated third parties that have separate and independent privacy statements, terms of use, and related notices or disclosures regarding information handling practices. Third party advertisers may also utilize cookies, web beacons, and similar technologies to collect information regarding your website interactions and activities. These third party technologies may be utilized by those entities to provided targeted advertising and web links based upon your activities and preferences. If you choose to interact with specific advertisers who advertise on our sites, the information you provide to them is subject to the conditions of their specific privacy policies and in no way covered by the practices described in this policy. RealPage cannot be responsible for the information handling practices of independent parties and encourages you to review their practices prior to information disclosure.
 
-### Social Media Integration
 
-RealPage websites, products, and services may include the option of integration through third party social networking sites and related social media plug-ins or applications. When you integrate or link our websites, products, and services with your social media applications (e.g., Facebook, LinkedIn, MySpace, Google+, etc.), you authorize RealPage to have access to certain information from your social media profile (e.g., name, e-mail address, photo, gender, birthday, location, your list of friends, comments, etc.) to deliver the content or as part of the operation of the integrated application. We may also obtain non-personally identifiable information (e.g., content viewed, advertising viewed, etc.) from your interaction with our integrated content.
+**USE OF NON-PERSONAL INFORMATION**
 
-By choosing to integrate RealPage websites, product, and services with social media applications, you consent to the use of this information in accordance with our privacy policy. When you provide personal information to us through an integrated application, it may be publicly viewed by other members of these sites and RealPage cannot prevent further use of the information by independent third parties. For more information about how social networking sites handle your personal information and available privacy settings, please refer to their privacy policies and terms of use.
+Non-personal information collected at the Sites may be used and disclosed to improve the performance, functionality and content of the Sites. For example, we may collect and analyze collected aggregate information to determine how many visitors arrived at certain pages of the Sites, how long they stayed on those pages, and where they went afterwards. This information allows us to determine which pages might be the most interesting to our users and enables us to provide you with a richer experience on the Sites. Additionally, we may use non-personal information to improve the performance of the Sites and to customize the content, features and layout of the Sites pages for you.
 
-### Mobile Applications and Location-based Services
+Occasionally we share aggregate information with third parties, such as our advertisers and business partners, for marketing and promotional purposes.
 
-Certain RealPage websites, products, and services offer mobile applications for access via smartphones and tablet devices. These applications are subject to the information handling practices outlined in this policy.
+We may supplement aggregate information collected from the Sites with similar information obtained from companies with whom we have marketing or other business relationships and other third party sources. If aggregate information is ever linked with your Personal Information, such information will be treated as Personal Information for the purposes of this Privacy Policy as long as it is linked.
 
-RealPage mobile applications may include the option to provide you with helpful information based on where you are. To provide such location-based services, RealPage may collect, use, and share precise location data, including the real-time geographic location of your mobile device. This location data is collected anonymously in a form that does not personally identify you and is solely used by RealPage to provide and improve location-based products and services. If you wish to deactivate this feature, you can disable the location services on your mobile device.
+**LINKS TO THIRD PARTIES**
 
-### Information Security
+Please be advised that we may provide links to third party Web sites from our Sites as a service to our users, but we have no ability to control, and are not responsible for, the privacy and data collection, use, and disclosure practices of such sites and the privacy policies of such Web sites may differ from the Sites. Therefore, we encourage you to review and understand the privacy policies of such Web sites before providing them with any information. These other Web sites also may send their own cookies to you, collect your data or solicit your Personal Information. Always be aware of where you end up. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to accept cookies, you also have the ability to later delete cookies that you have accepted. In Internet Explorer 8, you can delete cookies by selecting “Tools”, “Delete browsing history”. Then select the control box “Cookies” and click the “Delete” button. If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
 
-RealPage implements and maintains physical, administrative, and technical safeguards designed to secure user information and prevent unauthorized access to or disclosure of that information. Under our security policies and practices, access to sensitive personal information is authorized only for those who have a business need for such access, and sensitive records are retained only as long as reasonably necessary for business or legal purposes. RealPage strives to protect the user information that we collect and store, however, no security program is 100% secure and we cannot guarantee that our safeguards will prevent every unauthorized attempt to access, use, or disclose personal information. RealPage maintains security incident response policies and procedures to handle incidents involving unauthorized access to private information we collect or store.
+**SECURITY**
 
-### Children’s Online Privacy
+We use reasonable security measures to store and maintain Personal Information to protect it from loss, misuse, alteration or destruction by any unauthorized party while it is under our control. Please note that while we will make reasonable efforts to protect Personal Information, no transmission of data over the Internet is 100% secure. All Internet users should take care with how they handle and disclose their personal information. Please refer to the Federal Trade Commission’s website at <http://www.ftc.gov/bcp/menus/consumer/data.shtm>for information about how to help protect yourself against identity theft.
 
-RealPage does not target children under the age of 13 for the collection of information online. Our products, services, and websites are not designed to attract the attention of persons under the age of 13.
+**THIRD PARTY ADVERTISING COMPANIES**
 
-### Accessing and Updating Personal Information
+Third party advertisers or ad networks may use cookies or other technologies on our Sites for various purposes, including measuring the effectiveness of their ads and analyzing and personalizing ads or other content delivered to you. We have no ability to control the privacy and data collection, use, and disclosure practices of such Web sites and the privacy policies of such Web sites may differ from the Sites. Therefore, we encourage you to review and understand the privacy policies of such Web sites before providing them with any information.
 
-In the event that your personal information is found to be outdated, incomplete, or inaccurate, you may access and update your information by logging into your RealPage product or service account. If you require verification that your requested changes have been completed, and such verification is not readily displayed in your product or service account, you may request confirmation at the email address listed below (See “Contact Us”).
+**CHILDREN**
 
-### Privacy Policy Changes
+We do not intend, and these Sites are not designed, to collect Personal Information from children under the age of 13. If you are under 13 years old, you should not register for our services or otherwise provide information on our Sites.
 
-As RealPage develops new products and services, updates or expands technologies, and develops new information uses, we reserve the right to update this Privacy Policy as necessary to reflect such changes. We recommend that you review this policy periodically for any changes that may have been made. Your continued use of RealPage products, services, and websites subsequent to any changes made after your initial consent means that you agree to be bound by those changes. The most current version of this Privacy Policy supersedes all previous versions. 
+**YOUR CALIFORNIA PRIVACY RIGHTS**
 
-### Contact Us
+Companies that collect personally identifiable information from California residents and disclose such information to third parties for marketing purposes must, in response to a request by a consumer, either (1) provide a list detailing the categories of information shared and the entities to which such information was provided, or (2) provide a mechanism by which a consumer may opt-out of having their information shared with third parties. We have elected the second option and you may request that your personally identifiable information not be shared with third parties by sending your request, including your full name, email address and postal address to: A Place for Mom, Inc. Attn: General Counsel, 701 5th Ave, Suite 3200, Seattle, WA 98104. In accordance with California Civil Code Sec. 1789.3, California resident users are entitled to know that they may file grievances and complaints with California Department of Consumer Affairs, 400 R Street, Suite 1080, Sacramento, CA 95814; or by phone at 916-445-1254 or 800-952-5210; or by email to dca@dca.ca.gov
 
-If you have any questions or concerns about the RealPage Privacy Policy or its implementation, you may contact us at [privacy@realpage.com](mailto:privacy@realpage.com) or mail your written inquiry to: 
+**DO NOT TRACK DISCLOSURES**
 
-[ RealPage, Inc.   
-Attn: Privacy (Legal)   
-4000 International Parkway   
-Carrollton, Texas 75007-1913 ](mailto:privacy@realpage.com)
+No action is taken in response to web browser “do not track” signals or other mechanisms that provide consumers the ability to exercise choice regarding the collection of personally identifiable information about an individual consumer’s online activities over time and across third-party web sites or online services. Although we use Google Analytics and other third party tracking tools for our Sites, we are not aware if third parties collect personally identifiable information about an individual consumer’s online activities when a consumer uses our Sites.
+
+**YOUR CONSENT**
+
+By using our Sites, you consent to the terms of our Privacy Policy and to our collection, use, and disclosure of Personal Information for the purposes given above.
+
+**OPT-OUT OF APFM COMMUNICATIONS**
+
+We may periodically send you newsletters and other communications that promote the use of our services. When you receive our newsletters, you may indicate a preference to stop receiving further newsletters by following the opt-out instructions that we include in the newsletter we send you. However, if you wish to opt-out of communications with Participating Communities, you must contact them directly as we do not control communications from Participating Communities.
+
+**CONSENT TO AUTOMATIC TELEPHONE DIALING SYSTEM**
+
+You agree to be contacted by a Senior Living Advisor and by our senior living partners and other partners to explore options at the telephone number you have provided. You agree we, our senior living partners and other partners may use automatic telephone dialing systems and technology to contact you by call or text message at the telephone number provided, even if you previously registered on a Do Not Call registry.
+
+**QUESTIONS AND CONCERNS**
+
+If you have any questions about this Privacy Policy or the privacy practices of our Sites, please contact us at [privacy@aplaceformom.com](mailto:privacy@aplaceformom.com)
+
+**GOVERNING LAW**
+
+The Sites are published in the United States. We attempt to comply with local data protection and consumer rights laws to the extent they may apply to our services. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to the Sites.
+
+**CHANGES IN THIS PRIVACY POLICY**
+
+As our Sites continue to develop, we may add new services and features to our Sites. In the event that these additions affect our Privacy Policy, this Privacy Policy will be updated appropriately. We will post those changes prominently so that you will know what Personal Information we gather, how we might use that Personal Information, and whether we will disclose it to anyone. We, however, recommend that you read this Privacy Policy each time you use our Sites in case you missed our notice of changes to the Privacy Policy. We will not materially change our policies and practices to make them less protective of Personal Information we have previously collected without your express consent.
+
+**A PLACE FOR MOM CANADA, INC. WEB SITE AND GENERAL PRIVACY POLICY**
+
+**(Effective Date: February 2016)**
+
+This Privacy Policy explains the collection, use, and disclosure practices of this Web site as well as all other Web sites owned and/or operated by A Place for Mom Canada Inc. (“ **APFM** “) and/or A Place for Mom, Inc. (“ **Parent** “), including, but not limited to www.APlaceForMom.com, www.AssistedLiving.com, www.Alzheimers.net, www.AlzheimersLocator.com, and www.NursingHomes.com (individually and collectively, “ **Site** ” or “ **Sites** “). The Sites are maintained by APFM and/or its Parent, and any reference to “ **we** ,” “ **us** ,” or “ **our** ” includes both APFM and its Parent. Any reference to “ **you** ” or “ **your** ” in this Privacy Policy refers specifically to the senior whose Personal Information (defined in the section titled “Collection of Personal Information” below) is being collected, used and disclosed and applies where the senior is either (a) seeking living or care services for himself or herself; or (b) has authorized another person to act on his or her behalf.
+
+**COLLECTION OF PERSONAL INFORMATION**
+
+**FOR THE PURPOSE OF FINDING SENIOR LIVING CARE SERVICES**
+
+In order to assist you with finding senior living care services, after you (or a person authorized to act on your behalf) have read and understood our Privacy Policy and have consented to its terms and conditions, our Senior Living Advisors may ask you to provide personal information such as your name, email address, phone number and zip/postal code, and other personally identifiable information, and may or may not include any other information provided by or for you, and/or provided by any other person authorized to act on your behalf ( **“Personal Information”** ). This Personal Information will be collected over the phone and may be stored or accessed in Canada and/or the United States. This Personal Information may be disclosed in response to valid demands or requests from governments, regulators, courts and law enforcement authorities in those jurisdictions or countries.
+
+**FOR THE PURPOSE OF IMPROVING APFM SITES AND SERVICES**
+
+In addition, we may use Web site analytics tools, or other technologies, like cookies and Web beacons, to collect information about your visit to the Sites, including the pages you view, the links you click and other actions taken in connection with the Sites and our services. We also may collect certain standard information that your browser sends to every Web site you visit, such as your IP address, browser type and language, access times and referring Web site addresses. We also periodically may obtain both personal and non-personal information about you from other businesses, business partners, contractors and other third parties which supplements the Personal Information we collect, use and disclose.
+
+Like many Web sites, we use “cookies”, which are small text files that are stored on your computer or equipment when you visit certain online pages that record your preferences. We use cookies to track use of our Sites and online services. We also may use cookies to monitor traffic, improve the Sites and make the Sites easier and/or relevant for your use. You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you usually can modify your browser setting to decline cookies if you prefer. If you choose to accept cookies, you also have the ability to later delete cookies that you have accepted. In Internet Explorer 8, you can delete cookies by selecting “Tools”, “Delete browsing history”. Then select the control box “Cookies” and click the “Delete” button. If you choose to delete cookies, any settings and preferences controlled by those cookies, including advertising preferences, will be deleted and may need to be recreated.
+
+Please be advised that the practices described in this Privacy Policy apply to Personal Information gathered over the telephone by our Senior Living Advisors, online at our Sites, Personal Information that you may submit to us offline during the course of our dealings with you, Web sites maintained by other companies, or organizations to which we may link, and to Personal Information we may collect further from third parties.
+
+**USE OF PERSONAL INFORMATION**
+
+**FOR THE PURPOSE OF FINDING SENIOR LIVING CARE SERVICES**
+
+We use Personal Information to provide you with the services you have requested from us and to provide services to the senior living and care providers who have contracted with us (“ **Participating Communities** “) by signing our Referral/Commission Agreement for Information Services (“ **Referral & Commission Agreement**“) and agreeing to be part of our referral information service program in relation to the services that we provide you. Based on the Personal Information that we have collected, we will provide you with the information about one or more of our Participating Communities whom we identify as options for your consideration. The Participating Communities then may contact you directly regarding their facilities or services. We will work with both you and the Participating Communities in your search.
+
+We may share Personal Information with one or more third parties with whom we have contracted to provide services to us. Our contracts with these parties specify the purpose(s) for which Personal Information has been shared with them and the limited purpose(s) for which the Personal Information may be used by them. Our contracts with these parties also require that they implement privacy and security practices and procedures comparable to, or at least as stringent as those implemented by us, that they do not disclose Personal Information to any other third party, and that they comply with all applicable laws, including privacy laws.
+
+**FOR THE PURPOSE OF INTERNAL BUSINESS ANALYSIS AND OPERATIONS**
+
+We may use Personal Information for our own internal statistical, design or operational purposes, such as to estimate our audience size, measure aggregate traffic patterns, and understand demographic trends among our users.
+
+**DISCLOSURE OF PERSONAL INFORMATION**
+
+We require your permission and authorization to disclose Personal Information for the purpose of providing our senior living and care referral information service, and we will not disclose this information to anyone unless (a) you (or an individual authorized to act on your behalf) have consented to this disclosure; or (b) such disclosure is permitted or required by law.
+
+**FOR THE PURPOSE OF FINDING SENIOR LIVING CARE SERVICES**
+
+In order to assist you with finding information about senior living care services, we may disclose Personal Information about you to other people and for the purposes specified below:
+
+  * **Participating Communities.** We may disclose Personal Information to one or more Participating Communities so that the Participating Communities may learn about the specific senior living care services that you are seeking and determine how they can assist you. Participating Communities may contact you directly by email, telephone, regular mail, in person visits or other means, based on your preference and as specified by you to the Senior Living Advisor during the initial collection of your Personal Information. We do not control how these Participating Communities use or disclose your Personal Information, however as per our Referral & Commission Agreement with each Participating Community, each Participating Community has agreed to limit its use of your Personal Information to (a) its own internal evaluation of potential residents; and (b) providing senior living and/or care services to such residents. Under the Referral & Commission Agreement, each Participating Community has also agreed to implement privacy and security practices and procedures comparable to, or at least as stringent as those implemented by us and not to disclose Personal Information to any third party.
+  * We may disclose some or all of your Personal Information with our Parent, subsidiaries, joint ventures, or other companies under common control with us, in which case we will require them to honour this Privacy Policy.
+
+
+
+**OTHER RELATED PURPOSES**
+
+  * **Legal and Other Compliance.** We may disclose Personal Information when we believe it is appropriate to comply with the law; to enforce or apply this Privacy Policy or our other policies or agreements; to protect our or our users’ rights, property or safety; to protect our users from fraudulent, abusive or unlawful use of, our Sites; or if we reasonably believe that an emergency involving immediate danger of death or serious physical injury to any person requires disclosure of communications or justifies disclosure of records without delay.
+  * **Business Transfers.** We may disclose Personal Information as part of any merger, acquisition, debt financing, sale of company assets or other business transaction. Any Personal Information disclosed as a result will be subject to privacy protection comparable and at least as stringent as that employed by us.
+
+
+
+**LINKS TO THIRD PARTIES**
+
+Please be advised that we may provide links to third party Web sites from our Sites as a service to our users, but we have no ability to control, and are not responsible for, the privacy and data collection, use, and disclosure practices of such sites and the privacy policies of such Web sites may differ from the Sites. Therefore, we encourage you to review and understand the privacy policies of such Web sites before providing them with any information. These other Web sites also may send their own cookies to you, collect your data or solicit your Personal Information. Always be aware of where you end up.
+
+**SECURITY**
+
+We use reasonable security measures to store and maintain Personal Information to protect it from theft, loss, misuse, alteration or destruction by any unauthorized party while it is under our control. Please note that while we will make reasonable efforts to protect Personal Information, no transmission of data over the Internet is 100% secure. All Internet users should take care with how they handle and disclose their personal information. For some examples and information on protecting yourself from identity theft, please refer to the Office of the Privacy Commission of Canada’s Web site at <http://www.priv.gc.ca/resource/topic-sujet/itf-vif/index_e.asp> and the United States Federal Trade Commission’s Web site at <http://www.ftc.gov/bcp/menus/consumer/data.shtm>
+
+**THIRD PARTY ADVERTISING COMPANIES**
+
+Third party advertisers or ad networks may use cookies or other technologies on our Sites for various purposes, including measuring the effectiveness of their ads and analyzing and personalizing ads or other content delivered to you. We have no ability to control the privacy and data collection, use, and disclosure practices of such Web sites and the privacy policies of such Web sites may differ from the Sites. Therefore, we encourage you to review and understand the privacy policies of such Web sites before providing them with any information.
+
+**RECORDED TELEPHONE COMMUNICATIONS**
+
+Telephone communications between You and APFM may be recorded or monitored for quality control purposes. By filling out any forms on the Sites or by providing information to us, you expressly consent to the recording of these telephone communications.
+
+**CONSENT TO AUTOMATIC TELEPHONE DIALING SYSTEM**
+
+You agree to be contacted by Us, one of our third party providers, one of the senior living communities or care providers, or one of our affiliates to explore options at the telephone number you have provided. You agree we, our third party providers, the senior living communities or care providers, or our affiliates may use automatic telephone dialing systems and technology to contact you by call or text message at the telephone number provided, even if you previously registered on a Do Not Call registry.
+
+**CHILDREN**
+
+We do not intend, and these Sites are not designed, to collect Personal Information from children under the age of 13. If you are under 13 years old, you should not register for our services or otherwise provide information on our Sites.
+
+**QUESTIONS AND CONCERNS**
+
+If you have any questions or concerns about this Privacy Policy or the privacy practices of our Sites, please contact us at [privacy@aplaceformom.com](mailto:privacy@aplaceformom.com) or call us at 866-333-8445.
+
+**GOVERNING LAW**
+
+The Sites are published in Canada and the United States. We attempt to comply with local data protection, privacy and consumer rights laws to the extent they may apply to our services. If you are uncertain whether this Privacy Policy conflicts with the applicable local privacy laws where you are located, you should not submit your Personal Information to the Sites.
+
+**CHANGES IN THIS PRIVACY POLICY**
+
+As our Sites continue to develop, we may add new services and features to our Sites. In the event that these additions affect our Privacy Policy, this Privacy Policy will be updated appropriately, and we encourage you to check the date of our Privacy Policy whenever you visit the Sites to determine if it has been modified since your last visit. We will post changes prominently so that you will know what Personal Information we gather, how we might use that Personal Information, and whether we will disclose it to anyone. We, however, recommend that you read this Privacy Policy each time you use our Sites in case you missed our notice of changes to the Privacy Policy. We will not materially change our policies and practices to make them less protective of Personal Information we have previously collected without your express consent.
+
+**ACCESS TO YOUR PERSONAL INFORMATION**
+
+Upon written request, you may access your Personal Information that is in our possession and request a correction or update of any such information.
+
+**ACKNOWLEDGEMENT AND AUTHORIZATION**
+
+You confirm that you are:
+
+  * a) a senior seeking living and care services for yourself; or
+  * b) an individual authorized to act on behalf of a senior seeking living and care services and possess legal documents such as a Power of Attorney or Guardianship or hold other proof of being the substitute decision maker of the senior seeking living and care services.
+
+
+
+**YOUR CONSENT TO THE COLLECTION, USE AND DISCLOSURE OF PERSONAL INFORMATION**
+
+You confirm that you have read and understood this Privacy Policy and that you consent to the collection, use and disclosure of your Personal Information in accordance with the terms and conditions of this Privacy Policy.
