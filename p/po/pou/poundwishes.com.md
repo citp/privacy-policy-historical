@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the poundwishes.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325061816id_/http%3A//poundwishes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poundwishes.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209091551id_/https%3A//poundwishes.com/privacy-policy) for the most accurate reproduction.*
 
-# PoundWishes: Privacy Policy
+# Privacy Policy
 
 Your privacy is important to PoundWishes.com.  This privacy statement provides information about the personal information that PoundWishes.com collects, and the ways in which PoundWishes.com uses that personal information. 
 
