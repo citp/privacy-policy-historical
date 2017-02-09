@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the pacermonitor.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430190128id_/https%3A//www.pacermonitor.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacermonitor.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210001112id_/https%3A//www.pacermonitor.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+  
+
 
 PacerMonitor, LLC ("We", "Us", or the "Company") respects the privacy rights of our users and knows that you care how information about you is used and shared. This notice describes the privacy policy for our website, PacerMonitor.com (the "Site") and is part of our Terms of Service. By using the Site, you agree to the terms of this Privacy Policy and the Terms of Service.
 
