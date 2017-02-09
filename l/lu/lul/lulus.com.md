@@ -1,12 +1,8 @@
-> *The following text is extracted and transformed from the lulus.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012258id_/http%3A//www.lulus.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lulus.com privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209222151id_/https%3A//www.lulus.com/customer-service/privacy-policy.html) for the most accurate reproduction.*
 
 # Contact Us About Your Trendy Dress, Shoes, or Accessories
 
-[](http://www.lulus.com/promotion/blackfriday)
-
-##  Customer Service 
-
-### Lulus Privacy Policy
+###  Customer Service 
 
 Effective September 1, 2016
 
@@ -86,18 +82,42 @@ We're just a call or click away! Look great,
 feel great... we've got you covered! XOXO  
 5am - 9pm PT, 7 days a week 
 
+#### Stylist Chat
+
+Want styling tips?   
+We've got them!
+
+Sorry, chat is currently offline.   
+Please try sending us an [email](mailto:love@lulus.com)!
+
+#### Live Chat
+
+Need help? Let us  
+answer your questions!
+
+Sorry, chat is currently offline.   
+Please try sending us an [email](mailto:love@lulus.com)!
+
 X
 
 Enter your e-mail address below and we'll send you an e-mail message containing your new password.
 
-## You're now part of the Lulus community!
+Welcome
 
-[Start Shopping](http://www.lulus.com/whats-new.html)   
-[View My Account](http://www.lulus.com/myaccount)
+You're now part of the Lulus community!
+
+[Start Shopping](https://www.lulus.com/whats-new.html)   
+[View My Account](https://www.lulus.com/myaccount)
 
 X
 
+Thanks for signing up!
+
 Your % off promo code is:    
 Check your inbox to start enjoying the perks!
+
+Hey Lucky!
+
+You've already signed up!
 
 We've got this email on our list for awesome offers and exclusive discounts. 
