@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathlearningcenter.org privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129115843id_/http%3A//www.mathlearningcenter.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathlearningcenter.org privacy policy that was archived on 2017-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170209081353id_/https%3A//www.mathlearningcenter.org/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | The Math Learning Center
 
@@ -80,25 +80,25 @@ We use commercially reasonable physical, electronic, and managerial security mea
 
 **How to Stop Marketing Communications**
 
-If you choose to provide us with your contact information, we may contact you with offers for products and services that may be of interest to you. With each such offer, you will be given the opportunity to opt-out of receiving future marketing notices. You may also opt-out of receiving future marketing notices by contacting us at [MLCinfo@mathlearningcenter.org](mailto:MLCinfo@mathlearningcenter.org "Stop Marketing Communications"). If you request that we not contact you for marketing purposes (either by using the unsubscribe mechanism or by sending us an email), we reserve the right to contact you for non-marketing purposes relating to your use of the Website or purchase of our products.
+If you choose to provide us with your contact information, we may contact you with offers for products and services that may be of interest to you. With each such offer, you will be given the opportunity to opt-out of receiving future marketing notices. You may also opt-out of receiving future marketing notices by contacting us at [ MLCinfo@mathlearningcenter.org ](mailto:MLCinfo@mathlearningcenter.org "Stop Marketing Communications") . If you request that we not contact you for marketing purposes (either by using the unsubscribe mechanism or by sending us an email), we reserve the right to contact you for non-marketing purposes relating to your use of the Website or purchase of our products.
 
-**Updating & Correcting Personal Information**
+**Updating & Correcting Personal Information **
 
 If you have given us Personally Identifiable Information through our Website (such as by completing a form on our Website) or if you have given us Personally Identifiable Information by submitting a product order to us, you may update or change your Personally Identifiable Information by sending an email request to [MLCinfo@mathlearningcenter.org](mailto:MLCinfo@mathlearningcenter.org).
 
 If you request that your Personally Identifiable Information be changed or deleted from our databases, we will use commercially reasonable efforts to remove your Personally Identifiable Information from our databases, but see the section entitled “Retention and Storage” below regarding why we may still maintain some information.
 
-**Retention & Storage**
+**Retention & Storage **
 
 We may retain Personally Identifiable Information and Automatically Collected Information in our databases until you ask us to remove your information from our databases, unless applicable laws require otherwise. Note that even after you ask us to remove your information from our databases, it may be impossible to remove some information, such as information tracked in our web server log files and information that may reside in backup files. We may also retain Automatically Collected Information even after you request that we remove your information from our databases, for use in the aggregate and to analyze and improve the Website. Further, even after you request that we remove your information from our databases, we may retain Personally Identifiable Information and Automatically Collected Information to comply with any applicable law, rule, regulation, or guideline; to prevent fraudulent activity; to protect ourselves against liability; and to allow us to enforce our contractual or other rights and to pursue available remedies and limit any damages we may sustain.
 
-**Links to Third-Party Websites, Products & Services**
+**Links to Third-Party Websites, Products & Services **
 
 This Privacy Statement applies only to the Personally Identifiable Information and Automatically Collected Information collected through the Website. The Website may contain links to other websites (“Linked Sites”), products, and services that are not owned or controlled by us. We are not responsible for and have not reviewed the privacy practices of the Linked Sites, or the owners or operators of the Linked Sites, products, or services. The owners and operators of the Linked Sites, products, or services may have their own policies regarding privacy and security. You should review any Linked Sites, products, or services for their own privacy practices to determine what information about you may be collected and used when you use such Linked Sites, products, or services.
 
-**Login Areas of Websites**
+**MLC Login Areas**
 
-You may see areas of the Websites where one can log into the Websites by providing a username or email and password. These areas are reserved solely for use by MLC employees and independent contractors. You will not be able to log into these areas because you do not have accounts with authorized usernames and passwords. Please do not attempt to log into these areas of the Websites.
+You may see areas of the Websites where one can log into the Websites by providing a username or email and password. Areas such as these labeled “MLC Login” are reserved solely for use by MLC employees and independent contractors. You will not be able to log into these areas because you do not have accounts with authorized usernames and passwords. Please do not attempt to log into these areas of the Websites.
 
 **Severability**
 
@@ -106,4 +106,4 @@ If any part of this Privacy Statement is determined to be invalid or unenforceab
 
 **Contact Us**
 
-If you have any comments or questions about this Privacy Statement or the use of your Personally Identifiable Information and Automatically Collected Information, please [contact us.](http://www.mathlearningcenter.org/about/contact "Contact Us")
+If you have any comments or questions about this Privacy Statement or the use of your Personally Identifiable Information and Automatically Collected Information, please [ contact us. ](http://www.mathlearningcenter.org/about/contact "Contact Us")
