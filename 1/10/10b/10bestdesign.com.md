@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the 10bestdesign.com privacy policy that was archived on 2016-09-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160904093853id_/http%3A//www.10bestdesign.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 10bestdesign.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210220028id_/https%3A//10bestdesign.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | 10 Best Designs | 10BD
+# Privacy | 10 Best Design | 10BD
 
 **What information do we collect?**
 
@@ -72,7 +72,9 @@ This policy was last modified on 09/09/2014
 
 http://www.10bestdesign.com/contact/
 
-  * [Home](http://www.10bestdesign.com/) /
-  * [Privacy Policy](http://www.10bestdesign.com/privacy/)
-
+[
+  * Home
+](http://www.10bestdesign.com/) [
+  * Privacy Policy
+](http://www.10bestdesign.com/privacy/) 
 
