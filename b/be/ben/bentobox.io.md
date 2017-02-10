@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bentobox.io privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309180353id_/https%3A//bento.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bentobox.io privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210052304id_/https%3A//bento.io/privacy) for the most accurate reproduction.*
 
-# Bento | Privacy Policy
+# Bento - Learn to code and be a self-taught expert programmer
 
-This Privacy Policy governs the manner in which Bento collects, uses, maintains and discloses information collected from users (each, a "User") of the https://www.bento.io/ website ("Site"). This privacy policy applies to the Site and all products and services offered by Bento.
+This Privacy Policy governs the manner in which Bento collects, uses, maintains and discloses information collected from users (each, a "User") of the https://bento.io/ website ("Site"). This privacy policy applies to the Site and all products and services offered by Bento.
 
 ## Personal identification information
 
@@ -55,4 +55,4 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [info@bento.io](mailto:info@bento.io).
 
-This document was last updated on October 26, 2014
+This document was last updated on October 11, 2016
