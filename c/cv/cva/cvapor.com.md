@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cvapor.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122122757id_/http%3A//www.cvapor.com/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cvapor.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210061437id_/https%3A//www.cvapor.com/security-and-privacy) for the most accurate reproduction.*
 
 # Security and Privacy - Cvapor.com
 
