@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperisland.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017044438id_/https%3A//www.hyperisland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperisland.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210220141id_/https%3A//www.hyperisland.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Hyper Island
 
@@ -42,7 +42,25 @@ We also log account and transaction history for accounting purposes, and to moni
 
 ## Data finding
 
-Hyper Island makes use of various 3rd party APIs to collect information about websites in for example Hubspot and Hotjar reports. 
+Hyper Island makes use of various 3rd party APIs to collect information about websites in for example Hubspot and Hotjar reports.
+
+__hstc The main cookie for tracking visitors. It contains: the domain, utk (see below), initial timestamp (first visit), last timestamp (last visit), current timestamp (this visit), and session number (increments for each subsequent session) (Expires: 2 years)
+
+hubspotutk This cookie is used for to keep track of a visitor's identity. This cookie is passed to HubSpot on form submission and used when deduplicating contacts. (Expires: 10 years)
+
+_ _hssc Cookie for keeping track of sessions. This is used to determine if we should increment the session number and timestamps in the __ hstc cookie. It contains: the domain, viewCount (increments each pageView in a session), session start timestamp. (Expires: 30 min)
+
+__hssrc Whenever HubSpot changes the session cookie, this cookie is also set. We set it simply to the value "1", and use it to determine if the user has restarted their browser. If this cookie does not exist when we manage cookies, we assume it is a new session. (Expires: None. Session cookie)
+
+_ _hs_ opt_out This cookie is used by the opt-in privacy policy to remember not to ask the user to accept cookies again. This cookie is set when you give users the choice to opt out of cookies. (Expires: 2 years)
+
+_ _hs_ do _not_ track This cookie is set when you give users the choice to opt out of cookies and they choose to do so. It disables tracking and personalization. (Expires: 2 years)
+
+_ _hs_ testcookie This cookie used to test whether the visitor has support for cookies enabled. (Expires: Session cookie)
+
+hsPagesViewedThisSession This cookie used to keep track of page views in a session. (Expires: Session cookie)
+
+hsfirstvisit This cookie used to keep track of a user's first visit. (Expires: 10 years)
 
 We may send you email notifications regarding your service (such as invoices) or which you have specifically requested (such as newsletters or notifications when a course is starting). You have the ability to opt out of any of this communication at any time.
 
