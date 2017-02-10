@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114181120id_/https%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crosscountrytrains.co.uk privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210083339id_/https%3A//www.crosscountrytrains.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CrossCountry
 
-## At CrossCountry, we're committed to protecting and respecting your privacy.
+## At CrossCountry, we're committed to protecting and respecting your privacy...
 
 This policy outlines the personal data we collect from you, or that you provide to us and how we will process it. Please read it carefully as it should help you understand how we collect and use your personal information.
 
@@ -63,4 +63,4 @@ You can unsubscribe at any time from our e-mails by simply clicking on the unsub
 
 ## Further information
 
-Useful information about cookies can be found in our [Cookie policy](https://web.archive.org/cookie-policy "Cookie policy") page.
+Useful information about cookies can be found in our [Cookie policy](https://web.archive.org/cookie-policy "Cookie policy") page
