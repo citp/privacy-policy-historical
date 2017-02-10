@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nakedsword.com privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531001817id_/http%3A//www.nakedsword.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nakedsword.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210153509id_/https%3A//nakedsword.com/privacy) for the most accurate reproduction.*
 
-# Privacy | NakedSword.com: The Best Gay Porn Movies Online
+# NakedSword.com | Privacy
 
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our every page of our site. 
 
@@ -16,4 +16,4 @@ You can correct factual errors in your personally identifiable information by se
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
 
-Should you have other questions or concerns about these privacy policies, please call us at 888.207.4534 or send us an email at [support@adultpaysitesupport.com](mailto:support@adultpaysitesupport.com). 
+Should you have other questions or concerns about these privacy policies, please call us at 888.207.4534 or send us an email at [support@adultpaysitesupport.com](mailto:ssupport@adultpaysitesupport.com). 
