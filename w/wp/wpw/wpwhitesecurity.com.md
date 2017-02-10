@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wpwhitesecurity.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314091724id_/http%3A//www.wpwhitesecurity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpwhitesecurity.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210022736id_/http%3A//www.wpwhitesecurity.com/privacy-policy) for the most accurate reproduction.*
 
 # WP White Security Privacy Policy
 
@@ -42,4 +42,4 @@ If you have any questions about this privacy policy, the practices of this websi
 
 It is our policy to post any changes we make to our Privacy Policy on this page. It is your responsibility to check this page from time to time to check for any change.
 
-_This privacy policy has last been updated on 13th August 2014._
+ _This privacy policy has last been updated on 13th August 2014._
