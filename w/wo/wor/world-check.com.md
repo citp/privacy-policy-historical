@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the world-check.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429124645id_/http%3A//thomsonreuters.com/site/financial-risk-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the world-check.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210233600id_/https%3A//risk.thomsonreuters.com/en/privacy-statement.html) for the most accurate reproduction.*
 
-# Privacy Statement | Thomson Reuters
+# Privacy Statement | Risk Management Solutions | Thomson Reuters
 
-**  
-What personal information does Thomson Reuters collect and how do we use it?**
+**What personal information does Thomson Reuters collect and how do we use it?**
 
 We collect information about individuals, users and professional's in a variety of ways: including but not limited to: direct from the individuals (for example, when ordering a product, registering an account, using a product, or signing up for a newsletter), from your employer, publicly available information, and through cookies, and/or similar technology. We use the information primarily to provide you with a personalized experience that delivers the information, resources, and services that are most relevant and helpful to you. We don't share any of the information you provide with others, unless we say so in this Privacy Statement, or when we believe in good faith that the law requires it.
 
@@ -75,10 +74,7 @@ We respect your right to choose whether or not to accept cookies and clear gifs.
 
 If you wish to find out more about cookies and clear gifs, you may like to visit [www.allaboutcookies.org](http://www.allaboutcookies.org/ "www.allaboutcookies.org"), an independent third party resource that explains what cookies and clear gifs are and how you may manage them. Please note that we are not responsible for, and have no control over, the content of this third party website.
 
-Back to Top
-
-[](https://web.archive.org/web/20160426074741id_/http://financial.thomsonreuters.com/en/how-tr-protects)**  
-How does Thomson Reuters Financial & Risk protect the personal information that it collects?**
+**How does Thomson Reuters Financial & Risk protect the personal information that it collects?**
 
 We have implemented certain appropriate security measures to help protect your personal information from accidental loss and from unauthorized access, use, or disclosure. For example, some of our products and/or websites are protected with Secure Sockets Layer (SSL) technology. Also, we store the information about you in a data center with restricted access and appropriate monitoring, and we use a variety of technical security measures to secure your data. In addition, we use intrusion detection and virus protection software.
 
