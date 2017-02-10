@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the downloadbestsoft.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518210940id_/http%3A//www.fosshub.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the downloadbestsoft.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210064645id_/https%3A//www.fosshub.com/privacy.html) for the most accurate reproduction.*
 
 # FossHub - Privacy Policy
 
