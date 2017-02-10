@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cybo.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717175739id_/https%3A//yellowpages.cybo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cybo.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210042940id_/https%3A//yellowpages.cybo.com/privacy) for the most accurate reproduction.*
 
 # Cybo - Privacy Policy
 
@@ -28,6 +28,8 @@
 
 · Google provides a way to opt out: [prevent your data from being used](https://tools.google.com/dlpage/gaoptout) by Google Analytics.
 
+· We use various Google services or API's (e.g. Google Maps API). Here is a reference to the [Google Privacy Policy](https://www.google.com/policies/privacy/).
+
 · The Site is intended for general audiences and is not directed to children under 13 years old. If you post content for public view on the Site, we may distribute such Public Content to a wider audience by sharing it with third parties.
 
 · We are a US website designed and intended for US audiences.
@@ -46,5 +48,7 @@ United States
 * * *
 
 Thank you for your interest in Cybo.
+
+ 
 
 Follow us to stay updated with new changes on the site.
