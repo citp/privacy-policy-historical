@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avon.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015193649id_/https%3A//www.youravon.com/us-home/other-content/privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avon.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210094826id_/https%3A//www.youravon.com/us-home/other-content/privacystatement) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -144,7 +144,7 @@ We will retain your Personal Information for the period necessary to fulfill the
 
 USE OF SITE BY CHILDREN 
 
-The Site is not directed to individuals under the age of fourteen (13), and we request that these individuals not provide Personal Information through the Site.
+The Site is not directed to individuals under the age of thirteen (13), and we request that these individuals not provide Personal Information through the Site.
 
 CROSS-BORDER TRANSFER 
 
@@ -168,7 +168,8 @@ If you seek to become a New Avon Representative we may collect and use your Pers
 
 In order to be appointed a New Avon Representative, you may be required to enter into a separate agreement with New Avon ("Representative Agreement"). If you have entered into a Representative Agreement, we may collect, use and disclose your Personal Information in accordance with this Privacy Statement and the terms of your "Representative Agreement." We also may collect, use and disclose your Personal Information as necessary to fulfill our obligations under the Representative Agreement. In the event of a conflict between this Privacy Statement and the Representative Agreement, the terms of the Representative Agreement shall apply. Once you are an New Avon Representative (including a sales leader), we may disclose your Personal Information:
 
-  * district managers, area sales managers or their equivalent, who may be independent contractors to New Avon; 
+  * district managers, area sales managers or their equivalent, who may be independent contractors to New Avon;
+
   * as part of our sales leadership program, to Independent Sales Representatives who are sales leaders;
 
   * to current and potential customers who are seeking the assistance of an New Avon Representative; and
@@ -180,4 +181,4 @@ In order to be appointed a New Avon Representative, you may be required to enter
 
 We may also combine the Non-Personal Information that we and our third-party service providers collect about your use of our Site (as described above) with your unique Representative account number. We may use the combined information for purposes such as to analyze Independent Sales Representatives' use of our Sites, in order to evaluate and make improvements to our business model, and for other internal analytics purposes.
 
-This Statement ©2016 New Avon LLC All rights reserved.
+This Statement ©2017 New Avon LLC All rights reserved.
