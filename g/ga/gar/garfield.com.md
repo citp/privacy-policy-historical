@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326002856id_/http%3A//garfield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garfield.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210121118id_/https%3A//garfield.com/privacy-policy) for the most accurate reproduction.*
 
-# Garfield & Friends
+# Garfield | Privacy Policy
 
 Because you are SO SPECIAL, we have assembled privacy experts from around the globe to devise the MOST PRIVATE PRIVACY STATEMENT ever created. It is so private that NO ONE KNOWS WHAT IT IS!! And we're going to keep it that way BY NOT TELLING YOU, EITHER!
 
