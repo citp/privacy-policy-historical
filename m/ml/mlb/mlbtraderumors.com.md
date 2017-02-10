@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119010451id_/http%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mlbtraderumors.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210100015id_/https%3A//www.mlbtraderumors.com/2007/08/mlbtraderumorsc.html) for the most accurate reproduction.*
 
 # MLBTradeRumors.com Privacy Policy - MLB Trade Rumors
 
