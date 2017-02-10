@@ -1,70 +1,192 @@
-> *The following text is extracted and transformed from the pioneerdj.com privacy policy that was archived on 2008-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20080509074527id_/http%3A//www.coldstonecreamery.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pioneerdj.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210232656id_/https%3A//www.pioneerdj.com/en/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# privacy policy - Pioneer DJ - Global
 
-## COLD STONE CREAMERY'S PRIVACY POLICY
+**Last Updated:** 16 November, 2016 ("Effective Date")
 
-COLD STONE CREAMERY® is committed to protecting your privacy and security online. We at COLD STONE CREAMERY strive to do everything we can to respect the trust customers have in our brand and our commitment to your privacy is no exception. We are committed to protecting and safeguarding consumer privacy on the Internet, especially for children, and use our best efforts to protect the privacy of visitors to this web site.
+This website Privacy Policy is brought to you by Pioneer DJ Corporation. We take the privacy of our website users very seriously. We ask that you read this Privacy Policy carefully as it contains important information about how we will use your personal data.
 
-Please read the following Statement so that you will fully understand how your personal information will be treated as you use the COLD STONE CREAMERY web site. This Privacy Statement outlines our personal information handling practices. Wherever COLD STONE CREAMERY collects personal information we will provide a link to this Privacy Statement located generally at the bottom of the page of the web site. Once you choose to provide us with personally identifiable information (any information by which you can be identified), you can be assured that it will only be used in accordance with the terms of our Privacy Statement.
+Pioneer DJ Corporation, ("we" or "us") is the "data controller" (ie the company who is responsible for, and controls the processing of, your personal data).
 
-By providing COLD STONE CREAMERY with your personal information, you signify that you agree with the terms of our current Privacy Statement as posted here. If you do not agree with any term in this Statement, please do not provide any personal information. However, if you choose not to provide your personal information, you may not be able to access particular areas of our website, order certificates, obtain franchise information, enter contests, request samples, or send us e-mail.
+As we are based outside the European Economic Area, we have nominated the following representative:
 
-## What kind of personally identifiable information do we collect, and who is collecting it?
+Pioneer DJ Europe Ltd, Anteros Building, Odyssey Business Park, West End Road, South Ruislip, Middlesex, HA4 6QQ, United Kingdom. Telephone number [+44 (0)203 761 7220](tel:00442037617220)
 
-COLD STONE CREAMERY only gathers personal information when voluntarily submitted by you. If you request information from COLD STONE CREAMERY, or wish to share an experience you had at one of our franchise stores, we'll ask for personal information such as your name, address, and email address, as well as store address and any other information you may wish to share, so that we can best respond to your comments. This information will help us to better customize The Ultimate Ice Cream Experience® at COLD STONE CREAMERY. Additionally, if you contact COLD STONE CREAMERY, we may keep a record of that correspondence.
+This Privacy Policy applies to the information that we obtain through your use of Pioneer DJ website including any microsites (Each, "Website," and collectively, "Websites"), mobile app, and associated web-based services (collectively "Services"). Your privacy matters to us so please take the time to familiarize yourself with our policies and the ways in which you can protect your privacy. If you have any questions, please contact us at [privacy@pioneerdj.com](mailto:privacy@pioneerdj.com). This policy is incorporated into and is subject to the Terms of Service Agreement and License Agreement [kuvo.com](http://kuvo.com/terms/)
 
-When you access certain areas of the COLD STONE CREAMERY web site, such as when you create a My Cold Stone account or purchase gift certificates, we will ask you for your registration or log in information. Such information can include your name, e-mail address, residence or billing addresses, product preferences, and credit card information (for online purchases). Other areas of the COLD STONE CREAMERY web site can include requests for information for prospective franchisees and vendors. These areas can include requests not only for the above type of information, but also requests for certain financial, credit and other sensitive personal information deemed necessary to evaluate your potential as a franchisee or vendor.
+This Privacy Policy does not apply to information collected by us offline or through any other means; or by any third party, including through any third party content (i.e. advertising that may link or be accessible from or on the Services).
 
-From time to time we and/or our partners will offer information for prospective franchisees, sponsor contests, sweepstakes, and special services that will require more information. COLD STONE CREAMERY partners or web sites that have links on our site may collect personal information about you. Please be aware that the information collected by these partners or websites is not covered under this Privacy Statement.
+### Information We Collect
 
-As part of customizing and personalizing your service, COLD STONE CREAMERY uses cookies to store and sometimes track information about you. A cookie is a small amount of information that is sent to your browser from a web server and stored on your computer's hard drive. The cookie stores information and is sent when you register or sign in. Cookies enable you to automatically log into your My Cold Stone account when you visit the site. We also use Cookies to track your use and the number of entries in our promotions, sweepstakes, and contests. Cookies also help us to estimate the size of our audience and measure traffic patterns. Additionally, our partners may also use their own cookies. Use the options in your web browser if you do not wish to receive a cookie or if you wish to set your browser to notify you when you receive a cookie. Click on the "Help" section of your browser to learn how to change your cookie preferences. If you disable all cookies, you may not be able to take advantage of all the features of this web site.
+#### Information you provide to us
 
-COLD STONE CREAMERY may also collect certain aggregate information about you and your use of our web site whenever you visit, such as various forms of "click stream" information including URLs or domains, site traffic statistics and origination information, page views, impressions, and operating system and browser types. In addition, COLD STONE CREAMERY servers automatically log your IP address when you request pages on our web site. This aggregate information generally will not personally identify you or be correlated to you individually for external purposes. COLD STONE CREAMERY may collect, compile, store, publish, promote, report, sell, or otherwise disclose or use any and all of the aggregate information, provided that, such information does not personally identify you, and the aggregate information will not be used by other companies to contact you.
+We collect the following information:
 
-## How do we use the information we get, and with whom may it be shared?
+##### Account and Profile Information
 
-COLD STONE CREAMERY collects information in order to provide our users with personalized and customized service. We will often use the information we collect to notify you of important functionality changes to COLD STONE CREAMERY, new services, and special offers or contests that we think you'll find valuable. COLD STONE CREAMERY researches our user demographics and interests based upon the information that you provide. We do this to better customize your experience, The Ultimate Ice Cream Experience®, and we may share this research with our partners.
+We collect information about you when you register for an account and create or modify your profile on the Services. Information we collect may include your account name, username, email address, birth year, password, profile photo, and whether you are a DJ. We also collect information you choose to include in your biography and news updates on your profile. For clubs, we also collect address and phone number.
 
-COLD STONE CREAMERY may share personal information within the COLD STONE CREAMERY family, including the Corporation, our franchisees, our subsidiaries and our affiliates. Of course, any use of this information by the COLD STONE CREAMERY family will comply with this policy. Occasionally, with your permission, we will send marketing information to you, such as discount coupons, information about new product offerings, etc. Further, with your permission, we will, on occasion send marketing information on behalf of one of our business partners about products or services they provide that may be of interest to you. You may be asked if you wish to receive marketing materials from COLD STONE CREAMERY business partners. If you elect to receive such materials, COLD STONE CREAMERY will not share your personal information with such partners but rather will send a mailing or email on behalf of the partners. If you do not elect to receive such materials, please contact us at [service@coldstonecreamery.com](mailto:customerrelations@coldstonecreamery.com) and we will not send them to you.
+##### Content
 
-Contests and promotions may be sponsored by companies other than COLD STONE CREAMERY or may be co-sponsored by COLD STONE CREAMERY and one of our partners. Our promotions, contests, and sweepstakes may often request additional information from sponsors. Some of the data collected may be shared with that partner or sponsor. When you request information, you give COLD STONE CREAMERY the permission to transfer your information to the sponsor so that they may answer your request. If you would rather not receive such information or have such information shared, please contact us at [service@coldstonecreamery.com](mailto:customerrelations@coldstonecreamery.com). If you have more than one COLD STONE CREAMERY account, make sure you change your preferences for each account or e-mail name you have with us.
+Our mobile app allows you to take photos. These photos are stored on your mobile device and not transferred to or stored by us in any other locations. If you are a DJ, we also receive information about the tracks you play using our product. 
 
-Companies may be engaged by COLD STONE CREAMERY to perform a variety of functions, such as, fulfilling orders, assisting with promotions, providing technical services for our web sites, etc. These companies may have access to personal information if needed to perform such functions. However, these companies may only use such personal information for the purpose of performing that function and may not use it for any other purpose.
+##### Other submissions
 
-Further, the information collected through our web site is considered a trade secret of COLD STONE CREAMERY. As the owner of such information, we may disclose or sell such information as an asset of the company in conjunction with the sale to a third party of our company or a portion of our assets.
+We collect other data that you may submit to our Services or us directly, such as when you request customer support or communicate with us via email or social media sites. 
 
-COLD STONE CREAMERY reserves the right to use or disclose any information when we have your permission or in special circumstances, such as when we have a good faith believe that such disclosure is necessary to comply with legal requirements, regulation or legal request, to protect the integrity of the site, to fulfill your requests, to cooperate in any law enforcement investigation or an investigation on a matter of public safety, or to respond to claims that any files or data violate the rights of third-parties, or protect the rights, property, or personal safety of COLD STONE CREAMERY, its users, or the public. For example, COLD STONE CREAMERY will make such disclosures necessary under the reporting procedures of the Digital Millennium Copyright Act (see the Terms of Use).
+#### Information we collect from your use of our Services
 
-## Choice/Opt-Out
+##### Usage Data, Web Logs, and Analytics Information
 
-Our site provides users the opportunity to choose how information you provide to us can be used by COLD STONE CREAMERY. If you are getting promotional email from us and would like to be removed from our list, simply click the link at the bottom of any email you receive to unsubscribe. You can opt into or out of emails from us by logging into your My Cold Stone account and updating your preferences via the My Account Details page.
+We record certain information and store it in log files when you interact with our Services. We collect information about your interactions with the Service, including which clubbers, playlists, tracks, clubs, and DJs you follow or like. We also collect technical data such as internet protocol (IP) address, MAC address, or other device addresses or identifiers, as well as browser type, internet service provider, URLs of referring/exit pages, operating system, date/time stamp, and your mobile carrier. We and our analytics providers also collect and store analytics information when you use our Services to help us improve our Services. 
 
-## How does COLD STONE CREAMERY protect your information?
+##### Location Information
 
-When you submit any files, information, or access your account, COLD STONE CREAMERY uses a secure server. The secure server software (SSL) encrypts all the information that you provide before it is sent to us. Additionally, we take reasonable measures to prevent unauthorized access to all of your data.
+We collect and store your location information if your device and/or web browser settings are enabled to send it to us and, where required by applicable law, if you have provided prior consent. If you do not allow collection of this information, some aspects of the Services may not be available.
 
-Your COLD STONE CREAMERY account is password-protected so that only you have access to this personal information. We recommend that you do not divulge your password to anyone. COLD STONE CREAMERY will never ask you for your password in an unsolicited phone call or in an unsolicited e-mail.
+##### Cookies and Other Tracking Technologies
 
-Unfortunately, no data transmission can ever be 100% secure. While we try to protect your personal information, we cannot ensure or warrant the security of the personal information that your transmit. You transmit such information at your own risk. Once we receive such information we will use our best efforts to maintain security on our system.
+We use various technologies to collect information, including cookies that we save to your computer or mobile device. Cookies are small data files stored on your hard drive or in device memory. We use cookies to improve and customize our Services and your experience; to allow you to access and use the Services without re-entering your username or password; and to count visits and understand which areas and features of the Services are most popular. We may also associate the information we store in cookies with information you submit while on our Services. You can instruct your browser, by changing its options, to stop accepting cookies or to prompt you before accepting a cookie from websites you visit. If you do not accept cookies, however, you may not be able to use all aspects of our Services. Please also see our [Cookies Policy](https://web.archive.org/en/company/cookie-policy/). Anonymous session information is collected and analyzed by Google Inc. using Google Analytics. For more information about google, Google's use of cookies, and Google's privacy practice, please click here: [www.google.com/intl/en/policies/privacy](https://www.google.com/intl/en/policies/privacy/)
 
-## How do we address the privacy of children?
+#### Information we collect from other sources
 
-COLD STONE CREAMERY is committed to protecting the online privacy of children and making the Internet safe for our users. For this reason, COLD STONE CREAMERY does not collect personal information from children under 13. Children 12 years old and younger may visit the COLD STONE CREAMERY web site under the supervision of a parent or guardian without disclosing any personally identifiable information. However, it is sometimes necessary to collect some personally identifiable information about children in order to allow them to use some features of our site (like joining the COLD STONE CREAMERY Birthday Club). Only a parent or guardian may register a child 12 or younger for the COLD STONE CREAMERY Birthday Club. When a parent registers a child for the Birthday Club, we request the child's name, date of birth, gender, and parent's e-mail address. We collect this information in order to verify the child's age, send personalized Birthday Club e-greetings, and provide special offers to Birthday Club members. Parents may, at any time, review the information they have provided about their children or request that we delete that information from our databases by writing to [service@coldstonecreamery.com](mailto:customerrelations@coldstonecreamery.com). We will not disclose any children's information to anyone outside of the COLD STONE CREAMERY family, including the Corporation, our franchisees, our subsidiaries and our affiliates. Our subsidiaries and affiliates may need children's personal information in order to fill an order, respond to a service request, or to provide Birthday Club member services, prevent fraud, or assist us in the management and improvement of our web site. Our franchisees may need children's personal information in order to help us provide Birthday Club member services and prevent fraud. We require our subsidiaries, affiliates, and franchisees to respect our privacy practices concerning children's information and not use children's information for purposes other than to carry out our instructions. We encourage parents of children under 13 to regularly check and monitor their children's use of e-mail and other activities on line.
+##### Other Services
 
-## When do we make changes to our Privacy Statement?
+You can access or register for the Services using your account credentials for third party services (each, an "Integrated Service") such as Twitter or Facebook, or otherwise connect such Integrated Services to your account. By connecting with an Integrated Service, you authorize us to access and store your name, email address, date of birth, gender, current city, profile picture URL, comments, and other information that the Integrated Service makes available to us, and to use and disclose it in accordance with this Privacy Policy. You should review your privacy settings on each Integrated Service to understand the information sent to us through each Integrated Service. Please review each Integrated Service's terms of use and privacy policies carefully before using their services and connecting to our Services.
 
-From time to time, it may be necessary for COLD STONE CREAMERY to change this Privacy Statement, so we suggest that you check here periodically. Rest assured, however, that any changes will not be retroactively applied and will not alter how we handle previously collected information.
+##### Information from third party services:
 
-## Does COLD STONE CREAMERY allow customers to update or change their personally identifiable information?
+We may obtain information from third parties such as our partners and service providers, and combine it with other information we collect from you.
 
-Users of the COLD STONE CREAMERY web site may, at any time, review the personally identifiable information they have provided about themselves (and their family members) and make changes to that information via their My Cold Stone Account Details page. Users can also request that their My Cold Stone account be closed via the My Cold Stone Account Details page. Furthermore, users can request that COLD STONE CREAMERY delete all account information from our databases by writing to [service@coldstonecreamery.com](mailto:customerrelations@coldstonecreamery.com). We welcome your questions and comments about privacy. Please send e-mail to [service@coldstonecreamery.com](mailto:customerrelations@coldstonecreamery.com), or contact us at:
+### How We Use Information We Collect
 
-  
-**Creamery Headquarters  
-**9311 E. Via de Ventura  
-Scottsdale, AZ 85258
+We may use the information we collect for a variety of purposes, including to:
 
-480-362-4800 phone  
-480-362-4812 fax  
- 
+  * Provide, operate, maintain, improve, personalize, and promote our Services;
+  * Enable you to access and use our Services;
+  * Communicate with you, including responding to your comments, questions, and requests; providing customer service and support; providing you with information about services, including technical notices, updates, security alerts, administrative messages, or advertising or marketing messages; and providing other news or information about us;
+  * Monitor and analyze trends, usage, and activities in connection with our Services; and
+  * Investigate and prevent unauthorized access to our Services and other illegal activities;
+  * We may also use the information we collect for other purposes about which we notify you.
+  * With your permission, we may also use your email address to send you commercial messages, including changes to your products or news related to Pioneer DJ. If you no longer wish to receive marketing messages, from us or our third party partners, you may opt out at any time. Opting out may prevent you from receiving messages regarding improvements or new services.
+
+
+
+### Information Sharing and Disclosures
+
+We may share your information in the following ways: 
+
+##### Your consent
+
+We will share your personal information with companies, organizations, or individuals outside of us when we have your consent to do so.
+
+##### Your use
+
+When you use our Services, your profile, news updates, comments, favorites, likes, followers, and, if you are a DJ, your playlists and gig histories are viewable by the public and other users by default. You can change your profile settings at any time to make your information private and not viewable by the public or other users on our Website as described below. We urge you to consider the sensitivity of any information prior to sharing it publicly.
+
+##### Social Networking and Other Websites.
+
+Our Services may allow you to share information, including photos, tracks, playlist information, and other personal information with social networking websites such as Facebook and Twitter. If you provide comments on our Website using integrated social networking services, your comments will be shared on those services. Their use of the information will be governed by their privacy policies. 
+
+##### Service Providers
+
+We may share your information with service providers that perform services on our behalf. We authorize service providers to use or disclose personal information only as necessary to perform certain services on our behalf or comply with legal requirements. We require them to appropriately safeguard the privacy and security of personal information they process on our behalf.
+
+##### Third Party Partners:
+
+We may share your information with third party partners such as analytics and advertising partners to provide services such as analytics and online advertising. Our partners may collect information about your online activities over time and across different online services when you use our Services. We may share information with our partners for marketing purposes, including for their direct marketing purposes.
+
+##### Aggregate Data
+
+We may share aggregate information that does not identify you with third parties.
+
+##### Compliance with Laws and Law Enforcement Requests; Protection of Our Rights:
+
+We may disclose your information (including your personal information) to a third party if (a) we believe that disclosure is reasonably necessary to comply with any applicable law, regulation, legal process or governmental request, (b) to enforce our agreements, policies and terms of service, (c) to protect the security or integrity of Pioneer DJ's products and services, (d) to protect the property, rights, and safety of Pioneer DJ, our customers or the public from harm or illegal activities, (e) to respond to an emergency which we believe in the good faith requires us to disclose information to assist in preventing the death or serious bodily injury of any person, or (f) to investigate and defend ourselves against any third-party claims or allegations.
+
+##### Business Transfers
+
+We may share or transfer your information (including your personal information) in connection with, or during negotiations of, any merger, sale of company assets, financing, or acquisition of all or a portion of our business to another company. We will notify you of such a change in ownership or transfer of assets by posting a notice on our website.
+
+### Your Choices and Privacy Settings 
+
+You may decline to share certain personal information with us, in which case we may not be able to provide to you some of the features and functionality of our Services. 
+
+Subject to applicable law, you may have the right to request access to and receive information about the personal information we maintain about you, update and correct inaccuracies in your personal information, and have the information blocked or deleted, as appropriate. The right to access personal information may be limited in some circumstances by local law requirements.
+
+We give you several methods to access, correct, update or request blocking or deletion of your personal information including:
+
+  * You may access, update or correct certain personal information and privacy settings at any time by accessing the account settings section in your profile page on our Websites or mobile app. 
+  * You can also close your account through the account settings section and your personal information will no longer be viewable to other users.
+  * You may exercise your rights by contacting us at the address below. 
+
+
+
+You may choose to keep your profile private through your account settings. If you mark your profile or other information as private, we will still receive information about your profile and tracks, but they will not be viewable by other users.
+
+You may opt out of receiving promotional communications from our Websites (including communications from third party partners) by using the unsubscribe link within each email or updating your email preferences in your account settings. Even after you opt out of receiving promotional messages from us, you will continue to receive administrative and security messages from us regarding the Services.
+
+##### Notice to California residents
+
+Pursuant to California Civil Code Section 1798.83, residents of the State of California have the right to request from companies conducting business in California certain information regarding disclosure within the immediately preceding calendar year of that California resident's personal information to third parties (and in some cases affiliates) for their direct marketing purposes. Alternatively, the law provides that a company may comply, as we do, by disclosing in its privacy policy that we provide consumers with a choice (opt-out or opt-in) regarding sharing personal information with third parties and affiliates for those third parties' and affiliates' direct marketing purposes, and information on how to exercise that choice. At this time, we do not share personally identifiable information with third parties or affiliates for those third parties' or affiliates' direct marketing purposes. If we do so in the future, we will provide you with a choice prior to sharing your personally identifiable information with third parties and affiliates for their direct marketing purposes. If you do not opt-in or if you choose to opt-out at the time we offer that choice, we will not share your information with that identified third party or affiliate for its direct marketing purposes.
+
+##### Note to EEA residents
+
+You have the right, subject to the payment of a small fee (currently £10), to request access to personal data that we may process about you. If you wish to exercise this right, you should:
+
+  * put your request in writing;
+  * include proof of your identity and address (eg a copy of your driving licence or passport, and a recent utility or credit card bill);
+  * arrange payment of any fee to Pioneer DJ; and
+  * specify the personal data you want access to, including any account or reference numbers where applicable.
+
+
+
+You have the right to require us to correct any inaccuracies in your data free of charge. If you wish to exercise this right, you should:
+
+  * put your request in writing;
+  * provide us with enough information to identify you (eg account number, user name, registration details); and
+  * specify the information that is incorrect and what it should be replaced with.
+
+
+
+You also have the right to ask us to stop processing your personal data for direct marketing purposes. If you wish to exercise this right, you should:
+
+  * put your request in writing (an email sent to [exec.eu@pioneerdj.com](mailto:exec.eu@pioneerdj.com) with a header that says 'Unsubscribe' is acceptable);
+  * provide us with enough information to identify you (eg account number, user name, registration details); and
+  * if your objection is not to direct marketing in general, but to direct marketing by a particular channel (eg email or telephone), please specify the channel you are objecting to.
+
+
+
+##### Do-Not-Track Signals
+
+Because there is not yet a consensus on how companies should respond to web browser-based or other "Do Not Track" ("DNT") mechanisms, we currently do not respond to web browser DNT signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services. We may revisit our policy on responding to these signals, in which case we will post a revised privacy policy on this site. 
+
+##### Data Security
+
+We take steps to ensure that your information is treated securely and in accordance with this Privacy Policy. We maintain reasonable administrative, technical and physical safeguards designed to protect the personal information you provide against accidental, unlawful or unauthorized destruction, loss, alteration, access, disclosure or use. Unfortunately, the Internet cannot be guaranteed to be 100% secure, and we cannot ensure or warrant the security of any information you transmit to us or store on the Services.
+
+##### Children's Privacy
+
+Our Services are not directed to individuals under 13. We do not knowingly collect personal information from children under 13. If we become aware that a child under 13 has provided us with personal information, we will take steps to delete such information. If you become aware that a child has provided us with personal information, please contact us at [privacy@pioneerdj.com](mailto:privacy@pioneerdj.com).
+
+##### Third-Party Services
+
+Our Services may contain features or links to web sites and services provided by third parties, including services that facilitate the purchase of songs and music albums. Any information you provide on third-party sites or services is provided directly to the operators of such sites or services and is subject to those operators' policies, if any, governing privacy and security, even if accessed through the Services. We are not responsible for the content or privacy and security practices and policies of third-party sites or services to which links or access are provided. We encourage you to learn about third parties' privacy and security policies before providing them with information.
+
+##### International users
+
+We may transfer the personal information we collect about you to countries other than the country in which it was originally collected. Those countries may not have the same data protection laws as the country in which you initially provided the personal information. When we transfer your personal information to other countries, we will protect that information as described in this Privacy Policy.
+
+If you are located in the European Economic Area, we comply with applicable legal requirements for the transfer of personal information outside of the country of collection. By providing your personal information or using our Services, you consent to any transfer of personal information to countries outside of your country of residence, in particular to Japan and the United States.
+
+### Changes to our Privacy Policy
+
+We may change this Privacy Policy from time to time. If we make any changes, we will notify you by revising the "Last Updated" date at the top of this Privacy Policy and where appropriate we may provide you with additional notice (such as adding a statement to the log-in screen or sending you an email notification). Your continued use of our Services after the revised Policy has become effective indicates that you have read, understood, and agreed to the current version of this Policy. If you do not agree to the Privacy Policy, do not use any Websites and Service.
+
+### Contact Information
+
+Please contact us with any questions or comments about this Policy, your personal information, or our use and disclosure practices by email at [privacy@pioneerdj.com](mailto:privacy@pioneerdj.com) or in writing at Pioneer DJ Corporation, 6F, Yokohama i-Mark Place, 4-4-5 Minatomirai, Nishi-ku, Yokohama, Kanagawa, 220-0012 Japan.
+
+If you are located in the European Economic Area, Pioneer DJ Europe Limited may be the entity responsible for the processing your personal information. To contact us in the EU, please use the following contact details: Pioneer DJ Europe Limited, Anteros Building, Odyssey Business Park, West End Road, South Ruislip, Middlesex, HA4 6QQ, England.
+
+If you are located in the United States, Pioneer DJ Americas, Inc. may be the entity responsible for the processing your personal information. To contact us in the United States, please use the following contact details: Pioneer DJ Americas, Inc. 2050 W 190th Street, Suite #109, Torrance, CA 90504, USA.
