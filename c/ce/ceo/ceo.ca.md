@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the ceo.ca privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016175617id_/https%3A//ceo.ca/%40tommy/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ceo.ca privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210135331id_/https%3A//ceo.ca/%40tommy/privacy-policy) for the most accurate reproduction.*
 
 # CEO.CA Privacy Policy, by @tommy
 
-This Privacy Policy was last updated on January 29, 2015.  
+This Privacy Policy was last updated on February 4, 2017.  
 
 
 This Privacy Policy is part of the Website’s [Terms of Use](https://web.archive.org/@tommy/terms-of-use) (the “Terms”). Please note that all the capitalized terms not defined in this Privacy Policy are defined in the Terms.
@@ -24,6 +24,23 @@ By using the Website, you acknowledge that you have reviewed the terms of this P
 “Privacy Officer” means the person within the Operator’s organization responsible for the Operator’s compliance with this Privacy Policy.
 
 “You” or “your” for the purposes of this Privacy Policy means visitors of the Website, including both Members and non-Members.
+
+“Non-Professional” means any natural Person who is not a “securities professional”, in their personal capacity and not as a principal, officer, director, partner, employee or agent of any business or on behalf of any other Persons. A “securities professional” means any broker, dealer, investment advisor or Person, otherwise employed by an organization conducting professional activities involving the buying and selling of financial instruments, such as stocks, bonds, options, futures contracts or other trading vehicles. In addition, a Person shall not be considered Non-Professional if they are consultants, independent contractors, software developers or others that use Market Data for any purpose for profit other than the trading of a personal account. For greater certainty, a Non-Professional cannot be registered or qualified with:
+
+  * (a) a provincial securities commission;   
+
+  * (b) the Securities Exchange Commission;   
+
+  * (c) the Commodities Futures Trading Commission;   
+
+  * (d) any provincial, state or other government securities agency;   
+
+  * (e) any securities exchange or association; or   
+
+  * (f) any commodities or futures contract market or association or perform functions that are the equivalent to those of such Persons.   
+
+
+
 
 2\. Accountability
 
