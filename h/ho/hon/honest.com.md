@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506080031id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the honest.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210151749id_/https%3A//www.honest.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | The Honest Company
 
-This Privacy Policy is effective on April 7, 2016.
+This Privacy Policy is effective on May 26, 2016.
 
 Your privacy is very important to us. Our Privacy Policy spells out The Honest Company's commitment to respecting the privacy of the members and visitors to our site. We reserve the right to change this policy at any time, which we'll do through online posting or an email message sent directly to you. We are very careful with what we do with your information.
 
@@ -47,10 +47,11 @@ We use this information to:
 To review and update your personal information to ensure it is accurate, contact us at:
 
 The Honest Company   
-2461 Santa Monica Blvd, Box #132   
-Santa Monica, CA 90404   
+12130 Millennium Dr   
+5th Floor   
+Los Angeles, CA 90094   
 Email: **[info@honest.com](mailto:info@honest.com)**   
-Phone: 1.888.862.8818 
+Phone: 1.888.862.8818 or 1.310.857.3020 
 
 ### Information Collected from You About Others
 
@@ -58,7 +59,7 @@ If you decide to invite a third party to create an account, we will collect your
 
 ### Information You Provide to Facebook and other Social Networking Sites
 
-The Site allows users to access Facebook to interact with friends and to share on Facebook through Wall and friends' News Feeds. If you are already logged into the Site and Facebook or another SNS, when you click on "Connect with Facebook", or a similar connection on another SNS, you will be prompted to merge your profiles. If you are already logged into the Site but not logged into Facebook or another SNS that we support, when you click on "Connect with Facebook", or a similar connection on another SNS, you will be prompted to enter your SNS credentials or to "Sign Up" for the SNS. By proceeding, you are allowing the Site to access your information and you are agreeing to the Facebook or other SNS's Terms of Use in your use of the Site. Conversely, if you are not currently registered as a user of the Site, and you click on "Sign in" using Facebook or another SNS that we support, you will first be asked to enter your Facebook or SNS credentials and then be given the option to register for the Services. In this case, we may receive information from Facebook or another SNS to make it easier for you to create an account on the Site and show our relevant content from your Facebook or SNS friends. Once you register on the Site and connect with Facebook or another SNS, you will be able to automatically post recent activity back to Facebook or the other SNS. Any information that we collect from your Facebook or other SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS's privacy and data practices. You have the option to disable Facebook Connect at any time by logging into your Account through the Site and going to settings, "About Me", "Linked Accounts", and then unselecting "Facebook". Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect your Site activity stream by visiting the Facebook Applications Settings page.
+The Site allows users to access Facebook to interact with friends and to share on Facebook through Wall and friends' News Feeds. If you are already logged into the Site and Facebook or another SNS, when you click on "Connect with Facebook", or a similar connection on another SNS, you will be prompted to link your profiles. If you are already logged into the Site but not logged into Facebook or another SNS that we support, when you click on "Connect with Facebook", or a similar connection on another SNS, you will be prompted to enter your SNS credentials or to "Sign Up" for the SNS. By proceeding, you are allowing the Site to access your information and you are agreeing to the Facebook or other SNS's Terms of Use in your use of the Site. Conversely, if you are not currently registered as a user of the Site, and you click on "Sign in" using Facebook or another SNS that we support, you will first be asked to enter your Facebook or SNS credentials and then be given the option to register for the Services. In this case, we may receive information from Facebook or another SNS to make it easier for you to create an account on the Site and show our relevant content from your Facebook or SNS friends. Once you register on the Site and connect with Facebook or another SNS, you will be able to automatically post recent activity back to Facebook or the other SNS. Any information that we collect from your Facebook or other SNS account may depend on the privacy settings you have with that SNS, so please consult the SNS's privacy and data practices. You have the option to disable Facebook Connect at any time by logging into your Account through the Site and going to settings, "Account Settings",and then unselecting "Facebook". Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect your Site activity stream by visiting the Facebook Applications Settings page
 
 ### Mobile Services
 
@@ -99,10 +100,11 @@ Our Site may contain links to third party websites. When you click on a link to 
 You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, updating your communications preferences in your membership account on our website or contacting us at:
 
 The Honest Company   
-2461 Santa Monica Blvd, Box #132   
-Santa Monica, CA 90404   
+12130 Millennium Dr   
+5th Floor   
+Los Angeles, CA 90094   
 Email: **[info@honest.com](mailto:info@honest.com)**   
-Phone: 1.888.862.8818 
+Phone: 1.888.862.8818 or 1.310.857.3020 
 
 If you decide at any time that you no longer wish to have your SNS account (e.g., Facebook) linked to your account, then you may de-link the SNS account in the "preferences" section in your account settings. You may also manage the sharing of certain personal information with us when you connect with us through an SNS, such as through Facebook. Please refer to the privacy settings of the SNS to determine how you may adjust our permissions and manage the interactivity between the Services and your social media account or mobile device.
 
@@ -133,10 +135,11 @@ We follow generally accepted industry standards to protect the personal informat
 If you have any questions about security on our Site, you can contact us at:
 
 The Honest Company   
-2461 Santa Monica Blvd, Box #132   
-Santa Monica, CA 90404   
+12130 Millennium Dr   
+5th Floor   
+Los Angeles, CA 90094   
 Email: **[info@honest.com](mailto:info@honest.com)**   
-Phone: 1.888.862.8818 
+Phone: 1.888.862.8818 or 1.310.857.3020 
 
 ### A Note About Children
 
@@ -163,9 +166,10 @@ If you are a non-U.S. user of the Site, by visiting the Site and providing us wi
 You can contact us about this Privacy Policy by writing or emailing us at the address below:
 
 The Honest Company   
-2461 Santa Monica Blvd, Box #132   
-Santa Monica, CA 90404   
+12130 Millennium Dr   
+5th Floor   
+Los Angeles, CA 90094   
 Email: **[info@honest.com](mailto:info@honest.com)**   
-Phone: 1.888.862.8818 
+Phone: 1.888.862.8818 or 1.310.857.3020 
 
 ©2012 - 2016 The Honest Company, Inc. All Rights Reserved. 
