@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bullionbypost.co.uk privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912210641id_/https%3A//www.bullionbypost.co.uk/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bullionbypost.co.uk privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210100130id_/https%3A//www.bullionbypost.co.uk/info/privacy) for the most accurate reproduction.*
 
 # JQB Limited Privacy Statement | BullionByPost
 
