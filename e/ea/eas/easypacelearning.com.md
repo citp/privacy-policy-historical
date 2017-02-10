@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easypacelearning.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324165327id_/http%3A//www.easypacelearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easypacelearning.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210050123id_/https%3A//www.easypacelearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -10,13 +10,13 @@ In the following parts, we will show you how your data is collected and used.
 
 ## Where Can Privacy Notice be used?
 
-This privacy notice informs how Easypacelearning deals with the personal identification information and other personal identification information shared by the business companies when visitors visit [www.easypacelearning.com](http://www.easypacelearning.com/) and its server.
+This privacy notice informs how Easypacelearning deals with the personal identification information and other personal identification information shared by the business companies when visitors visit [www.easypacelearning.com](https://www.easypacelearning.com/) and its server.
 
 When you are registered to be a member of Easypacelearning, it means that we can use your information according to this privacy notice.
 
 ## User E-mail and Password
 
-You are required to fill in your e-mail addresss and password when you register at Easypacelearning. The only one thing that matters when you log in is your password. Your registered E-mail is your username when you log in at <http://www.easypacelearning.com/>. Please use an e-mail address which is effective so we can keep in touch with you.
+You are required to fill in your e-mail addresss and password when you register at Easypacelearning. The only one thing that matters when you log in is your password. Your registered E-mail is your username when you log in at <https://www.easypacelearning.com/>. Please use an e-mail address which is effective so we can keep in touch with you.
 
   * You can change your password once you have logged in Easypacelearning Member's Area.
   * If you forget your password, you may lose your account and your personal identification information.
