@@ -1,13 +1,12 @@
-<!--The following is the downloaded HTML source of the booster.com privacy policy that was archived on 2016-04-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160425004956id_/http%3A//www.booster.com/policies) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the booster.com privacy policy that was archived on 2017-02-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170210050706id_/https%3A//www.booster.com/policies) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class=" wf-loading"><head>
     <meta charset="utf-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
-<script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2276eed9fe","applicationID":"2026801","transactionName":"IQ0PRBdZCQhUFkwRUwUHEh8WXgoT","queueTime":0,"applicationTime":73,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcHVUVRCAEGXFFT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
+<script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script src="//use.typekit.net/jog2cmo.js" async=""></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2276eed9fe","applicationID":"2026801","transactionName":"IQ0PRBdZCQhUFkwRUwUHEh8WXgoT","queueTime":0,"applicationTime":57,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UgcHVUVRCAEGXFFT"};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
     <title>Booster privacy policy</title>
-    <link rel="shortcut icon" type="image/x-icon" href="https://cdn.booster.com/merchandising/assets/favicon-68bfa8db94af56ad63446fa18c5ead44.ico">
     <meta name="referrer" content="always">
     <meta property="fb:app_id" content="363025400454662">
     
@@ -69,7 +68,7 @@
         if (exceedMaxWidth() || isDesignLab()) {
           var content = "width=" + maxWidth;
           var maxViewport = content + ", maximum-scale=" + maxScale;
-
+          swapMobileOrDesktop("design layout-block");
           if (e) {
             // a quick hack to fix for auto zoom issue when rotated to landscape mode
             setViewportContent(content + ", maximum-scale=0.55");
@@ -78,7 +77,15 @@
             setViewportContent(maxViewport);
           }
         } else {
+          swapMobileOrDesktop("design show-for-mobile size-selection-proofs");
           setViewportContent("width=device-width, maximum-scale=1, user-scalable=no");
+        }
+      }
+
+      function swapMobileOrDesktop(className) {
+        var mobileLabView = document.getElementById("mobile-lab-view");
+        if (mobileLabView !== null) {
+          mobileLabView.className = className;
         }
       }
 
@@ -86,113 +93,128 @@
         fixViewportWidth();
       }
 
-      window.addEventListener("orientationchange", fixViewportWidth);
     }());
   </script>
 
-    <script src="https://cdn.booster.com/merchandising/assets/typekit-685a6e3bc8401c077d741a156068db52.js"></script>
-    <link rel="stylesheet" media="all" href="https://cdn.booster.com/merchandising/assets/application_v2-936a6286f80fec16bb58dae1c9e6cdbb.css">
+    <script type="text/javascript">
+  (function(d) {
+    var config = {
+      kitId: 'jog2cmo',
+      scriptTimeout: 3000
+    },        h=d.documentElement,t=setTimeout(function(){h.className=h.className.replace(/\bwf-loading\b/g,"")+" wf-inactive";},config.scriptTimeout),tk=d.createElement("script"),f=false,s=d.getElementsByTagName("script")[0],a;h.className+=" wf-loading";tk.src='//use.typekit.net/'+config.kitId+'.js';tk.async=true;tk.onload=tk.onreadystatechange=function(){a=this.readyState;if(f||a&&a!="complete"&&a!="loaded")return;f=true;clearTimeout(t);try{Typekit.load(config)}catch(e){}};s.parentNode.insertBefore(tk,s)
+  })(document);
+</script>
+
+    <link rel="stylesheet" media="all" href="https://cdn.booster.com/merchandising/assets/application_v2-ab4ef7179887bdc79eff07a4da561452.css">
     
     <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="y6UYbqGyae3FzjRmqseOG1xoSaDqm2fh7DNY+P/EJAWnif2NSC9S+6Oos2eKfUGZl2PjEDD6Tq4jBYEAc06C0g==">
+<meta name="csrf-token" content="6fxizSBjmlJ3PW0SAkWVr18mo/8K4DXFtgQt5uKtG8KMK3LFzOlVGBlf4PQn/QONgs4PTI+kfr/DeGME0drzLg==">
     
-    <script src="https://www.google.com/jsapi?key=AIzaSyA5m1Nc8ws2BbmPRwKu5gFradvD_hgq6G0" type="text/javascript"></script>
     
+    <link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" href="/apple-touch-icon-57x57.png">
+<link rel="shortcut icon" type="image/x-icon" href="https://cdn.booster.com/merchandising/assets/favicon-68bfa8db94af56ad63446fa18c5ead44.ico">
+
   </head>
   <body class="pages pages-show">
-      <header id="main-header" class="implementation-v1">
-  <div class="primary">
-    <div class="b-section">
-      <div class="contain">
-        <span class="primary-text">Raise Money. Awareness. Spirits.</span>
-
-
-        <ul class="pull-right list-inline">
-          <li><a href="/contact-us">Contact Us</a></li>
-          <li><a href="/frequently-asked-questions">FAQs</a></li>
-          <li><a href="http://blog.booster.com">Blog</a></li>
-          <li><a href="/dashboard">Your Boosters</a></li>
-        </ul>
+    <header class="navigation-header">
+    <div class="primary-reminder">
+  <div class="b-section">
+    <div class="contain">
+      <div class="checkout-reminder">
+        <div class="checkout-header"></div>
+        <div class="checkout-content-container">
+          <div class="checkout-content-description">
+            Complete your support for #!
+          </div>
+          <div class="checkout-content-button">
+            <a class="complete-checkout-button" data-track="complete checkout" href="#">
+              <i class="icon fa fa-cart"></i>
+              Complete Checkout
+</a>          </div>
+        </div>
+        <div class="checkout-close">
+          <i class="icon fa fa-cancel"></i>
+        </div>
       </div>
     </div>
   </div>
-  <div class="secondary">
-    <div class="b-section">
-      <div class="contain">
-        <nav class="navbar navbar-default" role="navigation">
-          <div class="contain">
-            <div class="navbar-header">
-
-              <button type="button" id="b-nav-toggle" class="navbar-toggle pull-left" data-toggle="collapse" data-target="#main-navbar-collapse">
-                <span class="sr-only">Toggle navigation</span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-                <span class="icon-bar"></span>
-              </button>
-                <div class="pull-right navbar-tool">
-                    <div class="search-trigger">
-                      <span class="fa fa-search"></span>
-                    </div>
-                </div>
-                <div class="navbar-title">
-                  <a class="navbar-brand" data-track="Homepage" data-track-origin="  Header Logo" data-track-exclude-km="" data-page-properties="null" href="http://www.booster.com/"><img src="https://cdn.booster.com/merchandising/assets/logo-32a1fea35950e15610f4b70268695c4f.png" alt="Logo"></a>
-                </div>
-            </div>
-
-            
-<div class="collapse navbar-collapse" id="main-navbar-collapse">
-  <ul class="nav navbar-nav navbar-right list-inline">
-
-        <li class="show-for-mobile no-arrow">
-          <a class="start-campaign-mobile text-center" data-track="Hamburger Start Your Own Campaign" data-track-origin="" data-track-exclude-km="" data-page-properties="null" href="/merchandising/catalog">Start Your Own Campaign</a>
-        </li>
-
-
-      <li><a href="/merchandising/discover">Browse Campaigns</a></li>
-      <li>
-        <a data-track="How It Works" data-track-origin="  Top Header" data-track-exclude-km="" data-page-properties="null" href="/how-it-works">How It Works</a>
-      </li>
-      <li class="hide-for-mobile">
-        <a class="start-link button primary" href="/merchandising/catalog">Start a Booster</a>
-      </li>
-      <li class="hide-for-mobile no-pad-left">
-      <div class="search-text-box">
-        <form role="search" id="search-holder" action="/merchandising/discover/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
-          <div>
-            <input type="text" name="keyword" id="keyword" class="form-control" placeholder="Find A Campaign...">
-          </div>
-</form>      </div>
-      </li>
-
-    <li class="show-for-mobile">
-      <a data-track="About Us" data-track-origin="  Mobile Hamburger" data-track-exclude-km="" data-page-properties="null" onclick="dataLayer.push({'push_version': 'v2', 'event': 'mobile-header-about-us'});" href="/about-us">About Booster</a>
-    </li>
-    <li class="show-for-mobile"><a onclick="dataLayer.push({'push_version': 'v2', 'event': 'mobile-header-contact-us'});" href="/contact-us">Contact Us</a></li>
-    <li class="show-for-mobile"><a onclick="dataLayer.push({'push_version': 'v2', 'event': 'mobile-header-faq'});" href="/frequently-asked-questions">FAQs</a></li>
-    <li class="show-for-mobile"><a href="http://blog.booster.com">Blog</a></li>
-    <li class="show-for-mobile"><a onclick="dataLayer.push({'push_version': 'v2', 'event': 'mobile-header-terms-of-service'});" href="/user-agreement-policies">Terms Of Service</a></li>
-    <li class="show-for-mobile"><a class="privacy-link" onclick="dataLayer.push({'push_version': 'v2', 'event': 'mobile-header-privacy-policy'});" href="/policies">Privacy Policy</a></li>
-  </ul>
 </div>
 
-          </div>
-        </nav>
-      </div>
+
+    <div class="navigation-primary-header">
+  <div>
+    <a href="/">
+      <img data-track="Homepage" data-track-origin="  Header Logo" data-track-exclude-km="" data-page-properties="null" src="https://cdn.booster.com/merchandising/assets/logo-857385461bc831b045f2abf9f1ba1819.png" alt="Logo">
+</a>  </div>
+  <div>
+      <ul class="navigation-primary-link">
+  <li>
+    <a class="button-primary" href="/merchandising/catalog">Start a Fundraiser</a>
+  </li>
+  <li class="dropdown">
+  <button name="button" type="submit" class="button-navigation-link" data-toggle="dropdown">
+    Learn More <span class="caret"></span>
+</button>  <ul class="dropdown-menu dropdown-menu-left">
+    <li class="dropdown-link">
+      <a href="/how-it-works">How It Works</a>
+    </li>
+    <li class="dropdown-link">
+      <a href="/frequently-asked-questions">FAQs</a>
+    </li>
+    <li class="dropdown-link">
+      <a href="/contact-us">Contact Us</a>
+    </li>
+    <li class="dropdown-link">
+      <a href="https://www.booster.com/blog">Blog</a>
+    </li>
+    <li class="dropdown-link">
+      <a href="/about-us">About Us</a>
+    </li>
+  </ul>
+</li>
+
+    <li>
+      <a href="/auth/users/sign_in">Log In / Sign Up</a>
+    </li>
+</ul>
+
+  </div>
+</div>
+
+    <div class="navigation-secondary-header">
+  <div class="sitemap-bar">
+    <div class="browse-campaigns">
+      <a href="/merchandising/discover">Browse Campaigns</a>
+    </div>
+    <div class="how-it-works">
+      <a href="/how-it-works">How It Works</a>
+    </div>
+    <div class="design-templates">
+      <a href="/design-templates">Design Templates</a>
     </div>
   </div>
-  <div class="search-dropdown">
-    <div class="search-text-box">
-      <form id="search-holder" onsubmit="dataLayer.push({'push_version': 'v2', 'event': 'mobile-header-search'});" action="/merchandising/discover/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
-      <input type="text" name="keyword" id="keyword" class="search_filter" placeholder="Find A Campaign..." autofocus="autofocus">
-</form>    </div>
-    <span class="btn btn-default cancel">Cancel</span>
+  <div class="search-bar">
+    <div class="search-icon">
+      <i class="fa fa-search"></i>
+    </div>
+    <div class="search-text">
+      
+<form role="search" id="search-holder" action="/merchandising/discover/search" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓">
+  <div>
+    <input type="text" name="query[keyword]" id="header_query_keyword" class="form-control search_filter" placeholder="Find A Campaign...">
   </div>
-  
+</form>
+    </div>
+  </div>
+</div>
+
 </header>
 
 
     <div class="b-offset-header">
-      <div class="b-section">
+      <div class="b-section padded-top">
   <div class="contain">
     <div>
       <h1>Privacy Policy</h1>
@@ -203,31 +225,31 @@
           <br>
           <p>Booster LLC ("Booster," "we," or "us") respects your privacy. This Privacy Policy explains how Booster collects, uses and safeguards information on our Site or through our Services from time to time. This Privacy Policy is an integral part of the agreement between you and us concerning the use of the Site. The other integral parts of such agreement are the Terms of Service and any legal notices that may be provided by Booster. All capitalized terms used herein that are not otherwise defined in this Privacy Policy shall be as defined in the Terms of Service.</p>
 
-        	<h2>I.  Changes to the Privacy Policy</h2>
+        	<h3>I.  Changes to the Privacy Policy</h3>
           <p>As Booster’s products and services change from time to time, this Privacy Policy is expected to change as well. We reserve the right to amend the Privacy Policy at any time, for any reason. The date of the last revision to the Privacy Policy will be indicated by the "Last updated" date at the beginning of this policy. The most current version of the Privacy Policy will govern our use of your information. If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on the Site prior to the effective date of the changes. By continuing to access or use the Site after those changes become effective, you agree to be bound by the revised Privacy Policy.</p>
 
-        	<h2>II.  Mobile Privacy.</h2>
+        	<h3>II.  Mobile Privacy.</h3>
           <p>We may offer you the ability to connect with our Website, or use our applications, services, and tools using a mobile device, either through a mobile application or via a mobile optimized website. The provisions of this Privacy Policy apply to all such mobile access and use of mobile devices. This Privacy Policy will be referenced by all such mobile applications or mobile optimized websites.</p>
 
-        	<h2>III.  Scope</h2>
+        	<h3>III.  Scope</h3>
           <p>
-            </p><h3>Information We collect:</h3>
+            </p><h4>Information We collect:</h4>
             1. Personally Identifiable Information. We may collect information that identifies you ("Personally Identifiable Information") when you interact and provide such information on our Site(s) such as, but not limited to, when creating an account, organizing a fundraising campaign, contributing to a campaign, registering for an event or program, applying for employment at Booster, or purchasing Booster products or services.<br><br>
             2. Non-Personal Data. As you interact on our Site(s), we may also collect information that is not Personally Identifiable Information but may disclose other aspects of your browsing history or certain other information about you through the use of a variety of technologies, including, but not limited to, cookies, tags, beacons, Internet Protocol (IP) address tracking/URL tracking, and other tools. ("Non-Personal Data")<br>
-            <h3>Information We Don't Collect:</h3>
+            <h4>Information We Don't Collect:</h4>
             3. Children. We do not knowingly solicit data online from or market to children under the age of 13. We do not knowingly collect personal information from children under 13. If you become aware that a child has provided us with personal information without parental consent, please contact us at <a href="mailto:service@booster.com">service@booster.com</a>. If we become aware that a child under 13 has provided us with personal information without parental consent, we take steps to remove such information and terminate the account.
           <p></p>
 
-          <h2>IV.  Personally Identifiable Information You May Provide and We May Collect</h2>
+          <h3>IV.  Personally Identifiable Information You May Provide and We May Collect</h3>
           <p>When you create an Account with us, we will ask you and you may provide the following information: Your name; your email address; your Facebook information, if you are signing up via Facebook Connect (this will authenticate your identity and link your Facebook Profile information, such as your name and email address, to your Booster account); your Twitter information, if you are signing up via Twitter Sign-On, (services like Facebook Connect and Twitter Sign-On give you the option to post information about your activities on the Site to your profile page or account to share with others within your network); and you may provide your zip code or location.<br><br> If you become an Organizer and create a Campaign, you will provide us with the following Personally Identifiable Information in addition to the Personally Identifiable Information you provide when you register your Account: Your legal person or business name; your legal physical address; your Tax ID (if you are a business); your telephone number; and Ship-to information (if applicable). We may request your date of birth and your bank account information (if applicable for routing payments). As a Contributor, you may provide: your first and last name; your email address; Ship-to information; your billing name and address; and your payment information (including your credit or debit card details, card type, card number and expiration date). We will only use your payment details for the purpose of processing your donation via our payment partners, which you will be able to see and choose upon making your Contribution. We may automatically pass on your name and email and addresses to the Beneficiary that will benefit from your donation, if required (as in the case of donations to Charities). You may also be asked further information in order to help validate your identity, like your gender, your driver’s license information or government issued identification number, or other personally identifiable information as we need for verification.<br><br> We may also collect Personally Identifiable Information from you as a result of your email communications with us, which we may retain along with our responses. Any Personally Identifiable Information you upload to the Site as part of your User Content is available to the public without any expectation of privacy or confidentiality. Copies may remain viewable in cached and archived pages or if other Users have copied or stored your User Content even if you remove your User Content. To request removal of your Personally Identifiable Information from these areas of the site, please contact us using the contact information below. In some cases, we may not be able to remove your Personally Identifiable Information, in which case we will let you know if we are unable to do so and why. <br><br> We may display Feedback of satisfied Users on our site. With your consent we may post your Feedback along with your name. If you wish to stop your Feedback from being public or to update it, you can contact us at <a href="mailto:service@booster.com">service@booster.com</a>. When you use our mobile site, we may receive information about your location and your mobile device, including a unique identifier for your device. We may use this information to provide you with location based services, search results, and other personalized content. Most mobile devices allow you to control or disable location services in the device's setting's menu. If you have questions about how to disable your device's location services, we recommend you contact your mobile service carrier or the manufacturer of your particular device.</p>
 
-          <h2>V.  Non-Personal Data We Collect.</h2>
+          <h3>V.  Non-Personal Data We Collect.</h3>
           <p>Booster collects information about the Internet Protocol (IP) addresses of all visitors to our Site. An IP address is a number assigned to your computer automatically when you use the internet. This information is only collected in the aggregate (in other words, we are not able to monitor your individual usage of the site) and helps us monitor site traffic patterns in order to improve our Services. <br><br>This Site uses Cookies for some interactive features. A Cookie is a small amount of data, which includes an anonymous unique identifier that is sent to your browser from a website's computers and stored on your computer's hard drive. Most browsers will automatically accept cookies. Cookies may be placed by us or third party advertisers contracted by us. You can set your browser to reject cookies but some parts of the web site may not function properly if the cookies are rejected. "Tags" and web beacons refer to code scripts that are primarily used to track visitors' activities on our Site(s) by web analytics software. The types of non-personal data collected on our Site(s) through the use of these, and other tools as Booster may add from time to time, may include: the search terms you used, new or returning user, browser information, computer type, operating system, internet service providers, website usage, referring/exit pages, platform type, date/time stamp, number of clicks, ads viewed, location, hardware information, etc. <br><br>Booster may also use third party application tracking services like Google Retargeting code, Google Analytics, KISS Metrics, and Bing, to help understand the use of our Services and Site(s). Please be aware that through Google Tag Manager the information sent by your browser as part of a web page request, including cookies and your IP address, is collected. In that case, Google will also receive this information and their use of it is governed by Google's Privacy Policy. In the same vein, information collected through the use of Bing is subject to Bing’s Privacy Statement.</p>
 
-          <h2>VI.  How We Use Collected Information</h2>
+          <h3>VI.  How We Use Collected Information</h3>
           <p>We use your collected information to operate, maintain, and provide to you the Site and Services and conduct our business. For example, as a non-exhaustive list, to: register an Account and to identify you when you sign-in to your account; to administer your Account or funds; respond to your inquiries, customer service requests or complaints, or your job application; verify activity as we deem necessary; send you promotional communications; conduct research and analyze data to improve our Site or Services or customize our communications with you; communicate with you; improve our Content or our software or our internal operations; notify you about updates to our Site or software; keep track of your shopping cart/record session information; keep track of login name/passwords; keep track of click stream data (record user-specific information on what pages users access or visit); and personalize the Site.</p>
 
-          <h2>VII. Third Parties</h2>
+          <h3>VII. Third Parties</h3>
           <p>
             We do not rent, share, sell or trade personally identifiable information (including your email) with third parties for their direct marketing purposes. That said, we work with third parties and they may have access to some of your information. We will share your personal information with these third parties only in the ways that are described in this Privacy Policy.
             </p><ol>
@@ -241,25 +263,25 @@
             </ol>
           <p></p>
 
-          <h2></h2>
+          <h3></h3>
           <p>We may store Personal Information in locations outside our direct control (for instance, on servers or databases co-located with hosting providers). <br><br>We use Security Sockets Layer (SSL) encryption technology to encrypt sensitive personal information (such as your email or password) before it travels over the internet. Credit card numbers are never stored on our database or servers. <br><br>The security of your personal information is important to us. We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at <a href="mailto:service@booster.com">service@booster.com</a>.</p>
 
-        	<h2>IX. Compromise of Personal Information</h2>
+        	<h3>IX. Compromise of Personal Information</h3>
           <p>We will promptly notify those persons whose Personally Identifiable Information is compromised. Notwithstanding, Booster does not accept liability for any unintentional disclosure or a disclosure that occurs due to a security breach of our systems or facilities.</p>
 
-        	<h2>X. How You Can Access and Change Information</h2>
+        	<h3>X. How You Can Access and Change Information</h3>
           <p>You may, of course, decline to submit Personally Identifiable Information to us; in which case, you may not be able to register an Account, organize a Campaign, make Contributions or use certain Services. <br><br>If your Personally Identifiable Information changes, you may correct, update, amend, remove, or ask to have it removed by making the change on your user Account settings page, or by contacting us at <a href="mailto:service@booster.com">service@booster.com</a>. If you no longer desire our service, you may deactivate/delete your account entirely from the user Account settings page, or contact us directly.  <br><br>We will retain your Personally Identifiable Information for as long as your Account is active or as needed to provide you services. We will retain and use your Personally Identifiable Information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
 
-        	<h2>XI. Notification, Emails and Opt-Out</h2>
+        	<h3>XI. Notification, Emails and Opt-Out</h3>
           <p>You consent to our using your email address to send you Service-related notices, including any notices required by law, in lieu of communication by postal mail. You may not opt out of some Service-related communications. You can change the frequency of many Service-related communications by changing the settings in the “Settings” section. <br><br>Upon registration, or on other areas of the site, you may opt-in to receive periodic messages from us, including changes to features of the Service, newsletters, promotions and special offers. If you wish to subscribe to these emails, we will use your name and email address to send them to you. Out of respect for your privacy, you may choose to stop receiving our promotional or marketing emails by following the unsubscribe instructions included in these emails, accessing email preferences manager on your account settings page or you can contact us at <a href="mailto:service@booster.com">service@booster.com</a>. Opting out may prevent you from receiving email messages regarding updates, improvements, or offers.</p>
 
-        	<h2>XII. Your California Privacy Rights </h2>
+        	<h3>XII. Your California Privacy Rights </h3>
           <p>Under California Civil Code Section 1798.83 (known as the “Shine the Light” law) we hereby notify you that we do not share your personal information for third-party direct marketing use if you opted out to prevent your personal information from being shared for third-party direct marketing use, which you can do free of charge during registration.</p>
 
-        	<h2>XIII. Links</h2>
+        	<h3>XIII. Links</h3>
           <p>Our Site may include links to other websites whose privacy practices may differ from those of Booster. When you use a link to go from our Site to another website, such as that of our payments processors, the privacy statement for the other website governs. We encourage you to carefully read and understand the privacy statement of any website you visit.<br><br>Our Site includes social media features, such as the Facebook Like button and Widgets, such as the Share this button. These Features may collect your IP address, which page you are visiting on our Site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets may be either hosted by a third party or hosted directly on our Site. Your interactions with these features are governed by the privacy policy of the company providing it.<br><br>Our Site may also offer publicly accessible areas like comments sections. You should be aware that any information you provide in these areas may be displayed publicly and read, collected, and used by others who access them.</p>
 
-        	<h2>XIV.  Contact Us</h2>
+        	<h3>XIV.  Contact Us</h3>
           <p>If you believe that we have not adhered to this Privacy Policy, or if you have any questions about this Privacy Policy, the practices of the Site, or your dealings with the Site, please contact us at <a href="mailto:service@booster.com">service@booster.com</a>.</p>
 
           <i>Last Updated: April 1, 2014</i>
@@ -303,17 +325,8 @@
         </div>
       </div>
       <ul class="press-feed-placeholder">
-        <li class="blogpost">
-          <a href="http://blog.booster.com/organizer-stories/2016-boston-tee-party-marathon-fundraising/" class="b-entry" target="_blank">6 Tee-rific Shirts for Worthy Causes @BostonMarathon 2016</a>
-        </li>
-        <li class="blogpost">
-          <a href="http://blog.booster.com/organizer-stories/achievement-first-booster-fundraiser/" class="b-entry" target="_blank">Achievement First – Booster Gives Back</a>
-        </li>
-        <li class="blogpost">
-          <a href="http://blog.booster.com/organizer-stories/social-media-giving/" class="b-entry" target="_blank">Social Media and the Power of Giving</a>
-        </li>
       </ul>
-      <a class="link-subtext" href="http://blog.booster.com" target="_blank">
+      <a class="link-subtext" href="https://www.booster.com/blog" target="_blank">
         Read More »
       </a>
     </li>
@@ -384,131 +397,136 @@
 
     </div>
 
-      <footer class="b-section">
-    <div class="contain">
-  <div class="row">
-    <div class="col-desktop-3 col-mobile-6">
-      <ul class="list-unstyled">
-        <li>About Booster</li>
-        <li>
-          <a data-track="About Us" data-track-origin="  Bottom Footer" data-track-exclude-km="" data-page-properties="null" href="/about-us">About Us</a>
-        </li>
-        <li>
-          <a data-track="Track Order link in footer" data-track-origin="" data-track-exclude-km="" data-page-properties="null" href="/order_tracking">Track Order</a>
-        </li>
-        <li>
-          <a href="/contact-us">Contact Us</a>
-        </li>
-        <li>
-          <a href="/careers">Careers</a>
-        </li>
-        <li>
-          <a target="_blank" href="http://www.customink.com/">CustomInk</a>
-        </li>
-        <li>
-          <a href="/charity-fundraising">Non-Profit Fundraising</a>
-        </li>
-      </ul>
-    </div>
-    <div class="col-desktop-3 col-mobile-6">
-      <ul class="list-unstyled">
-        <li>Elsewhere</li>
-        <li>
-          <a href="https://www.facebook.com/BoosterAdvisors">
-            <i class="fa fa-facebook"></i>
-            Facebook
-</a>        </li>
-        <li>
-          <a href="https://twitter.com/BoosterLLC">
-            <i class="fa fa-twitter"></i>@BoosterLLC
-</a>        </li>
-        <li>
-          <a href="https://www.pinterest.com/BoosterLLC/">
-            <i class="fa fa-pinterest"></i>
-            Pinterest
-</a>        </li>
-        <li>
-          <a href="https://www.linkedin.com/company/booster-llc">
-            <i class="fa fa-linkedin"></i>
-            Linkedin
-</a>        </li>
-      </ul>
-    </div>
-    <div class="col-desktop-3 col-mobile-6">
-      <ul class="list-unstyled">
-        <li>
-          Learn More
-        </li>
-        <li>
-          <a class="organizer" data-track="How It Works" data-track-origin="  Bottom Footer" data-track-exclude-km="" data-page-properties="null" href="/how-it-works">How It Works</a>
-        </li>
-        <li>
-          <a href="/frequently-asked-questions">FAQs</a>
-        </li>
-        <li>
-          <a href="/user-agreement-policies">Terms Of Service</a>
-        </li>
-        <li>
-          <a class="privacy-link" href="/policies">Privacy Policy</a>
-        </li>
-        <li>
-          <a href="http://blog.booster.com">Blog</a>
-        </li>
-      </ul>
-    </div>
-    <div class="col-desktop-3 col-mobile-6">
-      <ul class="list-unstyled">
-        <li>We've got your back</li>
-        <li>
-          <label>Call Us</label>
-          <p>855-631-6850</p>
-        </li>
-        <li>
-          <label>Visit Us</label>
-          <p>
-            Riverside Center,<br>
-            275 Grove St. Suite 1-305<br>
-            Newton, MA 02466
-          </p>
-        </li>
-      </ul>
-    </div>
+      <footer class="main-footer">
+    <div class="layout layout--narrow layout--split-four">
+  <div class="layout-block">
+    <h4>About Booster</h4>
+    <ul>
+      <li>
+        <a data-track="About Us" data-track-origin="  Bottom Footer" data-track-exclude-km="" data-page-properties="null" href="/about-us">About Us</a>
+      </li>
+      <li>
+        <a data-track="Track Order link in footer" data-track-origin="" data-track-exclude-km="" data-page-properties="null" href="/order_tracking">Track Order</a>
+      </li>
+      <li>
+        <a href="/contact-us">Contact Us</a>
+      </li>
+      <li>
+        <a href="/careers">Careers</a>
+      </li>
+      <li>
+        <a target="_blank" href="https://www.customink.com/">CustomInk</a>
+      </li>
+      <li>
+        <a href="/charity-fundraising">Nonprofit Fundraising</a>
+      </li>
+    </ul>
   </div>
+
+  <div class="layout-block">
+    <h4>Elsewhere</h4>
+    <ul>
+      <li>
+        <a href="https://www.facebook.com/BoosterAdvisors">
+          <i class="fa fa-facebook"></i>
+          Facebook
+</a>      </li>
+      <li>
+        <a href="https://twitter.com/BoosterLLC">
+          <i class="fa fa-twitter"></i>@BoosterLLC
+</a>      </li>
+      <li>
+        <a href="https://www.pinterest.com/BoosterLLC/">
+          <i class="fa fa-pinterest"></i>
+          Pinterest
+</a>      </li>
+      <li>
+        <a href="https://www.linkedin.com/company/booster-llc">
+          <i class="fa fa-linkedin"></i>
+          Linkedin
+</a>      </li>
+    </ul>
+  </div>
+
+  <div class="layout-block">
+    <h4>Learn More</h4>
+    <ul>
+      <li>
+        <a class="organizer" data-track="How It Works" data-track-origin="  Bottom Footer" data-track-exclude-km="" data-page-properties="null" href="/how-it-works">How It Works</a>
+      </li>
+      <li>
+        <a class="organizer" data-track="Design Templates" data-track-origin="  Bottom Footer" data-track-exclude-km="" data-page-properties="null" href="/design-templates">Design Templates</a>
+      </li>
+      <li>
+        <a href="/frequently-asked-questions">FAQs</a>
+      </li>
+      <li>
+        <a href="/user-agreement-policies">Terms Of Service</a>
+      </li>
+      <li>
+        <a class="privacy-link" href="/policies">Privacy Policy</a>
+      </li>
+      <li>
+        <a href="https://www.booster.com/blog">Blog</a>
+      </li>
+    </ul>
+  </div>
+
+  <div class="layout-block">
+    <h4>We've got your back</h4>
+    <ul>
+      <li>
+        <label>Call Us</label>
+        <p>855-631-6850</p>
+      </li>
+      <li>
+        <label>Visit Us</label>
+        <p>
+          Riverside Center,<br>
+          275 Grove St. Suite 1-305<br>
+          Newton, MA 02466
+        </p>
+      </li>
+    </ul>
+  </div>
+
 </div>
 
 
-  <div class="b-section" id="bottom-bar">
-    <div class="contain">
-      <span class="inky-logo pull-right show-for-desktop">
-        <a href="http://www.customink.com" target="_blank">
-          Created by CustomInk
-          <img src="https://cdn.booster.com/merchandising/assets/footer-inky-121c47daa9aa27341a463d0f71bcb878.png" alt="Footer inky">
-        </a>
-      </span>
-      <span class="copyright">
-        © 2016 Booster, LLC. All rights reserved. CustomInk and the "Inky" octopus are trademarks of CustomInk, LLC.
-      </span>
-      <span class="inky-logo show-for-mobile">
-        <a href="http://www.customink.com" target="_blank">
-          Created by<img src="https://cdn.booster.com/merchandising/assets/footer-inky-121c47daa9aa27341a463d0f71bcb878.png" alt="Footer inky">CustomInk
-        </a>
-      </span>
+  <div class="bottom-bar" id="bottom-bar">
+    <div class="layout">
+      <div class="layout-block">
+        <span class="inky-logo pull-right show-for-desktop">
+          <a href="https://www.customink.com" target="_blank">
+            Created by CustomInk
+            <img src="https://cdn.booster.com/merchandising/assets/footer-inky-41f71d80f46223dec2b832e5b9fa240d.png" alt="Footer inky">
+          </a>
+        </span>
+        <span class="copyright">
+          © 2017 Booster, LLC. All rights reserved. CustomInk and the "Inky" octopus are trademarks of CustomInk, LLC.
+        </span>
+        <span class="inky-logo show-for-mobile">
+          <a href="https://www.customink.com" target="_blank">
+            Created by<img src="https://cdn.booster.com/merchandising/assets/footer-inky-41f71d80f46223dec2b832e5b9fa240d.png" alt="Footer inky">CustomInk
+          </a>
+        </span>
+      </div>
     </div>
   </div>
 </footer>
 
 
       <div class="navbar-fixed-bottom show-for-mobile">
-  <div class="mobile-navigation-footer text-center">
+  <div class="mobile-navigation-footer">
     <div class="col-mobile-4">
       <a onclick="dataLayer.push({'push_version': 'v2', 'event': 'mobile-footer-learn-more'});" href="/how-it-works">
         <img src="https://cdn.booster.com/merchandising/assets/mobile/info-55b2caf5f1e38f2a2f247a5c64c35e97.png" alt="Info"><span class="text">Learn More</span>
 </a>    </div>
 
-      <div class="col-mobile-4 mobile-middle-button">
-        <a onclick="dataLayer.push({'push_version': 'v2', 'event': 'mobile-footer-start-a-booster'});" href="/merchandising/catalog">
-          <img src="https://cdn.booster.com/merchandising/assets/mobile/start-855d34ac7eb6e929d54ac70198e1d5a7.png" alt="Start"><span class="text">Start a Booster</span>
-</a>      </div>
+    <div class="col-mobile-4 mobile-middle-button">
+      <a onclick="dataLayer.push({'push_version': 'v2', 'event': 'mobile-footer-start-a-booster'});" href="/merchandising/catalog">
+        <img src="https://cdn.booster.com/merchandising/assets/mobile/start-e26846690f99f1cb2256acebaa92ef22.png" alt="Start"><span class="text">Start a Booster</span>
+</a>    </div>
 
     <div class="col-mobile-4">
       <a onclick="dataLayer.push({'push_version': 'v2', 'event': 'mobile-footer-your-dashboard'});" href="/dashboard">
@@ -519,127 +537,136 @@
 
 
 
-    <script src="https://cdn.booster.com/merchandising/assets/application_v2-7b73c6af9742b38b2e81ac12b2e090f6.js"></script>
+    <script src="https://cdn.booster.com/merchandising/assets/application_v2-3cc77805fe76d8951f4e2e41d9d61c1c.js"></script>
     <script>
 window.Booster.Constants = {
-  enableNewCheckoutOptions: false
+  enableNewCheckoutOptions: true
 }
 </script>
 
     <script src="https://cdn.booster.com/merchandising/assets/controllers/pages-3c71ea39482a9e1af38170cd0990157f.js"></script>
 
-      <script>
-  (function () {
-    var features = {"mobile_lead_form":"excluded","mobile_campaign_preloader_v3":"excluded","braintree":"excluded","design_support_proaction":"excluded","checkout_options_v4":"no","donate_without_purchase":"yes","donate_without_purchase_on_cart":"no","new_desktop_social_sharing":"yes","prod_216_social_share_post_purchase":"excluded","self_attribution_on_settings_page":"no"};
+        <script>
+    (function () {
+      var features = {"braintree":"excluded","checkout_options_v4":"yes","donate_without_purchase":"yes","suggested_donation_v2":"excluded","prod_297_product_shipping_update_v3":"excluded","prod_366_mobile_login_first_v2":"excluded","prod_249_multi_fixes":"excluded","prod_398_fb_cta_for_campaign":"no","prod_132_multiproduct_lab":"excluded","prod_354_continue_without_design":"excluded"};
 
-    window.Booster.Signalman = {
-      getAnalyticProps: function() {
-        var props = {};
+      window.Booster.Signalman = {
+        getAnalyticProps: function() {
+          var props = {};
 
-        for (var key in features) {
-          if (!features.hasOwnProperty(key)) continue;
+          for (var key in features) {
+            if (!features.hasOwnProperty(key)) continue;
 
-          var humanizedKey = key.toLowerCase().replace(/\_/g, ' ');
-          var value = features[key];
-          props['Signalman ' + humanizedKey] = value;
+            var humanizedKey = key.toLowerCase().replace(/\_/g, ' ');
+            var value = features[key];
+            props['Signalman ' + humanizedKey] = value;
+          }
+
+          return props;
         }
+      };
+    }());
+  </script>
 
-        return props;
-      }
-    };
-  }());
-</script>
-
-<script>
-  (function () {
-    window.Booster.analyticsCookies = new Booster.AnalyticsCookies;
-  }());
-</script>
+  <script>
+    (function () {
+      window.Booster.analyticsCookies = new Booster.AnalyticsCookies;
+    }());
+  </script>
 
 <script>
   window.dataLayer = [];
   var deviceType = "desktop";
   window.gtmDeviceType = "desktop"; // Device Category for GTM
 </script>
+  
+  <script>
 
-<script>
+      var _kmk = _kmk || '81b63a1906cd4936763e012da1ffc12b65392406';
+      window.dataLayer.push({'gaAccount' : 'UA-47842012-1'});
+      window.dataLayer.push({'gaAccountUniversal' : 'UA-47842012-2'});
 
-    var _kmk = _kmk || '81b63a1906cd4936763e012da1ffc12b65392406';
-    window.dataLayer.push({'gaAccount' : 'UA-47842012-1'});
-    window.dataLayer.push({'gaAccountUniversal' : 'UA-47842012-2'});
-
-  if (!Booster.analyticsCookies) {
-    window.Booster.analyticsCookies = new window.Booster.AnalyticsCookies();
-  }
-
-  var mergedProps = $.extend(window.Booster.Signalman.getAnalyticProps(),
-                             window.Booster.analyticsCookies.getProps());
-
-  window.dataLayer.push({
-    pageProperties: mergedProps
-  });
-
-  var _kmq = _kmq || [];
-  function _kms(u) {
-    setTimeout(function(){
-      var d = document, f = d.getElementsByTagName('script')[0],
-      s = d.createElement('script');
-      s.type = 'text/javascript'; s.async = true; s.src = u;
-      f.parentNode.insertBefore(s, f);
-    }, 1);
-  }
-  var initKms = function() {
-    _kms('//i.kissmetrics.com/i.js');
-    _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
-
-    var refs = { ref : "", defaultRef : ""}
-    new FirstReferralAnalytics(refs, 1461545396, '174.129.228.67').set_ref();
-
-    var interval = setInterval(function(){
-      $.event.trigger({
-        type: 'googletagmanager_load_ok',
-        w: window,
-        d: document,
-        s: 'script',
-        l: 'dataLayer',
-        i: 'GTM-K9TC8D',
-        interval: interval
-      });
-    }, 200);
-  }
-
-  $(document).on('googletagmanager_load_ok', function(e){
-    var w=e.w, d=e.d, s=e.s, l=e.l, i=e.i;
-    var f = d.getElementsByTagName('body')[0];
-
-    if (typeof f !== "undefined") {
-      clearInterval(e.interval);
-    } else {
-      return;
+    if (!Booster.analyticsCookies) {
+      window.Booster.analyticsCookies = new window.Booster.AnalyticsCookies();
     }
 
-    w[l] = w[l] || [];
-    w[l].push({
-      'gtm.start': new Date().getTime(),
-      event: 'gtm.js'
+    var mergedProps = $.extend(window.Booster.Signalman.getAnalyticProps(),
+                               window.Booster.analyticsCookies.getProps());
+
+    window.dataLayer.push({
+      pageProperties: mergedProps
     });
 
-    var j = document.createElement(s),
-        dl = l != 'dataLayer' ? '&l=' + l : '';
-    j.async = true
-    j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+    var _kmq = _kmq || [];
+    function _kms(u) {
+      setTimeout(function(){
+        var d = document, f = d.getElementsByTagName('script')[0],
+        s = d.createElement('script');
+        s.type = 'text/javascript'; s.async = true; s.src = u;
+        f.parentNode.insertBefore(s, f);
+      }, 1);
+    }
+    var initKms = function() {
+      _kms('//i.kissmetrics.com/i.js');
+      _kms('//doug1izaerwt3.cloudfront.net/' + _kmk + '.1.js');
 
-    f.appendChild(j);
-  });
+      var refs = { ref : "", defaultRef : ""}
+      new FirstReferralAnalytics(refs, 1486703226, '172.68.143.248').set_ref();
 
-  initKms();
-</script>
+      var interval = setInterval(function(){
+        $.event.trigger({
+          type: 'googletagmanager_load_ok',
+          w: window,
+          d: document,
+          s: 'script',
+          l: 'dataLayer',
+          i: 'GTM-K9TC8D',
+          interval: interval
+        });
+      }, 200);
+    }
 
-<!-- Fire the starting campaign event -->
+    $(document).on('googletagmanager_load_ok', function(e){
+      var w=e.w, d=e.d, s=e.s, l=e.l, i=e.i;
+      var f = d.getElementsByTagName('body')[0];
+
+      if (typeof f !== "undefined") {
+        clearInterval(e.interval);
+      } else {
+        return;
+      }
+
+      w[l] = w[l] || [];
+      w[l].push({
+        'gtm.start': new Date().getTime(),
+        event: 'gtm.js'
+      });
+
+      var j = document.createElement(s),
+          dl = l != 'dataLayer' ? '&l=' + l : '';
+      j.async = true
+      j.src = '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+
+      f.appendChild(j);
+    });
+
+    initKms();
+  </script>
+
+  <!-- Fire the starting campaign event -->
 
       
 
     
+  <script>
+//<![CDATA[
+
+    $(function(){
+      new Booster.CheckoutNotification().initialize();
+    });
+
+//]]>
+</script>
     
     
   
