@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epom.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828031408id_/https%3A//epom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epom.com privacy policy that was archived on 2017-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170210080147id_/https%3A//epom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Epom Ad Server
 
