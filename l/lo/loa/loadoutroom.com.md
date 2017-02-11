@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loadoutroom.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924081621id_/https%3A//loadoutroom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loadoutroom.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211080953id_/https%3A//loadoutroom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Loadout Room
 
