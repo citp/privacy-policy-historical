@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viral-launch.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204150916id_/http%3A//viral-launch.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viral-launch.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211124214id_/http%3A//viral-launch.com/privacypolicy.html) for the most accurate reproduction.*
 
 # Viral Launch - Improve Amazon Best Seller Ranking | Sell More On Amazon
 
