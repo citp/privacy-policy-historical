@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the broadbandgenie.co.uk privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011213237id_/https%3A//www.broadbandgenie.co.uk/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadbandgenie.co.uk privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211105226id_/https%3A//www.broadbandgenie.co.uk/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Broadband Genie
 
@@ -24,4 +24,4 @@ By entering your email address on the Broadband Genie site, including submitting
 
 We are committed to maintaining your privacy and we will not pass your information to any third party providers. However, we reserve the right to pass your details to law enforcement agencies if required to do so by applicable law, or in cases of possible criminal prosecution.
 
-You can unsubscribe from these emails at any time by following the unsubscribe link in each email that we send out or you can update your preferences about which emails you would like to receive [here](http://email.broadbandgenie.co.uk/k/Genie-Ventures/preference_center_form).
+You can unsubscribe from these emails at any time by following the unsubscribe link in each email that we send out or you can update your preferences about which emails you would like to receive [here](https://web.archive.org/preferences).
