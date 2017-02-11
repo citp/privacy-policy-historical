@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bignerdranch.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118095031id_/https%3A//www.bignerdranch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bignerdranch.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211082537id_/https%3A//www.bignerdranch.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Big Nerd Ranch
 
