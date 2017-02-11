@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pushover.net privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209143231id_/https%3A//pushover.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pushover.net privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211183703id_/https%3A//pushover.net/privacy) for the most accurate reproduction.*
 
 # Pushover: Privacy Policy
 
@@ -21,20 +21,22 @@ Superblock uses your personal information to:
   * Deliver to you any administrative notices and communications relevant to your use of the Pushover Service;
   * Provide you with updates regarding Superblock and Pushover products and services;
   * Perform internal market research, project planning, troubleshooting problems, and to detect and protect against error, fraud or other criminal activity; and
-  * Enforce the Pushover Terms of Use.
+  * Enforce the Pushover [Terms of Use](https://web.archive.org/terms).
 
 
 
 ### Disclosure to Third Parties
 
-Superblock ("we") collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to other organizations for commercial purposes, except under the following circumstances: 
+Superblock ("we") collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit, and information volunteered by the consumer (such as survey information and/or site registrations). The information we collect is exclusively used to improve the content of our Web pages and the quality of our service, and is not shared with or sold to any person, company, or organization (for the avoidance of doubt, this prohibition applies to any commercial and non-commercial purposes), except under the following circumstances: 
 
-  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Terms of Service, or as otherwise required by law. 
+  * It is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of [Terms of Service](https://web.archive.org/terms), or as otherwise required by law. 
 
   * We transfer information about you if Pushover or Superblock, LLC is acquired by or merged with another company. In this event, Superblock will notify you before information about you is transferred and becomes subject to a different privacy policy.
 
 
 
+
+For the latest information regarding warrants, searches, and seizures affecting Pushover or its users, please see our [transparency report](https://web.archive.org/canary.asc). 
 
 ### Children
 
@@ -62,7 +64,7 @@ When you request cancellation of your account, your personally identifiable info
 
 ### Disclosure
 
-Superblock may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the Terms of Service. 
+Superblock may disclose personally identifiable information under special circumstances, such as to comply with subpoenas or when your actions violate the [Terms of Service](https://web.archive.org/terms). 
 
 ### Changes
 
@@ -72,6 +74,8 @@ Superblock may update this policy. We will notify you about significant changes 
 
 Any questions about this Privacy Policy should be addressed by e-mail to _support at pushover.net_. 
 
-This policy was last updated on January 27, 2014 to reflect the application and device version information that is collected. 
+This policy was last updated on November 2, 2016 to clarify that third parties we do not disclose information to includes persons and companies, not just organizations, and that the prohibition applies to commercial and non-commercial purposes. 
+
+This policy was previously updated on January 27, 2014 to reflect the application and device version information that is collected. 
 
 This policy was previously updated on August 8, 2012. 
