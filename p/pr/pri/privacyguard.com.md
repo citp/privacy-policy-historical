@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908013713id_/https%3A//www.privacyguard.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the privacyguard.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211045838id_/https%3A//www.privacyguard.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | PrivacyGuard
 
@@ -11,10 +11,6 @@ Any information that you enter on an enrollment or other form on our Web Site ma
 We attempt to provide for the secure transmission of your information from your computer to our servers by utilizing encryption software. However, due to the inherent open nature of the Internet, we cannot guarantee that communications between you and Trilegiant, and Trilegiant and you, will be free from unauthorized access by third parties, such as hackers.
 
 PrivacyGuard.com utilizes Standard SSL encryption on pages where secure information is transmitted over the Internet. We also use VeriSign as our Certificate of Authority. If you would like more information on the PrivacyGuard VeriSign Certificate, go to PrivacyGuard.com.
-
- 
-
-In addition to employing these high-security measures, we have undergone a rigorous certification process for Cybertrust Corporation's Web Certification program. This process examined in great detail every aspect of our security precautions, and included an on-site inspection of our facility for physical security and policy, plus a remote assessment of our potential vulnerabilities to web-based attacks. Cybertrust's certification is a continuous process, repeated and renewed annually.
 
 **Your California Privacy Rights**  
 Under California law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (1) a list of the categories of personal information, such as name, address, email address, and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties' direct marketing purposes, and (2) the names and addresses of all such third parties. To request the above information, please email us at [CARequests@trilegiant.com](mailto:CARequests@trilegiant.com) or write us at: Attn: Dept. SB-27, Trilegiant Corporation, P.O. Box 41249, Nashville, TN 37204-1249, with a reference to California Disclosure Information.
