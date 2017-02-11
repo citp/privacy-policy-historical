@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the droidmen.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220005329id_/https%3A//www.droidmen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the droidmen.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211173228id_/https%3A//www.droidmen.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ For DroidMen the Privacy of the visitors on the site is the highest priority, Th
 
  **For Doubts :** You mail us on **admin@droidmen.com**
 
-## Log Files
+##  Log Files
 
 A Log File generally refers to the file which contains list of all the actions that are committed, this is used by most of the standard Web site servers and so do we.
 
@@ -35,7 +35,7 @@ DART Cookies (Dynamic Advertising Reporting & Targeting) are those cookies which
 
  **For now we don’t have any Advertising Partner but as soon as We get one, we may also add all the information which would be passed on to our Advertising Partner!**
 
-## Links
+##  Links
 
 Links in general refers to the URLs, in some of our posts we many also include the sources of some sites which may not belong to us and if you navigate to that site, that site may exchange some information which is not mentioned here, but DroidMen will not be responsible for any other things that may take place on the other site, but as privacy is at the utmost importance to us we may analyze the Site of which will be sharing the link and then we may share the link on our site so that the users don’t face any issues.
 
