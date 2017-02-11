@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709072659id_/http%3A//formlabs.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the formlabs.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211201343id_/https%3A//formlabs.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Formlabs
 
