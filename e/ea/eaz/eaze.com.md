@@ -1,124 +1,60 @@
-> *The following text is extracted and transformed from the eaze.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425170207id_/http%3A//eaze.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eaze.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211193449id_/https%3A//www.eaze.com/privacy-policy) for the most accurate reproduction.*
 
-# EAZE | Domain Shop
+# Privacy Policy - Eaze Blog | Marijuana Education, News, and Culture
 
-###  A. Information from Visit 
+Last Edited: 10/30/15
 
-When accessing our Website www.eaze.com, EAZE may learn certain information about you during your visit. How we will handle information we learn about you depends upon what you do when visiting our site. If you visit our site to read or download information on our pages, we collect and store only the following information about you: 
+**Introduction**
 
-  * The name of the domain from which you access the Internet; 
-  * The date and time you access our site; and 
-  * The Internet address of the Web site you used to link directly to our site. 
+Welcome to EAZE, your number one source for medical marijuana lead generation services.  This “Privacy Policy” governs your use of www.eazeup.com and any other Eaze Solutions, LLC owned and operated website or mobile application; including but not limited to any interactive features or other online services that may post a link to www.eazeup.com (hereinafter referred to “Service”).
 
+In addition to reviewing this Privacy Policy, please review our Terms and Conditions of Service User Agreement which governs the use of the Service.  If you do not agree to abide by the Terms and Conditions of Service, you automatically opt out of the EAZE platform and are prohibited from using EAZE. If you agree to abide by the Terms and Conditions of Service User Agreement and subsequently violate the terms of the Agreement, your use of the Service will be terminated. **By using our Service, you consent to our Privacy Policy and Terms and Conditions of Service User Agreement and our collection, use and sharing of your information and data, and other activities, as described below.**
 
+**Information Collected**
 
-* * *
+Registering with the Service, requires certain information such as: (1) personally identifiable information, which is information that identifies you personally, including but not limited to your first and last name, email address, home address, date of birth and phone number (“Personal Information”); and (2) demographic information, such as information about your location, age, gender, and spending habits (“Demographic Information”); and (3) medical information regarding your medical marijuana recommendation, including the name and license number of your recommending physician, the contact information of the physician, the method to verify the recommendation’s authenticity, the expiration date of the recommendation, the recommendation verification number, and the details of any orders placed through the Service (“Usage Information”). We may collect this information through various forms and in various places on the Service, including if you register for an account, through “contact us” forms, or when you otherwise interact with the Service in any way. If we combine Demographic Information with the Personal Information we collect directly from you on the Service, we will treat the combined data as Personal Information under this Privacy Policy. All Personal Information collected by EAZE is proprietary information, and is the property of EAZE.
 
-###  B.Types of information captured 
+**Location-Based Information**
 
-If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message. The information collected is for statistical purposes. EAZE uses software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. 
+Our Service may use location-based services in order to locate you so that we may verify your location, deliver you relevant content based on your location, and share your location with the pre-registered delivery and dispensary service providers as part of the location-based services we offer.
 
-* * *
+**Information Third Parties Provide About You**
 
-When you register to use the site you will enter your name, email address, billing address and credit card information such as credit card number and expiration date. Once you have signed up for the service we will then allow you to enter more information about yourself within the portfolio and settings section of the site. Such information includes your name, phone numbers (including mobile), mailing address, external accounts that you may have on third party sites such as Amazon, Clickbank and GoDaddy. Further information we may collect if you wish to add an external account to your EAZE account is username, password, primary tracking ID, access key ID and secret access key for any domains you choose to manage via your EAZE account.
+We may receive information about you from our affiliates, from any other users of the Service, or from any other third parties that may provide us information we deem relevant to your use of the Service. EAZE may at its sole discretion collect and use this information as Personal Information.
 
-We will only use this information to set up your account, bill you after your 14 day free trial has expired (which you may cancel at any time), respond to your inquiries, allow you to watch domains that may be up for auction, purchase domains that are available to buy, domain trading and selling, import a list of domains, view traffic stats from all countries for all domains that you own and link to, build a Web site to sell, and link your external accounts so that you may access them from our site. 
+**Interactions with Third Party Sites**
 
-We do not physically capture or retain any of your credit card information. This information will be entered by you into a secure PCI-DSS-compliant payment processing service provided to us by Stripe Inc whose service is operated in conjunction with Wells Fargo Bank, N.A. We do not know your card details and therefore cannot disclose them to any other party.
+The Service may include functionality that allows certain kinds of interactions between the Service and your account on a third-party web site or application; for example interaction with the Dispensary’s website. The use of this functionality may involve the third-party operator providing certain information, including Personal Information, to us. For example, we may provide third-party sites’ interfaces or links on the Service to facilitate your sending a communication from the Service. EAZE may at its sole discretion collect and use this information as Personal Information.
 
-If you do not have an external account on the third party single sign on domain marketplaces we work with, we also allow you the ability to create an account at those third party domain marketplaces so that you may link them to your EAZE account.
+**The Health Insurance Portability and Accountability Act of 1996 (HIPAA) Compliance**
 
-* * *
+The HIPAA Privacy Rule establishes standards to protect users of the Service individuals’ medical records and other personal health information.  The Service has appropriate safeguards to protect the privacy of personal health information, and sets limits and conditions on the uses and disclosures that may be made of such information without patient authorization.
 
-###  C. Networking Monitoring 
+However, we may use your Personal Information, Demographic Information or Usage Information at EAZE’s sole discretion for various purposes, including but not limited to:
 
-If you identify yourself by sending us an e-mail containing personal information, then the information collected will be solely used to respond to your message. The information collected is for statistical purposes. EAZE uses software programs to create summary statistics, which are used for such purposes as assessing the number of visitors to the different sections of our site, what information is of most and least interest, determining technical design specifications, and identifying system performance or problem areas. 
+Processing of transactions; providing special offers catered to users’ needs; enabling users to participate in the Service’s features; providing users with a customized experience; providing customer support; contacting user regarding any updates or changes to this policy or Terms and Conditions; and for other purposes disclosed at the time you provide your information or as otherwise set forth in this Privacy Policy.
 
-* * *
+We incorporate commercially reasonable safeguards to help protect and secure your Personal Information. However, no data transmission over the Internet, mobile networks, wireless transmission or electronic storage of information can be guaranteed to be 100% secure. Please note that we cannot ensure the security of any information you transmit to us, and you use our Service and provide us with your information at your own risk.
 
-###  D. Cookies 
+**How and When Do We Disclose Information to Third Parties?**
 
-A cookie is a small text file that is stored on a user's computer for record-keeping purposes. We use cookies on this site. We do not link the information we store in cookies to any personally identifiable information you submit while on our site.
+We may share non-Personal Information, such as aggregated user statistics, with third parties. We do not share the Personal Information that we collect with third parties for those third parties’ direct marketing purposes.  We may share the information we have collected about you, including Personal Information, as disclosed at the time you provide your information and as described below or otherwise in this Privacy Policy. The Service may disclose your information as follows:
 
-We use session ID cookies and persistent cookies. We use session cookies to make it easier for you to navigate our site. A session ID cookie expires when you close your browser. A persistent cookie remains on your hard drive for an extended period of time. We set a persistent cookie to store your passwords, so you don't have to enter it more than once. Persistent cookies also enable us to track and target the interests of our users to enhance the experience on our site.
-
-The use of cookies by third parties on our site is not covered by our privacy policy. We do not have access or control over these cookies.
-
-Clear Gifs (Web Beacons)
-
-Our third party service provider employs a software technology called clear gifs (a.k.a. Web Beacons), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user's computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We do not tie the information gathered by clear gifs to our customers' personally identifiable information. 
-
-We may offer chat rooms, message boards, bulletin boards, or similar public forums where you and other users of our Website can communicate. The protections described in this Privacy Policy do not apply when you provide information (including personal information) in connection with your use of these public forums. We may use personally identifiable and non-personal information about you to identify you with a posting in a public forum. Any information you share in a public forum is public information and may be seen or collected by anyone, including third parties that do not adhere to our Privacy Policy. We are not responsible for events arising from the distribution of any information you choose to publicly post or share through our Website. 
-
-* * *
-
-### E. Keeping Your Information Secure 
-
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
-
-When you enter sensitive information (such as credit card or payment information on our service provider's forms) or personal information once you have created an account on our forms, we encrypt the transmission of that information using secure socket layer technology (SSL). As noted above, we do not capture or store any credit card details on our site or servers.
-
-* * *
-
-### F. Contact and Opt-Out Information
-
-You may contact us as at [info@eaze.com](mailto:info@eaze.com) if: (a) you have questions or comments about our Privacy Policy; (b) wish to make corrections to any personally identifiable information you have provided; (c) want to opt-out from receiving future commercial correspondence, including emails, from us or our affiliated companies regarding new developments and functions that we have made available within our products and services; or (d) wish to withdraw your consent to sharing your personally identifiable information with the service providers described in Section J of this Privacy Policy, including payment processors, email service providers and customer support hosting providers. We will respond to your request and, if applicable and appropriate, make the requested change in our active databases as soon as reasonably practicable. Please note that we may not be able to fulfill certain requests while allowing you access to certain benefits and features of our Website.
-
-  
+  * When You Provide Information to Third Parties. You may be presented with an option on our Service to receive certain information and/or marketing offers directly from third parties. If you choose to do so, your Personal Information and other information may be disclosed to such third parties and all information you disclose will be subject to the third party privacy policies and practices of such third parties. We are not responsible for the privacy policies and practices of such third parties and, therefore, you should review such third party privacy policies and practices of such third parties prior to requesting information from or otherwise interacting with them.
 
 
-* * *
+  * Administrative and Legal Reasons.  We may disclose Personal and Usage Information when subpoenaed by law enforcement; to protect the Service; and to detect or prevent misuse, fraud, security, or technical issues or where otherwise required to do so by law.
 
-### G. Notifications
 
-You choose which types of notification you wish to receive once you have signed up. You may wish to receive notifications when an auction has been won, when your maximum bid has been reached or exceeded, when a domain has achieved a pending status, or when a backordered domain has been missed or acquired. Simply login to your account and select the "notifications" tab.
 
-We will send you service-related announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. 
+**Information User Discloses**
 
-We will send you a welcoming email to verify your email address and provide you a password. We will also communicate with you in response to your inquiries, to provide the services you request, and to manage your account. We will communicate with you by email or telephone, in accordance with your wishes. 
+The Service will contain a community forum and message board where users are able to create user profiles, writings, photographs, ideas, videos, audio recordings, computer graphics, pictures, data, or other content, including Personal Information (collectively, “User Content”). All User Content once posted immediately becomes the property of EAZE. The Service may display, reproduce, publish, distribute or otherwise use User Content online or offline in any media or format (currently existing or hereafter developed) and may or may not attribute it to you.  Others may have access to this User Content and may have the ability to share it.  Please think cautiously prior to posting any Personal Information in a public forum.  Our Privacy Policy does not apply to any information that you disclose publicly through our Service. We are not responsible for the accuracy, use or misuse of any User Content that you disclose or receive from third parties through the Service.
 
-* * *
+**User Information and Communications**
 
-### H. Sole Statement
+The user is responsible for maintaining the truthfulness and accuracy of the information you submit to us, such as the user’s contact information and doctor recommendation information provided as part of registration.  The Service will disable a user’s account if the information provided is determined to be false or no longer current.
 
-This Privacy Policy as posted on this Website is the sole statement of our privacy policy with respect to this Website, and no summary, modification, restatement or other version thereof, or other privacy statement or policy, in any form, is valid unless we post a new or revised policy to the Website.
+**Changes to the Privacy Policy**
 
-* * *
-
-### I. Access
-
-If your personal information changes, or if you no longer desire our service, you may correct, update, delete inaccuracies, or deactivate your account by making the change on our member information page or by emailing us at [info@eaze.com](mailto:info@eaze.com). We will respond to your access request within 30 days.
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [info@eaze.com](mailto:info@eaze.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-* * *
-
-### J. Third Parties
-
-We will not share, sell, rent or trade your personal information with third parties other than as disclosed within this privacy policy.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as a payment processor to bill you for services, an email service provider to send out emails on our behalf, or a customer support hosting provider to host our feedback and support pages. These companies are authorized to use your personal information only as necessary to provide these services to us.
-
-All information collected for payments is done through our third party service provider Stripe, Inc on their site. Only relevant information is then shared back with us in order for us to fulfill your service request. All information collected is done securely via secure socket layer technology (SSL) which transmits that information directly to Stripe Inc. We do not capture or retain any credit card information on our site or servers. Stripe Inc asserts that it maintains commercially reasonable administrative, technical and physical procedures to protect all the personal information regarding our customers that is stored in its servers from unauthorized access and accidental loss or modification. However, Stripe Inc does not guarantee that unauthorized third parties will never be able to defeat those measures or use such personal information for improper purposes. You acknowledge that you provide this personal information at your own risk. You may review Stripe's Privacy Policy, which explains how Stripe Inc collects, uses and safeguards information.
-
-We may disclose your personal information as required by law, such as to comply with a subpoena, or similar legal process; when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
-
-If EAZE is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding the use of your personal information. 
-
-This Web site contains links to other sites that are not owned or controlled by us. Please be aware that we are not responsible for the privacy practices of such other sites.
-
-We encourage you to be aware when you leave our site and to read the privacy policies of each and every Web site that collects personally identifiable information.
-
-This privacy policy applies only to information collected by this Web site. 
-
-* * *
-
-### K. Public Forums
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at [info@eaze.com](mailto:info@eaze.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
-
-* * *
-
-### L. Changes in this Policy
-
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email ( sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+The Service has the authority to alter the Privacy Policy at any time without notice to you. However, the Service will not change this Privacy Policy in a manner that materially alters the use of the user’s Personal Information as promised at the time it was collected unless required to do so by law.
