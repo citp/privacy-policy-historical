@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williampainter.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112205837id_/http%3A//www.williampainter.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williampainter.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211061114id_/https%3A//www.williampainter.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | William Painter Titanium Sunglasses | William Painter
 
