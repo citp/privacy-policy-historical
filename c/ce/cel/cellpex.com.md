@@ -1,9 +1,11 @@
-> *The following text is extracted and transformed from the cellpex.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314194904id_/http%3A//www.cellpex.com/index.php%3Ffuseaction%3Dblog.article%26id%3D33) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cellpex.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211055420id_/https%3A//www.cellpex.com/index.php%3Ffuseaction%3Dblog.article%26id%3D33) for the most accurate reproduction.*
 
 # Privacy Policy | Support | Cellpex
 
+[Support](https://web.archive.org/index.php?fuseaction=blog.articles&id=4) \- Aug 28, 2005 (Updated Mar 31, 2015) by Cellpex [admin](https://web.archive.org/suppliers-wholesalers-dealers-detail/30 "Cellpex, United States")     [](https://web.archive.org/blogs/33)
+
   
-We consider and respect any individual's privacy seriously and importantly. The fundamental purpose of the services that [Cellpex.com](https://www.cellpex.com/) provides you; for example, Offerboard enabling exchanges of trade leads, offers and inquiries, listing through the [Cellpex.com](https://www.cellpex.com/) and search engines, etc., requires that we gather, process, use and distribute the member's information which also you provide directly; for example, your company name, contact information, and homepage, etc. Therefore, [Cellpex.com](https://www.cellpex.com/) does not guarantee that your information will be protected from exposure in any particular party or group. If you wish to remove your company or update your company's information, please [Contact Us](https://web.archive.org/web/20160314194904id_/http%3A//www.cellpex.com/index.php?fuseaction=site.contact).  
+We consider and respect any individual's privacy seriously and importantly. The fundamental purpose of the services that [Cellpex.com](https://www.cellpex.com/) provides you; for example, Offerboard enabling exchanges of trade leads, offers and inquiries, listing through the [Cellpex.com](https://www.cellpex.com/) and search engines, etc., requires that we gather, process, use and distribute the member's information which also you provide directly; for example, your company name, contact information, and homepage, etc. Therefore, [Cellpex.com](https://www.cellpex.com/) does not guarantee that your information will be protected from exposure in any particular party or group. If you wish to remove your company or update your company's information, please [Contact Us](https://web.archive.org/web/20170211055420id_/https%3A//www.cellpex.com/index.php?fuseaction=site.contact).  
 ---  
    
 **Information Collection and Use**  
@@ -28,7 +30,7 @@ We will share aggregated demographic information with our partners and advertise
 This web site contains links to other sites. In addition, your trade leads and contact information will be available to trade lead search engines from other web sites. Please be aware that [Cellpex.com](https://www.cellpex.com/) is not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the Privacy Policy of each and every web site that collects personally identifiable information. This Privacy Policy applies solely to information collected by this web site.  
    
 **Security**  
-This website takes every precaution to protect our user's information. When users submit sensitive information via the website, your information is protected both online and off-line. We employ all the latest technology in firewalls and the servers that we store our information on are kept in a secure environment, behind a locked cage at a hosting company. If you have any questions about the security at our website [contact us](https://web.archive.org/web/20160314194904id_/http%3A//www.cellpex.com/index.php?fuseaction=site.contact).  
+This website takes every precaution to protect our user's information. When users submit sensitive information via the website, your information is protected both online and off-line. We employ all the latest technology in firewalls and the servers that we store our information on are kept in a secure environment, behind a locked cage at a hosting company. If you have any questions about the security at our website [contact us](https://web.archive.org/web/20170211055420id_/https%3A//www.cellpex.com/index.php?fuseaction=site.contact).  
    
 **Correcting Your Information**  
 You can access the information that we collect online and maintain through normal updating methods. To update, correct or delete this information, you can go to User Profile.  
@@ -40,4 +42,4 @@ We periodically send announcement on site and service to Members. Members are no
 If we decide to change our Privacy Policy, we will update this posting so our users are always aware of what information we collect, how we use it, and under circumstances, if any, we disclose it. Therefore, you should check up on this Privacy Policy regularly.  
    
 **Contacting the Web Site**  
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, feel free to [Contact Us](https://web.archive.org/web/20160314194904id_/http%3A//www.cellpex.com/index.php?fuseaction=site.contact).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this Web site, feel free to [Contact Us](https://web.archive.org/web/20170211055420id_/https%3A//www.cellpex.com/index.php?fuseaction=site.contact).
