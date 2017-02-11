@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogging.org privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514101540id_/http%3A//blogging.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogging.org privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211125928id_/https%3A//blogging.org/privacy) for the most accurate reproduction.*
 
 # Privacy - How to Start a Blog - The Blogging.org Guide to Blogging
 
