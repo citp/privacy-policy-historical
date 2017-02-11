@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bedandbreakfast.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404184308id_/http%3A//www.bedandbreakfast.com/privacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bedandbreakfast.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211145407id_/https%3A//www.bedandbreakfast.com/privacystatement.aspx) for the most accurate reproduction.*
 
 # PrivacyStatement.cshtml
 
@@ -149,9 +149,9 @@ We will contact you from time to time for marketing purposes. Unless you have op
 You may opt-out of receiving marketing communications from us by the following means:  
 1.    Contact us at 
 
-[Customer Support](http://help.bedandbreakfast.com/);  
+[Customer Support](https://help.bedandbreakfast.com/);  
 2.    Follow the instructions included in each communication or newsletter;  
-3.    Use the [Unsubscribe function](http://www.bedandbreakfast.com/unsubscribeemail.aspx); or  
+3.    Use the [Unsubscribe function](https://www.bedandbreakfast.com/unsubscribeemail.aspx); or  
 4.    Mail the request to us at 1011 W. Fifth Street, Suite 300 Austin, Texas 78703.
 
 Please remember that if you change your preferences it may take a short time for those preferences to become effective.
