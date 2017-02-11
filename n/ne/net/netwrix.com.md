@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the netwrix.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608165013id_/http%3A//www.netwrix.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netwrix.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211083743id_/https%3A//www.netwrix.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Introduction
 
 We are committed to respecting your online privacy and recognize your need for appropriate protection and management of any personally identifiable information ("Personal Information") you share with us. We have established this Privacy Policy so that you can understand the care with which we intend to treat your Personal Information. Personal Information means any information that may be used to identify an individual, including, but not limited to, a first and last name, a home or other physical address and an email address or other contact information, whether at work or at home. In general, you can visit our Web pages without telling us who you are or revealing any Personal Information about yourself. We strive to comply with all applicable laws around the globe that are designed to protect your privacy. Although legal requirements may vary from country to country, we intend to adhere to the principles set forth in this Privacy Policy even if, in connection with the above, we transfer your Personal Information from your country to countries that may not require an "adequate" level of protection for your Personal Information. In other words, our goal is to provide protection for your Personal Information no matter where that Personal Information is collected, transferred, or retained. 
 
@@ -42,7 +44,7 @@ By using this Web site or otherwise providing Personal Information in connection
 
 ## Your California Privacy Rights
 
-California Civil Code Section 1798.83 permits customers of the Netwrix Corporation who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [contact us](https://web.archive.org/web/20160608165013id_/http%3A//www.netwrix.com/contact.html). 
+California Civil Code Section 1798.83 permits customers of the Netwrix Corporation who are California residents to request certain information regarding its disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please [contact us](https://web.archive.org/web/20170211083743id_/https%3A//www.netwrix.com/contact.html). 
 
 ## Links to Other Web Sites
 
@@ -54,4 +56,4 @@ We may amend this Privacy Policy at any time. If significant changes are made in
 
 ## Questions or Feedback
 
-[Contact us](https://web.archive.org/web/20160608165013id_/http%3A//www.netwrix.com/contact.html) for any questions or suggestions about this Privacy Policy.
+[Contact us](https://web.archive.org/web/20170211083743id_/https%3A//www.netwrix.com/contact.html) for any questions or suggestions about this Privacy Policy.
