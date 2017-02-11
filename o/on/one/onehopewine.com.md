@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onehopewine.com privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709200514id_/https%3A//www.onehopewine.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onehopewine.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211214455id_/https%3A//www.onehopewine.com/privacy) for the most accurate reproduction.*
 
 # Privacy | ONEHOPE Wine
 
