@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the astromatcha.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316150418id_/http%3A//www.astromatcha.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astromatcha.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211180051id_/https%3A//www.astromatcha.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Astromatcha
 
