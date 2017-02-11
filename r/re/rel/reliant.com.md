@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028162831id_/https%3A//www.reliant.com/en/about/legal/privacy/privacy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reliant.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211015444id_/https%3A//www.reliant.com/en/about/legal/privacy/privacy.jsp) for the most accurate reproduction.*
 
 # Privacy Statement | Reliant
 
@@ -15,7 +15,7 @@ Reliant may collect certain non-personal or aggregate data. For example, we may 
   * **Email Addresses**   
 At the time Reliant requests an email address from you, you will be given the opportunity to indicate whether or not you wish to receive future email solicitations from us. We may, however, send you emails for other reasons such as responding to your requests for service or information or matters relative to your account.
   * **Information from Other Sources**   
-For reasons such as providing better product recommendations or special offers that we think will interest you and to identify persons not already a Reliant customer, we receive information from other sources and add it to our information. The type of information we receive may include (but is not limited to) your name, address, telephone number, and in some cases, type and characteristics of your home, your age, and statistical estimates of your family size, income and home value. We also sometimes receive updated delivery and address information so that we can correct our records and deliver your next communication more easily.
+For reasons such as improving our products and services, making product recommendations or special offers that we think will interest you and to identify persons not already a Reliant customer, we receive information from other sources and add it to our information. The type of information we receive may include (but is not limited to) your name, address, telephone number, and in some cases, type and characteristics of your home, your age, and statistical estimates of your family size, income and home value. We also sometimes receive updated delivery and address information so that we can correct our records and deliver your next communication more easily.
 
 
 
@@ -38,7 +38,7 @@ If you provide our customer service representatives with feedback on your experi
   * **Non-personal, Aggregate and Statistical Data**   
 Reliant may collect certain aggregate data called web log information and use cookies when you visit many of our web pages. For instance, when you visit one of our websites, our web server will automatically recognize some non-personal information, including but not limited to the date and time you visited our site, the pages you visited, the referrer (the website you came from), the type of browser you are using (e.g. Internet Explorer or Safari), the type of operating system you are using (e.g. Windows or Mac), and the domain name and address of your Internet service provider (e.g. AT&T or Comcast).
   * **Information from Other Sources**   
-For reasons such as providing better product recommendations or special offers that we think will interest you and to identify persons not already a Reliant customer, we receive information from other sources and add it to our information. The sources that provide this information have obtained it from public sources or from voluntary informational surveys.
+For reasons such as providing better product recommendations or special offers that we think will interest you and to identify persons not already a Reliant customer, we receive information from other sources and add it to our information.
 
 
 
@@ -58,11 +58,23 @@ Back to Top
 #### How We May Share Your Information
 
   * **For Promotional Purposes**   
-Except in the event of a business transfer, we will not share, trade or sell personal information about you for promotional use by any business, other than Reliant and its affiliates. However, we may sometimes send offers to Reliant customers on behalf of other businesses. When we do this, we do not give that business the name, address, telephone number or email address of our customers. When companies acquire other businesses, sell all, or portions of their business, customer information generally is one of the transferred assets. If Reliant or substantially all of its assets are transferred through merger, acquisition, bankruptcy or any other change of corporate control then, customer information will of course be one of the transferred assets. Aggregated and statistical data from our website visitors may be shared with our partners. For example, we may let a partner know that approximately "20,000 people visited a web page regarding a specific joint promotion." All employees, contractors and other companies engaged by Reliant for work that involves access to personal information are contractually required to keep the information confidential and not to use it in any way other than what is necessary to perform their work for Reliant.
+Except in the event of a business transfer, we will not share, trade or sell personal information about you for promotional use by any business, other than Reliant and its affiliates. Subject, to any applicable legal restrictions, we may share personal information about you with our affiliates and any vendor we use to support our business or provide service to you, including any rewards partner. If you provide your consent for non-affiliates to market their products and services to you, we may share personal information about you for that purpose. We may sometimes send offers to Reliant customers on behalf of other businesses. When we do this, we do not give that business the name, address, telephone number or email address of our customers. We may share information with third parties and business partners that is in aggregated or anonymous form so that it does not divulge personal information, and may work with those entities to do research, including for marketing purposes, and to provide and improve products and services. When companies acquire other businesses, sell all, or portions of their business, customer information generally is one of the transferred assets. If Reliant or substantially all of its assets are transferred through merger, acquisition, bankruptcy or any other change of corporate control then, customer information will of course be one of the transferred assets. Aggregated and statistical data from our website visitors may be shared with our partners. For example, we may let a partner know that approximately "20,000 people visited a web page regarding a specific joint promotion." All employees, contractors and other companies engaged by Reliant for work that involves access to personal information are contractually required to keep the information confidential and not to use it in any way other than what is necessary to perform their work for Reliant.
   * **For Protection of Reliant and Others**   
 We may release personal data, including account information, when we believe release is appropriate to comply with laws, regulations or judicial orders; or to protect the rights, property, or safety of Reliant, our customers, or others. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction. Reliant also reserves the right to share the information to respond to duly authorized information requests of governmental authorities or where required by law or regulation.
 
 
+
+Back to Top
+
+#### Accessing Your Personal Information
+
+If you want to know what personal information Reliant holds about you, or you wish to change personal information that is inaccurate or out of date, please contact us at [privacy@reliant.com](mailto:privacy@reliant.com "Privacy"). Please note that it may not always be possible to modify or completely remove information in our databases, although we will make reasonable efforts to do so upon your written request.
+
+Back to Top
+
+#### Disposal of Your Personal Information
+
+Reliant maintains your personal information in our records when you are a customer. We also maintain personal information for a period of time after you are no longer a customer if necessary for the purposes for which it was collected. These purposes may include business, legal or tax purposes. If these purposes no longer apply, we will destroy, or de-identify, or anonymize the information in accordance with our internal policies and applicable law.
 
 Back to Top
 
@@ -137,7 +149,8 @@ The PUC has established two do-not-call lists. You can indicate to the PUC that 
 
 Online - www.texasnocall.com
 
-By phone – call toll-free
+By phone – call toll-free 512-936-7120   
+
 
 By mail – request an application from
 
@@ -155,11 +168,9 @@ Back to Top
 
 #### Complaints
 
-Reliant is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices by either sending an email or by writing a letter to:
+Reliant is committed to working with consumers to obtain a fair and rapid resolution of any complaints or disputes about privacy. Please send us your questions or comments regarding our privacy practices either by sending an email to [privacy@reliant.com](mailto:privacy@reliant.com "Privacy") or by writing a letter to:
 
-Reliant
-
-Privacy Compliance Coordinator
+Reliant Privacy Compliance Coordinator
 
 P.O. Box 3765
 
@@ -197,3 +208,6 @@ Back to Top
 Please print the Reliant Privacy Statement (this page) for your records.
 
 Back to Top
+
+_Revised: December 5, 2016_   
+_REL120516_
