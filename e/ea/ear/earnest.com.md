@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the earnest.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023181841id_/https%3A//www.earnest.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earnest.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211124802id_/https%3A//www.earnest.com/privacy) for the most accurate reproduction.*
 
 # Security & Privacy | Earnest
 
-Last Updated: 01/23/15
+Last Updated: 12/29/16
 
 At Earnest, we believe fairness and transparency are values that are fundamental to finance. That value powers all of the decisions we make, including how we gather and respect your personal information. We’ve written our policy to be as clear and straightforward as possible to empower and inform you about your privacy while on Earnest’s website.
 
@@ -84,7 +84,7 @@ Some of the services that are offered through the Earnest site may be provided b
 
 You can connect your loan application to your accounts on third-party services, like LinkedIn, in which case we may collect and store information identifying your account with the third-party service. We may use the information to inform your application.
 
-When you connect an account with us, you are requesting our third-party financial aggregator, Intuit, to create a new ‘token’ for Earnest. That token gives access to view account information without giving permissions to perform any other action inside that account.
+Earnest uses Plaid Technologies, Inc. (“Plaid”) to gather your data from financial institutions. By using our service, you grant Earnest and Plaid the right, power, and authority to act on your behalf to access and transmit your personal and financial information from the relevant financial institution. You agree to your personal and financial information being transferred, stored, and processed by Plaid in accordance with [Plaid Privacy Policy](https://plaid.com/legal).
 
 We may share aggregated, non-identifiable user information with third parties, such as advertisers and content distributors. For example, we may disclose the number of users that have been exposed to or clicked on advertisements.
 
