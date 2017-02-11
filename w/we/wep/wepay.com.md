@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wepay.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624114945id_/https%3A//go.wepay.com/privacy-policy-us) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wepay.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211215025id_/https%3A//go.wepay.com/privacy-policy-us) for the most accurate reproduction.*
 
 # Privacy Policy US
 
@@ -9,13 +9,13 @@
 
 
 
-All WePay users must read and agree to the Terms of Service and Privacy Policy for the country in which they are located. Use the buttons below to access the documents that apply to you, then download or print them.
+All WePay users must read and agree to the Terms of Service and Privacy Policy for the country in which they are located. Users of the Apple Pay Web APIs or the Apple Pay Platform must agree to the Apple Pay Terms, too. Use the buttons below to access the documents that apply to you, then download or print them.
 
 _ _
 
 ## WePay Privacy Policy - United States
 
-Last update: December 16, 2015. This update to WePay’s Privacy Policy adds a paragraph describing the US – EU Safe Harbor under “Location,” below.
+Last update: November 9, 2016. This update replaces references to the US-EU Safe Harbor under "Location" below with a reference to the model clauses. 
 
 This Privacy policy reflects how WePay, Inc. ("WePay" or "we") provides its payment services (the "Services") through third party websites ("Platforms"), such as marketplaces, business tools providers, and crowdfunding sites. Platforms provide WePay's Services to their end users ("Users" or "you") by integrating with WePay's application programming interface ("API"), which also enables the Platform to provide User information to WePay and receive information from WePay. This Privacy Policy addresses how WePay handles all User information, including User information provided by you, User information provided by the Platform, and User information obtained by WePay from third parties.
 
@@ -99,9 +99,9 @@ WePay has taken a number of steps in order to become an extremely secure service
 
 ## Location
 
-WePay stores and processes User information on dedicated servers located in secure data centers that may be located within the United States or in other jurisdictions. If you use the Services from the European Union or other regions of the world with laws governing data collection and use that differ from laws of the United States, then you understand and consent to the transfer of your User information to the United States or other jurisdictions for the uses identified above in accordance with this Privacy policy. You acknowledge and agree that the privacy and data security laws in place in the United States or other jurisdictions may be different from the privacy and data security laws in force in the country in which you reside. By voluntarily providing User information, you hereby agree that you are consenting to our collection, use, storage, and disclosure of such User information in accordance with this Privacy policy.
+WePay stores and processes User information on dedicated servers located in secure data centers that may be located within the United States or in other jurisdictions. If you use the Services from the European Economic Area or other regions of the world with laws governing data collection and use that differ from laws of the United States, then you understand and consent to the transfer of your User information to the United States or other jurisdictions for the uses identified above in accordance with this Privacy policy. You acknowledge and agree that the privacy and data security laws in place in the United States or other jurisdictions may be different from the privacy and data security laws in force in the country in which you reside. By voluntarily providing User information, you hereby agree that you are consenting to our collection, use, storage, and disclosure of such User information in accordance with this Privacy policy.
 
-WePay complies with the US - EU Safe Harbor Framework and the US - Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use and retention of personal data from European Union member countries and Switzerland. WePay has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit <http://www.export.gov/safeharbor/>. In compliance with the Safe Harbor Principles, WePay commits to resolve complaints about your privacy and our collection or use of your personal data. European Union and Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact WePay’s General Counsel by sending an email to legal@wepay.com.  If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, then WePay will agree to mediate this issue with the San Francisco office of JAMS, a third-party dispute resolution service.  An individual may file a request for mediation by calling JAMS at (415) 982-5267.  For issues involving employee data in the EU or Switzerland, WePay agrees to cooperate with the EU Data Protection Authorities (DPAs) and/or the Swiss Federal Data Protection and Information Commissioner (FDPIC), as applicable.
+In relation to transfers of User information from WePay Payments Ltd. (in the UK) to WePay, Inc. (in the United States), WePay has put in place measures, including standard model clauses, to ensure an adequate level of protection for the rights and freedoms of individuals in relation to the processing of their personal data, as required by European data protection laws. 
 
 ## Basically,
 
@@ -121,7 +121,7 @@ If you have questions or concerns regarding this policy, you may email us at [le
 
 You can also write to us at:
 
-  
+[WePay Inc](https://web.archive.org/web/20170211215025id_/https%3A/)   
 
 
 350 Convention Way, Suite 200
