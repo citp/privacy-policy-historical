@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeffreestarcosmetics.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014005213id_/http%3A//jeffreestarcosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffreestarcosmetics.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211132730id_/https%3A//jeffreestarcosmetics.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Jeffree Star Cosmetics
 
