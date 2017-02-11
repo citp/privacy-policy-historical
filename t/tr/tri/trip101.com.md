@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trip101.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122214918id_/https%3A//trip101.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trip101.com privacy policy that was archived on 2017-02-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170211205749id_/https%3A//trip101.com/privacy-policy) for the most accurate reproduction.*
 
 # Trip101 Privacy Policy | Trip101
 
