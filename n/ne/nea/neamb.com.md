@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601041358id_/http%3A//www.neamb.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neamb.com privacy policy that was archived on 2017-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170212061722id_/https%3A//www.neamb.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | NEA Member Benefits
 
 ## NEA Member Benefits Privacy Policy
 
 **Effective:** January 1, 2014.  
- **Last updated:** July 9, 2015.
+**Last updated:** July 9, 2015.
 
 **I.  INTRODUCTION**
 
@@ -13,12 +13,11 @@ NEA Member Benefits (“NEA MBC”) values the trust and privacy of National Edu
 
 **II.  DEFINITIONS**
 
-As used in this Privacy Policy, the following terms have the meanings indicated below:  
-
+As used in this Privacy Policy, the following terms have the meanings indicated below:
 
 **A.** The term “we” or “us” means NEA MBC.
 
-**B.** The term “you” means a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA MBC product or service (e.g. a person who has participated in an NEA MBC program, someone who has used an MBC Academy product or service, or a person who subscribes to an NEA MBC-produced electronic communication). 
+**B.** The term “you” means a current or former NEA member or other person who has provided personal information to us in connection with obtaining an NEA MBC product or service (e.g. a person who has participated in an NEA MBC program, someone who has used an MBC Academy product or service, or a person who subscribes to an NEA MBC-produced electronic communication).
 
 **C.**  The term “personal information” means any piece of information that on its own can specifically identify a current or former NEA member or other person who has provided personal information to us. This would include, but is not limited to, full name, postal address, phone number(s), email address(es), social security number, member ID, financial information, and/or program participation information.
 
@@ -26,7 +25,7 @@ As used in this Privacy Policy, the following terms have the meanings indicated 
 
 **E.**  The term “NEA Academy website” means NEA Academy’s external website located at neaacademy.org, lms.neaacademy.org, and any related future websites that we may develop.
 
-**F.**  The term “NEA MBC-related organizations” means the NEA, the NEA Members Insurance Trust, NEA Foundation, NEA Healthy Futures, NEA Professional Solutions, and any other entity created by or affiliated with NEA MBC or the NEA.
+**F.**  The term “NEA MBC-related organizations” means the NEA, the NEA Members Insurance Trust, NEA Foundation, NEA Professional Solutions, and any other entity created by or affiliated with NEA MBC or the NEA.
 
 **G.**  The term “third party” means a legal entity that is separate and independent from NEA MBC, its state and local affiliates, or any NEA MBC-related organization.
 
@@ -56,7 +55,7 @@ The personal information that NEA and MBC collects or accesses about you helps u
 
 In order to provide you with efficient and effective representation and member benefits, we routinely share all of the personal information that we collect about you, as described in Section III above, with our state and local affiliates and NEA-related organizations, as well as third parties that perform services on our behalf.
 
-Additionally, we may share any of the personal information that we collect about you, as described in Section III above, with certain third parties NEA MBC has contracted with to provide and/or support the NEA Member Benefits programs available to NEA members, that share our interests, or as otherwise permitted by law. This information, when transmitted via electronic means such as, but not limited to, secured FTP, is encrypted and protected from unauthorized use. 
+Additionally, we may share any of the personal information that we collect about you, as described in Section III above, with certain third parties NEA MBC has contracted with to provide and/or support the NEA Member Benefits programs available to NEA members, that share our interests, or as otherwise permitted by law. This information, when transmitted via electronic means such as, but not limited to, secured FTP, is encrypted and protected from unauthorized use.
 
 **VI.  AVAILABLE CHOICES**
 
@@ -90,9 +89,9 @@ If you use the NEA MBC or NEA Academy websites or mobile applications, you autom
 
 7. The address of the next website that you visit if you link to it from the NEA MBC website.
 
-We use the above non-personal information to diagnose technical problems and track user interests so that we can provide content that interests you. 
+We use the above non-personal information to diagnose technical problems and track user interests so that we can provide content that interests you.
 
-**B.**  Children 
+**B.**  Children
 
 The NEA MBC website is a general website, and we do not knowingly collect any personal information from children under the age of 13 or knowingly allow such persons to provide us with their personal information.
 
