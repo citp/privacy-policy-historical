@@ -1,59 +1,120 @@
-> *The following text is extracted and transformed from the daad.org privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124093753id_/https%3A//www.daad.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the daad.org privacy policy that was archived on 2017-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170212133754id_/https%3A//www.daad.org/en/home/data-privacy-statement) for the most accurate reproduction.*
 
-# Privacy
+# Data Privacy Statement
 
-The German Academic Exchange Service (DAAD) values our visitors' private information and understands the need for security and trust surrounding such information. The following policy outlines the ways in which we collect, store and use personally identifiable information in providing our products and services. Except for very limited exceptions further described in the remainder of this Privacy Policy, we do not share any personally identifiable information with third parties.
+Thank you for visiting our website. We take data protection and data security very seriously. Please find below detailed information on what type of personal data we collect when you visit our website, and for what purpose.
 
-## **Information Collection and Use**
+Please review this privacy statement on a regular basis since legislative changes or changes in the way we process data internally may require adjustments of this privacy policy from time to time.
 
-DAAD is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. DAAD collects personally identifiable information from our users at several different points on our website.
+### I.    Personal Data
 
-## **Events**
+Personal information can be anything that can be used to identify an individual, not limited to but including name, address, telephone number or e-mail address.
 
-We request information from the user on our event sign-up form. Here a user must provide personally identifiable information (such as name and physical and/or email address). If an event is cancelled or re-scheduled, this personally identifiable information may be used to get in touch with the user.
+Information that cannot to be used to identify a person is not personal data.
 
-## **Log Files**
+### II.    Purpose of Data Processing
 
-We may use IP addresses to analyze trends, administer the site, and gather broad demographic information for aggregate use. IP addresses are not linked to personally identifiable information.
+In connection with the use of this site, we process your personal data for the following purposes, among others:
 
-## **Sharing**
+  * Provision of services via contact forms
+  * Conducting personal and anonymous analyses
+  * Statistical analyses
+  * to prevent misuse
 
-We share certain personally identifiable information obtained from our Events sign-up form with those who attend the event in question.
 
-**Protection of Underage Persons**
 
-Persons under the age of 13 may not submit data to us without the permission of their parents or legal guardians. We do not request personal data from minors. We do not knowingly collect such data and do not forward it to third parties.
+### III.    Data Collection and Data Processing
 
-## **Legal Disclaimer**
+You can use a large part of our online offer without disclosing your identity. However, if you register for our newsletter, request publication material or use the contact form to contact us, for example, we will request your first and last name, your e-mail address, your mailing address, among others, and depending on the contact form and requested service, additional personal information.
 
-We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or to comply with a judicial proceeding, court order or legal process served DAAD.
+It is up to you whether to submit this data or not. However, without this information, we cannot or not fully process your request in some cases and thus cannot provide you with the requested service.
 
-## **Links**
+### IV.    Newsletter
 
-This website contains links to other sites. Please be aware that we [DAAD] are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every website that collects personally identifiable information. This privacy statement applies solely to information collected by the DAAD website.
+When you sign up for our newsletter, we will send a confirmation link to the e-mail address specified by you. Only after you have enabled this confirmation link will you receive our newsletter (double opt-in).
 
-## **Newsletter**
+We only pass data collected in connection with the newsletter registration to third parties insofar as this is technically necessary for sending out the newsletter.
 
-If a user wishes to subscribe to our newsletter, we ask for personally identifiable information such as name and email address.
+If you no longer wish to receive the newsletter, you can unsubscribe at any time. To do this, simply click on the "unsubscribe" link available in each of our newsletters. Afterwards, you will receive no further newsletters from us.
 
-## **Communications from the Site**
+### V.    Cookies
 
-Based upon the personally identifiable information you provide us, when you sign up for an event or our electronic newsletters, we may store information that we collect through log files and other technologies.
+Cookies are small text files used to determine the frequency of use and the number of users to our website as well as to make visits to our website easier for you.
 
-## **Security**
+Our website uses so-called "Session Cookies". These session cookies are automatically deleted at the end of the session. We also use cookies in connection with the "Sitestat analytics tag" process. See also VI for additional information.
 
-This website takes every commercially reasonable precaution to protect our users' information. When users submit personally identifiable information via the website, we take reasonable precautions to protect user-information both online and off-line. When our event sign up form asks users to enter personally identifiable information, that information is sent via an encrypted channel using the secure sockets layer protocol (SSL).
+It is also possible to use our website without cookies. Most browsers are pre-set to accept cookies automatically. If you do not wish to save our cookies on your computer, please deactivate this function in your browser for our website, or set your browser so that cookies are generally not stored on your computer.
 
-While we use the SSL protocol to protect personally identifiable information online, we also take reasonable precautions to protect user-information off-line. All of our users' information, not just the personally identifiable information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job are granted access to personally identifiable information. Furthermore, all employees are kept up-to-date on our security and privacy practices.
+### VI. Web Tracking
 
-If you have any questions about the security at our website, you can send an email to [daadny@daad.org](mailto:daadny@daad.org).
+Our website uses Piwik, a web analytics software package. Piwik saves text files, called "cookies", onto your computer which allows us to analyse how you use the website. For this purpose, the information generated by the "session cookie" (including your abbreviated IP address) is transmitted and saved onto our server so that we can optimise our web pages. As all IP addresses are immediately anonymised in the process, your user identity remains anonymous.
 
-## **Notification of Changes**
+The collected data is not shared with third parties. You may choose to deactivate cookies by blocking them via your web browser. However, this may prevent you from taking full advantage of all the features offered on this website.
 
-If we decide to change our privacy policy, we will post those changes on our Homepage so our users are always aware of what information we collect, how we use it, and under which circumstances, if any, we disclose it. If at any point we decide to use personally identifiable information in a manner different from that stated at the time it was collected, we will notify users by way of an email. Users will have a choice as to whether or not we use their information in this different manner.
+If you do not wish to have your session data saved and analysed, you can retract your consent on cookie storage and usage with a mouse click at any time. In such a case, Piwik places an "opt-out cookie" onto your browser which prevents it from collecting any data during your visit to our website.
 
-## **Usage Rights**
+The grey area below is scrollable. If you are using an older mobile browser and find that your changes are not shown even after you have (de)activated the checkbox, please reload the page.
 
-Copyright © 2016 by DAAD
+**Please note** : If you choose to delete all of the cookies in your browser, the Piwik opt-out cookie will also be erased. This means you will have to reactivate the opt-out cookie during your next session.
 
-All rights reserved.
+### VII.    Log Files
+
+During your visit and use of our website, our web server saves certain log information about this process in a file (log file). Log files contain in particular the following information:
+
+  * Opened URLs
+  * Time
+  * Status
+  * Amount of transferred data
+  * Internet page the user visited first before visiting the requested page (so called "referrer")
+  * HTTP status
+
+
+
+We analyse these records only for statistical purposes, to improve the website, for system security reasons (e.g. preventing misuse) and for troubleshooting.
+
+### VIII.    Google Maps
+
+Our site uses Google Maps on some sub-pages to display interactive maps and to create travel directions or instructions. Google Maps is a map service from Google Inc. (Google). The use of Google Maps may result in information about the use of this website, including your IP address and your (start) address you have indicated within the scope of the driving direction/route planner function, which then may be transmitted to Google in the United States.
+
+If you open a page that contains Google Maps, your browser establishes a direct connection with Google's servers. The map content is delivered by Google directly to your browser and integrated by your browser into the website. Therefore, we have no influence on the amount of data collected by Google in this way.
+
+If you do not want that Google collects processes or uses data about you on our website, you can deactivate JavaScript in your browser. In this case, however, you can not use the map function.
+
+For more information about the purpose and the scope of data collection as well as further processing and use of data by Google, your rights, as well as setting options to protect your privacy, please refer to the Google privacy notice at <https://www.google.com/intl/en/policies/privacy/>.
+
+### IX.    Disclosure of Your Information
+
+As a rule, we do not disclose your personally identifiable information to third parties with the exception of the cases presented here. Deviating hereof, however, we may be required in some cases to disclose your personal information to law enforcement agencies. This is for example the case if there is suspicion of a crime or misuse of our website.
+
+### X.    Social Media Link / Share Buttons
+
+Our website features only image links of social networks, such as Facebook, Twitter, Google +, etc. These "Share" buttons are embedded in disabled form, so that there is no direct contact with the servers of the respective social networks. Only when you click on the "Share" button, will a new window open in which you must log on to the selected social network. The selected page can then be recommended or shared. At no time are data transmitted from our website to the respective operators of the social network without this being initiated by the user.
+
+### XI.    Links to Third-Party Websites
+
+Our website features so-called hyperlinks to websites of other providers. When activating these links, you will be redirected from our website directly to the third-party website. You will recognise this by the URL change, among others.
+
+We are not responsible for how these providers handle your data on these external websites, since we have no control over how these providers deal with your personal data. Please visit the websites of the respective providers directly for additional information.
+
+### XII.    Precautionary Measures
+
+Within the framework of the technical administration of the website, we have implemented technical and measures to protect your data from intentional or accidental manipulation, access by unauthorised third parties, loss, destruction or modification.
+
+Data transfer in this context is only via an SSL connection. We always update our firewall and allow only password-protected access to our databases and applications. We are constantly optimizing this protection in the context of technical progress.
+
+We would like to point out that data transmission on the Internet (e.g. when communicating by e-mail) may be associated with security risks. The complete protection of data against access by third parties is not possible. It is your responsibility as a user to protect the data sent by you through encryption or protect it from misuse by other means. We recommend sending confidential information only by regular post.
+
+### XIII.    Information About Your Data
+
+Upon your request, we will happily provide information about whether and what type of your data we have saved or stored. If our stored data should prove to be incorrect and/or outdated in spite of our efforts, we will correct this at your request and without delay. If you wish to have any of your stored data deleted, this will be done at your request in the context of the statutory provisions. If a deletion is not possible for legal reasons, the data will be blocked/deactivated instead. Please contact the Editors of the website.
+
+### XIV.    Data Protection Officer
+
+Do you have questions about the privacy policy? Then please contact our data protection officer:
+
+Scheja and Partner, Solicitors and External Data Protection Officers  
+Adenauerallee 136  
+D-53113 Bonn  
+[www.scheja-partner.de](http://www.scheja-partner.de/ "Open link in new window")
+
+Revision level: December 2015
