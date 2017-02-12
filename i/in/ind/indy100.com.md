@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the indy100.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201191833id_/http%3A//www.independent.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the indy100.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213005026id_/http%3A//www.independent.co.uk/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | The Independent
 
