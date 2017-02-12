@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onepetro.org privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002042438id_/https%3A//www.onepetro.org/static-pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onepetro.org privacy policy that was archived on 2017-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170212050243id_/https%3A//www.onepetro.org/static-pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - OnePetro
 
@@ -58,13 +58,10 @@ By using this Site, you signify your acceptance of this Privacy Policy.  If you
 
 If you have any questions about this Privacy Policy, the practices of this Site, or your dealings with this Site, please contact:
 
-**OnePetro**
-
-222 Palisades Creek Drive  
-Richardson, Texas 75081
+**OnePetro,  **222 Palisades Creek Drive, Richardson, Texas 75081
 
 **Hours:**   0730 to 1700 CST (GMT–5), Mon-Fri  
  **Tel.**  +1.972.952.9393  
  **Tel.**  +1.800.456.6863 (Toll-free in the US and Canada)  
  **Fax:**  +1.972.952.9435  
- **Email:**   [service@onepetro.org](mailto:info@spe.org?subject=OnePetro%20Assistance%20Request)                                                                                                                          Updated - May 12, 2014
+ **Email:**   [service@onepetro.org](mailto:info@spe.org?subject=OnePetro%20Assistance%20Request)                                                                                                                          Updated - January 4, 2017
