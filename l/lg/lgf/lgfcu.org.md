@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lgfcu.org privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809031546id_/https%3A//www.lgfcu.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lgfcu.org privacy policy that was archived on 2017-02-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170212133737id_/https%3A//www.lgfcu.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LGFCU
 
