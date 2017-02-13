@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the greenhealthdepot.ca privacy policy that was archived on 2016-07-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160718045627id_/http%3A//www.greenhealthdepot.ca/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenhealthdepot.ca privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213010923id_/http%3A//www.greenhealthdepot.ca/index.php/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This privacy policy sets out how Pure Green Health Inc uses and protects any information that you give Pure Green Health Inc when you use this website. Pure Green Health Inc is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Pure Green Health Inc may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+This privacy policy sets out how Pure Marketing Group uses and protects any information that you give Pure Marketing Group when you use this website. Pure Marketing Group is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Pure Marketing Group may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
 ## What we collect
 
