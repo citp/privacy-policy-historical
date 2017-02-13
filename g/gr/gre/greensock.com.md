@@ -1,29 +1,6 @@
-> *The following text is extracted and transformed from the greensock.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106074308id_/http%3A//greensock.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greensock.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213040634id_/https%3A//greensock.com/privacy) for the most accurate reproduction.*
 
-# GreenSock | Privacy Policy
-
-#### Version: 1.19.0 updated 2016-07-18
-
-  *   * ###  github 
-
-
-
-
-## CDN Link
-
-Copy/paste this code into your HTML:
-    
-    
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.0/TweenMax.min.js"></script>
-
-  * Robust
-  * Lightweight
-  * Customize
-  * Version: 
-
-
-
-By using GreenSock code, you agree to the [terms of use](https://web.archive.org/standard-license/).
+# | GreenSock
 
 This privacy policy describes how GreenSock uses and protects any information that you provide on greensock.com. GreenSock is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, it will only be used in accordance with this privacy statement. GreenSock may change this policy from time to time by updating this page. This policy is effective from May 2014.
 
@@ -76,3 +53,26 @@ We will not sell, distribute or lease your personal information to third parties
 You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please email info@greensock.com.
 
 If you believe that any information we are holding about you is incorrect or incomplete, email us as soon as possible at info@greensock.com. We will promptly correct any information found to be incorrect.
+
+#### Version: 1.19.0 updated 2017-01-17
+
+  *   * ###  github 
+
+
+
+
+## CDN Link
+
+Copy/paste this code into your HTML:
+    
+    
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/1.19.1/TweenMax.min.js"></script>
+
+  * Robust
+  * Lightweight
+  * Customize
+  * Version: 
+
+
+
+By using GreenSock code, you agree to the [terms of use](https://web.archive.org/standard-license/).
