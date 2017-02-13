@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the icamzlive.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015052422id_/http%3A//www.icamzlive.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icamzlive.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213174152id_/http%3A//icamzlive.com/privacy.html%3F) for the most accurate reproduction.*
 
 # ICamzLiveLive - Live Sex Chat Room Cams Privacy Policy
 
-[Home](http://www.icamzlive.com/) / Privacy Policy
+[Home](http://icamzlive.com/) / Privacy Policy
 
 By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
