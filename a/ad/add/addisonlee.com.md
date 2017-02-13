@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addisonlee.com privacy policy that was archived on 2015-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150927051706id_/http%3A//www.addisonlee.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addisonlee.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213102805id_/https%3A//www.addisonlee.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Addison Lee
 
@@ -36,7 +36,8 @@ Our website uses cookies to distinguish you from other users of our site. This h
  **5\. USES MADE OF THE INFORMATION**  
 5.1 We use information held about you in the following ways:
 
-  * to carry out our obligations arising from any bookings that you have made with us;
+  * to carry out our obligations arising from any bookings that you have made with us
+  * to sharing such information with third party fulfilment companies for the purposes of fulfilling a booking requested by you which is not being carried out by us;
   * to ensure that content from our site and our app is presented in the most effective manner for you and for your computer;
   * to provide you with information, products or services that you request from us or which we feel may interest you, where (if required to do so) you have consented to be contacted for such purposes;
   * to allow you to participate in interactive features of our service, when you choose to do so; and
