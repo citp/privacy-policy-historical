@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fontanashowers.com privacy policy that was archived on 2016-07-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160710092728id_/https%3A//www.fontanashowers.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fontanashowers.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213085512id_/https%3A//www.fontanashowers.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -33,7 +33,7 @@ To delete all of your online account information from our database, sign into th
 
  **Changes to our policy**
 
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. **This policy was last modified on August 6, 2003.**
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change. This policy was last modified on August 6, 2003.
 
  **Questions and feedback**
 
@@ -45,7 +45,7 @@ This online privacy policy applies only to information collected through our web
 
  **Terms and Conditions**
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20160710092728id_/https%3A//www.fontanashowers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20170213085512id_/https%3A//www.fontanashowers.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**
 
