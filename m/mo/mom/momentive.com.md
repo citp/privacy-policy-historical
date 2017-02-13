@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126102634id_/http%3A//momentive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the momentive.com privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213074747id_/https%3A//momentive.com/privacy-policy) for the most accurate reproduction.*
 
 # Momentive.com - Momentive Specialty Chemicals Privacy Policy
 
@@ -67,6 +67,18 @@ The following table gives details of the different types of cookies that might b
 
      
 ---|---|---  
+  
+**Google Analytics Demographic Cookies:**
+
+**  __nid, __sid, __dsid, __flc, __aid, __taid, __exchange_uid** | 
+
+We use Google Analytics Demographic feature for our web analytics tool.  The information collected helps us to continually address the needs of our visitors.  Our configuration uses the Anonoymize IP function provided by Google to protect the identity of each user.  Further information as well as Opt-Out capabilities can be found at  [http://www.google.com/analytics ](http://www.google.com/analytics).  
+
+  | 
+
+Google Analytics Demographic Cookies may exist up to 2 years. 
+
+   
   
 
 **Google Analytics Cookies:**  
