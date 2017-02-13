@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the free-seo-list.blogspot.in privacy policy that was archived on 2016-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160420211054id_/http%3A//free-seo-list.blogspot.in/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the free-seo-list.blogspot.in privacy policy that was archived on 2017-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170213070146id_/http%3A//free-seo-list.blogspot.in/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Get SEO List: Privacy Policy
 
