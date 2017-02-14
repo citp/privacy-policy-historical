@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the output.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324113900id_/http%3A//output.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the output.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214211600id_/https%3A//output.com/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OUTPUT
+# Privacy Policy | Output
 
 ### SECTION 1 – WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -10,11 +10,11 @@ Email marketing (if applicable): With your permission, we may send you emails ab
 
 ### SECTION 2 – CONSENT
 
- _ **How do you get my consent?**_  
+_**How do you get my consent?**_  
 When you provide us with personal information to complete a transaction, verify your credit card, place an order, arrange for a delivery or return a purchase, we imply that you consent to our collecting it and using it for that specific reason only.  
 If we ask for your personal information for a secondary reason, like marketing, we will either ask you directly for your expressed consent, or provide you with an opportunity to say no.
 
- _ **How do I withdraw my consent?**_  
+_**How do I withdraw my consent?**_  
 If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@outputsounds.com
 
 ### SECTION 3 – DISCLOSURE
@@ -26,7 +26,7 @@ We may disclose your personal information if we are required by law to do so or 
 Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.  
 Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
 
- **Payment:**  
+**Payment:**  
 If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.  
 All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.  
 PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.  
@@ -41,7 +41,7 @@ In particular, remember that certain providers may be located in or have facilit
 As an example, if you are located in Canada and your transaction is processed by a payment gateway located in the United States, then your personal information used in completing that transaction may be subject to disclosure under United States legislation, including the Patriot Act.  
 Once you leave our store’s website or are redirected to a third-party website or application, you are no longer governed by this Privacy Policy or our website’s Terms of Service.
 
- **Links**  
+**Links**  
 When you click on links on our store, they may direct you away from our site. We are not responsible for the privacy practices of other sites and encourage you to read their privacy statements.
 
 ### SECTION 6 – SECURITY
@@ -70,4 +70,4 @@ If our store is acquired or merged with another company, your information may be
 
 ### QUESTIONS AND CONTACT INFORMATION
 
- **If you would like to:** access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [privacy@outputsounds.com](mailto:privacy@outputsounds.com)
+**If you would like to:** access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [privacy@outputsounds.com](mailto:privacy@outputsounds.com)
