@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the truecar.com privacy policy that was archived on 2016-03-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160314081842id_/https%3A//www.truecar.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the truecar.com privacy policy that was archived on 2017-02-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170214210451id_/https%3A//www.truecar.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><head>
     
     <meta charset="utf-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-885.min.js"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script type="text/javascript" async="" src="//ssl.google-analytics.com/ga.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAUFUF9RGwoDVFdTBAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({QJf3ax:[function(t,e){function n(){}function r(t){function e(t){return t&&t instanceof n?t:t?a(t,i,o):o()}function u(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,f=0;s>f;f++)a[f].apply(i,r);var u=c[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return f[t]=f[t]||r(u)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in c||(c[e]=[])})}var m={},v={},w={on:d,emit:u,get:p,listeners:l,context:e,buffer:h};return w}function o(){return new n}var i="nr@context",a=t("gos"),s=t(1),c={},f={},u=e.exports=r();u.backlog=c},{1:24,gos:"7eSDFh"}],ee:[function(t,e){e.exports=t("QJf3ax")},{}],3:[function(t){function e(t){try{i.console&&console.log(t)}catch(e){}}var n,r=t("ee"),o=t(1),i={};try{n=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(i.console=!0,-1!==n.indexOf("dev")&&(i.dev=!0),-1!==n.indexOf("nr_dev")&&(i.nrDev=!0))}catch(a){}i.nrDev&&r.on("internal-error",function(t){e(t.stack)}),i.dev&&r.on("fn-err",function(t,n,r){e(r.stack)}),i.dev&&(e("NR AGENT IN DEVELOPMENT MODE"),e("flags: "+o(i,function(t){return t}).join(", ")))},{1:24,ee:"QJf3ax"}],4:[function(t){function e(t,e,n,i,a){try{f?f-=1:r("err",[a||new UncaughtException(t,e,n)])}catch(c){try{r("ierr",[c,(new Date).getTime(),!0])}catch(u){}}return"function"==typeof s?s.apply(this,o(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function n(t){r("err",[t,(new Date).getTime()])}var r=t("handle"),o=t(6),i=t("ee"),a=t("loader"),s=window.onerror,c=!1,f=0;a.features.err=!0,t(5),window.onerror=e;try{throw new Error}catch(u){"stack"in u&&(t(1),t(2),"addEventListener"in window&&t(3),a.xhrWrappable&&t(4),c=!0)}i.on("fn-start",function(){c&&(f+=1)}),i.on("fn-err",function(t,e,r){c&&(this.thrown=!0,n(r))}),i.on("fn-end",function(){c&&!this.thrown&&f>0&&(f-=1)}),i.on("internal-error",function(t){r("ierr",[t,(new Date).getTime(),!0])})},{1:10,2:9,3:7,4:11,5:3,6:25,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],5:[function(t){t("loader").features.ins=!0},{loader:"G9z0Bl"}],6:[function(t){function e(){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var n=t("ee"),r=t("handle"),o=t(1),i=t(2);t("loader").features.stn=!0,t(3);var a=NREUM.o.EV;n.on("fn-start",function(t){var e=t[0];e instanceof a&&(this.bstStart=Date.now())}),n.on("fn-end",function(t,e){var n=t[0];n instanceof a&&r("bst",[n,e,this.bstStart,Date.now()])}),o.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),o.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),i.on("fn-start",function(){this.bstStart=Date.now()}),i.on("fn-end",function(t,e){r("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),n.on("pushState-start",function(){this.time=Date.now(),this.startPath=location.pathname+location.hash}),n.on("pushState-end",function(){r("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(){r("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",e,!1),document.addEventListener("keypress",e,!1),document.addEventListener("click",e,!1)}},{1:10,2:9,3:8,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],7:[function(t,e){function n(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&r(e)}function r(t){a.inPlace(t,["addEventListener","removeEventListener"],"-",o)}function o(t){return t[1]}var i=t("ee").get("events"),a=t(1)(i),s=t("gos");e.exports=i,r(window),"getPrototypeOf"in Object?(n(document),n(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&r(XMLHttpRequest.prototype),i.on("addEventListener-start",function(t){if(t[1]){var e=t[1];if("function"==typeof e){var n=s(e,"nr@wrapped",function(){return a(e,"fn-",null,e.name||"anonymous")});this.wrapped=t[1]=n}else"function"==typeof e.handleEvent&&a.inPlace(e,["handleEvent"],"fn-")}}),i.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{1:26,ee:"QJf3ax",gos:"7eSDFh"}],8:[function(t,e){var n=t("ee").get("history"),r=t(1)(n);e.exports=n,r.inPlace(window.history,["pushState","replaceState"],"-")},{1:26,ee:"QJf3ax"}],9:[function(t,e){var n=t("ee").get("raf"),r=t(1)(n);e.exports=n,r.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),n.on("raf-start",function(t){t[0]=r(t[0],"fn-")})},{1:26,ee:"QJf3ax"}],10:[function(t,e){function n(t,e,n){t[0]=i(t[0],"fn-",null,n)}function r(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=i(t[0],"fn-",this,n)}var o=t("ee").get("timer"),i=t(1)(o);e.exports=o,i.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),i.inPlace(window,["setInterval"],"setInterval-"),i.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),o.on("setInterval-start",n),o.on("setTimer-start",r)},{1:26,ee:"QJf3ax"}],11:[function(t,e){function n(t,e){e=e||this;var n=i.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,i.emit("xhr-resolved",[],e));try{c.inPlace(e,l,"fn-",r)}catch(o){}}function r(t,e){return e}function o(t,e){for(var n in t)e[n]=t[n];return e}var i=t("ee").get("xhr"),a=t(1),s=t(2),c=s(i),f=s(a),u=NREUM.o,d=u.XHR,l=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=i,window.XMLHttpRequest=function(t){var e=new d(t);try{i.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&f.inPlace(e,["addEventListener","removeEventListener"],"-",r),e.addEventListener("readystatechange",n,!1)}catch(o){try{i.emit("internal-error",[o])}catch(a){}}return e},o(d,XMLHttpRequest),XMLHttpRequest.prototype=d.prototype,c.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",r),i.on("send-xhr-start",n),i.on("open-xhr-start",n)},{1:7,2:26,ee:"QJf3ax"}],12:[function(t){function e(t){var e=this.params,r=this.metrics;if(!this.ended){this.ended=!0;for(var o=0;u>o;o++)t.removeEventListener(f[o],this.listener,!1);if(!e.aborted){if(r.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=n(t,this.lastSize);if(i&&(r.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;r.cbTime=this.cbTime,c.emit("xhr-done",[t],t),a("xhr",[e,r,this.startTime])}}}function n(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var o="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return r(o)}function r(t){if("string"==typeof t&&t.length)return t.length;if("object"!=typeof t)return void 0;if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if("undefined"!=typeof FormData&&t instanceof FormData)return void 0;try{return JSON.stringify(t).length}catch(e){return void 0}}function o(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var i=t("loader");if(i.xhrWrappable){var a=t("handle"),s=t(2),c=t("ee"),f=["load","error","abort","timeout"],u=f.length,d=t(1),l=t(3),p=window.XMLHttpRequest;i.features.xhr=!0,t(5),t(4),c.on("new-xhr",function(t){var n=this;n.totalCbs=0,n.called=0,n.cbTime=0,n.end=e,n.ended=!1,n.xhrGuids={},n.lastSize=null,l&&(l>34||10>l)||window.opera||t.addEventListener("progress",function(t){n.lastSize=t.loaded},!1)}),c.on("open-xhr-start",function(t){this.params={method:t[0]},o(this,t[1]),this.metrics={}}),c.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),c.on("send-xhr-start",function(t,e){var n=this.metrics,o=t[0],i=this;if(n&&o){var a=r(o);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(i.params.aborted=!0),("load"!==t.type||i.called===i.totalCbs&&(i.onloadCalled||"function"!=typeof e.onload))&&i.end(e)}catch(n){try{c.emit("internal-error",[n])}catch(r){}}};for(var s=0;u>s;s++)e.addEventListener(f[s],this.listener,!1)}),c.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),c.on("xhr-load-added",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),c.on("xhr-load-removed",function(t,e){var n=""+d(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),c.on("addEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-added",[t[1],t[2]],e)}),c.on("removeEventListener-end",function(t,e){e instanceof p&&"load"===t[0]&&c.emit("xhr-load-removed",[t[1],t[2]],e)}),c.on("fn-start",function(t,e,n){e instanceof p&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),c.on("fn-end",function(t,e){this.xhrCbStart&&c.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{1:"XL7HBI",2:13,3:15,4:11,5:7,ee:"QJf3ax",handle:"D5DuLP",loader:"G9z0Bl"}],13:[function(t,e){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],14:[function(t,e){function n(t,e){return function(){r(t,[(new Date).getTime()].concat(i(arguments)),null,e)}}var r=t("handle"),o=t(1),i=t(2);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var a=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],s=["addPageAction"],c="api-";o(a,function(t,e){newrelic[e]=n(c+e,"api")}),o(s,function(t,e){newrelic[e]=n(c+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),r("err",[t,(new Date).getTime()])}},{1:24,2:25,handle:"D5DuLP"}],15:[function(t,e){var n=0,r=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);r&&(n=+r[1]),e.exports=n},{}],gos:[function(t,e){e.exports=t("7eSDFh")},{}],"7eSDFh":[function(t,e){function n(t,e,n){if(r.call(t,e))return t[e];var o=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:o,writable:!0,enumerable:!1}),o}catch(i){}return t[e]=o,o}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],handle:[function(t,e){e.exports=t("D5DuLP")},{}],D5DuLP:[function(t,e){function n(t,e,n,o){r.buffer([t],o),r.emit(t,e,n)}var r=t("ee").get("handle");e.exports=n,n.ee=r},{ee:"QJf3ax"}],XL7HBI:[function(t,e){function n(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:i(t,o,function(){return r++})}var r=1,o="nr@id",i=t("gos");e.exports=n},{gos:"7eSDFh"}],id:[function(t,e){e.exports=t("XL7HBI")},{}],G9z0Bl:[function(t,e){function n(){if(!h++){var t=p.info=NREUM.info,e=f.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(d,function(e,n){t[e]||(t[e]=n)});var n="https"===u.split(":")[0]||t.sslForHttp;p.proto=n?"https://":"http://",a("mark",["onload",i()],null,"api");var r=f.createElement("script");r.src=p.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function r(){"complete"===f.readyState&&o()}function o(){a("mark",["domContent",i()],null,"api")}function i(){return(new Date).getTime()}var a=t("handle"),s=t(1),c=window,f=c.document;NREUM.o={ST:setTimeout,XHR:c.XMLHttpRequest,REQ:c.Request,EV:c.Event,PR:c.Promise,MO:c.MutationObserver},t(2);var u=(""+location).split("?")[0],d={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-885.min.js"},l=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),p=e.exports={offset:i(),origin:u,features:{},xhrWrappable:l};f.addEventListener?(f.addEventListener("DOMContentLoaded",o,!1),c.addEventListener("load",n,!1)):(f.attachEvent("onreadystatechange",r),c.attachEvent("onload",n)),a("mark",["firstbyte",i()],null,"api");var h=0},{1:24,2:14,handle:"D5DuLP"}],loader:[function(t,e){e.exports=t("G9z0Bl")},{}],24:[function(t,e){function n(t,e){var n=[],o="",i=0;for(o in t)r.call(t,o)&&(n[i]=e(o,t[o]),i+=1);return n}var r=Object.prototype.hasOwnProperty;e.exports=n},{}],25:[function(t,e){function n(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=n},{}],26:[function(t,e){function n(t){return!(t&&"function"==typeof t&&t.apply&&!t[i])}var r=t("ee"),o=t(1),i="nr@original",a=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,r,a){function nrWrapper(){var n,i,s,c;try{i=this,n=o(arguments),s="function"==typeof r?r(n,i):r||{}}catch(u){d([u,"",[n,i,a],s])}f(e+"start",[n,i,a],s);try{return c=t.apply(i,n)}catch(l){throw f(e+"err",[n,i,l],s),l}finally{f(e+"end",[n,i,c],s)}}return n(t)?t:(e||(e=""),nrWrapper[i]=t,u(t,nrWrapper),nrWrapper)}function c(t,r,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<r.length;c++)s=r[c],a=t[s],n(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)a.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=r),e.inPlace=c,e.flag=i,e}},{1:25,ee:"QJf3ax"}]},{},["G9z0Bl",4,12,6,5]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"379c97fee1","agent":"","transactionName":"ZwZXMkJTXkBSVUZbXl5McxNeUURaXFgdVltRDVIJb1NAQ0AYUV1cXQxbSEZbVURAGFBTQlVZYRRFV3NSQWJXX0FcAkEDZltVRB1RV0Y=","applicationID":"9306133","errorBeacon":"bam.nr-data.net","applicationTime":43}</script>
-    <title>TrueCar Privacy Policy</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="//ssl.google-analytics.com/ga.js"></script><script src="//tags.tiqcdn.com/utag/truecar/abp-legacy/prod/utag.js" type="text/javascript" async=""></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"XAUFUF9RGwoDVFdTBAI="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"379c97fee1","agent":"","transactionName":"ZwZXMkJTXkBSVUZbXl5McxNeUURaXFgdVltRDVIJb1NAQ0AYUV1cXQxbSEZbVURAGFBTQlVZYRRFV3NSQWJXX0FcAkEDZltVRB1RV0Y=","applicationID":"9306133","errorBeacon":"bam.nr-data.net","applicationTime":44}</script>
+    <title>Privacy Policy | TrueCar</title>
     
     <link rel="alternate" media="only screen and (max-width: 640px)" href="https://www.truecar.com/m/privacy/">
 
@@ -16,47 +16,70 @@
     <meta name="viewport" content="width=1024">
     <meta name="robots" content="index, follow">
     <link rel="canonical" href="https://www.truecar.com/privacy/">
-    <link href="//a.tcimg.net/tcdc/184.1-87/images/site/main_website/favicon.ico" rel="shortcut icon">
+    <link href="//a.tcimg.net/tcdc/210.0-420/images/site/main_website/favicon.ico" rel="shortcut icon">
     
         <!--[if (gt IE 7)|!(IE)]><!-->
-            <link rel="stylesheet" href="//a.tcimg.net/tcdc/184.1-87/gen/css/main_website/global.datauri.css">
+            <link rel="stylesheet" href="//a.tcimg.net/tcdc/210.0-420/gen/css/main_website/global.datauri.css">
         <!--<![endif]-->
         <!--[if lte IE 7]>
-            <link rel="stylesheet" href="//a.tcimg.net/tcdc/184.1-87/gen/css/main_website/global.css" />
+            <link rel="stylesheet" href="//a.tcimg.net/tcdc/210.0-420/gen/css/main_website/global.css" />
         <![endif]-->
     
     
-    <!--[if (gt IE 7)|!(IE)]><!--><link rel="stylesheet" href="//a.tcimg.net/tcdc/184.1-87/gen/css/main_website/corp.datauri.css"><!--<![endif]-->
-    <!--[if lte IE 7]><link rel="stylesheet" href="//a.tcimg.net/tcdc/184.1-87/gen/css/main_website/corp.css" /><![endif]-->
+    <!--[if (gt IE 7)|!(IE)]><!--><link rel="stylesheet" href="//a.tcimg.net/tcdc/210.0-420/gen/css/main_website/corp.datauri.css"><!--<![endif]-->
+    <!--[if lte IE 7]><link rel="stylesheet" href="//a.tcimg.net/tcdc/210.0-420/gen/css/main_website/corp.css" /><![endif]-->
 
     
 
     <script>
         (/firebug=1/).test(window.location.search) &&
-                document.write('\x3Cscript src="//a.tcimg.net/tcdc/184.1-87/js/lib/firebug-lite/src/firebug-lite.js">\x3C/script>');
+                document.write('\x3Cscript src="//a.tcimg.net/tcdc/210.0-420/js/lib/firebug-lite/src/firebug-lite.js">\x3C/script>');
     </script>
-    <!--[if lt IE 9]><script src="//a.tcimg.net/tcdc/184.1-87/gen/js/lib/ie-lt9.js"></script><![endif]-->
+    <!--[if lt IE 9]><script src="//a.tcimg.net/tcdc/210.0-420/gen/js/lib/ie-lt9.js"></script><![endif]-->
     
         <!--[if lt IE 9]>
-            <link href="//a.tcimg.net/tcdc/184.1-87/bower_components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
+            <link href="//a.tcimg.net/tcdc/210.0-420/bower_components/respond/cross-domain/respond-proxy.html" id="respond-proxy" rel="respond-proxy" />
             <link href="/respond.proxy.gif" id="respond-redirect" rel="respond-redirect" />
             <script src="/respond.proxy.js"></script>
         <![endif]-->
     
-    <script src="//a.tcimg.net/tcdc/184.1-87/gen/js/tc/TrueCar-2.0.js"></script>
+    <script src="//a.tcimg.net/tcdc/210.0-420/gen/js/tc/TrueCar-2.0.js"></script>
     <script>
-        TrueCar.s.staticUrl = '//a.tcimg.net/tcdc/184.1-87/';
+        TrueCar.s.staticUrl = '//a.tcimg.net/tcdc/210.0-420/';
         TrueCar.s.imageServiceUrl = '//a.tcimg.net/v/';
         TrueCar.s.apiUrl = '/api/omni/v1';
         var omnitureRSID = "truecarprod",
             omnitureCookieDomain = "om.truecar.com";
         (function(e){e.className=e.className.replace('no-','');})(document.documentElement); // 
     </script>
+    
+            <script src="//tags.tiqcdn.com/utag/truecar/abp-legacy/prod/utag.sync.js"></script>
+        
+        
+            <script>
+                window.utag_data = {
+                    pagId: 120,
+                    partnerBrand: 'truecar',
+                    zipCode: '94107'
+                };
+
+                </script>
+        
+        
+            <script>
+                (function(a,b,c,d){
+                    a='//tags.tiqcdn.com/utag/truecar/abp-legacy/prod/utag.js';
+                    b=document;c='script';d=b.createElement(c);d.src=a;d.type='text/java'+c;d.async=true;
+                    a=b.getElementsByTagName(c)[0];a.parentNode.insertBefore(d,a);
+                })();
+            </script>
+        
+
 
     <script>TrueCar.s.modalQueueOrder = ['zipModal','showWhatIsDialog'];</script>
     
         
-        <script src="//a.tcimg.net/tcdc/184.1-87/gen/js/main_website/head.js"></script>
+        <script src="//a.tcimg.net/tcdc/210.0-420/gen/js/main_website/head.js"></script>
     
     
     
@@ -72,7 +95,7 @@
                 })(document,'script');
             </script>
         
-<script src="//gateway.answerscloud.com/truecar/production/gateway.min.js" type="text/javascript" async="true" data-vendor="acs" data-role="gateway"></script></head>
+</head>
 
 <body id="body_privacy" data-ng-app="tcdc.base" data-ng-controller="BaseCtrl" class=" chrome69">
     <script>
@@ -87,7 +110,7 @@
                 
                 
         <div id="tc_body">
-            <div id="tc_content" class="cf">
+            <div id="tc_content" class="cf tcdct166-c" data-ng-hide="hideBody">
                 
     <div id="privacy">
         <h1 class="hdr-d">TrueCar Privacy Policy</h1>
@@ -108,7 +131,7 @@
             Please read below to understand your rights and how we use the information we gather.
         </p>
 
-        <p class="effective"><strong>Effective Date: 2/4/2016.</strong></p>
+        <p class="effective"><strong>Effective Date: 4/14/2016.</strong></p>
 
         <p>This Privacy Notice (“Notice”) applies to this website or mobile application and the websites or mobile applications of TrueCar, Inc., and its subsidiaries and affiliates (collectively “we”, “us” or “our”) that display this Notice (each a “Site” and collectively, the “Sites”). By visiting the Sites, you are consenting to our collection, use, disclosure, retention, and protection of information about you and devices you use as described in this Notice.</p>
 
@@ -123,13 +146,13 @@
                     <li>communicate with us, such as to provide feedback, request support, or ask for additional information; and</li>
                     <li>subscribe to content we offer, such as newsletters, alerts, etc.</li>
                 </ul>
-                <p>We may collect information such as your first and last name, home or other physical address, email address, zip code, telephone number, your automobile’s vehicle identification number (“VIN”), license plate number, or information about your interactions with us or others, or other information.</p>
+                <p>We may collect information such as your first and last name, home or other physical address, email address, zip code, telephone number, your automobile’s vehicle identification number (“VIN”), license plate number, or information about your interactions with us or others, and other information.</p>
                 <p><strong class="sub-hdr">Social Media.</strong> You may use social networks or other online services to access our Sites. When you do so, information from those services may be made available to us. By associating a social network account with our Sites, you agree that we may access and retain that information in accordance with the policies of the social network or other online service and this Notice. For example, we may be able to access account or profile information that you have provided to the social network or information about your interactions with the social network to make information available to us (such as when commenting on a blog post or using a sign-on service, such as Facebook Connect).</p>
-                <p><strong class="sub-hdr">Automatically Collected Information.</strong> We may collect information automatically when you visit our Sites or use our mobile application, such as:</p>
+                <p><strong class="sub-hdr">Automatically Collected Information.</strong> We may collect information automatically when you visit our Sites or use our mobile applications, such as:</p>
                 <ul>
                     <li>your IP address;</li>
-                    <li>the type of browser, device and operating system you use;</li>
-                    <li>identifiers associated with the device you use to access our Sites;</li>
+                    <li>the type of browser, devices and operating systems you use;</li>
+                    <li>identifiers associated with the device(s) you use to access our Sites;</li>
                     <li>the pages you visit, vehicles you view or configure, and the features you use, including dates and times;</li>
                     <li>if you navigated from or navigate to another website, the address of that website; and</li>
                     <li>information regarding your internet service provider.</li>
@@ -143,7 +166,7 @@
             <li>How Does TrueCar Use Information About Me?
                 <p>We and others acting on our behalf may use the information that we collect or receive to operate our business, including our Sites, as described below:</p>
 
-                <p><strong class="sub-hdr">Operate and Support our Sites and Services.</strong> We use the information that we gather in order to operate our Sites and our services. For example, we may use the information that we collect or receive to provide support and assistance that you request or to diagnose or address technical problems in the operation of our Sites or any of our services. If you establish an account with us, we may use information about you to manage or support your account.</p>
+                <p><strong class="sub-hdr">Operate and Support our Sites and Services.</strong> We use the information that we gather in order to operate our Sites and our services. For example, we may use the information that we collect or receive to provide support and assistance that you request or to diagnose or address technical problems in the operation of our Sites or any of our services. If you establish an account with us, we may use information about you to manage or support your account. We may identify your use of our Sites across devices, and we may use information we collect from you and receive from others to optimize your use of the Sites and our services as you use different devices.</p>
 
                 <p><strong class="sub-hdr">Improving and Evolving our Services.</strong> We constantly evaluate and improve our Sites and services, including developing new products or services and use the information we gather to do so.</p>
 
@@ -233,28 +256,29 @@
                     <ol>
                         <li>
                             <label for="what_dialog_zip_input">
-                                Never overpay: Enter your ZIP code so we can <br>give you accurate pricing information in your area.
+                                Enter your ZIP code to see what other people in your area paid.
                             </label>
                             <input id="what_dialog_zip_input" type="text" size="5" maxlength="5" placeholder="ZIP code">
+                            <button class="button btn btn-primary btn-large">Go</button>
                         </li>
                     </ol>
-                    <button class="button btn btn-primary btn-large">Go</button>
                 </fieldset>
             </header>
-            <ul class="cf">
-                <li class="upfront-pricing">
-                    <img src="//a.tcimg.net/tcdc/184.1-87/images/site/main_website/what-dialog/julians-curve.png" alt="Curve" width="211" height="151">
-                    <p class="hiw-text">We show you what others paid so you <strong>have the confidence that you are getting a fair price</strong> from TrueCar Certified Dealers.</p>
-                </li>
-                <li class="guaranteed-savings">
-                    <img src="//a.tcimg.net/tcdc/184.1-87/images/site/main_website/what-dialog/certificate.png" alt="Certificate" width="211" height="151">
-                    <p class="hiw-text">TrueCar Certified Dealers present <strong>pricing information upfront, eliminating hidden surprises.</strong></p>
-                </li>
-                <li class="confidence">
-                    <img src="//a.tcimg.net/tcdc/184.1-87/images/site/main_website/what-dialog/call-center.png" alt="Call Center" width="211" height="151">
-                    <p class="hiw-text">Get the TrueCar App and head to your Certified Dealers to <strong>buy your new car hassle-free.</strong></p>
-                </li>
-            </ul>
+            <h4 class="section-headline">Only registered TrueCar users can activate these benefits to buy or lease a new car</h4>
+                <ul class="cf">
+                    <li class="guaranteed-savings">
+                        <img src="//a.tcimg.net/tcdc/210.0-420/images/site/main_website/what-dialog/estimate-tcdct160-c.png" alt="Certificate" width="211" height="151">
+                        <p class="hiw-text">Guaranteed Savings off MSRP on over one million in-stock vehicles nationwide.</p>
+                    </li>
+                    <li class="upfront-pricing">
+                        <img src="//a.tcimg.net/tcdc/210.0-420/images/site/main_website/what-dialog/dealers-tcdct160-c.png" alt="Curve" width="211" height="151">
+                        <p class="hiw-text">Access to 13,000+ Certified Dealers who believe in a transparent pricing experience.</p>
+                    </li>
+                    <li class="confidence">
+                        <img src="//a.tcimg.net/tcdc/210.0-420/images/site/main_website/what-dialog/mobile-tcdct160-c.png" alt="Call Center" width="211" height="151">
+                        <p class="hiw-text">View upfront prices on any car at a Certified Dealer lot with the Price Check tool.</p>
+                    </li>
+                </ul>
             
         </section>
         
@@ -277,7 +301,7 @@
                     aaa_fulfillment: true
                 };
             </script>
-        <script src="//a.tcimg.net/tcdc/184.1-87/gen/js/main_website/ui.js"></script>
+        <script src="//a.tcimg.net/tcdc/210.0-420/gen/js/main_website/ui.js"></script>
     
 
     <script id="ng/vehicle-search.html" type="text/ng-template">
@@ -392,27 +416,25 @@
         data-ng-class="{active:
             (activeSearch == 'new' && selectedMake) ||
             (activeSearch == 'used')}"
-        data-ng-swipe-right="selectFilter(selectedType ? 'types' : 'makes')" data-vh-on-resize>
+        data-ng-swipe-right="selectFilter(selectedType ? 'types' : 'makes')">
             <aside class="new-placeholder" data-ng-show="activeSearch == 'new' && !selectedMake">
-                <h2>A radically new way to buy a car in 3 simple steps:</h2>
-                <ul class="aside-value-prop">
-                    <li>
-                        <i class="tc-icon" data-icon="curve-sign"></i>
-                        <h3>See What Others Paid</h3>
-                        Tell us what you're looking for and we'll show you how much others paid for their car, so you know <strong>you're always getting a fair price.</strong>
-                    <li>
-                    <li>
-                        <i class="tc-icon" data-icon="piggy-sign"></i>
-                        <h3>Maximize Your Savings</h3>
-                        Access thousands of public dealer and factory incentives, including <strong>exclusive incentives</strong> only available through TrueCar, to save you more money.
-                    <li>
-                    <li>
-                        <i class="tc-icon" data-icon="car-sign"></i>
-                        <h3>Choose Your Vehicle</h3>
-                        Your assigned Sales Advisors will scour local inventory and present you with vehicles that match what you're looking for.
-                    <li>
-                </ul>
-                <p class="savings">Buyers using TrueCar to purchase their vehicle from one of our 10,000+ Certified Dealers save an average of $3,279 off MSRP.</p>
+              <ul class="aside-value-prop">
+                  <li>
+                      <i class="tc-icon" data-icon="curve-sign"></i>
+                      <h3>See What Others Paid</h3>
+                      TrueCar has collected <strong>millions of transactions</strong> so we know exactly what people are paying in your local area.
+                  </li>
+                  <li>
+                      <i class="tc-icon" data-icon="piggy-sign"></i>
+                      <h3>Guaranteed Savings</h3>
+                      Only registered TrueCar users receive Guaranteed Savings off MSRP on over <strong>1 million in-stock vehicles</strong> nationwide.
+                  </li>
+                  <li>
+                      <i class="tc-icon" data-icon="car-sign"></i>
+                      <h3>Upfront Pricing from Certified Dealers</h3>
+                      Registered TrueCar members get access to a network of more than 13,000 Certified Dealers who are committed to <strong>price transparency and upfront pricing.</strong>
+                  </li>
+              </ul>
             </aside>
             <aside class="used-placeholder" data-ng-show="activeSearch == 'used' &&
                 ( (!selectedModel && !activeFilterData) || !usingDefaultZipcode)">
@@ -420,17 +442,17 @@
                     <li>
                         <i class="tc-icon" data-icon="car-sign"></i>
                         <h3>Extensive Used Car Inventory</h3>
-                        Over <strong>450,000</strong> Pre-Owned vehicles for sale from Certified Dealers nationwide.
+                        Over <strong>500,000</strong> Pre-Owned vehicles for sale from Certified Dealers nationwide.
                     <li>
                     <li>
                         <i class="tc-icon" data-icon="shield-sign"></i>
                         <h3>Buy With Confidence</h3>
-                        Get the best used car buying experience when you purchase from a <strong>TrueCar Certified Dealer</strong> who is dedicated to great service, and saving you time and money.
+                        Get an exceptional car buying experience when you purchase from a <strong>TrueCar Certified Dealer</strong> who is dedicated to great service, and saving you time and money.
                     <li>
                     <li>
                         <i class="tc-icon" data-icon="curve-sign"></i>
                         <h3>Get Price Confidence</h3>
-                        TrueCar analyzes millions of used car listings to determine whether listing prices are above or below market, so you <strong>never overpay</strong>.
+                        TrueCar analyzes millions of used car listings to determine whether listing prices are above or below market, so you can <strong>feel confident in the price you're paying</strong>.
                     <li>
                 </ul>
             </aside>
@@ -517,7 +539,7 @@
             ng.module('tcdc.base.services')
                 .constant('BASE_URLS', {
                     IMAGE_SERVICE_URL : '//a.tcimg.net/v/',
-                    STATIC_URL        : '//a.tcimg.net/tcdc/184.1-87/',
+                    STATIC_URL        : '//a.tcimg.net/tcdc/210.0-420/',
                 });
 
             ng.module('tcdc.search.services')
@@ -558,7 +580,7 @@
             ng.module('truecar.tracking')
                 .config(function(trackingServiceProvider, omnitureTrackingServiceProvider, tctrackTrackingServiceProvider){
                     //
-                    var trackers = ['omniture'];
+                    var trackers = ['omniture', 'tealium'];
                     tctrackTrackingServiceProvider.setInstance(TCTrack);
                         trackers.push('tctrack');
                     omnitureTrackingServiceProvider.setInstance(omniture);
@@ -581,8 +603,6 @@
                 (function () {
                     var tctdata = {  };
                     
-                        tctdata.abtest = "tcdct105_c";
-                    
                     
                     TCTrack.init('/tct', 'tc_privacy', tctdata);
                 })();
@@ -593,35 +613,18 @@
             </script>
 
     
+            
+            
+            
+        
+
+        
         <script>
                 // Chat with live agent
                 $('#liveagent_button_online_57380000000TNQB').on('click', function(e){
                     s.tl(true, 'o', 'Live Chat Global');
                 });
             </script>
-            
-
-<script>
-    (function() {
-      var _fbq = window._fbq || (window._fbq = []);
-      if (!_fbq.loaded) {
-        var fbds = document.createElement('script');
-        fbds.async = true;
-        fbds.src = '//connect.facebook.net/en_US/fbds.js';
-        var s = document.getElementsByTagName('script')[0];
-        s.parentNode.insertBefore(fbds, s);
-        _fbq.loaded = true;
-      }
-      _fbq.push(['addPixelId', '1507740192775960']);
-    })();
-    window._fbq = window._fbq || [];
-    window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="position:fixed; left:-10px; top: -10px;" src="https://www.facebook.com/tr?id=1507740192775960&amp;ev=NoScript" /></noscript>
-
-            
-            <img style="position:fixed; left:-10px; top: -10px;" src="https://ad.doubleclick.net/ddm/activity/src=4734206;type=remar0;cat=truec000;u1=;u2=;ord=1?" width="1" height="1" alt="">
-
             
 <!-- Google Code for Remarketing Tag -->
 <!-- ------------------------------------------------
@@ -659,8 +662,6 @@ var google_remarketing_only = true;
                             s.eVar38 = TrueCar.user.provider || 'tcdc';
                             s.eVar11 = s.eVar39 = s.prop39 = s.visitorId = TrueCar.user.id;
                             
-                                s.eVar48 = "tcdct105_c";
-                            
                         }else{
                             s.prop44 = '0';
                         }
@@ -673,7 +674,6 @@ var google_remarketing_only = true;
                         s.eVar12 = "website";
                         s.eVar21 = $.cookie('sourceId');
                         s.eVar22 = $.cookie('campaignId');
-                        s.eVar73 = false;
                         
                     
                     /* Variable settings are localized per page (overwrites allowed) */
@@ -701,8 +701,54 @@ var google_remarketing_only = true;
                         s.t();
                     }
                 };
+                TrueCar.fn.omnitureLinkTrack = function (eventName, vars, events) {
+                    var linkTrackVars;
+                    var linkTrackEvents;
+                    if (vars) {
+                        linkTrackVars = Object.keys(vars)
+                            .filter(function (key) {
+                                return key !== 'events'
+                            })
+                            .map(function (key) {
+                                return key;
+                            })
+                            .join(',');
+                    }
+                    if (events) {
+                        linkTrackEvents = events.join(',');
+                    }
+                    s.tl(
+                            true,
+                            'o',
+                            eventName,
+                            $.extend({}, vars, {
+                                events: events ? events.join(',') : undefined,
+                                linkTrackVars: linkTrackVars,
+                                linkTrackEvents: linkTrackEvents
+                            })
+                    );
+                };
             </script>
         
+        
+            <!-- Facebook Pixel Code -->
+<script>
+    !function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+            n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+        n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+            document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+    fbq('init', '1507740192775960');
+    fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1507740192775960&ev=PageView&noscript=1" />
+</noscript>
+<!-- End Facebook Pixel Code -->
+            
+            <img height="1" width="1" style="position: fixed; top: -10px; left: -10px; border-style:none;" alt="" src="https://tapestry.tapad.com/tapestry/1?ta_partner_id=2053&amp;ta_partner_did=None&amp;ta_format=png">
+            <img height="1" width="1" style="position: fixed; top: -10px; left: -10px; border-style:none;" alt="" src="https://p.adsymptotic.com/d/px?_pid=13219&amp;_psign=85550bbe7334151fcb9679647fa4dc1f&amp;_puuid=None&amp;_rand=2017045210451529671">
     
     <noscript><p class="alert noscript"><strong>Warning:</strong> either you have JavaScript disabled or your browser does not support JavaScript. To work properly, this page requires that you <a href="http://www.enable-javascript.com/" target="_blank">enable JavaScript</a>.</p></noscript>
     <p id="cookie_warning" class="alert" style="display:none;"><strong>Warning:</strong> you have Cookies disabled. To work properly, this page requires that you <a href="http://www.google.com/search?q=enable+cookies" target="_blank">enable cookies</a>.</p>
@@ -726,39 +772,6 @@ var google_remarketing_only = true;
 
     
     
-<script>
-    window.foresee_shown = function(status) {
-        if (status) {
-            s.linkTrackVars = 'contextData.foresee';
-            s.contextData['foresee'] = 'true';
-            s.tl(this,'o','foresee');
-        }
-    };
-</script>
-<script type="text/javascript">
-    
-    
-    
-
-    
-    
-    ;(function (g) {
-        var d = document, i, am = d.createElement('script'), h = d.head || d.getElementsByTagName("head")[0],
-                aex = {
-                    "src": "//gateway.answerscloud.com/truecar/production/gateway.min.js",
-                    "type": "text/javascript",
-                    "async": "true",
-                    "data-vendor": "acs",
-                    "data-role": "gateway"
-                };
-        for (var attr in aex) { am.setAttribute(attr,aex[attr]); }
-        h.appendChild(am);
-        g['acsReady'] = function () {var aT = '__acsReady__', args = Array.prototype.slice.call(arguments, 0),k = setInterval(function () {if (typeof g[aT] === 'function') {clearInterval(k);for (i = 0; i < args.length; i++) {g[aT].call(g, function(fn) { return function() { setTimeout(fn, 1) };}(args[i]));}}}, 50);};
-    })(window);
-    
-</script>
-    
-    
     <div style="display:none;" id="endofpage"></div>
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
 </body></html>
