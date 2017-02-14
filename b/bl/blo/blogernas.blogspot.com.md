@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blogernas.blogspot.com privacy policy that was archived on 2015-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150513094857id_/http%3A//blogernas.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blogernas.blogspot.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214213235id_/http%3A//blogernas.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Blogernas: Privacy Policy
 
