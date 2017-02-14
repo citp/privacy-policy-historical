@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the neweggbusiness.com privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823124006id_/http%3A//kb.neweggbusiness.com/Policies/Article/1174) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the neweggbusiness.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214184457id_/https%3A//kb.neweggbusiness.com/Policies/Article/1174) for the most accurate reproduction.*
 
 # None
 
