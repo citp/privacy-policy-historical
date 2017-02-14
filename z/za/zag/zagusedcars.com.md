@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the zagusedcars.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314081842id_/https%3A//www.truecar.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zagusedcars.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214210451id_/https%3A//www.truecar.com/privacy) for the most accurate reproduction.*
 
-# TrueCar Privacy Policy
+# Privacy Policy | TrueCar
 
 This Privacy Notice has recently changed.  
 Please read below to understand your rights and how we use the information we gather. 
 
-**Effective Date: 2/4/2016.**
+**Effective Date: 4/14/2016.**
 
 This Privacy Notice (“Notice”) applies to this website or mobile application and the websites or mobile applications of TrueCar, Inc., and its subsidiaries and affiliates (collectively “we”, “us” or “our”) that display this Notice (each a “Site” and collectively, the “Sites”). By visiting the Sites, you are consenting to our collection, use, disclosure, retention, and protection of information about you and devices you use as described in this Notice.
 
@@ -22,15 +22,15 @@ This Notice only applies to the Sites and does not apply to information collecte
 
 
 
-We may collect information such as your first and last name, home or other physical address, email address, zip code, telephone number, your automobile’s vehicle identification number (“VIN”), license plate number, or information about your interactions with us or others, or other information.
+We may collect information such as your first and last name, home or other physical address, email address, zip code, telephone number, your automobile’s vehicle identification number (“VIN”), license plate number, or information about your interactions with us or others, and other information.
 
 **Social Media.** You may use social networks or other online services to access our Sites. When you do so, information from those services may be made available to us. By associating a social network account with our Sites, you agree that we may access and retain that information in accordance with the policies of the social network or other online service and this Notice. For example, we may be able to access account or profile information that you have provided to the social network or information about your interactions with the social network to make information available to us (such as when commenting on a blog post or using a sign-on service, such as Facebook Connect).
 
-**Automatically Collected Information.** We may collect information automatically when you visit our Sites or use our mobile application, such as:
+**Automatically Collected Information.** We may collect information automatically when you visit our Sites or use our mobile applications, such as:
 
   * your IP address;
-  * the type of browser, device and operating system you use;
-  * identifiers associated with the device you use to access our Sites;
+  * the type of browser, devices and operating systems you use;
+  * identifiers associated with the device(s) you use to access our Sites;
   * the pages you visit, vehicles you view or configure, and the features you use, including dates and times;
   * if you navigated from or navigate to another website, the address of that website; and
   * information regarding your internet service provider.
@@ -51,7 +51,7 @@ We may allow third parties to use Metrics Tools on our Sites. The information co
 
 We and others acting on our behalf may use the information that we collect or receive to operate our business, including our Sites, as described below:
 
-**Operate and Support our Sites and Services.** We use the information that we gather in order to operate our Sites and our services. For example, we may use the information that we collect or receive to provide support and assistance that you request or to diagnose or address technical problems in the operation of our Sites or any of our services. If you establish an account with us, we may use information about you to manage or support your account.
+**Operate and Support our Sites and Services.** We use the information that we gather in order to operate our Sites and our services. For example, we may use the information that we collect or receive to provide support and assistance that you request or to diagnose or address technical problems in the operation of our Sites or any of our services. If you establish an account with us, we may use information about you to manage or support your account. We may identify your use of our Sites across devices, and we may use information we collect from you and receive from others to optimize your use of the Sites and our services as you use different devices.
 
 **Improving and Evolving our Services.** We constantly evaluate and improve our Sites and services, including developing new products or services and use the information we gather to do so.
 
