@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016042411id_/https%3A//www.princeedwardisland.ca/en/information/website-privacy-and-security-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the princeedwardisland.ca privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214215156id_/https%3A//www.princeedwardisland.ca/en/information/website-privacy-and-security-policy) for the most accurate reproduction.*
 
 # Privacy and Security | Prince Edward Island
 
