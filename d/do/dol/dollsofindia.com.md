@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216061623id_/http%3A//www.dollsofindia.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dollsofindia.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214145708id_/http%3A//www.dollsofindia.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
