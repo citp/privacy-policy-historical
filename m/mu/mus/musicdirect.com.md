@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicdirect.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804203503id_/https%3A//www.musicdirect.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicdirect.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214235558id_/https%3A//www.musicdirect.com/Privacy) for the most accurate reproduction.*
 
 # Music Direct | Vinyl Records, Turntables, Audiophile Equipment & Accessories
 
@@ -44,4 +44,4 @@ Music Direct will occasionally update this Statement of Privacy to reflect compa
 
 Contact Information
 
-Music Direct welcomes your comments regarding this Statement of Privacy. If you believe that Music Direct has not adhered to this Statement, please contact Music Direct at [noreply@musicdirect.com](mailto:noreply@musicdirect.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
+Music Direct welcomes your comments regarding this Statement of Privacy. If you believe that Music Direct has not adhered to this Statement, please contact Music Direct at [no-reply@musicdirect.com](mailto:no-reply@musicdirect.com). We will use commercially reasonable efforts to promptly determine and remedy the problem.
