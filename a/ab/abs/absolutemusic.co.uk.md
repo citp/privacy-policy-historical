@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the absolutemusic.co.uk privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224073018id_/https%3A//www.absolutemusic.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the absolutemusic.co.uk privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214034800id_/https%3A//www.absolutemusic.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# privacy polcy | Absolute Music
+# privacy policy | Absolute Music
 
 **OUR COMMITMENT TO PRIVACY**
 
@@ -22,7 +22,11 @@ Absolute Music may disclose consumer information to companies affiliated with Ab
 
 Absolute Music limits access to personal information to those employees of Absolute Music and its affiliates who need it to fulfill their business responsibilities. Employees must adhere to Absolute Music privacy policies. Employees violating these policies may be subject to disciplinary action, up to and including dismissal. Vendors and other outside contractors we engage are subject to our contractual requirements to ensure that sensitive personal information is safeguarded. 
 
-**WE USE APPROPRIATE SECURITY SAFEGUARDS.**
+**PAYPAL TRANSACTIONS.**
+
+All PayPal transactions are subject to the PayPal Privacy Policy which can be found [here](https://www.paypal.com/uk/webapps/mpp/ua/privacy-full?locale.x=en_GB)
+
+ **WE USE APPROPRIATE SECURITY SAFEGUARDS.**
 
 At Absolute Music, security is a priority. We employ appropriate measures to protect consumer information against unauthorized access, disclosure, alteration or destruction. These may include, among others, encryption, physical access security and other appropriate technologies. Absolute Music continually reviews and enhances its security systems, as necessary. 
 
