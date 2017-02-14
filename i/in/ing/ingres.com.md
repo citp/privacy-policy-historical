@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106165709id_/http%3A//www.actian.com/website/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ingres.com privacy policy that was archived on 2017-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170214065407id_/http%3A//www.actian.com/website/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Actian – Data Management & Data Integration
 
@@ -6,13 +6,21 @@
 
 Actian Corporation (“Actian” “we” or “us”) and its subsidiaries respect your privacy and are committed to protecting it. Actian provides this Privacy Statement to inform you of our Privacy Policy and practices and of the choices you can make about the way your information is collected online and how that information is used. We’ve structured our websites so that, in general, you can visit Actian on the Web without identifying yourself or revealing any personal information. We make this notice readily available at the bottom of every Actian Web page.
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=3eace8b5-0fcc-4856-85ef-48b061d61cda "TRUSTe Privacy Certification")
+**EU-U.S. Privacy Shield**
 
-Actian has received TRUSTe’s Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program, including TRUSTe’s TRUSTed Cloud program, which is viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers information collected on [www.actian.com](https://web.archive.org/), [www.pervasive.com](http://www.pervasive.com/), [www.paraccel.com](http://www.paraccel.com/) and our service platform.
+[](https://privacy.truste.com/privacy-seal/validation?rid=1470f14a-445f-432b-ae4d-3a6095d999a1 "TRUSTe Privacy Certification")
 
-If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@actian.com](mailto:privacy@actian.com). If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
+Actian Corporation participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Actian Corporation is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the [U.S. Department of Commerce’s Privacy Shield List](https://www.privacyshield.gov/list).
 
-Actian complies with the U.S. – E.U. Safe Harbor framework and the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Actian has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Actian certification, please visit <http://www.export.gov/safeharbor/>.
+Actian Corporation is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. [Participant] complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
+
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Actian Corporation is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Actian Corporation may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may be entitled to invoke binding arbitration when other dispute resolution procedures have been exhausted.
+
+Actian complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Actian has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Actian certification, please visit <http://www.export.gov/safeharbor/>.
 
 **Information Related to Data Collected for our Clients** ****
 
@@ -20,7 +28,7 @@ Actian collects some information under the direction of its Clients, and with re
 
 **Access and Retention of Data Controlled by our Clients** ****
 
-With respect to information collected under direction of its Clients, Actian has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Actian’s Client (the data controller). If the Client requests Actian to remove the data, we will respond to their request.
+Actian acknowledges that you have the right to access your personal information. With respect to information collected under direction of its Clients, Actian has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Actian’s Client (the data controller). If the Client requests Actian to remove the data, we will respond to their request.
 
 We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Actian will retain and use this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -104,9 +112,9 @@ Based upon the personal information you provide us, we will communicate with you
 
 **7\. Who we share your information with**
 
-Actian shares customer information across Actian-owned business entities and companies working on our behalf, but only as described above in “How we use your information.” For instance, if you download an evaluation product, we may share your information with an authorized Actian reseller in your territory.  We will share your personal information with third parties only in the ways that are described in this privacy policy.  We do not sell your personal information to third parties.
+Actian shares customer information across Actian-owned business entities and companies working on our behalf, but only as described above in “How we use your information.” For instance, if you download an evaluation product, we may share your information with an authorized Actian reseller in your territory.  We will share your personal information with third parties only in the ways that are described in this privacy policy.  We do not sell your personal information to third parties. If you do not want us to share your personal information with these companies, you may contact us at: [privacy@actian.com](mailto:privacy@actian.com).
 
-Actian contracts with third-party service providers and suppliers such as credit card processing companies, marketing campaign management companies, SaaS software providers,  email service providers or third party customer service companies to deliver complete products, services and customer solutions described in “How we use your information.”  Suppliers and service providers are required to keep confidential the information received on behalf of Actian and may not use it for any purpose other than to carry out the services they are performing for Actian. These service providers may change or we may contract with additional service providers to better accommodate our customers. Actian will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law, or in our sole discretion, to law enforcement agencies to assist in any investigation, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or unlawful conduct or respond to a government request.
+Actian contracts with third-party service providers and suppliers such as credit card processing companies, marketing campaign management companies, SaaS software providers,  email service providers or third party customer service companies to deliver complete products, services and customer solutions described in “How we use your information.”  Suppliers and service providers are required to keep confidential the information received on behalf of Actian and may not use it for any purpose other than to carry out the services they are performing for Actian. These service providers may change or we may contract with additional service providers to better accommodate our customers. In certain situations, Actian may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Actian will not share personal information with any other third parties without your permission, unless required by law enforcement action, subpoena, or local law, or in our sole discretion, to law enforcement agencies to assist in any investigation, when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud or unlawful conduct or respond to a government request.
 
 Certain Actian services are linked with those from unrelated third-party companies, some of which offer you the option to share with both Actian and the third party personal data you provide. Examples include the ability to register software products from multiple vendors from a single Actian Web page, to request communications from Actian marketing or solution partners, or to enable order completion through a reseller.
 
@@ -126,7 +134,7 @@ To opt-out of receiving communications use any of the following methods:
 
 **9\. Access to and accuracy of your information**
 
-Actian strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain customer data accuracy. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change or delete inaccuracies or modify your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of Actian websites may limit access to specific individuals through the use of passwords and other personal identifiers.
+Actian strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain customer data accuracy. Upon request Actian will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. We will provide you with access to your information, including making reasonable effort to provide you with online access and the opportunity to change or delete inaccuracies or modify your information. To protect your privacy and security, we will also take reasonable steps to verify your identity, such as a password and user ID, before granting access to your data. Certain areas of Actian websites may limit access to specific individuals through the use of passwords and other personal identifiers.
 
 The most effective way to view and change your personal information is to visit this page, [http://www.actian.com/website/profile-update/](https://web.archive.org/website/profile-update/).  We will respond to your access request within 30 days.
 
@@ -157,4 +165,4 @@ Web site URL: [www.actian.com](https://web.archive.org/)
 
 Effective Date:
 
-Rev. April 26, 2016
+Rev. December 8, 2016
