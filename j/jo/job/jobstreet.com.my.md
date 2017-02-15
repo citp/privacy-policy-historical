@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jobstreet.com.my privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130084528id_/http%3A//www.jobstreet.com.my/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobstreet.com.my privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215100909id_/http%3A//www.jobstreet.com.my/en/about-us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - JS AboutUs MY
 
