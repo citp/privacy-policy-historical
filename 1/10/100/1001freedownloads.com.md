@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 1001freedownloads.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034753id_/http%3A//www.1001freedownloads.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 1001freedownloads.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215123543id_/http%3A//www.1001freedownloads.com/privacy) for the most accurate reproduction.*
 
 # Web Site Privacy Policy - 1001FreeDownloads.com
 
