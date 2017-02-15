@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the whatsmob.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124103340id_/http%3A//whatsmob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whatsmob.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215124528id_/http%3A//whatsmob.com/privacy) for the most accurate reproduction.*
 
 # Whatsmob | Meet People | Share Photos | Download Music and Videos | Privacy Policy
 
 **PRIVACY POLICY**
 
-This Privacy Policy was amended on the 2 October 2016. This website is owned and operated by Tech Garden Media Ltd (referred to as the "Company", "we, "us", "our"), an English company with registered office at Ergon House, Dean Bradley St. 4th Floor, Suite 3. London SW1P 2AL, United Kingdom.  
+This Privacy Policy was amended on the 2 January 2017. This website is owned and operated by Tech Garden Media Ltd (referred to as the "Company", "we, "us", "our"), an English company with registered office at Ergon House, Dean Bradley St. 4th Floor, Suite 3. London SW1P 2AL, United Kingdom.  
 TechGarden knows that you care about how your information may be used or shared. This Privacy Policy explains what information is collected by the Company in using this website and related services, how the information will be used, and how you can control the collection, correction and / or elimination of your information. We will not use or share your information with anyone except as described in this Privacy Policy.
 
 **Use and Treatment of Information**
