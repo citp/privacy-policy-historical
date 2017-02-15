@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623154115id_/https%3A//support.blinkbox.com/hc/en-gb/articles/205879628) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinkbox.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215145616id_/https%3A//support.blinkbox.com/hc/en-gb/articles/205879628) for the most accurate reproduction.*
 
 # Our privacy policy – TalkTalk TV Store Support
 
