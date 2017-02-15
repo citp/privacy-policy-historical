@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meundies.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316125636id_/https%3A//www.meundies.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meundies.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215155552id_/https%3A//www.meundies.com/privacy) for the most accurate reproduction.*
 
-# MeUndies - World's Most Comfortable Underwear, Socks, and T-Shirts - MeUndies
+# MeUndies | World's Most Comfortable Underwear & Loungewear - MeUndies
 
 ##  1\. Disclaimer & Privacy Policy 
 
