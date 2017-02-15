@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paloaltonetworks.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329224634id_/https%3A//www.paloaltonetworks.com/legal-notices/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paloaltonetworks.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216003401id_/https%3A//www.paloaltonetworks.com/legal-notices/privacy) for the most accurate reproduction.*
 
 # Privacy
 
