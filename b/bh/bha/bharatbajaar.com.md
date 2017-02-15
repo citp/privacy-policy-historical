@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the bharatbajaar.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008134314id_/http%3A//www.bharatbajaar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bharatbajaar.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215110054id_/http%3A//www.bharatbajaar.com/privacy-policy) for the most accurate reproduction.*
 
-# Bharat Bajaar. Privacy Policy
+# Privacy Policy | Bharat Bazaar Online Shopping Store.
 
 Protecting your privacy is very important to us. We have accordingly developed this Privacy Policy to protect your personal information and keep it confidential. We endeavor to comply with laws of other countries but cannot and do not warrant that we do. We do everything we reasonably can to protect your rights of privacy on systems and the Website controlled by us, but we are not liable for any unauthorized or unlawful disclosures of your personal and confidential information made by third parties who are not subject to our control, for example advertisers and websites that have links to our Website. You should take note that the information and privacy practices of our business partners, advertisers, sponsors or other sites to which we provide hyperlinks, may be different from ours. Our privacy policy is subject to change at any time without notice. To make sure you are aware of any changes, please review this policy periodically.
 
