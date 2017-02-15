@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chillopedia.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125213428id_/http%3A//chillopedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chillopedia.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215154454id_/https%3A//chillopedia.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -30,4 +30,4 @@ Our Site may contain links to other sites that are not operated by us. If you cl
 
 ### **Further Information**
 
-If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://chillopedia.com/contact-us/).
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://chillopedia.com/contact-us/).
