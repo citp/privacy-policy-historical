@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the financesonline.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217065230id_/https%3A//financesonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the financesonline.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215160000id_/https%3A//financesonline.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Financesonline.com
 
@@ -88,7 +88,7 @@ We may partner with identified third parties, but we do not offer any personally
 
 #### 9\. COOKIES AND IPS
 
-To improve our our understanding of Users’ interaction with our Site, we may use IP trackers and cookies. Rittan Holdings Ltd has a [cookies policy that can be found here](https://financesonline.com/cookies-policy/).
+To improve our our understanding of Users’ interaction with our Site, we may use IP trackers and cookies. Rittan Holdings Ltd has a [cookies policy that can be found here](https://web.archive.org/cookies-policy/).
 
 #### 10\. ADSENSE
 
