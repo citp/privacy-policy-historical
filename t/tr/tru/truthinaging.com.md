@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthinaging.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225110809id_/https%3A//www.truthinaging.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthinaging.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215095833id_/https%3A//www.truthinaging.com/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy | Truth In Aging
 
