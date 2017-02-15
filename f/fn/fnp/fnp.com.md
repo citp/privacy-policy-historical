@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnp.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229035706id_/http%3A//www.fnp.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnp.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215035056id_/http%3A//www.fnp.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Information - Ferns N Petals
 
@@ -83,5 +83,5 @@ We reserve the right to modify this privacy statement at any time, so please rev
 In accordance with Information Technology Act 2000 and rules made there under, the name and contact details of the Grievance Officer are provided below:
 
 Name - Mr. Rahul Kapoor  
-Contact No.[+91 - 9711901466](https://web.archive.org/web/20161229035706id_/http%3A//www.fnp.com/info/+91%20-%209711901466)  
-Email Id - [rahul.kapoor@fnp.com](https://web.archive.org/web/20161229035706id_/http%3A//www.fnp.com/info/rahul.kapoor@fnp.com)
+Contact No.[+91 - 9711901466](https://web.archive.org/web/20170215035056id_/http%3A//www.fnp.com/info/+91%20-%209711901466)  
+Email Id - [rahul.kapoor@fnp.com](https://web.archive.org/web/20170215035056id_/http%3A//www.fnp.com/info/rahul.kapoor@fnp.com)
