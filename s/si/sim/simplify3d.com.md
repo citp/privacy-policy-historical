@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplify3d.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028012015id_/https%3A//www.simplify3d.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplify3d.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215102025id_/https%3A//www.simplify3d.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Simplify3D
+# Privacy Policy | Simplify3D Software
 
 This Privacy Policy describes how we handle information we learn about you from our Site. It describes the types of information we collect and explains what we do with that information. If you have questions about this policy or wish to contact us, we can be reached via e-mail at info@simplify3d.com.
 
