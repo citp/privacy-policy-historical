@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-citizenry.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121171758id_/https%3A//www.the-citizenry.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-citizenry.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215230427id_/https%3A//www.the-citizenry.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # The Citizenry | Privacy Policy – The Citizenry
 
