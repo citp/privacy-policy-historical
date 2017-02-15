@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legends-decks.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113739id_/http%3A//www.legends-decks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legends-decks.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215194033id_/https%3A//www.legends-decks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Legends Decks - The Elder Scrolls: Legends
 
@@ -106,7 +106,7 @@ We also agree to the individual redress principle, which requires that individua
 ### Contacting Us.
 
 If there are any questions regarding this privacy policy you may contact us using the form below.  
-[Contact](http://www.legends-decks.com/contact-us)
+[Contact](https://www.legends-decks.com/contact-us)
 
 Legends Decks
 
