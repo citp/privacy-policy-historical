@@ -1,66 +1,50 @@
-> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016231024id_/http%3A//www.deverevenues.co.uk/en/legals-and-policy/privacy-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devere.co.uk privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215010555id_/https%3A//www.phcompany.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy - De Vere Venues
+# Privacy policy
 
-This policy statement sets out the data processing practices carried out through the use of the Internet and World Wide Web by De Vere Venues. If you have any requests concerning your personal information or any queries with regard to these practices please contact our Customer Services Department using our [feedback form](https://web.archive.org/en/about-us/contact-us/ "Contact Us").
+### Privacy Statement
 
-## 1\. Information collected
+In December 2014, Principal Hotels Topco 1 Limited was established as a common UK parent company for The Principal Hotel Company, Principal, De Vere, and Partner Hotels. Any personal data you give us associated to Principal Hotels Topco 1 Limited or any of its wholly owned subsidiaries or associated hotels will be used to send a brochure, email, handle an enquiry or make a booking with a hotel or send you appropriate marketing communications. It will then be stored securely on our database for a reasonable period of time.
 
-We collect personal information from visitors to this web site through the use of enquiry and reservation forms and every time you e-mail us your details.
+We promise to only send you relevant and timely marketing communications from Principal Hotels Topco 1 Limited wholly owned subsidiaries and associated hotels and we will give you the opportunity to decline to receive similar future communications every time we send them.
 
-## 2\. Use of personal Information
+Every time we send marketing communications we will give you the opportunity to decline to receive some or all of these communications.
 
-We process personal information collected via this website for the purposes of:
+### Opting Out
 
-Dealing with your requests  
-Providing reservation services  
-Tailoring our services to your requirements and preferences  
-Conducting market research surveys and providing you with information about products and services we offer.
+Please see below for further information. If you wish to opt-out you can do so by writing to us at:
 
-## 3\. Disclosures
+Marketing Department  
+The Principal Hotel Company  
+The Inspire  
+Hornbeam Park  
+Harrogate  
+HG2 8PA
 
-We will NOT sell this information and will only disclose it to other companies within De Vere Venues and any suppliers we engage to process data on our behalf.
+or email: [data@phcompany.com](mailto:data@phcompany.com)
 
-In the event that we are subject to a change of ownership or corporate structure, we may need to disclose your personal data
+Please allow us one month to process our data for your opt-out to take effect.
 
-## 4\. Internet Based Transfers
+The Golf booking engine pages – those with a web address prefixed by <http://www.brsgolf.com/> are managed by BRS Golf our golf booking partner and, as such, BRS Golf is responsible for the content in accordance with their terms and conditions.
 
-Given that the Internet is a global environment, using the Internet to collect and process personal data necessarily involves the transmission of data on an international basis. Therefore, by browsing this web site and communicating electronically with us, you acknowledge and agree to our processing personal data in this way.
+### Personal Data
 
-## 5\. Security
+For the purposes of the Data Protection Act 1998, we The Principal Hotel Company are a data controller. In order to process your booking or enquiry we need to collect certain personal details from you. These details could include your name, email and contact details and those of party members, credit/ debit card or other payment details and special requirements such as those relating to any disability or medical condition which may effect your chosen arrangements and any dietary restrictions which may disclose your religious beliefs.
 
-We are committed to ensuring that your information is secure. In order to prevent unauthorised access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. 
+In respect of bookings we need to pass on your personal details to other companies and organisations in order to deliver the service. Such companies and organisations may be outside the European Union.
 
-## Use of Cookies on this Website
+### Storage of your Personal Data
 
-A cookie is a small file, typically of letters and numbers, downloaded on to a device such as a computer when a user accesses certain websites. Cookies allow a website to recognize a user’s device.
+Unless you have asked us not to we will store and use your personal details for future marketing purposes (for example, sending you a brochure or details of a promotion via email).
 
-Cookies can expire at the end of a browser session (from when a user opens the browser window to when they exit the browser) or they can be stored for longer.
+We use a data services company to analyse data on our behalf, in order for us to tailor future marketing campaigns effectively. We only provide any such companies with the personal details relating to our clients, which they require in order to deliver the service back to us. They are not permitted to use the information for any other purpose.
 
-**Session cookies  **– allow websites to link the actions of a user during a browser session. They may be used for a variety of purposes such as remembering what a user has put in their shopping basket as they browse around a site. They could also be used for security or to facilitate use of webmail. These session cookies expire after a browser session so would not be stored longer term.
+In the event that we are subject to a change of ownership or corporate structure, we may need to disclose your personal data.
 
- **Persistent cookies**  – are stored on a users’ device in between browser sessions which allows the preferences or actions of the user across a site (or in some cases across different websites) to be remembered. Persistent cookies may be used for a variety of purposes including remembering users’ preferences and choices when using a site or to target advertising
+You are generally entitled to ask us (by letter or e-mail) what details of yours are being held or processed, for what purpose and to whom they may be or have been disclosed. We may charge a fee to respond to such a request. We promise to respond to your request within 40 days of receiving your written request and fee. In certain limited circumstances we are entitled to refuse your request. If you believe that any of your personal details which we are processing are inaccurate or incorrect please contact us immediately.
 
- **First and third party cookies**  – Whether a cookie is ‘first’ or ‘third’ party refers to the website or domain placing the cookie. First party cookies in basic terms are cookies set by a website visited by the user - the website displayed in the URL window. Third party cookies are cookies that are set by a domain other than the one being visited by the user. If a user visits a website and a separate company sets a cookie through that website this would be a third party cookie. 
+This privacy statement covers websites owned and controlled by us only. Links to other websites and any information collected by these sites are not covered by this privacy statement.
 
-Most web browsers allow some control of most cookies through the browser settings. To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org.](http://www.allaboutcookies.org/)
+### SynXis Booking Engine
 
-This website uses the following cookies. You can delete, remove your consent and/or block cookies sent to you from this website but parts of the website may not then work.
-
-**Cookie name** | **Purpose** | **More information**  
----|---|---  
-_utmz  
-_utmc  
-_utmb  
-_utma | These functional cookies are used to collect information about how visitors use our site. We use the information to compile reports and to help us improve the site. The cookies collect information in an anonymous form, including the number of visitors to the site, where visitors have come to the site from and the pages they visited. | [Click here](http://www.google.com/intl/en/policies/privacy/) for an overview of privacy at Google.  
-Devere - sso  
-userFirstName | These cookies allow you to sign on to our site. | Not applicable  
-id | We use this cookie to serve more relevant ads across the site and limit the number of times that a given ad is shown to you | [Click here](http://www.google.com/intl/en/policies/privacy/) for an overview of privacy at Google.  
-u | This persistent cookie provided by Ignition One allows us to customize, target and report on the advertisements on our site and across third party websites. | [Click here](http://www.ignitionone.com/en/about/privacy-services.php) for an overview of privacy at Ignition One and details of how to opt out.  
-JSESSIONID | This functional cookie is used to take the details of your booking and is created only for the duration of your session. | Not applicable  
-  
-In December 2014, Principal Hotels Topco 1 Limited was established as a common UK parent company for De Vere Venues, PH Hotels and Four Pillars Hotels. Any personal data you give us associated to Principal Hotels Topco 1 Limited or any of its wholly owned subsidiaries or associated hotels will be used to send a brochure, email, handle an enquiry or make a booking with a hotel or send you appropriate marketing communications. It will then be stored securely on our database for a reasonable period of time. We promise to only send you relevant and timely marketing communications from Principal Hotels Topco 1 Limited wholly owned subsidiaries and associated hotels and we will give you the opportunity to decline to receive similar future communications every time we send them.
-
-### This Web Site is Not Directed at Persons Under the Age of 18.
-
-Our web site is not directed at persons under the age of 18, and De Vere Venues does not collect or maintain information at our Web site from persons we actually know are under the age of 18.
+Some booking engine pages – those with a web address prefixed by <https://gc.synxis.com/> are managed by SynXis our booking partner and, as such, Synxis is responsible for the content in accordance with their terms and conditions.
