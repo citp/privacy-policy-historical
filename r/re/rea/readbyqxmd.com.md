@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readbyqxmd.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116181910id_/https%3A//www.readbyqxmd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readbyqxmd.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215211311id_/https%3A//www.readbyqxmd.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Read by QxMD
 
