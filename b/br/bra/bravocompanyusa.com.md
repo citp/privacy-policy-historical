@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bravocompanyusa.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124091554id_/http%3A//www.bravocompanyusa.com/terms_privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bravocompanyusa.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215100415id_/http%3A//www.bravocompanyusa.com/terms_privacy.asp) for the most accurate reproduction.*
 
 # Terms: Privacy
 
@@ -52,7 +52,7 @@ We welcome your questions, comments, and concerns about privacy. Please send us 
 
 Terms and Conditions
 
-Please also visit our [Terms and Conditions](https://web.archive.org/web/20161124091554id_/http%3A//www.bravocompanyusa.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
+Please also visit our [Terms and Conditions](https://web.archive.org/web/20170215100415id_/http%3A//www.bravocompanyusa.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
 Your consent
 
