@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lmr.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331100039id_/https%3A//lmr.com/page/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lmr.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215093847id_/https%3A//lmr.com/page/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - LMR.com - LMR.com ®
 
