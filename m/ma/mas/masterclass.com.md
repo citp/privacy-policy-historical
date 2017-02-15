@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the masterclass.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413105027id_/https%3A//www.masterclass.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the masterclass.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215083620id_/https%3A//www.masterclass.com/privacy) for the most accurate reproduction.*
 
 # MasterClass
 
@@ -90,4 +90,4 @@ You may contact us as follows:
 
 660 4th #443   
 San Francisco, CA 94107   
-team@MasterClass.com 
+support@masterclass.com
