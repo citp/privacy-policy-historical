@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the audiense.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109013445id_/https%3A//audiense.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the audiense.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215033101id_/https%3A//audiense.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Audiense
 
@@ -43,7 +43,3 @@ Any changes we may make to our privacy policy in the future will be posted on th
 ### Contact
 
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to[info@audiense.com](mailto:info@audiense.com).
-
-#### optimize your marketing with social data:
-
-[ see it in action ](https://www.audiense.com/products/)
