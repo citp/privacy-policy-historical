@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020151515id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxsci.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215155339id_/https%3A//luxsci.com/extranet/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | LuxSci
 
@@ -6,7 +6,7 @@ Version 2016.09.01
 
 Lux Scientiae, Incorporated (collectively, "We", "Our", "Us", "LuxSci", or "Lux Scientiae") has created this privacy statement in order to demonstrate our commitment to privacy. The following discloses our information gathering and dissemination practices for this website, [luxsci.com](https://luxsci.com/), and our services in general. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here in this policy, by email, or by means of a notice on our LuxSci FYI Blog prior to the change becoming effective.
 
-[](https://privacy.truste.com/privacy-seal/seal?rid=18aa85d3-7638-4e15-b712-2951e0606e71 "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=18aa85d3-7638-4e15-b712-2951e0606e71 "TRUSTe Privacy Certification")
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -14,7 +14,7 @@ Lux Scientiae complies with the U.S.—Swiss Safe Harbor Framework as set forth 
 
 ## EU—U.S. Privacy Shield
 
-Lux Scientiae participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Lux Scientiae is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's aplicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's [Privacy Shield List](https://www.privacyshield.gov/list). 
+Lux Scientiae participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Lux Scientiae is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework's applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce's [Privacy Shield List](https://www.privacyshield.gov/list). 
 
 Lux Scientiae is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. Lux Scientiae complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions. 
 
@@ -24,7 +24,7 @@ Under certain conditions, more fully described on the Privacy Shield website [ht
 
 ## General usage
 
-While visiting the Lux Scientiae web site, information is stored in log files for the purpose of analyzing what pages are accessed, which files are downloaded, and what errors occur. This information includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We review which top domain addresses visit our site. This process does not collect any personal information about you or your business. 
+While visiting the Lux Scientiae web site, information is stored in log files for the purpose of analyzing what pages are accessed, which files are downloaded, and what errors occur. This information includes Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and clickstream data. We review which top domain addresses visit our site. This process does not collect any personal information about you or your business. 
 
 When you complete any form on our site including personal information such as your name, addresses, email, phone numbers, and other information, your information is written to a secure file or database and/or emailed to our staff. We will respond to your inquiry if applicable. 
 
@@ -163,19 +163,9 @@ Due to the Security and Privacy restrictions imposed by the BAA and by HIPAA tha
 You may return signed versions of these documents to Lux Scientiae by:
 
   * Using the [Online Signature Form](https://web.archive.org/extranet/hipaa-baa-standard.html)
-  * FAXing to 413-332-0598 
+  * Faxing to 413-332-0598 
   * Emailing to: support AT LuxSci.com 
   * Mailing to Lux Scientiae at 15 Brook Street, Medfield, MA 02052 USA 
   * Scanning and attaching digital copies to a support ticket in your Lux Scientiae account. 
 
 
-
-|  | 
-
-Starting at $10/mo
-
-Sign Up
-
-[](https://www.mcafeesecure.com/RatingVerify?ref=www.luxsci.com "McAfee Certified Secure")  
-  
----|---|---
