@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickandflirt.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430001213id_/https%3A//www.clickandflirt.com/staticPage/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickandflirt.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215032411id_/https%3A//www.clickandflirt.com/staticPage/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Casual Dating at Click&Flirt
 
@@ -22,7 +22,17 @@ This policy (together with our [terms and conditions of use](https://web.archive
 
 **1\. WHO WE ARE**
 
-We, Together Networks Holdings Limited, are the owner of this website and, for the purposes of the Data Protection Act 1998 (as amended), we are the data controller, maintaining a data controller registration with the Information Commissioner. 
+We, , are the owner of this website and, for the purposes of the Data Protection Act 1998 (as amended), we are the data controller, maintaining a data controller registration with the Information Commissioner.
+
+Our contact details are:
+
+Name: 
+
+Address: P.O. Box 146, Trident Chambers, Road Town, Tortola, British Virgin Islands
+
+Phone: 1 8004896091 
+
+Email for Customer services: support@clickandflirt.com
 
 We own and/or operate a large number of social, dating, lifestyle and entertainment sites (including mobile applications/apps) through our Group Companies and Partner Sites. We refer to our sites and apps as, collectively, the “Services” within this policy. Some of our terms will make reference to our Group Companies or Partner Sites and any reference in this policy to “us” or “we” or “our” will include our Group Companies and Partner Sites. 
 
@@ -48,7 +58,7 @@ It’s ok to change your mind about what data you are allowing us to keep and wh
 We may collect and process different types of information about you. Some of this data is considered to be Personal Data (that means you can be identified by it including Sensitive Personal Data) and Anonymous Data (that is data that you cannot be identified from). 
 
 **(a) Information we collect when you sign up to our Services**  
-We will collect your personal details including but not limited to your real name, user name, address, telephone, email address, date of birth, race, religion, sexual orientation and any other information you submit when you create a profile and sign up to our Services. 
+We will collect your personal details including but not limited to your full real name, user name, address, telephone, email address, date of birth, race, religion, sexual orientation and any other information you submit when you create a profile and sign up to our Services. 
 
 **(b) Data we collect in respect of customer service and support**  
 If you contact customer support we will keep any information you provide to us including records of correspondence.   
@@ -71,7 +81,7 @@ When you use our Services to search for other users, explore our Services, or in
 Some of our Services have the ability to link your use of the Services to other social networks you might have access to. If you have an account with another social network e.g. Facebook, you can share the data you have on our site with that network. To enhance your experience and create a personalised service we may ask you to login to your Facebook account. By doing so you grant us access to your information stored on your Facebook profile including without limitation your personal information, photographs, videos, interests and locations. When you login to the other network or install our app, we will receive the basic information from you including but not limited to your name, photos, gender, networks, user ID, friends list and any other information you make public and your email address. If you have logged into other social networks and linked them to any of our profiles you grant permission for us to post updates, including location information, on your behalf therefore please exercise caution. You can turn off location data – see below. 
 
 **(e) Information we collect about your location**  
-We can collect location data from your computer and/or mobile device. When accessing the Services from a mobile device you will be given the option to allow location sharing with our application. If you do not wish to share your location data with us please turn off this feature by following your mobile device instructions to do so. We can track your IP address if you are using a computer to access the Services. If you are using a mobile device we use GPS with an accuracy range of 20 to 100 metres. Although location data is anonymous and can’t identify you, it can be shown to other users so please exercise caution if you do not wish to publicise your location. We also use your location data to research our own Services, develop new products and improve our Services, including using third parties to help us either provide the Services to you or develop new ones, and target advertising to suit your user experience. Your devices can give us lots of information about the device including the brand, model, version of operating system, installed app details, email accounts, mobile carrier and so on. We may also connect your account with location data from Foursquare and can show your Foursquare check ins on our map within some of our Services. 
+We can collect location data from your computer and/or mobile device. When accessing the Services from a mobile device you will be given the option to allow location sharing with our application. If you do not wish to share your location data with us please turn off this feature by following your mobile device instructions to do so. We can track your IP address if you are using a computer to access the Services. If you are using a mobile device we use GPS with an accuracy range of 20 to 100 metres. Although location data is anonymous and can’t identify you, it can be shown to other users so please exercise caution if you do not wish to publicise your location. If you choose to change or turn off location sharing, in order to provide you with a more localised service and localised matches, we will show you as being at a randomly generated location within the postal code area that you have provided. We also use your location data to research our own Services, develop new products and improve our Services, including using third parties to help us either provide the Services to you or develop new ones, and target advertising to suit your user experience. Your devices can give us lots of information about the device including the brand, model, version of operating system, installed app details, email accounts, mobile carrier and so on. We may also connect your account with location data from Foursquare and can show your Foursquare check ins on our map within some of our Services. 
 
 **(f) Information we collect about your Contacts**  
 Some features of the Services allow you to share your user experience with people you know (“your Contacts”), or to invite them to join the Services. When given the option to do so you can choose to upload your Contacts information; we will request their name and email address. If you give us your password to upload these Contacts through a web based email provider we shall not store your password after you have uploaded your Contacts’ addresses. You may also choose to invite friends through your connected social networks. You assume all responsibility for ensuring that when you select a friend to be invited by email, application or SMS that the person wants to receive that invite from you. 
@@ -123,6 +133,9 @@ We use aggregate information about our users and non-personal information that w
 (1) to provide, maintain, personalize, protect, improve, and develop our products, programs, and services and to operate our business;   
 (2) to analyze usage and performance of our Website (including to perform ad tracking and website or mobile application analytics); and   
 (3) for us and our affiliates, business partners, and selected third parties to offer you products, programs, or services. 
+
+_**Safety and security**_  
+We may monitor your user activity to ensure that you and other users are complying with our terms of use and our privacy policy, and to monitor any suspicious activity on our sites. This monitoring may include monitoring of any user's photos, content, profiles, message and chat histories, and all other user activity on our sites. 
 
 **4B. HOW WE USE YOUR INFORMATION – IN DETAIL**
 
@@ -195,10 +208,10 @@ If you are an Inactive User, you should be aware that we will continue to store 
 If you are a Cancelled User, we will delete all of your data 9 months after the date of cancellation. It is important that we retain your data for this short period after cancellation to ensure that we can answer any payment or other account related queries, or provide information to third parties in line with our disclosure provisions outlined in this policy e.g. assisting police investigations. Even after you remove information from your profile or delete your account, copies of that information may still be viewable and/or accessed on the Internet to the extent such information has been previously shared with others, or copied or stored by other users or to the extent such information has been shared with search engines. We cannot control this, nor do we accept any liability for this. If you have given third party applications or websites access to your personal information they may retain such information to the extent permitted under their terms of service or privacy policies. 
 
 **d) Deactivated users**  
-If you select to "Hide my profile" in the account settings this is considered to mean that you have deactivated your account. Your profile and personal data will continue to be stored, allowing you to reactivate your account. When you "hide your profile" it will be temporarily invisible to other users, and will remain so until you cancel your account or reactivate your profile. 
+If you select to 'Deactivate my account' / 'Hide my profile' in the account settings this is considered to mean that you have deactivated your account. Your profile and personal data will continue to be stored, allowing you to reactivate your account. When you use this option, your account / profile will be temporarily invisible to other users, and will remain so until you cancel your account or reactivate your profile. To re-activate your profile simply login again and your profile will be automatically re-activated. De-activating your profiles does NOT cancel your paid subscriptions, to ensure you are not further charged you must properly cancel your account, not simply de-activate it. For cancelling your membership please contact our support 1 8004896091 and mention your user ID or follow guide by App Store℠, Google Play or other application platforms authorized by application. 
 
 **(e) Storage of activity data**  
-Whilst we retain your Personal Data, Sensitive Personal Data and Anonymous Data as outlined at (a) to (c) above, there are some features of our Services that we store data in respect of, for different periods of time. For example, messages are only stored for 30 days, winks and other similar activities are stored for 10 days. All other profile and activity information including photographs, blocked list, search histories etc. are stored until 9 months after your account is cancelled. 
+Whilst we retain your Personal Data, Sensitive Personal Data and Anonymous Data as outlined at (a) to (c) above, there are some features of our Services that we store data in respect of, for different periods of time. For example, messages, winks and other similar activities are only stored for 21 days. All other profile and activity information including photographs, blocked list, search histories etc. are stored until 9 months after your account is cancelled. 
 
 **(f) Banned and terminated users**  
 If your account is ever terminated by us, or you are detected as a potential or actual scammer, or a potential or otherwise threat to our business or our users, your email address will be retained on our internal blacklist for as long as we deem necessary to protect the business and its users. 
@@ -251,7 +264,7 @@ Performance | We need to use certain cookies and local storage devices to ensure
 Ad Serving & Behavioural Advertising | We sell space on some of our websites to advertisers. We use several services to help us and advertisers understand what adverts you might be interested in. These cookies hold information about the computer - they don't hold personal information about you (i.e. it's not linked to you as an individual). But they might hold a record of what other websites you've looked at - so we could show you a car advert if you've previously visited a motoring website.   
 Advertisements on this Site and the other sites you visit are provided by other organisations. Our advertising partners will serve advertisements that they believe are most likely to be of interest to you, based on information about your visit to the Site and other websites. In order to do this, our advertising partner may need to place a cookie on your computer.   
 For more information about this type of online behavioural advertising, about cookies, and about how to turn this feature off, please visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) and select your country.   
-These are some examples of the services we use and how you can control those cookies. This list is not exhaustive and is subject to change. Please visit [www.youronlinechoices.com](https://web.archive.org/web/20160430001213id_/https%3A//www.clickandflirt.com/staticPage/www.youronlinechoices.com) for active cookie management on your device. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.   
+These are some examples of the services we use and how you can control those cookies. This list is not exhaustive and is subject to change. Please visit [www.youronlinechoices.com](https://web.archive.org/web/20170215032411id_/https%3A//www.clickandflirt.com/staticPage/www.youronlinechoices.com) for active cookie management on your device. Please note that turning off advertising cookies won't mean that you are not served any advertising merely that it will not be tailored to your interests.   
   
 **10\. OUR RIGHTS TO AMEND THIS POLICY**
 
