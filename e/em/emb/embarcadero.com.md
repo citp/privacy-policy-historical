@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the embarcadero.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012021931id_/https%3A//www.embarcadero.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the embarcadero.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215174136id_/https%3A//www.embarcadero.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy - Embarcadero Website
+# Privacy | Embarcadero
 
 © Copyright (1993-2016) Embarcadero Technologies, Inc.  
 10801 North Mopac Expressway  
