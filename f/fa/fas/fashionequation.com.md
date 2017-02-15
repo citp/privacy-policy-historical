@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionequation.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206144930id_/http%3A//www.fashionequation.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionequation.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215055431id_/https%3A//www.fashionequation.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Fashionequation
 
 We are committed to protecting your privacy. We will only use the information that we collect about you lawfully. We collect information about you for 2 reasons: firstly, to process your order and second, to provide you with the best possible service.
 
