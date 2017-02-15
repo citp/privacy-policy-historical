@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getsocial.io privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621231826id_/https%3A//getsocial.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getsocial.io privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215213814id_/https%3A//getsocial.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
