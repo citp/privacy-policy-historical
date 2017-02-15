@@ -1,0 +1,148 @@
+<!--The following is the downloaded HTML source of the brighte.com.au privacy policy that was archived on 2017-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170215040341id_/https%3A//brighte.com.au/pages/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="utf-8">    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script type="text/javascript" async="" defer="" src="https://stats.brighte.com.au/piwik.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+    <meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1">
+    <meta name="description" content="Brighte provides a faster and simpler way to pay for Smart Home Technology.">
+    <meta name="author" content="">
+    
+    <title>Privacy policy | Brighte - Paying made easy</title>
+
+    <link href="/css/base.min.brightecache-6a6b91b1fe37b395026ce449c9942fc9.css" rel="stylesheet">
+
+        
+    <!-- Custom Fonts -->
+    <link rel="stylesheet" href="https://brighte.com.au/font-awesome/css/font-awesome.min.css">    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Kaushan+Script" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700" rel="stylesheet" type="text/css">
+
+    <!-- Device icons. -->
+    <link rel="apple-touch-icon" sizes="57x57" href="/apple-touch-icon-57x57.png">
+<link rel="apple-touch-icon" sizes="60x60" href="/apple-touch-icon-60x60.png">
+<link rel="apple-touch-icon" sizes="72x72" href="/apple-touch-icon-72x72.png">
+<link rel="apple-touch-icon" sizes="76x76" href="/apple-touch-icon-76x76.png">
+<link rel="apple-touch-icon" sizes="114x114" href="/apple-touch-icon-114x114.png">
+<link rel="apple-touch-icon" sizes="120x120" href="/apple-touch-icon-120x120.png">
+<link rel="apple-touch-icon" sizes="144x144" href="/apple-touch-icon-144x144.png">
+<link rel="apple-touch-icon" sizes="152x152" href="/apple-touch-icon-152x152.png">
+<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon-180x180.png">
+<link rel="icon" type="image/png" href="/favicon-32x32.png" sizes="32x32">
+<link rel="icon" type="image/png" href="/favicon-194x194.png" sizes="194x194">
+<link rel="icon" type="image/png" href="/favicon-96x96.png" sizes="96x96">
+<link rel="icon" type="image/png" href="/android-chrome-192x192.png" sizes="192x192">
+<link rel="icon" type="image/png" href="/favicon-16x16.png" sizes="16x16">
+<link rel="manifest" href="/manifest.json">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="msapplication-TileImage" content="/mstile-144x144.png">
+<meta name="theme-color" content="#ffffff">
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+    <script src="https://brighte.com.au/js/vendor/modernizr-2.8.3.min.js"></script></head>
+<body id="page-top" class="">
+    <nav class="navbar navbar-default navbar-fixed-top navbar-animate">
+    <div class="container">
+        <div class="navbar-header page-scroll">
+            <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                <span class="sr-only">Toggle navigation</span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+                <span class="icon-bar"></span>
+            </button>
+            <a href="https://brighte.com.au" class="navbar-brand"><img src="https://brighte.com.au/img/logos/brighte_logo3_small.png" alt=""></a>        </div>
+        <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+            <ul class="nav navbar-nav navbar-right">
+                <li class="hidden">
+                    <a href="#page-top"></a>
+                </li>
+                <li><a href="/">Vendors</a></li><li><a href="/buy-with-brighte" class="">Buy with Brighte</a></li>                <li>
+                <a href="/buy-with-brighte#about-us" class="">About Us</a>                </li>
+                <li><a href="/faqs">FAQS</a></li>                <li>
+                    <a href="/login">Login</a>
+                </li>
+            </ul>
+        </div>
+    </div>
+</nav><header class="privacy"></header>
+
+<!-- Privacy Section -->
+<section id="privacy">
+    <div class="container">
+        <h1>Privacy policy current as at June 2016</h1><p class="large">In this Privacy Policy, 'us' 'we' or 'our' means Brighte Capital Pty Limited (ABN 74 609 165 906). We are committed to respecting your privacy. Our Privacy Policy sets outs out how we collect, use, store and disclose your personal information. We are bound by the Australian Privacy Principles contained in the Privacy Act.</p><p class="large">By providing personal information to us, you consent to our collection, use and disclosure of your personal information in accordance with this Privacy Policy and any other arrangements that apply between us. We may change our Privacy Policy from time to time by publishing changes to it on our website. We encourage you to check our website periodically to ensure that you are aware of our current Privacy Policy.</p><p class="large">'Personal Information' is information or an opinion about an identifiable person or a person who is reasonably identifiable. The Personal Information we collect may include your personal details,  contact information. Credit information, such as your credit history (including information about your past experiences with us and credit providers, the kinds of credit products you have had or sought, how you have managed your obligations, information contained in a credit report about you, and information about your credit worthiness based on a credit report about you).</p><p class="large">Should you provide us with Personal Information about another person, such as a spouse, co-worker or guarantor you acknowledge that you are authorised to do so and agree to inform the person that we have collected their Personal Information, as well as advise them of the contents of this document.</p><h3>What personal information do we collect?</h3><p class="large">We may collect the following types of personal information:</p><ul><li>name, age or date of birth, and your contact details, including mailing address street address, email address, telephone number and other contact details;</li><li>your payment and billing information, including your credit card information;</li><li>your device ID, device type, geo-location information, computer and connection information, statistics on page views, traffic to and from the sites, ad data, IP address and standard web log information;</li><li>details of the products and services we have provided to you or that you have enquired about, including any additional information necessary to deliver those products and services and respond to your enquiries;</li><li>any additional information relating to you that you provide to us directly through our website or app or indirectly through your use of our website or app or online presence or through other websites or accounts from which you permit us to collect information;</li><li>information you provide to us through customer surveys;</li><li>any other personal information that may be required in order to facilitate your dealings with us; and</li><li>if you have applied for a position with us, your employment history and qualifications.</li></ul><p class="large">We will also collect your credit-related personal information if you have applied for credit with us.  This will include information about your financial circumstances and details about your credit worthiness (which may include other credit you have applied for, information about your repayment history, and whether you have had any overdue payments or defaults).</p><h3>How do we collect personal information?</h3><p class="large">We may collect these types of personal information either directly from you, or from third parties. We may collect this information when you:</p><ul><li>register on our website or app;</li><li>communicate with us through correspondence, chats, email, or when you share information with us from other social applications, services or websites;</li><li>interact with our sites, services, content and advertising; or</li><li>when you make an employment application with us.</li></ul><p class="large">We only collect the personal information that is necessary for us to carry on our business, and only for the purposes set out in this privacy policy or that would be obvious to you, unless otherwise notified to you at the time of collection.  We occasionally collect your personal information from third parties, including from, as applicable:</p><ul><li>your employer;</li><li>any of our related companies;</li><li>your other lenders or creditors;</li><li>our vendors and their affiliates;</li><li>your professional advisers and financial institutions, with your consent;</li><li>credit reporting bodies;</li><li>a publicly available source (such as the National Personal Insolvency Index);</li><li>other third parties when permitted by law; and</li><li>recruitment services (if you have applied for a position with us).</li></ul><h3>Why do we collect, use and disclose personal information?</h3><p class="large">We may collect, hold, use and disclose your personal information for the following purposes, as applicable:</p><ul><li>to enable you to access and use our financial products and services;</li><li>to manage or assess your application for credit;</li><li>to operate, protect, improve and optimise our website, app, business and our users' experience, such as to perform analytics, conduct research and for advertising and marketing;</li><li>to comply with our ethical obligations and environmental policies;</li><li>to send you service, support and administrative messages, reminders, technical notices, updates, security alerts, and information requested by you;</li><li>unless you ask us not to, to send you marketing and promotional messages and other information that may be of interest to you, including information sent by, or on behalf of, our business partners that we think you may find interesting;</li><li>to administer rewards, surveys, contests, or other promotional activities or events sponsored or managed by us or our business partners;</li><li>for purposes disclosed to you and to which you have consented;</li><li>for purposes that you would otherwise reasonably expect;</li><li>to comply with our legal obligations, or where permitted by law, resolve any disputes that we may have with any of our users, and enforce our agreements with third parties;</li><li>to otherwise manage our business;</li><li>to assess your application to become an employee with us; and</li><li>if you have a position with us, for training and staff management purposes.</li></ul><p class="large">We may also disclose your personal information to a trusted third party who also holds other information about you. This third party may combine that information in order to enable it and us to develop anonymised consumer insights so that we can better understand your preferences and interests, personalise your experience and enhance the products and services that you receive.</p><h3>Do we use your personal information for direct marketing?</h3><p class="large">We, and our carefully selected business partners, may contact or send you direct marketing communications and information about our financial products and services unless you instruct us otherwise. This may take the form of telephone calls, emails, SMS, mail or other forms of communication, in accordance with the Spam Act and the Privacy Act. You may opt-out of receiving marketing materials from us by contacting us using the details set out below or by using the opt-out facilities provided (eg an unsubscribe link).</p><h3>To whom do we disclose your personal information?</h3><p class="large">We may disclose personal information for the purposes described in this privacy policy to:</p><ul><li>our employees and related bodies corporate;</li><li>third party suppliers, Vendors and service providers (including providers for the operation of our websites and/or our business or in connection with providing our products and services to you and mailing houses);</li><li>our professional advisers, dealers and agents (including lawyers, accountants and auditors), on a confidential basis;</li><li>payment systems operators (eg merchants receiving card payments);</li><li>our existing or potential agents and business partners;</li><li>our sponsors or promoters of any competition that we conduct via our services;</li><li>any third party who is acquiring, or proposes to acquire any substantial part of our business;</li><li>specific third parties authorised by you to receive information held by us;</li><li>other persons, including government agencies, regulatory bodies and law enforcement agencies, or as required, authorised or permitted by law; and</li><li>your trading or employer referees.</li></ul><h3>Disclosure of personal information outside Australia</h3><p class="large">We may disclose personal information outside of Australia to credit check companies, our call centre operators and cloud services providers located in the US, UK, Philippines &amp; Singapore.</p><p class="large">When you provide your personal information to us, you consent to the disclosure of your information outside of Australia and acknowledge that we are not required to ensure that overseas recipients handle that personal information in compliance with Australian Privacy Law. We will, however, take reasonable steps to ensure that any overseas recipient will deal with such personal information in a way that is consistent with the Australian Privacy Principles.</p><h3>Using our website and cookies</h3><p class="large">We may collect personal information about you when you use and access our website.</p><p class="large">While we do not use browsing information to identify you personally, we may record certain information about your use of our website, such as which pages you visit, the time and date of your visit and the internet protocol address assigned to your computer.</p><p class="large">We may collect personal information about you when you use and access our website.</p><h3>Security of your personal information</h3><p class="large">We may hold your personal information in either electronic or hard copy form. We take reasonable steps to protect your personal information from misuse, interference and loss, as well as unauthorised access, modification or disclosure and we use a number of physical, administrative, personnel and technical measures to protect your personal information. Our employees are bound by internal information security policies.</p><h3>Consent to use Data</h3><p class="large">When we finance your energy product you agree that Brighte or a monitor company and its affiliates or suppliers may collect, use, monitor or sell to third parties, energy use data and other statistics on your use of the Software Product and Product itself and the information and data collected. Brighte agrees not to use this data and information in a form that personally identifies you except to the extent necessary to provide such services..</p><h3>Accessing or correcting your personal information</h3><p class="large">You can access the personal information we hold about you by contacting our Privacy Officer on the details below. Sometimes, we may not be able to provide you with access to all of your personal information and, where this is the case, we will tell you why. We may also need to verify your identity when you request your personal information.</p><p class="large">If you think that any personal information we hold about you is inaccurate, please contact us and we will take reasonable steps to ensure that it is corrected.</p><p class="large">We will usually respond to your request within 30 days, unless we need more information to assess the request.  In some instances we may refuse a request, however we will notify you in writing if such a decision is made.  We may recover reasonable costs of retrieving information.</p><p class="large">We deal with the following credit reporting body, Veda Advantage (www.veda.com.au).  We also deal with Document Verification Service (www.dvs.gov.au) to verify identity documents provided to us.  Information is available at each of these websites about their policies for handling personal information.  You can contact the credit reporting body directly to obtain access to your credit-related information, request that they do not use your credit-related information for pre-screening in relation to direct marketing, and to ask them not to disclose your credit-related information to anyone if you think there is a risk of fraud or identity theft.</p><p class="large">Where your information is disclosed to a credit reporting body, the credit reporting body may include that information in reports to other credit providers that are assessing a credit application made by you.  We may also request credit-related information if you fail to meet your obligations under a credit contract.</p><h3>Updates to this privacy policy</h3><p class="large">We may change this privacy policy from time to time, without notice to you.  Where changes are made, the updated privacy policy will be posted on our website.</p><h3>Questions and making a complaint</h3><p class="large">If you have any queries, think we have breached the Privacy Act, or you wish to make a complaint about the way we have handled your personal information, you can contact our Privacy Officer using the details set out below. Please include your name, email address and/or telephone number and clearly describe your complaint.</p><p class="large">We treat all issues and concerns about our privacy practices seriously and will respond promptly.</p><p class="large">We will acknowledge your complaint and will endeavour to provide a written response to you regarding your complaint within 30 days, unless we require further information.  You may also direct your complaint to the Office of the Australian Information Commissioner by email at enquiries@oaic.gov.au or by telephone on 1300 363 992.</p><h3>Contact Us</h3><p class="large">For further information about our Privacy Policy or practices, to request a copy of this privacy policy, to access or correct your personal information, or make a complaint, please contact us using the details set out below:</p><p>The Privacy Officer<br>Brighte Capital Pty Limited<br><b>Email:</b> <a href="mailto:privacy@brighte.com.au">privacy@brighte.com.au</a><br><b>Mail:</b> Level 2, 50 Bridge St Sydney NSW 2000</p><p class="large">If you require further information about Privacy laws generally, please contact</p><p>The Privacy Commissioner<br>Office of the Australian Information Commissioner<br><b>Mail:</b> GPO Box 5218, Sydney NSW 2001<br><b>Phone:</b> 1300 363 992<br><b>Fax:</b> (02) 9284 9666<br><b>Internet:</b> <a href="http://www.oaic.gov.au" target="_blank">www.oaic.gov.au</a></p>    </div>
+</section>
+<footer class="bg-light-gray">
+    <div class="container">
+                <div class="row">
+            <div class="col-md-4">
+                <span class="copyright">Copyright © Brighte Capital Pty Ltd</span>
+            </div>
+            <div class="col-md-4">
+                <ul class="list-inline social-buttons">
+                    <li>
+                        <a href="https://twitter.com/brighteAU"><i class="fa fa-twitter"></i></a>                    </li>
+                    <li>
+                        <a href="https://facebook.com/brighteAU"><i class="fa fa-facebook"></i></a>                    </li>
+                    <li>
+                        <a href="https://linkedin.com/company/brighte"><i class="fa fa-linkedin"></i></a>                    </li>
+                    <li>
+                        <a href="mailto:info@brighte.com.au"><i class="fa fa-envelope"></i></a>                    </li>
+                </ul>
+                <address>
+                    Level 2, 50 Bridge St Sydney NSW 2000<br>
+                    1300 BRIGHTE (1300 27 4448)<br>
+                    <meta itemprop="openingHours" content="Mo,Tu,We,Th,Fr 08:30-20:00">Mon-Fri 8:30am-8pm
+                </address>
+            </div>
+            <div class="col-md-4">
+                <div class="row">
+                    <div class="col-md-6">
+                    <ul class="list-group quicklinks"><li><a href="/pages/privacy">Privacy policy</a></li><li><a href="/pages/terms">Terms of use</a></li><li><a href="/security">Security</a></li></ul>                    </div>
+                    <div class="col-md-6">
+                    <ul class="list-group quicklinks"><li><a href="/faqs">FAQs</a></li><li><a href="/media-page">Media page</a></li></ul>                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</footer>    <!-- Scripts -->
+    <script src="https://cdn.ravenjs.com/2.2.0/raven.min.js"></script><script>
+    Raven.config('https://e447a2723d1d4d89944ee129918f910d@app.getsentry.com/70828', {
+        ignoreUrls: [/wistia\.com/]
+    }).install();
+</script>
+    <script src="/js/base.min.brightecache-36d56078c9d0620f9e7beb0f9e6636e1.js"></script>
+    
+        <script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-75222766-1', 'auto');
+  ga('send', 'pageview');
+</script>
+    <!-- Piwik -->
+<script type="text/javascript">
+  var _paq = _paq || [];
+  _paq.push(['setDocumentTitle', "Privacy policy"]);
+  _paq.push(['trackPageView']);
+  _paq.push(['enableLinkTracking']);
+  _paq.push(['enableHeartBeatTimer']);
+  (function() {
+    var u="https:\/\/stats.brighte.com.au\/";
+    _paq.push(['setTrackerUrl', u+'piwik.php']);
+    _paq.push(['setSiteId', '1']);
+    var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+    g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+  })();
+</script>
+<noscript><p><img src="https://stats.brighte.com.au/piwik.php?idsite=1&rec=1" style="border:0;" alt="" /></p></noscript>
+<!-- End Piwik Code -->
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"d5f940fec1","applicationID":"37152374","transactionName":"MgNTZRZQCBFVU0dbXwtJZEMNHhEHVkJcXURKD19VAUlIElxA","queueTime":0,"applicationTime":16,"atts":"HkRQE15KGx8=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+</body></html>
