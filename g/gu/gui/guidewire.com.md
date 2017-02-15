@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the guidewire.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117040845id_/https%3A//www.guidewire.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guidewire.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215110707id_/https%3A//www.guidewire.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Guidewire
 
@@ -74,7 +74,7 @@ Persons who supply us with their telephone numbers on-line may receive telephone
 
 **9\. Cookies and Other Tracking Technologies.**  Technologies such as: cookies, beacons, tags and scripts are used by Guidewire Software and our marketing partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
-As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site. We link this automatically collected data to other information we collect about you.
+As is true of most web sites, we gather certain information automatically and store it in log files.  This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or click stream data to analyze trends in the aggregate and administer the site. We link this automatically collected data to other information we collect about you.
 
 **10\. Behavioral Targeting/ Re-Targeting.**  We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests.  If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served ads.  You will continue to receive generic ads.
 
