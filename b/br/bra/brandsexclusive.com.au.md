@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brandsexclusive.com.au privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025042021id_/https%3A//brandsexclusive.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brandsexclusive.com.au privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215043256id_/https%3A//brandsexclusive.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Brands Exclusive - Privacy Policy
 
@@ -35,6 +35,8 @@ We use “session” cookies to maintain session information about you when you 
 We also use “persistent” cookies to personalise the user experience, to help protect our members and to provide us with user information of our Website. Persistent cookies allow us to track users on our Website and help us identify users abusing our service.
 
 Most Internet browsers are set to accept cookies. If you prefer not to receive them, you can adjust your browser to reject cookies, or to notify you when they are being used. There are also software products available that can manage cookies for you. Rejecting cookies can however limit the functionality of our Website.
+
+We use Google Analytics (a web analytics services provided by Google) and data such as age, gender and browsing activity to better understand the behaviour of our customers and provide targeted advertising to suit customers interests and preferences. Accordingly, when you visit our website, we, and/or a third party, may place cookies on your browser to determine information including (but not limited to) your computers location, browsing activity and time spent on each web page. We and/or Google may use this information to optimise and place advertisements. By using this website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies can be managed by accessing the individual settings in your browser.
 
 ### Access to Information
 
