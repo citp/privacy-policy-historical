@@ -1,10 +1,9 @@
-> *The following text is extracted and transformed from the standardchartered.com.sg privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017030819id_/https%3A//www.sc.com/sg/privacy.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the standardchartered.com.sg privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215131935id_/https%3A//www.sc.com/sg/privacy.html%23privacy) for the most accurate reproduction.*
 
 # Privacy Statement - Standard Chartered Bank (Singapore) Limited
 
     Privacy Statement
     Privacy Statement (Corporate Clients)
-    Website Privacy Statement
 
   * This Privacy Statement relates to personal data collected, used and disclosed ("processed") by Standard Chartered Bank, Standard Chartered Bank (Singapore) Limited, Standard Chartered Trust (Singapore) Limited and other members of the Group, referred to in this statement as " **SCB** " or " **we** ".
 
@@ -300,3 +299,9 @@ COPYRIGHT©STANDARD CHARTERED BANK 2013. ALL RIGHTS RESERVED.
 
 
 
+
+Standard Chartered Bank (the “Bank”) is committed to maintaining a culture of the highest ethics and integrity, and in compliance with all applicable law, regulation and internal policy. As part of this commitment, the Bank has a ‘Speaking Up’ programme through which genuine concerns in this regard can be raised. Members of the public can securely raise Speaking Up concerns through this hyperlink, which is hosted on behalf of the Bank by a third party ‘InTouch’. Examples of concerns that can be raised through this website are concerns that relate to accounting, internal accounting controls or auditing matters and concerns relating to bribery or banking and financial crime. Concerns received will be forwarded to the Bank’s investigations team for review. Complaints relating to SCB banking services should not be raised through this site in the first instance, but through the SCB branch network, contact centres, Relationship Managers or the ‘Contact Us’ webpage.
+
+Please note that this hyperlink will bring to you to another website on the Internet, which is operated by InTouch, an independent company appointed by the Bank to support its Speaking Up programme. Please be mindful that when you click on the link and open a new window in your browser, you will be subject to the additional terms of use of the website that you are going to visit.
+
+[Proceed](https://www.intouchfeedback.com/speakingup/)
