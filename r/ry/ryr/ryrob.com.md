@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ryrob.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604193511id_/http%3A//www.ryrob.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ryrob.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215221222id_/https%3A//www.ryrob.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Learn How to Start & Grow a Profitable Side Business
 
