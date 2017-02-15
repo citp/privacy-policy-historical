@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the sumologic.com privacy policy that was archived on 2016-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161221004924id_/https%3A//www.sumologic.com/privacy-statement) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the sumologic.com privacy policy that was archived on 2017-02-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170215193618id_/https%3A//www.sumologic.com/privacy-statement) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<meta charset="utf-8">
@@ -13,7 +13,7 @@
 	
 		
 	
-<!-- This site is optimized with the Yoast SEO plugin v4.0 - https://yoast.com/wordpress/plugins/seo/ -->
+<!-- This site is optimized with the Yoast SEO plugin v4.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <meta name="description" content="Sumo Logic’s Privacy Statement streamlines continuous data, monitors workloads, and gives you visibility across all systems surfacing the most important insights.">
 <meta name="robots" content="noodp">
 <link rel="publisher" href="https://plus.google.com/+Sumologic">
@@ -36,10 +36,10 @@
 <link rel="dns-prefetch" href="//cdn.jsdelivr.net">
 <link rel="dns-prefetch" href="//s.w.org">
 <link rel="alternate" type="application/rss+xml" title="Sumo Logic » Feed" href="https://www.sumologic.com/feed/">
-<link rel="stylesheet" id="ajax-load-more-css" href="https://www.sumologic.com/wp-content/plugins/ajax-load-more/core/css/ajax-load-more.min.css?ver=77e884d41c748315faf7331d9a11bc3e" type="text/css" media="all">
-<link rel="stylesheet" id="search-filter-plugin-styles-css" href="https://www.sumologic.com/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.2.0" type="text/css" media="all">
-<link rel="stylesheet" id="slick-css" href="//cdn.jsdelivr.net/jquery.slick/1.3.6/slick.css?ver=77e884d41c748315faf7331d9a11bc3e" type="text/css" media="all">
-<link rel="stylesheet" id="main-css" href="https://www.sumologic.com/wp-content/themes/sumologic/assets/css/main.min.css?ver=1481925732" type="text/css" media="all">
+<link rel="stylesheet" id="ajax-load-more-css" href="https://www.sumologic.com/wp-content/plugins/ajax-load-more/core/css/ajax-load-more.min.css?ver=0ed2e6a0383d69c78581919c661c6418" type="text/css" media="all">
+<link rel="stylesheet" id="search-filter-plugin-styles-css" href="https://www.sumologic.com/wp-content/plugins/search-filter-pro/public/assets/css/search-filter.min.css?ver=2.3.2" type="text/css" media="all">
+<link rel="stylesheet" id="slick-css" href="//cdn.jsdelivr.net/jquery.slick/1.3.6/slick.css?ver=0ed2e6a0383d69c78581919c661c6418" type="text/css" media="all">
+<link rel="stylesheet" id="main-css" href="https://www.sumologic.com/wp-content/themes/sumologic/assets/css/main.min.css?ver=1487186665" type="text/css" media="all">
 <script src="https://script.crazyegg.com/pages/scripts/0025/6846.js?438996" async="" type="text/javascript"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TCJSGK"></script><script type="text/javascript" src="https://www.sumologic.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
 <script type="text/javascript" src="https://www.sumologic.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
 <link rel="https://api.w.org/" href="https://www.sumologic.com/wp-json/">
@@ -49,10 +49,71 @@
 <link rel="shortlink" href="https://www.sumologic.com/?p=3743">
 <link rel="alternate" type="application/json+oembed" href="https://www.sumologic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sumologic.com%2Fprivacy-statement%2F">
 <link rel="alternate" type="text/xml+oembed" href="https://www.sumologic.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.sumologic.com%2Fprivacy-statement%2F&amp;format=xml">
+
+
+<!-- Plugin: Open external links a new window. Plugin by Kristian Risager Larsen, http://kristianrisagerlarsen.dk . Download it at http://wordpress.org/extend/plugins/open-external-links-in-a-new-window/ -->
+<script type="text/javascript">//<![CDATA[
+	function external_links_in_new_windows_loop() {
+		if (!document.links) {
+			document.links = document.getElementsByTagName('a');
+		}
+		var change_link = false;
+		var force = '';
+		var ignore = '';
+
+		for (var t=0; t<document.links.length; t++) {
+			var all_links = document.links[t];
+			change_link = false;
+			
+			if(document.links[t].hasAttribute('onClick') == false) {
+				// forced if the address starts with http (or also https), but does not link to the current domain
+				if(all_links.href.search(/^http/) != -1 && all_links.href.search('www.sumologic.com') == -1) {
+					// alert('Changeda '+all_links.href);
+					change_link = true;
+				}
+					
+				if(force != '' && all_links.href.search(force) != -1) {
+					// forced
+					// alert('force '+all_links.href);
+					change_link = true;
+				}
+				
+				if(ignore != '' && all_links.href.search(ignore) != -1) {
+					// alert('ignore '+all_links.href);
+					// ignored
+					change_link = false;
+				}
+
+				if(change_link == true) {
+					// alert('Changed '+all_links.href);
+					document.links[t].setAttribute('onClick', 'javascript:window.open(\''+all_links.href+'\'); return false;');
+					document.links[t].removeAttribute('target');
+				}
+			}
+		}
+	}
+	
+	// Load
+	function external_links_in_new_windows_load(func)
+	{	
+		var oldonload = window.onload;
+		if (typeof window.onload != 'function'){
+			window.onload = func;
+		} else {
+			window.onload = function(){
+				oldonload();
+				func();
+			}
+		}
+	}
+
+	external_links_in_new_windows_load(external_links_in_new_windows_loop);
+	//]]></script>
+
 		<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
 		<style type="text/css" id="syntaxhighlighteranchor"></style>
 	
-<script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script><script src="//api.demandbase.com/api/v2/ip.json?key=ee7c80d5290e9ede9bd82a3a6392310afe280cbc&amp;callback=db_cta&amp;page=https://web.archive.org/web/20161221004924id_/https://www.sumologic.com/privacy-statement/&amp;page_title=Privacy Statement | Sumo Logic&amp;referrer="></script></head>	<body id="privacy-statement" class="page page-id-3743 page-template-default">
+<script type="text/javascript" async="" src="//munchkin.marketo.net/munchkin.js"></script><script src="//api.demandbase.com/api/v2/ip.json?key=ee7c80d5290e9ede9bd82a3a6392310afe280cbc&amp;callback=db_cta&amp;page=https://web.archive.org/web/20170215193618id_/https://www.sumologic.com/privacy-statement/&amp;page_title=Privacy Statement | Sumo Logic&amp;referrer="></script></head>	<body id="privacy-statement" class="page-template-default page page-id-3743">
 		<script src="//cdn.optimizely.com/js/2798630704.js" async="async"></script>
 			<div id="consent_blackbar"></div>
 
@@ -91,9 +152,9 @@
 	</script>			<div id="top-header" class="light-theme">
 				<div class="container">
 					<div id="top-utilities"><ul id="top-utilities_menu" class="menu"><li id="menu-item-13807" class="ut_contact-us menu-item menu-item-type-post_type menu-item-object-page menu-item-13807"><a href="https://www.sumologic.com/contact-us/">Contact Us</a></li>
-<li id="menu-item-13950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13950"><a href="https://help.sumologic.com/">Docs</a></li>
-<li id="menu-item-13809" class="ut_community menu-item menu-item-type-custom menu-item-object-custom menu-item-13809"><a href="http://community.sumologic.com">Community</a></li>
-<li id="menu-item-13810" class="ut_login menu-item menu-item-type-custom menu-item-object-custom menu-item-13810"><a href="http://service.sumologic.com">Login</a></li>
+<li id="menu-item-13950" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13950"><a href="https://help.sumologic.com/" onclick="javascript:window.open('https://help.sumologic.com/'); return false;">Docs</a></li>
+<li id="menu-item-13809" class="ut_community menu-item menu-item-type-custom menu-item-object-custom menu-item-13809"><a href="http://community.sumologic.com" onclick="javascript:window.open('http://community.sumologic.com/'); return false;">Community</a></li>
+<li id="menu-item-13810" class="ut_login menu-item menu-item-type-custom menu-item-object-custom menu-item-13810"><a href="http://service.sumologic.com" onclick="javascript:window.open('http://service.sumologic.com/'); return false;">Login</a></li>
 <li id="menu-item-13811" class="search search-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-13811"><a href="#">Search</a></li>
 </ul></div>
 					<div id="logo">
@@ -117,7 +178,7 @@
 <li id="menu-item-13784" class="mainmenu_solutions menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13784"><a href="#">Solutions</a>
 <ul class="sub-menu">
 	<li id="menu-item-13786" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13786"><a href="https://www.sumologic.com/use-cases/it-operations/">Monitoring &amp; Troubleshooting</a></li>
-	<li id="menu-item-13788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13788"><a href="https://www.sumologic.com/use-cases/security-compliance/">Compliance &amp; Security</a></li>
+	<li id="menu-item-13788" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13788"><a href="https://www.sumologic.com/use-cases/security-compliance/">Security &amp; Compliance</a></li>
 	<li id="menu-item-13976" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13976"><a href="https://www.sumologic.com/use-cases/devops/">Continuous Delivery</a></li>
 </ul>
 </li>
@@ -138,18 +199,18 @@
 	<li id="menu-item-15290" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15290"><a href="https://www.sumologic.com/aws/">AWS Insights</a></li>
 	<li id="menu-item-14958" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14958"><a href="https://www.sumologic.com/apache/">Apache Insights</a></li>
 	<li id="menu-item-13798" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13798"><a href="https://www.sumologic.com/blog/">Sumo Blog</a></li>
-	<li id="menu-item-13800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13800"><a href="/devops">DevOps Learning Center</a></li>
+	<li id="menu-item-13800" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13800"><a href="/devops/" onclick="javascript:window.open('https://web.archive.org/devops/'); return false;">DevOps Learning Center</a></li>
 	<li id="menu-item-13802" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13802"><a href="https://www.sumologic.com/events/">Events &amp; Webinars</a></li>
-	<li id="menu-item-13804" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13804"><a href="https://www.sumologic.com/training/">Sumo Logic Training</a></li>
-	<li id="menu-item-13806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13806"><a href="https://support.sumologic.com">Support Portal</a></li>
+	<li id="menu-item-16057" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16057"><a href="https://www.sumologic.com/training/">Sumo Logic Training</a></li>
+	<li id="menu-item-13806" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13806"><a href="https://support.sumologic.com" onclick="javascript:window.open('https://support.sumologic.com/'); return false;">Support Portal</a></li>
 </ul>
 </li>
 <li id="menu-item-13887" class="top_utilities menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13887"><a href="#">Utilities</a>
 <ul class="sub-menu">
 	<li id="menu-item-13888" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13888"><a href="https://www.sumologic.com/contact-us/">Contact Us</a></li>
-	<li id="menu-item-13949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13949"><a href="https://help.sumologic.com/">Docs</a></li>
-	<li id="menu-item-13890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13890"><a href="http://community.sumologic.com">Community</a></li>
-	<li id="menu-item-13891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13891"><a href="http://service.sumologic.com">Login</a></li>
+	<li id="menu-item-13949" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13949"><a href="https://help.sumologic.com/" onclick="javascript:window.open('https://help.sumologic.com/'); return false;">Docs</a></li>
+	<li id="menu-item-13890" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13890"><a href="http://community.sumologic.com" onclick="javascript:window.open('http://community.sumologic.com/'); return false;">Community</a></li>
+	<li id="menu-item-13891" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13891"><a href="http://service.sumologic.com" onclick="javascript:window.open('http://service.sumologic.com/'); return false;">Login</a></li>
 </ul>
 </li>
 </ul></div>
@@ -168,7 +229,7 @@
 <li class="mainmenu_solutions menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13784"><a href="#">Solutions</a><span></span>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13786"><a href="https://www.sumologic.com/use-cases/it-operations/">Monitoring &amp; Troubleshooting</a><span></span></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13788"><a href="https://www.sumologic.com/use-cases/security-compliance/">Compliance &amp; Security</a><span></span></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13788"><a href="https://www.sumologic.com/use-cases/security-compliance/">Security &amp; Compliance</a><span></span></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13976"><a href="https://www.sumologic.com/use-cases/devops/">Continuous Delivery</a><span></span></li>
 </ul>
 </li>
@@ -189,24 +250,24 @@
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-15290"><a href="https://www.sumologic.com/aws/">AWS Insights</a><span></span></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-14958"><a href="https://www.sumologic.com/apache/">Apache Insights</a><span></span></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13798"><a href="https://www.sumologic.com/blog/">Sumo Blog</a><span></span></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13800"><a href="/devops">DevOps Learning Center</a><span></span></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13800"><a href="/devops/" onclick="javascript:window.open('https://web.archive.org/devops/'); return false;">DevOps Learning Center</a><span></span></li>
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13802"><a href="https://www.sumologic.com/events/">Events &amp; Webinars</a><span></span></li>
-	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13804"><a href="https://www.sumologic.com/training/">Sumo Logic Training</a><span></span></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13806"><a href="https://support.sumologic.com">Support Portal</a><span></span></li>
+	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-16057"><a href="https://www.sumologic.com/training/">Sumo Logic Training</a><span></span></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13806"><a href="https://support.sumologic.com" onclick="javascript:window.open('https://support.sumologic.com/'); return false;">Support Portal</a><span></span></li>
 </ul>
 </li>
 <li class="top_utilities menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13887"><a href="#">Utilities</a><span></span>
 <ul class="sub-menu">
 	<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13888"><a href="https://www.sumologic.com/contact-us/">Contact Us</a><span></span></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13949"><a href="https://help.sumologic.com/">Docs</a><span></span></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13890"><a href="http://community.sumologic.com">Community</a><span></span></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13891"><a href="http://service.sumologic.com">Login</a><span></span></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13949"><a href="https://help.sumologic.com/" onclick="javascript:window.open('https://help.sumologic.com/'); return false;">Docs</a><span></span></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13890"><a href="http://community.sumologic.com" onclick="javascript:window.open('http://community.sumologic.com/'); return false;">Community</a><span></span></li>
+	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13891"><a href="http://service.sumologic.com" onclick="javascript:window.open('http://service.sumologic.com/'); return false;">Login</a><span></span></li>
 </ul>
 </li>
 </ul><ul id="top-utilities_menu_mobile" class="mobile_nav"><li class="ut_contact-us menu-item menu-item-type-post_type menu-item-object-page menu-item-13807"><a href="https://www.sumologic.com/contact-us/">Contact Us</a><span></span></li>
-<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13950"><a href="https://help.sumologic.com/">Docs</a><span></span></li>
-<li class="ut_community menu-item menu-item-type-custom menu-item-object-custom menu-item-13809"><a href="http://community.sumologic.com">Community</a><span></span></li>
-<li class="ut_login menu-item menu-item-type-custom menu-item-object-custom menu-item-13810"><a href="http://service.sumologic.com">Login</a><span></span></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13950"><a href="https://help.sumologic.com/" onclick="javascript:window.open('https://help.sumologic.com/'); return false;">Docs</a><span></span></li>
+<li class="ut_community menu-item menu-item-type-custom menu-item-object-custom menu-item-13809"><a href="http://community.sumologic.com" onclick="javascript:window.open('http://community.sumologic.com/'); return false;">Community</a><span></span></li>
+<li class="ut_login menu-item menu-item-type-custom menu-item-object-custom menu-item-13810"><a href="http://service.sumologic.com" onclick="javascript:window.open('http://service.sumologic.com/'); return false;">Login</a><span></span></li>
 <li class="search search-icon menu-item menu-item-type-custom menu-item-object-custom menu-item-13811"><a href="#">Search</a><span></span></li>
 <li id="mobile_search_form"><form role="search" method="get" class="search-form" action="https://www.sumologic.com/">
 	<button type="submit" class="search-submit"></button>
@@ -236,13 +297,13 @@
 			<p>Effective Date: 09/26/2016</p>
 <p>This privacy statement applies to www.sumologic.com and our service Sumo Logic Service owned and operated by Sumo Logic, Inc. This privacy statement describes how Sumo Logic, Inc. (‘Sumo Logic’, ‘We’, ‘Us’ or ‘Our’) collects and uses the personal information you provide on our Web site&nbsp;<a href="https://www.sumologic.com/">www.sumologic.com</a>&nbsp;(the “Site”) and our Sumo Logic Services (the “Service”). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged Sumo Logic.</p>
 <h2><strong>U.S. – Swiss Safe Harbor</strong></h2>
-<p>Sumo Logic complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Sumo Logic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Sumo Logic’s certification, please visit&nbsp; <a href="https://safeharbor.export.gov/swisslist.aspx">https://safeharbor.export.gov/swisslist.aspx</a>.</p>
+<p>Sumo Logic complies with the U.S. – Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. Sumo Logic has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Sumo Logic’s certification, please visit&nbsp; <a href="https://safeharbor.export.gov/swisslist.aspx" onclick="javascript:window.open('https://safeharbor.export.gov/swisslist.aspx'); return false;">https://safeharbor.export.gov/swisslist.aspx</a>.</p>
 <h2><strong>EU – U.S. Privacy Shield</strong></h2>
-<p>Sumo Logic<u> participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.&nbsp;</u>Sumo Logic<u> is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <a href="https://www.privacyshield.gov/list">https://www.privacyshield.gov/list</a></u></p>
+<p>Sumo Logic<u> participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.&nbsp;</u>Sumo Logic<u> is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List. <a href="https://www.privacyshield.gov/list" onclick="javascript:window.open('https://www.privacyshield.gov/list'); return false;">https://www.privacyshield.gov/list</a></u></p>
 <p>Sumo Logic<u> is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf. </u>Sumo Logic<u> complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.</u></p>
 <p><u>With respect to personal data received or transferred pursuant to the Privacy Shield Framework, </u>Sumo Logic<u> is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission In certain situations, </u>Sumo Logic<u> may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.</u></p>
-<p><u>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>. </u></p>
-<p><u>Under certain conditions, more fully described on the Privacy Shield website <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint">https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.</u></p>
+<p><u>If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <a href="https://feedback-form.truste.com/watchdog/request" onclick="javascript:window.open('https://feedback-form.truste.com/watchdog/request'); return false;">https://feedback-form.truste.com/watchdog/request</a>. </u></p>
+<p><u>Under certain conditions, more fully described on the Privacy Shield website <a href="https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint" onclick="javascript:window.open('https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint'); return false;">https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint</a>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.</u></p>
 <h2><strong>Information Collection and Use</strong></h2>
 <p><strong>We collect the following personal information from you</strong></p>
 <ul>
@@ -300,7 +361,7 @@
 <p>Technologies such as: cookies, beacons, tags and scripts are used by Sumo Logic and our partners including marketing automation, heat mapping technology, advertising, demand marketing and web analytics partners. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.</p>
 <p>We use cookies in our order form, to remember users’ settings (e.g. language preference), for authentication. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.</p>
 <h2>Advertising</h2>
-<p>We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/">here</a>&nbsp;(or if located in the European Union click <a href="http://www.youronlinechoices.eu/">here</a>). Please note this does not opt you out of being served ads. You will continue to receive generic ads.</p>
+<p>We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking <a href="http://preferences-mgr.truste.com/" onclick="javascript:window.open('http://preferences-mgr.truste.com/'); return false;">here</a>&nbsp;(or if located in the European Union click <a href="http://www.youronlinechoices.eu/" onclick="javascript:window.open('http://www.youronlinechoices.eu/'); return false;">here</a>). Please note this does not opt you out of being served ads. You will continue to receive generic ads.</p>
 <h2>Clear Gifs</h2>
 <p>Our third party advertising partner employs a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. In contrast to cookies, which are stored on a user’s computer hard drive, clear gifs are embedded invisibly on Web pages and are about the size of the period at the end of this sentence. We tie the information gathered by clear gifs to our customers’ personal information.</p>
 <p>We use clear gifs in our HTML-based emails to let us know which emails have been opened by recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns.</p>
@@ -383,7 +444,7 @@ Redwood City, CA 94063<br>
 					</select>
 
 					<label id="agree-license">
-						<input type="checkbox" name="agree" value="agree">I AGREE to the <a href="/terms-conditions/service-license-agreement/" target="_blank">Service License Agreement</a>
+						<input type="checkbox" name="agree" value="agree">I AGREE to the <a href="/terms-conditions/service-license-agreement/" onclick="javascript:window.open('https://web.archive.org/terms-conditions/service-license-agreement/'); return false;">Service License Agreement</a>
 					</label>
 					<button type="submit"><span>Submit</span></button>
 
@@ -401,7 +462,7 @@ Redwood City, CA 94063<br>
 					<a href="#" class="back_to_top">Back to Top</a>
 				</div>
 				<div class="col-1290">
-						<ul id="footer-main-nav" class="menu"><li id="menu-item-13853" class="footermenu_home menu-item menu-item-type-post_type menu-item-object-page menu-item-13853"><a href="https://www.sumologic.com/">Home</a></li>
+						<ul id="footer-main-nav" class="menu"><li id="menu-item-13853" class="footermenu_home menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-13853"><a href="https://www.sumologic.com/">Home</a></li>
 <li id="menu-item-13824" class="footermenu_products menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-13824"><a href="#">Products</a>
 <ul class="sub-menu">
 	<li id="menu-item-13825" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13825"><a href="https://www.sumologic.com/how-it-works/">How It Works</a></li>
@@ -433,34 +494,34 @@ Redwood City, CA 94063<br>
 <ul class="sub-menu">
 	<li id="menu-item-13847" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13847"><a href="https://www.sumologic.com/resource/">Resource Center</a></li>
 	<li id="menu-item-13844" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13844"><a href="https://www.sumologic.com/blog/">Sumo Blog</a></li>
-	<li id="menu-item-13846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13846"><a href="/devops">DevOps Learning Center</a></li>
+	<li id="menu-item-13846" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13846"><a href="/devops" onclick="javascript:window.open('https://web.archive.org/devops'); return false;">DevOps Learning Center</a></li>
 	<li id="menu-item-13848" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13848"><a href="https://www.sumologic.com/events/">Events &amp; Webinars</a></li>
-	<li id="menu-item-13849" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13849"><a href="https://www.sumologic.com/training/">Sumo Logic Training</a></li>
-	<li id="menu-item-13850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13850"><a href="https://help.sumologic.com/">Documentation</a></li>
-	<li id="menu-item-13851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13851"><a href="https://support.sumologic.com">Support Portal</a></li>
+	<li id="menu-item-16060" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-16060"><a href="https://www.sumologic.com/training/">Sumo Logic Training</a></li>
+	<li id="menu-item-13850" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13850"><a href="https://help.sumologic.com/" onclick="javascript:window.open('https://help.sumologic.com/'); return false;">Documentation</a></li>
+	<li id="menu-item-13851" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13851"><a href="https://support.sumologic.com" onclick="javascript:window.open('https://support.sumologic.com/'); return false;">Support Portal</a></li>
 </ul>
 </li>
 <li id="menu-item-13835" class="footermenu_pricing menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-13835"><a href="https://www.sumologic.com/pricing/">Pricing</a>
 <ul class="sub-menu">
 	<li id="menu-item-13852" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-13852"><a href="https://www.sumologic.com/contact-us/">Contact Us</a></li>
-	<li id="menu-item-13951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13951"><a href="https://help.sumologic.com/">Docs</a></li>
-	<li id="menu-item-13845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13845"><a href="https://community.sumologic.com">Community</a></li>
+	<li id="menu-item-13951" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13951"><a href="https://help.sumologic.com/" onclick="javascript:window.open('https://help.sumologic.com/'); return false;">Docs</a></li>
+	<li id="menu-item-13845" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-13845"><a href="https://community.sumologic.com" onclick="javascript:window.open('https://community.sumologic.com/'); return false;">Community</a></li>
 </ul>
 </li>
 </ul>							<div class="cdm_container">
 								<div class="menu_title">Trending Topics</div>
 									<!--2f857b9d6273e1539d0336a9bcf4eb88-->
 <ul class="cp_linklist">
-	<li><a href="https://www.sumologic.com/log-optimization/devops-automation-tools">Devops Automation Tools</a></li>
-	<li><a href="https://www.sumologic.com/log-optimization/pattern-recognition-techniques">Pattern Recognition Techniques</a></li>
-	<li><a href="https://www.sumologic.com/log-optimization/apache-access-logs-analyzer">Apache Access Logs Analyzer</a></li>
-	<li><a href="https://www.sumologic.com/log-optimization/iis-log-analysis-tool">Iis Log Analysis Tool</a></li>
-	<li><a href="https://www.sumologic.com/log-optimization/iis-access-logs">Iis Access Logs</a></li>
-	<li><a href="https://www.sumologic.com/log-optimization/what-is-a-pci-audit">What Is A Pci Audit</a></li>
-	<li><a href="https://www.sumologic.com/log-optimization/aws-cloudtrail-logging">AWS Cloudtrail Logging</a></li>
-	<li><a href="https://www.sumologic.com/log-optimization/log-management-operations">Log Management Operations</a></li>
-	<li><a href="https://www.sumologic.com/log-optimization/advanced-security-analytics">Advanced Security Analytics</a></li>
-	<li><a href="https://www.sumologic.com/log-optimization/pci-audit">PCI Audit</a></li>
+	<li><a href="https://www.sumologic.com/log-optimization/amazon-web-services-s3">Amazon Web Services S3</a></li>
+	<li><a href="https://www.sumologic.com/log-optimization/how-to-use-cloudfront">How To Use CloudFront</a></li>
+	<li><a href="https://www.sumologic.com/log-optimization/apache-log-analyzer-online">Apache Log Analyzer Online</a></li>
+	<li><a href="https://www.sumologic.com/log-optimization/log-centralization">Log Centralization</a></li>
+	<li><a href="https://www.sumologic.com/log-optimization/why-scaleable-log-management-is-important">Why Scaleable Log Management Is Important</a></li>
+	<li><a href="https://www.sumologic.com/log-optimization/iis-log-parser-queries">Iis Log Parser Queries</a></li>
+	<li><a href="https://www.sumologic.com/log-optimization/vmware-log-management">VMware Log Management</a></li>
+	<li><a href="https://www.sumologic.com/log-optimization/log-management-problem">Log Management Problem</a></li>
+	<li><a href="https://www.sumologic.com/log-optimization/log-management-tools">Log Management Tools</a></li>
+	<li><a href="https://www.sumologic.com/log-optimization/hipaa-data-audit-log-retention-requirements">Hipaa Data Audit Log Retention Requirements</a></li>
 </ul>
 							</div>
 					</div>
@@ -468,7 +529,7 @@ Redwood City, CA 94063<br>
 			</div>
 		</div>
 		<div id="mid-footer">
-			<p><a href="/compliance" class="compliance_link">Sumo Logic Assurance Programs</a></p>
+			<p><a href="/compliance" class="compliance_link" onclick="javascript:window.open('https://web.archive.org/compliance'); return false;">Sumo Logic Assurance Programs</a></p>
 <ul id="footer_compliance">
 <li>E.U. – U.S. Privacy Shield</li>
 <li>SOC 2, Type II attestation</li>
@@ -483,18 +544,18 @@ Redwood City, CA 94063<br>
 		<div id="bot-footer">
 			<div class="container">
 				<ul id="social">
-					<li id="twitter"><a href="https://twitter.com/SumoLogic" target="_blank"><span></span></a></li>
-					<li id="facebook"><a href="https://www.facebook.com/Sumo.Logic" target="_blank"><span></span></a></li>
-					<li id="linkedin"><a href="https://www.linkedin.com/company/sumo-logic" target="_blank"><span></span></a></li>
-					<li id="google"><a href="https://plus.google.com/+Sumologic/posts" target="_blank"><span></span></a></li>
-					<li id="youtube"><a href="https://www.youtube.com/user/sumologic" target="_blank"><span></span></a></li>
+					<li id="twitter"><a href="https://twitter.com/SumoLogic" onclick="javascript:window.open('https://twitter.com/SumoLogic'); return false;"><span></span></a></li>
+					<li id="facebook"><a href="https://www.facebook.com/Sumo.Logic" onclick="javascript:window.open('https://www.facebook.com/Sumo.Logic'); return false;"><span></span></a></li>
+					<li id="linkedin"><a href="https://www.linkedin.com/company/sumo-logic" onclick="javascript:window.open('https://www.linkedin.com/company/sumo-logic'); return false;"><span></span></a></li>
+					<li id="google"><a href="https://plus.google.com/+Sumologic/posts" onclick="javascript:window.open('https://plus.google.com/+Sumologic/posts'); return false;"><span></span></a></li>
+					<li id="youtube"><a href="https://www.youtube.com/user/sumologic" onclick="javascript:window.open('https://www.youtube.com/user/sumologic'); return false;"><span></span></a></li>
 				</ul>
 				<ul id="footer-util-nav" class="menu"><li id="menu-item-8299" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8299"><a href="https://www.sumologic.com/support/">Support</a></li>
 <li id="menu-item-8300" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-3743 current_page_item menu-item-8300"><a href="https://www.sumologic.com/privacy-statement/">Privacy Policy</a></li>
 <li id="menu-item-8301" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-8301"><a href="https://www.sumologic.com/terms-conditions/">Terms &amp; Conditions</a></li>
 </ul>				<div class="copyright">
-					©2016 Sumo Logic, All Rights Reserved.
-				</div>
+								<div class="textwidget">©2017 Sumo Logic, All Rights Reserved.</div>
+						</div>
 			</div>
 		</div>
 	</footer>
@@ -503,7 +564,7 @@ Redwood City, CA 94063<br>
 	<div class="container">
 		<div class="col-1290">
 			<div class="banner">
-				<a href="/unified-logs-metrics/" target="_blank"><img src="/wp-content/uploads/2016/04/ulm-ad-v1.jpg"></a>
+				<a href="/unified-logs-metrics/" onclick="javascript:window.open('https://web.archive.org/unified-logs-metrics/'); return false;"><img src="/wp-content/uploads/2016/04/ulm-ad-v1.jpg"></a>
 			</div>
 		</div>
 	</div>
@@ -521,10 +582,10 @@ var tocplus = {"smooth_scroll":"1","smooth_scroll_offset":"180"};
 <script type="text/javascript">
 jQuery(document).ready(function(jQuery){jQuery.datepicker.setDefaults({"closeText":"Close","currentText":"Today","monthNames":["January","February","March","April","May","June","July","August","September","October","November","December"],"monthNamesShort":["Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"nextText":"Next","prevText":"Previous","dayNames":["Sunday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"],"dayNamesShort":["Sun","Mon","Tue","Wed","Thu","Fri","Sat"],"dayNamesMin":["S","M","T","W","T","F","S"],"dateFormat":"MM d, yy","firstDay":1,"isRTL":false});});
 </script>
-<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js?ver=77e884d41c748315faf7331d9a11bc3e#pubid=ra-54b6a08f05d2372a" async="async"></script>
-<script type="text/javascript" src="https://www.sumologic.com/wp-content/themes/sumologic/assets/js/min/scripts.js?ver=1479164970"></script>
+<script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js?ver=0ed2e6a0383d69c78581919c661c6418#pubid=ra-54b6a08f05d2372a" async="async"></script>
+<script type="text/javascript" src="https://www.sumologic.com/wp-content/themes/sumologic/assets/js/min/scripts.js?ver=1486772375"></script>
 <script type="text/javascript" src="https://www.sumologic.com/wp-content/themes/sumologic/assets/js/popup-advertising.js?ver=1465320510"></script>
-<script type="text/javascript" src="https://www.sumologic.com/wp-includes/js/wp-embed.min.js?ver=77e884d41c748315faf7331d9a11bc3e"></script>
+<script type="text/javascript" src="https://www.sumologic.com/wp-includes/js/wp-embed.min.js?ver=0ed2e6a0383d69c78581919c661c6418"></script>
 <script type="text/javascript" src="https://www.sumologic.com/wp-content/plugins/gravity-forms-placeholder-support-add-on/gfplaceholderaddon.js?ver=1.0"></script>
 <!-- end WP_FOOTER -->
 	<!-- moved from <head> -->
