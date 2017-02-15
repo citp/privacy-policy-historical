@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010044810id_/https%3A//www.krollontrack.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ontrack.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215114940id_/https%3A//www.krollontrack.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
