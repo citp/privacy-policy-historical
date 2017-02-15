@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the england.nhs.uk privacy policy that was archived on 2015-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151226082110id_/http%3A//www.england.nhs.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the england.nhs.uk privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215102517id_/https%3A//www.england.nhs.uk/privacy-policy) for the most accurate reproduction.*
 
-# NHS England » Privacy and Cookies
+# NHS England » Privacy and cookies
 
 This page explains our privacy policy and how we will use and protect any information about you that you give us when you visit this website.
 
@@ -55,13 +55,13 @@ We use the following cookies on our website –
 
 **Cookie:** www.events.england.nhs.uk  
 **Name:** PHPSESSID  
-**Purpose:** To track visitor information and for security authentication. 
+**Purpose:** To track visitor information and for security authentication.
 
 ### Embedded content
 
 We want to provide interesting and engaging content on our website. On a number of pages we use ‘plug ins’ or embedded media. For example, we embed YouTube videos in many pages. We also provide links to share content with popular social media sites such as LinkedIn, Facebook and Twitter.
 
-The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content. These are known as ‘third-party’ cookies. Third party cookies are delivered on behalf of their respective organisations and as such they may change their name and purpose from the cookies identified below, this is beyond the control of NHS England. 
+The suppliers of these services may also set cookies on your device when you visit the pages where we have used this type of content. These are known as ‘third-party’ cookies. Third party cookies are delivered on behalf of their respective organisations and as such they may change their name and purpose from the cookies identified below, this is beyond the control of NHS England.
 
 **Cookie:** Ustream  
 **Name:** ab_test_1, ab_test_2, locale, optimizelyBuckets, optimizelyEndUserId, optimizelySegments, uTrack, ul, ustream-guest, _qca, PHPSESSID  
