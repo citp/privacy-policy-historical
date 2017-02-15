@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hyperoptic.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414230825id_/https%3A//hyperoptic.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hyperoptic.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215141034id_/https%3A//www.hyperoptic.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Hyperoptic | Legal
 
@@ -6,7 +6,7 @@ You are reading Hyperoptic’s Privacy and Cookie Policy (the “Privacy Policy�
 
 **INFORMATION ABOUT US**
 
-Hyperoptic Ltd- (“Hyperoptic”) is a full fibre Internet Service Provider (“ISP”). We are a limited company registered in England and Wales under company number 07222543 and our registered office and main trading address is at Unit C401 Westfield London, Ariel Way, W12 7FD. Our VAT number is 997 6990 21.
+Hyperoptic Ltd- (“Hyperoptic”) is a full fibre Internet Service Provider (“ISP”). We are a limited company registered in England and Wales under company number 07222543 and our registered office and main trading address is at Hythe House 200 Shepherds Bush Road London W6 7NL. Our VAT number is 997 6990 21.
 
 We are regulated in the UK by OfCom. We are also a member of the UK Internet Service Providers Association (“ISPA”) and CISAS (the provider of an independent alternative dispute resolution scheme) about both of which you may find further details in our Code of Practice and/or our Fair and Acceptable Usage Policy.
 
@@ -14,7 +14,7 @@ We are regulated in the UK by OfCom. We are also a member of the UK Internet Ser
 
 Hyperoptic is committed to protecting and respecting your privacy. This Privacy Policy (together with our terms of use and all other applicable standard terms and conditions sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. When we refer to “personal data” in this Privacy Policy, we mean data, which identifies you as an individual, or is capable of doing so. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
-Hyperoptic has notified the Information Commissioner’s Office of its activities in accordance with the Data Protection Act 1998 (Registration No. Z262022X). This notification can be viewed at www.ico.gov.uk.For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Hyperoptic Ltd. of Unit C401 Westfield London, Ariel Way, W12 7FD.
+Hyperoptic has notified the Information Commissioner’s Office of its activities in accordance with the Data Protection Act 1998 (Registration No. Z262022X). This notification can be viewed at www.ico.gov.uk.For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Hyperoptic Ltd. of Hythe House 200 Shepherds Bush Road London W6 7NL
 
 Our nominated representative for the purpose of the Act is Stephen Fine.
 
