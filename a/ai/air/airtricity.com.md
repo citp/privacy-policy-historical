@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2015-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150810123740id_/https%3A//www.sseairtricity.com/ie/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the airtricity.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215114020id_/https%3A//www.sseairtricity.com/ie/privacy-policy) for the most accurate reproduction.*
 
-# 
+# SSE Airtricity Ireland - Privacy Policy
 
 ## Privacy Policy
 
@@ -20,7 +20,7 @@ This privacy policy explains how the information We collect from you, is used, p
 
 ## 2\. Use of Cookies and Other Information Gathering Technologies
 
-We may create and access cookies on your PC. Cookies are small text files stored in your Web browser, which can identify you when you visit Our Website. For more information see Our [cookie page](http://www.sseairtricity.com/ie/cookies/).
+We may create and access cookies on your PC. Cookies are small text files stored in your Web browser, which can identify you when you visit Our Website. For more information see Our [cookie page](https://www.sseairtricity.com/ie/cookies/).
 
 ## 3\. How We Protect Your Information
 
@@ -36,7 +36,7 @@ If Our business is sold or integrated with another business, your details may be
 
 ## 5\. Updating Your Information
 
-It is your responsibility to ensure that you provide Us with full and correct information. If any of the information you have given Us changes, please let us know either by writing to Us at Data Protection Officer SSE Airtricity Limited, Red Oak South, South County Business Park, Leopardstown, Dublin 18 or by phoning us on **1850 81 22 20** or by [emailing Us](http://www.sseairtricity.com/ie/home/help-centre-ie/contact-us/email/) specifying you account / MPRN / GPRN on all correspondence.
+It is your responsibility to ensure that you provide Us with full and correct information. If any of the information you have given Us changes, please let us know either by writing to Us at Data Protection Officer SSE Airtricity Limited, Red Oak South, South County Business Park, Leopardstown, Dublin 18 or by phoning us on **1850 81 22 20** or by [emailing Us](https://www.sseairtricity.com/ie/home/help-centre-ie/contact-us/email2/) specifying you account / MPRN / GPRN on all correspondence.
 
 ## 6\. Your Consent
 
@@ -44,7 +44,7 @@ It is your responsibility to ensure that you provide Us with full and correct in
 
 You can also ask Us not to process your personal data or information for marketing purposes. We will usually inform you (before collecting your data or information) if We intend to use your personal data or information for such purposes or if We intend to disclose your personal data or information to any third party for such purposes.
 
-You can exercise your right to prevent such processing by checking certain boxes on the forms We use to collect your data or you may exercise your right of opt-out either by writing to Us at Data Protection Opt-Out, SSE Airtricity Limited, Red Oak South, South County Business Park, Leopardstown, Dublin 18 or by phoning us on **1850 81 22 20** or by by [emailing Us](http://www.sseairtricity.com/ie/home/help-centre-ie/contact-us/email/) specifying your account / MPRN / GPRN on all correspondence.
+You can exercise your right to prevent such processing by checking certain boxes on the forms We use to collect your data or you may exercise your right of opt-out either by writing to Us at Data Protection Opt-Out, SSE Airtricity Limited, Red Oak South, South County Business Park, Leopardstown, Dublin 18 or by phoning us on **1850 81 22 20** or by by [emailing Us](https://www.sseairtricity.com/ie/home/help-centre-ie/contact-us/email2/) specifying your account / MPRN / GPRN on all correspondence.
 
 ## 7\. Access to Information
 
@@ -58,6 +58,6 @@ If We change Our privacy policy, We will post the changes on this page, and may 
 
 We may disclose your personal data or information to any part of the Scottish and Southern Energy Group.
 
-We may also disclose your personal data or information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation, or in order to enforce or apply Our website [Terms of Use](http://www.sseairtricity.com/ie/terms-of-use/), Our [Terms and Conditions of Supply](http://www.airtricity.com/assets/Terms/ROI/DLROIDOMTC5GeneralTerms.pdf) or other agreements; or to protect the rights, property, or safety of any part of the SSE Group, our customers, or others.
+We may also disclose your personal data or information to third parties if we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation, or in order to enforce or apply Our website [Terms of Use](https://www.sseairtricity.com/ie/terms-of-use/), Our [Terms and Conditions of Supply](http://www.airtricity.com/assets/Terms/ROI/DLROIDOMTC5GeneralTerms.pdf) or other agreements; or to protect the rights, property, or safety of any part of the SSE Group, our customers, or others.
 
 This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
