@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the meetic.co.uk privacy policy that was archived on 2015-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151216235614id_/http%3A//uk.match.com/misc/privacy_v.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetic.co.uk privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215195253id_/https%3A//uk.match.com/pages/misc/privacy) for the most accurate reproduction.*
 
-# Privacy statement | Online dating | match.com
+# None
 
 This privacy policy applies to the following websites: match.com, matchaffinity.com, datingdirect.com, datingdirectaffinity.com and meetic.co.uk (the "Meetic Group Websites").
 
@@ -20,9 +20,9 @@ Each Member can, at the time of registration or at any time thereafter, request 
 
 The Member is asked to supply information about himself/herself when he/she registers with the Service, participates in a contest, responds to a survey, participates in a chat or acquires a subscription. Certain items of information are mandatory in order to gain access to Services.
 
-We have the ability to retain your contact details should you input them on our website even if you do not complete your registration. 
+We have the ability to retain your contact details should you input them on our website even if you do not complete your registration.
 
-If you are looking for the information we collect about your computer and or device through our use of cookies; then please see our [Cookie Policy](http://uk.match.com/misc/cookie.php).
+If you are looking for the information we collect about your computer and or device through our use of cookies; then please see our [Cookie Policy](http://uk.match.com/pages/misc/cookie).
 
 ## 2\. What sort of information do we gather?
 
@@ -32,11 +32,12 @@ Furthermore, certain non-personal information is also gathered, such as the vers
 
 Finally, the websites operated by the Meetic Group may be using cookies, designed to store information used to identify the Member while he/she is browsing on our websites, in order to allow the Member to continue browsing without having to re-enter this information for each new page. The Member always has the option of preventing the use of cookies by modifying the options of his/her web browser.
 
-Additional information may be found in our dedicated Cookie Policy.
+Additional information may be found in our dedicated [Cookie Policy](http://uk.match.com/pages/misc/cookie).
 
 ## 3\. Who has access to your information?
 
-The information gathered about you when you register with match.com, matchaffinity.com, datingdirect.com or datingdirectaffinity.com and subscribe to our Services is used to offer you our different Services. All precautions have been taken on our databases to archive your information in a secure environment. Only a small number of our employees have access to your information, which is only accessible in case of necessity. The personal information you provide at the time of registration which does not comprise your personal ad and your profile will not be accessible by third parties, nor passed on, sold or exchanged, except in the cases named below and subject to your prior notification and agreement, or (where applicable) if you have not objected to such treatment of your information. . Processing implemented by other entities of the Meetic Group is subject to their specific privacy policies. We may send you promotional offers from some of our partners, subject to your explicit and informed consent given during registration, unless you choose not to be contacted during your registration or unless you tell us that you have changed your mind at any moment thereafter. If you do not wish to receive any special offers from the Meetic Group Websites or from our partner companies, let us know when you subscribe, or alternatively at any time by going to "My Account" on the match.com website, or contact us by mail.
+The information gathered about you when you register with match.com, matchaffinity.com, datingdirect.com or datingdirectaffinity.com and subscribe to our Services is used to offer you our different Services. All precautions have been taken on our databases to archive your information in a secure environment. Only a small number of our employees have access to your information, which is only accessible in case of necessity. The personal information you provide at the time of registration which does not comprise your personal ad and your profile will not be accessible by third parties, nor passed on, sold or exchanged, except in the cases named below and subject to your prior notification and agreement, or (where applicable) if you have not objected to such treatment of your information. . Processing implemented by other entities of the Meetic Group is subject to their specific privacy policies.  
+We may send you promotional offers from some of our partners, subject to your explicit and informed consent given during registration, unless you choose not to be contacted during your registration or unless you tell us that you have changed your mind at any moment thereafter. If you do not wish to receive any special offers from the Meetic Group Websites or from our partner companies, let us know when you subscribe, or alternatively at any time by going to "My Account" on the match.com website, or contact us by mail.
 
 We may occasionally share general socio-demographic information that does not include names with selected partners to allow them to target their announcements (by age category, gender, etc.). In this case, we will not send these partners any information that would allow them to identify you.
 
