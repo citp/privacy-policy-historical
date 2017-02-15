@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livingexclusive.com.au privacy policy that was archived on 2015-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150411084854id_/https%3A//brandsexclusive.com.au/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livingexclusive.com.au privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215043256id_/https%3A//brandsexclusive.com.au/info/privacy-policy) for the most accurate reproduction.*
 
 # Brands Exclusive - Privacy Policy
 
@@ -18,7 +18,7 @@ Personal Information is any information that identifies you, would enable someon
 
 While you are not required to submit any information to our Website, if you do not provide the requested information, you may not be able to access or use some of the features and functions of our Websites and we may not be able to provide you with certain services.
 
-Brands Exclusive uses your Personal Information to complete transactions, respond to your questions and requests, deliver the products and services you purchased or requested, and notify you of upcoming sales events and promotions, updates, or special offers that we think may interest you.
+Brands Exclusive uses your Personal Information to complete transactions, respond to your questions and requests, deliver the products and services you purchased or requested (Please note that this may include providing your Personal Information to third parties to enable the delivery of products and services which you purchased or requested or for related Brands Exclusive marketing purposes) and to notify you of upcoming sales events and promotions, updates, or special offers that we think may interest you.
 
 Brands Exclusive does not intentionally gather data from or about children. Minors are not permitted to participate in Brands Exclusive Sales.
 
@@ -35,6 +35,8 @@ We use “session” cookies to maintain session information about you when you 
 We also use “persistent” cookies to personalise the user experience, to help protect our members and to provide us with user information of our Website. Persistent cookies allow us to track users on our Website and help us identify users abusing our service.
 
 Most Internet browsers are set to accept cookies. If you prefer not to receive them, you can adjust your browser to reject cookies, or to notify you when they are being used. There are also software products available that can manage cookies for you. Rejecting cookies can however limit the functionality of our Website.
+
+We use Google Analytics (a web analytics services provided by Google) and data such as age, gender and browsing activity to better understand the behaviour of our customers and provide targeted advertising to suit customers interests and preferences. Accordingly, when you visit our website, we, and/or a third party, may place cookies on your browser to determine information including (but not limited to) your computers location, browsing activity and time spent on each web page. We and/or Google may use this information to optimise and place advertisements. By using this website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies can be managed by accessing the individual settings in your browser.
 
 ### Access to Information
 
@@ -64,13 +66,13 @@ Other companies or organisations may have links to their website on our Website.
 
 ### Changes to Personal Data
 
-You can view and change your Personal Information we have stored in the "My Account" the Website.
+You can view and change your Personal Information we have stored in the "My Account" area on the website.
 
 ### Unsubscribe or Membership Cancellation
 
 We will send you emails for new sales events, promotions, special offers, reminders, contests and marketing promotions. Such emails may include marketing information about brandsExclusive.com.au or selected business partners. If you wish to unsubscribe, please go to the My Account section on each Website and update your email preferences. In addition, each email we send will contain an easy automated unsubscribe link so that you can opt-out of that subscription.
 
-If you wish to cancel your membership and have your Personal Information removed from our database for any reason, simply contact us via the "Contact Us" page on our Website or call us on 02 9046 4400.
+If you wish to cancel your membership and have your Personal Information removed from our database for any reason, simply contact us via the "Contact Us" page or email us at [support@brandsexclusive.com.au](mailto:support@brandsexclusive.com.au)
 
 ### Modification and Notification of Changes
 
@@ -82,4 +84,4 @@ If you have questions or suggestions regarding this Privacy Policy or our privac
 
 Any complaints in relation to your privacy may be directed to The Privacy officer at [support@brandsexclusive.com.au](mailto:support@brandsexclusive.com.au) or by letter to Brands Exclusive (Australia) pty ltd,
 
-Unit C-2, 3-29 Birnie Av, Lidcombe, NSW 2141
+Level 12, 201 Kent St, Sydney NSW 2000
