@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gpen.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909183750id_/http%3A//www.gpen.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gpen.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215212852id_/https%3A//www.gpen.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY – Grenco Science
 
