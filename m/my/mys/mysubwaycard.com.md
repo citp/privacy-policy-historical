@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014063009id_/https%3A//www.mysubwaycard.com/English/privacy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mysubwaycard.com privacy policy that was archived on 2017-02-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170215184823id_/https%3A//www.mysubwaycard.com/English/privacy/privacy) for the most accurate reproduction.*
 
 # My SUBWAY® Card | Privacy Policy
 
@@ -12,13 +12,9 @@ Miami, Florida 33156
 Telephone: 1-888-445-9239  
 Technical Support: [webmaster@ipcoop.com](mailto:webmaster@ipcoop.com)**
 
-I. Scope of This Privacy Policy
-
 Value Pay Services LLC (“VPS”) is the host of [https://www.mysubwaycard.com](https://www.mysubwaycard.com/), [https://www.tellsubway.com](https://www.tellsubway.com/), and [https://www.subwaycatering.com](https://www.subwaycatering.com/). VPS is a wholly owned subsidiary of Independent Purchasing Cooperative, Inc. (“IPC”), an independent non-profit purchasing cooperative which is owned by and provides services to the SUBWAY® Franchisees located in the United States of America, its Territories, and Canada (the “SUBWAY® Franchisees”).
 
 This Privacy Policy discloses how VPS collects, protects, uses, and shares information, including Personal Information, gathered about you. VPS shares such information with IPC and other SUBWAY®-related entities and service providers for the purpose of furthering the business of the SUBWAY® line of restaurants. VPS’s privacy practices are consistent with U.S. Department of Commerce Safe Harbor requirements regarding the collection, storage, use, and transfer of personal information from the European Economic Area and Switzerland, and it is Self-Certified under those Safe Harbor Frameworks.
-
-II. General and Express Consent Regarding Information
 
 **A. General Consent.** VPS respects the privacy of visitors to its websites, potential and actual SUBWAY® Franchisees, and customers of SUBWAY® Restaurants. VPS collects information in a fair and non-intrusive manner, and recognizes the need for appropriate protections and management of the information that you provide. VPS has adopted, implemented, and conducts its business pursuant to this Privacy Policy in order to assist you in understanding what types of information VPS may collect, how that information may be used, and with whom the information may be shared. This Privacy Policy applies to all information gathered by or on behalf of VPS, whether in writing, verbally, or electronically, through mail, phone, or email, or through [https://www.mysubwaycard.com](https://www.mysubwaycard.com/), [https://www.tellsubway.com](https://www.tellsubway.com/), [https://www.subwaycatering.com](https://www.subwaycatering.com/), and related mobile applications (collectively, the “Websites”). By participating in any program or service managed by or on behalf of VPS, or by using the Websites, you consent to the data practices described in this Privacy Policy.
 
@@ -46,13 +42,9 @@ In addition, VPS may also share information, including Personal Information, wit
 
 **D. Consent to Electronic Notice If There is a Security Breach.** If VPS or a Recipient is required or wishes to provide notice of unauthorized access of their data security systems or unauthorized access to or processing of your Personal Information, you agree that VPS and/or the Recipient may do so by posting notice on the Websites or sending notice to any email address which VPS or the Recipient has for you, in the good faith discretion of VPS or the Recipient. You agree that notice to you will count as notice to any other individual for whom you are acting, and that you will provide the notice to any such individual in a timely manner.
 
-III. Types of Information VPS Collects
-
 **A. Personal Information.** The term “Personal Information,” as used herein, means any information concerning an identified or identifiable individual, including but not limited to name, home address, home and/or mobile telephone numbers, email address, Social Security Number and/or Identification Number (“SSN/I.N.”), and financial information such as may be found on credit card applications and financial statements, together with your advertising preferences, purchase history, and Website use. VPS takes measures to maintain the confidentiality of your Personal Information, to protect your Personal Information from unlawful disclosure, and to limit access to your Personal Information. VPS does not collect SSN/I.N. and will not otherwise make your SSN/I.N. available to the general public, print your SSN/I.N. on any card, require you to provide your SSN/I.N. to access any products or services, transmit your SSN/I.N. over the internet unless the connection is secure or your SSN/I.N. has been encrypted, or require the use of your SSN/I.N. to access the Websites without additional authentication.
 
 **B. Sensitive Personal Information.** The term “Sensitive Personal Information,” as used herein, includes, but is not limited to, information revealing racial or ethnic origin, political opinions, religious or philosophical belief, trade union membership, sexual orientation, disabilities, health and veteran status. VPS does not collect Sensitive Personal Information and will not otherwise share your Sensitive Personal Information with anyone unless you give your explicit consent to share your Sensitive Personal Information.
-
-IV. Collection and Use of Personal Information.
 
 VPS collects and uses your Personal Information in a fair and non-intrusive manner, as set forth in this section.
 
@@ -87,8 +79,6 @@ If you are a prospective or actual SUBWAY® Franchisee and you do not want VPS t
 
 **E. Election to Limit VPS’s Use of Personal Information for Marketing of Promotional Purposes.** If you do not want VPS or the FAF Group to use or share your Personal Information for the purpose of sending you marketing or promotional materials, please contact the VPS Privacy Officer at [privacyofficer@ipcoop.com](mailto:privacyofficer@ipcoop.com). If you do not want to receive any further emails from VPS or the FAF Group, you can so elect by means of the “opt-out” or unsubscribe link in the email message. Your request will be handled promptly but you may still receive marketing communications that were already in the process of being sent.
 
-V. Storage, Disclosure, and Retention of Personal Information.
-
 **A. Storage, Security, and Integrity of Personal Information.** VPS may store or process your Personal Information in the U.S. and/or other countries. By submitting Personal Information to VPS, or accessing and using the Websites, you consent to the transfer of your information to other countries.
 
 VPS uses commercially reasonable efforts to ensure that your Personal Information is safeguarded against loss, misuse, unauthorized access, disclosure, alteration, and destruction. VPS endeavors to protect your Personal Information by using physical, electronic, and procedural security measures appropriate to the sensitivity of the information in its control. These measures include safeguards to protect Personal Information against loss or theft, as well as unauthorized access, disclosure, copying, use, modification, and destruction.
@@ -103,11 +93,7 @@ VPS also takes commercially reasonable steps to ensure that Personal Information
 
 **C. Retention of Personal Information.** VPS and the Recipients will retain your Personal Information only for as long as necessary to fulfill the purpose(s) for which it was collected and to comply with applicable laws and regulations. Your consent to VPS’s and the Recipients’ use of your Personal Information for such purposes(s) remains valid after termination of VPS’s relationship with you.
 
-VI. VPS Websites and Third Party Websites.
-
 For your convenience, VPS may include on the Websites links to other websites. VPS provides these links as a convenience only and does not endorse the content or services offered by, or the privacy policies in place at, those other websites. This Privacy Policy only applies to information gathered by or on behalf of VPS through the Websites or otherwise, and does not apply to information gathered through linked websites not operated by or on behalf of VPS, which have their own privacy policies. VPS has structured the Websites to make it reasonably clear when you leave a Website and enter another website. VPS encourages you to review the privacy policy of each website you visit through a link from the Websites, to ensure you are comfortable with such policy, as it may differ substantially from this Privacy Policy. VPS is not responsible for the conduct or policy of any third party which operates a linked website.
-
-VII. Online Predictive Advertising.
 
 VPS advertises products and services on the Websites. Such advertisements may be in the form of banner advertisements, splash advertisements that appear as you sign-in or sign-out of your account, or other formats. VPS and the FAF Group may use Personal and non-Personal Information collected from you, such as your past browsing history, to deliver advertisements to you that are more directed towards your own likes and preferences. Such information is collected through the use of Cookies as described in Section IV.B.4 above.
 
@@ -117,21 +103,13 @@ VPS advertises products and services on the Websites. Such advertisements may be
 
 
 
-VIII. Children and Data Collection.
-
 VPS cares about the safety of children and adheres to the federal privacy protection standards as stated in the Children’s Online Privacy Protection Act (“COPPA”). VPS will not knowingly allow anyone under thirteen (13) years of age to provide VPS with any Personal Information. Children under thirteen (13) years of age are required to obtain the express permission of a parent or guardian before submitting any Personal Information about themselves over the internet. If a child under thirteen (13) years of age has provided VPS with Personal Information without the consent of a parent or guardian, the parent or guardian of that child should contact VPS’s Privacy Officer immediately at [privacyofficer@ipcoop.com](mailto:privacyofficer@ipcoop.com). VPS will use commercially reasonable efforts to promptly delete such child’s Personal Information from its servers.
-
-IX. California Privacy Rights.
 
 Under California law, California residents can now ask companies with whom they have an established business relationship to provide certain information about such companies’ sharing of personal information with third parties for direct marketing purposes during the past year.
 
 VPS’s policy is to share your Personal Information for direct marketing purposes only with your informed consent. With your consent, from time to time, VPS may share your Personal Information with the Recipients for the purpose of marketing and/or promoting goods, services, and programs to you. If you previously provided VPS with such consent but no longer want your Personal Information to be shared, please contact the VPS Privacy Officer at [privacyofficer@ipcoop.com](mailto:privacyofficer@ipcoop.com) and request a change in your preference and/or opt-out of communications without charge.
 
-X. International Data Transfers.
-
 VPS may transfer the Personal Information it collects about you to countries other than the country in which the information was originally collected. Those countries may not have laws which protect Personal Information to the same extent as the country in which you initially provided the Personal Information. When VPS transfers your Personal Information to other countries, VPS will ensure that such Personal Information is protected as described in this Privacy Policy, in accordance with applicable laws and regulations.
-
-XI. Canada’s Personal Information Protection and Electronic Documents Act (“PIPEDA”).
 
 Canada has enacted federal privacy legislation, the Personal Information Protection and Electronic Documents Act (“PIPEDA”), which incorporates ten (10) “Fair Information Principles” regarding your Personal Information. VPS adheres to these Fair Information Principles for Personal Information collected and/or transferred from Canada, which are as follows:
 
@@ -147,8 +125,6 @@ Canada has enacted federal privacy legislation, the Personal Information Protect
   * **Principle 10** \- Challenging Compliance. An individual shall be able to address a challenge concerning compliance with the fair information principles to the designated individual or individuals accountable for the organization’s compliance. 
 
 
-
-XII. Safe Harbor Compliance.
 
 VPS and the Recipients are in compliance with the U.S. Department of Commerce Safe Harbor requirements regarding the collection, storage, use, and transfer of personal information from the European Economic Area and Switzerland. VPS has been Self-Certified under both the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks, in accordance with the EU Directive on Personal Data Protection and the Swiss Federal Act on Data Protection. Organizations which Self-Certify under the U.S.-EU and U.S.-Swiss Safe Harbor Frameworks must comply with the following principles:
 
@@ -167,8 +143,6 @@ Further information regarding the Safe Harbor Frameworks and certification proce
 In addition, the U.S. Department of Commerce maintains lists of all U.S.-EU and U.S.-Swiss Safe Harbor compliant organizations, which can be accessed at <https://safeharbor.export.gov/list.aspx> and <https://safeharbor.export.gov/swisslist.aspx>.
 
 VPS uses a self-assessment approach to assure compliance with this Privacy Policy and periodically verifies that this Privacy Policy is accurate, easily accessible, and prominently displayed, and abides by and contains the information intended to be covered by the Safe-Harbor Frameworks referenced above. If you are a resident of the European Economic Area or Switzerland and have any questions, concerns, or complaints regarding VPS’s collection, storage, use, or transfer of your Personal Information or compliance with the Safe-Harbor Frameworks, please contact the VPS Privacy Officer at [privacyofficer@ipcoop.com](mailto:privacyofficer@ipcoop.com). The VPS Privacy Officer will promptly investigate and attempt to resolve any such questions, concerns, or complaints in accordance with applicable laws and regulations. In the event that VPS cannot resolve a complaint or dispute through its internal process, it will cooperate with European Union and Swiss data protection authorities to resolve such complaint or dispute.
-
-XIII. Contact Information.
 
 If you have any questions or complaints about VPS’s privacy practices, or you wish to access, correct, or delete your Personal Information, please contact the VPS Privacy Officer. The VPS Privacy Officer can be reached by mail, telephone, facsimile, or email, as follows:
 
@@ -198,11 +172,7 @@ Telephone: (800) 888-4848 or (203) 877-4281
 Facsimile: (203) 783-7479  
 Email: [privacyofficer@subway.com](mailto:privacyofficer@subway.com)
 
-XIV. Changes to This Privacy Policy.
-
 VPS will update this Privacy Policy occasionally. When VPS posts changes to this Privacy Policy, It will also update the “Revised” date below. If VPS makes material changes to this Privacy Policy, VPS will notify you by email or by means of a notice on the Website home pages describing the material changes. VPS encourages you to review this Privacy Policy periodically to be informed of how VPS is protecting your information and to be aware of any changes to the Privacy Policy. Any changes to this Privacy Policy are effective immediately upon being posted to the Websites. Your continued use of the Websites after the posting of any revised Privacy Policy shall constitute your agreement to be bound by any such changes.
-
-XV. Changes and or Modifications Required by the Laws of Other Jurisdictions.
 
 Reserved for future use.
 
