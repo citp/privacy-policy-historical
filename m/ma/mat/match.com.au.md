@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the match.com.au privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011213321id_/http%3A//match.com.au/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the match.com.au privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216090552id_/http%3A//match.com.au/registration/privacystatement.aspx%3Flid%3D4) for the most accurate reproduction.*
 
 # Match.com - Find Singles with Match.com's Online Dating Personals Service
 
