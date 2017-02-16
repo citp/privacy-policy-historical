@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the a4c.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231190320id_/http%3A//www.a4c.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the a4c.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216135933id_/https%3A//www.a4c.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | A4C.com
 
