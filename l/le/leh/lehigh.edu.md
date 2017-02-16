@@ -1,10 +1,11 @@
-> *The following text is extracted and transformed from the lehigh.edu privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120121153id_/http%3A//www1.lehigh.edu/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lehigh.edu privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216232849id_/http%3A//www1.lehigh.edu/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About Lehigh | Lehigh University | Lehigh University
 
-## You are here
+  1. [About](https://web.archive.org/about)
+  2. Privacy Policy
 
-[About](https://web.archive.org/about) > Privacy Policy
+
 
 About Lehigh
 
