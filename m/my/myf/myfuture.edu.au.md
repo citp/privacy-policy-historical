@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203082309id_/https%3A//myfuture.edu.au/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfuture.edu.au privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216155422id_/https%3A//myfuture.edu.au/footer/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | myfuture
 
@@ -12,7 +12,7 @@ We are committed to protecting the privacy of personal information. This Privacy
 
 ### 2.Information collected when you use this Website
 
-**(a) Log information**
+ **(a) Log information**
 
 When you visit this Website Our server makes a record of your visit and logs the following information:
 
@@ -24,7 +24,7 @@ When you visit this Website Our server makes a record of your visit and logs the
 
 
 
-**(b) Cookies and Google Analytics**
+ **(b) Cookies and Google Analytics**
 
 A cookie is a small amount of information stored on your computer by our server. This information is sent by your web browser to our server whenever you visit it again. Cookies are used to remember your browser between page visits. However, the cookie identifies your browser, not you personally. No personal information is stored within the myfuture.edu.au cookies.
 
@@ -34,18 +34,18 @@ Google Inc uses this information for the purpose of evaluating your use of the W
 
 You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of this Website. When using this Website, you consent to the processing of data about you by Google Inc in the manner and for the purposes set out above.
 
-**(c) Registration on the Website**
+ **(c) Registration on the Website**
 
 The personal information collected by Us if you register on the Website:
 
   * will include the month and year of your birth, gender, career stage and post code. We may use this personal information to review Website usage patterns in order to assist us to optimise the user experience (e.g. providing personalised content); and
 
 
-  * may include, at your option, your email address and your first and last name. If you provide your email address to Us, We may communicate with you about myfuture. If at any time you no longer wish to receive such communications, please contact Us at privacy@esa.edu.au. 
+  * may include, at your option, your email address and your first and last name. If you provide your email address to Us, We may communicate with you about myfuture and careers. If at any time you no longer wish to receive such communications, please contact Us at privacy@esa.edu.au. 
 
 
 
-**(d) Emails and electronic forms**
+ **(d) Emails and electronic forms**
 
 The personal information collected by Us when you send Us an email, will include your email address and may also include some of your personal information. In all cases and at all times, this personal information will only be used for the stated purpose for which it was provided.
 
@@ -57,19 +57,28 @@ We record your personal information when:
 
 
 
-We will not disclose your personal information to a third party, without your express consent.
+We will not disclose your personal information to a third party other than as described in this Privacy Policy, without your express consent.
 
-### 3\. Publication of your personal information
+### 3\. Storage of Newsletter Subscriber information
+
+ESA usually stores your personal information on its databases in Australia.
+
+However, ESA uses Campaign Monitor for the creation and management of newsletters. In order to perform this function, ESA provides the addresses and audience type of newsletter subscribers to Campaign Monitor and Campaign Monitor stores this information in the United States. Please refer to [Campaign Monitor's terms of use](https://www.campaignmonitor.com/policies/) for further details on how it operates.
+
+You may decline to provide your information by not signing up for newsletters. If you sign up to receive newsletters you consent to ESA transmitting your information to Campaign Monitor and Campaign Monitor storing your information on servers located in the United States. This means that once you have chosen to provide your information, ESA is not required to take reasonable steps to ensure that Campaign Monitor does not breach the Australian Privacy Principles in relation to personal information that it provides to Campaign Monitor. You can access Campaign Monitor's [privacy policy here.](https://www.campaignmonitor.com/policies/)
+
+#### 4\. Publication of your personal information  
+
 
 We will only publish personal information on this Website if it has been collected for this purpose with your knowledge, or if you have otherwise consented to the disclosure.
 
 When giving such consent you should be aware that personal information published on this Website is accessible by multiple users from all over the world, that it will be indexed by search engines and that it may be copied and used by any web user. This means that, once personal information is published on this Website, We will have no control over its subsequent use and disclosure.
 
-### 4\. Access to and correction of personal information
+### 5\. Access to and correction of personal information
 
 If you want to know what, if any, personal information We hold about you, or wish to correct any personal information We may hold about you, you may access and correct such personal information at any time by contacting Us via the Contact Us page on this Website.
 
-### 5\. Information sharing
+### 6\. Information sharing
 
 We only disclose personal information to third parties where:
 
@@ -81,7 +90,7 @@ We only disclose personal information to third parties where:
 
 
 
-### 6\. Security of your personal information
+### 7\. Security of your personal information
 
 We take all reasonable steps to ensure that the information (including personal information) We hold in our servers is not subject to loss, misuse or unauthorised access or alteration. We will destroy or permanently remove your personal information upon your request.
 
@@ -89,20 +98,20 @@ This Website does not, however, provide facilities for the secure transmission o
 
 You should also note that if you link to a web page from our Website, a different privacy and security statement may apply. Therefore, once you leave this Website, you should check the online privacy and security policies of the new website. 
 
-### 7\. Changes to this Privacy Policy
+### 8\. Changes to this Privacy Policy
 
 We may make changes to this Privacy Policy from time to time. Therefore We recommend that you regularly check this Privacy Policy. 
 
-### 8\. How to contact Us
+### 9\. How to contact Us
 
 If at any time you:
 
   * have any questions regarding this Privacy Statement, the practices of this Website or dealings with this Website; or
   * if you are concerned that we have breached your privacy and wish to make a complaint,
-  * please contact Us at privacy @esa.edu.au
+  * please contact Us at privacy@esa.edu.au
 
 
 
 If you would like to know more about your rights under Australian privacy laws, please refer to the website of the Office of the Australian Information Commissioner [www.oaic.gov.au](http://www.oaic.gov.au/). 
 
-This Privacy Policy was last updated on 4 April 2016.
+This Privacy Policy was last updated on 3 January 2017.
