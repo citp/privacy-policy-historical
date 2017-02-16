@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the quimbee.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907232607id_/https%3A//www.quimbee.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quimbee.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216072139id_/https%3A//www.quimbee.com/about/privacy) for the most accurate reproduction.*
 
-# Case Briefs, Tutorials, and Exam Prep for Law School Students - Quimbee
-
-## Privacy Policy
+# Privacy Policy - Quimbee
 
 Last Updated September 29, 2012
 
@@ -72,7 +70,6 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 #### Contacting Us
 
-If there are any questions regarding this privacy policy you may contact us using the information below.
+If there are any questions regarding this privacy policy you may [contact us](https://web.archive.org/contact).
 
-[www.quimbee.com](https://web.archive.org/)  
-[support@quimbee.com](mailto:support@quimbee.com)
+[www.quimbee.com/contact](https://web.archive.org/contact)
