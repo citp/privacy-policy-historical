@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the timetreeapp.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009072729id_/https%3A//timetreeapp.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timetreeapp.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216114852id_/https%3A//timetreeapp.com/terms/privacy) for the most accurate reproduction.*
 
-# TimeTree - Connect your moments. Connect to the future.
+# Privacy Policy - TimeTree
 
 #### TimeTree Privacy Policy
 
