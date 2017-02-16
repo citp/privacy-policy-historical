@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gotapparel.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402141340id_/https%3A//www.gotapparel.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gotapparel.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216211036id_/https%3A//www.gotapparel.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - GotApparel
 
@@ -64,11 +64,11 @@ You should recognize, however, that no computer system is fully secure and that 
 
 ### 7\. Corrections/Information Removal/Opt-Out
 
-If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at [privacy@gotapparel.com](mailto:privacy@gotapparel.com). In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at [privacy@gotapparel.com](mailto:privacy@gotapparel.com), sending a letter to: GotApparel.com Privacy Officer, 14938 Shoemaker Ave, Santa Fe Springs, CA 90670 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalog, you may call us at 1-866-847-8678, email us at [privacy@gotapparel.com](mailto:privacy@gotapparel.com) or send a letter to: GotApparel.com Privacy Officer, 14938 Shoemaker Ave, Santa Fe Springs, CA 90670.
+If your name, e-mail or postal address, telephone number or other Personal Information changes, you may update, correct or omit the relevant information by contacting us at [support@gotapparel.com](mailto:support@gotapparel.com). In addition, if you no longer wish to receive communications from us you may opt-out by emailing us at [support@gotapparel.com](mailto:support@gotapparel.com), sending a letter to: GotApparel.com Privacy Officer, 14938 Shoemaker Ave, Santa Fe Springs, CA 90670 or by clicking on the unsubscribe link within any marketing e-mail you receive from us. If you no longer wish to receive our catalog, you may call us at 1-866-847-8678, email us at [support@gotapparel.com](mailto:support@gotapparel.com) or send a letter to: GotApparel.com Privacy Officer, 14938 Shoemaker Ave, Santa Fe Springs, CA 90670.
 
 ### 8\. Contact Information
 
-If you have any questions or concerns about this Privacy Notice, please e-mail us at [privacy@gotapparel.com](mailto:privacy@gotapparel.com) or send a letter to: GotApparel.com Privacy Officer, 14938 Shoemaker Ave, Santa Fe Springs, CA 90670
+If you have any questions or concerns about this Privacy Notice, please e-mail us at [support@gotapparel.com](mailto:support@gotapparel.com) or send a letter to: GotApparel.com Privacy Officer, 14938 Shoemaker Ave, Santa Fe Springs, CA 90670
 
 ### 9\. Business Transfer
 
