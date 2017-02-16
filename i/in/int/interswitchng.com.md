@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the interswitchng.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912204854id_/https%3A//www.interswitchgroup.com/ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the interswitchng.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216044413id_/https%3A//www.interswitchgroup.com/ng/privacy-policy) for the most accurate reproduction.*
 
 # Interswitch Group | Privacy Policy
 
