@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the the-pool.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112024831id_/https%3A//www.the-pool.com/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the the-pool.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216010251id_/https%3A//www.the-pool.com/cookie-policy) for the most accurate reproduction.*
 
 # The Pool |
 
