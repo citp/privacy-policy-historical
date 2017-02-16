@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the getawaytoday.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018033105id_/https%3A//www.getawaytoday.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getawaytoday.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216083321id_/https%3A//www.getawaytoday.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -38,4 +38,4 @@ Should you have other questions or concerns about these privacy policies, please
 
 Call us at 1-855-GET-AWAY
 
-© 2016 Get Away Today Vacations As to Disney photos, logos, properties: ©Disney HARRY POTTER characters, names and related indicia are © & ™ Warner Bros. Entertainment Inc. Harry Potter Publishing Rights © JKR. (s16) ©2016 Universal Studios. All Rights Reserved.
+© 2017 Get Away Today Vacations As to Disney photos, logos, properties: ©Disney HARRY POTTER characters, names and related indicia are © & ™ Warner Bros. Entertainment Inc. Harry Potter Publishing Rights © JKR. (s16) ©2016 Universal Studios. All Rights Reserved. Dr. Seuss properties TM & © 2016 Dr. Seuss Enterprises, L.P. All rights reserved.
