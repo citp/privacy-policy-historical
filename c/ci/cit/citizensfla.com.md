@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensfla.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826121105id_/https%3A//www.citizensfla.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensfla.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216142914id_/https%3A//www.citizensfla.com/privacy) for the most accurate reproduction.*
 
 # Notice of Privacy Policy - Citizens
 
