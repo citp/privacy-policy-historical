@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the damseldiary.com privacy policy that was archived on 2012-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120528080305id_/http%3A//www.damseldiary.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the damseldiary.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216215902id_/http%3A//www3.damseldiary.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
 * **Overview**
 
-Thank you for visiting www.damseldiary.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
+Thank you for visiting www3.damseldiary.com (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
 * **What Type of Information We Collect**
 
@@ -33,4 +33,4 @@ We partner with a limited number of third party behavioral advertising companies
   
 
 
-* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp>.
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
