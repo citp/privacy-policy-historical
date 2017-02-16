@@ -1,0 +1,462 @@
+<!--The following is the downloaded HTML source of the chiaanime.co privacy policy that was archived on 2017-02-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170216043118id_/http%3A//chiaanime.co/Privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US"><head>
+            <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+            <title>Privacy Policy - Chia Anime</title>            <link rel="shortcut icon" type="image/x-icon" href="http://chiaanime.co/favicon.ico">
+            <!-- CSS default -->
+            <link href="http://chiaanime.co/css/font.css" media="screen" rel="stylesheet" type="text/css">
+            <link href="http://chiaanime.co/css/style.css" media="screen" rel="stylesheet" type="text/css">
+            <link href="http://chiaanime.co/css/website1.css" media="screen" rel="stylesheet" type="text/css">
+            <link href="http://chiaanime.co/css/jquery.fancybox.css" rel="stylesheet" type="text/css">
+            <!--[if lt IE 8]>
+            <link rel="stylesheet" type="text/css" href="http://chiaanime.co/css/ie.css" media="screen, projection" />
+            <![endif]-->
+
+            <!-- Prebid Config Section START -->
+            <script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="//platform.bidgear.com/media/prebid/prebid1.js" async=""></script>
+            <script type="text/javascript" src="//chiaanime.co/js/hb/bg-hb.js?v=1.33" async=""></script>
+            <!--End-->
+
+            <script type="text/javascript" src="http://chiaanime.co/js/jquery-1.7.1.min.js"></script>
+            <script async="" type="text/javascript" src="//128.199.213.253:8083/tracking-domain?did=8&amp;unit=1484900226&amp;k=5881c7822d7c4"></script>
+        </head>
+        <body>
+            
+<!-- header --->
+<header>
+
+    <!-- banner -->
+    <section class="banner">
+        	
+        <div class="banner_left" style="padding-top: 5px;">
+            <a href="http://chiaanime.co/" title="Chia Anime">
+                <img src="http://chiaanime.co/css/images/logo.png" alt="Chia Anime - Watch Anime Online in HD 1080p">
+            </a>
+        </div>
+        <div class="banner_menu">
+            <!-- menu top -->
+            <nav class="menu_top">
+                <ul>
+                    <li class="list "><a style="font-size: 12px;" href="http://chiaanime.co/AnimeList" title="ANIME LIST">Anime List</a></li>
+                    <li class="seri "><a style="font-size: 12px;" href="http://chiaanime.co/AnimeList/LatestUpdate" title="Latest Update">Latest Update</a></li>
+                    <li class="movies "><a style="font-size: 12px;" href="http://chiaanime.co/AnimeList/MostViewed" title="Popular">Popular</a></li>
+                    <li class="list "><a style="font-size: 12px;" target="_blank" href="http://9cartoon.me/" title="Cartoon LIST">Cartoon List</a></li>
+                    <li style="position: relative;" class="list "><a style="font-size: 12px;" target="_blank" rel="nofollow" href="https://goo.gl/aZztLZ" title="Free Games Online">Free Games Online</a><img src="http://chiaanime.co/css/images/new.png" style="position: absolute;right: -23px;width: 26px;top: -12px;display:none"></li>
+                    <li style="position: relative;" class="list "><a style="font-size: 12px;" target="_blank" href="http://flappybird.me/" title="Flappy Bird Online">Flappy Bird Online</a><img src="http://chiaanime.co/css/images/new.png" style="position: absolute;right: -23px;width: 26px;top: -12px;display:none"></li>
+                </ul>	
+            </nav>                           <!-- /menu top -->
+        </div>
+        <div class="banner_right" style="padding-right: 10px;">
+            <!-- form search--->
+            <div class="form">
+                <form onsubmit="" id="search-form" action="http://chiaanime.co/Search" method="get">
+                    <div class="row">
+                        <input placeholder="search..." name="s" id="keyword" type="text" value="" autocomplete="off">            
+                        <input class="btngui" value="" type="button" name="" onclick="do_search();">
+                        <input value="" type="submit" style="display:none">
+                    </div>
+                    <div id="header_search_autocomplete"> 
+
+                    </div>
+                </form>
+
+                <script type="text/javascript">
+
+                    var delay = (function () {
+                        var timer = 0;
+                        return function (callback, ms) {
+                            clearTimeout(timer);
+                            timer = setTimeout(callback, ms);
+                        };
+                    })();
+
+                    $('#keyword').keyup(function () {
+                        delay(function () {
+                            Suggest();
+                        }, 500);
+                    });
+
+                    $('#selectSearch').change(function () {
+                        Suggest();
+                    });
+
+                    $("#selectSearch option").each(function () {
+                        var url = location.href;
+                        if (url.indexOf($(this).attr('value')) != -1)
+                            $(this).attr("selected", "selected");
+                    });
+
+                    function Submit() {
+                        if ($.trim($('#keyword').val()).length < 2) {
+                            $('#keyword').blur();
+                            alert('Palabra clave debe ser más de un carácter!');
+                        } else {
+                            $("#formSearch").attr('action', "http://chiaanime.co/Search/?s=" + $.trim($('#keyword').val()));
+                            $("#formSearch").submit();
+                        }
+                    }
+
+                    function Suggest() {
+                        var keyword = $.trim($('#keyword').val());
+                        if (keyword != "" && $.trim($('#keyword').val()).length > 1) {
+                            $('#header_search_autocomplete').html("<div id='header_search_autocomplete_body'><span id='loader'></span></div>");
+                            $('#header_search_autocomplete').css('display', 'block');
+                            $.ajax({
+                                type: "POST",
+                                url: "/SearchSuggest/index.php",
+                                data: "type=Anime" + '&keyword=' + keyword,
+                                success: function (message) {
+                                    if (message != "") {
+                                        $('#header_search_autocomplete').html(message);
+                                    } else {
+                                        $('#header_search_autocomplete').html('<a href="#" onclick="return false;">Press Enter to search...</a>');
+                                    }
+                                }
+                            });
+                        } else {
+                            $('#header_search_autocomplete').html('');
+                            $('#header_search_autocomplete').css('display', 'none');
+                        }
+                    }
+                </script>
+
+
+            </div><div class="clr"></div>                        <!-- /form search--->
+        </div>
+    </section><!-- /banner -->
+</header><!-- /header --->
+
+
+
+<div id="wrapper_inside">
+    <div id="wrapper">
+                    <div class="banner_center" style="width: 728px;margin-top: 10px;margin-bottom: 0px;">
+                <div class="avm">Advertisement</div>
+                            <div id="div-bg-ad-2121" style="width: 728px; height: 90px" bg-width="728" bg-height="90" bg-domain="2" bg-size="1" bg-zone="21" bg-floor-price="0.50" bg-key="hgyt532ksdfe">
+            </div>
+                        </div>
+                <div id="wrapper_bg">
+            
+			  <!-- content---->
+            <section class="content">
+            	<!-- content left---->
+            	<section class="content_left">
+                		<div class="main_body">
+	<div class="anime_name">
+        <h2 class="aqua">Privacy Policy</h2>
+		<div style="clear:both"></div>
+	</div>
+    <div class="content_privacy">
+	<div id="primary">
+			<div class="">
+
+                <p>This privacy policy is intended to inform you about the types of information gathered by ChiaAnime.co when you visit ChiaAnime.co.</p>
+
+                <p>Log Files<br>
+
+                    We may automatically and through third-party tracking services (e.g., Google Analytics) gather certain non-personally identifiable information about your use of ChiaAnime.co and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamps, and related data. We use this information, which does not identify individual users, solely to improve the quality of our services. Out of respect for your privacy, we do not link this automatically-collected data to personally identifiable information.</p>
+
+                <p>COOKIES<br>
+
+                    A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use both session ID cookies and tracking cookies. We use session cookies to make it easier for you to use ChiaAnime.co. A session ID cookie expires when you close your browser. We use tracking cookies to better understand how you use ChiaAnime.co, and to enhance your user experience. A tracking cookie remains on your hard drive for an extended period of time. You are free to decline cookies, but by doing so, you may not be able to take full advantage of all of our offerings. We do not link the information we store in cookies to any personally identifiable information you submit while using ChiaAnime.co.</p>
+
+                <p>Changes to Privacy Policy<br>
+
+                    We may periodically update this policy. If you are a ChiaAnime.co member, we will attempt to notify you of material updates by sending a notice to an email address you may have provided to us. Otherwise, you may view the updated version of this policy on the ChiaAnime.co website.</p>
+				
+				<p>Cookies &amp; 3rd Party Advertisements</p>
+				<p>Google, as a third party vendor, uses cookies to serve ads on your site. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the <a href="http://www.google.com/privacy_ads.html" target="_blank" rel="nofollow">Google ad and content network privacy policy</a>.</p>
+				<p>We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit <a href="http://www.networkadvertising.org/managing/opt_out.asp" target="_blank" rel="nofollow">http://www.networkadvertising.org/managing/opt_out.asp</a>.</p>
+
+            </div>
+		
+		</div>        
+	
+	</div>
+</div>                </section>
+<!-- /content left---->
+                <!-- content right---->
+                <section class="content_right">
+                                    <!-- ongoing series--->
+                    
+                    <script type="text/javascript" src="http://chiaanime.co/js/jquery.tinyscrollbar.min.js"></script>
+<script type="text/javascript">
+	$(document).ready(function(){
+		$('#scrollbar1').tinyscrollbar();	
+	});
+</script>
+
+<div class="main_body">
+     <div class="main_body_black">
+          <div class="anime_name">
+              <h2 class="aqua">LATEST UPDATE</h2>
+			  <div style="clear:both"></div>
+          </div>
+          <div class="recent">
+           <!-- begon -->
+          <div id="scrollbar1">
+          <div class="scrollbar"><div class="track"><div class="thumb"><div class="end"></div></div></div></div>
+            <div class="viewport">
+                 <div class="overview">
+               			<nav class="menu_recent">
+                                    <ul>
+									                                     	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162653/the-racing-brothers/episode-20/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2015-10-15the-racing-brotherss.jpg');"></div>
+										The Racing Brothers										</a>
+                                    <a href="http://chiaanime.co/Watch/162653/the-racing-brothers/episode-20/" title="">
+                                     <p class="time_2">Episode 20</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162652/luck-amp-logic-2016-dubbed/episode-2/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-02-15luck-amp-logic-2016-dubbedl.jpg');"></div>
+										Luck &amp; Logic (2016) (Dubbed)										</a>
+                                    <a href="http://chiaanime.co/Watch/162652/luck-amp-logic-2016-dubbed/episode-2/" title="">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162651/akiba-s-trip-the-animation-2017-dubbed/episode-6/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-05akiba-s-trip-the-animation-2017-dubbed).jpg');"></div>
+										Akiba's Trip The Animation (2017) (Dubbed)										</a>
+                                    <a href="http://chiaanime.co/Watch/162651/akiba-s-trip-the-animation-2017-dubbed/episode-6/" title="">
+                                     <p class="time_2">Episode 6</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162650/kono-subarashii-sekai-ni-shukufuku-wo-2-2017/episode-6/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-12kono-subarashii-sekai-ni-shukufuku-wo-2-20178.jpg');"></div>
+										Kono Subarashii Sekai ni Shukufuku wo! 2 (2017)										</a>
+                                    <a href="http://chiaanime.co/Watch/162650/kono-subarashii-sekai-ni-shukufuku-wo-2-2017/episode-6/" title="">
+                                     <p class="time_2">Episode 6</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162649/detective-conan-sub-1996/episode-849/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2015-05-13detective-conan-sub-1996n.jpg');"></div>
+										Detective Conan (1996) (Subbed)										</a>
+                                    <a href="http://chiaanime.co/Watch/162649/detective-conan-sub-1996/episode-849/" title="">
+                                     <p class="time_2">Episode 849</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162648/piace-watashi-no-italian-2017/episode-6/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-12piace-watashi-no-italian-20178.jpg');"></div>
+										Piace: Watashi no Italian (2017)										</a>
+                                    <a href="http://chiaanime.co/Watch/162648/piace-watashi-no-italian-2017/episode-6/" title="">
+                                     <p class="time_2">Episode 6</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162647/one-room-2017/episode-6/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-12one-room-20170.jpg');"></div>
+										One Room (2017)										</a>
+                                    <a href="http://chiaanime.co/Watch/162647/one-room-2017/episode-6/" title="">
+                                     <p class="time_2">Episode 6</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162646/kobayashi-san-chi-no-maid-dragon-2016/episode-6/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2016-12-30kobayashi-san-chi-no-maid-dragon-20163.jpg');"></div>
+										Kobayashi-san Chi no Maid Dragon (2017)										</a>
+                                    <a href="http://chiaanime.co/Watch/162646/kobayashi-san-chi-no-maid-dragon-2016/episode-6/" title="">
+                                     <p class="time_2">Episode 6</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162645/sousei-no-onmyouji-2016/episode-44/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2016-04-07sousei-no-onmyouji-2016i.jpg');"></div>
+										Sousei no Onmyouji (2016)										</a>
+                                    <a href="http://chiaanime.co/Watch/162645/sousei-no-onmyouji-2016/episode-44/" title="">
+                                     <p class="time_2">Episode 44</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162644/dr-slump-arale-chan/episode-53/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2015-08-04dr-slump-arale-chann.jpg');"></div>
+										Dr. Slump: Arale-chan										</a>
+                                    <a href="http://chiaanime.co/Watch/162644/dr-slump-arale-chan/episode-53/" title="">
+                                     <p class="time_2">Episode 53</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162643/chain-chronicle-haecceitas-no-hikari-2017-dubbed/episode-2/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-02-08chain-chronicle-haecceitas-no-hikari-2017-dubbed6.jpg');"></div>
+										Chain Chronicle: Haecceitas no Hikari (2017) (Dubbed)										</a>
+                                    <a href="http://chiaanime.co/Watch/162643/chain-chronicle-haecceitas-no-hikari-2017-dubbed/episode-2/" title="">
+                                     <p class="time_2">Episode 2</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162642/akiba-s-trip-the-animation-2017-subbed/episode-7/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-05akiba-s-trip-the-animation-2017-subbed5.jpg');"></div>
+										Akiba's Trip The Animation (2017) (Subbed)										</a>
+                                    <a href="http://chiaanime.co/Watch/162642/akiba-s-trip-the-animation-2017-subbed/episode-7/" title="">
+                                     <p class="time_2">Episode 7</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162635/chaos-child-2017-dubbed/episode-3/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-02-01chaos-child-2017-dubbedl.jpg');"></div>
+										Chaos;Child (2017) (Dubbed)										</a>
+                                    <a href="http://chiaanime.co/Watch/162635/chaos-child-2017-dubbed/episode-3/" title="">
+                                     <p class="time_2">Episode 3</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162634/koro-sensei-quest-2016-dubbed/episode-6/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-12koro-sensei-quest-2016-dubbed2.jpg');"></div>
+										Koro-sensei Quest! (2016) (Dubbed)										</a>
+                                    <a href="http://chiaanime.co/Watch/162634/koro-sensei-quest-2016-dubbed/episode-6/" title="">
+                                     <p class="time_2">Episode 6</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162633/reikenzan-hoshikuzu-tachi-no-utage-2nd-season-2017/episode-6/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-27reikenzan-hoshikuzu-tachi-no-utage-2nd-season-20179.jpg');"></div>
+										Reikenzan: Hoshikuzu-tachi no Utage 2nd Season (2017)										</a>
+                                    <a href="http://chiaanime.co/Watch/162633/reikenzan-hoshikuzu-tachi-no-utage-2nd-season-2017/episode-6/" title="">
+                                     <p class="time_2">Episode 6</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162632/nobunaga-no-shinobi-2016/episode-20/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2016-10-05nobunaga-no-shinobi-2016l.jpg');"></div>
+										Nobunaga no Shinobi (2016)										</a>
+                                    <a href="http://chiaanime.co/Watch/162632/nobunaga-no-shinobi-2016/episode-20/" title="">
+                                     <p class="time_2">Episode 20</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162631/nanbaka-season-2-2017/episode-20/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-04nanbaka-season-2-20172.jpg');"></div>
+										 Nanbaka: Season 2 (2017)										</a>
+                                    <a href="http://chiaanime.co/Watch/162631/nanbaka-season-2-2017/episode-20/" title="">
+                                     <p class="time_2">Episode 20</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162630/kemono-friends-2017/episode-6/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-11kemono-friends-20178.jpg');"></div>
+										Kemono Friends (2017)										</a>
+                                    <a href="http://chiaanime.co/Watch/162630/kemono-friends-2017/episode-6/" title="">
+                                     <p class="time_2">Episode 6</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162629/hand-shakers-2017/episode-6/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-11hand-shakers-2017l.jpg');"></div>
+										Hand Shakers (2017)										</a>
+                                    <a href="http://chiaanime.co/Watch/162629/hand-shakers-2017/episode-6/" title="">
+                                     <p class="time_2">Episode 6</p>
+                                     </a>
+                                       </li>
+						                                    	                                        <li>
+                                        <a href="http://chiaanime.co/Watch/162628/ai-mai-mii-third-season-2017/episode-7/" title="">
+                                        <div class="thumbnail-recent" style="background: url('http://chiaanime.co/uploads/thumbs/2017-01-04ai-mai-mii-third-season-2017n.jpg');"></div>
+										 Ai Mai Mii Third season (2017)										</a>
+                                    <a href="http://chiaanime.co/Watch/162628/ai-mai-mii-third-season-2017/episode-7/" title="">
+                                     <p class="time_2">Episode 7</p>
+                                     </a>
+                                       </li>
+						                                                 
+                                                                            </ul>
+                                </nav>
+                 </div>
+            </div>
+        </div>	
+          <!-- tao thanh cuon 1-->  
+          </div>
+     </div>
+</div>  
+                  <!--/ ongoing series--->
+                    <div class="clearfix" style="clear:both;"></div>
+                  
+            	</section><!-- /content right---->
+            </section><!-- /content---->            <!-- footer --->
+<div class="clr"></div>
+<footer>
+    <div class="menu_bottom">
+        <a href="http://chiaanime.co/About/">About</a>
+        <a href="http://chiaanime.co/Contact/">Contact</a>
+        <a href="http://chiaanime.co/Privacy/">Privacy Policy</a>
+        <a href="http://chiaanime.co/DMCA/">DMCA</a>
+        <a href="http://chiaanime.co/">ChiaAnime.CO</a>
+        <div class="copyright">
+            ©2014 COPYRIGHT BY ChiaAnime.Co. ALL RIGHTS RESERVED.
+        </div>
+    </div>
+    <div class="croll">
+        <img src="http://chiaanime.co/css/images/croll.png">
+    </div>
+</footer>
+<style type="text/css">
+    .menu_bottom a{
+        color: #959595;
+        padding-right: 10px;
+    }
+    .menu_bottom a:hover{
+        color: #FF4429;
+    }
+    .content_privacy a{
+        color: #FF4429;
+    }
+    .form-contact, .form-contact a, .page_content{
+        color: #959595;
+    }
+    .errorSummary{
+        color: #F00;
+        padding-left: 14px;
+    }
+    .form-contact input[type='text'], .form-contact textarea{
+        width: 406px;
+        border: solid 1px #CCC;
+        height: 22px;
+        line-height: 20px;
+    }
+    .form-contact textarea{
+        height: 80px;
+    }
+    .form-contact .row{
+        padding: 5px 0;
+    }
+</style>            <!-- /footer --->
+</div>
+</div>
+</div>
+            <script type="text/javascript" src="http://chiaanime.co/js/jquery.jcarousel.min.js"></script>
+            <!-- click croll -->
+            <script type="text/javascript" src="http://chiaanime.co/js/jquery.scrollTo-1.4.2-min.js"></script>
+            <!-- ham function -->
+            <script type="text/javascript" src="http://chiaanime.co/js/hamfunction_back.js"></script>
+            <script type="text/javascript" src="http://chiaanime.co/js/jquery.fancybox.pack.js"></script>
+            <script type="text/javascript">
+                $(".viewDetail").fancybox({
+                maxWidth	: 400,
+                        maxHeight	: 300,
+                        fitToView	: false,
+                        width		: '80%',
+                        height		: '80%',
+                        autoSize	: false,
+                        closeClick	: false,
+                        openEffect	: 'none',
+                        closeEffect	: 'none'
+                });
+            </script>
+            <script>
+                (function(i, s, o, g, r, a, m){i['GoogleAnalyticsObject'] = r; i[r] = i[r] || function(){
+                (i[r].q = i[r].q || []).push(arguments)}, i[r].l = 1 * new Date(); a = s.createElement(o),
+                        m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
+                })(window, document, 'script', 'https://www.google-analytics.com/analytics.js', 'ga');
+                ga('create', 'UA-80978820-1', 'auto');
+                ga('send', 'pageview');
+            </script>
+
+            <script id="cid0020000130439234152" data-cfasync="false" async="" src="//st.chatango.com/js/gz/emb.js" style="width: 300px;height: 500px;">{"handle":"chiaanimefan", "arch":"js", "styles":{"a":"CC0000", "b":100, "c":"FFFFFF", "d":"FFFFFF", "k":"CC0000", "l":"CC0000", "m":"CC0000", "n":"FFFFFF", "p":"10", "q":"CC0000", "r":100, "pos":"br", "cv":1, "cvbg":"CC0000", "cvw":300, "cvh":40, "ticker":1, "fwtickm":1}}</script>
+        
+    
+
+
+</body></html>
