@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigfinish.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015132651id_/https%3A//www.bigfinish.com/pages/v/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigfinish.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216171111id_/https%3A//www.bigfinish.com/pages/v/privacy) for the most accurate reproduction.*
 
 # Privacy - Big Finish
 
