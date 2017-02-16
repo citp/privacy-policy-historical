@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the weusecoins.com privacy policy that was archived on 2015-07-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150721001600id_/https%3A//www.weusecoins.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weusecoins.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216074229id_/https%3A//www.weusecoins.com/en/privacy) for the most accurate reproduction.*
 
-# What Is Bitcoin? – Get started right with Bitcoin.
-
-Privacy Policy - We Use Coins
+# Privacy Policy - We Use Coins
 
 ## Privacy Policy | Your Privacy Rights
 
