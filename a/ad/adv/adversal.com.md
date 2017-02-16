@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adversal.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714193405id_/https%3A//www.adversal.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adversal.com privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216181832id_/https%3A//adversal.com/privacy.html) for the most accurate reproduction.*
 
 # Adversal.com Ad Network
 
@@ -15,11 +15,13 @@ We do not sell, trade, release, or otherwise transfer information partially or i
 **California Online Privacy Protection Act Compliance**  
 Your personal information will not be distributed to outside parties without your consent. As part of the California Online Privacy Protection Act, all registered users of our site may make any changes to their information at anytime by logging into their account and editing their profile.  
 **Terms and Conditions**  
-You may view our Terms and Conditions which establish the use, disclaimers, and limitations of liability governing the use of our website [here](https://web.archive.org/web/20160714193405id_/https%3A//www.adversal.com/terms.html).  
+You may view our Terms and Conditions which establish the use, disclaimers, and limitations of liability governing the use of our website [here](https://web.archive.org/web/20170216181832id_/https%3A//adversal.com/terms.html). Additionally, if you are a participant in the Adversal Network as an advertiser or publisher, than the corresponding privacy and/or disclosure sections outlined in the terms of service agreed to upon account creation shall superseded the sections above.  
 **Consent**  
 By using our site, you consent and are in agreeance with our privacy policy.  
 **Changes**  
 Should our privacy policy ever be changed, updated, or expanded, any revisions to will be posted on this page.  
+**Advertising and Choices**  
+Utilization of, or viewing ads served through, the Adversal network may generate predictions from various partners, platforms, and advertisers in order to deliver interest or behavior based advertisements. Further reading and an opt out process can be found at [networkadvertising.org](http://www.networkadvertising.org/choices/) and [aboutads.info](http://www.aboutads.info/choices/).  
 **Contacting Us**  
 If any questions should arise in regards to this privacy policy you may contact us using the below information:  
 Adversal.com  
