@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paypal.co.in privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229054130id_/https%3A//www.paypal.com/in/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal.co.in privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216075513id_/https%3A//www.paypal.com/in/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # PayPal
 
@@ -193,6 +193,6 @@ You can review and edit your personal information at any time by logging in to y
 
 ### How You Can Contact Us about Privacy Questions
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us by using [ **this link**](http://www.paypal.com/ewf/f=ci_prv).
+If you have questions or concerns regarding this Privacy Policy, you should contact us by using [ **this link**](https://www.paypal.com/in/selfhelp/contact/email/privacy).
 
 **Back to top**
