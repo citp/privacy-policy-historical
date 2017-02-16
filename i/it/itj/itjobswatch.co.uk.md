@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120080837id_/http%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itjobswatch.co.uk privacy policy that was archived on 2017-02-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170216052615id_/https%3A//www.itjobswatch.co.uk/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy and Information on Cookies
 
@@ -32,4 +32,4 @@ IT Jobs Watch Ltd is a Data Controller for the purposes of the Data Protection A
 
 [](https://web.archive.org/)
 
-Copyright © 2004-2016 IT Jobs Watch Ltd. All rights reserved. 
+Copyright © 2004-2017 IT Jobs Watch Ltd. All rights reserved. 
