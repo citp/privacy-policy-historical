@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the landofthebrave.info privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315074304id_/http%3A//www.landofthebrave.info/colonial-america-privacy-statement.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landofthebrave.info privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217010622id_/https%3A//www.landofthebrave.info/colonial-america-privacy-statement.htm) for the most accurate reproduction.*
 
 # Colonial America Privacy Statement ***
 
 ## **Land of the Brave Privacy Statement**
 
 [Siteseen Ltd. ](https://plus.google.com/+SiteseenInfo/about)has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses both our information gathering and dissemination practices for   
-[www.landofthebrave.info ](http://www.landofthebrave.info/)(updated March 2015) 
+[www.landofthebrave.info ](http://www.landofthebrave.info/)(updated February 2017) 
 
   
 We may use your IP address to help diagnose problems with our server, and to administer our Web site.   
@@ -27,4 +27,4 @@ If you have any questions about this privacy statement, the practices of this si
 The webmaster   
 [webmaster@land-of-the-brave ](mailto:webmaster@land-of-the-brave)
 
-**[Land of the Brave Index](https://web.archive.org/web/20160315074304id_/http%3A//www.landofthebrave.info/index.htm)**
+**[Land of the Brave Index](https://web.archive.org/web/20170217010622id_/https%3A//www.landofthebrave.info/)**
