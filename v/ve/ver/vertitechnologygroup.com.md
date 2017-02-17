@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the vertitechnologygroup.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919213036id_/http%3A//www.vertitechnologygroup.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vertitechnologygroup.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217194200id_/http%3A//www.vertitechnologygroup.com/policy.html) for the most accurate reproduction.*
 
-# Verti Technology Group
-
-## Including for the Verti Installer Technologies
-
-_Updated 12/04/2013_
+# 
 
 This Privacy Policy describes how and when Verti Technology Group ("Verti", "we", "us" or "our") collects, uses and shares your information when you use our Services. We respect your privacy and are concerned about how your personal information is shared and used. You acknowledge that you accept the terms of this privacy policy whenever you use any of our services or products, including without limitation the Verti installer software, and our websites that post a link to this privacy policy, including [http://www.vertitechnologygroup.com](http://www.vertitechnologygroup.com/), ("Sites", "Services" or "Products").
 
@@ -70,14 +66,6 @@ _Legal Disclosure_. We may disclose information in special cases when we have re
 
 _Sale, Merger or Asset Transfer_. We may buy other businesses or their assets or sell our business assets, including user information as one of the business assets involved in such transactions. In the event that we or all of our assets are acquired, user information, including any information collected through our Sites or products, would be one of those transferred assets.
 
-### Your Choices
-
-_Cookies_. By changing your browser preferences, you can choose to accept all cookies, be notified when a cookie is set, or reject all cookies. If you choose to reject all cookies, you may be unable to use our products or services.
-
-Because no method of transmitting or storing electronic data is ever completely secure, we cannot guarantee or warrant that no information, including without limitation user information or Personally Identifiable Information, will ever be accessed, used, or released in a manner that is inconsistent with this policy.
-
-Only users 18 years or older are permitted under this privacy policy to use our products and services. We do not knowingly collect information about children under the age of 13.
-
 ### Warranty Disclaimers and Limitation of Liability
 
 YOUR USE OF OUR SERVICES AND PRODUCTS IS AT YOUR OWN RISK. OUR SERVICES AND PRODUCTS (INCLUDING ALL CONTENT AND FUNCTIONS MADE AVAILABLE ON OR ACCESSED THROUGH OUR SITES) IS PROVIDED "AS IS." WE MAKE NO REPRESENTATIONS OR WARRANTIES OF ANY KIND WHATSOEVER, INCLUDING WITHOUT LIMITATION ABOUT: (1) ACCURACY, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE OR NON-INFRINGEMENT; OR (2) THE SERVER AND SOFTWARE THAT MAKES OUR SERVICES AVAILABLE, INCLUDING WITHOUT LIMITATION THAT IT IS FREE OF VIRUSES OR OTHER COMPONENTS THAT MAY HARM, INFECT, OR CAUSE DAMAGE TO YOUR COMPUTER EQUIPMENT OR ANY OTHER PROPERTY WHEN YOU ACCESS, DOWNLOAD FROM, BROWSE, OR OTHERWISE USE OUR SITES OR PRODUCTS.
@@ -88,9 +76,7 @@ _Indemnification_. You agree to indemnify, defend, and hold harmless us, our sub
 
 _Questions and Concerns_. If you believe that we have not followed our privacy policy, or if you have any questions or concerns about our privacy policy or would like a written copy, please feel free to contact us by e-mailing us at [customersupport@vertitechnology.com](mailto:customersupport@vertitechnology.com) or writing to:
 
-  
 Verti Technology Group  
 Attention: Customer Service  
 3600 136th Pl SE,  
-Bellevue,  
-WA 98006 
+Bellevue, WA 98006 
