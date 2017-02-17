@@ -1,124 +1,128 @@
-> *The following text is extracted and transformed from the g2a.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218194223id_/https%3A//www.g2a.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the g2a.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217162533id_/https%3A//www.g2a.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - G2A.COM
 
-**I. General Information**
+G2A.COM Limited, and from time to time, its subsidiaries (together the “Group”) (and each being “G2A.COM”, “we”, “us” or “member of the Group” for the purposes of this Privacy Policy as appropriate) recognise their responsibilities in relation to the collection, holding, processing, use and/or transfer of personal data under the Personal Data (Privacy) Ordinance (Cap. 486) (“PDPO”). Personal data will be collected only for lawful and relevant purposes and all practicable steps will be taken to ensure that personal data held by us is accurate. We will use your personal data which we may from time to time collect in accordance with this Privacy Policy. 
 
-The personal data provided to G2A.COM by the Users during registration and subsequent use of G2A.COM Sites are processed by 
+We regularly review this Privacy Policy and may from time to time revise it or add specific instructions, policies and terms. Where any changes to this Privacy Policy are material, we will notify you using the contact details you have provided us with and, where required by the PDPO, we will give you the opportunity to opt out of these changes by means notified to you at that time. Otherwise, in relation to personal data supplied to us through the G2A.COM website or otherwise, continued use by you of the G2A.COM website, or other products or services of the Group, or your continued relationship with us or the Group shall be deemed to be your acceptance of and consent to this Privacy Policy, as amended from time to time. 
 
-G2A.COM LIMITEDwith its registered office in Hong Kong, 36/F, Tower Two, Times Square, 1 Matheson Street, Causeway Bay, Hong Kong, incorporated under the number 2088957. which constitutes data administrator. 
+If you have any questions about this Privacy Policy or how we use your personal data, please contact us through one of the communication channels set out in the “Contact Us” section below. 
 
-The Site obtains information as follows:
+G2A.COM will take all practicable steps to ensure the security of your personal data and to avoid unauthorised or accidental access, erasure or other use of your personal data. This includes physical, technical and procedural security methods, where appropriate, to ensure that your personal data may only be accessed by authorised personnel.  
 
-  * Through voluntary information filling as entered on forms provided by the Site; 
+Please note that if you do not provide us with your personal data (or relevant personal data relating to persons appointed by you to act on your behalf) we may not be able to provide the information, products or services you have asked for or be able to process your requests.
 
-  * By storing data resulting from customer visits (so-called "cookies");
+**Purpose**
 
-  * By collecting logs from a web server.
+From time to time we may collect your personal data including but not limited to your name, mailing address, telephone number, email address, date of birth and login name for the following purposes: 
 
+  1. to process your transaction, subscriptions and registration for our products and services;
 
+  2. to process your transaction, subscriptions and registration for products and services of third-parties;
 
+  3. to provide you with our products and services and administer your account in relation to such products and services;
 
-This Privacy Policy relates both to the processing of personal data on the main Site, address: www.g2a.com, as well as to the processing of personal data in relation to participation in the Goldmine Marketing Programme (definition of the said programme can be found in the Goldmine Terms and Conditions), which are processed by reason of the Users’ use of the site under the address www.g2a.com/goldmine.    **II. Information provided on the forms**
+  4. to provide you information about our Group products and services;
 
-  1. The Site collects information provided voluntarily by the User. 
+  5. to provide you information about relevant third-party products and services;
 
-  2. The Site may also store the data regarding connection settings (time of visit, the IP address).
+  6. to conduct research and statistical analysis; 
 
-  3. Data entered on the form are not made available to third parties unless consent of the User has been expressed and only within the scope permitted by law.
+  7. to process your application for employment or engagement within G2A.COM to assess your suitability as a candidate for such position and to conduct reference checks with your previous employers; and
 
-  4. The data provided on the form may constitute a set of potential customers, registered by the Site Provider in the register maintained by the Inspector General for Personal Data Protection.
-
-  5. The data contained on any of the forms are processed in a manner resulting from the function of the particular form, for example in order to process your request, Site or sales activity.
-
-  6. The data contained on the forms may be forwarded to parties holding technical responsibilities pursuing certain services - in particular the provision of information about the User on the website, payment operators or other entities with which G2A.COM collaborates.
-
-
-
-
-**III. Information regarding cookie files**
-
-  1. The Site uses cookies. 
-
-  2. Cookie files (so-called "cookies") are basically computer data, especially text files, that are stored in the terminal device of a Site User and are intended for the use of the Site web pages of G2A.COM. Cookies typically contain the name of the website from which the files originally came from, time of storage at the terminal device and a unique number. 
-
-  3. The party storing cookies on the terminal device of a User is G2A.COM and the firm has access to the said files. 
-
-  4. Cookies are used for the following purposes:
-
- \- To create statistics that help us understand how the Users access the Site, which allows G2A.COM to improve the structure of the Site and its content;  
-\- Delineating a user profile in order to display matching materials in regard to advertising networks, in particular the Google Network;  
-\- To run statistics on the Users traffic to reliably conduct settlements with advertising partners;  
-\- Storing user settings and calibrating the Site to better suit the needs and preferences of the Users;  
-\- To recognize Users and the persons recommended by them within the framework of the Goldmine Marketing Programme. 
-
-  5. The Site uses two basic types of cookies, "session" (session cookies) and "fixed" (persistent cookies). "Session" cookies are temporary files that are stored in the terminal device of a User until he or she logs out, leaves the website or disables the software (web browser). "Persistent" cookies are stored in the terminal device of a User for the time specified in the parameters of cookies or until their removal by the User. 
-
-  6. Software designed for browsing the web (browsers) usually implicitly allows storage of cookies in the terminal device of the User. Site Users can change the settings in this regard. The web browser allows you to delete cookies. The Users can also automatically block cookies. For any details, consult the help or documentation of a given browser. 
-
-  7. Restrictions on the use of cookies may affect some of the functionality available at G2A.COM and its Site. 
-
-  8. Cookies provided in the terminal device of a User of the Site can also be used by the co-administrator of the Site, advertisers and partners of G2A.COM. 
-
-  9. Cookies may be used by advertising networks, in particular, the Google Network to display ads specific to a User and in accordance with his or hers preferences while using the Site. To achieve that cookies may store information about the User's navigation path or the time the User remained on the Site. 
-
-  10. With regard to the information about User preferences collected by the Google Display Network, you can view and edit the information derived from cookies with the tool: [https://www.google.com/ads/preferences/ ](https://www.google.com/ads/preferences/).
+  8. other purposes related to any of the above.
 
 
 
 
-**IV. Server Logs**
+**Direct Marketing**
 
-  1. Information about some of the actions of the Users are stored in the logging layer of the server. This data is used only to administer the Site and to provide the most efficient Site hosting services. 
+Where you have given your consent and have not subsequently opted out, we may also use your name, mailing address, telephone number and email address to send promotional materials to you and conduct direct marketing activities in relation to G2A.COM products and services, and products services offered by other members of the Group, or products and services offered by relevant third-parties. 
 
-  2. The accessed resources are identified by URLs. In addition, the stored data may include:
+If you do not wish to receive any promotional and direct marketing materials or do not wish to receive specific types of promotional and direct marketing materials or do not wish to receive such materials through a specific means of communication, please contact us through one of the communication channels set out in the “Contact Us” section below. To ensure that your request can be processed please provide your full name, email address, log in name and details of the product and/or service you have used.  
 
- \- date of the query,  
-\- time of response,  
-\- the name of the client station - identification carried out by the HTTP protocol,  
-\- information about errors that have occurred in the implementation of the HTTP transaction,  
-\- URL of the site previously visited by the User (referer link) – in case there has been a redirection to the Site by a refer link,  
-\- information on the User's browser,  
-\- IP address information. 
+**Identifying Documentation**
 
-  3. The figures are disassociated with the individual persons browsing the Site. 
+We may also collect your identity card number, passport or other documentation pursuant to your use of our products and services as this may be required: under applicable laws or regulations, by regulators having authority over us and, subject to the PDPO, for the purpose of identifying you where it is reasonable for your identity card number to be used for this purpose.
 
-  4. The above data are used only for the purposes of administering the server. 
+**Transfer of Data**
 
+Except to the extent you have already opted out we may transfer your name, mailing address, telephone number and email address to other members of the Group or relevant third-parties, for the purpose of enabling those members of the Group or relevant third-parties to send promotional materials to you and conduct direct marketing activities in relation to their products and services.
 
+For one or more of the purposes specified above, your personal data may be: 
 
+  1. transferred to other members of the Group, in Hong Kong or elsewhere and you consent to the transfer of your data outside of Hong Kong; 
 
-**V. The purpose of storing personal data**
+  2. supplied to any agent, contractor or third party who provides administrative, telecommunications, computer, payment, debt collection, data processing or other services to G2A.COM and/or any member of the Group in Hong Kong or elsewhere; and
 
-The personal information you entrust to us, particularly your name, surname, business name and registered seat, residence address, registered office address, email address, tax id number (NIP number), Statistical id number (REGON number), national identity card number, personal identification number, phone number, IP number, are processed:
-
-  * to the extent necessary to create and shape the content, changes, solutions and proper implementation of e-services and the implementation of concluded contracts via the Site; 
-
-  * to carry out orders placed by the Users in regard to the products in the online offer of G2A.COM;  
-
-  * for the purpose of complaints registration, and the potential refund in case of termination of the contract (returning the goods); 
-
-  * if the customer agrees to receive marketing information from G2A.COM, including the transfer of our electronic business information, personal data will be processed in order to provide the User with information about our store, offers and sales, as well as information on products and companies cooperating with us (with our explicit consent and knowledge of the fact);
-
-  * For the purpose of fulfilment of rights and obligations related to the Users’ participation o the Goldmine Marketing Programme.
-
-  * Providing personal data is voluntary however, declining the request to process the data may prevent us from providing the User with the electronic services and may prevent the User from being able to conduct online purchases via the Site.
-
-  * Entrusting us with their personal information, the User has the right to access them, the right to demand updates and to request their removal. Personal data provided by the User can be edited or deleted by the User himself. The User may also contact G2A.COM with a request to remove his account by sending a request to the appropriate e-mail address: support@g2a.com via an e-mail address currently registered in the G2A.COM Site.
+  3. other parties as notified to you at the time of collection.
 
 
 
 
-**VI. Protecting personal information**  
+**How We Use Cookies**
+
+If you access our information or services through the G2A.COM website, you should be aware that cookies are used. Cookies are data files stored on your browser. The G2A.COM website automatically installs and uses cookies on your browser when you access it.
+
+Cookies are used for the following purposes:
+
+  1. To create statistics that help us understand how you access G2A.COM, which allows us to improve the structure of G2A.COM and its content and thus improve your experience;
+
+  2. Creating a profile for you in order to display matching materials in regard to advertising networks, such as the Google Display Network;
+
+  3. To run statistics on traffic to reliably conduct settlements with advertising partners;
+
+  4. To store your settings and customize the Site to better suit your needs and preferences; and
+
+  5. To recognize users of G2A.COM and the persons recommended by them within the framework of the Goldmine Marketing Programme. 
 
 
-All gathered data, in the manner described above, are stored in the Personal Database belonging to G2A.COM.
-
-The database and IT system, in which it is stored, is subject to special protection through technical and organizational measures which should be fulfilled by devices and systems used for the processing of personal Data.
-
-G2A.COM applies security measures at the highest level specified in this Regulation.G2A.COM ensures, that additionally to the aforementioned technical and organizational security measures, we strictly comply with all regulations and standards for the protection of the Users’ personal data by preventing unauthorized processing of data and accidental loss, deletion or any other form of damage.G2A.COM also ensures that the access to the database is restricted to the persons explicitly authorized by the data administrator.
-
-**VII. Closing provisions**  
 
 
-Due to the continuous development and technical progress, the principles set out in this document are subject to change. Should any such change present itself, the User shall be informed in advance, no later than seven days prior to the introduction, by posting the new content of the document on the G2A.COM website.
+To achieve the above goals, the Site uses two basic types of cookies, session cookies and persistent cookies. Session cookies are temporary files that are stored in your browser until you logout, leave the website or close the browser. Persistent cookies are stored in your browser for a longer period of time, as specified in the parameters of the cookie or until you remove the cookie. 
+
+Cookies may be used by partners and advertising networks, such as the Google Display Network to display ads specific to you and in accordance your preferences while using G2A.COM. To achieve this goal cookies may store information about your navigation path or the time you spent on G2A.COM. To see what information was collected about you by the Google Display Network, you can view and edit the information derived from cookies with the following tool provided by Google: [https://www.google.com/ads/preferences/ ](https://www.google.com/ads/preferences/).
+
+Your browser’s default setting is likely set to allow for the storage of cookies. You can change your browser’s settings and delete or prevent cookies. For details, consult your browser’s documentation. Please note that if you do so you may not be able to utilise or activate certain functions available on G2A.COM.
+
+**Legal Compliance**
+
+G2A.COM and other members of the Group may be required to retain, process and/or disclose your personal data in order to comply with applicable laws and regulations or in order to comply with a court order, subpoena or other legal process, whether in Hong Kong or elsewhere, or to comply with a request by a government authority, law enforcement agency or similar body, whether in Hong Kong or elsewhere. G2A.COM and other members of the Group may need to disclose your personal data in order to enforce any agreement with you, protect our rights, property or safety, or the rights, property or safety of our employees.
+
+**Access and Correction of Personal Data**
+
+Under the PDPO, you have the right to verify whether we hold your personal data, to obtain a copy of the data, and to correct any data that is inaccurate. You may also request us to inform you of the type of personal data held by us. All data access requests shall be made using the form prescribed by the Privacy Commissioner for Personal Data (“ **Privacy Commissioner** ”) which may be found on the official website of the Office of the Privacy Commissioner or via this link: [https://www.pcpd.org.hk/english/publications/files/Dforme.pdf ](https://www.pcpd.org.hk/english/publications/files/Dforme.pdf)
+
+Requests for access and correction of personal data or for information regarding policies and practices and the kinds of data held by us should be addressed in writing and sent by post to us (see the “Contact Us” section below). 
+
+A reasonable fee may be charged to offset our administrative and actual costs incurred in complying with your data access requests.
+
+**Termination or Cancellation**
+
+Should your account or relationship with us be cancelled or terminated at any time, we shall cease processing your personal data as soon as reasonably practicable following such cancellation or termination, provided that we may keep copies of your data as is reasonably required for archival purposes, for use in relation to any actual or potential dispute, for the purpose of compliance with applicable laws and regulations and for the purpose of enforcing any agreement we have with you, for protecting our rights, property or safety, or the rights, property or safety of our employees, and for performing or discharging our functions, obligations and responsibilities.
+
+**General**
+
+If this Privacy Policy is translated into any other language, and there is any inconsistency or conflict between the English and translated versions of this Privacy Policy, the English version shall prevail.
+
+**Contact us**
+
+By Post:
+
+PDPO
+
+**G2A.COM Limited**
+
+36/F, Tower Two, 
+
+Times Square, 
+
+1 Matheson Street, 
+
+Causeway Bay, 
+
+Hong Kong
+
+By Email:
+
+PDPO@G2A.COM.COM
