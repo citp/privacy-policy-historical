@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the healthwarehouse.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812225437id_/https%3A//www.healthwarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthwarehouse.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217101626id_/https%3A//www.healthwarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy - HealthWarehouse.com
-
-#### Processing time for _OTC products_ remains 1-3 business days. Currently we're experiencing a surge in _prescription medication_ order volume and are temporarily adding 2-4 extra days to normal prescription processing times. As always, we will ship your order as quickly as possible.
 
 
 
