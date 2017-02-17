@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flitetest.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626013325id_/http%3A//www.flitetest.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flitetest.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217204719id_/http%3A//flitetest.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Flite Test
 
@@ -6,7 +6,7 @@
 
 Flite Test was created for people passionate about flight. Our hope is to create a show for the people that build and fly planes and helicopters as a hobby. They are the dreamers and engineers that get a thrill from the first launch of a maiden flight. The show will personify the veteran and the beginner alike giving them a chance to share common experiences with others, in turn, enhancing the RC community. The goal is to develop a creative outlet that allows us to work in our passion daily. Flite Test is designed to empower our audience. It has just enough humor, technology and information to appeal to the RC flight crowd as a whole. We hope to entertain, educate and elevate our viewers as we move forward with quality content.
 
-FliteTest.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at[feedback@FliteTest.com](http://flitetest.com/feedback@FliteTest.com).
+FliteTest.com cares deeply about online privacy. If you have any questions concerning this privacy policy, please email us at [feedback@FliteTest.com](mailto:feedback@FliteTest.com).
 
 ##### Information Collection and Use by FliteTest.com
 
@@ -42,7 +42,7 @@ Ads appearing on this Web site may be delivered to users by FliteTest.com or one
 
 ##### Security
 
-FliteTest.com member accounts are secured by member-created passwords FliteTest.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on FliteTest.com, please contact us a [feedback@FliteTest.com](http://flitetest.com/feedback@FliteTest.com).
+FliteTest.com member accounts are secured by member-created passwords FliteTest.com takes precautions to insure that member account information is kept private. We use reasonable measures to protect member information that is stored within our database, and we restrict access to member information to those employees who need access to perform their job functions, such as our customer service personnel and technical staff. Please note that we cannot guarantee the security of member account information. Unauthorized entry or use, hardware or software failure, and other factors may compromise the security of member information at any time For any additional information about the security measures we use on FliteTest.com, please contact us a [feedback@FliteTest.com](mailto:feedback@FliteTest.com).
 
 ##### Sharing and Disclosure of Information FliteTest.com Collects
 
@@ -54,4 +54,4 @@ From time to time we may make changes to our privacy policy If we make changes, 
 
 ##### Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [feedback@FliteTest.com](http://flitetest.com/feedback@FliteTest.com).
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, please contact us at: [feedback@FliteTest.com](mailto:feedback@FliteTest.com).
