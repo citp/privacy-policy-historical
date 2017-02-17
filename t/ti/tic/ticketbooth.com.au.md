@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ticketbooth.com.au privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022184206id_/https%3A//support.ticketbooth.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ticketbooth.com.au privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217081245id_/https%3A//support.ticketbooth.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Ticketbooth Support
 
