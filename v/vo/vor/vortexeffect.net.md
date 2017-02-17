@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vortexeffect.net privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331220212id_/http%3A//vortexeffect.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vortexeffect.net privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217012543id_/https%3A//vortexeffect.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – Vortex Effect
 
@@ -43,3 +43,5 @@ Comments and other content submitted to our Akismet anti-spam service are not sa
 ## **Privacy Policy Changes**
 
 Although most changes are likely to be minor, Vortex Effect may change its Privacy Policy from time to time, and in Vortex Effect’s sole discretion. Vortex Effect encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a WordPress.com account, you should also check your blog’s dashboard for alerts to these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
+
+[ ](https://wordpress.com/create/)
