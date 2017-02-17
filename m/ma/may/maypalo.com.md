@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the maypalo.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205180949id_/http%3A//maypalo.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the maypalo.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217142911id_/http%3A//maypalo.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Maypalo
 
