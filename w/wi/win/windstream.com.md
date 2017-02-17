@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the windstream.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025053348id_/https%3A//www.windstream.com/About-Us/Privacy-Policy-page) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the windstream.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218001259id_/https%3A//www.windstream.com/About-Us/Privacy-Policy-page) for the most accurate reproduction.*
 
 # Privacy Policy | Digital TV | Home Phone | Windstream
 
@@ -98,8 +98,8 @@ Windstream does not knowingly collect PII from children under the age of 13 in c
  **I. Links**  
 Windstream is not responsible for the content or privacy policies of other non-Windstream websites. You should keep this in mind when accessing sites through links on Windstream websites or through third party advertisements appearing on Windstream websites. Further, Windstream may advertise on other websites. The advertising companies placing our ads may use cookies or web beacons to track the effectiveness of our ads. The use of such technology is subject to the privacy policies of the advertising companies, and not this Statement.
 
- **J. Google GMail  
-** Some of our customers may have email provided by Google pursuant to their specific agreements. Use of Google GMail is subject to both this Statement and the GMail privacy policy available under the Terms section at [http://mail.google.com](http://mail.google.com/ "http://mail.google.com").
+ **J. Google Gmail  
+** Some of our customers may have email provided by Google pursuant to their specific agreements. Use of Google Gmail is subject to both this Statement and the Gmail privacy policy available under the Terms section at [http://mail.google.com](http://mail.google.com/ "http://mail.google.com").
 
  **K. Statement Updates  
 ** We may update this Privacy Statement at any time in connection with our constant efforts to improve our products and services. We strongly encourage you to periodically review this Statement. We reserve the right to expand our capabilities for information collection and use and change this Statement in this regard. If any change constitutes a material change to this Statement, we will post a notice on our websites in a prominent position. If Windstream decides to use PII in a manner that is materially different from what is contained herein, we will post the change on this page for 30 days before making the change.
@@ -116,7 +116,7 @@ Windstream is not responsible for the content or privacy policies of other non-W
 Web beacons are small graphic images imbedded in a webpage or email.
 
  **O. Internet Information  
-** Windstream's network management practices are designed to provide the best possible online experience to its customers. To that end, Windstream monitors traffic flows between points within its network and between its network and locations on the internet for purposes of reasonable network management. Windstream uses this information to manage its network, provide security for its customers, plan for future needs, and ensure its network runs efficiently. Monitored information includes the amount of data sent to and from your connection, the source and destination of the data, and the type of information sent and receeived. In limited circumstances, Windstream may also look into the contents of the information to determine whether it is malicious in nature (such as a virus, spam, worm, etc) or when required by law to comply with judicial orders or regulations.
+** Windstream's network management practices are designed to provide the best possible online experience to its customers. To that end, Windstream monitors traffic flows between points within its network and between its network and locations on the internet for purposes of reasonable network management. Windstream uses this information to manage its network, provide security for its customers, plan for future needs, and ensure its network runs efficiently. Monitored information includes the amount of data sent to and from your connection, the source and destination of the data, and the type of information sent and received. In limited circumstances, Windstream may also look into the contents of the information to determine whether it is malicious in nature (such as a virus, spam, worm, etc) or when required by law to comply with judicial orders or regulations.
 
  **P. Safe Harbor Principles**  
 Windstream adheres to the Safe Harbor Privacy Principles and complies with the U.S.- EU Safe Harbor Framework as agreed to and set forth by the United States Department of Commerce and the European Union ("EU"). http:///export.gov/safeharbor. For individually identifiable information received by Windstream in the United States, from Users in the EU, Windstream adheres to the following principles:
