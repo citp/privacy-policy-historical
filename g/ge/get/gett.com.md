@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gett.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221105054id_/http%3A//gett.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gett.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217144915id_/https%3A//gett.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gett
 
@@ -41,7 +41,7 @@ We or a third party acting on Our behalf may collect this AI through the use of 
 
 We use “cookies” to save user name, password and language selection for future log-ins to the Site and App, to better understand how Users interact with the Site and App, and to monitor web traffic routing on, and aggregate usage of, the Site and App.
 
-Cookies are small text files that a website can use to recognize repeat users, to facilitate the user’s ongoing access to and use of the website, and to compile aggregate data to improve the website. Cookies work as follows: we will send a cookie to a User’s browser that uniquely associates that User’s computer with information stored at the Site and App. That User’s browser places the cookie in its cookies file. When that User next accesses the Site or App, the Site or App recognizes the cookie, makes available the stored information (such as user names, password and language selection), and may add new information based on the present visit. For more information on how we use cookies, please see our Cookie Policy at <http://gett.com/cookie-policy.html>
+Cookies are small text files that a website can use to recognize repeat users, to facilitate the user’s ongoing access to and use of the website, and to compile aggregate data to improve the website. Cookies work as follows: we will send a cookie to a User’s browser that uniquely associates that User’s computer with information stored at the Site and App. That User’s browser places the cookie in its cookies file. When that User next accesses the Site or App, the Site or App recognizes the cookie, makes available the stored information (such as user names, password and language selection), and may add new information based on the present visit. For more information on how we use cookies, please see our Cookie Policy at <https://gett.com/cookie-policy.html>
 
 **1.4        _Communications_**
 
