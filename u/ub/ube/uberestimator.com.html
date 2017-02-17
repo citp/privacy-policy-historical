@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the uberestimator.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119014209id_/http%3A//uberestimator.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the uberestimator.com privacy policy that was archived on 2017-02-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170217145309id_/http%3A//uberestimator.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
     <meta charset="utf-8">
@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no">
     <link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
     <title>Privacy Policy</title>
-    <link href="/css/all.min.css?v=1479376565979" rel="stylesheet" type="text/css">
+    <link href="/css/all.min.css?v=1487330203856" rel="stylesheet" type="text/css">
     <link rel="dns-prefetch" href="//fonts.googleapis.com">
     <link rel="dns-prefetch" href="//maps.googleapis.com">
     <link rel="dns-prefetch" href="//maps.gstatic.com">
@@ -17,8 +17,6 @@
     <link rel="dns-prefetch" href="//www.google-analytics.com">
     <link rel="dns-prefetch" href="//pagead2.googlesyndication.com">
     <link rel="dns-prefetch" href="//nohrgroup.com">
-    
-    
     <meta property="og:title" content="Privacy Policy">
     <meta property="og:type" content="website">
     <meta property="og:image" content="http://uberestimator.com/img/share.png?v=1">
@@ -26,7 +24,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/respond.js/1.4.2/respond.min.js"></script>
     <![endif]-->
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="/js/all.min.js?v=1479376565979"></script></head>
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="/js/all.min.js?v=1487330203856"></script></head>
 <body>
 
 <header>
@@ -83,6 +81,10 @@
 </div>
 
 
+<div class="container">
+    <div class="flex" data-type="autorelaxed">&nbsp;</div>
+</div>
+
 <footer>
 	<div class="container">
 		<div class="l">
@@ -93,8 +95,8 @@
 		<div class="r">
 			<p>
 				<a href="/privacy">Privacy Policy</a> -
-				<a href="mailto:hello@uberestimator.com" onclick="return confirm('This email is for feedback of this estimator only. Click \'OK\' if you want to give us any feedback. Please click on the link \'Uber support\' instead for any other help. Thanks!');">Contact us</a> -
-				<a href="https://help.uber.com/" rel="nofollow" target="_blank">Uber Support</a>
+				<a href="mailto:hello@uberestimator.com">Contact us</a> -
+				<a href="/faq">Uber FAQ</a>
 			</p>
 		</div>
 	</div>
@@ -106,13 +108,13 @@
 		function init() {
 			window.removeEventListener('load', init);
 			var islocal = (window.location.hostname === 'localhost');
-			loadJS('/js/all.min.js?v=1479376565979', function() {
+			loadJS('/js/all.min.js?v=1487330203856', function() {
 				var calc = document.getElementById('calculator'),
 						map = document.getElementById('map'),
 						cities = document.getElementById('cities'),
 						apikey = 'AIzaSyCIgqgIS-Adzc-zY4W5H9kxSexdnJ9C59I';
-				if (calc) { loadJS('//maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&callback=custom.places&key=' + apikey); }
-				if (map) { loadJS('//maps.googleapis.com/maps/api/js?v=3.exp&callback=custom.maps&key=' + apikey); }
+				if (calc) { loadJS('https://maps.googleapis.com/maps/api/js?v=3.exp&libraries=places&callback=custom.places&key=' + apikey); }
+				if (map) { loadJS('https://maps.googleapis.com/maps/api/js?v=3.exp&callback=custom.maps&key=' + apikey); }
 				if (!islocal) { loadJS('//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js'); }
 			});
 			if (!islocal) {
@@ -128,6 +130,5 @@
 		window.addEventListener('load', init, false);
 	})();
 </script>
-
 
 </body></html>
