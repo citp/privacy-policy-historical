@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gay.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219231245id_/http%3A//www.gay.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gay.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217201343id_/https%3A//www.gay.com/privacy) for the most accurate reproduction.*
 
 # Gay.com - Privacy Policy
 
@@ -23,9 +23,11 @@ Last modified on August 1st, 2016
 
   * We will use your email address for administrative communications such as notifying you of major Gay.com Service updates, for customer service purposes, to address copyright infringement or defamation issues, or to contact you regarding any content that you have posted to or downloaded from the Gay.com Service. 
 
-  * Gay.com may periodically send promotional materials or notifications to you related to the Gay.com Service. If you want to stop receiving promotional materials, you can go to the [Account Management section](https://web.archive.org/account) to manage your settings, once you have logged in to the Gay.com Service, or (for email) follow the unsubscribe instructions at the bottom of each email. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
+  * Gay.com may periodically send promotional materials or notifications to you related to the Gay.com Service. If you want to stop receiving promotional materials, you can go to the [Account Management section](https://web.archive.org/account) to manage your settings once you have logged in to the Gay.com Service, or (for email) follow the unsubscribe instructions at the bottom of each email. If you have installed a mobile app and you wish to stop receiving push notifications, you can change the settings either on your mobile device or through the app.
 
   * Gay.com uses the information that we collect to understand the usage trends and preferences of our Users, to improve the way the Gay.com Service works and looks, and to create new features and functionality. 
+
+  * To ensure your privacy, logs of all chat room exchanges on Gay.com are completely purged after seven (7) days and cannot thereafter be re-created.
 
   * Gay.com may use "Automatically Collected" information and "Cookies" information to maintain and improve the Gay.com Service, including to do the following things: (a) automatically update the Gay.com application on your system; (b) remember your information so that you will not have to re-enter it during your visit or the next time you access the Gay.com Service; (c) provide customized third-party advertisements, content and information; (d) monitor the effectiveness of third-party marketing campaigns; (e) monitor aggregate site usage metrics such as total number of visitors and pages accessed; and (f) track your entries, submissions, and status in any promotions or other activities. 
 
