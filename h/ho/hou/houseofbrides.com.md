@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the houseofbrides.com privacy policy that was archived on 2016-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160713122048id_/https%3A//www.houseofbrides.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the houseofbrides.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217133310id_/https%3A//www.houseofbrides.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
