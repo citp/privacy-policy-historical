@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the savingsloans.com.au privacy policy that was archived on 2014-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140927204610id_/http%3A//www.peopleschoicecu.com.au/128/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the savingsloans.com.au privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217203954id_/https%3A//www2.peopleschoicecu.com.au/128/privacy.aspx) for the most accurate reproduction.*
 
 # Your Privacy - People's Choice Credit Union
 
