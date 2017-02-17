@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227020243id_/http%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sweetwater.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218005040id_/https%3A//www.sweetwater.com/about/privacy.php) for the most accurate reproduction.*
 
-# Privacy Policy | Help Center | Sweetwater.com
+# Privacy Policy | Help Center | Sweetwater
 
 ### Our Commitment to Privacy
 
