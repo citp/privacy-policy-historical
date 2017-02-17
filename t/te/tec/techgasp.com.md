@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the techgasp.com privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922223221id_/http%3A//www.techgasp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techgasp.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217093011id_/https%3A//www.techgasp.com/privacy-policy) for the most accurate reproduction.*
 
-# www.techgasp.com - Privacy Policy
+# TechGasp - Privacy Policy
 
 ## Effective April 15, 2011
 
