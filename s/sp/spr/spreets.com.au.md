@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spreets.com.au privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331133821id_/https%3A//spreets.com.au/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreets.com.au privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217060114id_/https%3A//spreets.com.au/page/privacy-policy) for the most accurate reproduction.*
 
 # Spreets
 
@@ -55,6 +55,10 @@ Spreets and DEALS allow [other companies](http://info.yahoo.com/privacy/au/yaho
 Spreets and DEALS use [web beacons](http://info.yahoo.com/privacy/au/yahoo/webbeacons/) to access our cookies within and outside our network of web sites and in connection with Spreets and DEALS owned products and services. 
 
 Other companies such as web analytics partners, application developers and ad networks may use [cookies](http://info.yahoo.com/privacy/au/yahoo/cookies/details.html), [web beacons](http://info.yahoo.com/privacy/au/yahoo/webbeacons/details.html) and applications such as widgets on the DEALS network of websites as described [here](http://info.yahoo.com/privacy/au/yahoo/thirdparties/).  
+
+_We use Google Analytics (a web analytics services provided by Google) and data such as age, gender and browsing activity to better understand the behaviour of our customers and provide targeted advertising to suit customers interests and preferences. Accordingly, w_ _hen you visit our website, we, and/or a third party, may place cookies on your browser to determine information including (but not limited to) your computers location, browsing activity and time spent on each web page. We and/or Google may use this information to optimise and place advertisements. By using this website and agreeing to this policy, you grant us permission to place and store cookies on your browser. Cookies can be managed by accessing the individual settings in your browser._
+
+​
 
   **How to Unsubscribe**
 
