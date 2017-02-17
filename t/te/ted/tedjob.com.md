@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tedjob.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908172031id_/http%3A//www.tedjob.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tedjob.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217174643id_/http%3A//www.tedjob.com/privacy) for the most accurate reproduction.*
 
 # Ted Job
 
@@ -46,4 +46,4 @@ If you have any questions about this Privacy Policy, please feel free to contact
 
 [](http://www.tedjob.com/jb-get-xml.php?feed_id=6) [](http://add.my.yahoo.com/content?url=http://www.TedJob.com/jb-get-xml.php?feed_id=6) [](http://fusion.google.com/add?feedurl=http://www.TedJob.com/jb-get-xml.php?feed_id=6) [](http://my.msn.com/addtomymsn.armx?id=rss&ut=http://www.TedJob.com/jb-get-xml.php?feed_id=6) [](http://del.icio.us/post?v=2&url=http://www.TedJob.com/&title=%3E%3CIMG%20border=%270%27%20style=%27margin:%205px;%27%20SRC=)
 
-Copyright ©2016 TedJob.com
+Copyright ©2017 TedJob.com
