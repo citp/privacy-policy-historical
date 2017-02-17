@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zugo.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025102248id_/http%3A//zugo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zugo.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217020414id_/http%3A//zugo.com/privacy-policy) for the most accurate reproduction.*
 
 # Zugo - Privacy Policy
 
@@ -33,7 +33,7 @@ We reserve the right to disclose Anonymous Information collected on the Site pub
 
 #### Choice.
 
-If you have provided Personal Information when registering for our Site, you may modify that information by contacting us at [help@zugo.com](https://web.archive.org/web/20161025102248id_/http://zugo.com/privacy-policy/help@zugo.com). We are not responsible for updating or removing your Personal Information already disclosed to third parties who have been provided information as permitted by this Privacy Policy. At this time, we do not allow you to delete your information from our active database. You can opt out of receiving certain email communications from the Site by following the instructions provided in email communications. Please note that even if you unsubscribe or opt-out, we may still send you Site and Service related communications.
+If you have provided Personal Information when registering for our Site, you may modify that information by contacting us at [help@zugo.com](https://web.archive.org/web/20170217020414id_/http://www.zugo.com/privacy-policy/help@zugo.com). We are not responsible for updating or removing your Personal Information already disclosed to third parties who have been provided information as permitted by this Privacy Policy. At this time, we do not allow you to delete your information from our active database. You can opt out of receiving certain email communications from the Site by following the instructions provided in email communications. Please note that even if you unsubscribe or opt-out, we may still send you Site and Service related communications.
 
 #### Information Collected Through the Toolbar
 
@@ -63,7 +63,7 @@ This Privacy Policy is subject to revision from time to time on a going-forward 
 
 #### Contact Us.
 
-If you have questions or concerns about our Privacy Policy, please contact us by sending an email to: [help@zugo.com](https://web.archive.org/web/20161025102248id_/http://zugo.com/privacy-policy/help@zugo.com).
+If you have questions or concerns about our Privacy Policy, please contact us by sending an email to: [help@zugo.com](https://web.archive.org/web/20170217020414id_/http://www.zugo.com/privacy-policy/help@zugo.com).
 
 #### This Policy was last revised:
 
