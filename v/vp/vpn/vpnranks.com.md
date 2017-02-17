@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpnranks.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806122059id_/https%3A//www.vpnranks.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpnranks.com privacy policy that was archived on 2017-02-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170217102242id_/https%3A//www.vpnranks.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VPNRanks
 
