@@ -1,241 +1,706 @@
-<!--The following is the downloaded HTML source of the lackofcolor.com.au privacy policy that was archived on 2016-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126000344id_/https%3A//www.lackofcolor.com.au/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the lackofcolor.com.au privacy policy that was archived on 2017-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170218190338id_/https%3A//www.lackofcolor.com.au/pages/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" xmlns="http://www.w3.org/1999/html" class=" yes-js js_active js"><head>
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WGFZDF"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQUDVV5XDxABXFRUDgQBVA=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
-    <meta http-equiv="text/html; charset=UTF-8">
-    <meta name="description" content="Lack Of Color is an Australian label that produces a range of high quality and affordable women’s &amp; men's hats available in seasonal colours and styles.">
-    <link rel="shortcut icon" type="image/png" href="https://www.lackofcolor.com.au/wp-content/uploads/locfavicon.gif">
-    <title>
-        Privacy « lack of color    </title>   
+<!DOCTYPE html><html class="js" lang="en"><!--<![endif]--><head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#7796A8">
+  <link rel="canonical" href="https://www.lackofcolor.com.au/pages/privacy">
   
-   
-    				<script type="text/javascript">document.documentElement.className = document.documentElement.className + ' yes-js js_active js'</script>
-						<style>
-				.wishlist_table .add_to_cart, a.add_to_wishlist.button.alt { border-radius: 16px; -moz-border-radius: 16px; -webkit-border-radius: 16px; }			</style>
-			<script type="text/javascript">
-				var yith_wcwl_plugin_ajax_web_url = 'https://www.lackofcolor.com.au/wp-admin/admin-ajax.php';
-			</script>
-		<script type="text/javascript">
-window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(13),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(14),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(7),t(6),"addEventListener"in window&&t(4),c.xhrWrappable&&t(8),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(7),s=t(6);t("loader").features.stn=!0,t(5);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],4:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(15)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],5:[function(t,e,n){var r=t("ee").get("history"),o=t(15)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],6:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],7:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],8:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(4);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],9:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(10),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(12),m=window.XMLHttpRequest;s.features.xhr=!0,t(8),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],10:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],11:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(13),a=t(14);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],12:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],13:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],14:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],15:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(14),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(13),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(13),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(11);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,9,3]);
-;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"8722067f9c",applicationID:"18569562",sa:1}
+  <!--   Bootstrap import -->
+  <script type="text/javascript" async="" src="https://assets1.adroll.com/shopify/latest/j/shopify_rolling_bootstrap.js?adroll_adv_id=E7XWZJMHHNGHHJZIBGAQTG&amp;adroll_pix_id=PO3VH4A22VEFNFHJMIN2LR&amp;shop=lack-of-color.myshopify.com"></script><script type="text/javascript" async="" src="//assets.backinstock.org/widget/6037_1480039712.js?v=5&amp;shop=lack-of-color.myshopify.com"></script><script type="text/javascript" async="" src="https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.02.14.1"></script><script type="text/javascript" async="" src="//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6"></script><script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.1/jquery.min.js" type="text/javascript"></script>
+  <link href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="all">
+  <script src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js" type="text/javascript"></script>
+  
+  <!--   Press section boxpopup import -->
+  <link href="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/nextgen_basic_thumbnails.min.css?4837903990794906275" rel="stylesheet" type="text/css" media="all">
+  
+  <!--   Flexslider import -->
+  <link href="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/flexslider.css?4837903990794906275" rel="stylesheet" type="text/css" media="all">
+  <script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/jquery.flexslider.js?4837903990794906275" type="text/javascript"></script>
+  
+  <!--   Fancybox import -->
+  <link href="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/jquery.fancybox.css?4837903990794906275" rel="stylesheet" type="text/css" media="all">
+  <script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/jquery.fancybox.pack.js?4837903990794906275" type="text/javascript"></script>
+  
+  <!--   Infinite scroll import -->
+  <script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/jquery.jscroll.min.js?4837903990794906275" type="text/javascript"></script>
+  
+  <!--   Image zoom import -->
+  <script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/jquery.elevatezoom.js?4837903990794906275" type="text/javascript"></script>
+  
+  <!--   Font Awesome import -->
+  <link href="//maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" type="text/css" media="all">
+ 
+  
+    <link rel="shortcut icon" href="//cdn.shopify.com/s/files/1/1582/4359/files/locfavicon_32x32.gif?v=1478497461" type="image/png">
+  
+
+  
+  <title>
+    Privacy
+    
+    
+    
+      – Lack of Color
+    
+  </title>
+
+  
+    <meta name="description" content="Our Privacy Policy and Credit Reporting Privacy Policy At Lack of Color it is important to us that we manage your personal information securely and consistently">
+  
+
+  <!-- /snippets/social-meta-tags.liquid -->
+<meta property="og:site_name" content="Lack of Color">
+<meta property="og:url" content="https://www.lackofcolor.com.au/pages/privacy">
+<meta property="og:title" content="Privacy">
+<meta property="og:type" content="website">
+<meta property="og:description" content="Our Privacy Policy and Credit Reporting Privacy Policy At Lack of Color it is important to us that we manage your personal information securely and consistently">
+
+
+<meta name="twitter:site" content="@shopify">
+<meta name="twitter:card" content="summary_large_image">
+<meta name="twitter:title" content="Privacy">
+<meta name="twitter:description" content="Our Privacy Policy and Credit Reporting Privacy Policy At Lack of Color it is important to us that we manage your personal information securely and consistently">
+
+
+  <link href="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/theme.scss.css?4837903990794906275" rel="stylesheet" type="text/css" media="all">
+
+  
+
+  <link href="//fonts.googleapis.com/css?family=Work+Sans:400,700" rel="stylesheet" type="text/css" media="all">
+
+
+  
+
+    <link href="//fonts.googleapis.com/css?family=Work+Sans:600" rel="stylesheet" type="text/css" media="all">
+  
+
+
+
+  <script>
+    var theme = {
+      strings: {
+        addToCart: "Add to cart",
+        soldOut: "Sold out",
+        unavailable: "Unavailable",
+        showMore: "Show More",
+        showLess: "Show Less"
+      },
+      moneyFormat: "\u003cspan class=money\u003e${{amount}} \u003cspan class=currency-acronym\u003eAUD\u003c\/span\u003e\u003c\/span\u003e"
+    }
+
+    document.documentElement.className = document.documentElement.className.replace('no-js', 'js');
+  </script>
+
+  <!--[if (lte IE 9) ]><script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/match-media.min.js?4837903990794906275" type="text/javascript"></script><![endif]-->
+
+  
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/vendor.js?4837903990794906275" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/vendor.js?4837903990794906275"></script><![endif]-->
+
+  <!--[if (gt IE 9)|!(IE)]><!--><script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/theme.js?4837903990794906275" defer="defer"></script><!--<![endif]-->
+  <!--[if lte IE 9]><script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/theme.js?4837903990794906275"></script><![endif]-->
+  
+  <link href="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/custom.css?4837903990794906275" rel="stylesheet" type="text/css" media="all">
+  
+  <link href="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/responsive.css?4837903990794906275" rel="stylesheet" type="text/css" media="all">
+  
+  <link href="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/responsive-custom.css?4837903990794906275" rel="stylesheet" type="text/css" media="all">
+  
+  <script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/custom.js?4837903990794906275" type="text/javascript"></script>
+
+  <script>
+//<![CDATA[
+      var Shopify = Shopify || {};
+      Shopify.shop = "lack-of-color.myshopify.com";
+      Shopify.theme = {"name":"debut","id":78487621,"theme_store_id":796,"role":"main"};
+      Shopify.theme.handle = 'null';
+      Shopify.theme.style = {"id":null,"handle":null};
+
+//]]>
 </script>
 
-<!-- Google Tag Manager for WordPress by DuracellTomi - http://duracelltomi.com -->
-<script type="text/javascript">
-	var gtm4wp_datalayer_name = "dataLayer";
-	var dataLayer = dataLayer || []
 
-	var gtm4wp_scrollerscript_debugmode         = false;
-	var gtm4wp_scrollerscript_callbacktime      = 100;
-	var gtm4wp_scrollerscript_readerlocation    = 150;
-	var gtm4wp_scrollerscript_contentelementid  = "content";
-	var gtm4wp_scrollerscript_scannertime       = 60;
+<script>
+//<![CDATA[
+    (function() {
+      function asyncLoad() {
+        var urls = ["\/\/assets.backinstock.org\/widget\/6037_1480039712.js?v=5\u0026shop=lack-of-color.myshopify.com","https:\/\/assets1.adroll.com\/shopify\/latest\/j\/shopify_rolling_bootstrap.js?adroll_adv_id=E7XWZJMHHNGHHJZIBGAQTG\u0026adroll_pix_id=PO3VH4A22VEFNFHJMIN2LR\u0026shop=lack-of-color.myshopify.com"];
+        for (var i = 0; i < urls.length; i++) {
+          var s = document.createElement('script');
+          s.type = 'text/javascript';
+          s.async = true;
+          s.src = urls[i];
+          var x = document.getElementsByTagName('script')[0];
+          x.parentNode.insertBefore(s, x);
+        }
+      }
+      window.attachEvent ? window.attachEvent('onload', asyncLoad) : window.addEventListener('load', asyncLoad, false);
+    })();
+
+//]]>
 </script>
-<!-- End Google Tag Manager for WordPress by DuracellTomi -->		<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"https:\/\/www.lackofcolor.com.au\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.4.5"}};
-			!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;return g&&g.fillText?(g.textBaseline="top",g.font="600 32px Arial","flag"===a?(g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3):"diversity"===a?(g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e):("simple"===a?g.fillText(h(55357,56835),0,0):g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="https://www.lackofcolor.com.au/wp-includes/js/wp-emoji-release.min.js?ver=4.4.5" type="text/javascript"></script>
-		<style type="text/css">
-img.wp-smiley,
-img.emoji {
-	display: inline !important;
-	border: none !important;
-	box-shadow: none !important;
-	height: 1em !important;
-	width: 1em !important;
-	margin: 0 .07em !important;
-	vertical-align: -0.1em !important;
-	background: none !important;
-	padding: 0 !important;
-}
-</style>
-<link rel="stylesheet" id="contact-form-7-css" href="https://www.lackofcolor.com.au/wp-content/plugins/contact-form-7/includes/css/styles.css?ver=4.3.1" type="text/css" media="all">
-<link rel="stylesheet" id="wcaiocc-frontend-style-handle-css" href="https://www.lackofcolor.com.au/wp-content/plugins/woocommerce-all-in-one-currency-converter/css/wcaiocc-frontend.min.css?ver=4.4.5" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-layout-css" href="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/css/woocommerce-layout.css?ver=2.4.10" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce-smallscreen-css" href="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/css/woocommerce-smallscreen.css?ver=2.4.10" type="text/css" media="only screen and (max-width: 768px)">
-<link rel="stylesheet" id="woocommerce-general-css" href="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/css/woocommerce.css?ver=2.4.10" type="text/css" media="all">
-<link rel="stylesheet" id="woocommerce_prettyPhoto_css-css" href="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/css/prettyPhoto.css?ver=4.4.5" type="text/css" media="all">
-<link rel="stylesheet" id="jquery-selectBox-css" href="https://www.lackofcolor.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/jquery.selectBox.css?ver=4.4.5" type="text/css" media="all">
-<link rel="stylesheet" id="yith-wcwl-main-css" href="https://www.lackofcolor.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/style.css?ver=4.4.5" type="text/css" media="all">
-<link rel="stylesheet" id="yith-wcwl-font-awesome-css" href="https://www.lackofcolor.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/css/font-awesome.min.css?ver=4.4.5" type="text/css" media="all">
-<link rel="stylesheet" id="bootstrap.min-css" href="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/css/bootstrap.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="flexslider.css-css" href="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/css/flexslider.css" type="text/css" media="all">
-<link rel="stylesheet" id="fontawesome-css" href="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/css/font-awesome.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="style-css" href="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="responsive-style.css-css" href="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/css/responsive-style.css" type="text/css" media="all">
-<link rel="stylesheet" id="wppress-wp-css-css" href="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/css/shortcode.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="magiczoom-css" href="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/css/magiczoom.css" type="text/css" media="all">
-<link rel="stylesheet" id="wp-css-css" href="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/css/wp.css" type="text/css" media="all">
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-includes/js/jquery/jquery.js?ver=1.11.3"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.2.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var wcaiocc_vars_data = {"ajaxurl":"https:\/\/www.lackofcolor.com.au\/wp-admin\/admin-ajax.php","currency_change_key":"wcaiocc_change_currency_code","currency_changed":"1","conversion_method":"reference","base_currency":"AUD","base_currency_data":{"code":"AUD","name":"Australian Dollars","symbol":"&#36;","position":"left","thousand_separator":",","decimal_separator":".","number_decimals":2},"currency":"AUD","currency_data":{"order":1,"name":"Australian Dollars","symbol":"$","position":"left","thousand_separator":",","decimal_separator":".","number_decimals":"2","rate":"1","api":""},"wp_nonce":"5f23c5a014"};
-/* ]]> */
+<script id="__st">
+//<![CDATA[
+var __st={"a":15824359,"offset":36000,"reqid":"e3edd9ea-2af4-450b-827e-e3ae270e68cc","pageurl":"www.lackofcolor.com.au\/pages\/privacy","s":"pages-163627205","u":"222ab56e4ecf","p":"page","rtyp":"page","rid":163627205};
+//]]>
 </script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/plugins/woocommerce-all-in-one-currency-converter/js/wcaiocc-frontend.min.js?ver=4.4.5"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-form-move-tracker.js?ver=1.2"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/plugins/duracelltomi-google-tag-manager/js/gtm4wp-social-tracker.js?ver=1.2"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/plugins/duracelltomi-google-tag-manager/js/analytics-talk-content-tracking.js?ver=1.2"></script>
-<link rel="https://api.w.org/" href="https://www.lackofcolor.com.au/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.lackofcolor.com.au/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.lackofcolor.com.au/wp-includes/wlwmanifest.xml"> 
-<meta name="generator" content="WordPress 4.4.5">
-<meta name="generator" content="WooCommerce 2.4.10">
-<link rel="canonical" href="https://www.lackofcolor.com.au/privacy/">
-<link rel="shortlink" href="https://www.lackofcolor.com.au/?p=90033705">
-<link rel="alternate" type="application/json+oembed" href="https://www.lackofcolor.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lackofcolor.com.au%2Fprivacy%2F">
-<link rel="alternate" type="text/xml+oembed" href="https://www.lackofcolor.com.au/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.lackofcolor.com.au%2Fprivacy%2F&amp;format=xml">
-<!-- <meta name="NextGEN" version="2.1.15" /> -->
+<script>
+//<![CDATA[
+      (function() {
+        var s = document.createElement('script'); s.type = 'text/javascript'; s.async = true;
+        s.src = '//cdn.shopify.com/s/javascripts/shopify_stats.js?v=6';
+        var x = document.getElementsByTagName('script')[0]; x.parentNode.insertBefore(s, x);
+      })();
 
-<!--Plugin WP Overview (lite) 2011.0723.2011 Active-->
+//]]>
+</script>
+<meta id="shopify-digital-wallet" data-iframe-url="/15824359/digital_wallets/dialog">
+<script src="//cdn.shopify.com/s/assets/themes_support/ga_urchin_forms-668547562549a84f5dfa01ef82607987f85ecbe1c8301faf25059becfa208199.js" defer="defer"></script>
+      <script type="text/javascript">
+        
+      window.ShopifyAnalytics = window.ShopifyAnalytics || {};
+      window.ShopifyAnalytics.meta = window.ShopifyAnalytics.meta || {};
+      window.ShopifyAnalytics.meta.currency = 'AUD';
+      var meta = {};
+      for (var attr in meta) {
+        window.ShopifyAnalytics.meta[attr] = meta[attr];
+      }
+    
+      </script>
 
-<meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=no">
+      <script type="text/javascript">
+        window.ShopifyAnalytics.merchantGoogleAnalytics = function() {
+          
+        };
+      </script>
 
-<!--[if lt IE 9]>
-<script src="//oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
-<script src="//oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
-<![endif]-->
+      <script type="text/javascript" class="analytics">
+        (window.gaDevIds=window.gaDevIds||[]).push('BwiEti');
+        
 
-<!-- Google Tag Manager for WordPress by DuracellTomi -->
-<script type="text/javascript">
-	dataLayer.push({"pagePostType":"page","pagePostType2":"single-page","pagePostAuthor":"locadmin"});
-</script><script type="text/javascript" charset="utf-8" src="//d3rxaij56vjege.cloudfront.net/form-serialize/0.3/serialize.min.js"></script><script id="omapi-script" src="//a.optnmnstr.com/app/js/api.min.js"></script></head>
-<body class="page page-id-90033705 page-template-default">
-    <div class="wrapper">
-        <!--header-->        <section class="contain">
-            <div class="container">
-                <div class="row">
-                <div class="col-md-2 col-sm-3 hidden-xs ">
-	<h1 class="logo">
-		<a href="https://www.lackofcolor.com.au">
-			<img width="207" height="175" src="https://www.lackofcolor.com.au/wp-content/uploads/logo-207x2001-e1474609823537.png" class="attachment-size-207x200 size-size-207x200" alt="logo-207x2001">		</a> 
-	</h1>
-	<div class="menu clearfix">
-		<ul id="menu-left-sidebar-menu" class=""><li id="menu-item-90027478" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90027478 dropdown"><a href="https://www.lackofcolor.com.au/shop/">Shop</a>
-<ul role="menu" class=" dropdown-menu">
-	<li id="menu-item-90035120" class="new-collection menu-item menu-item-type-custom menu-item-object-custom menu-item-90035120"><a href="http://www.lackofcolor.com.au/product-category/sale/">Sale</a></li>
-	<li id="menu-item-90034347" class="new-collection menu-item menu-item-type-custom menu-item-object-custom menu-item-90034347"><a href="http://www.lackofcolor.com.au/product-category/new-collection/">New Collection</a></li>
-	<li id="menu-item-90027480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027480"><a href="http://www.lackofcolor.com.au/product-category/fedora-short-brim/">Fedora</a></li>
-	<li id="menu-item-90027481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027481"><a href="http://www.lackofcolor.com.au/product-category/boater/">Boater</a></li>
-	<li id="menu-item-90027486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027486"><a href="http://www.lackofcolor.com.au/product-category/luxe/">Luxe</a></li>
-	<li id="menu-item-90027487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027487"><a href="http://www.lackofcolor.com.au/product-category/mens/">Men’s</a></li>
-	<li id="menu-item-90027488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027488"><a href="http://www.lackofcolor.com.au/product-category/straw/">Straw</a></li>
-	<li id="menu-item-90027489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027489"><a href="http://www.lackofcolor.com.au/product-category/montana-wide-brim/">Montana</a></li>
-	<li id="menu-item-90027482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027482"><a href="http://www.lackofcolor.com.au/product-category/boxes/">Boxes</a></li>
-	<li id="menu-item-90029367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90029367"><a href="http://www.lackofcolor.com.au/product-category/vouchers/">Vouchers</a></li>
-</ul>
-</li>
-<li id="menu-item-90027491" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027491"><a href="https://www.lackofcolor.com.au/collections/">Collections</a></li>
-<li id="menu-item-90029396" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90029396"><a href="https://www.lackofcolor.com.au/shop-insta/">shop insta</a></li>
-<li id="menu-item-90027492" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027492"><a href="https://www.lackofcolor.com.au/sizing/">sizing</a></li>
-<li id="menu-item-90027493" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027493"><a href="https://www.lackofcolor.com.au/video/">video</a></li>
-<li id="menu-item-90027494" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027494"><a href="https://www.lackofcolor.com.au/blog/">Blog</a></li>
-<li id="menu-item-90027495" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027495"><a href="https://www.lackofcolor.com.au/press/">Press</a></li>
-</ul>	</div>
-</div>                   <div class="col-md-10 col-sm-9">
-                    <div class="rightcol">
-                      <div class="cart clearfix hidden-sm">
-    <ul>
- <li>
-		
-			
-		<div class="wcaiocc-switcher-dropdown wcaiocc-container">
-			<p class="wcaiocc-text">Choose your preferred currency</p> 
-			<select class="wcaiocc-select" name="wcaiocc_change_currency_code">
-				<option class="wcaiocc-option" value="AUD" selected="">AUD</option><option class="wcaiocc-option" value="USD">USD</option><option class="wcaiocc-option" value="GBP">GBP</option><option class="wcaiocc-option" value="EUR">EUR</option><option class="wcaiocc-option" value="JPY">JPY</option>			</select>
-		</div>
-		
-	</li>
-                <li class="account-dropdown">
-                            <a href="https://www.lackofcolor.com.au/my-account/">Login</a>
-                                      
-        </li>
-              
+        (function () {
+          var customDocumentWrite = function(content) {
+            var jquery = null;
 
-        <li class="cart-img">
-            <a href="https://www.lackofcolor.com.au/cart/">
-                <span>cart</span><strong><span class="amount">$0.00</span></strong>
-                <div class="cart-item-count">0</div>
-            </a> </li>
-        </ul>
+            if (window.jQuery) {
+              jquery = window.jQuery;
+            } else if (window.Checkout && window.Checkout.$) {
+              jquery = window.Checkout.$;
+            }
+
+            if (jquery) {
+              jquery('body').append(content);
+            }
+          };
+
+          var trekkie = window.ShopifyAnalytics.lib = window.trekkie = window.trekkie || [];
+          if (trekkie.integrations) {
+            return;
+          }
+          trekkie.methods = [
+            'identify',
+            'page',
+            'ready',
+            'track',
+            'trackForm',
+            'trackLink'
+          ];
+          trekkie.factory = function(method) {
+            return function() {
+              var args = Array.prototype.slice.call(arguments);
+              args.unshift(method);
+              trekkie.push(args);
+              return trekkie;
+            };
+          };
+          for (var i = 0; i < trekkie.methods.length; i++) {
+            var key = trekkie.methods[i];
+            trekkie[key] = trekkie.factory(key);
+          }
+          trekkie.load = function(config) {
+            trekkie.config = config;
+            var script = document.createElement('script');
+            script.type = 'text/javascript';
+            script.onerror = function(e) {
+              (new Image()).src = '//v.shopify.com/internal_errors/track?error=trekkie_load';
+            };
+            script.async = true;
+            script.src = 'https://cdn.shopify.com/s/javascripts/tricorder/trekkie.storefront.min.js?v=2017.02.14.1';
+            var first = document.getElementsByTagName('script')[0];
+            first.parentNode.insertBefore(script, first);
+          };
+          trekkie.load(
+            {"Trekkie":{"appName":"storefront","development":false,"defaultAttributes":{"shopId":15824359}},"Performance":{"navigationTimingApiMeasurementsEnabled":true,"navigationTimingApiMeasurementsSampleRate":0.1},"Google Analytics":{"trackingId":"UA-69461717-1","domain":"auto","siteSpeedSampleRate":"10","enhancedEcommerce":true,"doubleClick":true,"includeSearch":true},"Facebook Pixel":{"pixelIds":["926917620760913"],"agent":"plshopify1.2"}}
+          );
+
+          var loaded = false;
+          trekkie.ready(function() {
+            if (loaded) return;
+            loaded = true;
+
+            window.ShopifyAnalytics.lib = window.trekkie;
+            
+      ga('require', 'linker');
+      function addListener(element, type, callback) {
+        if (element.addEventListener) {
+          element.addEventListener(type, callback);
+        }
+        else if (element.attachEvent) {
+          element.attachEvent('on' + type, callback);
+        }
+      }
+      function decorate(event) {
+        event = event || window.event;
+        var target = event.target || event.srcElement;
+        if (target && (target.getAttribute('action') || target.getAttribute('href'))) {
+          ga(function (tracker) {
+            var linkerParam = tracker.get('linkerParam');
+            document.cookie = '_shopify_ga=' + linkerParam + '; ' + 'path=/';
+          });
+        }
+      }
+      addListener(window, 'load', function(){
+        for (var i=0; i < document.forms.length; i++) {
+          var action = document.forms[i].getAttribute('action');
+          if(action && action.indexOf('/cart') >= 0) {
+            addListener(document.forms[i], 'submit', decorate);
+          }
+        }
+        for (var i=0; i < document.links.length; i++) {
+          var href = document.links[i].getAttribute('href');
+          if(href && href.indexOf('/checkout') >= 0) {
+            addListener(document.links[i], 'click', decorate);
+          }
+        }
+      });
+    
+
+            var originalDocumentWrite = document.write;
+            document.write = customDocumentWrite;
+            try { window.ShopifyAnalytics.merchantGoogleAnalytics.call(this); } catch(error) {};
+            document.write = originalDocumentWrite;
+
+            
+        window.ShopifyAnalytics.lib.page(
+          null,
+          {"pageType":"page","resourceType":"page","resourceId":163627205}
+        );
+      
+            
+          });
+
+          
+      var eventsListenerScript = document.createElement('script');
+      eventsListenerScript.async = true;
+      eventsListenerScript.src = "//cdn.shopify.com/s/assets/shop_events_listener-4e845435421548920fb58bb05f3fd9d8c43b5f09166ad6f568589cf558d53147.js";
+      document.getElementsByTagName('head')[0].appendChild(eventsListenerScript);
+    
+        })();
+      </script><script async="" src="//cdn.shopify.com/s/assets/shop_events_listener-4e845435421548920fb58bb05f3fd9d8c43b5f09166ad6f568589cf558d53147.js"></script>
+    
+<script id="apple-pay-shop-capabilities" type="application/json">{"shopId":15824359,"countryCode":"AU","currencyCode":"AUD","merchantCapabilities":["supports3DS"],"merchantId":"gid:\/\/shopify\/Shop\/15824359","merchantName":"Lack of Color","requiredBillingContactFields":["postalAddress","email","phone"],"requiredShippingContactFields":["postalAddress","email","phone"],"shippingType":"shipping","supportedNetworks":["visa","masterCard","amex"]}</script>
+<script src="//cdn.shopify.com/s/assets/storefront/express_buttons-737e4d3dc3891f7fbde370cfeb730b04940b8105f4b4194adc4a5774d05a3456.js" defer="defer" crossorigin="anonymous" integrity="sha256-c35NPcOJH3+943DP63MLBJQLgQX0tBlK3EpXdNBaNFY="></script>
+
+<meta name="shopify-checkout-api-token" content="74222b2ee3a7fefbaffb1c124888ede2">
+<script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/compiled_assets/scripts.js?4837903990794906275" defer="defer" id="sections-script" data-sections="sidebar"></script>
+<link rel="stylesheet" media="screen" href="//cdn.shopify.com/s/files/1/1582/4359/t/1/compiled_assets/styles.css?4837903990794906275">
+<link rel="stylesheet" media="all" href="//cdn.shopify.com/s/assets/storefront/additional-checkout-buttons-e666b0b8a20c90d1eaafcc0f38897f2b4ab8af21f68426b37926e48a2ae452c2.css">
+<script type="text/javascript" charset="utf-8" src="//d3rxaij56vjege.cloudfront.net/form-serialize/0.3/serialize.min.js"></script><script id="omapi-script" src="//a.optnmnstr.com/app/js/api.min.js" async=""></script></head>
+
+<body class="template-page" ontouchstart="">
+
+  <a class="in-page-link visually-hidden skip-link" href="#MainContent">Skip to content</a>
+
+  <div id="SearchDrawer" class="search-bar drawer drawer--top">
+    <div class="search-bar__table">
+      <div class="search-bar__table-cell search-bar__form-wrapper">
+        <form class="search search-bar__form" action="/search" method="get" role="search">
+          <button class="search-bar__submit search__submit btn--link" type="submit">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+            <span class="icon__fallback-text">Submit</span>
+          </button>
+          <input class="search__input search-bar__input" type="search" name="q" value="" placeholder="Search" aria-label="Search">
+        </form>
+      </div>
+      <div class="search-bar__table-cell text-right">
+        <button type="button" class="btn--link search-bar__close js-drawer-close">
+          <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 37 40"><path d="M21.3 23l11-11c.8-.8.8-2 0-2.8-.8-.8-2-.8-2.8 0l-11 11-11-11c-.8-.8-2-.8-2.8 0-.8.8-.8 2 0 2.8l11 11-11 11c-.8.8-.8 2 0 2.8.4.4.9.6 1.4.6s1-.2 1.4-.6l11-11 11 11c.4.4.9.6 1.4.6s1-.2 1.4-.6c.8-.8.8-2 0-2.8l-11-11z"></path></svg>
+          <span class="icon__fallback-text">Close search</span>
+        </button>
+      </div>
     </div>
-    <div class="cart clearfix visible-sm">
-        <ul>
-                        <li class="account-dropdown">
-                                    <a href="https://www.lackofcolor.com.au/my-account/">Login</a>
-                                          
-            </li>
-                    <!-- <li>
-            	
-			
-		<div class="wcaiocc-switcher-dropdown wcaiocc-container">
-			<p class="wcaiocc-text">Choose your preferred currency</p> 
-			<select class="wcaiocc-select" name="wcaiocc_change_currency_code">
-				<option class="wcaiocc-option" value="AUD" selected>AUD</option><option class="wcaiocc-option" value="USD" >USD</option><option class="wcaiocc-option" value="GBP" >GBP</option><option class="wcaiocc-option" value="EUR" >EUR</option><option class="wcaiocc-option" value="JPY" >JPY</option>			</select>
-		</div>
-		
-	        </li> -->
-        <li class="cart-img"><a href="https://www.lackofcolor.com.au/cart/"><span>cart</span><strong><span class="amount">$0.00</span></strong>
-          <div class="cart-item-count">0</div>      
-      </a> </li>
-  </ul>
-</div>
-<div class="mobile-menu visible-xs clearfix">
-    <nav class="navbar navbar-default">
-        <div class="container-fluid">
-            <!-- Brand and toggle get grouped for better mobile display -->
-            <div class="navbar-header">
-                <a class="navbar-brand" href="https://www.lackofcolor.com.au"><img src="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/images/mobile-logo.png"></a>
-                <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-                    <span class="sr-only">Toggle navigation</span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                    <span class="icon-bar"></span>
-                </button>
-            </div>
+  </div>
+  
+  <section class="contain">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-2 col-sm-3 hidden-xs">
+          <div id="shopify-section-sidebar" class="shopify-section"><h1 class="logo">
+ <a href="https://lack-of-color.myshopify.com/">
+   <img width="207" height="175" src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/logo_loc.png?4837903990794906275" class="attachment-size-207x200 size-size-207x200" alt="logo-207x2001" data-pin-no-hover="true">
+ </a>
+</h1>
+<div id="sidebar-menu" class="menu clearfix">
+<ul>
+  <li class="menu-item menu-item-has-children dropdown"><a href="/collections/all/">shop</a>
+    <ul role="menu" class=" dropdown-menu">
+      <li id="menu-item-90035120" class="new-collection menu-item menu-item-type-custom menu-item-object-custom menu-item-90035120"><a href="/collections/sale/">Sale</a></li>
+      <li id="menu-item-90034347" class="new-collection menu-item menu-item-type-custom menu-item-object-custom menu-item-90034347"><a href="/collections/new-collection/">New Collection</a></li>
+      <li id="menu-item-90027480" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027480"><a href="/collections/fedora-short-brim/">Fedora</a></li>
+      <li id="menu-item-90027481" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027481"><a href="/collections/boater/">Boater</a></li>
+      <li id="menu-item-90027486" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027486"><a href="/collections/luxe/">Luxe</a></li>
+      <li id="menu-item-90027487" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027487"><a href="/collections/mens/">Men’s</a></li>
+      <li id="menu-item-90027488" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027488"><a href="/collections/straw/">Straw</a></li>
+      <li id="menu-item-90027489" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027489"><a href="/collections/montana-wide-brim/">Montana</a></li>
+      <li id="menu-item-90027482" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027482"><a href="/collections/boxes/">Boxes</a></li>
+      <li id="menu-item-90029367" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90029367"><a href="/collections/vouchers/">Vouchers</a></li>
+    </ul>
+  </li>
 
-            <!-- Collect the nav links, forms, and other content for toggling -->
-            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                <div class="menu clearfix">
-                    <ul>
-                        
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-90027478 dropdown"><a href="https://www.lackofcolor.com.au/shop/">Shop</a>
-<ul role="menu" class=" dropdown-menu">
-	<li class="new-collection menu-item menu-item-type-custom menu-item-object-custom menu-item-90035120"><a href="http://www.lackofcolor.com.au/product-category/sale/">Sale</a></li>
-	<li class="new-collection menu-item menu-item-type-custom menu-item-object-custom menu-item-90034347"><a href="http://www.lackofcolor.com.au/product-category/new-collection/">New Collection</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027480"><a href="http://www.lackofcolor.com.au/product-category/fedora-short-brim/">Fedora</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027481"><a href="http://www.lackofcolor.com.au/product-category/boater/">Boater</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027486"><a href="http://www.lackofcolor.com.au/product-category/luxe/">Luxe</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027487"><a href="http://www.lackofcolor.com.au/product-category/mens/">Men’s</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027488"><a href="http://www.lackofcolor.com.au/product-category/straw/">Straw</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027489"><a href="http://www.lackofcolor.com.au/product-category/montana-wide-brim/">Montana</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90027482"><a href="http://www.lackofcolor.com.au/product-category/boxes/">Boxes</a></li>
-	<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-90029367"><a href="http://www.lackofcolor.com.au/product-category/vouchers/">Vouchers</a></li>
+  
+      
+      
+          <li><a href="/blogs/collections">collections</a></li>
+      
+  
+      
+      
+          <li><a href="/pages/shop-insta">shop insta</a></li>
+      
+  
+      
+      
+          <li><a href="/pages/sizing">sizing</a></li>
+      
+  
+      
+      
+          <li><a href="/pages/video">video</a></li>
+      
+  
+      
+      
+          <li><a href="/blogs/lack-of-color">blog</a></li>
+      
+  
+      
+      
+          <li><a href="/blogs/press">press</a></li>
+      
+  
 </ul>
-</li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027491"><a href="https://www.lackofcolor.com.au/collections/">Collections</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90029396"><a href="https://www.lackofcolor.com.au/shop-insta/">shop insta</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027492"><a href="https://www.lackofcolor.com.au/sizing/">sizing</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027493"><a href="https://www.lackofcolor.com.au/video/">video</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027494"><a href="https://www.lackofcolor.com.au/blog/">Blog</a></li>
-<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027495"><a href="https://www.lackofcolor.com.au/press/">Press</a></li>
-                        <li><a href="#" id="close"><strong>Close X</strong></a> </li>
-                    </ul>
+</div>
+
+    
+
+
+
+
+
+</div>
+        </div>
+        <div class="col-md-10 col-sm-9">
+          <div class="">
+            <div id="shopify-section-header" class="shopify-section">
+
+<div data-section-id="header" data-section-type="header-section" style="position: relative;">
+  <nav class="mobile-nav-wrapper medium-up--hide" role="navigation" style="z-index: 999999999999999999;">
+    <ul id="MobileNav" class="mobile-nav">
+      
+  <li class="mobile-nav__item border-bottom">
+    <a href="/collections/all" class="mobile-nav__sublist-link mobile-nav__sublist-header" id="mobile-shop-expand">
+        shop
+    </a>
+    <button type="button" class="btn--link js-toggle-submenu mobile-nav__link" data-target="catalog" data-level="1" style="position: absolute;top: 12px;width: 0;right: 0;">
+      <div class="mobile-nav__icon">
+        <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-right" viewBox="0 0 284.49 498.98"><defs><style>.cls-1{fill:#231f20}</style></defs><path class="cls-1" d="M223.18 628.49a35 35 0 0 1-24.75-59.75L388.17 379 198.43 189.26a35 35 0 0 1 49.5-49.5l214.49 214.49a35 35 0 0 1 0 49.5L247.93 618.24a34.89 34.89 0 0 1-24.75 10.25z" transform="translate(-188.18 -129.51)"></path></svg>
+        <span class="icon__fallback-text">expand</span>
+      </div>
+    </button>
+    <ul class="mobile-nav__dropdown" data-parent="catalog" data-level="2">
+      <li class="mobile-nav__item border-bottom">
+        <div class="mobile-nav__table">
+          <div class="mobile-nav__table-cell mobile-nav__return">
+            <button class="btn--link js-toggle-submenu mobile-nav__return-btn" type="button">
+              <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-chevron-left" viewBox="0 0 284.49 498.98"><defs><style>.cls-1{fill:#231f20}</style></defs><path class="cls-1" d="M437.67 129.51a35 35 0 0 1 24.75 59.75L272.67 379l189.75 189.74a35 35 0 1 1-49.5 49.5L198.43 403.75a35 35 0 0 1 0-49.5l214.49-214.49a34.89 34.89 0 0 1 24.75-10.25z" transform="translate(-188.18 -129.51)"></path></svg>
+              <span class="icon__fallback-text">collapse</span>
+            </button>
+          </div>
+          <a href="/collections/all" class="mobile-nav__sublist-link mobile-nav__sublist-header">
+            shop
+          </a>
+        </div>
+      </li>
+      <li class="mobile-nav__item border-bottom">
+        <a href="/collections/sale/" class="mobile-nav__sublist-link">
+          sale
+        </a>
+      </li>
+      <li class="mobile-nav__item border-bottom">
+        <a href="/collections/new-collection/" class="mobile-nav__sublist-link">
+          new collection
+        </a>
+      </li>
+      <li class="mobile-nav__item border-bottom">
+        <a href="/collections/fedora-short-brim/" class="mobile-nav__sublist-link">
+          fedora
+        </a>
+      </li>
+      <li class="mobile-nav__item border-bottom">
+        <a href="/collections/boater/" class="mobile-nav__sublist-link">
+          boater
+        </a>
+      </li>
+      <li class="mobile-nav__item border-bottom">
+        <a href="/collections/luxe/" class="mobile-nav__sublist-link">
+          luxe
+        </a>
+      </li>
+      <li class="mobile-nav__item border-bottom">
+        <a href="/collections/mens/" class="mobile-nav__sublist-link">
+          men's
+        </a>
+      </li>
+      <li class="mobile-nav__item border-bottom">
+        <a href="/collections/straw/" class="mobile-nav__sublist-link">
+          straw
+        </a>
+      </li>
+      <li class="mobile-nav__item border-bottom">
+        <a href="/collections/montana-wide-brim/" class="mobile-nav__sublist-link">
+          montana
+        </a>
+      </li>
+      <li class="mobile-nav__item border-bottom">
+        <a href="/collections/boxes/" class="mobile-nav__sublist-link">
+          boxes
+        </a>
+      </li>
+      <li class="mobile-nav__item">
+        <a href="/collections/vouchers/" class="mobile-nav__sublist-link">
+          vouchers
+        </a>
+      </li>
+    </ul>
+  </li>
+
+      
+<li class="mobile-nav__item border-bottom">
+          
+            <a href="/blogs/collections" class="mobile-nav__link">
+              collections
+            </a>
+          
+        </li>
+      
+<li class="mobile-nav__item border-bottom">
+          
+            <a href="/pages/shop-insta" class="mobile-nav__link">
+              shop insta
+            </a>
+          
+        </li>
+      
+<li class="mobile-nav__item border-bottom">
+          
+            <a href="/pages/sizing" class="mobile-nav__link">
+              sizing
+            </a>
+          
+        </li>
+      
+<li class="mobile-nav__item border-bottom">
+          
+            <a href="/pages/video" class="mobile-nav__link">
+              video
+            </a>
+          
+        </li>
+      
+<li class="mobile-nav__item border-bottom">
+          
+            <a href="/blogs/lack-of-color" class="mobile-nav__link">
+              blog
+            </a>
+          
+        </li>
+      
+<li class="mobile-nav__item">
+          
+            <a href="/blogs/press" class="mobile-nav__link">
+              press
+            </a>
+          
+        </li>
+      
+    </ul>
+  </nav>
+
+  
+
+  <header class="site-header border-bottom logo--left" role="banner">
+    <div class="grid grid--no-gutters grid--table">
+      
+
+      
+
+      <div class="grid__item small--one-half medium-up--one-quarter logo-align--left">
+        
+        
+          <div class="h2 site-header__logo" itemscope="" itemtype="http://schema.org/Organization">
+        
+          
+            <a href="/" itemprop="url" class="site-header__logo-image">
+              
+              <img src="//cdn.shopify.com/s/files/1/1582/4359/files/logo-207x2001-e1474609823537_1_100x.png?v=1480295731" srcset="//cdn.shopify.com/s/files/1/1582/4359/files/logo-207x2001-e1474609823537_1_100x.png?v=1480295731 1x, //cdn.shopify.com/s/files/1/1582/4359/files/logo-207x2001-e1474609823537_1_100x@2x.png?v=1480295731 2x" alt="Lack of Color" itemprop="logo">
+            </a>
+          
+        
+          </div>
+        
+      </div>
+
+      
+        <nav class="grid__item medium-up--one-quarter small--hide" id="AccessibleNav" role="navigation">
+          <ul class="site-nav list--inline " id="SiteNav">
+  
+</ul>
+
+        </nav>
+      
+
+      <div class="grid__item small--one-half medium-up--one-half text-right site-header__icons">        
+        
+        <div class="site-header__icons-wrapper">
+                  
+          
+          	
+          		
+                    <div class="site-header__search small--hide" style="padding-right: 200px;">
+                
+                  <form action="/search" method="get" class="search-header search" role="search">
+  <input class="search-header__input search__input" type="search" name="q" placeholder="Search" aria-label="Search">
+  <button class="search-header__submit search__submit btn--link" type="submit">
+    <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+    <span class="icon__fallback-text">Submit</span>
+  </button>
+</form>
+
                 </div>
-            </div><!-- /.navbar-collapse -->
-        </div><!-- /.container-fluid -->
-    </nav>
-</div>                        <div class="clearfix"></div>
-                        <div class="standard-page">
-                            <div class="standard-title">
-                            <h3>Privacy</h3>
-                            </div>
-                            <h2><strong>Our Privacy Policy and Credit Reporting Privacy Policy</strong></h2>
-<p>At Lack of Color it is important to us that we manage your personal information securely and consistently with relevant legislation, including the <em>Privacy Act 1988</em> (Cth) (‘<strong>Privacy Act</strong>’) as well as the Credit Reporting Privacy Code (where applicable).</p>
-<p>This Policy outlines how BLACK MONTANA PTY LTD ACN 166 972 587 trading as Lack of Color and related companies (“we / us”) collect, disclose, use, store or otherwise handle personal information.</p>
-<p>This Policy explains:</p>
+          	           
+          
+
+          <button type="button" class="btn--link site-header__search-toggle js-drawer-open-top medium-up--hide">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-search" viewBox="0 0 37 40"><path d="M35.6 36l-9.8-9.8c4.1-5.4 3.6-13.2-1.3-18.1-5.4-5.4-14.2-5.4-19.7 0-5.4 5.4-5.4 14.2 0 19.7 2.6 2.6 6.1 4.1 9.8 4.1 3 0 5.9-1 8.3-2.8l9.8 9.8c.4.4.9.6 1.4.6s1-.2 1.4-.6c.9-.9.9-2.1.1-2.9zm-20.9-8.2c-2.6 0-5.1-1-7-2.9-3.9-3.9-3.9-10.1 0-14C9.6 9 12.2 8 14.7 8s5.1 1 7 2.9c3.9 3.9 3.9 10.1 0 14-1.9 1.9-4.4 2.9-7 2.9z"></path></svg>
+            <span class="icon__fallback-text">Search</span>
+          </button>
+          
+          
+    
+        <label class="currency-picker__wrapper" style="right: 110px;">
+    
+       
+  <select class="currency-picker" name="currencies" style="display: inline; width: auto; vertical-align: inherit;border: none;" onchange="currencyChange(this);">
+  
+  
+  <option value="AUD" selected="selected">AUD</option>
+  
+    
+    <option value="INR">INR</option>
+    
+  
+    
+    <option value="GBP">GBP</option>
+    
+  
+    
+    <option value="CAD">CAD</option>
+    
+  
+    
+    <option value="USD">USD</option>
+    
+  
+    
+  
+    
+    <option value="EUR">EUR</option>
+    
+  
+    
+    <option value="JPY">JPY</option>
+    
+  
+  </select>
+</label>
+          
+          
+          
+          	
+          		<a href="/account" class="site-header__cart site-header-login" style="right: 40px;">login</a>
+          	     		
+          
+          
+          
+                  
+          
+
+          <a href="/cart" class="site-header__cart">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-cart" viewBox="0 0 37 40"><path d="M36.5 34.8L33.3 8h-5.9C26.7 3.9 23 .8 18.5.8S10.3 3.9 9.6 8H3.7L.5 34.8c-.2 1.5.4 2.4.9 3 .5.5 1.4 1.2 3.1 1.2h28c1.3 0 2.4-.4 3.1-1.3.7-.7 1-1.8.9-2.9zm-18-30c2.2 0 4.1 1.4 4.7 3.2h-9.5c.7-1.9 2.6-3.2 4.8-3.2zM4.5 35l2.8-23h2.2v3c0 1.1.9 2 2 2s2-.9 2-2v-3h10v3c0 1.1.9 2 2 2s2-.9 2-2v-3h2.2l2.8 23h-28z"></path></svg>
+            <span class="visually-hidden">Cart</span>
+            <span class="icon__fallback-text">Cart</span>
+            
+          </a>
+
+
+          <button type="button" class="btn--link site-header__menu js-mobile-nav-toggle mobile-nav--open tablet-nav-toggle">
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-hamburger" viewBox="0 0 37 40"><path d="M33.5 25h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0-11.5h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2zm0 23h-30c-1.1 0-2-.9-2-2s.9-2 2-2h30c1.1 0 2 .9 2 2s-.9 2-2 2z"></path></svg>
+            <svg aria-hidden="true" focusable="false" role="presentation" class="icon icon-close" viewBox="0 0 37 40"><path d="M21.3 23l11-11c.8-.8.8-2 0-2.8-.8-.8-2-.8-2.8 0l-11 11-11-11c-.8-.8-2-.8-2.8 0-.8.8-.8 2 0 2.8l11 11-11 11c-.8.8-.8 2 0 2.8.4.4.9.6 1.4.6s1-.2 1.4-.6l11-11 11 11c.4.4.9.6 1.4.6s1-.2 1.4-.6c.8-.8.8-2 0-2.8l-11-11z"></path></svg>
+            <span class="icon__fallback-text">expand/collapse</span>
+          </button>
+        </div>
+
+      </div>
+    </div>
+  </header>
+
+  
+  <style>
+    
+      .site-header__logo-image {
+        max-width: 100px;
+      }
+    
+
+    
+      .site-header__logo-image {
+        margin: 0;
+      }
+    
+  </style>
+</div>
+
+
+</div>
+<!--             <div class="page-container" id="PageContainer"> -->
+            <div class="page-container">
+              <main class="main-content" id="MainContent" role="main">
+                
+	
+	<div class="page-width mobile-no-padding">
+      <div class="grid mobile-no-margin">
+        <div class="grid__item medium-up--five-sixths medium-up--push-one-twelfth mobile-no-padding">
+          <div class="section-header text-center">
+            <h1>Privacy</h1>
+          </div>
+
+          <div class="rte">
+            <h2><strong>Our Privacy Policy and Credit Reporting Privacy Policy</strong></h2>
+<p>At Lack of Color it is important to us that we manage your personal information securely and consistently with relevant legislation, including the <em>Privacy Act 1988</em> (Cth) (‘<strong>Privacy Act</strong>’) as well as the Credit Reporting Privacy Code (where applicable). This Policy outlines how BLACK MONTANA PTY LTD ACN 166 972 587 trading as Lack of Color and related companies (“we / us”) collect, disclose, use, store or otherwise handle personal information. This Policy explains:</p>
 <ul>
 <li>The kinds of personal information (including credit-related information) we collect, and the purposes for which we do that;</li>
 <li>How we manage the personal information that we collect about you;</li>
@@ -244,125 +709,78 @@ var wcaiocc_vars_data = {"ajaxurl":"https:\/\/www.lackofcolor.com.au\/wp-admin\/
 </ul>
 <p>This Policy is not limited to current customers but to all individuals who deal with us.</p>
 <ol>
-<li><strong>APPLICATION OF THIS PRIVACY POLICY</strong>
+<li>
+<strong>APPLICATION OF THIS PRIVACY POLICY</strong>
 <ol>
 <li>Lack of Color is an Australian registered company selling products, mainly hats and accessories. Our products are available online to individuals, retail and wholesale customers.</li>
 <li>We respect your personal information, and this Privacy Policy explains how we manage it. This Privacy Policy covers Lack of Color and all of its related companies.</li>
 <li>Notwithstanding any references or specific examples in this Privacy Policy, those examples are not to be taken as an exhaustive list of personal information collected by us.</li>
 </ol>
 </li>
-<li><strong>WHAT WE DO</strong>
+<li>
+<strong>WHAT WE DO</strong>
 <ol>
 <li>We sell hats and other accessories online to Australian and international customers. We also enter into wholesale arrangements across the world.</li>
-<li>Examples of our current services where we might collect personal or sensitive information include:<br>
-(a) Through accessing and using out website;<br>
-(b) Creating an account with us online;<br>
-(c) Processing your order and request/s for products and/or services;<br>
-(d) Considering your eligibility for our products and/or services;<br>
-(e) If you enter into any one of our contests;<br>
-(f) If you connect with us via a social network, this includes but not limited to the following:<br>
-(i) Facebook;<br>
-(ii) Instagram; and<br>
-(iii) Pinterest;<br>
-(g) When you complete a customer survey or send us feedback;<br>
-(h) During conversations between you and our representatives;<br>
-(i) Administering your account including requests and the provision of products and/or services;<br>
-(j) Providing reports on your product and/or services activities as requested by you;<br>
-(k) Delivering products and/or services to you via the post where our employees and/or a Service Provider will need to know at a minimum your name and address in order to deliver the services and products; and<br>
-(l) Letting you know of special offers or discounts from us or our partner organisations that are available to you.
-</li>
+<li>Examples of our current services where we might collect personal or sensitive information include: (a) Through accessing and using out website; (b) Creating an account with us online; (c) Processing your order and request/s for products and/or services; (d) Considering your eligibility for our products and/or services; (e) If you enter into any one of our contests; (f) If you connect with us via a social network, this includes but not limited to the following: (i) Facebook; (ii) Instagram; and (iii) Pinterest; (g) When you complete a customer survey or send us feedback; (h) During conversations between you and our representatives; (i) Administering your account including requests and the provision of products and/or services; (j) Providing reports on your product and/or services activities as requested by you; (k) Delivering products and/or services to you via the post where our employees and/or a Service Provider will need to know at a minimum your name and address in order to deliver the services and products; and (l) Letting you know of special offers or discounts from us or our partner organisations that are available to you.</li>
 </ol>
 </li>
-<li><strong>WHY WE COLLECT AND USE PERSONAL INFORMATION</strong>
+<li>
+<strong>WHY WE COLLECT AND USE PERSONAL INFORMATION</strong>
 <ol>
-<li>At Lack of Color we take your personal privacy seriously. We may collect personal information about you:<br>
-(a) because you have provided it directly to us, for instance contact details, date of birth, and credit card numbers or bank account details;<br>
-(b) to provide a service that you have requested such as providing details to another company for the allocation of reward or credit points;<br>
-(c) to process your application to Lack of Color and/or request for services;<br>
-(d) to provide you with the most appropriate services for your needs;<br>
-(e) to improve our services, for instance, through the collection and analysis of statistical and research data and use of cookies;<br>
-(f) because you work for us;<br>
-(g) for purposes directly related to any of the above and any of our services;<br>
-(h) to provide follow-up on information regarding Lack of Color, including responding to comments or questions or providing our services to you;<br>
-(i) to meet any requirements of government funding for programs including receiving, collecting and collating de-identified statistical information;<br>
-(j) to monitor and evaluate existing services and plan for future services; and<br>
-(k) if we are required to share your information with government or regulatory bodies, as required or authorised by law.</li>
-<li>We only use your personal and sensitive information for purposes which are directly related to the reason you provided us with your information in the first place and where you would reasonably expect us to use your information. This may include sharing your personal or sensitive information with Service Providers.<br>
-3.3 We may share your information with government or regulatory bodies (such as the Australian Tax Office and ASIC) as required or authorised by law. These agencies may also share this information with organisations or agencies outside Australia.</li>
+<li>At Lack of Color we take your personal privacy seriously. We may collect personal information about you: (a) because you have provided it directly to us, for instance contact details, date of birth, and credit card numbers or bank account details; (b) to provide a service that you have requested such as providing details to another company for the allocation of reward or credit points; (c) to process your application to Lack of Color and/or request for services; (d) to provide you with the most appropriate services for your needs; (e) to improve our services, for instance, through the collection and analysis of statistical and research data and use of cookies; (f) because you work for us; (g) for purposes directly related to any of the above and any of our services; (h) to provide follow-up on information regarding Lack of Color, including responding to comments or questions or providing our services to you; (i) to meet any requirements of government funding for programs including receiving, collecting and collating de-identified statistical information; (j) to monitor and evaluate existing services and plan for future services; and (k) if we are required to share your information with government or regulatory bodies, as required or authorised by law.</li>
+<li>We only use your personal and sensitive information for purposes which are directly related to the reason you provided us with your information in the first place and where you would reasonably expect us to use your information. This may include sharing your personal or sensitive information with Service Providers. 3.3 We may share your information with government or regulatory bodies (such as the Australian Tax Office and ASIC) as required or authorised by law. These agencies may also share this information with organisations or agencies outside Australia.</li>
 </ol>
 </li>
-<li><strong>HOW WE COLLECT INFORMATION</strong>
+<li>
+<strong>HOW WE COLLECT INFORMATION</strong>
 <ol>
-<li>Whenever possible, we will collect personal information directly from you unless unreasonable or impractical for us to do so. Lack of Color may also collect personal information in a variety of ways, including but not limited to when you:<br>
-(a) use our website;<br>
-(b) connect with us via social network;<br>
-(c) phone us;<br>
-(d) write to us;<br>
-(e) email us;<br>
-(f) visit us in person ;<br>
-(g) through the use of our services;<br>
-(h) provide feedback to us; and<br>
-(i) purchase or use our products and/or services.</li>
+<li>Whenever possible, we will collect personal information directly from you unless unreasonable or impractical for us to do so. Lack of Color may also collect personal information in a variety of ways, including but not limited to when you: (a) use our website; (b) connect with us via social network; (c) phone us; (d) write to us; (e) email us; (f) visit us in person ; (g) through the use of our services; (h) provide feedback to us; and (i) purchase or use our products and/or services.</li>
 <li>There are certain instances in which we will collect information about you from third parties where it is unreasonable or impracticable to collect it directly from you. For example, we may collect information about you from a business which provides information about commercial credit worthiness for the purpose of assessing your application.</li>
 </ol>
 </li>
-<li><strong>DISCLOSURE OF PERSONAL INFORMATION</strong>
+<li>
+<strong>DISCLOSURE OF PERSONAL INFORMATION</strong>
 <ol>
-<li><strong>Disclosure of personal information to third parties</strong><br>
-We will not disclose your personal information to another person unless you have given consent or if one of the exceptions under the Privacy Act applies.<br>
-Where possible, the information that could reasonably identify you as an individual is first removed.</li>
-<li><strong>Exceptions</strong><br>
-Except as set out above, Lack of Color will not disclose your information to a third party unless one or more of the following applies:<br>
-(a) you have given your consent for us to do so;<br>
-(b) you would reasonably expect us to use or give that information for another purpose related to the purpose for which it was collected (or in the case of sensitive information – directly related to the purpose for which it was collected);<br>
-(c) it is otherwise required or authorised by law;<br>
-(d) it will prevent or lessen a serious threat to somebody’s life, health or safety or to public health or safety<br>
-(e) it is reasonably necessary for us to take appropriate action in relation to suspected unlawful activity, or misconduct of a serious nature that relates to our functions or activities;<br>
-(f) it is reasonably necessary for the enforcement of a law conducted by an enforcement body.</li>
-
-<li><strong>Examples of disclosure</strong><br>
-(a) Customer Records<br>
-Lack of Color maintains records of all customers including financial information which may need to be shared with financial institutions, government or regulatory bodies from time to time.<br>
-(b) Events<br>
-When you sign up for any of Lack of Color’s events, we may release a copy of the delegates list for the event to event sponsors for the purpose of further promotion. Delegates will be given the option to withhold their consent to have their details disclosed in this manner at any time and as set out in this Privacy Policy.<br>
-(c) Product Delivery<br>
-Our products may be delivered to you by a third party courier organisation. In order to deliver these products we will have to disclose your name, address and, in some circumstances (such as with dangerous or hazardous materials), the nature or contents of the package.
-</li>
+<li>
+<strong>Disclosure of personal information to third parties</strong> We will not disclose your personal information to another person unless you have given consent or if one of the exceptions under the Privacy Act applies. Where possible, the information that could reasonably identify you as an individual is first removed.</li>
+<li>
+<strong>Exceptions</strong> Except as set out above, Lack of Color will not disclose your information to a third party unless one or more of the following applies: (a) you have given your consent for us to do so; (b) you would reasonably expect us to use or give that information for another purpose related to the purpose for which it was collected (or in the case of sensitive information – directly related to the purpose for which it was collected); (c) it is otherwise required or authorised by law; (d) it will prevent or lessen a serious threat to somebody’s life, health or safety or to public health or safety (e) it is reasonably necessary for us to take appropriate action in relation to suspected unlawful activity, or misconduct of a serious nature that relates to our functions or activities; (f) it is reasonably necessary for the enforcement of a law conducted by an enforcement body.</li>
 </ol>
 </li>
-<li><strong>DISCLOSURE OF INFORMATION TO THIRD PARTIES OVERSEAS</strong>
+<li>
+<strong>Examples of disclosure</strong> (a) Customer Records Lack of Color maintains records of all customers including financial information which may need to be shared with financial institutions, government or regulatory bodies from time to time. (b) Events When you sign up for any of Lack of Color’s events, we may release a copy of the delegates list for the event to event sponsors for the purpose of further promotion. Delegates will be given the option to withhold their consent to have their details disclosed in this manner at any time and as set out in this Privacy Policy. (c) Product Delivery Our products may be delivered to you by a third party courier organisation. In order to deliver these products we will have to disclose your name, address and, in some circumstances (such as with dangerous or hazardous materials), the nature or contents of the package.</li>
+</ol>
+<li>
+<strong>DISCLOSURE OF INFORMATION TO THIRD PARTIES OVERSEAS</strong>
 <ol>
-<li> We may disclose personal information to overseas based organisations or agencies in the provision and/or administration of your account. We undertake to protect your personal information by ensuring the country of the overseas based organisation or agency has similar protections in relation to privacy, or that we enter into contractual arrangements with the organisation or agency to ensure the protection of your privacy.</li>
+<li>We may disclose personal information to overseas based organisations or agencies in the provision and/or administration of your account. We undertake to protect your personal information by ensuring the country of the overseas based organisation or agency has similar protections in relation to privacy, or that we enter into contractual arrangements with the organisation or agency to ensure the protection of your privacy.</li>
 </ol>
 </li>
-<li><strong>CAN I REMAIN ANONYMOUS?</strong>
+<li>
+<strong>CAN I REMAIN ANONYMOUS?</strong>
 <ol>
 <li>It is your choice to provide information to us. Wherever it is lawful and practicable, you have the option not to identify yourself or to use a fictional name when interacting with us. You can remain anonymous when using some parts of our website, or sites administered by us.</li>
-<li>It may be necessary for us to collect your personal or sensitive information if you would like certain products or services. If you choose to withhold the information we require, we may not be able to provide you the products or services you have requested.<!--?li-->
-</li></ol>
+<li>It may be necessary for us to collect your personal or sensitive information if you would like certain products or services. If you choose to withhold the information we require, we may not be able to provide you the products or services you have requested.&lt;?li&gt;</li>
+</ol>
 </li>
-<li><strong>SECURITY AND STORAGE OF YOUR INFORMATION</strong>
+<li>
+<strong>SECURITY AND STORAGE OF YOUR INFORMATION</strong>
 <ol>
 <li>We store your information in a number of ways including physically (such as in paper form) or electronically with third party data storage providers. Your privacy and the security of your information is very important to us so where we store your information with third party providers, we will enter into contractual arrangements with those providers to ensure they take appropriate measures to protect your information.</li>
-<li>We take appropriate steps to protect your personal and sensitive information held by us from misuse, interference, unauthorised access, modification, loss or disclosure. This includes during storage, collection, processing and transfer and destruction of the information. These steps include but are not limited to:<br>
-(a) ensuring our computer systems and websites have security systems in place such as up to date firewall and data encryption;<br>
-(b) maintaining security systems and monitoring of our premises;<br>
-(c) implementing confidentiality agreements with our employees and contractors, sub-contractors ,service providers and their agents;<br>
-(d) requiring all employees and contractors who handle, deal or work with personal or sensitive information in the course of their duties with us to undergo training on our Privacy Policy and procedures and information and data storage management, before undertaking those duties;<br>
-(e) maintaining document storage security policies and procedures; and<br>
-(f) implementing verification procedures for all inquiries/transactions to ensure only authorised people can access personal information.</li>
+<li>We take appropriate steps to protect your personal and sensitive information held by us from misuse, interference, unauthorised access, modification, loss or disclosure. This includes during storage, collection, processing and transfer and destruction of the information. These steps include but are not limited to: (a) ensuring our computer systems and websites have security systems in place such as up to date firewall and data encryption; (b) maintaining security systems and monitoring of our premises; (c) implementing confidentiality agreements with our employees and contractors, sub-contractors ,service providers and their agents; (d) requiring all employees and contractors who handle, deal or work with personal or sensitive information in the course of their duties with us to undergo training on our Privacy Policy and procedures and information and data storage management, before undertaking those duties; (e) maintaining document storage security policies and procedures; and (f) implementing verification procedures for all inquiries/transactions to ensure only authorised people can access personal information.</li>
 <li>Our website may contain links to external websites. We recommend that you review the privacy policies of those external websites as we are not responsible for their privacy practices.</li>
 </ol>
 </li>
-<li><strong>HOW TO ACCESS AND CORRECT YOUR INFORMATION</strong>
+<li>
+<strong>HOW TO ACCESS AND CORRECT YOUR INFORMATION</strong>
 <ol>
-<li> We will take reasonable steps to ensure that all personal information we collect, use or disclose is accurate, up-to-date, complete, relevant, and not misleading.</li>
-<li>We will correct any personal information that we believe to be incorrect, out-of-date, incomplete, irrelevant or misleading. This may include taking reasonable steps to notify any organisation or government agency to which information was disclosed about the correction. You may request to access or correct your personal information at any time by contacting the Privacy Officer using the contact details below. We will give you access to your information unless one of the exceptions under the Privacy Act applies. For example, if providing access would be unlawful or denying access is authorised by law.
-</li>
+<li>We will take reasonable steps to ensure that all personal information we collect, use or disclose is accurate, up-to-date, complete, relevant, and not misleading.</li>
+<li>We will correct any personal information that we believe to be incorrect, out-of-date, incomplete, irrelevant or misleading. This may include taking reasonable steps to notify any organisation or government agency to which information was disclosed about the correction. You may request to access or correct your personal information at any time by contacting the Privacy Officer using the contact details below. We will give you access to your information unless one of the exceptions under the Privacy Act applies. For example, if providing access would be unlawful or denying access is authorised by law.</li>
 <li>If you request to access or correct your information, we will respond within a reasonable time (usually within 30 days). If your request is refused, we will give you a written notice that sets out the reasons for refusal and how to complain about the decision.</li>
 </ol>
 </li>
-<li><strong>DIRECT COMMUNICATIONS AND PROMOTIONAL MATERIALS</strong>
+<li>
+<strong>DIRECT COMMUNICATIONS AND PROMOTIONAL MATERIALS</strong>
 <ol>
 <li>From time to time, we may send out promotional materials and information from government departments or other third parties.</li>
 <li>If you do not wish to receive these communications, please contact us to unsubscribe from that mailing list.</li>
@@ -370,80 +788,60 @@ Our products may be delivered to you by a third party courier organisation. In o
 <li>It is our policy that any direct communications or promotional material will include a statement advising that you can request to not receive further material from us by contacting us using the details provided. Please note that if you choose this option this will also prevent you receiving offers of discounts and notices of upcoming sales as well as all promotional and informational materials.</li>
 </ol>
 </li>
-<li><strong>COOKIES</strong>
+<li>
+<strong>COOKIES</strong>
 <ol>
-<li>The Lack of Color website and sites administered by us use software known as ‘cookies’ to record your visit to the website and collect some statistical information. We use this information to help administer and improve our websites. We do not use this information to personally identify you. Information we may collect includes:<br>
-(a) your computer’s IP address;<br>
-(b) your domain name;<br>
-(c) the date and time or access to the website;<br>
-(d) pages accessed and documents downloaded;<br>
-(e) the previous site visited;<br>
-(f) if you have visited the website before; and<br>
-(g) the type of browser software in use.</li>
+<li>The Lack of Color website and sites administered by us use software known as ‘cookies’ to record your visit to the website and collect some statistical information. We use this information to help administer and improve our websites. We do not use this information to personally identify you. Information we may collect includes: (a) your computer’s IP address; (b) your domain name; (c) the date and time or access to the website; (d) pages accessed and documents downloaded; (e) the previous site visited; (f) if you have visited the website before; and (g) the type of browser software in use.</li>
 <li>You may set your browser to disable cookies when visiting our websites. However, some website functions may be unavailable if you choose to do so.</li>
 </ol>
 </li>
-<li><strong>CREDIT REPORTING</strong>
+<li>
+<strong>CREDIT REPORTING</strong>
 <ol>
-<li>We are governed by the Australian Privacy Principles (‘APPs’) under the Privacy Act 1988 (‘the Privacy Act’). In our interactions with you, we also comply with Credit Reporting Privacy Code requirements. These set out the way organisations and government agencies can collect and use, disclose and provide access to personal and sensitive information.<br>
-(a) <strong>Personal information</strong> is information that identifies or could identify a person, whether it is true or not. It may include, for example, your name, age, gender, contact details, bank account details and financial information.<br>
-b) <strong>Sensitive information</strong> as defined by the Privacy Act (as amended) is also personal information but relates to your opinions, views, racial or ethnic origin, political options or affiliations, religious beliefs, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices or criminal record or health, genetic, biometric information or biometric templates.<br>
-(c) <strong>Credit Information</strong> as defined in the Privacy Act is personal information about an individual (other than sensitive information) relating primarily to your credit-related dealings which can be disclosed to Credit Reporting Bodies (‘<strong>CRBs</strong>’) that report on consumer credit worthiness and includes:<br>
-i. identification information about the individual; or<br>
-ii. consumer credit liability information about the individual; or<br>
-iii. repayment history information about the individual; or<br>
-iv. a statement that an information request has been made in relation to the individual by a credit provider, mortgage insurer or trade insurer; or<br>
-v. the type of consumer credit or commercial credit, and the amount of credit, sought in an application:<br>
-a. that has been made by the individual to a credit provider; and<br>
-b. in connection with which the provider has made an information request in relation to the individual; or<br>
-vi. default information about the individual; or<br>
-vii. payment information about the individual; or<br>
-viii. new arrangement information about the individual; or<br>
-ix. court proceedings information about the individual; or<br>
-x. personal insolvency information about the individual; or<br>
-xi. publicly available information about the individual:<br>
-a. that relates to the individual’s activities in Australia or the external Territories and the individual’s credit worthiness; and<br>
-b. that is not court proceedings information about the individual or information about the individual that is entered or recorded on the National Personal Insolvency Index; or<br>
-xii. the opinion of a credit provider that the individual has committed, in circumstances specified by the provider, a serious credit infringement in relation to consumer credit provided by the provider to the individual.<br>
-(d) <strong>Credit Eligibility</strong> Information provided to us by CRBs, so it may also include information about your credit related dealings with other credit providers. CEI also includes any credit worthiness information that we derive from the data from a credit reporting body, for example credit ratings, scores and evaluations about you and your credit worthiness.
-</li>
+<li>We are governed by the Australian Privacy Principles (‘APPs’) under the Privacy Act 1988 (‘the Privacy Act’). In our interactions with you, we also comply with Credit Reporting Privacy Code requirements. These set out the way organisations and government agencies can collect and use, disclose and provide access to personal and sensitive information. (a) <strong>Personal information</strong> is information that identifies or could identify a person, whether it is true or not. It may include, for example, your name, age, gender, contact details, bank account details and financial information. b) <strong>Sensitive information</strong> as defined by the Privacy Act (as amended) is also personal information but relates to your opinions, views, racial or ethnic origin, political options or affiliations, religious beliefs, philosophical beliefs, membership of a professional or trade association, membership of a trade union, sexual preferences or practices or criminal record or health, genetic, biometric information or biometric templates. (c) <strong>Credit Information</strong> as defined in the Privacy Act is personal information about an individual (other than sensitive information) relating primarily to your credit-related dealings which can be disclosed to Credit Reporting Bodies (‘<strong>CRBs</strong>’) that report on consumer credit worthiness and includes: i. identification information about the individual; or ii. consumer credit liability information about the individual; or iii. repayment history information about the individual; or iv. a statement that an information request has been made in relation to the individual by a credit provider, mortgage insurer or trade insurer; or v. the type of consumer credit or commercial credit, and the amount of credit, sought in an application: a. that has been made by the individual to a credit provider; and b. in connection with which the provider has made an information request in relation to the individual; or vi. default information about the individual; or vii. payment information about the individual; or viii. new arrangement information about the individual; or ix. court proceedings information about the individual; or x. personal insolvency information about the individual; or xi. publicly available information about the individual: a. that relates to the individual’s activities in Australia or the external Territories and the individual’s credit worthiness; and b. that is not court proceedings information about the individual or information about the individual that is entered or recorded on the National Personal Insolvency Index; or xii. the opinion of a credit provider that the individual has committed, in circumstances specified by the provider, a serious credit infringement in relation to consumer credit provided by the provider to the individual. (d) <strong>Credit Eligibility</strong> Information provided to us by CRBs, so it may also include information about your credit related dealings with other credit providers. CEI also includes any credit worthiness information that we derive from the data from a credit reporting body, for example credit ratings, scores and evaluations about you and your credit worthiness.</li>
 </ol>
 </li>
-<li><strong>UPDATES TO OUR PRIVACY POLICY</strong>
+<li>
+<strong>UPDATES TO OUR PRIVACY POLICY</strong>
 <ol>We will update our Privacy Policy from time to time. Our website will have the most current Privacy Policy.</ol>
 </li>
-<li><strong>COMPLAINTS AND ENQUIRIES</strong>
+<li>
+<strong>COMPLAINTS AND ENQUIRIES</strong>
 <ol>
 <li>We are committed to the protection of your privacy. If you have any questions about how we handle personal information, would like to complain about how we have handled your information, or would like further information about our Privacy Policy, please submit a written query or complaint to <a href="mailto:info@lackofcolor.com.au" target="_blank">info@lackofcolor.com.au</a>. Our Privacy Officer will assess any complaints and liaise with you to resolve any issues within a reasonable time.</li>
 <li>If you consider your privacy concerns have not been resolved satisfactorily by us, or you wish to obtain more information on privacy requirements, you can contact The Office of the Australian Information Commissioner on 1300 363 992 or visit their website at www.oaic.gov.au.</li>
 </ol>
 </li>
-<li><strong>CONTACTING US</strong>
+<li>
+<strong>CONTACTING US</strong>
 <ol>
 <li>Phone 0419 745 856</li>
-<li>Online<a href="https://www.lackofcolor.com.au/pages/contact-us/"> https://www.lackofcolor.com.au/pages/contact-us/</a></li>
-<li>By Post<br>
-Attn: Privacy Officer<br>
-Lack of Color<br>
-Unit A5<br>
-2688 Ipswich Road<br>
-Darra, QLD, 4076<br>
-Australia</li>
+<li>Online<a href="https://www.lackofcolor.com.au/pages/contact-us/"> https://www.lackofcolor.com.au/pages/contact-us/</a>
+</li>
+<li>By Post Attn: Privacy Officer Lack of Color Unit A5 2688 Ipswich Road Darra, QLD, 4076 Australia</li>
 </ol>
 </li>
-</ol>
-                        </div>
-                    </div></div>
-                </div>
+          </div>
+        </div>
+      </div>
+    </div>
+
+
+
+
+              </main>
             </div>
-        </section>
-       <footer>
+          </div>
+        </div>
+      </div>
+    </div>
+    <div id="shopify-section-footer" class="shopify-section">  <footer>
             <div class="footer-top hidden-xs">
                 <div class="container">
                     <div class="social-icon clearfix">
                         <ul>
                                                             <li><a target="_blank" href="https://www.facebook.com/lackofcoloraus/"><i class="fa fa-facebook"></i></a> </li>
-                            
+
                                                             <li><a target="_blank" href="http://instagram.com/lackofcoloraus"><i class="fa fa-instagram"></i></a> </li>
                                                                                         <li><a target="_blank" href="http://www.pinterest.com/lackofcoloraus"><i class="fa fa-pinterest-square"></i></a> </li>
                                                         </ul>
@@ -456,458 +854,413 @@ Australia</li>
                         <div class="search-outer">
                             <a class="link" href="#">get on our guest list</a>
                             <div class="search-wrap">
-                            <!-- Begin Active Campaign -->
-
-
-
-                            <style>
- #_form_3_ { font-size:14px; line-height:1.6; font-family:arial, helvetica, sans-serif; margin:0; }
- #_form_3_ * { outline:0; }
- ._form_hide { display:none; visibility:hidden; }
- ._form_show { display:block; visibility:visible; }
- #_form_3_._form-top { top:0; }
- #_form_3_._form-bottom { bottom:0; }
- #_form_3_._form-left { left:0; }
- #_form_3_._form-right { right:0; }
- #_form_3_ input[type="text"],#_form_3_ input[type="date"],#_form_3_ textarea { padding:6px; height:auto; border: none; font-size: 18px;border-radius:4px; color:#000 !important; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; }
- #_form_3_ textarea { resize:none; }
- #_form_3_ ._submit { -webkit-appearance:none; cursor:pointer; font-family:arial, sans-serif; font-size:14px; text-align:center; background:#333 !important; border:0 !important; -moz-border-radius:4px !important; -webkit-border-radius:4px !important; border-radius:4px !important; color:#fff !important; padding:10px !important; }
- #_form_3_ ._close-icon { cursor:pointer; background-image:url('https://d226aj4ao1t61q.cloudfront.net/esfkyjh1u_forms-close-dark.png'); background-repeat:no-repeat; background-size:14.2px 14.2px; position:absolute; display:block; top:11px; right:9px; overflow:hidden; width:16.2px; height:16.2px; }
- #_form_3_ ._close-icon:before { position:relative; }
- #_form_3_ ._form-body { margin-bottom:30px; }
- #_form_3_ ._form-image-left { width:150px; float:left; }
- #_form_3_ ._form-content-right { margin-left:164px; }
- #_form_3_ ._form-branding { color:#fff; font-size:10px; clear:both; text-align:left; margin-top:30px; font-weight:100; }
- #_form_3_ ._form-branding ._logo { display:block; width:130px; height:14px; margin-top:6px; background-image:url('https://d226aj4ao1t61q.cloudfront.net/hh9ujqgv5_aclogo_li.png'); background-size:130px auto; background-repeat:no-repeat; }
- #_form_3_ ._form-label,#_form_3_ ._form_element ._form-label { font-weight:bold; margin-bottom:5px; display:block; }
- #_form_3_._dark ._form-branding { color:#333; }
- #_form_3_._dark ._form-branding ._logo { background-image:url('https://d226aj4ao1t61q.cloudfront.net/jftq2c8s_aclogo_dk.png'); }
- #_form_3_ ._form_element { position:relative; font-size:0; max-width:100%; }
- #_form_3_ ._form_element * { font-size:14px; }
- #_form_3_ ._form_element._clear { clear:both; width:100%; float:none; }
- #_form_3_ ._form_element._clear:after { clear:left; }
- #_form_3_ ._form_element input[type="text"],#_form_3_ ._form_element input[type="date"],#_form_3_ ._form_element select,#_form_3_ ._form_element textarea:not(.g-recaptcha-response) { display:block; width:100%; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; }
- #_form_3_ ._field-wrapper { position:relative; }
- #_form_3_ ._inline-style { float:left; }
- #_form_3_ ._inline-style input[type="text"] { width:150px; }
- #_form_3_ ._inline-style:not(._clear) + ._inline-style:not(._clear) { margin-left:20px; }
- #_form_3_ ._form_element img._form-image { max-width:100%; }
- #_form_3_ ._clear-element { clear:left; }
- #_form_3_ ._full_width { width:100%; }
- #_form_3_ ._form_full_field { display:block; width:100%; margin-bottom:10px; }
- #_form_3_ input[type="text"]._has_error,#_form_3_ textarea._has_error { border:#f37c7b 1px solid; }
- #_form_3_ input[type="checkbox"]._has_error { outline:#f37c7b 1px solid; }
- #_form_3_ ._error { display:block; position:absolute; font-size:13px; z-index:10000001; }
- #_form_3_ ._error._above { padding-bottom:4px; top:-41px; right:0; }
- #_form_3_ ._error._below { padding-top:4px; top:100%; right:0; }
- #_form_3_ ._error._above ._error-arrow { bottom:0; right:15px; border-left:5px solid transparent; border-right:5px solid transparent; border-top:5px solid #f37c7b; }
- #_form_3_ ._error._below ._error-arrow { top:0; right:15px; border-left:5px solid transparent; border-right:5px solid transparent; border-bottom:5px solid #f37c7b; }
- #_form_3_ ._error-inner { padding:8px 12px; background-color:#f37c7b; font-size:13px; font-family:arial, sans-serif; color:#fff; text-align:center; text-decoration:none; -webkit-border-radius:4px; -moz-border-radius:4px; border-radius:4px; }
- #_form_3_ ._error-inner._form_error { margin-bottom:5px; text-align:left; }
- #_form_3_ ._button-wrapper ._error-inner._form_error { position:static; }
- #_form_3_ ._error-inner._no_arrow { margin-bottom:10px; }
- #_form_3_ ._error-arrow { position:absolute; width:0; height:0; }
- #_form_3_ ._error-html { margin-bottom:10px; }
- .pika-single { z-index:10000001 !important; }
-@media all and (min-width:751px) and (max-width:1024px) {
- #_form_3_ {height: 39px !important;padding: 4px 90px 4px 20px !important;}
- #_form_3_ ._form_element input[type="text"] {padding: 0 !important;}
-}
- @media all and (min-width:320px) and (max-width:750px) { ::-webkit-scrollbar { display:none; }
- ._form-wrapper { position:fixed; top:0; bottom:0; right:0; left:0; height:100%; width:100%; overflow:hidden; overflow-y:scroll; overflow-y:-moz-scrollbars-none; -ms-overflow-style:none; }
- #_form_3_ { margin:0; width:100%; min-width:100%; max-width:100%; box-sizing:border-box; height: 33px !important;padding: 0px 56px 0px 11px !important;}
- #_form_3_ * { -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; font-size:1em; }
- #_form_3_ ._form-content { margin:0; width:100%; }
- #_form_3_ ._form-inner { display:block; min-width:100%; }
- #_form_3_ ._form-title,#_form_3_ ._inline-style { margin-top:0; margin-right:0; margin-left:0; }
- #_form_3_ ._form-title { font-size:1.2em; }
- #_form_3_ ._form_element { margin:0 0 20px; padding:0; width:100%; }
- #_form_3_ ._form-element,#_form_3_ ._inline-style,#_form_3_ input[type="text"],#_form_3_ label,#_form_3_ p,#_form_3_ textarea:not(.g-recaptcha-response) { float:none; display:block; width:100%; }
- #_form_3_ ._row,#_form_3_ p,#_form_3_ label { margin-bottom:0.7em; }
- #_form_3_ ._form-image { max-width:100%; height:auto !important; }
- #_form_3_ input[type="text"] { padding-left:10px; padding-right:10px; font-size:16px !important; -webkit-appearance:none;padding: 0px !important;}
- #_form_3_ input[type="radio"],#_form_3_ input[type="checkbox"] { display:inline-block; width:1.3em; height:1.3em; font-size:1em; margin:0 0.3em 0 0; vertical-align:baseline; }
- #_form_3_ button[type="submit"] { padding:20px; font-size:1.5em; }
- #_form_3_ ._inline-style { margin:20px 0 0 !important; }
- }
- #_form_3_ { outline: none;border: 1px solid #cccccc;box-shadow: none;height: 60px;position:relative; text-align:left; padding: 10px 100px 10px 30px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; *zoom:1; background:#fff !important; -moz-border-radius:0px !important; -webkit-border-radius:0px !important; border-radius:0px !important; color:#000 !important; }
- #_form_3_ ._form-title { font-size:22px; line-height:22px; font-weight:600; margin-bottom:0; }
- #_form_3_:before,#_form_3_:after { content:" "; display:table; }
- #_form_3_:after { clear:both; }
- #_form_3_._inline-style { width:auto; display:inline-block; }
- #_form_3_._inline-style input[type="text"],#_form_3_._inline-style input[type="date"] { padding:10px 12px; }
- #_form_3_._inline-style button._inline-style { position:relative; top:27px; }
- #_form_3_._inline-style p { margin:0; }
- #_form_3_._inline-style ._button-wrapper { position:relative; margin:27px 12.5px 0 20px; }
- #_form_3_ ._form-thank-you { position:relative; left:0; right:0; text-align:center; font-size:18px; }
- @media all and (min-width:320px) and (max-width:667px) { #_form_3_._inline-form._inline-style ._inline-style._button-wrapper { margin-top:20px !important; margin-left:0 !important; }
- }
-</style>
-<form method="POST" action="https://lackofcolor.activehosted.com/proc.php" id="_form_3_" class="_form _form_3 _inline-form  _dark" novalidate="">
-  <input type="hidden" name="u" value="3">
-  <input type="hidden" name="f" value="3">
-  <input type="hidden" name="s">
-  <input type="hidden" name="c" value="0">
-  <input type="hidden" name="m" value="0">
-  <input type="hidden" name="act" value="sub">
-  <input type="hidden" name="v" value="2">
-  <div class="_form-content">
-    <div class="_form_element _x08641808 _full_width ">
-      <!-- <label class="_form-label">
-        Email*
-      </label> -->
-      <div class="_field-wrapper">
-        <input type="text" name="email" placeholder="your email address" required="">
+                              
+                              
+                              
+                            <!-- Begin ActiveCampaign -->
+         
+<style>
+   #_form_3_ { font-size:14px; line-height:1.6; font-family:arial, helvetica, sans-serif; margin:0; }
+   #_form_3_ * { outline:0; }
+   ._form_hide { display:none; visibility:hidden; }
+   ._form_show { display:block; visibility:visible; }
+   #_form_3_._form-top { top:0; }
+   #_form_3_._form-bottom { bottom:0; }
+   #_form_3_._form-left { left:0; }
+   #_form_3_._form-right { right:0; }
+   #_form_3_ input[type="text"],#_form_3_ input[type="date"],#_form_3_ textarea { padding:6px; height:auto; border: none; font-size: 18px;border-radius:4px; color:#000 !important; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; }
+   #_form_3_ textarea { resize:none; }
+   #_form_3_ ._submit { -webkit-appearance:none; cursor:pointer; font-family:arial, sans-serif; font-size:14px; text-align:center; background:#333 !important; border:0 !important; -moz-border-radius:4px !important; -webkit-border-radius:4px !important; border-radius:4px !important; color:#fff !important; padding:10px !important; }
+   #_form_3_ ._close-icon { cursor:pointer; background-image:url('https://d226aj4ao1t61q.cloudfront.net/esfkyjh1u_forms-close-dark.png'); background-repeat:no-repeat; background-size:14.2px 14.2px; position:absolute; display:block; top:11px; right:9px; overflow:hidden; width:16.2px; height:16.2px; }
+   #_form_3_ ._close-icon:before { position:relative; }
+   #_form_3_ ._form-body { margin-bottom:30px; }
+   #_form_3_ ._form-image-left { width:150px; float:left; }
+   #_form_3_ ._form-content-right { margin-left:164px; }
+   #_form_3_ ._form-branding { color:#fff; font-size:10px; clear:both; text-align:left; margin-top:30px; font-weight:100; }
+   #_form_3_ ._form-branding ._logo { display:block; width:130px; height:14px; margin-top:6px; background-image:url('https://d226aj4ao1t61q.cloudfront.net/hh9ujqgv5_aclogo_li.png'); background-size:130px auto; background-repeat:no-repeat; }
+   #_form_3_ ._form-label,#_form_3_ ._form_element ._form-label { font-weight:bold; margin-bottom:5px; display:block; }
+   #_form_3_._dark ._form-branding { color:#333; }
+   #_form_3_._dark ._form-branding ._logo { background-image:url('https://d226aj4ao1t61q.cloudfront.net/jftq2c8s_aclogo_dk.png'); }
+   #_form_3_ ._form_element { position:relative; font-size:0; max-width:100%; }
+   #_form_3_ ._form_element * { font-size:14px; }
+   #_form_3_ ._form_element._clear { clear:both; width:100%; float:none; }
+   #_form_3_ ._form_element._clear:after { clear:left; }
+   #_form_3_ ._form_element input[type="text"],#_form_3_ ._form_element input[type="date"],#_form_3_ ._form_element select,#_form_3_ ._form_element textarea:not(.g-recaptcha-response) { display:block; width:100%; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; }
+   #_form_3_ ._field-wrapper { position:relative; }
+   #_form_3_ ._inline-style { float:left; }
+   #_form_3_ ._inline-style input[type="text"] { width:150px; }
+   #_form_3_ ._inline-style:not(._clear) + ._inline-style:not(._clear) { margin-left:20px; }
+   #_form_3_ ._form_element img._form-image { max-width:100%; }
+   #_form_3_ ._clear-element { clear:left; }
+   #_form_3_ ._full_width { width:100%; }
+   #_form_3_ ._form_full_field { display:block; width:100%; margin-bottom:10px; }
+   #_form_3_ input[type="text"]._has_error,#_form_3_ textarea._has_error { border:#f37c7b 1px solid; }
+   #_form_3_ input[type="checkbox"]._has_error { outline:#f37c7b 1px solid; }
+   #_form_3_ ._error { display:block; position:absolute; font-size:13px; z-index:10000001; }
+   #_form_3_ ._error._above { padding-bottom:4px; top:-41px; right:0; }
+   #_form_3_ ._error._below { padding-top:4px; top:100%; right:0; }
+   #_form_3_ ._error._above ._error-arrow { bottom:0; right:15px; border-left:5px solid transparent; border-right:5px solid transparent; border-top:5px solid #f37c7b; }
+   #_form_3_ ._error._below ._error-arrow { top:0; right:15px; border-left:5px solid transparent; border-right:5px solid transparent; border-bottom:5px solid #f37c7b; }
+   #_form_3_ ._error-inner { padding:8px 12px; background-color:#f37c7b; font-size:13px; font-family:arial, sans-serif; color:#fff; text-align:center; text-decoration:none; -webkit-border-radius:4px; -moz-border-radius:4px; border-radius:4px; }
+   #_form_3_ ._error-inner._form_error { margin-bottom:5px; text-align:left; }
+   #_form_3_ ._button-wrapper ._error-inner._form_error { position:static; }
+   #_form_3_ ._error-inner._no_arrow { margin-bottom:10px; }
+   #_form_3_ ._error-arrow { position:absolute; width:0; height:0; }
+   #_form_3_ ._error-html { margin-bottom:10px; }
+   .pika-single { z-index:10000001 !important; }
+  @media all and (min-width:751px) and (max-width:1024px) {
+   #_form_3_ {height: 39px !important;padding: 4px 90px 4px 20px !important;}
+   #_form_3_ ._form_element input[type="text"] {padding: 0 !important;}
+  }
+   @media all and (min-width:320px) and (max-width:750px) { ::-webkit-scrollbar { display:none; }
+   ._form-wrapper { position:fixed; top:0; bottom:0; right:0; left:0; height:100%; width:100%; overflow:hidden; overflow-y:scroll; overflow-y:-moz-scrollbars-none; -ms-overflow-style:none; }
+   #_form_3_ { margin:0; width:100%; min-width:100%; max-width:100%; box-sizing:border-box; height: 33px !important;padding: 0px 56px 0px 11px !important;}
+   #_form_3_ * { -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; font-size:1em; }
+   #_form_3_ ._form-content { margin:0; width:100%; }
+   #_form_3_ ._form-inner { display:block; min-width:100%; }
+   #_form_3_ ._form-title,#_form_3_ ._inline-style { margin-top:0; margin-right:0; margin-left:0; }
+   #_form_3_ ._form-title { font-size:1.2em; }
+   #_form_3_ ._form_element { margin:0 0 20px; padding:0; width:100%; }
+   #_form_3_ ._form-element,#_form_3_ ._inline-style,#_form_3_ input[type="text"],#_form_3_ label,#_form_3_ p,#_form_3_ textarea:not(.g-recaptcha-response) { float:none; display:block; width:100%; }
+   #_form_3_ ._row,#_form_3_ p,#_form_3_ label { margin-bottom:0.7em; }
+   #_form_3_ ._form-image { max-width:100%; height:auto !important; }
+   #_form_3_ input[type="text"] { padding-left:10px; padding-right:10px; font-size:16px !important; -webkit-appearance:none;padding: 0px !important;padding-top: 5px !important;}
+   #_form_3_ input[type="radio"],#_form_3_ input[type="checkbox"] { display:inline-block; width:1.3em; height:1.3em; font-size:1em; margin:0 0.3em 0 0; vertical-align:baseline; }
+   #_form_3_ button[type="submit"] { padding:20px; font-size:1.5em; }
+   #_form_3_ ._inline-style { margin:20px 0 0 !important; }
+   }
+   #_form_3_ { outline: none;border: 1px solid #cccccc;box-shadow: none;height: 60px;position:relative; text-align:left; padding: 10px 100px 10px 30px; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; box-sizing:border-box; *zoom:1; background:#fff !important; -moz-border-radius:0px !important; -webkit-border-radius:0px !important; border-radius:0px !important; color:#000 !important; }
+   #_form_3_ ._form-title { font-size:22px; line-height:22px; font-weight:600; margin-bottom:0; }
+   #_form_3_:before,#_form_3_:after { content:" "; display:table; }
+   #_form_3_:after { clear:both; }
+   #_form_3_._inline-style { width:auto; display:inline-block; }
+   #_form_3_._inline-style input[type="text"],#_form_3_._inline-style input[type="date"] { padding:10px 12px; }
+   #_form_3_._inline-style button._inline-style { position:relative; top:27px; }
+   #_form_3_._inline-style p { margin:0; }
+   #_form_3_._inline-style ._button-wrapper { position:relative; margin:27px 12.5px 0 20px; }
+   #_form_3_ ._form-thank-you { position:relative; left:0; right:0; text-align:center; font-size:18px;font-family: 'Quicksand', sans-serif;line-height: 2; }
+   @media all and (min-width:320px) and (max-width:667px) { #_form_3_._inline-form._inline-style ._inline-style._button-wrapper { margin-top:20px !important; margin-left:0 !important; }
+   }
+  </style>
+  <form method="POST" action="https://lackofcolor.activehosted.com/proc.php" id="_form_3_" class="_form _form_3 _inline-form  _dark" novalidate="">
+    <input type="hidden" name="u" value="3">
+    <input type="hidden" name="f" value="3">
+    <input type="hidden" name="s">
+    <input type="hidden" name="c" value="0">
+    <input type="hidden" name="m" value="0">
+    <input type="hidden" name="act" value="sub">
+    <input type="hidden" name="v" value="2">
+    <div class="_form-content">
+      <div class="_form_element _x08641808 _full_width ">
+        <!-- <label class="_form-label">
+          Email*
+        </label> -->
+        <div class="_field-wrapper">
+          <input type="text" name="email" placeholder="your email address" required="">
+        </div>
+      </div>
+      <div class="_button-wrapper _full_width" style="display: none;">
+        <button id="_form_3_submit" class="_submit" type="submit">
+          Submit
+        </button>
+      </div>
+      <div class="_clear-element">
       </div>
     </div>
-    <div class="_button-wrapper _full_width" style="display: none;">
-      <button id="_form_3_submit" class="_submit" type="submit">
-        Submit
-      </button>
-    </div>
-    <div class="_clear-element">
-    </div>
-  </div>
-  <div class="clear"><input type="submit" value="" id="_form_3_submit" class="button"></div>
-  <div class="_form-thank-you" style="display:none;">
-  </div>
-  <a href="#" class="close-search"></a>
-</form><script type="text/javascript">
-window._show_thank_you = function(id, message, trackcmp_url) {
-  var form = document.getElementById('_form_' + id + '_'), thank_you = form.querySelector('._form-thank-you');
-  form.querySelector('._form-content').style.display = 'none';
-  thank_you.innerHTML = message;
-  thank_you.style.display = 'block';
-  if (typeof(trackcmp_url) != 'undefined' && trackcmp_url) {
-    // Site tracking URL to use after inline form submission.
-    _load_script(trackcmp_url);
-  }
-  if (typeof window._form_callback !== 'undefined') window._form_callback(id);
-};
-window._show_error = function(id, message, html) {
-  var form = document.getElementById('_form_' + id + '_'), err = document.createElement('div'), button = form.querySelector('button'), old_error = form.querySelector('._form_error');
-  if (old_error) old_error.parentNode.removeChild(old_error);
-  err.innerHTML = message;
-  err.className = '_error-inner _form_error _no_arrow';
-  var wrapper = document.createElement('div');
-  wrapper.className = '_form-inner';
-  wrapper.appendChild(err);
-  button.parentNode.insertBefore(wrapper, button);
-  if (html) {
-    var div = document.createElement('div');
-    div.className = '_error-html';
-    div.innerHTML = html;
-    err.appendChild(div);
-  }
-};
-window._load_script = function(url, callback) {
-    var head = document.querySelector('head'), script = document.createElement('script'), r = false;
-    script.type = 'text/javascript';
-    script.charset = 'utf-8';
-    script.src = url;
-    if (callback) {
-      script.onload = script.onreadystatechange = function() {
-      if (!r && (!this.readyState || this.readyState == 'complete')) {
-        r = true;
-        callback();
-        }
-      };
-    }
-    head.appendChild(script);
-};
-(function() {
-  if (window.location.search.search("excludeform") !== -1) return false;
-  var getCookie = function(name) {
-    var match = document.cookie.match(new RegExp('(^|; )' + name + '=([^;]+)'));
-    return match ? match[2] : null;
-  }
-  var setCookie = function(name, value) {
-    var now = new Date();
-    var time = now.getTime();
-    var expireTime = time + 1000 * 60 * 60 * 24 * 365;
-    now.setTime(expireTime);
-    document.cookie = name + '=' + value + '; expires=' + now + ';path=/';
-  }
-      var addEvent = function(element, event, func) {
-    if (element.addEventListener) {
-      element.addEventListener(event, func);
-    } else {
-      var oldFunc = element['on' + event];
-      element['on' + event] = function() {
-        oldFunc.apply(this, arguments);
-        func.apply(this, arguments);
-      };
-    }
-  }
-  var _removed = false;
-  var form_to_submit = document.getElementById('_form_3_');
-  var allInputs = form_to_submit.querySelectorAll('input, select, textarea'), tooltips = [], submitted = false;
-  var remove_tooltips = function() {
-    for (var i = 0; i < tooltips.length; i++) {
-      tooltips[i].tip.parentNode.removeChild(tooltips[i].tip);
-    }
-      tooltips = [];
-  };
-  var remove_tooltip = function(elem) {
-    for (var i = 0; i < tooltips.length; i++) {
-      if (tooltips[i].elem === elem) {
-        tooltips[i].tip.parentNode.removeChild(tooltips[i].tip);
-        tooltips.splice(i, 1);
-        return;
-      }
-    }
-  };
-  var create_tooltip = function(elem, text) {
-    var tooltip = document.createElement('div'), arrow = document.createElement('div'), inner = document.createElement('div'), new_tooltip = {};
-    if (elem.type != 'radio' && elem.type != 'checkbox') {
-      tooltip.className = '_error';
-      arrow.className = '_error-arrow';
-      inner.className = '_error-inner';
-      inner.innerHTML = text;
-      tooltip.appendChild(arrow);
-      tooltip.appendChild(inner);
-      elem.parentNode.appendChild(tooltip);
-    } else {
-      tooltip.className = '_error-inner _no_arrow';
-      tooltip.innerHTML = text;
-      elem.parentNode.insertBefore(tooltip, elem);
-      new_tooltip.no_arrow = true;
-    }
-    new_tooltip.tip = tooltip;
-    new_tooltip.elem = elem;
-    tooltips.push(new_tooltip);
-    return new_tooltip;
-  };
-  var resize_tooltip = function(tooltip) {
-    var rect = tooltip.elem.getBoundingClientRect();
-    var doc = document.documentElement, scrollPosition = rect.top - ((window.pageYOffset || doc.scrollTop)  - (doc.clientTop || 0));
-    if (scrollPosition < 40) {
-      tooltip.tip.className = tooltip.tip.className.replace(/ ?(_above|_below) ?/g, '') + ' _below';
-    } else {
-      tooltip.tip.className = tooltip.tip.className.replace(/ ?(_above|_below) ?/g, '') + ' _above';
-    }
-  };
-  var resize_tooltips = function() {
-    if (_removed) return;
-    for (var i = 0; i < tooltips.length; i++) {
-      if (!tooltips[i].no_arrow) resize_tooltip(tooltips[i]);
-    }
-  };
-  var validate_field = function(elem, remove) {
-    var tooltip = null, value = elem.value, no_error = true;
-    remove ? remove_tooltip(elem) : false;
-    if (elem.type != 'checkbox') elem.className = elem.className.replace(/ ?_has_error ?/g, '');
-    if (elem.getAttribute('required') !== null) {
-      if (elem.type == 'radio' || (elem.type == 'checkbox' && /any/.test(elem.className))) {
-        var elems = form_to_submit.elements[elem.name];
-        no_error = false;
-        for (var i = 0; i < elems.length; i++) {
-          if (elems[i].checked) no_error = true;
-        }
-        if (!no_error) {
-          tooltip = create_tooltip(elem, "Please select an option.");
-        }
-      } else if (elem.type =='checkbox') {
-        var elems = form_to_submit.elements[elem.name], found = false, err = [];
-        no_error = true;
-        for (var i = 0; i < elems.length; i++) {
-          if (elems[i].getAttribute('required') === null) continue;
-          if (!found && elems[i] !== elem) return true;
-          found = true;
-          elems[i].className = elems[i].className.replace(/ ?_has_error ?/g, '');
-          if (!elems[i].checked) {
-            no_error = false;
-            elems[i].className = elems[i].className + ' _has_error';
-            err.push("Checking %s is required".replace("%s", elems[i].value));
-          }
-        }
-        if (!no_error) {
-          tooltip = create_tooltip(elem, err.join('<br/>'));
-        }
-      } else if (elem.tagName == 'SELECT') {
-        var selected = true;
-        if (elem.multiple) {
-          selected = false;
-          for (var i = 0; i < elem.options.length; i++) {
-            if (elem.options[i].selected) {
-              selected = true;
-              break;
-            }
-          }
-        } else {
-          for (var i = 0; i < elem.options.length; i++) {
-            if (elem.options[i].selected && !elem.options[i].value) {
-              selected = false;
-            }
-          }
-        }
-        if (!selected) {
-          no_error = false;
-          tooltip = create_tooltip(elem, "Please select an option.");
-        }
-      } else if (value === undefined || value === null || value === '') {
-        elem.className = elem.className + ' _has_error';
-        no_error = false;
-        tooltip = create_tooltip(elem, "This field is required.");
-      }
-    }
-    if (no_error && elem.name == 'email') {
-      if (!value.match(/^[\+_a-z0-9-'&=]+(\.[\+_a-z0-9-']+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,})$/i)) {
-        elem.className = elem.className + ' _has_error';
-        no_error = false;
-        tooltip = create_tooltip(elem, "Enter a valid email address.");
-      }
-    }
-    if (no_error && /date_field/.test(elem.className)) {
-      if (!value.match(/^\d\d\d\d-\d\d-\d\d$/)) {
-        elem.className = elem.className + ' _has_error';
-        no_error = false;
-        tooltip = create_tooltip(elem, "Enter a valid date.");
-      }
-    }
-    tooltip ? resize_tooltip(tooltip) : false;
-    return no_error;
-  };
-  var needs_validate = function(el) {
-    return el.name == 'email' || el.getAttribute('required') !== null;
-  };
-  var validate_form = function(e) {
-    var err = form_to_submit.querySelector('._form_error'), no_error = true;
-    if (!submitted) {
-      submitted = true;
-      for (var i = 0, len = allInputs.length; i < len; i++) {
-        var input = allInputs[i];
-        if (needs_validate(input)) {
-          if (input.type == 'text') {
-            addEvent(input, 'input', function() {
-              validate_field(this, true);
-            });
-          } else if (input.type == 'radio' || input.type == 'checkbox') {
-            (function(el) {
-              var radios = form_to_submit.elements[el.name];
-              for (var i = 0; i < radios.length; i++) {
-                addEvent(radios[i], 'click', function() {
-                  validate_field(el, true);
-                });
-              }
-            })(input);
-          } else if (input.tagName == 'SELECT') {
-            addEvent(input, 'change', function() {
-              validate_field(input, true);
-            });
-          }
-        }
-      }
-    }
-    remove_tooltips();
-    for (var i = 0, len = allInputs.length; i < len; i++) {
-      var elem = allInputs[i];
-      if (needs_validate(elem)) {
-        validate_field(elem) ? true : no_error = false;
-      }
-    }
-    if (!no_error && e) {
-      e.preventDefault();
-    }
-    resize_tooltips();
-    return no_error;
-  };
-  addEvent(window, 'resize', resize_tooltips);
-  addEvent(window, 'scroll', resize_tooltips);
-  window._old_serialize = null;
-  if (typeof serialize !== 'undefined') window._old_serialize = window.serialize;
-  _load_script("//d3rxaij56vjege.cloudfront.net/form-serialize/0.3/serialize.min.js", function() {
-    window._form_serialize = window.serialize;
-    if (window._old_serialize) window.serialize = window._old_serialize;
-  });
-  var form_submit = function(e) {
-    e.preventDefault();
-    if (validate_form()) {
-            var serialized = _form_serialize(document.getElementById('_form_3_'));
-      var err = form_to_submit.querySelector('._form_error');
-      err ? err.parentNode.removeChild(err) : false;
-      _load_script('https://lackofcolor.activehosted.com/proc.php?' + serialized + '&jsonp=true');
-    }
-    return false;
-  };
-  addEvent(form_to_submit, 'submit', form_submit);
-})();
-
-</script>
-
-
-                            <!-- <div class="_form_3"></div><script src="https://lackofcolor.activehosted.com/f/embed.php?id=3" type="text/javascript" charset="utf-8"></script> -->
-                            <!-- End Active Campaign -->
-
-                            <!-- Begin MailChimp Signup Form -->
-
-
-
-
-
-
-
-
-
-
-
-<!-- <div id="mc_embed_signup">
-<form action="//lackofcolor.us12.list-manage.com/subscribe/post?u=db928664decc19768d6dbabdc&amp;id=a347f96796" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate clearfix"   novalidate>
-    <div id="mc_embed_signup_scroll">
-    <input type="email" value="" name="EMAIL" class="form-control" id="mce-EMAIL" placeholder="your email address .." required>
-    <div style="position: absolute; left: -5000px;"><input type="text" name="b_db928664decc19768d6dbabdc_a347f96796" tabindex="-1" value=""></div>
-    <div class="clear"><input type="submit" value="" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+    <div class="clear"><input type="submit" value="" id="_form_3_submit" class="button"></div>
+    <div class="_form-thank-you" style="display:none;">
     </div>
     <a href="#" class="close-search"></a>
-</form>
-</div> -->
+  </form><script type="text/javascript">
+  window._show_thank_you = function(id, message, trackcmp_url) {
+    var form = document.getElementById('_form_' + id + '_'), thank_you = form.querySelector('._form-thank-you');
+    form.querySelector('._form-content').style.display = 'none';
+    thank_you.innerHTML = message;
+    thank_you.style.display = 'block';
+    if (typeof(trackcmp_url) != 'undefined' && trackcmp_url) {
+      // Site tracking URL to use after inline form submission.
+      _load_script(trackcmp_url);
+    }
+    if (typeof window._form_callback !== 'undefined') window._form_callback(id);
+  };
+  window._show_error = function(id, message, html) {
+    var form = document.getElementById('_form_' + id + '_'), err = document.createElement('div'), button = form.querySelector('button'), old_error = form.querySelector('._form_error');
+    if (old_error) old_error.parentNode.removeChild(old_error);
+    err.innerHTML = message;
+    err.className = '_error-inner _form_error _no_arrow';
+    var wrapper = document.createElement('div');
+    wrapper.className = '_form-inner';
+    wrapper.appendChild(err);
+    button.parentNode.insertBefore(wrapper, button);
+    if (html) {
+      var div = document.createElement('div');
+      div.className = '_error-html';
+      div.innerHTML = html;
+      err.appendChild(div);
+    }
+  };
+  window._load_script = function(url, callback) {
+      var head = document.querySelector('head'), script = document.createElement('script'), r = false;
+      script.type = 'text/javascript';
+      script.charset = 'utf-8';
+      script.src = url;
+      if (callback) {
+        script.onload = script.onreadystatechange = function() {
+        if (!r && (!this.readyState || this.readyState == 'complete')) {
+          r = true;
+          callback();
+          }
+        };
+      }
+      head.appendChild(script);
+  };
+  (function() {
+    if (window.location.search.search("excludeform") !== -1) return false;
+    var getCookie = function(name) {
+      var match = document.cookie.match(new RegExp('(^|; )' + name + '=([^;]+)'));
+      return match ? match[2] : null;
+    }
+    var setCookie = function(name, value) {
+      var now = new Date();
+      var time = now.getTime();
+      var expireTime = time + 1000 * 60 * 60 * 24 * 365;
+      now.setTime(expireTime);
+      document.cookie = name + '=' + value + '; expires=' + now + ';path=/';
+    }
+        var addEvent = function(element, event, func) {
+      if (element.addEventListener) {
+        element.addEventListener(event, func);
+      } else {
+        var oldFunc = element['on' + event];
+        element['on' + event] = function() {
+          oldFunc.apply(this, arguments);
+          func.apply(this, arguments);
+        };
+      }
+    }
+    var _removed = false;
+    var form_to_submit = document.getElementById('_form_3_');
+    var allInputs = form_to_submit.querySelectorAll('input, select, textarea'), tooltips = [], submitted = false;
+    var remove_tooltips = function() {
+      for (var i = 0; i < tooltips.length; i++) {
+        tooltips[i].tip.parentNode.removeChild(tooltips[i].tip);
+      }
+        tooltips = [];
+    };
+    var remove_tooltip = function(elem) {
+      for (var i = 0; i < tooltips.length; i++) {
+        if (tooltips[i].elem === elem) {
+          tooltips[i].tip.parentNode.removeChild(tooltips[i].tip);
+          tooltips.splice(i, 1);
+          return;
+        }
+      }
+    };
+    var create_tooltip = function(elem, text) {
+      var tooltip = document.createElement('div'), arrow = document.createElement('div'), inner = document.createElement('div'), new_tooltip = {};
+      if (elem.type != 'radio' && elem.type != 'checkbox') {
+        tooltip.className = '_error';
+        arrow.className = '_error-arrow';
+        inner.className = '_error-inner';
+        inner.innerHTML = text;
+        tooltip.appendChild(arrow);
+        tooltip.appendChild(inner);
+        elem.parentNode.appendChild(tooltip);
+      } else {
+        tooltip.className = '_error-inner _no_arrow';
+        tooltip.innerHTML = text;
+        elem.parentNode.insertBefore(tooltip, elem);
+        new_tooltip.no_arrow = true;
+      }
+      new_tooltip.tip = tooltip;
+      new_tooltip.elem = elem;
+      tooltips.push(new_tooltip);
+      return new_tooltip;
+    };
+    var resize_tooltip = function(tooltip) {
+      var rect = tooltip.elem.getBoundingClientRect();
+      var doc = document.documentElement, scrollPosition = rect.top - ((window.pageYOffset || doc.scrollTop)  - (doc.clientTop || 0));
+      if (scrollPosition < 40) {
+        tooltip.tip.className = tooltip.tip.className.replace(/ ?(_above|_below) ?/g, '') + ' _below';
+      } else {
+        tooltip.tip.className = tooltip.tip.className.replace(/ ?(_above|_below) ?/g, '') + ' _above';
+      }
+    };
+    var resize_tooltips = function() {
+      if (_removed) return;
+      for (var i = 0; i < tooltips.length; i++) {
+        if (!tooltips[i].no_arrow) resize_tooltip(tooltips[i]);
+      }
+    };
+    var validate_field = function(elem, remove) {
+      var tooltip = null, value = elem.value, no_error = true;
+      remove ? remove_tooltip(elem) : false;
+      if (elem.type != 'checkbox') elem.className = elem.className.replace(/ ?_has_error ?/g, '');
+      if (elem.getAttribute('required') !== null) {
+        if (elem.type == 'radio' || (elem.type == 'checkbox' && /any/.test(elem.className))) {
+          var elems = form_to_submit.elements[elem.name];
+          no_error = false;
+          for (var i = 0; i < elems.length; i++) {
+            if (elems[i].checked) no_error = true;
+          }
+          if (!no_error) {
+            tooltip = create_tooltip(elem, "Please select an option.");
+          }
+        } else if (elem.type =='checkbox') {
+          var elems = form_to_submit.elements[elem.name], found = false, err = [];
+          no_error = true;
+          for (var i = 0; i < elems.length; i++) {
+            if (elems[i].getAttribute('required') === null) continue;
+            if (!found && elems[i] !== elem) return true;
+            found = true;
+            elems[i].className = elems[i].className.replace(/ ?_has_error ?/g, '');
+            if (!elems[i].checked) {
+              no_error = false;
+              elems[i].className = elems[i].className + ' _has_error';
+              err.push("Checking %s is required".replace("%s", elems[i].value));
+            }
+          }
+          if (!no_error) {
+            tooltip = create_tooltip(elem, err.join('<br/>'));
+          }
+        } else if (elem.tagName == 'SELECT') {
+          var selected = true;
+          if (elem.multiple) {
+            selected = false;
+            for (var i = 0; i < elem.options.length; i++) {
+              if (elem.options[i].selected) {
+                selected = true;
+                break;
+              }
+            }
+          } else {
+            for (var i = 0; i < elem.options.length; i++) {
+              if (elem.options[i].selected && !elem.options[i].value) {
+                selected = false;
+              }
+            }
+          }
+          if (!selected) {
+            no_error = false;
+            tooltip = create_tooltip(elem, "Please select an option.");
+          }
+        } else if (value === undefined || value === null || value === '') {
+          elem.className = elem.className + ' _has_error';
+          no_error = false;
+          tooltip = create_tooltip(elem, "This field is required.");
+        }
+      }
+      if (no_error && elem.name == 'email') {
+        if (!value.match(/^[\+_a-z0-9-'&=]+(\.[\+_a-z0-9-']+)*@[a-z0-9-]+(\.[a-z0-9-]+)*(\.[a-z]{2,})$/i)) {
+          elem.className = elem.className + ' _has_error';
+          no_error = false;
+          tooltip = create_tooltip(elem, "Enter a valid email address.");
+        }
+      }
+      if (no_error && /date_field/.test(elem.className)) {
+        if (!value.match(/^\d\d\d\d-\d\d-\d\d$/)) {
+          elem.className = elem.className + ' _has_error';
+          no_error = false;
+          tooltip = create_tooltip(elem, "Enter a valid date.");
+        }
+      }
+      tooltip ? resize_tooltip(tooltip) : false;
+      return no_error;
+    };
+    var needs_validate = function(el) {
+      return el.name == 'email' || el.getAttribute('required') !== null;
+    };
+    var validate_form = function(e) {
+      var err = form_to_submit.querySelector('._form_error'), no_error = true;
+      if (!submitted) {
+        submitted = true;
+        for (var i = 0, len = allInputs.length; i < len; i++) {
+          var input = allInputs[i];
+          if (needs_validate(input)) {
+            if (input.type == 'text') {
+              addEvent(input, 'input', function() {
+                validate_field(this, true);
+              });
+            } else if (input.type == 'radio' || input.type == 'checkbox') {
+              (function(el) {
+                var radios = form_to_submit.elements[el.name];
+                for (var i = 0; i < radios.length; i++) {
+                  addEvent(radios[i], 'click', function() {
+                    validate_field(el, true);
+                  });
+                }
+              })(input);
+            } else if (input.tagName == 'SELECT') {
+              addEvent(input, 'change', function() {
+                validate_field(input, true);
+              });
+            }
+          }
+        }
+      }
+      remove_tooltips();
+      for (var i = 0, len = allInputs.length; i < len; i++) {
+        var elem = allInputs[i];
+        if (needs_validate(elem)) {
+          validate_field(elem) ? true : no_error = false;
+        }
+      }
+      if (!no_error && e) {
+        e.preventDefault();
+      }
+      resize_tooltips();
+      return no_error;
+    };
+    addEvent(window, 'resize', resize_tooltips);
+    addEvent(window, 'scroll', resize_tooltips);
+    window._old_serialize = null;
+    if (typeof serialize !== 'undefined') window._old_serialize = window.serialize;
+    _load_script("//d3rxaij56vjege.cloudfront.net/form-serialize/0.3/serialize.min.js", function() {
+      window._form_serialize = window.serialize;
+      if (window._old_serialize) window.serialize = window._old_serialize;
+    });
+    var form_submit = function(e) {
+      e.preventDefault();
+      if (validate_form()) {
+              var serialized = _form_serialize(document.getElementById('_form_3_'));
+        var err = form_to_submit.querySelector('._form_error');
+        err ? err.parentNode.removeChild(err) : false;
+        _load_script('https://lackofcolor.activehosted.com/proc.php?' + serialized + '&jsonp=true');
+      }
+      return false;
+    };
+    addEvent(form_to_submit, 'submit', form_submit);
+  })();
 
+  </script>
 
+                            <!--End ActiveCampaign-->
+                              
+                              
+                              
+                              
+                              
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<!--End mc_embed_signup-->
-                                <!-- <form action="#" method="get">
-                                    <input type="text" class="form-control" name="s" placeholder="your email address ..">
-                                    <input type="submit" value="">
-                                    <a href="#" class="close-search"></a>
-                                </form> -->
                             </div>
                         </div>
                         <div class="footer-top visible-xs">
                          <div class="social-icon clearfix">
                             <ul>
                                                             <li><a target="_blank" href="https://www.facebook.com/lackofcoloraus/"><i class="fa fa-facebook"></i></a> </li>
-                            
+
                                                             <li><a target="_blank" href="http://instagram.com/lackofcoloraus"><i class="fa fa-instagram"></i></a> </li>
                                                                                         <li><a target="_blank" href="http://www.pinterest.com/lackofcoloraus"><i class="fa fa-pinterest-square"></i></a> </li>
                                                         </ul>
                         </div>
                     </div>
                     <div class="list clearfix">
- <ul id="menu-footer-menu" class=""><li id="menu-item-90033710" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-90033705 current_page_item menu-item-90033710"><a href="https://www.lackofcolor.com.au/privacy/">Privacy</a></li>
-<li id="menu-item-90033709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90033709"><a href="https://www.lackofcolor.com.au/terms/">Terms</a></li>
-<li id="menu-item-90027471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027471"><a href="https://www.lackofcolor.com.au/returns/">Returns</a></li>
-<li id="menu-item-90027474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027474"><a href="https://www.lackofcolor.com.au/pages/about-us/">About us</a></li>
-<li id="menu-item-90027475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027475"><a href="https://www.lackofcolor.com.au/pages/contact-us/">Contact us</a></li>
-<li id="menu-item-90027473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027473"><a href="https://www.lackofcolor.com.au/stockists/">Stockists</a></li>
-<li id="menu-item-90028498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90028498"><a href="https://www.lackofcolor.com.au/faq/">faq</a></li>
+ <ul id="menu-footer-menu" class=""><li id="menu-item-90033710" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90033710"><a href="/pages/privacy/">Privacy</a></li>
+<li id="menu-item-90033709" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90033709"><a href="/pages/terms/">Terms</a></li>
+<li id="menu-item-90027471" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027471"><a href="/pages/returns/">Returns</a></li>
+<li id="menu-item-90027474" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027474"><a href="/pages/about-us/">About us</a></li>
+<li id="menu-item-90027475" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027475"><a href="/pages/contact-us/">Contact us</a></li>
+<li id="menu-item-90027473" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90027473"><a href="/pages/stockists/">Stockists</a></li>
+<li id="menu-item-90028498" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-90028498"><a href="/pages/faq/">faq</a></li>
 </ul>
 
                     </div>
@@ -916,130 +1269,103 @@ window._load_script = function(url, callback) {
                     <p>© lack of color. all rights reserved. website by <strong><a href="http://www.wehaveocd.agency/" target="_blank">OCD</a></strong></p>                </div>
             </div>
         </div>
-    </footer>
-</div>
-<script>var om57ea2d8e6f651,om57ea2d8e6f651_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){om57ea2d8e6f651_poll(function(){if(window['om_loaded']){if(!om57ea2d8e6f651){om57ea2d8e6f651=new OptinMonsterApp();return om57ea2d8e6f651.init({"s":"20625.57ea2d8e6f651","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;om57ea2d8e6f651=new OptinMonsterApp();om57ea2d8e6f651.init({"s":"20625.57ea2d8e6f651","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster -->
-<!-- ngg_resource_manager_marker --><script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js?ver=3.51.0-2014.06.20"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"https:\/\/www.lackofcolor.com.au\/wp-content\/plugins\/contact-form-7\/images\/ajax-loader.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ..."};
-/* ]]> */
+    </footer></div>
+  </section>
+ 
+  
+
+<script src="//cdn.shopify.com/s/javascripts/currencies.js" type="text/javascript"></script>
+<script src="//cdn.shopify.com/s/files/1/1582/4359/t/1/assets/jquery.currencies.min.js?4837903990794906275" type="text/javascript"></script>
+
+<script>
+Currency.format = 'money_with_currency_format';
+var shopCurrency = 'AUD';
+/* Sometimes merchants change their shop currency, let's tell our JavaScript file */
+Currency.moneyFormats[shopCurrency].money_with_currency_format = "${{amount}} AUD";
+Currency.moneyFormats[shopCurrency].money_format = "${{amount}} AUD";
+  
+/* Default currency */
+var defaultCurrency = 'AUD';
+  
+/* Cookie currency */
+var cookieCurrency = Currency.cookie.read();
+/* Fix for customer account pages */
+jQuery('span.money span.money').each(function() {
+  jQuery(this).parents('span.money').removeClass('money');
+});
+/* Saving the current price */
+jQuery('span.money').each(function() {
+  jQuery(this).attr('data-currency-AUD', jQuery(this).html());
+});
+// If there's no cookie.
+if (cookieCurrency == null) {
+  if (shopCurrency !== defaultCurrency) {
+    Currency.convertAll(shopCurrency, defaultCurrency);
+  }
+  else {
+    Currency.currentCurrency = defaultCurrency;
+  }
+}
+// If the cookie value does not correspond to any value in the currency dropdown.
+else if (jQuery('[name=currencies]').size() && jQuery('[name=currencies] option[value=' + cookieCurrency + ']').size() === 0) {
+  Currency.currentCurrency = shopCurrency;
+  Currency.cookie.write(shopCurrency);
+}
+else if (cookieCurrency === shopCurrency) {
+  Currency.currentCurrency = shopCurrency;
+}
+else {
+  Currency.convertAll(shopCurrency, cookieCurrency);
+}
+jQuery('[name=currencies]').val(Currency.currentCurrency).change(function() {
+  var newCurrency = jQuery(this).val();
+  Currency.convertAll(Currency.currentCurrency, newCurrency);
+  jQuery('.selected-currency').text(Currency.currentCurrency);
+});
+var original_selectCallback = window.selectCallback;
+var selectCallback = function(variant, selector) {
+  original_selectCallback(variant, selector);
+  Currency.convertAll(shopCurrency, jQuery('[name=currencies]').val());
+  jQuery('.selected-currency').text(Currency.currentCurrency);
+};
+$('body').on('ajaxCart.afterCartLoad', function(cart) {
+  Currency.convertAll(shopCurrency, jQuery('[name=currencies]').val());
+  jQuery('.selected-currency').text(Currency.currentCurrency);  
+});
+jQuery('.selected-currency').text(Currency.currentCurrency);
 </script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/plugins/contact-form-7/includes/js/scripts.js?ver=4.3.1"></script>
+
+
+  
 <script type="text/javascript">
-/* <![CDATA[ */
-var wc_add_to_cart_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy\/?wc-ajax=%%endpoint%%","i18n_view_cart":"View Cart","cart_url":"https:\/\/www.lackofcolor.com.au\/cart\/","is_cart":"","cart_redirect_after_add":"no"};
-/* ]]> */
+var iwish_cid = "";
+var iwish_added_txt = '<i class="fa fa-heart" aria-hidden="true"></i> Added in Wishlist';
+var iwish_add_txt = '<i class="fa fa-heart-o" aria-hidden="true"></i> Add to Wishlist';
+//var iwish_qvButton = '.quick_view';
+//var iwish_qvWrapper = '.reveal-modal';
 </script>
-<script type="text/javascript" src="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/js/frontend/add-to-cart.min.js?ver=2.4.10"></script>
-<script type="text/javascript" src="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/js/jquery-blockui/jquery.blockUI.min.js?ver=2.70"></script>
+<script src="https://iwish.shopapps.in/ajax/iwishlist.php?shop=lack-of-color.myshopify.com"></script>
 <script type="text/javascript">
-/* <![CDATA[ */
-var woocommerce_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy\/?wc-ajax=%%endpoint%%"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/js/frontend/woocommerce.min.js?ver=2.4.10"></script>
-<script type="text/javascript" src="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/js/jquery-cookie/jquery.cookie.min.js?ver=1.4.1"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var wc_cart_fragments_params = {"ajax_url":"\/wp-admin\/admin-ajax.php","wc_ajax_url":"\/privacy\/?wc-ajax=%%endpoint%%","fragment_name":"wc_fragments"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/js/frontend/cart-fragments.min.js?ver=2.4.10"></script>
-<script type="text/javascript" src="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.min.js?ver=3.1.5"></script>
-<script type="text/javascript" src="//www.lackofcolor.com.au/wp-content/plugins/woocommerce/assets/js/prettyPhoto/jquery.prettyPhoto.init.min.js?ver=2.4.10"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.selectBox.min.js?ver=4.4.5"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var yith_wcwl_l10n = {"ajax_url":"https:\/\/www.lackofcolor.com.au\/wp-admin\/admin-ajax.php","redirect_to_cart":"no","multi_wishlist":"","hide_add_button":"1","is_user_logged_in":"","ajax_loader_url":"https:\/\/www.lackofcolor.com.au\/wp-content\/plugins\/yith-woocommerce-wishlist\/assets\/images\/ajax-loader.gif","remove_from_wishlist_after_add_to_cart":"yes","labels":{"cookie_disabled":"We are sorry, but this feature is available only if cookies are enabled on your browser.","added_to_cart_message":"<div class=\"woocommerce-message\">Product correctly added to cart<\/div>"},"actions":{"add_to_wishlist_action":"add_to_wishlist","remove_from_wishlist_action":"remove_from_wishlist","move_to_another_wishlist_action":"move_to_another_wishlsit","reload_wishlist_and_adding_elem_action":"reload_wishlist_and_adding_elem"}};
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/plugins/yith-woocommerce-wishlist/assets/js/jquery.yith-wcwl.js?ver=2.0"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/js/bootstrap.min.js"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/js/jquery.flexslider.js"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/js/jquery-ui.js"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/js/jquery.elevatezoom.js"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/js/isotope.pkgd.min.js"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/js/magiczoom.js"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-content/themes/lackofcolor/js/script.js"></script>
-<script type="text/javascript" src="https://www.lackofcolor.com.au/wp-includes/js/wp-embed.min.js?ver=4.4.5"></script>
-
-<!--Plugin WP Overview (lite) 2011.0723.2011 Active-->
-
-
-<noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WGFZDF"
-height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-'//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WGFZDF');</script>
-<!-- End Google Tag Manager --><!-- WooCommerce JavaScript -->
-<script type="text/javascript">
-jQuery(function($) {
-
-		$('.add_to_cart_button:not(.product_type_variable, .product_type_grouped)').click(function() {
-			dataLayer.push({
-				'event': 'gtm4wp.addProductToCart',
-				'productName': $( this ).parent().find('h3').text(),
-				'productSKU': $( this ).data( 'product_sku' ),
-				'productID': $( this ).data( 'product_id' ),
-			});
-		});
-		
-
-
-		$('.add_to_cart_button:not(.product_type_variable, .product_type_grouped)').click(function() {
-			var productdata = $( this ).closest( 'li' ).find( 'a .gtm4wp_productdata' );
-
-			dataLayer.push({
-				'event': 'gtm4wp.addProductToCart',
-				'ecommerce': {
-					'currencyCode': 'AUD',
-					'add': {
-						'products': [{
-							'name':     productdata.data( 'product_name' ),
-							'id':       productdata.data( 'product_id' ),
-							'price':    productdata.data( 'product_price' ),
-							'category': productdata.data( 'product_cat' ),
-							'quantity': 1
-						}]
-					}
-				}
-			});
-		});
-		
-
-
-		$('.products li a:not(.add_to_cart_button)').click(function() {
-			var productdata = $( this ).find( '.gtm4wp_productdata' );
-
-			if ( 0 == productdata.length ) {
-				return true;
-			}
-			
-			dataLayer.push({
-				'event': 'gtm4wp.productClick',
-				'ecommerce': {
-					'click': {
-						'products': [{
-							'name':     productdata.data( 'product_name' ),
-							'id':       productdata.data( 'product_id' ),
-							'price':    productdata.data( 'product_price' ),
-							'category': productdata.data( 'product_cat' ),
-							'position': productdata.data( 'product_listposition' )
-					         }]
-					}
-				},
-				'eventCallback': function() {
-					document.location = productdata.data( 'product_url' )
-				}
-			});
-			return false;
-		});
-	
+jQuery( document ).ready(function() {
+	jQuery("a[href='/apps/iwish']").click(function(e) {
+		if(typeof(Storage) !== "undefined") {
+			e.preventDefault();
+			iWishPost('/apps/iwish',{iwishlist:JSON.stringify(iWishlistmain),cId:iwish_cid});
+		}
+	});
+	jQuery(".iWishAdd").click(function() {
+		var iWishvId = jQuery(this).parents('form').find("[name='id']").val();
+		iwish_add(jQuery(this), iWishvId);
+		return false;
+	});
 });
 </script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"8722067f9c","applicationID":"18569562","transactionName":"ZQNSMEoDX0JXWkEIW1xJcQdMC15fGUlUBlE=","queueTime":0,"applicationTime":570,"atts":"SURRRgIZTEw=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+
+
+  
+<!-- OptinMonster --><script>var om57ea2d8e6f651,om57ea2d8e6f651_poll=function(){var r=0;return function(n,l){clearInterval(r),r=setInterval(n,l)}}();!function(e,t,n){if(e.getElementById(n)){om57ea2d8e6f651_poll(function(){if(window['om_loaded']){if(!om57ea2d8e6f651){om57ea2d8e6f651=new OptinMonsterApp();return om57ea2d8e6f651.init({"s":"20625.57ea2d8e6f651","staging":0,"dev":0,"beta":0});}}},25);return;}var d=false,o=e.createElement(t);o.id=n,o.src="//a.optnmnstr.com/app/js/api.min.js",o.async=true,o.onload=o.onreadystatechange=function(){if(!d){if(!this.readyState||this.readyState==="loaded"||this.readyState==="complete"){try{d=om_loaded=true;om57ea2d8e6f651=new OptinMonsterApp();om57ea2d8e6f651.init({"s":"20625.57ea2d8e6f651","staging":0,"dev":0,"beta":0});o.onload=o.onreadystatechange=null;}catch(t){}}}};(document.getElementsByTagName("head")[0]||document.documentElement).appendChild(o)}(document,"script","omapi-script");</script><!-- / OptinMonster -->
+  
+
+
 
 </body></html>
