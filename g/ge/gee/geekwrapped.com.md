@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekwrapped.com privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709154823id_/http%3A//www.geekwrapped.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekwrapped.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218214237id_/https%3A//www.geekwrapped.com/privacypolicy) for the most accurate reproduction.*
 
 # GeekWrapped Privacy Policy
 
@@ -125,14 +125,8 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 If at any time you would like to unsubscribe from receiving future emails, you can email us at  
      • Follow the instructions at the bottom of each email and we will promptly remove you from ALL correspondence.
 
- **Amazon Services LLC  Associates Program**
-
-GeekWrapped.com is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking to Amazon.com. 
-
-CERTAIN CONTENT THAT APPEARS ON THIS SITE COMES FROM AMAZON SERVICES LLC. THIS CONTENT IS PROVIDED 'AS IS' AND IS SUBJECT TO CHANGE OR REMOVAL AT ANY TIME. All prices on this site may change and those considered valid are displayed on Amazon.com
-
  **Contacting Us**  
 If there are any questions regarding this privacy policy you may [contact us here](https://web.archive.org/about).  
 GeekWrapped.com is owned and operated by West Winds LLC.
 
-Last Edited on 2016-06-25
+Last Edited on 2016-08-01
