@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the petitionbuzz.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213001310id_/http%3A//www.petitionbuzz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petitionbuzz.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218202257id_/http%3A//www.petitionbuzz.com/privacy) for the most accurate reproduction.*
 
 # PetitionBuzz - Privacy Policy
 
