@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rhbabyandchild.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225150438id_/https%3A//www.rhbabyandchild.com/customer-service/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rhbabyandchild.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218225402id_/https%3A//www.rhbabyandchild.com/customer-service/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | RH Baby & Child
 
