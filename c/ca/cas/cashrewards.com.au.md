@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the cashrewards.com.au privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219071836id_/https%3A//www.cashrewards.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashrewards.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218033130id_/https%3A//www.cashrewards.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Cashrewards
 
-**Cashrewards™** is a trade mark used by Shopgo Pty Limited ABN 72 150 888 136 (referred to in this policy as “Cashrewards”, “we” “us” or “our”). It is also our registered business name.
+**Cashrewards™** is a trade mark used by Cashrewards Pty Limited ABN 72 150 888 136 (referred to in this policy as “Cashrewards”, “we” “us” or “our”). It is also our registered business name.
 
 At Cashrewards™ the privacy of all our Members is of utmost importance. Cashrewards is committed to the safeguarding our Member’s **personal information**.
 
@@ -149,4 +149,4 @@ Cashrewards reserves the right to change its privacy policy at any time and we e
 
 This privacy policy must be read in conjunction with any other terms and conditions that may govern our relationship include the terms and conditions set out at [insert link]. If you are an employee of Cashrewards this privacy policy does not apply to you in your capacity as an employee.
 
-Further information about privacy and the relevant law may be obtained from the Privacy Commissioner at [www.oaic.gov.au](https://web.archive.org/web/20161219071836id_/https%3A//www.cashrewards.com.au/www.oaic.gov.au) or [emailenquiries@oaic.gov.au](mailto:emailenquiries@oaic.gov.au). 
+Further information about privacy and the relevant law may be obtained from the Privacy Commissioner at [www.oaic.gov.au](https://web.archive.org/web/20170218033130id_/https%3A//www.cashrewards.com.au/www.oaic.gov.au) or [emailenquiries@oaic.gov.au](mailto:emailenquiries@oaic.gov.au). 
