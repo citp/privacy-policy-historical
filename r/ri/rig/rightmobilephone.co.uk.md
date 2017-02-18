@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the rightmobilephone.co.uk privacy policy that was archived on 2015-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151101062226id_/http%3A//www.broadbandchoices.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rightmobilephone.co.uk privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219001019id_/https%3A//www.broadbandchoices.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - BroadbandChoices.co.uk
 
 For more information on what personal data we collect, why and how we use it, and the steps we take to protect your privacy and the security of your personal information, please read our Privacy Policy below.
 
-broadbandchoices.co.uk (the " **Website** ") is a trading name of Decision Technologies Limited (Company Number 05341159) whose registered address is First Floor, High Holborn House, 52-54 High Holborn, London WC1V 6RL (" **we** ", " **us** ", " **our** ", or " **DTL** ").
+broadbandchoices.co.uk (the "Website") is a trading name of Decision Technologies Limited (Company Number 05341159) whose registered address is First Floor, High Holborn House, 52-54 High Holborn, London WC1V 6RL ("we", "us", "our", or "DTL").
 
-This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how we treat it. Once you use our Website you will be regarded as having read and accepted its terms and this Privacy Policy. Any changes we may make to this Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email.
+This policy (together with our terms of use and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us when using our Website or our service ("Service"). This policy also applies where you use our Service on a third party website.
+
+Please read this Privacy Policy carefully to understand our views and practices regarding your personal data and how we treat it. Once you use our Website or Service you will be regarded as having read and accepted its terms and this Privacy Policy. Any changes we may make to this Privacy Policy in the future will be posted on this page and, where appropriate, notified to you by email. We update our Privacy Policy from time to time so please do review our Privacy Policy regularly.
 
 We take your privacy and the security of your personal information very seriously. We comply with the Data Protection Act 1998 and we are registered with the Information Commissioner's Office (ICO Registration No. Z932912X). If you have any queries relating to our use of your personal data or any other data protection or privacy policy issues then please contact our Data Protection Officer at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email address for Data Protection Officer") or by writing to the Data Protection Officer at the registered address.
 
@@ -14,28 +16,36 @@ We take your privacy and the security of your personal information very seriousl
 
 We may collect and process personal information about you, which you give to us when you use our Website. The type of personal information we collect will vary depending on the services you are using on our Website:
 
-  * details of your visits to our Website including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access ([please see our Cookie policy for more information](https://web.archive.org/cookie-policy "Cookie Policy"));
+  * details of your visits to our Website and use of our Service including, but not limited to, traffic data, location data, weblogs and other communication data and the resources that you access ([please see our Cookie policy for more information](https://web.archive.org/cookie-policy "Cookie Policy"));
   * your name, email address, current broadband supplier and other personal information if you register with us to access one of our tools (for example our Speedtester) or to receive our email newsletters;
   * your postcode if you perform an availability check for broadband suppliers available in your area;
   * your email address if you enter a prize draw or competition;
-  * your phone number if you call certain broadband supplier or our customer services number; and
-  * if you contact us (for example our Online Help Desk), we may keep a record of your email address and that correspondence and any information that you provide by filling in forms on our Website.
+  * your email address if you qualify for a reward or special offer;
+  * your phone number if you call certain broadband suppliers or our customer services number; and
+  * if you contact us (for example our Online Help Desk), we may keep a record of your email address and that correspondence and any information that you provide by filling in forms on our Website or using our Service.
 
 
 
 The provision of some of our services may also require us to store some personal information. We will periodically review your personal information to ensure that we do not keep it for longer than is necessary.
+
+Please note that certain information (e.g. a Post Code on its own) does not constitute personal data under the Data Protection Act 1998, if it is not possible to identify a particular living individual from such information or other information which is in (or is likely to come into) our possession. 
+
+## Information relating to third parties
+
+Where you provide information about a third party, you will ensure that such third party has given their consent. You should not provide any information relating to any other person, without first informing them of this policy and obtaining their prior consent to you submitting such information on their behalf.
 
 ## Purposes for which we use your personal information
 
 We may use your personal information:
 
   * to monitor and improve our services;
-  * to monitor and improve the performance of our Website;
+  * to monitor and improve the performance of our Website and Service;
   * to carry out research and analysis of the broadband, phone or digital TV marketplace;
   * to provide you with emails and newsletters and special offers if you register with us;
   * to provide an availability check of specific broadband, home phone or TV services in your area;
   * to fulfil our obligations if you enter a prize draw or competition;
   * to process a transaction between you and a third party which you have requested;
+  * to process a reward or special offer for which you have qualified;
   * to respond to an enquiry you have made;
   * to provide you with information and advice on broadband services and suppliers;
   * to prevent fraud and defend our legal rights; and
@@ -69,13 +79,17 @@ You can easily unsubscribe from our emails at any time, either by clicking the "
 
 ## Advertising
 
+We work with selected third parties that use information about how you have used our Website and Service in order to make advertising relevant to you and your interests elsewhere on the Internet.
+
+You can find out more about these Targeting Cookies, as well as information on how to turn off cookies, or change the cookie settings on your browser by reading our full [Cookie Policy](https://web.archive.org/cookie-policy "Cookie Policy").
+
 We may use your email address to identify if you are a registered Facebook user and then show you interesting, relevant ads through Facebook.
 
 You can stop receiving these ads at any time by emailing us at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email link for Data Protection Officer").
 
 ## Broadband and home phone availability check
 
-If you carry out an availability check on our Website, we use your postcode for the purpose of carrying out that check.
+If you carry out an availability check on our Website or using our Service, we use your postcode for the purpose of carrying out that check.
 
 Different providers supply services to different parts of the country and this is determined by postcode. The postcode check is essential to find out which providers and home phone and broadband services are available in your postcode area.
 
@@ -85,7 +99,13 @@ We may republish comments and testimonials sent to us by our users when they pro
 
 ## Fulfilling an order you have placed
 
-If you place an order for a service with a third party on our Website (for example a broadband order) then we will collect your personal information and provide this only to that third party to facilitate the transaction you have requested.
+If you place an order for a service with a third party on our Website or via our Service (for example a broadband order) then we will collect your personal information and provide this only to that third party to facilitate the transaction you have requested.
+
+## Fulfilling a reward or special offer
+
+If you place an order on our Website or via our Service which qualifies for a reward or special offer then we will collect your personal information and provide this only to that third party to facilitate the redemption for that specific reward or special offer.
+
+If you provide your consent for us to send you additional information on other products and services that may be of interest, then we may do so.  You can easily unsubscribe from our emails at any time, either by clicking the "unsubscribe" link at the bottom of any electronic correspondence (may take up to 7 days to take effect); or by emailing us at [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email link for Data Protection Officer").
 
 ## Online Help Desk and Ask our Expert enquiries
 
@@ -115,25 +135,27 @@ Where we have given you (or where you have chosen) a password which enables you 
 
 We will not share your personal data with any third parties so that they might try to communicate with you except for the express purpose of fulfilling our obligations as detailed above.
 
-If you decide to enter into a contract with a third party provider via our Website then you are strongly advised to read that chosen provider's privacy policy. We cannot be held responsible for the uses to which a third party puts your personal information once you have contracted with that party.
+If you decide to enter into a contract with a third party provider via our Website or Service then you are strongly advised to read that chosen provider's privacy policy. We cannot be held responsible for the uses to which a third party puts your personal information once you have contracted with that party.
 
-We link to third party websites from our Website. We cannot be held responsible for the uses to which any third party puts your personal information once you have left our Website. 
+We link to third party websites from our Website and Service. Although we only try to include quality, safe and relevant links to third party websites, we cannot guarantee or verify the contents of any externally linked website. Users should always adopt a policy of caution before clicking any external web links mentioned throughout the Website and Service, and do so at their own risk. If you follow a link to any of these websites, please note that these websites should have their own privacy policies. We have not endorsed or approved any third party websites privacy policies. We cannot be held responsible (and do not accept any responsibility or liability) for such policies or for the uses to which any third party puts your personal information once you have left our Website or Service. 
+
+Where our Service is hosted on a third party website, we are not responsible for any use to which such third party puts any personal information which you provide to them on their website and you are strongly advised to read that third party's privacy policy and cookie policy.
 
 ## Cookies
 
-A cookie is a small text file that is sent by the web server of the website you visit to your web browser and is stored on your computer. Cookies provide a number of functions in order to make websites work, or work more efficiently, as well as to provide information to the owners of websites (e.g. cookies can identify if you have previously visited or registered with a website).
+A cookie is a small text file that is sent by the web server of the website you visit to your web browser and is stored on your computer. Cookies provide a number of functions in order to make websites and online services work, or work more efficiently, as well as to provide information to the owners of websites and such online services (e.g. cookies can identify if you have previously visited or registered with a website).
 
-We collect information about users visiting our Websites by analysing site traffic which includes the use of cookies.
+We collect information about users visiting our Websites and using our Service by analysing site traffic which includes the use of cookies.
 
 The Privacy and Electronic Communications (EC Directive) Regulations 2003 has introduced requirements to provide website users with access to information relating to the use of cookies.
 
-You can find out more about the cookies we use on our Website, as well as information on how to turn off cookies, or change the cookie settings on your browser by reading our [full Cookie policy](https://web.archive.org/cookie-policy "Cookie Policy").
+You can find out more about the cookies we use on our Website and Service, as well as information on how to turn off cookies, or change the cookie settings on your browser by reading our [full Cookie policy](https://web.archive.org/cookie-policy "Cookie Policy").
 
 ## Data processing and data control
 
 DTL acts as both a data processor and a data controller within the meaning of the Data Protection Act 1998 with respect to handling your personal information.
 
-DTL acts solely as a data processor where it facilitates orders for products and services placed through our Website.
+DTL acts solely as a data processor where it facilitates orders for products and services placed through our Website and Service.
 
 In the following instances, DTL acts as a data controller:
 
@@ -149,6 +171,8 @@ In the following instances, DTL acts as a data controller:
 
 ## Your rights
 
-You have certain rights under the Data Protection Act 1998 and you can contact us to ask whether we are keeping, processing or storing personal data about you, by sending an email to [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email address for Data Protection Officer") or by writing to the Data Protection Officer at Decision Technologies Limited, First Floor, High Holborn House, 52-54 High Holborn, London, WC1V 6RL.
+You have certain rights under the Data Protection Act 1998 including the right to ask us not to process your personal data for marketing. You can contact us about such rights and personal data, including to ask whether we are keeping, processing or storing personal data about you, by sending an email to [dpo@broadbandchoices.co.uk](mailto:dpo@broadbandchoices.co.uk "Email address for Data Protection Officer") or by writing to the Data Protection Officer at Decision Technologies Limited, First Floor, High Holborn House, 52-54 High Holborn, London, WC1V 6RL.
+
+The Data Protection Act 1998 also gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet out costs in providing you with details of the information we hold about you.
 
 If you ask us to delete, correct or amend your personal data we will do so.
