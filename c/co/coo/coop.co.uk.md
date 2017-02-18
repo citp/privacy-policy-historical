@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coop.co.uk privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120191332id_/http%3A//www.coop.co.uk/terms/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coop.co.uk privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218184113id_/http%3A//www.coop.co.uk/terms/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Co-operative Group
 
