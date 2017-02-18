@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cirquedusoleil.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022020309id_/https%3A//www.cirquedusoleil.com/legal/corporate/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cirquedusoleil.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218020020id_/https%3A//www.cirquedusoleil.com/legal/corporate/privacy-policy) for the most accurate reproduction.*
 
 # 
 
