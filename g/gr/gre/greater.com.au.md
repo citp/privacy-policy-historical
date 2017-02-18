@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803030602id_/https%3A//www.greater.com.au/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greater.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218090921id_/https%3A//www.greater.com.au/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Greater Bank Limited
 
@@ -9,7 +9,9 @@ Greater Bank Limited (ABN 88 087 651 956) ('we', 'us', 'our') is bound by the A
 
 This Australian Privacy Principle and Credit Information Policy (Policy) outlines how we deal with your personal information (including credit-related information), as well as our legal obligations and rights as to that information. If we agree with you to use or disclose any of your personal information in ways which differ to those stated in this Policy, the provisions of that agreement will prevail to the extent of any inconsistency.
 
-**1\. Key types of information**
+## Privacy Policy
+
+###### 1\. Key types of information
 
 Certain words have special meanings when used in this APP Privacy and Credit Information Policy. These are shown below.
 
@@ -37,7 +39,7 @@ We may not hold all of these kinds of information about a particular individual.
 
 "Credit-related information" means credit information, credit eligibility information and related information.
 
-**2\. Collection**
+###### 2\. Collection
 
 Wherever possible, we will collect personal information (including credit information) directly from you. This information will generally come from what you provide in your application for one of our products or services and supporting documentation.
 
@@ -59,9 +61,9 @@ You can also ask a credit reporting body, through contact details on their websi
 
 Some information is created through our internal processes, like credit eligibility scoring information.
 
-**3\. Use**
+###### 3\. Use
 
-We may use your personal information (including credit-related information) for the purpose of providing products and services to you and managing our business. This may
+We may use your personal information (including credit-related information) for the purpose of providing products and services to you and managing our business. This may include:
 
   * assessing and processing your application for the products and services we offer
   * establishing and providing our systems and processes to provide our products and services to you
@@ -81,11 +83,12 @@ In general, we do not use or disclose your personal information (including credi
   * a purpose set out in this Policy
   * a purpose you would reasonably expect
   * a purpose required or permitted by law, or
-  * a purpose otherwise disclosed to you to which you have consented.
 
 
 
-**4\. Disclosure**
+a purpose otherwise disclosed to you to which you have consented.
+
+###### 4\. Disclosure
 
 We may disclose your personal information (including credit-related information) to other organisations, for example:
 
@@ -108,23 +111,23 @@ We may disclose your personal information (including credit-related information)
 
 We will take reasonable steps to ensure that these organisations are bound by sufficient confidentiality and privacy obligations with respect to the protection of your personal information.
 
-We may disclose your personal information overseas, including your credit information and credit eligibility information. The countries where we are likely to disclose your personal information, including your credit information or credit eligibility information, include New Zealand, United States of America and/or Germany.
+We may disclose your personal information overseas, including your credit information and credit eligibility information. The countries where we are likely to disclose your personal information, including your credit information or credit eligibility information, include New Zealand, United States of America, Philippines and/or Germany.
 
 However, if we do disclose this information outside Australia, we will do so on the basis that the information will be used only for the purposes set out in this Policy.
 
-**5\. Sensitive information**
+###### 5\. Sensitive Information
 
 Where it is necessary to do so, we may collect personal information about you that is sensitive. Sensitive information includes information about an individual's health, and membership of a professional or trade association.
 
 Unless we are required or permitted by law to collect that information, we will obtain your consent. However, if the information relates directly to your ability to meet financial obligations that you owe to us, you are treated as having consented to its collection.
 
-**6\. Refusal of credit applications**
+###### 6\. Refusal of Credit Applications
 
 We may refuse an application for consumer credit made by you individually or with other applicants. Our refusal may be based on credit eligibility information obtained from a credit reporting body about either you, another applicant or another person proposed as guarantor.
 
 In that case, we will give you written notice that the application has been refused on the basis of that information. We will tell you the name and contact details of the relevant credit reporting body and other relevant information.
 
-**7\. Security**
+###### 7\. Security
 
 We take all reasonable steps to ensure that your personal information (including credit-related information), held on our website or otherwise, is protected from:
 
@@ -137,7 +140,7 @@ We ask you to keep your passwords and personal identification numbers safe, in a
 
 When we no longer require your personal information (including when we are no longer required by law to keep records relating to you), we take reasonable steps to ensure that it is destroyed or de-identified.
 
-**8\. Website**
+###### 8\. Website
 
 This section explains how we handle personal information and credit information collected from our website. If you have any questions or concerns about transmitting your personal information via the internet, you may contact our Customer Service Manager, whose details are in paragraph 14 of this Policy, as there are other ways for you to provide us with your personal information.
 
@@ -168,9 +171,9 @@ We currently use Google cookies to service adverts to its visitors across the Go
 
 https://www.google.com/settings/ads/onweb/?sig=ACiOTCjBwYWUHEBqTvq1KO8jq9cKVPqOBkp7ENZgp-R8niqeQBD3TIBszjn7F8yrdOIDgK4ww9exMwsfZN2uTd2sA94iiOfJw&hl=en
 
-Additionally, we have enabled Google Analytics to collect data about our advertising traffic via [Google advertising cookies](http://www.google.com/policies/technologies/types) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), and have enabled the following Google Analytics Advertising Features: Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting and integrated services that require Google Analytics to collect data via advertising cookies and anonymous identifiers.
+Additionally, we have enabled Google Analytics to collect data about our advertising traffic via [Google advertising cookies](http://www.google.com/policies/technologies/types/) and [anonymous identifiers](https://www.google.com/policies/privacy/key-terms/#toc-terms-identifier), and have enabled the following Google Analytics Advertising Features: Remarketing with Google Analytics, Google Display Network Impression Reporting, Google Analytics Demographics and Interest Reporting and integrated services that require Google Analytics to collect data via advertising cookies and anonymous identifiers.
 
-You can opt-out of your data being used by Google Analytics here: [https://tools.google.com/dlpage/gaoptout/ ](https://tools.google.com/dlpage/gaoptout)
+You can opt-out of your data being used by Google Analytics here: <https://tools.google.com/dlpage/gaoptout/>
 
 We also use the ClickTale customer experience analytics service on this site. The ClickTale service helps us analyse how visitors use our website. We do not collect through the ClickTale service or transfer to ClickTale any information that can personally identify you.
 
@@ -194,7 +197,7 @@ _Links on our website_
 
 Our website may contain links to third party websites. The terms of this Policy do not apply to external websites. If you wish to find out how any third parties handle your personal information or credit information, you will need to obtain a copy of their privacy policy.
 
-**9\. Access**
+###### 9\. Access
 
 You may request access to the personal information (including credit-related information) that we hold about you at any time from your local branch or by calling our Service Centre on 1300 651 400 during business hours.
 
@@ -202,11 +205,11 @@ We will respond to your request for access within a reasonable time. If we refus
 
 We may recover the reasonable costs of our response to a request for access to personal information.
 
-**10\. Accuracy**
+###### 10\. Accuracy
 
 We take reasonable steps to make sure that the personal information (including credit-related information) that we collect, use or disclose is accurate, complete and up-to-date. However, if you believe your information is incorrect, incomplete or not current, you can request that we update this information by contacting your local branch or by calling our Service Centre on 1300 651 400 during business hours.
 
-**11\. Marketing**
+###### 11\. Marketing
 
 We may use your personal information, including your contact details, to provide you with information about products and services, including those of third parties, which we consider may be of interest to you. We are permitted to do this while you are our customer, and even if you are on the Do Not Call Register.
 
@@ -216,11 +219,11 @@ We will consider that you consent to this, unless you opt out. You may opt out a
 
 To help us reach the right people with our credit direct marketing, we may ask a credit reporting body to "pre-screen" a list of potential recipients of our direct marketing against our eligibility criteria to remove recipients that do not meet those criteria. From 12 March 2014, the credit reporting body cannot use information about your existing loans or repayment history in carrying out its pre-screening and it must destroy its pre-screening assessment once it has given us, or a contractor acting on our behalf, the list of eligible recipients. If you do not want your credit information used for pre-screening by a credit reporting body that holds credit information about you, you can opt-out by informing that credit reporting body, whose contact details are on their website above.
 
-**12\. Changes to the Policy**
+###### 12\. Changes to the Policy
 
 We may make changes to this Policy from time to time (without notice to you) that are necessary for our business requirements or the law. Our current Policy is available on our website www.greater.com.au
 
-**13\. Questions and complaints**
+###### 13\. Questions and complaints
 
 If you have any questions, concerns or complaints about this Policy, or our handling of your personal information (including credit-related information), please contact your local branch or by calling our Service Centre on 1300 651 400 during business hours You can also contact the Customer Service Manager if you believe that the privacy of your personal information has been compromised or is not adequately protected.
 
@@ -229,23 +232,23 @@ Once a complaint has been lodged, the Customer Service Manager will respond to y
 If you are still not satisfied, you can contact external bodies that deal with privacy complaints. The Credit & Investments Ombudsman Limited which is our external dispute resolution scheme, or the Federal Privacy Commissioner. Any of these bodies may forward your complaint to another external dispute resolution body if it considers the complaint would be better handled by that other body.
 
 _Credit & Investments Ombudsman_  
- _Post_ : PO Box A252, Sydney South NSW 1235  
- _Telephone_ : 1800 138 422  
- _Website_ : [www.cio.org.au](http://www.cio.org.au/)
+_Post_ : PO Box A252, Sydney South NSW 1235  
+_Telephone_ : 1800 138 422  
+_Website_ : [www.cio.org.au](http://www.cio.org.au/)
 
 _Federal Privacy Commissioner_  
- _Post_ : GPO Box 5218 Sydney NSW 2001  
- _Telephone_ : 1300 363 992  
- _Website_ : [www.oaic.gov.au](http://www.oaic.gov.au/)
+_Post_ : GPO Box 5218 Sydney NSW 2001  
+_Telephone_ : 1300 363 992  
+_Website_ : [www.oaic.gov.au](http://www.oaic.gov.au/)
 
-**14\. Customer Service Manager**
+###### 14\. Customer Service Manager
 
 Our Customer Service Manager's contact details are:
 
 _Address_ : P O Box 173, Hamilton NSW 2303  
- _Telephone_ : 1300 651 400  
- _Email_ : webenquiry@greater.com.au
+_Telephone_ : 1300 651 400  
+_Email_ : webenquiry@greater.com.au
 
-**15\. Disclaimer**
+###### 15\. Disclaimer
 
 This Policy is provided for the purposes of information only. While we have taken care to ensure that it is accurate and current, we provide no guarantee as to its accuracy or currency. We accept no liability for loss or damage suffered as a result of reliance on the information provided in this Privacy Policy.
