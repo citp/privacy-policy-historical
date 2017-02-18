@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the coderbyte.com privacy policy that was archived on 2016-12-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161220190112id_/https%3A//coderbyte.com/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the coderbyte.com privacy policy that was archived on 2017-02-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170218104751id_/https%3A//coderbyte.com/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head> 
 <title> Coderbyte </title>  
@@ -60,6 +60,11 @@ $(document).ready(function() {
         $('.navDropDown').mouseleave();
         dropped = true;
     });
+    // course dropdown hover action
+    $(".navMockHover").hover(function() {
+        $('.navDropDown').mouseleave();
+        dropped = true;
+    });
     $('.courseDropDown').mouseleave(function() {
         //$('.courseDropDown').hide();
         //$('.navCourseHover').removeClass('hovered');
@@ -97,6 +102,7 @@ $(document).ready(function() {
 	<div id="header_right"> 
 	    <ul id="nav">
 			<li><a class="navChalHover" href="http://coderbyte.com/challenges">Practice <span>⌄</span></a></li>
+			<li><a class="navMockHover" href="http://coderbyte.com/mock-interview">Mock Interview <span>New</span></a></li>
 			<li><a class="navCourseHover" href="http://coderbyte.com/courses/?s=courses#all">Courses <span style="display:none;">⌄</span></a></li>
 			<li><a href="https://coderbyte.com/CodingArea/Profile/">Profile</a></li>
 	    </ul>
@@ -107,6 +113,7 @@ $(document).ready(function() {
 		<ul class="navDropDown">
 			<a href="https://coderbyte.com/challenges"><li><div class="dropIcon"></div>Challenges</li></a>
 			<a href="https://coderbyte.com/challenges?a=true"><li><div class="dropIcon"></div>Tutorials</li></a>
+			<!--<a href="https://coderbyte.com/projects"><li><div class="dropIcon"></div>Projects</li></a>-->
 			<a href="https://coderbyte.com/questions/"><li><div class="dropIcon"></div>Discussion</li></a>
 			<a href="https://coderbyte.com/rankings/"><li><div class="dropIcon"></div>Rankings</li></a>
 		</ul>
@@ -296,6 +303,7 @@ $(document).ready(function() {
     <a href="/challenges">Challenges</a>
     <a href="/About"> About </a> 
     <a href="/sl"> Sign Up/Login </a>   
+    <a href="https://medium.com/coderbyte"> Blog </a>   
     <a href="/News"> Social </a> 
     <a href="/Privacy/"> Privacy </a> 
     <a href="/Terms/">Terms</a>
