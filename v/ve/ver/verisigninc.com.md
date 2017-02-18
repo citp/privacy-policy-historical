@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the verisigninc.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018131540id_/http%3A//www.verisign.com/en_US/privacy/index.xhtml) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the verisigninc.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218040939id_/https%3A//www.verisign.com/en_US/privacy/index.xhtml) for the most accurate reproduction.*
 
 # Privacy - Verisign
 
@@ -106,7 +106,7 @@ From time to time, we notify our subscribers of new products, announcements, upg
 
 We consider the protection of all personal information we receive from our Covered Sites’ visitors and subscribers as critical to our corporate mission. We have security measures in place to protect against the loss, misuse, and alteration of any personal information we receive from you. As with any transmission over the Internet, however, there is always some element of risk involved in sending personal information. Our security procedures are subject to at least an annual SOC Type II audit by an internationally recognized accounting firm. 
 
-We will retain your information for as long as needed to provide you our products and services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacystatement@versign.com](mailto:privacystatement@versign.com?subject=Privacy%20Statement). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as needed to provide you our products and services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [privacystatement@verisign.com](mailto:privacystatement@verisign.com?subject=Privacy%20Statement). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### VIII. HOW YOU CAN UPDATE OR CORRECT YOUR PERSONAL INFORMATION
 
@@ -124,7 +124,7 @@ If a material change is made to this Privacy Statement and/or the way we use our
 
 If You have questions or complaints about this Privacy Statement, you may contact us in the following ways: 
 
-  * You can email us at [privacystatement@versign.com](mailto:privacystatement@versign.com?subject=Privacy%20Statement). Please specify "Privacy Statement" in the subject line of your email. 
+  * You can email us at [privacystatement@verisign.com](mailto:privacystatement@verisign.com?subject=Privacy%20Statement). Please specify "Privacy Statement" in the subject line of your email. 
   * You may also call us at +1 703-948-3350
   * You may write to us at
 
