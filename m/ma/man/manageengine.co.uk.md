@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the manageengine.co.uk privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415022442id_/https%3A//manageengine.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manageengine.co.uk privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218035115id_/https%3A//www.manageengine.co.uk/privacy.html) for the most accurate reproduction.*
 
 # ManageEngine Privacy Policy
 
 12th October 2006
 
-[www.webnms.com](http://www.webnms.com/), [www.manageengine.com](https://www.manageengine.co.uk/), [www.swissql.com](http://www.swissql.com/), [www.sqlone.com](http://www.sqlone.com/), [www.dbchangemanager.com](http://www.dbchangemanager.com/), [www.linuxmonitor.com](http://www.linuxmonitor.com/) and [www.zoho.com](http://www.zoho.com/) are websites owned by ZOHO Corp..
+[www.webnms.com](http://www.webnms.com/), [www.manageengine.com](https://www.manageengine.co.uk/) and [www.zoho.com](http://www.zoho.com/) are websites owned by ZOHO Corp..
 
 **Our postal address is**
 
