@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the dharmabums.com.au privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614221913id_/http%3A//www.dharmabums.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dharmabums.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218111613id_/https%3A//www.dharmabums.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – Dharma Bums Yoga and Activewear
+# Privacy Policy | Women's Yoga and Activewear Clothing Online | Dharma Bums
 
 #### SECTION 1 - WHAT DO WE DO WITH YOUR INFORMATION?
 
@@ -22,14 +22,12 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at info@dharmabums.com.au or mailing us at:
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at [customerservice@dharmabums.com.au](mailto:customerservice@dharmabums.com.au "customerservice@dharmabums.com.au") or mailing us at:
 
 Dharma Bums,  
-Unit 4,  
-14-18 Roseberry Street,  
-Balgowlah,  
-Sydney, NSW 2095
-
+2 / 22 Waine Street,  
+Freshwater  
+Sydney, NSW 2096  
 Australia
 
 #### SECTION 3 - DISCLOSURE 
@@ -106,15 +104,11 @@ If our store is acquired or merged with another company, your information may be
 
 #### QUESTIONS AND CONTACT INFORMATION 
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at info@dharmabums.com.au or by mail at
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at [customerservice@dharmabums.com.au](mailto:customerservice@dharmabums.com.au%20 "customerservice@dharmabums.com.au ") or by mail at
 
-Dharma Bums
-
-[Re: Privacy Compliance Officer] 
-
-Unit 4,  
-14-18 Roseberry Street,  
-Balgowlah,  
-Sydney, NSW 2095
-
+Privacy Compliance Officer,  
+Dharma Bums,  
+2 / 22 Waine Street,  
+Freshwater  
+Sydney, NSW 2096  
 Australia
