@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the livehotty.com privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321203341id_/http%3A//www.livehotty.com/privacy.html%3F) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livehotty.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218155931id_/https%3A//www.livehotty.com/privacy.html) for the most accurate reproduction.*
 
 # LiveHotty - Privacy Policy
 
-[Home](http://www.livehotty.com/) / Privacy Policy
+[Home](http://livehotty.com/) / Privacy Policy
 
 By using our sites, you signify your agreement to the privacy policies described herein. If you do not agree with our privacy policies, please do not use our site or service. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent announcement on our pages or we will email you at our discretion.
 
@@ -47,7 +47,7 @@ If you have any questions about this Privacy Policy, please contact our customer
 
 The address for correspondence by post is
 
-ICF Technology, Inc.  
-PO Box 21508  
-Seattle, WA 98111  
-USA
+.cnI ,ygolonhceT FCI  
+80512 xoB OP  
+11189 AW ,elttaeS  
+ASU
