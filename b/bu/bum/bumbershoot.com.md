@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bumbershoot.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115073906id_/http%3A//bumbershoot.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bumbershoot.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218144202id_/http%3A//www.bumbershoot.com/privacy) for the most accurate reproduction.*
 
 # Privacy : Bumbershoot
 
