@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911235203id_/https%3A//www.barbequesgalore.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barbequesgalore.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218053018id_/https%3A//www.barbequesgalore.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Barbeques Galore
 
 ## Our Privacy Commitment
 
