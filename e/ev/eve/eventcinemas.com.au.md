@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventcinemas.com.au privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109091736id_/https%3A//www.eventcinemas.com.au/terms/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventcinemas.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218055715id_/https%3A//www.eventcinemas.com.au/terms/Privacy) for the most accurate reproduction.*
 
 # Privacy
 
