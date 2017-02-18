@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydesktop.com.au privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019083122id_/https%3A//www.mydesktop.com.au/cgi-bin/clients/mydesktop-new/privacy.cgi) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydesktop.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218224347id_/https%3A//www.mydesktop.com.au/cgi-bin/clients/mydesktop-new/privacy.cgi) for the most accurate reproduction.*
 
 # MyDesktop - Real Estate Software Australia New Zealand
 
