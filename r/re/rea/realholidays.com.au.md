@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the realholidays.com.au privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826014520id_/https%3A//www.homeaway.com.au/info/about-us/legal/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realholidays.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218131922id_/https%3A//www.homeaway.com.au/info/about-us/legal/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policies | HomeAway.com.au
 
