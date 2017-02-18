@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the readynicheprofits.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105205824id_/http%3A//www.readynicheprofits.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the readynicheprofits.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218113315id_/http%3A//readynicheprofits.com/index.php%3Fpage%3Dprivacy) for the most accurate reproduction.*
 
 # Welcome to Ready Niche Profits
 
