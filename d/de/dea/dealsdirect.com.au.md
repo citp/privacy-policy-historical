@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223100013id_/https%3A//www.dealsdirect.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealsdirect.com.au privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218070554id_/https%3A//www.dealsdirect.com.au/PrivacyPolicy.aspx%3Fcid%3D10) for the most accurate reproduction.*
 
 # dealsdirect.com.au - Privacy
 
