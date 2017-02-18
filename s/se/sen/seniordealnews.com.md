@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seniordealnews.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209213641id_/http%3A//signup.seniordealnews.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seniordealnews.com privacy policy that was archived on 2017-02-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170218125946id_/http%3A//signup.seniordealnews.com/privacy.php) for the most accurate reproduction.*
 
 # SeniorDealNews.com | Privacy
 
