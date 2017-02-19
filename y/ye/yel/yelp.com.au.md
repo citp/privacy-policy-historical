@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yelp.com.au privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112044342id_/https%3A//www.yelp.com.au/tos/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yelp.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219101507id_/https%3A//www.yelp.com.au/tos/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Yelp
 
@@ -103,4 +103,4 @@ For users residing in the European Union, please note that the personal data inf
 
 We may revise this Privacy Policy from time to time. The most current version of the Privacy Policy will govern our collection, use, and disclosure of information about you and will be located [here](https://web.archive.org/static?p=privacy). If we make material changes to this Privacy Policy, we will notify you by email or by posting a notice on the Service prior to the effective date of the changes. By continuing to access or use the Service after those changes become effective, you agree to the revised Privacy Policy.
 
-Copyright © 2004–2016 Yelp 
+Copyright © 2004–2017 Yelp 
