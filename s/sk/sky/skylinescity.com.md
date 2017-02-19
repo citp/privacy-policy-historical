@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the skylinescity.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127072830id_/http%3A//www.skylinescity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skylinescity.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219090450id_/https%3A//www.incgamers.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - SkylinesCity.com | SkylinesCity.com
+# Privacy Policy - IncGamers Network
 
 **Introduction**
 
@@ -34,4 +34,4 @@ Any changes to our Privacy Policy will be placed here and will supersede this ve
 
 **Contacting Us**
 
-If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at privacy@pcinvasion.com. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
+If you have any questions about our Privacy Policy, or if you want to know what information we have collected about you, please email us at privacy@incgamers.com. You can also correct any factual errors in that information or require us to remove your details form any list under our control.
