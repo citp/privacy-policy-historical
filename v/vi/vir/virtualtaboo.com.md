@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualtaboo.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221040331id_/http%3A//www.virtualtaboo.com/legal-docs/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualtaboo.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219192303id_/http%3A//virtualtaboo.com/legal-docs/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy, VirtualTaboo
 
@@ -24,3 +24,5 @@ In the above scenario CAMON TRADING LTD will introduce prospective changes on th
 The input of your data on our websites implies the acceptance of these terms of use and privacy policy, with the understanding that the user is informed of the conditions of use and privacy policy for them and is committed to full compliance while visiting in www.virtualtaboo.com.
 
 This data protection policy may change over time due to possible legislative changes, case law or changes the criteria followed by the Cyprus Office of the Commissioner for Personal Data Protection and / or the competent authority at all times. That is why CAMON TRADING LTD reserves the right to amend this legal notice to adapt to new legislation or jurisprudence which are in force at the precise moment you access to websites, as well as industry practices.
+
+**Cookies:** This site uses cookies to deliver its services. VirtualTaboo assumes you understand and agree this, if you keep using our site. [Read more](https://web.archive.org/legal-docs/cookies-policy)
