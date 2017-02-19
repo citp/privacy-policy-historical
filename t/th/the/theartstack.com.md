@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theartstack.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024200203id_/https%3A//theartstack.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theartstack.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219035631id_/https%3A//theartstack.com/pages/privacy) for the most accurate reproduction.*
 
 # ArtStack - art online
 
