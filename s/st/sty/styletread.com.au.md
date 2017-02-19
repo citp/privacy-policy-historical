@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127205107id_/http%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styletread.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219083515id_/https%3A//www.styletread.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -78,9 +78,15 @@ We don't treat the data collected as personal information or use it in associati
 
 Identification checks
 
-Styletread will partially refund you a small amount back into your nominated account to verify that you are the credit card holder.
+For all online purchases, you may have the chance to be randomly selected to take part in an ID check to help prevent fraudulent card and account activity.
 
-Once we receive the confirmation either via email or phone, your order will be processed and shipped as soon as possible. If we do not receive the confirmed information within three working days your order will be cancelled and you will receive a full refund.
+Agreeing with the terms when purchasing, if you are randomly selected, our security team may require a screenshot or photo of your Styletread transaction as shown on your internet banking account transaction showing both the Styletread name as well as the total amount paid.
+
+With this we can confirm that you are the account holder and no fraudulent or unauthorised activity has taken place.
+
+Alternatively Styletread will partially refund you a small amount back into the account you made the purchase from. Once you have verified the amount we refunded it will confirm that you are the credit card holder.
+
+Once we receive the confirmation, your order will be processed and shipped as soon as possible. If we do not receive the confirmed information within five working days your order will be cancelled and you will receive a full refund.
 
 Address and Contact Details
 
