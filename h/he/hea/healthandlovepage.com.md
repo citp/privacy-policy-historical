@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthandlovepage.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231000540id_/https%3A//www.healthandlovepage.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthandlovepage.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219095222id_/https%3A//healthandlovepage.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Health And Love Page
 
