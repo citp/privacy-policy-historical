@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the navitas.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021052041id_/https%3A//www.navitas.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the navitas.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219152532id_/https%3A//www.navitas.com/privacy_policy) for the most accurate reproduction.*
 
 # Navitas - Privacy Policy
 
@@ -12,9 +12,7 @@ This Privacy Policy outlines how Navitas deals with the personal information we 
 
 Personal information includes any information or opinion about an identified individual or an individual who is reasonably identifiable. For further information visit the Office of the Australian Information Commissioner website.
 
-The types of personal information which Navitas collects may include an individual's name, phone number, email address, address, nationality, date of birth, and educational history. Due to the nature of the services provided by Navitas, some of the information we collect may be sensitive information, including details about an individual's race, ethnic background or religion.
-
-It is not common practice for Navitas to collect information about an individual's medical history, political opinion, sexual preference or criminal record, unless such information is required in order to process a student's application for admission, enrolment and education. Navitas will only collect sensitive information with an individual's consent.
+The types of personal information which Navitas collects may include an individual's name, phone number, email address, address, nationality, date of birth, and educational history. Due to the nature of the services provided by Navitas, some of the information we collect may be sensitive information, including details about an individual's religion, race or ethnic background. It is not common practice for Navitas to collect information about an individual's medical history, political opinion, sexual preference or criminal record, unless such information is required in order to process a student's application for admission, enrolment and education. Navitas will only collect sensitive information with an individual's consent.
 
 Personal information may be collected by Navitas in a number of circumstances, including when an individual:
 
@@ -28,9 +26,7 @@ Personal information may be collected by Navitas in a number of circumstances, i
 
 We generally collect personal information directly from the individual concerned, although there may be occasions when information is collected from third parties, such as a family member who contacts us on the individual's behalf, from our contractors who supply services to us, through our partner institutions or from a publicly maintained record. If an individual does not provide the information requested by us, we may not be able to provide them with our services.
 
-If you provide personal information to us about someone else, you must ensure that you are entitled to disclose that information to us and that, without us taking any further steps required by privacy laws, we may collect, use and disclose such information for the purposes described in this Privacy Policy.
-
-For example, you should take reasonable steps to ensure the individual concerned is aware of the various matters detailed in this Privacy Policy, including our identity and how to contact us, the purposes for which we collect personal information, our information disclosure practices, the individual's right to obtain access to the information we hold about them and the consequences for the individual if the information is not provided. The individual must also provide the consents set out in this Privacy Policy in respect of how Navitas will deal with their personal information.
+If you provide personal information to us about someone else, you must ensure that you are entitled to disclose that information to us and that, without us taking any further steps required by privacy laws, we may collect, use and disclose such information for the purposes described in this Privacy Policy. For example, you should take reasonable steps to ensure the individual concerned is aware of the various matters detailed in this Privacy Policy, including our identity and how to contact us, the purposes for which we collect personal information, our information disclosure practices, the individual's right to obtain access to the information we hold about them and the consequences for the individual if the information is not provided. The individual must also provide the consents set out in this Privacy Policy in respect of how Navitas will deal with their personal information.
 
 ### What other information do we collect?
 
@@ -67,9 +63,7 @@ Navitas may from time to time provide information to third party marketing servi
 
 By providing us with your personal information, you consent to us using your information to contact you on an ongoing basis in order to provide you with marketing information we think would be of interest to you, including by mail, email, SMS and telephone.
 
-Navitas may retain other companies and contractors to provide services for us, including entities located outside Australia, who will need to have access to your personal information to perform their obligations. Navitas may also use a cloud-based service to store and process personal information.
-
-By providing us with your personal information, you consent to us disclosing your information to entities located outside Australia for these purposes, as well as Navitas' related companies to allow those companies to use and disclose that information for the primary and ancillary purposes for which Navitas collects personal information stated above. In such circumstances, we are not responsible for a failure of the overseas recipient to comply with Australian privacy laws. The entities may be located in the USA, Japan and Hong Kong. For a full list of locations, please contact our Privacy Contact Officer.
+Navitas may retain other companies and contractors to provide services for us, including entities located outside Australia, who will need to have access to your personal information to perform their obligations. Navitas may also use a cloud-based service to store and process personal information. By providing us with your personal information, you consent to us disclosing your information to entities located outside Australia for these purposes, as well as Navitas' related companies to allow those companies to use and disclose that information for the primary and ancillary purposes for which Navitas collects personal information stated above. In such circumstances, we are not responsible for a failure of the overseas recipient to comply with Australian privacy laws. The entities may be located in the USA, Japan and Hong Kong. For a full list of locations, please contact our Privacy Contact Officer.
 
 Only a limited number of staff has access to the anonymous information collected via the Navitas website. The information is collated for analysis. It is then evaluated and published in reports that show Navitas usage patterns and identify popular areas of the website. This helps us to improve and develop the website and its services.
 
