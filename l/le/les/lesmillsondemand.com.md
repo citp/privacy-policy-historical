@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lesmillsondemand.com privacy policy that was archived on 2016-05-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160530203620id_/http%3A//www.lesmills.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lesmillsondemand.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219015809id_/http%3A//www.lesmills.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy – Les Mills
 
 Les Mills International Limited (jointly referred to as LMI) operates the lesmills.com website (including all content and functionality available through the lesmills.com domain name and any country or region specific domains or sub domains) (jointly referred to as the “Site”). LMI is committed to ensuring the privacy and protection of information users enter into the Site. The following privacy policy governs LMI’s practices for information collection, use and retention on the Site. It should be read with:
 
