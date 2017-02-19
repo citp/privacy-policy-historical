@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405142207id_/https%3A//www.zuji.com.au/about/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zuji.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219041828id_/https%3A//www.zuji.com.au/about/privacy-security) for the most accurate reproduction.*
 
-# Privacy / Security
+# Privacy Security
 
 ZUJI Pty Ltd is subject to and complies with the Federal Privacy Act 1988 (as amended from time to time) and the ten National Privacy Principles in the Act. All references to ZUJI shall be deemed to refer to ZUJI Pty Ltd, where appropriate.
 
