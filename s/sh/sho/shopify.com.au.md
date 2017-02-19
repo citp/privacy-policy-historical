@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopify.com.au privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225074947id_/https%3A//www.shopify.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopify.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219024953id_/https%3A//www.shopify.com.au/legal/privacy) for the most accurate reproduction.*
 
 # Shopify Privacy Policy
 
@@ -176,7 +176,7 @@ Chief Privacy Officer
 
 
 Last updated: September 27, 2016  
-© 2016 Shopify Inc.  
+© 2017 Shopify Inc.  
 
 
 ## Start your free 14-day trial today!
