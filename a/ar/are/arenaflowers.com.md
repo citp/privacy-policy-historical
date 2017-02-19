@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2015-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151015003843id_/http%3A//www.arenaflowers.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arenaflowers.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219224410id_/https%3A//www.arenaflowers.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -21,7 +21,7 @@
 
 9\. The personal information which we hold will be held securely in accordance with our internal security policy and English law. 
 
-10\. If we intend to transfer your information outside the EEA (European Economic Area) for uses other than order fulfillment, we will always obtain your consent first. 
+10\. Your data may be transferred and stored on servers which are located outside the European Economic Area (EEA), and processed by staff who are outside the EEA. When you transmit or submit data to us you agree to such transferring, storage and processing. 
 
 11\. We use cookies on this website in a number of ways including the checkout process so the page remembers the product(s) you have chosen. We also use cookies to help tailor your shopping experience to your needs whilst also making your visit to our website more efficient. This is done by collecting certain pieces of personal data about you in a small data file known as a cookie and stored on your computer / internet device. Please note that this is a very common practice with websites and that a cookie cannot harm your computer in any way. The data we store does NOT contain transactional information such as credit card details and is also encrypted.
 
