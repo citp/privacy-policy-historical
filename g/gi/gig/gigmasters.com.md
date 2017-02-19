@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107035346id_/https%3A//www.gigmasters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gigmasters.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219034012id_/https%3A//www.gigmasters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
