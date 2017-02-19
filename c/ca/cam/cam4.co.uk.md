@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cam4.co.uk privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229043614id_/http%3A//www.cam4.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cam4.co.uk privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219215531id_/https%3A//www.cam4.co.uk/privacy) for the most accurate reproduction.*
 
 # CAM4 Privacy Policy
 
