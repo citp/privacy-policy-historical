@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the overthecap.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201191236id_/http%3A//overthecap.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the overthecap.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219074833id_/http%3A//overthecap.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Over the Cap
+# Privacy Policy | Over the Cap
 
 [[adsenseyu1]  
 ](http://overthecap.com/best-worst-contracts-the-dallas-cowboys/)
