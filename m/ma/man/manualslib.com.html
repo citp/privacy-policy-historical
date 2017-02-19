@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the manualslib.com privacy policy that was archived on 2016-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161009122802id_/https%3A//www.manualslib.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the manualslib.com privacy policy that was archived on 2017-02-19.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170219083245id_/https%3A//www.manualslib.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -441,11 +441,11 @@ display: inline;
 display: inline;
 }   
     </style>
- 
+   
   
         <!-- styles -->
    
-	<link href="/css/style.css?esfd=4375" rel="stylesheet">
+	<link href="/css/style.css?esfd=431" rel="stylesheet">
     
 	<link rel="icon" type="/image/vnd.microsoft.icon" href="/favicon-16.png">
         <link rel="SHORTCUT ICON" href="/favicon.ico">
@@ -487,7 +487,7 @@ display: inline;
                                       <script src="/js/bootstrap.min.js?32434"></script>
                  <script src="/js/jquery-ui.min.js?234324"></script>
         <script src="/js/jquery.elevatezoom.js?234324"></script>
-        <script src="/js/script.js?944418806"></script>
+        <script src="/js/script.js?187176690"></script>
         <script src="/js/config.js?43"></script>
             
    <![endif]-->
@@ -514,19 +514,82 @@ display: inline;
         
      </script>
 		 <script src="/js/jquery.min.js?262" defer=""></script>
+               
+
                                   
                      <script src="/js/bootstrap.min.js?32434" defer=""></script>
-                     <script src="/js/stat_master5000.js"></script>
+                 <script>
+                     var stat=function(){
+    var StatMaster= function(){
+        var tasks=new Array;
+        var expecting=0;
+        var recieved=0;
+        var activated=false;
+       this.Add=function(action,params,callback)
+       {
+           tasks.push({"action":action,"params":params,"callback":callback});
+           if(++recieved>=expecting && activated)
+           {
+               send_stat();
+           }
+       };
+       this.Expect=function(num)
+       {
+         expecting=num;
+         recieved=0;
+       };
+       
+       var send_stat=function(){
+           activated=true;
+           if(recieved<expecting)
+           {
+               return;
+           }
+           var ready_tasks=[];
+           var callbacks={};
+           tasks.forEach(function(obj){
+              if(typeof obj.callback=="function")
+              {
+                  callbacks[obj.action]=obj.callback;
+              }
+              ready_tasks.push({"action":obj.action,"params":obj.params})
+           });
+           $.post("/ajax/action/all_stat/",{"tasks":ready_tasks},function(data){
+               for(var key in data){
+                   if(callbacks.hasOwnProperty(key))
+                   {
+                       callbacks[key](data[key]);
+                   }
+               };
+           },"json");
+       };
+       load_helper.ready(send_stat);
+    };
+    return new StatMaster;
+}();
+</script>
+
+
+                     
     
         <script src="/js/jquery-ui.min.js?234324" defer=""></script>
         <script src="/js/jquery.elevatezoom.js?234324" defer=""></script>
-        <script src="/js/script.js?211003472" defer=""></script>
+        <script src="/js/script.js?70143816" defer=""></script>
                      <script src="/js/config.js?564" defer=""></script>
         <script>
             var addthis_config =  {
                 services_exclude: 'print'
                 };
         </script>
+            <script src="/js/fa.js" defer=""></script>
+         <script>
+             var abp;
+         </script>
+             
+       <script type="text/javascript" src="/js/px.js?ch=1"></script>
+        <script type="text/javascript" src="/js/px.js?ch=2"></script>
+        <script type="text/javascript" async="" src="/js/abp_activation.js"></script>
+   
         </head>
 
 <body class="">
@@ -844,7 +907,7 @@ ManualsLib.com,<br>
 					<div class="col-sm-2">
 						<div class="center-block">
 							<a href="/" class="flogo" title="Manuals Library"><img alt="manuallib footer logo" src="/img/flogo.png"></a>
-							<div class="copy">2012-2016 ManualsLib.com</div>
+							<div class="copy">2012-2017 ManualsLib.com</div>
 						</div>
 					</div>
 					<div class="col-sm-10">
@@ -953,10 +1016,33 @@ ManualsLib.com,<br>
 		</div><!-- /.modal-content -->
 	  </div><!-- /.modal-dialog -->
 	</div><!-- /.modal -->
-	
-    <!-- javascript
+	<div class="modal" id="MyAPopup" tabindex="-1" role="dialog" aria-hidden="true" style="top:25%">
+    <div class="modal-dialog">
+		
+		<div class="modal-content">
+		  <div class="modal-header">
+			<button type="button" class="close" data-dismiss="modal" aria-hidden="true">×</button>
+                        <h4 class="modal-title">AdBlocker Detected!</h4>
+		  </div>
+		   <div class="modal-footer">
+                      Please disable your adblocker only for www.manualslib.com.<br>
+                    Ads are the only way to keep ManualsLib FREE and keep it growing.<br>
+
+                    We guarantee only CLEAN Ads without any pop-ups, pop-unders etc.<br>
+
+                    Thank you.<br>
+                      <div style="margin: 5px auto; width: 300px;">
+        
+                <div style="float: left; "><a href="#" target="_blank" rel="nofollow" class="btn btn-success adb_ok" data-dismiss="modal">Yes, I'll Whitelist</a></div> 
+                      <div style="margin-left: 20px;"><a href="#" target="_blank" rel="nofollow" class="btn btn-success adb_ok" data-dismiss="modal">Cancel</a></div></div>
+            </div>
+	  </div><!-- /.modal-dialog -->
+	</div><!-- /.modal -->
+</div>    <!-- javascript
     ================================================== -->
-   
+    <script>
+        stat.Add("writesessionmark",{"uri":"/privacy.html","controller":"-1"});
+    </script>
 
 
 
@@ -979,7 +1065,7 @@ ManualsLib.com,<br>
 
 <script>
     
-    stat.Add("othercounter",{"type":"all","not_our_ref":2,"google_ref":0,"ref": 'https://www.manualslib.com/manual/892480/Kawai-K1.html'});
+    stat.Add("othercounter",{"type":"all","not_our_ref":2,"google_ref":0,"ref": 'https://www.manualslib.com/manual/293867/Mackie-Cfx-12.html'});
     load_helper.ready(function(){
       
         
