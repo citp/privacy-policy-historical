@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigbrother.com.au privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207103051id_/http%3A//www.endemolshine.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigbrother.com.au privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219195317id_/http%3A//www.endemolshine.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Endemol Shine Australia
 
@@ -234,4 +234,8 @@ Pyrmont NSW 2009
 
 Telephone:      +61 2 8587 1110
 
-Fax:    &nbs
+Fax:                 +61 2 8587 1100
+
+Email:              info@shineaustralia.com
+
+Please allow 30 days for this request to be processed. If you do not receive a satisfactory response from Shine to your query, problem or complaint within 30 days, you may refer your query, problem or complaint to the Office of the Australian Information Commissioner via the contact details listed at http://www.oaic.gov.au/about-us/contact-us-page.
