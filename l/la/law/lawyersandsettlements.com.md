@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lawyersandsettlements.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116130435id_/https%3A//www.lawyersandsettlements.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawyersandsettlements.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219084133id_/https%3A//www.lawyersandsettlements.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This Privacy Policy (this “Policy”) explains what Online Legal Media (“OLM”) does with the personally identifiable information that is collected from the users of our website currently located at https://www.lawyersandsettlements.com (the “Site”). It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information. This Policy is incorporated into our [Terms of Services](https://web.archive.org/web/20161116130435id_/https%3A//www.lawyersandsettlements.com/terms.html). By using the Site, you accept the terms of this Policy.
+This Privacy Policy (this “Policy”) explains what Online Legal Media (“OLM”) does with the personally identifiable information that is collected from the users of our website currently located at https://www.lawyersandsettlements.com (the “Site”). It also describes the choices available to you regarding our use of your personally identifiable information and how you can access and update this information. This Policy is incorporated into our [Terms of Services](https://web.archive.org/web/20170219084133id_/https%3A//www.lawyersandsettlements.com/terms.html). By using the Site, you accept the terms of this Policy.
 
 OLM may change its privacy policy from time to time, so it is suggested that you check the Site from time to time to ensure that you know about the current policy. If you have any questions or concerns regarding this Policy, you should contact us via our [Contact Page](https://www.lawyersandsettlements.com/contact.html).
 
@@ -26,7 +26,7 @@ _Data Retention_. OLM will retain your information for as long as needed to prov
 
 ### How OLM Uses Your Personally Identifiable Information
 
-OLM will only disclose any personally identifiable information about individual users in accordance with this Policy and our [Terms of Service](https://web.archive.org/web/20161116130435id_/https%3A//www.lawyersandsettlements.com/terms.html) or to comply with applicable laws or valid legal process, or to protect the rights or property of OLM.
+OLM will only disclose any personally identifiable information about individual users in accordance with this Policy and our [Terms of Service](https://web.archive.org/web/20170219084133id_/https%3A//www.lawyersandsettlements.com/terms.html) or to comply with applicable laws or valid legal process, or to protect the rights or property of OLM.
 
 OLM discloses personally identifiable information and the other information you provide us to lawyers, law firms, legal financial service providers, or other legal service providers sponsoring the submission forms for the topics to which you respond. OLM cannot guarantee that the information you submit to us will not end up in the hands of third parties, including, without limitation, the entity or person against whom you may have a claim.
 
@@ -68,7 +68,7 @@ OLM takes reasonable precautions to make certain that our servers and connection
 
 ### Conditions of Use
 
-Any dispute over privacy is subject to our [Terms of Service](https://web.archive.org/web/20161116130435id_/https%3A//www.lawyersandsettlements.com/terms.html), including limitations on damages, venue of disputes, and the application of the laws of the State of California.
+Any dispute over privacy is subject to our [Terms of Service](https://web.archive.org/web/20170219084133id_/https%3A//www.lawyersandsettlements.com/terms.html), including limitations on damages, venue of disputes, and the application of the laws of the State of California.
 
 ### Contacting Us
 
