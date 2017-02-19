@@ -1,12 +1,6 @@
-> *The following text is extracted and transformed from the imazing.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507072649id_/http%3A//digidna.ch/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imazing.com privacy policy that was archived on 2017-02-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170219075634id_/https%3A//imazing.com/privacy-policy) for the most accurate reproduction.*
 
-# DigiDNA - Company
-
-[
-
-DigiDNA
-
-](http://digidna.ch/ "DigiDNA - Company")
+# Privacy Policy - iMazing
 
 #### 1\. Commitment
 
@@ -51,7 +45,7 @@ DigiDNA never sells, rents, shares or spreads your Personal Data with third part
 
 #### 5\. Access Right
 
-You can request access to your Personal Data at anytime to update or delete it by sending us a message: <https://imazing.com/contact>. Ensure regularly that your Personal Data is up to date and accurate.
+You can request access to your Personal Data at anytime to update or delete it by sending us a message: [https://imazing.com/contact](https://web.archive.org/contact). Ensure regularly that your Personal Data is up to date and accurate.
 
 #### 6\. Safety/Confidentiality
 
@@ -68,7 +62,7 @@ DigiDNA may use cookies to collect anonymous information such as browser type, o
 
 DigiDNA does not practice Spamming. Spamming is defined as sending unrequested e-mails, generally with advertising content, in large numbers and in a repeated way, to people with whom the sender did not have any preliminary contact with, or who had expressed a disinterest in such messages.
 
-However, DigiDNA sends license holders important news regarding their license and its updates. These newsletters always contain an ‘Unsubscribe’ button. We strongly advise license holders to remain subscribed, unless they intend to never use the product again: newsletters may contain information about critical bug fixes, security enhancements, new features or feature changes, and renewal / upgrade special offers. Users can also unsubscribe at any time [here.](http://digidna.us4.list-manage1.com/unsubscribe?u=9820780b9ca506ece36277a8c&id=112355e150)
+However, DigiDNA sends license holders important news regarding their license and its updates. These newsletters always contain an ‘Unsubscribe’ button. We strongly advise license holders to remain subscribed, unless they intend to never use the product again: newsletters may contain information about critical bug fixes, security enhancements, new features or feature changes, and renewal / upgrade special offers. Users can also unsubscribe at any time [here](http://digidna.us4.list-manage1.com/unsubscribe?u=9820780b9ca506ece36277a8c&amp;id=112355e150).
 
 #### 9\. Links Towards Other Websites
 
@@ -81,4 +75,4 @@ Updates and modifications to our Privacy Policy will be posted here. Last update
 #### 11\. Contact
 
 If you have questions or wish to give us feedback on our current Privacy Policy, please contact us.  
-For further information concerning the use of our websites, please carefully read our “Conditions of use”.
+For further information concerning the use of our websites, please carefully read our "Conditions of use".
