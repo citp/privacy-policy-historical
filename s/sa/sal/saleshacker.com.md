@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saleshacker.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629101239id_/http%3A//www.saleshacker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saleshacker.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220224816id_/https%3A//www.saleshacker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Sales Hacker
 
@@ -153,7 +153,7 @@ and we will promptly remove you from all correspondence.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.saleshacker.com  
+[current_site_url_tag]  
 1350 California St #104  
 San Francisco, CA 94109  
 United States
