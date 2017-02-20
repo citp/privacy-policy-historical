@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the linkaty.website privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221164927id_/http%3A//linkaty.website/pages/Privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the linkaty.website privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220171705id_/http%3A//linkaty.website/pages/Privacypolicy.aspx) for the most accurate reproduction.*
 
 # 
 
@@ -24,5 +24,5 @@ You should consult the respective privacy policies of these third-party ad serve
 
 If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites. 
 
-At Linkaty.us we value your privacy so if you have any problems with please contact us If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20161221164927id_/http%3A//linkaty.website/pages/ContactUs.aspx)   
-Team preparation : [www.linkaty.us ](https://web.archive.org/web/20161221164927id_/http%3A//linkaty.website/home.aspx)
+At Linkaty.us we value your privacy so if you have any problems with please contact us If you require any more information or have any questions about our privacy policy, please feel free to [contact us](https://web.archive.org/web/20170220171705id_/http%3A//linkaty.website/pages/ContactUs.aspx)   
+Team preparation : [www.linkaty.us ](https://web.archive.org/web/20170220171705id_/http%3A//linkaty.website/home.aspx)
