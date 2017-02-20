@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theshoreclubtc.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026032618id_/http%3A//www.theshoreclubtc.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theshoreclubtc.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220095436id_/http%3A//theshoreclubtc.com/privacy.html) for the most accurate reproduction.*
 
 # The Shore Club Resort
 
