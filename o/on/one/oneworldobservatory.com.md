@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oneworldobservatory.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120212914id_/https%3A//oneworldobservatory.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oneworldobservatory.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220091042id_/https%3A//oneworldobservatory.com/privacy-policy) for the most accurate reproduction.*
 
 # One World Observatory - Privacy Policy | Now Open | New York City
 
