@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taylorswift.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223130320id_/http%3A//www.taylorswift.com/taylor-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taylorswift.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220223831id_/https%3A//taylorswift.com/taylor-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy : Taylor Swift
 
