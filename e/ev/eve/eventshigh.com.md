@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventshigh.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112180607id_/https%3A//www.eventshigh.com/assets/files/Privacy_Policy_-_Eventshigh_1.docx.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventshigh.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220092120id_/https%3A//www.eventshigh.com/assets/files/Privacy_Policy_-_Eventshigh_1.docx.pdf) for the most accurate reproduction.*
 
 # 1. D
 
