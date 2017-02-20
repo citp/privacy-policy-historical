@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2016-07-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160714232631id_/https%3A//www.helzberg.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helzberg.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220233835id_/https%3A//www.helzberg.com/category/customer%2Bservice/privacy%2B%2526%2Bsecurity.do) for the most accurate reproduction.*
 
 # Please read and understand the Helzberg Diamonds' website privacy policy to know what we collect and how we use it. - Helzberg Diamonds
 
@@ -176,4 +176,4 @@ Contact Information
 
 **
 
-To ask questions or comment about this privacy policy and our privacy practices, contact us at [_help@helzberg.com_](mailto:help@helzberg.com) or by calling 1-800-HELZBERG.
+For questions or comments about this privacy policy and our privacy practices please visit our [Contact Us](https://web.archive.org/category/customer+service/contact+us.do) page.
