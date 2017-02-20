@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the woolworthsmoney.com.au privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312094930id_/https%3A//cards.woolworths.com.au/about-us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the woolworthsmoney.com.au privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221001608id_/https%3A//cards.woolworths.com.au/about-us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Woolworths Cards
 
