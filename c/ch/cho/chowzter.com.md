@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chowzter.com privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225202422id_/http%3A//www.foodiehub.tv/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chowzter.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220091522id_/http%3A//www.foodiehub.tv/privacy) for the most accurate reproduction.*
 
 # PRIVACY POLICY | FOODIEHUB - The world's Essential Eats curated by local food experts
 
