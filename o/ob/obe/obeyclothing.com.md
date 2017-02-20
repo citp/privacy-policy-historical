@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the obeyclothing.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120050441id_/http%3A//obeyclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the obeyclothing.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220233059id_/http%3A//obeyclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
