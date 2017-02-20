@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the flocabulary.com privacy policy that was archived on 2016-11-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161115071615id_/https%3A//www.flocabulary.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the flocabulary.com privacy policy that was archived on 2017-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170220195828id_/https%3A//www.flocabulary.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQOWVVXGwIIUVRUAgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"licenseKey":"509b95a987","queueTime":36,"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","applicationID":"1855656","transactionName":"Z1wDY0pSCkZVVhJdXl4WJ0JWUBBcW1tJUl1fFxdeXUQXG1daCEBUXk0+QVFWE0YOWQNTUFxmBVhbRglQWkE=","applicationTime":87,"agent":""}</script>
+<!DOCTYPE html><html><head><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgQOWVVXGwIIUVRUAgc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,{passive:!0}),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationTime":145,"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","transactionName":"Z1wDY0pSCkZVVhJdXl4WJ0JWUBBcW1tJUl1fFxdeXUQXG1daCEBUXk0+QVFWE0YOWQNTUFxmBVhbRglQWkE=","applicationID":"1855656","licenseKey":"509b95a987","queueTime":1,"agent":""}</script>
 
 <link rel="icon" type="image/png" href="https://flocabulary.s3.amazonaws.com/images/flat/favicon-64.png">
 <link rel="apple-touch-icon" href="https://flocabulary.s3.amazonaws.com/images/flat/apple-touch-icon.png">
@@ -25,11 +25,9 @@
 
 
 
-	<link href="https://static.flocabulary.com/static/css/colorbox.ec2d9b9ae4fa.css" rel="stylesheet" type="text/css">
-	<link href="https://static.flocabulary.com/static/webfonts/ss-standard.42aa021c6f3a.css" rel="stylesheet">
-	<link href="//vjs.zencdn.net/5.4.6/video-js.min.css" rel="stylesheet">
-	<link type="text/css" href="https://static.flocabulary.com/static/packed/common.32073d1e81d2.css" rel="stylesheet">
-	<link rel="stylesheet" type="text/css" href="https://static.flocabulary.com/static/js/fancybox/jquery.fancybox-1.3.4.bdbd6a4b2f82.css" media="screen">
+  <link href="https://static.flocabulary.com/static/webfonts/ss-standard.42aa021c6f3a.css" rel="stylesheet">
+  <link href="//vjs.zencdn.net/5.4.6/video-js.min.css" rel="stylesheet">
+  <link type="text/css" href="https://static.flocabulary.com/static/packed/common.665624a85624.css" rel="stylesheet">
 
 
 
@@ -38,10 +36,12 @@
 <script src="https://static.flocabulary.com/static/es5-shim/es5-shim.min.daa946d47bf1.js"></script>
 <script src="https://static.flocabulary.com/static/es5-shim/es5-sham.min.7a708a6245b6.js"></script>
 <script src="https://static.flocabulary.com/static/js/jquery.min.b8d64d0bc142.js"></script>
-<script src="https://static.flocabulary.com/static/js/jquery.colorbox-min.c8e21222d92d.js"></script>
-<script src="https://static.flocabulary.com/static/js/fancybox/jquery.fancybox-1.3.4.pack.0b714d85fd5a.js"></script>
-<script type="text/javascript" src="https://static.flocabulary.com/static/packed/common.1f58abd6fe43.js"></script>
+<script type="text/javascript" src="https://static.flocabulary.com/static/packed/common.58c61ba034a8.js"></script>
 <script type="text/javascript" src="https://use.typekit.com/jwi2kbx.js"></script>
+<!-- @todo: this should be removed (along with the onload moment parser below)
+once we move to a single react app structure. for now, it's necessary for the due date
+parsing in the student assignment dropdown -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.16.0/moment.min.js"></script>
 <script type="text/javascript">
 <!-- add user data to bugsnag frontend tracker -->
 Bugsnag.user = {
@@ -50,8 +50,8 @@ Bugsnag.user = {
 <!-- Checks that webpack assets have loaded -->
 var assetLoaderCheck = true;
 if(assetLoaderCheck && !window.webpackJsonp) {
-	Bugsnag.notify("ErrorLoadingAssets", "Redirecting to /error-loading-assets");
-	window.location.href = "https://flocabulary.s3.amazonaws.com/site-static/flocab_static/assets-error.html";
+  Bugsnag.notify("ErrorLoadingAssets", "Redirecting to /error-loading-assets");
+  window.location.href = "https://flocabulary.s3.amazonaws.com/site-static/flocab_static/assets-error.html";
 }
 </script>
 <!-- newrelic browser -->
@@ -59,9 +59,22 @@ if(assetLoaderCheck && !window.webpackJsonp) {
 window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,o.indexOf("dev")!==-1&&(s.dev=!0),o.indexOf("nr_dev")!==-1&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7),c="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),s.on(m,function(){this.bstStart=Date.now()}),s.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+c]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+c]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+c]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(17)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),s="setTimeout",c="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[s,"setImmediate"],s+d),a.inPlace(window,[c],c+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(c+u,r),i.on(s+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",s)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),s("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=c(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var s=t("handle"),c=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(s(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),s=t(16),c=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;c<s;c++)a[c].apply(i,r);var u=f[w[n]];return u&&u.push([v,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",w[n]=e,e in f||(f[e]=[])})}var m={},w={},v={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return v}function i(){return new r}var a="nr@context",s=t("gos"),c=t(15),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!g++){var t=y.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(w,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;y.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=y.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(15),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var m=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},v=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),y=e.exports={offset:a(),origin:m,features:{},xhrWrappable:v};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),s("mark",["firstbyte",a()],null,"api");var g=0},{}]},{},["loader",2,10,4,3]);
 ;NREUM.info={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",licenseKey:"509b95a987",applicationID:"1855656",sa:1}
 </script>
+<script type="text/javascript" src="https://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-MML-AM_CHTML">
+</script>
+<script type="text/javascript">
+MathJax.Hub.Config({
+  tex2jax: {
+    processClass: 'math-tex',
+    preview: 'none'
+  },
+  messageStyle: 'none'
+});
+</script>
 
 
-<!-- End Sitewide Lightbox Functionality -->
+
+  
+
 <link href="//fonts.googleapis.com/css?family=Raleway|Roboto:400,100,300,200,500,600,700,800" rel="stylesheet" type="text/css">
 </head>
 
@@ -73,7 +86,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
 <!--Header-->
 <div class="page">
 
-	<div id="top_nav">
+  <div id="top_nav">
     
     <nav>
     <!-- ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~ -->
@@ -102,10 +115,10 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                 <ul class="nav-content-topic">
                                     
                                         <li>
-                                            <a href="/topics/reading-writing/"><h3>Reading and Writing</h3>
+                                            <a href="/topics/reading-writing/"><h3>Reading &amp; Writing</h3>
                                                 <span class="topic-subhead">
-                                                    Grades K to 12
-                                                    <span class="topic-videoCount">(34 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(36 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -113,17 +126,17 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/grammar/"><h3>Grammar</h3>
                                                 <span class="topic-subhead">
-                                                    Grades K to 12
+                                                    
                                                     <span class="topic-videoCount">(24 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
                                     
                                         <li>
-                                            <a href="/topics/research-study/"><h3>Research and Study Skills</h3>
+                                            <a href="/topics/research-study/"><h3>Research &amp; Study Skills</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 6 to 12
-                                                    <span class="topic-videoCount">(9 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(10 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -131,8 +144,8 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/literature/"><h3>Literature</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 8 to 12
-                                                    <span class="topic-videoCount">(24 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(25 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -157,7 +170,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/addition-subtraction/"><h3>Addition &amp; Subtraction</h3>
                                                 <span class="topic-subhead">
-                                                    Grades K to 2
+                                                    
                                                     <span class="topic-videoCount">(15 videos)</span>
                                                 </span>
                                             </a>
@@ -166,7 +179,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/multiplication-division/"><h3>Multiplication &amp; Division</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 2 to 5
+                                                    
                                                     <span class="topic-videoCount">(20 videos)</span>
                                                 </span>
                                             </a>
@@ -175,17 +188,8 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/numbers-operations/"><h3>Numbers &amp; Operations</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 1 to 6
-                                                    <span class="topic-videoCount">(18 videos)</span>
-                                                </span>
-                                            </a>
-                                        </li>
-                                    
-                                        <li>
-                                            <a href="/topics/geometry-measurement/"><h3>Geometry &amp; Measurement</h3>
-                                                <span class="topic-subhead">
-                                                    Grades 1 to 8
-                                                    <span class="topic-videoCount">(11 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(20 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -193,8 +197,17 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/expressions-equations/"><h3>Expressions &amp; Equations</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 5 to 8
+                                                    
                                                     <span class="topic-videoCount">(6 videos)</span>
+                                                </span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a href="/topics/geometry-measurement/"><h3>Geometry &amp; Measurement</h3>
+                                                <span class="topic-subhead">
+                                                    
+                                                    <span class="topic-videoCount">(12 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -202,7 +215,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/statistics-probability/"><h3>Statistics &amp; Probability</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 6 to 8
+                                                    
                                                     <span class="topic-videoCount">(2 videos)</span>
                                                 </span>
                                             </a>
@@ -211,7 +224,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/ratios-proportional-relationships/"><h3>Ratios &amp; Proportional Relationships</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 6 to 8
+                                                    
                                                     <span class="topic-videoCount">(3 videos)</span>
                                                 </span>
                                             </a>
@@ -235,17 +248,44 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/elementary-science/"><h3>Elementary Science</h3>
                                                 <span class="topic-subhead">
-                                                    Grades K to 5
-                                                    <span class="topic-videoCount">(22 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(25 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
                                     
                                         <li>
-                                            <a href="/topics/middle-school-science/"><h3>Middle &amp; HS Science</h3>
+                                            <a href="/topics/earth-space-science/"><h3>Earth &amp; Space Science</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 6 to 12
-                                                    <span class="topic-videoCount">(26 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(13 videos)</span>
+                                                </span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a href="/topics/life-science/"><h3>Life Science</h3>
+                                                <span class="topic-subhead">
+                                                    
+                                                    <span class="topic-videoCount">(12 videos)</span>
+                                                </span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a href="/topics/physical-science/"><h3>Physical Science</h3>
+                                                <span class="topic-subhead">
+                                                    
+                                                    <span class="topic-videoCount">(13 videos)</span>
+                                                </span>
+                                            </a>
+                                        </li>
+                                    
+                                        <li>
+                                            <a href="/topics/scientific-practices/"><h3>Scientific Practices </h3>
+                                                <span class="topic-subhead">
+                                                    
+                                                    <span class="topic-videoCount">(4 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -253,8 +293,8 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/technology-and-engineering/"><h3>Technology &amp; Engineering</h3>
                                                 <span class="topic-subhead">
-                                                    Grades K to 12
-                                                    <span class="topic-videoCount">(8 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(10 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -277,8 +317,8 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/elementary-social-studies/"><h3>Elementary Social Studies</h3>
                                                 <span class="topic-subhead">
-                                                    Grades K to 5
-                                                    <span class="topic-videoCount">(18 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(23 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -286,8 +326,8 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/geography/"><h3>Geography</h3>
                                                 <span class="topic-subhead">
-                                                    Grades K to 12
-                                                    <span class="topic-videoCount">(12 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(13 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -295,8 +335,8 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/us-history/"><h3>U.S. History</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 5 to 12
-                                                    <span class="topic-videoCount">(24 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(27 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -304,7 +344,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/world-history/"><h3>Ancient World History</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 5 to 12
+                                                    
                                                     <span class="topic-videoCount">(19 videos)</span>
                                                 </span>
                                             </a>
@@ -313,8 +353,8 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/modern-world-history/"><h3>Modern World History</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 5 to 12
-                                                    <span class="topic-videoCount">(19 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(21 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -322,7 +362,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/civics/"><h3>Civics</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 5 to 12
+                                                    
                                                     <span class="topic-videoCount">(6 videos)</span>
                                                 </span>
                                             </a>
@@ -347,7 +387,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/social-and-emotional-learning/"><h3>Social &amp; Emotional Learning </h3>
                                                 <span class="topic-subhead">
-                                                    Grades K to 12
+                                                    
                                                     <span class="topic-videoCount">(12 videos)</span>
                                                 </span>
                                             </a>
@@ -356,7 +396,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/financial-literacy/"><h3>Financial Literacy</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 6 to 12
+                                                    
                                                     <span class="topic-videoCount">(12 videos)</span>
                                                 </span>
                                             </a>
@@ -380,7 +420,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/vocabulary-peach/"><h3>Word Up Peach</h3>
                                                 <span class="topic-subhead">
-                                                    Grade K
+                                                    
                                                     <span class="topic-videoCount">(14 videos)</span>
                                                 </span>
                                             </a>
@@ -389,7 +429,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/vocabulary-grape/"><h3>Word Up Grape</h3>
                                                 <span class="topic-subhead">
-                                                    Grade 1
+                                                    
                                                     <span class="topic-videoCount">(14 videos)</span>
                                                 </span>
                                             </a>
@@ -398,7 +438,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/vocabulary-turquoise/"><h3>Word Up Turquoise</h3>
                                                 <span class="topic-subhead">
-                                                    Grade 2
+                                                    
                                                     <span class="topic-videoCount">(14 videos)</span>
                                                 </span>
                                             </a>
@@ -407,7 +447,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/vocabulary-red/"><h3>Word Up Red</h3>
                                                 <span class="topic-subhead">
-                                                    Grade 3
+                                                    
                                                     <span class="topic-videoCount">(14 videos)</span>
                                                 </span>
                                             </a>
@@ -416,7 +456,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/vocabulary-orange/"><h3>Word Up Orange</h3>
                                                 <span class="topic-subhead">
-                                                    Grade 4
+                                                    
                                                     <span class="topic-videoCount">(14 videos)</span>
                                                 </span>
                                             </a>
@@ -425,7 +465,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/vocabulary-indigo/"><h3>Word Up Indigo</h3>
                                                 <span class="topic-subhead">
-                                                    Grade 5
+                                                    
                                                     <span class="topic-videoCount">(14 videos)</span>
                                                 </span>
                                             </a>
@@ -434,7 +474,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/vocabulary-green/"><h3>Word Up Green</h3>
                                                 <span class="topic-subhead">
-                                                    Grade 6
+                                                    
                                                     <span class="topic-videoCount">(14 videos)</span>
                                                 </span>
                                             </a>
@@ -443,7 +483,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/vocabulary-yellow/"><h3>Word Up Yellow</h3>
                                                 <span class="topic-subhead">
-                                                    Grade 7
+                                                    
                                                     <span class="topic-videoCount">(14 videos)</span>
                                                 </span>
                                             </a>
@@ -452,7 +492,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/vocabulary-blue/"><h3>Word Up Blue</h3>
                                                 <span class="topic-subhead">
-                                                    Grade 8
+                                                    
                                                     <span class="topic-videoCount">(14 videos)</span>
                                                 </span>
                                             </a>
@@ -461,7 +501,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/vocabulary-sat/"><h3>SAT Vocabulary</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 9 to 12
+                                                    
                                                     <span class="topic-videoCount">(11 videos)</span>
                                                 </span>
                                             </a>
@@ -485,8 +525,8 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/week-in-rap/"><h3>The Week in Rap</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 6 to 12
-                                                    <span class="topic-videoCount">(282 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(293 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -494,8 +534,8 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/week-in-rap-junior/"><h3>The Week in Rap Junior</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 3 to 5
-                                                    <span class="topic-videoCount">(57 videos)</span>
+                                                    
+                                                    <span class="topic-videoCount">(68 videos)</span>
                                                 </span>
                                             </a>
                                         </li>
@@ -503,7 +543,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
                                         <li>
                                             <a href="/topics/week-in-rap-extra/"><h3>The Week in Rap Extra</h3>
                                                 <span class="topic-subhead">
-                                                    Grades 6 to 12
+                                                    
                                                     <span class="topic-videoCount">(9 videos)</span>
                                                 </span>
                                             </a>
@@ -526,19 +566,19 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
             <!-- Left side of nav -->
             <!-- ~~~~~~~~~~~~~~~~~ -->
             
-                <li class="nav-content-link dropdown mobile-hide">
-                    <h2 class="dropdown"><a href="/what-is-flocabulary/">About</a></h2>
-                    <ul class="nav-about-list nav-dropdown">
-                        <div class="nav-dropdown-arrow"></div>
-                        <li><a href="/what-is-flocabulary/">About Flocabulary</a></li>
-                        <li><a href="/how-it-works/">How to Use</a></li>
-                        <li><a href="/lesson-resources/">Lesson Resources</a></li>
-                        <li><a href="/plans/">Plans &amp; Pricing</a></li>
-                        <span class="nav-dropdown-list-divider"></span>
-                        <li><a href="https://flocabulary.zendesk.com/hc/">Support</a></li>
-                        <li><a href="/contactus/">Contact</a></li>
-                    </ul>
-                </li>
+              <li class="nav-content-link dropdown mobile-hide">
+                <h2 class="dropdown"><a href="/what-is-flocabulary/">About</a></h2>
+                <ul class="nav-about-list nav-dropdown">
+                  <div class="nav-dropdown-arrow"></div>
+                  <li><a href="/what-is-flocabulary/">About Flocabulary</a></li>
+                  <li><a href="/how-it-works/">How to Use</a></li>
+                  <li><a href="/lesson-resources/">Lesson Resources</a></li>
+                  <li><a href="/plans/">Plans &amp; Pricing</a></li>
+                  <span class="nav-dropdown-list-divider"></span>
+                  <li><a href="https://flocabulary.zendesk.com/hc/">Support</a></li>
+                  <li><a href="/contactus/">Contact</a></li>
+                </ul>
+              </li>
             
             </ul>
             <!-- ~~~~~~~~~~ -->
@@ -546,7 +586,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
             <!-- ~~~~~~~~~~ -->
             <div class="nav-search-container mobile-hide">
                 <form action="/search/" method="GET" id="search-form">
-        	        <input type="search" placeholder="Search videos" name="q" value="" class="q">
+                  <input type="search" placeholder="Search videos" name="q" value="" class="q">
                 </form>
             </div>
             <!-- ~~~~~~~~~~~~~~~~~ -->
@@ -567,13 +607,12 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
     </nav>
 </div>
 
+
 </div>
 
 <!--End Header-->
 <div class="clr">
 </div>
-
-
 
 
 
@@ -590,7 +629,7 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
 
 
 <div id="main_content" class="">
-	 
+   
 <!--Content-->
 <div class="content">
 	<div class="left_sidebar">
@@ -598,91 +637,199 @@ window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){va
 <script src="https://static.flocabulary.com/static/js/underscore-min.543feb1ecaf0.js" type="text/javascript"></script>
 <div class="text_content">
 	<div>
-		<h5>1. Flocabulary's Commitment to Privacy</h5>
-<p><span>We take your privacy and the privacy of your students very seriously. Please read this Privacy Policy and contact us if you have any questions. </span></p>
-<h6>Our commitment is guided by a few major principles:</h6>
-<p id="h.gjdgxs"><strong>We Empower Schools to Make Data Decisions</strong></p>
+		<h1>1. Flocabulary's Commitment to Privacy</h1>
+
+<p>We take your privacy and the privacy of your students very seriously. Please read this Privacy Policy and contact us if you have any questions.<br>
+<br>
+Our commitment is guided by a few major principles:</p>
+
+<h2><br>
+We Empower Schools to Make Data Decisions</h2>
+
 <ul>
-    <li><span>Schools and districts can use Flocabulary without sharing any personal information from students. Or they can choose to set up student accounts and use Flocabulary to track their students' progress.</span></li>
-    <li><span>The school or district’s account manager can delete or correct personal information from students at any time.</span></li>
+	<li>
+	<p>Schools and districts can use Flocabulary without sharing any personal information from students. Or they can choose to set up student accounts and use Flocabulary to track their students' progress.</p>
+	</li>
+	<li>
+	<p>The school or district’s account manager can delete or correct personal information from students at any time.</p>
+	</li>
 </ul>
-<p><strong>Flocabulary is Committed to Maintaining a Safe and Compliant Platform</strong></p>
+
+<h2>Flocabulary is Committed to Maintaining a Safe and Compliant Platform</h2>
+
 <ul>
-    <li><span>We will only share the personally identifiable data of students in accordance with this Privacy Policy.</span></li>
-    <li><span>We use industry standard security practices, such as SSL encryption.</span></li>
-    <li><span>We use aggregated, anonymized and de-identified data to inform improvements to Flocabulary.</span></li>
-    <li><span>We've signed the Pledge to Safeguard Student Privacy. Learn more here: </span><span><a href="http://studentprivacypledge.org/?page_id=45">http://studentprivacypledge.org/?page_id=45</a></span></li>
+	<li>
+	<p>We will only share the personally identifiable data of students in accordance with this Privacy Policy.</p>
+	</li>
+	<li>
+	<p>We use industry standard security practices, such as SSL encryption.</p>
+	</li>
+	<li>
+	<p>We use aggregated, anonymized and de-identified data to inform improvements to Flocabulary.</p>
+	</li>
+	<li>
+	<p>We've signed the Pledge to Safeguard Student Privacy. <a href="http://studentprivacypledge.org/?page_id=45">Learn more here</a></p>
+	</li>
 </ul>
-<p><span>This Privacy Policy explains the details of how we safeguard and use the information you give us. By using this site, you agree to our Privacy Policy.</span></p>
-<h5>2. Children's Use of Flocabulary</h5>
-<p><span>Only schools and districts that have </span><span>obtained licenses</span><span>, provided consent on behalf of students and opted to allow for student account creation can create student accounts. </span><span>For all other types of subscriptions and trials, Flocabulary does not knowingly collect personal information from children under the age of 13.</span></p>
-<p><span>If you are a child under the age of 13, you must get permission from a parent or legal guardian to use this website. If you wish to sign up for a free trial or subscribe to Flocabulary, a parent or legal guardian must submit the form on your behalf. </span></p>
-<p><span>If we learn we have inadvertently collected personal information from a child under 13 without the appropriate consent, we will take the necessary steps to delete it.</span></p>
-<h5>3. What Information Do We Collect and How Do We Use It?</h5>
-<p><strong>a. From teachers and administrators</strong><span><br>If you are a teacher or administrator signing up for an account on our website, we collect your first and last name, email address, role at your school, grade interests and subject interests. We'll ask you to enter the zipcode of your school to select your school, and we remember the school you select so that we can properly give you access if your school has purchased. Additionally, we ask you to set a password to keep your account secure. In districts that have enabled login through a third party account (such as a Google account), you will connect using that account, we will use your email address registered with that third party as your username and you will not set a separate password. </span></p>
-<p><span>Your email address will be your username. We'll use your email address, as well as your school, role, grade and subject interests, to customize the updates you get about Flocabulary via email. You can always opt out of emails from us by clicking "unsubscribe." If you are requesting a quote or schoolwide or district trial, we will also ask for your phone number and job title so that a member of the Flocabulary team can get in touch with you to set up your trial or help you with a purchase.</span></p>
-<p><span>If you are purchasing a paid account, we will collect all information necessary to process the order, including credit card information, billing information or shipping information (as applicable).</span></p>
-<p><span>Teachers and administrators with schoolwide or district accounts can invite other staff members at the school or district to create a Flocabulary account. To do this, they can enter an email address of the people they wish to invite or use other import mechanisms supported by Flocabulary. We only use these email addresses to send invitations, and will not send any other emails to these addresses.</span></p>
-<p><strong>b. From students</strong><span><br></span><span>Unless a school or district has </span><span>obtained </span><span>a license, provided consent on behalf of students and chosen to allow for student account creation, we collect no personally identifiable information from students (other than parent or teacher selected usernames for certain legacy accounts).</span><span>&nbsp;In cases where a school or district purchases Flocabulary, </span><span>the first step is for teachers or administrators to create classes</span><span>. Students can only sign up for Flocabulary after the school or district imports student roster information into Flocabulary or their teacher enters class information and instructs students to create an account with a provided code. Students cannot sign up and create a Flocabulary account unaffiliated with a class or a schoolwide or district license. </span></p>
-<p><span>Students, teachers or administrators may create student accounts. </span><span>When students create a student account on Flocabulary, </span><span>they'll enter a code which will associate them with their school and teacher. They cannot create their account without a valid class code.</span><span>&nbsp;To the extent not already imported by teachers or adminis</span><span>trators</span><span>, we'll then collect the student's first and last name, and the student will set a username and password. In districts that have enabled login through a third party account (such as a Google account), the student will connect using that account, we will use the student’s email address registered with that third party as the username and the student will not have a separate password. We collect the first and last name so that teachers can identify students on their class roster in the My Classes section of Flocabulary.com and administrators can identify students in the school management section. We collect the username so students can easily log in, as well as have unique identification for the website. Because the first and last name are for teachers' class management, they can instruct students to enter an initial or nickname instead of a first or last name, or another form of identification, if they'd prefer. The student’s username and first and last name will not be shared with any Flocabulary users other than their teacher(s) and the account manager(s) at their school or district.</span></p>
-<p><span>When students have accounts, teachers will be able to assign multiple choice quizzes and other assignments to students in their classes. Students' quiz results and student work product will be stored so that the student who took the quiz or completed the assignment and the teacher can review the results. &nbsp;For certain types of assignment</span><span>s</span><span>, teachers can enable multiple students to collaborate and students to share their work with the class. Students will be able to review the results of their quizzes at any time. </span><span>Teachers</span><span>&nbsp;will only be able to see the results of student quizzes from students in their classes. School or district administrators may review results individually or in aggregate across their designated scope of authority (e.g., a school or district). &nbsp;Flocabulary provides students with the ability to download an archive of their work product.</span></p>
-<p><span>Certain l</span><span>egacy </span><span>Flocabulary accounts may also include shared student usernames. These usernames are linked to information we collect about students’ usage of the Flocabulary site, such as units visited and videos viewed.</span></p>
-<p><span>Flocabulary will promptly correct or delete student information at the request of an authorized representative of the student’s school or district.</span></p>
-<p><strong>c. Information we collect automatically</strong><span><br>In addition to the information you share with us through forms on Flocabulary.com, when you visit our website, we may automatically collect and analyze information regarding your use of our services and activity on our website. Information collected may include, but is not limited to, the IP address associated with your computer, "clickstream data," which includes information about your clicks on our website and which may also include information about your computer, web browser and operating system and information about the website you visited before coming to our site, website traffic volume, frequency of visits, and type and time of transactions.</span></p>
-<p><strong>We use this information to help us to diagnose technical problems, administer the site and improve the quality and types of services that we deliver. We may also collect, track and analyze information in aggregate form that does not personally identify users.</strong></p>
-<p><span>We use the following tools to collect and track this information, including:</span></p>
-<p><strong>Cookies</strong><span><br>To provide you with a continuous experience on our site, we may automatically collect your information using cookies. A cookie is a data file sent to your browser from a web server and stored on your computer's hard drive that allows us to recognize your browser when you return to our website, to remember your preferences and to provide you with content that may be of interest to you based on your progress within our site. We do not collect personal information through cookies, and do not connect the information collected through cookies to personal information. </span></p>
-<p><span>To learn more about browser cookies, including how to manage or delete them, look in the Tools, Help or similar section of your browser, or visit </span><span><a href="http://www.allaboutcookies.org/">www.allaboutcookies.org</a></span><span>.</span></p>
-<p><span>Additionally, our video player may store local shared objects, also known as Flash cookies, on your computer. Local shared objects cannot be managed in the same way as browser cookies. For information on managing Flash cookies, visit </span><span><a href="http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html">http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html</a></span><span>.</span></p>
-<p><strong>Analytics</strong><span><br>We use third-party analytics service providers to assist us in collecting and understanding website usage information. We use information from these services to help us improve our website and the services we provide to our users. </span></p>
-<p><strong>Email </strong><span><br>We place a tiny image, also known as a pixel tag, in the emails we send, and this tells us when you have opened the email. Our team uses this information to improve emails we send to you, and best tailor them to your needs. </span></p>
-<p><span>By using our website you agree to our use of these tracking technologies. </span></p>
-<p><span>We do not track our users across third party websites, nor do we use targeted advertising. As a result, we do not currently honor "do not track" signals transmitted by users' web browsers. To learn more, visit: </span><span><a href="http://www.allaboutdnt.org/">www.allaboutdnt.org</a></span></p>
-<h5>4. How We Share Your Information</h5>
-<p><span>We will not sell or rent any of your or your students' information to any third party for any purpose, and we do not track users outside of our website. There is no third-party advertising on </span><span><a href="https://www.flocabulary.com/">Flocabulary.com</a></span><span>. </span></p>
-<p><span>We will not share your information in any ways not outlined in this Privacy Policy. Except as noted below, we do not share any personal information with third parties for advertising, marketing or other purposes.</span></p>
-<p><span>We share information that we collect in the following circumstances:</span></p>
+
+<p>This Privacy Policy explains the details of how we safeguard and use the information you give us. By using this site, you agree to our Privacy Policy.</p>
+
+<h1>2. Children's Use of Flocabulary</h1>
+
+<p>Only schools and districts that have obtained licenses, provided consent on behalf of students and opted to allow for student account creation can create student accounts. For all other types of subscriptions and trials, Flocabulary does not knowingly collect personal information from children under the age of 13.<br>
+<br>
+If you are a child under the age of 13, you must get permission from a parent or legal guardian to use this website. If you wish to sign up for a free trial or subscribe to Flocabulary, a parent or legal guardian must submit the form on your behalf.<br>
+<br>
+If we learn we have inadvertently collected personal information from a child under 13 without the appropriate consent, we will take the necessary steps to delete it.</p>
+
+<h1>3. Mobile Application</h1>
+
+<p>When our mobile application is used in connection with a subscription by a teacher, school or district, the use of that application will be linked to student accounts established by the school and the information collected will be collected and handled in the same way as described in this policy.<br>
+<br>
+When our mobile application is used in a standalone trial mode, we do not collect any personal information whatsoever. &nbsp;When the application is purchased by a parent or by a child 13 or older, we collect only the minimum information necessary (a transaction identifier and email address for the application store account holder) to verify that payment was made through the applicable application store. &nbsp;&nbsp;We do collect non-personal information in the manner described in this policy, and that non-personal information will be linkable to the transaction identifier and email address.</p>
+
+<h1>4. What Information Do We Collect and How Do We Use It?</h1>
+
+<h2>a. From teachers and administrators</h2>
+
+<p>If you are a teacher or administrator signing up for an account on our website, we collect your first and last name, email address, role at your school, grade interests and subject interests. We'll ask you to enter the zipcode of your school to select your school, and we remember the school you select so that we can properly give you access if your school has purchased. Additionally, we ask you to set a password to keep your account secure. In districts that have enabled login through a third party account (such as a Google account), you will connect using that account, we will use your email address registered with that third party as your username and you will not set a separate password.<br>
+<br>
+Your email address will be your username. We'll use your email address, as well as your school, role, grade and subject interests, to customize the updates you get about Flocabulary via email. You can always opt out of emails from us by clicking "unsubscribe." If you are requesting a quote or schoolwide or district trial, we will also ask for your phone number and job title so that a member of the Flocabulary team can get in touch with you to set up your trial or help you with a purchase.<br>
+<br>
+If you are purchasing a paid account, we will collect all information necessary to process the order, including credit card information, billing information or shipping information (as applicable).<br>
+<br>
+Teachers and administrators with schoolwide or district accounts can invite other staff members at the school or district to create a Flocabulary account. To do this, they can enter an email address of the people they wish to invite or use other import mechanisms supported by Flocabulary. We only use these email addresses to send invitations, and will not send any other emails to these addresses.</p>
+
+<h2>b. From students</h2>
+
+<p>Unless a school or district has obtained a license, provided consent on behalf of students and chosen to allow for student account creation, we collect no personally identifiable information from students (other than parent or teacher selected usernames for certain legacy accounts). In cases where a school or district purchases Flocabulary, the first step is for teachers or administrators to create classes. Students can only sign up for Flocabulary after the school or district imports student roster information into Flocabulary or their teacher enters class information and instructs students to create an account with a provided code. Students cannot sign up and create a Flocabulary account unaffiliated with a class or a schoolwide or district license.<br>
+<br>
+Students, teachers or administrators may create student accounts. When students create a student account on Flocabulary, they'll enter a code which will associate them with their school and teacher. They cannot create their account without a valid class code. To the extent not already imported by teachers or administrators, we'll then collect the student's first and last name, and the student will set a username and password. In districts that have enabled login through a third party account (such as a Google account), the student will connect using that account, we will use the student’s email address registered with that third party as the username and the student will not have a separate password. We collect the first and last name so that teachers can identify students on their class roster in the My Classes section of Flocabulary.com and administrators can identify students in the school management section. We collect the username so students can easily log in, as well as have unique identification for the website. Because the first and last name are for teachers' class management, they can instruct students to enter an initial or nickname instead of a first or last name, or another form of identification, if they'd prefer. The student’s username and first and last name will not be shared with any Flocabulary users other than their teacher(s) and the account manager(s) at their school or district.<br>
+<br>
+When students have accounts, teachers will be able to assign multiple choice quizzes and other assignments to students in their classes. Students' quiz results and student work product will be stored so that the student who took the quiz or completed the assignment and the teacher can review the results. &nbsp;For certain types of assignments, teachers can enable multiple students to collaborate and students to share their work with the class. Students will be able to review the results of their quizzes at any time. Teachers will only be able to see the results of student quizzes from students in their classes. School or district administrators may review results individually or in aggregate across their designated scope of authority (e.g., a school or district). &nbsp;Flocabulary provides students with the ability to download an archive of their work product.<br>
+<br>
+Certain legacy Flocabulary accounts may also include shared student usernames. These usernames are linked to information we collect about students’ usage of the Flocabulary site, such as units visited and videos viewed.<br>
+<br>
+Flocabulary will promptly correct or delete student information at the request of an authorized representative of the student’s school or district.</p>
+
+<h2>c. Information we collect automatically</h2>
+In addition to the information you share with us through forms on Flocabulary.com, when you visit our website, we may automatically collect and analyze information regarding your use of our services and activity on our website. Information collected may include, but is not limited to, the IP address associated with your computer, “clickstream data,” which includes information about your clicks on our website and which may also include information about your computer, web browser and operating system and information about the website you visited before coming to our site, website traffic volume, frequency of visits, and type and time of transactions.<br>
+<br>
+We use this information to help us to diagnose technical problems, administer the site and improve the quality and types of services that we deliver. We may also collect, track and analyze information in aggregate form that does not personally identify users.
+<h2>We use the following tools to collect and track this information, including:</h2>
+
+<h2>Cookies</h2>
+
+<p>To provide you with a continuous experience on our site, we may automatically collect your information using cookies. A cookie is a data file sent to your browser from a web server and stored on your computer's hard drive that allows us to recognize your browser when you return to our website, to remember your preferences and to provide you with content that may be of interest to you based on your progress within our site. We do not collect personal information through cookies, and do not connect the information collected through cookies to personal information.<br>
+<br>
+To learn more about browser cookies, including how to manage or delete them, look in the Tools, Help or similar section of your browser, or <a href="http://www.allaboutcookies.org">Click Here</a><br>
+<br>
+Additionally, our video player may store local shared objects, also known as Flash cookies, on your computer. Local shared objects cannot be managed in the same way as browser cookies. <a href="http://helpx.adobe.com/flash-player/kb/disable-local-shared-objects-flash.html">Visit this link for information on managing Flash cookies</a></p>
+
+<h2>Analytics</h2>
+
+<p>We use third-party analytics service providers to assist us in collecting and understanding website usage information. We use information from these services to help us improve our website and the services we provide to our users.</p>
+
+<h2>Email</h2>
+
+<p>We place a tiny image, also known as a pixel tag, in the emails we send, and this tells us when you have opened the email. Our team uses this information to improve emails we send to you, and best tailor them to your needs.<br>
+<br>
+By using our website you agree to our use of these tracking technologies.<br>
+<br>
+We do not track our users across third party websites, nor do we use targeted advertising. As a result, we do not currently honor “do not track” signals transmitted by users' web browsers. To learn more, <a href="http://www.allaboutdnt.org">Click Here</a></p>
+
+<h1>5. How We Share Your Information</h1>
+
+<p>We will not sell or rent any of your or your students' information to any third party for any purpose, and we do not track users outside of our website. There is no third-party advertising on Flocabulary.com.<br>
+<br>
+We will not share your information in any ways not outlined in this Privacy Policy. Except as noted below, we do not share any personal information with third parties for advertising, marketing or other purposes.<br>
+<br>
+We share information that we collect in the following circumstances:</p>
+
 <ul>
-    <li><span>as instructed by a school or district in relation to information about their users, for example to let managers know which teachers are using Flocabulary</span></li>
-    <li><span>with </span><span>teachers who are the managers of a class </span><span>so they</span><span>&nbsp;can see the students in that class </span></li>
-    <li><span>with </span><span>administrators who are the managers of a school or district account so they can see information about the users in their school or district</span></li>
-    <li><span>with </span><span>our service providers (including hosting and analytics providers) </span><span>so they</span><span>&nbsp;have access to the data they need to help us to operate the website— they must comply with confidentiality and data security provisions consistent with this Privacy Policy as necessary to protect our rights or property or that of others, protect the safety of our users, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law</span></li>
-    <li><span>when any user logs into Flocabulary with a third party account (such as a Google account), that third party will learn that that user has visited Flocabulary, and that information will be subject to that third party’s privacy policy and practices</span></li>
-    <li><span>other circumstances that you expressly consent to </span></li>
+	<li>
+	<p>as instructed by a school or district in relation to information about their users, for example to let managers know which teachers are using Flocabulary</p>
+	</li>
+	<li>
+	<p>with teachers who are the managers of a class so they can see the students in that class</p>
+	</li>
+	<li>
+	<p>with administrators who are the managers of a school or district account so they can see information about the users in their school or district</p>
+	</li>
+	<li>
+	<p>with our service providers (including hosting and analytics providers) so they have access to the data they need to help us to operate the website— they must comply with confidentiality and data security provisions consistent with this Privacy Policy as necessary to protect our rights or property or that of others, protect the safety of our users, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law</p>
+	</li>
+	<li>
+	<p>when any user logs into Flocabulary with a third party account (such as a Google account), that third party will learn that that user has visited Flocabulary, and that information will be subject to that third party’s privacy policy and practices</p>
+	</li>
+	<li>
+	<p>other circumstances that you expressly consent to</p>
+	</li>
 </ul>
-<p><span>If a portion or all of Flocabulary's assets are acquired by or merged with a third party, your information may be one of the assets acquired by the third party. You'll still be protected under this Privacy Policy, and your information will only be available to the third party per the terms of this Privacy Policy. If there are changes to the Policy, you will have the opportunity to consent to them prior to additional information being collected or to cease using the Flocabulary site and Content. We will let you know if there is an acquisition by posting on our home page or emailing you or our contact at your school or district. If, at this point, you do not want your personal information shared with a new company, you can request its deletion. If Flocabulary goes out of business or files for bankruptcy, we will not sell your personal information to any third parties who do not agree to continue to meet the protections spelled out in this privacy policy.</span></p>
-<h5>5. How Flocabulary Protects and Secures Your Information</h5>
-<p><span>Each Flocabulary account is protected with a password. Make sure that you and any students associated with your account keep these passwords a secret at all times to prevent unauthorized access to your account. You are responsible for any activity that occurs while you or any students associated with your account are logged in to Flocabulary, whether or not that access is authorized by you. If you think that someone has gained unauthorized access to your account, please contact us immediately.</span></p>
-<p><span>We have industry-standard security policies and procedures in place, and take reasonable measures to protect the confidentiality, security and integrity of personal information collected on our website. This includes the use of encryption to protect sensitive information transmitted online, firewalls and other security technologies to prevent access to the data from unauthorized parties. All connections between users and Flocabulary are secured via encryption communication technology (SSL). All Flocabulary passwords are salted and hashed using the practices recommended by NIST (National Institute of Standards and Technology). Flocabulary utilizes industry-standard application hosting providers who agree to perform frequent diagnostics, operating system updates, and network security monitoring. Our engineering team is committed to creating and maintaining systems to protect your personal information.</span></p>
-<p><span>Our policy is that only employees who need to access user information in order to perform a specific job (for example, billing or customer service) are granted access to that information. All employees with access to student personally identifiable information have undergone a criminal background check. Our partners, including our outside shipping company and our credit card processing company may only use the information to provide specific services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.</span></p>
-<p><span>While we have taken all steps to protect your information, and continuously work to keep our systems at or above industry standard security, no system is 100% fail proof and secure. If we believe that the security of your personal information may have been compromised, we will seek to notify you as soon as possible. If we have your email address, we may notify you by email. You consent to our use of email as a means of such notification. </span></p>
-<h5>6. Your Choices Related to Your Privacy</h5>
-<p><strong>a. You can edit your information</strong><span><br>You have the right to access and edit your information. If you have an individual account on our website, you can edit your information in the account section of the website. If you are unable to do this on the website, you can contact us and we'll help you make changes. We will ask you to verify your identity before we provide you with access to your information. </span></p>
-<p><span>You have the right to opt out of emails from us by clicking unsubscribe. You may still receive transactional emails from us related to purchases, account expiration, or other necessary communication.</span></p>
-<p><span>If you are the manager of a school or district account, you can add, edit or delete teacher and student users of your account. You may edit student usernames and passwords if your students provided them. If your students used a Google account to sign in, you need to contact Google </span><span>or your School / District IT Administrator</span><span>&nbsp;to change name, email address or password.</span></p>
-<p><span>If you are a parent, guardian or student, the law allows you access to certain information that may have been provided to Flocabulary by your school or district. If you would like to obtain such access, please contact your school or district.</span></p>
-<p><strong>b. You have the right to delete your information</strong><span><br>If you are a teacher or administrator, you can contact us to delete your account. Teachers and administrators can delete student accounts or contact us and we can delete them for you. After a school or district account termination and subsequent removal of student data, we may retain securely stored backups in accordance with applicable law, our agreement with the school or district and our data retention policy, after which point it will be deleted. </span></p>
-<p><strong>c. How we retain and delete your data</strong><span><br>We will retain personal information collected in connection with free or subscription accounts only for as long as is necessary to provide the services to the account holder, or otherwise per the terms or a contract with a school or district. </span></p>
-<p><span>We may maintain anonymized, aggregated data, including usage data, for analytics purposes. </span></p>
-<h5>7. Links to Third-Party Sites</h5>
-<p><span>We occasionally link to other websites from our website to provide relevant content to our users. For example, we include links to news stories along with The Week in Rap, or will sometimes link to other educational websites to supplement a lesson plan. </span></p>
-<p><span>We are not responsible for the practices of these third-party websites or services that we link to, and they are not covered under this Privacy Policy. These websites have their own privacy policies, and we encourage you to review them.</span></p>
-<h5>8. Changes to the Privacy Policy</h5>
-<p><span>We may occasionally update this Privacy Policy. You can see when it was last updated by looking at the last updated date at the bottom of this page. </span></p>
-<p><span>If we make any significant changes we'll post them prominently on our website and/or notify you by other means as required by law. Your continued use of the website after a revision to the Privacy Policy indicates your acceptance and agreement to the current Privacy Policy. We recommend that you periodically review the Privacy Policy to make sure you understand and are up-to-date on how we're keeping your information safe.</span></p>
-<p><span>If you don't agree with the changes to the Privacy Policy, contact us to terminate your account.</span></p>
-<h5>9. Privacy Policy for Outside the US</h5>
-<p><span>This website is owned and operated by Flocabulary, located at 20 Jay Street, Suite 520, Brooklyn, NY 11201. If you are located outside of the United States, please note that information you provide is being transmitted to us and processed in the United States, and will be handled and protected under the terms of this Privacy Policy and applicable U.S. laws, which may not be as protective as the laws in your country. By using the Site, you agree to this.</span></p>
-<h5>10. Contact Us</h5>
-<p><span>If you have any questions about this Privacy Policy, please get in touch with us, and we'll be happy to discuss it with you. </span></p>
-<p><span>You can reach us by email at </span><span><a href="mailto:support@flocabulary.com">support@flocabulary.com</a></span><span>&nbsp;</span></p>
-<p><span>If you'd like to reach us by mail, write us at:</span></p>
-<p><span>Flocabulary<br>20 Jay Street<br>Suite 520<br>Brooklyn, NY 11201</span></p>
-<p><span>This Privacy Policy was last modified </span><span>&nbsp;</span><span>August 23</span><span>, 2016</span><span>. Effective date: </span><span>August 23,</span><span>&nbsp;2016.</span></p>
-<p><span></span></p>
-<div>
-    <p><span></span></p>
-</div>
+
+<p>If a portion or all of Flocabulary's assets are acquired by or merged with a third party, your information may be one of the assets acquired by the third party. You'll still be protected under this Privacy Policy, and your information will only be available to the third party per the terms of this Privacy Policy. If there are changes to the Policy, you will have the opportunity to consent to them prior to additional information being collected or to cease using the Flocabulary site and Content. We will let you know if there is an acquisition by posting on our home page or emailing you or our contact at your school or district. If, at this point, you do not want your personal information shared with a new company, you can request its deletion. If Flocabulary goes out of business or files for bankruptcy, we will not sell your personal information to any third parties who do not agree to continue to meet the protections spelled out in this privacy policy.</p>
+
+<h1>6. How Flocabulary Protects and Secures Your Information</h1>
+
+<p>Each Flocabulary account is protected with a password. Make sure that you and any students associated with your account keep these passwords a secret at all times to prevent unauthorized access to your account. You are responsible for any activity that occurs while you or any students associated with your account are logged in to Flocabulary, whether or not that access is authorized by you. If you think that someone has gained unauthorized access to your account, please contact us immediately.<br>
+<br>
+We have industry-standard security policies and procedures in place, and take reasonable measures to protect the confidentiality, security and integrity of personal information collected on our website. This includes the use of encryption to protect sensitive information transmitted online, firewalls and other security technologies to prevent access to the data from unauthorized parties. All connections between users and Flocabulary are secured via encryption communication technology (SSL). All Flocabulary passwords are salted and hashed using the practices recommended by NIST (National Institute of Standards and Technology). Flocabulary utilizes industry-standard application hosting providers who agree to perform frequent diagnostics, operating system updates, and network security monitoring. Our engineering team is committed to creating and maintaining systems to protect your personal information.<br>
+Our policy is that only employees who need to access user information in order to perform a specific job (for example, billing or customer service) are granted access to that information. All employees with access to student personally identifiable information have undergone a criminal background check. Our partners, including our outside shipping company and our credit card processing company may only use the information to provide specific services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes beyond filling your order.<br>
+<br>
+While we have taken all steps to protect your information, and continuously work to keep our systems at or above industry standard security, no system is 100% fail proof and secure. If we believe that the security of your personal information may have been compromised, we will seek to notify you as soon as possible. If we have your email address, we may notify you by email. You consent to our use of email as a means of such notification.</p>
+
+<h1>7. Your Choices Related to Your Privacy</h1>
+
+<h2>a. You can edit your information</h2>
+
+<p>You have the right to access and edit your information. If you have an individual account on our website, you can edit your information in the account section of the website. If you are unable to do this on the website, you can contact us and we'll help you make changes. We will ask you to verify your identity before we provide you with access to your information.<br>
+You have the right to opt out of emails from us by clicking unsubscribe. You may still receive transactional emails from us related to purchases, account expiration, or other necessary communication.<br>
+<br>
+If you are the manager of a school or district account, you can add, edit or delete teacher and student users of your account. You may edit student usernames and passwords if your students provided them. If your students used a Google account to sign in, you need to contact Google or your School / District IT Administrator to change name, email address or password.<br>
+If you are a parent, guardian or student, the law allows you access to certain information that may have been provided to Flocabulary by your school or district. If you would like to obtain such access, please contact your school or district.</p>
+
+<h2>b. You have the right to delete your information</h2>
+
+<p>If you are a teacher or administrator, you can contact us to delete your account. Teachers and administrators can delete student accounts or contact us and we can delete them for you. After a school or district account termination and subsequent removal of student data, we may retain securely stored backups in accordance with applicable law, our agreement with the school or district and our data retention policy, after which point it will be deleted.</p>
+
+<h2>c. How we retain and delete your data</h2>
+
+<p>We will retain personal information collected in connection with free or subscription accounts only for as long as is necessary to provide the services to the account holder, or otherwise per the terms or a contract with a school or district.<br>
+<br>
+We may maintain anonymized, aggregated data, including usage data, for analytics purposes.</p>
+
+<h1>8. Links to Third-Party Sites</h1>
+
+<p>We occasionally link to other websites from our website to provide relevant content to our users. For example, we include links to news stories along with The Week in Rap, or will sometimes link to other educational websites to supplement a lesson plan.<br>
+<br>
+We are not responsible for the practices of these third-party websites or services that we link to, and they are not covered under this Privacy Policy. These websites have their own privacy policies, and we encourage you to review them.</p>
+
+<h1>9. Changes to the Privacy Policy</h1>
+
+<p>We may occasionally update this Privacy Policy. You can see when it was last updated by looking at the last updated date at the bottom of this page.<br>
+<br>
+If we make any significant changes we'll post them prominently on our website and/or notify you by other means as required by law. Your continued use of the website after a revision to the Privacy Policy indicates your acceptance and agreement to the current Privacy Policy. We recommend that you periodically review the Privacy Policy to make sure you understand and are up-to-date on how we're keeping your information safe.<br>
+<br>
+If you don't agree with the changes to the Privacy Policy, contact us to terminate your account.</p>
+
+<h1>10. Privacy Policy for Outside the US</h1>
+
+<p>This website is owned and operated by Flocabulary, located at 55 Washington Street, Suite 606, Brooklyn, NY 11201. If you are located outside of the United States, please note that information you provide is being transmitted to us and processed in the United States, and will be handled and protected under the terms of this Privacy Policy and applicable U.S. laws, which may not be as protective as the laws in your country. By using the Site, you agree to this.</p>
+
+<h1>11. Contact Us</h1>
+
+<p>If you have any questions about this Privacy Policy, please get in touch with us, and we'll be happy to discuss it with you.<br>
+<br>
+You can reach us by email at support@flocabulary.com<br>
+<br>
+If you'd like to reach us by mail, write us at:<br>
+Flocabulary, Inc.<br>
+55 Washington Street<br>
+Suite 606<br>
+Brooklyn, NY 11201<br>
+<br>
+This Privacy Policy was last modified February 1, 2017. Effective date: February 1, 2017.</p>
+
 	</div>
 </div>
  
@@ -814,7 +961,7 @@ if (!window.console) {
 
 <!-- Force IE9 to not cache requests. todo(Greg) keep thinking about this -->
 $.ajaxSetup({cache: false});
-	try{Typekit.load();}catch(e){}
+  try{Typekit.load();}catch(e){}
 
 <!-- Google Analytics -->
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -850,22 +997,12 @@ if ((location.hostname === "www.flocabulary.com") || (location.hostname === "flo
 }
 <!-- End Snowplow -->
 
-<!-- Sitewide Lightbox Functionality -->
-$(function(){
-  $(".info").colorbox({
-    inline:true,
-    width:"800px",
-    top: "5%",
-    maxHeight: "80%",
-    rel:"tooltip",
-    next:'>',
-    previous:'<',
-    close:'x',
-    fixed: true
-  });
+<!-- Moment time -->
+var now = moment();
+$('time').each(function(i, e) {
+  var time = moment($(e).attr('datetime'));
+  $(e).html('<span>' + time.from(now) + '</span>');
 });
-
-
 window.JWPLAYER_LICENSE_KEY = "CqZERINsJUAHVT0Dgf5LyiJRG9vOst8FHXdwRTUFZns=";
 </script>
 
@@ -874,12 +1011,12 @@ window.JWPLAYER_LICENSE_KEY = "CqZERINsJUAHVT0Dgf5LyiJRG9vOst8FHXdwRTUFZns=";
 /*]]>*/</script>
 <script>
 zE(function() {
-	
-	// Hide zendesk widget if auth user is a student
-	zE.hide();
-	
+  
+  // Hide zendesk widget if auth user is a student
+  zE.hide();
+  
 
-	
+  
 });
 </script>
 <!-- End of flocabulary Zendesk Widget script -->
