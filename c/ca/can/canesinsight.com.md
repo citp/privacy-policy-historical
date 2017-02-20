@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the canesinsight.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229080815id_/https%3A//www.canesinsight.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canesinsight.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220012452id_/https%3A//www.canesinsight.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Google Adsense Privacy Policy
 
