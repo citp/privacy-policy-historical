@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brommando.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222202610id_/http%3A//www.brommando.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brommando.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220192023id_/http%3A//www.brommando.com/about/privacy) for the most accurate reproduction.*
 
 # Brommando.com
 
