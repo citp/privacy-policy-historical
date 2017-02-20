@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the theshoreclubtc.com privacy policy that was archived on 2016-10-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161026032618id_/http%3A//www.theshoreclubtc.com/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theshoreclubtc.com privacy policy that was archived on 2017-02-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170220095436id_/http%3A//theshoreclubtc.com/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="no-js" lang="en"><!--<![endif]--><head>
 	<meta charset="utf-8">
@@ -11,6 +11,8 @@
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
 	<link rel="stylesheet" href="assets/css/vendors.min.css">
+	<link rel="stylesheet" href="assets/css/featherlight.min.css">
+	<link rel="stylesheet" href="assets/css/plyr.css">
 	<link rel="stylesheet" href="assets/css/main.min.css">
 
 	<link rel="apple-touch-icon" sizes="57x57" href="assets/images/icons/apple-touch-icon-57x57.png">
@@ -57,10 +59,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<a href="https://twitter.com/shoreclubtc" target="_blank" class="icon tt"></a>
 				<a href="https://www.facebook.com/ShoreClubTC" target="_blank" class="icon fb"></a>
 				<a href="https://www.instagram.com/theshoreclubtc/" target="_blank" class="icon ig"></a>
+				<a href="#main-video" class="view-video init-lightbox">View video</a>
 			</div>
-			<a href="http://ownership.theshoreclubtc.com/" target="_blank" class="btn-primary-ghost">Real Estate</a>
-			<a href="contact.html" class="btn-primary">Contact Us</a>
-			<a href="http://reservations.theshoreclubtc.com/IRMNET" target="_blank" class="btn-primary">Book Now</a>
+			<div class="nav-buttons">
+				<a href="http://ownership.theshoreclubtc.com/" target="_blank" class="btn-primary-ghost">Real Estate</a>
+				<a href="contact.html" class="btn-primary">Contact Us</a>
+				<a href="https://gc.synxis.com/rez.aspx?Hotel=69691&amp;Chain=6063" target="_blank" class="btn-primary">Book Now</a>
+			</div>
 		</nav>
 	</div>
 </header>
@@ -102,7 +107,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		</div>
 		<div class="footer-info">
 			<div class="footer-contact">
-				<a href="tel:6499413339" class="tel">649 941 3339</a>
+				<!-- <a href="tel:6499413339" class="tel">649 941 3339</a -->
+				<a href="tel:8888089488" class="tel">Toll-free: 888 808 9488</a>
+				<a href="tel:6493398000" class="tel">649 339 8000</a>
 				<a href="mailto:reservations@theshoreclubtc.com" class="mail">reservations@theshoreclubtc.com</a>
 			</div>
 			<div class="footer-social">
@@ -124,9 +131,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 	</div>
 </footer>
 
+<div class="lightbox main-video" id="main-video">
+	<div data-type="vimeo" data-video-id="191061516"></div>
+</div>
+
 <script src="assets/js/vendors.js"></script>
+<script src="assets/js/featherlight.min.js"></script>
+<script src="assets/js/plyr.js"></script>
 <script src="assets/js/main.js"></script>
 <script>$(document).ready(initPage);</script>
+<script type="text/javascript">
+	// LIGHTBOX
+	$('.init-lightbox').featherlight({
+		targetAttr: 'href',
+		beforeOpen: function(event){
+		},
+		afterOpen: function(event){
+			plyr.setup();
+		}
+	});
+</script>
 
 
 </body></html>
