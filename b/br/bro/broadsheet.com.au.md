@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204141927id_/https%3A//www.broadsheet.com.au/melbourne/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the broadsheet.com.au privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220011144id_/https%3A//www.broadsheet.com.au/melbourne/info/privacy-policy) for the most accurate reproduction.*
 
-# Broadsheet
-
-Privacy Statement 
+# Privacy Statement
 
 ## Broadsheet Media Pty Ltd
 
