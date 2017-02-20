@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stellarinfo.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201150200id_/http%3A//www.stellarinfo.com/company/legal/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stellarinfo.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220104214id_/https%3A//www.stellarinfo.com/company/legal/privacy-policy.php) for the most accurate reproduction.*
 
 # Stellar Information Technology Pvt. Ltd. - Privacy Policy
 
-Stellar Information Technology Pvt. Ltd. is committed to maintaining the privacy of the information you share with us. We will not sell, distribute, or rent information about you and your purchases at [www.stellarinfo.com](http://www.stellarinfo.com/) to a third party. We will use the information you share only for the purposes of improving your use of our web site, and/or, with your permission, sending you information about our products and services. 
+Stellar Information Technology Pvt. Ltd. is committed to maintaining the privacy of the information you share with us. We will not sell, distribute, or rent information about you and your purchases at [www.stellarinfo.com](https://www.stellarinfo.com/) to a third party. We will use the information you share only for the purposes of improving your use of our web site, and/or, with your permission, sending you information about our products and services. 
 
 Please read our Privacy Policy to understand how we protect you and the information you share with us. If you have any questions, please feel free to write to us at [privacy@stellarinfo.com ](mailto:privacy@stellarinfo.com)
 
