@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ahs.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206023450id_/https%3A//www.ahs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ahs.com privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220012458id_/https%3A//www.ahs.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
