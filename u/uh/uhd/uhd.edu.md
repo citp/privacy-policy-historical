@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the uhd.edu privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914221348id_/https%3A//www.uhd.edu/policies/Pages/policies-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uhd.edu privacy policy that was archived on 2017-02-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170220234919id_/https%3A//www.uhd.edu/policies/Pages/policies-privacy.aspx) for the most accurate reproduction.*
 
-# Privacy Statement​ | Major Opportunities at the University of Houston-Downtown
+# Privacy Statement​ | University of Houston-Downtown
 
 Thank you for visiting the University of Houston-Downtown (UHD) website. UHD is committed to ensuring the privacy and accuracy of confidential information. As a public institution of higher education, we do not actively share personal information collected via interaction with our web servers. UHD will not disclose personal information about visitors to the web site to anyone outside of the university unless we are required to do so by law.
 
