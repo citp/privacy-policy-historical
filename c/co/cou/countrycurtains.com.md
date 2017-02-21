@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countrycurtains.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401183900id_/https%3A//www.countrycurtains.com/display.do%3FruleID%3D102764%26itemID%3D202%26itemType%3DCATEGORY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countrycurtains.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221064516id_/https%3A//www.countrycurtains.com/display.do%3FruleID%3D102764%26itemID%3D202%26itemType%3DCATEGORY) for the most accurate reproduction.*
 
 # Country Curtains®: Curtains, Valances, Curtain Rods & Draperies
 
