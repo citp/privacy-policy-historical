@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gensler.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093758id_/http%3A//www.gensler.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gensler.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221012332id_/https%3A//www.gensler.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Gensler
 
@@ -36,8 +36,8 @@ By using the Site, you acknowledge and consent to the fact that Personally Ident
 
 **Your Options**
 
-  1. **Opting Out.** We may from time to time send you updates and mailings relating to Gensler events that we think may be of interest to you. If you would prefer not to receive marketing mailings from us, you may unsubscribe from these marketing mailings by following the unsubscribe instructions in any such message or by contacting us by email at privacy@gensler.com.
-  2. **Reviewing, Changing, or Suppressing Personally Identifiable Information.** To the extent permitted by the laws of your country, you may request to review, correct, update, suppress, or otherwise modify any Personally Identifiable Information that you have previously provided through the Site, or object to the use of such Personally Identifiable Information by Gensler. You may exercise these rights by logging on to your subscriptions account on our Site or by contacting us at privacy@gensler.com.
+  1. **Opting Out.** We may from time to time send you updates and mailings relating to Gensler events that we think may be of interest to you. If you would prefer not to receive marketing mailings from us, you may unsubscribe from these marketing mailings by following the unsubscribe instructions in any such message or by contacting us by email at [info@gensler.com](mailto:info@gensler.com).
+  2. **Reviewing, Changing, or Suppressing Personally Identifiable Information.** To the extent permitted by the laws of your country, you may request to review, correct, update, suppress, or otherwise modify any Personally Identifiable Information that you have previously provided through the Site, or object to the use of such Personally Identifiable Information by Gensler. You may exercise these rights by logging on to your subscriptions account on our Site or by contacting us at [info@gensler.com](mailto:info@gensler.com).
 
 
 
@@ -55,7 +55,7 @@ We reserve the right to change this Privacy Statement at any time without notice
 
 **Contacting Us**
 
-If you have questions about this Privacy Statement or want to contact us regarding how we handle your data, please send an email to privacy@gensler.com or write to us at:
+If you have questions about this Privacy Statement or want to contact us regarding how we handle your data, please send an email to [info@gensler.com](mailto:info@gensler.com) or write to us at:
 
 Gensler  
 2 Harrison Street  
