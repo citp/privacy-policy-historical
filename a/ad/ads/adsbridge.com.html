@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the adsbridge.com privacy policy that was archived on 2016-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160326180828id_/https%3A//www.adsbridge.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the adsbridge.com privacy policy that was archived on 2017-02-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170221144516id_/https%3A//www.adsbridge.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en-US"><head>
     <meta charset="UTF-8">
@@ -7,7 +7,7 @@
     <meta name="google-site-verification" content="IWByYOE7923ReRXIHuuD7VY5r2fZiPrAnLvSQ6hSw9g">
     <meta name="keywords" content="adsbridge, ads bridge, адсбридж, адс бридж">
     <meta name="description" content="Read through the privacy policy before you start working with the AdsBridge traffic tracker.">
-    <script type="text/javascript" async="" src="https://widget.intercom.io/widget/ielpcxt8"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W7277F"></script><script type="text/javascript" src="https://dlqe6njq49pwj.cloudfront.net/s/r/1401362206.js?v=1" async=""></script><script type="text/javascript" src="/assets/9dee044b/jquery.min.js"></script>
+    <script type="text/javascript" async="" src="https://widget.intercom.io/widget/ielpcxt8"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W7277F"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" src="https://dlqe6njq49pwj.cloudfront.net/s/r/1401362206.js?v=1" async=""></script><script type="text/javascript" src="/assets/9dee044b/jquery.min.js"></script>
 <script type="text/javascript" src="/assets/a264a88/JsTrans.js?1413298385"></script>
 <script type="text/javascript" src="/assets/a264a88/JsTrans.dictionary.d1554a5d79.en.js"></script>
 <script type="text/javascript" src="/js/jquery-ui.min.js"></script>
@@ -15,6 +15,8 @@
 /*<![CDATA[*/
 var ApiLoader = (function() {
 
+    var disable     = false;
+    var disableEver = false;
     var microCount  = 0;
     var funcAjax    = null;
 
@@ -30,7 +32,7 @@ var ApiLoader = (function() {
             onAjax : function() {
                 var $loader = $(module.selectors.loader);
 
-                if ($.active > 0 || microCount > 0) {
+                if (($.active > 0 || microCount > 0) && !disable && !disableEver) {
                     $loader.show();
                 } else {
                     $loader.hide();
@@ -85,6 +87,16 @@ var ApiLoader = (function() {
             }
 
             module.listeners.onAjax();
+        },
+
+        disable : function(isDisable) {
+            disable = isDisable;
+            module.listeners.onAjax();
+        },
+
+        disableEver : function() {
+            disableEver = true;
+            module.listeners.onAjax();
         }
     };
 
@@ -99,16 +111,103 @@ var ApiLoader = (function() {
     $.ajax      = module.listeners.onAjaxRequest;
 
     return {
-        micro : module.micro
+        micro       : module.micro,
+        disable     : module.disable,
+        disableEver : module.disableEver
     };
 })();
 /*]]>*/
 </script>
 <title>Privacy Policy of AdsBridge Affiliate Software</title>
-    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/main.css?1458827368">    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/font-awesome.css?1458827368">    <link rel="stylesheet" type="text/css" href="">    <link rel="stylesheet" type="text/css" href="/css/chosen.css?1429692042">    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/fancyfields.css?1458827368">    <!--<link rel="stylesheet" type="text/css" href="/assets/7c192763/css/jquery.bxslider.css?1458827368" /-->    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
+    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/main.css?1487668447">    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/font-awesome.css?1487668447">    <link rel="stylesheet" type="text/css" href="">    <link rel="stylesheet" type="text/css" href="/css/chosen.css?1429692042">    <link rel="stylesheet" type="text/css" href="/assets/7c192763/css/fancyfields.css?1487668447">    <!--<link rel="stylesheet" type="text/css" href="/assets/7c192763/css/jquery.bxslider.css?1487668447" /-->    <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700,800&amp;subset=latin,cyrillic" rel="stylesheet" type="text/css">
     <link type="image/x-icon" rel="icon" href="/images/favicon-new.ico?1421312573">    <script type="text/javascript"> (function () {var url = "dlqe6njq49pwj.cloudfront.net/s/r/1401362206.js?v=1";var __dbs = document.createElement("script");__dbs.type = "text/javascript";__dbs.src = ("https:" == document.location.protocol ?
                 "https://" : "http://") + url;__dbs.async = true;var script = document.getElementsByTagName("script")[0];script.parentNode.insertBefore(__dbs, script);})();</script>    <script type="text/javascript" src="/js/jquery.min.js"></script>
-    <script type="text/javascript" src="/assets/7c192763/js/fancyfields-1.2.min.js?1458827368"></script>    <script type="text/javascript" src="/assets/7c192763/js/jquery.bxslider.min.js?1458827368"></script>        <script type="text/javascript" src="/js/chosen.jquery.min.js?1429692042"></script>    <script type="text/javascript" src="/js/class.js?1419600588"></script>    <script type="text/javascript" src="/js/indexCommon.js?1449490661"></script>
+    <script type="text/javascript" src="/assets/7c192763/js/fancyfields-1.2.min.js?1487668447"></script>    <script type="text/javascript" src="/assets/7c192763/js/jquery.bxslider.min.js?1487668447"></script>        <script type="text/javascript" src="/js/chosen.jquery.min.js?1429692042"></script>    <script type="text/javascript" src="/js/class.js?1419600588"></script>    <script>var ApiAjax = (function() {
+
+    var funcAjax    = null;
+    var csrfTokenObject = {
+        'YII_CSRF_TOKEN' : 'c8205662f66913571c178a1850730daa9a31ccc8'
+    };
+
+    var csrfTokenString = "YII_CSRF_TOKEN=c8205662f66913571c178a1850730daa9a31ccc8";
+
+    var module = {
+        selectors : {
+            doc     : document,
+            body    : 'body',
+            form    : 'form'
+        },
+
+        listeners : {
+            onFormSubmit : function() {
+                var $form = $(this);
+
+                if (!$form.find('input[name="YII_CSRF_TOKEN"]').length) {
+                    $form.prepend('<input type="hidden" name="YII_CSRF_TOKEN" value="c8205662f66913571c178a1850730daa9a31ccc8">');
+                }
+            },
+
+            onAjaxRequest : function() {
+                if (typeof arguments[0]['data'] === "string") {
+                    arguments[0]['data'] += "&" + csrfTokenString;
+                } else if($.isArray(arguments[0]['data'])) {
+                    arguments[0]['data'].push({
+                        name    : 'YII_CSRF_TOKEN',
+                        value   : 'c8205662f66913571c178a1850730daa9a31ccc8'
+                    });
+                } else if (arguments[0]['data'] && typeof arguments[0]['data'] === 'object' && $.isFunction(arguments[0]['data'].append)) {
+                    arguments[0]['data'].append('YII_CSRF_TOKEN', 'c8205662f66913571c178a1850730daa9a31ccc8')
+                } else {
+                    arguments[0]['data'] = $.extend(arguments[0]['data'], csrfTokenObject);
+                }
+
+                return funcAjax.apply(this, arguments);
+            }
+        },
+
+        helpers : {
+            name : function() {
+                return 'YII_CSRF_TOKEN';
+            },
+
+            token : function() {
+                return 'c8205662f66913571c178a1850730daa9a31ccc8';
+            }
+        }
+    };
+
+    $(module.selectors.doc)
+        .ajaxStart(module.listeners.onAjax)
+        .ajaxStop(module.listeners.onAjax);
+
+    $(module.selectors.win)
+        .error(module.listeners.onError);
+
+    funcAjax    = $.ajax;
+    $.ajax      = module.listeners.onAjaxRequest;
+
+    $(function() {
+        $(module.selectors.body).on('submit', module.selectors.form, module.listeners.onFormSubmit);
+    });
+
+    return {
+        name    : module.helpers.name,
+        token   : module.helpers.token
+    };
+})();</script>
+    <script type="text/javascript" src="/js/indexCommon.js?1449490661"></script>    <script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+    n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1077606112298991');
+fbq('track', "PageView");
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1077606112298991&ev=PageView&noscript=1"/>
+</noscript>
     <script type="text/javascript">
         jQuery(document).ready(function() {
             $('.b-form select,.b-form input[type="checkbox"]').fancyfields();
@@ -200,7 +299,7 @@ var ApiLoader = (function() {
     <div class="container">
         <div class="b-index-main-fluide">
             <div class="wrapper">
-                <a class="b-logo" href="/"><img src="/assets/7c192763/images/main/logo-medium.png?1458827367" alt="AdsBridge"></a>                <a href="#" class="btn-top-menu">Menu</a>
+                <a class="b-logo" href="/"><img src="/assets/7c192763/images/main/logo-medium.png?1487668446" alt="AdsBridge"></a>                <a href="#" class="btn-top-menu">Menu</a>
                 <ul class="b-top-menu">
                     <li class="item ">
                         <a class="link scrollTo" href="/features/">Features</a>                    </li>
@@ -229,7 +328,7 @@ var ApiLoader = (function() {
             <h2 class="subtitle">
                 Overview            </h2>
             <p>
-                Adsbridge Asia Limited (Hong Kong), trading as AdsBridge ("AdsBridge", "we", "us" or "our") is committed to protecting the privacy of personal information of identifiable individuals who visit the <a href="http://adsbridge.com">www.adsbridge.com</a> website (the "Site") and use the services available thereon (the "Services"). Amendments to this Privacy Policy will be posted to the Site and/or Services and will be effective when posted. Your continued use of the Services following the posting of any amendment to the Privacy Policy shall constitute your acceptance of such amendment.            </p>
+                Adsbridge Asia Limited, trading as AdsBridge ("AdsBridge", "we", "us" or "our") is committed to protecting the privacy of personal information of identifiable individuals who visit the <a href="http://adsbridge.com">www.adsbridge.com</a> website (the "Site") and use the services available thereon (the "Services"). Amendments to this Privacy Policy will be posted to the Site and/or Services and will be effective when posted. Your continued use of the Services following the posting of any amendment to the Privacy Policy shall constitute your acceptance of such amendment.            </p>
             <h3 class="subtitle">
                 1. Consent and Information Collection and Use            </h3>
             <p>
@@ -342,11 +441,11 @@ var ApiLoader = (function() {
                     <li>
                         <a target="_blank" href="/contactus/">Contact us</a>                    </li>
                     <li>
-                        <a href="https://adsbridge.freshdesk.com/support/home" target="_blank">
+                        <a href="http://support.adsbridge.com/en-faq" target="_blank">
                             FAQ                        </a>
                     </li>
                     <li>
-                        <a href="http://help.adsbridge.com" target="_blank">
+                        <a href="http://help.adsbridge.com/" target="_blank">
                             Help center                        </a>
                     </li>
                     <li>
@@ -378,7 +477,7 @@ var ApiLoader = (function() {
                                     </ul>
             </div>
             <div class="footer-col last">
-                <img src="/assets/7c192763/images/main/logo-small.png?1458827367" alt="AdsBridge">                <p>
+                <img src="/assets/7c192763/images/main/logo-small.png?1487668446" alt="AdsBridge">                <p>
                                             AdsBridge is an intelligent SaaS mobile and web tracker with an in-built landing page creator.
                         It's the most technologically driven affiliate software for performance marketing!
                      
@@ -396,14 +495,14 @@ var ApiLoader = (function() {
                 <li><a href="/privacy/">Privacy Policy</a></li>
             </ul>
             <span class="copy">
-                2013-2016 © AdsBridge. All rights reserved.<br>
-                Adsbridge.com is owned and operated by Adsbridge Asia Ltd, Hong Kong            </span>
+                2013-2017 © AdsBridge. All rights reserved.<br>
+            </span>
             <div class="clear"></div>
         </div>
     </div>
 </div>
 <!--Start of Live Chat Script-->
-<script>window.intercomSettings = {"app_id":"hmraoyy8","name":" ","first_name":null,"last_name":null,"email":null,"user_id":null,"created_at":1459015709,"Subscription type":null,"Visits":0,"Extra visits":0};(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/ielpcxt8';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script><!--End of Live Chat Script-->
+<script>window.intercomSettings = {"app_id":"hmraoyy8","name":" ","first_name":null,"last_name":null,"email":null,"user_id":null,"created_at":1487688316,"Subscription type":null,"Visits":0,"Extra visits":0};(function(){var w=window;var ic=w.Intercom;if(typeof ic==="function"){ic('reattach_activator');ic('update',intercomSettings);}else{var d=document;var i=function(){i.c(arguments)};i.q=[];i.c=function(args){i.q.push(args)};w.Intercom=i;function l(){var s=d.createElement('script');s.type='text/javascript';s.async=true;s.src='https://widget.intercom.io/widget/ielpcxt8';var x=d.getElementsByTagName('script')[0];x.parentNode.insertBefore(s,x);}if(w.attachEvent){w.attachEvent('onload',l);}else{w.addEventListener('load',l,false);}}})()</script><!--End of Live Chat Script-->
 
 <script type="text/javascript">
                     adroll_adv_id = "TPKIKJ6MGBFCDBSMJF5YYA";
