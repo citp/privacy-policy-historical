@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the orcinternational.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024195155id_/http%3A//orcinternational.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orcinternational.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221065420id_/https%3A//orcinternational.com/privacy) for the most accurate reproduction.*
 
 # Privacy - ORC International, Inc.
 
 **Regional Policies**
 
-View [ **Australia Privacy Policy**](http://orcinternational.com/australia-privacy-policy/)
+View [ **Australia Privacy Policy**](https://orcinternational.com/australia-privacy-policy/)
 
-View **[UK Privacy Policy ](http://orcinternational.com/uk-privacy-policy/)**
+View **[UK Privacy Policy ](https://orcinternational.com/uk-privacy-policy/)**
 
-View **[UK Terms of Use](http://orcinternational.com/terms-of-use/)**
+View **[UK Terms of Use](https://orcinternational.com/terms-of-use/)**
 
-View **[UK Quality Policy](http://orcinternational.com/quality-policy/)**
+View **[UK Quality Policy](https://orcinternational.com/quality-policy/)**
 
 **Online Services**
 
-View: **[Online Services Terms and Conditions](http://orcinternational.com/online-terms-and-conditions/)**
+View: **[Online Services Terms and Conditions](https://orcinternational.com/online-terms-and-conditions/)**
 
 **ORC International Privacy Policy**
 
