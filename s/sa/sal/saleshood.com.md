@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the saleshood.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211083917id_/http%3A//saleshood.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the saleshood.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222005524id_/https%3A//saleshood.com/privacy-policy) for the most accurate reproduction.*
 
 # SalesHood - Privacy Policy
 
