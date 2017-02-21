@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rapsio.com privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318004458id_/https%3A//www.rapsio.com/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapsio.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221150417id_/https%3A//www.rapsio.com/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # PrivacyPolicy - Rapsio AdPortal
 
