@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truthkings.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206093007id_/https%3A//truthkings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truthkings.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221042016id_/https%3A//truthkings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Truth Kings
 
