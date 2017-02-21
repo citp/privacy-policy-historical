@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the megaboutique.com.au privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011053734id_/http%3A//www.megaboutique.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the megaboutique.com.au privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221121454id_/https%3A//www.megaboutique.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 #### INTRODUCTION TO OUR PRIVACY POLICY
 
-This web site is subject to the National Privacy Principles under the Australian Privacy Act 1988 (as amended by the Privacy Amendment (Private Sector) Act 2000). This Privacy policy explains in general terms how Mega Boutique protects the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us when registering with us on our web site www.littlegenie.com.au. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This web site is subject to the National Privacy Principles under the Australian Privacy Act 1988 (as amended by the Privacy Amendment (Private Sector) Act 2000). This Privacy policy explains in general terms how Mega Boutique protects the privacy of your personal information under the National Privacy Principles. It will apply to any personal information you provide to us when registering with us on our web site www.megaboutique.com.au. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
 #### WHAT INFORMATION DO WE COLLECT?
 
