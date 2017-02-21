@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the integrate.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120065357id_/https%3A//www.integrate.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the integrate.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221183651id_/https%3A//www.integrate.com/privacy) for the most accurate reproduction.*
 
 # Prviacy Policy | Integrate
 
