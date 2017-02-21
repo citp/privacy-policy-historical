@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the napaonline.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205011101id_/https%3A//www.napaonline.com/napa/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the napaonline.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221053754id_/https%3A//www.napaonline.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | NAPA Auto Parts
 
