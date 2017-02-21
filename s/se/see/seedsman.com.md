@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the seedsman.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122014453id_/http%3A//www.seedsman.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seedsman.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221154038id_/https%3A//www.seedsman.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-**By using/purchasing from our website www.seedsman.com you accept our[Terms & Conditions](http://www.seedsman.com/en/terms-conditions/ "Terms & Conditions"), [Privacy Policy](http://www.seedsman.com/en/privacy-policy/ "Privacy Policy") and [Legal Disclaimer](http://www.seedsman.com/en/disclaimer/ "Legal Disclaimer").**
+**By using/purchasing from our website www.seedsman.com you accept our[Terms & Conditions](https://www.seedsman.com/en/terms-conditions/ "Terms & Conditions"), [Privacy Policy](https://www.seedsman.com/en/privacy-policy/ "Privacy Policy") and [Legal Disclaimer](https://www.seedsman.com/en/disclaimer/ "Legal Disclaimer").**
 
 **Seedsman.com is dedicated to ensuring the protection and privacy of our customers and visitors to our websites.   We understand and adhere to the Data Protection Act, which was set up to help and protect you – the visitor.**
 
@@ -62,7 +62,7 @@ Our website may contain links to other websites of interest. However, once you h
 You may choose to restrict the collection or use of your personal information in the following ways:
 
   * whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes
-  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [contacting us](http://www.seedsman.com/en/contacts "Contact Us").
+  * if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by [contacting us](https://www.seedsman.com/en/contacts "Contact Us").
 
 
 
