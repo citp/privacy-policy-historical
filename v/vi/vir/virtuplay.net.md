@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the virtuplay.net privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127120559id_/http%3A//virtuplay.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtuplay.net privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221230849id_/http%3A//virtuplay.net/privacy-policy) for the most accurate reproduction.*
 
-# virtuplay.net: Privacy Policy
+# VirtuPlay: Privacy Policy
 
 ## Privacy Policy:
 
