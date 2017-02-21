@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficfactory.biz privacy policy that was archived on 2016-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160615154233id_/https%3A//main.trafficfactory.biz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficfactory.biz privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221151156id_/https%3A//main.trafficfactory.biz/privacy-policy) for the most accurate reproduction.*
 
 # Traffic Factory - Advertise
 
