@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203050841id_/https%3A//www.f-secure.com/en_US/web/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the f-secure.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221053613id_/https%3A//www.f-secure.com/en/web/legal/privacy) for the most accurate reproduction.*
 
 # Privacy policy for services | F-Secure
 
@@ -11,7 +11,7 @@
 
 
 
-Our guiding principles for processing your personal data are [here](https://web.archive.org/web/20161027031059id_/https://www.f-secure.com/en_US/web/legal/principles).
+Our guiding principles for processing your personal data are [here](https://web.archive.org/web/20170222095457id_/https://www.f-secure.com/en/web/legal/principles).
 
 ##  Structure
 
@@ -20,7 +20,7 @@ This privacy policy is given by F-Secure Corporation, a Finnish publicly listed 
 Our data collection can be categorized as follows:
 
   * **Service data** ; the data that we automatically process to provide you with the services that you have requested. This also includes the data that you actively submit to us when subscribing to our services. This is explained in this policy.
-  * **Security data** ; anonymous data that we need to collect to keep you secure. Such data is processed separately from any other data in accordance to our [Security Cloud privacy policy](https://web.archive.org/web/20161027031059id_/https://www.f-secure.com/en_US/web/legal/privacy/security-cloud).
+  * **Security data** ; anonymous data that we need to collect to keep you secure. Such data is processed separately from any other data in accordance to our [Security Cloud privacy policy](https://web.archive.org/web/20170222095457id_/https://www.f-secure.com/en/web/legal/privacy/security-cloud).
   * **Analytics data** ; additional anonymous or pseudonymous data that we collect to learn when and how our services are found and used. This is explained here.
 
 
@@ -193,7 +193,7 @@ Typical examples of this kind of "third-party collection" are:
 
 **What we collect.** Data analytics running in our services include things like the Internet browser that you use, elements clicked, timestamps, general location, device identifier and relations between devices / users / user groups, service operation time, device metrics (such as phone model and operation system, language), partial IP address, service errors, problematic files and service performance data, how you interact with our services (such as which features are used and how often), the domain name from which you connect to the service and the service features that you use, effectiveness of our commercials, installation success, installation and activation paths, performance, operation environment, connections, data routing, quota, as well as other similar data.
 
-Data analytics running on our web sites are described in a [dedicated policy](https://web.archive.org/web/20161027031059id_/https://www.f-secure.com/en_US/web/legal/privacy/website).
+Data analytics running on our web sites are described in a [dedicated policy](https://web.archive.org/web/20170222095457id_/https://www.f-secure.com/en/web/legal/privacy/website).
 
 **How we treat such data.** We are interested in the needs and behavior of our customers as part of a group, not in the names of those customers. When analyzing data inside F-Secure, we transfer the collected analytics data to statistics, demographics, and customer segments. We treat the collected analytics data as anonymous and have safeguards to prevent the identification of individual customers.
 
@@ -210,7 +210,7 @@ This is a necessary evil in almost all digital analytics and marketing activitie
 
 **We do not sacrifice your privacy.** Where we differ from most companies doing this is in that we understand how the ecosystem works and go through great pains to select our few partners with care, removing all data that is not absolutely necessary for the above purpose. You can naturally opt out from the collection of analytics data at any time via the service settings.
 
-We also limit such added analytics only to the surface of our services and keep them at arm's length from the core privacy areas of our services. For example, we do not have any external analytics in our [security cloud](https://web.archive.org/web/20161027031059id_/https://www.f-secure.com/en_US/web/legal/privacy/security-cloud) or in the traffic inside our [VPN service](https://web.archive.org/freedome).
+We also limit such added analytics only to the surface of our services and keep them at arm's length from the core privacy areas of our services. For example, we do not have any external analytics in our [security cloud](https://web.archive.org/web/20170222095457id_/https://www.f-secure.com/en/web/legal/privacy/security-cloud) or in the traffic inside our [VPN service](https://web.archive.org/freedome).
 
 ##  Marketing
 
