@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeropark.com privacy policy that was archived on 2016-10-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161005131604id_/https%3A//zeropark.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeropark.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221154352id_/https%3A//zeropark.com/privacy-policy) for the most accurate reproduction.*
 
 # Zero Click Domain Traffic - Privacy Policy
 
