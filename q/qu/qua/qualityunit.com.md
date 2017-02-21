@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129175329id_/https%3A//www.qualityunit.com/privacy-policy-quality-unit) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualityunit.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221163254id_/https%3A//www.qualityunit.com/privacy-policy-quality-unit) for the most accurate reproduction.*
 
 # Privacy Policy - Affiliate Tracking, Live Chat and Help Desk Software - Quality Unit
 
