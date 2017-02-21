@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawctopus.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119003228id_/http%3A//www.lawctopus.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawctopus.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221174637id_/https%3A//www.lawctopus.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Lawctopus
 
@@ -29,5 +29,3 @@ Lawctopus is committed to protect the privacy of all its users. In terms of our 
 9\. We may use third-party advertising companies to serve ads when you visit Lawctopus. These companies may use information (not including your name, address, email address, or telephone number) about your visits to Lawctopus in order to provide advertisements about the products and services of interest to you.
 
 10\. We reserve the right to update, change or modify this Privacy Statement at any time. The Statement shall come to effect from the date of such update, change or modification.
-
-[Read More ](http://www.lawctopus.com/privacy-policy-2/)
