@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the berush.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616162507id_/https%3A//www.berush.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the berush.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221185408id_/https%3A//www.berush.com/en/privacy-policy) for the most accurate reproduction.*
 
 # BeRush.com - Privacy policy
 
@@ -65,7 +65,7 @@ We regularly review our compliance with our Privacy Policy. We also adhere to se
 
 ## CHANGES
 
-Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we may provide a more prominent notice (including, for certain services, email notification of privacy policy changes). The actual Privacy Policy for your review is placed on [https://www.berush.com/privacy-policy](https://web.archive.org/privacy-policy).
+Our Privacy Policy may change from time to time. We will post any privacy policy changes on this page and, if the changes are significant, we may provide a more prominent notice (including, for certain services, email notification of privacy policy changes). The actual Privacy Policy for your review is placed on [https://www.berush.com/privacy-policy](https://web.archive.org/en/privacy-policy/).
 
 ## CONTACT
 
