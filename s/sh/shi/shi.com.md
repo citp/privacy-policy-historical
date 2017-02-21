@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the shi.com privacy policy that was archived on 2016-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161210101430id_/https%3A//www.shi.com/CustomerServices/SHIInfo.aspx%3FContentId%3D22%26Menu%3Dabout) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shi.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221035509id_/https%3A//www.shi.com/CustomerServices/SHIInfo.aspx%3FContentId%3D22%26Menu%3Dabout) for the most accurate reproduction.*
 
-# About Us | Privacy Statement |
+# About Us | Privacy Statement | shi.com
 
 SHI is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. SHI collects information from our users at several different points on our website.
 
