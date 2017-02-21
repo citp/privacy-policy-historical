@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the adsbridge.com privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326180828id_/https%3A//www.adsbridge.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adsbridge.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221144516id_/https%3A//www.adsbridge.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of AdsBridge Affiliate Software
 
 ##  Overview 
 
-Adsbridge Asia Limited (Hong Kong), trading as AdsBridge ("AdsBridge", "we", "us" or "our") is committed to protecting the privacy of personal information of identifiable individuals who visit the [www.adsbridge.com](http://adsbridge.com/) website (the "Site") and use the services available thereon (the "Services"). Amendments to this Privacy Policy will be posted to the Site and/or Services and will be effective when posted. Your continued use of the Services following the posting of any amendment to the Privacy Policy shall constitute your acceptance of such amendment. 
+Adsbridge Asia Limited, trading as AdsBridge ("AdsBridge", "we", "us" or "our") is committed to protecting the privacy of personal information of identifiable individuals who visit the [www.adsbridge.com](http://adsbridge.com/) website (the "Site") and use the services available thereon (the "Services"). Amendments to this Privacy Policy will be posted to the Site and/or Services and will be effective when posted. Your continued use of the Services following the posting of any amendment to the Privacy Policy shall constitute your acceptance of such amendment. 
 
 ###  1\. Consent and Information Collection and Use 
 
