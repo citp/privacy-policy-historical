@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pardonsnowden.org privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914165039id_/https%3A//www.pardonsnowden.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pardonsnowden.org privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221033424id_/https%3A//www.pardonsnowden.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Pardon Edward Snowden
+# Privacy Policy - Stand With Snowden
 
 ## Our Collection and Use of Information About You
 
@@ -34,6 +34,12 @@ This allows us to build a more effective advocacy program, to inform you about u
 ## How We Work With Third-Party Vendors
 
 We work with a variety of vendors who help us process data or otherwise facilitate the operation of the Pardon Snowden website. For example, outside vendors may help us analyze traffic on our site or facilitate activities such as the collection and delivery of letters. To the extent that any vendor has access to personally identifiable data about you, by virtue of the fact that it participates in the operation of the Pardon Snowden website, we require that vendor to promise that it will keep that data confidential and use it only for the purpose of carrying out the functions we have engaged it to perform. That is true both as to passively collected data and as to voluntarily submitted data.
+
+### SurveyMonkey
+
+This campaign uses SurveyMonkey to administer surveys. We've set up our surveys so that they collect respondent IP addresses and email addresses. All survey questions can be skipped, and we encourage respondents who feel uncomfortable answering individual questions to do so. Aggregate survey data and individual responses will be shared inside the campaign, but not externally, except in cases where we've gotten specific permission. Within three months of survey completion we will permanently delete the survey data from our SurveyMonkey account.
+
+SurveyMonkey says it will then be fully purged from its system within 90 days. For more information, see SurveyMonkey's [privacy policy](https://www.surveymonkey.com/mp/policy/privacy-policy/) and [security statement](https://www.surveymonkey.com/mp/policy/security/).
 
 ## Our Use of Cookies
 
