@@ -1,266 +1,171 @@
-> *The following text is extracted and transformed from the invoca.net privacy policy that was archived on 2014-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140924034504id_/http%3A//www.invoca.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the invoca.net privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221145703id_/http%3A//www.invoca.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Invoca
 
-**What is covered by this Policy?**
+### Privacy Policy
 
-Invoca (“Invoca” “we” or “us”) provides pay-per-call services, using unique phone numbers and other forms of call tracking used in both  
-online and offline advertising. Using unique phone numbers with personalization components, database management, and our proprietary and confidential  
-systems we provide networks, advertisers, agencies, publishers (directly and indirectly, our “clients”), and consumers with pay-per-call features and  
-services that are unmatched in our industry. 
+Invoca, Inc. (“Invoca”, “We”, “Us” or “Our”) owns and operates a proprietary call intelligence technology platform (“Invoca Platform”). Using unique phone numbers with personalization components combined with database management, Invoca provides networks, advertisers, agencies, publishers (directly and indirectly “Clients”), and consumers with marketing automation services (the “Services”).
 
-We recognize that privacy is important, and our collection and use of information is limited to what is necessary to create innovative and reliable  
-services for our clients, without compromising the individual privacy of consumers. This policy covers data collected through our website, [www.invoca.com](http://www.invoca.com/) and data collected through our services. 
+Privacy is important to Invoca and any information that is collected or used is limited to what is necessary to create and maintain innovative and reliable Services without compromising the individual privacy of users. This policy covers data collected through Invoca’s corporate website ([www.invoca.com](http://www.invoca.com/)) and data collected through the Invoca Platform. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. The use of information collected through the Invoca Platform shall be limited to the purpose of providing the service for which the Client has engaged Invoca, Inc.
 
-**CONSUMER PRIVACY**
+Throughout this Policy “personal information” means user and/or Client name, address, phone number, email address and IP address or any information or combination of information that can be used to identify, contact, or locate a discrete individual.
 
-**What information does Invoca collect about consumers?**
+**_EU – U.S. Privacy Shield_**
 
-_General_
+Invoca participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework. Invoca is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles. To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s Privacy Shield List: <https://www.privacyshield.gov/list>
 
-When a consumer uses our services, for example, by calling a unique phone number associated with one of our advertiser clients, we will collect their  
-personal information if it is made available to us by the consumer or by a third party. This information includes limited personal data such as the  
-caller’s name, address, phone number and email address. We will not knowingly collect personal information from children under the age of thirteen. 
+Invoca is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf in accordance with Invoca’s contractual obligations with its customers. Invoca complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-_User-supplied Information_
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, Invoca is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission. In certain situations, Invoca may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-We and our clients, for example, an advertiser, may set up order forms, questionnaires, or other mechanisms through which a consumer may be asked to  
-provide certain information either online or via telephone or other communications medium. Participation is purely voluntary, and any consumer not  
-wanting to participate may decline or terminate contact (e.g., navigate away from the web page or hang up the phone). 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
-If such mechanisms are initiated by one of our clients outside of our services and our clients collect the information themselves, we cannot be  
-responsible for that information, although we will endeavor to ensure that such clients maintain reasonable and appropriate privacy policies. 
+Under certain conditions, more fully described on the Privacy Shield website <https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint>, you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-In addition, we may receive from clients email addresses and telephone numbers of consumers for various purposes, for example, facilitating an outbound  
-marketing campaign. Prior to obtaining any such information, we will require assurances from our clients that such information was obtained rightfully,  
-and we must rely on those assurances in delivering our services. 
+**_CONSUMER PRIVACY:_**
 
-**Usage Information**
+**_What information does Invoca collect from consumers?_**
 
-_Web services_
+**_Web Services:_**  
+In general, when a consumer accesses the Invoca website or interfaces with the Invoca
 
-When a consumer responds to or views an internet advertisement served by a Invoca client (such as through third-party web sites or email  
-solicitation) or visits a Invoca site, we may send one or more cookies (an anonymous, unique identifier) to the consumer’s computer to uniquely  
-identify that consumer’s browser. Like most companies doing business on the internet, we use cookies to improve the quality of our services by storing  
-user preferences, tracking user trends, determining how our services are used and navigated. Most cookies are automatically deleted at the end of a  
-session at the Web Site. While we may use what are commonly described as “persistent” cookies that remain on a specific browser after termination of a  
-session, any consumer may set their browser to refuse cookies or automatically clear cookies after termination of a session. Cookies we service on  
-third party web sites only collect data in the aggregate. 
+Platform by visiting the website or by calling a unique phone number associated with one of our Clients, Invoca collects that consumer’s personal information if it is made available by the consumer or by a third party. Invoca will not knowingly collect personal information from children under the age of eighteen.
 
-_Phone services_
+Invoca or its Clients may also set up order forms, questionnaires or other mechanisms through which a consumer may be asked to provide certain information either online or via telephone or other communication medium. Invoca will collect such consumer-supplied personal information. If, however, such communications are initiated by one of Invoca’s Clients and the Client collects the information, Invoca shall not be responsible for that information, though Invoca does endeavor to ensure that its Clients comply with privacy regulations. Participation in any of these communications is purely voluntary; any consumer not wanting to participate or provide information may decline or terminate contact by navigating away from the web page or hanging up the phone.
 
-We provide our clients unique telephone numbers to utilize on a web site, email, mobile or offline promotion. This enables us to both determine what  
-the consumer was looking at when making a telephone call and personalize the experience for that consumer. Our phone servers automatically collect the  
-caller ID results when a consumer calls the number, and we may also occasionally collect other usage information from third-party databases, including  
-the name and/or the address of the caller when available. 
+When a consumer responds to or views an internet advertisement served by an Invoca Client or visits an Invoca website, Invoca sends one or more cookies to the consumer’s computer to uniquely identify that consumer’s browser. As is common practice of doing business on the Internet, Invoca uses cookies to improve the quality of the Services by storing user preferences and tracking user trends and also to determine how the Services are used and navigated. Cookies that Invoca manages on third party websites only collect data in the aggregate. While many cookies are automatically deleted at the end of a web session, Invoca may use persistent cookies that remain on a specific browser after termination of a session. Any consumer may set their browser to refuse cookies or automatically clear cookies after termination of a session.
 
-In addition, our phone servers use software that may be employed on behalf of an advertiser to record calls. This recorded information may be evaluated  
-in order to determine the quality of that call from the advertiser’s perspective and for training or other purposes. This enables us to identify high-quality  
-calls and collect additional usage data we can use to provide our clients with improved services and sales. We may also use third-party  
-services or technology for the transcription or analysis of such information. In the event we record a call on behalf of an advertiser, we will ensure  
-that call participants are advised of the existence and intent of the recording in a manner consistent with applicable state and federal laws. We are  
-not responsible in any way for the accuracy or validity of the content of any such recordings, and we take no steps to evaluate such accuracy or  
-validity. 
+If you want to learn more about cookies, or how to control or delete them please visit [http://www.aboutcookies.org](http://www.aboutcookies.org/) for detailed guidance.
 
-While we strongly encourage clients to adopt responsible approaches to marketing, we are not responsible for the information practices of clients or  
-their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies, which may  
-differ from Invoca’s policy. 
+**_Phone Services:_**  
+Invoca provides its Clients with unique telephone numbers to be used on websites, emails, mobile or offline promotions. This enables Invoca to both determine what the consumer was viewing when making a phone call and also personalize the experience for that consumer. Invoca’s phone servers automatically collect the caller ID results when a consumer calls a number. Invoca may also collect usage information from third-party databases, including the name, address and/or geographic location of the caller when such information is available to analyze anonymous information to optimize its marketing and product development initiatives in order to provide a better user and Client experience.
 
-**Reasons for collecting usage information**
+In addition, Invoca’s phone servers use software that may be employed on behalf of a Client to record calls. This recorded information may be evaluated in order to determine the quality of that call from the Client’s perspective and for training or other purposes. The recorded information also enables Invoca to identify high-quality calls and collect additional usage data which help improve the Services and boost sales for Clients.
 
-We may collect usage information when an internet user clicks on a link, creates a lead, initiates a phone call, receives a phone call, makes a  
-purchase on an advertiser’s web site, sends us a text message, receives a text message from us, or makes an inquiry or a purchase during a phone call  
-to an advertiser. We collect this information primarily for the purpose of paying third-parties commissions and also to optimize and personalize the  
-internet and phone user’s experience. If the internet user re-visits the advertiser’s site directly, or if the phone user calls the advertiser using  
-the unique phone number again, Invoca is able to continue to track the user’s activities on the advertiser’s site and compensate the third party  
-that referred the user. We reserve the right to retain all data as long as may be reasonably necessary for accounting and audit purposes. 
+Invoca may also use third-party services or technology for the transcription or analysis of such recorded information. In the event that Invoca records a call on behalf of a Client, Invoca will ensure that call participants are advised of the existence and intent of the recording in a manner consistent with applicable state and federal laws. Invoca is not responsible in any way for the accuracy or validity of the content of any such recordings, and takes no steps to evaluate such accuracy or validity.
 
-Like most standard Web site servers, we use log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP),  
-referring/exit pages, platform type, and date/time stamp. We may use the information to analyze site usage, administer the site, understand usage and  
-navigation trends in aggregate, and determine the relevance of content. 
+While Invoca strongly encourages Clients to adopt responsible approaches to marketing, Invoca is not responsible for the information practices of Clients or their partners. The collection, use, and disclosure of information by Clients and their partners are subject to their respective privacy policies, which may differ from Invoca’s policy.
 
-We also may develop predictive statistical user profiles of consumers’ needs and interests by collecting both internet browsing and online purchase  
-data and phone user data. For improved audience targeting, some Invoca services may use marketing technology to allow advertisers to supplement  
-non-personally-identifying demographic information, such as age, gender, area code, or ZIP code, to the non-identifiable profile data. 
+**_What are Invoca’s reasons for collecting usage information?_**
 
-Invoca may collect personal information, such as consumers’ names, physical addresses, email addresses, phone numbers and other information in  
-order to better target campaigns to meet user’s interests and to provide customized experiences. We will share this information only as described  
-herein. 
+Invoca collects usage information when an internet user clicks on a link, creates a lead, initiates a phone call, receives a phone call, makes a purchase on a Client’s website, sends Invoca or a Client a text message, receives a text message from Invoca or a Client or makes an inquiry or a purchase during a phone call to a Client. Primarily, Invoca collects this information for the purpose of attributing calls back to the originating ads or paying commissions to third parties and also to personalize the internet or phone user’s experience. If the internet user revisits the Client’s site directly or if the phone user calls the Client using the unique phone number again, Invoca is able to continue to track the user’s activities on the Client’s site and compensate third parties that referred the user. Invoca reserves the right to retain all data as long as may be reasonably necessary for accounting and audit purposes.
 
-**Does Invoca share consumers’ personal information with others?**
+Like most standard Website servers, Invoca uses log files to collect Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, platform type, date/time stamp and/or clickstream data. Invoca may use the information to analyze site usage, administer the site, understand usage and navigation trends in aggregate, and determine the relevance of content. Invoca may link this automatically collected data to other information it collects about consumer.
 
-We do not share consumers’ personal information we have gathered except as described below. Our clients, however, may gather personal information by  
-other means, especially if a consumer completes a transaction with them. 
+Invoca also may develop predictive statistical user profiles of generic consumers’ needs and interests by collecting both internet browsing and online purchase data and phone user data. For improved audience targeting, some Invoca services may use marketing technology to allow advertisers to supplement non-personally-identifying demographic information, such as age, gender, area code, or ZIP code, to the non-identifiable profile data.
 
-We only share consumers’ personal information with companies or individuals outside of Invoca in the following limited circumstances: 
+Invoca will share this information only as described herein. Invoca will retain this personal information for as long as the Client is active is active or as needed to provide the Services. Invoca may also retain and use personal information as necessary to comply with any legal obligations, resolve disputes and/or enforce agreements.
 
-  * We have the consumer’s consent. We require opt-in consent for the sharing of any sensitive personal information. 
-  * We provide such information to our subsidiaries, affiliated companies, or other trusted businesses or persons for the purpose of processing  
-personal information on our behalf. We will require these parties to agree to process such information based on our instructions and in compliance  
-with this privacy policy and other appropriate confidentiality and security measures. 
-  * We provide such information to our clients to enable them to better provide consumers with information about products or services about which the  
-consumer may be inquiring. 
-  * We may share personal information with our affiliates and other third parties to provide consumers with goods or services requested by them. 
+**_Does Invoca share usage information with others?_**
 
+Invoca does not share consumers’ personal information with companies or individuals outside of Invoca except as described below:
 
+  * Invoca obtains consumer consent by requiring consumers to opt-in prior to Invoca sharing information with Invoca’s trusted third parties.
+  * Invoca may provide information to its subsidiaries, affiliated companies or other trusted businesses or persons for the purpose of processing personal information on Invoca’s behalf to improve and optimize the Services. Invoca requires these parties to agree to process such information only as necessary to provide Invoca service, based on Invoca’s instructions and in compliance with this privacy policy, privacy regulations, and other appropriate confidentiality and security measures.
+  * Invoca provides such information to its Clients to enable them to better provide consumers with information about products or services about which the consumer may be inquiring.
+  * Invoca may share personal information with its affiliates and other third parties to provide consumers with goods or services requested by them.
+  * Invoca may share personal information in connection with the sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation of Invoca. In this case, consumers will be notified via a prominent notice on our website of any change in ownership or uses of consumer’s personal information, as well as any choices consumers may have regarding their personal information.
+  * Invoca may release personal information when it believes such release is appropriate to respond to a subpoena, bankruptcy proceedings, or similar legal process or to otherwise comply with the law, enforce or apply Invoca’s terms of service and other agreements or protect the rights, property or safety of Invoca or others. This includes exchanging information with other companies and organizations for fraud protection.
 
-Invoca may also share personal information in connection with the sale, merger, consolidation, change in control, transfer of substantial asset,  
-reorganization or liquidation of Invoca. 
 
-Finally, Invoca may release personal information when we believe release is appropriate to respond to a subpoena or otherwise comply with the  
-law; enforce or apply our Terms and Conditions and other agreements; or protect the rights, property, or safety of Invoca or others. This  
-includes exchanging information with other companies and organizations for fraud protection. 
 
-**Can a consumer “opt-out” of providing information?**
+**_Can a consumer opt-out of providing information?_**
 
-For consumers accessing our services through the internet, some of our cookies may have an “opt-out” option. This process does not remove the Invoca cookie from a consumer’s system; it simply replaces it with an opt-out cookie that does not contain any unique identifiers. 
+For consumers accessing the Invoca Platform through the internet, some of its cookies may have an “opt-out” option. This process does not remove the Invoca cookie from a consumer’s system; it simply replaces the cookie with an opt-out cookies that does not contain any unique identifiers. Some of Invoca’s cookies do not have an “opt-out” option, but consumers always have the option of blocking the use of cookies by changing a setting in their internet browser. Invoca does not maintain a process for an individual consumer to opt-out of an Invoca ad serving cookie. However, any consumer may set their browser to refuse cookies or automatically clear cookies after termination of a session. If you reject cookies, you may still use our website, but your ability to use some features or areas of our website may be limited.
 
-Some of our cookies do not have an “opt-out” option, but consumers always have the option of blocking the use of cookies by changing a setting in their  
-Internet browser. 
+With regard to phone services, consumers are able to submit their phone numbers to “do-not-call” registries. Invoca will use its best efforts to observe do-not-call registries in any call campaign it performs or facilitates. However, consumers who have opted-in to receive such messages, either with a Client or with Invoca, shall not be subject to any do-not-call restriction.
 
-Invoca does not maintain a process for an individual consumer to opt-out of a Invoca ad serving cookie. However, any consumer may set their  
-browser to refuse cookies or automatically clear cookies after termination of a session. 
+Invoca also partners with third-party ad networks to either display advertising on the Invoca website or to manage its advertising on other sites. These ad network partner(s) may use cookies and web beacons to collect non-personal information about a user’s activities on websites to provide the user with targeted advertising based upon its interests. If a user wishes to not have this information used for the purpose of being served targeted ads, a user may opt-out by clicking [ _here_](http://preferences.truste.com/truste/) (or if located in the European Union click [ _here_](http://www.youronlinechoices.eu/)). Please note this does not opt a user out of being served all advertising. The user will continue to receive generic ads.
 
-With regard to phone services, consumers are able to submit their phone numbers to “do-not-call” registries. We will use our best efforts to observe  
-do-not-call registries in any outbound calling campaign we perform or facilitate, provided that consumers who have opted-in to receive such messages,  
-either with a client or with us, shall not be subject to any do-not-call restriction. 
+As mentioned above, we may use web beacons. Web beacons are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of internet users. Unlike cookies, which are stored on a user’s computer hard drive, web beacons are embedded invisibly on websites. We tie the information gathered by web beacons to personal information we otherwise collect, and use them in our HTML-based emails to learn which emails have been opened by recipients. This allows us to gauge the effectiveness of our Clients’ marketing campaigns as well as to operate and improve the Services. You can opt-out of these emails by following the unsubscribe instructions within such marketing emails.
 
-We may partner with third-party ad networks to either display advertising on our Web site or to manage our advertising on other sites. Our ad network  
-partner(s) may use cookies and Web beacons to collect non-personal information about your activities on this and other Web sites to provide you  
-targeted advertising based upon your interests. If you wish to not have this information used for the purpose of serving you targeted ads, you may  
-opt-out by clicking here <http://preferences.truste.com/truste/>. Please note this does not opt you  
-out of being served advertising. You will continue to receive generic ads. 
+**_Can a consumer access the personal information acquired by Invoca?_**
 
-**Can a consumer access the personal information acquired by Invoca?**
+Upon request Invoca will provide you with information about whether we hold or process on behalf of a third party, any of your personal information. To request this information please, contact us at [legal@invoca.com](mailto:legal@invoca.com).
 
-Invoca’s services are not directed towards individual consumers, and we are collecting personal information on behalf of our clients to provide  
-them a service. Therefore, we do not maintain a process for an individual consumer to review and/or request changes to any personal information  
-collected. 
+Invoca’s Services are not directed toward individual consumers however if a consumer would like the personal information Invoca holds about him/her corrected, updated or deleted, please contact [legal@invoca.com](mailto:legal@invoca.com). We will respond to your request within a reasonable timeframe.
 
-Except as provided below, we do not maintain a process for an individual consumer to access his or her personal information. 
+**_CLIENT PRIVACY_**
 
-**CLIENT PRIVACY**
+**_What information does Invoca collect from its Clients?_**
 
-**What information does Invoca collect from its clients (e.g., networks, agencies, advertisers and publishers)?**
+Invoca collects personal information from all of our Clients, which include businesses, networks, agencies, advertisers and publishers. The collection of this information is part of Invoca’s normal business practices. Advertisers, businesses or their representatives will be asked to provide personal information through the sign up and registration process either directly by Invoca or indirectly through a network or agency partner. This information may include name, address, phone number, hours of operation, coverage areas and email address.
 
-We may collect personal information from all of our clients (e.g., networks, agencies, advertisers, and publishers. The collection of this information  
-is a part of our normal business practices. Advertisers or their representatives will be asked to provide personal information through the sign up and  
-registration process either directly or through a network or agency partner. This information may include name, address, phone number, hours of  
-operation, coverage areas and email address. Additionally, we may collect sensitive personal information such as social security number and tax ID  
-number. 
+Technologies such as: cookies or similar technologies are used by Invoca and our marketing partners, affiliates, or analytics or third party administrators. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about the users. We may receive reports based on the use of these technologies by these companies on a non-personally identifiable individual as well as aggregated basis.
 
-In addition, we will use cookies, third party tracking technologies such as scripts, log files and unique phone numbers to optimize and personalize the  
-clients’ experience and allow us to monitor those services and usage patterns. Both our cookies and third party tracking technologies are not linked  
-to personal information. 
+When using the Invoca Platform, Clients may enter third-party personal information on the platform, such as entering another user’s email. This information is only used to provide the Client access to the system and is not used for any other purpose.
 
-When using our service, clients may enter third party personal information such as other user’s email on the platform. This information is only used to  
-provide the client access to the system and for no other purpose. 
+**_How does Invoca use its Clients’ information?_**
 
-**How does Invoca use its clients’ information?**
+Much of the information collected from Clients is required to be collected for administrative needs, such as accounting and performance reporting. Periodically, Invoca may use Clients’ information to communicate via email newsletters or other avenues to offer strategic marketing information and other communications to assist in business-related activities. Clients can opt-out from future communications by clicking on the unsubscribe links in such emails.
 
-Much of the information collected from clients is principally intended for administrative needs (e.g. accounting and performance reporting), for which  
-purpose such data are required. 
+Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails from the advertiser. Invoca is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is Invoca’s policy to prohibit the sending of unsolicited or “Spam” e-mail by Invoca or any of its marketing partners.
 
-While we strongly encourage clients to adopt responsible approaches to online marketing, we are not responsible for the information practices of  
-clients or their partners. The collection, use, and disclosure of information by clients and partners are subject to their respective privacy policies,  
-which may differ from Invoca’s policy. 
+Except as otherwise provided, Invoca keeps all personal information provided by Clients in strict confidence and treats such data with the same level of care and respect that Invoca treats its own proprietary information. Invoca may, from time to time, provide personal information to certain third-party administrative vendors for efficient purposes in providing administrative or program management services. Examples include an email service provider, marketing solutions provider and a blog provider. Any third-party vendor so used has agreed to protect the confidentiality of information provided by Invoca.
 
-Periodically we may use clients’ information to communicate via email newsletters or other avenues to offer strategic marketing information and other  
-communications to assist in business related activities. Our clients can elect to opt-out from future communications by clicking on the unsubscribe  
-link in the email. 
+Invoca may also share information in connection with the sale, merger, consolidation, change in control, transfer of substantial asset, reorganization or liquidation of Invoca. In this case, Clients will be notified via a prominent notice on our website of any change in ownership or uses of Client’s personal information, as well as any choices Clients may have regarding their personal information.
 
-Except as otherwise agreed, we will keep all personal data provided by individual clients in strict confidence and will treat such data with the same  
-level of respect and care that we treat our own proprietary information and trade secrets. We do not sell, rent, exchange or barter any personal client  
-information to or with any third party for financial gain or marketing purposes. We may, from time to time, provide personal information to certain  
-third-party administrative vendors for efficiency purposes in providing administrative or program management services. Examples include an email  
-service provider, marketing solutions provider, and a blog provider. Any third-party vendor so used has agreed to protect the confidentiality of  
-information provided by Invoca. 
+Invoca may release information when it believes release is appropriate to respond to a subpoena, bankruptcy proceedings, or similar legal process or otherwise comply with the law, to enforce or apply Invoca’s Terms of Service and other agreements or to protect the rights, property, or safety of Invoca or others. This includes exchanging information with other companies and organizations for fraud protection.
 
-Invoca may also share information in connection with the sale, merger, consolidation, change in control, transfer of substantial asset,  
-reorganization or liquidation of Invoca. 
+**_Can a client opt out of providing information?_**
 
-Invoca may release information when we believe release is appropriate to respond to a subpoena or otherwise comply with the law; enforce or apply  
-our Terms and Conditions and other agreements; or protect the rights, property, or safety of Invoca or others. This includes exchanging  
-information with other companies and organizations for fraud protection. 
+Collecting information from Clients is required as a part of doing business. Invoca’s primary intent in collecting information is for administrative purposes. However, it may periodically use collected information for marketing and communication purposes targeted to our Clients. Clients wishing not to receive such communications may do so by informing their designated Invoca representative in writing at any time or by clicking on the unsubscribe link in the promotional communication.
 
-**Can a client “opt-out” of providing information?**
+We will also send you service related email announcements on rare occasions when it is necessary to do so. For instance, if our service is temporarily suspended for maintenance, we might send you an email. You do not have an option to opt out of these emails, which are not promotional in nature.
 
-Collecting information from our clients is required as a part of doing business. Invoca’s primary intent in collecting information is for  
-administrative purposes including accounting and reporting. However, we may periodically use information for marketing and communication purposes  
-targeted to our clients. Clients wishing not to receive such communications may do so by informing their designated Invoca representative in  
-writing at any time or by clicking on the unsubscribe link in the promotional communication. 
+When a Client logs on to any browser-based Invoca reporting system, a cookie is placed within their computer. The cookie allows us to validate the Client’s identity and maintain the security and privacy of the Client’s account data. This cookie does not contain any personal information. It is required to log into Invoca’s reporting systems and there is no method to opt-out of this cookie.
 
-When a client logs on to any browser-based Invoca reporting system, a cookie is placed within their computer. The cookie allows us to validate  
-the client’s identity and maintain the security and privacy of the client’s account data. This cookie does not contain any personal information. It is  
-required to log into Invoca’s reporting systems and there is no method to opt-out of this cookie. 
+If you are a Client, and would like the personal information Invoca holds about you corrected, updated or deleted, please contact legal@invoca.com or contact your designated Invoca representative. Invoca will respond to your request to access information within a reasonable timeframe.
 
-If you are a client, and would like the personal information we hold about you deleted, please contact [legal@invoca.com](mailto:legal@invoca.com)  
-or contact their designated Invoca representative. We will respond to your request to access within 30 days. 
+**Information Related to Data Collected through the Service**
 
-**Data Retention:**
+Information Related to Data Collected for our Clients:
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or  
-request that we no longer use your information to provide you services contact us at [legal@invoca.com](mailto:legal@invoca.com).  
-We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
+Invoca collects personal information only on behalf of its Clients to provide them a service. Invoca may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients. If you are a customer of one of Invoca’s Clients and would no longer like to be contacted by a Client that uses the Invoca Services, please contact that Client directly as that Client controls such data.
 
-**GENERAL**
+Access and Retention of Data Controlled by our Clients:
 
-**Public Forums:**
+Invoca has no direct relationship with the individuals whose personal information it processes on behalf of Client. An individual who seeks access to or otherwise seeks to correct, amend or delete inaccurate personal information should direct such inquiry to Invoca’s Client. If you do contact Invoca regarding such a request, Invoca will respond within a reasonable timeframe.
 
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read,  
-collected, and used by others who access them. To request removal of your personal information from our blog or community forum, contact us at  
-[legal@invoca.com](mailto:legal@invoca.com). In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to  
-do so and why. With your consent we may post client testimonials along with their name. 
+Invoca retains all information we process on behalf of our Clients for as long as a Client’s account is active or as needed to provide Services to the Client. If a Client wishes to cancel an account or request that Invoca no longer use information to provide the Services, contact [legal@invoca.com](mailto:legal@invoca.com). Invoca will retain and use a Client’s information as necessary to comply with any legal obligations, resolve disputes and enforce any agreements.
 
-**Links to Other Web Sites**
+**_GENERAL:_**
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of ours. If you submit personal information to any of those  
-sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+**_Public Forums:_**  
+Invoca’s website offers publicly accessible blogs or community forums. Any user of the Invoca website should be aware that any information provided in these areas may be read, collected and used by others who access these sites. Our blog is also managed by a third party application that may require you to register to post a comment. We do not have access or control of the information posted to the blog. You will need to contact or login into the third party application if you want the personal information that was posted to the comments section removed. To learn how the third party application uses your information, please review their privacy policy. To request removal of any personal information from the Invoca blog or other community forum, contact [legal@invoca.com](mailto:legal@invoca.com) and Invoca will forward the request to the appropriate entity.
 
-**  
-How does Invoca protect the security of personal information?**  
-Invoca takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of  
-data. Any data stored on our servers is treated as proprietary and confidential and is not available to the public. We restrict access to personal  
-information to those employees or third parties who have a need to know such information for the purpose of effectively delivering Invoca  
-products and services by means of user login and password requirements. We routinely evaluate our data security practices to identify security threats  
-or opportunities for improvement. 
+**_Testimonials:_**
 
-No transmission of data over the Internet or even the phones is guaranteed to be completely secure. It may be possible for third parties not under the  
-control of Invoca to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal  
-information, we cannot ensure or warrant the security of any information you transmit to us. 
+Invoca will only post Client testimonials with the Client’s consent to do so. If you wish to update or delete your testimonial, you can contact us at [legal@invoca.com](mailto:legal@invoca.com).
 
-**  
-How are changes made to the Privacy Policy?**  
-We may find it necessary or be legally obligated to update this Privacy Policy from time to time. When we do, we will post those changes on this page  
-and update the effective date so that everyone is aware of the information we collect, how we use it, and under what circumstances we disclose it.  
-Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by Invoca prior to the  
-effective date of the policy change. 
+**_Frame:_**
 
-**  
-What are Invoca’s policies regarding children and SPAM?**  
-Our services are not developed for or directed at children. Children (persons under the age of 18) are not eligible to do business with us, and we do  
-not collect personal information from any person we actually know is under the age of 13. If you believe your child has provided Invoca with any  
-personally identifiable data, please contact us at [legal@invoca.com](mailto:legal@invoca.com) to have them removed. 
+Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to [www.invoca.com](http://www.invoca.com/).
 
-Invoca is committed to proper Internet practices and full compliance with the CAN-SPAM Act of 2003 (15 U.S.C. § 7701). It is our policy to  
-prohibit the sending of unsolicited or “Spam” e-mail by Invoca or any of its marketing partners. 
+**_Links to other websites:_**
 
-Please note that under the CAN-SPAM Act, an advertiser is required to provide an opt-out mechanism for consumers to unsubscribe from future emails  
-about the advertiser. 
+The Invoca website and platform may include links to other websites whose privacy practices may differ from those of Invoca. If a user submits personal information to any of those sites, that user’s information is governed by that third party’s privacy policies. We encourage users to carefully read the privacy policy of any website it visits.
 
-**  
-Safe Harbor Compliance**  
-The European Union (“EU”) maintains strict privacy laws. These rules differ significantly from U.S. laws. To reconcile these differences,  
-the United States and the EU have created a Safe Harbor that defines mutually acceptable privacy operations for personal data transferred from the EU to the United States.  
-The U.S. and Switzerland have created a similar, but separate Safe Harbor that defines mutually acceptable privacy operations for personal data transferred from Switzerland to the United States.  
-Invoca, Inc. complies with the U.S. – E.U. Safe Harbor Framework and U.S – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal  
-data from the European Union and Switzerland. Information regarding both the Safe Harbor Frameworks can be found at: <http://export.gov/safeharbor>. 
+**_Social Media Widgets:_**
 
-**Contact Us**
+Invoca’s corporate website ([www.invoca.com](http://www.invoca.com/)) includes Social Media Features and Widgets, such as the Facebook “Like” button and the “Share This” button, or other interactive mini-programs that run on the site. These Features may collect a user’s IP address and the page a user visits on the site and may also set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on the Invoca website. A user’s interactions with these Features are governed by the privacy policy of the company providing them.
 
-For more information or if you have questions or concerns regarding the Invoca Privacy Policy, please contact us at [legal@invoca.com](mailto:legal@invoca.com) or you  
-can send correspondence to the following address: Privacy, 1025 Chapala Street , Santa Barbara, CA 93101. 
+**_How does Invoca protect the security of personal information?_**
 
-**Policy Updated:**
+Invoca takes appropriate security measures to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. When a user enters sensitive information (such as login information), Invoca encrypts the transmission of that information using secure socket layer technology (SSL). Any data stored on Invoca’s servers is treated as proprietary and confidential and is not available to the public. Invoca restricts access to personal information to those employees or third parties who have a need to know such information for the purpose of effectively delivering Invoca products and Services by means of user login and password requirements. Invoca routinely evaluates its data security practices to identify security threats or opportunities for improvement.
 
-November 7, 2011 
+No transmission of data over the Internet or the phones is guaranteed to be completely secure. It may be possible for third parties not under the control of Invoca to intercept or access transmissions or private communications unlawfully. While Invoca strives to protect users’ personal information, it cannot ensure or warrant the security of any information a user transmits. If you have any questions about the security of your personal information, you can contact us at [legal@invoca.com](mailto:legal@invoca.com).
+
+**_How are changes made to the Privacy Policy?_**
+
+Invoca may find it necessary or be legally obligated to update this Privacy Policy from time to time. When it does update this policy, Invoca will post those changes on this page and update the effective date so that everyone is aware of the information that is collected, how Invoca uses it and under what circumstances Invoca discloses it. Except as otherwise required by law, modifications to this Privacy Policy will not affect the privacy of data collected by Invoca prior to the effective date of the policy change. If Invoca makes any material changes, Invoca will notify you or our Client by email (sent to the email address specified in your account) or by means of a notice within the Services platform or the corporate website prior to the changes becoming effective. Invoca encourages all users to periodically review this page for the latest information on Invoca’s privacy practices.
+
+**_What are Invoca’s policies regarding children and SPAM?_**
+
+The Invoca Services are not developed for or directed at children. Children (persons under the age of 18) are not eligible to do business with Invoca and it does not collect personal information from any person it actually knows is under the age of 18. If you believe your child has provided Invoca with any personal information, please contact [legal@invoca.com](mailto:legal@invoca.com) to have that user removed.
+
+**_Contact Invoca:_**
+
+For more information or if you have questions or concerns regarding the Invoca Privacy Policy, please contact legal@invoca.com or send correspondence to the following address: Invoca, Inc. Attn: Privacy, 1025 Chapala Street, Santa Barbara, CA 93101.
+
+Policy Updated: September 15, 2016
