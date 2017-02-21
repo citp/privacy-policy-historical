@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flipsnack.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106165809id_/https%3A//www.flipsnack.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flipsnack.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221022108id_/https%3A//www.flipsnack.com/legal-information/privacy-policy.html) for the most accurate reproduction.*
 
 # FlipSnack | Privacy policy
 
