@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bwinpartypartners.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027223552id_/https%3A//www.bwinpartypartners.com/policy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bwinpartypartners.com privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221222329id_/https%3A//www.bwinpartypartners.com/policy.do) for the most accurate reproduction.*
 
 # bwin.party Limited Privacy Policy
 
@@ -8,7 +8,7 @@
 
 We are committed to protecting your personal information. We have created this Privacy Policy to let you know what information We collect when you participate in the Affiliate Network at [the bwin.party partners Website](http://www.bwinpartypartners.com/) (collectively, the ' **Affiliate Network** '), why We collect this information and how We use the collected information.
 
-Please note that this Privacy Policy will be agreed between you and bwin.party Limited and the GVC Group, being GVC Holdings PLC together with its Group companies as defined in the [Standard Affiliate Agreement](https://web.archive.org/web/20161027223552id_/https%3A//www.bwinpartypartners.com/legal.do) (' **bwin.party partners** ', ' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
+Please note that this Privacy Policy will be agreed between you and bwin.party Limited and the GVC Group, being GVC Holdings PLC together with its Group companies as defined in the [Standard Affiliate Agreement](https://web.archive.org/web/20170221222329id_/https%3A//www.bwinpartypartners.com/legal.do) (' **bwin.party partners** ', ' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
 
 We may periodically make changes to this Privacy Policy and will notify you of these changes by posting the modified terms on the [bwin.party partners Website](http://www.bwinpartypartners.com/). We recommend that you revisit this Privacy Policy regularly.
 
