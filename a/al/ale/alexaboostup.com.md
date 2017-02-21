@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexaboostup.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229031208id_/http%3A//rankboostup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexaboostup.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222001350id_/https%3A//rankboostup.com/privacy-policy) for the most accurate reproduction.*
 
 # RankBoostup Traffic Exchange | Free Website Traffic
 
