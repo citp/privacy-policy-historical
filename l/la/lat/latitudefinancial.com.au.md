@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the latitudefinancial.com.au privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123143405id_/https%3A//www.latitudefinancial.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the latitudefinancial.com.au privacy policy that was archived on 2017-02-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170221042050id_/https%3A//www.latitudefinancial.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy | Latitude Financial Services
 
