@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bruker.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016034524id_/https%3A//www.bruker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bruker.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222171138id_/https%3A//www.bruker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Bruker: Privacy Policy
 
