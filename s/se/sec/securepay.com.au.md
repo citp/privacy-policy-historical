@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the securepay.com.au privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204060447id_/https%3A//www.securepay.com.au/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the securepay.com.au privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222060353id_/https%3A//www.securepay.com.au/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - SecurePay
 
@@ -382,10 +382,10 @@ Sydney NSW 1042
 SecurePay integrates with major shopping carts, as well as custom-built websites. SecurePay Online Payments' APIs  
 remain unchanged.
 
-[Developer Centre >](https://www.securepay.com.au/developers/)
+[Developer Centre >](https://securepay.com.au/developers/)
 
 #### Why do I need an online payments solution ?
 
 An online payments solution allows you to accept payments securely via your website, giving your customers peace of mind and minimising your business risk.
 
-[Get started >](https://www.securepay.com.au/get-started/)
+[Get started >](https://securepay.com.au/get-started/)
