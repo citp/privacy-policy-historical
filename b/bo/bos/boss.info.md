@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boss.info privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807013614id_/http%3A//www.roland.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boss.info privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222144407id_/http%3A//www.roland.com/global/privacy) for the most accurate reproduction.*
 
 # Roland - Privacy Statement
 
@@ -20,21 +20,21 @@ We always limit our use of personal information to within the range of purposes 
 
 _Purposes of use_
 
-  1. Provision of membership sites
+  1. Provision of membership sites 
     * To identify the membership registration applicant, members, and service users
     * To authenticate the user when using the service
-  2. Provision of a variety of information by e-mails and direct mail
+  2. Provision of a variety of information by e-mails and direct mail 
     * To offer information related to products and services of the Company and group companies (including promotion and advertising) and event information
     * To offer information related to products and services of the third parties that have been commissioned by the Company to send information (including promotion and advertising) and event information
     * To notify and inform registered users about other information
-  3. Customer Support
+  3. Customer Support 
     * To receive and correspond with inquiries and consultation from users
     * To provide after-sales services, such as version updates, to users
     * To dispatch repaired products back to users
-  4. Marketing (to plan, develop and improve products and services)
+  4. Marketing (to plan, develop and improve products and services) 
     * To understand user registration status and usage conditions of membership sites
     * To conduct questionnaires/surveys and monitor surveys
-  5. Other
+  5. Other 
     * To notify changes of the purposes of use of the personal information and obtain consent
     * Otherwise, to be used in the range of consent separately provided by the member
 
@@ -66,7 +66,7 @@ We shall not transfer the personal information you submit to us to an overseas l
   * When providing the personal information to any person who has established a system that complies with the standards set forth under the rules of the Personal Information Protection Committee as a system that is necessary in order to take measures, on a continuous basis, that correspond to the measures which should be taken by a business operator handling personal information with respect to the handling of personal data
   * When we are required to disclose or provide the personal information based on a law or regulation
   * When disclosure is needed to protect human health or safety or assets, and it is difficult to obtain your prior consent
-  * When we need to cooperate with national or local governments in their official duties and obtaining your consent may hinder those efforts 
+  * When we need to cooperate with national or local governments in their official duties and obtaining your consent may hinder those efforts
 
 
 
@@ -88,7 +88,7 @@ _Parties who can share the personal information_
 
 
 
-*1: overseas group companies: [Factory and Office Affiliates](https://web.archive.org/company/overview/factory_office/ "Factory and Office Affiliates")
+*1: overseas group companies: [Factory and Office Affiliates](https://web.archive.org/global/company/overview/factory_office/ "Factory and Office Affiliates")
 
 _Purposes of use by those parties_
 
@@ -139,7 +139,7 @@ We shall inform you of each purpose of using your access logs combined with your
 
 #### 7\. Tracking system
 
-A tracking system based on the use of our company cookies is employed in Roland’s websites which gather IP address, access date/time, etc. We shall not use them in combination with any information which may identify an individual, beyond what is stated on the "Purposes of Use" on the upper section (1\. We use it only for the stated purposes) of this privacy statement.
+A tracking system based on the use of our company cookies is employed in Roland's websites which gather IP address, access date/time, etc. We shall not use them in combination with any information which may identify an individual, beyond what is stated on the "Purposes of Use" on the upper section (1. We use it only for the stated purposes) of this privacy statement .
 
 Also there is a tracking system based on the use of third-party cookies is employed in parts of Roland's websites in order to gather anonymous statistical information which is not linked to specific personal information.
 
@@ -149,7 +149,7 @@ If you would like to update or decline to submit your personal information, plea
 
 *1 [Roland Account Service | Contact Us](https://account.roland.com/login/ "Roland Account Service | Contact Us")
 
-Please also read our [Policies on the Protection of Personal Information](https://web.archive.org/privacy/policy/ "Policies on the Protection of Personal Information").
+Please also read our [Policies on the Protection of Personal Information](https://web.archive.org/global/privacy/policy/ "Policies on the Protection of Personal Information").
 
 * * *
 
