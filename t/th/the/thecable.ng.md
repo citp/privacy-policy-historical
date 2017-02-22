@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thecable.ng privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109153741id_/https%3A//www.thecable.ng/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thecable.ng privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222080034id_/https%3A//www.thecable.ng/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Cookie Policies | Nigeria's independent online newspaper
 
@@ -47,6 +47,6 @@ Some cookies are essential so you can move around the website and use its featur
 
  ** _Follow us on twitter[@thecableng](http://www.twitter.com/thecableng)_** _
 
-Copyright 2016 TheCable. Permission to use quotations from this article is granted subject to appropriate credit being given to[www.thecable.ng](http://www.thecable.ng/) as the source.
+Copyright 2017 TheCable. Permission to use quotations from this article is granted subject to appropriate credit being given to[www.thecable.ng](http://www.thecable.ng/) as the source.
 
 _
