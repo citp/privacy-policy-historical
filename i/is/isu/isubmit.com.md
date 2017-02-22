@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the isubmit.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428080524id_/https%3A//www.isubmit.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the isubmit.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222151905id_/https%3A//www.isubmit.com/privacy-policy) for the most accurate reproduction.*
 
 # privacy-policy
 
