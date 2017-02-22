@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227065022id_/http%3A//www.photonics.com/Article.aspx%3FAID%3D35715) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photonics.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222043133id_/https%3A//www.photonics.com/Article.aspx%3FAID%3D35715) for the most accurate reproduction.*
 
 # Privacy Policy | Photonics Media
 
