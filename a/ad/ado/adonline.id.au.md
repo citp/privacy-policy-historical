@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonline.id.au privacy policy that was archived on 2016-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160228231036id_/http%3A//www.adonline.id.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonline.id.au privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223000440id_/http%3A//www.adonline.id.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Adam Dimech Online
 
@@ -60,7 +60,7 @@ Adam Dimech will take reasonable steps to correct the information so that it is 
 
 ## Complaints about Privacy
 
-If you have any complaints relating to online privacy issues on our websites, please notify Adam Dimech via the [Adam Dimech Online Feedback Form](http://www.adonline.id.au/contact/). While Adam Dimech Online accepts no liability for any material or links posted to the service, all complaints will be investigated.
+If you have any complaints relating to online privacy issues on our websites, please notify Adam Dimech via the [Adam Dimech Online Feedback Form](https://www.adonline.id.au/contact/). While Adam Dimech Online accepts no liability for any material or links posted to the service, all complaints will be investigated.
 
 ## Changes to Adam Dimech Online privacy policy
 
