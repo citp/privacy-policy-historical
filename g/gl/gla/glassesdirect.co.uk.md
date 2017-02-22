@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804041652id_/https%3A//www.glassesdirect.co.uk/help/privacy-policy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glassesdirect.co.uk privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222104239id_/https%3A//www.glassesdirect.co.uk/help/privacy-policy-full) for the most accurate reproduction.*
 
 # Privacy Policy Full | Glasses Direct ™ - As Seen on TV
 
