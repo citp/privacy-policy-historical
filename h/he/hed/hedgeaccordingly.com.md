@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the hedgeaccordingly.com privacy policy that was archived on 2015-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151122005323id_/http%3A//hedgeaccordingly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hedgeaccordingly.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222211537id_/https%3A//hedgeaccordingly.com/privacy-policy) for the most accurate reproduction.*
 
-# – Privacy Policy
+# HEDGE #WallSt » Hedge Accordingly.com Privacy Policy
 
-This Privacy Policy governs the manner in which Hedge AccordingLy collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.hedgeaccordingly.com](http://www.hedgeaccordingly.com/) website (“Site”).
+**Please familiarize yourself with our Policy’s below.**
+
+NO content/analysis/charts/data provided within the pages of “HedgeAccordingly.com” constitutes investment advice. The Owner/affiliates of HedgeAccordingly.com are not financial advisors, do not recommend the purchase of any stock, option, futures contract or offer advice on the suitability of any trade or investment for that matter. Actions you take as a consequence of any analysis, opinion conveyed or advertisement within the pages of HedgeAccordingly.com and or TFP chat forum are YOUR sole responsibility and at YOUR discretion. Users of HedgeAccordingly.com should not assume that the methods, techniques, or indicators presented by in the user generated chat forum will be profitable or that they will not result in losses. Any content, methodologies or techniques disseminated within “HedgeAccordingly.com” is to be used for educational purposes only. HedgeAccordingly.com takes no responsibility of the accuracy of information contained on any site linking to and
+
+This Privacy Policy governs the manner in which Hedge AccordingLy collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.hedgeaccordingly.com](https://www.hedgeaccordingly.com/) website (“Site”).
 
 ### Personal identification information
 
@@ -21,13 +25,13 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 Hedge AccordingLy may collect and use Users personal information for the following purposes:
 
   * _To run and operate our Site_  
-We may need your information display content on the Site correctly.
+We may need your information display content on the Site correctly. 
   * _To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
+Information you provide helps us respond to your customer service requests and support needs more efficiently. 
   * _To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
   * _To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
+To send Users information they agreed to receive about topics we think will be of interest to them. 
   * _To send periodic emails_
 
 
@@ -62,10 +66,10 @@ Hedge AccordingLy has the discretion to update this privacy policy at any time. 
 
 ### Your acceptance of these terms
 
-By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes. 
 
 ### Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://hedgeaccordingly.com/contact-us).
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](https://hedgeaccordingly.com/contact-us).
 
 This document was last updated on April 10, 2015
