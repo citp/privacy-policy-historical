@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the streamable.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627120316id_/https%3A//streamable.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streamable.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222021712id_/https%3A//privacy.streamable.com) for the most accurate reproduction.*
 
-# Privacy Policy - Streamable
-
-**Last Revised: January 31, 2015**
+# Streamable Privacy Policy
 
 Welcome to Streamable.
 
@@ -94,3 +92,5 @@ You may opt out of receiving promotional emails or text messages from Streamable
 **Contact Us**
 
 If you have any questions about this Privacy Policy, please contact us at [support@streamable.com](mailto:support@streamable.com). 
+
+Last revised January 31, 2015.
