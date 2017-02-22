@@ -1,6 +1,9 @@
-> *The following text is extracted and transformed from the justapinch.com privacy policy that was archived on 2015-02-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150214031434id_/http%3A//www.justapinch.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the justapinch.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223004756id_/http%3A//www.justapinch.com/legal/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Just A Pinch Recipes
+# Privacy Policy | Just A Pinch
+
+  
+
 
 Hello, hello! We have tried to make our Privacy Policy as detailed as possible so that you know exactly how your information will be used. When it comes down to it, though, our policy is a simple one: We pledge to respect your privacy as a member of this club. The recipe club is meant to be a home-away-from-home for you while you’re online and we intend to be good neighbors!
 
