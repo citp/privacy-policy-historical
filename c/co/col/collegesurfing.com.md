@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the collegesurfing.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226185358id_/http%3A//collegesurfing.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collegesurfing.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222193515id_/http%3A//www.collegesurfing.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## CollegeSurfing Privacy Policy
 
-Last Updated: 12/2016
+Last Updated: 12/14/2016
 
 This Privacy Policy describes the types of information we collect from and about you when you visit our website or any other website or online service owned or operated by CareerCo LLC that links to this Privacy Policy (the "Site"). This Privacy Policy also explains how CareerCo LLC may use and disclose such information, as well as your ability to control certain uses of it. It also describes your choices regarding use, access and correction of your personal information.
 
