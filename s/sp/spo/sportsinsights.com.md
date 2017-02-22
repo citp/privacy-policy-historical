@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112192257id_/https%3A//www.sportsinsights.com/company/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsinsights.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222065319id_/https%3A//www.sportsinsights.com/company/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy – Sports Insights
 
@@ -104,7 +104,7 @@ The Sports Insights Sites often provide links to third-party web sites, such as 
 
 **For Questions or Concerns:**
 
-If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/contact-us/). The Sports Insights corporate headquarters are located at 100 Cummings Center, Suite 226-Q, Beverly, MA  01915.
+If you have questions or concerns regarding this statement, you should first [contact us](https://www.sportsinsights.com/contact-us/). The Sports Insights corporate headquarters are located at 100 Cummings Center, Suite 226-Q, Beverly, MA  01915.
 
 **Changes to the Sports Insights Privacy Statement** :
 
