@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adgaterewards.com privacy policy that was archived on 2016-05-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160509182101id_/https%3A//adgatemedia.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adgaterewards.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222195931id_/https%3A//adgatemedia.com/pp.php) for the most accurate reproduction.*
 
 # AdGate Media - Privacy Policy
 
