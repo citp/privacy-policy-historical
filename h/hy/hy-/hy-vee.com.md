@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2016-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160611232924id_/https%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hy-vee.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222200021id_/https%3A//www.hy-vee.com/company/policy/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -36,7 +36,7 @@ Hy-Vee collects information as outlined in this privacy policy in order to deliv
 
  _Automatic Collection of Information:_
 
-When you interact with our Services, our system will automatically gather and store certain information about you. This information does not identify you personally and is used in an aggregate way to help us improve our Services and tell us the number of users of our Services each day. Our Services automatically collect and record information from visitors, which includes, but is not limited to: domain name; your computer’s internet protocol address; data showing the order in which you accessed our Services; the name and release number of the web browser software you used; the operating system of the computer used; the date and time you access our Services; the address of the website that linked to our Services (referral URL); any search terms used when interacting with our Services.
+When you interact with our Services, our system will automatically gather and store certain information about you. Unless you are logged into your online account, this information does not identify you personally and is used in an aggregate way to help us improve our Services and tell us the number of users of our Services each day. Our Services automatically collect and record information from visitors, which includes, but is not limited to: domain name; your computer’s internet protocol address; data showing the order in which you accessed our Services; the name and release number of the web browser software you used; the operating system of the computer used; the date and time you access our Services; the address of the website that linked to our Services (referral URL); any search terms used when interacting with our Services.  If you are logged into your online account, the information that we collect identifies you personally.
 
 In addition to the automatic collection of information set forth above, we collect data that is publically available by providing you with a single sign-on service using your third-party social networking login credentials. This includes, but is not limited to, Facebook, Google, and Twitter. This improves our ability to contact you and increases the relevance of our marketing by providing better product recommendations or special offers that may interest you. We may also access and use available information from your third-party social network profile, such as your name, location, profile picture, profile information, gender, list of friends, friends’ profiles or postings, email addresses, wall postings and news feed. You should know that any information or content you post to a third-party site will be subject to that site’s own privacy policy.
 
@@ -101,14 +101,14 @@ Internet Relations
 5820 Westown Parkway  
 West Des Moines, Iowa 50266
 
-Or call our Consumer Information Line toll free at:   
-1-800-289-8343   
-Hours of Operation:   
+Or call our Consumer Information Line toll free at:  
+1-800-289-8343  
+Hours of Operation:  
 9 a.m. to 4 p.m. central time Monday through Friday (except holidays).
 
 ## Modification Date
 
-This privacy policy was last modified on, and shall be effective from and after **July 22, 2015**.
+This privacy policy was last modified on, and shall be effective from and after **February 2, 2017.**
 
 |  | Corporate Citizenship Report  
 ---  
