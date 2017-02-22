@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cuttherope.ie privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211202037id_/http%3A//www.cuttherope.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cuttherope.ie privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222090219id_/http%3A//www.cuttherope.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Cut the Rope games, Om Nom and Nommies Official Website
 
