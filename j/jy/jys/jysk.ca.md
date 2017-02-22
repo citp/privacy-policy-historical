@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jysk.ca privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425202104id_/https%3A//www.jysk.ca/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jysk.ca privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222112117id_/https%3A//www.jysk.ca/privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy
 
@@ -6,7 +6,7 @@
 ---|---  
   | 
 
-At JYSK Linen’n Furniture Ltd. (“ **JYSK** ”) we know how important it is to protect your personal information and are aware of, and sensitive to, the privacy concerns of our customers and other visitors to our website. This online privacy policy describes our current information management practices and confirms out commitment to comply with the _Personal Information Protection and Electronic Documents Act._ To increase the security of personal information being transmitted over the internet we use SSL Layer Protocol to transmit all of the information collected. Additionally, we are a registered merchant with Verisign Inc. (http://www.verisign.com), the most recognized name in the digital integration industry.
+At JYSK Linen’n Furniture Ltd. (“ **JYSK** ”) we know how important it is to protect your personal information and are aware of, and sensitive to, the privacy concerns of our customers and other visitors to our website. This online privacy policy describes our current information management practices and confirms out commitment to comply with the _Personal Information Protection and Electronic Documents Act._ To increase the security of personal information being transmitted over the internet we use SSL Layer Protocol to transmit all of the information collected.
 
 Please take the time if you have not already done so to familiarize yourself with these provisions. Please note that we may occasionally update our online privacy policy and it is your responsibility to check for such updates. Any updates to the online privacy policy will be effective the date they are posted on our website. We will change the date on our online privacy policy to indicate when any changes are made.  
   
