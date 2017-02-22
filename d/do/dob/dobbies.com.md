@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dobbies.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807090523id_/https%3A//www.dobbies.com/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dobbies.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222065739id_/https%3A//www.dobbies.com/privacy-and-cookies) for the most accurate reproduction.*
 
 # Inspiring Gardeners since 1865 - Dobbies Garden Centres
 
 **Privacy and Cookies Policy**
 
-Dobbies.com (“the Website”) is owned and operated by Dobbies Garden Centres Limited, part of the Tesco Group. This policy, together with our [Terms and Conditions](https://web.archive.org/information/terms-conditions/ "Terms & Conditions"), explain how Dobbies may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](https://web.archive.org/information/terms-conditions/ "Terms & Conditions") carefully; by accessing the Website you confirm to have understood and agreed to them.
+Dobbies.com (“the Website”) is owned and operated by Dobbies Garden Centres Limited. This policy, together with our [Terms and Conditions](https://web.archive.org/information/terms-conditions/ "Terms & Conditions"), explain how Dobbies may use information we collect about you, as well as your rights over any personal information we hold about you. Please read this policy and our [Terms and Conditions](https://web.archive.org/information/terms-conditions/ "Terms & Conditions") carefully; by accessing the Website you confirm to have understood and agreed to them.
 
 **Information we collect about you**
 
@@ -13,11 +13,11 @@ We collect information about you when you:
   * visit the Website, and other sites accessible from the Website.
   * register with and buy products or services on the Website.
   * take part in promotions, competitions, customer surveys and questionnaires.
-  * contact us eg in writing, call customer services.
+  * contact us e.g. in writing, call customer services.
 
 
 
-We may supplement the information we collect about you with information we receive from other sources eg public registers such as the electoral roll. This allows us to assess the accuracy of the information we hold about you in order to send you relevant offers and information.
+We may supplement the information we collect about you with information we receive from other sources e.g. public registers such as the electoral roll. This allows us to assess the accuracy of the information we hold about you in order to send you relevant offers and information.
 
 **Using your information**
 
@@ -34,11 +34,11 @@ Collecting your personal information helps Dobbies to better understand what you
 
 
 
-We may share your personal information across the Tesco Group so they can provide you with relevant products and services.
+We may share your personal information across the Dobbies Group so they can provide you with relevant products and services.
 
-Your personal information is safe with us and will never be released to companies outside the Tesco Group for their marketing purposes.
+Your personal information is safe with us and will never be released to companies outside the Dobbies Group for their marketing purposes.
 
-We may use and share anonymised information outside the Tesco Group. However, we would like to reassure you that this never includes your personal information.
+We may use and share anonymised information outside the Dobbies Group. However, we would like to reassure you that this never includes your personal information.
 
 **Dobbies Rewards information**
 
@@ -112,7 +112,7 @@ However, because cookies allow you to take advantage of some of the Website’s 
 
 Disclosing your information.
 
-We will never disclose your information to anyone outside the Tesco Group except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.
+We will never disclose your information to anyone outside the Dobbies Group except where we have your consent; where we are required or permitted to do so by law; to other companies who provide a service to us; or any successors in title to our business.
 
 Whenever we transfer personal information to countries outside the European Economic Area we will ensure that appropriate security measures are taken.
 
