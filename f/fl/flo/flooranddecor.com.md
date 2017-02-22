@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the flooranddecor.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415074618id_/https%3A//www.flooranddecor.com/policies/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flooranddecor.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222102510id_/https%3A//www.flooranddecor.com/policies/privacy-policy.html) for the most accurate reproduction.*
 
 # Your Privacy Rights | Floor & Decor
 
-Floor & Decor respects the privacy of customers and visitors to our website, which may be accessed at flooranddecor.com. While offering our website users the advantages and convenience of web-based technologies, we also strive to employ practices that ensure information collected about our customers and visitors is used conscientiously and appropriately.
+Floor & Decor respects the privacy of customers and visitors to our website, which may be accessed at flooranddecor.com.
+
+This policy governs the collection of information at the websites that link to it, as well as any information we may receive about you. For purposes of this policy, our website includes by definition, any web pages, interactive features, applications, widgets, blogs, social networks, social network “tabs,” or other online or wireless offerings that post a link to this policy, whether accessed via computer, mobile device or other technology, manner or means.
+
+While offering our website users the advantages and convenience of web-based technologies, we also strive to employ practices that ensure information collected about our customers and visitors is used conscientiously and appropriately.
 
 This policy does not apply to information that you may provide to us, or that we may obtain, other than through our website, such as over the phone, by mail, or in person.
 
@@ -51,7 +55,7 @@ Our website may use third party service providers to serve ads, send e-mails and
 Floor & Decor does not sell, trade, or rent your personal information to outside parties. In addition to the kinds of information sharing you might expect, such as displaying what you voluntarily post to public areas on our website, we may share your information:
 
   * when we believe in good faith that disclosure is necessary to protect our rights or property, protect your safety or the safety of others, investigate fraud or respond to a government, judicial or other legal request, or to comply with the law;
-  * with credit bureaus, such as late payments, missed payments, or other defaults on your account; and 
+  * with credit bureaus, such as late payments, missed payments, or other defaults on your account; and
   * in connection with a corporate change or dissolution, including for example a merger, acquisition, reorganization, consolidation, bankruptcy, liquidation, sale of assets or wind down of business.
 
 
@@ -70,8 +74,12 @@ Requests to change or review information may be sent to us using the contact inf
 
 If we decide to change our privacy policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it and under what circumstances we disclose it. In some cases (for example, if we significantly expand our use or sharing of your personal information), we may also tell you about changes by additional means, such as by sending an e-mail to the e-mail address we have on file for you. In some cases, we may request your consent to the changes.
 
+**Your California Privacy Rights**
+
+Under California Law, California residents have the right to request in writing from businesses with whom they have an established business relationship, (a) a list of the categories of personal information, such as name, email and mailing address and the type of services provided to the customer, that a business has disclosed to third parties (including affiliates that are separate legal entities) during the immediately preceding calendar year for the third parties’ direct marketing purposes and (b) the names and addresses of all such third parties. To request the above information, please contact us using the information below. We will respond to these requests within thirty (30) days. Requests that come by other means may result in a delayed response.
+
 **How do I contact Floor & Decor?**
 
 Please visit our Customer Service Center, <http://www.flooranddecor.com/contact.html>
 
-Effective Date: June 10, 2014
+Effective Date: August 3, 2016
