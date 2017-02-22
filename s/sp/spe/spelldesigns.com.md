@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the spelldesigns.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107162533id_/https%3A//shop.spelldesigns.com.au/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spelldesigns.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222120313id_/https%3A//shop.spelldesigns.com.au/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy • Spell & The Gypsy Collective - Australia
 
