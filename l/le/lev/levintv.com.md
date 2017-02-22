@@ -1,23 +1,18 @@
-> *The following text is extracted and transformed from the levintv.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008060435id_/https%3A//levintv.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the levintv.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222011538id_/https%3A//www.crtv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mark Levin
+# Privacy | CRTV
 
-Your privacy is very important to us. This Privacy Policy governs the use of your Personal Information (as defined below) by any web sites or mobile web sites owned or operated by CRTV LLC, a Delaware limited liability company ("CRTV"), in connection with LevinTV®, including, without limitation, the web site currently located at www.levintv.com (the "Site"), any applications (e.g., iPhone applications, iPad applications, Android applications, etc.) offered by CRTV, and any other applications, interactive features, widgets and resources offered by CRTV through traditional Internet websites, mobile devices or other platforms (all of which are collectively referred to as the "Service"). This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information. 
+Your privacy is very important to us. This Privacy Policy governs the use of your Personal Information (as defined below) by any web sites or mobile web sites owned or operated by CRTV LLC, a Delaware limited liability company ("CRTV"), in connection with CRTV®, including, without limitation, the web site currently located at www.CRTV.com (the "Site"), any applications (e.g., iPhone applications, iPad applications, Android applications, etc.) offered by CRTV, and any other applications, interactive features, widgets and resources offered by CRTV through traditional Internet websites, mobile devices or other platforms (all of which are collectively referred to as the "Service"). This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information. 
 
 **MANAGING YOUR INFORMATION PREFERENCES**
 
-If you want to opt out of having your Personal Information disclosed to third parties for their direct marketing purposes, please let us know by sending us an email at cr-contact@conservativereview.com or by writing to us at:
-
-CRTV, Attn: Customer Service – Privacy  
-3960 Howard Hughes Parkway,  
-Suite 290  
-Las Vegas, Nevada  89169 
+If you want to opt out of having your Personal Information disclosed to third parties for their direct marketing purposes, please let us know by sending us an email at [support@crtv.com](mailto:support@crtv.com?subject=OptOut%20Email%20Marketing).
 
 Please be sure to include your full name, email address, mailing address, and specifically state that you do not want your Personal Information shared with third parties for their direct marketing purposes. 
 
-Similarly, if you would like to ask questions or provide comments regarding this Privacy Policy you may do so by sending us an email at cr-contact@conservativereview.com.
+Similarly, if you would like to ask questions or provide comments regarding this Privacy Policy you may do so by sending us an email at [support@crtv.com](mailto:support@crtv.com?subject=Privacy%20Policy%20Questions).
 
-With respect to communications from us, you may opt-out of our non-transactional emails via a link in the footer of all non-transactional email messages. Alternatively, you may email cr-contact@conservativereview.com at any time and ask to be removed. 
+With respect to communications from us, you may opt-out of our non-transactional emails via a link in the footer of all non-transactional email messages. Alternatively, you may email [support@crtv.com](mailto:support@crtv.com?subject=OptOut%20Email%20Marketing) at any time and ask to be removed. 
 
 We may continue to send you certain transaction email communications (e.g., emails regarding account notifications, customer support questions and similar information regarding your use of the Site and Services).
 
@@ -39,7 +34,7 @@ We may use cookies (a small text file placed on your computer to identify your c
 
 **Generally**
 
-We use Personal Information for internal purposes, such as to provide you with the Site and Services, to improve the Site and Services, to notify you of new services, and to otherwise communicate with you about _LevinTV_ and other matters. We will not disclose Personal Information to third parties, including for their direct marketing purposes, without your consent, except as explained in this Privacy Policy. We may disclose to third parties certain Usage Data regarding the Site and Services. However, in such cases, your Usage Data is aggregated with the Usage Data of others and does not identify you individually.  ****
+We use Personal Information for internal purposes, such as to provide you with the Site and Services, to improve the Site and Services, to notify you of new services, and to otherwise communicate with you about _CRTV_ and other matters. We will not disclose Personal Information to third parties, including for their direct marketing purposes, without your consent, except as explained in this Privacy Policy. We may disclose to third parties certain Usage Data regarding the Site and Services. However, in such cases, your Usage Data is aggregated with the Usage Data of others and does not identify you individually.  ****
 
 **Profile Information You Make Available to Others**
 
@@ -51,7 +46,7 @@ From time to time, we may establish a business relationship with other businesse
 
 **Advertising**
 
-We may work with third-party advertisers, search providers and ad networks ("Advertisers"). We may share Personal Information with third parties whose products and services we think may be of interest to you. If you prefer that we not share your Personal Information with third parties, you may opt out by sending us an email at cr-contact@conservativereview.com or by writing to us at CRTV, Attn: Customer Service – Privacy, 3960 Howard Hughes Parkway, Suite 290, Las Vegas, Nevada, 89169. Please be sure to include your full name, email address, mailing address, and specifically state that you do not want your Personal Information shared with third parties for their direct marketing purposes.
+We may work with third-party advertisers, search providers and ad networks ("Advertisers"). We may share Personal Information with third parties whose products and services we think may be of interest to you. If you prefer that we not share your Personal Information with third parties, you may opt out by sending us an email at [support@crtv.com](mailto:support@crtv.com?subject=OptOut%203rd%20Party). Please be sure to include your full name, email address, mailing address, and specifically state that you do not want your Personal Information shared with third parties for their direct marketing purposes.
 
 Advertisers may collect and use information about your use of the Site or Services as well as other Web sites and services in order to provide advertisements about goods and services that may be of interest to you. These companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons in order to collect such information. Our Privacy Policy does not cover any use of information that an ad network may collect from you. Advertisements may be shown via the Site, the Services, or on third-party Web sites. You can visit the Network Advertising Initiative Web site at www.networkadvertising.org, which offers information about Internet advertising companies and how to opt-out of their information collection. 
 
