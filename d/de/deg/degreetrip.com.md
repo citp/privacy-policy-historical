@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the degreetrip.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416072256id_/http%3A//www.degreetrip.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the degreetrip.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222170624id_/http%3A//www.degreetrip.com//privacy-policy.html) for the most accurate reproduction.*
 
 # Best Online Degree Programs | Online Career Area - Degree Trip
 
