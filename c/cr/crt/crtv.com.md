@@ -1,60 +1,87 @@
-> *The following text is extracted and transformed from the crtv.com privacy policy that was archived on 2013-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130513084716id_/http%3A//www.cesaridirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crtv.com privacy policy that was archived on 2017-02-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170222011538id_/https%3A//www.crtv.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Cesari Direct
+# Privacy | CRTV
 
- 
+Your privacy is very important to us. This Privacy Policy governs the use of your Personal Information (as defined below) by any web sites or mobile web sites owned or operated by CRTV LLC, a Delaware limited liability company ("CRTV"), in connection with CRTV®, including, without limitation, the web site currently located at www.CRTV.com (the "Site"), any applications (e.g., iPhone applications, iPad applications, Android applications, etc.) offered by CRTV, and any other applications, interactive features, widgets and resources offered by CRTV through traditional Internet websites, mobile devices or other platforms (all of which are collectively referred to as the "Service"). This Privacy Policy also explains your choices for managing your information preferences, including opting out of certain uses of your Personal Information. 
 
-The practices set forth in this Privacy Policy apply to the services available under the domain and subdomains of www.CesariDirect.com (collectively, the “Site”), owned and operated by Cesari Direct and its corporate affiliates (collectively, “us”, “we” or “the Company”). The Company respects your privacy and works hard to safeguard the privacy of your personal data. We realize that today’s Internet visitor has questions concerning the nature, use and confidentiality of information collected about consumers. We want you to know that we give our commitment to safeguarding privacy to your online and Internet activities with us. By continuing to access or use the Site, or by placing product orders on the Site, you signify your acceptance of this Privacy Policy, and you expressly consent to our use and disclosure of your personal information in accordance with this Privacy Policy. This Privacy Policy is incorporated into and subject to our Terms and Conditions and other terms and conditions relative to the Site. This Privacy Policy is effective for all users.
+**MANAGING YOUR INFORMATION PREFERENCES**
 
-  **What Personal Information Do We Collect?**  
-You may browse the Site and our product offerings without providing us with any personal information about yourself. However, when you place an order on our Site, you will need to provide us with your personal information, including your first and last name, shipping and billing address, email address and phone number, and your payment information, including your credit card number, credit card expiration date and CVC number. The Company does not market to, or knowingly collect personal information from, children under the age of 13 on the Site. In the event that we learn that we have collected personal information from a child under age 13 we will delete that information as quickly as possible. If you believe that we might have any information from or about a child under 13, please contact us at 1-888-492-9464.
+If you want to opt out of having your Personal Information disclosed to third parties for their direct marketing purposes, please let us know by sending us an email at [support@crtv.com](mailto:support@crtv.com?subject=OptOut%20Email%20Marketing).
 
-  **Sharing of Personally Identifiable Information**  
-The Company does not share, disclose or sell any personally identifiable information (such as your name, address, telephone number or e-mail address) collected online on the Site with other unaffiliated companies or organizations for non-Company marketing purposes. Because this information is a critical part of our business, it would be treated like our other assets in the context of a merger, sale or other corporate reorganization or legal proceeding.
+Please be sure to include your full name, email address, mailing address, and specifically state that you do not want your Personal Information shared with third parties for their direct marketing purposes. 
 
-  **How We Use Information**  
-The Company uses the personally identifiable information you give us to provide you with our service(s) and product(s) and to let you know about other offerings, which may be of interest to you. Postal and e-mail address information you provide, for example, enables communication about services offered and ordered. Because the Company works with a wide variety of companies, we may use information collected online to extend special offers to you jointly with our partners. If you have received a promotion from us and wish to opt out of receiving future promotions, please click on the “Unsubscribe” link included in the email you received. You may also opt out by sending us a written request at the following address:
+Similarly, if you would like to ask questions or provide comments regarding this Privacy Policy you may do so by sending us an email at [support@crtv.com](mailto:support@crtv.com?subject=Privacy%20Policy%20Questions).
 
-  Cesari Direct  
-Attention: Unsubscribe Request  
-6415 South 3000 East, Ste. 200  
-Salt Lake City, Utah 84121
+With respect to communications from us, you may opt-out of our non-transactional emails via a link in the footer of all non-transactional email messages. Alternatively, you may email [support@crtv.com](mailto:support@crtv.com?subject=OptOut%20Email%20Marketing) at any time and ask to be removed. 
 
-  The Company uses vendors to carry out certain functions in marketing and delivering services to you, and so shares online data with those vendors to the extent necessary for them to perform their work. Of course, such partners and vendors must use that personally identifiable information only for the purpose(s) for which it was shared and protect it from any further use. the Company also shares such information with other industry and credit-related organizations to improve operations and to protect against fraud, security and credit risks.
+We may continue to send you certain transaction email communications (e.g., emails regarding account notifications, customer support questions and similar information regarding your use of the Site and Services).
 
-  We also provide personally identifiable online information in response to subpoenas and other legal demands, and where we believe that disclosing this information is necessary to identify, contact or bring legal action against individuals who may be endangering public safety or interfering with the Company property or services, or with our customers’ or others’ use of them. This includes exchanging information with other companies and organizations for fraud protection and credit risk reduction.
+**INFORMATION WE COLLECT**
 
-  **How We Collect Information**  
-The Company collects information online by asking you for it. A customer’s name, address (postal and e-mail) and telephone number are the most important pieces of information, but we might request other information, based on, for example, the service(s) being ordered or promoted.
+**Personal Information**
 
-  The Company may also use “cookies” and similar technology to obtain information about your visits to our sites or our responses to e-mail from us—both individually and in aggregated data that does not identify you. These reporting tools tell us the parts of our web sites or e-mails in which you showed an interest or took some action, and help us improve the quality and usefulness of our sites. At the Company, we primarily use cookies to determine what services or promotions you are interested in. While cookies help us improve your experience while visiting our sites and customize our communications to the services you may desire, you have the option to block them through your Internet browser or other commercially available software. However, doing so may make some of our sites’ features unavailable to you.
+We collect information that you choose to provide us or that you choose to include in your profile or account, and that personally identifies you, such as your name, address, zip code, telephone number, e-mail address, and other personally identifiable information ("Personal Information"). You may be asked to provide us with Personal Information when you register with the Site and at other times. The decision to provide this information is optional. However, if you choose not to provide the requested information, you may not be able to use some or all of the features of the Site or Services.
 
-  **Reproduction of Content**  
-For users who provide product reviews or other feedback about our products or our Site, or provide us any other information via correspondence or otherwise (“Content”), we may collect your first and/or last name, email address and any Content included in the correspondence. By submitting the Content, you agree that we may use your personal information and such Content as permitted under this Privacy Policy, including reproducing, modifying, adapting, publishing, displaying, translating and creating derivative works from, the Content, in whole or in part, on the Site and in our marketing and advertising materials, without any compensation to you. Further, we are free to use any ideas, concepts, know-how, techniques and suggestions contained in the Content for any purpose whatsoever, including but not limited to creating, manufacturing and marketing products and/or services using such information, all without compensation to you.
+**Usage Data and Site Activity**
 
-  **Security**  
-Although no use of the Internet is 100% secure, we use encryption, firewalls and other technology and security procedures to help protect the accuracy and security of your personal information and prevent unauthorized access or improper use.
+We automatically collect information in connection with the actions you take on the Site ("Usage Data"). For example, each time you use the Site we automatically collect the type of Web browser you use, your operating system, your Internet Service Provider, your IP address, the pages you view, and the time and duration of your visits to the Site. This anonymous usage information may be associated with your username and profile, but we do not disclose the associated information to third parties. ****
 
-  **Terms and Conditions and Other Notices and Revisions**  
-If you choose to visit the Site, your visit and any dispute over privacy is subject to this Privacy Policy and our Terms and Conditions and other terms and conditions, including limitations on damages, and application of the law of the State of California. If you have any concern about privacy or terms of use of the Site, please contact us with a thorough description, and we will try to resolve it. Our business changes constantly, and our Privacy Policy and the Terms and Conditions will change also. You should check the Site frequently to see recent changes. Unless stated otherwise, our current Privacy Policy applies to all information that we have about you and your account. We stand behind the promises we make, however, and do not intend to materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.
+**Cookies and Web Beacons**
 
-  We may amend this Privacy Policy at any time by posting the amended terms on the Site. All amended terms shall automatically be effective ten (10) days after they are initially posted on the Site.
+We may use cookies (a small text file placed on your computer to identify your computer and browser). We also may use Web beacons (an electronic file placed on a Web site that monitors usage). We use cookies and Web beacons to improve the experience of the Site and Services, such as pre-populating your username for easier login. We do not use cookies or Web beacons to collect Personal Information. Most Web browsers are initially set up to accept cookies. You can reset your Web browser to refuse all cookies or to indicate when a cookie is being sent. However, certain features of the Site or Services may not work if you delete or disable cookies. Some of our Third-Party Providers and Advertisers (as such terms are defined below), may use their own cookies and Web beacons in connection with the services they perform on our behalf.
 
-  **Your California Privacy Rights**  
-Under California Civil Code Section 1798.83, if you are a resident of California, you may request and obtain from us once a year, free of charge, information regarding our disclosure (if any) of your personal information to third parties for marketing purposes in the preceding calendar year. To make such a request, please write to:
+**HOW WE USE INFORMATION AND WHEN WE MAY SHARE AND DISCLOSE INFORMATION**
 
-  Cesari Direct  
-Attn: California Privacy Rights  
-6415 S. 3000 E.  
-Suite 200  
-Salt Lake City, UT 84121  
-We reserve the right not to respond to requests not submitted to the above address.
+**Generally**
 
-  **Questions?**  
-For questions regarding this policy, contact:
+We use Personal Information for internal purposes, such as to provide you with the Site and Services, to improve the Site and Services, to notify you of new services, and to otherwise communicate with you about _CRTV_ and other matters. We will not disclose Personal Information to third parties, including for their direct marketing purposes, without your consent, except as explained in this Privacy Policy. We may disclose to third parties certain Usage Data regarding the Site and Services. However, in such cases, your Usage Data is aggregated with the Usage Data of others and does not identify you individually.  ****
 
-Cesari Direct  
-Attn: Privacy Policy Review  
-6415 S. 3000 E.  
-Suite 200  
-Salt Lake City, UT 84121
+**Profile Information You Make Available to Others**
+
+By using the Site or the Services you may make certain of your Personal Information available to others. For example, if your user name contains your real name, and you post a comment in a public area of the Site, other users may see your name and other information from your public profile that you choose to make available to others, such as your home town. The information you choose to make publicly available may be accessed by users who use the Site or Services and may be accessed by commercial search engines such as Google, Yahoo! and Bing to the extent that such engines are permitted to access the Site. 
+
+**Third-Party Providers**
+
+From time to time, we may establish a business relationship with other businesses whom we believe trustworthy and who we believe have privacy practices that are consistent with ours ("Third-Party Providers"). For example, we may contract with Third-Party Providers to provide certain services, such as hosting and maintenance, data storage and management, and marketing and promotions. We only provide our Third-Party Providers with the information necessary for them to perform these services on our behalf. Each Service Provider is expected to use reasonable security procedures and practices appropriate to the nature of the information involved in order to protect your Personal Information from unauthorized access, use or disclosure. Third-Party Providers are prohibited from using Personal Information other than as specified by CRTV.
+
+**Advertising**
+
+We may work with third-party advertisers, search providers and ad networks ("Advertisers"). We may share Personal Information with third parties whose products and services we think may be of interest to you. If you prefer that we not share your Personal Information with third parties, you may opt out by sending us an email at [support@crtv.com](mailto:support@crtv.com?subject=OptOut%203rd%20Party). Please be sure to include your full name, email address, mailing address, and specifically state that you do not want your Personal Information shared with third parties for their direct marketing purposes.
+
+Advertisers may collect and use information about your use of the Site or Services as well as other Web sites and services in order to provide advertisements about goods and services that may be of interest to you. These companies may place or recognize a unique cookie on your computer or use other technologies such as Web beacons in order to collect such information. Our Privacy Policy does not cover any use of information that an ad network may collect from you. Advertisements may be shown via the Site, the Services, or on third-party Web sites. You can visit the Network Advertising Initiative Web site at www.networkadvertising.org, which offers information about Internet advertising companies and how to opt-out of their information collection. 
+
+**Joint Services**
+
+We may provide services jointly with other companies. In some cases, in order to facilitate such services, it may be necessary to share your Personal Information with such other companies. Before we do so, we will identify the partner, present the joint service provider’s privacy policy to you before you use that service, and obtain your permission to share your Personal Information.
+
+**Third-Party Services and Applications**
+
+Through the Site and the Services, you may have the ability to elect to access third-party services and applications, such as Facebook and other social networks. When you do so, you may be able to import information from those other services and applications and share content with those services. Some of those third-party services may also provide us with information from your accounts which may enable us to enhance and personalize your use of the Site and Services (e.g., so that you can follow your Facebook friends’ activity on the Site or Services). If you elect to use such third-party services or applications through the Services, the information you share with such third-party services and applications will be subject to their privacy policies and your privacy settings for such services. You also may be able to control or block such sharing by changing your privacy settings in such services or applications. ****
+
+**Other Transfers**
+
+We may share Personal Information and Usage Data with businesses controlling, controlled by, or under common control with CRTV. If CRTV is merged, acquired or sold, or in the event of a transfer of some or all of our assets, we may disclose or transfer Personal Information and Usage Data in connection with such transaction. You will have the opportunity to opt out of any such transfer if, in our reasonable judgment, the new entity plans to handle your information in a way that differs materially from this Privacy Policy.
+
+**Compliance with Laws and Law Enforcement**
+
+CRTV cooperates with government and law enforcement officials and private parties to enforce and comply with the law. We may disclose Personal Information and any other information about you to government or law enforcement officials or private parties if, in our discretion, we believe it is necessary or appropriate in order to respond to legal requests (including court orders and subpoenas), to protect the safety, property or rights of CRTV or of any third party, to prevent or stop any illegal, unethical, or legally actionable activity, or to comply with the law.
+
+**Sharing Information with Others**
+
+Please be aware that whenever you share information on public forums on the Site, that information may be accessed by others. In addition, please remember that when you share information in any other communications with third parties, that information may be passed along or made public by others. This means that anyone with access to such information can potentially use it for any purpose, including sending unsolicited communications.
+
+**SECURITY**
+
+CRTV recognizes the importance of safeguarding the confidentiality of your Personal Information. Accordingly, we employ reasonable measures designed to protect your information from unauthorized access, disclosure and use. However, no data transmission over the Internet or other network can be guaranteed to be 100% secure. As a result, while we strive to protect information transmitted on or through the Site or Services, we cannot and do not guarantee the security of any information you transmit on or through the Site or Services, and you do so at your own risk.
+
+**CHILDREN’S PRIVACY**
+
+We do not knowingly collect Personal Information from children under the age of 18. If we become aware that we have inadvertently received Personal Information from a child under the age of 18, we will delete such information from our records. 
+
+**PROCESSING IN THE UNITED STATES**
+
+Please be aware that your Personal Information and communications may be transferred to and maintained on servers or databases located outside your state, province, or country. If you are located outside of the United States, please be advised that we process and store all information in the United States. The laws in the United States may not be as protective of your privacy as those in your location. By using our Site or Services, you agree that the collection, use, transfer, and disclosure of your Personal Information and communications will be governed by the applicable laws in the United States.
+
+**PRIVACY POLICY CHANGES**
+
+From time to time, we may change this Privacy Policy. If we decide to change this Privacy Policy, we will inform you by posting the revised Privacy Policy on the Site. Those changes will go into effect on the Revision Date shown in the revised Privacy Policy. Your continued use of our Site or Services constitutes your consent to the revised Privacy Policy.
