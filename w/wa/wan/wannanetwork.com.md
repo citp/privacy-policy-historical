@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wannanetwork.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017184739id_/http%3A//www.shelterrealty.com/disclosures) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wannanetwork.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224005753id_/http%3A//www.shelterrealty.com/disclosures) for the most accurate reproduction.*
 
 # Disclosures | Las Vegas Real Estate
 
