@@ -1,20 +1,19 @@
-<!--The following is the downloaded HTML source of the game-solver.com privacy policy that was archived on 2016-04-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160414190917id_/http%3A//game-solver.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the game-solver.com privacy policy that was archived on 2017-02-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170223063753id_/https%3A//game-solver.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript" async="" data-pin-hover="true" src="https://assets.pinterest.com/js/pinit.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js">{"parsetags": "explicit"}</script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?publisherid=105610811389374160703"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=654710921274455&amp;version=v2.0"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEDUFZWGwIJU1JVDwA="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
+<!DOCTYPE html><html class="no-js" lang="en-US" prefix="og: http://ogp.me/ns# fb: http://ogp.me/ns/fb# article: http://ogp.me/ns/article#"><!--<![endif]--><head><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript" async="" data-pin-hover="true" src="https://assets.pinterest.com/js/pinit.js"></script><script id="twitter-wjs" src="https://platform.twitter.com/widgets.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js">{"parsetags": "explicit"}</script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="https://apis.google.com/js/plusone.js?publisherid=105610811389374160703"></script><script async="" src="//connect.facebook.net/en_US/fbds.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=654710921274455&amp;version=v2.0"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VgEDUFZWGwIJUVRTDgM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
 <title>Privacy Policy for Game-Solver.com</title>
 <link rel="profile" href="http://gmpg.org/xfn/11">
-<link rel="pingback" href="http://game-solver.com/xmlrpc.php">
- 
+<link rel="pingback" href="https://game-solver.com/xmlrpc.php">
 <link rel="author" href="https://plus.google.com/u/0/110449270534612866446/">
 <meta name="description" content="This policy covers how Game-Solver.com uses personal information collected while you use the website.">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy for Game-Solver.com">
 <meta property="og:description" content="This policy covers how Game-Solver.com uses personal information collected while you use the website.">
-<meta property="og:url" content="http://game-solver.com/privacy-policy/">
-<meta property="og:image" content="http://game-solver.com/wp-content/uploads/2013/03/game-solver-icon1.png">
+<meta property="og:url" content="https://game-solver.com/privacy-policy/">
+<meta property="og:image" content="//game-solver.com/wp-content/uploads/2013/03/game-solver-icon1.png">
 <meta property="article:published_time" content="2013-08-07">
 <meta property="article:modified_time" content="2014-08-13">
 <meta property="og:site_name" content="Game Solver">
@@ -24,95 +23,50 @@
 <meta name="twitter:site" content="@gamesolvercom">
 <meta name="twitter:site:id" content="2753825449">
 <meta name="twitter:creator:id" content="30469284">
- 
- 
 <meta name="google-site-verification" content="Mq2ooTa0kEhWwgrgk8F_1f-wCufglP_Vcg94E_pEnxY">
 <meta name="msvalidate.01" content="D9BB6B9AEFB09CF845BD7F04295BCA91">
-<script type="text/javascript">
-		var ajaxurl = 'http://game-solver.com/wp-admin/admin-ajax.php';
-		</script>
-<link rel="alternate" type="application/rss+xml" title="Game Solver » Feed" href="http://game-solver.com/feed/">
-<link rel="alternate" type="application/rss+xml" title="Game Solver » Comments Feed" href="http://game-solver.com/comments/feed/">
-<link rel="shortcut icon" href="http://game-solver.com/wp-content/uploads/2013/07/game-solver-32x32.png" type="image/x-icon">
-<link rel="apple-touch-icon" href="http://game-solver.com/wp-content/uploads/2013/07/apple-touch-icon-114x114.png">
-<link rel="alternate" type="application/rss+xml" title="Game Solver » Privacy Policy Comments Feed" href="http://game-solver.com/privacy-policy/feed/">
-<script type="text/javascript">
-			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/game-solver.com\/wp-includes\/js\/wp-emoji-release.min.js"}};
-			!function(a,b,c){function d(a){var c,d=b.createElement("canvas"),e=d.getContext&&d.getContext("2d"),f=String.fromCharCode;return e&&e.fillText?(e.textBaseline="top",e.font="600 32px Arial","flag"===a?(e.fillText(f(55356,56806,55356,56826),0,0),d.toDataURL().length>3e3):"diversity"===a?(e.fillText(f(55356,57221),0,0),c=e.getImageData(16,16,1,1).data.toString(),e.fillText(f(55356,57221,55356,57343),0,0),c!==e.getImageData(16,16,1,1).data.toString()):("simple"===a?e.fillText(f(55357,56835),0,0):e.fillText(f(55356,57135),0,0),0!==e.getImageData(16,16,1,1).data[0])):!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g;c.supports={simple:d("simple"),flag:d("flag"),unicode8:d("unicode8"),diversity:d("diversity")},c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.simple&&c.supports.flag&&c.supports.unicode8&&c.supports.diversity||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
-		</script><script src="http://game-solver.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript"></script>
-<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
-<link rel="stylesheet" id="flick-css" href="http://game-solver.com/wp-content/plugins/mailchimp//css/flick/flick.css" type="text/css" media="all">
-<link rel="stylesheet" id="mailchimpSF_main_css-css" href="http://game-solver.com/?mcsf_action=main_css" type="text/css" media="all">
+<script type="text/javascript">var ajaxurl='https://game-solver.com/wp-admin/admin-ajax.php';</script>
+<link rel="dns-prefetch" href="//s0.wp.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Game Solver » Feed" href="https://game-solver.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Game Solver » Comments Feed" href="https://game-solver.com/comments/feed/">
+<link rel="shortcut icon" href="//game-solver.com/wp-content/uploads/2013/07/game-solver-32x32.png" type="image/x-icon">
+<link rel="apple-touch-icon" href="//game-solver.com/wp-content/uploads/2013/07/apple-touch-icon-114x114.png">
+<link rel="alternate" type="application/rss+xml" title="Game Solver » Privacy Policy Comments Feed" href="https://game-solver.com/privacy-policy/feed/">
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/game-solver.com\/wp-includes\/js\/wp-emoji-release.min.js"}};!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script><script src="https://game-solver.com/wp-includes/js/wp-emoji-release.min.js" type="text/javascript" defer=""></script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link rel="stylesheet" id="flick-css" href="https://game-solver.com/wp-content/plugins/mailchimp//css/flick/flick.css" type="text/css" media="all">
+<link rel="stylesheet" id="mailchimpSF_main_css-css" href="https://game-solver.com/?mcsf_action=main_css" type="text/css" media="all">
 <!--[if IE]>
-<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='http://game-solver.com/wp-content/plugins/mailchimp/css/ie.css' type='text/css' media='all' />
+<link rel='stylesheet' id='mailchimpSF_ie_css-css'  href='https://game-solver.com/wp-content/plugins/mailchimp/css/ie.css' type='text/css' media='all' />
 <![endif]-->
-<link rel="stylesheet" id="cptch_stylesheet-css" href="http://game-solver.com/wp-content/plugins/captcha/css/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="dashicons-css" href="http://game-solver.com/wp-includes/css/dashicons.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="contact-form-7-css" href="http://game-solver.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
-<link rel="stylesheet" id="responsive-style-css" href="http://game-solver.com/wp-content/themes/responsivepro/core/css/style.min.css" type="text/css" media="all">
-<link rel="stylesheet" id="pro-css-css" href="http://game-solver.com/wp-content/themes/responsivepro/pro/lib/css/style.css" type="text/css" media="all">
-<link rel="stylesheet" id="genericons-css" href="http://game-solver.com/wp-content/plugins/jetpack/_inc/genericons/genericons/genericons.css" type="text/css" media="all">
-<link rel="stylesheet" id="jetpack_css-css" href="http://game-solver.com/wp-content/plugins/jetpack/css/jetpack.css" type="text/css" media="all">
-<script type="text/javascript" src="http://game-solver.com/wp-includes/js/jquery/jquery.js"></script>
-<script type="text/javascript" src="http://game-solver.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
-<script type="text/javascript" src="http://game-solver.com/wp-content/plugins/mailchimp/js/scrollTo.js"></script>
-<script type="text/javascript" src="http://game-solver.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var mailchimpSF = {"ajax_url":"http:\/\/game-solver.com\/"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://game-solver.com/wp-content/plugins/mailchimp/js/mailchimp.js"></script>
-<script type="text/javascript" src="http://game-solver.com/wp-includes/js/jquery/ui/core.min.js"></script>
-<script type="text/javascript" src="http://game-solver.com/wp-content/plugins/mailchimp//js/datepicker.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var cptch_vars = {"nonce":"6923141575","ajaxurl":"http:\/\/game-solver.com\/wp-admin\/admin-ajax.php","enlarge":"0"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://game-solver.com/wp-content/plugins/captcha/js/front_end_script.js"></script>
-<script type="text/javascript" src="http://game-solver.com/wp-content/themes/responsivepro/core/js/responsive-modernizr.min.js"></script>
-<link rel="https://api.w.org/" href="http://game-solver.com/wp-json/">
-<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://game-solver.com/xmlrpc.php?rsd">
-<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://game-solver.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.4.2">
-<link rel="canonical" href="http://game-solver.com/privacy-policy/">
-<link rel="shortlink" href="http://game-solver.com/?p=6919">
-<link rel="alternate" type="application/json+oembed" href="http://game-solver.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgame-solver.com%2Fprivacy-policy%2F">
-<link rel="alternate" type="text/xml+oembed" href="http://game-solver.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fgame-solver.com%2Fprivacy-policy%2F&amp;format=xml">
-<script type="text/javascript">
-		jQuery(function($) {
-			$('.date-pick').each(function() {
-				var format = $(this).data('format') || 'mm/dd/yyyy';
-				format = format.replace(/yyyy/i, 'yy');
-				$(this).datepicker({
-					autoFocusNextInput: true,
-					constrainInput: false,
-					changeMonth: true,
-					changeYear: true,
-					beforeShow: function(input, inst) { $('#ui-datepicker-div').addClass('show'); },
-					dateFormat: format.toLowerCase(),
-				});
-			});
-			d = new Date();
-			$('.birthdate-pick').each(function() {
-				var format = $(this).data('format') || 'mm/dd';
-				format = format.replace(/yyyy/i, 'yy');
-				$(this).datepicker({
-					autoFocusNextInput: true,
-					constrainInput: false,
-					changeMonth: true,
-					changeYear: false,
-					minDate: new Date(d.getFullYear(), 1-1, 1),
-					maxDate: new Date(d.getFullYear(), 12-1, 31),
-					beforeShow: function(input, inst) { $('#ui-datepicker-div').removeClass('show'); },
-					dateFormat: format.toLowerCase(),
-				});
-
-			});
-
-		});
-	</script>
+<link rel="stylesheet" id="cptch_stylesheet-css" href="https://game-solver.com/wp-content/plugins/captcha/css/front_end_style.css" type="text/css" media="all">
+<link rel="stylesheet" id="dashicons-css" href="https://game-solver.com/wp-includes/css/dashicons.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="cptch_desktop_style-css" href="https://game-solver.com/wp-content/plugins/captcha/css/desktop_style.css" type="text/css" media="all">
+<link rel="stylesheet" id="contact-form-7-css" href="https://game-solver.com/wp-content/plugins/contact-form-7/includes/css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="responsive-style-css" href="https://game-solver.com/wp-content/themes/responsivepro/core/css/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="pro-css-css" href="https://game-solver.com/wp-content/themes/responsivepro/pro/lib/css/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="social-logos-css" href="https://game-solver.com/wp-content/plugins/jetpack/_inc/social-logos/social-logos.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="jetpack_css-css" href="https://game-solver.com/wp-content/plugins/jetpack/css/jetpack.css" type="text/css" media="all">
+<script type="text/javascript" src="https://game-solver.com/wp-includes/js/jquery/jquery.js"></script>
+<script type="text/javascript" src="https://game-solver.com/wp-includes/js/jquery/jquery-migrate.min.js"></script>
+<script type="text/javascript" src="https://game-solver.com/wp-content/plugins/mailchimp//js/scrollTo.js"></script>
+<script type="text/javascript" src="https://game-solver.com/wp-content/plugins/contact-form-7/includes/js/jquery.form.min.js"></script>
+<script type="text/javascript">var mailchimpSF={"ajax_url":"https:\/\/game-solver.com\/"};</script>
+<script type="text/javascript" src="https://game-solver.com/wp-content/plugins/mailchimp//js/mailchimp.js"></script>
+<script type="text/javascript" src="https://game-solver.com/wp-includes/js/jquery/ui/core.min.js"></script>
+<script type="text/javascript" src="https://game-solver.com/wp-content/plugins/mailchimp//js/datepicker.js"></script>
+<script type="text/javascript" src="https://game-solver.com/wp-content/themes/responsivepro/core/js/responsive-modernizr.min.js"></script>
+<link rel="https://api.w.org/" href="https://game-solver.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://game-solver.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://game-solver.com/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 4.7.2">
+<link rel="canonical" href="https://game-solver.com/privacy-policy/">
+<link rel="shortlink" href="https://game-solver.com/?p=6919">
+<link rel="alternate" type="application/json+oembed" href="https://game-solver.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgame-solver.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://game-solver.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fgame-solver.com%2Fprivacy-policy%2F&amp;format=xml">
+<script type="text/javascript">jQuery(function($){$('.date-pick').each(function(){var format=$(this).data('format')||'mm/dd/yyyy';format=format.replace(/yyyy/i,'yy');$(this).datepicker({autoFocusNextInput:true,constrainInput:false,changeMonth:true,changeYear:true,beforeShow:function(input,inst){$('#ui-datepicker-div').addClass('show');},dateFormat:format.toLowerCase(),});});d=new Date();$('.birthdate-pick').each(function(){var format=$(this).data('format')||'mm/dd';format=format.replace(/yyyy/i,'yy');$(this).datepicker({autoFocusNextInput:true,constrainInput:false,changeMonth:true,changeYear:false,minDate:new Date(d.getFullYear(),1-1,1),maxDate:new Date(d.getFullYear(),12-1,31),beforeShow:function(input,inst){$('#ui-datepicker-div').removeClass('show');},dateFormat:format.toLowerCase(),});});});</script>
+<link rel="dns-prefetch" href="//v0.wordpress.com">
 <link rel="dns-prefetch" href="//jetpack.wordpress.com">
 <link rel="dns-prefetch" href="//s0.wp.com">
 <link rel="dns-prefetch" href="//s1.wp.com">
@@ -121,115 +75,29 @@ var cptch_vars = {"nonce":"6923141575","ajaxurl":"http:\/\/game-solver.com\/wp-a
 <link rel="dns-prefetch" href="//0.gravatar.com">
 <link rel="dns-prefetch" href="//1.gravatar.com">
 <link rel="dns-prefetch" href="//2.gravatar.com">
- 
 <meta name="yandex-verification" content="4b2ebda8db9e2bfd">
 <meta property="twitter:account_id" content="4503599630957025">
 <meta name="google-translate-customization" content="636c8d77666e55ca-eecccd3800b62c92-gab43e2e66927055b-f">
 <meta property="fb:admins" content="juzhax">
 <meta property="fb:app_id" content="654710921274455">
-<script async="" type="text/javascript" src="//gamesolver.disqus.com/count.js"></script></head><body class="page page-id-6919 page-template-default"><div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=654710921274455&version=v2.0";
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-<script>(function() {
-  var _fbq = window._fbq || (window._fbq = []);
-  if (!_fbq.loaded) {
-    var fbds = document.createElement('script');
-    fbds.async = true;
-    fbds.src = '//connect.facebook.net/en_US/fbds.js';
-    var s = document.getElementsByTagName('script')[0];
-    s.parentNode.insertBefore(fbds, s);
-    _fbq.loaded = true;
-  }
-  _fbq.push(['addPixelId', '733934653312588']);
-})();
-window._fbq = window._fbq || [];
-window._fbq.push(['track', 'PixelInitialized', {}]);
-</script>
-<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=733934653312588&amp;ev=PixelInitialized"/></noscript>
-<script async="" src="//www.googletagservices.com/tag/js/gpt.js"> </script>
-<script>
-	googletag = window.googletag || {cmd:[]};
-	
-	googletag.cmd.push(function() {
-	var mapping = googletag.sizeMapping().
-	addSize([768, 0], [728, 90]).
-	addSize([0, 0], [300, 250]).
-	build();
-	googletag.defineSlot('/6880916/GS-Responsive-Top-728-468-300', [728, 90], 'ad-top').
-	defineSizeMapping(mapping).
-	addService(googletag.pubads());
-	googletag.enableServices();
-});
+<script async="" type="text/javascript" src="//gamesolver.disqus.com/count.js"></script></head><body class="page-template-default page page-id-6919"><div id="fb-root"></div>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=654710921274455&version=v2.0";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<script>(function(){var _fbq=window._fbq||(window._fbq=[]);if(!_fbq.loaded){var fbds=document.createElement('script');fbds.async=true;fbds.src='//connect.facebook.net/en_US/fbds.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(fbds,s);_fbq.loaded=true;}_fbq.push(['addPixelId','733934653312588']);})();window._fbq=window._fbq||[];window._fbq.push(['track','PixelInitialized',{}]);</script>
+<noscript><img height="1" width="1" alt="" style="display:none" src="https://www.facebook.com/tr?id=733934653312588&ev=PixelInitialized"/></noscript>
+<script async="" src="//www.googletagservices.com/tag/js/gpt.js"></script>
+<script>googletag=window.googletag||{cmd:[]};googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([768,0],[728,90]).addSize([0,0],[300,250]).build();googletag.defineSlot('/6880916/GS-Responsive-Top-728-468-300',[728,90],'ad-top').defineSizeMapping(mapping).addService(googletag.pubads());googletag.enableServices();});googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([0,0],[300,250]).build();googletag.defineSlot('/6880916/GS-Responsive-After-Contents-336-300',[300,250],'ad-after').defineSizeMapping(mapping).addService(googletag.pubads());googletag.enableServices();});googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([768,0],[336,280]).addSize([0,0],[300,250]).build();googletag.defineSlot('/6880916/GS-Responsive-Side-336-728-300',[336,280],'ad-side').defineSizeMapping(mapping).addService(googletag.pubads());googletag.enableServices();});googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([768,0],[728,90]).addSize([0,0],[300,250]).build();googletag.defineSlot('/6880916/GS-Responsive-Bottom-728-468-300',[300,250],'ad-bottom').defineSizeMapping(mapping).addService(googletag.pubads());googletag.enableServices();});googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([0,0],[300,250]).build();googletag.defineSlot('/6880916/GS-Responsive-Side2-336-300',[300,250],'ad-side2').defineSizeMapping(mapping).addService(googletag.pubads());googletag.enableServices();});googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([768,0],[728,90]).addSize([0,0],[300,250]).build();googletag.defineSlot('/6880916/GS-2017-Top-728-300',[728,90],'ad-top-2017').defineSizeMapping(mapping).addService(googletag.pubads());googletag.enableServices();});googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([0,0],[300,250]).build();googletag.defineSlot('/6880916/GS-2017-After-300',[300,250],'ad-after-2017').defineSizeMapping(mapping).addService(googletag.pubads());googletag.enableServices();});googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([768,0],[336,280]).addSize([0,0],[300,250]).build();googletag.defineSlot('/6880916/GS-2017-Side-336-300',[336,280],'ad-side-2017').defineSizeMapping(mapping).addService(googletag.pubads());googletag.enableServices();});googletag.cmd.push(function(){var mapping=googletag.sizeMapping().addSize([768,0],[728,90]).addSize([0,0],[300,250]).build();googletag.defineSlot('/6880916/GS-2017-Bottom-728-300',[300,250],'ad-bottom-2017').defineSizeMapping(mapping).addService(googletag.pubads());googletag.enableServices();});</script>
+<style type="text/css">.broken_link,a.broken_link{text-decoration:line-through}</style> <style type="text/css" id="customizer_styles">body{font-family:MS\ Sans\ serif,Geneva,sans-serif;font-size:14px}h1,h2,h3,h4,h5,h6,.widget-title h3{font-family:Trebuchet\ MS,sans-serif}input[type="reset"],input[type="button"],input[type="submit"]{font-family:MS\ Sans\ serif,Geneva,sans-serif}</style>
+<style type="text/css" media="screen">body{font-family:Verdana,'Trebuchet MS',Arial}ol{padding-left:3em}table,td,th{border:0 solid #ccc}#container{padding:0 5px;max-width:1100px}#wrapper{padding:0 5px}#footer{padding:0 5px;max-width:1100px}ins,dfn{border-bottom:0 solid #ccc}h1{color:#272727;font-family:bryant-web-1,bryant-web-2,'Helvetica Neue',Helvetica,sans-serif;font-size:22px;font-weight:bold;text-shadow:#f2efe6 -1px -1px 0;text-transform:uppercase;letter-spacing:-1px}h2{color:#272727;font-family:bryant-web-1,bryant-web-2,'Helvetica Neue',Helvetica,sans-serif;font-size:20px;font-weight:bold;text-shadow:#f2efe6 -1px -1px 0;text-transform:uppercase;letter-spacing:-1px}h3{font-family:bryant-web-1,bryant-web-2,'Helvetica Neue',Helvetica,sans-serif;font-size:18px}p{color:#6f6f6f;display:block;font-family:Verdana,'Trebuchet MS',Arial;font-size:13px;line-height:20px;text-shadow:#fff 1px 1px 1px}.widget-title{color:#272727;font-family:bryant-web-1,bryant-web-2,'Helvetica Neue',Helvetica,sans-serif;font-size:22px;font-weight:bold;text-shadow:#f2efe6 -1px -1px 0;text-transform:uppercase;letter-spacing:-1px}h2 a{color:#73716d}.juz-icon-text{font-size:6pt;overflow:hidden;text-decoration:none;position:relative;white-space:nowrap;-webkit-mask-image:-webkit-linear-gradient(left,rgba(0,0,0,1),rgba(0,0,0,1),rgba(0,0,0,1),rgba(0,0,0,0) 99%)}.juz-icon{width:24%;max-width:80px;position:relative;display:inline-block;padding:1px}.juz-search-form{content:"";display:block;width:100%;min-width:30px;border-top:1px solid transparent;margin-bottom:1em}.juz-main{content:"";display:block;width:100%;min-width:30px;border-top:1px solid transparent;margin-bottom:1em}.juz-share-main{content:"";display:block;width:100%;min-width:30px;border-top:1px solid transparent;margin-bottom:1em}.juz-share ul{padding:0!important;margin:0 0 .7em 0!important;list-style:none!important}.juz-share-right{float:right}.juz-share-left{    float: none}.juz-share ul li{display:inline}.juz-blue-button{margin:1px;-moz-box-shadow:inset 0 1px 0 0 #97c4fe;-webkit-box-shadow:inset 0 1px 0 0 #97c4fe;box-shadow:inset 0 1px 0 0 #97c4fe;background-color:#3d94f6;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;border:1px solid #337fed;display:inline-block;cursor:pointer;color:#fff;font-family:arial;font-size:15px;font-weight:bold;padding:6px 12px;text-decoration:none;text-shadow:0 1px 0 #1570cd}.juz-blue-button:hover{background-color:#1e62d0}.juz-blue-button:active{position:relative;top:1px}#subscribe-blog-blog_subscription-4{text-align:center}#subscribe-text{font-size:12pt}#subscribe-field{padding:14px;font-size:12pt;text-align:center}#subscribe-submit input{text-align:center;font-weight:normal;background:#3c3;color:#fff;font-size:10pt;padding:10px}li .link{margin:0;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline}li .mn_page{position:absolute;height:10px;width:20px;// overflow: hidden;// clip: rect(1px,1px,1px,1px);margin:0;padding:3px;border:0;font:inherit;font-size:100%;vertical-align:baseline}li a.active-page{display:block;background-color:#f6f6f6;color:#333;border:1px solid #ddd;padding-left:43px;border-top:0;line-height:2em}li a.active-page:hover{background-color:#74afaf;color:#fff}.adslot_1{width:300px;height:600px}@media (min-width:720px){.adslot_1{width:700px;height:300px}}</style>
+<style>.widget_mailchimpsf_widget .widget-title{line-height:1.4em;margin-bottom:.75em}#mc_subheader{line-height:1.25em;margin-bottom:18px}.mc_merge_var{margin-bottom:1.0em}.mc_var_label,.mc_interest_label{display:block;margin-bottom:.5em}.mc_input{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;width:100%}.mc_input.mc_phone{width:auto}select.mc_select{margin-top:.5em;width:100%}.mc_address_label{margin-top:1.0em;margin-bottom:.5em;display:block}.mc_address_label~select{width:100%}.mc_list li{list-style:none;background:none!important}.mc_interests_header{margin-top:1.0em;margin-bottom:.5em}.mc_interest label,.mc_interest input{margin-bottom:.4em}#mc_signup_submit{margin-top:1.5em;width:80%}#mc_unsub_link a{font-size:.75em}#mc_unsub_link{margin-top:1.0em}.mc_header_address,.mc_email_format{display:block;font-weight:bold;margin-top:1.0em;margin-bottom:.5em}.mc_email_options{margin-top:.5em}.mc_email_type{padding-left:4px}</style>
 
-	googletag.cmd.push(function() {
-	var mapping = googletag.sizeMapping().
-	addSize([0, 0], [300, 250]).
-	build();
-	googletag.defineSlot('/6880916/GS-Responsive-After-Contents-336-300', [300, 250], 'ad-after').
-	defineSizeMapping(mapping).
-	addService(googletag.pubads());
-	googletag.enableServices();
-});
-
-	googletag.cmd.push(function() {
-	var mapping = googletag.sizeMapping().
-	addSize([1024, 0], [300, 250]).
-	addSize([768, 0], [728, 90]).
-	addSize([0, 0], [300, 250]).
-	build();
-	googletag.defineSlot('/6880916/GS-Responsive-Side-336-728-300', [300, 250], 'ad-side').
-	defineSizeMapping(mapping).
-	addService(googletag.pubads());
-	googletag.enableServices();
-});
-
-	googletag.cmd.push(function() {
-	var mapping = googletag.sizeMapping().
-	addSize([768, 0], [728, 90]).
-	addSize([0, 0], [300, 250]).
-	build();
-	googletag.defineSlot('/6880916/GS-Responsive-Bottom-728-468-300', [300, 250], 'ad-bottom').
-	defineSizeMapping(mapping).
-	addService(googletag.pubads());
-	googletag.enableServices();
-}); 
-
-
-	googletag.cmd.push(function() {
-	var mapping = googletag.sizeMapping().
-	addSize([0, 0], [300, 250]).
-	build();
-	googletag.defineSlot('/6880916/GS-Responsive-Side2-336-300', [300, 250], 'ad-side2').
-	defineSizeMapping(mapping).
-	addService(googletag.pubads());
-	googletag.enableServices();
-});
-
-</script>
- 
- 
-<style type="text/css" id="customizer_styles">body{font-family:MS Sans Serif,Geneva,sans-serif;font-size:14px;}h1,h2,h3,h4,h5,h6,.widget-title h3{font-family:Trebuchet MS,sans-serif;}input[type='reset'],input[type='button'],input[type='submit']{font-family:MS Sans Serif,Geneva,sans-serif;}</style>
- 
-<style type="text/css" media="screen">body{font-family:Verdana,'Trebuchet MS',Arial;}ol{padding-left:3em;}table,td,th{border:0px solid #ccc;}#container{padding:0 5px;max-width:1100px;}#wrapper{padding:0 5px;}#footer{padding:0 5px;max-width:1100px;}ins,dfn{border-bottom:0px solid #cccccc;}h1{color:rgb(39,39,39);font-family:bryant-web-1,bryant-web-2,'Helvetica Neue',Helvetica,sans-serif;font-size:22px;font-weight:bold;text-shadow:rgb(242,239,230) -1px -1px 0px;text-transform:uppercase;letter-spacing:-1px;}h2{color:rgb(39,39,39);font-family:bryant-web-1,bryant-web-2,'Helvetica Neue',Helvetica,sans-serif;font-size:20px;font-weight:bold;text-shadow:rgb(242,239,230) -1px -1px 0px;text-transform:uppercase;letter-spacing:-1px;}h3{font-family:bryant-web-1,bryant-web-2,'Helvetica Neue',Helvetica,sans-serif;font-size:18px;}p{color:rgb(111,111,111);display:block;font-family:Verdana,'Trebuchet MS',Arial;font-size:13px;line-height:20px;text-shadow:rgb(255,255,255) 1px 1px 1px;}.widget-title{color:rgb(39,39,39);font-family:bryant-web-1,bryant-web-2,'Helvetica Neue',Helvetica,sans-serif;font-size:22px;font-weight:bold;text-shadow:rgb(242,239,230) -1px -1px 0px;text-transform:uppercase;letter-spacing:-1px;}h2 a{color:#73716D}.juz-icon-text{font-size:6pt;overflow:hidden;text-decoration:none;position:relative;white-space:nowrap;-webkit-mask-image:-webkit-linear-gradient(left,rgba(0,0,0,1),rgba(0,0,0,1),rgba(0,0,0,1),rgba(0,0,0,0) 99%);}.juz-icon{width:24%;max-width:80px;position:relative;display:inline-block;padding:1px;}.juz-search-form{content:"";display:block;width:100%;min-width:30px;border-top:1px solid transparent;margin-bottom:1em;}.juz-main{content:"";display:block;width:100%;min-width:30px;border-top:1px solid transparent;margin-bottom:1em;}.juz-share-main{content:"";display:block;width:100%;min-width:30px;border-top:1px solid transparent;margin-bottom:1em;}.juz-share ul{padding:0!important;margin:0 0 .7em 0!important;list-style:none!important;}.juz-share-right{float:right;}.juz-share-left{    float: none;}.juz-share ul li{display:inline;}.juz-blue-button{margin:1px;-moz-box-shadow:inset 0px 1px 0px 0px #97c4fe;-webkit-box-shadow:inset 0px 1px 0px 0px #97c4fe;box-shadow:inset 0px 1px 0px 0px #97c4fe;background-color:#3d94f6;-moz-border-radius:2px;-webkit-border-radius:2px;border-radius:2px;border:1px solid #337fed;display:inline-block;cursor:pointer;color:#ffffff;font-family:arial;font-size:15px;font-weight:bold;padding:6px 12px;text-decoration:none;text-shadow:0px 1px 0px #1570cd;}.juz-blue-button:hover{background-color:#1e62d0;}.juz-blue-button:active{position:relative;top:1px;}#subscribe-blog-blog_subscription-4{text-align:center;}#subscribe-text{font-size:12pt;}#subscribe-field{padding:14px;font-size:12pt;text-align:center;}#subscribe-submit input{text-align:center;font-weight:normal;background:#33cc33;color:white;font-size:10pt;padding:10px;}li .link{margin:0;padding:0;border:0;font:inherit;font-size:100%;vertical-align:baseline;}li .mn_page{position:absolute;height:10px;width:20px;// overflow: hidden;// clip: rect(1px,1px,1px,1px);margin:0;padding:3px;border:0;font:inherit;font-size:100%;vertical-align:baseline;}li a.active-page{display:block;background-color:#f6f6f6;color:#333333;border:1px solid #ddd;padding-left:43px;border-top:0;line-height:2em;}li a.active-page:hover{background-color:#74afaf;color:#ffffff;}.adslot_1{width:300px;height:600px;}@media (min-width:720px) {.adslot_1{width:700px;height:300px;}}</style>
-
-<script type="text/javascript">
-//<![CDATA[
-try{(function(a){var b="http://",c="game-solver.com",d="/cdn-cgi/cl/",e="img.gif",f=new a;f.src=[b,c,d,e].join("")})(Image)}catch(e){}
-//]]>
-</script>
 <div id="container" class="hfeed">
 <div class="skip-container cf">
 <a class="skip-link screen-reader-text focusable" href="#content">↓ Skip to Main Content</a>
-</div> 
+</div>
 <div id="header">
 <div id="logo">
-<a href="http://game-solver.com/"><img src="http://game-solver.com/wp-content/uploads/2013/07/game-solver.png" width="300" height="100" alt="Game Solver"></a>
-</div> 
+<a href="https://game-solver.com/"><img src="https://game-solver.com/wp-content/uploads/2013/07/game-solver.png" width="300" height="100" alt="Game Solver"></a>
+</div>
 <div id="top-widget" class="top-widget">
 <div id="text-3" class="widget_text"> <div class="textwidget"><div class="juz-main">
 <div class="juz-share">
@@ -255,22 +123,22 @@ try{(function(a){var b="http://",c="game-solver.com",d="/cdn-cgi/cl/",e="img.gif
 </div>
 </div>
 <div class="juz-search-form">
-<form action="#" onsubmit="location.href='http://game-solver.com/search/?q=' + document.getElementById('search-text').value; return false;"><input id="search-text" type="text" name="search-text" autocomplete="off"><input type="submit" value="Search"></form>
+<form action="#" onsubmit="location.href='//game-solver.com/search/?q=' + document.getElementById('search-text').value; return false;"><input id="search-text" type="text" name="search-text" autocomplete="off"><input type="submit" value="Search"></form>
 </div></div>
 </div>
-</div> 
-<div class="main-nav"><ul id="menu-header-menu" class="menu"><li id="menu-item-68466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68466"><a href="http://game-solver.com/games-list/">Games List</a></li>
-<li id="menu-item-1872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1872"><a href="http://words-solver.com/">Words Solver</a></li>
-<li id="menu-item-44323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44323"><a href="http://game-solver.com/game-request/">Request for Game Solution</a></li>
+</div>
+<div class="main-nav"><ul id="menu-header-menu" class="menu"><li id="menu-item-68466" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-68466"><a href="https://game-solver.com/games-list/">Games List</a></li>
+<li id="menu-item-1872" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1872"><a href="https://words-solver.com/">Words Solver</a></li>
+<li id="menu-item-44323" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-44323"><a href="https://game-solver.com/game-request/">Request for Game Solution</a></li>
 </ul></div>
-</div> 
+</div>
 <div id="wrapper" class="clearfix">
 <div id="content" class="grid col-620">
-<div id="ad-top">
-<script>
-   googletag.cmd.push(function() {
-   googletag.display('ad-top') });
-</script>
+<div id="div-pg-ad-1486497021-2" class="hide-mobile">
+<script type="text/javascript">googletag.cmd.push(function(){googletag.pubads().display('/8095840/.2_8119.3_game-solver.com_tier1',[728,90],'div-pg-ad-1486497021-2');});</script>
+</div>
+<div id="div-pg-ad-1486140760-0" class="hide-desktop">
+<script type="text/javascript">googletag.cmd.push(function(){googletag.pubads().display('/8095840/.2_8120.4_game-solver.com_tier1',[300,250],'div-pg-ad-1486140760-0');});</script>
 </div>
 <br>
 <div id="post-6919" class="post-6919 page type-page status-publish hentry">
@@ -302,9 +170,8 @@ The owner of this site reserves the right to edit or delete any comments submitt
 <p>Google, as a third party vendor, uses cookies to serve ads on the site.<br>
 Google’s use of the DART cookie enables it to serve ads to Game-Solver.com users based on their visit to our sites and other sites on the Internet.<br>
 Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.</p>
-<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="http://game-solver.com/privacy-policy/"></div></div></li><li class="share-facebook"><div class="fb-share-button" data-href="http://game-solver.com/privacy-policy/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="http://game-solver.com/privacy-policy/" data-text="Privacy Policy" data-via="gamesolvercom">Tweet</a></li><li class="share-pinterest"><div class="pinterest_button"><a href="https://www.pinterest.com/pin/create/button/?url=http%3A%2F%2Fgame-solver.com%2Fprivacy-policy%2F&amp;media=http%3A%2F%2F1.gravatar.com%2Favatar%2Fd019c57b20e606b70b3cb3cce6f8074d%3Fs%3D96%26d%3Dblank%26r%3Dg&amp;description=Privacy%20Policy" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png"></a></div></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="http://game-solver.com/privacy-policy/" data-counter="right"></script></div></li><li class="share-reddit"><div class="reddit_button"><iframe src="http://www.reddit.com/static/button/button1.html?newwindow=true&amp;width=120&amp;url=http%3A%2F%2Fgame-solver.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" height="22" width="120" scrolling="no" frameborder="0"></iframe></div></li><li class="share-end"></li><li class="share-pocket"><div class="pocket_button"><a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="http://game-solver.com/privacy-policy/" data-pocket-count="horizontal">Pocket</a></div></li><li class="share-tumblr"><a target="_blank" href="http://www.tumblr.com/share/link/?url=http%3A%2F%2Fgame-solver.com%2Fprivacy-policy%2F&amp;name=Privacy%20Policy" title="Share on Tumblr" style="display:inline-block; text-indent:-9999px; overflow:hidden; width:62px; height:20px; background:url('//platform.tumblr.com/v1/share_2.png') top left no-repeat transparent;">Share on Tumblr</a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div> </div>
- 
-</div> 
+<div class="sharedaddy sd-sharing-enabled"><div class="robots-nocontent sd-block sd-social sd-social-official sd-sharing"><h3 class="sd-title">Share this:</h3><div class="sd-content"><ul><li class="share-google-plus-1"><div class="googleplus1_button"><div class="g-plus" data-action="share" data-annotation="bubble" data-href="https://game-solver.com/privacy-policy/"></div></div></li><li class="share-facebook"><div class="fb-share-button" data-href="https://game-solver.com/privacy-policy/" data-layout="button_count"></div></li><li class="share-twitter"><a href="https://twitter.com/share" class="twitter-share-button" data-url="https://game-solver.com/privacy-policy/" data-text="Privacy Policy" data-via="gamesolvercom">Tweet</a></li><li class="share-pinterest"><div class="pinterest_button"><a href="https://www.pinterest.com/pin/create/button/?url=https%3A%2F%2Fgame-solver.com%2Fprivacy-policy%2F&amp;media=https%3A%2F%2Fsecure.gravatar.com%2Favatar%2Fd019c57b20e606b70b3cb3cce6f8074d%3Fs%3D96%26d%3Dblank%26r%3Dg&amp;description=Privacy%20Policy" data-pin-do="buttonPin" data-pin-config="beside"><img src="//assets.pinterest.com/images/pidgets/pinit_fg_en_rect_gray_20.png"></a></div></li><li><a href="#" class="sharing-anchor sd-button share-more"><span>More</span></a></li><li class="share-end"></li></ul><div class="sharing-hidden"><div class="inner" style="display: none;"><ul><li class="share-linkedin"><div class="linkedin_button"><script type="in/share" data-url="https://game-solver.com/privacy-policy/" data-counter="right"></script></div></li><li class="share-reddit"><div class="reddit_button"><iframe src="https://www.reddit.com/static/button/button1.html?newwindow=true&amp;width=120&amp;url=https%3A%2F%2Fgame-solver.com%2Fprivacy-policy%2F&amp;title=Privacy%20Policy" height="22" width="120" scrolling="no" frameborder="0"></iframe></div></li><li class="share-end"></li><li class="share-pocket"><div class="pocket_button"><a href="https://getpocket.com/save" class="pocket-btn" data-lang="en" data-save-url="https://game-solver.com/privacy-policy/" data-pocket-count="horizontal">Pocket</a></div></li><li class="share-tumblr"><a target="_blank" href="https://www.tumblr.com/share/link/?url=https%3A%2F%2Fgame-solver.com%2Fprivacy-policy%2F&amp;name=Privacy%20Policy" title="Share on Tumblr" style="display:inline-block;text-indent:-9999px;overflow:hidden;width:62px;height:20px;background:url(https://platform.tumblr.com/v1/share_2.png) top left no-repeat transparent">Share on Tumblr</a></li><li class="share-end"></li><li class="share-end"></li></ul></div></div></div></div></div> </div>
+</div>
 <br>
 Do you like this page ?
 <br>
@@ -313,111 +180,100 @@ Do you like this page ?
 <ul>
 <li>
 <div style="float: left;margin:2px">
-<g:plusone href="http://game-solver.com/" size="tall"></g:plusone>
+<g:plusone href="//game-solver.com/" size="tall"></g:plusone>
 </div>
 </li>
 <li>
 <div style="float: left;margin:2px">
-<div class="fb-like" data-href="http://game-solver.com/privacy-policy/" data-send="false" data-layout="box_count" data-action="like" data-width="290" data-show-faces="false"></div>
+<div class="fb-like" data-href="https://game-solver.com/privacy-policy/" data-send="false" data-layout="box_count" data-action="like" data-width="290" data-show-faces="false"></div>
 </div>
 </li>
 </ul>
 </div>
 </div>
 <hr>
-<div id="ad-bottom">
-<script>
-   googletag.cmd.push(function() {
-   googletag.display('ad-bottom') });
-</script>
 </div>
-<br>
-</div> 
 <div id="widgets" class="grid col-300 fit">
 <div id="ad-side">
-<script>
-   googletag.cmd.push(function() {
-   googletag.display('ad-side') });
-</script>
+<script>googletag.cmd.push(function(){googletag.display('ad-side')});</script>
 </div>
-<br>
-<div id="mailchimpsf_widget-2" class="widget-wrapper widget_mailchimpsf_widget"><div class="widget-title"><h3>Sign up for Game Solver</h3></div>
-<style>.widget_mailchimpsf_widget .widget-title{line-height:1.4em;margin-bottom:0.75em;}#mc_subheader{line-height:1.25em;margin-bottom:18px;}.mc_merge_var{margin-bottom:1.0em;}.mc_var_label,.mc_interest_label{display:block;margin-bottom:0.5em;}.mc_input{-moz-box-sizing:border-box;-webkit-box-sizing:border-box;box-sizing:border-box;width:100%;}.mc_input.mc_phone{width:auto;}select.mc_select{margin-top:0.5em;width:100%;}.mc_address_label{margin-top:1.0em;margin-bottom:0.5em;display:block;}.mc_address_label~select{width:100%;}.mc_list li{list-style:none;background:none!important;}.mc_interests_header{margin-top:1.0em;margin-bottom:0.5em;}.mc_interest label,.mc_interest input{margin-bottom:0.4em;}#mc_signup_submit{margin-top:1.5em;width:80%;}#mc_unsub_link a{font-size:0.75em;}#mc_unsub_link{margin-top:1.0em;}.mc_header_address,.mc_email_format{display:block;font-weight:bold;margin-top:1.0em;margin-bottom:0.5em;}.mc_email_options{margin-top:0.5em;}.mc_email_type{padding-left:4px;}</style>
+<br><div id="mailchimpsf_widget-2" class="widget-wrapper widget_mailchimpsf_widget"><div class="widget-title"><h3>Sign up for Game Solver</h3></div>
 <div id="mc_signup">
 <form method="post" action="#mc_signup" id="mc_signup_form">
 <input type="hidden" id="mc_submit_type" name="mc_submit_type" value="html">
 <input type="hidden" name="mcsf_action" value="mc_submit_signup_form">
-<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="2c44cacbea">
+<input type="hidden" id="_mc_submit_signup_form_nonce" name="_mc_submit_signup_form_nonce" value="719303ce66">
 <div id="mc_subheader">
-Receive latest top game answers, cheats, walkthrough from us </div> 
+Receive latest top game answers, cheats, walkthrough from us </div>
 <div class="mc_form_inside">
 <div class="updated" id="mc_message">
-</div> 
+</div>
 <div class="mc_merge_var">
-<label for="mc_mv_EMAIL" class="mc_var_label mc_header mc_header_email">Email Address</label>
+<label for="mc_mv_EMAIL" class="mc_var_label mc_header mc_header_email">Email Address<span class="mc_required">*</span></label>
 <input type="text" size="18" placeholder="" name="mc_mv_EMAIL" id="mc_mv_EMAIL" class="mc_input">
-</div> 
+</div>
+<div class="mc_merge_var">
+<label for="mc_mv_FNAME" class="mc_var_label mc_header mc_header_text">First Name</label>
+<input type="text" size="18" placeholder="" name="mc_mv_FNAME" id="mc_mv_FNAME" class="mc_input">
+</div>
+<div class="mc_merge_var">
+<label for="mc_mv_LNAME" class="mc_var_label mc_header mc_header_text">Last Name</label>
+<input type="text" size="18" placeholder="" name="mc_mv_LNAME" id="mc_mv_LNAME" class="mc_input">
+</div> <div id="mc-indicates-required">
+* = required field </div>
 <div class="mc_signup_submit">
 <input type="submit" name="mc_signup_submit" id="mc_signup_submit" value="Sign up" class="button">
-</div> 
-</div> 
-</form> 
-</div> 
-</div><div id="text-6" class="widget-wrapper widget_text"><div class="widget-title"><h3>Games Just Added</h3></div> <div class="textwidget"><div class="juz-icon"><a href="http://game-solver.com/clash-royale-shop-card-purchase-cheat-sheet/" title="Clash Royale Shop Card Purchase Cheat Sheet"><img src="http://game-solver.com/wp-content/uploads/2016/04/Clash-Royale-Shop-Card-Purchase-Cheat-Sheet-Logo-100x100.png" alt="Clash Royale Shop Card Purchase Cheat Sheet" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/clash-royale-shop-card-purchase-cheat-sheet/" title="Clash Royale Shop Card Purchase Cheat Sheet">Clash Royale Shop Card Purchase Cheat Sheet</a></div></div><div class="juz-icon"><a href="http://game-solver.com/clash-royale-spell-cards-cheat-sheet/" title="Clash Royale Spell Cards Cheat Sheet"><img src="http://game-solver.com/wp-content/uploads/2016/04/Clash-Royale-Spell-Cards-Cheat-Sheet-100x100.png" alt="Clash Royale Spell Cards Cheat Sheet" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/clash-royale-spell-cards-cheat-sheet/" title="Clash Royale Spell Cards Cheat Sheet">Clash Royale Spell Cards Cheat Sheet</a></div></div><div class="juz-icon"><a href="http://game-solver.com/clash-royale-building-cards-cheat-sheet/" title="Clash Royale Building Cards Cheat Sheet"><img src="http://game-solver.com/wp-content/uploads/2016/04/Clash-Royale-Building-Cards-Cheat-Sheet-100x100.png" alt="Clash Royale Building Cards Cheat Sheet" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/clash-royale-building-cards-cheat-sheet/" title="Clash Royale Building Cards Cheat Sheet">Clash Royale Building Cards Cheat Sheet</a></div></div><div class="juz-icon"><a href="http://game-solver.com/clash-royale-troop-cards-cheat-sheet/" title="Clash Royale Troop Cards Cheat Sheet"><img src="http://game-solver.com/wp-content/uploads/2016/04/Clash-Royale-Troop-Cards-Cheat-Sheet-100x100.png" alt="Clash Royale Troop Cards Cheat Sheet" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/clash-royale-troop-cards-cheat-sheet/" title="Clash Royale Troop Cards Cheat Sheet">Clash Royale Troop Cards Cheat Sheet</a></div></div><div class="juz-icon"><a href="http://game-solver.com/crossword-quiz-crossword-puzzle-answers/" title="Crossword Quiz Crossword Puzzle Answers"><img src="http://game-solver.com/wp-content/uploads/2016/03/Crossword-Quiz-Crossword-Puzzle-Answers-100x100.png" alt="Crossword Quiz Crossword Puzzle Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/crossword-quiz-crossword-puzzle-answers/" title="Crossword Quiz Crossword Puzzle Answers">Crossword Quiz Crossword Puzzle Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/spy-words-answers/" title="Spy Words Answers"><img src="http://game-solver.com/wp-content/uploads/2016/03/Spy-Words-Answers-100x100.png" alt="Spy Words Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/spy-words-answers/" title="Spy Words Answers">Spy Words Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/word-whizzle-answers/" title="Word Whizzle Answers"><img src="http://game-solver.com/wp-content/uploads/2016/03/Word-Whizzle-Answers-100x100.png" alt="Word Whizzle Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/word-whizzle-answers/" title="Word Whizzle Answers">Word Whizzle Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/word-whizzle-daily-answers/" title="Word Whizzle Daily Answers"><img src="http://game-solver.com/wp-content/uploads/2016/03/Word-Whizzle-Daily-Answers-100x100.png" alt="Word Whizzle Daily Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/word-whizzle-daily-answers/" title="Word Whizzle Daily Answers">Word Whizzle Daily Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/cube-escape-birthday-walkthrough/" title="Cube Escape: Birthday Walkthrough"><img src="http://game-solver.com/wp-content/uploads/2016/03/Cube-Escape-Birthday-Walkthrough-100x100.png" alt="Cube Escape: Birthday Walkthrough" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/cube-escape-birthday-walkthrough/" title="Cube Escape: Birthday Walkthrough">Cube Escape: Birthday Walkthrough</a></div></div><div class="juz-icon"><a href="http://game-solver.com/comic-superhero-quiz-answers/" title="Comic Superhero Quiz Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/Comic-Superhero-Quiz-Answers-100x100.png" alt="Comic Superhero Quiz Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/comic-superhero-quiz-answers/" title="Comic Superhero Quiz Answers">Comic Superhero Quiz Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/cartoon-quiz-for-pokemon-fans-answers/" title="Cartoon Quiz For Pokemon Fans Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/Cartoon-Quiz-For-Pokemon-Fans-Answers-100x100.png" alt="Cartoon Quiz For Pokemon Fans Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/cartoon-quiz-for-pokemon-fans-answers/" title="Cartoon Quiz For Pokemon Fans Answers">Cartoon Quiz For Pokemon Fans Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/all-guess-mortal-kombat-answers/" title="All Guess Mortal Kombat Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/All-Guess-Mortal-Kombat-Answers-100x100.png" alt="All Guess Mortal Kombat Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/all-guess-mortal-kombat-answers/" title="All Guess Mortal Kombat Answers">All Guess Mortal Kombat Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/aaa-trivia-quiz-game-of-car-brand-answers/" title="Aaa Trivia Quiz Game of Car Brand Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/Aaa-Trivia-Quiz-Game-of-Car-Brand-Answers-100x100.png" alt="Aaa Trivia Quiz Game of Car Brand Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/aaa-trivia-quiz-game-of-car-brand-answers/" title="Aaa Trivia Quiz Game of Car Brand Answers">Aaa Trivia Quiz Game of Car Brand Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/pic-quiz-2015-answers/" title="Pic Quiz 2015 Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/Pic-Quiz-2015-Answers-100x100.png" alt="Pic Quiz 2015 Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/pic-quiz-2015-answers/" title="Pic Quiz 2015 Answers">Pic Quiz 2015 Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/puzzle-words-answers/" title="Puzzle Words Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/Puzzle-Words-Answers-100x100.png" alt="Puzzle Words Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/puzzle-words-answers/" title="Puzzle Words Answers">Puzzle Words Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/vowelz-answers/" title="Vowelz Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/Vowelz-Answers-100x100.png" alt="Vowelz Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/vowelz-answers/" title="Vowelz Answers">Vowelz Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/team-blankz-answers/" title="Team Blankz Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/Team-Blankz-Answers-100x100.png" alt="Team Blankz Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/team-blankz-answers/" title="Team Blankz Answers">Team Blankz Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/plot-twistz-answers/" title="Plot Twistz Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/Plot-Twistz-Answers-100x100.png" alt="Plot Twistz Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/plot-twistz-answers/" title="Plot Twistz Answers">Plot Twistz Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/sports-wordz-answers/" title="Sports Wordz Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/Sports-Wordz-Answers-100x100.png" alt="Sports Wordz Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/sports-wordz-answers/" title="Sports Wordz Answers">Sports Wordz Answers</a></div></div><div class="juz-icon"><a href="http://game-solver.com/space-wordz-answers/" title="Space Wordz Answers"><img src="http://game-solver.com/wp-content/uploads/2015/08/Space-Wordz-Answers-100x100.png" alt="Space Wordz Answers" scale="0" height="80" width="80"></a>
-<div class="juz-icon-text"><a href="http://game-solver.com/space-wordz-answers/" title="Space Wordz Answers">Space Wordz Answers</a></div></div></div>
-</div><div id="text-8" class="widget-wrapper widget_text"><div class="widget-title"><h3>Translate</h3></div> <div class="textwidget"><div id="google_translate_element"></div><script type="text/javascript">
-function googleTranslateElementInit() {
-  new google.translate.TranslateElement({pageLanguage: 'en', gaTrack: true, gaId: 'UA-39163985-1'}, 'google_translate_element');
-}
-</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
+</div>
+</div>
+</form>
+</div>
+</div><div id="text-6" class="widget-wrapper widget_text"><div class="widget-title"><h3>Games Just Added</h3></div> <div class="textwidget"><div class="juz-icon"><a href="https://game-solver.com/wordalot-answers/" title="Wordalot Answers"><img src="https://game-solver.com/wp-content/uploads/2017/02/Wordalot-Answers-100x100.png" alt="Wordalot Answers" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/wordalot-answers/" title="Wordalot Answers">Wordalot Answers</a></div></div><div class="juz-icon"><a href="https://game-solver.com/emojination-2-answers/" title="EmojiNation 2 Answers"><img src="https://game-solver.com/wp-content/uploads/2017/02/emojination-2-answers-100x100.png" alt="EmojiNation 2 Answers" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/emojination-2-answers/" title="EmojiNation 2 Answers">EmojiNation 2 Answers</a></div></div><div class="juz-icon"><a href="https://game-solver.com/tricky-test-2-genius-brain-walkthrough/" title="Tricky Test 2 Genius Brain Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2017/01/tricky-test-2-genius-brain-walkthrough-100x100.png" alt="Tricky Test 2 Genius Brain Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/tricky-test-2-genius-brain-walkthrough/" title="Tricky Test 2 Genius Brain Walkthrough">Tricky Test 2 Genius Brain Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/dumb-ways-to-die-2-walkthrough/" title="Dumb Ways to Die 2 Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2017/01/dumb-ways-to-die-2-walkthrough-100x100.png" alt="Dumb Ways to Die 2 Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/dumb-ways-to-die-2-walkthrough/" title="Dumb Ways to Die 2 Walkthrough">Dumb Ways to Die 2 Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/hidden-my-game-by-mom-2-escape-room-walkthrough/" title="Hidden My Game By Mom 2 Escape Room Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2017/01/Hidden-My-Game-By-Mom-2-Escape-Room-Walkthrough-100x100.png" alt="Hidden My Game By Mom 2 Escape Room Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/hidden-my-game-by-mom-2-escape-room-walkthrough/" title="Hidden My Game By Mom 2 Escape Room Walkthrough">Hidden My Game By Mom 2 Escape Room Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/room-escape-apartment-6-walkthrough/" title="Room Escape: Apartment 6 Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2017/01/Room-Escape-Apartment-6-Walkthrough-100x100.png" alt="Room Escape: Apartment 6 Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/room-escape-apartment-6-walkthrough/" title="Room Escape: Apartment 6 Walkthrough">Room Escape: Apartment 6 Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/escape-room-apartment-7-walkthrough/" title="Escape Room: Apartment 7 Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2016/12/Escape-Room-Apartment-7-Walkthrough-100x100.png" alt="Escape Room: Apartment 7 Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/escape-room-apartment-7-walkthrough/" title="Escape Room: Apartment 7 Walkthrough">Escape Room: Apartment 7 Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/escape-room-apartment-8-walkthrough/" title="Escape Room: Apartment 8 Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2016/12/Escape-Room-Apartment-8-Walkthrough-v2-100x100.png" alt="Escape Room: Apartment 8 Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/escape-room-apartment-8-walkthrough/" title="Escape Room: Apartment 8 Walkthrough">Escape Room: Apartment 8 Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/escape-room-apartment-12-walkthrough/" title="Escape Room: Apartment 12 Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2016/12/Escape-Room-Apartment-12-Walkthrough-100x100.png" alt="Escape Room: Apartment 12 Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/escape-room-apartment-12-walkthrough/" title="Escape Room: Apartment 12 Walkthrough">Escape Room: Apartment 12 Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/escape-room-apartment-11-walkthrough/" title="Escape Room: Apartment 11 Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2016/11/Escape-Room-Apartment-11-Walkthrough-100x100.png" alt="Escape Room: Apartment 11 Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/escape-room-apartment-11-walkthrough/" title="Escape Room: Apartment 11 Walkthrough">Escape Room: Apartment 11 Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/escape-room-apartment-10-walkthrough/" title="Escape Room: Apartment 10 Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2016/11/Escape-Room-Apartment-10-Walkthrough-100x100.png" alt="Escape Room: Apartment 10 Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/escape-room-apartment-10-walkthrough/" title="Escape Room: Apartment 10 Walkthrough">Escape Room: Apartment 10 Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/escape-room-apartment-9-walkthrough/" title="Escape Room: Apartment 9 Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2016/11/Escape-Room-Apartment-9-Walkthrough-v2-100x100.png" alt="Escape Room: Apartment 9 Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/escape-room-apartment-9-walkthrough/" title="Escape Room: Apartment 9 Walkthrough">Escape Room: Apartment 9 Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/hidden-my-game-by-mom-escape-room-walkthrough/" title="Hidden My Game By Mom Escape Room Walkthrough"><img src="https://game-solver.com/wp-content/uploads/2016/10/Hidden-My-Game-By-Mom-Escape-Room-Walkthrough-100x100.png" alt="Hidden My Game By Mom Escape Room Walkthrough" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/hidden-my-game-by-mom-escape-room-walkthrough/" title="Hidden My Game By Mom Escape Room Walkthrough">Hidden My Game By Mom Escape Room Walkthrough</a></div></div><div class="juz-icon"><a href="https://game-solver.com/pokemon-go-iv-calculator/" title="Pokémon Go IV Calculator"><img src="https://game-solver.com/wp-content/uploads/2016/08/Pokemon-Go-IV-Calculator-100x100.png" alt="Pokémon Go IV Calculator" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/pokemon-go-iv-calculator/" title="Pokémon Go IV Calculator">Pokémon Go IV Calculator</a></div></div><div class="juz-icon"><a href="https://game-solver.com/letter-soup-cafe-answers/" title="Letter Soup Cafe Answers"><img src="https://game-solver.com/wp-content/uploads/2016/05/Letter-Soup-Cafe-Answers-100x100.png" alt="Letter Soup Cafe Answers" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/letter-soup-cafe-answers/" title="Letter Soup Cafe Answers">Letter Soup Cafe Answers</a></div></div><div class="juz-icon"><a href="https://game-solver.com/emoji-brain-guess-the-emoji-answers/" title="Emoji Brain Guess The Emoji Answers"><img src="https://game-solver.com/wp-content/uploads/2016/03/Emoji-Brain-Guess-The-Emoji-Answers-100x100.png" alt="Emoji Brain Guess The Emoji Answers" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/emoji-brain-guess-the-emoji-answers/" title="Emoji Brain Guess The Emoji Answers">Emoji Brain Guess The Emoji Answers</a></div></div><div class="juz-icon"><a href="https://game-solver.com/word-trek-answers/" title="Word Trek Answers"><img src="https://game-solver.com/wp-content/uploads/2016/05/Word-Trek-Answers-100x100.png" alt="Word Trek Answers" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/word-trek-answers/" title="Word Trek Answers">Word Trek Answers</a></div></div><div class="juz-icon"><a href="https://game-solver.com/psych-animals-real-answers/" title="Psych Animals Real Answers"><img src="https://game-solver.com/wp-content/uploads/2016/05/Psych-Animals-Real-Answers-100x100.png" alt="Psych Animals Real Answers" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/psych-animals-real-answers/" title="Psych Animals Real Answers">Psych Animals Real Answers</a></div></div><div class="juz-icon"><a href="https://game-solver.com/psych-adults-only-real-answers/" title="Psych Adults Only Real Answers"><img src="https://game-solver.com/wp-content/uploads/2016/05/Psych-Adults-Only-Real-Answers-100x100.png" alt="Psych Adults Only Real Answers" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/psych-adults-only-real-answers/" title="Psych Adults Only Real Answers">Psych Adults Only Real Answers</a></div></div><div class="juz-icon"><a href="https://game-solver.com/psych-proverbs-real-answers/" title="Psych Proverbs Real Answers"><img src="https://game-solver.com/wp-content/uploads/2016/05/Psych-Proverbs-Real-Answers-100x100.png" alt="Psych Proverbs Real Answers" scale="0" height="80" width="80"></a>
+<div class="juz-icon-text"><a href="https://game-solver.com/psych-proverbs-real-answers/" title="Psych Proverbs Real Answers">Psych Proverbs Real Answers</a></div></div></div>
+</div><div id="text-8" class="widget-wrapper widget_text"><div class="widget-title"><h3>Translate</h3></div> <div class="textwidget"><div id="google_translate_element"></div><script type="text/javascript">function googleTranslateElementInit(){new google.translate.TranslateElement({pageLanguage:'en',gaTrack:true,gaId:'UA-39163985-1'},'google_translate_element');}</script><script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </div>
 </div><div id="text-10" class="widget-wrapper widget_text"> <div class="textwidget"><div align="center">
 <div class="fb-like-box" data-href="https://www.facebook.com/pages/Game-Solver/656964594328989" data-width="280" data-show-faces="true" data-header="false" data-stream="false" data-show-border="false"></div>
 </div></div>
 </div>
-</div> 
-</div> 
-</div> 
+</div>
+</div>
+</div>
 <div id="footer" class="clearfix">
 <div id="footer-wrapper">
 <div class="grid col-940">
 <div class="grid col-540">
-<ul id="menu-footer-menu" class="footer-menu"><li id="menu-item-2673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2673"><a href="http://game-solver.com/home/">Home</a></li>
-<li id="menu-item-2672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2672"><a href="http://game-solver.com/search/">Search</a></li>
-<li id="menu-item-6934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6934"><a href="http://game-solver.com/disclaimer/">Disclaimer</a></li>
-<li id="menu-item-6935" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6919 current_page_item menu-item-6935"><a href="http://game-solver.com/privacy-policy/">Privacy Policy</a></li>
-<li id="menu-item-2671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2671"><a href="http://game-solver.com/contact-us/">Contact Us</a></li>
+<ul id="menu-footer-menu" class="footer-menu"><li id="menu-item-2673" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2673"><a href="https://game-solver.com/home/">Home</a></li>
+<li id="menu-item-2672" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2672"><a href="https://game-solver.com/search/">Search</a></li>
+<li id="menu-item-6934" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-6934"><a href="https://game-solver.com/disclaimer/">Disclaimer</a></li>
+<li id="menu-item-6935" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-6919 current_page_item menu-item-6935"><a href="https://game-solver.com/privacy-policy/">Privacy Policy</a></li>
+<li id="menu-item-2671" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-2671"><a href="https://game-solver.com/contact-us/">Contact Us</a></li>
 </ul> </div>
- 
 <div class="grid col-380 fit">
-<ul class="social-icons"><li class="twitter-icon"><a href="https://twitter.com/juzhax"><img src="http://game-solver.com/wp-content/themes/responsivepro/core/icons/twitter-icon.png" width="24" height="24" alt="Twitter"></a></li><li class="facebook-icon"><a href="http://www.facebook.com/pages/Game-Solver/656964594328989"><img src="http://game-solver.com/wp-content/themes/responsivepro/core/icons/facebook-icon.png" width="24" height="24" alt="Facebook"></a></li><li class="youtube-icon"><a href="http://www.youtube.com/user/wordssolver"><img src="http://game-solver.com/wp-content/themes/responsivepro/core/icons/youtube-icon.png" width="24" height="24" alt="YouTube"></a></li><li class="googleplus-icon"><a href="https://plus.google.com/114534460920745767515"><img src="http://game-solver.com/wp-content/themes/responsivepro/core/icons/googleplus-icon.png" width="24" height="24" alt="Google+"></a></li></ul>  </div>
- 
+<ul class="social-icons"><li class="twitter-icon"><a href="https://twitter.com/juzhax"><img src="https://game-solver.com/wp-content/themes/responsivepro/core/icons/twitter-icon.png" width="24" height="24" alt="Twitter"></a></li><li class="facebook-icon"><a href="http://www.facebook.com/pages/Game-Solver/656964594328989"><img src="https://game-solver.com/wp-content/themes/responsivepro/core/icons/facebook-icon.png" width="24" height="24" alt="Facebook"></a></li><li class="youtube-icon"><a href="http://www.youtube.com/user/wordssolver"><img src="https://game-solver.com/wp-content/themes/responsivepro/core/icons/youtube-icon.png" width="24" height="24" alt="YouTube"></a></li><li class="googleplus-icon"><a href="https://plus.google.com/114534460920745767515"><img src="https://game-solver.com/wp-content/themes/responsivepro/core/icons/googleplus-icon.png" width="24" height="24" alt="Google+"></a></li></ul> </div>
 </div>
- 
 <div class="grid col-300 copyright">
-© 2016<a href="http://game-solver.com/" title="Game Solver">
+© 2017<a href="https://game-solver.com/" title="Game Solver">
 Game Solver </a>
 </div>
- 
 <div class="grid col-300 scroll-top"><a href="#scroll-top" title="scroll to top">↑</a></div>
 <div class="grid col-300 fit powered">
 <a href="http://cyberchimps.com/responsive-theme/" title="Responsive Theme">
@@ -425,163 +281,35 @@ Responsive Theme</a>
 powered by <a href="http://wordpress.org/" title="WordPress">
 WordPress</a>
 </div>
- 
 </div>
- 
-</div> 
-<script type="text/javascript">
-        // <![CDATA[
-        var disqus_shortname = 'gamesolver';
-        (function () {
-            var nodes = document.getElementsByTagName('span');
-            for (var i = 0, url; i < nodes.length; i++) {
-                if (nodes[i].className.indexOf('dsq-postid') != -1) {
-                    nodes[i].parentNode.setAttribute('data-disqus-identifier', nodes[i].getAttribute('data-dsqidentifier'));
-                    url = nodes[i].parentNode.href.split('#', 1);
-                    if (url.length == 1) { url = url[0]; }
-                    else { url = url[1]; }
-                    nodes[i].parentNode.href = url + '#disqus_thread';
-                }
-            }
-            var s = document.createElement('script'); 
-            s.async = true;
-            s.type = 'text/javascript';
-            s.src = '//' + disqus_shortname + '.disqus.com/count.js';
-            (document.getElementsByTagName('HEAD')[0] || document.getElementsByTagName('BODY')[0]).appendChild(s);
-        }());
-        // ]]>
-        </script>
+</div>
+<script type="text/javascript">var disqus_shortname='gamesolver';(function(){var nodes=document.getElementsByTagName('span');for(var i=0,url;i<nodes.length;i++){if(nodes[i].className.indexOf('dsq-postid')!=-1&&nodes[i].parentNode.tagName=='A'){nodes[i].parentNode.setAttribute('data-disqus-identifier',nodes[i].getAttribute('data-dsqidentifier'));url=nodes[i].parentNode.href.split('#',1);if(url.length==1){url=url[0];}else{url=url[1];}nodes[i].parentNode.href=url+'#disqus_thread';}}var s=document.createElement('script');s.async=true;s.type='text/javascript';s.src='//'+disqus_shortname+'.disqus.com/count.js';(document.getElementsByTagName('HEAD')[0]||document.getElementsByTagName('BODY')[0]).appendChild(s);}());</script>
 <div style="display:none">
 <div class="grofile-hash-map-d019c57b20e606b70b3cb3cce6f8074d">
 </div>
 </div>
 <div id="su-footer-links" style="text-align: center;"></div>
- 
-<script type="text/javascript">
-  (function() {
-    var po = document.createElement("script"); po.type = "text/javascript"; po.async = true;
-    po.src = "https://apis.google.com/js/plusone.js?publisherid=105610811389374160703";
-    var s = document.getElementsByTagName("script")[0]; s.parentNode.insertBefore(po, s);
-  })();
-</script>
-<script>
-  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
-  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
-  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-
-  ga('create', 'UA-39163985-1', 'auto');
-  ga('send', 'pageview');
-
-</script>
- 
-<script type="text/javascript">
-		window.WPCOM_sharing_counts = {"http:\/\/game-solver.com\/privacy-policy\/":6919};
-	</script>
-<script>
-			function renderGooglePlus1() {
-				if ( 'undefined' === typeof gapi ) {
-					return;
-				}
-
-				jQuery( '.g-plus' ).each(function() {
-					var $button = jQuery( this );
-
-					if ( ! $button.data( 'gplus-rendered' ) ) {
-						gapi.plusone.render( this, {
-							href: $button.attr( 'data-href' ),
-							size: $button.attr( 'data-size' ),
-							annotation: $button.attr( 'data-annotation' )
-						});
-
-						$button.data( 'gplus-rendered', true );
-					}
-				});
-			}
-
-			(function() {
-				var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
-				po.src = 'https://apis.google.com/js/plusone.js';
-				po.innerHTML = '{"parsetags": "explicit"}';
-				po.onload = renderGooglePlus1;
-				var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
-			})();
-
-			jQuery( document.body ).on( 'post-load', renderGooglePlus1 );
-			</script>
-<script type="text/javascript">
-			var windowOpen;
-		jQuery(document).on( 'ready post-load', function(){
-			jQuery( 'a.share-facebook' ).on( 'click', function() {
-				if ( 'undefined' !== typeof windowOpen ){ // If there's another sharing window open, close it.
-					windowOpen.close();
-				}
-				windowOpen = window.open( jQuery(this).attr( 'href' ), 'wpcomfacebook', 'menubar=1,resizable=1,width=600,height=400' );
-				return false;
-			});
-		});
-		</script>
+<script type="text/javascript">(function(){var po=document.createElement("script");po.type="text/javascript";po.async=true;po.src="https://apis.google.com/js/plusone.js?publisherid=105610811389374160703";var s=document.getElementsByTagName("script")[0];s.parentNode.insertBefore(po,s);})();</script>
+<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-39163985-1','auto');ga('send','pageview');</script>
+<script type="text/javascript">window.WPCOM_sharing_counts={"https:\/\/game-solver.com\/privacy-policy\/":6919};</script>
+<script>function renderGooglePlus1(){if('undefined'===typeof gapi){return;}jQuery('.g-plus').each(function(){var $button=jQuery(this);if(!$button.data('gplus-rendered')){gapi.plusone.render(this,{href:$button.attr('data-href'),size:$button.attr('data-size'),annotation:$button.attr('data-annotation')});$button.data('gplus-rendered',true);}});}(function(){var po=document.createElement('script');po.type='text/javascript';po.async=true;po.src='https://apis.google.com/js/plusone.js';po.innerHTML='{"parsetags": "explicit"}';po.onload=renderGooglePlus1;var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(po,s);})();jQuery(document.body).on('post-load',renderGooglePlus1);</script>
 <div id="fb-root"></div>
-<script>(function(d, s, id) { var js, fjs = d.getElementsByTagName(s)[0]; if (d.getElementById(id)) return; js = d.createElement(s); js.id = id; js.src = '//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3'; fjs.parentNode.insertBefore(js, fjs); }(document, 'script', 'facebook-jssdk'));</script>
-<script>
-			jQuery( document.body ).on( 'post-load', function() {
-				if ( 'undefined' !== typeof FB ) {
-					FB.XFBML.parse();
-				}
-			} );
-			</script>
-<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-<script type="text/javascript">
-				// Pinterest shared resources
-				var s = document.createElement("script");
-				s.type = "text/javascript";
-				s.async = true;
-				s.setAttribute('data-pin-hover', true);				s.src = window.location.protocol + "//assets.pinterest.com/js/pinit.js";
-				var x = document.getElementsByTagName("script")[0];
-				x.parentNode.insertBefore(s, x);
-				// if 'Pin it' button has 'counts' make container wider
-				jQuery(window).load( function(){ jQuery( 'li.share-pinterest a span:visible' ).closest( '.share-pinterest' ).width( '80px' ); } );
-			</script>
-<script type="text/javascript">
-			jQuery( document ).ready( function() {
-			    jQuery.getScript( '//platform.linkedin.com/in.js?async=true', function success() {
-			        IN.init();
-			    });
-			});
-			jQuery( document.body ).on( 'post-load', function() {
-				if ( typeof IN != 'undefined' )
-					IN.parse();
-			});
-			</script> <script>
-		// Don't use Pocket's default JS as it we need to force init new Pocket share buttons loaded via JS.
-		function jetpack_sharing_pocket_init() {
-			jQuery.getScript( 'https://widgets.getpocket.com/v1/j/btn.js?v=1' );
-		}
-		jQuery( document ).on( 'ready', jetpack_sharing_pocket_init );
-		jQuery( document.body ).on( 'post-load', jetpack_sharing_pocket_init );
-		</script>
-<script type="text/javascript" src="//platform.tumblr.com/v1/share.js"></script><script type="text/javascript">
-/* <![CDATA[ */
-var _wpcf7 = {"loaderUrl":"http:\/\/game-solver.com\/wp-content\/plugins\/contact-form-7-mailchimp-extension\/assets\/images\/fading-squares.gif","recaptchaEmpty":"Please verify that you are not a robot.","sending":"Sending ...","cached":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://game-solver.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
-<script type="text/javascript" src="http://s0.wp.com/wp-content/js/devicepx-jetpack.js"></script>
-<script type="text/javascript" src="http://game-solver.com/wp-content/themes/responsivepro/core/js/responsive-scripts.min.js"></script>
-<script type="text/javascript" src="http://game-solver.com/wp-content/themes/responsivepro/core/js/jquery.placeholder.min.js"></script>
-<script type="text/javascript" src="http://game-solver.com/wp-includes/js/wp-embed.min.js"></script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var sharing_js_options = {"lang":"en","counts":"1"};
-/* ]]> */
-</script>
-<script type="text/javascript" src="http://game-solver.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js"></script>
-<script type="text/javascript" src="http://stats.wp.com/e-201615.js" async="" defer=""></script>
-<script type="text/javascript">
-	_stq = window._stq || [];
-	_stq.push([ 'view', {v:'ext',j:'1:3.8.2',blog:'48253216',post:'6919',tz:'7',srv:'game-solver.com'} ]);
-	_stq.push([ 'clickTrackerInit', '48253216', '6919' ]);
-</script>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0c491460c5","applicationID":"1973781","transactionName":"YFMBNRBYChBVVxVYXFkZIgIWUAsNG0QAVlY=","queueTime":0,"applicationTime":261,"ttGuid":"","agentToken":"","atts":"TBQCQ1hCGR4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script>(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id))return;js=d.createElement(s);js.id=id;js.src='https://connect.facebook.net/en_US/sdk.js#xfbml=1&appId=249643311490&version=v2.3';fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<script>jQuery(document.body).on('post-load',function(){if('undefined'!==typeof FB){FB.XFBML.parse();}});</script>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document,'script','twitter-wjs');</script>
+<script type="text/javascript">var s=document.createElement("script");s.type="text/javascript";s.async=true;s.setAttribute('data-pin-hover',true);s.src=window.location.protocol+"//assets.pinterest.com/js/pinit.js";var x=document.getElementsByTagName("script")[0];x.parentNode.insertBefore(s,x);jQuery(window).load(function(){jQuery('li.share-pinterest a span:visible').closest('.share-pinterest').width('80px');});</script>
+<script type="text/javascript">jQuery(document).ready(function(){jQuery.getScript('https://platform.linkedin.com/in.js?async=true',function success(){IN.init();});});jQuery(document.body).on('post-load',function(){if(typeof IN!='undefined')IN.parse();});</script> <script>function jetpack_sharing_pocket_init(){jQuery.getScript('https://widgets.getpocket.com/v1/j/btn.js?v=1');}jQuery(document).ready(jetpack_sharing_pocket_init);jQuery(document.body).on('post-load',jetpack_sharing_pocket_init);</script>
+<script type="text/javascript" src="https://platform.tumblr.com/v1/share.js"></script><script type="text/javascript">var _wpcf7={"recaptcha":{"messages":{"empty":"Please verify that you are not a robot."}},"cached":"1"};</script>
+<script type="text/javascript" src="https://game-solver.com/wp-content/plugins/contact-form-7/includes/js/scripts.js"></script>
+<script type="text/javascript" src="https://s0.wp.com/wp-content/js/devicepx-jetpack.js"></script>
+<script type="text/javascript" src="https://game-solver.com/wp-content/themes/responsivepro/core/js/responsive-scripts.min.js"></script>
+<script type="text/javascript" src="https://game-solver.com/wp-content/themes/responsivepro/core/js/jquery.placeholder.min.js"></script>
+<script type="text/javascript" src="https://game-solver.com/wp-includes/js/wp-embed.min.js"></script>
+<script type="text/javascript">var sharing_js_options={"lang":"en","counts":"1"};</script>
+<script type="text/javascript" src="https://game-solver.com/wp-content/plugins/jetpack/modules/sharedaddy/sharing.js"></script>
+<script type="text/javascript">var windowOpen;jQuery(document.body).on('click','a.share-facebook',function(){if('undefined'!==typeof windowOpen){windowOpen.close();}windowOpen=window.open(jQuery(this).attr('href'),'wpcomfacebook','menubar=1,resizable=1,width=600,height=400');return false;});</script>
+<script type="text/javascript" src="https://stats.wp.com/e-201708.js" async="" defer=""></script>
+<script type="text/javascript">_stq=window._stq||[];_stq.push(['view',{v:'ext',j:'1:4.5',blog:'48253216',post:'6919',tz:'7',srv:'game-solver.com'}]);_stq.push(['clickTrackerInit','48253216','6919']);</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"0c491460c5","applicationID":"1955192","transactionName":"YFMBNRBYChBVVxVYXFkZIgIWUAsNG0QAVlY=","queueTime":0,"applicationTime":504,"atts":"TBQCQ1hCGR4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
- </body></html>
+</body></html>
