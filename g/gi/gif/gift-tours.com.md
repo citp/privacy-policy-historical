@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gift-tours.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023165537id_/http%3A//www.gift-tours.com/privacy-policy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gift-tours.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223133735id_/http%3A//gift-tours.com/privacy-policy.asp) for the most accurate reproduction.*
 
 # Traveltura - Privacy Policy
 
