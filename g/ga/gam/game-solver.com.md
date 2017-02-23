@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the game-solver.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414190917id_/http%3A//game-solver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the game-solver.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223063753id_/https%3A//game-solver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Game-Solver.com
 
