@@ -1,0 +1,463 @@
+<!--The following is the downloaded HTML source of the carbonpoker.ag privacy policy that was archived on 2017-02-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170223145929id_/https%3A//www.carbongaming.ag/info/privacyPolicy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+		
+			    
+	    <title>Privacy Policy</title>	    
+		<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<meta charset="utf-8">
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+<script async="" src="//www.google-analytics.com/analytics.js"></script><script crossorigin="anonymous" src="//ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+
+<!-- Latest compiled and minified CSS - Use custom css so we can hamburger the menu on anything less than lg-->
+<link rel="stylesheet" href="/static/ruicommon/_default//bootstrap.min.css">
+
+<!-- Optional theme -->
+<!--<link rel="stylesheet" href="//netdna.bootstrapcdn.com/bootstrap/3.1.1/css/bootstrap-theme.min.css">-->
+
+<!-- Latest compiled and minified JavaScript -->
+<script crossorigin="anonymous" src="//netdna.bootstrapcdn.com/bootstrap/3.1.1/js/bootstrap.min.js"></script>
+<script>
+    $.fn.modal || document.write('<script crossorigin="anonymous" src="/static/ruicommon/_default/bootstrap-3.1.1.min.js">\x3C/script>')
+</script>
+
+<link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/css/datepicker.min.css">
+<script type="text/javascript" crossorigin="anonymous" src="//cdnjs.cloudflare.com/ajax/libs/bootstrap-datepicker/1.3.0/js/bootstrap-datepicker.min.js"></script>
+<script type="text/javascript" crossorigin="anonymous" src="//cdnjs.cloudflare.com/ajax/libs/FitText.js/1.1/jquery.fittext.min.js"></script> 
+
+		
+		
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-3589495-17', 'auto');
+  ga('require', 'displayfeatures');
+  ga('send', 'pageview');
+  //backward compatability
+  var _gaq = ga;
+  /*  At some point each product needs to integrate with some kind of brand recognition and pass that brand to google analytics. */
+  
+    var dimensionValue = 'www.carbongaming.ag';
+  
+  ga('set', 'dimension1', dimensionValue);
+</script>		
+		<link href="/static/ruicommon/_default/global.css?version=8" rel="stylesheet" type="text/css">
+
+<script src="/static/tellercom/_default/ajaxy.min.js?version=1"></script>
+<script src="/static/tellercom/_default/eco-deposit.min.js?version=2"></script>
+<script src="/static/tellercom/_default/hashtable.min.js?version=1"></script>
+<script src="/static/tellercom/_default/jquery.numberformatter-1.2.4.min.js?version=1"></script>
+<script src="/static/tellercom/_default/jquery-dateFormat.min.js?version=1"></script>
+<script src="/static/tellercom/_default/cancel-withdrawal-widget.js?version=1"></script>
+<script src="/static/tellercom/_default/qrcode.js?version=1"></script>
+<script src="/static/tellercom/_default/jquery.qrcode.min.js?version=1"></script>
+<script src="/static/tellercom/_default/jquery.payment.min.js?version=1"></script>
+<script type="text/javascript" src="/static/ruicommon/_default/rui-sbk-global.js?v=2"></script>
+<script id="deposit-launch" type="text/javascript">
+        
+
+    $(document).ready(function() {
+   
+        //find the container
+        var _container = $('.deposit-container');
+        if( _container.size() == 0 )
+        {
+            $('<div class="deposit-container"></div>').appendTo($('body'));
+            _container = $('.deposit-container');
+        }
+            
+        var inline = _container.hasClass('deposit-inline');
+             
+        $('.deposit-launch').each( function(){
+            	 
+            $(this).bind('click', function(event){
+                var config = {
+                       url: "/eco/teller/deposit.ajax",
+                       mode: inline ? '' : 'modal'
+                };
+                var deposit = new Deposit(_container[0], config);
+                deposit.init();
+            });	 
+        });    
+   });
+
+function doLaunchDeposit( )
+  {
+      var  container = $('.deposit-container');
+      if (container.size() == 0) {
+             $('<div class="deposit-container"></div>').appendTo($('body'));
+             container = $('.deposit-container');
+     }
+      var config = {
+             url: "/eco/teller/deposit.ajax",
+             mode: 'modal'
+      };
+      var deposit = new Deposit(container, config);
+      deposit.init();
+  }
+
+   </script>
+
+<!-- CASHOUT DIALOG -->
+
+</head><body><div class="modal fade" id="cashoutModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel">
+  <div class="modal-dialog" role="document">
+    <div class="modal-content panel panel-primary">
+      <div class="modal-header panel-heading">
+                <h4 class="modal-title" id="cashoutTitle">Cash out bet</h4>
+      </div>
+      <div class="modal-body">
+       <div id="cashoutExplanation">Cash Out this wager before it expires at an adjusted amount.</div>
+       <div id="cashoutMessage">Cash out this wager now at an adjusted amount of <span class="cashoutAmount"> {amount}</span></div>
+       <div id="cashoutSkipConfirmation"><input id="cashoutSkipConfirmationCheckbox" type="checkbox"> Skip this confirmation box in the future.</div>
+      </div>
+      <div class="modal-footer">
+        <button type="button" class="btn btn-default" id="cancelBtn" data-dismiss="modal">Cancel</button>
+        <button type="button" class="btn btn-primary" id="okBtn">Cash Out</button>
+        <button type="button" class="btn btn-primary" id="doneBtn">Done</button>
+      </div>
+    </div>
+  </div>
+</div>
+
+<!-- CASHOUT DIALOG ENDS -->
+		<!-- Styles overridden by MPs-->
+		<link rel="shortcut icon" href="/static/ruicommon/www.carbongaming.ag/favicon.ico?v=1.0">
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="/static/ruicommon/www.carbongaming.ag/apple-touch-icon-114-precomposed.png">
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="/static/ruicommon/www.carbongaming.ag/apple-touch-icon-72-precomposed.png">
+<link rel="apple-touch-icon-precomposed" href="/static/ruicommon/www.carbongaming.ag/apple-touch-icon-57-precomposed.png">
+<link rel="stylesheet" type="text/css" href="//cloud.typography.com/7021894/7434952/css/fonts.css">
+<link href="/static/ruicommon/www.carbongaming.ag/theme.css?v=2.0" rel="stylesheet" type="text/css">
+<script type="text/javascript" src="/static/ruicommon/_default/misc.js"></script>
+<script>
+$(function(){
+	$('#menuCollapse').on('hide.bs.collapse', function () {
+		$('#imgToggle').html('<img src="/static/promos/www.carbongaming.ag/dinamic-promo-arrow-down.png" />');
+	})
+	$('#menuCollapse').on('show.bs.collapse', function () {
+		$('#imgToggle').html('<img src="/static/promos/www.carbongaming.ag/dinamic-promo-arrow-up.png" />');
+	})
+})
+</script>
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.1/css/swiper.min.css">
+<script src="https://cdnjs.cloudflare.com/ajax/libs/Swiper/3.4.1/js/swiper.jquery.min.js"></script>
+<!--// BONUS AVAILABILITY SCRIPT //-->
+<script src="/static/ruicommon/www.carbongaming.ag/awd_config.js?version=1.2"></script>
+<script src="/static/ruicommon/_default/bonus-availability.js?version=1.3"></script>	
+		<script>
+function setApplicationAuthenticatedData() {
+	if (document.URL.indexOf("/info/inactive") > -1) {
+		window.location = "/sbk/sportsbook4/home.sbk";
+	} else {
+		window.location.reload();
+	}
+}
+</script>
+
+	
+			
+	
+    
+    
+    	
+		
+<!-- ///////////////////////////////////////// PREVIEW MODE ///////////////////////////////////////// -->
+<div id="campreview_2" class="previewSiteOverlay" style="display:none;">
+<div>PREVIEW ENABLED<br><a href="/unpreview/">Click to Disable</a></div>
+</div>
+<!-- ///////////////////////////////////////// NAVBAR ///////////////////////////////////////// -->
+<nav id="navFixed" role="navigation" class="navbar navbar-inverse navbar-fixed-top"> 
+	<!-- Left Element -->
+	<div id="navHeader" class="navbar-header"> 
+		<button id="topNaviToggleButton" type="button" data-toggle="collapse" data-target=".navbar-collapse" class="navbar-toggle pull-left">
+			<span class="sr-only">Toggle navigation</span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+			<span class="icon-bar"></span>
+		</button>
+		<a href="/" class="navbar-brand"><img src="/static/ruicommon/www.carbongaming.ag/logo.png" class="img-responsive center-block"></a>
+	</div>
+	<!-- BRAND --> 
+	<!-- Right Element -->
+	<div class="navbar-header-rt">
+		<div id="header-customer-summary">
+			<!-- //////////////////////////////////////////////////////////////-->
+			<div id="navbar_login" class="dropdown pull-right secure" call-back="getCustomerInfoPanel">
+				<a href="#" id="navbar_dropdown_glyph" data-toggle="dropdown" class="dropdown-toggle">
+					<div class=" hidden-xs table-pos">
+					<div class="pull-left">
+						<div id="header-username" class="name-pos"></div>
+						<div id="header-balance"></div>
+					</div>
+					<div class="pull-right">
+						<div id="header-loggedin" class="glyphicon glyphicon-user btn-box2"></div>
+						<div id="header-message-count" class="badge badge-pos"></div>
+					</div>
+					</div>
+						<div id="header-login" class="hidden-xs">
+						<div class="glyphicon glyphicon-user"></div>
+						<div class="login-text">LOGIN</div>
+						<div class="clearfix"></div>
+					</div>
+					<span class="visible-xs login-pos">
+						<span id="header-loggedin-xs" class="glyphicon glyphicon-user btn-box1"></span>
+						<span id="header-message-count-xs" class="badge"></span>
+					</span>
+				</a>
+				<div id="customer-info-dropdown" class="dropdown-menu"></div>
+			</div>
+			<!-- //////////////////////////////////////////////////////////////-->
+			<div id="header-bet-icon" class="pull-right visible-xs">
+				<a href="#" class="jqModal" id="homeBet">
+					<span class="glyphicons bets-pos visible-xs">
+						<span class="btn-box glyphicon glyphicon-th-list"></span>
+						<span id="betCount" class="badge"></span>
+					</span>
+				</a>
+			</div>
+			<!-- //////////////////////////////////////////////////////////////-->
+			<div class="pull-right hidden-xs">
+				<a id="header-refresh" href="#" class="secure hidden" call-back="refreshHeader"><span class="glyphicon glyphicon-refresh"></span></a>
+			</div>
+			<!-- //////////////////////////////////////////////////////////////-->
+		</div>
+	</div>
+	<div class="visible-xs clearfix"></div>
+	<div class="row navbar-text visible-xs">
+		<div id="header-username-xs" class="col-xs-6 hidden"></div>
+		<div id="header-balance-xs" class="col-xs-6 pull-right hidden"></div>
+	</div>
+	<div id="navbar-ui-row-1" class="row navbar-text hidden-lg hidden-xs"></div>
+	<div class="navbar-collapse collapse" id="top-menu">
+		<ul class="nav navbar-nav">
+			<li id="poker-nav" data-product="POK"><a href="/poker/">Poker</a></li>
+			<li id="sports-nav" data-product="SBK"><a href="/sbk/sportsbook4/home.sbk?ccaCheck=true">Sports</a></li>
+			<li id="casino-nav" data-product="CAS"><a href="/casino/">Casino</a></li>
+			<li id="horses-nav" data-product="HOR"><a href="https://blrweb.gamingsystem.ag/RaceBook/redirect/?casinoid=7660">HORSES</a></li>
+			<li id="horses-nav"><a href="/promos/contests">Contests</a></li>
+			<li id="promos-nav"><a class="secure" href="/promos/deposit.sec">Promos</a></li>
+			<li id="deposit-nav"><a class="secure" href="#" casino-id="7660" call-back="doLaunchDeposit" onclick="$('.navbar-collapse').collapse('hide');">Deposit</a></li>
+			<li id="help-nav" class="hidden"><a href="/info/help">Help</a></li>
+		</ul>
+	</div>
+</nav>
+<div id="top-nav-customer-space" class="hidden"></div>
+<div id="logoutModal" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="logoutModal" aria-hidden="true">
+	<div class="modal-dialog modal-sm">
+		<div class="modal-content">
+			<div class="modal-body">
+				You have unread messages in your inbox.
+			</div>
+			<div class="modal-footer">
+				<a href="/ctr/ntscustomer/pl/rui/inbox.nts" id="logout-inbox" type="button" class="btn btn-default">View Messages</a>
+				<a href="/logout" id="logout-go" type="button" class="btn btn-primary">Logout</a>
+			</div>
+		</div>
+	</div>
+</div>
+<script type="text/javascript">
+var customerId = '';
+
+var headerBalance = '#balance#';
+var navId = '#navId#';
+var headerMessageCount = '#msgCount#';
+var headerUsername = '#username#';
+
+	var isDesktop = true;
+
+function iOSversion() {
+	if (/iP(hone|od|ad)/.test(navigator.platform)) {
+		var v = (navigator.appVersion).match(/OS (\d+)_(\d+)_?(\d+)?/);
+		return [parseInt(v[1], 10), parseInt(v[2], 10), parseInt(v[3] || 0, 10)];
+	}
+}
+var iOSversion = iOSversion();
+if (iOSversion && iOSversion[0] < 8) {
+	$(document).on("touchmove", function() {
+	   $('input').blur();
+	   $('#navFixed').css('position', 'fixed');
+	});
+	$(function() {
+		$('input').focus(function() {
+			$('#navFixed').css('position', 'absolute');
+		});
+		$('input').blur(function() {
+			$('#navFixed').css('position', 'fixed');
+		});
+	});
+}
+</script>
+<link rel="stylesheet" type="text/css" href="/static/ruicommon/_default/toastr.min.css">
+<script type="text/javascript" src="/static/ruicommon/_default/toastr.min.js"></script> 
+<script type="text/javascript" src="/static/ruicommon/_default/CRM_authentication_handler.js"></script> 
+<script type="text/javascript" src="/static/ruicommon/_default/navigation_header.js"></script> 
+<script type="text/javascript" src="/static/ruicommon/_default/jquery.bootstrap-growl.min.js"></script> 
+<script type="text/javascript" src="/static/ruicommon/_default/nts_config.js"></script> 
+<script type="text/javascript" src="/static/ruicommon/_default/nts_messaging.js"></script> 
+<script type="text/javascript" src="/static/ruicommon/_default/mms_message.js"></script> 
+<script type="text/javascript" src="/static/ruicommon/_default/lowbalancebubble.js"></script>
+<script type="text/javascript" src="/static/ruicommon/_default/bonusactivate.min.js"></script>
+<script type="text/javascript" src="/static/ntscust/_default/jquery.fancybox.pack.js"></script>
+<link rel="stylesheet" type="text/css" href="/static/ntscust/_default/jquery.fancybox.css">
+		
+		<div class="container-fluid">
+	<div class="row"> 
+		<!-- Left panel navigation include -->
+		<div class="col-xs-12 col-sm-2" id="left-sidebar">
+	<button type="button" class="navbar-toggle collapsed btn btn-sm btn-primary btn-block" data-toggle="collapse" data-target="#sidebar-collapse" aria-expanded="false">
+		Menu ▼
+	</button>
+	<div class="collapse navbar-collapse" id="sidebar-collapse">
+		<ul class="nav">
+			<li class="menuTitle hidden-xs">Information</li>
+			<li>
+				<a href="/info/contactUs" class="secure">Contact Us</a>
+			</li>
+			<li>
+				<a href="/info/withdrawals">Withdrawals</a>
+			</li>
+			<li>
+				<a href="/info/deposits">Deposits</a>
+			</li>
+			<li>
+				<a href="/info/privacyPolicy">Privacy Policy</a>
+			</li>
+			<li>
+				<a href="/info/socialResponsibility">Social Responsibility</a>
+			</li>
+			<li>
+				<a href="/info/houseRules">House Rules</a>
+			</li>
+			<li>
+				<a href="/info/aboutUs">About</a>
+			</li>
+			<li>
+				<a href="/info/knowYourCustomer">Know Your Customer</a>
+			</li>
+		</ul>
+	</div>
+</div>
+		<!-- Left panel navigation include end --> 
+		<div class="col-xs-12 col-sm-10 col-lg-10" id="main-content">
+			<div class="InfoPages"> 
+				<div class="pageTitle">Privacy Policy</div>
+				<div class="textContainer">
+					
+					<div class="media">
+						<span class="pull-left"><img class="media-object" src="/static/ruicommon/_default/header-title-privacy-policy.png"> </span>
+						<div class="media-body">
+							<h2 class="media-heading">At CarbonGaming.ag, we have created this statement in order to demonstrate our firm commitment to privacy.</h2>
+						</div>
+					</div>
+					<h4>IP Address</h4>
+					<p> We use your IP address to help diagnose problems with our server and to administer our web site.  When placing a wager, or logging onto our secure server, your IP address is tracked against your user ID for the dual purposes of preventing fraud, and creating an audit trail.  This information is not used or accessed for any other purpose.</p>
+					<p>We collect aggregate information site-wide, including anonymous site statistics (eg. the number of page views or visits a certain section of our web site has received).  We review and discard the information in some cases (eg. IP address logs for file transfers), while in others we may use the information to improve our users' experience and analyze the effectiveness of our advertising.</p>
+					<h4>Registration Form, Contests, Surveys and Order Forms</h4>
+					<p>The online forms at CarbonGaming.ag request that you provide us with contact and/or financial information which may include some or all of the following: name, address, cell phone number, email address, credit card number(s).  We use the contact details provided to send you information about our company and to communicate with you when necessary.  You may opt-out of receiving future mailings or SMS text messages at any time; see the choice/opt-out section below.</p>
+					<p> This personal information is not gathered by us without your knowledge, permission and active participation and is only utilized by CarbonGaming.ag in the course of running the site or during its own marketing mail-outs.  Participants' details are not sold or shared with any other entities. </p>
+					<p>The financial information that is collected is used to check members' qualifications for registration and/or to bill members for products and services.</p>
+					<h4>Security </h4>
+					<p>The CarbonGaming.ag site has stringent security measures in place to protect the loss, misuse and alteration of the information under our control.</p>
+					<p>Our member database is stored on a secure remote offsite server. It is protected with an industrial strength firewall and monitored 24/7 by skilled security specialists and automated intruder detection mechanisms.</p>
+					<p>Personal information is submitted using high security 128bit encryption. Any wagers or transactions are transmitted using high security 128bit encryption.</p>
+					<h4>Choice/Opt-Out of CarbonGaming.ag</h4>
+					<p>This function only provides members/visitors the opportunity to opt-out of receiving communications from us. </p>
+					<p>You can <a href="/list">CLICK HERE</a> and enter the e-mail address you want to remove from our list.</p>
+					<p>You can <a href="/unsubscribe">CLICK HERE</a> and enter the cell phone number that you want to remove from our list. </p>
+					<p>You may request the closure of your wagering account at any time as long as there is no balance and no pending wagers. </p>
+					<h4>Correcting or Updating Personal Information</h4>
+					<p>CarbonGaming.ag provides members with the secure "My Account" area for changing and modifying information previously provided. </p>
+					<h4>Contacting the Web Site </h4>
+					<p>If you have any questions about this privacy statement, the practices of this site or your dealings with this web site, you can contact: <a href="mailto:privacy@CarbonGaming.ag" class="btn-link">privacy@CarbonGaming.ag</a></p>
+					
+				</div>
+			</div>
+		</div>
+	</div>
+</div>
+
+		
+		
+
+<footer> 
+  <!--///////////////////////// Footer Payments //////////////////////////////// -->
+        <div class="text-center">
+		<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center visible-lg visible-md">
+			<a href="/poker">Poker</a>
+			&nbsp;|
+			<a href="/sbk/sportsbook4/home.sbk">Sports</a>
+			&nbsp;|
+			<a href="/casino">Casino</a>
+			&nbsp;|
+			<a href="/horses">Horses</a>
+			&nbsp;|
+			<a href="/contests/fantasy">Fantasy</a>
+			&nbsp;|
+			<a href="/info/knowYourCustomer">Know Your Customer</a>
+			&nbsp;|
+			<a href="/info/houseRules">House Rules</a>
+			&nbsp;|
+			<a href="/info/privacyPolicy">Privacy Policy</a>
+			&nbsp;|
+			<a href="/info/socialResponsibility">Responsibility</a>
+			&nbsp;|
+			<a href="/info/contactUs">Contact Us</a>
+		</div>
+		<div class="cp-sprites-bottom-divider center-block img-responsive visible-lg visible-md"></div>
+		<div class="row center-block text-left">
+			<div class="col-md-4 text-left cg-copy-social">
+				<ul id="copydate" class="list-inline"><li>Copyright © 2017 CarbonGaming.ag</li></ul>
+			</div>
+			<div class="col-md-4 text-center">
+				<ul class="list-inline">
+					<li><span class="cp-sprites-over-18"></span></li>
+					<li><a href="http://www.gamblersanonymous.org/ga/" target="_blank"><span class="cs-sprites-pa"></span></a></li>
+				</ul>
+			</div>         
+		<!--<div class="col-md-4 text-right cg-copy-social">
+			<ul class="list-inline">
+				<li class="footer-social"><a href="https://twitter.com/CarbonPoker" title="CarbonPoker Twitter" class="cp-sprites-twitter-icon-gray" target="_blank"></a></li>
+				<li class="footer-social"><a href="https://www.facebook.com/CarbonPoker" title="CarbonPoker Facebook" class="cp-sprites-facebook-icon" target="_blank"></a></li>
+				<li class="footer-social"><a href="http://instagram.com/carbonpoker" title="CarbonPoker Instagram" class="cp-sprites-instagram-icon" target="_blank"></a></li>
+				<li class="footer-social"><a href="https://www.youtube.com/user/OfficialCarbonPoker" title="CarbonPoker Youtube Channel" class="cp-sprites-youtube-icon" target="_blank"></a></li>
+			</ul>
+		</div>-->
+		</div>
+		<div class=" col-lg-12 col-md-12 col-sm-12 col-xs-12 text-center visible-xs visible-sm">
+			<div class="panel-group" id="accordion" role="tablist" aria-multiselectable="true">
+				<div class="panel panel-default">
+					<div class="panel-heading" role="tab" id="headingOne">
+						<h4 class="panel-title">
+							<a role="button" data-toggle="collapse" data-parent="#accordion" href="#populaPages" aria-expanded="false" aria-controls="populaPages">
+								Popular Pages
+							</a>
+						</h4>
+					</div>
+					<div id="populaPages" class="panel-collapse collapse" role="tabpanel" aria-labelledby="headingOne">
+						<ul class="list-group">
+							<li class="list-group-item"><a href="/poker">Poker</a></li>
+							<li class="list-group-item"><a href="/sbk/sportsbook4/home.sbk">Sports</a></li>
+							<li class="list-group-item"><a href="/casino">Casino</a></li>
+							<li class="list-group-item"><a href="/horses">Horses</a></li>
+							<li class="list-group-item"><a href="/contests/fantasy">Fantasy</a></li>
+							<li class="list-group-item"><a href="/info/knowYourCustomer">Know Your Customer</a></li>
+							<li class="list-group-item"><a href="/info/houseRules">House Rules</a></li>
+							<li class="list-group-item"><a href="/info/privacyPolicy">Privacy Policy</a></li>
+							<li class="list-group-item"><a href="/info/socialResponsibility">Responsibility</a></li>
+							<li class="list-group-item"><a href="/info/contactUs">Contact Us</a></li>
+						</ul>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="clearfix"></div>
+	</div>
+</footer>
+
+		
+	
+</body></html>
