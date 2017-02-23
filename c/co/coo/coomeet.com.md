@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coomeet.com privacy policy that was archived on 2016-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160331084847id_/https%3A//coomeet.com/en/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coomeet.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223195246id_/http%3A//coomeet.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Video chat & dating - COOMEET.COM
 
@@ -6,7 +6,7 @@ This privacy policy (hereinafter referred to as "Policy") applies to a video cha
 
 However, this Policy does not apply to the websites operated by third parties and other websites that have installed the Application.
 
-The latest version of this Policy can be found at the following address at any time: <http://coomeet.com/en/privacypolicy>.
+The latest version of this Policy can be found at the following address at any time: <https://coomeet.com/en/privacypolicy>.
 
 In case if you have any questions about this Policy, please contact us through the [feedback form](http://123supportpage.com/en/) or e-mail at [support@coomeet.com](mailto:support@coomeet.com)
 
@@ -74,4 +74,4 @@ d) to protect the Company's and Application users' or third parties' interests i
 
 ## 9\. Change of Privacy Policy
 
-9.1. The Company reserves the right to make changes to this Policy at any time without notice. The fact that you continue to use the Application will be deemed as your immediate acceptance of such changes. The changes are effective upon posting the latest version of this Policy at <http://coomeet.com/en/privacypolicy>.
+9.1. The Company reserves the right to make changes to this Policy at any time without notice. The fact that you continue to use the Application will be deemed as your immediate acceptance of such changes. The changes are effective upon posting the latest version of this Policy at <https://coomeet.com/en/privacypolicy>.
