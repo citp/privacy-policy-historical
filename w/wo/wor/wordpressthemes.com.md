@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wordpressthemes.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042029id_/https%3A//www.wphub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wordpressthemes.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223102143id_/https%3A//www.wphub.com/privacy-policy) for the most accurate reproduction.*
 
 # WPHUB Privacy Policy
 
