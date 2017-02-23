@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the 101domain.com privacy policy that was archived on 2016-05-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160517222747id_/https%3A//www.101domain.com/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 101domain.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223175847id_/https%3A//www.101domain.com/privacy_policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy for Domain Registration
+# Privacy Statement for Domain Registration
 
 The www.101domain.com website (this "Site") is operated by 101domain GRS Limited, dba 101domain.com ("we", "us", "our", "101domain"). Your privacy is very important to us. We are committed to being transparent and open with how we collect, use and disclose information.
 
-This Privacy Statement (together with our [Terms of Service](https://web.archive.org/web/20160517222747id_/https%3A//www.101domain.com/terms_domain.htm) and [Cookies Policy](https://web.archive.org/web/20160517222747id_/https%3A//www.101domain.com/cookies_policy.htm)) explains how we collect information about you and what we do with that information once we have it. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This Privacy Statement (together with our [Master Service Agreement](https://www.101domain.com/master_services_agreement.htm) and [Cookies Policy](https://www.101domain.com/cookies_policy.htm)) explains how we collect information about you and what we do with that information once we have it. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Acts 1988 and 2003 (the "Acts"), the data controller is 101domain GRS Limited with its registered office at 4th Floor, International House, 3 Harbourmaster Place, IFSC, Dublin 1, Ireland.
-
-The TRUSTe program covers only information that is collected through this website www.101domain.com and does not cover information that may be collected through software downloaded from the website. In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
 
 **YOUR ACCEPTANCE OF OUR PRIVACY STATEMENT.** By accessing and/or using this Site, you (including, for the avoidance of doubt, any entity or person on whose behalf you are acting) explicitly agree to the Privacy Statement set out below and agree that you fully understand it. If you do not agree, or are not comfortable, with any aspect of this Privacy Statement, your only option and remedy is to immediately discontinue use of this Site.
 
@@ -69,7 +67,9 @@ How We Collect Non-Personal Information. We and our third party service provider
 
 How We Use and Disclose Non-Personal Information. Because Non-Personal Information does not personally identify you, we may use and disclose Non-Personal Information for any purpose. In some instances, we may combine Non-Personal Information with Personal Information (such as combining your name with your geographical location). If we combine any Non-Personal Information with Personal Information, the combined information will be treated by us as Personal Information as long as it is combined.
 
-**USE OF COOKIES.** We use cookies on this Site to:
+**USE OF COOKIES and Other Tracking Technologies.** We and our partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole.
+
+We use cookies on this Site to:
 
   * improve your experience on our Site
   * maintain items in your shopping cart
@@ -79,7 +79,7 @@ How We Use and Disclose Non-Personal Information. Because Non-Personal Informati
 
 
 
-You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser so that it will refuse cookies, our system will issue cookies when you log on to our Site. To learn more about cookies, please visit http://www.allaboutcookies.org/. For more information on our use of cookies on the Site, please see our [Cookies Policy](https://web.archive.org/web/20160517222747id_/https%3A//www.101domain.com/cookies_policy.htm)
+You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. However, if you select this setting you may be unable to access certain parts of our Site. Unless you have adjusted your browser so that it will refuse cookies, our system will issue cookies when you log on to our Site. To learn more about cookies, please visit http://www.allaboutcookies.org/. For more information on our use of cookies on the Site, please see our [Cookies Policy](https://www.101domain.com/cookies_policy.htm)
 
 Note that third party external websites to which we provide links (over which we have no control and do not stand over in any way) may also use cookies.
 
@@ -121,4 +121,4 @@ In your request, please make your request clear and we will try to comply with y
 IFSC  
 Dublin 1
 
-[Contact us](https://web.archive.org/web/20160517222747id_/https%3A//www.101domain.com/contact_us.htm)
+[Contact us](https://www.101domain.com/contact_us.htm)
