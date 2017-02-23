@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzsouthafrica.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012104122id_/http%3A//buzzsouthafrica.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzsouthafrica.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223141255id_/http%3A//buzzsouthafrica.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - South Africa News | Read Latest SA News on BuzzSouthAfrica.com
 
