@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubesmaza.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119050421id_/http%3A//tubesmaza.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubesmaza.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224004908id_/http%3A//tubesmaza.info/privacy.php) for the most accurate reproduction.*
 
 # TubesMaza.Com - Video 3Gp Mp3 Mp4 HD Mkv Audio Songs Free Download
 
