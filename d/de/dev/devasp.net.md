@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the devasp.net privacy policy that was archived on 2010-06-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100611211410id_/http%3A//www.devasp.net/net/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the devasp.net privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223105813id_/http%3A//www.devasp.net/net/Privacy.aspx) for the most accurate reproduction.*
 
-# DevASP.Net Privacy Policy
+# DevASP.Net Directory of VB.Net Resources
+
+## Privacy Policy
 
 DevASP.Net is strongly committed to protecting the privacy of its user community. 
 
@@ -8,7 +10,7 @@ The intent of this privacy policy is to detail the information DevASP.Net may ga
 
 **Site Usage Information**
 
-DevASP.Net gathers "site usage" information from all visitors to the DevASP.Net Web site. Such data is used in the aggregate, to help determine general usage patterns and fine tune layout in order to ensure that our site is as useful and enjoyable as possible. This "site usage" and statistical information may be made public information at DevASP.Net's discretion.
+DevASP.Net gathers "site usage" information from all visitors to the DevASP.Net Web site. Such data is used in the aggregate, to help determine general usage patterns and fine tune layout in order to ensure that our site is as useful and enjoyable as possible. This "site usage" and statistical information may be made public information at DevASP.Net's discretion. 
 
 **Use of Cookies**
 
