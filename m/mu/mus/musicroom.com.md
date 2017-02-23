@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musicroom.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202100532id_/http%3A//www.musicroom.com/help/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musicroom.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223182046id_/http%3A//www.musicroom.com/help/privacy.aspx) for the most accurate reproduction.*
 
 # Musicroom.com - Sheet Music for Musicians
 
@@ -24,6 +24,10 @@ We use the personal information you give us for the following purposes:
   * to conduct anonymous and aggregate research into a) the way our web site is used and b) the purchasing patterns of our customers.
 
 
+
+**PayPal Transactions**
+
+In addition to the Privacy Policy outlined above, all PayPal transactions placed on the Musicroom website are also subject to the PayPal Privacy Policy.
 
 **Cookie Policy**
 
