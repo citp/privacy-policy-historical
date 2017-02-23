@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nigerianseminarsandtrainings.com privacy policy that was archived on 2016-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160910185445id_/https%3A//www.nigerianseminarsandtrainings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nigerianseminarsandtrainings.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223191305id_/https%3A//www.nigerianseminarsandtrainings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Nigerian Seminars and Trainings
 
