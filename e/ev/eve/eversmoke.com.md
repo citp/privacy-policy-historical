@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eversmoke.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123185028id_/https%3A//www.eversmoke.com/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eversmoke.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223215945id_/https%3A//www.eversmoke.com/legal/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | EverSmoke Electronic Cigarettes
 
