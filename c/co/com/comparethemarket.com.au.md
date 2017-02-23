@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comparethemarket.com.au privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303213946id_/https%3A//secure.comparethemarket.com.au/ctm/legal/privacy_policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comparethemarket.com.au privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223060703id_/https%3A//secure.comparethemarket.com.au/static/legal/privacy_policy.pdf) for the most accurate reproduction.*
 
 # COMPARE THE MARKET AND COMPARE THE MEERKAT PRIVACY
 
