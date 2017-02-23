@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southwales-eveningpost.co.uk privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222054444id_/http%3A//www.southwales-eveningpost.co.uk/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southwales-eveningpost.co.uk privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223100154id_/http%3A//www.southwales-eveningpost.co.uk/privacypolicy.html) for the most accurate reproduction.*
 
 # South Wales Evening Post | Privacy Policy
 
