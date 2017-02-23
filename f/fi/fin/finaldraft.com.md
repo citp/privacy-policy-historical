@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the finaldraft.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112142138id_/http%3A//www.finaldraft.com/company/legal/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the finaldraft.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223094430id_/https%3A//www.finaldraft.com/company/legal/online-privacy-policy) for the most accurate reproduction.*
 
 # Online Privacy Policy | Final Draft
 
@@ -73,4 +73,4 @@ Please note that if you provide FD with inconsistent privacy preferences (for e
 
 Also, please note that FD is not responsible for the content or privacy practices of non-FD Web sites to which these sites or any other FD Web site may link. You should review the privacy policy of such sites before using the sites.
 
-© 2016 Final Draft, A Cast & Crew Entertainment Company. All rights reserved.
+© 2017 Final Draft, A Cast & Crew Entertainment Company. All rights reserved.
