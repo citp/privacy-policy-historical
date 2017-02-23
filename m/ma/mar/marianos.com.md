@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the marianos.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623144845id_/http%3A//www.marianos.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the marianos.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223234753id_/http%3A//www.marianos.com/privacy) for the most accurate reproduction.*
 
 # privacy policy
 
@@ -56,6 +56,20 @@ _Personal Information._ The personal information requested as part of the regis
 _Security/Delivery._ You should keep in mind that most wireless transmissions are not secured. There is a greater risk that an unauthorized third party may intercept your messages or your personal information when you use a wireless communications device. Therefore, if you choose to sign up for any Wireless Marketing Services, you agree that Roundyâ€™s will not be liable to you for damages caused by a third party's interception of such items.
 
 _Potential Charges._ Roundyâ€™s does not charge users for its Wireless Marketing Services. However, your carrier's standard message and data rates may apply. Charges may show up on your mobile bill or may be deducted from your prepaid account. By registering to receive Wireless Marketing Services, you agree that you may be charged by your wireless carrier for any messages that you send to or receive from Roundyâ€™s and that you are solely responsible for such charges. Under no circumstances will Roundyâ€™s be responsible for any wireless email or text messaging charges, whether incurred by you directly or as a result of the activity of another person with access, whether or not authorized, to your wireless device, telephone number, or email address. Please contact your wireless carrier if you have any questions about your wireless service.
+
+**How We Respond to Do Not Track Signals**   
+If you have enabled your Internet browser to refuse cookies or have selected a "do not track" preference, we will not collect personal information about you. In addition, when you visit our website, third parties will not collect personal information about you or your online activies over time or across websites.
+
+**Online Advertising**   
+Information collected by our advertising service providers through cookies and other technologies may include browsing behavior, referring sites and your response to advertisements. These cookies do not collect personal information. Data collected in this manner is only used to improve our advertising.
+
+Roundy's Supermarkets, Inc. participates in the [AdChoices online behavioral advertising program](http://youradchoices.com/) (http://youradchoices.com/). If you receive a behaviorally targeted advertisement, you may click on the displayed icon to receive more information and choose to opt out. Your opt-out choices may be affected by your use of a specific device, your browser settings or your log-on credentials. If you opt out, you may still receive online advertising from Roundy's Supermarkets, Inc. which is not based on your preferences or online behavior.
+
+**Browsers**   
+We may collect certain information form your browser, such as your media access control (MAC) address, device type, screen resolution, operating system version and Internet browser type and version. We use this information to ensure that our websites function properly and also for security reasons.
+
+**Location Tracking**   
+We may collect information about your physical location through our websites and mobile applications. An example includes your physical location when you search for a nearby financial advisor using your mobile device.
 
 Â© 2012 Roundyâ€™s Supermarkets, Inc. All Rights Reserved.
 
