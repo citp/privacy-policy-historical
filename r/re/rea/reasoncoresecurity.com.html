@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the reasoncoresecurity.com privacy policy that was archived on 2016-04-28.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160428083408id_/https%3A//www.reasoncoresecurity.com/privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reasoncoresecurity.com privacy policy that was archived on 2017-02-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170223175344id_/https%3A//www.reasoncoresecurity.com/privacy.aspx) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" class=" js flexbox history opacity csstransforms video svg no-ipad no-iphone no-ipod no-ios no-ios6 no-ios7 no-ios8 no-ios9 no-windowsphone no-android no-android_4_2 no-macos no-mobile no-ie10 no-ie11 no-firefox safari videoautoplay"><head><title>
 	Privacy Policy - Reason Core Security
@@ -8,10 +8,22 @@
     <script src="/scripts/modernizr.js" type="text/javascript"></script>
     <script src="/scripts/global.js" type="text/javascript"></script>
     <script src="/bootstrap/js/bootstrap.min.js"></script>
-    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet"><link href="/stylesheet.css?v=4" rel="stylesheet" type="text/css"><link href="//fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><meta name="referrer" content="origin">
+    <link href="/bootstrap/css/bootstrap.min.css" rel="stylesheet"><link href="/stylesheet.css?v=8" rel="stylesheet" type="text/css"><link href="//fonts.googleapis.com/css?family=Lato:100,300,400,700,900" rel="stylesheet" type="text/css"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon"><meta name="referrer" content="origin">
 
 
     <script type="text/javascript">
+
+        window.onerror = function (errorMsg, url, lineNumber, column, errorObj) {
+            try {
+                var description = (lineNumber || 0) + '-' + (column || 0)
+                if (window.$$logsApi) {
+                    window.$$logsApi.error(description, errorMsg, null, null, url)
+                }
+            } catch (e) {
+                console.error(e)
+            }
+        }
+
         window.onscroll = function () {
             var className = window.pageYOffset > 80 ? 'sectionheader scrolled' : 'sectionheader';
             document.getElementsByClassName('sectionheader')[0].className = className;
@@ -36,6 +48,18 @@
         ga('create', 'UA-61544126-1', 'auto');
         ga('send', 'pageview');
     </script>
+
+    <script>
+        window.$$properties = {
+            isDevEnv: false,
+            logs: {
+                url: 'https://logs.reason.technology/event?',
+                send: true,
+                product: '',
+                console: false
+            }
+        }
+	</script>
 
 <meta name="description" content="Download Reason Core Security. Detects and removes malware, adware and unwanted programs your anti-virus will miss. Best free anti-malware, free, fast and simple."><meta name="keywords" content="Reason Core Security, malware removal, virus removal, anti-virus, anti-malware, adware removal, Windows security, free antivirus, Unchecky, adware clean"><meta name="og:image" content="//www.reasoncoresecurity.com/images/logo.png"><meta name="robots" content="index, follow"></head>
 <body>
@@ -66,7 +90,7 @@ function __doPostBack(eventTarget, eventArgument) {
 <script src="/WebResource.axd?d=UKnVHVwJaSKcSRI97n7fwidCcNTyB07ho4QkzTTsxh0Re7YoCcPUWJ4XNmeflDcZTGnQEHRNk3dx2Cg7T1e2-7_ax0hFqkBrueZXL5Nj14Y1&amp;t=635370142285126825" type="text/javascript"></script>
 
 
-<script src="/scripts/logs.js" type="text/javascript"></script>
+<script src="/scripts/logs.js?v=7" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=iTdavoBEhOTmzA1iW0XtuNlR2C8XGnph9WFre5kHPe9i_3UvBIAFQTn2ctefFJyujSt90oBj-BO1ncoALLf_1tO1VxC7tO2VbLMZoiHfK9ARusIu64onb1XgngnIIBzzcsIn3BsDmEmrmALWzzIJ4dHeESTk3WpzbijVh20zOx81&amp;t=ffffffffb53e74b8" type="text/javascript"></script>
 <script src="/ScriptResource.axd?d=mzcCTEqfuly5snJBFOCKUfydnNvvYjr-tmxnwYxtH2A4iTNSHAx_o2Y-DmL9uUqg1qeo8SEhnp8flqKqYgg4uvDhQ9AL-5hUPg-QkEjZhKEh7-2YWGtHa1vqCAFPXna7mSkQpw2NWX1nz2HI3Jv54ddIjXkvbVT1vvZLVR-hMpxNo3nIyAv5R9z2o5LB9_e30&amp;t=ffffffffb53e74b8" type="text/javascript"></script>
 <div class="aspNetHidden">
@@ -218,17 +242,26 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                     </div>
 
                     <div class="col-sm-2">
-                        <p>Partner With Us</p>
-                        <div><a href="/licensing.aspx">Licensing</a></div>
+                        <p>Partner</p>
+                        <div><a href="/sdk-api.aspx">SDK and API Licensing</a></div>
                         <div><a href="/affiliates.aspx">Affiliates</a></div>
                     </div>
 
-                    <div>
+                    <div class="col-sm-2" style="padding-right: 25px;">
+                        <a href="http://www.slideshare.net/ReasonCoreSecurity" target="_blank"><div class="slideshare"></div></a>
+                        <a href="https://www.pinterest.com/ReasonCSecurity/boards/" target="_blank"><div class="pinterest"></div></a>
+                        <a href="https://plus.google.com/u/0/109436363432585571653/posts/p/pub?hl=en" target="_blank"><div class="googleplus"></div></a>
+                        <a href="https://www.youtube.com/channel/UClkp1Vyc1J48rruThXdhADA/feed" target="_blank"><div class="youtube"></div></a>
+                        <a href="https://www.linkedin.com/company/reason-core-security" target="_blank"><div class="linkedin"></div></a>
                         <a href="https://twitter.com/ReasonCSecurity" target="_blank"><div class="twitter"></div></a>
                         <a href="https://www.facebook.com/pages/Reason-Core-Security/792262430823085?fref=ts" target="_blank"><div class="facebook"></div></a>
                     </div>
                             
                 </div>
+
+
+                
+
             </div>
         </section>
                         
@@ -240,8 +273,11 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="logo"> <img src="\images\reasonlogo_footer.png"></div>
-                        <div class="copyright">© 2016 Reason Software Company Inc.</div>
+                        <div class="copyright">© 2017 Reason Software Company Inc.</div>
                         
+
+
+
                         <a href="/privacy.aspx">Privacy Policy</a>
                         <a href="/terms.aspx">Terms of Service</a>
                     </div>
@@ -292,7 +328,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                                 <h1 style="font-size: 70px; color: #075cae; font-weight: 300; margin: 0; text-shadow: none;">1</h1>
                                 <h4> year</h4>
                                 <p style="font-size: 14px;">Regular price <span style="color:rgb(12, 97, 182); text-decoration: line-through;"> &nbsp; $44.95</span></p>
-                                <div><a class="unselectable btnonlight" href="https://shop.reasoncoresecurity.com/order/checkout.php?PRODS=4650494&amp;QTY=1&amp;CARD=2&amp;CART=1&amp;CLEAN_CART=1&amp;SHOPURL=https%3A%2F%2Fwww.reasoncoresecurity.com&amp;SRC=site" onclick="ga('send', 'event', 'purchasebutton', 'click', 'purcahseselect', 1); _gaq.push(['_link', this.href]); return false;">$24.95</a></div>
+                                <div><a class="unselectable btnonlight" id="btnbuy1" href="https://shop.reasoncoresecurity.com/order/checkout.php?PRODS=4650494&amp;QTY=1&amp;CARD=2&amp;CART=1&amp;CLEAN_CART=1&amp;SHOPURL=https%3A%2F%2Fwww.reasoncoresecurity.com&amp;SRC=site&amp;REF=cdd602f8-8c3c-4919-b2e2-41c2b7e49319">$24.95</a></div>
                             </div>
                         </td>
                         <td style="padding: 10px;"></td>
@@ -301,7 +337,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                                 <h1 style="font-size: 70px; color: #075cae; font-weight: 300; margin: 0; text-shadow: none;">2</h1>
                                 <h4> years</h4>
                                 <p style="font-size: 14px;">Regular price <span style="color:rgb(12, 97, 182); text-decoration: line-through;"> &nbsp; $64.95</span></p>
-                                <div><a class="unselectable btnonlight" href="https://shop.reasoncoresecurity.com/order/checkout.php?PRODS=4653454&amp;QTY=1&amp;CARD=2&amp;CART=1&amp;CLEAN_CART=1&amp;SHOPURL=https%3A%2F%2Fwww.reasoncoresecurity.com&amp;SRC=site" onclick="ga('send', 'event', 'purchasebutton', 'click', 'purcahseselect', 2);">$34.95</a></div>
+                                <div><a class="unselectable btnonlight" id="btnbuy2" href="https://shop.reasoncoresecurity.com/order/checkout.php?PRODS=4653454&amp;QTY=1&amp;CARD=2&amp;CART=1&amp;CLEAN_CART=1&amp;SHOPURL=https%3A%2F%2Fwww.reasoncoresecurity.com&amp;SRC=site&amp;REF=cdd602f8-8c3c-4919-b2e2-41c2b7e49319">$34.95</a></div>
                             </div>
                         </td>
                         <td style="padding: 10px;"></td>
@@ -310,7 +346,7 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
                                 <h1 style="font-size: 70px; color: #075cae; font-weight: 300; margin: 0; text-shadow: none;">3</h1>
                                 <h4> years</h4>
                                 <p style="font-size: 14px;">Regular price <span style="color:rgb(12, 97, 182); text-decoration: line-through;"> &nbsp; $84.95</span></p>
-                                <div><a class="unselectable btnonlight" href="https://shop.reasoncoresecurity.com/order/checkout.php?PRODS=4653455&amp;QTY=1&amp;CARD=2&amp;CART=1&amp;CLEAN_CART=1&amp;SHOPURL=https%3A%2F%2Fwww.reasoncoresecurity.com&amp;SRC=site" onclick="ga('send', 'event', 'purchasebutton', 'click', 'purcahseselect', 3);">$44.95</a></div>
+                                <div><a class="unselectable btnonlight" id="btnbuy3" href="https://shop.reasoncoresecurity.com/order/checkout.php?PRODS=4653455&amp;QTY=1&amp;CARD=2&amp;CART=1&amp;CLEAN_CART=1&amp;SHOPURL=https%3A%2F%2Fwww.reasoncoresecurity.com&amp;SRC=site&amp;REF=cdd602f8-8c3c-4919-b2e2-41c2b7e49319">$44.95</a></div>
                             </div>
                         </td>
                     </tr>
@@ -325,7 +361,19 @@ Sys.WebForms.PageRequestManager._initialize('ctl00$ScriptManager1', 'form1', [],
 
 <script type="text/javascript">
 //<![CDATA[
-$reason.impression('82b83080-684c-4b61-b148-ead155235369');//]]>
+$$logsApi.impression('cdd602f8-8c3c-4919-b2e2-41c2b7e49319');$('#btnbuy1').click(function () {
+     $$logsApi.transactionStart('cdd602f8-8c3c-4919-b2e2-41c2b7e49319', 'cdd602f8-8c3c-4919-b2e2-41c2b7e49319', 24.95, 'USD', 'year', '1', 'avangate');
+     ga('send', 'event', 'purchasebutton', 'click', 'purcahseselect', 1); _gaq.push(['_link', this.href]); return false;
+})
+$('#btnbuy2').click(function () {
+     $$logsApi.transactionStart('cdd602f8-8c3c-4919-b2e2-41c2b7e49319', 'cdd602f8-8c3c-4919-b2e2-41c2b7e49319', 34.95, 'USD', 'year', '2', 'avangate');
+     ga('send', 'event', 'purchasebutton', 'click', 'purcahseselect', 1); _gaq.push(['_link', this.href]); return false;
+})
+$('#btnbuy3').click(function () {
+     $$logsApi.transactionStart('cdd602f8-8c3c-4919-b2e2-41c2b7e49319', 'cdd602f8-8c3c-4919-b2e2-41c2b7e49319', 44.95, 'USD', 'year', '3', 'avangate');
+     ga('send', 'event', 'purchasebutton', 'click', 'purcahseselect', 1); _gaq.push(['_link', this.href]); return false;
+})
+//]]>
 </script>
 </form>
     
