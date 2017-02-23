@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pokeraffiliateworld.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623125356id_/http%3A//www.onlineaffiliateworld.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokeraffiliateworld.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223150119id_/https%3A//www.onlineaffiliateworld.com/privacy-policy.htm) for the most accurate reproduction.*
 
-# Privacy Policy | OnlineAffiliateWorld
+# Read Our Privacy Policy | Online Affiliate World
 
 Your privacy is very important to iBus Media Limited. (referred to herein as **“Online Affiliate World”** , **“OAW”** , **“we”** or **“us”** ), the owner and operator of the website located at [www.onlineaffiliateworld.com](http://www.onlineaffiliateworld.com/) and [ru.onlineaffiliateworld.com](http://ru.onlineaffiliateworld.com/) (collectively, the **“Site”** ). We are committed to maintaining the confidentiality of the personal information collected by us in order to allow you to enjoy your use of the Site by safeguarding it and utilizing appropriate software and hardware architecture, techniques, methods and procedures as customary in the industry.
 
