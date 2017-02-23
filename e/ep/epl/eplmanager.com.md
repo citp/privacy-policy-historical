@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eplmanager.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914172108id_/https%3A//eplmanager.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eplmanager.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223084353id_/https%3A//eplmanager.com/en/privacy-policy) for the most accurate reproduction.*
 
 # EPL MANAGER FANTASY FOOTBALL PRIVACY & COOKIE POLICY / EPLManager.com
 
