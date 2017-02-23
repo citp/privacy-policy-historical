@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reasoncoresecurity.com privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428083408id_/https%3A//www.reasoncoresecurity.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasoncoresecurity.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223175344id_/https%3A//www.reasoncoresecurity.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Reason Core Security
 
