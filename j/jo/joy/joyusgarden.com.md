@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyusgarden.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209145642id_/http%3A//www.joyusgarden.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyusgarden.com privacy policy that was archived on 2017-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170223224417id_/https%3A//www.joyusgarden.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - |
 
@@ -16,6 +16,8 @@ Cookies are tracked (on this site) because that information is used to improve o
 We protect the security of your personal information by using Secure Sockets Layer (SSL) which encrypts information you input.
 
 By using this site, you consent to our Privacy Policy. This policy is subject to change without notice and was last updated on August 17, 2016. If we decide to change our Privacy Policy, those changes will be posted on this page.
+
+[](https://www.pinterest.com/pin/create/button/)
 
   
 
