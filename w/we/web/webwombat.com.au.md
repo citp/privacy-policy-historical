@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webwombat.com.au privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120141909id_/http%3A//www.webwombat.com.au/hp/pages/extra/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webwombat.com.au privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225002614id_/http%3A//www.webwombat.com.au/hp/pages/extra/privacy.htm) for the most accurate reproduction.*
 
 # Web Wombat's Privacy Policy
 
@@ -42,6 +42,6 @@ We may change this Privacy Policy from time to time at our discretion and withou
 
 ### Further information
 
-Please feel free to contact us if you have any questions, comments or would like more information. You can contact the Web Wombat team[ here.](http://www.webwombat.com.au/hp/pages/extra/contact-us.htm "Contact Web Wombat")
+Please feel free to contact us if you have any questions, comments or would like more information. You can contact the Web Wombat team[ here.](/hp/pages/extra/contact-us.htm "Contact Web Wombat")
 
 This Privacy Statement is version 2.0, and replaces all previous versions.
