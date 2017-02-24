@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the otteny.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908090116id_/http%3A//otteny.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the otteny.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224165002id_/https%3A//otteny.com/en/privacy) for the most accurate reproduction.*
 
 # OTTE | Privacy Policy
 
