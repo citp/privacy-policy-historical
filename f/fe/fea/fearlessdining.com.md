@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fearlessdining.com privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011010915id_/http%3A//www.fearlessdining.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fearlessdining.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224113857id_/https%3A//www.fearlessdining.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fearless Dining
 
@@ -39,12 +39,9 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 Some of our advertisers occasionally serve you cookies as well. We do not have control over cookies placed by advertisers. We may use advertising service vendors to help present advertisements on the website.
 
-Ads are placed by Gourmet Ads, Google Adsense, Abe’s Market, StudioPress, Sovern, and Amazon.com
+Ads are placed by MediaVine, Google Adsense, and Amazon.com
 
 These vendors may use cookies, web beacons, or similar technologies to serve you advertisements tailored to interests you have shown by browsing on this and other sites you have visited, to determine whether you have seen a particular advertisement before and to avoid sending you duplicate advertisements. In doing so, these vendors may collect non-personal data such as your browser type, your operating system, Web pages visited, time of visits, content viewed, ads viewed, and other clickstream data. The use of cookies, web beacons, or similar technologies by these advertising service vendors is subject to their own privacy policies, not ours, and Service Provider disclaims all liability in connection therewith.
-
-Gourmet Ads primary ad server is Appnexus and you can opt out of cookies from them by visiting ;  
-<http://appnexus.com/platform-policy#choices> and Opting Out.
 
 You can also opt out of cookies using the Network Advertising Initiative opt-out page at this page;  
 <http://www.networkadvertising.org/choices/>
