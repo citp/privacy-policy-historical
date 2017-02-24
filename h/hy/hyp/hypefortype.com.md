@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hypefortype.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111100741id_/https%3A//www.hypefortype.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hypefortype.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224211837id_/https%3A//www.hypefortype.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
