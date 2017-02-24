@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fubles.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120083043id_/http%3A//www.fubles.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fubles.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224120946id_/https%3A//www.fubles.com/privacy) for the most accurate reproduction.*
 
 # Privacy policy | Fubles
 
