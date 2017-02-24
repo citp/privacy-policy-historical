@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the golocal247.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327233938id_/https%3A//www.golocal247.com/policy-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the golocal247.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224111243id_/https%3A//www.golocal247.com/policy-privacy) for the most accurate reproduction.*
 
 # GoLocal247 - Yellow Pages, Local Business Directory, Coupons, Events, Classifieds, Community Portal - Golocal247.com
 
