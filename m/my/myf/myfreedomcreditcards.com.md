@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreedomcreditcards.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028165639id_/http%3A//www.creditcardsoup.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreedomcreditcards.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224061148id_/http%3A//www.creditcardsoup.com/privacy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - CreditCardSoup.com
 
@@ -31,11 +31,11 @@ We may use third-party advertising companies to serve ads on our behalf. These c
 
 **Section 4.** Your Opt-Out Rights 
 
-You may opt-out of receiving communications from us and or our partners when we request your information. We also allow you to remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. You can remove your information by writing to us via postal mail at the address below, by sending an email requesting removal thru our [contact form](https://web.archive.org/web/20161028165639id_/http%3A//www.creditcardsoup.com/contact.aspx), by visiting CreditCardSoup.com and requesting your profile be deleted through our opt out procedures or by clicking [here](http://www.esunsub.com/Unsubscribe/AffProgU.asp?P=14 "Unsubscribe").
+You may opt-out of receiving communications from us and or our partners when we request your information. We also allow you to remove your information from our database. If you remove your information from our database it will no longer be used by us for secondary purposes, disclosed to third parties, or used by us or third parties to send promotional correspondences to you. You can remove your information by writing to us via postal mail at the address below, by sending an email requesting removal thru our [contact form](https://web.archive.org/web/20170224061148id_/http%3A//www.creditcardsoup.com/contact.aspx), by visiting CreditCardSoup.com and requesting your profile be deleted through our opt out procedures or by clicking [here](http://www.esunsub.com/Unsubscribe/AffProgU.asp?P=14 "Unsubscribe").
 
 **Section 5.** Your Rights To Your Personal Data 
 
-Upon request via postal mail or e-mail, we will provide you a summary of personal information retained by us. We will only send your personal records to your e-mail address or postal address we have on file for you. You may modify, correct, change, or update your personal record or remove your personal record from our database by contacting CreditCardSoup.com via postal mail at the address below or using our [contact form](https://web.archive.org/web/20161028165639id_/http%3A//www.creditcardsoup.com/contact.aspx).
+Upon request via postal mail or e-mail, we will provide you a summary of personal information retained by us. We will only send your personal records to your e-mail address or postal address we have on file for you. You may modify, correct, change, or update your personal record or remove your personal record from our database by contacting CreditCardSoup.com via postal mail at the address below or using our [contact form](https://web.archive.org/web/20170224061148id_/http%3A//www.creditcardsoup.com/contact.aspx).
 
 **Section 6.** We Do Not Intend To Collect Data From Children 
 
@@ -49,7 +49,7 @@ We reserve the right to contact you regarding your account status and changes to
 
 We reserve the right to change this policy at any time by notifying you of the existence and location of the new or revised privacy policy or by posting the changes online at our site. 
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us online using our [ contact form](https://web.archive.org/web/20161028165639id_/http%3A//www.creditcardsoup.com/contact.aspx) or write to: 
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us online using our [ contact form](https://web.archive.org/web/20170224061148id_/http%3A//www.creditcardsoup.com/contact.aspx) or write to: 
 
 **CreditCardSoup.com**   
 P.O. Box #463  
