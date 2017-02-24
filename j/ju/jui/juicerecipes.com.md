@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juicerecipes.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408205403id_/https%3A//juicerecipes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juicerecipes.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224215215id_/https%3A//juicerecipes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Juice Recipes
 
@@ -25,7 +25,7 @@ If you choose, you can opt out by turning off cookies in the preferences setting
 
 ## OPT-IN NOTICE: By Participating, You Expressly "Opt In" To Receive Information And Grant Us Permission To Send You Information
 
-By signing up for our newsletter you expressly opt in to receive future information about products and services from us or we will send you information regarding products and services from a third party that we think you may be interested in.
+By submitting your email to us through user account creation or our 30 Day Challenge, you expressly opt in to receive future information about products and services from us or we will send you information regarding products and services from a third party that we think you may be interested in.
 
 In addition, in the event we consider a transaction involving the purchase or sale of our assets or stock, other companies may review our records, including your Information, to make business decisions about the transaction. Likewise, your Information may be transferred to third parties in the event of the sale or acquisition of our company or any of its assets. The parties who perform services for us (credit card processors, merchant banks, our internet service provider, etc.) also may have access to your information in performing their services.
 
