@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the datacolor.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218212208id_/http%3A//www.datacolor.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datacolor.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224102031id_/http%3A//www.datacolor.com/privacy-policy) for the most accurate reproduction.*
 
 # Datacolor - Global Leader in Color Management Solutions - Datacolor.com
 
   
 
 
-  * [Home](https://web.archive.org/web/20161218212208id_/http%3A///?p=34) /
-  * [Terms of Use](https://web.archive.org/web/20161218212208id_/http%3A///?p=244) /
+  * [Home](https://web.archive.org/web/20170224102031id_/http%3A///?p=34) /
+  * [Terms of Use](https://web.archive.org/web/20170224102031id_/http%3A///?p=244) /
 
 
 
