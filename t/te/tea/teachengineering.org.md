@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the teachengineering.org privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404131347id_/https%3A//www.teachengineering.org/policy_pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachengineering.org privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224043044id_/https%3A//www.teachengineering.org/policies/privacypolicy) for the most accurate reproduction.*
 
-# About :: Policies :: Privacy Policy - www.TeachEngineering.org
+# Privacy Policy - www.teachengineering.org
 
 #### _TeachEngineering_ Privacy Statement
 
