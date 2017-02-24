@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pelotoncycle.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731204746id_/https%3A//www.pelotoncycle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pelotoncycle.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224103055id_/https%3A//www.pelotoncycle.com/privacy-policy) for the most accurate reproduction.*
 
 # Peloton | Privacy Policy
 
@@ -111,4 +111,4 @@ New York NY 10001
 [support@pelotoncycle.com](mailto:support@pelotoncycle.com?subject=Attn:Privacy%20Officer)  
 Attn: Privacy Officer
 
-© Peloton 2012 - 2016, Peloton Interactive, Inc. All rights reserved
+© Peloton 2012 - 2017, Peloton Interactive, Inc. All rights reserved
