@@ -1,22 +1,25 @@
-> *The following text is extracted and transformed from the optumbank.com privacy policy that was archived on 2015-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151008054920id_/http%3A//www.optumbank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optumbank.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224084528id_/https%3A//www.optumbank.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Website Privacy Policy - OptumBank.com
+# Privacy Policy - OptumBank.com
 
-**Financial Privacy Rule Notice  
-**To read more about our privacy policy as it applies to Optum Bank as a regulated financial institution, and OptumHealth Financial Services, please [click here](https://web.archive.org/web/20151008054920id_/http://www.optumbank.com/privacy-policy/~/media/D50700EC659F42E2835AC1D2C4C092A7.pdf), which links to our Financial Notice of Privacy Practices.
+##### Financial Privacy Rule Notice
 
-**Social Security Number Protection Policy**   
+****To read more about our privacy policy as it applies to Optum Bank as a regulated financial institution, and OptumHealth Financial Services, please[click here](https://web.archive.org/content/dam/optumbank/resources/ns/045-0132-Privacy-Notice.pdf), which links to our Financial Notice of Privacy Practices.
+
+##### Social Security Number Protection Policy
+
 Protecting personal information is important to Optum. It is our policy to protect the confidentiality of Social Security numbers ("SSNs”) that we receive or collect in the course of business. We secure the confidentiality of SSNs through various means, including physical, technical, and administrative safeguards that are designed to protect against unauthorized access. It is our policy to limit access to SSNs to that which is lawful, and to prohibit unlawful disclosure of SSNs.
 
-**Website Privacy Policy**   
-**_Introduction_**   
+##### Website Privacy Policy
+
+**Introduction**  
 We recognize that the privacy of your personal information is important. The purpose of this policy is to let you know how we handle the information collected through the use of this website. Portions of this website may describe privacy practices applicable to specific types of information or to information provided on specific web pages.
 
 This policy does not apply to information collected through other means such as by telephone or in person, although that information may be protected by other privacy policies. As used in this policy, terms such as “we” or “our” and “Company” refer to Optum and its current and future affiliated entities, including our parent company UnitedHealth Group.
 
 This website is intended for a United States audience. Any information you provide, including any personal information, will be transferred to and processed by a computer server located within the United States.
 
-**_Cookies and Tracking_**   
+**Cookies and Tracking**  
 The Company uses various technologies, which may include “cookie” technology, to gather information from our website visitors such as pages visited and how often they are visited, and to enable certain features on this website. “Cookies” are small text files that may be placed on your computer when you visit a website or click on a URL. Cookies may include “single-session cookies” which generally record information during only a single visit to a website and then are erased, and “persistent” cookies, which are generally stored on a computer unless or until they are deleted or are set to expire.
 
 You may disable cookies and similar items by adjusting your browser preferences at any time; however, this may limit your ability to take advantage of all the features on this website. You may also manage the use of “flash” technologies, with the [Flash management tools](http://www.adobe.com/devnet/security.html) available at Adobe's website. Note that we do not currently respond to web browser “Do Not Track” signals that provide a method to opt out of the collection of information about online activities over time and across third-party websites or online services because, among other reasons, there is no common definition of such signals and no industry-accepted standards for how such signals should be interpreted.
@@ -27,32 +30,32 @@ We use Adobe to gather analytics information from our website visitors such as w
 
 We may use and disclose your activity information unless restricted by this policy or by law. Some examples of the ways we use your activity information include:
 
-  * Customizing your experience on the website including managing and recording your preferences. 
-  * Marketing, product development, and research purposes. 
-  * Tracking resources and data accessed on the website. 
-  * Developing reports regarding website usage, activity, and statistics. 
-  * Assisting users experiencing website problems. 
-  * Enabling certain functions and tools on this website. 
-  * Tracking paths of visitors to this website and within this website. 
+  * Customizing your experience on the website including managing and recording your preferences.
+  * Marketing, product development, and research purposes.
+  * Tracking resources and data accessed on the website.
+  * Developing reports regarding website usage, activity, and statistics.
+  * Assisting users experiencing website problems.
+  * Enabling certain functions and tools on this website.
+  * Tracking paths of visitors to this website and within this website.
 
 
 
-**_Your Personal Information_**   
+**Your Personal Information**  
 This website may include web pages that give you the opportunity to provide us with personal information about yourself. You do not have to provide us with personal information if you do not want to; however, that may limit your ability to use certain functions of this website or to request certain services or information.
 
 We may use personal information for a number of purposes such as:
 
-  * To respond to an email or particular request from you. 
-  * To personalize the website for you. 
-  * To process an application as requested by you. 
-  * To administer surveys and promotions. 
-  * To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses. 
-  * To perform analytics and to improve our products, websites, and advertising. 
-  * To comply with applicable laws, regulations, and legal process. 
-  * To protect someone's health, safety, or welfare. 
-  * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use. 
-  * To keep a record of our transactions and communications. 
-  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law. 
+  * To respond to an email or particular request from you.
+  * To personalize the website for you.
+  * To process an application as requested by you.
+  * To administer surveys and promotions.
+  * To provide you with information that we believe may be useful to you, such as information about health products or services provided by us or other businesses.
+  * To perform analytics and to improve our products, websites, and advertising.
+  * To comply with applicable laws, regulations, and legal process.
+  * To protect someone's health, safety, or welfare.
+  * To protect our rights, the rights of affiliates or related third parties, or take appropriate legal action, such as to enforce our Terms of Use.
+  * To keep a record of our transactions and communications.
+  * As otherwise necessary or useful for us to conduct our business, so long as such use is permitted by law.
 
 
 
@@ -60,7 +63,7 @@ We may use personal information to contact you through any contact information y
 
 We may also share personal information within the Company, and we may combine personal information that you provide us through this website with other information we have received from you, whether online or offline, or from other sources such as from our vendors. For example, if you have purchased a product or service from us, we may combine personal information you provide through this website with information regarding your receipt of the product or service.
 
-**_Sharing Personal Information_**   
+**Sharing Personal Information**  
 We will only share your personal information with third parties as outlined in this policy and as otherwise permitted by law.
 
 We may share personal information if all or part of the Company is sold, merged, dissolved, acquired, or in a similar transaction.
@@ -73,20 +76,23 @@ We may also share personal information with other third party companies that we 
 
 This website may permit you to view your visitor profile and related personal information and to request changes to such information. If this function is available, we will include a link on this website with a heading such as “My Profile” or similar words. Clicking on the link will take you to a page through which you may review your visitor profile and related personal information.
 
-**_Website and Information Security_**   
+**Website and Information Security**  
 We maintain reasonable administrative, technical and physical safeguards designed to protect the information that you provide on this website. However, no security system is impenetrable and we cannot guarantee the security of our website, nor can we guarantee that the information you supply will not be intercepted while being transmitted to us over the Internet, and we are not liable for the illegal acts of third parties such as criminal hackers.
 
-**_Our Online Communication Practices_**   
+**Our Online Communication Practices**  
 We may send electronic newsletters, notification of account status, and other communications, such as marketing communications, on a periodic basis to various individuals and organizations. We may also send email communications regarding topics such as general health benefits, website updates, health conditions, and general health topics. We offer you appropriate consent mechanisms, such as opt-out, for marketing and certain other communications. As examples, you may opt-out as provided for in a specific email communication or contact us as described below in the section “Contact Us.” Please be aware that opt-outs may not apply to certain types of communications, such as account status, website updates, or other communications.
 
-**_Information for Children Under 13_**   
+**Information for Children Under 13**  
 We will not intentionally collect any personal information from children under the age of 13 through this website without receiving parental consent. If you think that we have collected personal information from a child under the age of 13 through this website, please contact us.
 
-**Contact Us**    
-You can [contact us](https://web.archive.org/web/20151008054920id_/http://www.optumbank.com/privacy-policy/~/link.aspx?_id=6BEACD30C5A24ACBBC685340891AD673&_z=z) regarding this Website Privacy Policy and our related privacy practices; representatives are available Monday through Friday from 8:00 a.m. to 8:00 p.m. Eastern time. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.
+##### Contact Us 
 
-**Effective Date  
-**The effective date of this policy is January 1, 2014.
+You can [contact us](https://web.archive.org/customer-support.html) regarding this Website Privacy Policy and our related privacy practices; representatives are available Monday through Friday from 8:00 a.m. to 8:00 p.m. Eastern time. If you believe we or any company associated with us has misused any of your information please contact us immediately and report such misuse.
 
-**Changes to this Website Privacy Policy**   
-We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates. 
+##### Effective Date
+
+The effective date of this policy is January 1, 2014.
+
+##### Changes to this Website Privacy Policy
+
+We may change this policy. If we do so, such change will appear on this page of our website. We will also provide appropriate notice and choices to you, on this website and in other appropriate locations, based on the scope and extent of changes. You may always visit this policy to learn of any updates.
