@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502154542id_/http%3A//www.alexandalexa.com/content/view/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alexandalexa.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224090901id_/https%3A//www.alexandalexa.com/content/view/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | AlexandAlexa
 
@@ -34,7 +34,7 @@ When you register, we will provide a link to the Privacy Policy and consent butt
 
 At all times, we will offer you the opportunity to opt-out of any service to which you have subscribed. Any e-mail we send you will contain an easy automated opt-out link so that you can opt-out of that particular mailshot. Simply follow the indications in the e-mail. In particular, you can opt-out from having your personally identifiable information shared with our business partners or AA's subsidiaries (except as required by law, court order, or as requested by other government or law enforcement authority or as may be required to deliver your purchases). It is not the Company's current policy to share its customers' personal details with third parties other than as stated herein.
 
-Should you choose to have your name and personal data removed from our database all together, you can do so by sending an e-mail to customerservice@alexandalexa.com or by writing to us at: ALEXANDALEXA.COM, Unit L01 (Lincoln Building), The Biscuit Factory, Tower Bridge Business Complex, 100 Clements Road, Bermondsey,London SE16 4DG UK
+Should you choose to have your name and personal data removed from our database all together, you can do so by sending an e-mail to customerservice@alexandalexa.com or by writing to us at: ALEXANDALEXA.COM, 10 Brick Street, Mayfair, London, W1J 7HQ, United Kingdom.
 
 How You Can Access And, If Necessary, Change Your Personal Information Maintained By AA
 
