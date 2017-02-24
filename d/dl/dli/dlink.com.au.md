@@ -1,36 +1,40 @@
-> *The following text is extracted and transformed from the dlink.com.au privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113163649id_/http%3A//www.dlink.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dlink.com.au privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225005150id_/https%3A//www.dlink.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
+### PRIVACY POLICY
+
 D-Link Australia Pty Ltd. ("we" or "us" or "D-Link") is committed to providing you with a positive, easy and secure online shopping experience.
 
-D-Link Australia Pty Ltd. (AU) manages [www.dlink.com.au](http://www.dlink.com.au/)
+D-Link Australia Pty Ltd. (AU) manages www.dlink.com.au
 
-D-Link Australia Pty Ltd. (NZ) manages [www.dlink.com.nz](http://www.dlink.com.nz/)
+D-Link Australia Pty Ltd. (NZ) manages www.dlink.com.nz  
+ 
 
-Our Policy explained:
+#### Our Policy explained:
 
- 1\. What information is collected?  
- 2\. What do we use the information for?  
- 3\. Sharing of information  
- 4\. Use of Cookies  
- 5\. Policy changes
+ 
 
-**1\. What information is collected?**
+#### **1\. What information is collected?**
 
- Any information you enter during the submission of forms or an order on D-Link Australia Pty Ltd. can be collected and stored in our customer database. In order to better define the types of information that is collected, D-Link Australia Pty Ltd. has identified and grouped these into two categories:   
+Any information you enter during the submission of forms or an order on D-Link Australia Pty Ltd. can be collected and stored in our customer database. In order to better define the types of information that is collected, D-Link Australia Pty Ltd. has identified and grouped these into two categories:
+
 a) Personal Information; and  
 b) General Non-Specific & Demographic Information.
 
-**Personal Information  
-**Personal information as defined by this Privacy Policy is any information that identifies you personally, such as name, address, telephone number and email address.
+##### **Personal Information**
 
-**General Non-Specific & Demographic Information  
-**Any non-personal information either entered by you or recorded as part of the transaction process is considered to be General Non-Specific & Demographic Information. This is information that does not contain personal information, rather is comprised of the type and quantities of products purchased, and any demographic information.
+Personal information as defined by this Privacy Policy is any information that identifies you personally, such as name, address, telephone number and email address.
 
-D-Link Australia Pty Ltd. also has the ability to track your navigation through this site by recording the Uniform Resource Locator (URL), as well as your computer's IP address, which is a unique address assigned to your PC by your Internet Service Provider or Information Systems Department on a TCP/IP network.
+##### **General Non-Specific & Demographic Information**
 
-**2\. What do we use the information for?**
+Any non-personal information either entered by you or recorded as part of the transaction process is considered to be General Non-Specific & Demographic Information. This is information that does not contain personal information, rather is comprised of the type and quantities of products purchased, and any demographic information.
+
+D-Link Australia Pty Ltd. also has the ability to track your navigation through this site by recording the Uniform Resource Locator (URL), as well as your computer's IP address, which is a unique address assigned to your PC by your Internet Service Provider or Information Systems Department on a TCP/IP network.
+
+ 
+
+#### **2\. What do we use the information for?**
 
 In order to provide you with the best online experience possible, we collect both personal and non-personal information to give us a better understanding of the demographic and geographic profile of our customers. The information we collect is reviewed closely to assist us in determining the most popular products of interest to our customers, and better structure our site(s) to suit your needs.
 
@@ -42,28 +46,17 @@ We may also run contests and/or sweepstakes at various times. By entering the sw
 
 Should you contact us via the email contact links on our site, or via telephone or written correspondence, we may keep your comments on file for future use in our contact database.
 
-**3\. Sharing of Information**
+#### 3\. Sharing of Information
 
 The primary purpose of collecting personal and non-personal information on this site is for the purposes of informing you of ongoing marketing activities to keep you apprised of new products, special offers or contests we may run from time to time.
 
-Your personal information will not be sold, traded or rented to another party and is for the express internal use of D-Link Australia Pty Ltd. and D-Link Australia Pty Ltd. only except as otherwise stated in this policy.
+Your personal information will not be sold, traded or rented to another party and is for the express internal use of D-Link Australia Pty Ltd. and D-Link Australia Pty Ltd. only except as otherwise stated in this policy.
 
-**4\. Use of Cookies**
+#### 4\. Use of Cookies
 
 "Cookies" are files that are created by websites and stored on your computer's hard drive. Cookies can contain a variety of information, such as a simple count of how often you visit a website or information that allows us to customise our websites for your use. A D-Link cookie cannot be recognized or viewed by another website, thus ensuring privacy on the customers' or web visitors’ part. There is no way for a cookie to view or store any information from your hard drive, capture your email address, or pass on a computer virus.
 
 D-Link or a third party acting on our behalf may use cookies to tailor and improve the content we deliver to our web visitors, to improve our websites by assessing which areas, features, and products are most popular, and to personalise our websites and make recommendations based on information, including product choices, a particular visitor has previously provided. We may also use cookies to store user preferences, complete online order activity, and keep track of transactions.
-
-D-Link uses cookies for the following specific purposes:
-
-  * To remember whether the Home or Business section of the D-Link website is your preferred area;
-  * To remember if you have downloaded a Latest Resource document on the Business homepage;
-  * To gather analytics and usage data (with the ultimate aim of improving the experience for our users);
-  * To remember your shopping basket contents
-
-
-
-You can configure your web browser to alert you when a website is attempting to send a cookie to your computer and allow you to accept or refuse the cookie. You may stop or restrict the placement of cookies on your computer, including third party cookies, or delete cookies previously accepted, by adjusting your web browser preferences. Some web pages may not work correctly if you have cookies disabled.
 
 **How to enable and disable cookies using your browser**
 
@@ -80,7 +73,7 @@ If you do disable our cookies you may find that certain sections of our website 
 
 
 
-Note there are various levels of cookie enablement and disablement in Chrome. For more information on other cookie settings offered in Chrome, refer to the following page from Google: [http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
+Note there are various levels of cookie enablement and disablement in Chrome. For more information on other cookie settings offered in Chrome, refer to the following page from Google:[http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647](http://support.google.com/chrome/bin/answer.py?hl=en&answer=95647)
 
 **b. Microsoft Internet Explorer**
 
@@ -91,7 +84,7 @@ Note there are various levels of cookie enablement and disablement in Chrome. Fo
 
 
 
-Note there are various levels of cookie enablement and disablement in Explorer. For more information on other cookie settings offered in Internet Explorer, refer to the following page from Microsoft: <http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies>
+Note there are various levels of cookie enablement and disablement in Explorer. For more information on other cookie settings offered in Internet Explorer, refer to the following page from Microsoft:<http://windows.microsoft.com/en-GB/windows-vista/Block-or-allow-cookies>
 
 **c. Mozilla Firefox**
 
@@ -102,7 +95,7 @@ Note there are various levels of cookie enablement and disablement in Explorer. 
 
 
 
-Note there are various levels of cookie enablement and disablement in Firefox. For more information, refer to the following page from Mozilla: <http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies>
+Note there are various levels of cookie enablement and disablement in Firefox. For more information, refer to the following page from Mozilla: <http://support.mozilla.org/en-US/kb/Enabling%20and%20disabling%20cookies>
 
 **d. Opera**
 
@@ -113,7 +106,7 @@ Note there are various levels of cookie enablement and disablement in Firefox. F
 
 
 
-Note there are various levels of cookie enablement and disablement in Opera. For more information on other cookie settings offered in Opera, refer to the following page from Opera Software: <http://www.opera.com/browser/tutorials/security/privacy/>
+Note there are various levels of cookie enablement and disablement in Opera. For more information on other cookie settings offered in Opera, refer to the following page from Opera Software:<http://www.opera.com/browser/tutorials/security/privacy/>
 
 **e. Safari on OSX**
 
@@ -124,7 +117,7 @@ Note there are various levels of cookie enablement and disablement in Opera. For
 
 
 
-Note there are various levels of cookie enablement and disablement in Safari. For more information on other cookie settings offered in Safari, refer to the following page from Apple: <http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html>
+Note there are various levels of cookie enablement and disablement in Safari. For more information on other cookie settings offered in Safari, refer to the following page from Apple: <http://docs.info.apple.com/article.html?path=Safari/3.0/en/9277.html>
 
 **f. All other browsers**
 
@@ -132,6 +125,6 @@ Note there are various levels of cookie enablement and disablement in Safari. Fo
 
 
 
-**5\. Policy Changes**
+#### 5\. Policy Changes
 
 This Privacy Policy has been developed and implemented in accordance with the Privacy Act 1988 (Cth) (Privacy Act). As changes to our information gathering practices change, we will update this policy as required. Information contained in this policy may change at any time without notice, so please be sure to check our Privacy Policy statement regularly before disclosing any personal or non-personal information through this website.
