@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carcarekiosk.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323232615id_/http%3A//www.carcarekiosk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carcarekiosk.com privacy policy that was archived on 2017-02-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170224131025id_/https%3A//www.carcarekiosk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy of CarCareKiosk website and Service
 
