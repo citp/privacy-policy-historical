@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amac.us privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202085634id_/http%3A//amac.us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amac.us privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225121613id_/https%3A//amac.us/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AMAC, Inc.
 
@@ -28,6 +28,6 @@ AMAC may periodically mail you invitations to Town Hall meetings, Capitol Hill r
 
 AMAC may mail notices when new discounts or benefits become available to our members.
 
-_**Please note that AMAC, the Association of Mature American Citizens, does not engage in unsolicited telemarketing. If you would like information about AMAC insurance products you can call 888-262-2006, or complete and submit a form online at [http://amac.us/insurance](https://web.archive.org/web/20161202085634id_/http://amac.us/privacy-policy/redir.aspx?C=163eeb40faff43e6b859b51f151c7ffe&URL=http%3a%2f%2famac.us%2finsurance). We will only call you if you submit this form. If you receive an unsolicited telephone call from any person claiming to represent AMAC, kindly contact us at 888-262-2006.**_
+_**Please note that AMAC, the Association of Mature American Citizens, does not engage in unsolicited telemarketing. If you would like information about AMAC insurance products you can call 888-262-2006, or complete and submit a form online at [http://amac.us/insurance](https://web.archive.org/web/20170225121613id_/https://amac.us/privacy-policy/redir.aspx?C=163eeb40faff43e6b859b51f151c7ffe&URL=http%3a%2f%2famac.us%2finsurance). We will only call you if you submit this form. If you receive an unsolicited telephone call from any person claiming to represent AMAC, kindly contact us at 888-262-2006.**_
 
 Don't miss out on all the benefits and offers you get for becoming an AMAC member. [Join or Renew Today](https://web.archive.org/join-amac/)
