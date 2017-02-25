@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malayaleeshaadi.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401234139id_/http%3A//www.malayaleeshaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malayaleeshaadi.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225142807id_/https%3A//www.malayaleeshaadi.com/shaadi-info/index/privacy) for the most accurate reproduction.*
 
 # Shaadi.com Privacy Policy Indian matrimonial web site - free listing matrimonials - MalayaleeShaadi.com
 
