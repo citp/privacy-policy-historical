@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eflow.ie privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405060804id_/https%3A//www.eflow.ie/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eflow.ie privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225021047id_/https%3A//www.eflow.ie/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
@@ -6,7 +6,7 @@
 
 #### 1\. General
 
-1.1 This eFlow website is operated by Sanef ITS Operations Ireland Limited (“Sanef Ireland”) on behalf of Transport Infrastructure Ireland ("TII").  Sanef Ireland and the TII fully respects your right to privacy, and will not collect any personal information about you on this website without your clear knowledge and permission. Any personal information which you volunteer to us will be treated strictly in accordance with the Data Protection Acts 1988 and 2003.
+1.1 This eFlow website is operated by Sanef ITS Operations Ireland Limited ("emovis operations Ireland") on behalf of Transport Infrastructure Ireland ("TII"). emovis operations Ireland and the TII fully respects your right to privacy, and will not collect any personal information about you on this website without your clear knowledge and permission. Any personal information which you volunteer to us will be treated strictly in accordance with the Data Protection Acts 1988 and 2003.
 
 1.2 Please read the terms of this privacy statement carefully, as by visiting this website you will be deemed to have accepted the terms of this privacy statement.
 
@@ -38,7 +38,7 @@ For more information about the way this website uses cookies click here.
 
 5.1 For site security purposes and to ensure that this website remains available to all users, our computer system employs software programs to monitor network traffic in order to identify unauthorised attempts to upload or change information or otherwise cause damage. Unauthorised attempts to upload information or change information on our website are strictly prohibited and may be punishable by law.
 
-5.2 Your personal data which you provide to us will be held on secure servers hosted by Sanef Ireland. The nature of the internet is such that we cannot guarantee the security of any information you transmit to us online. However, we take all reasonable steps (including appropriate technical and organisational security measures) to protect your personal data.
+5.2 Your personal data which you provide to us will be held on secure servers hosted by emovis operations Ireland. The nature of the internet is such that we cannot guarantee the security of any information you transmit to us online. However, we take all reasonable steps (including appropriate technical and organisational security measures) to protect your personal data.
 
 #### 6\. Changes to this Privacy Statement
 
