@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ciscospark.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207003553id_/https%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ciscospark.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225094711id_/https%3A//www.cisco.com/web/siteassets/legal/privacy.html) for the most accurate reproduction.*
 
 # Cisco Online Privacy Statement Summary - Cisco Systems
 
