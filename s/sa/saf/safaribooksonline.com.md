@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108054529id_/https%3A//www.safaribooksonline.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safaribooksonline.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225130954id_/https%3A//www.safaribooksonline.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy: Safari
 
-This version (Version 3.1) of Safari's Privacy Policy is effective as of October 5, 2015.
+This version (Version 3.2) of Safari's Privacy Policy is effective as of November 10, 2016.
 
 This Policy (the "Policy") discloses the privacy practices of Safari Books Online, LLC ("Safari," "we," "us," "our") with respect to the websites that Safari owns and operates and that link to or display this Policy. Those websites include [www.pubfactory.com](http://www.pubfactory.com/) and [www.safaribooksonline.com](https://www.safaribooksonline.com/). This Policy governs how Safari collects, stores, processes, transfers, uses, and protects personally identifiable information that it collects from and about you with respect to those sites. Other Safari websites display or link to the privacy policy that applies to them.
 
@@ -10,11 +10,7 @@ Please note that any use you make of any Safari service offering (including uses
 
 [](https://privacy.truste.com/privacy-seal/Safari-Books-Online,-LLC/validation?rid=0db8de1f-992d-4d2e-9773-3147691a9e27 "TRUSTe European Safe Harbor certification")
 
-The TRUSTe program covers information collected through these websites, [www.pubfactory.com](http://www.pubfactory.com/) and [www.safaribooksonline.com](https://www.safaribooksonline.com/), and does not cover the behind the login on our website <https://schools.safaribooksonline.com/accounts/login/>. 
-
-In order to view our relationship with TRUSTe, please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that have not been addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
-
-Safari Books Online, LLC complies with the U.S.-E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Safari Books Online, LLC has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Safari Books Online, LLC's certification, please visit <http://www.export.gov/safeharbor>.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 ## QUESTIONS OR CONCERNS: CONTACT US
 
@@ -24,8 +20,6 @@ Safari Books Online, LLC
 Attn: Customer Service  
 1003 Gravenstein Hwy North  
 Sebastopol, CA 95472 
-
-If you are not satisfied with our response you can contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
 ### 1\. INFORMATION WE COLLECT
 
@@ -45,19 +39,17 @@ We use this information to manage and administer our products and services, and 
 
 #### 1.3 INFORMATION WE COLLECT THROUGH ONLINE TECHNOLOGY:
 
-We use cookies for authentication, to remember users’ settings, and to improve user experience and the overall quality of our service. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+We use cookies for authentication, to remember users’ settings, and to improve user experience and the overall quality of our service. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 Technologies such as cookies, beacons, tags and scripts are used by us and our affiliates, and other companies with whom we do business, such as technology service providers, analytics providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports from these companies based on the use of these technologies by these companies, and the reports may be based on the analysis of individual and/or aggregated usage.
 
-**Analytics / Log Files** \- As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. 
+**Analytics / Log Files** \- As is true of most websites, we gather certain information automatically and store it in log files. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data.
 
-We engage a third party to either display advertising on our Web site or to manage our advertising on other sites. That third party company may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) or if located in the European Union, click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served ads; you will continue to receive generic ads. 
+We may from time-to-time engage a third-party advertising network to either display advertising on our Website or to manage our advertising on other sites. That third-party company may use technologies such as cookies to collect non-personally-identifiable information about your activities on our websites and other sites in order to provide you with targeted advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) or if located in the European Union, click [here](http://www.youronlinechoices.eu/). Please note this does not opt you out of being served ads; you will continue to receive generic ads.
 
-We use Local Storage (LS) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LS. 
+We use Local Storage (LS) such as HTML5 to store content information and preferences. Various browsers may offer their own management tools for removing HTML5 LS.
 
 Our website includes social media features, such as the Facebook and Twitter sign on buttons. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets may be hosted by a third party or hosted directly on our websites. Your interactions with these third-party features are governed by the privacy policy of the companies providing the features.
-
-You can log in to our community forum using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity, provide you the option to share certain personal information (such as your name and email address) with us, and pre-populate our community forum sign- up form. Services like Facebook Connect give you the option to post information about your activities on our community forum to your profile page to share with others within your network.
 
 #### 1.4 INFORMATION FROM OTHER SOURCES:
 
@@ -76,9 +68,10 @@ We use PII to conduct business, provide information and support for products and
   * Analyzing how our products and services are used
   * Personalizing content
   * Advertising including but not limited to remarketing, Google Display Network Impression Reporting, and Google Analytics Demographics and Interest Reporting. We may base the content and placement of ads for Safari service offerings on third party sites across the internet, based on information provided to us by third party services such as Google Analytics Demographics and Interest Reporting.
-  * Monitoring our services in order to prevent and identify unauthorized content use and violations of our user agreements
+  * Monitoring our services in order to prevent and identify unauthorized content use and violations of our membership agreements
   * Planning and forecasting
-  * Legal compliance, and preventing fraud and prohibited or illegal activities
+  * Maintaining legal compliance, and preventing fraud and prohibited or illegal activities.
+  * We use information collected directly from you in order to monitor website traffic, personalize our website, and to improve our website. 
 
 
 
@@ -90,10 +83,10 @@ We will not sell your information to third party companies for their promotional
   * Our service providers and suppliers, who are authorized to use your personal information only as necessary to provide these services to us. For example, we use a third party payment processor in order to bill you for the goods and services you have purchased, an email service provider to send communications to you on our behalf, and a third party "Live Chat" service that helps provide customer service.
   * Our websites include links to other websites whose privacy practices may differ from those of Safari. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit.
   * As necessary, if we suspect a violation of our policies or to protect the rights or safety of any person or entity
-  * Government agencies, law enforcement agencies and others, based on a good faith belief that disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law
+  * Government agencies, law enforcement agencies and others, based on a good faith belief that disclosure is necessary to respond to judicial process, valid government inquiry, or is otherwise required by law.
   * The buyer, if Safari or any of its assets are sold. In the event of a sale of Safari or its assets, you will be notified via a prominent notice on our website of any related change in uses of your personal information, as well as any choices you may have regarding those changes.
-  * Other third parties for purposes you have allowed by giving us your prior consent
-  * Others including without limitation other participants, to the extent of any PII that is posted by you or an authorized third party to our wikis, forums, blogs, message boards, chat rooms and other social network environments
+  * Other third parties for purposes you have allowed by giving us your prior consent.
+  * Others including without limitation other participants, to the extent of any PII that is posted by you or an authorized third party to our wikis, forums, blogs, message boards, chat rooms and other social network environments.
 
 
 
@@ -117,9 +110,13 @@ We will only transfer personal information to third parties if those third parti
 
 Safari uses administrative, technical, and physical safeguards to protect the security, confidentiality and integrity of PII against loss, misuse and unauthorized access, disclosure, alteration, and destruction. In addition, we use standard security protocols and mechanisms (such as secure socket layer [SSL] encryption) to transmit sensitive data such as credit card details. You can assist us in protecting your PII by keeping your password and login information secret, and making sure that you terminate user sessions, close the browser, and log out when you access our services from shared computers. Please note that no method of transmission over the internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
 
+If you have any questions about the security of your personal information, you can contact us at: [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com).
+
 ### 7\. ACCESS AND ACCURACY; UPDATING, CORRECTING OR DELETING INFORMATION; HOW LONG PII IS RETAINED
 
-It is important to us to maintain the accuracy of your contact information. We provide individuals with reasonable access to their PII in order to have it corrected, amended or deleted where it is inaccurate or inappropriate for the specified purposes of processing. If you need to update, correct, or request the deletion or deactivation of your information please do so by email at: [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com). You also may update your information by writing to:
+It is important to us to maintain the accuracy of your contact information. We provide individuals with reasonable access to their PII in order to have it corrected, amended or deleted where it is inaccurate or inappropriate for the specified purposes of processing.
+
+If you need to update, correct, or request the deletion or deactivation of your information please do so by email at: [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com). You also may update your information by writing to:
 
 Safari Books Online, LLC  
 Attn: Customer Service  
@@ -134,9 +131,9 @@ We will retain your PII for as long as your account is active, and as necessary 
 
 Safari's websites and marketing are not directed to children under 13 years of age.
 
-### 9\. TRANSFERS OF PII UNDER SAFE HARBOR
+### 9\. INTERNATIONAL TRANSFERS OF PII
 
-SAFARI TRANSACTS BUSINESS THROUGHOUT THE WORLD AND HAS OPERATIONS, PROCESSES AND SYSTEMS THAT CROSS BORDERS. IF YOU CHOOSE TO PROVIDE US WITH INFORMATION, INCLUDING PII, YOU UNDERSTAND THAT WE MAY TRANSFER IT WITHIN SAFARI IN THE UNITED STATES OR TO AFFILIATES, JOINT VENTURE PARTNERS, AND THIRD PARTY SERVICE PROVIDERS AROUND THE WORLD.
+Safari transacts business throughout the world and has operations, processes and systems that cross borders. If you choose to provide us with information, including PII, you understand that we may transfer it within Safari in the United States or to affiliates, joint venture partners, and third party service providers around the world, including to countries which may not require an adequate level of protection for your PII compared with that provided in your country. However Safari works closely with its customers, affiliates, and third party service providers to ensure that all requirements under local law are adhered to facilitate or otherwise legitimize any such transfers.
 
 ### 10\. CHANGES TO THIS PRIVACY POLICY
 
@@ -144,10 +141,10 @@ Please note that this Policy may change from time to time. We will not reduce yo
 
 ### 11\. FOR CALIFORNIA RESIDENTS: YOUR PRIVACY RIGHTS AND DO NOT TRACK DISCLOSURE
 
-Safari’s policy is to share your personal information only if you have given us your consent, for instance, by your agreeing to this Policy through your use of our sites. After obtaining such consent, Safari may in accordance with this policy from time to time provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know, or if you have further inquiries regarding our information sharing practices, please let us know. You can email us at [marketing@safaribooksonline.com](mailto:marketing@safaribooksonline.com).
+Safari’s policy is to share your personal information only if you have given us your consent, for instance, by your agreeing to this Policy through your use of our sites. After obtaining such consent, Safari may in accordance with this policy from time to time provide its business partners with contact details for direct marketing purposes of relevant services, products, and programs. If you no longer wish your information to be shared, please let us know, or if you have further inquiries regarding our information sharing practices, please let us know. You can email us at [customer-service@safaribooksonline.com](mailto:customer-service@safaribooksonline.com).
 
-At this time our websites do not respond to web browser “do not track” signals or comparable signals or mechanisms. There is much current discussion in the industry, among government agencies, lawmakers, and the public regarding alternative “do not track” response standards. We will continue to monitor “do not track” developments, with the expectation of modifying our policy in the future as these issues are resolved.
+California law requires us to let you know how we respond to web browser Do Not Track (DNT) signals. Because there currently isn't an industry or legal standard for recognizing or honoring DNT signals, we don't respond to them at this time. We await the result of work by the privacy community and industry.
 
 ### 12\. PREVIOUS VERSIONS
 
-For the previous version see [Safari Books Online Privacy Policy](https://web.archive.org/static/legal/v3.1_sfPrivacyPolicy_updated5October2015.98092634474a.pdf) [Version 3.0] This is version 3.1.
+For the previous version [Version 3.1] [please click here](https://web.archive.org/static/legal/v3.1_sfPrivacyPolicy_updated5October2015.8d3cbd40ac92.pdf). This is version 3.2.
