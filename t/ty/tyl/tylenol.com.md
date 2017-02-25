@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2015-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151228061500id_/http%3A//www.tylenol.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tylenol.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225201702id_/https%3A//www.tylenol.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | TYLENOL®
 
-**Date Last Updated:** June 17, 2015
+**Date Last Updated:** March 7, 2016
 
-**McNEIL-PPC, Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use, and disclose information.  This Privacy Policy describes our practices in connection with information that we or our service providers collect through the Web site or Web property (including, for example, a mobile Web site or application) operated and controlled by us from which you are accessing this Privacy Policy (each, the “ **Site** ”).  By providing personal information to us or by using the Site, you agree to the terms and conditions of this Privacy Policy.
+**Johnson & Johnson Consumer Inc.** is concerned about privacy issues and wants you to be familiar with how we collect, use, and disclose information.  This Privacy Policy describes our practices in connection with information that we or our service providers collect through the Web site or Web property (including, for example, a mobile Web site or application) operated and controlled by us from which you are accessing this Privacy Policy (each, the “ **Site** ”).  By providing personal information to us or by using the Site, you agree to the terms and conditions of this Privacy Policy.
 
 **INFORMATION COLLECTION**
 
@@ -12,7 +12,7 @@
 
 Some areas of the Site may ask you to submit personal information in order for you to benefit from the specified features (such as newsletter subscriptions, tips/pointers, or order processing) or to participate in a particular activity (such as sweepstakes or other promotions).  You will be informed what information is required and what information is optional.
 
- We may combine the information you submit with other information we have collected from you, whether on- or offline, including, for example, your purchase history.  We may also combine it with information we receive about you from other sources, such as other companies, divisions, parents, subsidiaries, and affiliated companies of **McNEIL-PPC, Inc.  **, publicly available information sources (including information from your publicly available social media profiles), and other third parties.
+ We may combine the information you submit with other information we have collected from you, whether on- or offline, including, for example, your purchase history.  We may also combine it with information we receive about you from other sources, such as other companies, divisions, parents, subsidiaries, and affiliated companies of **Johnson & Johnson Consumer Inc. **, publicly available information sources (including information from your publicly available social media profiles), and other third parties.
 
 **Passive Information Collection and Use**
 
@@ -52,7 +52,7 @@ We also disclose information collected through the Site: 
 
 
 
-**McNEIL-PPC, Inc**. is the party responsible for the management of the jointly-used Personal Information; ****
+**Johnson & Johnson Consumer Inc.**. is the party responsible for the management of the jointly-used Personal Information; ****
 
   * to our third party partners with whom we offer a co-branded or co-marketed promotion;
   * to our third party service providers who provide services such as website hosting and moderating, mobile application hosting, data analysis, payment processing, order fulfillment, infrastructure provision, IT services, customer service, e-mail and direct mail delivery services, credit card processing, auditing services, and other services, in order to enable them to provide services; and
@@ -125,7 +125,7 @@ If you have any questions about this Privacy Policy, please contact us via one o
 
 
 
-For Consumers and Professionals, please call **800-361-8068** (Monday to Friday, 8am to 8pm EST)
+For Consumers and Professionals, please call **800-361-8068** (Monday to Friday, 9am to 7pm EST)
 
 If you reside outside of the United States, a list of telephone numbers by country is available at
 
@@ -137,10 +137,10 @@ If you reside outside of the United States, a list of telephone numbers by count
 
 Consumer Care Center
 
-McNeil Consumer Healthcare
+Johnson & Johnson Consumer Inc., McNeil Consumer Healthcare Division
 
 7050 Camp Hill Rd
 
 Fort Washington, PA 19034
 
-© **McNEIL-PPC, Inc. 1998 - 2015.**
+© **Johnson & Johnson Consumer Inc. 2016.**
