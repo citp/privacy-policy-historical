@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dashvapes.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314230701id_/http%3A//www.dashvapes.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dashvapes.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225154133id_/https%3A//www.dashvapes.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ## General
 
-DashVapes respects the privacy of every individual who visits vapescrape (the "Website") or responds to any promotions listed on the Website. DashVapes Privacy Policy outlines the information DashVapes will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising. 
+DashVapes respects the privacy of every individual who visits DashVapes (the "Website") or responds to any promotions listed on the Website. DashVapes Privacy Policy outlines the information DashVapes will collect and how we will use that information. This Policy will also inform you what to do if you do not want your Personal Information to be shared or divulged when you visit our Website or respond to our advertising. 
 
 We do not attempt to collect excessive or irrelevant information, whether that information personally identifies you or not. We collect information solely for the purposes stated below. We will take reasonable steps to delete or de-identify information about you that we collect when it is no longer needed to interact with you. You agree that until you notify us by following the instructions under "Opt-out" below or we determine that the information is no longer needed, we may retain the information indefinitely. 
 
