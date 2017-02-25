@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dasheroo.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518035814id_/https%3A//www.dasheroo.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dasheroo.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225160051id_/https%3A//www.dasheroo.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Dasheroo
 
