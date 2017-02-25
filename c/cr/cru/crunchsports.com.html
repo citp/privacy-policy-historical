@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the crunchsports.com privacy policy that was archived on 2016-09-03.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160903125425id_/http%3A//www.crunchsports.com/information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the crunchsports.com privacy policy that was archived on 2017-02-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170225235121id_/http%3A//www.crunchsports.com/information/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head id="Head1"><meta charset="utf-8"><meta name="Title" content="Privacy Policy"><meta name="Keyword" content="Privacy Policy"><meta name="Description" content="Privacy Policy"><title>
 	Privacy Policy
@@ -17,7 +17,7 @@ var _gaq = _gaq || [];
     var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
   })();
 </script>
-    <link rel="shortcut icon" type="image/x-icon" href="http://www.crunchsports.com/favicon.ico"><link href="http://www.desportotv.com/css/layout.css" type="text/css" rel="stylesheet"><script language="javascript" src="http://www.desportotv.com/js/jquery.js" type="text/javascript"></script></head>
+    <link rel="shortcut icon" type="image/x-icon" href="http://www.crunchsports.com/favicon.ico"><link href="http://www.desportotv.com/css/layout-v1.css" type="text/css" rel="stylesheet"><script language="javascript" src="http://www.desportotv.com/js/jquery.js" type="text/javascript"></script></head>
 <body>
     <div id="fb-root"><script async="" src="https://connect.facebook.net/en_US/all.js"></script></div>
     <script>
@@ -37,13 +37,36 @@ var _gaq = _gaq || [];
     </script>
     <form method="post" action="/information/privacy-policy/" id="form1" onsubmit="return false;">
 <div class="aspNetHidden">
-<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQzNzc5NDg1N2RkNxicQMuel6Zikv+bHZWSIIOT2xcRvcnrSA1NlFkECQU=">
+<input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="/wEPDwUKLTQzNzc5NDg1N2RkXURkfrIojbpJmgMNrCcaFEP57AC20eCpz1EwkdIkNh8=">
 </div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form1'];
+if (!theForm) {
+    theForm = document.form1;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=lSAdCpw4O5AjS3N7x27Hiu0LfeEzGefQA_2xnPWB6EWFaBy3KjiDnm4_z_cBHETVE8226kBdL_0WiDuTLZojvdKFnxRQpqFOEhE6cElarnE1&amp;t=636160844560000000" type="text/javascript"></script>
 
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="76FD6D4A">
-	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAARrRZl9fJcNnamV2kYuRfme/7fRIiRi1Pd/ANOXpsqUR0AjhKhJXtrRYFrvyogtkFa+Q+exHay7W4M2hnqYmWh2m4kVM8euC2VEQR6yQ1HwodvRObOm7m7xEmDwaEt0MuI=">
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
+	<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+	<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
+	<input type="hidden" name="__EVENTVALIDATION" id="__EVENTVALIDATION" value="/wEdAAST7+/iEvkaR/h55uHszIvf/7fRIiRi1Pd/ANOXpsqUR0AjhKhJXtrRYFrvyogtkFa+Q+exHay7W4M2hnqYmWh2rmm7tlcSI69MqFZ/RtvHCVs1P4xS9tLWSxHL8hfKaek=">
 </div>
     <div id="signUpoverlay"></div>
   
@@ -91,7 +114,7 @@ var _gaq = _gaq || [];
            
 </div>
     <script type="text/javascript">
-
+var isPopMob=/iPhone|android/i.test(navigator.userAgent);
         if (document.location.href.indexOf("signup") > -1 || document.location.href.indexOf("forgotpassword") > -1 || document.location.href.indexOf("confirmation") > -1 || document.location.href.indexOf("money-multiplier") > -1) {
             $("#signUp").css("display", "none");
             $("#signUpoverlay").css("display", "none");
@@ -101,7 +124,7 @@ var _gaq = _gaq || [];
 			$("#signUp").css("display", "none");
             $("#signUpoverlay").css("display", "none");
 		}
-
+		
         var Errorlog = "Enter a valid email address!";
         var subscribe = "This email address is already subscribed.";
         console.log("Errorlog" + Errorlog);
@@ -124,7 +147,8 @@ var _gaq = _gaq || [];
             $("#signUp").css("display", "none");
             $("#signUpoverlay").css("display", "none");
         }
-        setTimeout(function () {if($('.reveal').length){return} document.body.classList.add('popsign') }, 3000)
+		var ispopStatus = getCookie("Popupcookie");
+        setTimeout(function () {if($('.reveal').length){return} document.body.classList.add('popsign');isPopMob&&typeof (ispopStatus) == 'undefined' && ispopStatus == null&&$('html,body').animate({scrollTop:70},500); }, 3000)
         var cr = document.querySelector('#signUp .cross');
         cr.addEventListener('click', function () { document.body.classList.remove('popsign');SetpopupCookie('setpopup');/*sessionStorage.setItem('newpopup', 'true')*/ }, false)
 
@@ -283,8 +307,8 @@ var _gaq = _gaq || [];
 
     <div class="main-container">
         
-<div id="header" class="animate">
-<div class="inner"><a href="javascript:void(0);" class="mob-nav"></a>
+<div id="header">
+<div class="inner"><a href="javascript:void(0);" class="mob-nav"><svg class="icon icon-menu-toggle" aria-hidden="true" x="0px" y="0px" viewBox="0 0 100 100" style="fill: #fff;"><g class="svg-menu-toggle"><path class="line2 line-1" d="M5 0h100v10H5z"></path><path class="line2 line-2" d="M5 40h100v10H5z"></path><path class="line2 line-3" d="M5 80h100v10H5z"></path></g></svg></a>
 <button type="button" class="filters"></button>
 <div class="logoWrp">
 <h3 class="logo"><a href="http://www.crunchsports.com/">crunchsports</a></h3>
@@ -309,14 +333,46 @@ var _gaq = _gaq || [];
 </div>
   
 <ul class="main">
-<li id="cat_1601" class="" onmouseover="javascript:Getsubcategory('1601');" data-count="11"><a href="http://www.crunchsports.com/category/soccer/">Soccer</a><i></i><ul><li><a href="http://www.crunchsports.com/subcategory/Soccer/UK-Football/">UK Football</a></li><li><a href="http://www.crunchsports.com/subcategory/Soccer/Transfer-News/">Transfer News</a></li><li><a href="http://www.crunchsports.com/subcategory/Soccer/Europe/">Europe</a></li><li><a href="http://www.crunchsports.com/subcategory/Soccer/Internationals/">Internationals</a></li></ul></li><li id="cat_2596" class="" onmouseover="javascript:Getsubcategory('2596');" data-count="0"><a href="http://www.crunchsports.com/category/compare-bookmakers/">Compare Bookmakers</a><i></i></li><li id="cat_1603" class="" onmouseover="javascript:Getsubcategory('1603');" data-count="6"><a href="http://www.crunchsports.com/category/tennis/">Tennis</a><i></i></li><li id="cat_2581" class="" onmouseover="javascript:Getsubcategory('2581');" data-count="0"><a href="http://www.crunchsports.com/category/bonuses/">Bonuses (40)</a><i></i></li><li id="cat_2582" class="" onmouseover="javascript:Getsubcategory('2582');" data-count="0"><a href="http://www.crunchsports.com/category/promotions/">Promotions (98)</a><i></i></li><li id="cat_ALL"><a href="javascript:void(0);">ALL</a><ul class="ALLclass"><li><a href="http://www.crunchsports.com/category/Basketball/">Basketball</a><i></i></li><li><a href="http://www.crunchsports.com/category/bonuses/">Bonuses (40)</a><i></i></li><li><a href="http://www.crunchsports.com/category/Boxing/">Boxing</a><i></i></li><li><a href="http://www.crunchsports.com/category/compare-bookmakers/">Compare Bookmakers</a><i></i></li><li><a href="http://www.crunchsports.com/category/Cricket/">Cricket</a><i></i></li><li><a href="http://www.crunchsports.com/category/Darts/">Darts</a><i></i></li><li><a href="http://www.crunchsports.com/category/entertainment/">Entertainment</a><i></i></li><li><a href="http://www.crunchsports.com/category/eSports/">eSports</a><i></i></li><li><a href="http://www.crunchsports.com/category/Euroleague/">Euroleague</a><i></i></li><li><a href="http://www.crunchsports.com/category/Futsal/">Futsal</a><i></i></li><li><a href="http://www.crunchsports.com/category/Golf/">Golf</a><i></i></li><li><a href="http://www.crunchsports.com/category/Horse-Racing/">Horse Racing</a><i></i></li><li><a href="http://www.crunchsports.com/category/Live-Streaming/">Live Streaming</a><i></i></li><li><a href="http://www.crunchsports.com/category/MLB/">MLB</a><i></i></li><li><a href="http://www.crunchsports.com/category/Motorsports/">Motorsports</a><i></i></li><li><a href="http://www.crunchsports.com/category/NASCAR/">NASCAR</a><i></i></li><li><a href="http://www.crunchsports.com/category/NBA/">NBA</a><i></i></li><li><a href="http://www.crunchsports.com/category/NCAA-Basketball/">NCAA Basketball</a><i></i></li><li><a href="http://www.crunchsports.com/category/NCAA-Football/">NCAA Football</a><i></i></li><li><a href="http://www.crunchsports.com/category/NFL/">NFL</a><i></i></li><li><a href="http://www.crunchsports.com/category/NHL/">NHL</a><i></i></li><li><a href="http://www.crunchsports.com/category/Olympics/">Olympics</a><i></i></li><li><a href="http://www.crunchsports.com/category/Other-Crunch-News/">Other Crunch News</a><i></i></li><li><a href="http://www.crunchsports.com/category/promotions/">Promotions (90)</a><i></i></li><li><a href="http://www.crunchsports.com/category/Rugby-League/">Rugby League</a><i></i></li><li><a href="http://www.crunchsports.com/category/Snooker/">Snooker</a><i></i></li><li><a href="http://www.crunchsports.com/category/Soccer/">Soccer</a><i></i></li><li><a href="http://www.crunchsports.com/category/Tennis/">Tennis</a><i></i></li><li><a href="http://www.crunchsports.com/category/UFC-MMA/">UFC/MMA</a><i></i></li><li><a href="http://www.crunchsports.com/category/Volleyball/">Volleyball</a><i></i></li><li><a href="http://www.crunchsports.com/category/WWE/">WWE</a><i></i></li></ul></li> 
+<li id="cat_1601" class="" onmouseover="javascript:Getsubcategory('1601');" data-count="11"><a href="http://www.crunchsports.com/category/soccer/">Soccer</a><i></i><ul><li><a href="http://www.crunchsports.com/subcategory/Soccer/UK-Football/">UK Football</a></li><li><a href="http://www.crunchsports.com/subcategory/Soccer/Transfer-News/">Transfer News</a></li><li><a href="http://www.crunchsports.com/subcategory/Soccer/Europe/">Europe</a></li><li><a href="http://www.crunchsports.com/subcategory/Soccer/Internationals/">Internationals</a></li></ul></li><li id="cat_2596" class="" onmouseover="javascript:Getsubcategory('2596');" data-count="0"><a href="http://www.crunchsports.com/category/compare-bookmakers/">Compare Bookmakers</a><i></i></li><li id="cat_1603" class="" onmouseover="javascript:Getsubcategory('1603');" data-count="6"><a href="http://www.crunchsports.com/category/tennis/">Tennis</a><i></i></li><li id="cat_2581" class="" onmouseover="javascript:Getsubcategory('2581');" data-count="0"><a href="http://www.crunchsports.com/category/bonuses/">Bonuses (45)</a><i></i></li><li id="cat_2582" class="" onmouseover="javascript:Getsubcategory('2582');" data-count="0"><a href="http://www.crunchsports.com/category/promotions/">Promotions (54)</a><i></i></li><li id="cat_ALL"><a href="javascript:void(0);">ALL</a><ul class="ALLclass"><li><a href="http://www.crunchsports.com/category/Basketball/">Basketball</a><i></i></li><li><a href="http://www.crunchsports.com/category/bonuses/">Bonuses (45)</a><i></i></li><li><a href="http://www.crunchsports.com/category/Boxing/">Boxing</a><i></i></li><li><a href="http://www.crunchsports.com/category/compare-bookmakers/">Compare Bookmakers</a><i></i></li><li><a href="http://www.crunchsports.com/category/Cricket/">Cricket</a><i></i></li><li><a href="http://www.crunchsports.com/category/Darts/">Darts</a><i></i></li><li><a href="http://www.crunchsports.com/category/entertainment/">Entertainment</a><i></i></li><li><a href="http://www.crunchsports.com/category/eSports/">eSports</a><i></i></li><li><a href="http://www.crunchsports.com/category/Euroleague/">Euroleague</a><i></i></li><li><a href="http://www.crunchsports.com/category/Futsal/">Futsal</a><i></i></li><li><a href="http://www.crunchsports.com/category/Golf/">Golf</a><i></i></li><li><a href="http://www.crunchsports.com/category/Horse-Racing/">Horse Racing</a><i></i></li><li><a href="http://www.crunchsports.com/category/Live-Streaming/">Live Streaming</a><i></i></li><li><a href="http://www.crunchsports.com/category/MLB/">MLB</a><i></i></li><li><a href="http://www.crunchsports.com/category/Motorsports/">Motorsports</a><i></i></li><li><a href="http://www.crunchsports.com/category/NASCAR/">NASCAR</a><i></i></li><li><a href="http://www.crunchsports.com/category/NBA/">NBA</a><i></i></li><li><a href="http://www.crunchsports.com/category/NCAA-Basketball/">NCAA Basketball</a><i></i></li><li><a href="http://www.crunchsports.com/category/NCAA-Football/">NCAA Football</a><i></i></li><li><a href="http://www.crunchsports.com/category/NFL/">NFL</a><i></i></li><li><a href="http://www.crunchsports.com/category/NHL/">NHL</a><i></i></li><li><a href="http://www.crunchsports.com/category/Olympics/">Olympics</a><i></i></li><li><a href="http://www.crunchsports.com/category/Other-Crunch-News/">Other Crunch News</a><i></i></li><li><a href="http://www.crunchsports.com/category/promotions/">Promotions (54)</a><i></i></li><li><a href="http://www.crunchsports.com/category/Rugby-League/">Rugby League</a><i></i></li><li><a href="http://www.crunchsports.com/category/Snooker/">Snooker</a><i></i></li><li><a href="http://www.crunchsports.com/category/Soccer/">Soccer</a><i></i></li><li><a href="http://www.crunchsports.com/category/Tennis/">Tennis</a><i></i></li><li><a href="http://www.crunchsports.com/category/UFC-MMA/">UFC/MMA</a><i></i></li><li><a href="http://www.crunchsports.com/category/Volleyball/">Volleyball</a><i></i></li><li><a href="http://www.crunchsports.com/category/WWE/">WWE</a><i></i></li></ul></li> 
 </ul>
 <div class="catTab_container"></div>
 </div>
 </div>
 </div>
 
-<script type="text/javascript">	 
+<script type="text/javascript">
+
+var isM=/iPhone|android/i.test(navigator.userAgent);
+if(isM){
+var cm=document.querySelector('.nav .main').cloneNode(true),h=document.querySelector('#header'),mCat=document.createElement('div'), _cAll='<li class="all item" data-count="0"><a href="#">All</a></li>';
+mCat.id="mCat";
+cm.classList.remove('main');
+cm.classList.add('mNav');
+var _a=cm.querySelector('#cat_ALL');
+cm.querySelector('#cat_ALL').parentNode.removeChild(_a);
+var _cli=$('> li',cm);
+$.each(_cli,function(){
+	var that=$(this);that.addClass('item');that.removeAttr('id onmouseover');$('i, ul',that).remove();
+})
+$(cm).append(_cAll);
+mCat.appendChild(cm);
+$(h).after(mCat);
+setTimeout(function(){
+var mcatSlider = new Swiper('#mCat', {
+        speed: 300,
+        wrapperClass: 'mNav',
+        spaceBetween: 0,
+        slideClass: 'item',
+        slidesPerView: 'auto'
+    });
+    mcatSlider.onResize();
+},100);
+$('#mCat').on('click','.all',function(e){e.preventDefault(); $('body').addClass('menu--open') })
+}
+if (window.matchMedia("(min-width: 769px)").matches) {
+var cmAll=document.querySelector('#cat_ALL .ALLclass').cloneNode(true);
+$('.mob-nav').after(cmAll);
+}	
 window.onload=function(){document.querySelector('#header').classList.add('animate')}
 $(document).ready(function (e) {
 $("#txtsearch").keypress(function (event) {
@@ -441,7 +497,7 @@ $('#slreviewtname').live('change',function(){
 <div class="crunchNews-wrp">
     <h4 class="title"><span>Breaking News</span></h4>
     <ul>
-        <li><span><a href="http://www.crunchsports.com/category/horse-racing/grand-national-tips-2016-who-will-win-at-aintree-and-grand-national-20160408-0001/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201604/Apr08/TN_TN2016Apr08073341_469313934.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/horse-racing/" class="tagNm">Horse Racing</a><a href="http://www.crunchsports.com/category/horse-racing/grand-national-tips-2016-who-will-win-at-aintree-and-grand-national-20160408-0001/">Grand National tips 2016 - who to back in the Grand National plus live stream</a></span></li><li><span><a href="http://www.crunchsports.com/category/horse-racing/cheltenham-2016-alex-hammond-cheltenham-festival-tips-for-wednesday-20160315-0001/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201603/Mar15/TN_TN2016Mar15055723_471669270.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/horse-racing/" class="tagNm">Horse Racing</a><a href="http://www.crunchsports.com/category/horse-racing/cheltenham-2016-alex-hammond-cheltenham-festival-tips-for-wednesday-20160315-0001/">2016 Cheltenham Festival - Alex Hammond's Twitter tips for Wednesday</a></span></li><li><span><a href="http://www.crunchsports.com/category/horse-racing/cheltenham-2016-alex-hammonds-cheltenham-festival-tips-for-tuesday-20160314-0001/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201603/Mar14/TN_TN2016Mar14044803_515352744.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/horse-racing/" class="tagNm">Horse Racing</a><a href="http://www.crunchsports.com/category/horse-racing/cheltenham-2016-alex-hammonds-cheltenham-festival-tips-for-tuesday-20160314-0001/">2016 Cheltenham Festival - Alex Hammond's Twitter tips for Tuesday</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/liverpool-fc-vs-manchester-city-capital-one-cup-final-kick-off-time-20160227-0001/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201602/Feb27/TN_TN2016Feb27011848_512414474.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/soccer/" class="tagNm">Soccer</a><a href="http://www.crunchsports.com/category/soccer/liverpool-fc-vs-manchester-city-capital-one-cup-final-kick-off-time-20160227-0001/">Capital One Cup final - Liverpool FC vs Manchester City kick-off time</a></span></li><li><span><a href="http://www.crunchsports.com/category/basketball/ncaa-mens-division-i-basketball-championship-kansas-jayhawks-favoured-to-win-title-20160226-0001/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201602/Feb26/TN_TN2016Feb26022307_508771670.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/basketball/" class="tagNm">Basketball</a><a href="http://www.crunchsports.com/category/basketball/ncaa-mens-division-i-basketball-championship-kansas-jayhawks-favoured-to-win-title-20160226-0001/">NCAA Men's Division I Basketball Championship - Kansas Jayhawks favoured to win title</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/chelsea-fc-to-sack-mourinho-lukaku-to-man-utd-grujic-to-liverpool-fc-wednesdays-back-pages-20151216-0001/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201512/Dec16/TN_TN2015Dec16072200_500940716.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/tags/football-news/" class="tagNm">#Football News</a><a href="http://www.crunchsports.com/category/soccer/chelsea-fc-to-sack-mourinho-lukaku-to-man-utd-grujic-to-liverpool-fc-wednesdays-back-pages-20151216-0001/">Chelsea FC to sack Mourinho? Lukaku to Man Utd? Grujic to Liverpool FC? Wednesday's back pages</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/silva-to-chelsea-fc-kiessling-to-liverpool-fc-arsenal-fc-go-top-mondays-back-pages-20151214-0000/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201512/Dec14/TN_TN2015Dec14080109_500414418.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/tags/football-news/" class="tagNm">#Football News</a><a href="http://www.crunchsports.com/category/soccer/silva-to-chelsea-fc-kiessling-to-liverpool-fc-arsenal-fc-go-top-mondays-back-pages-20151214-0000/">Silva to Chelsea FC? Kiessling to Liverpool FC? Arsenal FC go top - Monday's back pages</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/leicester-city-vs-chelsea-fc-premier-league-kick-off-time-20151213-0003/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201512/Dec13/TN_TN2015Dec13031509_494042540.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/tags/football-news/" class="tagNm">#Football News</a><a href="http://www.crunchsports.com/category/soccer/leicester-city-vs-chelsea-fc-premier-league-kick-off-time-20151213-0003/">Premier League - Leicester City vs. Chelsea FC kick-off time</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/guardiola-to-man-utd-vardy-to-chelsea-fc-england-to-face-wales-at-euro-2016-sundays-back-pages-20151213-0002/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201512/Dec13/TN_TN2015Dec13082018_500631688.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/tags/football-news/" class="tagNm">#Football News</a><a href="http://www.crunchsports.com/category/soccer/guardiola-to-man-utd-vardy-to-chelsea-fc-england-to-face-wales-at-euro-2016-sundays-back-pages-20151213-0002/">Guardiola to Man Utd? Vardy to Chelsea FC? England to face Wales at Euro 2016 - Sunday's back pages</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/liverpool-fc-vs-west-brom-premier-league-kick-off-time-20151212-0004/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201512/Dec12/TN_TN2015Dec12015301_500557402.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/tags/football-news/" class="tagNm">#Football News</a><a href="http://www.crunchsports.com/category/soccer/liverpool-fc-vs-west-brom-premier-league-kick-off-time-20151212-0004/">Premier League - Liverpool FC vs. West Brom kick-off time</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/aston-villa-vs-arsenal-fc-premier-league-kick-off-time-20151212-0002/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201512/Dec12/TN_TN2015Dec12013449_500631778.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/tags/football-news/" class="tagNm">#Football News</a><a href="http://www.crunchsports.com/category/soccer/aston-villa-vs-arsenal-fc-premier-league-kick-off-time-20151212-0002/">Premier League - Aston Villa vs. Arsenal FC kick-off time</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/st-johnstone-vs-celtic-fc-live-stream-team-news-and-scottish-premiership-match-preview-20151213-0001/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201512/Dec13/TN_TN2015Dec13072102_176456146.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/tags/football-news/" class="tagNm">#Football News</a><a href="http://www.crunchsports.com/category/soccer/st-johnstone-vs-celtic-fc-live-stream-team-news-and-scottish-premiership-match-preview-20151213-0001/">St Johnstone vs. Celtic FC - Live Stream, Team News and Scottish Premiership Match Preview</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/premier-league-fixtures-for-sunday-december-13th-2015-20151213-0000/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201512/Dec13/TN_TN2015Dec13071356_496251906.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/tags/premier-league/" class="tagNm">#Premier League</a><a href="http://www.crunchsports.com/category/soccer/premier-league-fixtures-for-sunday-december-13th-2015-20151213-0000/">Premier League fixtures for Sunday, December 13th 2015</a></span></li><li><span><a href="http://www.crunchsports.com/category/ufc-mma/ufc-194-jose-aldo-vs-conor-mcgregor-live-odds-start-time-and-ufc-194-preview-20151212-0003/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201512/Dec12/TN_TN2015Dec12014452_457795116.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/ufc-mma/" class="tagNm">UFC/MMA</a><a href="http://www.crunchsports.com/category/ufc-mma/ufc-194-jose-aldo-vs-conor-mcgregor-live-odds-start-time-and-ufc-194-preview-20151212-0003/">UFC 194 - Jose Aldo vs. Conor McGregor live odds, start time and UFC 194 preview</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/van-gaal-under-pressure-mourinho-embarrassed-by-chelsea-fc-fans-wanyama-to-arsenal-fc-saturdays-back-pages-20151212-0001/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201512/Dec12/TN_TN2015Dec12074349_500442146.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/tags/football-news/" class="tagNm">#Football News</a><a href="http://www.crunchsports.com/category/soccer/van-gaal-under-pressure-mourinho-embarrassed-by-chelsea-fc-fans-wanyama-to-arsenal-fc-saturdays-back-pages-20151212-0001/">Van Gaal under pressure? Mourinho embarrassed by Chelsea FC fans? Wanyama to Arsenal FC? Saturday's back pages</a></span></li>
+        <li><span><a href="http://www.crunchsports.com/category/tennis/australian-open-final-serena-williams-vs-venus-williams-20170127-0001/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan27/TN_TN2017Jan27012305_632739310.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/tennis/" class="tagNm">Tennis</a><a href="http://www.crunchsports.com/category/tennis/australian-open-final-serena-williams-vs-venus-williams-20170127-0001/">Australian Open final: Serena Williams vs Venus Williams</a></span></li><li><span><a href="http://www.crunchsports.com/category/tennis/australian-open-roger-federer-vs-stan-wawrinka-20170125-0007/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan25/TN_TN2017Jan25053124_632555730.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/tennis/" class="tagNm">Tennis</a><a href="http://www.crunchsports.com/category/tennis/australian-open-roger-federer-vs-stan-wawrinka-20170125-0007/">Australian Open live: Roger Federer vs Stan Wawrinka</a></span></li><li><span><a href="http://www.crunchsports.com/category/tennis/australian-open-serena-williams-vs-mirjana-lucic-baroni-20170125-0006/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan25/TN_TN2017Jan25044140_632625936.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/tennis/" class="tagNm">Tennis</a><a href="http://www.crunchsports.com/category/tennis/australian-open-serena-williams-vs-mirjana-lucic-baroni-20170125-0006/">Australian Open: Serena Williams vs Mirjana Lucic-Baroni</a></span></li><li><span><a href="http://www.crunchsports.com/category/horse-racing/horse-racing-tips-for-today-the-best-bets-to-place-on-wednesday-january-24th-20170125-0005/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan25/TN_TN2017Jan24081626_630346584.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/horse-racing/" class="tagNm">Horse Racing</a><a href="http://www.crunchsports.com/category/horse-racing/horse-racing-tips-for-today-the-best-bets-to-place-on-wednesday-january-24th-20170125-0005/">Horse racing tips for today - The best bets to place on Wednesday, January 24th</a></span></li><li><span><a href="http://www.crunchsports.com/category/tennis/australian-open-live-rafael-nadal-vs-milos-raonic-20170124-0009/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan24/TN_TN2017Jan24013456_632266240.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/tennis/" class="tagNm">Tennis</a><a href="http://www.crunchsports.com/category/tennis/australian-open-live-rafael-nadal-vs-milos-raonic-20170124-0009/">Australian Open: Rafael Nadal vs Milos Raonic</a></span></li><li><span><a href="http://www.crunchsports.com/category/cricket/1st-t20-india-vs-england-predictions-20170125-0004/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan25/TN_TN2017Jan25050922_613094640.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/cricket/" class="tagNm">Cricket</a><a href="http://www.crunchsports.com/category/cricket/1st-t20-india-vs-england-predictions-20170125-0004/">1st T20: India vs England predictions</a></span></li><li><span><a href="http://www.crunchsports.com/category/tennis/australian-open-coco-vandeweghe-vs-venus-williams-preview-and-predictions-20170125-0003/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan25/TN_TN2017Jan24113208_632529168.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/tennis/" class="tagNm">Tennis</a><a href="http://www.crunchsports.com/category/tennis/australian-open-coco-vandeweghe-vs-venus-williams-preview-and-predictions-20170125-0003/">Australian Open live: CoCo Vandeweghe vs Venus Williams preview and predictions</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/copa-del-rey-celta-vigo-vs-real-madrid-predictions-20170125-0002/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan25/TN_TN2017Jan24022616_632000874.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/soccer/" class="tagNm">Soccer</a><a href="http://www.crunchsports.com/category/soccer/copa-del-rey-celta-vigo-vs-real-madrid-predictions-20170125-0002/">Copa del Rey: Celta Vigo vs Real Madrid predictions and live stream</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/copa-del-rey-eibar-vs-atletico-madrid-predictions-20170125-0001/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan25/TN_TN2017Jan24125205_632113486.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/soccer/" class="tagNm">Soccer</a><a href="http://www.crunchsports.com/category/soccer/copa-del-rey-eibar-vs-atletico-madrid-predictions-20170125-0001/">Copa del Rey: Eibar vs Atletico Madrid predictions and live stream</a></span></li><li><span><a href="http://www.crunchsports.com/category/soccer/brighton-vs-cardiff-city-20170124-0006/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan24/TN_TN2017Jan23044031_632228100.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/soccer/" class="tagNm">Soccer</a><a href="http://www.crunchsports.com/category/soccer/brighton-vs-cardiff-city-20170124-0006/">Sky Bet Championship: Brighton vs Cardiff City</a></span></li><li><span><a href="http://www.crunchsports.com/category/tennis/australian-open-live-johanna-konta-vs-serena-williams-20170124-0008/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan24/TN_TN2017Jan24024603_632428934.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/tennis/" class="tagNm">Tennis</a><a href="http://www.crunchsports.com/category/tennis/australian-open-live-johanna-konta-vs-serena-williams-20170124-0008/">Australian Open live: Johanna Konta vs Serena Williams</a></span></li><li><span><a href="http://www.crunchsports.com/category/tennis/australian-open-live-karolina-pliskova-vs-mirjana-lucic-baroni-20170124-0007/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan24/TN_TN2017Jan24010648_632452570.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/tennis/" class="tagNm">Tennis</a><a href="http://www.crunchsports.com/category/tennis/australian-open-live-karolina-pliskova-vs-mirjana-lucic-baroni-20170124-0007/">Australian Open live: Karolina Pliskova vs Mirjana Lucic-Baroni</a></span></li><li><span><a href="http://www.crunchsports.com/category/basketball/euroleague-round-19-preview-20170124-0002/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan23/TN_TN2017Jan23090210_503879906.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/basketball/" class="tagNm">Basketball</a><a href="http://www.crunchsports.com/category/basketball/euroleague-round-19-preview-20170124-0002/">Euroleague: Round 19 Preview</a></span></li><li><span><a href="http://www.crunchsports.com/category/cricket/3rd-t20-south-africa-vs-sri-lanka-predictions-20170124-0005/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan24/TN_TN2017Jan24053610_632397760.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/cricket/" class="tagNm">Cricket</a><a href="http://www.crunchsports.com/category/cricket/3rd-t20-south-africa-vs-sri-lanka-predictions-20170124-0005/">3rd T20: South Africa vs Sri Lanka predictions</a></span></li><li><span><a href="http://www.crunchsports.com/category/other-crunch-news/bookmaker-suggests-donald-trump-might-struggle-potus-just-evens-to-be-impeached-20170124-0004/"><img src="http://www.crunchsports.com/images/grey.gif" data-original="http://img.crunchsports.com/crunchsports//201701/Jan24/TN_TN2017Jan21125950_632098502.jpg" alt=""></a></span><span><a href="http://www.crunchsports.com/category/other-crunch-news/" class="tagNm">Other Crunch News</a><a href="http://www.crunchsports.com/category/other-crunch-news/bookmaker-suggests-donald-trump-might-struggle-potus-just-evens-to-be-impeached-20170124-0004/">Bookmaker suggests Donald Trump 'might struggle'; POTUS just Evens to be impeached</a></span></li>
     </ul>
     
 </div>
@@ -462,7 +518,7 @@ $('#slreviewtname').live('change',function(){
         </div>
 <div class="footerTabs">
     <ul>
-        <ul><li class="feet"><a href="javascript:void(0);" class="all-cat"><i></i><span>Sports</span></a></li><li class="feet"><a href="/" class="home"><i></i><span>Home</span></a></li><li class="feet"><a href="http://www.crunchsports.com/category/bonuses/" class="freebet"><i></i><span>Bonuses</span></a></li><li class="feet"><a href="http://www.crunchsports.com/category/promotions/" class="offers"><i></i><span>Promotions</span></a></li></ul>
+        <li class="feet"><a href="javascript:void(0);" class="all-cat"><i></i><span>Sports</span></a></li><li class="feet"><a href="/" class="home"><i></i><span>Home</span></a></li><li class="feet"><a href="http://www.crunchsports.com/category/bonuses/" class="freebet"><i></i><span>Bonuses</span></a></li><li class="feet"><a href="http://www.crunchsports.com/category/promotions/" class="offers"><i></i><span>Promotions</span></a></li>
     </ul>
 </div>
 <div class="footer">            
@@ -481,20 +537,78 @@ $('#slreviewtname').live('change',function(){
         </div>
     </ul>
     <button class="gotoTop" type="button">Top</button>
-     <p>Copyright© 2006-2016, crunchsports.com. All rights reserved. Please play responsibly. Over 18s only. Problem?  Visit <a href="http://www.gamcare.org.uk" target="_blank">Gamcare</a>.</p>
+     <p>Copyright© 2006-2017, crunchsports.com. All rights reserved. Please play responsibly. Over 18s only. Problem?  Visit <a href="http://www.gamcare.org.uk" target="_blank">Gamcare</a>.</p>
 </div>
-<div id="lad">
-                            <a class="bns-bet-365" href="http://www.caledonianmedia.com/sitestat.aspx?siteurl=10425" rel="nofollow" target="_blank">
-                            <span class="offerBadge">
-                            <label class="bonus">£200</label>
-                            <label class="tagline default">Free Bet</label>
-                            <label class="tagline up">Claim now!</label>
-                            </span>
-                            <span class="offerTriangle"></span>
-                            </a>
-                            </div>
-<script language="javascript">
 
+
+<style type="text/css">
+            #breakingalert{position:fixed; left:0; bottom:0;width:100%;font-family:arial;  color:#fff;  z-index: 990;background:rgba(0,0,0,0.2)}
+	    #breakingalert .breakingWrap{max-width: 1300px; padding-bottom: 7px;   margin: 0 auto;background: rgba(0,0,0,0.8);}
+            #breakingalert h4{margin:0; padding: 0; background: rgba(0,0,0,0.6); text-transform: uppercase; font-size: 16px; position:relative;}
+            #breakingalert h4 span{display:inline-block; padding: 7px 15px; background:#BB1919; overflow: hidden;}
+            #breakingalert h4 span:before{content: "";  height: 0; top:-60px; width: 100%;  display: block;  box-shadow: 0 0 50px 7px #fff;  position: relative;  z-index: 2;  -webkit-transition: top 500ms linear 0s;  -moz-transition: top 500ms linear 0s;  -ms-transition: top 500ms linear 0s;  transition: top 500ms linear 0s;}
+            #breakingalert h4 span.flashIt:before{top:60px;}
+            #breakingalert h4 i{font-style: normal;position: absolute;  right: 10px;  font-size: 36px;  top: 5px;  cursor: pointer;}
+            #breakingalert a{color:#fff; padding: 5px 10px; display:block;}
+            #breakingalert a:hover{text-decoration: underline;}
+		@media only screen and (max-width: 870px){
+		#breakingalert{bottom:46px;}
+		}
+		.ofWrapper{position:fixed; bottom:41px; left:0; width:100vw; z-index:18; transition:all 300ms linear;}
+		.ofWrapper.down{transform: translateY(47px);}
+		.footerOffers{background:#f6f6f6;box-shadow: 1px 1px 7px rgba(0,0,0,0.5);}
+		.footerOffers .ofWrap{white-space:nowrap;}
+		.footerOffers .ofWrap .item{display:inline-block;white-space:normal; background:#f6f6f6; box-shadow:none; margin:0; vertical-align:top;}
+		.footerOffers .oExpand {width: 36px;height: 36px;position: absolute;left: 50%;margin-left: -18px;top: -14px;border-radius: 20px;background: #f6f6f6;box-shadow: 0px 1px 6px rgba(0,0,0,0.7); }
+		.footerOffers .oExpand:before{content:'';display: block;top: -2px;-webkit-transform: rotate(0);transform: rotate(0);transition:transform 300ms linear;background-image: url(http://www.pix123.com/images/circleArrow.svg);background-size: 60% 60%;background-position: center;background-repeat: no-repeat;z-index: 2;width: 100%;height: 100%;left: 0;position: absolute;}
+		.footerOffers.expand .oExpand:before{ -webkit-transform: rotate(180deg);transform: rotate(180deg);}
+		
+
+		
+		.footerOffers.expand ul li a span:last-child{display:block; color:#282828; font-size: 12px;
+    line-height: 17px;display: -webkit-box;
+    -webkit-box-orient: vertical; overflow:hidden; -webkit-line-clamp: 3;}
+		.footerOffers ul li span:nth-child(2){width:66%;}
+		.footerOffers ul li span:nth-child(2) label{display:block; color:#106BDE;}
+		.footerOffers ul li span:nth-child(2) label:first-child{line-height:18px;display: -webkit-box;
+    -webkit-box-orient: vertical; overflow:hidden; -webkit-line-clamp: 2; font-weight:normal; font-family:arial;}
+	.footerOffers ul li span:nth-child(2) label:last-child,.footerOffers ul li span:nth-child(2) label:nth-child(2){display:none;color:#656667;font-family: arial;margin-top: 5px;font-size: 12px; font-weight:normal; }
+	.footerOffers.expand ul li span:nth-child(2) label:nth-child(2){display:inline-block; font-size:12px;}
+	.footerOffers.expand ul li span:nth-child(2) label:last-child{display:inline-block; font-size: 12px; padding-left:4px;}
+	.footerOffers.expand ul li span:nth-child(2) label:last-child:not(:empty):before{content:'  ';}
+		
+		
+</style>
+<script language="javascript">
+var isScreenO = /iPhone|android|iPad/i.test(navigator.userAgent);
+var topPromoOffers= [];
+if(topPromoOffers.length && isScreenO){
+$('#lad').hide();
+var plies=function(d){var str='<li data-racedt="'+d.date+'" class="item bns-'+d.totitle+'"><a href="'+d.link+'"><span class="bl"></span><span class="title"><label>'+d.offertitle+'</label><label>'+d.catname+'</label><label class="date"></label></span><span class="desc">'+d.desc+'</span></a></li>'; return str;}
+var oStr='<div class="ofWrapper"><div class="bonusOffrs footerOffers"><span class="oExpand"></span><ul class="ofWrap">';
+for(item of topPromoOffers){oStr+=plies(item)}
+oStr+='</ul></div></div>';
+$('.footerTabs').before(oStr);
+$('.ofWrapper').css({bottom:$('.footerTabs').height()});
+var ofSlider = new Swiper('.footerOffers', {speed: 300,loop:true,autoplay:4000,wrapperClass: 'ofWrap',slideClass: 'item',slidesPerView: 1});
+		ofSlider.onResize();
+
+$('.footerOffers li[data-racedt]').countPromo({updateElement: '.title .date',diff:1,param:'racedt'});
+var lastTop = 0, delta = 100,ofWrapper=$('.ofWrapper'),ofTimer;
+$('.oExpand').on('click',function(){$(this).parent().toggleClass('expand');ofWrapper.removeClass('down')});
+window.addEventListener('scroll',function(){
+var st = $(this).scrollTop();
+clearTimeout(ofTimer);
+   if(Math.abs(lastTop - st) <= delta)
+      return;
+   if (st > lastTop){
+       ofTimer=setTimeout(function(){ofWrapper.addClass('down');$('.footerOffers').removeClass('expand')},30)
+   } else {
+      ofTimer=setTimeout(function(){ofWrapper.removeClass('down')},30)
+   }
+   lastTop = st;
+},false)		
+}
 var strthankyou = "<b>Thank you for signing up.&nbsp;</b><div><br></div><div>We've sent you an email. Please click on the link to verify your address.</div>";
     $("#ftsingupbtn").click(function () {
         //event.preventDefault();
@@ -824,18 +938,30 @@ var _sitename = "crunchsports.com";
         _g = "";
     if (!_r)
         _r = "";
-    code = ' ' + '<img src="http://www.crunchsports.com/tracking_fetchinfo.aspx?usersessionid=h30e302otpbonz2x3cd2hebf&useragentbot=ia_archiver&sid=55&r=' + ss_escape(_r) + '&lang=' + escape(_lang) + '&useragent=' + escape(_useragent) + '&sw=' + escape(_sw) + '&sh=' + escape(_sh) + '&p=' + escape(_p) + '&c=' + escape(_c) + '&g=' + ss_escape(_g) + '&a=' + ss_escape(s_a) + '&av=' + ss_escape(s_av) + '&j=' + _j + '&v=' + _v + '&k=' + _k + '&tz=' + _tz + '" width="0" height="0" border="0">';
+    code = ' ' + '<img src="http://www.crunchsports.com/tracking_fetchinfo.aspx?usersessionid=tn21p0fb13zrgrgwj4d5qnb2&useragentbot=Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)&sid=55&r=' + ss_escape(_r) + '&lang=' + escape(_lang) + '&useragent=' + escape(_useragent) + '&sw=' + escape(_sw) + '&sh=' + escape(_sh) + '&p=' + escape(_p) + '&c=' + escape(_c) + '&g=' + ss_escape(_g) + '&a=' + ss_escape(s_a) + '&av=' + ss_escape(s_av) + '&j=' + _j + '&v=' + _v + '&k=' + _k + '&tz=' + _tz + '" width="0" height="0" border="0">';
     document.write(code);  
-</script> <img src="http://www.crunchsports.com/tracking_fetchinfo.aspx?usersessionid=h30e302otpbonz2x3cd2hebf&amp;useragentbot=ia_archiver&amp;sid=55&amp;r=&amp;lang=undefined&amp;useragent=Mozilla/5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;sw=800&amp;sh=600&amp;p=%26p%3D&amp;c=24&amp;g=https%3A//web.archive.org/web/20160903125425id_/http%3A//www.crunchsports.com/information/privacy-policy/&amp;a=Netscape&amp;av=5&amp;j=1.3&amp;v=N&amp;k=Y&amp;tz=0" width="0" height="0" border="0">
+</script> <img src="http://www.crunchsports.com/tracking_fetchinfo.aspx?usersessionid=tn21p0fb13zrgrgwj4d5qnb2&amp;useragentbot=Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)&amp;sid=55&amp;r=&amp;lang=undefined&amp;useragent=Mozilla/5.0%20%28X11%3B%20Linux%20x86_64%29%20AppleWebKit/537.36%20%28KHTML%2C%20like%20Gecko%29%20HeadlessChrome/69.0.3494.0%20Safari/537.36&amp;sw=800&amp;sh=600&amp;p=%26p%3D&amp;c=24&amp;g=https%3A//web.archive.org/web/20170225235121id_/http%3A//www.crunchsports.com/information/privacy-policy/&amp;a=Netscape&amp;av=5&amp;j=1.3&amp;v=N&amp;k=Y&amp;tz=0" width="0" height="0" border="0">
 
 
 	<div class="installApp"><a href="javascript:void(0)" class="close"></a>
 	<div class="wrapper"><div class="content"><img id="makerid" src="images/spacer.gif" class="bkmkr"><h3></h3><h5></h5><div class="btnHold"><a href="#" target="_blank" class="applink">Install</a></div><img src="images/icon-itunes.png" class="icon-device"></div></div>
 	</div>
     </div>    
-    </form>
+    
+
+<script type="text/javascript">
+//<![CDATA[
+
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
+//]]>
+</script>
+</form>
 <link href="http://www.crunchsports.com/css/custom.css" type="text/css" rel="stylesheet">
-<script src="http://www.crunchsports.com/js/custom.1.1.js"></script>
+<script src="http://www.desportotv.com/js/custom.1.2.js"></script>
 <script>
 var appLink=null;
 	var apppromo = sessionStorage.getItem('apppromo');
@@ -855,6 +981,8 @@ var appLink=null;
 			$('.close', modl).on('click',function(){modl.removeClass('show');sessionStorage.setItem('apppromo', 'true')})
 
 		}}
+		var md5 = '680d71dd6a132076242f7687ea75d15f',key = 'fonts',cache;function insertFont(value) {var style = document.createElement('style');style.innerHTML = value;document.head.appendChild(style);}try {cache = window.localStorage.getItem(key);if (cache) {cache = JSON.parse(cache);if (cache.md5 == md5) {insertFont(cache.value);} else {window.localStorage.removeItem(key);cache = null;}}} catch(e) {}if (!cache) {window.addEventListener('load', function() {var request = new XMLHttpRequest(),response;request.open('GET', '../fonts/roboto.js', true);request.onload = function() {if (this.status == 200) {try {response = JSON.parse(this.response);insertFont(response.value);window.localStorage.setItem(key, this.response);} catch(e) {}}};request.send();});}	
+
 		</script>
 
 </body></html>
