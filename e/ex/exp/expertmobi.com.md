@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the expertmobi.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430062512id_/http%3A//expertmobi.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expertmobi.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225191659id_/https%3A//expertmobi.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-The following describes the overall company privacy policy (the “Privacy Policy”) of ExpertMobi (hereinafter referred to as the “Company”). The Privacy Policy was created to inform you what information we collect when you visit this website (hereinafter referred to as “website”,“us”, “we” or “our”) as well as our customer's ("Advertisers") websites; as well as how that information is collected and used by companies that display advertisements ("Partners" or “Publishers”). 
+The following describes the overall company privacy policy (the “Privacy Policy”) of Excellence Model dba ExpertMobi (hereinafter referred to as the “Company”). The Privacy Policy was created to inform you what information we collect when you visit this website (hereinafter referred to as “website”,“us”, “we” or “our”) as well as our customer's ("Advertisers") websites; as well as how that information is collected and used by companies that display advertisements ("Partners" or “Publishers”). 
 
 The Company reserves the right to update the policy periodically, and these updates are effective upon posting. It is imperative that this document is read thoroughly and often. 
 
