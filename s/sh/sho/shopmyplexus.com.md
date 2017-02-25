@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopmyplexus.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063808id_/http%3A//backoffice.plexusworldwide.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopmyplexus.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225153040id_/https%3A//backoffice.plexusworldwide.com/index.cfm%3FFuse%3Dpublic/Files%26Page%3DPrivacyStatement%26HideCloseWindow%3D1) for the most accurate reproduction.*
 
 # Plexus Evo
 
