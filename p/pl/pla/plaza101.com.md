@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plaza101.com privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807034006id_/https%3A//www.plaza101.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plaza101.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225155152id_/https%3A//www.plaza101.com/privacy.aspx) for the most accurate reproduction.*
 
 # Plaza101.com - Privacy Policy
 
