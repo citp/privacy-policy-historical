@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hubolu.com privacy policy that was archived on 2016-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160302003115id_/http%3A//www.hubolu.com/hub/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hubolu.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226000606id_/http%3A//www.hubolu.com/hub/Help%3Fcmd%3Dview%26pages%3Dprivacy) for the most accurate reproduction.*
 
 # Hubolu - Help is here
 
