@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thriftyandchicmom.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209000157id_/http%3A//www.thatchicmom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thriftyandchicmom.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225015734id_/http%3A//www.thatchicmom.com/privacy-policy) for the most accurate reproduction.*
 
 # That Chic Mom-Privacy Policy
 
