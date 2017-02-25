@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405053309id_/https%3A//www.getfeedback.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the getfeedback.com privacy policy that was archived on 2017-02-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170225032911id_/https%3A//www.getfeedback.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - GetFeedback
+# Privacy Policy - GetFeedback - GetFeedback
 
 ## Privacy Policy
 
