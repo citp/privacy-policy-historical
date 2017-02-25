@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the academics.com privacy policy that was archived on 2016-07-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160718043341id_/https%3A//www.academics.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the academics.com privacy policy that was archived on 2017-02-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170225151410id_/https%3A//www.academics.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html class=" js canvas geolocation rgba borderimage borderradius boxshadow textshadow opacity cssgradients cssreflections fontface video audio localstorage applicationcache" style=""><head>
 	
@@ -97,8 +97,8 @@
   <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NLLWHP"></script><script type="text/javascript" src="/script/desktop/modernizr.js"></script>
   <script type="text/javascript" src="/script/desktop/jquery-1.10.2.min.js"></script>
   <script type="text/javascript" src="/script/desktop/jquery.autocomplete.js"></script>
-	<script type="text/javascript" src="/script/prettyCheckboxes.js"></script>
 	<script type="text/javascript" src="/script/desktop/aca_header.js"></script>
+	<script type="text/javascript" src="/script/prettyCheckboxes.js"></script>
 	<script type="text/javascript" src="/script/content.js"></script>
 	<script type="text/javascript" src="/script/boxes.js"></script>
 	<script type="text/javascript" src="/script/swfobject.js"></script>
@@ -171,11 +171,12 @@ function aca_dialog_hide() {
 		   $(window).trigger("resize");
 
 try {
-			 $('#headerSearchInput').autocomplete({
+/*
+      $('#headerSearchInput').autocomplete({
 				  width:363,
 				  serviceUrl:'/action/magazine/suggest'
 			});   
-			
+*/
 			$('.overlaySources input.imageCheckboxes').prettyCheckboxes({
 				checkboxWidth: 14, // The width of your custom checkbox
 				checkboxHeight: 14, // The height of your custom checkbox
@@ -263,7 +264,7 @@ try {
         
 
 <header class="aca-header as-animate">
-  <div class="aca-header-inner isCom" itemscope="" itemtype="http://schema.org/WebSite">
+  <div class="aca-header-inner isCom as-animate" itemscope="" itemtype="http://schema.org/WebSite">
     <a class="logo com" href="/" title="academics.com">&nbsp;</a>
   <div class="ivw-logos">
 	  <span class="intro">A Jointventure of</span>
@@ -285,11 +286,11 @@ try {
       
 			<div class="aca-header-search-input">
 			<meta itemprop="target" content="https://www.academics.com/action/av/search/luf?action=search&amp;searchString={searchString}">
-        <input type="text" name="searchString" value="" placeholder="Keyword, Discipline, Position" id="headerSearchInput" class="inputText" itemprop="query-input">
+        <input type="text" name="searchString" value="" placeholder="Keyword, Discipline, Position" id="headerSearchInput" class="inputText" itemprop="query-input" autocomplete="off">
       </div>
 			<div class="aca-header-search-button-row">
         <button type="submit" name="suchen" class="button type-normal">Search</button>
-        <a href="/action/av/search/all" class="button type-normal">Advanced Search</a>
+        <a href="javascript:void(0);" class="button type-normal">Advanced Search</a>
       </div>
     </div>
   </form>
@@ -303,7 +304,7 @@ try {
     <input type="hidden" name="mode" value="">
     <input type="hidden" name="sortSearchString" value="">
 
-    <div class="aca-advanced-search-container"></div>
+    <div class="aca-advanced-search-container as-animate"></div>
   </form>
 
   <div id="mainNav" class="containerDropdown" role="navigation">
@@ -1477,7 +1478,7 @@ iom.c(iam_data);
     </ul>
     <ul>
       <li class="top-link">
-        <a target="_top" class="iframe" href="/action/account/create/agent-luf" title="Sign in now">Sign in now</a>
+        <a target="_top" class="ajaxlayer" href="javascript:void(0);" title="Sign in now" data-wt-click="jetzt_registrieren" data-href="https://web.archive.org/action/account/create/agent-luf?iframe=true&amp;starturl=/web/20170225151410id_/https%3A//www.academics.com/privacy-policy">Sign in now</a>
       </li>
       <li class="top-link">
         <a target="_top" href="/action/account/login" title="Login">Login</a>
@@ -1510,8 +1511,6 @@ iom.c(iam_data);
 		</ul>
 	</div>
 
-<script type="text/javascript" src="/script/desktop/jquery-1.10.2.min.js">
-</script>
     <script type="text/javascript">
 
   $('div.lang-switch').html($('div[data-content="lang-switch"]').html());
@@ -1541,4 +1540,4 @@ iom.c(iam_data);
   
 
 
-</body></html>
+<div id="AutocompleteContainter_1580362365876" style="position: absolute; z-index: 5002; top: 92px; left: 399.5px;"><div class="autocomplete-w1"><div class="autocomplete" id="Autocomplete_1580362365876" style="display: none; width: 363px; max-height: 300px;"></div></div></div></body></html>
