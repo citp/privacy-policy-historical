@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the atomica.com privacy policy that was archived on 2016-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161127070553id_/http%3A//www.atomica.com/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the atomica.com privacy policy that was archived on 2017-02-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170225034635id_/http%3A//www.atomica.com/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:og="http://opengraphprotocol.org/schema/" lang="en"><head>
 	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
@@ -10,15 +10,15 @@
 	<meta name="generator" content="f56fd833a9ed4d082263a58eaac870ef">
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 	<meta name="viewport" content="initial-scale=1.0,maximum-scale=1.0">
-	<link rel="shortcut icon" href="//cdns.atomica.com/favicon.ico" type="image/x-icon">
+	<link rel="shortcut icon" href="//cdn.atomica.com/favicon.ico" type="image/x-icon">
 	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-PBWWB4"></script><script>
 		var start_cs_load_time = (new Date()).getTime(),
-			end_php_load_time = 1480230353.6473,
+			end_php_load_time = 1487994395.8764,
 			fb_app_id = '428135417350178';
 			fb_graph_version = 'v1.0';
 		window.google_analytics_domain_name = ".atomica.com";
 	</script>
-	<script src="//cdns.atomica.com/includes/head_js/framework-bundle.min.js"></script>
+	<script src="//cdn.atomica.com/includes/head_js/framework-bundle.min.js"></script>
 
 	<title>Atomica.com</title>
 
@@ -68,8 +68,8 @@ _gaq.push(['_setAccount', "UA-273774-7"]);
 		];
 		</script>
 <!-- End head block 5e057162ca09f38c03295883467b3b0e -->
-<script src="//cdns.atomica.com/compactor.chjs?page=index%2Fabout&amp;r=0-1588-1&amp;list=oSFrWcpmyOJMezxtfx8hiZExwo9LcPyRcr%2FYxHNHvZBF17Jy8aa4JAjUv9c2sPsz1Ufa5TFa0QoiBoo40bZs6Zm9Fh1zaeKD5FXDIi0hec%2BikcK18msqBy7BlA442KBnza7Q5sanVYi%2BGubQZ8pCSKZXC7Ug9AHPnrLsboo3a5LqKfBcROjIiiUN8Vou%2FEG7jJZAje9GeDpETnPGvCuiq2UjpK2IM0kj&amp;site=XpnzGGAxlqk%2A" type="text/javascript"></script>
-<link href="//cdns.atomica.com/compactor.ccss?page=index%2Fabout&amp;r=0-1588-1&amp;list=oSFrWcpmyOJMezxtfx8hiZExwo9LcPyRcr%2FYxHNHvZBF17Jy8aa4JAjUv9c2sPsz1Ufa5TFa0QoiBoo40bZs6Zm9Fh1zaeKD5FXDIi0hec%2BikcK18msqBy7BlA442KBnza7Q5sanVYi%2BGubQZ8pCSKZXC7Ug9AHPnrLsboo3a5LqKfBcROjIiiUN8Vou%2FEG7jJZAje9GeDpETnPGvCuiq2UjpK2IM0kj&amp;site=XpnzGGAxlqk%2A&amp;selective_css=1" rel="stylesheet" type="text/css" media="all">
+<script src="//cdn.atomica.com/compactor.chjs?page=index%2Fabout&amp;r=0-1841-25&amp;list=oSFrWcpmyOJMezxtfx8hiZExwo9LcPyRcr%2FYxHNHvZBF17Jy8aa4JAjUv9c2sPsz1Ufa5TFa0QoiBoo40bZs6Zm9Fh1zaeKD5FXDIi0hec%2BikcK18msqBy7BlA442KBnza7Q5sanVYi%2BGubQZ8pCSKZXC7Ug9AHPnrLsboo3a5LqKfBcROjIiiUN8Vou%2FEG7jJZAje9GeDpETnPGvCuiq2UjpK2IM0kj&amp;site=XpnzGGAxlqk%2A" type="text/javascript"></script>
+<link href="//cdn.atomica.com/compactor.ccss?page=index%2Fabout&amp;r=0-1841-25&amp;list=oSFrWcpmyOJMezxtfx8hiZExwo9LcPyRcr%2FYxHNHvZBF17Jy8aa4JAjUv9c2sPsz1Ufa5TFa0QoiBoo40bZs6Zm9Fh1zaeKD5FXDIi0hec%2BikcK18msqBy7BlA442KBnza7Q5sanVYi%2BGubQZ8pCSKZXC7Ug9AHPnrLsboo3a5LqKfBcROjIiiUN8Vou%2FEG7jJZAje9GeDpETnPGvCuiq2UjpK2IM0kj&amp;site=XpnzGGAxlqk%2A&amp;selective_css=1" rel="stylesheet" type="text/css" media="all">
 
 
 <script type="text/javascript" async="" src="https://stats.g.doubleclick.net/dc.js"></script></head>
@@ -184,7 +184,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                 }
                 if(this.fire_on['time']){
                     this.trace('Attaching time on site tracking handler');
-                    this.time_tracking();
+                    var time_sample_rate = 10;
+                    if(time_sample_rate <= 25){
+                        this.time_tracking();
+                    }
                 }
                 if(this.fire_on['php_time']){
                     try{
@@ -222,7 +225,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
             },
             custom_vars:function(){
                                     _gaq.push(['_setCustomVar', 1, 'lmi', 'index/about/-1', 3]);
-                                    _gaq.push(['_setCustomVar', 37, 'uib', 'ia_archiver/52.86.176.3/true', 3]);
+                                    _gaq.push(['_setCustomVar', 37, 'uib', 'Mozilla/5.0 (compatible; archive.org_bot +http://www.archive.org/details/archive.org_bot)/207.241.229.198/true', 3]);
                             },
             fire:function(params){//fires the google analytics tracking event and traces
                 var parameters = params || [];
@@ -295,12 +298,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                     try{
                         FB.getLoginStatus(function(response) {
                             var loggedin_status = false;
-                            if (response.status === 'connected' || response.status === 'not_authorized') {
+                            if (response.status === 'connected') {
                               loggedin_status = true;
                             }
-                            gatracking.fire(['_setCustomVar', 9, 'fb_loggedin', 'fb_loggedin_' + (loggedin_status ? 'yes' : 'no'), 2]);
-                            gatracking.fire(['_trackEvent', 'Facebook_' + fb_app_id, 'status', response.status, null, true]);
-                            gatracking.fire(['_trackEvent', 'FB_loggedin', 'status', (loggedin_status ? '1' : '0'), null, true]);
+                            // SITE-771 disabling a couple of these events as we aren't using them currently.  only keeping the one with the user's fb_id.
+                            //gatracking.fire(['_setCustomVar', 9, 'fb_loggedin', 'fb_loggedin_' + (loggedin_status ? 'yes' : 'no'), 2]);
+                            //gatracking.fire(['_trackEvent', 'Facebook_' + fb_app_id, 'status', response.status, null, true]);
+                            //gatracking.fire(['_trackEvent', 'FB_loggedin', 'status', (loggedin_status ? '1' : '0'), null, true]);
                         });
                         FB.Event.subscribe('edge.create', function(href, widget) { gatracking.fire(['_trackSocial', 'Facebook', 'Like', href]); });
                         FB.Event.subscribe('edge.remove', function(href, widget) { gatracking.fire(['_trackSocial', 'Facebook', 'Unlike', href]); });
@@ -426,11 +430,10 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
                         return false;
                     }
                 }
-
-                var formatted_error_message = '[' + file + ' (' + line + ')] ' + message,
-                error_params = ['_trackEvent', 'Exceptions', location.hostname, formatted_error_message, null, true];
-
-                gatracking.fire(error_params);
+                //SITE-771 - SITE-787 -> Deleting Exceptions GA events
+                //var formatted_error_message = '[' + file + ' (' + line + ')] ' + message,
+                //error_params = ['_trackEvent', 'Exceptions', location.hostname, formatted_error_message, null, true];
+                //gatracking.fire(error_params);
             },
             engagement_tracking:function() {
                 var that = this;
@@ -709,7 +712,7 @@ listen('message', window, function(event){
             <li class="menu_item"><a href="http://www.atomica.com/about/information-sharing-and-disclosure">Consumer Choice</a></li>
                     </ul>
     </nav>
-        <p class="copyright">©2016 Atomica</p>
+        <p class="copyright">©2017 Atomica</p>
         </div>
 <div class="social_links">
             </div>
@@ -748,7 +751,7 @@ listen('message', window, function(event){
     <div id="target"></div>
 
 	
-<script src="//cdns.atomica.com/compactor.cjs?page=index%2Fabout&amp;r=0-1588-1&amp;list=oSFrWcpmyOJMezxtfx8hiZExwo9LcPyRcr%2FYxHNHvZBF17Jy8aa4JAjUv9c2sPsz1Ufa5TFa0QoiBoo40bZs6Zm9Fh1zaeKD5FXDIi0hec%2BikcK18msqBy7BlA442KBnza7Q5sanVYi%2BGubQZ8pCSKZXC7Ug9AHPnrLsboo3a5LqKfBcROjIiiUN8Vou%2FEG7jJZAje9GeDpETnPGvCuiq2UjpK2IM0kj&amp;site=XpnzGGAxlqk%2A" type="text/javascript"></script>
+<script src="//cdn.atomica.com/compactor.cjs?page=index%2Fabout&amp;r=0-1841-25&amp;list=oSFrWcpmyOJMezxtfx8hiZExwo9LcPyRcr%2FYxHNHvZBF17Jy8aa4JAjUv9c2sPsz1Ufa5TFa0QoiBoo40bZs6Zm9Fh1zaeKD5FXDIi0hec%2BikcK18msqBy7BlA442KBnza7Q5sanVYi%2BGubQZ8pCSKZXC7Ug9AHPnrLsboo3a5LqKfBcROjIiiUN8Vou%2FEG7jJZAje9GeDpETnPGvCuiq2UjpK2IM0kj&amp;site=XpnzGGAxlqk%2A" type="text/javascript"></script>
 
 
 	<!--[if lte IE 8]>
