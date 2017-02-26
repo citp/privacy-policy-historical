@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pocruises.com.au privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405135237id_/https%3A//www.pocruises.com.au/business/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pocruises.com.au privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226010043id_/https%3A//www.pocruises.com.au/business/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | P&O Cruises Australia
 
@@ -35,6 +35,8 @@ Some examples of where we may need this information are to:
 
 
 We may collect personal information about you in a variety of ways including when you deal with us in person or over the phone, send us correspondence (by letter, email or fax) or visit one of our web sites or when we receive personal information about you from other Carnival brands (in accordance with their applicable privacy policies).
+
+We may also collect personal information from travel agents in relation to conducting the core functions of our business, including but not limited to managing our relationships with travel agents.
 
 We will not collect personal information or sensitive information unless it is reasonably necessary for one or more of our core business functions or a related activity or it is permitted under Australian law.
 
