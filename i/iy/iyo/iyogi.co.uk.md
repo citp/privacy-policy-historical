@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911163008id_/http%3A//www.iyogi.co.uk/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iyogi.co.uk privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226034738id_/http%3A//www.iyogi.co.uk/privacy.html) for the most accurate reproduction.*
 
 # Privacy: iYogi | Tech Support, Computer Support by iYogi
 
