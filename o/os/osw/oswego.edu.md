@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oswego.edu privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731105412id_/https%3A//www.oswego.edu/about/about-site/internet-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oswego.edu privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227003744id_/https%3A//www.oswego.edu/about/about-site/internet-privacy-policy) for the most accurate reproduction.*
 
 # Internet privacy policy | SUNY Oswego
 
