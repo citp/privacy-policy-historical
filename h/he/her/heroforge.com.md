@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the heroforge.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819045228id_/https%3A//www.heroforge.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the heroforge.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226103445id_/https%3A//www.heroforge.com/Privacy) for the most accurate reproduction.*
 
 # None
 
