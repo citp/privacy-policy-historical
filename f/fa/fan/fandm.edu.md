@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fandm.edu privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120074105id_/http%3A//www.fandm.edu/college-policies/news-media-publicity-promotions/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fandm.edu privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226181326id_/https%3A//www.fandm.edu/college-policies/news-media-publicity-promotions/privacy-policy) for the most accurate reproduction.*
 
 # Franklin & Marshall – Privacy Policy
 
