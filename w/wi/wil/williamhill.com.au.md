@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the williamhill.com.au privacy policy that was archived on 2016-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160312122841id_/https%3A//www.williamhill.com.au/betting/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the williamhill.com.au privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226125458id_/https%3A//www.williamhill.com.au/betting/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Help
 
@@ -6,9 +6,7 @@ The following statement sets out William Hill’s policy relating to the collect
 
 In this policy:
 
-(a) “we”, “us”, “our” or “William Hill” means William Hill Australia Wagering Pty Limited 14 106 487 736 which operates William Hill and
-
-(b) “William Hill Group group means William Hill Australia Wagering Pty Limited (which operates William Hill and Centrebet ) and all of its related bodies corporate, including Tom Waterhouse (NT) Pty Limited ABN 99 142 687 876.
+(a) “we”, “us”, “our” or “William Hill” means William Hill Australia Wagering Pty Limited 14 106 487 736 which operates William Hill and Centrebet
 
 We take seriously our obligation to safeguard personal information about our clients, and are committed to complying with the Australian Privacy Principles contained in the Privacy Act 1988 (Cth).
 
@@ -26,7 +24,8 @@ You should review this page periodically so that you are updated on any changes 
 
 **Types of Personal Information we collect and hold**
 
-We collect a variety of personal information in the course of our business.  
+We collect a variety of personal information in the course of our business.
+
 The types of personal information that we may collect and hold includes, without limitation:
 
   * identification information such as your name, date of birth, residential and postal address, gender, email address, telephone numbers;
@@ -51,7 +50,7 @@ We collect your personal information directly from you unless it is unreasonable
   * use our products and services;
   * participate in our competitions, giveaways and other promotions;
   * contact us directly via any medium including: SMS, MMS, instant messaging, email, social media platforms, postal mail and telephone;
-  * provide feedback through our ‘Contact Us’ link; and
+  * provide feedback through our website/app feedback links; and
   * apply for employment with us.
 
 
@@ -66,9 +65,10 @@ It may also be necessary to collect your personal information from third parties
 
 
 
-We may also collect your personal information from other entities in the William Hill Group.
+We may also collect your personal information from other entities in the global William Hill group of companies (which includes William Hill PLC and related entities).
 
-We are required by our Northern Territory Sports Bookmaking Licence to record all telephone calls we have with you. We shall make a recording of all telephone calls with you including where you place a wager, lodge a dispute, or where there is a discussion regarding any aspect of your account. We will not tell you each time we record a call. You acknowledge this and agree to such recordings being made, and, you agree that the relevant recordings and/or any records of your transactions may be made available to the regulatory authority to enable any dispute to be determined in accordance with William Hill’s Rules.  
+We are required by our Northern Territory Sports Bookmaking Licence to record all telephone calls we have with you. We shall make a recording of all telephone calls with you including where you place a wager, lodge a dispute, or where there is a discussion regarding any aspect of your account. We will not tell you each time we record a call. You acknowledge this and agree to such recordings being made, and, you agree that the relevant recordings and/or any records of your transactions may be made available to the regulatory authority to enable any dispute to be determined in accordance with William Hill’s Rules. 
+
 Personal information may also be collected by cookies when you use our website and apps. See Cookies below for further information. 
 
 **Anonymous Dealings with William Hill**
@@ -82,22 +82,20 @@ We collect and hold, use and disclose personal information for purposes includin
   * to allow you to register as a client of William Hill;
   * to provide products and services to you;
   * to enable us to perform our obligations to you under William Hill’s Rules and to ensure that you perform your obligations under William Hill’s Rules;
-  * for communicating with you, including sending you information about our products and services and the products and services of other entities in the William Hill Group;
+  * for communicating with you, including sending you information about our products and services;
   * for planning, research, promotion and marketing of our goods and services, including conducting competitions or promotions;
   * to create aggregate data about clients through demographic profiling and statistical analysis of our database to optimise our products and services and /or allow for more efficient operation of our business;
   * to maintain a credit information file on you and to carry out a credit assessment on you;
-  * to establish your bona fides; and
+  * to establish your bona fides;
   * to comply with our legal and statutory obligations, including our obligations relating to identity verification and reporting under the Anti-Money Laundering and Counter Terrorism Act 2006 (Cth), our licencing obligations under the Racing & Betting Act (NT), sports betting laws, and other applicable laws.
 
 
 
-Other entities in the William Hill Group may use your personal information to contact you about products or services that may be of interest to you. If you no longer wish to receive promotional or marketing material from us or any other entity in the William Hill Group, please contact William Hill Customer Service on 1800 007 238 or email [service@williamhill.com.au](mailto:service@williamhill.com.au)
-
 **To whom Personal Information is disclosed**
 
-By registering with William Hill and providing personal information you consent to your personal information being used by us and other entities in the William Hill Group.
+By registering with William Hill and providing personal information you consent to your personal information being used by us and other entities in the global William Hill group of companies.
 
-We share personal information with other entities in the William Hill Group in a strictly controlled manner and does not sell personal information to other companies.
+We share personal information with other entities in the global William Hill group of companies in a strictly controlled manner and does not sell personal information to other companies.
 
 We may disclose your personal information to third parties as follows:
 
@@ -112,7 +110,20 @@ We may disclose your personal information to third parties as follows:
 
 Should the information be transferred to a third party, we will use reasonable endeavours to ensure that the information disclosed is protected by the third party under contractual arrangements and in accordance with the Privacy Act.
 
-We will give you a way to opt in and opt out of being contacted for promotional purposes by us and any third parties.
+**Direct Marketing**
+
+We may use your personal information to contact you about our products and services that may be of interest to you. This communication may be by way of sms, email, website pop-ups, telephone or post.
+
+If you do not wish to receive direct marketing communications please:
+
+  * login to the “My Account” section of the William Hill website or app and update your marketing preferences; or
+  * contact William Hill Customer Service on 1800 007 238 or email service@williamhill.com.au.
+
+
+
+You can opt out of receiving William Hill promotional emails by clicking on the “unsubscribe” link in a William Hill promotional email. 
+
+Please note that your marketing preferences relate to the receipt of marketing and promotional messages from William Hill. You may continue to receive periodic communications from William Hill in relation to the management and administration of your William Hill account. These communications may be made by any of the methods of contact you have provided in relation to your account.
 
 **Verification of your identity using a credit reporting agency**
 
@@ -128,9 +139,19 @@ Your information is held on secure servers. We may also store personal informati
 
 Our employees, agents, contractors are required to maintain the confidentiality of all personal information.
 
+You are responsible for ensuring that you keep your username, password and account information confidential. If you suspect that your details may no longer be confidential, you should notify William Hill immediately, whereupon new details may be given. 
+
+You are responsible for the security of and access to your own computer/device. You should ensure that you always log out of your account after each use of the website/app. 
+
 **Access to and correcting Personal Information**
 
+We take reasonable steps to ensure that the personal information we collect about you is accurate, up-to-date and complete. We also take reasonable steps to ensure that the personal information we use or disclose is accurate up-to-date, complete and relevant. 
+
+If we are satisfied that your personal information should be corrected we will take reasonable steps to correct it – this may include contacting you to seek your most current information.
+
 Subject to the exceptions set out in the Privacy Act, you may request access to and correction of the personal information we hold about you. To access or seek correction of any of your personal information please contact our [Privacy Officer](mailto:privacy@williamhill.com.au). We will require you to verify your identity and to specify what information you require.
+
+You may also update or correct some of your personal information via the “My Account” section of the website/apps.
 
 **Overseas transfer of personal information**
 
@@ -144,8 +165,8 @@ There may be instances where we may be required to send your personal informatio
 
 We may disclose your personal information to entities located outside Australia, including the following:
 
-  * companies in the global William Hill Group which are based outside Australia, including (but not limited to) the United Kingdom, Gibraltar and the Philippines; and
-  * external service providers located in the USA.
+  * companies in the global William Hill group of companies (including William Hill PLC and related entities) which are based outside Australia, including (but not limited to) the United Kingdom, Gibraltar, Israel and the Philippines; and
+  * external service providers located in the USA, United Kingdom and Ireland.
 
 
 
@@ -162,16 +183,26 @@ We collect and store non-personal information that we collect through cookies, l
 
 ### Cookies
 
-Cookies are small text files that are placed on your device by websites and apps that you visit. When you visit the website or app again, the cookie allows that site or app to recognise your user preferences and other information. They are widely used in order to make websites and apps work, or work more efficiently, as well as to provide information to the owners of the site/app.
+Cookies are small pieces of data which are stored by a website through your browser, to enable an improved experience whilst using or browsing a particular website/app or to remember your preferences or navigation history/activity (such as pages you have visited within a particular site or typical activity) at a particular site.
 
-We use persistent cookies for the purpose of complying with government legislation.
+We use cookies to remember your preferences when you have visited our site and pages you like to regularly visit and to ensure that you receive the most up to date information which is relevant to you and your experience with William Hill. We also use cookies for internal management purposes and to enable essential activity to ensure that your account works correctly when accessing our services. 
 
-Persistent cookies are cookies that can remain on a user’s device for a period of time that may cover multiple sessions. They are activated each time that the user visits the website or app that created that particular cookie. You can delete these cookies using your browsers own Clear History function.  
-You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website and app features or services may not function properly without cookies.
+We will not use these cookies to store information such as account details or transaction history. 
 
-We will not use these cookies to store information such as account details or transaction history, or to serve you advertisements.
+You can delete cookies using your browsers own Clear History function. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website and app features or services may not function properly without cookies.
 
-Most web browsers allow some control of cookies through the browser settings. It is important to note however that if you block cookies from the William Hill site or apps there are a number of functions that may not work and you will need to reset your preferences each time you log in.  
+Most web browsers allow some control of cookies through the browser settings. It is important to note however that if you block cookies from the William Hill site or apps there are a number of functions that may not work and you will need to reset your preferences each time you log in.
+
+**Third Party cookies**
+
+We may use third-parties to serve ads on our website/apps. These companies may place or recognise cookies, action tags and other technology to measure advertising effectiveness. Specifically, we use Atlas Solutions Universal tags to collect anonymous cookie-based data about users who perform certain actions our website/apps. Data collected with Atlas Universal Tags is reported on in aggregate, or via anonymous cookie-level log files. Any information these third parties collect via cookies and action tags is anonymous. 
+
+William Hill may use cookies to remarket to you across the internet. 
+
+The use of cookies allows William Hill to inform, optimize, and serve ads based on someone’s past visits to our website/apps. 
+
+To specifically opt-out of interest based ad targeting [click here](http://www.aboutads.info/choices/ "click here") and follow the instructions. 
+
 To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](https://www.allaboutcookies.org/ "www.allaboutcookies.org")
 
 If you have any questions regarding the use of cookies on our site or apps, please contact us at [service@williamhill.com.au](mailto:service@williamhill.com.au).
@@ -192,6 +223,6 @@ For further information about privacy issues in Australia, visit the Australian 
 
 If you have any further queries please [Privacy Officer](mailto:privacy@williamhill.com.au) or phone 1800 007 238
 
-[Privacy Collection Notice](https://www.williamhill.com.au/betting/help/wp-content/uploads/sites/2/2012/11/Privacy-Collection-Notice-WHA-24092015.pdf) (PDF).
+[Privacy Collection Notice](https://www.williamhill.com.au/betting/help/wp-content/uploads/sites/2/2012/11/PrivacyCollectionNotice-17082016.pdf) (PDF).
 
-Last updated: 25 September 2015
+Last updated: 17 August 2016
