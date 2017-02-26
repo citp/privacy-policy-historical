@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117175534id_/http%3A//www.orkin.com/globals/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the orkin.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226145126id_/https%3A//www.orkin.com/globals/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
