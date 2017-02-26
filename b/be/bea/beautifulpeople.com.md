@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the beautifulpeople.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323182832id_/https%3A//www.beautifulpeople.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beautifulpeople.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226015547id_/https%3A//www.beautifulpeople.com/privacypolicy) for the most accurate reproduction.*
 
 # BeautifulPeople - Privacy Policy
 
@@ -7,10 +7,10 @@
 BeautifulPeople respects the privacy of our users and has developed this Privacy Policy to demonstrate its commitment to protecting your privacy. This Privacy Policy is intended to describe for you, as an individual who is a user of BeautifulPeople or our services, the information we collect, how that information may be used, with whom it may be shared, and your choices about such uses and disclosures. We encourage you to read this Privacy Policy carefully when using our website or services or transacting business with us. By using our website, you are accepting the practices described in this Privacy Policy.
 
 BeautifulPeople is:   
-Beautiful Networks LLC   
-620 9th Street   
-Manhattan Beach   
-California, 90266
+People Network ApS   
+Kigkurren 8E   
+Copenhagen   
+Denmark
 
 **This privacy statement covers the Web sites[www.BeautifulPeople.com](http://www.beautifulpeople.com/). If you have questions or concerns regarding this statement, you should first contact our Privacy Officer at [privacy@beautifulpeople.com](mailto:privacy@beautifulpeople.com).**
 
@@ -68,7 +68,7 @@ There are a number of places on our website where you may click on a link to acc
 
 If you have an online account with us, you have the ability to review and update your personal information online by logging into your account and editing your profile information and your account settings.
 
-If you have an online account with us, you also may choose to remove your profile at any time by visiting the “Account Settings” page for your account. After you remove your profile all of your information will no longer be accessible. If you wish to return to BeautifulPeople you will need to re-apply. If you remove your profile, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
+If you have an online account with us, you also may choose to remove your profile at any time by visiting the “Account Settings” page for your account. After you remove your profile all of your information will no longer be accessible to users of the website. Administrative staff and technical staff of BeautifulPeople will still be able to access your data that you have submitted a copy of which will remain on our servers. If you wish to return to BeautifulPeople you will need to re-apply. If you remove your profile, we may still retain certain information associated with your account for analytical purposes and recordkeeping integrity, as well as to prevent fraud, collect any fees owed, enforce our terms and conditions, take actions we deem necessary to protect the integrity of our web site or our users, or take other actions otherwise permitted by law. In addition, if certain information has already been provided to third parties as described in this Privacy Policy, retention of that information will be subject to those third parties' policies.
 
   * You can choose not to provide us with certain information, but that may result in you being unable to use certain features of our website because such information may be required in order for you to register as a member; purchase products or services; participate in a contest, promotion, survey, or sweepstakes; be found by your friends; or initiate other transactions on our website.
   * At any time you can choose to no longer receive commercial or promotional emails from us by visiting the “Account Settings” page associated with your account. By visiting the “Account Settings” page you can select which types of mails you want to receive from BeautifulPeople. You also will be given the opportunity, in any commercial e-mail that we send to you, to opt out of receiving such messages in the future. It may take up to 10 days for us to process an opt-out request. We may send you other types of transactional and relationship e-mail communications, such as service announcements, administrative notices, and surveys, without offering you the opportunity to opt out of receiving them. Please note that changing information in your account, or otherwise opting out of receipt of promotional email communications will only affect future activities or communications from us. If we have already provided your information to a third party (such as a service provider) before you have changed your preferences or updated your information, you may have to change you preferences directly with that third party.
@@ -78,6 +78,8 @@ If you have an online account with us, you also may choose to remove your profil
 
 
 We take appropriate security measures (including physical, electronic and procedural measures) to help safeguard your personal information from unauthorized access and disclosure. For example, only authorized employees are permitted to access personal information, and they may do so only for permitted business functions. In addition, we use SSL encryption in the transmission of your sensitive personal information between your system and ours, and we use firewalls to help prevent unauthorized persons from gaining access to your personal information.
+
+Note as stipulated in our Terms of Use BeautifulPeople cannot be held liable for users personal information or communications from being leaked, stolen, hacked, or revealed into the public domain either through an illegal act by a third party or through negligence or improper configuration of our servers or firewall
 
 We want you to feel confident using our website to transact business. However, no system can be completely secure. Therefore, although we take steps to secure your information, we do not promise, and you should not expect, that your personal information, searches, or other communications will always remain secure. Users should also take care with how they handle and disclose their personal information and should avoid sending personal information through insecure email. Please refer to the Federal Trade Commission's website at http://www.ftc.gov/bcp/menus/consumer/data.shtm for information about how to protect yourself against identity theft.
 
