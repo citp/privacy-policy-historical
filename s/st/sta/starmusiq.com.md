@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starmusiq.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230115656id_/http%3A//www.starmusiq.com/Privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starmusiq.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226215634id_/http%3A//starmusiq.com//Privacy.asp) for the most accurate reproduction.*
 
 # :: Privacy Policy :: NewTamilHits.com ::
 
