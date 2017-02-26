@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207231359id_/https%3A//www.firstcommunity.com/custom/fi/fccuchesterfieldmo/fb/disclosure/annual_privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the firstcommunity.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226081651id_/https%3A//www.firstcommunity.com/custom/fi/fccuchesterfieldmo/fb/disclosure/annual_privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
@@ -43,7 +43,7 @@
                         www.firstcommunity.com or write to us at: First Community
  Questions?             Credit Union, 17151 Chesterfield Airport Road, Chesterfield,
                         MO 63005-1411
-01/2016
+01/2017
 
 
   Page 2
@@ -80,4 +80,4 @@
                                         together market financial products or services to you.
                                             Our joint marketing partners include insurance, credit card, and
                                              other financial services providers.
-01/2016
+01/2017
