@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cleverfiles.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128003555id_/http%3A//www.cleverfiles.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cleverfiles.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226112137id_/https%3A//www.cleverfiles.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mac Data Recovery
 
@@ -7,7 +7,7 @@ This privacy policy sets out how CleverFiles uses and protects any information t
 CleverFiles is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.  
 CleverFiles may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from April 1, 2013.
 
-**What we collect**
+ **What we collect**
 
 We may collect the following information:
 
@@ -31,11 +31,11 @@ We require this information to understand your needs and provide you with a bett
 
 
 
-**Security**
+ **Security**
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How we use cookies**
+ **How we use cookies**
 
 A cookie is a small file, which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences.
 
@@ -50,7 +50,7 @@ __Download Disk Drill data recovery app[for Windows](http://www.cleverfiles.com/
 
 Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information, which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Controlling your personal information**
+ **Controlling your personal information**
 
 You may choose to restrict the collection or use of your personal information in the following ways:
 
