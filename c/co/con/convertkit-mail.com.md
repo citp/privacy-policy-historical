@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the convertkit-mail.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229021351id_/https%3A//convertkit.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the convertkit-mail.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226215221id_/https%3A//convertkit.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ConvertKit
 
