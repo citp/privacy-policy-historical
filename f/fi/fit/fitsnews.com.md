@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fitsnews.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111192545id_/http%3A//www.fitsnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fitsnews.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226225715id_/https%3A//www.fitsnews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | FITSNews
 
