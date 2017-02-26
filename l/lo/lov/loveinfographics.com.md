@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loveinfographics.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407133935id_/http%3A//www.loveinfographics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loveinfographics.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227005523id_/http%3A//www.loveinfographics.com/privacy-policy) for the most accurate reproduction.*
 
 # Love Infographics » #1 Infographic Submission SitePrivacy Policy - Love Infographics
 
