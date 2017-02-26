@@ -1,94 +1,143 @@
-> *The following text is extracted and transformed from the fyiliving.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317094802id_/http%3A//fyiliving.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fyiliving.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226155220id_/https%3A//fyiliving.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | FYI Living
+# Privacy Policy - FYI Living
 
-**Privacy Policy**
+#### Purpose
 
-FYI Living understands how important the privacy of personal information is to our users. This Privacy Policy will tell you what information we collect about you and about your use of FYI Living and its services. It will explain the choices you have about how your personal information is used and how we protect that information. We urge you to read this Privacy Policy carefully.
+The purpose of this Privacy Policy is to describe how Action Factory (“Company”) collects, uses and shares information about you through our US websites owned and controlled by us, including [https://fyiliving.com](https://fyiliving.com/) (collectively referred to herein as the “Site”), and through any other medium you use to communicate with us. Please read this notice carefully to understand what we do. If you do not understand any aspects of our Privacy Policy, please feel free to Contact Us as described at the end of this Policy.
 
-**About This Privacy Policy and Using Our Site and Tools**
+Our Privacy Policy explains:
 
-This Privacy Policy applies to the FYI Living Web sites owned and operated by FYI Living, including the FYI Living.com site and the FYI Depression.com site. Reference to “FYI Living” means FYI Living, LLC., including any company that FYI Living, LLC.controls). FYI Living Web sites include any site that FYI Living owns or controls (for example, a FYI Depression site). FYI Living may share information among its subsidiaries or sites that it owns or controls, but it is always protected under the terms of this Privacy Policy.
+  * Information We Collect And Why We Collect It
+  * How We Use and Share Your Information
+  * Access To Your Information And Choices
+  * Security Of Your Information
+  * California Privacy Rights
+  * Consent To Data Processing In United States
+  * Changes To Our Privacy Policy
+  * Questions And How To Contact Us
 
-The FYI Living Web site contains links to other sites. Once you enter another Web site (whether through an advertisement, service, or content link), be aware that FYI Living is not responsible for the privacy practices of these other sites. We encourage you to look for and review the privacy statements of each and every Web site that you visit through a link or advertisement on FYI Living.
 
-While you may use some of the functionality of FYI Living without registration, many of the specific tools and services on our website require registration. If you use our Web site without registering, the only information we collect will be Non-Personal Information through the use of Cookies or Web Beacons. If you choose to register with our Web site for certain Interactive Tools or other services, we require you to submit Personally Identifiable Information. Depending on the tool or service you have selected, we may also collect Personal Health Information. You are responsible for ensuring the accuracy of the Personally Identifiable Information and Personal Health Information you submit to FYI Living. Inaccurate information will affect the information you receive when using our site and tools and our ability to contact you as described in this Privacy Policy. For example, your email address should be kept current because that it is how we communicate with you.
 
-**Non-Personal Information We Collect About You**
+#### Scope; Third Party Sites
 
-Even if you do not register with FYI Living, we collect Non-Personal Information about your use of our Web site, special promotions and newsletters.
+This Privacy Policy applies to information we collect at and through the Site and to information you provide us through any other medium, including, for example, email, text messages, telephone, letters, or otherwise. Our Site also contains links to third party sites that are not owned or controlled by Company. Please be aware that we are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of each and every website that collects personal information.
 
-**A. Cookies**
+#### Terms Of Use
 
-We collect Non-Personal Information about your use of our Web site and your use of the Web sites of selected sponsors and advertisers through the use of Cookies. Every computer that accesses a FYI Living Web site is assigned a different Cookie by FYI Living. The information collected by Cookies (i) helps us dynamically generate advertising and content on Web pages or in newsletters, (ii) allows us to statistically monitor how many people are using our Web site and selected sponsors’ and advertisers’ sites, (iii) how many people open our emails, and (iv) for what purposes these actions are being taken. We may use Cookie information to target certain advertisements to your browser or to determine the popularity of certain content or advertisements. Cookies are also used to facilitate a user’s log-in, as navigation aids and as session timers.
+Please note that your use of our Site is also subject to our Terms of Service.
 
-Most browser software can be set to reject all Cookies. Most browsers offer instructions on how to reset the browser to reject Cookies in the “Help” section of the toolbar. If you reject our Cookies, certain of the functions and conveniences of our Web site may not work properly but you do not have to accept our Cookies in order to productively use our site. We do not link Non-Personal Information from Cookies to Personally Identifiable Information without your permission and do not use Cookies to collect or store Personal Health Information about you.
+#### Information You Provide To Us
 
-**B. Web Beacons**
+Types of personal information we collect when you communicate with us include:
 
-We also may use Web Beacons to collect Non-Personal Information about your use of our Web site and the Web sites of selected sponsors and advertisers, and your use of special promotions or newsletters. The information collected by Web Beacons (i) allows us to statistically monitor how many people are using our website and selected sponsors’ and advertisers’ sites, (ii) how many people open our emails, and (iii) for what purposes these actions are being taken. Our Web Beacons are not used to track your activity outside of our Web sites or those of our sponsors’. We do not link Non-Personal Information from Web Beacons to Personally Identifiable Information without your permission and do not use Web Beacons to collect or store Personal Health Information about you.
+  * Name
+  * Address
+  * Billing address
+  * Email address
+  * Telephone number
+  * Credit card number (solely for payment purposes)
 
-**C. Third Parties Collecting Non-Personal Information on FYI Living’s Behalf**
 
-Third parties under contract with FYI Living may use Cookies or Web Beacons to collect Non-Personal Information about your usage of FYI Living’s sites. These third parties may use this information, on our behalf, to help FYI Living target our advertising on their sites within their network, and FYI Living may further tailor the advertising on these third party sites based on your geographic location (zip code), gender and/or age range to the extent known by these third parties. These third parties have agreed not to use Non-Personal Information they collect from our sites except to deliver advertisements on our behalf. If your browser is set to reject cookies, the Non-Personal Information will not be sent to these third parties.
 
-**Personally Identifiable Information We Collect About You**
+We may also collect certain other information necessary to fulfill the service that you have requested, including, for example, loyalty program cards numbers, addresses to deliver items you ask us to order on your behalf, and your passport number and other travel document information. We advise you to not share any sensitive personal information that you do not feel comfortable disclosing to strangers, such as information that relates to medical facts, racial or ethnic origins, political or religious beliefs or sexuality.
 
-We collect Personally Identifiable Information, like your name, email address, date of birth, and zip code, you provide to us when you register as a member of FYI Living and/or when you update your member profile. We use the Personally Identifiable Information that you provide to respond to your questions, provide you the specific services you select, send you emails about Web site maintenance and updates, and inform you of significant changes to this Privacy Policy.
+We may also collect and analyze information from the content of communications you have with us (including text messages and emails) using automated systems.
 
-**A. Newsletters & Emails to You**
+#### Information Collected Through Google Analytics
 
-At registration and at various times as you use FYI Living, you will be given the option of receiving recurring informational/promotional newsletters via email from FYI Living and/or directly from third parties. When you sign up for our email newsletters or at any time, you can choose to Opt-In to receiving additional promotional emails from FYI Living or our Sponsors. In order to subscribe to FYI Living newsletters via email, we need your contact information, like name and email address. You can unsubscribe from the newsletters by simply clicking on the “unsubscribe” link at the bottom of any email newsletter. An email to our automated unsubscribe service will be created on your computer. Click the “send” button. You will then be unsubscribed from that newsletter within two to three business days. You may also unsubscribe or change any of your email preferences by clicking on the applicable links in your email newsletter or by changing your profile settings by clicking on any of the view/manage links at the bottom of your FYI Living Newsletter. In some cases, when you click on a link or an advertisement on our site, in an e-mail or newsletter, your browser may be momentarily directed to the website of a third party which, acting on behalf of FYI Living notes or “counts” your response to the e-mail or newsletter before re-directing your browser to your selected destination; this re-direction process may not be apparent to you.
+We use Google Analytics, a web analytics service provided by Google, Inc. (“Google”) to collect certain information relating to your use of the Site. Google Analytics uses “cookies,” which are text files placed on your computer, to help the website analyze how users use the site. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the website, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser, however please note that if you do this you may not be able to use the full functionality of our website. By using our website, you consent to the processing of data about you by Google in the manner and for the purposes set out above. For more information regarding Google Analytics please visit Google’s website, and pages that describe Google Analytics, such as[www.google.com/analytics/learn/privacy.html](http://www.google.com/analytics/learn/privacy.html).
 
-**B. Emails You Send to FYI Living**
+#### Information Collected Through Cookies And Similar Technologies
 
-This Privacy Policy does not apply to content, business information, ideas, concepts or inventions that you send to FYI Living by email. If you want to keep content or business information, ideas, concepts or inventions private or proprietary, do not send them in an email to FYI Living. We try to answer every email within 48 business hours, but are not always able to do so.
+We and our service providers use cookies, web beacons, and other technologies to receive and store certain types of information whenever you interact with our website through your computer or mobile device. A cookie is a small file containing a string of characters that is sent to your computer when you visit a website. When you visit the website again, the cookie allows that site to recognize your browser. Cookies may store unique identifiers, user preferences and other information. You can reset your browser to refuse all cookies or to indicate when a cookie is being sent. However, some website features or services may not function properly without cookies. We use cookies to improve the quality of our service, including for storing user preferences, tracking user trends, and providing relevant advertising to you (see “Advertising” section below).
 
-**C. Email a Friend**
+#### No Information From Children Under Age 13
 
-If you choose to use our Email a Friend service to tell a friend about our site or newsletter, we will ask you for your name, your email address and your friend’s email address. We will automatically send your friend a one-time email inviting him or her to visit the site using your name and email address as the from email address. FYI Living does not use your name, your email address or your friend’s email information and the information you provide using this service for any other purpose. We will only use the information you provide to send the email you request.
+If you are under the age of 13, please do not attempt to register with us at this Site or provide any personal information about yourself to us. If we learn that we have collected personal information from a child under the age of 13, we will promptly delete that information. If you believe we have collected personal information from a child under the age of 13, please Contact Us. If you are over the age of 13, you may provide us with whatever information about yourself or a child under the age of 13 that is necessary to perform the services you request, and we will only use this information pursuant to this Privacy Policy.
 
-**D. Message Boards and other Public Forums**
+#### To Provide Products, Services, and Information.
 
-As a service to our users, FYI Living features message boards, chat rooms and other public forums where users with similar interests or medical conditions can share information and support one another or where users can post questions for experts to answer. We also offer online discussions moderated by medical or healthcare experts. **Any information shared (including Personally Identifiable and Personal Health Information) that you reveal in a chat room, message board, or online discussion is by design open to the public and is not a private, secure service. You should think carefully before disclosing any Personally Identifiable or Personal Health Information in any public forum. What you have written may be seen, disclosed to or collected by third parties and may be used by others in ways we are unable to control or predict, including to contact you for unauthorized purposes. As with any public forum on any site, this information may also appear in third-party search engines like Google, Yahoo, Bing, etc.**
+As described above, we collect information from you so that we can provide products and services that you request, and provide information that you request from us. We use your personal information to:
 
-**E. Website Registration and Interactive Tools on FYI Living**
+  * Contact you about your service requests
+  * Perform the services you requested
+  * Process credit card / debit card transactions necessary for the services you requested
+  * Personalize your experience
+  * Improve our services
+  * To process your membership fees
 
-After you have registered as a member of FYI Living, you may choose to use certain FYI Living interactive content, tools and services that may ask you to voluntarily provide other types of information about yourself including Personal Health Information. Some of the tools (like certain quizzes or calculators) do not retain your Personal Health Information, while others (like Ovulation Calendar) store your Personal Health Information in accordance with the authorization you provide at the time you use the tool.
 
-**F. Children**
 
-We are committed to protecting the privacy of children. Neither FYI Living nor any of its services are designed or intended to attract children under the age of 13. We do not collect Personally Identifiable Information from any person we actually know is under the age of 13. A parent or guardian, however, may use FYI Living to establish a personal health record. The parent or guardian is solely responsible for providing supervision of the minor’s use of FYI Living. The parent or guardian assumes full responsibility for ensuring that the registration information is kept secure and that the information submitted is accurate. The parent or guardian also assumes full responsibility for the interpretation and use of any information or suggestions provided through FYI Living Health Manager for the minor.
+We may also use your information to send you information about products, services, and new offerings offered by us or by a FYI Living partner through email or through text messages to your mobile phone (if provided). We may also contact you through email when new partners join the FYI Living network and for new offers by FYI Living partners.
 
-**G. Market Research**
+#### Third Party Access
 
-From time to time the FYI Living market research department, or its operations contractors acting on its behalf, conducts online research surveys through email invitations, pop-up surveys and online focus groups. When participating in a survey, we may ask you to submit Personally Identifiable Information. FYI Living may combine your Personally Identifiable Information you submit in a survey to information about you from other sources. The information from other sources may include financial, health or other identifiable information. This Personally Identifiable Information is used for research purposes, and is not used for sales solicitations. When a survey is sponsored by a third party, Aggregate Information from the survey results is reported to the sponsor. Personally Identifiable Information collected through market research will be used only by FYI Living and its service providers and contractors and will not be given or sold to any other third party without your consent or as otherwise permitted by this Privacy Policy. For market research surveys we will not knowingly accept survey responses from or conduct interviews with any person under the age of 18. Some surveys may provide remuneration to participants such as a small cash fee for your time or an entry into a sweepstakes for a larger prize. Each. In addition to collecting survey responses from our members, Cookies may be used to authenticate respondents or to help you pick up where you left off in a survey. If you have Cookies disabled you may not be able to participate in some studies. Cookies may be used to connect survey data with FYI Living site usage characteristics.
+We may provide information to third party service providers that help us fulfill services that you request from us. We may also use third parties to help host our Site, send out email updates about the Site, provide marketing, analytic, and advertising services for us, remove repetitive information from our user lists, and process payments. These service providers will have access to your personal information in order to provide these services, but when this occurs we implement reasonable contractual and technical protections to limit their use of that information to helping us provide the service.
 
-FYI Living Health Manager – Registration, Use and Tools, including Personal Health Record
+#### Advertising
 
-FYI Living Health Manager allows you a secure place to store your Personal Health Information and provides tools and services in order to better manage your health and the health of your family. FYI Living Health Manager requires additional registration whether you access it through (i) FYI Living, (ii) your employer’s Web site or (iii) your healthcare sponsor’s website. Regardless of how you access the FYI Living Health Manager the following apply:
+We may use how you browse in order to show you ads for FYI Living or FYI Living partners that are relevant to your interests and individual needs. We may use cookies and other information to provide relevant interest-based advertising to you. Interest-based ads are ads presented to you based on your browsing behavior in order to provide you with ads more tailored to your interests. These interest-based ads may be presented to you while you are browsing our site or third-party sites not owned by FYI Living.
 
-**Information Collected by Third Parties Not Acting on FYI Living’s Behalf**
+We belong to ad networks that may use your browsing history across participating websites to show you interest-based advertisements on those websites. You can opt-out of receiving interest-based ads from us by changing the settings on your browsers or by visiting Google’s Ads Settings at [www.google.com/settings/u/0/ads](https://www.google.com/settings/u/0/ads). Please note that if you choose to opt out, you will continue to see ads on our Site, but they will not be based on how you browse and shop.
 
-Sponsors or advertisers on FYI Living may use their own Cookies, Web Beacons or other online tracking technologies in the banner advertisements served on FYI Living and in emails, special promotions or newsletters we send you. Some advertisers use companies other than FYI Living to serve their ads and to monitor users’ responses to ads, and these companies (“Ad Servers”) may also collect Non-Personal Information through the use of Cookies or Web Beacons on our Web site. In certain situations, information collection may be facilitated by momentarily directing your browser to the Web site of an Ad Server or other third party acting on behalf of the sponsor, partner, or advertiser before re-directing your browser to its selected destination (e.g., back to FYI Living to show the ad, or to the advertiser’s website); this re-direction process will not be apparent to you.
+Currently, our Site does not recognize if your browser sends a “do not track” signal or similar mechanism to indicate you do not wish to be tracked or receive interest-based ads. We allow third-party publishers across the web to collect information stored in cookies on your computer about your online activities when you leave this Site. To learn more about interest-based advertisements and your opt-out rights and options, visit the Digital Advertising Alliance and the Network Advertising Initiative websites ([www.aboutads.info](http://www.aboutads.info/) and [www.networkadvertising.org](http://www.networkadvertising.org/)). Please note that if you opt-out of receiving interest-based advertising, you will still receive ads that will not necessarily be tailored to your interests.
 
-We do not control these third parties’ use of cookies or Web Beacons, or how they manage the non-personal information they gather through them. However, we do require sponsors, advertisers and Ad Servers who collect cookie or web beacon information through our Web site to agree that they will not collect any Personally Identifiable Information from our site without your consent. They have promised us they will not link any non-personal cookie or web beacon information collected by them on our site to Personally Identifiable Information they or others collect in other ways or from other sites except as may be described in connection with a particular program. For example, in connection with “Sponsored Links” furnished by Google, non-personal information sent by your browser to Google when you click on a sponsored link or submit a query may be used by Google as described in its privacy policy
+#### Feedback
 
-**Disclosure of Your Information**
+Your feedback and suggestions you submit, including feedback or suggestions submitted through online forms, social media sites, or through email, will be considered non-confidential and non-proprietary to the extent permitted by law. We may use any of your feedback or suggestions to improve our services or for marketing purposes on our website or on any of our social media sites without any obligation to you.
 
-Except as described in this Privacy Policy or as specifically agreed to by you, FYI Living will not disclose any Personally Identifiable or Personal Health Information it gathers from you on our website. We may only release Personally Identifiable or Personal Health Information to third parties: (1) to comply with valid legal requirements such as a law, regulation, search warrant, subpoena or court order; or (2) in special cases, such as in response to a physical threat to you or others, to protect property or defend or assert legal rights. In the event that we are legally compelled to disclose your Personally Identifiable or Personal Health Information to a third party, we will attempt to notify you unless doing so would violate the law or court order. In addition, we may disclose Personal Information as described below.
+#### Statistical Analysis
 
-**A. Disclosure to FYI Living Operations and Maintenance Contractors**
+We may use your information you provide to us through any medium (including emails you delegate us to process on your behalf), combined with other information we may obtain from other sources, to perform statistical, demographic, and marketing analyses of the users of the FYI Living services, their service requests patterns, improve our understanding of our customers and potential customers, improve our service, and to improve customer relationships.
 
-FYI Living operations and maintenance contractors sometimes have limited access to your Personally Identifiable Information in the course of providing products or services to FYI Living. These contractors include vendors and suppliers that provide us with technology, services, and/or content for the operation and maintenance of our Web site. Unless you have Opted-out of receiving emails and newsletters from FYI Living, these contractors also may have access to your email address to send newsletters or special promotions to you on our behalf or to send emails to you for purposes such as conducting market research on our behalf. Access to your Personally Identifiable Information by these contractors is limited to the information reasonably necessary for the contractor to perform its limited function for FYI Living.
+#### Third Party Advertising And Marketing
 
-**B. Disclosure to Linked Sites**
+From time to time with your consent, we may disclose information with FYI Living partners who may offer you products and services of interest. You may opt-out of this sharing by Contacting Us. The information we may share with FYI Living partners includes your name, address, email address, telephone number, and information about types of services you have requested. We require FYI Living partners to agree to reasonable contractual and technical protections to limit their use of that information to their own advertising, and to not further share or distribute your information to non-partner third parties without your consent. If you have consented to our sharing your personal information with these third parties, you may subsequently opt-out by Contacting Us.
 
-In addition to the Third Party Contractor Web sites that you may access as described above, for your convenience there are links to Third Party Web sites operated by companies that are not affiliated with the FYI Living Web site and that do not have contracts to provide content or services through the FYI Living Web site. These links may be found in advertisements, referenced within content, or placed beside the names or logos of sponsors. FYI Living does not disclose your Personal Information to these Third Party Websites without obtaining your consent. FYI Living does not endorse and is not responsible for the privacy practices of these sites. If you choose to link to one of these Third Party Web sites, you should review the privacy policy posted on this other website to understand how that Third Party Web site collects and uses your Personally Identifiable Information.
+#### Delegation Of Your Inbox And Calendar
 
-**C . Disclosure of Aggregate Information**
+In the event you authorize us to access your email or calendar accounts, we will not share their contents with third parties without your consent except as necessary to perform the services requested and as required for Legal Proceedings as described below. We reserve the right to turn over any information related to any potentially illegal activity contained in these accounts to law enforcement for civil and/or criminal penalties. It is solely your responsibility to notify any senders of email or meeting invitations or responses that you have delegated your email and calendar to us and that their emails may be observed by us on your behalf.
 
-FYI Living may provide Aggregate Information to third parties. For example, we might inform third parties regarding the number of users of our website and the activities they conduct while on our site. We might also inform a pharmaceutical company (that may or may not be an advertiser on our site) that “30% of our users live east of the Mississippi” or that “25% of our users have tried alternative medicine.” Depending on the circumstances, we may or may not charge third parties for this Aggregate Information. We require parties with whom we share Aggregate Information to agree that they will not attempt to make this information personally identifiable, such as by combining it with other databases.  
-Effective: January 12, 2010
+#### Legal Proceedings
 
-©2010 FYI Living, LLC. All rights reserved.
+We will share personal information with third party companies, organizations or individuals outside of Company if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+
+  * Meet any applicable law, regulation, subpoena, legal process or enforceable governmental request
+  * Enforce applicable Terms of Use, including investigation of potential violations
+  * Detect, prevent, or otherwise address fraud, illegal activity, network security or technical issues concerning our service
+  * Protect against harm to the rights, property or safety of Company, our users (including you), customers or the public as required or permitted by law
+  * Detect, prevent, or otherwise address risks to national security or other important public interests
+
+
+
+#### Your Consent
+
+In addition to the sharing described elsewhere in this Policy, we will share personal information with companies, organizations or individuals outside of FYI Living when we have your express consent to do so.
+
+#### Transfer In The Event Of Sale Or Change Of Control
+
+We do not sell, trade, or transfer your personally identifiable information to third parties except as follows: if the ownership of all or substantially all of our business changes or we otherwise transfer assets relating to our business or the Site to a third party, such as by merger, acquisition, bankruptcy proceeding or otherwise, we may share, transfer, or sell your personal information to the new owner. In such a case, unless permitted otherwise by applicable law, your information would remain subject to the promises made in the applicable privacy policy unless you agree differently. In addition, if FYI Living acquires another entity,FYI Living may share your information with our new corporate affiliate.
+
+If you have questions about personal information we have about you or need to update your information, you can Contact Us. While we are happy to provide you the categories of information we have about you, to protect the security of your information we cannot provide you with certain information you may have provided to us, including, for example, passwords, frequent flyer numbers, credit card information, and other account numbers. You may request that we remove any information we have about you by Contacting Us. You can opt-out of receiving marketing and promotional e-mails from Company by Contacting Us.
+
+You may close your account as described in our [Terms of Service.](https://fyiliving.com/terms-of-service/) If you close your account, we will no longer use your online account information or share it with third parties. We will delete your information if you specifically request us to do so. We may, however, retain a copy of the information for archival purposes, and to avoid identity theft or fraud.
+
+We use industry standard physical, technical and administrative security measures and safeguards to protect the confidentiality and security of your personal information. However, since the Internet is not a 100% secure environment, we cannot guarantee, ensure, or warrant the security of any information you transmit to us. Although we use industry standard practices to protect your information stored on our servers, there is no guarantee that information, including sensitive personal information, may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. It is your responsibility to protect the security of your login information. Please note that e-mails and other communications you send to us through our Site are not encrypted, and we strongly advise you not to communicate any confidential information through these means.
+
+Under California’s “Shine the Light” law, California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2015 will receive information regarding 2014 sharing activities).
+
+To obtain this information, please send an email message to [privacy@actionfactory.com](mailto:privacy@expresssurvival.com) with “Request for California Privacy Information” on the subject line and in the body of your message. We will provide the requested information to you at your e-mail address in response. Please be aware that not all information sharing is covered by the “Shine the Light” requirements and only information on covered sharing will be included in our response.
+
+Our Site is operated and managed on servers located and operated within the United States. By using and accessing our Site, residents and citizens of countries and jurisdictions outside of the United States agree and consent to the transfer to and processing of personal information on servers located in the United States, and that the protection of such information may be different than required under the laws of your residence or location.
+
+Our Privacy Policy may change from time to time. We will not reduce your rights under this Privacy Policy without your consent in accordance with applicable law. We will post any privacy policy changes on this page and, if the changes are significant, we will provide a more prominent notice (including, for certain services, email notification of privacy policy changes). We will also keep prior versions of this Privacy Policy in an archive for your review.
+
+If you have any questions, concerns, complaints or suggestions regarding our Privacy Policy or otherwise need to contact us, please email us at [privacy@actionfactory.com](mailto:privacy@actionfactory.com), or contact us by US postal mail at the following address:
+
+> **Action Factory Inc.**  
+>  814 Mission Street  
+>  6th Floor  
+>  San Francisco, CA 94103
+> 
+> [privacy@actionfactory.com ](mailto:privacy@actionfactory.com)
