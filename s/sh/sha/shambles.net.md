@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the shambles.net privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202220531id_/http%3A//www.shambles.net/privacy/index.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shambles.net privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226223416id_/http%3A//www.shambles.net/privacy/index.htm) for the most accurate reproduction.*
 
 # Shambles in S.E.Asia - Privacy Statement (The Education Project Asia)
 
-There are some pages on Shambles where visitors may need to provide some personal information, i.e. on the [feedback](http://www.csmith.info/feedback/) form and if subscribing to the [newsletter](https://web.archive.org/web/20161202220531id_/http%3A//www.shambles.net/newsletter/).
+There are some pages on Shambles where visitors may need to provide some personal information, i.e. on the [feedback](http://www.csmith.info/feedback/) form and if subscribing to the [newsletter](https://web.archive.org/web/20170226223416id_/http%3A//www.shambles.net/newsletter/).
 
 Any information collected is kept private and is not passed on to any third parties.
 
