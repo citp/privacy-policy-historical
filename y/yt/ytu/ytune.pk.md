@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ytune.pk privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220104458id_/http%3A//ytune.pk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ytune.pk privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226183731id_/http%3A//ytune.pk/privacypolicy) for the most accurate reproduction.*
 
 # YTune.PK - World No.1 Video Portal
 
