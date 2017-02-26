@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nulab-inc.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927013208id_/https%3A//nulab-inc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nulab-inc.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226205328id_/https%3A//nulab-inc.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Nulab Inc.
+# Privacy Policy | Nulab
 
 Nulab Inc. conducts computer system development and sales, contributes to the local community while making an effort to develop skilled personnel. In providing our wide-ranging service, and considering the usefulness of personal information, we have established an information protection policy to protect the individual’s rights and interests, and all board members and employees shall carry out this policy in good faith.
 
@@ -15,7 +15,7 @@ Nulab Inc. conducts computer system development and sales, contributes to the lo
 
 ## Regarding Cookies
 
-On our web site, we use a tool called 'Cookie' to make our site more convenient to our customers.
+On our web site, we use a tool called ‘Cookie’ to make our site more convenient to our customers.
 
 Cookies are small pieces of data that are transferred between a Web server and your Web browser, and stored on your computer disk as a file.
 
@@ -23,25 +23,46 @@ We mainly use Cookies for the following purposes.
 
   * When you use the service, you do not enter a password every time.
   * On our websites and services, we use Cookies to deliver personalized experiences to our customers.
-  * Cookies are used for analytic practices to help us understand our customers' activities in our services.
+  * Cookies are used for analytic practices to help us understand our customers’ activities in our services.
 
 
 
-You may disable the function of Cookies by choosing the browser's configuration. Please note that this may result in you not being able to use all or part of the service on websites.
+You may disable the function of Cookies by choosing the browser’s configuration. Please note that this may result in you not being able to use all or part of the service on websites..
 
 ## Tracking system by authorized third-parties
 
-To enhance your experiences on our websites, we use Cookies and other technologies to track your activities on our websites and services. With our own servers or third-parties services, we collect informations such as the date you have accessed our websites, the website you have visited before reaching to our websites, your browser, OS, IP address, and the domain name. To analyze your activities in our websites, we may use third-party service providers' services.
+To enhance your experiences on our websites, we use Cookies and other technologies to track your activities on our websites and services. With our own servers or third-parties services, we collect informations such as the date you have accessed our websites, the website you have visited before reaching to our websites, your browser, OS, IP address, and the domain name. To analyze your activities in our websites, we may use third-party service providers’ services.
+
+Our company uses the following services. Please refer to each service’s privacy policy applicable when tracking data. If you do not wish to have your data used in each service, you may opt out by following the steps below.
+
+  * ### Google Analytics
+
+[Google’s privacy policy](http://www.google.com/intl/policies/privacy/)
+
+If you do not wish to have your data transmitted to the Google Analytics, please download Google Analytics opt out add-on provided by Google from the link below:
+
+<https://tools.google.com/dlpage/gaoptout?hl=en>
+
+  * ### Mixpanel
+
+[Mixpanel’s privacy policy](https://mixpanel.com/privacy/)
+
+If you do not wish to have your data used in the Mixpanel, please use the opt out link below:
+
+<https://mixpanel.com/optout/>
+
+
+
 
 ## Emails
 
-From time to time, we may send out emails for promotion purposes to announce our services, functions, researches, news, promotions, contests, and events. Our customers may opt-out of receiving these emails. We may use a third-party service provider to send out emails or to communicate smoothly with our customers. For a smoother communication, we may share information, such as your email address, to the service provider for this limited purpose only.
+From time to time, we may send out emails for promotion purposes to announce our services, functions, researches, news, promotions, contests, and events. Our customers may opt-out of receiving these emails. We may use a third-party service provider to send out emails or to communicate smoothly with our customers. For a smoother communication, we may share information, such as your email address, to the service provider for this limited purpose only.
 
 ## Regarding SSL
 
-Our web site uses 'SSL' to protect personal information. By using a browser that supports security functions, when you access to our web site and enter personal information including your name and e-mail address, and this information is transferred to our server, the information is automatically encrypted when transmitted and received by servers. Therefore if the transmitted data is intercepted by a third party, there is no need to worry about the content being stolen.
+Our web site uses ‘SSL’ to protect personal information. By using a browser that supports security functions, when you access to our web site and enter personal information including your name and e-mail address, and this information is transferred to our server, the information is automatically encrypted when transmitted and received by servers. Therefore if the transmitted data is intercepted by a third party, there is no need to worry about the content being stolen.
 
-If you use a browser that does not support SSL, you may not be able to access our website or input information.
+If you use a browser that does not support SSL, you may not be able to access our website or input information..
 
 ## Access log
 
@@ -51,11 +72,12 @@ The content recorded on access log includes the access date and time, domain nam
 
 ## Privacy policy amendment
 
-We may amend the entire or any portion/s of our privacy policy. In case of major update, we will notice our customers in appropriate places and/or by appropriate means. The updated privacy policy will go into effect on the date that is posted on this web page.
+We may amend the entire or any portion/s of our privacy policy. In case of major update, we will notice our customers in appropriate places and/or by appropriate means. The updated privacy policy will go into effect on the date that is posted on this web page.
 
 June 1st, 2005 Enacted  
 June 1st, 2009 Amended  
 January 7th, 2016 Amended  
+November 29th, 2016 Amended  
 Nulab Inc.  
 President Masanori Hashimoto
 
@@ -64,5 +86,6 @@ President Masanori Hashimoto
 ## Updates:
 
   * [June 1st, 2009](https://nulab-inc.com/privacy/v20090601/)
+  * [January 7th, 2016](https://nulab-inc.com/privacy/v20160107/)
 
 
