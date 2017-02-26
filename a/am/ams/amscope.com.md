@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amscope.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223113113id_/https%3A//www.amscope.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amscope.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227000729id_/https%3A//www.amscope.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
