@@ -1,77 +1,106 @@
-> *The following text is extracted and transformed from the monsterbacklinks.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314192321id_/https%3A//www.monsterbacklinks.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monsterbacklinks.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226024235id_/https%3A//www.monsterbacklinks.com/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Monster Backlinks
 
-This Privacy and Information Security Policy ("this Policy") discusses the personally identifying information that we collect about you when you use our website http://www.MonsterBacklinks.com/ (the "Site") and the other services we provide on or through the Site (together with the Site, the "Service").
+**_1\. Introduction_**
 
-1\. INFORMATION YOU GIVE US.
+Monster Backlinks is dedicated to protecting your personal information and informing you about how we use your information. This privacy policy applies to your use of the Monster Backlinks services including our website www.monsterbacklinks.com (collectively “Platform”). This Privacy Policy should be read in conjunction with the Terms of Service. All capitalized proper nouns will have the same definitions and meanings as defined by the Terms of Service. Please review this privacy policy periodically as we may revise it from time to time without notice. If you do not agree with or accept our Privacy Policy in it’s entirety, you must not access or use the Platform. If you use the platform following a change to the terms of this Privacy Policy you agree to accept the revised policies. 
 
-a. The Types of Information Monster Backlinks Collects. We collect any information you enter on the Service or give us in any other way (such as through an email, survey, or letter). The information that we collect varies depending upon how you use our Service. Our account registration process requires that you provide us with your user name, birthday and email address, and that you create and provide us with a password. We may also request other information, such as but not limited to, your actual first and last name, gender, and zip code.
+**_2\. Information Collected_**
 
-b. Information in Public Areas of the Site. Please keep in mind that whenever you voluntarily provide information in public areas of the Service, such as the user profile pages or forums, that information can be viewed and possibly used by others. We therefore advise visitors not to disclose contact information, including phone number, email address, street address or instant messenger address (within these public areas) that they do not wish to share. We are not responsible for information you choose to submit in these public areas. Also, we may highlight content you post to the public areas of the Service such as reviews or comments, such as by featuring your content on the Site's home page.
+At Monster Backlinks, we collect personally identifiable information (“PII”) and non-personally identifiable (“Non-PII”) information from you. Personally identifiable information is information that can be used to identify you personally. Non-personally identifiable information is information that must be combined with other information to identify you personally. 
 
-2\. AUTOMATIC INFORMATION COLLECTION.
+**_Personally Identifiable Information Collected_**
 
-a. Cookies. Like many websites, we use "cookies." Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your Web browser to enable our systems to recognize your browser. We use persistent, identifying cookies to remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the Service may not function and appear as we have designed it. Nonetheless, if you want to take these steps, you can do so by following the instructions associated with your browser. Our cookies do not collect PII that you provide to us during the registration process, but they do collect other information such as the following:
+You will not be required to provide us any information when you visit our Platform. However, in order to fully use our Platform, we may collect PII such as your name, address, email , and telephone number. Additionally, if you wish to make a purchase we may collect your payment information which is stored and secured using PCI/DSS compliant hosting. If you are a Seller as defined by our Terms of Service, in addition to the PII collected we may also collect your business information. 
 
-i. the domain name and host from which you access the Internet and the Internet address of the site from which you direct-linked to ours;
+**_Non-Identifying Information_**
 
-ii. the date and time you access the Site and pages you visit;
+Whenever you use our website, we may collect non-identifying information from you, such as your IP address,location, age, zip code, gender, browsing history, search history, and registration history, interactions with the website, location, referring URL, browser, operating system, data usage, data transferred, and Internet Service Provider. As we value your privacy, only anonymized interactions will be collected through the Platform. We may also collect information including but not limited to postings you make on the public areas of our website, messages you send to us, and correspondence we receive from other members or third parties about your activities or postings. 
 
-iii. your computer's IP address and information about its operating system, platform and the Web browser type and version you use; 
+**_3\. Use of Your Information_**
 
-iv. demographic and other non-personally identifiable profile information about you; and
+Some of your information will be visible to other users of the Platform to facilitate communication between users. We will never sell your information without your permission; however you agree that we may use your information in the following ways: 
 
-v. information to combat fraud or misuse.
+  * To provide services to you and to operate the Monster Backlinks Platform.
+  * To enhance or improve our users’ experiences.
+  * To contact you via email, text, or electronic communications regarding or related to the Monster Backlinks Platform.
+  * To share with other users.
+  * To process your transactions.
+  * To share your information with third party partners or third parties hired by us to perform functions and provide services to us on the condition that the third parties use your information only on our behalf and pursuant to our instructions.
 
-b. Collection of Information by Third Parties. Some of the advertisers and other businesses that advertise or place other content our Site use cookies on our Site and may place a cookie on your computer. The content posted by these businesses will be identified as coming from a third party. In addition, we use third party advertising companies to serve ads. These companies (1) use information obtained from your visits to this Site and other sites to serve ads to you and (2) place unique third party cookies on your browser. Also, we use web beacons provided by third party advertising companies to help optimize our advertising. Web beacons enable us to recognize your browser when a cookie has been placed on your computer. Some but not all third party advertising companies provide a mechanism to opt-out of their technology.
 
-The information collected by third party cookies is subject to the privacy policy of the third party, not Monster Backlinks's privacy policy.
 
-c. Promotions, Sweepstakes, and Contests. From time to time, we may host a promotion, sweepstake, or contest on the Service. You May be asked to provide personal information or permit the transfer to a third party of your personal information in connection with such promotion, sweepstake or contest. It will be disclosed at the point of collection or transfer who is collection or transferring the information and whose privacy statement applies, and it will be your choice whether or not you wish to permit such transfer to our collection of personal information by a third party.
+Additionally, we may give your information to law enforcement if we are compelled to by a court order, if there has been a violation of any US laws, EU laws or if a violation of the Terms of Service or Privacy Policy has occurred. 
 
-3\. Monster Backlinks'S USE AND RETENTION OF YOUR INFORMATION.
+**_4\. Accessing, Editing, and Removing Your Information_**
 
-Retention of Information. We retain information for as long as required, allowed or we believe it useful, but do not undertake retention obligations. We may dispose of information in our discretion without notice, subject to applicable law that specifically requires the handling or retention of information. You must keep your own, separate back-up records.
+You will be able to access any information contained in your account through our Platform. You may edit that information by removing or changing the information listed in your account. If you have any questions or wish to review, change, or access any of your information collected by us, please contact us at support@SeoMerTech.com. Additionally, if you wish to opt out of our data collection practices or would like us to remove any of your information, please contact us at support@SeoMerTech.com. After you have cancelled your account please be aware that we may keep inaccessible copies of your information subject to our data retention policies. 
 
-4\. Monster Backlinks'S SHARING OF INFORMATION. Monster Backlinks shares information with third parties, but only as described in this Section 4.
+**_5\. Cookies_**
 
-a. Advertisers and Others. We share non-personally identifiable information with advertisers, service providers, and other persons with whom we conduct business.
+We use cookies to remember your preferences, identify you, and for security purposes. Therefore, you must have cookies enabled in your browser to use our Platform. Please be aware that some or all of our cookies may be accessible by third parties. 
 
-b. Service Third Parties. We contract with affiliated and non-affiliated third parties to provide services to us or to you on our behalf. Examples include providing marketing assistance, providing customer services, sending Monster Backlinks email to you, removing repetitive information from customer lists, and analyzing data. These third parties have access to personal information needed to perform their functions.
+**_6\. Third Party Access to Your Information_**
 
-c. Business Transfer. As we develop our business, we might sell or buy businesses or their assets, or engage in acquisitions, merger, restructurings, changes or control, or similar transactions. In such transactions, customer information generally is one of the transferred business assets, and your PII is subject to such a transfer. Also, in the unlikely event of a bankruptcy, customer information may be transferred to a bankruptcy trustee or debtor in possession and then to a subsequent purchaser.
+Although you are entering into an Agreement with Monster Backlinks to disclose your information to us, we do use third party individuals and organizations to assist us, including contractors, web hosts, and others to allow you to access the Platform.
 
-d. Compliance and Safety. We may release user information when we believe release is appropriate to:
+Throughout the course of our provision of our services to you, we may delegate our authority to collect, access, use, and disseminate your information. It is therefore necessary that you grant the third parties we may use in the course of our business the same rights that you afford us under this Privacy Policy. For this reason, you hereby agree that for every authorization which you grant to us in this Privacy Policy, you also grant to any third party that we may hire, contract, or otherwise retain the services of for the purpose of operating, maintaining, repairing, or otherwise improving or preserving our website or its underlying files or systems. You agree not to hold us liable for the actions of any of these third parties, even if we would normally be held vicariously liable for their actions, and that you must take legal action against them directly should they commit any tort or other actionable wrong against you. Here is a list of companies we may share your information with to provide you access to the Platform: 
 
-i. comply with applicable law, and to respond to legal process, including subpoenas, search warrants and court orders, and to respond to or otherwise address written complaints of copyright infringement;
+  * Paypal
+  * Payza
+  * Clicky
+  * MaxMind
+  * SiftScience
+  * Coinbase
+  * GoCoin
+  * Twilio
+  * Lob
+  * Hyperwallet/Paylution
+  * Payoneer
+  * Google
+  * Twitter
+  * Facebook
+  * LinkedIn
 
-ii. make disclosures under programs intended to prevent potential crimes or investigate persons;
 
-iii. enforce or apply agreements, including the Terms; or 
 
-iv. protect the rights, property, or safety of Monster Backlinks, our users, or others, including exchanging information with other companies for fraud protection and credit risk reduction.
+**_7\. Law Enforcement_**
 
-5\. INFORMATION SECURITY
+You agree that we may disclose your information to authorities if compelled to by a court order. Additionally, you agree that we may disclose your information if we reasonably believe that you have violated US laws or the terms of our Terms of Service or Privacy Policy or if we believe that a third party is at risk of bodily harm. In the event that we receive a subpoena affecting your privacy, we may elect to notify you to give you an opportunity to file a motion to quash the subpoena, or we may attempt to quash it ourselves, but we are not obligated to do either. We may also proactively report you and release your information without receiving any request to third parties where we believe that it is proper to do so for legal reasons, where your actions violate any law of the United States or any other country having jurisdiction over us, our Platform, or our Terms of Service. You release us from any damages that may arise from or relate to the release of your information to a request from law enforcement agencies or private litigants. We may release your information under the conditions listed in this paragraph whether it is to individuals or entities and to any state or national authorities, as required. 
 
-a. Your Obligations. You must protect against unauthorized access to your password and to your computer. Please sign off when finished using a shared computer. Your emails to us are not necessarily secure against interception so do not include sensitive information in them - we generally will not ask for passwords in an email and you should assume that if you get such a request, it might be fraudulent. YOU MUST DO WHAT YOU REASONABLY CAN TO ENSURE THE SECURITY OF YOUR PERSONAL INFORMATION.
+**_8\. Opt Out of Commercial, Non-Commercial Communications and Do Not Track_**
 
-b. Our Security Measures. We have physical, electronic, and managerial procedures to help safeguard, prevent unauthorized access, maintain data security, and correctly use your information. HOWEVER, WE DO NOT GUARANTEE SECURITY. Neither people nor security systems are foolproof, including encryption systems. In addition, people can commit intentional crimes, make mistakes or fail to follow policies. If applicable law imposes any non-disclaimable duty (if any), you agree that intentional misconduct will be the standards used to measure our compliance with that duty.
+If you decide to provide us with your contact information, you agree that we may send you communications via text and emails. However, you may unsubscribe from certain communications by notifying Monster Backlinks that you no longer wish to receive these communications, we will endeavor to promptly remove you from our Platform once we have received that request. We currently do not offer functionality for you to opt out through “do not track” listings. If you wish to opt out of certain communications or information collection, please contact us at support@SeoMerTech.com. 
 
-6\. LINKS. The Service contains links to other sites. We are not responsible for the privacy practices of such other sites. We encourage you to be aware when you leave our Site and to read the privacy statements of every web site that collects your personally identifiable information. This Policy applies only to information collected by the Service.
+**_9\. Third Parties_**
 
-7\. CHOICE. We reserve the right to send you customary business communications such as acceptance/rejection notices regarding content submissions, general system and administrative messages, address confirmations, and transactional information about your account, and we may not offer you the opportunity to opt-out of receiving such communications. However, we provide you with the opportunity to elect not to receive other types of communications, such as friend requests or the Monster Backlinks of the day emails. If you want to stop receiving these communications, you may opt by going to the Profile tab on the Site and editing your email preferences.
+Monster Backlinks or other users may post links to third party websites on Platform, which may include information that we have no control over. When accessing a third party site through our Platform, you acknowledge that you are aware that these third party websites are not screened for privacy or security issues by us, and you release us from any liability for the conduct of these third party websites.
 
-8\. ACCESS AND RECORD KEEPING. Information relating to our programs is not necessarily maintained in a retrievable form. However, you may make changes, corrections or updates to some PII provided through the Service which we use for communications with you, by going to the " Profile" tab on the Site. We may keep a record of all information that is changed. We
+Please be aware that this Privacy Policy, and any other policies in place, in addition to any amendments, does not create rights enforceable by third parties. Monster Backlinks bears no responsibility for the information collected or used by any advertiser or third party website. You must review their Terms of Service and Privacy to understand how their information collection practices work. 
 
-may determine what may be changed. For example, if we are required to keep track of certain kinds of transactions, you may be prevented from changing relevant information.
+**_10\. Security Measures_**
 
-9\. CONDITIONS OF USE, NOTICES, AND REVISIONS.
+We make reasonable attempts to protect your information by using physical and electronic safeguards. For this reason we use SSL certificates, PCI/DSS compliant hosting, and vulnerability scanning to enhance our Platform security. However, as this is the Internet, we can make no guarantees as to the security or privacy of your information. For this reason, we recommend that you use anti-virus software, routine credit checks, firewalls, and other precautions to protect yourself from security and privacy threats. 
 
-a. Privacy Concerns. Your use of the Service and any dispute over privacy is subject to the Terms of service. If you have any concern about privacy at Monster Backlinks, please send us a thorough description to support@MonsterBacklinks.com, and we will try to resolve it. If you think we are in default of the Terms, you may contact us at Our Legal Notices Address in Section 10 below.
+**_11\. Your California Privacy Rights_**
 
-b. Notice Required by Law. In those jurisdictions that permit email notice, if we are required to disclose or provide notice of invasion of certain security systems, we will do so by email to the most current email address provided by you to us. It is critical that you keep your email contact information correct and updated with Monster Backlinks at all times.
+Monster Backlinks permits residents of the State of California to use its Platform, and complies with the California Business and Professions Code §§ 22575-22579. If you are a California resident you may request certain information regarding our disclosure of personal information to any third parties for their direct marketing purposes. Various provisions throughout this Privacy Policy address requirements of the Californian privacy statutes. Although we do not disseminate your information to third parties without permission, you must presume that we collect electronic information from all visitors. You may contact us at support@SeoMerTech.com with any questions. 
 
-c. Identity Theft. If you believe that you are a victim of identity theft entitled by law to request information from us, write us at our Legal Notice address (see the next section of this Policy) and we will let you know what additional information you must provide to us. After we have received that information, we will supply without charge the information legally required to be disclosed that we then have, subject to applicable law and reserving all of our rights and defenses.
+**_12\. Age Compliance_**
 
-10\. CONTACT INFORMATION AND INFORMATION ABOUT ENFORCEMENT OF OUR POLICY. For customer service matters (including questions relating to this Policy), you may email us at support@MonsterBacklinks.com.
+We intend to fully comply with American and international laws respecting children’s privacy including COPPA. Therefore, we do not collect or process any information for any persons under the age of 18. If you are under 18 and using our Platform, please stop immediately and do not submit any information to us. In the event that we have inadvertently collected any information from users under the age of 18 please contact us immediately. 
+
+**_13\. International Transfer_**
+
+Your information may be transferred to - and maintained on - computers located outside of your state, province, country, or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Your consent to this Privacy Policy followed by your submission of such information represents your agreement to that transfer. PII and Non-PII that is submitted to Monster Backlinks will be collected, processed, stored, disclosed and disposed of in accordance with applicable U.S. law and this policy. If you are a non-U.S. member, you acknowledge and agree that Monster Backlinks may collect and use your Information and disclose it to other entities outside your resident jurisdiction. In addition, such information may be stored on servers located outside your resident jurisdiction. U.S. law may not provide the degree of protection for information that is available in other countries. 
+
+**_14\. Merger and Acquisition_**
+
+In the event that Monster Backlinks is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. Please be aware that once the information is transferred your privacy rights may change. 
+
+**_15\. Amendments_**
+
+Like our Terms of Service, we may amend this Privacy Policy from time to time. When we amend this Privacy Policy, we will modify the date listed on this Agreement or we may contact you. You must agree to the amendments as a condition of your continued use of our Platform. If you do not agree, you must immediately cease using our Platform and notify us of your refusal to agree by e-mailing us at support@SeoMerTech.com.
+
+Last Modified: March 31, 2016 
