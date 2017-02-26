@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoursearch.me privacy policy that was archived on 2015-09-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150929005754id_/http%3A//yoursearch.me/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoursearch.me privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226150628id_/http%3A//yoursearch.me/privacy-policy.html) for the most accurate reproduction.*
 
 # FVD Speed Dial - Privacy Policy
 
@@ -36,4 +36,14 @@ Planning to sell your computer or to give it to another person for an extended p
 
 No. Nevertheless, you should remember about the "public" sections of the FVD Speed Dial service and websites - such as FVD Speed Dial message board or user notebooks, for instance. Such sections can be viewed by any user on the Internet. Please, note that you should avoid sharing your contacts or other personal information in such sections of the websites or service if you want to protect yourself from unsolicited messages. Hereby Everhelper disclaims all responsibility for publication and use of the personal information that has been posted in public sections of FVD Speed Dial by you.
 
-We may allow third parties, including advertising companies, and ad networks, to display advertisements on our website and Applications. These companies may use tracking technologies, such as cookies, to collect information about users who view or interact with their advertisements.
+Extension uses Google Analytics and cookies for internal use. We track performance to understand which way is better to develop product. We don't share data to any third-party services. 
+
+## In-app ads
+
+Quick Preview widget 
+
+For some websites (like Amazon for example), Quick Preview widget shows additional information, such as product details and its price, if a link to Amazon is present. In some cases (Amazon can still be used as an example), an affiliate ID - couponpartnerfvd or param_fvd-20 - would be added to the link when getting transferred to the site. The link on speed-dials still remains unchanged, just the way the user created it. 
+
+Default dials 
+
+When the app is installed, a few default speed dials are added. Some of those (for instance, Amazon, Booking etc.) would contain the affiliate ID in the link. Default speed dials are in no way different from regular ones, so users can delete or change them without the efficiency of the app affected in any way. 
