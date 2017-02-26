@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nobroker.in privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007080600id_/http%3A//www.nobroker.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nobroker.in privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226032022id_/https%3A//www.nobroker.in/privacy) for the most accurate reproduction.*
 
 # Broker free Apartments, shared accommodation, pg, houses for rent. NoBroker helps in renting apartment without broker
 
@@ -8,15 +8,15 @@ Loading...
 
 ###  Create a NoBroker account
 
-#### Or do it the easier way
+#### Quick and Easy Social Sign Up 
 
 or 
 
 or 
 
-No need to remember password, we'll never post anything on your wall.
+No Password Required! We'll Never Post On Your Wall
 
-###### By clicking "Sign up" you confirm that you accept the [Terms of Service](https://web.archive.org/terms-and-condition) and [Privacy Policy](https://web.archive.org/privacy).
+###### By clicking 'Sign Up' you are accepting NoBroker's [Terms of Service](https://web.archive.org/terms-and-condition) and [Privacy Policy](https://web.archive.org/privacy).
 
 ####  Use your NoBroker account
 
@@ -24,11 +24,11 @@ No need to remember password, we'll never post anything on your wall.
 
 or 
 
-#### Or do it the social way
+#### Try a Quick Social Login
 
 or 
 
-_* we remember our promise of no posts on your wall_
+_* NoBroker Makes No Posts on Your Wall_
 
 ##### One step sign-up to get owner details
 
@@ -37,6 +37,10 @@ Or use your email
 is linked with the number . 
 
 Do you want to update your number to ?
+
+Phone number successfully updated
+
+#### Please verify your mobile number below with the OTP sent.
 
 Phone number successfully updated
 
@@ -119,6 +123,12 @@ Click below to post your property for rent
 Give a missed call on the below number to list your property for sale
 
 ### Select a day and time below and meet the owner without any hassle
+
+Please specify you are an owner or a tenant! 
+
+We'll get in touch with you to post your TO-LET details.
+
+We'll get in touch with you to gather your requirements.
 
 ## Privacy Policy
 
