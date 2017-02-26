@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the mininova.org privacy policy that was archived on 2010-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100419083718id_/http%3A//www.mininova.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mininova.org privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226225630id_/http%3A//www.mininova.org/privacy) for the most accurate reproduction.*
 
 # Privacy policy - Mininova
+
+On April 4th, 2017 Mininova.org will be shutting down. 
+
+After this date, content distribution torrents will **no longer be seeded**. Uploaders are advised to make copies of their content. 
 
   * [FAQ](https://web.archive.org/faq "Frequently Asked Questions")
   * [Privacy policy](https://web.archive.org/privacy "The Mininova privacy policy")
@@ -18,7 +22,7 @@ To protect the privacy of our visitors, we do not log IP addresses or hostnames 
 
 ## Cookies
 
-Mininova may write and read so-called [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to store the preferences, search keywords or login information of users.
+Mininova may write and read so-called [cookies](http://en.wikipedia.org/wiki/HTTP_cookie) to store the preferences, search keywords or login information of users. You can manually delete these cookies, or check the [privacy policy](https://www.adperium.com/privacy) of our ad network if you want to opt-out.
 
 ## Information sharing and disclosure
 
