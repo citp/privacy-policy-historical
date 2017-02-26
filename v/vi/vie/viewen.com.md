@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viewen.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911090050id_/https%3A//viewen.com/free-web-hosting/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viewen.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226125729id_/https%3A//viewen.com/free-web-hosting/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - VIEWEN
 
