@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the georiot.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528191106id_/https%3A//www.geni.us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the georiot.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226173022id_/https%3A//www.geni.us/privacy) for the most accurate reproduction.*
 
-# Geniuslink's Privacy Policy
+# Genius Link Services Privacy Policy
 
   1. [Home](https://web.archive.org/)
   2. [Features](https://web.archive.org/features)
@@ -10,7 +10,7 @@
 
 ## Overview
 
-GeoRiot provides a set of services ("Services" and "The Geniuslink Services") to commercial customers ("Clients") for purposes of online marketing and sales of digital and physical products and services ("Products") to individuals ("Consumers"). The Services are provided to Clients worldwide, including in the United States ("U.S."), the member states of the European Union ("E.U."), and Switzerland. 
+GeoRiot provides a set of services ("Services" and "The Genius Link Services") to commercial customers ("Clients") for purposes of online marketing and sales of digital and physical products and services ("Products") to individuals ("Consumers"). The Services are provided to Clients worldwide, including in the United States ("U.S."), the member states of the European Union ("E.U."), and Switzerland. 
 
 The Services include the following:
 
@@ -28,7 +28,7 @@ Though not required, as a matter of prudence and due diligence, GeoRiot has elec
 
 ## Adherence to Privacy Principles
 
-GeoRiot and the Geniuslink Service complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data from E.U. member nations and Switzerland, with respect to Potential Personal Information, whether or not such information is in fact Personal Data for purposes of the Safe Harbor. GeoRiot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view GeoRiot's certification, please visit <http://www.export.gov/safeharbor/>. 
+GeoRiot and the Genius Link Services complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Data from E.U. member nations and Switzerland, with respect to Potential Personal Information, whether or not such information is in fact Personal Data for purposes of the Safe Harbor. GeoRiot has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view GeoRiot's certification, please visit <http://www.export.gov/safeharbor/>. 
 
 ## GeoRiot as Data Processor on Behalf of Clients
 
@@ -40,7 +40,7 @@ In arrangements with Clients where GeoRiot is not a data processor for the Clien
 
 ## Scope of Notice
 
-This Privacy Policy is published to provide notice of GeoRiot's data collection and privacy practices to Consumers. However, GeoRiot does not typically interact directly with Consumers, since its presence on consumer-oriented websites, applications and other digital properties ("Client's Digital Properties") is limited to the Geniuslink Link in/on the Client's Digital Properties. GeoRiot therefore contractually requires its Clients to ensure their compliance with any legal requirements for notification to and consent by individuals with respect to their data collection and use practices involved in the Link Localization and Data Analytics services, as required in their applicable jurisdictions. 
+This Privacy Policy is published to provide notice of GeoRiot's data collection and privacy practices to Consumers. However, GeoRiot does not typically interact directly with Consumers, since its presence on consumer-oriented websites, applications and other digital properties ("Client's Digital Properties") is limited to the Genius Link link in/on the Client's Digital Properties. GeoRiot therefore contractually requires its Clients to ensure their compliance with any legal requirements for notification to and consent by individuals with respect to their data collection and use practices involved in the Link Localization and Data Analytics services, as required in their applicable jurisdictions. 
 
 In addition, GeoRiot contractually requires its clients to comply with the Network Advertising Initiative Code of Conduct where it is applicable to their business. In particular, if a Client attempts to combine Personal Data with Potential Personal Information, it is required to notify the affected individuals and obtain their opt-in consent in accordance with the NAI Code of Conduct. If a Client collects data for interest-based advertising, it is required to clearly and conspicuously post a notice consistent with the NAI Code that contains: 
 
@@ -55,17 +55,17 @@ If GeoRiot should intentionally collect Personal Data directly from individuals 
 
 ## Information Collected by GeoRiot
 
-GeoRiot principally collects information through transactions that occur as part of "Link Localization." In this process a link, which promotes or sells a Product ("GeoRiot Link"), is posted on a Client's Digital Property, and points to an international retailer's digital storefront, as directed by the Client. When a Consumer clicks the Geniuslink Link, information is collected and transmitted to GeoRiot's servers. This information is automatically analyzed to identify the location and type of Device being used to access the link. Based on this information, the Geniuslink Link redirects the Device to a web page in regional or country-specific storefront of the international retailer ("Localized Page") which promotes or sells the Product. 
+GeoRiot principally collects information through transactions that occur as part of "Link Localization." In this process a link, which promotes or sells a Product ("GeoRiot Link"), is posted on a Client's Digital Property, and points to an international retailer's digital storefront, as directed by the Client. When a Consumer clicks the Genius Link link, information is collected and transmitted to GeoRiot's servers. This information is automatically analyzed to identify the location and type of Device being used to access the link. Based on this information, the Genius Link link redirects the Device to a web page in regional or country-specific storefront of the international retailer ("Localized Page") which promotes or sells the Product. 
 
-GeoRiot uses cookies to store information about Transactions the Device has been used for ("GeoRiot Cookie"). The GeoRiot Cookie is set in the Device when the Geniuslink Link is clicked, and is used to store data about Transactions. The GeoRiot Cookie may be updated whenever the Device is used for a new Transaction. 
+GeoRiot uses cookies to store information about Transactions the Device has been used for ("GeoRiot Cookie"). The GeoRiot Cookie is set in the Device when the Genius Link link is clicked, and is used to store data about Transactions. The GeoRiot Cookie may be updated whenever the Device is used for a new Transaction. 
 
-GeoRiot does not create or administer either the Client's Digital Properties or the International Retailer's Storefront pages, does not provide content for either, and does not sell or promote Products on either. The only information GeoRiot collects from either Digital Property is that provided in response to the click on the Geniuslink Link. 
+GeoRiot does not create or administer either the Client's Digital Properties or the International Retailer's Storefront pages, does not provide content for either, and does not sell or promote Products on either. The only information GeoRiot collects from either Digital Property is that provided in response to the click on the Genius Link link. 
 
-GeoRiot may collect the following information from the Device used to click on the Geniuslink Link:
+GeoRiot may collect the following information from the Device used to click on the Genius Link link:
 
   * Device identification data, including any unique identifier assigned by the operating system of the Device which is intended to support advertising with mobile devices and tablets, such as Apple's Identifier for Advertising ("IDFA") or similar identifiers used on Android, Kindle or Windows Mobile Devices and tablets. The GeoRiot Cookie may also serve as a Device identifier. Device identification data is treated as Potential Personal Information. 
   * The IP address of the Device in use. The IP address provides network information, which can often be used to determine the country, state and sometimes city and postal code where the Device is in use. The IP address is Location Information, which is treated as Potential Personal Information. 
-  * The URL of the referrer, which is the Digital Property on which the originating Geniuslink Link is sited. The referrer URL is not treated as Potential Personal Information. 
+  * The URL of the referrer, which is the Digital Property on which the originating Genius Link link is sited. The referrer URL is not treated as Potential Personal Information. 
   * User agent information which identifies the operating system and browser used by the Device in use. User agent information is treated as Potential Personal Information. 
   * Product identification information, such as metadata for an iPad app that was used or open on the Device, or Products the Device was used to view. Product identification information is not treated as Potential Personal Information. 
   * Information about previous Transactions, if a GeoRiot Cookie or certain other device-related information is present. Transaction Information is treated as Potential Personal Information. 
@@ -88,7 +88,7 @@ GeoRiot's services are only offered to individuals who are 18 years of age or ol
 GeoRiot may use Potential Personal Information it obtains as follows:
 
   * For purposes of Link Localization, to redirect Consumers from digital properties to appropriate Storefronts. 
-  * For purposes of Data Analytics, to create reports of Client marketing activities using Geniuslink Links. Reports include aggregated information about matters including click trends, geographic information, sales and commissions data, separately or in combination, based on Data collected by GeoRiot. Reports may be filtered based on specified parameters (e.g. number of clicks per day per specific location; clicks from specific referrers or from Devices using specific Software; etc.). 
+  * For purposes of Data Analytics, to create reports of Client marketing activities using Genius Link links. Reports include aggregated information about matters including click trends, geographic information, sales and commissions data, separately or in combination, based on Data collected by GeoRiot. Reports may be filtered based on specified parameters (e.g. number of clicks per day per specific location; clicks from specific referrers or from Devices using specific Software; etc.). 
   * For purposes of Data Analytics, in aggregated data sets to support specific marketing strategies and Product and advertising content offerings, based on correlations of various types of Data with different Transactions. For example, a specific Device might have a high correlation with purchases of specific types of games, and low correlation for business software. When Device information indicates that the Device is being used and the available Data indicates it probably does not have a certain game already installed, a Client may elect to show an ad for the game instead of an ad for a business app. 
   * For purposes of GeoRiot's internal management and administration, and fulfillment of its legal responsibilities or protection of its legal interests. 
 
@@ -102,7 +102,7 @@ GeoRiot may disclose or provide Potential Personal Information to third parties 
   * To a subsidiary or affiliated company of GeoRiot, subject to their compliance with this Privacy Policy. 
   * To a third party services provider, such as a hosting or analysis service or a security consulting firm, for purposes of GeoRiot's internal management and administration or fulfillment of its legal responsibilities or protection of its legal interests, subject to contractual requirements for protection of the information consistent with this policy and E.U. and Safe Harbor requirements. 
   * To governmental authorities or their legal designees, if required by applicable law. 
-  * In the cases of a client using an affiliate program with the Geniuslink service, GeoRiot may share client and account information with affiliate program's account management teams in order to ensure compliance with the affiliate program.
+  * In the cases of a client using an affiliate program with the Genius Link Services, GeoRiot may share client and account information with affiliate program's account management teams in order to ensure compliance with the affiliate program.
 
 
 
@@ -144,7 +144,7 @@ Any questions or concerns about the use or disclosures of Potential Personal Inf
 
 ## Amendment of Policy
 
-GeoRiot reserves the right to modify this Privacy Policy at any time without notice. If GeoRiot amends this Privacy Policy, notice of the amendment and the amended policy will be posted on the Geniuslink website and such other sites as GeoRiot may deem appropriate. Any amendment will be consistent with the requirements of the Safe Harbor and applicable E.U. law. 
+GeoRiot reserves the right to modify this Privacy Policy at any time without notice. If GeoRiot amends this Privacy Policy, notice of the amendment and the amended policy will be posted on the Genius Link website and such other sites as GeoRiot may deem appropriate. Any amendment will be consistent with the requirements of the Safe Harbor and applicable E.U. law. 
 
 ## Contact Information
 
