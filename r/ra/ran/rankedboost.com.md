@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the rankedboost.com privacy policy that was archived on 2015-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150617133336id_/http%3A//rankedboost.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rankedboost.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226235314id_/https%3A//rankedboost.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Rankedboost
+# Privacy Policy
 
-PRIVACY POLICY OF Rankedboost.com  
+PRIVACY POLICY OF rankedboost.com  
 This application (hereinafter “Application”) collects some Personal Data from its Users.  
 The Data are collected and processed for the purposes set out below.
 
 DATA PROCESSING OWNERSHIP  
-Rankedboost, LLC.  
+Ranked Boost  
 privacy@rankedboost.com
 
 KINDS OF DATA  
@@ -35,25 +35,7 @@ The kinds of Personal Data used for each purpose are given in the specific secti
 
 The use of Data for additional purposes by the Owner, may in some cases, and for legal purposes, require specific consent by the User or the Data Subject.
 
-Ads by Google:
-
-Many websites use Google technologies to improve their content and keep it free. When you visit a website that uses our advertising products (like AdSense), social products (like the +1 button) or analytics tools (Google Analytics), your web browser automatically sends certain information to Google. This includes, for example, the web address of the page that you’re visiting and your IP address. We may also set cookies on your browser, or read cookies that are already there.
-
-Similarly, apps that partner with Google can send us information such as the name of the app and an identifier that helps us to determine which ads we’ve served to other apps on your device.
-
-## How we use the information sent by your browser
-
-When you visit websites or use apps that use Google technologies, we may use the information we receive from those websites and apps to, for example:
-
-  * Make ads more effective
-  * Provide reports of ads activity to advertisers and websites hosting the ads, and to ensure payment to those website publishers
-  * Help website and app owners using Google Analytics to understand how visitors engage with their sites or apps
-  * Improve your Google+ experience
-  * Detect and defend against fraud and other security risks to protect users and partners
-  * Meet our legal duties
-  * Improve our products
-
-
+**Ads by Google:**
 
 ## How you can control the information sent to Google
 
@@ -72,9 +54,9 @@ Here are some of the ways you can control the information that is shared by your
 
 Ads by Google are keyword-targeted advertisements provided through the Google AdWords™ program.
 
-These listings are administered, sorted and maintained by Google. For information about these Google ads, go to [adwords.google.com](http://adwords.google.com/). Third party supplied ads are not the rankedboost’s responsibility. However the rankedboost works closely with Google to ensure that such advertising meets both rankedboost and international standards.
+These listings are administered, sorted and maintained by Google. For information about these Google ads, go to [adwords.google.com](http://adwords.google.com/). Third party supplied ads are not the rankedboost.com responsibility.
 
-Google may place or recognize a unique “cookie” on your Web browser. Information from this cookie may be used by Google to help provide advertisers with more targeted advertising opportunities. For more information about Google’s privacy policy, including how to opt out, go to[www.google.com/ads/preferences](http://www.google.com/ads/preferences).
+Google may place or recognize a unique “cookie” on your Web browser. Information from this cookie may be used by Google to help provide advertisers with more targeted advertising opportunities. For more information about Google’s privacy policy, including how to opt out, go to [www.google.com/ads/preferences](http://www.google.com/ads/preferences).
 
 By clicking on Advertiser Links you will leave rankedboost.com. The Web site you will go to is not endorsed by the rankedboost.com.
 
