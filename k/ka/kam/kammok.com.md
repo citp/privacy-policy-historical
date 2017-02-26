@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kammok.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127182558id_/http%3A//kammok.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kammok.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226060511id_/https%3A//kammok.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Kammok
 
