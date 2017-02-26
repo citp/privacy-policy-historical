@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the browsec.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429040936id_/https%3A//browsec.com/modern/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the browsec.com privacy policy that was archived on 2017-02-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170226042053id_/https%3A//browsec.com/en/privacypolicy) for the most accurate reproduction.*
 
 # Browsec VPN - Privacy Policy
 
