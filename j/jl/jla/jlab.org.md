@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jlab.org privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215195210id_/https%3A//www.jlab.org/privacy-and-security-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jlab.org privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227071522id_/https%3A//www.jlab.org/privacy-and-security-notice) for the most accurate reproduction.*
 
 # Privacy and Security Notice | Jefferson Lab
 
