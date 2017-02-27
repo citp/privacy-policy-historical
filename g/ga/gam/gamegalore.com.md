@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegalore.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604204127id_/http%3A//www.gamegalore.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegalore.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227052749id_/http%3A//www.gamegalore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -144,4 +144,4 @@ VAT# : NL852554564B01
 
 \- End -
 
-Â© Flora ICT B.V.
+© Flora ICT B.V.
