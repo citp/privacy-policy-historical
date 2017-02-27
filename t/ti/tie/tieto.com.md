@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401122639id_/https%3A//www.tieto.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tieto.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227232725id_/https%3A//www.tieto.com/privacy-statement) for the most accurate reproduction.*
 
 # Tieto website privacy statement
 
@@ -102,7 +102,7 @@ You may block cookies by activating the setting on your browser that allows you 
 
 If you have any questions regarding this Privacy Statement or if you are concerned about how your personal data is processed by Tieto, please send an e-mail to [webmaster@tieto.com](mailto:webmaster@tieto.com) or contact Kristina Westerlind.
 
-File descriptions related to processing of personal data under this Website for [marketing](http://www.tieto.com/sites/default/files/files/description-of-the-file-marketing.pdf), [recruitment and human resources](http://www.tieto.com/sites/default/files/atoms/files/file_description_careers_recruitment.pdf) purposes are available on this page.
+File descriptions related to processing of personal data under this Website for [marketing](https://www.tieto.com/sites/default/files/files/marketing-1102510_description_of_file.pdf), [recruitment and human resources](http://www.tieto.com/sites/default/files/atoms/files/file_description_careers_recruitment.pdf) purposes are available on this page.
 
 ## Changes to the Privacy Statement
 
