@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026031340id_/http%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lawdepot.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227064212id_/https%3A//www.lawdepot.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | LawDepot
 
@@ -8,7 +8,7 @@
 
 LawDepot® is committed to protecting your privacy and ensuring that your visit to our website is completely secure.
 
-If you have any questions or problems with any aspect of our privacy policy or its implementation, please contact our [privacy officer](mailto:privacyofficer@lawdepot.com?Subject=Privacy%20Officer).
+If you have any questions or problems with any aspect of our privacy policy or its implementation, please contact our [ privacy officer](mailto:privacyofficer@lawdepot.com?Subject=Privacy%20Officer). 
 
 ### Security of your Personal Information
 
@@ -18,7 +18,7 @@ Once the information is in our system, it is accessible to authorized LawDepot®
 
 ### How we use your Personal Information
 
-Your personal information will be used in order to provide you with the requested products and services. This includes the use of information for completing transactions or communicating back to you. Credit card numbers are used only for payment processing and are not used for any other purpose.
+Your personal information will be used in order to provide you with the requested products and services. This includes the use of information for completing transactions or communicating back to you. Credit card numbers are used only for payment processing and are not used for any other purpose. 
 
 We may also use personal information in a manner that does not identify you specifically nor allow you to be contacted but does identify certain criteria about our Site's users in general (such as we may inform third parties about the number of registered users, number of unique visitors, and the pages most frequently browsed). 
 
@@ -32,11 +32,15 @@ LawDepot® will share your information with third parties only to the extent nec
 
 ### Collection of your Personal Information
 
-LawDepot® only saves such personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, email address, phone number, other payment processing information and document creation data. Upon request, we will delete your personal information.
+LawDepot® only saves such personal information that is necessary for you to access and use our services. This personal information includes, but is not limited to, first and last name, email address, phone number, other payment processing information and document creation data. Upon request, we will delete your personal information. 
 
 ### Document Preparation and Privacy of Information
 
 The information you provide when you prepare a document on our website is held strictly confidential. For your protection provide a valid email address that will not block email from LawDepot®. To change your password, you must use the email address associated with your account. We do not give out passwords over the phone.
+
+### Third Party Services
+
+This site uses the Google Maps API and the terms of [Google's Privacy Policy](https://www.google.com/policies/privacy) are incorporated by reference into our Privacy Policy.
 
   
 
