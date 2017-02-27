@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322115624id_/https%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the followupthen.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227212057id_/https%3A//www.followupthen.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FollowUpThen
 
@@ -8,7 +8,7 @@ Welcome to the website (the " **Site** ") of FollowUpThen, Inc. (" **FollowUpThe
 
 #### A Note About Email Content:
 
-Our Service allows users to forward emails to our Service for the purpose of setting automated reminders associated with those emails. We recognize that your emails may be very private, and we take special care with them. For example, we encrypt the message body of these emails using industry-standard methodologies while they are stored on our servers. We store the content of these emails for the period of time required in order to send you the requested reminder. After the requested reminder period has expired and the Service has sent the reminder, we delete the message body, message text and attachments from our servers within six (6) weeks. For example, if you forward an email to 5months@followupthen.com, we retain the complete email information for five (5) months plus six (6) weeks (providing the followup was not postponed). With respect to other email-related information, we retain the subject heading of these emails for the sole purpose of performing internal quality assurance and de-bugging and providing records of followups sent and received on users’ account pages. We also retain certain non-personally identifiable information related to these emails (for example, date sent, email configuration, name of the email provider), for the purpose of improving our Services and as described below in the "Non-Identifiable Data" section. 
+Our Service allows users to forward emails to our Service for the purpose of setting automated reminders associated with those emails. We recognize that your emails may be very private, and we take special care with them. For example, we encrypt the message body of these emails using industry-standard methodologies for long-term storage on our servers. We store the content of these emails for the period of time required in order to send you the requested reminder. After the requested reminder period has expired and the Service has sent the reminder, we delete the message body, message text and attachments from our servers within six (6) weeks. For example, if you forward an email to 5months@followupthen.com, we retain the complete email information for five (5) months plus six (6) weeks (providing the followup was not postponed). In the rare event that the content of an email interferes with the operation of the Service (ie, due to a bug), the problematic email may be temporarily logged in full for the purposes of debugging. With respect to other email-related information, we retain the subject heading of these emails for the sole purpose of performing internal quality assurance and de-bugging and providing records of followups sent and received on users’ account pages. We also retain certain non-personally identifiable information related to these emails (for example, date sent, email configuration, name of the email provider), for the purpose of improving our Services and as described below in the "Non-Identifiable Data" section. 
 
 #### Information We Collect:
 
@@ -93,7 +93,7 @@ You can visit the Services without providing any Personal Data. If you choose no
 
 #### SMS Messages:
 
-The Service may allow you to send SMS (text message) reminders to your own mobile device using the Service. Please report any SMS or other abuse related to the Service to help@followupthen.com. To get help, email us at help@followupthen.com or call (408) 246-9500. 
+The Service may allow you to send SMS (text message) reminders to your own mobile device using the Service. Please report any SMS or other abuse related to the Service to help@humans.fut.io. To get help, email us at help@humans.fut.io or call (408) 246-9500. 
 
 #### Exclusions:
 
@@ -134,4 +134,4 @@ You may contact us as follows:
 FollowUpThen, Inc  
 4040 Moorpark Ave, St 110  
 San Jose, CA 95117  
-help@followupthen.com
+help@humans.fut.io
