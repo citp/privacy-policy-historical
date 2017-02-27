@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105223109id_/https%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the polleverywhere.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227141032id_/https%3A//www.polleverywhere.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Poll Everywhere
 
@@ -51,7 +51,7 @@ FERPA protects personally identifiable information contained in students’ educ
 
 ### EU-US Privacy Shield
 
-Poll Everywhere has self-certified to the EU-U.S. Privacy Shield Framework regarding the collection, use and retention of personal data transferred from the European Union to the United States. Please [click here](https://web.archive.org/privacy-shield-policy) to view our Privacy Shield Policy. References to “this Privacy Policy” include the Privacy Shield Policy.
+Poll Everywhere has self-certified to the EU-U.S. Privacy Shield Framework regarding the collection, use and retention of personal data transferred from the European Union to the United States. [View our Privacy Shield Policy](https://web.archive.org/privacy-shield-policy). References to “this Privacy Policy” include the Privacy Shield Policy.
 
 ## FAQs
 
