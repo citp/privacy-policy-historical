@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usenet.nl privacy policy that was archived on 2016-02-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160223004656id_/https%3A//en.usenet.nl/unf/shop/misc/miscShowPrivacyPolicy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usenet.nl privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227010144id_/https%3A//en.usenet.nl/unf/shop/misc/miscShowPrivacyPolicy.cfm) for the most accurate reproduction.*
 
 # Usenet.nl - privacy statement
 
@@ -75,3 +75,7 @@ Risk Ident collects and processes specific data on our users about the configura
 #### b) Data Retrieval
 
 Whenever a user concludes a contract or aims to conclude a contract over our website, e.g. by setting up a user account or by beginning the check-out process in order to buy a certain item, we call up a risk assessment on Risk Ident’s databank which has been saved there for the user’s end device. This risk assessment, based inter alia on information ascertains (a) if the user’s end device is currently communicating or has communicated in the past a proxy connection, (b) if the end device has recently dialed into various internet service providers, (c) if the end device exhibits or has exhibited a frequent change in geo-reference, (d) how many internet transactions have been made in recent weeks (whereby we are not informed about the type of transaction), and (e) how probable it is that the end device saved in the Risk Ident data bank really belongs to the user. (The result of this risk assessment helps us to prevent fraud on our website. The data, however, is not a sole criterion to either complete or terminate a purchase).
+
+### 8\. Survey Tools
+
+Customer satisfaction surveys are carried out using a tool supplied by an external service provider (SurveyMonkey). Please ensure that the provider of this tool implements its own [ data protection strategy](https://www.surveymonkey.com/mp/policy/privacy-policy/). Participation in customer surveys is voluntary. The customer survey is configured so that IP addresses or e-mails are not collected automatically. E-mail addresses will not be disclosed to third parties. The SurveyMonkey website uses Cookies. More about the different kinds of cookies used on this Website, please click [here](http://help.surveymonkey.com/articles/en_US/kb/About-the-cookies-we-use).
