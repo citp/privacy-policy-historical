@@ -1,496 +1,181 @@
-<!--The following is the downloaded HTML source of the alltheparties.com privacy policy that was archived on 2016-05-01.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160501173413id_/http%3A//www.alltheparties.com/pages/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the alltheparties.com privacy policy that was archived on 2017-02-27.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170227103821id_/https%3A//alltheparties.com/cms/privacy_policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" ng-app="atp" ng-controller="ApplicationController" xml:lang="en" xmlns="http://www.w3.org/1999/xhtml"><head>
-<script src="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js" async=""></script><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript" async="" src="//widget.uservoice.com/fg6oux2zHr86UVAsNvVMrQ.js"></script><script async="" type="text/javascript" src="https://www.googletagservices.com/tag/js/gpt.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"2650c47956","applicationID":"3641180,3641993","transactionName":"JlYNFxBdVF4ARk4UBQJcEEwRWldF","queueTime":0,"applicationTime":14,"ttGuid":"","agentToken":null,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UQAAQlVVDAIBXFE="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
-<meta charset="UTF-8">
-<meta content="PD0ufcLS1GeArA6f/r0hCIg7ZewpptkF5dsOeyngUH0=" name="verify-v1">
-<meta content="width=device-width, initial-scale=1.0" name="viewport">
-<link href="http://asset4.alltheparties.com/assets/application-63d87e742575d884a96b1889a5bf3736.css" media="screen" rel="stylesheet">
-<meta content="authenticity_token" name="csrf-param">
-<meta content="T0XcLvKhg8+phhRtQ0C2qs3ECjJMd1qwjlXXfkng1s8=" name="csrf-token">
-<script type="text/javascript">var ATP =  {
-  name: 'AllTheParties',
-  env: 'production',
-  eventHandlers: {},
-  views: {},
-  models: {},
-  baseDomain: 'alltheparties.com',
-  awsS3Bucket: "atp",
-  imageHosts: ["i1.alltheparties.com","i2.alltheparties.com","i3.alltheparties.com","i4.alltheparties.com","i5.alltheparties.com"],
-  cities: {"1":{"short_name":"nyc","full_name":"New York City"},"2":{"short_name":"hou","full_name":"Houston"},"3":{"short_name":"mia","full_name":"Miami"},"4":{"short_name":"las","full_name":"Las Vegas"},"6":{"short_name":"atl","full_name":"Atlanta"},"7":{"short_name":"nwo","full_name":"New Orleans"},"8":{"short_name":"dal","full_name":"Dallas"},"9":{"short_name":"chi","full_name":"Chicago"},"10":{"short_name":"lax","full_name":"Los Angeles"},"11":{"short_name":"dca","full_name":"Washington, DC"},"14":{"short_name":"aus","full_name":"Austin"},"16":{"short_name":"phl","full_name":"Phillie"},"17":{"short_name":"san","full_name":"San Diego"},"19":{"short_name":"den","full_name":"Denver"},"20":{"short_name":"orl","full_name":"Orlando"},"21":{"short_name":"okc","full_name":"Oklahoma City"},"22":{"short_name":"del","full_name":"Delaware"},"23":{"short_name":"nwe","full_name":"New England"},"25":{"short_name":"clt","full_name":"Charlotte"},"24":{"short_name":"000","full_name":"Other Cities"}},
-  sex: {"Female":"f","Male":"m"},
-  paths: {
-    login: '/app#/authenticate'
-  },
-  protocol: (('https:' == document.location.protocol) ? 'https://' : 'http://'),
-  subDomain: (function(){
-    var d = document.location.hostname.split('.');
-    if (d.length == 3){
-      return d[0].substr(0,3);
-    }
-  }()),
-  music: ["Acid Jazz","Alternative","Ambient","Bashment","Bhangra","Blues","Cabaret","Calypso","Classics","Country","Deep House","Disco","Downbeat House","Electronica","Filter House","Funk","Garage","Glam Rock","Hip-Hop","House","Industrial","Jungle","Latin","Latin Soul","Lounge","Metal","New Wave","NY Underground House","Old School","Progressive House","Psychedelic","Reggae","Rhythm and Blues","Rock'n'Roll","Salsa","Samba","Smooth Jazz","Soulful House","Spanish","Swing","Techno/Rave","Top 40","Trance","Tribal House","Trip-Hop"],
-  imageSizes: {"icon":{"width":16,"height":16},"tiny":{"width":50,"height":50},"small":{"width":100,"height":100},"med":{"width":240,"height":320},"large":{"width":480,"height":640},"xlarge":{"width":960,"height":640},"flyer":{"width":120,"height":120},"max":{"width":1600,"height":1600}},
-  algolia: {
-   id: '6CCTCAYGQF',
-   apiKey: '62c37fe055cb41b7f742ae02b2f958ab'
-  },
-  apiDomain: document.location.protocol +'//'+ 'api.alltheparties.com',
-  addListener: function(element, type, callback) {
-    if (element.addEventListener) element.addEventListener(type, callback);
-    else if (element.attachEvent) element.attachEvent('on' + type, callback);
-  },
-  onLoad: function(callback){
-    return this.addListener(window, 'load', callback);
-  }
-};
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml"><head><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide:not(.ng-hide-animate){display:none !important;}ng\:form{display:block;}.ng-animate-shim{visibility:hidden;}.ng-anchor{position:absolute;}</style>
+    <title>Privacy Policy - AllTheParties.com</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta name="apple-touch-fullscreen" content="yes">
+    <meta name="format-detection" content="telephone=no">
+    <!--<script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBy6-QoVy9KqZH1kJ1fxeAqJ1oqtporMlU"
+      type="text/javascript"></script> -->
+    <script async="" src="https://www.google-analytics.com/analytics.js"></script><script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDJIbwPuyqM3bRPL6w3DkwtnR91MEHkGqk">
+    </script>
+    <script async="async" src="https://www.googletagservices.com/tag/js/gpt.js"></script>
+    <script>
+      var googletag = googletag || {};
+      googletag.cmd = googletag.cmd || [];
+    </script>
 
+        <script>
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/1004326/newatp_728x90_aboutuspage', [728, 90], 'div-gpt-ad-1473515735479-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+  <script>
+    googletag.cmd.push(function() {
+      googletag.defineSlot('/1004326/newatp_120x600_aboutuspage', [120, 600], 'div-gpt-ad-1473657340931-0').addService(googletag.pubads());
+      googletag.pubads().enableSingleRequest();
+      googletag.enableServices();
+    });
+  </script>
+
+    <link rel="stylesheet" media="all" href="/assets/application-faa6ee15fdc541409ebfe8b8ce8f79e4d69e1d3a5bf0faa1f7a78595bb7d8cfb.css">
+    <script src="/assets/application-687a1c2a933b71e207acda13a920c7411389796cdebc64a9390728c56e692a54.js"></script>
+    <meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="VTzyDv3Nf0A4qLqsiHuumwDVKxYhjSnVSF9v+XQ4eXj+U5+RQdPmN/hPuq1DgqGsCwSqTwRn3if0zeWEBK9MVw==">
+    <!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.2/html5shiv.js"></script>
+      <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body ng-app="allTheParties" ng-class="ng-cloak" class="ng-cloak" ng-cloak="">
+    <div id="main-wrapper" class="inner-pages">
+      <div id="header">
+        <div class="header-trans">
+  <div class="fix-wrapper">
+    <div class="logo"><a href="/"><img src="/assets/logo-27058ecce890ca23c05c38f31d69f7477b94c5be064ffd8e94e374486bc04b53.png" alt="Logo 27058ecce890ca23c05c38f31d69f7477b94c5be064ffd8e94e374486bc04b53"></a></div>
+
+    <div class="topright ">
+
+      <span class="topsmalllink" ng-controller="AuthCtrl">
+          <div>
+            <a href="#!" id="login" ng-click="openLogin()">LOGIN</a> / <a href="#!" ng-click="openSignup()">SIGNUP</a>
+          </div>
+      </span>
+
+
+      <!-- <span class="topsearch">
+        <form ng-controller='eventListingController' ng-submit="searchEvents(Search.main)">
+          <input name="" type="text" placeholder="Search" ng-model="Search.main" id= 'load-search-box' class='textBoxB'> -->
+            <!-- <a ng-click="loadEvents(1, Search)" ng-model="Search.main" class="sprites search-ico"></a> -->
+            <!-- <a href="/party_results?search_word={{Search.main}}" class="sprites search-ico" ng-show="Search.main"></a>
+            <a href="javascript:;" class="sprites search-ico" ng-hide="Search.main"></a>
+        </form>
+      </span> -->
+
+
+
+
+      <div class="navigation nav-collapse">
+        <ul>
+          <li><a target="_self" href="/party_results"><span class="sprites navi-ico1"></span>Party Finder</a></li>
+          <li><a href="/photo_results"><span class="sprites navi-ico2"></span>Party Photos</a></li>
+            <li><a href="#!" ng-controller="AuthCtrl" ng-click="openLogin()"><span class="sprites navi-ico3"></span>Post a Party</a></li>
+          <li><a href="/nightlife_news"><span class="sprites navi-ico4"></span>Nightlife News</a></li>
+        </ul>
+      </div>
+    </div>
+    <div class="clear"></div>
+  </div>
+</div>
+
+
+<script type="text/javascript">
+      $('select, .select').selectric();
 </script>
-<script>
-  var _rollbarConfig = {
-      accessToken: "f8fd5661b8c54c9a816de2b52fd4154c",
-      captureUncaught: true,
-      payload: {
-          environment: ATP.env
-      }
-  };
-  !function(a,b){function c(b){this.shimId=++h,this.notifier=null,this.parentShim=b,this.logger=function(){},a.console&&void 0===a.console.shimId&&(this.logger=a.console.log)}function d(b,c,d){a._rollbarWrappedError&&(d[4]||(d[4]=a._rollbarWrappedError),d[5]||(d[5]=a._rollbarWrappedError._rollbarContext),a._rollbarWrappedError=null),b.uncaughtError.apply(b,d),c&&c.apply(a,d)}function e(b){var d=c;return g(function(){if(this.notifier)return this.notifier[b].apply(this.notifier,arguments);var c=this,e="scope"===b;e&&(c=new d(this));var f=Array.prototype.slice.call(arguments,0),g={shim:c,method:b,args:f,ts:new Date};return a._rollbarShimQueue.push(g),e?c:void 0})}function f(a,b){if(b.hasOwnProperty&&b.hasOwnProperty("addEventListener")){var c=b.addEventListener;b.addEventListener=function(b,d,e){c.call(this,b,a.wrap(d),e)};var d=b.removeEventListener;b.removeEventListener=function(a,b,c){d.call(this,a,b&&b._wrapped?b._wrapped:b,c)}}}function g(a,b){return b=b||this.logger,function(){try{return a.apply(this,arguments)}catch(c){b("Rollbar internal error:",c)}}}var h=0;c.init=function(a,b){var e=b.globalAlias||"Rollbar";if("object"==typeof a[e])return a[e];a._rollbarShimQueue=[],a._rollbarWrappedError=null,b=b||{};var h=new c;return g(function(){if(h.configure(b),b.captureUncaught){var c=a.onerror;a.onerror=function(){var a=Array.prototype.slice.call(arguments,0);d(h,c,a)};var g,i,j="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(g=0;g<j.length;++g)i=j[g],a[i]&&a[i].prototype&&f(h,a[i].prototype)}return a[e]=h,h},h.logger)()},c.prototype.loadFull=function(a,b,c,d){var e=g(function(){var a=b.createElement("script"),e=b.getElementsByTagName("script")[0];a.src=d.rollbarJsUrl,a.async=!c,a.onload=f,e.parentNode.insertBefore(a,e)},this.logger),f=g(function(){if(void 0===a._rollbarPayloadQueue)for(var b,c,d,e,f=new Error("rollbar.js did not load");b=a._rollbarShimQueue.shift();)for(d=b.args,e=0;e<d.length;++e)if(c=d[e],"function"==typeof c){c(f);break}},this.logger);g(function(){c?e():a.addEventListener?a.addEventListener("load",e,!1):a.attachEvent("onload",e)},this.logger)()},c.prototype.wrap=function(b,c){try{var d;if(c&&(d="function"==typeof c?c:function(){return c}),"function"!=typeof b)return b;if(b._isWrap)return b;if(!b._wrapped){b._wrapped=function(){try{return b.apply(this,arguments)}catch(c){throw d&&(c._rollbarContext=d()),a._rollbarWrappedError=c,c}},b._wrapped._isWrap=!0;for(var e in b)b.hasOwnProperty(e)&&(b._wrapped[e]=b[e])}return b._wrapped}catch(f){return b}};for(var i="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError".split(","),j=0;j<i.length;++j)c.prototype[i[j]]=e(i[j]);var k="//d37gvrvc0wt4s1.cloudfront.net/js/v1.1/rollbar.min.js";_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||k;var l=c.init(a,_rollbarConfig);l.loadFull(a,b,!1,_rollbarConfig)}(window,document);
-</script>
 
-<script src="http://asset4.alltheparties.com/assets/vendor/modernizr-cf933af5d0cac540452097c59d0f1df1.js"></script>
-<meta content="" property="og:title">
-<meta content="AllTheParties" property="og:site_name">
-<title> :: AllTheParties</title>
+        <div class="fix-wrapper">
+          
+        </div>
+      </div>
+
+
+      <div id="mid-wrapper">
+  <div class="page-heading-cnt">
+  <div class="fix-wrapper"><h1 class="page-heading">privacy policy</h1></div>
+  </div>
+  <div class="fix-wrapper">
+  <div class="left-bar">
+    <div class="inner-banner-vertical">
+      <!-- /1004326/newatp_120x600_aboutuspage -->
+      <div id="div-gpt-ad-1473657340931-0">
+      <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1473657340931-0'); });
+      </script>
+      </div>
+    </div>
+  </div>
+  <div class="mid-bar">
+    <div class="static-page">
+      <h2>Privacy Policy</h2>
+      <h2>Privacy Statement</h2>
+                      <p> This privacy statement applies to the website of: </p>
+                      <p>Samuel Obukwelu <br>
+                      4 South Pinehurst Avenue #4F<br>
+                      New York NY 10033<br>
+                      US<br>
+                      888-353-9333<br>
+                      <a href="#">info@fcgmedia.com</a></p>
+                      <p> We respect your privacy. This is why we have taken the time to disclose our information collection practices and our privacy policy. Please take the time to review this document. </p>
+                      <p> Collecting information provides specific benefits to our website visitors: </p>
+                      <p>Collecting your information allows us to mail your order to the address you provide and inform you of events that interest you. </p>
+                      <p> <strong>We collect information for the following purpose(s): </strong></p>
+                      <ul>
+                          <li>Completing or supporting an activity </li>
+                          <li>Website and system administration </li>
+                          <li>Research and development</li>
+                          <li>Tailoring the website for its visitors</li>
+                          <li>Build records of individual visitors</li>
+                          <li>Contacting our visitors (except via telephone) for promotion of the site or products</li>
+                          <li>Contacting our visitiors via telephone for promotion of the site or products</li>
+                          </ul>
+                      <p> <strong>Who has access to the information we collect?</strong></p>
+                      <ul>
+                          <li>Ourselves</li>
+                          </ul>
+                      <p> Of the information we do collect, we allow our visitors the following access to the information: </p>
+                      <p> Access is given to contact information (such as email address or postal address). </p>
+                      <p> If you believe that our website has collected incorrect information or if you would like to dispute any information, please contact us using the address at the top of this page. </p>'
+    </div>
+    <div class="static-horizontal-banner">
+      <!-- /1004326/newatp_728x90_aboutuspage -->
+      <div id="div-gpt-ad-1473515735479-0">
+      <script>
+      googletag.cmd.push(function() { googletag.display('div-gpt-ad-1473515735479-0'); });
+      </script>
+      </div>
+    </div>
+  </div>
+  <div class="clear"></div>
+  </div>
+</div>
+
+      <div id="footer">
+        <div class="fix-wrapper">
+  <div class="social-icons"><a href="#" class="sprites tw-icon"></a><a href="#" class="sprites fb-icon"></a></div>
+    <div class="footerlink">
+      <a href="https://alltheparties.com/">Home</a>|<a href="/cms/about_us">About Us</a>|<a href="/cms/contact_us">Contact Us</a>|<a href="/cms/terms_of_use">Terms &amp; Conditions</a>|<a href="/cms/privacy_policy">Privacy Policy</a>|<a href="/cms/faq">Help &amp; Support</a> </div>
+    <div class="copyright">© Copyright 2017 FCG Media, Inc. All rights reserved.</div>
+</div>
+<!-- Google Analytics -->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
-  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
-  if (ATP.env === 'development'){
-    ga('create', "UA-60874-2", {
-      'cookieDomain': 'none'
-    });
-  } else {
-    ga('create', "UA-60874-2", ATP.baseDomain );
-  }
-  ga('require', 'linkid', 'linkid.js');
-  ATP.onLoad(function(){
-    $(document).on('user#loaded', function(){
-      ga('set', 'dimension1', ATP.user.get('sex'));
-      ga('set', 'dimension2', ATP.user.get('postal_code'));
-    });
-  });
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-60874-2', 'auto');
+  ga('send', 'pageview');
+
 </script>
+<!-- Google Analytics -->
 
-
-<script type="text/javascript">
-  var googletag = googletag || {};
-  googletag.cmd = googletag.cmd || [];
-  (function() {
-  var gads = document.createElement('script');
-  gads.async = true;
-  gads.type = 'text/javascript';
-  var useSSL = 'https:' == document.location.protocol;
-  gads.src = (useSSL ? 'https:' : 'http:') +
-  '//www.googletagservices.com/tag/js/gpt.js';
-  var node = document.getElementsByTagName('script')[0];
-  node.parentNode.insertBefore(gads, node);
-  })();
-</script>
-<script type="text/javascript">
-  googletag.cmd.push(function() {
-    googletag.pubads().setTargeting("subDomain", ATP.subDomain);
-    googletag.pubads().setTargeting("path", window.location.pathname);
-    googletag.pubads().enableSingleRequest();
-    googletag.enableServices();
-  });
-</script>
-
-</head>
-<body class="authenticator-popup">
-<!--[if (IE)&(lt IE 9) ]>
-<div style='margin: 20px 100px;'>
-<p class='alert-box warning'>
-We've noticed that you're using an old version of Internet Explorer.
-</p>
-<p>
-It's an old browser that doesn't perform well with many sites, and is no longer supported.
-</p>
-<p>
-If you use
-<a href="http://www.browsehappy.com">a modern version of Internet Explorer (version 9 and up), Chrome, Safari or Firefox, you&#39;ll have a much better experience.</a>
-</p>
-</div>
-<![endif]-->
-<div id="content">
-<div class="off-canvas-wrap">
-<div class="inner-wrap">
-<div class="contain-to-grid">
-<nav class="top-bar docs-bar hide-for-small" data-topbar="">
-<ul class="title-area">
-<li class="name">
-<h1><a href="http://www.alltheparties.com/" title="The Best Source of Parties Online">AllTheParties</a></h1>
-</li>
-</ul>
-<section class="top-bar-section">
-<ul class="left">
-<li class="has-dropdown">
-<a href="#">Cities</a>
-<ul class="dropdown">
-<li><a href="http://nyc.alltheparties.com/">New York City</a></li>
-<li><a href="http://hou.alltheparties.com/">Houston</a></li>
-<li><a href="http://atl.alltheparties.com/">Atlanta</a></li>
-<li><a href="http://lax.alltheparties.com/">Los Angeles</a></li>
-<li><a href="http://mia.alltheparties.com/">Miami</a></li>
-<li><a href="http://000.alltheparties.com/">Other Cities</a></li>
-<li><a href="http://dca.alltheparties.com/">Washington, DC</a></li>
-<li><a href="http://dal.alltheparties.com/">Dallas</a></li>
-<li><a href="http://nwo.alltheparties.com/">New Orleans</a></li>
-<li><a href="http://chi.alltheparties.com/">Chicago</a></li>
-<li><a href="http://okc.alltheparties.com/">Oklahoma City</a></li>
-<li><a href="http://las.alltheparties.com/">Las Vegas</a></li>
-<li><a href="http://orl.alltheparties.com/">Orlando</a></li>
-<li><a href="http://clt.alltheparties.com/">Charlotte</a></li>
-<li><a href="http://den.alltheparties.com/">Denver</a></li>
-<li><a href="http://phl.alltheparties.com/">Phillie</a></li>
-<li><a href="http://nwe.alltheparties.com/">New England</a></li>
-<li><a href="http://san.alltheparties.com/">San Diego</a></li>
-<li><a href="http://aus.alltheparties.com/">Austin</a></li>
-<li><a href="http://del.alltheparties.com/">Delaware</a></li>
-
-</ul>
-</li>
-</ul>
-<ul class="right">
-<li class="has_form">
-<form accept-charset="UTF-8" action="/search" data-behavior="search#form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-<div class="row collapse">
-<div class="small-9 large-8 column">
-<input data-role="query" id="q" name="q" type="text">
-</div>
-<div class="small-3 large-4 column">
-<input class="alert expand button " name="commit" type="submit" value="Search">
-</div>
-</div>
-</form>
-
-
-</li>
-<li class="divider"></li>
-<li class="has-dropdown">
-<a href="#"><span class="fi-widget"></span>
-</a><ul class="dropdown">
-<li>
-<ul>
-<li>
-<label>Hey {{session.username}}</label>
-</li>
-</ul>
-<ul ng-if="session.isRegionalRep">
-<li>
-<label>Admins Only!!!</label>
-</li>
-<li>
-<a href="/app#/admin/parties">Party Management</a>
-</li>
-</ul>
-<ul ng-if="session.isLoggedIn">
-<li>
-<a href="/app#/albums/edit">Upload Pictures</a>
-</li>
-<li><a href="http://www.alltheparties.com/parties/manage">Update Parties</a></li>
-<li>
-<a href="/app#/parties/new">Create New Party</a>
-</li>
-<li>
-<a href="/app#/account">Manage Account</a>
-</li>
-<li>
-<a href="/app#/logout">Logout</a>
-</li>
-</ul>
-<ul ng-if="!session.isLoggedIn">
-<li>
-<label>Settings</label>
-</li>
-<li>
-<a href="/app#/authenticate">Login</a>
-</li>
-<li>
-<a href="/app#/signup">Sign Up Now</a>
-</li>
-<li>
-<a href="/app#/lost_password">Forgot Username/Password?</a>
-</li>
-</ul>
-</li>
-
-</ul>
-</li>
-</ul>
-</section>
-</nav>
-<nav class="tab-bar show-for-small">
-<section class="left-small">
-<a class="left-off-canvas-toggle menu-icon">
-<span>AllTheParties</span>
-</a>
-</section>
-<section class="right-small">
-<a class="right-off-canvas-toggle menu-icon">
-<span></span>
-</a>
-</section>
-</nav>
-</div>
-
-<div class="row">
-<div class="small-12 column">
-<div class="hide-for-small-only">
-<script>
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/1004326/atp_728x90_ros2', [728, 90], '728x90_ros2').addService(googletag.pubads());
-  });
-</script>
-<div class="ad" id="728x90_ros2" style="width:728px; height:90px;">
-<script>
-  googletag.cmd.push(function() { googletag.display("728x90_ros2"); });
-</script>
-</div>
-
-</div>
-<div class="show-for-small-only"><script>
-  googletag.cmd.push(function() {
-    googletag.defineSlot('/1004326/atp_300x50_ros2', [300, 50], '300x50_ros2').addService(googletag.pubads());
-  });
-</script>
-<div class="ad" id="300x50_ros2" style="width:300px; height:50px;">
-<script>
-  googletag.cmd.push(function() { googletag.display("300x50_ros2"); });
-</script>
-</div>
-</div>
-</div>
-</div>
-<div class="row">
-<div class="small-12 column">
-<div id="main-content"><div id="primaryContent">
-<h1>Privacy Guidelines for FCG Media, Inc.</h1>
-<p class="dark">Privacy Statement</p>
-<p>
-<span class="underline">This privacy statement applies to the website of:</span>
-<br>
-<br>Samuel
-Obukwelu
-<br>4
-South Pinehurst Avenue #4F
-<br>New
-York NY 10033
-<br>US
-<br>888-353-9333
-<br>
-<a href="mailto:info@fcgmedia.com">info@fcgmedia.com</a>
-</p>
-<p>
-We respect your privacy.  This is why we have taken the time to disclose
-our information collection practices and our privacy policy.  Please
-take the time to review this document.
-</p>
-<p>
-Collecting information provides specific benefits to our website visitors:
-<br>
-<br>Collecting
-your information allows us to mail your order to the address you provide and inform you of events that interest you.
-</p>
-<br>
-<p>
-<span class="underline">We collect information for the following purpose(s):</span>
-<br>&amp;amp;bull;
-Completing or supporting an activity
-<br>&amp;amp;bull;
-Website and system administration
-<br>&amp;amp;bull;
-Research and development
-<br>&amp;amp;bull;
-Tailoring the website for its visitors
-<br>&amp;amp;bull;
-Build records of individual visitors
-<br>&amp;amp;bull;
-Contacting our visitors (except via telephone) for promotion of the site or products
-<br>&amp;amp;bull;
-Contacting our visitiors via telephone for promotion of the site or products
-</p>
-<br>
-<p>
-<span class="underline">Who has access to the information we collect?</span>
-<br>&amp;amp;bull;
-Ourselves
-</p>
-<p>
-Of the information we do collect, we allow our visitors the following access to the information:
-<br>
-<br>
-Access is given to contact information (such as email address or postal address).
-</p>
-<p>
-If you believe that our website has collected incorrect information or if you would
-like to dispute any information, please contact us using the address at the top
-of this page.
-</p>
-</div>
-</div>
-<div class="footer"><ul class="inline-list text-center">
-<li><a href="/pages/overview">Company Overview &amp; Advertising Information</a></li>
-<li><a href="/pages/tos">Terms of Use</a></li>
-<li><a href="/pages/privacy">Privacy Policy</a></li>
-<li>2014 © FCG Media, Inc.</li>
-</ul>
-</div>
-</div>
-</div>
-<aside class="left-off-canvas-menu">
-<ul class="off-canvas-list">
-<li class="has_form">
-<form accept-charset="UTF-8" action="/search" data-behavior="search#form" method="get"><div style="display:none"><input name="utf8" type="hidden" value="✓"></div>
-<div class="row collapse">
-<div class="small-9 large-8 column">
-<input data-role="query" id="q" name="q" type="text">
-</div>
-<div class="small-3 large-4 column">
-<input class="alert expand button postfix" name="commit" type="submit" value="Search">
-</div>
-</div>
-</form>
-
-
-</li>
-<li><a href="http://nyc.alltheparties.com/">New York City</a></li>
-<li><a href="http://hou.alltheparties.com/">Houston</a></li>
-<li><a href="http://atl.alltheparties.com/">Atlanta</a></li>
-<li><a href="http://lax.alltheparties.com/">Los Angeles</a></li>
-<li><a href="http://mia.alltheparties.com/">Miami</a></li>
-<li><a href="http://000.alltheparties.com/">Other Cities</a></li>
-<li><a href="http://dca.alltheparties.com/">Washington, DC</a></li>
-<li><a href="http://dal.alltheparties.com/">Dallas</a></li>
-<li><a href="http://nwo.alltheparties.com/">New Orleans</a></li>
-<li><a href="http://chi.alltheparties.com/">Chicago</a></li>
-<li><a href="http://okc.alltheparties.com/">Oklahoma City</a></li>
-<li><a href="http://las.alltheparties.com/">Las Vegas</a></li>
-<li><a href="http://orl.alltheparties.com/">Orlando</a></li>
-<li><a href="http://clt.alltheparties.com/">Charlotte</a></li>
-<li><a href="http://den.alltheparties.com/">Denver</a></li>
-<li><a href="http://phl.alltheparties.com/">Phillie</a></li>
-<li><a href="http://nwe.alltheparties.com/">New England</a></li>
-<li><a href="http://san.alltheparties.com/">San Diego</a></li>
-<li><a href="http://aus.alltheparties.com/">Austin</a></li>
-<li><a href="http://del.alltheparties.com/">Delaware</a></li>
-
-</ul>
-</aside>
-<aside class="right-off-canvas-menu">
-<ul class="off-canvas-list">
-<li>
-<ul>
-<li>
-<label>Hey {{session.username}}</label>
-</li>
-</ul>
-<ul ng-if="session.isRegionalRep">
-<li>
-<label>Admins Only!!!</label>
-</li>
-<li>
-<a href="/app#/admin/parties">Party Management</a>
-</li>
-</ul>
-<ul ng-if="session.isLoggedIn">
-<li>
-<a href="/app#/albums/edit">Upload Pictures</a>
-</li>
-<li><a href="http://alltheparties.com/parties/manage">Update Parties</a></li>
-<li>
-<a href="/app#/parties/new">Create New Party</a>
-</li>
-<li>
-<a href="/app#/account">Manage Account</a>
-</li>
-<li>
-<a href="/app#/logout">Logout</a>
-</li>
-</ul>
-<ul ng-if="!session.isLoggedIn">
-<li>
-<label>Settings</label>
-</li>
-<li>
-<a href="/app#/authenticate">Login</a>
-</li>
-<li>
-<a href="/app#/signup">Sign Up Now</a>
-</li>
-<li>
-<a href="/app#/lost_password">Forgot Username/Password?</a>
-</li>
-</ul>
-</li>
-
-</ul>
-</aside>
-</div>
-</div>
-</div>
-<script src="//ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
-<script>
-//<![CDATA[
-window.jQuery || document.write(unescape('%3Cscript src="http://asset3.alltheparties.com/javascripts/jquery.js">%3C/script>'))
-//]]>
-</script><script src="http://asset3.alltheparties.com/javascripts/jquery.js"></script>
-<script src="//maps.googleapis.com/maps/api/js?v=3.exp&amp;libraries=places"></script>
-<script force="true" modules="route animate" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular.min.js" version="1.2.26"></script><script force="true" modules="route animate" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular-route.min.js" version="1.2.26"></script><script force="true" modules="route animate" src="//ajax.googleapis.com/ajax/libs/angularjs/1.2.26/angular-animate.min.js" version="1.2.26"></script><script force="true" modules="route animate" version="1.2.26">
-//<![CDATA[
-window.angular || document.write(unescape('%3Cscript src="http://asset1.alltheparties.com/javascripts/angular.js">%3C/script>%3Cscript src="http://asset5.alltheparties.com/javascripts/angular-route.js">%3C/script>%3Cscript src="http://asset1.alltheparties.com/javascripts/angular-animate.js">%3C/script>'))
-//]]>
-</script><script src="http://asset1.alltheparties.com/javascripts/angular.js"></script><script src="http://asset5.alltheparties.com/javascripts/angular-route.js"></script><script src="http://asset1.alltheparties.com/javascripts/angular-animate.js"></script>
-<script src="http://asset3.alltheparties.com/assets/application-5ecd189cd46fc7b8cee9423ed71023e2.js"></script>
-<script>
-  // Include the UserVoice JavaScript SDK (only needed once on a page)
-  UserVoice=window.UserVoice||[];(function(){var uv=document.createElement('script');uv.type='text/javascript';uv.async=true;uv.src='//widget.uservoice.com/fg6oux2zHr86UVAsNvVMrQ.js';var s=document.getElementsByTagName('script')[0];s.parentNode.insertBefore(uv,s)})();
+      </div>
+    </div>
   
-  //
-  // UserVoice Javascript SDK developer documentation:
-  // https://www.uservoice.com/o/javascript-sdk
-  //
-  
-  // Set colors
-  UserVoice.push(['set', {
-    accent_color: '#448dd6',
-    trigger_color: 'white',
-    trigger_background_color: 'rgba(46, 49, 51, 0.6)'
-  }]);
-  
-  // Identify the user and pass traits
-  // To enable, replace sample data with actual user traits and uncomment the line
-  $(document).on('userLoaded', function(){
-    UserVoice.push(['identify', {
-      name:      ATP.user.username, // User’s real name
-      email:      ATP.user.get('email'), // User’s email address
-      created_at: ATP.user.get('created_on'), // Unix timestamp for the date the user signed up
-      id:         ATP.user.get('id'), // Optional: Unique id of the user (if set, this should not change)
-    }]);
-  });
-  
-  // Add default trigger to the bottom-right corner of the window:
-  UserVoice.push(['addTrigger', { mode: 'contact', trigger_position: 'bottom-right' }]);
-  
-  // Or, use your own custom trigger:
-  //UserVoice.push(['addTrigger', '#id', { mode: 'contact' }]);
-  
-  // Autoprompt for Satisfaction and SmartVote (only displayed under certain conditions)
-  UserVoice.push(['autoprompt', {}]);
-</script>
-
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
