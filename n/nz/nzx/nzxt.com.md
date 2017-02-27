@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nzxt.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927144832id_/https%3A//www.nzxt.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nzxt.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227022401id_/https%3A//www.nzxt.com/privacy-policy) for the most accurate reproduction.*
 
 # NZXT | PC Hardware Manufacturer - Cases, Cooling, Fan Control and PC Monitoring
 
@@ -17,7 +17,7 @@ NZXT's Privacy Policy is designed to provide clarity about the information we co
 
   1. ### Introduction
 
-NZXT offers certain websites, products, services, and applicationsto end users via its various websites(the"Sites"). In this policy, "NZXT" refers to NZXT Corporation. We may also refer to NZXTas "we" or "us".
+NZXT offers certain websites, products, services, and applicationsto end users via its various websites (the "Sites"). In this policy, "NZXT" refers to NZXT, Inc.. We may also refer to NZXT as "we" or "us".
 
 This Privacy Policy describes:
 
@@ -29,23 +29,23 @@ This Privacy Policy describes:
 
 If you have questions regarding this Privacy Policy or our collection and use of information, please contact us as described in the "Contact Us" section below.
 
-If NZXT offers you the ability to access our Sitesfrom a third party site or service ("TPS"),you may also be required to also read and accept that TPS Terms of Sites and Privacy Policy to use our Sites.
+If NZXT offers you the ability to access our Sitesfrom a third party site or service ("TPS"), you may also be required to also read and accept that TPS Terms of Sites and Privacy Policy to use our Sites.
 
-This Privacy Policy is one portion of our Terms of Service, found atnzxt.com/page/terms, which governs your use of theSites. Any disputes arising out of or relating to this Privacy Policy will be dealt with according to the dispute resolution procedures outlined in our Terms of Service.
+This Privacy Policy is one portion of our Terms of Service, found at nzxt.com/page/terms, which governs your use of theSites. Any disputes arising out of or relating to this Privacy Policy will be dealt with according to the dispute resolution procedures outlined in our Terms of Service.
 
   2. ### Information We Collect
 
 **Information about You Received from a TPS**   
-If you are able to access or use the Sites at a TPS, NZXTmay receive or be able to access certain information about you from that TPS. By accessing the Sites through the TPS, you authorize NZXT to access and store such information. You may be able to control and find out more about these settings at the TPS where you access or use our Sites. For example, NZXT may access and store your name, profile picture, location, gender, and other information as allowed by you, the TPS, and your preferences.
+If you are able to access or use the Sites at a TPS, NZXT may receive or be able to access certain information about you from that TPS. By accessing the Sites through the TPS, you authorize NZXT to access and store such information. You may be able to control and find out more about these settings at the TPS where you access or use our Sites. For example, NZXT may access and store your name, profile picture, location, gender, and other information as allowed by you, the TPS, and your preferences.
 
 **Information We Collect from You Directly**   
 When you interact with the Sites, we may collect and store information from you directly as described below: _Registration Information_   
 You may be required to provide the following information in order to use the Sites: your age or birthday (for age screening and/or to better understand who our users are); your first and last names; your e-mail address; a password and other information that helps us confirm that it is you accessing your account.
 
-We may also offer you the option to complete a user profile that is visible to other NZXT users. Your user profile may include: a profile photo; your name or username; your gender; biographic details that you provide; links to your profiles on various TPS’s; and anNZXT user ID number that is created by NZXT and used to identify your profile.
+We may also offer you the option to complete a user profile that is visible to other NZXT users. Your user profile may include: a profile photo; your name or username; your gender; biographic details that you provide; links to your profiles on various TPS’s; and an NZXT user ID number that is created by NZXT and used to identify your profile.
 
 _Payment Information_   
-If payments are possible via the Sites,NZXT may have access to your payment information, including credit card details, in order to process your purchases or other transactions within the Sites. If NZXT uses a third party payment processor to process payment on the Sites, the third party service provider may collect your payment information, which will be governed by the third party service provider’s terms of service and privacy policy.
+If payments are possible via the Sites, NZXT may have access to your payment information, including credit card details, in order to process your purchases or other transactions within the Sites. If NZXT uses a third party payment processor to process payment on the Sites, the third party service provider may collect your payment information, which will be governed by the third party service provider’s terms of service and privacy policy.
 
 _Customer Support Correspondence_   
 When you ask for assistance from our customer support team, wemay collect and store the contact information you provide (generally your name and e-mail address), information about your activity on the Sites, and your user ID number, if any. We will also store the correspondence and any information contained within
@@ -58,7 +58,7 @@ When you access the Sites, we may collect (i) certain technical information abou
 We may collect information about you in any one or more of the following ways:
 
 _Information about Users_   
-When you use the Sites, NZXT collects and stores certain information that you provide directly or through a TPS or via other third party sites or websitesthrough which you accessed the Sites. To provide a richer experience, wemay also collect information about your use of and interaction with other people and the Sites. The bulk of this information is collected and stored through the use of Log Files, which are files on our web servers that record actions taken in our Sites.
+When you use the Sites, NZXT collects and stores certain information that you provide directly or through a TPS or via other third party sites or websites through which you accessed the Sites. To provide a richer experience, we may also collect information about your use of and interaction with other people and the Sites. The bulk of this information is collected and stored through the use of Log Files, which are files on our web servers that record actions taken in our Sites.
 
 _Communications Features_   
 You may be able to take part in certain activities on our Sitesthat give you the opportunity to communicate or share information not just with NZXT, but also with other users of our Sites. These may include:
@@ -69,14 +69,14 @@ You may be able to take part in certain activities on our Sitesthat give you the
     * chat with other users
     * posting photos
 
-We may record and store archives of these communications on NZXT's servers to protect the safety and wellbeing of our users and NZXT's rights and property in connection with the Sites. You acknowledge and consent to the recording and storage of such communications for these purposes.
+We may record and store archives of these communications on NZXT's servers to protect the safety and well being of our users and NZXT's rights and property in connection with the Sites. You acknowledge and consent to the recording and storage of such communications for these purposes.
 
 _Cookies and Automated Information Collection_   
-When you access the Sites, wemay collect certain technical information in order to (i) analyze the usage of the Sites; (ii) provide a more personalized experience; and (iii) manage advertising. We and Sites providers acting on our behalfuse Log Files and tracking technologies to collect and analyze certain types of technical information, including cookies, IP addresses, device type, device identifiers, browser types, browser language, referring and exit pages, and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of activity on ourSites, and other similar information. In some cases, we will associate this information with your user ID number for our internal use.
+When you access the Sites, we may collect certain technical information in order to (i) analyze the usage of the Sites; (ii) provide a more personalized experience; and (iii) manage advertising. We and Sites providers acting on our behalfuse Log Files and tracking technologies to collect and analyze certain types of technical information, including cookies, IP addresses, device type, device identifiers, browser types, browser language, referring and exit pages, and URLs, platform type, the number of clicks, domain names, landing pages, pages viewed and the order of those pages, the amount of time spent on particular pages, the date and time of activity on ourSites, and other similar information. In some cases, we will associate this information with your user ID number for our internal use.
 
 We may also employ other technologies including (i) web beacons, which allow us to know if a certain page was visited or whether an e-mail was opened; (ii) tracking pixels, which allow us to advertise more efficiently by excluding our current users from certain promotional messages, identifying the source of a new installation or delivering ads to you on other websites; and (iii) local shared objects also known as flash cookies, which help us to prevent fraud, and speed up load times.
 
-You can set your web browser to warn you about attempts to place cookies on your computer or limit the type of cookies you allow. Flash cookies operate differently than browser cookies and cookie management tools available in a web browser may not remove flash cookies. To learn more about and manage flash cookies you can visitadobe.com and make changes at the privacy settings panel. If you disable cookies, you may lose some of the features and functionality of the Sites. Please note that companies delivering advertisements through our Sites may also use cookies or other technologies, and those practices are subject to their own policies.
+You can set your web browser to warn you about attempts to place cookies on your computer or limit the type of cookies you allow. Flash cookies operate differently than browser cookies and cookie management tools available in a web browser may not remove flash cookies. To learn more about and manage flash cookies you can visit adobe.com and make changes at the privacy settings panel. If you disable cookies, you may lose some of the features and functionality of the Sites. Please note that companies delivering advertisements through our Sites may also use cookies or other technologies, and those practices are subject to their own policies.
 
 _Other Sources_   
 We may collect or receive information from other sources including other NZXT users and third party information providers.
@@ -121,14 +121,14 @@ _Information We Receive From a TPS_
 To manage the information NZXT may receive about you from a TPS, you will need to follow the instructions at that site for updating your information and changing your privacy settings. You can sometimes manage certain aspects of information collection and use by going to the settings of your (mobile) device and reviewing the permissions of each application.
 
 _Other Methods of Accessing and Controlling your Information_   
-If you no longer want NZXT to make active use of your information, you may send an e-mail to privacy@nzxt.com. Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access ourSites (if applicable) in the body of the e-mail. Please note that certain recordswill be retained for legal and accounting purposes. If you have sent or posted content on the Sites, we may not be able to delete it. Additionally, any information shared with a TPS may be retained by those third parties after we delete it from our records. Please consult the privacy policies of those TPS and SNS to learn about their removal procedures.
+If you no longer want NZXT to make active use of your information, you may send an e-mail to privacy@nzxt.com. Place "Delete My Account" in the subject line and include your first name, last name, e-mail address and user ID number for the SNS from which you access our Sites (if applicable) in the body of the e-mail. Please note that certain records will be retained for legal and accounting purposes. If you have sent or posted content on the Sites, we may not be able to delete it. Additionally, any information shared with a TPS may be retained by those third parties after we delete it from our records. Please consult the privacy policies of those TPS and SNS to learn about their removal procedures.
 
-If you wish to review or change the information NZXThas about you, or if you have additional questions about this Privacy Policy, contact us at [ support@nzxt.com](mailto:support@nzxt.com).
+If you wish to review or change the information NZXT has about you, or if you have additional questions about this Privacy Policy, contact us at [ support@nzxt.com](mailto:support@nzxt.com).
 
   7. ### Opting Out of Promotional Communications
 
 _Opting out of Promotional Communications_   
-You may choose to opt out of receiving additional promotional e-mailsfrom NZXT by clicking on the "unsubscribe" link in any such e-mail. Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective.
+You may choose to opt out of receiving additional promotional e-mails from NZXT by clicking on the "unsubscribe" link in any such e-mail. Please note that once we receive your request, it may take an additional period of time for your opt-out to become effective.
 
 _Opting Out of Other Communications_   
 You can opt out of receiving SMS messages by texting STOP to the number we send from for that particular SMS program. When we receive an opt-out message from you for SMS messages, we may send a message confirming our receipt of your opt-out.
@@ -155,7 +155,7 @@ While we take reasonable precautions against possible security breaches of our w
 
   12. ### Changes to Our Privacy Policy
 
-We may make material changes to our Privacy Policy at any time by posting them on nzxt.com/page/privacy. Our posted Privacy Policy will indicate the date it was last updated, and the changes will take effect immediately. It is your responsibility to check periodically for updates.We may take additional steps to notify you by sending you a notice to the e-mail address we have on file for you, or by placing notices on other NZXTwebsites.Your continued use of the Sites will signify your acceptance of any changes to the Privacy Policy.
+We may make material changes to our Privacy Policy at any time by posting them on nzxt.com/page/privacy. Our posted Privacy Policy will indicate the date it was last updated, and the changes will take effect immediately. It is your responsibility to check periodically for updates. We may take additional steps to notify you by sending you a notice to the e-mail address we have on file for you, or by placing notices on other NZXT websites. Your continued use of the Sites will signify your acceptance of any changes to the Privacy Policy.
 
   13. ### Your California Privacy Rights
 
@@ -170,7 +170,7 @@ If you have any questions, comments or concerns regarding our Privacy Policy and
 
 
 
-NZXT Corporation   
+NZXT, Inc.  
 13164 East Temple Avenue  
 City of Industry, CA 91746
 
