@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231135042id_/http%3A//www.usda.gov/wps/portal/usda/usdahome%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fs.fed.us privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227095733id_/http%3A//www.usda.gov/wps/portal/usda/usdahome%3Fnavtype%3DFT%26navid%3DPRIVACY_POLICY) for the most accurate reproduction.*
 
 # Privacy Policy | USDA
 
