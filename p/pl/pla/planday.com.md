@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the planday.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122164504id_/http%3A//planday.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the planday.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227074446id_/https%3A//www.planday.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Planday
+# Privacy Policy US
 
 1) Who we are
 
@@ -88,7 +88,7 @@ Planday welcomes your comments regarding this Privacy Policy. If you have any qu
 
 9.3) Cookies used in applications on the Site
 
-#### **ADDITIONAL GOOGLE COOKIES DESCRIPTIONS**
+####  **ADDITIONAL GOOGLE COOKIES DESCRIPTIONS**
 
 Cookie Name: _ga
 
@@ -96,7 +96,7 @@ Expiration time: 2 years
 
 Description: Used to distinguish users.
 
-#### **GA.JS – COOKIE USAGE**
+####  **GA.JS – COOKIE USAGE**
 
 The [ga.js JavaScript library](https://developers.google.com/analytics/devguides/collection/gajs/) uses first-party cookies to:
 
@@ -114,14 +114,14 @@ By default, this library sets cookies on the domain specified in the document.ho
 
 This library sets the following cookies:
 
-**Cookie Name** | **Default Expiration Time** | **Description**  
+ **Cookie Name**|  **Default Expiration Time**|  **Description**  
 ---|---|---  
-__utma | 2 years from set/update | Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.  
-__utmt | 10 minutes | Used to throttle request rate.  
-__utmb | 30 mins from set/update | Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.  
-__utmc | End of browser session | Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.  
-__utmz | 6 months from set/update | Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.  
-__utmv | 2 years from set/update | Used to store visitor-level custom variable data. This cookie is created when a developer uses the [_setCustomVar](https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiBasicConfiguration#_gat.GA_Tracker_._setCustomVar) method with a visitor level custom variable. This cookie was also used for the deprecated _setVar method. The cookie is updated every time data is sent to Google Analytics.  
+__utma| 2 years from set/update| Used to distinguish users and sessions. The cookie is created when the javascript library executes and no existing __utma cookies exists. The cookie is updated every time data is sent to Google Analytics.  
+__utmt| 10 minutes| Used to throttle request rate.  
+__utmb| 30 mins from set/update| Used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing __utmb cookies exists. The cookie is updated every time data is sent to Google Analytics.  
+__utmc| End of browser session| Not used in ga.js. Set for interoperability with urchin.js. Historically, this cookie operated in conjunction with the __utmb cookie to determine whether the user was in a new session/visit.  
+__utmz| 6 months from set/update| Stores the traffic source or campaign that explains how the user reached your site. The cookie is created when the javascript library executes and is updated every time data is sent to Google Analytics.  
+__utmv| 2 years from set/update| Used to store visitor-level custom variable data. This cookie is created when a developer uses the [_setCustomVar](https://developers.google.com/analytics/devguides/collection/gajs/methods/gaJSApiBasicConfiguration#_gat.GA_Tracker_._setCustomVar) method with a visitor level custom variable. This cookie was also used for the deprecated _setVar method. The cookie is updated every time data is sent to Google Analytics.  
   
 The following methods can be used to customize how cookies are set:
 
@@ -139,7 +139,7 @@ Expiration time: 10 minutes
 
 Description: Used to throttle request rate
 
-#### **REQUIRED COOKIES**
+####  **REQUIRED COOKIES**
 
 These cookies are required in order for the website to provide a service, which the end user has explicitly
 
@@ -154,7 +154,7 @@ requested. This could for example be cookies, which are used to make the shoppin
 
 
 
-#### **PREFERENCE COOKIES**
+####  **PREFERENCE COOKIES**
 
 These cookies are used to ensure the best possible user experience on the website. It is, for example, selected
 
@@ -162,7 +162,7 @@ preferences such as language, currency or selections, which make navigation easi
 
 Videos embedded on the site are via YouTube. YouTube uses cookies, for example, to register which video is being displayed and how much of the film you have seen. YouTube cookies are socalled Flash cookies.
 
-#### **OPERATION AND OPTIMIZATION COOKIES**
+####  **OPERATION AND OPTIMIZATION COOKIES**
 
 These cookies are used for the operation of the website. They can, for example, count the number of visitors or other information, which will be used for analysis. They are also used in questionnaires. These cookies can, to a limited extent, gather data, which can be attributed to the individual user.
 
@@ -170,7 +170,7 @@ We use Google Analytics to analyse how users are using the website. The informat
 
 [http://tools.google.com/dlpage/gaoptout](http://tools.google.com/dlpage/gaoptout)
 
-#### **MARKETING – ANONYMOUS TRACKING ACROSS WEBSITES**
+####  **MARKETING – ANONYMOUS TRACKING ACROSS WEBSITES**
 
 These cookies are used to track users across their visits to several websites. These cookies can be used to build profiles, which show which searches each user has made, or which pages they have visited. These cookies can store data, which identifies the individual user or which contains specific information about the user. Anonymous data may be shared with a third party.
 
@@ -179,7 +179,7 @@ These cookies are used to track users across their visits to several websites. T
 
 
 
-#### **MARKETING – TARGETED ADVERTISING**
+####  **MARKETING – TARGETED ADVERTISING**
 
 These cookies are used to track search and reading habits. The information gathered is used to display
 
@@ -203,17 +203,17 @@ internet advertisements in an attempt to show you ads, which are relevant to you
 
 
 
-#### **GOOGLE USER ID TRACKING**
+####  **GOOGLE USER ID TRACKING**
 
 Planday use Google User ID tracking, which makes us differentiate logged-in users from visitors who haven’t signed in to Planday. By doing this, we can give you a better experience on our websites, because we can generate aggregated reports on customers vs. non-customers behaviour on our websites and system. You give your consent to this, when you visit one of the defined websites, and/or log in to the Planday system. We will never upload any data to personally identify you as an individual, (such as certain names, social security numbers, email addresses, or any similar data), or data that permanently identifies a particular device (such as a mobile phone’s unique device identifier if such an identifier cannot be reset), even in hashed form. If you want to opt-out, then use Google’s opt-out form: [https://tools.google.com/dlpage/gaoptout/](https://tools.google.com/dlpage/gaoptout/) . Be aware that you need to opt-out on every device, where you are accessing Planday websites and/or Planday system.
 
-#### **HOW TO REJECT OR DELETE YOUR COOKIES**
+####  **HOW TO REJECT OR DELETE YOUR COOKIES**
 
-#### **REJECTING COOKIES:**
+####  **REJECTING COOKIES:**
 
 You can always reject cookies on your computer by changing the settings in your browser. Where you find the settings depends on which browser you use. However, please be aware that, if you do this, there are many features and services, you cannot use, because they require the website to remember the choices you make.
 
-**Deleting cookies**
+ **Deleting cookies**
 
 Cookies, which you have previously accepted, can subsequently be deleted easily. If you use a PC with an up to date browser, you can delete your cookies by using shortcut keys: CTRL + SHIFT + Delete If the shortcut keys do not work, and/or you are using a MAC, you need to start by finding out which browser you use and then clicking on the appropriate link:
 
@@ -240,6 +240,6 @@ Remember: If you are using several browsers, you must delete cookies in all of t
 
 
 
-#### **CHOICE OF LAW AND FORUM PROVISIONS**
+####  **CHOICE OF LAW AND FORUM PROVISIONS**
 
 This Site resides on a server in Copenhagen, Denmark. You agree that these Terms and your use of this Site are governed by the laws of Denmark. You hereby consent to the exclusive jurisdiction and venue of the courts, tribunals, agencies and other dispute resolution organizations in Denmark in all disputes (a) arising out of, relating to, or concerning this Site and/or these Terms, (b) in which this Site and/or these Terms is an issue or a material fact, or (c) in which this Site and/or these Terms is referenced in a paper filed in a court, tribunal, agency or other dispute resolution organization. Planday has endeavored to comply with all legal requirements known to it in creating and maintaining this Site, but makes no representation that materials on this Site are appropriate or available for use in any particular jurisdiction. You are responsible for compliance with applicable laws. Any use in contravention of this provision or any provision of these Terms is at your own risk and, if any part of these Terms is invalid or unenforceable under applicable law, the invalid or unenforceable provision will be deemed superseded by a valid, enforceable provision that most closely matches the intent of the original provision and the remainder of these Terms shall govern such use.
