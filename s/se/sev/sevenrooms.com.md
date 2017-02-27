@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sevenrooms.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323010305id_/https%3A//www.sevenrooms.com/ava/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sevenrooms.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227090140id_/https%3A//www.sevenrooms.com/ava/privacy) for the most accurate reproduction.*
 
-# SevenRooms - Privacy Policy
+# SEVENROOMS • Privacy Policy
 
 _Last updated May 2014_
 
