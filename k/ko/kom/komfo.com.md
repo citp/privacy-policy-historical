@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the komfo.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806090813id_/https%3A//komfo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the komfo.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227070943id_/https%3A//komfo.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Komfo
 
