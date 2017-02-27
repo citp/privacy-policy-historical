@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oag.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203082213id_/http%3A//www.oag.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oag.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227013924id_/https%3A//www.oag.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -95,7 +95,7 @@ As one of our members, you are in complete control of your travel planning needs
 **Contacting us**
 
 Our postal addresses are:  
-OAG Aviation Group:    OAG Aviation Group Limited, Tallis House, 2 Tallis Street, London EC4Y 0AB UK  
+OAG Aviation Group:    OAG Aviation Group Limited, 1 Capability Green, Luton, Bedfordshire LU1 3LU, United Kingdom  
 OAG Aviation Worldwide LLC.,    801 Warrenville Road, Suite 555, Lisle, Illinois 60532, USA.  The telephone number is for OAG Aviation customers resident in the Americas and the Caribbean;  
 OAG Aviation Worldwide Pte Ltd    6 Shenton Way, #24-08A OUE Downtown 2, Singapore 068809.  
 OAG Aviation Worldwide Ltd    1 Capability Green, Luton, Bedfordshire LU1 3LU, United Kingdom for OAG Aviation customers resident in the rest of the world.  The telephone number is +44 (0) 1582 695050.  Telephone calls with the Customer Service Centre may be recorded for quality and training purposes.
@@ -109,7 +109,7 @@ OAG Aviation Worldwide Pte Ltd:     [contactus@oag.com](mailto:ContactUs@oag.
 
 **Corporate information**
 
-• OAG.com and affiliated and subsidiary Web Sites are owned or licensed and operated by OAG Aviation Worldwide Limited, registered in England and Wales, No. 8434134, registered office at Tallis House, 2 Tallis Street, London, EC4Y 0AB and place of business at 1 Capability Green, Luton, Bedfordshire, LU1 3LU, United Kingdom and whose VAT number is GB 157 6342 93 (“OAG Aviation Worldwide Limited”);
+• OAG.com and affiliated and subsidiary Web Sites are owned or licensed and operated by OAG Aviation Worldwide Limited, registered in England and Wales, No. 8434134, registered office at 1 Capability Green, Luton, Bedfordshire LU1 3LU, United Kingdom and place of business at 1 Capability Green, Luton, Bedfordshire, LU1 3LU, United Kingdom and whose VAT number is GB 157 6342 93 (“OAG Aviation Worldwide Limited”);
 
 • OAG Aviation Worldwide is part of OAG Aviation Group
 
