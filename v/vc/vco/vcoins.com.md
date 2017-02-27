@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vcoins.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325105045id_/https%3A//www.vcoins.com/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcoins.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227165306id_/https%3A//www.vcoins.com/en/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # VCoins
 
-## Privacy policy
+### Privacy policy
 
 This Privacy Policy discloses the privacy practices for the [](http://www.vcoins.com/) site and various related services (together referred to as the "site"). VHobbies.com, LLC, the provider of the site (referred to as "us " or "we"), is committed to protecting your privacy online. Please read the information below to learn the following regarding your use of this site.
 
@@ -37,9 +37,6 @@ Occasionally we may be required by law enforcement or judicial authorities to pr
 We may also provide Non-Personally Identifiable Information about our customers' sales, traffic patterns, and related site information to third party advertisers, but these statistics do not include any Personally Identifiable Information.
 
 **4\. Updating and Correcting Information**
-
-  
-
 
 We believe you should have the ability to access and edit the Personally Identifiable Information that you have provided to us. You may change any of your Personally Identifiable Information in your account online at any time by linking to your account in accordance with instructions posted elsewhere on this site. You may also access and correct your personal information and privacy preferences by writing us at:  
 12330 West Avenue Suite 204  
