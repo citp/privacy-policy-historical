@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkhire.com privacy policy that was archived on 2016-07-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160713140910id_/https%3A//www.sparkhire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkhire.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227231227id_/https%3A//www.sparkhire.com/privacy) for the most accurate reproduction.*
 
 # Privacy and Security Policy - Spark Hire
 
