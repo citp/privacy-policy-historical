@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthproductsforyou.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325121524id_/https%3A//www.healthproductsforyou.com/privacy_notice.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthproductsforyou.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227220631id_/https%3A//www.healthproductsforyou.com/privacy-notice.html) for the most accurate reproduction.*
 
 # Health Products For You: Privacy Notice
 
