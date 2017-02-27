@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gci.net privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023055846id_/https%3A//www.gci.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gci.net privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227081108id_/https%3A//www.gci.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GCI
 
@@ -106,7 +106,7 @@ Please note that opting-out of advertising networks services does not mean that 
 
 GCI is concerned about the safety and privacy of all its users, particularly children. Minors cannot become GCI subscribers, and we do not knowingly collect Personal Information from children under 13 without parental consent. If we learn we have collected Personal Information from a child under 13 without such consent, we will delete such information.
 
-For information regarding safety and controls related to GCI’s cable service, please view [GCI TV Parental Controls](https://web.archive.org/support/tv-support-articles/parental-controls).
+For information regarding safety and controls related to GCI’s cable service, please view [GCI TV Parental Controls](https://web.archive.org/support/support-articles/tv_parental-controls).
 
 ## Your Choices And Control
 
