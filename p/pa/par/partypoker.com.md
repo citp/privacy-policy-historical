@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the partypoker.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013021723id_/https%3A//www.partypoker.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the partypoker.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227222708id_/https%3A//www.partypoker.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | partypoker
 
@@ -6,7 +6,7 @@
 
 We are committed to protecting Your personal information. We have created this Privacy Policy to let You know what information We collect when You use Our Services, why We collect this information and how We use the collected information.
 
-Please note that this Privacy Policy will be agreed between You and the Group being bwin.party digital entertainment plc together with its Group companies as defined in the [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions.html) (' **bwin.party** ',' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
+Please note that this Privacy Policy will be agreed between You and the Group being GVC Holdings PLC together with its Group companies as defined in the [Terms and Conditions of Use](https://web.archive.org/terms-and-conditions.html) (' **GVC** ',' **We** ', ' **Us** ' or ' **Our** ', as appropriate).
 
 We may periodically make changes to this Privacy Policy and will notify You of these changes by posting the modified terms on Our Platforms. We recommend that You revisit this Privacy Policy regularly.
 
