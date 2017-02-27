@@ -1,15 +1,14 @@
-> *The following text is extracted and transformed from the rentalsystems.com privacy policy that was archived on 2016-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160421134151id_/https%3A//www.rentalsystems.com/cookies-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rentalsystems.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228001042id_/https%3A//www.rentalsystems.com/cookies-privacy-policy) for the most accurate reproduction.*
 
-# Rentalsystems
+# Cookies and Privacy Policy | Rentalsystems
 
 **Your personal data**
 
 To be able to process bookings we need to collect certain personal details from you. These details will include, where applicable:
 
-  1. In the case of a Renter:  the names of the Renter and members of the Renter’s Party, their ages, at least the Renter’s contact details (including email address), at least the Renter’s credit/debit card details, etc which we do not store; and 
-  2. In the case of an Owner: the Owner’s name, contact details (including email address), bank account details, details of the Property 
+1\. In the case of a Renter:  the names of the Renter and members of the Renter’s Party, their ages, at least the Renter’s contact details (including email address), at least the Renter’s credit/debit card details, etc which we do not store; and
 
-
+2\. In the case of an Owner: the Owner’s name, contact details (including email address), bank account details, details of the Property
 
 If we need further personal data we will ask for them. 
 
@@ -29,7 +28,7 @@ By entering your personal data onto our website, you agree to your personal data
 
 If you have subscribed to our e-mail service or have made a booking for, or an enquiry about, the services we offer, you agree we may send you targeted promotional e-mails about the services and special deals we offer unless you have opted out of receiving these. 
 
-You agree that we may also disclose our customer database, including any personal data relating to you contained in it, to a third party who acquires or attempts to acquire all or substantially all of the assets or shares in Clickstay Ltd. or our website whether by merger, acquisition, reorganisation or otherwise. 
+You agree that we may also disclose our customer database, including any personal data relating to you contained in it, to a third party who acquires or attempts to acquire all or substantially all of the assets or shares in Clickstay Ltd. or our website whether by merger, acquisition, reorganisation or otherwise.
 
 **Updating your personal data**
 
@@ -51,7 +50,7 @@ You are generally entitled to ask us (by letter or e-mail) what details of yours
 
 If you believe that any of your personal details which we are processing are inaccurate or incorrect please contact us immediately. 
 
-This privacy statement covers websites owned and controlled by us only. Links to other websites and any information collected by these sites are not covered by this privacy statement. As our privacy statement may change due to developments in the law, we would encourage you to reread our privacy statement from time to time so that you are aware of any changes in how we gather and use personal information. 
+This privacy statement covers websites owned and controlled by us only. Links to other websites and any information collected by these sites are not covered by this privacy statement. As our privacy statement may change due to developments in the law, we would encourage you to reread our privacy statement from time to time so that you are aware of any changes in how we gather and use personal information.
 
 **Cookies**
 
@@ -59,19 +58,17 @@ We may send you a cookie when you visit [www.clickstay.com](http://www.clickstay
 
 A ‘cookie’ is a very small file that is placed on your computer, tablet or mobile device. There are two categories of cookie, called “first party” and “third party” cookies:
 
-  1. First Party cookies are cookies that we set and we use them for a number of reasons, such as remembering who you are when you return to our Website; and  
-  2. Third Party cookies are cookies set on our behalf by third parties such as Google. These cookies do not collect your personal data and you cannot be identified as an individual customer from them. 
+1\. First Party cookies are cookies that we set and we use them for a number of reasons, such as remembering who you are when you return to our Website; and  
 
-
+2\. Third Party cookies are cookies set on our behalf by third parties such as Google. These cookies do not collect your personal data and you cannot be identified as an individual customer from them.
 
 We use cookies for a number of different reasons, which are:
 
-  1. Essential cookies:  These are cookies that are necessary for our websites to work and cannot be switched off. They are usually only set in response to actions that you make, such as when you log in to check your booking. These cookies do not store any personally identifiable information.   
+1\. Essential cookies:  These are cookies that are necessary for our websites to work and cannot be switched off. They are usually only set in response to actions that you make, such as when you log in to check your booking. These cookies do not store any personally identifiable information.   
 You can set your browser to block or alert you about these cookies, but if you do, some parts of our Websites will not work properly. 
-  2. Performance cookies: This type of cookie allows us to count the number of times you visit our website and how you came to our website. We use these cookies to identify which pages of our website are most and least popular and see how visitors move around it. We may also use this type of cookie to make payments to third parties with whom we have a contract when a visitor, who has visited a website operated by the third party, rents a property or buys a service using our website.   
+
+2\. Performance cookies: This type of cookie allows us to count the number of times you visit our website and how you came to our website. We use these cookies to identify which pages of our website are most and least popular and see how visitors move around it. We may also use this type of cookie to make payments to third parties with whom we have a contract when a visitor, who has visited a website operated by the third party, rents a property or buys a service using our website.   
 We use Google Analytics to provide this service. The data they collect is not shared with anyone else. The information is anonymised and we do not attempt to use it to identify any individual visitor to our website, or influence your use of our website when you use it. 
-
-
 
 **How to control the use of cookies**
 
