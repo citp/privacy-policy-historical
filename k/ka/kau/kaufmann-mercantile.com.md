@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kaufmann-mercantile.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125085338id_/http%3A//www.kaufmann-mercantile.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaufmann-mercantile.com privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227174227id_/https%3A//www.kaufmann-mercantile.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - kaufmann-mercantile.com
 
