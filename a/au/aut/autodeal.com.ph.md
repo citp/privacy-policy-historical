@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the autodeal.com.ph privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408052753id_/http%3A//www.autodeal.com.ph/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autodeal.com.ph privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227183829id_/https%3A//www.autodeal.com.ph/privacy-policy) for the most accurate reproduction.*
 
 # Car Buying Simplified in the Philippines | AutoDeal
 
-The following privacy policy applies solely to the [AutoDeal.com.ph](https://web.archive.org/) website located at http://www.autodeal.com.ph/ and all related websites that redirect to the AutoDeal.com.ph website ("the Website"). 
+The following privacy policy applies solely to the [AutoDeal.com.ph](https://web.archive.org/) website located at https://www.autodeal.com.ph/ and all related websites that redirect to the AutoDeal.com.ph website ("the Website"). 
 
 ##  Information Collected 
 
