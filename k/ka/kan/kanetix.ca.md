@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110173706id_/https%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanetix.ca privacy policy that was archived on 2017-02-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170227221011id_/https%3A//www.kanetix.ca/privacy) for the most accurate reproduction.*
 
 # The Kanetix.ca Privacy Policy
 
@@ -6,11 +6,11 @@ Your privacy and security
 
 **Our privacy pledge**
 
-Effective on January 29, 2016
+Effective on January 26, 2017
 
 Kanetix Ltd ("Kanetix")® believes in protecting the personal information that you provide us at www.kanetix.ca. We have made safe computing and the protection of your privacy an important priority. Kanetix provides insurance quotes/estimates with minimal personal information. Except where mandated by the government and its regulatory bodies or the courts, the personal information that you share with us will not be shared with third parties without your prior consent.
 
-Kanetix Ltd has has received TRUSTe's Privacy Seal signifying that this privacy statement and our practices have been reviewed for compliance with the TRUSTe program. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. The TRUSTe program covers only information that is collected through this website www.kanetix.ca. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request or by [clicking here](https://feedback-form.truste.com/watchdog/request). 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 **Security**
 
@@ -22,11 +22,9 @@ We follow generally accepted industry standards to protect the personal informat
 
 If you have any questions about security on our website, you can [send us an email](mailto:support@kanetix.ca?subject=Customer%20Inquiry).
 
-**Tracking Technologies and Cookies**
+**Tracking Technologies**
 
-Technologies such as: cookies, beacons, tags and scripts are used by Kanetix and our marketing partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users' movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies to remember users' settings (e.g. language preference). Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+Kanetix and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
 
 **Log files**
 
@@ -34,13 +32,9 @@ As is true of most Web sites, we and our third party tracking-utility partner to
 
 We use this information, which does not identify individual users, to analyze trends, to administer the site, to track users' movements around the site and to gather demographic information about our user base as a whole.
 
-**Local Storage Objects (HTML5)**
-
-Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
-
 **Advertising**
 
-We partner with a third party ad network to manage our advertising on other sites as well as within our site. Our ad network partner uses cookies to collect non-personal information about your activities on this and other Web sites to provide you targeted advertising based upon your interests and your actions on our site. We do not have access or control over these cookies. If you wish to not have this information used to serve you targeted ads, you may opt-out of being served targeted ads by [clicking here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served advertising. You will continue to receive generic ads. Please note that you have the option to set your browser to decline our cookies. If you choose not to receive cookies from Kanetix, you may not be able to use all the services available on the site. These cookies are not tied to your personal information.
+Kanetix and its partners use cookies or similar technologies to analyze trends, administer the website, track users' movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. 
 
 **Collecting information**
 
@@ -98,7 +92,7 @@ We post customer testimonials on our web site which may contain personal informa
 
 **How can you change your personal information?**
 
-You can change, update or delete your username (email address) and password online in the 'My Kanetix' section of the site or you can update your personal information by calling us at 1 (888) 854-2503 or writing to us at [360 Adelaide Street West, Suite 100, Toronto, Ontario, M5V 1R7](https://plus.google.com/107465114783210030737/about?gl=CA&hl=en-CA). We will respond to your request within a reasonable timeframe. 
+Upon request, Kanetix will provide you with information about whether we hold any of your personal information. You can change, update or delete your username (email address) and password online in the 'My Kanetix' section of the site or you can update your personal information by calling us at 1 (888) 854-2503 or writing to us at [360 Adelaide Street West, Suite 100, Toronto, Ontario, M5V 1R7](https://plus.google.com/107465114783210030737/about?gl=CA&hl=en-CA). We will respond to your request within a reasonable timeframe. 
 
 We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel, delete or remove your account, or request that we no longer use your information to provide you services [contact us](mailto:support@kanetix.ca?subject=Customer%20Inquiry). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -139,6 +133,8 @@ We may obtain information about you from third parties when you provide us with 
 If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email or by means of a notice on our homepage prior to the change becoming effective.
 
 **Legal disclaimer**
+
+In certain situations, Kanetix may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
 We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our website.
 
