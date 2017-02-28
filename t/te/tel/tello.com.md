@@ -1,10 +1,18 @@
-> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026233327id_/https%3A//tello.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tello.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228141606id_/https%3A//tello.com/privacy) for the most accurate reproduction.*
 
 # Tello US | Privacy Policy & Statement | You are safe with us
 
 ## Tello Privacy Policy 
 
-At Tello we care about the privacy of our visitors and we are committed to protecting your private data at all times. We will not collect any of your personal information that you do not volunteer to make available or consent to for further action. We do not sell, share, or rent this personal information to others in any way that we have not mentioned in this statement. 
+Effective Date: December 16, 2016
+
+This privacy policy describes how Tello collects and uses the personal information you provide on our web site: tello.com, owned and operated by KeepCalling. 
+
+At Tello we care about the privacy of our visitors and we are committed to protecting your private data at all times. This privacy policy describes how Tello collects and uses the personal information you provide on our web site: tello.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+
+We will not collect any of your personal information that you do not volunteer to make available or consent to for further action. We do not sell, share, or rent this personal information to others in any way that we have not mentioned in this statement.
+
+If you have questions or complaints regarding our privacy policy or practices, please contact us at customerservice@tello.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request.](https://feedback-form.truste.com/watchdog/request)
 
 ## Collection of Information
 
@@ -35,7 +43,7 @@ We partner with third party ad networks to either display advertising on our web
 
 ## User Access and Choice
 
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove, or deactivate it by making the change on our member information page or by emailing our Customer Support at customerservice@tello.com. We will respond to your request to access within 30 days.
+Upon request Tello will provide you with information about whether we hold any of your personal information. You may access, correct, or request deletion of your personal information by making the change on our member information page or by emailing our Customer Service at customerservice@tello.com. We will respond to your request to access within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -60,14 +68,25 @@ Our web site also includes Social Media Features, such as the Facebook Like butt
 
 We will share your personal information with third parties only in the ways that are described in this privacy policy. We do not sell your personal information to third parties. Tello will never share with third parties aggregate statistics about our customers, traffic patterns, and related site information. Tello may use third party companies to provide delivery of email newsletters and other messages over email. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
+Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
+
 We may also disclose your personal information:
 
+  * in response to lawful requests by public authorities, including to meet national security or law enforcement requirements;
   * as required by law, such as to comply with a subpoena, or similar legal process;
   * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud;
   * if Tello is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information;
   * to any other third party with your prior consent to do so.
 
 
+
+## My Tello mobile apps
+
+In order to use the service through My Tello mobile app, you need to first open an account, build your own plan or buy Pay As You Go credit on Tello.com. Next, you’ll need to decide if you want to bring your own phone to Tello or buy a new one. Once your phone is activated on Tello you can start making calls, texting or surfing the web. My Tello app is free to download in order to make national and international calls using your Pay As You Go balance, and national calls using your Plan balance. The hereby Privacy Policy applies.
+
+In order to access My Tello mobile app, you need to log in your Tello number & password registered in the online account or using the social media login available. We will try to keep you logged in, so you can skip entering such details every time you use the app. If you delete the app, your online account with us will not be affected in any way.
+
+We do not collect personally identifiable information as you are using the apps. Also, we do not share app-tracking results with third parties, and we will only use these results to provide you with information you may be interested in. Also, to constantly improve the service and solve application crashes, we send some technical and non-personal data to our servers.
 
 ## Obtaining Your Consent
 
