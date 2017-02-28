@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417212725id_/https%3A//www.pobox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pobox.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228084244id_/https%3A//www.pobox.com/privacy) for the most accurate reproduction.*
 
 # Pobox.com Privacy Policy
 
-This policy covers how IC Group treats personal information that we collect and receive through our Pobox.com and Listbox.com web sites. Personal information is information about you that is personally identifiable, such as your name, address, email address, or phone number, and that is not otherwise publicly available.
+This policy covers how FastMail Pty Ltd treats personal information that we collect and receive through our Pobox.com and Listbox.com web sites. Personal information is information about you that is personally identifiable, such as your name, address, email address, or phone number, and that is not otherwise publicly available.
 
 **Advertising** We do not sell advertising space on any of our websites. You may see notices about our own products, but we do not use your eyeballs to make money.
 
@@ -10,11 +10,11 @@ We also do not distribute ads by email, either to Pobox subscribers or through o
 
 **Your Personal Information** When you register with us, we ask for your name, mailing address, telephone number, and a security question of your choosing. We collect, store, and use this personal information to confirm your identity when you contact us, and to contact you regarding your account. That's it.
 
-If you do not provide that information accurately, you reduce our ability to confirm your identity as the account holder. If you feel very strongly about this matter, we urge you to fill in as much as possible, and select a strong security question and answer (in [the Profile section of the User's Area](http://pobox.com/profile/change-password/)) and to **remember the answer**. IC Group is not liable for any changes made to your account as a result of our inability to confirm your identity.
+If you do not provide that information accurately, you reduce our ability to confirm your identity as the account holder. If you feel very strongly about this matter, we urge you to fill in as much as possible, and select a strong security question and answer (in [the Profile section of the User's Area](http://pobox.com/profile/change-password/)) and to **remember the answer**. FastMail is not liable for any changes made to your account as a result of our inability to confirm your identity.
 
 Because we do not derive income from advertising, we do not aggregate your personal information for marketing purposes. However, we may use your data to determine some basic information about our user base (for example, how many customers do we have in a particular country.)
 
-We do not sell, loan, lease, give away, share or in any other way make your personal information or your Pobox address available to parties other than IC Group, Inc. and its affiliates, except:
+We do not sell, loan, lease, give away, share or in any other way make your personal information or your Pobox address available to parties other than FastMail and its affiliates, except:
 
   * when you have given us permission (example: to deal with another company on your behalf);
   * when you have violated our [Terms of Service](https://www.pobox.com/user-agreement), and misused your Pobox account for spam or other prohibited uses;
@@ -71,7 +71,8 @@ Subscription or other administrative requests sent via email are stored for 30 d
 **Contact Us** If you have any questions about our privacy policy, or there are any categories that you think we haven't covered, please let us know. We have tried to be as comprehensive as possible, but we'd like to know if we've missed anything. You can contact us [through our website](http://www.pobox.com/helpspot/index.php?pg=request), via email to [pobox@pobox.com](mailto:pobox@pobox.com "Send an
     email to Pobox Support"), or send us paper mail at:
 
-IC Group, Inc.  
-PO Box 40918  
-Philadelphia, PA 19107  
+FastMail Pty Ltd  
+91 William St; Level 1  
+Melbourne, VIC 3000  
+AUSTRALIA  
 
