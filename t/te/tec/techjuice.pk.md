@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techjuice.pk privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616033417id_/http%3A//www.techjuice.pk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techjuice.pk privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228083447id_/https%3A//www.techjuice.pk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -17,3 +17,5 @@ These advertising companies may use information (None of which will disclose any
 If you wish to learn more about how this works, while also making yourself aware about your choices and wish to not have your personal information used by these companies you can email at: fatima[at]techjuice[dot]pk
 
 **If you have any inquiries, questions, or otherwise, you are always welcome to drop us an email on: inbox@techjuice.pk**
+
+* * *
