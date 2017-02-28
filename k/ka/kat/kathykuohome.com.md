@@ -1,6 +1,60 @@
-> *The following text is extracted and transformed from the kathykuohome.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731031731id_/https%3A//www.kathykuohome.com/Service/Info/privacynotice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kathykuohome.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228203315id_/https%3A//www.kathykuohome.com/Service/Info/privacynotice) for the most accurate reproduction.*
 
 # Privacy Notice | Kathy Kuo Home
+
+CUSTOMER SERVICE
+
+Contact Us
+
+Shipping
+
+Returns
+
+Product Review Policy
+
+Privacy Notice
+
+Terms & Conditions
+
+Gift Cards
+
+ORDERING
+
+Price Match Guarantee
+
+Canceling an Order
+
+Payment & Stock Status
+
+MY ACCOUNT
+
+My Account Information
+
+My Order History
+
+My Addresses
+
+My Pay Methods
+
+My Wishlist
+
+My Reviews
+
+ABOUT KATHY KUO HOME
+
+About Us
+
+Our Trade Program
+
+Our Services
+
+Our Products
+
+Press & Media
+
+| 
+
+**Privacy Notice**
 
 **We commit ourselves to your security and privacy.**
 
@@ -66,6 +120,10 @@ We use "cookies," which are small data files that are stored on your computer’
 
 You can set your browser not to accept cookies or to notify you when you are sent a cookie, giving you the opportunity to decide whether or not to accept it. If you set your browser not to accept cookies, you will need to call Customer Service toll free at 1.888.908.2925 in order to place your order.
 
+**How does Kathy Kuo Home collect, share, and use information and photos from my social media accounts?**
+
+We encourage our customers to share and connect with us on social media (including but not limited to Facebook, Twitter, Instagram, Pinterest, Polyvore, Google+, Tumblr, and YouTube). If you upload user-generated content to your social media accounts which you tag with our branded handle or hashtags, Kathy Kuo Home may collect that content, including your photo, social media username, caption information (if any) and location information (if any). By using our branded handle or hashtag, you consent to the collection, transfer, manipulation, storage, disclosure, and other uses of your post information. We may use this collected information to customize the content we show you and our customers, including advertisements, promotions, and marketing campaigns. 
+
 **How does Kathy Kuo Home keep my information secure?**
 
 We take precautions, including the use of encryption technologies and authentication tools, to protect the security of your personal information and to provide you with a safe and convenient shopping experience. We have in place certain physical, electronic, contractual, and managerial safeguards to protect the security and privacy of your personal information.
@@ -76,5 +134,25 @@ If for any reason you cannot access a secure server, or if you're not comfortabl
 
 For questions about our Privacy Policy, to make choices about receiving promotional communications, to update your personal information, or to place an order, you can contact Kathy Kuo Home by email or telephone.
 
-cs@kathykuohome.com  
-1.888.908.2925 (toll free).
+Email: cs@kathykuohome.com   Call: 1.888.908.2925 (toll free).
+
+| 
+
+MORE WAYS TO REACH US
+
+Call Us
+
+1-888-908-2925
+
+Hours
+
+9am to 6pm EST   
+Mon. to Fri. 
+
+Email
+
+cs@kathykuohome.com
+
+Online Message  
+  
+---|---|---
