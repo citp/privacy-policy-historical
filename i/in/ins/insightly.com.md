@@ -1,14 +1,20 @@
-> *The following text is extracted and transformed from the insightly.com privacy policy that was archived on 2016-11-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161112192446id_/https%3A//www.insightly.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the insightly.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228190029id_/https%3A//www.insightly.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Insightly
 
-**Effective Date: February 29, 2016**
+**Effective Date: January 9, 2017**
 
-This privacy policy applies to www.insightly.com and the Insightly platform on login.insight.ly, owned and operated by Insightly Inc. (Insightly). This privacy policy describes how Insightly collects and uses the personal information you provide us and it also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [www.insightly.com](https://www.insightly.com/) and the Insightly platform on login.insight.ly, owned and operated by Insightly Inc. (Insightly). This privacy policy describes how Insightly collects and uses the personal information you provide us and it also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-When registering for Insightly you can be certain that we have implemented comprehensive security practices to ensure that only registered users and those people who are provided authorized access to, can see your Insightly site. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at www.insightly.com (the “Site”) and login.insight.ly through our on-demand business productivity software, our support platform, and tools and services offered on the Site (the “Service”). The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged Insightly.
+When registering for Insightly you can be certain that we have implemented comprehensive security practices to ensure that only registered users and those people who are provided authorized access to, can see your Insightly site. We respect your right to privacy and feel it is important for you to know how we handle the information we receive from you via our website at [www.insightly.com](https://www.insightly.com/) (the “Site”) and login.insight.ly through our on-demand business productivity software, our support platform, and tools and services offered on the Site (the “Service”). The use of information collected through our service shall be limited to the purpose of providing the service for which the client has engaged Insightly.
 
-Insightly complies with the U.S.–E.U. Safe Harbor framework and the U.S.-Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. Insightly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Insightly’s certification, please visit <http://www.export.gov/safeharbor/>.
+Insightly Inc. complies with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information transferred from the European Union to the United States. Insightly Inc. has certified to the Department of Commerce that it adheres to the Privacy Shield Principles. If there is any conflict between the terms in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification, please visit <https://www.privacyshield.gov/>.
+
+In compliance with the Privacy Shield Principles, Insightly commits to resolve complaints about our collection or use of your personal information. European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Insightly at the address listed at the bottom of this privacy policy.
+
+Insightly has further committed to cooperate with EU data protection authorities (DPAs) with regard to unresolved Privacy Shield complaints. If you do not receive timely acknowledgment of your complaint from us, or if we have not addressed your complaint to your satisfaction, please contact the EU DPAs for more information or to file a complaint. The services of EU DPAs are provided at no cost to you.
+
+Insightly is subject to the investigatory and enforcement powers of the US Federal Trade Commission (FTC). In certain circumstances, the Privacy Shield Framework provides the right to invoke binding arbitration to resolve complaints not resolved by other means, as described in [Annex I to the Privacy Shield Principles](https://www.privacyshield.gov/article?id=ANNEX-I-introduction).
 
 ## Information You Provide
 
@@ -26,11 +32,11 @@ Insightly may also transmit or share your personal information with its third pa
 
 Insightly collects information under the direction of its clients and has no direct relationship with the individuals whose personal data it processes.
 
- **Choice** – We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly. If you are a Client and would like to update your account please contact us at [contact@insight.ly](mailto:contact@insight.ly).
+**Choice** – We collect information for our clients, if you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that use our service, please contact the client that you interact with directly. If you are a Client and would like to update your account please contact us at [contact@insight.ly](mailto:contact@insight.ly).
 
- **Service Provider, Sub-Processors/Onward Transfer** – Insightly may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
+**Service Provider, Sub-Processors/Onward Transfer** – Insightly may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
- **Access to Data Controlled by our Clients** – Insightly has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Insightly client (the data controller). If the client requests Insightly to remove the data, we will respond to their request within 30 business days.
+**Access to Data Controlled by our Clients** – Insightly has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the Insightly client (the data controller). If the client requests Insightly to remove the data, we will respond to their request within 30 business days.
 
 ## Cookies and Tracking Technologies
 
@@ -54,7 +60,9 @@ We partner with a third party to either display advertising on our Web site or t
 
 ## Information Sharing
 
-Except as described in this policy, Insightly will not give, sell, rent, share or loan any personal information to any third party. We may disclose such information to respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. Insightly may also provide non-personal, summary or group statistics about our customers, sales, traffic patterns, and related Site information to reputable third-party vendors, but these statistics will include no personal information.
+Except as described in this policy, Insightly will not give, sell, rent, share or loan any personal information to any third party. We may disclose such information to respond to subpoenas, court orders, or legal process (including requests to meet national security or law enforcement requirements), or to establish or exercise our legal rights or defend against legal claims.
+
+We may also share such information if we believe it is necessary in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms of Service, or as otherwise required by law. Insightly may also provide non-personal, summary or group statistics about our customers, sales, traffic patterns, and related Site information to reputable third-party vendors, but these statistics will include no personal information.
 
 ## Children’s Personal Information
 
@@ -80,7 +88,7 @@ You can import your basic contact information from your Google Contacts using In
 
 ## Social Media Widgets
 
-Our web site includes social media features, such as the Facebook Like button and widgets, such as the ShareThis button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
+Our web site includes social media features, such as the Facebook Like button and widgets, such as the ‘Share This’ button or interactive mini-programs that run on our site. These features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our web site. Your interactions with these features are governed by the privacy policy of the company providing it.
 
 ## Single Sign-On
 
@@ -88,7 +96,7 @@ You can log in to our site using sign-in services from Google. These services wi
 
 ## Testimonial
 
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [contact@insight.ly](mailto:contact@insight.ly).
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [contact@insight.ly](https://web.archive.org/web/20170228190029id_/https://www.insightly.com/privacy-policy/contact@insight.ly).
 
 ## Changes to Privacy Policy
 
@@ -100,14 +108,14 @@ Insightly may assign or transfer this privacy policy, and your user account and 
 
 ## Terms of Service
 
-When you access and use the Service, you are subject and bound to the Insightly [Terms of Service](https://www.insightly.com/terms-of-service/).
+When you access and use the Service, you are subject and bound to the [Insightly Terms of Service](https://www.insightly.com/terms-of-service/).
 
 ## Contact Us
 
 If you have questions regarding this privacy policy or about the security practices of Insightly, please contact us by email at [contact@insight.ly](mailto:contact@insight.ly). We would love to hear from you.
 
-Insightly Inc.  
-680 Folsom  
-#550  
-San Francisco, CA 94107  
+Insightly Inc.   
+680 Folsom   
+#550   
+San Francisco, CA 94107   
 USA
