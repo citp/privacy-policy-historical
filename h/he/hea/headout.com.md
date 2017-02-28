@@ -1,100 +1,133 @@
-> *The following text is extracted and transformed from the headout.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the headout.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228204219id_/https%3A//www.headout.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Headout
 
-**Go Daddy Respects Your Privacy**
+### Privacy Policy
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+This document represents a legal document that serves as our privacy policy (“Privacy Policy”). It governs the privacy terms of our Website. Our Privacy Policy is part of our Legal Terms. Capitalized terms, unless otherwise defined below, have the meaning specified within the Definitions section our Terms of Use (https://www.headout.com/terms-of-use).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+The last update to our Privacy Policy was posted on https://www.headout.com/privacy-policy.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+#### Your Privacy
 
-**Information Collection and Use**
+Headout Inc. (“ **Headout** ”) follows all legal requirements to protect your privacy. Our Privacy Policy is a legal statement that explains how we may collect information from you, how we may share your information, and how you can limit our sharing of your information.
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+We break up the types of information you share into Non Personal Information and Personally Identifiable Information.
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+"Non Personal Information" is information that is not personally identifiable to you and that we automatically collect when you access our Website with a web browser.
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+"Personally Identifiable Information" is non-public information that is personally identifiable to you and obtained in order for us to provide you within access to certain features of our Website. This can include information about your Entity as a Provider or as a Member when making purchases from a Provider. Personally Identifiable Information may include information such as your email address, physical location, business name, and other related information that you provide to us or that we obtain about you. It may also include any images that upload when using our Website as well as credit card or other payment information that you may present when making a purchase from a Provider through our Website ( **please note the important exception below under Online Purchases regarding payment information provided through our Website** ).
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+#### Information We Collect
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+Generally, you control the amount and type of information you provide to **Headout** when using our Website.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+As a Visitor, you can browse our Website to find out more about our Website. You are not required to provide us with any Personally Identifiable Information as a Visitor.
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+However, if registered as a Member, you must provide Personally Identifiable Information to **Headout** in order for us to provide you with certain features our Website. As a Member, we collect your Personally Identifiable Information in the following ways:
 
-**Security**
+##### At Member Registration
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+When you register for membership, we collect your name and email address so that we can communicate with you about our Website.
 
-**Updating Your Information**
+##### Participation in Our Website
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+You can upload Member Content as part of using our Website. You should take great care in what you may upload so as not to infringe on your own privacy or that of others. We don’t have a duty to review what you upload.
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+##### Online Purchases
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+Members can make purchases of products/services from a Provider through our Website. The payment information you provide clearly contains Personally Identifiable Information. However, any payment information that you give to a Provider outside of our Website is not subject to this Privacy Policy.
 
-      iii.      You may call us at: (480) 505-8800
+##### Online Forms
 
-       iv.      You may fax us at: (480) 505-8844
+There may be online forms used in our Website. The information you enter into these online forms may contain Personally Identifiable Information.
 
-**Sending Emails**
+#### Computer Information Collected
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+When you use our Website, **Headout** automatically collects certain computer information by the interaction of your mobile phone or web browser with our Website. Such information is typically considered Non Personal Information. **Headout** also collects the following:
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+##### Cookies
 
-**Compliance with Laws and Law Enforcement**
+Our Website uses “Cookies” to identify the areas of our Website that you have visited. A Cookie is a small piece of data stored on your computer or mobile device by your web browser. We use Cookies to personalize the Content that you see on our Website. Most web browsers can be set to disable the use of Cookies. However, if you disable Cookies, you may not be able to access functionality on our Website correctly or at all. We never place Personally Identifiable Information in Cookies.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+##### Web Beacons
 
-**Third Party Service Providers**
+We may also use a technology called, web beacons, to collect general information about your use of our Website and your use of special promotions or newsletters (“Web Beacons”). The information we collect by Web Beacons allows us to statistically monitor the number of people that open our emails. Web Beacons are not used to track your activity outside of our Website. We do not link Non Personal Information from the Web Beacons to Personally Identifiable Information without your permission.
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+##### Automatic Information
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
+We automatically receive information from your web browser or mobile device. This information includes the name of the Website from which you entered our Website, if any, as well as the name of the Website to which you’re headed when you leave our Website. This information also includes the IP address of your computer/proxy server that you use to access the Internet, your Internet Website provider name, web browser type, type of mobile device, and computer operating system. We use all of this information to analyze trends among our Users to help improve our Website.
 
-**Supplementation of Information**
+#### How We Use Your Information
 
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
+**Headout** uses the information we receive from you as follows:
 
-**Contests/Surveys**
+##### Providing and Improving Our Website
 
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
+**Headout** may use the Personally Identifiable information you provide to us along with any computer information we receive to provide our Website to you as well as to make improvements to it.
 
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
+##### Communications and Email Alerts
 
-**Tell-A-Friend**
+When **Headout** communicates with you about our Website, we will use the email address you provided when registering as a Member. We may also send you Website alerts regarding your use of our Website. Finally, we may also send you emails with promotional information about **Headout** , unless you have opted out of receiving such information. You can change contact preferences at any time through your account. While you can opt-out of promotional messages, you cannot opt-out of receiving Website alerts.
 
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
+##### Sharing Information with Affiliates and Other Third Parties
 
-**What Happens to my Personal Information if I Opt Out?**
+**Headout** does not sell, rent, or otherwise provide your Personally Identifiable Information to third parties for marketing purposes. However, we may use demographic information for data aggregation purposes which might be sold to other parties at our discretion. Any such data aggregation would not contain any of your Personally Identifiable Information. We may provide your Personally Identifiable Information to affiliates that provide Websites to **Headout** with regards to our Website (i.e. payment processors, webhosting companies, etc.); such affiliates will only receive information necessary to provide the respective Websites and will be bound by confidentiality agreements limiting the use of such information.
 
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
+##### Community Discussion Boards
 
-**Transfer of Data Abroad**
+Our Website may offer the capability for Users to communicate with each other through online community discussion boards. **Headout** does not filter or monitor what is posted on such discussion boards. If you chose to post on these discussion boards, you should use care when exposing any Personally Identifiable Information as such information is not protected by our Privacy Policy nor are we liable should you choose to disclose Personally Identifiable Information through such postings.
 
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
+##### Legally Required Releases of Information
 
-**Changes in Our Practices**
+**Headout** may be legally required to disclose your Personally Identifiable Information, if such disclosure is (a) required by subpoena, law, or other legal process; (b) necessary to assist law enforcement officials or government enforcement agencies; (c) necessary to investigate violations of or otherwise enforce our Legal Terms; (d) necessary to protect us from legal action or claims from third parties including you and/or other Members; and/or (e) necessary to protect the legal rights, personal/real property, or personal safety of **Headout** , our Users, employees, and affiliates.
 
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
+##### Disclosures to Successors
 
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
+If **Headout** is acquired or merges, in whole or in part, with another business that would become responsible for providing the Website to you, we retain the right to transfer your Personally Identifiable Information to the new business. The new business would retain the right to use your Personally Identifiable Information according to the terms of this Privacy Policy as well as to any changes to this Privacy Policy as instituted by the new business.
 
-**Contacting Our Site**
+#### Protecting Your Child’s Privacy
 
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
+We want to protect your Child’s privacy. Even though our Website is not designed for use by a Child, we realize that a Child may attempt to access our Website. We do not knowingly collect Personally Identifiable Information from a Child. If you are a parent or guardian and believe your Child is using our Website, please contact us. We may ask for proof of identification before we remove any information to prevent malicious removal of account information. If we discover on our own that a Child is accessing our Website, we will delete the information as soon as we discover it, we will not use the information for any purpose, and we will not disclose the information to third parties. You acknowledge that we do not verify the age of our users nor do we have any liability to do so. If you are a Child, please do not access our Website.
 
-* * *
+#### Protecting the Privacy Rights of Third Parties
 
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+We believe in everyone’s right to privacy. If any Member Content you upload to our Website contain the images of third parties (i.e. bystanders), you need to make sure you have permission to include them in your image. While we are not legally liable for the actions of our Users, we will remove any images for which we are notified that such images violate the privacy rights of others.
+
+#### Links to Other Websites
+
+Our Website may contain links to other websites (“Third Party Websites”). You agree that **Headout** has no control over such Third Party Websites and that such Third Party Websites are NOT subject to this Privacy Policy. These Third Party Websites may have their own privacy policies and other legal documents. It is your sole responsibility to verify the privacy policies and other legal documents of such Third Party Websites to see how they treat your personal information. You acknowledge that your use and access of these Websites is solely at your own risk.
+
+#### Our Email Policy
+
+**Headout** and our affiliates fully comply with international laws regarding SPAM. You can always opt out of receipt of further email correspondence from **Headout** and/or our affiliates. We agree that we will not sell, rent, or trade your email address to any unaffiliated third-party without your permission. 
+
+#### Our Security Policy
+
+**Headout** has constructed our Website using industry standard encryption and authentication tools to protect your Personally Identifiable Information. When we collect your Personally Identifiable Information through our Website, we encrypt this information and attempt to prevent unauthorized access to it by using industry standard technologies, such as encryption software, routers and firewalls. Unfortunately, due to the nature of the Internet, we cannot completely guarantee that your Personally Identifiable Information is completely protected. We strongly urge you to protect any password you may have for our Website and to not share it with anyone. You should always log out of our Website when not in use, especially if you are sharing a computer or mobile device with someone else or are using a public computer.
+
+#### Privacy Policy Updates
+
+**Headout** reserves the right to modify this Privacy Policy at any time. You should review this Privacy Policy frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page. We will also change the "Last Updated" date at the beginning of this Privacy Policy. Any changes we make to our Privacy Policy are effective as of this Last Updated date and replace any prior Privacy Policies.
+
+#### Changing Your Information
+
+You may change your email address or other Personally Identifiable Information at any time using the account management features found on our Website.
+
+#### Questions About Our Privacy Practices or This Privacy Policy
+
+If you have any questions about our Privacy Practices or this Policy, please contact us by email at [privacy@headout.com](mailto:privacy@headout.com).
+
+#### Your California Privacy Rights
+
+Your California Privacy Rights identifies the practices of **Headout** as they relate to the use and sharing of personal information about California residents collected through this website.
+
+Under the law of the State of California, California residents who provide personal information via a website or other online service, such as this website, may request and obtain from **Headout** , once each calendar year, information about the personal information **Headout** shared, if any, with other businesses for their own direct marketing uses. Where applicable, this information would include the categories of personal information, and the names and addresses of those businesses with which **Headout** shared personal information for the prior calendar year.
+
+To obtain from **Headout** the information specified by California law, please contact:
+
+By Mail: Headout Inc.   
+Attn: CEO   
+500 7th Avenue, Floor 17A   
+New York, NY 10018   
+By E-mail: hi@headout.com 
