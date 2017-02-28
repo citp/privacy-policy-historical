@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pgi.com privacy policy that was archived on 2016-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160912004218id_/https%3A//www.pgi.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pgi.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228041849id_/https%3A//www.pgi.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PGi
 
@@ -6,7 +6,7 @@ Premiere Global Services, Inc. and our subsidiaries (collectively, “PGi”) re
 
 Scope
 
-This Policy applies to all of the services offered by PGi (“PGi Services”) and all of PGi’s websites, including all PGi websites such as [www.pgi.com](https://web.archive.org/web/20160912004218id_/https://www.pgi.com/), [www.imeet.com](http://www.imeet.com/), [www.globalmeet.com](http://www.globalmeet.com/) and [www.budgetconferencing.com](http://www.budgetconferencing.com/) link to this Policy (collectively, the “Websites”) (but not to those PGi websites that have their own privacy policy) and to all personal information that we directly collect or receive from you, whether manually or digitally processed. It does not apply to information our customers collect or receive from you. While we take commercially reasonable measures to protect all personal information in our control or possession, we cannot guarantee or enforce the privacy policies of our customers. For this reason, we encourage you to review the privacy policies of our customers’ websites before disclosing any personal information to or through them.
+This Policy applies to all of the services offered by PGi (“PGi Services”) and all of PGi’s websites, including all PGi websites such as [www.pgi.com](https://web.archive.org/web/20170228041849id_/https://www.pgi.com/), [www.imeet.com](http://www.imeet.com/), [www.globalmeet.com](http://www.globalmeet.com/) and [www.budgetconferencing.com](http://www.budgetconferencing.com/) link to this Policy (collectively, the “Websites”) (but not to those PGi websites that have their own privacy policy) and to all personal information that we directly collect or receive from you, whether manually or digitally processed. It does not apply to information our customers collect or receive from you. While we take commercially reasonable measures to protect all personal information in our control or possession, we cannot guarantee or enforce the privacy policies of our customers. For this reason, we encourage you to review the privacy policies of our customers’ websites before disclosing any personal information to or through them.
 
 TRUSTe Certification
 
