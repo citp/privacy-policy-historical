@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the haikulearning.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121151420id_/http%3A//www.haikulearning.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the haikulearning.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228034234id_/https%3A//www.haikulearning.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Haiku Learning
 
@@ -102,7 +102,7 @@ The Haiku Learning website and Service has industry standard security measures i
 #### Opt-in Service Providers (Optional based on School Preference)
 
   * [Credly](https://credly.com/privacy) \- Schools can choose to connect their Haiku Learning account with their existing Credly account. In this case, Haiku Learning requires you to input your Credly username and password to set up the integration. Once the integration is set up, Badges you award in Haiku Learning are passed to your School or Teacher account.
-  * [Google Apps](https://www.google.com/edu/trust/) \- Schools can choose to connect their Google Apps domain to Haiku Learning. Haiku Learning uses Google Apps APIs to make requests on behalf of users. We may send email addresses to Google for identification purposes.
+  * [Google Suite](https://www.google.com/edu/trust/) \- Schools can choose to connect their G Suite domain to Haiku Learning. Haiku Learning uses G Suite APIs to make requests on behalf of users. We may send email addresses to Google for identification purposes.
   * [Rustici (SCORM Cloud)](http://scorm.com/privacy-policy/) \- SCORM activities uploaded to Haiku Learning are sent to Rustici for processing. This may include student names, emails and responses to activities.
   * SIS Integrations - We support many third party SIS integrations. Schools can choose to utilize these integrations at their discretion. In most cases, data is passed to Haiku Learning from the SIS, and in some cases Haiku Learning passes student grade information back to the SIS.
   * LTI Tool Providers - LTI Tools are approved and added by Schools on an individual basis. Each provider has a different set of required fields for the integration to work. Often these fields require user ID, name, username and/or email.
@@ -137,7 +137,7 @@ If you have any questions about reviewing or modifying account information, cont
 
 **Access to Student Data:** Student Data is provided and controlled by the Schools. If you have any questions about reviewing, modifying or deleting personal information of a student, please contact your School directly.
 
-**Deleting or disabling cookies:** You may be able to disallow cookies to be set on your browser. Please look for instructions on how to delete or disable cookies and other tracking/recording tools on your browser’s technical settings. You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers. For more information on cookies, visit [www.allaboutcookies.org](https://web.archive.org/web/20161121151420id_/http%3A//www.haikulearning.com/www.allaboutcookies.org). Remember, disabling cookies may disable many of the features available on the Services, so we recommend you leave cookies enabled.
+**Deleting or disabling cookies:** You may be able to disallow cookies to be set on your browser. Please look for instructions on how to delete or disable cookies and other tracking/recording tools on your browser’s technical settings. You may not be able to delete or disable cookies on certain mobile devices and/or certain browsers. For more information on cookies, visit [www.allaboutcookies.org](https://web.archive.org/web/20170228034234id_/https%3A//www.haikulearning.com/www.allaboutcookies.org). Remember, disabling cookies may disable many of the features available on the Services, so we recommend you leave cookies enabled.
 
 **How long we keep User Content:**
 
