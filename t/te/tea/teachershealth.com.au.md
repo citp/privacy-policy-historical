@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106134745id_/https%3A//www.teachershealth.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teachershealth.com.au privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228230842id_/https%3A//www.teachershealth.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Teachers Health Fund
 
@@ -194,7 +194,7 @@ If a member wishes to access or correct any personal information which THF holds
 
 If a member requires access to their eye care records, eye test results or dental records, they may do so by contacting the eye care or dental care provider directly.
 
-If a member requires access to their health-related service records managed by THCS, they may do so by contacting the Clinical Operations Manager directly on (02) 8346 2227 or by email on[info@teachershealthcare.com.au](mailto:info@teachershealthcare.com.au) (refer to section 11).
+If a member requires access to their health-related service records managed by THCS, they may do so by contacting the Clinical Operations Manager directly on (02) 8346 2227 or by email on [info@teachershealthcare.com.au](mailto:info@teachershealthcare.com.au) (refer to section 11).
 
 THF will respond to a member’s access request as soon as practicable and, in any case, within 30 days of the request being made to THF. THF will either respond by providing the member with the access or amendments they have requested, or by providing them with the reasons for refusing to do so.
 
