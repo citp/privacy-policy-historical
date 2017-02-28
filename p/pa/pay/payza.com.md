@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the payza.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108202813id_/https%3A//www.payza.com/online-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payza.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228182311id_/https%3A//www.payza.com/online-privacy) for the most accurate reproduction.*
 
 # Payza | Send Money, Receive Payment, Money Transfer, Shop & Sell Online
 
