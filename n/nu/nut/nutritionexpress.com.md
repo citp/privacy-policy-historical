@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229163053id_/http%3A//www.nutritionexpress.com/Policy/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nutritionexpress.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228180712id_/https%3A//www.nutritionexpress.com/Policy/Privacy) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -6,7 +6,7 @@ Privacy Policy
 
 The privacy of online Nutrition Express customers is treated with respect because we know that you care about your personal information. Please take a few minutes and read about our privacy practices.
 
-Nutrition Express (“we”, “us” or “our”) operates [www.nutritionexpress.com](http://www.nutritionexpress.com/) (the “Site”).  This page informs you of our policies regarding the collection, use, storage and disclosure of personal information we receive from users of the Site. By visiting and using the Site, you agree to the collection and use of information in accordance with the terms of this Privacy Policy.
+Nutrition Express (“we”, “us” or “our”) operates [www.nutritionexpress.com](https://www.nutritionexpress.com/) (the “Site”).  This page informs you of our policies regarding the collection, use, storage and disclosure of personal information we receive from users of the Site. By visiting and using the Site, you agree to the collection and use of information in accordance with the terms of this Privacy Policy.
 
 This document should answer any questions you may have regarding user privacy and our Site.
 
@@ -48,7 +48,7 @@ The security of your Personal Information is important to us. However, no method
 
 **Telephone Contact:** Users may be contacted by phone if there is a problem or question about an order that they have placed. Also, from time to time, we may phone a small percentage of our customers for input on how to improve our service and product selection.
 
-**Email Contact:** From time to time, we send Nutrition Express newsletter-related emails to our customers, which may include special offers, news, newsletters, promotions, product updates, notice of website updates, etc. Each newsletter-related email message we send provides instructions for unsubscribing from future Nutrition Express mailings. Please allow some time to pass for your preferences to be processed. When you make a purchase, you will automatically be subscribed to our emails unless you opt out during checkout. To opt-out during checkout,  uncheck the “Stay In Touch” box directly under the field where you enter your email address. You may also remove yourself from the email newsletter-related list at any time by logging into your account and editing your Email Preferences, or you may contact Customer Care at 800-754-8000 and tell them you wish to unsubscribe, or you can [contact us](http://www.nutritionexpress.com/policy/contactus) by email to unsubscribe.
+**Email Contact:** From time to time, we send Nutrition Express newsletter-related emails to our customers, which may include special offers, news, newsletters, promotions, product updates, notice of website updates, etc. Each newsletter-related email message we send provides instructions for unsubscribing from future Nutrition Express mailings. Please allow some time to pass for your preferences to be processed. When you make a purchase, you will automatically be subscribed to our emails unless you opt out during checkout. To opt-out during checkout,  uncheck the “Stay In Touch” box directly under the field where you enter your email address. You may also remove yourself from the email newsletter-related list at any time by logging into your account and editing your Email Preferences, or you may contact Customer Care at 800-754-8000 and tell them you wish to unsubscribe, or you can [contact us](https://www.nutritionexpress.com/policy/contactus) by email to unsubscribe.
 
 If you unsubscribe from the newsletter-related emails, we reserve the right to contact you via email regarding your order or backorder and send order-related emails such as order and ship confirmations.
 
@@ -56,11 +56,11 @@ If you unsubscribe from the newsletter-related emails, we reserve the right to c
 
 We reserve the right, in our sole discretion, to update or change this Privacy Policy at any time without prior notice. You should check this Privacy Policy periodically and look for the “Last Updated” date at the top of this Privacy Policy, which indicates the date of a material change. If you visit the site after we post any modifications to the Privacy Policy, your continued use of the Site shall constitute your acknowledgement of the modifications and your consent to abide and be bound by the modified Privacy Policy. If you object to any of the terms in the modified Privacy Policy, you have the right to stop using the Site.
 
-For further information on use and liability, please see our [Terms of Use Agreement](http://www.nutritionexpress.com/Policy/TermsOfUse).
+For further information on use and liability, please see our [Terms of Use Agreement](https://www.nutritionexpress.com/Policy/TermsOfUse).
 
 **Contact Us**
 
-If you have any questions about this Privacy Policy, email us at [Customer Care](http://www.nutritionexpress.com/Policy/ContactUs/), or send us a letter addressed to:
+If you have any questions about this Privacy Policy, email us at [Customer Care](https://www.nutritionexpress.com/Policy/ContactUs/), or send us a letter addressed to:
 
 Nutrition Express  
 Customer Care  
