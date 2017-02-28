@@ -1,100 +1,63 @@
-> *The following text is extracted and transformed from the startmeeting.com privacy policy that was archived on 2011-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110627154744id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startmeeting.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228101151id_/https%3A//www.startmeeting.com/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | StartMeeting
 
-**Go Daddy Respects Your Privacy**
+Last Updated: October 25th, 2016 
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+CarrierX, LLC (“CarrierX”) is committed to respecting the privacy of all users (“users,” “you”) of our website(s) and mobile applications and the products and services available on such websites and mobile applications (collectively, the “Services”). We have established and implemented this Privacy Statement to inform you of the information we collect from you on in connection with the Services, how we collect and use your information, with whom and for what purposes we may share your information, and the choices you can make about our use of your information.   
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+YOUR PERSONAL INFORMATION MAY BE PROCESSED BY US IN THE COUNTRY WHERE IT WAS COLLECTED AS WELL AS OTHER COUNTRIES (INCLUDING THE UNITED STATES) WHERE LAWS REGARDING PROCESSING OF PERSONAL INFORMATION MAY BE LESS STRINGENT THAN THE LAWS IN YOUR COUNTRY. BY USING THE SERVICES AND PROVIDING ANY PERSONAL INFORMATION, YOU ARE CONSENTING TO THE TRANSFER OF DATA FROM YOUR COUNTRY TO A COUNTRY THAT HAS LESS STRINGENT LAWS, AND THE PROCESSING OF YOUR PERSONAL INFORMATION IN CONFORMANCE WITH THIS POLICY. **__**
 
-**Information Collection and Use**
+**Types of Personal Information We Collect**
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+The phrase "Personal Information" in this Privacy Policy means contact information (e.g., name, address, email address, mailing address, telephone number) and any other information that personally identifies an individual. 
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+In general, we collect Personal Information in connection with the provision of the Services. There are certain Services that are only provided to users who have established an account with us ("Account"). To register for an Account, we require that you provide certain Personal Information, including your name, email address, mailing address, and phone number. If you are registering for a Service that requires payment, we will also collect payment information, including (i) your name as it appears on the card; (ii) the credit card type; (iii) a valid credit card number; (iv) the date of expiration of your credit card; (v) your billing address; and (vi) any activation numbers or codes needed to charge your card. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We may also collect Personal Information that you submit to us voluntarily when you correspond with us or interact with the Services. We may combine your Personal Information with information we receive offline, such as when you interact with our customer service group, or that we obtain through third party sources. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+You can always decline to provide any Personal Information to us—it is your choice, and you are under no obligation to provide Personal Information to us. However, if you decide not to provide such information, then you may not be able to use or purchase the Services. At any point, you may access, review, and modify your Personal Information from your Account, or by contacting us at the number provided below. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+**In-Session Information**
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+Information collected during your use of the Services, including domestic and international audio, web and video conferencing services, live chat, voicemail, audio, web and video recording, voice broadcasting services and other voice and messaging services. In addition, the company offers assorted features and applications as part of its Services is protected by the use of end-to-end encryption and only accessible to those users you invite, or with whom you otherwise choose to share information. You will have the ability to record, store, and access information related to your use of the Services, and we will not access this information except as may be necessary to support the Services and anticipate, diagnose, or resolve problems that may limit or disrupt the Services, or as may be required by law. Please be aware that any Personal Information you provide to other users during your use of the Services can be collected, used, maintained, shared, or disclosed by those users, and we are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such users. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Types of Anonymous Information We Collect**
 
-**Security**
+We may also collect and store certain information that does not identify you, such as your Internet protocol address, browser type, domain names and access times (“Anonymous Information”). As you navigate, use, or otherwise interact with the Services, we may use automatic data collection technologies to collect certain information about your equipment and browsing actions, including without limitation: (i) information about your computer or mobile device and internet connection; (ii) details about your visit to the Services, including resources you use on the Services and other traffic, navigational, or communication data; and (iii) your geolocation information. We may also use Cookies (as defined below) and other tracking technologies to collect information about your online activities. "Cookies" are small pieces of information that a website sends to your browser while you are viewing a website. You can instruct your browser, by changing its options, to stop accepting Cookies or to prompt you before accepting a Cookie from the websites you visit. We do not track users across third party websites and therefore do not respond to Do Not Track signals. We may use your Anonymous Information to analyze usage patterns so that we may enhance the Services and improve our internal operations and the content of our software. We may combine such data with certain of your Personal Information. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**How We Use Personal Information**
 
-**Updating Your Information**
+In general, we may use your Personal Information to: 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+  * Administer your Account and verify your identity; 
+  * Process your payments and fulfill your orders; 
+  * Provide you with the Services and customer support; 
+  * Tailor the features, performance, and support of the Services to you; 
+  * Market the Services to you; 
+  * Respond to your requests, resolve disputes, and/or troubleshoot problems; 
+  * Improve the quality of the Services; and 
+  * Communicate with you about the Services. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
 
-      iii.      You may call us at: (480) 505-8800
+CarrierX uses email to contact its customers. If you voluntarily submit your email address to receive information, we may subsequently issue Service information to you via email, including technical advisories. Customers receive an initial registration email with all account details listed. After each call, customers receive call detail reports via email. Finally, CarrierX uses email to communicate promotions and product updates with customers (“Promotional Emails”); however, we respect your right to opt out of receiving such Promotional Emails from us. If, at any time after registering, you change your mind about receiving Promotional Emails, you can opt out of receiving such information by sending your request to services@freeconferencecall.com. In addition, you can choose to opt out of the Promotional Emails via the “opt out” link included in each email. 
 
-       iv.      You may fax us at: (480) 505-8844
+**With Whom We Share Personal Information**
 
-**Sending Emails**
+We may disclose your Personal Information: (i) to third party vendors who help us provide the Services, including vendors that help us verify your identity and vendors that process payments for us; (ii) to third parties to whom you ask or authorize us to send Personal Information (including other users) by opting in; (iii) to any subsidiary organizations, joint ventures, or other organizations under our control (collectively, "Affiliates"), in which case we will require our Affiliates to honor this Privacy Statement; (iv) to a company that merges with us, acquires us, or purchases substantially all of our assets, in which case such company may continue to process your Personal Information as set forth in this Privacy Statement; or (v) if we believe in good faith that such disclosure is necessary to: (1) resolve disputes, investigate problems, or enforce our Terms of Service; (2) comply with relevant laws or to respond to requests from law enforcement or other government officials relating to investigations or alleged illegal activity, in which case we can (and you authorize us to) disclose Personal Information without subpoenas or warrants served on us; or (3) protect and defend our rights or property or the rights and property of you or third parties. Except as otherwise stated in this Privacy Policy, we do not trade, rent, or share the Personal Information that we collect with unaffiliated third parties including for their own independent marketing or use. 
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+**Third Party Links**
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+The Services may contain links to third parties' websites. Please note that we are not responsible for the collection, use, maintenance, sharing, or disclosure of data and information by such third parties. If you provide information on third party sites, the privacy policy and terms of service on those sites are applicable. We encourage you to read the privacy policies of websites that you visit before submitting Personal Information. 
 
-**Compliance with Laws and Law Enforcement**
+**Other Information**
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+We exercise reasonable security measures to help protect against the loss, misuse, and alteration of your Personal Information. CarrierX hosts its Sites and the collected data in a secure environment that uses reasonable technology to help prevent interference or access from unauthorized persons. Sensitive information that is transmitted to us online (such as credit card number) is encrypted and is transmitted to us securely. Despite such efforts, however, please note that no company, including CarrierX can fully eliminate risks or guarantee the security of your Personal Information; unauthorized entry or use, hardware or software failure, and other factors may compromise the security of information about you at any time. Consequently, we do not guarantee the security of any information you provide to CarrierX through the Sites. 
 
-**Third Party Service Providers**
+We do not knowingly collect or solicit personally identifiable information from anyone under the age of 13. If you are under the age of 13, please do not provide us with any Personal Information. If we learn that we have inadvertently obtained personally identifiable information from a minor under the age of 13, we will delete that information as soon as possible. If you believe that a minor under the age of 13 has submitted Personal Information to us, please contact us using the contact information listed below. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
+This Privacy Statement is subject to revision from time to time on a going-forward basis. We will post any revised version of the Privacy Statement on this page. If we make any material changes to it, we will also send you notice to the last email address you have provided to us. Continued use of the Services following notice of such changes will indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information if necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+For any additional information, or to contact CarrierX, you can email [info@freeconferencecall.com](mailto:info@freeconferencecall.com) or call (844) 844-1322. 
