@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pintastic.com privacy policy that was archived on 2015-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150908004354id_/https%3A//pintastic.com/Privacy-Policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pintastic.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228205444id_/https%3A//pintastic.com/Privacy-Policy-2) for the most accurate reproduction.*
 
 # Pintastic Pricacy Policy - Pinterest ™ Clone Script - Pintastic Ultimate Pinboard
 
