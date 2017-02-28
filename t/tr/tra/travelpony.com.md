@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the travelpony.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228025315id_/http%3A//www.travelpony.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelpony.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228182425id_/http%3A//www.travelpony.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | TravelPony
 
