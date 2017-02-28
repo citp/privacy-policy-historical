@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the antar.in privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731015931id_/http%3A//www.antar.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the antar.in privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228061003id_/http%3A//www.antar.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Antar
 
@@ -45,4 +45,4 @@ we include links to third parties on this website. Where we provide a link it do
 
 **Contacting Us**
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [This email address is being protected from spambots. You need JavaScript enabled to view it.](mailto:%3Cspan%20id=)[">](mailto:%3Cspan%20id=)[admin@antar.in](mailto:admin@antar.in)
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at [](mailto:admin@antar.in)[admin@antar.in](mailto:admin@antar.in)
