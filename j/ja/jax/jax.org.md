@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823131536id_/https%3A//www.jax.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jax.org privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228212854id_/https%3A//www.jax.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy
 
@@ -8,9 +8,9 @@ The Jackson Laboratory is strongly committed to protecting your privacy and prov
 
 We collect two types of information during Web visits:
 
- 1) information that you submit to us; and
+ 1] information that you submit to us; and
 
- 2) information automatically recorded by our computer server.
+ 2] information automatically recorded by our computer server.
 
 We will never intentionally collect any information from children or minors. No part of The Jackson Laboratory website is targeted to children or minors.
 
