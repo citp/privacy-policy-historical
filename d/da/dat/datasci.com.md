@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the datasci.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008234828id_/http%3A//datasci.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the datasci.com privacy policy that was archived on 2017-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170228214355id_/https%3A//www.datasci.com/all-events/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
