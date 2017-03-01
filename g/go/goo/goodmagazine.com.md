@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the goodmagazine.com privacy policy that was archived on 2015-12-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151210065616id_/http%3A//magazine.good.is/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodmagazine.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301233512id_/https%3A//www.good.is/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
 This privacy policy is a legal notice about how we use personal information collected on this website. The information below outlines what information is collected (yes, we do collect some), how we may use that information (we may use some of it), the persons to whom the personal information may be disclosed, and the security measures taken to protect the personal information.
 
-Last Updated on September 4, 2014.
+Last Updated on April 13, 2016.
 
-This Privacy Policy discloses the privacy practices for GOOD.is, GOOD Finder, GOOD Maker, GOOD Mobile, the Daily GOOD, the GOOD Store, and GOOD Magazine online (collectively referred to as “GOOD”). If you have questions or concerns about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
+_To view changes made in the last update, please click[here](http://assets.goodstatic.com/s3/magazine/updatable/static-pages/privacy/privacy-policy-markup-april-2016.pdf)._
+
+This Privacy Policy discloses the privacy practices for GOOD.is, GOOD Mobile, the Daily GOOD, the GOOD Store, and GOOD Magazine online (collectively referred to as “GOOD”). If you have questions or concerns about any aspect of this policy, please feel free to contact our Privacy Policy Coordinator as follows:
 
 Privacy Policy Coordinator (Web)  
 GOOD Worldwide Inc  
@@ -14,7 +16,7 @@ GOOD Worldwide Inc
 15th Floor  
 Los Angeles, CA 90048
 
-Please read this Privacy Policy carefully. You can access the Privacy Policy anytime at community.good.is/about/privacy. Your use and/or registration on any aspect of GOOD will constitute your agreement to this Privacy Policy. This privacy policy does not cover information collected elsewhere, including, without limitation, offline and on sites linked to from GOOD.
+Please read this Privacy Policy carefully. You can access the Privacy Policy anytime at [good.is/privacy](http://good.is/privacy). Your use and/or registration on any aspect of GOOD will constitute your agreement to this Privacy Policy. This privacy policy does not cover information collected elsewhere, including, without limitation, offline and on sites linked to from GOOD.
 
 1\. What this Policy Covers. This policy covers our treatment of information that we obtain when you visit GOOD. This policy does not cover the privacy practices of third parties that we do not own or control, such as our partners or advertisers. In addition we may provide links to other services and on occasion links to other sites that may interest you. All of these sites own independently of GOOD and they have their own privacy and security practices. For your best on-line experience, we encourage you to review their privacy policies before submitting personal information to them.
 
@@ -56,7 +58,7 @@ We may also use the information to communicate with you about new features, prod
 
 3.3. Third Party Service Providers. GOOD will allow access to our database by third parties that provide services on our behalf, including credit-card and billing processing, shipping, email distribution, list processing, and analytics or promotions management. Our service providers are restricted from using any data in any way other than to provide services for GOOD and they may not share or resell our data.
 
-3.4. Affiliates and Partners. Unless otherwise specified elsewhere on GOOD, we may share personally identifying information with our affiliates, and with carefully selected partners.
+3.4. Advertisers, Affiliates and Partners. Unless otherwise specified elsewhere on GOOD, we may share personally identifying information with our affiliates, with carefully selected partners, with advertisers, and with ad networks including but not limited to Open X, Facebook, Taboola and Google AdX. Our advertisers and ad networks may gather information about you and use the information for targeted advertising. If you would like to opt out of targeted advertising, please see the guidelines located on the Consumer Opt Out Page of the National Advertising Initiative’s website, or if you would like to opt out of the collection and use of mobile app data, you may do so through the device-level advertising preference setting available in the settings menus of your iOS and/or Android devices.
 
 ### 4\. Our Email Policy. GOOD complies fully with the federal CAN SPAM Act of 2003.
 
@@ -68,7 +70,7 @@ We may also use the information to communicate with you about new features, prod
 
 ### 5\. Kids and Parents.
 
-GOOD is not intended for use by children under the age of 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian (s) before making purchases, including subscriptions on the site. If you are worried about you're your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described above.
+GOOD.is not intended for use by children under the age of 13. No one under age 13 is allowed to provide any personal information or use our public discussion areas, forums, and chats. Minors between the ages of 13 and 17 must get the permission of their parent(s) or legal guardian (s) before making purchases, including subscriptions on the site. If you are worried about you're your children's activities or their privacy on our site, we encourage you to contact our Privacy Policy Coordinator as described above.
 
 ### 6\. Legal Stuff.
 
@@ -94,4 +96,4 @@ GOOD's website is intended for and directed to users in the United States. If yo
 
 ### 10\. Updates to Our Privacy Policy.
 
-Our service is evolving and developing. From time to time, we will review and make changes to our privacy policy. When we do so, we will notify you either by email or place a prominent notice on our website. The most recent version of our privacy policy is always available from a link on our homepage, and at good.is/privacy. We encourage you to visit this site frequently to stay up to date on our current policy.
+Our service is evolving and developing. From time to time, we will review and make changes to our privacy policy. When we do so, we will notify you either by email or place a prominent notice on our website. The most recent version of our privacy policy is always available from a link on our homepage, and at [good.is/privacy](http://good.is/privacy). We encourage you to visit this site frequently to stay up to date on our current policy.
