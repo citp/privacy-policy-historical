@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the skiutah.com privacy policy that was archived on 2016-11-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161126091528id_/http%3A//www.skiutah.com/Privacy-Policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the skiutah.com privacy policy that was archived on 2017-03-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170301120124id_/http%3A//www.skiutah.com/Privacy-Policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js" xmlns:fb="http://www.facebook.com/2008/fbml"><!--<![endif]--><head>
 <base href="http://www.skiutah.com/about/Privacy-Policy/index.html/">
 <meta http-equiv="x-ua-compatible" content="ie=edge">
-
+    <meta name="referrer" content="always">
     <title>
       Privacy Policy
        -
@@ -49,7 +49,7 @@
     
     <link rel="stylesheet" type="text/css" href="//cloud.typography.com/660178/784488/css/fonts.css">
 
-    <script async="" src="//s.btstatic.com/tag.js#site=6EeDEhH"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5JX46C"></script><script type="text/javascript" src="http://www.skiutah.com/@@/winter4.static/js/modernizr.js"></script>
+    <script async="" src="//s.btstatic.com/tag.js#site=6EeDEhH"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-5JX46C"></script><script type="text/javascript" src="http://www.skiutah.com/@@/winter4.static/js/modernizr.min.js"></script>
 
 
     
@@ -105,7 +105,7 @@
       
 <script type="text/javascript">
 googletag.cmd.push(function() {
-googletag.defineSlot('/13513669/runofsite_980x50_pushdown', [[980, 50], [980, 312]], 'div-gpt-ad-1407787744223-HEX').addService(googletag.pubads());
+googletag.defineSlot('/13513669/none', [[980, 50], [980, 312]], 'div-gpt-ad-1407787744223-HEX').addService(googletag.pubads());
 googletag.defineSlot('/13513669/runofsite_320x50_mobileleaderboard', [320, 50], 'div-gpt-ad-1407787744223-MOB').addService(googletag.pubads());
 googletag.defineSlot('/13513669/blogposts_728x90', [728,90], 'div-gpt-ad-1407787744223-LDB').addService(googletag.pubads());
 googletag.defineSlot('/13513669/runofsite_300x250_bottomrow', [300, 250], 'div-gpt-ad-1407787744223-BLR').addService(googletag.pubads());
@@ -114,7 +114,7 @@ googletag.defineSlot('/13513669/runofsite_300x250_bottomrow', [300, 250], 'div-g
 googletag.defineSlot('/13513669/runofsite_300x250_side', [300, 250], 'div-gpt-ad-1407787744223-TRR').addService(googletag.pubads());
 googletag.defineSlot('/13513669/none', [300, 250], 'div-gpt-ad-1407787744223-SRR').addService(googletag.pubads());
 googletag.defineSlot('/13513669/runofsite_300x600_halfpage', [300, 600], 'div-gpt-ad-1407787744223-H5').addService(googletag.pubads());
-googletag.defineSlot('/13513669/runofsite_160x600_skyscraper', [160, 600], 'div-gpt-ad-1407787744223-WS').addService(googletag.pubads());
+googletag.defineSlot('/13513669/none', [160, 600], 'div-gpt-ad-1407787744223-WS').addService(googletag.pubads());
 googletag.pubads().enableSingleRequest();
 googletag.pubads().collapseEmptyDivs();
 googletag.pubads().enableSyncRendering();
@@ -127,18 +127,18 @@ googletag.enableServices();
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
     <script>window.jQuery || document.write('<script src=\'http://www.skiutah.com/@@/winter4.static/js/jquery.min.js\'><\/script>')</script><script src="http://www.skiutah.com/@@/winter4.static/js/jquery.min.js"></script>
 
-    <script type="text/javascript" src="https://www.google.com/recaptcha/api/js/recaptcha_ajax.js"></script>
+    <script src="https://www.google.com/recaptcha/api.js" async="" defer=""></script>
 <script type="text/javascript">/* <![CDATA[ */  
 jQuery(document).ready(function($) {
-    var RECAPTCHA_KEY = "6LfdNgQAAAAAAEk1Y6Y_qyYLlb-XBndKnc20zv2Z";
+    var RECAPTCHA_KEY = "6Le0CRUUAAAAAA0LzyCQSku8FhzNfov7IMQQEmCO";
     $.fn.setup_recaptcha = function() {
-        /* Quick'n'dirty jQuery plugin to set up the Recaptcha support on the
-         * matched elements, using our Recaptcha key.
+        /* reCAPTCHA 2 support for our dumb little setup_recaptcha plugin.
          * ``$('div.recaptcha-holder').setup_recaptcha();``
          */
         return this.each(function() {
-            var elem = $(this);
-            Recaptcha.create(RECAPTCHA_KEY, elem.attr('id'), {theme:'white'});
+            if ($(this).parent().find('div.g-recaptcha').length === 0) {
+                grecaptcha.render(this, {'sitekey': RECAPTCHA_KEY});
+            }
         });
     };
 });
@@ -158,7 +158,7 @@ jQuery(document).ready(function($) {
               <li class="HeaderAux-link"><a href="/ski-utah-email-newsletters/?s=web_header"><span>Sign Up for E-Newsletter</span></a></li>
 
               <li class="HeaderAux-link">
-                <a href="http://www.skiutah.com/about/store" target="_blank" onclick="_gaq.push(['_trackEvent', 'Ecommerce', 'Outgoing Click', 'Store']);">
+                <a href="http://www.skiutah.com/about/store" onclick="_gaq.push(['_trackEvent', 'Ecommerce', 'Outgoing Click', 'Store']);">
                   Gear Store</a></li>
 
             </ul>
@@ -230,6 +230,19 @@ jQuery(document).ready(function($) {
         </div>
       </div>
       
+      
+      <div id="trip-return-banner" class="trp_LayoutMain trp_LayoutMain-overextend trp_choose-header trp_return-header" style="display: none;">
+  <div class="view-fix">
+    <div class="LayoutMain-content">
+      <div class="close-me close-box"></div>
+      <a class="trip-return-link" href="http://www.skiutah.com/trip-planner/view-trip" data-view-trip-base="http://www.skiutah.com/trip-planner/view-trip">
+        <h2>Return to your trip</h2>
+      </a>
+    </div>
+  </div>
+</div>
+
+      
 
       
       
@@ -264,25 +277,6 @@ jQuery(document).ready(function($) {
                   
                     <div class="LayoutInterior-pageTitle">
                       <h1>Privacy Policy</h1>
-                      <div class="LayoutInterior-wrapShareButtons">
-                        
-<div class="ShareLinks">
-
-  <a class="ShareLinks-link" href="http://www.facebook.com/v2.3/dialog/feed?app_id=386496148095690&amp;link=http%3A//www.skiutah.com/about/Privacy-Policy/index.html&amp;picture=&amp;name=Privacy%20Policy&amp;caption=Privacy%20Policy&amp;redirect_uri=http%3A//www.skiutah.com/about/Privacy-Policy/index.html/%40%40index.html" title"share="" on="" facebook"="" target="_blank">
-    <span class="ShareLinks-icon i-facebook"></span>
-  </a>
-
-  <a class="ShareLinks-link" href="https://twitter.com/intent/tweet?url=http%3A//www.skiutah.com/about/Privacy-Policy/index.html&amp;text=Privacy%20Policy" target="_blank">
-    <span class="ShareLinks-icon i-twitter"></span>
-  </a>
-
-  <a class="ShareLinks-link" href="https://plus.google.com/share?url=http%3A//www.skiutah.com/about/Privacy-Policy/index.html" target="_blank">
-    <span class="ShareLinks-icon i-googleplus"></span>
-  </a>
-
-</div>
-
-                      </div>
                     </div>
                   
                 </div>
@@ -472,124 +466,157 @@ jQuery(document).ready(function($) {
             <div class="FooterPartners">
               <h2>Partners In Promoting Utah Powder</h2>
               <ul class="FooterPartners-list Grid Grid--withGutter Grid--alignCenter Grid--alignMiddle">
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
                   <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://us.coca-cola.com/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Coca-cola'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/coca-cola.png" alt="Coca-cola" height="28" width="116">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-coca-cola.png" alt="Coca-cola" height="28" width="100">
                     <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/coca-cola.png" alt="Coca-cola" height="28" width="116">
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-coca-cola.png" alt="Coca-cola" height="28" width="100">
                     <![endif]-->
                     <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/coca-cola.png" alt="Coca-cola" height="28" width="116">
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-coca-cola.png" alt="Coca-cola" height="28" width="100">
                     </noscript>
                   </a>
                 </li>
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
                   <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://www.visitutah.com/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Visit Utah'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/visit-utah.png" alt="Visit Utah" height="26" width="116">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-visit-utah.png" alt="Visit Utah" height="26" width="100">
                     <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/visit-utah.png" alt="Visit Utah" height="26" width="116">
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-visit-utah.png" alt="Visit Utah" height="26" width="100">
                     <![endif]-->
                     <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/visit-utah.png" alt="Visit Utah" height="26" width="116">
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-visit-utah.png" alt="Visit Utah" height="26" width="100">
                     </noscript>
                   </a>
                 </li>
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
-                  <a rel="nofollow" target="_blank" class="FooterPartners-link" href="https://www.delta.com/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Delta'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/delta.png" alt="Delta" height="18" width="116">
-                    <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/delta.png" alt="Delta" height="18" width="116">
-                    <![endif]-->
-                    <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/delta.png" alt="Delta" height="18" width="116">
-                    </noscript>
-                  </a>
-                </li>
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
                   <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://link.hertz.com/link.html?id=20079&amp;LinkType=HZLK&amp;ret_url=www.skiutah.com" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Hertz'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/hertz.png" alt="Hertz" height="44" width="116">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-hertz.png" alt="Hertz" height="44" width="100">
                     <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/hertz.png" alt="Hertz" height="44" width="116">
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-hertz.png" alt="Hertz" height="44" width="100">
                     <![endif]-->
                     <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/hertz.png" alt="Hertz" height="44" width="116">
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-hertz.png" alt="Hertz" height="44" width="100">
                     </noscript>
                   </a>
                 </li>
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
                   <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://www.rossignol.com/US/US/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Rossignol'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/rossignol.png" alt="Rossignol" height="44" width="116">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-rossignol.png" alt="Rossignol" height="44" width="100">
                     <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/rossignol.png" alt="Rossignol" height="44" width="116">
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-rossignol.png" alt="Rossignol" height="44" width="100">
                     <![endif]-->
                     <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/rossignol.png" alt="Rossignol" height="44" width="116">
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-rossignol.png" alt="Rossignol" height="44" width="100">
                     </noscript>
                   </a>
                 </li>
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
-                  <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://www.eider.com/en/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Eider'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/eider.png" alt="Eider" height="26" width="116">
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
+                  <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://www.millet-mountain.com" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Millet'])">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-millet.png" alt="Millet" height="18" width="50">
                     <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/eider.png" alt="Eider" height="26" width="116">
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-millet.png" alt="Millet" height="18" width="50">
                     <![endif]-->
                     <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/eider.png" alt="Eider" height="26" width="116">
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-millet.png" alt="Millet" height="18" width="50">
                     </noscript>
                   </a>
                 </li>
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
+                  <a rel="nofollow" target="_blank" class="FooterPartners-link" href="https://www.delta.com/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Delta'])">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-delta.png" alt="Delta" height="18" width="100">
+                    <!--[if lte IE 8]>
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-delta.png" alt="Delta" height="18" width="100">
+                    <![endif]-->
+                    <noscript>
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-delta.png" alt="Delta" height="18" width="100">
+                    </noscript>
+                  </a>
+                </li>
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
+                  <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://g-form.com/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','G-Form'])">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-g-form.png" alt="G-Form" height="38" width="116">
+                    <!--[if lte IE 8]>
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-g-form.png" alt="G-Form" height="38" width="116">
+                    <![endif]-->
+                    <noscript>
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-g-form.png" alt="G-Form" height="38" width="116">
+                    </noscript>
+                  </a>
+                </li>
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
                   <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://www.monsterenergy.com/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Monster'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/monster.png" alt="Monster" height="40" width="86">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-monster.png" alt="Monster" height="40" width="86">
                     <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/monster.png" alt="Monster" height="40" width="86">
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-monster.png" alt="Monster" height="40" width="86">
                     <![endif]-->
                     <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/monster.png" alt="Monster" height="40" width="86">
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-monster.png" alt="Monster" height="40" width="86">
                     </noscript>
                   </a>
                 </li>
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
                   <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://www.youngchev.com/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Young Chevy'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/young-chevrolet.png" alt="Young Chevy" height="34" width="116">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-young-chevrolet.png" alt="Young Chevy" height="34" width="116">
                     <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/young-chevrolet.png" alt="Young Chevy" height="34" width="116">
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-young-chevrolet.png" alt="Young Chevy" height="34" width="116">
                     <![endif]-->
                     <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/young-chevrolet.png" alt="Young Chevy" height="34" width="116">
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-young-chevrolet.png" alt="Young Chevy" height="34" width="116">
                     </noscript>
                   </a>
                 </li>
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
                   <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://healthcare.utah.edu/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Utah HealthCare'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/utah-healthcare.png" alt="Utah HealthCare" height="28" width="116">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-utah-healthcare.png" alt="Utah HealthCare" height="28" width="116">
                     <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/utah-healthcare.png" alt="Utah HealthCare" height="28" width="116">
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-utah-healthcare.png" alt="Utah HealthCare" height="28" width="116">
                     <![endif]-->
                     <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/utah-healthcare.png" alt="Utah HealthCare" height="28" width="116">
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-utah-healthcare.png" alt="Utah HealthCare" height="28" width="116">
                     </noscript>
                   </a>
                 </li>
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
                   <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://www.smithoptics.com/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Smith Optics'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/smith-optics.png" alt="Smith Optics" height="26" width="116">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-smith-optics.png" alt="Smith Optics" height="26" width="116">
                     <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/smith-optics.png" alt="Smith Optics" height="26" width="116">
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-smith-optics.png" alt="Smith Optics" height="26" width="116">
                     <![endif]-->
                     <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/smith-optics.png" alt="Smith Optics" height="26" width="116">
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-smith-optics.png" alt="Smith Optics" height="26" width="116">
                     </noscript>
                   </a>
                 </li>
-                <li class="Grid-cell u-sm-size1of2 u-size1of6">
-                  <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://www.hotchillys.com/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Hot Chillys'])">
-                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/hot-chillys.png" alt="Hot Chillys" height="48" width="116">
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
+                  <a rel="nofollow" target="_blank" class="FooterPartners-link" href="https://www.slcairport.com" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','SLC International Airport'])">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-slc-airport.png" alt="SLC International Airport" height="26" width="116">
                     <!--[if lte IE 8]>
-                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/hot-chillys.png" alt="Hot Chillys" height="48" width="116">
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-slc-airport.png" alt="SLC International Airport" height="26" width="116">
                     <![endif]-->
                     <noscript>
-                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/hot-chillys.png" alt="Hot Chillys" height="48" width="116">
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-slc-airport.png" alt="SLC International Airport" height="26" width="116">
+                    </noscript>
+                  </a>
+                </li>
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
+                  <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://www.eider.com/en/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Eider'])">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-eider.png" alt="Eider" height="26" width="50">
+                    <!--[if lte IE 8]>
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-eider.png" alt="Eider" height="26" width="50">
+                    <![endif]-->
+                    <noscript>
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-eider.png" alt="Eider" height="26" width="50">
+                    </noscript>
+                  </a>
+                </li>
+                <li class="Grid-cell u-sm-size1of2 u-size1of7">
+                  <a rel="nofollow" target="_blank" class="FooterPartners-link" href="http://www.hotchillys.com/" onclick="_gaq.push(['_trackEvent', 'Partners', 'Visit Website','Hot Chillys'])">
+                    <img class="u-leash lazyload lazypreload" data-src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-hot-chillys.png" alt="Hot Chillys" height="48" width="116">
+                    <!--[if lte IE 8]>
+                    <img class="u-leash" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-hot-chillys.png" alt="Hot Chillys" height="48" width="116">
+                    <![endif]-->
+                    <noscript>
+                    <img class="u-leash noscript-lazyload" src="http://www.skiutah.com/@@/winter4.static/images/partners/partner-hot-chillys.png" alt="Hot Chillys" height="48" width="116">
                     </noscript>
                   </a>
                 </li>
@@ -822,6 +849,30 @@ jQuery(document).ready(function($) {
               <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
                 
                 
+                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/plan/trip-planner">Ski Utah Trip Planner</a>
+                
+                
+              </li>
+
+            
+
+            
+          
+          
+            
+
+              
+                
+              
+              
+
+              
+
+              
+
+              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
+                
+                
                 <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/plan/activities">Activities</a>
                 
                 
@@ -894,7 +945,7 @@ jQuery(document).ready(function($) {
               <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
                 
                 
-                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/plan/retail-and-rental">Retail + Rental</a>
+                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/plan/retail-and-rental">Outdoor Shops &amp; Gear</a>
                 
                 
               </li>
@@ -1748,6 +1799,30 @@ jQuery(document).ready(function($) {
                 
               </li>
 
+            
+
+            
+          
+          
+            
+
+              
+                
+              
+              
+
+              
+
+              
+
+              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
+                
+                
+                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/resorts/powder-counter?_ct=Menu%20Bar">Powder Counter</a>
+                
+                
+              </li>
+
             </ul></li>
 
             
@@ -1912,6 +1987,78 @@ jQuery(document).ready(function($) {
             
 
               
+                
+              
+              
+
+              
+
+              
+
+              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
+                
+                
+                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/deals/food-and-drink">Food &amp; Drink</a>
+                
+                
+              </li>
+
+            
+
+            
+          
+          
+            
+
+              
+                
+              
+              
+
+              
+
+              
+
+              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
+                
+                
+                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/deals/reservations">Reservations</a>
+                
+                
+              </li>
+
+            
+
+            
+          
+          
+            
+
+              
+                
+              
+              
+
+              
+
+              
+
+              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
+                
+                
+                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/deals/coop-program">Season Specials</a>
+                
+                
+              </li>
+
+            
+
+            
+          
+          
+            
+
+              
                 </ul></li>
               
               
@@ -1952,7 +2099,7 @@ jQuery(document).ready(function($) {
               <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
                 
                 
-                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/deals/learn-to-ski-and-snowboard">Learn to Ski Program</a>
+                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/deals/learn-to-ski-and-snowboard">Learn to Ski and Snowboard Month</a>
                 
                 
               </li>
@@ -2015,7 +2162,7 @@ jQuery(document).ready(function($) {
 
           
           <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
-            <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/passes/resort-lift-tickets">Purchase Utah Lift Tickets</a>
+            <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/passes/resort-lift-tickets">Utah Ski &amp; Snowboard Lift Tickets</a>
           </li>
           
           
@@ -2170,6 +2317,30 @@ jQuery(document).ready(function($) {
               <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
                 
                 
+                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/spring-skiing">Spring Skiing</a>
+                
+                
+              </li>
+
+            
+
+            
+          
+          
+            
+
+              
+                
+              
+              
+
+              
+
+              
+
+              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
+                
+                
                 <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/utah-regions-101">Utah Areas 101</a>
                 
                 
@@ -2195,102 +2366,6 @@ jQuery(document).ready(function($) {
                 
                 
                 <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/access">Getting To Utah Resorts</a>
-                
-                
-              </li>
-
-            
-
-            
-          
-          
-            
-
-              
-                
-              
-              
-
-              
-
-              
-
-              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
-                
-                
-                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/snow">Snow</a>
-                
-                
-              </li>
-
-            
-
-            
-          
-          
-            
-
-              
-                
-              
-              
-
-              
-
-              
-
-              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
-                
-                
-                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/activities">Activities</a>
-                
-                
-              </li>
-
-            
-
-            
-          
-          
-            
-
-              
-                
-              
-              
-
-              
-
-              
-
-              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
-                
-                
-                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/food-and-drinks">Food + Drink</a>
-                
-                
-              </li>
-
-            
-
-            
-          
-          
-            
-
-              
-                
-              
-              
-
-              
-
-              
-
-              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
-                
-                
-                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/lodging">Lodging</a>
                 
                 
               </li>
@@ -2391,6 +2466,30 @@ jQuery(document).ready(function($) {
               <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
                 
                 
+                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/gearstore">Gear Store</a>
+                
+                
+              </li>
+
+            
+
+            
+          
+          
+            
+
+              
+                
+              
+              
+
+              
+
+              
+
+              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
+                
+                
                 <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/ski-utah-magazine">Ski Utah Magazine</a>
                 
                 
@@ -2440,6 +2539,30 @@ jQuery(document).ready(function($) {
                 
                 
                 <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/compare-all-resorts">Compare All Resorts</a>
+                
+                
+              </li>
+
+            
+
+            
+          
+          
+            
+
+              
+                
+              
+              
+
+              
+
+              
+
+              <li class="SuperfishMegaMenu-level SuperfishMegaMenu-level--2">
+                
+                
+                <a class="SuperfishMegaMenu-subLink " href="http://www.skiutah.com/explore/ski-swaps">Ski Swaps</a>
                 
                 
               </li>
@@ -2611,6 +2734,21 @@ jQuery(document).ready(function($) {
               
                 
                 
+              <a class="MobileMenu-link " href="http://www.skiutah.com/plan/trip-planner">
+                Ski Utah Trip Planner
+                <span class="icon"></span>
+              </a>
+                
+              
+            </li>
+            
+            
+            
+            
+            <li class="MobileMenu-level MobileMenu-level--2">
+              
+                
+                
               <a class="MobileMenu-link " href="http://www.skiutah.com/plan/activities">
                 Activities
                 <span class="icon"></span>
@@ -2657,7 +2795,7 @@ jQuery(document).ready(function($) {
                 
                 
               <a class="MobileMenu-link " href="http://www.skiutah.com/plan/retail-and-rental">
-                Retail + Rental
+                Outdoor Shops &amp; Gear
                 <span class="icon"></span>
               </a>
                 
@@ -3186,6 +3324,21 @@ jQuery(document).ready(function($) {
             </li>
             
             
+            
+            
+            <li class="MobileMenu-level MobileMenu-level--2">
+              
+                
+                
+              <a class="MobileMenu-link " href="http://www.skiutah.com/resorts/powder-counter?_ct=Menu%20Bar%20Mobile">
+                Powder Counter
+                <span class="icon"></span>
+              </a>
+                
+              
+            </li>
+            
+            
           </ul>
         
       </li>
@@ -3296,6 +3449,51 @@ jQuery(document).ready(function($) {
               
                 
                 
+              <a class="MobileMenu-link " href="http://www.skiutah.com/deals/food-and-drink">
+                Food &amp; Drink
+                <span class="icon"></span>
+              </a>
+                
+              
+            </li>
+            
+            
+            
+            
+            <li class="MobileMenu-level MobileMenu-level--2">
+              
+                
+                
+              <a class="MobileMenu-link " href="http://www.skiutah.com/deals/reservations">
+                Reservations
+                <span class="icon"></span>
+              </a>
+                
+              
+            </li>
+            
+            
+            
+            
+            <li class="MobileMenu-level MobileMenu-level--2">
+              
+                
+                
+              <a class="MobileMenu-link " href="http://www.skiutah.com/deals/coop-program">
+                Season Specials
+                <span class="icon"></span>
+              </a>
+                
+              
+            </li>
+            
+            
+            
+            
+            <li class="MobileMenu-level MobileMenu-level--2">
+              
+                
+                
                 
                 
               
@@ -3309,7 +3507,7 @@ jQuery(document).ready(function($) {
                 
                 
               <a class="MobileMenu-link " href="http://www.skiutah.com/deals/learn-to-ski-and-snowboard">
-                Learn to Ski Program
+                Learn to Ski and Snowboard Month
                 <span class="icon"></span>
               </a>
                 
@@ -3359,7 +3557,7 @@ jQuery(document).ready(function($) {
                 
                 
               <a class="MobileMenu-link " href="http://www.skiutah.com/passes/resort-lift-tickets">
-                Purchase Utah Lift Tickets
+                Utah Ski &amp; Snowboard Lift Tickets
                 <span class="icon"></span>
               </a>
                 
@@ -3510,6 +3708,21 @@ jQuery(document).ready(function($) {
               
                 
                 
+              <a class="MobileMenu-link " href="http://www.skiutah.com/explore/spring-skiing">
+                Spring Skiing
+                <span class="icon"></span>
+              </a>
+                
+              
+            </li>
+            
+            
+            
+            
+            <li class="MobileMenu-level MobileMenu-level--2">
+              
+                
+                
               <a class="MobileMenu-link " href="http://www.skiutah.com/explore/utah-regions-101">
                 Utah Areas 101
                 <span class="icon"></span>
@@ -3527,66 +3740,6 @@ jQuery(document).ready(function($) {
                 
               <a class="MobileMenu-link " href="http://www.skiutah.com/explore/access">
                 Getting To Utah Resorts
-                <span class="icon"></span>
-              </a>
-                
-              
-            </li>
-            
-            
-            
-            
-            <li class="MobileMenu-level MobileMenu-level--2">
-              
-                
-                
-              <a class="MobileMenu-link " href="http://www.skiutah.com/explore/snow">
-                Snow
-                <span class="icon"></span>
-              </a>
-                
-              
-            </li>
-            
-            
-            
-            
-            <li class="MobileMenu-level MobileMenu-level--2">
-              
-                
-                
-              <a class="MobileMenu-link " href="http://www.skiutah.com/explore/activities">
-                Activities
-                <span class="icon"></span>
-              </a>
-                
-              
-            </li>
-            
-            
-            
-            
-            <li class="MobileMenu-level MobileMenu-level--2">
-              
-                
-                
-              <a class="MobileMenu-link " href="http://www.skiutah.com/explore/food-and-drinks">
-                Food + Drink
-                <span class="icon"></span>
-              </a>
-                
-              
-            </li>
-            
-            
-            
-            
-            <li class="MobileMenu-level MobileMenu-level--2">
-              
-                
-                
-              <a class="MobileMenu-link " href="http://www.skiutah.com/explore/lodging">
-                Lodging
                 <span class="icon"></span>
               </a>
                 
@@ -3642,6 +3795,21 @@ jQuery(document).ready(function($) {
               
                 
                 
+              <a class="MobileMenu-link " href="http://www.skiutah.com/explore/gearstore">
+                Gear Store
+                <span class="icon"></span>
+              </a>
+                
+              
+            </li>
+            
+            
+            
+            
+            <li class="MobileMenu-level MobileMenu-level--2">
+              
+                
+                
               <a class="MobileMenu-link " href="http://www.skiutah.com/explore/ski-utah-magazine">
                 Ski Utah Magazine
                 <span class="icon"></span>
@@ -3674,6 +3842,21 @@ jQuery(document).ready(function($) {
                 
               <a class="MobileMenu-link " href="http://www.skiutah.com/explore/compare-all-resorts">
                 Compare All Resorts
+                <span class="icon"></span>
+              </a>
+                
+              
+            </li>
+            
+            
+            
+            
+            <li class="MobileMenu-level MobileMenu-level--2">
+              
+                
+                
+              <a class="MobileMenu-link " href="http://www.skiutah.com/explore/ski-swaps">
+                Ski Swaps
                 <span class="icon"></span>
               </a>
                 
@@ -3752,7 +3935,7 @@ jQuery(document).ready(function($) {
 
     <ul class="MobileMenu-footerLinks">
       <li>
-        <a href="http://www.skiutah.com/about/store" target="_blank" onclick="_gaq.push(['_trackEvent', 'Ecommerce', 'Outgoing Click', 'Store']);">
+        <a href="http://www.skiutah.com/about/store" onclick="_gaq.push(['_trackEvent', 'Ecommerce', 'Outgoing Click', 'Store']);">
           Gear Store</a>
       </li>
       <li>
@@ -3803,7 +3986,8 @@ jQuery(document).ready(function($) {
 
     <div id="modal-photo-gallery" class="PhotoGallery-modal modal fade">
       <div class="modal-dialog">
-        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true"></span></button>
+        <div class="modal-info"><i>i</i></div>
         <div class="modal-content">
         </div>
       </div>
@@ -3811,6 +3995,14 @@ jQuery(document).ready(function($) {
 
     <div id="email-modal" class="modal fade">
       <div class="modal-dialog">
+        <div class="modal-content">
+        </div>
+      </div>
+    </div>
+
+    <div id="modal-popover" class="Popover-modal modal fade">
+      <div class="modal-dialog">
+        <button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
         <div class="modal-content">
         </div>
       </div>
@@ -3887,9 +4079,6 @@ jQuery(document).ready(function($) {
     
 
     
-
-    
-    <script type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=xa-517ee84a2c1425a1"></script>
 
     <!--— UDS 2015-16 CoOp Container Tag —-->
     <script type="text/javascript">
