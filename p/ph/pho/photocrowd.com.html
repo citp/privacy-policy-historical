@@ -1,0 +1,410 @@
+<!--The following is the downloaded HTML source of the photocrowd.com privacy policy that was archived on 2017-03-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170301014949id_/https%3A//www.photocrowd.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+        <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script type="text/javascript" async="" src="https://api.filestackapi.com/filestack.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationTime":57,"applicationID":"2504657","agent":"","beacon":"bam.nr-data.net","licenseKey":"402233fafd","queueTime":0,"errorBeacon":"bam.nr-data.net","transactionName":"ZVMEYUVTXhYFV00MVlwZIEBZUUQMC1oWFVhVUxUbQVtVEhcOT1dmQkQDVlhfQAoXUV0="}</script>
+        <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+        <meta name="google-site-verification" content="XtWjUHvM7oew3FDT0CkZqFzXpUsCNGiPfsE7UZL2y9Y">
+
+    <title>Photocrowd Privacy Policy | Photocrowd Photo Contests</title>
+    
+
+
+<link rel="stylesheet" href="https://static.photocrowd.com/CACHE/css/7881bc52b0f0.css" type="text/css">
+
+    
+
+        <link rel="shortcut icon" type="image/png" href="https://static.photocrowd.com/v2/images/favicon.png">
+
+        <link rel="apple-touch-icon" sizes="114x114" href="https://static.photocrowd.com/v2/images/apple-touch-icon-114x114.png">
+        <link rel="apple-touch-icon" sizes="120x120" href="https://static.photocrowd.com/v2/images/apple-touch-icon-120x120.png">
+        <link rel="apple-touch-icon" sizes="144x144" href="https://static.photocrowd.com/v2/images/apple-touch-icon-144x144.png">
+        <link rel="apple-touch-icon" sizes="152x152" href="https://static.photocrowd.com/v2/images/apple-touch-icon-152x152.png">
+        <link rel="apple-touch-icon" sizes="180x180" href="https://static.photocrowd.com/v2/images/apple-touch-icon-180x180.png">
+
+        
+<script>
+window.ga=window.ga||function(){(ga.q=ga.q||[]).push(arguments)};ga.l=+new Date;
+
+ga('create', 'UA-42803410-1');
+
+
+
+ga('set', 'dimension1', 'Visitor');
+ga('set', 'dimension2', 'Anonymous');
+
+
+ga('set', 'contentGroup1', 'V2 precomposed');
+
+
+
+ga('set', 'contentGroup2', 'Privacy');
+
+
+var pixelRatio = (window.devicePixelRatio >= 2) ? "high" : "normal";
+ga('set', 'dimension3', pixelRatio);
+ga('set', 'dimension4', '|archive_rework|assignment-redesign|life-framer|');
+
+
+
+window.gaProcesses = {};
+
+
+ga('send', 'pageview');
+
+</script>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script>
+
+
+        
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+fbq('init', '1725502214430065');
+fbq('track', 'PageView');
+
+
+
+</script>
+
+<noscript>
+<img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=1725502214430065&ev=PageView&noscript=1" />
+
+
+
+</noscript>
+
+
+    </head>
+
+
+    <body class="privacy-page">
+
+        
+
+
+
+
+
+
+
+<header id="header" class="main  ">
+
+    <a class="logo" href="/"></a>
+
+    <nav>
+        <a href="/feed/" class="">Feed</a>
+        <span>
+            <a href="/explore/discover/" class="">Discover</a>
+            <ul class="menu">
+                <li><a href="/explore/discover/">Best Photos</a></li>
+                <li><a href="/explore/discover/?ordering=newest">Newest Photos</a></li>
+                <li><a href="/explore/reviews/">Expert reviews</a></li>
+            </ul>
+        </span>
+        <span>
+            <a href="/contests/" class="">Contests</a>
+            <ul class="menu">
+                <li><a href="/contests/">Open contests</a></li>
+                <li><a href="/contests/rating/">Rating contests</a></li>
+                <li><a href="/archives/">Recent winners</a></li>
+                <li><a href="/leaderboard/">Leaderboard</a></li>
+                
+            </ul>
+        </span>
+        <span>
+            <a href="/shop/" class="shop ">Shop</a>
+            <ul class="menu">
+                <li><a href="/shop/">Home</a></li>
+                <li><a href="/shop/products/all/">All photos</a></li>
+                <li><a href="/shop/products/collections/">Collections</a></li>
+            </ul>
+        </span>
+    </nav>
+
+    <div class="search">
+        <form onsubmit="return submitSearch()" class="search-form">
+            <input type="text" class="search-input" placeholder="Search…">
+            <input type="submit" class="search-submit" value="Search">
+        </form>
+
+        <a href="#" class="search-link-close btn-close"></a>
+    </div>
+
+    <div class="actions">
+        
+
+        
+        <span class="action-item action-item-search">
+            <a href="#" class="search-link">
+                <span class="icon magnifier"></span>
+            </a>
+        </span>
+        
+
+        
+        <div class="auth-btns">
+            <a href="/accounts/login" class="btn btn-text">Sign in</a>
+            
+            <a href="/accounts/register?process_start=header&amp;message=join" class="btn sign-up">Join</a>
+            
+        </div>
+        
+
+        <span class="action-item action-item-more">
+            <a href="#" class="menu-link">
+                <span class="icon more"></span>
+            </a>
+
+            <ul class="menu menu-more">
+                <li><a href="/support/">Help</a></li>
+                <li><a href="/about/">About Photocrowd</a></li>
+                <li><a href="/shop/about/">About print sales</a></li>
+                <li><a href="/shop/about/lumejet/">About LumeJet</a></li>
+                
+                <li><a href="/accounts/subscriptions/?process_start=main-header-more-menu-pricing">Pricing</a></li>
+                
+                <li><a href="http://photocrowd.tumblr.com/" target="_blank">Latest updates</a></li>
+                <li><a href="/expert-hub/">Expert hub</a></li>
+                <li><a href="/photographer-hub/">Photographer hub</a></li>
+                <li><a href="/about/founders/">Supporters</a></li>
+                <li class="border"><a href="/jobs/">Work at Photocrowd</a></li>
+                <li><a href="/terms/">Terms</a></li>
+                <li><a href="/privacy/">Privacy</a></li>
+                <li class="border">
+                    <div class="social">
+                        <a class="instagram-link social-link" href="http://www.instagram.com/photocrowd/" target="_blank"></a>
+                        <a class="twitter-link social-link" href="https://twitter.com/photocrowd" target="_blank"></a>
+                        <a class="facebook-link social-link" href="https://www.facebook.com/photocrowd" target="_blank"></a>
+                        <a class="gplus-link social-link" href="https://plus.google.com/110793080784710447643" target="_blank"></a>
+                    </div>
+                </li>
+            </ul>
+        </span>
+    </div>
+</header>
+
+
+        
+
+    <!--****************************Hero****************************-->
+
+    <section class="legal-hero" style="background: url(https://static.photocrowd.com/v2/images/bkg-privacy-hero.png) no-repeat center; background-size: cover;">
+        <div class="container">
+            <h1>Privacy Policy</h1>
+        </div>
+        <a class="photo-credit" href="/sanmi/">By Luis Sanmiguel</a>
+    </section>
+
+    <!--****************************Content****************************-->
+
+    <section class="legal-content">
+        <div class="container">
+            <p>You may also want to take a look at our <a href="/terms">Terms and Conditions</a></p>
+<h2 id="your-privacy">Your privacy</h2>
+<div class="panel">
+<p>At Photocrowd.com, we respect your privacy and the importance of the information you entrust to us. Below you will find a description of the basic policies and practices in place on our website that express our protocol for collecting, using, maintaining, protecting and disclosing that information.
+Photocrowd.com is an online community that offers you an easy way to post and share photos, as well as add constructive comments in response to other people’s images. You can also enter your photos into image rounds that are assessed by the Crowd (our other users) or different expert judges. You don't need to be registered to search or view public photos on Photocrowd.com; however, you must be a registered member of Photocrowd.com to post photos, use our services and/or submit images.</p>
+
+</div><h2 id="information-we-may-collect">Information we may collect</h2>
+<div class="panel">
+<p>We may collect information that can identify you ("personal information"), such as your name and email address, profile photograph, websites relating to you, and a description of you (i) when you provide it to us when registering for, or using, our website and/or services or in some other manner (for example, when you respond to any surveys we may conduct or when making Crowd comments on other users’ photos); (ii) from our business partners and/or from other third parties. ; (iii) when you complete your user profile or other pages that allow voluntary provision by you of information about you; and/or (iv) when you upload images to the site, through the extraction of EXIF or IPTC data or other embedded metadata within or attached to the image.  We may combine the personal information that we receive from different sources
+In addition, our server logs automatically collect technical information (information that is about you, but does not identify you as an individual), such as your IP address, your browser type and language, and the date and time of your visit, which helps us track users' movements around our site and understand trends.  We may assign your computer one or more cookies which may collect information to facilitate access to our website and to personalize your online experience.  See our Cookies Policy (below) for further details.
+Our website is not intended for children under 14 years of age. No one under that age may provide any personal information to our website.  We do not knowingly collect personal information from children under 14.  If you are under 14, do not use this website, register for our services, use any of the interactive or Crowd comment features, or provide any information about yourself to us.  If we learn that we have collected or received personal information from a child under 14, we will delete that information.  If you believe we might have information from or about a child under 14, please contact us at support@photocrowd.com.</p>
+
+</div><h2 id="information-others-may-collect">Information others may collect</h2>
+<div class="panel">
+<p>We may allow third-party advertising companies, affiliates or advertising networks to display advertisements on our website. We do not provide any personal information to these companies whatsoever.  If you link through to these companies via their advertisements, they may use tracking tools, such as cookies, to collect information about the computers used to view or interact with their website(s).
+If you post personal information about yourself or others, or communicate with others using our website, please note that because no security measures are perfect or impenetrable we cannot control who reads your postings or what they do with any personal information you provide. We encourage you to use caution if posting personal information.</p>
+
+</div><h2 id="how-we-may-use-information-we-collect">How we may use information we collect</h2>
+<div class="panel">
+<p>We may use your personal and/or technical information to:</p>
+<ul>
+<li>present our website and its contents to you</li>
+<li>fulfil your requests for information and/or our services</li>
+<li>offer services provided by us that may be of interest to you</li>
+<li>process payment for services you order via our website</li>
+<li>customise the advertising and content that you see on our website</li>
+<li>facilitate use of our website</li>
+<li>manage your account and your preferences and to communicate with you about these</li>
+<li>notify you about changes to our website and/or any services we offer or provide through it</li>
+<li>allow you to participate in interactive features on our website (for example, Crowd-based features)</li>
+<li>analyze use of and improve our website and services</li>
+<li>identify and protect against fraudulent transactions and other misuses of our website</li>
+<li>enforce our Terms.</li>
+<li>Promote or market our website and services (for example through press releases or marketing activity related to competition winners)</li>
+<li>allow third parties that collaborate with us in the staging of photo challenges access to certain of your personal information, provided that such third parties will not be entitled to share such information with any other third party, and that you will be able to opt-out from all communications emanating from any such third party collaborators.</li>
+</ul>
+
+</div><h2 id="your-choices">Your choices</h2>
+<div class="panel">
+<p>You may choose:</p>
+<ul>
+<li>not to provide personal information, although that will result in your inability to register with us and therefore obtain certain services or use certain features of our website</li>
+<li>to stop receiving promotional emails or newsletters from us by sending an email to the contact address at the bottom of this policy or adjusting your notification settings on the website.</li>
+<li>to delete or decline cookies by changing your browser settings, although if you do so, some of the features or services of our website may not function properly</li>
+</ul>
+
+</div><h2 id="security">Security</h2>
+<div class="panel">
+<p>We take appropriate physical, electronic and other security measures to help safeguard personal information from unauthorized access, alteration, or disclosure.</p>
+
+</div><h2 id="changes-to-our-privacy-policy">Changes to our privacy policy</h2>
+<div class="panel">
+<p>We may occasionally update this policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, or share your personal information, we will post notice of the changes on our website.</p>
+
+</div><h2 id="use-of-cookies-and-other-technologies">Use of cookies and other technologies</h2>
+<div class="panel">
+<p>Cookies enable you to sign in to the Photocrowd.com site, and help us tailor your experience so that you can get the most of out of using it.</p>
+<p>A cookie is a text-based file that is lodged automatically on your computer or equivalent device. Each cookie contains information that can later be read by a web server in the domain that issued it to you. The information that cookies collect includes your registration data, the date and time of your visit, and your navigational history.</p>
+<p>There are lots of advantages to the use of cookies:</p>
+<ul>
+<li>They help to safeguard your security by checking your login details, which may help prevent fraudulent use of your account.</li>
+<li>They save you time by getting rid of the need to repeatedly enter the same information into boxes on sign-in pages, etc.</li>
+<li>They enable us to offer you content that has been tailored to suit your particular profile as a user.</li>
+<li>They enable us to identify registered users each time they come back to the site after initial registration.</li>
+<li>They enable the site to remember your preferences each time you sign in, so that you don't need to keep answering prompts about how you want to do certain things.</li>
+</ul>
+<p>Photocrowd.com wants to offer you an experience of the site that is as useful and relevant to you as possible. To this end we work with third-party partners, who use cookies on our site to:</p>
+<ul>
+<li>record users’ behaviour – such as which email links they've clicked, which pages they've visited, which forms they've completed and which products they've used – to design tailored advertisements and communications.</li>
+<li>measure and analyse information about the way people use the site. This information may include (but is not limited to the following): activity of the user's browser when they are using Photocrowd.com, the site path of users, general information regarding the user's service provider and host, and the time of day that users come to the site. This analysis then feeds into the work we do on improving our products and services.</li>
+<li>evaluate user traffic and behaviour on the site to put together activity reports (this information is not shared with external companies).</li>
+<li>identify which users have arrived on Photocrowd.com via an affiliate website or sponsored link.</li>
+</ul>
+<p>This Privacy Policy covers the use of cookies by Photocrowd.com only, and does not cover the use of cookies by third parties.</p>
+<p>In addition to cookies, we may also use other technologies, including single-pixel gifs on our websites and in promotional email messages or newsletters. These electronic images help us work out how many users have visited certain pages on the site or opened messages or newsletters. We do not use these single-pixel gifs to collect personal information.</p>
+<p>You do actually have control over whether or not cookies are allowed onto your computer or equivalent device.  Most browsers automatically accept cookies, but you can change your browser settings to decline them.  Please be aware, however, that declining cookies means that there will then be a less-than-optimal relationship between Photocrowd.com and your browser. You may not be able to sign in automatically, nor use other interactive features of our site and services that rely on the use of cookies. This may of course have a detrimental effect on your experience of using Photocrowd.com.</p>
+
+</div><h2 id="use-of-services-from-google-inc-and-others">Use of services from Google Inc. and others</h2>
+<div class="panel">
+<p>Photocrowd.com may also use the following services from Google Inc. and others:</p>
+<p>AdWords Remarketing and Similar Audiences (Google Inc.) and Facebook Custom Audience (Facebook Inc.)</p>
+<p>AdWords Remarketing is a remarketing and behavioral targeting service provided by Google Inc. that connects the activity of this Application with the Adwords advertising network and the Doubleclick Cookie.
+Personal Data collected: Cookies and Usage Data.
+Place of processing: US
+<a href="https://www.google.com/settings/u/0/ads/authenticated">Google Opt Out</a> </p>
+<p>The following services enable Photocrowd to monitor and analyze web traffic and can be used to keep track of User behavior.</p>
+<p>Display Advertising extension for Google Analytics (Google Inc.)
+Google Analytics on this Application might use Google's Interest-based advertising, 3rd-party audience data and information from the DoubleClick Cookie to extend analytics with demographics, interests and ads interaction data.
+Personal Data collected: Cookies and Usage Data. 
+Place of processing: US
+<a href="https://tools.google.com/dlpage/gaoptout">Opt Out</a> </p>
+<p>Google Analytics (Google Inc.)
+Google Analytics is a web analysis service provided by Google Inc. (“Google”). Google utilizes the Data collected to track and examine the use of this Application, to prepare reports on its activities and share them with other Google services.
+Google may use the Data collected to contextualize and personalize the ads of its own advertising network.
+Personal Data collected: Cookies and Usage Data. 
+Place of processing: US
+<a href="https://tools.google.com/dlpage/gaoptout">Opt Out</a> </p>
+<p>Google AdWords conversion tracking (Google Inc.)
+Google AdWords conversion tracking is an analytics service provided by Google Inc. that connects data from the Google AdWords advertising network with actions performed on this Application.
+Personal Data collected: Cookies and Usage Data. 
+Place of processing: US</p>
+<p>Google Tag Manager (Google Inc.)
+Google Tag Manager is an analytics service provided by Google Inc.
+Personal Data collected: Cookies and Usage Data. 
+Place of processing: US</p>
+<p>User ID extension for Google Analytics (Google Inc.)
+Google Analytics on this Application makes use of a feature called User ID. This setup allows for a more accurate tracking of Users by associating that User with the same ID over various sessions and devices. It is set up in a way that doesn’t allow Google to personally identify an individual or permanently identify a particular device.
+The User ID extension might make it possible to connect Data from Google Analytics with other Data about the User collected by this Application.
+The opt-out link below will only opt you out for the device you are on, but not from tracking performed independently by the Owner. Contact the Owner via the email address provided in this privacy policy to object to the aforementioned tracking as well.
+Personal Data collected: Cookies. 
+Place of processing: US
+<a href="https://tools.google.com/dlpage/gaoptout">Opt Out</a> </p>
+
+</div><h2 id="how-to-contact-us">How to contact us</h2>
+<div class="panel">
+<p>If you have any questions about our privacy policy or our information practices, please contact us by email at the following address:</p>
+<p><a href="mailto:support@photocrowd.com">support@photocrowd.com</a></p>
+<p>You may also want to take a look at our <a href="/terms">Terms and Conditions</a></p>
+</div>
+        </div>
+    </section>
+
+
+
+        
+
+
+
+
+<script type="text/javascript" src="https://static.photocrowd.com/bundles/js/common-004df22c3b1272af3077.js"></script>
+<script type="text/javascript" src="https://static.photocrowd.com/bundles/js/global-289ad89baf3dfe56f1ee.js"></script>
+
+
+<script>
+    Raven.config('//d0641035210947f8bb3eb709878acf72@app.getsentry.com/40357').install();
+</script>
+
+
+<script type="text/javascript">
+    if (typeof $.fn.makeSharingListFancy === 'undefined') {
+        throw new Error('Our script file did not load');
+    }
+</script>
+
+
+<script type="text/javascript">
+/* eslint-disable */
+(function(a){if(window.filepicker){return}var b=a.createElement("script");b.type="text/javascript";b.async=!0;b.src=("https:"===a.location.protocol?"https:":"http:")+"//api.filestackapi.com/filestack.js";var c=a.getElementsByTagName("script")[0];c.parentNode.insertBefore(b,c);var d={};d._queue=[];var e="pick,pickMultiple,pickAndStore,read,write,writeUrl,export,convert,store,storeUrl,remove,stat,setKey,constructWidget,makeDropPane".split(",");var f=function(a,b){return function(){b.push([a,arguments])}};for(var g=0;g<e.length;g++){d[e[g]]=f(e[g],d._queue)}window.filepicker=d})(document);
+/* eslint-enable */
+</script>
+
+<script type="text/javascript">
+    if (typeof filepicker !== 'undefined') {
+        filepicker.setKey('Ak5p21cjRSGOA8IaFK2Ztz');
+    }
+    var submitSearch = function() { // eslint-disable-line no-unused-vars
+        var searchUrl = '/search/photos/PLACEHOLDERQUERYVALUE/';
+        var query = $('#header .search .search-form .search-input').val();
+        if (query.trim()) {
+            searchUrl = searchUrl.replace('PLACEHOLDERQUERYVALUE', encodeURI(query));
+            window.location.pathname = searchUrl;
+        }
+        return false;
+    };
+</script>
+
+
+    <script>
+
+        var target = window.location.hash;
+        if (target) {
+            var $target = $(target);
+            if ($target.length) {
+                $target.addClass('active');
+                $target.next().slideToggle();
+                var targetTop = $target.offset().top;
+                targetTop -= 150;
+                document.body.scrollTop = targetTop;
+                document.documentElement.scrollTop = targetTop;
+            }
+        }
+
+        $('.accordian h2').click(function(e) {
+            e.preventDefault();
+            $(this).toggleClass('active');
+            $(this).next().slideToggle();
+        });
+    </script>
+
+    
+            <script>
+                $('.video-link').on('click', function(ev) {
+                    ev.preventDefault();
+                    var u = ($(this).data('video-popup')
+                        + '?size=' + $(window).width() + 'x' + $(window).height());
+                    InpageForms.createPopupFromUrl(u);
+                });
+            </script>
+    
+
+    
+
+
+</body></html>
