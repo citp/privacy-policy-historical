@@ -1,66 +1,181 @@
-> *The following text is extracted and transformed from the royalcanin.com privacy policy that was archived on 2015-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150917054700id_/http%3A//www.royalcanin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the royalcanin.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301212034id_/https%3A//www.royalcanin.com/about-us/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Policy / Home Royal Canin USA - Royal Canin
+# Privacy Statement | Royal Canin
 
-Royal Canin USA, Inc. ("Royal Canin") is dedicated to protecting your privacy and the security of your personal information when you visit our website. Please read this policy ("Privacy Policy") for information on how we collect your personal information on our website, how we protect your personal information and the choices you have concerning the use of your personal information.  Except as we disclose in the Privacy Policy, we do not sell, share, license, trade or rent your personal information to others. This Privacy Policy governs the United States website and online shopping portal operated by Royal Canin ("Website").  
-This Privacy Policy applies only to information collected by our Website. We are not responsible for the privacy of any information you may reveal or post in any public forum, such as a message board or chat room, or through the "Public Profile" feature available on our Website. We are not responsible for the privacy practices of websites owned or operated by third parties, and we encourage you to read the applicable privacy policies for those websites.  
-By using our Website or any of our features, tools, or resources that we provide on our Website, including without limitation any products or offerings you may order via the Website, if any, (collectively, "Online Products"), you agree to the terms of this Privacy Policy, the Website Terms & Conditions and the Webshop Terms & Conditions (collectively, "Notices and Policies").  Royal Canin reserves the right to make changes to the Website and the Notices and Policies at any time.  If we decide to use the information collected by our Website in a manner significantly different from the manner stated in this Privacy Policy or otherwise disclosed to you at the time the information was collected, we will notify you by e-mail and you will have the choice as to whether we can use your information in the new manner.  If you do not agree to be bound by the Notices and Policies, your sole remedy is to not use the Website.  We will revise the "last updated" date at the top of this page when changes are posted to this Privacy Policy.
+### What does this privacy statement apply to?
 
-**INFORMATION WE COLLECT**  
-We may collect information from you in different manners and at different places and times on our Website.  When we collect information, we collect two types of information: Personally Identifiable Information and Non-Personally Identifiable Information (collectively, "Personal Information").
+This privacy statement applies to your personal information collected or processed through the websites, mobile applications and other services and products that collect or process data and display this statement belonging to Mars, Incorporated and its family of companies. This statement does not apply to such entities' websites, mobile applications and other services and products that do not display or include a link to this privacy statement or that have their own privacy statement. This privacy statement applies to your personal information, which is any information or combination of information that could reasonably be used to identify you.
 
-_Personally Identifiable Information_  
-Personally Identifiable Information is information that identifies you or can be used to identify or contact you.  Personally Identifiable Information may include the name and/or breed of your pet; your name, mailing address, e-mail address and telephone number; your age; and your credit card number and billing address if you choose to make a purchase or subscribe to our Online Products.  We may request Personally Identifiable Information from you when you register on our Website or subscribe to our current Online Products or in connection with other Online Products we may make available on our Website.  We will collect Personally Identifiable Information from you only if you voluntarily submit such information to us.  
-You are not required to provide Personally Identifiable Information to visit our Website.  However, if you choose to withhold requested Personally Identifiable Information, you may not be able to use all sections of our Website or to purchase our Online Products.   
-_Non-Personally Identifiable Information_  
-Non-Personally Identifiable Information is information that does not identify you and cannot be used to identify or contact you.  Non-Personally Identifiable Information may include demographic information such as your zip code, age, gender or profession, or technical information such as your IP address, browser type and language, the search engine(s) and keywords you used to find our Website, referring website addresses or the pages you view within our Website.   
-We use Non-Personally Identifiable Information, particularly the anonymous statistical data involving the use of our Website, to help us understand our users and to allow us to improve and better market our Website and Online Products.
+Our privacy practices are consistent with country data protection laws. We cooperate with country data protection authorities if they believe a privacy problem has occurred.
 
-**WHEN AND HOW WE COLLECT INFORMATION**  
-_Becoming a Registered User and Subscriber_  
-In order to access certain Online Products on our Website, such as chat rooms, message boards and user tools, you must first become either a registered user or a subscriber.  While signing up to become either a registered user or a subscriber, you may be required to provide us with Personal Information such as your name, zip code and e-mail address.  If you purchase or subscribe to one of our Online Products, you may also be required to provide us with credit card and billing information.  We use this information to help us understand who uses our Website in order to provide a better Website and Online Products and to contact users about requested Online Products or subscription billing.  We may request additional Non-Personally Identifiable Information, particularly demographic information, from you so we can provide you a more personalized experience on our Website, but providing this information is not required to use our Website, Online Products or subscription billing services.  
-_Cookies_  
-We collect Non-Personally Identifiable Information through the use of "cookies".  Cookies are small text files placed on your computer by a webpage server that contain information which can later be read by a web server in the domain that issued the cookie.  Cookies cannot be used to run programs or to deliver viruses to your computer.  We use cookies to personalize your experience on our Website, such as dynamically generating content on webpages specifically designed for you; to assist you in using our Online Products, such as saving time because you do not have to reenter your name each time you visit our Website; and to allow us to statistically monitor how you use our Website in order to improve our online offerings. We may also use cookies to target certain advertisements to your browser which may be of interest to you or to determine the popularity of certain content.  
-The third parties we use to display or serve advertisements on our Website or to collect Non-Personally Identifiable Information in order to provide advertising-related services may also place cookies on your computer.  Neither the third parties nor their cookies collect Personally Identifiable Information on our Website.  
-You do not have to accept cookies to use our Website.  Most web browsers are initially set to accept cookies, but you may reset your browser to either notify you when you receive a cookie or to reject cookies.  Most browsers offer instructions on how to do so in the "Help" section of the toolbar.  While you are not required to accept cookies to access our Website, if you do not accept cookies, certain products, offerings, features or resources of our Website, including certain Online Products, may be unavailable to you.  
-Advertisers and other third parties may use their own cookies when you click on their advertisement or link to their website or service.  This Privacy Policy does not govern the use of cookies or collection of information by third-party websites or providers of third-party advertising once you leave our Website.  
-_Online Products_  
-We collect Personal Information you voluntarily provide to us when you choose to purchase our Online Products.  We also collect Personal Information you voluntarily provide through responses to special Online Products such as surveys, questionnaires, self-assessment quizzes and contests. We may also collect information from you in connection with or through other Online Products we make available on our Website.  We collect this information in order to facilitate your purchase of our Online Products and to offer you products or services that we think may be of interest to you.  
-_Log Files_  
-We collect Non-Personally Identifiable Information through our Internet log files which record data such as your IP address, browser type and language, referring website address and access times. This is standard information that your web browser sends to every website you visit.  We use this information to analyze trends in Website visitation and usage, to administer the Website and to gather general demographic information.  We may link this information to Personally Identifiable Information for these and other purposes, including personalizing your experience on our Website and evaluating our Online Products.
+### What information do we collect and process?
 
-**INFORMATION PROVIDED THROUGH PUBLIC FORUMS AND THE PUBLIC PROFILE FEATURE  **  
-Our Website features public forums such as chat rooms, message boards and bulletin boards where users of our Website can communicate with each other.  We offer a "Public Profile" feature on our Website that allows users to share information about themselves with others.  THIS PRIVACY POLICY DOES NOT PROTECT YOU WHEN YOU USE OUR PUBLIC FORUMS OR PROVIDE INFORMATION, INCLUDING PERSONALLY IDENTIFIABLE INFORMATION, ABOUT YOURSELF THROUGH THE PUBLIC PROFILE FEATURE.  Any information shared in a public forum or through the Public Profile feature is information available to the public and may be seen or collected by third parties that do not adhere to our Privacy Policy.  Users disclose public information on a public forum or through the Public Profile feature at their own risk. _ _ **COLLECTION AND USE OF CHILDREN** **'S PERSONAL INFORMATION**  
-We are committed to protecting the privacy of children.  Our Website is not designed for or directed to children under 13. We do not collect Personally Identifiable Information from any person known to be under 13.  We encourage all parents and guardians to participate in their children's exploration of the Internet and to teach their children about protecting their personal information online.
+We may collect or process various information that you provide to us, including personal contact details, and information related to your purchases, employment or demographic.
 
-**USE OF YOUR PERSONAL INFORMATION**  
-In general, we use the Personal Information collected on our Website to help us understand who uses our Website and how it is used, to personalize your online experience, to assist you in using our Online Products, to improve our Website and to provide subscription billing services upon request.  When you become a registered user or subscribe to one of our Online Products, we may use the Personal Information we collected in order to send you a welcome e-mail that confirms your user name and password.   
-You may choose to subscribe to our electronic newsletters and e-mail communications, which may include information about our products, services and news that may be of interest to you.  If you no longer desire to receive these communications, you can change your preferences on your profile.  We will also provide an opt-out option at the end of every newsletter or e-mail communication.   
-If you contact us via e-mail with questions or comments, we may use the Personal Information we collect from you to respond to those questions or comments, and we may file your questions or comments for future reference.  
-We use the Personal Information we collect to communicate with you.  We may send you important service announcements and updates regarding our Website, Online Products or your billing account status. You will not be able to unsubscribe from these service announcements and updates because they contain important information relevant to your use of our Website and Online Products. ** **
+  1. **Personal contact details includes information such as names, addresses, telephone numbers, or e-mail addresses such as when you provide them to us during online registration or when doing business with us or providing services to us; some websites allow you to establish a user name and password to set up an account.**
+  2. **Purchase-related information includes data regarding purchases you make on our websites, including payment card information and shipping details.**
+  3. **Employment-related information includes your indicated job preferences, work history and information provided on applications submitted to us online.**
+  4. **Demographic information includes data such as age, gender, hobby or activity information, taste or other preference information, and the like.**
 
-**SHARING YOUR PERSONAL INFORMATION WITH THIRD PARTIES**  
-Except as set forth in this Privacy Policy, we will not disclose any Personal Information we collect from you on our Website outside of Royal Canin and our affiliates without your consent.  
-_Affiliates_  
-We may disclose Personal Information we collect from you to our Affiliates.  For purposes of this Privacy Policy, "Affiliates"means any person or entity which directly or indirectly controls, is controlled by or is under common control with Royal Canin, whether by ownership or otherwise. Our Affiliates will treat any information they receive in accordance with the terms of this Privacy Policy.  
-_Third Parties Generally_  
-We may provide to third parties information we collect from you that does not allow you to be identified or contacted, including where such information is combined with similar information from other users of our Website.  For example, we might inform third parties regarding the number of unique users who visit our Website, the demographic breakdown of registered users or the activities visitors to our Website engage in while on our Website.  The third parties to which we may provide this information include potential or actual advertisers, providers of advertising services, including website tracking services, commercial partners, sponsors, licensees and researchers.  
-_Outside Contractors_  
-We may employ independent contractors, vendors and suppliers (collectively, "Outside Contractors") to provide limited services and products related to our Website.  Outside Contractors may include chat room hosts and maintainers, credit card processors, application developers and e-mail service providers.  Outside Contractors may sometimes have limited access to your Personally Identifiable Information collected on our Website in the course of providing those services and products.  Outside Contractors will be permitted to obtain only the Personally Identifiable Information reasonably necessary to deliver those services and products.  We require Outside Contracts to (i) protect the privacy of your Personally Identifiable Information consistent with this Privacy Policy and (ii) not use or disclose your Personally Identifiable Information for any purpose other than providing us with the products or services for which we contracted.  
-_In Response to Laws and Legal Rights_  
-We may disclose your Personal Information if we believe in good faith that we are required to do so in order to comply with an applicable statute, regulation, rule or law, a subpoena, a search warrant, a court or regulatory order or another valid legal process.  We may disclose your Personal Information in special circumstances when we have reason to believe that disclosing this information is necessary to identify, contact or bring legal action against someone who may be violating our Notices and Policies or to protect the safety and security of our users, our Website and the general public.  
-_Successors_  
-We reserve the right to transfer your Personal Information to a third party in the event of a sale, merger or other transfer of all or substantially all of the assets of Royal Canin, provided that the third party agrees to adhere to the terms of this Privacy Policy.
 
-**LINKS TO OTHER WEBSITES**  
-This Privacy Policy applies solely to information collected on our Website.  Our Website may contain links to other Internet sites not owned or operated by Royal Canin.  Please be aware that we are not responsible for the privacy practices of other websites.  We encourage you to be aware when you follow a link from our Website to another website and to read the privacy policies or statements of each website you visit.
 
-**SECURITY OF YOUR PERSONAL INFORMATION**  
-Royal Canin strives to protect the security of your Personal Information collected from our Website and to provide secure transmission of your information from your computer to our servers through industry-standard techniques.  We endeavor to secure your Personal Information on servers located in controlled, secure environments and protected from unauthorized accesses, use or alteration.  Only authorized employees who need access to your information in order to perform a specific task or function are granted access.  All Royal Canin employees must abide by this Privacy Policy and are kept up-to-date on security practices.  Any employee who violates this Privacy Policy is subject to disciplinary action, up to and including termination of employment.  Please be aware that there is always some risk involved in transmitting information over the Internet.  Notwithstanding the above commitments to protect your information from loss, misuse or alteration by third parties, we cannot ensure or warrant the security and privacy of any information you transmit to us.
+We may collect information from other sources, including contact lists, and demographic information from third parties and other sources. This data may be combined with other information that we collect.
 
-**CHOICES REGARDING THE COLLECTION, DISCLOSURE, AND DISTRIBUTION OF PERSONALLY IDENTIFIABLE INFORMATION**  
-Except as otherwise disclosed in this Privacy Policy, we will only use Personally Identifiable Information for the purposes described in this Privacy Policy or as disclosed at the time we request such information from you.  You must opt-in and give us permission to use your Personally Identifiable Information for any other purpose.
+We also collect certain types of information automatically:
 
-**PERSONAL INFORMATION AND COMMUNICATION PREFERENCES**  
-You can contact the webmaster at info@royalcanin.us in order to update or correct your Personally Identifiable Information, change your preferences regarding communications and other information you receive from us or delete the Personally Identifiable Information maintained about you on our systems.  Such updates, corrections, changes and deletions will not have an affect on any order history we may maintain or the information that we provided to third-parties in accordance with this Privacy Policy prior to such update, correction, change or deletion.  
-We will be unable to remove from our entire system every record of the information you provided to us.  The need to back-up our system in order to protect information from inadvertent loss means that a copy of your Personally Identifiable Information may exist that will be difficult or impossible for us to locate.  We promise that after receiving your request, all Personally Identifiable Information stored in databases we actively use and other readily searchable media will be updated corrected, changed or deleted within sixty (60) days. 
+  1. **Your Internet Protocol (IP) address or device identifier, your device's operating system, browser type, websites visited before or after you visit our website, pages viewed and activities at our website, as well as your interaction with advertisements.**
+  2. **Third-party service and advertising partners may also collect information automatically.**
+  3. **Find out more about our collection practices at[How do we use cookies and web beacons.](http://www.mars.com/global/policies/privacy/pp-english.aspx#cookies)**
+
+
+
+### How do we use your information?
+
+We may use your information for a variety of purposes including: to provide products or services that you request; to administer promotions (sweepstakes, contests and offers); to communicate with you; to deliver advertising; to improve our websites, products and services; and for other legitimate business purposes.
+
+  1. **Providing the features, products and services you request: We may use the information we collect about you to fulfill your requests for, and enable your use of, our features, products and services.**
+  2. **Registration, contests and promotions: We may use your information to enter you in contests, to notify you of results and to register you for certain features, products and services.**
+  3. **To communicate with you and provide you with information: We may use your information to communicate with you, to respond to your questions or comments, to provide you with updates and news and to alert you when job vacancies that fit your profile arise (in the event that you submit your resume). We also may use your information to provide you with personalized content, information, and to send you brochures, coupons, samples, offers and other information on our products or our family of companies. We ask visitors providing e-mail addresses to indicate if they would like further information or updates from us or our website and only those who request it will receive follow-up communications from us. We may also ask if you would like to receive information about other products available from members of our family of companies.**
+
+
+
+We also offer visitors an "opt-out" option at any time they wish to cease receiving e-mails or other information from us.
+
+  1. **To deliver to you relevant advertising: We may purchase and use opt-in e-mail lists to contact potential customers who we believe may be interested in products or services from the Mars family of companies. We will honor opt-out requests and ask those providing lists to give us assurances that e-mail contact information is provided only for those consumers who have expressed a desire to receive offers and information by e-mail. We also may use demographic and preference information to allow advertising related to Mars products and services to be targeted to the users for whom they are most pertinent. This is designed so that users will see advertising that is most likely to interest them, and advertisers can display their ads to people who are most likely to be receptive. For further information about our advertising practices, please see[What is our policy on online interest-based advertising](http://www.mars.com/global/policies/privacy/pp-english.aspx#internetad) below.**
+  2. **To provide you with other offers. For example, sometimes our brands will make offers, coupons and information, including catalogues, available to you through the mail. For example, when customers place an online order in our catalogue stores or sign up for one of our catalogues online we may add them to the list to receive that catalogue. We may also use lists we have received from third parties or public sources to send you this information, and, as is routinely done in the catalogue business, may exchange names and addresses (but not e-mail addresses absent consent) of our catalogue customers with other catalogue companies who may also contact you by mail. You may "opt-out" of receiving offline communications from our brands at any time.**
+  3. **To improve our websites, features, products and services. We may use the information that we collect to improve the Mars family of product offerings, services, as well as our websites and features.**
+  4. **For other purposes. We also may use your information for other legitimate purposes, which we strive to identify at the time of collection.**
+
+
+
+### How do we share and disclose your information?
+
+We may share or disclose your information:
+
+  1. **With Mars and the Mars family of companies;**
+  2. **With vendors or agents. For example, we may share your information with companies we have hired to provide services on our behalf. When we share information with these other companies to provide services for us, they are not allowed to use it for any other purpose and must keep it confidential unless you otherwise consent.**
+  3. **Where your information may be transferred along with other business assets.**
+
+
+
+We also may share or disclose personal information, including the content of your communications:
+
+  1. **To comply with the law or respond to legal process or lawful requests, including from law enforcement and government agencies.**
+  2. **To conduct investigations of consumer complaints or possible breaches of law, to protect the integrity of the website, to fulfill your requests, or to cooperate in any legal investigation.**
+  3. **To protect the rights or property of the Mars family of companies or our customers, including enforcing the terms governing your use of the services.**
+  4. **To act on a good faith belief that access or disclosure is necessary to protect the safety of our associates, customers or the public.**
+
+
+
+Please note that our websites may include links to third-party websites whose privacy practices may differ from our privacy practices. If you submit personal information to any of those websites, your information is governed by the privacy policies on those websites. We encourage you to review the privacy policy of any website you visit.
+
+### What about children's privacy?
+
+Our websites are primarily designed and intended for adults and, where brand-appropriate, teenagers. In accordance with the Children's Online Privacy Protection Act (COPPA), we do not knowingly collect or store any personal information about children under age 13, and our company websites are not designed to collect personal information from children under age 13. We may ask visitors to enter a birth date to restrict those who are underage from accessing certain websites, areas or features. If we learn we are dealing with a child under age 13, we may ask for the e-mail address of a parent and make an effort to contact them to determine if the child has permission to provide information to us. For more information, please review our [Special Note to Parents.](http://www.mars.com/global/policies/note-to-parents/np-english.aspx)
+
+### How do we use tracking technologies like "cookies", web beacons and other technologies?
+
+We or our service providers or business partners use technologies like cookies and web beacons to offer certain functions at our website, to understand our visitors, and to offer ads at non-affiliated third-party websites, sometimes using information collected through technology at one of our family of websites and sometimes through third-party networks. Service providers or publishers may display ads for our products at unaffiliated third-party websites based on your online activities. We support self-regulatory programs for this practice, called interest-based advertising or online behavioral advertising, and ask our business partners to do the same. Find out more below at [What are our policies regarding online interest-based advertising?](http://www.mars.com/global/policies/privacy/pp-english.aspx#internetad) Please note that third parties where you might see our ads have their own privacy statements and use technologies which we do not control. We encourage you to read those policies carefully.
+
+#### What are cookies and how do we use them?
+
+"Cookies" are data files that a website sends to your computer while you are viewing the website. These data files include information that allows our websites to remember important information that will make your use of the website more efficient and useful to you. Our websites use cookies for a variety of purposes.
+
+Visitors to our websites use different web browsers and different computers. To make your visits as easy as possible with the technology you use, we automatically keep track of information like the type of browser (e.g., Internet Explorer, Safari, or Firefox) and operating system (e.g., Windows, Mac-OS X) used by a visitor, IP address, domain name of the visitor's Internet service provider, websites visited before and after, pages viewed and activities at our websites, and advertisements seen or clicked on. We also track the total number of visitors to our websites in an aggregate form to allow us to update and improve them. Personal contact information is not extracted in this process. This information tells us if more visitors prefer certain features or areas to others, which helps us keep our websites fresh and interesting to the majority of our visitors.
+
+Cookie technology helps us deliver content tailored to a visitor's interests, and allows us to make ordering products, entering and participating in sweepstakes and contests, and offering other functions at our websites easier for our visitors. Websites that offer online shopping use cookies to remember and process the items in your shopping cart. Where permitted, we may associate personal information with a cookie file in such instances.
+
+Please note that we may allow third parties to advertise on our websites. Some of these third parties may place cookies on your computer for purposes of advertising. we do not control the cookies of third parties. Some of these companies are members of the Network Advertising Initiative (NAI), which offers a single location to opt out of their cookies. Please visit the [Network Advertising Initiative's website.](http://www.networkadvertising.org/optout_nonppii.asp)
+
+#### What are web beacons and how do we use them?
+
+Some of our Web pages and e-mail updates may contain electronic images called "web beacons" (sometimes known as one pixel GIFs, clear GIFs or pixel tags). Web beacons allow us to count visitors who have viewed our webpages. In promotional e-mail messages and newsletters, web beacons allow us to count how many subscribers have read them. Web beacons allow us to develop statistical information about the activities and features that most interest our consumers for the purpose of providing more personalized content. Web beacons are not used to access personal information without your consent.
+
+#### What if you don't want cookies?
+
+If you don't want cookies, you can set your computer to warn you each time a cookie is being sent or turn off all cookies (except Flash cookies) through your browser (e.g., Internet Explorer or Safari). Check your browser "help" menu to learn the correct way to change or update your cookies. To find out more about how to manage or delete Flash cookies, visit Adobe. Please note that if you do not accept cookies, some features or activities may not be available to you.
+
+### What are our policies regarding online interest-based advertising?
+
+We support the Self-Regulatory Principles for Online Behavioral Advertising of the Digital Advertising Alliance in the US and applies to US consumers. More information about these Principles can be [found here](http://www.aboutads.info/obaprinciples). Advertisements that we place online using interest-based data are expected to be delivered with the Advertising Option Icon to help consumers understand how their data is being collected and used and to provide choices for consumers who want more control. The Icon looks like this:
+
+By clicking on the Icon when it appears, you can review information (and follow information) regarding online interest-based advertisements, including who is collecting and using your online data, how you can opt-out from receiving such advertisements, and more.
+
+#### How do we serve advertisements through online interest-based advertising?
+
+At times we display ads both on our network of owned and operated websites and on the websites of third parties. When you visit one of our websites or view ads that we serve elsewhere online, you may see different kinds of ads, such as text ads next to search results or video ads on web pages. Sometimes, these ads are based on the content of the pages on which they appear. Other times, these ads are generated by matching the particular ad to your interests as inferred from your online activities that have been collected over time. With interest-based advertising, the goal is to show you ads that are most relevant to you.
+
+To do this, we and some of our third-party advertising companies use technologies such as cookies and web beacons to collect information about your interaction with our websites and other third-party websites ("Online Data"). This Online Data generally does not identify you to us personally and, typically, it is aggregated with other data to create segments - groups of users and certain general interest categories that we have inferred based on a variety of factors (for example, "sports fan"). The Online Data can include:
+
+  1. **The Web pages, products and services you view and links you click when using our websites and services as well as third-party websites;**
+  2. **Our e-mails that you view and links you click on within that e-mail;**
+  3. **Whether you view or click on ads that are shown to you;**
+  4. **Demographic or interest data, including general geographic location derived from IP address;**
+  5. **Offline purchase data that may be combined with Online Data to create a better profile regarding your interests or purchasing preferences; and**
+  6. **The search terms you enter when using certain search services.**
+
+
+
+We and our third-party advertising partners use this Online Data to paint a more accurate picture of the interests of the audiences with which we interact - including you - so that we can serve ads that are more relevant to those interests.
+
+In addition, our third-party advertising partners use this Online Data for a variety of other purposes, including (a) in conjunction with advertising that appears on our website or other websites, (b) for reporting website traffic, statistics, advertisement data and other interaction with ads and the websites on which they are served, and (c) to measure the effectiveness of web-based and e-mail advertisements.
+
+#### Why would you want to receive interest-based ads?
+
+Consumers like to receive interest-based ads for many different reasons. Interest-based ads are helpful because they are more tailored to your particular interests. For example, cat owners may see more ads for cat food and fewer ads for dog grooming services. Interest-based ads also are more likely to help them discover new products and services that are actually relevant to them and their interests. For example, dog owners may see an ad about the latest dog-grooming products, whereas cat owners might be more likely to see an ad for the latest feline hairball solution. In short, receiving interest-based ads can help to improve their access to new products, services and features that are most relevant to them, which in turn could help to improve their life and social experiences. Consumers also will not see the same ads over and over from us because the number of times they see a particular interest-based ad is limited. By opting-out of interest-based ads, they lose all of these benefits.
+
+#### How can consumers opt-out of receiving interest-based ads from us?
+
+If consumers do not want this website to show them interest-based ads they can opt-out by following the instructions [here](http://www.mars.com/global/policies/adchoices/ac-english.aspx?eid=2155). If they do not want to receive interest-based ads from any of our US sites, they need to click the AdChoices link in the footer section of that website and follow the instructions there. Please note, however, that opting-out does not mean they will no longer see ads from us online. It simply means that the online ads from us they do see will not be based on their particular interests.
+
+For more information about who we allow to use technologies on our website to collect Online Data about you such as your interaction with our website, please click on the link at the bottom of our homepage.
+
+### What else do you need to know?
+
+#### Where is your information stored and processed?
+
+Personal information collected on our websites and services, or received by Mars from you or third parties, may be stored and processed in the United States or any other country where we or our service providers maintain facilities.
+
+The servers and databases in which information may be stored may be located outside the country from which you accessed this website and in a country that does not have the same privacy laws as your country of residence. The personal information you provide us may be transmitted abroad, but we will collect, process and use personal information only in accordance with this privacy statement.
+
+Employment-related queries may also be transferred to any member of the Mars family of companies. By visiting this website and submitting information, you consent to such collection, processing, transfer and/or storage of your personal information. Please note: our policies may differ by region, so if you visit one of our websites in a different region, please check to see if there is a statement specific to that location.
+
+#### What about chat rooms, message boards, or other interactive forums?
+
+We may offer chat rooms, message or bulletin boards, or interactive areas where visitors may post comments or information for our visitors' enjoyment. If there is a chat room, bulletin or message board, social networking opportunities or other interactive areas where personal information may be posted at this website, be sure to check posted rules before entering, as you will be bound by them as well as our General Terms and Conditions. Rules for participation in interactive features may establish age and other restrictions on participation. Anything you post online is public information, and we are not responsible for anything you voluntarily post online. Users should exercise caution when disclosing personal information online.
+
+#### How do we safeguard your information?
+
+We have implemented administrative, physical and technical safeguards designed to protect your information. If online shopping is permitted at the website, we use Secure Sockets Layer (SSL) to communicate with your browser software when you order from us online and thereby provide us with payment card or related information. SSL is the industry standard security protocol, which makes it very difficult for anyone else to intercept your credit card / transaction and order information that you send us when you submit your online order. Otherwise, the transmission of information to and from us is not encrypted or secure. We limit access to personal information to those who have a business need. We keep personal information only for a reasonably needed amount of time.
+
+No security measures can be 100% secure, however, and so we recommend that you take additional measures to protect yourself and your information, including by installing up to date anti-virus software, closing browsers after use, keeping confidential your log-in credentials and passwords, and making sure that you regularly update software and apps you have downloaded to ensure you have enabled the latest security features on your devices.
+
+#### Changes to this Privacy Statement
+
+We may update this privacy statement from time to time, so please visit this page periodically and review this statement for changes. We will notify you of material changes to this privacy statement by posting a notice on our home page for a reasonable period of time and changing the "Last Updated" date [(below)]. Your continued use of our websites following the posting of changes will mean that you accept the changed terms.
+
+#### What should you do if you have questions, wish to access, update or delete information, or wish to opt-out of receiving future communications?
+
+We take steps to keep your personal information accurate. You can view, correct or update the personal contact information you provide to Mars. Some Mars programs provide access to view or update personal information online. Check where you registered to learn if you can view or update your information there.
+
+If you would like us to access, update, change, or delete information we have about you in our marketing database (subject to any applicable legal exceptions), would like to opt-out of receiving further communications from us, or have questions about our privacy statement, please [click here](mailto:privacy@effem.com).
+
+### How can you contact us?
+
+To contact us, [privacy@effem.com](mailto:privacy@effem.com)  
+Our Mailing Address is: Global Privacy Team, Dundee Road, Slough, Berkshire  
+SL1 4LG.
+
+#### Our Commitment
+
+We are committed to working with you to resolve any complaints you may have regarding this Privacy Statement or the treatment of your personal information. If you have a concern, please contact [privacy@effem.com](mailto:privacy@effem.com) and your communication will be promptly addressed.
+
+We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. We have certified that we adhere to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification, please visit <http://www.export.gov/safeharbor/>
+
+If you are a resident of the EEA or Switzerland and you feel that we have not resolved your concerns as described above, you have the right to bring your concern to your local data protection authority (DPA) authorized to receive such complaints. We will cooperate with any appropriately authorized DPA in the investigation and resolution of complaints brought under the Safe Harbor and will comply with the lawful advice of such DPA.
+
+### What are your California Privacy Rights?
+
+California law permits residents of California to opt-out of Mars' disclosure of personal information to third parties for their direct marketing purposes. You may choose to opt-out of the sharing of your personal information with third parties for marketing purposes at any time by submitting a request in writing to our contact address above or by e-mailing us at [privacy@effem.com](mailto:privacy@effem.com). Please note that this opt-out does not prohibit disclosure made for non-marketing purposes. California law also permits residents of California to request and obtain from us once per year, free of charge, a list of the third parties (if any) to whom we have disclosed personal information for their direct marketing purposes in the prior calendar year, as well as the type of personal information disclosed to those parties. If you are a California resident and would like to request this information, please submit your request in an e-mail to: [privacy@effem.com](mailto:privacy@effem.com) or by writing to our contact address above. Requests via telephone or facsimile will not be accepted. The e-mail subject line or mailing envelope and the content of your request must include the phrase "Your California Privacy Rights," and include your name, e-mail address (if you wish to receive a response via e-mail) or street address, city, state, zip code (if you wish to receive a response via postal mail).
+
+Last Updated: March, 2014
