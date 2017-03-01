@@ -1,44 +1,39 @@
-> *The following text is extracted and transformed from the sugardaddie.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232328id_/http%3A//sugardaddie.com/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugardaddie.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301120745id_/https%3A//sugardaddie.com/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy for Sugar Daddy and Sugar Babe online dating personals
 
-Sugardaddie.com Contact Phone Numbers and Privacy Policy
-
 Our Commitment To Privacy:
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-The Information We Collect: 
+The Information We Collect:
 
-This notice applies to all information collected or submitted on Sugardaddie.com online dating site. The types of personal information collected at these pages are: Email address: 
+This notice applies to all information collected or submitted on Sugardaddie.com online dating site. The types of personal information collected at these pages are: Email address:
 
-The Way We Use Information: 
+The Way We Use Information:
 
-We use your email address simply as a way to verify your membership and to notify you when you have received messages on this website. We do not sell or pass on your information to any third party source. 
+We use your email address simply as a way to verify your membership and to notify you when you have received messages on this website. We do not sell or pass on your information to any third party source.
 
 Our Commitment To Data Security:
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-How You Can Access Or Correct Your Information: 
+How You Can Access Or Correct Your Information:
 
-You can change your email address by contacting us through the feedback option on the menu bar on the home page of this site. 
+You can change your email address by contacting us through the feedback option on the menu bar on the home page of this site.
 
 Use Of Cookies:
 
-A cookie is a piece of data stored on the user’s computer tied to information about the user and are commonly used by websites to make it easier to navigate through web pages on the site. Sugardaddie.com uses cookies to manage sessions on our site. Users must enable cookies on your computer to use our site. We do not use cookies to collect personal information from any member which they did not intentionally submit to us.   
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+A cookie is a piece of data stored on the user’s computer tied to information about the user and are commonly used by websites to make it easier to navigate through web pages on the site. Sugardaddie.com uses cookies to manage sessions on our site. Users must enable cookies on your computer to use our site. We do not use cookies to collect personal information from any member which they did not intentionally submit to us. To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-How To Contact Us: 
+How To Contact Us:
 
-Should you have other questions or concerns about these privacy policies, please send us an email at management@sugardaddie.com or contact us within this site by clicking on the feedback option on the menu bar on the main page. 
+Should you have other questions or concerns about these privacy policies, please send us an email at management@sugardaddie.com or contact us within this site by clicking on the feedback option on the menu bar on the main page.
 
 Or call us:
 
 Sugardaddie.com Contact Phone numbers
 
-USA and Canada 888 644 3330
-
-Australia (02) 8091 7221
-
+USA and Canada 888 644 3330  
+Australia (02) 8091 7221  
 UK 0845-5280842
