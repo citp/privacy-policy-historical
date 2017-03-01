@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215054621id_/https%3A//valottery.com/vaprivacystatement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the valottery.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301092054id_/https%3A//valottery.com/vaprivacystatement.aspx) for the most accurate reproduction.*
 
 # Official Home of the Virginia Lottery - Privacy Statement
 
@@ -19,7 +19,7 @@ If you register for a Virginia Lottery subscription or promotion, create an acco
 
 
 
-If you do not want your personal information collected, please do not submit it to us! If you have already sent this information to us and would like for us to delete it, please [contact us](https://web.archive.org/contactus.aspx).
+If you do not want your personal information collected, please do not submit it to us! If you have already sent this information to us and would like for us to delete it, please [contact us](https://web.archive.org/en/contactus.aspx).
 
 We use this information to:
 
@@ -36,7 +36,7 @@ We use this information to:
 
 As part of winning prizes from the Virginia Lottery, it is our policy to reserve the right to share and display some of your information on our website and social media pages. Specific language is included in all official game and promotion rules to advise players of the specifics of this policy.  Claimants may have their first and last name, photo, hometown, and prize amount shared or displayed in these locations.
 
-To request removal of your personal information from our website, contact us [here](https://web.archive.org/contactus.aspx).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+To request removal of your personal information from our website, contact us [here](https://web.archive.org/en/contactus.aspx).  In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 Except as specified above, the Virginia Lottery does not collect personal information. 
 
@@ -68,6 +68,6 @@ The Virginia Lottery does not warrant the accuracy, reliability or timeliness of
 
 We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this website prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Virginia Lottery does not store this information for the sole purpose of sending this one-time email. Your friend may contact us at our [Contact Us ](https://web.archive.org/contactus.aspx)page to request that we remove this information from our database.
+If you choose to use our referral service to tell a friend about our website, we will ask you for your friend’s name and email address. We will automatically send your friend a one-time email inviting him or her to visit the website. Virginia Lottery does not store this information for the sole purpose of sending this one-time email. Your friend may contact us at our [Contact Us ](https://web.archive.org/en/contactus.aspx)page to request that we remove this information from our database.
 
-To offer comments about the Virginia Lottery website, about the information presented in this Privacy Statement, or to find your closest customer service center, please visit our [Contact Us](https://web.archive.org/contactus.aspx) page.  Our headquarters is located at, and our mailing address is, 900 E. Main Street, Richmond, VA 23219.
+To offer comments about the Virginia Lottery website, about the information presented in this Privacy Statement, or to find your closest customer service center, please visit our [Contact Us](https://web.archive.org/en/contactus.aspx) page.  Our headquarters is located at, and our mailing address is, 900 E. Main Street, Richmond, VA 23219.
