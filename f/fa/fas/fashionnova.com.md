@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fashionnova.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924073822id_/http%3A//www.fashionnova.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fashionnova.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301154835id_/https%3A//www.fashionnova.com/pages/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Fashion Nova
+# Privacy Policy
 
 ******What information do we collect?**
 
@@ -46,16 +46,13 @@ To delete all of your online account information from our database, sign into th
 In an attempt to provide you with increased value, we may include third party links on our site. These linked sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these linked sites (including if a specific link does not work).
 
  **Changes to our policy**  
-If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change.  **This policy was last modified on August 12, 2013.**
+If we decide to change our privacy policy, we will post those changes on this page. Policy changes will apply only to information collected after the date of the change.  **This policy was last modified on Jan 16, 2016.**
 
  **Questions and feedback**  
 We welcome your questions, comments, and concerns about privacy. Please send us any and all feedback pertaining to privacy, or any other issue.
 
  **Online Policy Only**  
 This online privacy policy applies only to information collected through our website and not to information collected offline.
-
- **Terms and Conditions**  
-Please also visit our [Terms and Conditions](http://www.fashionnova.com/terms.asp) section establishing the use, disclaimers, and limitations of liability governing the use of our website.
 
  **Your consent**  
 By using our site, you consent to our privacy policy.
