@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the intego.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116182653id_/https%3A//www.intego.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intego.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301042433id_/https%3A//www.intego.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Intego Privacy Policy
 
@@ -35,11 +35,11 @@ Mac Premium Bundle X9
 [Buy Now](https://web.archive.org/mac-protection-bundle)  
 Free Trial
 
-### Start Your Free Intego Trial Now
+### Get Your Free Trial Download
 
 ### Thank You!
 
-Enter your email address below to start your free trial.
+Get Your Free Trial Download
 
 Please check your email to verify your email address and download your free trial
 
