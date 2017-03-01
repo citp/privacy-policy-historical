@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the afterpay.com.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119214311id_/https%3A//www.afterpay.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the afterpay.com.au privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301051605id_/https%3A//www.afterpay.com.au/privacy) for the most accurate reproduction.*
 
-# Privacy | Afterpay | Simple Interest-free Instalment Plans
+# Privacy | Afterpay | Shop Now. Pay Later. In 4 Simple Instalments.
 
 This privacy policy ( **‘the Privacy Policy’** ) applies to websites operated by Afterpay Pty Ltd ACN 169 342 947, and its related bodies corporate, ( **‘Afterpay’, ‘we’, ‘us’** or **‘our’** ) under the domain names [www.afterpay.com.au](http://www.afterpay.com.au/), [www.secure-afterpay.com](http://www.secure-afterpay.com/) and [www.secure-afterpay.com.au](http://www.secure-afterpay.com.au/) (together, **‘the Websites’** ).
 
