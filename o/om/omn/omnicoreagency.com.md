@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omnicoreagency.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409084557id_/http%3A//www.omnicoreagency.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omnicoreagency.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301172444id_/https%3A//www.omnicoreagency.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,7 @@ The mere act of visiting the website, even without reading the subject legal doc
 
 ## What Information do we collect During Your Visit?
 
-Omnicore Agency utilizes Google Analytics and other Analytics tools to track visitors activity for better user experience. Omnicore Agency has enabled Google Analytics features such as: including features such as display advertising, remarketing, and Google Analytics Demographics and Interest reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). Users may opt out of Google’s use of cookies by visiting the our [Cookies opt-out policy page](http://www.omnicoreagency.com/browser-cookies-settings) for all browsers with complete instructions.
+Omnicore Agency utilizes Google Analytics and other Analytics tools to track visitors activity for better user experience. Omnicore Agency has enabled Google Analytics features such as: including features such as display advertising, remarketing, and Google Analytics Demographics and Interest reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using the [Ads Settings](https://www.google.com/settings/ads). Users may opt out of Google’s use of cookies by visiting the our [Cookies opt-out policy page](http://hafiz786.wpengine.com/browser-cookies-settings) for all browsers with complete instructions.
 
 ## How Cookies Work
 
@@ -63,6 +63,14 @@ We reserve the right, at any time and without notice, to add to, update, change,
 ## Refund Policy
 
 All payments made for services are final as agreed upon in the client contract form. Payments are only requested when client agrees on the project deliverables and the scope of work which means Omnicore reserves the right to keep any funds that have been paid for the consultation and services we offer.
+
+## **Amazon Affiliate Program Disclaimer**
+
+OmnicoreAgency.com participates in the Amazon Services LLC Associates Program, which is a way for OmnicoreAgency.com to earn revenue by advertising and linking products from amazon.com and any of its affiliated websites, including but not limited to any other sites affiliated with the Amazon Services LLC Associates Program.
+
+**Amazon Trademark Disclaimer:**
+
+All Amazon markings and logos are the exclusive trademarks and property of Amazon.com, Inc. or its affiliates or subsidiaries.
 
 ## How to Contact Us:
 
