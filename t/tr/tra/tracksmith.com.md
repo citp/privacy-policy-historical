@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the tracksmith.com privacy policy that was archived on 2016-08-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160829050604id_/http%3A//www.tracksmith.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tracksmith.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301200031id_/http%3A//www.tracksmith.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Tracksmith
 
 Disclaimer 
 
