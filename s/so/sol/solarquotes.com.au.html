@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the solarquotes.com.au privacy policy that was archived on 2016-08-18.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160818132818id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the solarquotes.com.au privacy policy that was archived on 2017-03-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170301054757id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml"><head>
 <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -9,7 +9,7 @@
 <meta http-equiv="Content-type" content="text/html; charset=UTF-8">
 <meta http-equiv="Content-Language" content="en">
 <meta name="description" content="Privacy Policy - Get 3 Free Quotes for Solar Power Systems from Trusted Local Installers">
-<link rel="stylesheet" href="/css/2014_02_style.css?1468499128">
+<link rel="stylesheet" href="/css/2014_02_style.css?1487587888">
 <link rel="stylesheet" href="/css/jquery-ui-custom.min.css?1453090558">
 <link rel="stylesheet" href="/css/2014_02_fonts.css?1453090558">
 <link href="//fonts.googleapis.com/css?family=Quicksand:700" rel="stylesheet" type="text/css">
@@ -128,17 +128,6 @@
 
 	<!-- begin Convert Experiments code--><script type="text/javascript" src="//cdn-3.convertexperiments.com/js/10001088-1000942.js"></script><!-- end Convert Experiments code -->
 
-	<script>
-	    (function(h,o,t,j,a,r){
-	        h.hj=h.hj||function(){(h.hj.q=h.hj.q||[]).push(arguments)};
-	        h._hjSettings={hjid:134840,hjsv:5};
-	        a=o.getElementsByTagName('head')[0];
-	        r=o.createElement('script');r.async=1;
-	        r.src=t+h._hjSettings.hjid+j+h._hjSettings.hjsv;
-	        a.appendChild(r);
-	    })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
-	</script><script async="" src="//static.hotjar.com/c/hotjar-134840.js?sv=5"></script>
-
 <script type="text/javascript">
 var ua = navigator.userAgent.toLowerCase(),
 platform = navigator.platform.toLowerCase();
@@ -158,7 +147,7 @@ type='text/javascript';e.parentNode.insertBefore($,e)})(document,'script');
 		<style type="text/css">
 			.main_container{margin: auto;width: 1024px;}		</style>
 		
-	<link rel="stylesheet" href="/css/2014_02_content.css?1466334628">
+	<link rel="stylesheet" href="/css/2014_02_content.css?1487588675">
 		<style type="text/css">
 						</style>
 	</head>
@@ -216,7 +205,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<div class="form-check form-check-rounded">
 						<form action="https://www.solarquotes.com.au/quote/index.php" method="get" class="postcode-form">
 							<div class="form-head">
-								<p>Check Your Postcode for local solar power quotes</p>
+								<p>Ready for some quotes? Enter your postcode now</p>
 							</div>
 
 							<div class="form-body">
@@ -233,6 +222,9 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			<style type="text/css">
 	.mobile-search{
 		display: none;
+	}
+	.mobile-menu-item{
+		display:none;
 	}
 
 	@media only screen and (max-width: 767px) {
@@ -263,13 +255,45 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		cursor: pointer;
 		background-size: 50%;
 	}
+	
+	.mobile-menu-item{
+		display:block;
+	}
+	.desktop-menu-item{
+		display:none !important;
+	}
 	}
 </style>
 <script type="text/javascript">
 	$(document).ready(function(){
 		$('.mobile-search-image').click(function(){
 			doGoogleSearch($('#mobile-search-val'));
-		});	
+		});
+		
+		$('#search-form').on('submit', function(event){
+			event.preventDefault();
+			event.stopPropagation();
+			doGoogleSearch($('#search-input-desktop'));
+			$(this).parent().removeClass('search-open');
+		});
+		
+		$('.nav #search').on('click', function(event){
+			event.preventDefault();
+			$input = $('#search-input-desktop');
+			if($input.is(':visible')){
+				if($input.val() == ''){
+					$(this).parent().removeClass('search-open');
+				}else{
+					doGoogleSearch($input);
+					$(this).parent().removeClass('search-open');
+				}
+			}else{
+				setTimeout(function(){
+					$('#search-input-desktop').get(0).focus();
+					}, 1000);
+				$(this).parent().addClass('search-open');	
+			}
+		});
 	});
 </script>
 <div class="nav">
@@ -277,14 +301,26 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				<ul>
 			<li class="nav-menu-item"><a href="#">Menu<i class="icon-arrow-down"></i></a></li>
 			<li style="padding-left: 0px;"><a href="https://www.solarquotes.com.au/">home</a></li>
-			<li><a href="https://www.solarquotes.com.au/quote/index.php">get quotes</a></li>
+			<li><a href="https://www.solarquotes.com.au/solar101.html" style="color:red;font-weight:bold;">start here</a></li>
 			<li><a href="https://www.solarquotes.com.au/testimonials.html">testimonials</a></li>
 			<li><a href="https://www.solarquotes.com.au/about-us.html">about</a></li>
 			<li><a href="https://www.solarquotes.com.au/faq.html">faq</a></li>
-			<li><a href="http://www.solarquotes.com.au/blog/">blog</a></li>
+			<li><a href="https://www.solarquotes.com.au/blog/">blog</a></li>
 			<li><a href="https://www.solarquotes.com.au/contact/">contact</a></li>
+			<li class="menu-search desktop-menu-item">
+				<form id="search-form">
+					<div style="text-align: right;">
+						<div class="desktop-search-container">
+							<input type="text" id="search-input-desktop" placeholder="Search...">
+						</div>
+					</div>
+				</form>
+				<a href="#" id="search">
+					<span>Search</span>
+				</a>
+			</li>
 			<li class="mobile-search">
-				<div class="input text"><input type="text" name="search" id="mobile-search-val" placeholder="Search website..."></div>				<div class="mobile-search-image"></div>
+				<input type="text" name="search" id="mobile-search-val" placeholder="Search website...">				<div class="mobile-search-image"></div>
 
 			</li>
 		</ul>
@@ -299,11 +335,13 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <h1 class="MsoTitle" style="margin-bottom: 18.0pt; mso-outline-level: 1;"><strong><a name="_GoBack"></a></strong>SolarQuotes Privacy Policy</h1>
 
-<p><strong>The details of our privacy policy are below. But here are our 3 Golden Rules when it comes to collecting personal information:</strong></p>
+<p><strong>The details of our privacy policy are below. But here are our 4&nbsp;Golden Rules:</strong></p>
 
 <p><em>"If you ask for 3 quotes, your information will only be provided to a maximum of 3 solar power companies who serve your area. Each installer is only allowed to use your information to give you a solar quote.</em></p>
 
-<p><em>We hate spam as much as you do. We will never pass your information on to anyone except the 3 solar installers unless you give us your explicit permission to do so.</em></p>
+<p><em>If you check the box saying you are looking for finance we will provide your information to Parker Lane&nbsp;to contact you about your solar finance options. We will only do this after you submit your request for a quote and you have consented to being contacted by Parker Lane. Parker Lane is a trading name of Upside Downside Pty Ltd Australian Credit License number 482276, and has appointed us as its corporate credit representative. Our credit representative number is 482276</em>&nbsp;<em>. We will receive a fee for a successful referral to Parker Lane&nbsp;which results in a loan. Parker Lane&nbsp;is required to disclose any fee payable to us in their documentation to you.&nbsp;&nbsp;</em></p>
+
+<p><em>We hate spam as much as you do. We will never pass your information on to anyone except the 3 solar installers and Parker Lane unless you give us your explicit permission to do so.</em></p>
 
 <p><em>We will send you emails walking you through the solar buying process, asking you for feedback and may send updates on the solar industry and occasional offers that we think may be of interest to you. Every email will have a prominent unsubscribe link if you don't want to receive them any more."</em></p>
 
@@ -315,7 +353,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p style="margin-left: 30px;">1. We are committed to protecting your privacy. We have set out what information we collect about you when you visit our website and how we use that information below.</p>
 
-<p style="margin-left: 30px;">2. If you visit our website, we may collect certain information for analysis purposes, including—</p>
+<p style="margin-left: 30px;">2. When&nbsp;you visit our website, we may collect certain information for analysis purposes, including—</p>
 
 <p class="CorrNumbering" style="margin-left: 60px;">2.1.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; how many times you visit our website, what pages you view, and how long you stay on our website;</p>
 
@@ -345,7 +383,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <p class="CorrNumbering" style="margin-left: 60px;">4.7.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; any other details that you choose to provide to us using the form;</p>
 
-<p class="CorrNumbering" style="margin-left: 60px;">4.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and use it for the purpose of matching you with suitable suppliers, who will then contact you with the information that you provided to give you a quote.</p>
+<p class="CorrNumbering" style="margin-left: 60px;">4.8.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; and use it for the purpose of matching you with suitable suppliers, who will then contact you with the information that you provided to give you a quote.&nbsp;We will also provide your information to [Upside] to contact you about your solar finance options. You can access Parker Lane's&nbsp;privacy policy here [create link].&nbsp;Please note that we do not operate or control the websites of any supplier, and we are not responsible for their privacy practices. We encourage you to read and understand the privacy policies of any website that collects personal information.</p>
 
 <p style="margin-left: 30px;">5. We will only collect your personal information by lawful and fair means.</p>
 
@@ -450,7 +488,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 					<ul>
 						<li><a href="https://www.solarquotes.com.au/calc5/index.php">Solar Power Calculator</a></li>
 						<li><a href="https://www.solarquotes.com.au/battery-storage/comparison-table/">Battery Comparison Table</a></li>
-						<li><a href="https://www.solarquotes.com.au/energy/">Compare Electricity Tariffs</a></li>
+						<li><a href="https://www.solarquotes.com.au/energy/">Compare Feed In Tariffs</a></li>
 						<li><a href="https://www.solarquotes.com.au/solar-power-panel-estimator-2.htm">Solar Roof Estimator</a></li>
 					</ul>
 				</div>
@@ -469,7 +507,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 		<div class="form-check">
 			<form action="https://www.solarquotes.com.au/quote/index.php" method="get" class="postcode-form">
 				<div class="form-row">
-					<label for="postcode" class="form-label">Check Your Postcode for local solar power quotes</label>
+					<label for="postcode" class="form-label">Ready for some quotes? Enter your postcode now</label>
 					<div class="form-controls">
 						<input type="text" id="dpostcode" class="field dpostcode" placeholder="Enter Your Postcode" title="Enter Your Postcode" tabindex="-1" maxlength="4">
 						<input type="number" id="mpostcode" class="field mpostcode" pattern="\d*" placeholder="Enter Your Postcode" title="Enter Your Postcode" tabindex="-1">
@@ -484,7 +522,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 <div class="footer-bottom">
 	<div class="shell">
-		<p class="copyrights">© 2009 to 2016 Peacock Media Group</p>
+		<p class="copyrights">© 2009 to 2017 Peacock Media Group</p>
 		<ul>
 			<li><a href="https://www.solarquotes.com.au/supplier/login.php" rel="nofollow">Login</a></li>
 			<li><a href="https://www.solarquotes.com.au/sitemap.html">Sitemap</a></li>
@@ -537,7 +575,8 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			}
 		});
 
-		$('.pbp-close').click(function(){
+		$('.pbp-close').click(function(event){
+			event.preventDefault();
 			postcode_popup(false);
 		});
 
@@ -549,8 +588,14 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 			}
 			if($(window).width() > 767)
 				window.location = $(this).parents().filter('.postcode-box-popup').data('href') + '?postcode=' + postcode;
-			else
-				window.location = $(this).parents().filter('.postcode-box-popup').data('href').replace('/quote', '/mobilequote') + '?postcode=' + postcode;
+			else{
+				var $href = $(this).parents().filter('.postcode-box-popup').data('href');
+				$href = $href.replace('/quote', '/mobilequote') + '?postcode=' + postcode;
+				if($href.indexOf('index') >= 0){
+					$href = $href.replace('index.php', '');
+				}
+				window.location = $href;
+			}
 		});
 
 		$("#pbp-postcode").keydown(function (e) {
@@ -612,7 +657,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 				$('html').addClass('chrome-mac');
 			}
 		</script>
-		
+
 		<style type="text/css">
 			.chrome-mac strong, .chrome-mac b{
 				font-family: 'Helvetica Neue Medium';
