@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rasqal.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322041919id_/http%3A//rasqal.com/%3Fpage_id%3D224) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rasqal.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301084923id_/http%3A//rasqal.com/%3Fpage_id%3D224) for the most accurate reproduction.*
 
 # Privacy Policy Rasqal's Savings & Daily Deals
 
