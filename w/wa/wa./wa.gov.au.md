@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wa.gov.au privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111220227id_/https%3A//www.wa.gov.au/content/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wa.gov.au privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301051437id_/https%3A//www.wa.gov.au/content/privacy) for the most accurate reproduction.*
 
 # Privacy | wa.gov.au
 
