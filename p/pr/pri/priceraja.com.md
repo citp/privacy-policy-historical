@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the priceraja.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911214130id_/https%3A//priceraja.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the priceraja.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301200143id_/https%3A//priceraja.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
