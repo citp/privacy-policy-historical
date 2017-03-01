@@ -1,12 +1,14 @@
-> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818132818id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solarquotes.com.au privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301054757id_/https%3A//www.solarquotes.com.au/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Solar Quotes | Power, Panels, Rebate, Installers
 
-**The details of our privacy policy are below. But here are our 3 Golden Rules when it comes to collecting personal information:**
+**The details of our privacy policy are below. But here are our 4  Golden Rules:**
 
 _"If you ask for 3 quotes, your information will only be provided to a maximum of 3 solar power companies who serve your area. Each installer is only allowed to use your information to give you a solar quote._
 
-_We hate spam as much as you do. We will never pass your information on to anyone except the 3 solar installers unless you give us your explicit permission to do so._
+_If you check the box saying you are looking for finance we will provide your information to Parker Lane  to contact you about your solar finance options. We will only do this after you submit your request for a quote and you have consented to being contacted by Parker Lane. Parker Lane is a trading name of Upside Downside Pty Ltd Australian Credit License number 482276, and has appointed us as its corporate credit representative. Our credit representative number is 482276_  _. We will receive a fee for a successful referral to Parker Lane  which results in a loan. Parker Lane is required to disclose any fee payable to us in their documentation to you.  _
+
+_We hate spam as much as you do. We will never pass your information on to anyone except the 3 solar installers and Parker Lane unless you give us your explicit permission to do so._
 
 _We will send you emails walking you through the solar buying process, asking you for feedback and may send updates on the solar industry and occasional offers that we think may be of interest to you. Every email will have a prominent unsubscribe link if you don't want to receive them any more."_
 
@@ -16,7 +18,7 @@ _We will send you emails walking you through the solar buying process, asking yo
 
 1\. We are committed to protecting your privacy. We have set out what information we collect about you when you visit our website and how we use that information below.
 
-2\. If you visit our website, we may collect certain information for analysis purposes, including—
+2\. When you visit our website, we may collect certain information for analysis purposes, including—
 
 2.1.         how many times you visit our website, what pages you view, and how long you stay on our website;
 
@@ -46,7 +48,7 @@ _We will send you emails walking you through the solar buying process, asking yo
 
 4.7.         any other details that you choose to provide to us using the form;
 
-4.8.         and use it for the purpose of matching you with suitable suppliers, who will then contact you with the information that you provided to give you a quote.
+4.8.         and use it for the purpose of matching you with suitable suppliers, who will then contact you with the information that you provided to give you a quote. We will also provide your information to [Upside] to contact you about your solar finance options. You can access Parker Lane's privacy policy here [create link]. Please note that we do not operate or control the websites of any supplier, and we are not responsible for their privacy practices. We encourage you to read and understand the privacy policies of any website that collects personal information.
 
 5\. We will only collect your personal information by lawful and fair means.
 
