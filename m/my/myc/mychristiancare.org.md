@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the mychristiancare.org privacy policy that was archived on 2014-07-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140723113704id_/https%3A//mychristiancare.org/Privacy_Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mychristiancare.org privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301175645id_/https%3A//mychristiancare.org/utility/internet-privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Christian Care Ministry;Christian Care ministry privacy policy
+# Internet Privacy Policy | Medi-Share
 
-Last Updated: July 1, 2011 
-
-MyChristianCare.org is a Web site (Site) of Christian Care Ministry, Inc.. This Site is one of the family of Sites operated by various ministries related to Christian Care Ministry, Inc. When we use the terms "we" "us" or "our," we refer to Christian Care Ministry, Inc. and affiliated ministries ("Our Organization"). 
+MyChristianCare.org is a Web site (Site) of Christian Care Ministry, Inc. This Site is one of the family of Sites operated by various ministries related to Christian Care Ministry, Inc. When we use the terms "we" "us" or "our," we refer to Christian Care Ministry, Inc. and affiliated ministries ("Our Organization"). 
 
 Please know that we are committed to protecting and appropriately handling the private and personal information of users and visitors to this Site. We are publishing this Privacy Statement to let you know how we handle personal information in this Site. We may, from time-to-time, update this privacy notice so we encourage you to periodically review this policy. We will notify you about material changes in the way we treat personal information by placing a notice on our site. 
 
 1\. Using this Site. 
 
-Please read our [Terms of Use](http://mychristiancare.org/Website_Terms_of_Use.aspx "Terms of Use") (the "Terms of Use") to find out more about the requirements for using this Site. 
+Please read our [Terms of Use](https://web.archive.org/utility/website-terms-of-use/ "Terms of Use") (the "Terms of Use") to find out more about the requirements for using this Site. 
 
 2\. Collection and Use of Information. 
 
@@ -66,4 +64,4 @@ A link named "Contact" may be provided on pages of Our Site. Please click on thi
 
 12\. Your California Privacy Rights. 
 
-California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2011 will receive information regarding 2010 sharing activities). Please be aware that not all information sharing is covered by California's "Shine the Light" requirements. 
+California residents who provide personal information in obtaining products or services for personal, family or household use are entitled to request and obtain from us once a calendar year information about the customer information we shared, if any, with other businesses for their own direct marketing uses. If applicable, this information would include the categories of customer information and the names and addresses of those businesses with which we shared customer information for the immediately prior calendar year (e.g. requests made in 2016 will receive information regarding 2015 sharing activities). Please be aware that not all information sharing is covered by California's "Shine the Light" requirements.
