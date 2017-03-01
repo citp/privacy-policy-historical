@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124145401id_/http%3A//www.edhardyoriginals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edhardyshop.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301053412id_/http%3A//www.edhardyoriginals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Ed Hardy | The official website of the Ed Hardy
+# Privacy Policy - Ed Hardy | The official website of the Ed Hardy brand. Ed Hardy | The official website of the Ed Hardy
 
 Iconix Brand Group, Inc., its affiliates and subsidiaries (“Iconix” or, collectively, “us,” “we” or “our”), operate this website (the “Site”). This Privacy Policy sets forth our information practices and is incorporated therein by reference to the Terms and Conditions of Use of this Site. We encourage you to read this Privacy Policy carefully and to contact us if you have any questions. Your use of the Site indicates your acceptance of this Privacy Policy.
 
