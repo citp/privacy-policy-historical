@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyweddings.com.au privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123172811id_/http%3A//www.easyweddings.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyweddings.com.au privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301230232id_/https%3A//www.easyweddings.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Easy Weddings
 
@@ -69,7 +69,26 @@ We may also allow some third parties to display widgets and applications on our 
 
 These linked sites, applications and widgets are not under our control, and we cannot accept responsibility for the conduct of companies linked to our Websites or collecting information through these third party applications or widgets. Before disclosing your personal information on any other website, or using these applications or widgets we advise you to examine the terms and conditions of using that website and the relevant third party’s data collection practices and controls in their privacy policy.
 
-### 3\. Use and disclosure
+### 3. Remarketing and Behavioral Targeting
+
+These services allow us and our partners to inform, optimise and serve advertising based on past use of our website by the user. This activity is performed by tracking Usage Data and by using Cookies, information that is transferred to the partners that manage the remarketing and behavioral targeting activity.
+
+  * **AdRoll (Semantic Sugar, Inc.)**  
+AdRoll is an advertising service provided by Semantic Sugar, Inc.Data collected: Cookie and Usage Data.  
+AdRoll’s [Privacy Policy](http://www.adroll.com/about/privacy/)
+  * **AdWords Remarketing (Google)**  
+AdWords Remarketing is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the activity of our website with the Adwords advertising network.Data collected: Cookie and Usage Data.  
+Google’s [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout/)
+  * **Remarketing through Google Analytics for Display Advertising (Google)**  
+Google Analytics for Display Advertising is a Remarketing and Behavioral Targeting service provided by Google Inc. that connects the tracking activity performed by Google Analytics and its Cookies with the Adwords advertising network.Data collected: Cookie and Usage Data.  
+Google’s [Privacy Policy](http://www.google.com/intl/en/policies/privacy/) – [Opt Out](http://www.google.com/settings/ads/onweb/optout/)
+
+
+
+As you browse www.easyweddings.com.au, advertising cookies will be placed on your computer so that we can understand what you are interested in. Our display advertising partner, AdRoll, then enables us to present you with retargeting advertising on other sites based on your previous interaction withwww.easyweddings.com.au.  The techniques our partners employ do not collect personal information such as your name, email address, postal address or telephone number.  
+You can visit this page (<http://www.networkadvertising.org/choices/>) to opt out of AdRoll and their partners’ targeted advertising.
+
+### 4\. Use and disclosure
 
 Easy Weddings may use or disclose your personal information for the purpose for which it was collected. We will also use and disclose your personal information for a secondary purpose that is related to a purpose for which we collected it, where you would reasonably expect us to use or disclose your personal information for that secondary purpose.
 
@@ -120,15 +139,15 @@ The countries in which these third parties are located will depend on the circum
 
 
 
-### 4\. Information about events, the Websites and our services
+### 5\. Information about events, the Websites and our services
 
 We may contact you via email, SMS or other means in order to provide you with updated information about the Websites, in relation to events or to provide you with other information about our services or those of our customers. If you do not wish to receive any such information, please contact us as set out below.
 
-### 5\. The information we keep about you
+### 6\. The information we keep about you
 
 You have a right to request access to or correction of your personal information held by us. If you wish to access, correct or update any personal information we may hold about you, please contact us as set out below. However, we may charge for providing access to this information and we may refuse access where the Act allows us to do so.
 
-### 6\. Complaints process
+### 7\. Complaints process
 
 If you have any questions or concerns about our collection, use or disclosure of personal information, or if you believe that we have not complied with this Privacy Policy or the Act, please contact us as set out below. The Privacy Officer will investigate the complaint and determine whether a breach has occurred and what action, if any, to take. When contacting us, please provide as much detail as possible in relation to the query, issue or complaint.
 
@@ -150,7 +169,7 @@ GPO Box 5218
 **Website**  
 [www.oaic.gov.au](http://www.oaic.gov.au/)
 
-### 7\. Storage and security of your personal information
+### 8\. Storage and security of your personal information
 
 Easy Weddings strives to ensure the security, integrity of any personal information we collect. We will take reasonable steps to keep any personal information we hold about you secure. However, except to the extent liability cannot be excluded due to the operation of statute, Easy Weddings excludes all liability (including in negligence) for the consequences of any unauthorised access to your personal information. Please notify us immediately if you become aware of any breach of security.
 
@@ -168,10 +187,10 @@ Our employees, contractors, agents and service providers who provide services re
 
 We review and update our security measures in light of current technologies. Unfortunately, no data transmission over the internet can be guaranteed to be totally secure.
 
-### 8\. Changes to this Privacy Policy
+### 9\. Changes to this Privacy Policy
 
 The date of this Privacy Policy is set out below. We may modify this Privacy Policy at our discretion. By continuing to use these Websites, or otherwise continuing to deal with us, you accept this Privacy Policy as it applies from time to time.
 
-### 9\. Contact us
+### 10\. Contact us
 
 Please direct any privacy issues or queries to Easy Weddings’ Privacy Officer on **1800 155 122** or at [service@EasyWeddings.com.au](mailto:service@EasyWeddings.com.au). Our Privacy Officer will consider your query and endeavour to respond to you promptly.
