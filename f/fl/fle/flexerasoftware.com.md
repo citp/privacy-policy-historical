@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219110945id_/http%3A//www.flexerasoftware.com/enterprise/company/terms/tab/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flexerasoftware.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301212710id_/https%3A//www.flexerasoftware.com/enterprise/company/terms/tab/privacy) for the most accurate reproduction.*
 
 # Terms and Conditions | Flexera Software
 
@@ -58,7 +58,7 @@ We may provide your personal information to companies that provide services to h
 
 ### Opting-out of Email
 
-If you would like to be removed from our database, you can unsubscribe at <http://learn.flexerasoftware.com/managepreferences>. You may opt out of receiving future mailings from our mailing lists at any time. We always include a link in the footer of our emails for this purpose.
+If you would like to be removed from our database, you can unsubscribe at <https://info.flexerasoftware.com/Manage-Preferences>. You may opt out of receiving future mailings from our mailing lists at any time. We always include a link in the footer of our emails for this purpose.
 
 ### Cookies and Tracking Technology
 
