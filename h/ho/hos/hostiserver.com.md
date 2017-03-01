@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hostiserver.com privacy policy that was archived on 2016-05-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160512224900id_/https%3A//www.hostiserver.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostiserver.com privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301031640id_/https%3A//www.hostiserver.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | HostiServer
 
