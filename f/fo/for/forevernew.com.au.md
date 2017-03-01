@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120175104id_/http%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the forevernew.com.au privacy policy that was archived on 2017-03-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170301164831id_/https%3A//www.forevernew.com.au/policy) for the most accurate reproduction.*
 
 # Privacy Policy | Forever New
 
@@ -11,7 +11,7 @@ Forever New Clothing Pty Limited (ABN 11 118 100 100) (Forever New) is committed
 
 Forever New abides by the Australian Privacy Principals (APP) contained in the Australian Privacy Act 1988, the Australian Privacy Principals 2014 and the Privacy Principals contained in the New Zealand Privacy Act 1993.
 
-Forever New may collect personal information about you in store, online through our websites  [www.forevernew.com.au](http://www.forevernew.com.au/ "Forever New Australia") and [www.forevernew.co.nz](http://www.forevernew.co.nz/ "Forever New New Zealand ") and using our Forever New social media accounts, apps and pages. By providing your personal information to Forever New and by using our website, you are consenting to Forever New collecting your personal information and using it in accordance with this privacy policy. 
+Forever New may collect personal information about you in store, online through our websites  [www.forevernew.com.au](https://www.forevernew.com.au/ "Forever New Australia") and [www.forevernew.co.nz](https://www.forevernew.co.nz/ "Forever New New Zealand ") and using our Forever New social media accounts, apps and pages. By providing your personal information to Forever New and by using our website, you are consenting to Forever New collecting your personal information and using it in accordance with this privacy policy. 
 
 **Collecting personal information**
 
@@ -93,4 +93,4 @@ If you wish not to receive any communications or marketing from Forever New, ple
 
 You have the right to review, amend or delete personal information that may be held by Forever New by making a request to our customer service team. We will take all reasonable steps to comply with the request, except where it is required for legal reasons.
 
-More information about privacy law is available from the Office of the Privacy Commissioner at [www.privacy.gov.au](http://www.privacy.gov.au/ "Australia Government Privacy Changes") 
+More information about privacy law is available from the Office of the Privacy Commissioner at [www.privacy.gov.au](https://www.privacy.gov.au/ "Australia Government Privacy Changes") 
