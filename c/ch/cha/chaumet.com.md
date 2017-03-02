@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chaumet.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013220141id_/https%3A//www.chaumet.com/legal-terms%23purpose) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chaumet.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302203031id_/https%3A//www.chaumet.com/legal-terms%23purpose) for the most accurate reproduction.*
 
 # Legal terms & Privacy policy | Chaumet
 
