@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the salsify.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124005231id_/https%3A//www.salsify.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salsify.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302153921id_/https%3A//www.salsify.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -167,8 +167,6 @@ If you have any questions regarding our Privacy Policy, please contact our priva
 Salsify, Inc.  
 1 Winthrop Square, 5th Floor  
 Boston, MA 02110  
-USA
+USA`
 
-Email: privacy@salsify.com
-
-`
+`Email: privacy@salsify.com`
