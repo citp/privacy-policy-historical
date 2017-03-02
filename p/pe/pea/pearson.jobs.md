@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pearson.jobs privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105115101id_/https%3A//www.pearson.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pearson.jobs privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302190146id_/https%3A//www.pearson.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -18,7 +18,7 @@ Our Site may use "cookies" to enhance Users' experience. A User's web browser pl
 
 ## How we use collected information
 
-Pearson may collect and use Users' personal information for the following purposes:
+**Pearson may collect and use Users' personal information for the following purposes:**
 
   * _To improve Users' experience_  
 We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site and so that we may improve our Site.
@@ -38,7 +38,9 @@ We do not sell, trade, or rent Users' personal identification information to oth
 
 We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
 
-We may disclose and share personal information with the third parties listed below. Because the internet is a global environment, you accept and agree that this will include the transfer of your personal information to other countries around the world, including countries outside of the European Economic Area which may not have the same data protection laws as the UK. We may share your personal information:
+We may disclose and share personal information with the third parties listed below. Because the internet is a global environment, you accept and agree that this will include the transfer of your personal information to other countries around the world, including countries outside of the European Economic Area which may not have the same data protection laws as the UK. 
+
+**We may share your personal information:**
 
   1. with our group companies or any entity which acquires any part of our business
   2. with our service providers (including, for example, suppliers who develop or host our sites or who operate mail list services for us)
