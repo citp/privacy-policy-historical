@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bitcoinker.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220034446id_/https%3A//bitcoinker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitcoinker.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302075444id_/https%3A//bitcoinker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Bitcoinker
 
