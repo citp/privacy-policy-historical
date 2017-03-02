@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the media.io privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219062818id_/http%3A//media.io/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the media.io privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302062720id_/http%3A//media.io/help/privacy) for the most accurate reproduction.*
 
 # Privacy
 
