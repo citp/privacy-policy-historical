@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sciencerecorder.com privacy policy that was archived on 2016-05-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160503101022id_/https%3A//www.sciencerecorder.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sciencerecorder.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302092034id_/https%3A//www.sciencerecorder.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Science Recorder
 
