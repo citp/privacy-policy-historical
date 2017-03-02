@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fortinet.net privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221132142id_/https%3A//www.fortinet.com/corporate/about-us/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fortinet.net privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302011036id_/https%3A//www.fortinet.com/corporate/about-us/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
