@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119213254id_/http%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goabroad.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302040619id_/https%3A//www.goabroad.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | GoAbroad.com
 
@@ -22,7 +22,7 @@ Our provision of a link (such as in advertisements) to any other website or loca
 
 ## Sharing and Disclosure of Information that GoAbroad Collects
 
-Except as otherwise stated in this privacy statement, GoAbroad will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by GoAbroad, whether or not a response is required by applicable law; (2) to enforce the GoAbroad [Terms of Service](http://www.goabroad.com/legal) or to protect our rights; or (3) to protect the safety of members of the public and users of the service. 
+Except as otherwise stated in this privacy statement, GoAbroad will not disclose personal information to any third party unless we believe that disclosure is necessary: (1) to conform to legal requirements or to respond to a subpoena, search warrant or other legal process received by GoAbroad, whether or not a response is required by applicable law; (2) to enforce the GoAbroad [Terms of Service](https://web.archive.org/legal) or to protect our rights; or (3) to protect the safety of members of the public and users of the service. 
 
 ## GoAbroad.com E-Newsletters
 
@@ -30,11 +30,11 @@ Just like all of the GoAbroad.com websites, we send our e-newsletter free of cha
 
 ## Double Opt-in
 
-To subscribe to our newsletter, just give your email address at the box of [http://www.goabroad.com/newsletter](https://web.archive.org/newsletter#subscribe) and click on the subscribe button. Subscription is optional and needs to be confirmed by clicking on a link sent to your email. Only after you confirmed your interest do we add you to our newsletter list. You will never receive a newsletter unless you clicked on the confirmation link. 
+To subscribe to our newsletter, just give your email address at the box of [http://www.goabroad.com/newsletter](https://web.archive.org/newsletter) and click on the subscribe button. Subscription is optional and needs to be confirmed by clicking on a link sent to your email. Only after you confirmed your interest do we add you to our newsletter list. You will never receive a newsletter unless you clicked on the confirmation link. 
 
 ## Opt-out or Unsubscribe Procedure
 
-If you ever decide that you no longer want to receive our newsletters, you can click on the unsubscribe link at the bottom of the previous newsletter we sent you or you can input your email address at the box of <http://www.goabroad.com/newsletter/remove> and click on the unsubscribe button. We assure you that you will immediately be removed from our list within seconds. 
+If you ever decide that you no longer want to receive our newsletters, you can click on the unsubscribe link at the bottom of the previous newsletter we sent you or you can input your email address at the box of [http://www.goabroad.com/newsletter/remove](https://web.archive.org/newsletter/remove) and click on the unsubscribe button. We assure you that you will immediately be removed from our list within seconds. 
 
 ## Strict adherence to CAN-SPAM Act of 2003
 
