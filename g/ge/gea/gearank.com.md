@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gearank.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604072652id_/https%3A//www.gearank.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gearank.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302170104id_/https%3A//www.gearank.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Gearank
 
@@ -35,8 +35,7 @@ You can choose to have your computer warn you each time a cookie is being sent, 
 **If users disable cookies in their browser:**
 
 If you disable cookies some features will be disabled. It will turn off some of the features that make your site experience more efficient and some of our services will not function properly, specifically:  
-• Automatic login upon revisiting  
-.
+• Automatic login upon revisiting
 
 **Third Party Disclosure**
 
@@ -64,6 +63,12 @@ We along with third-party vendors, such as Google use first-party cookies (such 
 Opting out:  
 Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the [Network Advertising initiative opt out page](http://www.networkadvertising.org/choices/) or permanently using the Google Analytics Opt Out Browser add on.
 
+**Hotjar**
+
+Gearank uses software called Hotjar. Hotjar is a session recording and heat mapping service provided by Hotjar Ltd. The personal data collected by Hotjar includes Cookies, Usage Data and various types of Data as specified in their [Privacy Policy](https://www.hotjar.com/privacy).
+
+Hotjar honors generic "Do Not Track” headers. This means the browser can tell Hotjar's script not to collect any of the User's data. This is a setting that is available in all major browsers. Please see Hotjar’s [Opt-Out Information](https://www.hotjar.com/opt-out) for further details.
+
 **California Online Privacy Protection Act**
 
 CalOPPA is the first state law in the nation to require commercial websites and online services to post a privacy policy. The law's reach stretches well beyond California to require a person or company in the United States (and conceivably the world) that operates websites collecting personally identifiable information from California consumers to post a conspicuous privacy policy on its website stating exactly the information being collected and those individuals with whom it is being shared, and to comply with this policy. - See more at: [http://consumercal.org/california-online-privacy-protection-act-caloppa/...](http://consumercal.org/california-online-privacy-protection-act-caloppa/#sthash.0FdRbT51.dpuf)
@@ -77,9 +82,6 @@ Users will be notified of any privacy policy changes:
 • On our Privacy Policy Page  
 Users are able to change their personal information:  
 • By logging in to their account
-
-**How does our site handle do not track signals?**  
-We honor do not track signals and do not track, plant cookies, or use advertising when a Do Not Track (DNT) browser mechanism is in place.
 
 **COPPA (Children Online Privacy Protection Act)**
 
