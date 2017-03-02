@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zteusa.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916130419id_/http%3A//www.zteusa.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zteusa.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302110732id_/https%3A//www.zteusa.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - ZTE USA
 
@@ -75,3 +75,25 @@ We maintain archives of its web logs, database, and other systems and informatio
 Any questions you may have regarding this Privacy Policy, the accuracy of your Personal Information or the use of your Personal Information , or any requests to access your information or that we correct, update, or remove your information in our databases, should be directed via e-mail for general media inquiries to: [media@zteusa.com](mailto:media@zteusa.com).
 
 For general media inquiries to: [media@zteusa.com](mailto:media@zteusa.com).
+
+Or via regular mail to:
+
+ZTE USA Inc.
+
+2425 N. Central Expressway, Suite 323 Richardson
+
+TX 75080
+
+Or via Phone: (972) 671-8885
+
+When we receive formal written complaints at this address, it is ZTE’s policy to contact the complaining user regarding his or her concerns. We will cooperate with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that cannot be resolved between ZTE and you.
+
+If we receive a request to change your information, we will make reasonable efforts to ensure that all of your Personal Information stored in databases we actively use to operate ZTE Service will be updated, corrected, changed or deleted, as appropriate, as soon as reasonably practicable.
+
+However, we reserve the right to retain in our archival files any information removed from, or changed in, our active ZTE Service databases. We may retain such information to resolve disputes, troubleshoot problems and enforce our End User Terms and Conditions for the Application. In addition, it is not technologically possible to remove each and every record of the information you have provided to us.
+
+This Privacy Policy is effective as of March 26, 2012, and complies with ZTE’s Corporate Privacy Policy. We reserve the right to change this Privacy Policy at any time, and will post any material changes to this Privacy Policy as soon as they go into effect. Please refer back to this Privacy Policy on a regular basis.
+
+This privacy policy was last updated on December, 2012.
+
+ 
