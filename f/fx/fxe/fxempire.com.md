@@ -1,65 +1,82 @@
-> *The following text is extracted and transformed from the fxempire.com privacy policy that was archived on 2011-05-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110523074248id_/http%3A//domainnamesinternational.net/help/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fxempire.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302013744id_/https%3A//www.fxempire.com/footer/privacy-policy) for the most accurate reproduction.*
 
-# None
+# Privacy Policy | FXEmpire.com
 
-In this document, Domain Names International is referred to as “DNI”.
+FX Empire Inc. (“ **FX Empire** “, “ **we** ” or “ **us** “) respects the privacy of the users of its website at the address <http://www.fxempire.com/> (the “ **Site** “) (“ **User** ” or “ **you** ”) and is committed to protect the personal information that its Users share with it. We believe that you have a right to know our practices regarding the information we may collect and use when you use our Site and our Service (as such terms are defined in our [Terms of use](http://www.fxempire.com/terms-of-use) at (the “ **TOU** “)) available on the Site.  
+Capitalized terms which are not defined herein, shall have the meaning ascribed to them in the TOU, which this Privacy Policy is incorporated thereto by reference.
 
-DNI respects your privacy. We do not sell or rent your personal information to third parties for marketing purposes without your explicit consent. By law, domain name registration information must be made available through Whois, a publicly accessible database that lists the domain name registration information of each registrant. Since domain name registration information is available to the public through Whois, anyone can access it on other web resources that offer Whois. Therefore, the domain name registration information you provide us is, and must be, made available to the public. At times our customers may be included within searches of the Whois database; however, any "spam" received through the use of Whois does not originate from DNI.
+* Your Consent (PLEASE READ CAREFULLY!) 
 
-The privacy policy of this statement applies to our services offered under the domain name DNI and to our subsidiaries or joint venture websites. We promise that we will not use your personal information in any way that is incompatible with this privacy policy. By visiting this website you agree to be bound by the terms and conditions of this privacy policy. This privacy policy is incorporated into and subject to the terms of the DNI Universal Terms of Service (“UTOS”) Agreement. Please do not use or access the DNI website if you do not agree to the UTOS or to this privacy policy.
+BY ENTERING TO, CONNECTING TO, ACCESSING OR USING THE SITE AND/OR SERVICE, AND/OR BY GRANTING US ACCESS TO THE DATA (AS SUCH TERM IS DEFINED IN THE TOU) YOU AGREE TO THE TERMS AND CONDITIONS SET FORTH IN THIS PRIVACY POLICY (THE “ **PRIVACY POLICY** “), INCLUDING TO THE COLLECTION AND PROCESSING OF YOUR PERSONAL INFORMATION (AS DEFINED BELOW). IF YOU DISAGREE TO ANY TERM PROVIDED HEREIN, YOU MAY NOT USE THE SITE AND/OR SERVICE AND/OR DO NOT GRANT US ACCESS TO THE DATA.
 
-DNI does not create individual profiles for visitors. We only collects aggregate data.  Because your trust and confidence is important to us, DNI conducts its business under the following privacy principles: 
+* Which information we may collect on our Users? 
 
-**Principle 1 - No Collection of Personal Information**
+We may collect two types of data and information from our Users:
 
-DNI does not collect any personal information such as names, ages, phone numbers, addresses, or e-mail addresses from visitors to our website.
+  1. The first type of information is non-identifiable and anonymous information (“ **Non-personal Information** ”). **We are not aware of the identity of the User from which we have collected Non-personal Information.** Non-Personal Information is any unconcealed information which is available to us while Users are using the Site and/or Service. Non-personal Information which is being gathered consists of technical information and behavioral information, including, but not limited to, the User’s operating system, type of browser, screen resolution, Flash version, the User’s ‘click-stream’ on the Site, the period of time the User visited the Site, etc.
+  2. The second type of information is individually identifiable information (“ **Personal Information** ”). **This information may identify an individual or may be of a private and/or sensitive nature.** Personal Information which is being gathered consists of any personal details provided consciously and voluntarily by the User.
+  3. Users who are only visiting the Site do not need to provide any Personal Information.
+  4. Users who are interested in receiving our newsletter should provide details via the registration form of the Site, i.e., e-mail address. The User may also provide, at his/her sole discretion, his/her age.
+  5. The User’s IP address.
 
-**Principle 2 - No Combination of Browsing and Web Traffic Information with Personal Information**
 
-Since DNI does not collect any personal information from website visitors, we do not combine traffic analysis information with personal information such as name, age, phone number or mailing address.
 
-**Principle 3 - No Aggregation of Individual Visitor Traffic Patterns across Multiple Sites**
+**We will not collect any Personal Information from you without your approval which is obtained, inter alia, through Your active acceptance to the TOU and the Privacy Policy.  
+Your Data is used in order to provide the Service provided in the Site. When we do that, we only use the non-identifiable information relating to your financial Data and not your identifiable information.**
 
-DNI does not collect individual profile information for visitors across multiple sites and does not aggregate information from any other sources about browsing patterns of individual visitors across multiple sites.
+* How Do We Collect Information on Our Users? 
 
-**Principle 4 - Collection of Non-Personally Identifiable Information**
+There are two main methods we use:
 
-DNI collects anonymous visitor information including IP addresses, browser types (such as Internet Explorer or Netscape), referring pages, pages visited, and time spent on the web site. DNI collects this non-personally identifiable information for the following purposes: (1) to provide anonymous statistical analysis of web page traffic patterns for our website; (2) to administer our website and servers, (3) to allow for auditing of our services by third parties, and (4) to improve our services.
+  1. **We collect Non-personal Information through your use of the Site and/or Service.** In other words, when you are using the Site and/or Service we are aware of it and may gather, collect and record the information relating to such usage, either independently or through the help of third-party services as detailed below.
+  2. **We collect Personal Information which you provide us voluntarily.** We collect Personal Information required to operate the Service when you to our newsletter by completing the registration form.
 
-**Principle 5 - Anonymous Use of Cookies**
 
-It is DNI's policy to use cookies only for more accurate anonymous traffic analysis such as tracking the time/date of the visit, the page viewed, the referrer, and transaction information for eCommerce pages. The cookie information does not include personal data such as name, age, phone number, e-mail address or mailing address. In addition, DNI does not link cookies to personal data such as name, age, phone number, e-mail address or mailing address. Because we do not build a database of individual visitors, the data that we do collect is never stored in any individual user profile; the data collected serves only to update aggregate counts allowing us to monitor traffic on our site.
 
-**Principle 6 - No Individual Profiling**
+* What are the Purposes of the Collection of Information? 
 
-DNI does not create individual profiles of visitors. Unlike other tracking services we do not have a database of individual profiles of each visitor. DNI collects data in aggregate form, and data is not recorded or stored about individual visitors.
+Non-personal Information is collected in order to: Personal Information is collected in order to:
 
-**Notices:**
+  * Operate the Service (i.e. allow premium subscription users to follow the portfolios displayed in the site).
+  * Be able to contact Users for the purpose of providing them with technical assistance, reminders and other related information to the Service and collect feedback regarding the Service.
+  * Reply to your online queries made through the Site.
+  * Determine general geolocation information (i.e, country).
 
-**Compliance with Laws and Law Enforcement**
 
-We cooperate with government and law enforcement officials when legally required to do so. This includes disclosing any information necessary or appropriate to enforce our Universal Terms of Service, or in response to subpoenas, claims and other legal process, to protect our own property and rights or the property and rights of any third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
 
-**Transfer of Data Abroad**
+* Sharing Information with Third Parties 
 
-If you are visiting any DNI website from a country other than the country in which our servers are located, any communication with us may result in the transfer of information across international borders.  By visiting any DNI website and communicating electronically with us, you consent to such transfers.
+FX Empire will not share any Personal Information it collects with any third party. Notwithstanding, FX Empire may disclose Personal Information in the following cases: (a) to satisfy any applicable law, regulation, legal process, subpoena or governmental request; (b) to enforce this Privacy Policy and/or the TOU, including investigation of potential violations thereof; (c) to detect, prevent, or otherwise address fraud, security or technical issues; (d) to respond to User’s support requests; (e) respond to claims that any content available on the Site violates the rights of third-parties; (f) to respond to claims that contact information (e.g. name, e-mail address, etc.) of a third-party has been posted or transmitted without their consent or as a form of harassment; (g) to protect the rights, property, or personal safety of FX Empire, its Users, or the general public; (h) when FX Empire is undergoing any change in control, including by means of merger, acquisition or purchase of all or substantially all of its assets; (i) to collect, hold and/or manage your Personal Information through FX Empire’s authorized third party service providers, as reasonable for business purposes, which may be located in a country that does not have the same data protection laws as your jurisdiction; (j) **to collect your personal Data through the means of a third party service provider who will use your log-in credentials for such purpose** ; or (k) pursuant to your explicit approval prior to the disclosure.  
+For avoidance of doubt, FX Empire may transfer and disclose Non-personal Information to third parties at its own discretion.
 
-DNI may amend this privacy policy at any time by posting the amendment terms to our website.
+* Modification or Deletion of Personal Information 
 
-For your safety and protection, your credit card information is not stored on our servers. Our payment gateway provider, Durango Merchant Services, keeps this information encrypted and secure on your behalf.
+If for any reason you wish to modify or delete your Personal Information you may do so on the Site or by sending us an email to: [info@fxempire.com](mailto:info@fxempire.com), and we will make reasonable efforts to delete any such Personal Information pursuant to any applicable privacy laws. Note that unless you instruct us otherwise we will retain your Personal Information for a period of ninety (90) days.
 
-Inquiries to DNI shall be made either by email, sent by first class mail to the physical address provided on the DNI Web site, or sent by first class mail to DNI's address at:
+_However, please note that although your Account and Personal Information related thereto may be removed from our databases, FX Empire will retain the anonymous information contained in the Data you provided, and such information will continue to be used by us for the purpose of operating the Service._
 
-Domain Names International, Inc.
+* Cookies & Local Storage 
 
-Legal Counsel
+When you access or use the Service, Company may use industry-wide technologies such as “cookies” or similar technologies, which stores certain information on your computer (“Local Storage”) and which will allow us to enable automatic activation of certain features, and make your Service experience much more convenient and effortless. The cookies used by the Service are created per session and registration does not include any information about you, other than your session key (removed as your session ends (usually after 24 hours) and the ability to login again quickly (removed after two years). It is easy to prohibit the Local Storage. Most browsers will allow you to erase cookies from your computer’s hard drive, block acceptance of cookies, or receive a warning before a cookie is stored. However, if you block or erase cookies your online experience may be limited.
 
-11605 Meridian Market View
+* Direct Marketing & Advertisements 
 
-Unit 124-134
+You hereby agree that we may use your contact details for the purpose of informing you regarding products and services (offered by FX Empire and/or by third parties) which may interest you, and to send to you advertisements and other marketing material, transmitted to the e-mail address you have provided.  
+You may withdraw your consent via sending a written notice to FX Empire by email to the following address: [support@fxempire.com](mailto:support@fxempire.com) [Please Confirm] or on the same manner as the advertising was transmitted to you (e.g. via phone text message). It is clarified that we are not responsible for the content of said advertisements and the products delivered or services rendered thereby by third parties, and you irrevocably and unconditionally agree that we shall not be held responsible or liable in connection thereof.  
+We accept advertisements from third party advertisers. These advertisers are carefully selected to provide information about products and services that we think may be of interest to our Users. Note that if you click on any of these advertisements, these advertisers may use cookies and other web-tracking technologies to collect non-personal and/or personal information about you. We recommend that you review the terms of use and privacy policy for any advertiser with which you are interacting before doing so. Their privacy policy, not ours, will apply to any of those interactions.
 
-Falcon, CO 80831
+* Security 
 
-Revised: 4/12/2011
+We take a great care in implementing and maintaining the security of the FX Empire Site and our Users’ Personal Information. fx Empire employs industry standard procedures to ensure the safety of its Users’ Personal Information, and prevent unauthorized use of any such information. However, we do not guarantee that unauthorized access will never occur.
 
-Copyright © 2011 Domain Names International.  All Rights Reserved.
+* Third Party Software/Service 
+
+While using the Site and/or Service we may be using third party software and/or service, in order to collect and/or process the information detailed herein such services may include Google analytics which privacy policy is available at: google.com.
+
+* Changes to the Privacy Policy 
+
+The terms of this Privacy Policy will govern the use of the Site and Service and any information collected therein. FX Empire reserves the right to change this policy at any time, so please re-visit this page frequently. We will provide notice of substantial changes of this policy on the homepage of the Site and/or we will send you an e-mail regarding such changes to the e-mail address that you provided in the registration form. Such substantial changes will take effect seven (7) days after such notice was provided on our website or sent by email. Otherwise, all other changes to this Privacy Policy are effective as of the stated “Last Revised” date and your continued use of the Site and/or Services after the Last Revised date will constitute acceptance of, and agreement to be bound by, those changes.
+
+* Have any Questions? 
+
+If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send us an email or otherwise contact us to the following address and we will make an effort to reply within a reasonable time frame:[info@fxempire.com](mailto:info@fxempire.com)
