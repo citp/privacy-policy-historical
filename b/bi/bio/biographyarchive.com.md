@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the biographyarchive.com privacy policy that was archived on 2016-10-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161029210905id_/http%3A//www.biographyarchive.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the biographyarchive.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302141831id_/http%3A//www.biographyarchive.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
