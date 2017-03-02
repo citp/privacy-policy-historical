@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the esuperfund.com.au privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313064304id_/https%3A//www.esuperfund.com.au/disclosures/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the esuperfund.com.au privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302062256id_/https%3A//www.esuperfund.com.au/disclosures/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | ESUPERFUND
 
