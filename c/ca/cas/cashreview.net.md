@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cashreview.net privacy policy that was archived on 2015-09-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150921080817id_/http%3A//www.cashreview.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cashreview.net privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302210620id_/http%3A//www.cashreview.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CashReview.net
 
