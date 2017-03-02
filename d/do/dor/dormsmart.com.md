@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dormsmart.com privacy policy that was archived on 2014-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141017174525id_/http%3A//www.dormsmart.com/DormSmart-Privacy-Policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dormsmart.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302060742id_/https%3A//www.dormsmart.com/DormSmart-Privacy-Policy.html) for the most accurate reproduction.*
 
 # DormSmart.com Privacy Policy & Security
 
@@ -30,7 +30,7 @@ To improve customer service. Your information helps us to more effectively respo
 
 To process transactions. Your information, whether public or private, will not be sold, exchanged, transferred, or given to any other company for any reason whatsoever, without your consent, other than for the express purpose of delivering the purchased product or service requested by the customer.
 
-To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc.  **(Note** : If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.)
+To send periodic emails. The email address you provide for order processing, may be used to send you information and updates pertaining to your order or request, in addition to receiving occasional company news, updates, promotions, related product or service information, etc. **(Note** : If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.)
 
 To administer a contest, promotion, survey or other site feature.
 
@@ -50,7 +50,11 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 Do we disclose any information to outside parties?
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours or others' rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses such as Google Adwords.
+
+ **How do we use Google AdWords?**
+
+This website uses the Google AdWords remarketing service to advertise on third party websites, including Google, to previous visitors to our site. It could mean that we advertise to previous visitors who have not completed a task on our site, for example using the contact form to make an inquiry. This could be in the form of an advertisement on the Google search results page, or a site in the Google Display Network. Third-party vendors, including Google, use cookies to serve ads based on someone’s past visits to this website. Of course, any data collected will be used in accordance with our own privacy policy and Google’s privacy policy.You can set preferences for how Google advertises to you using the [Google Ad Preferences page](http://www.google.com/settings/ads/onweb/). In other words, you can opt out.
 
 Third party links
 
@@ -86,7 +90,7 @@ Changes to our Privacy Policy
 
 If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change.
 
-This policy was last modified on May 21, 2014.
+This policy was last modified on May 8, 2015.
 
 Contact Us
 
@@ -111,8 +115,3 @@ We pledge to you, our customer, that we have made a dedicated effort to bring ou
   * Controlling the Assault of Non-Solicited Pornography and Marketing Act
 
 
-
-Respectfully,
-
-Christi Leslie Founder & CEO  
-www.dormsmart.com
