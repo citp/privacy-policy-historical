@@ -1,15 +1,36 @@
-> *The following text is extracted and transformed from the hexcolor.in privacy policy that was archived on 2015-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150624152353id_/http%3A//www.hexcolor.in/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hexcolor.in privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302224456id_/http%3A//ww4.hexcolor.in/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-HexColor.in is committed to protect your Privacy as Visitors. Privacy is very importent for us.We will not sell, disclose,share or lease any personal identifiable information to any third party not specifically authorized by you to receive your information except as we have disclosed to you in this Privacy Policy.
+* **Overview**
 
-## Cookies
+Thank you for visiting ww4.hexcolor.in (the "Web Site") and reviewing our Privacy Policy. Your privacy is important to us, and our policy is simple: we will collect no personally identifiable information about you when you visit the Web Site unless you choose to provide that information. This Privacy Policy does not describe information collection practices on other sites, including those linked to or from the Web Site.
 
-A cookie is a piece of data that is stored on a visitor's browsers while they are visiting this Website. We may utilize a short-lived form of cookie when you visit this site to ensure the Rating Poitns. Hexcolor.in only use cookie to identify one unique visitor from another visitor during a particular session. A session is the period of active site-use while that unique visitor is linked to our server. We may use cookie technology during a session as a tool to carry forward your input information during one page to another in the form of session. This enables the visitor to input their information once and have the information appear later during the prcessing. No personally identifiable information is stored on the cookies. The cookie expires and is deleted from the visitor's computer as soon as they close their browser.So there is not offline cookies by Hexcolor 
+* **What Type of Information We Collect**
 
-##  Third Party Links 
+The server on which the Web Site is located collects and saves only the default information customarily logged by web server software. Such information may include the date and time of your visit, the originating IP address, and the pages and images requested. 
 
-HexColor may contain links to third party Websites like Facebook, Google for social Media sharing that are not controlled by HexColor. These third party links are made available to you as a convenience and you agree to use these links at your own risk.we strongly encourage you to review and become familiar with that Website's privacy policy. 
+We partner with a limited number of third party behavioral advertising companies. In some cases, these companies serve ads and/or collect certain information when you visit the Web Site. The Web Site and third party advertisers may use cookies, a small file containing a string of characters that is sent to your computer when you visit a website, to collect non-personal information (name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements of interest to you on the Web Site, other sites, and other forms of media. 
 
-We reserve the right to change this Privacy Policy without providing you with advance notice of our intent to make the changes. If you have any questions about our privacy policy, please feel free to contact us. 
+* **Uses May Include**
+
+  * We may use personal information to provide the services you've requested, including services that display customized content and advertising. 
+  
+
+  * We may also use personal information for auditing, research and analysis to operate and improve our technologies and services. 
+  
+
+  * We may share aggregated non-personal information with third parties outside of The Web Site. 
+  
+
+  * When we use third parties to assist us in processing your personal information, we require that they comply with our Privacy Policy and any other appropriate confidentiality and security measures. 
+  
+
+  * We may also share information with third parties in limited circumstances, including when complying with legal process, preventing fraud or imminent harm, and ensuring the security of our network and services. 
+  
+
+  * The Web Site processes personal information on servers in the United States of America. In some cases, we process personal information on a server outside your own country. 
+  
+
+
+* If you would like to know more about these practices and your choices about not having this information used to target ads to you, please visit the Network Advertising Initiative opt-out page <http://www.networkadvertising.org/managing/opt_out.asp> or the Digital Advertising Alliance at [aboutads.info](http://www.aboutads.info/).
