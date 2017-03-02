@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bidnessetc.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223050325id_/https%3A//www.bidnessetc.com/business/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bidnessetc.com privacy policy that was archived on 2017-03-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170302191420id_/https%3A//www.bidnessetc.com/business/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
