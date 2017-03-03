@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the desktopnexus.com privacy policy that was archived on 2015-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151206184255id_/http%3A//www.desktopnexus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the desktopnexus.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303051040id_/https%3A//www.desktopnexus.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Desktop Nexus
 
@@ -6,7 +6,7 @@
 
 **Introduction**
 
-Maugans Corporation and it parent companies and their affiliates (collectively, "Maugans Corporation") respect the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. Maugans Corporation has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this Maugans Corporation Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website. 
+Desktop Nexus and it parent companies and their affiliates (collectively, "Desktop Nexus") respect the privacy of the visitors to this web site and any co-branded, mirrored, or successor sites (the "Website") and are committed to protecting their privacy. Desktop Nexus has established this Privacy Policy Statement to inform you of our policies and practices regarding how we collect personal identifiable information from you, how we use and disclose it, and your rights with respect to such information. By using this Website, you acknowledge and agree to the terms and conditions of this Desktop Nexus Privacy Policy Statement ("Privacy Policy"). If you do not agree to these terms and conditions, please do not use this Website. 
 
 We reserve the right to change or modify our privacy practices that are described herein from time to time simply by posting a revised Privacy Policy on this Website. Any such change shall be effective immediately upon posting of the revised Privacy Policy on this Website. We reserve the right to make the revised or changed Privacy Policy effective for information we already have about you, as well as any information we receive in the future. We encourage you to refer to this Privacy Policy on an ongoing basis so that you understand our current privacy practices. 
 
@@ -30,6 +30,14 @@ We also collect information about your activities on and through this Website fr
 
 You may choose not to provide us with any personal information. In such event, you can still access and use many portions of this Website; however, you will not be able to access and use those portions of this Website or the services available on or through this Website that require your personal information. 
 
+**Advertising / Online Tracking**
+
+Desktop Nexus may use online advertising networks to serve ads on third-party websites. You can opt out of receiving targeted ads from many websites by using the opt-out tools available through some browser settings ("Do Not Track") or via the AdChoices icon on any advertisements. Please note that if you opt out, you may still receive online advertising, but the ads that you receive will be generic and not based on your online preferences or behavior. 
+
+**Your Consent**
+
+As a condition to using the Desktop Nexus, we require your approval to collect this data. By visiting Desktop Nexus or any of our affiliated sites, you agree that our company may collect and use this information as stated in this privacy policy. If we change this privacy policy, we will post the changes on this page. 
+
 **Using Information**
 
 We may use the information we collect to: 
@@ -47,11 +55,11 @@ We may use the information we collect to:
 
 Except as expressly set forth herein, we do not loan, give away, sell, distribute or rent your personal information to any third party. 
 
-We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of Maugans Corporation; the due diligence in connection with a potential sale of Maugans Corporation; any bankruptcy, insolvency or liquidation of Maugans Corporation, or in other similar circumstances. 
+We will disclose your personal information to third parties if you have previously consented to such disclosures and in special circumstances, including, but not limited to, the sale of Desktop Nexus; the due diligence in connection with a potential sale of Desktop Nexus; any bankruptcy, insolvency or liquidation of Desktop Nexus, or in other similar circumstances. 
 
-For the purpose of operating our business and providing you with certain services and products and to process your purchases, shipments and payments, we may disclose your personal information to one or more of our business partners, distributors, suppliers, affiliates, service providers or other third parties who are assisting Maugans Corporation in performing such services. Without limiting the foregoing, these third parties may provide Maugans Corporation with credit card processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal information and limit their use of it. 
+For the purpose of operating our business and providing you with certain services and products and to process your purchases, shipments and payments, we may disclose your personal information to one or more of our business partners, distributors, suppliers, affiliates, service providers or other third parties who are assisting Desktop Nexus in performing such services. Without limiting the foregoing, these third parties may provide Desktop Nexus with credit card processing, shipping, data management, email distribution, live text chat, email response, market research, information analysis, and promotions management services. We provide such parties with the personal information they need to perform their respective services and we use commercially reasonable efforts to require them to safeguard your personal information and limit their use of it. 
 
-We also may provide your personal information to other Maugans Corporation affiliated companies (including, but not limited to, affiliates, subsidiaries and our parent companies) who may use your personal information for any legal purposes whatsoever. 
+We also may provide your personal information to other Desktop Nexus affiliated companies (including, but not limited to, affiliates, subsidiaries and our parent companies) who may use your personal information for any legal purposes whatsoever. 
 
 We also may disclose personal information about you upon request by the government; in response to a court order; when required by law or when we believe in good faith is required by law; to enforce our Privacy Policy, terms and conditions or other agreements on this Website; upon your request; or to contact, identify or bring legal action against someone who may be causing injury to or interference with our or others. rights or property. We may also share information with companies assisting in fraud protection or investigation. We do not provide information to these agencies or companies for marketing purposes. 
 
@@ -83,7 +91,7 @@ You can choose to have your computer warn you each time a cookie is being sent o
 
 We do not knowingly collect personal information from children under the age of 18. This Website is not intended to solicit information of any kind from children under the age of 18 and we have made commercially reasonable efforts to design this Website to prevent our knowing acceptance of any such information. 
 
-It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so with our [contact form](http://www.desktopnexus.com/contact/). 
+It is possible that by fraud, deception or error, we may receive information pertaining to children under the age of 18. If we are notified of this, as soon as we verify the information, we will immediately obtain parental consent or otherwise delete the information from our servers. If you want to notify us of our receipt of personal information belonging to a child under the age of 18, please do so with our [contact form](https://www.desktopnexus.com/contact/). 
 
 **Email Marketing Practices**
 
@@ -93,11 +101,11 @@ Desktop Nexus and its partners may often sponsor contests that you can enter. Yo
 
 **Chat Rooms and Forums**
 
-This Website may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. Maugans Corporation cannot safeguard the privacy of personal information that is disclosed online in this manner. 
+This Website may now or in the future include web logs (i.e., blogs), chat rooms, post-it boards, forums, message boards, and/or news groups. Any information that is disclosed in these areas becomes public information. You should exercise caution before disclosing your personal information via these public venues, which you do at your own risk. If you do so, you may receive, among other things, unsolicited emails or "spam" from others. Desktop Nexus cannot safeguard the privacy of personal information that is disclosed online in this manner. 
 
 **Other Websites**
 
-When browsing this Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information. Even though Maugans Corporation may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. Maugans Corporation is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites. These websites are linked to this Website only for your convenience and you access them at your own risk. 
+When browsing this Website, you may be directed to other websites that are beyond our control. These other websites may use cookies and pixel tags, collect data, or solicit personal information. Even though Desktop Nexus may be affiliated with these websites, we have no control over them or how they collect, distribute or otherwise use your personal information or how they safeguard and secure your personal information. Desktop Nexus is not responsible or liable for the conduct, policies or actions of the owners of such websites or the content displayed on these websites. These websites are linked to this Website only for your convenience and you access them at your own risk. 
 
 **Unsubscribing, Removing or Modifying Your Information**
 
@@ -113,10 +121,10 @@ We reserve the right to send you certain communications related to this Website 
 
 **Terms and Conditions of Use**
 
-Maugans Corporation has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website, and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found at [www.desktopnexus.com/tos/](http://www.desktopnexus.com/tos/). 
+Desktop Nexus has a Terms and Conditions of Use Agreement that sets forth the terms and conditions under which we provide products, services and information to you from this Website, and your use of, and access to, this Website. It is your responsibility to read, understand and comply with the terms and conditions set forth therein. That agreement can be found at [www.desktopnexus.com/tos/](https://www.desktopnexus.com/tos/). 
 
 **Questions and Feedback**
 
-We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with Maugans Corporation or this Website. 
+We welcome your questions, comments, and concerns about this Privacy Policy and our privacy practices. Please send us feedback pertaining to these matters or any other issue you may have with Desktop Nexus or this Website. 
 
-You may contact us using the contact form located at [www.desktopnexus.com/contact/](http://www.desktopnexus.com/contact/). 
+You may contact us using the contact form located at [www.desktopnexus.com/contact/](https://www.desktopnexus.com/contact/). 
