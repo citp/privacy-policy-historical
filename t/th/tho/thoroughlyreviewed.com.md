@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thoroughlyreviewed.com privacy policy that was archived on 2016-08-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160823042201id_/https%3A//thoroughlyreviewed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thoroughlyreviewed.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303014221id_/https%3A//thoroughlyreviewed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
