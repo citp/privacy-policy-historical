@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the opensourcevarsity.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224232938id_/http%3A//www.opensourcevarsity.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the opensourcevarsity.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303222831id_/http%3A//www.opensourcevarsity.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - OpenSourceVarsity
 
