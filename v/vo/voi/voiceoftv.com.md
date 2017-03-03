@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the voiceoftv.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206112229id_/http%3A//voiceoftv.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voiceoftv.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303132933id_/https%3A//voiceoftv.com/privacy) for the most accurate reproduction.*
 
 # Voice of TV - Social Network for TV Superfans
 
