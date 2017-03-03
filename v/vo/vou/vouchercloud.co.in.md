@@ -1,93 +1,108 @@
-> *The following text is extracted and transformed from the vouchercloud.co.in privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401033230id_/https%3A//www.vouchercloud.co.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vouchercloud.co.in privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303130805id_/https%3A//www.vouchercloud.co.in/privacy) for the most accurate reproduction.*
 
-# Coupons, Offers and Deals from vouchercloud
+# Privacy Policy | vouchercloud
 
-**vouchercloud** values your privacy and is dedicated to safeguarding and preserving your privacy when using our application, visiting our website or communicating electronically with us.
+vouchercloud values your privacy and is dedicated to safeguarding and preserving your privacy when using our application, visiting our website or communicating electronically with us.
 
-This Privacy Policy, together with our Terms & Conditions explains what happens to the types of personal and non-personal information we collect when you use the **vouchercloud** service ( ** **vouchercloud**** ). By using ****vouchercloud**** you agree to the terms of this Privacy Policy. If you do not agree to these terms please do not continue using ****vouchercloud****.
+This Privacy Policy, together with our Terms & Conditions explains;
 
- ** **vouchercloud**** uses the personal information we collect to provide our service to you. We will not rent, sell or share your personal information with any other company for its own marketing purposes without your consent except where mentioned within this policy.
+  * What information we collect from you
+  * How your information is used
+  * How we store your information
+  * How you can access your information
 
-### Collection of Information
 
-In order to deliver you the best possible service when using ****vouchercloud**** , we collect and process the following information :
 
-##### Information you provide us
+By using vouchercloud you agree to the terms of this Privacy Policy. If you do not agree to these terms please do not continue using vouchercloud.
 
-When you register with **vouchercloud** we ask you to provide us with personal information as follows : Your name, email address, date of birth, postcode and gender.
+__
 
-There are also opportunities within ****vouchercloud**** to provide the email addresses or contact details of your friends or family members and your social networking site login details to allow you to tell people about ****vouchercloud****. We may use the information you provide us along with your coupon usage details, to provide you with a better experience when using ****vouchercloud****. We will always provide you the opportunity to opt out of receiving any communication via email.
+The information we collect from you
 
-When you use or connect to vouchercloud's website by or through a Third Party Platform, such as Facebook or other social networking site, you allow us to access and/or collect certain information from your Third Party Platform profile/account (such as your Facebook account) or via any cookies placed on your device by such Third Party Platform as permitted by the terms of the agreement and your privacy settings with the Third Party Platform. We will share such information with the Third Party Platform for their use as permitted by the terms of the agreement and your privacy setting with the Third Party Platform.
+We collect information from you in-order to show you the offers we think will be most relevant for you and give you the best possible service when using vouchercloud. We collect and process the following information;
 
-##### Directly communicating with ****vouchercloud****
+Information you provide us
 
-When you send email or other communication to ****vouchercloud**** , we may retain the communication in order to serve you.
+Registration information  
+When you download vouchercloud and use a voucher on for the first time, we ask you to register and provide us with personal information as follows;  
+Your name, email address, date of birth, postcode and gender.  
+We use this information to better personalise our service for you. We will never rent, sell or share your personal information with any other company for its own marketing purposes without your consent.
 
-##### Information you provide on our Partners' websites
+Information you provide on our partners' websites  
+You may find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
 
-You mind find links to third party websites on our website. These websites should have their own privacy policies which you should check. We do not accept any responsibility or liability for their policies whatsoever as we have no control over them.
+Information we get when you use our service
 
-##### Merchant Loyalty Information
+Your redemption information  
+When you use vouchercloud we will collect information about how you use our site and application. For example, when you redeem a voucher we’ll record details of the offer, the date and time and the device you’ve redeemed it on. We’ll use this information to personalise the offers we show you in future.
 
- ** **vouchercloud**** may collect and save various merchants' Loyalty Card numbers for you. These numbers may be stored on the ****vouchercloud**** servers and will be transmitted between the ****vouchercloud**** servers and your device.
+Your location information  
+When you use our application and website we may receive your location or ask to use it. We’ll use this to show you the offers which are near you. If you’re using our application, depending on your handset or the network you subscribe to, vouchercloud may automatically receive this information.
 
-### Use of Information and Data
+Your mobile phone information  
+When you use the vouchercloud application for the first time, we will receive a unique identifier for your phone if your handset manufacturer or network provide it (UDID). We may also receive your mobile phone number (MISDEN). By downloading the vouchercloud app you are consenting that we may use this information to send you SMS messages or push notifications about our offers. We will not use this information to call you for telemarketing purposes or pass these details to third parties.
 
-All personal data is stored securely in accordance with the UK Data Protection Act 1998.
+Your IDFA/Advertising Identifier  
+We also collect where provided your devices IDFA/Advertising Identifer which is an annonymous ID provided by your operating system. We may pass this annoymised data to a third party partner (unacast.com) for purposes of providing accurate and relevant advertising across various operating systems and devices and to analyse the effectiveness of advertising campaigns. To find out more and how to opt out click here - http://unacast.com/unacast/privacy-statement/.
 
-Unless we are legally required to do so, your data will not be disclosed to third parties.
+Cookies and similar technologies  
+We use technologies, including Segment.io to gather information regarding your activities whilst you are on our website and application. We also gather information about your general internet use by using a cookie file. A cookie file is a small text file which is automatically downloaded to your computer when you visit our site. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you, by doing things like remembering your password.  
+All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies the website may not work as expected for you.
 
+Third Party Cookies sharing  
+We also work with a third party partner LiveRamp (http://liveramp.com/) to place a cookie on your browser that provides a de-identified, non-human readable version of your email address to use for matching to other data about you to improve the relevance of online advertising and personalisation. Your actual email address is at no time shared with LiveRamp. To find out more and how to opt out click here - http://liveramp.com/service-privacy-policy/.
+
+__
+
+How your information is used
+
+To communicate with you
+
+One of the main ways we use your information is to let you know about our offers and other promotions you might be interested in through email, push notifications and SMS messages.
+
+Emails  
+Once you become a vouchercloud member we’ll send you email newsletters letting you know about our offers and deals. We may also send you other offers from our partners that we think you might be interested in. If you don’t wish to receive emails from us you can click the ‘unsubscribe’ link which will be found at the bottom of all emails from vouchercloud. You will be sent to an ‘update your preferences’ page in your account where you can opt out of different types of email or click unsubscribe from all.
+
+Push notifications  
+These will be general notifications about our latest offers and location based messages when you are near a venue or shop with an offer. Both types of notification can be controlled in the settings section of the app.
+
+SMS messages  
+These will be general notifications about our latest offers. These messages can be unsubscribe from by following the unsubscribe process at the end of the message.
+
+Directly communicating with vouchercloud  
+When you send email or other communication to vouchercloud, we may retain the communication in order to serve you.
+
+To personalise the content you receive
+
+By collecting data on your activities on our website and application we’ll be able to better understand the types of offers that you’re interested. We’ll then present the most relevant offers for you on our website, application and through the communications we send you.
+
+To provide a better experience
+
+Our use of cookies and other similar technologies enables us to remember information about you when you visit our site. We use this to improve your experience by doing things like remembering your password, automatically logging you into your account and showing you adverts for offers that you’ve previously searched.
+
+To provide insight
+
+Our use of technologies, including Segment.io and Google Analytics enables us to gather statistical information about how people use our site and application. As well as using this to improve what we do, we also share it with the brands we work with to give them feedback.  
+The information we share will not identify you personally, it is statistical data and does not identify any personal details whatsoever.
+
+__
+
+How we store your information
+
+All personal data is stored securely in accordance with the Data Protection Act 1998. Unless we are legally required to do so, your data will not be disclosed to third parties.  
 Where applicable, we may disclose your personal information to any member of our group. This includes, where applicable, our affiliates, our subsidiaries, our holding company and / or other companies within our group.
 
-##### Emails
+Information Security  
+We have taken certain operational, physical and technical steps to safeguard and secure the information we collect from our users and store on our servers.
 
-Once you become a vouchercloud member we'll send you weekly email newsletters letting you know about our offers. We may also send you other offers from our partners that we think you might be interested in. We'll never share your details with a third party, and you can manage all your email subscriptions by logging into your vouchercloud account and editing your email preferences.
+__
 
-##### Unsubscribe
+How you can access that information
 
-Users who do not wish to receive our promotional e-mail messages may click the ‘unsubscribe’ link which will be found at the bottom of each e-mail from vouchercloud. You will be sent to an ‘update your preferences’ page in your account where you can opt out of different types of promotional e-mails, or click unsubscribe from all. 
+The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of £10 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
 
-### Third Party Offers
+__
 
-vouchercloud may contain links to third party web sites or programs that are not controlled by or affiliated with vouchercloud. vouchercloud is not responsible for the content, offers or privacy policies of such sites and programs, including, without limitation, your redemption of such offers or a merchant's refusal to honour any offer. Your dealings with third party sites are solely between you and the applicable third party.
+Changes to this Policy
 
-### Use of Cookies
-
-We may on occasion gather information regarding your computer whilst you are on our website. This enables us to improve our services and to provide statistical information regarding the use of our website to our advertisers where appropriate. We may also use the information we collect from you to show you relevant adverts when you are visiting other sites.
-
-Such information will not identify you personally it is statistical data about our visitors and their use of our site. This statistical data does not identify any personal details whatsoever.
-
-Similarly to the above, we may gather information about your general internet use by using a cookie file. Where used, these cookies are downloaded to your computer automatically. This cookie file is stored on the hard drive of your computer as cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and the service that we provide to you.
-
-All computers have the ability to decline cookies. This can be done by activating the setting on your browser which enables you to decline the cookies. Please note that should you choose to decline cookies, you may be unable to access particular parts of our website.
-
-Our advertisers may also use cookies, over which we have no control. Such cookies (if used) would be downloaded once you click on advertisements on our website.
-
-### Information Security
-
-We have take certain operational, physical and technical steps available to safeguard and secure the information we collect from our users and store on our servers.
-
-### Changes to this Policy
-
- ** **vouchercloud**** reserves the right to change or modify this privacy Policy. If we change this Privacy Policy, you will be notified of any changes and be asked to approve again our policy.
-
-### Access To Information
-
-The Data Protection Act 1998 gives you the right to access the information that we hold about you. Please note that any demand for access may be subject to payment of a fee of ₹50 which covers our costs in providing you with the information requested. Should you wish to receive details that we hold about you please contact us using the contact details below.
-
-### Contacting Us
-
-If you have questions about this Privacy Policy, you can contact us at:
-
- **vouchercloud**
-
-1st Floor, Merchants House   
-Wapping Road  
-Bristol   
-BS1 4RW  
-United Kingdom
-
- **Email:** [hello@vouchercloud.co.in](mailto:hello@vouchercloud.co.in)  
-Telephone: +44 (0) 117 926 1100  
-Fax: +44 (0) 117 926 1101
+vouchercloud reserves the right to change or modify this privacy Policy. If we change this Privacy Policy, you will be notified of any changes and be asked to approve again our policy.
