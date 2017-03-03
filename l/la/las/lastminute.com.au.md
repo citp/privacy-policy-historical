@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2016-04-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160428182146id_/https%3A//www.lastminute.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lastminute.com.au privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303100648id_/https%3A//www.lastminute.com.au/privacy) for the most accurate reproduction.*
 
 # lastminute.com.au Privacy Policy
 
-### lastminute.com.au Privacy Policy 
+### lastminute.com.au Privacy Policy
 
 Below you will find the Privacy Policy for www.lastminute.com.au, a website operated by Expedia, Inc. 
 
