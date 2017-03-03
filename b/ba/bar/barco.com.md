@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the barco.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231155754id_/http%3A//www.barco.com/en/AboutBarco/Privacy%2520policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barco.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303025723id_/http%3A//barco.com/en/AboutBarco/Privacy%2520policy) for the most accurate reproduction.*
 
-# Privacy policy | Barco
+# Privacy policy - Barco
 
 Barco appreciates your interest in the company and wants to thank you for browsing our website. With this privacy statement we would like to inform you about the information Barco collects from web visitors and how this information is used.
 
