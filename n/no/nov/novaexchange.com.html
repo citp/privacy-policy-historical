@@ -1,0 +1,533 @@
+<!--The following is the downloaded HTML source of the novaexchange.com privacy policy that was archived on 2017-03-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170303173539id_/https%3A//www.novaexchange.com/privacy_policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head>
+	
+    
+	<title>Novaexchange - Your Crypto Currency Exchange Engine</title>
+	<meta name="description" content="novaExchange">
+	<meta name="keywords" content="crypto,cryptocurrencies,scrypt,exchange,altcoin,profitability,autotrade,multicoin,sha256,bitcoin,litecoin">
+    <meta name="google-signin-client_id" content="209325077363-u52bec6qfjbp1fsis1pbib24d2147r5s.apps.googleusercontent.com">
+	<link rel="stylesheet" type="text/css" href="/static/style.css">
+    <meta name="csrf-token" content="1488566140##f5dd09f8c514125e8beeb4e04efb8787c17cbd97">
+	<link href="/static/nico.ico" rel="icon" type="image/x-icon">
+	
+
+</head>
+<body>
+
+<center>
+<table cellpadding="0" border="0" cellspacing="0" class="" style="width: 1260px;">
+<tbody><tr><td colspan="2">
+<nav role="navigation" class="navbar navbar-default">
+    <a href="/" class="navbar-brand" style="margin-top:0px;"><img src="/static/novaexchange_logo_small.png" valign="absmiddle" style="position:absolute; top:5px; left:3px;">
+        <span style="margin-left:34px;"><img src="/static/novatext04.png" valign="absmiddle" style="position:relative; top:-15px;"></span></a>
+    <div id="navbarCollapse" class="collapse navbar-collapse">
+        <ul class="nav navbar-nav">
+            <li class=""><a href="/markets/"><i class="fa fa-line-chart"></i> Exchange</a></li>
+            <li class=""><a href="/news/"><i class="glyphicon glyphicon-info-sign"></i> News</a></li>
+            <li class=""><a href="/dice/"><i class="fa fa-random"></i> Dice</a></li>
+            <li class="dropdown">
+                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false"><i class="fa fa-star-half-o"></i> Scratch <i class="caret"></i></a>
+                <ul class="dropdown-menu">
+                    <li class="">
+                        <a href="/novascratch/BTC/">
+                            <div class="icon-width v-middle" style="background: transparent url(&quot;/static/symbols/btc.png&quot;) no-repeat scroll bottom center / 14px 14px; height:14px; display: inline-block;"></div> 
+                            Novascratch
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="/novascratch/LTC/">
+                            <div class="icon-width v-middle" style="background: transparent url(&quot;/static/symbols/ltc.png&quot;) no-repeat scroll bottom center / 14px 14px; height:14px; display: inline-block;"></div> 
+                            Litescratch
+                        </a>
+                    </li>
+                    <li class="">
+                        <a href="/novascratch/DOGE/">
+                            <div class="icon-width v-middle" style="background: transparent url(&quot;/static/symbols/doge.png&quot;) no-repeat scroll bottom center / 14px 14px; height:14px; display: inline-block;"></div> 
+                            Dogescratch
+                        </a>
+                    </li>
+                </ul>
+            </li>
+            <li class=""><a href="/addcoin/"><i class="glyphicon glyphicon-save"></i> Addcoin</a></li>
+        </ul>
+
+        <ul class="nav navbar-nav navbar-right">
+            
+                <li class=""><a href="/signin/"><i class="glyphicon glyphicon-log-in"></i> Sign in</a></li>
+                <li class=""><a href="/register/"><i class="glyphicon glyphicon-pencil"></i> Register</a></li>
+            
+        </ul>
+    </div>
+<script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
+<script type="text/javascript" src="/static/js/socket.io.1.7.3.js"></script>
+<script type="text/javascript" src="/static/js/bignumber.js"></script>
+</nav>
+</td></tr>
+<script type="text/javascript">
+var socket;
+var namespace = '/feed';
+
+$(document).ready(function() {   
+    if (socket == null) {
+        socket = io.connect('//' + document.domain + ':' + location.port + namespace);
+    }
+    var do_disconnect = setTimeout(do_disconnect_now, 4000000); function do_disconnect_now() { socket.disconnect(); }
+});
+</script>
+<tr><td colspan="2" valign="top" style="padding:15px !important; padding-top:0px !important">
+    <table>
+        <tbody><tr>
+
+    <td class="" style="width:48px; height:48px;"><a href="/market/BTC_MMM/"><img src="/static/symbols/mmm.png" style="width:48px; height:48px;"></a></td>
+    <td class="text-left text-bold v-middle" style="padding-left:10px; font-size:1.2em;"><a href="/market/BTC_MMM/">BTC_MMM</a><br><span style="font-size:0.9em; font-normal">Mavrodicoin</span></td>
+
+    <td class="" style="width:48px; height:48px;"><a href="/market/BTC_ARB/"><img src="/static/symbols/arb.png" style="width:48px; height:48px;"></a></td>
+    <td class="text-left text-bold v-middle" style="padding-left:10px; font-size:1.2em;"><a href="/market/BTC_ARB/">BTC_ARB</a><br><span style="font-size:0.9em; font-normal">Arbit</span></td>
+
+    <td class="" style="width:48px; height:48px;"><a href="/market/BTC_REGA/"><img src="/static/symbols/rega.png" style="width:48px; height:48px;"></a></td>
+    <td class="text-left text-bold v-middle" style="padding-left:10px; font-size:1.2em;"><a href="/market/BTC_REGA/">BTC_REGA</a><br><span style="font-size:0.9em; font-normal">Rega</span></td>
+
+    <td class="" style="width:48px; height:48px;"><a href="/market/BTC_PTC/"><img src="/static/symbols/ptc.png" style="width:48px; height:48px;"></a></td>
+    <td class="text-left text-bold v-middle" style="padding-left:10px; font-size:1.2em;"><a href="/market/BTC_PTC/">BTC_PTC</a><br><span style="font-size:0.9em; font-normal">Pesetacoin</span></td>
+
+    <td class="" style="width:48px; height:48px;"><a href="/market/BTC_TIC/"><img src="/static/symbols/tic.png" style="width:48px; height:48px;"></a></td>
+    <td class="text-left text-bold v-middle" style="padding-left:10px; font-size:1.2em;"><a href="/market/BTC_TIC/">BTC_TIC</a><br><span style="font-size:0.9em; font-normal">Trueinvestmentcoin</span></td>
+
+    <td class="" style="width:48px; height:48px;"><a href="/market/BTC_ALEX/"><img src="/static/symbols/alex.png" style="width:48px; height:48px;"></a></td>
+    <td class="text-left text-bold v-middle" style="padding-left:10px; font-size:1.2em;"><a href="/market/BTC_ALEX/">BTC_ALEX</a><br><span style="font-size:0.9em; font-normal">Alexandritecoin</span></td>
+
+        </tr>
+    </tbody></table>
+</td></tr>
+<tr>
+<td valign="top" style="padding-right:10px; height:100%">
+    <div> 
+
+   
+    
+
+        <table>
+            <tbody><tr>
+                <td>
+                <div class="panel panel-default bshadow-soft">
+                    <div class="panel-heading">
+                        <h3 class="panel-title text-bold"><i class="icon-width fa fa-info"></i> Privacy policy</h3> 
+                    </div>
+                    <div class="panel-body">
+
+
+<p>Last Revised: April 02, 2016</p>
+
+<p>This Privacy Policy, as amended or otherwise changed from time to time (the “Privacy Policy”), explains the manner in which Dunkers IT. (“Novaexchange”) collects, uses, maintains and discloses user information obtained through the Novaexchange.com website (the “Site”). The terms “we,” “us,” and “our” refer to Dunkers IT. By using the Site, you (“User”) consent to the data practices prescribed in this Privacy Policy. On occasion, Novaexchange may revise this Privacy Policy to reflect changes in law, our personal data collection and use practices, the features on the Site, or advances in technology. If material changes are made to this Privacy Policy, the changes will be prominently posted on the Site. Capitalized terms not defined herein shall have the meanings ascribed to them in the Terms of Use.</p>
+
+<p>Please note: This Privacy Policy does not cover any information that we may receive about you through channels external to Novaexchange.</p>
+
+<h3>What information does Novaexchange collect?</h3>
+<p>If you open an Account to utilize the Services, we may collect your full name, address, phone number, email address, and other similar information; date of birth; government issued identification; other personal information provided by 3rd party identity verification services; and information you provide to Novaexchange when interacting with our customer support or other staff members via email, online form, trollbox, or other correspondence. We also collect passive information which includes, but is not limited to, IP addresses, referral URLs, your location, and other session data.</p>
+
+<h3>How does Novaexchange use the information it collects?</h3>
+<p>We collect your personal information to provide the Services to you. We notify you about your account activity, process transactions, provide customer support services, improve our product, identify, prevent, and report potentially suspicious, fraudulent, or illegal activities, and we notify you about important changes to our Terms of Use.</p>
+
+<h3>How does Novaexchange share my personal information?</h3>
+<p>It may be necessary to disclose your information to comply with any law, subpoenas, court orders, or government request, defend against claims, investigate or bring legal action against illegal or suspected illegal activities, enforce our Terms of Use, or to protect the rights, safety, and security of Novaexchange, our users, or the public. Novaexchange may contain links to other 3rd party websites which are regulated by their own privacy policies. Novaexchange is not responsible for the privacy policies of these 3rd party websites even if they were accessed using the links from our site.</p>
+
+<p>Other than as stated in this Privacy Policy, Novaexchange does not disclose any of your personal information to third parties unless required to do so by law enforcement, court order, or in compliance with legal reporting obligations.</p>
+
+<h3>How can you update your information?</h3>
+<p>You can update your information in your account page as long as it has not been verified, once verified you can only change this information <a href="/contact/">by contacting Novaexchange</a></p>
+
+<p>We will retain your information for as long as your Account has not been closed or as needed to provide you access to your Account. If you wish to close your Account, <a href="/contact/">contact Novaexchange</a>. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our <a href="/terms_and_conditions/">Terms and Conditions</a>.</p>
+
+<h3>How does Novaexchange use cookies and persistent local data?</h3>
+<p>We collect web browser Information in order to enhance your experience on the site and track how the Services are being used. Cookies are small data files that are stored on your computer’s hard drive, and in addition to using cookies to provide you with a better user experience, we use cookies to identify and prevent fraudulent activity. The information collected can include, but is not limited to, your IP address, referral URLs, the type of device you use, your operating system, the type of browser you use, geographic location, and other session data. Cookies are not permanent and will expire after a short time period of inactivity. You may opt to deactivate your cookies, but it is important to note that you may not be able to access or use some features of our site. Please note that Novaexchange is not responsible or can be held liable for any loss resulting from your decision or inability to use such features.</p>
+
+<h3>What security precautions does Novaexchange take to protect me?</h3>
+<p>We take the protection of your personal information very seriously. We use industry-standard data encryption technology and have implemented restrictions related to the storage of and the ability to access your personal information. Novaexchange servers and business operations are entirely located in the Sweden.</p>
+
+<p>Please note that no transmission over the Internet or method of electronic storage can be guaranteed to be 100% secure.</p>
+
+<h3>Contacting Us</h3>
+<p></p>If you have any questions about our Privacy Policy as outlined above, please contact Novaexchange at <a href="/contact/">our contact page</a>.<p></p>
+
+
+                    </div>
+                </div>
+            </td></tr>
+    </tbody></table>
+
+<script type="text/css">
+
+
+</script>
+
+
+    </div>
+</td>
+<td valign="top" style="width:260px;">
+    <div><div class=""><input type="text" placeholder="Search" class="text-center form-control input-sm" id="btcFilter" name="btcFilter" style=""></div>
+    <h5 class="bold top-buffer">Select basemarket</h5>
+    <div><div class="">
+        <select type="select" placeholder="Basemarket: BTC" class="text-center form-control input-sm" id="basemarket" name="basemarket" style="">
+            <option value="Hot">Hot markets right now</option>
+            <option value="BTC">Bitcoin (BTC)</option>
+            <option value="LTC">Litecoin (LTC)</option>
+	    <option value="KIC">Kibicoin (KIC)</option>
+            <option value="ESP2">Espers (ESP2)</option>
+            <option value="DOGE">Dogecoin (DOGE)</option>
+            <option value="PIGGY">Piggycoin (PIGGY)</option>
+        </select>
+    </div>
+
+    <h5 class="bold top-buffer"><span id="lstbasemarket"></span></h5>
+    <div class="marketside" data-mcs-theme="dark" style="max-height:1000px !important;">
+    <table cellpadding="0" border="0" cellspacing="0" width="100%">
+        <tbody class="btc_searchable" id="lstmarkets">
+        </tbody>
+    </table>
+    </div>
+</div></div></td>
+</tr>
+<tr><td colspan="2">
+
+       <!--
+        <hr>
+       <div class='text-center'>
+       <h5 class='bold'><a class='text-danger' href='/notice/'>Notice about re-launch; Read more here</a> || <a class='text-danger' href='https://www.scryptpool.com/novaexchange' target='_blank' rel="noopener noreferrer">Bejjans fundraiser</a> || <a class='text-danger' href='/notice/fundraiser/'>Funds sent to fundraiser from Novaexchange</a></h5>
+        </div>
+        -->
+        <hr>
+        <div class="row">
+            <div class="col-sm-12 text-center">
+                <footer>
+                    <p>
+                        © Copyright 2015-2016 Novaexchange, Your crypto currency exchange<br>
+                        <a href="/remote/faq/">API Documentation</a> | <a href="/terms_and_conditions/">Terms and Conditions</a> | <a href="/faq/frequently_asked_questions/">F.A.Q.</a> | <a href="/privacy_policy/">Privacy Policy</a> | <a href="https://twitter.com/nova_exchange">Twitter</a> | <a href="/contact/">Contact Novaexchange</a>
+                    </p>
+                </footer>
+            </div>
+        </div>
+
+</td></tr></tbody></table>
+</center>
+
+<div id="chatwrapper_min" class="chatwrapper_min cls-show">
+<div id="chatheader" class="trolltoggle chatheader">
+    <i class="fa fa-comment-o"></i> Trollbox
+</div>
+<div id="chattoggle" class="chattoggle">
+    <i class="glyphicon glyphicon-plus"></i>
+</div>
+</div>
+
+<div id="chatwrapper" class="chatwrapper cls-hidden">
+<div id="chatheader" class="trolltoggle chatheader">
+    <i class="fa fa-comment-o"></i> Trollbox
+</div>
+<div id="chattoggle" class="trolltoggle chattoggle">
+    <i class="glyphicon glyphicon-minus"></i>
+</div>
+<div id="chathistory" class="chathistory trollboxscroll" data-mcs-theme="dark">
+    <div id="msgsTroll"></div>
+
+</div>
+
+<div id="sendmessage" class="sendmessage2">
+    Please <a href="/signin/">sign in</a> to use the Trollbox.
+</div>
+
+</div>
+
+    <script src="/static/bootstrap/js/bootstrap.min.js"></script>
+    <script src="/static/bootstrap/js/jquery.mCustomScrollbar.concat.min.js"></script>
+
+<script type="text/javascript">
+    $.ajaxSetup({
+        headers:
+            { 'X-CSRF-TOKEN': $('meta[name="csrf-token"]').attr('content') }
+    });
+</script>
+
+<script type="text/javascript">
+$(document).ready(function() {   
+
+// TROLLBOX
+    var cansend = true;
+
+    //var namespace = '/feed';
+    if (socket == null) {
+        socket = io.connect('//' + document.domain + ':' + location.port + namespace);
+    }
+
+    socket.on('connect', function() {
+        setTimeout(function(){
+            socket.emit('subscribe_trollbox');
+        }, 250);
+    });
+
+    var chat_hidden = localStorage['chat_hidden'];
+    if (chat_hidden == null) {
+        chat_hidden = "true"
+        localStorage['chat_hidden'] = 'false';
+    }
+
+    $(document).on('click', '.trolltoggle', function() { 
+        toggleTrollbox();
+    });
+
+    $(document).on('click', '#trollButton', function() { 
+        if (cansend == true) {
+            cansend = false;
+            var trollmsg = $("#trollMessage").val();
+            $("#trollMessage").val("");
+            sendTrollMessage(trollmsg);
+            setTimeout(function(){
+                cansend = true;
+            }, 3000);
+        }
+    });
+
+    $(document).on('keydown', '#trollMessage', function(e) { 
+        if (e.keyCode == 13) {
+            e.preventDefault();
+            if (cansend == true) {
+                cansend = false;
+                var trollmsg = $("#trollMessage").val();
+                $("#trollMessage").val("");
+                sendTrollMessage(trollmsg);
+                setTimeout(function(){
+                    cansend = true;
+                }, 3000);
+            }
+        }
+    });
+
+    function sendTrollMessage(message) {
+        if (message.length >= 2) {
+            socket.emit("send_trollmessage", {'msg': message})
+        }
+    }
+
+    socket.on('removetroll', function(data) {
+        $("#msg" + data.msg).remove();
+    });
+
+    socket.on('trollmessage', function(data) {
+        msg = data.msg;
+        var html = "<div id='msg" + msg.msgid + "' class='msgBox'><div><div class='pull-right msgDate'>" + msg.timestamp + "</div><div class='bold msgNick nick" + msg.nickt + "' alt='" + msg.msgid + "' title='" + msg.msgid + "'>" + msg.username + "</span></div></div><div class=' atype"+ msg.atype +"'>" + msg.msg + "</div></div>";
+        $("#msgsTroll").append(html);
+        $(".trollboxscroll").mCustomScrollbar("update");
+        if (chat_hidden != "true") {
+            $(".trollboxscroll").mCustomScrollbar("update");
+            setTimeout(function(){
+                $(".trollboxscroll").mCustomScrollbar("scrollTo", "bottom", {scrollInertia:0});
+            }, 500);
+        }
+    });
+
+    socket.on('trollbox_init', function(data) {
+        result = data;
+        $(".trollMsg").remove();
+        if (Object.keys(result.msg).length > 0) {
+            html = "";
+            for (var trollmsg in result.msg) {
+                if (!result.msg.hasOwnProperty(trollmsg)) continue;
+                var msg = result.msg[trollmsg];
+                var html = "<div id='msg" + msg.msgid + "' class='msgBox'><div><div class='pull-right msgDate'>" + msg.timestamp + "</div><div class='bold msgNick nick" + msg.nickt + "' alt='" + msg.msgid + "' title='" + msg.msgid + "'>" + msg.username + "</span></div></div><div class=' atype"+ msg.atype +"'>" + msg.msg + "</div></div>" + html;
+            }
+            $("#msgsTroll").prepend(html);
+            if (chat_hidden != "true") {
+                $(".trollboxscroll").mCustomScrollbar("update");
+                setTimeout(function(){
+                    $(".trollboxscroll").mCustomScrollbar("scrollTo", "bottom", {scrollInertia:0});
+                }, 500);
+            }
+        }
+    });
+
+    $(".trollboxscroll").mCustomScrollbar({
+        axis: "y",
+        scrollInertia: 0,
+        setLeft: -2,
+        setTop: "-999999px",
+        alwaysShowScrollbar: 1,
+        scrollbarPosition: "inside",
+        mouseWheel:{ scrollAmount: 90 },
+    });
+
+    function toggleTrollbox() {
+        if (chat_hidden == 'true') {
+            $("#chatwrapper_min").removeClass("cls-show").addClass("cls-hidden");
+            $("#chatwrapper").removeClass("cls-hidden").addClass("cls-show");
+            $(".trollboxscroll").mCustomScrollbar("update");
+            setTimeout(function(){
+                $(".trollboxscroll").mCustomScrollbar("scrollTo", "bottom", {scrollInertia:0});
+            }, 500);
+            chat_hidden = 'false';
+            localStorage['chat_hidden'] = 'true';
+        }
+        else {
+            $("#chatwrapper").removeClass("cls-show").addClass("cls-hidden");
+            $("#chatwrapper_min").removeClass("cls-hidden").addClass("cls-show");
+            chat_hidden = 'true';
+            localStorage['chat_hidden'] = 'false';
+        }
+    }
+
+    setTimeout(function(){
+        toggleTrollbox();
+    }, 250);
+
+
+// END TROLLBOX
+
+
+    var loadUpdateMarkets = setTimeout(loadMarkets, 100);
+    var loadUpdateMarkets_c = 5000;
+
+    function loadMarkets() {
+        clearTimeout(loadUpdateMarkets);
+        values = {
+            'basemarket': $("#basemarket").val(),
+        }
+        $.post("/api/public/lstMarkets/?basemarket=" + $("#basemarket").val(), values).done(function(data) {
+            result = JSON.parse(data);
+            //console.log(result);
+            html = "";
+            if (result.status == "success") {
+                if ($("#basemarket").val() == "Hot") {
+                    if (Object.keys(result.lstmarkets).length > 0) {
+                        for (var market in result.lstmarkets) {
+                            if (!result.lstmarkets.hasOwnProperty(market)) continue;
+                                item = result.lstmarkets[market];
+                                html = html + "<tr class=''>";
+                                html = html + "<td class='' colspan='5'><h5 class='bold'>Hot " + item.basemarket + " markets</h5></td>";
+                                html = html + "</tr>";
+                                if (Object.keys(item.lstmarkets).length > 0) {
+                                    for (var key in item.lstmarkets) {
+                                        if (!item.lstmarkets.hasOwnProperty(key)) continue;
+                                            row = item.lstmarkets[key];
+                                            html = html + "<tr class='currencybox gotomarket' id='" + row.marketname + "_t' name='" + row.marketname + "_t'>";
+                                            html = html + "<td class='' style='background: transparent url(\"/static/symbols/" + row.currency.toLowerCase() + ".png\") no-repeat scroll center center / 12px 12px; width:12px;'>";
+                                            html = html + "<div class='cls-hidden'>" + row.marketname + "</div>";
+                                            html = html + "<div class='cls-hidden'>" + row.currencyname + "</div>";
+                                            html = html + "</td>";
+                                            html = html + "<td class='text-left marketcell bold marketname'><a class='marketurl' href='/market/" + row.marketname + "/'>" + row.currency+ "</a></td>";
+                                            html = html + "<td class='text-right marketcell marketupdown' style='max-width:60px; overflow:hidden;'>" + row.volume + "</td>";
+                                            html = html + "<td class='text-right marketcell bold marketchange' style='width:40px;'><span class='label ";
+                                            if (Number(parseFloat(row.change)) < Number(0)) {
+                                                html = html + "label-danger";
+                                            }
+                                            else if (Number(parseFloat(row.change)) > Number(0)) {
+                                                html = html + "label-success";
+                                            }
+                                            else {
+                                                html = html + "label-default";  
+                                            }
+                                            html = html + "'>" + row.change + "%</span></td>";
+                                            html = html + "<td class='text-right marketcell marketprice' style='max-width:70px; overflow:hidden'>" + row.last + "</td>";
+                                            html = html + "</tr>";
+                                    }
+                                }
+                        }
+                    }
+                }
+                else {
+                    if (Object.keys(result.lstmarkets).length > 0) {
+                        for (var key in result.lstmarkets) {
+                            if (!result.lstmarkets.hasOwnProperty(key)) continue;
+                                row = result.lstmarkets[key];
+                                html = html + "<tr class='currencybox gotomarket' id='" + row.marketname + "_t' name='" + row.marketname + "_t'>";
+                                html = html + "<td class='' style='background: transparent url(\"/static/symbols/" + row.currency.toLowerCase() + ".png\") no-repeat scroll center center / 12px 12px; width:12px;'>";
+                                html = html + "<div class='cls-hidden'>" + row.marketname + "</div>";
+                                html = html + "<div class='cls-hidden'>" + row.currencyname + "</div>";
+                                html = html + "</td>";
+                                html = html + "<td class='text-left marketcell bold marketname'><a class='marketurl' href='/market/" + row.marketname + "/'>" + row.currency+ "</a></td>";
+                                html = html + "<td class='text-right marketcell marketupdown' style='max-width:60px; overflow:hidden;'>" + row.volume + "</td>";
+                                html = html + "<td class='text-right marketcell bold marketchange' style='width:40px;'><span class='label ";
+                                if (Number(parseFloat(row.change)) < Number(0)) {
+                                    html = html + "label-danger";
+                                }
+                                else if (Number(parseFloat(row.change)) > Number(0)) {
+                                    html = html + "label-success";
+                                }
+                                else {
+                                    html = html + "label-default";  
+                                }
+                                html = html + "'>" + row.change + "%</span></td>";
+                                html = html + "<td class='text-right marketcell marketprice' style='max-width:70px; overflow:hidden'>" + row.last + "</td>";
+                                html = html + "</tr>";
+                        }
+                    }
+                }
+                if ($("#basemarket").val() != "Hot") {
+                    $("#lstbasemarket").text($("#basemarket").val() + " Markets");
+                } else {
+                    $("#lstbasemarket").text("");
+                }
+                $("#lstmarkets").html(html);
+                $("#btcFilter").click();
+            }
+        });
+        if (loadUpdateMarkets_c >= 1) {
+            loadUpdateMarkets = setTimeout(loadMarkets, 15000);
+            loadUpdateMarkets_c = loadUpdateMarkets_c - 1;
+        }
+    }
+
+    $(document).on('change', '#basemarket', function() { 
+        loadMarkets();
+    });
+
+    //loadMarkets();
+
+    $(".marketside").mCustomScrollbar({
+        axis: "y",
+        scrollInertia: 0,
+        setLeft: -10,
+        alwaysShowScrollbar: 1,
+        mouseWheel:{ scrollAmount: 90 },
+    });
+    $(".marketview").mCustomScrollbar({
+        axis: "y",
+        scrollInertia: 0,
+        setLeft: -10,
+        alwaysShowScrollbar: 1,
+        mouseWheel:{ scrollAmount: 90 },
+    });
+});
+
+
+  (function ($) {
+    $('#btcFilter').on('focusin click keyup keypress', function(e) {
+      if (e.keyCode == 13) {
+        e.preventDefault();
+      };
+      var rex = new RegExp($(this).val(), 'i');
+      $('.btc_searchable tr').hide();
+      $('.btc_searchable tr').filter(function () {
+          return rex.test($(this).text());
+      }).show();
+    })
+  }(jQuery));
+
+$(document).ready(function() {   
+    $(document).on('click', ".gotomarket", function () {
+        var link = $(this).children('.marketname').children(".marketurl").attr('href');
+        window.location.href = link;
+    });
+});
+</script>
+
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-79116513-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+
+</body></html>
