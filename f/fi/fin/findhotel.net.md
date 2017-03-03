@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the findhotel.net privacy policy that was archived on 2016-08-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160827234857id_/http%3A//findhotel.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the findhotel.net privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303051824id_/http%3A//findhotel.net/privacy) for the most accurate reproduction.*
 
-# findhotel.net - Privacy Policy
+# Privacy Policy
 
 ### Privacy Policy (available in English only)
 
@@ -34,5 +34,7 @@ The only personal information that FindHotel may collect is the email address yo
 
 Sharing information with other websites  
 Subject to this Privacy Policy, we will not disclose any information to companies that are not affiliated with our business without your consent in writing, unless otherwise required by law, or unless such disclosure is, in our opinion, reasonably necessary to protect its rights or property, or to avoid injury to any person.
+
+We can use the collected information for remarketing purposes for any of our brands, including FindHotel and Etrip. These brands are owned by the same company Findhotel B.V.
 
 If you have any questions about this policy, please [contact us](https://web.archive.org/contact). 
