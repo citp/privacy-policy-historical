@@ -1,16 +1,8 @@
-> *The following text is extracted and transformed from the touricoholidays.com privacy policy that was archived on 2016-07-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160707215233id_/https%3A//login.touricoholidays.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the touricoholidays.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303102353id_/https%3A//login.touricoholidays.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy. - TouricoHolidays.comTouricoHolidays.com
+# Privacy Policy - TouricoHolidays.comTouricoHolidays.com
 
 Tourico Holidays, a brand of Travel Holdings, Inc. is committed to maintain security and confidentiality of the personal information gathered and used on the [www.touricoholidays.com](http://www.touricoholidays.com/) website (“hereinafter the Website”). This Privacy Statement covers [www.touricoholidays.com](http://www.touricoholidays.com/).
-
-Travel Holdings, Inc. is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent, organization whose mission is to build user’s trust and confidence in the Internet by promoting the use of fair information practices. Because this Website wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe.
-
-If you have questions or concerns regarding this statement, you should first contact Travel Holdingsâ€™ Webmaster at TouricoHolidays.com at [webmaster@travelholdings.com](mailto:webmaster@travelholdings.com). If you do not receive acknowledgement of your inquiry or your inquiry has not been satisfactorily addressed, you should contact TRUSTe at [http://watchdog.truste.com](http://watchdog.truste.com/pvr.php?page=complaint&url).
-
-TRUSTe will then serve as a liaison with us to resolve your concerns.
-
-TouricoHolidays.com and its authorized technology, marketing and service providers may gather, store, and process personal information from the Website.
 
 ## Information Collected
 
