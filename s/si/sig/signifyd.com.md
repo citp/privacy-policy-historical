@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the signifyd.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412005032id_/https%3A//www.signifyd.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the signifyd.com privacy policy that was archived on 2017-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170303124816id_/https%3A//www.signifyd.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | SIGNIFYD
+# Privacy | Signifyd
 
 Welcome to the Web site of SIGNIFYD Inc., a Delaware corporation (" **SIGNIFYD** ," **we,** " or " **us** "). This privacy policy describes our collection of personal information from users of our Web site at www.signifyd.com (the " **Site** "), including our SIGNIFYD fraud and abuse prevention service provided through our customer portal on the Site (the " **Service** "), as well as all related applications, widgets, software, tools, and other services provided by us and on which a link to this policy is displayed (collectively, together with the Site and our Service, our " **Services** "), as well as our use and disclosure of that information. By using any of our Services, you consent to the collection and use of personal information in accordance with this policy. Unless separately defined in this Privacy Policy, all terms used with initial letters capitalized in this policy have the meanings set forth in our [Terms of Use](https://web.archive.org/terms/).
 
