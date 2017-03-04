@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigscoots.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316185616id_/https%3A//www.bigscoots.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigscoots.com privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304123037id_/https%3A//www.bigscoots.com/privacy-policy) for the most accurate reproduction.*
 
 # BigScoots - Fully Managed VPS and Dedicated Server | Virtual Machine
 
