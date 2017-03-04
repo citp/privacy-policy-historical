@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the highlightskids.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116181850id_/http%3A//www.highlights.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the highlightskids.com privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304075445id_/https%3A//www.highlights.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Highlights for Children
 
