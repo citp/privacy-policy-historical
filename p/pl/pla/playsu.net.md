@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the playsu.net privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711141830id_/http%3A//playsu.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the playsu.net privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304050648id_/http%3A//playsu.net/privacy) for the most accurate reproduction.*
 
 # Live Sexcams: XXX Adult Shows, Free Porn Chat - Free Chat On Playsu.net
 
