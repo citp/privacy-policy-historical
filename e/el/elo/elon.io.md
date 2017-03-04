@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elon.io privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908061427id_/https%3A//elon.io/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elon.io privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304202925id_/https%3A//elon.io/support/privacy-policy) for the most accurate reproduction.*
 
 # Elon.io | Privacy policy
 
