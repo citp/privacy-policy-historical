@@ -1,91 +1,166 @@
-> *The following text is extracted and transformed from the phonedetective.com privacy policy that was archived on 2014-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140528164757id_/http%3A//www.phonedetective.com/PD.aspx%3F_act%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phonedetective.com privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304103042id_/https%3A//www.phonedetective.com/PD.aspx%3F_act%3DPrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Phone Detective
 
 [Home](https://web.archive.org/) > Privacy Policy
 
-Effective Date: December 15, 2013
+Welcome to PhoneDetective.com, a website designed to help you find information available in public records. This privacy policy is for visitors and registered users (“you”) of PhoneDetective.com (the “website” or “service”), which is owned and operated by Inflection.com, Inc. (“Inflection”, “we” or “our”): 
 
-This privacy policy applies to PhoneDetective.com, owned and operated by Inflection LLC. This privacy policy describes how Inflection LLC collects and uses the personal information you provide on our web site: [www.phonedetective.com](https://web.archive.org/web/20140528164757id_/http%3A//www.phonedetective.com/PD.aspx). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This policy discusses what information the site collects, how we use it, and the limited circumstances in which we may share it. 
 
-[Click here](https://web.archive.org/web/20140528164757id_/http%3A//www.phonedetective.com/PD.aspx?_act=PrivacyPrinciples) to learn more about how we protect your privacy and how to manage your information in our databases.
+* * *
 
-## TRUSTe
+## What is covered by this privacy policy
 
-Inflection LLC has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your personal information. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@phonedetective.com](mailto:privacy@phonedetective.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe program covers only information that is collected through this Web site: [www.phonedetective.com](https://web.archive.org/web/20140528164757id_/http%3A//www.phonedetective.com/PD.aspx), and does not cover information that may be collected through software downloaded from the site.
+This privacy policy covers PhoneDetective.com, which is designed to help you find public records information about yourself and others. This site is not a consumer-reporting agency as defined by the [Fair Credit Reporting Act](https://www.peoplesmart.com/fcra) (FCRA). Visit [GoodHire.com](https://www.goodhire.com/) for all your employment screening needs. 
 
-[ ](https://privacy.truste.com/privacy-seal/Inflection-LLC/validation?rid=56b6370a-a65a-4b6a-96e0-8daee7d98f4d "TRUSTe online privacy certification")
+## What isn’t covered by this policy?
 
-## What This Privacy Policy Covers
+This privacy policy only applies to information collected by this website, which is owned and operated by Inflection.com, Inc. This policy does not apply to the practices of other website domains that this site links to, to other Inflection services, to the practices of companies that we do not own or control, or to people that we do not employ or manage. 
 
-This policy covers how PeopleSmart.com ("Website", "we", "us", "our") treats personal information that we collect and receive, including information related to your past use of the Website and/or our products or services. Personal information is information about you that is personally identifiable like your name, address, credit or debit card number, email address, or phone number, and that is not otherwise publicly available. This policy does not apply to the practices of companies that we do not own or control or to people that we do not employ or manage. Other than the reference to our people search database [Opt-Out Policy](https://web.archive.org/web/20140528164757id_/http%3A//www.phonedetective.com/PD.aspx?_act=Optout) at the end of this Privacy Policy, this policy does not apply to any information in our people search databases.
+**If you want to submit an opt-out request to remove yourself from the search results of this and other people search sites we operate, please[click here](https://www.peoplesmart.com/optout-go). This link will take you to our opt-out service, which is powered by PeopleSmart. We will try our best to honor your request. **
 
-## Information Collection and Use
+If you choose to opt out of search results, that choice may affect the visibility of the relevant information on our entire network of sites, which includes this website, Peoplesmart.com, Identity.com, and other affiliated properties. We try our best to honor your request, but our opt-out system is not perfect and it may miss records that don’t perfectly match the information you submit. 
 
-  * In order to facilitate searches and manage our business we collect personal information about you. We collect personal information about you when you voluntarily register with us, when you use the Website and/or our products or services and your browser interacts with us, when you visit the Website pages or the pages of certain of our partners, and when you enter third party personal information to conduct certain searches. We may combine information that we have about you with information we obtain from business partners or other companies, such as data providers and billing companies.
-  * The personal information we collect about you through theses various sources may include, but is not limited to: your name, email address, IP address, address, and search log. Once you register with us and sign in to our services, you are not anonymous to us.
-  * By submitting your email address on our checkout page you agree that you're opting into our no-cost newsletter and email alerts service. You understand that you will receive messages that are commercial in nature. An opt-out "unsubscribe" link will be provided for your convenience in each message.
-  * We collect information about your transactions with us and with some of our business partners, such as billing partners, including information about your use of search products and information we offer.
-  * We automatically receive and record information on our server logs from your browser, including your IP address, our cookie information, search activity, and the pages you request.
-  * We use the information for the following general purposes: to customize the advertising and content you see, fulfill your requests for products and services, improve our services, contact you, conduct research, publish search data, and provide reporting for internal and external clients.
+## Your Public Records Exist Elsewhere In The World – We Do Not Control Them
 
+This site displays public records that are available in the real world, such as criminal history records from law enforcement agencies and bankruptcy records from courts. Original copies of public records can only be changed by those entities. Inflection obtains its public records through third party sources. Please note that exercising the opt-out option will not actually delete or change the original copies of such records. 
 
+**Note:** If you consent to the release of your information via another Inflection product or service (e.g., a background report on Goodhire.com), your public records will be shared for the purpose you specify. 
 
-## Information Sharing and Disclosure
+## Your safety and privacy are very important to us
 
-We do not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you've requested, when we have your permission, or under the following circumstances:
+We want to minimize the risk of harm resulting from use of public records information. Please contact us if you are particularly at risk for certain types of harm as a result of your public records being available on this site. Inflection will work with you on mitigating the risk of any potential harm, including physical harm, threats to public officials such as law enforcement, and issues related to identity theft. Please send your request to our Privacy Department at [privacy@phonedetective.com](mailto:privacy@phonedetective.com) along with appropriate documentation or call us at 1-800-652-8360. 
 
-  * We provide the information to trusted partners who work on behalf of or with us. These companies may use your personal information to help communicate with you about offers from us and our marketing partners. These companies are authorized to use your personal information only as necessary to provide these services to us. Examples of these are third party payment processors who expedite payments on our Website and marketing partners, such as our identity theft protection partner.
-  * We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims.
-  * We believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of our Terms and Conditions, or as otherwise required by law.
-  * We transfer information about you if we are acquired by or merged with another company. In this event, we will notify you by sending a notice to the primary email address specified in your account or by placing a prominent notice on our Website before information about you is transferred and becomes subject to a different privacy policy.
-  * We may display targeted advertisements based on personal information. Advertisers (including ad serving companies) may assume that people who interact with, view, or click on targeted ads meet the targeting criteria - for example, women ages 18-24 from a particular geographic area.
-  * We do not provide any personal information to the advertiser when you interact with or view a targeted advertisement. However, by interacting with or viewing an advertisement you are consenting to the possibility that the advertiser will make the assumption that you meet the targeting criteria used to display the advertisement.
+##  We Collect Information Related to Your Account and Identity 
+
+Registration is optional on this site. Registering makes certain features available to you. When you register for an account, we may collect the following information from you: 
+
+  * Your name, email address, mailing address, and phone number
+  * Username and password
+  * Communications related to customer service requests
 
 
 
-## Cookies and Other Tracking Technologies
+## We Collect Information Necessary for Payments and Other Products
 
-  * We may set and access our cookies on your computer. We do not link the information we store in cookies to any personally identifiable information you submit while on our site. We use both session ID cookies and persistent cookies. A session ID cookie expires when you close your browser. We use session cookies to make it easier for you to navigate the site and log in to your account. A persistent cookie remains on your hard drive for an extended period of time. We use persistent cookies to track usage of our site to improve your experience, and to remember your preferences. You can remove persistent cookies by following directions provided in your Internet browser’s “help” directory. Learn more about cookies [here](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer). If you reject cookies, you may still use our site, but your ability to use some areas of our site will be limited.
-  * The use of cookies by our partners, affiliates, and service providers is not covered by our privacy policy. We do not have access or control over these cookies. Our partners, affiliates, and service providers use session ID and persistent cookies to make it easier for you to navigate our site, monitor site usage and performance, and provide targeted ads.
-  * Our third party partners employ clear gifs (a.k.a. Web Beacons/Web Bugs), images, and scripts that help them better manage content on our site. We do not tie the information gathered to our Customers’ or Users’ personally identifiable information.
-  * We use local storage objects (LSOs) to store content information and preferences. Third Parties, with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity, use LSOs to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: [http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html](https://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html)
-  * We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not including your name, address, email address, or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please [click here](http://www.networkadvertising.org/managing/opt_out.asp).
+If you choose to purchase a report or subscription on this site, we may collect and retain information to complete the purchase and prevent fraud. 
+
+You can buy reports on this service by entering your payment information, including your credit card information, name, email address, and physical address. For processing payments, we use systems that are compliant with the Payment Card Industry Data Security Standard (PCI DSS). All payment and transaction-related information is safely stored according to PCI DSS requirements. 
+
+If you choose to use one of our communication relay services (for example, our email relay or postal relay services), we will collect your message content, as well as your relevant contact information for return correspondence. Please note that your contact information (e.g. name and email address or name and mailing address) will be shared with the person you contact through the relay service. 
+
+## Information We Collect From All Visitors
+
+### Technical and Analytics Information
+
+We collect technical and analytics information from all visitors. This information includes your IP address, the URL that brought you to the site, and information about your device and browser. 
+
+### Activity Information
+
+When you visit this site, we may collect information about which pages you visit, who and what you search for, and the products you buy. 
+
+### Cookies and Other Tracking Technologies
+
+This site makes use of tools such as cookies to collect various types of information about your activity and computer while you use the website. We only use information collected in the background to deliver and market our service - _information collected by cookies and other tools is not used to augment our search results_. 
+
+The methods we use to collect technical and analytics data include the following: 
+
+  * Technologies such as: cookies, beacons, tags and scripts are used by Inflection.com, Inc., our affiliates, and our analytics and service providers. These technologies are used in analyzing trends, administering the site, tracking your movements around the site, and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by our service providers on an individual as well as aggregated basis.
+  * We use cookies for our shopping cart, to remember your settings (e.g. language preference), for authentication, and for analyzing site usage. You can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+  * As is true of most web sites, we gather certain information automatically and store it in log files. This information may include your internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or your clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve the services we offer you, to improve marketing, analytics, and site functionality.
+  * We partner with third parties to manage our advertising on other sites. Our third-party partners may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/). Please note this does not opt you out of being served ads. You will continue to receive generic ads. To learn more about these practices, and about how to opt out of certain advertising, you can visit the [Google opt-out page](http://www.google.com/ads/preferences/), and the Network Advertising Initiative’s [opt-out system](http://www.networkadvertising.org/choices/). PhoneDetective.com currently directs new visitors to become a member on the partner site, PeopleSmart.com. For a closer look into the third-party advertising and tracking cookies we use, you can consult the [About Our Cookies page](http://www.peoplesmart.com/about-our-cookies) on PeopleSmart.com. This privacy resource provides useful information and options for opting out of these cookies. 
+  * Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs/flash and Local Storage/HTML5 to collect and store information.
+  * Various browsers may offer their own management tools for removing content stored locally using HTML5.
+  * **Social media integration**. The site includes social media features operated by third parties, such as the Facebook Like button. These features may collect your IP address and other information about your browsing activity, including the page you are visiting on our site. The information those services collect is subject to their respective privacy policies. 
 
 
 
-## Links to 3rd Party Sites
+##  How We Use The Information We Collect 
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Inflection LLC. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit.
+Your information is only used to provide and market this service for visitors and registered users, which includes operating the website, remembering your preferences, conducting in-house research, preventing fraud or abuse, marketing to you products or services offered by us, and to communicate with you and address your concerns. 
 
-## User Access and Choice
+## We Only Share Your Information in the Following Situations
 
-  * If your personal information changes, or if you no longer desire our service, you may correct, update, amend or delete it by clicking "My Account" and then "Make Changes", or by emailing our Customer Support at [privacy@phonedetective.com](mailto:privacy@phonedetective.com). We will respond to your request to access within 30 days.
-  * To exclude yourself from commercial emails and alerts sent by us, simply click the "Unsubscribe" link provided in any commercial email message.
-  * We reserve the right to send you certain communications relating to our service, such as service announcements, administrative messages and customer receipts without offering you the opportunity to opt-out of receiving them.
-  * We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-  * We make opting-out of our database fast, easy, and free. We believe that consumers should have the right to opt-out of any database that stores their personal information. While other companies might make the opt-out process unnecessarily difficult, we keep it simple. Just visit the [Opt-Out Request](https://web.archive.org/web/20140528164757id_/http%3A//www.phonedetective.com/PD.aspx?_act=Optout) page and submit the requested information. Please allow 1 to 7 business days for processing your request.
+**With Your Consent:** We may share your information when you give us permission. 
+
+**With Our Parent Company:** Inflection.com, Inc. owns a variety of products and services in addition to this site, including Identity.com, Goodhire.com, PeopleSmart.com, and other people search sites. Data collected under this privacy policy is shared with Inflection and stored alongside data from those other services. Your choices on one service may affect another service – for instance, opting out on PeopleSmart.com may mean that your records will not be available on Identity.com. 
+
+**With Service Providers:** We use certain trusted third parties to provide services for us such as payments processing. We only share the minimum amount of information necessary to provide the service. In addition, any third-party service provider we use is required to give your information the same protections that are outlined here in this Privacy Policy. 
+
+**Deidentified and Aggregated Data:** We may share or disclose information we collect after deidentifying and aggregating it so it cannot be linked back to an individual person. We contractually require third parties to respect this practice. 
+
+**Business Transfers:** In the event that Inflection is involved in a bankruptcy, merger, acquisition, reorganization or sale of assets, your information may be sold or transferred as part of that transaction. However, the new entity will be bound by this privacy policy after the sale or transfer. 
+
+**Fraud and Abuse Prevention:** We partner with certain third party vendors to prevent fraud and abuse. When you make a purchase, we analyze your payment information and unique device identifiers (including, but not limited to, IP address, geographical location, browser and operating system settings) to identify suspected fraudulent activity and block it. We may share information associated with activity flagged as fraudulent (including, but not limited to, payment information, email addresses, and unique device identifiers) with our security partners or law enforcement for further investigation. 
+
+**Legal Process and Emergency Circumstances:** We may disclose or preserve for future disclosure your information if we believe, after due consideration, that doing so is reasonably necessary to protect Inflection's rights or property or to comply with a law, regulation, valid legal process, or to prevent imminent and serious bodily harm to a person. 
+
+If you are a law enforcement officer seeking information from Inflection about one of our users, please reference our [Law Enforcement Guidelines](https://www.inflection.com/privacy/additional-privacy-resources/law-enforcement-guide) for further information. 
+
+Unless prohibited from doing so by law or court order, we will do our best to provide subjects of law enforcement requests with advance notice before we disclose their information to law enforcement, if we have contact information for that person. We reserve the right to withhold advance notice where it would impede an investigation of identity theft, or in situations involving imminent physical harm or harm to minors. 
+
+## How We Retain And Protect Your Information
+
+We retain all of the information we collect or that you submit for purposes including fraud prevention, legal compliance, and to resolve disputes or enforce our agreements. If you use your account to opt out of public record searches, we will do our best to suppress your records from our people search products, in accordance with our opt-out policy. 
+
+Your information is stored on secure servers in Northern California. While we use acceptable industry-standard practices to protect your information, we cannot and do not guarantee that your information will be absolutely secure. Here are a few other steps we take to protect your information: 
+
+  * We implement technical measures to prevent unauthorized access, and keep security patches and software up-to-date
+  * Employee access to your information is restricted and audited
+  * Sensitive personal information is stored in encrypted form
+  * All personal information is encrypted during transfer (for example, when providing credit card information)
 
 
 
-## Security
+## Choices And Other Privacy Information
 
-  * The security of your personal information is important to us. When you enter sensitive information (such as a credit card number) on our order forms, we encrypt the transmission of that information using secure socket layer technology (SSL).
-  * We limit access to personal information about you to employees and contractors who we believe reasonably need to come into contact with that information to provide products or services to you or in order to do their jobs.
-  * We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [privacy@phonedetective.com](mailto:privacy@phonedetective.com).
+### Access and corrections
 
+You may use your account to access, correct, or change any personal information you have provided to us or associated with your account. You may also email our Privacy Team at [privacy@phonedetective.com](mailto:privacy@phonedetective.com). We will do our best to promptly respond to your request within a reasonable time frame. 
 
+### Deleting Your Account
+
+In the event you want to delete an account that you have created, which includes your customer registration information, please contact our Privacy Team at [privacy@phonedetective.com](mailto:privacy@phonedetective.com). For information about opting out of our public records search records, [click here](https://www.peoplesmart.com/optout-go). We will do our best to promptly respond to your request within a reasonable time frame. 
+
+### Communication Preferences
+
+We may send you information about our products, notices regarding your account, and other messages related to this and other services we own, including marketing emails. You can unsubscribe from commercial emails by clicking on the unsubscribe link in those emails, emailing [privacy@phonedetective.com](mailto:privacy@phonedetective.com) with the email address you wish to unsubscribe from, or by calling 1-800-652-8360. Please note that you may still receive account and billing notices from us, if applicable. 
+
+### Data Sources
+
+For information on data sources used by PhoneDetective.com, please visit [the Data Sources Education page](https://web.archive.org/data-sources-education). 
+
+## California’s ‘Do Not Track’ law
+
+When you browse our website, we may use trusted third-party tools to analyze website usage, monitor performance, and prevent fraud. This site does not currently respond to browser settings such as Do Not Track. Third parties, such as our fraud prevention tools, may also collect personally identifiable information from you. 
+
+## California Information-Sharing Disclosure
+
+We do not share your personal information that you submit to us with third parties for direct marketing purposes without your permission. 
+
+## Children’s Information
+
+This site is not directed to individuals under the age of 13 and we do not knowingly collect personal information from children under the age of 13. If we discover that we have collected personal information on a child under the age of 13 via this site, we will promptly remove it from our systems. 
 
 ## Changes to this Privacy Policy
 
-We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
+If we modify this Privacy Policy, we will notify you before the changes become effective. We encourage you to review this page periodically for the latest information about our privacy practices. 
 
-## How You Can Contact Us about Privacy Questions
+## Contact Information
 
-If you have questions or concerns regarding this policy, you can contact us by emailing [privacy@phonedetective.com](mailto:privacy@phonedetective.com), calling 1-888-813-0008 or writing to us at PeopleSmart.com, Attn: Privacy Department, P.O. Box 391146, Omaha, NE 68139. PeopleSmart.com maintains offices at 555 Twin Dolphin Drive #200, Redwood City, CA 94065.
+We are located at 555 Twin Dolphin Drive #200, Redwood City, CA 94065. If you have any questions or concerns regarding this policy, please contact us:
 
-## To Unsubscribe from Email Communications
+* * *
 
-If you would like to stop receiving newsletters and marketing message emails from PeopleSmart.com, please provide us with the email address you would like to unsubscribe by emailing [privacy@phonedetective.com](mailto:privacy@phonedetective.com) or calling 1-888-813-0008. Please note that you may still receive account and billing notices from us, if applicable.
+## TRUSTe
+
+The TRUSTe program covers only information that is collected through this website: [www.phonedetective.com](https://web.archive.org/web/20170304103042id_/https%3A//www.phonedetective.com/PD.aspx), and does not cover information that may be collected through software downloaded from the site. In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. 
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. 
+
+[ ](https://privacy.truste.com/privacy-seal/validation?rid=045c56a3-bdd5-4ae6-98fe-ae28e8f56dd2 "TRUSTe Privacy Certification")
+
+**Effective Date Of This Policy:** September 7, 2016 
 
 * * *
