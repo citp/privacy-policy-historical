@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the tvnewsroom.org privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219085528id_/http%3A//tvnewsroom.org/plus/privacy-policy-40526) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tvnewsroom.org privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304215812id_/https%3A//tvnewsroom.org/plus/privacy-policy-40526) for the most accurate reproduction.*
 
 # Privacy Policy - Plus!
 
-**Privacy Policy of TV Newsroom (TVNewsroom, TVN, tvnewsroom.co.uk, tvnewsroom.co.uk, tvnewsroom.net)**
+**Privacy Policy of TV Newsroom (TVNewsroom, TVN, tvnewsroom.co.uk, tvnewsroom.org, tvnewsroom.net)**
 
 At TV Newsroom, we recognise that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use and visit TV Newsroom, and how we safeguard your information. We never sell your personal information to third parties.
 
@@ -17,4 +17,4 @@ We also use third party advertisements on TV Newsroom to support our site. Some 
 
 You can turn off the use of cookies at anytime by changing your specific browser settings.
 
-This privacy policy is subject to change without notice and was **last updated on January, 15, 2015**. If you have any questions feel free to contact me directly: privacy@tvnewsroom.co.uk.
+This privacy policy is subject to change without notice and was **last updated on January, 15, 2015**. If you have any questions feel free to contact me directly: privacy@tvnewsroom.org.
