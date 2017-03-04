@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dkpminus.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201152238id_/http%3A//www.dkpminus.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dkpminus.com privacy policy that was archived on 2017-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170304034213id_/https%3A//www.dkpminus.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - DKPminus
 
