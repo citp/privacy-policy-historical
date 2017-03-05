@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nmc.org.uk privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106090151id_/https%3A//www.nmc.org.uk/contact-us/foi-and-dpa/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nmc.org.uk privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305223325id_/https%3A//www.nmc.org.uk/contact-us/foi-and-dpa/privacy) for the most accurate reproduction.*
 
 # Privacy notice
 
