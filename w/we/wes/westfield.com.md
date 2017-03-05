@@ -1,15 +1,15 @@
-> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017221152id_/https%3A//www.westfield.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the westfield.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305022136id_/https%3A//www.westfield.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 **_PRIVACY POLICY_**
 
-This Privacy Policy ( **“Privacy Policy”** ) was last updated on July 13, 2015.
+This Privacy Policy ( **“Privacy Policy”** ) was last updated on December 16, 2016.
 
   
 **_Our Policy:_**
 
-This Privacy Policy sets forth the practices of Westfield Corporation and its affiliates and subsidiaries (collectively referred to as, “ **Westfield** ,” “ **we** ,” “ **us** ” and/or “ **our** ”) with respect to information including personally identifiable data (“ **Personal**   **Data** ”) and other information that is collected from users of the Westfield websites and mobile applications that are owned and/or operated by Westfield in the United States, including, without limitation,  **[www.westfield.com](http://www.westfield.com/)** ,  **[www.bespokesf.co](http://www.bespokesf.co/)** , their subdomains, and optimized versions of these websites for mobile phones (collectively, together, with any other activities or services provided by Westfield whereby Westfield collects Personal Data, referred to as “ **Services** ”), including visitors to Westfield owned or managed malls, shopping centers and properties (collectively referred to as “Facility” or “Facilities”) and, such users and visitors (collectively referred to as “ **you** ” and “ **your** ”).
+This Privacy Policy sets forth the practices of Westfield Corporation and its affiliates and subsidiaries (collectively referred to as, “ **Westfield** ,” “ **we** ,” “ **us** ” and/or “ **our** ”) with respect to information including personally identifiable data (“ **Personal**   **Data** ”) and other information that is collected from users of the Westfield websites and mobile applications that are owned and/or operated by Westfield in the United States, including, without limitation,  **[www.westfield.com](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png)** ,  **[www.bespokesf.co](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png)** , their subdomains, and optimized versions of these websites for mobile phones (collectively, together, with any other activities or services provided by Westfield whereby Westfield collects Personal Data, referred to as “ **Services** ”), including visitors to Westfield owned or managed malls, shopping centers and properties (collectively referred to as “Facility” or “Facilities”) and, such users and visitors (collectively referred to as “ **you** ” and “ **your** ”).
 
 **_  
 Information We Collect:_**
@@ -29,25 +29,25 @@ We may also collect Personal Data and other information from you, as further des
 
 In operating the Services, we along with our third party partners may use tracking technologies such as, without limitation, Cookies, E-Tags, JavaScript, Local Storage Objects (LSOs) HTML5 and Flash, and web beacons.
 
-A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Services may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Services. In all cases in which we use cookies, we will not collect Personal Data except with your permission. You may opt out of such tracking by clicking  **[here](http://preferences-mgr.truste.com/)**.
+A cookie is a piece of information that the computer that hosts our Services gives to your browser when you access the Services. Cookies help provide additional functionality to the Services and help us analyze Services usage more accurately. For instance, our Services may set a cookie on your browser that allows you to access the Services without needing to remember and then enter a password more than once during a visit to the Services. In all cases in which we use cookies, we will not collect Personal Data except with your permission. You may opt out of such tracking by clicking  **[here](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png)**.
 
 E-Tag is a technology that is part of the standard HTTP protocol that allows our website to validate temporary storage (cache) of our pages and images. This ensures that you are viewing the latest version of our website since your last visit.
 
 JavaScript is a dynamic object oriented computer programming language. JavaScript is used to [understand user behavior on our website].
 
-Local Storage Objects (LSOs) such as HTML5 and Flash to store [content information and preferences]. Various browsers may offer their own management tools for removing HTML5 LSOs, but cookie management tools provided by your browser will not remove Flash cookies.. To manage Flash LSOs please click  **[here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager02.html)**.
+Local Storage Objects (LSOs) such as HTML5 and Flash to store [content information and preferences]. Various browsers may offer their own management tools for removing HTML5 LSOs, but cookie management tools provided by your browser will not remove Flash cookies.. To manage Flash LSOs please click  **[here](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png)**.
 
 Our third party partners also use web beacons, which is a clear graphic image of 1x1 pixel that is delivered through a web browser usually as part of a webpage request. Web beacons operate as a tag that records an end users visit to a particular webpage.
 
   
-**Advertising**. We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [ **here**](http://preferences-mgr.truste.com/) (or if located in the European Union click  **[here](http://www.youronlinechoices.eu/)** ). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
+**Advertising**. We partner with a third party to either display advertising on our Web site or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this site and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [ **here**](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png) (or if located in the European Union click  **[here](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png)** ). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
   
 You may set a “Do Not Track” privacy preference in your web browsers. When you turn on “Do Not Track” in your browser, we will use commercially reasonable efforts to stop collecting the information that allows us to tailor suggestions based on your recent use of the Service and your visits to websites within our advertising partner networks. Specifically, we stop collecting the unique cookie that links your browser to use of the Service and visits to these websites for tailoring suggestions or ads.
 
 **Aggregated Personal Data:**  In an ongoing effort to better understand and serve the users of the Services and visitors to our centers, we often conduct research on our customer demographics, interests and behavior based on the Personal Data and other information provided to us. This research may be compiled and analyzed on an aggregate basis, and we may share this aggregate data with our affiliates, agents and business partners. This aggregate information does not identify you personally. We may also disclose aggregated user statistics in order to describe our services to current and prospective business partners, and to other third parties for other lawful purposes.
 
-**Location Information:  **We may collect and use your location information (for example, by using the GPS on your mobile device or recognizing proximity to known Bluetooth transmitters (“beacons”)) to provide certain functionality of our Services. An example of such functionality would be to send special deals and discounts based on your location. If you choose to enable our location features, and if you choose to share that information publicly or with other users, your location information may be publicly displayed within the Services. We may also use your location information to provide you with personalized services, or in an aggregate way, as described above in the “Aggregated Personal Data” section. You may choose to opt-out of collection of mobile device location data by changing the settings on your mobile device or by following the instructions provided in the applicable shopping center and/or visiting [ **http://www.smartstoreprivacy.org/**](http://www.smartstoreprivacy.org/).
+**Location Information:  **We may collect and use your location information (for example, by using the GPS on your mobile device or recognizing proximity to known Bluetooth transmitters (“beacons”)) to provide certain functionality of our Services. An example of such functionality would be to send special deals and discounts based on your location. If you choose to enable our location features, and if you choose to share that information publicly or with other users, your location information may be publicly displayed within the Services. We may also use your location information to provide you with personalized services, or in an aggregate way, as described above in the “Aggregated Personal Data” section. You may choose to opt-out of collection of mobile device location data by changing the settings on your mobile device or by following the instructions provided in the applicable shopping center and/or visiting [ **http://www.smartstoreprivacy.org/**](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png).
 
 **Video and Camera Surveillance:  **Westfield shopping centers and parking lots may be under video and camera surveillance. When entering Westfield shopping centers and parking lots, your personal information and images may be collected by Westfield or by third parties on Westfield’s behalf, and Westfield may collect your personal information and images from third parties (for example, the police, retailers or third party service providers). This information may be used by Westfield in connection with the management and security of the Westfield shopping centers or for measuring and analyzing shopping behavior in order to improve our centers. This information may be provided to law enforcement, government bodies, Westfield staff, subcontractors, insurers, retailers and service providers for those purposes. The license plates of vehicles parked by customers in parking lots may also be collected and used for the above purposes and also to assist customers to locate their cars including via online and mobile applications.
 
@@ -57,7 +57,7 @@ You may logon and use the Wi-Fi systems by providing your name and email address
 
 In certain locations, we partner with third party service providers to give you Wi-Fi access. In such instances, the third party providers are the data controllers. When you access Wi-Fi systems at these locations, our third party partners will collect user information and provide this information to Westfield. The third party partners will continue to retain rights over the use of the data collected. The manner in which these third party partners use, store and disclose your information is governed by the policies of such third party partners. Westfield is not responsible for the use of any data collected by the third party service providers. To facilitate transparency, we will provide you with notice of such a relationship in the Terms and Services agreement that you agree to prior to using the applicable Wi-Fi services; we will also provide you with a link to both our privacy policy and that of our third party partners within the Terms and Service agreement before you logon to access the Wi-Fi service.
 
-**Mobile Device Data:**  When you visit a Westfield shopping center, we and our third party providers may automatically collect certain information such as, without limitation, the operating system of your mobile device. None of your personally identifiable information such as name, phone number, email address or credit card information can be collected in this manner (other than when you voluntarily provide us that information via your mobile device in order to use certain Services). This information will be used to measure and analyze shopping behavior in order to improve our centers and otherwise in connection with our business. You may choose to opt-out of collection of mobile device data by following the instructions provided in the applicable shopping center and/or visiting [http://www.smartstoreprivacy.org/.](http://www.smartstoreprivacy.org/)
+**Mobile Device Data:**  When you visit a Westfield shopping center, we and our third party providers may automatically collect certain information such as, without limitation, the operating system of your mobile device. None of your personally identifiable information such as name, phone number, email address or credit card information can be collected in this manner (other than when you voluntarily provide us that information via your mobile device in order to use certain Services). This information will be used to measure and analyze shopping behavior in order to improve our centers and otherwise in connection with our business. You may choose to opt-out of collection of mobile device data by following the instructions provided in the applicable shopping center and/or visiting [http://www.smartstoreprivacy.org/.](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png)
 
 **Mobile Applications:**  You may choose to download our mobile applications such as “Westfield US” and “Dine on Time”. These applications may request to access to your location using GPS and/or network services or recognizing proximity to known Bluetooth transmitters (“beacons”). This information may be used to provide you with relevant information and for any other purpose that is in compliance with our Privacy Policy. We may use your Personal Data when you create an account on “Dine on Time” mobile application to process and deliver your order and for any other purpose that is in compliance with our Privacy Policy. We use a third party credit card processor to process your credit card information; when an order is placed. You agree that we will not be held responsible or liable for the acts or omissions of any such third party credit card processor. Our mobile applications may also send “Push Notifications” to your mobile device to provide updates and other relevant information. You may manage Push Notifications from the “settings” page within the mobile application or from your device’s settings tab.
 
@@ -96,7 +96,7 @@ This Privacy Policy does not apply to any Personal Data collected by Westfield o
   
 **_Children:_**
 
-Westfield does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data to Westfield. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Westfield, please contact us at  **[usprivacy@westfield.com](mailto:usprivacy@westfield.com)** , and we will delete that information from our databases.
+Westfield does not knowingly collect Personal Data from children under the age of 13. If you are under the age of 13, please do not submit any Personal Data to Westfield. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children never to provide Personal Data without their permission. If you have reason to believe that a child under the age of 13 has provided Personal Data to Westfield, please contact us at  **[usprivacy@westfield.com](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png)** , and we will delete that information from our databases.
 
   
 **_Links to Other Websites:_**
@@ -124,34 +124,20 @@ The security of your personal information is important to us. Westfield takes re
   
 **_Other Terms and Conditions:_**
 
-Your access to and use of the Services is subject to the Terms of Service at ** [http://www.westfield.com/us/help/terms-conditions](https://web.archive.org/terms-and-conditions)**.
+Your access to and use of the Services is subject to the Terms of Service at ** [http://www.westfield.com/us/help/terms-conditions](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png)**.
+
+**_Access to Information and Choice:_**
 
   
-**_Changes to Westfield’s Privacy Policy:_**
+If your personal information changes you may email us to have it corrected, updated, amended, or removed at [ **usprivacy@westfield.com**](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png) or send the inquiry by postal mail at the address listed below. We will respond to your request to access within 30 days of submission.
 
-The Services and our business may change from time to time. As a result, at times it may be necessary for Westfield to make changes to this Privacy Policy. Westfield reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above If we make any material changes to our Privacy Policy, we will notify you by means of a notice on this website. Your continued use of the Services or visits to our centers after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
+**Data Retention:  **
 
-**_  
-TRUSTe Privacy Program_**
+We will retain your information including geo-location for as long as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-  
-Westfield has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program only covers information that may be collected on  **[www.westfield.com](http://www.westfield.com/)** , **[www.bespokesf.co,](http://www.bespokesf.co/)**  their subdomain, and optimized versions of these websites for mobile phones and our mobile applications “Westfield US” and “Dine on Time,”
+**Contact Us:**
 
-  
-If you have questions or complaints regarding our privacy policy or practices, please contact us at  **[usprivacy@westfield.com](mailto:usprivacy@westfield.com)**  or at the address listed below. If you are not satisfied with our response, you can contact TRUSTe at ** <https://feedback-form.truste.com/watchdog/request>**.
-
-  
-Please click  **[here](http://www.truste.com/about-TRUSTe/contact-us)**  for fax and postal mail information. TRUSTe's Dispute Resolution process is only available in English.
-
-  
-**_Access to Information and Choice; Contacting Westfield:_**
-
-  
-If your personal information changes you may email us to have it corrected, updated, amended, or removed at [ **usprivacy@westfield.com**](mailto:usprivacy@westfield.com) or send the inquiry by postal mail at the address listed below. We will respond to your request to access within 30 days of submission.
-
-**Data Retention:  **We will retain your information including geo-location for as long as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
-
-Please also feel free to contact us if you have any questions about Westfield’s Privacy Policy.
+If you have questions or complaints regarding our privacy practices, please contact us at **[usprivacy@westfield.com](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png)**  or at the address below. Please also feel free to contact us if you have any questions about Westfield’s Privacy Policy.
 
 You may contact us as follows:
 
@@ -159,5 +145,12 @@ Westfield Labs Corporation
 835 Market Street, Suite 517  
 San Francisco, CA 94103  
 United States of America  
-Attention: Director of Privacy  
-Email:  **[usprivacy@westfield.com](mailto:usprivacy@westfield.com)**
+Attention: Director of Privacy
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [**https://feedback-form.truste.com/watchdog/request**](https://web.archive.org/content/dam/westfield-corp/us/privacy-policy/TrusteSeal.png).
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=a7914765-fcd9-470b-9588-991ae0f305ac)
+
+**_Changes to Westfield’s Privacy Policy:_**
+
+The Services and our business may change from time to time. As a result, at times it may be necessary for Westfield to make changes to this Privacy Policy. Westfield reserves the right to update or modify this Privacy Policy at any time and from time to time without prior notice. Please review this policy periodically, and especially before you provide any Personal Data. This Privacy Policy was last updated on the date indicated above If we make any material changes to our Privacy Policy, we will notify you by means of a notice on this website. Your continued use of the Services or visits to our centers after any changes or revisions to this Privacy Policy shall indicate your agreement with the terms of such revised Privacy Policy.
