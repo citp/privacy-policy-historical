@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the riverasarees.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905145727id_/http%3A//www.riverasarees.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the riverasarees.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305073048id_/http%3A//www.riverasarees.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
