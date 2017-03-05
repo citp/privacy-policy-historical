@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howtotuneaguitar.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121025557id_/http%3A//howtotuneaguitar.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howtotuneaguitar.org privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305171938id_/http%3A//howtotuneaguitar.org/privacy-policy) for the most accurate reproduction.*
 
 # How To Tune A Guitar
 
