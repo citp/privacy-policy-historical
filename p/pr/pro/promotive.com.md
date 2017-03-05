@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promotive.com privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702044923id_/https%3A//www.promotive.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promotive.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305115803id_/https%3A//www.promotive.com/business/privacy) for the most accurate reproduction.*
 
 # Privacy | Promotive
 
