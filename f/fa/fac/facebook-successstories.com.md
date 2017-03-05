@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the facebook-successstories.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204044700id_/http%3A//facebook-successstories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the facebook-successstories.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305134344id_/http%3A//facebook-successstories.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Facebook Success Stories
 
