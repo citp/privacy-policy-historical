@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the holidaytravel.co privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025235925id_/http%3A//www.holidaytravel.co/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the holidaytravel.co privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305230655id_/http%3A//www.holidaytravel.co/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy of Holidaytravel.co - Holiday Travel
 
