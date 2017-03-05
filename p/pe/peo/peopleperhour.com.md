@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peopleperhour.com privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708092851id_/http%3A//www.peopleperhour.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peopleperhour.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305092454id_/http%3A//www.peopleperhour.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - People Per Hour (PPH) - PeoplePerHour.com
 
@@ -39,7 +39,7 @@ We will use your Personal Data to fulfil your requests and we will ask only for 
 
 We hope you will be delighted with our services.
 
-However, if you do not wish to receive emails from us and want to be removed from our electronic mailing list you can either select “unsubscribe” from any of the marketing emails that we send or alternatively [contact us](https://web.archive.org/zendesk/redirectToZendesk).
+However, if you do not wish to receive emails from us and want to be removed from our electronic mailing list you can either select “unsubscribe” from any of the marketing emails that we send or alternatively [contact us](http://www.peopleperhour.com/zendesk/redirectToZendesk).
 
 ## Anonymous data collected through this website
 
@@ -91,4 +91,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 ## Contact
 
-If you have any questions, comments or requests regarding this privacy policy [contact us](https://web.archive.org/zendesk/redirectToZendesk).
+If you have any questions, comments or requests regarding this privacy policy [contact us](http://www.peopleperhour.com/zendesk/redirectToZendesk).
