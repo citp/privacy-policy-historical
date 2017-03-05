@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the paypal-australia.com.au privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229053720id_/https%3A//www.paypal.com/au/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paypal-australia.com.au privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305210824id_/https%3A//www.paypal.com/au/webapps/mpp/ua/privacy-full) for the most accurate reproduction.*
 
 # PayPal
 
 >> [View all legal agreements](https://www.paypal.com/au/webapps/mpp/ua/legalhub-full "Legal Agreements")
 
-Last Update: 19 October, 2016
+This Privacy Policy is effective until 28 March 2017. A revised Privacy Policy will come into effect on 29 March 2017. [Click here to review the revised Privacy Policy](https://www.paypal.com/au/webapps/mpp/ua/privacy-preview).
 
 This Privacy Policy describes your privacy rights regarding our collection, use, storage, sharing and protection of your personal information. It applies to the PayPal website and all related sites, applications, services and tools regardless of how you access or use them.
 
@@ -174,9 +174,9 @@ Back to top
 
 ### How you can contact us about privacy questions
 
-If you have questions or concerns regarding this Privacy Policy, you should contact us by using [ **this link**](http://www.paypal.com/ewf/f=ci_prv).
+If you have questions or concerns regarding this Privacy Policy, you should contact us by using [ **this link**](https://www.paypal.com/au/selfhelp/contact/email/privacy).
 
-If you have a privacy complaint, you should report it by using [ **this link**](http://www.paypal.com/ewf/f=ci_prv).
+If you have a privacy complaint, you should report it by using [ **this link**](https://www.paypal.com/au/selfhelp/contact/email/privacy).
 
 Alternatively, you can report it by:
 
