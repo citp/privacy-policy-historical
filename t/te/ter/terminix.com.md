@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819204654id_/https%3A//www.terminix.com/customer-support/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the terminix.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305055127id_/https%3A//www.terminix.com/customer-support/privacy) for the most accurate reproduction.*
 
 # Privacy Information | Terminix
 
