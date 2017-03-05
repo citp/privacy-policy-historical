@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ellevatenetwork.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826023810id_/https%3A//www.ellevatenetwork.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ellevatenetwork.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305133852id_/https%3A//www.ellevatenetwork.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Ellevate
 
@@ -50,7 +50,7 @@ Members can be held liable for any illegal or prohibited User Content they provi
 
 In addition, You may not, in connection with Your use of the Site:
 
-(i) impersonate any person or entity, including an Ellevate officer or employee, or falsely misrepresent Your affiliation with any other person or entity;
+(i) impersonate any person or entity, including an Ellevate officer or employee, or falsely misrepresent Your organization_user with any other person or entity;
 
 (ii) forge headers or otherwise manipulate identifiers for the purpose of disguising the origin of any User Content posted or transmitted through or on the Site;
 
