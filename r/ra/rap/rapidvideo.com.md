@@ -1,11 +1,26 @@
-> *The following text is extracted and transformed from the rapidvideo.com privacy policy that was archived on 2013-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20131127062425id_/http%3A//www.rapidvideo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rapidvideo.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305194512id_/https%3A//www.rapidvideo.com%3Fc%3Dprivacy) for the most accurate reproduction.*
 
-# rapidvideo.com
+# DMCA Notice & Takedown Policy and Procedures - RapidVideo
 
-Privacy Policy
+**Analyze Data**  
+For each visitor to our Web page, our Web server does not recognize any information regarding the domain or e-mail address. IP addresses are not logged 
 
-SmartName.com collects and maintains certain information (including e-mail addresses, IP addresses, names, geographic information, etc.) on many of its Web sites and via forms (online and offline). This is done to help us provide our customers with the best customer service and with valuable information regarding relevant products and services from SmartName.com and appropriate third parties. 
+**Collecting e-mail Addresses**  
+We collect the e-mail addresses of RapTu's Delivery recipients and senders for the purpose of logging and measuring usage. RapTu does not rent, sell, or share personal information about you with nonaffiliated companies. 
 
-SmartName.com is dedicated to protecting personal information and will make every reasonable effort to handle collected information appropriately. All information collected, as well as related requests, will be handled as carefully and efficiently as possible in accordance with SmartName.com's standards for integrity and objectivity. Email originating at SmartName.com contains clear and efficient instructions for opting out of future emails of its kind. 
+**Certain Exceptional Disclosures**  
+We may disclose your information if necessary to protect our legal rights or if the information relates to actual or threatened harmful conduct or potential threats to the physical safety of any person. Disclosure may be required by law or if we receive legal process. 
 
-SmartName.com or third parties may place cookies onto your computer when you visit our sites. These cookies are placed to keep track of some of the web searches, clicks, and site/section visits you make while on our sites, and to use that information anonymously to customize advertisements and content displayed to you on SmartName.com sites or other Web sites you visit, and/or to keep track of your response to each ad. None of these third parties are able to use this information to identify you personally. To learn more, [click here](http://www.networkadvertising.org/managing/opt_out.asp). 
+**Use of Cookies**  
+RapTu uses cookies to store the preferences of users. 
+
+**File Transfer Security**   
+We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. Files stored for delivery are only accessible by RapTu and through the clickable link generated for your recipient. All files stored for delivery are deleted when they expire. 
+
+**Third Party Advertising**  
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, e-mail address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. 
+
+**Third Party Cookies**  
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique "cookie" on your browser. 
+
+Effective Date: February 1, 2017 
