@@ -1,27 +1,40 @@
-> *The following text is extracted and transformed from the serpfox.com privacy policy that was archived on 2016-05-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160522171243id_/http%3A//www.serpfox.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serpfox.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305185726id_/https%3A//serpfox.com/privacy) for the most accurate reproduction.*
 
-# Serpfox - Privacy Policy
+# Smart Rank Tracking Made Simple | Serpfox
 
-Serpfox operates several websites including Serpfox.com. It is Serpfox�s policy to respect your privacy regarding any information we may collect while operating our websites.
+This Privacy Policy governs the manner in which Serpfox collects, uses, maintains and discloses information collected from users (each, a "User") of the [Serpfox](https://serpfox.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Serpfox.
 
-### Website Visitors
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, credit card information. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-Like most website operators, Serpfox collects non-personally-identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Serpfox�s purpose in collecting non-personally identifying information is to better understand how Serpfox�s visitors use its website. From time to time, Serpfox may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of its website.
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-### Gathering of Personally-Identifying Information
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-Certain visitors to Serpfox�s websites choose to interact with Serpfox in ways that require Serpfox to gather personally-identifying information. The amount and type of information that Serpfox gathers depends on the nature of the interaction. In each case, Serpfox collects such information only insofar as is necessary or appropriate to fulfill the purpose of the visitor�s interaction with Serpfox. Serpfox does not disclose personally-identifying information other than as described below. And visitors can always refuse to supply personally-identifying information, with the caveat that it may prevent them from engaging in certain website-related activities.
+Serpfox may collect and use Users personal information for the following purposes: 
 
-Serpfox discloses potentially personally-identifying and personally-identifying information only to those of its employees, contractors and affiliated organizations that (i) need to know that information in order to process it on Serpfox�s behalf or to provide services available at Serpfox�s websites, and (ii) that have agreed not to disclose it to others. Some of those employees, contractors and affiliated organizations may be located outside of your home country; by using Serpfox�s websites, you consent to the transfer of such information to them. Serpfox will not rent or sell potentially personally-identifying and personally-identifying information to anyone. Other than to its employees, contractors and affiliated organizations, as described above, Serpfox discloses potentially personally-identifying and personally-identifying information only in response to a subpoena or court order, or when Serpfox believes in good faith that disclosure is reasonably necessary to protect the property or rights of Serpfox, third parties or the public at large. If you are a registered user of a Serpfox website and have supplied your email address, Serpfox may occasionally send you an email to tell you about new features, solicit your feedback, or just keep you up to date with what�s going on with Serpfox and our products. We primarily use our various product blogs to communicate this type of information, so we expect to keep this type of email to a minimum. If you send us a request (for example via a support email or via one of our feedback mechanisms), we reserve the right to publish it in order to help us clarify or respond to your request or to help us support other users. Serpfox takes all measures reasonably necessary to protect against the unauthorized access, use, alteration or destruction of potentially personally-identifying and personally-identifying information.
+  * _To improve customer service_  
+Information you provide helps us respond to your customer service requests and support needs more efficiently.
+  * _To personalize user experience_  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * _To improve our Site_  
+We may use feedback you provide to improve our products and services.
+  * _To process payments_  
+We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _To send periodic emails_  
+We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
-### Cookies
 
-A cookie is a string of information that a website stores on a visitor�s computer, and that the visitor�s browser provides to the website each time the visitor returns. Serpfox uses cookies to help Serpfox identify and track visitors, their usage of Serpfox website, and their website access preferences. Serpfox visitors who do not wish to have cookies placed on their computers should set their browsers to refuse cookies before using Serpfox�s websites, with the drawback that certain features of Serpfox�s websites may not function properly without the aid of cookies.
 
-### Ads
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-Ads appearing on any of our websites may be delivered to users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This Privacy Policy covers the use of cookies by Serpfox and does not cover the use of cookies by any advertisers.
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-### Privacy Policy Changes
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-Although most changes are likely to be minor, Serpfox may change its Privacy Policy from time to time, and in Serpfox�s sole discretion. Serpfox encourages visitors to frequently check this page for any changes to its Privacy Policy.
+Serpfox has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+
+By using this Site, you signify your acceptance of this policy and [terms of service](https://serpfox.com/terms). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: [support@serpfox.com](mailto:support@serpfox.com)
+
+This document was last updated on January 18, 2015 
