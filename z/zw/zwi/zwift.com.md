@@ -1,16 +1,18 @@
-> *The following text is extracted and transformed from the zwift.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211032358id_/http%3A//zwift.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zwift.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306003923id_/https%3A//zwift.com/privacy) for the most accurate reproduction.*
 
 # Zwift | Indoor Cycling. Outdone.
 
 ### Privacy Policy
 
-Last Updated: October 7, 2014
+Last Updated: January 4, 2017
 
 Your privacy is important to us and we have prepared this Privacy Policy to explain to you how we collect, use, and share information we obtain through your use of the websites, applications and services (“Services”) that are operated by, controlled by or are affiliated with Zwift, Inc, a Delaware limited liability company (collectively, “we,” “us” or “our”). This Privacy Policy does not govern our use of any information you provide to us when you call us, write to us, or communicate with us in any manner other than through the Services. Because the Internet is global, information about you that we collect or that you submit may be transferred to, processed in, and held in countries (including the United States) other than the one in which you reside. By using the Services, you explicitly consent to such use of your information and agree to the terms of this Privacy Policy.
 
 1\. Information We Collect.
 
-We automatically collect certain information to help us understand how our users use the Services (which we will refer to in this Privacy Policy collectively as “Usage Data”). For example, each time you visit the Services we may automatically collect your IP address, browser and computer type, access time, the Web page you came from, the URL you go to next, and the web page(s) that you access during your visit. We will use such Usage Data to diagnose problems with our servers and software, to administer the Services, and to gather demographic information (for various uses as described in further detail below). Third-party advertising networks and servers, should we elect to utilize them, may also provide us reports that will tell us various information about your interaction with advertisements displayed through the Services (e.g., how many ads were presented and clicked on) in a manner that does not identify personally any individual.
+a) Usage Data: We automatically collect certain information to help us understand how our users use the Services (which we will refer to in this Privacy Policy collectively as “Usage Data”). For example, each time you visit the Services we may automatically collect your IP address, browser and computer type, access time, the Web page you came from, the URL you go to next, and the web page(s) that you access during your visit. We will use such Usage Data to diagnose problems with our servers and software, to administer the Services, and to gather demographic information (for various uses as described in further detail below). Third-party advertising networks and servers, should we elect to utilize them, may also provide us reports that will tell us various information about your interaction with advertisements displayed through the Services (e.g., how many ads were presented and clicked on) in a manner that does not identify personally any individual.
+
+b) Health and Fitness Data: The Zwift platform collects certain health and fitness data via the iOS "Healthkit" API ("HK Data"). This data is used to ensure accurate portrayal of your avatars performance in Zwift. We will not use or disclose to third parties any such HK Data for any purpose, including marketing or advertising, other than for improving health management or for health research (with users permission).
 
 2\. Information You Choose To Submit.
 
