@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zipcodestogo.com privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627060158id_/http%3A//www.zipcodestogo.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zipcodestogo.com privacy policy that was archived on 2017-03-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170305133756id_/http%3A//www.zipcodestogo.com/privacy.htm) for the most accurate reproduction.*
 
 # Zip Codes to Go - Privacy Policy
 
