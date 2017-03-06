@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the styledrops.com privacy policy that was archived on 2015-09-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150926045346id_/https%3A//www.styledrops.com/customers/index/6) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the styledrops.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306165552id_/https%3A//www.styledrops.com/customers/index/6) for the most accurate reproduction.*
 
 # Prada Gucci Tod's Hogan Shoes Handbags and Clothing Made in Italy
 
