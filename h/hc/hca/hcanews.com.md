@@ -1,68 +1,143 @@
-> *The following text is extracted and transformed from the hcanews.com privacy policy that was archived on 2004-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20041208033019id_/http%3A//www.henkelca.com/about/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hcanews.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306204406id_/http%3A//www.hcanews.com/privacy) for the most accurate reproduction.*
 
-# Henkel Consumer Adhesives | Privacy Statement
+# Privacy Policy | Healthcare Analytics News
 
-Privacy Statement
+**MJH Healthcare Holdings Professional Network Privacy Policy**
 
-Thank you for visiting the Henkel Consumer Adhesives (formerly Manco) web sites (henkelconsumeradhesives.com, manco.com, duckproducts.com, loctiteproducts.com, lepageproducts.com, ducktapeclub.com). Below you will find information about our commitment to ensuring the privacy of your personally identifiable information. We have done our best to ensure the privacy and security of your transactions with us.
+  MJH Healthcare Holdings, LLC  ("MJH", "we", "us" and "our") operates this and related websites and any content made available from or through the websites, including any subdomains thereof, or any related smartphone or mobile applications (the "Site(s)"), and the services offered on or in relation to the Sites (the "Services").
 
-If you have any questions about this privacy statement, or the content or practices of our web site, you can contact us directly at:
+A partial listing of these sites include:
 
-Henkel Consumer Adhesives (Henkel CA), Inc.  
-Web Site Privacy  
-32150 Just Imagine Drive  
-Avon, Ohio 44011
+  The American Journal of Managed Care  
+Healthcare Research & Analytics (HRA)  
+Physicians Education Resource (PER)  
+Pharmacy Times  
+OncLive  
+HCPLive  
+Physicians Money Digest  
+(You may see the full list of sites at [http://www.mjhassoc.com](http://www.mjhassoc.com/))
 
- ** _Our Policy_**  
-DuckTapeClub.com does not collect users' names, physical addresses, e-mail addresses, phone numbers, credit card numbers, driver's license numbers, bank Personal Identification Numbers (PINs), social security numbers, or any other information which can be used to identify a specific person, nor does it match such information with the anonymous profiles, except when placing an order or registering with us. Our web site's technology may record (Internet Protocol) IP addresses, but does not associate any IP address with an organization name.
+  This Privacy Policy ("Policy") describes what information we collect from our users, how we use it, with whom we share it, and how you can control how your information is used.
 
-Our web sites may gather navigational information about where you go on our web site. This information allows us to see which areas of our web sites are most visited. This helps us improve the quality of visitors' online experiences by recognizing and delivering more of the features and services our visitors prefer. Additional non-personally identifiable information (i.e. domain type, browser version, service provider and IP address) may be collected which will provide information regarding your use of our web site (such as the time of your last visit to a page on our site).
+  By visiting the Site, or by using one of the Services, you are accepting the practices described in this Policy. We may amend this Policy at any time; if we make changes to this Policy, we will post those changes on this page so that you are always aware of what information we collect, how we use it, and under what circumstances we disclose it. We will not apply changes to this policy to personal information previously collected without your prior consent. You are responsible for checking this Policy periodically for changes.  Your continued use of the Site following any changes to this Policy will constitute your acceptance of such changes. If you disagree with how we may use your information under this Policy, you should not use the Site.
 
- ** _Disclosure of Personal Information_**  
-We do not share, sell, rent or barter any identifiable personal information to any third party without your permission.
+  This Statement was last revised March 1, 2016.
 
-Any information you provide to us at this site when you establish membership, update an account, shop online or request information (e.g. name, address, e-mail address, telephone number and credit card information), is maintained in private files on our secure web server and our internal systems. This information is used to enable our web sites to deliver services to you. To ensure compliance with federal law, Henkel CA's web sites do not collect or maintain information provided by children under the age of 14, unless parental consent is obtained.
+  1\. Collecting Information
 
-If you are visiting our web sites from a location outside of the U.S., your connection will be through and to servers located in the U.S. Your orders placed through DuckTapeClub.com will be accepted and fully processed in and shipped from the U.S. and all information you provide will be processed and securely maintained in our web server and internal systems located within the U.S.
+We collect information/data that users provide through registration on our Sites for some services. In addition, we also collect non-personally identifiable information (i.e., information that is not traced back to any individual and is not used on its own to identify an individual) through tracking systems depending on the Service being used by you. The tracking systems include deriving data by tallying page views throughout our Sites and capturing information on the type of browser being used to view the Site, tracking what pages you have visited while on the Site and, in market research studies, tracking what computers respond to a survey. This information enables us to better provide Services and content and to respond to our users' needs. It also is used to help our advertisers and sponsors to better understand the demographics of our audience (solely on an aggregate basis).
 
-You should be aware that we may disclose specific information about you if necessary to do so by law or based on our good faith belief that it is necessary to conform or comply with the law or is necessary to protect the users of our web site, the site or the public. We may, however, use third parties to help us provide services to you, such as fulfilling orders, processing payments, monitoring site activity, conducting surveys, and administering e-mails, drawings or contests. If personally identifiable information (i.e. name, address, e-mail address, telephone number) is provided to any of these third parties, we will require that such information be maintained by them in strictest confidence.
+  * **Registration** **:** Some services require user registration. For the registration process, we may require information such as, name, e-mail address, zip code, and other profession information. The type of information required will depend upon the service you are accessing. Registration will provide you with choices regarding the types of newsletters and other information we send to registered users from time to time. For applicable professional market research programs, information about children or other categories of sensitive information is only collected with explicit consent and is protected against improper use, consistent with applicable law. By registering with us you agree that we may send you emails and other communications from time-to-time regarding information specific to our Service(s) or other opportunities we may provide. You may remove yourself from a mailing list at any time by following the opt-out links at the bottom of every email we send you.
 
- ** _Use of Cookies_**  
-DuckTapeClub.com uses a browser feature known as a cookie, which assigns a unique identification to your computer. Cookies also allow DuckTapeClub.com to make our site more responsive to your needs, by delivering better content and merchandise to you. The cookies are typically stored on your computer's hard drive and are used by DuckTapeClub.com to help track your clicks as you go through the pages within the web site. In addition, DuckTapeClub.com uses cookies to help keep track of items you put into your shopping bag and to tell us whether you have previously visited DuckTapeClub.com. This allows registered users to avoid reentering information upon every new visit to our site. If you register or purchase product through DuckTapeClub.com, navigational information from previous browsing visits may be associated with the personal information you provide.
 
- ** _Placing an Order_**  
-When you place an order, we will ask you for the following personal information: your name, e-mail address, mailing address, phone number, and your credit card number and its expiration date. This information is requested to verify your identify and to process your purchase. Contact information from the order form is only used to send orders. For extra security, DuckTapeClub.com will never display your full credit card number once it has been entered - We will only reveal the last 4 digits of your credit card for verification purposes.
+  * **Forums:** You may be provided a forum where you can share information with other users and have a free exchange of ideas. These discussions are open to the public and are not considered private. Any and all information that you provide on a forum of any kind is public and may be collected by us and/or by third parties. Users of any forums should take care when posting any personal information in a public forum.
 
- ** _Security_**  
-Your contact information is transmitted using Secure Sockets Layer (SSL) technology, the approved industry standard. We may use your personal information to contact you for account purposes.
 
- ** _Updating Personal Information_**  
-We prefer to keep your personal information accurate and up-to-date. To do this, we provide you with the opportunity to update or modify your personal information including billing and shipping information by logging into Your Account.
+  * **Market Research** : You may be invited to participate in market research studies for us and market research surveys conducted on behalf of third party sponsors either by us or a third party. When participating in such a survey, in addition to providing your responses to the survey questions, you may be asked to provide personally identifiable information that may be combined with information that you have already provided at registration or that we have received from a third party source.
 
- ** _Henkel CA Web Site E-Mail_**  
-When you submit feedback or questions via e-mail, or contact us for information about our web site, we will request your name and e-mail address. We use this information solely to respond to your inquiries.
 
-DuckTapeClub.com E-Mail allows you to receive exclusive information about special offers, events, contests, sweepstakes, new products and much more. If you're not already registered, simply complete our "Join The Club" form to receive these special messages. If at any time you would like to stop future delivery of DuckTapeClub.com E-Mail, please follow the removal instructions located at the bottom of each message. Asking to be removed from DuckTapeClub.com E-Mail will not prevent you from receiving e-mail confirmations for any order you place at DuckTapeClub.com.
+  * **Continuing Medical Education** : By participating in Continuing Medical Education (CME) or a Continuing Education (CE) activity through the Site you may be asked to provide Personal Information.
 
- ** _Surveys & Contests_**  
-From time to time, Henkel CA offers surveys or promotions, such as sweepstakes and contests. Participation in these contests or promotions is completely voluntary and the user therefore has a choice whether or not to disclose this information. When you enter a contest or other promotional feature, we may ask for your name, address, demographic information, phone number and e-mail address. Contest information will be used to conduct drawings, notify the winners and award prizes. Survey information will be used to monitor or improve the site.
 
- ** _Sweepstakes_**  
-The Sweepstakes entry data that you provide to our web sites, including your name, address, telephone numbers and email address, will be used for your entry into, and the administration of this Sweepstakes. DuckTapeClub.com may also use this information to send you periodic mailings of promotional or other material. This information will not be shared with other organizations for commercial purposes but may be used by DuckTapeClub.com or DuckTapeClub.com's authorized agencies for internal marketing analysis.
+  * **Cookies** : A cookie is a small text file that resides only on your own computer and that can be accessed only by the server that originally created the cookie. Cookies enable us to understand how visitors use our Sites, and help us improve the site for both users and advertisers.The "Help" function in your web browser explains how to manage cookies. Some of our Services will not function properly if your browser does not accept cookies.
 
- ** _Links to Other Sites_**  
-Our sites may contain links to other sites. Henkel CA is not responsible for the privacy practices or the content of other web sites.
+ 
 
-We use industry-standard SSL authentication to guarantee the confidentiality and privacy of online transactions through our site. SSL authentication and 128-bit encryption (scrambling) ensures that your online transaction and credit card information is safe from third party interception.
+2\. Use of the information
 
-Please note that email is not encrypted and is not considered a secure means of transmitting credit card numbers.
+  We may use your information for any lawful business purpose, including, but not limited to, corresponding with you, providing announcements, offering or furnishing products and services, personalizing the types of information you receive from us, assessing trends in your use of the Sites, developing content and functionality that helps us better serve your needs, improving the services we provide and engaging in advertising and marketing activities. In addition, here are some examples of the ways in which we may use information:
 
- ** _Disclosure to Authorities_**  
-Henkel CA cannot guarantee that all private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Policy. We reserve the right and may be forced to disclose any and all information to government bodies or government officials or third parties under certain circumstances, or third parties may unlawfully intercept or access transmissions or private communications. Accordingly, you authorize Henkel CA to disclose any and all information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate, in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability.
+  * To respond to your questions;
+  * To provide to you the services or subscriptions you select;
+  * To contact you regarding CME activities, news, or other resources;
+  * To send you information you request;
+  * To send and manage educational outcomes measurement surveys;
+  * To advise you of products or services that may be available;
+  * To notify you about website maintenance, updates, and new features;
+  * To contact you as needed to address a suspected violation of the Terms and Conditions of Use, this Privacy Policy, or any other rules or policies applicable to the Website;
+  * To inform you of significant changes to this Privacy Policy;
+  * To confirm or fulfill purchase and registration requests;
+  * To display content we think may be of interest to you and otherwise help us customize what you see when you visit the Website;
+  * To solicit user feedback to assess user-satisfaction or other needs and interests;
+  * To help us in creating new tools, features, and services;
+  * To send you materials on behalf of trusted third parties;
+  * Otherwise in rendering, administering, and improving the Website, our services, and our business. 
 
-Further, you authorize Henkel CA to disclose your password, name, street address, city, state, zip code, country, phone number, email, and company as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, gray market, intellectual property infringement, piracy, or other unlawful activity. Specifically, this includes exchanging such information with other companies and organizations for fraud protection and credit risk reduction. Henkel CA cooperates with law enforcement inquiries and other third parties to enforce laws, intellectual property and other rights.
 
- ** _Your Consent_**  
-By using any of Henkel CA's web sites and the content and services available to you on our sites, you consent to our collection and use of your information as described above. If we decide to change our privacy policy, we will post the changes on this page so that you are always informed of our policies.
+  * **Continuing Medical Education** When you elect to request credit for completing a Continuing Medical Education (CME) or a Continuing Education (CE) activity through the Services, you will be asked for such personally identifiable information as is required to process the request, including, for example your name and mailing address. . Information that you provide in connection with your participation in CME/CE activities, either when registering or requesting credit, may be used in several ways, such as: (1) To provide required reporting on CME activity usage to the appropriate monitoring bodies and involved CME providers. These reports may include personally identifiable information about you and credits issued to you; (2) To study the CME activity in order to study its effectiveness and understand educational needs, and (3) To respond to your comments and questions. We also aggregate non-personally identifiable information about the activities undertaken by CME/CE participants. Supporters of CME/CE activities will receive only aggregated data about CME/CE activities that they support.
 
-| 
+
+  * **Market Research:** When participating in such a survey, in addition to providing your responses to the survey questions, you may be asked to provide personally identifiable information that may be combined with information that you have already provided at registration or that we have received from a third party source. These studies are intended to give specific anonymous feedback to third parties as described in the "Sharing of the Information" section of this Privacy Policy. The information you submit in a survey may be used by for research and measurement purposes, including to measure the effectiveness of content, advertising or programs.
+
+
+  * **Marketing & Advertising: **We may use the information provided by you or obtained from third party sources to target advertising and our marketing communications to your needs, interest and geographic location. We may provide advertisements to you within our Sites based on information that our advertisers have collected from third sources and with the use of cookies.
+
+ 
+
+3\. Sharing of the Information
+
+There are some ways that we may share your information which include (a) as noted herein to the extent you have voluntarily agreed or are clearly notified of and consent to by using the Services, (b) with third parties that assist us in providing our products or services or in responding to your request, (c) as necessary to comply with applicable legal requirements, including but not limited to the CAN SPAM Act or (d) as otherwise set forth in this Policy. We may share any information that is collected our subsidiaries and affiliates subject to the terms of this Policy. We reserve the right to disclose, share or otherwise transfer any information to our affiliates or to a third party in connection with a corporate merger, acquisition, consolidation, the sale of substantially all of our assets, or other fundamental corporate change, whatever form it may take.
+
+   Some visitor information may be provided to other parties for marketing, advertising, or other uses. We may use third parties to help facilitate, manage, and/or analyze our Services. These third parties may have access to your personal information. These parties may only use the information to perform services on our behalf and may not disclose such information.  
+Here are some additional examples of the ways in which we may share information:
+
+  * **Market Research Studies:** From time to time, we may invite you to participate in sponsored or unsponsored market research studies. These studies are intended to give specific anonymous feedback to third parties. When you take part in such market research studies, your identity as a participant may be shared but your contact information will not be disclosed and your answers will remain anonymous. Collected information will not be shared in a manner that is correlated to your personally identifiable information. ****
+  * **Sponsored Programs** **:** We encourage you to support growth and development of the Site(s) and Services by participating in industry-supported programs offered on or through the Site(s) and Services. When you participate in industry-supported programs you agree that your name, specialty, profession, and the content you participate in along with any information you chose to provide, can be shared with the industry sponsor. Participation in these programs is purely voluntary. ****
+  * **Advertisers:** We may share aggregate information with our current or prospective advertisers and other business partners. This may include some limited personal Information so that the advertiser may evaluate the performance of its campaign. We are not responsible for how these third parties use your information and manage your privacy.
+  * **CME:** We may disclose your limited personal information which does not include your professional affiliation/institution, address, or contact information to third parties who solicit and/or manage non-CME symposia held in conjunction with our conferences. We may share your Personal Information with the accreditors of our continuing education programs. We may also provide your information to third parties who exhibit at our conferences. Third party vendors are prohibited from using NPI or limited PI contained in pre-registration and attendee lists to: engage in activities that would violate any fiduciary or contractual relationship; any applicable local, state, national, or international law; or any regulations having the force of law, including but not limited to operating an illegal lottery or gambling operation, stalking or making threats of harm; transmit Content that is inaccurate, harmful, obscene, pornographic, defamatory, racist, violent, offensive, or harassing; causes duress, distress, or discomfort to another; otherwise objectionable to MJH or the conference sponsor; violates or infringes anyone's intellectual property rights; constitutes electioneering, such as exhortations to vote for or against any candidate for public office; is misleading, incomplete, or incorrect related to any aspect of cancer diagnosis, treatment, and care; implies a relationship with or endorsement of MJH; or solicits for any for-profit venture, operation, or effort. ****
+
+ 
+
+4\. Third Party Sites.
+
+  Our Sites may provide links to third party websites and resources.  Such links are provided as a convenience to you and for informational purposes only.  We are not responsible for and cannot control these third party websites and resources, does not endorse them, and are not responsible for their availability, content, or delivery of services.  Third party websites and resources are not bound by this Policy; they may have their own policies or none at all. We encourage you to read such other third party websites' privacy policies.
+
+  5\. Delete/deactivate policy
+
+  Users may unsubscribe to any of our email communications at any time by following the instructions contained at the end of every email we send. If you no longer wish to use any services or receive any information from us, you may request to have your personal information removed from our databases by sending a request via e-mail (info@mjhassoc.com) or by fax (609-716-4747), including your first and last names and e-mail address with which you originally registered. Changes or corrections to your information may be submitted in the same fashion.
+
+  6\. Opt-in List Privacy Policy
+
+  When you register with us, you may be prompted to opt-in to additional Service(s). Opting-in means you agree to receive information relevant to the Service you selected, whether it is sent directly by us or sent by us on behalf of our advertisers. You may unsubscribe from the opt-in lists at any time by following the unsubscribe instructions contained at the end of the e-mail you receive.
+
+  7\. Opting Out of Cookie Serving
+
+  We are dedicated to providing privacy on the Internet. In addition to developing this Policy, we have provided you the opportunity to opt out of future ad serving cookies. In order to identify you as someone who has elected to opt out of receiving future cookies from ad serving companies, we will place an opt out cookie on your machine.
+
+  If you would like to opt out of ad serving cookies or read additional information about these cookies, go to http://www.aboutads.info/choices/.
+
+  8\. Children's Privacy
+
+We are committed to protecting the privacy of children. The Website and Services are designed and intended for use by adults. We do not collect personally identifiable information from any person we know is under the age of 18.
+
+9\. Security.
+
+  While we will maintain the security of PII, and protect the integrity of such information, with a commercially reasonable degree of care, we cannot guarantee the security of any information you disclose online.  We do not make any warranty, express, implied or otherwise, that we will be able to prevent loss, misuse, unauthorized access to, or alteration of information you provide to us.  You make any disclosure of information to us at your own risk.  We urge you to take every precaution to protect your information when you are on the internet, including when visiting the Site.
+
+  10\. Market Research
+
+  Our Market Research entity, "Healthcare Research & Analytics" (HRA), is committed to serving the industry by providing market research in the healthcare business space.
+
+  HRA will respect the legal requirements that exist regarding the privacy of PII and we are committed to complying with all applicable law. HRA will, from time to time, review its PII collection, use, and disclosure practices in order to assure compliance with laws and regulations.
+
+  Regarding PII and other data collected for an in any market research activity in which you may elect to participate, we will maintain procedures consistent with applicable law for individuals to gain access to their collected PII and, when appropriate, correct any information that is inaccurate or incomplete, change their individual consent level, or have their PII deleted.
+
+  We will contractually require others who acquire or provide PII from or to us, including those engaged to provide support services, at a minimum, to adopt and comply with the principles and objectives of this policy.
+
+  We will publish the procedures for verifying compliance and responding to complaints regarding potential deviations from its established procedures for protecting personally identifiable information. In addition to HRA's internal Privacy Compliance Officer, the Council of American Survey Research Organizations (CASRO), is another resource for questions about verification and complaint processing.
+
+  If you are concerned about our use of your PII in market research, please contact us at privacy@hraresearch.com or at the mailing address below. You may also contact CASRO at info@casro.org.
+
+  Mailing Address:  
+HRA - Healthcare Research & Analytics LLC  
+400 Lanidex Plaza, Suite 102  
+Parsippany, NJ 07054
+
+  11\. Contact Information
+
+  Any questions regarding this Policy should be directed to us at info@mjhassoc.com or the mailing address below.
+
+  Mailing Address:  
+MJH Healthcare Holdings, LLC  
+2 Clarke Drive  
+Cranbury, NJ 08512
