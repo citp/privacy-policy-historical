@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the whoisxmlapi.com privacy policy that was archived on 2016-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160407220015id_/https%3A//www.whoisxmlapi.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whoisxmlapi.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306040505id_/https%3A//www.whoisxmlapi.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
-
-### Whois API, LLC Privacy Policy
 
 ### What information do we collect?
 
@@ -28,7 +26,7 @@ This policy was last modified on 07/01/2012
 
 ### Your Consent
 
-By using our site, you consent to our websites [ privacy policy.](https://www.whoisxmlapi.com/privacy.php)
+By using our site, you consent to our websites privacy policy. 
 
 ### What do we use your information for?
 
