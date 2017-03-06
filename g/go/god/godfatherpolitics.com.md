@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the godfatherpolitics.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023120349id_/http%3A//godfatherpolitics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the godfatherpolitics.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306014701id_/http%3A//godfatherpolitics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Godfather Politics
 
