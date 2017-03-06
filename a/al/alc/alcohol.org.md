@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alcohol.org privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101070418id_/http%3A//www.alcohol.org/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alcohol.org privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306052002id_/http%3A//alcohol.org/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Alcohol Awareness Council - Alcohol.org
 
@@ -50,7 +50,7 @@ Alcohol.org will use reasonable means to protect the privacy of the information 
 
 We may partner with ad networks and other ad serving providers (“Advertising Providers”) who serve ads on behalf of us and others on non-affiliated sites. Some of those ads may be personalized, meaning that they are intended to be relevant to you based on information Advertising Providers collect about your visits to this site and elsewhere over time.
 
-You may visit [www.aboutads.info](https://web.archive.org/web/20161101070418id_/http%3A//www.alcohol.org/www.aboutads.info) to learn more about this type of advertising and how to opt-out of this form of advertising by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. Note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. In addition, note that if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice. 
+You may visit [www.aboutads.info](https://web.archive.org/web/20170306052002id_/http%3A//alcohol.org/www.aboutads.info) to learn more about this type of advertising and how to opt-out of this form of advertising by companies participating in the Digital Advertising Alliance (“DAA”) self-regulatory program. Note that electing to opt-out will not stop advertising from appearing in your browser or applications. It may make the ads you see less relevant to your interests. In addition, note that if you use a different browser or erase cookies from your browser, you may need to renew your opt-out choice. 
 
 ##  Children 
 
