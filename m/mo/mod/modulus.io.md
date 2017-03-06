@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the modulus.io privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012015411id_/https%3A//modulus.io/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modulus.io privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306153058id_/https%3A//xervo.io/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Modulus App Container Platform | Node.js, PHP & Java
+# Privacy Policy | Xervo App Container Platform | Node.js, PHP & Java
 
 ## WHAT INFORMATION DO WE COLLECT?
 
@@ -72,8 +72,9 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://modulus.io  
-1739 Elm St  
-Cincinnati, OH 45202  
+http://xervo.io  
+30 Shady Rock Ct
+
+Round Rock, TX 78665  
 United States  
-help@modulus.io
+help@xervo.io
