@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the qlinkwireless.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805185724id_/https%3A//qlinkwireless.com/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qlinkwireless.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306093757id_/https%3A//www.qlinkwireless.com/privacy.aspx) for the most accurate reproduction.*
 
 # None
 
@@ -6,13 +6,13 @@ Q Link Wireless is committed to protecting your privacy. This Privacy Policy des
 
 ## Information We Collect and How We Use It
 
-Q Link Wireless collects and uses information about our subscribers and website visitors based on your use of our products and services and our business relationship with you, and when you make online inquiries into our service. 
+Q Link Wireless collects and uses information about our subscribers and website visitors based on your use of our products and services and our business relationship with you, and when you make online inquiries into our service.
 
-Q Link Wireless uses such information to provide you with the ability to sign up for products and services; to provide you with the highest quality customer experience possible; and to communicate with our subscribers regarding service updates, offers, and promotions. We also use this information for third party advertising; prevention of fraud or illegal activities to prevent or investigate violations of our Terms and Conditions; to respond to your questions; to develop network integrity and for security procedures. Q Link Wireless will, disclose customer identifiable information as required by subpoena, search warrant, or other legal process or in the event that such customer is engaging in unlawful use of our website. When Q Link Wireless uses third parties to perform services on its behalf, Q Link Wireless cannot ensure that all of your customer identifiable information will never be disclosed, as regulatory and/or other requirements may make disclosure necessary. 
+Q Link Wireless uses such information to provide you with the ability to sign up for products and services; to provide you with the highest quality customer experience possible; and to communicate with our subscribers regarding service updates, offers, and promotions. We also use this information for third party advertising; prevention of fraud or illegal activities to prevent or investigate violations of our Terms and Conditions; to respond to your questions; to develop network integrity and for security procedures. Q Link Wireless will, disclose customer identifiable information as required by subpoena, search warrant, or other legal process or in the event that such customer is engaging in unlawful use of our website. When Q Link Wireless uses third parties to perform services on its behalf, Q Link Wireless cannot ensure that all of your customer identifiable information will never be disclosed, as regulatory and/or other requirements may make disclosure necessary.
 
 ## How We Collect Information
 
-Q Link Wireless collects information about all activity on its websites using cookies, server log files, web beacons, website widgets and other technologies. Anytime anyone visits our website, we may obtain and capture information that may allow us to identify you via cookies, server log files, web beacons, website widgets and other technologies. If you do not wish to utilize cookies, you have the ability to disable this feature within your individual web browser. However, by disabling cookies, a customer will not have access to certain areas of our website through the cookie-disabled browser. 
+Q Link Wireless collects information about all activity on its websites using cookies, server log files, web beacons, website widgets and other technologies. Anytime anyone visits our website, we may obtain and capture information that may allow us to identify you via cookies, server log files, web beacons, website widgets and other technologies. If you do not wish to utilize cookies, you have the ability to disable this feature within your individual web browser. However, by disabling cookies, a customer will not have access to certain areas of our website through the cookie-disabled browser.
 
 ## Contact Information
 
@@ -27,7 +27,7 @@ Contact Information can consist of:
 
 ## Third Party Websites
 
-Q Link Wireless websites may from time to time contain links to other websites. As such, we cannot be responsible for the content or privacy practices of third party websites. Third party websites may collect personal information from our customers and as such, you should be aware of the privacy policies of all third party websites. 
+websites may from time to time contain links to other websites. As such, we cannot be responsible for the content or privacy practices of third party websites. Third party websites may collect personal information from our customers and as such, you should be aware of the privacy policies of all third party websites.
 
 ## Information Not Covered
 
@@ -45,8 +45,7 @@ Q Link Wireless does not sell any personally identifiable information to third p
 
 If you are a resident of California, certain rules apply to your privacy rights. California state regulations entitle California subscribers to request information concerning whether a business has disclosed personal information to any third parties for the third parties' direct marketing purposes. California customers who wish to request further information about our compliance with this law or have questions or concerns about our privacy practices and policies may contact us in writing via mail or via fax to:
 
-**BY MAIL:**  
-Q Link Wireless LLC  
+**BY MAIL:** Q Link Wireless LLC  
 499 E SHERIDAN ST, STE 200  
 DANIA, FLORIDA 33004  
 USA  
@@ -58,7 +57,7 @@ USA
 
 ## Privacy Policy Changes
 
-Q Link Wireless reserves the right to change its Privacy Policy from time to time by publishing new terms on its website at any time and your access and use of the Q Link Wireless website thereafter constitutes your acknowledgment and acceptance of such amended policy. This Privacy Policy does not create any legal right for you or any third parties. 
+Q Link Wireless reserves the right to change its Privacy Policy from time to time by publishing new terms on its website at any time and your access and use of the Q Link Wireless website thereafter constitutes your acknowledgment and acceptance of such amended policy. This Privacy Policy does not create any legal right for you or any third parties.
 
 ## Customer Proprietary Network Information (CPNI)
 
@@ -76,32 +75,31 @@ Q Link Wireless does not disclose CPNI outside of the Q Link Wireless companies 
 
 If you wish to restrict our use of your CPNI for marketing purposes, known as an "opt out" request, you may do so by requesting a restriction of your CPNI in writing via mail or via fax to:
 
-**BY MAIL:**  
-Q Link Wireless LLC  
+**BY MAIL:** Q Link Wireless LLC  
 499 E SHERIDAN ST, STE 200  
 DANIA, FLORIDA 33004  
 USA  
 
 
-**BY FAX** :  
+**BY FAX:**  
 1-855-837-5465  
 
 
-Restricting our use of your CPNI for marketing purposes will not affect the provision of any Q Link Wireless products or services to which you subscribe, nor will it eliminate all types of Q Link Wireless marketing contacts. 
+Restricting our use of your CPNI for marketing purposes will not affect the provision of any Q Link Wireless products or services to which you subscribe, nor will it eliminate all types of Q Link Wireless marketing contacts.
 
 ## Advertisements
 
-Advertisements may appear on Q Link Wireless website pages from time to time. Some advertisements may request information directly from our customers or take our customers to websites that may request personal information. Q Link Wireless is in no way responsible for these advertisers' privacy policies, so please examine the Privacy Policy of any company advertising on our websites prior to submitting any personal information. 
+Advertisements may appear on Q Link Wireless website pages from time to time. Some advertisements may request information directly from our customers or take our customers to websites that may request personal information. Q Link Wireless is in no way responsible for these advertisers' privacy policies, so please examine the Privacy Policy of any company advertising on our websites prior to submitting any personal information.
 
 ## Account Information
 
-Q Link Wireless will reply to requests from customers for account information and will correct any such information, which may from time to time be inaccurate. Subscribers may contact Q Link Wireless to verify that appropriate corrections have been made. 
+Q Link Wireless will reply to requests from customers for account information and will correct any such information, which may from time to time be inaccurate. Subscribers may contact Q Link Wireless to verify that appropriate corrections have been made.
 
 ## Email Communications
 
 Q Link Wireless does not disclose to third parties email communications that are transmitted using Q Link Wireless services, except as required to provide the service or as otherwise authorized or required by law.
 
-Q Link Wireless may, from time to time, send our subscribers emails or text messages regarding promotional offers or other information. A customer has the right to elect not to receive Q Link Wireless email direct marketing communications by simply opting-out or unsubscribing to the email offerings. These requests should be in writing via mail or via fax: 
+Q Link Wireless may, from time to time, send our subscribers emails or text messages regarding promotional offers or other information. A customer has the right to elect not to receive Q Link Wireless email direct marketing communications by simply opting-out or unsubscribing to the email offerings. These requests should be in writing via mail or via fax:
 
 **BY MAIL:**  
 Q Link Wireless LLC  
@@ -110,9 +108,9 @@ DANIA, FLORIDA 33004
 USA  
 
 
-**BY FAX** :  
+**BY FAX:**  
 1-855-837-5465 
 
 ## Use of Location Information
 
-When your Q Link Wireless cellular device is on, it sends signals to the nearest cell tower. As a result Q Link Wireless may use or disclose your wireless device location information as necessary to respond to calls to 911 or in other emergency-related situations as provided by law. Q Link Wireless endeavors to safeguard the privacy of subscriber identifiable information from unauthorized access or improper use. However, Q Link Wireless cannot at any time provide a guarantee of 100% security. 
+When your Q Link Wireless cellular device is on, it sends signals to the nearest cell tower. As a result Q Link Wireless may use or disclose your wireless device location information as necessary to respond to calls to 911 or in other emergency-related situations as provided by law. Q Link Wireless endeavors to safeguard the privacy of subscriber identifiable information from unauthorized access or improper use. However, Q Link Wireless cannot at any time provide a guarantee of 100% security.
