@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the volgistics.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518065330id_/https%3A//www.volgistics.com/privacy-policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the volgistics.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306060108id_/https%3A//www.volgistics.com/privacy-policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | Volgistics
+
+Your privacy is very important to us, and we carefully protect the information you manage through Volgistics. This privacy policy explains what information we collect, how we use it, and the measures we take to protect it. If, after reviewing this policy, you have additional questions, please [contact the Volgistics team](https://web.archive.org/web/20170306060108id_/https%3A//www.volgistics.com/support.htm "contact the Volgistics team").
 
 ### What information we collect and how we use it
 
@@ -24,7 +26,7 @@ Your database includes all of the volunteer, coordinator, and assignment informa
 
 The information you store in your database belongs solely to you, and Volgistics carefully safeguards the privacy and security of this data. Volgistics never discloses the content of your database to anyone. Volgistics uses procedural and technical safeguards to protect your database against loss or theft as well as unauthorized access, including encryption, firewalls, and Secure Socket Layers. All data is stored in a secure data center. Volgistics uses many different security techniques to protect your data from unauthorized access by users internal and external, however it must be recognized that "perfect security" does not exist on the Internet.
 
-### What happens to your information if you close your account 
+### What happens to your information if you close your account
 
 We will continue to protect your information under the terms of this privacy policy even if you close your Volgistics account. If you cancel your Volgistics account, we delete your account information from our system within 30 days. If you allow your account to be automatically cancelled due to lack of payment, your account will first be put on a Hold status for 30 days beyond your Paid Through date and will be deleted 30 days after the Hold period expires. Trial accounts will be deleted 60 days after the trial account expires.
 
@@ -38,7 +40,7 @@ Only system operators in your organization with access to the setup page can cre
 
 ### What can Volgistics access?
 
-In the course of managing the database, managing file system components and creating and testing system enhancements, authorized Volgistics developers will have access to the database. Volgistics customer service employees will have access to customer data as needed for the purpose of answering customer support inquiries. Volgistics employees may also access the 'event log' for your account for the purpose of answering your support inquiries or assisting you with system operation issues. This log contains a record of system setting changes, system errors, and related system events You can view the event log for your account under 'Account management' in the Setup area.
+In the course of managing the database, managing file system components and creating and testing system enhancements, authorized Volgistics developers will have access to the database. Volgistics customer service employees will have access to customer data as needed for the purpose of answering customer support inquiries. Volgistics employees may also access the 'event log' for your account for the purpose of answering your support inquiries or assisting you with system operation issues. This log contains a record of system setting changes, system errors, and related system events. You can view the event log for your account under 'Account management' in the Setup area.
 
 The Volgistics accounting staff can only see part of your credit card information. The complete card number is not viewable.
 
