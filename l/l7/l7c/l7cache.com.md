@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the l7cache.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809163416id_/https%3A//l7cache.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the l7cache.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306103830id_/https%3A//l7cache.com/privacy.html) for the most accurate reproduction.*
 
 # None
 
