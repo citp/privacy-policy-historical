@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oemscart.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905193447id_/https%3A//www.oemscart.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oemscart.com privacy policy that was archived on 2017-03-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170306100111id_/https%3A//www.oemscart.com/privacy-policy) for the most accurate reproduction.*
 
 # Oems Cart
 
