@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the artuk.org privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220055835id_/http%3A//artuk.org/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the artuk.org privacy policy that was archived on 2017-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170307134422id_/https%3A//artuk.org/footer/privacy-policy) for the most accurate reproduction.*
 
 # Art UK | Privacy policy
 
