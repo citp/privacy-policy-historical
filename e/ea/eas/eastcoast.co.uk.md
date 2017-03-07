@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eastcoast.co.uk privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804211343id_/https%3A//www.virgintrainseastcoast.com/support/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eastcoast.co.uk privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308002549id_/https%3A//www.virgintrainseastcoast.com/support/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Virgin Trains East Coast
 
@@ -49,25 +49,27 @@ Payment card data will be stored on the website for 90 days (a period of time to
 
 We may use your personal information to contact you with offers, promotions and communications in line with the consent you have provided. 
 
-In relation to email (as opposed to post or fax), if you are a customer or have previously asked us for information on our products or services, we may send you information on our range of products and services by email, unless you have asked us not to do so.  We may also email you information if you have asked us to send you marketing emails unless you ask us not to in the future.  In relation to receiving marketing and other information from us, you may change your mind at any time by accessing 'My Account' on the Virgin Trains East Coast Main Line Company Limited website or by emailing [ **customers@virgintrainseastcoast.com**](mailto:customers@virgintrainseastcoast.com). 
+In relation to electronic mail (email and SMS as opposed to post or fax), if you are a customer or have previously asked us for information on our products or services, we may send you information on our range of products and services by electronic mail, unless you have asked us not to do so.  We may also email you information if you have asked us to send you marketing emails unless you ask us not to in the future.  In relation to receiving marketing and other information from us, you may change your mind at any time by accessing 'My Account' on the Virgin Trains East Coast Main Line Company Limited website or by emailing [ **customers@virgintrainseastcoast.com**](mailto:customers@virgintrainseastcoast.com). 
 
 ## Who do we share this information with?
 
-We respect your privacy and will not sell or lease your personal information. We may pass this personal information to third party service providers to facilitate the activities listed at “What do we do with the information we collect?”. These third party companies will be required to use your personal information in accordance with applicable Data Protection legislation currently in force.
+We respect your privacy and will not sell or lease your personal information. The information you provide to us may be accessed by our staff, business partners, Virgin Group companies and carefully selected third parties in the course of providing services and to facilitate the activities listed in ‘’What do we do with the information we collect?’’  These third party companies will be required to use your personal information in accordance with applicable Data Protection legislation currently in force. We may also use information in aggregate, where personally identifiable information is removed, for marketing and strategic development to improve and support our business. 
+
+Virgin Trains will not share or distribute any of the information you provide to us to unaffiliated third parties without receiving your consent, unless required to do so by Law.
 
 We may transfer your personal information to any company who takes over the East Coast Main Line Company Limited, trading as Virgin Trains East Coast to enable them to use that information in line with the consent you have provided, or where lawfully requested or required to do so by legal or regulatory authorities.
 
-This process may include sending personal information to other countries, whose data protection laws may not be as extensive as in the European Economic Area. However, we have taken appropriate steps to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area 
+This process may include sending personal information to other countries, whose data protection laws may not be as extensive as in the European Economic Area. However, we have taken appropriate steps to ensure the same level of protection for the processing carried out in these countries as within the European Economic Area.
 
 ## How to get copies of or amend the information we have collected?
 
 You may request a copy of the personal information that we hold about you under the Data Protection Act 1998. A small fee may be payable. If you would like details of the personal information we store about you, please write to:
 
   
-Virgin Trains East Coast Customer Relations  
-Freepost RSRJ-LJCX-GHST  
-Plymouth  
-PL4 6AB
+Virgin Trains East Coast Customer Solutions  
+Freepost RTUH-TUGH-GCLZ  
+Cramlington   
+NE23 1WG
 
   
 If you think any information we have about you is incorrect or incomplete, please write or email us as soon as possible at [ **customers@virgintrainseastcoast.com**](mailto:customers@virgintrainseastcoast.com). 
