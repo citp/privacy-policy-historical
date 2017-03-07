@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the delphiscalper.com privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813032649id_/http%3A//www.delphiscalper.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the delphiscalper.com privacy policy that was archived on 2017-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170307055722id_/http%3A//www.delphiscalper.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Delphi Scalper
 
