@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coloradocyclist.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414100759id_/https%3A//www.coloradocyclist.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coloradocyclist.com privacy policy that was archived on 2017-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170307110839id_/https%3A//www.coloradocyclist.com/pages/privacy) for the most accurate reproduction.*
 
 # The Colorado Cyclist | Shop for Bicycles, Bike Parts and Accessories
 
