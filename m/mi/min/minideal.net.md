@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the minideal.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119185541id_/http%3A//www.minideal.net/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minideal.net privacy policy that was archived on 2017-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170307211842id_/http%3A//www.minideal.net/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
-# Wholesale Privacy Policy free shipping
+# Privacy Policy
+
+[](http://www.minideal.net/xiaomi-redmi-4x.html)
 
 Please replace this text with you Privacy Policy. Please add any additional cookies your website uses below (e.g., Google Analytics) 
 
-This privacy policy sets out how MiniDeal.Net uses and protects any information that you give MiniDeal.Net when you use this website. MiniDeal.Net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. MiniDeal.Net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+This privacy policy sets out how Minideal.net uses and protects any information that you give Minideal.net when you use this website. Minideal.net is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Minideal.net may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
 ## What we collect
 
@@ -91,4 +93,6 @@ STORE | The store view or language you have selected.
 USER_ALLOWED_SAVE_COOKIE | Indicates whether a customer allowed to use cookies.  
 VIEWED_PRODUCT_IDS | The products that you have recently viewed.  
 WISHLIST | An encrypted list of products added to your Wishlist.  
-WISHLIST_CNT | The number of items in your Wishlist.
+WISHLIST_CNT | The number of items in your Wishlist.  
+  
+Copyright © 2017 Minideal. All rights reserved.
