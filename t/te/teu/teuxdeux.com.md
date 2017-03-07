@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teuxdeux.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514051056id_/https%3A//teuxdeux.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teuxdeux.com privacy policy that was archived on 2017-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170307131201id_/https%3A//teuxdeux.com/privacy) for the most accurate reproduction.*
 
 # TeuxDeux / Privacy Policy
 
