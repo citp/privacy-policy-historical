@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the vbuzzer.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603133254id_/http%3A//www1.vbuzzer.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vbuzzer.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308102958id_/http%3A//www.vbuzzer.com/privacy) for the most accurate reproduction.*
 
-# Privacy | VBuzzer - VOIP Services - Internet Fax - SMS
+# Privacy Policy | VBuzzer - Home Phone Service
 
 ## VBuzzer’s Privacy Policy
 
-At Softroute Corporation (“VBuzzer”), the security and integrity of your personal information is important to us. We take every reasonable measure necessary to protect the privacy of your personal information while providing you with quality services. Our privacy practices comply with all laws and regulations in Canada applicable to our use and disclosure of your information, including the Personal Information Protection and Electronic Documents Act. We review these practices regularly and revise them on an as-needed basis. In this Privacy Policy, we explain these practices to you and your rights in relation to them.
+At “VBuzzer™”, the security and integrity of your personal information is important to us. We take every reasonable measure necessary to protect the privacy of your personal information while providing you with quality services. Our privacy practices comply with all laws and regulations in Canada applicable to our use and disclosure of your information, including the Personal Information Protection and Electronic Documents Act. We review these practices regularly and revise them on an as-needed basis. In this Privacy Policy, we explain these practices to you and your rights in relation to them.
 
 ### 1\. The Personal Information We Collect
 
@@ -78,7 +78,7 @@ If you have any questions regarding the measures we take to safeguard your perso
 
 ### 5\. Your Rights
 
-You have the right to access and, where relevant, amend any of your personal information held by VBuzzer. Some of your personal information may be accessed and edited online by logging into your “My Account” page on [www.vbuzzer.com](http://www.vbuzzer.com/). If you would like to view or edit any of your other personal information, please contact a VBuzzer customer service representative.
+You have the right to access and, where relevant, amend any of your personal information held by VBuzzer. Some of your personal information may be accessed and edited online by logging into your “My Account” page on [www.vbuzzer.com](https://web.archive.org/). If you would like to view or edit any of your other personal information, please contact a VBuzzer customer service representative.
 
 We will respond to requests to view, correct, complete or remove your personal information within a reasonable period of time and upon verification of your identity. We will try to accommodate requests to delete personal information unless we determine that this information must be retained by law or for lawful business purposes.
 
