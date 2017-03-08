@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the monaca.io privacy policy that was archived on 2016-05-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160531180217id_/https%3A//monaca.io/terms-of-service/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the monaca.io privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308153539id_/https%3A//monaca.io/terms-of-service/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | HTML5 cross-platform mobile app development with Monaca
 
