@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the onsen.io privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222035155id_/http%3A//monaca.mobi/en/page/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onsen.io privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308153539id_/https%3A//monaca.io/terms-of-service/policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | HTML5 cross-platform mobile app development with Monaca
 
