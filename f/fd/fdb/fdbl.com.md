@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the fdbl.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328160006id_/https%3A//www.fragomen.com/fragomen-worldwide/privacy-policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fdbl.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308033611id_/https%3A//www.fragomen.com/fragomen/privacy-policies) for the most accurate reproduction.*
 
-# Fragomen Worldwide | Fragomen Worldwide
-
-Click to view each of our privacy policies below:
-
-COOKIE POLICY
+# Privacy Policies | Fragomen
 
 ONLINE PRIVACY NOTICE
 
@@ -12,13 +8,11 @@ PRIVACY POLICY AND NOTICE
 
 FRAGOMEN SAFE HARBOR PRIVACY POLICY
 
-___________________________________
-
 **COOKIE POLICY**
 
 EFFECTIVE DATE: March 25, 2015
 
-Fragomen, Del Rey, Bernsen & Loewy, LLP, Fragomen Global LLP, Fragomen Global Immigration Services, LLC and their local entities, members and affiliates (collectively, “Fragomen Worldwide”) use “cookies” on our websites.  Cookies are text files that are placed on your browser, mobile device or computer’s hard drive when you visit certain websites.
+Fragomen, Del Rey, Bernsen & Loewy, LLP, Fragomen Global LLP, Fragomen Global Immigration Services, LLC and their local entities, members and affiliates (collectively, “Fragomen”) use “cookies” on our websites.  Cookies are text files that are placed on your browser, mobile device or computer’s hard drive when you visit certain websites.
 
 **How we use cookies**  
 We use cookies to ensure our websites function properly and to improve user experience. We may use cookies to tell us, for example, whether you have visited us before and to help us identify site features in which you may have the greatest interest.
@@ -109,6 +103,7 @@ We take steps to require that third parties who assist in our provision of servi
 
 Our website may provide links to other websites for your convenience and information. These websites may operate independently from Fragomen. Linked sites may have their own privacy notices or policies, which we strongly suggest you review if you visit any linked websites. To the extent any linked websites you visit are not owned or controlled by Fragomen, we are not responsible for the sites’ content, any use of the sites, or the privacy practices of the sites.
 
+  
 **Updates to our online PRIVACY NOTICE**
 
 This Online Privacy Notice may be updated periodically to reflect new site features or changes in our information practices. We will post a notice on our website to advise of any significant changes to this Online Privacy Notice and indicate in the notice when it was most recently updated. 
@@ -126,9 +121,11 @@ USA 
 
 Please see our Legal Notices.
 
-_Last Updated: April 29, 2013_
+_Last Updated: April 29, 2013
 
 _________________________________
+
+_
 
 **PRIVACY POLICY AND NOTICE**
 
@@ -231,3 +228,52 @@ Matawan, New Jersey 07747 
 USA 
 
 _Last Updated: June 19, 2013_
+
+**ANTI-SLAVERY  and HUMAN TRAFFICKING STATEMENT**
+
+We know that slavery, servitude, forced labour and human trafficking is a global and growing issue given the rapid rise in global migration, existing in every region in the world and in every type of economy, whether industrial, developing or in transition. No sector or industry can be considered immune or untainted.
+
+Fragomen has a zero tolerance approach to modern slavery of any kind within our operations and supply chain. Our positive contribution to the work of our clients is matched by our commitment to running our own operations responsibly. We are committed to ensuring that slavery, human trafficking, child labour – indeed, any abuse of human rights – have no place in or around our organisation. We are proud of the steps we have taken to combat slavery and human trafficking and are pleased to reinforce that commitment through this statement.
+
+**Our Organization’s structure**
+
+Fragomen is a professional immigration services firm made up of law firms and consultancies in more than 40 offices worldwide and operating as Fragomen LLP, a limited liability partnership, in England, under English law. In countries where we do not have offices or in house practice groups, we work with carefully selected local advisors to deliver services to our clients in more than 170 countries.
+
+Members of our Executive Committee and Leadership Team are responsible for managing the firm’s worldwide operations (including Fragomen LLP). These professionals drive Fragomen’s values, ethics, vision, client services, structure and support teams, and make certain that our firm remains compliant with all applicable legislation relating to employee terms and conditions, and ensures that the firm invests heavily in supporting the health and wellbeing of our staff across all jurisdictions in which we operate.
+
+**Our Supply Chains**
+
+We are committed to ensuring that there is no modern slavery or human trafficking in our supply chains or in any part of our business. Our Anti-slavery and Human Trafficking Policy reflects our commitment to acting ethically and with integrity in all our business relationships and to implementing and enforcing effective systems and controls to ensure slavery and human trafficking is not taking place any where in out supply chains.
+
+**Due Diligence Process for Slavery and Human Trafficking**
+
+As a professional services organisation, we consider the risk of modern slavery existing within our business to be low. However, to ensure that we are compliant with all applicable legislation we have carried out our own due diligence programme through a cross-functional working group.
+
+As part of our initiative to identify and mitigate risk we have in place systems to:
+
+  * Identify and assess potential risk areas in our supply chains.
+  * Mitigate the risk of slavery and human trafficking occurring in our supply chains.
+  * Monitor potential risk areas in our supply chains.
+  * Protect whistle blowers.
+
+
+
+**Supplier Adherence to our values and ethics**
+
+We have zero tolerance to slavery and human trafficking. To ensure all those in our supply chain and contractors comply with our values and ethics we have in place a rigorous supply chain compliance programme.  
+Training
+
+We are currently focusing on raising internal awareness to enable the relevant members of staff to understand the requirements of the Modern Slavery Act and to give them the tools to flag potential issues.
+
+Over time, we will seek to develop an e-learning solution for all our staff, which will ensure that Modern Slavery is targeted more persistently, regardless of staff turnover or changes in the supply chain.
+
+A key focus for the next 12-18 months is to engage in more detail with our staff and our key suppliers.  
+This statement is made pursuant to section 54(1) of the Modern Slavery Act 2015 and constitutes slavery and human trafficking statement for the financial year ending 31 December 2016.
+
+Attn: Caron Pope  
+Fragomen LLP  
+95 Gresham St.  
+London, EC2V 7NA  
+United Kingdom
+
+_Last Updated: December 2016_
