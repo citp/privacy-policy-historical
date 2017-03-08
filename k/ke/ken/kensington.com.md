@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kensington.com privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817151845id_/https%3A//www.kensington.com/us/us/4731/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kensington.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308233239id_/https%3A//www.kensington.com/us/us/4731/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kensington
 
@@ -177,7 +177,7 @@ We value your opinions and welcome your feedback. Please use the contact methods
 
 **14\. Other Policies and statements**
 
-Please read this privacy policy in conjunction with our [global ‘terms of use’ statement](https://web.archive.org/web/20160817151845id_/https%3A//www.kensington.com/us/us/legalNotice)
+Please read this privacy policy in conjunction with our [global ‘terms of use’ statement](https://web.archive.org/web/20170308233239id_/https%3A//www.kensington.com/us/us/legalNotice)
 
 **15\. Governing Law**
 
