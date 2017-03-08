@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamesracingfree.com privacy policy that was archived on 2016-01-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160126120441id_/http%3A//gamesracingfree.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamesracingfree.com privacy policy that was archived on 2017-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170308175016id_/http%3A//gamesracingfree.com/privacy_policy) for the most accurate reproduction.*
 
 # GamesRacingFree - Free Online Games
 
