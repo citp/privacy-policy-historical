@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the websitelooker.net privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116130653id_/http%3A//www.websitelooker.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the websitelooker.net privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309212654id_/http%3A//www.websitelooker.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy
 
