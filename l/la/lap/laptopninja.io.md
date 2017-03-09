@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laptopninja.io privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411161445id_/https%3A//laptopninja.io/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laptopninja.io privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309172945id_/https%3A//laptopninja.io/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - LaptopNinja
 
@@ -123,9 +123,3 @@ Grahamstown
 Eastern Cape  
 South Africa  
 6139
-
-### GET PRO TIPS AND WIN WITH LAPTOPNINJA
-
-Master your laptop today with our free cutting edge guides. 
-
-Bonus: You'll automatically get entered intro our monthly draw to win a brand new laptop!
