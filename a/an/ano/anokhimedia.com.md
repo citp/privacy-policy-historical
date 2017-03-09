@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the anokhimedia.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111174055id_/http%3A//anokhimedia.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anokhimedia.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309062335id_/https%3A//anokhimedia.com/privacy-policy) for the most accurate reproduction.*
 
-# ANOKHI MEDIA
+# Privacy Policy - ANOKHI MEDIA
 
 Your privacy is important to us. Anmeco OptiMedia Communications Inc. (hereinafter referred to as AMC), its subsidiaries and affiliates (collectively, “ANOKHI”, “us”, “we”) are committed to maintaining the privacy, security and accuracy of the personal information they collect, use and disclose in accordance with applicable legislation. This privacy policy (the “Privacy Policy”) is a statement of principles and guidelines concerning the protection of personal information of our individual clients, individual service providers and other individuals (“you”) (with the exception of our personnel, whose personal information is collected, used and disclosed in accordance with AMC’s Personnel Privacy Policy).
 
