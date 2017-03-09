@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mutantbox.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128052740id_/http%3A//www.mutantbox.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mutantbox.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309024427id_/https%3A//mutantbox.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
