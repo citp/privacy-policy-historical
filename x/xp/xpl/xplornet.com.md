@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xplornet.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015080823id_/https%3A//www.xplornet.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xplornet.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310002323id_/https%3A//www.xplornet.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Xplornet
 
