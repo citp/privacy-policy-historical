@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the canadianhouseandhome.com privacy policy that was archived on 2016-05-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160518103045id_/http%3A//houseandhome.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the canadianhouseandhome.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309143123id_/https%3A//houseandhome.com/privacy) for the most accurate reproduction.*
 
-# Consumer Privacy Statement | House & Home
+# Consumer Privacy Statement - House & Home
 
 House & Home Media (“HHM”) is committed to preserving and safeguarding your right to privacy, and complying with the Personal Information Protection and Electronic Documents Act (“PIPEDA”) and applicable provincial privacy legislation. We have prepared this Privacy Statement to let you know about the manner in which we collect, use, disclose and otherwise manage the personal information you entrust to us in connection with one of our magazine publications, Canadian House & Home or Maison & Demeure (the “HHM Magazine”), and the corresponding website located at houseandhome.com or maisonetdemeure.com (the “Website”).
 
