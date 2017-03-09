@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plandisc.com privacy policy that was archived on 2016-08-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160824185049id_/http%3A//plandisc.com/about-us/privacy-and-confidentiality-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plandisc.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309081729id_/http%3A//plandisc.com/about-us/privacy-and-confidentiality-policy) for the most accurate reproduction.*
 
 # Privacy and Confidentiality Policy - Plandisc
 
