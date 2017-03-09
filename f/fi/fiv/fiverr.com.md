@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fiverr.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231114812id_/https%3A//www.fiverr.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fiverr.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309105631id_/https%3A//www.fiverr.com/privacy-policy) for the most accurate reproduction.*
 
 # Fiverr's Privacy Policy
 
@@ -28,7 +28,8 @@ Fiverr (including Fiverr Inc., Fiver International Ltd. and its affiliates) resp
 
 When you register to the Site we ask you to provide certain personal information, including a valid email address, location and username. We may collect additional information such as physical address and additional authentication information, to provide you with the services you need (such as payment or withdrawal of funds, sending physical goods), or to ensure the marketplace integrity (for example, prevention of fraud). We collect information to provide better services and enhanced user experience to all of our Users.
 
-In addition, we collect information while you access, browse, view or otherwise use the Site. In other words, when you access the Site we are aware of your usage of the Site, and may gather, collect and record the information relating to such usage, including geo-location information, IP address, device and connection information, browser information and web-log information, and all communications recorded by Users through the Site. We use that information to enhance user experience, personalize your browsing experience as well as monitor the Site for fraud and inappropriate content or behavior. We may also collect supplemental information obtained from third parties such as demographic and navigation data.
+In addition, we collect information while you access, browse, view or otherwise use the Site. In other words, when you access the Site we are aware of your usage of the Site, and may gather, collect and record the information relating to such usage, including geo-location information, IP address, device and connection information, browser information and web-log information, and all communications recorded by Users through the Site. We use that information to enhance user experience, personalize your browsing experience as well as monitor the Site for fraud and inappropriate content or behavior. We may also collect supplemental information obtained from third parties such as demographic and navigation data.  
+Additionally, in order to improve your online experience at Fiverr, we have implemented impression reporting. While you view our ads, we may gather user Global Unique Identifier, http request data like, user agent, ip, host, url, country/continent from which request made, browser info, device/operating system/operating system version.
 
 Once you register, your username and additional information regarding your activity is made public and is visible to all Users of the Site. This information includes photos you upload, your published portfolio, Gig information, ratings, and additional information you may choose to add to your profile.
 
@@ -62,7 +63,7 @@ When you visit the Site, we may use industry-wide technologies such as "cookies"
 
 ### Blocking Cookies
 
-You may set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. However, it's important to remember that many of our services may not function properly if your cookies are disabled. For example, cookies may, in certain cases, save you from the need to enter usernames and passwords, and allow session continuity.
+You may set your browser to block all cookies, including cookies associated with our services, or to indicate when a cookie is being set by us. Information on deleting or controlling cookies is also available at [www.aboutcookies.org](http://www.aboutcookies.org/) (note that this website is not provided by Fiverr, and we therefore cannot ensure its accuracy, completeness or availability). It is important to remember that many of our services may not function properly if your cookies are disabled. For example, cookies may, in certain cases, save you from the need to enter usernames and passwords, and allow session continuity.
 
 ### Security
 
