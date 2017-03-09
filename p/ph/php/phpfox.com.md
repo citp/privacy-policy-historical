@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the phpfox.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226233423id_/https%3A//www.phpfox.com/terms/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phpfox.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309043406id_/https%3A//www.phpfox.com/terms/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -12,7 +12,7 @@ Your privacy is important to us. To better protect your privacy we provide this 
 
 ## The Information We Collect
 
-This notice applies to all information collected or submitted on any of Moxi9 websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
+This notice applies to all information collected or submitted on any of phpFox websites. On some pages, you can order products, make requests, and register to receive materials. The types of personal information collected at these pages are:
 
   * Name
   * Email
