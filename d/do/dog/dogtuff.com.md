@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dogtuff.com privacy policy that was archived on 2016-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160429204935id_/http%3A//www.dogtuff.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogtuff.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309205900id_/https%3A//www.dogtuff.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at DogTuff.com
 
@@ -48,7 +48,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 This online privacy policy applies only to information collected through our website and not to information collected offline.
 
  **Terms and Conditions**  
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.dogtuff.com/cms.php?id_cms=3
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at https://www.dogtuff.com/cms.php?id_cms=3
 
  **Your Consent**  
 By using our site, you consent to our web site privacy policy.
