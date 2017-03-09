@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the commandwindows.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729220759id_/http%3A//commandwindows.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the commandwindows.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309154106id_/https%3A//commandwindows.com/privacy.html) for the most accurate reproduction.*
 
 # commandwindows.com | Privacy Policy
 
