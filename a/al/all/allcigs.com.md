@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allcigs.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624184103id_/http%3A//allcigs.com/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allcigs.com privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309035919id_/http%3A//www.allcigs.com/en/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy - Allcigs.com
 
