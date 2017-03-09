@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bigw.com.au privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214025438id_/https%3A//www.bigw.com.au/help/privacy-policy-content) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bigw.com.au privacy policy that was archived on 2017-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170309045420id_/https%3A//www.bigw.com.au/help/privacy-policy-content) for the most accurate reproduction.*
 
 # Privacy Policy | BIG W
 
