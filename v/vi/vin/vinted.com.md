@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vinted.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514132007id_/https%3A//www.vinted.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vinted.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310010911id_/https%3A//www.vinted.com/privacy-policy) for the most accurate reproduction.*
 
 # Vinted Inc. Privacy Policy
 
-**Date of last revision: April  12, 2016**
+**Date of last revision: September 27, 2016**
 
 Vinted Inc. (“Vinted”) is committed to protecting the privacy and security of your personal information. We want to share with you how we treat personal information about you that we receive in connection with your use of our website and mobile applications (collectively, the “Site”).
 
@@ -40,7 +40,7 @@ We do not respond to, or take any specific action in connection with the receipt
 
 **Accessing & Updating Your Information**
 
-You are free to access the personal information we have on file by contacting our Customer Service department using our [contact form](https://www.vinted.com//help/new). In addition, at any time you can request that we modify or delete your personal information by contacting the team through our contact forum with the words “UPDATE MY INFORMATION” in body of your message. Please be aware that, to protect your security and privacy, Vinted may take reasonable steps to verify your identity prior to making changes to your personal information. For your information, please note that it is our practice to monitor and in some cases record calls for staff training and quality assurance purposes.
+You are free to access the personal information we have on file by contacting our Customer Service department using our [contact form](https://www.vinted.com//help/new). In addition, at any time you can request that we modify or delete your personal information by contacting the team through our contact forum with the words “UPDATE MY INFORMATION” in body of your message. Please be aware that, to protect your security and privacy, Vinted may take reasonable steps to verify your identity prior to making changes to your personal information. 
 
 **How We Use the Information We Collect and Who We Share It With**
 
@@ -84,12 +84,5 @@ The Site and Services may change from time to time. As a result, it may be neces
 
 If you have any questions or concerns relating to this Privacy Policy, please contact us by clicking [here](https://www.vinted.com//help) or using the information below:
 
-**Vinted Inc.,**
-
-**Attn: Privacy Office,**
-
-**535 Mission  St, 14th floor, **
-
-**San Francisco  **
-
-**CA 94105**
+**PO BOX 210640    
+San Francisco, CA, 94121**
