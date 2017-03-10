@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the condecosoftware.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318065838id_/http%3A//www.condecosoftware.com/todo/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the condecosoftware.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310081125id_/http%3A//www.condecosoftware.com/todo/misc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Condeco Software US
 
