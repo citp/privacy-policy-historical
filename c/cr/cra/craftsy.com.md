@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the craftsy.com privacy policy that was archived on 2016-09-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160930105006id_/http%3A//www.craftsy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the craftsy.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310063550id_/https%3A//d3otgmjhy4llet.cloudfront.net/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy | Craftsy: Learn It. Make It.
-
-Date of Last Revision – September 10, 2014
+# Privacy Policy
 
 Sympoz Inc., a Delaware corporation with its principal place of business at 999 18th Street, Suite 240, Denver, CO 80202 ("Sympoz") is the owner and operator of the websites [www.sympoz.com](http://www.sympoz.com/), [www.craftsy.com](http://www.craftsy.com/) and such other URLs as may be designated in the future (the "Websites"). Sympoz is committed to protecting the online privacy of visitors to the Websites. The privacy policy set forth below (this "Policy") applies only to the Websites and online services provided by Sympoz. The purpose of this Policy is to inform you about the types of information we gather about you when you visit our Websites, how we may use that information, and how we may disclose it to third parties. This Policy also covers our treatment of any information about you that our third-party business partners share with us or that we share with our third-party business partners. This Policy does not apply to the practices of third parties that we do not own or control, including but not limited to any third party websites, services and applications ("Third Party Services") that you elect to access through the Websites or to individuals that we do not manage or employ. While we attempt to enable access only to those Third Party Services that share our respect for your privacy, we cannot take responsibility for the content or privacy policies of those Third Party Services. Please make sure to review the privacy policies of any Third Party Services you access.
 
@@ -60,9 +58,9 @@ YOU HEREBY ACKNOWLEDGE THAT SYMPOZ IS NOT RESPONSIBLE FOR ANY INTERCEPTED INFORM
 
 4\. Children Under 13
 
-The Websites are not designed for use by children under age 13. We do not knowingly collect any personal information from individuals under the age of 13, and therefore we do not knowingly distribute such information to third parties.
+The Websites are not designed for use by children under age 13. We use commercially reasonable best efforts to avoid the collection of any personal information from individuals under the age of 13. We do not knowingly collect any personal information from individuals under the age of 13, and therefore we do not knowingly distribute such information to third parties.
 
-If you learn that your child or a minor under the age of eighteen has provided us with his/her personal information, please contact us and we will disable that information.
+If you learn that your child or a minor under the age of thirteen has provided us with his/her personal information, please contact us and we will disable that information.
 
 5\. Links
 
