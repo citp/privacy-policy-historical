@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehumansolution.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122174754id_/http%3A//www.thehumansolution.com/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehumansolution.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310161009id_/http%3A//www.thehumansolution.com/privacypolicy.html) for the most accurate reproduction.*
 
 # We take your privacy seriously | The Human Solution
 
@@ -35,7 +35,7 @@ If after you opt-in, you change your mind, you may withdraw your consent for us 
 
 #### Section 3: Disclosure
 
-We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
+We may disclose your personal information if we are required by law to do so or if you violate our [Terms of Service.](http://www.thehumansolution.com/terms-of-service.html)
 
   
 
