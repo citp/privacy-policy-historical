@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rangeme.com privacy policy that was archived on 2015-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151115201211id_/http%3A//www.rangeme.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangeme.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310162756id_/https%3A//www.rangeme.com/privacy) for the most accurate reproduction.*
 
-# RangeMe: Online Product Discovery for Retail Buyers
+# RangeMe Privacy Policy
 
 This Privacy Policy explains how information about you is collected, used and disclosed by RangeMe USA LLC. (“RangeMe”). This Privacy Policy applies to information we collect when you use our website and purchase any of our products or services (collectively, the “Services”) or when you otherwise interact with us.
 
@@ -80,8 +80,8 @@ You may opt out of receiving promotional emails from RangeMe by following the in
 
  **Your California Privacy Rights**
 
-California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at hello@rangeme.com. However, please note that under the law, Services such as ours that permit California residents to opt in to, or opt out of, this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure. To opt out of having information about you shared with third parties for direct marketing purposes, please contact[ support@rangeme.com](mailto:support@rangeme.com).
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. If you are a California resident and would like to make such a request, please contact us at questions@rangeme.com. However, please note that under the law, Services such as ours that permit California residents to opt in to, or opt out of, this type of sharing are not required to provide such information upon receiving a request, but rather may respond by notifying the user of his or her right to prevent the disclosure. To opt out of having information about you shared with third parties for direct marketing purposes, please contact[ support@rangeme.com](mailto:support@rangeme.com).
 
 #### Contact Us
 
-If you have any questions about this Privacy Policy, please contact us at:[ hello@rangeme.com](mailto:hello@rangeme.com).
+If you have any questions about this Privacy Policy, please contact us at:[ questions@rangeme.com](mailto:questions@rangeme.com).
