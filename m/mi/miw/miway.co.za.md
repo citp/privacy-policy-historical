@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the miway.co.za privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216224819id_/https%3A//www.miway.co.za/terms-of-use%23cookieFocus) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miway.co.za privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310095348id_/https%3A//www.miway.co.za/terms-of-use%23cookieFocus) for the most accurate reproduction.*
 
 # Terms of Use | MiWay Insurance Company | Insurance Companies | MiWay.co.za
 
