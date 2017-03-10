@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012033734id_/http%3A//www.swift.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swift.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310100707id_/https%3A//www.swift.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - June 2015 | SWIFT
 
@@ -24,7 +24,6 @@ We may modify this Statement from time to time. Please check it periodically for
 This Statement only applies to the processing of personal data collected by us on our websites. Our other data processing activities are covered by other SWIFT policies. They are:
 
   * The [SWIFT Personal Data Protection Policy](https://www.swift.com/about-us/legal/compliance/data-protection-policies): it explains how we process our customer contact details (when collected on our websites - this part is common to this Statement - or on paper) and personal data that our customers encapsulate in SWIFT messages or files (“message data”). Where relevant for the purposes of this Statement, we will explicitly refer to that Policy.
-  * The [SWIFT Safe Harbor Policy](https://www.swift.com/node/11286): it explains how we mirror message data in our US Operating Centre. It is not relevant for the purposes of this Statement.
   * The [SWIFT Data Retrieval Policy](https://www.swift.com/about-us/legal/compliance/data-protection-policies): it explains how we retrieve, use, and disclose message and traffic data. It is not relevant for the purposes of this Statement.
 
 
@@ -97,6 +96,10 @@ Cookies are small pieces of information that are stored by your browser on your 
 The third-party add-ons that we use to collect statistics of our sites’ resources usage may also rely on cookies for their operation.
 
 The information stored with cookies may include your name, first name, registration number on [http://www.swift.com/](https://www.swift.com/) , language preference, login ID, and IP addresses.
+
+SWIFT with registered office at Avenue Adèle 1, B-1310 La Hulpe, Belgium is committed to protecting your privacy needs. This Cookie Policy explains which and for which purposes cookies (and other similar devices) are used by SWIFT when using [www.swift.com](http://www.swift.com/).
+
+Language  English 
 
 ### Web Acceleration Services
 
