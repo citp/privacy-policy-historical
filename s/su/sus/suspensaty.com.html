@@ -1,16 +1,16 @@
-<!--The following is the downloaded HTML source of the suspensaty.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119131359id_/http%3A//suspensaty.com/pages/about/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the suspensaty.com privacy policy that was archived on 2017-03-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170310223211id_/http%3A//suspensaty.com/pages/about/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta charset="utf-8">
 	<!--[if IE]><![endif]-->
 	<title>About Suspensaty</title>
 	<base href="http://suspensaty.com/">
-	<meta name="description" content="">			<link rel="stylesheet" href="http://static.suspensaty.com/styles/style5.css">
+	<meta name="description" content="">		    <link rel="stylesheet" href="http://static.suspensaty.com/styles/style5.css">
 	<link rel="stylesheet" href="http://static.suspensaty.com/styles/webtvs.css">
 		<link rel="stylesheet" href="http://static.suspensaty.com/styles/webtvs/suspensaty.css">
 	
-	<script async="" src="//cdn.taboola.com/libtrc/bitlanders-network/loader.js"></script><script type="text/javascript" async="" src="https://d31qbv1cthcecs.cloudfront.net/atrk.js"></script><script async="" src="//www.google-analytics.com/ga.js"></script><script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
+	<script async="" src="//cdn.taboola.com/libtrc/bitlanders-network/loader.js"></script><script async="" src="//www.google-analytics.com/ga.js"></script><script src="https://code.jquery.com/jquery-1.12.0.min.js"></script>
 
 	
 			<script src="http://static.suspensaty.com/js/player.js?v=3"></script>
@@ -24,13 +24,7 @@
 		fa_readVacCookie();
 	</script>
 	<meta property="og:image" content="http://static.suspensaty.com/">	
-	<!-- Start Alexa Certify Javascript -->
-<script type="text/javascript">
-_atrk_opts = { atrk_acct:"0k1Xm1a4KM+24B", domain:"suspensaty.com",dynamic: true};
-(function() { var as = document.createElement('script'); as.type = 'text/javascript'; as.async = true; as.src = "https://d31qbv1cthcecs.cloudfront.net/atrk.js"; var s = document.getElementsByTagName('script')[0];s.parentNode.insertBefore(as, s); })();
-</script>
-<noscript><img src="https://d5nxst8fruw4z.cloudfront.net/atrk.gif?account=0k1Xm1a4KM+24B" style="display:none" height="1" width="1" alt="" /></noscript>
-<!-- End Alexa Certify Javascript -->  
+	
 		<script type="text/javascript">
 	  window._taboola = window._taboola || [];
 	  _taboola.push({article:'auto'});
@@ -126,7 +120,7 @@ video {
 		
 		<div id="player_wrap">
 			<div id="playerDiv">
-							</div>
+                                			</div>
 		</div>
 			</div>
 
@@ -134,18 +128,15 @@ video {
 			
 			<script type="text/javascript">
 
-		function displayIFrameBanner(url){
-		var adDiv = document.getElementById("adDiv");
-			adDiv.innerHTML = "<iframe src='" + url + "' border=0 frameborder=0 width=300 height=250 scrolling=no marginWidth=0 ><\/iframe>";
-	}
-	function setBannerHTML(banner_html){
-		var banner_parent = document.getElementById("adDiv");
-		banner_parent.innerHTML = banner_html;
-	}
 		
 		function fa_create_player(_) {
 
 			var so = new SWFObject('http://static.suspensaty.com/flash/daPlayer.swf','mpl',_.tw ,_.th , '8');
+
+			if (so.installedVer.major == 0) {
+				$.get("http://suspensaty.com/service.php?s=noflash&m=no flash installed&do=dfe");
+				console.log("no flash installed");
+							}
 
 			so.addParam("allowfullscreen","true");
 			so.addParam("allowScriptAccess", "always");
@@ -168,14 +159,13 @@ video {
 			so.addVariable("ADS_client_ip", "52.4.48.181");
 			so.addVariable("ADS_fallback","2");
 
-			
-					so.addVariable("ADS_YUM_EN","on");so.addVariable("ads_tm_en","off");so.addVariable("yum_pc","0");			so.addVariable("ad_chain", _.ac);
+						so.addVariable("ad_chain", _.ac);
 			so.addVariable("nlog", '1');
-												so.addVariable("ads_ctl", "88:96_US_1:5:80:165_US_20:57:46:163_US_100:103:62:175_US_50:168_US_100:131:154_US_50:113:44_US_100:116_US_100:87:54:63:89_US_3:115:134_US_5:91:180:61:82:138_US_100:101:86:132_US_100:100:42:144_US_50:169_US_100:106_US_100:107:140_US_50:111:129:112:118:148:58:38:117:177_US_5:51:48:94:108_US_50:77:65:121:170_US_100:110:53:97:95:98:93:92:105:90:31:109:104:141_US_5:83:119:50:68:72:2_US_100:71:52:137_US_100:114:153:127_US_100:73:43:85:1_US_100:60:155_US_100:74:6:126_US_100:135:99:178:64_US_100:84:102:21:81");						so.addVariable("page_id","home");			so.addVariable("site_id","14");									so.addVariable("uos",1);												so.addVariable("zone_id",14);
+																		so.addVariable("page_id","home");			so.addVariable("site_id","14");									so.addVariable("uos",1);												so.addVariable("zone_id",14);
 
 			so.write('playerDiv');
 		}
-									fa_create_player({tw:630, th:382, vw:630, vh:357, as:"true", file:"http://static.suspensaty.com/xml/webtv_14_fv.xml", qb: false, cb: true, ac:"STD"});
+									fa_create_player({tw:630, th:382, vw:630, vh:357, as:"true", file:"http://static.suspensaty.com/xml/webtv_14_fv.xml", qb: false, cb: true, ac:"CLEAN"});
 						</script>
 				
 	<article class="box">
@@ -279,35 +269,16 @@ video {
 </section>
 <aside id="rel">
 
-		
-		<div class="box adv">
-			<div class="OUTBRAIN" data-src="http://www.bitlanders.com" data-widget-id="AR_40" data-ob-template="Bitlanders"></div> 
-<script type="text/javascript" async="async" src="http://widgets.outbrain.com/outbrain.js"></script>		</div>
-			<br>
-		<div class="box adv">
-			<!-- START Suspensaty ROS US TAG -->
-<script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript" src="http://tags.pubgears.com/sspns1/ros/300x250?cb=' + Math.round(Math.random() * 100000) + '&domain=' + window.location.hostname + '"></scr' + 'ipt>');</script><script type="text/javascript" src="http://tags.pubgears.com/sspns1/ros/300x250?cb=61084&amp;domain=web.archive.org"></script>
-<!-- END Suspensaty ROS US TAG -->		</div>
 	
 </aside>						<div id="adTop" style="top:-175px">
 				
-									<!-- START Suspensaty ROS US TAG -->
-<script type="text/javascript">document.write('<scr' + 'ipt type="text/javascript" src="http://tags.pubgears.com/sspns1/ros/728x90?cb=' + Math.round(Math.random() * 100000) + '&domain=' + window.location.hostname + '"></scr' + 'ipt>');</script><script type="text/javascript" src="http://tags.pubgears.com/sspns1/ros/728x90?cb=41605&amp;domain=web.archive.org"></script>
-<!-- END Suspensaty ROS US TAG -->				
+				
 			</div>
 		</div>
 	</div>
 
 	<footer id="foot">
 
-					<div class="ads">
-				<div id="kmni_f0065fcb76821c91e46bc04a71f1583b"></div>
-<script type="text/javascript" src="//cdn.komoona.com/scripts/kmn_sa.js" async=""></script>
-<script type="text/javascript">
-    var kmn_tags = window.kmn_tags || [];
-    kmn_tags.push('f0065fcb76821c91e46bc04a71f1583b');
-</script>
-			</div>
 		
 	    <div class="wrp">
 	        <nav>
@@ -323,7 +294,7 @@ video {
 	    
 	</footer>
 
-	<script src="//c.fqtag.com/tag/implement-r.js?org=dq22xSrBHW9goiSC0lzi&amp;s=58305017e34a1&amp;p=14_US&amp;a=_&amp;cmp=_&amp;fmt=video&amp;rt=display&amp;sl=1"></script>
+	<script src="//c.fqtag.com/tag/implement-r.js?org=dq22xSrBHW9goiSC0lzi&amp;s=58c3296ba44b3&amp;p=14_US_BAD&amp;a=_&amp;cmp=_&amp;fmt=video&amp;rt=display&amp;sl=1"></script>
 		<div class="bitmiles"></div>
 	<script src="http://static.bitlanders.com/js/bitmiles.js"></script>
 
