@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shaqirhussyin.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202024453id_/http%3A//shaqirhussyin.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shaqirhussyin.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310132153id_/http%3A//shaqirhussyin.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Official Blog & Rants Of Dot Com Millionaire Shaqir Hussyin
 
