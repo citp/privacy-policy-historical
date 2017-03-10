@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the salesbenchmarkindex.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908183039id_/https%3A//salesbenchmarkindex.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salesbenchmarkindex.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310201943id_/https%3A//salesbenchmarkindex.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Sales Benchmark Index
+
+At Sales Benchmark Index, we recognize that privacy is important. This Policy applies to all of the products, services, websites and apps offered by Sales Benchmark Index (collectively, Sales Benchmark Index’s “Services”). 
 
 Sales Benchmark Index adheres to the US safe harbor privacy principles of Notice, Choice, Onward Transfer, Security, Data Integrity, Access and Enforcement.
 
