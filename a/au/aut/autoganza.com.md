@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autoganza.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120091754id_/http%3A//autoganza.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autoganza.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310090930id_/http%3A//autoganza.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | AutoGanza
 
@@ -57,9 +57,3 @@ If by chance another company obtains the assets in the business of AutoGanza, we
 Service Customization
 
 Target advertising to users is provided by the information collected about users. This is to allow all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
-
-Third-Parties
-
-Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
-
-We use third-party advertising companies to serve ads and collect data when you visit our website. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see: http://www.networkadvertising.org/managing/opt_out.asp
