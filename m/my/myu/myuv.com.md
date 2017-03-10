@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myuv.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012201604id_/https%3A//www.myuv.com/en/us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myuv.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310150801id_/https%3A//www.myuv.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | UltraViolet
 
@@ -27,7 +27,7 @@ Information you provide directly to us. For certain activities, such as when you
 
 Information we obtain from your use of the Services. We may collect certain information automatically when you use our Services, such as rights information (including, for example, movie or TV show title information, retailer information, and purchase date), your Internet protocol (IP) address, device identifiers, browser type, operating system, software and settings information, resolution, Internet service provider, webpages that you visit before and after using the Services, search terms, the date and time of your visit, information about the links you click and pages you view within the Services, and other standard server log information. 
 
-We may use cookies, pixel tags, and similar technologies to automatically collect this information. To learn more about our use of cookies, please read our [Cookie Policy](https://web.archive.org/en/us/cookie-policy). **By using the Services, you consent to our use of cookies and similar technologies.**
+We may use cookies, pixel tags, and similar technologies to automatically collect this information. To learn more about our use of cookies, please read our [Cookie Policy](https://web.archive.org/Consent/Text/US/urn:dece:type:policy:CookiePolicy/html/Current/). **By using the Services, you consent to our use of cookies and similar technologies.**
 
 Some web browsers may transmit "do-not-track" signals to websites with which the user communicates, although web browsers incorporate and activate this functionality in different ways, and it is not always clear whether users intend for these signals to be transmitted. There currently is disagreement among the leading Internet standards-setting organizations concerning what, if anything, websites should do when they receive such signals. Consequently, we may not take action in response to these signals.
 
@@ -39,7 +39,7 @@ We use and combine the information we collect to:
   * Communicate with you about the Services and products and services of our partners, including through promotional and marketing e-mails, mailings, and notifications;
   * Analyze your use of the Services to understand and improve the Services;
   * Store your user preferences and customize the content you see when you use the Services;
-  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms of Use](https://web.archive.org/en/us/terms); and
+  * Prevent potentially prohibited or illegal activities and otherwise in accordance with our [Terms of Use](https://web.archive.org/Consent/Text/US/urn:dece:type:policy:TermsOfUse/html/Current/); and
   * For any other purposes disclosed to you at the time we collect your information or pursuant to your consent.
 
 
@@ -61,11 +61,11 @@ We are committed to maintaining your trust, and we want you to understand when a
 
 We use reasonable administrative, technical, and physical measures to help safeguard information from loss, theft, misuse and unauthorized access, disclosure, alteration, and destruction and other unauthorized data processing. No data storage system or transmission of data over the Internet or any other public network, however, can be guaranteed to be 100% secure. 
 
-You may change your settings (such as changing your password, removing users, or closing your UltraViolet Library) by visiting [myuv.com](https://www.myuv.com/). You also may unlink Participating Services and change other settings by accessing the “Linked Services” section of [myuv.com](https://www.myuv.com/). 
+You may change your settings (such as changing your password, removing users, or closing your UltraViolet Library) by visiting myuv.com. You also may unlink Participating Services and change other settings by accessing the “Linked Services” section of myuv.com. 
 
 You have the right to ask us not to use your personal information for direct marketing purposes. When we send you commercial emails, we include an unsubscribe method (usually found at the bottom of the email) that you may use to opt out of receiving future commercial messages. You also may opt out of receiving commercial emails by contacting legal@decellc.com. 
 
-You may access and correct inaccuracies in the personal information we have collected about you by using the UltraViolet Library settings provided on [myuv.com](https://www.myuv.com/) or emailing us at legal@decellc.com. We will use reasonable efforts to supply or correct personal information about you that we maintain. As permitted by law, we may charge a nominal fee for information requests and require you to establish your identity before providing you access to the requested information. 
+You may access and correct inaccuracies in the personal information we have collected about you by using the UltraViolet Library settings provided on myuv.com or emailing us at legal@decellc.com. We will use reasonable efforts to supply or correct personal information about you that we maintain. As permitted by law, we may charge a nominal fee for information requests and require you to establish your identity before providing you access to the requested information. 
 
 We take reasonable steps to ensure that we retain information about you only for so long as is necessary for the purpose for which it was collected, or as required under any contract or by applicable law.
 
