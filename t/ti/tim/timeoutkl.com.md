@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127155757id_/http%3A//www.timeout.com/kuala-lumpur/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timeoutkl.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310153349id_/https%3A//www.timeout.com/kuala-lumpur/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Time Out Kuala Lumpur
 
@@ -58,3 +58,5 @@ Malaysia
 Tel: +6 03-2166 6650  
 Fax: +6 03-2166 6651  
 Web: [www.mongooseasia.com](http://www.mongooseasia.com/ "Mongoose Publishing")
+
+### Comments
