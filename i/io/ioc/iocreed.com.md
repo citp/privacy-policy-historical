@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iocreed.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229212615id_/http%3A//www.iocreed.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iocreed.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310012404id_/http%3A//www.iocreed.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Iocreed
 
@@ -26,10 +26,10 @@ We are planning to use Google Adsense Ads on Iocreed. The advertising Policy wil
 
 ### Comments Policy
 
-Users need to enter their name, email address and message (compulsary) and Website (Optional) to make a comment on Iocreed.
+Users need to enter their name, email address and message (mandatory) and Website (Optional) to make a comment on Iocreed.
 
 Once the comment is approved by the administrators the Name, Email ID and the comment get stored in the database till the time an administrator deletes that specific comment.
 
 If a user wants his comment and the related data to be deleted from our website, he / she can shoot a mail at: singh.ashw1061@gmail.com or ashwani@iocreed.com
 
-### Privacy Policy  ©Iocreed.com 2012-2014
+### Privacy Policy  ©Iocreed.com 2012-2017
