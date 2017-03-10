@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the persistiq.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128152203id_/https%3A//persistiq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the persistiq.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310184242id_/https%3A//persistiq.com/privacy) for the most accurate reproduction.*
 
 # PersistIQ
 
