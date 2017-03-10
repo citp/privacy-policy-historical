@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the team17.com privacy policy that was archived on 2016-10-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161007023814id_/https%3A//www.team17.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the team17.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310232744id_/https%3A//www.team17.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Team17 Digital Limited
 
