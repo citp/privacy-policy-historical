@@ -1,10 +1,11 @@
-<!--The following is the downloaded HTML source of the enterprise.co.uk privacy policy that was archived on 2016-10-10.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161010120112id_/https%3A//www.enterprise.co.uk/en/privacy-policy.html%3Ficid%3Dfooter.legal-_-privacy-_-ENGB.NULL) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the enterprise.co.uk privacy policy that was archived on 2017-03-10.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170310170217id_/https%3A//www.enterprise.co.uk/en/privacy-policy.html%3Ficid%3Dfooter.legal-_-privacy-_-ENGB.NULL) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     
+<!-- 10.49.196.58 -->
 
-<!--Fri Oct 07 15:45:30 CDT 2016 -->
+<!--Fri Mar 10 11:02:17 CST 2017 -->
 
 
 
@@ -17,34 +18,35 @@
 
 
     <!--[if IE]>
-    <link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/main-ie.min.css" type="text/css"/>
+    <link rel="stylesheet" href="/etc/designs/ecom/clientlibs2017-02-15-17-42/main-ie.min.css" type="text/css"/>
 
     <![endif]-->
 
 <!--[if !IE]><!-->
 
     
-<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/main.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2017-02-15-17-42/main.min.css" type="text/css">
 
 
 
 <!--<![endif]-->
 
     
-<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/icons.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2017-02-15-17-42/icons.min.css" type="text/css">
 
 
 
 
-<link rel="stylesheet" media="all" href="/etc/designs/ecom/dist/css/static.css?v=2016-10-04-11-43">
+<link rel="stylesheet" media="all" href="/etc/designs/ecom/dist/css/static.css?v=2017-02-15-17-42">
 
-<link rel="stylesheet" media="print" href="/etc/designs/ecom/dist/css/print.css?v=2016-10-04-11-43">
+<link rel="stylesheet" media="print" href="/etc/designs/ecom/dist/css/print.css?v=2017-02-15-17-42">
 
 <!-- Keep it empty for basepage -->
 
 
     
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2017-02-15-17-42/jquery.min.js"></script>
+
 
 
 
@@ -72,7 +74,9 @@
         defaultLanguageCode: "en",
         pricingOrderDisplayTotalFirst: true,
         aem: {
-            path: "/en"
+            path: "/en",
+            homePath: "",
+            defaultReservePath: "https://www.enterprise.co.uk/en/reserve.html"
         },
         comarch: {
             path: "https://enterpriseplus.enterprise.co.uk/group/ehi/"
@@ -94,18 +98,16 @@
         prepayUrl: {
             path: "https://sps.farepayment.com/chdp/html/register"
         },
-        epPaymentPanguiUrl: {
-            path: ""
-        },
         age: [{"value":"25","label":"25","selected":false},{"value":"26","label":"26","selected":false},{"value":"27","label":"27","selected":false},{"value":"28","label":"28","selected":false},{"value":"29","label":"29","selected":false},{"value":"30","label":"30+","selected":true}],
         acceptPrivacyRequired: false,
         hidePrepay: false,
         hideRedemption: false,
         hideRedemptionModify: true,
         hidePrepayModify: false,
+        prepayType: "modal",
         inResEnrollment: true,
         disableIpRedirect: false,
-        hideEpPaymentOptions: false,
+        hideCreditCard: true,
         fareOfficeFormId: "2",
         defaultPaymentOption: "paynow",
         exoticCarsUrl: "https://exoticcars.enterprise.co.uk",
@@ -127,7 +129,17 @@
             "": 'costCenter',
             "": 'employeeId',
             "": 'requisitionNo'
-        }
+        },
+        prepayNACreditCards: {
+            "": 'Mastercard',
+            "": 'Visa',
+            "": 'Credit Card',
+            "": 'American Express',
+            "": 'Eurocard',
+            "": 'Bankcard'
+        },
+        googleMapsClientID: "gme-enterpriseholdings1",
+		googleMapsChannel: "Enterprise_NA"
     };
 
     enterprise.settings = {
@@ -137,6 +149,7 @@
             safari: 8,
             chrome: 51
         },
+        panguiTimeout: 30000, // 30 seconds
         browserClientSideRedirect: true,   // @todo: make dynamic feature flag
         browserClientSideDetection: true,       // @todo: are we doing a client-side browser detection?
         browserServerSideDetection: true,   // @todd: are we doing server-side detection?
@@ -144,15 +157,13 @@
     };
     enterprise.settings.browserUpgradeUrl = enterprise.aem.path + '/' + enterprise.settings.browserUpgradeUrl;
     enterprise.languagesByDomain = {"ecom":["en_us","es_us"],"co-ca":["en_ca","fr_ca"],"co-uk":["en_gb"],"co-ie":["en_gb"],"co-de":["de_de","en_gb"],"co-fr":["fr_fr","en_gb"],"co-es":["es_es","en_gb"]};
+
 </script>
 
-
-    <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
-    <!-- This is prod -->
-    <script src="//assets.adobedtm.com/637ae9c62c9fe0a9a2fd27b1350da0b838190621/satelliteLib-64715503a5c3f03a9c38350e5a8825412fb1d39a.js"></script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
 
 
-
+<script src="//assets.adobedtm.com/637ae9c62c9fe0a9a2fd27b1350da0b838190621/satelliteLib-64715503a5c3f03a9c38350e5a8825412fb1d39a.js" :=""></script>
 
 <!--[if gte IE 9]>
 <style type="text/css">
@@ -180,7 +191,7 @@
 <meta property="og:url" content="https://www.enterprise.co.uk/en/privacy-policy.html">
 
 
-
+<meta name="apple-itunes-app" content="app-id=1020641417">
 
 
 
@@ -208,20 +219,22 @@
         <div class="header-nav">
             <div class="header-nav-left">
                 <div class="logo header-nav-item">
+                    <!-- TODO: Remove this fedex-exclusive div when the customHomeUrl is able to point to fedex landing page -->
                     
                     
-                        <a class="header-logo-link" href="/en.html">
+                        <a class="header-logo-link" href="https://www.enterprise.co.uk/en/home.html">
                             <img src="/content/dam/ecom/logo-enterprise-rent-a-car.png" alt="enterprise">
                         </a>
                     
                     
                 </div>
                 <div class="mobile-logo header-nav-item">
+                    <!-- TODO: Remove this fedex-exclusive div when the customHomeUrl is able to point to fedex landing page -->
                     
                     
-                        <a class="header-logo-link" href="/en.html">
+                        <a class="header-logo-link" href="https://www.enterprise.co.uk/en/home.html">
                             <i class="icon icon-nav-mobile-e-icon-white"></i>
-                            <span>Enterprise</span>
+                            <span class="is-vishidden">Enterprise</span>
                             
                         </a>
                     
@@ -229,20 +242,21 @@
                 <div id="codebanner-container" class="header-nav-item"></div>
             </div>
             <div class="header-nav-right">
-                <nav class="header-nav-item" id="utility-nav">
-        <ul class="utility-nav">
-          <li tabindex="-1" class="career-section">
+                <nav class="header-nav-item" id="utility-nav" aria-label="Utility Menu">
+        <ul class="utility-nav" role="menu">
+          <li class="career-section" role="presentation">
             <div class="careerlink career">
-<a role="menuitem" href="https://www.enterprisealive.co.uk/?cm_mmc=EnterpriseWebsite-_-Header-_-info.careers-_-ENGB" target="_blank">Careers</a></div>
+<a role="menuitem" href="https://www.enterprisealive.co.uk/?cm_mmc=EnterpriseWebsite-_-Header-_-info.careers-_-ENGB" target="_blank">Careers</a>
+</div>
 </li>
-          <li class="help">
+          <li class="help" role="presentation">
               <div class="help">
-<div role="button" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="contactInfo">
+<div role="menuitem" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="contactInfo">
 	<span class="utility-nav-label">Help</span>
 	<i class="icon icon-utility-notch"></i>
 </div>
 <div id="contactInfo" class="utility-nav-content col-2">
-	<fieldset role="menu">
+	<fieldset>
 		
 			<div class="field-container">
 				<div class="title">Customer Support</div>
@@ -260,10 +274,10 @@
 </div>
 </div>
 </li>
-          <li class="currency">
+          <li class="currency" role="presentation">
               
 
-    <div role="button" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="currencySelector" data-currency="gbp">
+    <div role="menuitem" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="currencySelector" data-currency="gbp">
         <span class="utility-nav-label">GBP (£)
         </span>
         <i class="icon icon-utility-notch"></i>
@@ -318,11 +332,11 @@
 <script>
     var CurrencySelectorModule = (function ($) {
         var $radioGroup,
-                $currencyLabel,
-                $currencyNode,
-                endpointPrefix = enterprise.services.path,
-                endpoint = endpointPrefix + "/changecurrency/",
-                credentials = (endpointPrefix !== enterprise.solr.path) ? true : false;
+            $currencyLabel,
+            $currencyNode,
+            endpointPrefix = enterprise.services.path,
+            endpoint = endpointPrefix + "/changecurrency/",
+            credentials = (endpointPrefix !== enterprise.solr.path) ? true : false;
 
         function init() {
             var cookieCurrency = getCookie();
@@ -330,7 +344,7 @@
             $radioGroup = $("input[name='currency']");
             $currencyNode = $(".currency");
             $currencyLabel = $currencyNode.find('.utility-nav-label');
-            enterprise.selectedCurrency = $currencyLabel.data('currency');
+            enterprise.selectedCurrency = $radioGroup.filter(':checked').val();
             attachListeners();
 
             if (cookieCurrency) {
@@ -422,10 +436,10 @@
               <a href="/en/account.html">Sign In</a>
           </div>
       </div>
-    <nav class="header-nav-item" id="mobile-nav" aria-expanded="false">
+    <nav class="header-nav-item" id="mobile-nav" aria-label="Mobile Menu">
         <ul class="mobile-nav">
             <li class="primary-nav-toggle">
-                <button id="mobile-toggle" aria-label="Explore Enterprise Menu Options">
+                <button id="mobile-toggle" aria-label="Explore Enterprise Menu Options" aria-expanded="false" aria-controls="primary-nav">
                     <i class="icon icon-hamburger-white"></i>
                 </button>
             </li>
@@ -434,10 +448,10 @@
 
     <div class="mobile-utility header-nav-item">
         <div class="help mobilehelp"><div class="mobile-utility-item">
-    
+    <a href="/en/help/contact-us-old.html">
         <i class="icon icon-nav-assistance-1-white"></i>
         Contact Us
-    
+    </a>
 </div>
 </div>
 <div class="mobilecurrencyselector currency">
@@ -493,7 +507,9 @@
 
             </div>
         </div>
-        <div class="nav-container"><nav class="nav" id="primary-nav">
+        <div class="nav-container">
+            <div><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys primarynavpar"><div class="primarynav section"><nav class="nav" id="primary-nav" aria-label="Sub-Menu">
     <ul class="primary-nav active-cols-6" role="menu">
         <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-rent"><div class="primary-nav-label">Hire</div>
 <div class="primary-nav-content">
@@ -803,6 +819,10 @@
     </ul>
 </nav>
 </div>
+</div>
+</div>
+</div>
+        </div>
     </div>
 
 </header>
@@ -1087,9 +1107,10 @@
 </div>
     <footer class="cf">
 	<div class="logo">
-		<a href="/en.html"><img src="/content/dam/ecom/logo-enterprise-rent-a-car.png" alt="Enterprise"></a>
+		<a href="https://www.enterprise.co.uk/en/home.html"><img src="/content/dam/ecom/logo-enterprise-rent-a-car.png" alt="Enterprise"></a>
 	</div>
-<nav class="nav" id="footer-nav">
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys footernavpar"><div class="footer section"><nav class="nav" id="footer-nav" aria-label="Site Map">
         <div class="g g-4up">
              <div class="gi">
                 <div class="footermenu footer-1"><div class="hide">RESERVATIONS</div>
@@ -1273,6 +1294,16 @@
       		    <a target="_blank" href="http://www.enterprisealive.co.uk?cm_mmc=EnterpriseWebsite-_-Footer-_-company.careers-_-ENGB">Careers</a>
       	    </li>
         	</ul>
+      <div class="hide">Human Rights Policy</div>
+        <h2 class="title-static">Human Rights Policy</h2>
+        <div tabindex="0" role="button" class="title-interactable" aria-haspopup="true" aria-controls="HumanRightsPolicy-list" aria-expanded="false">
+          Human Rights Policy</div>
+
+        <ul id="HumanRightsPolicy-list">
+      		<li>
+      		    <a class="loyalty-not-available" href="/content/dam/ecom/hosted/UKMSA-Disclosure_Statement-UK_Rent-A-Car_UK_Ltd.pdf">United Kingdom Modern Slavery Act Disclosure Statement</a>
+      	    </li>
+        	</ul>
       </div>
 </div>
              <div class="gi">
@@ -1322,14 +1353,14 @@
         	</ul>
       </div>
 <div class="gettheapp"><div class="get-app">
-    <p>Get the Enterprise Mobile App</p>
+    <p></p>
     <div class="badge-icon">
-      <a target="_blank" class="badge-icon-link" href="http://appstore.com/EnterpriseRentACar">
+      <a target="_blank" class="badge-icon-link">
         <img alt="Apple" src="/etc/designs/ecom/dist/img/vector-icons/app-store-icons/en_gb.svg">
       </a>
     </div>
     <div class="badge-icon">
-      <a target="_blank" class="badge-icon-link" href="https://play.google.com/store/apps/details?id=com.ehi.enterprise.android">
+      <a target="_blank" class="badge-icon-link">
         <img alt="Google" src="/etc/designs/ecom/dist/img/raster-icons/google-play-icons/en_gb.png">
       </a>
     </div>    
@@ -1394,7 +1425,9 @@
 				
 					
 					<li>
-						<a target="_blank">© 2016 Enterprise Holdings, Inc.
+						<a target="_blank">© 2016 Enterprise Holdings, Inc.<br>
+<br>
+<br>
 							
 						</a>
 					</li>
@@ -1409,12 +1442,15 @@
 	</div>
 </div>
 </div>
+</div>
+</div>
+</div>
 
 
 
 
 </footer>
-    <div class="modal-container">
+    <div class="modal-container" aria-hidden="true">
         <div class="modal-content">
             <div class="modal-header">Enterprise
                 <button class="close-modal">☓</button>
@@ -1430,48 +1466,46 @@
     
         
     
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/prod-libs.min.js"></script>
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2017-02-15-17-42/prod-libs.min.js"></script>
 
 
 
     
     
 
-    <script src="/en.i18nmap.js?v=2016-10-04-11-43"></script>
+    <script src="/en.i18nmap.js?v=2017-02-15-17-42"></script>
 
     
-      
-    
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/home.min.js"></script>
-
-
-
 
       
     
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/nav.min.js"></script>
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2017-02-15-17-42/home.min.js"></script>
 
 
 
 
-      
-    
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/content.min.js"></script>
-
-
-
-
-      
     
 
     
 
+    
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2017-02-15-17-42/nav.min.js"></script>
+
+
+
 
     
-        <!-- This is prod -->
-        <script>_satellite.pageBottom();</script>
     
-    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2017-02-15-17-42/content.min.js"></script>
+
+
+
+
+
+    <script>_satellite.pageBottom();</script>
+
+
 
 
 
