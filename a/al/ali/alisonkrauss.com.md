@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the alisonkrauss.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121203608id_/http%3A//alisonkrauss.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alisonkrauss.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310195003id_/https%3A//alisonkrauss.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Alison Krauss
 
-###### Privacy Policy
+#### Privacy Policy
 
 **Alison Krauss** has created this privacy statement in order to demonstrate our firm commitment to protecting the privacy of our, and our clients’, website visitors, and online community participants. The following discloses our information gathering and dissemination practices. If you choose not to consent to this Privacy Statement, you may not use this website. Further, this policy is subject to change at any time with or without notice at the sole discretion of Alison Krauss, so you should re-read it periodically.
 
-###### 1\. How We Use Collected Information
+##### 1\. How We Use Collected Information
 
 Server Logs.
 
@@ -22,28 +22,28 @@ If you send us information voluntarily, such as through personal correspondence,
 
 In addition to using your information as described above, we also may occasionally send you email announcing special promotions, changes in our services, and other information we believe will be of interest to you. You may opt out of receiving any future mailings by clicking on **“Unsubscribe”** located at the bottom of all emails sent via Mailchimp email marketing. We cannot ensure that all of your private communications and other personally identifiable information will never be disclosed in ways not otherwise described in this Privacy Statement. For example, we may be forced to disclose information to the government or third parties under certain circumstances without your consent, or third parties may unlawfully intercept or access transmissions or private communications. We can (and you authorize us to) disclose any information about you to law enforcement or other government officials as we, in our sole discretion, believe necessary or appropriate in connection with an investigation of fraud, intellectual property infringements, or other activity that is illegal or may expose us to legal liability. However, we will not use your information for marketing purposes outside of the sites you have registered for. We do not sell or rent our list of users past or present to any third party without your consent.
 
-###### 2\. Linked Websites
+##### 2\. Linked Websites
 
 For your convenience, the websites contain links to other sites. Please be aware that Alison Krauss is not responsible for the privacy practices or content of such other websites, which may differ significantly from our own. We encourage our users to be aware when they leave our websites and to read the privacy statements of each and every web site that collects personally identifiable information. This privacy statement applies solely to information collected by our websites.
 
-###### 3\. Security
+##### 3\. Security
 
 The websites have procedural security measures in place to protect the loss, misuse and alteration of the information under our control. Only authorized individuals have access to your information. Notwithstanding these efforts, we caution you that “perfect security” does not exist on the Internet.
 
-###### 4\. A Special Note About Children
+##### 4\. A Special Note About Children
 
 This website is a general audience site and is not directed to or intended for use by children under the age of 13. To ensure compliance with federal law, this website does not knowingly collect or maintain personal information provided by children under the age of 13. If a child under the age of 13 has provided personal information in violation of the website access restrictions, a parent or guardian of that child must contact us immediately at contact@alisonkrauss.com so we can promptly remove such information from our records.
 
-###### 5\. Your California Privacy Rights
+##### 5\. Your California Privacy Rights
 
 California Civil Code Section 1798.83, also known as the “Shine The Light” law, permits our customers who are California residents to request and obtain from us once a year, free of charge, information about the personal information (if any) we disclosed to third parties for direct marketing purposes in the preceding calendar year. If applicable, this information would include a list of the categories of personal information that was shared and the names and addresses of all third parties with which we shared information in the immediately preceding calendar year. If you are a California resident and would like to make such a request, please submit your request in writing to:
 
-###### Online Privacy Coordinator
+##### Online Privacy Coordinator
 
 c/o Alison Krauss  
 4322 Harding Pike, Suite 429  
 Nashville, TN 37205
 
-###### 6\. Contacting Us 
+##### 6\. Contacting Us 
 
 If you have any questions about this Privacy Statement, the practices of this websites, or your dealings with these websites, you may email us at contact@alisonkrauss.com.
