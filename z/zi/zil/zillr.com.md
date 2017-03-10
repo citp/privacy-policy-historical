@@ -1,117 +1,66 @@
-> *The following text is extracted and transformed from the zillr.com privacy policy that was archived on 2011-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20111231204038id_/http%3A//www.zillr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zillr.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310043059id_/http%3A//econowire.com/privacy) for the most accurate reproduction.*
 
-# ZillR :: Privacy Policy
+# Econowire.com | Contact Us
 
-[](http://www.zillr.com/)   » 
+This Privacy Policy governs the manner in which Econowire collects, uses, maintains and discloses information collected from users (each, a “User”) of the Econowire.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Econowire. via Econowire.com.
 
-## Privacy Policy
+### Personal identification information
 
-  
-This is a privacy policy for ZillR. Our homepage on the Web is located at [http://www.zillr.com.](http://www.zillr.com/) The full text of our privacy policy is available on the web at [policy URL not specified] Users may go to for information on how to opt-in or opt-out of use of their information.
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, phone number. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-We invite you to contact us if you have questions about this policy. You may contact us by mail at the following address:
+### Non-personal identification information
 
-ZillR.Com  
-#544,Top Floor Sector 70  
-Mohali, Punjab 160071   
-India 
+We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
 
-You may contact us by e-mail at [support@zillr.com](mailto:support@zillr.com). You may call us at +919872913245. 
+### Web browser cookies
 
-## Dispute Resolution and Privacy Seals
+Our Site may use “cookies” to enhance User experience. User’s web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
 
-  
-We have no privacy seals or other assurance mechanisms. 
+### How we use collected information
 
-## Additional Information
+Econowire.com collects and uses Users personal information for the following purposes:
 
-  
-This policy is valid until 31 Dec, 2009 at 12:00:00 EST.
+  * To personalize user experience  
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
+  * To improve our Site  
+We continually strive to improve our website offerings based on the information and feedback we receive from you.
+  * To improve customer service  
+Your information helps us to more effectively respond to your customer service requests and support needs.
+  * To process transactions  
+We may use the information Users provide about themselves when listing domain names for brokerage and in receiving offers or inquiries about listed domain names. This information may be shared with other listing services and brokers for the purpose of acting on your inquiry.
+  * To share your information with third parties  
+We may share information with third parties for marketing or other purposes.
+  * To send periodic emails  
+The email address Users provide to us will only be used to send them information and updates pertaining to their listings and/or inquiries. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.
 
-## Data Collection
 
-  
-P3P policies declare the data they collect in groups (also referred to as "statements"). This policy contains 2 data groups. The data practices of each group will be explained separately.
 
-**Group "Basic information"**
+### How we protect your information
 
-We collect the following information:
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-* Click-stream data
-* HTTP protocol elements
-* Search terms
+### Sharing your personal information
 
-This data will be used for the following purposes:
+We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys. We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-* Completion and support of the current activity.
-* Web site and system administration.
-* Research and development.
+### Third party websites
 
-This data will be used by ourselves and our agents.
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website’s own terms and policies.
 
-The following explanation is provided for why this data is collected:  
-      Data collected from all Web users: access logs, and search strings (if entered).
+### Advertising
 
-## Group "Cookies"
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-  
-At the user's option, we will collect the following data:
-* HTTP cookies
+### Changes to this privacy policy
 
-This data will be used for the following purposes:
+Econowire.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-* Research and development.
-* One-time tailoring.
+### Your acceptance of these terms
 
-This data will be used by ourselves and our agents.
+By using this Site, you signify your acceptance of this policy. If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
-The following explanation is provided for why this data is collected:
+### Contacting us
 
-      Cookies are used to track visitors to our site, so we can better understand what portions of our site best serve you.
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please [contact us](http://econowire.com/contact/)
 
-## Cookies
-
-  
-Cookies are a technology which can be used to provide you with tailored information from a Web site. A cookie is an element of data that a Web site can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it.  
-Our site makes use of cookies. Cookies are used for the following purposes:  
-
-* User targeting
-* Research and development
-
-## Compact Policy Summary
-
-  
-The compact policy which corresponds to this policy is:  
-     CP="ALL CURa ADMa DEVa TAIa OUR BUS IND UNI COM NAV INT" 
-
-The following table explains the meaning of each field in the compact policy.
-
-**Field** | **Meaning**  
----|---  
-CP= | This is the compact policy header; it indicates that what follows is a P3P compact policy.  
-|   
-ALL  | Access to all collected information is available.  
-CURa | The data is used for completion of the current activity.  
-ADMa | The data is used for site administration.  
-DEVa | The data is used for research and development.  
-TAIa | The data is used for tailoring the site.  
-OUR | The data is given to ourselves and our agents.  
-BUS | Our business practices specify how long the data will be kept.  
-IND | The data will be kept indefinitely.  
-UNI | Unique identifiers are collected.  
-COM | Computer information is collected.  
-NAV | Navigation and clickstream data is collected.  
-INT | Interactive data is collected.  
-  
-The compact policy is sent by the Web server along with the cookies it describes. For more information, see the P3P deployment guide at [http://www.w3.org/TR/p3pdeployment.](http://www.w3.org/TR/p3pdeployment)
-
-## Policy Evaluation
-
-  
-Microsoft Internet Explorer 6 will evaluate this policy's compact policy whenever it is used with a cookie. The actions IE will take depend on what privacy level the user has selected in their browser (Low, Medium, Medium High, or High; the default is Medium. In addition, IE will examine whether the cookie's policy is considered satisfactory or unsatisfactory, whether the cookie is a session cookie or a persistent cookie, and whether the cookie is used in a first-party or third-party context. This section will attempt to evaluate this policy's compact policy against Microsoft's stated behavior for IE6. 
-
-**Note:** this evaluation is currently experimental and should not be considered a substitute for testing with a real Web browser. 
-
-**Satisfactory policy:** this compact policy is considered satisfactory according to the rules defined by Internet Explorer 6. IE6 will accept cookies accompanied by this policy under the High, Medium High, Medium, Low, and Accept All Cookies settings. 
-
-_ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ _ 
+This document was last updated on February 25, 2017
