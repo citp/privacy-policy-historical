@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solrepublic.com privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015031525id_/http%3A//solrepublic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solrepublic.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310210935id_/https%3A//www.solrepublic.com/privacy-policy) for the most accurate reproduction.*
 
-# SolRepublic.com | Privacy Policy | SOL REPUBLIC
+# SOL REPUBLIC • Privacy Policy | SOL REPUBLIC
 
 Protecting your privacy is important to SOL Republic. We strive to keep your personal information confidential. By ensuring that you are aware of and understand the SOL Republic Customer Privacy Policy, we can provide you with better service. Please take a moment to read the following policy to learn how we handle your personal information.
 
