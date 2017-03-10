@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the glasswire.com privacy policy that was archived on 2015-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150320115409id_/https%3A//www.glasswire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glasswire.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310142453id_/https%3A//www.glasswire.com/privacy) for the most accurate reproduction.*
 
 # GlassWire Privacy Policy
 
@@ -8,7 +8,7 @@ GlassWire is committed to protecting your privacy by collecting only the minimum
 
 **Does GlassWire see or collect my network or graph data?**
 
-GlassWire does not ever see or collect any of your GlassWire network or graph data.  Your network and graph data stays on your computer and is never sent to our GlassWire servers. Our business model is to sell our premium GlassWire software, not to collect or sell your data to advertisers.
+GlassWire does not ever see or collect any of your GlassWire network or graph data. Your network and graph data stays on your device and is never sent to our GlassWire servers. Our business model is to sell our premium GlassWire software, not to collect or sell your data to advertisers.
 
 **What information does GlassWire collect?**
 
@@ -16,15 +16,19 @@ GlassWire collects information from you when you register on our website or foru
 
 When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information.
 
-  * GlassWire Installation
+  * GlassWire Installation Process
 
-When installing GlassWire our installer will contact GlassWire.com so we can know how many installs of our software have occurred. This helps us estimate how many users we have. If we did not count installs of GlassWire we wouldn’t know how many users we have. Thank you for allowing us to count you as a GlassWire user.
+When installing or uninstalling GlassWire’s desktop software, our installer will contact GlassWire.com so we can know how many installs of our software have occurred. This helps us estimate how many users we have. If we did not count installs of GlassWire we wouldn’t know how many users we have. Thank you for allowing us to count you as a GlassWire user. Our mobile software does not contact GlassWire.com at all because we use the installation stats provided by the Google Play Android store.
 
-After installing GlassWire you may notice on GlassWire's graph that GlassWire itself contacts GlassWire.com around once per day. GlassWire checks for software updates that may contain important security fixes and also updates its suspicious host list. GlassWire can block itself from accessing the Internet however if you do so then you may not know about important software updates and your suspicious host list may no longer be up to date. Please note our suspicious host list does not come from GlassWire users. We can never see your network data.
+After installing GlassWire for the PC you may notice on GlassWire's graph that GlassWire itself contacts GlassWire.com around once per day. GlassWire for the desktop checks for software updates that may contain important security fixes and also updates its suspicious host list. GlassWire can block itself from accessing the Internet however if you do so then you may not know about important software updates and your suspicious host list may no longer be up to date. Please note our suspicious host list does not come from GlassWire users. We can never see your network data. Our mobile software does not contact GlassWire.com at all because it has no suspicious host lists and it updates through the Google Play Android store.
 
   * Google Analytics on GlassWire.com
 
 Google, as a third party vendor, uses cookies to check website stats. Google's use of the DART cookie enables it to serve ads to your users based on their visit to your sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy.
+
+  * GlassWire Activation Codes (Desktop Only)
+
+GlassWire Basic, Pro, Elite and other paid desktop products sometimes use activation codes to unlock GlassWire's paid features. When activating GlassWire Basic, Pro, or Elite the GlassWire software will contact GlassWire.com and check to see if the activation code should be authenticated or not and to see how many machines are using that code.
 
 
 
@@ -33,20 +37,18 @@ Google, as a third party vendor, uses cookies to check website stats. Google's u
 
 Any of the information we collect from you may be used in one of the following ways:
 
-  * To personalize your experience
+  * To personalize your experience  
 (Your information helps us to better respond to your individual needs. For example if we notice a lot of users from France installing GlassWire or visiting our website we may decide to add a French translation of our software.) 
-  * To improve our website
+  * To improve our website  
 (We continually work to improve our website offerings based on the information and feedback we receive from you.) 
-  * To improve customer service
+  * To improve customer service  
 (Your information helps us to more effectively respond to your customer service requests and support needs.) 
-  * To process transactions
+  * To process transactions  
 We may share your information with third parties who deal with secure transaction billing, for example a billing company or credit card company. We don't process transactions on our servers or store billing data there. 
-  * To administer a contest, promotion, survey or other site feature
-  
-
-  * To send periodic emails
+  * To administer a contest, promotion, survey or other site feature 
+  * To send periodic emails  
 The email address you provide for order processing, may be used to send you information and updates pertaining to your order, in addition to receiving occasional company news, updates, related product or service information, etc.   
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.   
+Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
 
 
 
@@ -64,14 +66,18 @@ We use cookies to help us remember and process the items in your shopping cart, 
 
 **Does GlassWire disclose any information to outside parties?**
 
-We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe the release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. For example we use Google Analytics to check stats for our website.
+We do not sell, trade, or otherwise transfer to outside parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, so long as those parties agree to keep this information confidential. We may also release your information when we believe the release is appropriate to comply with the law, enforce our site policies, or protect ours or others rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses. For example we use Google Analytics to check stats for our website. We also list our mobile software in the Google Play Android store which has its own separate privacy policy.
 
 **Third party website links**
 
 Sometimes, at our discretion, we may include or offer third party products or services on our website. These third party sites have separate and independent privacy policies. We therefore have no responsibility or liability for the content and activities of these linked sites. Nonetheless, we seek to protect the integrity of our site and welcome any feedback about these sites.
 
+**Cleverbridge Billing**
+
+We use a billing company called Cleverbridge to bill our paid desktop software version. We do not collect any credit card information or store it on our own servers. If you do not buy our software you will not use Cleverbridge at all, but if you do buy our software you can review Cleverbridge's privacy policy here. Cleverbridge is based in Germany but also has offices in the United States and Japan.
+
 **Consent**
 
-By using our site or software, you consent to our online privacy policy and software [license agreement/EULA](https://web.archive.org/web/20150320115409id_/https://www.glasswire.com/license).
+By using our site or software, you consent to our online privacy policy and software [license agreement/EULA](https://web.archive.org/license/).
 
-_Last Updated: Oct 13, 2014_
+_Last Updated: February 10, 2017 – Changed PC to "Device" along with other minor description changes to prepare for our mobile app release._
