@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usimprints.com privacy policy that was archived on 2016-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160316061217id_/https%3A//www.usimprints.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usimprints.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310235646id_/https%3A//www.usimprints.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | USimprints
 
