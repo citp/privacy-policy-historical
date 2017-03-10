@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the starone.org privacy policy that was archived on 2016-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160704163949id_/https%3A//starone.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the starone.org privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310100940id_/https%3A//www.starone.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Star One Credit Union
 
