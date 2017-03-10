@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the uploadable.ch privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315014435id_/http%3A//www.uploadable.ch/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the uploadable.ch privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310203812id_/https%3A//www.bigfile.to/privacypolicy.php) for the most accurate reproduction.*
 
-# Uploadable.ch - #1 Easy & Fast File Storage
+# Bigfile.to - #1 Easy & Fast File Storage
 
-This privacy policy (hereafter referred to as "Policy") explains how personally identifiable information is collected, used and disclosed by uploadable.ch ("we" or "us") with respect to your access and use of Uploadable's online file storage and sharing service located at www.uploadable.ch , (hereafter referred to as the "Service"), so you can make a well informed decision about using the Service.
+This privacy policy (hereafter referred to as "Policy") explains how personally identifiable information is collected, used and disclosed by bigfile.to ("we" or "us") with respect to your access and use of bigfile's online file storage and sharing service located at www.bigfile.to , (hereafter referred to as the "Service"), so you can make a well informed decision about using the Service.
 
 We reserve the right to change the provisions of this Policy at any time. We will alert you that changes have been made by indicating on this Policy the date it was last updated. If we make any material changes we will notify you by email (sent to the email address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to review this Policy from time-to-time to make sure that you fully understand how any personally identifiable information you provide to us or collected about you will be used.
 
@@ -37,13 +37,13 @@ We use personally identifiable information collected through the Service for the
 
 We will not knowingly share the personally identifiable information we collect from you through the Service with third-parties, except as described in this Policy or on the Service. For example, we may share personally identifiable information in the following circumstances:
 
-  1. With vendors, consultants, and other service providers such as a credit card processing company (to bill you for services), a forum provider (for hosting our public forums), and an email service provider to send out emails on our behalf (?�Service Providers??. When you sign up for our services we will share your personal information only as necessary to the third parties required to provide the Service.
+  1. With vendors, consultants, and other service providers such as a credit card processing company (to bill you for services), a forum provider (for hosting our public forums), and an email service provider to send out emails on our behalf ("Service Providers"). When you sign up for our services we will share your personal information only as necessary to the third parties required to provide the Service.
   2. When you give us your consent to do so, including if we notify you on the Service that the information you provide will be shared in a particular manner and you provide such information.
   3. In an aggregated or anonymous form that does not directly identify you.
   4. When we believe in good faith that we are lawfully authorized or required to do so, or that doing so is reasonably necessary, or appropriate to comply with the law, or legal processes, or to respond to lawful requests or legal authorities including, but not limited to, responding to lawful subpoenas, warrants, or court orders.
-  5. When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of Uploadable including our users and employees as well as copyright owners, third-parties or the public. This also extents to protecting Uploadable. or our users from fraudulent, abusive, inappropriate, or otherwise unlawful use of the Service.
+  5. When we believe in good faith that we are lawfully authorized or required to do so or that doing so is reasonably necessary or appropriate to protect the rights, property, or safety of bigfile including our users and employees as well as copyright owners, third-parties or the public. This also extents to protecting bigfile. or our users from fraudulent, abusive, inappropriate, or otherwise unlawful use of the Service.
   6. To enforce or apply this Policy, the Terms, or our other policies or agreements.
-  7. In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition. Or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of Uploadable. By using this Service you automatically give consent in the understanding that any information you provide, gain access to or share with other individuals through the Service will be available to other users and in some cases may be publicly available.
+  7. In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition. Or in any other situation where personally identifiable information may be disclosed or transferred as one of the business assets of bigfile. By using this Service you automatically give consent in the understanding that any information you provide, gain access to or share with other individuals through the Service will be available to other users and in some cases may be publicly available.
 
 
 
@@ -51,14 +51,14 @@ We are not responsible for the actions of Service Providers or other third-parti
 
 * ## Access to Personally Identifiable Information
 
-If your personally identifiable information changes, or if you no longer desire to make use of our Service, you may correct, update or delete your information as you see fit by making the change in your Uploadable account profile or by emailing our Customer Support at . We will respond to your request to access within 30 days.  
+If your personally identifiable information changes, or if you no longer desire to make use of our Service, you may correct, update or delete your information as you see fit by making the change in your bigfile account profile or by emailing our Customer Support at . We will respond to your request to access within 30 days.  
 If you wish to request the deletion of an unauthorized profile that is using your personal information you may contact us at .
 
 Please note that we will only retain your information for as long as your account is active or as needed, in order to provide you with our services. We will retain and use your information as necessary in compliance with our legal obligations or to resolve disputes and enforce our agreements.
 
 * ## Links to Other Websites
 
-The Service may contain links to other websites. Any personally identifiable information you provide on the linked pages is provided directly to that third-party and is subject to that third-party's individual Privacy Policy. Please note that this Policy for Uploadable does not apply to such linked websites, and we are not responsible for the content, privacy, security practices and policies of these websites or any other websites that are linked to/from the Service. We strongly encourage you to become familiar with third-party their privacy and security practices / policies before providing them with personally identifiable information.
+The Service may contain links to other websites. Any personally identifiable information you provide on the linked pages is provided directly to that third-party and is subject to that third-party's individual Privacy Policy. Please note that this Policy for bigfile does not apply to such linked websites, and we are not responsible for the content, privacy, security practices and policies of these websites or any other websites that are linked to/from the Service. We strongly encourage you to become familiar with third-party their privacy and security practices / policies before providing them with personally identifiable information.
 
 * ## What Steps Do We Take To Protect Your Information Online?
 
