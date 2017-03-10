@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotjoomlatemplates.com privacy policy that was archived on 2015-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151211140400id_/http%3A//www.hotjoomlatemplates.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotjoomlatemplates.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310233551id_/https%3A//www.hotjoomlatemplates.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - HotThemes
 
