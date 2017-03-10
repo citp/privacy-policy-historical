@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618193801id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mommybunch.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310200749id_/http%3A//mommybunch.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | The Mommy Bunch
+# Privacy Policy
 
 At The Mommy Bunch ([http://mommybunch.com](http://mommybunch.com/)), the privacy of our visitors is extremely important. This Privacy Policy outlines the types of personal information that is received and collected and how it is used.
 
