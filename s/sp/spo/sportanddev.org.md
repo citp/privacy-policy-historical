@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the sportanddev.org privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807042558id_/http%3A//www.sportanddev.org/en/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportanddev.org privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310061932id_/https%3A//www.sportanddev.org/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy : International Platform on Sport and Development
+# Privacy Policy | sportanddev.org
 
-1\. About this privacy policy  
 This Privacy Policy covers the International Platform on Sport & Development (the ‘Platform’)’s treatment of personally identifiable information that we collect when you are on the Platform website or when you use the Platform’s services.
 
 2\. Information Collection and Use  
@@ -14,7 +13,7 @@ The website administrators also have access to your personal information, but th
 
 3\. Information Sharing and Disclosure  
 We will not sell or rent your personally identifiable information to anyone.   
-You can contact us directly with questions or comments regarding the services or to request additional information by writing to info@sportanddev.org. By writing to us, we require you to provide certain personal information (such as your email address) so that we may respond to your inquiry.
+You can contact us directly with questions or comments regarding the services or to request additional information by writing to [info@sportanddev.org](https://www.sportanddev.org/en/void%280%29%3B/%2A1220880655797%2A/). By writing to us, we require you to provide certain personal information (such as your email address) so that we may respond to your inquiry.
 
 For distribution purposes, you also provide personally identifiable information if you request materials from us. We may also use this information to determine the level of interest our products and services. We may use your personal information to get in touch with you regarding the status of your online requests for services or any additional information you requested. 
 
