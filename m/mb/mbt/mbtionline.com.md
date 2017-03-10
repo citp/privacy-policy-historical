@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mbtionline.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412125343id_/https%3A//assessment.mbtionline.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mbtionline.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310202719id_/https%3A//assessment.mbtionline.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# Privacy Policy - MBTIonline.com
+# MBTI Online | The Myers-Briggs Personality Test
 
-Effective Date: July 1, 2014
+Updated March 01, 2016
 
 This website is owned and operated by CPP, Inc. ( **“CPP”** , **“we”** , or **“us”** ). We work diligently to protect the privacy, confidentiality, and security of the Personal Information that we receive. This Privacy Policy describes the principles and practices that apply to the Personal Information (defined below) that we collect from individuals online or offline (“visitor” or “you”), such as individuals who browse through our Site (defined below), register on the Site, use the services provided on the Site, interact with the Site, communicate with us through telephone, email, text or other communications means, participate in our interviews, surveys, or promotions, or read or receive our newsletters. 
 
@@ -255,6 +255,6 @@ or
 (1) 650-969-8901  
 By mail: CPP, Inc.  
 Legal Department  
-1055 Joaquin Road, Suite 200  
-Mountain View, CA 94043  
+185 N Wolfe Rd,  
+Sunnyvale, CA 94086  
 USA 
