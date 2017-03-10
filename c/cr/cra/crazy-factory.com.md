@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crazy-factory.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012050257id_/https%3A//www.crazy-factory.com/en-GB/i/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crazy-factory.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310065707id_/https%3A//www.crazy-factory.com/en-GB/i/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crazy Factory online piercing shop
 
@@ -36,9 +36,3 @@ The following data will be stored for every access:
 
 
 IP addresses will not be stored and no personal user profiles created. The stored data is used only to optimize our shop and product range.
-
-Support
-
-### Live Chat
-
-Get your questions answered immediately by an English-speaking member of our team. No special software required.
