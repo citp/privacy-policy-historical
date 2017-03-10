@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the timesalert.com privacy policy that was archived on 2016-05-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160513224524id_/http%3A//timesalert.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the timesalert.com privacy policy that was archived on 2017-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170310095241id_/https%3A//timesalert.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Privacy Policy is furnished with an intent to make our users aware of usage of information, gathering and transfer of data provided by website. Our prime motto is to serve our users and we strictly abide to maintain confidential user data. We have discussed in detail every privacy policy in an attempt to serve our visitors so there might not be any misuse or misinterpretation of information provided on the website. We recommend our users to strictly go through our privacy policy guidelines before visiting accessing website. Privacy policy is subject to change without any prior information, Stay updated with periodical updates.
+Privacy Policy is furnished with an intent to make our users aware of the usage of information, gathering, and transfer of data provided by the website. Our prime motto is to serve our users and we strictly abide to maintain confidential user data. We have discussed in detail every privacy policy in an attempt to serve our visitors so there might not be any misuse or misinterpretation of information provided on the website. We recommend our users to strictly go through our privacy policy guidelines before visiting the accessing website. The privacy policy is subject to change without any prior information, Stay updated with periodical updates.
 
 **Log Files and Cookies**
 
@@ -10,16 +10,16 @@ Just like other websites “timesalert.com” also provides information in the f
 
 **Access Control**
 
-If you are a registered user of timesalert.com, we suggest you to store authentication credentials in a secure manner. As we are news publishing website you might be provide registration number along with other personal information. You can access our website in a secure manner and we commend our users not to disclose information to third party to receive uninterrupted service from us. If you feel an disappropriate usage of your account with out your convention, feel free to get it into our notice.
+If you are a registered user of timesalert.com, we suggest you store authentication credentials in a secure manner. As we are news publishing website you might provide registration number along with other personal information. You can access our website in a secure manner and we commend our users not to disclose information to the third party to receive uninterrupted service from us. If you feel a disappropriated usage of your account without your convention, feel free to get it into our notice.
 
 **Confidentiality and Security**
 
-If you wish to benefit services from us, one has to register with us with proper information. We maintain your data with utmost confidentiality and we recommend our visitors to provide accurate information. If we receive incorrect information while registering, account is prone to cancellation with out any prior notice.
+If you wish to benefit services from us, one has to register with us with proper information. We maintain your data with utmost confidentiality and we recommend our visitors to provide accurate information. If we receive incorrect information while registering, an account is prone to cancellation without any prior notice.
 
 **User Submission**
 
-“timesalert.com” is equipped with static and dynamic services as our servers might ask you to upload files. We recommend our users to upload files in the prescribed format and should have content related to the intent with which it was uploaded on website.
+“timesalert.com” is equipped with static and dynamic services as our servers might ask you to upload files. We recommend our users to upload files in the prescribed format and should have content related to the intent with which it was uploaded on the website.
 
 **Legal Objections**
 
-We strictly abide to the information provided on ‘terms and conditions’ everything featured on the website and our property rights are solely private to us. If any one sees inappropriate information which are violating any of your copyright rules you can inquire our process. If you have any concerns or issues which are not discussed in terms and conditions, we are eagerly waiting to hear from you and solve them.
+We strictly abide by the information provided on ‘terms and conditions’ everything featured on the website and our property rights are solely private to us. If anyone sees inappropriate information which is violating any of your copyright rules you can inquire our process. If you have any concerns or issues which are not discussed in terms and conditions, we are eagerly waiting to hear from you and solve them.
