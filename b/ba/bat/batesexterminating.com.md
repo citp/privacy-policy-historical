@@ -1,75 +1,65 @@
-> *The following text is extracted and transformed from the batesexterminating.com privacy policy that was archived on 2011-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20110630071614id_/http%3A//www.yellowbook.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the batesexterminating.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311210744id_/http%3A//www.batesexterminating.com/wp-content/uploads/2016/01/privacy-policy-20136193.pdf) for the most accurate reproduction.*
 
-# Yellowbook Privacy Policy at Yellowbook.com
+# Privacy Policy
 
-Yellowbook recognizes the importance of protecting your privacy. This Privacy Policy explains our policies and practices relating to the collection, use and storage of information provided to us by users of the Yellowbook.com website (the "Site").
+Privacy Policy
+This website is provided by Bates Exterminating
+Bates Exterminating recognizes the importance of protecting the privacy of personal and financial
+information. We have instituted strict policies and security measures to protect information we may
+collect from you. When you register online with Bates Exterminating or use our online bill paying or
+credit card provisions, you give us your consent to process and use your personal data in
+accordance with this online Privacy Policy. This Privacy Policy applies to all users of this Bates
+Exterminating website.
+What                     Information                     Bates                   Exterminating                     Collects
+Bates Exterminating collects personal information from visitors to the website who voluntarily submit their information when
+registering on the website or using the online store. We also collect non-personally identifying information such as IP
+addresses, and we use cookies (see more below) so we can improve our services and enhance your Bates Exterminating
+experience. Bates Exterminating does not collect personally identifiable information from anyone that it knows is under the
+age of eighteen. If you are under eighteen, please ask your parents to register and/or use the online store. Please do not
+submit any personal details if you are under eighteen years of age.
+How              Bates             Exterminating             Uses            Information             You             Provide
+If you give us your personal information, we may use this information to register you with our website, to administer our
+website services, and/or to process any orders you may place online. We will send you announcements or communications
+by e-mail only if you give us your permission to do so. You may opt out of receiving such communications by visiting our
+website and following the appropriate instructions. Otherwise, we use your information only to review our performance and
+to improve our services to you, or to communicate with you about your order if you have placed an online order.
+Does                  Bates         Exterminating         Share        Your         Information        With         Others?
+Bates Exterminating does not sell, rent or disclose our client's names, addresses, e-mail addresses or other personal
+information to any non-Bates Exterminating entity. Bates Exterminating may share client information within the Bates
+Exterminating organization, including other commonly-owned brands, so that you may be informed of other products that
+may be of interest to you. Further, in order to maintain our website and provide our client communications, Bates
+Exterminating contracts with selected third parties. As necessary, your personal information may be processed by these
+third parties, solely for the purpose of assisting Bates Exterminating in these endeavors and subject to strict contractual
+confidentiality obligations. We do not otherwise disclose your information to third parties, unless required by law or in
+connection with a legal claim or proceeding. If Bates Exterminating is acquired by or merges with another entity, information
+about Bates Exterminating clients and website users may be made available to that other entity.
+Security
+Bates Exterminating uses appropriate security measures to protect the information you give us. However, while we take all
+reasonable steps to protect your personal information, you accept that no Internet data transmission can be guaranteed to
+be secure from access by unintended recipients and agree that Bates Exterminating is not responsible for any breach of
+security unless this is due to our negligence.
+About                                                                                                               Cookies
+Cookies are small text files a web server can send through your computer's browser to your company's hard drive to assist
+with record-keeping purposes. We use cookies to ascertain which web pages are visited and how often, to make our web
+site more user friendly, and to give you a better experience when you return to the website. For example, cookies allow us to
+save your password so you do not have to re-enter it every time you visit our site. Most web browsers automatically accept
+cookies, but you do not have to accept them. To disable cookies, you should access the "help" tab on your browser or read
 
-## What information does Yellowbook collect?
 
-Yellowbook collects personal information that you knowingly provide to us. For example, Yellowbook may ask you to provide your contact information (such as name, address, email address, telephone number and account password) if you inquire about advertising with us, sign up for a free listing in a Yellowbook directory, register to post ratings and reviews, or otherwise contact us through the Site.
-
-In addition, as you use the Site, our web servers automatically retrieve certain information about your browsing activity such as IP address, domain name, browser agent and user access information such as number and duration of Site visits and pages visited.
-
-## How does Yellowbook use the information collected?
-
-When you provide personal information for a specific purpose (for example, registering to use a feature on the Site), we generally use it for that purpose.
-
-We may use personal information you provide to: communicate with you and to otherwise serve you. For example, we may use your name, address and email address to send you emails to (a) contact you regarding advertising services you have requested, (b) provide information about Yellowbook and our affiliates, including marketing information about products and services and newsletters, (c) conduct online surveys, (d) contact you in connection with user reviews, (e) publish your name, address, and phone number in our directories (unless you have asked us not to publish this information), and (f) otherwise communicate with you.
-
-We may retain and use emails or other communications you send to Yellowbook in order to process your inquiries, respond to your requests and improve our services.
-
-In addition, Yellowbook may use personal information you provide in combination with the information Yellowbook automatically collects through the Site to protect our property or other rights (for example, to enforce any policies or contractual provisions regarding copyright, use of the "ratings and reviews" feature or the "save and send" feature of the Site).
-
-## Information Sharing
-
-Yellowbook will not share your personal information with others except as indicated below. We may share personal information with others in the following limited circumstances:
-
-  * With other businesses with which we partner or which we carefully select to offer you products, services, and promotions through our Site.
-  * With other third parties in limited circumstances, such as complying with legal requirements, preventing fraud, and protecting the safety of our users.
-
-
-
-We may share aggregated, non-personal information about Site usage to improve on the quality of services we offer. We may also provide such aggregated data to our customers, business partners, or third-party vendors, in which case specific users will be anonymous. In addition, we may share your ratings and reviews with other businesses with which we partner.
-
-## What about cookies?
-
-Cookies are pieces of information that a website transfers to your computer's hard disk for record-keeping purposes. Cookies can make the internet more useful by storing information about your preferences on particular sites, thus enabling website owners to provide more useful features for their users. The use of cookies is an industry standard. Most browsers are initially set to accept cookies. If you would prefer, you can set your browser to refuse cookies. However, you may not be able to take full advantage of our Site if you do so.
-
-## Third Party Advertisers
-
-We use third-party companies to serve ads and/or collect non-personally identifiable information when you visit the Site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other websites in order to provide advertisements about goods and services of interest to you on this Site, other websites and other forms of media. These companies often use a cookie or third party web beacon to collect this information. If you would like more information about this practice and to know your choices about not having this information used by these companies, [click here](http://www.networkadvertising.org/managing/opt_out.asp).
-
-## Updating Personal Information; Opting Out
-
-You may review and request changes to the personal information you have provided to us by viewing and updating your account profile through the myYellowbook feature of the Site.
-
-You may request not to receive (i.e., "opt-out" of receiving) promotional email messages from us, by unchecking the checkbox beside the "I wish to receive updates and information from Yellowbook" line on the myYellowbook account registration page. Please note that we reserve the right to send certain types of email messages that are not subject to opt-out to users who have opted out of receiving email messages.
-
-## Links to Third Party Sites
-
-Links to external websites owned and operated by third parties ("Third Party Sites") may be presented in a format that enables Yellowbook to keep track of whether these links have been followed. This information is used in aggregated form to improve our services to Yellowbook users and advertisers.
-
-Yellowbook does not exercise control over Third Party Sites to which you may link from this Site. These Third Party Sites may place their own cookies or other files on your computer, or collect personal information from you. If you decide to access any such Third Party Site, you do so at your own risk, and we refer you to the privacy policy of such Third Party Site.
-
-## Security
-
-We implement a variety of security measures to maintain the safety of your personal information to protect against unauthorized access to or unauthorized alteration, disclosure or destruction of data. We restrict access to personal information to Yellowbook employees, contractors and agents who need to know that information in order to operate, develop or improve our services. These individuals are bound by confidentiality obligations and may be subject to discipline, up to and including termination and criminal prosecution, if they fail to meet these obligations.
-
-## Children's Online Privacy Protection Act Compliance
-
-Yellowbook.com is not designed to attract children under the age of 13, and we do not knowingly collect personal information from anyone under the age of 13.
-
-## Online Privacy Policy Only
-
-This online privacy policy applies only to information collected through Yellowbook.com and not to information collected offline.
-
-## Conditions of Use
-
-For information about the terms and conditions governing your use of our Site, please review the Yellowbook.com Conditions of Use at [http://www.yellowbook.com/conditionsofuse](http://www.yellowbook.com/conditionsofuse/).
-
-## Privacy Policy Updates
-
-We may occasionally update our Privacy Policy to reflect changes in our practices and services. If we make material changes in the way we collect, use, store or share your personal information, we will prominently post a notice of the changes on Yellowbook.com.
-
-  
-
+the information that came with your browser software. However, your visit to our website will be significantly enhanced if
+cookies are not disabled.
+Acceptance                  of               Privacy                Policy                 and                 Modifications
+By accessing and using the Bates Exterminating website, you consent to our collection, use and disclosure of your personal
+and non-personally identifying information as described in this Privacy Policy. Bates Exterminating reserves the right
+occasionally to make changes to its Privacy Policy or practices from time to time. You should therefore review this webpage
+occasionally and at least each time you use the online shop to get updated information. We will notify you of any changes in
+our Privacy Policy by posting the modifications on our website. Your continued use of this website following the posting of
+any amendment, modification or change shall constitute your acceptance thereof.
+Contact Us
+If you have any comments or queries regarding our Privacy Policy, please call or write to us at the following address:
+Bates Exterminating
+Mailing Address
+1311 Commerce Lane, Suite #16
+Jupiter, Florida 33458
+Phone: 561-746-2651
+Toll Free: 800-774-2651
