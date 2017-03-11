@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the twibbon.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229102311id_/http%3A//twibbon.com/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the twibbon.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311131249id_/https%3A//twibbon.com/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Twibbon
 
 Thank you for visiting an online service (e.g. website or mobile app) that posts a link to this Privacy Policy, owned or operated by Twibbon. This Privacy Policy will provide you with information as to how Twibbon collects, uses, and shares information about you, including the choices Twibbon offers with respect to that information, and applies to your use of any service, regardless of how you access or use it. For certain services, there may be additional notices about information practices and choices. Please read those additional privacy disclosures to understand how they apply to you.
 
-By visiting or otherwise using the service, you agree to the service's Terms & Conditions (http://twibbon.com/terms) and consent to Twibbon's collection, use, and disclosure practices, and other activities as described in this Privacy Policy, and any additional privacy statements that may be posted on an applicable part of the service. If you do not agree and consent, please discontinue use of the service, and uninstall service downloads and applications.
+By visiting or otherwise using the service, you agree to the service's Terms & Conditions (<http://twibbon.com/terms>) and consent to Twibbon's collection, use, and disclosure practices, and other activities as described in this Privacy Policy, and any additional privacy statements that may be posted on an applicable part of the service. If you do not agree and consent, please discontinue use of the service, and uninstall service downloads and applications.
 
 Twibbon is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this service, then you can be assured that it will only be used in accordance with this policy.
 
@@ -66,7 +66,7 @@ We use traffic log cookies to identify which pages are being used. This helps us
 
 We also use cookies for remarketing and retargeting purposes. The services we provide may include advertisements, which may be targeted to you via data provided by third party services including Google.com, Twitter.com or Facebook.com.
 
-Twibbon also makes use of Facebook and Twitter login, who store cookies that are required for us to allow you to support a campaign on Facebook or Twitter, or to create a profile on Twibbon.com, or to start a campaign on Twibbon.com. Both Facebook and Twitter have their own cookie policies which can be viewed at https://www.facebook.com/policies/cookies/ and at https://twitter.com/privacy respectively.
+Twibbon also makes use of Facebook and Twitter login, who store cookies that are required for us to allow you to support a campaign on Facebook or Twitter, or to create a profile on Twibbon.com, or to start a campaign on Twibbon.com. Both Facebook and Twitter have their own cookie policies which can be viewed at <https://www.facebook.com/policies/cookies/> and at <https://twitter.com/privacy> respectively.
 
 Overall, cookies help us provide you with a better website and user experience, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us.
 
