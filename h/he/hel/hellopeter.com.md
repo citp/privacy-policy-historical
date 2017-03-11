@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hellopeter.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019123910id_/https%3A//hellopeter.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hellopeter.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311214938id_/https%3A//www.hellopeter.com/legal/privacy) for the most accurate reproduction.*
 
 # hellopeter.com Legal | hellopeter.com
 
@@ -191,7 +191,3 @@ This Privacy Notice shall be governed and interpreted in accordance with the law
 For more information on your rights to privacy over your information, or the information processing activities of Hellopeter, please do not hesitate to contact us directly on legal@hellopeter.com or alternatively contact (021) 418-6666. 
 
 
-
-#### You Need to be Signed in to Write a Review
-
-#### Sign in to publish your review
