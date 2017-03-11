@@ -1,136 +1,82 @@
-> *The following text is extracted and transformed from the wealthinabox.com privacy policy that was archived on 2014-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140918044308id_/http%3A//www.surveysathome.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wealthinabox.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311222148id_/http%3A//www.wealthinabox.com/privacy.php) for the most accurate reproduction.*
 
-# Surveys At Home - Get Paid For What You Think!
+# Wealth In A Box 2.0
 
-> **PRIVACY POLICY**
-> 
-> Your privacy is very important to us. We want to make your experience on the Internet as enjoyable and rewarding as possible, and we want you to use the Internet's vast array of information, tools, and opportunities with complete confidence. 
-> 
-> We have created this Privacy Policy to demonstrate our firm commitment to privacy and security. This Privacy Policy describes how our company collects information from all end users of our Internet services (the "Services")-those who access some of our Services but do not have accounts ("Visitors") as well as those who may purchase Products and/or pay a monthly service fee to subscribe to the Service ("Members")-what we do with the information we collect, and the choices Visitors and Members have concerning the collection and use of such information. We request that you read this Privacy Policy carefully. 
-> 
-> **Personal Information Our Company Collects and How It Is Used**
-> 
-> Introduction. Our company collects information in different ways from Visitors and Members who access the various parts of our Services and the network of Web sites accessible through our Service. 
-> 
-> Registration:  Members may be asked to provide certain personal information when they sign up for our Products or Services including name, address, telephone number, billing information (such as a credit card number), and the type of personal computer being used to access the Services. The personal information collected from Members during the registration process is used to manage each Member's account (such as for billing purposes). This information may be shared with third parties, as stated herein, or in special circumstances. 
-> 
->  However, in instances where our company and a partner jointly promote our Services, we may provide the partner certain personal information, such as the name, address, and username of persons who subscribed to the Services as a result of the joint promotion for the purpose of offering you other products and services. 
-> 
-> In this instance, personal information may not be used by the partner for any other purpose. We may also generate non-identifying and aggregate profiles from personal information Members provide during registration (such as the total number, but not the names, of Members). As explained in more detail below, we may use this aggregated and non-identifying information to sell advertisements that appear on the Services. 
-> 
-> Also, with purchases, we supply our member's contact information, to our business partners, who then may contact the member by telephone after the member purchase. Sales proceeds are collected by the that business partner company.  We also may supply other companies with contact information, for mail offers we believe would be of interest to our members, with or without compensation from those companies.  At times we may send an advertisement for a third party product, where we collect the sales proceeds, and forward the purchaser's information to that third party. 
-> 
-> Our Company Partners and Sponsors:  Some products and services may be offered to Visitors and Members in conjunction with an affiliate, independent contractor seller or non-affiliated partner. To provide Visitors and Members some of these products and services, the partner may need to collect and maintain personal information. 
-> 
-> Online Shopping:  At some Web sites, you can purchase products and services or register to receive materials, such as a newsletter, catalog or new product and service updates. In many cases, you may be asked to provide contact information, such as your name, address, email address, phone number, and credit/debit card information. 
-> 
-> If you complete an order for someone else, such as an online gift order sent directly to a recipient, you may be asked to provide information about the recipient, such as the recipient's name, address, and phone number. Our company has no control over the third parties' use of any personal information you provide when placing such an order. Please exercise care when doing so. 
-> 
-> If you order services or products directly from our company, we use the personal information you provide to process that order.  We do share this information with outside parties that we do business with. 
-> 
-> Online Advertisements:  Our company may display our online advertisements. In those cases we share information about our Visitors and Members collected through the registration process as well as through online surveys and promotions with these advertisers. 
-> 
-> Additionally, in some instances, we use this information to deliver tailored advertisements or joint ventures. For instance, an advertiser or joint venture company tells us the audience they want to reach and provides us an advertisement tailored to the audience. Based upon the information we have collected, we may then display or send the advertisement to the intended audience. Our company does share personal information about its Visitors or Members with these advertisers or joint venture companies.
-> 
-> Responses to Email Inquiries: When Visitors or Members send email inquiries to our company, the return email address is used to answer the email inquiry we receive. 
-> 
-> Voluntary Customer Surveys:  We may periodically conduct both business and individual customer surveys. We encourage our customers to participate in these surveys because they provide us with important information that helps us to improve the types of products and services we offer and how we provide them to you. 
-> 
-> We may take the information we receive from individuals responding to our Customer Surveys and combine (or aggregate) it with the responses of other customers we may have, to create broader, generic responses to the survey questions (such as gender, age, residence, hobbies, education, employment, industry sector, or other demographic information). We then use the aggregated information to improve the quality of our services to you, and to develop new services and products. This aggregated, non-personally identifying information may be shared with third parties.
-> 
-> Promotions:  Our company may offer polls, contests, sweepstakes, drawings, games, content, or other promotions that are sponsored by or cobranded with third parties. You may be entered in a sweepstakes, contest, or other promotion, simply by making a purchase from us or by providing us with personally identifiable information for some other reason or purpose. Due to these third party relationships, the third parties may obtain personally identifiable information that visitors voluntarily submit to our company. Our company has no control over third parties' use of this information. 
-> 
-> Additionally, personally identifiable information may be collected when you order products, enter contests, vote in polls or otherwise express an opinion, subscribe to one of our services such as our online newsletters, or participate in one of our online forums or communities. The types of personally identifiable information that may be collected at these pages include but may not be limited to: name, address, e-mail address, telephone number, fax number, credit card information, and information about your interests in and use of various products, programs, and services. Our sponsors or third parties may send you material that relates to our company's services, products or activities.
-> 
-> Special Cases:  It is our company's policy to use or share the personal information about Visitors or Members in ways described herein without additional notice or means to opt out or otherwise prohibit such unrelated uses. 
-> 
-> Also, we may disclose personal information about Visitors or Members, or information regarding your use of the Services or Web sites accessible through our Services, for any reason if, in our sole discretion, we believe that it is reasonable to do so, including: credit agencies, collection agencies, merchant database agencies, law enforcement, or to satisfy laws, such as the Electronic Communications Privacy Act, the Child Online Privacy Act, regulations, or governmental or legal requests for such information; to disclose information that is necessary to identify, contact, or bring legal action against someone who may be violating our Acceptable Use Policy or Terms Of Service, or other user policies; to operate the Services properly; or to protect our company and our Members. 
-> 
-> Notice of Compliance to California Residents – Your California Privacy Rights Under The California Online Privacy Protection Act and the California Business and Professions Code 
-> 
-> This privacy policy identifies the categories of personally identifiable information that our company collects through our Web site or online service, about individual consumers who use or visit our company's commercial Web site or online service and the categories of third-party persons or entities with whom our company may share that personally identifiable information.
-> 
-> Our company does not maintain a process for an individual consumer who uses or visits our commercial Web site or online service to review and request changes to any of his or her personally identifiable information that is collected through our Web site or online service.
-> 
-> See the section below entitled "Revisions To This Policy" for a description of the process by which our company notifies consumers who use or visit our commercial Web site or online service of material changes to our company's privacy policy for this Web site or online service.
-> 
-> The effective date of this privacy policy is listed at the end of this privacy policy  under the heading, "Last updated."
-> 
-> For the purposes of this policy and California compliance the following definitions apply:
-> 
-> Depending on the visitor's activity, in our commercial Web site or online service, the following "personally identifiable information" may be collected, in addition to information set forth in other sections of this document.
-> 
-> The term "personally identifiable information" means individually identifiable information about an individual consumer collected online by our company from an individual and maintained  
->  by our company in an accessible form, and may include any of the following:
-> 
-> (1) A first and last name.  
->  (2) A home or other physical address, including street name and name of a city or town.  
->  (3) An e-mail address.  
->  (4) A telephone number.  
->  (5) A social security number.  
->  (6) Any other identifier that permits the physical or online contacting of a specific individual.  
->  (7) Information concerning a user that the Web site or online service collects online, from the user, and maintains in personally identifiable form, in combination with an identifier described within this privacy policy.
-> 
-> Under California Law SB 27, California residents have the right to receive, once a   
->  year, information about third parties with whom we have shared information about you   
->  or your family for their marketing purposes during the previous calendar year, and a   
->  description of the categories of personal information shared. To make such a request,   
->  please send an email to [Privacy@PrivacyRequest.com](mailto:Privacy@PrivacyRequest.com)  and please include the phrase   
->  "California Privacy Request" in the subject line, the domain name of the Web site you are inquiring about, along with your name,  address and email address. We will respond to you within thirty days of receiving  such a request. 
-> 
-> "Cookies" and How Our Company Uses Them. A "cookie" is a small data file that can be placed on your hard drive when you visit certain Web sites. Our company may use cookies to collect, store, and sometimes track information for purposes stated herein as well as for statistical purposes to improve the products and services we provide and to manage our telecommunications networks. 
-> 
-> Advertisers and partners may also use their own cookies. We do not control use of these cookies and expressly disclaim responsibility for information collected through them. 
-> 
-> Our Company Commitment to Children's Privacy. Protecting children's privacy is especially important to us. It is our policy to comply with the Children's Online Privacy Protection Act of 1998 and all other applicable laws. Therefore we restrict our Web site to persons eighteen years or older.
-> 
-> YOU MUST BE EIGHTEEN (18) YEARS OR OLDER TO ACCESS THIS WEB SITE. IF YOU ARE UNDER EIGHTEEN YEARS OF AGE, YOU ARE NOT PERMITTED TO ACCESS THIS WEB SITE FOR ANY REASON. DUE TO THE AGE RESTRICTIONS FOR USE OF THIS WEB SITE, NO INFORMATION OBTAINED BY THIS WEB SITE, FALLS WITHIN THE CHILDREN'S ONLINE PRIVACY PROTECTION ACT (COPPA) AND IS NOT MONITORED AS DOING SO.
-> 
-> Public Forums:  Please remember that any information you may disclose in any Member Directory, or other public areas of our Web sites or the Internet, becomes public information. You should exercise caution when deciding to disclose personal information in these public areas. 
-> 
-> Our Company's Commitment to Data Security:  Services and Web sites we sponsor have security measures in place to protect the loss, misuse, and alteration of the information under our control. While we make every effort to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party "hackers" from illegally obtaining this information. 
-> 
-> Where to Direct Questions About Our Privacy Policy:  If you have any questions about this Privacy Policy or the practices described herein, you may contact us through the contact information provided on this Web site. 
-> 
-> Revisions to This Policy: Our company reserves the right to revise, amend, or modify this policy, our Terms Of Service agreement, and our other policies and agreements at any time and in any manner, by updating this posting. Your use of this site after such changes are implemented constitutes your acknowledgement and acceptance of these changes. Please consult this privacy statement prior to every use for any changes.
-> 
-> **Terms and Conditions**
-> 
-> Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at www.surveysathome.org/tos.html.
-> 
-> **Your Consent**
-> 
-> By using our site, you consent to our privacy policy.
-> 
-> **Changes to our Privacy Policy**
-> 
-> If we decide to change our privacy policy, we will post those changes on this page, and/or update the Privacy Policy modification date below. Policy changes will apply only to information collected after the date of the change. 
-> 
-> This policy was last modified on **04/25/2014**
-> 
-> **Contacting Us**
-> 
-> If there are any questions regarding this privacy policy you may contact us using the information below. 
-> 
-> WFH, LLC  
->  6235 Oread Ave.  
->  Las Vegas, Nevada 89139  
->  United States of America  
->  info@surveysathome.org
-> 
-> 949-342-6648   
->  **Privacy Policy Customer Pledge**
-> 
-> We pledge to you, our customer, that we have made a dedicated effort to bring our privacy policy in line with the the following important privacy laws and initiatives:  
->  Federal Trade Commision Fair  
->  California Online Privacy Protection Act  
->  Childrens Online Privacy Protection Act  
->  Privacy Alliance  
->  Controlling the Assault of Non-Solicited Pornography and Marketing Act
-> 
-> If at anytime you have a cause that needs to be disputed please fill out the [Trust Guard Dispute Resolution form](http://secure.trust-guard.com/disputesystem/). 
-> 
-> Respectfully, 
-> 
-> WFH, LLC   
->  www.surveysathome.org
+## PRIVACY POLICY
+
+The privacy and confidentiality of our members and prospects is upheld with the highest consideration. Wealth In A Box is committed to respecting your privacy. Please read the following policy to understand how your personal information will be treated. This policy may change from time to time so please check back periodically. This policy will let you know the following:
+
+1\. What personally identifiable information is collected from me?
+
+2\. What are cookies and how they are used by Wealth In A Box?
+
+3\. How is my information used?
+
+4\. Who is collecting my information?
+
+5\. With whom will my information be shared?
+
+6\. How can I access, update or delete my information?
+
+7\. What does "opt-out" mean?
+
+8\. What else should I know about my privacy?
+
+9\. Other legal notices.
+
+1\. What personally identifiable information is collected from me?
+
+On some Wealth In A Box Web pages you can make requests and/or receive materials. The types of personal information collected at these pages are your name, e-mail address and standard contact information, including addresses and phone numbers.  
+We may also ask you to voluntarily provide us with information regarding your personal or professional interests, demographics, experience with the services we provide and contact preferences. Wherever Wealth In A Box collects personal information, we make an effort to include a link to this Privacy Policy on that page.
+
+2\. What are cookies and how are they used by Wealth In A Box?
+
+Wealth In A Box may place Internet cookies on your hard drive. Internet cookies are small files that may be placed on your hard disk for record-keeping purposes. Cookies are used to (a) remind us of who you are in order to deliver you better service; (b) estimate our audience size by determining repeat usage of the Web site to help target advertisements based on user interests and behavior; (c) track your progress and entries in promotions, sweepstakes and contests, if any; and (d) measure certain traffic patterns for use as a research tool to understand how our users’ habits are similar or different from one another. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether or not to accept it. By not accepting cookies, some Web pages may not display properly or you may not be permitted to access certain information.
+
+Wealth In A Box may also collect IP addresses (the Internet address of a computer) to track a user's session while the user remains anonymous. We analyze this data for certain trends in statistics, such as which parts of our site users are visiting and how long they spend there. In general, we do not link your IP addresses to anything personally identifiable to you.
+
+3\. How is my information used?
+
+Wealth In A Box will not provide your personally identifiable information to others without your consent. The information you provide will be used to support your customer relationship with Wealth In A Box. Your information may be shared with agents, contractors or business partners for the purpose of performing services for Wealth In A Box. 
+
+We want to help you quickly find information on Wealth In A Box and alert you to specific offers, updated information, and other new products and services from Wealth In A Box. Accordingly, we may send you email, direct mailings or contact you by telephone about our various products and services or other products and services we feel may be of interest to you. If you do not want to receive such mailings, simply "opt-out" by the means provided for in the mailings or by contacting support@wealthinabox.com.
+
+Notwithstanding, Wealth In A Box does research on our users' demographics, interests and behavior based on the information provided to us during your use of the Wealth In A Box Web site. This research is compiled and analyzed on an aggregated basis. Aggregated data does not include personally identifiable information. Wealth In A Box may share this aggregated data with others.
+
+From time to time affiliates of Wealth In A Box may have special offers for customers of Wealth In A Box. In such cases you will be given an opportunity to "opt-in" and receive additional information about those offers. In such cases by electing to receive information from Wealth In A Box affiliates your information will be transferred to those third parties. The information practices of those third parties are not covered by this privacy statement. 
+
+4\. Who is collecting my information?
+
+When you are on an Wealth In A Box site and are asked for personal information, you are sharing that information with Wealth In A Box alone, unless specifically stated otherwise. If data is being collected and/or maintained by any company other than Wealth In A Box or an agent for Wealth In A Box, you will be notified prior to the time of the data collection or transfer. If you do not want your data to be shared, you can choose not to allow the transfer by not using that particular service or purchasing those particular goods.
+
+Please be aware that Wealth In A Box advertisers or Web sites that have links on our site may collect personally identifiable information about you. The information practices of those Web sites linked to Wealth In A Box either through advertisements or other hyperlinks are not covered by this privacy statement and Wealth In A Box shall have no liability for the actions and policies of these third parties.
+
+5\. With whom does Wealth In A Box share my information?
+
+We may share the personal data you provide with other Wealth In A Box agents, contractors or our business partners for the purposes of performing services for Wealth In A Box. Wealth In A Box also may share aggregated data with others. Aggregated data does not include personally identifiable information. We also believe it is necessary to share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of the Terms of Access, or as otherwise required by law. Except as provided above or in the event of a merger, consolidation, or sale of all or substantially all of Wealth In A Box's assets, we will not share any of your information with any third party without your permission. 
+
+6\. How do I access, update or delete my information?
+
+You can request the individual information that Wealth In A Box has collected about you, correct factual inaccuracies in your information, remove personal information from Wealth In A Box's data bases and/or update your personal information by contacting support@wealthinabox.com.
+
+7\. What does "opt-out" mean?
+
+To "opt-out" means that you have notified Wealth In A Box that we no longer have permission to use your information to contact you regarding promotions of other Wealth In A Box products. For example, when we send you information on a new product, you will be given the opportunity to "opt-out" of receiving such information in the future.
+
+8\. What else should I know about my privacy?
+
+Third party Internet sites and services accessible through Wealth In A Box have separate privacy and data collection practices, independent of us. Wealth In A Box has no responsibility or liability for these independent policies or actions. Please be careful and responsible online. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. While we strive to protect your information, Wealth In A Box cannot ensure or warrant the security of any information through the transmission process and you do so at your own risk.
+
+9\. Other Legal Notices.
+
+Any dispute over privacy is subject to this privacy policy and our Terms of Access including limitations on damages and application of the law of the State of New York. If you have any concern about your privacy in connection with this policy, please send us a thorough description to support@wealthinabox.com, and we will try to resolve it. We may post a revised privacy policy on our site. Please note that the use of information that we gather is subject to the privacy notice in effect at the time of use. You should check our Web site frequently to see recent changes. 
+
+**
+
+Wealth In A Box  
+PO Box 4084 Monroe, CT 06468  
+support@wealthinabox.com 
+
+[Home](http://www.wealthinabox.com/index.php) | [Terms Of Service](http://www.wealthinabox.com/terms.php) | [Privacy Policy](http://www.wealthinabox.com/privacy.php) | [Members](http://www.wealthinabox.com/members20/) | [Contact Us](http://www.wealthinabox.com/contact/)
+
+**
