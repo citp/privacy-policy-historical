@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022164441id_/https%3A//www.discogs.com/help/doc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the discogs.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311050101id_/https%3A//www.discogs.com/help/doc/privacy-policy) for the most accurate reproduction.*
 
 # Discogs Help - Privacy Policy
 
@@ -6,13 +6,15 @@
 
 **Discogs Privacy Policy**
 
-Effective Date: March 7, 2016 
+Effective Date: January 25, 2017
 
-Your privacy is important to Discogs and this Policy represents our commitment to care for your personal information. This Privacy Policy (“Policy”) applies to the data Discogs collects on its websites and through any services associated with those sites (“Services”), provided to you by Zink Media, Inc., doing business as Discogs (“We”, “Our” “Us” or “Discogs”). It does not apply to data collected by or through any other online or offline sites, products, or services. When You (“You”, “Your”) use sites, products, or services other than Discogs’ Services, You are subject to those service provider’s policies. In addition, this Policy does not cover data You independently disclose to other users of the Services. Disclosure of data to buyers, sellers, or contributors, (“Other Users”) outside of disclosure to Discogs should be discussed with those Other Users prior to providing such data.
+Your privacy is important to Discogs and this Policy represents our commitment to care for your personal information. This Privacy Policy (“Policy”) applies to the data Discogs collects on its websites and through any services associated with those sites (“Services”), provided to you by Zink Media, Inc., doing business as Discogs (“We”, “Our” “Us” or “Discogs”). It does not apply to data collected by or through any other online or offline sites, products, or services. When You (“You”, “Your”) use sites, products, or services other than Discogs’ Services, You are subject to those service provider’s policies. In addition, this Policy does not cover data You independently disclose to other users of the Services. Disclosure of data to buyers, sellers, or contributors, (“Other Users”) outside of disclosure to Discogs should be discussed with those Other Users prior to providing such data. 
 
-**By using Discogs’ Services, You consent to Discogs’ use and disclosure of Your personal information, including any information that identifies You, directly or indirectly, including by reference to an identification number, to one or more factors specific to Your physical, physiological, mental, economic, cultural or social identity, and data elements such as Your IP address, geolocation, and username and password (“Personal Information”) as described in this Policy.**
+**Discogs is committed to complying with Privacy Shield Principles under the EU-U.S. Privacy Shield Framework.** Additional information about the framework and principles can be found on the U.S. Department of Commerce’s Privacy Shield website ([https://www.privacyshield.gov](https://www.privacyshield.gov/)). See below for additional information on the types of information We collect, how We use it and to whom and when it is disclosed. Discogs is liable for privacy violations committed by third parties to which it provides Your information as limited by Discogs contractual agreements with those third parties. All personal data received from the EU will be subject to the Privacy Shield. If you have a privacy-related complaint, please complete our [Privacy Complaint Form](https://www.surveymonkey.com/r/QRXHH2C). Other privacy-related inquiries can be made to compliance@discogs.com. 
 
-**Collection of Personal Information**
+**By using Discogs’ Services, You consent to Discogs’ use and disclosure of Your personal information,** including any information that identifies You, directly or indirectly, including by reference to an identification number, to one or more factors specific to Your physical, physiological, mental, economic, cultural or social identity, and data elements such as Your IP address, geolocation, and username and password (“Personal Information”) **as described** in this Policy.
+
+**Collection** of Personal Information
 
   * When You register to use the Services, Discogs collects certain Personal Information, Your username and e-mail address. 
   * When You register to sell items using the Services, Discogs collects certain additional Personal Information, Your address and PayPal username to allow you to engage in transactions and make use of the Services. 
@@ -33,16 +35,29 @@ Your privacy is important to Discogs and this Policy represents our commitment t
 
 **Information Use**
 
-**We use the Personal Information we collect to:** _Provide the requested Services._ Personalize the Services for You and to communicate with You. * Send You emails from Discogs.com and its sister websites (including, but not limited to, [Gearogs.com](http://www.gearogs.com/), [Filmo.gs](http://www.filmo.gs/), [Biblio.gs](http://www.biblio.gs/), [Comicogs.com](http://www.comicogs.com/), [Vinylhub.com](http://www.vinylhub.com/)) which may include newsletters, relationship and transactional messages, and marketing promotions. These emails may be opted out of in Your notification preferences or from within the email messages themselves. 
+**We use the Personal Information we collect to:**
+
+  * Provide the requested Services.
+  * Personalize the Services for You and to communicate with You.
+  * Send You emails from Discogs.com and its sister websites (including, but not limited to, [Gearogs.com](http://www.gearogs.com/), [Filmo.gs](http://www.filmo.gs/), [Biblio.gs](http://www.biblio.gs/), [Comicogs.com](http://www.comicogs.com/), [Vinylhub.com](http://www.vinylhub.com/)) which may include newsletters, relationship and transactional messages, and marketing promotions. These emails may be opted out of in Your notification preferences or from within the email messages themselves. 
+
+
 
 **Disclosure**
 
-  * We may share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Our terms of service, or as otherwise required by law. We may also disclose information when requested to comply with a court order, investigation, or governmental request.
+  * We share information with third parties that act as an agent to perform tasks on Our behalf and under our instructions. This information is limited only to the information needed to perform the tasks. 
+  * We may share information in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Our terms of service, or as otherwise required by law enforcement or national security requirements. We may also disclose information when requested to comply with a court order, investigation, or governmental request.
   * We **do not** otherwise share Your information with any third parties.
   * We **do not** provide or sell email addresses or collection/wantlist data to any third party.
   * We **do not** provide or sell Your Personal Information or any other information You have provided to us to any third party for direct marketing or advertising purposes.
 
 
+
+**Limiting the Use and Disclosure of Your Personal Information**
+
+Discogs will provide You with notice in the event it intends to share Your information with a third party (other than as described above) or for a purpose that is materially different from the purpose(s) for which it was originally collected or subsequently authorized by the individuals. Prior to sharing such information, You will be provided with clear, conspicuous, and readily available mechanisms to opt out of such sharing.
+
+In the event We collect sensitive information (i.e., personal information specifying medical or health conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership or information specifying the sex life of the individual), We will obtain affirmative express consent (opt in) from You if we intend such information to be disclosed to a third party or used for a purpose other than those for which it was originally collected or subsequently authorized by You through the exercise of an opt-in choice.
 
 **Protection**
 
@@ -91,19 +106,27 @@ Information You post to the public areas of the Services (groups / forums / sear
 
 
 
+**Your Right to Access Your Personal Data**
+
+You have a right to access Your personal data. To exercise this right, please submit a request to compliance@discogs.com. Discogs may ask for additional information to confirm Your identity prior to releasing any information.
+
 **Complaints**
 
-If You believe that Your privacy rights have been breached or that Your Personal Information has been compromised as a result of using Discogs, please contact us via compliance@discogs.com. In order to allow us to fully investigate Your complaint, please provide all details requested on the form. We will review Your complaint within 30 days of receipt and may request additional information from You to complete our investigation. 
+If You believe that Your privacy rights have been breached or that Your Personal Information has been compromised as a result of using Discogs, please complete and submit the [Discogs privacy complaint form](https://www.surveymonkey.com/r/QRXHH2C). In order to allow us to fully investigate Your complaint, please provide all details requested on the form. We will review Your complaint within 30 days of receipt and may request additional information from You to complete our investigation. 
 
-For complaints related to the Digital Millennium Copyright Act, please contact at compliance@discogs.com.
+For complaints related to the Digital Millennium Copyright Act, please contact us at compliance@discogs.com.
+
+**Dispute Resolution**
+
+In the event that Discogs is unable to resolve any complaint or dispute that You bring to its attention, You may contact an independent dispute resolution body free of charge. Discogs has chosen JAMS as its independent recourse mechanism. You can file a claim with JAMS at the following website: <https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim>. In some cases, You may be able to invoke binding arbitration.
 
 **General**
 
-We may amend this Policy at any time by posting the amended terms on this site and notifying You of material changes to the Policy along with an opportunity to opt-out of any chances that decrease Your rights under this Policy. All non-material changes to our terms are effective on the effective date of this policy. We encourage You to review this Policy from time to time. By continuing to use the Services after being notified of a material change you will be deemed to have accepted the changes. 
+We may amend this Policy at any time by posting the amended terms on this site and notifying You of material changes to the Policy along with an opportunity to opt-out of any changes that decrease Your rights under this Policy. All non-material changes to our terms are effective on the effective date of this policy. We encourage You to review this Policy from time to time. By continuing to use the Services after being notified of a material change you will be deemed to have accepted the changes. 
 
-If you would like to review, suppress, delete, or update Personal Information that You have previously provided to Discogs, please contact us through our [support request form](https://www.discogs.com/support). In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information that you have provided to us. We will try to comply with your request as soon as reasonably practicable.
+If you would like to review, suppress, delete, or update Personal Information that You have previously provided to Discogs, please contact us through our support request form. In your request, please make clear what information you would like to have changed, whether you would like to have your Personal Information suppressed from our database or otherwise let us know what limitations you would like to put on our use of your Personal Information that you have provided to us. We will try to comply with your request as soon as reasonably practicable.
 
-In the event that Discogs goes through a business transfer such as a consolidation, merger, restructuring, acquisition, or sale of part or all of Our assets, You acknowledge and consent to the transfer of Your information. You further acknowledge and consent to the continued use of Your information by the recipient following the transfer so long as they comply with this Policy.
+In the event that Discogs goes through a business transfer such as a consolidation, merger, restructuring, acquisition, or sale of part or all of Our assets, You acknowledge and consent to the transfer of Your information. You further acknowledge and consent to the continued use of Your information by the recipient following the transfer so long as they comply with this Policy. Discogs is subject to the investigatory and enforcement powers of the Federal Trade Commission in connection with its Privacy Shield compliance.
 
 **Contact Us**  
 You can contact us about this Policy via our [support request form](https://www.discogs.com/support) or at compliance@discogs.com
