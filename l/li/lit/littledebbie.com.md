@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the littledebbie.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230052654id_/http%3A//www.littledebbie.com/12/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the littledebbie.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311230122id_/http%3A//littledebbie.com/12/privacy) for the most accurate reproduction.*
 
 # Privacy | Little Debbie
 
