@@ -1,0 +1,501 @@
+<!--The following is the downloaded HTML source of the adbhai.com privacy policy that was archived on 2017-03-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170311022636id_/http%3A//adbhai.com/privacy.php) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html><head><title>Sell It Work Online Shopping </title>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="keywords" content="Smart Bazaar Responsive web template, Bootstrap Web Templates, Flat Web Templates, Android Compatible web template, 
+SmartPhone Compatible web template, free WebDesigns for Nokia, Samsung, LG, SonyEricsson, Motorola web design">
+<!-- Custom Theme files -->
+<link href="css/bootstrap.css" rel="stylesheet" type="text/css" media="all">
+<link href="css/style.css" rel="stylesheet" type="text/css" media="all"> 
+<link href="css/menu.css" rel="stylesheet" type="text/css" media="all"> <!-- menu style --> 
+<link href="css/ken-burns.css" rel="stylesheet" type="text/css" media="all"> <!-- banner slider --> 
+<link href="css/animate.min.css" rel="stylesheet" type="text/css" media="all"> 
+<link href="css/owl.carousel.css" rel="stylesheet" type="text/css" media="all"> <!-- carousel slider -->  
+<!-- web-fonts -->
+<link href="https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,300italic,400italic,700,700italic" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Lovers+Quarrel" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Offside" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Tangerine:400,700" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Ubuntu+Condensed" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet"> 
+<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+<!-- web-fonts --> 
+<link rel="icon" type="image/png" href="favicon.ico">
+<!-- js -->
+<script src="js/jquery-2.2.3.min.js"></script> 
+<!-- //js --> 
+<!-- font-awesome icons -->
+<link href="css/font-awesome.css" rel="stylesheet"> 
+<!-- //font-awesome icons -->
+ <!--range slider-->
+<link rel="stylesheet" href="css/jquery_ui.css">
+	<script src="js/range_slider/jquery_ui.js"></script>
+	<script src="js/owl.carousel.js"></script>  
+	 
+
+<script src="js/jquery-scrolltofixed-min.js" type="text/javascript"></script>
+
+<!-- start-smooth-scrolling -->
+
+<script src="js/bootstrap.js"></script>	
+<!--model popup link-->
+<!-- **************************** Alertify **************************** -->
+<script src="js/alertify/alertify.min.js"></script>
+<link rel="stylesheet" href="css/alertify/alertify.min.css">
+<!-- **************************** Alertify Ends **************************** -->
+</head>
+<body style="background-color:#F5F5F5;" class="hed">
+<div id="My_conatiner">
+<!-- Header starts -->
+
+
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/bootbox.js/4.4.0/bootbox.min.js"></script>
+  <!-- Search Auto complete -->
+  <link rel="stylesheet" href="css/bootstrap-select.min.css">
+  <script type="text/javascript" src="js/bootstrap-select.min.js"></script>
+  <link rel="stylesheet" href="css/lightbox.min.css">
+  <script src="js/lightbox-plus-jquery.min.js"></script>
+  <script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCwCF_suJxK_ixjBgbL_lBtLUftezQRc6I&amp;libraries=places&amp;v=3"></script>		
+<script src="js/jquery.geocomplete.min.js"></script>
+<script>
+$.noConflict();
+jQuery(document).ready(function ($) {	
+	$(".location").geocomplete({
+	});
+
+});
+</script>
+
+<script>	 
+	$( function() 
+	{
+		var max_distance_val='100';
+		var min_distance_val='0';
+		
+		// Mobile Range Slider
+		$( "#slider-range1" ).slider({
+			range: true,
+			min: 0,
+			max: 500,
+			values: [ min_distance_val , max_distance_val ],
+			slide: function( event, ui ) 
+			{
+				
+				$( "#distance1" ).val( ui.values[ 0 ] + " - " + ui.values[ 1 ] +" ");
+				$("#radius1").val($( "#distance1" ).val() );
+			}
+		});
+		$( "#distance1" ).val( $( "#slider-range1" ).slider( "values", 0 ) +
+			" - " + $( "#slider-range1" ).slider( "values", 1 )  );
+			$("#radius1").val($( "#distance1" ).val() );
+			
+		// web range Slider
+		$( "#slider-range" ).slider({
+			range: true,
+			min: 0,
+			max: 500,
+			values: [ min_distance_val , max_distance_val ],
+			slide: function( event, ui ) 
+			{
+				$( "#distance" ).val( ui.values[ 0 ] + " - " + ui.values[ 1 ] +" ");
+				$("#radius").val($( "#distance" ).val() );
+			}
+		});
+		$( "#distance" ).val( $( "#slider-range" ).slider( "values", 0 ) +
+			" - " + $( "#slider-range" ).slider( "values", 1 )  );
+			$("#radius").val($( "#distance" ).val() );
+			
+			
+		$('#Menu_srch').click(function()
+		 {
+			  $('#movile_wrap').toggle('slow');
+		 });
+		 $('#Mobile_menu').click(function()
+		 {
+			  $('#mobile_user').toggle('slow');
+		 });
+		 
+	   $('.dropdown' ).hover(function()
+	   {
+			$(this).children('.sub-menu').slideDown(200);
+	   },function()
+	   {
+			$(this).children('.sub-menu').slideUp(200);
+	   });
+			
+		 $("#btnShow").click(function()
+		{
+			$("#dialog").slideToggle('slide');
+		}); 
+		$(".close_filer").click(function()
+		{
+			$("#dialog").hide('1000');
+		}); 
+	});
+	
+	
+			
+	function test()
+	{
+		bootbox.dialog({
+		message: '<p class="text-center">Please Login To Add Products. </p>',
+		closeButton: false
+		});
+		setTimeout(function() {
+				window.location.href = "login.php";
+				bootbox.hideAll();
+			}, 2000);
+			
+	}
+	function checkLogin()
+	{
+		bootbox.dialog({
+		message: '<p class="text-center">Please Login To Send Message </p>',
+		closeButton: false
+		});
+		setTimeout(function() {
+				window.location.href = "login.php";
+				bootbox.hideAll();
+			}, 2000);
+			
+	}
+	
+	</script>
+<script>
+function CompanyVerification()
+{
+	$("#ark_loader").css("display","block");
+	bootbox.dialog({
+		message: '<p class="text-center">Please Verify Your Company </p>',
+		closeButton: false
+		});
+	setTimeout(function() {
+			window.location.href = "verification.php";
+			bootbox.hideAll();
+		}, 2000);	
+}
+
+function AccountVerification()
+{
+	$("#ark_loader").css("display","block");
+	bootbox.dialog({
+		message: '<p class="text-center">Please Verify Your Account.Check Your Mail </p>',
+		closeButton: false
+		});
+	setTimeout(function() {
+			$("#ark_loader").css("display","none");
+			bootbox.hideAll();
+		}, 2000);	
+}
+</script>
+<script src="js/Profile_pic/jquery.imgareaselect.js" type="text/javascript"></script>
+<script src="js/Profile_pic/jquery.form.js"></script>
+<link rel="stylesheet" href="js/Profile_pic/imgareaselect.css">
+
+
+	
+<div class="header">
+
+<div class="col-sm-1 col-xs-1 pd_none">
+		<div id="Mobile_menu"><i class="material-icons">menu</i></div>
+	</div>
+	<div class="col-sm-10 col-xs-8 pd_none">
+		<a href="index.php"><img src="img/lightlogo.png" class="mobile_logo" alt=""></a>
+	</div>	
+	<div class="col-sm-1 col-xs-3 pd_none">
+ 
+  <div id="Menu_srch"><i class="material-icons">search</i></div>
+  
+  <div class="add_mobileIco">
+  <a href="#" data-placement="bottom" onclick="test()" data-toggle="tooltip" title="Add Product"><i class="fa fa-plus" aria-hidden="true"></i></a>   
+  </div>
+  
+ </div>
+	
+	 
+		<div class="logo">
+			<a href="index.php"><img src="img/lightlogo.png" alt=""></a>
+		</div>
+		 
+		<div id="Head_section">
+						<form action="backpages/searchApi.php" method="POST">				 
+							<div class="search_col3 w34">
+							<div class="srch_out">
+									<input type="text" style="width:88% !important;" class="form-control txt" name="searchKey" placeholder="Search your Keywords here...." id="search1">	
+									<button type="submit" name="search" class="btn_search" id="search_btn">							
+										<div class="icon1">search</div>
+								    </button>
+							</div>								 
+							</div>
+							
+							<div class="search_col3 ico_drop w15">									 								 
+								<button class="filter_btn " onclick="return false;" id="btnShow"><i class="material-icons">filter_list</i>Filter								
+								</button>
+							</div>				 	
+							 
+							 
+							 <!--dailog box-->
+							<div id="dialog" style="display:none" align="center">	
+								 <div class="main">						 
+									 
+									 <div class="close_filer"><i class="fa fa-times" aria-hidden="true"></i></div>
+										<div class="clear"></div>							 
+									 <div class="group">									 
+									 <input type="text" class="form-control location" style="width:100%;" name="location" value="" placeholder="">
+									 <span class="highlight"></span>
+									<label>Enter a Location</label>
+									</div>
+									  
+									 <div class="form-group">
+									 <div class="prc_reng">
+											<span class="prc_reng">Distance range (in miles):</span>
+									</div>
+									<div class="pric_text">
+										<input type="text" id="distance" class="price_form" readonly="">
+										<input type="hidden" id="radius" name="radius">
+									</div>	
+									
+									<div class="clear"></div>
+									<div class="left_rang_ic">
+									<i class="fa fa-map-marker" aria-hidden="true"></i>
+									</div>
+									<div id="slider-range"></div> 
+									<div class="ryt_rang_ic">
+									<i class="fa fa-car" aria-hidden="true"></i>
+									 </div>
+									 </div>
+									 <div class="form-group">
+									 <div class="form_lbl"> Categories</div>
+									 <select class="select2" name="category"> 
+										<option value="All">All</option>
+										<option value="Furniture">Furniture</option>
+										<option value="Baby Items">Baby Items</option>
+										<option value="Housing">Housing</option>
+										<option value="Electronics">Electronics</option>
+										<option value="eGarage-Sales">eGarage-Sales</option>
+										<option value="Other">Other</option>
+										<option value="Free">Free</option>
+										<option value="Bikes and Autos">Bikes and Autos</option>
+									</select>
+										 <span class="select2i">  <i class="fa fa-caret-down"></i> </span>
+										</div>
+										
+									<div class="form-group">
+									 <div class="form_lbl">Company Name</div>
+									   <div class="clear"></div>
+									   <div class="select_wrap">
+										  <select class="selectpicker dropup " title="All" data-width="fit" multiple="" data-size="5" data-actions-box="true" data-selected-text-format="count > 1" data-live-search="true" name="company[]">
+											  <option value=" mypassion"> mypassion</option><option value="360 degree Advertising Agency">360 degree Advertising Agency</option><option value="A Class Holidays">A Class Holidays</option><option value="AAA-BRIGHT ACADEMY">AAA-BRIGHT ACADEMY</option><option value="aachischool">aachischool</option><option value="Aadhocc">Aadhocc</option><option value="Aamzon">Aamzon</option><option value="abc">abc</option><option value="Adaalo India">Adaalo India</option><option value="ADITYA BIRLA FINANCE COMPANY">ADITYA BIRLA FINANCE COMPANY</option><option value="Adoro Institute Of Multimedia">Adoro Institute Of Multimedia</option><option value="Adposting1112">Adposting1112</option><option value="Aflac tourism pvt ltd">Aflac tourism pvt ltd</option><option value="Aflac tourism service pvt ltd">Aflac tourism service pvt ltd</option><option value="AJ Univers">AJ Univers</option><option value="Allsigns technologies">Allsigns technologies</option><option value="Amar Chitra Katha Pvt Ltd">Amar Chitra Katha Pvt Ltd</option><option value="Amruta Pharma">Amruta Pharma</option><option value="AMST">AMST</option><option value="Andrea">Andrea</option><option value="ARGROUP">ARGROUP</option><option value="arisimulation">arisimulation</option><option value="Aruna Diagnostics">Aruna Diagnostics</option><option value="AsEmpire">AsEmpire</option><option value="Ashapuri  catering">Ashapuri  catering</option><option value="Ashoka PVT LTD">Ashoka PVT LTD</option><option value="astrology">astrology</option><option value="baba">baba</option><option value="Babydollstrollerr">Babydollstrollerr</option><option value="Bangalore Escorts">Bangalore Escorts</option><option value="BHARAT TEERTH YATRA">BHARAT TEERTH YATRA</option><option value="blueexpress">blueexpress</option><option value="Brosis Technologies">Brosis Technologies</option><option value="Cafe soul desire">Cafe soul desire</option><option value="CCI">CCI</option><option value="Chipedge Technologies Pvt.Ltd.">Chipedge Technologies Pvt.Ltd.</option><option value="Cleanland">Cleanland</option><option value="clicxa">clicxa</option><option value="clixca">clixca</option><option value="Cloudibn">Cloudibn</option><option value="Company Hidden">Company Hidden</option><option value="CompareBox.pk">CompareBox.pk</option><option value="conduiraonline">conduiraonline</option><option value="copypasting.org">copypasting.org</option><option value="Covai mines And Minerals">Covai mines And Minerals</option><option value="Crystal Computer">Crystal Computer</option><option value="cyber expo">cyber expo</option><option value="D Elite Soft">D Elite Soft</option><option value="data entry">data entry</option><option value="data posting">data posting</option><option value="Data posting jobs">Data posting jobs</option><option value="dataposting work">dataposting work</option><option value="DATAWORK SOLUTIONS">DATAWORK SOLUTIONS</option><option value="Delhi escort agency">Delhi escort agency</option><option value="digital market">digital market</option><option value="Digital Signature Provider">Digital Signature Provider</option><option value="divine pixel and codes pvt ltd">divine pixel and codes pvt ltd</option><option value="DJ Hardy (The Spin Machine)">DJ Hardy (The Spin Machine)</option><option value="dokan.in">dokan.in</option><option value="Dream Logo Design">Dream Logo Design</option><option value="dreamarium photography">dreamarium photography</option><option value="DSPS Solution Pvt Ltd">DSPS Solution Pvt Ltd</option><option value="easyaircoolers.">easyaircoolers.</option><option value="eglobe india">eglobe india</option><option value="eglobetech">eglobetech</option><option value="Empros Services">Empros Services</option><option value="EN Advertising">EN Advertising</option><option value="ENDUE RF PVT LTD">ENDUE RF PVT LTD</option><option value="epeopleinfotech569">epeopleinfotech569</option><option value="Equity Research Lab">Equity Research Lab</option><option value="Escol">Escol</option><option value="Est Top Secret">Est Top Secret</option><option value="EVERGREEN Products and Services">EVERGREEN Products and Services</option><option value="eves24">eves24</option><option value="Evuri online jobs">Evuri online jobs</option><option value="excel bee">excel bee</option><option value="Fantasy Capital Club">Fantasy Capital Club</option><option value="Fantasy Capital Club Pvt. Ltd.">Fantasy Capital Club Pvt. Ltd.</option><option value="fashion industry">fashion industry</option><option value="fcc pvt ltd">fcc pvt ltd</option><option value="Fillip Technologies Private Limited">Fillip Technologies Private Limited</option><option value="Fix The Photo">Fix The Photo</option><option value="Flower Patch">Flower Patch</option><option value="Foodzie Recipes &amp; Cookbook">Foodzie Recipes &amp; Cookbook</option><option value="form filing ">form filing </option><option value="fourtek">fourtek</option><option value="Fox N Angel">Fox N Angel</option><option value="Freakouts Adventure Solutions">Freakouts Adventure Solutions</option><option value="fsc tourism service private limited">fsc tourism service private limited</option><option value="Future Labs Technology">Future Labs Technology</option><option value="Gautam Buddha Educational Trust">Gautam Buddha Educational Trust</option><option value="geek">geek</option><option value="GeekPro Solutions">GeekPro Solutions</option><option value="geekprosolutions">geekprosolutions</option><option value="Geekss">Geekss</option><option value="Glory IT Technologies Pvt. Ltd.">Glory IT Technologies Pvt. Ltd.</option><option value="gmail">gmail</option><option value="Go Webdardy">Go Webdardy</option><option value="Godrej Properties">Godrej Properties</option><option value="golden heritage spa">golden heritage spa</option><option value="Golden technologies">Golden technologies</option><option value="Golden Technology">Golden Technology</option><option value="google">google</option><option value="hanshikacollege">hanshikacollege</option><option value="Happoz">Happoz</option><option value="hhad">hhad</option><option value="holyman">holyman</option><option value="Home">Home</option><option value="Home Based Data Entry">Home Based Data Entry</option><option value="Home Based Data Entry that Pays (4728)">Home Based Data Entry that Pays (4728)</option><option value="http://copypastingjobs.org">http://copypastingjobs.org</option><option value="http://mybiz.co.in/">http://mybiz.co.in/</option><option value="http://realinfojobs.in/">http://realinfojobs.in/</option><option value="http://tigerstrail.com">http://tigerstrail.com</option><option value="http://www.realinfojobs.com">http://www.realinfojobs.com</option><option value="http://www.theperfectlocation.in/">http://www.theperfectlocation.in/</option><option value="HugMe Fashion">HugMe Fashion</option><option value="Hyva It Solutions">Hyva It Solutions</option><option value="I3ITpeople">I3ITpeople</option><option value="IDLID">IDLID</option><option value="Imperial Electric">Imperial Electric</option><option value="INDIA DELL">INDIA DELL</option><option value="Indiadell Support ">Indiadell Support </option><option value="IndiaRush">IndiaRush</option><option value="info@hitechcomputers.in">info@hitechcomputers.in</option><option value="Innerpeace healthsupport solutions">Innerpeace healthsupport solutions</option><option value="Institute of Fundamentals in Quality">Institute of Fundamentals in Quality</option><option value="Irfan">Irfan</option><option value="IS technologies">IS technologies</option><option value="ITFORCE.IN">ITFORCE.IN</option><option value="Jaipur Realty">Jaipur Realty</option><option value="k">k</option><option value="K2B Solutions">K2B Solutions</option><option value="kalingaproperty ">kalingaproperty </option><option value="Katpro Technologies Pvt Ltd">Katpro Technologies Pvt Ltd</option><option value="kmention">kmention</option><option value="legion Travels and Transport Company">legion Travels and Transport Company</option><option value="LoanMoney, The Best way to Own Money">LoanMoney, The Best way to Own Money</option><option value="Loans">Loans</option><option value="LORD SHIV INSTITUTE MANAGEMENT &amp; STUDY">LORD SHIV INSTITUTE MANAGEMENT &amp; STUDY</option><option value="LOTrucks">LOTrucks</option><option value="manhattan">manhattan</option><option value="manisha lifespaces">manisha lifespaces</option><option value="MarvelSoft">MarvelSoft</option><option value="Medick Curo">Medick Curo</option><option value="Melody Wedding And Party Decorators.">Melody Wedding And Party Decorators.</option><option value="Mlewzklawz">Mlewzklawz</option><option value="Mobikart">Mobikart</option><option value="Mr Tems">Mr Tems</option><option value="ms1612155147d">ms1612155147d</option><option value="my passion">my passion</option><option value="My Passion Business Solutions">My Passion Business Solutions</option><option value="Mybiz">Mybiz</option><option value="mybiz.co.in">mybiz.co.in</option><option value="MyBpoBusiness">MyBpoBusiness</option><option value="myonlinejob">myonlinejob</option><option value="mypassion">mypassion</option><option value="Myself">Myself</option><option value="nao">nao</option><option value="neerajd@vmokshagroup.com">neerajd@vmokshagroup.com</option><option value="Neet Online Test Series - NOTS">Neet Online Test Series - NOTS</option><option value="nocompany">nocompany</option><option value="Notretired">Notretired</option><option value="NRC SERVICES.in Pvt. Ltd.">NRC SERVICES.in Pvt. Ltd.</option><option value="Officebing">Officebing</option><option value="omkarsoft">omkarsoft</option><option value="Online Jobs in India - without any investment">Online Jobs in India - without any investment</option><option value="Online Share &amp; Commodity Trading in India - SAMCO">Online Share &amp; Commodity Trading in India - SAMCO</option><option value="Opus Infiniti">Opus Infiniti</option><option value="Oxemberg">Oxemberg</option><option value="packersandmovers">packersandmovers</option><option value="pcr work bhavnagar">pcr work bhavnagar</option><option value="Perfect Address">Perfect Address</option><option value="perfectprofile.net">perfectprofile.net</option><option value="Pitechnologies">Pitechnologies</option><option value="planetayurveda">planetayurveda</option><option value="Pooja Colour Coating">Pooja Colour Coating</option><option value="Post Free Ads and Sell quickly">Post Free Ads and Sell quickly</option><option value="Prestige packers and movers">Prestige packers and movers</option><option value="Profitaim Research Advisory">Profitaim Research Advisory</option><option value="Pune Dating Services">Pune Dating Services</option><option value="Purini Academy">Purini Academy</option><option value="Pyramidion Solutions">Pyramidion Solutions</option><option value="RAJ OPTICS">RAJ OPTICS</option><option value="raleighschrader">raleighschrader</option><option value="Ranaphulkari.com">Ranaphulkari.com</option><option value="Rcp Technologies">Rcp Technologies</option><option value="recipefuture1">recipefuture1</option><option value="Recommended book">Recommended book</option><option value="Registrationwala.com">Registrationwala.com</option><option value="Rihana art Studio">Rihana art Studio</option><option value="RL Infotechh and Solutions">RL Infotechh and Solutions</option><option value="Royal Info Service">Royal Info Service</option><option value="Rsoft Technologies">Rsoft Technologies</option><option value="Samaya Decor (Where Space Takes Shape)">Samaya Decor (Where Space Takes Shape)</option><option value="SAPFOREX24">SAPFOREX24</option><option value="Sell/Offer">Sell/Offer</option><option value="Sensation Software">Sensation Software</option><option value="SEO Dreams">SEO Dreams</option><option value="seowork">seowork</option><option value="service sansar">service sansar</option><option value="SGR Travels">SGR Travels</option><option value="ShoppyZip Online Services Private Limited">ShoppyZip Online Services Private Limited</option><option value="shoprecent">shoprecent</option><option value="shree tours and travels">shree tours and travels</option><option value="shri ramdev infratech pvt ltd.">shri ramdev infratech pvt ltd.</option><option value="silicondew">silicondew</option><option value="SINGH TECH COMMUNICATION">SINGH TECH COMMUNICATION</option><option value="Sivasoft">Sivasoft</option><option value="SKB Car Rentals">SKB Car Rentals</option><option value="skj">skj</option><option value="skj online service">skj online service</option><option value="smail">smail</option><option value="Smart TV Helpline">Smart TV Helpline</option><option value="Smartwitz Home Automation">Smartwitz Home Automation</option><option value="snvmedia">snvmedia</option><option value="solution avenues llp">solution avenues llp</option><option value="Spenz Media">Spenz Media</option><option value="spring field">spring field</option><option value="Square Real Estate">Square Real Estate</option><option value="sriganeshfarm">sriganeshfarm</option><option value="Srivari Dental Clinic">Srivari Dental Clinic</option><option value="sriwebeo">sriwebeo</option><option value="sura books private limited">sura books private limited</option><option value="T &amp; A HR SOLUTIONS">T &amp; A HR SOLUTIONS</option><option value="the country caterers">the country caterers</option><option value="Third Eye Infotech">Third Eye Infotech</option><option value="Tranciscolabs">Tranciscolabs</option><option value="treehouse">treehouse</option><option value="Trent-ed">Trent-ed</option><option value="trust park investments">trust park investments</option><option value="TRY FASHION PVT. LTD.">TRY FASHION PVT. LTD.</option><option value="Ultrasonic Industrial Rat Repellent Machine for of">Ultrasonic Industrial Rat Repellent Machine for of</option><option value="united capital club">united capital club</option><option value="Universal Info Service">Universal Info Service</option><option value="Ursindia">Ursindia</option><option value="vishal">vishal</option><option value="Watson &amp; Watson">Watson &amp; Watson</option><option value="Web Designing House">Web Designing House</option><option value="Web Development">Web Development</option><option value="Webdell Care">Webdell Care</option><option value="webinfosys.net">webinfosys.net</option><option value="wi group india pvt ltd ">wi group india pvt ltd </option><option value="Wincroft">Wincroft</option><option value="Winklix Internet Pvt. Ltd.">Winklix Internet Pvt. Ltd.</option><option value="WWW.MYBIZ.CO.IN">WWW.MYBIZ.CO.IN</option><option value="XYZ">XYZ</option><option value="Yahoo ">Yahoo </option><option value="ZestCreative">ZestCreative</option><option value="Zyraa Fashion">Zyraa Fashion</option>											</select>
+									</div>
+									</div>
+ 
+									<button type="submit" class="apply_btn">Apply Filter </button>
+								 </div>
+							</div>
+							
+							<!--dailog box-->
+						</form>
+						
+						<!--Add Products -->
+						<div class="Pluse">							  
+											 <a href="#" onclick="test()" data-placement="bottom" data-toggle="tooltip" class="Pluse" title="Add Product"> 
+												<i class="fa fa-plus" aria-hidden="true"></i>
+											</a>  
+									</div>						<!-- Add Products Ends -->
+						  <div class="category_dv">	  
+							 <nav>
+								<ul>								   
+									<li class="dropdown">
+										<a href="#">Categories <i class="material-icons">arrow_drop_down</i></a>
+										<ul class="sub-menu">										   
+										<li class="dropdown"> <a href="backpages/getitems.php?key=cat&amp;e=Furniture"><i class="material-icons">card_travel</i>Furniture</a> </li>											
+										<li class="dropdown"> <a href="backpages/getitems.php?key=cat&amp;e=Baby Items"> <i class="material-icons">child_care</i>Baby-items</a> </li>											
+										<li class="dropdown"> <a href="backpages/getitems.php?key=cat&amp;e=Housing"> <i class="material-icons">home</i>Housing</a> </li>											
+										<li class="dropdown"> <a href="backpages/getitems.php?key=cat&amp;e=eGarage-Sales"><i class="material-icons">store</i>E-garage-Sales</a> </li>										
+										<li class="dropdown"> <a href="backpages/getitems.php?key=cat&amp;e=Free"> <i class="material-icons">flare</i>Free</a> </li>											
+										<li class="dropdown"> <a href="backpages/getitems.php?key=cat&amp;e=Other"><i class="material-icons">add_shopping_cart</i>Other</a> </li>											
+										<li class="dropdown"> <a href="backpages/getitems.php?key=cat&amp;e=Bikes and Autos"><i class="material-icons">local_car_wash</i>Bikes and Autos</a> </li>											
+										</ul>
+									</li>									 
+								</ul>
+								</nav>
+								</div>
+						</div>
+			<div class="right_log">
+						<a href="login.php"><span class="log_link"><i class="fa fa-user" aria-hidden="true"></i> Login </span></a>
+							<a href="signup.php"><span class="log_link"><i class="fa fa-sign-in" aria-hidden="true"></i> Signup </span></a>
+					</div>		 
+	</div>
+	  
+	<!--mobile menu-->
+
+	<!--mobile user section-->
+	<!--guest section -->
+			<div id="mobile_user">
+				<div class="wraper">
+					<div class="user_img">
+						<img src="upload/defaultUserPic.jpg" alt="">
+					</div>
+						<div class="name1">Guest</div>
+				</div>
+					<div class="user_menu_li">			
+						<ul id="Mobile_li">
+						
+						<li><a href="signup.php">  <i class="material-icons mob_clr">view_list</i> Signup </a></li>
+						<li><a href="login.php">  <i class="material-icons mob_clr">lock_open</i> Login </a></li>							</ul>
+					</div>
+			</div>
+					
+	 <!--mobile user search-->
+	<div id="movile_wrap">	
+		 <div class="main_mobile">
+		 <ul class="nav_mobile">
+		
+		  
+	  <form action="backpages/searchApi.php" method="post">
+		 <li>
+		 <div class="group">
+			<input type="text" name="searchKey" class="form-control">
+			   <span class="highlight"></span>
+				<label>Search your Keywords here....</label>  
+		 </div></li>
+			 <li>		 	
+			  <div class="group">
+					 <input type="text" class="form-control location" placeholder="" name="location" value="">
+					   <span class="highlight"></span>
+					 <label>Enter a Location</label>  
+			  </div>
+			</li>			 
+			<li>
+			 <div class="form-group">
+				 <div class="prc_reng">
+						<span class="prc_reng">Distance range (in miles):</span>
+					</div>
+				<div class="pric_text">
+						<input type="text" id="distance1" class="price_form" readonly="">
+						<input type="hidden" id="radius1" name="radius">
+				</div>	
+				<div class="clear"></div>
+				<div class="left_rang_ic">
+						<i class="fa fa-map-marker" aria-hidden="true"></i>
+				</div>
+					<div id="slider-range1"></div> 
+					<div class="ryt_rang_ic">
+					<i class="fa fa-car" aria-hidden="true"></i>
+					 </div>
+			 </div>
+			</li>
+			<li>
+				 <div class="form-group">
+					 <div class="form_lbl">Categories</div>
+					 <select class="select2" name="category"> 
+						<option value="All">All</option>
+						<option value="Furniture">Furniture</option>
+						<option value="Baby Items">Baby Items</option>
+						<option value="Housing">Housing</option>
+						<option value="Electronics">Electronics</option>
+						<option value="eGarage-Sales">eGarage-Sales</option>
+						<option value="Other">Other</option>
+						<option value="Free">Free</option>
+						<option value="Bikes and Autos">Bikes and Autos</option>
+					</select>
+					<span class="select2i">  <i class="fa fa-caret-down"></i> </span>
+				</div>
+			 </li>	 
+			 <li>
+				<div class="form-group">
+					  <div class="form_lbl"> Company Name </div>
+					  <select class="select2 selectpicker dropup" title="All" data-width="fit" multiple="" data-size="5" data-actions-box="true" data-selected-text-format="count > 1" data-live-search="true" name="company[]">
+					  <option value=" mypassion"> mypassion</option><option value="360 degree Advertising Agency">360 degree Advertising Agency</option><option value="A Class Holidays">A Class Holidays</option><option value="AAA-BRIGHT ACADEMY">AAA-BRIGHT ACADEMY</option><option value="aachischool">aachischool</option><option value="Aadhocc">Aadhocc</option><option value="Aamzon">Aamzon</option><option value="abc">abc</option><option value="Adaalo India">Adaalo India</option><option value="ADITYA BIRLA FINANCE COMPANY">ADITYA BIRLA FINANCE COMPANY</option><option value="Adoro Institute Of Multimedia">Adoro Institute Of Multimedia</option><option value="Adposting1112">Adposting1112</option><option value="Aflac tourism pvt ltd">Aflac tourism pvt ltd</option><option value="Aflac tourism service pvt ltd">Aflac tourism service pvt ltd</option><option value="AJ Univers">AJ Univers</option><option value="Allsigns technologies">Allsigns technologies</option><option value="Amar Chitra Katha Pvt Ltd">Amar Chitra Katha Pvt Ltd</option><option value="Amruta Pharma">Amruta Pharma</option><option value="AMST">AMST</option><option value="Andrea">Andrea</option><option value="ARGROUP">ARGROUP</option><option value="arisimulation">arisimulation</option><option value="Aruna Diagnostics">Aruna Diagnostics</option><option value="AsEmpire">AsEmpire</option><option value="Ashapuri  catering">Ashapuri  catering</option><option value="Ashoka PVT LTD">Ashoka PVT LTD</option><option value="astrology">astrology</option><option value="baba">baba</option><option value="Babydollstrollerr">Babydollstrollerr</option><option value="Bangalore Escorts">Bangalore Escorts</option><option value="BHARAT TEERTH YATRA">BHARAT TEERTH YATRA</option><option value="blueexpress">blueexpress</option><option value="Brosis Technologies">Brosis Technologies</option><option value="Cafe soul desire">Cafe soul desire</option><option value="CCI">CCI</option><option value="Chipedge Technologies Pvt.Ltd.">Chipedge Technologies Pvt.Ltd.</option><option value="Cleanland">Cleanland</option><option value="clicxa">clicxa</option><option value="clixca">clixca</option><option value="Cloudibn">Cloudibn</option><option value="Company Hidden">Company Hidden</option><option value="CompareBox.pk">CompareBox.pk</option><option value="conduiraonline">conduiraonline</option><option value="copypasting.org">copypasting.org</option><option value="Covai mines And Minerals">Covai mines And Minerals</option><option value="Crystal Computer">Crystal Computer</option><option value="cyber expo">cyber expo</option><option value="D Elite Soft">D Elite Soft</option><option value="data entry">data entry</option><option value="data posting">data posting</option><option value="Data posting jobs">Data posting jobs</option><option value="dataposting work">dataposting work</option><option value="DATAWORK SOLUTIONS">DATAWORK SOLUTIONS</option><option value="Delhi escort agency">Delhi escort agency</option><option value="digital market">digital market</option><option value="Digital Signature Provider">Digital Signature Provider</option><option value="divine pixel and codes pvt ltd">divine pixel and codes pvt ltd</option><option value="DJ Hardy (The Spin Machine)">DJ Hardy (The Spin Machine)</option><option value="dokan.in">dokan.in</option><option value="Dream Logo Design">Dream Logo Design</option><option value="dreamarium photography">dreamarium photography</option><option value="DSPS Solution Pvt Ltd">DSPS Solution Pvt Ltd</option><option value="easyaircoolers.">easyaircoolers.</option><option value="eglobe india">eglobe india</option><option value="eglobetech">eglobetech</option><option value="Empros Services">Empros Services</option><option value="EN Advertising">EN Advertising</option><option value="ENDUE RF PVT LTD">ENDUE RF PVT LTD</option><option value="epeopleinfotech569">epeopleinfotech569</option><option value="Equity Research Lab">Equity Research Lab</option><option value="Escol">Escol</option><option value="Est Top Secret">Est Top Secret</option><option value="EVERGREEN Products and Services">EVERGREEN Products and Services</option><option value="eves24">eves24</option><option value="Evuri online jobs">Evuri online jobs</option><option value="excel bee">excel bee</option><option value="Fantasy Capital Club">Fantasy Capital Club</option><option value="Fantasy Capital Club Pvt. Ltd.">Fantasy Capital Club Pvt. Ltd.</option><option value="fashion industry">fashion industry</option><option value="fcc pvt ltd">fcc pvt ltd</option><option value="Fillip Technologies Private Limited">Fillip Technologies Private Limited</option><option value="Fix The Photo">Fix The Photo</option><option value="Flower Patch">Flower Patch</option><option value="Foodzie Recipes &amp; Cookbook">Foodzie Recipes &amp; Cookbook</option><option value="form filing ">form filing </option><option value="fourtek">fourtek</option><option value="Fox N Angel">Fox N Angel</option><option value="Freakouts Adventure Solutions">Freakouts Adventure Solutions</option><option value="fsc tourism service private limited">fsc tourism service private limited</option><option value="Future Labs Technology">Future Labs Technology</option><option value="Gautam Buddha Educational Trust">Gautam Buddha Educational Trust</option><option value="geek">geek</option><option value="GeekPro Solutions">GeekPro Solutions</option><option value="geekprosolutions">geekprosolutions</option><option value="Geekss">Geekss</option><option value="Glory IT Technologies Pvt. Ltd.">Glory IT Technologies Pvt. Ltd.</option><option value="gmail">gmail</option><option value="Go Webdardy">Go Webdardy</option><option value="Godrej Properties">Godrej Properties</option><option value="golden heritage spa">golden heritage spa</option><option value="Golden technologies">Golden technologies</option><option value="Golden Technology">Golden Technology</option><option value="google">google</option><option value="hanshikacollege">hanshikacollege</option><option value="Happoz">Happoz</option><option value="hhad">hhad</option><option value="holyman">holyman</option><option value="Home">Home</option><option value="Home Based Data Entry">Home Based Data Entry</option><option value="Home Based Data Entry that Pays (4728)">Home Based Data Entry that Pays (4728)</option><option value="http://copypastingjobs.org">http://copypastingjobs.org</option><option value="http://mybiz.co.in/">http://mybiz.co.in/</option><option value="http://realinfojobs.in/">http://realinfojobs.in/</option><option value="http://tigerstrail.com">http://tigerstrail.com</option><option value="http://www.realinfojobs.com">http://www.realinfojobs.com</option><option value="http://www.theperfectlocation.in/">http://www.theperfectlocation.in/</option><option value="HugMe Fashion">HugMe Fashion</option><option value="Hyva It Solutions">Hyva It Solutions</option><option value="I3ITpeople">I3ITpeople</option><option value="IDLID">IDLID</option><option value="Imperial Electric">Imperial Electric</option><option value="INDIA DELL">INDIA DELL</option><option value="Indiadell Support ">Indiadell Support </option><option value="IndiaRush">IndiaRush</option><option value="info@hitechcomputers.in">info@hitechcomputers.in</option><option value="Innerpeace healthsupport solutions">Innerpeace healthsupport solutions</option><option value="Institute of Fundamentals in Quality">Institute of Fundamentals in Quality</option><option value="Irfan">Irfan</option><option value="IS technologies">IS technologies</option><option value="ITFORCE.IN">ITFORCE.IN</option><option value="Jaipur Realty">Jaipur Realty</option><option value="k">k</option><option value="K2B Solutions">K2B Solutions</option><option value="kalingaproperty ">kalingaproperty </option><option value="Katpro Technologies Pvt Ltd">Katpro Technologies Pvt Ltd</option><option value="kmention">kmention</option><option value="legion Travels and Transport Company">legion Travels and Transport Company</option><option value="LoanMoney, The Best way to Own Money">LoanMoney, The Best way to Own Money</option><option value="Loans">Loans</option><option value="LORD SHIV INSTITUTE MANAGEMENT &amp; STUDY">LORD SHIV INSTITUTE MANAGEMENT &amp; STUDY</option><option value="LOTrucks">LOTrucks</option><option value="manhattan">manhattan</option><option value="manisha lifespaces">manisha lifespaces</option><option value="MarvelSoft">MarvelSoft</option><option value="Medick Curo">Medick Curo</option><option value="Melody Wedding And Party Decorators.">Melody Wedding And Party Decorators.</option><option value="Mlewzklawz">Mlewzklawz</option><option value="Mobikart">Mobikart</option><option value="Mr Tems">Mr Tems</option><option value="ms1612155147d">ms1612155147d</option><option value="my passion">my passion</option><option value="My Passion Business Solutions">My Passion Business Solutions</option><option value="Mybiz">Mybiz</option><option value="mybiz.co.in">mybiz.co.in</option><option value="MyBpoBusiness">MyBpoBusiness</option><option value="myonlinejob">myonlinejob</option><option value="mypassion">mypassion</option><option value="Myself">Myself</option><option value="nao">nao</option><option value="neerajd@vmokshagroup.com">neerajd@vmokshagroup.com</option><option value="Neet Online Test Series - NOTS">Neet Online Test Series - NOTS</option><option value="nocompany">nocompany</option><option value="Notretired">Notretired</option><option value="NRC SERVICES.in Pvt. Ltd.">NRC SERVICES.in Pvt. Ltd.</option><option value="Officebing">Officebing</option><option value="omkarsoft">omkarsoft</option><option value="Online Jobs in India - without any investment">Online Jobs in India - without any investment</option><option value="Online Share &amp; Commodity Trading in India - SAMCO">Online Share &amp; Commodity Trading in India - SAMCO</option><option value="Opus Infiniti">Opus Infiniti</option><option value="Oxemberg">Oxemberg</option><option value="packersandmovers">packersandmovers</option><option value="pcr work bhavnagar">pcr work bhavnagar</option><option value="Perfect Address">Perfect Address</option><option value="perfectprofile.net">perfectprofile.net</option><option value="Pitechnologies">Pitechnologies</option><option value="planetayurveda">planetayurveda</option><option value="Pooja Colour Coating">Pooja Colour Coating</option><option value="Post Free Ads and Sell quickly">Post Free Ads and Sell quickly</option><option value="Prestige packers and movers">Prestige packers and movers</option><option value="Profitaim Research Advisory">Profitaim Research Advisory</option><option value="Pune Dating Services">Pune Dating Services</option><option value="Purini Academy">Purini Academy</option><option value="Pyramidion Solutions">Pyramidion Solutions</option><option value="RAJ OPTICS">RAJ OPTICS</option><option value="raleighschrader">raleighschrader</option><option value="Ranaphulkari.com">Ranaphulkari.com</option><option value="Rcp Technologies">Rcp Technologies</option><option value="recipefuture1">recipefuture1</option><option value="Recommended book">Recommended book</option><option value="Registrationwala.com">Registrationwala.com</option><option value="Rihana art Studio">Rihana art Studio</option><option value="RL Infotechh and Solutions">RL Infotechh and Solutions</option><option value="Royal Info Service">Royal Info Service</option><option value="Rsoft Technologies">Rsoft Technologies</option><option value="Samaya Decor (Where Space Takes Shape)">Samaya Decor (Where Space Takes Shape)</option><option value="SAPFOREX24">SAPFOREX24</option><option value="Sell/Offer">Sell/Offer</option><option value="Sensation Software">Sensation Software</option><option value="SEO Dreams">SEO Dreams</option><option value="seowork">seowork</option><option value="service sansar">service sansar</option><option value="SGR Travels">SGR Travels</option><option value="ShoppyZip Online Services Private Limited">ShoppyZip Online Services Private Limited</option><option value="shoprecent">shoprecent</option><option value="shree tours and travels">shree tours and travels</option><option value="shri ramdev infratech pvt ltd.">shri ramdev infratech pvt ltd.</option><option value="silicondew">silicondew</option><option value="SINGH TECH COMMUNICATION">SINGH TECH COMMUNICATION</option><option value="Sivasoft">Sivasoft</option><option value="SKB Car Rentals">SKB Car Rentals</option><option value="skj">skj</option><option value="skj online service">skj online service</option><option value="smail">smail</option><option value="Smart TV Helpline">Smart TV Helpline</option><option value="Smartwitz Home Automation">Smartwitz Home Automation</option><option value="snvmedia">snvmedia</option><option value="solution avenues llp">solution avenues llp</option><option value="Spenz Media">Spenz Media</option><option value="spring field">spring field</option><option value="Square Real Estate">Square Real Estate</option><option value="sriganeshfarm">sriganeshfarm</option><option value="Srivari Dental Clinic">Srivari Dental Clinic</option><option value="sriwebeo">sriwebeo</option><option value="sura books private limited">sura books private limited</option><option value="T &amp; A HR SOLUTIONS">T &amp; A HR SOLUTIONS</option><option value="the country caterers">the country caterers</option><option value="Third Eye Infotech">Third Eye Infotech</option><option value="Tranciscolabs">Tranciscolabs</option><option value="treehouse">treehouse</option><option value="Trent-ed">Trent-ed</option><option value="trust park investments">trust park investments</option><option value="TRY FASHION PVT. LTD.">TRY FASHION PVT. LTD.</option><option value="Ultrasonic Industrial Rat Repellent Machine for of">Ultrasonic Industrial Rat Repellent Machine for of</option><option value="united capital club">united capital club</option><option value="Universal Info Service">Universal Info Service</option><option value="Ursindia">Ursindia</option><option value="vishal">vishal</option><option value="Watson &amp; Watson">Watson &amp; Watson</option><option value="Web Designing House">Web Designing House</option><option value="Web Development">Web Development</option><option value="Webdell Care">Webdell Care</option><option value="webinfosys.net">webinfosys.net</option><option value="wi group india pvt ltd ">wi group india pvt ltd </option><option value="Wincroft">Wincroft</option><option value="Winklix Internet Pvt. Ltd.">Winklix Internet Pvt. Ltd.</option><option value="WWW.MYBIZ.CO.IN">WWW.MYBIZ.CO.IN</option><option value="XYZ">XYZ</option><option value="Yahoo ">Yahoo </option><option value="ZestCreative">ZestCreative</option><option value="Zyraa Fashion">Zyraa Fashion</option>					</select>
+					  
+				</div>
+			 </li>	 
+ 
+			<li>				
+			<button type="submit" class="apply_btn">Apply Filter </button>
+			 </li>
+		 </form>
+		 </ul>
+		 </div>
+		
+		</div>
+ 	<!--mobile menu-->
+  
+		
+		
+<script>
+$("#search_btn").click(function()
+{
+	$("#search1").prop('required',true);
+});
+$("#btnShow").click(function()
+{
+	$("#search1").prop('required',false);
+});
+</script>
+<!--Header Ends -->	
+<div class="clear"></div>
+<div class="faq_wraper">
+<div class="faq_main">
+ 
+ 
+  
+<h1>
+	Privacy Policy
+</h1>
+
+<h2>
+	Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate, disclose, and make use of personal information. The following outlines our Privacy Policy.
+</h2>
+ 
+<p>
+		<b>1.</b> Before or at the time of collecting personal information, we will identify the purposes for which information is being collected. <br>
+	</p>
+	<p>
+		<b>2.</b> We will collect and use of personal information solely for fulfilling those purposes specified by us and for other compatible purposes, unless we obtain the consent of the individual concerned or as required by law.		
+	</p>
+	<p>
+		<b>3.</b> We will only retain personal information as long as necessary for the fulfillment of those purposes. 
+	</p>
+	<p>
+		<b>4.</b> We will collect personal information by lawful and fair means and, where appropriate, with the knowledge or consent of the individual concerned. 
+	</p>
+<p>
+		<b>5. </b>Personal data should be relevant to the purposes for which it is to be used, and, to the extent necessary for those purposes, should be accurate, complete, and up-to-date. 
+	</p>
+	<p>
+		<b>6.</b> We will protect personal information by reasonable security safeguards against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
+	</p>
+	<p>
+		<b>7.</b> We will make readily available to customers information about our policies and practices relating to the management of personal information. 
+	</p>
+ 
+
+<p>
+	We are committed to conducting our business in accordance with these principles in order to ensure that the confidentiality of personal information is protected and maintained. 
+</p>
+ 
+
+</div>
+</div>
+
+</div>
+<div class="copy-right"> 
+	<div class="footer_align">
+		<div class="footer_nav">
+			<span><a href="faq.php">FAQ</a></span>
+			<span><a href="privacy.php">Privacy  </a></span>
+			<span> <a href="terms.php">Terms and Conditions </a></span>
+			<span> <a href="about.php">About Us </a></span>
+			<span> <a href="contact.php">Contact </a></span>
+		
+	</div>
+	<div class="Clear"></div>
+		<p>© 2016 SellAtWork.com</p>
+</div> 
+	
+
+   
+   </div></body></html>
