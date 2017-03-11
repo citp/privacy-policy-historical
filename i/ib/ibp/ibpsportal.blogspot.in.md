@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ibpsportal.blogspot.in privacy policy that was archived on 2015-05-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150515134206id_/http%3A//ibpsportal.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibpsportal.blogspot.in privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311213134id_/http%3A//ibpsportal.blogspot.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - IBPS:Recruitment,Notification,Online Registartion,Results,Admit cards
+# Privacy Policy - IBPS Recruitment 2017 | Notification | Online Application | Results | Admit cards
 
 **IBPSPortal.blogspot.com** **respects your privacy**
 
