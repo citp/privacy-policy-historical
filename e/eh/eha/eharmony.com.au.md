@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806145639id_/http%3A//www.eharmony.com.au/privacy/statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com.au privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311200857id_/http%3A//www.eharmony.com.au/privacy/statement) for the most accurate reproduction.*
 
 # Privacy Policy Statement | eHarmony Australia Dating Site
 
@@ -9,10 +9,6 @@ eHarmony is committed to protecting your privacy. eHarmony will only collect, us
 This privacy policy discloses the privacy practices for the eHarmony Australia website, which may be accessed through [www.eHarmony.com.au](http://www.eharmony.com.au/). This privacy policy (together with the eHarmony [Terms and Conditions of Service](https://web.archive.org/about/terms) and any other documents referred to on it) sets out the basis on which any personal information we collect from you, or that you provide to us, will be processed by us. By agreeing to use eHarmony’s products and services you agree that you consent to eHarmony using your personal information together with any sensitive personal information, such as your ethnic origin, in conformity with the processes set out in the eHarmony [Terms and Conditions of Service](https://web.archive.org/about/terms) and this privacy policy. If you do not provide the information requested, we may not be able to provide eHarmony’s products or services.
 
 For the purpose of the Act, the data controller is eHarmony, Inc. of _P.O. Box 241810, Los Angeles, CA 90024 USA_.
-
-eHarmony, Inc. has been awarded TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed by TRUSTe for compliance with TRUSTe's program requirements including transparency, accountability and choice regarding the collection and use of your personal information. The TRUSTe program covers only information that is collected through this Web site, www.eharmony.com.au. 
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding our privacy policy or practices, please contact us at [privacy@eharmony.com.au](mailto:privacy@eharmony.com.au). If you are not satisfied with our response you can contact TRUSTe [here](http://watchdog.truste.com/pvr.php?page=complaint). 
 
 ## What Information We Collect
 
@@ -110,6 +106,10 @@ Your use of our website(s), including any dispute concerning privacy, is subject
 
 Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail or other suitable means. Your continued use of any section of our website following posting and/or notification of the updated privacy policy will constitute your acceptance of the privacy policy as amended.
 
+## Dispute resolution
+
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
+
 ## Effective Date
 
-This privacy statement was last revised on 12 May 2016.
+This privacy statement was last revised on December 7, 2016.
