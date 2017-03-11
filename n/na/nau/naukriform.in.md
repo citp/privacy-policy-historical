@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naukriform.in privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127203556id_/http%3A//www.naukriform.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naukriform.in privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311185456id_/http%3A//www.naukriform.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - NaukriForm.in
 
@@ -26,3 +26,5 @@ Infolinks
 The third party can ad-serves or add networks use advertisement cookies and log file for different technologies to the advertisements and links that appear on _[www.naukriform.in](http://www.naukriform.in/)_ in send directly to your browser.
 
 Every step has been taken just to make the accuracy of information safe appointed in this site knows as naukriform.in it does not accept any accountability for any loss to any person for the results of any action taken on the basis of this information. If you are interested to disable cookies, you may do so by your own browser option.
+
+Share this useful info...
