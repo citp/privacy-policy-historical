@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006131454id_/http%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the translink.com.au privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311182518id_/https%3A//translink.com.au/legal/privacy) for the most accurate reproduction.*
 
-# Privacy | translink.com.au
+# Privacy | TransLink
 
 The Department of Transport and Main Roads is committed to protecting your personal information. Our objective is to protect the privacy, accuracy and security of your personal information in accordance with the _Information Privacy Act 2009 (Qld)_.
 
@@ -118,9 +118,7 @@ The TransLink website uses cookies for the [journey planner](http://jp.translink
 
 The website contains links to non-Department of Transport and Main Roads websites. The Department of Transport and Main Roads is not responsible for the privacy or security practices or the content of those websites.
 
-If you have any questions about our privacy and security practices, please contact:
-
-The Department of Transport and Main Roads
+If you have any questions about our privacy and security practices, please contact The Department of Transport and Main Roads:
 
 Right to Information, Privacy and Complaints Management  
 Department of Transport and Main Roads  
