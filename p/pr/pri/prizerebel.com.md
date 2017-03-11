@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the prizerebel.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219043323id_/http%3A//www.prizerebel.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prizerebel.com privacy policy that was archived on 2017-03-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170311082315id_/https%3A//www.prizerebel.com/privacy.html) for the most accurate reproduction.*
 
 # 
 
-This privacy policy "Policy" describes how PrizeRebel and its related companies "Company" collect, use and share personal information of consumer users of this website, http://www.prizerebel.com "Site". This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
+This privacy policy "Policy" describes how PrizeRebel and its related companies "Company" collect, use and share personal information of consumer users of this website, https://www.prizerebel.com "Site". This Policy also applies to any of our other websites that post this Policy. This Policy does not apply to websites that post different statements.
 
 ### WHAT WE COLLECT
 
@@ -49,11 +49,11 @@ We may share information in an emergency. This includes protecting the safety of
 
 ### Survey Communication
 
-Based on the email and demographic information that you provide us, we may occasionally send you survey opportunities from our partners and clients by email or display surveys to you upon your logging into prizerebel.com. To opt out from receiving any survey opportunities, please visit <http://www.prizerebel.com/optout.php> or follow the opt out link in any email that you receive from PrizeRebel.com
+Based on the email and demographic information that you provide us, we may occasionally send you survey opportunities from our partners and clients by email or display surveys to you upon your logging into prizerebel.com. To opt out from receiving any survey opportunities, please visit <https://www.prizerebel.com/optout.php> or follow the opt out link in any email that you receive from PrizeRebel.com
 
 ### INFORMATION CHOICES AND CHANGES
 
-Our emails contains instructions on how to "opt-out." To opt out, please visit <http://www.prizerebel.com/optout.php>. If you opt out, we may still send you non-marketing emails. Non-marketing emails include transactional emails about your accounts.
+Our emails contains instructions on how to "opt-out." To opt out, please visit <https://www.prizerebel.com/optout.php>. If you opt out, we may still send you non-marketing emails. Non-marketing emails include transactional emails about your accounts.
 
 You may send requests about personal information to our Contact Information below. You can request to change contact choices, opt-out of our sharing with others, and update your personal information.
 
