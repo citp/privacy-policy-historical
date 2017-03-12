@@ -1,65 +1,88 @@
-> *The following text is extracted and transformed from the vcahospitals.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224223809id_/http%3A//www.vcahospitals.com/main/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vcahospitals.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312210659id_/https%3A//vcahospitals.com/privacy-policy) for the most accurate reproduction.*
 
-# VCA Home Office Privacy Policy
+# Privacy Policy | VCA Animal Hospitals
 
-The Privacy Policy of VCA Inc., and its subsidiaries ("VCA") has been developed as an extension of our commitment to combine the finest quality veterinary services with the highest level of integrity in dealing with our customers. This Policy guides how we collect, store and use information about customers and prospects, and it will be periodically assessed against new technologies, business practices and our customers\' changing needs.
+VCA is committed to protecting your privacy and providing a safe online experience.  This Privacy Statement applies to [www.vca.com](http://www.vca.com/), [www.vcahospitals.com](https://web.archive.org/), and any other website where this Privacy Statement is posted (collectively, the “Site”).  
 
-VCA may, from time to time, modify this Privacy Policy to reflect legal, technological and other developments. In that event, the changes will appear at this location.
+This Privacy Statement applies to data and information collected through the Site and your use of the content, products and services offered through the Site.  We encourage you to read this Privacy Statement carefully.  By using the Site, you consent to the data and information collection and use practices described in this Privacy Statement.
 
-Our Policy recognizes that Personally-Identifiable Information includes, for example, e-mail addresses, billing information, employment status and "click stream" data that tracks user activity on a Web site or online service.
+**COLLECTION OF YOUR PERSONAL INFORMATION**  
+The Site may collect data and information about you and your use of the Site and the content, products and services available through the Site.  Data and information we collect may include personally identifiable information, such as your name, home or work address, email address, or telephone number.  The Site may collect data and information we do not consider personally identifiable information, such as information about your pet, including your pet’s name, species, breed, birthday and treatment information, general data and information, such as your ZIP code, age, gender, preferences, interests, and favorites, and data and information about your computer hardware and software, such as your IP address, browser type, domain names, access times, and referring Site addresses.  
 
-VCA is committed to using all reasonable efforts to abide by its Privacy Policy, as stated below:
+Data and information about you and your use of the Site and the content, products and services may be voluntarily provided when you choose to use or buy any of the content, products and services available through the Site and some data and information may be automatically collected by the Site.
 
-**1\. Collection.**
+Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through any bulletin board services, chat areas, news groups, forums, communities, personal web pages, calendars, and/or other message or communication facilities designed to enable you to communicate with the public at large or with a group, this information may be collected and used by others.  
 
-First, and foremost, we do not sell or provide your information to entities outside VCA (see "external distribution" below.) Personally-Identifiable Information will only be collected to the extent that VCA deems reasonably necessary to serve a legitimate business purpose.
+**USE OF YOUR PERSONAL INFORMATION**
 
-When you send us Personally-Identifiable Information, (i.e. in an electronic mail message containing a question or comment), or by filling out a form that e-mails us this information, we use this information to respond to your request or inquiry for our services, programs, products and offerings, and to offer you other services, programs or products that we believe may be of interest to you. VCA may on occasion combine information we receive online with outside records to enhance our ability to market to you those products or services that may be of interest to you.
+**Use by VCA**
 
-We may also forward your e-mail to other VCA employees, who are best able to answer your questions. We sometimes use this information to communicate with you, such as to notify you when new resources are available, when we make changes to online or print products and services, and/or to fulfill a request by you for an online newsletter.
+** ** Data and information collected by the Site, including your personally identifiable information, may be used by VCA, and its affiliated companies, for various purposes, including without limitation:
 
-If your browser accepts cookies, we may use a cookie to determine if you are a repeat or new visitor, or to understand how many different visitors come to, and use, our site. We sometimes use the non-personally identifiable information that we collect to improve the design and content of our site and to enable us to personalize your Internet experience. We also may use this information in aggregate form to analyze site usage, as well as to offer you services, programs, or products.
+  * Operating, maintaining, and improving the quality of the Site and the content, products and services available through the Site.
+  * Displaying content, products and services according to your interests and preferences, past orders, and activities.
+  * Providing faster methods for you to submit information to us and receive back the content, services or products you desire.Processing your orders and delivering services and products or processing entries to and running contests, sweepstakes, programs and surveys.
+  * Communicating with you by postal mail, e-mail, text (SMS, MMS), phone and other methods of communication:  
+    o about us, our partners, and the content, products and services offered by us and our partners, including, contests, rewards, events, and special offers for content, products and services; and  
+    o with respect to confirmations, invoices, notices, updates, product alerts and other administrative messages.
+  * For other purposes with your consent or as permitted or required by law.
 
-Please be aware that if you disclose Personally-Identifiable Information on Web site message boards or chat areas, that information may be collected and used by third parties unrelated to VCA without our knowledge, such as through spyware or adware, and may result in unsolicited communications from third parties. Such activities are beyond the control of VCA.
 
-**2\. Links to Other Sites.**
 
-The documents posted on this Web site may contain hypertext links or pointers to information created and maintained by other public and private organizations. These links and pointers are provided for the convenience of our Web site visitors. VCA does not control or guarantee the accuracy, timeliness, availability or completeness of any linked information from non-VCA sites.
+**Sharing Information with Third Parties**
 
-The inclusion of links or pointers to Web sites is not intended to assign importance to those sites or the information contained therein, nor is it intended to endorse or recommend any views expressed, or products or services offered on these sites.
+** ** We may provide general, aggregated, or anonymous data and information about users of the Site, including with respect to their use of the Site and the content, products and services offered through the Site.  We will not connect such information to personally identifiable information, such as your name or address, without your consent.  We may share this general, aggregated, or anonymous data and information with our customers and partners including, suppliers of advertisements, potential affiliate partners in academia and industry, as well as for other commercial relationships or other purposes. 
 
-The non-VCA sites may also have their own privacy policies and practices. While VCA will employ commercially appropriate procedures to help ensure that your information is only used for authorized purposes as described above, VCA cannot make any guarantees with respect to the actions or policies of such third parties.
+In addition, we may share personal identifiable information we collect from you under the following circumstances: 
 
-**3\. External Distribution**
+  * Protection of Rights.  We will share personal information if we have a good faith belief that (i) access, use, preservation or disclosure of such information is reasonably necessary to satisfy any applicable law, regulation, legal process, such as a court order or subpoena, or a request by law enforcement or governmental authorities, (ii) such action is appropriate to enforce the Terms of Service for the Site, including any investigation of potential violations thereof, (iii) such action is necessary to detect, prevent, or otherwise address fraud, security or technical issues associated with the Site or our services, or (iv) such action is appropriate to protect the rights, property or safety of VCA, its employees, users of the Site or others.
+  * Asset Transfers. If we or any of our affiliates become involved in a merger, acquisition or other transaction involving the sale of some or all of our assets, we may disclose your unique personally identifiable information to third parties in connection with the evaluation, financing, and/or consummation of the transaction and your personally identifiable information could be included in the assets transferred as part of the transaction.
+  * Service Providers.  We may share your personally identifiable information with third party service providers that we engage for various purposes, including, without limitation, processing, analyzing, and/or storing data, printing and mailing services, email services, billing and collections, customer support, and delivery of products.  To the extent applicable, we require these entities to comply with this Privacy Statement and appropriate confidentiality and security measures.
 
-VCA does not share any information we receive with any outside parties, except for the following: 1) When required by law, in connection with legal proceedings and investigations of crimes or other wrongdoing, and 2) For Onward Transfers.
 
-**4\. Onward Transfer**
 
-Sharing Personally-Identifiable Information with an entity working on behalf of VCA or transferring Personally-Identifiable Information in conjunction with the sale or similar transfer of a business unit is considered an Onward Transfer.
+**LINKS TO THIRD PARTY WEBSITES**
 
-Whenever VCA permits a third-party outside of VCA to access Personally-Identifiable Information through Onward Transfer, commercially appropriate procedures will be followed to help ensure that the information is used only for authorized purposes and by authorized persons in a manner consistent with the choices customers and prospects have made under this Policy, and that the security, integrity and privacy of the information is maintained.
+We may offer links to web sites operated by third parties.  Please be aware that we are not responsible for the privacy practices of such other web sites.  We encourage you to review the privacy statements of any third party websites you choose to link to from the Site so that you can understand how those websites collect, use and share your information.  We are not responsible for the privacy statements or other content on websites outside of the Site and the VCA family of websites.  This Privacy Statement applies solely to information collected by the Site. 
 
-**5\. Protection of Information.**
+**USE OF COOKIES AND WEB BEACONS**
 
-We maintain physical, electronic, and procedural safeguards that comply with industry standards to protect your personal information from unauthorized access or use. We restrict access to your personal and account information to those employees who need to know that information in order to provide products and services to you. All employees are required to protect and maintain the confidentiality of your information in accordance with our policies and procedures.
+** ** The Site uses “cookies” to help personalize your online experience.  A cookie is a text file that is placed on your hard disk by a web page server.  Cookies cannot be used to run programs or deliver viruses to your computer.  Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
 
-If we use a third-party to host our Web site and/or data, the third-party organization is required to ensure site security by employing industry-standard methods to monitor network traffic to identify unauthorized attempts to upload or change information, or otherwise cause damage. Unauthorized attempts to upload information or change information on VCA servers, or servers used on behalf of VCA by a third-party organization, are strictly prohibited and may be punishable by law, including the Computer Fraud and Abuse Act of 1986 and the National Information Infrastructure Protection Act.
+One of the primary purposes of cookies is to provide a convenience feature to save you time.  The purpose of a cookie is to tell the web server that you have returned to a specific page.  For example, if you personalize Site pages, or register with the Site or services provided through the Site, a cookie helps the Site to recall your specific information on subsequent visits.  This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same website, the information you previously provided can be retrieved, so you can easily use the Site features that you customized.
 
-**6\. Choice: Opt-Out from Distribution Lists**
+You have the ability to accept or decline cookies.  Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer.  If you choose to decline cookies, you may not be able to fully experience the interactive features of the Site services or websites you visit.
 
-Customers and prospects may choose to refuse permission for use of their name, address or other Personally-Identifiable Information to be used in Distribution Lists maintained by IVCA for the purpose of contacting you with services, offerings, products or other communication.
+The Site and e-mails we may send you may also use web beacons.  Web beacons are electronic images which can be used to deliver cookies, count visits, or tell if an e-mail has been opened or acted upon.
 
-If you wish to "opt-out" and be removed from distribution lists of our messages concerning products, services and offerings, please include your name and address in the e-mail text box. Please do not change the Header Information in the e-mail.
+**SECURITY OF YOUR PERSONAL INFORMATION**
 
-**7\. Cookies.**
+** ** We secure your personal information from unauthorized access, use, or disclosure and secure the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use, or disclosure.  When personal information (such as a credit card number) is transmitted to other websites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
 
-What is a "Cookie"? A cookie is a small piece of information that is sent to your browser, along with a Web page, when you access a Web site. There are two kinds of cookies: a "session" cookie and a "persistent" cookie. A session cookie is a line of text that is stored temporarily in your computer\'s RAM. Because a session cookie is never written to a drive, it is destroyed as soon as you close your browser. A persistent cookie is a more permanent line of text that gets saved by your browser to a file on your hard drive. Depending on your browser settings, you may receive notification that a given site is requesting cookie information, possibly with an expiration date. Persistent cookies have an expiration date in the future. Session cookies have no date associated with them.
+Due to the nature of the Internet, we cannot guarantee that communications between you and VCA, and other users and you, will be free from unauthorized access by third parties or accidental loss or damage.  Therefore, your use of the Site and the services, and your disclosure to us of any personally identifiable information, is at your own risk.  However, once we receive a transmission from you, we will make reasonable efforts to ensure the security of your information in our operations.
 
-VCA uses pixels, or transparent GIF files, to help manage online advertising. These GIF files are provided by our ad management partner, DoubleClick. These files enable DoubleClick to recognize a unique cookie on your Web browser, which in turn enables us to learn which advertisements bring users to our website. The cookie was placed by us, or by another advertiser who works with DoubleClick. With both cookies and Spotlight technology, the information that we collect and share is anonymous and not personally identifiable. It does not contain your name, address, telephone number, or email address. For more information about DoubleClick, including information about how to opt out of these technologies, go to <http://www.google.com/privacy/ads/>.
+If we learn of a security breach through which sensitive personal information may have been compromised, we may attempt to notify you electronically so that you can take appropriate protective steps.  We may post a notice on our Web site if a security breach occurs.  By using this Web site, or providing personal information to us through any means, you expressly agree that we can communicate with you electronically regarding security, privacy, and administrative issues relating to your use of this Web site and our services.
 
-**8\. Questions?**
+**OPT-OUT FROM RECEIVING COMMUNICATIONS  **
 
-If you have questions about VCA\'s Privacy Policy, please contact us, and we will be happy to assist you.
+** ** You may “opt-out” of receiving communications via postal mail, e-mail, phone and other communication methods.  In order to opt out of receiving these communications, you should follow the “unsubscribe” or “manage email preferences” instructions contained in any communication you receive or send us an email request to webmaster@vca.com and include “Opt-Out” in the subject box and include your name and email address in the text box.  
 
-[Return to our homepage](https://web.archive.org/main/home "Return to our homepage")
+**TEXT MESSAGING**
+
+** ** We may offer text/SMS messaging communications to you as part of the products and services available from us. You may need to opt-in to receive text communications from us.  You may opt-out of receiving particular text messaging communications from us (other than Text Appointment Reminders) at any time by texting the word STOP in response to any text message. After you opt-out, a confirmation message may be sent to you, indicating your participation in the text messaging communication portion of the offered product or service was terminated and that you will no longer receive additional text messages from us.  
+
+Unless expressly noted, all text messaging services are offered without charge to you.  Message, data rates and other charges may apply.  You are liable for any mobile phone charges incurred (usage, subscription, etc.) as a result of using any of our products or services.  Please consult your mobile service carrier's pricing plan to determine the charges for sending and receiving text messages.
+
+For information about Text Appointment Reminder text messages please click here [https://vcahospitals.com/text-appt-alert-terms](https://web.archive.org/text-appt-alert-terms).
+
+**CONTACT INFORMATION**
+
+** ** We welcome your comments regarding this Privacy Statement.  If you believe that VCA has not adhered to this Privacy Statement, please contact us at webmaster@vca.com.  We will use commercially reasonable efforts to promptly determine and remedy the problem.
+
+**CHANGES TO THIS PRIVACY STATEMENT**
+
+** ** We may occasionally update this Privacy Statement to reflect company and customer feedback.  We encourage you to periodically review this Privacy Statement to be informed of how we are protecting your information.  You will be bound by any changes to our Privacy Statement when you use the Site after such changes to our Privacy Statement have been posted.
+
+The Site is administered and maintained by VCA Inc.  Use of the Site is governed by the Terms of Use and indicates acceptance of such terms.
+
+©2017 VCA Inc.  All rights reserved.
