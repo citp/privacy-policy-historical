@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boostability.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603043548id_/https%3A//www.boostability.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boostability.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312103027id_/https%3A//www.boostability.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Boostability
 
@@ -22,11 +22,11 @@ In order to unsubscribe from a mailing list, you may choose any of the following
 
 Follow the unsubscribe link found at the bottom of the email you’ve received.
 
-Contact your account manager or our customer service and ask to be unsubscribed from automated marketing and/or campaign update emails.
+Contact your client success team or our customer service and ask to be unsubscribed from automated marketing and/or campaign update emails.
 
 Remove yourself from Boostability’s automated campaign update emails by visiting our unsubscribe page. We will promptly update your preferences for this email address.
 
-Please be aware that if you are a Boostability customer, an account manager may continue to manually contact you via email for administrative or informational purposes, including follow-up messages regarding business transactions between Boostability and yourself. By law, such messages are not considered to be commercial e-mail.
+Please be aware that if you are a Boostability customer, an member of our client success team may continue to manually contact you via email for administrative or informational purposes, including follow-up messages regarding business transactions between Boostability and yourself. By law, such messages are not considered to be commercial e-mail.
 
 **How your data is stored and when it may be shared**
 
@@ -50,4 +50,4 @@ This Privacy Policy is intended to cover collection of information on our websit
 
 We may make changes and updates to our Privacy Policy. We will post all changes on www.Boostability. We encourage you to review this policy frequently so that you are aware of any changes in how we collect and use the information you provide us. This policy was last updated November 2015.
 
-Copyright 2009-2015
+Copyright 2009-2016
