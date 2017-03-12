@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the rsvpify.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914034611id_/https%3A//rsvpify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rsvpify.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312043057id_/https%3A//rsvpify.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - RSVPify.
+# Privacy Policy - RSVPify
 
 **COLLECTION OF PERSONAL INFORMATION**
 
