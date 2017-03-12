@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quikly.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822060730id_/https%3A//www.quikly.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quikly.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312030923id_/https%3A//www.quikly.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 _Last Updated: November 2nd, 2015_
 
-**Quikly LLC ("Quikly," or "we," or "us") has adopted this Privacy Policy to explain its practices relating to the collection, use,   sharing and storage of data received from or through the use of its website [www.quikly.com](http://www.quikly.com/) (the "Site") and all services offered via the site and all related mobile or online services or applications (collectively "Services"). Unless otherwise defined, any capitalized terms used in this Privacy Policy have the same meaning as in our ** **[Terms of Service](https://web.archive.org/page/terms).**
+**Quikly, Inc. ("Quikly," or "we," or "us") has adopted this Privacy Policy to explain its practices relating to the collection, use,   sharing and storage of data received from or through the use of its website [www.quikly.com](http://www.quikly.com/) (the "Site") and all services offered via the site and all related mobile or online services or applications (collectively "Services"). Unless otherwise defined, any capitalized terms used in this Privacy Policy have the same meaning as in our ** **[Terms of Service](https://web.archive.org/page/terms).**
 
 **List of topics with Links:**
 
