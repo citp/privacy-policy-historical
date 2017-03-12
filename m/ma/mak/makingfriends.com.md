@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makingfriends.com privacy policy that was archived on 2016-10-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161002010251id_/https%3A//makingfriends.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makingfriends.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312224921id_/https%3A//makingfriends.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - MakingFriendsMakingFriends
 
@@ -7,7 +7,7 @@ MakingFriends.com
 
 MakingFriends.com, Inc. has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website.
 
-**MakingFriends.com, Inc. complies with the Children’s Online Privacy[](http://www.makingfriends.com/privacy_statement.htm#)Protection Act (COPPA.) This means that we never collect personal information from children under 13 years of age.**
+ **MakingFriends.com, Inc. complies with the Children’s Online Privacy[](http://www.makingfriends.com/privacy_statement.htm#)Protection Act (COPPA.) This means that we never collect personal information from children under 13 years of age.**
 
 MakingFriends.com never sells or gives your email address or other personal information to anyone for any purpose. MakingFriends.com never uses any information collected for any other purpose than that which is requested by the individual providing it. MakingFriends.com never sends out spam.
 
