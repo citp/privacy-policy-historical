@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the funnycorner.net privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320213237id_/http%3A//www.funnycorner.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the funnycorner.net privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312145008id_/http%3A//www.funnycorner.net/privacy.html) for the most accurate reproduction.*
 
 # funnycorner.net | Privacy Policy
 
