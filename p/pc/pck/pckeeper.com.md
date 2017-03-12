@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pckeeper.com privacy policy that was archived on 2016-09-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160908015033id_/http%3A//pckeeper.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pckeeper.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312183524id_/http%3A//pckeeper.com/privacy) for the most accurate reproduction.*
 
 # PCKeeper Official Website
 
