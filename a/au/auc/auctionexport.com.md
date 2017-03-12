@@ -1,14 +1,7 @@
-> *The following text is extracted and transformed from the auctionexport.com privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601051147id_/https%3A//www.auctionexport.com/en/Home/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the auctionexport.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313004144id_/https%3A//www.auctionexport.com/en/Home/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Auction Export
 
-| 
-
-[ ](https://web.archive.org/en/Inventory)
-
-|  |    
----|---|---  
-  
   | 
 
   
