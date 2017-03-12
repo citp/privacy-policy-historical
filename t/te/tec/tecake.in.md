@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tecake.in privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219113156id_/http%3A//tecake.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tecake.in privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312215046id_/https%3A//tecake.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -8,11 +8,11 @@ If you choose not to provide personal information, you can still use most of the
 
 #### How is information collected?
 
- **From Cookies**. Like many websites, we use “cookies.” We use persistent, identifying cookies to detect your browser, remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the site may not function and appear as we have designed it. For more information about cookies, including controlling and deleting them, please visit the [www.aboutcookies.org](http://www.aboutcookies.org/) website.
+**From Cookies**. Like many websites, we use “cookies.” We use persistent, identifying cookies to detect your browser, remember your information and to link your activities to you. While you can take steps to warn off, block or disable cookies, if you do, the site may not function and appear as we have designed it. For more information about cookies, including controlling and deleting them, please visit the [www.aboutcookies.org](http://www.aboutcookies.org/) website.
 
- **From traffic references.**  when you visit a website, you unveil certain information about you, such as your IP address, time of visit, place from which you accessed our website. [www.tecake.com](http://www.tecake.com/), like other operators, stores this information.
+**From traffic references.**  when you visit a website, you unveil certain information about you, such as your IP address, time of visit, place from which you accessed our website. [www.tecake.com](http://www.tecake.com/), like other operators, stores this information.
 
- **From Social Networks.  **While entering a contest, or ordering e-mail newsletters, we may ask to share website content on your Social Networks like Facebook, Twitter etc. So you should review your privacy settings on your social network accounts because those settings determine and govern what information may be made available to us.
+**From Social Networks.  **While entering a contest, or ordering e-mail newsletters, we may ask to share website content on your Social Networks like Facebook, Twitter etc. So you should review your privacy settings on your social network accounts because those settings determine and govern what information may be made available to us.
 
 #### Security
 
