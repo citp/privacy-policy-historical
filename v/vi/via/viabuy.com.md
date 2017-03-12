@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the viabuy.com privacy policy that was archived on 2016-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160422030826id_/https%3A//www.viabuy.com/service-experience/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viabuy.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312213356id_/https%3A//www.viabuy.com/service-experience/privacy.html) for the most accurate reproduction.*
 
-# Privacy policy | VIABUY Prepaid MasterCard
+# Privacy policy | VIABUY Prepaid Mastercard
 
 **PPRO Financial Ltd’s privacy principles**
 
@@ -51,10 +51,9 @@ We keep our Privacy Principles under regular review and may update this page fro
 
 **PPRO Financial Ltd Head Office**
 
-23 Hanover Square  
-London  
-W1S 1JB  
-England 
+20 Balderton Street  
+London W1K 6TL  
+United Kingdom 
 
 **What are cookies?**
 
