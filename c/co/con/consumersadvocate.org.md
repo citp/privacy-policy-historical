@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the consumersadvocate.org privacy policy that was archived on 2016-07-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160720070442id_/https%3A//www.consumersadvocate.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consumersadvocate.org privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312044447id_/https%3A//www.consumersadvocate.org/privacy) for the most accurate reproduction.*
 
-# Consumer's Advocate - Educated Decisions Make Informed Consumers.
+# Privacy Policy | ConsumersAdvocate.org
 
 ## Consumers Advocate commitment to privacy
 
