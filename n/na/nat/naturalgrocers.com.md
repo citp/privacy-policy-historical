@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the naturalgrocers.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905200058id_/https%3A//www.naturalgrocers.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naturalgrocers.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312110600id_/https%3A//www.naturalgrocers.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | Natural Grocers
 
 As used in this Privacy Policy, “Natural Grocers”, “us,” “we” and “our” refers to Natural Grocers by Vitamin Cottage, Inc. and its subsidiaries and affiliates.
 
