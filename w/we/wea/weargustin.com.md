@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the weargustin.com privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411015557id_/https%3A//www.weargustin.com/information%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the weargustin.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312225733id_/https%3A//www.weargustin.com/information%23privacy) for the most accurate reproduction.*
 
 # Information | Gustin
 
@@ -77,7 +77,7 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 
 Contacting us
 
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Gustin www.weargustin.com 1285 Sutter Street, Unit PH4, San Francisco, CA 94109 [team@weargustin.com](mailto:team@weargustin.com)
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at: Gustin www.weargustin.com 1809D Fourth Street, Berkeley, CA 94710 [team@weargustin.com](mailto:team@weargustin.com)
 
 * * *
 
