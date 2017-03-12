@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the dogstrust.org.uk privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907221635id_/https%3A//www.dogstrust.org.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dogstrust.org.uk privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312232156id_/https%3A//www.dogstrust.org.uk/privacy) for the most accurate reproduction.*
 
-# Privacy - Dogs Trust
+# Privacy | Dogs Trust
 
-Your privacy is important to us. Please read the below to see how Dogs Trust works to protect you.
+### In safe paws
+
+Dogs Trust takes your privacy seriously. We are committed to protecting your personal information. This policy sets out how Dogs Trust uses the information that you provide us with in order to help further our work in protecting dog welfare. 
 
 ### Cookies and Web Privacy
 
@@ -42,10 +44,45 @@ Some emails that we send you have no tracking in at all e.g. service emails with
 
 Financial transactions made online to Dogs Trust using this site are secure.  No one can access your credit card details via the internet.
 
-### This is how our website works...
+#### How our website works
 
 When you have completed your donation or sponsorship, your web browser will be connected directly to our secure server.  You can see that the connection is secure by looking at the padlock or key icon in the bottom left hand corner of your browser.  Your browser may also alert you to the fact that you are connecting to a secure server, and if so, it will also tell you when you are closing the secure connection once you have donated.  This is for your information only.  
 Our secure server communicates with your browser using SSL (Secure Sockets Layer) protocols, so that all your personal information, including credit card number and your name and address, is encrypted.  This process takes the words and figures you enter, and converts them into bits of code that are then securely transmitted over the internet.
+
+### **Your Information – what we collect and how we use it**
+
+Dogs Trust collects information from the public in a number of different ways.  For example, we ask for contact and other information when members of the public rehome or adopt a dog, sign up to our shared adoption scheme or engage with one of our campaigns such as our microchipping or our neutering schemes or attend a Dog School training class.  This information may include your name, date of birth and contact information.
+
+If you are a supporter of Dogs Trust, by becoming a member, sponsoring a dog or donating to us we will ask for information that enables us to administer your donation.  This will normally include your name, contact information such as address, email or telephone number and your payment details and gift aid status.  
+
+We also like to find out about your personal motivation for supporting us or your experience as a supporter.  This will help us to give you the information about products and services most relevant to you.  In some instances, we may carry out analysis of the personal information that you have provided to us and add publicly available information to help us tailor our communications to you.  This could include information on your interests, preferences and the level of any potential donations and can help us to improve our service and manage our contact with you in an appropriate way.
+
+If you have given us your consent, we will contact you with information on our latest campaigns and fundraising activities. This may be by post, email, telephone or text message, depending on your preferences. We will also ask about your marketing preferences, to ensure that you are still happy to be contacted by us and by which means.
+
+Should you wish to change your preferences you can do this by writing to us at Clarissa Baldwin House, 17 Wakley Street, London, EC1V 7RQ, by phone on 0207 837 0006 or by email addressed to [customerservices@dogstrust.org.uk](mailto:customerservices@dogstrust.org.uk)
+
+From time to time we may contact you to ensure that the information you have provided us with remains accurate and up to date.  In some circumstances we may use external data lists to avoid misdirecting our communications with you. 
+
+To help us communicate the work we are doing and provide these services we use trusted service providers including fundraising agencies, electronic marketing agencies and direct mailing providers.
+
+Dogs Trust do not share, sell or swap your information with other organisations to use for their own marketing. 
+
+In some circumstances it is necessary for Dogs Trust to give relevant staff at our service providers access to your personal information.  This access is only granted to the extent necessary for them to perform their services for us. We require all service providers to comply with strict rules to protect the information you have given us.
+
+Like all organisations, we may comply with requests for the disclosure of personal information where this is required or permitted by law.  This could include requests from law enforcement or tax agencies. In these circumstances, the request must be submitted in writing and in accordance with the relevant legal requirements.
+
+#### **Who we are**
+
+By Dogs Trust and our subsidiaries we mean:The charity, Dogs Trust (registered charity numbers 227523 and SC037843);
+
+  * Dogs Trust Trustee Limited (registered company number 08996564);
+  * Dogs Trust Limited (UK registered company number 04877537 and Ireland registered company number 396919).
+  * The charity, Dogs Trust Limited (Ireland) (registered charity number 20057978);
+  * The charity, Dogs Trust Worldwide (registered charity numbers 1167663);
+  * Dogs Trust Worldwide (registered company number 09365971);
+  * Dogs Trust Promotions Limited (registered company number 00963277);
+
+
 
 ### Data Protection
 
@@ -71,4 +108,4 @@ We can only provide raffle tickets to those aged 16 and over and resident in Gre
 
 All photography on this site is reproduced with kind permission of the photographers concerned.  We would like to thank the following for the use of some of their images from time to time on this site: Adrian Brooks Photography, Alan Howard, Andy Caterall, Angus McDougall, Clifford Mason, David McNie, George Archer, Gerry Whitaker, Ian Dixon, Jason Tilley, Jason Venus, Linda Capel, Malcolm Couzens, Marc Henrie, Mike Hall, Dogs Trust Rehoming Centre Staff, Dogs Trust , Pat Doyle, Paul Fletcher, Robert Jones, Roger Richards, Tony Hall, Tim Rose, United Northern Photographers, Vicki Couchman, Wymondham Photographic, Phil Tull.
 
-Updated 12th July 2012
+Updated 22nd December 2016
