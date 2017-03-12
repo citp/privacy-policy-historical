@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hostingzoom.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021055118id_/https%3A//www.jaguarpc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hostingzoom.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312121155id_/https%3A//www.jaguarpc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - JaguarPC Web Hosting
-
-## Privacy policy
+# Privacy policy | JaguarPC Web Hosting
 
 This is the web site of JaguarPC.com  
 We can be reached via e-mail at [abuse@jaguarpc.com](mailto:abuse@jaguarpc.com) .
