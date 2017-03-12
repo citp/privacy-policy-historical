@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sportschatplace.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231409id_/http%3A//sportschatplace.com/copyright) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportschatplace.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312232510id_/https%3A//sportschatplace.com/copyright) for the most accurate reproduction.*
 
 # Copyright & Privacy Policy - Sports Chat Place
 
-Sports Chat Place posts and supporting documents are owned, held, or licensed by the the Sports Chat Place LTD, and are available for free personal, non-commercial, and educational use, provided that ownership of the materials is properly cited. Any commercial use of the materials, without the written permission of the Sports Chat Place LTD, is strictly prohibited. If you need additional information about copyright and use of a specific digital collection created at the Sports Chat Place, please contact us [here](http://sportschatplace.com/contact-us-2).
+Sports Chat Place posts and supporting documents are owned, held, or licensed by the the Sports Chat Place LTD, and are available for free personal, non-commercial, and educational use, provided that ownership of the materials is properly cited. Any commercial use of the materials, without the written permission of the Sports Chat Place LTD, is strictly prohibited. If you need additional information about copyright and use of a specific digital collection created at the Sports Chat Place, please contact us [here](https://sportschatplace.com/contact-us-2).
 
 Sports Chat Place LTD is not, under any circumstances, responsible for the unauthorized use or redistribution of digital collections found on this web site.
 
