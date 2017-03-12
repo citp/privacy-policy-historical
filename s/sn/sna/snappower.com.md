@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the snappower.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907042951id_/https%3A//www.snappower.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snappower.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312114126id_/https%3A//www.snappower.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - SnapPower
+# Privacy Policy – SnapPower
 
 PRIVACY STATEMENT
 
@@ -28,7 +28,7 @@ If after you opt-in, you change your mind, you may withdraw your consent for us 
 
 Snap Power
 
-373 E. 1750 N. Unit F
+426 East 1750 North Unit D.
 
 Vineyard, UT 84057
 
@@ -38,21 +38,21 @@ SECTION 3 – DISCLOSURE
 
 We may disclose your personal information if we are required by law to do so or if you violate our Terms of Service.
 
-SECTION 4 – SHOPIFY
+SECTION 4 – WORDPRESS
 
-Our store is hosted on Shopify Inc. They provide us with the online e-commerce platform that allows us to sell our products and services to you.
+Our store is a self hosted WordPress website using WooCommerce. WooCommerce provides us with the online e-commerce platform that allows us to sell our products and services to you.
 
-Your data is stored through Shopify’s data storage, databases and the general Shopify application. They store your data on a secure server behind a firewall.
+Your data is stored in our WordPress site. It stores your data on a secure server behind a firewall.
 
 Payment:
 
-If you choose a direct payment gateway to complete your purchase, then Shopify stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
+If you choose a direct payment gateway to complete your purchase, then WordPress stores your credit card data. It is encrypted through the Payment Card Industry Data Security Standard (PCI-DSS). Your purchase transaction data is stored only as long as is necessary to complete your purchase transaction. After that is complete, your purchase transaction information is deleted.
 
 All direct payment gateways adhere to the standards set by PCI-DSS as managed by the PCI Security Standards Council, which is a joint effort of brands like Visa, MasterCard, American Express and Discover.
 
 PCI-DSS requirements help ensure the secure handling of credit card information by our store and its service providers.
 
-For more insight, you may also want to read Shopify’s Terms of Service here or Privacy Statement here.
+For more insight, you may also want to read our Terms of Service or Privacy Statement.
 
 SECTION 5 – THIRD-PARTY SERVICES
 
@@ -82,19 +82,15 @@ SECTION 7 – COOKIES
 
 Here is a list of cookies that we use. We’ve listed them here so you that you can choose if you want to opt-out of cookies or not.
 
-_session_id, unique token, sessional, Allows Shopify to store information about your session (referrer, landing page, etc).
+_session_id, unique token, sessional, Allows WordPRess to store information about your session (referrer, landing page, etc).
 
-_shopify_visit, no data held, Persistent for 30 minutes from the last visit, Used by our website provider’s internal stats tracker to record the number of visits
-
-_shopify_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
+_wordpress_uniq, no data held, expires midnight (relative to the visitor) of the next day, Counts the number of visits to a store by a single customer.
 
 cart, unique token, persistent for 2 weeks, Stores information about the contents of your cart.
 
 _secure_session_id, unique token, sessional
 
 storefront_digest, unique token, indefinite If the shop has a password, this is used to determine if the current visitor has access.
-
-n
 
 SECTION 8 – AGE OF CONSENT
 
@@ -114,7 +110,7 @@ SnapPower
 
 Re: Privacy Compliance Officer
 
-373 E. 1750 N. Unit F
+426 East 1750 North Unit D.
 
 Vineyard UT, 84057
 
