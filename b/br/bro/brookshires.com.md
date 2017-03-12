@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111113113id_/http%3A//www.brookshires.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brookshires.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312195057id_/https%3A//www.brookshires.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Brookshire's
 
@@ -6,7 +6,7 @@
 
 **Purpose of Policy**
 
-Your privacy is important to us and we are committed to safeguarding your personal information from unauthorized use or disclosure. This Privacy Policy (“Policy”) as amended from time to time describes how your personal information and other data may be collected and used by Brookshire Grocery Company, its affiliates, and agents, including without limitation Brookshire’s Food & Pharmacy (collectively, “Brookshire”), and describes privacy policies and procedures that apply when you access or visit this website and all other websites of Brookshire with links to this Policy (collectively, the “Site”), shop at Brookshire stores, use Brookshire products, or access Brookshire services available or enabled through the Site or Brookshire stores (collectively, “Products and Services”), or otherwise interact with Brookshire. 
+Your privacy is important to us and we are committed to safeguarding your personal information from unauthorized use or disclosure. This Privacy Policy (“Policy”) as amended from time to time describes how your personal information and other data may be collected and used by Brookshire Grocery Company, its affiliates, and agents, including without limitation Brookshire’s Food & Pharmacy (collectively, “Brookshire”), and describes privacy policies and procedures that apply when you access or visit this website and all other websites of Brookshire with links to this Policy (collectively, the “Site”), shop at Brookshire stores, use Brookshire products, or access Brookshire services available or enabled through the Site or Brookshire stores (collectively, “Products and Services”), or otherwise interact with Brookshire.
 
 There are special privacy policies and procedures that apply when you enroll in the Brookshire’s Thank You Card program and use the Brookshire’s Thank You Card through the Site or at Brookshire’s food & pharmacy stores.  For detailed information on the Brookshire’s Thank You Card Program, please review our [Thank You Card Policy](http://www.brookshires.com/thank-you-card/thank-you-card-policy/ "Thank You Card Policy").
 
@@ -28,9 +28,9 @@ If you access or use the Site, you are responsible for maintaining the confident
 
 **The Information We Collect**
 
-When you access or visit the Site, shop at Brookshire stores, sign up for or use the Products and Services, or contact Brookshire, Brookshire may collect certain personal information from you such as your name, address, telephone number, email address, credit/debit card information, or other information about you or your interests (collectively referred to as “Personal Information”).  Personal Information does not include “aggregate information,” which is information Brookshire collects or receives about a group or category of persons or services, such as demographic or statistical information, or “de-identified information,” which is information from which Brookshire has removed any Personal Information.  We may provide aggregate information or other data about general groups of shoppers, shopping trends, or sales data to other companies to help them understand the demographics of our customers.    
+When you access or visit the Site, shop at Brookshire stores, sign up for or use the Products and Services, or contact Brookshire, Brookshire may collect certain personal information from you such as your name, address, telephone number, email address, credit/debit card information, or other information about you or your interests (collectively referred to as “Personal Information”).  Personal Information does not include “aggregate information,” which is information Brookshire collects or receives about a group or category of persons or services, such as demographic or statistical information, or “de-identified information,” which is information from which Brookshire has removed any Personal Information.  We may provide aggregate information or other data about general groups of shoppers, shopping trends, or sales data to other companies to help them understand the demographics of our customers.
 
-Brookshire may use Personal Information or any other information we collect or receive, along with a record of your purchases and information related to your past use of the Products and Services, to provide products and services that are useful to you, to create merchandising and promotional programs, to analyze trends, administer the Site, track user’s navigation on the Site, and gather broad demographic information for aggregate use.  We may use this information to offer savings awards and other promotions that are relevant to your purchase preferences such as personally tailored coupons, offers, or other information that may be provided to us from other companies. These offers may be delivered to you in-store, at home, or online.     
+Brookshire may use Personal Information or any other information we collect or receive, along with a record of your purchases and information related to your past use of the Products and Services, to provide products and services that are useful to you, to create merchandising and promotional programs, to analyze trends, administer the Site, track user’s navigation on the Site, and gather broad demographic information for aggregate use.  We may use this information to offer savings awards and other promotions that are relevant to your purchase preferences such as personally tailored coupons, offers, or other information that may be provided to us from other companies. These offers may be delivered to you in-store, at home, or online.
 
 For example, we may request Personal Information for a variety of purposes, including:
 
@@ -42,13 +42,13 @@ For example, we may request Personal Information for a variety of purposes, incl
 
 
 
-Brookshire may share certain Personal Information associated with your Brookshire’s Thank You Card account (name, address, telephone number, and email address) with our subsidiaries, affiliates, agents, representatives, and trusted business partners and their agents for the limited purpose of providing services or information to Brookshire or to our customers.  We may also share certain Personal Information with third parties in order to operate the Site or conduct Brookshire business, as well as respond to your requests, concerns, or claims. 
+Brookshire may share certain Personal Information associated with your Brookshire’s Thank You Card account (name, address, telephone number, and email address) with our subsidiaries, affiliates, agents, representatives, and trusted business partners and their agents for the limited purpose of providing services or information to Brookshire or to our customers.  We may also share certain Personal Information with third parties in order to operate the Site or conduct Brookshire business, as well as respond to your requests, concerns, or claims.
 
-Brookshire may disclose your Personal Information when required by law or legal process (including pursuant to court orders, subpoenas, interrogatories, or similar directive carrying the force of the law).  We may disclose your Personal Information if we believe that such disclosure is necessary or appropriate to comply with applicable law, to protect the rights, property or safety of Brookshire, other Site users, our partners, affiliates, sponsors, providers, licensors, or merchants, to prevent harm or loss, or in connection with an investigation of suspected or actual unlawful activity.  
+Brookshire may disclose your Personal Information when required by law or legal process (including pursuant to court orders, subpoenas, interrogatories, or similar directive carrying the force of the law).  We may disclose your Personal Information if we believe that such disclosure is necessary or appropriate to comply with applicable law, to protect the rights, property or safety of Brookshire, other Site users, our partners, affiliates, sponsors, providers, licensors, or merchants, to prevent harm or loss, or in connection with an investigation of suspected or actual unlawful activity.
 
-However, we will not rent or sell Personal Information to any nonaffiliated company or any outside party, except in connection with the sale of a pharmacy or other business unit, or as set forth in this Policy.    
+However, we will not rent or sell Personal Information to any nonaffiliated company or any outside party, except in connection with the sale of a pharmacy or other business unit, or as set forth in this Policy.
 
-  **Choice/Opt-Out**
+**Choice/Opt-Out**
 
 We provide the opportunity or choice to “opt-out” of providing your Personal Information or having your Personal Information used for certain purposes when we ask for this information.  You can always choose not to provide information; however, if you choose not to provide such information, you may not be able to access or use certain Site (or mobile site) features, functions or services.  At any time, you may elect to discontinue receiving commercial messages or publications from us following the instructions included in the communication or publication you received.  You may also request that we remove or update your Personal Information, that we not disclose your Personal Information, or change your “opt out” preference by notifying us using the contact information provided below.  We will endeavor to process and respond to your request in a commercially reasonable time.
 
@@ -64,17 +64,17 @@ We also use a third-party tracking service that may use cookies to track non-Per
 
 **Cookies**
 
-By use of the Site, you consent to our use of cookies.  “Cookies” are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. The use of a cookie is in no way linked to any Personal Information while on the Site.  The Site uses cookies for a number of purposes.  For example:  to enable simplification of the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring. 
+By use of the Site, you consent to our use of cookies.  “Cookies” are small pieces of information sent by a web server to a web browser, which enables the server to collect information from the browser. The use of a cookie is in no way linked to any Personal Information while on the Site.  The Site uses cookies for a number of purposes.  For example:  to enable simplification of the logging on process for registered users, to help ensure the security and authenticity of registered users, to provide the mechanisms for online shopping and to enable traffic monitoring.
 
 Most browsers allow you to turn off the cookie function. If you want to know how to do this please look at the “help” menu on your browser.  This will restrict the online services you can use, including services available through our Site.
 
-We utilize session ID cookies and persistent cookies, including flash cookies (also referred to as local shared objects).  However, we do not utilize any form of cookies to override consumer preferences.  We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser. 
+We utilize session ID cookies and persistent cookies, including flash cookies (also referred to as local shared objects).  However, we do not utilize any form of cookies to override consumer preferences.  We use session cookies to make it easier for you to navigate our Site. A session ID cookie expires when you close your browser.
 
-A persistent cookie and flash cookie both remain on your hard drive for an extended period of time.  Persistent cookies and flash cookies enable us to track and target the interests of our users to enhance the experience on our Site, including interest-based advertising.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file. 
+A persistent cookie and flash cookie both remain on your hard drive for an extended period of time.  Persistent cookies and flash cookies enable us to track and target the interests of our users to enhance the experience on our Site, including interest-based advertising.  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.
 
-You may also be able to opt out of flash cookies globally by visiting the [Adobe® Flash® Player website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager08.html) and selecting “Global Storage Settings panel” and following the directions provided or on a per-site basis by right clicking on the utilized flash player and selecting “Settings” or “Global Settings” and following the directions provided.  
+You may also be able to opt out of flash cookies globally by visiting the [Adobe® Flash® Player website](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager08.html) and selecting “Global Storage Settings panel” and following the directions provided or on a per-site basis by right clicking on the utilized flash player and selecting “Settings” or “Global Settings” and following the directions provided.
 
-In addition, Brookshire and third party vendors, such as MyWebGrocer, may utilize other third party advertising technology to target advertising on this Site and other websites.  To opt out of certain technology that utilizes targeting advertising, please [click here](http://www.doubleclick.com/privacy/index.aspx).
+In addition, Brookshire and third party vendors, such as MyWebGrocer, may utilize other third party advertising technology to target advertising on this Site and other websites.  To opt out of certain technology that utilizes targeting advertising, please [click here](http://www.aboutads.info/choices/).
 
 **Clear Gifs (Web Beacons)**
 
@@ -96,7 +96,7 @@ Physical Location:  When you download Brookshire mobile applications, we obtain
 
 To safeguard all information that we collect, we have instituted strict physical, electronic, and managerial policies and procedures to prevent unauthorized access, to maintain data accuracy and to ensure the appropriate use of all data.  For example, using secure socket layer technology (SSL), we encrypt sensitive information (such as a credit/debit card number) you enter through the Site.  Once we receive data, it is re-encrypted prior to any storage.  By default, payment card data is permanently destroyed within ninety-one (91) days of submission.  However, no method of transmission over the Internet, or method of electronic storage, is completely secure.  Therefore, while we strive to protect your Personal Information, we cannot guarantee its absolute security.
 
-  **Legal Disclaimers**
+**Legal Disclaimers**
 
 BROOKSHIRE RESERVES THE RIGHT TO DISCLOSE YOUR PERSONAL INFORMATION PURSUANT TO THE TERMS AND PRACTICES SET FORTH IN THIS POLICY OR ANY OTHER APPLICABLE POLICY OR TERM OF USE AND WHEN BROOKSHIRE BELIEVES IT IS NECESSARY TO SHARE INFORMATION IN ORDER TO PROTECT THE SECURITY OF THE SITE OR BROOKSHIRE STORES, TO INVESTIGATE, PREVENT, OR TAKE ACTION REGARDING ILLEGAL ACTIVITIES, SUSPECTED FRAUD, SITUATIONS INVOLVING POTENTIAL THREATS TO THE PHYSICAL SAFETY OR WELL BEING OF YOU OR ANY OTHER PERSON, OR AS OTHERWISE REQUIRED BY APPLICABLE LAW.
 
@@ -108,7 +108,7 @@ Parents should always supervise their children while online. This website is not
 
 We reserve the right to change or modify this Policy at any time and for any reason. We will notify you of any changes to this Policy by posting the modified version here and indicating the date it was last modified.  We will use Personal Information and other data collected in accordance with the Policy as amended from time to time, and not the privacy policy in effect at the time the information or data was collected. Please review this Policy periodically to view the latest version.
 
-In the event of a conflict between any provision of this Policy and any other policy or term of use applicable to any other website owned and operated by Brookshire, the more specific provision shall apply unless otherwise stated. 
+In the event of a conflict between any provision of this Policy and any other policy or term of use applicable to any other website owned and operated by Brookshire, the more specific provision shall apply unless otherwise stated.
 
 **Contact Us**
 
