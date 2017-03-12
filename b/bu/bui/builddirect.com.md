@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2016-01-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160124172059id_/https%3A//www.builddirect.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the builddirect.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312123142id_/https%3A//www.builddirect.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # BuildDirect® - Flooring, Decking, Siding, Roofing, and More
 
-Last updated March 13th 2015
+Last updated June 20th 2016
 
 ### APPLICATION OF THIS POLICY
 
@@ -72,12 +72,11 @@ BuildDirect uses cookies to store information about your web site visit, activit
 
 Like most other commercial websites, our website may monitor traffic patterns, site usage and related sites. We may automatically (i.e., not via registration) collect or compile certain information when you access the website. Examples of this type of information include the aggregate and unique number of visitors to the website, the dates and times of visits to the website, IP addresses and the domains, cities and countries of visitors, the pages of the website visited and the content accessed, the type and version of the browser and operating system used to access the site, search engine and search terms used within the website or to visit the website, referring sites, and HTTP errors generated.
 
-We use this information in order to assess the usage of our website and our marketing efforts, to optimize our website, and to monitor our site’s performance. We may provide such information to our website contractors for these purposes. We also may use a web analytics service or services on some pages to improve web design and usability. This may involve recording mouse clicks, mouse movements, scrolling activity as well as any text you type on our websites. BuildDirect does not track your browsing habits across websites which do not use the same services. 
+We use this information in order to assess the usage of our website and our marketing efforts, to send you tailored browser notifications with news and offers (with your consent), to optimize our website, and to monitor our site’s performance. We may provide such information to our website contractors for these purposes. We also may use a web analytics service or services on some pages to improve web design and usability. This may involve recording mouse clicks, mouse movements, scrolling activity as well as any text you type on our websites. BuildDirect does not track your browsing habits across websites which do not use the same services. 
 
-We work with ad content generation third parties such as Facebook, Google Analytics, Adobe Analytics and Criteo to display ads to our site prospects, on our behalf, across the Internet. They collect information about your visits to our website, and your interaction with our products and services. The anonymous information is collected through the use of cookies and pixel tags. We use cookies and other techniques to track your interactions with our website; some of these technologies keep tracking your behavior when cookies are disabled. Pixel tags are industry standard technology used by most major web sites. We use this website behaviour information for marketing purposes, system administration and also to identify problems and improve service.
+We work with ad content generation third parties such as Facebook, Google Analytics, and Adobe Analytics to display ads to our site prospects, on our behalf, across the Internet. They collect information about your visits to our website, and your interaction with our products and services. The anonymous information is collected through the use of cookies and pixel tags. We use cookies and other techniques to track your interactions with our website; some of these technologies keep tracking your behavior when cookies are disabled. Pixel tags are industry standard technology used by most major web sites. We use this website behaviour information for marketing purposes, system administration and also to identify problems and improve service.
 
   * To review the privacy policy and opt out of Google Analytics program, visit the opt out of behavioral advertising link <https://support.google.com/ads/answer/2662922?hl=en>
-  * To review the Criteo privacy policy and opt out of ads, visit <http://www.criteo.com/privacy/>
   * To review the Facebook privacy policy on custom audience ads and opt out from the program visit <https://www.facebook.com/ads/website_custom_audiences/>
   * To review the Chango privacy policy and opt out of ads, visit <http://www.chango.com/privacy/opt-out/>
   * To review the Steelhouse privacy policy and opt out of ads, visit <http://www.steelhouse.com/opt-out/>
@@ -99,7 +98,7 @@ BuildDirect website does not respond to Do-Not-Track signals from the browser. I
   * to communicate with you about your inquiry, your account, your shopping cart or our relationship
   * to look at website trends and customer interests
   * to administer and build your BuildDirect account
-  * to market new services and products that we believe will be of interest to you
+  * to market new services and products that we believe will be of interest to you (including by email, SMS text message and push notifications to your browser or mobile app)
   * to collect a debt owed to BuildDirect or its agents; or to pay a debt owed by BuildDirect
   * to help us make credit decisions about clients, check the identity of new clients to prevent fraud and money laundering
   * to help us make a decision with respect to employment or an appointment with BuildDirect
@@ -175,7 +174,17 @@ If we deny your request for access to, or refuse a request to correct your Infor
 
 From time to time, BuildDirect may engage a third-party marketing agency to distribute advertisements to consumers who have expressed an interest in receiving such material. For this purpose, the marketing agency may use its own distribution list. This list is not under BuildDirect’s control and may not be shared with BuildDirect. In relaying an opt-out request to a third-party marketing agency, BuildDirect therefore accepts no responsibility for any consequences to the requester arising from the actions of the agency. 
 
-You may wish to opt out of receiving certain information or marketing and promotional material distributed directly by BuildDirect. You may do so by selecting the opt-out or unsubscribe feature in our online communications including our online newsletter and product updates or through the following link: [https://app.svwps.com/builddirect/builddirect/unsub/unsub.html ](https://app.svwps.com/builddirect/builddirect/unsub/unsub.html)
+You may wish to opt out of receiving certain information or marketing and promotional material distributed directly by BuildDirect. You may do so by selecting the opt-out or unsubscribe feature in our online communications including our online newsletter and product updates.
+
+We may also obtain your consent to send push notifications to your browser. These notifications will contain news and offers from BuildDirect.com and may be tailored based on your interests and the areas of our website you have visited. You can stop receiving these notifications at any time by changing your browser settings.
+
+  * If you are using **Chrome** , [click here](https://support.google.com/chrome/answer/3220216?hl=en) for instructions on how to change your notification settings and unsubscribe from browser push notifications.
+  * If you are using **Firefox** , [click here](https://support.mozilla.org/en-US/kb/push-notifications-firefox) for instructions on how to change your notification settings and unsubscribe from browser push notifications
+  * If you are using **Safari** , [click here](http://appsliced.co/ask/how-do-i-disable-website-notifications-in-safari) for instructions on how to change your notification settings and unsubscribe from browser push notifications
+
+
+
+For more information, contact us at the contact information set out below.
 
 ### Contacting Us
 
