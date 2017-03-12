@@ -1,7 +1,8 @@
-> *The following text is extracted and transformed from the ourladiescollection.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324211329id_/http%3A//www.ourladiescollection.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourladiescollection.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312154155id_/http%3A//www.ourladiescollection.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy ~ Pakistani Designers Pakistan Fashion Shows
+# Privacy Policy - Pakistani Designers Pakistan Fashion Shows
 
+fff   
 **Your Privacy**  
 Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.  
   
@@ -28,4 +29,5 @@ We have included links on this site for your use and reference. We are not respo
 The contents of this statement may be altered at any time, at our discretion.  
   
   
-If you have any questions regarding the privacy policy of www. OurLadiesCollection .com then you may contact us at Contact ( at ) OurLadiesCollection.com
+If you have any questions regarding the privacy policy of www. OurLadiesCollection .com then you may contact us at Contact ( at ) OurLadiesCollection.com  
+bbb 
