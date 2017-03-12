@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206204954id_/https%3A//www.caratlane.com/about-us/%3Ftab%3Dpp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caratlane.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312145315id_/https%3A//www.caratlane.com/about-us/%3Ftab%3Dpp) for the most accurate reproduction.*
 
 # About Us – India’s Trusted Online Jeweller | Caratlane.com
 
@@ -62,8 +62,8 @@ Sundays and Govt.Holidays
 
 #### Our Customer Say It Best [More ](https://www.caratlane.com/education/customer-testimonials.html)
 
-### CaratLane has almost taken responsibility for this dream! 
+### Nicely packaged and delivered in time
 
-"Wearing the best Diamonds, Rubies and Emeralds is every woman???s dream! CaratLane has almost taken responsibility for this dream! With a lovely spread of earrings, pendants . .."
+"Hi Mathangi, I have received the shipment perfectly in good shape. It was nicely packaged and delivered in time. Thanks once again for your prompt service.Regards, Sanjeet"
 
--Lai Durve,Mumbai
+-Sanjeet Srivastava ,Hyderabad
