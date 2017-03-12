@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the celtictuning.co.uk privacy policy that was archived on 2016-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160320094604id_/https%3A//www.celtictuning.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the celtictuning.co.uk privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312200135id_/https%3A//www.celtictuning.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
