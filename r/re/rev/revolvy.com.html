@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the revolvy.com privacy policy that was archived on 2015-04-08.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20150408023746id_/http%3A//www.revolvy.com/main/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the revolvy.com privacy policy that was archived on 2017-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170312194055id_/https%3A//www.revolvy.com/main/privacy.php) for the most accurate reproduction.-->
 
 <html><head>
 <title>Revolvy Privacy Policy</title>
@@ -24,37 +24,31 @@
 #privacy a.rightlink:hover { border-bottom:1px dotted; }
 
 
-#privacy #top_box { height:60px; }
+#privacy a.print { position:absolute;top:0px;left:0px;border:transparent; }
 
-#top_box .rightlink { float:right;margin:3px; }
+#privacy a.print:hover { border-bottom:1px dotted; }
 
-#bottom_box .rightlink { float:right;margin:3px; }
+#top_box .rightlink { position:absolute;top:10px;right:0px; }
 
-#privacy h1 { font-size:22px;line-height:150%;margin-bottom:0px; }
+#bottom_box .rightlink { position:absolute;top:0px;right:0px; }
 
-#privacy h2 { font-size:18px;line-height:150%;margin-bottom:0px; }
+@media (max-width:659px) {
+ #privacy h1 { font-size:22px;line-height:150%;margin-bottom:0px; }
+ #privacy h2 { font-size:18px;line-height:150%;margin-bottom:0px; }
+ #privacy h3 { font-size:14px;line-height:150%;margin-bottom:0px; }
+ #privacy a.rightlink { margin:-24px -10px 0 0; }
+}
 
-#privacy h3 { font-size:14px;line-height:150%;margin-bottom:0px; }
+@media (min-width:660px) {
+ #privacy h1 { font-size:28px;line-height:150%;margin-bottom:0px; }
+ #privacy h2 { font-size:22px;line-height:150%;margin-bottom:0px; }
+ #privacy h3 { font-size:18px;line-height:150%;margin-bottom:0px; }
+}
 
 
 </style>
-
 <script src="//ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-
-
-
-<script>
-function backpage_click(e)
-{
-  window.history.go(-1);
-  return false;
-}
-// jquery init
-$(function(){
-  $(".backpage").click(backpage_click);
-});
-</script>
-
+<script src="https://s3.amazonaws.com/revolvy-assets/main/js/scripts_popup.js?3edebfb"></script>
 
 </head>
 <body>
@@ -62,16 +56,16 @@ $(function(){
 
 <div id="top_box">
 <h1>Revolvy Privacy Policy</h1>
-  <a href="#" class="backpage rightlink">[ x ] back</a>
+  <a href="#" class="closewin rightlink">[ x ] close window</a>
 </div>
 
-<div style="font-size:14px;margin-bottom:10px;"><b>January 1, 2014</b></div>
+<div style="font-size:14px;margin-bottom:10px;"><b>July 21, 2016</b></div>
 
 For the purposes of this Privacy Policy, "Personal Information" is defined as information about you that is personally identifiable such as your name, e-mail address, user ID number, and other non-public information that is associated with the foregoing.&nbsp; "Anonymous Information," is defined as information that is not associated with or linked to your Personal Information and does not permit the identification of individual persons.
 
 <h2>User Consent</h2>
 
-<p>By accessing or otherwise using <a href="http://Revolvy.com" target="_blank">Revolvy.com</a> ("Revolvy"), you agree to the terms and conditions of this Privacy Policy and the associated <a href="terms.php" target="_blank" class="pop">Terms</a>. Additionally, you expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy.</p>
+<p>By accessing or otherwise using <a href="http://Revolvy.com" target="_blank">Revolvy.com</a> ("Revolvy"), you agree to the terms and conditions of this Privacy Policy and the associated <a href="/main/terms.php" target="_blank" class="pop">Terms</a>.  Additionally, you expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy.</p>
 
 <h2>Regarding Children</h2>
 
@@ -121,6 +115,8 @@ For the purposes of this Privacy Policy, "Personal Information" is defined as in
 
 <h2>Third Party Sites and Advertising</h2>
 
+<p>We use third-party advertising companies to serve ads when you visit Revolvy. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies may use cookies or web beacons to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit&nbsp;<a href="http://www.networkadvertising.org" target="_blank">http://www.networkadvertising.org</a>.</p>
+
 <p>Revolvy may contain links to other websites. Please be aware that we are not responsible for the privacy practices or the content of such other websites. We encourage our users to read the privacy statements of each and every website they visit. This Privacy Policy applies solely to information collected by us through Revolvy and does not apply to these third-party websites. The ability to access information of third-parties from Revolvy, or links to other websites or locations, is for your convenience and does not signify our endorsement of such third-parties, their products, their services, other websites, locations or their content.</p>
 
 <h2>Your Choices Regarding Your Personal Information</h2>
@@ -146,7 +142,8 @@ For the purposes of this Privacy Policy, "Personal Information" is defined as in
 <p>This Privacy Policy is subject to occasional revision at our discretion, and if we make any substantial changes in the way we use your Personal Information, we will reflect the date of the changes on this page. In some cases, we may otherwise notify you via email. If you object to any such changes, you must cease using Revolvy. Continued use of Revolvy following any changes made to this Privacy Policy shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes.</p>
 
 <div id="bottom_box">
-  <a href="#" class="backpage rightlink">[ x ] back</a>
+  <a href="/main/privacy.php?print=1" class="print">send to printer</a>
+  <a href="#" class="closewin rightlink">[ x ] close window</a>
 </div>
 
 </div>
