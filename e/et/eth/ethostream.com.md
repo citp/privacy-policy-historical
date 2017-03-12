@@ -1,38 +1,23 @@
-> *The following text is extracted and transformed from the ethostream.com privacy policy that was archived on 2016-07-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160727181535id_/https%3A//ethostream.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ethostream.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312144556id_/https%3A//www.ethostream.com/privacy.html) for the most accurate reproduction.*
 
-# EthoStream: Installation &asmp Service
+# Privacy Policy :: Telkonet, Inc. (TKOI)
 
-#### Privacy Statement
+**What Do We Do With The Information You Provide?**
 
-EthoStream has created this statement in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for our website. We use your IP address to help diagnose problems with our services, our servers, administer our website and occasionally we use cookies to deliver content specific to your interests.
+We may ask you to give us contact and demographic information when you register. We use this information to send our Site’s users like you information about the Site or Services. We also use this information to contact you both on line and offline when needed. 
 
-Our site uses a customer management system and an inquiry form for potential customers to request information on our products and services. We collect the visitor's contact information such as e-mail addresses, phone numbers, etc. The customer's contact information is used to contact the visitor when necessary but **it is not shared** with any outside party.
+**What Do We Do With Your IP Address And Cookies?**
 
-#### Security
+We use your IP address to help diagnose problems with our server and to administer our website. Your IP address is used to gather broad demographic information and is stored as a partial identifier. We use cookies, when applicable, to deliver content specific to your interests and when applicable to save your password so you don't have to re-enter it each time you visit our site. You may set your browser to refuse cookies. If you make that choice, please understand that you may not be eligible for any specials and / or promotions we may offer our Site’s users.
 
-This site has security measures in place to protect the loss, misuse and alteration of the information under our control. All servers are in a secure data center with 24 hour security access control. All data submitted to the site for commerce transactions is done via a 128 bit secure server verified by Thawte. Furthermore, EthoStream conforms to all current US, EU, UN and Canadian regulations with regard to the capture and storage of data on citizens from those countries or affiliate countries.
+**Is Your Personal Information Shared?**
 
-#### Opt-Out
+No.
 
-Our site provides users the opportunity to opt-out of receiving e-mail from us at the point where we request information about the visitor. EthoStream gives users the following options for removing their information from our database so as not to receive future e-mail or other information from us. You can send e-mail to [privacy@ethostream.com](mailto:privacy@ethostream.com)
+**Privacy Policy Changes**
 
-#### Corrections & Updates
+We may amend this privacy policy from time to time.
 
-This site gives users the following options for changing and modifying information previously provided.  
-Call or e-mail us to have your information updated within our database.
+**Contacting the Web Site**
 
-Toll Free: +1.877.563.2984  
-Email: [privacy@ethostream.com](mailto:privacy@ethostream.com)
-
-#### Contact Information
-
-If you have any questions about this privacy statement, the practices of our company, or your dealings with this website, you can contact:
-
-#### EthoStream, LLC
-
-10200 W. Innovation Dr.  
-Suite 300  
-Milwaukee, WI 53226
-
-Toll Free: +1.877.563.2984  
-Email: [privacy@ethostream.com](mailto:privacy@ethostream.com)
+If you have any questions about this privacy statement, the practices of this site, or use of our trademarks and copyrighted material, or for any other concerns please feel free to [contact us](https://web.archive.org/contact).
