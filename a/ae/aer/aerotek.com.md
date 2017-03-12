@@ -1,203 +1,191 @@
-> *The following text is extracted and transformed from the aerotek.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025053146id_/http%3A//www.allegisgroup.com/Privacy/Default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aerotek.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312153229id_/https%3A//www.aerotek.com/privacy) for the most accurate reproduction.*
 
-# Allegis Group Online Privacy Statement
+# Privacy
 
-[ Français ](http://www.allegisgroup.com/Privacy/French/Default.aspx) [ Deutsch ](http://www.allegisgroup.com/Privacy/German/Default.aspx)
+## Allegis Group Online Privacy Statement
 
-[ Français ](http://www.allegisgroup.com/Privacy/France/Default.aspx) [ Netherlands ](http://www.allegisgroup.com/Privacy/Netherlands/Default.aspx)
+Effective Date: March 1, 2016
 
-_Revised and Posted as of 23 January 2015:_
+Allegis Group, Inc. and its group companies (collectively, the " **Allegis Group** ", or " **we** ", " **us** " and " **our** ") are committed to safeguarding your privacy. We provide you with this Privacy Statement because we want you to know how we may collect, use, share, and keep information about you, and the choices that are available to you.  If you have any questions about this Privacy Statement, please contact us using the contact details provided below.
+
+## When this Privacy Statement Applies
+
+This Privacy Statement applies whenever we collect personal information from or about you, whether though our website(s) or in the course of providing other services to you.  Some of our website(s) and services may have their own Privacy Statements and, where that is the case, those Privacy Statements will apply instead of this one.  
+Back to the Top
+
+## What is in this Online Privacy Statement?
+
+_Click on one of the links below to jump to a specific section:  _
+
+Collection of Personal Information  
+Use of Personal Information  
+Cookies and Online Tracking  
+Sharing Your Personal Information within Allegis  
+Sharing Your Personal Information with Third Parties  
+International Data Transfers  
+Safe Harbor Framework  
+Your Rights  
+Children’s Privacy  
+Links to Other Sites and Public Forums  
+Contacting Us  
+Changes to this Privacy Statement
+
+## Collection of Personal Information
+
+Allegis Group collects and maintains personal information from the following categories of individuals:
+
+  * **Visitors:  **individuals (like you) who visit our website(s) or services, so that we can provide them with the website(s) or services they require;
+
+
+  * **Workers:  **individuals that we may employ or place for permanent or temporary employment with Allegis Group customers, and from individuals who are current and former workers (including temps and other non-employees) of Allegis Group;
+
+
+  * **Customers and suppliers:**  individuals employed by our customers or vendors with whom we have a business relationship.
+
+
+
+The types of information we collect include the following:
+
+  * **Information voluntarily submitted to us:**  Allegis Group collects personal information that is voluntarily provided by individuals who sign up for an Allegis Group job board account or other Allegis Group website that allows for individuals to set up an account or otherwise submit information. This is normally for the purpose of searching for temporary or permanent employment opportunities, submitting his or her resume for inclusion in an Allegis Group database or responding to a specific listed employment position.
+
+
+  * **Information we collect automatically:**  We automatically collect certain technical information from visitors to our website(s), such as the Internet protocol (IP) address of their device, their login information, browser type and version, time zone setting, browser plug-in types and versions, operating system and platforms. We may also automatically collect certain information about their visits to our website(s), such as download errors experienced and length of visits to certain pages.
+
+
+  * **Information we receive from other sources.**  We may receive some information about our visitors, workers, customers and suppliers from third parties partners (including, for example, our business partners, sub-contractors in technical, payment and delivery services, analytic providers and search information and background check providers). For example, if you are working for an Allegis customer, they may inform us how many hours you have worked so we can ensure you are paid appropriately.
+
+
+
+In connection with the services we provide, you may be asked for types of information that is viewed by some countries as "sensitive". Unless permitted or required by applicable law, Allegis Group will not collect and use any sensitive personal information about you (including, for example, racial or ethnic origin, political opinions, religious or similar beliefs, trade union membership, physical or mental health or condition or sexual life, or about the commission of, or proceedings for, any offence committed or alleged to have been committed by that person, the disposal of such proceedings or the sentence of any court in such proceedings) without your express consent.  
 
   
 
 
-##  Sites Covered by this Privacy Statement 
+## Use of Personal Information
 
-Allegis Group, Inc., and its subsidiaries (collectively referred to as “Allegis Group”), respect your right to privacy. Allegis Group has created this privacy statement (“Privacy Statement”) to demonstrate our firm commitment to your right to privacy. This Privacy Statement outlines our personal data-handling practices for this Web site. This Privacy Statement is readily available on our home page and at the bottom of every Allegis Group Web page.
+The information Allegis Group collects will be used only as described in this Privacy Statement and/or in the way we specify at the time of collection. For the most part, we collect personal information to operate effectively and to comply with applicable laws and government regulations (e.g., employment, tax, insurance). We also use your personal information for the purposes of providing you with access to our website(s) and services. We will not subsequently change the way your personal information is used without your consent. 
 
-Some Allegis Group entities or programs may have their own, possibly different, privacy policies. We encourage you to read the privacy statements of each of the Allegis Group Web sites or program information you visit or review.
+More specifically, some of the ways we may use your personal information include, but are not limited to:
 
-Back to the Top 
+  * Responding to communications we receive from you;
+  
 
-##  Links to Other Sites and Public Forums 
+  * Complying with human resource requirements;
 
-This Web site may contain links to other sites for your convenience and information. If you access those links, you will leave the Allegis Group Web site. Allegis Group does not control those sites or their privacy practices, which may differ from Allegis Group’s practices. Allegis Group is not responsible for the privacy practices or the content of other Web sites outside the Allegis Group of companies. The personal data you choose to provide or that is collected by these third parties is not covered by this Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal data.
 
-Allegis Group may make message boards, news groups, and/or public forums available to users on its Web sites. Any information that you disclose in these areas becomes public information that may be accessed by third parties; therefore, you should use caution before deciding to disclose any personal data in these forums.
+  * Complying with applicable laws and government regulations;
 
-Back to the Top 
 
-##  Safe Harbor Framework 
+  * Supporting customer and worker recruitment inquiries;
 
-This Privacy Statement complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. In processing personal data, Allegis Group complies with the following Safe Harbor Principles, as more specifically described in this Privacy Statement: Notice, Choice, Onward Transfer (to third parties), Security, Data Integrity, Access and Enforcement (including verification). More information about the U.S. Department of Commerce Safe Harbor Program can be found at <http://www.export.gov/safeharbor/>. 
 
-Allegis Group abides by the privacy laws in the countries where we do business. 
+  * Facilitating the job search process and helping to find workers and customers a suitable job match;
 
-Back to the Top 
 
-##  Collection of Personal Data 
+  * Storing information about your recruitment or other preferences;
 
-Allegis Group collects personal data to operate effectively and to comply with government regulations (e.g., employment, tax, insurance). Allegis Group collects and maintains Personal data from its current and former employees, from individuals it may potentially employ or place for permanent or temporary employment with Allegis Group customers, from current and former contingent workers (including temps and other non-employees) of Allegis Group and at times, it may collect or be exposed to personal data from its customers or vendors. Through certain of the Allegis Group Web sites, Allegis Group collects personal data that is voluntarily provided by users when a user signs up for an Allegis Group job board account or other Allegis Group Web site that allows for users to set up an account or otherwise submit information for the purpose of searching for temporary or permanent employment opportunities, submits his or her resume for inclusion in an Allegis Group database or responds to a specific listed employment position.
 
-The information Allegis Group collects will be used only as described in this Privacy Statement and/or in the way we specify at the time of collection. We will not subsequently change the way your personal data is used without your consent. Some of the ways we may use your personal data include, but are not limited to:
+  * Gauging the number of users and usage of the website(s), so we can plan website bandwidth and capacity accordingly;
 
-  * Provide the ability to contact you; 
-  * Comply with human resource requirements; 
-  * Comply with government regulations, 
-  * Provide payroll and human resources functions, including employee benefits programs; 
-  * Support recruitment inquiries; 
-  * Facilitate the job search process and help us find you a suitable job match; 
-  * Gauge the number of users and usage of the site; 
-  * Store information about your preferences; 
-  * Recognize you when you return; 
-  * Provide information on goods and services requested or which may interest you; 
-  * Conduct Allegis Group marketing, advertising and promotions;
-  * Notify you of events, surveys, workshops and training sessions run by Allegis Group; and
-  * Notify you about changes to our services. 
 
+  * Recognizing you when you return as a repeat visitor to our website(s) or service;
 
 
-Personal data about you may be included in the following: 
+  * Providing information on goods and services requested or which may interest you;
 
-  * Resumes/Curricula vitae;
-  * Online submissions to Allegis Group job boards;
-  * Our interview notes; 
-  * Information obtained through reference and background checks; 
-  * Educational or professional accreditation records; 
-  * Information necessary to provide payroll services, including banking details, tax deductions and vacation allowances; 
-  * Information about you and your beneficiaries, as required, to enroll in any benefits packages; 
-  * Reference letters; and 
-  * Test results, including without limitation medical and fitness testing, psychological testing and drug and alcohol testing.
 
+  * Sending you e-mails and other communications about Allegis Group marketing, advertising and promotions in accordance with your marketing preferences;
 
 
-Allegis Group notifies all identified individuals about the purposes for which personal data is collected and used. In appropriate situations, however, personal data may be “anonymized” so that the identity of individuals cannot be known. In these cases, Allegis Group will not notify you regarding the purpose for which personal data is collected and used by Allegis Group. 
+  * Sending you e-mails and other communications about job postings that we think fit your profile, and to notify you about events, surveys, workshops and training sessions run by Allegis Group; and 
 
-Back to the Top 
 
-##  Cookies 
+  * Notifying you about changes to our website(s) or services.
 
-A cookie is a small data file placed on the hard drive of your computer when you visit certain Web sites. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited.
 
-A Web bug is a graphic on a Web page or email that gathers information about the computers used to view the Web page or email. A Web bug can collect your computer’s IP address and the time you viewed the Web site or email. 
 
-Neither a cookie nor a Web bug can read data from your hard disk or read cookie files created by other Web sites other than as described above. Some parts of Allegis Group’s Web sites use cookies and Web bugs to track user traffic patterns on the Allegis Group sites. Allegis Group does this tracking in order to determine the usefulness of our Web site information to our users and to see how effective our navigational structure is in helping users reach that information.
 
-If you prefer not to receive cookies or Web bugs while browsing our Web site, you can set your browser to warn you before accepting cookies or Web bugs and refuse them when your browser alerts you to their presence. 
+We may also use the personal information we receive for the purposes of creating anonymized and aggregated statistics that do not reveal the identity of any person.
 
-You can also refuse all cookies and Web bugs by turning them off in your browser, although you may not be able to take full advantage of Allegis Group Web sites if you do so. You do not need to have cookies turned on to use/navigate through many parts of Allegis Group Web sites, except that access to certain Allegis Group Web pages require a login and password.
+## Cookies and Online Tracking
 
-You can find information on popular browsers and how to adjust your cookie preferences at the following Web sites: 
+Allegis Group websites use "cookies" and similar technologies (like web bugs) to help personalize your online experience and for our analytics purposes. 
 
-**Microsoft Internet Explorer:**   
-[ http://www.microsoft.com/info/cookies.htm](http://www.microsoft.com/info/cookies.htm)
+A cookie is a small data file placed on the hard drive of your computer when you visit certain websites. A cookie file can contain information such as a user ID that the site uses to track the pages you have visited.
 
-**Mozilla Firefox:**   
-[ http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html ](http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html)
+A web bug is a graphic on a web page or email that gathers information about the computers used to view the Web page or email. A web bug can collect your computer’s IP address and the time you viewed the website or email.
 
-**Google Chrome:**  
-[ https://support.google.com/accounts/answer/61416 ](https://support.google.com/accounts/answer/61416)
+Some parts of Allegis Group’s websites use cookies and web bugs to track user traffic patterns on the Allegis Group sites. Allegis Group does this tracking in order to determine the usefulness of our website information to our users and to see how effective our navigational structure is in helping users reach that information.
 
-**Apple Safari:**  
-Blocks cookies by default and accepts cookies only from your current domain. To change click Safari, Preferences, Security and choose your preference. 
+If you prefer not to receive cookies or web bugs while browsing our website, you can set your browser to warn you before accepting cookies or web bugs and refuse them when your browser alerts you to their presence. 
 
+You can also refuse all cookies and web bugs by turning them off in your browser, although you may not be able to take full advantage of Allegis Group websites if you do so. You do not need to have cookies turned on to use/navigate through many parts of Allegis Group websites, except that access to certain Allegis Group Web pages require a login and password.
 
+You can find information on popular browsers and how to adjust your cookie preferences at the following websites:
 
+**Microsoft Internet Explorer:**<http://www.microsoft.com/info/cookies.htm>
 
-Back to the Top 
+**Mozilla Firefox:**<http://www.mozilla.org/projects/security/pki/psm/help_21/using_priv_help.html>
 
-## Consent
+**Google Chrome:**<https://support.google.com/accounts/answer/61416>
 
-By using this Web site, you consent to the collection and use of your personal data as described herein. If we decide to make changes to this Privacy Statement, we will post the changes on this site so that you will always know what information we collect and how we use it.
+**Apple Safari:**  Blocks cookies by default and accepts cookies only from your current domain. To change, click Safari, Preferences, Security, and choose your preference.
 
-Back to the Top 
+For more information on the types of cookies which are used on the Allegis Group websites, please see our cookie statement, which is available on each of our websites.
 
-Allegis Group may disclose your personal data to any member of the Allegis Group of companies. This includes our subsidiaries and our ultimate holding company.
+  
 
-As a global company, Allegis Group operates a number of Web sites around the world. Any data and information that you volunteer or that is otherwise collected on one of our sites in any one country may be sent electronically to a server for one of these sites in another country. This sharing of personal data with Allegis Group affiliates may include combining the personal data gathered by certain Allegis Group Web sites with information independently gathered on other Allegis Group Web sites into one or more database(s) useable by Allegis Group, including all of its affiliates. We safeguard your privacy interests around the world by ensuring that this Allegis Group site adheres to our data protection principles described in this Privacy Statement. Such export is a requirement of providing the data to Allegis Group.
 
-Companies in Allegis Group may use the information internationally in connection with processing requests by potential customers or potential employers of contract workers or temporary employees. Allegis Group may disclose personal data about you to potential employers (direct placements) or potential customers if you are a contract worker we are seeking to assign to a customer.
+## Sharing Your Personal Information within Allegis
 
-We may respond to subpoenas, court orders, or legal process by disclosing your personal data and other related information, if necessary. We also may disclose your personal data when we choose to establish or exercise our legal rights or defend against legal claims. 
+Allegis Group may disclose your personal information to any member of the Allegis Group of companies for use in accordance with this Privacy Statement. This includes our subsidiaries, affiliates and our ultimate holding company. 
 
-We only provide these third parties with the minimum amount of personal data necessary to provide the services on our behalf, and the third parties are not permitted to use your personal data except for the limited purpose of completing the requested service or transaction.
+This sharing of personal information with Allegis Group affiliates may include combining the personal information gathered by certain Allegis Group websites with information independently gathered on other Allegis Group websites into one or more database(s) useable by Allegis Group, including all of its affiliates. Again, this combined information will only ever be used for the purposes disclosed within this Privacy Statement.
 
-Circumstances may arise where, whether for strategic or other business reasons, Allegis Group decides to sell, buy, merge or otherwise reorganize businesses. Such a transaction may involve, in accordance with applicable law, the disclosure of personal data to prospective or actual purchasers, or the receipt of it from sellers. It is Allegis Group’s practice to seek appropriate protection for information in these types of transactions.
+## Sharing Your Personal Information with Third Parties
 
-We may collect and possibly share personal data and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Allegis Group’s terms of use, or as otherwise required by law.
+Companies in Allegis Group may use the information internationally in connection with processing requests by potential customers or potential employers of contract workers or temporary employees. Allegis Group may disclose personal information about you to potential employers (direct placements) or potential customers if you are a contract worker we are seeking to assign to a customer.
 
-Allegis Group will only share personal data about you that is relevant to our legitimate business purposes or as required to meet legal or regulatory requirements.
+We may respond to subpoenas, court orders, or legal process by disclosing your personal information and other related information, if we believe it necessary to do so. We also may disclose your personal information to third parties when we choose to establish or exercise our legal rights or defend against legal claims.
 
-Your personal data is never sold, rented or leased to any external company, unless you have granted us permission to do so. 
+We use third party service providers to assist us in providing our website(s) and services, including to support us in areas such as recruiting and reviewing responses to job advertisements, managing résumé/CV data, IT platform management or support services, infrastructure and application services, marketing, data analytics, drug and background screening, payroll processing services, and health care benefits. In providing these services on behalf of the Allegis Group, it may be necessary for us to provide these third parties access to personal information. 
 
-Allegis Group does not disclose personal data about its employees without specific authorization from or notice to the employee, as provided in this Privacy Statement, or as required by law. In addition, Allegis Group does not collect more personal data than is needed to fulfill the purposes set forth in this Privacy Statement, unless consented to by the individual concerned. 
+We only provide these third parties with the minimum amount of personal information necessary to provide the services on our behalf, and under strict contractual terms that require them to maintain the security and confidentiality of any personal information to which they have access.
 
-Should you withdraw consent to the use of your information for any of the above-identified purposes, we will stop using your information for such purposes as soon as it is reasonably possible to do so. Allegis Group will also notify you if withdrawing consent affects our ability to service you. 
+Circumstances may arise where, whether for strategic or other business reasons, Allegis Group decides to sell, buy, merge or otherwise reorganize businesses. Such a transaction may involve, in accordance with applicable law, the disclosure of personal information to prospective or actual purchasers, or the receipt of it from sellers. It is Allegis Group’s practice to seek appropriate protection for information in these types of transactions.
 
-As a part of our providing services to our customers, we may share personal data from our customers with other third parties as instructed by the customer. We may share the personal data with others solely for the purposes of managing the work we are contracted to manage and for no other reason and will abide by any contractual obligations contained in any customer agreement related to the sharing of personal data we receive from the customer.
+We may collect and possibly share personal information and any other additional information available to us in order to investigate, prevent, or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, violations of Allegis Group’s terms of use, or as otherwise required by law.
 
-Back to the Top 
+Back to the Top
 
-## Data Integrity
+## International Data Transfers
 
-Allegis Group takes reasonable steps to ensure that personal data is accurate, complete and current. All current and former employees of Allegis Group, applicants for specific jobs within Allegis Group and current and former contingent workers (including temps and other non-employees) of Allegis Group, as well as individuals we may potentially employ, are asked to inform Allegis Group immediately in the event of changes in personal data.
+As a global company, we may transfer personal information to Allegis group entities and third parties located in countries outside your country of residence. These countries may not necessarily have data protection laws as comprehensive as those in your country or residence; although our collection, storage and use of your personal information will at all times continue to be governed by this Privacy Statement.
 
-Back to the Top 
+## Safe Harbor Framework
 
-## Security of Your Personal Data
+We comply with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. 
 
-Allegis Group is committed to protecting the personal data you share with us. Allegis Group uses reasonable physical, electronic, and managerial procedures to help protect your personal data from unauthorized access, use or disclosure. Allegis Group supports online security using secure server technology because we want your data to be safe. There are state-of-the-art security arrangements and facilities on Allegis Group work sites to maintain data security.
+In processing personal information, we comply with the following Safe Harbor Principles, as more specifically described in this Privacy Statement: Notice, Choice, Onward Transfer (to third parties), Security, Data Integrity, Access and Enforcement (including verification). More information about the U.S. Department of Commerce Safe Harbor Program can be found at<http://www.export.gov/safeharbor/>.
 
-We contractually bind our employees to comply with your privacy and confidentiality rights.
+We have committed to refer unresolved privacy complaints under the U.S.-EU Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Allegis Group, please visit the BBB EU Safe Harbor website at [www.bbb.org/us/safe-harbor-complaints](http://www.bbb.org/council/eusafeharbor/bbb-eu-safe-harbor-dispute-resolution-program) for more information and to file a complaint.
 
-Back to the Top 
+Back to the Top
 
-## Children's Privacy
+## Your Rights
 
-This site is not intended for use by children under the age of 13. Allegis Group does not knowingly collect personal data from children under the age of 13. If we learn that we have collected personal data from a child under the age of 13, we will delete that data from our systems.
+You have the right to request access to your personal information. Please note that access may be subject to a fee specified by applicable law.
 
-Back to the Top 
+In addition, you may also ask us to correct, update, delete or block any personal information that we process about you, in particular where the personal information is incomplete or inaccurate. We take reasonable measures to ensure that your personal information is kept accurate, complete and current, and for this reason ask that you inform Allegis Group in the event of any changes to your personal information. 
 
-## Verification
+Where it is in accordance with your marketing preferences, we may periodically send you updates via e-email about promotional opportunities or services we think may interest you, such as jobs in our database that match your selection criteria. Each notification will provide instructions on how to opt-out of receiving similar e-mails. At the point where we request personal information about you, our websites also give you the opportunity to decide which communications you receive.
 
-Allegis Group conducts an annual self-assessment in order to verify that this Privacy Statement is published and implemented within Allegis Group and that it conforms to the Safe Harbor Principles.
+## Children’s Privacy
 
-Back to the Top 
+This site is not intended for use by children under the age of 13. Allegis Group does not knowingly collect personal information from children under the age of 13. If we learn that we have collected personal information from a child under the age of 13, we will delete that data from our systems.
 
-## For European Union and Swiss Citizens
+## Links to Other Sites and Public Forums
 
-In compliance with the Safe Harbor Principles, Allegis Group commits to resolve any complaints about our collection or use of your personal data. European Union and Swiss citizens with inquiries or complaints regarding this Privacy Statement should first contact Allegis Group at:
+Allegis Group websites may contain links to other sites for your convenience and information. If you access those links, you will leave the Allegis Group website. Allegis Group does not control those sites or their privacy practices, which may differ from Allegis Group’s practices. Allegis Group is not responsible for the privacy practices or the content of other websites outside the Allegis Group of companies. The personal information you choose to provide or that is collected by these third parties is not covered by this Privacy Statement. We encourage you to review the privacy policy of any company before submitting your personal information.
 
-Allegis Group, Inc.  
-7301 Parkway Drive, 5th Floor  
-Hanover, MD 21076  
-ATTN: Privacy Officer  
-[privacyofficer@allegisgroup.com ](mailto:privacyofficer@allegisgroup.com)
-
-Allegis Group has further committed to refer unresolved privacy complaints under the U.S.-EU Safe Harbor Principles and the U.S.-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU Safe Harbor, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Allegis Group, please visit the BBB EU Safe Harbor Web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
-
-Back to the Top 
-
-##  Inquiries, Access to and Updating of Your Personal Data 
-
-Allegis Group needs your help in keeping the personal data you have shared with us accurate and up to date. You may at any time make a written request for access to the personal data that Allegis Group holds about you, in order to review its accuracy and completeness. You have the right to have your personal data amended as appropriate. All access requests are subject to relevant access rules and exceptions set out in the laws of the country in which the personal data is located.
-
-Back to the Top 
-
-If you have any questions about this privacy statement or if you wish to inspect the information we hold about you, please contact: 
-
-Allegis Group, Inc.  
-7301 Parkway Drive, 5th Floor  
-Hanover, MD 21076  
-ATTN: Privacy Officer  
-[privacyofficer@allegisgroup.com ](mailto:privacyofficer@allegisgroup.com)
-
-Back to the Top 
-
-##  Changes to this Privacy Statement 
-
-If we change our Privacy Statement, we will post the revised Privacy Statement here, with an updated revision date. If we make significant changes to our Privacy Statement, we may also notify you by other means, such as sending an email or posting a notice on our home page. To view the previous version of the privacy policy, [ click here](http://www.allegisgroup.com/Privacy-Previous/). 
-
-Back to the Top 
-
-© Allegis Group, Inc., 2015. All rights reserved.
+Allegis Group may make message boards, news groups, and/or public forums available to users on its websites. Any information that you disclose in these areas becomes public information that may be accessed by third parties; therefore, you should use caution before deciding to disclose any personal information in these forums. 
