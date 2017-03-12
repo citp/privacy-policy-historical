@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the revolvy.com privacy policy that was archived on 2015-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150408023746id_/http%3A//www.revolvy.com/main/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the revolvy.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312194055id_/https%3A//www.revolvy.com/main/privacy.php) for the most accurate reproduction.*
 
 # Revolvy Privacy Policy
 
-**January 1, 2014**
+**July 21, 2016**
 
 For the purposes of this Privacy Policy, "Personal Information" is defined as information about you that is personally identifiable such as your name, e-mail address, user ID number, and other non-public information that is associated with the foregoing.  "Anonymous Information," is defined as information that is not associated with or linked to your Personal Information and does not permit the identification of individual persons. 
 
 ## User Consent
 
-By accessing or otherwise using [Revolvy.com](http://revolvy.com/) ("Revolvy"), you agree to the terms and conditions of this Privacy Policy and the associated [Terms](https://web.archive.org/web/20150408023746id_/http%3A//www.revolvy.com/main/terms.php). Additionally, you expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy.
+By accessing or otherwise using [Revolvy.com](http://revolvy.com/) ("Revolvy"), you agree to the terms and conditions of this Privacy Policy and the associated [Terms](https://web.archive.org/main/terms.php). Additionally, you expressly consent to the processing of your Personal Information and Anonymous Information according to this Privacy Policy.
 
 ## Regarding Children
 
@@ -57,6 +57,8 @@ We may disclose your Personal Information if we believe in good faith that such 
 Helping you to protect your information is a vital part of our mission. It is up to you to make sure you are comfortable with the information you choose to provide us and the information you choose to publish. You understand that when you use Revolvy, certain information you post or provide through Revolvy, such as your name, profile, comments, collections and reviews, may be shared with other users and posted on publicly available portions of Revolvy, including without limitation, chatrooms, bulletin and message boards, along with other public forums. Please keep in mind that if you choose to disclose Personal Information when posting comments or other information or content through Revolvy, this information may become publicly available and may be collected and used by others, including people outside the Revolvy community. We will not have any obligations with respect to any information that you post to parts of Revolvy available to others, and recommend that you use caution when giving out personal information to others in public forums online or otherwise. We also share the information you publish with other third parties.
 
 ## Third Party Sites and Advertising
+
+We use third-party advertising companies to serve ads when you visit Revolvy. These companies may use information (not including your name, address email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies may use cookies or web beacons to collect this information. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit [http://www.networkadvertising.org](http://www.networkadvertising.org/).
 
 Revolvy may contain links to other websites. Please be aware that we are not responsible for the privacy practices or the content of such other websites. We encourage our users to read the privacy statements of each and every website they visit. This Privacy Policy applies solely to information collected by us through Revolvy and does not apply to these third-party websites. The ability to access information of third-parties from Revolvy, or links to other websites or locations, is for your convenience and does not signify our endorsement of such third-parties, their products, their services, other websites, locations or their content.
 
