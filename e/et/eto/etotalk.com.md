@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etotalk.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119093014id_/http%3A//www.etotalk.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etotalk.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312015100id_/https%3A//www.etotalk.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Notice - Smartphone Professional - EtoTalk
 
