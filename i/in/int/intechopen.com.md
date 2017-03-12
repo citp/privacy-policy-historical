@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the intechopen.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119014545id_/http%3A//www.intechopen.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intechopen.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312021717id_/https%3A//www.intechopen.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | InTech
 
-This policy is effective from 2016-03-09. 
+This policy is effective from 2016-12-12. 
 
-[](https://privacy.truste.com/privacy-seal/validation?rid=1e1306e9-f187-404e-a965-8cf80853256e "TRUSTe Privacy Certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=1e1306e9-f187-404e-a965-8cf80853256e)
 
 This privacy policy applies to [www.intechopen.com](https://web.archive.org/) owned and operated by IN TECH d.o.o. (“InTechOpen”, "We", "Us" or “Our”). This privacy policy sets out how InTechOpen uses and protects any information that you ("user") give when you use this website. InTechOpen is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy policy. InTechOpen does not sell, rent, or otherwise provide your personal information to third parties, unless they are publicly available as part of the publishing activities or we have your permission or are required by law to do so. InTechOpen may change this policy from time to time by updating this page. You are invited to check this page to ensure that you agree with the changes. 
 
-InTechOpen has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this website, [www.intechopen.com](https://web.archive.org/). 
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>. 
 
 #### 1\. USAGE OF INFORMATION
 
@@ -42,15 +40,17 @@ You can choose to accept or decline cookies. Most web browsers automatically acc
 
 #### 4\. YOUR RIGHTS
 
-  1. You can choose what information you make available to other registered and unregistered users
-  2. With the exception of your e-mail address (which works as a login), you are free to change your personal information at any time. If your personal information changes, you may correct, update or delete it by making the change on your user panel, or by contacting us by postal mail at the contact information listed below.
-  3. You can submit a request to close your InTechOpen account at any time. If you no longer desire our services, or you can deactivate your account by emailing us at [info@intechopen.com](mailto:info@intechopen.com) or by contacting us by postal mail using the contact information listed below.
+  1. You can choose what information you make available to other registered and unregistered users.
+  2. With the exception of your e-mail address (which works as a login), you are free to change your personal information at any time. InTechOpen will provide you with information about whether we hold any of your personal information If your personal information changes, you may correct, update or delete it by making the change on your user panel, or by contacting us by postal mail at the contact information listed below.
+  3. You can submit a request to close your InTechOpen account at any time. If you no longer desire our services, or you can deactivate your account by emailing us at [info@intechopen.com](mailto:info@intechopen.com) or by contacting us by postal mail using the contact information listed below. We will respond to your request within a reasonable timeframe.
 
 
 
 #### 5\. THIRD PARTIES
 
 InTechOpen will only share personal information with third parties in ways that are described in this privacy policy. 
+
+In certain situations, InTechOpen may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. 
 
 InTechOpen does not sell, rent, or otherwise provide your personal information to third parties, unless we have your permission or are required by law so as to comply with a subpoena or similar legal process. Please note that in order to deliver certain services (for example, Chapter publication), we may share information with third parties. To process payments made by you, we share some of your information with the payment processing company we use. While you are entitled to decline to provide the information requested, this may prevent us from providing the services requested. In the case of delivery of hard copies of books to authors or other parties ordering such publications, we share with third parties conducting postal delivery services the information required in order to carry out the delivery. These companies are authorized to use your personal information only as necessary to provide these services to us. 
 
@@ -91,6 +91,8 @@ If you have any questions about the use of cookies on our website please e-mail 
 Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSOs such as HTML 5 and Flash to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please [click here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager.html#117118). 
 
 #### 10\. SECURITY
+
+We follow generally accepted standards to protect the personal information submitted to us, both during transmission and once it is received. If you have any questions about the security of your personal information, you can contact us at [info@intechopen.com](mailto:info@intechopen.com). 
 
 We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure, we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online. However, given that the Internet is not a secure medium, there is no guarantee that information may not be accessed, disclosed, altered, or destroyed by breach of any of our physical, technical, or managerial safeguards. You are responsible for maintaining the secrecy of your unique password and account information and for controlling access to your email communications at all times. 
 
