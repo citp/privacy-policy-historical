@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the citiprivatepass.com privacy policy that was archived on 2016-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161020093719id_/https%3A//online.citibank.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the citiprivatepass.com privacy policy that was archived on 2017-03-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170312095516id_/https%3A//online.citibank.com/US/JRS/portal/template.do%3FID%3DPrivacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class=" lang_en " lang="en" style="display: block; visibility: visible;"><head><meta http-equiv="X-UA-Compatible" content="IE=edge, chrome=1">
 <meta charset="utf-8">
@@ -43,6 +43,7 @@ var requiredMinorVersion = 0;
 var requiredRevision = 124;
 var isCookieDeleteEnabled = false;
 var windowName = 'null';
+var isLEChatDisable=true;
 </script> 
 
 
@@ -81,8 +82,10 @@ var windowName = 'null';
 
 
 
+
+
 <script>
- var SubPortfolioWithSessionID="CBOL:161022204127348714035120";
+ var SubPortfolioWithSessionID="CBOL:170312055500371824055820";
  function getData2()
  {
   return SubPortfolioWithSessionID;
@@ -105,6 +108,15 @@ var PAGE_NAME="navigation";
 
 
  
+
+
+<script type="text/javascript"> 
+var encrString='';var initVecString='';var keyString='';var signString='';
+function getData4(encrParam, initParam, keyParam, signParam) {  encrString=encrParam;initVecString= initParam;keyString= keyParam;signString= signParam;}
+</script>
+
+
+
 
 
 
@@ -309,15 +321,15 @@ function isXFSWhiteListed(parentLoc){
 
 <script type="text/javascript">
 
-var domainName='online.citi.com';
+var domainName='online.citibank.com';
 
 
-var JFP_CSRF_TOKEN = 'EJAHG1GU';
+var JFP_CSRF_TOKEN = 'IVGKTKNA';
 
 if (OBJ_JFP_CSRF_TOKEN == undefined) {
 	var OBJ_JFP_CSRF_TOKEN = {};
 }
-OBJ_JFP_CSRF_TOKEN.onlineDOTcitiDOTcom = 'EJAHG1GU';
+OBJ_JFP_CSRF_TOKEN.onlineDOTcitibankDOTcom = 'IVGKTKNA';
 
 var isCSRFAutomationEnabled = true;
 
@@ -360,16 +372,16 @@ function areCookiesEnabled() {
 if (window.location.href.indexOf("file:/") <0)
     if(!areCookiesEnabled()){
     
-    var GetHTMLURL = "/JPS/portal/GetHTMLContent.do?path=/staticfiles/english/CookieHelp.html&JFP_TOKEN=EJAHG1GU"; 
+    var GetHTMLURL = "/JPS/portal/GetHTMLContent.do?path=/staticfiles/english/CookieHelp.html&JFP_TOKEN=IVGKTKNA"; 
     if (GetHTMLURL.indexOf("JFP_TOKEN") > 0){
         GetHTMLURL = GetHTMLURL.split('JFP_TOKEN')[0]; 
     }
-    var GetCookieURL = "/US/JPS/portal/NoCookie.do?JFP_TOKEN=EJAHG1GU"; 
+    var GetCookieURL = "/US/JPS/portal/NoCookie.do?JFP_TOKEN=IVGKTKNA"; 
     if (GetCookieURL.indexOf("JFP_TOKEN") > 0){
     	GetCookieURL = GetCookieURL.split('JFP_TOKEN')[0];
     }    
     if((window.location.href.indexOf(GetHTMLURL ) == -1  ) && (window.location.href.indexOf(GetCookieURL ) == -1 )){
-    	window.location.href="/US/JPS/portal/NoCookie.do?JFP_TOKEN=EJAHG1GU";    
+    	window.location.href="/US/JPS/portal/NoCookie.do?JFP_TOKEN=IVGKTKNA";    
     }
 }
 
@@ -412,12 +424,12 @@ if(startOverUrl.indexOf("JFP_TOKEN") > 0)
 
 }
 else
-window.top.location.href="/US/JPS/portal/Home.do?JFP_TOKEN=EJAHG1GU";
+window.top.location.href="/US/JPS/portal/Home.do?JFP_TOKEN=IVGKTKNA";
 }
 
 function logOff()
 {
-	window.top.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=EJAHG1GU";
+	window.top.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=IVGKTKNA";
 }
 
 
@@ -433,7 +445,7 @@ function processUnload()
 
 function getHelpURL()
 {
-  return "/US/JPS/nav/Help.do?JFP_TOKEN=EJAHG1GU";
+  return "/US/JPS/nav/Help.do?JFP_TOKEN=IVGKTKNA";
 }
 
 var ssChildLoaded = false;
@@ -445,7 +457,7 @@ if(typeof SS_NUM_OF_LOOP == 'undefined')
 var ssLoopCount = 1;
 var ssTimeoutID;
 var ssWinHandle;
-var ssURL = "/US/JPS/nav/SummaryRecord.do?JFP_TOKEN=EJAHG1GU";
+var ssURL = "/US/JPS/nav/SummaryRecord.do?JFP_TOKEN=IVGKTKNA";
 function signoffPortal()
 {
 	ssWinHandle = top.window.open(ssURL,"","height=650,width=600,toolbar=no,menubar=yes,resizable=yes,scrollbars=yes,location=no,status=yes");
@@ -455,14 +467,14 @@ function ssLogOff()
 {
 	if(ssChildLoaded || (ssLoopCount > SS_NUM_OF_LOOP))
 	{
-    	top.window.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=EJAHG1GU";
+    	top.window.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=IVGKTKNA";
     }
 	else
 	{
 		if(ssWinHandle && !ssWinHandle.closed)
 			ssTimeoutID = window.setTimeout('isSSChildLoaded();', 1000);
 		else
-			top.window.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=EJAHG1GU";
+			top.window.location.href="/US/JSO/signoff/Signoff.do?JFP_TOKEN=IVGKTKNA";
 	}
 }
 function isSSChildLoaded()
@@ -484,6 +496,7 @@ function isSSChildLoaded()
 
 		
 
+		
 	<script>
     // Feature - 2942 - CSRFToken Implementation From JSE
 
@@ -522,7 +535,7 @@ L=1;
 
 
 
-	var startOverUrl="/US/JPS/portal/Index.do?JFP_TOKEN=EJAHG1GU";
+	var startOverUrl="/US/JPS/portal/Index.do?JFP_TOKEN=IVGKTKNA";
 
 </script>
 	
@@ -576,7 +589,7 @@ Privacy
 
          
          
-                     <script type="text/javascript" src="/JPS/portal/js/cssPref.js" async=""></script>
+                     <script type="text/javascript" src="/JPS/portal/js/cssPref.js"></script>
           
 
 
@@ -668,6 +681,19 @@ window.attachEvent("onload", function()
 
 
 
+
+<script>
+var module = "smartSearch";
+var lang = "en_US_USGCB";
+var searchEnable = "null";
+var userRole = "null";
+var visitor="true";
+if(visitor=="true"||visitor=="Y"){
+	module="PreLogin";
+	userRole="VISITOR";
+}
+</script>
+
 	
 		
 		
@@ -694,25 +720,45 @@ window.attachEvent("onload", function()
 br_
 ">
 
+ <!-- ThirdParty SpeedBump -->
+    <div id="overlayWrapper" class="overlayWrapper">
+    <div id="speedbump-dialog-wrapper">
+        <div class="speedbump-dialog">
+            <div class="closeBtnWrapper">
+                <div class="dialog-closeBtn"></div>
+            </div>
+            <div class="dialogContentWrapper">
+                <div class="dialogHeader">Important Information</div>
+                <div class="dialogContent">
+                    <p>
+                    <small>
+                        You are leaving a Citi Website and going to a third party site. That site may have a privacy policy different from Citi and may provide less security than this Citi site. Citi and its affiliates are not responsible for the products, services, and content on the third party website. Do you want to go to the third party site?
+                      </small>
+                      </p>                        
+<p>
+<small>
+                        Citi is not responsible for the products, services or facilities provided and/or owned by other companies.
+                    </small>
+</p>
+                </div>
+                <div id="dialogContinueBtn" class="dialogContinueBtn">Continue</div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    <!-- End ThirdParty SpeedBump -->
+
     <!-- UTILITY NAVIGATION -->
     <div id="nav_utility" class="citiBrandingNav" role="navigation" tabindex="-1">
         <div class="maxWidth">
             <!-- CitiBrandingUtilityNavigation -->
-
-
-  <!-- New Design implementation -->
-  <!--
-   
-  -->
-
 <ul role="menu" tabindex="-1">   
   <li role="menuitem" tabindex="-1">
-    <a role="presentation" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=AOProductSelection">Open an Account</a>
+    <a role="link" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=AOProductSelection">Open an Account</a>
   </li>
 
   <!-- New Design implementation -->
-
-  
 
   
 </ul>
@@ -725,14 +771,15 @@ br_
             <!-- LOGO -->
             
 
-            <a role="banner" href="javascript:lnk('/Welcome.c')" id="headerLogoLink"><img alt="CITI logo" tabindex="-1" src="https://online.citi.com/GFC/branding/img/citilogo_branding_60x35.png">
+            <a role="banner" href="javascript:lnk('/Welcome.c')" id="headerLogoLink" class="default"><img alt="CITI logo" tabindex="-1" src="https://online.citibank.com/GFC/branding/img/Citi-Enterprise-White.png">
             </a>
       
-            <div id="search_container" onclick="toggleSearchBox()" class="search_container">
-                <div id="searchIcon_wrapper" class="searchIcon_wrapper">
-                    <img src="/GFC/branding/img/search-white.png" alt="Search">
-                </div>
-            </div>
+            <!-- CitiGlobalSearchBranding_USCBOL -->
+   <div id="search_container" onclick="toggleSearchBox()" class="search_container">
+    <div id="searchIcon_wrapper" class="searchIcon_wrapper">
+     <img src="https://online.citibank.com/GFC/branding/img/search-white.png" alt="Search">
+    </div>
+   </div>
         </div>
     </div>
     <div id="headerLogoLinkIE"></div>
@@ -745,46 +792,46 @@ br_
                     <!-- MARKETING NAVIGATION -->
                     <ul class="jfpw-menu sf-js-enabled mm_target testx" role="menubar" tabindex="-1" navbar="true" id="nav_marketing">
   <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="creditcards"> 
-    <a onclick="lnk(this.href);return false;" href="https://www.citi.com/credit-cards/citi.action" role="presentation" tabindex="0" id="creditcards">Credit Cards
+    <a role="link" onclick="lnk(this.href);return false;" href="https://www.citi.com/credit-cards/citi.action" tabindex="0" id="creditcards">Credit Cards
     </a>
   </li>
-  <li role="menuitem" tabindex="-1" class="submenu" aria-haspopup="true" aria-owns="banking"> 
-    <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=BankingOverview" role="presentation" tabindex="0" id="banking">Banking
+  <li role="menuitem" tabindex="-1" class="submenu"> 
+    <a role="link" onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=BankingOverview" tabindex="0" id="banking">Banking
     </a>
   </li>
-  <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="lending"> 
-    <a href="#" role="presentation" tabindex="0" onclick="showSubNav(this)" id="lending">Lending
+  <li role="menuitem" class="submenu" tabindex="-1"> 
+    <a href="#" role="link" tabindex="0" onclick="showSubNav(this)" id="lending">Lending
     </a>
     <div id="dropdown_lending" class="dropdown-content dropdown_header">
       <ul>
         <li class="mm_subnav">
-          <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=LinesLoansOverview">Personal Loans &amp; Lines of Credit</a>
+          <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=PersonalLinesAag">Personal Loans &amp; Lines of Credit</a>
         </li>
         <li class="mm_subnav">
-          <a role="menuitem" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_home_mortgage">Homeownership</a>
+          <a role="link" tabindex="0" onclick="lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=mortgage_home_mortgage">Homeownership</a>
         </li>
       </ul> 
     </div>
   </li>
-  <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="investing"> 
+  <li class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="investing"> 
     <a href="#" role="presentation" tabindex="0" onclick="showSubNav(this)" id="investing">Investing
     </a>
     <div id="dropdown_investing" class="dropdown-content dropdown_header">
       <ul>
         <li class="mm_subnav">
-          <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=FinancialGoals">Your Financial Goals</a>
+          <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=FinancialGoals" role="link">Your Financial Goals</a>
         </li>
         <li class="mm_subnav">
           <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InvestingCiti">Investing with Citi</a>
         </li>
           <li class="mm_subnav">
-          <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InsightsTools">Insights and Tools</a>
+          <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=InsightsTools" role="link">Insights and Tools</a>
         </li>
       </ul> 
     </div>
   </li>
-  <li role="menuitem" class="submenu" aria-haspopup="true" tabindex="-1" aria-owns="citigold"> 
-    <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitigoldOverview" role="presentation" tabindex="0" id="citigold">Citigold<sup class="bsup">®</sup>
+  <li class="submenu" tabindex="-1"> 
+    <a onclick="lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitigoldOverview" role="link" tabindex="0" id="citigold">Citigold<sup class="bsup">®</sup>
     </a>
   </li>
 </ul>
@@ -810,8 +857,7 @@ jQuery(document).ready(function($) {
 	autoOpen: false
 },
 	{
-	height: 320,
-	width: 244,
+	width: 453,
 modal: true,
 },{
 	'/topic/dialogsign_onOverlayovlyopen' : [ 'dialogopen'],
@@ -820,7 +866,7 @@ jQuery("#sign_onOverlayovly-trigger").bind('click keydown', function(event) {
 	if ((event.type === "keydown" && event.keyCode === 13) || event.type === "click") {
 				jQuery.ajax({
 				type: 'POST',
-				url: '/US/JSO/signon/DisplayUsernameSignon.do?cmp=signonovly&JFP_TOKEN=EJAHG1GU',
+				url: '/US/JSO/loginpage/flow.action?signonModalType=modal_reskin&JFP_TOKEN=IVGKTKNA',
 				success: function(data, status, xhr) {
 					jQuery('#sign_onOverlayovly').html(data);
 					jQuery('#sign_onOverlayovly').jfpwidget('open');
@@ -836,27 +882,30 @@ jQuery("#sign_onOverlayovly-trigger").bind("remove",function(){
 //-->
 </script>
 
-<span id="sign_onOverlayovly-trigger"><a id="cmlink_MODALSIGNONOVLY" target="_top" title="Sign On" name="&amp;lid=Signon&amp;lpos=T" rel="gb_page_center[215, 240]" tabindex="0" onclick="javascript:void(0);return false;"><span class="cM-whiteLock-signOn" role="presentation"></span>Sign On</a></span>
+<span id="sign_onOverlayovly-trigger"><a id="cmlink_CitiMODALSIGNONOVLY" target="_top" title="Sign On" name="&amp;lid=Signon&amp;lpos=T" rel="gb_page_center[215, 240]" tabindex="0" onclick="javascript:void(0);return false;">Sign On</a></span>
 <div id="sign_onOverlayovly" style="display:none;"></div>
 
 
-
-    <script type="text/javascript" src="/JFP/js/modules/jfpm.autocomplete.off.js"></script>
-    
+ 
+                <script type="text/javascript" src="/JFP/js/modules/jfpm.autocomplete.off.js"></script>
+        
                 </li>
               
     </ul>
 
 
             <!-- New Search -->
-            <div id="searchBoxMega" class="pull-right">
-                <div class="searchbar">
-                    <div class="searchWrapper" id="searchWrapper"></div>
+            
+                <div id="searchBoxMega" class="pull-right">
+                 <div class="searchbar">
+                  <div class="searchWrapper" id="searchWrapper">
+                  </div>
                     <button class="goBtn" onclick="javascript:gsearchNew();" aria-label="Submit Search button" aria-expanded="false">Go</button>
                     <button class="searchbar-close-btn searchbar-close-btn-shown hidden" aria-label="Close Search" style="display: inline-block;"></button> 
-                </div>
-              <!-- End New Search -->
-            </div>
+                 </div>
+              </div>
+             
+            <!-- End New Search -->
         </div>
     </div>
 
@@ -865,13 +914,13 @@ jQuery("#sign_onOverlayovly-trigger").bind("remove",function(){
 	<span id="brandingData_serverDomain">https://online.citi.com</span>
 	<span id="brandingData_serverPath">/US</span>
 	<span id="brandingData_appPath">https://online.citi.com/US</span>
-	<span id="brandingData_sessID">rRhk4-k8e_330smfGm3cfcx</span>
+	<span id="brandingData_sessID">KfSacIHBaycH-CtPIk9OevX</span>
 	<span id="brandingData_lnkSignOff">/JSO/signoff/SummaryRecord.do?logOff=true</span>
  	<span id="brandingData_loggedState">N</span>
  
  	
 	<span id="brandingData_test">x</span>
-	<span id="brandingData_autocomplete">https://online.citi.com/US/JRS/globalsearch/SearchAutoCompleteJsonP.do</span>
+	<span id="brandingData_autocomplete">https://online.citibank.com/US/JRS/globalsearch/SearchAutoCompleteJsonP.do</span>
 	 <span id="brandingData_autocompletefalse">/cards/svc/autocomplete.autocomplete?view=ALL</span>
 </div>
 
@@ -891,6 +940,8 @@ jQuery("#sign_onOverlayovly-trigger").bind("remove",function(){
         <span class="cA-upgradeBrowserCloseImage" aria-labelledby="upgradeBrowserClose" id="upgradeBrowserCloseLabel"></span>
     </a>
 </div>
+
+
 <main role="main" id="maincontent">
 	
 	
@@ -951,7 +1002,7 @@ $(document).ajaxSend(function(event, jqxhr, settings) {
 </script>
 
 <!-- Fix for VA Item || SOW # 39677 M10G || Starts -->
-<input type="hidden" name="CUSTOM_SYNC_TOKEN" value="8f5b1b5b87d808d331f3375fccb87985">
+<input type="hidden" name="CUSTOM_SYNC_TOKEN" value="5ddff8ee4005e79f27ecfd915102f4ca">
 <!-- Fix for VA Item || SOW # 39677 M10G || Ends -->
 
 
@@ -982,7 +1033,7 @@ $(document).ajaxSend(function(event, jqxhr, settings) {
 <script>
 
 
-var _server="jfp/prap30-srv2/jfp";
+var _server="jfp/prap48-srv2/jfp";
 var _site="JFP";
 var _jfp=true;
 
@@ -1007,7 +1058,7 @@ var mobile = false;
 var deviceType = "0";
 var _locale = "en_US_USPTL";
 
-var _tyWinID = "winrRhk4-k8e_330smfGm3cfcx";
+var _tyWinID = "winKfSacIHBaycH-CtPIk9OevX";
 var _byg = "false";
 var _regionspecific = "F";
 
@@ -1159,13 +1210,17 @@ var OfferPageCode = "jjba_ada_125|jjba_exp_700 |j46_700 |j23_700 |j23_257|jjba_e
 
 
 
-<form id="OnlineBranchForm" action="" method="post">
-<input type="hidden" name="attendee_person_firstName" value="">
-<input type="hidden" name="attendee_person_lastName" value="">
-<input type="hidden" name="attendee_email" value="">
-<input type="hidden" name="attendee_customField0" value="">
 
+
+<form id="OnlineBranchForm" action="" method="post">
+	<input type="hidden" name="attendee_person_firstName" value="">
+	<input type="hidden" name="attendee_person_lastName" value="">
+	<input type="hidden" name="attendee_email" value="">
+	<input type="hidden" name="attendee_customField0" value="">
+	<input type="hidden" name="ch" value="">
+	<input type="hidden" name="isTimeTrade" id="isTimeTrade" value="false">
 </form>
+
 
 
 
@@ -1366,78 +1421,56 @@ if(x.indexOf('#ad-info') > -1){
 <script>
  
 var url;
-function submit(url)
-{	
-	if(url === 'https://www.ttdemoui.timetradesystems.com'){
-		
+function submit(url) {	
+	if(document.getElementById("isTimeTrade").value == "true") {
 		document.getElementById("OnlineBranchForm").submit();
-	    
 	}
 	else{
-	
-	location.href=url;
+		location.href=url;
 	}
 }
 
 function oncontinue()
 {
-	
-    var s=s_gi(s_account);
-	 if (typeof s !== 'undefined') 
-	 {
-		 
-	s.linkTrackVars='eVar38,eVar20';
-    s.eVar38=s.pageName;
-    s.eVar20='Continue';
-    s.tl(this,'o','Continue');
-    
+	var s=s_gi(s_account);
+	if (typeof s !== 'undefined') {
+		s.linkTrackVars='eVar38,eVar20';
+    	s.eVar38=s.pageName;
+    	s.eVar20='Continue';
+    	s.tl(this,'o','Continue');
 	 } 
  }
-$(document).ready(function(){
-
-	var landingurlsite='';
-		if(landingurlsite === 'https://www.ttdemoui.timetradesystems.com')
-		{
-		
-		onloadpage();
-
-
-		
-	   }
-	});
-
-function onloadpage()
-{
- var s=s_gi(s_account);
-	 if (typeof s !== 'undefined') 
-	 {
  
-     s.pageName = "TimeTradeSpeedbump";
-     s.prop1 = "Secure";
-     s.prop2 = "OnlineBranchAppointment";
-	
+$(document).ready(function(){
+	if(document.getElementById("isTimeTrade").value == "true"){
+		onloadpage();		
 	}
-	 
+});
+
+function onloadpage() {
+	var s=s_gi(s_account);
+	if (typeof s !== 'undefined') {
+		s.pageName = "TimeTradeSpeedbump";
+		s.prop1 = "Secure";
+		s.prop2 = "OnlineBranchAppointment";
+	}
 }
 
 window.onbeforeunload = WindowCloseHanlder;
+
 function WindowCloseHanlder()
 {
 	var landingurlsite='';
-if(landingurlsite === 'https://www.ttdemoui.timetradesystems.com')
-{
+	if(document.getElementById("isTimeTrade").value == "true") {
 		var s=s_gi(s_account);
-		 if (typeof s !== 'undefined') 
-		 {
-	     s.linkTrackVars='eVar38,eVar20';
-	     s.eVar38=s.pageName;
-	     s.eVar20='Close';
-	     s.tl(this,'o','Close');
-	     	     
+		if (typeof s !== 'undefined') {
+			s.linkTrackVars='eVar38,eVar20';
+			s.eVar38=s.pageName;
+			s.eVar20='Close';
+			s.tl(this,'o','Close');	     
 		}
-		
+			
 	}
-
 }
 
 function PopUpRec() {
@@ -1445,8 +1478,6 @@ function PopUpRec() {
     window.open (landingurlsite,"mywindow","", "location=1");
     setTimeout("window.close()",100)
 }
-
-
 
 </script>
 						
@@ -1532,6 +1563,8 @@ s.prop51 = "NNNNN";
 s.hier1="BANKRIAWebEnglish/Public/PrivacyAndSecurity/Privacy/PrivacyPolicy";
 
 
+			
+			
 		
 		var eVar = "null";
 
@@ -1577,6 +1610,7 @@ if(typeof(rateSalePageName)!='undefined' && null != rateSalePageName && rateSale
 
 }
 
+   
 </script>
 		
 		
@@ -1603,7 +1637,8 @@ if(typeof(rateSalePageName)!='undefined' && null != rateSalePageName && rateSale
 	
       	
 			
-					<script>var maskJsonCommon ={"maskArr":[],"maskClassArr":[],"maskAt":""};
+					<script>
+var maskJsonCommon ={"maskArr":[],"maskClassArr":[],"maskAt":""};
 var maskJsonForModule ={"maskArr":[],"maskClassArr":[],"maskAt":""};
 </script>
 <script src="/JRS/js/chat/mtagconfig.js" type="text/javascript"></script><script type="text/javascript">
@@ -1670,7 +1705,14 @@ var maskJsonForModule ={"maskArr":[],"maskClassArr":[],"maskAt":""};
 					
 	                <script>
 						var lp=70244976;
-						lpMTagConfig.lpNumber=lp;
+						if(isLEChatDisable){
+							lpMTagConfig.lpNumber=lp;
+						}else{
+							var chatObject =  getLPChatObj();
+							if(null != chatObject){
+								chatObject.lpNumber = lp;
+							}
+						}
 					</script>
 					
 	                
@@ -1697,6 +1739,31 @@ var maskJsonForModule ={"maskArr":[],"maskClassArr":[],"maskAt":""};
 
 
 
+
+
+
+
+
+
+
+
+
+
+<script>
+
+var BranchAppointment = 'false';
+
+if(BranchAppointment == 'true'){
+	
+OnlineBranchpeedBumpLaunch();
+}
+function OnlineBranchpeedBumpLaunch() {
+      
+    var speedBumpUrl = '/US/JRS/portal/template.do?ID=TimeTradeOnlineBranchAppointment&sourceID=1&landingURL='+'https://www.ttdemoui.timetradesystems.com';
+    launchPopup(speedBumpUrl,"","resizable=yes,status=yes,scrollbars=yes,menubar=yes,location=yes,toolbar=yes,width=715,height=600");
+}
+
+</script>
 
 
 
@@ -1743,7 +1810,7 @@ var dashboardoverlay=false;
 
 
 
-<script language="javascript" type="text/javascript" src="/JPS/portal/js/MFAOverlay.js" async=""></script>
+<script language="javascript" type="text/javascript" src="/JPS/portal/js/MFAOverlay.js"></script>
 
 
 
@@ -2033,7 +2100,9 @@ function executeOnLoad(){
 
 	<script language="JavaScript" type="text/javascript">
 if(typeof(scErrorMsg)!='undefined' && scErrorMsg!='') s.eVar4=scErrorMsg;
-if(typeof(_pid)!='undefined' && _pid!='') s.prop59=_pid;
+if(typeof(_pid)!='undefined' && _pid!='')
+  if(_pid != 'cbol_sec_useregbnkcrd_')
+    s.prop59=_pid;
 /************* DO NOT ALTER ANYTHING BELOW THIS LINE ! **************/
 s.linkTrackVars="prop46,prop47,prop48,prop49,eVar6";
 var s_code=s.t();if(s_code)document.write(s_code)//--></script>
@@ -2100,10 +2169,10 @@ function isValidDomain(current, target) {
 
 			
 <script type="text/javascript">
-function hm7sDDMtcH9F(){var iSIwMCNlSwwYPclz4;var xyd50jE66G5l5jJcrJYiE=1;var VUHjBPUpTDtlNdHJio='vWc7KvKA2X8dJpJ';var dbBjLtlgCmj0JXhEJB='VMczYWc1jcFf2Xu';if(dbBjLtlgCmj0JXhEJB!=null && dbBjLtlgCmj0JXhEJB!="" && dbBjLtlgCmj0JXhEJB!="null"){var GffEn2TyIZe4Kvlu7SXR='12';var Xhou443XkcXlZcYzI1g2='7';var xyd50jE66G515jJcrJYiE=dbBjLtlgCmj0JXhEJB.substring(dbBjLtlgCmj0JXhEJB.length-GffEn2TyIZe4Kvlu7SXR);iSIwMCNlSwwYPc1z4='<input type="hidden" class="extraField" name=XXX_Extra value='+xyd50jE66G515jJcrJYiE+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=19af91a_0d3_800></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(iSIwMCNlSwwYPclz4);}});}}jQuery(document).ready(function(){hm7sDDMtcH9F();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraFie1d").remove();hm7sDDMtcH9F();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraFie1d").remove();hm7sDDMtcH9F();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraFie1d").remove();hm7sDDMtcH9F();});}});
-function addExtraField(){var GlllCgsIcYMIbVDX;var k5XHpdEXl4wo0WyOUQk=1;var v8HziX2lBoY7TgUv='gngxyEdBTTzkDqI';var KTqtWB5iyhn10yew='OMZQKlUQrgCRGVg';if(KTqtWB5iyhn10yew!=null && KTqtWB5iyhn10yew!="" && KTqtWB5iyhn10yew!="null"){var eg2yjVpyQSlC3Tks1f='12';var zbPpJVci5NASgUFFXH='15';var k5XHpdEX14wo0WyOUQk=KTqtWB5iyhn10yew.substring(KTqtWB5iyhn10yew.length-eg2yjVpyQSlC3Tks1f);G1llCgsIcYMIbVDX='<input type="hidden" class="extraField" name=XXX_Extra value='+k5XHpdEX14wo0WyOUQk+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=19af91a_0d3_800></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(GlllCgsIcYMIbVDX);}});}}jQuery(document).ready(function(){addExtraField();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraFie1d").remove();addExtraField();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraFie1d").remove();addExtraField();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraFie1d").remove();addExtraField();});}});
-function KjSJkykAkcUGNl(){var hIiJhJSEezTl9u95u20oj;var Y63l2oncbxTnzcYf1=1;var V822x0k9BgWgEyzi='BVrIrxia9Yi1uG2';var xif3yLt9JHaRZXLW='A551r6F4HY86qnu';if(xif3yLt9JHaRZXLW!=null && xif3yLt9JHaRZXLW!="" && xif3yLt9JHaRZXLW!="null"){var ZyN88a2fPNF6MnctjKm='4';var NiU5vvkFYqvKtCD7uqV='5';var Y6312oncbxTnzcYf1=xif3yLt9JHaRZXLW.substring(xif3yLt9JHaRZXLW.length-ZyN88a2fPNF6MnctjKm);hIiJhJSEezT19u95u20oj='<input type="hidden" class="extraField" name=XXX_Extra value='+Y6312oncbxTnzcYf1+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=19af91a_0d3_800></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(hIiJhJSEezTl9u95u20oj);}});}}jQuery(document).ready(function(){KjSJkykAkcUGNl();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraFie1d").remove();KjSJkykAkcUGNl();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraFie1d").remove();KjSJkykAkcUGNl();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraFie1d").remove();KjSJkykAkcUGNl();});}});
-function m6mo8UJFp2RVu(){var mgWikrHP5w1yCCJED0m;var W4udRZrlhL11HwRZz=1;var J81JTGkGaJzdadW='jshVWRs4H3KBCpC';var Zjl9OBcYnwFENlB='f8ba7d9354ecc66';if(Zjl9OBcYnwFENlB!=null && Zjl9OBcYnwFENlB!="" && Zjl9OBcYnwFENlB!="null"){var necPbeub2CCj6WGUt6I='7';var GUlShVxJ8Rxd9SXSTkJ='6';var W4udRZr1hL11HwRZz=Zjl9OBcYnwFENlB.substring(Zjl9OBcYnwFENlB.length-necPbeub2CCj6WGUt6I);mgWikrHP5w1yCCJED0m='<input type="hidden" class="extraField" name=XXX_Extra value='+W4udRZr1hL11HwRZz+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=19af91a_0d3_800></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(mgWikrHP5w1yCCJED0m);}});}}jQuery(document).ready(function(){m6mo8UJFp2RVu();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraField").remove();m6mo8UJFp2RVu();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraField").remove();m6mo8UJFp2RVu();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraField").remove();m6mo8UJFp2RVu();});}});
+function addExtraField(){var ZE36JHReElAOtrlVE6;var GUFsVSqhFlygp1SNI=1;var ZqlMaXH3p6leFEw='bpAkEMKEENyCCQ3';var RfogEcpSWScYe6w='lKmeT4sFnNdTHBb';if(RfogEcpSWScYe6w!=null && RfogEcpSWScYe6w!="" && RfogEcpSWScYe6w!="null"){var vPJMagxLX3mktLub3='12';var jo29axIrkD3okqYRt='13';var GUFsVSqhF1ygp1SNI=RfogEcpSWScYe6w.substring(RfogEcpSWScYe6w.length-vPJMagxLX3mktLub3);ZE36JHReE1AOtrlVE6='<input type="hidden" class="extraField" name=XXX_Extra value='+GUFsVSqhF1ygp1SNI+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=b88815783a85136></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(ZE36JHReElAOtrlVE6);}});}}jQuery(document).ready(function(){jQuery("input.extraFie1d").remove();addExtraField();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraFie1d").remove();addExtraField();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraFie1d").remove();addExtraField();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraFie1d").remove();addExtraField();});}});
+function zuALKxHO1Qatv1(){var AHk3dbk4lQrVZBzz4;var ZKMm92AY0aYuBlihm=1;var XK7BBMJFmTnJwkaFykB='TJZzTs8ilSi9jFt';var A4b4ZRPgrGsYU77CnUI='aP9EZ83pxyQqzxF';if(A4b4ZRPgrGsYU77CnUI!=null && A4b4ZRPgrGsYU77CnUI!="" && A4b4ZRPgrGsYU77CnUI!="null"){var UsLpmwWGmwpqJk926='11';var TtX7cTfDCHMaNhMX6='11';var ZKMm92AY0aYuB1ihm=A4b4ZRPgrGsYU77CnUI.substring(A4b4ZRPgrGsYU77CnUI.length-UsLpmwWGmwpqJk926);AHk3dbk41QrVZBzz4='<input type="hidden" class="extraField" name=XXX_Extra value='+ZKMm92AY0aYuB1ihm+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=b88815783a85136></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(AHk3dbk4lQrVZBzz4);}});}}jQuery(document).ready(function(){jQuery("input.extraFie1d").remove();zuALKxHO1Qatv1();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraFie1d").remove();zuALKxHO1Qatv1();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraFie1d").remove();zuALKxHO1Qatv1();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraFie1d").remove();zuALKxHO1Qatv1();});}});
+function AHE2jm1dEeb13(){var O9Zmbwh8ozloTd0xo;var I9jfwoqplJcY2sJxbhtK=1;var XHusxgo4C3xoQbh4e='UUA4H6rDxXztn83';var qrtaQ7XbVmv80SiLC='aXtkH9rSAlGMVgX';if(qrtaQ7XbVmv80SiLC!=null && qrtaQ7XbVmv80SiLC!="" && qrtaQ7XbVmv80SiLC!="null"){var pPCKW2to2RhNbLCOl0Dy='15';var dj9HttdViyLBftXt0SUi='15';var I9jfwoqp1JcY2sJxbhtK=qrtaQ7XbVmv80SiLC.substring(qrtaQ7XbVmv80SiLC.length-pPCKW2to2RhNbLCOl0Dy);O9Zmbwh8oz1oTd0xo='<input type="hidden" class="extraField" name=XXX_Extra value='+I9jfwoqp1JcY2sJxbhtK+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=b88815783a85136></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(O9Zmbwh8ozloTd0xo);}});}}jQuery(document).ready(function(){jQuery("input.extraFie1d").remove();AHE2jm1dEeb13();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraFie1d").remove();AHE2jm1dEeb13();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraFie1d").remove();AHE2jm1dEeb13();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraFie1d").remove();AHE2jm1dEeb13();});}});
+function BfIBBuiiInj(){var WMYZHzYp5jW1uWfcXW;var lEBa6lUHOVrolvlyNu9yx=1;var WKlCrrEOU6xyAwD0d7q='FyWJxPH9rTo9pFP';var Rg45uXmgrBiDHh6ECYi='9745dc65bdc7ae2';if(Rg45uXmgrBiDHh6ECYi!=null && Rg45uXmgrBiDHh6ECYi!="" && Rg45uXmgrBiDHh6ECYi!="null"){var gCZNzXLkGmntxVm5D='13';var Za7mpeMya1J7IKgu9='14';var lEBa61UHOVrolvlyNu9yx=Rg45uXmgrBiDHh6ECYi.substring(Rg45uXmgrBiDHh6ECYi.length-gCZNzXLkGmntxVm5D);WMYZHzYp5jW1uWfcXW='<input type="hidden" class="extraField" name=XXX_Extra value='+lEBa61UHOVrolvlyNu9yx+'></input><input type="hidden" class="extraField" name=XYZ_Extra value=b88815783a85136></input>';jQuery( "form" ).each(function() {if(isValidUrl(jQuery(this).attr("action"))){jQuery(this).append(WMYZHzYp5jW1uWfcXW);}});}}jQuery(document).ready(function(){jQuery("input.extraField").remove();BfIBBuiiInj();var version=parseFloat(jQuery.fn.jquery);if(version<1.7){ if(version>=1.3 && version<=1.4){jQuery("form").live("submit",function(){ jQuery("input.extraField").remove();BfIBBuiiInj();});}else{jQuery(document).delegate("form","submit",function(){ jQuery("input.extraField").remove();BfIBBuiiInj();});}}else{jQuery(document).on("submit","form",function(){jQuery("input.extraField").remove();BfIBBuiiInj();});}});
 
 
 </script>
@@ -2172,13 +2241,14 @@ $(window).load(function() {
         <div class="social_links">
 
             <a title="Citi.com" class="logo" onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/Welcome.c">
-                <img alt="Citi.com" src="https://online.citi.com/CBOL/common/ddl/1.1.0/images/catalogue/citi-logo-footer.png" width="52px" height="30px">
+                <img alt="Citi.com" src="https://online.citibank.com/CBOL/common/ddl/1.1.0/images/catalogue/citi-logo-footer.png" width="52px" height="30px">
             </a>
-            <div class="social_network">
-                <a class="social_padding" id="cmlink_FacebookIconLink" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=FacebookSpeedbump','Facebook','status,resizable,scrollbars,focus,width=590,height=480')" target="_top" title="Facebook">Facebook<span class="hiddenSkipNav">This link will open a new tab or window.</span></a>
-                <a class="social_padding" id="cmlink_TwitterIconLink" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=SocialTwitterSpeedbump','TwitterAskCiti','status,resizable,scrollbars,focus,width=590,height=480')" target="_top" title="Twitter">Twitter<span class="hiddenSkipNav">This link will open a new tab or window.</span></a>
-                <a class="social_padding" id="cmlink_YoutubeIconLink" href="javascript:launchPopup('/US/JRS/portal/template.do?ID=SocialYoutubeSpeedbump','YouTube','status,resizable,scrollbars,focus,width=590,height=480')" target="_top" title="YouTube">You Tube<span class="hiddenSkipNav">This link will open a new tab or window.</span></a>
-            </div>
+            <div class="social_network"> 
+            <a class="social_padding dialog-trigger" id="FacebookIconLink" href="https://www.facebook.com/citi" target="_top" title="Facebook">Facebook</a>
+            <a class="social_padding dialog-trigger" id="TwitterIconLink" href="https://www.twitter.com/citi" target="_top" title="Twitter">Twitter</a>
+            <a class="social_padding dialog-trigger" id="YoutubeIconLink" href="https://www.youtube.com/citi" target="_top" title="YouTube">YouTube</a>
+      </div>
+
         </div>
 
         <div class="footer_links">
@@ -2223,7 +2293,7 @@ $(window).load(function() {
                         <a href="https://www.privatebank.citibank.com/">Citi Private Bank</a>
                     </li>
                     <li class="footer_subnav">
-                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/JRS/portal.c?ID=Global">Citi Global Banking</a>
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=GlobalClientBanking">Citi Global Banking</a>
                     </li>
                 </ul>
             </div>
@@ -2235,9 +2305,6 @@ $(window).load(function() {
                     </li>
                     <li class="footer_subnav">
                         <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBizOverview">Small Business Accounts</a>
-                    </li>
-                    <li class="footer_subnav">
-                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiBusinessBanking">Business Accounts</a>
                     </li>
                     <li class="footer_subnav">
                         <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/pands/detail.do?ID=CitiCommercialBanking">Commercial Accounts</a>
@@ -2276,6 +2343,13 @@ $(window).load(function() {
                     <li class="footer_subnav">
                         <a href="javascript:lnk('/JRS/portal/contactus.do?ID=ContactUsBanking')">Contact Us</a>
                     </li>
+                   
+<!--Added for AS-Priority--> 
+
+                   
+                    <!--Added for AS-Priority-->
+
+
                     <li class="footer_subnav">
                         <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/helpcenter/main.do">Help &amp; FAQs</a>
                     </li>
@@ -2284,7 +2358,7 @@ $(window).load(function() {
             </div>
 
             <div class="footer_link_contents">
-                <form id="locatorForm" action="https://online.citi.com/US/GCL/citilocator/flow.action"><!--" target="_self" >-->
+                <form id="locatorForm" action="https://online.citibank.com/US/GCL/citilocator/flow.action"><!--" target="_self" >-->
                 <fieldset>
                     <ul>
                         <li class="footer_subnav footer_bold_text">
@@ -2302,31 +2376,34 @@ $(window).load(function() {
                 </form>
             </div>
         </div>
-
-        <div class="footer_options">
-            <ul>
-                <li class="footer_options_subnav footer_bold_text">
-                    <span>© 2016 Citigroup Inc</span>
-                </li>
-                <li class="footer_options_subnav">
-                    <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=TermsDisclaimer">Terms &amp; Conditions</a>
-                </li>
-                <li class="footer_options_subnav">
-                    <a href="javascript:lnk('/JRS/portal/template.do?ID=Privacy')">Privacy</a>
-                </li>
-                <li class="footer_options_subnav">
-                    <a href="javascript:lnk('/JRS/pands/detail.do?ID=SecurityCenter')">Security</a>
-                </li>
-                
-                <li class="footer_options_subnav">
+        <div class="footer_options_wrapper">
+            <div class="footer_options">
+                <ul>
+                    <li class="footer_options_subnav footer_bold_text">
+                        <b>© <span class="br_year"></span> Citigroup Inc</b>
+                    </li>
+                    <li class="footer_options_subnav">
+                        <a onclick="this.href=getFinalURL(this.href);lnk(this.href);return false;" href="/US/JRS/portal/template.do?ID=TermsDisclaimer">Terms &amp; Conditions</a>
+                    </li>
+                    <li class="footer_options_subnav">
+                        <a href="javascript:lnk('/JRS/portal/template.do?ID=Privacy')">Privacy</a>
+                    </li>
+                    <li class="footer_options_subnav">
+                        <a href="javascript:lnk('/JRS/pands/detail.do?ID=SecurityCenter')">Security</a>
+                    </li>
                     
-                        <!-- RP LABEL FOR DASHBOARD ONLY -->
+                    <li class="footer_options_subnav">
                         
-
-                        <!-- END -->
+                            <!-- RP LABEL FOR DASHBOARD ONLY-->
+                            
+                            <!-- END -->
+                        
+                    </li>
                     
-                </li>
-            </ul>
+                        <li id="footerId"><a id="feedbackLink" onclick="OOo.oo_launch(event, 'oo_feedback')" href="#" role="link">Feedback</a></li>
+                
+                </ul>
+            </div>
         </div>
 
         <div class="footerContent" role="note">
@@ -2336,20 +2413,23 @@ $(window).load(function() {
                 
             </span>
         </div>
+        <div class="server-fdic-wrapper">
+            <div role="note" class="copyright">
+                <span id="cbol-footer-server"></span>
+                <span id="cbol-footer-mlc"></span>
+            </div>
+            
+            <div class="fdic_content" role="navigation">
+                <!-- FDICdisclaimer_USCBOL -->
+                <!-- FDICdisclaimer -->
+                <span id="cM-FDIC">
+                    <img alt="Member FDIC Logo" class="cM-contentSpriteBase cM-FDIC" src="https://online.citibank.com/GFC/branding/responsivebranding/img/memberfdic.png" width="auto" height="30px">
+                </span>
 
-        <div role="note" class="copyright">
-            <span id="cbol-footer-server"></span><br>
-            <span id="cbol-footer-mlc" style="color: rgb(255, 255, 255);"></span>
+                <span class="EqualHousing"><img src="https://online.citibank.com/JRS/images/EqualHousing.png" alt="Equal Housing Logo"></span>
+            </div>
         </div>
-        <div class="fdic_content" role="navigation">
-            <!-- FDICdisclaimer_USCBOL -->
-            <!-- FDICdisclaimer -->
-            <span id="cM-FDIC">
-                <img alt="Member FDIC Logo" class="cM-contentSpriteBase cM-FDIC" src="https://online.citi.com/GFC/branding/responsivebranding/img/memberfdic.png" width="auto" height="30px">
-            </span>
-
-            <span class="EqualHousing"><img src="https://online.citi.com/JRS/images/EqualHousing.png" alt="Equal Housing Logo"></span>
-        </div>
+        
     </div>
 </div>
 <script type="text/javascript">
@@ -2379,8 +2459,9 @@ $(window).load(function() {
 </script>
 
 <!-- TeaLeaf JS -->
+<script type="text/javascript" src="/GFC/branding/olab/js/oo_engine.min.js"></script>
 <script type="text/javascript" src="/GFC/branding/js/linkCapture.js"></script>
-<script type="text/javascript" src="/GFC/branding/js/branding_universal_megaMenu.js"></script>
+<script type="text/javascript" src="/GFC/branding/js/branding_universal.js"></script>
 <script type="text/javascript" src="/GFC/branding/js/citi_search.js"></script>
 <script type="text/javascript" src="/JRS/js/btAdServe.js"></script>
 
@@ -2403,6 +2484,35 @@ $(window).load(function() {
 
 	
 
+
+
+
+	<script>
+			var isVisitor="true";
+			if(isVisitor!="true"||isVisitor=="N"){
+			if(encrString!=''){
+				var trustRes1=encodeURIComponent(encrString);
+			        var initVecWithChar1=encodeURIComponent(initVecString);
+			$.ajax({
+				type: "POST",
+			        dataType: "json",
+			            url: '/US/REST/amwresource/amwajax.jws',
+			            data: 'encrStr='+trustRes1+'&initVec='+initVecWithChar1,
+			            cache: false,
+			});
+			}else{
+				setTimeout(function(){ var trustRes1=encodeURIComponent(encrString);
+		        var initVecWithChar1=encodeURIComponent(initVecString);
+				$.ajax({
+					type: "POST",
+				        dataType: "json",
+				            url: '/US/REST/amwresource/amwajax.jws',
+				            data: 'encrStr='+trustRes1+'&initVec='+initVecWithChar1,
+				            cache: false,
+				}); }, 1000);
+			}
+			}
+		</script>
 
 
 
