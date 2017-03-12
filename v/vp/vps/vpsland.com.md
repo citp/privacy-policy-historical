@@ -1,21 +1,20 @@
-> *The following text is extracted and transformed from the vpsland.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128174910id_/http%3A//vpsland.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpsland.com privacy policy that was archived on 2017-03-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170312121155id_/https%3A//www.jaguarpc.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | VPSLAND
+# Privacy policy | JaguarPC Web Hosting
 
-__**New!** \- Dedicated Servers Now Available  [Learn More](http://www.vpsland.com/dedicated-servers.html)
+This is the web site of JaguarPC.com  
+We can be reached via e-mail at [abuse@jaguarpc.com](mailto:abuse@jaguarpc.com) .
 
-###  We Keep Your Info Private 
+For each visitor to our Web page, our Web server automatically recognizes only the consumer’s domain name, but not the e-mail address (where possible). We collect only the domain name, but not the e-mail address of visitors to our Web page, the e-mail addresses of those who post messages to our bulletin board, the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages consumers access or visit. The information we collect is used for internal review and is then discarded, not shared with other organizations for commercial purposes.
 
-This is the Web site of VPSLAND.com. We can be reached via e-mail at support@vpsland.com. VPSLAND.com takes the privacy of its users very seriously and is committed to protecting their personal information. 
+**With respect to cookies:**
 
-For each visitor to our Web site, our Web server automatically recognizes information regarding the domain address and/or IP address of the visitor. 
+We use cookies to record session information, such as items that consumers add to their shopping cart, customize Web page content based on visitors’ browser type or other information that the visitor sends. If you do not want to receive e-mail from us in the future, please let us know by sending us e-mail at the above address.
 
-We collect the e-mail addresses of those who communicate with us via e-mail, aggregate information on what pages visitors access or visit and information volunteered by the visitor, such as survey information, inquiries, and/or site registrations. 
+**With respect to Ad Servers:**
 
-The information we collect is used to improve the content of our Web site, used to notify visitors about updates to our Web site and is used by us for marketing purposes. We DO NOT at any time share the information we receive about or from visitors to our Web site with any other company or organization. Such information would only be disclosed as required by law. 
+We do not partner with or have special relationships with any ad server companies. From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. If our information practices change at some time in the future we will post the policy changes to our Web site to notify you of these changes and provide you with the ability to opt out of these new uses. If you are concerned about how your information is used, you should check back at our Web site periodically. Consumers can have this information corrected by or using their control panel.
 
-If you do not want to receive e-mails from us in the future, please let us know by sending an e-mail to us at the above address and telling us that you do not want to receive e-mail from our company. 
+**With respect to security:**
 
-If you supply us with your postal address online you may receive periodic mailings from us with information on new products and services or upcoming events. If you do not wish to receive such mailings, please let us know by sending an e-mail to the above address. We will be sure your name is removed from the list we use for promotional purposes. 
-
-Persons who supply us with their telephone numbers online may receive telephone contact from us with information regarding account verification or other account related information, billing or promotions that we believe may be of interest. Please provide us with your correct phone number. 
+We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site. When we transfer and receive certain types of sensitive information such as financial or health information, we redirect visitors to a secure server and notify visitors through a pop-up screen on our site. We have appropriate security measures in place in our physical facilities to protect against the loss, misuse or alteration of information that we have collected from you at our site. If you feel that this site is not following its stated information policy, you may contact state or local chapters of the Better Business Bureau.
