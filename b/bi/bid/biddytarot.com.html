@@ -1,0 +1,531 @@
+<!--The following is the downloaded HTML source of the biddytarot.com privacy policy that was archived on 2017-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170313152652id_/https%3A//www.biddytarot.com/privacy-policy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+ 
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script>
+<link rel="icon" type="image/png" href="https://www.biddytarot.com/favicon.png">
+ 
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#582564">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1, user-scalable=0">
+ 
+<link rel="shortcut icon" href="https://www.biddytarot.com/wp-content/uploads/BT-BiddyTarotLogo-@2x.png">
+<title>Privacy Policy | Biddy Tarot</title>
+<link href="https://fonts.googleapis.com/css?family=Oswald:300,400,700" rel="stylesheet" type="text/css">
+ 
+<link rel="canonical" href="https://www.biddytarot.com/privacy-policy/">
+<meta property="og:locale" content="en_US">
+<meta property="og:type" content="article">
+<meta property="og:title" content="Privacy Policy | Biddy Tarot">
+<meta property="og:url" content="https://www.biddytarot.com/privacy-policy/">
+<meta property="og:site_name" content="Biddy Tarot">
+<meta property="og:image" content="https://www.biddytarot.com/wp-content/uploads/BT-FreeDownload-Header.jpg">
+<meta name="twitter:card" content="summary">
+<meta name="twitter:title" content="Privacy Policy | Biddy Tarot">
+<meta name="twitter:image" content="https://www.biddytarot.com/wp-content/uploads/BT-FreeDownload-Header.jpg">
+ 
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="Biddy Tarot » Feed" href="https://www.biddytarot.com/feed/">
+<link rel="alternate" type="application/rss+xml" title="Biddy Tarot » Comments Feed" href="https://www.biddytarot.com/comments/feed/">
+<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.biddytarot.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.3"}};
+			!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script><script src="https://www.biddytarot.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.3" type="text/javascript" defer=""></script>
+<style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-0.1em!important;background:none!important;padding:0!important;}</style>
+<link rel="stylesheet" id="tm_clicktotweet-css" href="https://www.biddytarot.com/wp-content/plugins/click-to-tweet-by-todaymade/assets/css/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/css/font-awesome.css" type="text/css" media="all">
+<link rel="stylesheet" id="player-buttons-css" href="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/css/player-buttons.css" type="text/css" media="all">
+<link rel="stylesheet" id="bar-ui-css" href="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/css/bar-ui.css" type="text/css" media="all">
+<link rel="stylesheet" id="popover-css-css" href="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/css/jquery.webui-popover.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="jquery-reveal-css-css" href="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/css/reveal.css" type="text/css" media="all">
+<link rel="stylesheet" id="spp-clickable-tweet-css" href="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/css/spp-tweet-styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="spp-clammr-css" href="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/css/spp-clammr-styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="fa-css" href="https://www.biddytarot.com/wp-content/themes/salient/css/font-awesome.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="parent-style-css" href="https://www.biddytarot.com/wp-content/themes/salient/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="montserrat-css" href="https://www.biddytarot.com/wp-content/themes/bt_16/fonts/montserrat/montserrat-stylesheet.css" type="text/css" media="all">
+<link rel="stylesheet" id="g_bt-fonts-css" href="https://fonts.googleapis.com/css?family=Roboto+Slab:100,300,400,700|Montserrat:400,700" type="text/css" media="all">
+<link rel="stylesheet" id="rgs-css" href="https://www.biddytarot.com/wp-content/themes/salient/css/rgs.css" type="text/css" media="all">
+<link rel="stylesheet" id="main-styles-css" href="https://www.biddytarot.com/wp-content/themes/bt_16/style.css" type="text/css" media="all">
+<link rel="stylesheet" id="pretty_photo-css" href="https://www.biddytarot.com/wp-content/themes/salient/css/prettyPhoto.css" type="text/css" media="all">
+<!--[if lt IE 9]>
+<link rel='stylesheet' id='nectar-ie8-css'  href='https://www.biddytarot.com/wp-content/themes/salient/css/ie8.css' type='text/css' media='all' />
+<![endif]-->
+<link rel="stylesheet" id="responsive-css" href="https://www.biddytarot.com/wp-content/themes/salient/css/responsive.css" type="text/css" media="all">
+<link rel="stylesheet" id="dynamic-css-css" href="https://www.biddytarot.com/wp-content/themes/bt_16/css/dynamic-combined.css" type="text/css" media="all">
+<link rel="stylesheet" id="wpgform-css-css" href="https://www.biddytarot.com/wp-content/plugins/wpgform/css/wpgform.css" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="https://www.biddytarot.com/wp-content/plugins/js_composer_salient/assets/css/js_composer.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="fancybox-css" href="https://www.biddytarot.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.css" type="text/css" media="screen">
+<script type="text/javascript" src="https://www.biddytarot.com/wp-includes/js/jquery/jquery.js?ver=1.12.4"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/itro-popup/scripts/itro-scripts.js?ver=4.7.3"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/js/soundmanager2.js?ver=4.7.3"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/js/bar-ui.js?ver=4.7.3"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/js/sm_timestamp.js?ver=4.7.3"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/js/transcript.js?ver=4.7.3"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/js/jquery.webui-popover.min.js?ver=4.7.3"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/js/clammrit.js?ver=4.7.3"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/js/jquery.reveal.js?ver=4.7.3"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/simple-podcast-press/responsive_audio_player/js/rotator.js?ver=4.7.3"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/themes/salient/js/modernizr.js?ver=2.6.2"></script>
+<link rel="https://api.w.org/" href="https://www.biddytarot.com/wp-json/">
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.biddytarot.com/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.biddytarot.com/wp-includes/wlwmanifest.xml">
+<link rel="shortlink" href="https://www.biddytarot.com/?p=23846">
+<link rel="alternate" type="application/json+oembed" href="https://www.biddytarot.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.biddytarot.com%2Fprivacy-policy%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.biddytarot.com/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.biddytarot.com%2Fprivacy-policy%2F&amp;format=xml">
+ 
+ 
+<style type="text/css" media="screen">.g{margin:0px;padding:0px;overflow:hidden;line-height:1;zoom:1;}.g img{height:auto;}.g-col{position:relative;float:left;}.g-col:first-child{margin-left:0;}.g-col:last-child{margin-right:0;}.g-1{margin:1px;}.g-2{margin:1px;}.g-3{margin:1px;}.g-4{margin:1px;}@media only screen and (max-width: 480px) {.g-col,.g-dyn,.g-single{width:100%;margin-left:0;margin-right:0;}}.adrotate_widgets{overflow:hidden;padding:0;}</style>
+ 
+<script type="text/javascript" async="" defer="" data-pin-color="gray" data-pin-height="28" data-pin-hover="true" src="https://www.biddytarot.com/wp-content/plugins/pinterest-pin-it-button-on-image-hover-and-post/js/pinit.js"></script><style type="text/css">body .section-title #portfolio-nav a:hover i{opacity:0.75;}.pagination-navigation{-webkit-filter:url("https://www.biddytarot.com/privacy-policy/#goo");filter:url("https://www.biddytarot.com/privacy-policy/#goo");}</style><meta name="generator" content="Powered by Visual Composer - drag and drop page builder for WordPress.">
+<!--[if lte IE 9]><link rel="stylesheet" type="text/css" href="https://www.biddytarot.com/wp-content/plugins/js_composer_salient/assets/css/vc_lte_ie9.min.css" media="screen"><![endif]--><!--[if IE  8]><link rel="stylesheet" type="text/css" href="https://www.biddytarot.com/wp-content/plugins/js_composer_salient/assets/css/vc-ie8.min.css" media="screen"><![endif]--><link rel="icon" href="https://www.biddytarot.com/wp-content/uploads/BT-BiddyTarotLogo-@2x-50x50.png" sizes="32x32">
+<link rel="icon" href="https://www.biddytarot.com/wp-content/uploads/BT-BiddyTarotLogo-@2x.png" sizes="192x192">
+<link rel="apple-touch-icon-precomposed" href="https://www.biddytarot.com/wp-content/uploads/BT-BiddyTarotLogo-@2x.png">
+<meta name="msapplication-TileImage" content="https://www.biddytarot.com/wp-content/uploads/BT-BiddyTarotLogo-@2x.png">
+ 
+<script type="text/javascript">
+/* <![CDATA[ */
+var fb_timeout = null;
+var fb_opts = { 'overlayShow' : true, 'hideOnOverlayClick' : true, 'showCloseButton' : true, 'margin' : 20, 'centerOnScroll' : true, 'enableEscapeButton' : true, 'autoScale' : true, 'speedIn' : 500 };
+var easy_fancybox_handler = function(){
+	/* Inline */
+	jQuery('a.fancybox-inline, area.fancybox-inline, li.fancybox-inline a').fancybox( jQuery.extend({}, fb_opts, { 'type' : 'inline', 'autoDimensions' : true, 'scrolling' : 'auto', 'transitionIn' : 'elastic', 'easingIn' : 'easeOutBack', 'transitionOut' : 'elastic', 'easingOut' : 'easeInBack', 'opacity' : false, 'hideOnContentClick' : false }) );
+}
+var easy_fancybox_auto = function(){
+	/* Auto-click */
+	setTimeout(function(){jQuery('#fancybox-auto').trigger('click')},1000);
+}
+/* ]]> */
+</script>
+<noscript><style type="text/css">.wpb_animate_when_almost_visible{opacity:1;}</style></noscript>
+</head>
+<body class="page-template-default page page-id-23846 wpb-js-composer js-comp-ver-4.12.1 vc_responsive" data-footer-reveal="false" data-footer-reveal-shadow="none" data-cae="linear" data-cad="650" data-aie="none" data-ls="pretty_photo" data-apte="standard" data-hhun="0" data-fancy-form-rcs="default" data-form-style="default" data-is="minimal" data-button-style="default" data-header-inherit-rc="false" data-header-search="true" data-animated-anchors="true" data-ajax-transitions="false" data-full-width-header="true" data-slide-out-widget-area="true" data-loading-animation="spin" data-bg-header="false" data-ext-responsive="true" data-header-resize="1" data-header-color="custom" data-transparent-header="false" data-smooth-scrolling="0" data-permanent-transparent="false" data-responsive="1">
+<div id="header-space" data-header-mobile-fixed="1"></div>
+<div id="header-outer" data-has-menu="true" data-mobile-fixed="1" data-ptnm="false" data-lhe="default" data-user-set-bg="#ffffff" data-format="default" data-permanent-transparent="false" data-cart="false" data-transparency-option="0" data-shrink-num="40" data-full-width="true" data-using-secondary="0" data-using-logo="1" data-logo-height="60" data-m-logo-height="80" data-padding="20" data-header-resize="1">
+<div id="search-outer" class="nectar">
+<div id="search">
+<div class="container">
+<div id="search-box">
+<div class="col span_12">
+<form action="https://www.biddytarot.com" method="GET">
+<input type="text" name="s" id="s" value="Start Typing..." data-placeholder="Start Typing...">
+</form>
+</div> 
+</div> 
+<div id="close"><a href="#"><span class="icon-salient-x" aria-hidden="true"></span></a></div>
+</div> 
+</div> 
+</div> 
+<header id="top">
+<div class="no-container">
+<div class="row">
+<div class="col span_2">
+<a id="logo" href="https://www.biddytarot.com">
+<img class="stnd default-logo" alt="Biddy Tarot" src="https://www.biddytarot.com/wp-content/uploads/BT-BiddyTarotLogo-@2x.png"><img class="retina-logo " alt="Biddy Tarot" src="https://www.biddytarot.com/wp-content/uploads/BT-BiddyTarotLogo-@2x.png">
+</a>
+</div> 
+<div class="col span_9">
+<div class="slide-out-widget-area-toggle">
+<div> <a href="#sidewidgetarea" class="closed"> <i class="icon-reorder"></i> </a> </div>
+</div>
+<nav>
+<ul class="buttons" data-user-set-ocm="off">
+<li id="search-btn"><div><a href="#searchbox"><span class="icon-salient-search" aria-hidden="true"></span></a></div> </li>
+<li class="slide-out-widget-area-toggle">
+<div> <a href="#sidewidgetarea" class="closed"> <span> <i class="lines-button x2"> <i class="lines"></i> </i> </span> </a> </div>
+</li>
+</ul>
+<ul class="sf-menu">
+<li id="menu-item-20126" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20126"><a href="https://www.biddytarot.com/">Home</a></li>
+<li id="menu-item-20215" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-20215"><a href="https://www.biddytarot.com/learn-tarot/">Learn Tarot<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-21313" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21313"><a href="https://www.biddytarot.com/learn-tarot/">Learn Tarot</a></li>
+<li id="menu-item-20596" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20596"><a href="https://www.biddytarot.com/free-tarot-resources/">Free Downloads</a></li>
+<li id="menu-item-20594" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20594"><a href="https://www.biddytarot.com/tarot-card-meanings/">Tarot Card Meanings<span class="sf-sub-indicator"><i class="icon-angle-right"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-21035" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21035"><a href="/tarot-card-meanings/">Tarot Card Meanings</a></li>
+<li id="menu-item-20595" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20595"><a href="https://www.biddytarot.com/tarot-card-meanings/major-arcana/">Major Arcana Tarot Card Meanings</a></li>
+<li id="menu-item-20593" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20593"><a href="https://www.biddytarot.com/tarot-card-meanings/minor-arcana/">Minor Arcana Tarot Card Meanings</a></li>
+</ul>
+</li>
+<li id="menu-item-20598" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20598"><a href="https://www.biddytarot.com/tarot-guides/">eBooks &amp; Guides</a></li>
+<li id="menu-item-21131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21131"><a href="https://www.biddytarot.com/courses/">Online Tarot Courses</a></li>
+<li id="menu-item-25983" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25983"><a href="https://www.biddytarot.com/certification/">Certification</a></li>
+</ul>
+</li>
+<li id="menu-item-21136" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children sf-with-ul menu-item-21136"><a href="http://community.biddytarot.com/join/">Community<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-21268" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21268"><a href="http://community.biddytarot.com/join">Join the Community</a></li>
+<li id="menu-item-21137" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21137"><a href="http://community.biddytarot.com/">Login</a></li>
+</ul>
+</li>
+<li id="menu-item-20218" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-20218"><a href="https://www.biddytarot.com/tarotreading/">Get a Tarot Reading<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-21133" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21133"><a href="https://www.biddytarot.com/tarotreading/">Professional Readings</a></li>
+<li id="menu-item-21396" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21396"><a href="http://community.biddytarot.com/free-tarot-readings/">Free Tarot Card Reading</a></li>
+<li id="menu-item-23814" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23814"><a href="https://www.biddytarot.com/certified-tarot-readers/">Biddy Tarot Certified Readers</a></li>
+</ul>
+</li>
+<li id="menu-item-20216" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-20216"><a href="https://www.biddytarot.com/soul-powered-business/">Soul-Powered Business<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-30978" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30978"><a href="https://www.biddytarot.com/webinar-gytbo/">Free Training</a></li>
+<li id="menu-item-21135" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21135"><a href="http://www.tarotfoundations.com/courses/grow-your-tarot-business-online/">Grow your Tarot Business Online</a></li>
+<li id="menu-item-21034" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21034"><a href="https://www.biddytarot.com/work-with-me/">1:1 Business Coaching</a></li>
+</ul>
+</li>
+<li id="menu-item-20131" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-20131"><a href="https://www.biddytarot.com/blog/">Blog<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-20604" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20604"><a href="https://www.biddytarot.com/category/podcast/">Podcast</a></li>
+</ul>
+</li>
+<li id="menu-item-20130" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children sf-with-ul menu-item-20130"><a href="https://www.biddytarot.com/about/">About<span class="sf-sub-indicator"><i class="icon-angle-down"></i></span></a>
+<ul class="sub-menu">
+<li id="menu-item-21033" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21033"><a href="https://www.biddytarot.com/about/">Meet Brigit</a></li>
+<li id="menu-item-20597" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20597"><a href="https://www.biddytarot.com/contact-faq/">Contact and FAQ</a></li>
+</ul>
+</li>
+</ul>
+</nav>
+</div> 
+<div class="col span_3 col_last"></div> 
+</div> 
+</div> 
+</header>
+<div class="ns-loading-cover"></div>
+</div> 
+<div id="mobile-menu" data-mobile-fixed="1">
+<div class="container">
+<ul>
+<li><a href="">No menu assigned!</a></li>
+</ul>
+</div>
+</div>
+<div id="ajax-loading-screen" data-disable-fade-on-click="0" data-effect="standard" data-method="standard">
+<span class="loading-icon spin">
+</span>
+</div>
+<div id="ajax-content-wrap">
+<div id="bt-default-header" class="custom-header">
+<div class="custom-header-wrapper">
+<img src="https://www.biddytarot.com/wp-content/uploads/BT-Header-Logo-@2x.png" alt="Biddy logo">
+<h1 class="lower white">The first rule of learning Tarot is that there are no rules!</h1>
+<a class="green-button" href="/learn-tarot/">LEARN MORE</a>
+</div>
+</div>
+<div id="top-optin-bar">
+<div id="text-53" class="widget widget_text bt-sidebars topbar-widget"> <div class="textwidget"><h2 style="font-size: 26px; font-family: montserrat; color: #66c9c3; margin: 0; text-align: center;">ULTIMATE GUIDE in PRINT!</h2>
+<style>#top-optin-bar .widget_text:last-child{width:23%;}</style></div>
+</div><div id="text-54" class="widget widget_text bt-sidebars topbar-widget"> <div class="textwidget"><div style="text-align: center;">Pre-order now and get $148 in free bonuses</div></div>
+</div><div id="text-75" class="widget widget_text bt-sidebars topbar-widget"> <div class="textwidget"><div style="text-align: center;"><a href="/guide-preorder/#freegift">PRE-ORDER NOW</a></div></div>
+</div>
+</div>
+<div class="container-wrap">
+<div class="container main-content">
+<div class="row">
+<div id="fws_58c69915ad0fe" data-midnight="dark" data-bg-mobile-hidden="" class="wpb_row vc_row-fluid vc_row standard_section   " style="padding-top: 0px; padding-bottom: 0px; "><div class="row-bg-wrap"> <div class="row-bg    " style="" data-color_overlay="" data-color_overlay_2="" data-gradient_direction="" data-overlay_strength="0.3" data-enable_gradient="false"></div> </div><div class="col span_12 dark left">
+<div class="vc_col-sm-12 wpb_column column_container vc_column_container col no-extra-padding" data-bg-cover="" data-padding-pos="all" data-has-bg-color="false" data-bg-color="" data-bg-opacity="1" data-hover-bg="" data-hover-bg-opacity="1" data-animation="" data-delay="0">
+<div class="vc_column-inner">
+<div class="wpb_wrapper">
+<div class="wpb_text_column wpb_content_element ">
+<div class="wpb_wrapper">
+<h2 class="purple upper center-text green-brd-btm">Privacy Policy</h2>
+<p>At Biddy Tarot, we are committed to the protection of user, member and community privacy.&nbsp;&nbsp; By using the Biddy Tarot website at <a href="https://www.biddytarot.com/">www.biddytarot.com</a> (<b>Site</b>), you are agreeing to be bound by our Site Terms of Use, including this policy.</p>
+<p>Some of the information below might be a little technical but it’s important that you read and understand what follows because it explains how we will collect, use and store your personal information you provide to us.</p>
+<p>If you hear from us, we will always aim to be respectful, relevant and appropriate. If at any time you don’t feel we’ve lived up to our promise, please let us know straight away by getting in touch with us by:  &nbsp;<b>Mail:</b><b> PO Box 121, Balaclava 3183, Australia.</b> <b>Email:</b><b> team@biddytarot.com.</b> <b>Online: </b><b>https://www.biddytarot.com/contact-faq</b><b>/</b></p>
+<p><b>1. What we collect and how we collect it</b></p>
+<p>The personal information we collect about you depends on the dealings you have with us. “personal information” includes information about an individual who is reasonably identifiable. For example, if you:</p>
+<p><b>(a) register</b><b> on the Site</b>, you may be asked to complete a registration form and provide personal information. You may also be asked to choose a user ID and password in order to take advantage of certain features on the Site or digital messaging services, such as newsletters or contests.&nbsp; Your decision to register is voluntary and you will have the opportunity to decide whether or not to disclose information to us and what communications you would like to receive; however, please note that many products and services available on the Site require registration and if you elect not to provide such information, you will not be able to take advantage of those products and services;</p>
+<p><b>(b) provide details to join special mailing lists or databases</b> if you’d like to receive information about, for example, certain products, we may collect your name, contact details, date of birth and information about your shopping or product preferences;</p>
+<p><b>(c) make a purchase online or using an electronic device such as an iPad when you set up an online account</b>, we will collect your name, contact details, order details, credit card details, address and we may also ask you to provide your date of birth and gender;</p>
+<p><b>(d) provide information via social media pages </b>such as providing your name or contact details via the Biddy Tarot Facebook pages, or our Twitter or Instagram accounts or other social media sites or Apps;</p>
+<p><b>(e) atte</b><b>nd a </b><b>Biddy Tarot</b><b> function or event</b>, we will collect your name, contact details and any dietary or accessibility requirements;</p>
+<p><b>(f) enter</b><b> a co</b><b>ntest,</b> in online or printed format, we may collect your name and contact details along with your merchandise, service preferences, and answers.&nbsp; Participation is voluntary, and you will have the opportunity to decide whether or not to disclose information to the Site.&nbsp; Your personally identifiable information may be used to contact you for winner notification, prize delivery confirmation or other related purposes (see the rules of each contest for details about how your personal information will be used, including postings to the Site);</p>
+<p><b>(g) participate</b><b> in surveys</b><b>,</b> you may have to register and we may request personally identifiable information from you in conjunction with the survey. Participation is voluntary, and you will have the opportunity to decide whether or not to disclose information to the Site;</p>
+<p><b>(h) send</b><b> us an enquiry or provide us with feedback</b> through our online form or via email, we will collect your name, contact details, details of your enquiry or feedback and information about our response.</p>
+<p><b>(i) engage with or purchase products from third parties who deal with </b><b>us</b>, such as our Affiliates, or through third parties; and</p>
+<p><b>(j) c</b><b>arry</b><b> out assessment and analysis</b> (for example market, customer and product analysis) to enable us to review, develop and improve the products or services which we offer.</p>
+<p>We may also collect information that cannot be used to directly identify you, such as browser type, Dynamic Internet Protocol (IP) address, “click stream” data, and similar non-personally identifiable information.&nbsp; For example, we may aggregate non-personal information about you and other customers who visit certain areas of our Site.&nbsp; Aggregated information will not contain any information that can be linked directly back to you.</p>
+<p>You agree that you do not object to us using your personal information for any of the purposes outlined in this policy and you confirm that you do not and will not consider any of these purposes as a breach of any of your rights under applicable privacy laws.</p>
+<p><b><b>2. C</b><b>ookies</b>&nbsp;</b></p>
+<p>Information is automatically collected through your use of the Site, Affiliates’ websites and Apps, through cookies. Cookies are tiny text files that websites or apps may place on your computer or device.</p>
+<p><b>What cookies do we use?</b></p>
+<p>When you visit our Site, the following types of cookies may be downloaded to your device:</p>
+<p><b>Analytical and Performance Cookies</b></p>
+<p>We may use analytics service providers for website traffic analysis and reporting. Analytics service providers generate statistical and other information about the use of the Site by using cookies. They allow us to recognise and count the number of visitors and to see how often visitors return to the Site, how long they stay and how they move around the Site when they are using it. This helps us to improve the way our Site works, for example, by ensuring that users are finding what they are looking for easily. The information generated relating to the Site may be used to create reports about the use of the Site and the analytics service provider will also store this information.</p>
+<p><b>Advertising and Targeting Cookies</b></p>
+<p>These cookies record your visit to the Site, the pages you have visited and the links you have followed to other Sites. We will use this information to try and make the Site more relevant to your interests.</p>
+<p>We work with technology partners to support the Site and to provide you with relevant information about the products and services on affiliated sites or sites within the advertising networks we work with. We may use cookies on our Site to help us to place relevant Biddy Tarot advertising on others’ sites when you visit such sites. We do this because we value your visit to our Site and hope that you will be interested in other Biddy Tarot offerings when you visit other sites. If you are not happy with this, please see the section of this policy titled “How do I turn cookies off below”.</p>
+<p><b>Functionality Cookies</b></p>
+<p>We may use functional cookies that allow us to remember choices you have made in relation to the Site so as to provide a more personalised experience and enhanced user experience by delivering content specific to your interests.</p>
+<p><b>Strictly Necessary Cookies</b></p>
+<p>These are cookies that are required for the administration and operation of our Site. Some cookies that we use are necessary for our Site to function properly and to enable you to move around the Site and use its features.</p>
+<p><b>Third Party Cookies</b></p>
+<p>We know you love to share the great content we have on the Site so we try to make it as easy as possible to do so. We add buttons to allow people to easily share on networks like Facebook and Twitter. We also use Facebook to power the commenting functionality on the Site.</p>
+<p>Please note that when we include such social ‘plugins’, it gives those social networking site the flexibility to use cookies. They can’t read any cookies we set from the Site, and we can’t read any cookies they set, but it lets them do the same kind of traffic measuring that we do on the rest of the Site, and it also lets them know whether you’re logged in. For example, if you’re logged in to Facebook, read one of our blog posts and want to make a comment, you can do that straight away without having to log in to the Site again – we never know whether you’re logged in or not, as you communicate directly with Facebook, through their plugins on our site.</p>
+<p>We don’t control the setting of these third-party cookies, so we suggest you check the third-party websites for more information about their cookies and how to manage them.</p>
+<p>Other sites and services (including, for example, advertising networks, providers of external services like web traffic analysis services and content recommendation engines) may also use cookies, over which we have no control. These cookies are likely to be analytical/performance cookies or targeting cookies.</p>
+<p>Our internet service providers may also use other standard web-based technologies to analyze your movements while accessing our Site. The technologies include analytic solutions, web “beacons,” “pixel tags,” and “clear gifs.” These technologies help us ascertain the effectiveness of our product and service campaigns and marketing programs, allow us to customize the services offered on or through our Site, and help determine the best use for Site content, and product and service offerings. Some of this information, including the IP address, may be stored on our internet service provider’s server logs, and may be available for extended periods of time.</p>
+<p><b>How do I turn cookies off?</b></p>
+<p>If you do not wish us to install cookies or you don’t agree with how we use cookies in any way, you can change the settings on your internet browser to delete or do not accept cookies. Please be aware that if you delete or do not accept our cookies, some areas of our Site that you access may take more time to work, or may not function properly. For more information about cookies please visit: http://www.allaboutcookies.org.</p>
+<p><b>3. Why we collect personal information</b></p>
+<p><i>Main purposes</i></p>
+<p>The main purposes for which we collect, hold, use and disclose personal information are:</p>
+<p>(a) processing transactions online;</p>
+<p>(b) promoting us and our products and services, including through direct marketing, events and competitions, public relations and social media;</p>
+<p>(c) performing research and statistical analysis, including for customer satisfaction and product and service improvement purposes. This may include matching information we collect against other information held by third parties. (We may also use and disclose de-identified data for these purposes);</p>
+<p>(d) helping us tailor existing or develop new products, services or offers, and to help us selectively target promotional offers and opportunities;</p>
+<p>(e) developing or seeking to deliver new ranges of products or services;</p>
+<p>(f) protecting the security of our customers, suppliers and merchandise (including theft and fraud prevention);</p>
+<p>(g) answering queries, resolving complaints and responding to social media; and</p>
+<p>(h) general planning and administration.</p>
+<p>We may also collect, hold, use and disclose personal information for other purposes explained at the time of collection or which are required or authorised by or under law, and for which you have provided consent.</p>
+<p><i>Direct marketing and opting out</i><i>&nbsp;</i></p>
+<p>By providing your address, email address and telephone numbers to us you consent to us contacting you for the purposes set out above. We may send this information in a variety of ways, including by mail, email, social media, SMS, MMS, telephone.</p>
+<p>If at any point you no longer wish us to hold your personal information or you do not wish to receive information from us then there are a number of ways you can unsubscribe:</p>
+<p>(a) contacting us by email at team@biddytarot.com, through our online form or by writing to PO Box 121, Balaclava 3183, Australia;</p>
+<p>(b) advising us if you receive a marketing call that you no longer wish to receive these calls; or</p>
+<p>(c) using the unsubscribe link that we include in our electronic messages (eg email, SMS or MMS) to opt out of receiving those messages. Each “unsubscribe” link only relates to that specific type of communication (e.g. marketing communications or survey communications). This means that unsubscribing from marketing communications will not automatically unsubscribe you from our survey communications (or vice versa). Please also note that you may continue to receive communications which are already en route to you for a short period of time while your relevant unsubscribe request is being processed.</p>
+<p><b>4. Who we may share your personal information with&nbsp;</b></p>
+<p>We may share your personal information with third parties where appropriate for the purposes set out above, including:</p>
+<p>(a) financial institutions for payment processing; and</p>
+<p>(b) our contracted service providers or partners, including: information technology service providers; venues and event organisers; marketing and communications agencies; research and statistical analysis providers; external business advisers (such as recruitment advisors, auditors and lawyers); and regulatory, investigative or government bodies to comply with laws.</p>
+<p>We may ask one of these third parties to contact you directly for a specific purpose, and provide us with information collected from you in the course of providing the relevant products or services.</p>
+<p><b>5. Data quality and security</b></p>
+<p><i>General</i><i>&nbsp;</i></p>
+<p>We hold personal information in a number of ways, including in printed documents, electronic databases and email contact lists. Printed documents may be held at our office, or archived in boxes and stored in secure offsite facilities. We take reasonable steps to:</p>
+<p>(a) ensure that the personal information that we collect, use and disclose is accurate, up to date and complete and (in the case of use and disclosure) relevant;</p>
+<p>(b) protect the personal information that we hold from misuse, interference and loss and from unauthorised access, modification or disclosure; and</p>
+<p>(c) destroy or permanently de-identify personal information that is no longer needed for purposes permitted by applicable privacy laws.</p>
+<p>You can help us keep your information up to date, by letting us know about changes to your details.</p>
+<p><i>Security</i><i>&nbsp;</i></p>
+<p>The steps we take to secure personal information include website protection measures, security restrictions on access to our computer systems, controlled access to our corporate premises, policies on document storage and security, personnel security and training and workplace policies. While we endeavour to protect the personal information of users of our Site, we cannot guarantee the security of information you disclose online: you disclose that information at your own risk. If you are concerned about sending your information over the internet, you can contact us as set out in section 10. You can also help protect your personal information by keeping your account details confidential. If you become aware of any security breach, please let us know as soon as possible.</p>
+<p>The Site may make chat rooms, forums, commenting and message boards available to you and other users. You are not required to provide any personal information when using these areas but you may choose to do so. If you post personal information online, it will be publicly available and you may receive unsolicited messages from other parties.</p>
+<p>By using the commenting features of the Site or community forum, you acknowledge that your user name and location information will be disclosed. We cannot ensure the security of any information you choose to make public in a chat room, forum, or message board. Also, we cannot ensure that parties who have access to such publicly available information will respect your privacy. Please exercise caution when deciding to disclose personal information in these areas. To request removal of your personal information from our blog or community forum, contact us at team@biddytarot.com. In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.</p>
+<p><i>Third party sites</i><i>&nbsp;</i></p>
+<p>Links to third party sites that are not operated or controlled by us are provided for your convenience only and should be used with your discretion and prudent judgment. Some of these third-party marketing channels may be “co-branded” with our logo; even so, these third-party channels are not operated, controlled or maintained by us. We are not responsible for the privacy or security practices of those sites, which are not covered by this policy. Third party websites should have their own privacy and security policies, which we encourage you to read before supplying any personal information to them.&nbsp; Links from our Site to third-party sites do not constitute sponsorship, endorsement, or approval of the content, policies or practices of such third-party sites.</p>
+<p><b>6. Access and correction</b></p>
+<p><i>General</i></p>
+<p>Please contact us if you would like to access or correct the personal information that we hold about you. We may ask you to verify your identity before processing any access or correction requests, to make sure that the personal information we hold is properly protected.</p>
+<p><i>Access</i><i>&nbsp;</i></p>
+<p>We will generally provide you with access to your personal information within 30 days, subject to some exceptions permitted by law. We will also generally provide access in the manner that you have requested (eg by providing photocopies or allowing a file to be viewed), provided it is reasonable and practical for us to do so. We may however charge a fee to cover our reasonable costs of locating the information and providing it to you.</p>
+<p><i>Correction</i><i>&nbsp;</i></p>
+<p>If you ask us to correct personal information that we hold about you, or if we are satisfied that the personal information we hold is inaccurate, out of date, incomplete, irrelevant or misleading, we will take reasonable steps to correct that information to ensure that, having regard to the purpose for which it is held, the information is accurate, up-to-date, complete, relevant and not misleading. If we correct personal information about you, and we have previously disclosed that information to another agency or organisation, you may ask us to notify that other entity. If so, we will take reasonable steps to do so, unless this would be impractical or unlawful.</p>
+<p><b><b>7. Cross Border Disclosure </b><b>Access and Consent to Transfer</b>&nbsp;</b></p>
+<p>We may disclose personal information to overseas recipients, who are located in places such as Japan, Singapore, India, Hong Kong, the Philippines, the United States of America and other countries or jurisdictions depending on the nature of the services those recipients provide to us (for example storing data via a cloud service, or where our customer relationship management system is hosted on servers located overseas, or where delivery address information for online orders is managed via a third party located overseas).</p>
+<p>By providing us with your personal information, you consent to our use of it in accordance with this policy, including the transfer of your information across international boundaries to jurisdictions anywhere in the world as permitted by local law.<b>&nbsp;</b></p>
+<p><b><i>For United </i></b><b><i>States Users</i></b>:</p>
+<p>The United States may not have data privacy laws that are deemed to afford an equal level of protection for your Personal Information as those laws legislated at the direction of the European Union, Australia or geopolitical, national or regional legislative bodies. However, please be assured that we will continue to adhere to the principles stated in this policy and will make reasonable efforts to comply with applicable international, national, regional, territorial, and provincial laws in connection with any information collected through the Site. We will always endeavor to preserve the integrity, confidentiality, and security of personal information and afford such personal information reasonable level of protection.</p>
+<p><b>Your California Privacy Rights</b><b>:</b>&nbsp; Other than as is stated by this policy, we will not share any personal information about you with outside third-parties for their direct marketing purposes to the extent prohibited by California law, unless you agree otherwise as authorized by your prior written consent.</p>
+<p>California residents have the right to request information from us regarding the manner in which we may share personal information with affiliated companies and third parties for their direct marketing purposes.&nbsp; To find out what and how we share such information, you may send us an e-mail request at <a href="mailto:team@biddytarot.com">team@biddytarot.com</a> or mail a request to PO Box 121, Balaclava 3183, Australia.&nbsp; You will receive the following information:</p>
+<ol>
+<li>Information regarding the categories of information we disclosed to third parties for their direct marketing purposes during the preceding calendar year, if any;</li>
+<li>The names and addresses of the third parties who received information for their direct marketing purposes; and</li>
+<li>Examples of the products and services subject to the third-parties’ direct marketing programs, if the nature of the third parties’ business cannot be determined from their names.</li>
+</ol>
+<p><strong>8. Data Retention Periods</strong></p>
+<p>We will retain your personally identifiable information for as long as your account is active or as needed to provide you with our products and services. If you wish to cancel your account or request that we no longer use your information to provide you with our products and services, please contact us at team@biddytarot.com. However, we will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.</p>
+<p><b><b>9. General Audience Website Not Directed Toward Children</b>&nbsp;</b></p>
+<p>Protecting the online privacy of children is especially important to us. The Site is a general audience site. Our content is neither directed toward minors nor children who are under the age of 13. We do not knowingly collect personal information from children under the age of 13. If you are under 18 years old, please do not provide us with your name, contact details or any other information about yourself.</p>
+<p>If we or our internet service providers become aware that a minor or a child under the age of 13 has provided us with personal information without the parental consent, that information will be deleted from our databases. Parents who have questions about personal information that may have been submitted by a child under the age of 13 should email us at: team@biddytarot.com.</p>
+<p><b>10. Complaints or Questions&nbsp;</b></p>
+<p>We hope everything is explained here clearly but if you would like further information about how we manage your personal information, or if you have any queries relating to this policy, or wish to lodge a complaint in relation to an alleged breach of applicable privacy laws, please contact us by:   <b>Mail:</b> PO Box 121, Balaclava 3183, Australia <b>Email:</b> team@biddytarot.com <b>Online:</b> <b>https://www.biddytarot.com/contact-faq/</b>.&nbsp; All complaints received by us will be dealt with fairly and in a timely manner considering all the circumstances of the complaint. In most cases, we expect that complaints will be investigated and a response provided within 30 days of receipt of the complaint. If the matter is more complex and our investigation may take longer, we will contact you and tell you when we expect to provide our response.</p>
+<p><b>11. Changes to this Policy&nbsp;</b></p>
+<p>We may amend this policy from time to time. Please check back frequently to see any updates or changes.&nbsp; If we make a material change to the way in which we collect, use, and/or share your personal information, we will post a notice on the Site and/or send an email to users who have provided an email address. Please note that you should always update your personal information to provide us with a current email address.</p>
+<p>The current version will be posted on the Site and a copy may be obtained by contacting us at <b>team@biddytarot.com</b>.</p>
+<p>This policy is available on our Site at <a href="https://www.biddytarot.com/">www.biddytarot.com</a>, or you can request a copy by contacting team@biddytarot.com.</p>
+</div>
+</div>
+</div>
+</div>
+</div>
+</div></div>
+</div> 
+</div> 
+</div>
+<div id="footer-outer" data-midnight="light" data-using-widget-area="true">
+<div id="footer-widgets">
+<div class="container">
+<div class="row col center">
+<div class="col span_2">
+ 
+<div id="nav_menu-3" class="widget widget_nav_menu"><h4>GET STARTED</h4><div class="menu-get-started-container"><ul id="menu-get-started" class="menu"><li id="menu-item-20251" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20251"><a href="https://www.biddytarot.com/tarot-card-meanings/">Tarot Card Meanings</a></li>
+<li id="menu-item-29646" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29646"><a href="https://www.biddytarot.com/free-tarot-resources/">Free Tarot Resources</a></li>
+<li id="menu-item-20253" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20253"><a href="https://www.biddytarot.com/blog/">Blog</a></li>
+</ul></div></div> </div> 
+<div class="col span_2">
+ 
+<div id="nav_menu-4" class="widget widget_nav_menu"><h4>LEARN WITH US</h4><div class="menu-learn-tarot-container"><ul id="menu-learn-tarot" class="menu"><li id="menu-item-20257" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20257"><a href="https://www.biddytarot.com/tarot-guides/">Tarot Guides &amp; eBooks</a></li>
+<li id="menu-item-29644" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29644"><a href="https://www.biddytarot.com/courses/">Online Tarot Courses</a></li>
+<li id="menu-item-29649" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29649"><a href="https://www.biddytarot.com/courses/certification-program/">Tarot Certification</a></li>
+<li id="menu-item-29645" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-29645"><a href="http://community.biddytarot.com/join/">Biddy Tarot Community</a></li>
+</ul></div></div>
+</div> 
+<div class="col span_2">
+ 
+<div id="nav_menu-5" class="widget widget_nav_menu"><h4>GET IN TOUCH</h4><div class="menu-get-in-touch-container"><ul id="menu-get-in-touch" class="menu"><li id="menu-item-20247" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20247"><a href="https://www.biddytarot.com/contact-faq/">Contact and FAQ</a></li>
+</ul></div></div>
+</div> 
+<div class="col span_2">
+ 
+<div id="text-59" class="widget widget_text"><h4>FOLLOW US</h4> <div class="textwidget"><div id="follow-us">
+<a class="follow-icon follow-fb" href="http://www.facebook.com/biddytarot" target="_blank"></a>
+<a class="follow-icon follow-pin" href="http://www.pinterest.com/biddytarot" target="_blank"></a>
+<a class="follow-icon follow-twit" href="http://www.twitter.com/biddytarot" target="_blank"></a>
+<a class="follow-icon follow-inst" href="http://www.instagram.com/biddytarot" target="_blank"></a>
+<a class="follow-icon follow-yt" href="http://www.youtube.com/user/biddytarot" target="_blank"></a>
+</div></div>
+</div><div id="search-3" class="widget widget_search"><form role="search" method="get" class="search-form" action="https://www.biddytarot.com/">
+<input type="text" class="search-field" placeholder="Search..." value="" name="s" title="Search for:">
+<input type="submit" class="search-submit" value="Search">
+</form></div>
+</div> 
+<div class="col span_4 footer-logo center"><img src="/admin/wp-content/uploads/BT-Header-Logo-@2x.png" alt=""></div>
+</div> 
+</div> 
+</div> 
+<div class="row" id="copyright">
+<div class="container">
+<div class="col span_12 center">
+<p><a href="https://www.biddytarot.com/plain-terms/">Terms</a>.&nbsp; <a href="https://www.biddytarot.com/privacy-policy/"> Privacy</a>.&nbsp; © 2017 Biddy Tarot. All Rights Reserved. All prices in USD. Tarot card images in banner courtesy of the The Wild Unknown. </p>
+<p style="text-align:center;">Webdesign and Development by <a href="http://www.gifdesignstudios.com/" target="_blank">GiF Design Studios</a></p>
+</div> 
+<div class="col span_7 col_last">
+<ul id="social">
+</ul>
+</div> 
+</div> 
+</div> 
+</div> 
+<div id="slide-out-widget-area-bg" class="slide-out-from-right dark"></div>
+<div id="slide-out-widget-area" class="slide-out-from-right" data-back-txt="Back">
+<div class="inner">
+<a class="slide_out_area_close" href="#"><span class="icon-salient-x icon-default-style"></span></a>
+<div class="off-canvas-menu-container mobile-only">
+<ul class="menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-20126"><a href="https://www.biddytarot.com/">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20215"><a href="https://www.biddytarot.com/learn-tarot/">Learn Tarot</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21313"><a href="https://www.biddytarot.com/learn-tarot/">Learn Tarot</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20596"><a href="https://www.biddytarot.com/free-tarot-resources/">Free Downloads</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20594"><a href="https://www.biddytarot.com/tarot-card-meanings/">Tarot Card Meanings</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21035"><a href="/tarot-card-meanings/">Tarot Card Meanings</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20595"><a href="https://www.biddytarot.com/tarot-card-meanings/major-arcana/">Major Arcana Tarot Card Meanings</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20593"><a href="https://www.biddytarot.com/tarot-card-meanings/minor-arcana/">Minor Arcana Tarot Card Meanings</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20598"><a href="https://www.biddytarot.com/tarot-guides/">eBooks &amp; Guides</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21131"><a href="https://www.biddytarot.com/courses/">Online Tarot Courses</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-25983"><a href="https://www.biddytarot.com/certification/">Certification</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children menu-item-21136"><a href="http://community.biddytarot.com/join/">Community</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21268"><a href="http://community.biddytarot.com/join">Join the Community</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21137"><a href="http://community.biddytarot.com/">Login</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20218"><a href="https://www.biddytarot.com/tarotreading/">Get a Tarot Reading</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21133"><a href="https://www.biddytarot.com/tarotreading/">Professional Readings</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21396"><a href="http://community.biddytarot.com/free-tarot-readings/">Free Tarot Card Reading</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-23814"><a href="https://www.biddytarot.com/certified-tarot-readers/">Biddy Tarot Certified Readers</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20216"><a href="https://www.biddytarot.com/soul-powered-business/">Soul-Powered Business</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-30978"><a href="https://www.biddytarot.com/webinar-gytbo/">Free Training</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-21135"><a href="http://www.tarotfoundations.com/courses/grow-your-tarot-business-online/">Grow your Tarot Business Online</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21034"><a href="https://www.biddytarot.com/work-with-me/">1:1 Business Coaching</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20131"><a href="https://www.biddytarot.com/blog/">Blog</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-20604"><a href="https://www.biddytarot.com/category/podcast/">Podcast</a></li>
+</ul>
+</li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-20130"><a href="https://www.biddytarot.com/about/">About</a>
+<ul class="sub-menu">
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-21033"><a href="https://www.biddytarot.com/about/">Meet Brigit</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-20597"><a href="https://www.biddytarot.com/contact-faq/">Contact and FAQ</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</div>
+</div>  
+<a id="to-top" class="mobile-enabled"><i class="icon-angle-up"></i></a>
+<style type="text/css">powerpress_links,p.powerpress_links,.powerpress_links_mp3{display:none;}</style>
+<script>
+	  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	  })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+	  ga('create', 'UA-12507634-1', 'auto');
+	  ga('send', 'pageview');
+
+	</script>
+<script src="https://optassets.ontraport.com/tracking.js" type="text/javascript" async="true" onload="_mri=&quot;23279&quot;,_mr_domain=&quot;biddytarot.ontraport.com&quot;,mrtracking();"></script>
+<script src="https://knowyourmetrics.funneldash.com/fdsqiq2i.js" type="text/javascript" async="true"></script>
+ 
+<script>
+	!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+	n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+	n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+	t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+
+	fbq('init', '342033679332480');
+	fbq('track', "PageView");
+		</script>
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=342033679332480&ev=PageView&noscript=1"/></noscript>
+ 
+<script type="text/javascript" src="https://www.biddytarot.com/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-includes/js/jquery/ui/widget.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-includes/js/jquery/ui/position.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-includes/js/jquery/ui/menu.min.js?ver=1.11.4"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-includes/js/wp-a11y.min.js?ver=4.7.3"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var uiAutocompleteL10n = {"noResults":"No results found.","oneResult":"1 result found. Use up and down arrow keys to navigate.","manyResults":"%d results found. Use up and down arrow keys to navigate.","itemSelected":"Item selected."};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-includes/js/jquery/ui/autocomplete.min.js?ver=1.11.4"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var MyAcSearch = {"url":"https:\/\/www.biddytarot.com\/wp-admin\/admin-ajax.php"};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/themes/salient/nectar/assets/functions/ajax-search/wpss-search-suggest.js"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/themes/salient/js/prettyPhoto.js?ver=7.0.1"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/themes/salient/js/superfish.js?ver=1.4.8"></script>
+<script type="text/javascript">
+/* <![CDATA[ */
+var nectarLove = {"ajaxurl":"https:\/\/www.biddytarot.com\/wp-admin\/admin-ajax.php","postID":"23846","rooturl":"https:\/\/www.biddytarot.com","pluginPages":[],"disqusComments":"false","loveNonce":"c453d4574f","mapApiKey":""};
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/themes/salient/js/init.js?ver=7.6"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-includes/js/wp-embed.min.js?ver=4.7.3"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/js_composer_salient/assets/js/dist/js_composer_front.min.js?ver=4.12.1"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/easy-fancybox/fancybox/jquery.fancybox-1.3.8.min.js?ver=1.5.8.2"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/easy-fancybox/js/jquery.easing.min.js?ver=1.3.2"></script>
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/plugins/easy-fancybox/js/jquery.mousewheel.min.js?ver=3.1.12"></script>
+<script type="text/javascript">
+jQuery(document).on('ready post-load', function(){ jQuery('.nofancybox,a.pin-it-button,a[href*="pinterest.com/pin/create/button"]').addClass('nolightbox'); });
+jQuery(document).on('ready post-load',easy_fancybox_handler);
+jQuery(document).on('ready',easy_fancybox_auto);</script>
+ 
+<script src="https://www.biddytarot.com/wp-content/themes/bt_16/js/ClassyCountdown/js/jquery.classycountdown.min.js"></script>
+<script src="https://www.biddytarot.com/wp-content/themes/bt_16/js/ClassyCountdown/js/jquery.knob.js"></script>
+<script src="https://www.biddytarot.com/wp-content/themes/bt_16/js/ClassyCountdown/js/jquery.throttle.js"></script>
+<link rel="stylesheet" type="text/css" href="https://www.biddytarot.com/wp-content/themes/bt_16/js/ClassyCountdown/css/jquery.classycountdown.min.css">
+ 
+<link rel="stylesheet" type="text/css" href="https://www.biddytarot.com/wp-content/themes/bt_16/js/Slick-slider/slick.css">
+<link rel="stylesheet" type="text/css" href="https://www.biddytarot.com/wp-content/themes/bt_16/js/Slick-slider/slick-theme.css">
+<script type="text/javascript" src="https://www.biddytarot.com/wp-content/themes/bt_16/js/Slick-slider/slick.min.js"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"f635e0d6dd","applicationID":"41538963","transactionName":"NgBTbRQEWRVZB0ddWA9KcFoSDFgIFxRSU1I=","queueTime":0,"applicationTime":397,"atts":"GkdQG1weShs=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
