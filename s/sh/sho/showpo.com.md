@@ -1,125 +1,263 @@
-> *The following text is extracted and transformed from the showpo.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410103839id_/http%3A//www.showpo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the showpo.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313053705id_/https%3A//www.showpo.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | SHOWPO Fashion Online Shopping
+# Privacy Policy SHOWPO Fashion Online
 
-**Privacy Policy**
+We are committed to protecting your privacy. We provide this Privacy Policy under the _Privacy Act 1988_ (Cth) to provide you details about our practices in relation to the collection, use, disclosure and handling of personal information.
 
-We recognise and value the protection of your personal information and have implemented the following Privacy Policy to inform you on how we will collect, store and use your personal information.
+## 1\. Privacy Policy
 
-Our Privacy Policy fully complies with the obligations as stipulated in the Privacy Act 1988 (Cth), which represents the industry’s best practice.
+### 1.1 This Privacy Policy is governed by the Australian Privacy Principles under the _Privacy Act 1988_ (Cth).
 
-**Personal Information Collected**
+### 1.2 Our Privacy Policy does not create any rights or obligations for either you or us in addition to those imposed by the _Privacy Act 1988_ (Cth).
 
-SHOWPO does not sell, share or trade customers personal information collected online with third parties.
+## 2\. Collection of Personal and Sensitive Information
 
-Personal information collected online will only be disclosed within our company for internal use only.
+### 2.1 We collect personal and sensitive information when you:
 
-**Collection of Personal Information**
+#### (a) register for membership and/or log into our Website;
 
-When you create a SHOWPO account the personal information we collect may include your:
+#### (b) interact with us through the phone, in person, via email or our Website and you provide us your details;
 
-  * \- Name
-  * \- Delivery Address
-  * \- Billing Address
-  * \- Email Address
-  * \- Telephone Number
-  * \- Mobile Number
-  * \- Date of Birth
-  * \- Gender
+#### (c) purchase or subscribe to our products or services;
 
+#### (d) subscribe to our mailing list;
 
+#### (e) enter our competitions or promotions; or
 
-  
-The personal information we collect from you will be used in some or all of the following ways:
+#### (f) apply for positions at our Business or you are our contractor.
 
-  * \- To deliver the products you have purchased from SHOWPO
-  * \- To update you on the delivery of the product and for customer support purposes
-  * \- To provide you with relevant product information
+### 2.2 We collect personal and sensitive information to:
 
+#### (a) improve our products and services;
 
+#### (b) provide our product or service to you;
 
-  
-However, under no circumstances will we request or collect any information from you that may disclose your:
+#### (c) communicate with you;
 
-  * \- Political, religious or philosophical beliefs or affiliations
-  * \- Health and sexuality
-  * \- Racial or ethnic origin
-  * \- Criminal convictions
+#### (d) offer you promotional product or market our product that you are interested in;
 
+#### (e) keep a record of your order for possible refund or exchange;
 
+#### (f) keep our customer database;
 
-When you register as a user on our website, we will also use your personal information to send you marketing and/or promotional materials from time to time. You can unsubscribe from marketing information at anytime by using the unsubscribe function within the electronic marketing material. We may also conduct surveys or market research and may seek other information from you on a periodic basis. These surveys will provide us with information that allows improvement in the types and quality of services offered to you, and the manner in which those services are offered to you.  
- 
+#### (g) to investigate any complaints that you make;
 
-**Updating Your Personal Information**
+#### (h) to investigate whether you are in breach of our terms and conditions;
 
-You can update your personal information anytime by accessing your account on SHOWPO website.
+#### (i) verify your identity;
 
-**Security of Your Personal Information**
+#### (j) to notify you of vacant positions if you applied for jobs at our Business;
 
-SHOWPO ensures that all information collected will be safely and securely stored.
+#### (k) comply with the law or to use your information as permitted under the law; and
 
-We protect your personal information by:
+#### (l) use your information for purposes that are related to the above.
 
-  * \- Restricting access to personal information
-  * \- Maintaining technology products to prevent unauthorised computer access
-  * \- Securely destroying your personal information when it's no longer needed for our record retention purposes
+### 2.3 We collect and hold following types of personal and sensitive information:
 
+#### (a) your contact details that may include your name, date of birth, business name, billing address, postal address, email address, fax number and phone number;
 
+#### (b) optional personal information that you consent to provide, including your interests in a particular area, gender or age; and
 
-  
-SHOWPO uses 128 - bit SSL (secure sockets layer) encryption technology when processing your financial details. 128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard.
+#### (c) optional surveys that provide personal information including whether you like our Business or Website and what you like or do not like.
 
-**Mailing List Subscription**
+### 2.4 We will only collect your personal and sensitive information using fair and lawful means.
 
-Subscribers to our mailing list will receive our newsletters. The frequency may vary from time to time. Subscribers can expect up to three weekly emails once they have opted into the mailing list. On rare occasions, we may exceed three emails, but this will be rare and we are very conscious not to spam our subscribers. From time to time, there may also be communication from Showpo to its subscribers via text messages. If you want to opt out of receiing emails from us. please click the unsubscribe link included in every mesage. 
+### 2.5 We do not store credit card details as we use payment gateways and/or third party processor.
 
-**Disclosure of Personal Information**
+### 2.6 If we receive unsolicited personal and sensitive information, we may destroy it or ensure that it is de-identified if it is lawful and reasonable to do so.
 
-We will not share your information with any other organisations other than related companies and those third parties directly related to the delivery of the products you have purchased from SHOWPO website.
+## 3\. Cookies
 
-In exceptional circumstances SHOWPO may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes.
+### 3.1 We may, from time to time, use ‘cookies’ which are small data file placed on your machine or device to store information.
 
-SHOWPO is committed to complying with the Privacy Act and the Australian Privacy principles.
+### 3.2 We use cookies in many ways including:
 
-**About Breaches of Privacy**
+#### (a) authentication cookies that monitor whether you are logged in or not;
 
-If you believe that your privacy has been breached by SHOWPO please contact us at info@showpo.com 
+#### (b) session cookies that allow you to remain logged in and keep track of your activities until the browser shuts down;
 
-**Collection of Computer Data**
+#### (c) persistent cookies that help us monitor our services by recording your browser activities and they do not expire upon browser shut down; and
 
-When you visit SHOWPO, our company servers will automatically record information that your browser sends whenever you visit a website (cookies). Cookies ease your use of the site, and provide us with information about your use of the site – for example, the pages that you view and remembering your email address so it's faster for you to sign in.
+#### (d) flash cookies to personalise your experience.
 
-The data that is collected may include: 
+### 3.3 We use cookies for many reasons including but not limited to:
 
-  * \- Your computer's IP address
-  * \- Browser type
-  * \- Webpage you were visiting before you came to our site
-  * \- The pages within SHOWPO you visit
-  * \- The time spent on those pages, items and information searched for on our site, access times and dates, and other statistics. 
+#### (a) improve the performance by reporting any errors that occur;
 
+#### (b) provide statistics about how the Website is used;
 
+#### (c) remember settings that you used on our Website;
 
-  
-This information is collected for analysis and evaluation in order to help us improve our site and the services and products we provide. This data will not be used in association with any other personal information.
+#### (d) identify that you are logged into the Website;
 
-Our site may contain links to and from the websites of third parties (eg. Facebook). If you follow a link to any of these websites, please note that they may have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+#### (e) link to social networks like Facebook and Twitter; and
 
-**SHOWPO uses the following cookies:**
+#### (f) provide ads that are tailored to you.
 
-  * Google Analytics: This cookie allows us to see information on user website activities including, but not limited to page views, source and time spent on website. The information is displayed as numbers, meaning it cannot be tracked back to individuals. Google Analytics enables us to know what content is frequently visited on our site, so we know what to give you more of!
-  * Google AdWords: Google AdWords allows us to see which pages out there on the net helped lead you to find us! 
-  * DoubleClick: We use remarketing codes to log when users view specific pages, allowing us to provide targeted advertising in the future.You can manage/ opt out here: [http://www.google.com/privacy_ads.htm](http://www.google.com/privacy_ads.htm)l
-  * Website Optimiser: Our website optimiser uses cookies to test whether a particular view of the website is more preferred than another. Eg - We may set up two versions of our home page, each with different links to see what content you prefer. 
+### 3.4 Please note that although cookies do not generally store personal and sensitive information, they may contain your IP address. However you are effectively anonymous to us because the data are collected in aggregate.
 
+### 3.5 You may disable and delete cookies in your browser if you do not want us to use cookies but doing so may detract from your enjoyment of our Website.
 
+## 4\. Security
 
-Please see this guide from Google for details on how to turn off/ manage your cookies: [https://support.google.com/accounts/answer/61416?hl=en](https://support.google.com/accounts/answer/61416?hl=en)
+### 4.1 All credit card transactions are implemented under industry standard encryption.
 
-**Changes to the Privacy Policy**
+### 4.2 For credit card transactions we use a third party processor (e.g. PayPal) and/or payment gateway (e.g. Fat Zebra, Afterpay) that we may change from time to time so that:
 
-SHOWPO reserves the right to modify and change the Privacy Statement at any time. Any changes to this policy will be published on our site.
+#### (a) payments are processed in real time; and
 
-**Complaints about breaches of Privacy**
+#### (b) we do not have access to your credit card numbers.
 
-If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at info@showpo.com
+### 4.3 We use database management system to store most of the personal information and it contains security features, such as encryption, firewall and anti-virus, to ensure the protection and integrity of our data.
+
+## 5\. Anonymity and Pseudonymity
+
+### 5.1 You may interact anonymously or by using a pseudonym, for example when you:
+
+#### (a) call us;
+
+#### (b) use our online forums that does not require membership; or
+
+#### (c) email us,
+
+### and you may refuse to give your details.
+
+### 5.2 You must provide your personal information when you:
+
+#### (a) purchase goods that require delivery;
+
+#### (b) register for membership and/or log into our Website;
+
+#### (c) sign up for mailing list;
+
+#### (d) lodge a complaint; and
+
+#### (e) are required to provide personal information under the law.
+
+## 6\. Disclosure of Personal Information
+
+### 6.1 We only disclose your personal and sensitive information for purposes that are reasonably related to our Business.
+
+### 6.2 We will not disclose your personal and sensitive information to third parties for payment, profit or advantage.
+
+### 6.3 We may disclose your personal and sensitive information to third parties, from time to time, to assist us in conducting our Business, including:
+
+#### (a) technology service providers including internet service providers or cloud service providers;
+
+#### (b) couriers such as Australia Post and/or international postal service entities;
+
+#### (c) data processors that analyse our website traffic or usage for us;
+
+#### (d) agents that perform functions on our behalf, such as mailouts, debt collection, marketing or advertising;
+
+#### (e) our related bodies corporate; and
+
+#### (f) to persons, entities or courts as required under the law.
+
+### 6.4 We may disclose your personal and sensitive information to third parties:
+
+#### (a) to provide the service you wish to use;
+
+#### (b) to improve our Business, services, products and Website;
+
+#### (c) to customise and promote our services which may be of interest to you;
+
+#### (d) to comply with or as permitted under the law; or
+
+#### (e) with your consent.
+
+### 6.5 You consent to the disclosure of your personal and sensitive information to entities located overseas and we will use reasonable endeavours to ensure they are subject to similar privacy legislation when handling such information.
+
+## 7\. Direct Marketing to You
+
+### 7.1 We will not send you unsolicited commercial electronic messages in contravention of the _Spam Act 2003_ (Cth).
+
+### 7.2 We may use the non-sensitive information you gave us for the purpose of promoting and marketing our Business to you if we:
+
+#### (a) use the information that you reasonably expected us to use for promoting and marketing our Business to you; and
+
+#### (b) provide you a simple method to opt-out.
+
+### 7.3 We will not contact you to promote or market our Business if you requested us not to.
+
+## 8\. Accessing and Correcting Your Personal Information
+
+## Accessing Your Personal Information
+
+### 8.1 You may request access to your personal information that we hold and we will:
+
+#### (a) verify your identity;
+
+#### (b) charge you to cover the cost of meeting your request, if any, but not for the request itself; and
+
+#### (c) within a reasonable period of time, comply with your request.
+
+### 8.2 We may refuse to allow you to access your personal information if we are not required to do so under the Australian Privacy Principles.
+
+## Correcting Your Information
+
+### 8.3 You may request to correct your personal information that we hold and we will update your personal and sensitive information so that it is up-to-date, accurate, complete, relevant and not misleading.
+
+## How to Contact Us
+
+### 8.4 If you would like to access or correct your personal information, please contact us by:
+
+#### (a) email: [info@showpo.com](mailto:info@showpo.com)
+
+#### (b) writing to:
+
+#### Suite 70, Level 7
+
+#### 104 Bathurst St,
+
+#### Sydney NSW 2000
+
+#### Australia
+
+#### (c) phone: +61 (02) 8279 8111
+
+## 9\. Complaints
+
+### 9.1 If you believe we breached the Australian Privacy Principles under the _Privacy Act 1988_ (Cth) or a registered Australian Privacy Principles Code, you may lodge a complaint as follows:
+
+#### (a) firstly, contact us in writing to the email or postal address in clause 8.4 and include the following in your complaint:
+
+##### (i) your contact details;
+
+##### (ii) section or provision of the Australian Privacy Principles or Code that you believe we breached; and
+
+##### (iii) our practice or policy that you believe breaches the relevant Australian Privacy Principle or Code,
+
+#### (b) and you must allow us a reasonable time, about 30 days, to reply to your complaint; and
+
+#### (c) secondly, you may complain to the Office of the Australian Information Commissioner if:
+
+##### (i) you are not satisfied with our response; or
+
+##### (ii) we do not respond to you within a reasonable time without sufficient explanation.
+
+## 10\. Definitions and Interpretation
+
+### 10.1 Unless contrary intention appears:
+
+#### (a) **Australian Privacy Principles** means the principles under the Schedule 1 of the _Privacy Act 1988_ (Cth).
+
+#### (b) **Business** means Showpo
+
+#### (c) **sensitive information** means sensitive information as defined under _Privacy Act 1988_ (Cth).
+
+#### (d) **personal information** means personal information as defined under _Privacy Act 1988_ (Cth).
+
+#### (e) **You** (whether in capitals or not) means the user of our Website and Your and Yours have corresponding meanings.
+
+#### (f) **We** (whether in capitals or not) means Showpo, Show Pony Group Pty Ltd and our related body corporates and Us and Ours have corresponding meanings.
+
+#### (g) **Website means:**
+
+#### <https://www.showpo.com/>
+
+#### <https://www.showpo.com/us>
+
+#### [https://www.showpo.com/eu/](https://www.showpo.com/eu)
+
+### 10.2 The word ‘include’ is used without any limitation.
