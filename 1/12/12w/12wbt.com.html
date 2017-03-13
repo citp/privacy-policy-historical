@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the 12wbt.com privacy policy that was archived on 2016-08-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160802214102id_/https%3A//www.12wbt.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the 12wbt.com privacy policy that was archived on 2017-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170313072000id_/https%3A//www.12wbt.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
   
-<script src="https://js-agent.newrelic.com/nr-963.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-CMJ5"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js#xfbml=1&amp;appId=216886071814903&amp;version=v2.0"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b7898c665b","applicationID":"3940269","transactionName":"e10NTRANWAoHR0kJWltdDlYWC0IDTUUTB1lRUUxJAwVRFU1GDgpC","queueTime":0,"applicationTime":28,"ttGuid":"","agentToken":null,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAGU19ACwoEVFNUDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=s(n,"nr@wrapped",function(){return c(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&c.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,x.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,x=document.createTextNode(w);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],c])}f(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],c),l}finally{f(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<n.length;s++)c=n[s],a=t[c],r(a)||(t[c]=e(a,f?c+o:o,i,c))}function f(e,n,r){if(!s){s=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}s=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?c(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){s(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",c=t("gos"),s=t(12),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!w++){var t=g.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){s(v,function(e,n){t[e]||(t[e]=n)});var n="https"===m.split(":")[0]||t.sslForHttp;g.proto=n?"https://":"http://",c("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=g.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=window,u=f.document,d="addEventListener",l="attachEvent",p=f.XMLHttpRequest,h=p&&p.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:p,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var m=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-963.min.js"},y=p&&h&&h[d]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:m,features:{},xhrWrappable:y};u[d]?(u[d]("DOMContentLoaded",i,!1),f[d]("load",r,!1)):(u[l]("onreadystatechange",o),f[l]("onload",r)),c("mark",["firstbyte",a()],null,"api");var w=0},{}]},{},["loader",2,7]);</script>
+<script src="https://js-agent.newrelic.com/nr-1016.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-CMJ5"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"b7898c665b","applicationID":"3940269","transactionName":"e10NTRANWAoHR0kJWltdDlYWC0IDTUUTB1lRUUxJAwVRFU1GDgpC","queueTime":0,"applicationTime":24,"ttGuid":"","agentToken":null,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"UAAGU19ACwoEVFNUDg=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1016.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
 
   
 
@@ -30,6 +30,15 @@
   <title>Privacy - 12wbt.com</title>
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  
+
+  
+  
+    
+  
+
+  <meta name="site-settings" data-permalink="weight-loss" data-id="" data-env="production" data-locale="en" data-is-au="true" data-api-host="https://api.12wbt.com" data-frontend="https://go.12wbt.com" data-theme-base="/sites/53927e37f20e991c08000011/theme" data-handle="privacy" data-page-slug="privacy" data-entry-slug="" data-article-category="">
 
   
     <meta name="description" content="Read the full Michelle Bridges privacy policy. Be safe in the knowledge we'll keep your personal details completely safe when you sign up to the 12WBT.">
@@ -60,31 +69,7 @@
   <link rel="apple-touch-icon-precomposed" href="/sites/53927e37f20e991c08000011/theme/images/favicons/apple-touch-icon-72x72-precomposed.png" sizes="72x72">
   <link rel="apple-touch-icon-precomposed" href="/sites/53927e37f20e991c08000011/theme/images/favicons/apple-touch-icon-precomposed.png">
 
-  <script>
-    var PublicPage = PublicPage || {};
-
-    PublicPage.Config = {
-      env:        "production",
-      locale:     "en",
-      is_au:      true,
-      is_us:      false,
-      api_host:   "https://api.12wbt.com",
-      frontend:   "https://go.12wbt.com",
-      theme_base: "/sites/53927e37f20e991c08000011/theme"
-    };
-
-    (function(d, s, id) {
-      var js, fjs = d.getElementsByTagName(s)[0];
-      if (d.getElementById(id)) return;
-      js = d.createElement(s); js.id = id;
-      js.src = "//connect.facebook.net/en_US/sdk.js#xfbml=1&appId=216886071814903&version=v2.0";
-      fjs.parentNode.insertBefore(js, fjs);
-    }(document, 'script', 'facebook-jssdk'));
-  </script>
-
-  
-  <link href="/sites/53927e37f20e991c08000011/theme/stylesheets/application-legacy.81aadf88.css" media="screen" rel="stylesheet" type="text/css">
-  
+  <link href="/sites/53927e37f20e991c08000011/theme/stylesheets/application.02f56051.css" media="screen" rel="stylesheet" type="text/css">
 
   
 
@@ -94,196 +79,101 @@
     <script src="//cdn.optimizely.com/js/11976653.js" type="text/javascript"></script>
   
 
-  <script src="/sites/53927e37f20e991c08000011/theme/javascripts/vendor.23a856b9.js" type="text/javascript"></script>
+  <script src="/sites/53927e37f20e991c08000011/theme/javascripts/vendor.1f4d9e3d.js" type="text/javascript"></script>
 
-  
-
-  
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-    
-  
-
-  
-    <script src="/sites/53927e37f20e991c08000011/theme/javascripts/application-legacy.c587b7be.js" type="text/javascript"></script>
-  
-
-  <script type="text/javascript">
-  $(function () {
-    'use strict';
-
-    PublicPage.LeadConfig = {
-  home: {
-    trigger: 'manual',
-    set_prospect_date: 'true',
-    prospect_interest: 'weight-loss',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'learn-more': {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'running': {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    prospect_interest: 'running',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'post-baby': {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    prospect_interest: 'post-baby',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'christmas': {
-    trigger: 'on-load',
-    set_prospect_date: 'true',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'how-it-works': {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'fitness': {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'nutrition': {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'success-stories': {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'mindset': {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'weight-loss': {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    prospect_interest: 'weight-loss',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  'pregnancy': {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    prospect_interest: 'pregnancy',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  },
-  article: {
-    trigger: 'in-page',
-    set_prospect_date: 'true',
-    prospect_interest: 'weight-loss',
-    additional_list: '1469818',
-    optional_triggered_send_key: '903785'
-  }
-};
-
-
-    var config = PublicPage.LeadConfig["privacy"] || PublicPage.LeadConfig["privacy"] || PublicPage.LeadConfig[""]  ;
-
-    var article_category = '';
-
-    if (article_category) {
-      config = PublicPage.LeadConfig["article"];
-
-      if (config) {
-        config.source_data = '';
-      }
-    }
-
-    if (config) {
-      $('.register-form').leadcapture(config);
-    }
-
-    $('.subscribe-form').each(function() {
-      var form = new registerForm();
-      form.init($(this));
-
-      // Does this function really exist?
-      if (typeof form.setCampaignSourceData == 'function') {
-        form.setCampaignSourceData();
-      }
-    });
-
-  });
-</script>
-
+  <script src="/sites/53927e37f20e991c08000011/theme/javascripts/application.f4391e72.js" type="text/javascript"></script>
 
   <!--[if lt IE 9]>
     <script src="//html5shiv.googlecode.com/svn/trunk/html5.js"></script>
-    <script src="/sites/53927e37f20e991c08000011/theme/javascripts/ie8.2a5aea04.js" type="text/javascript" ></script>
+    <script src="/sites/53927e37f20e991c08000011/theme/javascripts/ie8.js" type="text/javascript" ></script>
   <![endif]-->
-
 
 
 
 </head>
 
-  <body class="public privacy au" itemscope="" itemtype="http://schema.org/WebPage" data-locale="en">
+
+  <body class="public  privacy article-standard  au theme-standard" itemscope="" itemtype="http://schema.org/WebPage" data-locale="en">
 
     <!-- Halo -->
     
-      <div id="halo">
-
+    <div id="halo" class="theme-light">
 
       <nav class="navbar public-nav">
   <div class="container">
+
+    <!-- Nav links -->
+    <div class="collapse navbar-collapse" id="navbar-collapse">
+      
+
+      <ul class="nav navbar-nav" id="navbar-nav">
+        <li class="home visible-md visible-lg">
+          <a href="/"><span class="logo-12wbt-white"></span></a>
+        </li>
+
+        <li>
+          <a href="/how-it-works"><i class="icon-12wbt-question"></i><span>How it Works</span></a>
+        </li>
+
+        <li>
+          <a href="/12wbt-programs"><i class="icon-12wbt-wbt"></i><span>Programs</span></a>
+        </li>
+
+        <li>
+          <a href="/nutrition"><i class="icon-12wbt-food"></i><span>Nutrition</span></a>
+        </li>
+
+        <li>
+          <a href="/fitness"><i class="icon-12wbt-fitness"></i><span>Fitness</span></a>
+        </li>
+
+        <li>
+          <a href="/mindset"><i class="icon-12wbt-mindset"></i><span>Mindset</span></a>
+        </li>
+
+        <li class="dropdown  hidden-sm hidden-xs community">
+          <a href="/community"><span>Community<i class="fa fa-chevron-down"></i></span></a>
+          <ul>
+            <li>
+              <a href="/blog"><span>Blog</span></a>
+            </li>
+            <li>
+              <a href="/success-stories"><span>Success Stories</span></a>
+            </li>
+            <li>
+              <a href="/crews"><span>Crews</span></a>
+            </li>
+            <li class="double-level">
+              <a href="/community/group-membership"><span class="meta">Corporate Groups</span></a>
+            </li>
+          </ul>
+        </li>
+
+        <li class="visible-sm visible-xs  ">
+          <a href="/community"><i class="icon-12wbt-forums"></i><span>Community</span></a>
+        </li>
+
+        <li class="visible-sm visible-xs">
+          <a href="/blog"><i class="icon-12wbt-blog"></i><span>Blog</span></a>
+        </li>
+
+        <li class="visible-sm visible-xs  ">
+          <a href="/success-stories"><i class="icon-12wbt-testimonials"></i><span>Success Stories</span></a>
+        </li>
+
+        <li class="visible-sm visible-xs ">
+          <a href="/crews"><i class="icon-12wbt-members"></i><span>Crews</span></a>
+        </li>
+
+        <li class="help">
+          <a href="/faqs"><i class="icon-12wbt-help"></i><span>FAQs</span></a>
+        </li>
+      </ul>
+    </div>
+    <!-- /Nav links -->
+
     <!-- Login -->
-    <div class="navbar-header navbar-right" id="navbar-header">
+    <div class="navbar-header" id="navbar-header">
 
       <button class="btn-navbar navbar-toggle collapsed" data-toggle="collapse" data-target="#navbar-collapse">
         <span class="sr-only">Toggle navigation</span>
@@ -292,36 +182,41 @@
         <span class="icon-bar"></span>
       </button>
 
-      <div class="btn-home" id="home-button">
-         <a href="/"><i class="icon-12wbt-wbt"></i><span>12WBT</span></a>
+      <div id="home-button" class="btn-home visible-xs visible-sm">
+         <a href="/"><span class="logo-12wbt-white"></span></a>
       </div>
 
       <ul id="login-buttons" class="login-nav">
         <li class="login-button">
-          <a href="https://go.12wbt.com/login" rel="nofollow">Login</a>
+          <a href="https://go.12wbt.com/login" rel="nofollow">
+            <span>Login</span>
+          </a>
         </li>
-        <li id="sign-up-nav">
-          <a href="https://go.12wbt.com/sign-up" class="join-now">Join Now!<i></i></a>
+        <li id="sign-up-nav" class="dropdown">
+          <a href="https://go.12wbt.com/sign-up" class="join-now">Join Now<i></i></a>
           <div class="highlight-box signup-options">
-            <span class="up-arrow"></span>
-
-            <div class="container-fluid">
-              <ul class="row">
-                <li class="col-xs-6">
-                  <strong>1 payment of</strong><br>
-                  <em>$199</em><br><span>BEST VALUE</span><br>
-                  <a href="https://go.12wbt.com/sign-up/single-payment" class="mb-btn">Join Now</a>
+            <div class="highlight-box-container">
+              <div class="row">
+                <div class="col-xs-6">
+                  <p>
+                    <strong>1 payment of</strong>
+                    <em>$199</em>
+                    <span>BEST VALUE</span>
+                    <a href="https://go.12wbt.com/sign-up/single-payment" class="btn btn-md btn-green-gradient">Join Now!</a>
+                  </p>
                   <div class="or">
                     <small>Or</small>
                   </div>
-                </li>
-                <li class="col-xs-6">
-                  <strong>12 payments of</strong><br>
-                  <em>$19.99 a week</em><br>
-                  <span>($239.88 TOTAL)</span><br>
-                  <a href="https://go.12wbt.com/sign-up/recurring-payment" class="mb-btn">Join Now</a>
-                </li>
-              </ul>
+                </div>
+                <div class="col-xs-6">
+                  <p>
+                    <strong>12 payments of</strong>
+                    <em>$19.99 a week</em>
+                    <span>$239.88 TOTAL</span>
+                  </p>
+                  <a href="https://go.12wbt.com/sign-up/recurring-payment" class="btn btn-md btn-green-gradient">Join Now!</a>
+                </div>
+              </div>
             </div>
 
             <p class="instruction">
@@ -344,135 +239,60 @@
     </div>
     <!-- /Login -->
 
-    <!-- Nav links -->
-    <div class="collapse navbar-collapse" id="navbar-collapse">
-      
-
-      <ul class="nav navbar-nav" id="navbar-nav">
-        <li class="home">
-          <a href="/"><i class="icon-12wbt-wbt"></i><span>12WBT</span></a>
-        </li>
-
-        <li>
-          <a href="/how-it-works"><i class="icon-12wbt-question"></i><span>How it Works</span></a>
-        </li>
-
-        <li>
-          <a href="/12wbt-programs"><i class="icon-12wbt-wbt"></i><span>12WBT Programs</span></a>
-        </li>
-
-        <li>
-          <a href="/nutrition"><i class="icon-12wbt-food"></i><span>Nutrition</span></a>
-        </li>
-
-        <li>
-          <a href="/fitness"><i class="icon-12wbt-fitness"></i><span>Fitness</span></a>
-        </li>
-
-        <li>
-          <a href="/mindset"><i class="icon-12wbt-mindset"></i><span>Mindset</span></a>
-        </li>
-
-        <li class="dropdown  hidden-sm hidden-xs community">
-          <a href="/community"><span>Community<i class="icon-white icon-12wbt-dropdown"></i></span></a>
-          <ul>
-            <li>
-              <a href="/blog"><span>Blog</span></a>
-            </li>
-            <li>
-              <a href="/success-stories"><span>Success Stories</span></a>
-            </li>
-            <li>
-              <a href="/crews"><span>Crews</span></a>
-            </li>
-            <li class="double-level">
-              <a href="/community/group-membership"><span class="meta">Corporate Groups</span></a>
-            </li>
-          </ul>
-        </li>
-
-        <li class="visible-sm visible-xs  ">
-          <a href="/community"><i class="icon-12wbt-forums"></i><span>Community</span></a>
-        </li>
-        <li class="visible-sm visible-xs">
-          <a href="/blog"><i class="icon-12wbt-blog"></i><span>Blog</span></a>
-        </li>
-        <li class="visible-sm visible-xs  ">
-          <a href="/success-stories"><i class="icon-12wbt-testimonials"></i><span>Success Stories</span></a>
-        </li>
-        <li class="visible-sm visible-xs ">
-          <a href="/crews"><i class="icon-12wbt-members"></i><span>Crews</span></a>
-        </li>
-
-        <li class="help">
-          <a href="/faqs"><i class="icon-12wbt-help"></i><span>FAQs</span></a>
-        </li>
-        <li class="visible-sm visible-xs">
-          <a href="https://go.12wbt.com/login" rel="nofollow"><i class="icon-12wbt-login"></i>Login</a>
-        </li>
-      </ul>
-    </div>
-    <!-- /Nav links -->
   </div>
 </nav>
 
 
-
       
-      <div id="dynamic-message" class="container">
-      <div id="header-signup-state">
-      </div>
-      </div>
-     
+        
+      
 
-        <!-- Breadcrumbs -->
-        <nav class="breadcrumbs">
-          <div class="container">
-            <div class="row">
-              <div class="list col-sm-12" itemprop="breadcrumb">
-                
-  <a href="/">Home</a>
-  <span class="arrow">&gt;</span>Privacy
-
-              </div>
-            </div>
-          </div>
-        </nav>
-        <!-- /Breadcrumbs -->
-
-
-      </div>
-
+    </div>
     
     <!-- /Halo -->
 
     <!-- Wrapper -->
     <div id="wrapper">
       
-
         <!-- Container -->
         <div id="container">
+
+          <!-- Hero -->
           
+            
+          
+          <!-- /Hero -->
+
           <!-- Main Content -->
           <div id="main-content" class="clearfix">
             <div class="container-fluid container-fluid-no-gutter">
+
               
-                
-<div class="container">
+  <article>
+  <section class="hero  theme-basic">
+    <div class="container">
+      <div class="row">
+         <div class="col-sm-11 col-sm-offset-half">
+          <h1 class="h1">
+            Privacy
+          </h1>
+          
+        </div>
+      </div>
+    </div>
+  </section>
 
-  <div class="row">
-
-    <article class="copy col-sm-8">
-      <h1>Privacy</h1>
-
-      <div class="social-btns">
-  <div class="fb-like" data-send="false" data-layout="button_count" data-width="280" data-height="20" data-show-faces="false"></div>
-</div>
-      <h2>1. MICHELLE BRIDGES 12 WEEK BODY TRANSFORMATION WEBSITE PRIVACY POLICY</h2>
+  <section class="gutter-top-bottom">
+    <div class="container">
+      <div class="row">
+        <div class="col-sm-11 col-sm-offset-half">
+          <div class="body">
+            
+  <h2>1. MICHELLE BRIDGES 12 WEEK BODY TRANSFORMATION WEBSITE PRIVACY POLICY</h2>
 
 <p>
 </p><div id="6c1e0e20-ba23-419e-86bd-23ee5b02f013" style="width:110px; height:35px; float:right;">
-  <script type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/12WBT-Pty-/asc?rid=6c1e0e20-ba23-419e-86bd-23ee5b02f013"></script>
+  <script nonce="" type="text/javascript" src="//privacy-policy.truste.com/privacy-seal/12WBT-Pty-/asc?rid=6c1e0e20-ba23-419e-86bd-23ee5b02f013"></script>
   <a href="//privacy.truste.com/privacy-seal/12WBT-Pty-/validation?rid=e6725e0d-e30a-4f70-a7ca-5442dcacbf16" title="TRUSTe online privacy certification" target="_blank">
     <img style="border: none; width:110px; height:35px;" src="//privacy-policy.truste.com/privacy-seal/12WBT-Pty-/seal?rid=e6725e0d-e30a-4f70-a7ca-5442dcacbf16" alt="TRUSTe online privacy certification">
   </a>
@@ -610,40 +430,61 @@
 <p>Phone number: (02) 9046 3900</p>
 <p>Copyright © [19 January 2010] 12WBT Trading Pty Ltd ABN 31 154 009 622. All rights reserved.</p>
 
-      
-    </article>
-
-
-    <aside class="sub-copy col-sm-4">
-      <div id="sidebar" class="affix-top">
-        <div class="sidebar-inner">
-          <div class="section-nav" id="sidenav">
-
-            <h3>Information</h3>
-            <ul>
-              <li><a href="/terms"><span><strong>Terms </strong></span></a></li>
-              <li class="active"><a href="/privacy"><span><strong>Privacy</strong></span></a></li>
-              <li><a href="/faqs/question"><span><strong>Contact Us</strong></span></a></li>
-            </ul>
 
           </div>
-          <div class="side-join-tout">
-  <h2>Join my team today!</h2>
-  <p class="status">Here's what you get:</p>
-  <ul>
-    <li>Healthy menus and recipes</li>
-    <li>Easy-to-follow exercise plans</li>
-    <li>Weekly mindset lessons</li>
-  </ul>
-  <a href="https://go.12wbt.com/sign-up" class="mb-btn">Join now</a>
-</div>
-
         </div>
       </div>
-    </aside>
+    </div>
+  </section>
+</article>
 
+  <nav class="gutter-top-bottom nav-standard">
+  <div class="container">
+    <div class="row">
+      <div class="col-sm-11 col-sm-offset-half">
+        <h3>
+  Information
+</h3>
+        <ul class="list-nav-col-2">
+          
+    <li><a href="/terms"><span><strong>Terms </strong></span></a></li>
+    <li class="active"><a href="/privacy"><span><strong>Privacy</strong></span></a></li>
+    <li><a href="/faqs/question"><span><strong>Contact Us</strong></span></a></li>
+
+        </ul>
+      </div>
+    </div>
   </div>
+</nav>
+
+
+
+              
+                <section class="call-to-action banner content-section section-reduced-padding">
+  <div class="container">
+    <div class="row v-align-middle-md">
+      <div class="col-sm-7">
+        <p class="tag-line">
+          <span class="icon-exercise icon-x-large"></span> <span class="plus">+</span>
+          <span class="icon-recipe icon-x-large"></span> <span class="plus">+</span>
+          <span class="icon-mindset icon-x-large"></span>
+        </p>
+        <h2 class="text-white">
+          Our members have lost over 1 million kilograms with our <b>exercises</b>, <b>meal plans</b> &amp; <b>mindset lessons</b> *
+        </h2>
+      </div>
+      <div class="col-sm-5">
+        <div class="join-now-box box-white text-center join-tout">
+  <p><em>Save $40</em></p>
+  <p>With our $199 up-front payment</p>
+  <a href="https://go.12wbt.com/sign-up/single-payment" class="btn btn-md section-btn btn-green-gradient">Join Now!</a>
+  <p><small>Weekly payments also available</small></p>
 </div>
+
+      </div>
+    </div>
+  </div>
+</section>
 
               
             </div>
@@ -651,287 +492,130 @@
           <!-- /Main Content -->
 
         </div>
-        <!-- /Container -->
-        
-          <footer id="footer-public" class="">
-  
-  <div id="footer-information" class="section">
-    <div class="container">
-      <div class="row">
-        <div class="faqs col-sm-6">
-          <h3>Questions we get</h3>
-          <ul>
-            
-              <li><a href="/faqs/747170-how-much-exercise-will-i-be-doing-on-12wbt">How much exercise will I be expected to do?</a></li>
-              <li><a href="/faqs/747228-when-does-the-next-round-of-12wbt-start">When does the next 12WBT start?</a></li>
-              <li><a href="/faqs/743994-what-is-12wbt-and-how-does-it-work">How does the 12WBT program work?</a></li>
-              <li><a href="/faqs/744011-how-much-does-12wbt-cost">How much does 12WBT cost?</a></li>
-              <li><a href="/faqs/747178-are-the-12wbt-plans-the-same-as-the-ones-in-michelle-s-books">Is 12WBT the same as Michelle's books?</a></li>
-            
-            </ul>
-           <a href="/faqs" class="btn btn-default col-xs-6 col-xs-offset-3 visible-xs">View Full FAQs</a>
-        </div>
-        <div class="features col-sm-6 hidden-xs">
-          <h3>The 12WBT Blog</h3>
-          <ul>
-            <li>
-              <a href="https://www.12wbt.com/blog/food-and-nutrition/whats-best-breakfast-weight-loss-2/">
-                <span class="img"><img class="lazy" data-original="/sites/53927e37f20e991c08000011/theme/images/homepage/social-panel/blog/blog1.jpg"></span>
-                <span class="info"><i>What's The Best Breakfast for Weight Loss?</i>You've heard it before: brekkie is the most important meal of the day - but what's the best breakfast if weight loss is your goal? Our 12WBT dietitian Chantelle has the scoop.</span>
-              </a>
-            </li>
-            <li>
-              <a href="https://www.12wbt.com/blog/health-and-fitness/running-better-than-sex/">
-                <span class="img"><img class="lazy" data-original="/sites/53927e37f20e991c08000011/theme/images/homepage/social-panel/blog/blog2.jpg"></span>
-                <span class="info"><i>Could Running Be Better Than Sex?</i>We all know that running and sex are both good for your health - both mental and physical. BUT which burns the most calories?</span>
-              </a>
-            </li>
-          </ul>
-          <a href="/blog" class="btn btn-default col-xs-6 col-xs-offset-3 visible-xs">View 12WBT Blog</a>
-        </div>
-      </div>
-      <div class="col-sm-6 hidden-xs">
-        <a href="/faqs" class="btn btn-default col-sm-6 col-sm-offset-3">View Full FAQs</a>
-      </div>
-      <div class="col-sm-6 text-center hidden-xs">
-        <a href="/blog" class="btn btn-default col-sm-6 col-sm-offset-3 ">View 12WBT Blog</a>
-      </div>
-    </div>
-  </div>
-  
-
-  <div id="footer-join">
-    <div class="container">
-
-        <div class="col-sm-12"><h3>
-            <span class="icon-section circle-md bg-white">
-              <span class="icon-12wbt-tick mid-blue"></span>
-            </span>
-            Like any great journey, preparation is key!</h3>
-            <p class="first">Sounds good, right? Take control of your health and join today.</p>
-
-        </div>
-        <div class="row">
-        <div class="benefits col-sm-6">
-          <ul>
-            <li>Daily meal plans full of delicious recipes</li>
-            <li>Body-transforming exercise plans</li>
-            <li>Life-changing mindset lessons</li>
-            <li>Expert advice and support</li>
-          </ul>
-        </div>
-        <div class="signup col-sm-6">
-  <div class="signup-options box-white">
-    <span class="up-arrow"></span>
-    <ul class="row">
-      <li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-1">
-        <strong>1 payment of</strong><br><em>$199</em><br><span>BEST VALUE</span><br>
-        <a href="https://go.12wbt.com/sign-up/single-payment" class="btn btn-primary btn-lg">Join Now</a>
-        <div class="or">
-          <small>Or</small>
-        </div>
-      </li>
-      <li class="col-xs-10 col-xs-offset-1 col-sm-4 col-sm-offset-2">
-        <strong>12 payments of</strong><br><em>$19.99/wk</em><br>
-        <span>$239.88 TOTAL</span><br>
-        <a href="https://go.12wbt.com/sign-up/recurring-payment" class="btn btn-primary btn-lg">Join Now</a>
-      </li>
-    </ul>
-    
-  </div>
-</div>
-      </div>
-
-    </div>
-    
-  </div>
-
-
-  <div id="footer-links">
-  <div id="quick-link" class="container section">
-    <div class="row">
-      <div class="col-sm-3">
-        <h4>Get To Know Us</h4>
-        <ul class="clearfix">
-          <li><a href="/blog">12WBT Blog</a></li>
-          <li><a href="/careers/our-team">Support Crew</a></li>
-          <li><a href="/community/group-membership">Corporate Groups</a></li>
-          <li><a href="/careers">Careers</a></li>
-          <li><a href="/sitemap-human">Sitemap</a></li>
-          <li><a href="/faqs/question">Contact Us</a></li>
-        </ul>
-      </div>
-
-      <div class="col-sm-3">
-        <h4>Weight Loss Topics</h4>
-        <ul class="clearfix">
-          <li><a href="/get-healthy">Get Healthy</a></li>
-          <li><a href="/weight-loss">Losing Weight</a></li>
-          
-          <li><a href="/pregnancy-weight-loss">Pregnancy Weight Loss</a></li>
-          <li><a href="/post-pregnancy-weight-loss">Post Pregnancy Weight Loss</a></li>
-          
-        </ul>
-      </div>
-
-      <div class="col-sm-3">
-        <h4>Our Programs</h4>
-        <ul class="clearfix">
-          <li><a href="/12wbt-programs/beginner-weight-loss">Beginner Weight Loss</a></li>
-          <li><a href="/12wbt-programs/intermediate-weight-loss">Intermediate Weight Loss</a></li>
-          <li><a href="/12wbt-programs/advanced-weight-loss">Advanced Weight Loss</a></li>
-          <li><a href="/12wbt-programs/lean-and-strong">Lean &amp; Strong</a></li>
-          <li><a href="/12wbt-programs/move-weight-loss">Move</a></li>
-          <li><a href="/12wbt-programs/move-2-weight-loss">Move 2</a></li>
-          <li><a href="/12wbt-programs/fit-for-fifty-weight-loss">Fit for Fifty</a></li>
-          <li><a href="/12wbt-programs/pregnancy">Pregnancy</a></li>
-          <li><a href="/12wbt-programs/post-baby">Post Baby</a></li>
-          <li><a href="/12wbt-programs/learn-to-run">Learn to Run (L2R)</a></li>
-          <li><a href="/12wbt-programs/10k-running">10k Running</a></li>
-          <li><a href="/12wbt-programs/10k-running-advanced">10k Running Advanced</a></li>
-          <li><a href="/12wbt-programs/half-marathon">1/2 Marathon</a></li>
-          <li><a href="/12wbt-programs/half-marathon-advanced">1/2 Marathon Advanced</a></li>
-          <li><a href="/12wbt-programs/marathon">Marathon</a></li>
-        </ul>
-      </div>
-
-      <div class="col-sm-3">
-        <h4>Connect with us</h4>
-        <ul class="social clearfix">
-          <li class="fb">
-            <a href="http://www.facebook.com/12WBT" target="_blank">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-facebook fa-stack-1x" aria-hidden="true"></i>
-                </span>
-              <span class="label label-default">facebook</span>
-            </a>
-          </li>
-          <li class="tw">
-            <a href="http://twitter.com/12wbt" target="_blank">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-twitter fa-stack-1x" aria-hidden="true"></i>
-                </span>
-              <span class="label label-default">twitter</span>
-            </a>
-          </li>
-          <li class="yt">
-            <a href="http://www.youtube.com/12wbt/" target="_blank">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-youtube-play fa-stack-1x" aria-hidden="true"></i>
-                </span>
-              <span class="label label-default">youtube</span>
-            </a>
-          </li>
-          <li class="pin">
-            <a href="http://www.pinterest.com/12wbt/" target="_blank">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-pinterest-p fa-stack-1x" aria-hidden="true"></i>
-                </span>
-              <span class="label label-default">pinterest</span>
-            </a>
-          </li>
-          <li class="inst">
-            <a href="http://www.instagram.com/12wbt/" target="_blank">
-                <span class="fa-stack fa-lg">
-                  <i class="fa fa-circle fa-stack-2x"></i>
-                  <i class="fa fa-instagram fa-stack-1x" aria-hidden="true"></i>
-                </span>
-              <span class="label label-default">instagram</span>
-            </a>
-          </li>
-          <li class="signup">
-            <div class="alert alert-success messages success" style="display:none;">
-              Thanks for submitting your email address. You’ll receive your first email shortly.
-            </div>
-            <div class="alert alert-danger messages error" style="display:none;">
-              An error occurred submitting your email. Please try again.
-            </div>
-            <form class="subscribe-form" method="post" action="#" id="bottom-subscribe-form">
-              <div class="row">
-                <div class="col-sm-12">
-                  <input type="text" class="required email form-control " name="email" id="" placeholder="Email">
-                </div>
-              </div>
-              <div class="row">
-                <div class="col-sm-12">
-                  <button type="submit" class="mb-btn btn btn-primary " id="sign-up-now">Subscribe Now </button>
-                </div>
-              </div>
-              <div class="text">
-                <label for="opt-in-1">
-                  <small>
-                    <input type="checkbox" name="opt-in" id="opt-in-1" checked=""> I agree to receive emails from 12WBT (We NEVER spam!)
-                  </small>
-                </label>
-              </div>
-
-              <input type="hidden" name="category" value="Newsletter">
-              <input type="hidden" name="country_code" value="AU">
-
-              <input type="hidden" name="additional_list" value="1469818">
-              <input type="hidden" name="optional_triggered_send_key" value="903785">
-              <input type="hidden" name="set_prospect_date" value="true">
-              <input type="hidden" name="prospect_interest" value="weight-loss">
-              
-  
-
-
-
-
-
-
-
-  
-  
-    
-      
-    
-  
-
-
-              <input type="hidden" name="lead_form_source" value="12wbt www     privacy-newsletter-footer">
-              <input type="hidden" name="source_data" value="12wbt www     privacy-newsletter-footer" id="source_data">
-              <input type="hidden" name="place_type" value="footer-lead-capture">
-            </form>
-          </li>
-        </ul>
-      </div>
-    </div>
-  </div>
-
-  <div id="copyright" class="section">
-    <div class="container">
-      <div class="section legals-section">
-        <div class="col-md-3">
-          <h3 class="au">
-            <div class="logo">12WBT</div>
-            <span class="tag-line">AU</span>
-          </h3>
-        </div>
-
-        <div class="col-md-7 tag-line">
-          Copyright © 2016 12WBT Pty Ltd. <a href="/terms" rel="nofollow">Terms&nbsp;&amp;&nbsp;Conditions</a> <a href="/privacy" rel="nofollow">Privacy</a><br>*Results may vary. Exercise and proper diet are necessary to achieve and maintain weight loss. Consult your healthcare professional before beginning any diet or fitness regime.<br>
-        </div>
-
-        <div class="col-md-2 truste"></div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
-</footer>
-
-        
-
-
       
     </div>
     <!-- /Wrapper -->
+
+    <!-- Footer  -->
+    
+      <footer id="footer-public" class="">
+      <div id="footer-links">
+  <div id="copyright" class="section">
+    <div class="container">
+      <div class="section legals-section">
+        <div class="col-sm-12 col-md-2">
+          <h3 class="col-xs-3">
+            <div class="logo">12WBT</div>
+          </h3>
+
+          <div class="visible-xs visible-sm col-sm-9">
+            <div class="fa-social-grey">
+  <span class="social-blurb">share. connect. follow</span>
+
+  <span>
+    <a href="http://www.facebook.com/12WBT" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-facebook-official fa-stack-1x" aria-hidden="true"></i>
+        </span>
+    </a>
+
+    <a href="http://www.instagram.com/12wbt/" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-instagram fa-stack-1x" aria-hidden="true"></i>
+        </span>
+    </a>
+
+    <a href="http://www.youtube.com/12wbt/" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-youtube-play fa-stack-1x" aria-hidden="true"></i>
+        </span>
+    </a>
+
+    <a href="http://twitter.com/12wbt" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-twitter fa-stack-1x" aria-hidden="true"></i>
+        </span>
+    </a>
+
+    <a href="http://www.pinterest.com/12wbt/" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-pinterest fa-stack-1x" aria-hidden="true"></i>
+        </span>
+    </a>
+  </span>
+</div>
+          </div>
+        </div>
+
+        <div class="col-sm-12 col-md-7 tag-line">
+          <p>
+            <span class="md-block">
+              Consult your healthcare professional before beginning any diet or
+              fitness regime.
+            </span>
+            Copyright © 2017 12WBT Trading Pty Ltd.
+          </p>
+          <p>
+            <a href="/blog">12WBT Blog</a> |
+            <a href="/careers/our-team">Support Crew</a> |
+            <a href="/careers">Careers</a> |
+            <a href="/faqs/question">Contact Us</a> |
+            <a href="/terms" rel="nofollow">Terms</a> |
+            <a href="/privacy" rel="nofollow">Privacy</a>
+          </p>
+          <p class="disclaimer">
+            * Results may vary. Exercise and proper diet are necessary to
+            achieve and maintain weight loss.
+          </p>
+        </div>
+
+        <div class="col-md-3 truste visible-md visible-lg visible-xl">
+          <div class="fa-social-grey">
+  <span class="social-blurb">share. connect. follow</span>
+
+  <span>
+    <a href="http://www.facebook.com/12WBT" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-facebook-official fa-stack-1x" aria-hidden="true"></i>
+        </span>
+    </a>
+
+    <a href="http://www.instagram.com/12wbt/" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-instagram fa-stack-1x" aria-hidden="true"></i>
+        </span>
+    </a>
+
+    <a href="http://www.youtube.com/12wbt/" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-youtube-play fa-stack-1x" aria-hidden="true"></i>
+        </span>
+    </a>
+
+    <a href="http://twitter.com/12wbt" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-twitter fa-stack-1x" aria-hidden="true"></i>
+        </span>
+    </a>
+
+    <a href="http://www.pinterest.com/12wbt/" target="_blank">
+        <span class="fa-stack fa-lg">
+          <i class="fa fa-pinterest fa-stack-1x" aria-hidden="true"></i>
+        </span>
+    </a>
+  </span>
+</div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+      </footer>
+    
+    <!-- /Footer -->
+
+
     <!-- Modal -->
 <div class="modal fade" id="video-modal" tabindex="-1" role="dialog" aria-labelledby="videoTitle" aria-hidden="true">
   <div class="modal-dialog">
@@ -944,8 +628,6 @@
     </div>
   </div>
 </div>
-
-
 
     
     <div id="fb-root"></div>
@@ -962,14 +644,9 @@
   
 
 
-<script type="text/javascript">
+<script type="text/javascript" nonce="">
   var cookie    = $.cookie('login_member_token'),
-      dataLayer = dataLayer || [],
-      member_id;
-
-  if (cookie !== null) {
-    member_id = $.parseJSON(unescape(cookie)).member_id;
-  }
+      dataLayer = dataLayer || []
 
   dataLayer.push({
     'visitorType': (cookie !== null) ? 'Member' : 'Non Member',
@@ -979,19 +656,26 @@
 </script>
 
 <noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-CMJ5" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
-<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-CMJ5');</script>
-
+<script nonce="">(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer', 'GTM-CMJ5');</script>
 <!-- End Google Tag Manager -->
 
+<!-- Start Facebook SDK -->
+<script type="text/javascript" nonce="">
+  (function(d, s, id) {
+    var js, fjs = d.getElementsByTagName(s)[0];
+    if (d.getElementById(id)) return;
+    js = d.createElement(s); js.id = id;
+    js.src = "//connect.facebook.net/en_US/sdk.js";
+    fjs.parentNode.insertBefore(js, fjs);
+  }(document, 'script', 'facebook-jssdk'));
 
-<script type="text/javascript">
-  // -- Start Facebook
   window.fbAsyncInit = function() {
     FB.init({
       appId      : '216886071814903',              // App ID from the app dashboard
       channelUrl : '//www.12wbt.com/channel.html', // Channel file for x-domain comms
       status     : true,                           // Check Facebook Login status
-      xfbml      : false                           // Look social plugins manually
+      xfbml      : false,                          // Look social plugins manually
+      version    : 'v2.5',
     });
     FB.Canvas.setAutoGrow(91);
   };
@@ -1027,19 +711,19 @@
     } catch(e) {}
   }
   $(window).on('load resize', loadXfbml);
-  // -- End Facebook
 </script>
+<!-- Start Facebook SDK -->
 
 <!-- Brightcove -->
-<script type="text/javascript">
+<script type="text/javascript" nonce="">
   $.getScript('https://sadmin.brightcove.com/js/BrightcoveExperiences.js', function() {
     brightcove.createExperiences();
 
     $(document).trigger('brightcove:ready');
-  }); 
+  });
 </script>
 
-<script type="text/javascript">
+<script type="text/javascript" nonce="">
     function test_domain(email) {
       var isSuccess = false;
       $.ajax({
