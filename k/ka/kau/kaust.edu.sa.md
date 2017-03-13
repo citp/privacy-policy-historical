@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the kaust.edu.sa privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430193221id_/http%3A//www.kaust.edu.sa/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaust.edu.sa privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313140732id_/https%3A//www.kaust.edu.sa/en/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | King Abdullah University of Science and Technology (KAUST)
+# Privacy Policy | King Abdullah University
 
-## KING ABDULLAH UNIVERSITY OF SCIENCE AND TECHNOLOGY PRIVACY POLICY
-
-This Policy was last updated in March, 2009. 
+**This Policy was last updated in March, 2009.**
 
 King Abdullah University of Science and Technology (KAUST) is committed to protecting your privacy in accordance with this Policy. This Privacy Policy applies to personally identifiable information KAUST collects through the KAUST website (the "Website") and does not apply to information KAUST collects in any other manner. Your use of the Website is subject to this Privacy Policy and KAUST's Terms of Use [insert link]. Please read this Privacy Policy carefully to understand how KAUST treats information collected through the Website.
 
@@ -18,15 +16,21 @@ In order to maintain your information in an efficient manner, KAUST retains the 
 
 ## Information Sharing and Disclosure
 
-KAUST does not disclose to third parties your personal information, combined personal and demographic information or information about your use of the Website (such as the areas you visit or the services you access), except as set forth in the following subparagraphs.
+KAUST does not disclose to third parties your personal information, combined personal and demographic information or information about your use of the Website (such as the areas you visit or the services you access), except as set forth in the following subparagraphs.​
 
-  * KAUST may disclose such information to companies and individuals KAUST works with in carrying out its functions, including companies and individuals authorized to perform functions on its behalf. Examples may include hosting its Web servers, analyzing data, providing marketing assistance, assisting with recruitment, collaborating with education and research, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions.
-  * KAUST may disclose such information if legally required to do so, if requested to do so by a governmental entity or if it believes in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of KAUST; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.
-  * KAUST may also share aggregated anonymous information about visitors to the Website with its partners and other third parties so that they may understand the kinds of visitors that visit the KAUST site and how those visitors use the site.
+  * KAUST may disclose such information to companies and individuals KAUST works with in carrying out its functions, including companies and individuals authorized to perform functions on its behalf. Examples may include hosting its Web servers, analyzing data, providing marketing assistance, assisting with recruitment, collaborating with education and research, and providing customer service. These companies and individuals will have access to your personal information as necessary to perform their functions.  
+
+  * KAUST may disclose such information if legally required to do so, if requested to do so by a governmental entity or if it believes in good faith that such action is necessary to: (a) conform to legal requirements or comply with legal process; (b) protect the rights or property of KAUST; (c) prevent a crime or protect national security; or (d) protect the personal safety of users or the public.​  
+
+  * KAUST may also share aggregated anonymous information about visitors to the Website with its partners and other third parties so that they may understand the kinds of visitors that visit the KAUST site and how those visitors use the site.  
+
 
 
 
 In the event that KAUST contracts with a third party to provide some part of the information or service that you have requested, KAUST may provide your information to such third party, or such third party may collect information from you on KAUST's behalf. KAUST uses reliable service providers who undertake to put in place appropriate security measures to ensure a reasonable level of protection. Such third parties will have access to personal information solely for the purposes of performing the services for which they have been engaged.
+
+  
+
 
 ## Updating Your Information
 
@@ -52,4 +56,4 @@ KAUST reserves the right to modify this Privacy Policy from time to time and suc
 
 ## Contact Information
 
-We welcome your comments concerning this Privacy Policy. If at any time, you have questions about KAUST's Privacy Policy, please contact the KAUST Marketing Communication.
+We welcome your comments concerning this Privacy Policy. If at any time, you have questions about KAUST's Privacy Policy, please contact the KAUST Marketing Communication.​
