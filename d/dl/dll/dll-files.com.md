@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526020857id_/http%3A//www.dll-files.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dll-files.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313095650id_/https%3A//www.dll-files.com/privacy) for the most accurate reproduction.*
 
-# Privacy policy - DLL-files.com
+# Privacy Policy Statement - DLL-files.com
 
 This is the web site of **www.dll-files.com**.
 
-To see the different ways to contact us, [see our About Us section](https://web.archive.org/web/20160526020857id_/http%3A//www.dll-files.com/about.php).
+To see the different ways to contact us, [see our About Us section](https://web.archive.org/about).
 
 For each visitor to our Web site, our Web server automatically recognizes and logs such information that your browser sends whenever you make a request form our servers, such as your browser type, Internet Protocol address, browser language, cookie information and date/time of request. We may compile information on what pages consumers access or visit, information volunteered by the consumer, such as survey information and/or site registrations as well as email address and payment information related to a purchase from our web service.
 
