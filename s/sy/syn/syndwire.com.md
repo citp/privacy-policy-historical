@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the syndwire.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417004911id_/https%3A//syndwire.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the syndwire.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313032441id_/https%3A//syndwire.com/privacy) for the most accurate reproduction.*
 
 # SyndWire :: Privacy Page
 
@@ -7,9 +7,9 @@
 **  
 **(Last Revised: January 1, 2015)
 
-Thank you for visiting this website. Web1 Syndication, Inc. (hereinafter “We”) understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site and through your usage of the Syndwire Syndication Tool (hereinafter “the Service”). 
+Thank you for visiting this web site. Web1 Syndication, Inc. (hereinafter "We") understand the importance that Internet users place on privacy, and this Privacy Policy describes how we use personal information that is collected at this web site and through your usage of the Syndwire Syndication Tool (hereinafter "the Service"). 
 
-Please read this Privacy Policy before using this site or submitting any personal information. California residents, please also see the “Note To California Residents” Section for additional rights that apply to you.
+Please read this Privacy Policy before using this site or submitting any personal information. California residents, please also see the "Note To California Residents" Section for additional rights that apply to you.
 
 By using this web site, you accept the privacy practices contained in this Privacy Policy. These privacy practices may change from time to time, but any changes will be posted. You are encouraged to review the Privacy Policy whenever you visit the web site to make sure you understand how any personal information you provide will be used.
 
@@ -26,19 +26,19 @@ By submitting your email address on this web site, you agree to receive email fr
 
 By submitting your email address, you also agree to allow us to use your email address for custom audience targeting on sites like Facebook, where we display custom advertising to specific people who have opted-in to receive communications from us. 
 
-In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local “do not call” regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations. 
+In addition, you agree that by submitting your telephone contact information on this web site and/or registering to receive the product and/or service offered herein, such act constitutes a purchase, an inquiry, and/or an application for the purposes of the Amended Telemarketing Sales Rule (ATSR), 16 CFR ‘310 et seq. and any applicable state and local "do not call" regulations. We retain the right to contact you via telemarketing in accordance with the ATSR and the applicable state regulations. 
 
 **B. Non-Personally Identifiable Information**
 
 We also may collect various types of non-personally identifiable information to help us make your experience more enjoyable, measure site activity to identify future improvements that should be made, and compile aggregate data to help serve site visitors better. 
 
-For example, we may use session and persistent “cookies,” session logs, web beacons, GIF/pixel tags, banner ads, third-party click tracking analytics tools (such as Google Analytics), third party retargeting networks that may display our advertisements to you on other sites that you visit to remind you about us, and third party networks that serve user-requested emails (e.g., for a refer-a-friend email) to collect non-personally identifiable or other aggregated information about site visitors.
+For example, we may use session and persistent "cookies," session logs, web beacons, GIF/pixel tags, banner ads, third-party click tracking analytics tools (such as Google Analytics), third party retargeting networks that may display our advertisements to you on other sites that you visit to remind you about us, and third party networks that serve user-requested emails (e.g., for a refer-a-friend email) to collect non-personally identifiable or other aggregated information about site visitors.
 
 Cookies are text files that are used by your computer’s web browser to store your preferences, and enable us to enhance your user experience with our web site. Third party retargeting networks may also use cookies to display our advertisements to you on other sites. You can opt-out of a third-party vendor's use of cookies by visiting the [Network Advertising Initiative opt-out page](http://www.networkadvertising.org/managing/opt_out.asp).
 
 Emails or newsletters that we send electronically may use techniques such as web beacons or pixel tags to gather email metrics and information to improve the reader’s experience, such as the number of emails that are opened, whether they were forwarded or printed, the type of device from which they were opened, and the location (e.g. city, state, and county) associated with the applicable IP address.
 
-If you visit this site with an open ID (such as Facebook), you may also be sharing and integrating data with third-party social media sites, and we may track aggregate data about the number of visits to this site with an open ID, the number of items “liked” on this site, or items on this site that you choose to share with a third-party social media site.
+If you visit this site with an open ID (such as Facebook), you may also be sharing and integrating data with third-party social media sites, and we may track aggregate data about the number of visits to this site with an open ID, the number of items "liked" on this site, or items on this site that you choose to share with a third-party social media site.
 
 Other parties such as advertising partners and analytics companies may also be collecting information about your online activity across various websites over time. The information collected by those third parties may include identifiers that allow those third parties to tailor the ads that they serve to your computer or other device. 
 
@@ -77,7 +77,7 @@ We strive to provide excellent products, along with equally excellent customer s
 
 If you live in the State of California, under the California Civil Code, you have the right to request that companies who conduct business in California provide you with a list of all third parties to which the company has disclosed Personal Information during the preceding year for direct marketing purposes. 
 
-Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (often referred to as “unsubscribe”) or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, that the company may instead provide you with information on how to exercise your disclosure choice options. 
+Alternatively, the law provides that if a company has a Privacy Policy that gives either an opt-out (often referred to as "unsubscribe") or opt-in choice for use of your Personal Information by third parties (such as advertisers or affiliated companies) for marketing purposes, that the company may instead provide you with information on how to exercise your disclosure choice options. 
 
 This Site qualifies for the alternative option; it has a comprehensive Privacy Policy and provides you with details on how you may either opt-out or opt-in to the use of your Personal Information by third parties for direct marketing purposes. Therefore, we are not required to maintain or disclose a list of the third parties that received your Personal Information for marketing purposes during the preceding year. 
 
