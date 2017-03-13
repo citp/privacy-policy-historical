@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cityventures.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205230343id_/http%3A//www.cityventures.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cityventures.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313024421id_/http%3A//www.cityventures.com/privacy-policy) for the most accurate reproduction.*
 
-# City Ventures
+# Eco-Friendly Homes | City Ventures
 
 Fair Information Practices 
 
