@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mieleusa.com privacy policy that was archived on 2016-08-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160813094143id_/http%3A//www.mieleusa.com/domestic/privacy-policy-3762.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mieleusa.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313025937id_/https%3A//www.mieleusa.com/domestic/privacy-policy-3762.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -128,11 +128,13 @@ You can always contact us in order to:
 
 
 
-To do so, contact the webmaster.
+To do so, contact the webmaster.  
+ 
 
 12\. **Your California  Privacy Rights**
 
-California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [webmastr@mieleusa.com] or write us at: [9 Independence Way Princeton, NJ 08540].
+California Civil Code Section § 1798.83 permits users of our Website that are California residents to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an email to [webmastr@mieleusa.com] or write us at: [9 Independence Way Princeton, NJ 08540].  
+ 
 
 13\. **Questions Or Suggestions  **  
 If you have any questions or suggestions, please contact the webmaster. 
