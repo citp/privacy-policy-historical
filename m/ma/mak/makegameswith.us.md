@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the makegameswith.us privacy policy that was archived on 2016-06-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160601015713id_/https%3A//www.makeschool.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the makegameswith.us privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313190509id_/https%3A//www.makeschool.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Make School
 
