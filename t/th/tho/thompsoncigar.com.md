@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thompsoncigar.com privacy policy that was archived on 2016-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160709181129id_/https%3A//www.thompsoncigar.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26cm_sp%3DFooter-_-Global-_-PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thompsoncigar.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313210359id_/https%3A//www.thompsoncigar.com/custserv/custserv.jsp%3FpageName%3DPrivacy%26cm_sp%3DFooter-_-Global-_-PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy and Security
 
