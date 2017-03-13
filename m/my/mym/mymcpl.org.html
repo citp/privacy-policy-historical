@@ -1,17 +1,17 @@
-<!--The following is the downloaded HTML source of the mymcpl.org privacy policy that was archived on 2016-12-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161225103856id_/http%3A//www.mymcpl.org/about-us/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the mymcpl.org privacy policy that was archived on 2017-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170313113833id_/http%3A//www.mymcpl.org/about-us/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" dir="ltr"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
   <title>Privacy Policy | mymcpl.org - Mid-Continent Public Library</title>
   <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
-  <link type="text/css" rel="stylesheet" media="all" href="/_uploaded_resources/css/css_7f724b79bc3aff7adf2337ff4578741d.css">
-<link type="text/css" rel="stylesheet" media="print" href="/_uploaded_resources/css/css_4beb8b967c4abbcc2794038c9aa75b10.css">
+  <link type="text/css" rel="stylesheet" media="all" href="/_uploaded_resources/css/css_5a58cb17cc00faa2afc301cc0484f16c.css">
+<link type="text/css" rel="stylesheet" media="print" href="/_uploaded_resources/css/css_341fb71d52f35b0b6fd74eb5fc414b58.css">
 <!--[if IE]>
-<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?z" />
+<link type="text/css" rel="stylesheet" media="all" href="/sites/all/themes/zen/zen/ie.css?E" />
 <![endif]-->
   <link href="/sites/all/themes/mcpl/_resources/css/print.css" rel="stylesheet" type="text/css" media="print">  
-  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://script.crazyegg.com/pages/scripts/0047/0599.js?439598" async="" type="text/javascript"></script><script type="text/javascript" src="/_uploaded_resources/js/js_b9dc942f95711c0a4bf1158f177b0704.js"></script>
+  <script type="text/javascript" async="" src="https://ssl.google-analytics.com/ga.js"></script><script src="https://script.crazyegg.com/pages/scripts/0047/0599.js?439594" async="" type="text/javascript"></script><script type="text/javascript" src="/_uploaded_resources/js/js_04258524232f780e4b0e22c035089e95.js"></script>
 <script type="text/javascript">
 <!--//--><![CDATA[//><!--
 jQuery.extend(Drupal.settings, { "basePath": "/", "googleanalytics": { "trackOutbound": 1, "trackMailto": 1, "trackDownload": 1, "trackDownloadExtensions": "7z|aac|arc|arj|asf|asx|avi|bin|csv|doc|exe|flv|gif|gz|gzip|hqx|jar|jpe?g|js|mp(2|3|4|e?g)|mov(ie)?|msi|msp|pdf|phps|png|ppt|qtm?|ra(m|r)?|sea|sit|tar|tgz|torrent|txt|wav|wma|wmv|wpd|xls|xml|z|zip" }, "jcarousel": { "ajaxPath": "/jcarousel/ajax/views" } });
@@ -106,32 +106,53 @@ $('#q').attr('value','');
 					
                                         
 				</ul>
-		                 <div>
-				<form action="/srchndlr.php" method="post" id="global-search">
-					<fieldset>
-						<legend class="accessibility">Enter your search term here</legend>
-				
-						<ul>
-                                                     <li class="check-radio-wrap">
-								<p>
-									<strong>SEARCH:</strong>
-									<label><input onclick="catalogsearch()" value="catalog" name="search-type" type="radio" checked="">                                Catalog</label>
-									<label><input onclick="sitesearch()" value="website" name="search-type" type="radio"> Website</label>
-								</p>
-							</li>							
-                                                         <li>
-								<label for="q" class="accessibility">Search</label>
-								<input type="text" name="q" value="" id="q" placeholder="Find books, movies, music and more..." onclick="clearsearch()">
-                                                        </li>
-                                                         <li><button type="submit" value="go" title="Search">Go</button></li>
+		                 <div class="search-container">
 
-							
-						</ul>
-				
-						
-			
-					</fieldset>
-				</form></div>
+	<ul class="tabs">
+		<li class="tab-link current" data-tab="tab-1">Catalog</li>
+		<li class="tab-link" data-tab="tab-2">Website</li>
+		<li class="tab-link" data-tab="tab-3">Research</li>
+		
+	</ul>
+
+	<div id="tab-1" class="tab-content current">
+    <form action="/srchndlr.php" method="post" id="catalog-search">
+      <input type="text" class="search" name="q" placeholder="Find Books, Movies, Music...">
+      <input type="hidden" name="search-type" value="catalog">
+      <input type="submit" class="search-submit" id="catalog-submit" value="SEARCH">
+    </form>
+	</div>
+	<div id="tab-2" class="tab-content">
+		 <form action="/srchndlr.php" method="post" id="website-search">
+      <input type="text" class="search" name="q" placeholder="Find Databases, Blogs, etc...">
+      <input type="hidden" name="search-type" value="website">
+       <input type="submit" class="search-submit" id="website-submit" value="SEARCH">
+    </form>
+	</div>
+	<div id="tab-3" class="tab-content">
+	<!--<form action="/srchndlr.php" method="post" id="eds-search">
+    <input type="text" class="search" name="q" placeholder="Find journal / news articles and more...">
+    <input type="hidden" name="search-type" value="eds">
+    <input type="submit" class="search-submit" id="EDS-submit" value="SEARCH">
+  </form>-->
+<form id="eds-search" action="http://search.ebscohost.com/login.aspx" method="get" target="_blank">
+	<input name="direct" value="true" type="hidden">
+        <input name="scope" value="site" type="hidden">
+        <input name="site" value="eds-live" type="hidden">
+        <!-- Authentication type -->
+        <input name="authtype" value="ip,guest" type="hidden">
+		<input name="custid" value="077-414" type="hidden">
+        <input name="groupid" value="main" type="hidden">
+        <input name="profile" value="eds" type="hidden">
+		<!-- Search box and Submit button -->
+        <input class="search" name="bquery" value="" type="text" placeholder="Find journal / news articles and more...">
+        <input type="submit" class="search-submit" id="EDS-submit" value="SEARCH">
+        
+</form>
+	</div>
+	
+
+</div><!-- container -->
 		</div><!-- /#utility -->
 
 	        <!-- /div --> <!-- /#header-blocks -->
@@ -164,6 +185,7 @@ $('#q').attr('value','');
 
 <div class="block block-menu block-menu-id-menu-om-catalog first">           
     <div class="content"><ul class="menu"><li class="leaf first"><a href="http://catalog.mymcpl.org" title="">Online Catalog</a></li>
+<li class="leaf"><a href="https://mymcpl.bibliocommons.com/" title="">Preview Our NEW Catalog!</a></li>
 <li class="leaf"><a href="/about-us/interlibrary-loan" title="">WorldCat</a></li>
 <li class="leaf last"><a href="/catalog/get-card" title="" class=" long">Apply for a Library Card Online</a></li>
 </ul></div>
@@ -277,11 +299,11 @@ $("#j_username, #j_password").blur(function() {
     <div class="content"><div class="featured" style="display: block;">
 <h2 style="background: none; margin-top: .5em;">Featured</h2>
 
-<p><a href="/books-movies-music/based-book" title="Based on the Book"><img style="float: right; margin-left: 10px; margin-right: 10px;" src="/_uploaded_resources/based-on-the-books.jpg" alt="Based on the Book" width="177"></a></p>
+<p><a href="/winterreading" title="Winter Reading Challenge"><img style="float: right; margin-left: 10px; margin-right: 10px;" src="/_uploaded_resources/feature-wrc2017.jpg" alt="Winter Reading Challenge" width="177"></a></p>
+<h4>Winter Reading Challenge</h4>
+<p>You are cordially invited to step onto the red carpet and explore the exciting array of stories that have been adapted for the big screen with MCPL's 2017 Winter Reading Challenge.</p>
 
-<p><a href="http://www.mymcpl.org/books-movies-music/based-book" title="Based on the Book">Based on the Book</a> is an extensive collection of books and other written works that have been turned into movies since 1980. Have a favorite movie? Try reading the book!</p>
-
-<p><strong><a href="/books-movies-music/based-book" title="Based on the Book">Browse Based on the Book ▶</a></strong></p>
+<p><strong><a href="/winterreading" title="Winter Reading Challenge">Take the Challenge ▶</a></strong></p>
 </div></div>
   </div><!-- /.block -->
           <div class="om-clearfix"></div>
@@ -323,7 +345,54 @@ $("#j_username, #j_password").blur(function() {
         <div class="om-maximenu-middle-right">
            
 
-<div class="block block-menu block-menu-id-menu-om-onlineinfo--tools first">           
+<div class="block block-block block-block-id-133 first">           
+  <h3 class="title">Start Your Research</h3>  <div class="content">       
+<!--
+==========================================================================================
+			  START: EDS HTML Only Search Box Functionality
+==========================================================================================
+-->
+
+<form id="edsSearchBlock" action="http://search.ebscohost.com/login.aspx" method="get" target="_blank" style="/* text-align:center */">
+	<input name="direct" value="true" type="hidden">
+        <input name="scope" value="site" type="hidden">
+        <input name="site" value="eds-live" type="hidden">
+        <!-- Authentication type -->
+        <input name="authtype" value="ip,guest" type="hidden">
+		<input name="custid" value="077-414" type="hidden">
+        <input name="groupid" value="main" type="hidden">
+        <input name="profile" value="eds" type="hidden">
+		<!-- Search box and Submit button -->
+        <span id="edsSearchWrapperBlock"><input class="edsSearchBox" id="ebscohostsearchtextBlock" name="bquery" value="" type="text" size="" style="font-size: 1.7em;padding-left:5px;margin:5px;display: inline-block;height: 1.8em;border-radius: 3px;width: 69%;" placeholder="I want to research..." autocomplete="off" onkeyup="autocomp()"></span>
+        <input type="submit" value="Find Results" class="ebscohost-search-button bluebutton" style="display: inline-block;">
+        
+</form>
+
+<!--
+==========================================================================================
+			  END: EDS HTML Only Search Box Functionality
+==========================================================================================
+-->    
+
+<script type="text/javascript">
+$("#ebscohostsearchtextBlock").focus(function() {
+	    $(".leaf-online-information .om-maximenu-content").addClass('open');
+	    $(".leaf-online-information").addClass('open');			
+	    $(".leaf-online-information .om-maximenu-content").removeClass('closed');
+	  });
+$("#ebscohostsearchtextBlock").blur(function() {
+	      $(".leaf-online-information .om-maximenu-content").removeClass('open');
+	    $(".leaf-online-information").removeClass('open');			
+	    $(".leaf-online-information .om-maximenu-content").addClass('closed');
+	  });
+
+</script>
+
+</div>
+  </div><!-- /.block -->
+ 
+
+<div class="block block-menu block-menu-id-menu-om-onlineinfo--tools">           
   <h3 class="title"><a href="/online-information" title="Research Tools">Research Tools</a></h3>  <div class="content"><ul class="menu"><li class="leaf first"><a href="/online-information/online-learning" title="">Online Learning</a></li>
 <li class="leaf"><a href="/online-information/research-database" title="">Research Databases</a></li>
 <li class="leaf"><a href="/online-information/web-resources" title="">Web Resources</a></li>
@@ -347,12 +416,11 @@ $("#j_username, #j_password").blur(function() {
     <div class="content"><div class="featured" style="display: block;">
 <h2 style="background: none; margin-top: .5em;">Featured</h2>
 
-<p><a href="/online-information/mobile-apps" title="Mobile Apps"><img style="float: right; margin-left: 10px; margin-right: 10px;" src="/_uploaded_resources/feature-apps.jpg" alt="Mobile Apps" width="200"></a></p>
+<p><a href="/online-information/research-databases/Genealogy" title="Genealogy Research"><img style="float: right; margin-left: 10px; margin-right: 10px;" src="/_uploaded_resources/feature-computer.jpg" alt="Genealogy Research" width="200"></a></p>
 
-<p>Did you know that many of MCPL's online resources have apps available? We have apps for eBooks, streaming music, research databases, eMagazines, and more!</p> 
+<p>Research your family history with MCPL. We have over 20 high-quality research resources for you to explore to help you dig up the past on your family tree.</p> 
 
-<p><strong><a href="/online-information/mobile-apps" title="Mobile Apps">Check out the apps ▶</a></strong></p>
-</div>
+<p><strong><a href="/online-information/research-databases/Genealogy" title="Genealogy Research">Start researching ▶</a></strong></p></div>
 </div>
   </div><!-- /.block -->
           <div class="om-clearfix"></div>
@@ -424,11 +492,11 @@ $("#j_username, #j_password").blur(function() {
     <div class="content"><div class="featured" style="display: block;">
 <h2 style="background: none; margin-top: .5em;">Featured</h2> 
 
-<p><a href="http://www.mymcpl.org/events/winter-holidays" title="Winter Holidays"> <img style="float: right; margin-left: 15px; margin-right: 10px; margin-bottom: 10px;" src="/_uploaded_resources/feature-christmascard.jpg" alt="Winter Holidays"></a></p> 
+<p><a href="/events/spring-sportsman" title="Spring Sportsman"> <img style="float: right; margin-left: 15px; margin-right: 10px; margin-bottom: 10px;" src="/_uploaded_resources/feature-fishing.jpg" alt="fishing image" title="Spring Sportsman" width="200"></a></p> 
 
-<p>Now that we are in the holiday season, take a look at the variety of programs offered at a branch near you! Take the kids to a storytime with Santa, watch <em>A Christmas Carol</em> live, prepare for holiday meals, and much more.</p> 
+<p>Springtime is upon us. Take an opportunity to learn more about some great spring hobbies from an experienced outdoorsman.</p> 
 
-<p style="text-align: left;"><strong><a href="http://www.mymcpl.org/events/winter-holidays" title="Winter Holidays">Come visit the Library ▶</a></strong></p>
+<p style="text-align: left;"><strong><a href="/events/spring-sportsman" title="Spring Sportsman">Find a class near you ▶</a></strong></p>
 </div></div>
   </div><!-- /.block -->
           <div class="om-clearfix"></div>
@@ -492,15 +560,14 @@ $("#j_username, #j_password").blur(function() {
  
 
 <div class="block block-block block-block-id-89 last">           
-    <div class="content"><!--GENEALOGY QUICK LOOK-->
-<div class="featured" style="display: block;">
+    <div class="content"><div class="featured" style="display: block;">
 <h2 style="background: none; margin-top: .5em;">Featured</h2>
 
-<p><a href="http://quicklook.midwestgenealogycenter.org/ target=" _blank"="" title="Genealogy Quick Look"><img style="float: right; margin-left: 10px; margin-right: 10px;" src="/_uploaded_resources/feature-quicklook.png" alt="Genealogy Quick Look" width="200"></a></p>
+<p><a href="/events/story-center-series" title="Story Center"><img style="float: right; margin-left: 10px; margin-right: 10px;" src="/_uploaded_resources/feature-storycenter.jpg" alt="Story Center" width="200"></a></p>
 
-<p>Genealogy Quick Look provides an index to some of the resources available through the Midwest Genealogy Center as well as inactive pension claims from the U.S. Railroad Retirement Board.</p>
+<p>The Story Center regularly hosts events for writers, both beginners and advanced. Whether you're still working on an idea or you're already published, the Story Center can help. </p>
 
-<p><strong><a href="http://quicklook.midwestgenealogycenter.org/" target="_blank" title="Genealogy Quick Look">Explore Genealogy Quick Look ▶</a></strong></p>
+<p><strong><a href="/events/story-center-series" title="Story Center">More about the Story Center ▶</a></strong></p>
 </div></div>
   </div><!-- /.block -->
           <div class="om-clearfix"></div>
@@ -566,11 +633,11 @@ $("#j_username, #j_password").blur(function() {
     <div class="content"><div class="featured" style="display: block;">
 <h2 style="background: none; margin-top: .5em;">Featured</h2>
 
-<p><a href="/mcplkids" title="MCPL Kids" style="font-size: 13px; font-weight: normal;"><img style="float: right;padding-left:10px;padding-right:10px;" src="/_uploaded_resources/feature-mcplkids.png" alt="MCPL Kids" width="200"></a></p>
+<p><a href="/kids/homework-help-kids" title="Homework Help" style="font-size: 13px; font-weight: normal;"><img style="float: right; margin-left: 10px; margin-right: 10px;" src="/_uploaded_resources/feature-homework.jpg" alt="Homework Help" width="200"></a></p>
 
-<p>MCPL has a site just for kids! You will find book lists, online games, resources for homework help, and much more!</p>
+<p>Need some help with your English homework? Maybe a history or science project? Just need some general tutoring help? MCPL's Homework Help area has the resources you need.</p>
 
-<p><strong><a href="/mcplkids" title="MCPL Kids">Explore MCPL Kids ▶</a></strong></p>
+<p><strong><a href="/kids/homework-help-kids" title="Homework Help">Explore Homework Help ?</a></strong></p>
 </div></div>
   </div><!-- /.block -->
           <div class="om-clearfix"></div>
@@ -633,11 +700,11 @@ $("#j_username, #j_password").blur(function() {
     <div class="content"><div class="featured" style="display: block;">
 <h2 style="background: none; margin-top: .5em;">Featured</h2>
 
-<p><a href="/online-information/research-database/98348" title="ComicsPlus"><img style="float: right; margin-left: 10px; margin-right: 10px;" src="/_uploaded_resources/feature-comics.jpg" alt="ComicsPlus" width="200"></a></p>
+<p><a href="/teens/homework-help-teens" title="Homework Help" style="font-size: 13px; font-weight: normal;"><img style="float: right; margin-left: 10px; margin-right: 10px;" src="/_uploaded_resources/feature-teenhomework.jpg" alt="Homework Help" width="200"></a></p>
 
-<p>Are you a fan of comic books and graphic novels? MCPL has a resource where you can read comics and graphic novels online! You can read more than 13,000 comics and graphic novels from 93 publishers.</p>
+<p>Need some help with your English homework? Maybe a history or science project? Just need some general tutoring help? MCPL's Homework Help area has the resources you need.</p>
 
-<p><strong><a href="/online-information/research-database/98348" title="ComicsPlus">Start Reading ▶</a></strong></p>
+<p><strong><a "="" teens="" homework-help-teens"="" title="Homework Help">Explore Homework Help ▶</a></strong></p>
 </div></div>
   </div><!-- /.block -->
           <div class="om-clearfix"></div>
@@ -849,7 +916,7 @@ $("#j_username, #j_password").blur(function() {
      <h3 class="accessibility">Sectional Navigation</h3>
     <div class="menu-block-7 menu-name-menu-about-us parent-mlid-0 menu-level-1">
   <ul class="menu"><li class="collapsed first menu-mlid-5554"><a href="/about-us/about-mcpl" title="About MCPL">About MCPL ▼</a></li>
-<li class="collapsed menu-mlid-9027"><a href="/about-us/proposition-l" title="Proposition L">Proposition L</a></li>
+<li class="collapsed menu-mlid-10070"><a href="/about-us/future" title="">The Library's Future</a></li>
 <li class="leaf menu-mlid-1348"><a href="/about-us/acceptable-use-and-conduct-policies" title="Acceptable Use Policy">Acceptable Use and Conduct</a></li>
 <li class="collapsed menu-mlid-1366"><a href="/about-us/contact-us" title="Contact Us">Contact Us ▼</a></li>
 <li class="leaf menu-mlid-6836"><a href="/about-us/destinations" title="Destinations">Destinations</a></li>
@@ -892,8 +959,8 @@ $("#j_username, #j_password").blur(function() {
       
   <div class="views-field-field-image-one-fid">
                 <span class="field-content"><div class="ad">
-<a href="http://www.mymcpl.org/online-resources/mobile-apps">
-<img class="imagefield imagefield-field_image_one" width="208" height="101" title="Event" alt="Special Event" src="http://www.mymcpl.org/_uploaded_resources/mymcpl_app.jpg?1338484146">
+<a href="http://www.mymcpl.org/about-us/library-stories">
+<img class="imagefield imagefield-field_image_one" width="208" height="101" title="Event" alt="Special Event" src="http://www.mymcpl.org/_uploaded_resources/library_story.jpg?1429534888">
 </a>
 </div>
   </span></div>
@@ -902,8 +969,8 @@ $("#j_username, #j_password").blur(function() {
       
   <div class="views-field-field-image-one-fid">
                 <span class="field-content"><div class="ad">
-<a href="http://www.mymcpl.org/about-us/feedback">
-<img class="imagefield imagefield-field_image_one" width="208" height="101" title="Event" alt="Special Event" src="http://www.mymcpl.org/_uploaded_resources/talktous_promo.jpg?1312561497">
+<a href="http://www.mymcpl.org/online-resources/mature-audiences-only">
+<img class="imagefield imagefield-field_image_one" width="208" height="101" title="Event" alt="Special Event" src="http://www.mymcpl.org/_uploaded_resources/senior_services.jpg?1393854044">
 </a>
 </div>
   </span></div>
@@ -1071,7 +1138,7 @@ $(".oo_feedback_float").hover(
        </script>
 
 <form id="feedback" name="feedback" method="post" action="/about-us/feedback">
-<input type="hidden" name="url" id="url" value="https://web.archive.org/web/20161225103856id_/http%3A//www.mymcpl.org/about-us/privacy-policy">
+<input type="hidden" name="url" id="url" value="https://web.archive.org/web/20170313113833id_/http%3A//www.mymcpl.org/about-us/privacy-policy">
 </form>  </div>
 
   
