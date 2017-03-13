@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the almsaeedstudio.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610011917id_/https%3A//almsaeedstudio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the almsaeedstudio.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313052408id_/https%3A//almsaeedstudio.com/privacy) for the most accurate reproduction.*
 
 # Almsaeed Studio
 
