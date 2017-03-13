@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715064319id_/https%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychcentral.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313234532id_/https%3A//psychcentral.com/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | About Us - Psych Central
 
@@ -9,6 +9,8 @@ You can register for our website if you want to join one of our online communiti
 We do not share any of the personally identifiable information you voluntarily provide to us with any third-party for any reason whatsoever. We would do so only if we were legally obligated to do so, and then we’d notify you if that was the case. (We’ve never had to do so yet.)
 
 Like every website online, we collect anonymous information about your browsing behaviors on our site (but not in a personally-identifiable way). Such information is aggregated for statistical analyses (e.g., what are our most popular pages) and used for research purposes.
+
+We use Google Analytics to analyze the audience of our website and to help improve our content. No personal information is collected from Google Analytics. You can read more about [Google Analytics and its privacy policy](https://support.google.com/analytics/answer/6004245?hl=en).
 
 Advertising helps us pay the bills. Our advertising representatives may have their own privacy policies, so you should read the section below, Third Party Privacy Statement.
 
@@ -96,6 +98,8 @@ The use of third party cookies, web beacons and similar technologies by these ad
 
 Some of our advertising is served via UBM Medica. Such advertising is additionally overseen by the [UBM Medica Privacy Policy](http://imaging.ubmmedica.com/all/UBMMedica%20Network_Privacy_Statement.html).
 
+We use Google Analytics to analyze the audience of our website and to help improve our content. No personal information is collected from Google Analytics. You can read more about [Google Analytics and its privacy policy](https://support.google.com/analytics/answer/6004245?hl=en).
+
 **Enforcement**
 
 Psych Central regularly reviews its compliance with this Policy. Please feel free to direct any questions or concerns regarding this Policy or Psych Central’s treatment of personal information by contacting us through this web site or by writing to us at: Chief Privacy Officer, Psych Central, PO Box 5464, Bradford MA 01835 USA.
@@ -109,7 +113,7 @@ Please note that this Privacy Policy may change from time to time. We will not r
 If you have any additional questions or concerns about this Policy, please feel free to contact us any time through this web site or at: Chief Privacy Officer, Psych Central, PO Box 5464, Bradford MA 01835 USA.
 
 >   
->      **Last reviewed:** By Psych Central Staff on 21 Feb 2016
+>      **Last reviewed:** By Psych Central Staff on 21 Jan 2017
 
   
 
