@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carmudi.com.bd privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209085712id_/https%3A//www.carmudi.com.bd/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carmudi.com.bd privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313041119id_/https%3A//www.carmudi.com.bd/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY Carmudi Bangladesh
 
