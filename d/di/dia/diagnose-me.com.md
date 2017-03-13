@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the diagnose-me.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223152547id_/http%3A//www.diagnose-me.com/privacy_policy.php%3Fn%3Db) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diagnose-me.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313095501id_/http%3A//www.diagnose-me.com/privacy_policy.php%3Fn%3Db) for the most accurate reproduction.*
 
 # Diagnose-Me - Privacy Policy
 
@@ -114,7 +114,7 @@ Diagnose-Me.com accepts changes by email from the person who originally submitte
 
 ### Removing your Personal Information
 
-If you have a complaint or problem, please use our [Contact Us](https://web.archive.org/web/20161223152547id_/http%3A//www.diagnose-me.com/contact.php) page. Our customer service department will forward your complaint to the appropriate internal Diagnose-Me.com department for a response or resolution. We try to answer every email within 24 business hours, but may not always able to do so. If you want to delete/update your PII and PHI that you have provided to us from/on our systems, simply provide written instructions or click on the appropriate action link in one of our emails to you.
+If you have a complaint or problem, please use our [Contact Us](https://web.archive.org/web/20170313095501id_/http%3A//www.diagnose-me.com/contact.php) page. Our customer service department will forward your complaint to the appropriate internal Diagnose-Me.com department for a response or resolution. We try to answer every email within 24 business hours, but may not always able to do so. If you want to delete/update your PII and PHI that you have provided to us from/on our systems, simply provide written instructions or click on the appropriate action link in one of our emails to you.
 
 If you do not receive adequate resolution of a privacy-related problem, you may write to Diagnose-Me.com's Privacy Office at:
 
