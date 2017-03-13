@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trazy.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804072232id_/https%3A//www.trazy.com/main/footer/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trazy.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313080745id_/https%3A//www.trazy.com/main/footer/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - Trazy, Your Travel Shop for Asia
 
