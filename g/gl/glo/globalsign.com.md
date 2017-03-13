@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalsign.com privacy policy that was archived on 2016-07-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160728005207id_/https%3A//www.globalsign.com/en/repository/globalsign-privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalsign.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313192904id_/https%3A//www.globalsign.com/en/repository/globalsign-privacy-policy.pdf) for the most accurate reproduction.*
 
 # GlobalSign Privacy Policy
 
