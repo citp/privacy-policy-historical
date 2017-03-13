@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ondeck.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021113359id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondeck.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313231756id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnDeck
 
   * This Privacy Policy has been updated effective May 19, 2016.
 
-This Privacy Policy applies to [www.ondeck.com](https://www.ondeck.com/) (“Website”), which is owned and operated by On Deck Capital, Inc. (“OnDeck,” “Us,” or We”). The Website facilitates our business loan products and related services (collectively “Services”). This Privacy Policy describes how OnDeck collects and uses the personal information you provide (directly or through third parties), or which is automatically generated, when you interact with our website [www.ondeck.com](https://www.ondeck.com/) (“Website”) and our mobile application (“Mobile App”).
+This Privacy Policy applies to [www.ondeck.com](https://www.ondeck.com/) (“Website”), which is owned and operated by On Deck Capital, Inc. or a subsidiary thereof (collectively, “OnDeck,” “Us,” or We”). The Website facilitates our business loan products and related services (collectively “Services”). This Privacy Policy describes how OnDeck collects and uses the personal information you provide (directly or through third parties), or which is automatically generated, when you interact with our website [www.ondeck.com](https://www.ondeck.com/) (“Website”) and our mobile application (“Mobile App”).
 
 This Privacy Policy also describes the choices available to you regarding our use of your personal information and how you can access and update such information. For purposes of this Privacy Policy, “Personal Information” means information that personally identifies you, including your contact information, IP address, and loan application information. A large portion of the Personal Information we collect, use, share, and store is sensitive in nature, including your social security number and financial account information (“Sensitive Personal Information”). 
 
@@ -112,7 +112,7 @@ We may update this Privacy Policy to reflect changes to our information practice
 
     * If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us by email at [marketing@ondeck.com](mailto:marketing@ondeck.com), or with a letter by postal mail to:
 
-On Deck Capital, Inc.  
+OnDeck  
 ATTN: Marketing  
 1400 Broadway. 25th Floor  
 New York, NY 10018  
