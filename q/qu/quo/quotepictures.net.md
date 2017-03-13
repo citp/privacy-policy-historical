@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quotepictures.net privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806011829id_/http%3A//www.quotepictures.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quotepictures.net privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313125153id_/http%3A//www.quotepictures.net/privacy.html) for the most accurate reproduction.*
 
 # quotepictures.net | Privacy Policy
 
