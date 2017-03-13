@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cisdem.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406083224id_/http%3A//www.cisdem.com/about/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cisdem.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313234820id_/https%3A//www.cisdem.com/about/privacy-policy.html) for the most accurate reproduction.*
 
 # [OFFICIAL] Cisdem Privacy Policy
 
