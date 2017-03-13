@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mtnsp.co.za privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324005028id_/https%3A//www.mtn.co.za/pages/website_legal.aspx%3FtermsID%3D26) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mtnsp.co.za privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313195726id_/https%3A//www.mtn.co.za/pages/website_legal.aspx%3FtermsID%3D26) for the most accurate reproduction.*
 
 # Website legal
 
