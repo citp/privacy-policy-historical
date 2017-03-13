@@ -1,22 +1,18 @@
-> *The following text is extracted and transformed from the ondeckcapital.com privacy policy that was archived on 2016-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160417085817id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ondeckcapital.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313231756id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | OnDeck
 
-  * This Privacy Policy has been updated effective June 11, 2015.
+  * This Privacy Policy has been updated effective May 19, 2016.
 
-This Privacy Policy applies to [www.ondeck.com](https://www.ondeck.com/) (“Website”), which is owned and operated by On Deck Capital, Inc. (“OnDeck,” “Us,” or We”). The Website facilitates our business loan products and related services (collectively “Services”). This Privacy Policy describes how OnDeck collects and uses the personal information you provide (directly or through third parties), or which is automatically generated, when you interact with our website [www.ondeck.com](https://www.ondeck.com/) (“Website”) and our mobile application (“Mobile App”).
+This Privacy Policy applies to [www.ondeck.com](https://www.ondeck.com/) (“Website”), which is owned and operated by On Deck Capital, Inc. or a subsidiary thereof (collectively, “OnDeck,” “Us,” or We”). The Website facilitates our business loan products and related services (collectively “Services”). This Privacy Policy describes how OnDeck collects and uses the personal information you provide (directly or through third parties), or which is automatically generated, when you interact with our website [www.ondeck.com](https://www.ondeck.com/) (“Website”) and our mobile application (“Mobile App”).
 
 This Privacy Policy also describes the choices available to you regarding our use of your personal information and how you can access and update such information. For purposes of this Privacy Policy, “Personal Information” means information that personally identifies you, including your contact information, IP address, and loan application information. A large portion of the Personal Information we collect, use, share, and store is sensitive in nature, including your social security number and financial account information (“Sensitive Personal Information”). 
 
-OnDeck has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our 
+[](http://privacy.truste.com/privacy-seal/validation?rid=f1f02449-d8f8-4203-92ff-bc37bbfaeb96 "TRUSTe Privacy Certification")
 
-[ ](https://privacy.truste.com/privacy-seal/On-Deck-Capital,-Inc-/validation?rid=10ab3a19-d606-41ee-94cb-0398e79407b4 "TRUSTe online privacy certification")
+The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website. 
 
-practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily in this Privacy Policy or otherwise, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>. Please click [here](http://www.truste.com/about-TRUSTe/contact-us) for fax and postal mail information for TRUSTe.
-
-Unfortunately, TRUSTe’s Dispute Resolution process is only available in English. The TRUSTe program covers only information that is collected through this Website, and does not cover information collected through third party sites or services, or information that may be collected through software downloaded from the Website.
+In order to view our relationship with TRUSTe please visit the validation page available by clicking the TRUSTe seal.If you have an unresolved privacy or data use concern that we have not addressed satisfactorily in this Privacy Policy or otherwise, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 * * *
 
@@ -72,7 +68,7 @@ OnDeck and our business partners may contact you to offer you products and servi
 
 * * *
 
-    * Technologies such as cookies, beacons, tags and scripts are used by OnDeck and our partners (for example, our marketing partners), affiliates, or analytics or service providers, including our live chat, marketing trackers, and survey tool service providers. These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
+    * OnDeck and our partners (for example, our marketing partners), affiliates, or analytics or service providers, including our live chat, marketing trackers, and survey tool service providers use cookies or similar technologies. These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
 A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies for user authentication and analytics. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Website, but your ability to use some features or areas of our Website may be limited. If you would like to learn more about cookies or how to configure your browser, please visit [www.allaboutcookies.org](http://www.allaboutcookies.org/). 
 
@@ -80,13 +76,7 @@ A cookie is a small text file that is stored on a user’s computer for record-k
 
 As is true of most websites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you and to improve marketing, analytics, and Website functionality. 
 
-      * _Local Storage Objects (Flash/HTML5)_
-
-Our partners use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our Website or to display advertising based upon your Web browsing activity use Local Storage Objects (LSOs) such as HTML5 or Flash to collect and store information. 
-
-Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
-
-      * _Behavioral Advertising/Re-Targeting_
+      *       * _Behavioral Advertising/Re-Targeting_
 
 We partner with third parties to display advertising on our Website and manage our advertising on other sites. Our third party partners may use technologies such as cookies to gather information about your activities on this Website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://preferences-mgr.truste.com/) (or if located in the European Union click [here](http://www.youronlinechoices.eu/)). Please note this does not opt you out of being served advertisements. You will continue to receive generic advertisements.
 
@@ -122,7 +112,7 @@ We may update this Privacy Policy to reflect changes to our information practice
 
     * If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us by email at [marketing@ondeck.com](mailto:marketing@ondeck.com), or with a letter by postal mail to:
 
-On Deck Capital, Inc.  
+OnDeck  
 ATTN: Marketing  
 1400 Broadway. 25th Floor  
 New York, NY 10018  
