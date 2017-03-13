@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the addtoany.com privacy policy that was archived on 2016-07-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160708080243id_/https%3A//www.addtoany.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the addtoany.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313145713id_/https%3A//www.addtoany.com/privacy) for the most accurate reproduction.*
 
 # AddToAny - Privacy Policy
 
