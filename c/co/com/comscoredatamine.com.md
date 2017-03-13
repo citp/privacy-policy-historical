@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the comscoredatamine.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021204308id_/http%3A//www.comscoredatamine.com/About-comScore/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the comscoredatamine.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313194214id_/http%3A//www.comscoredatamine.com/About-comScore/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy - comScore, Inc
 
@@ -24,9 +24,6 @@ As a representative of your company, you can view and modify your company profil
 
 **Data Security/Integrity**  
 comScore has physical, electronic, and managerial security functions in place to protect personally identifiable information from loss, misuse, alteration or destruction. Only authorized employees have access to the data you provided and that access is limited by need. Our employees who have access to the data you provided have agreed to maintain the confidentiality of such information.
-
-**European Data**  
-For personal information that comScore receives from the European Economic Area, comScore has committed to handling such personal information in accordance with the Safe Harbor Principles and the 15 FAQs. comScore’s Safe Harbor certification can be found at <http://web.ita.doc.gov/safeharbor/shlist.nsf/webPages/safe+harbor+list>. For more information about the Safe Harbor Principles, please visit the U.S. Department of Commerce’s Website at <http://export.gov/safeharbor/>.
 
 **Children**  
 comScore understands the importance of protecting children’s privacy in the online interactive world. This Web site does not intentionally target or solicit to children 13 and younger.
