@@ -1,15 +1,15 @@
-<!--The following is the downloaded HTML source of the ondeckcapital.com privacy policy that was archived on 2016-04-17.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160417085817id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ondeckcapital.com privacy policy that was archived on 2017-03-13.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170313231756id_/https%3A//www.ondeck.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <!-- wordpress head functions -->
-    <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQAWFZQGwYDUVZTBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
-
-    <title>Privacy Policy | OnDeck</title>
-    <meta name="HandheldFriendly" content="True">
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"><script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQQAWFZQGwYDUVZTBQc="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(15),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(16),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),s.xhrWrappable&&t(9),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),c=t(7),s="learResourceTimings",f="addEventListener",u="resourcetimingbufferfull",d="bstResource",l="resource",p="-start",h="-end",m="fn"+p,w="fn"+h,v="bstTimer",y="pushState";t("loader").features.stn=!0,t(6);var g=NREUM.o.EV;o.on(m,function(t,e){var n=t[0];n instanceof g&&(this.bstStart=Date.now())}),o.on(w,function(t,e){var n=t[0];n instanceof g&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on(m,function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),this.bstType])}),c.on(m,function(){this.bstStart=Date.now()}),c.on(w,function(t,e){i(v,[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on(y+p,function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on(y+h,function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),f in window.performance&&(window.performance["c"+s]?window.performance[f](u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["c"+s]()},!1):window.performance[f]("webkit"+u,function(t){i(d,[window.performance.getEntriesByType(l)]),window.performance["webkitC"+s]()},!1)),document[f]("scroll",r,!1),document[f]("keypress",r,!1),document[f]("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(17)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(17)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(17)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(17)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,w,"fn-",c)}function i(t){v.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<v.length;t++)r([],v[t]);v.length&&(v=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(17)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",w=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],v=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(11),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(14),h=t(13),m=window.XMLHttpRequest;a.features.xhr=!0,t(9),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(15),c=t(16),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],14:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],15:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],16:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],17:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(16),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[y[n]];return f&&f.push([g,n,r,i]),i}}function p(t,e){v[t]=h(t).concat(e)}function h(t){return v[t]||[]}function m(t){return d[t]=d[t]||o(n)}function w(t,e){f(t,function(t,n){e=e||"feature",y[n]=e,e in u||(u[e]=[])})}var v={},y={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:w,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(15),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=g.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(v,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(15),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(12);var w=""+location,v={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},y=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),g=e.exports={offset:a(),origin:w,features:{},xhrWrappable:y};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,10,4,3]);</script>
+        <title>Privacy Policy | OnDeck</title>
+        <meta name="HandheldFriendly" content="True">
     <meta name="MobileOptimized" content="320">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" type="text/css" href="https://www.ondeck.com/wp-content/themes/ondeckprod/assets/css/style.18943f5d.css">
+    <link rel="stylesheet" type="text/css" href="https://www.ondeck.com/wp-content/themes/ondeckprod/assets/css/style.b500a599.css">
         <link rel="apple-touch-icon" href="https://www.ondeck.com/wp-content/themes/ondeckprod/library/images/apple-icon-touch.png">
     <link rel="icon" href="/favicon.ico">
     <!--[if IE]>
@@ -18,18 +18,13 @@
     <meta name="norton-safeweb-site-verification" content="ib6hwxer5ptqy13ybu3pjt4dvv5rso4vhj5s-5-u8f8cgimegg44wt18s4wds24o5fa-5bm0gemrisvm5b9ozjiu7spuis3aoh64w6wanre1v0-hj7g6uvyu9npmi-t5">
     <meta name="msapplication-TileColor" content="#f01d4f">
     <meta name="msapplication-TileImage" content="https://www.ondeck.com/wp-content/themes/ondeckprod/library/images/win8-tile-icon.png">
-    <link rel="alternate" hreflang="en-CA" href="//en-ca.ondeck.com/privacy/">
-    <link rel="alternate" hreflang="es-US" href="//es-us.ondeck.com/privacy/">
-    <link rel="alternate" hreflang="en-AU" href="//ondeck.com.au/privacy/">
-    <link rel="alternate" hreflang="en-us" href="//ondeck.com/privacy/">
+    <link rel="alternate" hreflang="en-CA" href="https://en-ca.ondeck.com/privacy/">
+    <link rel="alternate" hreflang="es-US" href="https://es-us.ondeck.com/privacy/">
+    <link rel="alternate" hreflang="en-AU" href="https://www.ondeck.com.au/privacy/">
+    <link rel="alternate" hreflang="en-us" href="https://www.ondeck.com/privacy/">
     <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:400,700">
 
-    <!-- if ie8 only starts here -->
-    <!--[if IE 8]>
-      <script type="text/javascript" src='https://www.ondeck.com/wp-content/themes/ondeckprod/library/js/selectivizr.min.js'></script>
-      <link rel="stylesheet" type="text/css" href="https://www.ondeck.com/wp-content/themes/ondeckprod/assets/css/ie8.df87e6f0.css" />
-    <![endif]-->
-    <!-- ie only end here -->
+
 
     <script src="//cdn.optimizely.com/js/2113002.js"></script><script>
   // Setup URLs
@@ -42,7 +37,26 @@
 </script><script type="text/javascript">
   var hostenviron = 'production';
 </script>
-<script src="https://www.ondeck.com/wp-content/themes/ondeckprod/assets/js/header.a2474e8b.js"></script>
+<script src="https://www.ondeck.com/wp-content/themes/ondeckprod/assets/js/header.bbbaf0aa.js"></script>
+
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function(event) {
+    var phoneElement = document.getElementById('headerNumber');
+
+    if (phoneElement) {
+      var phone = '';
+
+      if (typeof _ibp_phone_number !== 'undefined') {
+        phone = _ibp_phone_number;
+      } else {
+        var corpphone = document.getElementById('corpphone');
+        phone = corpphone.innerText;
+      }
+
+      phoneElement.innerHTML = '<a href="tel: ' + phone + '">' + phone + '</a>';
+    }
+  });
+</script>
 <script>
 
   (function () {
@@ -61,13 +75,16 @@
     var domain = window.location.href.split("/")[2];
     var dnt = navigator.doNotTrack;
 
+    var intlNumberElement;
+
     var date = new Date();
 
     if (dnt !== 'yes') {
-      if (domain && ((domain.indexOf('en-ca.') != -1) || (domain.indexOf('en-ca-1e10e42d2545cde86.') != -1))) {
+      if (domain && ((domain.indexOf('en-ca.') != -1) || (domain.indexOf('ondeck.ca') != -1) || (domain.indexOf('en-ca-1e10e42d2545cde86.') != -1))) {
         date.setTime(date.getTime()+(60*60*24*30*30*35));
         document.cookie="locale=en-CA; expires=" + date.toGMTString() + "; path=/; domain=en-ca-1e10e42d2545cde86.smartling.com;";
         document.cookie="locale=en-CA; expires=" + date.toGMTString() + "; path=/; domain=.ondeck.com;";
+        document.cookie="locale=en-CA; expires=" + date.toGMTString() + "; path=/; domain=.ondeck.ca;";
         document.addEventListener("DOMContentLoaded", function() {
           if(getCookie("landingpage") === "") {
             document.cookie="landingpage=Canada; expires=" + date.toGMTString() + "; path=/";
@@ -76,7 +93,10 @@
             // Do nothing
           }
           else if(getCookie("landingpage") === "Canada") {
-            document.getElementById("intlNumber").innerHTML = "<strong>Call us:</strong> (866) 753-0555";
+            intlNumberElement = document.getElementById("intlNumber");
+            if (intlNumberElement) {
+              intlNumberElement.innerHTML = '<strong>Call us:</strong> <a href="tel: (888) 727-6183">(888) 727-6183</a>';
+            }
           }
         });
 
@@ -94,7 +114,10 @@
             // Do nothing
           }
           else if(getCookie("landingpage") === "Australia") {
-            document.getElementById("intlNumber").innerHTML = "<strong>Call us:</strong> 1800 676 652";
+            intlNumberElement = document.getElementById("intlNumber");
+            if (intlNumberElement) {
+              intlNumberElement.innerHTML = '<strong>Call us:</strong> <a href="tel: 1800 676 652">1800 676 652</a>';
+            }
           }
         });
       }
@@ -153,7 +176,7 @@
           },
           {
             name: 'Do You Qualify?',
-            url: '/business-loans/ca-qualify/',
+            url: '/business-loans/loan-qualifying/',
             endUrl: '/business-loans/loan-qualifying/'
           },
           {
@@ -270,8 +293,8 @@
           },
           {
             name: 'Careers',
-            url: '/company/careers-page/',
-            endUrl: '/company/careers-page/'
+            url: '/company/careers/',
+            endUrl: '/company/careers/'
           },
           {
             name: '',
@@ -290,7 +313,6 @@
     ];
 
     document.addEventListener("DOMContentLoaded", function(event) {
-
       var menuItems,
           menuItems2,
           subMenu,
@@ -307,7 +329,16 @@
 
           document.getElementById('menu-top-navigation-strip').style.display = 'none';
 
-          document.getElementById('menu-item-1734').getElementsByTagName('a')[0].setAttribute('href', (country[0]["mainMenu"])[0]["url"]);
+          // Business Loans link
+          setTopMenuLinkByIdAndIndex('.menu-item-151611', 0);
+          // About Us link
+          setTopMenuLinkByIdAndIndex('.menu-item-1735', 1);
+          // Partner With Us link
+          setTopMenuLinkByIdAndIndex('.menu-item-37', 2);
+
+          function setTopMenuLinkByIdAndIndex(id, index) {
+            document.querySelector(id).getElementsByTagName('a')[0].setAttribute('href', (country[0]["mainMenu"])[index]["url"]);
+          }
 
           function menuSelection(countryNumber, menuNumber, menuName) {
             for(var i = 0, l = menuNumber.length; i < l; i++) {
@@ -338,16 +369,11 @@
         }
       }
 
-      if (mainMenu && ((domain.indexOf('en-ca.') != -1) || (domain.indexOf('en-ca-1e10e42d2545cde86.') != -1))) {
+      if (mainMenu && ((domain.indexOf('en-ca.') != -1) || (domain.indexOf('ondeck.ca') != -1) || (domain.indexOf('en-ca-1e10e42d2545cde86.') != -1))) {
         menuChange(encaSubMenu, afterDomain);
       }
       if (mainMenu && ((domain.indexOf('.com.au') != -1) || (domain.indexOf('en-au-1e10e42d2df4a24c5.') != -1))) {
         menuChange(enauSubMenu, afterDomain);
-      }
-      if((domain.indexOf('.com.au') != -1) || (domain.indexOf('en-au-1e10e42d2df4a24c5.') != -1)) {
-        $(document).ready(function() {
-          $("body *").addClass("auFont");
-        });
       }
 
       // Show the body again (it gets hidden with hide-menu.js)
@@ -362,7 +388,10 @@
   var template_url = "https://www.ondeck.com/wp-content/themes/ondeckprod";
   var dev_template_url = template_url.replace('ondeckprod', 'ondeck');
   // -->
-</script>
+</script>    <!-- BEGIN LivePerson Monitor. -->
+    <script type="text/javascript"> window.lpTag=window.lpTag||{};if(typeof window.lpTag._tagCount==='undefined'){window.lpTag={site:'1643695'||'',section:lpTag.section||'',autoStart:lpTag.autoStart===false?false:true,ovr:lpTag.ovr||{},_v:'1.6.0',_tagCount:1,protocol:'https:',events:{bind:function(app,ev,fn){lpTag.defer(function(){lpTag.events.bind(app,ev,fn);},0);},trigger:function(app,ev,json){lpTag.defer(function(){lpTag.events.trigger(app,ev,json);},1);}},defer:function(fn,fnType){if(fnType==0){this._defB=this._defB||[];this._defB.push(fn);}else if(fnType==1){this._defT=this._defT||[];this._defT.push(fn);}else{this._defL=this._defL||[];this._defL.push(fn);}},load:function(src,chr,id){var t=this;setTimeout(function(){t._load(src,chr,id);},0);},_load:function(src,chr,id){var url=src;if(!src){url=this.protocol+'//'+((this.ovr&&this.ovr.domain)?this.ovr.domain:'lptag.liveperson.net')+'/tag/tag.js?site='+this.site;}var s=document.createElement('script');s.setAttribute('charset',chr?chr:'UTF-8');if(id){s.setAttribute('id',id);}s.setAttribute('src',url);document.getElementsByTagName('head').item(0).appendChild(s);},init:function(){this._timing=this._timing||{};this._timing.start=(new Date()).getTime();var that=this;if(window.attachEvent){window.attachEvent('onload',function(){that._domReady('domReady');});}else{window.addEventListener('DOMContentLoaded',function(){that._domReady('contReady');},false);window.addEventListener('load',function(){that._domReady('domReady');},false);}if(typeof(window._lptStop)=='undefined'){this.load();}},start:function(){this.autoStart=true;},_domReady:function(n){if(!this.isDom){this.isDom=true;this.events.trigger('LPT','DOM_READY',{t:n});}this._timing[n]=(new Date()).getTime();},vars:lpTag.vars||[],dbs:lpTag.dbs||[],ctn:lpTag.ctn||[],sdes:lpTag.sdes||[],ev:lpTag.ev||[]};lpTag.init();}else{window.lpTag._tagCount+=1;} </script>
+    <!-- END LivePerson Monitor. -->
+
     
 <!-- This site is optimized with the Yoast SEO plugin v3.0.3 - https://yoast.com/wordpress/plugins/seo/ -->
 <link rel="canonical" href="https://www.ondeck.com/privacy/">
@@ -370,16 +399,16 @@
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy | OnDeck">
-<meta property="og:description" content="Privacy Policy This Privacy Policy has been updated effective June...">
+<meta property="og:description" content="Privacy Policy This Privacy Policy has been updated effective May...">
 <meta property="og:url" content="https://www.ondeck.com/privacy/">
 <meta property="og:site_name" content="OnDeck">
 <meta property="article:publisher" content="https://www.facebook.com/OnDeckCapital">
-<meta property="og:image" content="https://privacy-policy.truste.com/privacy-seal/On-Deck-Capital,-Inc-/seal?rid=10ab3a19-d606-41ee-94cb-0398e79407b4">
+<meta property="og:image" content="http://privacy-policy.truste.com/privacy-seal/seal?rid=f1f02449-d8f8-4203-92ff-bc37bbfaeb96">
 <meta name="twitter:card" content="summary">
-<meta name="twitter:description" content="Privacy Policy This Privacy Policy has been updated effective June...  ">
+<meta name="twitter:description" content="Privacy Policy This Privacy Policy has been updated effective May...  ">
 <meta name="twitter:title" content="Privacy Policy | OnDeck">
 <meta name="twitter:site" content="@OnDeckCapital">
-<meta name="twitter:image" content="https://privacy-policy.truste.com/privacy-seal/On-Deck-Capital,-Inc-/seal?rid=10ab3a19-d606-41ee-94cb-0398e79407b4">
+<meta name="twitter:image" content="http://privacy-policy.truste.com/privacy-seal/seal?rid=f1f02449-d8f8-4203-92ff-bc37bbfaeb96">
 <meta name="twitter:creator" content="@OnDeckCapital">
 <!-- / Yoast SEO plugin. -->
 
@@ -565,20 +594,20 @@
 
     <!-- end of wordpress head -->
 
-  </head>
+  <script charset="UTF-8" src="https://lptag.liveperson.net/tag/tag.js?site=1643695"></script></head>
 
 
 <body class="page page-id-818 page-template-default" style="display: block;">
 
   <div id="browserWarning"></div>
-
+  <script type="application/ld+json">{"@context": "http://schema.org","@type": "Corporation","name": "OnDeck Capital, Inc","description": "Business Loans and Financing for Small Business","url": "https://www.ondeck.com","logo": "https://www.ondeck.com/images/lt-blue-dk-bluelogo@2x.png","tickerSymbol": "ONDK","address": {"streetAddress": "1400 Broadway st","addressLocality": "New York","addressRegion": "NY","postalCode": "10018","addressCountry": "USA"},"telephone": "8882694246","faxNumber": "","sameAs" : ["https://www.facebook.com/OnDeckCapital","https://twitter.com/OnDeckCapital","https://plus.google.com/+OnDeck","","","https://www.linkedin.com/company/ondeck","https://en.wikipedia.org/wiki/OnDeck_Capital"]}</script>
   <script>
   (function () {
 
     var domain = window.location.href.split("/")[2];
     var afterDomain = window.location.href.split(domain)[1];
 
-    if(((domain.indexOf('en-ca.') != -1) || (domain.indexOf('en-ca-1e10e42d2545cde86.') != -1)) || ((domain.indexOf('.au') != -1) || (domain.indexOf('en-au-1e10e42d2df4a24c5.') != -1))) {
+    if(((domain.indexOf('en-ca.') != -1) || (domain.indexOf('ondeck.ca')) || (domain.indexOf('en-ca-1e10e42d2545cde86.') != -1)) || ((domain.indexOf('.au') != -1) || (domain.indexOf('en-au-1e10e42d2df4a24c5.') != -1))) {
     	document.body.style.display = 'none';
     }
 
@@ -613,13 +642,10 @@
             </li>
           </ul>
         </li>
-
-
-        <li id="liveChat" class="liveChat SL_swap"><img class="chatimg" src="/wp-content/uploads/2013/11/chat_icon.png">Chat Live</li>
-                <li id="intlNumber"><strong>Call Us:</strong>
-
-                      <span id="headerNumberContainer"></span>
-                      </li>
+        <li class="liveChat"><div class="SL_swap display--inlineBlock" id="liveengageTag_header"><div id="LP_DIV_1480444690860"></div></div></li>
+          <li id="intlNumber"><strong>Call Us:</strong>
+                                      <a href="tel: 1800 340 573">1800 340 573</a>
+                    </li>
         <li style="display:none">
                     <a id="check-application-cta-top-strip" class="icon--application" href="https://online.ondeck.com/claimaccount" target="_blank">Check Application Status</a>
         </li>
@@ -637,13 +663,13 @@
       <nav role="navigation">
         <h1>
           <a href="/" class="logo">
-            <svg id="shape-ondeck-logo-min" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 327.6 64.1"><title>OnDeck</title><style>.st0{fill:#002D73;} .st1{fill:url(#SVGID_1_);} .st2{fill:url(#SVGID_2_);} .st3{fill:url(#SVGID_3_);} .st4{fill:url(#SVGID_4_);} .st5{fill:url(#SVGID_5_);} .st6{fill:url(#SVGID_6_);} .st7{fill:url(#SVGID_7_);} .st8{fill:url(#SVGID_8_);}</style><path class="st0" d="M30.3 4.3C48.2 4 60.8 16 60.8 34.4c0 17.9-12.6 29.9-30.5 30.2C12.6 64.6 0 52.6 0 34.7 0 16.3 12.6 4.3 30.3 4.3zm.1 51c11.9 0 19.8-9.1 19.8-21.3 0-11.4-7.9-20.5-19.8-20.5-11.8 0-19.7 9.1-19.7 20.5 0 12.3 7.9 21.3 19.7 21.3zM64.7 24.2h9.2v6.2h.2c1.8-3.9 5.4-7.2 11.9-7.2 10.5 0 14.2 7.4 14.2 15.3V63h-9.7V43.4c0-4.3-.3-11.4-7.1-11.4-6.4 0-8.9 4.7-8.9 9.9v21.2h-9.7V24.2zM106.2 5.8h22.6c15.1 0 29.2 9.2 29.2 28.7 0 19.6-16.6 28.7-30.4 28.7h-21.4V5.8zM124 53.9c12.8 0 23.2-5.5 23.2-19.4 0-13.9-9.1-19.4-21.5-19.4h-9.3V54h7.6zM170.4 47.1c.6 5.8 5 9.2 10.4 9.2 4.9 0 8-2.3 10.5-5.3l7 5.3c-4.5 5.6-10.3 7.8-16.4 7.8-11.7 0-21.1-8.2-21.1-20.4s9.4-20.4 21.1-20.4c10.9 0 18.2 7.6 18.2 21.1v2.7h-29.7zm20-7.3c-.1-5.7-3.8-9.2-9.9-9.2-5.8 0-9.3 3.6-10 9.2h19.9zM240.8 63.1h9.7V42.9c-4 4-7.4 7.3-9.7 9.6v10.6zM250.6 0h-9.7v34.9c2.9-2.9 6.2-6.1 9.7-9.6V0z"></path><path class="st0" d="M270.9 14.2s-26 25.8-28.8 28.6c-5.4 5.4-7.2 7.2-9.5 9-2.2 1.7-5.7 3.5-8.3 3.5-7.1 0-11.4-5.6-11.4-11.7S217.1 32 224.2 32c2.6 0 5.1 1.5 7.4 3.9l6.7-6.7c-3.7-4.1-9.2-5.9-14.1-5.9-11.7 0-21.1 8.2-21.1 20.4s9.4 20.4 21.1 20.4c3.2 0 9-1.4 13.2-4.7 2.5-2 9.1-9 13.1-13l1.5-1.5c6.2-6.2 31-30.7 31.1-30.8l-12.2.1z"></path><linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="289.263" y1="26.407" x2="320.837" y2="26.407"><stop offset="0" stop-color="#84D1E0"></stop><stop offset="1" stop-color="#0079A6"></stop></linearGradient><path class="st1" d="M320.8 38.7L296.1 14h-6.9L314 38.7l-.1.1h6.4c0-.1.5-.1.5-.1z"></path><linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="289.432" y1="50.845" x2="320.66" y2="50.845"><stop offset="0" stop-color="#84D1E0"></stop><stop offset="1" stop-color="#0079A6"></stop></linearGradient><path class="st2" d="M313.9 38.8c-9.6 9.5-24.4 24.1-24.5 24.2h6.8c.4-.4 14.9-14.7 24.4-24.1h-6.7z"></path><linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="295.681" y1="26.407" x2="327.427" y2="26.407"><stop offset="0" stop-color="#23AFE5"></stop><stop offset="1" stop-color="#00587B"></stop></linearGradient><path class="st3" d="M302.6 14.1h-6.9l24.7 24.7-.1.1h7.1l-24.8-24.8z"></path><linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="295.852" y1="50.845" x2="327.577" y2="50.845"><stop offset="0" stop-color="#23AFE5"></stop><stop offset="1" stop-color="#00587B"></stop></linearGradient><path class="st4" d="M327.4 38.8h-7c-9.5 9.4-24.1 23.8-24.4 24.1l7.4-.1 24.3-24h-.3z"></path><linearGradient id="SVGID_5_" gradientUnits="userSpaceOnUse" x1="-21.203" y1="26.407" x2="9.905" y2="26.407" gradientTransform="matrix(-1 0 0 1 263.153 0)"><stop offset="0" stop-color="#0088BD"></stop><stop offset=".145" stop-color="#0970A5"></stop><stop offset=".342" stop-color="#13578C"></stop><stop offset=".546" stop-color="#1A447A"></stop><stop offset=".76" stop-color="#1E3A6F"></stop><stop offset="1" stop-color="#1F366C"></stop></linearGradient><path class="st5" d="M253.2 38.7L277.9 14h6.4l-24.7 24.7.1.1-6.5-.1c.1 0 .1 0 0 0z"></path><linearGradient id="SVGID_6_" gradientUnits="userSpaceOnUse" x1="-21.032" y1="50.845" x2="10.09" y2="50.845" gradientTransform="matrix(-1 0 0 1 263.153 0)"><stop offset="0" stop-color="#0088BD"></stop><stop offset=".145" stop-color="#0970A5"></stop><stop offset=".342" stop-color="#13578C"></stop><stop offset=".546" stop-color="#1A447A"></stop><stop offset=".76" stop-color="#1E3A6F"></stop><stop offset="1" stop-color="#1F366C"></stop></linearGradient><path class="st6" d="M259.7 38.8c9.6 9.5 24.4 24.1 24.5 24.2h-6.7c-.4-.4-14.9-14.7-24.4-24.1h6.6z"></path><linearGradient id="SVGID_7_" gradientUnits="userSpaceOnUse" x1="-14.786" y1="26.406" x2="16.961" y2="26.406" gradientTransform="matrix(-1 0 0 1 263.153 0)"><stop offset="0" stop-color="#0088BD"></stop><stop offset=".145" stop-color="#0970A5"></stop><stop offset=".342" stop-color="#13578C"></stop><stop offset=".546" stop-color="#1A447A"></stop><stop offset=".76" stop-color="#1E3A6F"></stop><stop offset="1" stop-color="#1F366C"></stop></linearGradient><path class="st7" d="M271 14.1h6.9l-24.7 24.7.1.1h-7.1L271 14.1z"></path><linearGradient id="SVGID_8_" gradientUnits="userSpaceOnUse" x1="-14.616" y1="50.845" x2="17.111" y2="50.845" gradientTransform="matrix(-1 0 0 1 263.153 0)"><stop offset="0" stop-color="#0088BD"></stop><stop offset=".145" stop-color="#0970A5"></stop><stop offset=".342" stop-color="#13578C"></stop><stop offset=".546" stop-color="#1A447A"></stop><stop offset=".76" stop-color="#1E3A6F"></stop><stop offset="1" stop-color="#1F366C"></stop></linearGradient><path class="st8" d="M246.2 38.8h7.1c9.5 9.4 24.1 23.8 24.4 24.1l-7.4-.1-24.3-24h.2z"></path></svg>
+            <svg viewBox="0 0 75 16" xmlns="http://www.w3.org/2000/svg"><title>OnDeck</title><path class="svg-ondecklogo__on" d="M12.07 10.294c0 3.424-2.588 5.635-6 5.635-3.4 0-5.964-2.2-5.964-5.6 0-3.423 2.588-5.635 6-5.635 3.4 0 5.965 2.2 5.965 5.6zM6.06 13.071c1.6 0 2.73-1.177 2.73-2.777s-1.095-2.73-2.695-2.73c-1.6 0-2.73 1.177-2.73 2.777.012 1.6 1.095 2.73 2.695 2.73zM16.87 15.659h-3.188V4.976h3.189v1.212A4.375 4.375 0 0 1 20.2 4.694c2.482 0 3.87 1.67 3.87 4.506v6.447h-3.188V9.706c0-1.365-.764-2.2-2.011-2.2-1.236 0-2.012.835-2.012 2.176v5.977h.012z" fill="#0074FF"></path><path class="svg-ondecklogo__deck" d="M34.224 14.4c-.765.965-1.906 1.541-3.377 1.541-3.165 0-5.13-2.459-5.13-5.623 0-3.165 2.048-5.624 5.212-5.624 1.447 0 2.542.53 3.295 1.447V.06h3.188v15.588h-3.188V14.4zm-2.612-1.282c1.623 0 2.73-1.212 2.73-2.836 0-1.576-1.071-2.753-2.648-2.753-1.623 0-2.718 1.177-2.718 2.8.012 1.565 1.06 2.789 2.636 2.789zM39.024 10.318c0-3.377 2.482-5.624 5.811-5.624 3.2 0 5.553 2.259 5.553 5.388 0 .365-.023.753-.047 1.094h-8.035c.341 1.212 1.341 2.048 2.753 2.048 1.023 0 1.835-.389 2.565-1.212l1.964 1.917c-1.259 1.389-2.823 2.012-4.682 2.012-3.365 0-5.882-2.247-5.882-5.623zm3.329-1.212h4.718c-.26-1.047-1.177-1.753-2.33-1.753-1.235 0-2.059.718-2.388 1.753zM57.541 13.047c1 0 1.835-.53 2.459-1.341l2.153 1.918c-1.153 1.447-2.73 2.305-4.659 2.305-3.376 0-5.894-2.247-5.894-5.623 0-3.377 2.518-5.624 5.894-5.624 1.906 0 3.53.789 4.659 2.26L60 8.928c-.6-.811-1.447-1.34-2.459-1.34-1.576 0-2.67 1.152-2.67 2.729 0 1.576 1.094 2.73 2.67 2.73zM67.93 11.07l-1.306.871v3.718h-3.189V.059h3.189v8.565l6.752-4.577h.13v3.53l-2.824 1.882 3.565 6.07v.13h-3.635z" fill="#000082"></path></svg>
 
           </a>
         </h1>
-        <ul id="menu-top-navigation-strip" class="nav top-nav clearfix"><li id="menu-item-1734" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-1734"><a href="https://www.ondeck.com/business-loans/">Small Business Loans</a>
+        <ul id="menu-top-navigation-strip" class="nav top-nav clearfix"><li id="menu-item-151611" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-151611"><a href="https://www.ondeck.com/business-loans/overview/">Small Business Loans</a>
 <ul class="sub-menu">
-	<li id="menu-item-2471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2471"><a href="/business-loans/">Overview</a></li>
+	<li id="menu-item-2471" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2471"><a href="/business-loans/overview">Overview</a></li>
 	<li id="menu-item-38943" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38943"><a href="https://www.ondeck.com/business-loans/term/">Term Loans</a></li>
 	<li id="menu-item-38953" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38953"><a href="https://www.ondeck.com/business-loans/line-of-credit/">Lines of Credit</a></li>
 	<li id="menu-item-30" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-30"><a title="Do You Qualify" href="https://www.ondeck.com/business-loans/loan-qualifying/">Do You Qualify</a></li>
@@ -663,11 +689,11 @@
 </ul>
 </li>
 <li id="menu-item-37" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-37"><a title="Partner With Us" href="https://www.ondeck.com/partner/">Partner With Us</a></li>
-</ul>    <a href="//online.ondeck.com" id="apply-cta-header" class="btn btn--large btn--primary header-apply-now " target="_blank" role="button">Apply Now</a>
+</ul>    <a href="//online.ondeck.com" id="apply-cta-header" class="btn btn--large btn--primary header-apply-now  " target="_blank" role="button">Apply Now</a>
 
 
 <!--
-  <div class="btn__wrapper btn--large btn--primary header-apply-now " >
+  <div class="btn__wrapper btn--large btn--primary header-apply-now  " >
     <input type="" id="apply-cta-header" class="btn" value="Apply Now"    role="button">
   </div>
 -->
@@ -695,43 +721,41 @@
 						    <section class="entry-content clearfix" itemprop="articleBody">
 							    <div class="policy-page SL_swap" id="australianprivacy">
 <div class="twelve-col">
-	<div class="main-img">
-		<div class="black-stripe">
+  <div class="main-img">
+    <div class="black-stripe">
 <div class="wrapper">
-			<div class="message">
-				<h2>Privacy Policy</h2>
-			</div>
+      <div class="message">
+        <h2>Privacy Policy</h2>
+      </div>
 </div>
 <!-- END wrapper -->
-		</div><!-- END black-stripe -->
-	</div><!-- END main-img -->
-	<div class="wrapper body-wrapper">
-		<ul id="main">
-			<li class="info-block">
-<p class="paragraph">This Privacy Policy has been updated effective June 11, 2015.</p>
-			<p class="paragraph">This Privacy Policy applies to <a href="https://www.ondeck.com/">www.ondeck.com</a> (“Website”), which is owned and operated by On Deck Capital, Inc. (“OnDeck,” “Us,” or We”).  The Website facilitates our business loan products and related services (collectively “Services”). This Privacy Policy describes how OnDeck collects and uses the personal information you provide (directly or through third parties), or which is automatically generated, when you interact with our website <a href="https://www.ondeck.com/">www.ondeck.com</a> (“Website”) and our mobile application (“Mobile App”).</p>
+    </div><!-- END black-stripe -->
+  </div><!-- END main-img -->
+  <div class="wrapper body-wrapper">
+    <ul id="main">
+      <li class="info-block">
+<p class="paragraph">This Privacy Policy has been updated effective May 19, 2016.</p>
+      <p class="paragraph">This Privacy Policy applies to <a href="https://www.ondeck.com/">www.ondeck.com</a> (“Website”), which is owned and operated by On Deck Capital, Inc. or a subsidiary thereof (collectively, “OnDeck,” “Us,” or We”).  The Website facilitates our business loan products and related services (collectively “Services”). This Privacy Policy describes how OnDeck collects and uses the personal information you provide (directly or through third parties), or which is automatically generated, when you interact with our website <a href="https://www.ondeck.com/">www.ondeck.com</a> (“Website”) and our mobile application (“Mobile App”).</p>
 
 <p class="paragraph">This Privacy Policy also describes the choices available to you regarding our use of your personal information and how you can access and update such information. For purposes of this Privacy Policy, “Personal Information” means information that personally identifies you, including your contact information, IP address, and loan application information. A large portion of the Personal Information we collect, use, share, and store is sensitive in nature, including your social security number and financial account information (“Sensitive Personal Information”). </p>
-
-<p class="paragraph">OnDeck has received TRUSTe’s Privacy Seal signifying that this Privacy Policy and our 
+<br>
+<p class="paragraph">
 
 </p><div style="margin: -10px 0pt 0pt 20px; float: right;" id="9da8eb18-9f0d-44a3-aad9-339e46e32c2b"> 
 <script type="text/javascript" src="https://privacy-policy.truste.com/privacy-seal/On-Deck-Capital,-Inc-/asc?rid=9da8eb18-9f0d-44a3-aad9-339e46e32c2b"></script>
-<a href="https://privacy.truste.com/privacy-seal/On-Deck-Capital,-Inc-/validation?rid=10ab3a19-d606-41ee-94cb-0398e79407b4" title="TRUSTe online privacy certification" target="_blank">
-<img style="border: none" src="https://privacy-policy.truste.com/privacy-seal/On-Deck-Capital,-Inc-/seal?rid=10ab3a19-d606-41ee-94cb-0398e79407b4" alt="TRUSTe online privacy certification">
-</a>
+<a href="http://privacy.truste.com/privacy-seal/validation?rid=f1f02449-d8f8-4203-92ff-bc37bbfaeb96" title="TRUSTe Privacy Certification" target="_blank"><img style="border: none" src="http://privacy-policy.truste.com/privacy-seal/seal?rid=f1f02449-d8f8-4203-92ff-bc37bbfaeb96" alt="TRUSTe Privacy Certification"></a>
 </div> 
 
-<div style="margin: -17px 0pt 0pt 0pt;" class="paragraph">practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal.</div><p></p>
+<div style="margin: -17px 0pt 0pt 0pt;" class="paragraph">
+  The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website.
+</div><p></p>
 
-<p class="paragraph">If you have an unresolved privacy or data use concern that we have not addressed satisfactorily in this Privacy Policy or otherwise, please contact TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>. Please click <a href="http://www.truste.com/about-TRUSTe/contact-us">here</a> for fax and postal mail information for TRUSTe.</p>
-
-<p class="paragraph">Unfortunately, TRUSTe’s Dispute Resolution process is only available in English. The TRUSTe program covers only information that is collected through this Website, and does not cover information collected through third party sites or services, or information that may be collected through software downloaded from the Website.</p>
-			</li>
-			<hr>
-			<li>
-				<p class="subheader">Information We Collect</p>
-				<p class="paragraph">We collect the following information from you:</p>
+<p class="paragraph">In order to view our relationship with TRUSTe please visit the validation page available by clicking the TRUSTe seal.If you have an unresolved privacy or data use concern that we have not addressed satisfactorily in this Privacy Policy or otherwise, please contact TRUSTe at <a href="https://feedback-form.truste.com/watchdog/request">https://feedback-form.truste.com/watchdog/request</a>.</p>
+      </li>
+      <hr>
+      <li>
+        <p class="subheader">Information We Collect</p>
+        <p class="paragraph">We collect the following information from you:</p>
 
 
 <p class="paragraph">
@@ -748,13 +772,13 @@
  In addition to collecting information via our Website and Mobile App, we may also conduct a site visit to collect information, and obtain information and external data used by lenders to process applications and complete and manage transactions, e.g., from credit reporting agencies and other vendors, as well as from social media. Once you are an OnDeck customer, we may reach out to you for, or otherwise obtain, information if you decide to renew your loan or as otherwise needed to provide the Service.
 </p>
 
-			</li>
-			<hr>
-			<li>
-				<p class="subheader">Use of Information</p>
-				<p class="paragraph">We use the information we collect to:</p>
+      </li>
+      <hr>
+      <li>
+        <p class="subheader">Use of Information</p>
+        <p class="paragraph">We use the information we collect to:</p>
 
-				<p class="paragraph">
+        <p class="paragraph">
 
 </p><ul style="list-style-position: inside;">
 <li style="list-style-type:disc; list-style-position: inside; margin-left:50px; font-family: Georgia, Cambria, 'Times New Roman', Times, serif; font-size: 15px; color: rgb(96, 96, 96);">Compile, save, use and analyze your Personal Information in both a personally-identifiable form and an aggregated, non-personally identifiable form;</li>
@@ -769,11 +793,11 @@
 <li style="list-style-type:disc; list-style-position: inside; margin-left:50px; font-family: Georgia, Cambria, 'Times New Roman', Times, serif; font-size: 15px; color: rgb(96, 96, 96);">Produce data analytics and reports containing anonymized summaries of Personal Information and other information that is not Personal Information (such information, “General Information”) that we share with business partners.  General Information may include Personal Information that has been aggregated, anonymized and will not identify you.</li>
 
 <p></p>
-			
-			<hr>
-			<li>
-				<p class="subheader">Privacy and Sharing of Information</p>
-				<p class="paragraph"> OnDeck will share your Personal Information with third parties only in the ways that are described in this Privacy Policy and as required by law. We do not sell your Personal Information to third parties. </p>
+      
+      <hr>
+      <li>
+        <p class="subheader">Privacy and Sharing of Information</p>
+        <p class="paragraph"> OnDeck will share your Personal Information with third parties only in the ways that are described in this Privacy Policy and as required by law. We do not sell your Personal Information to third parties. </p>
 
 <p class="paragraph">We will provide your Personal Information to our trusted business partners, service providers and subsidiaries and affiliates to provide services to help us with our business activities, such as offering customer service, processing credit checks or secure data storage, and other similar services. These companies are authorized to use your Personal Information only as necessary to provide these types of services to us. In addition, we may share your basic information (name, company name, phone number, email address and requested loan amount) with one of our business partners to market their services to you , provided, however, if you do not want us to share your Personal Information in these circumstances with these business partners, please contact us to opt out by email at <a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a> or by postal mail at the contact information listed below. In addition, we may also share General Information for the same reasons as we provide Personal Information and for business partners and others to conduct analyses and research and track marketing performance or as otherwise provided in the Tracking Technologies part herein.  </p>
 
@@ -817,7 +841,7 @@
 <li>
 <p class="subheader">Tracking Technologies</p>
 
-<p class="paragraph">Technologies such as cookies, beacons, tags and scripts are used by OnDeck and our partners (for example, our marketing partners), affiliates, or analytics or service providers, including our live chat, marketing trackers, and survey tool service providers. These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. </p>
+<p class="paragraph">OnDeck and our partners (for example, our marketing partners), affiliates, or analytics or service providers, including our live chat, marketing trackers, and survey tool service providers use cookies or similar technologies. These technologies are used in analyzing trends, administering the Website, tracking users’ movements around the Website and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. </p>
 
 <p class="paragraph">A cookie is a small text file that is stored on a user’s computer for record-keeping purposes. We use cookies for user authentication and analytics. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our Website, but your ability to use some features or areas of our Website may be limited. If you would like to learn more about cookies or how to configure your browser, please visit  <a href="http://www.allaboutcookies.org">www.allaboutcookies.org</a>.
 
@@ -835,13 +859,9 @@
 <p class="paragraph">
 </p><ul style="list-style-position: inside;">
 <li style="list-style-position: inside; margin-left:50px; font-family: Georgia, Cambria, 'Times New Roman', Times, serif; color: rgb(96, 96, 96);">
-<i>Local Storage Objects (Flash/HTML5)</i></li>
-</ul>
+
+</li></ul>
 <p></p>
-
-<p class="paragraph">Our partners use Local Storage Objects (LSOs) such as HTML5 or Flash to store content information and preferences. Third parties with whom we partner to provide certain features on our Website or to display advertising based upon your Web browsing activity use Local Storage Objects (LSOs) such as HTML5 or Flash to collect and store information. </p>
-
-<p class="paragraph">Various browsers may offer their own management tools for removing HTML5 LSOs. To manage Flash LSOs please click here: <a href="http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html">http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html</a></p>
 
 <p class="paragraph">
 </p><ul style="list-style-position: inside;">
@@ -857,10 +877,10 @@
 </li>
 <hr>
 
-			<li>
-				<p class="subheader">Security of Information</p>
+      <li>
+        <p class="subheader">Security of Information</p>
 
-				<p class="paragraph">OnDeck takes the security of your information very seriously. Your information is securely sent to OnDeck with 128 bit-encryption over the Transport Layer Security (TLS) protocol. This creates an encrypted connection between your browser and our servers. Thus, when you enter Sensitive Personal Information (such as a credit card number) on our order forms, we encrypt the transmission of that information.  </p>
+        <p class="paragraph">OnDeck takes the security of your information very seriously. Your information is securely sent to OnDeck with 128 bit-encryption over the Transport Layer Security (TLS) protocol. This creates an encrypted connection between your browser and our servers. Thus, when you enter Sensitive Personal Information (such as a credit card number) on our order forms, we encrypt the transmission of that information.  </p>
 
 <p class="paragraph">If you allow OnDeck to see your banking information online rather than in paper form, it is on a read-only basis. We do not have access to change, edit, or modify bank account information in any way. OnDeck employees cannot view your banking username and passwords.</p>
 
@@ -869,9 +889,9 @@
 
 
 <li>
-				<p class="subheader">Additional Information</p>
+        <p class="subheader">Additional Information</p>
 
-				<p class="paragraph">
+        <p class="paragraph">
 </p><ul style="list-style-position: inside;">
 <li style="list-style-position: inside; margin-left:50px; font-family: Georgia, Cambria, 'Times New Roman', Times, serif; color: rgb(96, 96, 96);">
 <i>Links to 3rd Party Sites</i></li>
@@ -880,7 +900,7 @@
 
 <p class="paragraph"> Our Website includes links to other websites whose privacy practices may differ from those of OnDeck. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any website you visit. </p>
 
-				<p class="paragraph">
+        <p class="paragraph">
 </p><ul style="list-style-position: inside;">
 <li style="list-style-position: inside; margin-left:50px; font-family: Georgia, Cambria, 'Times New Roman', Times, serif; color: rgb(96, 96, 96);">
 <i>Blog/Forum</i></li>
@@ -889,7 +909,7 @@
 
 <p class="paragraph">Our Website offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them. <i>To request removal of your Personal Information from our blog or community forum, contact us by email at <a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a> or by postal mail at the contact information listed below</i>. In some cases, we may not be able to remove your Personal Information, in which case we will let you know if we are unable to do so and why.</p>
 
-				<p class="paragraph">
+        <p class="paragraph">
 </p><ul style="list-style-position: inside;">
 <li style="list-style-position: inside; margin-left:50px; font-family: Georgia, Cambria, 'Times New Roman', Times, serif; color: rgb(96, 96, 96);">
 <i>Testimonials</i></li>
@@ -898,7 +918,7 @@
 
 <p class="paragraph">We display personal testimonials of satisfied customers on our Website in addition to other endorsements. With your consent, we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us by email at <a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a> or by postal mail at the contact information listed below.</p>
 
-		<p class="paragraph">
+    <p class="paragraph">
 </p><ul style="list-style-position: inside;">
 <li style="list-style-position: inside; margin-left:50px; font-family: Georgia, Cambria, 'Times New Roman', Times, serif; color: rgb(96, 96, 96);">
 <i>Social Media Widgets</i></li>
@@ -907,7 +927,7 @@
 
 <p class="paragraph">Our Website includes social media features, such as the Facebook “Like” button. These features may collect your IP address, which pages you are visiting on our Website, and may set a cookie to enable the feature to function properly. Social media features and widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these features are governed by the privacy policy of the company providing it.</p>
 
-		<p class="paragraph">
+    <p class="paragraph">
 </p><ul style="list-style-position: inside;">
 <li style="list-style-position: inside; margin-left:50px; font-family: Georgia, Cambria, 'Times New Roman', Times, serif; color: rgb(96, 96, 96);">
 <i>Changes To This Policy</i></li>
@@ -922,26 +942,26 @@
 
 
 <li>
-				<p class="subheader">Security of Information</p>
+        <p class="subheader">Security of Information</p>
 
 <p class="paragraph">If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, please contact us by email at <a href="mailto:marketing@ondeck.com">marketing@ondeck.com</a>, or with a letter by postal mail to:</p>
 
 
-				<address>
-				On Deck Capital, Inc.<br>
-				ATTN: Marketing<br>
-				1400 Broadway. 25th Floor<br>
-				New York, NY 10018<br>
-				USA <br>
-				</address>
+        <address>
+        OnDeck<br>
+        ATTN: Marketing<br>
+        1400 Broadway. 25th Floor<br>
+        New York, NY 10018<br>
+        USA <br>
+        </address>
 
-				<p class="paragraph">If you are contacting us to opt-out of marketing communications, you must include your full name and business mailing email addresses and account number. Once we locate your contact information based on the information you provide us, it will be removed from our databases and mailings lists.</p>
+        <p class="paragraph">If you are contacting us to opt-out of marketing communications, you must include your full name and business mailing email addresses and account number. Once we locate your contact information based on the information you provide us, it will be removed from our databases and mailings lists.</p>
 
-			</li>
-		</ul>
+      </li>
+    </ul>
 
 
-	</li></ul></div>
+  </li></ul></div>
 </div>							</div></section> <!-- end article section -->
 						
 						    <footer class="article-footer">
@@ -959,22 +979,22 @@
 			</div> <!-- end #content -->
 
 
-<div class="twelve-col">
-	<div class="wrapper above-footer-wrapper">
-		<h2>We’re making waves in the world of small business</h2>
-		<ul class="SL_swap" id="footer-partners"><li class="partner partner1"><a class="websitelink" target="_blank" href="company/in-the-news/small-businesses-increasingly-turn-online-lenders-banks-bail/"><div class="thumb1 regular-state"><img width="170" height="95" src="https://www.ondeck.com/wp-content/uploads/2014/07/pbs-image-light.png" class="attachment-full" alt="pbs-image-light"></div><div class="thumb1 hover-state"><img width="170" height="95" src="https://www.ondeck.com/wp-content/uploads/2014/07/pbs-image.png" class="attachment-full" alt="pbs-image"></div></a></li><li class="partner partner2"><a class="websitelink" target="_blank" href="http://www.bbb.org/new-york-city/business-reviews/financial-services/on-deck-capital-inc-in-new-york-ny-101780/"><div class="thumb2 regular-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/bbb.png" class="attachment-full" alt="bbb"></div><div class="thumb2 hover-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/bbb-hvr.png" class="attachment-full" alt="bbb-hvr"></div></a></li><li class="partner partner3"><a class="websitelink" target="_blank" href="/company/in-the-news/on-deck-named-to-forbes-most-promising-list/"><div class="thumb3 regular-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/forbes.png" class="attachment-full" alt="forbes"></div><div class="thumb3 hover-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/forbes-hvr1.png" class="attachment-full" alt="forbes-hvr"></div></a></li><li class="partner partner4"><a class="websitelink" target="_blank" href="/company/in-the-news/nyc-startup-uses-big-data-to-disrupt-small-business-lending/"><div class="thumb4 regular-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/biz.png" class="attachment-full" alt="biz"></div><div class="thumb4 hover-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/biz-hvr.png" class="attachment-full" alt="biz-hvr"></div></a></li><li class="partner partner5"><a class="websitelink" target="_blank" href="/company/in-the-news/ondeck-named-to-crains-new-york-business-2013-fast-50-list/"><div class="thumb5 regular-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/crains.png" class="attachment-full" alt="crains"></div><div class="thumb5 hover-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/crains-hvr1.png" class="attachment-full" alt="crains-hvr"></div></a></li></ul>	</div>
-	<div class="clear"></div>
+<div class="twelve-col footer-container">
+  <div class="wrapper above-footer-wrapper">
+    <h2>We’re making waves in the world of small business</h2>
+    <ul class="SL_swap" id="footer-partners"><li class="partner partner1"><a class="websitelink" target="_blank" href="company/in-the-news/small-businesses-increasingly-turn-online-lenders-banks-bail/"><div class="thumb1 regular-state"><img width="170" height="95" src="https://www.ondeck.com/wp-content/uploads/2014/07/pbs-image-light.png" class="attachment-full" alt="pbs-image-light"></div><div class="thumb1 hover-state"><img width="170" height="95" src="https://www.ondeck.com/wp-content/uploads/2014/07/pbs-image.png" class="attachment-full" alt="pbs-image"></div></a></li><li class="partner partner2"><a class="websitelink" target="_blank" href="http://www.bbb.org/new-york-city/business-reviews/financial-services/on-deck-capital-inc-in-new-york-ny-101780/"><div class="thumb2 regular-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/bbb.png" class="attachment-full" alt="bbb"></div><div class="thumb2 hover-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/bbb-hvr.png" class="attachment-full" alt="bbb-hvr"></div></a></li><li class="partner partner3"><a class="websitelink" target="_blank" href="/company/in-the-news/on-deck-named-to-forbes-most-promising-list/"><div class="thumb3 regular-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/forbes.png" class="attachment-full" alt="forbes"></div><div class="thumb3 hover-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/forbes-hvr1.png" class="attachment-full" alt="forbes-hvr"></div></a></li><li class="partner partner4"><a class="websitelink" target="_blank" href="/company/in-the-news/nyc-startup-uses-big-data-to-disrupt-small-business-lending/"><div class="thumb4 regular-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/biz.png" class="attachment-full" alt="biz"></div><div class="thumb4 hover-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/biz-hvr.png" class="attachment-full" alt="biz-hvr"></div></a></li><li class="partner partner5"><a class="websitelink" target="_blank" href="/company/in-the-news/ondeck-named-to-crains-new-york-business-2013-fast-50-list/"><div class="thumb5 regular-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/crains.png" class="attachment-full" alt="crains"></div><div class="thumb5 hover-state"><img width="231" height="132" src="https://www.ondeck.com/wp-content/uploads/2013/12/crains-hvr1.png" class="attachment-full" alt="crains-hvr"></div></a></li></ul>  </div>
+  <div class="clear"></div>
 </div>
 <footer class="footer" role="contentinfo">
-	<div id="inner-footer" class="wrap clearfix">
-		<div id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-footer-nav-container"><ul id="menu-footer-nav" class="menu"><li id="menu-item-1812" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-ancestor current-menu-parent current_page_parent current_page_ancestor menu-item-has-children menu-item-1812"><a href="https://www.ondeck.com/business-loans/">Small Business Loans</a>
+  <div id="inner-footer" class="wrap clearfix">
+    <div id="nav_menu-5" class="widget widget_nav_menu"><div class="menu-footer-nav-container"><ul id="menu-footer-nav" class="menu"><li id="menu-item-154501" class="menu-item menu-item-type-custom menu-item-object-custom current-menu-ancestor current-menu-parent menu-item-has-children menu-item-154501"><a href="/products/business-loans">Small Business Loans</a>
 <ul class="sub-menu">
 	<li id="menu-item-38923" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38923"><a href="https://www.ondeck.com/business-loans/line-of-credit/"><span class="SL_swap" id="locbotmenu_swap">Lines of Credit</span></a></li>
 	<li id="menu-item-38933" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-38933"><a href="https://www.ondeck.com/business-loans/term/"><span class="SL_swap" id="tlbotmenu_swap">Term Loans</span></a></li>
 	<li id="menu-item-67" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-67"><a href="https://www.ondeck.com/business-loans/loan-qualifying/">Do You Qualify?</a></li>
 	<li id="menu-item-70" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-70"><a href="https://www.ondeck.com/business-loans/comparison/"><span class="SL_swap" id="menu_whatmakesusbetter">What Makes Us Better</span></a></li>
 	<li id="menu-item-840" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-818 current_page_item menu-item-840"><a href="https://www.ondeck.com/privacy/"><span class="SL_swap" id="menu_privacypolicy">Privacy Policy</span></a></li>
-	<li id="menu-item-2041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2041"><a href="/small-business-financing-education-center/"><span class="SL_swap" id="footerhide1">Types of Loans</span></a></li>
+	<li id="menu-item-2041" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2041"><a href="/resources/"><span class="SL_swap" id="footerhide1">Types of Loans</span></a></li>
 	<li id="menu-item-4111" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-4111"><a href="https://www.ondeck.com/small-business-loans/"><span class="SL_swap" id="footerhide2">Small Business Lending</span></a></li>
 </ul>
 </li>
@@ -986,8 +1006,9 @@
 	<li id="menu-item-33411" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-33411"><a href="https://investors.ondeck.com"><span class="SL_swap" id="menu_investors">Investors</span></a></li>
 	<li id="menu-item-28581" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28581"><a href="https://www.ondeck.com/blog/"><span class="SL_swap" id="menu_blog">Blog</span></a></li>
 	<li id="menu-item-91" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-91"><a href="https://www.ondeck.com/faqs/"><span class="SL_swap" id="menu_faq">FAQs</span></a></li>
-	<li id="menu-item-28591" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28591"><a href="https://www.ondeck.com/company/client-stories/"><span class="SL_swap" id="menu_testimonials">Testimonials</span></a></li>
-	<li id="menu-item-2805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2805"><a title="Read Reviews from OnDeck Customers" href="https://www.trustpilot.com/review/ondeck.com"><span class="SL_swap" id="menu_reviews"><strong>OnDeck Reviews</strong></span></a></li>
+	<li id="menu-item-129431" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-129431"><a href="https://www.ondeck.com/business-loans/reviews/">OnDeck Reviews</a></li>
+	<li id="menu-item-2805" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-2805"><a title="Read Reviews from OnDeck Customers" href="https://www.trustpilot.com/review/ondeck.com"><span class="SL_swap" id="menu_reviews"><strong>TrustPilot</strong></span></a></li>
+	<li id="menu-item-133261" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-133261"><a href="https://www.ondeck.com/sitemap_index.xml">Sitemap</a></li>
 </ul>
 </li>
 <li id="menu-item-61" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children menu-item-61"><a href="https://www.ondeck.com/partner/">Partner With Us</a>
@@ -996,140 +1017,168 @@
 	<li id="menu-item-1046" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1046"><a href="/partner/#distribution-partnerships">Distribution Partnership</a></li>
 	<li id="menu-item-1047" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1047"><a href="/partner/#platform-solutions">Platform Solutions</a></li>
 	<li id="menu-item-1048" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1048"><a href="/partner/#vendor-programs">Merchant Referral Program</a></li>
-	<li id="menu-item-1049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1049"><a href="/partner/#affiliate-programs">Affiliate Programs</a></li>
+	<li id="menu-item-1049" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1049"><a href="/partner/affiliate/">Affiliate Program</a></li>
 </ul>
 </li>
-</ul></div></div>		<div class="newsletter-signup">
-			<form action="https://www.ondeck.com/wp-content/themes/ondeckprod/library/marketo-lead.php" method="POST">
-				Sign up for our newsletter &nbsp;<br class="hide-desktop">
-				<input type="text" name="first_name" id="first_name" placeholder="Your Name" width="135">
-				<input type="email" name="email" data-validate-type="email" placeholder="your@email.com" id="email" width="135">
-				<input name="submit" value="Subscribe" type="submit">
-			</form>
-			</div>
-		</div>
-		<!-- end #inner-footer -->
-	</footer>
-	<!-- end footer -->
-	</div> <!-- end #container -->
+</ul></div></div>    <div class="newsletter-signup">
+      <form action="https://www.ondeck.com/wp-content/themes/ondeckprod/library/marketo-lead.php" method="POST">
+        Sign up for our newsletter &nbsp;<br class="hide-desktop">
+        <input type="text" name="first_name" id="first_name" placeholder="Your Name" width="135">
+        <input type="email" name="email" data-validate-type="email" placeholder="your@email.com" id="email" width="135">
+        <input name="submit" value="Subscribe" type="submit">
+      </form>
+      </div>
+    </div>
+    <!-- end #inner-footer -->
+  </footer>
+  <!-- end footer -->
+  </div> <!-- end #container -->
 
-	<span class="SL_swap" id="SLprivacypolicy"><div class="source-org copyright"><img src="/wp-content/uploads/2013/11/blkwhit_footer_logo.png">Loans Subject to Lender Approval. On Deck Capital, Inc.® is a Registered Trademark. All rights reserved. 1400 Broadway, New York, New York. <a href="/privacy/">Privacy Policy</a> <a href="/security-policy/">Security Policy</a></div></span>
-	<!-- all js scripts are loaded in library/bones.php -->
+  <span class="SL_swap copyrightContainer" id="SLprivacypolicy"><div class="source-org copyright"><svg class="copyright__logoWhite " width="63" height="13"><use xlink:href="#svg-ondecklogowhite"></use></svg>
+    <p>
+      Loans Subject to Lender Approval.
+      Depending on the state where your business is located and other attributes of the loan, your business loan may be issued by Celtic Bank, a Utah-Chartered Industrial Bank, Member FDIC.
+      Your loan agreement will identify the loan issuer prior to your signing.
+    </p>
+    <p>
+      OnDeck® is a Registered Trademark. All rights reserved.
+      1400 Broadway, New York, New York.
+    </p>
+    <p>
+      <a href="/privacy/">Privacy Policy</a> <a href="/security-policy/">Security Policy</a>
+    </p>
+</div></span>
+  <!-- all js scripts are loaded in library/bones.php -->
 
-	<li class="phoneNumber hide-desktop">
-		<a><script type="text/JavaScript" src="https://secure.ifbyphone.com/js/keyword_replacement.js"></script></a>
-	</li>
-	<li class="contactUs hide-desktop"><a href="/company/contact-ondeck/">Contact Us</a></li>
-	<li class="no-accordion menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children getstarted hide-mobile hideIfNoJS">
-		<div class="getstarted-wrapper">
-			<a href="//online.ondeck.com/">Get Started</a><br>
+  <li class="phoneNumber hide-desktop">
+    <a href="tel: "><span class="SL_swap" id="corpphone"><script type="text/JavaScript" src="https://secure.ifbyphone.com/js/keyword_replacement.js"></script></span></a>
+  </li>
+  <li class="contactUs hide-desktop"><a href="/company/contact-ondeck/">Contact Us</a></li>
+  <li class="no-accordion menu-item menu-item-type-post_type menu-item-object-page menu-item-has-children getstarted hide-mobile hideIfNoJS">
+    <div class="getstarted-wrapper">
+      <a href="//online.ondeck.com/">Get Started</a><br>
 
-			    <a href="#" class="btn  " role="button"></a>
+    </div>
+    <br>
+    <div class="connect-wrapper">
+      <a href="#">Connect</a><br>
 
+      <div class="social-buttons">
+        <span class="SL_swap" id="removeFacebook"><a href="https://www.facebook.com/OnDeckCapital" class="fb ir">Facebook</a></span>
+        <span class="SL_swap" id="removeLinkedIn"><a href="https://www.linkedin.com/company/342718" class="li ir">LinkedIn</a></span>
+        <span class="SL_swap" id="removeTwitter"><a href="https://twitter.com/OnDeckCapital" class="tw ir">Twitter</a></span>
+      </div>
+      <ul class="sub-menu">
+        <li class="menu-item menu-item-type-post_type menu-item-object-page">
+                                <a href="tel: (888) 727-6183">(888) 727-6183</a>
+                  </li>
 
-<!--
-  <div class="btn__wrapper  " >
-    <input type=""  class="btn" value=""    role="button">
-  </div>
--->
+        <li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/company/contact-ondeck/">Contact Us</a></li>
+        <li class="menu-item menu-item-type-post_type menu-item-object-page"><div class="SL_swap display--inline" id="liveengageTag_footer"><div id="LP_DIV_1480444729962" class="display--inline"></div></div></li>
 
-		</div>
-		<div class="connect-wrapper">
-			<a href="#">Connect</a><br>
-
-			<div class="social-buttons">
-				<span class="SL_swap" id="removeFacebook"><a href="https://www.facebook.com/OnDeckCapital" class="fb ir">Facebook</a></span>
-				<span class="SL_swap" id="removeLinkedIn"><a href="https://www.linkedin.com/company/342718" class="li ir">LinkedIn</a></span>
-				<span class="SL_swap" id="removeTwitter"><a href="https://twitter.com/OnDeckCapital" class="tw ir">Twitter</a></span>
-			</div>
-			<ul class="sub-menu">
-				<li class="menu-item menu-item-type-post_type menu-item-object-page"><a>
-
-										<span id="footerNumberContainer1"></span>
-					
-				</a></li>
-
-				<li class="menu-item menu-item-type-post_type menu-item-object-page"><a href="/company/contact-ondeck/">Contact Us</a></li>
-				<span class="SL_swap" id="removeChatNow"><li class="liveChat menu-item menu-item-type-post_type menu-item-object-page"><a href="">Live Chat</a></li></span>
-
-			</ul>
-		</div>
-	</li>
+      </ul>
+    </div>
+  </li>
 <noscript>
     <style>
         .hideIfNoJS {display:none;}
     </style>
 </noscript>
-	<div id="join-newsletter-form" class="join-newsletter-form">
-		<a href="#" class="close">&nbsp;</a>
-		<form action="https://www.ondeck.com/wp-content/themes/ondeckprod/library/marketo-lead.php" method="POST">
-			<h2>
-			Sign up for our newsletter
-			</h2>
-			<label>Your Name</label>
-			<input type="text" name="first_name" id="first_name">
-			<label>Email Address</label>
-			<input type="email" name="email" id="email" data-validate-type="email">
-			<input name="submit" id="submit" class="btn-lg btn-fl btn-secondary" value="Subscribe" type="submit">
-		</form>
-	</div>
-	<div id="login-form" class="form">
-		<div class="customer" id="customerForm">
-			<form accept-charset="UTF-8" action="//online.ondeck.com/session" class="signup_form" data-track-event="sign in" data-validate="true" enctype="multipart/form-data" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"></div>
-			<ul>
-				<li>
-					<label>Your Email Address <a href="//online.ondeck.com/claimaccount" target="_blank">Not Sure?</a></label>
-				</li>
-				<li>
-					<input id="user_email" name="user[email]" tabindex="1" type="email" data-validate-type="email">
-				</li>
-				<li>
-					<label>OnDeck Password <a href="//online.ondeck.com/login" target="_blank">Forget?</a></label>
-				</li>
-				<li>
-					<input id="user_password" name="user[password]" tabindex="2" type="password">
-				</li>
-				<li>
-					<input class="btn-lg btn-fl btn-secondary" name="commit" tabindex="3" type="submit" value="Sign In">
-				</li>
-				<li>
-					<a href="https://play.google.com/store/apps/details?id=com.ondeck" target="_blank"><img class="btn--googleapp" src="https://www.ondeck.com/wp-content/themes/ondeckprod/images/android-play.bae38ed8.png"></a>
-				</li>
-			</ul>
-		</form>
-	</div>
+  <div id="join-newsletter-form" class="join-newsletter-form">
+    <a href="#" class="close">&nbsp;</a>
+    <form action="https://www.ondeck.com/wp-content/themes/ondeckprod/library/marketo-lead.php" method="POST">
+      <h2>
+      Sign up for our newsletter
+      </h2>
+      <label>Your Name</label>
+      <input type="text" name="first_name" id="first_name">
+      <label>Email Address</label>
+      <input type="email" name="email" id="email" data-validate-type="email">
+      <input name="submit" id="submit" class="btn-lg btn-fl btn-secondary" value="Subscribe" type="submit">
+    </form>
+  </div>
+  <div id="login-form" class="form">
+    <div class="customer" id="customerForm">
+      <form accept-charset="UTF-8" action="//online.ondeck.com/session" class="signup_form" data-track-event="sign in" data-validate="true" enctype="multipart/form-data" id="new_user" method="post" novalidate="novalidate"><div style="margin:0;padding:0;display:inline"></div>
+      <ul>
+        <li>
+          <label>Your Email Address <a href="//online.ondeck.com/claimaccount" target="_blank">Not Sure?</a></label>
+        </li>
+        <li>
+          <input id="user_email" name="user[email]" tabindex="1" type="email" data-validate-type="email">
+        </li>
+        <li>
+          <label>OnDeck Password <a href="//online.ondeck.com/login" target="_blank">Forget?</a></label>
+        </li>
+        <li>
+          <input id="user_password" name="user[password]" tabindex="2" type="password">
+        </li>
+        <li>
+          <input class="btn-lg btn-fl btn-secondary" name="commit" tabindex="3" type="submit" value="Sign In">
+        </li>
+        <li>
+          <a href="https://play.google.com/store/apps/details?id=com.ondeck" target="_blank"><img class="btn--googleapp" src="https://www.ondeck.com/wp-content/themes/ondeckprod/images/android-play.bae38ed8.png"></a>
+        </li>
+      </ul>
+    </form>
+  </div>
 </div>
 
-<!-- External Links Modal -->
-<div id="externalLink_modal" class="modal modalfade in">
+<!-- Relevant Website Modal -->
+<div id="redirectModal" class="modal modalfade in">
   <div class="modal-dialog">
     <div class="modal-content">
       <div class="modal-header">
-        <button type="button" class="modal_close modalClose" aria-label="Close"><span aria-hidden="true">×</span></button>
-        <h4 class="modal-title">You are about to leave OnDeck's website</h4>
+        <button type="button" class="js-modal__close modalClose" aria-label="Close"><span aria-hidden="true">×</span></button>
+        <h4 class="modal-title">Is your business based in <span class="countryName"></span>?</h4>
       </div>
       <div class="modal-body">
-        <p>OnDeck is not responsible for,
-        	and does not guarantee the accuracy of or endorse, the content, opinions or
-        	information on any third party website, nor does OnDeck guarantee or endorse any
-        	third party products or services. The terms and privacy policy of OnDeck’s website
-        	do not apply to third party websites. </p>
-      </div>
-      <div class="modal-footer">
-        <button type="button" class="btn--mid btn--tertiary modal_close first">Cancel</button>
-        <button type="button" class="btn--mid btn--primary modal_continue second">Continue</button>
+        <p>If so, please visit our <span class="countryNationality"></span> website.</p>
+        <div class="site-modal-footer">
+          <button type="button" class="btn--mid btn--primary modal__continue second">Take me to the <span class="countryNationality"></span> website.</button>
+          <p>or</p>
+          <a class="js-modal__close">Continue to the <span class="currentCountryNationality"></span> website.</a>
+        </div>
       </div>
     </div><!-- /.modal-content -->
   </div><!-- /.modal-dialog -->
 </div><!-- /.modal -->
-<!-- End External Links Modal -->
+<!-- End Relevant Website Modal -->
+
+<div class="modal__anchorjs" data-target="#redirectModal"></div>
 
 <!-- Scroller Button -->
 <div class="scroller"><b class="icon-scroller">Menu</b></div>
 
  <!-- END footer conditional -->
 
-<script src="https://www.ondeck.com/wp-content/themes/ondeckprod/assets/js/footer.61ff2489.js"></script>
+<script src="https://www.ondeck.com/wp-content/themes/ondeckprod/assets/js/footer.1e2b817d.js"></script>
+
+<script type="text/javascript">
+  document.addEventListener("DOMContentLoaded", function(event) {
+    var corpphone = document.getElementById('corpphone');
+    var phone = typeof _ibp_phone_number !== 'undefined' ? _ibp_phone_number : corpphone.innerText;
+
+    var mobilePhoneElement = corpphone.parentNode;
+    mobilePhoneElement.setAttribute('href', 'tel: ' + phone);
+
+    if (phone) {
+      replaceWithPhoneLink('generalphone', phone);
+      replaceWithPhoneLink('salesphone', phone);
+      replaceWithPhoneLink('loanopsphone', phone);
+      replaceWithPhoneLink('corpphone', phone);
+      replaceWithPhoneLink('footerNumber', phone);
+    }
+
+    function replaceWithPhoneLink(selectorId, phone) {
+      var phoneHref = phone.replace(/ /, '');
+      var elem = document.getElementById(selectorId);
+      if (elem) {
+        elem.innerHTML = '<a href="tel:' + phoneHref + '">' + phone + '</a>';
+      }
+    }
+  });
+</script>
 
 
 <!-- Begin Analytics -->
@@ -1138,6 +1187,6 @@
 <!-- live reload for development -->
 
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2ab1dc8188","applicationID":"5357126","transactionName":"NFxbYEIFXkBWAUQPXQ0WeFdEDV9dGBJRAVc=","queueTime":0,"applicationTime":250,"atts":"GBtYFgofTU4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"2ab1dc8188","applicationID":"5357126","transactionName":"NFxbYEIFXkBWAUQPXQ0WeFdEDV9dGBJRAVc=","queueTime":0,"applicationTime":169,"atts":"GBtYFgofTU4=","errorBeacon":"bam.nr-data.net","agent":""}</script>
 
 </body></html>
