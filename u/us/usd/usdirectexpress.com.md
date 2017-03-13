@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usdirectexpress.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118053203id_/https%3A//www.usdirectexpress.com/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdirectexpress.com privacy policy that was archived on 2017-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170313023209id_/https%3A//www.usdirectexpress.com/privacy_policy.html) for the most accurate reproduction.*
 
 # Direct Express® - Privacy policy
 
