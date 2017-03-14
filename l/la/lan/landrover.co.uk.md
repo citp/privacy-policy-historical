@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123141614id_/http%3A//www.landrover.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landrover.co.uk privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314125445id_/http%3A//www.landrover.co.uk/cookie-and-privacy-policy.html) for the most accurate reproduction.*
 
 # Cookies & Privacy Policy - Land Rover UK
 
@@ -148,7 +148,7 @@ TestSess3
 | These cookies are used to track user interaction with the site - which pages they navigate, which links they click, etc.   
   
 gs_u_GSN-065099-V, gs_u_GSN-657216-Q   
-| Go Squared Analytics cookie, used to determine new sessions/visits. The cookie is created when the javascript library executes and no existing gs_u_GSN cookie exists. The cookie is updated every time data is sent to GoSquared.   
+| Go Squared Analytics cookie, used to determine new sessions/visits. The cookie is created when the JavaScript library executes and no existing gs_u_GSN cookie exists. The cookie is updated every time data is sent to GoSquared.   
   
 psyma_participation   
 | Stores users preference in participation of the Psyma research survey  
