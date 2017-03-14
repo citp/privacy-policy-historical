@@ -1,13 +1,13 @@
-> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403203535id_/http%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the donorschoose.org privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314204418id_/https%3A//www.donorschoose.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Last Updated on August 10, 2015
+#### Last Updated on June 30, 2016
 
-At DonorsChoose.org, we are dedicated to protecting the privacy of our users. Our revised Privacy Policy, effective August 10, 2015, aims to clarify how we collect and use your personal information. Here are the highlights and reasons behind some of the important updates we've made:
+At DonorsChoose.org, we are dedicated to protecting the privacy of our users. Our revised Privacy Policy, effective June 30, 2016, aims to clarify how we collect and use your personal information. Here are the highlights and reasons behind some of the important updates we've made:
 
   * **Privacy Principles:** We developed a new set of principles to share our organization's core values and how we approach privacy at DonorsChoose.org.
-  * **Details specific to user type:** We included a new table to explicitly state how personal information is used, depending on how you access our site.
+  * **Details specific to user type:** We included a new table to explicitly state how personal information is used, depending on how you access our site or give directly to our organization.
   * **Payment information:** Thanks to recent upgrades to our checkout process, our website never processes or stores your credit card number on our servers.
   * **Children's Privacy:** With the launch of student-led projects, we created a new section to clarify how we collect, use and protect student information shared through the use of our website.
   * **Think It Up:** We have included a new section that pertains to donors who visit our site via our partner, Think It Up (a program of the Entertainment Industry Foundation), in launching student-led projects.
@@ -21,7 +21,7 @@ DonorsChoose.org is an online charity that engages the public in public schools 
 
 ### Privacy Principles
 
-Transparency is one of our core values here at DonorsChoose.org. With that in mind, we have developed a privacy policy (this "Privacy Policy") that details how we collect, protect, disclose, and use the information our users provide through their use of the website (www.donorschoose.org), application programming interface (our "API") and other sites owned and operated by DonorsChoose.org. 
+Transparency is one of our core values here at DonorsChoose.org. With that in mind, we have developed a privacy policy (this "Privacy Policy") that details how we collect, protect, disclose, and use the information our users provide through their use of the website (www.donorschoose.org), application programming interface (our "API") other sites owned and operated by DonorsChoose.org, and through any direct giving apart from the sites above.
 
 Our Privacy Policy is guided by our core values:
 
@@ -36,9 +36,9 @@ Our Privacy Policy is guided by our core values:
 
 ### Collection and Use of Your Information
 
-**Information we collect directly from you:** We ask for different personal information depending on how you interact with our website. We currently identify our users as either of the two categories:
+**Information we collect directly from you:** We ask for different personal information depending on how you interact with our website, and will only share it in the instances outlined below. We will **never** sell your information and take measures to protect it from misuse. We currently identify our users as either of the two categories:
 
-  * **Donors:** Users over 18 years of age (according to our Terms of Use) who have made a donation to a project, purchased a gift card or account credits, redeemed a gift card or set up an account as a non-teacher user.
+  * **Donors:** Users over 18 years of age (according to our Terms of Use) who have made a donation to a project, purchased a gift card or account credits, redeemed a gift card, set up an account as a non-teacher user on our website, or given directly to the organization.
   * **Teachers:** Full-time PreK-12 public school teachers who have set up a teacher account to post projects on our website. All teacher accounts are created with a corresponding donor account.
 
 
