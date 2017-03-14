@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2016-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161011070543id_/https%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the photobox.co.uk privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314143526id_/https%3A//www.photobox.co.uk/content/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Online Photo Printing | PhotoBox - PhotoBox
 
@@ -34,7 +34,6 @@ We may disclose your first name and last name, to selected third parties, includ
 Your personal data will be collected, processed, stored and used by us, and passed to and processed by our subsidiary and/or affiliated companies and other data processors acting under contract with us:
 
   * to provide Photobox to you;
-  * to tailor aspects of your experience of Photobox;
   * to contact you to provide examples of Products bearing your Images we think might interest you;
   * to create personalised Products selected by you;
   * to associate your Account, and your Product purchases, with you, and to verify your identity;
@@ -43,7 +42,9 @@ Your personal data will be collected, processed, stored and used by us, and pass
   * to process payments you make for Products;
   * to provide customer support;
   * to contact you by email and mobile communication (such as text (SMS) and "push" notification);
-  * for customer satisfaction and customer experience improvement purposes; and in connection with the prevention and detection of fraud and other crime.
+  * to contact you by post;
+  * to include your Images in our contacts with you, such as to depict examples of Products bearing your Images that we think might interest you;
+  * for customer satisfaction and customer experience improvement purposes, such as by analysing data we hold about you, and combining it with data held by third parties, in order to discern your interests, demography and other factors, and in consequence to offer goods and services that are likely to have the greatest value to you; and in connection with the prevention and detection of fraud and other crime.
 
 
 
@@ -86,6 +87,8 @@ Should you wish to, you can opt out of receiving our service emails here: <https
 While we do our best to act on your preferences as soon as we reasonably can, please be aware that it may take up to 14 days for changes to your preferences concerning Service Messages to take effect.
 
 Please note that (a) emails that we need to send you relating directly to your orders and purchases from PhotoBox (such as order and dispatch confirmation emails), and (b) emails which notify you of changes to our Terms of Use, or to policies we apply under our Terms of Use, are unaffected by your preferences for newsletters and Service Messages; you cannot opt-out of receiving these emails.
+
+We may also send you communications by post which provide you with information about offers, new Products and other things that we think may interest you or PhotoBox customers generally. You can notify us of your preferences concerning our postal communications here: <http://bit.ly/photobox_dm>
 
 ## Cookies
 
@@ -182,7 +185,7 @@ We will never ask you to confirm the details of your Account or Payment Method b
 
 ## Updates to this policy
 
-This Privacy Policy was last updated on 24th August 2016 Please check back regularly to keep informed of changes to this Policy. 
+This Privacy Policy was last updated on 23rd November 2016 Please check back regularly to keep informed of changes to this Policy. 
 
 ## Contact us
 
