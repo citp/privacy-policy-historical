@@ -1,49 +1,78 @@
-> *The following text is extracted and transformed from the pigsback.com privacy policy that was archived on 2016-10-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161006010355id_/http%3A//www.pigsback.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pigsback.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314063739id_/http%3A//www.pigsback.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Save up to 55% on hotels, restaurants, and spas | Pigsback.com
 
-Safeguarding your privacy is our number one priority.
+This Privacy Policy governs the manner in which Empathy Marketing Limited collects, uses, maintains and discloses information collected from users(each, a "User") of the < a href = "http://www.pigsback.com/" > Pigsback.com  website("Site").This privacy policy applies to the Site and all products and services offered by Empathy Marketing Limited.
 
-Because we gather some information about Pigsback.com members, we believe you should understand how that information might be used.
+###  Personal identification information
 
-#### Here is our commitment to you:
+We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, fill out a form, respond to a survey, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, mailing address, phone number.Users may, however, visit our Site anonymously.We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
 
-  * We will protect your confidentiality.
-  * We will NEVER release or sell your personal information to any other party.
-  * When we give information to the companies that participate in the Programme, it is in the form of grouped statistics based on members' information while participating in the Programme. The information typically includes the total number of visits, where are they coming from, what do they do on the website, etc. The Programme is designed to make it impossible for outside companies to extract personal information without your consent.
-  * We follow rigorous security protocols within our company to safeguard any personal information you share with us.
+###  Non - personal identification information
+
+We may collect non - personal identification information about Users whenever they interact with our Site. Non - personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+
+###  Web browser cookies
+
+Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+
+###  How we use collected information
+
+Empathy Marketing Limited may collect and use Users personal information for the following purposes:
+
+  * To run and operate our Site   
+We may need your information display content on the Site correctly. 
+  * To improve customer service   
+Information you provide helps us respond to your customer service requests and support needs more efficiently. 
+  * To personalize user experience   
+We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site. 
+  * To improve our Site   
+We may use feedback you provide to improve our products and services. 
+  * To process payments   
+We may use the information Users provide about themselves when placing an order only to provide service to that order.We do not share this information with outside parties except to the extent necessary to provide the service. 
+  * To run a promotion, contest, survey or other Site feature   
+To send Users information they agreed to receive about topics we think will be of interest to them. 
+  * To send periodic emails   
+We may use the email address to send User information and updates pertaining to their order.It may also be used to respond to their inquiries, questions, and/ or other requests. 
 
 
 
-#### Security Guarantee
+####  How we protect your information
 
-Our systems are housed in a state of the art data centre and they are constantly monitored against attempted intrusion and protected at all times against virus attacks and un-authorised access.
+We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
 
-#### Cookies
+Sensitive and private data exchange between the Site and its Users happens over a SSL secured communication channel and is encrypted and protected with digital signatures.
 
-Pigsback.com uses a cookie to identify you and log you into your account when you return to the site. Your browser must be able to accept a cookie in order to use the Pigsback.com website. A cookie is a small text file stored on the user's hard drive containing information about the user (your encrypted Pigsback.com ID).Cookies are only used by Pigsback.com to allow you to log in and surf the site.
+#### Sharing your personal information
 
-#### Registration
+We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above. We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys.We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-In order to use this website, a user must first complete the registration form to become a Pigsback.com member. During the registration, the user is required to give their contact information (e-mail address, name, country). This information is used to contact the user about the services (special offers and rewards) on our site, in which they have expressed interest.
+#### Electronic newsletters
 
-#### External links and partners
+If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc.If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email or User may contact us via our Site.We may use third party service providers to help us operate our business and the Site or administer activities on our behalf, such as sending out newsletters or surveys.We may share your information with these third parties for those limited purposes provided that you have given us your permission.
 
-Pigsback.com contains links to other websites. We are not responsible for the privacy issues or the content of other sites. We recommend that you review their privacy policy, especially if you need to give personal information.
+#### Third party websites
 
-#### Cancel your membership
+Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties.We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site.In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
-It's up to you to cancel your membership. All you have to do is go to 'Cancel my membership' in the 'My account' section. We will delete all your personal information.
+#### Advertising
 
-#### Modify your information
+Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you.This privacy policy does not cover the use of cookies by any advertisers.
 
-You can modify or add to your information at any time. All you have to do is go to the 'My account' section and choose whether you want to modify your login information, your categories or your personal information.
+####  Google Adsense 
 
-#### Surveys and contests
+Some of the ads may be served by Google.Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
-From time to time we may ask members for information via surveys and contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose the information.
+####  Changes to this privacy policy 
 
-#### Empathy Marketing Ltd
+Empathy Marketing Limited has the discretion to update this privacy policy at any time.When we do, we will post a notification on the main page of our Site, revise the updated date at the bottom of this page.We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect.You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
-The Pigsback.com Programme and website are owned and operated by:  
-Empathy Marketing Ltd having registered offices at Unit 1J, 1st Floor, Block 71, Park West Business Park, Nangor Road, Dublin 12, Ireland 
+####  Your acceptance of these terms 
+
+By using this Site, you signify your acceptance of this policy.If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+
+####  Contacting us 
+
+If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
+
+This document was last updated on January 26, 2017
