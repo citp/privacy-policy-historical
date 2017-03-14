@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the safishing.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415010348id_/https%3A//safishing.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safishing.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314174604id_/https%3A//safishing.com/privacy-policy) for the most accurate reproduction.*
 
-# PRIVACY POLICY - SA TEAM
+# Privacy Policy – SA TEAM
 
-This Privacy Policy governs the manner in which Salt Armour collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.safishing.com](https://web.archive.org/web/20160415010348id_/http://safishing.com/privacy-policy/www.sateam.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by Salt Armour.
+### PRIVACY POLICY
+
+This Privacy Policy governs the manner in which SA Co. collects, uses, maintains and discloses information collected from users (each, a “User”) of the [www.safishing.com](https://www.safishing.com) website (“Site”). This privacy policy applies to the Site and all products and services offered by SA & Co.
 
 **PERSONAL  IDENTIFICATION INFORMATION**
 
@@ -18,16 +20,10 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
 
 **HOW WE USE COLLECTED INFORMATION**
 
-Salt Armour may collect and use Users personal information for the following purposes:
+SA Co. may collect and use Users personal information for the following purposes:
 
-  * _To process payments_
-
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-
-  * _To send periodic emails_
-
-We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
+  * _To process payments_ We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
+  * _To send periodic emails_ We may use the email address to send User information and updates pertaining to their order. It may also be used to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
 
 
@@ -43,21 +39,19 @@ We do not sell, trade, or rent Users personal identification information to othe
 
 **CHANGES TO THIS PRIVACY POLICY**
 
-Salt Armour has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
+SA Co. has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
 
 **YOUR ACCEPTANCE OF THESE TERMS**
 
-By using this Site, you signify your acceptance of this policy and [terms of service](http://www.generateprivacypolicy.com/account/policies/edit/www.saltarmour.com). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
+By using this Site, you signify your acceptance of this policy and [terms of service](safishing.com). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
 
 **CONTACTING US**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-Salt Armour
+SA Company
 
-www.saltarmour.com
-
-Salt Armour, Inc
+www.SAfishing.com
 
 1140 Holland Drive  
 Boca Raton, FL 33487  
@@ -65,4 +59,4 @@ Suite #6
 
 561-948-6557
 
-This document was last updated on January 1, 2016
+This document was last updated on September 29, 2016
