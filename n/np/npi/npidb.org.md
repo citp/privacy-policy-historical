@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the npidb.org privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108092918id_/http%3A//npidb.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the npidb.org privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314050615id_/http%3A//npidb.org/privacy) for the most accurate reproduction.*
 
 # NPIdb - Privacy Policy
 
