@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the cgccomics.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116002542id_/https%3A//m.cgccomics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cgccomics.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314133841id_/https%3A//www.cgccomics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CGC
 
 This website is operated by the Certified Collectibles Group (“CCG”)
 
-This Privacy Policy covers how CCG (also “we” or “us”) collects, uses, retains, processes, discloses and transfers Personal Information on the websites of the CCG Companies and on our mobile application NGC Coin Details (together the “Site” or the “Website”). The websites of the CCG companies include:
+This Privacy Policy covers how CCG (also “we” or “us”) collects, uses, retains, processes, discloses and transfers Personal Information on the websites of the CCG Companies and on our mobile applications NGC and NGC Coin Details (together the “Site” or the “Website”). The websites of the CCG companies include:
 
-  * Numismatic Guaranty Corporation (NGC): [www.ngccoin.com](https://www.ngccoin.com/), [www.ngc-coin.co.za](http://www.ngc-coin.co.za/), [www.ngccoin.cn](https://www.ngccoin.cn/), [www.ngccoin.hk](https://www.ngccoin.hk/), [www.ngccoin.jp](http://www.ngccoin.jp/), [www.ngccoin.sg](http://www.ngccoin.sg/), [www.ngccoins.kr](http://www.ngccoins.kr/), [www.ngccoin.tw](http://www.ngccoin.tw/), [www.ngccoin.de](https://www.ngccoin.de/), [www.ngccoin.es](http://www.ngccoin.es/), [www.ngccoin.fr](http://www.ngccoin.fr/), [www.ngccoin.it](http://www.ngccoin.it/), [www.ngc-coin.pl](http://www.ngc-coin.pl/), [www.ngccoin.ru](http://www.ngccoin.ru/), [www.ngccoin.ch](http://www.ngccoin.ch/) and [www.ngccoin.co.uk](http://www.ngccoin.co.uk/)
-  * Numismatic Conservation Services (NCS): [www.ncscoin.com](http://www.ncscoin.com/)
+  * Numismatic Guaranty Corporation (NGC): [www.ngccoin.com](https://www.ngccoin.com/), [www.ngccoin.co.za](http://www.ngccoin.co.za/), [www.ngccoin.cn](https://www.ngccoin.cn/), [www.ngccoin.hk](https://www.ngccoin.hk/), [www.ngccoin.jp](http://www.ngccoin.jp/), [www.ngccoin.sg](http://www.ngccoin.sg/), [www.ngccoin.kr](http://www.ngccoin.kr/), [www.ngccoin.tw](http://www.ngccoin.tw/), [www.ngccoin.de](https://www.ngccoin.de/), [www.ngccoin.es](http://www.ngccoin.es/), [www.ngccoin.fr](http://www.ngccoin.fr/), [www.ngccoin.it](http://www.ngccoin.it/), [www.ngccoin.pl](http://www.ngccoin.pl/), [www.ngccoin.ru](http://www.ngccoin.ru/), [www.ngccoin.ch](http://www.ngccoin.ch/) and [www.ngccoin.co.uk](http://www.ngccoin.co.uk/)
   * Paper Money Guaranty (PMG): [www.pmgnotes.com](https://www.pmgnotes.com/), [www.pmgnotes.cn](https://www.pmgnotes.cn/), [www.pmgnotes.hk](https://www.pmgnotes.hk/), [www.pmgnotes.kr](https://www.pmgnotes.kr/) and [www.pmgnotes.tw](https://www.pmgnotes.tw/)
   * Certified Guaranty Company (CGC): [www.cgccomics.com](http://www.cgccomics.com/), [www.cgcmagazines.com](http://www.cgcmagazines.com/), [www.certifiedguaranty.com](http://www.certifiedguaranty.com/) and [www.cgcsignatureseries.com](http://www.cgcsignatureseries.com/)
   * Classic Collectible Services (CCS): [www.ccspaper.com](http://www.ccspaper.com/)
@@ -39,7 +38,7 @@ If you register your collectibles in the NGC, PMG or CGC Registry programs and p
 
 If you choose to post messages in our message boards, chat rooms or other message areas or leave feedback for other users, we will collect the information you choose to disclose and we may add it to your profile. If you send us personal correspondence, such as e-mails or letters, or if other users or third parties send us correspondence about your activities or postings on the site, we may collect the information and we may add it to your profile.
 
-When you use our mobile app NGC Coin Details, we collect your user ID to identify individual users.
+When you use our mobile apps NGC and NGC Coin Details, we collect your user ID to identify individual users.
 
 It is always your choice whether or not to provide us with Personal Information. If you do provide Personal Information to the Site, you are giving your voluntary and express consent to the collection, use, processing, retention, transfer and disclosure, including international transfer and disclosure, of your Personal Information as described in this Privacy Policy. If you choose not to provide the requested information you may not be able to access certain features or functions of this Site, including the Members-Only Services. You may access, change, modify or delete your information, at any time, as described below.
 
@@ -49,7 +48,7 @@ You may revoke your consent, and/or object to or block processing of your Person
 
 ### Cookies
 
-When you visit the Site, we use session “cookies,” a piece of information stored on your computer temporarily and deleted from the user’s device when the browser is closed, to allow us to uniquely identify your browser while you are browsing or interacting with the Site. Session cookies also help us confirm your identity and are required in order to log into your account. If you wish to prevent cookies from being used as you navigate our Site, you can reset your browser to refuse all cookies and/or indicate when a cookie is being sent.
+When you visit the Site, we use session “cookies,” a piece of information stored on your computer temporarily, to allow us to uniquely identify your browser while you are browsing or interacting with the Site. Session cookies also help us confirm your identity and are required in order to log into your account. If you wish to prevent cookies from being used as you navigate our Site, you can reset your browser to refuse all cookies and/or indicate when a cookie is being sent.
 
 Users who disable their web browsers’ ability to accept cookies will be able to browse the Site, but will not be able to access or take advantage of all of the features and services on the Site. We therefore recommend you do not block or disable these cookies. To find out more about cookies, including how to see what cookies have been sent and how to manage, as well as delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/).
 
