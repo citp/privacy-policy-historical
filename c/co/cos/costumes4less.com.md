@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the costumes4less.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208090921id_/http%3A//www.costumes4less.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the costumes4less.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314194127id_/http%3A//www.costumes4less.com/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy- Halloween costumes - Costumes 4 Less
 
@@ -35,7 +35,7 @@ Costumes4Less.com® values your business and your trust. As an online retailer, 
   * If we send you a marketing email (coupons or special discounts) using the information we have, we always provide a link that allows you to "unsubscribe" ie stop receiving future emails from us.
   * Also, you are given a link which allows you to see the information we have stored and it allows you to change your password, and delete the information.
   * Furthermore, you may opt out of Google's use of cookies by visiting the [Ads Preferences Manager](https://www.google.com/settings/ads/onweb/?hl=en&sig=ACi0TCgpA-QfO00g9KMnzZDWdTq8TWoUPxTT_P1I-zwbcrRPzq1xLW-ocNrIoZktTZ8GVZfjamjXwdC_RBOmNK9TuDrlvysu2dl92S2_G0APEgOK9TBfnB9klKRN-TrZGNpGB9cn_u8jzRZjigqebq4cFAIw1Hfgd5GGl3Q0CCpUlv4C6Ee2Efs). Google also provides [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/) which allows you to instruct Google Analytics (the software we use for collecting data) JavaScript not to send any information about your website visit to Google Analytics. 
-  * You have the ability to view the information we have about you by securely [logging](https://web.archive.org/web/20161208090921id_/http%3A//www.costumes4less.com/Login.aspx "Securely login to your costumes4less.com account") into Costumes4Less.com and going to [Update Profile page](https://web.archive.org/web/20161208090921id_/http%3A//www.costumes4less.com/SignUp.aspx "Update your account information"). Here, you can also modify any information about you.
+  * You have the ability to view the information we have about you by securely [logging](https://web.archive.org/web/20170314194127id_/http%3A//www.costumes4less.com/Login.aspx "Securely login to your costumes4less.com account") into Costumes4Less.com and going to [Update Profile page](https://web.archive.org/web/20170314194127id_/http%3A//www.costumes4less.com/SignUp.aspx "Update your account information"). Here, you can also modify any information about you.
 
   
 
