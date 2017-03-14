@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vegansociety.com privacy policy that was archived on 2016-08-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160825000822id_/https%3A//www.vegansociety.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegansociety.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314080252id_/https%3A//www.vegansociety.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and cookie policy | The Vegan Society
 
@@ -223,3 +223,47 @@ This privacy policy is governed by the laws of England, Wales and Northern Irela
 ## Questions about our policies
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact us [here](https://web.archive.org/society/contact-us).
+
+## Membership
+
+Members of the public have the right to inspect company records of The Vegan Society. These are records and registers (e.g. register of members, register of directors etc.) held by the company and available for inspection at the company’s registered office. The information shared is limited to name and address.
+
+The records are kept at the registered office: The Vegan Society, 21 Hylton Street, Birmingham. B18 6HJ.  Inspections can be arranged on Monday to Friday, between 9am and 3pm. The request should state your name and address, the name of any organisation for which you are acting, the date and time you would like to come to the office and which records you would like to inspect. You must also state the purpose of your request*.
+
+We will charge members of the public £3.50 per hour (or part thereof) to inspect our records. Members of the company will not be charged and should include their membership number in written requests. You may ask for copies of company records. Please note that we can only provide electronic copies if our records are kept in electronic form.
+
+There will be a charge for copies of registers and records.
+
+*Examples of proper purposes include:
+
+  * producing statistical data of public interest in which no personal information is disclosed
+  * a member checking that their personal details are accurately recorded
+  * a member wanting to contact other members about matters relating to The Vegan Society, subject to current legislation at the time of application.
+
+
+
+We may apply for a court order to allow us to refuse a request that we consider to be improper. Examples of improper purposes might include:
+
+  * any communication that The Vegan Society considers would threaten, harass or intimidate members
+  * commercial mailings
+  * any other purpose not related to the members in their capacity as members of The Vegan Society
+
+
+
+Fee for copy of registers:
+
+  * £1 for each of the first five entries
+  * £30 for the next 95 entries or part thereof
+  * £30 for the next 900 entries or part thereof
+  * £30 for the next 99,000 entries or part thereof
+  * £30 for the remainder of the entries in the register or part thereof
+  * plus reasonable delivery costs
+
+
+
+Fee for copy of other company records:
+
+  * 10 pence per 500 words or part thereof
+  * plus reasonable delivery costs
+
+
