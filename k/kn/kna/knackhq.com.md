@@ -1,17 +1,18 @@
-> *The following text is extracted and transformed from the knackhq.com privacy policy that was archived on 2015-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150327120406id_/https%3A//www.knackhq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knackhq.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314120456id_/https%3A//www.knack.com/privacy) for the most accurate reproduction.*
 
-# Knack: Build Online Databases & Web Apps - Privacy Statement
+# Knack Privacy Terms
 
-_For Website Users and Clients_  
-_Last modified September 1st, 2012._
+_For Website Users and Clients_
+
+ _Last modified September 1st, 2012._
 
 **OVERVIEW**
 
-knackhq.com (together with its affiliates, "Knack") is committed to respecting your privacy and the privacy of the information in your account. That is why we have established this Privacy Statement. Our intention is to treat your information with utmost care and consideration. If you have questions or concerns regarding this statement, you should contact Knack as outlined below.
+knack.com (together with its affiliates, "Knack") is committed to respecting your privacy and the privacy of the information in your account. That is why we have established this Privacy Statement. Our intention is to treat your information with utmost care and consideration. If you have questions or concerns regarding this statement, you should contact Knack as outlined below.
 
 We want you to know that we are not in the business of selling or renting individuals' personal data to other companies for any purpose.
 
-This Privacy Statement contains Knack's handling of personally identifiable information that is gathered when you are on Knack's site, and when you use Knack's services. This Privacy Statement applies exclusively to the site www.knackhq.com (the "Site"). This policy does not cover or apply to the practices of organizations that use our services on their websites, that Knack does not own or control, information collected offline, or to non- Knack employees.
+This Privacy Statement contains Knack's handling of personally identifiable information that is gathered when you are on Knack's site, and when you use Knack's services. This Privacy Statement applies exclusively to the site www.knack.com (the "Site"). This policy does not cover or apply to the practices of organizations that use our services on their websites, that Knack does not own or control, information collected offline, or to non- Knack employees.
 
 **COLLECTION AND USE OF YOUR INFORMATION**
 
@@ -33,21 +34,32 @@ Knack complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Ha
 
 To learn more about the Safe Harbor program please visit: [](http://www.export.gov/safeharbor/)<http://www.export.gov/safeharbor/>
 
-To view Knack's Safe Harbor certificate, please visit:  
+To view Knack's Safe Harbor certificate, please visit:
+
 <http://safeharbor.export.gov/companyinfo.aspx?id=17657>
 
 **DISCLOSURE OF INFORMATION ABOUT YOU**
 
-Certain Knack employees have various access levels to Knack systems, including databases, for the purposes of support, backups, maintenance, debugging, and other administrative and programming activities. However, Knack will not monitor, edit, disclose, sell, or rent neither the data stored in your Knack account, nor your personally identifiable information, to anyone other than what is disclosed below. It is only under the following circumstances that we may send your information to other companies or people:   
-1\. When we have your consent to share the information.  
-2\. In the event the information disrupts the performance of Knack's servers or causes server-wide outages.  
-3\. When we need to share your information to provide you with a service or product you are requesting.  
-4\. When we need to send the information to companies that work on our behalf to process an order you have made, or so they can provide a product or service to you. Note that these companies are not allowed to use your information for any reason other than to support us in assisting you. We employ the services of third-party payment processors to complete the payment fulfillment process for purchases made on the Site.  
-5\. When we conform to edicts of the law, to respond to subpoenas, court orders, or other legal processes.  
-6\. When you have violated our Terms of Service Agreement for the service you are using or have used.  
-7\. When we act under exigent circumstances to protect the personal safety of our customers or the public.  
-8\. When we need to protect and defend the rights or property of Knack.  
-9\. From time to time we may share aggregate data about our customers with other companies. In such cases no personally identifiable data will be made available to third parties.  
+Certain Knack employees have various access levels to Knack systems, including databases, for the purposes of support, backups, maintenance, debugging, and other administrative and programming activities. However, Knack will not monitor, edit, disclose, sell, or rent neither the data stored in your Knack account, nor your personally identifiable information, to anyone other than what is disclosed below. It is only under the following circumstances that we may send your information to other companies or people:
+
+1\. When we have your consent to share the information.
+
+2\. In the event the information disrupts the performance of Knack's servers or causes server-wide outages.
+
+3\. When we need to share your information to provide you with a service or product you are requesting.
+
+4\. When we need to send the information to companies that work on our behalf to process an order you have made, or so they can provide a product or service to you. Note that these companies are not allowed to use your information for any reason other than to support us in assisting you. We employ the services of third-party payment processors to complete the payment fulfillment process for purchases made on the Site.
+
+5\. When we conform to edicts of the law, to respond to subpoenas, court orders, or other legal processes.
+
+6\. When you have violated our Terms of Service Agreement for the service you are using or have used.
+
+7\. When we act under exigent circumstances to protect the personal safety of our customers or the public.
+
+8\. When we need to protect and defend the rights or property of Knack.
+
+9\. From time to time we may share aggregate data about our customers with other companies. In such cases no personally identifiable data will be made available to third parties.
+
 10\. By using our website and our services and providing us with your personal data, you consent to this transfer of your personal data.
 
 **CHILDREN AND PRIVACY**
@@ -82,7 +94,7 @@ From time to time Knack may invite you to participate in online surveys that Kna
 
 **DEACTIVATING YOUR ACCOUNT**
 
-To deactivate your account you must login at [http://builder.knackhq.com](http://builder.knackhq.com/) and click "Delete Account".
+To deactivate your account you must login at [https://builder.knack.com](https://builder.knack.com/) and click "Delete Account".
 
 **TESTIMONIALS**
 
@@ -106,4 +118,4 @@ In providing services to our clients, it is Knack's policy to use cookies only w
 
 **COMMENTS AND SUGGESTIONS**
 
-To contact us regarding this Privacy Statement, please contact us at <http://www.knackhq.com/contact>.
+To contact us regarding this Privacy Statement, please contact us at [https://www.knack.com/contact](https://web.archive.org/contact).
