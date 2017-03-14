@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715013443id_/https%3A//adblade.com/doc/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adblade.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314041658id_/https%3A//adblade.com/doc/privacy) for the most accurate reproduction.*
 
 # Adblade - Privacy Policy
 
@@ -44,7 +44,7 @@ Adblade Targeted Advertising and How to Opt-out
 
 Every time you use Adblade services, our server may deliver certain customized information to you based on the data stored in your cookie. You may opt-out of our cookie-based targeted advertising. Click [here](https://web.archive.org/doc/opt-out-in) to view/change your preferences for the Adblade Targeted Advertising program. Adblade shall retain data collected and used for these activities only as long as necessary to fulfill a legitimate business need, or as required by law. We comply with the [FTC Online Behavioral Advertising Principles](http://www.ftc.gov/os/2009/02/P085400behavadreport.pdf).
 
-We may use third party advertising technology providers to serve advertisements and provide other services on this site and in connection with our Advertising Network. These services may include the use of web beacons, web bugs, action tags and third party cookies which read our cookies, or visa-versa, or involve the use of anonymous supplemental information (described below). To opt-out of certain behavior targeting programs not associated with Adblade, click [here](http://www.networkadvertising.org/consumer/opt_out.asp) for the Network Advertising Initiative (NAI) opt-out tool.
+We may use third party advertising technology providers to serve advertisements and provide other services on this site and in connection with our Advertising Network. These services may include the use of web beacons, web bugs, action tags and third party cookies which read our cookies, or visa-versa, or involve the use of anonymous supplemental information (described below). 
 
 "Clickstream data" is a trail of electronic information that is left at each web site you visit. This information can be collected and stored by a site's server. We may, for example, use clickstream data to tell us the type of computer and browsing software you use, the address of the site from which you encountered Adblade Advertisements, how much time you spend on each page of our site, how you navigate throughout the site and how we may tailor our web pages to better meet the needs of our users. To opt out of the Adblade Targeting Program, your browser must be set to accept cookies. If you clear your browser's cookies, you may need to opt out again.
 
