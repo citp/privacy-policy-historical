@@ -1,30 +1,27 @@
-> *The following text is extracted and transformed from the trespass.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313123211id_/http%3A//www.trespass.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trespass.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314174823id_/https%3A//www.trespass.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies | Trespass
 
-* * *
+Trespass as a company is committed to protecting your privacy. We will only use the information that we collect about you lawfully, in accordance with the Data Protection Act 1998.
 
-We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998).
-
-We collect information about you for two reasons, firstly, to process your order and second, to provide you with the best possible service. 
+We collect information about you for two reasons: firstly, to process your orders and secondly, to provide you with the best possible service and shopping experience. 
 
 We will not email you in the future unless you have given us your consent.
 
-We will give you the chance to refuse any marketing email from us or another trader in the future. 
+You will always be free to refuse any marketing emails from us or any other traders we work with now and in the future. 
 
-The type of information we will collect about you includes:
+The type of information we collect about you includes:
 
   * your name
   * address
   * phone number
   * email address
-  * credit/debit card details
 
 
 
 We will never collect sensitive information about you without your explicit consent. 
 
-The information we hold will be accurate and up to date. You can check the information that we hold about you by emailing us. If you find inaccuracies we will delete or correct it promptly. 
+The information we hold will be accurate and up to date. You can check the information that we   If you find inaccuracies we will delete or correct it promptly. 
 
 The personal information which we hold will be held securely in accordance with our internal security policy and the law.
 
@@ -34,7 +31,8 @@ We may use technology to track the patterns of behaviour of visitors to our site
 
 If you have any questions/comments about privacy, you should [contact us](https://web.archive.org/contacts "Contact Us").
 
-### Cookie Policy
+###   
+Cookie Policy
 
 Please be advised that you should only submit information through this site if you are in agreement with the terms of use as outlined in this statement.
 
@@ -107,4 +105,4 @@ We will not disclose your information to any other third parties, unless specifi
 
 Any information provided by you will be kept in the strictest confidence, only authorised suppliers and personnel will have access to it. All persons with access to your data must comply with our privacy policy and adhere to our security measures against unauthorised or unlawful use of the information and against accidental loss, damage or destruction.
 
-For more detailed information relating to data protection and the security issues surrounding it, please visit: [www.ico.gov.uk](http://www.ico.gov.uk/)
+For more detailed information relating to data protection and the security issues surrounding it, please visit: [www.ico.org.uk](https://ico.org.uk/)
