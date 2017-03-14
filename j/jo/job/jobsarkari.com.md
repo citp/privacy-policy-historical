@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the jobsarkari.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002551id_/http%3A//www.jobsarkari.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobsarkari.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315002125id_/https%3A//www.jobsarkari.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Job Sarkari
+# Privacy Policy
 
-[http://www.jobsarkari.com](http://www.jobsarkari.com/) Privacy Policy
+http://www.jobsarkari.com Privacy Policy
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. PII, as described in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -18,13 +18,13 @@ We collect information from you when you register on our site, subscribe to a ne
 
 We may use the information we collect from you when you register, make a purchase, sign up for our newsletter, respond to a survey or marketing communication, surf the website, or use certain other site features in the following ways:
 
-       **•**  To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
+**•**  To personalize your experience and to allow us to deliver the type of content and product offerings in which you are most interested.
 
-       **•**  To improve our website in order to better serve you.
+**•**  To improve our website in order to better serve you.
 
-       **•**  To allow us to better service you in responding to your customer service requests.
+**•**  To allow us to better service you in responding to your customer service requests.
 
-       **•**  To send periodic emails regarding your order or other products and services.
+**•**  To send periodic emails regarding your order or other products and services.
 
 **How do we protect your information?**
 
@@ -36,7 +36,7 @@ We do not use Malware Scanning.
 
 We do not use an SSL certificate
 
-       **•**  We only provide articles and information. We never ask for personal or private information like home addresses, or credit card numbers.
+**•**  We only provide articles and information. We never ask for personal or private information like home addresses, or credit card numbers.
 
 **Do we use ‘cookies’?**
 
@@ -44,11 +44,11 @@ Yes. Cookies are small files that a site or its service provider transfers to yo
 
 **We use cookies to:**
 
-       **•**  Understand and save user’s preferences for future visits.
+**•**  Understand and save user’s preferences for future visits.
 
-       **•**  Keep track of advertisements.
+**•**  Keep track of advertisements.
 
-       **•**  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
+**•**  Compile aggregate data about site traffic and site interactions in order to offer better site experiences and tools in the future. We may also use trusted third-party services that track this information on our behalf.
 
 You can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies. You do this through your browser settings. Since browser is a little different, look at your browser’s Help Menu to learn the correct way to modify your cookies.
 
@@ -66,7 +66,7 @@ Occasionally, at our discretion, we may include or offer third-party products or
 
 **Google**
 
-Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. <https://support.google.com/adwordspolicy/answer/1316548?hl=en>
+Google’s advertising requirements can be summed up by Google’s Advertising Principles. They are put in place to provide a positive experience for users. https://support.google.com/adwordspolicy/answer/1316548?hl=en
 
 We use Google AdSense Advertising on our website.
 
@@ -74,16 +74,16 @@ Google, as a third-party vendor, uses cookies to serve ads on our site. Google�
 
 **We have implemented the following:**
 
-       **•**  Google Display Network Impression Reporting
+**•**  Google Display Network Impression Reporting
 
-       **•**  Demographics and Interests Reporting
+**•**  Demographics and Interests Reporting
 
-       **•**  DoubleClick Platform Integration
+**•**  DoubleClick Platform Integration
 
 We, along with third-party vendors such as Google use first-party cookies (such as the Google Analytics cookies) and third-party cookies (such as the DoubleClick cookie) or other third-party identifiers together to compile data regarding user interactions with ad impressions and other ad service functions as they relate to our website.
 
 **Opting out:  
- **Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.****
+**Users can set preferences for how Google advertises to you using the Google Ad Settings page. Alternatively, you can opt out by visiting the Network Advertising Initiative Opt Out page or by using the Google Analytics Opt Out Browser add on.****
 
 Users can visit our site anonymously.
 
@@ -93,11 +93,11 @@ Our Privacy Policy link includes the word ‘Privacy’ and can be easily be fou
 
 You will be notified of any Privacy Policy changes:
 
-       **•**  On our Privacy Policy Page
+**•**  On our Privacy Policy Page
 
 Can change your personal information:
 
-       **•**  By emailing us
+**•**  By emailing us
 
 **Does our site allow third-party behavioral tracking?**
 
@@ -109,24 +109,22 @@ We do not specifically market to children under the age of 13 years old.
 
 **We collect your email address in order to:**
 
-       **•**  Send information, respond to inquiries, and/or other requests or questions
+**•**  Send information, respond to inquiries, and/or other requests or questions
 
-       **•**  Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
+**•**  Market to our mailing list or continue to send emails to our clients after the original transaction has occurred.
 
 **To be in accordance with CANSPAM, we agree to the following:**
 
-       **•**  Not use false or misleading subjects or email addresses.
+**•**  Not use false or misleading subjects or email addresses.
 
-       **•**  Honor opt-out/unsubscribe requests quickly.
+**•**  Honor opt-out/unsubscribe requests quickly.
 
-       **•**  Allow users to unsubscribe by using the link at the bottom of each email.
-
+**•**  Allow users to unsubscribe by using the link at the bottom of each email.  
 **If at any time you would like to unsubscribe from receiving future emails, you can email us at**
 
-       **•**  Follow the instructions at the bottom of each email.
+**•**  Follow the instructions at the bottom of each email.
 
-****and we will promptly remove you from   **ALL**  correspondence.****
-
+****and we will promptly remove you from   **ALL**  correspondence.****  
 **Contacting Us**
 
 If there are any questions regarding this privacy policy, you may contact us using the information below.
