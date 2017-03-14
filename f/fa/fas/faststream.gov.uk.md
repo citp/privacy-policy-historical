@@ -1,49 +1,223 @@
-> *The following text is extracted and transformed from the faststream.gov.uk privacy policy that was archived on 2008-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20081015140935id_/http%3A//www.cabinetoffice.gov.uk/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the faststream.gov.uk privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314231728id_/http%3A//www.faststream.gov.uk/privacy-and-cookies-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy and cookies policy | Civil Service Fast Stream
 
-##  Privacy policy 
+## Privacy policy
 
-  * [Terms and conditions](https://web.archive.org/terms_and_conditions.aspx "Terms and conditions")
-  * Privacy policy 
-  * [Crown copyright](https://web.archive.org/copyright.aspx "Crown copyright")
+This section describes our privacy [policy](https://web.archive.org/faqs/#1814) for www.faststream.gov.uk.
+
+We collect certain information or data about you when you use www.faststream.gov.uk. This includes your IP address, details of which version of web browser you used, information on how you use the site, using cookies and page tagging techniques to help us improve the website.
+
+This helps us to improve the site by monitoring how you use it. We can’t personally identify you using your data.
+
+### Keeping your data secure
+
+Transmitting information over the internet is generally not completely secure, and we can’t guarantee the security of your data. Any data you transmit is at your own risk.
+
+We won’t share your information with any other organisations for marketing, market research or commercial purposes, and we don’t pass on your details to other websites.
+
+### Disclosing your information
+
+We may pass on your information if we have a legal obligation to do so, or if we have to enforce or apply our terms of use and other agreements. This includes exchanging information with other government departments for legal reasons.
+
+### Links to other websites
+
+www.faststream.gov.uk contains links to other websites. This privacy policy only applies to this website. If you go to another website from this one, read the privacy policy on that website to find out what it does with your information.
+
+### Following a link to www.faststream.gov.uk from another website
+
+If you come to www.faststream.gov.uk from another website, we may receive personal information about you from the other website. You should read the privacy policy of the website you came from to find out more about this.
+
+## Cookies policy
+
+This section describes our cookies policy for www.faststream.gov.uk.
+
+www.faststream.gov.uk puts small files (known as ‘cookies’) onto your computer to collect information about how you browse the site.
+
+Cookies are used to:
+
+  * measure how you use the website so it can be updated and improved based on your needs
+  * remember the notifications you’ve seen so that we don’t show them to you again
 
 
 
-This page explains our privacy policy and how we will use and protect any information about you that you give us when you visit this website. 
+www.faststream.gov.uk cookies aren’t used to identify you personally. You’ll normally see a message on the site before we store a cookie on your computer. Find out more about [**how to manage cookies**](http://www.aboutcookies.org/).
 
-This privacy statement only covers Cabinet Office websites. It does not cover all sites that can be linked to from this site, so you should always be aware when you are moving to another site and read the privacy statement on that site. 
+### How cookies are used on www.faststream.gov.uk
 
-###  What information do we collect? 
+#### Measuring website usage (Google Analytics)
 
-From time to time, you will be asked to submit personal information about yourself (e.g. name and email address) in order to receive or use services on our website. Such services include newsletters, email updates, have your say, website feedback, send to a friend. 
+We use Google Analytics software to collect information about how you use www.faststream.gov.uk.
 
-By entering your details in the fields requested, you enable the Cabinet Office and its service providers to provide you with the services you select. Any information you provide to the Cabinet Office will only be used by us, our agents and service providers and will not be disclosed unless we are obliged or permitted to by law to do so. 
+Google Analytics stores information about:
 
-If you post or send offensive, inappropriate or objectionable content anywhere on cabinetoffice.gov.uk or otherwise engage in any disruptive behaviour on cabinetoffice.gov.uk, we may use whatever information is available to us, about you, to stop such behaviour. 
+  * how you got to the site
+  * what you click on while you’re visiting the site
+  * how long you spend on the site
+  * how long you spend on each link page you click through to
+  * What you click on once at the page you’ve clicked through to
 
-We will hold your personal information on our systems for as long as you use the service you have requested, and remove it in the event that the purpose has been met or when you no longer wish to continue your subscription. 
 
-####  Feedback 
 
-We welcome your feedback. If you contact us asking for information, we may need to contact other government departments to find that information. If your question is technical, we may need to pass it to our technology suppliers. 
+We don’t collect or store your personal information (eg your name or address) so this information can’t be used to identify who you are. We don’t allow Google to use or share our analytics data. Google Analytics sets the following cookies:
 
-We do not pass on any of your personal information when dealing with your enquiry, unless you have given us permission to do so. Once we have replied to you, we keep a record of your message for audit purposes. 
+### Universal Analytics
 
-####  Email subscriptions 
+**Name** | **Purpose** | **Expires**  
+---|---|---  
+  
+_ga
 
-Some areas of this website offer email updates. To receive these email updates, you need to register, giving: your email address; a user name; and password. We do not share the information you provide with any third parties and we protect it in accordance with the Data Protection Act. 
+| 
 
-###  The Data Protection Act 
+This helps us count how many people visit www.faststream.gov.uk by tracking if you’ve visited before
 
-Under the Data Protection Act, we have a legal duty to protect any information we collect from you. We use leading technologies and encryption software to safeguard your data, and keep strict security standards to prevent any unauthorised access to it. 
+| 
 
-We do not pass on your details to any third party or other government department. 
+2 years  
+  
+_gat
 
-###  Access to your information and contacting us 
+| 
 
-If you wish to see our records of any correspondence you have sent to us, or if you have a query or complaint about this privacy policy or about the site, you can contact us by using the [feedback form](https://web.archive.org/contactus/feedback.aspx "Feedback form"). 
+Used to manage the rate at which page view requests are made
 
-###  Changes to this privacy policy 
+| 
 
-If this privacy policy changes in any way, we will place an updated version on this page. Regularly reviewing this page ensures you are always aware of what information we collect, how we use it and under what circumstances, if any, we will share it with other parties. 
+10 minutes  
+  
+### Google Analytics
+
+**Name**
+
+| 
+
+**Purpose**
+
+| 
+
+**Expires**  
+  
+---|---|---  
+  
+_utma
+
+| 
+
+Like _ga, this lets us know if you’ve visited before, so we can count how many of our visitors are new to www.faststream.gov.uk or to a certain page
+
+| 
+
+2 years  
+  
+_utmb
+
+| 
+
+This works with _utmc to calculate the average length of time you spend on www.faststream.gov.uk
+
+| 
+
+30 minutes  
+  
+_utmc
+
+| 
+
+This works with _utmb to calculate when you close your browser
+
+| 
+
+when you close your browser  
+  
+_utmz
+
+| 
+
+This tells us how you reached this website (eg from another website or a search engine)
+
+| 
+
+6 months  
+  
+### Our introductory message
+
+You may see a pop-up welcome message when you first visit www.faststream.gov.uk. We’ll store a cookie so that your computer knows you’ve seen it and knows not to show it again.
+
+**Name**
+
+| 
+
+**Purpose**
+
+| 
+
+**Expires**  
+  
+---|---|---  
+  
+cookies_accepted
+
+| 
+
+Saves a message to let us know that you’ve seen our cookie message
+
+| 
+
+1 month  
+  
+### YouTube videos
+
+We use YouTube to provide videos on some pages of the site. YouTube sets cookies when you visit one of these pages.
+
+**Name**
+
+| 
+
+**Purpose**
+
+| 
+
+**Expires**  
+  
+---|---|---  
+  
+_use_hitbox
+
+| 
+
+This is a randomly generated number that identifies your browser
+
+| 
+
+When you close your browser  
+  
+VISITOR_INFO1_LIVE
+
+| 
+
+Lets Youtube count the views of embedded Youtube videos
+
+| 
+
+9 months  
+  
+PREF
+
+| 
+
+Lets Youtube count the views of embedded Youtube videos
+
+| 
+
+9 months  
+  
+YSC
+
+| 
+
+Lets Youtube count the views of embedded Youtube videos
+
+| 
+
+When you close your browser
