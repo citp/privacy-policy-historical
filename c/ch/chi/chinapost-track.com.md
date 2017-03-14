@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the chinapost-track.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731174929id_/http%3A//chinapost-track.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chinapost-track.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314131611id_/http%3A//chinapost-track.com/privacy-policy) for the most accurate reproduction.*
 
 # ChinaPost-Track.com - Privacy Policy.
 
 ## Information Collection and Use
 
 Chinapost-track.com is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Chinapost-track.com collects information from our users at several different points on our website. 
+
+Full Info Below
 
 ## Notification of Changes
 
