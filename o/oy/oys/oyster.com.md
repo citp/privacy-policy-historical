@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oyster.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221181638id_/https%3A//www.oyster.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oyster.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314133423id_/https%3A//www.oyster.com/about/privacy) for the most accurate reproduction.*
 
 # Oyster Privacy Policy | Oyster.com Hotel Reviews and Photos | Oyster.com
 
