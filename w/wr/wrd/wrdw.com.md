@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the wrdw.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026013851id_/http%3A//www.wrdw.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wrdw.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314185502id_/http%3A//www.wrdw.com/content/news/%3Farticle%3D158509635) for the most accurate reproduction.*
 
 # Gray Television, Inc. PRIVACY POLICY and YOUR CALIFORNIA PRIVACY RIGHTS
 
-Posted: Wed 4:50 PM, Jan 27, 2016  | 
+Posted: Wed 12:19 PM, Jun 13, 2012  | 
 
-Updated: Mon 4:47 PM, Jul 18, 2016 
+Updated: Mon 12:47 PM, Mar 06, 2017 
 
 **In addition to this Privacy Policy, user generated content that may be offered on our Web Channels is also subject to the Privacy Policy of the "My Capture" service. Please see the separate privacy policy for[ _MyCapture_](http://secondstreet.com/terms/).**
 
