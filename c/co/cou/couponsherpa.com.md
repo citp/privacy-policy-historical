@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the couponsherpa.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122200450id_/http%3A//www.couponsherpa.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the couponsherpa.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314192002id_/http%3A//www.couponsherpa.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for CouponSherpa.com
 
@@ -22,12 +22,28 @@ iOS App: You can opt-out from any interest-based advertising. Go on Settings. Pr
  **What do we use your information for?**  
 Any of the information we collect from you may be used in one of the following ways:
 
+  * To personalize your experience  
+(your information helps us to better respond to your individual needs)
+  * To improve our website  
+(we continually strive to improve our website offerings based on the information and feedback we receive from you)
+  *  To improve customer service  
+(your information helps us to more effectively respond to your customer service requests and support needs)
+  *  To administer a contest, promotion, survey or other site feature
+  *  To send periodic emails  
+The email address you provide for order processing, will only be used  to send you information and updates pertaining to your order.
+
+
+
 If you decide to opt-in to our mailing list, you will receive emails that may include company news, updates, related product or service information, etc.
 
 Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
 
- **Do we use cookies and web beacons?**  
-We and the third parties we authorize may receive and store certain types of non-personally identifiable information whenever you interact with us by using “cookies,” “web beacons” and analogous technology. “Cookies” are small files that are placed on your computer or your internet browser memory to enable the owner of the cookie to recognize your browser and to provide convenience and other features to you. It is important to note that the cookies that we use, or permit others to use, do not contain and are not tied to personally-identifiable information about you. You may be able to direct your internet browser not to allow cookies and you can typically delete existing cookies from your computer at any time. Please note, however, if you set such browser settings or delete existing cookies then some elements of our website may not function properly or be available to you.
+In addition to other information described in this policy, we may collect and share precise location information, through methods such as mobile "SDKs". This location information may be used by itself, aggregated, or combined with mobile identifiers (such as IDFAs and Android IDs), and shared with third parties, for purposes related to advertising, attribution (e.g., measuring ad performance) analytic and research. You can remove your consent to having your location data collected by changing the settings on your device.(Certain services may lose functionality as a result.)
+
+You can opt-out from any interest-based advertising through your device settings. When you have opted out using this setting on a device, advertisers will not use in-app information collected from that device to infer your interests or serve ads to that device that are targeted based on your inferred interests.
+
+**Do we use cookies and web beacons?**  
+We and the third parties we authorize may receive and store certain types of non-personally identifiable information whenever you interact with us by using "cookies", "web beacons" and analogous technology. "Cookies" are small files that are placed on your computer or your internet browser memory to enable the owner of the cookie to recognize your browser and to provide convenience and other features to you. It is important to note that the cookies that we use, or permit others to use, do not contain and are not tied to personally-identifiable information about you. You may be able to direct your internet browser not to allow cookies and you can typically delete existing cookies from your computer at any time. Please note, however, if you set such browser settings or delete existing cookies then some elements of our website may not function properly or be available to you.
 
 We also work with and permit certain third parties, including, but not limited to advertising networks and website analysis firms, to place cookies on your computer or browser when you view, click or otherwise interact with advertisements that are featured on our website. These third party cookies and analogous technology are used to gather non-personally identifiable information about your activities on our website and third party sites you may visit to serve you with advertisements that are relevant to your interests and preferences while you are on third party sites. Some of these third parties participate in the Digital Advertising Alliance (“DAA”), an industry self-regulatory program to give consumers a better understanding of and greater control over ads that are customized based on their online behavior across different web sites. To learn more and make choices about preference-based ads from participating third parties, please visit the DAA website at www.aboutads.info.
 
