@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yeswevibe.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919012256id_/http%3A//yeswevibe.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yeswevibe.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314190757id_/https%3A//yeswevibe.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – YesWeVibe
 
