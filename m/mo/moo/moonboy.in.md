@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moonboy.in privacy policy that was archived on 2016-07-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160719153130id_/https%3A//www.moonboy.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moonboy.in privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314030203id_/https%3A//www.moonboy.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
