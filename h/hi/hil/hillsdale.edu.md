@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the hillsdale.edu privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329043427id_/http%3A//www.hillsdale.edu/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hillsdale.edu privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314210722id_/https%3A//www.hillsdale.edu/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Hillsdale College
 
-## Privacy Policy
-
-Welcome visitors!  This Privacy Policy explains the information collected by Hillsdale College from visitor activity at [www.hillsdale.edu](http://hillsdale.edu/home) (the “Site”) and how we use it.
+Welcome visitors!  This Privacy Policy explains the information collected by Hillsdale College from visitor activity at [hillsdale.edu](http://www.hillsdale.edu/) (the “Site”) and how we use it.
 
 #### How you accept this Policy
 
@@ -22,11 +20,11 @@ We do not collect information that is personally identifiable unless you provide
 
 #### Agent
 
-An “Agent” is any third party that collects or uses personal information under the instructions of, and solely for, Hillsdale College, or a third party to which Hillsdale College discloses personal information for use on Hillsdale College 's behalf.  Agents shall comply with the privacy obligations stated in this Policy.
+An “Agent” is any third party that collects or uses personal information under the instructions of, and solely for, Hillsdale College, or a third party to which Hillsdale College discloses personal information for use on Hillsdale College ‘s behalf.  Agents shall comply with the privacy obligations stated in this Policy.
 
 How you can access or change the PI that we have collected:  If you have provided PI to us and wish to revoke our use of it, you will need to email us a written request to cease use of your name and email address.
 
-#### Information About Children  
+#### Information About Children
 
 We do not knowingly collect personally identifiable information from children under the age of 13.
 
