@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the luxoft.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119074505id_/http%3A//www.luxoft.com/online-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the luxoft.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314143831id_/https%3A//www.luxoft.com/online-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -90,7 +90,7 @@ The following policy will give you an overview of how we guarantee your privacy 
 
 4.4. Except as provided in this policy, we will not provide your personal information to third parties. 
 
-4.5. The personal data that we collect may be stored, processed and transferred between any countries and locations in which Luxoft operates in order to enable us to use the information in accordance with this Policy. Here is the[ list](http://www.luxoft.com/global-presence/) of Luxoft locations. 
+4.5. The personal data that we collect may be stored, processed and transferred between any countries and locations in which Luxoft operates in order to enable us to use the information in accordance with this Policy. Here is the [ list](https://web.archive.org/luxoft-overview/#location) of Luxoft locations. 
 
 ###  5\. Retaining personal information 
 
