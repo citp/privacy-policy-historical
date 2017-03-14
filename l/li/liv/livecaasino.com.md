@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the livecaasino.com privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414162042id_/http%3A//www.livecaasino.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the livecaasino.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314082854id_/http%3A//www.livecaasino.com/privacy_policy) for the most accurate reproduction.*
 
 # livecaasino.com - Privacy Policy
 
