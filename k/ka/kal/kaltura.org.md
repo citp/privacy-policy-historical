@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kaltura.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119144158id_/https%3A//corp.kaltura.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kaltura.org privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314232253id_/https%3A//corp.kaltura.com/privacy-policy) for the most accurate reproduction.*
 
-# Kaltura Privacy Notices | Kaltura
+# Kaltura Privacy Notices | Kaltura br
 
 These privacy notices provide important information about how Kaltura, Inc. (“ **Kaltura** ”) collects, uses, processes, protects, and discloses information when you use the Kaltura Websites and the Kaltura Platform.
 
