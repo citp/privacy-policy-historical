@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the go4worldbusiness.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234202id_/http%3A//www.go4worldbusiness.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the go4worldbusiness.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314044817id_/https%3A//www.go4worldbusiness.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - How we use the information your provide on the website.
 
