@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyst.co.uk privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226235624id_/https%3A//www.lyst.co.uk/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyst.co.uk privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314200154id_/https%3A//www.lyst.co.uk/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
