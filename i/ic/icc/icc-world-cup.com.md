@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icc-world-cup.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603115304id_/http%3A//www.icc-world-cup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icc-world-cup.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314055444id_/http%3A//www.icc-world-cup.com/privacy-policy) for the most accurate reproduction.*
 
 # ICC World Cup, Cricket World Cup 2015, World Cup Cricket Live Streaming - Privacy Policy – CWC
 
