@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416210005id_/https%3A//www.ourfamilywizard.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ourfamilywizard.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314084014id_/https%3A//www.ourfamilywizard.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | OurFamilyWizard.com
+# Privacy Policy | Our Family Wizard
 
 Please read the following to learn more about our privacy policy.
 
