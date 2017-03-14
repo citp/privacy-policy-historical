@@ -1,17 +1,14 @@
-> *The following text is extracted and transformed from the appsflyer.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128061736id_/https%3A//www.appsflyer.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appsflyer.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314104312id_/https%3A//www.appsflyer.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - AppsFlyer
 
-This Privacy Policy covers our collection, use and disclosure of information AppsFlyer (“We”, “Us” or “Our”) collects through its owned and operated websites such as Appsflyer.com, onelink.me and its subdomains, software development kit (“SDK”), and API’s; including our Platforms hosted on our websites. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information. 
+This Privacy Policy covers our collection, use and disclosure of information AppsFlyer (“We”, “Us” or “Our”) collects through its owned and operated websites such as Appsflyer.com, onelink.me and its subdomains, software development kit (“SDK”), and API’s; including our Platforms hosted on our websites. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
-Our software development kit and API’s allows the tracking of mobile application use, installations and downloads. This privacy policy explains how we make use of data and information received from our customers that integrate our software development kit with their mobile application (“Customers”) and the end-users of those Customers (“End Users”). If not specifically defined herein, capitalized terms have the meaning given to them in the AppsFlyer Terms of Use, which is available at [https://www.appsflyer.com/terms-of-use](https://www.appsflyer.com/terms-of-use/).
+Our software development kit and API’s allows the tracking of mobile application use, installations and downloads. This privacy policy explains how we make use of data and information received from our customers that integrate our software development kit with their mobile application (“Customers”) and the end-users of those Customers (“End Users”). If not specifically defined herein, capitalized terms have the meaning given to them in the AppsFlyer Terms of Use, which is available at https://www.appsflyer.com/terms-of-use/.
 
 We collect information under the direction of our Customers, and have no direct relationship with the individuals whose data we process. We respect the right to privacy of Customers and End Users. Your ability to make informed choices about the use of your information is important to us. This privacy policy explains our policy regarding the collection, use, disclosure and protection of any information we receive.
 
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
-
-This privacy policy and our practices have been reviewed and certified for compliance with the TRUSTe program. To view more details regarding our certification, please visit the validation page by clicking on the TRUSTe seal below:  
-
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). 
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=3418070a-3e1d-4e66-936b-3a1599307a35)
 
@@ -21,15 +18,15 @@ In order to receive the AppsFlyer Services, Customers will be required to regist
 
 **Analytics End Users Information We Collect**
 
-Customers that use our Services to track the use of their mobile application will provide us with information regarding the characteristics and activities of their End Users, including information regarding downloads and installations of such mobile application and any information regarding in-app events such as in-app purchases. AppsFlyer obtains this information as a result of data being sent to our servers from our SDK in an End User’s mobile application. The data collected by the SDK includes information such as IP address, User agent, platform, SDK version, anonymous User ID, time stamp Developer Key, application version, device identifiers such as: IDFA (Identifier For Advertisers), Android ID (Android device), Google Advertiser ID, device model, manufacture, OS version, in-app events, and network status (WiFi/3G). End User data collected by the AppsFlyer platform is presented to our Customers to analyze their applications. We provide our Customers with aggregated and anonymous benchmark data.
+Customers that use our Services to track the use of their mobile application will provide us with information regarding the characteristics and activities of their End Users, including information regarding downloads and installations of such mobile application and any information regarding in-app events such as in-app purchases. AppsFlyer obtains this information as a result of data being sent to our servers from our SDK in an End User’s mobile application. The data collected by the SDK includes information such as IP address, User agent, platform, SDK version, anonymous User ID, time stamp Developer Key, application version, device identifiers such as: IDFA (Identifier For Advertisers), Android ID (Android device), Google Advertiser ID, device model, manufacture, OS version, in-app events, and network status (WiFi/3G). End User data collected by the AppsFlyer platform is presented to our Customers to analyze their applications. We provide our Customers with aggregated and anonymous benchmark data.
 
-In certain instances, our Customers may choose to connect and integrate our platform with third parties that have partnered with AppsFlyer. In order to do this, our Customers have to actively set parameters that allow for such integration and measurement. In such instances, information collected and processed may be provided to both the Customer and their partner networks. Here, we are again acting as a third party processor on behalf on our Customers. Please review the privacy policy of our partner associated with the application in question.
+In certain instances, our Customers may choose to connect and integrate our platform with third parties that have partnered with AppsFlyer. In order to do this, our Customers have to actively set parameters that allow for such integration and measurement. In such instances, information collected and processed may be provided to both the Customer and their partner networks.  Here, we are again acting as a third party processor on behalf on our Customers. Please review the privacy policy of our partner associated with the application in question.
 
 **End User Opt-Out Provision**
 
-If you are an End User, you can opt-out of AppsFlyer Analytics tracking by emailing us at [privacy@appsflyer.com](mailto:privacy@appsflyer.com). If you no longer wish to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly. 
+If you are an End User, you can opt-out of AppsFlyer Analytics tracking by emailing us at [privacy@appsflyer.com](mailto:privacy@appsflyer.com) or by completing the opt out form [here](https://www.appsflyer.com/optout). If you no longer wish to be contacted by one of our Customers that use our service, please contact the Customer that you interact with directly.
 
-The opt-out is specific to AppsFlyer activities and does not affect other tools such as ad networks and other analytics that your services provider may use. If you are an End User and choose to opt-out; we will stop tracking data for that device going forward. The AppsFlyer Analytics tracking will stop across all applications.
+The opt-out is specific to AppsFlyer activities and does not affect other tools such as ad networks and other analytics that your services provider may use.  If you are an End User and choose to opt-out; we will stop tracking data for that device going forward. The AppsFlyer Analytics tracking will stop across all applications.
 
 **How We Use Information**
 
@@ -55,15 +52,15 @@ We may transfer Personal Information within AppsFlyer’s subsidiaries and branc
 
 **EU-US Privacy Shield Framework**
 
-AppsFlyer is committed to upholding the principles of the EU-US Privacy Shield Framework, as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Information from Customers and/or End Users in the European Union member countries. AppsFlyer, Inc. has certified that it adheres to the Privacy Shield principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. If there is any conflict between the provisions of this Privacy Policy and the Privacy Shield principles, the Privacy Shield principles shall govern with respect to Personal Information of persons residing in the EU.
+AppsFlyer is committed to upholding the principles of the EU-US Privacy Shield Framework, as set forth by the US Department of Commerce regarding the collection, use, and retention of Personal Information from Customers and/or End Users in the European Union member countries. AppsFlyer, Inc. has certified that it adheres to the Privacy Shield principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, recourse, enforcement and liability. If there is any conflict between the provisions of this Privacy Policy and the Privacy Shield principles, the Privacy Shield principles shall govern with respect to Personal Information of persons residing in the EU. 
 
-We are committed to attempt to resolve privacy complaints under the EU-US Privacy Shield principles. If you have an unresolved Privacy Shield-related complaint that was not addressed satisfactorily, please contact our US-based third party dispute resolution provider TRUSTe, free of charge, at https://feedback-form.truste.com/watchdog/request. The Federal Trade Commission (FTC) has jurisdiction over AppsFlyer, Inc.’s compliance with the Privacy Shield. Under certain conditions, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. To learn more about the Privacy Shield Framework, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/).
+We are committed to attempt to resolve privacy complaints under the EU-US Privacy Shield principles. If you have an unresolved Privacy Shield-related complaint that was not addressed satisfactorily, please contact our US-based third party dispute resolution provider, free of charge, at [https://feedback-form.truste.com/watchdog/request](https://feedback-form.truste.com/watchdog/request). The Federal Trade Commission (FTC) has jurisdiction over AppsFlyer, Inc.’s compliance with the Privacy Shield. Under certain conditions, you may invoke binding arbitration when other dispute resolution procedures have been exhausted. To learn more about the Privacy Shield Framework, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/) .
 
 **Tracking Technologies on Our Website**
 
-IIn operating the Services, we along with our third party partners may use tracking technologies such as cookies, E-Tags, JavaScript, beacons and Local Storage such as HTML5. Our third party partners also use Local Shared Objects (LSOs) such as Flash.
+In operating the Services, we along with our third party partners may use tracking technologies such as cookies, E-Tags, JavaScript, beacons and Local Storage such as HTML5. Our third party partners also use Local Shared Objects (LSOs) such as Flash.
 
-AA cookie is a small piece of text that is sent to a browser. The browser provides this piece of text to the originating server when the visitor returns. AppsFlyer uses cookies to help implement its tracking technology. AppsFlyer does not store any Personal Information in cookies. Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. Please note that some features of AppsFlyer may not function properly when cookies are disabled or removed.
+A cookie is a small piece of text that is sent to a browser. The browser provides this piece of text to the originating server when the visitor returns.  AppsFlyer uses cookies to help implement its tracking technology. AppsFlyer does not store any Personal Information in cookies. Most Web browsers are initially configured to accept cookies, but you can change this setting so your browser either refuses all cookies or informs you when a cookie is being sent. Also, you are free to delete any existing cookies at any time. Please note that some features of AppsFlyer may not function properly when cookies are disabled or removed.
 
 E-Tag is a technology that is part of the standard HTTP protocol that allows our website to validate temporary storage (cache) of our pages and images. This ensures that you are viewing the latest version of our website since your last visit.
 
@@ -75,7 +72,7 @@ Beacons are clear graphic image(s) of 1×1 pixel that is delivered through a web
 
 As is true of most websites, we gather certain information automatically, such as Internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system and/or clickstream data.
 
-We advertise our services on other sites. Such sites may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of such advertising, please click [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
+We advertise our services on other sites. Such sites may use cookies or similar technologies in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of such advertising, please click [here](http://preferences-mgr.truste.com/). Please note you will continue to receive generic ads.
 
 **Use of AppsFlyer by Children**
 
@@ -101,7 +98,7 @@ Our website includes links to other websites whose privacy practices may differ 
 
 You may choose to receive our Newsletter, which provide you with updates and weekly tips. Your email address is required to sign up. You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails, accessing the email preferences in your account settings page, or you can contact us at [contact@appsflyer.com](mailto:contact@appsflyer.com)
 
-We may also send you service related non-promotional email announcements on rare occasions when it is necessary to do so, for example, during provision of maintenance services.
+We may also send you service related non-promotional email announcements on rare occasions when it is necessary to do so, for example, during provision of maintenance services. .
 
 **Commitment to protecting children’s privacy**
 
@@ -109,7 +106,7 @@ We may also send you service related non-promotional email announcements on rare
 
 **Access to Data**
 
-We have no direct relationship with the individuals whose personal data we process. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the service provider (the data controller). If an End User requests us to remove the data, we will respond to their request within a reasonable timeframe.
+We have no direct relationship with the individuals whose Personal Information we process. An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data should direct his query to the service provider (the data controller). If an End User wishes us to remove his or her Personal Information stored with us (if any), he or she may send us an e-mail to [privacy@appsflyer.com](mailto:privacy@appsflyer.com), and we will respond to their request within a reasonable timeframe.
 
 **Data Retention**
 
