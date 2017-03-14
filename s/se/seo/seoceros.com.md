@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seoceros.com privacy policy that was archived on 2015-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150322074903id_/https%3A//seoceros.com/en/search-engine-optimization/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seoceros.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314043642id_/https%3A//seoceros.com/en/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
