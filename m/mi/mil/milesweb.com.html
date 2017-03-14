@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the milesweb.com privacy policy that was archived on 2016-09-13.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160913171406id_/https%3A//www.milesweb.com/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the milesweb.com privacy policy that was archived on 2017-03-14.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/privacy-policy.php) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en-gb" class="no-js"><!--<![endif]--><head>
+<!DOCTYPE html><html lang="en-gb" class=" js opacity generatedcontent pointerevents js" style=""><!--<![endif]--><head>
 	<title>Privacy Policy - MilesWeb Internet Services</title>
 	
 	<meta charset="utf-8">
@@ -10,7 +10,7 @@
     
 <!-- HEADER -->
 
-
+	<script async="" src="https://embed.tawk.to/57021bf43a48b09e318fa6c5/default" charset="UTF-8" crossorigin="*"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script src="https://www.google.com/recaptcha/api.js"></script>
     <!-- Favicon -->
 	<link rel="shortcut icon" href="images/favicon.ico">
 
@@ -31,7 +31,8 @@
     <link rel="stylesheet" href="css/reset.css" type="text/css">
 	<link rel="stylesheet" href="css/style.css" type="text/css">
 
-    <link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">
+    <!--<link rel="stylesheet" href="css/font-awesome/css/font-awesome.min.css">-->
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 
     <!-- responsive devices styles -->
 	<link rel="stylesheet" media="screen" href="css/responsive-leyouts.css" type="text/css">
@@ -82,9 +83,71 @@
 
     <!-- dropdown -->
     <link rel="stylesheet" type="text/css" href="dropdown/style.css">
-	<script async="" src="https://embed.tawk.to/57021bf43a48b09e318fa6c5/default" charset="UTF-8" crossorigin="*"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="dropdown/modernizr.custom.79639.js"></script>
+	<script type="text/javascript" src="dropdown/modernizr.custom.79639.js"></script>
 	<noscript><link rel="stylesheet" type="text/css" href="dropdown/noJS.css" /></noscript>
 	<!-- Currency Change -->
+	<style>
+		.btm-bar{z-index:999;width:100%;min-height:40px;color:#fff;background:#264a69;position:fixed;bottom:0;overflow:auto;padding:10px 330px 0 10px;font-size:13px;box-shadow:0 0 3px #000;box-sizing:border-box;}
+		.btm-bar a{color:#fff;}
+		.btm-btn,.quot-btn{border:1px solid #f26522;padding:2px 7px;margin:0 3px;margin-right:10px;font-weight:bold;box-sizing:border-box;}
+		.quot-btn:hover{cursor:pointer;color:#f26522;} 
+		@media screen and (max-width:1100px){
+			.sms-back{display:none;}
+		}	
+		@media screen and (max-width:800px){
+			.hid-btm{display:none;}
+			.btm-bar{padding:10px 0 0 10px;}
+		}	
+		@media screen and (max-width:550px){
+			#jumbo_quot{width:100%;top:10px;left:0;padding:5px;}
+			#quotcancel{right:20px;padding:3px 7px;font-size:30px;}
+			#thnkumsg{font-size:16px;line-height:1.3em;left:2%;width:96%;}
+			#thnkumsg .fa{font-size:20px;}
+		}
+		
+		#vpsOfferBox{z-index:999;position:fixed;bottom:50px;left:20px;background:rgba(0,0,0,0.9);color:#fff;padding:20px 30px;display:none;border:1px solid #c83c57;}
+		#vpsOfferBox a{text-decoration:underline;color:#fff;}
+		.click-to-close{display:block;overflow:auto;color:#fff;background:#c83c57;text-align:center;font-size:22px;font-weight:bold;position:absolute;width:25px;height:25px;padding:5px;top:-10px;right:-15px;border-radius:50%;}
+		.click-to-close:hover{cursor:pointer;}
+		.offer-top-hdr{width:100%;display:block;font-size:30px;font-weight:bold;text-align:center;color:#f26c31;margin-bottom:10px;}
+		@media screen and (max-width:1000px){
+			#vpsOfferBox{left:15px;padding:10px 20px;font-size:15px;}
+			.offer-top-hdr{font-size:25px;}
+		}
+		@media screen and (max-width:800px){
+			#vpsOfferBox{width:50%;text-align:center;left:10px;padding:10px;font-size:14px;}
+			.offer-top-hdr{font-size:20px;margin-bottom:5px;}
+		}
+		@media screen and (max-width:650px){
+			#vpsOfferBox{width:45%;left:5px;padding:5px;}
+			.offer-top-hdr{font-size:18px;}
+		}
+		@media screen and (max-width:550px){
+			#vpsOfferBox{width:80%;padding:10px;}
+		}
+		@media screen and (max-width:400px){
+			#vpsOfferBox{left:10px;}
+		}
+		
+		/*get a quote*/ 
+		#jumbo_quot{box-sizing:border-box;width:500px;height:auto;display:none;position:fixed;overflow:auto;top:10px;left:calc(50% - 250px);left:-moz-calc(50% - 250px);left:-webkit-calc(50% - 250px);padding:0;background:rgba(1,47,68,0.9);border:2px solid #eee;box-shadow:0 0 7px #021c31;z-index:9999;}
+		#jumbo_quot *{box-sizing:border-box;}
+		.hdr-quot{text-align:center;color:#000;background:#eee;padding:20px 0;}
+		.getquot{width:350px;margin:0 auto;color:#fff;display:block;margin-top:50px;margin-bottom:50px;}
+		.getquot label{display:none;font-size:18px;margin-bottom:10px;}
+		.getquot input[type="text"], .getquot input[type="email"] {color:#fff;background:none;border:none;border-bottom:1px solid #83a9bb;margin-bottom:20px;padding:5px;font-size:18px;}
+		.getquot textarea {width:100%;height:70px;padding:5px;color:#fff;background:none;border:1px solid #aaa;}
+		.getquot input[type="text"], .getquot input[type="email"], .getquot textarea {width:100%;}
+		.getquot input[type="submit"]{width:100%;font-size:20px;color:#fff;background:#00a651;border:none;box-shadow:none;display:block;padding:8px 25px;margin-top:20px;}
+		.getquot input[type="submit"]:hover{background:#2e8299;cursor:pointer;}
+		#jumbo_quot iframe{width:100%;height:300;}
+		#quotcancel{display:block;position:fixed;top:25px;right:-moz-calc(50% - 240px);padding:5px 10px;font-size:40px;color:#fff;background:#c83c57;border-radius:50%;}
+		#quotcancel:hover{cursor:pointer;} 
+		#thnkumsg{font-size:18px;line-height:1.4em;text-align:center;box-sizing:border-box;display:none;position:fixed;top:40vh;left:20%;width:60%;height:auto;color:#fff;background:#00a651;box-shadow:0 0 2px #005826 inset;border-radius:10px;padding:20px 40px;z-index:9999;}
+		#thnkumsg *{box-sizing:border-box;}
+		#thnkumsg .fa{font-size:25px;background:#c83c57;padding:5px 7px;border-radius:50%;position:absolute;top:-12px;right:-12px;}
+		#thnkumsg .fa:hover{cursor:pointer;}
+	</style>
 	
 	<!-- Image Protection -->
 	<script type="text/javascript">
@@ -94,9 +157,25 @@
 	};
 	</script>
 	<!-- Image Protection -->
-</head>
-<body>
+	
+	
+	
+	<!-- Facebook Pixel Code targeting -->
+	<script>
+		!function(f,b,e,v,n,t,s){
+		if(f.fbq)return;n=f.fbq=function(){n.callMethod?n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,	document,'script','https://connect.facebook.net/en_US/fbevents.js');
+		fbq('init', '955597744475682'); // Insert your pixel ID here.
+		fbq('track', 'PageView');
+	</script>
+	
+	<!-- DO NOT MODIFY -->
+	<!-- End Facebook Pixel Code -->
 
+	 
+</head>
+
+<body class="bg-cover" style="zoom: 1;">
+<noscript><img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=955597744475682&ev=PageView&noscript=1"/></noscript>
 <div class="site_wrapper">
 
 <div class="top_section">
@@ -111,7 +190,7 @@
 
     	<ul>
 			<li><a href="javascript:void(Tawk_API.toggle())"><strong><i class="fa fa-comments"></i> Live Chat</strong></a></li>
-            <li><strong><i class="fa fa-headphones"></i> Toll Free India: 1800-270-0335</strong></li>
+            <li><strong><i class="fa fa-headphones"></i> Sales : 888-888-9995</strong></li>
 			<li><a href="https://www.milesweb.com/clientarea.php"><strong><i class="fa fa-sign-in"></i> Client Login</strong></a></li>
 			<li><a href="https://www.milesweb.com/support.php"><strong><i class="fa fa-user-md"></i> Contact</strong></a></li>
         </ul>
@@ -122,7 +201,7 @@
 
 
 <!-- HEADER -->
-<header id="header">
+<header id="header" style="height: 68px;">
 
 	<!-- Top header bar -->
 	<div id="trueHeader">
@@ -144,7 +223,7 @@
 				<ul id="tiny">
 
                     <li><a href="web-hosting.php"><i class="fa fa-globe"></i> Hosting &amp; Domain<i class="fa fa-angle-down"></i></a>
-                        <ul>
+                        <ul style="display: none; top: 40px; visibility: visible;">
 							<li><a href="cpanel-hosting.php">Business Hosting</a></li>
 							<li><a href="wordpress-hosting.php">WordPress Hosting</a></li>
 							<li><a href="reseller-hosting.php">Reseller Hosting</a></li>
@@ -157,10 +236,10 @@
 
 
                     <li><a href="#"><i class="fa fa-tasks"></i> Servers<i class="fa fa-angle-down"></i></a>
-                        <ul>
+                        <ul style="display: none; top: 40px; visibility: visible;">
                             <li><a href="vps-hosting.php">VPS</a>
-							<ul>
-							<li><a href="managed-vps.php">Managed OpenVZ VPS</a></li>
+							<ul style="display: none; top: 0px; visibility: visible;">
+							<li><a href="vps-hosting.php">Managed OpenVZ VPS</a></li>
 							<li><a href="self-managed-vps.php">Self-Managed OpenVZ VPS</a></li>
 							<li><a href="managed-kvm-vps.php">Managed KVM VPS</a></li>
 							<li><a href="self-managed-kvm-vps.php">Self-Managed KVM VPS</a></li>
@@ -173,35 +252,33 @@
                     </li>
 
                     <li><a href="#"><i class="fa fa-lock"></i> Security<i class="fa fa-angle-down"></i></a>
-						<ul>
+						<ul style="display: none; top: 40px; visibility: visible;">
 							<li><a href="email-spam-protection.php">Email Spam Protection</a></li>
                             <li><a href="ssl-certificates.php">SSL Certificate</a></li>
 							<li><a href="backup.php">Backup Service</a></li>
-							<li><a href="server-infrastructure-management.php">Server Management</a></li>
                         </ul>
 						</li>
 
                     <li><a href="#"><i class="fa fa-building"></i> Company<i class="fa fa-angle-down"></i></a>
-						<ul>
+						<ul style="display: none; top: 40px; visibility: visible;">
                             <li><a href="about-us.php">About Us</a></li>
-							<li><a href="why-milesweb.php">Why Us</a></li>
 							<li><a href="datacenters.php">Data Centers</a></li>
 							<li><a href="reviews.php">Read Client Reviews</a></li>
 							<li><a href="https://www.milesweb.com/blog/">Read Our Blog</a></li>
 							<li><a href="https://www.milesweb.com/hosting-faqs/">Knowledge Center</a></li>
 							<li><a href="https://www.milesweb.com/forums/">Community</a></li>
-							<li><a href="https://www.milesweb.com/white-papers.php">White Papers</a></li>
+							<li><a href="https://www.milesweb.com/events.php">Events</a></li>
                         </ul>
 						</li>
 
 
                     <li><a href="#"><i class="fa fa-group"></i> Partner with us<i class="fa fa-angle-down"></i></a>
-						<ul>
+						<ul style="display: none; top: 40px; visibility: visible;">
                             <li><a href="affiliates.php">Affiliates</a></li>
                         </ul>
 						</li>
 
-                </ul>
+                </ul><select class="selectnav" id="selectnav1"><option value="">--- Navigation --- </option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/web-hosting.php">Hosting &amp; Domain</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/cpanel-hosting.php">- Business Hosting</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/wordpress-hosting.php">- WordPress Hosting</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/reseller-hosting.php">- Reseller Hosting</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/affordable-hosting.php">- Affordable Hosting</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/windows-hosting.php">- Windows Hosting</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/email-hosting.php">- Business Class Email</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/domains.php">- Domain Names</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/privacy-policy.php#">Servers</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/vps-hosting.php">- VPS</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/vps-hosting.php">-- Managed OpenVZ VPS</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/self-managed-vps.php">-- Self-Managed OpenVZ VPS</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/managed-kvm-vps.php">-- Managed KVM VPS</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/self-managed-kvm-vps.php">-- Self-Managed KVM VPS</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/windows-vps.php">-- Windows VPS</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/virtual-dc.php">-- Become VPS Reseller</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/cloud-hosting.php">- Cloud</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/dedicated-servers.php">- Dedicated Servers</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/privacy-policy.php#">Security</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/email-spam-protection.php">- Email Spam Protection</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/ssl-certificates.php">- SSL Certificate</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/backup.php">- Backup Service</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/privacy-policy.php#">Company</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/about-us.php">- About Us</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/datacenters.php">- Data Centers</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/reviews.php">- Read Client Reviews</option><option value="https://www.milesweb.com/blog/">- Read Our Blog</option><option value="https://www.milesweb.com/hosting-faqs/">- Knowledge Center</option><option value="https://www.milesweb.com/forums/">- Community</option><option value="https://www.milesweb.com/events.php">- Events</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/privacy-policy.php#">Partner with us</option><option value="https://web.archive.org/web/20170314144934id_/https%3A//www.milesweb.com/affiliates.php">- Affiliates</option></select>
             </div>
 
         </nav><!-- end nav menu -->
@@ -429,6 +506,11 @@
 </div><!-- end content area -->
   
 
+
+<div class="btm-bar">
+	<a class="btm-btn" href="https://www.milesweb.com/support.php">Contact Support</a> <span class="hid-btm"> Sales : 888-888-9995 </span><span class="sms-back">| To request a call back from sales team SMS MWSALES to 888-888-9995</span>
+	<span class="quot-btn" onclick="quotDisplay()">Get Quote</span>
+</div>
 <div class="bottom_section">
 
 	<div class="waves_graph2"></div>
@@ -447,96 +529,86 @@
 
 	<div class="container">
     	
-        <div class="one_fourth">
+        <div class="one_fifth">
         
-        	<h3>Our Hosting Services</h3>
+        	<h3>SERVICES</h3>
             
             <ul class="list">
-            <li><a href="domains.php"><i class="fa fa-angle-right"></i> Domain Names</a></li>
-			<li><a href="web-hosting.php"><i class="fa fa-angle-right"></i> Web Hosting</a></li>
-            <li><a href="cpanel-hosting.php"><i class="fa fa-angle-right"></i> cPanel Hosting</a></li>
-            <li><a href="windows-hosting.php"><i class="fa fa-angle-right"></i> Windows Hosting</a></li>
-            <li><a href="affordable-hosting.php"><i class="fa fa-angle-right"></i> Affordable Hosting</a></li>
-            <li><a href="reseller-hosting.php"><i class="fa fa-angle-right"></i> Reseller Hosting</a></li>
-            <li><a href="vps-hosting.php"><i class="fa fa-angle-right"></i> Virtual Private Servers</a></li>
-			<li><a href="cloud-hosting.php"><i class="fa fa-angle-right"></i> Cloud Hosting</a></li>
-			 <li><a href="virtual-dc.php"><i class="fa fa-angle-right"></i> Virtual Datacenter</a></li>
-            <li><a href="dedicated-servers.php"><i class="fa fa-angle-right"></i> Dedicated Servers</a></li>
-            <li><a href="ssl-certificates.php"><i class="fa fa-angle-right"></i> SSL Certificates</a></li>
-            <li><a href="softaculous-hosting.php"><i class="fa fa-angle-right"></i> Softaculous Hosting</a></li>
+				<li><a href="cpanel-hosting.php"><i class="fa fa-angle-right"></i> Web Hosting</a></li>
+				<li><a href="reseller-hosting.php"><i class="fa fa-angle-right"></i> Reseller Hosting</a></li>
+				<li><a href="windows-hosting.php"><i class="fa fa-angle-right"></i> Windows Hosting</a></li>
+				<li><a href="dedicated-servers.php"><i class="fa fa-angle-right"></i> Dedicated Servers</a></li>
+				<li><a href="cloud-hosting.php"><i class="fa fa-angle-right"></i> Cloud Hosting</a></li>
+				<li><a href="domains.php"><i class="fa fa-angle-right"></i> Domain Name</a></li>
+			</ul>
+            
+        </div><!-- end section -->
+		
+        <div class="one_fifth">
+        
+        	<h3>VPS HOSTING</h3>
+            
+            <ul class="list">
+				<li><a href="vps-hosting.php"><i class="fa fa-angle-right"></i> Managed OpenVZ</a></li>
+				<li><a href="self-managed-vps.php"><i class="fa fa-angle-right"></i> Un-Managed OpenVZ</a></li>
+				<li><a href="managed-kvm-vps.php"><i class="fa fa-angle-right"></i> Managed KVM</a></li>
+				<li><a href="self-managed-kvm-vps.php"><i class="fa fa-angle-right"></i> Un-Managed KVM</a></li>
+				<li><a href="windows-vps.php"><i class="fa fa-angle-right"></i> Windows VPS</a></li>
+				<li><a href="virtual-dc.php"><i class="fa fa-angle-right"></i> VPS Reseller</a></li>
+			</ul>
+            
+        </div><!-- end section -->
+		
+        
+        <div class="one_fifth">
+        
+        	<h3>APP HOSTING</h3>
+            
+            <ul class="list">
+				<li><a href="https://www.milesweb.com/wordpress-hosting.php"><i class="fa fa-angle-right"></i> WordPress Hosting</a></li>
+				<li><a href="https://www.milesweb.com/joomla-hosting.php"><i class="fa fa-angle-right"></i> Joomla Hosting</a></li>
+				<li><a href="https://www.milesweb.com/magento-hosting.php"><i class="fa fa-angle-right"></i> Magento Hosting</a></li>
+				<li><a href="https://www.milesweb.com/mediawiki-hosting.php"><i class="fa fa-angle-right"></i> Wiki Hosting</a></li>
+				<li><a href="https://www.milesweb.com/cpanel-hosting.php"><i class="fa fa-angle-right"></i> cPanel Hosting</a></li>
+				<li><a href="https://www.milesweb.com/woocommerce-hosting.php"><i class="fa fa-angle-right"></i> WooCommerce Hosting</a></li>
 			</ul>
             
         </div><!-- end section -->
         
-        <div class="one_fourth">
+        <div class="one_fifth">
         
-        	<h3>Hosting For Apps</h3>
+        	<h3>COMPANY</h3>
             
             <ul class="list">
-            <li><a href="wordpress-hosting.php"><i class="fa fa-angle-right"></i> WordPress</a></li>
-            <li><a href="joomla-hosting.php"><i class="fa fa-angle-right"></i> Joomla</a></li>
-            <li><a href="magento-hosting.php"><i class="fa fa-angle-right"></i> Magento</a></li>
-            <li><a href="drupal-hosting.php"><i class="fa fa-angle-right"></i> Drupal</a></li>
-			<li><a href="mediawiki-hosting.php"><i class="fa fa-angle-right"></i> MediaWiki</a></li>
-            <li><a href="oscommerce-hosting.php"><i class="fa fa-angle-right"></i> osCommerce</a></li>
-			<li><a href="zencart-hosting.php"><i class="fa fa-angle-right"></i> ZenCart</a></li>
-            <li><a href="lms-hosting.php"><i class="fa fa-angle-right"></i> eLearning System</a></li>
-			<li><a href="phpbb-hosting.php"><i class="fa fa-angle-right"></i> phpBB</a></li>
-			<li><a href="tomcat-java-hosting.php"><i class="fa fa-angle-right"></i> Tomcat Java</a></li>
-            <li><a href="sitemap.php"><i class="fa fa-angle-right"></i> Sitemap</a></li>
-			</ul>
-            
-        </div><!-- end section -->
-        
-        <div class="one_fourth">
-        
-        	<h3>Company</h3>
-            
-            <ul class="list">
-                <li><a href="about-us.php"><i class="fa fa-angle-right"></i> About Us</a></li>
-                <li><a href="why-milesweb.php"><i class="fa fa-angle-right"></i> Why Us?</a></li>
-				<li><a href="tos.php"><i class="fa fa-angle-right"></i> Legal Terms</a></li>
-				<li><a href="privacy-policy.php"><i class="fa fa-angle-right"></i> Privacy Policy</a></li>
-				<li><a href="datacenters.php"><i class="fa fa-angle-right"></i> Data Centers</a></li>
-				<li><a href="reviews.php"><i class="fa fa-angle-right"></i> Read Client Reviews</a></li>
-				<li><a href="https://www.milesweb.com/blog/"><i class="fa fa-angle-right"></i> Read Our Blog</a></li>
-				<li><a href="https://www.milesweb.com/hosting-faqs/"><i class="fa fa-angle-right"></i> Knowledge Center</a></li>
-				<li><a href="https://www.milesweb.com/forums/"><i class="fa fa-angle-right"></i> Community</a></li>
-                <li><a href="https://www.milesweb.com/white-papers.php"><i class="fa fa-angle-right"></i> White Papers</a></li>
-                <li><a href="affiliates.php"><i class="fa fa-angle-right"></i> Affiliate Program</a></li>
-				<li><a href="coupon-code-partners.php"><i class="fa fa-angle-right"></i> Coupon Partners</a></li>
-                <li><a href="support.php"><i class="fa fa-angle-right"></i> Contact Us</a></li>
+                <li><a href="https://www.milesweb.com/about-us.php"><i class="fa fa-angle-right"></i> About MilesWeb</a></li>
+				<li><a href="https://www.milesweb.com/reviews.php"><i class="fa fa-angle-right"></i> MilesWeb Reviews</a></li>
+				<li><a href="https://www.milesweb.com/datacenters.php"><i class="fa fa-angle-right"></i> Data Centers</a></li>
+				<li><a href="https://www.milesweb.com/events.php"><i class="fa fa-angle-right"></i> Events We Sponsor</a></li>
+				<li><a href="https://www.milesweb.com/affiliates.php"><i class="fa fa-angle-right"></i> Affiliate Program</a></li>
 			</ul>
            	  
         </div><!-- end section -->
         
         
-        <div class="one_fourth last">
+        <div class="one_fifth last">
         
-        	<h3>Need Help?</h3>
+        	<h3>NEED HELP?</h3>
             
-            <div class="any_questions">
-                <img src="/images/phone.png" alt="24x7 phone support" title="24x7 phone support" height="30" width="30">
-                <p>If you have any questions, please feel free to call us.</p>
-                <div class="clearfix mar_top1"></div>
-                <h3><i>Toll Free India:</i> 1800-270-0335</h3>
-				<h3><i>Mobile:</i> +91-865-707-7111</h3>
-				<h3><i>USA:</i> 1-214-501-7255</h3>
-            </div>
-
-<div class="live_chat">
-<img src="/images/live-chat2.jpg" alt="24x7 live chat" title="24x7 live chat" height="50" width="50">
-            <h2><a href="javascript:void(Tawk_API.toggle())">live chat <i>with our agents</i></a></h2>
-            </div>
-			
-			<div class="sitelock">
-<a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=www.milesweb.com','SiteLock','width=600,height=600,left=160,top=170');"><img alt="SiteLock" title="SiteLock" src="//shield.sitelock.com/shield/www.milesweb.com"></a>
-            </div>
+            <ul class="list">
+				<li><a href="https://www.milesweb.com/clientarea.php"><i class="fa fa-angle-right"></i> Client Login</a></li>
+				<li><a href="https://www.milesweb.com/tos.php"><i class="fa fa-angle-right"></i> Terms of Service</a></li>
+	  			<li><a href="https://www.milesweb.com/privacy-policy.php"><i class="fa fa-angle-right"></i> Privacy Policy</a></li>
+				<li><a href="https://www.milesweb.com/unlimited-hosting-policy.php"><i class="fa fa-angle-right"></i> Unlimited Hosting Policy</a></li>
+				<li><a href="https://www.milesweb.com/support.php"><i class="fa fa-angle-right"></i> Contact MilesWeb Team</a></li>
+				<li><a href="https://www.milesweb.com/sitemap.php"><i class="fa fa-angle-right"></i> Sitemap</a></li>
+			</ul>
 
 
         </div><!-- end section -->
-          
+		
+		  
     </div>
+			
     
     <div class="footer_sectwo">
     
@@ -546,12 +618,14 @@
             	
                 <h4>Payments We Accept</h4>
                 
-                <ul>
-                	<li><img src="/images/footer/payment-logos1.png" alt="PayPal" title="PayPal Payment Accepted" width="50" height="33"></li>
-                    <li><img src="/images/footer/payment-logos3.png" alt="Visa" title="Visa Payment Accepted" width="50" height="32"></li>
-                    <li><img src="/images/footer/payment-logos4.png" alt="Master Card" title="Master Card Payment Accepted" width="50" height="33"></li>
-                    <li><img src="/images/footer/payment-logos5.png" alt="Maestro" title="Maestro Accepted" width="50" height="33"></li>
-                    <li><img src="/images/footer/payment-logos6.png" alt="American Express" title="American Express Payment Accepted" width="50" height="32"></li>
+                <ul style="color:#fff;font-size:1.7em;">
+                	
+                	<li><span class="icon-foo fa-lg" style="color:#fff;"></span></li>
+                	<li><span class="icon-foo fa-lg" style="color:#fff;"></span></li>
+                	<li><span class="icon-foo fa-lg" style="color:#fff;"></span></li>
+                	<li><span class="icon-foo fa-lg" style="color:#fff;"></span></li>
+                	<li><span class="icon-foo fa-lg" style="color:#fff;"></span></li>
+                	
                 </ul>
                 
             </div><!-- end free script installs -->
@@ -560,18 +634,16 @@
             
             	<h4>Connect with us</h4>
                 
-                <ul>
-                <li><a href="https://www.facebook.com/MilesWeb"><img src="/images/footer/facebook-logo.png" alt="Facebook" title="Facebook" width="38" height="38"></a></li>
-                <li><a href="https://plus.google.com/+MilesWeb/"><img src="/images/footer/google-plus-logo.png" alt="Google Plus" title="Google Plus" width="38" height="38"></a></li>
-                <li><a href="https://twitter.com/milesweb"><img src="/images/footer/twitter-logo.png" alt="Twitter" title="Twitter" width="38" height="37"></a></li>
-             <li><a href="https://www.linkedin.com/company/milesweb-internet-services"><img src="/images/footer/linkedin-logo.png" alt="Linkedin" title="Linkedin" width="38" height="38"></a></li>
-                <li><a href="https://www.milesweb.com/blog/feed/"><img src="/images/footer/blog-feed.png" alt="Blog Feed" title="Blog Feed" width="38" height="38"></a></li>
+                <ul style="font-size:1.7em;color:#fff;">
+					<li><a href="https://www.facebook.com/MilesWeb"><i class="fa fa-facebook-square fa-lg" style="color:#fff;"></i></a></li>
+					<li><a href="https://plus.google.com/+MilesWeb/"><i class="fa fa-google-plus-square fa-lg" style="color:#fff;"></i></a></li>
+					<li><a href="https://twitter.com/milesweb"><i class="fa fa-twitter-square fa-lg" style="color:#fff;"></i></a></li>
+					<li><a href="https://www.linkedin.com/company/milesweb-internet-services"><i class="fa fa-linkedin-square fa-lg" style="color:#fff;"></i></a></li>
                     
                 </ul>
-				
-			
             
             </div><!-- end payments accept -->
+			
         
         </div>
     
@@ -581,30 +653,90 @@
 
 <div class="clearfix"></div>
 
-<div class="copyright_info">
+<div class="copyright_info" style="padding-top:-50px;overflow:auto;">
 
     <div class="container"> 
    
-        <div class="one_half">
+       <!-- <div class="one_half">-->
         
- Copyright © 2012 - 2016 MilesWeb Internet Services Pvt Ltd. All rights reserved. 
+ Copyright © 2012 - 2017 MilesWeb Internet Services Pvt Ltd. All Rights Reserved. &nbsp; <a href="https://www.milesweb.com/sitemap.php">Sitemap</a> 
+ 
+<span style="margin-left:20px;font-size:0.8em;float:right;" itemscope="" itemtype="https://schema.org/Product">
+ <span itemprop="name">MilesWeb</span>
+ <span itemprop="aggregateRating" itemscope="" itemtype="https://schema.org/AggregateRating"> rated <span itemprop="ratingValue">4.8</span> / 5 based on <span itemprop="reviewCount">53</span> reviews on <a rel="nofollow" class="ratings" href="https://www.serchen.com/company/milesweb/" target="_blank">Serchen</a>.</span>
+</span>
+
+
+ </div>
+ 
+<!-- <div class="one_half last">
+ 
+ <div class="sitelock">
+<a href="#" onclick="window.open('https://www.sitelock.com/verify.php?site=www.milesweb.com','SiteLock','width=600,height=600,left=160,top=170');" ><img alt="SiteLock" title="SiteLock" src="//shield.sitelock.com/shield/www.milesweb.com"/></a>
+            </div>
 
         </div>
-
-
-    </div>
+-->
+    <!--</div>-->
 	
 	
     
 </div>
 
+<div id="jumbo_quot">
+	<h1 class="hdr-quot">Get a Quote</h1>
+	<form method="post" action="/privacy-policy.php" class="getquot">
+		<input class="nmclass" type="text" name="fname" placeholder="Your Name" required="">
+				<input type="email" name="emailid" placeholder="Your Email ID" required="">
+				<input class="phn-num" type="text" name="phone" placeholder="Your Phone Number">
+				<textarea name="message" placeholder="Your Requirement" required=""></textarea><br><br>
+		<script type="text/javascript" src="http://api.recaptcha.net/challenge?k=6LfgCRYUAAAAAK5073aWIttWQjFmGbY08eZP07EV"></script>
 
+	<noscript>
+  		<iframe src="http://api.recaptcha.net/noscript?k=6LfgCRYUAAAAAK5073aWIttWQjFmGbY08eZP07EV"></iframe><br/>
+  		<textarea name="recaptcha_challenge_field" rows="3" cols="40"></textarea>
+  		<input type="hidden" name="recaptcha_response_field" value="manual_challenge"/>
+	</noscript>		<div class="g-recaptcha" data-sitekey="6LfgCRYUAAAAAK5073aWIttWQjFmGbY08eZP07EV"></div>
+				<input type="submit" name="getquote" value="Submit">
+	</form>
+	<div id="quotcancel" onclick="quotHide()"><i style="color:#fff;" class="fa fa-close"></i></div>
+</div>
+<div id="thnkumsg">
+	We have received your message. If your inquiry is urgent, please call on <b>888-888-9995</b>, to talk to one of our staff members. Otherwise, we will reply by email shortly.
+	<i onclick="thankuHide()" style="color:#fff;" class="fa fa-close"></i>
+</div>
+<script>
+	function quotDisplay(){document.getElementById("jumbo_quot").style.display = "block";}
+	function quotHide(){document.getElementById("jumbo_quot").style.display = "none";}
+	function thankuHide(){document.getElementById("thnkumsg").style.display = "none";}
+	setTimeout(function() {
+	  $("#thnkumsg").fadeOut().empty();
+	}, 15000);
+</script>
+
+
+<div id="vpsOfferBox" style="display:none;"><span class="offer-top-hdr">The Great Indian VPS Sale</span>Buy a VPS plan for a year and Get cPanel-WHM FREE for one year.<br>Offer valid on Managed <a href="vps-hosting.php">OpenVZ</a> and <a href="managed-kvm-vps.php">KVM</a> VPS.<span class="click-to-close" onclick="closeMsgBtn()"><i class="fa fa-close"></i></span></div><script>
+	// window.onload = function() {
+		// var vpsoffer = sessionStorage.getItem('vpsoffer');
+		// if(vpsoffer === 'true'){
+			 // document.getElementById('vpsOfferBox').style.display = "none";
+		// }else{
+			// setTimeout(function() {
+				 // document.getElementById("vpsOfferBox").style.display = "block";
+			// }, 7000);
+		// }
+	// }
+
+	// function closeMsgBtn(){
+		// document.getElementById("vpsOfferBox").style.display = "none";
+		// sessionStorage.setItem('vpsoffer', 'true'); 
+	// }
+</script>
 <!-- Footer
 ======================================= -->
 
 
 
-<a href="#" class="scrollup">Scroll</a><!-- end scroll to top of the page-->
 
  
 
@@ -616,7 +748,9 @@
 
 <!-- style switcher -->
 <script src="js/style-switcher/jquery-1.js"></script>
-<script src="js/style-switcher/styleselector.js"></script>
+<script>
+	$(document).ready(function($){$('body').addClass('bg-cover');$('#style-selector').animate({left:'-204px'});$('#style-selector a.close').click(function(e){e.preventDefault();var div=$('#style-selector');if(div.css('left')==='-204px'){$('#style-selector').animate({left:'0'});$(this).removeClass('icon-chevron-left');$(this).addClass('icon-chevron-right');}else{$('#style-selector').animate({left:'-204px'});$(this).removeClass('icon-chevron-right');$(this).addClass('icon-chevron-left');}})});
+</script>
 
 <!-- main menu -->
 <script type="text/javascript" src="js/mainmenu/ddsmoothmenu.js"></script>
@@ -629,11 +763,17 @@
 <!-- REVOLUTION SLIDER -->
 <script type="text/javascript" src="js/revolutionslider/rs-plugin/js/jquery.themepunch.revolution.min.js"></script>
 
-<script type="text/javascript" src="js/mainmenu/scripts.js"></script>
+<script>
+$(document).ready(function(){selectnav('tiny',{label:'--- Navigation --- ',indent:'-'});});ddsmoothmenu.init({mainmenuid:"menu",orientation:'h',classname:'menu',contentsource:"markup"})
+</script>
 
 <!-- tabs script -->
-<script type="text/javascript" src="js/tabs/tabs.js"></script>
-<script type="text/javascript" src="js/tabs/tabs-style2.js"></script>
+<script>
+$(document).ready(function(){$(".tab-content").hide();$("ul.tabs li:first").addClass("active").show();$(".tab-content:first").show();$("ul.tabs li").click(function(){$("ul.tabs li").removeClass("active");$(this).addClass("active");$(".tab-content").hide();var activeTab=$(this).find("a").attr("href");$(activeTab).fadeIn();return false;});});
+</script>
+<script>
+$(document).ready(function(){$(".tab-content-two").hide();$("ul.tabs-two li:first").addClass("active").show();$(".tab-content-two:first").show();$("ul.tabs-two li").click(function(){$("ul.tabs-two li").removeClass("active");$(this).addClass("active");$(".tab-content-two").hide();var activeTab=$(this).find("a").attr("href");$(activeTab).fadeIn();return false;});});
+</script>
 
 <!-- scroll up -->
 <script type="text/javascript">
@@ -677,7 +817,11 @@
 </script>
 
 <!-- accordion -->
-<script type="text/javascript" src="js/accordion/custom.js"></script>
+<script>
+	(function(){var $container=$('.acc-container'),$trigger=$('.acc-trigger');$container.hide();$trigger.first().addClass('active').next().show();var fullWidth=$container.outerWidth(true);$trigger.css('width',fullWidth);$container.css('width',fullWidth);$trigger.on('click',function(e){if($(this).next().is(':hidden')){$trigger.removeClass('active').next().slideUp(300);$(this).toggleClass('active').next().slideDown(300);}
+e.preventDefault();});$(window).on('resize',function(){fullWidth=$container.outerWidth(true)
+$trigger.css('width',$trigger.parent().width());$container.css('width',$container.parent().width());});})();
+</script>
 
 <!-- REVOLUTION SLIDER -->
 <script type="text/javascript">
@@ -812,14 +956,7 @@ src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/997064281/?value
 </noscript> 
 <!-- End Google Code for Remarketing Tag -->
 
-<!-- Start Twitter Tracking Code -->
-<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
-<script type="text/javascript">twttr.conversion.trackPid('nu9ej', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
-<noscript>
-<img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nu9ej&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-<img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nu9ej&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-</noscript>
-<!-- End Twitter Tracking Code -->
+
 
 <!--Start of Tawk.to Script-->
 <script type="text/javascript">
@@ -836,7 +973,7 @@ s0.parentNode.insertBefore(s1,s0);
 <!--End of Tawk.to Script-->
 
  <!-- jQuery if needed -->
-		<script type="text/javascript" src="/home/milesweb/public_html/jquery.min.js"></script>
+		<!--<script type="text/javascript" src="/home/milesweb/public_html/jquery.min.js"></script>-->
 		<script type="text/javascript">
 			
 			function DropDown(el) {
