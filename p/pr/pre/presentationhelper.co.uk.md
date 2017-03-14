@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the presentationhelper.co.uk privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206095920id_/https%3A//www.presentationmagazine.com/privacy-policy-16928.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the presentationhelper.co.uk privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314030100id_/https%3A//www.presentationmagazine.com/privacy-policy-16928.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -68,7 +68,7 @@ Whilst we take great care to ensure any confidential information remains protect
 
 **Updates to this policy**
 
-We may update this privacy policy from time-to-time, particularly as technology changes. You can always check this page for the latest version. We may also notify you of changes to our privacy policy by email. 
+We may update this privacy policy from time-to-time, particularly as technology changes. You can always check this page for the latest version. We may also notify you of changes to our privacy policy by email.
 
 Published On: 1st Jan 2015 
 
