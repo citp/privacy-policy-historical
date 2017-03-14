@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imax.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232604id_/http%3A//www.imax.com/content/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imax.com privacy policy that was archived on 2017-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170314162013id_/http%3A//www.imax.com/content/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | IMAX
 
