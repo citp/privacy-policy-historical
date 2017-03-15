@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpaontario.ca privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127203057id_/http%3A//www.cpaontario.ca/Help/1011page1364.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpaontario.ca privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315193647id_/http%3A//www.cpaontario.ca/Help/1011page1364.aspx) for the most accurate reproduction.*
 
 # Privacy
 
@@ -7,7 +7,7 @@
 ## **_Our Commitment_**
 
 The Chartered Professional Accountants of Ontario (registered name of The Institute of Chartered Accountants of Ontario) ("CPA Ontario") is committed to protecting the privacy of personal information collected from its employees, Members, Students, customers and others, and to ensuring such information is used only for appropriate purposes. Personal information is recorded information about an identifiable individual, but does not include the individual’s name, business title, business address, business telephone number, membership status, right to use the CPA or CA designation or the whether a current public accounting licence is held.  
-
+ 
 
 ##  ** _Consent, Collection and Use_**
 
