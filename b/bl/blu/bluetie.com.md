@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129142957id_/http%3A//bluetie.com/about-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bluetie.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315064646id_/http%3A//www.bluetie.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # BlueTie - Privacy Policy
 
@@ -79,6 +79,7 @@ If you have any questions about this privacy statement, the practices of this si
 
 Privacy Policy  
 BlueTie, Inc.  
-2480 Browncroft Blvd, Suite 2b  
-Rochester NY 14625  
+120 Allens Creek  
+STE 220  
+Rochester, NY 14618  
 Or, you may contact us by email.
