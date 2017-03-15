@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rockradio.com privacy policy that was archived on 2015-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151119033955id_/http%3A//www.rockradio.com/member/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rockradio.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315062413id_/http%3A//www.rockradio.com/member/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - ROCKRADIO.COM | rock music for life
 
-Privacy Policy Last Updated: April 20, 2015
+Privacy Policy Last Updated: February 6, 2017
 
 ## OVERVIEW
 
@@ -18,7 +18,7 @@ Company adheres to the highest standards of ethical practices in all of our oper
 
 ## Personal Information
 
-Unless you provide comments to the website, submit information to Company, or register for updates from Company, we do not collect any personally identifiable information from you. If you submit comments or information or register to receive updates or send us e-mail, we collect identifiable information about you and your authorized users such as your name, user ID, and email address and may collect telephone numbers, billing information, and demographic information such as age, gender and zip code. We also collect and store information that you enter into this Website or that you provide to any of our representatives, or in conjunction with requests for more information. Registration may also be required and Personal Information may also be collected if there are certain portions of the Website in which you specifically and knowingly provide such information, e.g. community postings (i.e., chat or bulletin boards, blog comments, if any). We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database.
+Unless you provide comments to the website, submit information to Company, or register for updates from Company, we do not collect any personally identifiable information from you. If you submit comments or information or register to receive updates or send us e-mail, we collect identifiable information about you and your authorized users such as your name, user ID, and email address and may collect telephone numbers, billing information, geo-location and demographic information such as age, gender and zip code. We also collect and store information that you enter into this Website or that you provide to any of our representatives, or in conjunction with requests for more information. Registration may also be required and Personal Information may also be collected if there are certain portions of the Website in which you specifically and knowingly provide such information, e.g. community postings (i.e., chat or bulletin boards, blog comments, if any). We also may collect and store information about you that we receive from other sources, to enable us to update and correct the information contained in our database.
 
 ## Anonymous Information
 
@@ -34,7 +34,7 @@ This is not a Website directed to children under the age of 13, and Company does
 
 ## HOW WE USE YOUR INFORMATION
 
-We use the information we learn from you to help us personalize and continually improve your experience on the Website. We use the information to communicate with you about orders, products, services, promotional offers, update our records and generally maintain your relationship with us. We also use this information to enable third parties to carry out technical, logistical or other functions on our behalf. We also use the information from one Website on other Websites in our network of partnering websites which together constitute the “AudioAddict Network” operated by AudioAddict, Inc. Except as disclosed in this Privacy Policy, we do not use or disclose information about your individual visits to our Website or your Personal Information collected online to any companies not affiliated with us.
+We use the information we learn from you to help us personalize and continually improve your experience on the Website. We use the information to communicate with you about orders, products, services, promotional offers, update our records and generally maintain your relationship with us. We also use this information to enable third parties to carry out technical, logistical, advertising or other functions on our behalf. We also use the information from one Website on other Websites in our network of partnering websites which together constitute the “Digitally Imported Network” operated by Digitally Imported, Inc. Except as disclosed in this Privacy Policy, we do not use or disclose information about your individual visits to our Website or your Personal Information collected online to any companies not affiliated with us.
 
 ## Customer Service and Feedback
 
@@ -46,7 +46,7 @@ We use Anonymous Information to help us determine how people use parts of the We
 
 ## Third-Party Agents
 
-We have third party agents, subsidiaries, affiliates and partners, including AudioAddict, Inc., that perform functions on our behalf, such as hosting, billing, marketing, analytics, providing customer service, fraud protection, etc. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Website.
+We have third party agents, subsidiaries, affiliates and partners, including Digitally Imported, Inc., that perform functions on our behalf, such as hosting, billing, marketing, analytics, providing customer service, fraud protection, advertising, etc. These entities have access to the Personal Information needed to perform their functions and are contractually obligated to maintain the confidentiality and security of that Personal Information. They are restricted from using, selling, distributing or altering this data in any way other than to provide the requested services to the Website.
 
 ## Transactional Partners
 
