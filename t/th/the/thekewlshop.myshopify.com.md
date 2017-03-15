@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thekewlshop.myshopify.com privacy policy that was archived on 2015-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150607074237id_/http%3A//www.thekewlshop.com/pages/security-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekewlshop.myshopify.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315053248id_/https%3A//www.thekewlshop.com/pages/security-privacy) for the most accurate reproduction.*
 
-# Security & Privacy | The Kewl Shop
+# Security & Privacy – The Kewl Shop
 
 This policy sets out how The Kewl Shop uses and protects any information that you give The Kewl Shop when you use this website.
 
@@ -66,7 +66,7 @@ If you prefer you can opt-out of Google Analytics for Display Advertising and c
 
 For further information we also encourage you look at [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
-##### **Company Details**  
+#####  **Company Details**  
 
 The Kewl Shop Pte. Ltd
 
