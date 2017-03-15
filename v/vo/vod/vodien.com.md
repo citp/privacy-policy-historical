@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108211915id_/https%3A//www.vodien.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vodien.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315180815id_/https%3A//www.vodien.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy | Vodien Web Hosting Services - Vodien
 
@@ -52,11 +52,17 @@ We communicate with users on a regular basis to provide requested services and i
 
 #### Sharing
 
-**Legal Disclaimer**
+**Disclosure of Customer Information**
 
-Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+Vodien will not disclose its customers' personal information with third parties, with the exception of the following reasons:
 
-**We DO NOT Share Personal Information with Third Parties.**
+  * To provide service to the registered account user
+  * To cooporete with law enforcement agencies via legal processes such as current judicial proceeding, court orders and warrants that Vodien determines in its sole discretion to be legitimate and compliable
+  * To safeguard the legitimate interests of Vodien and its customers
+
+
+
+In any event, whereby Vodien is obliged to disclose customer data in adherence to the served legal process(es), Vodien may disclose any forms of User Information to the respective Law Enforcement Agency without prior consent or notification to the customer. Any interactions between Vodien and the Officials will not be divulged, in order to protect Vodien's legal interests.
 
 **Business Transitions**
 
@@ -100,6 +106,6 @@ If we decide to change our privacy policy, we will post those changes to this pr
 
 Questions regarding this privacy policy may be directed to [contact@vodien.com](mailto:contact@vodien.com) .
 
-_The above stated Privacy Policy is correct as of **9th of November 2016**._
+_The above stated Privacy Policy is correct as of **16th of March 2017**._
 
 * * *
