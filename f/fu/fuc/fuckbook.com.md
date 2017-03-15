@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2015-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150321133815id_/https%3A//www.fuckbook.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckbook.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315034030id_/https%3A//www.fuckbook.com/en/about/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Fuckbook
 
@@ -117,7 +117,7 @@ We may share or disclose non-private information, aggregate information, or othe
 
 Members of the Website can directly communicate with other members through messaging services that are part of the services we provide at the Website (e.g., mail, chat, or via comments). We may use personally identifiable information within your profile to send notifications of these communications to you, but your personally identifiable information is not disclosed to other members by us. 
 
-The Website also directly communicates with registered users and members through e-mail, instant messaging, and in some cases, downloaded executables thereby allowing our registered users and members to receive information when they are not on the Website. Our registered users and members can thereby remain current on internal communications and updates from other registered users, members or from us directly. The Website may also use personally identifiable information within your profile to send information to you that, in some cases, is targeted to your interests, such as special banners and promotions. If you do not want us to send you information on other third-party services or products, please [contact us](https://www.fuckbook.com/about/contact). 
+The Website also directly communicates with registered users and members through e-mail, instant messaging, and in some cases, downloaded executables thereby allowing our registered users and members to receive information when they are not on the Website. Our registered users and members can thereby remain current on internal communications and updates from other registered users, members or from us directly. The Website may also use personally identifiable information within your profile to send information to you that, in some cases, is targeted to your interests, such as special banners and promotions. If you do not want us to send you information on other third-party services or products, please [contact us](https://www.fuckbook.com/en/about/contact). 
 
 ### Analytic Applications
 
@@ -145,7 +145,7 @@ We are able to offer our services to you, in part, based on your willingness to 
 
 ### Third-Party Offers
 
-From time to time, we may sponsor or co-sponsor sweepstakes, offers, products, contests, or other services or events of interest to our registered users and members. In order to receive such offers, products or services, sweepstakes, or contests, your personal information will be shared with such third-party companies. We do this to ensure that they may provide their products and/or services to you without mandating that you first have to re-register. You may opt-out of receiving these communications by [contacting us](https://www.fuckbook.com/about/contact). 
+From time to time, we may sponsor or co-sponsor sweepstakes, offers, products, contests, or other services or events of interest to our registered users and members. In order to receive such offers, products or services, sweepstakes, or contests, your personal information will be shared with such third-party companies. We do this to ensure that they may provide their products and/or services to you without mandating that you first have to re-register. You may opt-out of receiving these communications by [contacting us](https://www.fuckbook.com/en/about/contact). 
 
 ### Service Providers
 
@@ -169,8 +169,8 @@ As our business grows, there is always the possibility that we might sell or buy
 
 ### Opt-Out Policy
 
-To stop receiving future communications from us or to opt out of having your personal information shared with third parties, please [send us](https://www.fuckbook.com/about/contact) your registration information and e-mail address. To cancel your registration and/or membership, please [contact us](https://www.fuckbook.com/about/contact) with your registration information and e-mail address. If your personal information changes, or if you no longer desire our services, you may correct, update or cancel your registration and/or membership, and/or deactivate your account, by [contacting us](https://www.fuckbook.com/about/contact). 
+To stop receiving future communications from us or to opt out of having your personal information shared with third parties, please [send us](https://www.fuckbook.com/en/about/contact) your registration information and e-mail address. To cancel your registration and/or membership, please [contact us](https://www.fuckbook.com/en/about/contact) with your registration information and e-mail address. If your personal information changes, or if you no longer desire our services, you may correct, update or cancel your registration and/or membership, and/or deactivate your account, by [contacting us](https://www.fuckbook.com/en/about/contact). 
 
 ### Questions About the Privacy Policy
 
-If you have any questions concerning this privacy policy, please [contact us](https://www.fuckbook.com/about/contact). 
+If you have any questions concerning this privacy policy, please [contact us](https://www.fuckbook.com/en/about/contact). 
