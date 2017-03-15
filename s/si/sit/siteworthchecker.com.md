@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the siteworthchecker.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119132327id_/http%3A//www.siteworthchecker.com/privacypolicy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the siteworthchecker.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315171752id_/https%3A//siteworthchecker.com/page/privacy_policy) for the most accurate reproduction.*
 
-# SiteWorthChecker.com - Privacy Policy
+# Privacy Policy | Site Worth Checker
 
 We use third-party advertising companies to serve ads when you visit our website. These companies may use information (not linked to any information that is personally identifiable) about your visits to our website and other websites in order to provide advertisements about goods and services of interest to you.
 
