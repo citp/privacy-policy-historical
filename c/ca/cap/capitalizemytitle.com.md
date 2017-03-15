@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the capitalizemytitle.com privacy policy that was archived on 2016-07-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160725235749id_/http%3A//capitalizemytitle.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the capitalizemytitle.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315145856id_/http%3A//capitalizemytitle.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Title Capitalization Tool - Capitalize My Title
 
