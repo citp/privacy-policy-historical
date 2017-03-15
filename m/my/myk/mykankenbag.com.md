@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mykankenbag.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127211604id_/http%3A//www.mykankenbag.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mykankenbag.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315143722id_/http%3A//www.mykankenbag.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | My Kanken Bag
 
@@ -21,11 +21,7 @@ You have the right to access and correct your personal information and privacy p
 This may be done by writing to us at:
 
 **The Sporting Lodge Ltd**  
-Storth  
-Milnthorpe  
-Cumbria  
-LA7 7JA  
-England
+Unit 1, Greenfield Farm Industrial Estate, Back Lane, Congleton, Cheshire, CW12 4TR, UK
 
 Please include your name, address and/or email address when you contact us.
 
@@ -41,4 +37,4 @@ All brand names, product names and titles used in the site are trademarks or tra
 
 My Kanken Bag and The Sporting Lodge Ltd is committed to protecting your privacy, and we comply with the data protection laws applicable to the UK. We use the information collected from you to process orders and to provide a more personalised shopping experience.
 
-**If you have any queries please contact us at the above address, use or contact form or call us on +44 (0)15395 64438.**
+**If you have any queries please contact us at the above address, use or contact form or call us on +44 (0)1260 270060.**
