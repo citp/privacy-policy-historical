@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the musichristian.com privacy policy that was archived on 2016-06-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160616055655id_/http%3A//www.christianbook.com/page/info/privacy-notice) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the musichristian.com privacy policy that was archived on 2017-03-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170315065433id_/https%3A//www.christianbook.com/page/info/privacy-notice) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js img-1x desktop"><!--<![endif]--><head>
     <title>Privacy Notice &amp; Policy - Christianbook.com</title>
@@ -23,7 +23,7 @@ cbd privacy policy, christianbook privacy policy, ">
 
 
 
-<link href="//fonts.googleapis.com/css?family=IM+Fell+DW+Pica:400italic|Merriweather:300italic|Homenaje|Open+Sans:400,700" rel="stylesheet" type="text/css">
+<link href="//fonts.googleapis.com/css?family=Open+Sans:400,700" rel="stylesheet" type="text/css">
 
     <script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function(w,d,u){w.readyQ=[];w.bindReadyQ=[];function p(x,y){if(x=="ready"){w.bindReadyQ.push(y);}else{w.readyQ.push(x);}};var a={ready:p,bind:p};w.$=w.jQuery=function(f){if(f===d||f===u){return a}else{p(f)}}})(window,document)</script>
 
@@ -37,12 +37,13 @@ cbd privacy policy, christianbook privacy policy, ">
     <!-- apple-touch-icon.png is located at domain root -->
 
     <!-- canonical url for search engines -->
-    <link rel="canonical" href="http://www.christianbook.com/page/info/privacy-notice">
+    <link rel="canonical" href="https://www.christianbook.com/page/info/privacy-notice">
+
 
 
 
     <!-- use a script to piece css together -->
-    <link rel="stylesheet" href="//g.christianbook.com/csspack?css=002,100,102,105,106,204,440,450,451,455,457,458,459&amp;v=1.28.67">
+    <link rel="stylesheet" href="//g.christianbook.com/csspack?css=002,100,102,105,106,107,204,440,450,451,455,457,458,459&amp;v=33fd51b5bdc985d344f981d00469e7c5">
 
     <!-- use minified review-group.css that uses CSS::Minifier CPAN Module -->
     
@@ -54,7 +55,28 @@ cbd privacy policy, christianbook privacy policy, ">
     "@context" : "http://schema.org",
     "@type" : "Organization",
     "name" : "Christianbook.com",
-    "url" : "http://www.christianbook.com",
+    "url" : "https://www.christianbook.com",
+    "address": {
+        "@type": "PostalAddress",
+        "addressLocality": "Peabody",
+        "addressRegion": "MA",
+        "postalCode": "01960",
+        "streetAddress": "140 Summit St."
+    },
+    "contactPoint" : [
+        { "@type" : "ContactPoint",
+          "telephone" : "+1-800-247-4784",
+          "contactType" : "Customer Service",
+          "contactOption" : "TollFree",
+          "areaServed" : ["US","CA"]
+        },
+        {
+          "@type" : "ContactPoint",
+          "telephone" : "+1-978-977-5000",
+          "contactType" : "Customer Service",
+          "areaServed" : "Outside the US and Canada"
+        }
+    ],
     "sameAs" : [
         "https://www.facebook.com/Christianbook",
         "https://twitter.com/Christianbook",
@@ -82,10 +104,7 @@ ga("create", "UA-285306-1", "auto",{
 }
 );
 ga('require', 'linkid');
-ga("send", "pageview",{
-"dimension1": "Unknown"
-}
-);
+ga("send", "pageview");
 </script>
 <!-- end Google Analytics -->
 
@@ -108,21 +127,146 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
 
 
 
+  <style>
+   .CBD-PreviewGroup .CBD-PreviewGroupItems > .CBD-PreviewGroupItem > .CBD-PreviewGroupItemImage > .CBD-PreviewGroupItemFlag.CBD-PreviewGroupItemFlag-SPRINGSUPERSALE, .CBD-PreviewGroup .CBD-PreviewGroupItems > .CBD-PreviewGroupItem > .CBD-ContainerActions > .CBD-PreviewGroupItemImage > .CBD-PreviewGroupItemFlag.CBD-PreviewGroupItemFlag-SPRINGSUPERSALE { background-color: #CF3A67; color: #FFFFFF;}.CBD-PreviewGroup .CBD-PreviewGroupItems > .CBD-PreviewGroupItem > .CBD-PreviewGroupItemImage > .CBD-PreviewGroupItemFlag.CBD-PreviewGroupItemFlag-SPRINGSUPERSALE:before, .CBD-PreviewGroup .CBD-PreviewGroupItems > .CBD-PreviewGroupItem > .CBD-ContainerActions > .CBD-PreviewGroupItemImage > .CBD-PreviewGroupItemFlag.CBD-PreviewGroupItemFlag-SPRINGSUPERSALE:before { border-color: #CF3A67 transparent transparent #CF3A67;}.CBD-PreviewGroup .CBD-PreviewGroupItems > .CBD-PreviewGroupItem > .CBD-PreviewGroupItemImage > .CBD-PreviewGroupItemFlag.CBD-PreviewGroupItemFlag-SPRINGSUPERSALE:after, .CBD-PreviewGroup .CBD-PreviewGroupItems > .CBD-PreviewGroupItem > .CBD-ContainerActions > .CBD-PreviewGroupItemImage > .CBD-PreviewGroupItemFlag.CBD-PreviewGroupItemFlag-SPRINGSUPERSALE:after { border-color: transparent transparent #CF3A67 #CF3A67;}
+  </style>
+
 </head> 
 
 <body class="has_nav">
 
+
  
-        <a name="topofpage"></a>
+    <script type="text/javascript">
+// Set up some objects to track reCAPTCHA responses.
+var recaptchaResponses = new Object();
+var recaptchaErrorsDisplayed = new Object();
+var recaptchaErrorMessage = "<span class='recaptcha-error-message' style='color:red;font-size:14px;'>Please check the box to continue.</span>";
+
+// Add functions to be called when checkboxes are checked
+var captcha_nav_header_email_signup_render_callback = function(response) {
+	var element_id = 'captcha_nav_header_email_signup';
+	recaptchaResponses["captcha_nav_header_email_signup"] = response;
+	// If an error was previously displayed for not checking the box, remove it.
+	if ( recaptchaErrorsDisplayed.hasOwnProperty("captcha_nav_header_email_signup") === true ) {
+		delete recaptchaErrorsDisplayed["captcha_nav_header_email_signup"];
+		$("#captcha_nav_header_email_signup > div").css('border','none');
+		$(".recaptcha-error-message").hide();
+	}
+	ga('send','event','EmailSignup', 'CaptchaCompleted', 'captcha_nav_header_email_signup', 1);
+}
+var captcha_nav_footer_email_signup_render_callback = function(response) {
+	var element_id = 'captcha_nav_footer_email_signup';
+	recaptchaResponses["captcha_nav_footer_email_signup"] = response;
+	// If an error was previously displayed for not checking the box, remove it.
+	if ( recaptchaErrorsDisplayed.hasOwnProperty("captcha_nav_footer_email_signup") === true ) {
+		delete recaptchaErrorsDisplayed["captcha_nav_footer_email_signup"];
+		$("#captcha_nav_footer_email_signup > div").css('border','none');
+		$(".recaptcha-error-message").hide();
+	}
+	ga('send','event','EmailSignup', 'CaptchaCompleted', 'captcha_nav_footer_email_signup', 1);
+}
+
+
+// Set up render functions to be called once core reCAPTCHA code is ready.
+var captchaOnloadCallback = function() {
+grecaptcha.render('captcha_nav_header_email_signup', {
+	'sitekey' : '6LdHeSgTAAAAAILCrXr9n2SzZECgMTIrN9nAG9oN',
+	'size' : 'normal',
+	'callback' : captcha_nav_header_email_signup_render_callback
+});
+grecaptcha.render('captcha_nav_footer_email_signup', {
+	'sitekey' : '6Lfz8ygTAAAAADxg9fPXRLodH4fEowjRwbzXNB5h',
+	'size' : 'normal',
+	'callback' : captcha_nav_footer_email_signup_render_callback
+});
+
+};
+
+// Set up functions to be called when forms are submitted.
+$(document).ready(function(){
+	$("#captcha_nav_header_email_signup").closest('form').submit(function(e){
+	if ( recaptchaResponses.hasOwnProperty("captcha_nav_header_email_signup") === false ) {
+		e.preventDefault();
+		if ( recaptchaErrorsDisplayed.hasOwnProperty("captcha_nav_header_email_signup") === false ) {
+			$("#captcha_nav_header_email_signup > div").css('border','2px solid red');
+			$("#captcha_nav_header_email_signup").append(recaptchaErrorMessage);
+			recaptchaErrorsDisplayed["captcha_nav_header_email_signup"] = 1;
+		}
+		ga('send','event','EmailSignup', 'SubmitWithNoCaptcha', 'captcha_nav_header_email_signup', 1);
+		return false;
+	} else {
+		ga('send','event','EmailSignup','SubmitWithCaptcha','captcha_nav_header_email_signup',1);
+		return true;
+	}
+});
+$("#captcha_nav_footer_email_signup").closest('form').submit(function(e){
+	if ( recaptchaResponses.hasOwnProperty("captcha_nav_footer_email_signup") === false ) {
+		e.preventDefault();
+		if ( recaptchaErrorsDisplayed.hasOwnProperty("captcha_nav_footer_email_signup") === false ) {
+			$("#captcha_nav_footer_email_signup > div").css('border','2px solid red');
+			$("#captcha_nav_footer_email_signup").append(recaptchaErrorMessage);
+			recaptchaErrorsDisplayed["captcha_nav_footer_email_signup"] = 1;
+		}
+		ga('send','event','EmailSignup', 'SubmitWithNoCaptcha', 'captcha_nav_footer_email_signup', 1);
+		return false;
+	} else {
+		ga('send','event','EmailSignup','SubmitWithCaptcha','captcha_nav_footer_email_signup',1);
+		return true;
+	}
+});
+
+});
+
+</script>
+
+
+
+    <a name="topofpage"></a>
     
     <div id="container">
 
 
-        <div id="nav-frame">
+<style>
+#nav-frame.cobrand, .cobrand .quick-nav{
+    background: #FFFFFF;
+}
+#nav-frame.cobrand .main-nav > .main-nav-items{
+    top: 0px;
+}
+#nav-frame.cobrand #nav-content .active-tab .main-nav-items-links{
+    color: #1077c4 !important;
+}
+#nav-frame.cobrand .logo > .logo-image{
+    width: auto;
+    max-width: 250px;
+}
+.cobrand .quick-nav-menu{
+    border-color: #274f72;
+    border-color: rgba(39,79,114, 0.4);
+}
+.cobrand .quick-nav .quick-nav-links, .cobrand .quick-nav .cart, .cobrand .quick-nav .cart:link{
+    text-shadow: none;
+    color: #274f72;
+}
+.cobrand .quick-nav .cart, .cobrand .quick-nav .cart:link{
+    background: url('/g/nav/cart_blueicon.png') no-repeat scroll 0 center transparent;
+}
+.img-2x .cobrand .quick-nav .cart, .img-2x .cobrand .quick-nav .cart:link{
+    background-image: url('/g/nav/cart_blueicon-2x.png');
+    -moz-background-size: 23px 18px;
+    -ms-background-size: 23px 18px;
+    -webkit-background-size: 23px 18px;
+    background-size: 23px 18px;
+}
+
+
+</style>
+        <div id="nav-frame" class="">
         <div id="nav-content">
         <div class="quick-nav">
         
-        <form id="email-signup-form" class="top-nav-email-signup-form" action="http://www.christianbook.com/Christian/Books/email_signup" method="POST" name="email-signup-form">
+        <form id="email-signup-form" class="top-nav-email-signup-form" action="/Christian/Books/email_signup" method="POST" name="email-signup-form">
             <div id="quick-nav-email-signup">
                 <div class="quick-nav-email-signup-message">Hear about sales, receive special offers &amp; more.<br>You can unsubscribe at any time.</div>
                 <div class="quick-nav-email-container">
@@ -131,34 +275,42 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
                         <input type="text" class="quick-nav-email-input" alt="Enter email address" name="nav-email-address" id="nav-email-address">
                     </div>
 
+                </div>
+                <input type="hidden" name="recaptcha_element_id" id="recaptcha_element_id" value="captcha_nav_header_email_signup">
+		<input type="hidden" name="form_name" id="form_name" value="top-nav-email-signup-form">
+		<input type="text" id="email_signup_address" name="email_signup_address" style="display:none;">
+
+		<div id="captcha_nav_header_email_signup"></div>
                     <span class="quick-nav-email-container-btn-wrapper">
                         <input type="submit" name="signup" class="quick-nav-email-container-btn" id="signup" value="Sign up">
                     </span>
-                </div>
             </div>
         </form>
                 <ul class="quick-nav-menu">
                     <li class="quick-nav-items">
                     <a class="quick-nav-links" href="https://www.christianbook.com/apps/account/" rel="nofollow">My Account</a></li>
                     <li class="quick-nav-items">
-                    <a class="quick-nav-links" href="http://www.christianbook.com/Christian/Books/wishlist" rel="nofollow">Wishlist</a></li>
+                    <a class="quick-nav-links" href="/Christian/Books/wishlist" rel="nofollow">Wishlist</a></li>
                     <li class="quick-nav-items">
-                    <a class="quick-nav-links" href="http://www.christianbook.com/html/tab_customer_service.html">Help</a></li>
+                    <a class="quick-nav-links" href="/html/tab_customer_service.html">Help</a></li>
+                    
                     
                     <li class="quick-nav-items">
                     <a id="email-signup-link" class="quick-nav-links quick-nav-links-last" href="javascript:;">Email Signup</a></li>
+                    
                     <li class="filler"></li>
                 </ul>
-                <a class="cart" href="http://www.christianbook.com/Christian/Books/bookbag" rel="nofollow">Cart <span id="items">(0) </span><span class="cart-hidden-text"> items</span></a>
+                <a class="cart" href="/Christian/Books/bookbag" rel="nofollow">Cart <span id="items">(6) </span><span class="cart-hidden-text"> items</span></a>
                 
-                <a class="checkout" href="http://www.christianbook.com/Christian/Books/bookbag?co=1" rel="nofollow"><span class="checkout-image"></span>Checkout</a>
+                <a class="checkout" href="/Christian/Books/bookbag?co=1" rel="nofollow"><span class="checkout-image"></span>Checkout</a>
                 
             </div>
             <div class="welcome"><span class="welcome-bold">Welcome to Christianbook.com!</span> <span class="welcome-links"><a href="https://www.christianbook.com/apps/login" rel="nofollow">Sign in</a> or <a href="https://www.christianbook.com/apps/login" rel="nofollow">create an account</a> </span></div>
 
-            <a class="logo" href="http://www.christianbook.com"><img class="logo-image" src="//g.christianbook.com/g/templates/themes/1000001/new_logo.png" alt="Christianbook.com Logo - Phone: 1-800-CHRISTIAN" style="height: 52px;"></a>
+            <a class="logo" href="/"><img class="logo-image" src="//g.christianbook.com/g/templates/themes/1000001/new_logo.png" alt="Christianbook.com Logo - Phone: 1-800-CHRISTIAN" style="height: 52px;"></a>
+            
            
-            <form id="search-form" class="top-nav-search-form" name="search-form" action="http://www.christianbook.com/Christian/Books/easy_find">
+            <form id="search-form" class="top-nav-search-form" name="search-form" action="/Christian/Books/easy_find">
                 <div class="search-container">
                     <div class="search-container-field">
                         <label for="Ntt" id="search-hint" class="search-container-hint">Search by title, author, isbn, etc.</label>
@@ -169,21 +321,21 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
 <li class="predictive-search-container">
 <ol class="predictive-search-list">
 <li class="predictive-search-border predictive-search-item">
-<a class="predictive-search-item-link pre-search-item-link" href="/page/promotion/slightly-imperfect-sale">
-<img class="predictive-search-images" alt="Slightly Imperfect Sale" src="//g.christianbook.com/g/enhanced_search/70x70-slightlyimperfect.jpg">
-                        <span class="predictive-search-item-product-text">Slightly Imperfect Sale</span>
+<a class="predictive-search-item-link pre-search-item-link" href="/page/christian-authors">
+<img class="predictive-search-images" alt="Must-Read Christian Authors" src="//g.christianbook.com/g/enhanced_search/70x70_ChristianAuthors.jpg">
+                        <span class="predictive-search-item-product-text">Must-Read Christian Authors</span>
     </a>
 </li>
 <li class="predictive-search-border predictive-search-item">
-<a class="predictive-search-item-link pre-search-item-link" href="/page/gifts/shop-by-recipient/gifts-for-him/fathers">
-<img class="predictive-search-images" alt="Still Time to Shop for Dad" src="//g.christianbook.com/g/enhanced_search/70x70_WiseWordsFromDad.jpg">
-                        <span class="predictive-search-item-product-text">Still Time to Shop for Dad</span>
+<a class="predictive-search-item-link pre-search-item-link" href="/page/vbs">
+<img class="predictive-search-images" alt="New Kits Ship Free!" src="//g.christianbook.com/g/enhanced_search/VBS_0317_70x70.jpg">
+                        <span class="predictive-search-item-product-text">New Kits Ship Free!</span>
     </a>
 </li>
 
 <li class="predictive-search-border predictive-search-item">
-<a class="predictive-search-item-link pre-search-item-link" href="/page/promotion/flash-sale?event=ESRCA">
-<img class="predictive-search-images" alt="Flash Sale" src="//g.christianbook.com/g/enhanced_search/fs.jpg">
+<a class="predictive-search-item-link pre-search-item-link" href="https://www.christianbook.com/page/promotion/flash-sale?event=ESRCA">
+<img class="predictive-search-images" alt="Flash Sale" src="//g.christianbook.com/g/netstorage/nav/201703/70x70_FlashSale_0317.jpg">
                         <span class="predictive-search-item-product-text">Flash Sale</span>
                     </a>
 </li>
@@ -223,40 +375,40 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
                 </div>
             </form>
             <ul class="main-nav drops-enabled">
-<li class="main-nav-items sub-trigger" id="cat-2415433"><a class="main-nav-items-links " href="/page/vbs?navcat=VBS">VBS</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2808306"><a class="main-nav-items-links " href="/page/easter?navcat=Easter">Easter</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415498"><a class="main-nav-items-links " href="/page/bibles?navcat=Bibles">Bibles</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2808380"><a class="main-nav-items-links " href="/page/bibles?navcat=Bibles">Bibles</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415651"><a class="main-nav-items-links " href="/page/church?navcat=Church">Church</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2808916"><a class="main-nav-items-links " href="/page/vbs?navcat=VBS">VBS</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415078"><a class="main-nav-items-links " href="/biblestudies?navcat=Bible-Study">Bible Study</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2808429"><a class="main-nav-items-links " href="/page/church?navcat=Church">Church</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415111"><a class="main-nav-items-links " href="/page/christian-books?navcat=Books">Books</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2808732"><a class="main-nav-items-links " href="/page/bible-studies?navcat=Bible-Study">Bible Study</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2414926"><a class="main-nav-items-links " href="/page/ebooks?navcat=eBooks">eBooks</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2808785"><a class="main-nav-items-links " href="/page/christian-books?navcat=Books">Books</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2414871"><a class="main-nav-items-links " href="/page/fiction?navcat=Fiction">Fiction</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2809238"><a class="main-nav-items-links " href="/page/ebooks?navcat=eBooks">eBooks</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415328"><a class="main-nav-items-links " href="/page/homeschool?navcat=Homeschool">Homeschool</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2808227"><a class="main-nav-items-links " href="/page/fiction?navcat=Fiction">Fiction</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415302"><a class="main-nav-items-links " href="/page/music?navcat=Music">Music</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2808971"><a class="main-nav-items-links " href="/page/homeschool?navcat=Homeschool">Homeschool</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415548"><a class="main-nav-items-links " href="/page/kids?navcat=Kids">Kids</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2809198"><a class="main-nav-items-links " href="/page/music?navcat=Music">Music</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415234"><a class="main-nav-items-links " href="/page/kids/toys?navcat=Toys">Toys</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2808496"><a class="main-nav-items-links " href="/page/kids?navcat=Kids">Kids</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415176"><a class="main-nav-items-links " href="/page/gifts?navcat=Gifts">Gifts</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2808551"><a class="main-nav-items-links " href="/page/kids/toys?navcat=Toys">Toys</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415389"><a class="main-nav-items-links " href="/page/dvds?navcat=DVD">DVD</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2809138"><a class="main-nav-items-links " href="/page/gifts?navcat=Gifts">Gifts</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415601"><a class="main-nav-items-links " href="/page/bargains?navcat=Bargain">Bargain</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2809043"><a class="main-nav-items-links " href="/page/dvds?navcat=DVD">DVD</a></li>
 
-<li class="main-nav-items sub-trigger" id="cat-2415059"><a class="main-nav-items-links " href="/page/page-index?navcat=More">More</a></li>
+<li class="main-nav-items sub-trigger" id="cat-2809117"><a class="main-nav-items-links " href="/page/bargains?navcat=Bargain">Bargain</a></li>
 
 <li class="filler"></li></ul>
     <div class="sub-nav">
             <ul class="sub-nav-links">
-                <li class="sub-nav-links-items" style=""><a class="sub-nav-links-items-links " href="http://www.christianbook.com/page/bestselling-christian-resources?navcat=sub|other|Bestsellers">Bestsellers</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="http://www.christianbook.com/page/christian-living/prayer?navcat=sub|other|Prayer">Prayer</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="http://www.christianbook.com/page/christian-living?navcat=sub|other|Christian-Living">Christian&nbsp;Living</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="http://www.christianbook.com/page/bible-studies?navcat=sub|other|Bible-Study">Bible&nbsp;Study</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="http://www.christianbook.com/page/music/mp3-music?navcat=sub|other|MP3s">MP3s</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="http://www.christianbook.com/page/church-supplies?navcat=sub|other|Church-Supplies">Church&nbsp;Supplies</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="http://www.christianbook.com/page/gifts/bible-covers?navcat=sub|other|Bible-Covers">Bible&nbsp;Covers</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="http://www.christianbook.com/page/academic?navcat=sub|other|Academic">Academic</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="http://www.christianbook.com/page/family?navcat=sub|other|Family">Family</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="http://www.christianbook.com/Christian/Books/gift_certificate?navcat=sub|other|Gift-Cards">Gift&nbsp;Cards</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="http://www.christianbook.com/Christian/Books/catalog_quick_shop?navcat=sub|other|Catalog">Catalog</a></li><li class="sub-nav-links-items" style=""><a class="sub-nav-links-items-links sub-nav-links-items-links-last" href="http://www.christianbook.com/Christian/Books/membership?navcat=sub|other|Members">Members</a></li>
+                <li class="sub-nav-links-items" style=""><a class="sub-nav-links-items-links " href="/page/bestselling-christian-resources?navcat=sub|other|Bestsellers">Bestsellers</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="/page/christian-living/prayer?navcat=sub|other|Prayer">Prayer</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="/page/christian-living?navcat=sub|other|Christian-Living">Christian&nbsp;Living</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="/page/spanish-products?navcat=sub|other|Spanish-Products">Spanish&nbsp;Products</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="/page/music/mp3-music?navcat=sub|other|MP3s">MP3s</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="/page/vbs?navcat=sub|other|VBS">VBS</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="/page/church-supplies?navcat=sub|other|Church-Supplies">Church&nbsp;Supplies</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="/page/gifts/bible-covers?navcat=sub|other|Bible-Covers">Bible&nbsp;Covers</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="/page/family?navcat=sub|other|Family">Family</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="/giftcard?navcat=sub|other|Gift-Cards">Gift&nbsp;Cards</a></li><li class="sub-nav-links-items"><a class="sub-nav-links-items-links " href="/apps/catalog_quick_shop?navcat=sub|other|Catalog">Catalog</a></li><li class="sub-nav-links-items" style=""><a class="sub-nav-links-items-links sub-nav-links-items-links-last" href="/apps/membership?navcat=sub|other|Members">Members</a></li>
             </ul>
     </div>
     <div class="nav-clear"></div>
@@ -264,6 +416,14 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
             </div>
             </div>
 	    <!-- Nav Ad Would Go Below -->
+
+            <div class="nav-ad-container" style="font-family:'Open Sans',sans-serif; background-color:#cf3a67; color:#fff;">
+    <div class="nav-ad-section">
+        <span class="nav-ad-headline" style="font-size:20px;"><a style="color:#fff; text-decoration:none;" href="https://www.christianbook.com/page/promotion/spring-super-sale">SHOP OUR SPRING SUPER SALE: </a></span> <span style="font-size:15px;"><a style="color:#fff; text-decoration:none;" href="https://www.christianbook.com/page/promotion/spring-super-sale">Over 2,600 deals thru 03/20. Look for the tags sitewide-&gt;</a></span>
+    </div>
+    <br style="clear:both;">
+</div>
+
 
 <!-- Nav Ad Would Go Above -->
 
@@ -275,15 +435,15 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
 
 <div>
 	<div style="width:192px;float:left;padding-top:10px;">
-		<a href="/page/promotion/flash-sale?event=TNRP" style="border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;border:1px solid #A3A4A8;display:block;float:left;margin-bottom:4px;background:url(//g.christianbook.com/g/current-promotions-flash-sale.jpg) no-repeat -1px -1px;"><img src="//g.christianbook.com/g/current-promotions-flash-sale.jpg" alt="FLASH-SALE" style="visibility:hidden;margin:-1px;display:block;"></a>
+		<a href="https://www.christianbook.com/page/promotion/flash-sale" style="border-radius:4px;-moz-border-radius:4px;-webkit-border-radius:4px;border:1px solid #A3A4A8;display:block;float:left;margin-bottom:4px;background:url(https://g.christianbook.com/g/netstorage/nav/201703/188x36_FlashSale_0317.jpg) no-repeat -1px -1px;"><img src="https://g.christianbook.com/g/netstorage/nav/201703/188x36_FlashSale_0317.jpg" alt="Flash Sale" style="visibility:hidden;margin:-1px;display:block;"></a>
 <div class="CBD-CategoryTree" data-cbd-responsivetreebehavior="tree">
         <div class="CBD-TreeHeadingWrapper">
   <div class="CBD-HeadingTree">Browse</div>
     <ul class="CBD-TreeCategories">
-<li><a href="http://www.christianbook.com/Christian/Books/easy_find" style="margin-left:-1px;"><span class="CBD-TreeAll">All Products</span></a>
+<li><a href="/Christian/Books/easy_find" style="margin-left:-1px;"><span class="CBD-TreeAll">All Products</span></a>
 <ul class="sub-categories">
 
-<li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1107463&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Academic&amp;Ns=product.number_sold">Academic</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1124357&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Accompaniment%2520Tracks&amp;Ns=product.number_sold">Accompaniment Tracks</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1014726&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Audiobooks&amp;Ns=product.number_sold">Audiobooks</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1119381&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Bible%2520Accessories&amp;Ns=product.number_sold">Bible Accessories</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1006743&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Bible%2520Covers&amp;Ns=product.number_sold">Bible Covers</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1112231&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Bible%2520Studies%2520%2526%2520Curriculum&amp;Ns=product.number_sold">Bible Studies &amp; Curriculum</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1014722&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Bibles&amp;Ns=product.number_sold">Bibles</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1014644&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Books&amp;Ns=product.number_sold">Books</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?Nf=product.has_quantity_discount|GT+0&amp;category=Buy%20in%20Bulk&amp;event=EBRN">Buy in Bulk</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1120629&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Catholic&amp;Ns=product.number_sold">Catholic</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1109622&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Children&amp;Ns=product.number_sold">Children</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1119625&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Christian%2520Living&amp;Ns=product.number_sold">Christian Living</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1107462&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Church%2520%2526%2520Pastoral&amp;Ns=product.number_sold">Church &amp; Pastoral</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1014709&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Church%2520Supplies&amp;Ns=product.number_sold">Church Supplies</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1127620&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Closeouts&amp;Ns=product.number_sold">Closeouts</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1014836&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Clothing%2520%2526%2520Accessories&amp;Ns=product.number_sold">Clothing &amp; Accessories</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1285407&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Crafts%2520%2526%2520Recreation&amp;Ns=product.number_sold">Crafts &amp; Recreation</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1119289&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Download&amp;Ns=product.number_sold">Download</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1111682&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=DVDs&amp;Ns=product.number_sold">DVDs</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1120877&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=eBooks&amp;Ns=product.number_sold">eBooks</a></li><li><a href="/ebooks-on-sale?category?category=Ebooks%20on%20Sale&amp;event=EBRN">eBooks On Sale</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1138085&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Family&amp;Ns=product.number_sold">Family</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1112645&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Fiction&amp;Ns=product.number_sold">Fiction</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1014723&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Gift%2520%2526%2520Home&amp;Ns=product.number_sold">Gift &amp; Home</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1014667&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Homeschool&amp;Ns=product.number_sold">Homeschool</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1139146&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Last%2520Chance%2520Bargains&amp;Ns=product.number_sold">Last Chance Bargains</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1019672&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=MP3%2520Music%2520Downloads&amp;Ns=product.number_sold">MP3 Music Downloads</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1014677&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Music&amp;Ns=product.number_sold">Music</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1120110&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=New%2520Release&amp;Ns=product.number_sold">New Release</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1031742&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Non%2DFiction&amp;Ns=product.number_sold">Non-Fiction</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1120109&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Pre%2DOrder&amp;Ns=product.number_sold">Pre-Order</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1112765&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Slightly%2520Imperfect&amp;Ns=product.number_sold">Slightly Imperfect</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1014786&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Software&amp;Ns=product.number_sold">Software</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1005043&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Spanish&amp;Ns=product.number_sold">Spanish</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1032904&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Subscriptions&amp;Ns=product.number_sold">Subscriptions</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1120830&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Sunday%2520School&amp;Ns=product.number_sold">Sunday School</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1110602&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Teens&amp;Ns=product.number_sold">Teens</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1405557&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Toys&amp;Ns=product.number_sold">Toys</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1000828&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=VBS&amp;Ns=product.number_sold">VBS</a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+1112694&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Videos&amp;Ns=product.number_sold">Videos</a></li>
+<li><a href="/page/academic">Academic</a></li><li><a href="/page/music/accompaniment-tracks">Accompaniment Tracks</a></li><li><a href="/page/audiobooks">Audiobooks</a></li><li><a href="/page/gifts/bible-accessories">Bible Accessories</a></li><li><a href="/page/gifts/bible-covers">Bible Covers</a></li><li><a href="/page/bible-studies">Bible Studies &amp; Curriculum</a></li><li><a href="/page/bibles">Bibles</a></li><li><a href="/page/christian-books">Books</a></li><li><a href="/Christian/Books/easy_find?Nf=product.has_quantity_discount|GT+0&amp;category=Buy%20in%20Bulk&amp;event=EBRN">Buy in Bulk</a></li><li><a href="/page/catholic-resources">Catholic</a></li><li><a href="/page/kids">Children</a></li><li><a href="/page/christian-living">Christian Living</a></li><li><a href="/page/church">Church &amp; Pastoral</a></li><li><a href="/page/church-supplies">Church Supplies</a></li><li><a href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+1127620&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Closeouts&amp;Ns=product.number_sold">Closeouts</a></li><li><a href="/page/clothing-and-accessories">Clothing &amp; Accessories</a></li><li><a href="/page/arts-and-crafts">Crafts &amp; Recreation</a></li><li><a href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+1119289&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Download&amp;Ns=product.number_sold">Download</a></li><li><a href="/page/dvds">DVDs</a></li><li><a href="/page/ebooks">eBooks</a></li><li><a href="/ebooks-on-sale?category?category=Ebooks%20on%20Sale&amp;event=EBRN">eBooks On Sale</a></li><li><a href="/page/family">Family</a></li><li><a href="/page/fiction">Fiction</a></li><li><a href="/page/gifts">Gift &amp; Home</a></li><li><a href="/page/homeschool">Homeschool</a></li><li><a href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+1139146&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Last%2520Chance%2520Bargains&amp;Ns=product.number_sold">Last Chance Bargains</a></li><li><a href="/page/music">Music</a></li><li><a href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+1120110&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=New%2520Release&amp;Ns=product.number_sold">New Release</a></li><li><a href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+1031742&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Non%2DFiction&amp;Ns=product.number_sold">Non-Fiction</a></li><li><a href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+1120109&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Pre%2DOrder&amp;Ns=product.number_sold">Pre-Order</a></li><li><a href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+1112765&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Slightly%2520Imperfect&amp;Ns=product.number_sold">Slightly Imperfect</a></li><li><a href="/page/software">Software</a></li><li><a href="/page/spanish-products">Spanish</a></li><li><a href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+1138778&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Spring%2520Super%2520Sale&amp;Ns=product.number_sold">Spring Super Sale</a></li><li><a href="/page/streaming-video">Streaming Video</a></li><li><a href="/page/teens">Student &amp; Teens</a></li><li><a href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+1032904&amp;Ne=1000000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;category=Subscriptions&amp;Ns=product.number_sold">Subscriptions</a></li><li><a href="/page/sunday-school-curriculum">Sunday School</a></li><li><a href="/page/kids/toys">Toys</a></li><li><a href="/page/vbs">VBS</a></li>
 
 </ul>
 </li>
@@ -293,7 +453,7 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
 
     <div class="CBD-TreeHeadingWrapper"><div class="CBD-HeadingTree">Refine by</div>
     <ul class="CBD-TreeFilters">
-<li class="collapsed"><a rel="nofollow" href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold">Top Rated<span class="expand-collapse CBD-CollapsedFilter">▼</span><span class="expand-collapse CBD-ExpandedFilter">▲</span></a><ul class="refinements or-refinements"><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+2000000039&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">1+ Stars</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+2000000040&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">2+ Stars</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5202&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">3+ Stars</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5203&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">4+ Stars</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5201&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">5 stars</span></a></li></ul></li><li class="collapsed"><a rel="nofollow" href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold">Price<span class="expand-collapse CBD-CollapsedFilter">▼</span><span class="expand-collapse CBD-ExpandedFilter">▲</span></a><ul class="refinements or-refinements"><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+10001&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$0-$5</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+10002&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$5-$10</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+10003&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$10-$25</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+10006&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$25-$50</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+10004&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$50-$100</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+10005&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$100 and up</span></a></li></ul></li><li class="collapsed"><a rel="nofollow" href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold">Discount<span class="expand-collapse CBD-CollapsedFilter">▼</span><span class="expand-collapse CBD-ExpandedFilter">▲</span></a><ul class="refinements or-refinements"><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5301&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">10%+ Off</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5302&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">20%+ Off</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5303&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">30%+ Off</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5304&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">40%+ Off</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5305&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">50%+ Off</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5306&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">60%+ Off</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5307&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">70%+ Off</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5308&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">80%+ Off</span></a></li><li><a href="http://www.christianbook.com/Christian/Books/easy_find?event=EBRN&amp;N=5401+5309&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">90%+ Off</span></a></li></ul></li>
+<li class="collapsed"><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold">Top Rated<span class="expand-collapse CBD-CollapsedFilter">▼</span><span class="expand-collapse CBD-ExpandedFilter">▲</span></a><ul class="refinements or-refinements"><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+2000000039&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">1+ Stars</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+2000000040&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">2+ Stars</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5202&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">3+ Stars</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5203&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">4+ Stars</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5201&amp;Ne=5200&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">5 stars</span></a></li></ul></li><li class="collapsed"><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold">Price<span class="expand-collapse CBD-CollapsedFilter">▼</span><span class="expand-collapse CBD-ExpandedFilter">▲</span></a><ul class="refinements or-refinements"><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+10001&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$0-$5</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+10002&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$5-$10</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+10003&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$10-$25</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+10006&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$25-$50</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+10004&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$50-$100</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+10005&amp;Ne=10000&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">$100 and up</span></a></li></ul></li><li class="collapsed"><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold">Discount<span class="expand-collapse CBD-CollapsedFilter">▼</span><span class="expand-collapse CBD-ExpandedFilter">▲</span></a><ul class="refinements or-refinements"><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5301&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">10%+ Off</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5302&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">20%+ Off</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5303&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">30%+ Off</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5304&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">40%+ Off</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5305&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">50%+ Off</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5306&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">60%+ Off</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5307&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">70%+ Off</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5308&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">80%+ Off</span></a></li><li><a rel="nofollow" href="/Christian/Books/easy_find?event=EBRN&amp;N=5401+5309&amp;Ne=5300&amp;Nso=1&amp;Nu=product.endeca_rollup&amp;Ns=product.number_sold"><span class="checkbox or-checkbox"></span><span class="text">90%+ Off</span></a></li></ul></li>
 
     </ul>
     </div>
@@ -302,12 +462,12 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
     
         <div class="CBD-TreeHeadingWrapper CBD-TreeStaticLinks"><div class="CBD-HeadingTree">Advanced Search Links</div>
     <ul>
-        <li><a href="http://www.christianbook.com/Christian/Books/advanced_search">Advanced Search</a></li>
-        <li><a href="http://www.christianbook.com/Christian/Books/easy_find?format=1014644&amp;category=Commentaries&amp;N=1014740&amp;Ne=1014644&amp;advanced_search=commentary">Commentary Search</a></li>
-        <li><a href="http://www.christianbook.com/apps/biblefinder">Bible Finder</a></li>
-        <li><a href="http://www.christianbook.com/apps/finder?type=Homeschool">Homeschool Finder</a></li>
-        <li><a href="http://www.christianbook.com/Christian/Books/song_search">Song Search</a></li>
-        <li><a href="http://www.christianbook.com/Christian/Books/easy_find?format=1014644&amp;category=Bible+Study+Guides&amp;N=1014886&amp;Ne=1014644&amp;advanced_search=bible_study">Bible Study Search</a></li>
+        <li><a href="/apps/advanced-search">Advanced Search</a></li>
+        <li><a href="/Christian/Books/easy_find?format=1014644&amp;category=Commentaries&amp;N=1014740&amp;Ne=1014644&amp;advanced_search=commentary">Commentary Search</a></li>
+        <li><a href="/apps/biblefinder">Bible Finder</a></li>
+        <li><a href="/apps/finder?type=Homeschool">Homeschool Finder</a></li>
+        <li><a href="/Christian/Books/song_search">Song Search</a></li>
+        <li><a href="/Christian/Books/easy_find?format=1014644&amp;category=Bible+Study+Guides&amp;N=1014886&amp;Ne=1014644&amp;advanced_search=bible_study">Bible Study Search</a></li>
     </ul>
     </div>
 
@@ -381,7 +541,7 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
 
 <p>Our site includes links to other websites which are not our subsidiary or affiliated companies. These websites are not owned or operated by us and we are not responsible for their actions or activities. We encourage you to review the privacy and security policies of these websites and advertisers. We do not provide personally identifiable information to these advertisers or third party websites.</p>
 
-<p>Third party vendors, including Google, may show ads for Christianbook.com on websites across the internet. Some of these ads may be served based on information collected from the Christianbook.com website through the use of cookies. The Network Advertising Initiative (“NAI”) is a cooperative of online marketing and analytics companies which provides information regarding Internet advertising and marketing companies. The NAI website provides an opt-out tool which allows consumers to opt-out of the advertising delivered by NAI member companies. The NAI opt-out tool is located at <strong><a href="http://www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></strong>.</p>
+<p>Third party vendors, including Google, may show ads for Christianbook.com on websites across the internet. Some of these ads may be served based on information collected from the Christianbook.com website through the use of cookies. The Network Advertising Initiative (“NAI”) is a cooperative of online marketing and analytics companies which provides information regarding Internet advertising and marketing companies. The NAI website provides an opt-out tool which allows consumers to opt-out of the advertising delivered by NAI member companies. The NAI opt-out tool is located at <strong><a href="//www.networkadvertising.org/managing/opt_out.asp">http://www.networkadvertising.org/managing/opt_out.asp</a></strong>.</p>
 
 <p><strong>Conditions of use</strong></p>
 
@@ -412,12 +572,21 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
                 <p>Sign Up To Receive<br>Exclusive Email Offers<br><span>You can unsubscribe at any time</span></p>
             </div>
            <div class="email-form">
-                <form id="email-signup-form" action="http://www.christianbook.com/Christian/Books/email_signup" method="POST" name="email-signup-form">
+                <form id="email-signup-form" action="/Christian/Books/email_signup" method="POST" name="email-signup-form">
+                    <div class="active-email-message">
+                        <p>Sign Up To Receive Exclusive Email Offers<br><span>You can unsubscribe at any time</span></p>
+                    </div>
                     <input type="email" placeholder="Enter Email Address" class="email-input" name="nav-email-address" alt="Enter Email Address"> 
                     <!--[if lte IE 9]>
                          <p class="ie-input-label">Enter Email Address</p>
                     <![endif]-->
-                    <input type="submit" value="Sign Up" class="email-btn" name="signup" id="signup">
+                    <input type="hidden" id="recaptcha_element_id" name="recaptcha_element_id" value="captcha_nav_footer_email_signup">
+                    <input type="hidden" id="form_name" name="form_name" value="desktop-footer-email-signup">
+                    <div class="email-btn" id="signup">Sign Up</div>
+                    <input type="text" id="email_signup_address" name="email_signup_address" style="display:none;">
+
+                <div id="captcha_nav_footer_email_signup" style="display: none;"></div>
+                <input type="submit" name="signup" value="Sign Up" class="email-submit">
                 </form>
             </div>
         </div>
@@ -440,19 +609,19 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
             <ul class="footer-nav">
                 <li class="footer-nav-title"> <span>Account</span>
                     <ul>
-                        <li><a href="http://www.christianbook.com/Christian/Books/bookbag?co=1" rel="nofollow">Checkout</a></li>
+                        <li><a href="/Christian/Books/bookbag?co=1" rel="nofollow">Checkout</a></li>
                         <li><a href="https://www.christianbook.com/apps/account/" rel="nofollow">Account</a></li>
                         <li><a href="https://www.christianbook.com/apps/account/order_history" rel="nofollow">Order History</a></li>
-                        <li><a href="http://www.christianbook.com/Christian/Books/wishlist" rel="nofollow">Wishlist</a></li>
-                        <li><a href="http://www.christianbook.com/Christian/Books/bookbag" rel="nofollow">Cart</a></li>
+                        <li><a href="/Christian/Books/wishlist" rel="nofollow">Wishlist</a></li>
+                        <li><a href="/Christian/Books/bookbag" rel="nofollow">Cart</a></li>
                         <li><a href="https://www.christianbook.com/apps/account/email_preferences">Subscribe Email</a></li>
                         <li><a href="https://www.christianbook.com/Christian/Books/subscription_management">Unsubscribe Email</a></li>
                     </ul>
                 </li>
                 <li class="footer-nav-title"> <span>Shipping &amp; Returns</span>
                     <ul>
-                        <li><a href="http://www.christianbook.com/Christian/Books/shipping_chart">Shipping Rates</a></li>
-                        <li><a href="http://www.christianbook.com/page/info/returns">Easy Returns</a></li>
+                        <li><a href="/Christian/Books/shipping_chart">Shipping Rates</a></li>
+                        <li><a href="/page/info/returns">Easy Returns</a></li>
                     </ul>
                 </li>
             </ul>
@@ -462,20 +631,20 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
                 <li class="footer-nav-title"> <span>Services</span>
                     <ul>
                         
-                        <li><a href="http://www.christianbook.com/page/affiliate-program">Affiliate Program</a></li>
+                        <li><a href="/page/affiliate-program">Affiliate Program</a></li>
                         
-                        <li><a href="http://www.christianbook.com/Christian/Books/gift_certificate">Gift Cards</a></li>
+                        <li><a href="/apps/gift-card">Gift Cards</a></li>
                         
-                        <li><a href="http://www.christianbook.com/apps/membership">Membership</a></li>
+                        <li><a href="/apps/membership">Membership</a></li>
                        
-                       <li><a href="http://www.christianbook.com/selfpublish">Self-Publishing</a></li>
+                       <li><a href="/selfpublish">Self-Publishing</a></li>
                     </ul>
                 </li>
                 <li class="footer-nav-title"> <span>Catalog</span>
                     <ul>
-                       <li><a href="http://www.christianbook.com/apps/catalog_quick_shop">Catalog Quick Shop</a></li>
-                        <li><a href="http://www.christianbook.com/Christian/Books/catalog_index">Online Catalogs</a></li>
-                        <li><a href="http://www.christianbook.com/Christian/Books/catalog_request" class="CBD-CatalogRequest-Footer">Request our Catalogs</a></li>
+                       <li><a href="/apps/catalog_quick_shop">Catalog Quick Shop</a></li>
+                        <li><a href="/Christian/Books/catalog_index">Online Catalogs</a></li>
+                        <li><a href="/Christian/Books/catalog_request" class="CBD-CatalogRequest-Footer">Request our Catalogs</a></li>
                     </ul>
                 </li>
             </ul>
@@ -486,25 +655,25 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
                 <li class="footer-nav-title"> <span>Community</span>
                     <ul>
                         
-                        <li><a href="http://www.christianbook.com/page/community">Social Media</a></li>
-                        <li><a href="http://www.christianbook.com/page/community/prayer-wall">Prayer Wall</a></li>
+                        <li><a href="/page/community">Social Media</a></li>
+                        <li><a href="/page/community/prayer-wall">Prayer Wall</a></li>
                         
-                        <li><a href="http://www.christianbook.com/page/christian-authors">Author Profiles</a></li>
+                        <li><a href="/page/christian-authors">Author Profiles</a></li>
                     </ul>
                 </li>
                 <li class="footer-nav-title"> <span>About Us</span>
                     <ul>
-                        <li><a href="http://www.christianbook.com/page/about-us">Company Info.</a></li>
+                        <li><a href="/page/about-us">Company Info.</a></li>
                         
-                        <li><a href="http://www.christianbook.com/page/info/job-opportunities">Job Opportunities</a></li>
+                        <li><a href="/page/info/job-opportunities">Job Opportunities</a></li>
                         
                     </ul>
                 </li>
                 <li class="footer-nav-title"> <span>Help</span>
                     <ul>
-                        <li><a href="http://www.christianbook.com/page/info/customer-service">Customer Service</a></li>
+                        <li><a href="/page/info/customer-service">Customer Service</a></li>
                         
-                        <li><a href="http://www.christianbook.com/page/info/faqs">FAQ</a></li>
+                        <li><a href="/page/info/faqs">FAQ</a></li>
                     </ul>
                 </li>
                 
@@ -516,18 +685,18 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
                 <li class="footer-nav-title last"> <span>Shops</span>
                     <ul>
                         
-    <li><a href="http://www.christianbook.com/page/bibles?event=FOOT">Bibles</a></li>
-    <li><a href="http://www.christianbook.com/page/homeschool?event=FOOT">Homeschool</a></li>
-    <li><a href="http://www.christianbook.com/page/bargains?event=FOOT">Bargains</a></li>
-    <li><a href="http://www.christianbook.com/page/vbs?event=FOOT">VBS</a></li>
-    <li><a href="http://www.christianbook.com/page/christian-living?event=FOOT">Christian Living</a></li>
-    <li><a href="http://www.christianbook.com/page/kids/toys?event=FOOT">Toys</a></li>
-    <li><a href="http://www.christianbook.com/page/gifts?event=FOOT">Gifts</a></li>
-    <li><a href="http://www.christianbook.com/page/kids?event=FOOT">Kids</a></li>
-    <li><a href="http://www.christianbook.com/page/dvds?event=FOOT">DVDs</a></li>
-    <li><a href="http://www.christianbook.com/page/fiction?event=FOOT">Fiction</a></li>
-    <li><a href="http://www.christianbook.com/page/music?event=FOOT">Music</a></li>
-    <li><a href="http://www.christianbook.com/page/academic?event=FOOT">Academics</a></li>
+    <li><a href="/page/bibles?event=FOOT">Bibles</a></li>
+    <li><a href="/page/homeschool?event=FOOT">Homeschool</a></li>
+    <li><a href="/page/bargains?event=FOOT">Bargains</a></li>
+    <li><a href="/page/vbs?event=FOOT">VBS</a></li>
+    <li><a href="/page/christian-living?event=FOOT">Christian Living</a></li>
+    <li><a href="/page/kids/toys?event=FOOT">Toys</a></li>
+    <li><a href="/page/gifts?event=FOOT">Gifts</a></li>
+    <li><a href="/page/kids?event=FOOT">Kids</a></li>
+    <li><a href="/page/dvds?event=FOOT">DVDs</a></li>
+    <li><a href="/page/fiction?event=FOOT">Fiction</a></li>
+    <li><a href="/page/music?event=FOOT">Music</a></li>
+    <li><a href="/page/academic?event=FOOT">Academics</a></li>
 
 
                     </ul>
@@ -548,34 +717,34 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
                 <img src="//g.christianbook.com/g/templates/themes/1000001/new_logo.png" alt="Christianbook.com Logo">
                 
         </div>
-        <div class="contact-info" itemscope="" itemtype="http://schema.org/Organization">
+        <div class="contact-info">
             <div class="set-1 contact-sets">
                 <div id="phone-number" class="contact-item">
-                    <div class="contact-icon footer-phone">&nbsp;</div><p>1-800-CHRISTIAN<br><span itemprop="telephone">1-800-247-4784</span><br><span>(Outside the United States<br>and Canada Call: 978-977-5000)</span></p>
+                    <div class="contact-icon footer-phone">&nbsp;</div><p>1-800-CHRISTIAN<br><span>1-800-247-4784</span><br><span>(Outside the United States<br>and Canada Call: 978-977-5000)</span></p>
                 </div>
             </div>
             <div class="set-2 contact-sets">
                 <div class="contact-item">
-                    <div class="contact-icon footer-email"><a href="mailto:customer.service@christianbook.com" target="_blank">&nbsp;</a></div><a itemprop="email" href="mailto:customer.service@christianbook.com" target="_blank">customer.service@christianbook.com</a>
+                    <div class="contact-icon footer-email"><a href="/apps/feedback">&nbsp;</a></div><a href="/apps/feedback">Email Us</a>
                 </div>
                 <div class="contact-item">
-                    <div class="contact-icon footer-address"></div><span itemprop="address">140 Summit St. Peabody, MA 01960</span>
+                    <div class="contact-icon footer-address"></div><span>140 Summit St. Peabody, MA 01960</span>
                 </div>
             </div>
         </div>
     </div>
     <ul class="meta">
-        <li><a href="http://www.christianbook.com/page/info/terms-and-conditions">Conditions of Use</a></li>
-        <li><a href="http://www.christianbook.com/page/info/privacy-notice">Privacy Notice</a></li>
-        <li>© 2016 Christianbook.com, LLC</li>
-        <li class="machine">* 51 *</li>
+        <li><a href="/page/info/terms-and-conditions">Conditions of Use</a></li>
+        <li><a href="/page/info/privacy-notice">Privacy Notice</a></li>
+        <li>© 2017 Christianbook.com, LLC</li>
+        <li class="machine">* 35 *</li>
     </ul>
     
     <ul class="badges">
         <li><a style="position:relative;top:10px;" href="#curr" onclick="window.open('http://www.bizrate.com/ratings_guide/cust_reviews__mid--19843.html')"><img src="//g.christianbook.com/g/bizrate_dynamic_medal.gif" alt="Click here to see ratings" width="125" height="73" align="top" border="0"></a></li>
         <li><a style="position:relative;top:-10px;" href="#curr" onclick="window.open('https://trustsealinfo.websecurity.norton.com/splash?form_file=fdf/splash.fdf&amp;dn=WWW.CHRISTIANBOOK.COM&amp;lang=en')"><img src="//g.christianbook.com/g/image001.png" border="0" alt="Norton Secured"></a></li>
         <li><a href="#curr" onclick="window.open('https://otalliance.org/HonorRoll')" style="position:relative; top:0px"><img src="//g.christianbook.com/g/static/ntob/2015honorrollgraphic.jpg" border="0" width="77px" height="80px" alt="OTA Honor Roll 2015"></a></li>
-        <li><a href="#curr" onclick="window.open('http://www.bizrate.com/ratings_guide/merchant_detail__mid--19843.html')"><img src="//g.christianbook.com/g/static/ntob/bizratebadge2013_60x85.gif" border="0" alt="Bizrate Circle of Excellence 2015"></a></li>
+        <li><a href="#curr" onclick="window.open('http://www.bizrate.com/ratings_guide/merchant_detail__mid--19843.html')"><img src="//g.christianbook.com/g/static/ntob/bizratebadge.gif" border="0" alt="Bizrate Circle of Excellence"></a></li>
         <li><img src="//g.christianbook.com/g/Top2015.gif" border="0" alt="Top Places to Work 2015"></li>
     </ul>
     
@@ -587,8 +756,6 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
 
 
 
-<script id="CBD-SectionHeading-Template" type="text/x-mustache-template"><h{{sectionHeadingHTMLLevel}} class="CBD-SectionHeading CBD-SectionHeading-Level{{sectionHeadingVisualLevel}}"{{#sectionHeadingRollUp}} data-CBD-SectionHeadingGroup="{{sectionHeadingRollUp}}"{{/sectionHeadingRollUp}}{{#sectionHeadingId}} id="{{sectionHeadingId}}"{{/sectionHeadingId}}><{{#sectionHeadingLink}}{{#sectionHeadingRollUp}}span{{/sectionHeadingRollUp}}{{^sectionHeadingRollUp}}a href="{{sectionHeadingLink}}"{{/sectionHeadingRollUp}}{{/sectionHeadingLink}}{{^sectionHeadingLink}}span{{/sectionHeadingLink}} class="CBD-SectionHeadingText">{{{sectionHeading}}}</{{#sectionHeadingLink}}{{#sectionHeadingRollUp}}span{{/sectionHeadingRollUp}}{{^sectionHeadingRollUp}}a{{/sectionHeadingRollUp}}{{/sectionHeadingLink}}{{^sectionHeadingLink}}span{{/sectionHeadingLink}}>{{#sectionHeadingLink}} <a class="CBD-SectionHeadingLink" href="{{sectionHeadingLink}}">{{sectionHeadingLinkText}}</a>{{/sectionHeadingLink}}</h{{sectionHeadingHTMLLevel}}>
-</script>
 <script id="CBD-BannerGroupItem-Template" type="text/x-mustache-template">    <li class="CBD-BannerGroupItem">
       {{#bannerGroupItemLink}}<a class="CBD-BannerGroupItemLink" href="{{bannerGroupItemLink}}"><img class="CBD-BannerGroupItemImage" src="{{bannerGroupItemImage}}" {{#bannerGroupItemText}}alt="{{bannerGroupItemText}}" title="{{bannerGroupItemText}}" {{/bannerGroupItemText}}/></a>{{/bannerGroupItemLink}}
       {{^bannerGroupItemLink}}<span class="CBD-BannerGroupItemLink"><img class="CBD-BannerGroupItemImage" src="{{bannerGroupItemImage}}" {{#bannerGroupItemText}}alt="{{bannerGroupItemText}}" title="{{bannerGroupItemText}}"{{/bannerGroupItemText}} /></span>{{/bannerGroupItemLink}}
@@ -632,11 +799,14 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
     <script>window.jQuery || document.write('<script src="//g.christianbook.com/javascript//jquery-1.8.2.min.js">\x3C/script>')</script> -->
 
 
+
+
     <script type="text/javascript">
-        // Add a script element as a child of the body
+    
         function downloadJSAtOnload() {
+            // Legacy packer: add a script element as a child of the body
             var element = document.createElement("script");
-            element.src = "//g.christianbook.com/jspack?js=000,010,011,012,013,014,015,100,103,105,106,107,440,450,451,455,457,458,459&v=1.48.71";
+            element.src = "//g.christianbook.com/jspack?js=000,010,011,012,013,014,015,100,103,105,106,107,440,450,451,455,457,458,459&v=95a4a800b3fa455b75125c0e36214d57";
             document.body.appendChild(element);
         }
         // Check for browser support of event handling capability
@@ -647,38 +817,18 @@ src="https://www.facebook.com/tr?id=877865672326885&ev=PageView&noscript=1"
         } else {
             window.onload = downloadJSAtOnload;
         }
+
     </script>
 
 
 
-    
-<!-- Google Code for Smart Pixel -->
-<script type="text/javascript">
-var google_custom_params = {   
-  pagetype : ''
-};
-</script>
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1071467638;
-var google_conversion_label = "k2TnCNSt9AIQ9pj1_gM";
-var google_tag_params = window.google_tag_params;
-var google_remarketing_only = true;
-/* ]]> */
-</script>
-<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/1071467638/?value=0&amp;label=k2TnCNSt9AIQ9pj1_gM&amp;guid=ON&amp;script=0"/>
-</div>
-</noscript>
-
-<!-- begin Certona -->
+    <!-- begin Certona -->
 <script class="cbd-certona-tag" type="text/javascript">
     var resx = new Object();
     resx.appid = 'christianbook01';
-    certonaResx.run(); 
+    setTimeout( function(){
+        certonaResx.run();
+    }, 1000);
 </script>
 <!-- end Certona -->
 
@@ -687,4 +837,4 @@ var google_remarketing_only = true;
 
 
 
-</div></div><script src="//g.christianbook.com/jspack?js=000,010,011,012,013,014,015,100,103,105,106,107,440,450,451,455,457,458,459&amp;v=1.48.71"></script></body></html>
+</div></div><script src="//g.christianbook.com/jspack?js=000,010,011,012,013,014,015,100,103,105,106,107,440,450,451,455,457,458,459&amp;v=95a4a800b3fa455b75125c0e36214d57"></script></body></html>
