@@ -1,6 +1,12 @@
-> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106133436id_/https%3A//www.jamesvillas.co.uk/information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jamesvillas.co.uk privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315221457id_/https%3A//www.jamesvillas.co.uk/help-and-advice/privacy-policy) for the most accurate reproduction.*
 
-# James Villa Holidays Privacy Policy
+# Privacy Policy | James Villa Holidays
+
+  * [Home](https://web.archive.org/)
+  * [Help and Advice](https://web.archive.org/help-and-advice)
+  * Privacy Policy
+
+
 
 ## 1\. Who is responsible for managing my information?
 
@@ -8,7 +14,7 @@ This is the Privacy Policy of James Villa Holidays Ltd ("we" or "us"). This webs
 
 ## 2\. What information do we collect? 
 
-If you choose to make a booking through us we will collect details that you provide in relation to that booking. Information held is likely to include your name, date of birth, contact details, payment details, information about people travelling with you, information about your booking and any additional information we may need to help meet your specific travel requirements. If you choose to let your holiday accommodation with us we will collect details such as your name, contact details, bank account details and details regarding the accommodation you wish to let. We also collect website usage information. We do this using cookies. For further information about cookies and how we use them please see our [Cookie policy](https://web.archive.org/cookie-policy).
+If you choose to make a booking through us we will collect details that you provide in relation to that booking. Information held is likely to include your name, date of birth, contact details, payment details, information about people travelling with you, information about your booking and any additional information we may need to help meet your specific travel requirements. If you choose to let your holiday accommodation with us we will collect details such as your name, contact details, bank account details and details regarding the accommodation you wish to let. We also collect website usage information. We do this using cookies. For further information about cookies and how we use them please see our [Cookie policy](https://web.archive.org/help-and-advice/cookie-policy).
 
 If you use our mobile applications, we may collect location data. For more information, see section 14 below.
 
