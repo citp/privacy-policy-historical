@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the location3.net privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905225824id_/http%3A//www.location3.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the location3.net privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315052742id_/https%3A//www.location3.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Location3 Media
+# Privacy Policy - Location3 Media
 
 Location3 Media, Inc. (“Location3”) partners with national brands to increase their findability and performance across all digital platforms. By leveraging elite certifications and industry-leading experience, we help companies create efficient and effective online marketing campaigns that fit our clients’ needs and deliver results. Since Location3 considers your privacy a serious matter, we have implemented measures designed to protect your personal information, as set forth in our privacy policy (the “Privacy Policy”). This Privacy Policy governs your interactions with our website and your use of our online services.
 
