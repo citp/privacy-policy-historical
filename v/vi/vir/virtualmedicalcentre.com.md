@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227003013id_/http%3A//www.myvmc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the virtualmedicalcentre.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316005952id_/https%3A//www.myvmc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | myVMC
 
@@ -46,21 +46,21 @@ myVMC will not collect your personal information unless you have consented and g
 Where and what personal information is collected and how it is used:  
 [Sign-up page](https://web.archive.org/sign-up/)
 
-_General Patient Membership_
+ _General Patient Membership_
 
   * What personal information is collected: If you sign-up as a patient member of the site, the following information is collected: title, name, username, password, gender, year of birth, country, state and your interest in receiving our patient email publications.
   * How this personal information is used: This information is used to identify you, so you can log into the site, for correspondence with you (if you opt to receive myVMC publications) and for myVMC internal statistics purposes.
 
 
 
-_Health Professional Membership_
+ _Health Professional Membership_
 
   * What personal information is collected: If you are signing up as a health professional, the following information is collected: title, name, username, password, gender, year of birth, professional area, professional body provider number, areas of interest and if you are interested in receiving myVMC professional email and print publications.
   * How this personal information is used: For health professionals, professional body numbers are collected to ensure that you are in fact a health professional, in order to view the password-secure professional level of information.
 
 
 
-_Surveys_
+ _Surveys_
 
 Surveys are conducted on both the website and enewsletters. They are optional.
 
