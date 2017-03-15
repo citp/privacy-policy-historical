@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the openrent.co.uk privacy policy that was archived on 2014-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140401001414id_/https%3A//www.openrent.co.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the openrent.co.uk privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315124910id_/https%3A//www.openrent.co.uk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - OpenRent
 
 OpenRent Ltd (Company No. 07749632) ("We") are committed to protecting and respecting your privacy. 
 
-We respect our users' right to privacy and are fully compliant with the Data Protection Act 1998. As part of this commitment we are a registered data controller with the [ICO](http://www.ico.gov.uk/); our registration number is **Z3143615**. 
+We respect our users' right to privacy and are fully compliant with the Data Protection Act 1998. As part of this commitment we are a registered data controller with the [ICO](http://ico.org.uk/); our registration number is **ZA083975**. 
 
 Our Privacy Policy outlines how we collect, use and protect any Personal Data you provide to us while using OpenRent.co.uk and what your rights are in relation to that information. 
 
