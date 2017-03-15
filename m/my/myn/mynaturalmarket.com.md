@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mynaturalmarket.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027040043id_/https%3A//www.mynaturalmarket.com/privacy.html%3FosCsid%3Docqefpnd8oapr6ektoej4aru05) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mynaturalmarket.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315151710id_/https%3A//www.mynaturalmarket.com/privacy.html) for the most accurate reproduction.*
 
 # Natural, Organic Vitamins & Supplements | MyNaturalMarket.com
 
