@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the menufy.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820190728id_/https%3A//www.menufy.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menufy.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315164241id_/https%3A//www.menufy.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Menufy
 
@@ -11,7 +11,7 @@
   * Third parties do not collect PII and individual consumers’ online activities over time and across different websites when a consumer uses Menufy.
   * We do not take any action when a browser sends us a DNT (do not track) signal.
   * By providing their email address, customers may opt-in to receive email notifications from third parties when new promotions are available.
-  * You can submit a request to review or update your PII by sending an email, requesting a copy of your PII or making changes to your PII, to info@menufy.com, or in writing to Menufy.com LLC, 6900 College Blvd Suite 680, Overland Park, KS 66211
+  * You can submit a request to review or update your PII by sending an email, requesting a copy of your PII or making changes to your PII, to info@menufy.com, or in writing to Menufy.com LLC, 6900 College Blvd Suite 500, Overland Park, KS 66211
 
 
 
