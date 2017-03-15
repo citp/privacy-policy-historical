@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newearth.com privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914103927id_/http%3A//www.newearth.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newearth.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315211128id_/http%3A//www.newearth.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | New Earth - Life Starts Here. Living Begins Now.
 
