@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the xvid.org privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905215655id_/https%3A//www.xvid.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xvid.org privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315175305id_/https%3A//www.xvid.com/privacy) for the most accurate reproduction.*
 
 # Xvid - Privacy
 
-This Privacy Policy was last modified on March 14, 2014.
+This Privacy Policy was last modified on December 6, 2016.
 
-Xvid ("us", "we", or "our") operates http://xvid.com (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
+The Xvid Site Owners ("us", "we", or "our") operate https://xvid.com and all its subdomains or sub-services (the "Site"). This page informs you of our policies regarding the collection, use and disclosure of Personal Information we receive from users of the Site.
 
-We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our Terms and Conditions, accessible at http://xvid.com/tos/.
+We use your Personal Information only for providing and improving the Site. By using the Site, you agree to the collection and use of information in accordance with this policy. Unless otherwise defined in this Privacy Policy, terms used in this Privacy Policy have the same meanings as in our General Terms of Service, accessible at[ https://xvid.com/tos/](https://www.xvid.com/tos/).
 
   
 
@@ -38,7 +38,7 @@ Apart from enhancing the functionality and user experience of our site, we use c
 
 ### Auto Updates
 
-When enabling auto-updates in any of our software, some information about your computer like your IP address or other Log Data may be collected by our update servers. We promise to not share this data any third party and to use it only for statistical purposes and to improve our service.
+When enabling and using the auto-update feature with any of the software downloadable from our Site, some information about your computer like your IP address, a randomized device ID or other Log Data may be collected by our update servers. We promise to not share this data to any third party and to use it only to compile statistics and reports that are vital for providing or improving the quality of our service.
 
   
 
@@ -54,14 +54,14 @@ The security of your Personal Information is important to us, but remember that 
 
 Our Site may contain links to other sites that are not operated by us. If you click on a third party link, you will be directed to that third party's site. We strongly advise you to review the Privacy Policy of every site you visit.
 
-Xvid has no control over, and assumes no responsibility for, the content, privacy policies, or practices of any third party sites or services.
+We have no control over, and assume no responsibility for, the content, privacy policies, or practices of any third party sites or services.
 
   
 
 
 ### Changes To This Privacy Policy
 
-Xvid may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
+We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on the Site. You are advised to review this Privacy Policy periodically for any changes.
 
   
 
