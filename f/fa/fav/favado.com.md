@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the favado.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623113247id_/http%3A//www.savings.com/favado/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the favado.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315115513id_/http%3A//www.savings.com/favado/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Favado App
 
