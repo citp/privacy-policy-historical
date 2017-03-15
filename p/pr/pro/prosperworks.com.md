@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the prosperworks.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118111538id_/https%3A//www.prosperworks.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prosperworks.com privacy policy that was archived on 2017-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170315065642id_/https%3A//www.prosperworks.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | ProsperWorks CRM for Google Apps
+# Privacy Policy | ProsperWorks, Google's Recommended CRM
 
 **ProsperWorks, Inc.  
 301 Howard St. #600  
