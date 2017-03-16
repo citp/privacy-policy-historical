@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405234001id_/https%3A//www.digimarc.com/about/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digimarc.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316234840id_/https%3A//www.digimarc.com/about/company/privacy-policy) for the most accurate reproduction.*
 
 # Digimarc's Privacy Policy
 
-### Digimarc Corporation is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.
+## Digimarc Corporation is concerned about privacy issues and wants you to be familiar with how we collect, use and disclose information.
 
 This Privacy Policy describes our practices in connection with information that we collect through the website owned and controlled by us from which you are accessing this Privacy Policy (the “Site”). By providing Personal Information to us, you agree to the terms and conditions of this Privacy Policy.
 
