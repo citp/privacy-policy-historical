@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the red.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617042731id_/https%3A//red.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the red.org privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316181700id_/https%3A//red.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy – (RED)
+# Privacy Policy - (RED)
 
-**PRIVACY POLICY**
+**Privacy Policy**
 
 www.red.org (the “Site”) is owned by (RED), a division of the ONE Campaign (“us”, “we”, “our” or “(RED)”). (RED) has legal obligations towards you in the way we deal with Personal Information (as defined below) that we collect from you. This Privacy Policy does not apply to other Sites which may be accessible through our Site and does not apply to practices of persons or entities that (RED) does not control, manage or employ. The Site contains  links to other Sites that are operated by third parties, including but not limited to third party Sites that may display (RED)’s trademarks and logos. We encourage you to read the privacy policies on those other Sites. Whenever we make a material change to this Privacy Policy, we will post such change on the Site, and any such change will be effective immediately upon posting. Please check this Privacy Policy regularly to keep up-to-date with any changes.
 
@@ -35,11 +35,3 @@ The security and confidentiality of your information is extremely important to u
 Please note that Personal Information stored on the Site will be collected, stored and processed in the United States of America. By this Privacy Policy, (RED) has intended to abide by the safe harbor framework as set forth by the United States Department of Commerce regarding the collection, use and retention of data from the European Union and the PIPEDA regarding the collection, use and retention of data from Canada.
 
 Effective Date: November 2015
-
-## Cookies on the (RED) website
-
-We use cookies to ensure that we give you the best experience on our website and to provide us with important information about visitors. By continuing to browse the site we’ll assume that you are happy to receive all cookies set on the (RED) website.
-
-  * Continue
-
-
