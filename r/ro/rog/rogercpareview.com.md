@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rogercpareview.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604125126id_/https%3A//www.rogercpareview.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rogercpareview.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316180522id_/https%3A//www.rogercpareview.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Roger CPA Review
 
