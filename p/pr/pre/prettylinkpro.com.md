@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528105854id_/https%3A//prettylinkpro.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prettylinkpro.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316185131id_/https%3A//prettylinkpro.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WordPress Affiliate Link Cloaker | WordPress URL Shortener | Pretty Link Pro
 
@@ -14,7 +14,7 @@ Caseproof, LLC, a Utah limited liability company, owns and operates this website
 **Traffic Data**
 
   * Your IP address is a numeric address assigned to your computer, assigned by your Internet service provider. We automatically collect your IP address as traffic data so that we can send information back to you when requested. This is not used to identify your personal information.
-  * Referrers are references to the web address you linked from and is automatically passed along by your web browser. We collect referrers your browser sends as part of traffic data. This is not attached to personally identifiable information. 
+  * Referrers are references to the web address you linked from and is automatically passed along by your web browser. We collect referrers your browser sends as part of traffic data. This is not attached to personally identifiable information.
   * System information such as your operating system/platform, and the type of web browser you use. This is not attached to personally identifiable information.
 
 
@@ -63,9 +63,10 @@ If, however, we are going to use visitors’ personally identifiable information
 
 If visitors have any questions or suggestions regarding our privacy policy, please contact us at:
 
-[Customer Service Form](https://web.archive.org/contact)  
-Phone: (801) 921-6928
+[Customer Service Form](https://web.archive.org/contact)
 
-Caseproof  
-1953 S 1100 E #521311  
-Salt Lake City, UT 84106
+Caseproof, LLC  
+11429 S District Dr.  
+#1227  
+South Jordan, UT 84095  
+(801) 921-6928
