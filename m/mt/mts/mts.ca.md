@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mts.ca privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617180224id_/http%3A//about.mts.ca/legal/%23privacy-code) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mts.ca privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316142425id_/http%3A//about.mts.ca/legal/%23privacy-code) for the most accurate reproduction.*
 
 # Legal Information - MTS
 
@@ -297,7 +297,7 @@ _For detailed inquiries or unresolved privacy concerns related to the Company in
 333 Main Street  
 Winnipeg, Manitoba R3C 3V6
 
-For a copy of the _Personal Information Protection and Electronic Documents Act,_ please contact the Privacy Commissioner of Canada web site at [www.privcom.gc.ca](http://www.privcom.gc.ca/).
+For a copy of the _Personal Information Protection and Electronic Documents Act,_ please contact the Privacy Commissioner of Canada web site at [www.privcom.gc.ca](https://www.priv.gc.ca/en/).
 
 For a copy of the CSA Model Code for the Protection of Personal Information contact:
 
