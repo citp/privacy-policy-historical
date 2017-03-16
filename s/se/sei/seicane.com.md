@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seicane.com privacy policy that was archived on 2016-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160830123853id_/http%3A//www.seicane.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seicane.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316085055id_/http%3A//www.seicane.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
