@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the charge.com privacy policy that was archived on 2015-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151114040357id_/http%3A//www.charge.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the charge.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316160850id_/https%3A//www.charge.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Credit Card Processing, Merchant Accounts, Accept Credit Cards
 
