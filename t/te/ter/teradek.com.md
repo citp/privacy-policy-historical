@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113711id_/http%3A//teradek.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teradek.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316180446id_/http%3A//www.teradek.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Teradek, LLC - Wireless HD Video
 
