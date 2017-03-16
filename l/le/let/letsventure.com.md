@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the letsventure.com privacy policy that was archived on 2016-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160413141043id_/https%3A//letsventure.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the letsventure.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316104411id_/https%3A//letsventure.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LetsVenture
 
