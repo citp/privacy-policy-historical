@@ -1,8 +1,16 @@
-> *The following text is extracted and transformed from the mygiftcardsupply.com privacy policy that was archived on 2016-05-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160528223628id_/http%3A//www.mygiftcardsupply.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mygiftcardsupply.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316070516id_/https%3A//www.mygiftcardsupply.com/privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - MyGiftCardSupply
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
+
+### Anti-money Laundering Policy and Patriot Act Notice
+
+To help the government fight the funding of terrorism and money laundering activities, we reserve the right to request, verify and record information that identifies each person who purchases a gift card from MyGiftCardSupply
+
+What this means to you: When you purchase a gift card, you give us permission to ask for your name, address, date of birth, and other information that will allow us to identify you. We may also ask to see your driver’s license and other identifying documents, as well as phone number for verification.
+
+These practices can be requested regardless of the payment method you chose including but not limited to credit card, PayPal, BitCoin and wire transfers.
 
 ### What personal information do we collect from the people that visit our blog, website or app?
 
