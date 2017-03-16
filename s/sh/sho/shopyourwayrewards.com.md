@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shopyourwayrewards.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122134146id_/http%3A//www.shopyourway.com/help/policies/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shopyourwayrewards.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316055133id_/https%3A//www.shopyourway.com/help/policies/privacy-policy) for the most accurate reproduction.*
 
 # ShopYourWay help (Privacy Policy - General ) | Shop Your Way: Online Shopping & Earn Points on Tools, Appliances, Electronics & more
 
