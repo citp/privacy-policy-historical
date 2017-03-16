@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the plagiarismsoftware.net privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414020929id_/http%3A//www.plagiarismsoftware.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the plagiarismsoftware.net privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316131137id_/https%3A//www.plagiarismsoftware.net/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
