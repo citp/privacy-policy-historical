@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mydeal.com.au privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220223202id_/http%3A//mydeal.com.au/info/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mydeal.com.au privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316175225id_/https%3A//www.mydeal.com.au/info/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -11,7 +11,7 @@ MyDeal respects your privacy and is committed to protecting your personal inform
 This Privacy Policy is in addition to the Terms and Conditions governing the Site and should be read in conjunction with the Terms and Conditions.   
 
 
-For more information on privacy in Australia, please refer to the Office of the Australian Information Commissioner [website](http://www.oaic.gov.au/). 
+For more information on privacy in Australia, please refer to the Office of the Australian Information Commissioner [website](https://www.oaic.gov.au/). 
 
 If you have any questions about this Privacy Policy, please contact us via the details on our Contact Us Page or on [support@mydeal.com.au](mailto:support@mydeal.com.au). 
 
