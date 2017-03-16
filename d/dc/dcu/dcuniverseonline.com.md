@@ -1,6 +1,18 @@
-> *The following text is extracted and transformed from the dcuniverseonline.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030142432id_/https%3A//www.daybreakgames.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dcuniverseonline.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316034110id_/https%3A//www.daybreakgames.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Daybreak Game Company
+
+(Last Updated: March 13, 2015)
+
+Click [here](https://web.archive.org/images/legal/downloads/daybreak_privacy_policy_20150313.pdf) for a printer-friendly version of the privacy policy
+
+Daybreak Game Company LLC (“ **Daybreak Games** ” or “ **we** ” or “ **our** ”) respects your privacy and is committed to protecting the Personal Information (as defined below) that you may provide us while using the Services (as defined below). Your use of the Services is subject to your agreement to the terms and conditions of this Privacy Policy (the “ **Privacy Policy** ”) and our [Terms of Service](https://web.archive.org/terms-of-service) (the “ **Daybreak Terms of Service** ”).
+
+This Privacy Policy sets out the basis on which we process the Personal Information and Other Information (as defined below) that we collect from or about you and is intended to notify you of our privacy practices concerning the following topics.
+
+  * [index]
+
+
 
 ## The websites and services covered by this Privacy Policy
 
