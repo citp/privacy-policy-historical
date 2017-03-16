@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the news-journal.com privacy policy that was archived on 2016-08-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160828231039id_/https%3A//www.news-journal.com/reader-services/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the news-journal.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316101848id_/https%3A//www.news-journal.com/reader-services/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Longview News Journal - Longview News-Journal - Longview, TX
 
