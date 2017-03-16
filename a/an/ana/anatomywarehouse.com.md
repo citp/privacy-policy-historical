@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anatomywarehouse.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111005833id_/https%3A//www.anatomywarehouse.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anatomywarehouse.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316014424id_/https%3A//www.anatomywarehouse.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
