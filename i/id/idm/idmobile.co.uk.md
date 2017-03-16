@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605123059id_/http%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the idmobile.co.uk privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316224227id_/https%3A//www.idmobile.co.uk/legal/privacy-and-cookies) for the most accurate reproduction.*
 
-# iD - Privacy and Cookies
+# Privacy & Cookies | Legal | iD Mobile | iD Mobile Network
+
+## Privacy and Cookies
 
 ### How iD use your personal information
 
