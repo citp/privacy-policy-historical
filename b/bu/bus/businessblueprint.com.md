@@ -1,201 +1,110 @@
-> *The following text is extracted and transformed from the businessblueprint.com privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808024718id_/http%3A//businessblueprint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the businessblueprint.com privacy policy that was archived on 2017-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170316072457id_/https%3A//businessblueprint.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Business Blueprint
+# Privacy Policy – Business Blueprint
 
-Dream Express International Pty Ltd (ABN 21 115 281 420) trading as “Business Blueprint” (“ **we** ”, “us” or the “ **Company** ”) is committed to privacy protection. At http://businessblueprint.com (“ **Business Blueprint** ” or “ **this site** ”), we understand the importance of keeping personal information private and secure.
+We strive to offer you the many advantages of Internet technology and to provide you an interactive and personalised experience. We may use Personally Identifiable Information (your name, email address, street address, telephone number) subject to the terms of this Privacy Policy.
 
-This privacy policy (“ **Privacy Policy** ”) describes generally how we manage personal information and safeguard privacy. If you would like more information, please don’t hesitate to contact us.
+We will never rent, trade or sell, your email address to anyone for any reason whatsoever. Period!
 
-This Privacy Policy forms part of, and is subject to the provisions of, our [Usage Terms](https://web.archive.org/usage-terms/).
+We know that your privacy and personal information is important to you, so that means your privacy is important to us as well. That’s why we have created this policy for your protection and security. Please read it carefully.
 
-**We care about your privacy:**
+  * We only ask for personal information that we require.
+  * We’ll tell you what information we have recorded about you.
+  * If you would like any personal information about you changed or deleted, just ask.
+  * We do not rent, trade or sell your personal information to anyone.
 
-**We will never rent, trade or sell your email address to anyone.**
 
-**We will never publicly display your email address or other personal details that identify you.**
 
-## The National Privacy Principles
+## Who We Are
 
-* * *
+****This website is operated by Dream Express Pty Ltd.
 
-We are bound by the National Privacy Principles of Australia, as provided in the Privacy Act 1988 (Cth) (“ **Privacy Act** ”). If you require any further information about the Privacy Act and the National Privacy Principles, you can visit the Federal Privacy Commissioner’s website (see www.privacy.gov.au).
+Our postal address is PO Box 808 Newport Beach NSW 2106 Australia.  
+You can reach us via e-mail at: support[at]businessblueprint.com  
+or by telephone at: 1300 782 734
 
-## What is “personal information”?
+We are an established business with physical premises and our contact details are shown on this Web site. Only our authorised personnel have access to your data.
 
-* * *
+## How We Gather Information About Visitors To Our Websites
 
-Personal information held by the Company may include (without limitation) your:
+****How we collect and store information depends on the page you are visiting, the activities in which you choose to participate and the services provided. For example, you may be asked to provide information when you register for access to certain sections of our websites or request certain features such as magazines, special reports, e-books or when you make a purchase. You may provide information when you participate in sweepstakes and contests, message boards and chat rooms, and other interactive areas of our site.
 
-  * name and date of birth;
-  * residential and business addresses, telephone/mobile/fax numbers and email addresses;
-  * bank account and/or credit card details for agreed billing purposes;
-  * preferences for using this site as well as your computer and connection information; and 
-  * any other personal information that you add to your Business Blueprint user profile or otherwise share with us.
+We can only identify you personally if you give us this information voluntarily. Like most websites, our web servers automatically record some general information about your visit, but do not recognise or record any Personally Identifiable Information about you. The information we record and use for statistical purposes is:
 
+  * Your server address
+  * The date and time
+  * The pages accessed and documents downloaded
+  * The previous site visited
+  * The type of browser used
 
 
-## How we may collect your personal information
 
-At Business Blueprint, we only collect personal information that is necessary for us to conduct our business (“ **Business** ”), which includes (without limitation):
+## Cookies and Session Tracking
 
-  * online business and personal development education;
-  * web-based streaming of live and recorded business and personal development training presentations;
-  * providing other online business and personal development training resources across a range of different formats, including video, audio and written/graphical materials;
-  * hosting of online forums for discussion of topics related to business and personal development education; and
-  * facilitating live online business and personal development seminars, classes, tutorials and coaching sessions.
+****Whenever you visit a website anywhere, your browser sends information identifying basic information about the nature of your operating system and the browser you are using. We use cookies and session variables to track the popularity of each page on our site and to understand the overall direction of traffic. We do not analyse or record your individual choices. By understanding the general viewing trends of our visitors, we can design our web pages to make your viewing experience simpler and more user-friendly. Learning how you found us helps us understand what you were looking for on the internet and assists us in tailoring our site for your best viewing experience. To read our full Cookie Policy[click here](https://web.archive.org/cookie-policy)
 
+## Your Email Address
 
+****We do not know your email address unless you give it to us. We only record your email address if you send us a message, either directly or by registering it on our site. We use it internally within our organisation, and do not sell or rent it to other parties.
 
-## Information that you provide to us
+When you register with us as a customer, we ask for your email address and information about you. The Personally Identifiable Information you supply is never, ever publicly displayed on our website.
 
-We may collect personal information that you provide to us about yourself when you:
+From time to time we email our customers with news, information and offers relating to our own products and services or those of selected partners. These mailings are always conducted by ourselves and never directly by a third party to ensure the security of your information.
 
-use this site, including (without limitation) when you:
+## How We Use This Information
 
-  * create a user account;
-  * add information to your user profile;
-  * register for access to premium content or request certain premium features;
-  * purchase any goods or services through this site;
-  * complete an online contact form to contact us or any of our affiliated training providers; or
-  * add reviews, forum or chat room messages or comments in any elements of this site that permit user-generated content;
-  * provide information to us by telephone or other means of telecommunication; and/or
-  * send us an email or other written communication (eg, through our online contact form).
+****We use your information to improve our website content and to ensure that our products and services are tailored to your current and future needs. This information also allows us to let you know about special offers and new products.
 
+Personally Identifiable Information collected by Dream Express Pty Ltd and its associates may be used (but not limited to) for site administration, troubleshooting, processing of e-commerce transactions, and other communications with you.
 
+## Who Has Access To Your Information?
 
-## IP addresses
+****Your Personally Identifiable Information is used internally and by people or organisations who need to know it as part of working with us in our normal business activities (e.g. sub-contractors, technical support).
 
-This site may also collect Internet Protocol (IP) addresses. IP addresses are assigned to computers on the internet to uniquely identify them within the global network. Business Blueprint may collect IP addresses in order to provide internet session management and for security purposes. We may also collect and use web log, computer and connection information for security purposes and to help prevent and detect any misuse of, or fraudulent activities involving, this site.
+We may need to supply your Personally Identifiable Information to other parties who work with us to provide a product or service to you.
 
-## Cookies
+We may disclose your Personally Identifiable Information in response to a court order, or at times when we believe we are reasonably required to do so by law, in connection with the collection of amounts you may owe to us, and/or to law enforcement authorities whenever we deem it appropriate or necessary. Please note that we may not provide you with notice prior to disclosure in such cases.
 
-* * *
+## **** Notice of Disclosure of Your Credit Information to a Credit Reporting Agency
 
-## What is a cookie?
+****We may give information about you to a credit reporting agency, for the following purposes:
 
-This site uses “cookies” to help personalise your online experience. A cookie is a text file or a packet of information that is placed on your hard disk by a web page server to identify and interact more effectively with your computer. There are two types of cookies that may be used at this site: a persistent cookie and a session cookie. A persistent cookie is entered by your web browser into a dedicated folder for cookies on your computer and remains in that folder after you close your browser, and may be used by your browser on subsequent visits to this site. A session cookie is held temporarily in your computer’s memory and disappears after you close your browser or shut down your computer. Cookies cannot be used to run programs. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you. In some cases, cookies may collect and store personal information about you. The Company extends the same privacy protection to your personal information, whether gathered via cookies or from other sources.
+  * to obtain a consumer credit report about you, and/or
+  * to allow the credit reporting agency to create or maintain a credit information file containing information about you in relation to payments which are overdue by more than 60 days, and for which debt collection action has started.
 
-## Why we use cookies
 
-This site uses cookies in order to:
 
-  * manage the signup process when you create an account with us;
-  * remember your preferences for using this site;
-  * recognise you as logged in while you remain so. This avoids your having to log in again every time you visit a new page;
-  * show relevant notifications to you (eg, notifications that are relevant only to users who have, or have not, created an account or subscribed to newsletters or email or other subscription services);
-  * facilitate e-commerce transactions, to ensure that your order is remembered between pages during the checkout process; and
-  * remember details of data that you choose to submit to us (eg, through online contact forms or by way of comments, forum posts, chat room messages, reviews, ratings, etc).
-  * Many of these cookies are removed or cleared when you log out but some may remain so that your preferences are remembered for future sessions.
+## Future Variations
 
+****Dream Express Pty Ltd reserves the right to change this policy at any time. If you are concerned about how your information is used, please check this page periodically for changes. Your continued use of this website following the posting of changes to these terms will mean you accept those changes.
 
+## Corrections
 
-## Third party cookies
+If you would like any personal information about you changed or deleted, just send an email to and well make the necessary changes as soon as possible. If you feel that this site is not following its stated information policy, please contact us at the above address or phone number.
 
-In some cases, third parties may place cookies through this site. For example:
+## Links to Other Sites
 
-  * Google Analytics, one of the most widespread and trusted website analytics solutions, may use cookies de-identified data about how long users spend on this site and the pages that they visit;
-  * Google AdSense, one of the most widespread and trusted website advertising solutions, may use cookies to serve more relevant advertisements across the web and limit the number of times that a particular advertisement is shown to you; and
-  * third party social media applications (eg, SproutSocial, Facebook, Twitter, LinkedIn, Pinterest, YouTube, Instagram, etc) may use cookies in order to facilitate various social media buttons and/or plugins in this site.
+****Where this site contains links to other sites, we do not accept responsibility for the privacy practices or the content of such other sites.
 
+We encourage other suitable websites to include a link back to this site provided you DO NOT use any trademarks or copyright information without permission and that you do not link to this site from a site or in a manner which disparages Dream Express Pty Ltd or it’s directors, employees, agents or suppliers. If you would like to arrange a link, please contact support@businessblueprint.com
 
+## Security
 
-## Your cookie settings
+While we make every effort to keep your information private and away from hackers, it is not possible for us to guarantee your privacy. Please weigh up the risk that your details will be misused by hackers with the benefit of receiving the great information that this site has to offer.
 
-You can configure your internet browser to accept all cookies, reject all cookies or notify you when a cookie is sent. Please refer to your internet browser’s instructions to learn more about these functions. Most web browsers automatically accept cookies, but you can usually modify your browser settings to decline cookies if you prefer. If you choose to decline cookies, you may break, disable or otherwise adversely affect the functionality of Business Blueprint and many other websites.
+## Liability Disclaimer
 
-## How we may use your personal information
+****We will use all reasonable endeavours to protect and keep your personal information confidential. If any of your personal information is accessed by a third party, whether through our negligence or otherwise, to the extent permitted by law, we disclaim any and all liability to any person or organisation for loss, damage or costs.
 
-* * *
+## Governing Law
 
-Your personal information may be used in order to:
+****This policy and the use of this website is governed by and construed in accordance with the laws of the State of New South Wales, Australia.
 
-  * deliver streamed live and recorded business and personal development training presentations, as well as other educational materials, to you as you may request through this site or any related mobile application;
-  * process any purchases of goods and/or services that you may make through this site;
-  * administer and manage any payments that may be made by you to the Company in respect of purchases for goods or services or otherwise, including charging, billing and collecting debts;
-  * respond to any queries or feedback that you may have;
-  * verify your identity and conduct appropriate checks for credit-worthiness and for fraud;
-  * prevent and detect any misuse of, or fraudulent activities involving, this site;
-  * conduct research and development in respect of our products and services;
-  * gain an understanding of your information and communication needs or obtain your feedback or views about our products/services in order for us to improve them; and/or
-  * maintain and develop our business systems and infrastructure, including testing and upgrading of these systems,
-  * and for any other purpose reasonably considered necessary or desirable by the Company in relation to the operation of the Business.
+If a dispute arises under this policy, which cannot be resolved by negotiation in a reasonable time, the dispute will be submitted for arbitration in accordance with the rules of the Institute of Arbitrators, Australia in the following location: Sydney, Australia. Each party shall be responsible for its own costs and fees other than legal fees associated with mediation.
 
+This statement and the policies outlined herein are not intended to and do not create any contractual or other legal rights in or on behalf of any party.  
+All rights not expressly granted herein are reserved.
 
+## More Information
 
-From time to time we may email our customers with news, information and offers relating to our own products and services or those of selected partners. This is to keep you informed of products, services and special offers that we believe you will find valuable and may continue after you cease acquiring goods or services from us. If you would prefer not to receive promotional or other material from us, please let us know and we will respect your request. You can unsubscribe from such communications at any time if you so choose.
-
-## When we may disclose your personal information
-
-* * *
-
-## Information provided to suppliers
-
-When you acquire or access any other goods or services from a third party supplier through this site, we will provide to that supplier such information as is necessary to enable it to process and administer your order. Such information will include personal information about you, including (without limitation) your name and contact details.
-
-## Information provided to other organisations
-
-In order to deliver the products/services you require or for the purposes set out above, the Company may also disclose your personal information to other organisations outside the Company. Your personal information may be disclosed to these organisations only in relation to Business Blueprint, and the Company takes reasonable steps to ensure that these organisations are bound by confidentiality and privacy obligations in relation to the protection of your personal information. These organisations may carry out or provide:
-
-  * customer enquiries;
-  * mailing systems;
-  * information technology services;
-  * marketing, telemarketing and sales services;
-  * market research; and
-  * website usage analysis.
-  * In addition, we may disclose your personal information to:
-  * your authorised representatives or legal advisers (when requested by you to do so);
-  * credit-reporting and fraud-checking agencies;
-  * credit providers (for credit-related purposes such as checks for creditworthiness, credit rating as well as credit provision and financing);
-  * banks or other financial institutions (for the purposes of processing payments made by you to the Company);
-  * our professional advisers, including our accountants, auditors and lawyers;
-  * government and regulatory authorities and other organisations, as required or authorised by law;
-  * organisations who manage our business and corporate strategies, including those involved in a transfer/sale of all or part of our assets or business (including accounts and trade receivables) and those involved in managing our corporate risk and funding functions; and/or
-  * the police or other appropriate persons where your communication suggests possible illegal activity or harm to others.
-
-
-
-## Contacting us about privacy
-
-* * *
-
-If you would like more information about how we manage personal information that we may hold about you, or are concerned that we may have breached your privacy, please contact our Privacy Officer by email to support@businessblueprint.com.
-
-## Access to your personal information
-
-In most cases, you may have access to personal information that we hold about you. We will handle requests for access to your personal information in accordance with the National Privacy Principles of Australia. All requests for access to your personal information must be directed to our Privacy Officer by email using the email address provided above. We will deal with all requests for access to personal information as quickly as possible. Requests for a large amount of information, or information that is not currently in use, may require further time before a response can be given. We may charge you a fee for access if a cost is incurred by us in order to retrieve your information, but in no case will we charge you a fee for your application for access.
-
-In some cases, we may refuse to give you access to personal information that we hold about you. This may include circumstances where giving you access would:
-
-  * be unlawful (eg, where a record that contains personal information about you is subject to a claim for legal professional privilege by one of our contractual counterparties);
-  * have an unreasonable impact on another person’s privacy; or
-  * prejudice an investigation of unlawful activity.
-
-
-
-We may also refuse access where the personal information relates to existing or anticipated legal proceedings, and the information would not be accessible by the process of discovery in those proceedings. If we refuse to give you access, we will provide you with reasons for our refusal.
-
-## Correcting your personal information
-
-We will amend any personal information about you that is held by us and that is inaccurate, incomplete or out of date if you request us to do so. If we disagree with your view about the accuracy, completeness or currency of a record of your personal information that is held by us, and you ask us to associate with that record a statement that you have a contrary view, we will take reasonable steps to do so.
-
-## Storage and security of your personal information
-
-* * *
-
-We are committed to maintaining the confidentiality of the information that you provide us and we will take all reasonable precautions to protect your personal information from unauthorised use or alteration. In our business, personal information may be stored both electronically (on our computer systems and with our website hosting provider) and in hard-copy form. Firewalls, anti-virus software and email filters, as well as passwords, protect all of our electronic information. Likewise, we take all reasonable measures to ensure the security of hard-copy information. It is not possible, however, for us to guarantee the security of your personal information and the disclaimers and limitations of liability in our website usage terms also apply to any access of your personal information by a hacker or other unauthorised third party.
-
-## Third party websites
-
-* * *
-
-You may click-through to third party websites from this site, in which case we recommend that you refer to the privacy statement of the third party websites that you visit. This Privacy Policy applies to this site only and the Company assumes no responsibility for the content of any third party websites.
-
-## Re-marketing
-
-We may use the Google AdWords and/or Facebook re-marketing services to advertise on third party websites to previous visitors to this site based upon their activity on this site. This allows us to tailor our marketing to better suit your needs and to only display advertisements that are relevant to you. Such advertising may be displayed on a Google search results page or a website in the Google Display Network or inside Facebook. Google and Facebook may use cookies and/or pixel tags to achieve this. Any data so collected by Google and/or Facebook will be used in accordance with their own respective privacy policies. None of your personal Google and/or Facebook information is reported to us.
-
-You can set preferences for how Google advertises to you using the Google Ads Settings page (https://www.google.com/settings/ads). Facebook has enabled an AdChoices link that enables you to opt out of targeted advertising and you can also click on the “x” in the upper-right-hand corner of any targeted Facebook advertisement to reveal further options.
-
-## Changes to this Privacy Policy
-
-From time to time, it may be necessary for us to revise this Privacy Policy and we reserve the right to change this Privacy Policy at any time. Any such changes will be in accordance with the Privacy Act and the National Privacy Principles of Australia. We may notify you about changes to this Privacy Policy by posting an updated version on this site.
+If you would like to know more about on-line privacy, visit [The Australian Privacy Commissioner’s Web site](http://www.privacy.gov.au/)
