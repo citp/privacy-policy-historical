@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the emvantage.com privacy policy that was archived on 2016-10-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161026000302id_/https%3A//emvantage.com/PrivacyPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the emvantage.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318005825id_/https%3A//www.emvantage.com/PrivacyPolicy.html) for the most accurate reproduction.*
 
 # EMVANTAGE Payments Privacy Policy
 
