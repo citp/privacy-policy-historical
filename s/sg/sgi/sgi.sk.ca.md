@@ -1,22 +1,37 @@
-> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401160240id_/https%3A//www.sgi.sk.ca/about/governance/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sgi.sk.ca privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318001753id_/https%3A//www.sgi.sk.ca/about/governance/privacy.html) for the most accurate reproduction.*
 
 # SGI - Privacy statement
 
 ## You can rest assured that we'll protect and respect your personal information and privacy.
 
-SGI maintains the privacy of your personal information and personal health information in accordance with the law and this notice. We protect your personal information by:
+Saskatchewan Government Insurance ("SGI") is a Saskatchewan Crown Corporation incorporated under The Saskatchewan Government Insurance Act, 1980.
 
-  * Limiting employee access to your personal information and personal health information - only employees who need to know your information to do their job can access your personal information.
+SGI operates the compulsory automobile and injury insurance program and the driver licensing and registration program for the Province of Saskatchewan. In addition, SGI, operating under the trade name SGI CANADA, maintains a property and casualty insurance division.
+
+This Privacy Statement sets out the principles by which SGI collects, protects, uses and discloses the personal information of our customers and business partners. In Saskatchewan, SGI complies with the requirements of _The Freedom of Information and Protection of Privacy Act_ and, with certain restrictions, _The Health Information Protection Act_.
+
+SGI maintains the privacy of your personal information and personal health information in accordance with the law and this notice.
+
+### Key privacy principles SGI follows:
+
+  * Informing individuals of the purpose for which personal information and/or personal health information is collected.
+  * Using personal information or personal health information only as required by law.
+  * Not disclosing personal information or personal health information except with the consent of the individual or as required by law.
+  * Except as may be limited by law, providing individuals with access to their personal information or personal health information. Where it is appropriate SGI amends this information to ensure continued accuracy and provides individuals with a means of having their privacy concerns managed.
+  * SGI safeguards information from unauthorized access, use or disclosure based on the sensitivity of that information.
+
+
+
+### We protect your personal information by:
+
+  * Limiting employee access to your personal information or personal health information. Only employees who need to know your information to do their job can access your personal information.
   * Maintaining physical, electronic and procedural safeguards to keep your personal information and personal health information safe and confidential.
-  * Our employees annually sign a Confidentiality and Non-Disclosure Agreement to protect and hold your personal information in confidence.
+  * Requiring our employees annually sign a Confidentiality and Non-Disclosure Agreement to protect and hold your personal information in confidence.
   * Most access to our system, internally or externally, leaves a footprint. Those monitored transactions leave a trail of the access code of the person using the system and the day, time and what customer information was accessed.
-  * If we share your information with a 3rd-party service provider, we give them the least amount of information needed to provide the service we require, restrict their ability to use the information for any other purpose and require them to keep your information safe and hold it in confidence.
+  * If we share your information with a third-party service provider, we give them the least amount of information needed to provide the service we require, restrict their ability to use the information for any other purpose and require them to keep your information safe and hold it in confidence.
+  * We will not process or store your personal information outside Canada without ensuring you are fully informed anytime your personal information or personal health information leaves Canada. [View which products or services](https://web.archive.org/about/governance/data.html) may result in your data leaving the country.
 
 
-
-### Accessing your information
-
-Subject to any lawful restriction, you have the right to obtain a copy of the personal information or personal health information SGI collects about you and may request an amendment to any information on your file that is incorrect. To ensure that we have accurate information, please notify us when there are changes to your personal information.
 
 ### Definitions
 
@@ -28,15 +43,19 @@ Subject to any lawful restriction, you have the right to obtain a copy of the pe
 
 **personal health information** \- information with respect to the physical or mental health of an individual including any health services received
 
-**SGI** \- SGI and its affiliates1
+**SGI** \- SGI and its subsidiary companies SGI CANADA Insurance Services Ltd. and Coachman Insurance Company Ltd
 
 **3rd party** \- an individual or organization other than the customer, the customer's agent or SGI
 
-**use** \- the treatment, handling or management of personal information by SGI
+**use** \- the treatment, handling or management of personal information or personal health information by SGI
 
-### Information SGI collects
+### Information collection
 
-SGI collects your personal information and personal health information to conduct our business. Whenever possible we collect this information directly from you and with your consent. However, there are times when SGI will collect information about you from other insured persons, witnesses, law enforcement, technical experts we hire, hospitals, health care providers, medical practitioners, credit companies, underwriting tracking systems, other insurance companies, insurance brokers, our affiliates and other government ministries. For example, your doctor or optometrist must notify SGI if a medical condition makes you unfit to drive a motor vehicle. Depending on the service or product you require, SGI may collect and retain the following information.
+SGI collects your personal information and personal health information to conduct our business.
+
+Whenever possible we collect this information directly from you and with your consent. However, there are times when SGI will collect information about you from other insured persons, witnesses, law enforcement, technical experts we hire, hospitals, health care providers, medical practitioners, credit companies, underwriting tracking systems, other insurance companies, insurance brokers, our affiliates and other government ministries. For example, your doctor or optometrist must notify SGI if a medical condition makes you unfit to drive a motor vehicle. 
+
+Depending on the service or product you require, SGI may collect and retain the following information.
 
 #### For driver licensing and vehicle registration:
 
@@ -80,11 +99,11 @@ SGI collects your personal information and personal health information to conduc
 
 
 
-SGI is administrator of Saskatchewan’s compulsory automobile insurance program under _The Automobile Accident Insurance Act_. This program provides Saskatchewan residents with insurance coverage if they are injured in a motor vehicle collision. If you are seeking to obtain automobile injury benefits, the Act requires our customer to provide SGI with personal information and personal health information to determine entitlement to the statutory benefits under this program. If you do not provide SGI with the personal information requested, you can be denied benefits. SGI does not request more personal information or personal health information than required, but the nature of your claim or the injuries you sustain may require SGI to collect a significant amount of information.
+SGI is administrator of Saskatchewan's compulsory automobile insurance program under _The Automobile Accident Insurance Act_. This program provides Saskatchewan residents with insurance coverage if they are injured in a motor vehicle collision. If you are seeking to obtain automobile injury benefits, the Act requires our customer to provide SGI with personal information and personal health information to determine entitlement to the statutory benefits under this program. If you do not provide SGI with the personal information requested, you can be denied benefits. SGI does not request more personal information or personal health information than required, but the nature of your claim or the injuries you sustain may require SGI to collect a significant amount of information.
 
 ### Regulating our collection
 
-On occasion, as a result of requesting your personal health information to determine your entitlement to SGI’s automobile injury benefit program, SGI may obtain more personal health information than necessary to determine your entitlement to benefits. In these situations, SGI will make every effort to ensure that the unnecessary personal information is removed from your file where that information is easily separated from the personal health information SGI requires to determine your benefit entitlement. SGI will destroy that information in a confidential manner. If you have any concerns in this regard, please contact us for assistance.
+On occasion, as a result of requesting your personal health information to determine your entitlement to SGI's automobile injury benefit program, SGI may obtain more personal health information than necessary to determine your entitlement to benefits. In these situations, SGI will make every effort to ensure that the unnecessary personal information is removed from your file where that information is easily separated from the personal health information SGI requires to determine your benefit entitlement. SGI will destroy that information in a confidential manner. If you have any concerns in this regard, please contact us for assistance.
 
 #### For employment purposes:
 
@@ -107,20 +126,40 @@ SGI retains a database on individuals who have sought employment with SGI. This 
 
 #### For providing an insurance policy:
 
-  * name, address, home and work phone numbers, fax numbers, email address and cellphone number
-  * age, gender, marital status and family status
-  * driver's licence number, driving record including collisions, licence suspensions, convictions, traffic violations, the class of licence held, restriction on the driver's licence and safe driver or business rating information
-  * vehicle information
-  * financial information including banking information, credit card information, credit rating, payment history and tax returns
-  * property information (e.g., property values, mortgage or leasing information, etc.)
-  * money owed to SGI and payment history
-  * prior claim history and any information needed to adjust those prior claims (e.g., witness statements, damage estimates, claim file investigations, etc.)
-  * commercial driving records and logs required to be completed by law, inspection outcomes relating to Carrier Audits for the National Safety Code Certificates, driver and vehicle list, claim history, safety violations, etc.
-  * information about your transactions with us and products and services you use
+  * Contact information for all insured persons including name, address, home and work phone numbers, fax numbers, email address and cellphone number;
+  * Birth date, age, gender, marital status and family status;
+  * Your driver's licence information and the driver's licence information of every person who operates the vehicles you are insuring including driver's licence number, driving record including collisions, licence suspensions, convictions, traffic violations, the class of licence held, restriction on the driver's licence, and safe driver or business rating information;
+  * Vehicle information;
+  * Personal health information;
+  * Financial information including banking information, credit card information, payment history, and [credit rating](https://www.sgicanada.ca/sk/about/programs/credithistory.html "Credit-based insurance scoring");
+  * Property information (i.e. property values, mortgage or leasing information, etc.);
+  * Prior claim history and any information needed to adjust those prior claims (i.e. witness statements, damage estimates, claim file investigations, etc.);
+  * Information about you or the property you are insuring from underwriting tracking systems and other insurance companies;
+  * Commercial driving records and logs required to be completed by law, inspection outcomes relating to Carrier Audits for the National Safety Code Certificates, driver and vehicle list, claim history, safety violations, etc.
+  * Any information needed to adjust an insurance claim (e.g. blood alcohol readings, collision reports from law enforcement, witness statements, damage estimates, claim file investigations, property valuations, etc.); and
+  * Information about your transactions with us and products and services you use. 
 
 
 
-### Information SGI uses
+As a general statement, when SGI collects personal information and personal health information for insurance products, we obtained this with your explicit consent. However, SGI may collect information about you without your explicit consent if you are not a named policy holder but have an interest in or derive a benefit under an insurance policy, plan or contract. In that case the individual obtaining insurance on your behalf has indicated to SGI that you consent to the collection of this information.
+
+#### Broker and Licence Issuers Information
+
+SGI collects personal information from our broker and Issuer partners with their consent, which enables us to regulate our business affairs with these partners.
+
+#### IP addresses
+
+If you visit our websites, we collect your IP addresses.  If you communicate with us electronically, our sites collect aggregated site-visitation statistics using cookies (small text files containing a unique identification number that identifies your browser to our computer). See our [terms of use](https://web.archive.org/about/governance/terms.html) for more information on the use IP addresses.
+
+#### Cookies
+
+Cookies tell us which pages were visited, by how many people, the average time spent on a page and other useful information relating to our web site to help us enhance our customer experience. See our [terms of use](https://web.archive.org/about/governance/terms.html) for more information on the use of website cookies.
+
+#### Telephone calls and other communications
+
+We may record telephone calls and other communications. We will inform you if the communication is being recorded. Calls and other communications may be recorded to ensure quality customer service, confirm our discussions and your instructions, resolve complaints, and train our staff. If you do not want your communications recorded, you can do business with us by visiting one of our offices in person, or by writing to us.
+
+### How SGI uses your Information
 
 The personal information described above is shared between various departments within SGI and with our business partners (e.g., licence issuers, lawyers, process servers, medical or financial consultants, and other technical experts) for business purposes.
 
@@ -173,20 +212,33 @@ Many organizations seek to collect or retain a copy of your driver's licence or 
   * To respond to inquiries, questions and concerns, and to communicate with our customers.
   * To assist customers with insurance financing options (e.g., AutoPay or the Deductible Payment Plan).
   * To conduct litigation that arises out of our business including collecting a debt or enforcing an obligation owed to us by you.
+  * To detect, investigate and prevent fraud.
+  * To meet legal and regulatory requirements.
   * To conduct business audits.
   * To conduct surveys and internal business analysis, gather broad demographic information, compile statistics, and develop products and services.
   * To respond to your requests for access to information, privacy concerns or requests for corrections in your personal information.
   * To comply with the law.
   * To conduct public education and loss prevention campaigns regarding insurance concerns.
   * To improve business processes and business systems through secured data testing.
+  * To notify you of products and services to meet your needs.
 
 
 
-### Information SGI discloses
+### Disclosing your information
 
-If you request or consent to the release of your information to a 3rd party, SGI will release your information as requested. For example, when you access your SGI information on the MySGI website and associate yourself with an issuer, you are agreeing to the release of your driver licensing and vehicle registration information to that issuer.
+When you submit an application for insurance through your broker or apply for insurance online, and you are applying for insurance with all member companies with SGI. The consent you provide allows your broker to disclose your information to us, and provides SGI with permission to disclose your information to:
 
-SGI is required to comply with _The Freedom of Information and Protection of Privacy Act._ This Act not only sets out our obligations to protect your personal information, but indicates when that information may be disclosed without your consent. 
+  * Your broker or agent;
+  * All member companies of SGI CANADA;
+  * Insurance tracking or reporting agencies used by SGI CANADA;
+  * Service providers who deliver a service or program on our behalf (i.e. independent adjusters, lawyers, accountants, medical experts, etc.); and
+  * To obtain a credit score for rating purposes.
+
+
+
+If you request or consent to the release of your information to a 3rd party, SGI will release your information as requested. For example, when you access your SGI information on the MySGI website and associate yourself with an Issuer, you are agreeing to the release of your driver licensing and vehicle registration information to that Licence Issuer.
+
+SGI is required to comply with _The Freedom of Information and Protection of Privacy Act._ This Act not only sets out our obligations to protect your personal information, but indicates when that information may be disclosed without your consent.
 
 #### Without your consent, we can share your information:
 
@@ -205,13 +257,13 @@ SGI is required to comply with _The Freedom of Information and Protection of Pri
 
 
 
-#### For driver's licences:
+#### Licence Issuers
 
-SGI does release your driver's licence information to our driver's licence supplier and motor licence issuers to assist us in serving you. The release of this information is subject to strict confidentiality requirements.
+To better assist the Saskatchewan public in obtaining driver licence and vehicle registration services, SGI contracts with independent Licence Issuers to provide these services in various communities.  All Licence Issuers have access to the SGI Driver Licensing and Vehicle Registration Database for the purpose of providing this service.  The release of this information is subject to strict confidentiality requirements.
 
-#### For automobile injury benefits:
+#### Personal Health Information
 
-The collection of your personal health information for no-fault injury benefits is used only by the SGI Claims Division; it is not shared with other departments in SGI other than SGI's Medical Review Unit. Information is only shared with the SGI Medical Review Unit in a situation where the personal health information collected by SGI during the administration of your injury benefits indicates you have a medical condition that may impact on your ability to drive a motor vehicle.
+The collection of your personal health information for no-fault injury benefits is used only by the SGI Claims Division; it is not shared with other departments in SGI other than SGI’s Medical Review Unit.  Information is only shared with the SGI Medical Review Unit in a situation where the personal health information collected by SGI during the administration of your injury benefits indicates you have a medical condition that may impact on  your ability to drive a motor vehicle.
 
 Your personal health information is only disclosed by SGI for the purpose of providing you with automobile injury benefits. Unless required by law, we do not share your personal health information with our affiliates or with any 3rd parties except to provide you with injury benefits. Your personal health information may be disclosed to medical consultants, lawyers or other professional experts (e.g. vocational or rehabilitation consultants, physiotherapist, etc.) SGI hires to assist them in determining your entitlement to benefits, your rehabilitation needs, the extent of your injuries from a motor vehicle collision, and the type of treatment that your insurance coverage must provide. Subject to a legal requirement to disclose your information, the confidentiality of your personal information and personal health information is a requirement of any disclosure. If you appeal a decision SGI makes regarding your entitlement to benefits to either the courts or the Automobile Injury Appeal Commission, SGI may disclose your personal health information for the purpose of defending its decision.
 
@@ -221,16 +273,35 @@ Please note SGI often releases de-identified personal information to other busin
 
 ### Retention and destruction of information
 
-We keep your information only as long as we need it:
+Information will be retained and destroyed in a secure and confidential manner in accordance with SGI’s data retention schedules.
 
-  * to provide the business products and services identified
-  * to meet any legal or regulatory requirements
+### Your rights
+
+#### Withdrawing your consent
+
+Subject to certain legal and contractual restrictions and reasonable notice, at any time during or prior to receiving a service from us, you may refuse to provide information to SGI or withdraw your consent for SGI to collect, use or disclose your personal information and/or personal health information. You may also opt out of certain communications we may send you regarding other products and services. SGI will seek to continue to provide you services, but any withdrawal of consent may affect our ability to respond to your insurance needs.
+
+#### 
+
+If you want to:
+
+  * Access your personal information or have your information corrected;
+  * Change your consent with respect to how we collect, use or disclose your personal information, subject to legal restrictions;
+  * File a complaint about our privacy policies or the manner in which we've handled your personal information; and/or
+  * Inquire about any other privacy questions or concerns.
 
 
 
-When we no longer require or need your personal information, it is destroyed in a confidential manner.
+Please contact:
 
-### What if you believe your privacy rights have been violated?
+SGI   
+Chief Privacy Officer  
+2260 - 11th Ave.  
+Regina, SK   S4P 0J9  
+1-800-667-8015  
+[privacyofficer@sgi.sk.ca](mailto:privacyofficer@sgi.sk.ca)
+
+#### If you believe your privacy rights have been violated:
 
 First, contact SGI's Privacy Department. An officer will review your concerns and try to resolve them. If you are not satisfied with the outcome of an inquiry or complaint, you may address your concerns to:
 
@@ -242,59 +313,4 @@ Regina, SK   S4P 4B4
 306-798-1603 (fax)  
 [www.oipc.sk.ca](http://www.oipc.sk.ca/ "Office of the Saskatchewan Information and Privacy Commissioner")
 
-Office of the Information and Privacy Commissioner of Alberta  
-Suite 500, 640 Fifth Ave. SW  
-Calgary, AB   T2P 3G4  
-403-297-2728  
-1-888-878-4044  
-403-297-2711 (fax)
-
-Office of the Privacy Commissioner of Canada  
-112 Kent Street  
-Place de Ville  
-Tower B, 3rd Floor  
-Ottawa, ON   K1A 1H3  
-[www.privcom.gc.ca](http://www.privcom.gc.ca/ "Office of the Privacy Commissioner of Canada")
-
-### Contact information
-
-If you want to:
-
-  * Access your personal information or have your information corrected.
-  * Change your consent with respect to how we collect, use or disclose your personal information.  
-**Note:** SGI cannot refuse to disclose your information if we are required by law to provide this information to another 3rd party.
-  * File a complaint about our privacy policies or the manner in which we've handled your personal information.
-  * Inquire about any other privacy questions or concerns.
-
-
-
-Please contact:
-
-SGI (SGI CANADA and the Saskatchewan Auto Fund) and SGI CANADA Insurance Services Ltd.  
-Chief Privacy Officer  
-2260 - 11th Ave.  
-Regina, SK   S4P 0J9  
-1-800-667-8015  
-[privacyofficer@sgi.sk.ca](mailto:privacyofficer@sgi.sk.ca)
-
-Coachman Insurance Company  
-Chief Privacy Officer  
-802 The Queensway  
-Toronto, ON   M8Z 1N5  
-1-800-361-2622  
-[privacy@coachmaninsurance.ca](mailto:privacy@coachmaninsurance.ca)
-
-### SGI affiliates
-
-SGI CANADA Insurance Services Ltd.  
-Coachman Insurance Company 
-
-• • •
-
-_Footnotes_
-
-  1. An affiliate is a company that is controlled by SGI. 
-
-
-
-Rev: 1.1 
+Rev: 2.0 
