@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the digitfox.com privacy policy that was archived on 2016-08-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160822191726id_/http%3A//digitfox.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the digitfox.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317180227id_/http%3A//digitfox.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
