@@ -1,16 +1,12 @@
-> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105161544id_/https%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xoom.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317060607id_/https%3A//www.xoom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Xoom, a PayPal Service
 
-Effective Date: **2016-10-03**
+Effective Date: **2016-12-15**
 
 PayPal, Inc. takes your privacy very seriously. This Privacy Policy applies to Xoom’s websites (for purposes of this Privacy Policy, " **websites** " includes www.xoom.com, our mobile websites, and our mobile applications) and the services associated with it (" **Xoom** " or " **the Service** "). This Privacy Policy applies only to the Service and does not apply to the practices of any other PayPal service. Terms used but not defined in this Privacy Policy have the meanings assigned to them in our [User Agreement](https://web.archive.org/user-agreement). 
 
 We are committed to protecting our customers' privacy and security. This Privacy Policy explains what personal information we collect about you, with whom we share it, and how you (the user of the Service) can direct us not to share certain information with certain parties. **"Personal Information"** refers to information that can be used to identify an individual. You should read this Privacy Policy in its entirety. Certain sections may apply differently to residents of different jurisdictions.
-
-[ Truste ](https://privacy.truste.com/privacy-seal/Xoom-Corporation/validation?rid=082b03b6-0dbf-45de-b8b4-3d73247810ba "TRUSTe online privacy certification") The Xoom websites have been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and its practices have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only information that is collected through www.xoom.com, our mobile websites, and our mobile applications. TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy trustmark and innovative trust solutions. For more information on our certification, please click on the TRUSTe seal.
-
-If you have questions or concerns regarding this statement, you should first [contact us](https://web.archive.org/contact-xoom-customer-service). If you are not satisfied with our response you can please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
 * We may collect the following information about you, your Recipient, your Sender, or your Beneficiary, which may include non-public Personal Information:
 
