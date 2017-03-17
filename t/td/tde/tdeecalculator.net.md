@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tdeecalculator.net privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802144511id_/https%3A//tdeecalculator.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tdeecalculator.net privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317115453id_/https%3A//tdeecalculator.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy - TDEECalculator.net
 
