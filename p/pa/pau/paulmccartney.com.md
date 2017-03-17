@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the paulmccartney.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102160225id_/https%3A//www.paulmccartney.com/terms-and-conditions) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paulmccartney.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318001240id_/https%3A//www.paulmccartney.com/terms-and-conditions) for the most accurate reproduction.*
 
 # Terms and conditions | PaulMcCartney.com
 
