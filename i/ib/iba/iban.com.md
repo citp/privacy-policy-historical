@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iban.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328050847id_/https%3A//www.iban.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iban.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317231542id_/https%3A//www.iban.com/privacy.html) for the most accurate reproduction.*
 
 # IBAN Privacy Policy
 
