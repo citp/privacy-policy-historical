@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kozaza.com privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416204923id_/https%3A//www.kozaza.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kozaza.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317173045id_/https%3A//www.kozaza.com/privacy) for the most accurate reproduction.*
 
 # kozaza Privacy Policy
 
