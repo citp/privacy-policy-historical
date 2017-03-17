@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the userexp.co privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028041422id_/http%3A//userexp.co/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the userexp.co privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317114121id_/http%3A//userexp.co/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 ("We") commit ourselves to protecting and respecting your privacy when visiting our website.
 
-This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting [UserExp.co].  Please read the following information to understand our practices with regards to your personal data and how we will treat it.
+This privacy policy sets out how we will process and use any personal data that you provide to us, or that we may collect as a result of visiting [UserExp.org].  Please read the following information to understand our practices with regards to your personal data and how we will treat it.
 
 [For the purposes of the Data Protection Act 1998, the identity of our data controller shall be available upon inquiry by email.]
 
