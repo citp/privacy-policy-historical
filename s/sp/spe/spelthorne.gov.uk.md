@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the spelthorne.gov.uk privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711023823id_/https%3A//www.spelthorne.gov.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spelthorne.gov.uk privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317101338id_/https%3A//www.spelthorne.gov.uk/privacy) for the most accurate reproduction.*
 
-# Spelthorne Borough Council
+# Privacy Policy
 
 ## Cookies
 
