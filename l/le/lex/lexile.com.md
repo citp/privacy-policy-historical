@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223142544id_/https%3A//www.lexile.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lexile.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317123207id_/https%3A//lexile.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Policy | The Lexile® Framework for Reading
 
