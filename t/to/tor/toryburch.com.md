@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the toryburch.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231222712id_/https%3A//www.toryburch.com/content-privacy/content-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toryburch.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317220502id_/https%3A//www.toryburch.com/content-privacy/content-privacy.html) for the most accurate reproduction.*
 
 # Tory Burch | Privacy & Usage Policy
 
@@ -170,7 +170,7 @@ We make no representations or warranties of any kind, whether express or implied
 
 ##### Applicable Law
 
-By visiting our website, you agree that the laws of the State of New York, without regard to principles of conflict of laws, will govern any dispute of any sort that might arise between you and us or any of our affiliates regarding your visit to and use of our website. 
+By visiting our website, you agree that the laws of the State of New York, without regard to principles of conflict of laws, will govern any dispute of any sort that might arise between you and us or any of our affiliates, subsidiaries, agents, employees, predecessors in interest, successors and assigns regarding your visit to and use of our website, as well as regarding any and all disputes or claims relating in any way to the Privacy and Usage Policy, these Terms of Use, or to any products or services sold or distributed by us or through our website, including disputes concerning the scope or applicability of the following arbitration agreement ("Disputes"). All Disputes will be resolved in a confidential, individual and fair arbitration process, and not in court. You agree to give up your right to represent, in a class action or otherwise, anyone but yourself. 
 
 
 
