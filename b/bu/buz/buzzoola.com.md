@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the buzzoola.com privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617221155id_/https%3A//buzzoola.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzoola.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317111926id_/https%3A//buzzoola.com/en/privacy) for the most accurate reproduction.*
 
 # Buzzoola Promo / Buzzoola Privacy Policy
 
-Welcome and thank you for your interest in Buzzoola, Inc. («Buzzoola») and Buzzoola’s online ad exchange service (the «Service»), as described in the [Buzzoola Terms of Service](https://web.archive.org/web/20160617221155id_/https%3A//buzzoola.com/en/terms.html) (the «Terms»). This Privacy Policy is incorporated into and is subject to the Terms, and capitalized terms used, but not defined in this Privacy Policy have the meanings given to them elsewhere in the Terms.
+Welcome and thank you for your interest in Buzzoola, Inc. («Buzzoola») and Buzzoola’s online ad exchange service (the «Service»), as described in the [Buzzoola Terms of Service](https://web.archive.org/web/20170317111926id_/https%3A//buzzoola.com/en/terms.html) (the «Terms»). This Privacy Policy is incorporated into and is subject to the Terms, and capitalized terms used, but not defined in this Privacy Policy have the meanings given to them elsewhere in the Terms.
 
 This Privacy Policy describes what information we gather from users (including visitors to the Buzzoola web site, users of Buzzoola’s online ad exchange services, and end users viewing media deployed on publisher web sites through the Buzzoola Service), and how we use and disclose that information. By using the Service, you expressly consent to the information handling practices described in this policy.
 
