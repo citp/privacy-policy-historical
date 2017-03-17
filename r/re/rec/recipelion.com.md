@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the recipelion.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127125316id_/http%3A//www.recipelion.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recipelion.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317161053id_/https%3A//www.recipelion.com/index.php/hct/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy | RecipeLion.com
 
