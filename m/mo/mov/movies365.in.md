@@ -1,14 +1,10 @@
-> *The following text is extracted and transformed from the movies365.in privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121180306id_/http%3A//www.movies365.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movies365.in privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317103431id_/https%3A//movies365.me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Movies365
-
-[](https://go.ad2up.com/afu.php?id=722301)
 
 **At ‘movies365.in’ we recognize that privacy of your personal information is important. Here is information on what types of personal information we receive and collect when you use ‘movies365.in’, and how we safeguard your information.**
 
 We never sell your personal information to third parties.
-
-[](http://go.ad2up.com/afu.php?id=722301)
 
 We may use your IP address to help diagnose any problem with our service and to provide better services for our visitors.
 
