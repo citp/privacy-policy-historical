@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the raileurope.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103013126id_/https%3A//www.raileurope.com/about-us/rail-europe-policies/raileurope-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the raileurope.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317092030id_/https%3A//www.raileurope.com/about-us/rail-europe-policies/raileurope-privacy-policy.html) for the most accurate reproduction.*
 
 # Rail Europe Policies, Terms & Conditions
 
