@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the hoistseo.com privacy policy that was archived on 2014-02-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140213040521id_/http%3A//www.hoistseo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hoistseo.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317085332id_/http%3A//www.leapfroggr.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - HoistSEO | Advanced Search Engine Optimization
-
-## Privacy Policy
+# LeapFroggr Inc. | Privacy Policy Page
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
