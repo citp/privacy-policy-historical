@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the therapynotes.com privacy policy that was archived on 2010-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101107094238id_/http%3A//www.therapynotes.com/legal/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the therapynotes.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317043534id_/https%3A//www.therapynotes.com/legal/privacypolicy) for the most accurate reproduction.*
 
 # TherapyNotes Privacy Policy
 
 At TherapyNotes, we are committed to protecting your privacy and the privacy of your personal information. This Privacy Policy explains the use of information collected via our Website and in connection with our provision of services to you (the "Service"). Your use of the Service indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Policy. 
 
-**This privacy policy agreement does not pertain to protected health information entered by registered users. Section 8 of our Terms of Service agreement, found at<http://www.therapynotes.com/legal/usertermsofservice/>, defines the privacy of patient information for registered members of our practice management services. **
+**This privacy policy agreement does not pertain to protected health information entered by registered users. Section 8 of our Terms of Service agreement, found at[https://www.therapynotes.com/legal/usertermsofservice/](https://web.archive.org/legal/usertermsofservice/), defines the privacy of patient information for registered members of our practice management services. **
 
 As further described below, we collect and maintain a range of data in order to provide our services to you and maintain a safe and secure Service. Access to your personal information is limited to (a) TherapyNotes employees, and (b) service providers under contract who help with our business operations (such as to provide or help TherapyNotes provide products or services to you, provide payment, billing or similar services, or perform anti-fraud functions). As used in this Privacy Policy, the term "personal information" means any real world information that readily may be used to identify an individual, including but not limited to a first and last name, home or other physical address, an email address, phone number or other contact information. 
 
@@ -13,7 +13,7 @@ As further described below, we collect and maintain a range of data in order to 
 We collect a range of personal information and usage statistics to maintain a high-quality user experience and deliver superior customer service. We request some information directly from you during registration. We gather other pieces of data indirectly from Website traffic, your computer hardware and Internet connection, or your activities within the Service, communications and usage. 
 
   * If you use our Website, we automatically record information related to your IP address, TherapyNotes cookie information, and aggregate information on what content you access or visit. 
-  * If you provide us personal information in order to subscribe to our mailing list, we collect information to aid delivery and preferences such as e-mail address and message performance statistics. 
+  * If you provide us personal information in order to subscribe to our mailing list, we collect information to aid delivery and preferences such as email address and message performance statistics. 
   * If you register on our Website, we will track broad site usage information as well as aggregate usage of any Website community features such as downloads and forums. 
   * We track usage of customer service resources in order to ensure high quality interactions. 
   * We may collect and retain any other information relating to your account data or other activities within the Service. 
@@ -81,11 +81,11 @@ Send the written document to the designated Copyright Agent at TherapyNotes:
 
 Attn: Designated Copyright Agent  
 TherapyNotes, LLC  
-2300 Computer Ave.  
-Suite J-52  
+630 Fitzwatertown Rd  
+Suite A4  
 Willow Grove, PA, 19090 
 
-Alternatively, fax the document to (215) 658-1602. On the cover sheet, please write ATTN: DMCA NOTIFICATION 
+Alternatively, fax the document to (215) 658-4551. On the cover sheet, please write ATTN: DMCA NOTIFICATION 
 
 ## Filing a counter-notification
 
@@ -102,8 +102,8 @@ Send the written document to the designated Copyright Agent at TherapyNotes:
 
 Attn: Designated Copyright Agent  
 TherapyNotes, LLC  
-2300 Computer Ave.  
-Suite J-52  
+630 Fitzwatertown Rd  
+Suite A4  
 Willow Grove, PA, 19090 
 
-Alternatively, fax the document to (215) 658-1602. On the cover sheet, please write ATTN: DMCA COUNTER-NOTIFICATION 
+Alternatively, fax the document to (215) 658-4551. On the cover sheet, please write ATTN: DMCA COUNTER-NOTIFICATION 
