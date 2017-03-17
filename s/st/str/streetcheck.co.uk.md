@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the streetcheck.co.uk privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228034616id_/https%3A//www.streetcheck.co.uk/about/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the streetcheck.co.uk privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317103305id_/https%3A//www.streetcheck.co.uk/about/privacypolicy) for the most accurate reproduction.*
 
 # Our Privacy Policy
 
@@ -40,4 +40,4 @@ Wired Software Ltd may update this Privacy Policy from time to time. We will not
 
 ## Contact Us
 
-If you have any questions about this Privacy Policy, please [contact us by email](https://web.archive.org/about/contact), or call us on 01752 424 666 during office hours. 
+If you have any questions about this Privacy Policy, please [contact us](https://web.archive.org/about/contact). 
