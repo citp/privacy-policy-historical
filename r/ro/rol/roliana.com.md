@@ -1,69 +1,19 @@
-> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623130826id_/http%3A//www.roliana.com/phpBB3/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roliana.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317131008id_/http%3A//www.roliana.com/ucp.php%3Fmode%3Dprivacy) for the most accurate reproduction.*
 
-# Roliana • Privacy Policy
+# Roliana - User Control Panel - Privacy policy
 
-This Privacy Policy governs the manner in which Roliana.com collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://roliana.com](http://www.roliana.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Roliana.com.
+### Roliana - Privacy policy
 
-**Personal identification information**
+This policy explains in detail how “Roliana” along with its affiliated companies (hereinafter “we”, “us”, “our”, “Roliana”, “http://roliana.com”) and phpBB (hereinafter “they”, “them”, “their”, “phpBB software”, “www.phpbb.com”, “phpBB Limited”, “phpBB Teams”) use any information collected during any session of usage by you (hereinafter “your information”).
 
-We may collect personal identification information from Users in a variety of ways, including, but not limited to, when Users visit our site, register on the site, place an order, subscribe to the newsletter, respond to a survey, fill out a form, and in connection with other activities, services, features or resources we make available on our Site. Users may be asked for, as appropriate, name, email address, credit card information. Users may, however, visit our Site anonymously. We will collect personal identification information from Users only if they voluntarily submit such information to us. Users can always refuse to supply personally identification information, except that it may prevent them from engaging in certain Site related activities.
+Your information is collected via two ways. Firstly, by browsing “Roliana” will cause the phpBB software to create a number of cookies, which are small text files that are downloaded on to your computer’s web browser temporary files. The first two cookies just contain a user identifier (hereinafter “user-id”) and an anonymous session identifier (hereinafter “session-id”), automatically assigned to you by the phpBB software. A third cookie will be created once you have browsed topics within “Roliana” and is used to store which topics have been read, thereby improving your user experience.
 
-**Non-personal identification information**
+We may also create cookies external to the phpBB software whilst browsing “Roliana”, though these are outside the scope of this document which is intended to only cover the pages created by the phpBB software. The second way in which we collect your information is by what you submit to us. This can be, and is not limited to: posting as an anonymous user (hereinafter “anonymous posts”), registering on “Roliana” (hereinafter “your account”) and posts submitted by you after registration and whilst logged in (hereinafter “your posts”).
 
-We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
+Your account will at a bare minimum contain a uniquely identifiable name (hereinafter “your user name”), a personal password used for logging into your account (hereinafter “your password”) and a personal, valid email address (hereinafter “your email”). Your information for your account at “Roliana” is protected by data-protection laws applicable in the country that hosts us. Any information beyond your user name, your password, and your email address required by “Roliana” during the registration process is either mandatory or optional, at the discretion of “Roliana”. In all cases, you have the option of what information in your account is publicly displayed. Furthermore, within your account, you have the option to opt-in or opt-out of automatically generated emails from the phpBB software.
 
-**Web browser cookies**
+Your password is ciphered (a one-way hash) so that it is secure. However, it is recommended that you do not reuse the same password across a number of different websites. Your password is the means of accessing your account at “Roliana”, so please guard it carefully and under no circumstance will anyone affiliated with “Roliana”, phpBB or another 3rd party, legitimately ask you for your password. Should you forget your password for your account, you can use the “I forgot my password” feature provided by the phpBB software. This process will ask you to submit your user name and your email, then the phpBB software will generate a new password to reclaim your account.
 
-Our Site may use "cookies" to enhance User experience. User's web browser places cookies on their hard drive for record-keeping purposes and sometimes to track information about them. User may choose to set their web browser to refuse cookies, or to alert you when cookies are being sent. If they do so, note that some parts of the Site may not function properly.
+* * *
 
-**How we use collected information**
-
-Roliana.com may collect and use Users personal information for the following purposes:
-
-  * _\- To improve customer service_  
-Information you provide helps us respond to your customer service requests and support needs more efficiently.
-  * _\- To personalize user experience_  
-We may use information in the aggregate to understand how our Users as a group use the services and resources provided on our Site.
-  * _\- To improve our Site_  
-We may use feedback you provide to improve our products and services.
-  * _\- To process payments_  
-We may use the information Users provide about themselves when placing an order only to provide service to that order. We do not share this information with outside parties except to the extent necessary to provide the service.
-  * _\- To run a promotion, contest, survey or other Site feature_  
-To send Users information they agreed to receive about topics we think will be of interest to them.
-  * _\- To send periodic emails_  
-We may use the email address to respond to their inquiries, questions, and/or other requests. If User decides to opt-in to our mailing list, they will receive emails that may include company news, updates, related product or service information, etc. If at any time the User would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email.
-
-
-
-**How we protect your information**
-
-We adopt appropriate data collection, storage and processing practices and security measures to protect against unauthorized access, alteration, disclosure or destruction of your personal information, username, password, transaction information and data stored on our Site.
-
-**Sharing your personal information**
-
-We do not sell, trade, or rent Users personal identification information to others. We may share generic aggregated demographic information not linked to any personal identification information regarding visitors and users with our business partners, trusted affiliates and advertisers for the purposes outlined above.
-
-**Third party websites**
-
-Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
-
-**Advertising**
-
-Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
-
-**Changes to this privacy policy**
-
-Roliana.com has the discretion to update this privacy policy at any time. When we do, we will revise the updated date at the bottom of this page. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
-
-**Your acceptance of these terms**
-
-By using this Site, you signify your acceptance of this policy and [terms of service](http://roliana.com/phpBB3/tos.php). If you do not agree to this policy, please do not use our Site. Your continued use of the Site following the posting of changes to this policy will be deemed your acceptance of those changes.
-
-**Contacting us**
-
-If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Roliana.com](http://www.roliana.com/)  
-[http://www.roliana.com](http://www.roliana.com/)  
-support@roliana.com
-
-This document was last updated on September 8th, 2014
+[Back to login screen](https://web.archive.org/web/20170317131008id_/http%3A//www.roliana.com/ucp.php?mode=login)
