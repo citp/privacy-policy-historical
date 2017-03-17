@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the fsw.edu privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811174756id_/http%3A//www.fsw.edu/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fsw.edu privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317150831id_/https%3A//www.fsw.edu/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | Florida SouthWestern State College
+
+* * *
 
 Thank you for visiting the Florida SouthWestern State College website. Your privacy is very important to us. Simply stated, our policy is to collect no personal information about you when you visit our website unless you affirmatively choose to make such information available to us.
 
