@@ -1,17 +1,20 @@
-> *The following text is extracted and transformed from the stitchfix.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122053515id_/https%3A//www.stitchfix.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stitchfix.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317171307id_/https%3A//www.stitchfix.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Personal Styling for Women & Men
 
+Privacy Policy
+
 Stitch Fix, Inc. (“ **Stitch Fix** ”, “ **we** ”, “ **us** ”, or “ **our** ”) is committed to protecting your privacy. Stitch Fix is a fashion retailer that blends expert styling, proprietary technology and unique product to deliver an easy, enjoyable, personalized shopping experience. We have prepared this Privacy Policy (“ **Privacy Policy** ”) to describe to you our practices regarding the personal information we collect from users or our website, located at www.stitchfix.com (the “ **Site** ”), our mobile application entitled “Stitch Fix” (the “ **App** ”) and the services offered through the Site and App, and any orders that you place (collectively, the “ **Services** ”). 
 
-QUESTIONS; CONTACTING STITCH FIX; REPORTING VIOLATIONS  
+QUESTIONS; CONTACTING STITCH FIX; REPORTING VIOLATIONS 
+
 If you have any questions, concerns or complaints about our Privacy Policy, our data collection or processing practices, or if you want to report any security violations to us, please contact us at [hello@stitchfix.com](mailto:hello@stitchfix.com "Email Stitch Fix"), or One Montgomery Tower Suite 1500, San Francisco, CA 94104\. 
 
-## Information Collected
+Information Collected
 
-### Information You Provide to Us.
+Information You Provide to Us.
 
-When you sign up for an account for our Services (an “ **Account** ”), you provide us your name, email address, password, and zip code to register with us or connect to the Service via an SNS (defined below). In addition, we collect information as part of your Style Profile, such as your date of birth, as well as sizing, fit and style preference information. If you post a photo to your Account, we will collect that photo.
+When you sign up for an account for our Services (an “ **Account** ”), you provide us your name, email address, password, and zip code to register with us or connect to the Service via an SNS (defined below). In addition, we collect information as part of your Style Profile, such as your date of birth, as well as sizing, fit and style preference information. If you post a photo to your Account, we will collect that photo. 
 
 When you receive a shipment, we record what you keep and what you return. 
 
@@ -39,7 +42,7 @@ Information Collected from Third Party Companies. We may receive information abo
 
 Information Collected from Social Networking Sites. The Services allow users to connect with various social networking sites, such as Pinterest, LinkedIn or Twitter (each a “ **SNS** ”). You can sign-in to the Services using your SNS account information. In addition, you can share your SNS information via the Services. By sharing your SNS profile, you are allowing the Services and your stylist to access certain of your SNS information as allowed by you (such as profile information). We may receive information from your SNS profile and that information may be imported to the Services. Our Services allow you to share information via such SNS profiles, such as referral links. You acknowledge and agree that you are solely responsible for your use of SNSs and that it is your responsibility to review the terms of use and privacy policy of the third party provider of such SNSs. We will not be responsible or liable for: (i) the availability or accuracy of such SNSs; (ii) the content, products or services on or availability of such SNSs; or (iii) your use of any such SNSs. You can remove your SNS profile information via your AccountStyle Profile at any time. When you disconnect your SNS account, the SNS public profile data and SNS-provided-email will be deleted from our active databases. 
 
-### Information Collected via Technology.
+Information Collected via Technology.
 
 Generally. When you use our Services, some information is automatically collected. For example, when you use our Services, your geographic location, how you use the Services, information about the type of device you use, your mobile network information, your Open Device Identification Number (“ **ODIN** ”), date/time stamps for your visit, your unique device identifier (“ **UDID** ”), and your browser type, operating system, Internet Protocol (IP) address, and domain name are all collected. This information is generally used to help us deliver the most relevant information to you and administer and improve the Services. In addition, in the event our App crashes on your mobile device, we will receive information about your mobile device model software version and device carrier, which allows us to identify and fix bugs and otherwise improve the performance of our App. 
 
@@ -51,7 +54,7 @@ Marketing Companies. We work with a number of marketing companies that assist in
 
 Analytics Companies. We work with a number of third party analytics companies that collect information anonymously and report website trends without identifying individual visitors. These services allow us to view a variety of reports about how visitors interact with the Services so we can improve our website and understand how people find and navigate it. Currently, we work with the following analytics companies: Optimizely, New Relic, Adjust and Google Analytics. This is not intended to be a comprehensive list and we may stop working with these companies and work with others without notice. You can learn more about how these companies collect, use and share information about you by visiting their websites. 
 
-## Use of Your Personal information
+Use of Your Personal information
 
 General Use. In general, personal information you submit to us is used either to respond to requests that you make, or to aid us in serving you better. We use your personal information in the following ways: 
 
@@ -76,7 +79,7 @@ User Feedback. We may post user feedback on the Services from time to time. If y
 
 Creation of Anonymous Data. We may create anonymous data records from personal information by excluding information (such as your name) that makes the data personally identifiable to you. We use this anonymous data to analyze request and usage patterns so that we may enhance the content of our Services and improve Site and App navigation. We reserve the right to use anonymous data for any purpose and disclose anonymous data to third parties in our sole discretion. 
 
-### Disclosure of Your Personal information
+Disclosure of Your Personal information
 
 We disclose your personal information as described below and as described elsewhere in this Privacy Policy. 
 
@@ -90,15 +93,15 @@ Corporate Restructuring. We may share some or all of your personal information i
 
 Other Disclosures. Regardless of any choices you make regarding your Personal information (as described below), Stitch Fix may disclose Personal information if it believes in good faith that such disclosure is necessary: (i) in connection with any legal investigation; (ii) to comply with relevant laws or to respond to subpoenas or warrants served on Stitch Fix; (iii) to protect or defend the rights or property of Stitch Fix or users of the Services; and/or (iv) to investigate or assist in preventing any violation or potential violation of the law, this Privacy Policy, or our Terms of Use. 
 
-### REFERRALS
+REFERRALS
 
 The Services allow you to invite your friends to sign up for the Services by sharing a referral link via an SNS, email or other means. 
 
-###  THIRD PARTY WEBSITES 
+THIRD PARTY WEBSITES
 
 Our Site or App may contain links to third party websites. When you click on a link to any other website or location, you will leave our Site, App or Services and go to another site, and another entity may collect personal information or anonymous data from you. We have no control over, do not review, and are not responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of your personal information after you click on links to such outside websites. We encourage you to read the privacy policies of every website and App you visit. The links to third party websites or locations are for your convenience and do not signify our endorsement of such third parties or their products, content or websites. 
 
-###  YOUR CHOICES REGARDING INFORMATION 
+YOUR CHOICES REGARDING INFORMATION
 
 You have several choices regarding the use of information on our Services: 
 
@@ -112,23 +115,23 @@ While we and others give you the choices to control the information collected an
 
 Information Disclosed to Third Parties. This Privacy Policy addresses only our use and disclosure of information we collect from and/or about you on the Services. If you disclose information to others, or authorize us to do the same under this Privacy Policy, the use and disclosure restrictions contained in this Privacy Policy will not apply to any third party. We do not control the privacy policies of third parties, and you are subject to the privacy policies of those third parties where applicable. 
 
-### HOW WE RESPOND TO DO NOT TRACK SIGNALS
+>HOW WE RESPOND TO DO NOT TRACK SIGNALS
 
 We do not currently respond to “do not track” signals or other mechanisms that might enable consumers to opt out of tracking on our Services. 
 
-### A NOTE ABOUT CHILDREN
+A NOTE ABOUT CHILDREN
 
 Our Services are not directed to children under the age of 13 and children under the age of 13 are not eligible to use our Services. We do not collect or maintain personal information from children we actually know are under the age of 13. If a child under 13 submits personal information to us and we learn that the personal information is the personal information of a child under 13, we will take steps to remove the personal information from our databases. If you believe that we might have any personal information from a child under 13, please contact us at [hello@stitchfix.com](mailto:hello@stitchfix.com "Email Stitch Fix"). 
 
-### USERS OUTSIDE OF THE UNITED STATES
+USERS OUTSIDE OF THE UNITED STATES
 
 If you are a non U.S. user of the Services, by using the Services and/or providing us with information, you acknowledge and agree that your personal information may be processed for the purposes identified in this Privacy Policy. In addition, your personal information may be processed in the country in which it was collected and in other countries, including the United States, where laws regarding processing of personal information may be less stringent than the laws in your country. By providing your information, you consent to such transfer. 
 
-### CONTACT INFORMATION
+CONTACT INFORMATION
 
 We welcome your comments or questions about this Privacy Policy. You may contact us at [hello@stitchfix.com](mailto:hello@stitchfix.com "Email Stitch Fix"). 
 
-### CHANGES TO THIS PRIVACY POLICY
+CHANGES TO THIS PRIVACY POLICY
 
 This Privacy Policy is subject to occasional revision, and if we make any material changes in the way we use your personal information, we will notify you by sending you an e-mail to the last e-mail address you provided to us and/or by prominently posting notice of the changes on the Services and updating the “Last Updated” date above. Any changes to this Privacy Policy will be effective upon the earlier of thirty (30) calendar days following our dispatch of an e-mail notice to you or thirty (30) calendar days following our posting of notice of the changes on the Services. These changes will be effective immediately for new users of our Service. Please note that at all times you are responsible for updating your personal information to provide us with your most current e-mail address. In the event that the last e-mail address that you have provided us is not valid, or for any reason is not capable of delivering to you the notice described above, our dispatch of the e-mail containing such notice will nonetheless constitute effective notice of the changes described in the notice. If you do not wish to permit changes in our use of your personal information, you must notify us prior to the effective date of the changes that you wish to deactivate your Account with us. Continued use of our Services, following notice of such changes shall indicate your acknowledgement of such changes and agreement to be bound by the terms and conditions of such changes. 
 
