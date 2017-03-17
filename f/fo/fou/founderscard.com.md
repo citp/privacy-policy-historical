@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the founderscard.com privacy policy that was archived on 2015-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150907084713id_/https%3A//founderscard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the founderscard.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318003144id_/https%3A//founderscard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FoundersCard
 
@@ -79,10 +79,10 @@ Questions about this Privacy Policy or the practices described herein should be 
 
 If you have any additional questions about this Privacy Policy or the practices described herein, you may contact:
 
-Customer Service: FoundersCard 800 W. 5th Street, Austin, TX 78703.   
+Customer Service: FoundersCard 1701 Directors Blvd, Austin, TX 78744.   
 
 
 Revisions to This Policy   
 
 
-FoundersCard reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our website: [http://founderscard.com](http://founderscard.com/).
+FoundersCard reserves the right to revise, amend, or modify this policy and our other policies and agreements at any time and in any manner. Any revision, amendment, or modification will be posted on our website: [https://founderscard.com](https://founderscard.com/).
