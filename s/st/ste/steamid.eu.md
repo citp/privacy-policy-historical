@@ -1,26 +1,29 @@
-> *The following text is extracted and transformed from the steamid.eu privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625102802id_/http%3A//www.steamid.co.uk/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the steamid.eu privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317115221id_/https%3A//steamid.eu/privacy.php) for the most accurate reproduction.*
 
-# SteamID » Privacy
+# SteamID » Privacy Policy & Data
 
-This Privacy Policy governs the manner in which SteamID collects, uses, maintains and discloses information collected from users (each, a "User") of the Steamid.co.uk website ("Site"). This privacy policy applies to the Site and all products and services offered by SteamID.
+This Privacy Policy governs the manner in which SteamID collects, uses, maintains and discloses information collected from users (each, a "User") of the SteamID's website ("Site"). This privacy policy applies to the Site and all products and services offered by SteamID.
 
 Regaurding STEAM and data from steam , Collecting and storing   
 A user can request data about another user, This request is done via the STEAM COMMUNITY and data that is collect at the time will be available to the public.  
-If you reach this page via a search engine, Any pages that search engines and other services choose to cache are out of steamid.co.uk's control  
-The data that steamid.co.uk collects is publicly avalible , If you do not want your data stored we advise to change your steam community privacy settings.
+If you reach this page via a search engine, Any pages that search engines and other services choose to cache are out of SteamID's's control  
+The data that SteamID's collects is publicly avalible , If you do not want your data stored we advise to change your steam community privacy settings.
 
 What is the data we collect used for?   
-The data that we collect about profiles is used to give the end user a better expierence   
-Such as: Displaying Friends list , Displaying Group Members , Showing people who are blocked from trading , Searching for names like %%
+The data that we collect about profiles is used to give the end user a better experience   
+Such as: Displaying Friends list , Displaying Group Members , Showing people who are blocked from trading , Searching for names like %% and much much more
 
-If you belive that we may be in breach of steams terms and conditions about the web API please read:  
+If you believe that we may be in breach of steams terms and conditions about the web API please read:  
 http://steamcommunity.com/dev/apiterms 
 
 Personal identification information
 
-We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. We will collect personal profile information from the steam community website. Users can opt.  
-to hide thier profiles via steam. The profiles are publicly viewable and content that is hidden cannot be displayed. 
+We may collect personal identification information from Users in a variety of ways in connection with activities, services, features or resources we make available on our Site.. We will collect personal profile information from the steam community website and via your account(s). Users can opt.  
+to hide their profiles via steam. The profiles are publicly viewable and content that is hidden cannot be displayed. 
 
+## Removal of profiles from this website
+
+Profiles are pulled automatically from the steam community website.The Steam API third-party sites like SteamID to access this profile data held on their servers. If you would like the data collected from the steam service removed, Please make your account private and any further information that is not publicly obtainable will stop being updated. Any existing data may however still be displayed.   
 Non-personal identification information
 
 We may collect non-personal identification information about Users whenever they interact with our Site. Non-personal identification information may include the browser name, the type of computer and technical information about Users means of connection to our Site, such as the operating system and the Internet service providers utilized and other similar information.
@@ -54,7 +57,7 @@ Advertising
 
 Ads appearing on our site may be delivered to Users by advertising partners, who may set cookies. These cookies allow the ad server to recognize your computer each time they send you an online advertisement to compile non personal identification information about you or others who use your computer. This information allows ad networks to, among other things, deliver targeted advertisements that they believe will be of most interest to you. This privacy policy does not cover the use of cookies by any advertisers.
 
-Google Adsense
+Google Adsense & Analytics
 
 Some of the ads may be served by Google. Google's use of the DART cookie enables it to serve ads to Users based on their visit to our Site and other sites on the Internet. DART uses "non personally identifiable information" and does NOT track personal information about you, such as your name, email address, physical address, etc. You may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at http://www.google.com/privacy_ads.html
 
@@ -70,6 +73,6 @@ Contacting us
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
 SteamID  
-Steamid.co.uk
+SteamID's
 
-This document maybe updated at any time.
+This document was last updated 17/07/2015 
