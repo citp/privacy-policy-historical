@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the codility.com privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610085451id_/https%3A//codility.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the codility.com privacy policy that was archived on 2017-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170317070400id_/https%3A//codility.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy - Codility
 
@@ -6,7 +6,7 @@ Last updated on 2016-03-03
 
 Codility Ltd ( _"_ we, _"_ “us” or “our”) is committed to protecting and respecting your privacy. This Privacy Policy sets out how we collect, use and share information which identifies you or is associated with you (“personal information”).
 
-Please read this Privacy Policy carefully to understand our views and practices regarding your personal information and how we will treat it. By setting up an account with us or using and accessing [https://codility.com](https://codility.com/) (the “Service”), you consent to the use of your personal information as described in this Privacy Policy.
+Please read this Privacy Policy carefully to understand our views and practices regarding your personal information and how we will treat it. By setting up an account with us or using and accessing [https://codility.com](https://codility.com/?__hstc=162943075.25a9486141118173af9bef7345cffd8b.1580356672808.1580356672808.1580356672808.1&__hssc=162943075.1.1580356672809&__hsfp=3924935683) (the “Service”), you consent to the use of your personal information as described in this Privacy Policy.
 
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is Codility Ltd. Our registered office is at 9th Floor, 107 Cheapside, London, United Kingdom EC2V 6DN. Our company registration number is 08372083.
 
