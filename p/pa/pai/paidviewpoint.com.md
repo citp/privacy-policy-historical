@@ -1,152 +1,215 @@
-> *The following text is extracted and transformed from the paidviewpoint.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104120607id_/http%3A//paidviewpoint.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paidviewpoint.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318003637id_/https%3A//paidviewpoint.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy - PaidViewpoint
 
 **Policy Effective Date:** March 2011  
-**Last Revised:** July 7th, 2016  
-This page discloses the privacy policy and practices of the PaidViewPoint.com website ("PV"), a website owned and operated by Umongous, Inc ("Umongous"), a Delaware Corporation. Umongous also owns and operates AYTM.com, a market research website that has Clients (Umongous Clients or Clients) who utilize data obtained from PV as described below. 
+**Last Revised:** Feb 2, 2017
 
-Umongous is in the market research and opinion research business. Umongous operates PV for the purpose of gaining anonymous opinions, such as your opinions, in order to help its Clients gain a better understanding of their business, marketing, product development and strategic opportunities. Umongous and some of its Clients also collect your anonymous opinions for the purposes of research related to understanding sociological, political and educational issues. The Clients of Umongous use this information in an aggregated fashion and do not receive from Umongous your identity or the individual identities of other PV panel members. It is against Umongous policy and market research terms of service ("MR-TOS") for one of its clients' to seek to determine the individual identity of any PV panel member. 
-
-[](https://privacy.truste.com/privacy-seal/validation?rid=84b2dbc3-bf72-4395-a151-b1492d9ff94c "TRUSTe Privacy Certification")
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe Seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, [http://www.paidviewpoint.com](http://www.paidviewpoint.com/). If you have questions or complaints regarding our privacy policy or practices on PV, please contact us at privacy [at] paidviewpoint [dot] com, or you can also write to us at: Umongous, Inc c/o AYTM PO Box 1741 Absecon, NJ 08201. 
-
-If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
-
-PV processes personal information on our servers in the United States of America. Your Personal Information may be transferred to, and used by, entities located outside of your state, province, country or other governmental jurisdiction where the privacy laws may not be as protective as those in your jurisdiction. Such export is a requirement of providing your information to PV, and you hereby consent to such export in all respects. 
-
-The company complies with the U.S.-E.U. Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The Umongous, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view the Umongous, Inc.’s certification, please visit <http://www.export.gov/safeharbor>. 
+This page discloses the privacy policy and practices of the PaidViewPoint.com website (“ **PV** ” or the “ **Website** ”), a website owned and operated by Umongous, Inc. (“ **Umongous** ” " **we** ", " **us** " or " **our** "), a Delaware Corporation, with headquarters in San Francisco, CA. Umongous also owns and operates AYTM.com, a market research website that has Clients (" **Umongous Clients** " or " **Clients** ") who utilize data, such as answers to surveys and other forms of research (“Research”) data obtained from PV Users ( **“You”** , **“Survey Panelist”** , **“User”** or **“Users”** ) as described below. 
 
   
 
 
-## Our Privacy Pledge:
+## What we do:
 
-### When you participate at PV as a member, your privacy is protected.
+Umongous is in the market research and opinion research business. Umongous operates PV for the purpose of gaining anonymous opinions, such as your opinions, in order to help its Clients, gain a better understanding of their business, marketing, product development and strategic opportunities. In order to function as a market research business, we collect your demographic traits (see “What Information We Collect” below). We also collect your anonymous self-declared traits (PV calls these **“Traits Surveys”** ) for the purposes of 1) directing specific surveys to you and 2) sharing aggregated, anonymous traits associated with answers chosen by the pool of people who answered a survey. Your answers to the questions in the Trait Surveys are used to determine your various social, psychological, political, psychographic and preference attributes as a member of the PV panel (See below under **"Trait Information"** ). 
 
-You will notice when you register at PV that we do not ask for your full name. We ask for a user name for the purpose of addressing you in emails and displaying your wins to our community on our home page and past winner's pages. You are free to supply a pseudonym on PV. We are not interested in your real name. We also do not ask for your precise address. Depending on your country of residence, you may need to supply your phone number in order to validate your account. In the US, we ask for your state, county and zip code. In other countries we may as for similar geographic and postal information, but not your precise address. We ask for your email address at registration. We will not rent, sell or share your email address with anyone without your expressed permission, except in the rare instances required by law such as to comply with a subpoena, or similar legal process and when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
+We do not share your name or email address with our Clients. It is a violation of Umongous Terms of Use at AYTM.com for a Umongous Client to seek to determine the individual identity of any PV Survey Panelist. 
 
-You are able, at your option, to upload an avatar into your account. This is entirely voluntary. The avatar may be your true likeness or photo at your sole discretion. If you choose to upload an avatar, PV may from time to time display your avatar on publicly viewable portions of the website and label the avatar with your first name, first initial of your last name supplied at registration, and account winnings or cash out. Your avatar may be overlaid on a map and show your approximate registered location. Umongous will not share your avatar with Umongous Clients or associate it with any survey answers. Should you decline to upload an avatar, PV may on occasion display a stock avatar image along with your first name, first initial of last name and account winnings or cash out. 
+**Because the survey answers you provide contain a large amount of demographic and other information about you, there is always a possibility that Umongous Clients who receive this information from us, and/or other third parties with whom Umongous Clients share this information, would be able to deduce your identity based on the information provided, for example if you have provided your zip code and live in small or sparsely populated area or if the combination of your demographics and survey answers is very unique.**
 
-If you use a social media login, such as Facebook, your social media profile photo and name will be shared with us through the relevant API. In those cases, PV will display your social media profile photo as your avatar on PV. Your true name, obtained from the API will also be displayed on your profile page within PV. Your registration demographics, such as your relationship status, household income, employment status, etc., will not be displayed on your PV profile page for others to see nor shared in a personally identifiable fashion with any third party at any time, with the exception of PV employees who may be required to service your account. Your precise answers to survey questions and traits questions will not be displayed on your PV profile page nor shared in a personally identifiable fashion, with any third party at any time with the exception of PV employees who may be required to service your account. 
+**If you decide that you do not wish to answer a Umongous Client survey or an individual question in a Umongous Client survey, you can opt out of proceeding in answering that survey simply by ending your participation in the survey. It will be cleared from your account, typically in a few hours or days. You will not receive payment for an incomplete Umongous Client survey. See "Your access and choices regarding your personal Information" Section below.**
 
-We do share your anonymous demographics, which you supply during registration or periodically update, with our Clients, along with your survey answers. Although our Clients are not interested in your personal identity, theoretically (in unusual circumstances), there could be cases where our Clients might be able to determine your personal identity. An example would be if you live in a zip code with a very small population and your demographics are unique for that zip code. In practice, we are unaware of any of our Clients making this effort. Such an effort by Umongous Clients is against our policy and MR-TOS. Because our Umongous survey system is self-service, it is possible that one of our Clients could potentially violate our policies and MR-TOS and deploy a survey into PV that requests personally identifiable information ("PII"). We urge you not to answer any question in a market research survey that requests PII such as your real name, address, phone number, social security number or email address. If you see such a violation on PV, please report this violation to notification [at] paidviewpoint [dot] com. 
+  
 
-We will share your personal information with third parties only in the ways that are described in this privacy policy. Umongous will never try to sell you anything. We will never share, rent, sell or provide your email address to anyone else who might want to sell you anything. We are not in the lead generation business and it is against our MR-TOS for Umongous Clients to use our system and attempt to access you through PV for that purpose. 
 
-We may provide your personal information to companies that provide services to help us with our business activities such as delivering your incentive, shipping materials and tools, needed for conducting research, or offering customer service. These companies are authorized to use your personal information only as necessary to provide these services to us. 
+## What Information We Collect:
 
-Your individual responses to surveys will also be kept confidential and will never be linked to your personal identifying information WITH THE EXCEPTION THAT Umongous does supply the demographics provided by you at registration and kept updated by you in your profile including state, county, zip code and inferred city or town. This information is supplied to Umongous Clients along with your survey answers so that they can make determinations about the opinions of people who generically are similar to you. 
+### Information We Collect Directly from You:
 
-If you ever see a survey that you do not wish to answer, exit the current session in your browser and come back PV at a later time. It will be removed from your account due to completion of the number of responses ordered by the Umongous Client, and no longer appear when you log in to PV. Do not answer any survey in which you do not wish to participate. 
+  * **Initial Registration Information:** If you wish to become a User of PV, you must begin the registration process by submitting your email address, and a chosen password and an optional promo code. If you do proceed by clicking the “Next” button, you will then be sent an email to complete the double opt-in process. You then can return to PV to continue the registration process. If you choose to register by using a third-party account (such as your Google or Facebook account), please see “Information we receive from third parties” below. 
+  
 
-Many of the surveys you will encounter while participating at PV exist for the purpose of identifying certain psychographic characteristics such as interests, activities, personal opinions and possessions. Umongous uses this information to direct certain surveys by Umongous Clients to you. For example, you might be asked if you own a pickup truck because a Umongous Client either does or doesn't wish to survey people who own pickup trucks. 
+  * **Standard Demographic Information:** To continue the registration you will be asked to provide what we call "Standard Demographic Information": your gender, a User name, your birthdate, your country, state/region, county, zip/postal code, time zone, PayPal email address, level of education, relationship status, parental status, employment status, and chosen career. You have the option to also supply your household income and race/ethnicity. 
+  * **Telephone number and PayPal account information:** You must activate your PV account with an automated code via your mobile phone or land line. When you register for an account on PV and sometimes when you cash out, you may be required to call us with your landline or cell phone or send us an SMS to provide PV with a secret validation code presented to you by PV. As a result of this process, we will learn your phone number and will include it in your PV account where you can change it in the future. We also request your PayPal account information so we can make payments which may be due to you. 
+  * **Traits Information:** You will receive many short surveys which enable PV to learn more about you. PV calls these “Trait Surveys”. Traits Surveys may seek information about your health and medical conditions, racial or ethnic origin, political opinions, religious or philosophical beliefs, trade-union memberships, health, psychographic, psychological makeup and sex life, things you have purchased, own or plan to acquire etc. Your answers to Traits Survey questions are only supplied to Umongous Clients in aggregate form from the pool of respondents who answered the Client’s Survey. If you do not wish to answer any particular question(s) in a given Trait Survey, you can click the “Exit” button. You will not be remunerated for a Trait Survey which you do not complete 
+  * **Umongous Client Survey Information:** As part of Umongous’ Market Research Business you may occasionally be given an opportunity to participate in a survey created by a Umongous’ Client, or by Umongous itself. We collect and store the responses that you submit to these surveys. **This information may include, if you consent to this, photos of you, video recordings of you and sharing your screen activity.** When a Umongous Client created the survey, and not Umongous itself, it is the Umongous Client who is responsible for the information and questions included in the survey. A Umongous Client survey may ask you to provide personally identifiable information such as your real name, address, phone number, social security number or email address. It is a violation of the Umongous Terms of Service for a Umongous Client to ask you for personally identifiable information. We urge you not to provide this information. If you see a survey containing such questions, please notify us at support [at] paidviewpoint [dot] com.   
+If while taking a Client Survey if you decide that you do not wish to answer a question or otherwise complete a survey, you can click the “Exit” button to leave the survey. You will not receive remuneration for Client Surveys which you do not complete. 
+  * **Other information you choose to share**
 
-Many questions asked in non-market-research surveys shown to you at PV are used by Umongous to make a determination about whether you are carefully reading questions and providing deliberate, consistent and candid answers. Your answers to these questions are used to determine whether Umongous will ask you to complete market research surveys. The magnitude of your opportunity to win monetary compensation on PV is largely predicated upon your level of activity on PV AND our determination of whether you are reading questions carefully and providing deliberate, consistent, candid answers. We use our proprietary algorithm "TraitScore" to make that determination. Umongous is always seeking to provide the highest quality service to its Clients and looks to you to be candid and truthful with your opinions. 
+We may collect your personal information or data if you voluntarily submit it to us.
 
-### Other information Collected by PV During Your Visits
+_When you upload an avatar_ : You may choose to upload an avatar for use on the Website, which may be your photo or other likeness of you. 
 
-PV automatically collects information and records in its database log files to help administer the site and aid in technical problem solving. Examples of log file information collected include IP address, time a page was viewed, your browser type, URL parameters, and information from cookies that were set by PV at the time of the visit. IP addresses are correlated with your declared location such as zip code. Use of proxy servers to mask your location is a violation of PV terms of service ("TOS"). It is important for PV to prevent users from creating and operating multiple accounts. Log file information is never linked to personal identifying information other than the information provided in your account profile. 
+_When you communicate with us_ : We may learn your name when you send us an email and your name is revealed through your email address or signature, or if you have used your name in an email. We only use it to address the purpose of your email to us. 
 
-### Other Activities/Games on PV
+_When we verify your PayPal account_ : When your PV earnings become vested, and before you are able to cash them out, we ask you to verify your PayPal account. During this process, we will retrieve your PayPal unique ID, your name and country and we store this data on our servers for fraud prevention purposes. 
 
-As a member of PV you may optionally elect to participate in PredictionMatch and other PV contests. In order to participate you may be required to login to PV using your Facebook account. This will result in your Facebook profile photo being used as your avatar within PV, in the "top score" charts and on your profile page unless you provided a separate avatar within your PV account. That profile page is viewable by other members of PV. Your name as registered at Facebook may also appear on your profile page and be viewable by others. Once you have activated contests in your account, should you later decide to opt out, you must log in to your account and choose "opt out" within your profile settings. You may also choose to notify us by contacting PV at support [at] paidviewpoint [dot] com. 
 
-Your demographics and specific answers to questions in surveys or PV contests will not be shared with anyone in a manner that can be linked to your personal identity. For instance, your household income that you supplied at registration will not be shared with anyone in a manner that can be personally linked to you. Your Facebook login credentials are never received nor stored on PV servers. Other members of PV can see your success in PV contests. 
+
+
+### Information We Collect Indirectly About You:
+
+When you use our Website as a visitor or as User with a registered account, we may collect the information described below about you indirectly and passively: 
+
+  * **Usage Information:** We collect information about your use of the Website and the Services including which webpages you visit, what you click on, when you performed those actions etc. We also collect log information which includes: IP address, time a page was viewed, browser type, URL parameters, operating system, and information from cookies (as described below). 
+  * **Information from other third parties:**
+
+_When you Sign in with a Social Media Account:_ We may collect your personal information from third parties if you give such third parties permission to share your information with us. For example, if you elect to sign into your PV account using your Facebook account details, the authentication of your logon details is handled by Facebook and we collect information about your Facebook account that you agree to share with us at the time you give permission for your PV account to be linked to your Facebook account. We may store some of this information on our servers and use this information for quality assurance, to improve our service to you and for authentication purposes. 
+
+If you choose to log in to our Website using your social media account, your profile photo will be on your profile page on the Website (which is accessible when you log in to your account. Services like Facebook Connect give you the option to post information about your activities on our Website to your profile page to share with others within your network. We do not receive or store your social media log in credentials 
+
+**Through Social Media Widgets on our Website:** Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our Website. These Features may collect your IP address, which page you are visiting on our Website, and may set a cookie to enable the Feature to function properly, even if you are not signed into your social media account when browsing our Website. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Website. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+
+  * **PV Referral System:**
+
+When you invite a friend to join PV or use your unique referral code on the Web to invite other people to join PV you will be able to see the following information about the individual who accepted your invitation: their avatar, username, status and earnings. They will be able to see your user name. This information will appear in the "Friends Connection" section of a user's account. 
+
+  * **Information from cookies and similar technologies:**
+
+We, as well as our research, technology, and marketing partners, affiliates, analytics, service, incentive delivery providers, etc. use “cookies” during your sessions. Cookies are small amounts of data which are sent to your browser from a website’s computers and stored on your computer or device. We use cookies to store Website member login credentials automatically if voluntarily elected by the member. Our web server also creates cookies to uniquely identify each User session when a Website member visits the Website. You can choose to disable cookies on your browser (see below) but doing so may prevent you from using the full features of the Website. 
+
+We use web beacons (sometimes called single-pixel gifs) along with cookies, to compile aggregated statistics to analyze how the Website is used, and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns. 
+
+We use Local Storage Objects (LSOs) such as HTML5 to be able to identify an individual with a specific live account in order to enforce our rules and prevent fraud. These cookies will only be used these purposes not for other purposes such as serving behavioral ads. Flash cookies are not the same as “browser cookies”. Flash cookies consist of an Adobe Flash Media Player local shared object (LSO) that is used for tracking purposes. For information on how to delete a Flash cookie, visit http://kb2.adobe.com/cps/526/52697ee8.html or search the Web for “How to delete flash cookie”. 
+
+**For information about your choices regarding these technologies please see "Your Access and Choices regarding your Personal Information" below.**
+
+
+
+
+## How we use your information:
+
+We may use your information to: 
+
+  * **Provide you the services:** We use the information in your answers to the Trait Surveys to determine whether you are carefully reading questions and providing deliberate, consistent and candid answers. This helps us decide whether or not to include you in our Client's surveys. We also include questions to identify certain psychographic characteristics such as interests, activities, personal opinions and possessions. This helps us to better direct surveys by Umongous Clients to you. For example, you might be asked if you own a pickup truck because a Umongous Client either does or does not wish to survey people who own pickup trucks. 
+  * **Send you communications related to the Services:**
+
+_Invitations to take a Survey:_ To facilitate your participation in the survey we may send you an email from time to time to invite you to take a survey. You may opt-out from receiving such emails by clicking on the "unsubscribe" link at the bottom of each email or selecting the opt-out link on the “Settings” page. This will not stop any service communications from us. 
+
+_Service-related Announcements:_ From time-to-time we may send you service-related transactional emails. You may not opt-out from receiving these emails without closing your PV account. 
+
+_Invitations to additional market research studies:_ From time-to-time you may be asked a question in a survey whether you have interest in participating in additional market research, such as a phone interview, a product test or user experience study. If you elect to be considered for such study, we may contact you, using the contact information we store on our servers so that you can participate. There will be an additional opportunity to opt out of the study at that point. 
+
+  * **Marketing and Advertising:** We may contact you to offer you additional services or promotions directly related to PV or one of Umongous’ related websites. You may opt out of receiving our promotional communications at any time by clicking on the “unsubscribe” link in them. This will not stop any service communications from us. 
+  * **Provide you support:** This includes: providing you with technical support and administering your account. 
+  * **Maintain, Monitor and improve our Services:** We use usage and other information to help maintain our Website and to analyze how you use the Website and Services, including how you interact with different parts of the Website, whether you open emails or click on links in them. This enables us to assess the effectiveness of our marketing efforts, to determine products that are suitable for you and to improve our Website and Services and your experience with them, for example through the optimization of the Website's layout and otherwise enhancing your navigation through the Website. 
+  * **Maintain the safety and security of our services:** We may use your information for internal purposes designed to keep our Services secure and operational, such as for troubleshooting and testing purposes. For example: certain cookies we use User credential automatically, to remember Users’ settings and protect unauthorized access. 
+  * **Prevent illegal or abusive conduct.** We use your information as necessary to enforce our terms of use and privacy policy, to help prevent illicit or illegal use of the Website or the services, and to screen for and prevent undesirable or abusive activity. In addition, we may need to inspect the data we hold to determine how to respond to legal requests or subpoenas. 
+
+
+
+### With whom we share your information:
+
+  * **Email address and avatar:** We will not rent, sell or share your email address with anyone without your express permission or under the circumstances set forth in the "Law enforcement" section below. We will not share your avatar with Umongous Clients or associate it with any survey answers. We will share your username and avatar but not your email address with the User who referred you to PV (if any). 
+  * **Your Survey responses:** We share your survey responses with our Clients whose surveys you answered. The Clients may share these responses with third parties at their discretion. The information provided to the Clients does not include your name, avatar, email address, phone number or IP address but does include your Standard Demographic Information. 
+
+**Because the surveys contain a large amount of demographic and other information about you, and may include photos or videos or you, there is always a possibility that Umongous Clients and/or other third parties with whom Umongous Clients share this information would be able to deduce your identity based on the information provided, for example if you have provided your zip code and live in small or sparsely populated area.**
+
+**You always have the choice to skip Client surveys and any of their questions which you do not wish to answer. You will not receive remuneration for Client surveys which you do not complete. (see "Traits Information" and "Umongous Client Survey Information" sections above.)**
+
+We urge you not to answer any question in a survey that requests personally identifiable information such as your real name, address, phone number, social security number or email address. If you see a survey containing such questions, please notify us at support [at] paidviewpoint [dot] com. 
+
+  * **Advertising:** We may allow our authorized service providers, advertising companies, and ad networks, to use tracking technologies like cookies and web beacons to collect information about users who use the Services. The tracking technologies allow the third parties to deliver targeted advertisements of our products and services on other websites or on social media networks and gauge their effectiveness. To learn about your choices regarding this sharing of your information please see **"Your access and choices regarding your personal Information" Section below.**
+  * **Employees and Service Providers:**
+
+Our employees may access your complete responses together with any personally identifiable information we collected about you (see above) to the extent necessary to perform their jobs and to service your account. 
+
+We also share restricted portions of your information with third parties who help us to provide you with our services including payment processors, hosting services, email service providers, communications providers, web traffic analytics tools and a Web telephony provider to receive the confirmation codes from your phone and identify your phone number to our database (Twilio). We grant these providers access to limited portions of your information, only to the extent necessary for them to perform their services to us. We also implement reasonable contractual and technical measure to ensure that your personal information is protected, used only for the provision of their services to us, and processed consistent with the terms of this privacy policy. 
+
+
+
+
+**Merger, Transactions: Bankruptcy:** In the event that Umongous or its affiliates undergoes a corporate restructuring, enters into a merger, acquisition, sale or other transaction pursuant to which, Umongous or any portion of its assets or stock is acquired by or assigned to a third party, or if we are involved in a bankruptcy, dissolution, reorganization, liquidation, similar transaction or proceedings, your personal information, including the questions and answers of your surveys and Research participation may be among the items sold or otherwise transferred and may be shared with third parties, including buyers, service providers or law enforcement officials. 
+
+  * **Law enforcement:** We will share your information with law enforcement, government officials, or other third parties when (i) we are compelled to do so by a subpoena, court order or similar legal procedure, (ii) we need to do so to comply with law, (iii) if we believe in good faith that the disclosure of your personal information is necessary to prevent physical harm or financial loss or to report suspected illegal activity; (iv) to enforce this Privacy Policy or our Terms of Use or to protect the security or integrity of our Services; and/or (v) to defend against legal claims or demands, exercise or protect the rights, property, or personal safety of Umongous, our Users or others. 
+  * **Per your express consent:** We may share your information for other reasons or purposes if you provide your permission for us to do so. 
+
+**See "Your access and choices regarding your personal Information" Section below**
+
+
+
 
 ### Links to Other Web Sites
 
-Our Site includes links to other Web sites whose privacy practices may differ from those of Umongous. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
+Our Website includes links to other Web sites whose privacy practices may differ from those of Umongous. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
 
-We may learn your name on certain other occasions, but we do not then store it within PV databases or use it for any other purpose than to resolve a customer support issue initiated by you. For instance, if you send us an email, your name may be revealed to us in your email address, or because you have used your name in your email. We do not encourage you to publicly reveal your name even though no third parties will be able to see your registration demographics or other personal information. When we send you money by PayPal.com, your name may be revealed to us in our Paypal account but we will not transfer your name from there to the PV database. 
+### Data Retention:
 
-### Customer Testimonials/Comments/Reviews/User Feedback
+We will retain your information for as long as needed to provide you Services. We will retain personal information about you for as long as necessary in order to provide the Services. We will retain and use this personal information only as long as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements and then delete it. 
 
-We post customer testimonials/comments/reviews on Web sites owned or controlled by Umongous, which may contain PII. We do obtain the customer's consent via email to post their name along with their testimonial prior to posting the testimonial. If you wish to update or delete your testimonial, you can contact us at privacy [at] paidviewpoint [dot] com. 
+Even once we delete the information, keep in mind that the deletion by our third-party providers may not be immediate and that the deleted information may persist in backup copies for up to 12 months or as required by legal and/or technical requirements that apply to such third parties. In addition, your survey answers and demographic traits, which have been provided to Umongous Clients as part of their survey results, will remain in our databases for as long as such Umongous Clients have active accounts or as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. This information may also be held by any third party with whom this information had previously been shared. 
 
-### Inviting Friends to Join PV
+### Data Security:
 
-When you invite a friend to subscribe or become a member of PV using the tools provided to you by PV, a code will be provided to them to become linked to you in our PV database ("Linked"). Once Linked to the friend that you referred (the "Referral"), you will become eligible to potentially receive a recruiting bonus. The username of your invited friend may be shown to you in your profile. Your friend may contact us at privacy [at] paidviewpoint [dot] com to request that we remove this information from our database. 
+Umongous has implemented commercially reasonable security measures to protect the loss, misuse, and alteration of your personal information under our control. For example, the access to your PV User account and the transfer of all personal information collected by us is done over https, we limit access to the information only to individuals who need the information to perform their duties and we use reliable third party providers to back up personal information. However, regardless of the security measures we implement, transmission over the internet is not completely secure nor is any type of electronic storage and there is always a risk that your information may be access or used by authorized third parties. 
 
-Our Web site includes Social Media Features, such as the Facebook Like button and Widgets, such as the Share this button or interactive mini-programs that run on our site. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it. 
+### Your access and choices regarding your personal information:
 
-### Facebook Connect or Open ID
+#### Refraining from Answering Certain Survey Questions: 
 
-You can log in to our site using sign-in services such as Facebook Connect or an Open ID provider. These services will authenticate your identity and provide you the option to share certain personal information with us such as your name and email address to pre-populate our sign up form. Services like Facebook Connect give you the option to post information about your activities on this Web site to your profile page to share with others within your network. 
+  * **Trait Survey questions** – you can exit a Trait Survey questions session by clicking the “Exit” button if you do not wish to answer any particular question or questions. By exiting you will be forfeiting remuneration for completing that trait survey. 
+  * **Umongous Client Survey** – you can exit a Umongous Client Survey by clicking the “Exit” button if you do not wish to answer any particular question or questions. By exiting you will be forfeiting remuneration for completing that survey. 
+  * **Video (Webcam) Responses, Screen Shares and Photos** \- If you are invited to record a video response or share your screen as part of the response, or to submit photos, and you accept that invitation, you will have an opportunity to opt out and, if you record the video, you will have an opportunity to review the recording and not submit the video, screen shots or photos. If you do not submit the video, screen shots or photos you will forfeit the remuneration, promised for completing the survey and the associated response. If you accept an invitation to record a video, the video will not only include you, it will include your background. Be careful not to have any sensitive personal information or sensitive items within view of the recording. If you share an image of your device’s screen, be careful not to share anything on that image that you wish to keep private. If you share some other image or photo, also be careful not to share without considering what might be in the foreground or background which you wish to keep private. 
 
-### Data Security
 
-PV has industry standard security measures in place to protect the loss, misuse, and alteration of the information under our control. These procedures are in place to secure PV member email addresses, anonymous demographics, psychographics and survey answers. PV members may access their demographics within their profile page for the purposes of verifying and updating. Under no circumstance can one member view the demographics of another member. As with any Internet endeavor, absolute security of information transmitted through channels (communication networks, hardware, software) not directly operated or controlled by us cannot be guaranteed. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. 
 
-In the event PV and/or Umongous or its affiliates enters into a merger, acquisition, sale or other transaction pursuant to which PV, or any portion of Umongous assets is acquired by a third party or an affiliate of Umongous, or is subject to bankruptcy, your personal information may be disclosed to the third party or affiliate both before and after the transaction, for the sole purpose of facilitating the transfer of your account and effecting that transaction. In the event a transaction is consummated, you will be notified of the transaction via email and/or through a notice on our website, and custody of your personal information will be transferred subject to all the terms and restrictions in this privacy policy. In the event the transaction is not consummated, PV and Umongous will require the third party or affiliate not to use or disclose your personal information in any manner whatsoever and to completely erase the same. 
+#### Correcting or Deleting Customer Testimonials:
 
-As is the case with any information you provide to any business operating in the United States, information provided to PV is subject to disclosure pursuant to judicial or other government subpoenas, warrants, or orders. 
+If you wish to update or delete a customer testimonial you had provided, you can contact us at support [at] paidviewpoint [dot] com. 
 
-### Policies on Correcting and Updating Personal Information
+#### Correcting, Updating or Deleting Personal Information:
 
-PV relies on its members themselves to provide any updates to demographic information. To change your personal information on PV, please log into your PV account and click on the profile link on the top right hand corner of the page. Then choose "settings" from the menu provided. If you wish to change your demographic information, please click on the profile link at the top right-hand corner of the webpage and choose the "my demographics" link. If you wish to contact us for assistance, please email us at support [at] paidviewpoint [dot] com. 
+You may access and update your Standard Demographic Information by logging into your PV account and clicking on the dashboard link on the top right hand corner of the page and choosing the "My demographics” link. You can change your email address, phone number, avatar, and/or PayPal account by logging into your PV account and clicking on the dashboard link on the top right hand corner of the page and choosing the "Settings” link. In order to prevent fraud, once you change your email address or telephone number your ability to withdraw any vested earnings in your account will be suspended for 180 days. You may access, amend, correct or delete your registration information by accessing your account on the Website. You may also exercise your right to amend, correct and delete any information about you by contacting us at support [at] paidviewpoint [dot] com. We will respond to you within a reasonable time and, where appropriate grant these rights to you. There rights are subject to some exceptions, including where the burden or expense of providing access would be disproportionate to the risks to your privacy, or where the rights of other individuals would be violated as a result. 
 
-## Opt Out Policy:
+If you wish to cancel your account or request that we no longer use your information and survey answers, please use the “Close account” button on the bottom of “Settings” page or contact us at support [at] paidviewpoint [dot] com. When you close your account your information and survey answers will no longer be available to Umongous Clients for use in new surveys. Closing your PV account will forfeit any and all earnings that you may have in your account. When you register an account, you accept the [PV rules](https://web.archive.org/pages/rules). **These rules include that the cash in your account is the property of PV and considered unvested. The cash in your account is considered vested and your property when it reaches $15.** If you choose to delete your account prior to vesting, you forfeit the opportunity to continue to earn and achieve vesting status. 
 
-### You Can Decide at Any Time to End Participation
+#### Opting out of communications :
 
-You can decline to respond to any survey by either selecting the "skip" button if available for non-market-research surveys or, if not available by logging out of a session when faced with a market research survey and then logging back in at a later time when it is no longer being shown to you. If you desire to cancel your membership in PV, please use the "Close account" button on the bottom of "Settings" page or contact us at support [at] paidviewpoint [dot] com. We will promptly cancel your account and delete your information from our database and send you a confirmation email. We respect your decision to decline participation and will not make any attempt to dissuade you. 
+If you wish to stop receiving: 
 
-## Use of Cookies and tracking technology:
+  * _Invitations to Take a Survey:_ you may click on the "unsubscribe" link at the bottom of each email or selecting the opt-out link in the email or on the “Settings” page. This will not stop any service communications from us. 
+  * _SMS messages to Take a Survey:_ if you opt to receive SMS notifications when surveys are available, you can turn off SMS notifications under SETTINGS in your account or reply STOP to any SMS notification. 
+  * _Marketing / Promotional Communications:_ you may click on the “unsubscribe” link in them. This will not stop any service communications from us. 
 
-### How We Use Cookies & Other Technologies on Our Website
 
-Technologies such as: cookies, beacons, tags and scripts are used by Umongous and our research, technology, and marketing partners, affiliates, analytics, service, incentive deliver providers, etc.. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis. 
 
-We use cookies to store user credential automatically, to remember users’ settings and protect unauthorized access.. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited. 
+#### Choices regarding the collection of your information
 
-We use Local Storage Objects (LSOs) such as HTML5 to enforce the rules, store content information and preferences etc. 
+  * **Advertising:** You can understand which third parties have currently enabled cookies for your browser or mobile device and how to opt-out of some of those cookies by accessing http://www.networkadvertising.org/managing/opt_out.asp ; http://www.aboutads.info/choices or, if you’re located in the European Union, at http://www.youronlinechoices.eu from your browser and from your mobile device. Even if you opt out of targeted advertising you will continue to see advertising of a generic nature. 
+  * **Analytics:** You can control the information provided to Google and opt out of certain ads provided by Google by using of the of the methods set forth in http://www.google.com/policies/privacy/partners/ or use the Google Analytics opt out browser add-on at http://tools.google.com/dlpage/gaoptout?hl=en . 
+  * **Cookies and other technologies:** Persistent cookies can be removed by following your web browser’s directions. A session cookie is temporary and disappears after you close your browser. You can reset your web browser to refuse all cookies or to indicate when a cookie is being sent. However, some features of the Website may not function properly if the ability to accept cookies is disabled. Turning off the browser's cookies will prevent web beacons from tracking your specific activity. The web beacon may still record an anonymous visit from your IP address, but unique information will not be recorded. If you do not want to receive tracking pixels, you will need to disable HTML images in your email client, and that may affect your ability to view images in other emails that you receive. To find out how to see what cookies have been set and how to reject and delete the cookies, please visit: http://www.aboutcookies.org . 
 
-Various browsers may offer their own management tools for removing HTML5 LSOs. 
 
-### PV May Use Digital Fingerprinting
 
-Digital fingerprinting is a technology used to place a unique identifier on a device such as a computer or smartphone. PV digital fingerprinting will never change the functionality of a device, collect personal information, or affect the operating system or its settings in any way. It will never log keystrokes or record activities. It will never interfere with or take control of the device. It will never send any information to the PV servers other than the device ID. It will never act as malware, adware, a virus or a Trojan. Its sole purpose is to match the device ID to the PV accounts logged into from the device. It is used to ensure the integrity of the market research results obtained on PV. It is also used to help prevent violations of the one account per PV member rule. PV uses commercially reasonable efforts to ensure that this technology is safe, secure and does not cause undue privacy or data security risks. PV will use and distribute this technology in an ethical manner in accordance with the PV privacy policy and all applicable laws. 
+### Protection of Children’s Privacy:
 
-## Children's Privacy
+The site is intended for adults. We do not intentionally or knowingly collect personally identifiable information from children under the age of 13 and we request that individuals under the age of 13 not submit any personal information on the site. If we become aware that a child under the age of 13 has created an account on the Website, we will promptly close that account and delete any submitted information. 
 
-The site is intended for adults in the United States. We do not intentionally or knowingly collect personally identifiable information from children under the age of 13 and we request that individuals under the age of 13 not submit any personal information on the site. If we become aware that a child under the age of 13 has created an account at PV, we will promptly close that account and delete any submitted information. 
+### International Users:
 
-## How and When PV May Contact You
+Umongous transfers, processes and stores information about you on servers located in Canada. Therefore, your information may be transferred to, stored, or processed in Canada, whose data protection, privacy and other laws may not provide the same level of protection as those in your country of residence. For example, government entities in Canada and other countries may have certain rights to access your personal information. 
 
-### Uses of Information
+By using our Website or the Services you understand and consent to the collection, storage, processing, and transfer of your information to our facilities in Canada and to those third parties with whom we share it as described in this policy. You may revoke your consent at any time. Please note that if you revoke your consent to the transfer of the information to Canada, we may no longer be able to provide you our Services. 
 
-When you register for an account on PV, you will be required to call us with your landline or cell phone or send us an SMS to provide PV with a secret validation code presented to you by PV. As a result of this process, we will learn your phone number. We populate your phone number into your account where you can see it and change it in the future. This validation procedure is designed to add security to your account and to limit PV members from creating multiple accounts. The same process must be repeated each time you cash out. We do use a third party application [Twilio](http://www.twilio.com/) to receive the confirmation codes from your phone and identify your phone number to our database. Please refer to the [Twilio Privacy Policy](http://www.twilio.com/legal/privacy) for further details. At no other time does PV share your phone number with any third party or display it to others on the PV website. 
+### Browser Do Not Track
 
-### Invitations
+Our Website does not support Do Not Track at this time. Do Not Track (DNT) is a privacy preference you can set in your web browser to indicate that you do not want certain information about your webpage visits collected across websites when you have not interacted with that service on the page. For all the details, including how to turn on Do Not Track, visit www.donottrack.us 
 
-PV may send you an email from time to time to invite you to take a survey. You may opt-out from receiving PV emails by selecting the opt-out link in the email or on the "Settings" page. 
+### How We Notify You About Changes to Our Privacy Policy:
 
-### Reminder Emails
+If we decide to change our privacy policy, we will post those changes to this privacy statement on our Website and other places we deem appropriate so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
 
-PV may send you an email to remind you that you can return to the site to begin answering surveys. These reminder emails are sent at your specific request based upon a setting that you have made in your account. If you do not request another reminder be sent to you next time, then none will be sent. To change these settings on PV, please log into your account and click on the profile link in the top right-hand corner, then click on the settings tab where you can turn off these notifications. 
+We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our Website. 
 
-### Service-related Announcements
+### How to Contact the Company Regarding Your Privacy Concerns:
 
-From time-to-time we may send you service-related transactional emails. You may opt-out from receiving these emails by selecting the opt-out link in the email. 
+Company can be reached at any time by email at support@paidviewpoint.com. It is our practice to respond to emails within 48 hours. If we do not respond within 48 hours, call us at 415-364-8601 and leave a message including your email address. 
 
-### Promotional Emails
+You can also write to us at:
 
-Occasionally we may send you a promotional email concerning some feature, service or promotion directly related to PV or one of Umongous' related websites. You may opt-out from receiving these emails by selecting the opt-out link in the email. We will never send you a promotional email related to a product or service that is not part of the Umongous business and related websites. 
+Umongous, Inc. 3000 Atrium Way, Suite 260, Mount Laurel, New Jersey, 08054
 
-## How We Notify You About Changes to Our Privacy Policy
+If you have any concerns or complaints regarding the processing of your personal data, you also have the option to resolve any dispute we have not adequately addressed through JAMS our U.S.-based third party dispute resolution provider, at no cost to you. You may contact them through: https://www.jamsadr.com/file-an-eu-us-privacy-shield-or-safe-harbor-claim 
 
-If we decide to change our privacy policy, we will post those changes to this privacy statement, the home page, and other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. 
-
-We reserve the right to modify this privacy statement at any time, so please review it frequently. If we make material changes to this policy, we will notify you here, by email, or by means of a notice on our home page prior to the change becoming effective. 
-
-If your personal information changes, or if you no longer desire our service, you may correct, update, amend, delete/remove by making the change on our member information page or by contacting us at the contact information below. We will respond to your request to access within 30 days. 
-
-## Data Retention
-
-We will retain your information for as long as your account is active, or as needed, to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services, please contact support [at] paidviewpoint [dot] com. We will retain and use your information as necessary to comply with our legal obligations, to resolve disputes, enforce our agreements and TOS. 
-
-## How to Contact Us About Your Privacy Concerns
-
-PV can be reached at any time by email at privacy [at] paidviewpoint [dot] com. It is our practice to respond to emails in less than 48 hours. If we do not respond within 48 hours, call us at (650) 353-7862 and leave a message including your email address so we can respond via email. We will respond to your voicemail within one business day. You can also write us at: Umongous, Inc 123 10th St. San Francisco, CA 94103 
+**Last Updated:** Feb 2 2017 
