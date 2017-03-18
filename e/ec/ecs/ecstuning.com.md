@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the ecstuning.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809080645id_/https%3A//www.ecstuning.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecstuning.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318150458id_/https%3A//www.ecstuning.com/PrivacyPolicy) for the most accurate reproduction.*
 
-# ECStuning.com
+# ECS Tuning - Privacy Policy
 
 ## What information do we collect?
 
