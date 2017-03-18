@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the magesolution.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119193243id_/http%3A//www.magesolution.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the magesolution.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318161854id_/https%3A//www.magesolution.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy MGS
 
