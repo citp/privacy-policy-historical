@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the halobeauty.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905113448id_/https%3A//www.afterglowcosmetics.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the halobeauty.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318151548id_/http%3A//afterglowcosmetics.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Afterglow Cosmetics
 
-## Privacy Policy
+## Privacy Policy, Terms & Conditions
 
 **PRIVACY STATEMENT**
 
@@ -14,10 +14,7 @@ When you place an order online, your personal information and credit card inform
 
 **EMAIL PRIVACY**
 
-We will only use this contact information to improve your experience when visiting our site and notify you of Afterglow products, sales, and events.  
-If you do not wish to receive any promotional notifications, simply click on the ‘safe unsubscribe’ button on the e-mail. This will permanently remove you from  
-our e-mail list. Alternatively, e-mail us requesting to “unsubscribe” to our mailings. Please know that we would never share, rent, or sell your e-mail address  
-or contact information with other organizations. If you have any other comments or concerns about e-mail you receive from us, please e-mail us at [abuse@afterglowcosmetics.com](mailto:abuse@afterglowcosmetics.com).
+We love and respect your email privacy. We will never rent, sell, or trade your email address. By providing your email address when requesting to receive and/or be included in exclusive Afterglow promotions, Afterglow discounts, free Afterglow eBooks and during the ordering process, you are accepting the full Privacy Policy, Terms and Conditions of our website, which includes a subscription to our eNewsletter. You may opt-out of of our eNewsletter at any time by clicking the unsubscribe button provided at the bottom of all Afterglow emails.
 
 **PHONE NUMBER PRIVACY**
 
@@ -30,3 +27,7 @@ We receive your mailing address online when you set up an account or order a pro
 **NOTIFICATION OF CHANGES TO THE CUSTOMER SERVICE & PRIVACY POLICIES**
 
 We reserve the right to revise our Customer Service Policy, Privacy Policy, and Store Policies as needed. Any changes or revisions to the Afterglow Cosmetic policies will be posted here. We reserve the right to make changes at any time without notifying you, the customer. We suggest that you periodically consult this Privacy Statement & Store Policies. Please note that our rights to use your personally identifiable information will be based on the privacy policy in effect at the time the information is used.
+
+There was an issue loading your timed LeadBox™. Please check plugin settings.
+
+There was an issue loading your exit LeadBox™. Please check plugin settings.
