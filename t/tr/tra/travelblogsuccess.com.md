@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the travelblogsuccess.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124065740id_/https%3A//travelblogsuccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the travelblogsuccess.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318124809id_/https%3A//travelblogsuccess.com/privacy-policy) for the most accurate reproduction.*
 
-# Travelblogsuccess.com Privacy Policy
+# TBS Privacy Policy - Travel Blog Success
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally identifiable information’ (PII) is being used online. PII, as used in US privacy law and information security, is information that can be used on its own or with other information to identify, contact, or locate a single person, or to identify an individual in context. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website.
 
@@ -181,9 +181,6 @@ The CAN-SPAM Act is a law that sets the rules for commercial email, establishes 
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[travelblogsuccess.com](http://travelblogsuccess.com/)  
-16263 Diamond Bay Drive  
-Wimauma, Florida 33598, United States  
-support@travelblogsuccess.com
+[support@travelblogsuccess.com](mailto:support@travelblogsuccess.com)
 
-Last Edited on 2015-03-23
+Last Edited on 2016-12-12
