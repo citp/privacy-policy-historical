@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rediker.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623054912id_/http%3A//www.rediker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rediker.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318211412id_/https%3A//www.rediker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rediker Software
 
@@ -55,7 +55,7 @@ This online privacy policy applies only to information collected through our web
 
 ##### Terms of Service
 
-Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our website at <http://www.rediker.com/terms>.
+Please also visit our Terms of Service section establishing the use, disclaimers, and limitations of liability governing the use of our website at <https://www.rediker.com/terms>.
 
 ##### Your Consent
 
@@ -71,7 +71,7 @@ This policy was last modified on 4-8-16.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://www.rediker.com](http://www.rediker.com/)  
+[https://www.rediker.com](https://www.rediker.com/)  
 2 Wilbraham Road  
 Hampden, MA 01030  
 [webmaster@rediker.com](mailto:webmaster@rediker.com)
