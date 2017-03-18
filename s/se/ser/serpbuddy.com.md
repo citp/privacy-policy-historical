@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the serpbuddy.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106120214id_/http%3A//serpbuddy.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the serpbuddy.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318105423id_/http%3A//www.serpbuddy.com/pages/privacy) for the most accurate reproduction.*
 
 # SerpBuddy - Keyword Rank Checker
 
