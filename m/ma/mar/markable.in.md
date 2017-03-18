@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the markable.in privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323075722id_/https%3A//markable.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the markable.in privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318095416id_/https%3A//markable.in/privacy) for the most accurate reproduction.*
 
 # Markable.in
 
