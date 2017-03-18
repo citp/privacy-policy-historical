@@ -1,11 +1,11 @@
-<!--The following is the downloaded HTML source of the reallycolor.com privacy policy that was archived on 2016-04-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160415232433id_/https%3A//www.reallycolor.com/about/privacy-policy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the reallycolor.com privacy policy that was archived on 2017-03-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170318170418id_/https%3A//www.reallycolor.com/about/privacy-policy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
 	<meta content="text/html; charset=utf-8" http-equiv="Content-Type">
 	<meta http-equiv="content-type" content="text/html;charset=utf-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
-	<script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var NREUMQ=NREUMQ||[];NREUMQ.push(["mark","firstbyte",new Date().getTime()]);</script><link href="http://www.reallycolor.com/" rel="shortlink">
+	<link href="http://www.reallycolor.com/" rel="shortlink">
 	<link href="http://www.reallycolor.com/" rel="canonical">
 
 	<!-- IMPORTANT - We must use our own bootstrap 3.3.2 and comment out their .hidden class as it effects our WebCPG negatively -->
@@ -14,7 +14,7 @@
 	<link href="https://netdna.bootstrapcdn.com/bootstrap/3.0.0/css/bootstrap-glyphicons.css" rel="stylesheet">
 	<link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,700,600,400" rel="stylesheet" type="text/css">
     <!-- jQuery (necessary for Bootstrap's JavaScript plugins) -->
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
+    <script src="https://secure.quantserve.com/quant.js" async="" type="text/javascript"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.2/jquery.min.js"></script>
     <!-- Include all compiled plugins (below), or include individual files as needed -->
     <!-- Latest compiled and minified JavaScript -->
 	<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.2/js/bootstrap.min.js"></script>
@@ -24,6 +24,19 @@
  	<link href="https://www.reallycolor.com/assets/css/global.css" rel="stylesheet">
 
    <link href="https://fonts.googleapis.com/css?family=Open+Sans:400italic,600italic,700italic,700,600,400" rel="stylesheet" type="text/css">
+
+<!-- recaptcha -->
+	<script type="text/javascript">
+    var captchaContainer = null;
+    var loadCaptcha = function() {
+      captchaContainer = grecaptcha.render('captcha_container', {
+        'sitekey' : '6LcJ9BMTAAAAAABFnaOOJPR4_Fw8UrCEikc5-LBG',
+        'callback' : function(response) {
+          console.log(response);
+        }
+      });
+    };
+    </script>
   
     <!--Parent Page-->
     <title>ReallyColor.com Terms and Conditions</title>
@@ -50,7 +63,7 @@
             <ul class="nav navbar-nav navbar-right">
             <li id="navLoginArea">
             <span class="fakeAnchor">
-              <a href="https://www.reallycolor.com/login.php">Log In</a>            </span>
+              <a href="https://www.reallycolor.com/login.php">Log In</a>		            </span>
             </li>
 			<li id="navCreditArea">
 			            </li><li>
@@ -59,7 +72,7 @@
             <li>
               <a href="https://www.reallycolor.com/send-a-gift.php">Send as a Gift</a>
             </li>
-			
+			<li><a href="https://www.reallycolor.com/coloring-book/index.php">Create a Coloring Book</a></li>
 
             </ul>
           </div><!--/.nav-collapse -->
@@ -194,6 +207,122 @@
 <h2>11. DON'T FORGET TO HAVE FUN</h2>
 <p>Wow, now THAT was a lot of legalese. In the end, the whole point of ReallyColor is to have fun, so, this Privacy Agreement also requires you to do that. Please have fun using the ReallyColor service!</p>
 </div>
+	<!-- begin change email modal -->
+	<div class="modal fade" id="changeEmailModal" tabindex="-1" role="dialog" aria-labelledby="changeEmailModalLabel" aria-hidden="true">
+		<div class="modal-dialog">
+			<div class="modal-content">
+				<div class="modal-header">
+					<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">×</span></button>
+					<h4 class="modal-title" id="changeEmailModalLabel">Change Email</h4>
+				</div>
+				<div class="modal-body">
+					<form class="" action="actions/x_change_email.php?return=index.php" method="post">
+						<div class="form-group">
+							<label for="changeEmail">Current Email:</label>
+														<input type="email" class="form-control changeEmail" name="changeEmail" id="changeEmail" value="" placeholder="" required="" disabled="">
+						</div>
+						<div class="form-group">
+							<label for="newEmail">NEW Email:</label>
+							<input type="email" class="form-control newEmail" name="newEmail" id="newEmail" value="" placeholder="" required="">
+							<p id="changeEmailAlert" class="label label-warning" style=""></p>
+						</div>
+						<div class="form-group">
+							<label for="newEmailAgain">NEW Email Again:</label>
+							<input type="email" class="form-control newEmailAgain" name="newEmailAgain" id="newEmailAgain" value="" placeholder="" required="">
+							<!-- fields for security only accepting posts from this site/form -->
+							
+							<!-- honey top  -->
+							<input name="passhoneytop" type="text" id="passhoneytop" class="honeytop">
+						</div>
+						<div class="form-group">
+							<!--recaptcha-->
+							<div id="captcha_container"></div>
+							<script src="https://www.google.com/recaptcha/api.js?onload=loadCaptcha&amp;render=explicit" async="" defer=""></script>
+						</div>
+						<button type="submit" class="btn btn-cta" id="changeEmailSubmit" disabled="">Change Email</button>
+						<p class="help-pass-block">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After you click the button, your email address will be changed to the new email address.</p>
+						<span class="help-pass label"></span>
+					</form>	
+				</div>
+				<div class="modal-footer"></div>
+			</div>
+		</div>
+	</div>	<!-- ./end forgot password reset modal -->
+<script type="text/javascript">
+	function validateChangeEmail(email){
+		var chgEmail = /[a-z0-9!#$%&'*+\/=?^_`{|}~-]+(?:\.[a-z0-9!#$%&'*+\/=?^_`{|}~-]+)*@(?:[a-z0-9](?:[a-z0-9-]*[a-z0-9])?\.)+[a-z0-9](?:[a-z0-9-]*[a-z0-9])?/i;
+		return chgEmail.test(email);
+	};
+
+	//function to check Email availability and compare two emails
+	$(function() {
+		$('#newEmail').blur(function() {
+			$('#changeEmailAlert').removeClass("label-success");
+			$('#changeEmailAlert').removeClass("label-warning");
+			$('#changeEmailAlert').removeClass("label-danger");
+
+			var newEmail = $.trim($(this).val());
+			if (newEmail == '') return;
+				
+			if (validateChangeEmail(newEmail)) {
+
+				$.ajax({
+					type: "POST",
+					url: "ajax/aj_check_email.php",
+					data: $.param({'regEmail': newEmail}),
+					cache: false,
+					success: function(result){
+						var result = $.trim(result);
+						if(result!='good'){ //this email exists in database - need to pick new email
+							$('#changeEmailAlert').addClass('label-danger');
+							$('#changeEmailAlert').html('This email is already registered. Please try again.');
+																
+						} else { //email does not exist in the database, newEmail is good to go!
+							$('#changeEmailAlert').html('Email address is good, please verify the address by typing it again below.');
+							$('#changeEmailAlert').addClass("label-success");
+						}
+					}
+				});
+			}else{
+				$('#changeEmailAlert').html('Please enter a valid email address');
+				$('#changeEmailAlert').addClass("label-warning");
+			}
+		});
+	});
+
+	//function to confirm the new email and verify email match - if so, enable the submit button
+	$(function() {
+		$('#newEmailAgain').blur(function() {
+			$('#changeEmailAlert').removeClass("label-success");
+			$('#changeEmailAlert').removeClass("label-warning");
+			$('#changeEmailAlert').removeClass("label-danger");
+
+			var newEmail = $.trim($('#newEmail').val());
+			var newEmailAgain = $.trim($(this).val());
+			console.log(newEmail);
+			console.log(newEmailAgain);
+
+			//if (newEmailAgain == '') return;
+			//if (newEmail == '') return;
+			
+			if (newEmail != newEmailAgain) {
+				$('#changeEmailAlert').addClass('label-danger');
+				$('#changeEmailAlert').html('The verify email does not match the NEW email. Please try again.');
+			} else {
+				$('#changeEmailSubmit').prop('disabled', false);
+				
+			};
+			
+			
+		});
+	});
+	
+	
+	
+
+
+</script>
+
  <!-- BEGIN FOOTER -->
    <div class="row footer">
        <div class="container">
@@ -208,8 +337,9 @@
                 <li><a href="/login.php">Log In</a></li>
                 <li><a href="/buy-photo-credits.php">Buy Photo Credits</a></li>
                 <li><a href="/send-a-gift.php">Send as a Gift</a></li>
+		<li><a href="/coloring-book/">Create a Coloring Book</a></li>
           	</ul>
-          	<ul class="nav navbar-nav navbar-right socialIcons">
+          	<ul class="nav navbar-nav navbar-right socialIcons pull-right">
                 <li><a href="https://www.facebook.com/ReallyColor" class="social facebook" target="_blank"></a></li>
                 <li><a href="https://twitter.com/reallycolor" class="social twitter" target="_blank"></a></li>
                 <li><a href="https://plus.google.com/u/0/111437973843850488161" class="social googlePlus" target="_blank"></a></li>
@@ -235,7 +365,7 @@
                   <a href="/blog/">Read Our Blog</a>
                 </li>
           	</ul>
-               <ul class="nav navbar-nav navbar-right tertiary">
+               <ul class="nav navbar-nav navbar-right tertiary pull-right text-right">
                 <li>
                   <a href="/about/terms-conditions.php">Terms and Conditions</a>
                 </li>
