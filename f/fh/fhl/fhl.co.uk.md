@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the fhl.co.uk privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401102921id_/http%3A//www.fhl.co.uk/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fhl.co.uk privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318063908id_/http%3A//www.fhl.co.uk/Privacy.aspx) for the most accurate reproduction.*
 
 # NetSuite Partner for Cloud Solutions | FHL
 
-First Hosted Ltd is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the First Hosted Ltd Web site and governs data collection and usage. By using the First Hosted Ltd website, you consent to the data practices described in this statement.
+First Hosted Ltd is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the First Hosted Ltd site and governs data collection and usage. By using the First Hosted Ltd site, you consent to the data practices described in this statement.
 
 Collection of your Personal Information
 
-First Hosted Ltd collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. First Hosted Ltd also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+First Hosted Ltd collects personally identifiable information, such as your email address, name, home or work address or telephone number. First Hosted Ltd also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
 
-There is also information about your computer hardware and software that is automatically collected by First Hosted Ltd. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by First Hosted Ltd for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the First Hosted Ltd Web site.
+There is also information about your computer hardware and software that is automatically collected by First Hosted Ltd. This information can include: your IP address, browser type, domain names, access times and referring website addresses. This information is used by First Hosted Ltd for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the First Hosted Ltd site.
 
 Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through First Hosted Ltd public message boards, this information may be collected and used by others. Note: First Hosted Ltd does not read any of your private online communications.
 
