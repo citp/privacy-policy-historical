@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115172250id_/https%3A//www.givengain.com/rules/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the givengain.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318234154id_/https%3A//www.givengain.com/rules/privacy) for the most accurate reproduction.*
 
-# GivenGain | Privacy policy
+# Privacy policy | GivenGain
 
 We ("[GivenGain](https://web.archive.org/about/)") operate several websites including givengain.com and givengain.org. It is GivenGain's policy to respect your privacy regarding any information we may collect while operating our websites. 
 
