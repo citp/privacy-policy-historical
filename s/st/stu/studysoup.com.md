@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the studysoup.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506043935id_/https%3A//studysoup.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studysoup.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318060322id_/https%3A//studysoup.com/privacy_policy) for the most accurate reproduction.*
 
-# StudySoup | Privacy Policy
+# Privacy Policy - StudySoup
 
-Protecting your privacy is important to us. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our [Terms of Service](https://web.archive.org/web/20160506043935id_/https%3A//studysoup.com/terms_and_conditions)). This Privacy Policy applies only to those websites, services and applications included within "Services" and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
+Protecting your privacy is important to us. Accordingly, we're providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services (as defined in our [Terms of Service](https://web.archive.org/web/20170318060322id_/https%3A//studysoup.com/terms_and_conditions)). This Privacy Policy applies only to those websites, services and applications included within "Services" and doesn't apply to any third-party websites, services or applications, even if they are accessible through our Services. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service. 
 
 ## How do we collect and use information?
 
@@ -38,7 +38,7 @@ Our Services may contain links to other websites and services. Any information t
 
 ##  Modifying Your Information 
 
-You can access and modify the PII associated with your Account by filling out the [form](https://web.archive.org/contact). If you want us to delete your PII and your Account, please contact us using the [form](https://web.archive.org/contact) with your request. We'll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. 
+You can access and modify the PII associated with your Account by filling out the [form](https://web.archive.org/marketing/support/contact). If you want us to delete your PII and your Account, please contact us using the [form](https://web.archive.org/marketing/support/contact) with your request. We'll take steps to delete your information as soon as is practicable, but some information may remain in archived/backup copies for our records or as otherwise required by law. 
 
 ##  International Transfer 
 
