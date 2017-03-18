@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the niume.com privacy policy that was archived on 2016-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161116094026id_/https%3A//niume.com/pages/privacy/index.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the niume.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319000629id_/https%3A//niume.com/privacy) for the most accurate reproduction.*
 
 # Niume | Privacy
 
-This policy (together with our [terms of use](https://web.archive.org/web/20161116094026id_/https%3A//niume.com/pages/terms/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.niume.com you are accepting and consenting to the practices described in this policy.  
+This policy (together with our [terms of use](https://web.archive.org/web/20170319000629id_/https://niume.com/terms/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.niume.com you are accepting and consenting to the practices described in this policy.  
 For the purpose of the Data Protection Act 1998 (the Act), the data controller is Niume Limited London Accelerator, 35 Kingsland Road, E2 8AA (Trading address). 
 
 * ### information we may collect from you
@@ -53,9 +53,11 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Niume Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20161116094026id_/https%3A//niume.com/pages/terms/) and other agreements; or to protect the rights, property, or safety of Niume Limited, our customers, or others.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20170319000629id_/https://niume.com/terms/) and other agreements; or to protect the rights, property, or safety of Niume Limited, our customers, or others.
 
 
+
+We allow third-party companies to collect certain information when you visit our web site. These companies may utilize cookies, pixels or other technologies to collect user information (e.g., hashed, de-identified, data, click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. To learn more about this behavioral advertising practice or to opt-out of this type of advertising, you can visit the websites of the Digital Advertising Alliance at [ http://www.aboutads.info/choices](http://www.aboutads.info/) or Your Online Choices at <http://www.youronlinechoices.com/uk/>. 
 
 Where we store your personal data:  
 The data that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff maybe engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your personal data, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
@@ -79,7 +81,7 @@ Questions, comments and requests regarding this privacy policy are welcomed and 
 
 * ### niume acceptable use policy
 
-This acceptable use policy sets out the terms between you and us under which you may access our website www.niume.com (our site). This acceptable use policy applies to all users of, and visitors to, our site. Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our [terms of website use](https://web.archive.org/web/20161116094026id_/https%3A//niume.com/pages/terms/).
+This acceptable use policy sets out the terms between you and us under which you may access our website www.niume.com (our site). This acceptable use policy applies to all users of, and visitors to, our site. Your use of our site means that you accept, and agree to abide by, all the policies in this acceptable use policy, which supplement our [terms of website use](https://web.archive.org/web/20170319000629id_/https://niume.com/terms/).
 
 * ### prohibited uses
 
@@ -94,7 +96,7 @@ You may use our site only for lawful purposes. You may not use our site:
 
 You also agree:
 
-    * Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our [terms of website use](https://web.archive.org/web/20161116094026id_/https%3A//niume.com/pages/terms/). 
+    * Not to reproduce, duplicate, copy or re-sell any part of our site in contravention of the provisions of our [terms of website use](https://web.archive.org/web/20170319000629id_/https://niume.com/terms/). 
     * Not to access without authority, interfere with, damage or disrupt: 
       * any part of our site;
       * any equipment or network on which our site is stored;
@@ -148,7 +150,7 @@ Contributions must not:
 
 * ### suspension and termination
 
-We will determine, in our discretion, whether there has been a breach of this acceptable use policy through your use of our site. When a breach of this policy has occurred, we may take such action as we deem appropriate. Failure to comply with this acceptable use policy constitutes a material breach of the [terms of use](https://web.archive.org/web/20161116094026id_/https%3A//niume.com/pages/terms/) upon which you are permitted to use our site, and may result in our taking all or any of the following actions: 
+We will determine, in our discretion, whether there has been a breach of this acceptable use policy through your use of our site. When a breach of this policy has occurred, we may take such action as we deem appropriate. Failure to comply with this acceptable use policy constitutes a material breach of the [terms of use](https://web.archive.org/web/20170319000629id_/https://niume.com/terms/) upon which you are permitted to use our site, and may result in our taking all or any of the following actions: 
 
   * Immediate, temporary or permanent withdrawal of your right to use our site.
   * Immediate, temporary or permanent removal of any posting or material uploaded by you to our site.
