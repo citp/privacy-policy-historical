@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promega.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217043406id_/http%3A//www.promega.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promega.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318202307id_/https%3A//www.promega.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
