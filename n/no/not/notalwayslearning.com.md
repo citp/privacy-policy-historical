@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the notalwayslearning.com privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810132235id_/https%3A//notalwayslearning.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the notalwayslearning.com privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318015720id_/https%3A//notalwayslearning.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy Funny & Interesting Student, Teacher, Parent, & Staff School Stories – Not Always Learning
 
