@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the baker.edu privacy policy that was archived on 2016-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160918025730id_/https%3A//www.baker.edu/about/policies-procedures/%23privacystatement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the baker.edu privacy policy that was archived on 2017-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170318223938id_/https%3A//www.baker.edu/about/policies-procedures/%23privacystatement) for the most accurate reproduction.*
 
-# Policies & Procedures » Baker College
+# Academic Honor Code & College Policies | Baker College
 
 #### Privacy Statement
 
