@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the frontdeskhq.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806232736id_/https%3A//www.frontdeskhq.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frontdeskhq.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319095718id_/https%3A//www.frontdeskhq.com/privacy-policy) for the most accurate reproduction.*
 
 # Front Desk privacy policy
+
+#### Front Desk believes in respecting and protecting your privacy.
+
+The following Privacy Policy applies to the information collected when you use our software applications (“App(s)”) or other services on your mobile device or computer. This policy explains how we collect, store, protect, and use information that you provide us. Front Desk may be referred to herein as “we” or “us“ or “our.” Users of our website might be referred to as “you” or “your.”
 
 #### 1\. Collection and use of information
 
@@ -54,7 +58,7 @@ If we make any material changes to this Policy we will post a prominent notice o
 
 #### 11\. Contacting us
 
-If you have any questions about this privacy statement, or our privacy policies, or you wish to report any circumstances whereby you believe any of our Apps or services do not conform with these Privacy Policies, please contact us by emailing the notice to us at: privacy@frontdeskhq.com or by mailing such notice to Front Desk Inc., 506 2nd Ave, Suite 1012, Seattle, WA 98104.
+If you have any questions about this privacy statement, or our privacy policies, or you wish to report any circumstances whereby you believe any of our Apps or services do not conform with these Privacy Policies, please contact us by emailing the notice to us at: privacy@frontdeskhq.com or by mailing such notice to Front Desk Inc., 1221 East Pike, Suite 200, Seattle, WA 98122 .
 
 #### 12\. Term of Service
 
@@ -63,3 +67,7 @@ When you access our website you are subject to the [Front Desk Terms of Service]
 #### 13\. California Privacy Rights
 
 California Civil Code Section 1798.83 permits customers who are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. If you are a California resident and have provided Us with Personal Information within the last year, you may make such a request by emailing us at the following email address with the email’s subject titled as “California Privacy Rights” to privacy@frontdeskhq.com.
+
+14 days to get to know us—no credit card required between friends.
+
+[](http://cta-redirect.hubspot.com/cta/redirect/1821116/37a50892-9fa3-4a05-a1af-49652841175c)
