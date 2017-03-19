@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cokeandpopcorn.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002307id_/http%3A//www.cokeandpopcorn.is/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cokeandpopcorn.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319203351id_/http%3A//www.cokeandpopcorn.is/privacy.php) for the most accurate reproduction.*
 
 # Coke & Popcorn TV Privacy
 
