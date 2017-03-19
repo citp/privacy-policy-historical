@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the viperial.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119034156id_/http%3A//www.viperial2.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the viperial.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319174436id_/http%3A//www.viperial2.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Viperial
 
