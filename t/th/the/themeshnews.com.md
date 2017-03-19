@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the themeshnews.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005136id_/http%3A//www.themeshnews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the themeshnews.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320004013id_/http%3A//www.themeshnews.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy -
 
 TheMeshNews is keen to personal information of its visitors and enrolled its privacy policy by analyzing all aspects and contexts that may be considered unscrupulous and unethical. The information that has been collected with or without willingness of visitors can be categorized under as:
 
