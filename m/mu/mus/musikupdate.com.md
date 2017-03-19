@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the musikupdate.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122092616id_/http%3A//musikupdate.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the musikupdate.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319193748id_/http%3A//musikupdate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MusikUpdate
 
