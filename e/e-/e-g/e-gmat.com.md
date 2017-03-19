@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-gmat.com privacy policy that was archived on 2016-04-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160425012745id_/https%3A//e-gmat.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-gmat.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319045338id_/https%3A//e-gmat.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
