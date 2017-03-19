@@ -1,0 +1,58 @@
+> *The following text is extracted and transformed from the rehlat.ae privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319073456id_/https%3A//www.rehlat.ae/en/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy | Rehlat
+
+At Rehlat we know that your privacy is very important to you. We are committed to ensuring you that we keep the information that you share with us when you use this website as safe as possible.
+
+We promise: 
+
+  1. We will ask you only to provide certain information in order to help us identify you, when you use our services.
+  2. We will use this information only in the manner described in this privacy policy.
+  3. We will always respect your privacy and keep the information you give us safe.
+
+
+
+We have written this privacy policy to enable you can see what information we have about you and how we will use it and protect that information.
+
+We may collect the following information: 
+
+  * Name and title
+  * Contact information including email address and telephone number
+  * Information relevant to your booking, query, customer surveys and/or offers
+  * Other information eg postcode, preferences and interests
+
+
+
+If you are making a travel booking on behalf of someone else, you should make sure that you have their permission to provide us with their personal information and that they are aware of our Privacy Policy.
+
+## What will we do with the information we collect? 
+
+We need this information so as to provide a better service and understand your needs. In particular we use your personal information for the following reasons: 
+
+  * To provide you with a service and keep records about our transaction
+  * To improve our products and services
+  * To send you promotional emails about new products, special offers or other information that we think is relevant to you. You can always unsubscribe from a mailing list by clicking on the link at the foot of the email.
+  * To contact you for market research. We might contact you by email, phone, fax or mail.
+  * To customize the website in order to meet your interests
+
+
+
+### Security 
+
+We cannot emphasise how much we are dedicated at ensuring that your information is secure. To keep it safe we are committed to have the most up to date and secure physical, electronic and managerial procedures. SSL (Secure Socket Layer) security is activated and enabled on Rehlat.com. 
+
+### Cookies 
+
+We use cookies to help us identify which of our website pages are being used most. This helps us make the website more relevant for you, to save your time and make your visit online more interesting and useful. Cookies are files that act like tracking devices. You can choose whether or not you allow them onto your computer. Once you give them permission they sit on your computer's hard drive and analyse web traffic or allow a website to recognise you when you make a repeated visit. Using cookies allows us to treat you as an individual. We can tailor our operations to better meet your needs and preferences. Allowing a cookie on your hard drive does not give us access to your computer or any information about you apart from the information that we directly ask for. If you prefer not to allow cookies access to your hard drive you will still be able to use our website but your use might be limited in some ways. 
+
+### Credit Card Data 
+
+When you make an online payment, all transactions are protected by a secure server. The Website Policies and Terms & Conditions may be changed or updated occasionally to meet requirements and standards. Therefore, Customers and Payment Gateway Provider/Bank will be notified about these changes. Such modifications will become effective on the day they are posted, and we encourage you to frequently review the Privacy Policy for any modifications. All Credit / Debit card details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties. 
+
+### Links to other websites 
+
+Our website may include links to other websites that we think might be useful for you. Please remember that this privacy policy only applies to information you provide on this website. If you use a link to leave our site we cannot be held responsible for the protection of any information that you provide while on another website. Please safeguard yourself and look at the privacy policy of the website you are visiting.
+
+### Finally 
+
+When you make a booking with us or provide us with your personal information you have consented to our use of your data as described in this policy. We may change this policy and we will let you know if we do this by updating this page. You should check this page from time to time to make sure that you are happy with any changes. This policy is effective from 10 June 2013. If you have any questions about our Privacy Policy or would like to check or correct the data that we hold about you, please contact us at: [help@rehlat.com](mailto:help@rehlat.com)
