@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the autobarn.com.au privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016092357id_/https%3A//www.autobarn.com.au/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autobarn.com.au privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319165758id_/https%3A//www.autobarn.com.au/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
