@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the bitrefill.com privacy policy that was archived on 2016-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160415194756id_/https%3A//www.bitrefill.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bitrefill.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319054748id_/https%3A//www.bitrefill.com/privacy) for the most accurate reproduction.*
 
 # Bitrefill - Recharge prepaid phones with Bitcoin
-
-## Bitrefill Privacy Policy 
 
 The following provisions makes out the current privacy policy issued for the mobile top up services offered through the website www.bitrefill.com (in the following **"Website")**. The services offered through the Website (in the following **"Services"** ) are provided by Pupot AB, a limited company incorporated under the laws of Sweden (in the following **"Bitrefill","we","us","our"** ). By visiting the Website and using the Services you expressly agree with the provisions expressed below as well as the Bitrefill [Terms of Service](https://web.archive.org/terms/).
 
