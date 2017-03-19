@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the massmailsoftware.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324201338id_/http%3A//www.massmailsoftware.com/pp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the massmailsoftware.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319033438id_/https%3A//www.massmailsoftware.com/pp) for the most accurate reproduction.*
 
 # Privacy policy of visitors and customers of email marketing software and services from AtomPark Software
 
@@ -16,7 +16,7 @@ Upon reading this Privacy Policy statement, you will know:
 
 
 
-Questions regarding this statement should be directed to the AtomPark Software Inc. Website coordinator by emailing: medik@atompark.com or writing to us at the following address: 901 N. Pitt str, Suite 325, Alexandria, VA 22314, USA.
+Questions regarding this statement should be directed to the AtomPark Software Inc. Website coordinator by emailing: medik@atompark.com.
 
 If you feel that AtomPark Software Inc. has not complied with the policies outlined in this privacy statement please submit a report at: medik@atompark.com 
 
@@ -123,7 +123,7 @@ In the event that all or substantially all of AtomPark Software Inc.'s stock and
 ### Choices Available to You 
 
 You can always choose whether or not to disclose personally identifiable information and that choice will not prevent you from using the AtomPark Software Inc. Website. Please note, however, if you should choose to withhold requested information, we may not be able to provide you with some of the services dependent upon the collection of this information.  
-You can choose at anytime to opt out of receiving emails from AtomPark Software Inc. or from having your personally identifiable information shared with selected companies. If you want to opt out, you can do so by editing your preferences with respect to email or the sharing of information. If you elect to "opt out" we will not, as applicable, share your personal information with third parties or send you emails. However, we may continue to use your personal information for internal purposes, to enhance your user experience or as necessary to administer the Website or comply with applicable law.
+You can choose at anytime to opt out of receiving emails from AtomPark Software Inc. or from having your personally identifiable information [replica watches](http://www.replica-watches.cn/) shared with selected companies. If you want to opt out, you can do so by editing your preferences with respect to email or the sharing of information. If you elect to "opt out" we will not, as applicable, share your personal information with third parties or send you emails. However, we may continue to use your personal information for internal purposes, to enhance your user experience or as necessary to administer the Website or comply with applicable law.
 
 We reserve the right to send a one-time registration confirmation email, and infrequent service alert messages to users to inform them of specific changes that may impact their ability to use a service they have previously signed up for, regardless of email contact opt-in status. We also reserve the right to contact you if compelled to do so as part of a legal proceeding or if there has been a violation of our End User License Agreement. 
 
