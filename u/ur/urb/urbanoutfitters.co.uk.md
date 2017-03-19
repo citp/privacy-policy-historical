@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119002823id_/http%3A//www.urbanoutfitters.com/uk/help/privacy_security.jsp%3Fcm_sp%3DEXPANDED_FOOTER-_-PRIVACY-_-privacy_security.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanoutfitters.co.uk privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319204703id_/http%3A//www.urbanoutfitters.com/uk/help/privacy_security.jsp%3Fcm_sp%3DEXPANDED_FOOTER-_-PRIVACY-_-privacy_security.jsp) for the most accurate reproduction.*
 
 # Privacy & Security - Urban Outfitters
 
