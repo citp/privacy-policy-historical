@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the propspace.com privacy policy that was archived on 2016-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160608061756id_/https%3A//www.propspace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the propspace.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319141633id_/https%3A//www.propspace.com/privacy-policy) for the most accurate reproduction.*
 
 # Global Real Estate Software - the definitive CRM software - PropSpace - PropSpace Real Estate CRM
 
-### JRD GROUP JLT - WEBSITE PRIVACY POLICY
-
-This Privacy Policy (the "Policy") sets out the basis on which JRD GROUP JLT collects, uses and discloses personal information obtained from you when using www.justrentals.com, www.propspace.com, www.justproperty.com and/or www.jrdgroup.com (the "Website(s)").
+This Privacy Policy (the "Policy") sets out the basis on which JRD GROUP DMCC collects, uses and discloses personal information obtained from you when using www.justrentals.com, www.propspace.com, www.justproperty.com and/or www.jrdgroup.com (the "Website(s)").
 
 By visiting the Website(s) and/or by using any services provided via the Website(s) from the United Arab Emirates, you expressly agree to be bound by the terms of this Policy and you consent to our collection, use and disclosure of your information in accordance with the terms of this Policy. We may amend this Policy at any time without notice. If you do not agree to the Policy (including any amendments), then you should immediately cease using the Website.
 
@@ -40,4 +38,5 @@ This Policy, as well as your access to the Website, is subject to and governed b
 
 ##### CONTACT US
 
-If you have any queries, complaints or recommendations about this Policy, or if you believe that any Personal Information that we may hold about you is incorrect or incomplete, please contact us at the following address and we will endeavor to respond to you promptly. contact@jrdgroup.com 
+If you have any queries, complaints or recommendations about this Policy, or if you believe that any Personal Information that we may hold about you is incorrect or incomplete, please contact us at the following address and we will endeavor to respond to you promptly.   
+[contact@jrdgroup.com](mailto:contact@jrdgroup.com)
