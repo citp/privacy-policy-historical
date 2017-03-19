@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cpcl.co.in privacy policy that was archived on 2015-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151217214011id_/http%3A//www.cpcl.co.in/Privacy%2520Policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cpcl.co.in privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319045424id_/https%3A//www.cpcl.co.in/Privacy%2520Policy.htm) for the most accurate reproduction.*
 
 # ::Welcome to CPCL
 
