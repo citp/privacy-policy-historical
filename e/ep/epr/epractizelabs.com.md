@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the epractizelabs.com privacy policy that was archived on 2015-06-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150615023017id_/http%3A//www.epractizelabs.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epractizelabs.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319233246id_/https%3A//www.epractizelabs.com/privacy-policy.html) for the most accurate reproduction.*
 
-# privacy policy
+# EPractize Labs Privacy Policy
 
-EPractize Labs respects the privacy of the users. 
-
-**Personal Information**
-
+**Personal Information**   
 Registration is not required for visitors to the site who do not require any specific services. 
 
 There are some activities like license request and customer support, where providing your Personal Information is required. EPractize Labs ensures that personally identifiable information of individual users will not be sold or otherwise transferred to unaffiliated third parties. 
@@ -20,18 +17,11 @@ EPractize Labs sometimes permit third parties to offer subscription and/or regis
 
 To allow us to potentially vary advertising according to user preference. EPractize Labs reserves the right to analyze and report behavior and characteristics of the user in order to measure interest in and use of the various areas of the site and to inform advertisers of such information. 
 
-**Resume Collection**
-
-The Site provides a capability for users to submit their resumes to EPractize Labs via email. Any resume received by EPractize Labs will be held in confidence and used only for the purpose of considering the submitting party for employment. Such information is not shared with the third parties. 
-
-No use of "Cookies" 
-
+No use of "Cookies"   
 EPractize Labs does not currently use Cookies on this Site. 
 
-E-mail information 
-
+E-mail information   
 When we receive e-mails from you, we may retain the content of any e-mail messages sent to us, as well as details of your e-mail address. 
 
-Contact 
-
-If you have any questions about this Site, please email the webmaster at webmaster@epractizelabs.com
+Contact   
+If you have any questions about this Site, please contact us at [http://www.epractizelabs.com/tickets/login/](https://www.epractizelabs.com/tickets/login/)
