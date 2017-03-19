@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hollyscoop.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042456id_/http%3A//www.obsev.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hollyscoop.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319204457id_/http%3A//www.obsev.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Obsev
 
