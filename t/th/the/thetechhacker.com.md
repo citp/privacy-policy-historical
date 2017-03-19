@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetechhacker.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214200125id_/http%3A//thetechhacker.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetechhacker.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319171421id_/http%3A//thetechhacker.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -14,4 +14,4 @@ To improve our website (we continually strive to improve our website offerings 
 
 **News Sources**
 
-We obtains news and content from a variety of sources, if the sources do not wish to be named we keep those as silent.
+We obtain news and content from a variety of sources, if the sources do not wish to be named we keep those as silent.
