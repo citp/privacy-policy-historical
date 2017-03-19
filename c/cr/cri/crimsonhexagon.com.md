@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the crimsonhexagon.com privacy policy that was archived on 2016-07-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160730213306id_/http%3A//www.crimsonhexagon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crimsonhexagon.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319211700id_/https%3A//www.crimsonhexagon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Crimson Hexagon
 
@@ -34,11 +34,11 @@ Notwithstanding the foregoing, we may transfer, sell or assign information conce
 
 ## Opt-Out/Discontinue
 
-If you do not wish to receive information or other material from us, you may ‘opt-out’ of receiving these communications by simply selecting the unsubscribe link at the bottom or any email communication or by letting us know via [contact us](http://www.crimsonhexagon.com/anchor/about-contact-us/ "About: #contact-us").
+If you do not wish to receive information or other material from us, you may ‘opt-out’ of receiving these communications by simply selecting the unsubscribe link at the bottom or any email communication or by letting us know via [contact us](https://www.crimsonhexagon.com/anchor/about-contact-us/ "About: #contact-us").
 
 ## Correct; Update
 
-If you wish to change or modify information previously provided to us, you may do so by notifying via [contact us](http://www.crimsonhexagon.com/anchor/about-contact-us/ "About: #contact-us"). We will use reasonably efforts to ensure that your information is corrected or updated in our records.
+If you wish to change or modify information previously provided to us, you may do so by notifying via [contact us](https://www.crimsonhexagon.com/anchor/about-contact-us/ "About: #contact-us"). We will use reasonably efforts to ensure that your information is corrected or updated in our records.
 
 ## Links
 
@@ -68,7 +68,7 @@ By using the Site, you signify your assent to our Privacy Policy. If you do not 
 
 ## Contact Us
 
-If you have any questions or concerns regarding our Privacy Policy or any questions about the security at our Site, you can send an email via [our contact options](http://www.crimsonhexagon.com/anchor/about-contact-us/ "About: #contact-us").
+If you have any questions or concerns regarding our Privacy Policy or any questions about the security at our Site, you can send an email via [our contact options](https://www.crimsonhexagon.com/anchor/about-contact-us/ "About: #contact-us").
 
 ## Special Notification for California Residents
 
