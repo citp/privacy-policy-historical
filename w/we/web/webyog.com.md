@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625165159id_/https%3A//www.webyog.com/eula/privacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webyog.com privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319024039id_/https%3A//www.webyog.com/eula/privacyPolicy) for the most accurate reproduction.*
 
-# Webyog Privacy Policy for SQLyog and MONyog
+# Webyog Privacy Policy for SQLyog and Monyog
 
 Your privacy is important to us. 
 
