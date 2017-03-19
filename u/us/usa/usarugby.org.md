@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the usarugby.org privacy policy that was archived on 2016-08-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160807195709id_/http%3A//www.usarugby.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usarugby.org privacy policy that was archived on 2017-03-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170319072535id_/https%3A//www.usarugby.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | USA Rugby
+# Privacy Policy | USA Rugby | USA Rugby
 
 _(Last updated July 14, 2009)_
 
