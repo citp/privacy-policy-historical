@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youracclaim.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111140126id_/https%3A//www.youracclaim.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youracclaim.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320015612id_/https%3A//www.youracclaim.com/privacy) for the most accurate reproduction.*
 
 # Acclaim
 
@@ -7,6 +7,8 @@
 Pearson VUE, a business of NCS Pearson (“Pearson VUE”) has adopted the following Privacy and Cookies Policy (hereinafter “Policy”) applicable to personal information that we may receive on all websites and web pages offered by Pearson VUE that provide a link to this Policy (collectively this “Site”). We provide this Policy to help you to understand what we may do with any personal information that we obtain from you and how we may use cookies and similar technologies. All references to ‘our’, ‘us’, or ‘we’, in this Policy and within the opt-in notice are deemed to refer to Pearson VUE as appropriate.
 
 By visiting and/or providing information to us on this Site, you are accepting the practices described in this Policy and agree that we may collect, use, and disclose your personal information as described herein. If you do not agree to this Policy , please do not provide your personal information to us. This Policy is incorporated into, and part of, the Terms of Use, that govern your use of this Site in general. We will use your Personally Identifiable Information, defined below, only for the purposes set forth below.
+
+**Pursuant to the New Jersey Truth in Consumer Contract Warranty and Notice Act, the sections entitled "SHARING OR TRANSFERRING OF PERSONALLY IDENTIFIABLE INFORMATION" and "LINKS TO OTHER SITES" below does not apply to those persons covered by that law.**
 
 ## PERSONALLY IDENTIFIABLE INFORMATION WE COLLECT.
 
@@ -46,7 +48,7 @@ If you have questions or concerns about this Policy or how we handle Personally 
 
 ## INFORMATION FROM CHILDREN.
 
-We recognize the importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect Personally Identifiable Information from children under the age of 16. If a child under the age of 16 has provided us with Personally Identifiable Information, we ask that a parent or guardian contact us @ PearsonVUEContracts@pearson.com [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or 1 (952) 681-3918. If you are under 18, please be sure to read this Policy with your parent(s) or legal guardian(s) and ask questions about things you do not understand. Those that are under the age of 18 may only purchase products from our online stores with the permission of their parent(s) or legal guardian(s). 
+We recognize the importance of protecting privacy where children are involved. We are committed to protecting children's privacy and we comply fully with the Children's Online Privacy Protection Act (COPPA). We do not knowingly collect Personally Identifiable Information from children under the age of 13. If a child under the age of 13 has provided us with Personally Identifiable Information, we ask that a parent or guardian contact us @ PearsonVUEContracts@pearson.com [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com) or 1 (952) 681-3918. If you are under 18, please be sure to read this Policy with your parent(s) or legal guardian(s) and ask questions about things you do not understand. Those that are under the age of 18 may only purchase products from our online stores with the permission of their parent(s) or legal guardian(s). 
 
 ## INFORMATION RECEIVED FROM INTERNET SERVICE PROVIDERS THROUGH THIS WEBSITE.
 
@@ -100,4 +102,4 @@ Pearson VUE reserves the right to update, revise, modify, and supplement this Po
 
 If you have any questions or concerns about this Policy, please contact us at [PearsonVUEContracts@pearson.com](mailto:PearsonVUEContracts@pearson.com). You may also contact us at +1 (952) 681-3918. 
 
-Effective Date: June 28, 2012
+Effective Date: October 5, 2016
