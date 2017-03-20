@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the startupgrind.com privacy policy that was archived on 2015-07-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150717213838id_/http%3A//www.startupgrind.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the startupgrind.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320132156id_/https%3A//www.startupgrind.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Startup Grind
 
