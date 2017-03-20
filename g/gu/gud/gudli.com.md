@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gudli.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613043339id_/http%3A//www.turtlediary.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gudli.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320074516id_/https%3A//www.turtlediary.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Turtle Diary
 
