@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the refersion.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506045604id_/https%3A//www.refersion.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the refersion.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320155709id_/https%3A//www.refersion.com/privacy) for the most accurate reproduction.*
 
 # Refersion - Affiliate Tracking Platform
 
