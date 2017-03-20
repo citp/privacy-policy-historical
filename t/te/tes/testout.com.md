@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the testout.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118232307id_/http%3A//www.testout.com/home/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the testout.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320100101id_/http%3A//www.testout.com/home/about/privacy) for the most accurate reproduction.*
 
 # Privacy
 
