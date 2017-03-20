@@ -1,20 +1,19 @@
-> *The following text is extracted and transformed from the geneseo.edu privacy policy that was archived on 2009-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20091115020905id_/http%3A//www.geneseo.edu/perspectives/%3Fpg%3Ddisclaimer.html%23privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geneseo.edu privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320083503id_/https%3A//www.geneseo.edu/cit/web-privacy-policy) for the most accurate reproduction.*
 
-# SUNY Geneseo
+# Web Privacy Policy | SUNY Geneseo
 
-  | 
+SUNY Geneseo (Geneseo.edu) does not collect personally identifiable information from our visitors unless they choose to provide that information to us. However, certain information about our site visitors is automatically collected and stored using Google Analytics, a web analytics service provided by Google, Inc. Google Analytics uses cookies to help us analyze how users use our site. The generic information we collect is based on IP address (the location of a computer or network), and includes data such as the date and time users access the site, which pages they visit, and their geographical region. SUNY Geneseo uses this information to create summary statistics for such purposes as assessing what information on the web site is of most and least interest, or identifying system performance or problem areas. 
 
-This site is admininistered by Computing and Information Technology at the State University of New York at Geneseo.
+SUNY Geneseo may also use Google AdWords to advertise across the Internet. AdWords remarketing will display relevant ads based on what parts of the Geneseo website you have viewed, by placing a cookie on your machine. This cookie does not in any way identify you or provide access to your computer; instead, it is used to tell Google that you have shown interest in a section or page on the site, and will show you ads relating to that topic.
 
-[Report errors](http://www.geneseo.edu/areas/?pg=contact.php).
+You can opt out of the use of cookies and set preferences for how Google advertises to you through [Google Ad Settings](http://www.google.com/settings/ads/). 
 
-**Privacy Act Notice**  
-We collect no personal information about you when you visit this web site unless you choose to provide this information to us. However, certain information about site visitors is automatically collected and stored. SUNY Geneseo uses this information to create summary statistics for such purposes as assessing what information on the web site is of most and least interest, or identifying system performance or problem areas. The following is the type of information collected about your visit to our web site: the name of the Internet domain from which you access this site (for example, "aol.com" if you were connecting from America Online) and the date and time that you access this site.
+## Links to External Web Sites
 
-If you choose to provide us with personal information in an email message, we use it only to respond to your email. 
+Links from this web site to web sites outside SUNY Geneseo are for the convenience of the user. Such links do not constitute an official endorsement or approval of any private sector web site, product, or service. 
 
-**Links to External Web Sites**  
-Links from this web site to web sites outside SUNY Geneseo are for the convenience of the user. Such links do not constitute an official endorsement or approval of any private sector web site, product, or service. 
+## Disclaimer of Liability
 
-**Disclaimer of Liability**  
 Every effort is made to provide accurate and complete information. However, we cannot guarantee that there will be no errors. With respect to documents and information on this website neither the State University of New York at Geneseo, nor their employees and contractors make any warranty, expressed or implied, including the warranties of mercantability and fitness for a particular purpose with respect to documents available from this web site. Additionally, the State University of New York assumes no legal liability for the accuracy, completeness, or usefulness of any information or process disclosed herein and do not represent that use of such information or process would not infringe on privately owned rights.
+
+This page is administered by Computing and Information Technology in conjunction with the Office of Communications & Marketing at the State University of New York at Geneseo. Please report any errors to [web@geneseo.edu](mailto:web@geneseo.edu) .
