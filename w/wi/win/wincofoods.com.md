@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wincofoods.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118223902id_/http%3A//wincofoods.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wincofoods.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320014723id_/http%3A//wincofoods.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | WinCo Foods
 
@@ -72,6 +72,6 @@ By using this website, you signify your assent to all of the terms of this Priva
 You always have the right to review and update the information that you previously provided to us at this website. You may contact us as described immediately below in order to arrange this or to ask us to remove you from our list of email addresses to which we send email newsletters. All of our email newsletters also contain an “unsubscribe” link that you can click through to unsubscribe from future emails.
 
 **How to contact us**  
-If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](https://web.archive.org/contact). You may also reach us by telephone at 800.824.1706 weekdays from 8:30 a.m. – 5:30 p.m. Mountain Time.
+If you have any questions or concerns about this Privacy Policy or about our collection or use of information, please [Contact Us](https://web.archive.org/contact). You may also reach us by telephone at 800.824.1706 weekdays from 8:00 a.m. – 5:00 p.m. Mountain Time.
 
 Comments are closed.
