@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iimb.ernet.in privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119015029id_/http%3A//www.iimb.ernet.in/node/5723) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iimb.ernet.in privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320200904id_/http%3A//www.iimb.ernet.in/node/5723) for the most accurate reproduction.*
 
-# Privacy Policy | Top Management School in India, World, IIM | IIM Bangalore
+# Privacy Policy | Top Management School in India, IIMB | IIM Bangalore
 
 **Privacy Statement**  
 Thank you for visiting the IIMB website operated by the Indian Institute of Management Bangalore (IIMB). Visitors to [www.iimb.ernet.in](http://www.iimb.ernet.in/) are guaranteed privacy. Information collected on [http://www.iimb.ernet.in](http://www.iimb.ernet.in/) is kept private and never shared with other organizations. We’re making this privacy statement to inform you about the types of information gathered and disseminated on the Website.
