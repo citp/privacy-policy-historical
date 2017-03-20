@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201021843id_/http%3A//www.renweb.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the renweb.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320221931id_/https%3A//www.renweb.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - RenWeb
 
@@ -29,7 +29,7 @@ Given that our services include student information management and fundraising s
 
 #### _— School Administration_
 
-We will respond to requests for Contacts and Sales Demonstration made via our website [www.renweb.com](http://www.renweb.com/) using personal information received from you at the time of the request. To request information about our products and services, we may ask you to provide certain information including but not limited to your name, address, telephone number, email address, school name, school address, total enrollment, grade levels, and referral information.  _No information will be collected unless you provide it to us voluntarily. Wilcomp will not share this information with anyone outside of our company, subject to the limitations described above._
+We will respond to requests for Contacts and Sales Demonstration made via our website [www.renweb.com](https://web.archive.org/) using personal information received from you at the time of the request. To request information about our products and services, we may ask you to provide certain information including but not limited to your name, address, telephone number, email address, school name, school address, total enrollment, grade levels, and referral information.  _No information will be collected unless you provide it to us voluntarily. Wilcomp will not share this information with anyone outside of our company, subject to the limitations described above._
 
 Wilcomp may use school information to contact appropriate representatives at the school. For example, we may send marketing or promotional materials including emails or other information to school administrators; we may respond to your comments, questions or requests for information; or we may contact you as necessary to provide general customer support. You may update your contact information or opt out of receiving marketing or promotional materials by contacting our Customer Support center by phone at +1 866 800 6593 , or via email request sent to [privacy@renweb.com](mailto:privacy@renweb.com).
 
@@ -59,7 +59,9 @@ It is the responsibility of our client schools to utilize our services (e.g. the
 
 ### Access to Customer Information:
 
-Upon request Wilcomp Software LP will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. Wilcomp Software LP has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, who seeks to correct, amend, delete inaccurate data or withdraw consent to further contact should direct his/her query to Wilcomp Software LP’s Client (the data controller). If the Client requests Wilcomp Software LP to remove the data, we will respond to their request within 30 days.
+Upon request Wilcomp Software LP will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. You may access, correct, or request deletion of your personal information by logging into your account or by contacting us at [privacy@renweb.com](mailto:%20privacy@renweb.com). We will respond to your request within a reasonable timeframe. Wilcomp Software LP has no direct relationship with the individuals whose personal data it processes. An individual who seeks access, who seeks to correct, amend, delete inaccurate data or withdraw consent to further contact should direct his/her query to Wilcomp Software LP’s Client (the data controller). If the Client requests Wilcomp Software LP to remove the data, we will respond to their request within 30 days.
+
+We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. Wilcomp Software LP will retain this personal information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 The primary goal of Wilcomp in collecting personal information from our customers is to assist our customers in managing the information they provide utilizing our products and services. We have always safeguarded the confidentiality of information provided to us by our clients and are bound by our professional standards to continue to maintain this vital aspect of our professional relationship. The following individuals may have access to some or all of your information:
 
@@ -68,7 +70,7 @@ The primary goal of Wilcomp in collecting personal information from our customer
 
 
 
-Wilcomp will share the information necessary to deliver products and services that you specifically request to receive but we will limit this information to only what is necessary and required to complete a transaction. In certain situations, Wilcomp Software LP may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Wilcomp also reserves the right to disclose your personally identifiable information in order to respond to duly authorized information requests of governmental authorities, where required by law, when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, warrant, subpoenas or similar legal process. If Wilcomp is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.  _Wilcomp will not share, trade or sell the personal information of our visitors or customers for use by any business without your consent.  If you do not want us to share your personal information with these companies, [contact us here](http://www.renweb.com/support) _.__
+Wilcomp will share the information necessary to deliver products and services that you specifically request to receive but we will limit this information to only what is necessary and required to complete a transaction. In certain situations, Wilcomp Software LP may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Wilcomp also reserves the right to disclose your personally identifiable information in order to respond to duly authorized information requests of governmental authorities, where required by law, when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, warrant, subpoenas or similar legal process. If Wilcomp is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.  _Wilcomp will not share, trade or sell the personal information of our visitors or customers for use by any business without your consent.  If you do not want us to share your personal information with these companies, [contact us here](https://web.archive.org/support) _.__
 
 Wilcomp Software LP may transfer personal information to companies that help us provide our service. Transfers to subsequent third parties are covered by the provisions in this Policy regarding notice and choice and the service agreements with our Clients.
 
@@ -118,7 +120,7 @@ Wilcomp Software LP
 820 SW Wilshire Blvd  
 Burleson, TX USA 76028
 
-[](https://privacy.truste.com/privacy-seal/Wilcomp-Software-LLP/validation?rid=667271a8-c084-4a73-a3be-66ca84204234)
+[](https://privacy.truste.com/privacy-seal/validation?rid=667271a8-c084-4a73-a3be-66ca84204234)
 
 ## U.S.-Swiss Safe Harbor Framework
 
@@ -138,4 +140,4 @@ Under certain conditions, more fully described on the [Privacy Shield website](h
 
 For human resources data we have agreed to cooperate with Data Protection Authorities. Any questions, comments or complaints about the data practices (including without limitation compliance with data privacy principles of notice, choice, onward transfer, access, security, data integrity, or enforcement) of a hosted online OnBoarding software customer or partner for whom Wilcomp processes data should be addressed to that customer or partner.
 
-This version of the Privacy Policy was last updated on 31-August-2016 and replaces all previous versions of our policy.
+This version of the Privacy Policy was last updated on 26-January-2017 and replaces all previous versions of our policy.
