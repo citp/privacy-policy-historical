@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hairstyleonpoint.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220235254id_/http%3A//hairstyleonpoint.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hairstyleonpoint.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320052721id_/http%3A//hairstyleonpoint.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
