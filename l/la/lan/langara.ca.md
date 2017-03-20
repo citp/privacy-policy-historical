@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the langara.ca privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119013821id_/http%3A//langara.ca/about-langara/records-management-and-privacy/privacy/privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the langara.ca privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320014502id_/http%3A//langara.ca/about-langara/records-management-and-privacy/privacy/privacy-statement.html) for the most accurate reproduction.*
 
-# Langara. About Langara: Records Management and Privacy: Privacy: Privacy Statement
+# Langara. About Langara : Records Management and Privacy: Privacy: Privacy Statement
 
 This website is covered by British Columbia’s _Freedom of Information and Protection of Privacy Act_ (the Act).
 
