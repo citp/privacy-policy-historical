@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sendthisfile.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905204934id_/http%3A//www.sendthisfile.com/policy/privacy-policy.jsp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sendthisfile.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320190813id_/http%3A//www.sendthisfile.com/policy/privacy-policy.jsp) for the most accurate reproduction.*
 
 # Privacy Policy | SendThisFile
 
-Last Updated: November 20, 2014 
+Last Updated: September 22, 2016 
 
 This privacy policy (the "Statement") covers SendThisFile, Inc's ("SendThisFile," "us," or "our") SendThisFile file transfer service website, sendthisfile.com. By using the SendThisFile website, you consent to the data practices described in this Statement, as the same may be updated from time to time. 
 
@@ -15,6 +15,17 @@ This Statement does not apply to the practices of companies that SendThisFile do
 ### What information do we gather?
 
 The only individually identified information that we collect about you is that which you choose to share with us during registration, when using our products and services, or when responding to offers from SendThisFile or from our business partners. 
+
+This information includes: 
+
+  * **Email address** : See "Email Communications" below
+  * **Billing information**
+    * First and last name: Used for credit card processing
+    * Business name: Used for credit card processing
+    * Street, City, State, Zip, Country: Used for credit card processing
+    * Credit card number and expiration: Used for credit card processing
+
+
 
 We also collect information about aggregate site usage. Statistics that we gather about unique visits, referring URLs, repeat visits and page views are all based on IP address, and are not associated with your personal information.
 
@@ -32,7 +43,9 @@ The information we gather is supplemented with information provided by third par
 
 ### How do you update the information you provided during registration?
 
-To update or correct the personally identified information that you shared with us during registration, sign into your member account on the website using your member ID and password. Once signed in, click on the "my account" link, and follow the steps to edit your member information and to confirm your changes.
+You have the right to access, update and correct the personally identified information you shared with us during registration. In order to do so, sign into your member account on the website using your member ID and password. Once signed in, click on the "my account" link, and follow the steps to edit your member information and to confirm your changes 
+
+An individual who seeks access, or who seeks to correct, amend, or delete inaccurate data, should direct his query to . If requested to remove data, we will respond within a reasonable timeframe 
 
 ### Email Communications
 
@@ -50,7 +63,9 @@ Unsubscribing - You can unsubscribe or change your subscription to our marketing
 
 ### Third Parties
 
-We do not share personally identified information with anyone, unless we need to do so to provide services to you (e.g., sending credit card information to a credit card processor), we tell you otherwise when we collect the information, you "opt in" to having your information shared with third parties, or we have informed you of a change to this Statement so that you can then choose to opt out. Additionally, we may disclose personally identified information with third parties if (1) we believe in good faith that such disclosure is necessary to comply with an applicable law, a valid legal process, or to exercise our legal rights (including, without limitation, a violation of the SendThisFile website _Terms of Use_ or other agreement between SendThisFile and you), or to defend against legal claims; (2) we have a good faith belief that access, preservation, or disclosure of such information is reasonably necessary to protect the rights, property, or safety of us, our users, or the public, including disclosure of criminal activity or the violation of the rights of others; or (3) if all or a portion of a business of SendThisFile is transferred in connection with a sale, merger, transfer, exchange, or other disposition (whether assets, stock, or otherwise).
+We do not share personally identified information with anyone, unless we need to do so to provide services to you (e.g., sending credit card information to a credit card processor), we tell you otherwise when we collect the information, you "opt in" to having your information shared with third parties, or we have informed you of a change to this Statement so that you can then choose to opt out. Additionally, we may disclose personally identified information with third parties if (1) we believe in good faith that such disclosure is necessary to comply with a lawful request by public authorities, including meeting national security, law enforcement requirements or to exercise our legal rights (including, without limitation, a violation of the SendThisFile website _Terms of Use_ or other agreement between SendThisFile and you), or to defend against legal claims; (2) we have a good faith belief that access, preservation, or disclosure of such information is reasonably necessary to protect the rights, property, or safety of us, our users, or the public, including disclosure of criminal activity or the violation of the rights of others; or (3) if all or a portion of a business of SendThisFile is transferred in connection with a sale, merger, transfer, exchange, or other disposition (whether assets, stock, or otherwise). 
+
+In cases of onward transfer to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, SendThisFile, Inc. is potentially liable. 
 
 Except as stated above, when we ask you for personally identified information, we will tell you if we intend to share it with others. We will provide you with a way to tell us that you don't want us to share the information or if you don't want to receive promotional and/or marketing information about products, services, and offerings from SendThisFile and/or any third parties. We will also provide you with a way to update your personally identified information that you share with us during registration. Once you have "opted in" and agreed that your information may be shared with third parties or you have responded to an offer by any third party on the SendThisFile websites, SendThisFile can no longer update any of your personally identified information that has been transferred to such third parties or opt you out of such third parties so that you no longer receive their promotional and/or marketing information. Instead, you must either contact that third party or refer to their privacy policy to update your personally identified information or to let them know that you no longer want to receive promotional and/or marketing information about their products, services, or offerings. The privacy policies and practices of these third parties may differ from this Statement. You may not opt-out of the uses stated above or our internal uses of your personally identified information.
 
@@ -70,20 +85,24 @@ Lastly, there may be a third party cookie in SendThisFile emails that is generat
 
 SendThisFile may amend this Statement from time to time. If we make any substantial changes in the way we use your personal information we will notify you by posting a prominent notice in this Statement or in other locations on our website or by sending you an email to inform you of an updated Statement, at our choice. We encourage you to periodically review this Statement to stay informed about how we are protecting the personal information we collect. Your continued use of the SendThisFile website constitutes your agreement to this Statement and any changes to it.
 
-###  Safe Harbor 
+### EU-US Privacy Shield
 
-SendThisFile, Inc. complies with the US-EU Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SendThisFile, Inc. has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view our certification page, please visit http://www.export.gov/safeharbor/ 
+SendThisFile, Inc. complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. SendThisFile, Inc. has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>
 
-In compliance with the US-EU Safe Harbor Principles, SendThisFile, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union citizens with inquiries or complaints regarding this privacy policy should first contact SendThisFile, Inc. at: 
+In compliance with the EU-US Privacy Shield Principles, SendThisFile, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact SendThisFile, Inc. at: 
 
 SendThisFile, Inc.   
-Attn: Safe Harbor Complaints   
+Attn: EU-US Privacy Shield Complaints   
 2250 N. Rock Rd. Ste. 118-136   
 Wichita, KS 67226-2331 
 
-Fax: 316-925-5261, Attn: Safe Harbor Complaints 
+Fax: 316-925-5261, Attn: EU-US Privacy Shield Complaints 
 
-SendThisFile, Inc. has further committed to refer unresolved privacy complaints under the US-EU Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by SendThisFile, Inc., please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint. 
+SendThisFile, Inc. is subject to the investigatory and enforcement powers of the Federal Trade Commission (FTC). 
+
+SendThisFile, Inc. has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <https://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. 
+
+Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel. 
 
 ###  How can you contact SendThisFile with Questions? 
 
