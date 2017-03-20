@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pokemmo.eu privacy policy that was archived on 2015-10-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151011110301id_/https%3A//pokemmo.eu/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pokemmo.eu privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320021204id_/https%3A//pokemmo.eu/privacy) for the most accurate reproduction.*
 
 # PokeMMO - Privacy
 
@@ -16,20 +16,20 @@ You provide certain personal information to us when you register to use our Serv
 
 ### Logging of Chats or other Communication Features
 
-PokeMMO may store all communications exchanged between You and any other person while using the Game's Services. This not only includes "public" chats, but also includes all messages exchanged in private chats; "Whispers", "Team", or our Voice over IP ("VOIP") Services.
+PokeMMO may store all communications exchanged between You and any other person while using the Game's Services. This not only includes "public" messages, but also includes all messages exchanged in private using our Services.
 
-The communication data will be stored by PokeMMO on its own servers which are maintained only by PokeMMO's, its Employees and its Volunteers.
+The communication data will be stored by PokeMMO on its own servers which are maintained only by PokeMMO.
 
-PokeMMO's Employees and Volunteers have been advised not to access this communication data unless a breach of the Terms of Service is suspected, when it is necessary to perform development and debugging, or when a User Support request has been made by You.
+PokeMMO's Staff have been advised not to access this communication data unless a breach of the Terms of Service is suspected, when it is necessary to perform development and debugging, or when a User Support request has been made by You.
 
 Communication data is not transferred to any third party under any circumstances unless such disclosure is legally required by law enforcement authorities, a court authority, or other legal processes.
 
-Communication data is stored as long as it is required to provide Support and may be used in development or debugging scenarios.   
+Communication data is stored as long as it is required to provide support and may be used in development or debugging scenarios.   
 
 
 ### Use of E-mail Addresses
 
-Your e-mail address used at the time of Account Creation may be used to contact you regarding specific issues related to your Account. You may also receive special promotional notices for Services or Game Content.
+Your e-mail address used at the time of Account creation may be used to contact you regarding specific issues related to your Account. You may also receive special promotional notices for Services or Game Content.
 
 ### Use of Non-personal Information
 
@@ -43,11 +43,11 @@ When you use any Service provided by PokeMMO, your IP Address (the Internet Prot
 
 When you connect to the Game provided by PokeMMO, your system specifications - such as Operating System, RAM, Video Card, System Configuration, etc. - may be reviewed / recorded by us for the purpose of analysis, optimization of the Game Client, and in order to provide You with User Support.
 
-When you make a donation to PokeMMO, your payment information and transaction is processed by a third party. PokeMMO may store information about donation history and amounts of Reward Points distributed through uniquely identifiable account information and IP Addresses. PokeMMO does not store any payment information used to complete the transaction initiated by You. Further details can be found at <http://xsolla.com/termsandconditions/>
+When you make a donation to PokeMMO, your payment information and transaction is processed by a third party ("Xsolla, Inc."). PokeMMO may store information about donation history and amounts of Reward Points distributed through uniquely identifiable Account information and IP Addresses. PokeMMO does not store any payment information used to complete the transaction initiated by You. Further details about the third party's Terms and Conditions that you agree to when donating to PokeMMO may be found at <http://xsolla.com/termsandconditions/>
 
 ## 2\. Cookies and Related Technology
 
-When someone visits [https://pokemmo.eu/](https://pokemmo.eu/tos/) we collect standard internet log information and details of visitor behaviour patterns. We do this to find out things such as the number of visitors to the parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to identify users who visit our website while not logged in to a PokeMMO Account, and we will not associate any data gathered from this site with any personally identifiable information from any source.
+When someone visits [https://pokemmo.eu/](https://pokemmo.eu/tos/) we collect standard internet log information and details of visitor behavior patterns. We do this to find out things such as the number of visitors to the parts of the site. We collect this information in a way which does not identify anyone. We do not make any attempt to identify users who visit our website while not logged in to a PokeMMO Account, and we will not associate any data gathered from this site with any personally identifiable information from any source.
 
 ### Use of Cookies by PokeMMO
 
@@ -59,7 +59,7 @@ This table explains the cookies we use when you visit PokeMMO and why:
 PokeMMO | modtids coppa sfct mqtids anonlogin member_id sfc pass_hash session_id uagent_bypass rteStatus mobileApp | Provides core functionality to the PokeMMO forums. You will likely not have all of these cookies on your computer. | 1-8 years  
 Google | __qca __utma __utmb __utmc __utmd __utmv __utmz | Anonymous visitor tracking. You will likely not have all of these cookies on your computer. | 26 years  
 Cloudflare | __cfduid cf_retry cf_use_ob civicAllowCookies | To load balance our servers and provide a better service, we sometimes use [CloudFlare](https://www.cloudflare.com/) which sets this cookie. | 7 years  
-Gravatar | gravatar __qca | To provide user customization and choosable avatars, we sometimes use gravatar which sets this cookie. | 5-42 years  
+Gravatar | gravatar __qca | To provide user customization and choosable avatars, we sometimes use [Gravatar](https://en.gravatar.com/) which sets this cookie. | 5-42 years  
   
 ## 3\. Who collects the personal information
 
