@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120043727id_/http%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mathgames.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320211013id_/http%3A//www.mathgames.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Math Games - Privacy Policy
 
