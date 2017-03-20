@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ruvilla.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419060255id_/https%3A//www.ruvilla.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ruvilla.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320151037id_/https%3A//www.ruvilla.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Villa
 
