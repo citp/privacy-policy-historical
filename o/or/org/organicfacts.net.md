@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the organicfacts.net privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127220115id_/https%3A//www.organicfacts.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the organicfacts.net privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320155656id_/https%3A//www.organicfacts.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Organic Facts
 
