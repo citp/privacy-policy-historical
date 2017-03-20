@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meowingtons.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324211719id_/http%3A//www.meowingtons.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meowingtons.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320082833id_/https%3A//www.meowingtons.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Meowingtons
 
