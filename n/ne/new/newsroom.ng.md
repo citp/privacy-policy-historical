@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the newsroom.ng privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215025847id_/http%3A//www.newsroom.ng/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsroom.ng privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320103324id_/https%3A//newsroom.ng/privacy) for the most accurate reproduction.*
 
-# Newsroom - Privacy
-
-## **Privacy Policy**
+# Privacy | Newsroom
 
 _Last Updated on October 15, 2014_
 
@@ -10,7 +8,7 @@ This Privacy Policy discloses the privacy practices for Newsroom Nigeria and [ne
 
 The Newsroom Nigeria Services may contain links to other websites for your convenience and information. We are not responsible for the privacy practices or the content of those sites.
 
-## **WHAT INFORMATION DO WE GATHER ABOUT YOU?**
+**WHAT INFORMATION DO WE GATHER ABOUT YOU?**
 
 The information gathered when you interact with the Newsroom Nigeria falls into two categories: 1) Personal information, which includes personal information you supply when you subscribe, order, complete a survey, register for one of our sites, enter a contest or provide your email address and 2) Non-personal information collected through technology, which includes tracking information collected by us as well as third parties.
 
