@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the simplecapacity.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121090509id_/http%3A//simplecapacity.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simplecapacity.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320020351id_/http%3A//simplecapacity.com/privacy-policy-2) for the most accurate reproduction.*
 
-# Privacy Policy - Simple Capacity
+# Privacy Policy - SimpleCapacity
 
 Privacy Policy for [Simple Capacity](http://www.simplecapacity.com/).
 
