@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the poolinvestors.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234253id_/http%3A//www.poolinvestors.com/page/privacy_policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the poolinvestors.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320072251id_/http%3A//www.poolinvestors.com/page/privacy_policy.html) for the most accurate reproduction.*
 
 # Pool Investors Privacy Policy
 
