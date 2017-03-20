@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223125327id_/http%3A//www.easyclosets.com/customer-service/policies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyclosets.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320222201id_/http%3A//www.easyclosets.com/customer-service/policies) for the most accurate reproduction.*
 
 # EasyClosets Policies | EasyClosets
 
