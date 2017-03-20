@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kametsu.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119183856id_/http%3A//kametsu.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kametsu.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320162630id_/https%3A//kametsu.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Kametsu
 
