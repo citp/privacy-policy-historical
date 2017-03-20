@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsnet5.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203194444id_/http%3A//www.newsnet5.com/about-us/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsnet5.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320012245id_/http%3A//www.newsnet5.com/about-us/privacy_policy) for the most accurate reproduction.*
 
 # newsnet5.com Privacy Policy - newsnet5.com Cleveland
 
