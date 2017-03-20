@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amateuralbum.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000156id_/http%3A//www.amateuralbum.net/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amateuralbum.net privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320035625id_/http%3A//www.amateuralbum.net/register.php%3Fppaction%3Dprivacy) for the most accurate reproduction.*
 
 # Privacy Statement - AmateurAlbum.net
 
@@ -34,4 +34,80 @@ Support
 
 AmateurAlbum.net provides email support for users who purchase the software at our Helpdesk. AmateurAlbum.net does not currently provide telephone support. If you have any questions or concerns about this Privacy Policy or our information handling practices, please [contact Us]() through email. We will do our best to respond to your inquiry within four business days.  
   
-Local moms need sex. Just send a message and ask to fuck! 
+Horny amateurs on cam. Come and play right now!   
+| 
+
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=mrjacksonsplayroom)
+
+HD
+
+[ mrjacksonsplayroom](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=mrjacksonsplayroom) 28
+
+  * SPRING BREAK GONE WILD! Meet CupCake we meet her on the beach today! double BJ! @100 | bra off@65 | panties off@85 Tip in order from 1 to 100. Next tip: 46 #seqwithgroup
+
+
+  * 98 mins, 5991 viewers
+
+
+
+| 
+
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=mila_)
+
+HD
+
+[ mila_](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=mila_) 99
+
+  * Sip of Grape Juice 100 tokens | My Highest Tip tonight is INFERNO with 10000 tokens
+
+
+  * 113 mins, 4108 viewers
+
+
+
+| 
+
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=ezra)
+
+HD
+
+[ ezra](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=ezra) 21
+
+  * ♥ #lovense on♥ chillin' bc parents are home :( meow - video sale 1000 tks for 16 solo vids - 1500 tks for all b/g vids - 2500 for all videos #lovense
+
+
+  * 93 mins, 3178 viewers
+
+
+
+| 
+
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=rosie_grey)
+
+HD
+
+[ rosie_grey](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=rosie_grey) 18
+
+  * Parents are home... Daddy train my tight ass please #anal # submissive #tight [747 tokens remaining]
+
+
+  * 98 mins, 2329 viewers
+
+
+
+| 
+
+[ ](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=aubrilee)
+
+HD
+
+[ aubrilee](https://chaturbate.com/affiliates/in/?tour=LQps&campaign=jc77L&track=default&room=aubrilee) 18
+
+  * Hit the goal 100x for squirt show! [39 tokens remaining]
+
+
+  * 152 mins, 2387 viewers
+
+  
+  
+---|---|---|---|---
