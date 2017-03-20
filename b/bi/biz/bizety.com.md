@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bizety.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219173321id_/https%3A//www.bizety.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bizety.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320190819id_/https%3A//www.bizety.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - Bizety
 
