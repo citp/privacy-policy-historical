@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bdresults24.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234019id_/http%3A//bdresults24.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bdresults24.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320021817id_/http%3A//bdresults24.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -41,3 +41,9 @@ Our privacy policy may change from day by day. If we make any substance changes 
 **Further information and contacts:**
 
 The rapid development of the internet requires occasional adjustments to our privacy notice required. We will always notify to you here what’s new information here. If you have any questions or concerns about our privacy policies or us, please [**Contact Us**](http://bdresults24.com/contact/) or **bdresults24.com@gmail.com**.
+
+#### Your are Coming Here:
+
+www dpe gov bd ipaddress com,www educationboardresults gov bd ipaddress com
+  
+
