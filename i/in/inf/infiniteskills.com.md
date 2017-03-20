@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119101225id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the infiniteskills.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320132439id_/http%3A//www.infiniteskills.com/privacy-policy.html) for the most accurate reproduction.*
 
 # O'Reilly Privacy and Security Policy
 
@@ -34,7 +34,7 @@ If you feel that this site is not following its stated information policy, you m
 
 #### Praise for O'Reilly
 
-Thank you Support, As a SolidWorks Instructor I keep up my own skills and I learn how other instructors teach the basic course and some of the add ons that can also be taught. I learn only to teach. I am retired but realize the importance of passing on whatever I have learned to those that have a long way to go. Great tutorials done by real professionals. 
+This is a very good basic tutorial for iPhone App development [To Build Apps For iPhone - iPad]. I hope that you will make an Update covering iOS 6 and storyboard development Brian D
 
 [
 
