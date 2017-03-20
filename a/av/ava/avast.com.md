@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the avast.com privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022022122id_/https%3A//www.avast.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the avast.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320070233id_/https%3A//www.avast.com/en-us/privacy-policy) for the most accurate reproduction.*
 
 # Avast Privacy Policy
 
@@ -31,10 +31,6 @@ This includes calls for sales, service, or customer support. This policy will ap
 
 Sometimes we may appear at a "live" or in-person event such as a trade show or promotion. If we collect any personally identifiable information in such a case, this policy will apply.
 
-##### HR data.
-
-This refers to data concerning Avast employees. In general, human resources (HR) data is handled in a manner consistent with the provision of this policy, except that such data is never used or shared with anybody for any direct marketing purposes, and the provisions of this policy relating to in-product messaging do not apply.
-
 ##### Reseller information.
 
 This refers to information that is collected from prospective Avast resellers at the time they apply to join the Avast reseller program. Certain information may be collected regarding the reseller or its individual representative(s), including contact information such as telephone number and email address. Similar information may be obtained regarding sub-resellers, where applicable.
@@ -65,7 +61,9 @@ Google Analytics is a web analytics service provided by Google, Inc. (“Google�
 
 The Adobe SiteCatalyst service is part of the Adobe Digital Marketing Suite. Adobe SiteCatalyst uses cookies to help us collect and process non-personal information about how our visitors use our site including the number of unique visits, average time spent on particular pages, the identity of the referring webpage or domain, the search terms (if any) that led to our site, technical information such as web browsers and operating systems of our visitors, and cookie preferences and Java enablement. Additional information on the privacy practices of Adobe SiteCatalyst, including instructions on how to remove cookies or opt out of receiving future persistent cookies, is available here: <http://www.adobe.com/content/dotcom/en/privacy/analytics.html>.
 
-Firebase Analytics is a mobile analytics services also provided by Google and governed by the Firebase Analytics terms of service. This service helps Avast understand our users and how they use Avast's apps including information about interactions with the user's mobile applications. Firebase Analytics uses identifiers for advertising on mobile applications (for example, Android Advertising ID and Advertising Identifier for iOS), and we will collect the AAID and AIiOS to understand our users, but users who wish to opt-out of the AAID and AIiOS advertisement tracking can do so through device advertising settings for mobile apps and Users who wish to avoid tracking by Firebase Analytics can opt-out in application settings. Data collected will be transmitted to and stored by Google on servers globally. Avast also uses the Firebase Crash Reporting services also provided by Google. For Crash Reporting, Avast collects information necessary to diagnose and resolve problems with mobile applications. This data collected will be transmitted to and stored by Google on servers globally. 
+Firebase Analytics is a mobile analytics services also provided by Google and governed by the Firebase Analytics terms of service. This service helps Avast understand our users and how they use Avast's apps including information about interactions with the user's mobile applications. Firebase Analytics uses identifiers for advertising on mobile applications (for example, Android Advertising ID and Advertising Identifier for iOS), and we will collect the AAID and AIiOS to understand our users, but users who wish to opt-out of the AAID and AIiOS advertisement tracking can do so through device advertising settings for mobile apps and Users who wish to avoid tracking by Firebase Analytics can opt-out in application settings. Data collected will be transmitted to and stored by Google on servers globally.
+
+Crash Reporting: We currently use two Crash Reporting services on our mobile applications: Firebase Crash Reporting provided by Google and Fabric Crashlytics provided by Twitter, Inc. To enhance your user experience and to improve the stability of mobile applications, Avast uses Crash Reporting services to collect information about the devices that you use and your use of our applications (for example the timestamp of when you launched the application and when the crash occurred) which enables us to diagnose and resolve problems. If you do however wish to opt-out of this data collection via Firebase Crash Reporting and Fabric Crashlytics, you can do so via the application settings in our mobile applications. The data collected will be transmitted to and stored by Google (Firebase Crash Reporting) and by Twitter (Fabric Crashlytics) on servers globally.
 
 
 
@@ -175,7 +173,7 @@ Some of our product offerings are required to collect additional information in 
 
   * Avast SecureLine: When you use the **Avast SecureLine** virtual private network (VPN) service, the server may capture certain basic data such as the time and network location from which the VPN connection was made and the duration of the VPN connection. This information is routinely deleted within 30 days. In addition, the system may store data on the bandwidth transferred per session.
 
-  * Avast Passwords: **Avast Passwords** is a program that stores user passwords under a single master password and permits the user to log on to multiple sites using a unitary sign-on credential. Passwords are stored on user PCs by the Avast Passwords application. Passwords may be backed up on a remote server in encrypted form.
+  * Avast Passwords: **Avast Passwords** is a standalone program or feature that stores user passwords and notes under a single master password and permits the user to log on to multiple sites using a unitary sign-on credential. On Windows, Avast Passwords forms an integral part of Avast Antivirus (Avast Free Antivirus, Avast Pro Antivirus, Avast Internet Security, Avast Endpoint Protection, Avast Endpoint Protection Suite, Avast Endpoint Protection Plus, and Avast Endpoint Protection Suite Plus), which can be activated by the user by either performing a smart scan or by opening the feature in the product menu. On other platforms (Android, iOS and Mac) Avast Passwords is a standalone program. When activated, Avast Passwords will check whether you have stored any passwords via your browser and will suggest you to move these passwords to Avast Passwords, where they are stored securely. When you choose do so, Avast Passwords will upload those passwords and remove them from your browser. Please note that the browser check happens locally on your device and no passwords are sent to the Avast servers. User passwords are stored locally on your devices encrypted by the Avast Passwords application. If you choose to activate the optional feature "Synchronisation & Backup", your passwords and notes will be backed up on a remote server in securely encrypted form, which cannot be decrypted by us.
 
   * Avast Call Blocker: **Avast Call Blocker** for iOS automatically identifies or blocks incoming SPAM calls. It is based on Avast’s proprietary algorithm running on Avast’s servers using crowdsourced data coming from: a) AMS users’ Call blocker feature (see details in AMS Privacy Policy), b) SPAM numbers reported through the Call Blocker app by users, c) publicly available sources. The algorithm identifies SPAM numbers and provides them to your iOS device through Apple’s CallKit extension.  
 **Avast Call Blocker** has no access to any of the incoming phone calls, phone numbers or contact lists on your iOS device. Blocking of SPAM calls is managed by iOS operating system itself by comparing incoming phone calls’ numbers with the SPAM database created by Avast’s algorithm. 
@@ -223,13 +221,9 @@ When you pay for products or services. When you purchase "premium" (or paid) pro
 
 ### IV. Special Types of Personal Information
 
-##### HR data.
-
-In general, human resources (HR) data is handled in a manner consistent with this policy. However, such data is never used or shared with anybody for direct marketing purposes, and the provisions of this policy relating to in-product messaging and product downloads do not apply (except in the case where an employee uses our products in his or her personal capacity, in which case the employee's information is subject to the same policies as any other user). In addition, HR data may be subject to different retention requirements than the data of our users; we store and maintain data in compliance with local law governing employment information. In the case of employees who have children we may collect and store the names of the children, their personal IDs and birthdates, copies of their birth certificates, scholastic status, and other information that relates to the taxation status of the employees. The purpose of collecting this information is to calculate the employees' tax rates and to otherwise comply with the law. 
-
 ##### "Sensitive" information.
 
-We never collect "sensitive" personal data such as sexual preference, religion, political views, or health. We do not wish to receive any such data and will not request it from you. 
+We never collect "sensitive" personal data such as sexual preference, religion, political views, or health. We do not wish to receive any such data and will not request it from you.
 
 ##### Data on children.
 
