@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mypurplemartini.com privacy policy that was archived on 2016-09-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160906011101id_/http%3A//www.mypurplemartini.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mypurplemartini.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320180831id_/http%3A//www.mypurplemartini.com/privacy.php) for the most accurate reproduction.*
 
 # My purple martini
 
