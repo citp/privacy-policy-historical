@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the animeawake.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119004158id_/http%3A//animeawake.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the animeawake.net privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320055409id_/http%3A//animeawake.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Watch and Download Encoded English Subbed/Dubbed Anime HD
 
