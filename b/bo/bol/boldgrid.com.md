@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boldgrid.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211224804id_/https%3A//www.boldgrid.com/software-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boldgrid.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320153520id_/https%3A//www.boldgrid.com/software-privacy-policy) for the most accurate reproduction.*
 
 # Software Privacy Policy | BoldGrid
 
