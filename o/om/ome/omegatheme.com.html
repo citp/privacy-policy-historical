@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the omegatheme.com privacy policy that was archived on 2016-06-14.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160614112500id_/https%3A//www.omegatheme.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the omegatheme.com privacy policy that was archived on 2017-03-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170320040102id_/https%3A//www.omegatheme.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="//www.w3.org/1999/xhtml" xml:lang="en-gb" lang="en-gb" dir="ltr" xmlns:og="//ogp.me/ns#" xmlns:fb="https://www.facebook.com/2008/fbml"><head>
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -37,7 +37,7 @@ jQuery(document).ready(function(){
 	<![endif]-->
 	<link href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500,700" rel="stylesheet" type="text/css">
 	<!-- font-family: 'Roboto', sans-serif; -->
-	
+	<link href="https://fonts.googleapis.com/css?family=Oswald:400,700" rel="stylesheet">
   <script async="" type="text/javascript" src="//omegatheme.disqus.com/count.js"></script></head>
 <body class="site com_xcontent view-articleinnerpage no-layout no-task itemid-209">
 <div class="body">
@@ -168,25 +168,6 @@ jQuery(document).ready(function(){
 		    </div>
   </div>
      
-    <div class="main-bottom-area bg-ex-full">
-    <div class="container">
-      	<table cellspacing="1" cellpadding="0" width="100%">
-		<tbody><tr>
-			<td>
-					<table cellpadding="0" cellspacing="0" class="moduletable">
-			<tbody><tr>
-			<td>
-				<ul class="nav menumagenmarket">
-<li class="item-93"><a href="http://www.magenmarket.com/magento-themes.html" target="_blank">Free Magento Themes</a></li><li class="item-94"><a href="http://www.magenmarket.com/magento-extensions.html" target="_blank">Free Magento Extensions</a></li><li class="item-95"><a href="http://www.magenmarket.com/demo/" target="_blank">Magento Demo</a></li></ul>
-			</td>
-		</tr>
-		</tbody></table>
-				</td>
-		</tr>
-	</tbody></table>
-	
-    </div>
-  </div>
     
     <div class="breadcrumbs">
     <div class="container">
@@ -417,7 +398,6 @@ jQuery(document).ready(function(){
 
 (function($){
 	$(document).ready(function(){        
-        
         $(document).delegate('*[data-toggle="lightbox"]:not([data-gallery="navigateTo"])', 'click', function(event) {
             event.preventDefault();
             return $(this).ekkoLightbox({
@@ -460,7 +440,7 @@ jQuery(document).ready(function(){
 		});
 	});
 
-	$('#joomlaProducts, #prestashopProducts').on('slide.bs.carousel', function(e) {
+	$('#joomlaProducts, #prestashopProducts, #wordpressProducts').on('slide.bs.carousel', function(e) {
 		for (var i = 0; i < ($(e.target).find('.item').length); i++) {
 			$(e.target).find('.item').removeClass('next' + i);
 			$(e.target).find('.item').removeClass('prev' + i);
@@ -494,5 +474,97 @@ jQuery(document).ready(function(){
 
 })(jQuery);
 </script>
+<!--	<div id="omtpopup">
+		<div id="dialog" class="window">
+			<a href="#" class="close-button agree"><span class="glyphicon glyphicon-remove"></span></a>
+			<div class="popup-content">
+				<p style="font-size:52px;font-weight: 700;">Coupon code:</p>
+				<p style="font-size:52px;font-weight: 300;">187B2320</p>
+			</div>
+		</div>
+		<div id="mask"></div>
+	</div> -->
+<!--?php// } ?-->	
+<script>
+(function($){
+	$(document).ready(function(){
+		var id = '#dialog';
+   
+		  //Get the screen height and width
+		  var maskHeight = $(document).height();
+		  var maskWidth = $(window).width();
+		   
+		  //Set heigth and width to mask to fill up the whole screen
+		  $('#mask').css({'width':maskWidth,'height':maskHeight});
+
+		  //transition effect
+		  $('#mask').fadeIn(500); 
+		  $('#mask').fadeTo("slow",0.5); 
+		   
+		  //Get the window height and width
+		  var winH = $(window).height();
+		  var winW = $(window).width();
+			   
+		  //Set the popup window to center
+		  $(id).css('top',  winH/2-$(id).height()/2);
+		  $(id).css('left', winW/2-$(id).width()/2);
+		   
+		  //transition effect
+		  $(id).fadeIn(2000);  
+		   
+		  //if close button is clicked
+		  $('.window .close-button').click(function (e) {
+		   //Cancel the link behavior
+		   e.preventDefault();
+
+		   $('#mask').hide();
+		   $('.window').hide();
+		  });
+
+		  //if mask is clicked
+		  $('#mask').click(function () {
+		   $(this).hide();
+		   $('.window').hide();
+			}); 
+	});
+})(jQuery);
+</script>
+<style>
+	#omtpopup #dialog {
+		position: absolute;
+		width: 600px;
+		height: 246px;
+		padding: 10px;
+		background:url(../images/omtpopup.jpg);
+		font-family: "Roboto","Helvetica Neue",Helvetica,Arial,sans-serif;
+		font-size: 24px;
+		color: #fff;
+		line-height: 30px;
+		border-radius: 5px;
+		z-index: 9000;
+	}
+	#omtpopup .close-button {
+		float: right;
+		color: #fff;
+	}
+	#omtpopup .popup-content {
+		padding: 50px 0 0 30px;
+		text-align: left;
+		line-height: 52px;
+	}
+	#omtpopup .popup-content h1 {
+		font-family: Oswald;
+		font-size: 30px;
+		font-weight: 700;
+	}
+	#omtpopup #mask {
+		position: absolute;
+		left: 0;
+		top: 0;
+		background: #000;
+		display: none;
+		z-index:9;
+	}
+</style>
 
 </body></html>
