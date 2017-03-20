@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shoplyfter.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119063208id_/http%3A//www.psmhelp.com/%3Fmenu%3Dprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shoplyfter.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320123713id_/http%3A//www.psmhelp.com/privacy) for the most accurate reproduction.*
 
 # PSM-Help :: Privacy Policy
 
