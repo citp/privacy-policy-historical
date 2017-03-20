@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the skyplanners.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217102747id_/http%3A//www.skyplanners.com/cms/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyplanners.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320181619id_/http%3A//www.skyplanners.com/cms/privacy_policy) for the most accurate reproduction.*
 
-# Skyplanners
-
-## Privacy Policy
+# Sky Planners
 
   
 The SkyPlanners.com is committed to protecting your privacy and safe online experience. This statement of privacy policy applies to the SkyPlanners.com website and governs data collection and usage.
