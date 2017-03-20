@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onlinenigeria.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119205219id_/http%3A//www.onlinenigeria.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onlinenigeria.com privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320120545id_/http%3A//www.onlinenigeria.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Online Nigeria: Nigeria's Information portal
+# Privacy Policy - OnlineNigeria.Com
 
 ### Privacy Statement for OnlineNigeria
 
