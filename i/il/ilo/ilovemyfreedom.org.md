@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the ilovemyfreedom.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118235739id_/http%3A//ilovemyfreedom.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ilovemyfreedom.org privacy policy that was archived on 2017-03-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170320015307id_/http%3A//ilovemyfreedom.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - I Love My Freedom
 
 We know that you care how your information is used, and we appreciate your trust that we will use it carefully and sensibly. This notice describes our privacy policy. By visiting us, you are accepting the privacy policy described below.
 
-  1. **What Personal Information Do We Collect?**
+  1.  **What Personal Information Do We Collect?**
 
 
   * Information You Provide. We receive and store information you enter. For example, when you search for or buy a product or service, or when you supply information such as your address, phone number or credit card. You can choose not to provide certain information, but then you might not be able to take advantage of some of our features. We use the information that you provide for such purposes as responding to your requests, customizing future shopping for you, improving our website, and communicating with you. In addition, if you choose, we may share your information with other companies who provide goods or services that you are interested in. Please see the “opt-in/opt-out” selection in Section 4 of this policy.
@@ -13,7 +13,7 @@ We know that you care how your information is used, and we appreciate your trust
   * Information from Other Sources. We might receive information about you from other sources and add it to our account information. This may include updated delivery and address information from our shippers or other sources so that we can correct our records and deliver your next purchase or communication more easily.
 
 
-  2. **How Do We Use Your Information?**
+  2.  **How Do We Use Your Information?**
 
 
   * Customized Shopping. We use your information to better serve you by providing a customized shopping experience. As noted above, you may “opt-out” of this customization, or even visit and shop anonymously.
@@ -23,7 +23,7 @@ We know that you care how your information is used, and we appreciate your trust
   * Law Enforcement. If we receive a lawful court order to release account or other personal information then we will comply with the law. We will also release information when necessary to protect the life, safety or property of others. This includes exchanging information with other companies and organizations for fraud protection and credit risk
 
 
-  3. **Your Choice: Opt-in or Opt-out.**
+  3.  **Your Choice: Opt-in or Opt-out.**
 
 
 
@@ -35,22 +35,22 @@ It is your choice whether to receive emails or special offers from us or other
   * Please do not send me email or other mail informing me of special offers of related products or services from other companies.
 
 
-  4. **Children**
+  4.  **Children**
 
 
 
 We do not sell products or services to children. If you are under 18, you may use this site only with involvement of a parent or guardian.
 
-  5. **Other Websites**
+  5.  **Other Websites**
 
 
 
 Various Web sites may be linked to from this site. If you link to another site, your privacy depends on the policy of that site. We strongly urge you to check their privacy policy. Not all sites guarantee that they will not share your personally identifiable information with others. You may also wish to consult privacy guidelines such as those recommended by the Online Privacy Alliance (www.privacyalliance.org).
 
-  6. **Contact Us**
+  6.  **Contact Us**
 
 
 
 If you would like to learn more about our privacy policy, or to access your personally identifiable information contained on our website, you may contact us for assistance at our Support Desk.
 
-**No portion of this website can be copied without written permission from the author.**
+ **No portion of this website can be copied without written permission from the author.**
