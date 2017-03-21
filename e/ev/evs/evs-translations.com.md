@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evs-translations.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119232024id_/http%3A//www.evs-translations.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evs-translations.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321092003id_/http%3A//www.evs-translations.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | EVS Translations
 
