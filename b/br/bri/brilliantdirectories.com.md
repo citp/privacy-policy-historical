@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brilliantdirectories.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223225816id_/http%3A//www.brilliantdirectories.com/online-directory-script-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brilliantdirectories.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321130601id_/https%3A//www.brilliantdirectories.com/online-directory-script-privacy-policy) for the most accurate reproduction.*
 
 # Our Privacy Policy - Directory Software - Directory Script - Directory Template
 
@@ -134,6 +134,40 @@ Web Beacons:
 Web beacons (also known as clear gifs, pixel tags or web bugs) are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of web users or to access cookies. Unlike cookies which are stored on the user's computer hard drive, web beacons are embedded invisibly on the web pages (or in email) and are about the size of the period at the end of this sentence.
 
 Web beacons may be used to deliver or communicate with cookies, to count users who have visited certain pages and to understand usage patterns. We also may receive an anonymous identification number if you come to our site from an online advertisement displayed on a third-party website.
+
+### Give It a Whirl
+
+_By Vincent H. – California, USA_
+
+Hi my name is Vincent Hoss. I’m very happy with my Brilliant Directories website. I’ve been looking around for an easy-to-use website that Google is happy with for a number of years. I had quotes that were five times what I actually spent getting this site finished. This is my little helper here who helps me with the sites. Keeps an eye on things.
+
+The thing is, it’s hard to find a site that’s easy to use, that’s easy to customize, and Brilliant Directories has been really easy to use. I ended up signing up for the onboarding to help me get the site together. Then I realized I wanted more custom things than they had on the onboarding so I ended up using the Marketplace. That’s worked out really good.
+
+The site’s been up for about four weeks now and I get probably one to two calls per day but I do have 15 years experience in internet marketing and lead generation. So I must say that that the Brilliant Directories site was really the foundation that I needed to accomplish… I’ve tried so many different sites, so many different softwares that said they could do it but in reality it wasn’t easy to use, Google wasn’t happy with it, it wasn’t easy to customize, it bogged down and I stopped searching after this.
+
+I’ve got several more sites under construction. If you’re thinking about doing a directory this seems like the perfect software to use. If you have questions or need any help you can reach me at VincentHoss.com. Again very happy with the software, the price was very reasonable, and I’ve been happy with it. And based on my experience I’m pretty sure you’ll be happy with it if you give it a whirl. Thanks.
+
+via YouTube.com
+
+×
+
+### It’s Worked out Brilliantly
+
+_By Dr. Kevin G. – California, USA_
+
+Hello! I’m Dr. Kevin Grold. I’m the CEO of EDReferral.com and here you can see my homepage created with Brilliant Directories. It’s worked out brilliantly for me in that it’s allowed me to create many different ways for people to search for eating disorder treatment which is what we do.
+
+So for instance on the homepage here when you open it up it automatically brings up all the icons of all the treatment centers and individuals and support groups in your local area automatically. Then we have a little video that explains all the different features of the site and if you scroll down you can visit our sponsors and you can also read about many different topics related to eating disorders.
+
+But what I really like about the site is when you go to do a search Brilliant Directories allows me to create many different ways for people to search here that people can click on just to find treatment in their state, we can search by keyword here, we can also click on an icon map that was back on our homepage, or again click on a state in another way at the bottom. But what I really like is that there are specific ways for searching for treatment. And for instance if you clicked on let’s say “Eating Issues Treated” and then click on let’s say “Anorexia”… what it does is it automatically fills in your local area here and in Del Mar and you click search, what that does is bring up all the resources related to anorexia in my local area. And you can click on any of these highlighted treatment centers or individuals to read more about them.
+
+What it’s doing is at the same time is creating a separate page for each one of these categories that you’ll see here. So for instance “Collaborates with” and then “College health centers” in Del Mar – that creates a separate page. That’s what I really like about Brilliant Directories. So for instance if I did a search on Google we’re going to see that I have over 40,000 pages – 40,000 different combinations that Brilliant Directories created for me so that I’ll have so many pages on Google and so many ways for people to find me.
+
+And for instance if somebody types in “eating disorder treatment centers”, who’s going to come up first? EDReferral.com. So I’d like to say that Brilliant Directories is working out brilliantly for me and thank you for the amazing site.
+
+via YouTube.com
+
+×
 
 ### This Company Is Brilliant
 
