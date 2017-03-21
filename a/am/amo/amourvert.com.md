@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amourvert.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103014635id_/https%3A//amourvert.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amourvert.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321065201id_/https%3A//amourvert.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Amour Vert
 
