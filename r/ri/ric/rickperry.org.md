@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rickperry.org privacy policy that was archived on 2016-08-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160808010814id_/https%3A//rickperry.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rickperry.org privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321172433id_/https%3A//rickperry.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Perry for President
 
