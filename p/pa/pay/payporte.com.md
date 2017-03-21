@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the payporte.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613233700id_/http%3A//www.payporte.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the payporte.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321194226id_/https%3A//www.payporte.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Payporte.com - Privacy Policy
 
 We are Payporte.com, an online retail store currently operating in Africa. In this Privacy Policy, references to “you” means any person submitting any data to us or our agent or the Site.
 
