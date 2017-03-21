@@ -1,16 +1,14 @@
-> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2015-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150629111127id_/https%3A//www.deepdyve.com/corp/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deepdyve.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321084431id_/https%3A//www.deepdyve.com/corp/privacy-policy) for the most accurate reproduction.*
 
 # DeepDyve Privacy Policy | DeepDyve
 
-[](https://privacy.truste.com/privacy-seal/DeepDyve-Inc-/validation?rid=a66bd6ff-2d5f-476d-a1fa-f0408dcc9aa9 "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=a66bd6ff-2d5f-476d-a1fa-f0408dcc9aa9)
 
-Last Updated 5/28/2015
+Last Updated 1/24/2017
 
 DeepDyve, Inc. (“DeepDyve”) knows that you care about how your personal information is used and shared, and takes your privacy seriously. Please read the following to learn more about our Privacy Policy. By visiting DeepDyve’s website at http://www.deepdyve.com (“deepdyve.com”), or using any of our services or products, you acknowledge that you accept the practices and policies outlined in this Privacy Policy.
 
-DeepDyve has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these Web site: http://www.deepdyve.com and does not cover information that may be collected through downloadable software.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at https://feedback-form.truste.com/watchdog/request.
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
 ## What does this privacy policy cover?
 
@@ -30,7 +28,6 @@ Your colleague may contact us at support@deepdyve.com to request that we remove 
 
 ## Personal information collected automatically
 
-  * As is true of most web sites, we gather certain information automatically and store it in log files. This information may include internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, operating system, date/time stamp, and/or clickstream data. We may combine this automatically collected log information with other information we collect about you. We do this to improve services we offer you, to improve marketing, analytics, or site functionality. 
   * Facebook Connect: DeepDyve allows users to access Facebook Connect to interact with friends and share on Facebook through Wall and friends’ news feeds. If you are already logged into DeepDyve and Facebook, when you click on “Connect with Facebook” you will be prompted to merge your profiles. If you are already logged into DeepDyve but not logged into Facebook, when you click on “Connect with Facebook” you will be prompted to merge your profiles. If you are already logged into DeepDyve but not logged into Facebook, when you click on “Connect with Facebook” you will be prompted to enter your Facebook credentials or to “Sign up for Facebook.” By proceeding, you are allowing Deepdyve.com to access your information and you are agreeing to the Facebook Terms of Use in your use of Deepdyve.com.
 
 Conversely, if you are not currently registered as a DeepDyve user and you click on “Sign in using Facebook,” you will first be asked to enter your Facebook credentials and then be given the option to register and join DeepDyve You have the option disable Facebook Connect at any time by logging into “My Profile” and clicking on “My Facebook Profile”. Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page. 
@@ -52,14 +49,17 @@ From time to time we may provide you the opportunity to participate in a survey 
 
 We use this information to monitor site traffic and personalize the site. 
 
-We may use a third party service provider to conduct these surveys; that company is prohibited from using our users’ personally for any other purpose. We will not share the personal information you provide through a survey with other third parties unless we give you prior notice and choice.   
+We may use a third party service provider to conduct these surveys; that company is prohibited from using our users’ personally for any other purpose. We will not share the personal information you provide through a survey with other third parties unless we give you prior notice and choice.  
+
+
+## Passive Collection
+
+As is true of most websites, we gather certain information automatically. This information may include Internet protocol (IP) addresses, browser type, Internet service provider (ISP), referring/exit pages, the files viewed on our site (e.g., HTML pages, graphics, etc.), operating system, date/time stamp, and/or clickstream data to analyze trends in the aggregate and administer the site.   
 
 
 ## Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by DeepDyve and our partners, affiliates, or analytics or service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
-
-We use cookies for authentication, and to remember our users’ settings. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+DeepDyve, Inc. and its partners use cookies or similar technologies to analyze trends, administer the website, track users’ movements around the website, and to gather demographic information about our user base as a whole. You can control the use of cookies at the individual browser level, but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service.
 
 ## Behavioral Targeting / Re-Targeting
 
@@ -81,9 +81,9 @@ We may become affiliated with a variety of businesses and work closely with them
 
 We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you. Examples include sending email, analyzing data, processing payments, and providing user services. Unless we tell you differently, DeepDyve’s agents do not have any right to use Personal Information we share with them beyond what is necessary to assist us. You hereby consent to our sharing of Personal Information for the above purposes. 
 
-We may also share your personal information in the following situations:
+In certain situations, DeepDyve may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may also share your personal information in the following situations:
 
-  * as required by law, such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
+  * as required by law, such as to comply with a subpoena, or similar legal process when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request. 
 
 
 
@@ -125,7 +125,7 @@ Our Web site also includes Social Media Features, such as the Facebook Like butt
 
 ## What personal information can I access?
 
-You may correct, update or remove your personal information at any time by logging into your account and accessing the account settings feature or by emailing us at support@deepdyve.com.   
+Upon request DeepDyve will provide you with information about whether we hold any of your personal information. You may correct, update or remove your personal information at any time by logging into your account and accessing the account settings feature or by emailing us at support@deepdyve.com. We will respond to your request within a reasonable timeframe.   
 Currently you may access and update the following information: 
 
   * Account Information (such as name, email address and billing information)
@@ -151,7 +151,7 @@ DeepDyve may make changes to this Privacy Policy from time to time for any reaso
 
 ## Questions or concerns
 
-If you have any questions or concerns regarding privacy at deepdyve.com, please send us a detailed message to privacy_policy@deepdyve.com.
+If you have any questions or concerns regarding privacy at deepdyve.com, please send us a detailed message to privacy-policy@deepdyve.com.
 
 DeepDyve Inc.  
 2221 Broadway St.  
