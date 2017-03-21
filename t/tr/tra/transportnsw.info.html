@@ -1,7 +1,7 @@
-<!--The following is the downloaded HTML source of the transportnsw.info privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119023055id_/http%3A//www.transportnsw.info/en/about/privacy.page) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the transportnsw.info privacy policy that was archived on 2017-03-21.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170321064904id_/http%3A//www.transportnsw.info/en/about/privacy.page) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en"><head>
+<!DOCTYPE html><html lang="en" style="" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <title>Privacy statement - about | transportnsw.info</title>
 <!--fixed-layout-->
@@ -59,20 +59,20 @@ The transportnsw.info site uses Google Analytics, a reporting service provided b
 <meta name="page-locale-name" content="">
 <!--ls:end[meta-page-locale-name]-->
 <!--ls:begin[stylesheet]-->
-<link type="text/css" href="/resources/transportNSWinfo/css/frutiger_v.3.0.14.css" rel="stylesheet">
+<link type="text/css" href="/resources/transportNSWinfo/css/frutiger_v.3.0.15.css" rel="stylesheet">
 <!--ls:end[stylesheet]-->
 <!--ls:begin[stylesheet]-->
-<link type="text/css" href="/resources/transportNSWinfo/css/style_v.3.0.14.css" rel="stylesheet">
+<link type="text/css" href="/resources/transportNSWinfo/css/style_v.3.0.15.css" rel="stylesheet">
 <!--ls:end[stylesheet]-->
 <!--ls:begin[script]-->
-<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-57Z73J"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/resources/transportNSWinfo/js/js-common_v.3.0.14.js"></script>
+<script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-57Z73J"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript" src="/resources/transportNSWinfo/js/js-common_v.3.0.15.js"></script>
 <!--ls:end[script]-->
 <!--ls:begin[favicon]-->
 <link type="image/x-icon" href="/resources/transportNSWinfo/images/favicon.ico" rel="shortcut icon">
 <!--ls:end[favicon]-->
-<!--ls:begin[head-injection]--><meta content="Transport for NSW, Customer Experience Division, Customer Service Branch, Customer Information Services Section" name="DCTERMS.creator"><meta content="Transport for NSW" name="DCTERMS.publisher"><meta content="transportnsw.info/about/conditions" name="DCTERMS.rights"><meta content="This service is also available over the phone. Call 131 500." name="AGLSTERMS.availability"><meta content="Trip planning and public transport information for Sydney and NSW, Australia" name="AGLSTERMS.function"><meta content="New South Wales" name="DCTERMS.coverage"><meta content="Privacy statement - about" name="DC.title"><meta content="en-AU" name="DCTERMS.Language"><meta content="http://transportnsw.info/en/about/privacy.page" name="DCTERMS.identifier"><meta content="2013-11-13 15:41:20" name="DCTERMS.available"><meta content="text" name="DCTERMS.type"><meta content="2015-07-13 11:38:01" name="DCTERMS.modified">
-<!-- Analytics specific javascript file -->
+<!--ls:begin[head-injection]--><meta content="Transport for NSW, Customer Experience Division, Customer Service Branch, Customer Information Services Section" name="DCTERMS.creator"><meta content="Transport for NSW" name="DCTERMS.publisher"><meta content="transportnsw.info/about/conditions" name="DCTERMS.rights"><meta content="This service is also available over the phone. Call 131 500." name="AGLSTERMS.availability"><meta content="Trip planning and public transport information for Sydney and NSW, Australia" name="AGLSTERMS.function"><meta content="New South Wales" name="DCTERMS.coverage"><meta content="Privacy statement - about" name="DC.title"><meta content="en-AU" name="DCTERMS.Language"><meta content="http://transportnsw.info/en/about/privacy.page" name="DCTERMS.identifier"><meta content="2013-11-13 15:41:20" name="DCTERMS.available"><meta content="text" name="DCTERMS.type"><meta content="2017-01-20 11:09:58" name="DCTERMS.modified">
 <meta http-equiv="X-UA-Compatible" content="IE=Edge">
+<!-- Analytics specific javascript file -->
 <script type="text/javascript">
 (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -80,6 +80,48 @@ The transportnsw.info site uses Google Analytics, a reporting service provided b
   })
 (window,document,'script','//www.google-analytics.com/analytics.js','ga');
 </script>
+
+<!-- va script -->
+<script>
+    function submitSearch(){
+        openBot({entry:document.getElementById('st-search-input').value,businessArea:'Root.Transport',channel:'Root'});
+        return false;
+    }
+    function openBot(params) {
+        var url = "http://ask.transportnsw.info/bot.htm?isJSEnabled=1",
+            windowParams = "resizable=yes", /* for browser consistency it's set to True */
+            width = 590, /* this value needs to be modified for each VA */
+            height = 620; /* this value needs to be modified for each VA */
+        for(var param in params) {
+            switch (param) {
+                case "businessArea":
+                    url = url + "&businessArea=" + encodeURI(params[param]);
+                    break;
+                case "entry":
+                    url = url + "&startentry=" + encodeURI(params[param]);
+                    break;
+                case "SiteContext":
+                    url = url + "&SiteContext=" + encodeURI(params[param]);
+                    break;
+                case "channel":
+                    url = url + "&channel=" + encodeURI(params[param]);
+                    break;
+                case "template":
+                    va = params[param];
+                    break;
+                case "width":
+                    width = params[param];
+                    break;
+                case "height":
+                    height = params[param];
+                    break;
+            }
+        }
+        windowParams = windowParams + ",width=" + width + ",height=" + height;
+        window.open(url, "VA", windowParams);
+    }
+</script>
+
 
 <!-- Analytics specific javascript code --> 
 <script type="text/javascript"> 
@@ -108,9 +150,9 @@ The transportnsw.info site uses Google Analytics, a reporting service provided b
 
 <div class="ls-canvas layout" id="2-column-content">
 <div class="ls-row header-fill" id="header-fill">
-<div class="ls-fxr" id="ls-gen8052351-ls-fxr">
+<div class="ls-fxr" id="ls-gen61920126-ls-fxr">
 <div class="ls-area" id="ls-row-1-area-1">
-<div class="ls-area-body" id="ls-gen8052352-ls-area-body">
+<div class="ls-area-body" id="ls-gen61920127-ls-area-body">
 <div class="ls-cmp-wrap ls-1st" id="w1378108161751">
 <!--ls:begin[component-1378108161751]-->
 <div class="iw_component" id="1378108161751"><a class="skip-link" href="#mainContent">Skip to content</a><div class="bar">
@@ -134,8 +176,8 @@ The transportnsw.info site uses Google Analytics, a reporting service provided b
 <a href="/"><img title="Transport info" alt="Transport info" src="/resources/content-images/logos/transport-logo.png"></a>
 </div>
 <div class="header-tools">
-<form method="get" name="SearchForm" action="/en/search-results.page?" accept-charset="utf-8" class="search">
-<label for="st-search-input">Site search</label><input value="" accesskey="4" name="query" maxlength="200" size="25" class="st-search-input" placeholder="Search site" type="search" id="st-search-input"><button type="submit">Search</button>
+<form onsubmit="return submitSearch();" method="get" name="SearchForm" action="/en/search-results.page?" accept-charset="utf-8" class="search">
+<label for="st-search-input">Ask your question here</label><input value="" accesskey="4" name="query" maxlength="200" size="25" class="st-search-input" placeholder="Ask your question here" type="search" id="st-search-input"><button type="submit">Ask</button>
 </form>
 </div>
 </div>
@@ -174,23 +216,23 @@ The transportnsw.info site uses Google Analytics, a reporting service provided b
 </div>
 </div>
 <div class="ls-row container" id="container">
-<div class="ls-fxr" id="ls-gen8052353-ls-fxr">
+<div class="ls-fxr" id="ls-gen61920128-ls-fxr">
 <div class="ls-col" id="main">
-<div class="ls-col-body" id="ls-gen8052354-ls-col-body">
+<div class="ls-col-body" id="ls-gen61920129-ls-col-body">
 <div class="ls-row" id="primary">
-<div class="ls-fxr" id="ls-gen8052355-ls-fxr">
+<div class="ls-fxr" id="ls-gen61920130-ls-fxr">
 <div class="ls-col" id="R3C1R3C1">
-<div class="ls-col-body" id="ls-gen8052356-ls-col-body">
+<div class="ls-col-body" id="ls-gen61920131-ls-col-body">
 <div class="ls-row" id="R3C1R3R1">
-<div class="ls-fxr" id="ls-gen8052357-ls-fxr">
+<div class="ls-fxr" id="ls-gen61920132-ls-fxr">
 <div class="ls-area" id="R3C1R3C1R1A1">
-<div class="ls-area-body" id="ls-gen8052358-ls-area-body">
+<div class="ls-area-body" id="ls-gen61920133-ls-area-body">
 <div class="ls-cmp-wrap ls-1st" id="w1377847129371">
 <!--ls:begin[component-1377847129371]-->
 <div class="iw_component" id="1377847129371"><div class="sidebar">
 <nav role="navigation" id="subnavigation">
 <ul>
-<li class="subnavigation-heading">
+<li class="subnavigation-heading active-parent">
 <a href="/en/about/about-us.page?">About</a>
 <ul>
 <li title="About transportnsw.info" class="">
@@ -245,6 +287,11 @@ The transportnsw.info site uses Google Analytics, a reporting service provided b
 <a href="/en/about/help/trip-planner.page?" target="_top">Trip planner help</a>
 </li>
 </ul>
+<ul>
+<li class="">
+<a href="/en/about/help/beta-trip-planner-help.page?" target="">Beta trip planner help</a>
+</li>
+</ul>
 </li>
 </ul>
 </li>
@@ -262,11 +309,11 @@ The transportnsw.info site uses Google Analytics, a reporting service provided b
 </div>
 </div>
 <div class="ls-col" id="R3C1R3C2">
-<div class="ls-col-body" id="ls-gen8052359-ls-col-body">
+<div class="ls-col-body" id="ls-gen61920134-ls-col-body">
 <div class="ls-row" id="R3C1R3C2R1">
-<div class="ls-fxr" id="ls-gen8052360-ls-fxr">
+<div class="ls-fxr" id="ls-gen61920135-ls-fxr">
 <div class="ls-area main" id="R3C1R3C2R1A1">
-<div class="ls-area-body" id="ls-gen8052361-ls-area-body">
+<div class="ls-area-body" id="ls-gen61920136-ls-area-body">
 <div class="ls-cmp-wrap ls-1st" id="w1377847129372">
 <!--ls:begin[component-1377847129372]-->
 <div class="iw_component" id="1377847129372"><a tabindex="-1" name="mainContent" id="mainContent"></a>
@@ -276,12 +323,14 @@ The transportnsw.info site uses Google Analytics, a reporting service provided b
 <div class="ls-cmp-wrap" id="w1377847129373">
 <!--ls:begin[component-1377847129373]-->
 <div class="iw_component" id="1377847129373"><section role="main">
-<h1 class="page-title">Privacy statement</h1><p>This NSW Government website is maintained by Transport for NSW, which operates the website using the name ‘Transport ’. This Privacy Statement applies to all the publicly accessible pages located at the transportnsw.info site.</p>
+<h1 class="page-title">Privacy statement</h1><p>This NSW Government website is maintained by Transport for NSW. This Privacy Statement applies to all the publicly accessible pages located at the www.transportnsw.info.com site (<strong>Site</strong>).</p>
 <p>Transport for NSW does not have any responsibility for the privacy policies or practices of third party sites linked to the transportnsw.info site.</p>
-<p>If you have any questions about the transportnsw.info site, or the application of this Privacy Policy or a request for access to information held by Transport for NSW, please contact:</p>
-<p>Privacy Coordinator<br>Transport for NSW<br>Level 6, 18 Lee Street <br>Chippendale NSW 2008 <br>Phone: (02) 8202 2200<br>Fax: (02) 8202 2209<br>TTY: (02) 9268 2244</p>
-<p><strong>Postal address:</strong><br>PO Box K659 <br>Haymarket NSW 1240</p>
-<p>Users of the transportnsw.info site are entitled to expect that any information gathered while using the site will be treated within the terms of the New South Wales government's privacy responsibilities and obligations. The New South Wales government's privacy practices are regulated by the New South Wales Privacy and Personal Information Protection Act 1988.<br><br>See <a href="/sites/en/about/conditions.page#privacy">Terms and conditions of access and use</a>&nbsp;for more information.</p><h2>What information do we collect</h2><p>When you look at the pages on the transportnsw.info site our computers automatically record information that identifies, for each page accessed:</p>
+<p>If you have any questions about the Site or the application of this Privacy Statement or a request for access to information held by Transport for NSW, please contact:</p>
+<p>Manager, Information and Privacy Unit<br>Transport for NSW<br>PO Box K659 <br>Phone: 02 8202 3768<br>Email: <a href="mailto:privacy@transport.nsw.gov.au">privacy@transport.nsw.gov.au</a></p>
+<p>Users of the Site are entitled to expect that any information gathered while using the Site will be treated within the terms of the New South Wales government's privacy responsibilities and obligations. The New South Wales government's privacy practices are regulated by the <em>Privacy and Personal Information Protection Act 1998</em> (NSW) (<strong>PPIPA</strong>) and <em>Health Records and Information Privacy Act 2002</em> (NSW) (<strong>HRIPA</strong>).</p>
+<p>This Privacy Statement sets out how Transport for NSW collects, uses, discloses and stores information collected through your use of the Site, which may include personal information and health information, and how individuals may access and correct personal information that we may hold.&nbsp; Transport for NSW will only collect, use and disclose this information in accordance with PPIPA, HRIPA and any other applicable laws. &nbsp;</p>
+<h2>What information do we collect?</h2>
+<p>When you access the pages on our Site our computers automatically record information that identifies, for each page accessed:</p>
 <ul>
 <li>the IP (Internet Protocol) address of the device being used, which can sometimes be matched to broad geographic data</li>
 <li>the pages accessed, documents downloaded and transactions completed such as keywords searched for onsite or trip plans and other forms completed</li>
@@ -293,29 +342,69 @@ The transportnsw.info site uses Google Analytics, a reporting service provided b
 <li>if the device supports JavaScript or other specific technologies and their version number</li>
 <li>the number of screen colours displayed on the device</li>
 <li>the time spent on each page of the transportnsw.info site</li>
-</ul><h2>Cookies</h2><h3>What are cookies</h3>
-<p>'Cookies' are small pieces of text data that a web server can store on, and later retrieve from, a computer. They do not personally identify you, but do identify your browser. Cookies can be either 'persistent' or 'session' based. Persistent cookies are stored on your computer, contain an expiration date, and may be used to track your browsing behaviour upon return to the issuing website. Session cookies are short-lived, are used only during a browsing session, and expire when you shut down your browser.</p>
-<h3>How we use cookies</h3>
-<p>The transportnsw.info site uses first and second party persistent cookies (i.e. issued and retrieved by the transportnsw.info systems or Google) to collect information about visitor behaviour and general website statistics.</p>
-<p>We may also record your preferences in relation to your use of the transportnsw.info site and other information about your enquiry that allows us to provide a faster and richer interaction when you return to the site in the future, such as being able to populate fields in the Trip Planner from your previous entries.</p>
-<p>The cookies on the transportnsw.info site do not read the information on your hard drive. Transport for NSW makes no attempt to associate cookies with users' names or identities. Our server cannot find out your name or email address from the cookies used on the site.</p><h2>Google Analytics</h2><p>The transportnsw.info site uses Google Analytics, a reporting service provided by Google, Inc. ("Google") and its subsidiaries. Google Analytics uses "cookies" to help us analyse how users use the site. The information generated by the cookie about your use of the site (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the site, compiling reports on website activity for website operators and providing other services relating to website activity and internet usage.</p>
-<p>Google may also transfer this information to third parties, where required to do so by law or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google. You may refuse the use of cookies by selecting the appropriate settings on your browser. Please note, however, if you do this you may not be able to use the full functionality of the transportnsw.info site. By using the site, you consent to the processing of data about you by Google in the manner and for the purposes set out above.</p>
-<p>For more details visit <a href="http://www.google.com/intl/en/analytics/tos.html">Google Analytics Terms of Service</a></p><h2>How we use information collected</h2><p>The information collected during each visit is aggregated with similar logged information and published in reports so Transport for NSW can identify patterns of usage of the transportnsw.info site. This will assist us in improving the site and the services offered on it.</p>
-<p>Transport for NSW will not disclose or publish information that identifies individual machines, or potentially identifies sub-groupings of addresses, without consent or otherwise in accordance with the New South Wales Privacy and Personal Information Protection Act 1998.</p>
-<h3>Other uses</h3>
-<p>Transport for NSW may collect, use and disclose more extensive information than stated above in the following circumstances, including:</p>
-<ul>
-<li>unauthorised attempts to access files which are not published transportnsw.info pages </li>
-<li>unauthorised tampering or interference with files published on the transportnsw.info site</li>
-<li>unauthorised attempts to index the contents of the transportnsw.info site by other websites</li>
-<li>attempts to intercept messages of other users of the transportnsw.info site</li>
-<li>communications that are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed, and</li>
-<li>attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the enjoyment of the transportnsw.info site by other users. </li>
 </ul>
-<p>Transport for NSW reserves the right to make disclosures to relevant authorities where the use of the transportnsw.info site raises a suspicion that an offence is being, or has been, committed.</p>
-<p>In the event of an investigation, Transport for NSW will provide access to data to any law enforcement agency that may execute a warrant to inspect our logs.</p><h2>Secure storage</h2><p>Information collected is stored in an appropriately secure format and held by Transport for NSW for archival purposes. When the information is no longer required for the purposes for which it was collected it is deleted.</p><h2>What we do with feedback information</h2><p>Transport for NSW provides feedback facilities on the transportnsw.info site to allow users to provide input into the future development of the site and to comment on the provision of transport services in NSW.</p>
-<p>Personal details are requested to enable follow up for more details or for the purpose of providing a reply to your feedback. This information will only be used for the purpose for which it was provided. We will not add your email address or name to any mailing list.</p>
-<p>Transport for NSW may publish aggregated information about feedback on the transportnsw.info site, to the extent that it does not identify or cannot be used to identify individual users.</p><h2>Access to data</h2><p>Transport for NSW captures this information on its own computers and those of its contracted service providers. Access to the raw data is restricted to a limited number of officers in Transport for NSW and its contracted service providers for the purpose of website analysis and to report on the success of Transport for NSW in meeting its communication and access objectives.</p><h2>Updates to this policy</h2><p>Due to the developing nature of privacy principles for online communication, this policy may be modified or expanded in light of new developments or issues that may arise from time to time. The amended policy will be posted to the transportnsw.info site and will operate from the time it is posted.</p><ul class="list list-2-col"></ul>
+<p>Only some of this information may be considered personal information.</p>
+<p>If you use the feedback facilities on the Site you may also choose to provide us with your personal information such as your name, address, phone number and relevant contact details or other information about you. Depending on your complaint or the service you require, sometimes this information may also include health information. You may choose to provide feedback anonymously or not provide all the information requested.&nbsp; If you use the feedback facilities anonymously or do not provide us with the requested information we may not be able to reply to your feedback.</p>
+<h2>How we collect this information</h2>
+<p>We collect the information on our Site by using ‘cookies’ which are small pieces of text data that a web server can store on, and later retrieve from, a computer. They do not personally identify you, but do identify your browser. Cookies can be either 'persistent' or 'session' based. Persistent cookies are stored on your computer, contain an expiration date, and may be used to track your browsing behaviour upon return to the issuing website. Session cookies are short-lived, are used only during a browsing session, and expire when you shut down your browser.</p>
+<p>We use first and second party persistent cookies (i.e. issued and retrieved by the transportnsw.info systems or its service providers) to collect information about visitor behaviour and general website statistics. We also use services, for example, Facebook Pixel and Cadreon, which may place cookies on your browser to provide relevant advertisements and information from us to your browser or app.</p>
+<p>The cookies on the Site do not read the information on your hard drive. Transport for NSW makes no attempt to associate cookies with users' names or identities. Our server cannot find out your name or email address from the cookies used on the site.</p>
+<p>You can accept or decline cookies by modifying the settings on your browser. Disabling cookies will not affect your ability to use our websites.</p>
+<p>If you would like to enable/disable cookies in your browser, you can do this in:</p>
+<ul>
+<li>Google Chrome &gt; Settings &gt; Show advanced settings &gt; Privacy &gt; Content settings</li>
+<li>Mozilla Firefox &gt; Options &gt; Privacy &gt; History (Use custom settings for history)</li>
+<li>Safari &gt; Edit &gt; Preferences &gt; Privacy</li>
+<li>Internet Explore &gt; Tools &gt; Internet Options &gt; Privacy</li>
+<li><a href="http://www.aboutads.info/choices/">Analytics services</a></li>
+</ul>
+<p>We also use analytics services (for example, Google Analytics and Facebook pixel) to help us analyse and provide reporting on how users use the Site.</p>
+<h2>How we use information collected</h2>
+<p>The information collected on our Site may be used to allow us to provide a faster and richer interaction when you return to the Site in the future, such as being able to populate fields in the Trip Planner from your previous entries.&nbsp;</p>
+<p>In addition, the information collected during each visit is aggregated with similar logged information and published in reports so Transport for NSW can identify patterns of usage of the Site. This will assist us in improving the Site and the services offered on it.</p>
+<p>Feedback that we receive from you through the Site will be used according to the “What we do with feedback information” section further below.</p>
+<p>Finally, your information may be used to maintain and protect the security of the Site.</p>
+<h2>How we disclose information collected</h2>
+<p>The information provided will be disclosed to service providers for them to help us analyse how users use the Site. This information does not identify individual users.</p>
+<p>Transport for NSW captures this information on its own computers and those of its service providers. Access to the raw data is restricted to a limited number of officers in Transport for NSW and its service providers for the purpose of website analysis and to report on the success of Transport for NSW in meeting its communication and access objectives. Transport for NSW will not disclose or publish information that identifies individual machines, or potentially identifies sub-groupings of addresses, without your consent or otherwise in accordance with the PPIPA&nbsp;and HRIPA (for example, disclosure may be required by law).</p>
+<h2>Other uses and disclosures</h2>
+<p>Transport for NSW may use and disclose more extensive information than stated above in certain circumstances, including:</p>
+<ul>
+<li>unauthorised attempts to access files which are not published transportnsw.info pages</li>
+<li>unauthorised tampering or interference with files published on the Site</li>
+<li>unauthorised attempts to index the contents of the Site by other websites</li>
+<li>attempts to intercept messages of other users of the Site</li>
+<li>communications that are defamatory, abusive, vilify individuals or groups or which give rise to a suspicion that an offence is being committed, and</li>
+<li>attempts to otherwise compromise the security of the web server, breach the laws of the State of New South Wales or Commonwealth of Australia, or interfere with the enjoyment of the Site by other users.</li>
+</ul>
+<p>Transport for NSW reserves the right to make disclosures to relevant authorities where the use of the Site raises a suspicion that an offence is being, or has been, committed. In the event of an investigation, Transport for NSW will provide access to data to any law enforcement agency that may execute a warrant to inspect our logs.</p>
+<h2>How we use and disclose feedback information</h2>
+<p>Transport for NSW provides feedback facilities on the Site to allow users to provide input into the future development of the Site and to comment on the provision of transport services in NSW.</p>
+<p>Personal information and sometimes, health information, are requested to enable follow up by Transport for NSW for more details or for the purpose of providing a reply to your feedback. This information will only be used for the primary purpose for which it was provided. We will not add your email address or name to any mailing list. We will not disclose your personal information or health information without your consent or as otherwise may be permitted in accordance with the PPIPA&nbsp;and HRIPA (for example, disclosure may be required by law).</p>
+<p>Transport for NSW may publish aggregated information about feedback on the Site, to the extent that it does not identify or cannot be used to identify individual users.</p>
+<h2>Secure storage</h2>
+<p>Information collected is stored in an appropriately secure format and held by Transport for NSW for archival purposes. When the information is no longer required for the purposes for which it was collected it is deleted.</p>
+<h2>Access to data</h2>
+<p>If you wish to:</p>
+<ul>
+<li>ask questions about this Privacy Statement ;</li>
+<li>obtain access to or seek correction of your personal information; or</li>
+<li>make a complaint in relation to your privacy,</li>
+</ul>
+<p>please contact the Information and Privacy Unit (as per the details provided at the start of this Privacy Statement).</p>
+<h2>Updates to this Privacy statement</h2>
+<p>Due to the developing nature of privacy principles for online communication, this Privacy statement may be modified or expanded in light of new developments or issues that may arise from time to time. The amended Privacy Statement will be posted to the Site and will operate from the time it is posted.</p>
+<h2>More information</h2>
+<ul>
+<li><span style="text-decoration: underline;"><a href="http://www.transportnsw.info/sites/en/contact-us/index.page">Contact us</a></span></li>
+<li><span style="text-decoration: underline;"><a href="http://www.transportnsw.info/sites/en/about/about-us.page">About transportnsw.info</a></span></li>
+<li><span style="text-decoration: underline;"><a href="http://www.transportnsw.info/sites/en/about/developers-site-owners.page">Developers and site owners</a></span></li>
+<li><span style="text-decoration: underline;"><a href="http://www.transportnsw.info/sites/en/about/conditions.page">Terms and conditions</a></span></li>
+<li><span style="text-decoration: underline;"><a href="http://www.transportnsw.info/sites/en/about/site-accessibility.page">Site accessibility</a></span></li>
+<li><span style="text-decoration: underline;"><a href="http://www.transportnsw.info/sites/en/about/map-copyright.page">Map copyright</a></span></li>
+<li><span style="text-decoration: underline;"><a href="http://www.transportnsw.info/sites/en/about/jobs.page">Jobs</a></span></li>
+</ul>
+<p>© Transport for NSW</p><ul class="list list-2-col"></ul>
 </section>
 </div>
 <!--ls:end[component-1377847129373]-->
@@ -367,9 +456,9 @@ The transportnsw.info site uses Google Analytics, a reporting service provided b
 </div>
 </div>
 <div class="ls-row footer-full" id="ls-row-3">
-<div class="ls-fxr" id="ls-gen8052362-ls-fxr">
+<div class="ls-fxr" id="ls-gen61920137-ls-fxr">
 <div class="ls-area footer" id="ls-row-3-area-1">
-<div class="ls-area-body" id="ls-gen8052363-ls-area-body">
+<div class="ls-area-body" id="ls-gen61920138-ls-area-body">
 <div class="ls-cmp-wrap ls-1st" id="w1378108161752">
 <!--ls:begin[component-1378108161752]-->
 <div class="iw_component" id="1378108161752"><footer role="contentinfo" id="footer">
