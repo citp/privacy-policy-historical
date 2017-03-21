@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ergobaby.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230105731id_/https%3A//store.ergobaby.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ergobaby.com privacy policy that was archived on 2017-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170321233328id_/https%3A//store.ergobaby.com/privacy-policy) for the most accurate reproduction.*
 
 # Ergobaby Privacy Policy
 
