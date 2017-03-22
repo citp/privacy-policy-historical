@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fedena.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204215319id_/http%3A//www.fedena.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fedena.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322084007id_/https%3A//www.fedena.com/privacy_policy) for the most accurate reproduction.*
 
-# Fedena School Management Information System Privacy Policy
+# School Management Information System Privacy Policy - Fedena
 
 This Privacy Policy governs the manner in which Foradian collects, uses, maintains and discloses information collected from users (each, a "User") of the www.fedena.com website ("Site"). This privacy policy applies to the Site and all products and services offered by Foradian.
 
