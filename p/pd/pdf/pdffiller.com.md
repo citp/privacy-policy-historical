@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pdffiller.com privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607160401id_/http%3A//www.pdffiller.com/en/privacy_policy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pdffiller.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322191020id_/https%3A//www.pdffiller.com/en/privacy_policy.htm) for the most accurate reproduction.*
 
 # Privacy Policy - PDFfiller
 
