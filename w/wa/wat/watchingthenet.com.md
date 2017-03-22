@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watchingthenet.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913054711id_/http%3A//www.watchingthenet.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watchingthenet.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322030444id_/http%3A//www.watchingthenet.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
