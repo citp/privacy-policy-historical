@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the useqwitter.com privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222084151id_/http%3A//twittercounter.com/privacy-policy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the useqwitter.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322013242id_/http%3A//twittercounter.com/privacy-policy.pdf) for the most accurate reproduction.*
 
 # !
 
