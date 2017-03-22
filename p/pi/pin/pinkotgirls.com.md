@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the pinkotgirls.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121201018id_/http%3A//www.pinkotgirls.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinkotgirls.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322205244id_/http%3A//www.pinkotgirls.com/privacy.php) for the most accurate reproduction.*
 
-# PinkoTGirls
+# Pinko TGirls
 
 This privacy policy discloses the privacy practices for www.pinkotgirls.com. This privacy policy applies solely to information collected by this web site. It will notify you of the following:   
 What personally identifiable information is collected from you through the web site, how it is used and with whom it may be shared.   
