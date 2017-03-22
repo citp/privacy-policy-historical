@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the k12albemarle.org privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801175310id_/http%3A//www2.k12albemarle.org/acps/division/Pages/privacy-statement.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the k12albemarle.org privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322054323id_/http%3A//www2.k12albemarle.org/acps/division/Pages/privacy-statement.aspx) for the most accurate reproduction.*
 
 # Privacy Statement
 
@@ -14,3 +14,5 @@
 
 
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this web site, please send an e-mail to the [Web Manager](mailto:webmanager@k12albemarle.org).
+
+[](https://get.adobe.com/reader/) You may need the free [Acrobat Reader](https://get.adobe.com/reader/) to access information presented in PDF format.
