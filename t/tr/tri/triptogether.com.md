@@ -1,10 +1,26 @@
-> *The following text is extracted and transformed from the triptogether.com privacy policy that was archived on 2014-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140625165940id_/https%3A//www.triptogether.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the triptogether.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322161145id_/https%3A//www.triptogether.com/privacy-policy) for the most accurate reproduction.*
 
-# TripTogether
+# Privacy Policy - Triptogether.com
 
-Depending on what you do when you visit any Web site, you are providing information about your visit to the site’s owners. This includes TripTogether.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any Web site, we think it’s a good idea for you to first understand what that site’s privacy policies are. If the site doesn’t tell you, don’t hesitate to ask.
+To complete your registration, please click on the confirmation link we have sent to Resend confirmation
 
-The bottom line at www.TripTogether.com is that we only use the information that we get from your visit for internal tracking purposes, to make TripTogether.com as useful and interesting to you as we can, and to respond to your requests for information or other services. Except for as specifically noted, we do not use your personal information for any other purpose; we never sell it to any third party; and we never share it with any third party.
+The confirmation message has been resent to
+
+Your email has been confirmed. Thank you for being a part of TripTogether!
+
+Going to ? Why don’t you create your own trip to find travelmates faster!
+
+×
+
+TripTogether Jaga Smart tech, Corp.
+
+FREE - On the App Store
+
+[ Install ](https://play.google.com/store/apps/details?id=com.triptogether.android) [ View ](https://itunes.apple.com/us/app/triptogether/id705795934?l=ru&ls=1&mt=8)
+
+Depending on what you do when you visit any Web site, you are providing information about your visit to the site’s operators. This includes TripTogether.com. We value privacy and think you do too, so we want you to have the information you need to make your own decisions about your personal privacy. When you visit or supply information to any Web site, we think it’s a good idea for you to first understand what that site’s privacy policies are. If the site doesn’t tell you, don’t hesitate to ask.
+
+The bottom line at www.TripTogether.com is that we only use the information that we get from your visit for internal tracking purposes, to make TripTogether.com as useful and interesting to you as we can, and to respond to your requests for information or other services. Except for as specifically noted, we do not use your personal information for any other purpose; we never sell it to any third party; and we never share it with any third party, other than as otherwise provided in this policy. TripTogether.com utilizes Google Shopping Cart API, which is subject to google.com’s privacy policy (http://www.google.com/policies/privacy/), incorporated by reference herein.
 
 Read more about how your personal information is managed:
 
@@ -58,21 +74,34 @@ Email, Mailing Lists, and Other Services:
 
 When you send us an email, we use your email address to thank you for your comment and/or reply to your question, and we will store your communication and our reply in case we correspond further. Beyond our initial reply, we will never use your email address to send you any unsolicited message or information, nor will we share it with or sell it to anyone else for such use.
 
-You will also receive our email newsletters, account updates and special offers targeted to your interests sent to you by TripTogether.com.
+You may also daily receive any combination of our email newsletters, account updates, or special offers targeted to your interests sent to you by  TripTogether.com
 
-We will not use your address or other information to provide you with any unsolicited message or information (unless that is part of the service you are requesting), nor will we share it with or sell, rent or lease it to any third party for such use.
+Please be aware that scammers sometimes create fake emails or fake accounts that look like they’re from TripTogether. These emails often:
+
+  * Offer things that sound too good to be true (For example: You’ve won the TripTogether Lottery)
+  * Asking you for money for customs tax
+  * Claim to be a TripTogether administrator or staff
+
+
+
+If any email looks suspicious do not click any of the links in it, open any attachments or respond to that messages. Please forward the email directly to [support@triptogether.com](mailto:support@triptogether.com) in order for our team to look into it further.
 
 Linking To Other Sites:
     
 
 Please remember that when you use a link to go from TripTogether.com to another Web site, the TripTogether.com Site Rules and this Privacy Policy are no longer in effect. Your browsing and interaction on any other Web site, including any site that has a link on TripTogether.com, is subject to the rules and policies of that site. We encourage you to read the rules and policies of the sites you visit to further understand their procedures for collecting, using, and disclosing personal information.
 
-Our policy regarding sharing of information:
-
-Our policy is simple: we never sell or rent your personal information to any third parties under any circumstances.
-
 Our policy regarding sharing of information:
-     Our policy is simple: we never sell or rent your personal information to any third parties under any circumstances. 
+    
+
+Service Providers: We also may disclose information to outside companies that help us bring you the products and services we offer. For example, we may work with an outside company to: (a) manage a database of customer information; (b) assist us in distributing emails; (c) assist us with direct marketing and data collection; (d) provide us storage and analysis; (d) provide fraud prevention; and (e) provide other services designed to assist us in maximizing our business potential. We require that these outside companies agree to keep confidential all information we share with them and to use the information only to perform their obligations in our agreements with them.
+
+Other Companies: We may provide information to carefully selected outside companies when we believe their products or services may be of interest to you.
+
+Business Transitions: We may transfer or share a copy of personal information about you in the event that TripTogether.com or one of its properties, affiliates, or subsidiaries goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets.
+
+Compliance with Law: We may provide access to information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our website, to limit our legal liability, and to protect our rights or to protect the rights, property, or safety of visitors of this website or the public.
+
 Age Restrictions
     Children under eighteen years of age are prohibited from using Our Websites. We do not target our sites or services to children under the age of 18, and in compliance with the Children’s Online Privacy Protection Act, any information we may receive from users we believe to be under the age of 18 will be purged from our database.
 
@@ -83,7 +112,7 @@ Choice/Opt-Out
 
 TripTogether.com may periodically send you email messages describing updates, new features, or promotional offers related to this Web site. You can choose to stop receiving this email at any time.
 
-To unsubscribe email us at [unsubscribe@TripTogether.com](mailto:unsubscribe@TripTogether.com). You can also follow the 'unsubscribe' instructions and link provided with each email or as we otherwise provide.
+To unsubscribe email us at [support@triptogether.com](mailto:support@triptogether.com). You can also follow the 'unsubscribe' instructions and link provided with each email or as we otherwise provide.
 
 ## 
 
@@ -104,9 +133,6 @@ Also you can send your request to our Support Team, and we will make the request
 
 ## Security
 
-Security
-    
-
 The security of your personal information is very important to us and we are committed to protecting the information we collect. TripTogether.com uses firewalls and has security measures in place at its physical facilities to protect against the loss, misuse, or alteration of information that we have collected from you at our Web site.
 
 TripTogether.com has VeriSign and McAfee secure certificates demonstrating that the site is fully tested, approved and certified by these two leading security systems. You are protected from any virus, identity theft, credit card fraud, spyware, spam, or online scam on our site.
@@ -118,7 +144,9 @@ Contacting the Website
 
 Please note that whenever you submit any information to us in connection with any TripTogether.com related services, you consent to TripTogether.com's processing of this information in the United States/Russia as necessary to provide the services in which you are participating.
 
-If you have any questions, comments or complaints about TripTogether.com's privacy policy and/or the way it affects you, please feel free to contact our Customer Support: [support@TripTogether.com](mailto:support@TripTogether.com)
+If you have any questions, comments or complaints about TripTogether.com's privacy policy and/or the way it affects you, please feel free to contact our Customer Support:
+
+[ support@TripTogether.com ](mailto:support@TripTogether.com)
 
 Acceptance of Privacy Statement
     
@@ -127,7 +155,146 @@ Your use of our website, including any dispute concerning privacy, is subject 
 
 TripTogether.com reserves the right to change, modify or amend this policy at any time. We take privacy matters very seriously, and intend to stay at the forefront of privacy policy and protection matters. We will occasionally update our privacy policy and we will post those updates on this page. You are responsible for revisiting this page to review our privacy policy updates.
 
+Company address
+    
 Effective Date
     
 
-This privacy statement was last revised on January 15, 2013.
+This privacy statement was last revised on October 21, 2016.
+
+<https://www.triptogether.com/privacy-policy/>
+
+##  Make your profile more visible  
+with Premium Membership only for  Become a Premium Member  
+to boost your profile only for  Confirm your subscription  
+to continue your journey for only 
+
+Cardholder name
+
+Name as it appears on the card:
+
+CVC2/CVV2
+
+CVC2/CVV2
+
+The security code is a 3 or 4 digit code printed on your credit card. We require this code as a security measure to our customers. Requiring this information helps to ensure that the credit card is present at the time of purchase. If you cannot find this code, or it is illegible, please contact your credit card issuer.
+
+## Congrats, traveler!
+
+Now you are a Premium member of TripTogether!
+
+Time to start your adventure!
+
+## Are you sure you want to lose all Premium features and become an average traveler?
+
+  * Hue 0deg
+  * Saturation 100%
+  * Brightness 100%
+  * Contrast 100%
+
+
+
+You will never get any messages from blocked user
+
+### Whoa!
+
+**This person has gone on vacation!**
+
+## I Want to Travel With
+
+##  Enter destinations
+
+## Travel dates
+
+### Change your password
+
+## Create a new password you can easily remember!
+
+Why not create your own trip?  
+It’s the easiest way to find travel mates to join you!
+
+## Hello Recipient Name,
+
+Sender Name has left you a message on TripTogether.
+
+The first 40 symbols of message...
+
+TripTogether.com
+
+## Hello Recipient Name,
+
+Sender Name has left you a message on TripTogether.
+
+The first 40 symbols of message...
+
+TripTogether.com
+
+## Welcome to TripTogether!
+
+To complete your registration, please click on the confirmation link we have sent to
+
+Resend confirmation
+
+The confirmation message has been resent to
+
+## 
+
+It's
+
+her (his) 
+
+birthday today
+
+Premium user
+
+Add your date of birth and gender years, 
+
+Lives in
+
+add your hometown ,
+
+Works as
+
+add your occupation
+
+Knows
+
+add languages you speak
+
+Add to Remove from Favorites
+
+I would like to travel with
+
+describe your potential travel mate
+
+###  Plan your trip  trip to find the perfect travel buddy! Choose a destination, enter a date and invite travelers to join you.
+
+####  has no travel plans yet.
+
+Chat with  to find out where the traveler may like to go.
+
+###  Create a new story! Tell other travelers about your last trip or about the place you live in!
+
+####  has not shared any travel experience.
+
+Chat with  and find out which places the traveler has been to.
+
+User Settings
+
+Introduce Yourself to other Travel Mates! 
+
+Add photo Upload a photo from your computer
+
+or
+
+UPLOAD PHOTO FROM YOUR COMPUTER UPLOAD FROM DEVICE
+
+Or drag them into this area Drop photos here
+
+## Save your changes
+
+You can save changed texts by pressing **Ctrl+Shift+Enter**
+
+## Welcome
+
+You can enter operator mode by pressing gear button in the top panel.
