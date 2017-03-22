@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youcubed.org privacy policy that was archived on 2016-07-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160712033536id_/https%3A//www.youcubed.org/privacy-notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youcubed.org privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322163551id_/https%3A//www.youcubed.org/privacy-notice) for the most accurate reproduction.*
 
 # Privacy Notice (updated June 14, 2014)
 
