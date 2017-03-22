@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the modernhousewife.ca privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101075318id_/http%3A//www.modernhousewife.ca/about-me/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the modernhousewife.ca privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322080214id_/http%3A//www.modernhousewife.ca/about-me/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Modern housewife
 
