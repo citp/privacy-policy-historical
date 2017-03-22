@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the coopervision.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123141222id_/http%3A//coopervision.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the coopervision.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322172116id_/http%3A//coopervision.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | CooperVision
 
