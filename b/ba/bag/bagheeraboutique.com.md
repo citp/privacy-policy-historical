@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the bagheeraboutique.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120200323id_/http%3A//www.bagheeraboutique.com/en-US/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bagheeraboutique.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322083942id_/https%3A//www.bagheeraboutique.com/en-US/policy/privacy) for the most accurate reproduction.*
 
 # Site Conditions - BagheeraBoutique
 
 **A) PRIVACY POLICY (D.lgs. 196/2003)**  
  **A.1) Interested parties**  
 The website Bagheeraboutique.com is owned by the company Bagheera Italia srl ("Bagheera”), managing and organising the products on sale.  
-BAGHEERA is registered at the Registro delle Imprese di Roma, CF/P.IVA 09790281001, seated in Via g. Pezzana 75 – 00197 Rome Italy.
+BAGHEERA is registered at the Registro delle Imprese di Roma, CF/P.IVA 09790281001, seated in Via Filacciano 5 – 00188 Rome Italy.
 
 BAGHEERA is the holder of your personal data according to the D. Lgs. N. 196, June 30, 2003 (Personal Data Protection Code). The above mentioned legislation regulates the protection of persons and other parties with reference to personal data. Personal data are treated in accordance with the current legislation.  
  **  
