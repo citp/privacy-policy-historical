@@ -1,50 +1,37 @@
-> *The following text is extracted and transformed from the stackadapt.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606001933id_/http%3A//www.stackadapt.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stackadapt.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322013547id_/https%3A//www.stackadapt.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | StackAdapt
 
-* * *
+#### StackAdapt Privacy Policy
 
-### Introduction
+##### Our Commitment
 
-StackAdapt strongly believes that all information deserves protection. By using our website you consent and agree to the collection, use and disclosure of personal information and to the privacy practices set out in this policy. We expressly reserve the right to change this privacy policy at any time. This privacy policy (“Privacy Policy”) is intended to inform you of the collection, use and disclosure of information that we collect. All references to “we,” “us” and “our” are intended to mean StackAdapt Inc (“StackAdapt”), and all references to “you” and “your” are intended to mean users who have been exposed to our services. Because our Privacy Policy may be updated periodically, we encourage you to review these pages on a regular basis. 
+StackAdapt strongly believes that all information deserves protection. This Privacy Policy is intended to inform you of the collection, use, and disclosure of the personal information that we collect. "Personal information" means information about an identifiable individual. We may change this Privacy Policy at any time. So we encourage you to review these pages on a regular basis.
 
-### Our Services
+##### Our Services
 
-At StackAdapt we collect certain anonymous and non-personally identifiable information about users in order to display effective native advertisements. Based on the behavior and preferences of the users that we have identified, we seek to group those users into certain categories. We then seek to display the most relevant advertisements to the users in those categories. 
+At StackAdapt, in accordance with the privacy policies of the websites we work with, we collect Internet Protocol ("IP") address, browser information, recent search history, and activity on various websites in order to display effective native and video advertisements. Native advertisements are advertisements that are integrated into the content of a given platform, such as a website. Based on the behaviour and preferences of the users, we seek to group them into certain categories and display the most relevant advertisements to the users in those categories. We strictly follow the privacy policy of the website or other platforms we interact with. For example, we would never collect data from a website user who has opted out of cookies.
 
-### Anonymous Data
+##### Our Method
 
-The Anonymous Data that we collect about users through our services is anonymous, non- personally identifiable information and may include such information as your Internet Protocol address, your browser, recent search history, and your activity on various websites (the “Anonymous Data”). 
+We use "pixel tags" and/or "cookies". Pixel tags are small bits of code that provide a method of delivery information on a webpage which allows the operator of the page or a third party to collect the IP address of the users of the page. Cookies are small text files that are stored on the browser of a computer that uniquely identify the browser and provide information to the cookie sender. Many websites send cookies to the browsers that are visiting those sites, and many browsers are initially configured to accept cookies. Users can change the browser settings to refuse cookies or to alert them when a cookie has been placed on their browser. The user can check the browser for details in this regard.
 
-#### How We Collect Anonymous Data
+##### Use of Data
 
-For Anonymous Data that we purchase from third party providers, the Privacy Policy for such third party providers applies to the provisioning of that Anonymous Data. The use of that Anonymous Data by StackAdapt, however, is governed by this Policy. For Anonymous Data that we collect, directly or indirectly, we employ the use of “pixel tags” and/or “cookies.” Pixel tags are small bits of code that provide a method of delivery information on a webpage which allow the operator of the page or a third party to collect information about the users of the page. Cookies are small text files that are stored on the browser of your computer that uniquely identify your browser and provide information to the cookie sender. Many websites send cookies to the browsers that are visiting those sites, and many browsers are initially configured to accept cookies. You may be able to change your browser settings to refuse cookies or to alert you of when a cookie has been placed on your browser. Check your browser for details. 
+We use the data we collect in order to display advertisements that we believe may be relevant to the user. In seeking to identify relevant advertisements, we use this data to create and refine user segments, to develop and refine algorithms, and to understand better how users' interaction with a website might be of interest to advertisers.
 
-To Opt Out of our cookie based data collection and targeting, please go here
+##### Data Security
 
-#### Use of Anonymous Data
+We employ all reasonable industry standard measures to protect against the unauthorized access, disclosure, modification or destruction of the information we collect and our levels of safeguards correspond to the level of sensitivity of the information. While we are committed to ensuring the security of the information, no protection measure can provide a 100% guarantee of security. Consequently, we do not warrant or guarantee the security of the information.
 
-We use the Anonymous Data that we collect in order to display advertisements that we believe may be relevant to you. In seeking to identify relevant advertisements, we use this Anonymous Data to create and refine user segments, develop and refine algorithms, and to understand better how your interaction with a website might be of interest to advertisers. 
+##### Sharing Data
 
-#### Anonymous Data Security
+We share data with trusted third parties, such as advertisers, when we have agreements with them for their use of our services on the StackAdapt Platform. These agreements include clauses that hold our partners to the same high level of privacy protection we apply to the data and to never use the data for any other purpose than what we have committed to.
 
-We employ reasonable industry standard measures to protect against the unauthorized access, disclosure, modification or destruction of the Anonymous Data. While we are committed to ensuring the security of the Anonymous Data, you should be aware that no Anonymous Data protection measures can provide 100% guarantee of security. Consequently, we do not warrant or guarantee the security of the Anonymous Data. 
+##### Disclosure
 
-### Disclosure
+We never disclose any personal data unless we are required by law and we would only do so having verified the lawful authority of the request, such as to comply with a judicial proceeding, court order, or legal process served on us and to defend against legal claims. We may also voluntarily disclose personal data as allowed by law to prevent fraudulent activities.
 
-The above notwithstanding, we may disclose any of the Anonymous Data, any PII or any other information we collect when we believe that we have a legal obligation to do so. For example, we may disclose any of the above in order to (i) protect our rights and/or comply with a judicial proceeding, court order, or legal process served or (ii) protect or defend our proprietary rights. 
+##### Mobile Advertising ID
 
-### Effective Date and Governing Law
-
-This policy was updated on August 25, 2014. This Privacy Policy and any matter relating to this Web Site, shall be governed by the laws of Canada. If any part of this agreement is deemed to be invalid, illegal or unenforceable, then the invalid or unenforceable part shall be removed without affecting the legality, validity and enforce-ability of the remainder of this Privacy Policy. Further, the illegal, invalid or unenforceable provision removed shall be replaced by a legal, valid, enforceable provision that most closely reflects the original intent of the original provision. 
-
-* * *
-
-If you have any inquiries or concerns regarding this Privacy Policy, please contact us by emailing [support@stackadapt.com](mailto:support@stackadapt.com)
-
-### Opt Out
-
-**Cookies:** Click the button below to opt out of StackAdapt's cookie mechanism for tracking and ad targeting purposes. When you opt out, an opt out cookie will be stored on your web browser on srv.stackadapt.com. If you disable, block, or delete the cookie, your opt out choice will not be known.   
-
-
-**Mobile Advertising ID:** StackAdapt may use Advertising Identifiers for in-app ad targeting on mobile devices. Mobile operating software such as Apple iOS and Google Play Services provide an option to opt out of targeted in-app ads. To opt out, navigate to your operating software settings menu and follow the instructions. 
+StackAdapt may use Advertising Identifiers for in-app ad targeting on mobile devices. Mobile operating systems including Apple's iOS and Google's Android provide an option of opting out of targeted in-app ads. To opt out, the user simply navigates to the operating system settings and follows the instructions. We act accordingly.
