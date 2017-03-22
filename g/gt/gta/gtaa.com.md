@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gtaa.com privacy policy that was archived on 2016-08-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160801033612id_/http%3A//torontopearson.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gtaa.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322181514id_/https%3A//torontopearson.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
