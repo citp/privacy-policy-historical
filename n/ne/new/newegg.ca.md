@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newegg.ca privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115141321id_/https%3A//kb.newegg.ca/Article/Index/12/2%3Fid%3D1182) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newegg.ca privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322094816id_/https%3A//kb.newegg.ca/Article/Index/12/2%3Fid%3D1182) for the most accurate reproduction.*
 
 # Privacy Policy
 
