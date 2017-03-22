@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2016-07-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160703034800id_/https%3A//www.tpexpress.co.uk/footer/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tpexpress.co.uk privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322044652id_/https%3A//www.tpexpress.co.uk/footer/privacy-policy) for the most accurate reproduction.*
 
 # First TransPennine Express Trains – Privacy Policy
 
@@ -6,7 +6,7 @@
 
 We set out here the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we treat it. By visiting [www.tpexpress.co.uk](http://www.tpexpress.co.uk/) ("our site") you are accepting and consenting to the practices described in this policy.
 
-Any information provided to or gathered from our site in the course of providing services to you is controlled by First TransPennine Express Limited. We are registered as a data controller in the United Kingdom with the Information Commissioner’s Office under registration number 09111801.
+Any information provided to or gathered from our site in the course of providing services to you is controlled by First TransPennine Express Limited. We are registered as a data controller in the United Kingdom with the Information Commissioner’s Office under registration number ZA160554.
 
 **Information we may collect from you**
 
@@ -32,11 +32,11 @@ d)    Google Analytics. Our Site uses Google Analytics, a web analytics servi
 
 **Cookies**
 
-  1. Our site uses cookies. Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device. Cookies in themselves do not identify you, just the computer or device you are using. Cookies do lots of different jobs, like making it easier for you to log on to and use our site during future visits, letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They also allow us to monitor traffic on our site and they can also help to ensure that adverts you see online are more relevant to you and your interests.
-  2. Cookies themselves only record which areas of our site have been visited by your computer or device and for how long. Allowing us to create a cookie does not give us access to the rest of your computer.
-  3. The specific types of cookies that we use are:
+3.Our site uses cookies. Cookies are text files containing small amounts of information which are downloaded to your personal computer, mobile or other device when you visit a website. Cookies are then sent back to the originating website on each subsequent visit, or to another website that recognises that cookie. Cookies are useful because they allow a website to recognise a user's device. Cookies in themselves do not identify you, just the computer or device you are using. Cookies do lots of different jobs, like making it easier for you to log on to and use our site during future visits, letting you navigate between pages efficiently, remembering your preferences, and generally improving the user experience. They also allow us to monitor traffic on our site and they can also help to ensure that adverts you see online are more relevant to you and your interests
 
+ Cookies themselves only record which areas of our site have been visited by your computer or device and for how long. Allowing us to create a cookie does not give us access to the rest of your computer.
 
+The specific types of cookies that we use are:
 
 Site performance cookies
 
@@ -70,63 +70,61 @@ Other third party cookies
 
 On some pages of our site, other organisations may also set their own anonymous cookies. Because of how cookies work, our site cannot access these cookies. For example, when you share content using a Facebook share button, Facebook will record that you have done this.  
   
-  1. With most Internet browsers, you can erase or block cookies or ask to receive a warning before a cookie is stored. If you want to know how to do this please look at help instructions or menu within your web browser. Alternatively, you may wish to visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
-  2. Please be aware that restricting cookies may have a negative impact on the functionality of our site.
+With most Internet browsers, you can erase or block cookies or ask to receive a warning before a cookie is stored. If you want to know how to do this please look at help instructions or menu within your web browser. Alternatively, you may wish to visit [www.youronlinechoices.eu](http://www.youronlinechoices.eu/) which contains comprehensive information on how to do this on a wide variety of browsers. You will also find details on how to delete cookies from your computer as well as more general information about cookies.
 
-
+Please be aware that restricting cookies may have a negative impact on the functionality of our site.
 
 **Uses made of the information**
 
-  1. We use the information held about you in the following ways:
-
-
+4.We use the information held about you in the following ways:
 
 a)     Information you give to us. We will try to let you know at the time of collection how this information will be used. We will use this information:
 
-(i)         to carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us including billing you and contacting you about your orders;
+(i)         carry out our obligations arising from any contracts entered into between you and us and to provide you with the information, products and services that you request from us including billing you and contacting you about your orders;
 
-(ii)        to respond to your inquiries or to process your requests in relation to your information;
+(ii)        respond to your inquiries or to process your requests in relation to your information;
 
-(iii)       to let you know about important changes or developments to the site or our services;
+(iii)       let you know about important changes or developments to the site or our services;
 
-(iv)       to provide and personalise our services generally;
+(iv)       provide and personalise our services generally;
 
-(v)        to administer records of our subscription services;
+(v)        administer records of our subscription services;
 
-(vi)       to carry out market research campaigns;
+(vi)       carry out market research campaigns;
 
-(vii)      to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
+(vii)      provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
 
-(viii)     to provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you;
+(viii)     provide you, or permit selected third parties to provide you, with information about goods or services we feel may interest you;
 
-(ix)       to contact you by post, telephone, fax, SMS or by email (where you have consented to our doing so) to let you know about other products and services that we offer and feel may be of interest, are offered by other companies within the FirstGroup plc group of companies or are offered jointly with or on behalf of other organisations. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data; and
+(ix)       contact you by post, telephone, fax, SMS or by email (where you have consented to our doing so) to let you know about other products and services that we offer and feel may be of interest, are offered by other companies within the FirstGroup plc group of companies or are offered jointly with or on behalf of other organisations. If you do not want us to use your data in this way, or to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which we collect your data; and
 
-(x)        to ensure that content from our site is presented in the most effective manner for you and for your computer, making the site easier for you to use and providing you with access to all parts of the site.
+(x)        ensure that content from our site is presented in the most effective manner for you and for your computer, making the site easier for you to use and providing you with access to all parts of the site.
 
 b)    Information we collect about you. We will use this information:
 
-(i)         to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
+(i)         administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
 
-(ii)        to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
+(ii)        improve our site to ensure that content is presented in the most effective manner for you and for your computer;
 
-(iii)       to allow you to participate in interactive features of our service, when you choose to do so;
+(iii)       allow you to participate in interactive features of our service, when you choose to do so;
 
 (iv)       as part of our efforts to keep our site safe and secure;
 
-(v)        to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and
+(v)        measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you; and
 
-(vi)       to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
+(vi)       make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
 
 c)     Information we receive from other sources. We may combine this information with information you give to us and information we collect about you. We may use this information and the combined information for the purposes set out above (depending on the types of information we receive).
 
 **Disclosure of your information**
 
-  1. We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
-  2. Except with your permission or as provided herein, we will not sell, trade or rent personal information about you to unaffiliated third parties. Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
-  3. The information you provide to us will be held on our server in the United Kingdom and may be accessed by or given to our staff for the purposes set out in this policy.
-  4. We may share your information with selected third parties including:
+5.We may share your personal information with any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.
 
+6.Except with your permission or as provided herein, we will not sell, trade or rent personal information about you to unaffiliated third parties. Unless required to do so by law, we will not otherwise share, sell or distribute any of the information you provide to us without your consent.
 
+7.The information you provide to us will be held on our server in the United Kingdom and may be accessed by or given to our staff for the purposes set out in this policy.
+
+8.We may share your information with selected third parties including:
 
 a)     Business partners, suppliers and sub-contractors for the performance of any contract we enter into with them or you.
 
@@ -136,9 +134,7 @@ c)     Other rail industry bodies including the Office of Rail and Road, Rai
 
 d)    Agents that we engage to perform functions on our behalf including fulfilling order deliveries, sending customer communications, analysing data, providing marketing assistance, processing payments and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.
 
-  1. We may disclose your personal information to third parties:
-
-
+9.We may disclose your personal information to third parties:
 
 a)     In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
@@ -154,32 +150,32 @@ f)     Where we retain third parties to carry out promotions and other activ
 
 g)    If we are under a duty to disclose or share your personal data in order to comply with any legal or regulatory obligation, or in order to enforce or apply our Terms ([www.tpexpress.co.uk/footer/terms-and-conditions/](http://www.tpexpress.co.uk/footer/terms-and-conditions/)) and other agreements or to protect the rights, property, or safety of TPE, our customers, our staff or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
-  1. The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this policy.
-  2. We may also pass aggregate information on the usage of our site (e.g. we might disclose the median ages of visitors to our site, or the numbers of visitors to our site that come from different geographic areas) to third parties but this will not include information that can be used to identify you personally.
-  3. All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. You should not share this information with anyone.
-  4. Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk.
+10.The information that we collect from you may be transferred to, and stored at, a destination outside the European Economic Area ("EEA"). It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your information, you agree to this transfer, storing or processing. We will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this policy.
 
+11.We may also pass aggregate information on the usage of our site (e.g. we might disclose the median ages of visitors to our site, or the numbers of visitors to our site that come from different geographic areas) to third parties but this will not include information that can be used to identify you personally.
 
+12.All information you provide to us is stored on our secure servers. Any payment transactions will be encrypted. Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. You should not share this information with anyone.
+
+13.Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your information, we cannot guarantee the security of your information transmitted to our site; any transmission is at your own risk.
 
 **Your rights**
 
-  1. If you are aged 16 or under, please get your parent or guardian's permission before you provide any personal information to us. Users without this consent are not allowed to provide us with personal information.
-  2. Our site may contain links to other websites that are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
-  3. We will retain your information for a reasonable period or as long as the law or regulation requires. In accordance with the UK's Data Protection Act 1998, we employ strict physical, electronic and administrative security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage both on-line and off-line.
-  4. The contents of this site are designed to comply with the general obligations of the European Directives on Data Protection and E-Privacy. We cannot be responsible for non-compliance with any local advertising or other laws in relation to this site or its contents.
-  5. You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us by email on [tpecustomer.relations@firstgroup.com](mailto:tpecustomer.relations@firstgroup.com).
-  6. Under the Data Protection Act 1998 you are entitled to see the personal information we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
+14.If you are aged 16 or under, please get your parent or guardian's permission before you provide any personal information to us. Users without this consent are not allowed to provide us with personal information.
 
+15.Our site may contain links to other websites that are outside our control and are not covered by this Privacy Policy. If you access other websites using the links provided, the operators of these websites may collect information from you which will be used by them in accordance with their privacy policy, which may differ from ours.
 
+16.We will retain your information for a reasonable period or as long as the law or regulation requires. In accordance with the UK's Data Protection Act 1998, we employ strict physical, electronic and administrative security measures to protect your information from access by unauthorised persons and against unlawful processing, accidental loss, destruction and damage both on-line and off-line.
+
+17.The contents of this site are designed to comply with the general obligations of the European Directives on Data Protection and E-Privacy. We cannot be responsible for non-compliance with any local advertising or other laws in relation to this site or its contents.
+
+18.You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us by email on [tpecustomer.relations@firstgroup.com](mailto:tpecustomer.relations@firstgroup.com).
+
+19.Under the Data Protection Act 1998 you are entitled to see the personal information we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 **Changes to our privacy policy**
 
-  1. Any changes we make to this Privacy Policy in the future will be posted on this page. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Privacy Policy.
-
-
+20.Any changes we make to this Privacy Policy in the future will be posted on this page. You should bookmark and periodically review this page to ensure that you are familiar with the most current version of this Privacy Policy.
 
 **Contacting us**
 
-  1. If you have any comments, queries or requests relating to our use of your personal information or any questions about this Privacy Policy you can get in touch using the details provided on our Contact Us page.
-
-
+21.If you have any comments, queries or requests relating to our use of your personal information or any questions about this Privacy Policy you can get in touch using the details provided on our Contact Us page. The number to call us on is 0345 600 1671, with the line open from 06:00 - 23:00 with the quietest times being before 09:00 or after 17:00.
