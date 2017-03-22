@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the summitmedia.co.uk privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529135430id_/http%3A//www.summit.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the summitmedia.co.uk privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322084317id_/http%3A//www.summit.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Summit
 
