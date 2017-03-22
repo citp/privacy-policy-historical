@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the libertytax.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105111906id_/https%3A//www.libertytax.com/online/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertytax.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322203041id_/https%3A//www.libertytax.com/online/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | Liberty Tax Service
 
 Online tax preparation has never been safer or more secure.
 
+[](https://privacy.truste.com/privacy-seal/validation?rid=dd3bb72e-db88-4c63-ac69-f4a8a589409b)
+
 At JTH Tax, Inc., doing business as Liberty Tax Service (“Liberty,” “we,” or “our”), we recognize the importance of protecting your personal information. We are committed to safeguarding the privacy of your information and want you to know the protective measures we take.
 
-This Website Privacy Policy concerns the information we collect when you view our websites and our affiliated companies’ websites, including, [www.esmarttax.com](http://www.esmarttax.com/), [www.esmarttax.com/ffa](http://www.esmarttax.com/ffa), [www.freetax.com](http://www.freetax.com/), [www.libertytax.com](https://www.libertytax.com/), [www.libertytax.com/online](https://www.libertytax.com/online/), and [www.taxbrain.com](http://www.taxbrain.com/), (collectively, our “Websites”).If you come to one of our offices for tax preparation you will be subject to a separate privacy policy disclosed to you when you use those services.
+This Website Privacy Policy concerns the information we collect when you view our websites and our affiliated companies’ websites, including, [www.esmarttax.com](http://www.esmarttax.com/), [www.esmarttax.com/ffa](http://www.esmarttax.com/ffa), [www.freetax.com](http://www.freetax.com/), [www.libertytax.com](https://www.libertytax.com/), [www.libertytax.com/online](https://www.libertytax.com/online/), and [www.taxbrain.com](http://www.taxbrain.com/), (collectively, our “Websites”). It also describes your choices regarding use, access and correction of your personal information. If you come to one of our offices for tax preparation you will be subject to a separate privacy policy disclosed to you when you use those services.
 
 Liberty may also offer the ability to apply for financial products through various affiliated and non-affiliated companies. Our privacy policies, and those of our non-affiliated partners, may vary depending on the type of service or products offered. This privacy policy applies solely to our Websites.
 
-JTH Tax, Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through the following websites: [www.esmarttax.com](http://www.esmarttax.com/?webSyncID=15b1842a-7d11-c075-a70e-b0403daae7db&sessionGUID=77122c20-5d5d-6624-eb66-8bd3a22b3724), [www.esmarttax.com/ffa](http://www.esmarttax.com/ffa?webSyncID=15b1842a-7d11-c075-a70e-b0403daae7db&sessionGUID=77122c20-5d5d-6624-eb66-8bd3a22b3724), [www.freetax.com](http://www.freetax.com/), [www.libertytax.com](https://www.libertytax.com/?webSyncID=15b1842a-7d11-c075-a70e-b0403daae7db&sessionGUID=77122c20-5d5d-6624-eb66-8bd3a22b3724), [www.libertytax.com/online/](https://www.libertytax.com/online/?webSyncID=15b1842a-7d11-c075-a70e-b0403daae7db&sessionGUID=77122c20-5d5d-6624-eb66-8bd3a22b3724), and [www.taxbrain.com](http://www.taxbrain.com/).
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party resolution provider (free of charge) [here](https://feedback-form.truste.com/watchdog/request).
 
 Information We Collect
 
@@ -64,11 +64,15 @@ If you submit your personal information for the purposes of preparing and filing
 
 We may disclose your information to non-affiliated third parties that perform operational, marketing or accounting services for us. Our sharing of information may be with a financial product provider with whom we have a joint-marketing agreement or non-financial companies that provides technical services such as software services. These companies are authorized to use your personal information only as necessary to provide these services to us. Such sharing will be done in accordance with applicable law.
 
-We may also disclose or transfer your information in response to legal process such as to comply with a subpoena, or similar legal process or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, where required by applicable law, or if we are acquired by or merged with another company. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified a prominent notice on our Website(s) of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+In certain situations, JTH Tax, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+ We may also disclose or transfer your information in response to legal process such as to comply with a subpoena, or similar legal process or when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, where required by applicable law, or if we are acquired by or merged with another company. If we are involved in a merger, acquisition, or sale of all or a portion of our assets, you will be notified a prominent notice on our Website(s) of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
 
 Updating Your Information
 
-If you are using our Websites to prepare and file your tax returns, you may update your log in and password information by logging into your account or by contacting customer support at [onlinesupport@libtax.com](mailto:onlinesupport@libtax.com). Other information we collect as described in this privacy policy is not stored in an online accessible format or does not identify you personally. For all other inquiries related to your information, including updating or deactivation, deleting or no longer using your submitted information please contact us via [privacy@libtax.com](mailto:privacy@libtax.com) or by postal mail to JTH Tax, Inc. c/o Privacy, 1716 Corporate Landing Parkway, Virginia Beach, Virginia 23454. We will respond to your request within a reasonable timeframe.
+Upon request, Alipes will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information. To request this information please contact us at [](mailto:onlinesupport@libtax.com) 
+
+ If you are using our Websites to prepare and file your tax returns, you may update your log in and password information by logging into your account or by contacting customer support at [onlinesupport@libtax.com](mailto:onlinesupport@libtax.com). Other information we collect as described in this privacy policy is not stored in an online accessible format or does not identify you personally. For all other inquiries related to your information, including updating or deactivation, deleting or no longer using your submitted information please contact us via [privacy@libtax.com](mailto:privacy@libtax.com) or by postal mail to JTH Tax, Inc. c/o Privacy, 1716 Corporate Landing Parkway, Virginia Beach, Virginia 23454. We will respond to your request within a reasonable timeframe.
 
  We will retain your information for as long as your account is active or as needed to provide you services or as required under applicable law. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -88,7 +92,7 @@ Acceptance of These Terms
 
 You understand that any information you provide to us through any of the Websites shall be governed by this privacy policy. If you do not agree with these terms, you should not use the Websites. Your continued use of the Websites indicates your acceptance of these terms.  
 
-This privacy policy is effective February 29, 2016.
+This privacy policy is effective December 1, 2016.
 
 Because privacy is important, we pledge to work with you to protect and safeguard the security of your personal customer information. If this privacy policy changes, we will notify you of the changes by posting a notice on our Websites. If we make any material changes we will notify you by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
