@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the captainfussybuckets.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815040854id_/http%3A//www.captainfussybuckets.com/disclosure-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the captainfussybuckets.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323004235id_/http%3A//gingercasa.com/disclosure-privacy-policy) for the most accurate reproduction.*
 
 # Disclosure Policy - Life with Captain Fussybuckets
 
@@ -96,7 +96,5 @@ The following two tabs change content below.
   * Latest Posts
 
 
-
-#### Gena
 
 Gena and her husband live in the Dallas/ Ft. Worth, Texas area with their three sons. She is a former kindergarten teacher turned stay-at-home mom, blogger, and social media enthusiast. They love being outside, playing sports, raising chickens, cooking, crafting, and more!
