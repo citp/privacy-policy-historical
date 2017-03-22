@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vs3.com privacy policy that was archived on 2016-11-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161104185152id_/http%3A//vs3.com/privacy.php%3FPHPSESSID%3Dh2lmqcbitgt4v2dnj9d3e4tc85) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vs3.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322113108id_/http%3A//vs3.com/privacy.php%3FPHPSESSID%3Di91if89ogs87sienridmu93n23) for the most accurate reproduction.*
 
 # VS3.com - Billing Support
 
@@ -51,7 +51,7 @@ Information about our customers is an important part of our business, and we are
 
 VS Billing Support gives you access to the following information about you for the limited purpose of viewing and, in certain cases, updating that information. This list will change as our Web site evolves. 
 
-  * [Your Account](https://web.archive.org/my-account/?PHPSESSID=h2lmqcbitgt4v2dnj9d3e4tc85)
+  * [Your Account](https://web.archive.org/my-account/?PHPSESSID=fg4namvabi5m3et590a2u3hvn2)
 
 
 
