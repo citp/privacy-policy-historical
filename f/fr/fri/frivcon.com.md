@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frivcon.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216113317id_/http%3A//www.frivcon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frivcon.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323001851id_/http%3A//www.frivcon.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Frivcon Frivcon
 
