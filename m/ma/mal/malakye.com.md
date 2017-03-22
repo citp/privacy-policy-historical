@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the malakye.com privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804061954id_/https%3A//www.malakye.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the malakye.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322093302id_/https%3A//www.malakye.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
