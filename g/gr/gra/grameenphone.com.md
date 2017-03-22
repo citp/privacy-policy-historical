@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the grameenphone.com privacy policy that was archived on 2015-03-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150316174313id_/http%3A//www.grameenphone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the grameenphone.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322043453id_/https%3A//www.grameenphone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Grameenphone
 
@@ -90,7 +90,7 @@ We use "cookies" (small files placed on your hard drive) on certain of our pages
   * We use cookies to help identify you and maintain your signed-in status.
   * Most cookies are "session cookies," meaning that they are automatically deleted from your hard drive at the end of a session.
   * You are always free to decline our cookies if your browser permits, although doing so may interfere with your use of some of our sites or services.
-  * You may encounter cookies from third parties on certain pages of the sites that we do not control. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.) We use Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: http://www.google.com/privacypolicy.html.
+  * You may encounter cookies from third parties on certain pages of the sites that we do not control. (For example, if you view a web page created by another user, there may be a cookie placed by that web page.) We use Google Analytics to analyze the use of this website. Google Analytics generates statistical and other information about website use by means of cookies, which are stored on users' computers. The information generated relating to our website is used to create reports about the use of the website. Google will store this information. Google's privacy policy is available at: <http://www.google.com/privacypolicy.html>.
 
 
 
