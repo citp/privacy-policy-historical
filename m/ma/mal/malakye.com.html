@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the malakye.com privacy policy that was archived on 2016-08-04.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160804061954id_/https%3A//www.malakye.com/privacypolicy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the malakye.com privacy policy that was archived on 2017-03-22.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170322093302id_/https%3A//www.malakye.com/privacypolicy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" class="no-js"><head>
 	<meta charset="utf-8">
@@ -24,6 +24,8 @@
 <meta http-equiv="cache-control" content="no-cache">
 <meta http-equiv="expires" content="0">
 <meta http-equiv="pragma" content="no-cache">
+<meta name="googlebot" content="noarchive">
+<meta name="robots" content="noarchive">
 <meta name="google-site-verification" content="XZR_Cw5wPf3yKYg_A0hk9TDI92Ej5VuK35vm3IqxeUQ">
 <title>Privacy Policy</title>
 <link rel="publisher" href="https://plus.google.com/115618256893277198795">
@@ -42,11 +44,25 @@
 <link rel="icon" type="image/png" sizes="96x96" href="/favicon-96x96.png">
 <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
 <link rel="manifest" href="/manifest.json">
-	<link href="/bundles/commonStyles?v=154iKJUQLs0OPoxJuY76zD5i_kG1ctPPj-C3Pro6GmM1" rel="stylesheet">
 
-<link href="/bundles/pluginStyles?v=iXZCCAYW2BkoF6wU815PsSvaNuKl8qkEqsD5sUzkxLo1" rel="stylesheet">
+	<link href="/bundles/commonStyles?v=N9k2azLUi1GuU3TfLuq9wQOdyAcdb1AyTbCt8Mv5T6A1" rel="stylesheet">
 
-	<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/Bundles/baseJs?v=y1eszbajSigNkQJBXUvCZGD5xqA5jkaMFuRCu5244JA1"></script>
+<link href="/bundles/pluginStyles?v=RSvEwwlKDEXokAh8vAsE7IvnXPVDaXrcTBU4daV9pKU1" rel="stylesheet">
+
+
+	<script type="text/javascript" async="" id="inspsync" src="https://cdn.inspectlet.com/inspectlet.js"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">
+//<![CDATA[
+var __jsnlog_configure = function (JL) {
+JL.setOptions({"clientIP": "207.241.231.142",
+"requestId": "1b31697d-37fc-4a4b-bb99-98d4a83e583e",
+"enabled": true,
+"maxMessages": 2147483647});
+}; try { __jsnlog_configure(JL); } catch(e) {};
+//]]>
+</script>
+<script type="text/javascript" src="/Scripts/jsnlog.min.js"></script>
+
+	<script src="/Bundles/baseJs?v=TS6kGf2bY817y4bl9er0WrMQEQArVNjxywQ-6R4KEU41"></script>
 
 	<script>
 		(function (i, s, o, g, r, a, m) {
@@ -115,7 +131,7 @@
 						</ul>
 							<ul class="nav navbar-nav navbar-right enter-buttons">
 								<li>
-									<a class="btn btn-primary navbar-btn signUpBtn" href="/signup">Sign Up</a>
+									<a class="btn btn-primary navbar-btn signUpBtn" href="/registerindividual">Sign Up</a>
 								</li>
 								<li><a class="a-light link" data-toggle="modal" id="showLoginDialog" data-target="#loginModal" style="cursor: pointer;">Log In</a></li>
 							</ul>
@@ -130,7 +146,6 @@
 				</div>
 			</div>
 		</nav>
-
 
 <div class="modal fade" id="loginModal" tabindex="-1" role="dialog">
 	<div class="modal-dialog">
@@ -165,11 +180,11 @@
 		<input type="submit" class="btn btn-primary btn-block btn-lg" value="Login" id="loginButton">
 	</div>
 	<div class="form-group">
-		<div id="login-launch">
-			<a href="javascript:void(0);" onclick="invokeLogin();" class="btn large linkedin btn-block">Login with LinkedIn</a>
+		<div id="login-launch" style="text-align: center;">
+			<a href="javascript:void(0);" onclick="invokeLogin();">Login with LinkedIn</a>
 		</div>
 	</div>
-	<div class="text-center"><a id="forgotPasswordLink" href="javascript:void(0);" class="lnk-forgot">Forgot Password?</a> | <a href="/signup" class="lnk-forgot">Sign Up</a></div>
+	<div class="text-center"><a id="forgotPasswordLink" href="javascript:void(0);" class="lnk-forgot">Forgot Password?</a> | <a href="/registerindividual" class="lnk-forgot">Sign Up</a></div>
 </form><script type="text/javascript">
 	function invokeLogin() {
 		var chrome = 100;
@@ -201,9 +216,11 @@
 		};
 
 		if (isMobile.any()) {
-			window.open("/Account/ExternalLogIn", "_blank", options);
+			var popupMobile = window.open("/Account/ExternalLogIn", "_blank", options);
+			popupBlockerChecker.check(popupMobile);
 		} else {
-			window.open("/Account/ExternalLogIn", "login-popup", options);
+			var popup = window.open("/Account/ExternalLogIn", "login_popup", options);
+			popupBlockerChecker.check(popup);
 		}
 	};
 </script>
@@ -400,10 +417,10 @@
 					<div class="col-md-3 social">
 						SOCIALIZE WITH US
 						<div class="col-sm-12 links no-padding">
-							<a target="_blank" href="https://www.facebook.com/malakyecareers"><img src="/Content/site/newDesign/images/Facebook-color.svg" alt="facebook"></a>
-							<a target="_blank" href="https://twitter.com/@MalakyeCareers"><img src="/Content/site/newDesign/images/Twitter-color.svg" alt="twitter"></a>
-							<a target="_blank" href="https://instagram.com/malakyecareers"><img src="/Content/site/newDesign/images/Instagram-color.svg" alt="instagram"></a>
-							<a target="_blank" href="https://www.linkedin.com/company/malakye.com"><img src="/Content/site/newDesign/images/LinkedIn-color.svg" alt="linkedin"></a>
+							<a target="_blank" href="https://www.facebook.com/malakyecareers" title="Facebook"><img src="/Content/site/newDesign/images/Facebook-color.svg" alt="facebook"></a>
+							<a target="_blank" href="https://twitter.com/@MalakyeCareers" title="Twitter"><img src="/Content/site/newDesign/images/Twitter-color.svg" alt="twitter"></a>
+							<a target="_blank" href="https://instagram.com/malakyecareers" title="Instagram"><img src="/Content/site/newDesign/images/Instagram-color.svg" alt="instagram"></a>
+							<a target="_blank" href="https://www.linkedin.com/company/malakye.com" title="LinkedIn"><img src="/Content/site/newDesign/images/LinkedIn-color.svg" alt="linkedin"></a>
 						</div>
 					</div>
 				</div>
@@ -418,12 +435,12 @@
 			</div>
 		</div>
 	</div>
-	<script src="/Bundles/pluginsJs?v=daBfm2Bxu5v9D2LGC11cSqde9v3IEpZ77Pw1UBLch6c1"></script>
+	<script src="/Bundles/pluginsJs?v=fEfNwx92iKRsbMb4gCZJjuFv7BbiCzWS0nKx3B7wY4I1"></script>
 
-	<script src="/Bundles/siteJs?v=p_wqsCK0PG7rqLZy42wQ72PkZeX4yS5G0VrUhYBmbqw1"></script>
+	<script src="/Bundles/siteJs?v=U9qR481R6Bgerdhj00YNxrYjFTJSL7aWRqLMbRbsudw1"></script>
 
 	
-<script src="/Bundles/notAuthorizedJs?v=4BJOdn_J76sO2GMoQTPs6UdJU-1xMK4W4coh9hEBaxA1"></script>
+<script src="/Bundles/notAuthorizedJs?v=kVP8zaE_NaFNyvxs_KVc839H-oV0jD6DZs6ZXWNieQs1"></script>
 		<script type="text/javascript">
 			$(function () {
 				newMalakyeNotAuthorizedService.init();
@@ -431,27 +448,39 @@
 		</script>
 	<script type="text/javascript">
 		$(function () {
-			localStorage.setItem("refreshMalakyeTabs", "false");
+			var $images = $("img")
+				.filter(function () {
+					return !$(this)
+						.parents(".printSection, #suggestedPeople, #companyContainer, #JobWiresSalesReps, #dashboardSection, #adminManageJobWiresContainer, #siteFooter")
+						.length;
+				});
+			$images.each(function () {
+				$(this).attr("data-original", $(this).attr("src")).removeAttr("src");
+			});
+
+			$images.lazyload({
+				placeholder: "/Content/site/images/grey.gif",
+				effect: "fadeIn"
+			});
+
+			setLocalStorageItem("refreshMalakyeTabs", "false");
+
 			newmalakye.site.initFeedbackDialog();
 			newmalakye.site.accountService.init();
 
-			if (localStorage) {
-				$(window).off('storage').on('storage', function (e) {
-					if (localStorage.getItem("refreshMalakyeTabs") === "true" && document.hidden) {
-						window.location.reload();
-					}
-				});
-			}
+			$(window).off('storage').on('storage', function (e) {
+				if (getLocalStorageItem("refreshMalakyeTabs") == "true" && document.hidden) {
+					window.location.reload(true);
+				}
+			});
 
 			$("[data-action=logout]").off("click").on("click", function () {
 				AjaxHelper.post("/account/logout", null, function () {
-					if (localStorage) {
-						localStorage.setItem("refreshMalakyeTabs", "true");
-					}
+					setLocalStorageItem("refreshMalakyeTabs", "true");
 					window.location.href = "/";
 				});
 			});
 		});
 	</script>
-
+	
 </body></html>
