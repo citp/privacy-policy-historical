@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourtailorednews.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206015655id_/http%3A//yourtailorednews.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourtailorednews.com privacy policy that was archived on 2017-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170322122311id_/http%3A//yourtailorednews.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Your Tailored News
 
