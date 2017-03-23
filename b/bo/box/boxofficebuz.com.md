@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the boxofficebuz.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016041537id_/http%3A//boxofficebuz.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the boxofficebuz.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323022024id_/https%3A//boxofficebuz.com/privacy) for the most accurate reproduction.*
 
 # None
 
