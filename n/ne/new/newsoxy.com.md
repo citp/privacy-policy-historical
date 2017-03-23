@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newsoxy.com privacy policy that was archived on 2016-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160919215642id_/http%3A//www.newsoxy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newsoxy.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323164644id_/http%3A//www.newsoxy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - NewsOXY
 
