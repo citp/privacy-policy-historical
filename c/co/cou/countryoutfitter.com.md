@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the countryoutfitter.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122153715id_/http%3A//www.countryoutfitter.com/privacy-policy.html%3F%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the countryoutfitter.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323132233id_/https%3A//www.countryoutfitter.com/privacy-policy.html%3F%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | County Outfitter
 
@@ -6,7 +6,7 @@ Thanks for visiting! We want to assure you that your privacy is safe with us at 
 
 ## Information We Collect
 
-The countryoutfitter.com website is operated by Acumen Brands, Inc. Like most websites, countryoutfitter.com collects non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally-identifying information is to better understand how our visitors use this website. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of this website.
+Like most websites, countryoutfitter.com collects non-personally identifying information of the sort that web browsers and servers typically make available, such as the browser type, language preference, referring site, and the date and time of each visitor request. Our purpose in collecting non-personally-identifying information is to better understand how our visitors use this website. From time to time, we may release non-personally-identifying information in the aggregate, e.g., by publishing a report on trends in the usage of this website.
 
 Country Outfitter also collects potentially personally-identifying-information like Internet Protocol (IP) addresses. We do not use such information to identify our visitors, however, and do not disclose such information, other than under the same circumstances that we use and disclose personally-identifying information, as described below.
 
@@ -52,7 +52,7 @@ If you have received unwanted, unsolicited email sent via this system or purport
 
 ## Conditions of Use
 
-If you decide to visit the Country Outfitter website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Arkansas state law.
+If you decide to visit the Country Outfitter website, your visit and any possible dispute over privacy is subject to this Privacy Policy and our Terms of Use, including limitations on damages, arbitration of disputes, and application of Kansas state law.
 
 ## Privacy Policy Changes
 
