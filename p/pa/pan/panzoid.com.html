@@ -1,39 +1,71 @@
-<!--The following is the downloaded HTML source of the panzoid.com privacy policy that was archived on 2016-10-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161030070314id_/http%3A//panzoid.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the panzoid.com privacy policy that was archived on 2017-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170323143710id_/https%3A//panzoid.com/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head><link rel="Stylesheet" type="text/css" href="/css/pz.main26.css"><meta name="viewport" content="width=device-width, initial-scale=1">
+<!DOCTYPE html><html><head><link rel="Stylesheet" type="text/css" href="/css/pz.main36.css"><meta name="viewport" content="width=device-width, initial-scale=1">
     
 
     <script>
-      function navdropdown()
+
+      document.addEventListener("DOMContentLoaded", function ()
       {
-        var el = document.getElementById('header-nav');
-        el.style.display = 'block';
+        document.getElementById('header-menu').onclick = function (e)
+        {
+          var menu = document.getElementById('header-menunav');
+          if (menu.style.display !== 'flex')
+          {
+            menu.style.display = 'flex';
+            menu.focus();
+            e.stopPropagation();
+          }
+        }
+
         window.onclick = function (e)
         {
-          if (e.target.id === "nav-arrow") return;
-          el.style.display = 'none';
-          window.onclick = null;
-        };
-      }
+          var menu = document.getElementById('header-menunav');
+          if (menu.style.display !== 'none')
+          {
+            menu.style.display = 'none';
+          }
+        }
+
+        window.onkeydown = function (e)
+        {
+          if (e.keyCode === 27)
+          {
+            var menu = document.getElementById('header-menunav');
+            if (menu.style.display !== 'none')
+            {
+              menu.style.display = 'none';
+            }
+          }
+        }
+      });
+
     </script>
+
 <title>
 	Privacy Policy - Panzoid
 </title></head>
 <body>
       <div class="header">
           <div class="inner">
-              <a id="header-logo" href="/">
-                <img src="/img/logo.svg">
-              </a>
-              <a id="nav-arrow" onclick="navdropdown()">▼</a>
-              <div class="header-nav">
-                  <ul id="header-nav">
-                      <li><a href="/forum">FORUM</a></li>
-                      <li><a href="/tools">TOOLS</a></li>
-                      <li><a href="/submit">SUBMIT</a></li>
-                  </ul>
-              </div>
+
+            <div id="header-menunav" tabindex="-1" style="display:none;">
+              <a href="/" style="flex-basis:100%;"><span>Home</span></a>
+              <a href="/tools/clipmaker" style="flex-basis:33.33%;background-image: url(/img/cm_icon.png);background-position: center;background-size: cover;"><span>Clipmaker 2</span></a>
+              <a href="/tools/backgrounder3" style="flex-basis:33.33%;background-image: url(/img/bg_icon_old.png);background-position: center;background-size: cover;"><span>Backgrounder 3</span></a>
+              <a href="/tools/videoeditor" style="flex-basis:33.33%;background-image: url(/img/ve_icon.png);background-position: center;background-size: cover;"><span>Video Editor 1</span></a>
+              <a href="/templates" style="flex-basis:50%;"><span>Creations</span></a>
+              <a href="/forum" style="flex-basis:50%;"><span>Discussions</span></a>
+              <a href="/about" style="flex-basis:100%;"><span>About</span></a>
+            </div>
+
+            <a id="header-menu">
+              <img src="/img/menu.svg">
+            </a><a id="header-logo" href="/">
+              <img src="/img/logo.svg">
+            </a>
+
           </div>
       </div>
       <div class="container">
@@ -150,7 +182,7 @@
           <a href="/contact">contact</a>
           <a href="/feedback">feedback</a>
           <br>
-          copyright 2016 panzoid
+          copyright 2017 panzoid
       </div>
 
 
