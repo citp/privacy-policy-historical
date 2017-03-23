@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the squattypotty.com privacy policy that was archived on 2016-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130134501id_/http%3A//www.squattypotty.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the squattypotty.com privacy policy that was archived on 2017-03-23.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170323230541id_/https%3A//www.squattypotty.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en"><head>
         <meta charset="utf-8">
@@ -12,20 +12,25 @@
         
         
 
-        <title>Privacy Policy - Squatty Potty</title>
+        <title>Privacy Policy | Squatty Potty®</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
         
 
 	      <!-- begin Convert Experiments code-->
-        <script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script async="" src="//connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KM8BCN"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var _conv_host = (("https:" == document.location.protocol) ? "https://d9jmv9u00p0mv.cloudfront.net" : "http://cdn-1.convertexperiments.com");document.write(decodeURIComponent("%3Cscript src='" + _conv_host + "/js/10015600-10015024.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://d9jmv9u00p0mv.cloudfront.net/js/10015600-10015024.js" type="text/javascript"></script>
+        <script type="text/javascript" async="" src="https://cdn.livechatinc.com/tracking.js"></script><script src="//bat.bing.com/bat.js" async=""></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-KM8BCN"></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">var _conv_host = (("https:" == document.location.protocol) ? "https://d9jmv9u00p0mv.cloudfront.net" : "http://cdn-1.convertexperiments.com");document.write(decodeURIComponent("%3Cscript src='" + _conv_host + "/js/10015600-10015024.js' type='text/javascript'%3E%3C/script%3E"));</script><script src="https://d9jmv9u00p0mv.cloudfront.net/js/10015600-10015024.js" type="text/javascript"></script>
         <!-- end Convert Experiments code -->
-        <meta content="" name="keywords">
-        <meta content="<pre id=&quot;line1&quot;><a class=&quot;attribute-value&quot;>Privacy Policy Last modified on January 12 2012 What Information Do We Collect? We collect information from you when you register on our site place an order subscribe to our newsletter or fill out a form When ordering or registering on our site as appropriate you may be asked to enter your name e-mail</a></pre>" name="description">
+        <meta content="squatty potty privacy policy" name="keywords">
+        <meta content="Learn more about the Squatty Potty privacy policy to see what information we collect and how it is used." name="description">
 
         <meta name="google-site-verification" content="dLV21bKxmOxjeWYiGYH8wnaYYzglCDdDDgSqsGK2jgI">
         <meta name="google-site-verification" content="zdD1z3i5Ot-eAjMexn50HRSb100AKD-3HfWpLy25lUg">
         <meta name="google-site-verification" content="km8ZpSI1NjbY-wRZ7iYNaLu9sncAagQ53g5AmyMWrKY">
+        <meta name="google-site-verification" content="tEYeL01yNv_-dBAsT6ZQkRZWj37n3-3CfLWLWCRhiM4">
+        <meta name="google-site-verification" content="nHcmzf99n11aqL7uNh76WY0rCbg1YiJ7QY_cIf7S9i8">
+        <script src="//load.sumome.com/" data-sumo-site-id="ffabf6a9c99e75a91d91312661f413295c2ab3d9f0538b1f74525cf67adb337a" async="async"></script>
+
+        <meta name="msvalidate.01" content="2C4DDE36D4D0833FFE3251E458351DEB">
 
         
         <link rel="publisher" href="https://plus.google.com/+MySquattyPotty ">
@@ -37,7 +42,7 @@
         
         <link rel="stylesheet" href="/media/static/styles/font-awesome.min.css">
         <link rel="stylesheet" href="/media/static/styles/animations.css">
-        <link rel="stylesheet" href="/media/static/CACHE/css/8f427bc4d7f6.css" type="text/css">
+        <link rel="stylesheet" href="/media/static/CACHE/css/7c938cd7c3aa.css" type="text/css">
 
         
         <script type="text/javascript" src="/media/static/CACHE/js/4d54b08b7bd0.js"></script>
@@ -46,7 +51,6 @@
             $('.products .image').matchHeight(true);
             $('.products .name').matchHeight(true);
             $('.products .price-box').matchHeight(true);
-            $('.products').matchHeight(true);
 
             function price_update(){
               var $price = $(this).parents('.product').find('.price');
@@ -57,6 +61,15 @@
               } else {
                 $price.find('strong').text('$'+initial);
               }
+              var out_of_stock = $(this).find(":selected").data('out-of-stock');
+              var $add_to_cart = $(this).parents('.product').find('button[name="addcart"]');
+              if(out_of_stock){
+                $add_to_cart.prop('disabled', true);
+                $add_to_cart.text('Out of stock');
+              } else {
+                $add_to_cart.prop('disabled', false);
+                $add_to_cart.text('Add to cart');
+              }
             }
 
             var $product_selectors = $('.products [name="productname"]');
@@ -65,6 +78,10 @@
           });
         </script>
         <script src="/nexus/media/experiments/js/experiments.js"></script>
+        <script id="pixlee_script" src="https://assets.pixlee.com/assets/pixlee_events.js"></script>
+        <script type="text/javascript">
+            pixlee_analytics = new Pixlee_Analytics("StLMXuBXYZMrN8pcp4Qr");
+        </script>
         
         
         
@@ -176,6 +193,11 @@ $(function() {
             dataType : 'json',
             success : function(json) {
                 AJAX.updatestatus(json, s, '#more-cart-info .cartcount');
+                pixlee_analytics.events.trigger('add:to:cart', {
+                    'product_sku':json.sku,
+                    'quantity':json.item_count,
+                    'price':json.unit_price
+                })
             }
         });
         return false;
@@ -226,13 +248,7 @@ $(function() {
               });
             });
         </script>
-    <script async="" src="//static.hotjar.com/c/hotjar-79604.js?sv=5"></script></head>
-    <body>
-        
-        
-
-
-<script>
+        <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
     (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
     m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
@@ -241,6 +257,46 @@ $(function() {
   ga('create', 'UA-29158665-1', 'auto');
   // ga('send', 'pageview');
 </script>
+
+<!-- Google Code for Remarketing Tag -->
+<!--------------------------------------------------
+Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. See more information and instructions on how to setup the tag on: http://google.com/ads/remarketingsetup
+--------------------------------------------------->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 938592019;
+var google_custom_params = window.google_tag_params;
+var google_remarketing_only = true;
+/* ]]> */
+</script>
+<script type="text/javascript" src="//www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img height="1" width="1" style="border-style:none;" alt="" src="//googleads.g.doubleclick.net/pagead/viewthroughconversion/938592019/?guid=ON&amp;script=0"/>
+</div>
+</noscript>
+
+<!-- Facebook Pixel Code -->
+<script>
+!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
+n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
+n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
+t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
+document,'script','https://connect.facebook.net/en_US/fbevents.js');
+fbq('init', '472905589536749'); // Insert your pixel ID here.
+fbq('track', 'PageView');
+</script>
+<noscript><img height="1" width="1" style="display:none"
+src="https://www.facebook.com/tr?id=472905589536749&ev=PageView&noscript=1"
+/></noscript>
+<!-- DO NOT MODIFY -->
+<!-- End Facebook Pixel Code -->
+
+    <script async="" src="//static.hotjar.com/c/hotjar-79604.js?sv=5"></script></head>
+    <body>
+        
+        
 
 <!-- Google Tag Manager - Harmon Brothers -->
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-KM8BCN"
@@ -252,91 +308,391 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-KM8BCN');</script>
 <!-- End Google Tag Manager -->
 
-        <section class="promo-bar">
-            <div class="container">
+<script>(function(w,d,t,r,u){var f,n,i;w[u]=w[u]||[],f=function(){var o={ti:"5549691"};o.q=w[u],w[u]=new UET(o),w[u].push("pageLoad")},n=d.createElement(t),n.src=r,n.async=1,n.onload=n.onreadystatechange=function(){var s=this.readyState;s&&s!=="loaded"&&s!=="complete"||(f(),n.onload=n.onreadystatechange=null)},i=d.getElementsByTagName(t)[0],i.parentNode.insertBefore(n,i)})(window,document,"script","//bat.bing.com/bat.js","uetq");</script>
+<noscript>
+  <img src="//bat.bing.com/action/0?ti=5549691&Ver=2" height="0" width="0" style="display:none; visibility: hidden;" />
+</noscript>
+
+
+        <header>
+            
+
+
+
+
+
+
+<section class="promo-bar">
+    <div class="container">
+        
+        <div class="promo-text pull-left">
+            <a href="/free-shipping/">
+                <b>FREE SHIPPING</b>&nbsp;on orders over $19.99
+            </a>
+        </div>
+        <div class="promo-text pull-left">
+            <a href="tel:1.855.628.1099">
+                Talk to a real human (M-F, 8 AM - 5 PM MST)
+                1.855.628.1099
+            </a>
+        </div>
+        
+        <div class="pull-right">
                 
-                <div class="promo-text pull-left">
-                    <a href="/free-shipping/">
-                        <b>FREE SHIPPING</b>&nbsp;on orders over $19.99
-                    </a>
-                </div>
-                <div class="promo-text pull-left">
-                    <a href="/payment-options/" title="We Accept: Credit Cards, PayPal, &amp; Amazon.">
-                      <strong>We Accept:</strong> <i class="fa fa-lg fa-credit-card"> </i> <i class="fa fa-lg fa-paypal"> </i> <i class="fa fa-lg fa-amazon"> </i> 
-                    </a>
-                </div>
-                
-                <div class="social-media pull-right">
-                    <ul class="list-unstyled">
-                        
-                        <li class="login">
+                <div class="promo-text pull-right login">
   <a href="/accounts/login/">Login</a>
 
-</li>
-                        <li class="last cart">
-                            <i class="fa fa-shopping-cart"></i>
-                            <a href="/shop/cart/">
-                                cart
-                                
-                                    <span class="cart-count hide">
-                                        (<span class="cart-count-value">0</span> items)
-                                    </span>
-                                
-                            </a>
-                        </li>
-                    </ul>
-                </div><!-- end of social media and login links -->
-                <div class="clearfix"></div>
-            </div><!-- end of container -->
-        </section><!-- end of promo-bar-->
-
-        
-        <header>
-            <div class="container">
-                <!-- The following chunks of code are intended to be moved to a more logical place on the page, IF they are part of the paid for features and design, or REMOVED.
-                     They give the designers functional code to use in the htmling of a design for mobile-nav, newsletter, search features and login links-->
-                <div class="row">
-                    <nav class="left-top-menu col-sm-4 hidden-sm hidden-xs pull-left">
+</div>
+                <div class="promo-text pull-right last cart">
+                    <a href="/shop/cart/">
+                        <i class="fa fa-shopping-cart"></i>
+                        Cart
                         
-<ul class="None nav menu menu-1"><li class=" menu-item menu-first menu-odd dropdown-submenu "><a href="/5-problems-with-sitting-on-your-toilet/">Get Educated</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/faqs/">FAQs</a></li><li class=" menu-item menu-even  "><a href="/medical-case-studies/">Medical Case Studies</a></li><li class=" menu-item menu-odd  "><a href="/newsletter/subscribe/">Newsletters</a></li><li class=" menu-item menu-even  "><a href="/about/">The Family</a></li><li class=" menu-item menu-last menu-odd  "><a href="/videos/">Videos</a></li></ul></li><li class=" menu-item menu-last menu-even dropdown-submenu "><a href="/shop/">Shop</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/shop/product/ecco/">Ecco Original Squatty Potty Stool</a></li><li class=" menu-item menu-even  "><a href="/shop/category/gifts/">Gifts</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/good-move/">Good Move! Colon Care</a></li><li class=" menu-item menu-even  "><a href="/shop/category/merch/">Merch</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/porta-squatty-foldable/">Porta-Squatty</a></li><li class=" menu-item menu-even  "><a href="/shop/product/refresh-it-bidet/">Refresh-it Bidet</a></li><li class=" menu-item menu-odd  "><a href="/shop/category/slims/">Slim</a></li><li class=" menu-item menu-even  "><a href="/shop/product/tao-bamboo-adjustable/">Tao Bamboo</a></li><li class=" menu-item menu-last menu-odd  "><a href="/shop/product/unicorn-gold-spray/">Unicorn Gold Potty Spray</a></li></ul></li></ul>
-
-                    </nav> <!-- end of nav .top-menu -->
-
-                    <h1 class="logo col-sm-4">
-                        <a href="/">
-                            <img src="/media/static/styles/images/squatty-potty-logo.png" alt="Squatty Potty Logo" class="img-responsive">
-                        </a>
-                    </h1>
-
-                    <div class="top-contact pull-right">
-                        <p>Talk to A Real Human <a href="tel://1-855-628-1099"><b>1.855.628.1099</b></a></p>
-<p class="little">Monday thru Friday, 9am to 5pm MST</p>
-                    </div> <!-- end of .top-contact -->
-
-                    <nav class="right-top-menu col-sm-4 hidden-sm hidden-xs pull-right">
+                            <span class="cart-count hide">
+                                (<span class="cart-count-value">0</span> items)
+                            </span>
                         
-<ul class="None nav menu menu-2"><li class=" menu-item menu-first menu-odd  "><a href="/press/">Press</a></li><li class=" menu-item menu-last menu-even dropdown-submenu "><a href="/success-stories/">Reviews</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/independent-reviews/">Independent Reviews</a></li><li class=" menu-item menu-even  "><a href="/success-stories/">Success Stories</a></li><li class=" menu-item menu-last menu-odd  "><a href="/user-experience/">User Experience</a></li></ul></li></ul>
+                    </a>
+                </div>
+        </div><!-- end of social media and login links -->
+        <div class="clearfix"></div>
+    </div><!-- end of container -->
+</section><!-- end of promo-bar-->
 
-                    </nav> <!-- end of nav .top-menu -->
 
-                    <div class="clearfix"></div>
+<div class="container">
+    <!-- The following chunks of code are intended to be moved to a more logical place on the page, IF they are part of the paid for features and design, or REMOVED.
+         They give the designers functional code to use in the htmling of a design for mobile-nav, newsletter, search features and login links-->
+    <div class="row">
+        <div class="logo col-sm-4">
+            <a href="/">
+                <img src="/media/static/styles/images/squatty-potty-logo.png" alt="Squatty Potty Logo" class="img-responsive">
+            </a>
+        </div>
 
-                    <!-- Mobile Nav -->
-                    <nav class="mobile-nav hidden-lg">
-                        <div class="mobile-nav">
-                            <a href="javascript:void(0);" id="main-menu"><span><i class="fa fa-bars"></i>MENU</span></a>
-                            <div id="menu-list">
-                                
-<ul class="None nav menu menu-3"><li class=" menu-item menu-first menu-odd dropdown-submenu "><a href="#">Contact</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/contact-us/">Contact</a></li><li class=" menu-item menu-even  "><a href="/returns-and-exchanges/">Returns &amp; Exchanges</a></li><li class=" menu-item menu-last menu-odd  "><a href="/free-shipping/">Shipping &amp; Deliveries</a></li></ul></li><li class=" menu-item menu-even dropdown-submenu "><a href="#">Get Educated</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/medical-case-studies/">Medical Case Studies</a></li><li class=" menu-item menu-even  "><a href="/press/">Press</a></li><li class=" menu-item menu-odd  "><a href="/about/">The Family</a></li><li class=" menu-item menu-last menu-even  "><a href="/videos/">Videos</a></li></ul></li><li class=" menu-item menu-odd dropdown-submenu "><a href="#">Reviews</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/independent-reviews/">Independent Reviews</a></li><li class=" menu-item menu-last menu-even  "><a href="/success-stories/">Success Stories</a></li></ul></li><li class=" menu-item menu-last menu-even  "><a href="/shop/">Shop</a></li></ul>
+        <nav class="col-sm-8 hidden-sm hidden-xs pull-right">
+            <ul class="list-unstyled social">
+                <li class="square pinterest"><a href="https://www.pinterest.com/squattypotty/" target="_blank"><i class="fa fa-pinterest-p"></i></a></li>
+                <li class="square youtube"><a href="https://www.youtube.com/user/MySquattyPotty" target="_blank"><i class="fa fa-youtube"></i></a></li>
+                <li class="square instagram"><a href="http://instagram.com/squattypotty/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+                <li class="square twitter"><a href="https://twitter.com/squattypotty" target="_blank"><i class="fa fa-twitter"></i></a></li>
+                <li class="square facebook"><a href="https://www.facebook.com/squattypotty" target="_blank"><i class="fa fa-facebook"></i></a></li>
+            </ul>
+        </nav>
 
-                            </div>
-                        </div>
-                    </nav> <!-- end of nav -->
-                </div><!-- end of row -->
-            </div> <!-- end of container -->
+        <div class="clearfix"></div>
+
+        <!-- Mobile Nav -->
+        <nav class="mobile-nav visible-sm visible-xs">
+            <div class="mobile-nav">
+                <a href="javascript:void(0);" id="main-menu"><span><i class="fa fa-bars"></i>MENU</span></a>
+                <div id="menu-list">
+                    
+<ul class="None nav menu menu-3"><li class=" menu-item menu-first menu-odd  "><a href="/shop/">Shop</a></li><li class=" menu-item menu-even dropdown-submenu "><a href="/shop/category/toilet-stools/">Toilet Stools</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/shop/product/ecco/">Ecco</a></li><li class=" menu-item menu-even  "><a href="/shop/product/porta-squatty-foldable/">Porta Squatty</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/tao-bamboo-adjustable/">Tao Bamboo Adjustable</a></li><li class=" menu-item menu-last menu-even  "><a href="/shop/product/teek-slim/">Teak Slim</a></li></ul></li><li class=" menu-item menu-odd dropdown-submenu "><a href="/shop/category/unicorn-gold/">Toilet Sprays</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/shop/product/unicorn-gold-5-pack/">5-Pack</a></li><li class=" menu-item menu-even  "><a href="/shop/product/unicorn-gold-spray-citrus-squeeze/">Citrus Squeeze</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/unicorn-gold-spray-fruity-booty/">Fruity Booty</a></li><li class=" menu-item menu-even  "><a href="/shop/product/unicorn-gold-spray-mystic-forest/">Mystic Forest</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/unicorn-gold-spray-pinch-vanilla/">Pinch Of Vanilla</a></li><li class=" menu-item menu-last menu-even  "><a href="/shop/product/unicorn-gold-spray-tropical-dropsicle/">Tropical Dropsicle</a></li></ul></li><li class=" menu-item menu-even dropdown-submenu "><a href="/shop/category/bidet/">Bidets</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-last menu-odd  "><a href="/shop/product/refresh-it-bidet/">ReFresh-It Bidet</a></li></ul></li><li class=" menu-item menu-odd dropdown-submenu "><a href="/shop/category/remedies/">Remedies</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-last menu-odd  "><a href="/shop/product/good-move/">Good Move</a></li></ul></li><li class=" menu-item menu-even dropdown-submenu "><a href="/shop/category/merch/">Merchandise</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/shop/product/dookie-plush/">Dookie Plush Toy</a></li><li class=" menu-item menu-even  "><a href="/shop/product/gift-bag/">Gift Bag</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/i-pooped-today-t-shirt/">I Pooped Today T-Shirt</a></li><li class=" menu-item menu-even  "><a href="/shop/product/ice-cream-cone-shirt/">Ice Cream Cone Shirt</a></li><li class=" menu-item menu-odd  "><a href="/shop/product/type-text-shirt/">Type Text Shirt</a></li><li class=" menu-item menu-last menu-even  "><a href="/shop/product/unicorn-poop-shirt/">Unicorn Poop Shirt</a></li></ul></li><li class=" menu-item menu-odd dropdown-submenu "><a href="/about/">About Us</a><ul class="dropdown-menu menu-sub"><li class=" menu-item menu-first menu-odd  "><a href="/user-experience/">#SquattyPotty</a></li><li class=" menu-item menu-even  "><a href="/faqs/">FAQ</a></li><li class=" menu-item menu-odd  "><a href="/independent-reviews/">Independent Reviews</a></li><li class=" menu-item menu-even  "><a href="/medical-case-studies/">Medical Case Studies</a></li><li class=" menu-item menu-odd  "><a href="/press/">Press</a></li><li class=" menu-item menu-even  "><a href="/success-stories/">Success Stories</a></li><li class=" menu-item menu-last menu-odd  "><a href="/videos/">Videos</a></li></ul></li><li class=" menu-item menu-even  "><a href="/blog/">Blog</a></li><li class=" menu-item menu-active menu-last menu-odd  active"><a href="/contact-us/">Contact Us</a></li></ul>
+
+                </div>
+            </div>
+        </nav> <!-- end of nav -->
+    </div><!-- end of row -->
+</div> <!-- end of container -->
+
+
+
+
+
+<nav class="fullwidth-menu-nav hidden-xs hidden-sm">
+  <div class="container">
+    <ul id="menu-main-nav" class="fullwidth-menu nav downwards">
+      <li class="menu-item">
+        <a href="/shop/">SHOP</a>
+      </li>
+      
+      
+      <li class="menu-item menu-item-has-children">
+        <a href="/shop/category/toilet-stools/" style="text-transform: uppercase;">
+          Toilet Stools
+        </a>
+        <div class="sub-menu">
+        <div class="container">
+        <ul class="row list-unstyled">
+          
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/ecco/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/f0/af/f0af031ccd22ffc0929af325f44a0519.jpg" alt="Ecco" title="Ecco" class="img-responsive">
+              <span>Ecco</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/2-set-adjustable/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/2f/21/2f21e1cd40168045555ef23528f8b09a.jpg" alt="2.0 Set (Adjustable)" title="2.0 Set (Adjustable)" class="img-responsive">
+              <span>2.0 Set (Adjustable)</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/squatty-potty-black/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/3e/ba/3ebad24685097455db33d1d8e293ad62.jpg" alt="Squatty Potty Black" title="Squatty Potty Black" class="img-responsive">
+              <span>Squatty Potty Black</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/teek-slim/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/7b/66/7b6644b80e459723604780607048b624.png" alt="Slim with Teak Finish" title="Slim with Teak Finish" class="img-responsive">
+              <span>Slim with Teak Finish</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/squatty-potty-clear/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/02/10/0210c8717bfffa1599c64c141ce66596.jpg" alt="Squatty Potty Ghost" title="Squatty Potty Ghost" class="img-responsive">
+              <span>Squatty Potty Ghost</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/tao-bamboo-adjustable/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/f8/0d/f80d55bd59fa46c8137ad43837d4400d.jpg" alt="Tao Bamboo Adjustable" title="Tao Bamboo Adjustable" class="img-responsive">
+              <span>Tao Bamboo Adjustable</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/porta-squatty-foldable/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/bc/6f/bc6f04f9795c2342dafc1ff009479413.jpg" alt="Porta-Squatty" title="Porta-Squatty" class="img-responsive">
+              <span>Porta-Squatty</span>
+            </a>
+          </li>
+          
+        </ul>
+        </div>
+        </div>
+      </li>
+      
+      <li class="menu-item menu-item-has-children">
+        <a href="/shop/category/unicorn-gold/" style="text-transform: uppercase;">
+          Toilet Sprays
+        </a>
+        <div class="sub-menu">
+        <div class="container">
+        <ul class="row list-unstyled">
+          
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/unicorn-gold-spray-citrus-squeeze/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/d8/9d/d89dea0a4fb3d5a1b5b923c273dd9137.jpg" alt="Unicorn Gold Spray (Citrus Squeeze)" title="Unicorn Gold Spray (Citrus Squeeze)" class="img-responsive">
+              <span>Unicorn Gold Spray (Citrus Squeeze)</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/unicorn-gold-spray-fruity-booty/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/2b/de/2bde9c4ae7224078cad2d1df6c71d983.jpg" alt="Unicorn Gold Spray (Fruity Booty)" title="Unicorn Gold Spray (Fruity Booty)" class="img-responsive">
+              <span>Unicorn Gold Spray (Fruity Booty)</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/unicorn-gold-spray-mystic-forest/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/92/2d/922d17a2dd28193acf5b918a93922261.jpg" alt="Unicorn Gold Spray (Mystic Forest)" title="Unicorn Gold Spray (Mystic Forest)" class="img-responsive">
+              <span>Unicorn Gold Spray (Mystic Forest)</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/unicorn-gold-spray-pinch-vanilla/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/b9/b7/b9b790b6ef37669b1011e5889c1ee7a5.jpg" alt="Unicorn Gold Spray (Pinch of Vanilla)" title="Unicorn Gold Spray (Pinch of Vanilla)" class="img-responsive">
+              <span>Unicorn Gold Spray (Pinch of Vanilla)</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/unicorn-gold-spray-tropical-dropsicle/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/b9/e5/b9e58261613664308f19f3bf8aab1b58.jpg" alt="Unicorn Gold Spray (Tropical Dropsicle)" title="Unicorn Gold Spray (Tropical Dropsicle)" class="img-responsive">
+              <span>Unicorn Gold Spray (Tropical Dropsicle)</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/unicorn-gold-5-pack/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/8c/0c/8c0c2a4639db8c40b9b1919850fcdeeb.jpg" alt="Unicorn Gold Variety 5-pack" title="Unicorn Gold Variety 5-pack" class="img-responsive">
+              <span>Unicorn Gold Variety 5-pack</span>
+            </a>
+          </li>
+          
+        </ul>
+        </div>
+        </div>
+      </li>
+      
+      <li class="menu-item menu-item-has-children">
+        <a href="/shop/category/bidet/" style="text-transform: uppercase;">
+          Bidets
+        </a>
+        <div class="sub-menu">
+        <div class="container">
+        <ul class="row list-unstyled">
+          
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/refresh-it-bidet/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/ff/84/ff84cd78239a641c5489725744061070.png" alt="Refresh-It Bidet" title="Refresh-It Bidet" class="img-responsive">
+              <span>ReFresh-It Bidet</span>
+            </a>
+          </li>
+          
+        </ul>
+        </div>
+        </div>
+      </li>
+      
+      <li class="menu-item menu-item-has-children">
+        <a href="/shop/category/remedies/" style="text-transform: uppercase;">
+          Remedies
+        </a>
+        <div class="sub-menu">
+        <div class="container">
+        <ul class="row list-unstyled">
+          
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/good-move/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/49/2a/492aaf5a4e6da1c935179aa63ebbf50e.jpg" alt="Good Move!" title="Good Move!" class="img-responsive">
+              <span>Good Move!</span>
+            </a>
+          </li>
+          
+        </ul>
+        </div>
+        </div>
+      </li>
+      
+      <li class="menu-item menu-item-has-children">
+        <a href="/shop/category/merch/" style="text-transform: uppercase;">
+          Merchandise
+        </a>
+        <div class="sub-menu">
+        <div class="container">
+        <ul class="row list-unstyled">
+          
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/dookie-plush/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/ec/02/ec0299a90da4233e5a12f36a5ff473fe.jpg" alt="Dookie Plush Toy" title="Dookie Plush Toy" class="img-responsive">
+              <span>Dookie Plush Toy</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/ice-cream-cone-shirt/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/9c/40/9c40ecb2973198c54f5414d70fe922f0.jpg" alt="Ice Cream Cone T-Shirt" title="Ice Cream Cone T-Shirt" class="img-responsive">
+              <span>Ice Cream Cone T-Shirt</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/type-text-shirt/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/ba/e1/bae1f34c3fce36a1d1eef969a7ab2cef.jpg" alt="Type Text T-Shirt" title="Type Text T-Shirt" class="img-responsive">
+              <span>Type Text T-Shirt</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/unicorn-poop-shirt/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/13/1b/131b85dc297c6cb592af6d10284f12ee.jpg" alt="Unicorn Poop T-Shirt" title="Unicorn Poop T-Shirt" class="img-responsive">
+              <span>Unicorn Poop T-Shirt</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/i-pooped-today-t-shirt/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/ea/a2/eaa2ae4411f004372d03a53cd400b76a.jpg" alt="I Pooped Today! T-Shirt" title="I Pooped Today! T-Shirt" class="img-responsive">
+              <span>I Pooped Today! T-Shirt</span>
+            </a>
+          </li>
+          
+          <li class="menu-item col-md-2">
+            <a href="/shop/product/gift-bag/">
+              <img src="https://vw-squattypotty.storage.googleapis.com/cache/bd/03/bd03b3bde2f788cbcc8048c8c635d1fe.jpg" alt="Squatty Potty Plastic Gift Bag (Ships Flat)" title="Squatty Potty Plastic Gift Bag (Ships Flat)" class="img-responsive">
+              <span>Squatty Potty Plastic Gift Bag (Ships Flat)</span>
+            </a>
+          </li>
+          
+        </ul>
+        </div>
+        </div>
+      </li>
+      
+      <li class="menu-item menu-item-has-children">
+        <a href="/about/">ABOUT US</a>
+        <div class="sub-menu">
+        <div class="container">
+        <ul class="row list-unstyled">
+          <li class="menu-item col-md-2" style="width: 14.2857142857%;">
+            <a href="/videos/">Videos</a>
+          </li>
+          <li class="menu-item col-md-2" style="width: 14.2857142857%;">
+            <a href="/medical-case-studies/">Medical Case Studies</a>
+          </li>
+          <li class="menu-item col-md-2" style="width: 14.2857142857%;">
+            <a href="/faqs/">FAQ</a>
+          </li>
+          <li class="menu-item col-md-2" style="width: 14.2857142857%;">
+            <a href="/success-stories/">Success Stories</a>
+          </li>
+          <li class="menu-item col-md-2" style="width: 14.2857142857%;">
+            <a href="/independent-reviews/">Independent Reviews</a>
+          </li>
+          <li class="menu-item col-md-2" style="width: 14.2857142857%;">
+            <a href="/press/">Press</a>
+          </li>
+          <li class="menu-item col-md-2" style="width: 14.2857142857%;">
+            <a href="/user-experience/">#SquattyPotty</a>
+          </li>
+        </ul>
+        </div>
+        </div>
+      </li>
+      <li class="menu-item">
+        <a href="/blog/">BLOG</a>
+      </li>
+      <li class="menu-item">
+        <a href="/contact-us/">CONTACT US</a>
+      </li>
+    </ul>
+  </div>
+</nav>
+
+
+
+<link rel="stylesheet" href="/media/static/CACHE/css/cb56aa79e508.css" type="text/css">
+
+
+<script>
+  function header_and_content_padding() {
+    var $header = $('header');
+    if(getComputedStyle($header[0], null).position == "fixed") {
+      var height = $header.height();
+      $('.container.page').css('margin-top', height);
+    } else {
+      $('.container.page').css('margin-top', 0);
+    }
+  }
+  function repeat_header_and_content_padding() {
+    for (var i = 1; i<=5; i++){
+      setTimeout(header_and_content_padding, 100*i);
+    }
+  }
+  $(function(){
+    repeat_header_and_content_padding();
+    $(window).on('resize', repeat_header_and_content_padding);
+  });
+</script>
+
         </header>
-        
-        <div class="container page normal">
+        <div class="container page normal" style="margin-top: 136px;">
             
 
             
@@ -394,219 +750,138 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
         </div>
-        <div class="container page">
-        
         <footer class="full-width">
+            
 
-            <section class="white-band full-width">
-                <h1>Contact Us - Talk to A Real Human</h1>
-                <h2>Phone: 1.855.628.1099 | Fax: 1.<span>435.578.0706</span>&nbsp;| Hours: Monday thru Friday 8am - 5pm MST</h2>
-            </section>
-            <section class="main middle">
-                <article class="col-lg-3 col-md-4 store-locator">
-                    <p class="title">Store Locator</p>
-                    
 
-<ul class="list-unstyled">
-  <li>
-    <a href="http://www.squattypottyaustralia.com" target="_blank" title="Austrailia Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/australia-flag.png" alt="Austrailia">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.proctoshop.com/" target="_blank" title="Brazil Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/brazil-flag.png" alt="Brazil">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.amazon.ca/Squatty-Potty-Ecco-Stool-Experience/dp/B00AKKA0TG/ref=sr_1_1?ie=UTF8&amp;qid=1357339808&amp;sr=8-1" target="_blank" title="Canada Online Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/canada-flag-amazon.png" alt="Canada Amazon">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.cayneshousewares.com/manufacturers.php?manufacturerid=1108" target="_blank" title="Canada Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/canada-flag.png" alt="Canada">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.squattypotty.com.co/" target="_blank" title="Colombia Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/colombia-flag.png" alt="Colombia">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.squatty-potty.cz/" target="_blank" title="Czech Republic Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/czech-flag.png" alt="Czech Republic">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.perineeshop.com/s/32758_203490_squattypotty-solution-constipation-perinee" target="_blank" title="France Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/france-flag.png" alt="France">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.amazon.de/Squatty-Potty-Ecco-sp-ecco-7-wh-18cm/dp/B008G9B11E/ref=sr_1_1?ie=UTF8&amp;qid=1392673035&amp;sr=8-1&amp;keywords=squatty+potty" target="_blank" title="Germany Online Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/germany-flag.png" alt="Germany">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.squattypotty.my/" target="_blank" title="Malaysia Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/malaysia-flag.png" alt="Malaysia">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.squattypottyme.com/" target="_blank" title="Middle Eastern Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/united-arab-emirates-flag.png" alt="Middle Eastern">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.squattypotty.eu/" target="_blank" title="Netherlands Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/netherlands-flag.png" alt="Netherlands">
-    </a>
-  </li>
-  <li>
-    <a href="http://squattypotty.com.pa/" target="_blank" title="Panama Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/panama-flag.png" alt="Panama">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.squattypotty.com.pl/" target="_blank" title="Poland Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/poland-flag.png" alt="Poland">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.gtmmi.pt/index.php/loja/squatty-potty" target="_blank" title="Portugal Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/portugal-flag.png" alt="Portugal">
-    </a>
-  </li>
-  
-  <li>
-    <a href="http://www.squatty-potty.cz/" target="_blank" title="Slovakia Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/slovakia-flag.png" alt="Slovakia">
-    </a>
-  </li>
-  <li>
-    <a href="http://popo.es/" target="_blank" title="Spain Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/spain-flag.png" alt="Spain">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.squattypottythailand.com/" target="_blank" title="Thailand Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/thailand-flag.png" alt="Thailand">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.squattypotty.co.uk/" target="_blank" title="United Kingdom Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/united-kingdom-flag.png" alt="United Kingdom">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.amazon.co.uk/The-Squatty-Potty-Bamboo-Stool/dp/B006SJRTDI/ref=sr_1_1?ie=UTF8&amp;qid=1357339760&amp;sr=8-1" target="_blank" title="United Kigdom Online Global Retailer">
-      <img class="img-responsive" src="/media/static/styles/images/united-kingdom-amazon.png" alt="United Kingdom Amazon">
-    </a>
-  </li>
-  <li>
-    <a href="http://squatty-potty.it/" target="_blank">
-      <img class="img-responsive" src="/media/static/styles/images/italy-flag.png" alt="Italy">
-    </a>
-  </li>
-  <li>
-    <a href="http://www.squattypotty.eu/" target="_blank">
-      <img class="img-responsive" src="/media/static/styles/images/belgium-flag.png" alt="Belgium">
-    </a>
-  </li>
-  <li>
-    <a href="/shop/" target="_blank">
-      <img class="img-responsive" src="/media/static/styles/images/united-states-flag.png" alt="United States Global Retailer">
-    </a>
-  </li>
-  
-  <li class="button"><a href="/store-locator/">All Retailers</a></li>
-  <div class="clearfix"></div>
-</ul>
-                    <div class="clearfix"></div>
-                </article>
-                <article class="col-lg-3 col-md-4 col-sm-12 affiliate">
-                    <a href="https://www.shareasale.com/shareasale.cfm?merchantID=54647" target="_blank">
-                        <p class="title">Get paid to be a Potty Mouth?</p>
-                        <img src="/media/static/styles/images/affiliate-money.png" alt="Affiliate Money img" class="img-responsive">
-                        <p class="subtag">become an affiliate</p>
-                    </a>
-                </article>
-                <article class="col-lg-3 col-md-4 col-sm-12 about">
-                    <p class="title"><a href="/about/">Keeping it in the family.</a></p>
-                </article>
-                <article class="col-lg-3 hidden-md hidden-sm hidden-xs split">
-                    <div class="row">
-                        <div class="col-md-12 col-sm-6 col-xs-12 customer-service">
-                            <p class="title">Got a question?</p>
-                            <ul class="list-unstyled">
-                                <li><a href="/free-shipping/">Shipping &amp; Deliveries</a></li>
-                                <li class="last"><a href="/returns-and-exchanges/">Returns &amp; Exchanges</a></li>
-                            </ul>
 
-                        </div>
-                        <div class="clearfix"></div>
-                        <div class="col-xs-12 footer-social">
-                            <p class="title">Let's get social</p>
-                            <ul class="list-unstyled">
-                                <li class="square facebook"><a href="https://www.facebook.com/squattypotty" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                <li class="square twitter"><a href="https://twitter.com/squattypotty" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                <li class="square pinterest"><a href="https://www.pinterest.com/squattypotty/" target="_blank"><i class="fa fa-pinterest-p"></i></a></li>
-                                <li class="square instagram"><a href="http://instagram.com/squattypotty/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                <li class="square youtube"><a href="https://www.youtube.com/user/MySquattyPotty" target="_blank"><i class="fa fa-youtube"></i></a></li>
-                                <li class="square mail"><a href="/contact-us/"><i class="fa fa-envelope"></i></a></li>
-                            </ul>
-                            <div class="clearfix"></div>
-                        </div>
-                    </div>
-                </article>
 
-            </section>
-            <div class="clearfix"></div>
-            <article class="hidden-lg col-md-12 split">
-                <div class="row">
-                <div class="col-md-6 col-sm-6 col-xs-12 customer-service">
-                            <p class="title">Got a question?</p>
-                            <ul class="list-unstyled">
-                                <li><a href="/free-shipping/">Shipping &amp; Deliveries</a></li>
-                                <li class="last"><a href="/returns-and-exchanges/">Returns &amp; Exchanges</a></li>
-                            </ul>
-                            <div class="clearfix"></div>
-                        </div>
-                        <div class="col-md-6 col-sm-6 col-xs-12 footer-social">
-                            <p class="title">Let's get social</p>
-                            <ul class="list-unstyled">
-                                <li class="square facebook"><a href="https://www.facebook.com/squattypotty" target="_blank"><i class="fa fa-facebook"></i></a></li>
-                                <li class="square twitter"><a href="https://twitter.com/squattypotty" target="_blank"><i class="fa fa-twitter"></i></a></li>
-                                <li class="square pinterest"><a href="https://www.pinterest.com/squattypotty/" target="_blank"><i class="fa fa-pinterest-p"></i></a></li>
-                                <li class="square instagram"><a href="http://instagram.com/squattypotty/" target="_blank"><i class="fa fa-instagram"></i></a></li>
-                                <li class="square youtube"><a href="https://www.youtube.com/user/MySquattyPotty" target="_blank"><i class="fa fa-youtube"></i></a></li>
-                                <li class="square mail"><a href="/contact/"><i class="fa fa-envelope"></i></a></li>
-                            </ul>
-                            <div class="clearfix"></div>
-                        </div>
-                </div>
-            </article>
-        <div class="clearfix"></div>
-            <section class="main copy">
-                <div class="container">
-                    <article class="legal-disclaimer">
-                        <p>The Boring Legal Stuff: This web site is not designed to, and does not, provide medical advice. All content ("content"), including text, graphics, images and information available on or through this web site are for general informational purposes only. The content is not intended to be a substitute for professional medical advice, diagnosis or treatment. Never disregard professional medical advice, or delay in seeking it, because of something you have read on this web site. Never rely on information on this web site in place of seeking professional medical advice.</p>
-                    </article>
-                    <p class="copyright">
-                        <a href="/privacy-policy/">Privacy Policy</a> |
-                        <a href="/terms-and-conditions/">Terms &amp; Conditions</a> |
-                        <a href="/intellectual-property/">Intellectual Property</a>
-                    </p>
-                    <p class="copyright">
-                        © 2016 Squatty Potty. All Rights Reserved. Website developed by <a href="http://www.velocitywebworks.com/" target="_blank">Velocity Webworks</a>.
-                    </p>
-                </div>
-            </section>
-        </footer>
-        
+<div class="main-footer">
+  <div class="container">
+  <div class="row">
+    <div class="col-md-2 col-sm-3 col-xs-6">
+      <div id="text-3" class="fwidget et_pb_widget widget_text">
+        <h4 class="title">Products</h4>
+        <div class="textwidget">
+          <ul class="list-unstyled">
+            <li><a href="https://www.squattypotty.com/shop/category/toilet-stools/">Toilet Stools</a></li>
+            <li><a href="https://www.squattypotty.com/shop/category/unicorn-gold/">Toilet Sprays</a></li>
+            <li><a href="https://www.squattypotty.com/shop/category/bidet/">Bidets</a></li>
+            <li><a href="https://www.squattypotty.com/shop/category/remedies/">Remedies</a></li>
+            <li><a href="https://www.squattypotty.com/shop/category/merch/">Merchandise</a></li>
+          </ul>
+        </div>
+      </div> <!-- end .fwidget -->
+    </div>
+    <div class="col-md-2 col-sm-3 col-xs-6">
+      <div id="text-4" class="fwidget et_pb_widget widget_text">
+        <h4 class="title">About Us</h4>
+        <div class="textwidget">
+          <ul class="list-unstyled">
+            <li><a href="https://www.squattypotty.com/about/">Our Story</a></li>
+            <li><a href="https://www.squattypotty.com/blog/">Blog</a></li>
+            <li><a href="https://www.squattypotty.com/videos/">Videos</a></li>
+            <li><a href="https://www.squattypotty.com/independent-reviews/">Independent Reviews</a></li>
+            <li><a href="https://www.squattypotty.com/press/">Press</a></li>
+          </ul>
+        </div>
+      </div> <!-- end .fwidget -->
+    </div>
+    <div class="col-md-2 col-sm-3 col-xs-6">
+      <div id="text-5" class="fwidget et_pb_widget widget_text">
+        <h4 class="title">Customer Service</h4>
+        <div class="textwidget">
+          <ul class="list-unstyled">
+            <li><a href="https://www.squattypotty.com/faqs/">FAQ</a></li>
+            <li><a href="https://www.squattypotty.com/free-shipping/">Shipping Info</a></li>
+            <li><a href="https://www.squattypotty.com/faqs/">Sizing Guide</a></li>
+            <li><a href="https://www.squattypotty.com/returns-and-exchanges/">Returns &amp; Exchanges</a></li>
+            <li><a href="https://www.squattypotty.com/store-locator/">Store Locator</a></li>
+          </ul>
+        </div>
+      </div> <!-- end .fwidget -->
+    </div>
+    <div class="col-md-2 col-sm-3 col-xs-6">
+      <div id="text-6" class="fwidget et_pb_widget widget_text">
+        <h4 class="title">Squatty Potty, LLC</h4>
+        <div class="textwidget">
+          <p>
+            1664 S Dixie Dr #F-102<br>
+            St. George, UT 84770<br>
+            1.855.628.1099<br>
+            <a href="https://www.squattypotty.com/contact-us/">Email Us</a>
+          </p>
+        </div>
+      </div> <!-- end .fwidget -->
+    </div>
+    <div class="clearfix visible-xs visible-sm"></div>
+    <div class="col-md-4">
+      <div id="ctct_form-3" class="fwidget et_pb_widget ">
+        <h4 class="title">Newsletter Signup</h4>
+        <div class="ctct-form-wrapper">
+          <form class="ctct-form" id="ctct-form-82679475" action="https://www.squattypotty.com/blog/" method="post">
+            <span class="ctct-form-description"></span>
+            <p class="ctct-form-field ctct-form-field-email">
+              <label for="email___4d8f134119d6b555a1d9e4d660b42887">Email (required) <abbr title="required">*</abbr></label>
+              <input required="" type="email" name="email___4d8f134119d6b555a1d9e4d660b42887" id="email___4d8f134119d6b555a1d9e4d660b42887" value="">
+            </p>
+            <div class="ctct-optin-hide" style="display:none;">
+              <p class="ctct-form-field ctct-form-field-checkbox"></p>
+              <div class="ctct-input-container">
+                <input type="checkbox" checked="" name="ctct-opt-in" id="ctct-opt-in" value="1789703324">
+                <label for="ctct-opt-in">
+                  Example: Yes, I would like to receive emails from Squatty Potty Blog. (You can unsubscribe anytime)
+                </label>
+                <p></p>
+              </div>
+            </div><!--.ctct-optin-hide -->
+            <input type="hidden" name="ctct-id" id="ctct-id" value="295" placeholder="">
+            <input type="hidden" name="ctct-verify" id="ctct-verify" value="45cYBNZtgETAL16D25OBRuNSn" placeholder="">
+            <p class="ctct-form-field ctct-form-field-submit">
+              <input type="submit" name="ctct-submitted" id="ctct-submitted" value="Subscribe" placeholder="">
+            </p>
+            <input type="hidden" id="ctct_form" name="ctct_form" value="3eb463df71">
+            <input type="hidden" name="_wp_http_referer" value="/blog/">
+          </form>
+          <script type="text/javascript">var ajaxurl = "https://www.squattypotty.com/blog/wp-admin/admin-ajax.php";</script>
+        </div><!-- .ctct-form-wrapper -->
+      </div> <!-- end .fwidget -->
+    </div>
+  </div>
+  </div> <!-- #footer-widgets -->
+</div> <!-- #main-footer -->
+
+<div class="final-footer">
+  <div class="container">
+        <section class="main copy">
+            <div class="container">
+                <article class="legal-disclaimer">
+                    <p>The Boring Legal Stuff: This web site is not designed to, and does not, provide medical advice. All content ("content"), including text, graphics, images and information available on or through this web site are for general informational purposes only. The content is not intended to be a substitute for professional medical advice, diagnosis or treatment. Never disregard professional medical advice, or delay in seeking it, because of something you have read on this web site. Never rely on information on this web site in place of seeking professional medical advice.</p>
+                </article>
+                <p class="copyright">
+                    <a href="/privacy-policy/">Privacy Policy</a>
+                    |
+                    <a href="/terms-and-conditions/">Terms &amp; Conditions</a>
+                    |
+                    <a href="/intellectual-property/">Intellectual Property</a>
+                    |
+                    <a href="https://www.shareasale.com/shareasale.cfm?merchantID=54647" target="_blank">Affiliate Program</a>
+                </p>
+                <p class="copyright">
+                    © 2017 Squatty Potty. All Rights Reserved. Website developed by <a href="http://www.velocitywebworks.com/" target="_blank">Velocity Webworks</a>.
+                </p>
+            </div>
+        </section>
     </div><!-- container -->
-    <!-- Google Code for All Site Visitors (AdWords) 3.15 --> <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
+</div>
+
+
+
+<link rel="stylesheet" href="/media/static/CACHE/css/6d4ebc35b24a.css" type="text/css">
+
+
+        </footer>
+        <!-- Google Code for All Site Visitors (AdWords) 3.15 --> <!-- Remarketing tags may not be associated with personally identifiable information or placed on pages related to sensitive categories. For instructions on adding this tag and more information on the above requirements, read the setup guide: google.com/ads/remarketingsetup -->
 <script type="text/javascript">// <![CDATA[
 var google_conversion_id = 1011643716;
 var google_conversion_label = "xDfMCNr9t1oQxOqx4gM";
@@ -625,21 +900,6 @@ var google_remarketing_only = true;
   ga('send', 'pageview');
 </script>
 
-<!-- Facebook Pixel Code -->
-<script type="text/javascript">// <![CDATA[
-!function(f,b,e,v,n,t,s){if(f.fbq)return;n=f.fbq=function(){n.callMethod?
-n.callMethod.apply(n,arguments):n.queue.push(arguments)};if(!f._fbq)f._fbq=n;
-n.push=n;n.loaded=!0;n.version='2.0';n.queue=[];t=b.createElement(e);t.async=!0;
-t.src=v;s=b.getElementsByTagName(e)[0];s.parentNode.insertBefore(t,s)}(window,
-document,'script','//connect.facebook.net/en_US/fbevents.js');
-
-fbq('init', '422711587931190');
-fbq('track', 'PageView');
-// ]]></script>
-<noscript><img height="1" width="1" style="display:none"
-src="https://www.facebook.com/tr?id=422711587931190&ev=PageView&noscript=1"
-/></noscript><!-- End Facebook Pixel Code -->
-
 <!-- Yahoo Conversion Code -->
 <img src="https://sp.analytics.yahoo.com/spp.pl?a=10001402604080&amp;.yp=421025&amp;js=no" width="1" height="1">
 
@@ -655,26 +915,41 @@ src="https://www.facebook.com/tr?id=422711587931190&ev=PageView&noscript=1"
     })(window,document,'//static.hotjar.com/c/hotjar-','.js?sv=');
 </script>
 
-    
+        
     <script type="text/javascript" charset="utf-8">
         experiments.confirm_human();
     </script>
 
 
-    
-    <!-- Start of LiveChat (www.livechatinc.com) code -->
-    <script type="text/javascript">
-      if ($(window).width() >= 768) {
-    window.__lc = window.__lc || {};
-    window.__lc.license = 7614671;
-    (function() {
-        var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
-        lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
-        var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
-    })();
-      }
-    </script>
-    <!-- End of LiveChat code -->
+        
+        <!-- Start of LiveChat (www.livechatinc.com) code -->
+        <script type="text/javascript">
+          if ($(window).width() >= 768) {
+            window.__lc = window.__lc || {};
+            window.__lc.license = 7614671;
+            (function() {
+              var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+              lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+              var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+            })();
+          }
+        </script>
+        <!-- End of LiveChat code -->
+		<!--SteelHouse Tracking Pixel-->
+
+		<!-- INSTALL ON ALL PAGES OF SITE-->
+
+		<script type="text/javascript" src="https://dx.steelhousemedia.com/spx?dxver=4.0.0&amp;shaid=19820&amp;tdr=&amp;plh=https%3A%2F%2Fweb.archive.org%2Fweb%2F20170323230541id_%2Fhttps%3A%2F%2Fwww.squattypotty.com%2Fprivacy-policy%2F&amp;cb=38539439957314130"></script><script type="text/javascript">
+
+		(function(){"use strict";var e=null,b="4.0.0",
+
+		n="19820",
+
+		additional="",
+
+		t,r,i;try{t=top.document.referer!==""?encodeURIComponent(top.document.referrer.substring(0,2048)):""}catch(o){t=document.referrer!==null?document.referrer.toString().substring(0,2048):""}try{r=window&&window.top&&document.location&&window.top.location===document.location?document.location:window&&window.top&&window.top.location&&""!==window.top.location?window.top.location:document.location}catch(u){r=document.location}try{i=parent.location.href!==""?encodeURIComponent(parent.location.href.toString().substring(0,2048)):""}catch(a){try{i=r!==null?encodeURIComponent(r.toString().substring(0,2048)):""}catch(f){i=""}}var l,c=document.createElement("script"),h=null,p=document.getElementsByTagName("script"),d=Number(p.length)-1,v=document.getElementsByTagName("script")[d];if(typeof l==="undefined"){l=Math.floor(Math.random()*1e17)}h="dx.steelhousemedia.com/spx?"+"dxver="+b+"&shaid="+n+"&tdr="+t+"&plh="+i+"&cb="+l+additional;c.type="text/javascript";c.src=("https:"===document.location.protocol?"https://":"http://")+h;v.parentNode.insertBefore(c,v)})()
+
+		</script>
     
 
 </body></html>
