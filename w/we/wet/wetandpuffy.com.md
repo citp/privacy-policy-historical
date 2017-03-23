@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wetandpuffy.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122014841id_/http%3A//www.wetandpuffy.com/misc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wetandpuffy.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323031849id_/https%3A//www.wetandpuffy.com/misc/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Wetandpuffy.com
 
@@ -16,6 +16,6 @@ To prevent unauthorized access, maintain data accuracy, and ensure the correct u
 
 To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
 
-You assures to have all rights for the submission of data and their publication to the system of Wetandpuffy.com. You agree to save harmless Wetandpuffy.com from all costs, which result from offences against it.
+You assures to have all rights for sending data and their publication to the system of Wetandpuffy.com. You agree to save harmless Wetandpuffy.com from all costs, which result from offences against it.
 
 Should you have other questions or concerns about these privacy policies, please send an email: [support@wetandpuffy.com](mailto:support@wetandpuffy.com).
