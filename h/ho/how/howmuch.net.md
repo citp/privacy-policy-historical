@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the howmuch.net privacy policy that was archived on 2016-09-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160914145450id_/https%3A//howmuch.net/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the howmuch.net privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323101341id_/https%3A//howmuch.net/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
