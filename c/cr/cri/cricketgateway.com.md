@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the cricketgateway.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410071129id_/https%3A//cricketgateway.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cricketgateway.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323031846id_/https%3A//www.cricketgateway.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Cricket gateway
-
-#### Privacy Policy 
+# Privacy Policy | Cricketgateway.com
 
 ## Privacy 
 
@@ -59,7 +57,7 @@ You agree that if so required by law or as per directions of the governmental ag
 
 ## Grievances
 
-In the event you have any grievances relating to the Policy, please inform us within 24 hours of occurrence of the instance from which the grievance has arisen, by writing an email to support@followon.in. We shall respond to all grievances lodged with us through emails, telephone calls as the case be. 
+In the event you have any grievances relating to the Policy, please inform us within 24 hours of occurrence of the instance from which the grievance has arisen, by writing an email to [support@cricketgateway.com](mailto:support@cricketgateway.com). We shall respond to all grievances lodged with us through emails, telephone calls as the case be. 
 
 ## Amendments
 
@@ -67,10 +65,13 @@ The internet is a fast evolving medium and changes to the policy may be necessar
 
 ## Questions and Suggestions 
 
-If you have any questions or suggestions or wish to make a compliant you can contact us at support@followon.in, contact@followon.in write to us at the following address: 
+If you have any questions or suggestions or wish to make a compliant you can contact us at [support@cricketgateway.com](mailto:support@cricketgateway.com) write to us at the following address: 
 
-|  Followon Interactive Media   
-#38, Developed Plot Industrial Estate,   
-Perungudi, Chennai – 96, India   
+|  Techfront International Fze Office   
+# 801 Yes Business Centre   
+Al Barsha 1,   
+Near Mall of Emirates  
+P. O. Box 117417,   
+Dubai, U.A.E.  
   
 ---|---
