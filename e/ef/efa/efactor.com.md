@@ -1,125 +1,42 @@
-> *The following text is extracted and transformed from the efactor.com privacy policy that was archived on 2015-02-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150210191442id_/http%3A//privacy-policy.truste.com/verified-policy/www.efactor.com) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the efactor.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323222323id_/https%3A//d4nl1s1t1bp20.cloudfront.net/files/privacy_statement.pdf) for the most accurate reproduction.*
 
-# Privacy Policy for www.efactor.com
+# Privacy Statement
 
-Effective on November 13, 2009 
-
-This privacy statement describes how E.Factor Corp. collects and uses the personal information you provide on our Web site: [www.efactor.com ](https://www.efactor.com/). It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
-
-**TRUSTe**
-
-E.Factor Corp. is a Participant in the TRUSTe Privacy Seal Program. TRUSTe is an independent organization whose mission is to advance privacy and trust in the networked world. This Web site has agreed to have its privacy practices monitored for compliance by TRUSTe.
-
-If you have questions or concerns regarding this policy, you should first contact us at [membersupport@efactor.com ](mailto:membersupport@efactor.com). If you do not receive acknowledgment of your inquiry, or if your inquiry has not been satisfactorily addressed, you should then contact [TRUSTe](http://www.truste.org/consumers/watchdog_complaint.php). TRUSTe will then serve as a liaison with the Web site to resolve your concerns.
-
-## Collection and Use of Personal Information
-
-We collect the following personal information from you
-
-  * Contact Information such as name, email address, mailing address, phone number
-  * Unique Identifiers such as user name, account number, password
-
-
-
-We also collect the following information from you
-
-  * Information about your business such as company name, company size, business type
-
-
-
-As is true of most Web sites, we automatically gather information about your computer such as your IP address, browser type, referring/exit pages, and operating system.
-
-We use this information to
-
-  * Fulfill your order
-  * Send you an order confirmation
-  * Send you requested product or service information
-  * Respond to customer service requests
-  * Administer your account
-  * Send you a newsletter
-  * Send you marketing communications
-  * Respond to your questions and concerns
-  * Conduct research and analysis
-
-
-
-**Choice/Opt-Out**
-
-You may choose to stop receiving our newsletter or marketing emails by following the unsubscribe instructions included in these emails or you can contact us at [membersupport@efactor.com ](mailto:membersupport@efactor.com).
-
-**Information Obtained from Third Parties**
-
-If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
-
-## Information Sharing
-
-We will share your personal information with third parties only in the ways that are described in this privacy statement. We do not sell your personal information to third parties.
-
-We may provide your personal information to companies that provide services to help us with our business activities such as shipping your order or offering customer service. These companies are authorized to use your personal information _only as necessary to provide_ these services to us.
-
-We may also disclose your personal information
-
-  * as required by law such as to comply with a subpoena, or similar legal process
-  * when we believe in good faith that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request, 
-  * if E.Factor Corp. is involved in a merger, acquisition, or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information, 
-  * to any other third party with your prior consent to do so.
-
-
-
-_PayPal_
-
-If you choose to use PayPal to finalize and pay for your order, you will provide your credit card number, directly to PayPal. PayPal's privacy policy will apply to the information you provide on the PayPal Web site.
-
-_Third Party E-Commerce Solutions Provider_
-
-Our shopping cart is hosted by our e-commerce solutions provider. They host our ordering system, and collect your billing information directly from you for the purpose of processing your order. This company does not use this information for any other purpose. 
-
-## Cookies and Other Tracking Technologies
-
-We may use cookies, for example, to keep track of your preferences and profile information. Cookies are also used to collect general usage and volume statistical information that does not include personal information.
-
-We use another company to place cookies on your computer to collect non-personally identifiable information to compile aggregated statistics for us about visitors to our site.
-
-_Web beacons_
-
-Our Web pages contain electronic images known as Web beacons (sometimes called single-pixel gifs) and are used along with cookies to compile aggregated statistics to analyze how our site is used and may be used in some of our emails to let us know which emails and links have been opened by recipients. This allows us to gauge the effectiveness of our customer communications and marketing campaigns.
-
-Our Web pages may also contain electronic images known as Web beacons (sometimes called single-pixel gifs) that are set by our third party partners. Web beacons are used along with cookies enabling our partners to compile aggregated statistics to analyze how our site is used.
-
-We use a third party to gather information about how you and others use our Web site. For example, we will know how many users access a specific page and which links they clicked on. We use this aggregated information to understand and optimize how our site is used.
-
-_Links to Other Web Sites_
-
-Our Site includes links to other Web sites whose privacy practices may differ from those of E.Factor Corp.. If you submit personal information to any of those sites, your information is governed by their privacy statements. We encourage you to carefully read the privacy statement of any Web site you visit. 
-
-## Security
-
-The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security. If you have any questions about security on our Web site, you can contact us at [membersupport@efactor.com ](mailto:membersupport@efactor.com)
-
-We provide two means for you to make a purchase on our site. You can either use our order form or a third party payment option. If you use our shopping cart, the transmission of sensitive information collected on our order form is encrypted using secure socket layer technology (SSL). If you choose to use a third party payment option to pay for your order, its privacy statement and security practices will apply to your information. We encourage you to read that privacy statement before providing your information.
-
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at [membersupport@efactor.com](mailto:membersupport@efactor.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements. 
-
-## Additional Policy Information
-
-Our Web site includes Widgets, which are interactive mini-programs that run on our site to provide specific services from another company (e.g. displaying the news, opinions, music, etc). Personal information, such as your email address, may be collected through the Widget. Cookies may also be set by the Widget to enable it to function properly. Information collected by this Widget is governed by the privacy policy of the company that created it. 
-
-Our Web site offers publicly accessible blogs or community forums. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
-
-**Correcting and Updating Your Personal Information**
-
-To review and update your personal information to ensure it is accurate, contact us at [membersupport@efactor.com ](mailto:membersupport@efactor.com).
-
-**Notification of Privacy Statement Changes**
-
-We may update this privacy statement to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
-
-You can contact us about this privacy statement by writing or email us at the address below:
-
-E.Factor Corp. 
-
-870 Market Street Suite 828 
-
-San Francisco, CA, United States 94102
-
-Phone: +1 650 380 8280
+   PART OF THE ELEQT GROUP LTD
+Privacy Statement
+As RocketHub is a community that is all about trust we feel it is important to share our privacy policy with
+you. If you have any questions about this policy we can be reached by email at support@RocketHub.com, or
+alternatively you can contact us at: Privacy Policy Issues c/o RocketHub at Hoogstraat 20-22, Willemstad,
+Curaçao.
+Information We Collect
+When you become a member of RocketHub we will collect some personal information from you such as:
+name, email address, country, location, occupation, schools attended etc.
+How We Collect?
+Some of the information we receive is through the registration process. When you agree to become an
+RocketHub member we ask you to provide this personal information. Additionally, we use other
+technologies to recognize you and uniquely identify your browser. Most browsers are initially set up to share
+your location, but you can reset your browser to refuse to share your location or to indicate when a cookie is
+being sent. We also automatically receive such information as IP address, your type of browser and ISP.
+Why We Collect?
+This information allows us to customize your experience and the advertisements you see, to store your
+preferences and record session information. The information we collect is used for internal review to
+improve the content of our Website, to conduct research and analysis to help improve your experience, to
+ensure the technical functionality of our network, and to create and develop new ideas and services for our
+members. If you do not want to receive e-mail from us in the future, please let us know by sending us an e-
+mail to this address: support@RocketHub.com. We will use your email to communicate with you and notify
+you of promotional happenings such as events and other special offers such as discounts from our brand
+partners. If you supply us with your postal address on-line you may receive periodic mailings from us with
+information on new products and services or upcoming events. If you do not wish to receive such mailings,
+please let us know by emailing us at support@RocketHub.com. Please provide us with your exact name and
+address if you write to us. We will make sure your name is removed. From time to time, we may use
+personal information for new, unanticipated uses not previously disclosed in our privacy notice. In such
+event, we will post the policy changes to our Web site to notify you of these changes and we will use for
+these new purposes only data collected from the time of the policy change forward. If you are concerned
+about how your information is used, you should check back at our Web site periodically. We reserve the
+right to revise or update this policy at any time. We may disclose and use personally identifiable and other
+information in special circumstances where it is necessary to enforce our terms and conditions, policies and
+agreements, to detect, prevent, or otherwise address fraud, security or technical issues, and to protect
+against imminent harm to the rights, property or safety of RocketHub. We may also disclose and use
+personally identifiable and other information when we, in good faith, believe that the law requires us to do
+so. This policy became effective September 23, 2008 as the ELEQT Group LTD privacy policy and was
+amended for RocketHub brand references on November 1, 2016.
