@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sporttechie.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202182807id_/http%3A//www.sporttechie.com/about/sporttechie-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sporttechie.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323034941id_/http%3A//www.sporttechie.com/about/sporttechie-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - SportTechie
 
-SportTechie, LLC (“SportTechie”) recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with information about our privacy practices. This Privacy Policy applies when you use our website and/or register for our email newsletter (the “Services”) but does not apply to our use of information you provide if you call, write, or communicate with us in any manner other than through the Services.
+SportTechie Inc. (“SportTechie”) recognizes the importance of protecting the privacy of your personal information, and we have prepared this Privacy Policy to provide you with information about our privacy practices. This Privacy Policy applies when you use our website and/or register for our email newsletter (the “Services”) but does not apply to our use of information you provide if you call, write, or communicate with us in any manner other than through the Services.
 
 This Privacy Policy is effective as of August 1, 2016 and covers the following:
 
