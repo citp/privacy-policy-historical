@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fuckuh.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122164506id_/http%3A//www.fuckuh.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fuckuh.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323181252id_/http%3A//fuckuh.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Fuckuh - Porn Videos Tube, XXX, Sex
 
