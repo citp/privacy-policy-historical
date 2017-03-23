@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lyst.ca privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226235613id_/https%3A//www.lyst.ca/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lyst.ca privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323025838id_/https%3A//www.lyst.ca/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
