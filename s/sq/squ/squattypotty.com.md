@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the squattypotty.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130134501id_/http%3A//www.squattypotty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the squattypotty.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323230541id_/https%3A//www.squattypotty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Squatty Potty
+# Privacy Policy | Squatty Potty®
 
 #### Last modified on January 12, 2012
 
