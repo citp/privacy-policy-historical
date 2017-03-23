@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sugarspunrun.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612044430id_/http%3A//sugarspunrun.com/contact/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sugarspunrun.com privacy policy that was archived on 2017-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170323085357id_/http%3A//sugarspunrun.com/contact/privacy-policy) for the most accurate reproduction.*
 
 # Policies, Disclosure & Privacy - Sugar Spun Run
 
-This is a personal blog written and maintained by me, Samantha Merritt.  All opinions are my own.  Please contact me at www.sugarspunrunner@gmail.com with any questions about this website.
+This is a personal blog written and maintained by me, Samantha Merritt.  All opinions are my own.  Please contact me at Samantha@Sugarspunrun.com with any questions about this website.
 
 **AFFILIATE DISCLOSURE**
 
@@ -16,7 +16,7 @@ Sugar Spun Run is currently affiliated with amazon.com, an affiliate advertisi
 
 **COPYRIGHT**
 
-© SugarspunRun. All images and content are copyright protected. Unauthorized use and/or duplication of this material without express and written permission from this blog’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given with appropriate and specific direction to the original content.
+© SugarSpunRun. All images and content are copyright protected. Unauthorized use and/or duplication of this material without express and written permission from this blog’s author and/or owner is strictly prohibited. Excerpts and links may be used, provided that full and clear credit is given with appropriate and specific direction to the original content.
 
 If you are looking to get permission to use a photo from my site for a round-up, please feel free to do so as long as you clearly link back to the specific post that the image is from, and I ask that you do not alter the image.  Please do not share the recipe along with the image.
 
@@ -88,6 +88,3 @@ We will not sell, distribute or lease your personal information to third parties
 For information about opting out of Gourmet Ads and ad serving partners please visit <http://www.gourmetads.com/about/privacy-policy>
 
 If you believe that any information we are holding on you is incorrect or incomplete, please contact us.
-
-  
-
