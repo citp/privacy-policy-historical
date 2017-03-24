@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinleague.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909025754id_/https%3A//www.tailwindapp.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinleague.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324193046id_/https%3A//www.tailwindapp.com/about/privacy) for the most accurate reproduction.*
 
 # Tailwind Privacy Policy
 
