@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the mamasgotittogether.com privacy policy that was archived on 2016-08-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160812080636id_/http%3A//www.mamasgotittogether.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mamasgotittogether.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324143257id_/https%3A//www.planninginspired.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Mama's Got It Together
+# Privacy Policy - Planning Inspired
 
-This Privacy Policy governs the manner in which Mama’s Got It Together collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.mamasgotittogether.com](http://www.mamasgotittogether.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mama’s Got It Together.
+This Privacy Policy governs the manner in which Mama’s Got It Together collects, uses, maintains and discloses information collected from users (each, a “User”) of the [https://www.planninginspired.com](https://www.planninginspired.com/) website (“Site”). This privacy policy applies to the Site and all products and services offered by Mama’s Got It Together.
 
 **Personal identification information**
 
@@ -66,10 +66,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Mama’s Got It Together](http://www.mamasgotittogether.com/)  
-[http://www.mamasgotittogether.com](http://www.mamasgotittogether.com/)  
+[Mama’s Got It Together](https://www.planninginspired.com/)  
+[https://www.planninginspired.com](https://www.planninginspired.com/)  
 sarahwhite0513@yahoo.com
 
 This document was last updated on September 28, 2014
-
-\ 
