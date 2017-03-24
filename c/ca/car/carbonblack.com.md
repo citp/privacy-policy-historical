@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the carbonblack.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019133212id_/https%3A//www.carbonblack.com/license-agreements/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the carbonblack.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324160604id_/https%3A//www.carbonblack.com/license-agreements/privacy-policy) for the most accurate reproduction.*
 
 # Carbon Black Privacy Policy - Carbon Black
 
