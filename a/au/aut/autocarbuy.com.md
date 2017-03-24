@@ -1,53 +1,59 @@
-> *The following text is extracted and transformed from the autocarbuy.com privacy policy that was archived on 2014-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141117093007id_/http%3A//www.autocarbuy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the autocarbuy.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324194423id_/http%3A//autocarbuy.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy - Auto Car Buy
 
-This Privacy Statement applies to AutoCarBuy and any affiliate website that links to this Notice. This explains how AutoCarBuy collects uses and shares the information from or regarding you as you visit a site, gives information on how advertisements are done, both on the Site and other websites, and how information is collected based on interactions with the online ads. In addition to the Notice, depending on the relationship with AutoCarBuy, you may receive and be under the coverage of AutoCarBuy, other privacy disclosures within account opening documents and other privacy and security rules as applicable to the relevant affiliate.
+[ ](http://autocarbuy.com/)
 
-**Information Gathering**  
-When you visit the Site, categories of information may be gathered, including personal information that are provided via forms, applications, surveys, or other online fields We can also collect information about you from online browsing and transactions, including preferences pages visited and technical information regarding your settings. Personal information means identifiable information and does not include aggregated date that the site could create or compile from various sources, including transactions and accounts. This information which does not single out individual customers is used by our site for business purposes, including offering services or products, research, marketing or analyzing market trends and other purposes in congruence to existing laws.
+**Privacy**
 
-**Cookies**  
-These are pieces of information stored on the computer upon use. The AutoCarBuy or the third party service providers, as well as advertising service providers, may place cookies or Flash objects on the hard drive for security purposes for the facilitation of site navigation and personalization of the experience.  
-In visiting AutoCarBuy, we use cookies to go over your experience of the site. In applying for a product on one of our sites, we would use cookies to remember you and to provide information on products and services best fitting your needs. If you have an account with us and you access your accounts online, we will maintain the information about your visits to personalize your browsing experience, and the services and products offered. If you do not have an account with us and wish not for us to maintain the information, delete the cookies. For this, you would need to follow the browser’s instructions for deleting and disabling cookies.
+This privacy policy sets out how Auto Car Buy uses and protects any information that you give Auto Car Buy when you use Auto Car Buy. Auto Car Buy is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using Auto Car Buy, then you can be assured that it will only be used in accordance with this privacy statement. Auto Car Buy may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from 1st of August, 2012.
 
-**IP Addresses**  
-The IP address is a number assigned to the Internet accessing network or computer. Visitors’ IP addresses are stored in our log as they visit the site. These IP address are collected for administration of the system, reporting aggregate information, and auditing Site visits. In addition, some features of our site display IP address together with name and message, like on forums.
+**What we collect  
+**We may collect the following information:
 
-**Advertising**  
-The site advertises on pages within the site as well as other websites not affiliated with AutoCarBuy. Information collected in our advertising service providers though cookies and other technologies would include the number of people who look at each page on the site, browsing patterns within the site, search engine referrals, browsing patterns in the Sites and responses to promotions and advertisements on the sites where we advertise.
+  * name and job title
+  * contact information including email address
+  * demographic information such as postcode, preferences and interests
+  * other information relevant to customer surveys and/or offers
 
-**Online surveys**  
-Time to time, you can be asked to do online surveys. You do not have the requirement to do such; but these are used to gather information to better address your needs. Based on this, we can keep you updated on account and service.
 
-**Planning tools**  
-AutoCarBuy gives users visiting websites with many planning tools, including mortgage, savings and plans for retirement. The information placed into these tools could be used for future access and use. We will inform you when the information is to be planned to stored, and you can have the option for this information not to be saved.
 
-**Using and Sharing Information**  
-There would be times that AutoCarBuy could make information available to third parties that could be financial and nonfinancial companies not related through common ownership or control, including service providers, insurance agencies, credit bureaus, retailers, membership organizations, government agencies, legal investigators, courts and other non-affiliated third parties as requested by you or your authorized representative, or otherwise when required or allowed by law. Unless differently describe in the Notice, for US account holders, we will use and share any information collected from or about you covered by the Notice in keeping with the Privacy Notice , providing consumers additional direct marketing choices.
+**  
+What we do with the information we gather  
+**We require this information to understand your needs and provide you with a better service, and in particular for the following reasons:
 
-**Social Media Connection**  
-The AutoCarBuy provides experiences on social media platforms, enabling online sharing and collaboration with users. Any content posted, including pictures, information, opinions and other personal information made available to these platforms is subject to the Terms of Use and Privacy Policies of the Platforms. Kindly refer to these to understand you rights in keeping with the content.
+  * Internal record keeping.
+  * We may use the information to improve our products and services.
+  * We may periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided.
+  * From time to time, we may also use your information to contact you for market research purposes. We may contact you by email, phone, fax or mail. We may use the information to customize the website according to your interests.
 
-**Children’s Privacy**  
-Most of our publications and web sites are intended for adults. Some web sites and publications, however, are intended for teens 13 and older but may include features or material that may be appealing to children under the age of 13. We are strongly committed to protecting the safety and privacy of children who visit our Web sites. We do not knowingly collect personal information online from children under 13. Many of our sites include bulletin boards and other features that we believe are unsuitable for children under 13 and which are not necessarily monitored. We encourage all parents to talk to their kids about online safety and to monitor their children’s use of the Internet
 
-**Accuracy of Information**  
-Keeping account information accurate and updated is essential. If the account information is inaccurate or incomplete, kindly use the Contact Us link on our site, call to inform us at the correct address or telephone numbers for changes in the account statements, records, online or other account materials.
 
-**Linking to other sites**  
-We could provide link to sites not related to our service, including merchants and credit bureaus. If you follow links to websites not controlled by AutoCarBuy, you should go over the privacy policies and other terms, as they could diverge from other sites. AutoCarBuy will not guarantee and will not be responsible for the security or privacy of the said websites, including the completeness or accuracy of said information.
+**  
+Security  
+**We are committed to ensuring that your information is secure. In order to prevent unauthorized access or disclosure we have put in place suitable physical, electronic and managerial procedures to safeguard and secure the information we collect online.
 
-**How We Use Information**  
-Information that we collect about our users is used to enable certain services and website features. When a user agrees to receive our newsletter, their e-mail address is kept on file. We also use your user data to provide access to message boards and other website tools. Personal information is not released unless it is required by law.
+**  
+How we use cookies  
+**A cookie is a small file which asks permission to be placed on your computer’s hard drive. Once you agree, the file is added and the cookie helps analyze web traffic or lets you know when you visit a particular site. Cookies allow web applications to respond to you as an individual. The web application can tailor its operations to your needs, likes and dislikes by gathering and remembering information about your preferences. We use traffic log cookies to identify which pages are being used. This helps us analyze data about webpage traffic and improve our website in order to tailor it to customer needs. We only use this information for statistical analysis purposes and then the data is removed from the system. Overall, cookies help us provide you with a better website, by enabling us to monitor which pages you find useful and which you do not. A cookie in no way gives us access to your computer or any information about you, other than the data you choose to share with us. You can choose to accept or decline cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. This may prevent you from taking full advantage of the website.
 
-**Analyzing Statistical Data**  
-User data is used to analyze services to make improvements to the site. General details pertaining to the user base of our site is provided to advertisers. Information that is used includes statistical and analytics about users.
+**  
+Links to other websites  
+**Our website may contain links to other websites of interest. However, once you have used these links to leave our site, you should note that we do not have any control over that other website. Therefore, we cannot be responsible for the protection and privacy of any information which you provide whilst visiting such sites and such sites are not governed by this privacy statement. You should exercise caution and look at the privacy statement applicable to the website in question.
 
-**Service Customization**  
-Target advertising to users is provided by the information collected about users. This is to allows all the pertinent advertising to be displayed. Customization of certain website features we provide is done with the information that is collected.
+**  
+Controlling your personal information  
+**You may choose to restrict the collection or use of your personal information in the following ways: **  
+** whenever you are asked to fill in a form on the website, look for the box that you can click to indicate that you do not want the information to be used by anybody for direct marketing purposes ** ** if you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to us via our Contact Form.
 
-**Third-Parties**  
-Third-parties are contracted for specific services such as credit card processing and list generation. Any information that is required to perform these services is provided to the service provider.
+We will not sell, distribute or lease your personal information to third parties unless we have your permission or are required by law to do so. We may use your personal information to send you promotional information about third parties which we think you may find interesting if you tell us that you wish this to happen. You may request details of personal information which we hold about you under the Data Protection Act 1998. A small fee will be payable. If you would like a copy of the information held on you please contact us. If you believe that any information we are holding on you is incorrect or incomplete, please write to or email us as soon as possible, at the above address. We will promptly correct any information found to be incorrect.
 
-We use third-party advertising companies to serve ads and collect data when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site, other sites, and other forms of media about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please see:  **<http://www.networkadvertising.org/managing/opt_out.asp>**
+**Third-party online advertising**
+
+Some of the advertisements you see on the Site are selected and delivered by third parties, such as ad networks, advertising agencies, advertisers, and audience segment providers. These third parties may collect information about you and your online activities, either on the Site or on other websites, through cookies, web beacons, and other technologies in an effort to understand your interests and deliver to you advertisements that are tailored to your interests.
+
+Please remember that Auto Car Buy does not have access to, or control over, the information these third parties may collect. The information practices of these third parties are not covered by this privacy policy.
+
+These third parties may offer you a way to choose not to have your information used for advertising purposes. For example, some of these companies are members of the Network Advertising Initiative (“NAI”), which provides a single location where you can opt out of receiving targeted ads from member companies. To opt out, please visit the NAI’s website at http://www.networkadvertising.org/managing/opt_out.asp. 
+
+Please note that if you choose to opt out of having your information used to deliver advertisements tailored to your interests, you will continue to see advertisements on the Site, but these advertisements may not be as relevant to you.
