@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the roomstogokids.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123120546id_/http%3A//www.roomstogokids.com/content/Customer-Service/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the roomstogokids.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324081825id_/http%3A//www.roomstogokids.com/content/Customer-Service/Privacy) for the most accurate reproduction.*
 
 # Rooms To Go Kids
 
