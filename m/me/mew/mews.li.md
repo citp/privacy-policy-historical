@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the mews.li privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820214617id_/https%3A//www.mews.li/Commander/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mews.li privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324210757id_/https%3A//www.mews.li/Commander/Home/PrivacyPolicy) for the most accurate reproduction.*
 
-# Mews Privacy Policy
+# Mews privacy policy
 
 This “Privacy policy” describes the way MEWS SYSTEMS, s.r.o., Business ID No 242 27 781, with its registered office at Maiselova 25/4, Staré Město, 110 00 Prague 1 („MEWS“) collects, processes and protects your personal data. 
 
