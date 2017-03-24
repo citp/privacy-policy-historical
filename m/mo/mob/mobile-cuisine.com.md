@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobile-cuisine.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123165421id_/http%3A//mobile-cuisine.com/about-mobile-cuisine/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobile-cuisine.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324075544id_/http%3A//mobile-cuisine.com/about-mobile-cuisine/privacy-policy) for the most accurate reproduction.*
 
 # Mobile Cuisine Privacy Policy
 
