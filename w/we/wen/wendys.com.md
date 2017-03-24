@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018074824id_/https%3A//www.wendys.com/en-us/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wendys.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324195256id_/https%3A//www.wendys.com/en-us/privacy-policy) for the most accurate reproduction.*
 
-# Wendy's Privacy Policy - Wendy's
+# Privacy Policy - Wendy's
 
 Contents 
 
@@ -8,7 +8,7 @@ Contents
 
 [About Us](https://web.archive.org/en-us/about-wendys)| [Careers](https://careers.wendys.com/)
 
-  * Dine
+  * [Menu](http://menu.wendys.com/)
   * Learn
   * Play
   * [Find](http://find.wendys.com/)
@@ -22,239 +22,153 @@ Contents
 
 [About Us](https://web.archive.org/en-us/about-wendys)| [Careers](https://careers.wendys.com/)
 
-**Wendy's International, LLC Privacy Policy and Information Security Policy ("Privacy Policy" or "Policy")**
+**Wendy’s Privacy Policy and Notice**
+
+Welcome! Thank you for visiting an offering owned and operated by Wendy’s International, LLC. To help inform you, we provide this notice explaining our online information practices and the choices you can make about the collection and use of information you submit or we collect through our website www.wendys.com and our other related mobile websites, mobile Wendy’s applications (“mobile apps”), services, tools, and other applications (the “Site”). A reference to “Wendy’s,” “our,” “we,” or “us” includes The Wendy’s Company, Wendy’s International, LLC and each of its related, affiliated or subsidiary companies.
+
+Contents & Summary
+
+A table summarizing the contents of this privacy policy notice (“Privacy Policy”) appears below, followed by the Privacy Policy in full. Should there be any discrepancy between the table and the full Privacy Policy, the language of the full Privacy Policy shall govern.
+
+  |  Scope and Consent |  By using the Site you expressly consent to our collection, use, disclosure, and retention of your personal information and other information as described in this Privacy Policy. Your use of the Site is also governed by the [Terms of Use](https://www.wendys.com/en-us/terms-conditions?_ga=1.58706671.410286095.1477944982), [Mobile Apps Policy](https://web.archive.org/en-us/mobile-app-policy), [Career Submission Terms](https://web.archive.org/en-us/careers-submission-terms) and [Cookies and Tracking Technologies Policy.](https://www.wendys.com/en-us/cookie-policy?_ga=1.96799450.410286095.1477944982)  
+---|---|---  
+  |  Information Collection |  We collect the following information when you use the Site.  
+  |    |  a) Registration and Account Information: When you create an account or profile on the Site, you voluntarily give us personal information.  
+  |    |  (b) My Wendy’sTM Account Information: When you create a My Wendy’sTM account, you voluntarily give us personal information.  
+  |    |  (c) Career Registrations: When you register to receive job alerts or apply for a job, you voluntarily give us personal and non-personal information. For more information, see our [Career Submission Terms](https://web.archive.org/en-us/careers-submission-terms).  
+  |    |  (d) Information to Respond to Your Requests: You may also give us your personal information to sign up for our newsletters and other communications.  
+  |    |  (e) Social Media Information: If you sign in to your Wendy’s account through third-party social media sites like Facebook or Twitter, you agree to give us on-going access to your personal information and that of your friends.  
+  |    |  (f) Information From Other Sources: We may, on occasion, combine information from outside sources to customize your experience on the Site.  
+  |    |  (g) Information You Post on the Site: You may provide us with information regarding your personal beliefs, opinions, and background by completing a profile, or by posting recommendations, comments, or ratings on the Site.  
+  |    |  (h) Mobile Information: We may collect additional information from you if you access our Site through a mobile device (e.g. your unique device identifier, your device’s operating system, or the mobile carrier for your phone).  
+  |    |  (i) Technical Usage Information: We use tracking technologies such as cookies and other similar technologies to measure usage. For more information about the use of cookies and similar technologies on our Site please review our [Cookies and Tracking Technologies Policy.](https://www.wendys.com/en-us/cookie-policy?_ga=1.96799450.410286095.1477944982)  
+  |    |  (j) Geolocation: By using the site you expressly consent to our collection and use of your geolocation information.  
+  |  Uses and Retention |  We use information collected from you to operate our Site and contact you. Your information is retained for as long as we need it for our business.  
+  |  Disclosure of Information |  We may share your personal information and other information we collect with the following entities: (a) [Wendy’s](https://www.wendys.com/); (b) our service providers; (c) other entities with your consent; (d) legal and law enforcement; (e) others if there is a change of control; (f) service providers; (g) companies in the mobile app industry; and (h) social networks.  
+  |  Your Choices |  You can control how and when you want to receive notifications from Wendy’s on the Site or by following instructions within the notices.  
+  |  Tracking Technologies (Cookies) |  We use tracking technologies (including cookies) to recognize you, protect your privacy, customize your experience on the Site, and target the content/advertising you see, including providing videos customized to your interests. You consent to our tracking of your video viewing through the Site or third-party social media.  
+  |  Access and Review Options |  You can review and edit your personal information by accessing your account on the Site.  
+  |  California Privacy Rights |  If you are a California resident, you may request information about our practices related to disclosing your personal information and how we respond to Do Not Track signals.  
+  |  Third-Parties |  We are not responsible for the privacy practices of third-party websites that are linked to or from our Site.  
+  |  Security |  We protect your personal information using security measures.  
+  |  Children’s Privacy |  The Site is not intended for children under the age of 13.  
+  |  International Transfer |  We store and process your personal information on our computers in the U.S. and elsewhere in the world.  
+  |  Notification Regarding Updates |  You agree that we may notify you about material changes to this Privacy Policy by posting notices on this Site.  
+  |  Contact Us |  For more information about our privacy practices, go to our full [Privacy Policy](https://www.wendys.com/en-us/privacy-policy?_ga=1.222883806.410286095.1477944982) or send an email to [privacy@Wendys.com](mailto:privacy@Wendys.com).  
+  
+  1. Scope and Consent 
 
-Effective Date: April 29th, 2013
+When you use the Site, you are contracting with Wendy’s located at One Dave Thomas Blvd., Dublin, OH 43017\. If you reside outside of the United States, Wendy’s is your data controller. By using the Site, you expressly consent to our collection, use, disclosure, and retention of your personal information as described in this Privacy Policy, the [Terms of Use](https://www.wendys.com/en-us/terms-conditions?_ga=1.58706671.410286095.1477944982), [Mobile Apps Policy](https://web.archive.org/en-us/mobile-app-policy), [Career Submission Terms](https://web.archive.org/en-us/careers-submission-terms) and [Cookies and Tracking Technologies Policy](https://www.wendys.com/en-us/cookie-policy?_ga=1.96799450.410286095.1477944982).  
+ 
 
-Welcome. This Policy is designed to help you understand generally how wendys.com (the "Site") collects personally identifying information about you and how it uses and discloses personal information. Wendys.com is a Web site of Wendy's International, LLC ("Wendy's," "we," "us"). You may contact us at our Address For Legal Notices below. This Policy applies to information that personally identifies you (other than publicly available information and certain aggregate information that does not expressly identify you individually) ("personal information") collected on wendys.com or other sites that appear to be controlled or managed by Wendy's or, where indicated, other information you provide to us.
+  2. Information We Collect 
 
-**USE OF OUR SITE OR PROVISION OF ANY PERSONAL INFORMATION CONSTITUTES AGREEMENT TO THIS POLICY. DO NOT USE THE SITE OR PROVIDE INFORMATION (OR ALLOW OTHERS TO DO SO ON YOUR BEHALF) IF YOU (AND YOUR PRINCIPAL IF YOU ARE ACTING AS AGENT) DO NOT AGREE WITH ALL OF THE TERMS OF USE INCLUDING THIS POLICY AND ANY APPLICABLE SUPPLEMENTAL PRIVACY POLICY.**
+When you use the Site, we or third-party service providers (e.g., those providing fraud or security protection) may collect the following information:
 
-###  Table of Contents
+    1. **Registration and Account Information:** You can browse the Site without telling us who you are or revealing any personal information (i.e., name, email address, telephone phone number, mobile telephone number, payment information and physical contact information) about yourself. When you register an account, create a profile, purchase products, or otherwise engage with our Site, you may provide personal information. Personal information is only associated with your account/profile when you sign in as a registered user.
+    2. **My Wendy’s™ Account Registration:** If you register for a My Wendy’s™ account, you choose to give us your personal information and are not anonymous to us. In addition to personal information, you may also provide us with non-personal information (e.g., your opinions regarding products, or menu/program/services preferences). You may also provide us with your credit or debit card information and/or gift card numbers if you are making a purchase.
+    3. **Career Registrations.** The Career section of the Site gives you the opportunity to create a “General Account” to receive job alerts and an “Application Account” to apply for jobs.
+      1. **General Account.** To register for a General Account, you will provide us with certain personal information and non-personal information (e.g., education level, job preferences, job level, schedule, availability to travel, job type and geographic area).
+      2. **Application Account.** To apply for a position, you will need to establish an “Application Account.” In order to do so, you will provide us with your email address, password and secret question that will allow you to access your account later. Also, when you apply for a job or authorize us to obtain a consumer report (e.g., background check), we will collect personal and non-personal information (e.g., name, address, telephone number, resume, employment history, reference information, compensation, education and compensation history, social security number and so on). Also you may upload your photo to the website on your resume.
 
-  1. How Does This Policy Relate to Use of the Site?
-  2. Information We Automatically Collect
-  3. Information We Collect That You Provide
-  4. Other Websites
-  5. What We Generally Do with Personal Information Collected
-  6. Your Ability to Update Personal Information
-  7. Information Security
-  8. Your Particular Consents
-  9. Children
-  10. Theft
-  11. Amendments
-  12. Information About Enforcement of Our Policy
-  13. Privacy Policy-Careers
-  14. Supplemental Privacy Policy-My Wendy'sTM
-  15. Supplemental Privacy Policy-Mobile Apps
+Visit our [Career Submission Terms](https://web.archive.org/en-us/careers-submission-terms) for more information regarding the types of career information we collect and how we treat it.
 
+    4. **Information to Respond to Your Requests.** You may give us your personal information so we can send you newsletters and other communications you request. Details of how you can opt-out of receiving any communications from us are detailed in [Section 5](https://www.wendys.com/en-us/privacy-policy#section_5) of this Privacy Policy.
+    5. **Social Media Information.** We also may offer services that allow you to share information with third-party social media websites such as Facebook, Pinterest, Google Plus, Twitter, and others. We may also offer social networking sign-on services that allow you to use social networking credentials to access the Site. We may collect information about you in connection with social networking sites when you use these sign-on features.
 
+When you engage with our Site through third-party social media sites, you understand that you may be allowing us to have ongoing access to certain information stored on those social media sites (e.g. your public profile, friend list, people you follow or who follow you, your email address, birthday, work history, education history, interests, current city, website, personal description, and likes, and your friends’ birthdays, education histories, personal descriptions and likes). We may also receive other information (e.g., content viewed and information about the advertisements within the content you have been shown or may have clicked on, etc.) from your interaction with our Site. You agree that we may share your video viewing with or obtain information about your video viewing from third-party social media sites for two years or until you withdraw consent. The information we have access to from the third-party social media websites varies by website and is controlled by your privacy settings on that website and by your consent. By associating an account managed by a third-party with your Wendy’s account or otherwise engaging with the Site through a social network and authorizing us to have access to this information, you agree that we may collect, use, and store information from these websites in accordance with this Privacy Policy
 
-###  1\. How Does This Policy Relate to Use of the Site?
+    6. **Information from Other Sources.** The information we collect may be combined with information from outside records (e.g., demographic information, navigation information, additional contact information, and for job applicants, with your consent, a credit report) that we have acquired in accordance with the law.
+    7. **Content You Post and Associate with Your Profile on the Site.** The community and posting sections of the Site give you an opportunity to provide us with information regarding your opinions and reviews of products. In addition, the content you post, and recommendations you make may provide information about your beliefs to us.
+    8. **Mobile Information.** We or third-parties may collect additional information from you if you access our Site through a mobile device (e.g., your unique device identifier, unique device token to facilitate push notifications through mobile apps, device’s operating system, identifiers associated with equipment or systems used in connection with your device (e.g., an identifier of a Wi-Fi router or Internet access point), mobile manufacturer or carrier, mobile or data network systems or operators, other providers of other apps or code on your device, anyone who has administrative privileges to devices you use, location or GPS/geo-location, mobile number, your email address, user name, passwords, financial or payment information). You agree to our collection of this data (including geo-location data) and the sharing of same with the third-parties described in this Privacy Policy (e.g., web analytics companies; Wendy's franchisees (“Franchisees”) – i.e., companies that are independently operated; social networks or other third-parties operating on our behalf). For more information about our information collection and use practices with respect to online services that are mobile applications (“Mobile Apps”) see the [Mobile Apps Policy](https://web.archive.org/en-us/mobile-app-policy) and any applicable Just in Time Notice in our Mobile Apps.
+      1. **Technical Usage Information.** When you visit our Site, we collect usage information sent to us by your computer, mobile, or other access device that tells us how you are using the Sites (“usage information”). We may use tracking technologies (including [unique identifiers, unique device tokens, HTML5, cookies, flash cookies, web beacons/GIFs, embedded scripts, e-tags/cache browsers](https://www.wendys.com/en-us/cookie-policy?_ga=1.96799450.410286095.1477944982#section_4)) to collect usage information. We may also collect password information from you when you log in, as well as computer and/or connection information. During some visits we may use software tools to measure and collect session information, including page response times, download errors, time spent on certain pages and page interaction information.
 
-This Policy is part of and incorporated into the wendys.com Terms of Use ("Terms of Use"), which is the contract between you and Wendy's governing use of the Site. Parts of the [Terms of Use](https://web.archive.org/en-us/terms-conditions/) affect this Policy, so, unless you have already done so, please review them prior to using the Site. Terms used but not defined in this Policy have the definitions in the Terms of Use.
+Our goal is to collect and use only that information that we think is required for our legitimate business interests, in order to better understand your interests and improve your experience of using the Site. To learn more about how we use tracking technologies and cookies, see [Section 8 of this Privacy Policy](https://www.wendys.com/en-us/privacy-policy#section_8) and our [Cookies and Tracking Technologies Policy](https://www.wendys.com/en-us/cookie-policy?_ga=1.96799450.410286095.1477944982).
 
-This Policy is supplemented by additional policies relevant to particular activities, and each of the supplemental policies will also apply and should be read together with this Policy. Here are examples of areas in which you will encounter supplemental privacy policies but this list is not complete: a supplemental policy may be included within this Policy (e.g., the Careers Policy), elsewhere on the Site with respect to a particular activity, or on a third party site relating to Wendy's business (e.g., Wendy's Advisors Panel). To the extent the supplemental policies are not set forth within this Policy, they are incorporated into this Policy.
+      2. **Geolocation Information:** When you visit the Site, we may collect geo-location information to provide certain location-based services that you request (e.g., maps) or any of the reasons set forth in [Section 3 of this Privacy Policy](https://www.wendys.com/en-us/privacy-policy#section_3). We disclose the geolocation data in the manner set forth in [Section 4 of this Privacy Policy](https://www.wendys.com/en-us/privacy-policy#section_4).
+  3. Uses and Retention 
+    1. **Operate Our Site.** We use the information collected to: (i) respond to your requests; (ii) provide customer service (e.g., to resolve disputes, problems with your account/profile, or the Site); (iii) personalize your experience by providing content on the Site, including targeted advertising, that we believe may be of most interest to you; (iv) improve the Site; (v) give you information about your account; (vi) manage Site traffic; (vii) assess promotional effectiveness; (viii) administer surveys, clubs, promotions (e.g., contests, sweepstakes, reward and loyalty programs); (viii) manage your purchases (e.g., remember shopping cart information); (vix) marketing purposes; (x) to improve products and services; (xi) consider your job application; and (xii) provide you with a safe, efficient, and customized experience.
+    2. **Analyze and Aggregate Non-Personal Information.** We use aggregate information about our users and non-personal information to analyze Site and user behavior and prepare aggregated reports (e.g., total number of visitors, IP addresses, browser types, access times, pages viewed and referring website addresses).
+    3. **Prevent Fraud.** We use information from the Site, collected by us or third-party service providers that work on our behalf, to prevent, detect, and investigate fraud, security breaches, and potentially prohibited or illegal activities, and enforce our [Terms of Use](https://www.wendys.com/en-us/terms-conditions?_ga=1.58706671.410286095.1477944982).
+    4. **Communicate With You.** We use your information to contact you to maintain the Site, your account, or to comply with your stated communication preferences (e.g., for newsletters), or to provide other services requested by you, as described at the time when we collect the information from you, or to contact you for other purposes authorized by law.
+    5. **Mobile Data.** When you access the Site on a mobile device, we may use the information collected for any purpose set forth in this Privacy Policy. For example, by virtue of your use of the Site, you expressly consent to our use of location information to provide you with location-based services, such as advertising, coupons, search results, and other personalized content.
+    6. **Your Career Interests.** Pursuant to our [Career Submission Terms](https://web.archive.org/en-us/careers-submission-terms), we may use information you provide to process your interest or application in a Wendy’s job position. See the Career Submission Terms for details.
 
-Back to top
+You expressly consent to our lawful worldwide use of your personal information and that we may retain information as long as it is necessary and relevant for our operations, including to effectuate your requests. Further you consent to the ability of third-party service providers working on our behalf to collect and retain personal information and non-personal usage information for Site operation purposes (e.g., fraud prevention). Further, you consent to our retention of your video viewing tracking data for at least two years or until permission is withdrawn.
 
-###  2\. Information We Automatically Collect
+  4. Disclosure of Information 
 
-Wendy's collects some information automatically from visitors to the Site, for example through the use of "cookies", "web beacons", and other technologies. These technologies make your use of the Site or our operations more convenient. We use these technologies for a variety of purposes such as to improve your on-line experience, to manage Site traffic, to prevent, detect, and investigate fraud, to assess promotional effectiveness, to track information such as the total number of visitors, IP addresses and browser types, access times, pages viewed and referring website addresses. We may also employ these technologies so that we remember you when you return to the Site. For example, we may collect information about your activities on the Site so we may make product recommendations, to tailor content to your interests, or to provide shopping cart services during a future visit to our Site. We may also deliver ads or make recommendations in the context of your current visit to our Site or a single search query in our Site.
+Information collected on the Site may be shared with:
 
-We generally do not share information from "cookies" and the like with third parties other than our service providers and within the Wendy's Organization (as defined in Section 8, below), but reserve the right to do so. For example, we may share information from "cookies" or other technologies used on our Site with our service providers or within the Wendy's Organization, but only on an aggregate basis or to facilitate our business or marketing purposes (or those of our affiliated entities). If we materially change the type of information we automatically collect or the way in which we share it, we will notify you.
+    1. **Wendy’s.** We may share the information we collect about you within Wendy’s and Franchisees, as well as with third-party suppliers. The information may be disclosed to: (i) provide joint content and our services (e.g., registration, transactions, analytics and customer support); (ii) help detect and prevent potentially illegal acts, violations of our policies, fraud, and/or data security breaches; and (iii) guide decisions about Wendy’s or third-party products, sites, applications, services, tools, and communications. Members of our corporate family will use this information to send you marketing communications and you will have the opportunity to opt-out in email communications.
+    2. **Service Providers and Other Third-Parties.** We may disclose your information to service providers under contract who help with our business operations (such as, but not limited to, fraud investigations, bill collection, payment processing, gift card support, site analytics and operations). We may also facilitate our Site to permit third-party services providers to collect information from you for security and fraud prevention purposes.
+    3. **Other Entities with Your Consent.** Other third-parties to whom you explicitly ask us to send your information (or about whom you are otherwise explicitly notified and consent to when using a specific service). On the Site, you may have opportunities to express interest in or register for other services. If you do, we will provide information about you to those third-parties, or parties working on their behalf, to implement your request.
+    4. **Legal and Law Enforcement.** Law enforcement, governmental agencies, or authorized third-parties, in response to a verified request relating to a criminal investigation or alleged illegal activity or any other activity that may expose us, you, or any other Wendy’s user to legal liability. In such events, we will only disclose information relevant and necessary to the investigation or inquiry, such as name, city, state, ZIP code, telephone number, email address, user ID history, IP address, fraud complaints, and anything else we may deem relevant to the investigation.
+    5. **Change of Control – New Owners.** Other business entities, should we plan to merge with or be acquired by that business entity. Should such a combination occur, we will make reasonable efforts to request that the new combined entity follow this Privacy Policy with respect to your personal information. If your personal information would be used contrary to this Privacy Policy, we will request that you receive prior notice.
+    6. **Service Providers.** On the Site, we may work with third-parties to provide us with data collection, reporting, ad response measurement, and site analytics and assist with delivery of relevant marketing messages and advertisements. These third-parties may view, edit or set their own tracking technologies/cookies. The use of these technologies by these third-parties is subject to their own privacy policies and is not covered by this Privacy Policy. They might also obtain information about other applications that you have downloaded to your mobile device, the mobile websites you visit and other information about you or your device in order to analyze and serve anonymous targeted advertising on the Site and elsewhere. For more information about third-party ad servers at our Site and your ability to opt-out of targeted advertising from such third-parties, please visit [Cookies and Tracking Technologies Policy](https://www.wendys.com/en-us/cookie-policy?_ga=1.96799450.410286095.1477944982).
+    7. **Companies in the Mobile App Industry.** If you access the Site through a mobile device or app, we may also share your information with carriers, operating systems, and platforms.
+  5. Your Choices 
 
-If you do not want to receive cookies, you may set your browser to reject them. However, if you turn cookies off, you may not have access to some of the Site's services and features. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issues cookies when you access the Site.
+You can control how and when you want to receive notifications from Wendy’s on the Site or by following instructions within the notices.
 
-Back to top
+    1. **Information You Share on the Site.** If you post information or content, such as by participating in online forums or communities, or when you interact with our Site through social media sites, plug-ins or other applications, depending upon your privacy settings, this information may become public on the Internet. We cannot prevent further use of this information. You can control what data you share through privacy settings available on some social media sites. Please refer to those third-party sites’ privacy policies and terms of use to learn more about their privacy practices, which we do not control.
+    2. **Communication Preferences and Marketing (Opt-out).** We do not sell or rent your personal information to third-parties for their marketing purposes without your consent. We may combine your information with information we collect from other companies and use it to improve and personalize the Site. If you do not wish to receive marketing communications from us, you can indicate your communications preference within the direct communication from us or through your account/profile settings. You may not opt-out of administrative emails (e.g., emails about your transactions or policy changes) for your registered account.
+  6. Tracking Technologies (Cookies) 
 
-###  3\. Information We Collect That You Provide
+When you visit the Site, we and our business partners may use tracking technologies to enhance your online experience or customize our offerings.
 
-It is always your choice, or the choice of anyone acting for you, whether to provide personal information. However, some must be provided to participate in certain programs or activities (such as to apply for a job), so the decision not to provide information might limit or eliminate certain functions of the Site or the ability to participate. Other information is up to your good judgment, e.g., do not provide personal information about yourself that could be misused by others in a chat room, bulletin board, blog or similar forum and do not provide personal information about others without their permission. Depending on what you choose, the kinds of personal information we tend to request about you or others include but are not limited to your name, email address, telephone number, physical address, your preferences for products, programs or services and participation in our surveys, clubs, promotions, contests, sweepstakes or loyalty programs and other information relating to particular activities. We may also collect credit or debit card information if you are making a purchase. Additional information about what we collect is available in any supplemental privacy policies for particular activities (e.g., employment related information provided in the Career portion of our Site).
+A few additional important things you should know about our use of tracking technologies (cookies):
 
-Back to top
+    * We offer certain features that are available only through the use of tracking technologies.
+    * We use both session and persistent tracking technologies. Tracking technologies (e.g. cookies) can either be persistent (i.e., they remain on your computer until you delete them) or temporary (i.e., they last only until you close your browser). You are always free to decline tracking technologies if your browser permits, although doing so may interfere with your use of the Site. Refer to the help section of your browser, browser extensions, or installed applications for instructions on blocking, deleting, or disabling tracking technologies such as cookies.
+    * We encode and protect the tracking technologies that Wendy’s sets, so that only we can interpret the information stored in them.
+    * You may encounter tracking technologies/cookies from our third-party service providers that we have allowed on our site that assist us with various aspects of our web site operations and services, such as [Google Analytics](https://www.wendys.com/en-us/cookie-policy?_ga=1.96799450.410286095.1477944982).
+    * You also may encounter tracking technologies from third-parties on certain pages of the websites that we do not control and have not authorized (e.g., if you view a web page created by another user, there may be a cookie placed by that web page).
+    * We may target and track the videos you view on the Site. You consent to our tracking of your video viewing through the Site or third-party social media for up to two years or as permitted by applicable law.
 
-###  4\. Other Websites
+For more information about the use of cookies and similar technology on our online services, please review this Privacy Policy and our [Cookies and Tracking Technologies Policy](https://www.wendys.com/en-us/cookie-policy?_ga=1.96799450.410286095.1477944982).  
+ 
 
-Wendy's works with third parties on certain programs, and often those third parties own and/or are responsible for that program's Web site. In those cases, if you provide personal information, you will be giving it to a third party and their privacy policy will apply, in addition to ours. You agree that if they provide it to us then we may apply our Policy to what we receive.
+  7. Accessing, Reviewing, and Changing Your Personal Information 
 
-In addition, many Wendy's restaurants are owned and operated by franchisees, who are independent business people. Wendy's franchisees are responsible for their Web sites and associated content. Your use of those sites is subject to different privacy policies and terms and conditions. We are not responsible for the practices and policies of franchisees.
+Registered members can review and change personal information at any time by accessing their accounts on the Site. You should promptly update your personal information if it changes or becomes inaccurate. We may retain some information from closed accounts so that we can comply with law, prevent fraud, assist with investigations, resolve disputes, analyze or troubleshoot programs, enforce our Terms of Use, or take other actions permitted by law. We may also retain certain transaction history and other non-personal information to analyze user behavior. Likewise if your account or membership is terminated or suspended, we may maintain some information to prevent re-registration. Unfortunately, if you close your account, we cannot reactivate it, but you are always welcome to open a new one.  
+ 
 
-Back to top
+  8. Notice to California Residents 
+    1. Residents of the State of California may request a list of all third-parties to which our online service has disclosed certain personal information (as defined by California law) during the preceding year for those third-parties’ direct marketing purposes. If you are a California resident and want such a list, please contact us at: Wendy’s International, LLC, One Dave Thomas Boulevard, Dublin, OH 43017, Attn: General Counsel, Legal Department. For all requests, you must put the statement “Your California Privacy Rights” in the body of your request, as well as your name, street address, city, state, and zip code. In the body of your request, please provide enough information for us to determine if this applies to you. You need to attest to the fact that you are a California resident and provide a current California address for our response. Please note that we will not accept requests via the telephone or by facsimile, and we are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
+    2. **How We Respond to Do Not Track Signals for California Residents.** California Business & Professions Code Section 22575(b) (as amended effective January 1, 2014) provides that California residents are entitled to know how Wendy’s responds to “Do Not Track” browser settings. Wendy’s does not currently take actions to respond to Do Not Track signals because a uniform technological standard has not yet been developed. We continue to review new technologies and may adopt a standard once one is created.
+  9. Third-Parties 
 
-###  5\. What We Generally Do with Personal Information Collected
+Our Site may contain links to other third-party websites. We are not responsible for the privacy practices or the content of these third-party sites.  
+ 
 
-In general, we use personal information we collect to respond to your inquiries or requests, administer surveys, clubs, promotions, contests, sweepstakes or loyalty programs, process and manage your purchases, consider your job application and to engage in the activity (and related activities) for which we collect it. For example (and without limitation), if you sign up for a newsletter, we'll send the newsletter; if you apply for a job, we'll use the information to find out about you and share it with service providers and others we view as relevant to the employment process; if you opt-in to receive emails, texts or other electronic communications from us, we may make recommendations or deliver advertisments about our products and services. Further information is available in the supplemental policies for some activities, but you should assume that we will use all information for all lawful purposes. Subject to applicable law, we reserve the right voluntarily or involuntarily to make all lawful, worldwide uses of personal information, including without limitation, to: collect, use, access (or bar access), process, fulfill, disclose, display, share, respond to legal process or otherwise exercise our rights under applicable law, transfer, store, sell, lease, retain, commingle, investigate, verify, prove, enforce, delete, and otherwise deal with personal information, and information other than personal information, voluntarily or involuntarily (collectively " **Disclose** ").
+  10. Security 
 
-Back to top
+We store and process your information on our servers located in the United States and around the world. We protect your personal information using technical and administrative security measures to reduce the risks of loss, misuse, unauthorized access, disclosure and alteration. Some of the safeguards we use include data encryption, firewalls, regular security assessments of IT infrastructure, access controls to physical, network-based and data assets. It is your responsibility to make sure that your personal information is accurate and that your passwords and account registration information is secure and not shared with third parties.  
+ 
 
-###  6\. Your Ability to Update Personal Information
+  11. Children's Privacy 
 
-In general, our systems do not provide the ability for you to update your information at this time. If your information has changed, you may submit your new information as a new registration or subscription when appropriate (as determined by us). Some activities allow some updating, e.g., you may update your "Career" profile by using the functionality in that section of the Site.
+The Site is a general audience site and it is not intended for children under the age of 13. We do not knowingly collect personal information via our websites, applications, services, or tools from users in this age group. If you believe your child has provided personal information to us, please contact us via the email listed in [Section 14](https://www.wendys.com/en-us/privacy-policy#section_14-4) below.  
+ 
 
-We keep personal information for as long as we think is necessary or advisable and we reserve the right to retain it to the full extent not prohibited by law. We may discard personal information in our discretion, so you should retain your own records, and not rely upon our storage of any personal information or other data.
+  12. International Transfer 
 
-Back to top
+As we operate internationally, and many of our computer systems are currently based in the United States, your personal information may be processed in the U.S. and elsewhere where data protection and privacy regulations may not offer the same level of protection as in other parts of the world, such as the European Union. If you create an account/profile, you consent to the collection and/or processing in the United States of your personal information and tracking technologies/cookies as described in this Privacy Policy.  
+ 
 
-###  7\. Information Security
+  13. Notification Regarding Updates 
 
-WE DO NOT GUARANTEE THE SECURITY OF PERSONAL INFORMATION OR OTHER INFORMATION IN ANY FORM. We make what we believe to be commercially reasonable efforts to provide a reasonable level of security for personal information we are required to protect, but this is not a promise that your information will never be disclosed except as provided herein. As you probably know, information can sometimes be intercepted or accessed in violation of law, contract or policy and technologies don't always work as anticipated.
+From time to time, we may update this Privacy Policy. You agree that we may notify you about material changes in the way we treat personal information by placing a notice on the Site. You should check the Site frequently for updates. If we or any third-party we disclose your personal information to is required to provide notice of a security breach, you consent to receiving notice through this Site or via the email address you have provided to us, at our discretion.  
+ 
 
-Back to top
+  14. Contact Us 
 
-###  8\. Your Particular Consents
+If your questions are not answered online, you may email us at [privacy@wendys.com](mailto:privacy@wendys.com).
 
-In addition to consenting to the Terms of Use, including this Policy (and any relevant supplemental policies), Wendy's is interested in letting you know about, and receiving your particular consent to, a few activities relating to personal information that will help us to deal with personal information that is Disclosed in furtherance of our operations and programs. These are described immediately below.
 
-**Consent to Share and Disclose Personal Information, Including Data Transfers Internationally.** We may share information within the Wendy's Organization. The Wendy's Organization includes Wendy's International, LLC, our subsidiaries, affiliates and franchisees of any of them. We may also share information with companies that provide support services to us (such as credit card processors, mailing houses, web hosts, technical support providers, fulfillment centers or other services or for enforcing or investigating transactions or business operations). These companies may need information about you in order to perform their functions. These companies are not authorized to use the information we share with them for any other purpose, but we do not control these companies. You agree that Wendy's and those with whom we share personal information (" **Recipients** ") may Disclose and transfer your personal information worldwide (including in and outside the U.S, the European Union and other jurisdictions ) for any purpose relating to our operations, programs, or otherwise that is not allowed or prohibited by this Policy.
 
-**Consent to Electronic Notice If There is a Security Breach.** If we or a Recipient is required to provide notice of unauthorized access or other invasion of certain security systems, you agree that we (or they) may do so when required (or voluntarily) by posting notice on our Site or sending notice to any email address we have for you, in our (or their) good faith discretion. You agree that notice to you will count as notice to others for whom you are acting, and agree to pass the notice on to them.
 
-Back to top
+back to top ↑
 
-###  9\. Children
-
-We do not want to collect information from children. Do not provide any personal information unless you are at least 13 years of age, and please caution your children not to provide any. If a child under 13 has provided personal information, a parent or guardian may so inform us by writing us at Our Address for Legal Notices (see below) and we will use commercially reasonable efforts to delete it from our database, subject to applicable law and this Policy.
-
-Back to top
-
-###  10\. Identity Theft
-
-If anyone believes they're a victim of identity theft entitled by law to request information from us, write us at Our Address For Legal Notices and we'll explain what information we require in order to respond. After receiving that information, we'll supply (without charge) information we then have that we are legally required to provide (subject to applicable law and reserving all rights and defenses).
-
-Back to top
-
-###  11\. Amendments
-
-We will be changing what we do and how and why we Disclose data periodically-this Policy describes what we currently envision, but that will change as we change. You agree that this Policy amends and replaces any previous privacy policies and applies retroactively. We may further amend all or part of this Policy in the same way that we make amendments to our [Terms of Use](https://web.archive.org/en-us/terms-conditions/) and such amended versions will be posted on this page. USE OF THE SITE AFTER THE EFFECTIVE DATE WILL CONSTITUTE YOUR CONSENT TO THE AMENDMENTS, SO IF YOU DO NOT WANT TO BE BOUND BY AN AMENDED VERSION, DO NOT USE THE SITE AND CEASE ALL USE OF THE CONTENT OR SERVICES.
-
-Back to top
-
-###  12\. Information About Enforcement of Our Policy
-
-This Policy is part of and supplemented by our Terms of Use, which together with any supplemental privacy policy form a contract. We and you are bound by the Terms of Use, including this Policy. If you think we are in default, you may contact us by writing to Our Address for Legal Notices. There are no third party beneficiaries of this Policy.
-
-Our Address for Legal Notices:
-
-Wendy's International, LLC  
-One Dave Thomas Blvd.  
-Dublin, Ohio 43017  
-Attn: Legal
-
-Back to top
-
-###  13\. Supplemental Privacy Policy-Careers
-
-Welcome. This Supplemental Privacy Policy-Careers ("Careers Policy") supplements the Privacy Policy for wendys.com ("Site"). It applies if you use the "Careers" section of the Site or if you allow or cause someone else to use it for you. We are an equal opportunity employer.
-
-This Careers Policy is part of our Privacy and Information Security Policy ("Privacy Policy") which is part of our [Terms of Use](https://web.archive.org/en-us/terms-conditions/); terms used but not defined in this Careers Policy are defined in those documents. CREATING AN ACCOUNT, SUBMITTING ANY INFORMATION RELATING TO A POSSIBLE JOB OPPORTUNITY, MAKING ANY APPLICATION(S), OR ALLOWING SOMEONE ELSE TO DO THAT FOR YOU, WILL BE YOUR CONSENT TO OUR TERMS OF USE, INCLUDING OUR PRIVACY POLICY AND THIS SUPPLEMENTAL POLICY, ALL AS AMENDED FROM TIME TO TIME.
-
-**Information That We Collect in Careers.** In addition to the personal information that we collect on the Site generally, in the Careers section you may set up a "general account" so you can receive "job alerts." To create a general account, we will require you to supply your email address and create a user name, password and security question to allow you to access your account later. When you create a general account, we collect your name, address, education level. We also collect your job preferences such as, job level, schedule, availability to travel, job type and geographic area. If you create a general account, we will attempt to send you "job alerts" that might match your account, however, we have no obligation to do so.
-
-If you want to apply for a job, you will need to establish an "application account" which will require you to supply your email address and create a password and secret question to allow you to access your account later. When you submit an application, or authorize us to obtain a "consumer report" (such as a background check), we tend to collect personal information, including but not limited to: name, address, telephone number, resume, employment history, reference information, compensation and educational history, social security number and so on. You are responsible for ensuring that that the information you submit is complete, accurate and up-to-date. You also agree that, to the extent allowed by us and our Site, you will review, maintain, correct, and update such information in a timely manner to maintain its accuracy and completeness.
-
-**Access to Information.** You may update your general account or your application account (collectively "account") information by using the "edit" functionality in the account area. Wendy's retains information submitted in the Careers section in accordance with its records retention policy. We reserve the right to delete information stored by or for you and sometimes information will need to be re-entered. Accounts may be deleted at any time by clicking the "My Account Options" link and selecting the "deactivate" function. Deactivating your account will also withdraw any existing applications. Because of the way we maintain accounts, residual copies of your account information and other information associated with your account may remain on our backup systems. Neither changes to or deletion of an account will alter information already submitted or relied upon.
-
-**How We Use Information Collected in Careers.** In addition to the uses of personal information allowed in the Privacy Policy, we make these kinds of uses of personal information submitted for a job. We Disclose it:
-
-  * to our Wendy's recruiters and third parties who help us authenticate Applicants or review qualifications and credentials or to contact references and conduct background checks;
-  * to our affiliates and other third parties or persons with whom Applicant might work if Applicant gets the job;
-  * when we are looking for someone who might fit a job need of ours and to contact a previous Applicant to see if he or she might be interested in a job for which the Applicant did not apply. However, we do this in our discretion and without any obligation to do so;
-  * to communicate about receiving the application or about the job for which application was made, or to deliver legal or other notices; and
-  * to comply with applicable laws, including without limitation, checking names against anti-terrorism lists, complying with immigration restrictions or for statistical or reporting purposes.
-
-
-
-If Applicant gets a job with us, we store the application and other information upon which we relied in Applicant's personnel file (or in an electronic format) and we may base post-employment decisions on it (including disciplinary actions) or we may use it to administer benefits, performance reviews, training, or for regulatory compliance.
-
-**Consent to Share and Disclose Personal Information.** In addition to consenting to the Terms of Use, Privacy Policy and Careers Policy, you agree that by providing us with personal information in the Careers part of our Site, you are consenting to the collection, retention, use and disclosure of your information in accordance with the terms of the Careers Policy and Privacy Policy. You also agree that you are consenting to Wendy's disclosing your information to third parties as stated in this Careers Policy (e.g., see the How We Use Information Collected in Careers" section above).
-
-**Passwords; Redact Your Resume.** The Terms of Use require you to keep secret your password and other access credentials confidential. That's especially important if you don't want persons obtaining your password to be able to see any resume or account or to see other information available (e.g., positions for which applications have been made). Also, take steps to create a safe resume: before uploading a resume, remove any sensitive information such as social security numbers, identification numbers (e.g., driver's license), financial information, dates of birth etc. - we don't need or want that information in a resume.
-
-**Security.** We store data associated with your account and application on a site provided by a service provider. The data is not necessarily encrypted but the service provider has agreed to provide a commercially reasonable level of security. Your resume and other data will also circulate through our offices and relevant third parties. As explained in the Terms of Use, we do not guarantee security; also, we do not control third parties. You should assume the Site, storage and use generally is not encrypted and you should take steps to promote security (e.g., see the "Passwords; Redact Your Resume" section above).
-
-**Job Terms.** Specific information about the terms and conditions of employment associated with a particular position, will be set forth on the date of hire and they may be different than information on the Site. Postings on the Site do not represent an offer of employment. Any offer of employment must be made in person by an authorized representative of a Company Store or a Franchise Store in accordance with their respective hiring policies and procedures.
-
-**Franchise Career Opportunities.** Some Wendy's locations are owned and operated by Wendy's third party franchisees (Franchise Stores). We do not list positions for Franchise Stores on the Careers section of the Site - we only list positions for locations owned and operated by Wendy's International, LLC (Company Stores). The positions in Wendy's Company stores may be subject to different terms and conditions, including, but not limited to benefits and employment policies, than those positions in Franchise Stores. Wendy's International, LLC accepts no responsibility or liability with respect to the terms and conditions of employment with Franchise Stores.
-
-Back to top
-
-###  14\. Supplemental Privacy Policy-My Wendy'sTM
-
-Welcome. This Supplemental Privacy Policy—My Wendy’sTM (“My Wendy’s Policy”) supplements the Wendy’s International, LLC Privacy Policy and Information Security Policy (“Privacy Policy”), which is part of our [Terms of Use](http://www.wendys.com/legal.jsp), so read them in addition to this My Wendy’s Policy (just click on their links). Any terms used but not defined in this My Wendy’s Policy are defined in those documents. BEFORE YOU CAN FINALIZE YOUR MY WENDY’S ACCOUNT PROFILE SET-UP, YOU’LL NEED TO REVIEW AND SIGN THIS MY WENDY’S POLICY (WHICH WILL ALSO BE YOUR CONSENT TO RECEIVE EMAILS FROM WENDY’S AND YOUR SIGNATURE TO THE PRIVACY POLICY AND TERMS OF USE, AND IF YOU ARE USING THE MY WENDY’S MOBILE APP, IT WILL ALSO BE YOUR SIGNATURE TO THE SUPPLEMENTAL PRIVACY POLICY—MOBILE APPS, WHICH CAN BE REVIEWED BY CLICKING ON ITS LINK).
-
-###  Table of Contents
-
-  1. Creating a Profile
-  2. Email Consent
-  3. Your Ability to Edit your Profile Information
-  4. Children
-  5. Amendments
-  6. How to Print a Copy of this My Wendy's Policy
-
-
-
-###  A. CREATING A PROFILE
-
-_Information That We Collect When You Create a Profile in My Wendy’s._ You will need to create an account profile (a “profile”) so you can receive communications from Wendy’s. When you create a profile, we will need you to provide your name, zip code, email address and date of birth. We collect your email address in order to create a user name for your profile and to send you promotional and other emails pursuant to Email Consent section below. We also collect your zip code so we can communicate with you about offers that are specific to your geographic location. We also use the above information for authentication and fraud prevention purposes and purposes allowed in our Privacy Policy.
-
-_How We Use Profile Information._ In addition to the uses of personal information allowed in the Privacy Policy, we make these kinds of uses of personal information submitted when you create a profile in My Wendy’s. We Disclose (as defined in the Privacy Policy) it:
-
-  * to Wendy’s service providers so we may communicate with you about our latest news and to provide you coupons and promotional information;
-  * within the Wendy’s Organization and to our service providers to facilitate our business or marketing purposes; and
-  * as stated in the Email Consent section below.
-
-
-
-###  B. EMAIL CONSENT
-
-When you create a profile, you will be consenting to receive future emails from Wendy’s International, LLC and its existing or future affiliates and subsidiaries (and their service providers and business partners) for marketing purposes and to help us improve products and services, including emails regarding surveys, clubs, promotions, offers, contests, sweepstakes, loyalty programs, processing and managing purchases and to engage in other related activities. Such emails will include an easy opt-out feature or you can opt-out by clicking the “unsubscribe” link on our sign-in page at any time. You may opt-out of receiving all emails from Wendy’s or just certain emails from Wendy’s. If you opt-out of receiving all emails from Wendy’s, we will maintain your profile so you can use other features of My Wendy’s, but we won’t send you emails (except pursuant to the following sentence). You may not opt-out of emails that we’re allowed to send by law or contract, such as messages relating to a transaction with or affecting you or a business relationship or request that you have made.
-
-###  C. YOUR ABILITY TO EDIT YOUR PROFILE INFORMATION
-
-You may edit your profile by changing things such as your user name (your email address) or your zip code. You agree that such change does not affect in any manner your original consent to receive emails. If, however, you wish to change your original consent to receive emails, you will be asked to confirm your change. For example, you may use the edit feature to stop receiving future promotional and/or other email communications from Wendy’s as described in the Email Consent section above. If you deactivate your profile entirely, we will usually maintain your profile information for a reasonable period of time after you deactivate it (e.g., for purposes such as fraud control, documentation or if you have a question about why you are not receiving further communications from us). After that, we may stop keeping or render it inactive, but we reserve the right to keep or use it longer subject to applicable law or contracts.
-
-###  D. CHILDREN
-
-Only individuals thirteen (13) years of age or older may create a profile. Users between the ages of thirteen (13) to eighteen (18) must review this My Wendy’s Policy with a parent or legal guardian to ensure the parent or legal guardian agrees to this My Wendy’s Policy. In the event that the user’s parent or legal guardian does not agree to this My Wendy’s Policy, the user must immediately discontinue use of My Wendy’s.
-
-###  E. AMENDMENTS
-
-This My Wendy’s Policy can be amended in the same way we amend our Terms of Use and Privacy Policy, so please read them for details. If a change impacts the emails sent, you can always opt-out of further emails by following the directions in the email.
-
-###  F. HOW TO PRINT A COPY OF THIS MY WENDY’S POLICY
-
-If you wish to print a copy of this My Wendy’s Policy, please click the link at the bottom of the sign-up page.
-
-Back to top
-
-###  15\. Supplemental Privacy Policy-Mobile Apps
-
-Welcome. This Supplemental Privacy Policy—Mobile Apps (“App Policy”) supplements the Wendy’s International, LLC Privacy Policy and Information Security Policy (“Privacy Policy”). This App Policy (as well as the main Privacy Policy) applies if you download or use any mobile app that we offer (alone or with others) (an “App”) from time to time for download, such as on the Site, or through a third party platform (such as the Apple iTunes store or Google Play, etc.). Additionally, wherever the Privacy Policy uses the term “Site,” that term is defined in the Privacy Policy to include all Apps.
-
-This App Policy is part of our Privacy Policy which is part of our [Terms of Use](http://www.wendys.com/legal.jsp); terms used but not defined in this App Policy are defined in those documents. **DOWNLOADING OR USING AN APP, CREATING AN ACCOUNT PROFILE, OR AFFIRMATIVELY SUBMITTING ANY PERSONAL INFORMATION THROUGH AN APP WILL BE YOUR CONSENT TO OUR TERMS OF USE, INCLUDING OUR PRIVACY POLICY (WHICH INCLUDES THE MY WENDY’S POLICY AND THIS APP POLICY), ALL AS AMENDED FROM TIME TO TIME.**
-
-**Information That Is Automatically Collected by Apps.** When you download or use an App, personal information about you, or the device that you use in connection with the App, may automatically be collected by us, or by third parties. This may include, for example, information about your download or use of the App, unique device identifiers associated with the device(s) you use to download or use the App or associated with equipment or systems used in connection with your device (e.g., an identifier of a Wi-Fi router or Internet access point). Third parties may also obtain information, such as your mobile device manufacturer or carrier, mobile or data network systems or operators, other providers of other apps or code on your device, and anyone who has administrative privileges to devices you use. In general, we do not control what information those kinds of third parties may receive and do not take any steps affirmatively to provide them with more information than they would obtain from other apps you might choose to download (we just feel that it is important to remind you that there are third parties who may receive information through apps).
-
-You may also be reminded by the app “store” (e.g., a third party platform you might use to obtain the App, such as Apple iTunes store or Google Play, etc.) that certain information might be sought by us or others, or that certain privacy policies will apply to an App. You agree that we may rely upon any consents or agreements you provide to such stores (e.g., if you tell them that it’s okay that an App collect “location” or other personal information, we may rely on your consent as if you had given it directly to us).
-
-**Information That You Provide That is Collected in Apps.** In addition to the types of personal information that we collect on the Site generally, additional information may be collected in an App. For example, when using our My Wendy’s App, you may register to create a My Wendy’s account profile (and you must do so to use the mobile payment feature). Registration will actually occur on our website, and you will need to supply your email address a password and the other information required for a My Wendy’s account profile (which is subject to the terms of the My Wendy’s Policy). When you register, App features may allow you to provide other information as well. For example, you can create menu selections to remember meal combos or learn about nutritional information; store information about past purchases or experiences at Wendy’s; purchase, use or load certain gift card and/or credit card information into the App; share general location information with us and the App in connection with locating nearby Wendy’s locations; or provide preferences related to offers and incentives that we and our affiliates might offer. The information you decide to include will be synchronized from time to time between our website and the App so that you may have access to it from several devices.
-
-**Updates to, and Deletion of, Information.** You may update some information (not all of which will necessarily be personal information) provided to an App by using any functionality in the App for that. For example, if you have saved a meal selection, or have provided information about a gift card, you can change or delete it using any options in the App. You can remove Apps by deleting or uninstalling them from all of devices they are on. Properly removing the App will stop your device from providing further information to us or others, but will not affect information already collected or Disclosed, including information that resides somewhere else. For example, our App synchronizes with your My Wendy’s account profile on our website (and vice versa) and the website information for such account profiles is held by us. To eliminate that website information, you will need to edit your account profile information on our website as described in the Your Ability to Edit your Profile Information section of the My Wendy’s Policy. Additionally, because of the way we maintain account profiles, residual copies of account profile, App and other associated information may remain on our backup systems. Also, App or information removal (full or partial) will not have any effect on information already Disclosed or relied upon by us or others.
-
-**How We Use Information Collected in Apps.** In addition to the uses of personal information allowed in the Privacy Policy, we make these kinds of uses of personal information collected in an App. We Disclose (as defined in the Privacy Policy) it:
-
-  * to rest of our Site (such as our website), and we combine it with information that we collect on, through or in connection with the Site. For example, we will combine any account profiles you create in an App with any account profile you create on our website, and vice versa;
-  * for marketing purposes and to help us improve products and services, including to send you emails and other communications if you’ve created an account profile as described in the Email Consent section of the My Wendy’s Policy;
-  * to our affiliates and other third parties or persons who assist with the operation of an App, the rest of the Site, or app stores; and
-  * to our gift card service provider to process payment transactions and to support Wendy’s gift card products.
-
-
-
-**Consent to Share and Disclose Personal Information.** In addition to consenting to the Terms of Use, Privacy Policy and Careers Policy, you agree that by using an App or providing personal information in the App, you are consenting to the collection, retention, use and disclosure of your information in accordance with the terms of this App Policy, the My Wendy’s Policy (as applicable) and the Privacy Policy. You also agree that you are consenting to Wendy’s disclosing your information to third parties as stated in this App Policy (e.g., see the How We Use Information Collected in Apps section above).
-
-**Passwords.** The Terms of Use require you to keep secret your password and other access credentials confidential. This is especially important for Apps if you want to hinder unauthorized access to the information that will be available through an App, including information that is synchronized with the App and payment data. When using mobile payment features of an App, the utilization of passwords and other access credentials is particularly important and may provide enhanced security (keeping in mind that any data transmitted via mobile phones or other devices cannot be guaranteed to be 100% secure).
-
-**Security.** The Information Security section of our Privacy Policy provides information about our general security. Apps use mobile phones and other devices, and any security of data that resides on the device will only be as secure as the device itself. Please be advised, however, that the transmission of information over wireless and wired networks is not inherently secure and, although we endeavor to provide reasonable security measures, no security system can prevent all potential security breaches. As a result, your information may be subject to interception or loss which is beyond our control.
-
-Back to top
+Last Updated: January 13, 2017
