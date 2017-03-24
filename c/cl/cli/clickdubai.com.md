@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clickdubai.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115043328id_/http%3A//www.clickdubai.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickdubai.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324184333id_/http%3A//www.clickdubai.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Dubai On Sale
 
