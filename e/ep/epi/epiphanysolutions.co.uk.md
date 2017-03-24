@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the epiphanysolutions.co.uk privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114171832id_/https%3A//www.epiphanysearch.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epiphanysolutions.co.uk privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324115703id_/https%3A//www.epiphanysearch.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
