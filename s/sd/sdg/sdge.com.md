@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the sdge.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118230052id_/http%3A//sdge.com/node/231) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sdge.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324191942id_/http%3A//www.sdge.com/node/231) for the most accurate reproduction.*
 
 # Website Privacy Policy | San Diego Gas & Electric
 
 [Para la versión en español](https://web.archive.org/pol%C3%ADtica-de-privacidad)
 
-Please also see our [Privacy Notice](http://www.sdge.com/customer-privacy/privacy-notices) regarding the privacy of your energy usage information. 
+Please also see our [Privacy Notice](https://www.sdge.com/customer-privacy/privacy-notices) regarding the privacy of your energy usage information. 
 
 San Diego Gas and Electric Company (“SDG&E”) is committed to keeping our visitors informed about how we use the information we gather on our web site, at our mobile optimized web site, and in our mobile apps (collectively, the “web site”).  By using our web site or obtaining any product or service through our web site, you agree to the collection and use of information as set forth in this policy.  If you do not agree to this policy, please do not use the web site.
 
@@ -107,16 +107,16 @@ Please note, however, that information regarding these contacts or correspondenc
 
 ## Other Languages
 
-  * [Arabic](http://www.sdge.com/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9)
-  * [Armenian](https://web.archive.org/web/20161118225914id_/http://www.sdge.com/customer-privacy/node/2196)
-  * [Farsi](http://www.sdge.com/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AD%D9%81%D8%B8-%D8%AD%D8%B1%DB%8C%D9%85-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C)
-  * [Hmong](http://www.sdge.com/txoj-cai-hais-txog-ntiag-tug)
-  * [Kmer](http://www.sdge.com/ekalkarn%C3%A9kcnpab)
-  * [Korean](http://www.sdge.com/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EB%B3%B4%ED%98%B8%EB%B0%A9%EC%B9%A8)
-  * [Russian](http://www.sdge.com/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
-  * [Spanish](http://www.sdge.com/pol%C3%ADtica-de-privacidad)
-  * [Tagalog](http://www.sdge.com/patakaran-hinggil-sa-pagkapribado)
-  * [Thai](http://www.sdge.com/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7)
-  * [Vietnamese](http://www.sdge.com/ch%C3%ADnh-s%C3%A1ch-v%E1%BB%81-quy%E1%BB%81n-ri%C3%AAng-t%C6%B0)
+  * [Arabic](https://www.sdge.com/%D8%B3%D9%8A%D8%A7%D8%B3%D8%A9-%D8%A7%D9%84%D8%AE%D8%B5%D9%88%D8%B5%D9%8A%D8%A9)
+  * [Armenian](https://web.archive.org/web/20170324143342id_/https://www.sdge.com/customer-privacy/node/2196)
+  * [Farsi](https://www.sdge.com/%D8%B3%DB%8C%D8%A7%D8%B3%D8%AA-%D8%AD%D9%81%D8%B8-%D8%AD%D8%B1%DB%8C%D9%85-%D8%AE%D8%B5%D9%88%D8%B5%DB%8C)
+  * [Hmong](https://www.sdge.com/txoj-cai-hais-txog-ntiag-tug)
+  * [Kmer](https://www.sdge.com/ekalkarn%C3%A9kcnpab)
+  * [Korean](https://www.sdge.com/%EA%B0%9C%EC%9D%B8%EC%A0%95%EB%B3%B4-%EB%B3%B4%ED%98%B8%EB%B0%A9%EC%B9%A8)
+  * [Russian](https://www.sdge.com/%D0%BF%D0%BE%D0%BB%D0%B8%D1%82%D0%B8%D0%BA%D0%B0-%D0%BA%D0%BE%D0%BD%D1%84%D0%B8%D0%B4%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D0%B8)
+  * [Spanish](https://www.sdge.com/pol%C3%ADtica-de-privacidad)
+  * [Tagalog](https://www.sdge.com/patakaran-hinggil-sa-pagkapribado)
+  * [Thai](https://www.sdge.com/%E0%B8%99%E0%B9%82%E0%B8%A2%E0%B8%9A%E0%B8%B2%E0%B8%A2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B8%AA%E0%B9%88%E0%B8%A7%E0%B8%99%E0%B8%95%E0%B8%B1%E0%B8%A7)
+  * [Vietnamese](https://www.sdge.com/ch%C3%ADnh-s%C3%A1ch-v%E1%BB%81-quy%E1%BB%81n-ri%C3%AAng-t%C6%B0)
 
 
