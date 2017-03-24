@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the javhdmovies.net privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124081606id_/http%3A//javhdmovies.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javhdmovies.net privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324085720id_/http%3A//javhdmovies.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,3 +45,9 @@ Unfortunately, the transmission of information via the Internet is not completel
  **YOUR RIGHTS**
 
 You are entitled to access and correct your Data by doing so directly on the website or by requesting us to do so via the [Contact us.](http://javhdmovies.net/contact/)
+
+#### Incoming search terms:
+
+  * jav hd feature
+
+
