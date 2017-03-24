@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oxfamindia.org privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414154107id_/http%3A//www.oxfamindia.org/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oxfamindia.org privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324052523id_/http%3A//www.oxfamindia.org/privacy-security) for the most accurate reproduction.*
 
 # Privacy & security | Oxfam India
 
@@ -44,7 +44,7 @@ Responses to your questions/comments to us.
 
 We may use your demographic information for in-house statistics, advertising, promotions and marketing target information.
 
-If at any time you would like to unsubscribe from marketing and/or service email communications from Oxfam India please email us at **friendsofoxfam@oxfamindia.org** with your request.
+If at any time you would like to unsubscribe from marketing and/or service email communications from Oxfam India please email us at **[friendsofoxfam@oxfamindia.org](mailto:friendsofoxfam@oxfamindia.org)** with your request.
 
 ##### Privacy of our email lists
 
