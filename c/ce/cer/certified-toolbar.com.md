@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the certified-toolbar.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042649id_/http%3A//certified-toolbar.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the certified-toolbar.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324120833id_/http%3A//certified-toolbar.com/privacy.html) for the most accurate reproduction.*
 
 # Certified Toolbar - Apps We Trust
 
