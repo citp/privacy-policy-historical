@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the whitemango.in privacy policy that was archived on 2016-11-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161101183039id_/http%3A//whitemango.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whitemango.in privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324091637id_/http%3A//whitemango.in/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy Online India Ethnic Wear Store
+# < ?php echo ($this->getForcedTitle()) ? Mage::getStoreConfig('design/head/title_prefix').' '.$this->getForcedTitle().' '.Mage::getStoreConfig('design/head/title_suffix') : $this->getTitle() ?>
 
 Last updated on September 9, 2013
 
