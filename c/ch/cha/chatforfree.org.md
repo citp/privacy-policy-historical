@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the chatforfree.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119043117id_/http%3A//www.chatforfree.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatforfree.org privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324084446id_/https%3A//www.chatforfree.org/privacy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Chatforfree.org
+
+## Chat Room Privacy Policy
 
 Chatforfree.org has created this privacy statement & terms conditions in order to demonstrate our firm commitment to privacy. The following discloses our information gathering and dissemination practices for this website: www.Chatforfree.org
 
@@ -47,4 +49,4 @@ Chatforfree.org is not responsible for any webcams that has been streaming in ou
 
   
 Contacting the Web Site   
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can fill in our [contact form.](http://contact.chatforfree.org/form-955181/Contact "contact")
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact us for clarification.
