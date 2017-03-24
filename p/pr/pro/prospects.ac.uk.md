@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the prospects.ac.uk privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114155346id_/https%3A//www.prospects.ac.uk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the prospects.ac.uk privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324033620id_/https%3A//www.prospects.ac.uk/privacy) for the most accurate reproduction.*
 
 # Privacy statement and cookie information | Prospects.ac.uk
 
@@ -14,7 +14,7 @@ Prospects' reserves the right to modify or update this privacy statement at any 
 
 You do not have to provide any personal information in order to browse this website. Any information you provide will be held within and used by Graduate Prospects as detailed in this privacy statement.
 
-We will collect personal information about you when you register with us through the use of paper and electronic registration forms. You are able to update the personal information we collect and hold about you at any time by visiting your [profile](https://web.archive.org/profile).
+We may collect personal information about you when you register with us through the use of paper and electronic registration forms. This information includes name, email address, password, gender, ethnicity and preference information to enable personalisation. You are able to update the personal information we collect and hold about you at any time by visiting your [profile](https://web.archive.org/profile).
 
 In addition to your personal information, when you use our website, we may collect tracking information such as your browser type, the type of operating system you use, the name of your internet service provider and pages visited on the site.
 
@@ -28,7 +28,7 @@ We collect information on our users for a variety of purposes:
   * To conduct market research.
   * To reply to your enquiries more efficiently through the services we provide.
   * To run competitions.
-  * So that we can send you news items which are relevant to your interests.
+  * So that we can send you information relevant to your interests.
   * So that we can inform you of new offers, products and services that may be of interest to you.
 
 
@@ -50,7 +50,7 @@ From time to time we may share anonymous information about visitors to this site
 
 We may also disclose or access your account if required to do so by law.
 
-## Cookies and other similiar technologies
+## Cookies and other similar technologies
 
 Graduate Prospects uses first-party, third-party, session and persistent cookies, tags and other similar technologies as a means of collecting non-sensitive information on general website usage so that we may improve your experience on our website.
 
