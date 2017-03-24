@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the directenergy.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905064826id_/https%3A//www.directenergy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the directenergy.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324055844id_/https%3A//www.directenergy.com/privacy-policy/texas-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Direct Energy
 
@@ -115,9 +115,9 @@ Our goal is to provide you with simple and meaningful choices about how your inf
 
 ## VI. Your California Privacy Rights 
 
-**Privacy Policy Requirements:**   Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at Direct Energy, LP, 12 Greenway Plaza, Ste 250, Houston, TX 77046, Attn: Privacy Officer, c/o Compliance Department or by email at [privacy@directenergy.com. ](mailto:privacy@directenergy.com)
+**Privacy Policy Requirements:**   Residents of the State of California, under certain provisions of the California Civil Code, have the right to request from companies conducting business in California a list of all third parties to which the company has disclosed certain personally identifiable information as defined under California law during the preceding year for third party direct marketing purposes. You are limited to one request per calendar year. In your request, please attest to the fact that you are a California resident and provide a current California address for our response. You may request the information in writing at Direct Energy, LP, 12 Greenway Plaza, Ste 250, Houston, TX 77046, Attn: Privacy Officer, c/o Compliance Department or by email at [privacy@directenergy.com](mailto:privacy@directenergy.com).
 
-[You may learn more about your rights under California's privacy laws at ](mailto:privacy@directenergy.com)[http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/).
+You may learn more about your rights under California's privacy laws at [http://www.privacyprotection.ca.gov](http://www.privacyprotection.ca.gov/).
 
 ## VII. Safeguarding PII
 
