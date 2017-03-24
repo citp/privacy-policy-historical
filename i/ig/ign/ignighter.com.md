@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ignighter.com privacy policy that was archived on 2015-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151222220644id_/http%3A//www.stepout.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ignighter.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324164707id_/https%3A//www.stepout.com/privacy) for the most accurate reproduction.*
 
 # Stepout - Meet New People
 
@@ -90,6 +90,10 @@ The security measures put in place on Stepout prevent the loss, misuse, and alte
 You can get access to your personal data free of charge (and correct it, or have it corrected, where relevant). Please promptly update your information if it changes.
 
 You can object to the use of your personal data for direct marketing purposes.
+
+* #### Do Not Track Disclosure
+
+Do Not Track ('DNT') is a privacy preference that users can set in their web browsers. DNT is a way for users to inform websites and services that they do not want certain information about their webpage visits collected over time and across websites or online services. We are committed to providing you with meaningful choices about the information we collect. However, we do not recognise or respond to any DNT signals, as the Internet industry works toward defining exactly what DNT means, what it means to comply with DNT, and a common approach to responding to DNT.
 
 * #### Control of your password
 
