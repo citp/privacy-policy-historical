@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the cbs5az.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121202023id_/http%3A//www.cbs5az.com/story/30079230/this-web-sites-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cbs5az.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324114012id_/http%3A//www.cbs5az.com/story/30079230/this-web-sites-privacy-policy) for the most accurate reproduction.*
 
 # This Web Site’s Privacy Policy - CBS 5 - KPHO
 
