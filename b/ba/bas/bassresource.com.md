@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bassresource.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110010741id_/http%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bassresource.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324115102id_/https%3A//www.bassresource.com/fish/Privacy.html) for the most accurate reproduction.*
 
 # Privacy Statement & Anti-Spam Policy | The Ultimate Bass Fishing Resource Guide® LLC
 
@@ -65,4 +65,4 @@ Should you have any questions about this anti-spam policy, please contact BassRe
 In addition to this notice, you encouraged to read the [Terms and Conditions](http://www.bassresource.com/fish/copyright.html) of this site. You are bound by such provisions and should therefore periodically visit this page.
 
 Grow your fishing skills and improve your angling effectiveness.   
-[Subscribe](http://www.bassresource.com/newsletter.html "Subscript") to the free weekly BassResource newsletter.
+[Subscribe](https://www.bassresource.com/newsletter.html "Subscript") to the free weekly BassResource newsletter.
