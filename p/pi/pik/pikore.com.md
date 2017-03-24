@@ -1,57 +1,11 @@
-> *The following text is extracted and transformed from the pikore.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826043851id_/http%3A//www.pikore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pikore.com privacy policy that was archived on 2017-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170324064903id_/https%3A//vibbi.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Pikore
+# Privacy Policy | Vibbi
 
-Thank you for visiting Pikore.com (the "Site") and reviewing the Privacy Policy Pikore ("Pikore", "We", "Us", "Our" ). By using or accessing the Site, you expressly consent to Our collection, storage, use and disclosure of your personal information as described in this Privacy Policy.
+### Summary
 
-## Information collection and use
+We collect non-private personal information when you access our website. This includes, but is not limited to, your IP address and the User Agent string sent by your web browser. 
 
-### Collection of information
+We do not sell or share collected information with third parties outside of Vibbi's business operations. 
 
-You are free to browse the Site without revealing any personal information making it possible to identify you. However, once you have sent us your identifiable personal information, you are no longer anonymous to us.
-
-We collect two types of information from Users of the Site: “Automatic Anonymous Information” (AAI) and “Identifiable Personal Information” (IPI). We process AAI and IPI differently, and the following articles describe both AAI and IPI and indicate how each type of information is collected and used by Pikore.
-
-The Site make it possible to monitor certain information automatically, based on your behaviour. This information does not identify you personally. We use this information to improve the Content and functionality of the Site, and to better understand and satisfy our visitors. This information may include the browser you use, your IP address or other information. This information is referred to herein as the AAI.
-
-IPI is individually identifiable information about you that allows us to identify or contact you. Some of the Site’s functions require asking you for certain IPI, such as your instagram username, instagram password and/or other personal information.
-
-But we do not handle your Instagram passwords directly. We use Instagram's API and OAuth 2.0 protocol to authorize Our users. Our databases are secured with passwords to guard against unauthorized access of Our systems. Only engineer staff members may access data on a need-to-know basis.
-
-You may choose to provide IPI in order to access certain functions on the Site. You can always choose not to provide certain information, but in that case it may be that you cannot use certain of the Site’s functions.
-
-### Shared information
-
-We may be required by law enforcement, government administrators, and/or judicial authorities to provide personally identifiable information. We will disclose personally identifiable information upon receipt of a court order, or if required to co-operate with law enforcement, administrative or other governmental agencies. We reserve the right to report to law enforcement agencies any activities that We in good faith believe to be unlawful.
-
-Our service providers who help with Our business operations and employees on a need-to-know basis. Third parties to whom you explicitly ask Us to send your information or you consent to and are notified when using a specific service. Business entities, if We plan to merge with or be acquired by that business entity, should such a change in control occur.
-
-## Links
-
-On the Site you will find various links directing you to Third Party Sites or to Third Party Content. Pikore shall not be liable for the links posted by Users or the privacy policies of such third parties. The Terms of Use Pikore Site, and in particular this Privacy Policy, do not govern to Third Party Sites or to Third Party Content which the User accesses from the Site.
-
-## Use of cookies
-
-We use cookies to collect non personal information, help smooth user experience, remember you on future visits, better understand how users engage with the Site so we can enhance the User experience.
-
-The use of these cookies is optional; you can configure your browser not to accept, or to only sometimes accept, cookies.
-
-However, for optimum use of the Site, we advise you to accept Pikore cookies. Certain functions may require the use of cookies in order to function correctly.
-
-## Commenting or posting on the site
-
-When you post information (a tag, a link, a comment…) on the Site, the information may be consulted or used by any User; we therefore invite you to take care when posting, as this can lead to you receiving unsolicited information from Users.
-
-## Security
-
-Pikore uses its best efforts to ensure the confidentiality of your personal data.
-
-Pikore uses secure technology according to industry standards to protect the Content and the User privacy. All Pikore personnel have a duty to respect the confidentiality of the Users. A confidentiality obligation is included in each employment contract of Pikore employees with access to personal data.
-
-## Modification of the privacy policy
-
-Pikore reserves the right to modify or amend this Privacy Policy at any time. Any modification or amendment will be effective upon Pikore posting the same on the Site. Continued use by you of the Site after Pikore has posted an updated version of the Privacy Policy implies your consent to the Privacy Policy as modified or amended. Consequently, it is important that you regularly read this Privacy Policy to ensure that you are fully aware of any changes that may be made to them.
-
-### Contact
-
-If you have any questions or concerns about this Privacy Policy or its implementation you may [contact us](https://web.archive.org/contact).
+By visiting our website, you understand that Vibbi.com may save, store and read cookies on your device in order to provide and improve our services. 
