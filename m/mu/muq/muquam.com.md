@@ -1,13 +1,32 @@
-> *The following text is extracted and transformed from the muquam.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401133648id_/http%3A//www.muquam.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the muquam.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325092838id_/https%3A//muquam.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy - Muquam.com
+
+  * __ Newsletter 
+
+## **Subscribe & Get Rs. 500/- Off**
+
+on your first 5 purchases*
+
+Fill In Your Details And We'll Email You Your Gift Vouchers.
+
+* Rs.100/- off on each purchase of worth Rs. 1000/- and Above!
+
+Your Information will never be shared with any third party.
+
+  *   *   * [ Login / Register  ](https://muquam.com/my-account/)
+
+
+
+### ****Privacy Policy ****
 
 When you place your order or sign up with us, we appreciate your trust in us. Privacy of your personal information is taken very seriously and we keep your information, order history and any other records completely private.
 
 **OUR GUARANTEE:** Muquam.com or any of its affiliates will NEVER misuse your personal information!!  
-We follow a very strict privacy policy as follows:
+We follow a very strict privacy policy as follows:  
 
-## **No Sharing of Information**
+
+No Sharing of Information
 
   * We will never give out your email address or any other details: We do not include you in any mailing lists without your explicit consent. You will NEVER receive a spam mail because of us.
   * We will never sell your information to any third parties: You probably do not know but most companies track browsing history, leave unwanted cookies on your desktops and even sell your information and browsing behaviour to mailing lists or third parties. We ABSOLUTELY hate it.
@@ -19,26 +38,26 @@ We follow a very strict privacy policy as follows:
 
 
 
-## **How we use your information**
+How we use your information
 
   * **Your shipping address:** This is used to ship your order. You can change it for every order and we will NEVER send anything else to this address except your order itself.
-  * **Your phone number:** This is used only for purposes of helping the courier delivery person track you. The concealed packing of the orders ensures that the courier delivery person does not get to know anything about your order or you. We may also call you on the phone number provided to confirm the order before dispatching OR for any other purpose related to the order placed on Muquam.com. The call might be made via automated system or by customer care representative. You may also reiceive an SMS with the details of how to confirm/reject order via miss call or other service.
+  * **Your phone number:** This is used only for purposes of helping the courier delivery person track you. The concealed packing of the orders ensures that the courier delivery person does not get to know anything about your order or you. We may also call you on the phone number provided to confirm the order before dispatching OR for any other purpose related to the order placed on Muquam.com. The call might be made via automated system or by customer care representative. You may also receive an SMS with the details of how to confirm/reject order via miss call or other service.
   * **Your credit card information:** Your CC/bank account information is used only to process the transaction.
   * Your email address: We will NEVER send you e-mails if you request us not to. As a default, we assume your consent to send you e-mails for purposes of: 
     1. E-mailing you copy of the order
     2. E-mailing you the shipping confirmation
     3. E-mailing you a short customer satisfaction survey
-    4. E-mailing you 'Reminders' for products you opt to be reminded for
-    5. If you desire so, we can send you all of the above via SMS also. In line with our standards, we would never reveal our identity in the SMSes sent to you.
+    4. E-mailing you ‘Reminders’ for products you opt to be reminded for
+    5. If you desire so, we can send you all of the above via SMS also. In line with our standards, we would never reveal our identity in the SMSs sent to you.
   * **Your billing address:** This is required ONLY for purposes of verification of your credit card. Muquam.com will NEVER send anything to your billing address.
 
 
 
-## **Gathering Information**
+Gathering Information
 
 Every website inevitably collects information. However, we have a comprehensive information gathering policy to maintain your privacy.
 
-  * For Visitors (people who look into our store or visit us) - When you visit Muquam.com, we know that someone is visiting us but we do NOT know that it is you. We ONLY count the number of visitors and track which pages/products are of greater interest to visitors. We do NOT gather or use any information about any specific persons who visit our site
+  * For Visitors (people who look into our store or visit us) – When you visit Muquam.com, we know that someone is visiting us but we do NOT know that it is you. We ONLY count the number of visitors and track which pages/products are of greater interest to visitors. We do NOT gather or use any information about any specific persons who visit our site
   * For Customers (people who have an account with us or order with us) 
     1. We keep a record of your personal information but it is covered by our Privacy Policy and is held in strictest confidence.
     2. You have the right to know what information we have collected about you. You also have the right to change this information. If you would like to contact us about changing some aspect of the information we have for you, please write to us at cs@muquam.com
@@ -49,21 +68,17 @@ Every website inevitably collects information. However, we have a comprehensive 
 
 
 
-## **DND**
+DND
 
-  * You may receive transactional SMS, calls on registered mobile/landline number with us, related to your account/orders placed on our website.
+  * You may receive transnational SMS, calls on registered mobile/landline number with us, related to your account/orders placed on our website.
   * All the calls/SMS will be related to transactions performed on our website.
   * You may be sent promotional SMS related to offers/products on our site. Should you wish to not receive those, you may click on the un-subscribe link provided on those SMS.
   * You may receive alerts/notifications related to your order on our mobile apps.
-  * You may receive notications on our mobile apps related to new products/offers etc. added on Muquam.com. You may turn off notifications if you wish to by changing App Notification settings on your mobile. 
+  * You may receive notification on our mobile apps related to new products/offers etc. added on Muquam.com. You may turn off notifications if you wish to by changing App Notification settings on your mobile.
 
 
 
-## **Advertising**
-
-We may use re-targetting features of ad platforms like Google AdWords, Facebook, or any other ad platform.
-
-## **Legal issues**
+Legal issues
 
   * Just in case, a transaction is involved in a legal dispute (usually credit card fraud), information might be requested from us in form of a sub-poena (legal demand for information or appearance). In such cases, we might be required to furnish requisite information. In case this occurs, our policy is to first contact the customer (through preferred medium chosen by the customer) to inform them of our legal obligations.
   * These issues are not common and generally happen in case of credit card frauds. Hence, such information sharing would help in protecting your account and business with us.
@@ -71,24 +86,19 @@ We may use re-targetting features of ad platforms like Google AdWords, Facebook,
 
 
 
-## **Links to other sites**
+Links to other sites
 
   * Our site may link to other websites that may collect personally identifiable information about you. Any such pages will clearly be identifiable in the browser URL and will not carry the Muquam.com logo on the top. We do not take any responsibility for the policies or actions of such websites whatsoever.
   * However, such links (except for the one to our payment gateway provider) are NOT required to browse or complete any transaction at Muquam.com. We have ensured that your experience with us is as private as it should be.
-  * Our payment gateway provider is PayU Money(https://www.payumoney.com/) and Citrus Pay (http://www.citruspay.com/), which has a history of managing millions of secure payment transactions. You may shop with confidence with us and make payments through them (You can refer to FAQ to understand their highest standards of security). You can visit their website and view their Privacy Policy.
+  * Our payment gateway provider is PayU Money(https://www.payumoney.com/) and Ccavenue, which has a history of managing millions of secure payment transactions. You may shop with confidence with us and make payments through them (You can refer to FAQ to understand their highest standards of security). You can visit their website and view their Privacy Policy.
   * Our site may have links from advertisers and we take NO responsibility of consequences after being re-directed to their websites.
 
 
 
-## **Merger, Acquisition and Termination of Service**
+Merger, Acquisition and Termination of Service
 
   * If we merge with, or are acquired by another company, the resulting combined company will use the Personal Information you have provided as described in this policy. If we cease operation, your Personal Information may be transferred to and used by another company that offers similar or related products or services.
 
 
 
-   
-We are confident that you agree that we have the BEST privacy policy in the industry. You are welcome to write to us at [**cs@muquam.com**](mailto:cs@muquam.com)? for any clarifications.
-
-Muquam.com © Copyright 2015-2016 
-
-0  0 [ ](http://www.muquam.com/#)
+We are confident that you agree that we have the best privacy policy in the industry. You are welcome to write to us at [**cs@muquam.com**](mailto:cs@muquam.com)? for any clarifications.
