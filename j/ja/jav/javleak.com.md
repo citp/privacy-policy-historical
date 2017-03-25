@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the javleak.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233842id_/http%3A//javleak.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javleak.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325174347id_/http%3A//javleak.com/privacy) for the most accurate reproduction.*
 
-# Privacy - JAV Online | JAV HD Streaming | Japanese Porn Free
+# Privacy - JAV Online | JAV HD Streaming | Watch Free Japanese Porn
 
 This privacy policy is intended to inform you about the types of information gathered by Javleak when you visit Javleak.com.
 
