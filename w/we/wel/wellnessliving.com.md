@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wellnessliving.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502061054id_/https%3A//www.wellnessliving.com/home/text/wellnessliving-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellnessliving.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325233259id_/https%3A//www.wellnessliving.com/home/text/wellnessliving-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - WellnessLiving
+# Wellnessliving.com: Next Generation Business Management Software | Wellness Center Appointment Booking Software
 
 Privacy Policy
 
@@ -81,9 +81,9 @@ WellnessLiving reserves the right to change this Privacy Statement. WellnessLivi
 
 Questions regarding this Privacy Statement or the information practices of the Company’s Web site should be directed to WellnessLiving Privacy by contacting us at privacy@wellnessliving.com or by mailing:
 
-WellnessLiving Systems Inc.  
-10255 Yonge St. Suite 210  
-Richmond Hill, ON  
-L4C3B2
+Wellness Living Systems Inc.  
+30 Fulton Way 8-203  
+Richmond Hill, Ontario  
+L4B-1E6
 
-Tel: 1-888-654-7277 
+Tel: 1-888–668–7728 
