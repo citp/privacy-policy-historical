@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iie.org privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125192853id_/http%3A//www.iie.org/en/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iie.org privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325075046id_/http%3A//www.iie.org/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Institute of International Education
 
@@ -62,7 +62,7 @@ The laws of the State of New York shall govern this Policy regardless of your lo
 
 By providing your email address to us, you expressly consent to receive emails from us. We may use email to communicate with you, to send information that you have requested or to send surveys or information about other products or services developed or provided by us or our vendors or business partners; however, we will not give your email address to another party to promote their products or services directly to you. If you do not wish to receive these types of emails from us, you may “opt-out” by sending an email to us at [siteinfo@iie.org](mailto:siteinfo@iie.org); however, please understand that we may continue sending you emails related to any account you have with us, any application you have submitted, or any transaction or agreement you have entered into with us. Please note that there might be a brief delay between when you submit your request to “opt-out” and when it is processed and reflected in our systems; accordingly, you may continue to receive certain communications from us for a limited time after you unsubscribe. We apologize for any inconvenience and appreciate your patience. Except for Personal Information submitted as part of an application or a purchase, any communication or material you transmit to us by email or otherwise, including any data, questions, comments, suggestions or the like, is, and will be treated as, non-confidential and nonproprietary.
 
-**uestions or Suggestions**
+**Questions or Suggestions**
 
 It is important to us at IIE to hear what visitors and users of the Website have to say about our services or our policies. If you have any questions, concerns or complaints about this Policy or want to let us know what you think about our services, please contact us using the following information:
 
