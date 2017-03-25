@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ibc.org privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224074414id_/http%3A//www.ibc.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ibc.org privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325094256id_/http%3A//www.ibc.org/privacy-policy) for the most accurate reproduction.*
 
 # IBC Privacy Policy - IBC.org
 
