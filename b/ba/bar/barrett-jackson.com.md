@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123132700id_/http%3A//barrett-jackson.com/Policies/Home/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the barrett-jackson.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325135010id_/https%3A//www.barrett-jackson.com/Policies/Home/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
