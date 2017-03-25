@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the logodesignteam.com privacy policy that was archived on 2015-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151207074317id_/http%3A//www.logodesignteam.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the logodesignteam.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325042851id_/https%3A//www.logodesignteam.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy - Logo Design by Logo Design Team - Custom Logo Design and Graphic Design Services
 
 Effective on March 8, 2010
 
-This privacy statement describes how A1 Future Technologies dba Logo Design Team ("Logo Design Team") collects and uses the personal information you provide on our Web site: www.logodesignteam.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
+This privacy statement describes how A1 Future Technologies Pvt. Ltd. dba Logo Design Team ("Logo Design Team") collects and uses the personal information you provide on our Web site: www.logodesignteam.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information. 
 
 Logo Design Team is a licensee of the TRUSTe Privacy Program. TRUSTe is an independent organization whose mission is to build user's trust and confidence in the Internet by promoting the use of fair information practices. This privacy statement covers the Web site www.logodesignteam.com. Because this Web site wants to demonstrate its commitment to your privacy, it has agreed to disclose its information practices and have its privacy practices reviewed for compliance by TRUSTe. 
 
@@ -113,7 +113,7 @@ We may update this privacy statement to reflect changes to our information pract
 Contact Information
 
 You can contact us by writing or email us at the address below:   
-**A1 Future Technologies**   
+**A1 Future Technologies Pvt. Ltd.**   
 Dba Logo Design Team   
 31 Raja Manindra Road   
 Paik Para   
