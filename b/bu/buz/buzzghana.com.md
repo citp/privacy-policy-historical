@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the buzzghana.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025021524id_/http%3A//buzzghana.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the buzzghana.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325094741id_/http%3A//buzzghana.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Ghana News Today | Latest News on BuzzGhana.com
 
