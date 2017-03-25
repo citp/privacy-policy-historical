@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pacsafe.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220182550id_/http%3A//www.pacsafe.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pacsafe.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325102459id_/http%3A//www.pacsafe.com/privacy_policy) for the most accurate reproduction.*
 
 # Pacsafe Privacy Policy | Pacsafe
 
