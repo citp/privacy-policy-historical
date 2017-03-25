@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movsflix.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115042435id_/http%3A//movsflix.com/privacy-policy-affiliate-disclosure) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movsflix.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325081440id_/http%3A//movsflix.com/privacy-policy-affiliate-disclosure) for the most accurate reproduction.*
 
 # Privacy Policy & Affiliate Disclosure
 
