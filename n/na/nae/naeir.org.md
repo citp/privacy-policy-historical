@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the naeir.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121234738id_/http%3A//www.naeir.org/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the naeir.org privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325232039id_/http%3A//www.naeir.org/about/privacy-policy) for the most accurate reproduction.*
 
 # NAEIR Privacy Policy - We respect your concerns about privacy.
 
