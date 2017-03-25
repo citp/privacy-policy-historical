@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itsworthmore.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120110139id_/http%3A//www.itsworthmore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itsworthmore.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325133159id_/https%3A//www.itsworthmore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ItsWorthMore.com
 
