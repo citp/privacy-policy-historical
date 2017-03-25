@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the militarybyowner.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123214141id_/http%3A//www.militarybyowner.com/privacy_policy1.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the militarybyowner.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325124927id_/http%3A//militarybyowner.com/privacy_policy1.aspx) for the most accurate reproduction.*
 
 # Privacy Policy
 
