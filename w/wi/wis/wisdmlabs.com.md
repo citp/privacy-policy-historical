@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wisdmlabs.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408083927id_/https%3A//wisdmlabs.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wisdmlabs.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325105638id_/https%3A//wisdmlabs.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -45,10 +45,7 @@ If there are any questions regarding this privacy policy you may [**contact us**
 
 Address :
 
-102, 2nd Floor, Vraj Vihar,  
-Opp. Makhmali Lake,  
-LBS Road,  
-Thane (W) – 400602
+601, Balaji Infotech Park, Road No 16/A, Wagle Industrial Estate, Thane (W) – 400604
 
 Email: info@wisdmlabs.com  
 Skype ID: wisdmlabs
