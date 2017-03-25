@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the deseretbook.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020041844id_/https%3A//deseretbook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deseretbook.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325075728id_/https%3A//deseretbook.com/privacy) for the most accurate reproduction.*
 
 # Deseret Book Co. Privacy Policy - Deseret Book
 
@@ -136,3 +136,5 @@ Unless prohibited by law, your participation in the posting of any information, 
   * **Public Forums.** Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social communityenvironments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by DBC or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact Guest Services.
 
 
+
+For legal information about our Deseret Bookshelf service see our [Deseret Bookshelf End User License Agreement](https://web.archive.org/legal/eula).
