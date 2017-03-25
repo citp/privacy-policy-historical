@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the greenlivingtips.com privacy policy that was archived on 2016-10-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161008220038id_/https%3A//www.greenlivingtips.com/pages/Privacy-statement.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the greenlivingtips.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325192035id_/https%3A//www.greenlivingtips.com/pages/Privacy-statement.html) for the most accurate reproduction.*
 
 # Privacy statement | Green Living Tips
 
@@ -53,11 +53,11 @@ Choice/Opt-Out
 
 Our site provides users the opportunity to opt-out of receiving communications from us and our partners at the point where we request information about the visitor.
 
-You can use our  [Contact ](http://www.greenlivingtips.com/pages/Contact-Us.html) form to opt out of any further communications from us.
+You can use our  [Contact ](https://www.greenlivingtips.com/pages/Contact-Us.html) form to opt out of any further communications from us.
 
 Contacting us
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we recommend you review our terms of service or you can submit your questions via our [Contact ](http://www.greenlivingtips.com/pages/Contact-Us.html) form; or via the following address:
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, we recommend you review our terms of service or you can submit your questions via our [Contact ](https://www.greenlivingtips.com/pages/Contact-Us.html) form; or via the following address:
 
 Michael Bloch  
 Box 2135  
