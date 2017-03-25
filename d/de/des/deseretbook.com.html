@@ -1,13 +1,13 @@
-<!--The following is the downloaded HTML source of the deseretbook.com privacy policy that was archived on 2016-10-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161020041844id_/https%3A//deseretbook.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the deseretbook.com privacy policy that was archived on 2017-03-25.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170325075728id_/https%3A//deseretbook.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head data-hook="inside_head">
 <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NKVCRJ"></script><script crossorigin="" src="https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js"></script><script type="text/javascript">var _rollbarConfig = {"accessToken":"78b2c62f77b9411a820c38269368a49f","captureUncaught":true,"payload":{"environment":"production"}};</script>
 <script type="text/javascript">!function(r){function e(t){if(o[t])return o[t].exports;var n=o[t]={exports:{},id:t,loaded:!1};return r[t].call(n.exports,n,n.exports,e),n.loaded=!0,n.exports}var o={};return e.m=r,e.c=o,e.p="",e(0)}([function(r,e,o){"use strict";var t=o(1).Rollbar,n=o(2);_rollbarConfig.rollbarJsUrl=_rollbarConfig.rollbarJsUrl||"https://d37gvrvc0wt4s1.cloudfront.net/js/v1.9/rollbar.min.js";var a=t.init(window,_rollbarConfig),i=n(a,_rollbarConfig);a.loadFull(window,document,!_rollbarConfig.async,_rollbarConfig,i)},function(r,e){"use strict";function o(r){return function(){try{return r.apply(this,arguments)}catch(e){try{console.error("[Rollbar]: Internal error",e)}catch(o){}}}}function t(r,e,o){window._rollbarWrappedError&&(o[4]||(o[4]=window._rollbarWrappedError),o[5]||(o[5]=window._rollbarWrappedError._rollbarContext),window._rollbarWrappedError=null),r.uncaughtError.apply(r,o),e&&e.apply(window,o)}function n(r){var e=function(){var e=Array.prototype.slice.call(arguments,0);t(r,r._rollbarOldOnError,e)};return e.belongsToShim=!0,e}function a(r){this.shimId=++c,this.notifier=null,this.parentShim=r,this._rollbarOldOnError=null}function i(r){var e=a;return o(function(){if(this.notifier)return this.notifier[r].apply(this.notifier,arguments);var o=this,t="scope"===r;t&&(o=new e(this));var n=Array.prototype.slice.call(arguments,0),a={shim:o,method:r,args:n,ts:new Date};return window._rollbarShimQueue.push(a),t?o:void 0})}function l(r,e){if(e.hasOwnProperty&&e.hasOwnProperty("addEventListener")){var o=e.addEventListener;e.addEventListener=function(e,t,n){o.call(this,e,r.wrap(t),n)};var t=e.removeEventListener;e.removeEventListener=function(r,e,o){t.call(this,r,e&&e._wrapped?e._wrapped:e,o)}}}var c=0;a.init=function(r,e){var t=e.globalAlias||"Rollbar";if("object"==typeof r[t])return r[t];r._rollbarShimQueue=[],r._rollbarWrappedError=null,e=e||{};var i=new a;return o(function(){if(i.configure(e),e.captureUncaught){i._rollbarOldOnError=r.onerror,r.onerror=n(i);var o,a,c="EventTarget,Window,Node,ApplicationCache,AudioTrackList,ChannelMergerNode,CryptoOperation,EventSource,FileReader,HTMLUnknownElement,IDBDatabase,IDBRequest,IDBTransaction,KeyOperation,MediaController,MessagePort,ModalWindow,Notification,SVGElementInstance,Screen,TextTrack,TextTrackCue,TextTrackList,WebSocket,WebSocketWorker,Worker,XMLHttpRequest,XMLHttpRequestEventTarget,XMLHttpRequestUpload".split(",");for(o=0;o<c.length;++o)a=c[o],r[a]&&r[a].prototype&&l(i,r[a].prototype)}return e.captureUnhandledRejections&&(i._unhandledRejectionHandler=function(r){var e=r.reason,o=r.promise,t=r.detail;!e&&t&&(e=t.reason,o=t.promise),i.unhandledRejection(e,o)},r.addEventListener("unhandledrejection",i._unhandledRejectionHandler)),r[t]=i,i})()},a.prototype.loadFull=function(r,e,t,n,a){var i=function(){var e;if(void 0===r._rollbarPayloadQueue){var o,t,n,i;for(e=new Error("rollbar.js did not load");o=r._rollbarShimQueue.shift();)for(n=o.args,i=0;i<n.length;++i)if(t=n[i],"function"==typeof t){t(e);break}}"function"==typeof a&&a(e)},l=!1,c=e.createElement("script"),d=e.getElementsByTagName("script")[0],p=d.parentNode;c.crossOrigin="",c.src=n.rollbarJsUrl,c.async=!t,c.onload=c.onreadystatechange=o(function(){if(!(l||this.readyState&&"loaded"!==this.readyState&&"complete"!==this.readyState)){c.onload=c.onreadystatechange=null;try{p.removeChild(c)}catch(r){}l=!0,i()}}),p.insertBefore(c,d)},a.prototype.wrap=function(r,e){try{var o;if(o="function"==typeof e?e:function(){return e||{}},"function"!=typeof r)return r;if(r._isWrap)return r;if(!r._wrapped){r._wrapped=function(){try{return r.apply(this,arguments)}catch(e){throw e._rollbarContext=o()||{},e._rollbarContext._wrappedSource=r.toString(),window._rollbarWrappedError=e,e}},r._wrapped._isWrap=!0;for(var t in r)r.hasOwnProperty(t)&&(r._wrapped[t]=r[t])}return r._wrapped}catch(n){return r}};for(var d="log,debug,info,warn,warning,error,critical,global,configure,scope,uncaughtError,unhandledRejection".split(","),p=0;p<d.length;++p)a.prototype[d[p]]=i(d[p]);r.exports={Rollbar:a,_rollbarWindowOnError:t}},function(r,e){"use strict";r.exports=function(r,e){return function(o){if(!o&&!window._rollbarInitialized){var t=window.RollbarNotifier,n=e||{},a=n.globalAlias||"Rollbar",i=window.Rollbar.init(n,r);i._processShimQueue(window._rollbarShimQueue||[]),window[a]=i,window._rollbarInitialized=!0,t.processPayloads()}}}}]);</script><meta charset="utf-8"><meta content="IE=edge" http-equiv="X-UA-Compatible"><meta content="width=device-width, initial-scale=1" name="viewport"><title>Deseret Book Co. Privacy Policy - Deseret Book</title><meta content="BwXBgCggPo5rlWjPIkLVaDbhF2kGcbq1so4GqhnSG08" name="google-site-verification"><meta name="keywords" content="LDS Books, LDS Art, LDS Movies, LDS Music, LDS Gifts">
-<meta name="description" content="Find thousands of LDS books, movies, music and more. Looking for an LDS related gift? Find it at Deseret Book!"><link href="https://deseretbook.com/privacy" rel="canonical"><link rel="shortcut icon" type="image/x-icon" href="https://dkm8om2y7q28b.cloudfront.net/images/favicon.ico"><meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="eKvRhWd1KKsDLulPEk2Ashu1mCt8p9BmDoM1qaXLyfhHlmHzoNuMvVoqGra9LLWGmYQo5p+zzcNgSjYzGakUPQ=="><!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]--><link rel="stylesheet" media="screen" href="https://dkm8om2y7q28b.cloudfront.net/assets/application-97268ebe71556b5c60f7d4334069d61810ec3f4d0f5428bae6ef54511169895c.css"><script src="https://dkm8om2y7q28b.cloudfront.net/assets/application-6b09c3692ef78a0bceffad9aa78db6548beb9970893a52b69185601aa6b9b5f0.js"></script><meta content="Deseret Book Co. Privacy Policy" name="title"><meta content="Privacy Policy" name="keywords"><meta content="" name="description"></head><body class="one-col static_content show lang-en " data-hook="body" id="default"><div class="ads ad adsbox doubleclick ad-placement carbon-ads" id="blocker-bait" style="height: 1px; width: 1px; position: absolute; left: -999em; top: -999em"></div><!--Google Tag Manager--><script>window.dataLayer = window.dataLayer || [];</script><noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-NKVCRJ" style="display:none;visibility:hidden" width="0"></iframe></noscript>
-<!-- 
-  Account for guest order 
+<meta name="description" content="Find thousands of LDS books, movies, music and more. Looking for an LDS related gift? Find it at Deseret Book!"><link href="https://deseretbook.com/privacy" rel="canonical"><link rel="shortcut icon" type="image/x-icon" href="https://dkm8om2y7q28b.cloudfront.net/favicon.ico"><meta name="csrf-param" content="authenticity_token">
+<meta name="csrf-token" content="S7/ry1jBpFr0xqXnzQG1uPSh+ZG/rWufLr8pd9P8UgSnb3oMWI4eoyK118s5prPeHSQWfWUWvC7oESzDl1h6/w=="><!--[if lt IE 9]><script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv.min.js"></script><![endif]--><link rel="stylesheet" media="screen" href="https://dkm8om2y7q28b.cloudfront.net/assets/application-0d84ad9b2ed25ad658d905370e990f0a3bc738f70b058face046fce76450b6bb.css"><script src="https://dkm8om2y7q28b.cloudfront.net/assets/application-e55f11d84349db76f031e5f098b4671d593d3f9e7e5ad0a01dbed8a85bd4cfaf.js"></script><meta content="Deseret Book Co. Privacy Policy" name="title"><meta content="Privacy Policy" name="keywords"><meta content="" name="description"></head><body class="one-col static_content show lang-en " data-hook="body" id="default"><div class="ads ad adsbox doubleclick ad-placement carbon-ads" id="blocker-bait" style="height: 1px; width: 1px; position: absolute; left: -999em; top: -999em"></div><!--Google Tag Manager--><script>window.dataLayer = window.dataLayer || [];</script><noscript><iframe height="0" src="//www.googletagmanager.com/ns.html?id=GTM-NKVCRJ" style="display:none;visibility:hidden" width="0"></iframe></noscript>
+<!--
+  Account for guest order
     if it is a guest order the cache key is by order number only
     if there is no order, this is cached by user
 -->
@@ -15,9 +15,6 @@
 
   <script type="text/javascript">
     dataLayer.push({
-
-      'allowSubscriptions': false,
-
       'loggedIn': false,
 
 
@@ -46,7 +43,7 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 
 
 
-<form class="form-inline clearfix js-search-bar" id="search-bar" data-hook="" action="/products" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓"><div class="form-group"><input type="search" name="keywords" id="keywords" placeholder="Search" class="form-control input-sm js-search-field"></div><div class="form-group"><input alt="Search" type="image" src="https://dkm8om2y7q28b.cloudfront.net/assets/search-013c61cd1548085e17f77f4cb9deb8781278b4c2050acb66606c865d56edad4b.svg" data-no-svg="https://dkm8om2y7q28b.cloudfront.net/assets/search-490a7dbd0e19e81c6755d1d37b915b7a9bd9a5d3adeeb71c76a6fb4a26651d31.png" aria-label="Search DeseretBook.com" class="btn btn-primary img-responsive js-search-button"></div></form>
+<form class="form-inline clearfix js-search-bar" id="search-bar" data-hook="" action="/products" accept-charset="UTF-8" method="get"><input name="utf8" type="hidden" value="✓"><div class="form-group"><input type="search" name="keywords" id="keywords" placeholder="Search" class="form-control js-search-field"></div><div class="form-group"><input alt="Search" type="image" src="https://dkm8om2y7q28b.cloudfront.net/assets/search-013c61cd1548085e17f77f4cb9deb8781278b4c2050acb66606c865d56edad4b.svg" data-no-svg="https://dkm8om2y7q28b.cloudfront.net/assets/search-490a7dbd0e19e81c6755d1d37b915b7a9bd9a5d3adeeb71c76a6fb4a26651d31.png" aria-label="Search DeseretBook.com" class="btn btn-primary img-responsive js-search-button"></div></form>
 </div></div></div></div></div></div></div></div></div><!--header--0-false-en-main-nav-bar--><div class="clearfix"></div><!--Main nav bar-->
 <nav>
 <div class="hidden-xs" id="main_nav">
@@ -267,7 +264,7 @@ Children's
 <div class="module">
 <ul>
 <li>
-<a href="/bookshelf">Download Deseret Bookshelf
+<a href="/bookshelf-plus">Download Deseret Bookshelf
 </a>
 </li>
 
@@ -999,7 +996,9 @@ DBC reserves the right to modify or amend this Privacy Policy at any time, but y
   <li><strong>Parents.</strong> Parents means a parent or legal guardian</li>
   <li><strong>Personal information.</strong> Personal information means nformation that identifies (whether directly or indirectly) a particular individual, such as the individual’s name, postal address, email address and telephone number. When anonymous information i directly or indirectly associated with personal information, this anonymous information also is treated as personal information.</li>
   <li><strong>Public Forums.</strong> Our sites and applications may offer message boards, conversation pages, blogs, chat rooms, social communityenvironments, profile pages, and other forums that do not have a restricted audience. If you provide personal information when you use any of these features, that personal information may be publicly posted and otherwise disclosed without limitation as to its use by DBC or by a third party. To request removal of your personal information from a public forum on one of our sites or applications, please contact Guest Services.</li>
- </ul></div></div></div></div><div class="row">
+ </ul>
+
+<p>For legal information about our Deseret Bookshelf service see our <a href="/legal/eula">Deseret Bookshelf End User License Agreement</a>.</p></div></div></div></div><div class="row">
 <div class="col-xs-12">
 
 
@@ -1239,7 +1238,8 @@ Shop Our Stores
 <img src="https://dkm8om2y7q28b.cloudfront.net/assets/bottom_left_ribbon-fd9165c83805f3246e7cb4c0e2b83f5141a31c0e4151433cc12517a07ecd4c1d.png" alt="Bottom left ribbon">
 
 </span><div class="col-sm-4" id="copyright">
-<span>© 1996-2016 Deseret Book Company. All Rights Reserved.
+<span class="db-icon db-com-logo">
+</span><span>© 1996-2017 Deseret Book Company. All Rights Reserved.
 </span>
 </div>
 <div class="col-sm-8">
