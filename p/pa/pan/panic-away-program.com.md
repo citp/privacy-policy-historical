@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the panic-away-program.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818190220id_/http%3A//www.panic-away-program.com/method_privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the panic-away-program.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325161305id_/http%3A//www.panic-away-program.com/method_privacy.php) for the most accurate reproduction.*
 
 # Panic Away
 
