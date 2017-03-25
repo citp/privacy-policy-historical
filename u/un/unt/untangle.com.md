@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the untangle.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529092947id_/http%3A//www.untangle.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the untangle.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325070543id_/https%3A//www.untangle.com/privacy) for the most accurate reproduction.*
 
 # Privacy | Untangle
 
-_Last Updated 12/11/2006_
+_Last Updated 12/15/2014_
 
 **General Information**  
 Untangle, Inc. respects the privacy of our customers, business partners and employees. Untangle has therefore established the Untangle Online Privacy Policy (the “Privacy Policy”) that covers the collection and use of personal information that may be collected by Untangle anytime you interact with Untangle, such as when you visit our website, when you use our products and services, or when you contact us by phone, e-mail or online.  Please read the following to assist you in understanding what information we collect, how that information is used and how we safeguard it.
