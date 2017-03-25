@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2016-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160627085704id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sem-group.net privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325203540id_/http%3A//sem-group.net/search-engine-marketing-group-privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy « Search Engine Marketing Group
+# Privacy Policy - SEM Group
 
 Search engine marketing group is committed to protecting your privacy.
 
@@ -16,12 +16,3 @@ We will only collect the minimum amount of information that is required to provi
 
 
 For questions regarding this privacy policy you may call 281-727-0484 or simply fill out the [contact form](http://sem-group.net/contact-search-engine-marketing-group/) with the words Privacy Policy in the subject line.
-
-### What Our Clients Are Saying!
-
-## Testimonials
-
-Working with Gerald has been an absolute pleasure. Within the first month of working with him, he helped us rank our website on the front page of Google in the #1 spot for a highly competitive keyword that generates 75,000 global searches per month. To say we were happy would be an understatement! Stop searching for another SEO company, Gerald is the only person you need on your team to get bottom line results.
-
-Scott Bradley  
-[leanstrongbody.com](http://leanstrongbody.com/)
