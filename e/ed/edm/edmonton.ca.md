@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the edmonton.ca privacy policy that was archived on 2016-09-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160925202446id_/https%3A//www.edmonton.ca/privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the edmonton.ca privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325202313id_/https%3A//www.edmonton.ca/privacy.aspx) for the most accurate reproduction.*
 
 # Web Privacy Code :: City of Edmonton
 
@@ -26,16 +26,3 @@ The City uses this information to help us make our site more useful to visitors,
   7. Security measures are implemented in order that web services remain available to all users. The City of Edmonton computer system employs software programs to monitor network traffic to identify attempts to tamper with information, or to otherwise cause damage. 
 
 
-
-## For More Information
-
-**Office of the City Clerk**
-
-3rd floor, City Hall  
-1 Sir Winston Churchill Square  
-Edmonton, AB  T5J 2R7
-
-Telephone | 780-496-8178  
----|---  
-Fax | 780-496-8175  
-Email | [city.clerk@edmonton.ca](mailto:city.clerk@edmonton.ca)
