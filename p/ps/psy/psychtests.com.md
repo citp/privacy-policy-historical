@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the psychtests.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122065114id_/http%3A//testyourself.psychtests.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the psychtests.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325082150id_/http%3A//testyourself.psychtests.com/privacy) for the most accurate reproduction.*
 
 # TestYourself by PsychTests: Tests and quizzes on personality, IQ, love/relationships, career, health and attitudes/lifestyle. Professional quality online psychological assessments developed by the web's prominent testing experts.
 
