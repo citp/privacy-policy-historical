@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jeffreynewyork.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202035400id_/https%3A//www.jeffreynewyork.com/info/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jeffreynewyork.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325064757id_/https%3A//www.jeffreynewyork.com/info/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
