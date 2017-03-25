@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rafflecopter.com privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201065159id_/https%3A//www.rafflecopter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rafflecopter.com privacy policy that was archived on 2017-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170325234456id_/https%3A//www.rafflecopter.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rafflecopter :)
 
-Privacy comes first and foremost at Rafflecopter. Your privacy is critically important to us. This privacy policy is effective May 28th, 2015; it summarizes what information we might collect from a registered user or other visitor, and what we will and will not do with it.
+Privacy comes first and foremost at Rafflecopter. Your privacy is critically important to us. This privacy policy is effective January 6th, 2016; it summarizes what information we might collect from a registered user or other visitor, and what we will and will not do with it.
 
 First, we have a few fundamental principles at Rafflecopter:
 
