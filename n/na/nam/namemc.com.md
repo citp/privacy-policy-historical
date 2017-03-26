@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the namemc.com privacy policy that was archived on 2016-08-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160802021612id_/https%3A//namemc.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the namemc.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326035545id_/http%3A//namemc.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy – NameMC
 
@@ -10,6 +10,8 @@ In common with other websites, log files are stored on the web server saving det
 Cookies may be used to remember visitor preferences when interacting with the website.
 
 Where registration is required, the visitor's email and a username will be stored on the server.
+
+We do not knowingly collect any personally identifiable information from children under the age of 13.
 
 How the Information Is Used
     
