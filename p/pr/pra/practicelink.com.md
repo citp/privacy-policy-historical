@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the practicelink.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017164627id_/http%3A//www.practicelink.com/Info/GoWebPage.aspx%3FurlId%3D4355186%26sourceId%3D251%26actionContext%3D/default.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the practicelink.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326061557id_/https%3A//www.practicelink.com/Info/GoWebPage.aspx%3FurlId%3D4355186%26sourceId%3D251%26actionContext%3D/default.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Physician Jobs | PracticeLink.com
 
@@ -111,9 +111,9 @@ We use Cookies, which are small text files stored on Employers, Candidates, and 
 
 We currently use the following cookies:
 
-**AdRoll** : The PracticeLink Website uses AdRoll cookies to provide targeting advertising content based on your browsing choices. If you do not wish to receive this type of tailored advertising, you can visit [this page](http://www.networkadvertising.org/choices/) (http://www.networkadvertising.org/choices/) to opt out of most online ad networks that use such advertising, including AdRoll. 
+**AdRoll** : The PracticeLink Website uses AdRoll cookies to provide targeting advertising content based on your browsing choices. If you do not wish to receive this type of tailored advertising, you can visit [this page](https://www.networkadvertising.org/choices/) (https://www.networkadvertising.org/choices/) to opt out of most online ad networks that use such advertising, including AdRoll. 
 
-**HubSpot** : The PracticeLink Website uses HubSpot cookies to manage, provide, and enhance our job search related services. To opt out of this type of tracking, you can use a private browser like [Chrome's Incognito Mode](https://support.google.com/chrome/answer/95464) or [Firefox's Private Browsing feature](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history?redirectlocale=en-US&redirectslug=Private+Browsing). You can also utilize a browser add-on like [Ghostery](https://www.ghostery.com/en/) or [BetterPrivacy](http://betterprivacy.en.softonic.com/). 
+**HubSpot** : The PracticeLink Website uses HubSpot cookies to manage, provide, and enhance our job search related services. To opt out of this type of tracking, you can use a private browser like [Chrome's Incognito Mode](https://support.google.com/chrome/answer/95464) or [Firefox's Private Browsing feature](https://support.mozilla.org/en-US/kb/private-browsing-use-firefox-without-history?redirectlocale=en-US&redirectslug=Private+Browsing). You can also utilize a browser add-on like [Ghostery](https://www.ghostery.com/en/) or [BetterPrivacy](https://betterprivacy.en.softonic.com/). 
 
 Opting out of targeted advertising and marketing will not prevent you from seeing ads entirely, but the ads will no longer be delivered to you via targeting methods. You can also control the receipt of Cookies through your browser’s settings. Please note that some of our services may not function properly if Cookies are disabled.
 
