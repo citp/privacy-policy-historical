@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the realtyshares.com privacy policy that was archived on 2014-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20141012230057id_/https%3A//www.realtyshares.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the realtyshares.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327012255id_/https%3A//www.realtyshares.com/privacy-policy) for the most accurate reproduction.*
 
-# RealtyShares - Privacy Policy
+# RealtyShares - Online Real Estate Investment Platform, Crowdfunding for Real Estate
 
 #### Last Updated June 2, 2013
 
@@ -9,9 +9,9 @@
 At RealtyShares we take your privacy seriously and do our best to protect it. We are required by law to ask for certain information in order to perform our services for you, but we are committed to protecting your personal and financial information. Below are basic privacy principles or privacy policy "bill of rights" that we adhere to. This Bill of Rights includes the following list of policies:
 
   * We don't ask you for personal or financial information unless we need it.
-  * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights.
-  * We aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept private, and permanently deleted.
-  * We will send you emails relating to specific transactions but will keep these emails to a minimum.
+  * We don't share your personal information with anyone except to comply with the law, develop our products, or protect our rights. 
+  * We aim to make it as simple as possible for you to control what's visible to the public, seen by search engines, kept private, and permanently deleted. 
+  * We will send you emails relating to specific transactions but will keep these emails to a minimum. 
   * We will maintain appropriate security standards and procedures to protect your information.
   * We will respect the trust you place in us and the confidential nature of the information you provide through your financial relationship with us. 
 
@@ -37,10 +37,10 @@ By voluntarily providing us with Personal Information, you are giving RealtyShar
 
 Non-Identifying Information. As is the case with most websites, when you visit the Site or interact with RealtyShares through the Site or Services (and whether or not you register for access to the Services), we receive, automatically track and store certain non-identifying information about you, including but not limited to:
 
-  * browser type; 
-  * IP address; 
-  * language preference; 
-  * cookies; domain servers; 
+  * browser type;
+  * IP address;
+  * language preference;
+  * cookies; domain servers;
   * URL traffic to, through and from the Site;
   * types of computers and operating systems accessing the Site;
   * statistical information about behavior of visitors/users to the Site; and
@@ -69,11 +69,11 @@ RealtyShares considers the protection of sensitive information to be an importan
   * identify you when you sign-in to your account;
   * enable us to provide you with the Services;
   * send you information we think you may find useful or which you have requested from us;
-  * present projects or opportunities to you when you use the Services which we believe will be of interest based on your geographic location and previous use of the Services;
-  * notify an Issuer of your interest in the event you indicate an interest in making an investment with the Issuer through the Services;
+  * present projects or opportunities to you when you use the Services which we believe will be of interest based on your geographic location and previous use of the Services; 
+  * notify an Issuer of your interest in the event you indicate an interest in making an investment with the Issuer through the Services; 
   * administer your account with us;
   * enable us to contact you regarding any question you make through the Services;
-  * analyze the use of the Services and the people visiting to improve our content and Services; 
+  * analyze the use of the Services and the people visiting to improve our content and Services;
   * use for other purposes that we may disclose to you when we request your information.
 
 
@@ -94,12 +94,12 @@ Regarding email contact with and from RealtyShares, please keep in mind the foll
 
 RealtyShares limits the sharing of your Personal Information and strives to keep your Personal Information private and confidential. We do not sell, license, lease or otherwise disclose your personal information to any unaffiliated third party for any reason, except as follows: 
 
-  * We may disclose your Personal Information when such disclosure is required or appropriate pursuant to laws, court orders or securities regulations, including responding to court orders and subpoenas, cooperating with government agencies, other regulatory bodies and law enforcement officials, performing background checks, resolving disputes or performing risk-management functions.
-  * We may share your Personal Information with companies that provide services to us, including outside contractors or agents who help us manage our information activities, but they may only use your personal information to provide us with a specific service and not for any other purpose.
-  * To help us improve our services to you, we may engage third parties to help us carry out certain internal functions such as account processing, client services or other data collection relevant to our business. Use of any Personal Information shared in connection therewith is strictly limited to the performance of the task we request and for no other purpose.
-  * In the event you indicate an interest in making an investment through our Site, we will notify the Issuer of your interest and will provide your personal information to the Issuer.
-  * We may make certain automatically collected information about your interactions and activities on the Services, such as the business or investment areas of interest to you or you have invested in, and your past activities, projects or proposals, publicly available on or through the Services. Any such publicly available information will be accessible by other Users.
-  * In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Information may be part of the transferred assets and you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information.
+  * We may disclose your Personal Information when such disclosure is required or appropriate pursuant to laws, court orders or securities regulations, including responding to court orders and subpoenas, cooperating with government agencies, other regulatory bodies and law enforcement officials, performing background checks, resolving disputes or performing risk-management functions. 
+  * We may share your Personal Information with companies that provide services to us, including outside contractors or agents who help us manage our information activities, but they may only use your personal information to provide us with a specific service and not for any other purpose. 
+  * To help us improve our services to you, we may engage third parties to help us carry out certain internal functions such as account processing, client services or other data collection relevant to our business. Use of any Personal Information shared in connection therewith is strictly limited to the performance of the task we request and for no other purpose. 
+  * In the event you indicate an interest in making an investment through our Site, we will notify the Issuer of your interest and will provide your personal information to the Issuer. 
+  * We may make certain automatically collected information about your interactions and activities on the Services, such as the business or investment areas of interest to you or you have invested in, and your past activities, projects or proposals, publicly available on or through the Services. Any such publicly available information will be accessible by other Users. 
+  * In the event of a corporate sale, merger, reorganization, dissolution or similar event, Personal Information may be part of the transferred assets and you will be notified via email and/or a prominent notice on our Site of any change in ownership or uses of your personal information, as well as any choices you may have regarding your personal information. 
 
 
 
@@ -110,7 +110,7 @@ RealtyShares limits the sharing of your Personal Information and strives to keep
 The Security of your User Information is important to us, and we take commercially reasonable steps to safeguard such information . These steps and procedural safeguards are in line with industry standards and practices and include:
 
   * Encryption and authentication tools to maintain the confidentiality of User Information including secure socket layer technology (SSL); 
-  * Limits on, to the greatest extent possible, who or what can access your User Information; and 
+  * Limits on, to the greatest extent possible, who or what can access your User Information; and
   * The use of cookies to help (anonymously) recognize you as a repeat visitor and to track Site traffic patterns. 
 
 
@@ -161,10 +161,10 @@ RealtyShares does not knowingly collect Personal Information from children under
 
 #### Other Terms and Conditions
 
-Your access to and use of this Site is subject to the [Terms of Service](https://web.archive.org/web/20141012230057id_/https%3A//www.realtyshares.com/terms-of-service).
+Your access to and use of this Site is subject to the [Terms of Service](https://web.archive.org/terms-of-service). 
 
 * * *
 
 #### Contact RealtyShares
 
-If you have questions or comments about this Privacy Policy, your choices with regards to our collection and use of your User Information or any other aspect of the Site or Services, please feel free to contact us by email at [contact@realtyshares.com](mailto:contact@realtyshares.com).
+If you have questions or comments about this Privacy Policy, your choices with regards to our collection and use of your User Information or any other aspect of the Site or Services, please feel free to contact us by email at [contact@realtyshares.com](mailto:contact@realtyshares.com). 
