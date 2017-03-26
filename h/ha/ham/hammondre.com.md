@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the hammondre.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221144933id_/http%3A//www.hammondre.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hammondre.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326204651id_/http%3A//hammondre.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Hammond Residential Real Estate, LLC
+# Privacy Policy Hammond Residential Real Estate
 
 **Overview**
 
 You take online privacy seriously and so we. This statement is one way of sustaining your trust in our company, our products and our services. Our privacy statement describes how we collect, protect and use information about you during your visit on our web site.
 
-**What Personal Information Does Hammond Residential Real Estate, LLC Collect Online?**
+**What Personal Information Does Hammond Residential Real Estate Collect Online?**
 
 We may collect personal information about you from the information you provide to us when you fill out an application or other forms on our site. We may also receive personal information about you from consumer reporting agencies, your transactions with us, our affiliates or others. This information may include:
 
@@ -25,7 +25,7 @@ Also, if you choose to share any personal information with us, we may store it a
 
 We collect personal information about you when you fill out an application or other forms on our site, when you register through registration web pages and each time you update your personal profile.
 
-**Does Hammond Residential Real Estate, LLC Use Cookies or Other Online Technologies to Collect Information About Me?**
+**Does Hammond Residential Real Estate Use Cookies or Other Online Technologies to Collect Information About Me?**
 
 Some of our web sites may make use of "cookie" technology to measure site activity and to customize information to your personal tastes. A cookie is an element of data that a web site can send to your browser, which may then store the cookie on your hard drive. So, when you come back to visit us again, we can tailor information to suit your individual preferences. The goal is to save you time and provide you with a more meaningful visit.
 
@@ -49,8 +49,8 @@ If you have completed and saved, but have not submitted, an online form or appli
 
 We restrict access to the information obtained from our websites and web pages to our employees, agents and contractors. We maintain physical, electronic and procedural safeguards designed to protect personal information.
 
-**Will Hammond Residential Real Estate, LLC Make Changes To This Privacy Statement?**
+**Will Hammond Residential Real Estate Make Changes To This Privacy Statement?**
 
-This statement is effective January 1, 2011 and remains in effect until amended. Hammond Residential Real Estate, LLC reserves the right to amend this Privacy Statement or alter its privacy principles at its sole discretion without notice to you. Any alterations to this Privacy Statement or our privacy principles will be posted on our web site in a timely manner.
+This statement is effective January 1, 2011 and remains in effect until amended. Hammond Residential Real Estate reserves the right to amend this Privacy Statement or alter its privacy principles at its sole discretion without notice to you. Any alterations to this Privacy Statement or our privacy principles will be posted on our web site in a timely manner.
 
 Email sent using this web site's email forms is logged and reviewed.
