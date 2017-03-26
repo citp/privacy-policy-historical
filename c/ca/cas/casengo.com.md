@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the casengo.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325194301id_/https%3A//www.casengo.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the casengo.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326111305id_/https%3A//www.casengo.com/privacy-policy) for the most accurate reproduction.*
 
 # Casengo | Privacy Policy
 
@@ -34,4 +34,4 @@ We appreciate the trust you have in us and we will be extremely careful with you
 
 Cookies are small pieces of information that your browser save at your computer. Casengo uses cookies to recognize you at your next visit. Cookies enable us to collect information about the use of our services and to improve and adapt to the needs of our visitors. Our cookies provide information related to personal identification. You can set up your browser so that you can visit Casengo without receiving cookies.
 
-If you have any questions about the Privacy Policy of Casengo, please send an e-mail to [support@casengo.com](mailto:support@casengo.com). Our customer service will help you if you need information about your data or if you want to change them. If a change of our privacy policy will become necessary you will find the most recent information on this page.
+If you have any questions about the Privacy Policy of Casengo, please send an e-mail to [support@casengo.com](mailto:&#x73;&#x75;&#x70;&#112;&#111;&#114;&#x74;&#x40;&#99;&#97;&#x73;&#101;&#x6e;&#103;&#x6f;&#46;&#99;&#x6f;&#x6d;). Our customer service will help you if you need information about your data or if you want to change them. If a change of our privacy policy will become necessary you will find the most recent information on this page.
