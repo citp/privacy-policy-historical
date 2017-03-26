@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the channelpages.com privacy policy that was archived on 2016-11-22.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161122140939id_/http%3A//channelpages.com/meta/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the channelpages.com privacy policy that was archived on 2017-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170326083002id_/http%3A//channelpages.com/meta/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html class="js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths" lang="en" style=""><!--<![endif]--><head>
 <meta charset="utf-8">
@@ -46,7 +46,7 @@
 <link rel="apple-touch-icon" href="apple-touch-icon.png">
  
 <link type="text/css" rel="stylesheet" href="/assets/css/normalize.css?1386962215">
-<link type="text/css" rel="stylesheet" href="/assets/css/main.css?1433274499">
+<link type="text/css" rel="stylesheet" href="/assets/css/main.css?1490193162">
 <link type="text/css" rel="stylesheet" href="/assets/css/vendor/bootstrap.min.css?1426018313">
 <link type="text/css" rel="stylesheet" href="/assets/css/vendor/bootstrap-slider.css?1426018313">
 <link type="text/css" rel="stylesheet" href="/assets/css/lang/en_us.css?1417103283">
@@ -97,6 +97,10 @@
 <h1 class="navbar-brand">
 <a class="link_channelpages" href="/">Channel Pages Privacy Policy</a>
 </h1>
+<span class="span_by" style="float: left; margin-top: 24px; margin-left: 13px; font-weight: bold; font-style: italic; color: #4b4b4b; font-size: 16px; font-family: proxima-nova ! important;">by</span>
+<h1 class="navbar-fb">
+<a target="_blank" class="link_channelpages" href="https://www.fanbridge.com/solutions/creators/?utm_source=ChannelPages&amp;utm_medium=link_profile&amp;utm_campaign=header"></a>
+</h1>
 </div>
 <div class="collapse navbar-collapse" id="main-navbar">
 <ul class="nav navbar-nav navbar-right cl-effect ">
@@ -105,9 +109,6 @@
 </li>
 <li id="nav-brands">
 <a href="/brands">brands</a>
-</li>
-<li id="nav-forum">
-<a href="//forum.channelpages.com" target="_blank">Forum</a>
 </li>
 <li class="b-search" id="nav-search">
 <a href="/search">Search</a>
@@ -246,7 +247,6 @@ As a <strong>YouTube Certified Partner</strong>, we are held to the highest secu
 <ul>
 <li><a href="/">Creators</a></li>
 <li><a href="/brands">brands</a></li>
-<li><a href="//forum.channelpages.com" target="_blank">Forum</a></li>
 <li><a href="/search">Search</a></li>
 <li><a class="connect_btn login_btn" rel="nofollow">Login</a></li>
 </ul>
@@ -321,7 +321,16 @@ window.onload = function(){
 <script type="text/javascript">
 
 	$(document).ready(function () {
-
+                function adjust_logo() {
+                        if($(window).width() < 496) {
+                                $('.navbar-fb,.span_by').hide();
+                        }
+                        else {
+                                $('.navbar-fb,.span_by').show();
+                        }
+                }
+                $(window).resize(adjust_logo);
+                adjust_logo();
 		// Expand the language selection box
 		$(".header-languages").click(function () {
 
