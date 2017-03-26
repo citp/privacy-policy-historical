@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dk.co.uk privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012034218id_/https%3A//www.dk.com/uk/information/privacy-policy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dk.co.uk privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326030944id_/https%3A//www.dk.com/uk/information/privacy-policy-and-cookies) for the most accurate reproduction.*
 
 # DK Privacy Policy and Cookies | Help and Shopping | DK.com
 
@@ -30,7 +30,7 @@ We regularly run competitions and prize draws and, in addition to your answer or
 
 #### Shopping
 
-Currently we do not offer an e-commerce service so you are unable to buy products directly from us. However, our site contains links to other sites that may, subject to their own terms, be able to provide this service. Please note that such sites are not under our control and do not necessarily follow our Privacy Policy.
+You can buy products directly from us, as well as from our selected retailer partners. However, please note that other retailers’ sites are not under our control and do not necessarily follow our Privacy Policy.
 
 #### Forums and User Content
 
@@ -102,4 +102,4 @@ United Kingdom
 
 Email: [editor@dk.com](mailto:editor@dk.com)
 
-Tel: 020 7010 3000
+Tel: 020 7139 2000
