@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the technabob.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122174934id_/http%3A//technabob.com/blog/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the technabob.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326043754id_/http%3A//technabob.com/blog/privacy-policy) for the most accurate reproduction.*
 
-# Privacy & Cookie Policy
+# Privacy & Cookie Policy - Technabob
 
 Please read this Privacy & Cookie Policy carefully before using or proceeding to access this website. Your use of this website indicates you have read and understood this Privacy & Cookie Policy and indicates your agreement to abide by the terms herein.
 
