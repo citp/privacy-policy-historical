@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the thekitchenmagpie.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403154513id_/http%3A//www.thekitchenmagpie.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thekitchenmagpie.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326044611id_/http%3A//www.thekitchenmagpie.com/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - The Kitchen Magpie
 
-This privacy policy sets out how KitchenMagpie.com  uses and protects any information that you give while using www.thekitchenmagpie.com Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
+This privacy policy sets out how KitchenMagpie.com  uses and protects any information that you give while using www.thekitchenmagpie.com
+
+Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement.
 
 KitchenMagpie.com   may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. This policy is effective from Wednesday, September 15, 2010.
 
