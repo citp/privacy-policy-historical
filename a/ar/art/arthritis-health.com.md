@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arthritis-health.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124195259id_/http%3A//www.arthritis-health.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arthritis-health.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326023702id_/http%3A//www.arthritis-health.com/privacy-policy) for the most accurate reproduction.*
 
 # Arthritis-health Privacy Policy
 
