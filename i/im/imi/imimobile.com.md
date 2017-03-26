@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the imimobile.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403000012id_/http%3A//imimobile.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the imimobile.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326062238id_/https%3A//imimobile.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - IMImobile
 
@@ -70,7 +70,7 @@ We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If IMIMobile Europe Limited or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20160403000012id_/http://imimobile.com/privacypolicy/terms) and other agreements; or to protect the rights, property, or safety of IMIMobile Europe Limited (including our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006), our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20170326062238id_/https://imimobile.com/privacypolicy/terms) and other agreements; or to protect the rights, property, or safety of IMIMobile Europe Limited (including our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006), our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
