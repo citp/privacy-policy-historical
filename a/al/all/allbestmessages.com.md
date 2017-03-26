@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the allbestmessages.com privacy policy that was archived on 2016-10-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161021193308id_/http%3A//www.allbestmessages.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allbestmessages.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326041016id_/http%3A//www.allbestmessages.co/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
-This declaration reveals the practices privacy for all services, categories and pages offered by allbestmessages.com  
+This declaration reveals the practices privacy for all services, categories and pages offered by allbestmessages.co  
 
 
 Personally Provided Information  
 
 
-You don’ have to suggest us personal and private information to visit our site [www.allbestmessages.com](http://www.allbestmessages.com/) . If you desire to suggest us with more detail and information through an e-mail message, comments, inquiry form & a lot of other different ways, then our team maintain the detail & information as long as very vital to react to your inquiry, questions, or to reach the stated cause of the communication as well as records them for lots of statistical reasons. Apart from for certified law enforcement scrutiny, our squad does not give, share, sell or change any personal information to a 3rd party.  
+You don’ have to suggest us personal and private information to visit our site [www.allbestmessages.co](http://www.allbestmessages.co/) . If you desire to suggest us with more detail and information through an e-mail message, comments, inquiry form & a lot of other different ways, then our team maintain the detail & information as long as very vital to react to your inquiry, questions, or to reach the stated cause of the communication as well as records them for lots of statistical reasons. Apart from for certified law enforcement scrutiny, our squad does not give, share, sell or change any personal information to a 3rd party.  
 
 
 Website Traffic Analysis Software  
@@ -34,17 +34,17 @@ You are asked to recommend sure detail and information if you ask for to get quo
 Third Party Advertising Partners  
 
 
-Allbestmessages.com user’s should keep in mind that third parties can be placing & analysis cookies on your browsers, or utilizing web beacons to discover information as a effect of personal ad serving on allbestmessages.com. Like as one of our co-workers, search engine Google uses the ‘Double-click DART’ cookie on allbestmessages.com showing ‘AdSense’ for content ads. As well, other ad associates may job their personal cookies to track publicity stats.  
+allbestmessages.co user’s should keep in mind that third parties can be placing & analysis cookies on your browsers, or utilizing web beacons to discover information as a effect of personal ad serving on allbestmessages.co. Like as one of our co-workers, search engine Google uses the ‘Double-click DART’ cookie on allbestmessages.co showing ‘AdSense’ for content ads. As well, other ad associates may job their personal cookies to track publicity stats.  
 
 
 External Links  
 
 
-This site allbestmessages.com has some links to other websites. This site is not responsible and lieble for the practices privacy or content of such other websites. Our users are first prority for us and we encourage them to be alert and watchful when they leave our website & to read the privacy reports of all website to which we may link that may gather private information.  
+This site allbestmessages.co has some links to other websites. This site is not responsible and lieble for the practices privacy or content of such other websites. Our users are first prority for us and we encourage them to be alert and watchful when they leave our website & to read the privacy reports of all website to which we may link that may gather private information.  
 
 
 Responsibility  
 
 
-[www.allbestmessages.com](http://www.allbestmessages.com/) group can’t be held guilty for any action result any sort of loss to an person or group.  
+[www.allbestmessages.co](http://www.allbestmessages.co/) group can’t be held guilty for any action result any sort of loss to an person or group.  
 
