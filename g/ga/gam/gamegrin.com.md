@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gamegrin.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233608id_/http%3A//www.gamegrin.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamegrin.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326195655id_/https%3A//www.gamegrin.com/about-us/privacy) for the most accurate reproduction.*
 
 # Privacy | GameGrin
 
@@ -12,7 +12,7 @@ This website privacy policy describes how GameGrin protects and makes use of the
 
 This website privacy policy was updated on: 18th Nov 2015
 
-If you have any questions about this policy, please [contact us](http://www.gamegrin.com/about-us/contact-us/).
+If you have any questions about this policy, please [contact us](https://www.gamegrin.com/about-us/contact-us/).
 
 ## Introduction
 
@@ -48,7 +48,7 @@ Specifically, we may use data:
 
 ## Cookies
 
-Please [see our Cookies policy](http://www.gamegrin.com/about-us/cookies/) for more information
+Please [see our Cookies policy](https://www.gamegrin.com/about-us/cookies/) for more information
 
 ## Controlling information about you
 
@@ -60,7 +60,7 @@ When you fill in a form or provide your details on our website, you may see one 
 
 If you have agreed that we can use your information for marketing purposes, you can change your mind easily, via one of these methods:
 
-  * Send an [email via our contact form](http://www.gamegrin.com/about-us/contact-us/).
+  * Send an [email via our contact form](https://www.gamegrin.com/about-us/contact-us/).
 
 
 
