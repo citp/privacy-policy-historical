@@ -1,74 +1,73 @@
-> *The following text is extracted and transformed from the sportsrageous.com privacy policy that was archived on 2014-06-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140626024127id_/http%3A//www.sportsrageous.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sportsrageous.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326051341id_/http%3A//www.sportsrageous.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy | Sportsrageous
+# Privacy Policy - Sportsrageous
 
-### Privacy
+**Our Commitment To Privacy**
 
-What This Privacy Policy Covers
+We are committed to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with the Data Protection Act 1998). Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
 
-This policy covers how Sportsrageous.com (“Sportsrageous.com”) treats information which personally identifies you (personal information) that Sportsrageous.com collects and receives. The personal information we collect may include your name, address, phone number, or e-mail address. Once you provide Sportsrageous.com with personal information, you are not anonymous to us. 
+**The Information We Collect**
 
-There are several links from the Sportsrageous.com site to third party information and service providers who may collect personal information from you in order to provide you with information or services. Sportsrageous.com has no control over the privacy policy of any third party company, so please examine their privacy policy prior to submitting any personal information. This privacy policy only applies to the Sportsrageous.com web site. 
+This notice applies to all information collected or submitted on the sportsrageous.com. On some pages, make requests, and register to receive music,ecards, etc. The types of personal information collected at these pages are:
 
-Information Collection and Use
+Name
 
-General:  
-When you read stories at Sportsrageous.com, Sportsrageous.com does not collect any personal information from you. 
+Address
 
-Sportsrageous.com collects personal information when you submit feedback or enter a contest. We may also receive personal information from you, for example when you: respond to an email requesting feedback.
+Email address
 
-When you visit Sportsrageous.com pages, we may collect certain information about your visit from your browser, including the Internet Protocol (IP) address through which you access the Internet, the date and time you access the Sportsrageous.com site, the pages that you access while at the Sportsrageous.com site and the Internet address  
-of the site from which you linked directly to the Sportsrageous.com site. Sportsrageous.com aggregates non-specific visitor information for statistical purposes, such as which stories are most popular, and which stories are read more frequently. 
+Friend’s e-mail addresses (Tell-A-Friend contest)
 
-This information is used to help improve the Sportsrageous.com site, analyze trends, and administer the site. 
+**How Do We Use Information We Collect from Cookies?**
 
-Sportsrageous.com uses your personal information for the following general purposes: to determine a winner to contests, to respond to your feedback and to alert you of winners to a contest you’ve entered. In addition, we use your information to send out our weekly newsletter.
+We use Web site browser software tools such as cookies and Web server logs to gather information about our Web site users’ browsing activities, in order to constantly improve our Web site and better serve our customers. This information assists us to design and arrange our Web pages in the most user-friendly manner and to continually improve our Web site to better meet the needs of our customers and prospective customers. Cookies help us collect important business and technical statistics. The information in the cookies lets us trace the paths followed by users to our Web site as they move from one page to another. Web server logs allow us to count how many people visit our Web site and evaluate our Web site’s visitor capacity. We do not use these technologies to capture your individual email address or any personally identifying information about you although they do permit us to send focused online banner advertisements or other such responses to you.
 
-Sportsrageous.com uses aggregate and non-personal information to conduct research and to provide reports for Sportsrageous.com business partners and customers. 
+**The Way We Use Information**
 
-Information Sharing and Disclosure
+We do not share your information with outside parties. We use the information you provide about someone else when placing an request only for the tell-a-friend contest. We use return email addresses to answer the email we receive for tech support, customer service, tell-a-friend contest, email updates and to send registered users their unlock codes. Such addresses are not used for any other purpose and are not shared with outside parties. Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
 
-Sportsrageous.com does not rent, sell, or share personal information about you with other people or nonaffiliated companies except to provide products or services you’ve requested, when we have your permission, or under the following circumstances: 
+**Our Commitment To Data Security**
 
-You elect to receive information from contest sponsors by checking the “opt in” box for that contest. Sportsrageous.com will share your personal information only as you have elected. 
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
-Advertisements served by third party Internet advertising technology companies, appear on pages throughout the Sportsrageous.com site.
+**Our Commitment To Children’s Privacy**
 
-Some advertisements may request personal information directly from you or take you to web sites that may request your personal information. Sportsrageous.com has no control over its advertisers’ privacy policies, so please examine the privacy policy of any company advertising on the Sportsrageous.com site prior to submitting any personal information. In addition, some ad-serving companies may place or recognize a unique cookie on your browser and may use information  
-about your visits to the Sportsrageous.com site and other web sites in order to provide advertisements about goods and services of interest to you.
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
 
-Please be aware that when you provide personal information to Sportsrageous.com and authorize Sportsrageous.com to share the information with a third party, your personal information becomes the property of Sportsrageous.com and/or the third party.
+**Third-Party Websites**
 
-Sportsrageous.com and/or the third party may use your personal information to process your request and provide valuable services. Sportsrageous.com will only share your personal information with third parties under a confidentiality agreement or similar arrangement that restricts the third party from sharing your personal information with others. 
+This website may provide links to third-party websites. Any such links are provided solely as a convenience to you. sportsrageous.com has no control over these websites or their content and does not assume any responsibility or liability for these websites. sportsrageous.com does not endorse or make any representations about these websites, or any information, materials, or products found thereon. If you access any of the third-party websites linked on this Web site, you do so at your own risk.
 
-If you do not want your information to be used for marketing by or a third party, do not “opt in” or agree to such use when you provide your personal information through the Sportsrageous.com site. If you do not want your non-specific information used for marketing please do not submit your information through our contests.
+**Log Files**
 
-Please note that whenever you opt in to receive future communications from a third party, your information will be subject to the third party’s privacy policy. If you later decide that you do not want that third party to use your information, you will need to contact the third party directly, as we have no control over how third parties use  
-information. You should always review the privacy policy of any party that collects your information to determine how that entity will handle your information. 
+Like many other Web sites, www.sportsrageous.com makes use of log files. The information inside the log files includes internet protocol ( IP ) addresses, type of browser, Internet Service Provider ( ISP ), date/time stamp, referring/exit pages, and number of clicks to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
 
-We respond to subpoenas, court orders, or legal process, or to establish or exercise our legal rights or defend against legal claims. We may also transfer personal information about you if Sportsrageous.com is acquired by or merged with another company. 
+**Cookies and Web Beacons**
 
-Based on client activity or on information that has been provided, Sportsrageous.com may display targeted advertisements on the Sportsrageous.com site, but Sportsrageous.com does not provide your personal information to the advertiser in order to display the targeted ads. Sportsrageous.com and third-party advertising companies note some of the pages you visit through the use of pixel tags. Sportsrageous.com and third-party advertising companies (which  
-may include network advertisers) may use information (not including your name, address email address or telephone number) about your visits to this and other web sites in order to provide advertisements about  
-goods and services of apparent interest to you. The information collected by third-party advertising companies through the use of these pixel tags is not personally identifiable. 
+www.sportsrageous.com does use cookies to store information about visitors preferences, record user-specific information on which pages the user access or visit, customize Web page content based on visitors browser type or other information that the visitor sends via their browser.
 
-Sportsrageous.com site content is also integrated into other web sites. These web sites may collect personal information from their visitors that may or may not be used in conjunction with the Sportsrageous.com site content. Prior to supplying any personal information to any third party company linking to Sportsrageous.com site, please read and understand their privacy policy. 
+**DoubleClick DART Cookie**
 
-Cookies
+Google, as a third party vendor, uses cookies to serve ads on www.sportsrageous.com.  
+Google’s use of the DART cookie enables it to serve ads to users based on their visit to www.sportsrageous.com and other sites on the Internet.  
+Users may opt out of the use of the DART cookie by visiting the Google ad and content network privacy policy at the following URL – [www.google.com](http://www.google.com/privacy_ads.html)
 
-Sportsrageous.com lets other companies, including business partners and companies that show advertisements on some of our pages, set and access their cookies on your computer. Other companies’ use of their cookies is subject to their own privacy policies. 
+Some of our advertising partners may use cookies and web beacons on our site. Our advertising partners include Google Adsense.
 
-Advertisers or other companies may have access to Sportsrageous.com’s cookies. You have the ability to accept or  
-decline these cookies. Most web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of this or other web sites you visit. 
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on www.sportsrageous.com send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
-Protection of Minor’s Personal Information
+www.sportsrageous.com has no access to or control over these cookies that are used by third-party advertisers.
 
-Sportsrageous.com is a general audience site and does not knowingly collect any personal information from minors. 
+You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.sportsrageous.com’s privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-Changes to this Privacy Policy
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers’ respective websites.
 
-Sportsrageous.com may occasionally update this privacy policy. When we do, we will also revise the “last updated” date at the top of the privacy policy. If we make such changes to this privacy policy, we will place a prominent notice at the top of the privacy policy and you will also see the word “Updated” next to the Privacy Policy link on the front page of the Sportsrageous.com site. We encourage you to periodically review this privacy policy to stay informed about how we  
-are helping to protect the personal information we collect. Your continued use of the service constitutes your agreement to this privacy policy and any up-dates.
+**How You Can Access Or Correct Your Information**
 
-Posted by: Coach Fabulous on November 4, 2010   
-Filed under: 
+At any time, you may later review or update the personal information we have collected online from you by contacting us at sportsrageous.com
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections.
+
+**How To Contact Us**
+
+Should you have other questions or concerns about these privacy policies, please send us an email from our contactus page.
