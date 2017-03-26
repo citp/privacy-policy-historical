@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gscript.info privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119220412id_/http%3A//gscript.info/%3Fpage_id%3D144) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gscript.info privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326205929id_/http%3A//gscript.info/%3Fpage_id%3D144) for the most accurate reproduction.*
 
 # PRIVACY POLICY | Gscript
 
