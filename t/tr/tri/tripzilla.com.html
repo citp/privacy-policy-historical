@@ -1,344 +1,381 @@
-<!--The following is the downloaded HTML source of the tripzilla.com privacy policy that was archived on 2016-06-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160602215143id_/http%3A//www.tripzilla.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the tripzilla.com privacy policy that was archived on 2017-03-26.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170326095512id_/http%3A//www.tripzilla.com/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" xmlns:fb="http://ogp.me/ns/fb#" xmlns:addthis="http://www.addthis.com/help/api-spec" prefix="og: http://ogp.me/ns#"><head>
-<meta http-equiv="Content-Type" content="text/html; charset=UTF-8"><script src="https://js-agent.newrelic.com/nr-943.min.js"></script><script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VQcBWVZWCBABUlBVAQIGUQ=="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(14),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(15),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(8),t(7),"addEventListener"in window&&t(5),c.xhrWrappable&&t(9),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){t("loader").features.ins=!0},{}],4:[function(t,e,n){function r(t){}if(window.performance&&window.performance.timing&&window.performance.getEntriesByType){var o=t("ee"),i=t("handle"),a=t(8),s=t(7);t("loader").features.stn=!0,t(6);var c=NREUM.o.EV;o.on("fn-start",function(t,e){var n=t[0];n instanceof c&&(this.bstStart=Date.now())}),o.on("fn-end",function(t,e){var n=t[0];n instanceof c&&i("bst",[n,e,this.bstStart,Date.now()])}),a.on("fn-start",function(t,e,n){this.bstStart=Date.now(),this.bstType=n}),a.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),this.bstType])}),s.on("fn-start",function(){this.bstStart=Date.now()}),s.on("fn-end",function(t,e){i("bstTimer",[e,this.bstStart,Date.now(),"requestAnimationFrame"])}),o.on("pushState-start",function(t){this.time=Date.now(),this.startPath=location.pathname+location.hash}),o.on("pushState-end",function(t){i("bstHist",[location.pathname+location.hash,this.startPath,this.time])}),"addEventListener"in window.performance&&(window.performance.clearResourceTimings?window.performance.addEventListener("resourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.clearResourceTimings()},!1):window.performance.addEventListener("webkitresourcetimingbufferfull",function(t){i("bstResource",[window.performance.getEntriesByType("resource")]),window.performance.webkitClearResourceTimings()},!1)),document.addEventListener("scroll",r,!1),document.addEventListener("keypress",r,!1),document.addEventListener("click",r,!1)}},{}],5:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(16)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],6:[function(t,e,n){var r=t("ee").get("history"),o=t(16)(r);e.exports=r,o.inPlace(window.history,["pushState","replaceState"],"-")},{}],7:[function(t,e,n){var r=t("ee").get("raf"),o=t(16)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],8:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(16)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],9:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){w.push(t),h&&(g=-g,b.data=g)}function a(){for(var t=0;t<w.length;t++)r([],w[t]);w.length&&(w=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(5);var f=t("ee"),u=f.get("xhr"),d=t(16)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],w=[];e.exports=u;var y=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,y),y.prototype=p.prototype,d.inPlace(y.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,b=document.createTextNode(g);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],10:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(11),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(13),m=window.XMLHttpRequest;s.features.xhr=!0,t(9),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],11:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],12:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(14),a=t(15);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],13:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],14:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],15:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],16:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(15),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([w,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},w={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return w}function i(){return new r}var a="nr@context",s=t("gos"),c=t(14),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(14),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(12);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-943.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,10,4,3]);</script>
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="en-US" prefix="og: http://ogp.me/ns#"><head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
 <meta property="fb:pages" content="721289667937153">
-<meta property="fb:admins" content="100008034553082">
-<meta property="fb:admins" content="592129311">
-<meta property="fb:admins" content="737057774">
 <meta property="fb:app_id" content="918251991628712">
 <title>Privacy Policy</title>
 <meta name="viewport" content="width=device-width, initial-scale=1, user-scalable = yes">
-<link rel="shortcut icon" href="/wp-content/uploads/2014/04/blog_fav.ico" type="image/x-icon">
-<link rel="icon" href="/wp-content/uploads/2014/04/blog_fav.ico" type="image/x-icon">
+<link rel="shortcut icon" href="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/blog_fav.ico" type="image/x-icon">
+<link rel="icon" href="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/blog_fav.ico" type="image/x-icon">
 <link rel="pingback" href="http://www.tripzilla.com/xmlrpc.php">
-<script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-18745286-16','tripzilla.com');ga('require','displayfeatures');ga('send','pageview');</script>
-<script>window.fbAsyncInit=function(){FB.init({appId:'918251991628712',xfbml:true,version:'v2.5'});};(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}
-js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
+<script id="facebook-jssdk" src="//connect.facebook.net/en_US/sdk.js"></script><script async="" src="//www.google-analytics.com/analytics.js"></script><script>(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)})(window,document,'script','//www.google-analytics.com/analytics.js','ga');ga('create','UA-18745286-16','auto',{'allowLinker':true});ga('require','linker');ga('require','displayfeatures');ga('linker:autoLink',['tripzilla.sg','tripzilla.ph','tripzilla.my','tripzilla.vn','flyzilla.com','tripzilla.com']);ga('send','pageview');window.fbAsyncInit=function(){FB.init({appId:'918251991628712',xfbml:true,version:'v2.5'});};(function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(d.getElementById(id)){return;}js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js";fjs.parentNode.insertBefore(js,fjs);}(document,'script','facebook-jssdk'));</script>
 <title>Privacy Policy</title>
  
 <link rel="canonical" href="http://www.tripzilla.com/privacy-policy">
 <meta property="og:locale" content="en_US">
 <meta property="og:type" content="article">
 <meta property="og:title" content="Privacy Policy">
-<meta property="og:description" content="TripZilla Magazine takes your privacy very seriously. We ask that you read this privacy policy carefully as it contains important information about what to expect when TripZilla Magazine collects personal information about you and how TripZilla Magazine will use your personal data. Information Collected from All Visitors to Our Website We will obtain personal data...">
+<meta property="og:description" content="TripZilla Magazine takes your privacy very seriously. We ask that you read this privacy policy carefully as it contains important information about what to expect when TripZilla Magazine collects personal information about you and how TripZilla Magazine will use your personal data. Information Collected from All Visitors to Our Website We will obtain personal data …">
 <meta property="og:url" content="http://www.tripzilla.com/privacy-policy">
-<meta property="og:site_name" content="TripZilla Magazine">
+<meta property="og:site_name" content="TripZilla">
+<meta property="article:publisher" content="https://www.facebook.com/TripZillaMagazine/">
+<meta property="og:image" content="http://www.tripzilla.com/wp-content/uploads/2016/07/fb_profile.png">
  
-<link rel="alternate" type="application/rss+xml" title="TripZilla Magazine » Feed" href="http://www.tripzilla.com/feed">
-<link rel="alternate" type="application/rss+xml" title="TripZilla Magazine » Comments Feed" href="http://www.tripzilla.com/comments/feed">
-<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/72x72\/","ext":".png","source":{"concatemoji":"http:\/\/www.tripzilla.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.5"}};!function(a,b,c){function d(a){var c,d,e,f=b.createElement("canvas"),g=f.getContext&&f.getContext("2d"),h=String.fromCharCode;if(!g||!g.fillText)return!1;switch(g.textBaseline="top",g.font="600 32px Arial",a){case"flag":return g.fillText(h(55356,56806,55356,56826),0,0),f.toDataURL().length>3e3;case"diversity":return g.fillText(h(55356,57221),0,0),c=g.getImageData(16,16,1,1).data,g.fillText(h(55356,57221,55356,57343),0,0),c=g.getImageData(16,16,1,1).data,e=c[0]+","+c[1]+","+c[2]+","+c[3],d!==e;case"simple":return g.fillText(h(55357,56835),0,0),0!==g.getImageData(16,16,1,1).data[0];case"unicode8":return g.fillText(h(55356,57135),0,0),0!==g.getImageData(16,16,1,1).data[0]}return!1}function e(a){var c=b.createElement("script");c.src=a,c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i;for(i=Array("simple","flag","unicode8","diversity"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script><script src="http://www.tripzilla.com/wp-includes/js/wp-emoji-release.min.js?ver=4.5" type="text/javascript"></script>
+<link rel="dns-prefetch" href="//maps.googleapis.com">
+<link rel="dns-prefetch" href="//fonts.googleapis.com">
+<link rel="dns-prefetch" href="//s.w.org">
+<link rel="alternate" type="application/rss+xml" title="TripZilla » Feed" href="http://www.tripzilla.com/feed">
+<link rel="alternate" type="application/rss+xml" title="TripZilla » Comments Feed" href="http://www.tripzilla.com/comments/feed">
+<meta name="onesignal" content="wordpress-plugin">
+<link rel="manifest" href="https://www.tripzilla.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/manifest.json.php?gcm_sender_id=">
+<script src="https://cdn.onesignal.com/sdks/OneSignalSDK.js" async=""></script> <script>window.OneSignal=window.OneSignal||[];OneSignal.push(function(){OneSignal.SERVICE_WORKER_UPDATER_PATH="OneSignalSDKUpdaterWorker.js.php";OneSignal.SERVICE_WORKER_PATH="OneSignalSDKWorker.js.php";OneSignal.SERVICE_WORKER_PARAM={scope:'/'};OneSignal.setDefaultNotificationUrl("http://www.tripzilla.com");var oneSignal_options={};window._oneSignalInitOptions=oneSignal_options;oneSignal_options['wordpress']=true;oneSignal_options['appId']='e4d4f406-34c9-4c5c-a2f7-2f170f4024db';oneSignal_options['autoRegister']=true;oneSignal_options['welcomeNotification']={};oneSignal_options['welcomeNotification']['title']="";oneSignal_options['welcomeNotification']['message']="";oneSignal_options['path']="https://www.tripzilla.com/wp-content/plugins/onesignal-free-web-push-notifications/sdk_files/";oneSignal_options['safari_web_id']="web.onesignal.auto.14c8c5b3-a149-48e9-849f-677a5e5d7747";oneSignal_options['promptOptions']={};OneSignal.init(window._oneSignalInitOptions);});function documentInitOneSignal(){var oneSignal_elements=document.getElementsByClassName("OneSignal-prompt");var oneSignalLinkClickHandler=function(event){OneSignal.push(['registerForPushNotifications']);event.preventDefault();};for(var i=0;i<oneSignal_elements.length;i++)oneSignal_elements[i].addEventListener('click',oneSignalLinkClickHandler,false);}if(document.readyState==='complete'){documentInitOneSignal();}else{window.addEventListener("load",function(event){documentInitOneSignal();});}</script>
+<script type="text/javascript">window._wpemojiSettings={"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/2.2.1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/www.tripzilla.com\/wp-includes\/js\/wp-emoji-release.min.js?ver=4.7.2"}};!function(a,b,c){function d(a){var b,c,d,e,f=String.fromCharCode;if(!k||!k.fillText)return!1;switch(k.clearRect(0,0,j.width,j.height),k.textBaseline="top",k.font="600 32px Arial",a){case"flag":return k.fillText(f(55356,56826,55356,56819),0,0),!(j.toDataURL().length<3e3)&&(k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,65039,8205,55356,57096),0,0),b=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55356,57331,55356,57096),0,0),c=j.toDataURL(),b!==c);case"emoji4":return k.fillText(f(55357,56425,55356,57341,8205,55357,56507),0,0),d=j.toDataURL(),k.clearRect(0,0,j.width,j.height),k.fillText(f(55357,56425,55356,57341,55357,56507),0,0),e=j.toDataURL(),d!==e}return!1}function e(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var f,g,h,i,j=b.createElement("canvas"),k=j.getContext&&j.getContext("2d");for(i=Array("flag","emoji4"),c.supports={everything:!0,everythingExceptFlag:!0},h=0;h<i.length;h++)c.supports[i[h]]=d(i[h]),c.supports.everything=c.supports.everything&&c.supports[i[h]],"flag"!==i[h]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[i[h]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(g=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",g,!1),a.addEventListener("load",g,!1)):(a.attachEvent("onload",g),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),f=c.source||{},f.concatemoji?e(f.concatemoji):f.wpemoji&&f.twemoji&&(e(f.twemoji),e(f.wpemoji)))}(window,document,window._wpemojiSettings);</script><script src="http://www.tripzilla.com/wp-includes/js/wp-emoji-release.min.js?ver=4.7.2" type="text/javascript" defer=""></script>
 <style type="text/css">img.wp-smiley,img.emoji{display:inline!important;border:none!important;box-shadow:none!important;height:1em!important;width:1em!important;margin:0 .07em!important;vertical-align:-.1em!important;background:none!important;padding:0!important}</style>
+<link rel="stylesheet" id="bootstrap-css" href="http://www.tripzilla.com/wp-content/themes/magazine-2017/css/core/A.bootstrap.css.pagespeed.cf.qLy0rESx9t.css" type="text/css" media="all">
+<link rel="stylesheet" id="bootstrap.canvas-css" href="http://www.tripzilla.com/wp-content/themes/magazine-2017/css/core/A.bootstrap-off-canvas-nav.css.pagespeed.cf.tSl7_5iqrm.css" type="text/css" media="all">
+<link rel="stylesheet" id="font-awesome-css" href="http://www.tripzilla.com/wp-content/themes/magazine-2017/css/A.font-awesome.min.css.pagespeed.cf.iIGKnvKx_M.css" type="text/css" media="all">
+<link rel="stylesheet" id="animate-css" href="http://www.tripzilla.com/wp-content/themes/magazine-2017/css/core/A.animate.min.css.pagespeed.cf.3So_WCSyE_.css" type="text/css" media="all">
+<link rel="stylesheet" id="google-font-css" href="https://fonts.googleapis.com/css?family=Lato%3A100%2C300%2C400%2C700%2C900%2C100italic%2C300italic%2C400italic%2C700italic%2C900italic%7CRoboto%3A700%7CMerriweather%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic%2C900italic&amp;ver=1449733203" type="text/css" media="all">
+<style id="fonts-css" media="all">@font-face{font-family:'robotoblack';src:url(wp-content/themes/magazine-2017/fonts/landing_fonts/roboto-black-webfont.eot);src:url(wp-content/themes/magazine-2017/fonts/landing_fonts/roboto-black-webfont.eot?#iefix) format('embedded-opentype'),url(wp-content/themes/magazine-2017/fonts/landing_fonts/roboto-black-webfont.woff2) format('woff2'),url(wp-content/themes/magazine-2017/fonts/landing_fonts/roboto-black-webfont.woff) format('woff'),url(wp-content/themes/magazine-2017/fonts/landing_fonts/roboto-black-webfont.ttf) format('truetype'),url(wp-content/themes/magazine-2017/fonts/landing_fonts/roboto-black-webfont.svg#robotoblack) format('svg');font-weight:normal;font-style:normal}@font-face{font-family:'edo_szregular';src:url(wp-content/themes/magazine-2017/fonts/landing_fonts/edosz-webfont.eot);src:url(wp-content/themes/magazine-2017/fonts/landing_fonts/edosz-webfont.eot?#iefix) format('embedded-opentype'),url(wp-content/themes/magazine-2017/fonts/landing_fonts/edosz-webfont.woff2) format('woff2'),url(wp-content/themes/magazine-2017/fonts/landing_fonts/edosz-webfont.woff) format('woff'),url(wp-content/themes/magazine-2017/fonts/landing_fonts/edosz-webfont.ttf) format('truetype'),url(wp-content/themes/magazine-2017/fonts/landing_fonts/edosz-webfont.svg#edo_szregular) format('svg');font-weight:normal;font-style:normal}</style>
+<link rel="stylesheet" id="header-css" href="http://www.tripzilla.com/wp-content/themes/magazine-2017/css/core/A.header.css,qver=3.pagespeed.cf.vkiD8bEZu1.css" type="text/css" media="all">
+<link rel="stylesheet" id="layout-css" href="http://www.tripzilla.com/wp-content/themes/magazine-2017/css/core/A.layout.css.pagespeed.cf.6tUH1TSmky.css" type="text/css" media="all">
+<link rel="stylesheet" id="tidy-css" href="http://www.tripzilla.com/wp-content/themes/magazine-2017/css/A.tidy.css,qver=74.pagespeed.cf.YK6lyDB4eP.css" type="text/css" media="all">
+<script type="text/javascript" src="http://www.tripzilla.com/wp-includes/js/jquery/jquery.js,qver=1.12.4.pagespeed.jm.pPCPAKkkss.js"></script>
+<script type="text/javascript" src="http://www.tripzilla.com/wp-includes/js/jquery/jquery-migrate.min.js,qver=1.4.1.pagespeed.jm.C2obERNcWh.js"></script>
 <link rel="https://api.w.org/" href="http://www.tripzilla.com/wp-json/">
 <link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://www.tripzilla.com/xmlrpc.php?rsd">
 <link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://www.tripzilla.com/wp-includes/wlwmanifest.xml">
-<meta name="generator" content="WordPress 4.5">
+<meta name="generator" content="WordPress 4.7.2">
 <link rel="shortlink" href="http://www.tripzilla.com/?p=28137">
 <link rel="alternate" type="application/json+oembed" href="http://www.tripzilla.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tripzilla.com%2Fprivacy-policy">
 <link rel="alternate" type="text/xml+oembed" href="http://www.tripzilla.com/wp-json/oembed/1.0/embed?url=http%3A%2F%2Fwww.tripzilla.com%2Fprivacy-policy&amp;format=xml">
-<style type="text/css">body,input{font-weight:400;font-family:Lato,Georgia,serif}.form-group,.thumbnail{position:relative}.site-navigation ul li.menu-item-has-children ul.sub-menu,.widget-title::after,*{box-sizing:border-box}body{font-variant:normal;line-height:160%;font-style:normal;color:#343434;font-size:15px}button,input,input[type="submit"]{font-style:normal;font-variant:normal;font-size:14px;line-height:180%;-webkit-appearance:none}button,input[type="submit"]{font-family:Lora,Georgia,serif;font-weight:700;text-transform:uppercase;border:none;padding:10px 28px!important}a:link{text-decoration:none}p{margin-bottom:20px}ul{margin:0 24px 30px;padding:0}ul li{list-style:disc;margin-bottom:4px}img{max-width:100%;height:auto;display:block}.clear{float:left;clear:both;width:100%}.clearfix::after,.clearfix::before,.row::after,article.hentry::after{display:table;content:'';width:100%}.clearfix::after{clear:both}.clearfix{width:100%;clear:both}.thumbnail img{max-width:100%;width:100%;height:100%;vertical-align:top;display:block}.container{width:95%;max-width:1180px;margin:0 auto}h3,h4,h5{margin-bottom:20px;font-family:Merriweather;font-weight:700;font-style:normal;color:#000}#top-header,.button{font-family:Roboto,Arial,Helvetica,sans-serif;font-style:normal;font-variant:normal}h3{font-size:1.3em}h4{font-size:1.17em}h5{font-size:.83em}article.hentry h3{line-height:130%;color:#000}body.home #maincontent,body.page-template-page-home #maincontent{padding-top:0}#maincontent a{color:#000}#maincontent .post-category a{color:#e65100}.home #maincontent{float:left;clear:both;width:100%;padding:0 0 40px}#primary,#secondary-content{box-sizing:border-box;padding:0 15px;float:left}#primary{width:66.66666%;margin-left:-15px}#secondary-content{width:33.333333%}.form-group{float:left;margin-bottom:10px}.form-group input{width:100%;padding:10px;box-shadow:#eee 1px 1px 5px inset;-webkit-box-shadow:#eee 1px 1px 5px inset;border-radius:3px}header#masthead{background-color:#fff}#top-header{text-align:right;color:#9e9e9e;text-transform:uppercase;font-size:11px;line-height:150%;font-weight:700;background-color:#212121}#search-full input.search-submit,.button,.sidebar-widget .widget-title,a.search-trigger,ul.tab-nav li{text-align:center}.current-date{float:left;padding:15px 0}.site-navigation ul{margin:0}.site-navigation ul li{list-style:none;display:inline-block;position:relative;margin-bottom:0}.site-navigation ul li.menu-item-has-children ul.sub-menu{position:absolute;display:none;width:220px;top:100%;background-color:#313131;z-index:11;padding:0!important}.site-navigation ul li.menu-item-has-children ul.sub-menu li{display:block;width:100%;margin-bottom:0}.homepage-widget article.hentry h3,.post-category{margin-bottom:5px}nav#main-menu.site-navigation ul li.menu-item-has-children ul.sub-menu li a{display:block;padding:10px 20px;text-transform:none;color:#fff}.site-navigation ul li a{display:inline-block;font-size:14px;font-weight:700;text-transform:uppercase;vertical-align:middle}nav#main-menu.site-navigation{float:none;padding:43px 0}.mobile-menu{display:none}nav#main-menu.site-navigation ul li a{font-family:Lato;text-transform:uppercase;letter-spacing:1px;font-weight:400;font-style:normal;color:#333;font-size:14px;line-height:20px;padding:10px}nav#main-menu.site-navigation ul.main-menu>li::after{display:inline-block;content:'/';color:#999}nav#main-menu.site-navigation ul.main-menu>li:last-child::after{content:none}.widget-title::after,nav#main-menu.site-navigation>ul.main-menu>li:last-child a::after{content:''}nav#main-menu.site-navigation ul li a .fa{margin-left:10px}#logo{float:left;padding:40px 0}#logo a,#logo img{display:block}.post-category{font-family:Lato;text-transform:uppercase;letter-spacing:1px;font-weight:400;font-style:normal;color:#ec407a;font-size:10px}.entry-meta{margin-bottom:20px}.entry-meta,.entry-meta span,.entry-meta span a{font-family:Lato;font-weight:400;font-style:normal;color:#a9a9a9;font-size:11px}.entry-meta .author a{display:inline-block}.entry-meta span{margin-right:15px}.entry-meta .fa{margin-right:5px}.excerpt p{overflow:hidden;display:-webkit-box;-webkit-line-clamp:3;-webkit-box-orient:vertical}.homepage-widget .entry-meta{margin:5px 0 10px}article.hentry.square-thumb-post .thumbnail{float:left;width:130px;margin-right:20px;margin-bottom:0}article.hentry.square-thumb-post .entry-content{margin-left:150px}article.hentry.square-thumb-post{margin-bottom:20px}article.hentry.full-width-post .thumbnail{margin-bottom:15px}.homepage-widget{margin-bottom:60px}.row{width:100%;overflow:hidden}.row .column{float:left;width:100%;position:relative}.row .column-2{width:50%}.section-title{position:relative;margin-bottom:30px}.widget-title{display:block;position:relative;margin-bottom:40px;padding-bottom:10px;border-bottom-style:solid;border-bottom-width:2px;border-bottom-color:#ddd}.widget-title::after{display:block;position:absolute;background-color:#212121;height:2px;left:22%;right:22%;bottom:-2px}.section-title h4{padding-bottom:15px;border-bottom-width:1px;border-bottom-style:solid;border-bottom-color:#dedede;display:block!important}.section-title h4,.widget-title h4{text-transform:uppercase;display:inline-block;margin-bottom:0;padding-right:20px}.widget-title h4{font-size:14px;padding-right:0}.section-title small.section-subtitle{text-transform:none;color:#707070;display:block}.button,ul.tab-nav li a{text-transform:uppercase}.homepage-widget.widget-type-5 article.hentry.full-width-post,article.hentry.full-width-post.left-thumbnail .thumbnail{display:block;padding-right:20px}.homepage-widget.widget-type-5 article.hentry{visibility:visible!important}article.hentry.full-width-post.left-thumbnail .thumbnail{margin-bottom:0}article.hentry.full-width-post.left-thumbnail{margin-bottom:50px}article.hentry.full-width-post.left-thumbnail .entry-content,article.hentry.full-width-post.left-thumbnail .thumbnail{float:left;width:50%}.sidebar-widget h3.post-title{margin:0}.post-list-style ul{margin:30px 0 0}.post-list-style ul li{float:left;clear:both;width:100%;list-style:none;margin-bottom:15px;position:relative}.post-list-style ul li .thumbnail{float:left;width:50px}.post-list-style ul li h3.post-title{margin:0 0 0 65px;font-size:14px!important;font-weight:400!important}.post-list-style ul li h3 a{margin-top:-5px;display:block}.tabs_container .tab-content{position:absolute;top:0;left:0;right:0;display:none}#mainslider,.tabs_container,ul.tab-nav li{position:relative}.tabs_container .tab-content:first-child{display:block}ul.tab-nav{margin:0 0 20px}ul.tab-nav li{display:inline-block;list-style:none;vertical-align:bottom;margin-bottom:0}ul.tab-nav li a{background-color:#f9f9f9;padding:10px 15px;display:block;font-weight:700;vertical-align:bottom}ul.tab-nav li a.active{background-color:#212121;border-color:#c51818;color:#fff!important}#mainslider{overflow:hidden}.preload{position:absolute;left:0;top:0;width:100%;height:100%;z-index:9999;background-image:url(/wp-content/themes/newmagz/images/loader.gif.pagespeed.ce.fQDlg3pW8m.gif);background-color:#fff;background-position:50% 50%;background-repeat:no-repeat no-repeat}#search-full,article.hentry.slider-post .entry-content{background-position:initial initial;background-repeat:initial initial;left:0}article.hentry.slider-post{position:relative}article.hentry.slider-post .thumbnail{border-left-style:solid;border-left-width:1px;border-left-color:#fff;border-top-style:solid;border-top-width:1px;border-top-color:#fff}article.hentry.slider-post .entry-content{bottom:0;right:0;padding:20px;background-color:#fff;text-align:center;min-height:110px}article.hentry.slider-post .entry-content .detail-post{overflow:hidden;height:0}#search-full{display:none;background-color:rgba(0,0,0,.8);color:#fff;position:fixed;width:100%;height:100%;top:0;z-index:10}#search-full .overlay{width:100%;height:100%;position:absolute;z-index:10;top:0;left:0}#search-full form.search-form{display:table-cell;vertical-align:middle}#search-full .container{position:absolute;top:0;left:0;right:0;bottom:0;z-index:9;width:100%;max-width:100%}#search-full #search-form{display:table;width:100%;height:100%}#search-full .form-group{float:none;max-width:800px;margin:0 auto;position:relative;z-index:25}#search-full input#s{background-color:#fff;font-size:18px;font-weight:400;padding:10px 180px 10px 30px;width:100%;border:1px solid #aaa;height:60px;line-height:100%;background-position:initial initial;background-repeat:initial initial;border-radius:50px}#main-header .search-widget .input-wrapper,a.search-trigger{vertical-align:middle;height:50px;display:inline-block;background-position:initial initial;background-repeat:initial initial}#search-full input.search-submit{position:absolute;right:0;border:none;top:0;bottom:0;box-shadow:none;width:170px;padding:10px 50px!important;border-radius:50px}#main-header .search-widget{float:right;padding:40px 12px;position:relative;margin-left:20px}a.search-trigger{line-height:38px;width:50px;background-color:#c51818;font-size:18px;color:#fff;padding:6px;position:absolute;top:40px;left:0;border-radius:50px}.sidebar-widget,article.hentry.slider-post .entry-content{position:relative}#main-header .search-widget .input-wrapper{background-color:#fff;padding:5px 0;margin-left:-4px;overflow:hidden;max-width:0;width:100%}.search-widget .input-wrapper{margin-bottom:0}.search-widget .input-wrapper input{padding:10px;height:40px;border:none}.sidebar-widget{margin-bottom:40px}.input-wrapper input.input{padding:15px 10px;width:100%;border:none}.button{padding:15px 30px;border:none;font-size:14px;line-height:100%;font-weight:700;background-color:#c51818;color:#fff;display:inline-block;background-position:initial initial;background-repeat:initial initial}.input-wrapper{margin-bottom:20px}.search-trigger i.fa{line-height:inherit!important;margin-left:0!important;width:auto!important;height:auto!important;vertical-align:inherit!important;display:block!important}.sidebar-widget li{position:relative;padding-bottom:10px}.hentry img{max-width:100%;height:auto}ul.sub-menu{margin-bottom:0}article.hentry.slider-post .thumbnail{min-height:200px}ul.tab-nav li{width:33.3333%}ul.tab-nav{margin-bottom:20px;border-bottom-width:1px!important;border-bottom-style:solid!important;border-bottom-color:#dedada!important}ul.tab-nav li a{border-right-width:1px!important;border-right-style:solid!important;border-right-color:#eae6e6!important}#mainslider{margin-bottom:60px}#logo{max-width:320px;padding-bottom:40px;padding-top:40px}#section3 img{height:160px!important}.post-list-style ul li{padding-right:20px}.homepage-widget .section-title h4{text-transform:capitalize;font-family:Merriweather;letter-spacing:0;font-weight:700;font-style:normal;color:#000;font-size:35px}#maincontent{padding-top:20px}@media only screen and (max-width:1080px) and (min-width:960px){#logo{max-width:220px}nav#main-menu.site-navigation ul li a{padding:8px;font-size:12px}nav#main-menu.site-navigation{max-width:100%}}@media screen and (max-width:780px){article.hentry.full-width-post.left-thumbnail{margin-bottom:20px}.homepage-widget{margin-bottom:10px}#mainslider,#primary,#secondary-content{margin-bottom:20px}#maincontent{padding-top:20px}article.hentry.slider-post .entry-content h3{margin-bottom:0}}@media only screen and (max-width:1200px) and (min-width:600px){#main-menu>ul.main-menu{display:block}.site-navigation ul li{display:inline-block}.site-navigation ul li.menu-item-has-children ul.sub-menu{position:absolute;top:100%;background-color:#313131;z-index:11}nav#main-menu.site-navigation ul li.menu-item-has-children ul.sub-menu li a{padding:10px}}.homepage-widget article.hentry h3{font-family:Merriweather;line-height:28px;font-weight:700;font-style:normal;color:#000;font-size:22px}.homepage-widget .warrior-carousel article.hentry h3,.homepage-widget article.square-thumb-post h3,.post-list-style ul li h3.post-title,.widget-type-5 h3.post-title,article.hentry.slider-post .entry-content h3{font-family:Merriweather;line-height:22px;font-weight:700;font-style:normal;color:#000;font-size:16px}.fa,.header-search{font-weight:400;font-style:normal}.fa{display:inline-block;font-variant:normal;line-height:1;font-family:FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased}.owl-carousel{display:none;width:100%;position:relative;z-index:1}@media screen and (max-width:1200px){.container{width:95%;max-width:1180px}}@media screen and (max-width:1000px){.mobile-menu{display:block}.container{max-width:90%}#logo{max-height:130px;padding:40px 0}#logo a,#logo img{height:50px}#primary,#secondary-content{width:100%;margin-right:0;padding:0;margin-left:0}#primary{margin-bottom:80px;border-bottom-style:solid;border-bottom-width:1px;border-bottom-color:#ccc}}@media screen and (max-width:780px){.row .column-2,article.hentry.full-width-post.left-thumbnail .entry-content,article.hentry.full-width-post.left-thumbnail .thumbnail{width:100%}.homepage-widget.widget-type-5 article.hentry.full-width-post,article.hentry.full-width-post.left-thumbnail .thumbnail{padding-right:0}article.hentry.full-width-post,article.hentry.full-width-post.left-thumbnail .thumbnail{margin-bottom:15px}}@media screen and (max-width:640px){ul.tab-nav li a{font-size:10px;padding:10px;line-height:10px}#top-navigation{float:left;width:100%}}@media screen and (max-width:480px){#main-header .search-widget{position:absolute;right:0;padding:20px 0 20px 50px}#main-header .container{position:relative}nav#main-menu.site-navigation{float:none;width:100%;clear:both;padding:0 0 20px}#logo{padding-bottom:20px}.mobile-menu{display:block;margin-right:0;float:none;text-align:right}}.header-search{margin-right:50px;float:right;margin-top:9px;margin-left:10px;position:relative;border:none;font-family:Lato;color:gray;font-size:15px;padding:0 10px;background-color:#3a3a3a;border-radius:20px}#input-web{border:none!important;background-color:#3a3a3a!important;background-position:initial initial!important;background-repeat:initial initial!important}#searchbar_submit{border:none;z-index:999;position:absolute;right:0;background-color:#3a3a3a;margin-right:10px;top:0;padding:6px 10px!important}@media screen and (max-width:767px){a.search-trigger{width:35px;height:35px;font-size:15px;color:#fff;padding:0;top:44px;left:0}.search-submit{background-color:#c51818!important}.site-navigation ul li,.site-navigation ul li a{display:block!important;color:#fff!important;margin:0!important;border-radius:0!important}.header-web{display:none}.header-mobile{display:block}#main-menu>ul.main-menu,.search-widget{display:none}nav#main-menu.site-navigation ul.main-menu>li::after{content:none}nav#main-menu.site-navigation{z-index:99999;position:absolute;right:0;width:50%}.site-navigation ul li.menu-item-has-children ul.sub-menu{width:340px}}@media screen and (max-width:480px){nav#main-menu.site-navigation{position:inherit;width:100%}}@media screen and (min-width:768px){.header-web{display:block}.header-mobile{display:none}.site-navigation ul li a{display:inline-block}.interest-menu{float:left;width:33.3333%;margin-bottom:4px;padding-right:4px}.dest-sub-menu{float:left;width:25%;margin-bottom:4px}.other-dest-menu h5,.other-interest-menu h5{margin-bottom:0;color:#fff;font-size:13px}#dest-menu li a,.dest-sub-menu a,.interest-menu a{padding:0!important}.other-interest-menu{width:50%;float:left}.other-dest-menu{width:33%;float:left}.other-dest-menu h5 a,.other-interest-menu h5 a{color:#fff!important;padding:0!important}.other-interest-menu a,ul.a li a{font-size:12px!important}#dest-menu{width:594px!important;left:0!important;padding:10px 18px 20px!important}#dest-sub-menu{margin:10px 0}#dest-sub-menu img{width:100%;height:96px}#interest-menu{width:444px!important;left:0!important;padding:18px 14px 10px 18px!important}nav#main-menu.site-navigation ul li a .fa{margin-left:0!important}ul.a{list-style-type:circle}ul.a .fa{font-size:4px;margin-bottom:6px;color:#e0dede;margin-right:6px}nav#main-menu.site-navigation{padding-top:14px}#logo_new{padding-top:40px;max-width:340px;margin:0 auto}nav#main-menu.site-navigation ul li a{font-family:Lato;text-transform:uppercase;letter-spacing:1px;font-weight:400;font-style:normal;color:#333;font-size:14px;line-height:20px;padding:10px}}@media screen and (max-width:959px) and (min-width:768px){.header-web{display:block}.header-mobile{display:none}.site-navigation ul li a{display:inline-block}.interest-menu{float:left;width:33.3333%;margin-bottom:4px;padding-right:4px}.dest-sub-menu{float:left;width:25%;margin-bottom:4px}.other-dest-menu h5,.other-interest-menu h5{margin-bottom:0;color:#fff;font-size:13px}#dest-menu li a,.dest-sub-menu a,.interest-menu a{padding:0!important}.other-interest-menu{width:50%;float:left}.other-dest-menu{width:33%;float:left}.other-dest-menu h5 a,.other-interest-menu h5 a{color:#fff!important;padding:0!important}.other-interest-menu a,ul.a li a{font-size:12px!important}#dest-menu{width:594px!important;left:0!important;padding:10px 18px 20px!important}#dest-sub-menu{margin:10px 0}#dest-sub-menu img{width:100%;height:96px}#interest-menu{width:444px!important;left:0!important;padding:18px 14px 10px 18px!important}nav#main-menu.site-navigation ul li a .fa{margin-left:0!important}ul.a{list-style-type:circle}ul.a .fa{font-size:4px;margin-bottom:6px;color:#e0dede;margin-right:6px}nav#main-menu.site-navigation{padding-top:14px}#logo_new{padding-top:40px;max-width:340px;margin:0 auto}nav#main-menu.site-navigation ul li a{font-family:Lato;text-transform:uppercase;letter-spacing:1px;font-weight:400;font-style:normal;color:#333;font-size:12px;line-height:20px;padding:10px}}@media only screen and (max-width:1120px) and (min-width:960px){nav#main-menu.site-navigation ul li a{font-size:12px}#logo{max-width:250px!important}}#magazine_modal{display:none;width:100%;height:100%;position:fixed;top:0;overflow-y:scroll;z-index:1000;bottom:0;background-color:rgba(0,0,0,.6)}#destination_mobile{margin:0;text-align:center}#destination_mobile li{display:inline-block;width:31.6666%;margin-bottom:-4px}@media (max-width:767px){body{position:absolute;left:0;right:0;overflow-x:hidden;-webkit-backface-visibility:hidden;backface-visibility:hidden}nav .navbar-nav{margin:0 -15px 7.5px}body.off-canvas-nav-left nav .navbar-toggle{float:left;margin-left:15px;margin-right:0}nav .navbar-collapse{display:block!important;position:fixed;top:0;right:-300px;bottom:0;z-index:10000;width:300px;height:100vh!important;margin:0;background-color:inherit;border:none;box-shadow:none;border-left:1px solid #e7e7e7;opacity:0;filter:alpha(opacity=0)}nav .navbar-nav{z-index:10010}nav.navbar-fixed-top .navbar-collapse{max-height:none}body.off-canvas-nav-left nav .navbar-collapse{left:-300px;right:auto;border:none;border-right:1px solid #e7e7e7}nav .navbar-collapse .dropdown>.dropdown-menu{display:block!important;position:static;float:none;max-height:0;margin:0;padding:0;border:none;box-shadow:none;overflow:hidden}nav .navbar-collapse .dropdown .dropdown-menu li a{padding:5px 15px 5px 25px;color:#777}nav .dropdown-toggle>.caret{-webkit-transform:rotate(0)!important;-ms-transform:rotate(0)!important;transform:rotate(0)!important}}@media (max-width:375px){nav .navbar-collapse{right:calc((100vw - 74px) * -1);width:calc(100vw - 74px)}body.off-canvas-nav-left nav .navbar-collapse{left:calc((100vw - 74px) * -1)}}</style>
-<style type="text/css">@media only screen and (min-width:768px){nav#main-menu.site-navigation ul li a{padding:10px}}</style>
 </head>
 <body class="off-canvas-nav-left" ?="">
-	<!-- Start: Search Form -->
-	<div id="search-full">
-		<div class="container">
-			<div class="overlay"></div>
-			
-<!-- Start : Search Form Widget -->
-<div id="search-form">
-	<form role="search" method="get" class="search-form" action="http://www.tripzilla.com/">
-		<div class="form-group">
-			<input type="search" id="s" class="search-field" placeholder="Search..." value="" name="s" title="Search for:">
-			<input type="submit" class="search-submit" value="Search">
-		</div>
-	</form>
-</div>
-<!-- End : Search Form Widget -->		</div>
-	</div>
-	<!-- End: Search Form -->
 	<!-- Start : Header Section -->
 	<header id="masthead" class="site-header header-mobile">
     <div id="main-header">
         <!-- <div class="container clearfix"> -->
-            <!-- Static navbar -->
-            <div class="container">
-                <nav class="navbar navbar-default navbar-fixed-top">
-                <!-- <div class="container"> -->
-                    <!-- Brand and toggle get grouped for better mobile display -->
-                    <div class="container">
-                        <div class="navbar-header">
-                        <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
+        <!-- Static navbar -->
+        <div class="container">
+            <nav class="navbar navbar-default navbar-fixed-top">
+                <!-- Brand and toggle get grouped for better mobile display -->
+                <div class="container">
+                    <div class="row">
+                        <div id="mobile-nav-logo-wrapper" style="float:left;">
+                            <button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
                             <span class="sr-only"></span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
-                        </button>
-
-                        <a class="navbar-brand" href="http://www.tripzilla.com/" style="font-size: 24px;font-weight: bold;"><span style="color:#FB8721;">Trip</span><span style="color:#64C1E8;">Zilla</span></a>
-                        
-                        <div class="search-widget">
-                            <a class="search-trigger"><i class="fa fa-search"></i></a>
-                            <form>
-                                <div class="input-wrapper">
-                                    <input type="text" name="topsearch" class="input input-100" placeholder="Type and hit enter">
-                                </div>
-                            </form>
+                            </button>
+                            <a class="navbar-brand" href="http://www.tripzilla.com/">
+                                <img src="https://www.tripzilla.com/wp-content/uploads/2016/06/Tripzilla-Logo-resize-e1467274883765.png">
+                            </a>
                         </div>
-                        <div class="cls" style="clear:both;"></div>
+                        <div id="mobile-search-icon-wrapper">
+                            <div id="Exp-serach" class="Exp-serach">
+                                <form role="search" method="get" class="search-form" action="http://www.tripzilla.com/">
+                                    <input class="ExpInput " onkeyup="buttonUp();" placeholder="Search destinations, interests and more" onblur="" type="search" value="" name="s" id="search" autocomplete="off" style="margin-right:-15px;">
+                                    <input class="Expbtn" type="submit" value="">
+                                    <span class="ExpIcon" id="search-icon"><i class="fa fa-search"></i></span>
+                                </form>
+                            </div>
+                        </div>
                     </div>
-                    </div>                    
-                    <!-- Collect the nav links, forms, and other content for toggling -->
-                    <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-                        <ul class="nav navbar-nav">
-                            <li class="dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Destinations <span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <ul id="destination_mobile">
-                                            <li>
-                                                <a href="/category/destinations/asia/east-asia/south-korea" style="padding:0px;">
-                                                    <img src="http://www.tripzilla.com/web/images/sub-menu/mobile/xkr.jpg.pagespeed.ic.q8V8iW1uZd.jpg">
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="/category/destinations/asia/southeast-asia/singapore" style="padding:0px;">
-                                                <img src="http://www.tripzilla.com/web/images/sub-menu/mobile/xsg.jpg.pagespeed.ic.ROGTGcg6FE.jpg">
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="/category/destinations/asia/southeast-asia/malaysia" style="padding:0px;">
-                                                    <img src="http://www.tripzilla.com/web/images/sub-menu/mobile/xmy.jpg.pagespeed.ic.JkPZyJmjXI.jpg">
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="/category/destinations/europe" style="padding:0px;">
-                                                <img src="http://www.tripzilla.com/web/images/sub-menu/mobile/xeu.jpg.pagespeed.ic.yeVs3AA18Y.jpg">
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="/category/destinations/asia/east-asia/japan" style="padding:0px;">
-                                                <img src="http://www.tripzilla.com/web/images/sub-menu/mobile/xjp.jpg.pagespeed.ic.XBIafL39Ca.jpg">
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="/category/destinations/asia/southeast-asia/thailand" style="padding:0px;">
-                                                <img src="http://www.tripzilla.com/web/images/sub-menu/mobile/xth.jpg.pagespeed.ic.P-3a9untsN.jpg">
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="/category/destinations/oceania/australia" style="padding:0px;">
-                                                    <img src="http://www.tripzilla.com/web/images/sub-menu/mobile/xau.jpg.pagespeed.ic.OK8KQTv6jy.jpg">
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="/category/destinations/asia/southeast-asia/indonesia" style="padding:0px;">
-                                                    <img src="http://www.tripzilla.com/web/images/sub-menu/mobile/xid.jpg.pagespeed.ic.mM0IVxfyLt.jpg">
-                                                </a>
-                                            </li>
-                                            <li>
-                                                <a href="/category/destinations" style="padding:0px;">
-                                                    <img src="http://www.tripzilla.com/web/images/sub-menu/mobile/xsee_all.jpg.pagespeed.ic.nTgDpzWxfu.jpg">
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
+                </div>
+                <!-- Collect the nav links, forms, and other content for toggling -->
+                <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                    <ul class="nav navbar-nav">
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Destinations <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <ul id="destination_mobile">
+                                        <li>
+                                            <a href="/category/destinations/asia/east-asia/south-korea" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/mobile/xkr.jpg.pagespeed.ic.D-z01ZP05R.jpg">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/category/destinations/asia/southeast-asia/singapore" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/mobile/xsg.jpg.pagespeed.ic.ReNCuVDLUg.jpg">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/category/destinations/asia/southeast-asia/malaysia" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/mobile/xmy.jpg.pagespeed.ic.isPCSR411A.jpg">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/category/destinations/europe" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/mobile/xeu.jpg.pagespeed.ic.jJFmq9k-c8.jpg">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/category/destinations/asia/east-asia/japan" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/mobile/xjp.jpg.pagespeed.ic.6r6VNeEqR5.jpg">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/category/destinations/asia/southeast-asia/thailand" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/mobile/xth.jpg.pagespeed.ic.0W2uWs6tyB.jpg">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/category/destinations/oceania/australia" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/mobile/xau.jpg.pagespeed.ic.INW-ZQ700U.jpg">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/category/destinations/asia/southeast-asia/indonesia" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/mobile/xid.jpg.pagespeed.ic.lLRXMJ-5Ld.jpg">
+                                            </a>
+                                        </li>
+                                        <li>
+                                            <a href="/category/destinations" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/mobile/xsee_all.jpg.pagespeed.ic.8B2UIO88xf.jpg">
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Interests <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li>
+                                    <ul id="destination_mobile">
+                                        <li>
+                                            <a href="/category/interest/sports-adventure" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/xsports1.jpg.pagespeed.ic.53r-SVQad1.jpg">
+                                            </a>
+                                        </li>
+                                        <li><a href="/category/interest/shopping-eating" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/xshopping1.jpg.pagespeed.ic.2NrAWmO9Vw.jpg">
+                                            </a>
+                                        </li>
+                                        <li><a href="/category/interest/island-beach" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/xisland1.jpg.pagespeed.ic.6GYudx_tBj.jpg">
+                                            </a>
+                                        </li>
+                                        <li><a href="/category/interest/cruises-land-journeys" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/xcruise1.jpg.pagespeed.ic.jIUXdc1koH.jpg">
+                                            </a>
+                                        </li>
+                                        <li><a href="/category/interest/luxury-spa-retreat" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/xluxury1.jpg.pagespeed.ic.s0tp2rX421.jpg">
+                                            </a>
+                                        </li>
+                                        <li><a href="/category/interest/family-kids" style="padding:0px;">
+                                            <img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/xfamily1.jpg.pagespeed.ic.vFzeUvXVHq.jpg">
+                                            </a>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+                        </li>
+                        <li><a href="https://staycations.tripzilla.com/">Staycations</a></li>
+                        <li><a href="/tag/itinerary">Itineraries</a></li>
+                        <li class="dropdown">
+                            <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Deals <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="http://tripzilla.sg/">Travel Packages</a></li>
+                                <li><a href="http://tripzilla.sg/travel/deals/flights">Flight Deals</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Giveaways <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/maison-aurelia-giveaway">3D2N Stay at Maison Aurelia Sanur, Bali</a></li>
+                                <li><a href="/past-winner-announcement">Past Winners</a></li>
+                            </ul>
+                        </li>
+                        <li class="dropdown">
+                            <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact <span class="caret"></span></a>
+                            <ul class="dropdown-menu">
+                                <li><a href="/about">Our Team</a></li>
+                                <li><a href="/work-with-us">Work with us</a></li>
+                                <li><a href="/category/press">In the Press</a></li>
+                                <li><a href="/contact-us">Contact Us</a></li>
+                            </ul>
+                        </li>
+                    </ul>
+                    <ul class="social-mobile-nav">
+                        <li>
+                            <a href="https://www.facebook.com/TripZillaMagazine/" target="_blank"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.instagram.com/tripzillamag/" target="_blank"><i class="fa fa-instagram" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://www.youtube.com/tripzillatravel" target="_blank"><i class="fa fa-youtube" aria-hidden="true"></i></a>
+                        </li>
+                        <li>
+                            <a href="https://twitter.com/TripZillaTravel" target="_blank"><i class="fa fa-twitter-square" aria-hidden="true"></i></a>
+                        </li>
+                    </ul>
+                </div>
+                <!-- /.navbar-collapse -->
+                <div class="clear"></div>
+            </nav>
+        </div>
+    </div>
+</header>
+<header id="masthead" class="site-header header-web">
+    <div id="top-header">
+        <div class="container clearfix">
+            <nav id="top-navigation" class="site-navigation">
+                <div class="row">
+                    <div class="col-sm-6" style="padding-left:0px;">
+                        <div class="row">
+                            <div id="logo-wrapper" style="float:left;">
+                                <a href="http://www.tripzilla.com/" rel="home">
+                                    <img src="https://www.tripzilla.com/wp-content/uploads/2017/02/ijojijo.png">
+                                </a>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="col-sm-6">
+                        <ul id="social-search">
+                            <li>
+                                <a href="https://www.facebook.com/TripZillaMagazine" target="_blank" title="TripZilla Magazine Facebook">
+                                <i class="fa fa-facebook" aria-hidden="true"></i>
+                                </a>
                             </li>
-                            <li class="dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Interests <span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li>
-                                        <ul id="destination_mobile">
-                                            <li>
-                                                <a href="/category/interest/sports-adventure" style="padding:0px;">
-                                                <img src="http://www.tripzilla.com/web/images/sub-menu/xsports1.jpg.pagespeed.ic.53r-SVQad1.jpg">
-                                                </a>
-                                            </li>
-                                            <li><a href="/category/interest/shopping-eating" style="padding:0px;">
-                                                <img src="http://www.tripzilla.com/web/images/sub-menu/xshopping1.jpg.pagespeed.ic.2NrAWmO9Vw.jpg">
-                                                </a>
-                                            </li>
-                                            <li><a href="/category/interest/island-beach" style="padding:0px;">
-                                                <img src="http://www.tripzilla.com/web/images/sub-menu/xisland1.jpg.pagespeed.ic.6GYudx_tBj.jpg">
-                                                </a>
-                                            </li>
-                                            <li><a href="/category/interest/cruises-land-journeys" style="padding:0px;">
-                                                <img src="http://www.tripzilla.com/web/images/sub-menu/xcruise1.jpg.pagespeed.ic.jIUXdc1koH.jpg">
-                                                </a>
-                                            </li>
-                                            <li><a href="/category/interest/luxury-spa-retreat" style="padding:0px;">
-                                                <img src="http://www.tripzilla.com/web/images/sub-menu/xluxury1.jpg.pagespeed.ic.s0tp2rX421.jpg">
-                                                </a>
-                                            </li>
-                                            <li><a href="/category/interest/family-kids" style="padding:0px;">
-                                                <img src="http://www.tripzilla.com/web/images/sub-menu/xfamily1.jpg.pagespeed.ic.vFzeUvXVHq.jpg">
-                                                </a>
-                                            </li>
-                                        </ul>
-                                    </li>
-                                </ul>
-                            </li>                            
-                            <li><a href="http://www.tripzilla.com/tag/itinerary">Itineraries</a></li>
-                            <li class="dropdown">
-                                <a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Travel Deals <span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="http://tripzilla.sg/">Travel Packages</a></li>
-                                    <li><a href="https://flyzilla.com/flight/deals">Flight Deals</a></li>
-                                </ul>
+                            <li>
+                                <a href="https://twitter.com/TripZillaTravel" target="_blank" title="TripZilla Magazine Twitter">
+                                <i class="fa fa-twitter" aria-hidden="true"></i>
+                                </a>
                             </li>
-                            <li class="dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Giveaways <span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="http://www.tripzilla.com/TripZillaGiveaway">Jet Airways Giveaway</a></li>
-                                    <li><a href="http://www.tripzilla.com/past-winner-announcement">Past Winners</a></li>
-                                </ul>
+                            <li>
+                                <a href="https://www.youtube.com/tripzillatravel" target="_blank" title="TripZilla Magazine Youtube">
+                                <i class="fa fa-youtube" aria-hidden="true"></i>
+                                </a>
                             </li>
-                            <li class="dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Get Involved <span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="http://www.tripzilla.com/hall-of-fame">Writer of the month</a></li>
-                                    <li><a href="http://www.tripzilla.com/media-trips">Media Trips</a></li>
-                                </ul>
+                            <li>
+                                <a href="https://www.instagram.com/tripzillamag/" target="_blank" title="TripZilla Magazine Instagram">
+                                <i class="fa fa-instagram" aria-hidden="true"></i>
+                                </a>
                             </li>
-                            <li class="dropdown">
-                                <a class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Contact <span class="caret"></span></a>
-                                <ul class="dropdown-menu">
-                                    <li><a href="http://www.tripzilla.com/about">About Us</a></li>
-                                    <li><a href="http://www.tripzilla.com/advertise">Meet the Team</a></li>
-                                    <li><a href="http://www.tripzilla.com/contact-us">Contact Us</a></li>
-                                </ul>
+                            <li>
+                                <div id="Exp-serach" class="Exp-serach">
+                                    <form role="search" method="get" class="search-form" action="http://www.tripzilla.com/">
+                                        <input class="ExpInput " onkeyup="buttonUp();" placeholder="Search destinations, interests and more" onblur="monkey();" type="search" value="" name="s" id="search" autocomplete="off">
+                                        <input class="Expbtn" type="submit" value="">
+                                        <span class="ExpIcon" id="search-icon"><i class="fa fa-search"></i></span>
+                                    </form>
+                                </div>
                             </li>
-                            
                         </ul>
                     </div>
-                    <!-- /.navbar-collapse -->
-                    <div class="clear"></div>
+                </div>
             </nav>
-            </div>
-            
         </div>
-    
-    </header>
-<style type="text/css">#destination_mobile{margin:0px;text-align:center}#destination_mobile li{display:inline-block;width:31.6666%;margin-bottom:-4px}.mobile-header-search{margin-right:10px;float:right;margin-top:12px;position:relative;border:none;border-radius:20px;font-family:Lato;font-weight:400;font-style:normal;color:gray;font-size:15px;padding:0 10px;background-color:#3a3a3a}.dropdown-menu{display:none}</style><header id="masthead" class="site-header header-web">
-	<div id="top-header">
-		<div class="container clearfix">				
-			<div class="current-date"></div>				
-			<nav id="top-navigation" class="site-navigation">
-				<div id="motto" style="padding:15px 0px;float:left;text-align:left;width:50%;">INSPIRING TRAVEL AND MAKING IT HAPPEN</div>
-				<div class="header-search" style="float:right;">				
-					<form role="search" method="get" class="search-form" action="http://www.tripzilla.com/">													
-						<input type="text" name="s" class="input input-100" id="input-web">						
-						<button type="submit" id="searchbar_submit" class="button"><i class="fa fa-search"></i></button>					
-					</form>							
-				</div>
-			</nav>
-		</div>
-	</div>
-	<div class="container clearfix">
-	<div id="logo_new" class="site-title logo">
-				<a href="http://www.tripzilla.com/" rel="home">
-					<img src="/wp-content/uploads/2016/05/Nx56xnew_logo_small.png.pagespeed.ic.DL3IGi0gut.png" height="56px">
-				</a>
-			</div> 
-	</div>
-	<div id="main-header">
-		<div class="container clearfix">
-			<nav id="main-menu" class="site-navigation">
-				<ul id="menu-main_menu" class="main-menu">
+    </div>
+    <div id="main-header">
+        <div class="container clearfix">
+            <nav id="main-menu" class="site-navigation">
+                <ul id="menu-main_menu" class="main-menu">
 	<li id="menu-item-13" class="menu-item menu-item-type-taxonomy menu-item-object-category menu-item-has-children" data-id="dest-menu">
 		<a href="#">Destinations</a>
-		<ul class="sub-menu" id="dest-menu">			
+		<ul class="sub-menu" id="dest-menu">
 				<div id="dest-sub-menu">
 					<div class="row">
-						<div class="dest-sub-menu"><a href="/category/destinations/asia/east-asia/south-korea"><img src="/web/images/sub-menu/desktop/korea.jpg.pagespeed.ce.eMGEerPsun.jpg"></a></div>
-						<div class="dest-sub-menu"><a href="/category/destinations/asia/southeast-asia/singapore"><img src="/web/images/sub-menu/desktop/sg.jpg.pagespeed.ce.lbTldM78VF.jpg"></a></div>
-						<div class="dest-sub-menu"><a href="/category/destinations/asia/southeast-asia/malaysia"><img src="/web/images/sub-menu/desktop/malaysia.jpg.pagespeed.ce.R8znOc3FOr.jpg"></a></div>
-						<div class="dest-sub-menu"><a href="/category/destinations/europe"><img src="/web/images/sub-menu/desktop/europe.jpg.pagespeed.ce.Gopo0bfDSc.jpg"></a></div>
+						<div class="dest-sub-menu"><a href="http://www.tripzilla.com/category/destinations/asia/east-asia/south-korea"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/korea.jpg.pagespeed.ce.eMGEerPsun.jpg"></a></div>
+						<div class="dest-sub-menu"><a href="http://www.tripzilla.com/category/destinations/asia/southeast-asia/singapore"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/sg.jpg.pagespeed.ce.lbTldM78VF.jpg"></a></div>
+						<div class="dest-sub-menu"><a href="http://www.tripzilla.com/category/destinations/asia/southeast-asia/malaysia"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/malaysia.jpg.pagespeed.ce.R8znOc3FOr.jpg"></a></div>
+						<div class="dest-sub-menu"><a href="http://www.tripzilla.com/category/destinations/europe"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/europe.jpg.pagespeed.ce.Gopo0bfDSc.jpg"></a></div>
 					</div>
 					<div class="row">
-						<div class="dest-sub-menu"><a href="/category/destinations/oceania/australia"><img src="/web/images/sub-menu/desktop/aussie.jpg.pagespeed.ce.3v4dZtBBgS.jpg"></a></div>
-						<div class="dest-sub-menu"><a href="/category/destinations/asia/east-asia/japan"><img src="/web/images/sub-menu/desktop/japan.jpg.pagespeed.ce.ZhA5k8HSQC.jpg"></a></div>
-						<div class="dest-sub-menu"><a href="/category/destinations/asia/southeast-asia/thailand"><img src="/web/images/sub-menu/desktop/thailand.jpg.pagespeed.ce.8LnCqkvUAB.jpg"></a></div>
-						<div class="dest-sub-menu"><a href="/category/destinations/asia/southeast-asia/indonesia"><img src="/web/images/sub-menu/desktop/indo.jpg.pagespeed.ce.gC2zpWN2Xh.jpg"></a></div>
+						<div class="dest-sub-menu"><a href="http://www.tripzilla.com/category/destinations/oceania/australia"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/aussie.jpg.pagespeed.ce.3v4dZtBBgS.jpg"></a></div>
+						<div class="dest-sub-menu"><a href="http://www.tripzilla.com/category/destinations/asia/east-asia/japan"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/japan.jpg.pagespeed.ce.ZhA5k8HSQC.jpg"></a></div>
+						<div class="dest-sub-menu"><a href="http://www.tripzilla.com/category/destinations/asia/southeast-asia/thailand"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/thailand.jpg.pagespeed.ce.8LnCqkvUAB.jpg"></a></div>
+						<div class="dest-sub-menu"><a href="http://www.tripzilla.com/category/destinations/asia/southeast-asia/indonesia"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/indo.jpg.pagespeed.ce.gC2zpWN2Xh.jpg"></a></div>
 					</div>
-				</div>				
-				<div class="other-dest-menu">									
-					<h5><a href="/category/destinations/asia/southeast-asia">SOUTH EAST ASIA</a></h5>
-					<ul class="a">
-						<li><a href="/category/destinations/asia/southeast-asia/cambodia"><i class="fa fa-circle" style="margin-bottom: 6px;"></i>Cambodia</a></li>
-						<li><a href="/category/destinations/asia/southeast-asia/laos"><i class="fa fa-circle" style="margin-bottom: 6px;"></i>Laos</a></li>
-						<li><a href="/category/destinations/asia/southeast-asia/myanmar"><i class="fa fa-circle" style="margin-bottom: 6px;"></i>Myanmar</a></li>
-						<li><a href="/category/destinations/asia/southeast-asia/philippines"><i class="fa fa-circle" style="margin-bottom: 6px;"></i>Philippines</a></li>
-						<li><a href="/category/destinations/asia/southeast-asia/vietnam"><i class="fa fa-circle" style="margin-bottom: 6px;"></i>Vietnam</a></li>
-					</ul>
 				</div>
-				<div class="other-dest-menu">									
-					<h5><a href="/category/destinations/asia/east-asia">EAST ASIA</a></h5>
+				<div class="other-dest-menu">
+					<h5><a href="http://www.tripzilla.com/category/destinations/asia/southeast-asia">SOUTH EAST ASIA</a></h5>
 					<ul class="a">
-						<li><a href="/category/destinations/asia/east-asia/hong-kong"><i class="fa fa-circle" style="margin-bottom: 6px;"></i>Hong Kong</a></li>
-						<li><a href="/category/destinations/asia/east-asia/japan"><i class="fa fa-circle" style="margin-bottom: 6px;"></i>Japan</a></li>
-						<li><a href="/category/destinations/asia/east-asia/taiwan"><i class="fa fa-circle" style="margin-bottom: 6px;"></i>Taiwan</a></li>
+						<li><a href="http://www.tripzilla.com/category/destinations/asia/southeast-asia/cambodia"><i class="fa fa-circle"></i>Cambodia</a></li>
+						<li><a href="http://www.tripzilla.com/category/destinations/asia/southeast-asia/laos"><i class="fa fa-circle"></i>Laos</a></li>
+						<li><a href="http://www.tripzilla.com/category/destinations/asia/southeast-asia/myanmar"><i class="fa fa-circle"></i>Myanmar</a></li>
+						<li><a href="http://www.tripzilla.com/category/destinations/asia/southeast-asia/philippines"><i class="fa fa-circle"></i>Philippines</a></li>
+						<li><a href="http://www.tripzilla.com/category/destinations/asia/southeast-asia/vietnam"><i class="fa fa-circle"></i>Vietnam</a></li>
 					</ul>
 				</div>
 				<div class="other-dest-menu">
-					<h5><a href="/category/destinations/africa">AFRICA</a></h5>
-					<h5><a href="/category/destinations/north-america">NORTH AMERICA</a></h5>
-					<h5><a href="/category/destinations/oceania">OCEANIA</a></h5>
-					<h5><a href="/category/destinations/asia/rest-of-asia">REST OF ASIA</a></h5>
+					<h5><a href="http://www.tripzilla.com/category/destinations/asia/east-asia">EAST ASIA</a></h5>
+					<ul class="a">
+						<li><a href="http://www.tripzilla.com/category/destinations/asia/east-asia/hong-kong"><i class="fa fa-circle"></i>Hong Kong</a></li>
+						<li><a href="http://www.tripzilla.com/category/destinations/asia/east-asia/japan"><i class="fa fa-circle"></i>Japan</a></li>
+						<li><a href="http://www.tripzilla.com/category/destinations/asia/east-asia/taiwan"><i class="fa fa-circle"></i>Taiwan</a></li>
+					</ul>
 				</div>
-				<div class="clear"></div>			
+				<div class="other-dest-menu">
+					<h5><a href="http://www.tripzilla.com/category/destinations/africa">AFRICA</a></h5>
+					<h5><a href="http://www.tripzilla.com/category/destinations/north-america">NORTH AMERICA</a></h5>
+					<h5><a href="http://www.tripzilla.com/category/destinations/oceania">OCEANIA</a></h5>
+					<h5><a href="http://www.tripzilla.com/category/destinations/asia/rest-of-asia">REST OF ASIA</a></h5>
+				</div>
+				<div class="clear"></div>
 		</ul>
 	</li>
 	<li id="interest-parent-menu" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children" data-id="interest-menu"><a href="#">Interests</a>
 				<ul class="sub-menu" style="display: none;" id="interest-menu">
 				<div class="row">
-					<div class="interest-menu"><a href="/category/interest/sports-adventure"><img src="/web/images/sub-menu/desktop/sports.jpg.pagespeed.ce.ZdPOBcsnJh.jpg"></a></div>
-					<div class="interest-menu"><a href="/category/interest/shopping-eating"><img src="/web/images/sub-menu/desktop/shop.jpg.pagespeed.ce.Tl48uHjJeK.jpg"></a></div>
-					<div class="interest-menu"><a href="/category/interest/island-beach"><img src="/web/images/sub-menu/desktop/island.jpg.pagespeed.ce.zo-OIbRYey.jpg"></a></div>						
+					<div class="interest-menu"><a href="http://www.tripzilla.com/category/interest/sports-adventure"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/sports.jpg.pagespeed.ce.ZdPOBcsnJh.jpg"></a></div>
+					<div class="interest-menu"><a href="http://www.tripzilla.com/category/interest/shopping-eating"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/shop.jpg.pagespeed.ce.Tl48uHjJeK.jpg"></a></div>
+					<div class="interest-menu"><a href="http://www.tripzilla.com/category/interest/island-beach"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/island.jpg.pagespeed.ce.zo-OIbRYey.jpg"></a></div>
 				</div>
 				<div class="row" style="margin-bottom:6px;">
-					<div class="interest-menu"><a href="/category/interest/cruises-land-journeys"><img src="/web/images/sub-menu/desktop/cruises.jpg.pagespeed.ce.xSVqrMJPBf.jpg"></a></div>
-					<div class="interest-menu"><a href="/category/interest/luxury-spa-retreat"><img src="/web/images/sub-menu/desktop/luxury.jpg.pagespeed.ce.h56K0xlx0o.jpg"></a></div>
-					<div class="interest-menu"><a href="/category/interest/family-kids"><img src="/web/images/sub-menu/desktop/family.jpg.pagespeed.ce.3vv_arzXvr.jpg"></a></div>					
-				</div>				
-				<div class="other-interest-menu">									
-					<h5><a href="/category/trip-planning">TRIP PLANNING</a></h5>
-					<h5><a href="/category/travel-inspiration">TRAVEL INSPIRATION</a></h5>
-					<h5><a href="/category/travel-stories">TRAVEL STORIES</a></h5>					
+					<div class="interest-menu"><a href="http://www.tripzilla.com/category/interest/cruises-land-journeys"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/cruises.jpg.pagespeed.ce.xSVqrMJPBf.jpg"></a></div>
+					<div class="interest-menu"><a href="http://www.tripzilla.com/category/interest/luxury-spa-retreat"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/luxury.jpg.pagespeed.ce.h56K0xlx0o.jpg"></a></div>
+					<div class="interest-menu"><a href="http://www.tripzilla.com/category/interest/family-kids"><img src="http://www.tripzilla.com/wp-content/themes/magazine-2017/images/sub-menu/desktop/family.jpg.pagespeed.ce.3vv_arzXvr.jpg"></a></div>
+				</div>
+				<div class="other-interest-menu">
+					<h5><a href="http://www.tripzilla.com/category/trip-planning">TRIP PLANNING</a></h5>
+					<h5><a href="http://www.tripzilla.com/category/travel-inspiration">TRAVEL INSPIRATION</a></h5>
+					<h5><a href="http://www.tripzilla.com/category/travel-stories">TRAVEL STORIES</a></h5>
 				</div>
 				<div class="clear"></div>
 			</ul>
 	</li>
-	<li id="travel-news" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/category/travel-news">TRAVEL NEWS</a></li>
-	<li id="itinerary" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/tag/itinerary">ITINERARIES</a></li>
-	<li id="travel-deals" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="http://tripzilla.sg/" target="_blank">TRAVEL DEALS</a></li>	
-	<li id="travel-deals" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="https://flyzilla.com/flight/deals" target="_blank">FLIGHT DEALS</a></li>
-	<!--<li id="giveaways" class="menu-item menu-item-type-custom menu-item-object-custom"><a href="/past-winner-announcement">GIVEAWAYs</a></li>-->
-	<li id="giveaways" class="menu-item menu-item-type-custom menu-item-has-children parent-menu" data-id="giveaway"><a href="#">GIVEAWAYS</a>		
+
+	<li id="travel-news" class="menu-item menu-item-type-custom menu-item-object-custom">
+		<a href="https://staycations.tripzilla.com/" target="_blank">STAYCATIONS</a>
+	</li>
+	<li id="itinerary" class="menu-item menu-item-type-custom menu-item-object-custom">
+		<a href="http://www.tripzilla.com/tag/itinerary">ITINERARIES</a>
+	</li>
+	<li id="travel_deals" class="menu-item menu-item-type-custom menu-item-has-children parent-menu" data-id="deal"><a href="#">DEALS</a>
+		<ul class="sub-menu" id="deal">
+			<li><a href="https://tripzilla.sg/" target="_blank">Travel Deals</a></li>
+			<li><a href="https://tripzilla.sg/travel/deals/flights" target="_blank">Flight Deals </a></li>
+		</ul>
+	</li>
+
+	<li id="giveaways" class="menu-item menu-item-type-custom menu-item-has-children parent-menu" data-id="giveaway"><a href="#">GIVEAWAYS</a>
 		<ul class="sub-menu" id="giveaway">
-			 <li><a href="/TripZillaGiveaway">Jet Airways Giveaway</a></li>
-			<li><a href="/past-winner-announcement">Past Winners</a></li>			
+			<!--li><a href="/maison-aurelia-giveaway">3D2N Stay at Maison Aurelia Sanur, Bali</a></li-->
+			<li><a href="http://www.tripzilla.com/past-winner-announcement">Past Winners</a></li>
 		</ul>
 	</li>
-	<li id="get-involved" class="menu-item menu-item-type-custom menu-item-has-children parent-menu" data-id="get_involved"><a href="#">GET INVOLVED</a>
-		<ul class="sub-menu" id="get_involved">
-			<li><a href="/hall-of-fame">Writer of the month</a></li>
-			<li><a href="/media-trips">Media trips</a></li>											
-		</ul>
-	</li>
+
 	<li id="contact-menu" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-has-children parent-menu" data-id="contact_menu_child_list"><a href="#">CONTACT</a>
 		<ul class="sub-menu" id="contact_menu_child_list">
-			<li><a href="/about">About us</a></li>
-			<li><a href="/advertise">Advertise with us</a></li>	
-			<li><a href="/contact-us">Contact us</a></li>										
+			<li><a href="http://www.tripzilla.com/about">Our Team</a></li>
+			<li><a href="http://www.tripzilla.com/work-with-us">Work with us</a></li>
+			<li><a href="http://www.tripzilla.com/category/press">In the Press</a></li>
+			<li><a href="http://www.tripzilla.com/contact-us">Contact us</a></li>
 		</ul>
-	</li>	
-</ul>			</nav>
-		</div>
-	</div>
-	</header>	<!-- End : Header Section --><style type="text/css">#colofone{position:absolute;bottom:0px}.google_ads_desktop{display:none}</style>
+	</li>
+</ul>            </nav>
+        </div>
+    </div>
+</header>	<!-- End : Header Section -->
+<style type="text/css">#colofone{position:absolute;bottom:0}.google_ads_desktop{display:none}.no_list_style li{list-style-type:none}</style>
 	<div id="maincontent">
 	<div id="contact" class="container clearfix" style="margin-bottom:40px;">
 		        	<h1 class="post-title" style="margin-bottom: 25px;line-height: 35px;">Privacy Policy</h1>
@@ -348,11 +385,12 @@ js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js";fjs.
 <h4>Use of Cookies</h4>
 <p>Cookies are text files placed on your computer to collect standard Internet log information and visitor behaviour information. The information is used to track visitor use of the Site and to compile statistical reports on Site activity. You can set your browser not to accept cookies and the above websites tell you how to remove cookies from your browser.</p>
 <h4>Access to Your Information and Updating / Correcting Your Information</h4>
-<p>Subject to the exceptions referred to in section 21(2) of the Personal Data Protection Act 2012 (No. 26 of 2012) of Singapore (“PDPA”), you have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, you may <a href="http://magazine.tripzilla.com/contact-us" target="_blank">contact us</a> any time.</p><div class="google_ads_desktop" style="clear:both;float:left;width:100%;margin:0 0 20px 0;"><div style="clear:both"></div>
+<p>Subject to the exceptions referred to in section 21(2) of the Personal Data Protection Act 2012 (No. 26 of 2012) of Singapore (“PDPA”), you have the right to request a copy of the information that we hold about you. If you would like a copy of some or all of your personal information, you may <a href="http://magazine.tripzilla.com/contact-us" target="_blank">contact us</a> any time.</p><div class="insertion_wrapper"><div class="google_ads_desktop" style="clear:both;float:left;width:100%;margin:0 0 20px 0;background: #333;"><div style="clear:both"></div>
 		<script async="" src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
-					<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2847245452106876" data-ad-slot="6390808076" data-ad-format="auto"></ins>
-					<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
-					<div style="clear:both"></div></div><div class="load_next_post_cls" style="width:100%;height:1px;background:#FFF;"></div>
+		<!-- TZM_Responsive -->
+		<ins class="adsbygoogle" style="display:block" data-ad-client="ca-pub-2847245452106876" data-ad-slot="6390808076" data-ad-format="auto"></ins>
+		<script>(adsbygoogle=window.adsbygoogle||[]).push({});</script>
+		<div style="clear:both"></div></div><div class="load_next_post_cls" style="width:100%;height:1px;"></div></div>
 <p>We want to ensure that your personal information is accurate and up to date. If any of the information that you have provided to TripZilla Magazine changes, for example if you change your email address or name, please <a href="http://magazine.tripzilla.com/contact-us" target="_blank">contact us</a> and let us know the correct details. You may ask us, or we may ask you, to correct information, you or we think is inaccurate, and you may also ask us to remove information which is inaccurate.</p>
 <h4>Non-Disclosure</h4>
 <p>We do not sell, trade, or otherwise transfer to third parties your personally identifiable information. This does not include trusted third parties who assist us in operating our website, conducting our business, or servicing you, as long as these parties agree to keep this information confidential. We may also release your information when we believe release is appropriate to comply with the law, enforce our site policies, or protect ours and others’ rights, property, or safety. However, non-personally identifiable visitor information may be provided to other parties for marketing, advertising, or other uses.</p>
@@ -365,14 +403,7 @@ js=d.createElement(s);js.id=id;js.src="//connect.facebook.net/en_US/sdk.js";fjs.
 <h4>How to Contact Us</h4>
 <p>We welcome your views about TripZilla Magazine and our privacy policy. If you have any queries or comments feel free to <a href="http://magazine.tripzilla.com/contact-us" target="_blank">contact us</a> anytime.</p>
 <p>LAST UPDATED: 23rd day of November 2015</p>
-<script data-cfasync="false" type="text/javascript">var addthis_config={"data_track_clickback":false,"ui_atversion":300,"ignore_server_config":true};var addthis_share={};</script>
-                <!-- AddThis Settings Begin -->
-                <script data-cfasync="false" type="text/javascript">var addthis_product="wpp-5.3.2";var wp_product_version="wpp-5.3.2";var wp_blog_version="4.5";var addthis_plugin_info={"info_status":"enabled","cms_name":"WordPress","cms_version":"4.5","plugin_name":"Share Buttons by AddThis","plugin_version":"5.3.2","anonymous_profile_id":"wp-d996c9cf3d6bad8f05a9f0a7171a4380","plugin_mode":"WordPress","select_prefs":{"addthis_per_post_enabled":false,"addthis_above_enabled":false,"addthis_below_enabled":false,"addthis_sidebar_enabled":false,"addthis_mobile_toolbar_enabled":false,"addthis_above_showon_home":false,"addthis_below_showon_home":false,"addthis_above_showon_pages":false,"addthis_below_showon_pages":false,"addthis_above_showon_categories":false,"addthis_below_showon_categories":false,"addthis_above_showon_archives":false,"addthis_below_showon_archives":false,"addthis_above_showon_posts":true,"addthis_above_showon_excerpts":true,"addthis_below_showon_posts":true,"addthis_below_showon_excerpts":true,"addthis_sidebar_showon_home":false,"addthis_sidebar_showon_posts":true,"addthis_sidebar_showon_pages":true,"addthis_sidebar_showon_archives":false,"addthis_sidebar_showon_categories":false,"addthis_mobile_toolbar_showon_home":true,"addthis_mobile_toolbar_showon_posts":true,"addthis_mobile_toolbar_showon_pages":true,"addthis_mobile_toolbar_showon_archives":true,"addthis_mobile_toolbar_showon_categories":true,"sharing_enabled_on_post_via_metabox":true},"page_info":{"template":"pages","post_type":""}};if(typeof(addthis_config)=="undefined"){var addthis_config={"data_track_clickback":false,"ui_atversion":300,"ignore_server_config":true};}
-if(typeof(addthis_share)=="undefined"){var addthis_share={};}
-if(typeof(addthis_layers)=="undefined"){var addthis_layers={};}</script>
-                <script data-cfasync="false" type="text/javascript" src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-539e83c00464541c "></script>
-                <script data-cfasync="false" type="text/javascript">(function(){var at_interval=setInterval(function(){if(window.addthis){clearInterval(at_interval);addthis.layers(addthis_layers);}},1000)}());</script>
-                	
+	
 	</div>
 </div>
 <!-- Start : Footer Section -->
@@ -383,111 +414,37 @@ if(typeof(addthis_layers)=="undefined"){var addthis_layers={};}</script>
 	<div class="copyright">© TripZilla 2014 - 2016</div>
 </div>		
 <nav id="footer-navigation" class="site-navigation footer-menu">		
-	<ul id="menu-footer_menu" class="footer-menu"><li id="menu-item-28244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28244"><a href="http://www.tripzilla.com/term-of-use">Terms of Use</a></li>
+	<ul id="menu-footer_menu" class="footer-menu"><li id="menu-item-28244" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28244"><a href="http://www.tripzilla.com/terms-of-use">Terms of Use</a></li>
 <li id="menu-item-28231" class="menu-item menu-item-type-post_type menu-item-object-page current-menu-item page_item page-item-28137 current_page_item menu-item-28231"><a href="http://www.tripzilla.com/privacy-policy">Privacy Policy</a></li>
 </ul></nav>        </div>
     </div>
 
-        </footer>
-<div id="mag-lightbox" class="contest-quency" style="display:none;">
-    <div class="background"></div>
-    <div id="mag-dialog-form">
-        <span class="close-lightbox  close-modal">
-            <i class="fa fa-times" style="font-size: 25px;"></i>
-        </span>
-        <div id="light_box_input">
-            <div class="input-group" id="lb-input-group">
-                <div class="input-group-addon" id="contest-input-addon"><i class="fa fa-envelope"></i></div>
-                <input type="text" name="email" id="lb-email-input" class="form-control form-input" autocomplete="off" placeholder="Your Email" style="font-size:16px">                
-            </div>
-            <div id="lb-contest-btn">LET ME WIN</div>
-        </div>
-    </div>
+    <a id="scroll-top" href="#top"><span class="fa fa-angle-up"></span></a>
+</footer>
+<div id="gonzilla" class="gonzilla animated bounceInRight" style="bottom: 0px; width: 300px; height: auto; display: none;position:fixed;right:10px;z-index:2000;">
+	<div id="hide-gonzilla" style="position: relative; float: right; display: inline-block; padding: 4px 8px; color: #fff; background: #333; cursor: pointer;"><i class="fa fa-times" aria-hidden="true"></i> Close</div>
+		<a href="https://www.zuji.com.sg/hot-deals/changi?utm_medium=partners&amp;utm_source=tripzilla&amp;utm_campaign=cag_hiddengems_mar17&amp;utm_term=branding" target="_blank">
+			<img src="https://static.tripzilla.com/thumb/4/3/75331_400x300.jpg" class="banner_img" data-banneid="120">
+		</a>		
 </div>
-<style type="text/css">#lb-input-group{width:100%}#light_box_input{background:#fff;padding:14px;width:560px;margin:0px auto;position:absolute;bottom:10px;left:160px}#lb-contest-btn:hover{cursor:pointer}#lb-contest-btn{background:#ed145b;padding:4px;text-align:center;border:1px solid #ed145b;margin-top:10px}#lb-email-input{height:32px}.input-group-addon{border:none}.contest-quency{color:#fff}.contest-link{text-align:center;margin-top:5px}.contest-link i{position:relative;top:1px}.contest-link a{margin-left:4px}.contest-link a:hover,.contest-link a:focus{color:#fff;text-decoration:underline!important}#mag-lightbox{top:0;overflow-y:scroll;z-index:10000;bottom:0;width:100%;height:100%;position:fixed}.popup-input{position:absolute;bottom:14px;width:100%}#mag-dialog-form{top:50%;left:50%;position:fixed;margin-top:-265px;margin-left:-400px;background:url(http://static.tripzilla.com/thumb/8/5/47749_880x520.jpg);background-size:contain;width:880px;height:520px}.close-lightbox{position:absolute;right:6px;top:0px;color:#000;padding:5px;z-index:1;width:25px;height:25px}#lb-submit{background-color:#ec5e5e;border-radius:0px;padding:10px 18px;display:block;width:100%;border:none;font-size:16px;font-weight:bold}#lb-email{height:40px;border-radius:0px}</style><div id="gonzilla" class="gonzilla" style="bottom: 0px; width: 300px; height: auto; display: none;position:fixed;right:0px;z-index:2000;">
-	<div id="hide-gonzilla" style="position: absolute;top: -30px;right: 0px;padding: 2px; height: 30px; text-align: center;color: #000;cursor: pointer;border-bottom: none;font-style: italic;">Close</div>
-		<!-- <iframe src="http://www.tripzilla.com/web/images/uob/index.html" width="300" height="250" scrolling="no"></iframe> -->
-		<a href="http://tripzilla.sg/external-links/view/1329" target="_blank">
-			<iframe src="http://www.tripzilla.com/web/images/scoot/index.html" width="300" height="250" scrolling="no"></iframe>
-		</a>
-</div>
-<style type="text/css">#hide-gonzilla:hover{color:red}</style>
+
 <!-- End : Footer Section -->
-<style id="addthis_output-css" media="all">.entry-content .addthis_toolbox,.entry-content .addthis_button,.entry-header .addthis_toolbox,.entry-header .addthis_button{margin:10px 0 10px 0}.addthis_button_tweet{min-width:83px;float:left}.atwidget iframe{max-width:none}div.at-above-post-homepage a,div.at-below-post-homepage a,div.at-above-post a,div.at-below-post a,div.at-above-post-page a,div.at-below-post-page a,div.at-above-post-cat-page a,div.at-below-post-cat-page a,div.at-above-post-arch-page a,div.at-below-post-arch-page a,div.addthis_toolbox a,a.at-share-btn{border:0;box-shadow:none}div.addthis_toolbox br{display:none}</style>
-<script type="text/javascript">//<![CDATA[
-!function(a,b){"use strict";function c(){if(!e){e=!0;var a,c,d,f,g=-1!==navigator.appVersion.indexOf("MSIE 10"),h=!!navigator.userAgent.match(/Trident.*rv:11\./),i=b.querySelectorAll("iframe.wp-embedded-content");for(c=0;c<i.length;c++)if(d=i[c],!d.getAttribute("data-secret")){if(f=Math.random().toString(36).substr(2,10),d.src+="#?secret="+f,d.setAttribute("data-secret",f),g||h)a=d.cloneNode(!0),a.removeAttribute("security"),d.parentNode.replaceChild(a,d)}else;}}var d=!1,e=!1;if(b.querySelector)if(a.addEventListener)d=!0;if(a.wp=a.wp||{},!a.wp.receiveEmbedMessage)if(a.wp.receiveEmbedMessage=function(c){var d=c.data;if(d.secret||d.message||d.value)if(!/[^a-zA-Z0-9]/.test(d.secret)){var e,f,g,h,i,j=b.querySelectorAll('iframe[data-secret="'+d.secret+'"]'),k=b.querySelectorAll('blockquote[data-secret="'+d.secret+'"]');for(e=0;e<k.length;e++)k[e].style.display="none";for(e=0;e<j.length;e++)if(f=j[e],c.source===f.contentWindow){if(f.removeAttribute("style"),"height"===d.message){if(g=parseInt(d.value,10),g>1e3)g=1e3;else if(200>~~g)g=200;f.height=g}if("link"===d.message)if(h=b.createElement("a"),i=b.createElement("a"),h.href=f.getAttribute("src"),i.href=d.value,i.host===h.host)if(b.activeElement===f)a.top.location.href=d.value}else;}},d)a.addEventListener("message",a.wp.receiveEmbedMessage,!1),b.addEventListener("DOMContentLoaded",c,!1),a.addEventListener("load",c,!1)}(window,document);
-//]]></script>
-<!--wp_footer--><div id="magazine_modal"></div>
-
-<!-- <link href="http://magdev.tripzilla.com/ajax/mobile/bootstrap.css?07" rel="stylesheet"> -->
-<link href="http://www.tripzilla.com/A.ajax,,_mobile,,_bootstrap.css+web,,_mobile,,_bootstrap-off-canvas-nav.css,Mcc.qic7VHkyTQ.css.pagespeed.cf.MxKco-y0kG.css" rel="stylesheet">
-
-<link href="https://fonts.googleapis.com/css?family=Playfair+Display:700italic" rel="stylesheet" type="text/css">
-<link rel="stylesheet" type="text/css" href="/A.web,,_landing_fonts,,_stylesheet.css+wp-content,,_themes,,_magazine,,P282016,,P29,,_style.css+wp-content,,_themes,,_magazine,,P282016,,P29,,_css,,_font-awesome.min.css+wp-content,,_themes,,_magazine,,P282016,,P29,,_css,,_cssminified.css,,q14+wp-content,,_themes,,_magazine,,P282016,,P29,,_css,,_extra.css,,q46,Mcc.ONh1oqHkdR.css.pagespeed.cf.I0aS982L-b.css">
-
-
-
-
-
-<!-- <script type='text/javascript' src='/wp-includes/js/jquery/ui/core.min.js?ver=1.11.4'></script> -->
-<script type="text/javascript" src="/wp-includes/js/jquery/jquery.js.pagespeed.jm.Mce7qJ7uQ5.js"></script>
-<script type="text/javascript" async="" src="/wp-includes/js/jquery/ui/widget.min.js.pagespeed.jm.BzsEjDNfgR.js"></script>
-<script type="text/javascript" async="" src="/wp-includes/js/jquery/ui/tabs.min.js.pagespeed.jm.976W16RHzf.js"></script>
-<script type="text/javascript" src="http://www.tripzilla.com/wp-content/themes/magazine%282016%29/js/plugin.js.pagespeed.jm.VuaKTAyw1I.js"></script>
-<script type="text/javascript" async="" src="http://www.tripzilla.com/wp-content/themes/magazine%282016%29/js/functions.js.pagespeed.jm.OS3Rjt8Urr.js"></script>
-<script type="text/javascript" async="" src="http://www.tripzilla.com/wp-content/themes/magazine%282016%29/js/custom.js,q26.pagespeed.jm.02QFDUubX2.js"></script>
-<script type="text/javascript" async="" src="http://www.tripzilla.com/wp-content/themes/magazine%282016%29/js/jquery.backstretch.min.js.pagespeed.jm.U1NgPaOuHw.js"></script>
-<script type="text/javascript" async="" src="http://www.tripzilla.com/wp-content/themes/magazine%282016%29/js/custom_background.js,q02.pagespeed.jm.4_vNsM04_b.js"></script>
-<script type="text/javascript" async="" src="http://www.tripzilla.com/wp-content/themes/magazine%282016%29/js/scrollspy.js.pagespeed.jm.VJtfS_36pa.js"></script>
-<script type="text/javascript" async="" src="http://www.tripzilla.com/wp-content/themes/magazine%282016%29/js/jquery.history.js.pagespeed.ce.vBHjpgdhpE.js"></script>
-<script src="https://maps.googleapis.com/maps/api/js?v=3.exp"></script>
-<script src="http://www.tripzilla.com/wp-content/themes/magazine%282016%29/js/map_multiple_marker.js+catfish.js,q31.pagespeed.jc.KZGNUJ5KEn.js"></script><script>eval(mod_pagespeed__Br53X1pfv);</script>
-<script>eval(mod_pagespeed_QIOOrpyoF7);</script>
-
- 
-    <script type="text/javascript" async="" src="http://www.tripzilla.com/wp-content/themes/magazine%282016%29/js/autoload.js,q54.pagespeed.jm.blbAIc-7YE.js"></script>
-<script src="http://www.tripzilla.com/wp-content,_themes,_magazine,P282016,P29,_js,_external_analytics_and_form_functions.js,q09+wp-content,_themes,_magazine,P282016,P29,_js,_banner_click.js,q11+ajax,_mobile,_bootstrap-off-canvas-nav.js+wp-content,_themes,_magazine,P282016,P29,_js,_lightbox-with-form.js,q21.pagespeed.jc.me7T6rFnLA.js"></script><script>eval(mod_pagespeed_cUspzY5Q3S);</script>
-
-<script>eval(mod_pagespeed_jMXiPI4PGc);</script>
-<script type="text/javascript" src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
-<script>eval(mod_pagespeed_CH$gy1a0ah);</script>
-<!--css-->
-<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Lato%3A100%2C300%2C400%2C700%2C900%2C100italic%2C300italic%2C400italic%2C700italic%2C900italic%7CRoboto%3A700%7CMerriweather%3A300%2C400%2C700%2C900%2C300italic%2C400italic%2C700italic%2C900italic&amp;ver=1449733203">
-
-    <script>eval(mod_pagespeed_EmlFFn9XWL);</script>
-
-<style type="text/css">.ori_img{width:auto!important}</style>
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"a8dfaf4bf0","applicationID":"16176317","transactionName":"blFbZxdZWRdVUE0PVlcbeFARUVgKG0NYAVwUUkxfCU9eAEBb","queueTime":0,"applicationTime":114,"atts":"QhZYEV9DShk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+<script src="http://www.tripzilla.com/wp-content/themes/magazine-2017/js/prod,_jquery.lazyload.min.js+core,_widget.min.js+core,_tabs.min.js.pagespeed.jc.ZLag1O7ddb.js"></script><script>eval(mod_pagespeed_DAZ58Kp4iv);</script>
+<script>eval(mod_pagespeed_JNHo4k3L_0);</script>
+<script>eval(mod_pagespeed_xi3PZq3Tn9);</script>
+<script type="text/javascript" src="http://www.tripzilla.com/wp-content/themes/magazine-2017/js/core/jquery-plugins.js.pagespeed.jm.2oQrgMjyX8.js"></script>
+<script src="http://www.tripzilla.com/wp-content,_themes,_magazine-2017,_js,_core,_bootstrap.min.js+wp-content,_themes,_magazine-2017,_js,_core,_bootstrap-off-canvas-nav.js+wp-content,_themes,_magazine-2017,_js,_prod,_functions.js,qver==14+wp-content,_themes,_magazine-2017,_js,_prod,_lb-signup.js,qver==5+wp-content,_themes,_magazine-2017,_js,_prod,_youtube-video.js,qver==1+wp-content,_themes,_magazine-2017,_js,_prod,_common.js,qver==15+wp-content,_themes,_magazine-2017,_js,_prod,_custom_background.js,qver==3+wp-content,_themes,_magazine-2017,_js,_prod,_map_multiple_marker.js+wp-includes,_js,_wp-embed.min.js,qver==4.7.2.pagespeed.jc.-3HT8B-LYQ.js"></script><script>eval(mod_pagespeed_AFUCC2xqV4);</script>
+<script>eval(mod_pagespeed_u4B4hO3aZD);</script>
+<script>eval(mod_pagespeed_3_IDZbyGkO);</script>
+<script>eval(mod_pagespeed_DRt3T3RJ7Z);</script>
+<script>eval(mod_pagespeed_O7Ejlx6Ta5);</script>
+<script>eval(mod_pagespeed_KXhaUcFrYb);</script>
+<script>eval(mod_pagespeed_o0wYViPYtp);</script>
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?v=3&amp;key=AIzaSyAD5QSPRpVVKlV1ke_9csAc6v4ykZreFhQ"></script>
+<script>eval(mod_pagespeed_j5bcfnjmiR);</script>
+<script>eval(mod_pagespeed_vvygFO_kog);</script>
 
 
 
 
-
-
-
-
-
-
-
-<div id="mag-model">
-<div class="background"></div>
-<div>
-    <div id="dialog-form">
-        <div class="white-layer">
-            <h2 id="pop_up_title">Hey Traveller,</h2>
-            <h3 id="subscribe-des">Receive insider travel tips, trending stories &amp; exclusive giveaways in your mailbox</h3>
-            <div id="subscribe-error"></div>
-<div id="subscribe-success"></div>
-<div id="subscribe-form" class="row">
-	<button type="submit" class="btn form-button" id="suscribe_btn_bottom">YES PLEASE</button>
-	<input type="text" id="email-input" class="searchbox" placeholder="EMAIL" autocomplete="off">	
-</div>
-
-        </div>
-        <span class="btn-close-splash-btn  close-modal">
-            <i class="fa fa-times" style="font-size: 25px;"></i>
-        </span>
-    </div>
-</div>
-
-<script type="text/javascript">jQuery(document).ready(function($){var ads_page=$('#ads-writeup');if(ads_page){$('#colofone').css({'position':'relative'});};var content_height=$("#contact").height()+400;var window_height=$(window).height();if(content_height>window_height){$('#colofone').css({'position':'relative'});};});</script></div></body></html>
+<script type="text/javascript">jQuery(document).ready(function($){var ads_page=$('#ads-writeup');if(ads_page){$('#colofone').css({'position':'relative'});};var content_height=$("#contact").height()+400;var window_height=$(window).height();if(content_height>window_height){$('#colofone').css({'position':'relative'});};});</script></body></html>
