@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202173113id_/https%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jurysinns.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326071056id_/https%3A//www.jurysinns.com/privacy_and_security) for the most accurate reproduction.*
 
 # Jurys Inn | Privacy & Security Policy
 
@@ -61,7 +61,7 @@ Our third party marketing partners may set cookies before you reach our site. If
 You'll sometimes see our advertising or special offers on other websites. Cookies provided by the other website or advertising network can tell us how effective this is. For example, if you click on one of our advertisements, the website owner might use a cookie to tell us that you came from their site.
 
   
-You can choose to disable third party cookies by updating your device settings, [click here for details](http://www.aboutcookies.org/Default.aspx?page=1)
+You can choose to disable third party cookies by updating your device settings, [click here for details](http://www.aboutcookies.org/)
 
  **Analytic Cookies**
 
