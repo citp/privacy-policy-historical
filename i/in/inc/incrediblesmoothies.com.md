@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the incrediblesmoothies.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126040653id_/http%3A//www.incrediblesmoothies.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the incrediblesmoothies.com privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326221153id_/http%3A//www.incrediblesmoothies.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Incredible Smoothies
 
@@ -54,6 +54,12 @@ If you do not agree to Incredible Smoothies (http://www.incrediblesmoothies.com)
 
 Your use of this site indicates acceptance of this privacy policy.
 
-**P.S.** My [Reset 28 program](https://www.e-junkie.com/ecom/gb.php?ii=1411988&cl=103288&c=ib&aff=103288) for boosting energy and losing weight is now 55% off during my pre-Black Friday sale!
+[ssba_hide]
 
-About Tracy:
+### **PS: You Can Change A LOT In 28 Days!**
+
+You can feel lighter and more energetic with green smoothies and a plant-based diet. Enjoy [28 days of delicious recipes and motivation](http://www.incrediblesmoothies.com/reset/) and watch how far you will go!
+
+* * *
+
+**About Tracy** Tracy Russell created Incredible Smoothies to help people improve their health with green smoothies and a plant-based lifestyle. [Read more...](http://www.incrediblesmoothies.com/about/)
