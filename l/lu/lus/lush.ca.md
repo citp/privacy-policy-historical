@@ -1,6 +1,10 @@
-> *The following text is extracted and transformed from the lush.ca privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121110055id_/http%3A//www.lush.ca/en/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lush.ca privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326025355id_/http%3A//www.lush.ca/on/demandware.store/Sites-LushCA-Site/en_CA/CustomerService-Page%3Fcid%3Dprivacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
+
+[ ](https://web.archive.org/on/demandware.store/Sites-LushCA-Site/en_CA/CustomerService-Page?cid=customer-care) [ ](https://web.archive.org/on/demandware.store/Sites-LushCA-Site/en_CA/CustomerService-Page?cid=contact-us) [ ](https://web.archive.org/on/demandware.store/Sites-LushCA-Site/en_CA/CustomerService-Page?cid=shipping-info) [ ](https://web.archive.org/on/demandware.store/Sites-LushCA-Site/en_CA/CustomerService-Page?cid=returns) [ ](https://web.archive.org/on/demandware.store/Sites-LushCA-Site/en_CA/CustomerService-Page?cid=faqs) [ ](https://web.archive.org/on/demandware.store/Sites-LushCA-Site/en_CA/CustomerService-Page?cid=policies)
+
+[Policies](http://www.lush.ca/on/demandware.store/Sites-LushCA-Site/en_CA/CustomerService-Page?cid=policies)
 
 This privacy policy was last updated September 10, 2014.
 
@@ -162,4 +166,4 @@ Attention: Privacy Officer
 [customercare@lush.com](mailto:customercare@lush.com)  
 1-888-733-5874
 
-For additional information regarding the use of our Website please see our [Terms of Use](http://www.lush.ca/en/terms.html) posted on the Website.
+For additional information regarding the use of our Website please see our [Terms of Use](http://www.lush.ca/on/demandware.store/Sites-LushCA-Site/en_CA/CustomerService-Page?cid=terms) posted on the Website.
