@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aaas.org privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119113529id_/http%3A//www.aaas.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aaas.org privacy policy that was archived on 2017-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170326212028id_/http%3A//www.aaas.org/privacy-policy) for the most accurate reproduction.*
 
 # AAAS Privacy Policy | AAAS - The World's Largest General Scientific Society
 
