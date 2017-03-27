@@ -1,6 +1,29 @@
-> *The following text is extracted and transformed from the scufgaming.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506231724id_/https%3A//scufgaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scufgaming.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327215831id_/https%3A//scufgaming.com/s/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Scuf Gaming
+
+Max Out Your SCUF for $169.95£139.99169.95€
+
+Une SCUF toutes options pour seulement 169.95€ 
+
+No limits on options! Build your dream SCUF Infinity1 or Infinity4PS controller and use code: **MaxSCUF MaxSCUFuk** at checkout to get the controller you've always wanted for $169.95£139.99169.95€
+
+Plus de limite sur les options! Construisez la SCUF Infinity1 ou Infinity4PS de vos rêves et utilisez le code **MaxSCUF** lors de la commande pour obtenir votre manette pour seulement 169.95€ ! 
+
+Discount limited to one controller per order, will be applied to highest priced controller added to shopping cart. 
+
+Cette promotion se limite à une manette par commande. Elle s'applique à la plus chère des manettes de la commande. 
+
+FREE SHIPPING ON ORDERS OF $250£200250€ OR MORE
+
+Livraison gratuite pour les commandes supérieures à 250€
+
+Spend over $250£200250€ and get free shipping in the US, Canada, UK and EU countries. No code necessary. 
+
+Dépensez plus de 250€ et obtenez la livraison gratuite à destination des Etats-Unis, Canada et de l'Europe. Aucun code n'est nécessaire.
+
+  
+
 
 **I. INTRODUCTION.**  
 The Scuf Gaming Privacy Policy (“Policy”) provides you with information regarding then information we may obtain from you when you visit or use our website (“Site”). The terms “Scuf Gaming,” “we,” “Company,” “us” or “our” refer to Scuf Gaming International, LLC, its affiliates and/or subsidiaries. The words “you,” “your,” “yours,” “user” and “customer” refer to the individual or entity that uses our Site or submits information to our Company. This Policy covers the type of information that we collect about you including, but not limited to, name, physical address, email address, date of birth, telephone number, purchase history, Internet Protocol (“IP”) address, account information, payment information such as cardholder name, billing address, expiration date, security code(s), geographical location, photos and comments (hereinafter referred to as (“Personal Information”). In addition to the type of Personal Information that we collect about you, this Privacy Policy describes how we use the Personal Information, how we disclose your Personal Information to third-parties and the steps we take to ensure that your Personal Information is secure.
@@ -23,18 +46,18 @@ Personal Information submitted on this Site will be used for the purposes specif
 
 a) administer the Site
 
-b) improve your browsing experience by personalizing the Site 
+b) improve your browsing experience by personalizing the Site
 
-c) send to you goods purchased via the Site and supply to you services purchased via the Site 
+c) send to you goods purchased via the Site and supply to you services purchased via the Site
 
 d) send statements and invoices and collect payments from you;
 
-e) send you general (non-marketing) commercial communications; 
+e) send you general (non-marketing) commercial communications;
 
-f) send you email notifications which you have specifically requested; 
+f) send you email notifications which you have specifically requested;
 
 g) provide third parties with statistical information about users of our Site – such  
-information will not be used to identify any individual user; 
+information will not be used to identify any individual user;
 
 h) deal with inquiries and complaints made by or about you relating to the Site; and  
 we will not, without your express consent, provide your Personal Information to any third parties for the purpose of direct marketing.
@@ -42,9 +65,9 @@ we will not, without your express consent, provide your Personal Information to 
 **IV. WHAT WE DISCLOSE.**  
 In addition to the disclosures reasonably necessary for the purposes identified elsewhere in this Policy, we may disclose information about you:
 
-a) to the extent that we are required to do so by law; 
+a) to the extent that we are required to do so by law;
 
-b) in connection with any legal proceedings or prospective legal proceedings; 
+b) in connection with any legal proceedings or prospective legal proceedings;
 
 c) in order to establish, exercise or defend our legal rights (including providing information to others for the purposes of fraud prevention and reducing risk); and
 
@@ -106,7 +129,7 @@ ATTN: Privacy Policy
 (in North America and Non-European Union Countries)
 
 Scuf Gaming Europe Ltd.  
-34 Hayhill Industrial Estate  
-Barrow Upon Soar  
-Leicestershire LE12 8LD  
+16 Gelders Hall Road  
+Shepshed  
+Leicestershire LE12 9NH  
 (in the United Kingdom and European Union Countries)
