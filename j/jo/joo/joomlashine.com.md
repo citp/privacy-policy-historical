@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107222852id_/https%3A//www.joomlashine.com/joomlashine/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joomlashine.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327092438id_/https%3A//www.joomlashine.com/joomlashine/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy | Joomlashine
 
