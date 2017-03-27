@@ -1,105 +1,127 @@
-> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2014-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140209224323id_/http%3A//www.toptable.co.uk/info/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the toptable.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327203249id_/http%3A//www.opentable.co.uk/info/privacypolicy.aspx) for the most accurate reproduction.*
 
-# toptable privacy policy | toptable
+# Online Reservations Privacy Policy - OpenTable
 
-##  **Last Updated: November 7, 2013**
+**Last Updated:  **  3 October 2016
 
-This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by OpenTable International Limited ("toptable" or "We"). This Policy applies to consumer users of toptable’s websites, applications and other online services (collectively, "Sites").
+This privacy policy (“Policy”) explains how personal information is collected, used, and disclosed by OpenTable International Limited ("OpenTable" or "We"). This Policy applies to consumer users (individually referred to as “you”) of OpenTable’s websites, applications and other online services (collectively, our "Sites").
 
-Restaurants you reserve through toptable and social networking services you may choose to use with toptable may also collect, use and share information about you. toptable’s policy does not cover these or any other third parties or their services. For information about third-party privacy practices, please consult with them directly.
+Other third parties, such as restaurants at which you make reservations through our Sites, issuers of Merchant Gift Cards (as this term is defined in the OpenTable Terms of Use) you purchase through our Sites, and social networks that you use in connection with our Sites, may also collect, use, and share information about you. This Policy does not cover such third parties or their services. For information about third-party privacy practices, please consult with them directly.
 
 **INFORMATION WE COLLECT**
 
-We collect information about you in various ways when you use our Sites. We use this information to, among other things, provide the functionality and improve the quality of the Sites, and personalize your experience. For example, we may collect your name, email address, postal address, phone number, billing information, survey responses, demographics, primary dining city, current and prior restaurant reservation details, contact information of friends you invite, favorite restaurants, special restaurant requests, password and other information you choose to provide to us on our Sites. If you use our mobile application, in addition to the above, we may also collect your mobile device ID, your precise location data and the locations you select. For certain services on our Sites, a credit card number may be required. We may also obtain information from other sources, such as third-party sites, applications and services (each, a “Third-Party Platform”) through which you connect with us, and combine that with information we collect on our Sites. 
+We collect information about you in various ways when you use our Sites. We use this information to, among other things, provide the functionality and improve the quality of the Sites, and personalise your experience. For example, we may collect your name, email address, postal address, phone number (including your mobile phone number), billing information, survey responses, demographics, primary dining city, current and prior restaurant reservation details, favorite restaurants, special restaurant requests, passwords, contact information of people you add to, or notify of, your restaurant reservations through our Sites, names and email addresses of recipients of OpenTable Gift Cards (as this term is defined in the OpenTable Terms of Use) and Merchant Gift Cards, and other information you  provide on our Sites. If you use our mobile application to make reservations we may also collect your mobile device ID, your precise location data and the restaurant search locations you select. For certain services on our Sites, credit or debit card account information may be required, as further described in the section entitled “Payment Card Information” below. We may also obtain information from other sources, such as third-party sites, applications and services (each, a “Third-Party Platform”) through which you connect with our Sites, and combine that with information we collect on our Sites.
 
-When you visit our Sites, some information is automatically collected. For example, when you visit our Sites your computer's operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before our site are logged automatically. We also collect information about your usage and activity on our Sites.
-
-**Cookies.   **We, and third parties with whom we partner, may use cookies, web beacons, local shared objects (sometimes called “flash cookies”), and similar similar technology in connection with your use of the Site (“Cookies”). Cookies are small data files that may have unique identifiers, and reside, among other places, on your computer or mobile device, in emails we send to you, and on our web pages. Among other things, cookies help us improve our Sites and your experience. For example, we use cookies to see whether you are logged in, which areas and features are popular and to count visits to our Sites. Cookies may also transmit information about you and your use of the Site, such as your browser type, search preferences, data relating to advertisements that have been displayed to you or that you have clicked on, and the date and time of your use. We may access information contained in cookies placed on your device by a Third-Party Platform as permitted by the terms of your agreement and privacy settings with such Third-Party Platform. We may share this information with the Third-Party Platform for their use as permitted by the terms of your agreement and privacy settings with such Third-Party Platform.
+When you visit our Sites, some information is automatically collected. For example, when you visit our Sites, we may automatically collect your location, computer operating system, Internet Protocol (IP) address, access times, browser type and language, and the website you visited before our Sites. We also collect information about your usage and activity on our Sites using certain technologies, such as: Cookies, Web Beacons and other technologies. See our [Cookies and Interest-Based Advertising Policy](http://www.opentable.co.uk/legal/cookie-policy-uk) for more details.
 
 **HOW WE USE INFORMATION WE COLLECT**
 
-We use personal information collected through our Sites for purposes described in this Policy or disclosed to you on our Sites or in connection with our services. For example, we may use your information to:
+We use personal information collected through our Sites for purposes described in this Policy or disclosed to you on our Sites or otherwise in connection with our services. For example, we may use your information to:
 
-  * make and change your reservations;
-  * offer you, or provide you with, products and services, such as dining gift certificates;
-  * operate and improve our Sites, products and services;
-  * understand you and your preferences to enhance, personalize and customize your experience and enjoyment using our Sites, products and services, such as understanding your dining history to make recommendations about other restaurants you may like;
-  * process and deliver contest entries and rewards;
-  * display relevant advertising;
-  * respond to your comments and questions and provide customer service;
-  * send you related information, including confirmations, invoices, SMS messages, technical notices, updates, security alerts and support and administrative messages;
-  * communicate with you and send you marketing information about new contests, offers, promotions, rewards, upcoming events and other news about services offered by toptable, our subsidiaries and affiliates, select restaurants and our other selected partners;
-  * link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service; and
-  * protect, investigate and deter against fraudulent, unauthorized or illegal activity.
+·  make and change your restaurant reservations made through our Sites;
 
+·  offer you, or provide you with, products and services, such as OpenTable Gift Cards and Merchant Gift Cards;
 
+·  email OpenTable Gift Cards and Merchant Gift Cards to designated recipients;
 
-toptable may transfer, store and process your personal information in the United States and other countries that may provide for different data protection rules than the country in which you reside. By using the Site or submitting your personal information you consent to the transfer of your personal information to countries outside the European Economic Area. For information about how we protect your information in the United States, please see details about our Safe Harbor Program below.
+·  operate and improve our Sites, products and services;
+
+·  understand you and your preferences to enhance, personalise and customise your experience and enjoyment using our Sites, products and services, such as understanding your dining history to make recommendations about other restaurants you may like;
+
+·  process and deliver contest entries and rewards;
+
+·  display relevant advertising;
+
+·  respond to your comments and questions and provide customer service;
+
+·  send you information relating to our products and services, including reservation confirmations, receipts, technical notices, updates, security alerts and support and administrative messages;
+
+·  communicate with you about contests, offers, promotions, rewards, upcoming events and other news about products and services offered by OpenTable, our subsidiaries and affiliates, select restaurants and our other selected partners;
+
+·  link or combine with other personal information we get from third parties, to help understand your needs and provide you with better service;
+
+·  authenticate your credit or debit card account information; and
+
+·  protect, investigate and deter against fraudulent, unauthorised or illegal activity.
 
 **HOW WE SHARE INFORMATION**
 
 **Information Shared With Restaurants**
 
-When you make a reservation through our Sites, your information is provided to us and to the restaurants with whom you choose to reserve.  In order to facilitate your reservation, your information is provided to that restaurant, just as it would if you made a reservation over the phone, by email to the restaurant or on the restaurant’s website. If you provide a mobile phone number, restaurants may send you text messages regarding your reservation. Some restaurants also require you to provide a credit card number to secure your reservation.  We may also share with the restaurants additional information such as information about your dining preferences and history, or information that we collect via Third-Party Platforms.  You also have the option of making special preferences or comments about your reservation that toptable will pass on to that restaurant.
+When you make a Restaurant reservation through our Sites, your information is provided to us and certain information is provided to the restaurants with whom you choose to reserve. In order to facilitate your reservation, certain information is provided to that restaurant, just as it would if you made a reservation by calling the restaurant, emailing the restaurant or using the restaurant’s website. If you provide a mobile phone number, restaurants may send you text messages regarding your reservation. Some restaurants also require you to provide credit or debit card account information to secure your reservation. When you make a restaurant reservation through our Sites, we may also share with the restaurants additional information such as information about your dining preferences and history, or information that we collect via Third-Party Platforms. You also have the option of indicating special preferences or providing comments about your reservation that OpenTable will pass on to that restaurant.
 
-We may share with restaurants summary reports of feedback from recent diners. If you provide comments about a restaurant, these will be shared with that restaurant. We will not tie your comments with other information that can identify you, but a restaurant may be able to tell who you are from your comments, particularly, if you give your name in the comments or provide contact information such as an email address.
+We may share with restaurants summary reports of feedback from diners. If you provide comments about a restaurant through our Sites, these comments may be shared with that restaurant. We will not tie your comments with other information that can identify you, but a restaurant may be able to tell who you are from your comments, particularly if you give your name in the comments or provide contact information such as an email address.
 
-Information you choose to share with a restaurant when you make a reservation may be used by the restaurant for their own purposes. toptable does not control the privacy practices of restaurants. Please contact the restaurant directly if you want to learn about their privacy practices. 
+Information you choose to share with a restaurant when you make a reservation through our Sites may be used by the restaurant for its own purposes. OpenTable does not control the privacy practices of restaurants. Please contact the restaurant directly if you want to learn about their privacy practices.
 
-**Information You Share Socially**
+**Information Shared With Gift Card Merchants**
 
-Our Sites may allow you to connect and share your actions, comments, content, and information publicly or with friends. We may also allow you to connect with us, share on and use Third-Party Platforms, including those on which toptable has a presence.  
+If you purchase a Merchant Gift Card (or redeem an OpenTable Gift Card for a Merchant Gift Card) through our Sites, we notify the applicable issuer of the Merchant Gift Card and provide it with certain related information about your purchase or redemption, including your name, email address, and the amount of the Merchant Gift Card.
 
-Please be mindful of your own privacy needs and the privacy needs of others as you choose whom to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others. toptable also does not control the privacy practices of Third-Party Platforms. Please contact those sites and services directly if you want to learn about their privacy practices.
+**Payment Card Information**
+
+To use certain services on our Sites, such as to make reservations at certain restaurants; and to purchase OpenTable Gift Cards, Merchant Gift Cards, or other products or services, we may require credit or debit card account information. By submitting your credit or debit card account information through our Sites, you expressly consent to the sharing of your information with restaurants, third-party payment processors, and other third-party service providers to the extent necessary for these services and/or for the purpose of detecting fraud, and you further agree to the following terms.
+
+·  When you use a credit or debit card to secure a reservation through our Sites, we provide your credit or debit card account information (including card number and expiration date, but excluding the CVV number) to our third-party payment service providers and the applicable restaurant.
+
+·  If you purchase OpenTable Gift Cards or Merchant Gift Cards from us, we collect the credit or debit card account information from you. We share this information with our third-party payment service providers in order to process your payments. These third parties may also store your credit or debit card information, other than your CVV number, for your future use on our Sites. Your CVV number will not be stored and must be re-entered for each order.
+
+·  For information about the security of your credit or debit card account information, see Section called “Security of Your Personal Information” below.
+
+  **Information You Share Socially**
+
+Our Sites may allow you to connect and share your actions, comments, content, and information publicly or with friends. Our Sites also allow you to connect with us on, share on, and use Third-Party Platforms, including those on which OpenTable has a presence.
+
+Please be mindful of your own privacy needs and the privacy needs of others as you choose whom to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others. OpenTable also does not control the privacy practices of Third-Party Platforms. Please contact those sites and services directly if you want to learn about their privacy practices.
 
 **Sharing with Others**
 
 We do not share your personal information with third parties other than as described above and as follows:
 
-·         We may share personal information when you agree to our sharing of your information with other third parties (such as the restaurants at which you make reservations) for their own marketing purposes subject to their separate privacy policies.
+·  We may share personal information when you authorise us to share your information with other third parties (such as the restaurants at which you make reservations through our Sites) for their own marketing purposes, which are subject to the separate privacy policies of such third parties.
 
-·         We may share personal information with affiliates, third-party vendors, consultants and other service providers who work for us.
+·  We may share personal information with affiliates, third-party vendors, consultants and other service providers who work for us. Such third-party vendors may include vendors who provide fraud detection services to us and other third parties.
 
-·         We may share aggregate statistical data for the improvement of services offered by the toptable Sites.
+·  We may share your credit or debit card account information with third parties as described in the section called “Payment Card Information” above.
 
-·         We also use the services of third parties to provide us with services such as data collection, reporting, ad response measurement, and site analytics, as well as to assist with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We, our third party service providers, advertisers and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this privacy statement.
+·  We may share aggregate statistical data for the improvement of services offered by our Sites.
 
-·         We may disclose your personal information to (i) comply with laws or to respond to lawful requests and legal process, (ii) to protect the rights and property of toptable our agents, customers, and others including to enforce our agreements, policies and terms of use or (iii) in an emergency to protect the personal safety of toptable, its customers, or any person.
+·  We share personal information with third parties who provide services to us, such as data collection, reporting, ad response measurement, and site analytics, as well as assistance with delivery of relevant marketing messages and advertisements. These third parties may view, edit or set their own cookies. We and our third party service providers, advertisers, and/or partners may also place web beacons for these third parties. The use of these technologies by these third parties is subject to their own privacy policies and is not covered by this Policy.
 
-·         We may sell, transfer, divest, or disclose all or a portion of our business or assets to another company in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding.
+·  We may disclose your personal information (i) to comply with laws and to respond to lawful requests and legal process, (ii) to protect the rights and property of OpenTable our agents and customers, and others, including to enforce our agreements, policies and terms of use, and (iii) in an emergency to protect the personal safety of OpenTable, its customers, or any person.
+
+·  We may disclose or transfer your personal information to a third party if we sell, transfer, divest, or disclose all or a portion of our business or assets to another company in connection with or during negotiation of any merger, financing, acquisition, bankruptcy, dissolution, transaction, or proceeding.
 
 We may also share aggregated or de-identified information with third parties in our discretion.
 
 **SECURITY OF YOUR PERSONAL INFORMATION**
 
-toptable takes reasonable steps to help protect your personal information in an effort to prevent loss, misuse, unauthorized access, disclosure, alteration and destruction.
+OpenTable takes reasonable steps to help protect your personal information in an effort to prevent loss, misuse, unauthorised access, disclosure, alteration and destruction. When your credit or debit card account information is being transmitted to our Sites or through our Sites, it will be protected by encryption technology, such as Secure Sockets Layer (SSL).
+
+To be clear, OpenTable does not itself store your credit or debit card account information, and  **we do not have direct control over or responsibility for your credit or debit card account information**. Our contracts with third parties that receive your credit or debit card account information require them to keep it secure and confidential.
+
+Nonetheless, we cannot guarantee that transmissions of your credit or debit card account information or personal information will always be secure or that unauthorised third parties will never be able to defeat the security measures taken by OpenTable or our third-party service providers.  **We assume no liability or responsibility for disclosure of your information due to errors in transmission, unauthorised third-party access, or other causes beyond our control.**  You play an important role in keeping your personal information secure. You should not share your user name, password, or other security information for your OpenTable account with anyone. If we receive instructions using your user name and password, we will consider that you have authorised the instructions.
 
 **YOUR INFORMATION CHOICES AND CHANGES**
 
-You may opt out of receiving marketing and promotional emails from toptable by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about your accounts or our ongoing business relations.  You may also send requests about your contact preferences, changes to your information including requests to opt-out of sharing your personal information with third parties to our contact information below. 
+You may opt out of receiving marketing and promotional messages from OpenTable by following the instructions in those messages. If you opt out, we may still send you non-promotional messages, such as messages about your accounts or our ongoing business relations. You may also send requests about your contact preferences, changes to your information including requests to opt-out of sharing your personal information with third parties to our contact information below.
 
-**Cookie choices.   **Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies.  If you choose to remove cookies or reject cookies, this could affect certain features or services of our Sites. The method for diabling cookies may vary by device and browser, but can usually be found in preferences or security settings.
+**Cookie choices.**  To exercise choices regarding cookies set through our website, as well as other types of online tracking and Internet advertising, see our [Cookies and Interest-Based Advertising Policy](http://www.opentable.co.uk/legal/cookie-policy-uk).
 
-**Application location choices.   **Most mobile devices allow you to turn off location services. For more information about how to do this, please contact your mobile service carrier or your device manufacturer.
+**Application location choices.**  Most mobile devices allow you to turn off location services. For more information about how to do this, please contact your mobile service carrier or your device manufacturer. If you choose to turn off location services, this could affect certain features or services of our Sites.
 
-**CONTACTING TOPTABLE**
+**CONTACTING OPENTABLE**
 
 You are entitled to know what personal data we hold about you and you may ask us to make any necessary changes to ensure that it is accurate and kept up to date. If you wish to do this, please contact us using the contact information provided below. We are entitled by law to charge a fee of £10 to meet our costs in providing you with details of the information we hold about you and we may also require you to provide us with appropriate identification.
 
-For questions about accessing, changing or deleting your personal information visit http://www.toptable.co.uk or contact customer support at 020 7299 2949.
+For questions about accessing, changing or deleting your personal information visit http://www.opentable.co.uk or contact customer support at +44 (0) 0845 351 3515 or via email at [privacy@opentable.com](mailto:privacy@opentable.com).
 
-For questions or opinions on toptable's privacy policy, contact toptable via email at http://support.toptable.co.uk/app/ask/c/ or by postal mail at: toptable, Attn: Legal Department, 15 Worship Street, London EC2A 2DT United Kingdom.
+For questions or opinions on OpenTable's privacy policy, contact OpenTable via email at [privacy@opentable.com](mailto:privacy@opentable.com)or by postal mail at: OpenTable, Attn: Legal Department, Alphabeta Building 14-18 Finsbury Square London EC2A 1AH
 
-**SAFE HARBOR PROGRAM**
+**INTERNATIONAL TRANSFERS**
 
-toptable is a participant in the U.S.-EU Safe Harbor program and the U.S.-Swiss Safe Harbor program.  We have certified that we adhere to the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles. For more information about the Safe Harbor program and to view our certification, visit the U.S. Department of Commerce’s Safe Harbor Web site.
-
-**BBB Safe Harbor Privacy Dispute Resolution**
-
-In compliance with the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles, toptable commits to resolve complaints about your privacy and our collection or use of your personal information.  European Union or Swiss citizens with inquiries or complaints regarding this privacy policy should first contact toptable via email at info@toptable.com or by mail at: toptable, Attn: Legal Department, 1 Montgomery Street 7th Floor, San Francisco, CA 94104.
-
-toptable has further committed to refer unresolved privacy complaints under the U.S.-EU Safe Harbor Privacy Principles and U.S.-Swiss Safe Harbor Privacy Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by toptable, please visit the BBB EU SAFE HARBOR web site at www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+Information about you may be transferred to, or accessed by, entities located around the world as described in this Policy. Some of these entities may be located in countries that do not provide an equivalent level of protection as your home country, such as the United States. Where required, OpenTable has implemented appropriate cross-border transfer solutions to provide adequate protection for transfers of certain personal information, including, but not limited to, the European Commission’s Standard Contractual Clauses.
 
 **CHANGES TO THIS POLICY**
 
-toptable may change this Policy from time to time in accordance with the toptable Terms of Use. You agree you will review this Policy periodically. If we make any changes to this Policy, we will change the "Last Updated" date above. You are free to decide whether or not to accept the modified Policy, but accepting the Policy is required for you to continue using the Sites. **If you do not agree to the modified Policy, your sole recourse is to terminate your use of the Sites.**
+OpenTable may change this Policy from time to time in accordance with the OpenTable Terms of Use. You agree you will review this Policy periodically. If we make any changes to this Policy, we will change the "Last Updated" date above. You are free to decide whether or not to accept the modified Policy, but accepting the Policy is required for you to continue using the Sites.  **If you do not agree to the terms of this Policy or any modified version of this Policy, your sole recourse is to terminate your use of the Sites.**
