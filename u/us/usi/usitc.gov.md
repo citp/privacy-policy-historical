@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usitc.gov privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203224327id_/https%3A//www.usitc.gov/privacy_practices.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usitc.gov privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327175525id_/https%3A//www.usitc.gov/privacy_practices.htm) for the most accurate reproduction.*
 
 # Privacy Practices | USITC
 
