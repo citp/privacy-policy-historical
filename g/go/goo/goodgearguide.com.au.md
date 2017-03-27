@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125011830id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goodgearguide.com.au privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327083140id_/http%3A//www.goodgearguide.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Good Gear Guide Australia
 
@@ -136,11 +136,11 @@ For more information about privacy issues in Australia and protecting your priva
 
 **LAST UPDATED** : March 3, 2014
 
-  * 1 [​Finally! LG OLED TV 2016 range review](https://web.archive.org/review/lg/2016-oled-tv-range/610655/)
-  * 2 [​Fetch TV Mighty review: Better than Foxtel](https://web.archive.org/review/fetch_tv/mighty/608390/)
-  * 3 [​Fetch TV Mini review: Make your TV a smart TV](https://web.archive.org/review/fetch_tv/mini/608098/)
-  * 4 [​Panasonic DX900U UHD 4K smart TV review: Best all-round TV ever?](https://web.archive.org/review/panasonic/th-65dx900u-4k-smart-tv/608017/)
-  * 5 [​Parrot Mambo Drone review](https://web.archive.org/review/parrot/mambo-drone/607548/)
+  * 1 [​Gigabyte Aorus GA-AX370-Gaming 5 AMD Ryzen AM4 motherboard review](https://web.archive.org/review/gigabyte/aorus-ga-ax370-gaming-5-amd-ryzen-motherboard/615222/)
+  * 2 [​Kogan curved 4K UHD 55-inch LED LCD TV review](https://web.archive.org/review/kogan/curved-4k-55-inch-led-tv/615002/)
+  * 3 [​Panasonic Blu-ray recorder PVR set-top box review](https://web.archive.org/review/panasonic/blu-ray-recorder-pvr-set-top-box/614802/)
+  * 4 [​Garmin Fenix Chronos fitness tracker smartwatch review](https://web.archive.org/review/garmin/fenix-chronos-fitness-smartwatch/612646/)
+  * 5 [​Star Wars Death Star Bluetooth levitating rotating speaker review](https://web.archive.org/review/plox/star-wars-death-star-levitating-bluetooth-speaker/611023/)
 
 
 
@@ -164,34 +164,40 @@ Watch our video news and reviews from around the world
 
 Comprehensive buying guides, features, and step-by-step articles
 
-### [Kathy Cassidy](https://web.archive.org/gggtester/9/)
+### [Azadeh Williams](https://web.archive.org/gggtester/16/)
 
-STYLISTIC Q702
+HP OfficeJet Pro 8730
 
-First impression on unpacking the Q702 test unit was the solid feel and clean, minimalist styling. 
+A smarter way to print for busy small business owners, combining speedy printing with scanning and copying, making it easier to produce high quality documents and images at a touch of a button. 
 
-### [Anthony Grifoni](https://web.archive.org/gggtester/8/)
+### [Andrew Grant](https://web.archive.org/gggtester/15/)
 
-STYLISTIC Q572
+HP OfficeJet Pro 8730
 
-For work use, Microsoft Word and Excel programs pre-installed on the device are adequate for preparing short documents. 
+I've had a multifunction printer in the office going on 10 years now. It was a neat bit of kit back in the day -- print, copy, scan, fax -- when printing over WiFi felt a bit like magic. It’s seen better days though and an upgrade’s well overdue. This HP OfficeJet Pro 8730 looks like it ticks all the same boxes: print, copy, scan, and fax. (Really? Does anyone fax anything any more? I guess it's good to know the facility’s there, just in case.) Printing over WiFi is more-or- less standard these days. 
 
-### [Steph Mundell](https://web.archive.org/gggtester/7/)
+### [Ed Dawson](https://web.archive.org/gggtester/14/)
 
-LIFEBOOK UH574
+HP OfficeJet Pro 8730
 
-The Fujitsu LifeBook UH574 allowed for great mobility without being obnoxiously heavy or clunky. Its twelve hours of battery life did not disappoint. 
+As a freelance writer who is always on the go, I like my technology to be both efficient and effective so I can do my job well. The HP OfficeJet Pro 8730 Inkjet Printer ticks all the boxes in terms of form factor, performance and user interface. 
 
-### [Andrew Mitsi](https://web.archive.org/gggtester/5/)
+### [Michael Hargreaves](https://web.archive.org/gggtester/11/)
 
-STYLISTIC Q702
+Windows 10 for Business / Dell XPS 13
 
-The screen was particularly good. It is bright and visible from most angles, however heat is an issue, particularly around the Windows button on the front, and on the back where the battery housing is located. 
+I’d happily recommend this touchscreen laptop and Windows 10 as a great way to get serious work done at a desk or on the road. 
 
-### [Simon Harriott](https://web.archive.org/gggtester/4/)
+### [Aysha Strobbe](https://web.archive.org/gggtester/12/)
 
-STYLISTIC Q702
+Windows 10 / HP Spectre x360
 
-My first impression after unboxing the Q702 is that it is a nice looking unit. Styling is somewhat minimalist but very effective. The tablet part, once detached, has a nice weight, and no buttons or switches are located in awkward or intrusive positions. 
+Ultimately, I think the Windows 10 environment is excellent for me as it caters for so many different uses. The inclusion of the Xbox app is also great for when you need some downtime too! 
+
+### [Mark Escubio](https://web.archive.org/gggtester/13/)
+
+Windows 10 / Lenovo Yoga 910
+
+For me, the Xbox Play Anywhere is a great new feature as it allows you to play your current Xbox games with higher resolutions and better graphics without forking out extra cash for another copy. Although available titles are still scarce, but I’m sure it will grow in time. 
 
 [Good Gear Guide Evaluation Team](https://web.archive.org/gggtester/)
