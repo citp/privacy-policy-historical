@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217193847id_/http%3A//www.androidheadlines.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omgdroid.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327032952id_/https%3A//www.androidheadlines.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Androidheadlines.com
 
