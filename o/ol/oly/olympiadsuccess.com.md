@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the olympiadsuccess.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122141138id_/http%3A//www.olympiadsuccess.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the olympiadsuccess.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328013631id_/https%3A//www.olympiadsuccess.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
