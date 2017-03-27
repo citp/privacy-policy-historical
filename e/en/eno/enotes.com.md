@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enotes.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106003052id_/http%3A//www.enotes.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enotes.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327033043id_/https%3A//www.enotes.com/help/privacy) for the most accurate reproduction.*
 
 # eNotes Privacy Policy
 
