@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the eatdrinkdeals.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126135040id_/http%3A//www.eatdrinkdeals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eatdrinkdeals.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327195817id_/http%3A//www.eatdrinkdeals.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Restaurant Coupons 2016
+# Privacy Policy - Restaurant Coupons 2017
 
 ## Privacy Policy
 
