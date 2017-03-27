@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the rangde.org privacy policy that was archived on 2016-06-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160617021139id_/https%3A//www.rangde.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rangde.org privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327201615id_/https%3A//www.rangde.org/privacy) for the most accurate reproduction.*
 
 # Rang De - Privacy Policy
 
-> Last revised on : Nov 21, 2010
+> Last revised on : Dec 29, 2016
 
 Rang De is committed to maintaining the confidentiality, integrity and security of any personal information about our users. This Privacy & Security Policy explains how we protect personal information provided through our website [www.rangde.org](https://web.archive.org/home "RangDe.Org - Home") (the "Site") and how we use that information in connection with our service offered through the Site (the "Service"). "Personal information" for purposes of this Policy means information that identifies you, such as your name, address, phone number, fax number or email address.
 
@@ -45,13 +45,13 @@ If your Registration Information changes during your usage of Rang De, you may u
 
 #### Online session information and use is only used to improve your experience
 
-When you visit [RangDe.Org](https://web.archive.org/home "RangDe.Org - Home"), we may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our Site. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Web design and functionality.
+When you visit [RangDe.Org](https://web.archive.org/home "RangDe.Org - Home"), we may collect technical and navigational information, such as computer browser type, Internet protocol address, pages visited, and average time spent on our Site. This information may be used, for example, to alert you to software compatibility issues, or it may be analyzed to improve our Web design and functionality. 
 
-"Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer's hard drive. Rang De may set and access cookies on your computer to track and store preferential information about you. Rang De may gather information about you through cookie technology. For example, Rang De may assign a cookie to you, to limit the amount of times you see a particular Rang De Offer or to help better determine which Rang De Offers to serve to you. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you.
+"Cookies" are alphanumeric identifiers in the form of text files that are inserted and stored by your Web browser on your computer's hard drive. Rang De may set and access cookies on your computer to track and store preferential information about you. Rang De may gather information about you through cookie technology. For example, Rang De may assign a cookie to you, to limit the amount of times you see a particular Rang De Offer or to help better determine which Rang De Offers to serve to you. Please note that most Internet browsers will allow you to stop cookies from being stored on your computer and to delete cookies stored on your computer. If you choose to eliminate cookies, the full functionality of the Service may be impaired for you. 
 
-We encode our cookies so that only we can interpret the information stored in them.
+We encode our cookies so that only we can interpret the information stored in them. 
 
-Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity. Rang De, or third party service providers acting on our behalf, may use Web beacons to help us analyze Site usage and improve the Service.
+Web beacons are images embedded in a Web page or email for the purpose of measuring and analyzing site usage and activity. Rang De, or third party service providers acting on our behalf, may use Web beacons to help us analyze Site usage and improve the Service. 
 
 We may use third party service providers to help us analyze certain online activities. For example, these service providers may help us measure the performance of our online campaigns or analyze visitor activity on [RangDe.Org](https://web.archive.org/home "RangDe.Org - Home"). We may permit these service providers to use cookies and other technologies to perform these services for Rang De. We do not share any personal information about our customers with these third party service providers, and these service providers do not collect such information on our behalf. Our third party service providers are required to comply fully with this Privacy and Security Policy.
 
@@ -91,13 +91,13 @@ Your data is yours. You can remove it anytime you want. When you request us to d
 
 #### Email communications from us
 
-We provide our registered customers with monthly summaries of their social investments and email alerts. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting Rang De. [RangDe.Org](https://web.archive.org/home "RangDe.Org - Home") subscribers have the ability to opt-out of receiving our promotional emails and to terminate their newsletter subscriptions by following the instructions in the emails. Opting out in this manner will not end transmission of service-related emails, such as email alerts.
+We provide our registered customers with monthly summaries of their social investments. We also allow users to subscribe to email newsletters and from time to time may transmit emails promoting Rang De. RangDe.Org subscribers have the ability to opt-out of receiving our promotional emails, terminate their newsletter subscriptions but they will still receive information regarding completed transactions, monthly investment reminders that they have subscribed to and any urgent updates based on technical changes or exigent circumstances (natural disasters, policy changes etc). 
 
 * * *
 
 #### You are responsible for maintaining the confidentiality of your Login ID and Password
 
-We maintain rules to help prevent others from guessing your password. We also recommend that you change your password periodically. Your password must be 6-8 characters in length. You are responsible for maintaining the security of your Login ID and Password. You may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at security@RangDe.Org, but in any event you should change your password immediately via the Service. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy and Security Policy or the [RangDe.Org Terms of Use](https://web.archive.org/termsofuse "RangDe.Org - Terms of Use").
+We maintain rules to help prevent others from guessing your password. We also recommend that you change your password periodically. Your password must be 6-8 characters in length. You are responsible for maintaining the security of your Login ID and Password. You may not provide these credentials to any third party. If you believe that they have been stolen or been made known to others, you must contact us immediately at security@RangDe.Org, but in any event you should change your password immediately via the Service. We are not responsible if someone else accesses your account through Registration Information they have obtained from you or through a violation by you of this Privacy and Security Policy or the [RangDe.Org Terms of Use](https://web.archive.org/termsofuse "RangDe.Org - Terms of Use"). 
 
 If you have a security related concern, please contact us at security@RangDe.Org. We will work closely with you to ensure a rapid and personal response to your concerns. 
 
@@ -111,4 +111,4 @@ We update this Privacy & Security Policy periodically. The date last revised app
 
 #### Contact us if you have any questions or concerns
 
-If you have questions, comments, concerns or feedback regarding this Privacy and Security Policy or any other privacy or security concern, send an e-mail to security@RangDe.Org.
+If you have questions, comments, concerns or feedback regarding this Privacy and Security Policy or any other privacy or security concern, send an e-mail to security@RangDe.Org. 
