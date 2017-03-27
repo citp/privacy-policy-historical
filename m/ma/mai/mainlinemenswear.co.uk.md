@@ -1,9 +1,9 @@
-> *The following text is extracted and transformed from the mainlinemenswear.co.uk privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017205936id_/http%3A//www.mainlinemenswear.co.uk/page.php%3FjssCart%3D5b72a220a706d2bbd0175c3ce47c17aa%26xPage%3Dprivacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mainlinemenswear.co.uk privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327102351id_/http%3A//www.mainlinemenswear.co.uk/page.php%3FxPage%3Dprivacy.html) for the most accurate reproduction.*
 
 # Mainline Menswear Ltd > Our Privacy Statement
 
 Mainline Menswear Limited ("We" or "Mainline Menswear") are committed to protecting and respecting your privacy.  
-This policy (together with our terms and conditions ([click here to view our Terms and Conditions](http://www.mainlinemenswear.co.uk/page.php?jssCart=5d652549b634a64bc83fd6771f4e7879&xPage=terms.html)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
+This policy (together with our terms and conditions ([click here to view our Terms and Conditions](http://www.mainlinemenswear.co.uk/page.php?xPage=terms.html)) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. 
 
 Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
@@ -48,7 +48,7 @@ We may disclose your personal information to third parties:
 • In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.  
 • If Mainline Menswear or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.  
 • If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms and conditions of supply   
-([click here to view Terms and Conditions](http://www.mainlinemenswear.co.uk/page.php?jssCart=5d652549b634a64bc83fd6771f4e7879&xPage=terms.html))and other agreements; or to protect the rights, property, or safety of Mainline Menswear, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+([click here to view Terms and Conditions](http://www.mainlinemenswear.co.uk/page.php?xPage=terms.html))and other agreements; or to protect the rights, property, or safety of Mainline Menswear, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 **OPTING OUT OF OUR EMAILING DATABASE**  
 Should you wish to stop receiving promotional marketing via email you can contact us directly via [**sales@mainlinemenswear.co.uk**](mailto:sales@mainlinemenswear.co.uk?subject=Email%20Opt-out%20Request) to request removal (you will need to provide your relevant email address) or you can click the 'Unsubscribe' hyperlinks that are present in all our promotional email correspondence. 
@@ -67,7 +67,7 @@ Any changes we may make to our privacy policy in the future will be posted on th
 **CONTACT**  
 Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to [**sales@mainlinemenswear.co.uk**](mailto:sales@mainlinemenswear.co.uk) **.**
 
-You can also contact us by telephone **01723 624264** (during working hours as detailed [here](http://www.mainlinemenswear.co.uk/contact.php?jssCart=5d652549b634a64bc83fd6771f4e7879) ) or by post at:
+You can also contact us by telephone **01723 624264** (during working hours as detailed [here](http://www.mainlinemenswear.co.uk/contact.php) ) or by post at:
 
 Mainline Menswear Ltd  
 Unit 1, Orchard Court  
