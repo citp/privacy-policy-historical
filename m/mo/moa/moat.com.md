@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the moat.com privacy policy that was archived on 2016-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160402135154id_/http%3A//www.moat.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moat.com privacy policy that was archived on 2017-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170327170610id_/https%3A//moat.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Moat
+# Privacy and Cookies Policy | Moat
 
 This Privacy and Cookies Policy describes the privacy practices relating to information that Moat, Inc. (“Moat,” “we,” “us,” “our”) collects and uses on our websites that link to this policy, such as www.moat.com or any other website where this policy is displayed (collectively, our “Site”), as well as through our analytics technology services (generally hosted at moatads.com) that our clients use on their websites and their mobile applications (our “Services”).
 
