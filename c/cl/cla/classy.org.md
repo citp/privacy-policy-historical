@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the classy.org privacy policy that was archived on 2016-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160414114411id_/https%3A//www.classy.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the classy.org privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328033636id_/https%3A//classy.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Classy
 
