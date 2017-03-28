@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127142103id_/http%3A//www.peterglenn.com/content/security-and-privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peterglenn.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328124819id_/http%3A//www.peterglenn.com/content/security-and-privacy) for the most accurate reproduction.*
 
 # Security and Privacy | Peter Glenn
 
