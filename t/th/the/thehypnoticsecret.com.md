@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thehypnoticsecret.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430184909id_/http%3A//www.thehypnoticsecret.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thehypnoticsecret.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328024156id_/http%3A//www.thehypnoticsecret.com/privacy) for the most accurate reproduction.*
 
 # » Privacy » The Law Of Attraction - Money Can Be Attracted
 
