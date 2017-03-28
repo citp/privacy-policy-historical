@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brainyhistory.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603040405id_/http%3A//www.brainyhistory.com/inquire/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brainyhistory.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328153138id_/https%3A//www.brainyhistory.com/inquire/privacy.html) for the most accurate reproduction.*
 
 # BrainyHistory - Privacy
 
@@ -25,11 +25,11 @@ Please note that if you delete, block, or otherwise restrict cookies, or if you 
 
 Advertising enables us to provide the rich content that you see on this websites. Our hope is that by presenting ads tailored to your interests, we will enhance your experience on our websites.
 
-We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the [Network Advertising Initiative](http://www.networkadvertising.org/managing/opt_out.asp) or [Self-Regulatory Program for Online Behavioral Advertising](http://www.aboutads.info/).
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use aggregated information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, visit the [Network Advertising Initiative](https://www.networkadvertising.org/managing/opt_out.asp) or [Self-Regulatory Program for Online Behavioral Advertising](https://www.aboutads.info/).
 
 Google, as a third party vendor, uses cookies to serve ads on our websites. Google's use of the DART cookie enables it to serve ads to our users based on their visit to our sites and other sites on the Internet. Users may opt out of the use of the DART cookie by visiting the [Google ad and content network privacy policy.](http://www.google.com/privacy_ads.html)
 
-Quantcast, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Quantcast cookie by visiting the [Quantcast Preference Manager.](http://www.quantcast.com/opt-out)
+Quantcast, as a third party vendor, uses cookies to identify anonymous user interests on our websites. Users may opt out of the use of the Quantcast cookie by visiting the [Quantcast Preference Manager.](https://www.quantcast.com/opt-out)
 
 Security  
 Security for all personally identifiable information is extremely important to us. Unfortunately, no data transmission over the Internet can be guaranteed to be 100% secure. While we strive to protect your personal information, BrainyHistory cannot ensure or warrant the security of any information you transmit to us or from our online forms, and you do so at your own risk. Once we receive your transmission, we make our best effort to ensure its security on our systems.
