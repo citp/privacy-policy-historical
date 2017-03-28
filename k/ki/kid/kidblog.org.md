@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidblog.org privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118233631id_/http%3A//kidblog.org/home/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidblog.org privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328134151id_/https%3A//kidblog.org/home/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Kidblog
 
