@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the frozengames.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122042838id_/http%3A//frozengames.org/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the frozengames.org privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328071714id_/http%3A//frozengames.org/page/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Frozen Games - Frozen 2 Games
 
