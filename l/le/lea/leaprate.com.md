@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120070850id_/http%3A//www.leaprate.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaprate.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328025557id_/https%3A//www.leaprate.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | LeapRate
 
@@ -16,4 +16,4 @@ LeapRate places Google remarketing code on certain of our web pages to collect a
 
 This Privacy Policy applies only to this website, and excludes all third party websites, as we may provide links to other websites which we believe may be of interest to our visitors. We aim at ensuring that such websites are of the highest standard. However, due to the nature of the World Wide Web, we cannot guarantee the standards of every linked website or be responsible for their content.
 
-Should LeapRate amend this Privacy Policy in order to adapt it to new legal requirements or for any other reason, we will post the changes on this page so that you are always aware of what information we gather, how we use it, and under what circumstances we disclose it. 
+Should LeapRate amend this Privacy Policy in order to adapt it to new legal requirements or for any other reason, we will post the changes on this page so that you are always aware of what information we gather, how we use it, and under what circumstances we disclose it.
