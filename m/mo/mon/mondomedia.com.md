@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mondomedia.com privacy policy that was archived on 2015-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150526235729id_/http%3A//mondomedia.com/pages/view/13/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mondomedia.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328193006id_/https%3A//mondomedia.com/pages/view/13/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy - Mondo
 
