@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the statisticalatlas.com privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322204139id_/http%3A//statisticalatlas.com/policies/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the statisticalatlas.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329005839id_/http%3A//statisticalatlas.com/policies/privacy) for the most accurate reproduction.*
 
 # The Demographic Statistical Atlas of the United States - Statistical Atlas
 
