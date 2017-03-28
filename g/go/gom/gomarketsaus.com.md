@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the gomarketsaus.com privacy policy that was archived on 2016-06-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160619175900id_/http%3A//www.gomarkets.com.au/company-profile/legal-documents/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gomarketsaus.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328091504id_/https%3A//www.gomarkets.com.au/company-profile/legal-documents/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - MT4 Forex Broker | Forex Trading witth GO Markets
+# Privacy Policy - MT4 Forex Broker | Forex Trading with GO Markets
 
 [](https://www.gomarkets.com.au/)
 
@@ -8,7 +8,7 @@
 
 **GO Markets** is committed to providing you with the highest levels of client service. We recognise that your privacy is very important to you and we respect the confidentiality of information and the privacy of individuals. Your personal information will be treated strictly in accordance with the Australian Privacy Principles in the Privacy Act 1988 (Cth) and the "private sector amendments" contained in the Privacy Amendment (Enhancing Privacy Protection) Act 2012 (Cth). Further information on privacy in Australia may be obtained by visiting the website of the Office of the Federal Privacy Commissioner at [www.privacy.gov.au](http://www.oaic.gov.au/).
 
-**GO Markets** believes that this **Privacy Policy** discloses how the personal information you provide to us and our representatives, is collected, used, held, disclosed and disseminated. We are committed to being open and transparent about how we use your personal information.
+ **GO Markets** believes that this **Privacy Policy** discloses how the personal information you provide to us and our representatives, is collected, used, held, disclosed and disseminated. We are committed to being open and transparent about how we use your personal information.
 
 We encourage you to check our website regularly for any updates to our **Privacy Policy**.
 
@@ -46,7 +46,7 @@ You are not required by law to provide us with any of the personal information r
 
 ### How We Collect Personal Information
 
-**GO Markets** collects personal information in a number of ways, including:
+ **GO Markets** collects personal information in a number of ways, including:
 
   * Directly from you, when you attend a face­ to face interview;
   * Directly from you, when you provide information through a data collection form;
@@ -94,7 +94,7 @@ For the purposes set out above, we may disclose your personal information to org
 
 In addition, our employees and the outsourcing companies/contractors are obliged to respect the confidentiality of any personal information held by **GO Markets**.
 
-**GO Markets** takes its obligations to protect your information seriously, this includes when we operate throughout Australia and overseas, as part of our operations some uses and disclosures of your information may occur outside your State or Territory and/or outside of Australia. In some circumstances we may need to obtain your consent before this occurs.
+ **GO Markets** takes its obligations to protect your information seriously, this includes when we operate throughout Australia and overseas, as part of our operations some uses and disclosures of your information may occur outside your State or Territory and/or outside of Australia. In some circumstances we may need to obtain your consent before this occurs.
 
 We may take reasonable steps to require that organisations both within and outside the **GO Markets** group of companies who handle or obtain personal information as service providers to us acknowledge the confidentiality of this information, undertake to respect any individual's right to privacy and comply with either the Australian Privacy Principles or their local privacy regime and this policy.
 
@@ -126,7 +126,7 @@ It is a legislative requirement that we keep all personal information and record
 
 ### Ensure Your Personal Information is Correct and Up­to­-Date
 
-**GO Markets** takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up­-to­-date. To ensure we can maintain this level of accuracy and completeness, we recommend that you:
+ **GO Markets** takes all reasonable precautions to ensure that the personal information we collect, use and disclose is accurate, complete and up­-to­-date. To ensure we can maintain this level of accuracy and completeness, we recommend that you:
 
   * Inform us of any errors in your personal information as soon as possible; and
   * Update us with any changes to your personal information as soon as possible.
@@ -176,11 +176,11 @@ You can deal with us anonymously where it is lawful and practicable to do so. Fo
 
 Please contact our Privacy Officer if you wish to complain about any breach or potential breach of your privacy rights. Your complaint will be responded to within 7 days. If you are not satisfied with the outcome of your complaint, you are entitled to contact the Office of the Privacy Commissioner.
 
-**GO Markets**  may record telephone conversations between you and persons working for  **GO Markets**. Such recordings, or transcripts from such recordings, may be used for training purposes and to assist with the resolve of any dispute between you and  **GO Markets**.
+ **GO Markets**  may record telephone conversations between you and persons working for  **GO Markets**. Such recordings, or transcripts from such recordings, may be used for training purposes and to assist with the resolve of any dispute between you and  **GO Markets**.
 
 ### Our Website
 
-**GO Markets** website provides links to third party websites. The use of your information by these third party sites is not within the control of **GO Markets** and we cannot accept responsibility for the conduct of these organisations. Other websites are not subject to our privacy standards, policies and procedures. You will need to contact or review those websites directly to ascertain their privacy stands, policies and procedures.
+ **GO Markets** website provides links to third party websites. The use of your information by these third party sites is not within the control of **GO Markets** and we cannot accept responsibility for the conduct of these organisations. Other websites are not subject to our privacy standards, policies and procedures. You will need to contact or review those websites directly to ascertain their privacy stands, policies and procedures.
 
 You may register with us to receive newsletters and other information. By doing so, your name and e­mail address will be collected and stored on our database. We take care to ensure that the personal information you give us on our website is protected. For example, our website has electronic security systems in place, including the use of firewalls and data encryption.
 
@@ -198,7 +198,7 @@ Spam is a generic term used to describe electronic ‘junk mail’­ unwanted me
 
 ‘Electronic messaging’ covers e­mails, instant messaging, SMS and other mobile phone messaging, but not cover normal voice­to­voice communication by telephone.
 
-**GO Markets** complies with the provisions of the Spam Act when sending commercial electronic messages.
+ **GO Markets** complies with the provisions of the Spam Act when sending commercial electronic messages.
 
 Equally importantly, **GO Markets** makes sure that our practices are in accordance with the National Privacy Principles in all activities where they deal with personal information. Personal information includes our clients contact details.
 
@@ -210,9 +210,9 @@ Unless you ask us by calling **1800 88 55 71** not to contact you about products
 
 The three key steps GO Markets follows:
 
-  * **Consent** – Only commercial electronic messages are sent with the addressee’s consent – either express or inferred consent.
-  * **Identify** – Electronic messages will include clear and accurate information about the person and the company that is responsible for sending the commercial electronic message.
-  * **Unsubscribe** – We ensure that a functional unsubscribe facility is included in all our commercial electronic messages and deal with unsubscribe requests promptly.
+  *  **Consent** – Only commercial electronic messages are sent with the addressee’s consent – either express or inferred consent.
+  *  **Identify** – Electronic messages will include clear and accurate information about the person and the company that is responsible for sending the commercial electronic message.
+  *  **Unsubscribe** – We ensure that a functional unsubscribe facility is included in all our commercial electronic messages and deal with unsubscribe requests promptly.
 
 
 
@@ -222,7 +222,7 @@ Commercial messages will only be sent to you when you have given consent. This m
 
 ### Comply with the Law Regarding Viral Messages
 
-**GO Markets** ensures that Commercial Communications that include a Forwarding Facility contain a clear recommendation that the Recipient should only forward the Commercial Communication to persons with whom they have a relationship, where that relationship means that person could be said to have Consented to receiving Commercial Communications.
+ **GO Markets** ensures that Commercial Communications that include a Forwarding Facility contain a clear recommendation that the Recipient should only forward the Commercial Communication to persons with whom they have a relationship, where that relationship means that person could be said to have Consented to receiving Commercial Communications.
 
 ### Comply with the Age Sensitive Content of Commercial Communication
 
@@ -231,14 +231,12 @@ Where the content of a Commercial Communication seeks to promote or inspire inte
 ### Contact Details
 
 Contact: **GO Markets Compliance Department**  
-Address: **Level 50, 120 Collins Street, Melbourne, VIC, 3000 Australia**  
+Address: **Level 22, 600 Bourke Street, Melbourne, VIC, 3000 Australia**  
 Telephone: **03 8566 7680**  
 Facsimile: **03 9225 5067**  
 E­mail: **compliance@gomarketsaus.com**
 
-[
-
-Contact our 24 / 5 support __
+[Contact our 24 / 5 support __
 
 ](https://web.archive.org/contact-go-markets/)
 
@@ -254,6 +252,6 @@ The information on this site is not directed at residents in any country or juri
 
 The GO Markets AFSL authorises us to provide financial services to people in Australia. However, GO Markets complies with the obligations arising from our AFSL in respect of the financial services provided to all of our clients, including those who reside outside of Australia.
 
-**This website is owned and operated by GO Markets.**
+ **This website is owned and operated by GO Markets.**
 
-**All contents © 2016 GO Markets Pty Ltd**. All rights reserved. **AFSL** 254963\. **ABN** 85 081 864 039. **ACN** 081 864 039.
+ **All contents © 2016 GO Markets Pty Ltd**. All rights reserved. **AFSL** 254963\. **ABN** 85 081 864 039. **ACN** 081 864 039.
