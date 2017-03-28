@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206165913id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moneyandmarkets.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329010149id_/http%3A//www.moneyandmarkets.com/privacy) for the most accurate reproduction.*
 
 # Privacy — Money and Markets - Financial Advice | Financial Investment Newsletter
 
