@@ -1,91 +1,94 @@
-<!--The following is the downloaded HTML source of the siriusdecisions.com privacy policy that was archived on 2016-04-12.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160412005900id_/https%3A//www.siriusdecisions.com/Misc/Privacy.aspx) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the siriusdecisions.com privacy policy that was archived on 2017-03-28.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170328040738id_/https%3A//www.siriusdecisions.com/Misc/Privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" js canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations cssgradients csstransforms csstransitions fontface generatedcontent video audio localstorage sessionstorage svg inlinesvg svgclippaths" style=""><!--<![endif]--><head>
-    <title>Online Privacy Policy | SiriusDecisions </title>
+<!DOCTYPE html><html class=" js canvas canvastext no-touch hashchange history draganddrop rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations cssgradients csstransforms csstransitions fontface generatedcontent video audio localstorage sessionstorage svg inlinesvg svgclippaths" style=""><!--<![endif]--><head id="headmainlaytout">
+	<!--<script type="text/javascript">
+        if (location.href.toLowerCase().indexOf('https://www.siriusdecisions.com') == -1) {
+            var remainingUrl = location.href;
+            //var finalPath = "https://www.siriusdecisions.com" + location.pathname;
+
+            location.href = "https://www.siriusdecisions.com" + location.pathname;
+        }
+        else {            
+
+        }
+    </script>-->
+   <title>Online Privacy Policy | SiriusDecisions </title>
     <meta charset="UTF-8">
+    <meta property="og:image" content="https://www.siriusdecisions.com/-/media/Images/SiriusDecisions_logo_tagline.jpeg">
     
+    <meta property="og:image:width" content="200">
+    <meta property="og:image:height" content="95">
     <meta name="viewport" content="width=device-width">
     <meta name="description" content="Read about SiriusDecisions Privacy Policy, Information Collection and Use, Sharing and Disclosure and our other policies here. ">
     <meta name="keywords" content="SiriusDecisions Privacy Policy, Personal Information, Entitlements, Unsubscribe ">
-    
-    
-    <meta property="og:title" content="Privacy">
-    <meta property="og:description" content="Read about SiriusDecisions Privacy Policy, Information Collection and Use, Sharing and Disclosure and our other policies here. ">
-    <meta property="og:url" content="https://www.siriusdecisions.com/Misc/Privacy.aspx">
-    <meta property="og:site_name" content="SiriusDecisions">
-    
-
+    <meta property="og:title" content="Online Privacy Policy">
+    <meta property="og:description" content="">
+    <meta property="og:url" content="https://www.siriusdecisions.com/Misc/Privacy">
+	<meta property="og:site_name" content="SiriusDecisions">
+    	
     
 
     <!-- Schema.org markup for Google+ -->
-    <meta itemprop="name" content="Privacy">
-    <meta itemprop="description" content="Read about SiriusDecisions Privacy Policy, Information Collection and Use, Sharing and Disclosure and our other policies here. ">
-    
+    <meta itemprop="name" content="Online Privacy Policy">
+    <meta itemprop="description" content="">
+<link rel="canonical" href="https://www.siriusdecisions.com/Misc/Privacy">	<meta itemprop="image" content="https://www.siriusdecisions.com/-/media/Images/SiriusDecisions_logo_tagline.jpeg">
 
     <!-- Twitter Card data -->
-    <meta name="twitter:card" content="Summary">
-    <meta name="twitter:site" content="https://www.siriusdecisions.com/Misc/Privacy.aspx">
-    <meta name="twitter:site" content="https://www.siriusdecisions.com">
-    <meta name="twitter:title" content="Privacy">
-    <meta name="twitter:description" content="Read about SiriusDecisions Privacy Policy, Information Collection and Use, Sharing and Disclosure and our other policies here. ">
-    <meta name="twitter:creator" content="">
+    <meta name="twitter:card" content="summary">
+        
+    <meta name="twitter:title" content="Online Privacy Policy">
+    <meta name="twitter:description" content="">
+    <meta name="twitter:image" content="https://www.siriusdecisions.com/-/media/Images/SiriusDecisions_logo_tagline.jpeg">
+    <meta name="twitter:creator" content="SD">
+    
 
     
-    <meta name="robots" content="noindex, nofollow">
-    
-    <script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NHHCJT"></script><script type="text/javascript" src="https://sadmin.brightcove.com/js/BrightcoveExperiences.js"></script>
-    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+
+    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-MN87GX"></script><script src="https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <script type="text/javascript">
+        var validTag = /[<>]/g;
         $(document).ready(function () {
             Callback();
         });
-        function Callback() {
 
+        function Callback() {
             $.ajax({
-                url: "data/UserListing/GetUserInfo",
+                url: "/data/UserListing/GetUserInfo",
                 contentType: "application/json",
                 type: "POST",
-
-
                 datatype: "json",
                 success: function (data) {
                     if (data != null && data.d != undefined) {
                         if (data.d.results == "true") {
-
                             $("#Schedualli").css('display', 'inline-block');
+                            $("#linkfaq").css('display', 'inherit');
                             $("#Schedualli").next('li').removeClass('toolbar__item_without_border');
                             $("#Schedualli").next('li').addClass('toolbar__item');
-
-
                         }
                         else {
                             $("#Schedualli").remove();
+                            //$("#linkfaq").css('display', 'none');
+                            $("#linkfaq").remove();
+                        }                        
+                        if (data.d.IsAuthenticated =="True") {                            
+                            SessionTimeout();                            
                         }
-                        if (data.d.status == "Staff") {
-                            // $("#linkdictionary").css('display', 'inherit');
-                        }
-                        else {
-                            //  $("#linkdictionary").remove();
-                        }
+                          if (data.d.status == "true") {
+	                        $("#linkfaq").css('display', 'inherit');
+	                    }
+	                    else {
+	                        $("#linkfaq").remove();
+	                    }
                     }
-
-                },
+                }
             });
         }
 
         $(document).ready(function () {
-
-            $("#printtool-id").click(function () {
-                TrackActivity("Print");
-            });
-            $(".addthis_button_email").click(function () {
-                TrackActivity("Email");
-            });
-            $(".addthis_button_compact").click(function () {
-
-                TrackActivity("Share");
-            });
+            $("#printtool-id").click(function () { TrackActivity("Print"); });
+            $(".addthis_button_email").click(function () { TrackActivity("Email"); });
+            $(".addthis_button_compact").click(function () { TrackActivity("Share"); });
         });
 
         function TrackActivity(activity) {
@@ -96,8 +99,7 @@
                 type: "POST",
                 datatype: "json",
                 data: JSON.stringify({ Activity: activity }),
-                success: function (data) {
-                },
+                success: function (data) { },
             });
         }
 
@@ -109,19 +111,18 @@
                 type: "POST",
                 datatype: "json",
                 data: JSON.stringify({ Activity: activity, Url: url }),
-                success: function (data) {
-                },
+                success: function (data) { },
             });
         }
     </script>
 <!--[if (!IE) | (gt IE 8)]><!-->
-<link rel="stylesheet" href="/styles/css/vendor/gridset.css">
+
 <!--<![endif]-->
 <!--[if lte IE 8]>
 <link rel="stylesheet" href="/styles/css/vendor/gridset-ie-lte8.css" />
 <![endif]-->
 
-<link href="/bundles/Styles?v=S_MBfneaEbRs3d6tGI7aedRP9MY7yWJ_b-b9qWbG4uA1" rel="stylesheet">
+<link href="/bundles/Styles?v=Rxqgcu49tgaEb6o9m06R_cB7NOXIRiL41RWogcz5kf81" rel="stylesheet">
 
 
 <!-- Print -->
@@ -131,13 +132,23 @@
 <script src="/bundles/HeaderScripts/Modernizr?v=-88D7drJLwpE1lbLIJXvnB5nd74ZU64Vtt9IYZj1wkA1"></script>
 
 
-<!-- Typekit -->
-<script type="text/javascript" src="//use.typekit.net/ika4ile.js"></script>
-<script type="text/javascript">try { Typekit.load(); } catch (e) { }</script>
 </head>
 
      <body>
 
+<!-- Retargeting pixel Start -->
+    <div id="ttdUniversalPixelTag9f974ea12956402eb5340cffef6f7d19" style="display:none">
+        
+        <script type="text/javascript">
+            (function (global) {
+                if (typeof TTDUniversalPixelApi === 'function') {
+                    var universalPixelApi = new TTDUniversalPixelApi();
+                    universalPixelApi.init("qfl38mk", ["4osr4pe"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag9f974ea12956402eb5340cffef6f7d19");
+                }
+            })(this);
+        </script>
+    </div>
+<!-- End Retargeting pixel -->
 		<script>
 			dataLayer = [{
   "UserLogin": "Logged Out",
@@ -151,7 +162,7 @@
 }];
 		</script>
     <!-- Google Tag Manager -->
-    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-NHHCJT"
+    <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-MN87GX"
                       height="0" width="0" style="display: none; visibility: hidden"></iframe></noscript>
     <script> (function(w, d, s, l, i) {
             w[l] = w[l] || [];
@@ -166,40 +177,154 @@
             j.src =
                 '//www.googletagmanager.com/gtm.js?id=' + i + dl;
             f.parentNode.insertBefore(j, f);
-        })(window, document, 'script', 'dataLayer', 'GTM-NHHCJT'); </script>
+        })(window, document, 'script', 'dataLayer', 'GTM-MN87GX'); </script>
     <!-- End Google Tag Manager -->
 
-<!-- Retargeting pixel Start -->
-    <div id="ttdUniversalPixelTag9f974ea12956402eb5340cffef6f7d19" style="display:none">
-        <script src="/js/performanceJS/up_loader.1.1.0.js" type="text/javascript"></script>
-        <script type="text/javascript">
-            (function (global) {
-                if (typeof TTDUniversalPixelApi === 'function') {
-                    var universalPixelApi = new TTDUniversalPixelApi();
-                    universalPixelApi.init("qfl38mk", ["4osr4pe"], "https://insight.adsrvr.org/track/up", "ttdUniversalPixelTag9f974ea12956402eb5340cffef6f7d19");
+
+
+   
+
+<link href="/styles/css/user_inactivity.css" rel="stylesheet">
+<script type="text/javascript">
+        var myIntervalOff = 0;
+        var myInterval = 0;
+        var _idleSecondsCounter = 0;
+        var IDLE_TIMEOUT = 55 * 60; //seconds*
+        var IDLE_TIMEOUT_OFF = 5 * 60; //seconds
+        var _idleSecondsCounterOff = 0;        
+        
+        $(function () {
+            localStorage.setItem("IsCanceled", 0);
+            $("body").bind("click");
+            $("body").bind("keypress");
+            var dt = new Date();
+            var time = dt.getHours() + ":" + dt.getMinutes() + ":" + dt.getSeconds();
+            var dateNow = new Date();
+            localStorage.setItem("IdleTime", dateNow);
+        });
+
+
+        function SessionTimeout() {
+            $("body").on('click keypress', function () {
+                var dateNow = new Date();
+                localStorage.setItem("IdleTime", dateNow);
+            });
+
+            myInterval = window.setInterval(CheckIdleTime, 1000);
+
+        }
+        function CheckIdleTime() {
+            var dateNow = new Date();
+            var dateOld = new Date(localStorage.IdleTime);
+            var dateDifference = Math.round(dateNow - dateOld);
+            var dateRound = Math.round(dateDifference / 1000);
+            if (dateRound >= IDLE_TIMEOUT) {
+                window.clearInterval(myInterval);
+                $("body").unbind("click");
+                $("body").unbind("keypress");
+                var popup = $('div#pop-upCount').show();
+                $("#overlayInit").show();
+                if (popup != null) {                    
+                    myIntervalOff = window.setInterval(CheckIdleTimeOff, 1000);
                 }
-            })(this);
-        </script><iframe id="universal_pixel" allowtransparency="true" height="0" width="0" style="visibility:hidden;" src="https://insight.adsrvr.org/track/up?adv=qfl38mk&amp;ref=https%3A%2F%2Fweb.archive.org%2Fweb%2F20160412005900id_%2Fhttps%253A%2F%2Fwww.siriusdecisions.com%2FMisc%2FPrivacy.aspx&amp;upid=4osr4pe&amp;si=20d08dc87765e7557e51c4400cfbc811&amp;sv=1.1&amp;upv=1.1.0"></iframe>
+            }
+        }
+
+        function CheckIdleTimeOff() {            
+            _idleSecondsCounterOff++;
+            var dateNow = new Date();
+            var dateOld = new Date(localStorage.IdleTime);
+            var dateDifference = Math.round(dateNow - dateOld);
+            var dateRound = Math.round(dateDifference / 1000);
+            if (dateRound >= IDLE_TIMEOUT) {                
+                $('div#pop-upCount').show();
+                $("#overlayInit").show();
+            }
+            else {                
+                $('div#pop-upCount').hide();
+                $("#overlayInit").hide();                
+                _idleSecondsCounterOff = 0;
+            }
+            
+            if (localStorage.IsCanceled == 1) {                
+                localStorage.setItem("IsCanceled", 0);
+            } else {                
+                var logOffPanel = document.getElementById("SecondsUntilLogOff");
+                if (logOffPanel)
+                    logOffPanel.innerHTML = (IDLE_TIMEOUT_OFF - _idleSecondsCounterOff) + "";                
+                if (_idleSecondsCounterOff >= IDLE_TIMEOUT_OFF) {
+                    window.clearInterval(myInterval);
+                    $.ajax({
+                        url: "/data/login/TimeoutLogOff",
+                        contentType: "application/json",
+                        type: "POST",
+                        async: false,
+                        datatype: "json",
+                        success: function (data) {
+                            if (data) {
+                                $('div#pop-upCount').hide();
+                                $("#overlayInit").hide();
+                                $('div#pop-up-LoggedOff').show();
+                                $("#overlayFinal").show();
+                                window.clearInterval(myInterval);
+                                window.clearInterval(myIntervalOff);
+                            }
+                        }
+                    });
+                }
+            }
+        }
+
+        function clickcloseInActivity() {
+            localStorage.setItem("IsCanceled", 1);
+            window.clearInterval(myInterval);
+            window.clearInterval(myIntervalOff);
+            var logOffPanel = document.getElementById("SecondsUntilLogOff");
+            logOffPanel.innerHTML = '';
+            _idleSecondsCounterOff = 0;
+            var dateNow = new Date();
+            localStorage.setItem("IdleTime", dateNow);
+            $("body").bind("click");
+            $("body").bind("keypress");
+            $('div#pop-upCount').hide();
+            $("#overlayInit").hide();
+            $('div#pop-up-LoggedOff').hide()
+            $("#overlayFinal").hide();
+            SessionTimeout();            
+        }
+
+    </script>
+
+
+<div id="pop-upCount" class="inactivity_warning_popup">
+    <span class="warning_title">
+        Inactivity Warning
+    </span>
+    <p>
+        Your session has been idle for more than <span>55 minutes</span>. You will be automatically logged off unless you click "<span>cancel.</span>"
+    </p>
+    <p>
+        Automatic log-off in <span><b><label for="timeout" id="SecondsUntilLogOff"></label> seconds</b></span>
+
+    </p>
+    <div class="submit_button">
+        <button type="submit" id="logoff" name="logoff" class="btn btn--med" onclick="location.href ='/data/login/logout'">LOG OFF</button>
+        <button type="submit" id="reason" name="logoffCancel" class="btn btn--med" onclick="return clickcloseInActivity();">CANCEL</button>
     </div>
-<script type="text/javascript">
-    _bizo_data_partner_id = "4669";
-</script>
-<script type="text/javascript">
-    (function () {
-        var s = document.getElementsByTagName("script")[0];
-        var b = document.createElement("script");
-        b.type = "text/javascript";
-        b.async = true;
-        b.src = (window.location.protocol === "https:" ? "https://sjs" : "http://js") + ".bizographics.com/insight.min.js";
-        s.parentNode.insertBefore(b, s);
-    })();
-</script>
-<noscript>
-  <img height="1" width="1" alt="" style="display:none;" src="//www.bizographics.com/collect/?pid=4669&fmt=gif" />
-</noscript>
-<!-- End Retargeting pixel -->
-
-
+</div>
+<div class="inactivity_warning_overlay" id="overlayInit"></div>
+<div id="pop-up-LoggedOff" class="inactivity_warning_popup">
+    <span class="warning_title">
+        Session Expired
+    </span>
+    <p>
+        To maintain your security, you were <span>logged out</span> after <span>60 minutes</span> of inactivity.
+    </p>
+    <div class="submit_button">
+        <button type="submit" id="reason" name="Cancel" class="btn btn--med" onclick="location.href = '/login'">LOG BACK INTO PORTAL</button>
+    </div>
+</div>
+<div class="inactivity_warning_overlay" id="overlayFinal"></div>
 
 
 
@@ -209,10 +334,10 @@
 		<div class="fl-all lg-all lg-padin med-all sm-all">
 			<header class="masthead">
 				<div class="masthead__top">
-						<a href="/">
-							<img class="site-logo" src="/~/media/Images/SiriusDecisions_logo_tagline.png">
-						</a>
-					<div class="med-hide sm-hide" data-set="aa-masthead-search-box">
+        <a href="/">
+            <img class="site-logo" src="/-/media/Images/SiriusDecisions_logo_tagline.ashx">
+        </a>      
+<div class="med-hide sm-hide" data-set="aa-masthead-search-box">
     <div class="search-box">
         <form action="#" style="position: relative;">
             <div class="search_img" onmouseover="show_contenttype(this)" onmouseout="hide_contenttype(this)">
@@ -224,15 +349,16 @@
                         <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">CMO Next Point</a></li>
                         <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">CMO Vantage Point</a></li>
                         <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Core Strategy Report</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">CSO Executive Brief</a></li>
                         <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Event</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Newsletter</a></li>
                         <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Role Profile</a></li>
-                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Sirius Field Guide</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Select Practice</a></li>
                         <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">SiriusView</a></li>
                         <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Stats and Quotes</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Toolkit</a></li>
                         <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Tools</a></li>
-                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Vendor Profile</a></li>
-                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Video</a></li>
-                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Webcast</a></li>
+                        <li class="navitem content-type_text"><a href="javascript: void(0)" style="color: #616365;">Webcast and Video</a></li>
                 </ul>
             </div>
             <div class="search-box__textbox">
@@ -249,6 +375,14 @@
     function hide_contenttype() {
         $('.data_list').hide();
     }
+	 function trimSearchedString(searchedString) {
+        var maxLength = 75 // maximum number of characters to extract
+        var trimmedString = searchedString.substr(0, maxLength);//trim the string to the maximum length
+        trimmedString = trimmedString.substr(0, Math.min(trimmedString.length, trimmedString.lastIndexOf(" ")))//re-trim if we are in the middle of a word
+        var s1 = searchedString.replace(trimmedString, '');//replace string upto 75 characters
+        var finalString = trimmedString + " " + (s1.split(" ")[1]);//merge last word so that no broken word will cause issue
+        return finalString;
+    }
 </script>
 
 
@@ -258,7 +392,7 @@
     <nav class="auxiliary-nav">
         <ul>
                 <li class="auxiliary-nav__item med-hide"><a href="/login"><span class="lg-hide med-hide sm-hide">Login</span></a></li>
-                <li class="auxiliary-nav__item "><a href="/Connect-With-Us.aspx">Connect With Us</a></li>
+                <li class="auxiliary-nav__item "><a href="/Connect-With-Us">Connect With Us</a></li>
         </ul>
     </nav>
 </div>
@@ -271,12 +405,12 @@
 
 <nav class="primary-nav">
 	<ul>
-			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Topics"><a href="/Topics.aspx"><span>Topics We Cover</span></a></li>
-			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-What We Do"><a href="/What-We-Do.aspx"><span>What We Do</span></a></li>
-			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Who We Are"><a href="/Who-We-Are.aspx"><span>Who We Are</span></a></li>
-			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Events"><a href="/Events.aspx"><span>Events</span></a></li>
-			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Resources"><a href="/Resources.aspx"><span>Resources</span></a></li>
-			<li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Blog"><a href="/Blog.aspx"><span>Blog</span></a></li>
+                <li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Topics"><a href="/Topics"><span>Topics We Cover</span></a></li>
+                <li class="primary-nav__item js-nav-item " data-nav-id="main-menu-What We Do"><a href="/What-We-Do"><span>What We Do</span></a></li>
+                <li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Who We Are"><a href="/Who-We-Are"><span>Who We Are</span></a></li>
+                <li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Events"><a href="/Events"><span>Events</span></a></li>
+                <li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Resources"><a href="/Resources"><span>Resources</span></a></li>
+                <li class="primary-nav__item js-nav-item " data-nav-id="main-menu-Blog"><a href="/Blog"><span>Blog</span></a></li>
 
 	</ul>
 </nav>
@@ -313,126 +447,74 @@
                            
 
              <div class="menu__col">
-            <h4 class="menu__heading"><a href="/Topics/Sales.aspx">Sales</a></h4>
+            <h4 class="menu__heading"><a href="/Topics/Sales">Sales</a></h4>
                 <ul class="menu__list">
                                                    
                                                        
                         <li class="menu__item">
-                            <a href="/Topics/Sales/Channel-Sales.aspx">Channel Sales</a> 
+                            <a href="/Topics/Sales/Channel-Sales">Channel Sales</a> 
                         </li>
                         <li class="menu__item">
-                            <a href="/Topics/Sales/Sales-Enablement.aspx">Sales Enablement</a> 
+                            <a href="/Topics/Sales/Sales-Enablement">Sales Enablement</a> 
                         </li>
                         <li class="menu__item">
-                            <a href="/Topics/Sales/Sales-Operations.aspx">Sales Operations</a> 
+                            <a href="/Topics/Sales/Sales-Leadership">Sales Leadership</a> 
+                        </li>
+                        <li class="menu__item">
+                            <a href="/Topics/Sales/Sales-Operations">Sales Operations</a> 
                         </li>
 
                 </ul>
-            <h4 class="menu__heading"><a href="/Topics/Product.aspx">Product</a></h4>
+            <h4 class="menu__heading"><a href="/Topics/Product">Product</a></h4>
                 <ul class="menu__list">
                                                    
                                                        
                         <li class="menu__item">
-                            <a href="/Topics/Product/Business-Case-Development.aspx">Business Case Development</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Product/Competitive-Analysis.aspx">Competitive Analysis</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Product/Customer-Buyer-and-Market-Understanding.aspx">Customer Buyer and Market Understanding</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Product/Innovation-Process.aspx">Innovation Process</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Product/Innovation-Strategy-and-Portfolio-Management.aspx">Innovation Strategy and Portfolio Management</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Product/Pricing.aspx">Pricing</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Product/Product-Development-and-Delivery.aspx">Product Development and Delivery</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Product/Product-Lifecycle.aspx">Product Lifecycle</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Product/Product-Management-Roles-and-Responsibilities.aspx">Product Management Roles and Responsibilities</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Product/Solution-and-Services-Management.aspx">Solution and Services Management</a> 
+                            <a href="/Topics/Product/Product-Management">Product Management</a> 
                         </li>
 
                 </ul>
-             </div>
-             <div class="menu__col">
-            <h4 class="menu__heading"><a href="/Topics/Marketing.aspx">Marketing</a></h4>
+            <h4 class="menu__heading"><a href="/Topics/Marketing">Marketing</a></h4>
                 <ul class="menu__list">
                                                    
                                                        
                         <li class="menu__item">
-                            <a href="/Topics/Marketing/Account-Based-Marketing.aspx">Account-Based Marketing</a> 
+                            <a href="/Topics/Marketing/Account-Based-Marketing">Account-Based Marketing</a> 
                         </li>
                         <li class="menu__item">
-                            <a href="/Topics/Marketing/Campaign-Planning.aspx">Campaign Planning</a> 
+                            <a href="/Topics/Marketing/Channel-Marketing">Channel Marketing</a> 
                         </li>
                         <li class="menu__item">
-                            <a href="/Topics/Marketing/Channel-Marketing.aspx">Channel Marketing</a> 
+                            <a href="/Topics/Marketing/Communications">Communications</a> 
                         </li>
                         <li class="menu__item">
-                            <a href="/Topics/Marketing/Communications.aspx">Communications</a> 
+                            <a href="/Topics/Marketing/Content-Strategy-and-Operations">Content Strategy and Operations</a> 
                         </li>
                         <li class="menu__item">
-                            <a href="/Topics/Marketing/Content-Strategy-and-Operations.aspx">Content Strategy and Operations</a> 
+                            <a href="/Topics/Marketing/Customer-Marketing-and-Customer-Experience">Customer Engagement</a> 
                         </li>
                         <li class="menu__item">
-                            <a href="/Topics/Marketing/Customer-Marketing-and-Customer-Experience.aspx">Customer Marketing</a> 
+                            <a href="/Topics/Marketing/Demand-Creation">Demand Creation</a> 
                         </li>
                         <li class="menu__item">
-                            <a href="/Topics/Marketing/Demand-Creation.aspx">Demand Creation</a> 
+                            <a href="/Topics/Marketing/Marketing-Leadership">Marketing Leadership</a> 
                         </li>
                         <li class="menu__item">
-                            <a href="/Topics/Marketing/Emerging-Growth-Strategies.aspx">Emerging Growth Strategies</a> 
+                            <a href="/Topics/Marketing/Marketing-Operations">Marketing Operations</a> 
                         </li>
                         <li class="menu__item">
-                            <a href="/Topics/Marketing/Field-Marketing.aspx">Field Marketing</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Marketing/Marketing-Leadership.aspx">Marketing Leadership</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Marketing/Marketing-Operations.aspx">Marketing Operations</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Marketing/Portfolio-Marketing.aspx">Portfolio Marketing</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/Marketing/Digital-Strategies.aspx">Digital Strategies</a> 
+                            <a href="/Topics/Marketing/Portfolio-Marketing">Portfolio Marketing</a> 
                         </li>
 
                 </ul>
              </div>
              <div class="menu__col">
-            <h4 class="menu__heading"><a href="/Topics/Intelligent-Growth.aspx">Intelligent Growth</a></h4>
-            <h4 class="menu__heading"><a href="/Topics/SiriusTools.aspx">SiriusTools™</a></h4>
-            <h4 class="menu__heading"><a href="/Topics/Healthcare-Industry.aspx">Healthcare Industry</a></h4>
-            <h4 class="menu__heading"><a href="/Topics/B-to-B-Benchmark-Data.aspx">B-to-B Benchmark Data</a></h4>
-            <h4 class="menu__heading"><a href="/Topics/SiriusMarketplace.aspx">SiriusMarketplace</a></h4>
-            <h4 class="menu__heading"><a href="/Topics/B-to-B-Technology-and-Services.aspx">B-to-B Technology and Services</a></h4>
-                <ul class="menu__list">
-                                                   
-                                                       
-                        <li class="menu__item">
-                            <a href="/Topics/B-to-B-Technology-and-Services/Demand-Technologies.aspx">Demand Technologies</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/B-to-B-Technology-and-Services/Product-Management-Technologies.aspx">Product Management Technologies</a> 
-                        </li>
-                        <li class="menu__item">
-                            <a href="/Topics/B-to-B-Technology-and-Services/Sales-Technologies.aspx">Sales Technologies</a> 
-                        </li>
-
-                </ul>
+            <h4 class="menu__heading"><a href="/Topics/Intelligent-Growth">Intelligent Growth® </a></h4>
+            <h4 class="menu__heading"><a href="/Topics/SiriusTools">SiriusTools™</a></h4>
+            <h4 class="menu__heading"><a href="/Topics/Healthcare-Industry">Healthcare Industry</a></h4>
+            <h4 class="menu__heading"><a href="/Topics/B-to-B-Benchmark-Data">B-to-B Benchmark Data</a></h4>
+            <h4 class="menu__heading"><a href="/Topics/SiriusMarketplace">SiriusMarketplace</a></h4>
+            <h4 class="menu__heading"><a href="/Topics/B-to-B-Technology-and-Services">B-to-B Technology and Services</a></h4>
              </div>
                                 
                                
@@ -442,16 +524,16 @@
         <h4 class="menu__heading">AUDIENCES WE SERVE</h4>
         <ul class="menu__list">
                 
-                <li class="menu__item"><a href="/What-We-Do/Sales.aspx">Sales</a></li>
-                <li class="menu__item"><a href="/What-We-Do/Marketing.aspx">Marketing</a></li>
-                <li class="menu__item"><a href="/What-We-Do/Product.aspx">Product</a></li>
+                <li class="menu__item"><a href="/What-We-Do/Sales">Sales</a></li>
+                <li class="menu__item"><a href="/What-We-Do/Marketing">Marketing</a></li>
+                <li class="menu__item"><a href="/What-We-Do/Product">Product</a></li>
                         
         </ul>
         <h4 class="menu__heading">HOW WE HELP</h4>
         <ul class="menu__list">
-                <li class="menu__item"><a href="/What-We-Do/Advisory.aspx">Advisory</a></li>
-                <li class="menu__item"><a href="/What-We-Do/Consulting.aspx">Consulting</a></li>
-                <li class="menu__item"><a href="/What-We-Do/Learning.aspx">Learning</a></li>
+                <li class="menu__item"><a href="/What-We-Do/Advisory">Advisory </a></li>
+                <li class="menu__item"><a href="/What-We-Do/Consulting">Consulting</a></li>
+                <li class="menu__item"><a href="/What-We-Do/Learning">Learning</a></li>
         </ul>
     </div>
 </nav>                    <nav class="menu  js-nav-menu" data-menu-for="main-menu-Who We Are">
@@ -460,19 +542,19 @@
                             <ul class="menu__list">
                                 
                                     <li class="menu__item">
-                                        <a href="/Who-We-Are/People.aspx">Our People</a>
+                                        <a href="/Who-We-Are/People">Our People</a>
                                     </li>
                                     <li class="menu__item">
-                                        <a href="/Who-We-Are/Our-Company.aspx">Our Company</a>
+                                        <a href="/Who-We-Are/Our-Company">Our Company</a>
                                     </li>
                                     <li class="menu__item">
-                                        <a href="/Who-We-Are/Careers.aspx">Careers</a>
+                                        <a href="/Who-We-Are/Careers">Careers</a>
                                     </li>
                                     <li class="menu__item">
-                                        <a href="/Who-We-Are/Newsroom.aspx">Newsroom</a>
+                                        <a href="/Who-We-Are/Newsroom">Newsroom</a>
                                     </li>
                                     <li class="menu__item">
-                                        <a href="/Who-We-Are/Connect-with-Us.aspx">Connect with Us</a>
+                                        <a href="/Who-We-Are/Connect-with-Us">Connect with Us</a>
                                     </li>
 
                                         
@@ -486,22 +568,19 @@
                             <ul class="menu__list">
                                 
                                     <li class="menu__item">
-                                        <a href="/Events/Summits.aspx">Summits</a>
+                                        <a href="/Events/Summits">Summits</a>
                                     </li>
                                     <li class="menu__item">
-                                        <a href="/Events/Sales-Leadership-Exchange.aspx">Sales Leadership Exchange</a>
+                                        <a href="/Events/Sales-Leadership-Exchange">Sales Leadership Exchange</a>
                                     </li>
                                     <li class="menu__item">
-                                        <a href="/Events/Technology-Exchange.aspx">Technology Exchange</a>
+                                        <a href="/Events/Technology-Exchange">Technology Exchange</a>
                                     </li>
                                     <li class="menu__item">
-                                        <a href="/Events/Forums.aspx">Forums</a>
+                                        <a href="/Events/Forums">Forums</a>
                                     </li>
                                     <li class="menu__item">
-                                        <a href="/Events/Intelligent-Growth-Live.aspx">Intelligent Growth Live</a>
-                                    </li>
-                                    <li class="menu__item">
-                                        <a href="/Events/Webcasts.aspx">Webcasts</a>
+                                        <a href="/Events/Webcasts">Webcasts</a>
                                     </li>
 
                                         
@@ -514,23 +593,27 @@
                         <div class="menu__inner">
                             <ul class="menu__list">
                                 
+                                    <li class="menu__item">
+                                        <a href="/Resources/Tools">Tools</a>
+                                    </li>
                                  
+                                    <li class="menu__item">
+                                        <a href="/Resources/Dictionary">Dictionary</a>
+                                    </li>
                                  
+                                    <li class="menu__item">
+                                        <a href="/Resources/Stats-and-Quotes">Stats and Quotes</a>
+                                    </li>
 
                                     <li class="menu__item">
-                                        <a href="/Resources/Tools.aspx">Tools</a>
+                                        <a href="/Resources/Release-Notes">Release Notes</a>
                                     </li>
 
-                                    <li class="menu__item" id="linkdictionary">
-                                        <a href="/Resources/Dictionary.aspx">Dictionary</a>
-                                    </li>
-                                                                     <li class="menu__item">
-                                        <a href="/Resources/Stats-and-Quotes.aspx">Stats &amp; Quotes</a>
-                                    </li>
-                                                                                                      <li class="menu__item">
-                                        <a href="/Resources/Release-Notes.aspx">Release Notes</a>
-                                    </li>
+                                    <li class="menu__item" id="divBenchmarkCommandCenter" style="display:none;">
+                                        <a href="/Benchmark/Portal" target="_blank"><span>Command Center</span></a>
 
+                                    </li>
+                                                                                                   
                             </ul>
                         </div>
                     </nav>                    <nav class="menu  js-nav-menu" data-menu-for="main-menu-Blog">
@@ -539,10 +622,10 @@
                             <ul class="menu__list">
                                 
                                     <li class="menu__item">
-                                        <a href="/Blog/SiriusPerspectives.aspx">SiriusPerspectives</a>
+                                        <a href="/Blog/SiriusPerspectives">SiriusPerspectives</a>
                                     </li>
                                     <li class="menu__item">
-                                        <a href="/Blog/SiriusDecisions-Marketplace.aspx">SiriusDecisions Marketplace</a>
+                                        <a href="/Blog/SiriusDecisions-Marketplace">SiriusDecisions Marketplace</a>
                                     </li>
 
                                         
@@ -569,6 +652,7 @@
 
 
 
+
 <div class="outer-wrapper l-oc-container">
     
 <div class="outer-wrapper--mobile-search fl-hide lg-hide med-hide" data-set="aa-masthead-search-box">
@@ -583,11 +667,11 @@
                         <ul class="menu__list">
                                     
                                 <li class="menu__item ">
-                                    <a href="/Topics.aspx">Topics We Cover</a>
+                                    <a href="/Topics">Topics We Cover</a>
                                         <span class="menu__sub-arrow" data-subnav="Topics">›</span>
                                 </li>
                                 <li class="menu__item ">
-                                    <a href="/What-We-Do.aspx">What We Do</a>
+                                    <a href="/What-We-Do">What We Do</a>
                                         <span class="menu__sub-arrow" data-subnav="What We Do">›</span>
                                 </li>
                                 <li class="menu__item is-disabled">
@@ -595,15 +679,15 @@
                                         <span class="menu__sub-arrow" data-subnav="Who We Are">›</span>
                                 </li>
                                 <li class="menu__item ">
-                                    <a href="/Events.aspx">Events</a>
+                                    <a href="/Events">Events</a>
                                         <span class="menu__sub-arrow" data-subnav="Events">›</span>
                                 </li>
                                 <li class="menu__item ">
-                                    <a href="/Resources.aspx">Resources</a>
+                                    <a href="/Resources">Resources</a>
                                         <span class="menu__sub-arrow" data-subnav="Resources">›</span>
                                 </li>
                                 <li class="menu__item ">
-                                    <a href="/Blog.aspx">Blog</a>
+                                    <a href="/Blog">Blog</a>
                                         <span class="menu__sub-arrow" data-subnav="Blog">›</span>
                                 </li>
                         </ul>
@@ -615,34 +699,34 @@
                                         <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                         <ul class="menu__list">
                                                 <li class="menu__item">
-                                                    <a href="/Topics/Sales.aspx">Sales</a>
+                                                    <a href="/Topics/Sales">Sales</a>
                                                         <span class="menu__sub-arrow" data-subnav="Sales">›</span>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Topics/Product.aspx">Product</a>
+                                                    <a href="/Topics/Product">Product</a>
                                                         <span class="menu__sub-arrow" data-subnav="Product">›</span>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Topics/Marketing.aspx">Marketing</a>
+                                                    <a href="/Topics/Marketing">Marketing</a>
                                                         <span class="menu__sub-arrow" data-subnav="Marketing">›</span>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Topics/Intelligent-Growth.aspx">Intelligent Growth</a>
+                                                    <a href="/Topics/Intelligent-Growth">Intelligent Growth® </a>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Topics/SiriusTools.aspx">SiriusTools</a>
+                                                    <a href="/Topics/SiriusTools">SiriusTools</a>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Topics/Healthcare-Industry.aspx">Healthcare Industry</a>
+                                                    <a href="/Topics/Healthcare-Industry">Healthcare Industry</a>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Topics/B-to-B-Benchmark-Data.aspx">B-to-B Benchmark Data</a>
+                                                    <a href="/Topics/B-to-B-Benchmark-Data">B-to-B Benchmark Data</a>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Topics/SiriusMarketplace.aspx">SiriusMarketplace</a>
+                                                    <a href="/Topics/SiriusMarketplace">SiriusMarketplace</a>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Topics/B-to-B-Technology-and-Services.aspx">B-to-B Technology and Services</a>
+                                                    <a href="/Topics/B-to-B-Technology-and-Services">B-to-B Technology and Services</a>
                                                         <span class="menu__sub-arrow" data-subnav="B to B Technology and Services">›</span>
                                                 </li>
                                         </ul>
@@ -653,15 +737,19 @@
                                                 <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                                 <ul class="menu__list">
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Sales/Channel-Sales.aspx">Channel Sales</a>
+                                                            <a href="/Topics/Sales/Channel-Sales">Channel Sales</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Sales/Sales-Enablement.aspx">Sales Enablement</a>
+                                                            <a href="/Topics/Sales/Sales-Enablement">Sales Enablement</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Sales/Sales-Operations.aspx">Sales Operations</a>
+                                                            <a href="/Topics/Sales/Sales-Leadership">Sales Leadership</a>
+                                                            
+                                                        </li>
+                                                        <li class="menu__item">
+                                                            <a href="/Topics/Sales/Sales-Operations">Sales Operations</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -672,43 +760,7 @@
                                                 <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                                 <ul class="menu__list">
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Product/Business-Case-Development.aspx">Business Case Development</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Product/Competitive-Analysis.aspx">Competitive Analysis</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Product/Customer-Buyer-and-Market-Understanding.aspx">Customer Buyer and Market Understanding</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Product/Innovation-Process.aspx">Innovation Process</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Product/Innovation-Strategy-and-Portfolio-Management.aspx">Innovation Strategy and Portfolio Management</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Product/Pricing.aspx">Pricing</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Product/Product-Development-and-Delivery.aspx">Product Development and Delivery</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Product/Product-Lifecycle.aspx">Product Lifecycle</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Product/Product-Management-Roles-and-Responsibilities.aspx">Product Management Roles and Responsibilities</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Product/Solution-and-Services-Management.aspx">Solution and Services Management</a>
+                                                            <a href="/Topics/Product/Product-Management">Product Management</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -719,55 +771,39 @@
                                                 <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                                 <ul class="menu__list">
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Account-Based-Marketing.aspx">Account-Based Marketing</a>
+                                                            <a href="/Topics/Marketing/Account-Based-Marketing">Account-Based Marketing</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Campaign-Planning.aspx">Campaign Planning</a>
+                                                            <a href="/Topics/Marketing/Channel-Marketing">Channel Marketing</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Channel-Marketing.aspx">Channel Marketing</a>
+                                                            <a href="/Topics/Marketing/Communications">Communications</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Communications.aspx">Communications</a>
+                                                            <a href="/Topics/Marketing/Content-Strategy-and-Operations">Content Strategy and Operations</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Content-Strategy-and-Operations.aspx">Content Strategy and Operations</a>
+                                                            <a href="/Topics/Marketing/Customer-Marketing-and-Customer-Experience">Customer Engagement</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Customer-Marketing-and-Customer-Experience.aspx">Customer Marketing</a>
+                                                            <a href="/Topics/Marketing/Demand-Creation">Demand Creation</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Demand-Creation.aspx">Demand Creation</a>
+                                                            <a href="/Topics/Marketing/Marketing-Leadership">Marketing Leadership</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Emerging-Growth-Strategies.aspx">Emerging Growth Strategies</a>
+                                                            <a href="/Topics/Marketing/Marketing-Operations">Marketing Operations</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Field-Marketing.aspx">Field Marketing</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Marketing-Leadership.aspx">Marketing Leadership</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Marketing-Operations.aspx">Marketing Operations</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Portfolio-Marketing.aspx">Portfolio Marketing</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/Marketing/Digital-Strategies.aspx">Digital Strategies</a>
+                                                            <a href="/Topics/Marketing/Portfolio-Marketing">Portfolio Marketing</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -778,15 +814,11 @@
                                                 <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                                 <ul class="menu__list">
                                                         <li class="menu__item">
-                                                            <a href="/Topics/B-to-B-Technology-and-Services/Demand-Technologies.aspx">Demand Technologies</a>
+                                                            <a href="/Topics/B-to-B-Technology-and-Services/Demand-Technologies">Demand Technologies</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Topics/B-to-B-Technology-and-Services/Product-Management-Technologies.aspx">Product Management Technologies</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Topics/B-to-B-Technology-and-Services/Sales-Technologies.aspx">Sales Technologies</a>
+                                                            <a href="/Topics/B-to-B-Technology-and-Services/Sales-Technologies">Sales Technologies</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -799,25 +831,25 @@
                                     <ul class="menu__list">
                                         
                                             <li class="menu__item">
-                                                <a href="/What-We-Do/Sales.aspx">Sales</a> 
+                                                <a href="/What-We-Do/Sales">Sales</a> 
                                             </li>
                                             <li class="menu__item">
-                                                <a href="/What-We-Do/Marketing.aspx">Marketing</a> 
+                                                <a href="/What-We-Do/Marketing">Marketing</a> 
                                             </li>
                                             <li class="menu__item">
-                                                <a href="/What-We-Do/Product.aspx">Product</a> 
+                                                <a href="/What-We-Do/Product">Product</a> 
                                             </li>
                                     </ul>
                                     <h4 class="menu__heading"> HOW WE HELP</h4>
                                     <ul class="menu__list">
                                             <li class="menu__item">
-                                                <a href="/What-We-Do/Advisory.aspx">Advisory</a> 
+                                                <a href="/What-We-Do/Advisory">Advisory </a> 
                                             </li>
                                             <li class="menu__item">
-                                                <a href="/What-We-Do/Consulting.aspx">Consulting</a> 
+                                                <a href="/What-We-Do/Consulting">Consulting</a> 
                                             </li>
                                             <li class="menu__item">
-                                                <a href="/What-We-Do/Learning.aspx">Learning</a> 
+                                                <a href="/What-We-Do/Learning">Learning</a> 
                                             </li>
                                     </ul>
                                 </div>
@@ -827,21 +859,21 @@
                                         <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                         <ul class="menu__list">
                                                 <li class="menu__item">
-                                                    <a href="/Who-We-Are/People.aspx">Our People</a>
+                                                    <a href="/Who-We-Are/People">Our People</a>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Who-We-Are/Our-Company.aspx">Our Company</a>
+                                                    <a href="/Who-We-Are/Our-Company">Our Company</a>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Who-We-Are/Careers.aspx">Careers</a>
+                                                    <a href="/Who-We-Are/Careers">Careers</a>
                                                         <span class="menu__sub-arrow" data-subnav="Careers">›</span>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Who-We-Are/Newsroom.aspx">Newsroom</a>
+                                                    <a href="/Who-We-Are/Newsroom">Newsroom</a>
                                                         <span class="menu__sub-arrow" data-subnav="Newsroom">›</span>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Who-We-Are/Connect-with-Us.aspx">Connect with Us</a>
+                                                    <a href="/Who-We-Are/Connect-with-Us">Connect with Us</a>
                                                         <span class="menu__sub-arrow" data-subnav="Connect with Us">›</span>
                                                 </li>
                                         </ul>
@@ -852,23 +884,31 @@
                                                 <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                                 <ul class="menu__list">
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Careers/How-To-Apply-for-Job.aspx">How To Apply</a>
+                                                            <a href="/Who-We-Are/Careers/Departments">Search By Department</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Careers/Perks-and-Benefits.aspx">Perks and Benefits</a>
+                                                            <a href="/Who-We-Are/Careers/Offices">Search By Location</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Careers/Analyst-DNA.aspx">Analyst DNA</a>
+                                                            <a href="/Who-We-Are/Careers/How-To-Apply-for-Job">How To Apply</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Careers/Culture.aspx">Culture</a>
+                                                            <a href="/Who-We-Are/Careers/Perks-and-Benefits">Perks and Benefits</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Careers/Philanthropy.aspx">Philanthropy</a>
+                                                            <a href="/Who-We-Are/Careers/Analyst-DNA">Analyst DNA</a>
+                                                            
+                                                        </li>
+                                                        <li class="menu__item">
+                                                            <a href="/Who-We-Are/Careers/Culture">Culture</a>
+                                                            
+                                                        </li>
+                                                        <li class="menu__item">
+                                                            <a href="/Who-We-Are/Careers/Philanthropy">Philanthropy</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -879,27 +919,27 @@
                                                 <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                                 <ul class="menu__list">
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Newsroom/Calendar-of-Events.aspx">Calendar of Events</a>
+                                                            <a href="/Who-We-Are/Newsroom/Calendar-of-Events">Calendar of Events</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Newsroom/Factsheet.aspx">Factsheet</a>
+                                                            <a href="/Who-We-Are/Newsroom/Factsheet">Factsheet</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Newsroom/In-the-Press.aspx">In the Press</a>
+                                                            <a href="/Who-We-Are/Newsroom/In-the-Press">In the Press</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Newsroom/Client-Stories.aspx">SiriusDecisions Client Stories</a>
+                                                            <a href="/Who-We-Are/Newsroom/Client-Stories">SiriusDecisions Client Stories</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Newsroom/Social-Media-Hub.aspx">Social Media Hub</a>
+                                                            <a href="/Who-We-Are/Newsroom/Social-Media-Hub">Social Media Hub</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Newsroom/Copyright-and-Quote-Policy.aspx">Copyright and Quote Policy</a>
+                                                            <a href="/Who-We-Are/Newsroom/Copyright-and-Quote-Policy">Copyright and Quote Policy</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -910,15 +950,11 @@
                                                 <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                                 <ul class="menu__list">
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Connect-with-Us/RSS-Feed.aspx">RSS Feeds</a>
+                                                            <a href="/Who-We-Are/Connect-with-Us/RSS-Feed">RSS Feeds</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Who-We-Are/Connect-with-Us/Vendor-Relations.aspx">Vendor Relations</a>
-                                                            
-                                                        </li>
-                                                        <li class="menu__item">
-                                                            <a href="/Who-We-Are/Connect-with-Us/Newsletter-Sign-Up.aspx">Newsletter Sign Up</a>
+                                                            <a href="/Who-We-Are/Connect-with-Us/Newsletter-Sign-Up">Newsletter Sign Up</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -929,25 +965,22 @@
                                         <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                         <ul class="menu__list">
                                                 <li class="menu__item">
-                                                    <a href="/Events/Summits.aspx">Summits</a>
+                                                    <a href="/Events/Summits">Summits</a>
                                                         <span class="menu__sub-arrow" data-subnav="Summits">›</span>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Events/Sales-Leadership-Exchange.aspx">Sales Leadership Exchange</a>
+                                                    <a href="/Events/Sales-Leadership-Exchange">Sales Leadership Exchange</a>
                                                         <span class="menu__sub-arrow" data-subnav="Sales Leadership Exchange">›</span>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Events/Technology-Exchange.aspx">Technology Exchange</a>
+                                                    <a href="/Events/Technology-Exchange">Technology Exchange</a>
                                                         <span class="menu__sub-arrow" data-subnav="Technology Exchange">›</span>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Events/Forums.aspx">Forums</a>
+                                                    <a href="/Events/Forums">Forums</a>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Events/Intelligent-Growth-Live.aspx">Intelligent Growth Live</a>
-                                                </li>
-                                                <li class="menu__item">
-                                                    <a href="/Events/Webcasts.aspx">Webcasts</a>
+                                                    <a href="/Events/Webcasts">Webcasts</a>
                                                 </li>
                                         </ul>
                                     </div>
@@ -957,19 +990,19 @@
                                                 <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                                 <ul class="menu__list">
                                                         <li class="menu__item">
-                                                            <a href="/Events/Summits/2016-Summit.aspx">2016 Summit</a>
+                                                            <a href="/Events/Summits/2017-Summit">2017 Summit</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Events/Summits/2015-Summit.aspx">2015 Summit</a>
+                                                            <a href="/Events/Summits/2016-Summit">2016 Summit</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Events/Summits/2015-Summit-Europe.aspx">2015 Summit Europe</a>
+                                                            <a href="/Events/Summits/2017-Summit-Europe">2017 Summit Europe</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Events/Summits/2016-Summit-Europe.aspx">2016 Summit Europe</a>
+                                                            <a href="/Events/Summits/2016-Summit-Europe">2016 Summit Europe</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -980,11 +1013,11 @@
                                                 <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                                 <ul class="menu__list">
                                                         <li class="menu__item">
-                                                            <a href="/Events/Sales-Leadership-Exchange/2016-Sales-Leadership-Exchange.aspx">2016 Sales Leadership Exchange</a>
+                                                            <a href="/Events/Sales-Leadership-Exchange/2017-Sales-Leadership-Exchange">2017 Sales Leadership Exchange</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Events/Sales-Leadership-Exchange/2017-Sales-Leadership-Exchange.aspx">2017 Sales Leadership Exchange</a>
+                                                            <a href="/Events/Sales-Leadership-Exchange/2016-Sales-Leadership-Exchange">2016 Sales Leadership Exchange</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -995,11 +1028,11 @@
                                                 <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                                 <ul class="menu__list">
                                                         <li class="menu__item">
-                                                            <a href="/Events/Technology-Exchange/2016-Technology-Exchange.aspx">2016 Technology Exchange</a>
+                                                            <a href="/Events/Technology-Exchange/2017-Technology-Exchange">2017 Technology Exchange</a>
                                                             
                                                         </li>
                                                         <li class="menu__item">
-                                                            <a href="/Events/Technology-Exchange/2015-Technology-Exchange.aspx">2015 Technology Exchange</a>
+                                                            <a href="/Events/Technology-Exchange/2016-Technology-Exchange">2016 Technology Exchange</a>
                                                             
                                                         </li>
                                                 </ul>
@@ -1009,27 +1042,31 @@
                                     <div class="menu__inner">
                                         <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                         <ul class="menu__list">
-
-
-
                                                 <li class="menu__item">
-                                                    <a href="/Resources/Tools.aspx">Tools</a> 
+                                                    <a href="/Resources/Tools">Tools</a> 
                                                                    
                                                 </li>
 
                                                 <li class="menu__item">
-                                                    <a href="/Resources/Dictionary.aspx">Dictionary</a> 
+                                                    <a href="/Resources/Dictionary">Dictionary</a> 
                                                                    
                                                 </li>
-                                                                                             <li class="menu__item">
-                                                    <a href="/Resources/Stats-and-Quotes.aspx">Stats &amp; Quotes</a> 
+
+                                                <li class="menu__item">
+                                                    <a href="/Resources/Stats-and-Quotes">Stats and Quotes</a> 
                                                                    
                                                 </li>
-                                                                                                                                           <li class="menu__item">
-                                                    <a href="/Resources/Release-Notes.aspx">Release Notes</a>
 
+                                                <li class="menu__item">
+                                                    <a href="/Resources/Release-Notes">Release Notes</a> 
+                                                                   
                                                 </li>
 
+                                                <li class="menu__item">
+                                                    <a href="/Resources/Benchmark-Command-Centre">Benchmark Command Centre</a> 
+                                                                   
+                                                </li>
+                                                                                                                                        
                                         
                                         </ul>
                                     </div>
@@ -1039,10 +1076,10 @@
                                         <p class="menu__back"><a href="#"><span>‹</span> Back</a></p>
                                         <ul class="menu__list">
                                                 <li class="menu__item">
-                                                    <a href="/Blog/SiriusPerspectives.aspx">SiriusPerspectives</a>
+                                                    <a href="/Blog/SiriusPerspectives">SiriusPerspectives</a>
                                                 </li>
                                                 <li class="menu__item">
-                                                    <a href="/Blog/SiriusDecisions-Marketplace.aspx">SiriusDecisions Marketplace</a>
+                                                    <a href="/Blog/SiriusDecisions-Marketplace">SiriusDecisions Marketplace</a>
                                                 </li>
                                         </ul>
                                     </div>
@@ -1109,14 +1146,53 @@
 
 <script type="text/javascript">
     $(document).ready(function () {
+
+            if ($(".tab-container__tabs").length && sessionStorage.TabName) {
+                $(".tab-container__tabs li").removeClass("is-current");
+                $(".tab-container__tabs li[data-tab-id='" + window.sessionStorage.TabName + "']").addClass("is-current");
+                $(".tab-container__body div").removeClass("is-current");
+                $(".tab-container__body div[data-tab-for='" + window.sessionStorage.TabName + "']").addClass("is-current");
+            }
+            $(".tab-container").show();
+
+        $("#btnAgree15").click(function () {
+            var texttpe = document.getElementById("txttitle").value;
+            //var texttpe = $('#ttlname').text();
+            $.ajax({
+                url: "/data/eventsession/saveflag",
+                contentType: "application/json",
+
+                data: JSON.stringify({ txttype: texttpe }),
+                type: "POST",
+                datatype: "json",
+                success: function (data) {
+                    $('div#pop-up_2015').hide();
+                    $('.reqAccess_overlay_summit').hide();
+                    //location.href = href;
+                },
+            });
+        });
+        $("#btnAgree").click(function () {
+            var texttpe = document.getElementById("txttitle").value;
+            //var texttpe = $('#ttlname').text();
+            $.ajax({
+                url: "/data/eventsession/saveflag",
+                contentType: "application/json",
+
+                data: JSON.stringify({ txttype: texttpe }),
+                type: "POST",
+                datatype: "json",
+                success: function (data) {
+                    $('div#pop-up').hide();
+                    $('.reqAccess_overlay_summit').hide();
+                },
+            });
+        });
+
         $(".clsbtn").on("click", function () {
             $(this).parent().css("display", "none");
             return false;
-        });
-
-        //Ravi Kumar
-        
-        $("head").append("<meta property=og:image content=/> <meta property=og:image:width content=200 /><meta property=og:image:height content=95 /><meta name=twitter:image content=><meta itemprop=image content=>");
+        });        
 
         $("#TopAccessScenario, #BottomAccessScenario").on("click", function () {
             var handcursor = $(this);
@@ -1130,24 +1206,21 @@
                 datatype: "json",
                 success: function (data) {
                     if (data.length > 0) {
-                        var clickedTablediv = $(handcursor).next().find("#tblSc tbody");
-                        $(handcursor).next().find("#tblSc tbody tr").each(function () {
+                        var clickedTablediv = $(handcursor).next().find(".tblSc tbody");
+                        $(handcursor).next().find(".tblSc tbody tr").each(function () {
                             $(this).remove();
                         });
                         var briftagli = '';
                         for (var i = 0; i < data.length; i++) {
-                            {
-                                if (data[i]["ContactName"] != null)
-                                    briftagli += "<tr><td><li><a onclick='viewScenario(" + toolid + "," + toolControllerURL + "," + data[i].ScenarioId + ")'>" + data[i]["Scenario"] + "</a> <br> (Shared By: " + data[i]["ContactName"] + " )</li></td><td><span>" + data[i]["ModifiedDate"] + "</span></td></tr>";
-                                else
-                                    briftagli += "<tr><td><li><a onclick='viewScenario(" + toolid + "," + toolControllerURL + "," + data[i].ScenarioId + ")'>" + data[i]["Scenario"] + "</a></li></td><td><span>" + data[i]["ModifiedDate"] + "</span></td></tr>";
-                            }
+                            if (data[i]["ContactName"] != null)
+                                briftagli += "<tr><td><li><a onclick='viewScenario(" + toolid + "," + toolControllerURL + "," + data[i].ScenarioId + ")'>" + data[i]["Scenario"] + "</a> <br> (Shared By: " + data[i]["ContactName"] + " )</li></td><td><span>" + data[i]["ModifiedDate"] + "</span></td></tr>";
+                            else
+                                briftagli += "<tr><td><li><a onclick='viewScenario(" + toolid + "," + toolControllerURL + "," + data[i].ScenarioId + ")'>" + data[i]["Scenario"] + "</a></li></td><td><span>" + data[i]["ModifiedDate"] + "</span></td></tr>";
                         }
                         $(briftagli).appendTo(clickedTablediv);
                         var count = 0;
                         handcursor.next().find(".popup-content-div").find("tr:not(.Heading):even").addClass("odd");
                         handcursor.next().find(".popup-content-div").find("tr:not(.Heading):odd").addClass("even");
-                        var count = 0;
                         handcursor.next().find("a").each(function () {
                             var len = $(this).text().length;
                             if (count < len) {
@@ -1160,7 +1233,7 @@
                             handcursor.next().find("li").css("max-width", 347);
                         }
                         else {
-                            var hdnScenarioListWidth// = count * 16;
+                            var hdnScenarioListWidth; //= count * 16;
                             var popupcontentdivliminWidth = count * 9;
                             var popupcontentdivlimaxWidth = popupcontentdivliminWidth + 5;
                             if (count <= 30) {
@@ -1173,13 +1246,13 @@
                             handcursor.next().find("li").css("min-width", popupcontentdivliminWidth);
                             handcursor.next().find("li").css("max-width", popupcontentdivlimaxWidth);
                         }
-                        $(document).find(".hdnScenarioList").hide();
-                        handcursor.next().show();
+                        $(".hdnScenarioList").hide();
+                        handcursor.next().css("display", "block");
                     }
                     else {
-                        var clickedTablediv = $(handcursor).next().find("#tblSc");
-                        $(handcursor).next().find("#tblSc thead").remove();
-                        $(handcursor).next().find("#tblSc tbody").remove();
+                        var clickedTablediv = $(handcursor).next().find(".tblSc");
+                        $(handcursor).next().find(".tblSc thead").remove();
+                        $(handcursor).next().find(".tblSc tbody").remove();
                         var briftagli = '';
                         briftagli = "<tbody><tr><td><li>No records found.</li></td><td><span></span></td></tr></tbody>";
                         $(briftagli).appendTo(clickedTablediv);
@@ -1189,41 +1262,71 @@
                         handcursor.next().css("display", "block");
                     }
                     return false;
-                },
+                }
             });
         });
+
     });
 
-    function createScenarioBody(toolId, toolUrl) {
-        $.ajax({
-            url: '/data/ToolScenario/CreateScenario',
-            data: { 'toolId': toolId },
-            type: 'POST',
-            success: function (resp) {
-                var tab = window.open(toolUrl, "toolScenario");
-                tab.close();
-                tab = window.open(toolUrl, "toolScenario");
-            }
-        });
-    }
+        function checkAll(ele) {
+            if (ele.checked) {
+                document.getElementById("btnAgree").disabled = false;
+                $('#btnAgree').removeClass('is-disabled');
 
-    function viewScenario(toolId, toolUrl, scenarioId) {
-        $.ajax({
-            url: '/data/ToolScenario/viewScenario',
-            data: { 'toolId': toolId, 'scenarioId': scenarioId },
-            type: 'POST',
-            success: function (resp) {
-                var tab = window.open(toolUrl, "toolScenario");
-                tab.close();
-                tab = window.open(toolUrl, "toolScenario");
             }
-        });
-    }
+            else {
+                document.getElementById("btnAgree").disabled = true;
+                $('#btnAgree').addClass('is-disabled');
+            }
+        }
+        function checkAll_15(ele) {
+            if (ele.checked) {
+                document.getElementById("btnAgree15").disabled = false;
+                $('#btnAgree15').removeClass('is-disabled');
 
-    $(".testa").on("click", function () {
-        $(".chatcontent").slideToggle();
-        $(this).addClass('active')
-    });
+            }
+            else {
+                document.getElementById("btnAgree15").disabled = true;
+                $('#btnAgree15').addClass('is-disabled');
+            }
+        }
+
+
+
+        function clickclose() {
+            window.location = "https://www.siriusdecisions.com/user-dashboard";
+        }
+        function createScenarioBody(toolId, toolUrl) {
+            $.ajax({
+                url: '/data/ToolScenario/CreateScenario',
+                data: { 'toolId': toolId },
+                type: 'POST',
+                success: function (resp) {
+                    var tab = window.open(toolUrl, "toolScenario");
+                    tab.close();
+                    tab = window.open(toolUrl, "toolScenario");
+                }
+            });
+        }
+
+        function viewScenario(toolId, toolUrl, scenarioId) {
+            $.ajax({
+                url: '/data/ToolScenario/viewScenario',
+                data: { 'toolId': toolId, 'scenarioId': scenarioId },
+                type: 'POST',
+                success: function (resp) {
+                    var tab = window.open(toolUrl, "toolScenario");
+                    tab.close();
+                    tab = window.open(toolUrl, "toolScenario");
+                }
+            });
+        }
+
+        $(".testa").on("click", function () {
+            $(".chatcontent").slideToggle();
+            $(this).addClass('active')
+        });
+  
 </script>
 <input id="hdnTitle" name="TwitterText" type="hidden" value=""><input id="hdnDescription" name="Promotions_Short_Description" type="hidden" value="">    <div class="rte-area">
         <h3>Information Collection and Use&nbsp;</h3>
@@ -1521,46 +1624,52 @@ If you would like to be taken off our marketing lists, please send an e-mail to 
 	<nav class="auxiliary-nav">
 		<ul>
 
-				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/Topics.aspx">Topics We Cover</a></li>
-				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/What-We-Do.aspx">What We Do</a></li>
-				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/Who-We-Are.aspx">Who We Are</a></li>
-				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/Events.aspx">Events</a></li>
-				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/Resources.aspx">Resources</a></li>
-				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/Blog.aspx">Blog</a></li>
-						<li class="auxiliary-nav__item lg-hide"><a href="/Connect-With-Us.aspx">Connect With Us</a></li>
+				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/Topics">Topics We Cover</a></li>
+				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/What-We-Do">What We Do</a></li>
+				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/Who-We-Are">Who We Are</a></li>
+				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/Events">Events</a></li>
+				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/Resources">Resources</a></li>
+				<li class="auxiliary-nav__item med-hide sm-hide"><a href="/Blog">Blog</a></li>
+						<li class="auxiliary-nav__item lg-hide"><a href="/Connect-With-Us">Connect With Us</a></li>
 		</ul>
 	</nav>
 
                                
-                    <p class="footer__copyright"></p><p>© 2016 SiriusDecisions Inc.   •   (203) 665-4000
+                    <p class="footer__copyright"></p><p>© 2017 SiriusDecisions Inc.   •   (203) 665-4000
 </p>
 <br>
-<p class="footer__copyright"><a href="/Misc/Terms-of-Use.aspx">Terms &amp; Conditions</a> | <a href="/Misc/Privacy.aspx">Privacy</a></p> <p></p>
+<p class="footer__copyright"><a href="/Misc/Terms-of-Use">Terms &amp; Conditions</a> | <a href="/Misc/Privacy">Privacy</a></p> <p></p>
                 
             </footer>
             <!-- End Footer -->        
         </div>
     </div>
 </div>;
-
 <script src="/bundles/FooterScripts/GlobalNamespace?v=DgcYWMmuPJuDIUEa1jApTfc8U1bzc1bjhWx8tKkcPbQ1"></script>
 
-<script src="/bundles/FooterScripts/ThirdParty?v=odkqp7oDMFOWaeTNaT8MxWrWPGLFOZwdnSyuIArq0Vs1"></script>
-
- <script src="https://get.gridsetapp.com/24393/overlay/"></script>
-<script src="/bundles/FooterScripts/Velir?v=pdKTemOVDL817GBdmcTihKG5d-9VPQIX_Q9-Bgpu5Lo1"></script>
-
-<script src="/bundles/FooterScripts/Init?v=nfOxJXxrYwa2OQEEL3764I1jWLEWN8_z8KB3eN1Rap81"></script>
+<script src="https://get.gridsetapp.com/24393/overlay/"></script>
+<script src="/bundles/FooterScripts/ThirdParty?v=lzJl43of9cMeMgxTBMysxIgkYPMYF8SknqKFoEPQ6VU1"></script>
+<script src="/bundles/FooterScripts/Velir?v=CBRCLFMZ-QYeD3RWh3VXm3YBlDm4AHLnXXiMvuR0MFU1"></script>
+<script src="/bundles/FooterScripts/Init?v=A92ATgQTfVzhGilLPS3XDJVlDsHy7SPTPwUrk8hqNvI1"></script>
 
 
-<!-- Twitter single-event website tag code -->
-<script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
-<script type="text/javascript">twttr.conversion.trackPid('nul5q', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
-<noscript>
-    <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nul5q&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-    <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nul5q&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
-</noscript>
-<!-- End Twitter single-event website tag code -->
+
+               
+           <!-- Twitter single-event website tag code -->
+           <script src="//platform.twitter.com/oct.js" type="text/javascript"></script>
+           <script type="text/javascript">twttr.conversion.trackPid('nul5q', { tw_sale_amount: 0, tw_order_quantity: 0 });</script>
+           <noscript>
+               <img height="1" width="1" style="display:none;" alt="" src="https://analytics.twitter.com/i/adsct?txn_id=nul5q&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+               <img height="1" width="1" style="display:none;" alt="" src="//t.co/i/adsct?txn_id=nul5q&p_id=Twitter&tw_sale_amount=0&tw_order_quantity=0" />
+           </noscript>
+           <!-- End Twitter single-event website tag code -->
+                
+               
 
 
-</body></html>
+<script>
+    $(document).ready(function () {
+             $(".rte-area #divBenchmarkCommandCenter").hide();
+                      $("#divBenchmarkCommandCenter").hide();
+    });
+</script></body></html>
