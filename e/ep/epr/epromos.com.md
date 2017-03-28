@@ -1,6 +1,15 @@
-> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127211441id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the epromos.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328212438id_/http%3A//www.epromos.com/support/privacy-security) for the most accurate reproduction.*
 
-# Privacy and Security
+# Privacy and Security - ePromos Education Center
+
+  * [Privacy Policy](http://www.epromos.com/support/privacy-security/#privacy)
+  * [Security](http://www.epromos.com/support/privacy-security/#security)
+
+
+
+* * *
+
+## Privacy Policy
 
 This is the web site of **ePromos.com, Inc.**  
 Our postal address is:  
@@ -39,6 +48,10 @@ Consumers can access this information by e-mailing us at the above address.
 
 Upon request, we offer visitors the ability to have inaccuracies corrected in contact information, transaction information.
 
-Consumers can have this information corrected by sending us e-mail at the above address or calling us at the above telephone number. 
+Consumers can have this information corrected by sending us e-mail at the above address or calling us at the above telephone number.
 
-With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.We process credit card information by fax and phone. Internally your credit card information is kept highly secure. Please do not give us credit card information by email as it is not secure.If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
+* * *
+
+## Security
+
+> With respect to security: We always use industry-standard encryption technologies when transferring and receiving consumer data exchanged with our site.We process credit card information by fax and phone. Internally your credit card information is kept highly secure. Please do not give us credit card information by email as it is not secure.If you feel that this site is not following its stated information policy, you may contact us at the above addresses or phone number.
