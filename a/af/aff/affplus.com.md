@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the affplus.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106223802id_/https%3A//www.affplus.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the affplus.com privacy policy that was archived on 2017-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170328121739id_/http%3A//www.affplus.com/privacy) for the most accurate reproduction.*
 
 # Privacy - Affplus
 
