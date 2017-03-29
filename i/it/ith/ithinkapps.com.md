@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ithinkapps.com privacy policy that was archived on 2016-12-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161218181918id_/http%3A//www.ithinkapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ithinkapps.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329095215id_/http%3A//www.ithinkapps.com/privacy-policy) for the most accurate reproduction.*
 
 # iThinkApps | mp3TrueEdit - Privacy Policy
 
