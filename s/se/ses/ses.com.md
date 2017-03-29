@@ -1,14 +1,14 @@
-> *The following text is extracted and transformed from the ses.com privacy policy that was archived on 2016-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160527155529id_/http%3A//www.ses.com/4353601/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ses.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330013700id_/http%3A//www.ses.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Satellite Services - SES.com
+# Privacy Policy | SES
 
 SES is sensitive to privacy issues on the Internet. We believe it is important you know how we treat the information about you we receive on the Internet. This Privacy policy covers our use of information which is collected through or in connection with this site.
 
-**Who is responsible for the personal information collected on this site?**
+### Who is responsible for the personal information collected on this site?
 
 SES S.A. ("SES"), a company registered under Luxembourg law (VAT Nr LU 18953352) and located at Château de Betzdorf, L-6815 Betzdorf, Grand Duchy of Luxembourg, hosts and operates the SES.COM site located at http://www.ses.com.
 
-**Information collection and use**
+### Information collection and use
 
 In general, you can visit SES on the World Wide Web without telling us who you are or revealing any information about yourself. Our Web servers collect IP addresses of visitors only. This information is aggregated to measure the number of visits, average time spent on the site, pages viewed, etc. and is used by SES to measure the use of our site and to improve the content of our site. You cannot be identified from this information and it is only used to assist us in providing an effective service on this web site. Companies doing the tracking and measurement for SES also have access to this information.
 
@@ -35,25 +35,44 @@ Except as set out in this Privacy policy, we will not disclose any personally id
 
 If at any time you wish us to stop using your personal information for any or all of the aforementioned purposes, please let us know time by sending an e-mail to [info@ses.com](mailto:%20info@ses.com). We will cease the use of your information for such purposes as soon as it is reasonably possible to do so.
 
-**The use of cookies**
+### The use of cookies
 
-If you register with the SES site, we may use this information to provide you with custom information about SES' offering in support of your business needs. A technology called cookies may be used to provide you with tailored information. A cookie is a tiny element of data that a Web site can send to your browser, which may then be stored on your hard drive so we can recognize you when you return. We are able to read these cookies for information purposes when you revisit our site. The type of information we collect as a result of a cookie being accepted by you is specific to your PC and includes the IP address, the date and time the PC visited the site, what parts of our web site were looked at and whether the web pages requested were delivered successfully. This information is anonymous; it represents a computer rather than a person.
+We use cookies on our website to enhance your browsing experience.
 
-We use the cookie information to improve our knowledge of the use of our web site and to enable us to be able to ascertain whether the web site is operating at an optimal level. This allows us to enhance our web offerings to you and to provide an enjoyable and an innovative online experience.
+**What are cookies?**  
+A cookie is a small text file that a website saves on your computer or mobile device when you visit the site. It enables the website to remember your actions and preferences (such as login details, language, font size and other display preferences), as well as saving information about your computer (such as IP address, geographic area and browser type).
 
-You may set your browser to notify you when you receive a cookie. You may also erase or block cookies by changing the settings on your computer (please refer to your help screens or manuals). If you do erase or block cookies you may not be able to utilize some features of the site.
+**What types of cookies does SES use?**  
+We use two types of cookies: persistent cookies and session cookies. A persistent cookie helps us recognize you as an existing user. When you access the SES websites, a persistent cookie stays in your browser and will be read when you return to the site. Session cookies only last for as long as the session (usually the current visit to a web site or a browser session).
 
-**Keeping our records accurate and data retention**
+**How does SES use cookies?**  
+We use cookies on all our websites and applications. Any browser loading these sites will receive cookies from us.
+
+**What cookies does SES use?**
+
+  * Authentication: SES uses cookies that store authentication information.
+  * Preference features and services: SES uses cookies that can tell us which language you prefer and they can help you fill out forms on the SES websites more easily.
+  * Performance, analytics and research: SES uses Google Analytics, a web analytics service provided by Google, Inc. (‘Google’). Google Analytics uses cookies to analyse how users behave on the site. The information generated by the cookie about your use of the website (including your IP address) is transmitted to and stored by Google on servers in the United States. Google uses this information for the purpose of evaluating your use of the website, compiling reports on website activity and providing other services relating to website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google's behalf. Google will not associate your IP address with any other data held by Google.
+
+
+
+**Changing your cookie settings**  
+You can control and/or delete cookies as you wish – for details, see <http://www.allaboutcookies.org/> You can delete all cookies that are already on your computer and you can set most browsers to prevent them from being placed. If you do this, however, you may have to manually adjust some preferences every time you visit a site and some services and functionalities may not work.
+
+**Contact**  
+For more information on our privacy policy and use of cookies you can contact the SES Data Protection Officer at the following email address: [dataprotection-officer@ses.com](mailto:dataprotection-officer@ses.com)
+
+### Keeping our records accurate and data retention
 
 We aim to keep our information about you as accurate as possible. You will have a right of access to the data collected and a right of rectification of the data in cases where such data is inaccurate and incomplete. Please contact us at [info@ses.com](mailto:info@ses.com).
 
 All data related information shall not be held for longer than necessary with regard to the purpose of the data processing, observing the legal periods of limitation.
 
-**Security of your personal data**
+### Security of your personal data
 
 We have implemented technology and policies with the objective of protecting your privacy from unauthorized access and improper use and will update these measures as new technology becomes available.
 
-**Use of your personal information submitted to other sites**
+### Use of your personal information submitted to other sites
 
 We cannot be responsible for the privacy policies and practices of other sites even if:
 
@@ -64,6 +83,6 @@ We cannot be responsible for the privacy policies and practices of other sites e
 
 We recommend that you check the privacy policy of each site you visit and contact the owner or operator of such web site if you have any concerns or questions.
 
-**Changes and updates**
+### Changes and updates
 
 From time to time we may make changes to this Privacy policy. If we make any substantial changes to this Privacy policy and the way in which we use your personal data we will post these changes on this page. Please check our Privacy policy on a regular basis.
