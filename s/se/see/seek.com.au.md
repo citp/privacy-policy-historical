@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108103059id_/https%3A//www.seek.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the seek.com.au privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329095511id_/https%3A//www.seek.com.au/privacy) for the most accurate reproduction.*
 
 # SEEK - Privacy Statement
 
@@ -10,19 +10,17 @@ This Privacy Statement applies to any personal information you disclose to SEEK 
 
 ## Definitions
 
-Where used in this Statement, the terms “personal information”, and “Australian Privacy Principle(s)” have the meaning attributed to that term in the _Privacy Act (Cth) 1988_ ( **“Privacy Act”** ). 
+Where used in this Privacy Statement, the terms “personal information”, and “Australian Privacy Principle(s)” have the meaning attributed to those terms in the _Privacy Act (Cth) 1988_ ( **“Privacy Act”** ). 
 
-This Statement has been prepared by SEEK Limited (ACN 080 075 314) ( **“SEEK”** ). 
+This Privacy Statement has been prepared by SEEK Limited (ACN 080 075 314) ( **“SEEK”** ). 
 
-SEEK owns and operates the website located at www.seek.com.au (across desktop, mobile, tablet and apps and including any subdomains) ( **“the Site”** ). This Statement discloses our information gathering and dissemination practices for the Site.
+SEEK owns and operates the website located at www.seek.com.au (across desktop, mobile, tablet and apps and including any subdomains) ( **“the Site”** ). This Privacy Statement discloses our information gathering and dissemination practices for the Site.
 
-SEEK’s wholly owned subsidiaries, SEEK Learning Pty Ltd (ACN 084 202 719) ( **“SEEK Learning”** ) and SEEK Business Pty Ltd (ACN 122 162 029) ( **“SEEK Business”** ) own and operate the websites located at www.seeklearning.com.au and www.seekbusiness.com.au respectively across desktop, mobile, tablet and apps (including any subdomains).
+In this Privacy Statement, any reference to **“SEEK”** , **“we”** , **“us”** and **“our”** includes a reference to SEEK Limited and each of SEEK's related bodies corporate (as that term is defined in the _Corporations Act 2001 (Cth)_ ).
 
-In this Statement, any reference to **“SEEK”** , **“we”** , **“us”** and **“our”** includes a reference to SEEK Limited, SEEK Learning and SEEK Business, and all other SEEK Limited subsidiaries.
+Users who register on the Site to obtain services offered by SEEK are referred to as **“Registered Users”**. 
 
-Visitors of the Site who do not create an account are referred to generically in this Statement as **“users”** or **“you”**. 
-
-Users who register on the Site to obtain services offered by SEEK are referred to as **“Registered Users”**. Unless the context provides otherwise, references in this Statement to “users” or “you” include references to generic users and Registered Users. 
+Visitors of the Site (including Registered Users) are referred to generically in this Privacy Statement as **“users”** or **“you”**. 
 
 ## Collecting information on SEEK visitors
 
@@ -36,20 +34,20 @@ SEEK's web servers gather your IP address to assist with the diagnosis of proble
 
 SEEK uses cookies and applets to provide you with a better browsing experience and tailor advertisements that appear, (on the Site or other websites) to your browsing preferences and/or your SEEK Profile, (as defined below). These cookies and applets collect non-personal information such as preferences and click activity for measurement and for features such as remembering your details for 'Auto Login' (provided you have chosen this option), and remembering your search criteria for the 'My Last Search' function. 
 
-Users who do not wish to have cookies active whilst they browse the Site can "opt out" by modifying the privacy options in your browser. However, doing so will prevent access to some areas of the Site and limit your use of some of the SEEK services. 
+If you do not wish to have cookies active whilst you browse the Site you can "opt out" by modifying the privacy options in your browser. However, doing so will prevent access to some areas of the Site and limit your use of some of the SEEK services. 
 
-In addition to the above, where users access the SEEK iPhone mobile application (" **SEEK iPhone App** ") we use third party software development kits (SDK's) and services which collect non personal information relating to your use of the SEEK iPhone App, including tracking of app installs and re-engagement. This information is used to tailor and measure advertisements to install and/or use the SEEK iPhone App which appear on third party sites/apps and are targeted towards users' usage preferences. 
+In addition to the above, where users access the SEEK mobile applications (" **SEEK Apps** ") we use third party software development kits (SDK's) and services which collect non personal information relating to your use of the SEEK Apps, including tracking of app installs and re-engagement. This information is used to tailor and measure advertisements to install and/or use the SEEK Apps which appear on third party sites/apps and are targeted towards users' usage preferences. 
 
-Users who want to opt-out from the collection and usage of information for advertisement targeting can do so by enabling "Limit Ad Tracking" (Settings>Privacy>Advertising) on their iOS device. By opting out from ad targeting SEEK and its third party providers will not use the collected information to target ads to you, however the information collected may continue to be used by SEEK for, amongst other things, estimation of user numbers, advertising fraud detection and debugging. 
+If you want to opt-out from the collection and usage of information for advertisement targeting you can do so by enabling "Limit Ad Tracking" (Settings>Privacy>Advertising) on your iOS device or by enabling the "Opting out of interest-based ads" option (Settings>Services>Ads) on your Android device. By opting out from ad targeting SEEK and its third party providers will not use the collected information to target ads to you, however the information collected may continue to be used by SEEK for, amongst other things, estimation of user numbers, advertising fraud detection and debugging. 
 
 ## Third Party Measurement
 
 In order to better understand our users, SEEK utilises third party measurement companies to assess Site and mobile Site traffic. A tracking code is used to collect the following information on the usage of the Site: 
 
-  * The number of page views (or page impressions) that occur on SEEK;
-  * The number of unique visitors to SEEK;
-  * How long these unique visitors (on average) spend on SEEK when they do visit; and
-  * Common entry and exit points into SEEK.
+  * The number of page views (or page impressions) that occur on the Site;
+  * The number of unique visitors to the Site;
+  * How long these unique visitors (on average) spend on the Site when they do visit; and
+  * Common entry and exit points into the Site.
 
 
 
@@ -67,7 +65,7 @@ SEEK may also use this information in order to customise the service we provide 
 
 ## Job Mail
 
-Job Mail is an optional service available to Registered Users. SEEK requests that Registered Users provide their email address, and information relating to their employment preferences, in order that SEEK can notify Registered Users via email of jobs specific to their specified criteria. Registered Users can modify or delete their Job Mail preferences (or their Job Mail account) at any time by going to the '[My Activity](https://www.seek.com.au/MyActivity)' area of the Site. 
+Job Mail is an optional service available to Registered Users. SEEK requests that Registered Users provide their email address, and information relating to their employment preferences, so that SEEK can notify Registered Users via email of jobs within their specified criteria. Registered Users can modify or delete their Job Mail preferences (or their Job Mail account) at any time by going to the '[My Activity](https://www.seek.com.au/MyActivity)' area of the Site. 
 
 Users of the Site may also subscribe to Job Mail without creating a SEEK Profile and becoming a Registered User by electing to do so when searching for jobs on the Site. If you choose to subscribe to Job Mail in this manner, any personal information you provide us when creating your Job Mail subscription will be stored and used by SEEK in the same manner as if you were a Registered User. You will be able to unsubscribe from Job Mail subscriptions at any point in time by clicking on the unsubscribe link within the email. In order to best utilise SEEK's services, we recommend creating a SEEK Profile (see below).
 
@@ -79,7 +77,7 @@ Where resumes are held in testing environments, these are held in closed and sec
 
 ## SEEK Profile
 
-A SEEK Profile can include a resume, employment and educational history, contact details, minimum salary expectations, and preferred job classifications and locations. Advertisers are able to search SEEK's Profile database to find and contact relevant candidates. Upon registration, all users will be asked to create a personal SEEK Profile (' **[SEEK Profile](https://www.seek.com.au/Profile?cid=sk%3Amain%3Aau%3Aprivacyprofile%3Aseekprofile)** ') by providing some key information and selecting one of the privacy settings outlined below. Users without SEEK Profiles will also be required to create a SEEK Profile when applying for jobs on the Site. Users can elect how much of their SEEK profile they wish to share (if any) with Advertisers based on the following privacy settings: 
+A SEEK Profile can include a resume, employment and educational history, contact details, minimum salary expectations, and preferred job classifications and locations. Advertisers are able to search SEEK's Profile database to find and contact relevant candidates. Upon registration, all users will be asked to create a personal SEEK Profile (' **[SEEK Profile](https://www.seek.com.au/Profile?cid=sk%3Amain%3Aau%3Aprivacyprofile%3Aseekprofile)** ') by providing some key information and selecting one of the privacy settings outlined below. Users without SEEK Profiles will also be required to create a SEEK Profile when they first apply for a job on the Site. Users can elect how much of their SEEK profile they wish to share (if any) with Advertisers based on the following privacy settings: 
 
   * **Standard**
 
@@ -87,18 +85,18 @@ Your SEEK Profile, except for your resume and contact details, can be seen by Ad
 
   * **Limited**
 
-Your SEEK Profile, except for your resume and contact details, can be seen by Advertisers searching SEEK's Profile database, however Advertisers cannot access your resume. 
+Your SEEK Profile, except for your resume and contact details, can be seen by Advertisers searching SEEK's Profile database. Advertisers cannot purchase your resume and contact details. 
 
   * **Hidden**
 
 Your SEEK Profile is completely hidden (thereby preventing Advertisers from viewing your SEEK Profile). Your SEEK Profile will be stored in the '[Profile](https://www.seek.com.au/Profile?cid=sk%3Amain%3Aau%3Aprivacyprofile%3Aprofile)' area of the Site and you may alter the privacy settings at any time. 
 
-If you have a standard or limited SEEK Profile then Advertisers searching SEEK's Profile database may also elect to send you a copy of a job opportunity for which they are recruiting, (by using the "send job" function), or send you a customised email about a job opportunity, (by using the "message") function. Advertisers who use either of these functions do not, by using those functions, receive access to any of your personal information. 
+If you have a standard or limited SEEK Profile then Advertisers searching SEEK's Profile database may also elect to send you a copy of a job opportunity for which they are recruiting, (by using the "send job" function), or send you a customised email about a job opportunity, (by using the "message" function). Advertisers who use either of these functions do not, by using those functions, receive access to any of your personal information. 
 
 
 
 
-All information provided when creating a SEEK Profile (including your name, resume, email address, telephone numbers, employment and educational history) may be used by SEEK for the purpose of improving placement opportunities for you or for tailoring specific products to you. 
+All information provided by you when creating a SEEK Profile (including your name, resume, email address, telephone numbers, employment and educational history) may be used by SEEK for the purpose of improving placement opportunities for you or for tailoring specific products to you. 
 
 Registered Users can modify their resume at any time, or modify the privacy options in relation to their SEEK Profile at any time, by going to the Profile area of the Site. 
 
@@ -106,14 +104,14 @@ You may also elect to clear your SEEK Profile altogether. Cleared SEEK Profiles 
 
 ## SEEK Advertisers and Online Applications
 
-Making an online application to a job advertisement on SEEK is a free and optional service that requires users to complete mandatory fields (for example first name, last name, phone and email) so that the Advertiser can identify and contact the applicant. When applying for a job, users who do not have a SEEK Profile will also be required to create a SEEK Profile based on the information contained in their application – this may be subsequently edited by users [[here](https://www.seek.com.au/Profile?cid=sk%3Amain%3Aau%3Aprivacyprofile%3Aprofile)]. Registered Users will also have the option of easily attaching a saved resume. When you apply for a job advertisement on the site applications, including attachments and cover letters, are: 
+Making an online application to a job advertisement on SEEK is a free and optional service that requires users to complete mandatory fields (for example first name, last name, telephone number and email) so that the Advertiser can identify and contact the applicant. When first applying for a job, users who do not have a SEEK Profile will also be required to create a SEEK Profile based on the information contained in their application – this may be subsequently edited by users [[here](https://www.seek.com.au/Profile?cid=sk%3Amain%3Aau%3Aprivacyprofile%3Aprofile)]. Registered Users will also have the option of easily attaching a saved resume. When you apply for a job advertisement on the Site, applications, including attachments and cover letters, are: 
 
   * forwarded directly on to the Advertiser and/or its nominated representative; or 
   * stored in the SEEK Advertiser Centre on behalf of the Advertiser. The SEEK Advertiser Centre allows Advertisers to easily and effectively manage their recruitment process via one central facility made available by SEEK. 
 
 
 
-Some advertisers may also require you to answer a list of questions selected by that Advertiser as part of your online application. By answering the Application questions you acknowledge that SEEK will provide your answers to that advertiser and may use your answers to improve our products, including through improving our search and matching capabilities. 
+Some advertisers may also require you to answer a list of questions selected by that Advertiser as part of your online application. By answering the Application questions you acknowledge that SEEK will provide your answers to that Advertiser and may use your answers to improve our products, including through improving our search and matching capabilities. 
 
 By applying to a position advertised on SEEK you are requesting that SEEK pass the information you provide to the relevant Advertiser and/or their nominated representative. Any questions you have relating to a position advertised on SEEK, your online application and/or the status of your application should be directed directly to the Advertiser or their nominated agent, not SEEK. 
 
@@ -131,13 +129,13 @@ SEEK also provides you with selected information about job seeking, job placemen
 
 SEEK may also disclose your personal information to SEEK's service providers and contractors from time to time but only for the purpose of assisting us to deliver the products and services we offer to you. 
 
-## Subsidiairies
+## Related Bodies Corporate
 
-SEEK may also disclose your personal information to SEEK's subsidiaries from time to time but only for the purpose of assisting us to deliver the products and services we offer to you. 
+SEEK may also disclose your personal information to SEEK's related bodies corporate from time to time but only for the purpose of assisting SEEK and its related bodies corporate to deliver the products and services offered to you. 
 
 ## Storage & Security of Personal Information
 
-SEEK takes all reasonable steps to ensure the security of our system and to protect your information from misuse, interference and loss as well as unauthorised access, modification or disclosure. SEEK allows you to access your information at any time to keep it accurate and up to date. Any information which we hold for you is stored on secure servers that are protected in controlled facilities. 
+SEEK takes all reasonable steps to ensure the security of our system and to protect your information from misuse, interference and loss as well as unauthorised access, modification or disclosure. SEEK allows you to access your information at any time to keep it accurate and up to date. Any information which we hold for you is stored on secure servers, either in Australia or overseas (including the United States of America), that are protected in controlled facilities. 
 
 In addition, our employees and the contractors who provide services related to our information systems are obliged to respect the confidentiality and privacy of any personal information held by SEEK. Except in the case of breaches of our obligations under the Privacy Act to protect your personal information, SEEK will not be held responsible for events arising from unauthorised access of your personal information. 
 
@@ -145,7 +143,7 @@ You can also play an important role in keeping your personal information secure,
 
 ## Access to Your Information
 
-Unless you become a Registered User, subscribe to Job Mail and/or submit a job application online, SEEK does not collect information that identifies you personally. If you become a Registered User, you are able to change, update or clear your Profile at any time by logging in to 'Profile area of the Site. Users who are Job Mail subscribers but not Registered Users do not have access to this additional functionality, however you are able to unsubscribe from Job Mail or at any point request SEEK to delete your personal information held by us. You can also request your personal information directly from Advertisers who you have applied to via the Site. 
+Unless you become a Registered User, subscribe to Job Mail and/or submit a job application online, SEEK does not collect information that identifies you personally. If you become a Registered User, you are able to change, update or clear your Profile at any time by logging in to 'Profile area of the Site. Users who are Job Mail subscribers but not Registered Users do not have access to this additional functionality, however you are able to unsubscribe from Job Mail or at any point request that SEEK to delete your personal information held by us at any time. You can also request your personal information directly from Advertisers who you have applied to via the Site. 
 
 ## Data Transfers
 
@@ -157,17 +155,17 @@ SEEK welcomes ideas and feedback about all aspects of the Site. SEEK stores feed
 
 If you have any complaints about our dealings with your personal information including any breaches by us of any Australian Privacy Principles or any questions regarding this Privacy Statement you are able to submit that complaint or query by contacting us at privacy@seek.com.au or by telephone or post using the methods detailed in the “Contact Us” paragraph below.
 
-Any complaints received by us will be referred for prompt investigation by our compliance team and a written response will be provided to you as soon as possible. 
+Any complaints received by us will be referred to our compliance team for prompt investigation and a written response will be provided to you as soon as possible. 
 
 Should you not be satisfied with the resolution of any complaints made you are able to seek further redress through the Office of the Australian Information Commissioner (see http://www.oaic.gov.au/ for further information).
 
 ## Privacy & Site Changes
 
-From time to time, SEEK may review and update its Privacy Statement. Revised versions will be updated on the Site. 
+From time to time, SEEK may review and update its Privacy Statement. Revised versions will be made available on the Site. 
 
 ## Contact Us
 
-If you have any feedback or questions about this Statement, the practices of this Site, or your dealings with SEEK, you can contact us in the following ways: 
+If you have any feedback or questions about this Privacy Statement, the practices of this Site, or your dealings with SEEK, you can contact us in the following ways: 
 
 Email: [privacy@seek.com.au](mailto:privacy@seek.com.au)
 
