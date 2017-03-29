@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the silvertowne.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127002736id_/http%3A//www.silvertowne.com/t-privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the silvertowne.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329070429id_/https%3A//www.silvertowne.com/t-privacy.aspx) for the most accurate reproduction.*
 
 # Privacy & Security Policy | SilverTowne
 
