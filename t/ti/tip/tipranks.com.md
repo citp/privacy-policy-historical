@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tipranks.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105005226id_/https%3A//www.tipranks.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tipranks.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329142125id_/https%3A//www.tipranks.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy | TipRanks
 
