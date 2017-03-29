@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the iwillvote.com privacy policy that was archived on 2016-03-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160327173851id_/http%3A//www.democrats.org/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwillvote.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329032002id_/https%3A//www.democrats.org/more/privacy-policy) for the most accurate reproduction.*
 
-# Democrats.org
+# Democrats.org: Change that Matters
 
 _Last Revised: April 28, 2015_
 
