@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the he-equipment.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805180158id_/https%3A//www.he-equipment.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the he-equipment.com privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329101851id_/https%3A//www.he-equipment.com/legal/privacy) for the most accurate reproduction.*
 
 # H&E Equipment Services
 
