@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hymnlyrics.org privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128142151id_/http%3A//hymnlyrics.org/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hymnlyrics.org privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329102805id_/http%3A//hymnlyrics.org/privacy.html) for the most accurate reproduction.*
 
 # hymnlyrics.org | Privacy Policy
 
