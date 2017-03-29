@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ekmpowershop.net privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317121251id_/https%3A//www.ekmpowershop.com/privacy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ekmpowershop.net privacy policy that was archived on 2017-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170329024337id_/https%3A//www.ekm.com/privacy.asp) for the most accurate reproduction.*
 
 # Ekm Systems Privacy Policy
 
@@ -80,7 +80,7 @@ We use the following services on ekmPowershop.com to monitor our visitors. This 
 
 ### Hotjar
 
-This site uses Hotjar web analytics service. Hotjar makes use of cookies to identify our visitors across multiple pages/sessions primarily used for conversion funnel analysis. We are using the information collected by Hotjar to improve our website, make it more user-friendly and monitor that it is performing correctly. Hotjar creates 7 persistent cookies which automatically expire after 365 days. For more information see[ Cookies Stored by Hotjar.](http://docs.hotjar.com/docs/cookies-stored-by-hotjar)
+This site uses Hotjar web analytics service. Hotjar makes use of cookies to identify our visitors across multiple pages/sessions primarily used for conversion funnel analysis. We are using the information collected by Hotjar to improve our website, make it more user-friendly and monitor that it is performing correctly. Hotjar creates 7 persistent cookies which automatically expire after 365 days. For more information see[ Cookies Stored by Hotjar.](http://docs.hotjar.com/v1.0/docs/hotjar-cookies)
 
 ### Optimizely
 
@@ -88,4 +88,4 @@ Optimizely allows us to perform A/B testing (also known as split testing), and m
 
 ### Google Tag Manager
 
-We use Google Tag Manager to implement tags into our website. Tags are tiny bits of website code that lets us measure traffic and visitor behaviour, to help us understand the impact of online advertising and social channels, use remarketing and audience targeting, test and improve our site, and more. For more information on tags, see[ Google Tag Manager FAQs.](http://www.google.co.uk/tagmanager/faq.html)
+We use Google Tag Manager to implement tags into our website. Tags are tiny bits of website code that lets us measure traffic and visitor behaviour, to help us understand the impact of online advertising and social channels, use remarketing and audience targeting, test and improve our site, and more. For more information on tags, see[ Google Tag Manager FAQs.](https://www.google.com/analytics/tag-manager/faq/)
