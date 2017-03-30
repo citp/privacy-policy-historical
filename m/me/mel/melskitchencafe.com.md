@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the melskitchencafe.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123095949id_/http%3A//www.melskitchencafe.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the melskitchencafe.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330062412id_/https%3A//www.melskitchencafe.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Mel's Kitchen Cafe
+# Privacy Policy - Mel's Kitchen Cafe
 
 The privacy of visitors to Mel’s Kitchen Cafe is very important. This privacy policy outlines the type of personal information that is received and collected and how it is used. Mel’s Kitchen Cafe will not share your personal information with any third party, nor will your personal information be ever sold to a third party. Promise.
 
@@ -27,4 +27,4 @@ If you wish to disable cookies, you may do so through your individual browser op
 
 Mel’s Kitchen Cafe uses Google Analytics Demographics and Interest Reporting. Visitors can opt-out of Google Analytics for Display Advertising and customize Google Display Network ads using Google’s [Ad Settings](https://www.google.com/settings/ads) page. Users can completely block Google Analytics tracking using [Google’s Analytics Opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/).
 
-Mel’s Kitchen Cafe is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking http://www.melskitchencafe.com to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com.
+Mel’s Kitchen Cafe is a participant in the Amazon Services LLC Associates Program, an affiliate advertising program designed to provide a means for sites to earn advertising fees by advertising and linking https://www.melskitchencafe.com to Amazon properties including, but not limited to, amazon.com, endless.com, myhabit.com, smallparts.com, or amazonwireless.com.
