@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the unitjuggler.com privacy policy that was archived on 2010-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20101122104949id_/http%3A//www.unitjuggler.com/site-privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the unitjuggler.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330235738id_/https%3A//www.unitjuggler.com/site-privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -23,4 +23,13 @@ You can choose to disable or selectively turn off our cookies or third-party coo
 
 Deleting cookies does not mean you are permanently opted out of any advertising program. Unless you have settings that disallow cookies, the next time you visit a site running the advertisements, a new cookie will be added. 
 
-AdSense Privacy Policy Provided by [JenSense](http://www.jensense.com/)
+We use Google Analytics to analyze our audience and to optimize the site depending on this analysis. In order to understand which data is collected and how Google collects and saves the data, please check their [Terms of Service](http://www.google.com/analytics/terms/us.html) and their [Safeguarding Policy](http://www.google.com/analytics/learn/privacy.html). 
+
+Please use these links to opt-out of interest-based Google Ads across the Web : 
+
+  * [Google's Ads preferences manager](https://www.google.com/ads/preferences/)
+  * [Google Analytics opt-out browser add-on](https://tools.google.com/dlpage/gaoptout/)
+
+
+
+AdSense Privacy Policy partially provided by [JenSense](http://www.jensense.com/)
