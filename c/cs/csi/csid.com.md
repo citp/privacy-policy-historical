@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the csid.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430052745id_/https%3A//www.csid.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the csid.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330191807id_/https%3A//www.csid.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | CSID
 
-CSIdentity Corporation (“CSID,” “we,” “us” and “our”) and our wholly-owned subsidiary, IdentityTruth, Inc. respect individual privacy and values the confidence of our subscribers. This Privacy Policy sets out the privacy principles that we follow with respect to processing personal information in the course of providing our products and services. We will only collect, use and disclose personal information in a manner consistent with the laws of the countries in which we operate, for example, both relevant Federal and State laws in the U.S. By using the CSID website, you consent to the data practices described in this Privacy Policy.
-
-In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have questions or complaints regarding our Privacy Policy or practices, please contact us by any of the methods described below. If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). The TRUSTe certification covers only our collection, use and disclosure of information we collect through our website and our service. The use of information collected through our service shall be limited to the purpose of providing the service for which the Client has engaged CSID.
+CSIdentity Corporation (“CSID,” “we,” “us” and “our”) and our wholly-owned subsidiary, IdentityTruth, Inc. respect individual privacy and value the confidence of our subscribers. This Privacy Policy sets out the privacy principles that we follow with respect to processing personal information in the course of providing our products and services. We will only collect, use and disclose personal information in a manner consistent with the laws of the countries in which we operate, for example, both relevant Federal and State laws in the U.S. By using the CSID website, you consent to the data practices described in this Privacy Policy.
 
 **1\. INTRODUCTION**  
 **This Privacy Policy applies to all personal data provided to CSID from subscribers applying to use our services.**
@@ -29,6 +27,8 @@ We will share your personal information with third parties only in the ways that
 
 In order for us to provide you with our identity protection service and for the prevention and detection of fraud, we will share your personal information with third parties who perform services on our behalf. Depending on the service you have requested, we may share your name, e-mail address, national identifier or social security number (as applicable), income, account balances, payment history and credit history with credit bureaus. We will also share your billing information with a credit card processing company in order to bill you for goods and services. These companies are authorized to use your personal information only as necessary to provide these services to us.
 
+In certain situations, CSID may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
 As may be required by law, we may also disclose your personal information, for example to comply with a subpoena, or similar legal process, when we believe in good faith that the disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, or respond to a government request.
 
 In addition, in the event of a merger, acquisition, or any form of sale of some or all of our assets to a third party, we may also disclose your personal information to the third parties concerned or their professional advisors. In the event of such a transaction, the personal information held by CSID will be among the assets transferred to the buyer.
@@ -37,57 +37,47 @@ In addition, in the event of a merger, acquisition, or any form of sale of some 
 
 We have appropriate physical, technical and organizational measures in place to protect your data when held by CSID that comply with relevant legal and best practice requirements. When you enter sensitive information (such as a credit card, social security number or login credentials) as part of the enrollment process, we encrypt the transmission of that information using secure socket layer technology (SSL).
 
-When you submit information to CSID through our web site, you should be aware that your information is transmitted across the Internet and that no method of transmission over the Internet is 100% secure. Although we take reasonable security measures to protect your information when we receive it, you also need to ensure you take appropriate steps to protect your information.
+When you submit information to CSID through the relevant portal or web site, you should be aware that your information is transmitted across the Internet and that no method of transmission over the Internet is 100% secure. Although we take reasonable security measures to protect your information when we receive it, you also need to ensure you take appropriate steps to protect your information.
 
-We will obtain assurances from any agents we may use to help provide this service that they will safeguard personal information consistently with this Privacy Policy, which assurance will require the agent to provide the same level of protection as is required by the relevant Safe Harbor Principles and the EU Data Protection Directive.
+We will obtain assurances from any agents we may use to help provide this service that they will safeguard personal information consistently with this Privacy Policy, which assurance will require the agent to provide the same level of protection as is required by the relevant Privacy Shield Principles and the EU Data Protection Directive.
 
 **5\. INFORMATION RELATED TO DATA COLLECTED FOR OUR CLIENTS**
 
-In most cases, CSID resells its services through its commercial clients (“Clients”). Accordingly, CSID does not have a direct relationship with the individuals whose personal data it processes when CSID acts as a wholesaler of its services. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that resells our services, please contact the specific Client that you interact with directly. We may transfer your personal information to third parties who perform services on our behalf or help us provide our services.
+In most cases, CSID resells its services through its third party commercial clients (“Clients”). Accordingly, CSID typically does not have a direct relationship with the individuals whose personal data it processes when CSID acts as a wholesaler of its services. If you are a customer of one of our Clients and would no longer like to be contacted by one of our Clients that resells our services, please contact the specific Client that you interact with directly. We may transfer your personal information to the applicable Client that resells our services and also to third parties who perform the services on our behalf or help us provide our services.
 
-An individual who seeks access, or who seeks to correct, amend, or delete enrollment data should direct his or her query to CSID’s Client (the data controller). If requested to edit enrollment data by our Client, we will respond within 30 days. In some cases, we will edit enrollment data on behalf of our Clients. When managing choice options on behalf of our Clients, we will also respond to any requests within 30 days. We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. CSID will retain this personal information for so long as necessary to comply with our legal and audit obligations, to resolve disputes and to enforce our agreements.
+An individual who seeks access, or who seeks to correct, amend, or delete enrollment data should direct his or her query to CSID’s Client. If requested to edit enrollment data by our Client, we will respond within 30 days. In some cases, we will edit enrollment data on behalf of our Clients. When managing choice options on behalf of our Clients, we will also respond to any requests within 30 days. We will retain personal data we process on behalf of our Clients for as long as needed to provide services to our Client. CSID will retain this personal information for so long as necessary to comply with our legal and audit obligations, to resolve disputes and to enforce our agreements.
 
 **6\. WILL WE SEND YOU OFFERS OF OTHER CSID PRODUCTS AND SERVICES?**
 
-Our range of identity protection products and services is constantly evolving to match the increasingly sophisticated market in which we operate. We will not send you details of other CSID products or services or those of any reputable third parties without your prior consent and you can change your mind at any time by contacting us. If you no longer wish to receive our promotional communications, you may opt-out of receiving them by following the instructions included in each communication or by e-mailing us at the e-mail address provided below or by contacting us through one of the methods listed below.
+Our range of identity protection products and services is constantly evolving to match the increasingly sophisticated market in which we operate. We will not send you details of other CSID products or services or those of any reputable third parties without your prior consent and you can change your mind at any time by contacting us. In the limited instances we send you promotional or other informational communications, you may opt-out of receiving them by following the instructions included in each communication, by e-mailing us at the e-mail address provided below or by contacting us through one of the methods listed below.
 
 **7\. ARE YOU VISITING OUR WEB SITE FROM A COUNTRY IN THE EUROPEAN UNION (E.U.)?**
 
-CSID, based in the United States, maintains servers in both the United States and the United Kingdom. If you are visiting our web site from outside the United States, your personal information, in some rare instances, may be transferred to, stored, and/or processed in the United States. If your personal information enters our servers in the United States, CSID will protect your data in accordance with the Safe Harbor Principles outlined below.
+CSID, based in the United States, maintains servers in both the United States and the United Kingdom. If you are visiting our web site from outside the United States, your personal information, in some rare instances, may be transferred to, stored, and/or processed in the United States. If your personal information enters our servers in the United States, CSID will protect your data in accordance with the Privacy Shield Principles outlined below.
 
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the “Safe Harbor Principles”) to enable U.S. companies, such as CSID, to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the E.U. to the United States.
+The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions (the “Privacy Shield Principles”) to enable U.S. companies, such as CSID, to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the E.U. to the United States.
 
-CSID complies with the U.S.–E.U. Safe Harbor framework and the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from European Union member countries and Switzerland. CSID has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/> and to view CSID’s certification, please visit <https://safeharbor.export.gov/companyinfo.aspx?id=28491>.
+CSID complies with the U.S.–Swiss Safe Harbor framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal data from Switzerland. CSID has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, please visit <http://www.export.gov/safeharbor/> and to view CSID’s certification, please visit <https://safeharbor.export.gov/swisslist.aspx>.
 
-CSID’s privacy principles outlined below are based on the Safe Harbor Principles. Rest assured that your personal information experiences the same level of data protection that you enjoy in the E.U.
+CSID (and its wholly-owned subsidiary, IdentityTruth, Inc.) participates in and has certified its compliance with the EU-U.S. Privacy Shield Framework.  CSID is committed to subjecting all personal data received from European Union (EU) member countries, in reliance on the Privacy Shield Framework, to the Framework’s applicable Principles.  To learn more about the Privacy Shield Framework, visit the U.S. Department of Commerce’s [Privacy Shield List](https://www.privacyshield.gov/list).
 
-_NOTICE, CHOICE AND DATA INTEGRITY – relevance, retention and accuracy_
+CSID is responsible for the processing of personal data it receives, under the Privacy Shield Framework, and subsequently transfers to a third party acting as an agent on its behalf.  CSID complies with the Privacy Shield Principles for all onward transfers of personal data from the EU, including the onward transfer liability provisions.
 
-1\. At the time we collect your personal data we will state clearly the purposes for which your data will be required and any third parties to whom it may be disclosed. If we ever decide to send you communications regarding products and services that you do not currently receive, we will only send you such information after acquiring your consent.  
-2\. We will use the information you supply us solely for the purposes of providing you with the services you have requested and for administering our relationship with you, internal business purposes and statistical analysis.  
-3\. We will take reasonable steps to ensure that all personal information is relevant to its intended use; accurate; complete; and current.  
-4\. We will use your personal information for your identity protection services. Specifically, we monitor your submitted data and provide you with notifications of potential compromised data. When you deactivate your account, we may continue to share information about you according to our legal and regulatory requirements.  
-5\. We will keep your personal information only as long as needed for the purposes for which we collected it, or as necessary to comply with our compliance requirements, legal obligations, resolve disputes, and enforce our agreements.
+With respect to personal data received or transferred pursuant to the Privacy Shield Framework, CSID is subject to the regulatory enforcement powers of the U.S. Federal Trade Commission.  In certain situations, CSID may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
 
-_ACCESS AND CORRECTION_
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at https://feedback-form.truste.com/watchdog/request.
 
-1\. If your personal information changes, you may correct, update, or amend it by making the change on your subscriber profile page.  
-2\. If you no longer desire to use our services, you may deactivate your account by contacting us through your designated Member Services representative.  
-3\. You may request a copy of the information we hold about you so you can correct or amend information that may be inaccurate or incomplete by writing to your designated Member Services representative. In addition, we will ask you to provide sufficient evidence of your identity for your own protection so we can ensure that information is being released to the correct person. We will respond to your request within 30 days.  
-4\. To request the deletion of your information, please contact us through one of the methods listed below. In some cases, our business requirements and legal obligations may prevent us from being able to delete your information.
+Under certain conditions, more fully described on the [Privacy Shield website](https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint), you may invoke binding arbitration when other dispute resolution procedures have been exhausted.
 
-_DATA SHARING AND INTERNATIONAL TRANSFERS_
+Upon request CSID will provide you with information about whether we hold, or process on behalf of a third party, any of your personal information.  To request this information please contact us at [privacy@csid.com](mailto:privacy@csid.com).
 
-1\. Except as described in this Privacy Policy, we will not share your personal information with third parties without your consent.  
-2\. If we transfer your personal information to another country, we will take appropriate measures to protect your privacy and the personal information we transfer.
+You may access, correct, or request deletion of your personal information by logging in to your account, contacting us at [privacy@csid.com](mailto:privacy@csid.com). We will respond to these requests within a reasonable timeframe.
 
-_ENFORCEMENT_
-
-We will verify adherence to this Privacy Policy via in-house and third party compliance audits administered by TRUSTe. In addition, if necessary, we will cooperate with an independent third party as a means of providing you with a mechanism by which any complaints and disputes can be investigated and satisfactorily remedied.
+We may retain your information for as long as your account is active or as needed to provide you services, comply with our legal and audit obligations, resolve disputes and enforce our agreements.
 
 **8\. DO WE USE COOKIES?**
 
-We, and the third parties we engage to perform analytics services, automatically collect certain general information when you access our web site, via Cookies, Log Files, Web Beacons, Flash LSOs and other tracking technologies (the “Tracking Technologies”). We and the third parties we engage use these Tracking Technologies to administer and improve our web site and the content on it, including to track user movements around the web site, to gather usage information and statistics about how our web site is used, to permit users to log in or enroll in our services, to store user preferences, and to customize content. We do not use cookies for marketing or advertising purposes.
+We, and the third parties we engage to perform analytics services, automatically collect certain general information when you access our web site, via Cookies, Log Files, Web Beacons, and other tracking technologies (the “Tracking Technologies”). We and the third parties we engage use these Tracking Technologies to administer and improve our web site and the content on it, including to track user movements around the web site, to gather usage information and statistics about how our web site is used, to permit users to log in or enroll in our services, to store user preferences, and to customize content. We do not use cookies for marketing or advertising purposes.
 
 We may combine the information we have automatically collected from you with other information we collect about you. We do this to improve services we offer you, to improve, analytics, or web site functionality, and to develop new products and services. The following are some examples of information we may collect:
 
@@ -132,9 +122,9 @@ privacy@csid.com
 
 **MAIL**
 
-_**CSID**_  
-_**Attn: Legal Department**_  
-_**1501 S. Mopac Exp. Suite 200**_  
-_**Austin, TX 78746**_
+**_CSID_**  
+**_Attn: Legal Department_**  
+**_1501 S. Mopac Exp. Suite 200_**  
+**_Austin, TX 78746_**
 
-Effective Date: October 5, 2015
+Effective Date: September 12, 2016
