@@ -1,14 +1,15 @@
-> *The following text is extracted and transformed from the customergauge.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508134751id_/https%3A//customergauge.com/company-profileprivacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the customergauge.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330090417id_/https%3A//customergauge.com/company-profileprivacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement | CustomerGauge.com
+# Privacy Statement | CustomerGauge
 
-_Privacy Statement Effective as of 2 October, 2013_
+_Privacy Statement updated 27 Jan 2017  
+_
 
-CustomerGauge (or the “Company”), known as CustomerGauge/Directness BV and CustomerGauge USA LLC company, is committed to protecting the privacy of individuals who visit the Company’s Web sites and individuals who register to use the Services as defined below. This Privacy Statement describes CustomerGauge’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by CustomerGauge (the “Services”).
+CustomerGauge (or the “Company”), known as CustomerGauge and CustomerGauge USA LLC and Directness BV, is committed to protecting the privacy of individuals who visit the Company’s Web sites and individuals who register to use the Services as defined below. This Privacy Statement describes CustomerGauge’s privacy practices in relation to the use of the Company’s Web sites and the related applications and services offered by CustomerGauge (the “Services”).
 
 ## 1\. Web Sites Covered
 
-This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: https://customergauge.com, http://cloudgauge.com, http://cg-express.com (collectively referred to as “CustomerGauge Web sites” or “the Company’s Web sites”).
+This Privacy Statement covers the information practices of Web sites that link to this Privacy Statement, including: https://customergauge.com, https://npsbenchmarks.com, http://cloudgauge.com, http://cg-express.com (collectively referred to as “CustomerGauge Web sites” or “the Company’s Web sites”).
 
 CustomerGauge Web sites may contain links to other Web sites. The information practices or the content of such other Web sites are governed by the privacy statements of such other Web sites. The Company encourages you to review the privacy statements of other Web sites to understand their information practices.
 
@@ -80,7 +81,7 @@ CustomerGauge reserves the right to use or disclose information provided if requ
 
 To facilitate CustomerGauge’s global operations, the Company may transfer and access Data About CustomerGauge Customers from around the world, including the United States. This Privacy Statement shall apply even if CustomerGauge transfers Data About CustomerGauge Customers to other countries.
 
-For European visitors to the CustomerGauge Web site and users of the CustomerGauge Services, please note that in order to provide the information or services requested, your Personal Information may be transferred outside of the European Economic Area (“EEA”). By visiting the CustomerGauge Web site or using the CustomerGauge Services, you agree to CustomerGauge transferring your Personal Information outside the EEA. Certain clients have agreements with CustomerGauge that their own client data is not transferred outside the EEA and information on this can be obtained in writing from CustomerGauge..
+For European visitors to the CustomerGauge Web site and users of the CustomerGauge Services, please note that in order to provide the information or services requested, your Personal Information may be transferred outside of the European Economic Area (“EEA”). By visiting the CustomerGauge Web site or using the CustomerGauge Services, you agree to CustomerGauge transferring your Personal Information outside the EEA. Certain clients have agreements with CustomerGauge that their own client data is not transferred outside the EEA and information on this can be obtained in writing from CustomerGauge.
 
 ## 8\. Communications Preferences
 
@@ -112,4 +113,4 @@ CustomerGauge reserves the right to change this Privacy Statement. CustomerGauge
 
 ## 14\. Contacting Us
 
-Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to CustomerGauge Privacy at support@customergauge.com or by mailing CustomerGauge  Privacy (c/o Directness BV), van Diemenstraat 182b, Amsterdam 1013CP, The Netherlands.
+Questions regarding this Privacy Statement or the information practices of the Company’s Web sites should be directed to CustomerGauge Privacy at support@customergauge.com or by mailing CustomerGauge  Privacy (c/o CustomerGauge/Directness BV), van Diemenstraat 182b, Amsterdam 1013CP, The Netherlands.
