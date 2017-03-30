@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialgo.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909144010id_/https%3A//www.socialgo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialgo.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330174647id_/https%3A//www.socialgo.com/privacy) for the most accurate reproduction.*
 
 # SocialGO Privacy Policy
 
