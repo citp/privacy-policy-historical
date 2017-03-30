@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trvlclick.com privacy policy that was archived on 2016-06-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160605203246id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trvlclick.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330035539id_/http%3A//www.travelclick.com/en/privacy_policy%3Fformat%3Dsimple) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,7 +6,10 @@ This Privacy Policy applies to TravelClick, Inc. and its subsidiaries (collectiv
 
 Personal information that we receive, collect or process from or on behalf of third parties, including our customers and business partners, is governed by the privacy policies of those third parties. For example, the personal information that we receive from individuals using our Services to make a hotel reservation at a particular hotel belongs to the hotel property and is governed by its privacy policy. We are not responsible for the policies or actions of our customers, business partners, or other third parties with respect to personal information.
 
-We adhere to the Safe Harbor Principles of the United States Department of Commerce in our handling of personal information transferred from the European Union to the United States. To learn more about the Safe Harbor Program, and to view TravelClick’s certification of adherence to these Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement, please visit  [www.export.gov/safeharbor](http://www.export.gov/safeharbor).
+#### Transfer of Your Information Outside the EEA
+
+We may transfer some of your information to the United States in order to process booking reservations and other transactions. Because the United States does not have equivalent data protection legislation protecting the use of your personal information, we comply with European Union law by using Standard Contractual Clauses approved by the European Commission or by adopting other means to ensure that adequate safeguards are applied.  
+ 
 
 #### Notice
 
@@ -47,6 +50,16 @@ You can also adjust your Internet browser settings to refuse cookies. However, s
 #### **Access**
 
 We will provide you with access to your personal information stored on our active servers upon request, subject to a reasonable handling charge. You may correct or update such information by sending an email to [cs@travelclick.com](mailto:cs@travelclick.com), with “privacy policy update” in the subject line. We will also delete your personal information from our active servers, upon your written request, unless we are required to retain it by law or other legal obligation. 
+
+#### **Use of Cookies and Similar Technologies**
+
+In addition, we deploy cookies, tracking pixels, web beacons and other technologies on our websites and those of our customers (in desktop and on mobile devices). These tools may be used by us, our customers, and third parties to collect information about you and your internet activity, even if you have turned on DNT.
+
+Do Not Track (DNT) is a privacy preference that users can set in their web browsers. When a user turns on DNT, the browser sends a message to websites requesting that they don’t track the user. At this time, we ignore these signals.  We do not change our practices, described elsewhere in this privacy policy, in response to Do Not Track browser settings or signals. For information about DNT, visit [www.allaboutdnt.org](http://www.allaboutdnt.org/).
+
+The cookies we set include retargeting cookies that collect information about your browsing habits in order to make advertising more relevant to you and your interests. They are also used to limit the number of times you see an advert as well as help measure the effectiveness of an advertising campaign. For example, we use third party companies such as DoubleClick (from Google) to provide you with more personalised adverts when visiting other websites. You can manage your preferences and opt-out of Google's interest-based ads in your [Google Ads Setting](http://www.google.com/settings/ads). 
+
+Alternatively, you may wish to visit [www.aboutcookies.org](http://www.aboutcookies.org/), which contains comprehensive information on how to do this on a wide variety of desktop. However, please note that if you select such settings you may be unable to assess certain parts of our site, or certain content or functionality may not be available. If you are in the EEA and would like to opt out of third party cookies relating to behavioural advertising, please go to [www.youronlinechoices.eu](http://www.youronlinechoices.eu/). 
 
 #### **Do Not Track**
 
