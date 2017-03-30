@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the exadel.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117092612id_/https%3A//www.exadel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the exadel.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330172231id_/http%3A//www.exadel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Statement - Exadel
 
