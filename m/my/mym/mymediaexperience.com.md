@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mymediaexperience.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120123753id_/http%3A//mymediaexperience.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mymediaexperience.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331002216id_/http%3A//mymediaexperience.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - My Media Experience -
 
