@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fooda.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223235742id_/https%3A//www.fooda.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fooda.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331001236id_/https%3A//www.fooda.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Fooda
 
