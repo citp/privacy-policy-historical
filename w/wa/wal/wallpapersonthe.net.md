@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wallpapersonthe.net privacy policy that was archived on 2016-11-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161129200315id_/http%3A//wallpapersonthe.net/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wallpapersonthe.net privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330125115id_/http%3A//wallpapersonthe.net/policy) for the most accurate reproduction.*
 
 # Privacy policy for Wallpapers and Users | WallpapersOnThe.Net
 
