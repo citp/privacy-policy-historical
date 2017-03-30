@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meeton.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223142448id_/http%3A//www.meeton.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meeton.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330182513id_/http%3A//www.meeton.com/privacy-policy.html) for the most accurate reproduction.*
 
 # MeetON.com
 
@@ -82,5 +82,3 @@ This Privacy Policy, together with the Terms of Service, all policies currently 
 
 
 Updated: January 20, 2013
-
-Copyright MeetON. All rights Reserved
