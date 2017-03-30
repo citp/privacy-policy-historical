@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the anypromo.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127062721id_/http%3A//www.anypromo.com/help/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the anypromo.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330171410id_/https%3A//www.anypromo.com/help/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Use & Disclosure Info. - AnyPromo.com
 
@@ -10,11 +10,11 @@ Except as otherwise discussed in this Privacy Policy, this document only address
 
 Attn: Privacy Compliance Officer
 
-ANYPROMO.COM, Inc.
+AnyPromo.com
 
-13437 Benson Ave.
+1511 E Holt Blvd
 
-Chino, CA 91710
+Ontario, CA 91761
 
 This Privacy Policy will explain the following regarding use of our site: 
 
@@ -195,7 +195,7 @@ We believe you should have the ability to access and edit the personal informati
 
  **6.What are your choices regarding collection, use, and distribution of your information?**
 
-You may "opt-out," or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us, or by sending an e-mail to _[unsubscribe@anypromo.com](https://web.archive.org/mailto:unsubscribe@anypromo.com)_. After doing so, if you have opted out of receiving all newsletters, all promotional emails or all personalized on-line ads, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you open a new account, enter a contest, or otherwise subsequently sign up to receive newsletters, emails or personalized on-line advertisements. 
+You may "opt-out," or unsubscribe from our newsletters, emails or personalized on-line advertisements by following any unsubscribe instructions in any e-mail, newsletter or personalized on-line advertisement you receive from us, or by sending an e-mail to _[unsubscribe@anypromo.com](mailto:unsubscribe@anypromo.com)_. After doing so, if you have opted out of receiving all newsletters, all promotional emails or all personalized on-line ads, you will not receive future promotional emails, newsletters or personalized on-line advertisements (as applicable), unless you open a new account, enter a contest, or otherwise subsequently sign up to receive newsletters, emails or personalized on-line advertisements. 
 
 Ad-servers and other Content Servers: You may also set your browser so that it will not accept "cookies" to prevent assignment from the ad server of a unique identifier; however, you may experience difficulty shopping on our site and performing other transactions if you do so. 
 
@@ -239,11 +239,11 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 Attn: Privacy Compliance Officer
 
-AnyPromo, Inc.
+AnyPromo.com
 
-13437 Benson Ave.
+1511 E Holt Blvd
 
-Chino, CA 91710
+Ontario, CA 91761
 
  **12.Privacy Policy changes**
 
