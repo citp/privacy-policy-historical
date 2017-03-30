@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126125503id_/http%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kitepackaging.co.uk privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330153349id_/https%3A//www.kitepackaging.co.uk/scp/help-and-guides/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kite Packaging
-
-[Help and Guides](https://web.archive.org/mcp/help-and-guides/) > Privacy & Cookie Policy
 
 Based in England, our principal activity is online packaging distribution, through our website at [www.kitepackaging.co.uk](http://www.kitepackaging.co.uk/). This privacy policy sets out how Kite Packaging uses and protects any information that you give Kite Packaging when you use our website. 
 
@@ -62,7 +60,7 @@ We require this information to understand your needs and provide you with a bett
   * Internal record keeping. 
   * We may use the information to improve our products and services and ensure that content on our website is presented in the most effective manner. 
   * We may provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about.
-  * We may then periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. If you are an existing customer, we will only contact you by e-mail with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, we will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way please tick the relevant box situated on the form on which we collect your data. On each email sent this way, there is a clear link to permanently unsubscribe from our email campaigns.
+  * We may then periodically send promotional emails about new products, special offers or other information which we think you may find interesting using the email address which you have provided. If you are an existing customer, we will only contact you by e-mail with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer, we will contact you by electronic means only if you have consented to this. On each email sent this way, there is a clear link to permanently unsubscribe from our email campaigns.
 
 
 
