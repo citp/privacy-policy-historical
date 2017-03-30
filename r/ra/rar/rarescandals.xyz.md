@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the rarescandals.xyz privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113053058id_/http%3A//www.rarescandals.xyz/static/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rarescandals.xyz privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330225806id_/http%3A//www.rarescandals.xyz/static/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - rarescandals
+
+This community for Rare Scandals videos only, Upload any other videos here [bullsrush.com](http://www.bullsrush.com/)
 
 ## Privacy Policy
 
