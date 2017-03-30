@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gobble.com privacy policy that was archived on 2016-07-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160711080812id_/https%3A//www.gobble.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gobble.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330152552id_/https%3A//www.gobble.com/privacy) for the most accurate reproduction.*
 
 # Dinner kits designed for 10 minutes with 1 pan | Gobble
 
