@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fabkids.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206084210id_/http%3A//www.fabkids.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fabkids.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330201420id_/https%3A//www.fabkids.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | FabKids
 
@@ -24,7 +24,7 @@ There are certain circumstances in which we may share your personal information 
 
 
   * We may share information about you with trusted third parties in order to improve your customer experience. These third parties may contact you about products, services or promotions you may be interested in, or to otherwise improve your customer experience with this Site.
-  * We may share information about you, such as your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us via our third-party advertising partners and its service providers, in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partners will make the data we provide to it anonymous. To learn more about the use of this information or to make choices about receiving personalized advertising provided by third parties, please visit the Network Advertising Initiative by clicking here (<http://www.networkadvertising.org/choices>).
+  * We may share information about you, such as your name, address, email address, as well as a record of any transactions you conduct on our website or offline with us via our third-party advertising partners and its service providers, in order to deliver to you banner advertisements and other advertising tailored to your interests when you visit certain websites. Our advertising partners will make the data we provide to it anonymous. To learn more about the use of this information or to make choices about receiving personalized advertising provided by third parties, please visit the Network Advertising Initiative by clicking here (<https://www.networkadvertising.org/choices>).
   * As we develop our business, we might sell or buy businesses or assets. In the event of a corporate sale, merger, reorganization, dissolution or similar event, your information may be part of the transferred assets.
   * When we believe in good faith that disclosure is necessary to protect the rights, property and safety of FabKids, its users or the public.
   * As required by law, to comply with a judicial proceeding or court order, to exercise our rights, or to defend against any claims.
@@ -49,7 +49,7 @@ The security of your personal information is important to us. When you provide s
 
 ### Opting Out
 
-We may occasionally send you newsletters and emails regarding special offers, promotions, features and/or product updates. We may also communicate with you on behalf of third parties about special offers, promotions, features and/or product updates we think may be of interest to you, or you may have opted-in to receive newsletters or special promotions from one of our trusted third party providers. If you decide you do not wish to receive these communications, you may opt-out by clicking the unsubscribe link or by following the instructions included in the communication. Note however that as user of the Services you cannot opt-out of some administrative communications that are reasonably necessary to the Services, such as billing or service notifications. You may also opt-out of certain targeted advertising by visiting <http://www.networkadvertising.org/choices>.
+We may occasionally send you newsletters and emails regarding special offers, promotions, features and/or product updates. We may also communicate with you on behalf of third parties about special offers, promotions, features and/or product updates we think may be of interest to you, or you may have opted-in to receive newsletters or special promotions from one of our trusted third party providers. If you decide you do not wish to receive these communications, you may opt-out by clicking the unsubscribe link or by following the instructions included in the communication. Note however that as user of the Services you cannot opt-out of some administrative communications that are reasonably necessary to the Services, such as billing or service notifications. You may also opt-out of certain targeted advertising by visiting <https://www.networkadvertising.org/choices>.
 
 ### Links to Other Sites
 
@@ -117,7 +117,7 @@ London, WC2E9NA
 United Kingdom  
 
 
-FabKids has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. There is no charge to consumers for calling or using this independent dispute resolution mechanism.
+FabKids has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. There is no charge to consumers for calling or using this independent dispute resolution mechanism.
 
 Under certain limited conditions, European Union individuals may be able to invoke binding arbitration before the Privacy Shield Panel to be created by the U.S. Department of Commerce and the European Commission.
 
