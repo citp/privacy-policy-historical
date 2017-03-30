@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the printavo.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818184149id_/https%3A//www.printavo.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the printavo.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330043027id_/https%3A//www.printavo.com/privacy) for the most accurate reproduction.*
 
 # Printavo - Privacy - Simple screen printing software to help manage your shop. Shop management software in the cloud.
 
