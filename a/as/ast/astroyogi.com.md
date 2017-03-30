@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the astroyogi.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119030700id_/http%3A//www.astroyogi.com/policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the astroyogi.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330114408id_/http%3A//www.astroyogi.com/policy.aspx) for the most accurate reproduction.*
 
-# 
+# Policy - Astroyogi.com
 
 ## Privacy Policy
 
