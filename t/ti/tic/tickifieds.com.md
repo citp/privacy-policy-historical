@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickifieds.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121002555id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickifieds.com privacy policy that was archived on 2017-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170330232744id_/http%3A//www.tickifieds.com/privacy) for the most accurate reproduction.*
 
 # Tickifieds Privacy Policy
 
@@ -57,34 +57,38 @@ Ultimately, you are solely responsible for maintaining the secrecy of your passw
 If you have any enquiries or wish to provide feedback about this policy, please email [admin@tickifieds.com](mailto:admin@tickifieds.com).
 
   
-[](http://ztix.com/)
+
 
 ## Popular Events in this Category
 
 | Ad Title | Event Date [](http://www.tickifieds.com/sorting/modify/item_search-showhtmllist-20576/dir/a/attr/col_11)[](http://www.tickifieds.com/sorting/modify/item_search-showhtmllist-20576/dir/d/attr/col_11)  
 ---|---|---  
   
-[](http://www.tickifieds.com/nascar/225066_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets)
+[](http://www.tickifieds.com/mlb/national_league/chicago_cubs/228993_lady_gaga_meet_and_greet_passes_2017_wrigley_field)
 
-|  [Phoenix International Raceway - Quicken Loans Race For Heroes 500 Tickets](http://www.tickifieds.com/nascar/225066_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets) |  Tue November 15, 2016   
-NASCAR Sprint Cup Series: Quicken Loans Race For Heroes 500 Phoenix International Raceway Sun, Nov 15 2015, lots of great tickets on sale now and ready to ship, order early, NASCAR Sprint Cup Series: Quicken Loans ...   
+|  [**Lady Gaga Meet and Greet Passes 2017 Wrigley Field**](http://www.tickifieds.com/mlb/national_league/chicago_cubs/228993_lady_gaga_meet_and_greet_passes_2017_wrigley_field) |  Fri August 25, 2017   
+Meet LADY GAGA live before her historic show at Wrigley Field!! We have 4 VIP meet and greet passes available for the sold out show on 8/25/2017. Get them now before they are GONE!! Cheap Lady Gaga Tickets for sale! The ...   
   
-[](http://www.tickifieds.com/nascar/225065_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets)
+[](http://www.tickifieds.com/concerts_and_events/massachusetts/228702_shawn_mendes_vip_meet_and_greet_passes)
 
-|  [Phoenix International Raceway - Quicken Loans Race For Heroes 500 Tickets](http://www.tickifieds.com/nascar/225065_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets) |  Tue November 15, 2016   
-NASCAR Sprint Cup Series: Quicken Loans Race For Heroes 500 Phoenix International Raceway Sun, Nov 15 2015, lots of great tickets on sale now and ready to ship, order early, NASCAR Sprint Cup Series: Quicken Loans ...   
+|  [**Shawn Mendes VIP Meet and Greet Passes**](http://www.tickifieds.com/concerts_and_events/massachusetts/228702_shawn_mendes_vip_meet_and_greet_passes) |  Wed August 23, 2017   
+Meet and Greet with Shawn Mendes - 08/23/2017 7:30PM - TD Garden - Boston, MA. WOW1!! 
+
+Meet and Greet Deluxe Package includes: Meet and Greet with Shawn Mendes Premium reserved floor ticket ...   
   
-[](http://www.tickifieds.com/nascar/225064_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets)
+[](http://www.tickifieds.com/concerts_and_events/d_c/228704_bruno_mars_vip_meet_and_greet_passes)
 
-|  [Phoenix International Raceway - Quicken Loans Race For Heroes 500 Tickets](http://www.tickifieds.com/nascar/225064_phoenix_international_raceway___quicken_loans_race_for_heroes_500_tickets) |  Tue November 15, 2016   
-NASCAR Sprint Cup Series: Quicken Loans Race For Heroes 500 Phoenix International Raceway Sun, Nov 15 2015, lots of great tickets on sale now and ready to ship, order early, NASCAR Sprint Cup Series: Quicken Loans ...   
+|  [**Bruno Mars VIP MEET and GREET PASSES**](http://www.tickifieds.com/concerts_and_events/d_c/228704_bruno_mars_vip_meet_and_greet_passes) |  Fri September 29, 2017   
+Bruno Mars VIP Meet and Greet Passes - 09/29/2017 8:00PM - Verizon Center - DC - Washington, DC 
+
+Requires separate event ticket for use. These tickets are paperless. You will receive them at the venue on ...   
   
-[](http://www.tickifieds.com/concerts_and_events/illinois/226195_soldier_field_stadium_chicago___new_zealand_all_blacks_vs__ireland_tickets)
+[](http://www.tickifieds.com/concerts_and_events/texas/228822_buy_cheap_2017_houston_rodeo_ft__zac_brown_band_tickets)
 
-|  [**Soldier Field Stadium Chicago - New Zealand All Blacks vs. Ireland Tickets**](http://www.tickifieds.com/concerts_and_events/illinois/226195_soldier_field_stadium_chicago___new_zealand_all_blacks_vs__ireland_tickets) |  Sat November 05, 2016   
-New Zealand All Blacks vs. Ireland rugby match at Soldier Field Stadium Chicago Sat, Nov 5 2016, order now have limited ticket supply, for Rugby tickets see 123GetaTicket - The Little Guys with Lots of Great Tickets ...   
+|  [**Buy Cheap 2017 Houston Rodeo ft. Zac Brown Band Tickets**](http://www.tickifieds.com/concerts_and_events/texas/228822_buy_cheap_2017_houston_rodeo_ft__zac_brown_band_tickets) |  Sun March 26, 2017   
+See Houston Rodeo ft. Zac Brown Band live from your seats in section Grid Iron Sideline 635 at NRG Stadium on 3/26/2017!! We have 4 premium tickets available in section Grid Iron Sideline 635 row F to see Houston Rodeo ...   
   
-[](http://www.tickifieds.com/concerts_and_events/illinois/226649_chicago_international_rugby__new_zealand_all_blacks_vs__ireland_tickets)
+[](http://www.tickifieds.com/mls/international_soccer/uefa_champions_league/225947_uefa_champions_league__fc_barcelona_vs__arsenal_fc_tickets)
 
-|  [**Chicago International Rugby: New Zealand All Blacks vs. Ireland Tickets**](http://www.tickifieds.com/concerts_and_events/illinois/226649_chicago_international_rugby__new_zealand_all_blacks_vs__ireland_tickets) |  Sat November 05, 2016   
-New Zealand All Blacks vs. Ireland rugby tickets, for Soldier Field Stadium Chicago Sat, Nov 5 2016, order early to get the best seats, for Rugby tickets and schedules see 123GetaTicket - bringing together fans and ... 
+|  [**UEFA Champions League: FC Barcelona vs. Arsenal FC Tickets**](http://www.tickifieds.com/mls/international_soccer/uefa_champions_league/225947_uefa_champions_league__fc_barcelona_vs__arsenal_fc_tickets) |  Thu March 16, 2017   
+FC Barcelona vs. Arsenal FC tickets, UEFA Champions League Wed, Mar 16 2016 Camp Nou Barcelona, Spain, have limited tickets order today, for soccer & futbol tickets see 123GetaTicket - online Ticket Brokers since ... 
