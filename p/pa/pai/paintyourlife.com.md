@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the paintyourlife.com privacy policy that was archived on 2015-09-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150916073154id_/https%3A//www.paintyourlife.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the paintyourlife.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331185203id_/https%3A//www.paintyourlife.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Privacy Policy
+
+## Privacy Policy
 
 This Privacy Policy governs the manner in which PaintYourLife Limited collects, uses, maintains and discloses information collected from users (each, a "User") of the [www.paintyourlife.com](http://www.paintyourlife.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by PaintYourLife Limited. 
 
