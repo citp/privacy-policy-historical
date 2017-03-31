@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the stoeltingco.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127160913id_/http%3A//www.stoeltingco.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stoeltingco.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331050813id_/https%3A//www.stoeltingco.com/privacy) for the most accurate reproduction.*
 
 # Privacy
 
