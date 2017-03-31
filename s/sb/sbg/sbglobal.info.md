@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sbglobal.info privacy policy that was archived on 2015-09-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150918173535id_/http%3A//www.sbglobal.info/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sbglobal.info privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331144024id_/http%3A//www.sbglobal.info/privacy-policy.aspx) for the most accurate reproduction.*
 
 # privacy policy
 
