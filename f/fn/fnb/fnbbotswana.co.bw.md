@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fnbbotswana.co.bw privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115151323id_/https%3A//www.fnbbotswana.co.bw/legal-matters/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fnbbotswana.co.bw privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331065256id_/https%3A//www.fnbbotswana.co.bw/legal-matters/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Legal Terms and Conditions - FNB
 
