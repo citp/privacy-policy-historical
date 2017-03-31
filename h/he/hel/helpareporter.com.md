@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the helpareporter.com privacy policy that was archived on 2016-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160924224523id_/https%3A//www.helpareporter.com/privacy-policy/%3Fnav_location%3Dfooter) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpareporter.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331131211id_/https%3A//www.helpareporter.com/privacy-policy/%3Fnav_location%3Dfooter) for the most accurate reproduction.*
 
 # Privacy Policy | Help A Reporter
-
-**[](https://www.helpareporter.com/)**
 
 **1\. Company**
 
