@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kanopystreaming.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028194040id_/https%3A//www.kanopystreaming.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kanopystreaming.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401002028id_/https%3A//www.kanopystreaming.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Kanopy
 
