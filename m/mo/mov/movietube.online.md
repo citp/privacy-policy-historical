@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movietube.online privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508045902id_/https%3A//movietube.online/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movietube.online privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331040936id_/https%3A//movietube.online/privacy_policy) for the most accurate reproduction.*
 
 # Privacy Policy -
 
