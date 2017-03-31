@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the newyorkpass.com privacy policy that was archived on 2015-07-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150709101225id_/https%3A//www.newyorkpass.com/En/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the newyorkpass.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331173409id_/https%3A//www.newyorkpass.com/En/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - New York Pass
 
