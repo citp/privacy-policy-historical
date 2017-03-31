@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ohsweetbasil.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229061756id_/http%3A//www.ohsweetbasil.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ohsweetbasil.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331084659id_/http%3A//www.ohsweetbasil.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Oh Sweet Basil
 
