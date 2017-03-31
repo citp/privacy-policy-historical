@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the healthambition.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616151652id_/http%3A//www.healthambition.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the healthambition.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331134419id_/https%3A//www.healthambition.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy
 
