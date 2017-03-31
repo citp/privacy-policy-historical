@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manuallinkbuilding.co.uk privacy policy that was archived on 2016-06-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160607161420id_/http%3A//marketingsignals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manuallinkbuilding.co.uk privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331144030id_/https%3A//www.marketingsignals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Marketing Signals
 
