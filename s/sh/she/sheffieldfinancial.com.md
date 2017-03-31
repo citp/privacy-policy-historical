@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the sheffieldfinancial.com privacy policy that was archived on 2016-12-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161206043114id_/https%3A//www.sheffieldfinancial.com/forms/Privacy_Notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sheffieldfinancial.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331224535id_/http%3A//www.sheffieldfinancial.com/forms/Privacy_Notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                     Rev. 03/2014
+                                                                                                     Rev. 09/2016
                      WHAT DOES BB&T DO
 FACTS                WITH YOUR PERSONAL INFORMATION?
 Why?                 Financial companies choose how they share your personal information. Federal law
@@ -56,7 +56,7 @@ Questions?           Call 1-888-800-3420
                                             consumer information only for legitimate business purposes and to keep
                                             information about you confidential.
   How does BB&T collect my                  We collect your personal information, for example, when you
-  personal information?                     n open an account or provide account information
+  personal information?                     n  open an account or provide account information
                                             n apply for a loan or seek advice about your investments
                                             n give us your employment history
                                             We also collect your personal information from others, such as credit
@@ -72,26 +72,30 @@ Questions?           Call 1-888-800-3420
   sharing for an account I hold
   jointly with someone else?
   Definitions
-  Affiliates                                Companies related by common ownership or control. They can be
+  Affiliates                                Companies related in common ownership or control. They can be finan-
+                                            cial and nonfinancial companies.
+                                            n Our affiliates include financial companies with BB&T in their name
+                                               such as BB&T Insurance Services, Inc., and BB&T Securities, LLC,
+                                               and financial companies such as Sterling Capital Management, LLC.
+                                            Companies not related by common ownership or control. They can be
+  Nonaffiliates
                                             financial and nonfinancial companies.
-                                            n  Our affiliates include financial companies such as banks, consumer
-                                               finance companies, securities broker-dealers, insurance agencies,
-                                               investment advisors, clearing firms, and mortgage companies.
-  Nonaffiliates                             Companies not related by common ownership or control. They can be
-                                            financial and nonfinancial companies.
-                                            n  Nonaffiliates we share with can include government entities, credit
+                                            n Nonaffiliates we share with can include government entities, credit
                                                bureaus, insurance companies, companies that perform marketing
                                                services on our behalf, and companies that assist in servicing your
                                                loan(s) or account(s) with us.
-  Joint marketing                           A formal agreement between nonaffiliated financial companies that
+                                            A formal agreement between nonaffiliated financial companies that
+  Joint marketing
                                             together market financial products or services to you.
-                                            n  Our joint marketing partners include financial institutions such as insur-
+                                            n Our joint marketing partners include financial institutions such as insur-
                                                ance companies and financial product or service marketing companies.
   Other important information
   You may have other privacy protections under some state laws. We will comply with applicable state laws
   as to information about you, including medical information.
   n Accounts with California addresses will be treated as if you opted out of joint marketing arrangements.
-  n Accounts with Vermont addresses will be treated as if you opted out of sharing information among our
-    affiliates and opted out of joint marketing arrangements.
+  n For Vermont customers. We will not disclose information about your creditworthiness to our affiliates
+    and will not disclose your personal information, financial information, credit report, or health
+    information to nonaffiliated third parties to market to you, other than as permitted by Vermont law,
+    unless you authorize us to make those disclosures.
 *BB&T Companies providing this notice are: BB&T Credit Services, Inc., BB&T Investment Services, Inc., BB&T Securities, LLC, Branch
 Banking and Trust Company, Regional Acceptance Corporation, Sterling Capital Management LLC.
