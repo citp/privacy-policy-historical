@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the glampinghub.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127072929id_/https%3A//glampinghub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the glampinghub.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331131529id_/https%3A//glampinghub.com/privacy-policy) for the most accurate reproduction.*
 
-# Glamping Hub
+# Privacy Policy | glampinghub.com
+
+## Glamping Hub
 
 ### 1\. Introduction
 
@@ -20,11 +22,11 @@ Whenever you use our Site or Service, we may collect non-identifying information
 
 We will never sell or transfer any personally identifiable information to third parties without your consent. However, you agree that we may use your information: 
 
-  * To enhance or improve our users' experiences.
-  * To provide our Service to you.
-  * To understand how you use our Site and Service.
-  * To contact you and to respond to inquiries.
-  * To send you newsletters and process transactions.
+  * · To enhance or improve our users' experiences.
+  * · To provide our Service to you.
+  * · To understand how you use our Site and Service.
+  * · To contact you and to respond to inquiries.
+  * · To send you newsletters and process transactions.
 
 
 
