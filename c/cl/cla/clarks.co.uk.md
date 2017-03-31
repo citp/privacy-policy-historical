@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621222555id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clarks.co.uk privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331123412id_/http%3A//www.clarks.co.uk/PrivacyPolicy) for the most accurate reproduction.*
 
 # Clarks Online - Clarks Privacy Policy - How We Use Your Data
 
