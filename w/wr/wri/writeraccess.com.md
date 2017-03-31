@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the writeraccess.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220105113id_/http%3A//www.writeraccess.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the writeraccess.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331191429id_/https%3A//www.writeraccess.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - WriterAccess :WriterAccess
 
