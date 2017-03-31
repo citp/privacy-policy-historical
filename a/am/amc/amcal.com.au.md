@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the amcal.com.au privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323161021id_/http%3A//www.amcal.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amcal.com.au privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331022329id_/https%3A//www.amcal.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Website Privacy Policy for Amcal
 
