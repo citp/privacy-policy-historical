@@ -1,18 +1,22 @@
-> *The following text is extracted and transformed from the guerrilla-games.com privacy policy that was archived on 2016-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160412205437id_/http%3A//www.guerrilla-games.com/templates/guerrilla/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guerrilla-games.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331200619id_/https%3A//www.guerrilla-games.com/privacy-policy) for the most accurate reproduction.*
 
-# Guerrilla Games - Privacy Policy
+# Privacy Policy - Guerrilla
 
-Guerrilla-Games.com (the "Website") is operated by Guerrilla Games of Herengracht 601, 1017 CE Amsterdam, The Netherlands ("Guerrilla"). This Privacy Policy ("Policy") explains what types of personal information we collect when you use this Website, how your information is used and safeguarded, and how you can contact us if you have any queries or concerns. 
+Guerrilla-Games.com (the "Website") is operated by Guerrilla of Herengracht 601, 1017 CE Amsterdam, The Netherlands ("Guerrilla"). The information collected via this website is controlled by Guerrilla’s parent company, Sony Computer Entertainment Europe Limited of 10 Great Marlborough Street, London W1F 7LP (“SCEE”).  
 
-### 1\. What kind of information do we collect?
 
-We collect information submitted via the Careers section of the Website, or e-mailed to us as part of a job application or job search process ("Application Information"). This information may include the applicant’s name, address, telephone number and email address, as well as resume or CV, cover letter, portfolio, and any other information relevant to the job application or job search process. 
+### What kind of information do we collect?
 
-In addition, we register visitor activity on the Website through the use of Google Analytics Cookies (see "[What Are Cookies And How Do We Use Them](https://web.archive.org/web/20160412205437id_/http%3A//www.guerrilla-games.com/templates/guerrilla/privacy.html#privacy4)", below).
+We collect information submitted via the "Join" section of the Website, or e-mailed to us as part of a job application or job search process ("Application Information"). This information may include the applicant’s name, address, telephone number and email address, as well as resume or CV, cover letter, portfolio, and any other information relevant to the job application or job search process.
 
-### 2\. What do we do with the information we collect?
+We also collect information submitted via the “Contact” section of the Website, including name, contact details and your message (“Contact Information”).  
 
-The Application Information we collect is used in a number of ways:
+
+In addition, we register visitor activity on the Website through the use of Google Analytics Cookies (see "What are cookies and how do we use them?", below).
+
+### What do we do with the information we collect?
+
+The Application Information we collect is used in a number of ways: 
 
   * To assess your skills, qualifications and interests against our career opportunities;
   * To verify your information and conduct reference checks;
@@ -22,30 +26,36 @@ The Application Information we collect is used in a number of ways:
 
 
 
-The Application Information is retained in accordance with local law. We may also retain Application Information to consider you for other jobs for which you may be qualified. If you accept employment with Guerrilla, the information collected will become part of your employment record and will be used for employment purposes. 
+The Application Information is retained in accordance with local law. We may also retain Application Information to consider you for other jobs for which you may be qualified. If you accept employment with Guerrilla, the information collected will become part of your employment record and will be used for employment purposes.
 
-### 3\. Who else has access to your information?
+We use Contact Information submitted via the “Contact” to respond to your message.
 
-Guerrilla employees, affiliated companies or entities acting on behalf of Guerrilla may have access to your Application Information for the purposes listed above. We take appropriate technical, organizational, and legal steps to protect your Application Information. Affiliate companies or entities acting on behalf of Guerrilla with whom we share your Application Information will be bound by terms of confidentiality and this Policy. 
+### Who else has access to your information?
 
-In exceptional circumstances, we may disclose your personal information if required by law or to protect or defend ourselves or others against illegal or harmful activities. If our business is sold or restructured, your details may be transferred as part of the business. 
+Guerrilla employees, affiliated companies or entities acting on behalf of Guerrilla may have access to your Application Information for the purposes listed above. We take appropriate technical, organizational, and legal steps to protect your Application Information. Affiliate companies or entities acting on behalf of Guerrilla with whom we share your Application Information will be bound by terms of confidentiality and this Policy.
 
-### 4\. What are Cookies and how do we use them?
+In exceptional circumstances, we may disclose your personal information if required by law or to protect or defend ourselves or others against illegal or harmful activities. If our business is sold or restructured, your details may be transferred as part of the business.
 
-Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. Due to their core role of enhancing usability or site processes, disabling Cookies may prevent you from using certain websites. If you wish to learn how to enable, disable or delete Cookies, please consult the instructions or help functionality of your web browser. 
+### What are cookies and how do we use them?
 
-This Website uses Cookies by Google Analytics, a web analytics service provided by Google, Inc. ("Google"). They help us analyze how you use the Website. The information generated by the Cookies about your use of the Website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of the Website, compiling reports on Website activity for us and providing other services relating to Website activity and internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Google will not associate your IP address with any other data held by Google. 
+Cookies are small text files that are placed on your computer by websites that you visit. They are widely used in order to make websites work, or work more efficiently, as well as to provide information to the owners of the site. Due to their core role of enhancing usability or site processes, disabling Cookies may prevent you from using certain websites. If you wish to learn how to enable, disable or delete Cookies, please consult the instructions or help functionality of your web browser.
 
-For more information on the Cookies set by Google Analytics, including information on how to opt out, please visit <http://www.google.com/intl/en/privacypolicy.html>. For more information on Cookies in general, please visit <http://www.allaboutcookies.org/>. 
+This Website uses Cookies by Google Analytics, a web analytics service provided by Google, Inc. ("Google"). The information generated by the Cookies about your use of the Website (including your IP address) will be transmitted to and stored by Google on servers in the United States. We engage Google to do this in order to evaluate your use of the Website and compile reports on Website activity for us. We use this information to improve this and other websites.
 
-### 5\. How is your information protected?
+For more information on the Cookies set by Google Analytics, including information on how to opt out, please visit <http://www.google.com/intl/en/privacypolicy.html>. For more information on Cookies in general, please visit <http://www.allaboutcookies.org/>.
 
-We take commercially reasonable steps to protect your personal information. This includes setting up processes and procedures to minimize unauthorized access to or disclosure of your information. However, we do not guarantee that we will eliminate all risk of misuse of your personal information by intruders. 
+### How can you contact us?
 
-### 6\. How can you contact us?
+European data protection law provides individuals with certain rights to know what personal information an organisation holds about them and how that information is processed, as well as allowing them to seek amendment, blocking and erasure of such information, subject to some exceptions and conditions. If you would like to exercise any rights you may have, please contact us at [dpo@scee.net](mailto:dpo@scee.net) or write to SCEE at the address above.
 
-You are legally entitled to know what personal information an organization holds about you and how that information is processed. If you would like to know what information we currently hold about you, please contact us at [info@guerrilla-games.com](mailto:info@guerrilla-games.com) or write to Guerrilla Games, Herengracht 601, 1017 CE Amsterdam, The Netherlands. Please note we may ask you to provide proof of identity and charge a small administration fee. 
+### Changes to this policy
 
-### 7\. Changes to this Policy
+We may change this Policy from time to time. We will list any changes to the Policy at the bottom of this page.
 
-We may change this Policy from time to time. We will list any changes to the Policy at the bottom of this page. This initial version of our Privacy Policy was created on July 2, 2012. 
+### Changelog
+
+  * _July 2, 2012:_  Initial version of the Privacy Policy document.
+  *  _April 12, 2016:_ Updates to document structure and section headings to match new website.
+  *  _May 26, 2016:_  Clarification that information collected via this Website is controlled by SCEE, Guerrilla’s parent company and also to remove and update provisions inconsistent with practice. No significant change to how your personal information is processed.
+
+
