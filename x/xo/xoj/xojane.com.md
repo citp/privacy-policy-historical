@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the xojane.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229034833id_/http%3A//www.xojane.com/page/privacy-policy-xojane) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xojane.com privacy policy that was archived on 2017-03-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170331035641id_/http%3A//www.xojane.com/page/privacy-policy-xojane) for the most accurate reproduction.*
 
 # xoJane Privacy Policy - xoJane
 
