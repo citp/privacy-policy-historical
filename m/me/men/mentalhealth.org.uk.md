@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mentalhealth.org.uk privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201034809id_/http%3A//www.mentalhealth.org.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mentalhealth.org.uk privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401195734id_/https%3A//www.mentalhealth.org.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Mental Health Foundation
 
@@ -47,7 +47,8 @@ Mental Health Foundation processes your personal data for the following purposes
 
 We may store information about you using cookies (files which are sent by us to your computer or other access device) which we can access when you visit our site in future. We do this to see how you use our site, so we can keep improving it.
 
-If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies.   
+If you want to delete any cookies that are already on your computer, please refer to the instructions for your file management software to locate the file or directory that stores cookies. 
+
 Information on deleting or controlling cookies is available at [www.AboutCookies.org](http://www.aboutcookies.org/). Please note that by deleting our cookies or disabling future cookies you may not be able to access certain areas or features of our site.
 
 #### Website security
@@ -73,7 +74,7 @@ Your gift will be used where the need is greatest.
 
 For some practical tips to manage your own mental health in these unpredictable times text TIPS to 70300 to receive regular updates from the Mental Health Foundation.
 
-Although the texts are free to receive, you will be charged your standard network rate when you text 70300. By texting this number you consent to us keeping you up to date on how you can donate to us, and how you can get involved in our activities including fundraising, unless you tell us otherwise by emailing [supporter@mentalhealth.org.uk](mailto:supporter@mentalhealth.org.uk). You can stop communication at any time by texting STOP to 70300.
+Although the texts are free to receive, you will be charged your standard network rate when you text 70300. By texting this number you consent to us keeping you up to date on how you can donate to us, and how you can get involved in our activities including fundraising; there is no obligation to give. You can stop communication by text and phone at any time by texting REMOVE to 70300 or email [supporter@mentalhealth.org.uk](mailto:supporter@mentalhealth.org.uk) with your mobile number.
 
 #### Regular gift 
 
