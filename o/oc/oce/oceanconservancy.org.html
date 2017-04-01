@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the oceanconservancy.org privacy policy that was archived on 2016-11-30.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161130002611id_/http%3A//www.oceanconservancy.org/who-we-are/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the oceanconservancy.org privacy policy that was archived on 2017-04-01.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170401115701id_/http%3A//www.oceanconservancy.org/who-we-are/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html lang="en" xmlns:fb="http://ogp.me/ns/fb#" class=" js"><head>
 
@@ -18,11 +18,11 @@
 <script type="text/javascript">
 if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.pageUserName = '1240:0';
-CONVIO.pageSessionID = '1CCEE0340449D576E4A017B85F4D29DF.app203b';
+CONVIO.pageSessionID = '128994094D09E4D8E36E602129BA5F90.app217a';
 CONVIO.pageSessionName = 'JSESSIONID';
 </script>
 
-<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1480465571621"></script>
+<script type="text/javascript" src="/system/auth/session-status.jsp?nocache=1491047821510"></script>
 <script type="text/javascript">
 
 
@@ -33,7 +33,7 @@ if (typeof CONVIO=="undefined" || ! CONVIO) { var CONVIO = {}; }
 CONVIO.referrer = getCookie("CONVIO.referrer");
 referrer = "";
 if ((CONVIO.referrer === "" || typeof CONVIO.referrer === "undefined") && referrer !== "") {
-CONVIO.referrer = "";
+CONVIO.referrer = referrer;
 }
 deleteCookie("CONVIO.referrer");
 </script>
@@ -96,7 +96,7 @@ deleteCookie("CONVIO.referrer");
 	<script>window.jQuery || document.write('<script src="http://www.oceanconservancy.org/assets/js/jquery-1.7.2.min.js"><\/script>')</script><script src="http://www.oceanconservancy.org/assets/js/jquery-1.7.2.min.js"></script>
 
 
-</head>
+<meta name="viewport" id="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"></head>
 <body>
 
 <!-- Google Tag Manager -->
@@ -109,11 +109,511 @@ j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 })(window,document,'script','dataLayer','GTM-5L34PX');</script>
 <!-- End Google Tag Manager -->
 
+
+
+<!--
+####################################################################################
+Begin Lightbox in a Box
+####################################################################################
+-->
+
+<!-- Load Jquery (Currently rerquired for LBIAB's parent page) -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+	
+<!-- MDN PolyFils for IE8 (This is not normally needed if you use the jQuery version) -->
+
+<!--[if lte IE 8]>
+	<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.5/ie8.polyfils.min.js"></script>
+<![endif]-->
+
+<!-- iFrame Resizer Script -->
+<script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.5/iframeResizer.min.js"></script>
+
+<!-- cookie API script -->
+<!-- js.cookie.js -->
+<script src="http://www.oceanconservancy.org/assets/eoy-2016/eoy-2016-cookie-1.js"></script>
+
+<!-- Determine if the lightbox should be displayed or not, depending on whether the cookie has been set, and if the query string indicates we are to bypass the cookie check -->
+<script>
+	// (Potentially better solution?): http://stackoverflow.com/a/3855394
+	function getParameterByName(name, url) {
+	    if (!url) url = window.location.href;
+	    name = name.replace(/[\[\]]/g, "\\$&");
+	    var regex = new RegExp("[?&]" + name + "(=([^&#]*)|&|#|$)"),
+	        results = regex.exec(url);
+	    if (!results) return null;
+	    if (!results[2]) return '';
+	    return decodeURIComponent(results[2].replace(/\+/g, " "));
+	}
+	var display_lightbox = true;
+  var c = Cookies.get('oc-giving-tuesday-lb3');
+  if(!getParameterByName('lbiab_bypasscookie') && c) { 
+  	display_lightbox = false; 
+  }
+  if(!c) {
+  	// use the two commented-out cookie-set commands on the OC website
+	Cookies.set('oc-giving-tuesday-lb3', '1', { path: '/', domain: 'oceanconservancy.org', expires: 1 });
+	Cookies.set('oc-giving-tuesday-lb3', '1', { path: '/', domain: 'www.oceanconservancy.org', expires: 1 });	
+	}
+</script>
+
+<script async="" type="text/javascript">
+
+// This code only runs if the lightbox has been initialized
+// if (window.location.search.indexOf('lbiab=1')  > -1 && display_lightbox) {
+if (display_lightbox) {
+	
+	// Did not work on live, replaced with standard <script> 
+	// Loads Jquery
+	// var jQueryJS = document.createElement('script');
+	// jQueryJS.src = 'https://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js';
+	// document.head.appendChild(jQueryJS);
+
+	// Force viewport tag because OC's Luminate page doesn't have one and the lightbox won't be responsive
+	var metaTag=document.createElement('meta');
+	metaTag.name = "viewport"
+	metaTag.id = "viewport"
+	metaTag.classname = "lbiab_viewport"
+	metaTag.content = "width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0"
+	document.getElementsByTagName('head')[0].appendChild(metaTag);
+
+	// Function that creates the html structure needed for the lightbox and places it below the LBIAB stub
+	$(document).ready(function() {
+
+	    var lightbox = document.createElement('span');
+
+	    lightbox.innerHTML = '<div id="lbiab_underlay" class="lbiab_closeable_action lbiab_closeable_element"></div><div id="lbiab"><div id="lbiab_close" class="lbiab_closeable_action lbiab_closeable_element">&times;</div><iframe id="lbiab_iframe" class="lbiab_closeable_element" src="" frameborder="0" scrolling="no"  horizontalscrolling="no" verticalscrolling="no"></iframe></div>';
+	    
+	    // document.getElementById('lbiab-stub').appendChild(lightbox);
+	});	
+
+	$(document).ready(function() {
+
+	    // Sets the "lbiab_active" class on the body
+	    // CSS targets this class to control the visiblity of the entire lightbox
+	    // CSS targets this class so that non-responsive sites, or sites with horizontal overflow, have their content gracefully hidden while the  lightbox is displayed above it. This also allows the lightbox to be responsive even if the parent page isn't.
+	    // if (window.location.search.indexOf('lbiab=1')  > -1 && display_lightbox) {
+	    if (display_lightbox) {
+	         	var body = document.getElementsByTagName('body')[0];
+				body.className += "lbiab_active";	
+	    }
+
+	 	// Checks URL paramaters to see if full screen classes should be applied
+	 	// window.location.search.indexOf('lbiab_fullscreen=1')  > -1
+	    if (window.location.search.indexOf('lbiab_fullscreen=1')  > -1) {
+	        setTimeout(function() {
+	        	$("body").addClass("lbiab_fullscreen");
+	        },10);
+	    }
+	});
+
+	// This script generates the iFrame URL used in the lightbox
+	// It checkes for the presence of EA's Client and Campaign ID in the Parent Frame's URL agruments
+	// If a value isn't present, then a default value is set
+	// Finally the script compiles  those and any other passed arguments together to set the src URL for the iFrame
+	$(function() {
+
+
+		// If present, get EN's Client ID and Campaign ID from the URL
+		var eaClientID = getParameterByName("ea.client.id");
+		var eaCampaignID = getParameterByName("ea.campaign.id");
+
+       	// Base URL for adding passed parameters to and constructing the donation page iFrame
+       	var baseurl = "https://donate.oceanconservancy.org/ea-action/action";
+
+       	// Gets current URL Arguments including starting "?"
+       	// Adding .substr(1) to location.search removes the starting "?"
+ 	    var url_parameters = window.location.search.substr(1);      
+
+       	// Check to see if the Client ID is passed in the URL, otherwise use defautl
+       	if (eaClientID){
+       		eaClientID = "?ea.client.id=" + eaClientID;
+       	}else{
+       		// If there is no client ID explicilty set, set it to the default
+       		eaClientID = "?ea.client.id=1991";
+        }
+
+        // Check to see if the Campaign ID is passed in the URL, otherwise use defautl
+       	if (eaCampaignID){
+       		eaCampaignID = "&ea.campaign.id=" + eaCampaignID;
+       	} else {
+       		// If there is no campaign ID explicilty set, set it to one of the A/B page variables
+       		// if(Math.random() < 0.5)
+			//	eaCampaignID = "&ea.campaign.id=60681";
+			// else {
+			// 	eaCampaignID = "&ea.campaign.id=60057";
+			// }
+
+			// Explicilty set the lightbox Campaign ID
+			eaCampaignID = "&ea.campaign.id=60681";
+       	}
+
+       	// Force the lightbox to be displayed in a full screen fashion
+       	$("body").addClass("lbiab_fullscreen");
+
+       	// Compiles together then sets the iFrame src URL
+        if (getParameterByName("ea.campaign.id")) {
+        	document.getElementById('lbiab_iframe').setAttribute('src', baseurl + "?" + url_parameters);
+        } else {
+	        document.getElementById('lbiab_iframe').setAttribute('src', baseurl + eaClientID + eaCampaignID + "&" + url_parameters + "&lbiab_fullscreen=1");
+    	}
+	});	
+
+	// Creates the site underlay, which is the translucent layer that sits between the lightbox and page content
+	// Sizes underlay to the height of the current page
+	$(window).load(function() {
+		var docHeight = $(document).height();
+		$("body.lbiab_active #lbiab_underlay").height(docHeight);
+		$("body.lbiab_active.lbiab_fullscreen #lbiab_iframe").height(docHeight);	
+	});
+
+	// Function to Horizontally center the Lightbox
+	function horizontallyCenter() {
+	    width = $(window).width();
+	    containerWidth = $("#lbiab").width();  
+	    leftMargin = (width-containerWidth)/2;    
+	    $("#lbiab").css("left", leftMargin);    
+	}
+
+	// Horizontally center the Lightbox on page load
+	$(document).ready(function() {
+	    horizontallyCenter();
+	});	
+
+	// Horizontally center the Lightbox on page resize
+    $(window).resize(function() {
+        horizontallyCenter();    
+    });	
+
+    // Handles what happnes when close events are triggered by clicking the underlay or lightbox close button
+	$(document).ready(function() {
+
+		// What happens when the Lightbox underlay is clicked
+		document.getElementById('lbiab_underlay').onclick = function() {
+
+		  // OC's Luminate pages don't have a viewport tag, so when closing the lightbox, remove the viewport we set
+		  document.getElementById("viewport").setAttribute("content", "");
+		
+		  // Removes lightbox classes on the body
+		  var var1 = document.querySelector(".lbiab_active").classList.remove("lbiab_active");
+		  var var2 = document.querySelector(".lbiab_fullscreen").classList.remove("lbiab_fullscreen");
+		  
+		  // Scorched earth, actually remove element from the DOM
+		  var var3 = document.getElementById("lbiab").remove();
+		  var var4 = document.getElementById("lbiab_underlay").remove();
+		};
+		
+		// What happens when the Lightbox close button is clicked
+		document.getElementById('lbiab_close').onclick = function() {
+
+		  // OC's Luminate pages don't have a viewport tag, so when closing the lightbox, remove the viewport we set
+		  document.getElementById("viewport").setAttribute("content", "");
+
+		  // Reset the overflow state
+		  document.body.style.overflowY = "";
+		  
+		  // Removes lightbox classes on the body
+		  var var1 = document.querySelector(".lbiab_active").classList.remove("lbiab_active");
+		  var var2 = document.querySelector(".lbiab_fullscreen").classList.remove("lbiab_fullscreen");
+		  
+		  // Scorched earth, actually remove element from the DOM
+		  var var3 = document.getElementById("lbiab").remove();
+		  var var4 = document.getElementById("lbiab_underlay").remove();
+		};
+    });	
+
+	// Did not work on live, replaced with standard <script> 
+	// Load iFrame Resizer Script
+	// var iFrameResizerJS = document.createElement('script');
+	// iFrameResizerJS.src = 'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.5/iframeResizer.min.js';
+	// document.head.appendChild(iFrameResizerJS);
+
+	// Did not work on live, replaced with standard <script> 
+	// iFrame Resizer / MDN Polyfills for IE8 and older. Not normally needed if jQuery is loaded
+	// var iFrameResizerJSPolyfiill = document.createElement('script');
+	// iFrameResizerJSPolyfiill.src = 'https://cdnjs.cloudflare.com/ajax/libs/iframe-resizer/3.5.5/ie8.polyfils.min.js';
+	// document.head.appendChild(iFrameResizerJSPolyfiill);
+
+	// Script that resizes the iFrame and enables page links to have effects on the parent window
+	// Must come after iFrameResizer.js is loaded and iFrame is created 
+	window.onload = function(){ 
+		/*
+		 * If you do not understand what the code below does, then please just use the
+		 * following call in your own code.
+		 *
+		 *   iFrameResize({log:true});
+		 *
+		 * Once you have it working, set the log option to false.
+		 */
+
+		iFrameResize({
+			log                     : false,                  // Enable console logging
+			inPageLinks             : true,
+			checkOrigin				: false,
+			resizedCallback         : function(messageData){ // Callback fn when resize is received
+
+				// A cross-browser solution (using clientWidth for IE8 and earlier):
+				// REF: http://www.w3schools.com/jsref/prop_win_innerheight.asp
+				var visiblePageWidth = window.innerWidth
+				|| document.documentElement.clientWidth
+				|| document.body.clientWidth;
+
+
+				// A cross-browser solution (using clientHeight for IE8 and earlier):
+				// REF: http://www.w3schools.com/jsref/prop_win_innerheight.asp
+				var visiblePageHeight = window.innerHeight
+				|| document.documentElement.clientHeight
+				|| document.body.clientHeight;
+
+				var iFrameWidth = +messageData.width;
+				var iFrameHeight = +messageData.height;
+				var iFrameVerticalOffset = $("#lbiab").offset().top;
+				var iFrameTotalHeight = (iFrameVerticalOffset + iFrameHeight);
+
+				// Get the document height and iFrame height
+                var docHeight = $(document).height();
+                
+
+				console.log("visiblePageWidth: " + visiblePageWidth);
+  				console.log("visiblePageHeight: " + visiblePageHeight);
+ 				console.log("iFrameWidth: " + iFrameWidth);
+ 				console.log("iFrameHeight: " + iFrameHeight);
+ 				console.log("iFrameVerticalOffset: " + iFrameVerticalOffset);
+  				console.log("iFrameTotalHeight: " + iFrameTotalHeight);				
+  				console.log("docHeight" + docHeight);
+
+
+                // Always start by making the lightbox underlay the same height as the document hosting it. This ensure the underlay covers all content when initialized.
+				$("body.lbiab_active #lbiab_underlay").height(docHeight);
+
+				// Once the iFrame is loaded or resized, compare the new document height and iFrame height to determine if the underlay needs to change.
+				if (visiblePageHeight > iFrameTotalHeight){
+					// Causing conflicts on mobile when combined with full screen
+					// document.body.style.overflowY = "hidden";
+				} else {
+					document.body.style.overflowY = "scroll";
+				}
+				
+			},
+			messageCallback         : function(messageData){ // Callback fn when message is received
+			},
+			closedCallback         : function(id){ // Callback fn when iFrame is closed
+			}
+		});
+	}; 
+
+};  
+</script>
+
+<style type="text/css">
+	#lbiab_underlay, #lbiab {
+	  display: none;
+	}
+	
+	.lbiab_active #lbiab_underlay, .lbiab_active #lbiab {
+	  display: inherit;
+	}
+	/* While lightbox is displayed, hide any horizontal overflow on page due to non-responsiveness */
+	
+	body.lbiab_active {
+	  overflow-y: scroll;
+	  overflow-x: hidden;
+	  margin: 0;
+	  padding: 0;
+	}
+	
+	#lbiab_underlay {
+	  opacity: 0.85;
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	  background-color: black;
+	  width: 100%;
+	  min-height: 100%;
+	}
+	
+	.lbiab_fullscreen div#lbiab {
+	  left: 0 !important;
+	  top: 0 !important;
+	  min-height: 100vh !important;
+	}
+	
+	.lbiab_fullscreen div#lbiab iframe {
+	  min-height: 100vh !important;
+	}
+	
+	#lbiab {
+	  position: absolute;
+	  top: 0;
+	  left: 0;
+	}
+	
+	#lbiab_underlay {
+	  z-index: 16777269;
+	  z-index: 2147483645;
+	}
+	
+	#lbiab {
+	  z-index: 16777270;
+	  z-index: 2147483646;
+	}
+	
+	#lbiab_close {
+	  z-index: 16777271;
+	  z-index: 2147483647;
+	}
+	/* Default Lightbox CSS */
+	
+	#lbiab {
+	  position: absolute;
+	  top: 5vh;
+	}
+	
+	#lbiab iframe {
+	  display: block;
+	  border: none;
+	  width: 100vw;
+	  overflow: hidden;
+	  min-height: 550px;
+	}
+	
+	#lbiab_close {
+	  position: absolute;
+	  top: -12px;
+	  right: 0;
+	  width: 24px;
+	  height: 24px;
+	  font: 24px/100% arial, sans-serif;
+	  border: 2px solid #000000;
+	  background: #ffffff;
+	  color: #000000;
+	  cursor: pointer;
+	  text-decoration: none;
+	  text-shadow: 0 1px 0 #fff;
+	  text-align: center;
+	}
+	/* Begin Custom Lightbox CSS */
+	
+	#lbiab_close {
+	  top: -12px;
+	  right: -12px;
+	  width: 24px;
+	  height: 24px;
+	  border: 2px solid #78b0b9;
+	  background: #e2f0f2;
+	  color: #8ca4a9;
+	  -webkit-border-radius: 24px;
+	  -moz-border-radius: 24px;
+	  border-radius: 24px;
+	}
+	
+	#lbiab iframe {
+	  width: 90vw;
+	  max-width: 1175px;
+	}
+	/* Full Screen Takeover */
+	
+	.lbiab_fullscreen #lbiab iframe {
+	  width: 100vw;
+	  max-width: 100%;
+	}
+	/*Custom dimensions to set max width for OC 2016 EOY lightbox */
+	
+	@media only screen and (min-width: 960px) {
+	  #lbiab iframe {
+	    width: 90vw;
+	  }
+	}
+	
+	@media only screen and (max-width: 1175px) {
+	  #lbiab {
+	    top: 5%;
+	  }
+	}
+	
+	@media only screen and (min-width: 1175px) {
+	  #lbiab iframe {
+	    min-height: 896px;
+	  }
+	}
+	
+	@media only screen and (max-width: 500px) {
+	  #lbiab {
+	    top: 5vw;
+	  }
+	  #lbiab_close {
+	    top: 0;
+	    right: 0px;
+	    -webkit-border-radius: 0;
+	    -moz-border-radius: 0;
+	    border-radius: 0;
+	    border-right: 0;
+	    border-top: 0;
+	    width: 48px;
+	    height: 48px;
+	    font: 48px/100% arial, sans-serif;
+	  }
+	  #lbiab iframe {
+	  }
+	}
+	
+	.lbiab_fullscreen #lbiab #lbiab_close {
+	  top: 0;
+	  right: 0;
+	  -webkit-border-radius: 0;
+	  -moz-border-radius: 0;
+	  border-radius: 0;
+	  border-right: 0;
+	  border-top: 0;
+	  width: 48px;
+	  height: 48px;
+	  font: 48px/100% arial, sans-serif;
+	  position: absolute;
+	}
+	
+	@media only screen and (min-width: 960px) {
+	  .lbiab_fullscreen #lbiab iframe {
+	    width: 100vw;
+	    max-width: 100%;
+	  }
+	}
+	
+	@media only screen and (max-width: 785px) {
+	  .lbiab_fullscreen #lbiab iframe {
+	    min-height: 100vh;
+	    max-height: initial;
+	  }
+	}
+</style>
+
+<!-- Lightbox Stub that gets replaced with HTML Content-->
+<span id="lbiab-stub"></span>
+
+<!--
+####################################################################################
+END Lightbox in a Box
+####################################################################################
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <div id="pagewrapper">
 <div class="header" id="hdr-global">
 			
 <div id="masthead">
-<a href="http://www.oceanconservancy.org/"><img src="http://www.oceanconservancy.org/assets/img/logo-oc-170.gif" width="325" height="70" alt="Ocean Conservancy" id="hdr-logo"></a>
+<a href="http://www.oceanconservancy.org/"><img src="http://www.oceanconservancy.org/assets/img/logo-oc-170.jpg" width="325" height="83" alt="Ocean Conservancy" id="hdr-logo"></a>
 <!--Main Navigation -->				
 <div id="convio-content-461473577" style="display: inline;">
 
@@ -752,7 +1252,7 @@ function footerUpdate() {
 </div>
 
 <div class="copy">
-  <p>© Copyright 2016 Ocean Conservancy • Ocean Conservancy, International Coastal Cleanup, Ocean Action Network, Trash Free Seas and Trash Free Seas Alliance are registered trademarks of Ocean Conservancy.</p>
+  <p>© Copyright 2017 Ocean Conservancy • Ocean Conservancy, International Coastal Cleanup, Ocean Action Network, Trash Free Seas and Trash Free Seas Alliance are registered trademarks of Ocean Conservancy.</p>
   <p>Ocean Conservancy is a 501(c)3 — Donations are 100% tax-deductible as allowed by law. • <a href="mailto:membership@oceanconservancy.org">membership@oceanconservancy.org</a> • 800-519-1541 • <a href="http://www.oceanconservancy.org/who-we-are/privacy-policy.html">Privacy Policy</a> • <a href="http://www.oceanconservancy.org/who-we-are/legal-information.html">Legal Information</a></p>
 </div>
 
@@ -831,6 +1331,6 @@ function footerUpdate() {
 
  
 
-<!-- 10.12.0.39:8900 -->
+<!-- 10.12.0.40:8900 -->
 
 </div></body></html>
