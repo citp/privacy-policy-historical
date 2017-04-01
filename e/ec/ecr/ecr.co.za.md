@@ -1,97 +1,111 @@
-> *The following text is extracted and transformed from the ecr.co.za privacy policy that was archived on 2015-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150621032308id_/http%3A//www.ecr.co.za/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ecr.co.za privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401190436id_/https%3A//www.ecr.co.za/privacy-policy) for the most accurate reproduction.*
 
-# ECR.co.za
+# Privacy policy
 
-Effective 06/27/2009
+Effective 06/27/2009 
 
-**Privacy Policy Table Of Contents:**
+Privacy policy table of contents: 
 
-# Our Commitment To Privacy  
-# The Information We Collect  
-# How We Use Information  
-# Our Commitment To Data Security  
-# Our Commitment To Children's Privacy  
-# How To Access Or Correct Your Information  
-# Amendments To This Privacy Policy  
-# Governing Law  
-# How To Contact Us
+# Our commitment to privacy 
 
-**Our Commitment To Privacy**
+# The information we collect 
 
-Your privacy is important to us. To better protect your privacy we provide this policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this policy easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested.
+# How we use information 
 
-This policy has been prepared in accordance with Section 51 of the Electronic Communications and Transactions Act No. 25 of 2002. We protect your personal information and only use and disclose your personal information in compliance with that Act.
+# Our commitment to data security 
 
-By using the website, you agree to accept the privacy policy and to be bound by its terms and conditions. You also agree to allow us to collect, collate, process and disclose personal information as provided for in this privacy policy.
+# Our commitment to children's privacy 
 
-**The Information We Collect:**
+# How to access or correct your information 
 
-This policy applies to all information collected or submitted on the East Coast Radio website. On some pages, you can make requests, contribute to blogs and forums, contact radio personalities and staff of the radio station, register to receive materials, enter competitions, view videos, listen to podcasts and request specific information. The types of personal information collected at these pages are:
+# Amendments to this privacy policy 
 
-\- Name  
-\- Address  
-\- Email address  
-\- Phone number  
-\- Gender  
-\- Age group  
-\- Preferences  
-\- Credit/Debit Card Information
+# Governing law 
 
-  On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are:
+# How to contact us 
 
-\- Name  
-\- Address  
-\- Email address  
-\- Phone Number
+ **Our commitment to privacy  **
 
-  From time to time, we may require additional information specific to a feature or competition. This information will be treated the same as the information described above.
+Your privacy is important to us. To better protect your privacy we provide this policy explaining our online information practices and the choices you can make about the way your information is collected and used. To make this policy easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
 
-**The Way We Use Information:**
+This policy has been prepared in accordance with Section 51 of the Electronic Communications and Transactions Act No. 25 of 2002. We protect your personal information and only use and disclose your personal information in compliance with that Act. 
 
-We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties.
+By using the website, you agree to accept the privacy policy and to be bound by its terms and conditions. You also agree to allow us to collect, collate process and disclose personal information as provided for in this privacy policy. 
 
-You can register with our website if you would like to receive more information as well as updates on special inserts and competitions. Information you submit on our website will not be used for this purpose unless you fill out the registration form.
+ **The information we collect  **
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals.
+This policy applies to all information collected or submitted on the East Coast Radio website. On some pages, you can make requests, contribute to blogs and forums, contact radio personalities and staff of the radio station, register to receive materials, enter competitions, view videos, listen to podcasts and request specific information. The types of personal information collected at these pages are: 
 
-We also use cookies to track users across our website and we compile statistical data. We are entitled by law to collect statistical data about website users and to create and trade with statistical profiles, but we ensure that the information disclosed in the statistical profiles cannot be linked to specific individuals.
+\- Name 
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses.
+\- Address 
 
-We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order.
+\- Email address 
 
-We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order.
+\- Phone number 
 
-We may also disclose personal information to the authorities if and to the extent we are required by law to do so.
+\- Gender 
 
-**Social Media Policy**
+\- Age group 
 
-The position of East Coast Radio is that anything posted to a social network by an employee or representative of the brand (including Independent Contractors) should conform to the same standards expected of material we would confidently broadcast.
+\- Preferences 
 
-As a business that exists to communicate to people, and cultivate relationships with them, clients and other stakeholders, we believe that our staff and brand representatives should behave more cautiously on social media platforms than would be the case if we were in a different industry.
+\- Credit/Debit Card Information 
 
-We encourage our staff to write knowledgeably, accurately, and use appropriate professionalism. This encompasses respecting differences and appreciating diversity of opinions.
+On some pages, you can submit information about other people. For example, if you order a gift online and want it sent directly to the recipient, you will need to submit the recipient's address. In this circumstance, the types of personal information collected are: 
 
-If you see, hear or read anything posted by station staff and representatives on social media or social networking platforms that you feel reflects poorly on our station or station staff, please inform us by emailing help@ecr.co.za.
+\- Name 
 
-**Our Commitment To Data Security**
+\- Address 
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
+\- Email address 
 
-**Our Commitment To Children's Privacy:**
+\- Phone Number 
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13.
+From time to time, we may require additional information specific to a feature or competition. This information will be treated the same as the information described above. 
 
-**Amendments to this policy**
+ **The way we use information  **
 
-We may amend this policy from time to time to have regard for changes in the law and in accordance with our requirements. We will post any updates and amendments on our website. It is important that you review this policy regularly so that you are aware of any amendments.
+We use return email addresses to answer the email we receive. Such addresses are not used for any other purpose and are not shared with outside parties. 
 
-**Governing law**
+You can register with our website if you would like to receive more information as well as updates on special inserts and competitions. Information you submit on our website will not be used for this purpose unless you fill out the registration form. 
 
-This policy is governed by the law of the Republic of South Africa and any legal action instituted in connection with this policy ought to be instituted in the Republic of South Africa.
+We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website, or that Y number of men and Z number of women filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
 
-If we breach an obligation under this policy, you may have legal recourse against us and you may approach a court of competent jurisdiction for an interdict against us, or for other appropriate relief, as a result of our breach.
+We also use cookies to track users across our website and we compile statistical data. We are entitled by law to collect statistical data about website users and to create and trade with statistical profiles, but we ensure that the information disclosed in the statistical profiles cannot be linked to specific individuals. 
 
-**How To Contact Us**
+Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+
+We use the information you provide about yourself when placing an order only to complete that order. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+We use the information you provide about someone else when placing an order only to ship the product and to confirm delivery. We do not share this information with outside parties except to the extent necessary to complete that order. 
+
+We may also disclose personal information to the authorities if and to the extent we are required by law to do so. 
+
+ **Our commitment to data security  **
+
+To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+
+ **Our Commitment To Children's Privacy  **
+
+Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 13, and no part of our website is structured to attract anyone under 13. 
+
+ **How you can access or correct your information  **
+
+You can access all your personally identifiable information that we collect online and maintain by emailing privacy@ecr.co.za We use this procedure to better safeguard your information. 
+
+To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access or making corrections. 
+
+ **Amendments to this policy  **
+
+We may amend this policy from time to time to have regard for changes in the law and in accordance with our requirements. We will post any updates and amendments on our website. It is important that you review this policy regularly so that you are aware of any amendments. 
+
+ **Governing law  **
+
+This policy is governed by the law of the Republic of South Africa and any legal action instituted in connection with this policy ought to be instituted in the Republic of South Africa. 
+
+If we breach an obligation under this policy, you may have legal recourse against us and you may approach a court of competent jurisdiction for an interdict against us, or for other appropriate relief, as a result of our breach. 
+
+ **How to contact us  **
 
 Should you have other questions or concerns about these privacy policies, you may contact us through one of the phone numbers of email addresses listed on the Contact Us page in the East Coast Radio website.
