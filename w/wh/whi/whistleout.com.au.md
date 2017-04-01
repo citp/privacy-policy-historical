@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the whistleout.com.au privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604115544id_/https%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the whistleout.com.au privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401070850id_/https%3A//www.whistleout.com.au/Privacy) for the most accurate reproduction.*
 
 # Privacy Policy - WhistleOut
 
@@ -33,7 +33,8 @@ Where possible, we collect your personal information directly from you. If you f
 WhistleOut collects Personal Information primarily to refer you to suppliers of products and services from companies listed on https://www.whistleout.com.au/ or a sub domain. This is a free and completely optional service. We will collect at a minimum: 
 
   * name of the contact person;
-  * email address and phone number; and
+  * email address and phone number;
+  * residential address; and
   * nature of the products and services being sought from the supplier.
 
 
