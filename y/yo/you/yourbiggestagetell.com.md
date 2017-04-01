@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yourbiggestagetell.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811110912id_/http%3A//yourbiggestagetell.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yourbiggestagetell.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401065708id_/http%3A//yourbiggestagetell.com/privacy.php) for the most accurate reproduction.*
 
 # None
 
@@ -60,7 +60,7 @@ Attention: Beverly Hills MD Customer Service
 436 N Bedford Dr. STE 308  
 Beverly Hills, CA 90210
 
-or emailing customersupport@beverlyhills-md.com. 
+or emailing customersupport@beverlyhillsmd.com. 
 
 Your consent to this communications provision is not required to make any purchase with Beverly Hills MD.
 
@@ -75,7 +75,8 @@ Do you have a question or concern? We're here to help you in any way that we can
 To reach us by phone:  
 1-877-828-5528
 
-customersupport@beverlyhills-md.com
+customersupport@beverlyhillsmd.com
 
-Beverly Hills Plastic Surgery Group  
-Beverly Hills, CA 90210
+Beverly Hills MD  
+8383 Wilshire Blvd #800  
+Beverly Hills, CA 90211
