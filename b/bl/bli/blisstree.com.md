@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blisstree.com privacy policy that was archived on 2016-12-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161220152511id_/http%3A//www.blisstree.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blisstree.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401075134id_/http%3A//www.blisstree.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Blisstree
 
