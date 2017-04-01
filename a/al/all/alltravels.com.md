@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the alltravels.com privacy policy that was archived on 2016-03-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160309163816id_/http%3A//www.alltravels.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the alltravels.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401020225id_/https%3A//www.alltravels.com/privacy) for the most accurate reproduction.*
 
 # Our Privacy Policy :: AllTravels :: Anywhere You Want To Go & Anything You Want To Do ::.
 
@@ -42,5 +42,3 @@ To Improve Our Website
 We receive data from, and link to, many websites all over the world. We cannot accept responsibility or liability for the content and activities of these linked sites, nor can we accept responsibility for the accuracy of the data received.
 
 Nonetheless, we seek to protect your user experience and the integrity of our site, and therefore welcome any feedback about these third party sites that you may wish to provide.
-
-[home](http://www.alltravels.com/ "Click here to open the home page of AllTravels")privacy policy
