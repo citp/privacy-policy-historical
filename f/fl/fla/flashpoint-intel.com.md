@@ -1,77 +1,129 @@
-> *The following text is extracted and transformed from the flashpoint-intel.com privacy policy that was archived on 2016-07-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160701003418id_/https%3A//www.flashpoint-intel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flashpoint-intel.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401183654id_/https%3A//www.flashpoint-intel.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Flashpoint
+# Flashpoint - Privacy Policy
 
-#### **Effective as of February 2014**
+#### **Effective as of September 28, 2016**
 
-We at Flashpoint Global Partners (“Flashpoint,” “we,” “us,” or “our”) have created this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared.  This Privacy Policy relates to the information collection and use practices of Flashpoint when you access and use this website (the “Website”). 
+We at EJ2 Communications, Inc. d/b/a Flashpoint (“Flashpoint,” “we,” “us,” or “our”) provided this privacy policy (this “Privacy Policy”) because we know that you care about how information you provide to us is used and shared. This Privacy Policy relates to the information collection and use practices of Flashpoint when you access and use this website (<https://www.flashpoint-intel.com/>) (the “Website”) or access and use our proprietary software products (“Products”) via the Website. As of the Effective Date of this Privacy Policy, our Products include Flashpoint Platform, Reports, Curated Alerting and Analysis Assistance. Our Products may change from time to time.
 
-By visiting our Website, you are agreeing to the terms of this Privacy Policy and the accompanying [Terms of Service](https://web.archive.org/terms-of-service/).  Access to and usage of our proprietary software products are governed by the applicable software license agreement.    
+By visiting our Website, or accessing and using our Products, you are agreeing to the terms of this Privacy Policy and the accompanying [Terms of Service](https://web.archive.org/terms-of-service/). Access to and usage of our Products is also governed by the applicable software license agreement.
 
 Capitalized terms not defined in this Privacy Policy shall have the meaning set forth in our [Terms of Service](https://web.archive.org/terms-of-service/).
 
-#### **The Information We Collect**
+#### **What Information We Collect; the Purpose of Collection and Use**
 
-1.    Personal Information
+Flashpoint’s intelligence portal may collect your IP address and this information will be used by Flashpoint for security purposes.
 
-When you sign up to receive our newsletters or product information or contact us electronically, you may be required to provide us with personal information about yourself, such as your name, address, and email (collectively, the “Personal Information”).  We do not collect any Personal Information from you when you use the Website unless you provide us with the Personal Information voluntarily.  
+Contact Information
 
-2.    Other Information
+When you sign up to receive our newsletters or Product information on the Website, we collect your contact information. Contact information is provided via browser forms or online request forms, and includes: first name, last name, e-mail address, job title, name of the organization, country, state/region and phone numbers (fax, cell and/or landline). This contact information is used by our sales, support and Product teams to contact our visitors, customers and distributors for the purpose of providing the requested information, support, or Products. We do not collect any contact information from you when you use the Website unless you provide us with the contact information voluntarily.
 
-We may collect additional information (collectively, the “Other Information”).  Such Other Information may include:
+Analytics Services
 
-  1. From You.  Additional information about yourself that you voluntarily provide to us, such as your product and service preferences.
-  2. From Your Activity.  Information that we automatically collect when you use the Website, such as your IP addresses, browser type and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections of the Website you visit, and similar information concerning your use of the Website.   
-  3. From Cookies.  Information that we collect using “cookie” technology.  Cookies are small packets of data that a website stores on your computer’s hard drive so that your computer will “remember” information about your visit.  We use cookies to help us collect Other Information and to enhance your experience using the Website.  If you do not want the Website to place a cookie on your hard drive, you may be able to turn that feature off on your computer.  Please consult your Internet browser’s documentation for information on how to do this.  However, if you decide not to accept cookies from us, the Website may not function properly.  
+Like most organizations, we rely on automatic data collection technology, such as Google Analytics and eTrigue when you visit our Website, or license, access or use our Products online. These technology services may collect information on our behalf such as your IP Address, geolocation information, Internet service provider, browser type, operating system and language, referring and exit pages and URLs, date and time, amount of time spent on particular pages, what sections of the Website you visit, number of links you click while on the Website, search terms, and other data. This information is collected automatically and anonymized. The third parties we currently work with include the following (click on the links to view these organizations’ privacy policies and find out more about what data they hold about you, what they do with it, and how to opt-out from certain data collection). Please be advised that if you opt out of any service, you may not be able to use the full functionality of the Website.
 
+For Google Analytics, please visit: <https://www.google.com/analytics>
 
+For Pardot, please visit: <http://www.pardot.com/company/legal/privacy-policy/>
 
-#### **Accessing and Modifying Personal Information and Communication Preferences**
+For TrenDemon, please visit: <http://trendemon.com/privacy.html>
 
-If you have provided us Personal Information, you may access, review, and make changes to your Personal Information by contacting us as set forth below.  In addition, you may manage your receipt of marketing and non-transactional communications by clicking on the “unsubscribe” link located on the bottom of any Flashpoint marketing email.  We will use commercially reasonable efforts to process such requests in a timely manner.  You should be aware, however, that it is not always possible to completely remove or modify information in our subscription databases.
+Cookies
 
-#### **How We Use and Share the Information  **
+We use cookies to compile aggregate data as described above regarding our Website traffic which is used to improve our Website. Cookies are small packets of data that a website stores on your computer’s hard drive so that your computer will “remember” information about your visits to our Website and other sites. Our cookie policy is available at [https://www.flashpoint-intel.com/cookie-policy/](https://web.archive.org/cookie-policy). If you do not want the Website to place a cookie on your hard drive, you may be able to turn that feature off on your device. Please consult your Internet browser’s documentation for information on how to do this. However, if you decide not to accept cookies from our Website, the Website may not function properly.
 
-We use the Personal Information and the Other Information to provide you access to the Website, process your requests, solicit your feedback, inform you about our products and services and those of our third-party marketing partners, and to improve the Website.  Also, we may share Personal Information and/or Other Information as described below.
+Aggregate Data
 
-In an ongoing effort to better understand our users and our Website, we might analyze the Other Information in aggregate form in order to operate, maintain, manage, and improve the Website.  This aggregate information does not identify you personally.  We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our products and Website to current and prospective business partners and to other third parties for other lawful purposes.
+In an ongoing effort to better understand our users and the Website, we might analyze your information in aggregate form to operate, maintain, manage, and improve the Website. This aggregate information does not identify you personally. We may share this aggregate data with our affiliates, agents, and business partners. We may also disclose aggregated user statistics in order to describe our Products and the Website to current and prospective business partners and to other third parties for other lawful purposes.
 
-In order to administer our promotional programs, we may share your Personal Information and/or Other Information with our third-party promotional and marketing partners, including, without limitation, business participating in our various programs.
+Additional Uses
 
-We may from time to time share Personal Information and/or Other Information with other companies who may provide you information about the products and services they offer.  However, to the extent required by law, you will be given the opportunity to opt-out of such sharing.
+We also use contact information and other information collected pursuant to this Privacy Policy to respond to general inquiries, solicit feedback regarding our Website, Products and support, provide relevant content on our Website including advertisements regarding Products and third party products, and to communicate with you via email regarding our current and future Products.
 
-We may employ other companies and individuals to perform functions on our behalf.  Examples may include processing requests and providing marketing assistance, information technology support, and customer service.  These other companies will have access to the Personal Information and the Other Information only as necessary to perform their functions and to the extent permitted by law. 
+Onward Transfer to Third Parties
 
-We may share some or all of your Personal Information and/or Other Information with any of our parent companies, subsidiaries, joint ventures, or other companies under common control with us. 
+Like many businesses, we hire other companies to perform certain business-related services. We may disclose personal information to certain types of third party companies but only to the extent needed to enable them to provide such services. The types of companies that may receive personal information and their functions are: direct marketing assistance, lead generation services, order fulfillment, billing, customer service, data storage, hosting services, disaster recovery services, and sales support companies. All such third parties function as our agents, performing services at our instruction and on our behalf pursuant to contracts which require they provide at least the same level of privacy protection as is required by this privacy policy and implemented by Flashpoint. We may also disclose personal information to our affiliates in order to support marketing, sale and delivery of Products. You may opt out of having your personal information transferred to any or all of our categories of agents by contacting us at [privacy@flashpoint-intel.com](mailto:privacy@flashpoint-intel.com). Please allow us a reasonable time to process your request. With regard to the Principle of Accountability for Onward Transfer, we remain liable if our agent processes such personal information in a manner inconsistent with the Privacy Shield Principles, unless we prove that we are not responsible for the event giving rise to the damage.
 
-As we develop our businesses, we might sell or buy businesses or assets.  In the event of a corporate sale, merger, reorganization, sale of assets, dissolution, or similar event, the Personal Information and Other Information may be part of the transferred assets. 
+Opt-In to Certain Onward Transfers
 
-To the extent permitted by law, we may also disclose Personal Information and the Other Information when required by law, court order, or other government or law enforcement authority or regulatory agency, or whenever we believe that disclosing such information is necessary or advisable, for example, to protect the rights, property, or safety of Flashpoint or others.  
+We will not transfer your personal information to a third party controller without first providing you with information regarding the identity of such controller or the nature of such controller’s business, and obtaining your opt-in consent. You may grant such consent by contacting us at [privacy@flashpoint-intel.com](mailto:privacy@flashpoint-intel.com).
 
-#### **How We Protect Your Information**
+We will not disclose your sensitive personal information to any third party without first obtaining your opt-in consent. You may grant such consent by contacting us at [privacy@flashpoint-intel.com](mailto:privacy@flashpoint-intel.com).
 
-We take commercially reasonable steps to protect the Personal Information and the Other Information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction.  Please understand, however, that no security system is impenetrable.  We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Website may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.   
+In each instance, please allow us a reasonable time to process your response.
 
-#### **Important Notice to Non-U.S. Residents**
+Business Transfers
 
-The Website and its servers are operated in the United States.  If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States.  By using the Website and/or providing us with any information, you hereby irrevocably consent to this transfer.  
+In the event of a merger, reorganization, dissolution or similar corporate event, or the sale of all or substantially all of our assets, we expect that the information that we have collected, including personal information, would be transferred to the surviving entity in a merger or the acquiring entity. All such transfers shall be subject to our commitments with respect to the privacy and confidentiality of such personal information as set forth in this privacy policy.
 
-#### **Children  **
+Disclosure to Public Authorities
 
-We do not knowingly collect Personal Information from children under the age of 13 through the Website.  If you are under 13, please do not give us any Personal Information.  We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide Personal Information through the Website without their permission.  If you have reason to believe that a child under the age of 13 has provided Personal Information to us, please contact us, and we will endeavor to delete that information from our databases.
+We may be required to disclose personal information in response to lawful requests by public authorities, including for the purpose of meeting national security or law enforcement requirements. We may also disclose personal information to other third parties when compelled to do so by government authorities or required by law or regulation including, but not limited to, in response to court orders and subpoenas.
 
-#### **California Residents**
+Access to personal information
 
-Under California Civil Code Section 1798.83, California residents who have an established business relationship with Flashpoint may choose to opt out of our sharing your Personal Information with third parties for direct marketing purposes.  If you are a California resident and (1) you wish to opt out; or (2) you wish to request certain information regarding our disclosure of your Personal Information to third parties for the direct marketing purposes, please send an e-mail to [privacy@flashpoint-intel.com.](mailto:privacy@flashpoint-intel.com.)  
+Flashpoint acknowledges that EU individuals have the right to access the personal information we maintain about them. Upon request to [privacy@flashpoint-intel.com](mailto:privacy@flashpoint-intel.com), we will provide you with confirmation as to whether we are processing your personal information, and have the data communicated to you within a reasonable time. You have the right to correct, amend or delete your personal information where it is inaccurate or has been processed in violation of this privacy policy. We may require payment of a non-excessive fee to defray our expenses in this regard. Please allow us a reasonable time to respond to your inquiries and requests.
 
-#### **External Websites**
+Opt-Out for Direct Marketing; Email Management
 
-The Website may contain links to third-party websites.  Flashpoint has no control over the privacy practices or the content of any of these websites.  As such, we are not responsible for their content or privacy policies.  You should check the applicable third-party privacy policy and terms of service when visiting any other websites. 
+You may opt out at any time from the use of your personal information for direct marketing purposes by contacting us at [privacy@flashpoint-intel.com](mailto:privacy@flashpoint-intel.com). Please allow us a reasonable time to process your request.
 
-#### **Changes to This Privacy Policy**
+You may manage your receipt of marketing and non-transactional communications by clicking on the “Manage Email Preferences” link located on the bottom of any Flashpoint marketing email and following the instructions found on the page to which the link takes you. You cannot opt out of receiving transactional e-mails related to their account or purchase orders.
 
-This Privacy Policy is effective as of the date stated at the top of this Privacy Policy.  We may change this Privacy Policy from time to time, and will post any changes on the Website as soon as they go into effect.  By accessing or using the Website after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes.  Please refer back to this Privacy Policy on a regular basis. 
+Retention of Personal Information
 
-#### **How to Contact Us**
+We will retain your personal information in a form that identifies you only for as long as it serves the purpose(s) for which it was initially collected as stated in this privacy policy, or subsequently authorized. We may continue processing your personal information for longer periods, but only for the time and to the extent such processing reasonably serves the purposes of archiving in the public interest, journalism, literature and art, scientific or historical research and statistical analysis, and subject to the protection of this privacy policy. After such time periods have expired, we may either delete your personal information or retain it in a form such that it does not identify you personally.
 
-If you have questions about this Privacy Policy, please e-mail us at [privacy@flashpoint-intel.com.](mailto:privacy@flashpoint-intel.com.) 
+How We Protect Your Information
+
+We take commercially reasonable steps to protect the personal information from loss, misuse, and unauthorized access, disclosure, alteration, or destruction, taking into account the risks involved in processing and the nature of such data, and comply with applicable laws and regulations. Please understand, however, that no security system is impenetrable. We cannot guarantee the security of our databases, nor can we guarantee that the information you supply will not be intercepted while being transmitted to and from us over the Internet. In particular, e-mail sent to or from the Website may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.
+
+Children
+
+We do not knowingly collect personal information from children under the age of 13 through the Website or the Products. If you are under 13, please do not give us any personal information. We encourage parents and legal guardians to monitor their children’s Internet usage and to help enforce our Privacy Policy by instructing their children to never provide personal information through the Website or the Products without their permission. If you have reason to believe that a child under the age of 13 has provided personal information to us, please contact us, and we will endeavor to delete that information from our databases.
+
+Important Notice to Non-U.S. Residents
+
+Our servers are located in the US. If you are located outside of the US, please be aware that any information provided to us, including personal information, will be transferred from your country of origin to the US. Except in the case of data transfers under the EU-US Privacy Shield and the U.S.-Swiss Safe Harbor Framework, your decision to provide such data to us, or allow us to collect such data it through our Website or Products, constitutes your consent to this data transfer.
+
+Important Notice for Residents of the European Economic Area
+
+Flashpoint complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from the European Union member countries (including Iceland, Liechtenstein and Norway). Flashpoint has certified that it adheres to the Privacy Shield principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, Recourse, Enforcement and Liability (the “Privacy Shield Principles”). If there is a conflict between this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
+
+Flashpoint is subject to the investigatory and enforcement powers of the Federal Trade Commission.
+
+In compliance with the EU-US Privacy Shield Principles, Flashpoint commits to resolve complaints about your privacy and our collection or use of your personal information. EU individuals with inquiries or complaints regarding this Privacy Policy should first contact Flashpoint at [privacy@flashpoint-intel.com](mailto:privacy@flashpoint-intel.com). Flashpoint has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles to BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Flashpoint, please visit <http://www.bbb.org/EU-privacy-shield/for-eu-consumers/> for more information and to file a complaint. If these processes do not result in a resolution, you may also contact your local data protection authority, the US Department of Commerce, and/or the Federal Trade Commission for assistance. Please note that if your complaint is not resolved through these channels, under limited circumstances, a binding arbitration option may be available before a Privacy Shield Panel.
+
+Important Notice for Residents of Switzerland
+
+Flashpoint complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Flashpoint has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access and enforcement. If there is any conflict between the policies in this Privacy Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the US-Swiss Safe Harbor Principles, Flashpoint commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this Privacy Policy should first contact Flashpoint at: General Counsel at the address below.
+
+Flashpoint has further committed to refer unresolved privacy complaints under the US-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+
+California Privacy Rights
+
+Pursuant to Section 1798.83 of the California Civil Code, residents of California have the right to obtain certain information about the types of personal information that companies with whom they have an established business relationship (and that are not otherwise exempt) have shared with third parties for direct marketing purposes during the preceding calendar year, including the names and addresses of those third parties, and examples of the types of services or products marketed by those third parties. If you wish to submit a request pursuant to Section 1798.83, please contact Flashpoint via email at [privacy@flashpoint-intel.com](mailto:privacy@flashpoint-intel.com). In addition, Flashpoint does not monitor, recognize, or honor any opt-out or do not track mechanisms, including general web browser “Do Not Track” settings and/or signals.
+
+External Websites
+
+The Website and the Products may contain links to third-party websites. Flashpoint has no control over the privacy practices or the content of any of these websites. As such, we are not responsible for their content or privacy policies. You should check the applicable third-party privacy policy and terms of service when visiting any other websites, and before providing any personal information to such external sites.
+
+Changes to This Privacy Policy
+
+This Privacy Policy is effective as of the date stated at the top of this Privacy Policy. We may change this Privacy Policy from time to time, and will post any changes on the Website as soon as they go into effect. By accessing or using the Website after we make any such changes to this Privacy Policy, you are deemed to have accepted such changes. Please refer back to this Privacy Policy on a regular basis.
+
+How to Contact Us
+
+If you have questions about this Privacy Policy, please contact us in one of the following ways:
+
+E-mail us at [info@flashpoint-intel.com](mailto:info@flashpoint-intel.com)
+
+Or write to us at:  
+EJ2 Communications, Inc.  
+d/b/a Flashpoint  
+111 East 14th St. #284  
+New York, NY 10003
+
+Copyright 2016 EJ2 Communications, Inc. All rights reserved.
