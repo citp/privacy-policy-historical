@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the morespeck.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127183141id_/http%3A//morespeck.com/morespeck-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the morespeck.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401094950id_/http%3A//morespeck.com/morespeck-privacy-policy) for the most accurate reproduction.*
 
 # Mo’Respeck Privacy Policy | Mo' Respeck
 
