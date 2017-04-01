@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyparcel.my privacy policy that was archived on 2016-06-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160618022840id_/https%3A//secure.easyparcel.my/pass/%3Fpg%3DPerDataProAct) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyparcel.my privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401085619id_/https%3A//secure.easyparcel.my/pass/%3Fpg%3DPerDataProAct) for the most accurate reproduction.*
 
 # EasyParcel | Delivery Made Easy
 
@@ -39,10 +39,10 @@ The list below is the terms and conditions of carriage:
   4. EasyParcel may disclose personal data to third parties for legitimate business purposes, including for the following purposes or in the following circumstances: 
 
     * background verification checks on candidates for employment; 
-    * in anticipation of, and in the course of an actual or potential sale, reorganization, consolidation, merger, or amalgamation of all or part of our business or operations;
-    * relating to advertising, publicity, marketing and communication relating to EasyParcel;
+    * in anticipation of, and in the course of an actual or potential sale, reorganization, consolidation, merger, or amalgamation of all or part of our business or operations; 
+    * relating to advertising, publicity, marketing and communication relating to EasyParcel; 
     * for the purposes of exercising or performing any right or obligation which is conferred or imposed by law on EasyParcel in connection with candidates for employment including any referee whose personal data are provided by you; and 
-    * making such disclosures as may be required by law or by order of a court of competent jurisdiction or by any rule, direction or regulation of any regulatory or governmental authority or any other relevant authority to be disclosed.
+    * making such disclosures as may be required by law or by order of a court of competent jurisdiction or by any rule, direction or regulation of any regulatory or governmental authority or any other relevant authority to be disclosed. 
   5. EasyParcel would like to notify that it is obligatory for you to supply the personal data in order for us to provide you with services under EasyParcel's business which includes any matters relating to the supply or exchange of goods or services, to process your application or registration under any EasyParcel's program, and to process your application in relation to employment application under EasyParcel. EasyParcel will not be able to provide you with adequate services if you fail to supply the personal data. 
   6. Where sensitive personal data is provided, and disclosed by you to EasyParcel, by such disclosure, you have consented to its collection, and processing by EasyParcel. 
   7. You hereby represent that if at any time you have provided, and disclosed to EasyParcel personal data about other individuals, you are authorized to do so, and are aware that EasyParcel may use, and/or process such personal data for the relevant purposes as set out in "Item 3" above. 
@@ -89,9 +89,6 @@ The list below is the terms and conditions of carriage:
 
   1. You have the right to request access to your personal data processed by EasyParcel, and be able to correct your personal data. You may send your request to EasyParcel at the following address or e-mail:
 
-Address:   
-1-18-8, Suntech @ Penang Cybercity Lintang Mayang Pasir 3, 11950 Bayan Baru, Penang. 
-
 Email:   
 support@easyparcel.my 
 
@@ -107,4 +104,4 @@ support@easyparcel.my
 
 
 Created & Powered By EasyParcel Sdn Bhd (1028666-H). GST No: 000224432128.  
-All Copyrights Reserved © 2016
+All Copyrights Reserved © 2017 - Version : 5.2
