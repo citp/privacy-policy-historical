@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408104730id_/https%3A//www.surveypolice.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveypolice.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401021740id_/https%3A//www.surveypolice.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - SurveyPolice
 
-**LAST UPDATED: May 16, 2015**
+**LAST UPDATED: November 15, 2016**
 
 ##  1\. Your Privacy
 
@@ -28,7 +28,7 @@ Users may make personal data such as their _name, date of birth, address, gender
 
 ## 2.1.3. Use of the Service
 
-Affility may collect, store and use personal data such as name, email address, name, IP address to optimize use of the Service and the content presented to Users, to provide technical support and respond to Users’ inquiries, when Users subscribe to newsletters or other updates from Affility and in connection with use of the Service where personal data is required, including to leave reviews (where the first name and country of residence will be displayed) and to post on the Service’s forum (where the username will be displayed). 
+Affility may collect, store and use personal data such as name, email address, name, IP address to optimize use of the Service and the content presented to Users, to provide technical support and respond to Users’ inquiries, when Users subscribe to newsletters or other updates from Affility and in connection with use of the Service where personal data is required, including to leave reviews (where the first name and country of residence will be displayed) and to post on the Service’s Forum (where the username will be displayed). 
 
 ## 2.1.4. Other Purposes
 
@@ -54,7 +54,7 @@ Users may contribute user generated content (“ **User Generated Content** ”)
 
 ## 2.1.9. Minors
 
-Users must be eighteen (18) years or older to register for an Account to use the Service. Affility does not knowingly collect any personal data from persons under the age of eighteen (18) years of age and if Affility learns that it has inadvertently collected or stored personal data from persons under the aforementioned age without the consent of their legal guardian, Affility will take reasonable measures to promptly erase such personal data from its records. 
+Users must be eighteen (18) years or older to register for an Account to use the Service. Affility does not knowingly collect any personal data from persons under the age of eighteen (18) years of age. In the event that Affility learns that it has inadvertently collected or stored personal data from persons under the aforementioned age without the consent of their legal guardian, Affility will take reasonable measures to promptly erase such personal data from its records. 
 
 ## 2.2. Non Personal Data
 
@@ -99,6 +99,16 @@ Affility does not sell, rent, share or trade personal data with third parties fo
   3. As required or authorized by applicable law.
 
 
+
+Affility reserves the right to contact you by email under the following limited circumstances:
+
+  1. If a company that receives a review provides a public reply on the website; 
+  2. In the event that system notifications related to use of the [Forum](https://forum.surveypolice.com/) are required;
+  3. From time to time, and as may be required, to provide any necessary updates in relation to the service.
+
+
+
+You authorise and acknowledge that companies may use the website to reply to user reviews, and companies may also opt to receive a notification by email when a review is left for their survey panel or website. 
 
 ## 3.2. Data Processing 
 
