@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130034534id_/http%3A//www.pfizer.com/general/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pfizer.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401113341id_/http%3A//www.pfizer.com/general/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Pfizer: One of the world's premier biopharmaceutical companies
 
