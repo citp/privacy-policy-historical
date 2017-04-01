@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popdust.com privacy policy that was archived on 2016-12-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161212113308id_/http%3A//www.popdust.com/privacy-policy-1904547259.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popdust.com privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401130710id_/https%3A//www.popdust.com/privacy-policy-1904547259.html) for the most accurate reproduction.*
 
 # Privacy Policy - Popdust
 
