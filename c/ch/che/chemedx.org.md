@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the chemedx.org privacy policy that was archived on 2016-08-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160817072817id_/https%3A//www.chemedx.org/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chemedx.org privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401095628id_/https%3A//www.chemedx.org/page/privacy) for the most accurate reproduction.*
 
 # Privacy | Chemical Education Xchange
 
-Chemical Education Xchange, [www.chemedx.org](http://www.chemedx.org/), recognizes that users may have concerns about privacy issues as they use [www.chemedx.org and](http://www.chemedx.org%20and/) the services Chemical Education Xchange provides. Chemical Education Xchange is committed to providing users with a safe, secure environment in which to obtain information and use its services.
+Chemical Education Xchange, [www.chemedx.org](http://www.chemedx.org/), recognizes that users may have concerns about privacy issues as they use [www.chemedx.org](http://www.chemedx.org/) and the services Chemical Education Xchange provides. Chemical Education Xchange is committed to providing users with a safe, secure environment in which to obtain information and use its services.
 
 Chemical Education Xchange will use reasonable efforts to ensure that the information you provide remains private, and is used only for the purposes stated below. Please review the [Terms of Use](https://web.archive.org/page/terms-use "JCE Chemical Education Exchange Terms of Use") for the definition of the relationship between [www.chemedx.org](http://www.chemedx.org/) and its users.
 
