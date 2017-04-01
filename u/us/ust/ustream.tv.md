@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ustream.tv privacy policy that was archived on 2016-12-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161222041726id_/https%3A//www.ustream.tv/privacy-policy%3Fitm_source%3Dfooter%26itm_medium%3Donsite%26itm_content%3DPrivacy_policy%26itm_campaign%3Dprivacy_policy_link) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ustream.tv privacy policy that was archived on 2017-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170401061632id_/https%3A//www.ustream.tv/privacy-policy%3Fitm_source%3Dfooter%26itm_medium%3Donsite%26itm_content%3DPrivacy_policy%26itm_campaign%3Dprivacy_policy_link) for the most accurate reproduction.*
 
 # USTREAM - Broadcast Live Streaming Video, Watch Online Events, Chat Live, send a Tweet, follow on Facebook, record your Live Shows
 
