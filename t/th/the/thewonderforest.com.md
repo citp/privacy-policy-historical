@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thewonderforest.com privacy policy that was archived on 2016-03-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160323203259id_/http%3A//www.thewonderforest.com/disclaimer) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thewonderforest.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402232331id_/http%3A//www.thewonderforest.com/disclaimer) for the most accurate reproduction.*
 
-# Disclaimer / Privacy Policy – Wonder Forest
+# Disclaimer / Privacy Policy - Wonder Forest
 
 Everything you see on Wonder Forest was created by me unless otherwise stated. 
 
