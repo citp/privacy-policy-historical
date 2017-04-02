@@ -1,11 +1,8 @@
-> *The following text is extracted and transformed from the gamebanshee.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124041013id_/http%3A//www.gamebanshee.com/index.php%3Foption%3Dcom_content%26view%3Darticle%26id%3D29386) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gamebanshee.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402133210id_/http%3A//gamebanshee.com/gamebanshee-pages/pages/29386-privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy
+# GameBanshee
 
-25 Sep 2009
-
-  * [ Print ](https://web.archive.org/gamebanshee-pages/pages/29386-privacy-policy/print.html "Print")
-  * [ Email](https://web.archive.org/component/com_mailto/link,1c760de39c10efeb0ef41c2656720e1219a869dc/template,rt_leviathan/tmpl,component/ "Email")
+## __[Privacy Policy](http://www.gamebanshee.com/gamebanshee-pages/pages/29386-privacy-policy.html)
 
 We have created this policy for each visitor to our web page, GameBanshee, in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this website: 
 
