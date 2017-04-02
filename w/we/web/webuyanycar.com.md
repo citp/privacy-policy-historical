@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the webuyanycar.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729190150id_/https%3A//www.webuyanycar.com/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the webuyanycar.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402094911id_/https%3A//www.webuyanycar.com/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy & Cookie Policy - webuyanycar.com
 
@@ -43,10 +43,10 @@ We have partnerships with third parties (such as Feefo) who provide us with inde
   
 If you sell a car to us, or use our Website, you may be contacted by one of our third party partners requesting feedback or comments on your customer experience. These third parties will pass this information on to us, which will allow us to respond to your feedback if you have raised concerns about our service. These partners will not use your personal information for any other purpose.
 
-  
 Unless you opt-out of such marketing, you may also be contacted by one of our third party partners in relation to our offers or services that we think may be of interest to you.
 
-  
+We may provide your personal information to our associated companies for research and analysis purposes so that we can monitor and improve the services we provide. We and our associated companies may also wish to provide you with information concerning services or products which we think may be of interest to you. We may also want to provide you with related information from third parties whose products or services may be of interest to you unless you opt-out of this marketing.
+
 Except as set out in this Privacy Policy and our Cookie Policy, we will not disclose your personal information to any third party.
 
 ###   
@@ -71,7 +71,7 @@ To opt-out of email communications you can click the unsubscribe link within the
 To opt-out of SMS communications you can reply to the message received with the word ‘STOP’.
 
   
-Alternatively you can visit our [unsubscribe page](http://www.webuyanycar.com/unsubscribe) where after entering the email address used to obtain your valuation you will be given the option to opt-out of some or all email and SMS communications.  
+Alternatively you can visit our [unsubscribe page](https://web.archive.org/unsubscribe/) where after entering the email address used to obtain your valuation you will be given the option to opt-out of some or all email and SMS communications.  
 If you have any questions or difficulties unsubscribing from email or SMS communications you can contact us at [talktous@webuyanycar.com](mailto:talktous@webuyanycar.com).
 
 ###   
