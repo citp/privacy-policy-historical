@@ -1,31 +1,66 @@
-<!--The following is the downloaded HTML source of the theclutcher.com privacy policy that was archived on 2016-03-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160326191539id_/https%3A//www.theclutcher.com/en-US/company/policy/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the theclutcher.com privacy policy that was archived on 2017-04-02.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170402143725id_/https%3A//www.theclutcher.com/en-US/company/policy/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
-  <meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-892.min.js"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"88cb2d6102","applicationID":"3013098","transactionName":"NFNWZEoECBJRAhUNCw0ZeWZ7SiUOXREACh0gWVpESgoKDVUTThQLD19XSQ==","queueTime":0,"applicationTime":728,"ttGuid":"BC8ED32693B7296F","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwQPUlBWGwAAVVJSDgk="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty("addEventListener");)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,["addEventListener","removeEventListener"],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos");e.exports=a,o(window),"getPrototypeOf"in Object?(r(document),r(XMLHttpRequest.prototype)):XMLHttpRequest.prototype.hasOwnProperty("addEventListener")&&o(XMLHttpRequest.prototype),a.on("addEventListener-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on("removeEventListener-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){e=e||this;var n=a.context(e);e.readyState>3&&!n.resolved&&(n.resolved=!0,a.emit("xhr-resolved",[],e));try{f.inPlace(e,p,"fn-",o)}catch(r){}}function o(t,e){return e}function i(t,e){for(var n in t)e[n]=t[n];return e}var a=t("ee").get("xhr"),s=t(3),c=t(13),f=c(a),u=c(s),d=NREUM.o,l=d.XHR,p=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout","onreadystatechange"];e.exports=a,window.XMLHttpRequest=function(t){var e=new l(t);try{a.emit("new-xhr",[e],e),e.hasOwnProperty("addEventListener")&&u.inPlace(e,["addEventListener","removeEventListener"],"-",o),e.addEventListener("readystatechange",r,!1)}catch(n){try{a.emit("internal-error",[n])}catch(i){}}return e},i(l,XMLHttpRequest),XMLHttpRequest.prototype=l.prototype,f.inPlace(XMLHttpRequest.prototype,["open","send"],"-xhr-",o),a.on("send-xhr-start",r),a.on("open-xhr-start",r)},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(3),t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=(""+location).split("?")[0],l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-892.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
+  <meta charset="utf-8">
   <title>Privacy Policy - PRIVACY POLICY</title>
   <link href="/favicon.ico" rel="shortcut icon" type="image/x-icon">
   <meta name="description" content="Information sheet - Pursuant to art. 13, Legislative Decree nr. 196/03 as amended (&quot;Privacy code&quot;).">
   <meta name="google-site-verification" content="SjB4y6DAulkCqqQ1VMrrEdYQZ8r8Vv_6M8TkNXvEBUo">
-
   
-
-    <link rel="canonical" href="https://www.theclutcher.com/en-US/company/policy/privacy">
-
+      <link rel="canonical" href="https://www.theclutcher.com/en-US/company/policy/privacy">
+  
   <link href="//fonts.googleapis.com/css?family=Nunito" rel="stylesheet" type="text/css">
-
   <link href="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.css" rel="stylesheet">
 
 
-
-  <link href="/bundles/css?v=TGhQ1mERc5nkHVY93gJ1cpg1Nq3jlYxofXSh7YTL84g1" rel="stylesheet">
-
+  <link href="/bundles/css?v=LDzzKGt3ax24kuf0e6p9Q4QeDQffaG1OBe8AuNBUqVE1" rel="stylesheet">
 
   <!--[if IE]>
     <link type="text/css" rel="stylesheet" href="/Content/IE.min.css" />
   <![endif]-->
+  <script type="text/javascript">
+    var appInsights = window.appInsights || function (config) {
+      function i(config) { t[config] = function () { var i = arguments; t.queue.push(function () { t[config].apply(t, i) }) } } var t = { config: config }, u = document, e = window, o = "script", s = "AuthenticatedUserContext", h = "start", c = "stop", l = "Track", a = l + "Event", v = l + "Page", y = u.createElement(o), r, f; y.src = config.url || "https://az416426.vo.msecnd.net/scripts/a/ai.0.js"; u.getElementsByTagName(o)[0].parentNode.appendChild(y); try { t.cookie = u.cookie } catch (p) { } for (t.queue = [], t.version = "1.0", r = ["Event", "Exception", "Metric", "PageView", "Trace", "Dependency"]; r.length;) i("track" + r.pop()); return i("set" + s), i("clear" + s), i(h + a), i(c + a), i(h + v), i(c + v), i("flush"), config.disableExceptionTracking || (r = "onerror", i("_" + r), f = e[r], e[r] = function (config, i, u, e, o) { var s = f && f(config, i, u, e, o); return s !== !0 && t["_" + r](config, i, u, e, o), s }), t
+    }({
+      instrumentationKey: "8ac38f1d-239c-49f7-a243-9c060ca700a1"
+    });
+
+    window.appInsights = appInsights;
+    appInsights.trackPageView();
+  </script><script src="https://az416426.vo.msecnd.net/scripts/a/ai.0.js"></script>
+    <script>
+      var Polymer = Polymer || {};
+      Polymer.dom = 'shady';
+
+      //Hack link feed FF
+      function getPathFromUrl(url) {
+        var detUrl = '';
+        var u = url.split(/[?#]/)[0];
+        if (detUrl != '') {
+          u = u.replace(/\/.{5}\/product\//gi, detUrl);
+        }
+        return u;
+      }
+
+      document.addEventListener("ffReady", function () {
+        var key = factfinder.communication.ResultDispatcher.subscribe("result", function (resultData) {
+          var notFoundUrl = '';
+          if (resultData.records.length == 0 && notFoundUrl != '') {
+            window.location.href = notFoundUrl;
+          }
+          $(resultData.records).each(function () { this.record.link = getPathFromUrl(this.record.link); });
+        });
+      });
+
+    </script>
+    <script src="/Scripts/plugin/ff-web-components/webcomponentsjs/webcomponents-lite.js"></script>
+    <link rel="import" href="/Scripts/plugin/ff-web-components/ff-web-components/dist/elements.build_with_dependencies.html">
+      <link rel="import" href="/Scripts/plugin/ff-web-components/ff-web-components/dist/ff-mixin-styles.html">
 </head>
 <body>
+    <ff-communication url="https://theclutcher.fact-finder.it/TheClutcher" version="7.2" channel="us" search-immediate="false" use-url-parameter="false" use-browser-history="false" default-query="">
+    </ff-communication>
   <div class="hider">
     <div class="cookie-policy clearfix">
   <div class="close">Close</div>
@@ -34,8 +69,63 @@
     <a href="/en-US/company/policy/privacy">Find&nbsp;out&nbsp;more</a>
   </p>
 </div>
-
     <div class="header">
+
+<div class="cookiebar-fix">
+  <div class="ffsearch">
+
+<form action="/en-US/products/searchff" method="post">        <input is="ff-searchbox" id="ff-searchbox" name="query" placeholder="SEARCH" suggest-onfocus="true" hidesuggest-onblur="true" use-sugest="true" select-onclick="false" autocomplete="off">
+        <button is="ff-searchbutton" type="submit" class="submit-search" value="SEARCH"></button>
+</form>
+    <ff-suggest layout="list">
+      <section id="searchContainer" class="searchTermContainer">
+        <div data-container="category">
+          <p class="containerCaption">CATEGORIES</p>
+          <ff-suggest-item type="category">
+            <div class="brand-center">
+              <div class="brand-name">{{{name}}}</div>
+            </div>
+          </ff-suggest-item>
+        </div>
+      </section>
+      <section id="searchContainer" class="searchTermContainer">
+        <div data-container="brand">
+          <p class="containerCaption">DESIGNERS</p>
+          <ff-suggest-item type="brand">
+            <div class="brand-center">
+              <div class="brand-name">{{{name}}}</div>
+            </div>
+          </ff-suggest-item>
+        </div>
+      </section>
+      <section id="searchContainer" class="searchTermContainer">
+        <div data-container="searchTerm">
+          <p class="containerCaption">SUGGESTS</p>
+          <ff-suggest-item type="searchTerm">
+            <div class="brand-center">
+              <div class="brand-name">{{{name}}}</div>
+            </div>
+          </ff-suggest-item>
+        </div>
+      </section>
+      
+    </ff-suggest>
+
+    <script>
+      function FixFactFinderLink(fflink) {
+        return fflink.replace('/TheClutcher/Search.ff', '/en-US/products/searchff');
+      }
+
+      document.querySelector("ff-suggest").addEventListener("suggest-item-clicked", function (e) {
+        var ffSuggestItem = e.detail.element;
+        var suggestionData = e.detail.suggestion;
+        window.location = FixFactFinderLink(suggestionData.searchParams);
+        ffSuggestItem.ffPreventDefault = true;
+      });
+    </script>
+
+  </div>
+</div>  
   <div class="black-banner clearfix">
     <ul class="nav">
       <li class="ddl"><a class="women " data-rel="women-move-on" href="/en-US/women/clothing">WOMAN</a></li>
@@ -43,12 +133,10 @@
       <li class="ddl"><a class="baby-girl " data-rel="baby-girl-move-on" href="/en-US/baby_girl/clothing">BABY GIRL</a></li>
       <li class="ddl"><a class="baby-boy " data-rel="baby-boy-move-on" href="/en-US/baby_boy/clothing">BABY BOY</a></li>
     </ul>
-
     <h2><a href="/en-US/women"><img src="/Content/images/logo.jpg" alt="The Clutcher - Shop over the brand" title="The Clutcher - Shop over the brand"></a></h2>
-
     <ul class="utility">
       <li>
-<a href="/en-US/user/login" rel="nofollow">LOGIN</a>          <span class="separator">|</span>
+<a href="/en-US/user/login" rel="nofollow">LOGIN</a>        <span class="separator">|</span>
 <a href="/en-US/user/register" rel="nofollow">REGISTER</a>        <span class="separator">|</span>
       </li>
       <li class="settings">
@@ -63,20 +151,19 @@
   <div class="women-move-on sub-menu-bck " data-rel="women">
     <div class="top-menu">
   <div class="search">
-<form action="/en-US/products/search" method="post"><input id="opt" name="opt" type="hidden" value="no-genre"><input id="search_term" name="search_term" placeholder="SEARCH" type="text" value="">      <input type="submit" value="SEARCH">
-</form>  </div>
-
+  </div>
   <ul class="clearfix">
     <li><a class="" href="/en-US/women/brands">DESIGNERS</a></li>
-      <li><a class=" " href="/en-US/women/winter_sales">WINTER SALES</a></li>
-      <li><a class=" " href="/en-US/women/most_desired">MOST DESIRED</a></li>
+      <li><a class=" " href="/en-US/women/sale_aw16">SALE AW16</a></li>
+      <li><a class=" " href="/en-US/women/new_coll_ss17">NEW COLL. SS17</a></li>
+      <li><a class=" " href="/en-US/women/special17">SPECIAL17</a></li>
     <li><a class="" href="/en-US/women/newin">NEW ARRIVALS</a></li>
       <li><a class="" href="/en-US/women/clothing">CLOTHING</a></li>
       <li><a class="" href="/en-US/women/accessories">ACCESSORIES</a></li>
       <li><a class="" href="/en-US/women/bags">BAGS</a></li>
       <li><a class="" href="/en-US/women/shoes">SHOES</a></li>
       <li><a class="" href="/en-US/women/jewels">JEWELS</a></li>
-    
+
       <li><a class="" href="/en-US/women/outlet">OUTLET</a></li>
   </ul>
 </div>
@@ -85,18 +172,19 @@
   <div class="men-move-on sub-menu-bck " data-rel="men">
     <div class="top-menu">
   <div class="search">
-<form action="/en-US/products/search" method="post"><input id="opt" name="opt" type="hidden" value="no-genre"><input id="search_term" name="search_term" placeholder="SEARCH" type="text" value="">      <input type="submit" value="SEARCH">
-</form>  </div>
-
+  </div>
   <ul class="clearfix">
     <li><a class="" href="/en-US/men/brands">DESIGNERS</a></li>
-      <li><a class=" " href="/en-US/men/winter_sales">WINTER SALES</a></li>
+      <li><a class=" " href="/en-US/men/sale_aw16">SALE AW16</a></li>
+      <li><a class=" " href="/en-US/men/new_coll_ss17">NEW COLL. SS17</a></li>
+      <li><a class=" " href="/en-US/men/special17">SPECIAL17</a></li>
     <li><a class="" href="/en-US/men/newin">NEW ARRIVALS</a></li>
       <li><a class="" href="/en-US/men/clothing">CLOTHING</a></li>
       <li><a class="" href="/en-US/men/accessories">ACCESSORIES</a></li>
       <li><a class="" href="/en-US/men/bags">BAGS</a></li>
       <li><a class="" href="/en-US/men/shoes">SHOES</a></li>
-    
+      <li><a class="" href="/en-US/men/jewels">JEWELS</a></li>
+
       <li><a class="" href="/en-US/men/outlet">OUTLET</a></li>
   </ul>
 </div>
@@ -105,18 +193,17 @@
   <div class="baby-girl-move-on sub-menu-bck " data-rel="baby-girl">
     <div class="top-menu">
   <div class="search">
-<form action="/en-US/products/search" method="post"><input id="opt" name="opt" type="hidden" value="no-genre"><input id="search_term" name="search_term" placeholder="SEARCH" type="text" value="">      <input type="submit" value="SEARCH">
-</form>  </div>
-
+  </div>
   <ul class="clearfix">
     <li><a class="" href="/en-US/baby_girl/brands">DESIGNERS</a></li>
-      <li><a class=" " href="/en-US/baby_girl/winter_sales">WINTER SALES</a></li>
+      <li><a class=" " href="/en-US/baby_girl/sale_aw16">SALE AW16</a></li>
+      <li><a class=" " href="/en-US/baby_girl/new_coll_ss17">NEW COLL. SS17</a></li>
     <li><a class="" href="/en-US/baby_girl/newin">NEW ARRIVALS</a></li>
       <li><a class="" href="/en-US/baby_girl/clothing">CLOTHING</a></li>
       <li><a class="" href="/en-US/baby_girl/accessories">ACCESSORIES</a></li>
       <li><a class="" href="/en-US/baby_girl/bags">BAGS</a></li>
       <li><a class="" href="/en-US/baby_girl/shoes">SHOES</a></li>
-    
+
       <li><a class="" href="/en-US/baby_girl/outlet">OUTLET</a></li>
   </ul>
 </div>
@@ -125,23 +212,21 @@
   <div class="baby-boy-move-on sub-menu-bck " data-rel="baby-boy">
     <div class="top-menu">
   <div class="search">
-<form action="/en-US/products/search" method="post"><input id="opt" name="opt" type="hidden" value="no-genre"><input id="search_term" name="search_term" placeholder="SEARCH" type="text" value="">      <input type="submit" value="SEARCH">
-</form>  </div>
-
+  </div>
   <ul class="clearfix">
     <li><a class="" href="/en-US/baby_boy/brands">DESIGNERS</a></li>
-      <li><a class=" " href="/en-US/baby_boy/winter_sales">WINTER SALES</a></li>
+      <li><a class=" " href="/en-US/baby_boy/sale_aw16">SALE AW16</a></li>
+      <li><a class=" " href="/en-US/baby_boy/new_coll_ss17">NEW COLL. SS17</a></li>
     <li><a class="" href="/en-US/baby_boy/newin">NEW ARRIVALS</a></li>
       <li><a class="" href="/en-US/baby_boy/clothing">CLOTHING</a></li>
       <li><a class="" href="/en-US/baby_boy/accessories">ACCESSORIES</a></li>
       <li><a class="" href="/en-US/baby_boy/bags">BAGS</a></li>
       <li><a class="" href="/en-US/baby_boy/shoes">SHOES</a></li>
-    
+
       <li><a class="" href="/en-US/baby_boy/outlet">OUTLET</a></li>
   </ul>
 </div>
   </div>
-
 
   <div class="modal-nations">
 <form action="/en-US/home/changeSettings" method="post">    <div class="stage clearfix">
@@ -199,6 +284,10 @@
                 <li>
                   <input id="lbl54" name="idNazioneSelezionata" type="radio" value="54">
                   <label for="lbl54">Croatia</label>  
+                </li>
+                <li>
+                  <input id="lbl57" name="idNazioneSelezionata" type="radio" value="57">
+                  <label for="lbl57">Cyprus</label>  
                 </li>
                 <li>
                   <input id="lbl58" name="idNazioneSelezionata" type="radio" value="58">
@@ -517,10 +606,6 @@
                 <li>
                   <input id="lbl39" name="idNazioneSelezionata" type="radio" value="39">
                   <label for="lbl39">Cambodia</label>  
-                </li>
-                <li>
-                  <input id="lbl57" name="idNazioneSelezionata" type="radio" value="57">
-                  <label for="lbl57">Cyprus</label>  
                 </li>
                 <li>
                   <input id="lbl63" name="idNazioneSelezionata" type="radio" value="63">
@@ -1220,7 +1305,7 @@
               </li>
               <li>
                 <input id="tasso-4" name="idTassoCambioSelezionato" type="radio" value="4">
-                <label for="tasso-4">¥ JPY</label>
+                <label for="tasso-4">JPY¥ JPY</label>
               </li>
               <li>
                 <input id="tasso-5" name="idTassoCambioSelezionato" type="radio" value="5">
@@ -1240,7 +1325,7 @@
               </li>
               <li>
                 <input id="tasso-9" name="idTassoCambioSelezionato" type="radio" value="9">
-                <label for="tasso-9">¥ CNY</label>
+                <label for="tasso-9">CNY¥ CNY</label>
               </li>
           </ul>
         </div>
@@ -1273,7 +1358,7 @@
     </div>
 </form></div>
 </div>
-
+<div id="wmr-top-shared"></div>
     
 <div class="policy stage clearfix">
   <ul class="menu">
@@ -1290,7 +1375,6 @@
       <div class="text"><p><b>Information sheet</b></p>  <p>Pursuant to art. 13, Legislative Decree nr. 196/03 as amended ("Privacy code"), we  would like to inform you that your data will be processed, also with electronic instruments, by Brefiweb, with headquarters in Galleria Rialto, 3, 31100 – Treviso (TV), VAT and tax code 04554010266 and Treviso Business registry number TV359386, represented by the legal representative&nbsp;<i>pro tempore</i>&nbsp;as data controller for executing contracts, responding to requests and rendering the services you required, as well as to meet the obligations set by national and/or community laws and regulations. Failure to complete the mandatory fields marked with an asterisk&nbsp;<b>[*]</b>&nbsp;shall make it impossible for Brefiweb S.r.l. to continue providing the services you requested. Provided personal data shall also be processed to deliver the&nbsp;<i>newsletter</i>&nbsp;and promotional material. Regarding these purposes, you will not be requested to consent to their processing: Brefiweb S.r.l.informs you that with (i) site registration, (ii) placing orders <i>on</i>-<i>line</i> and consequent purchase contract closure, (iii) the request for information on products and services offered by Brefiweb S.r.l., whatever form or vehicle used by the user to send this request to the company, (iv) site navigation via so-called system “logs” , the customer expressly consents and states to accept the simultaneous registration for the newsletter to receive promotional material on the products and services offered by Brefiweb S.r.l., without requiring the latter to request the user's consent for this type of process case by case.</p>  <p>Your personal data may be communicated to third parties to Brefiweb S.r.l., within the limits and for the purposes indicated above. We inform you that you may exercise the rights set in article 7 of the Privacy code by sending an <i>e-mail</i>&nbsp;to customercare@theclutcher.com</p>  <p>In any case, we request you update your data in the event of changes and read the full information sheet provided below.</p>  <p><b>Transcription of</b><b></b><b> art. 13 Legislative Decree June 30, 2003, nr. 196&nbsp;</b><b>–</b><b>&nbsp;Information sheet</b></p>  <ol>  <li>The data subject as well as any entity from whom or which personal data is collected shall be preliminarily informed, either orally or in writing, as to:<ol>  <li>the purposes and methods of the processing for which data is intended;</li>  <li>the mandatory or voluntary manner in which data is provided;</li>  <li>the consequences of failing to reply;</li>  <li>the entities or categories of entities to whom or which the data may be communicated or who/which may get to know the data in their capacity as data controllers or processors and the scope of dissemination of said data;</li>  <li>the rights stated in article 7;</li>  <li>the identification data concerning the data controller and, where designated, the data controller's representative in the State's territory pursuant to article 5. If several data processors have been designated by the data controller, at least one of them shall be referred to and either the site on the communications network or the mechanisms for easily accessing the updated list of data processors shall be specified. If a data processor has been designated to provide responses to data subjects in the event the rights stated in article 7 are exercised, this data processor shall be indicated.</li>  </ol></li>  <li>The information as per paragraph 1 shall also contain the items referred to in specific provisions of this Code and may fail to include certain items if the latter are already known to the entity providing the data or their knowledge may effectively impair supervisory or control activities carried out by public bodies for purposes related to defence or State security or else for the prevention, suppression or detection of crimes.</li>  <li>The Guarantor may issue a provision to set simplified information procedures for public phone and information services.</li>  <li>Should personal data not be collected from the data subject, the information sheet as per paragraph 1, including the categories of processed data, shall be provided to the data subject when data is recorded or, when foreseen for their communication, no later than when the data is first communicated.</li>  <li>Paragraph 4 shall not apply when:<ol>  <li>data is processed based on legal obligations or community regulations or norms;</li>  <li>data is processed to conduct the defence investigations stated in law 397 dated December 7, 2000 or, in any case, to establish or defend a legal claim provided that the data is exclusively processed for these purposes and for the period strictly necessary therefore:</li>  <li>providing the data subject with information involves an effort that the Guarantor deems manifestly disproportionate to the right to be protected in which case the Guarantor shall set suitable measures, if necessary, or if deemed impossible by the Guarantor.</li>  </ol></li>  </ol>  <p><b>Transcription of</b><b></b><b> art. 7 Legislative Decree June 30, 2003, nr.196&nbsp;</b><b>–</b><b>&nbsp;Personal data access and other rights</b></p>  <ol>  <li>The data subject has the right to obtain confirmation as to whether or not personal data concerning him exist, even if not yet recorded, and their communication in intelligible form.</li>  <li>The data subject has the right to receive indications:</li>  <ol>  <li>on the source of personal data;</li>  <li>of the processing purposes and methods;</li>  <li>on the logic applied in the event electronic tools are employed for processing;</li>  <li>on the identification data concerning the data controller, data processor and representative assigned pursuant to article 5, comma 2;</li>  <li>on the entities or categories of entities to whom or which the personal data may be communicated and who or which may get to know said data in their capacity as National designated representative, controller or processor.</li>  <li>The data subject has the right to obtain:</li>  <ol>  <li>the update, rectification or, where interested therein, the integration of data;</li>  <li>the cancellation, anonymization or blocking of data that have been processed unlawfully including those that are not required to be saved for the purposes for which the data was collected or subsequently processed;</li>  <li>confirmation that the operations stated in points a) and b) were communicated, even regarding their content and to whom data was communicated or disclosed, except for those cases in which this obligation is impossible or implies the use of means manifestly disproportionate to the protected right.</li>  <li>The data subject has the right to fully or partially object:</li>  <ol>  <li>on legitimate grounds, to the processing of personal data concerning him/her, even though they are relevant to the purpose of collection;</li>  <li>to the processing of personal data concerning him/her where it is carried out for the purpose of sending advertising materials or direct selling or else for the performance of market or commercial communication surveys.</li>  </ol></ol></ol></ol>  <p><b>COOKIES POLICIES</b></p>  <p>Our site uses so-called cookies (simple and secure files saved by the site on your computer or other access system to save preferences like login information) that will be reused for subsequent site accesses. Cookies can be classified into four different types:</p>  <ul>  <li>Cookies for site functions: they allow the full navigation in the site using all functions made available by the site to the customer such as, for example, the shopping cart or wish list;</li>  <li>Cookies to study analytical site data: these are used to study and analyse user behaviour in the site and to understand the relevant use methods, in order to constantly improve site features and functions.</li>  <li>Cookies for preference settings: they allow you to customise navigation, setting preferences or settings that you set while on the site (for example, user name, language, nation, language, etc.) to improve your shopping experience, making it easier and more personalised.</li>  <li>Retail cookies: these are used to convey significant sales content to site users. The number of promotional message hits by the same user is managed with this type of cookie, simultaneously measuring our communication campaign effectiveness.</li>  </ul>  <p>Site access and page navigation require the user and/or customer's acceptance of the use of different types of cookies: the customer thus provides consent when site cookies are entered and saved in the browser tool used and at their use for subsequent site access.</p>  <p>All data collected on traffic, visits, preferences, wish lists, sales and any other sales information that can be used by us or third parties employed by us for this reason shall not contain any reference that can in any way be traced to the specific user or customer.</p>  <p>Brefiweb S.r.l. may use the preferences and personal information for internal marketing analyses to monitor and analyse user behaviour on the site, in order to constantly improve site architecture to increasingly meet customer expectations and needs.</p>  <p>Brefiweb S.r.l. reserves the right to employ third parties to collect and analyse information regarding user behaviour and use methods in the site: in these cases, Brefiweb S.r.l. guarantees the user and customer the full observance of that set forth by the privacy code, requiring its partners to subscribe to stringent privacy agreements and the observance of precise data use instructions.</p>  <p>Brefiweb S.r.l. agrees not to transfer or transmit personal user and/or customer data to third parties for sales purposes.</p>  <p>For any information on how to remove cookies from your computer, please refer to your browser's  "Help and technical support" section.</p></div>
   </div>
 </div>
-
 
 
     <div class="footer">
@@ -1327,6 +1411,13 @@
     </div>
   </div>
 
+  <div class="methods-carriers">
+    <div>
+      <img src="/Content/images/methods.jpg">
+      <img src="/Content/images/carriers.jpg">
+    </div>
+  </div>
+
   <div class="credits">
     <ul class="follow-us">
       <li><a target="_blank" rel="nofollow" href="https://www.facebook.com/theclutcher" class="facebook">facebook</a></li>
@@ -1334,6 +1425,7 @@
       <li><a target="_blank" rel="nofollow" href="http://theclutcher.polyvore.com/" class="polyvore">polyvore</a></li>
       <li><a target="_blank" rel="nofollow" href="https://pinterest.com/theclutcher" class="pinterest">pinterest</a></li>
       <li><a target="_blank" rel="publisher" href="https://plus.google.com/113528911906459753906" class="plus">Google+</a></li>
+      <li><a target="_blank" rel="nofollow" href="https://www.instagram.com/theclutcher_world/" class="instagram">instagram</a></li>
     </ul>
 
     <div class="verisign">
@@ -1352,9 +1444,7 @@
 
 
   </div>
-
   <div class="loader"><span class="info">... PLEASE WAIT ...</span></div>
-
   <div style="display:none;">
     <div id="must-login" class="modal-must-login">
       <h2>We're sorry ...</h2>
@@ -1362,14 +1452,12 @@
       <a href="/en-US/user/login" rel="nofollow">Please login or register</a>
     </div>
   </div>
-
   <div style="display:none;">
     <div class="modal-pnd">
       <h2>WE'RE SORRY, BUT ...</h2>
       <p>... the content you're looking for is not available anymore.<br>Please search through the standard navigation site.</p>
     </div>
   </div>
-
   <div class="modal-newsletter">
   <a href="javascript:;" class="close"><img src="/Content/images/close_zoom.gif" alt=""></a>
   <img src="/Content/images/logo-banca.jpg" alt="" class="logo">
@@ -1378,7 +1466,6 @@
   <a class="options" href="/en-US/newsletter" rel="nofollow">SIGN UP NOW</a>
   <a href="javascript:;" class="options decline">NOT NOW</a>
 </div>
-
 
   <!-- CDN -->
   <script src="//ajax.aspnetcdn.com/ajax/jQuery/jquery-1.9.1.min.js"></script>
@@ -1397,16 +1484,14 @@
 
   <script src="//cdn.jsdelivr.net/jquery.slick/1.5.7/slick.min.js"></script>
 
-  <script src="/bundles/scripts?v=Fri3F_B7luiGQ86CflxE279Zia0degFHCWvr9wdk4PI1"></script>
+  <script src="/bundles/scripts?v=_Epcs32mDVh0pZC4mvC87ASsNPmwjkmSrYdHLOjYpVo1"></script>
 
 
-  <script src="/bundles/generic?v=tU9YMxwDLbIwRpUEQkFZFaWwZRaLj1u_r0LuduG-pAc1"></script>
-
+  <script src="/bundles/generic?v=-rmfGVYj2X7emezn_y1MAbnZVv94VxIZSnft8lH6CvE1"></script>
 
   <script>
     mustOpen = '';
   </script>
-
   
   <script type="text/javascript">
     $('#motivazioni')
@@ -1441,11 +1526,9 @@
       });
   </script>
 
-
-  <script type="text/javascript" src="https://barcestorage.blob.core.windows.net/uploaded/condition.js"></script>
+  <script type="text/javascript" src="https://theclutcherstorage.blob.core.windows.net/uploaded/condition.js"></script>
 <script type="text/javascript" src="/Scripts/brg_service.js"></script>
 <script type="text/javascript">_brg_service.initialize();</script>
-
   <script>
     
 
@@ -1457,7 +1540,6 @@
 
     
   </script>
-
   <!-- Naver Base Script -->
   <script type="text/javascript" src="//wcs.naver.net/wcslog.js"></script>
   <!-- Naver conversion Script -->
@@ -1474,7 +1556,6 @@
     wcs.inflow();
     wcs_do(_nasa);
   </script>
-
   <!-- Google Tag Manager -->
   <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-7BHL" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
   <script>
