@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the laylita.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207092225id_/http%3A//laylita.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laylita.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402183455id_/https%3A//www.laylita.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Laylita.com
 
-This Privacy Policy governs the manner in which Laylita.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the http://laylita.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Laylita.com  
+This Privacy Policy governs the manner in which Laylita.com collects, uses, maintains and discloses information collected from users (each, a “User”) of the https://www.laylita.com website (“Site”). This privacy policy applies to the Site and all products and services offered by Laylita.com  
 **Children under 13**  
 We care about protecting the privacy of children. We won’t knowingly allow anyone under 13 to provide us any personally identifying information. Children should always get permission from their parents before sending any information about themselves (such as their names, email addresses, and phone numbers) over the Internet, to us or to anyone else. If you’re under 13, please do not provide us with any personally identifying information (such as your name, your email address or your phone number).  
 **Personal identification information**  
@@ -60,5 +60,3 @@ By using this Site, you signify your acceptance of this policy and terms of serv
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please send an email to layla at laylita dot com
 
 _**This privacy policy was last updated on  September 25, 2015**_
-
-This post was last modified:  September 25th, 2015 by 
