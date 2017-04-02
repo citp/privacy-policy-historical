@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kidswb.com privacy policy that was archived on 2016-05-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160507130257id_/http%3A//www.scoobydoo.com/scooby-doo/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kidswb.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402083533id_/https%3A//www.wbkidsgo.com/looney-tunes/privacy-policy) for the most accurate reproduction.*
 
 # Privacy | Kids WB
 
@@ -68,7 +68,8 @@ Burbank, CA 91522 
 Email: [privacy@wb.com](mailto:privacy@wb.com) 
 
 **NOTIFICATION REGARDING UPDATES  **  
-From time to time, we may update this Privacy Policy. We will notify Site visitors about material changes to our privacy practices by placing a notice on the Site where this Privacy Policy is posted or by sending the parent or guardian an email message. We encourage visitors to periodically check back to review this policy to understand our current privacy practices. 
+From time to time, we may update this Privacy Policy. We will notify Site visitors about material changes to our privacy practices by placing a notice on the Site where this Privacy Policy is posted or by sending the parent or guardian an email message. We encourage visitors to periodically check back to review this policy to understand our current privacy practices.   
+
 
 Date Updated: December 16, 2015  
  
