@@ -1,95 +1,172 @@
-> *The following text is extracted and transformed from the onetrust.com privacy policy that was archived on 2016-06-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160622195008id_/http%3A//www.onetrust.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onetrust.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402022126id_/https%3A//onetrust.com/privacy-policy) for the most accurate reproduction.*
 
-# OneTrust | Privacy Policy
+# Privacy Policy | OneTrust
 
-Effective date: April 1st , 2016
+We at OneTrust LLC and OneTrust Technology Limited (collectively, “OneTrust,” “we” and “us”) know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about how we collect, store, use and disclose information about you when you interact or use any of the following websites:  [www.onetrust.com](http://www.onetrust.com/), [www.cookielaw.org](http://www.cookielaw.org/), [www.optanon.com](http://www.optanon.com/), [www.governor.co.uk](http://www.governor.co.uk/), and <https://cookiepedia.co.uk/> (collectively the “Websites”) or any related events, trade shows, sales or marketing, and/or if you use any of our products, services or applications (including any trial) (collectively the “Services”) in any manner.
 
-We at OneTrust LLC. (“OneTrust,” “we” and “us”) know you care about how your personal information is used and shared, and we take your privacy seriously. Please read the following to learn more about our Privacy Policy. **By using or accessing our website located at OneTrust.com (the “Website”) or any of our products, services or applications (including any pilot) (the “Service”) in any manner, you acknowledge that you accept the practices and policies outlined in this Privacy Policy, and you hereby consent that we will collect, use, and share your information in the following ways.**
+* * *
 
-Remember that your use of OneTrust’s Services is at all times subject to any terms and conditions that you have agreed to with OneTrust, which incorporate this Privacy Policy. Any terms we use in this Policy without defining them have the definitions given to them in such terms and conditions. 
+## What does this Privacy Policy cover?
 
-##### What does this Privacy Policy cover?
+This Privacy Policy covers our treatment of information that we gather when you are accessing or using our Websites or Services or when you contact us in any manner. We gather various types of information, including information that identifies you as an individual (“Personal Information”) from our users, as explained in more detail below.
 
-This Privacy Policy covers our treatment of personally identifiable information ("Personal Information") that we gather when you are accessing or using our Website or Services, but not to the practices of companies we don’t own or control, or people that we don’t manage. We gather various types of Personal Information from our users, as explained in more detail below. 
+## What information does OneTrust Collect?
 
-We use this Personal Information internally in connection with our Website and Services only to: 
+### Information You Provide to Us:
 
-  * personalize (e.g. understanding your needs and preferences), provide, maintain and improve our Website or Services,
-  * allow you to set up a user account and profile,
-  * contact you about your use of the Website or Services,
-  * fulfill your requests for or respond to your inquiries regarding certain products or services or employment consideration, 
-  * meet legal and regulatory requirements, 
-  * send you our newsletter or other product news, but only if you sign up for it, 
-  * analyze how you use the Website or Services, and
-  * other purposes where you provide us with explicit consent.
+_When you use the Websites:_ We may collect any Personal Information that you choose to send to us or provide to us, for example, on our “Request a Demo” (or similar) online form or if you register for a OneTrust webinar. If you contact us through the Websites, we will keep a record of our correspondence.
 
+_When you use the Services:_ We receive and store information you provide directly to us. For example, when setting up new users, we collect Personal Information, such as name and e-mail address, to provide them with Services. The types of information we may collect directly from our customers and their users include: names, usernames, email addresses, postal addresses, phone numbers, job titles, transactional information (including Services purchased), as well as any other contact or other information they choose to provide us or upload to our systems in connection with the Services.
 
+### Information We Automatically Collect:
 
-In certain cases, we may also share some Personal Information with third parties, but only as described below. If you provide us with notice that you plan on terminating your use of our Service, we will use our best efforts to promptly delete all of your Personal Information and cease any use thereof, provided that to the extent that we have already improved the Service or any product based on our use of your Personal Information (as allowed herein), we will continue to use those improvements, provided that any such information incorporated therein has been aggregated and de-identified. 
+_When you use the Websites:_ When you visit the Websites, we collect certain information related to your device, such as your device’s IP address, referring website, what pages your device visited, and the time that your device visited our Website.
 
-We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any personal information about yourself to us. If we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us personal information, please contact us at support@OneTrust.com. 
+_When you use the Services:_ _Usage information_ – we keep track of user activity in relation to the types of Services our customers and their users use, the configuration of their computers, and performance metrics related to their use of the Services.  _Log information_ – we log information about our customers and their users when you use one of the Services including Internet Protocol (“IP”) address. _Information collected by cookies and other similar technologies_ – we use various technologies to collect information which may include saving cookies to users’ computers.
 
-##### Will OneTrust ever change this Privacy Policy?
+For further information, please see the section below headed “Cookies and other Tracking Technologies”.
 
-We’re constantly trying to improve our Website and Services, so we may need to change this Privacy Policy from time to time as well, but we will alert you to changes by placing a notice on OneTrust.com, by sending you an email, and/or by some other means. The foregoing legal notices will govern your use of the Services, and you are responsible for reading and understanding them. If you use the Services after any changes to the Privacy Policy have been posted, that means you agree to all of the changes. 
+## How do we use the information?
 
-##### What Information does OneTrust Collect?
+_Websites:_ We will use the information we collect via our Websites:
 
-###### Information You Provide to Us:
-
-We receive and store any information you knowingly provide to us. For example, we collect Personal Information that you provide to us such as the names, email addresses, and phone numbers you input into the system. Certain information may be required to register with us or to take advantage of some of our features. 
-
-We will communicate with you via email and, possibly, other means if you have provided us the means to do so but only for the limited purposes described herein. If you provide contact information through our Website, we may send you a newsletter, or email you about our products or Services, and we may receive a confirmation when you open an email from us. This confirmation helps us make our communications with you more interesting and improve our services. 
-
-You will be required to provide certain contact information during your registration for the Services. We will only use this information to communicate with you about your use of and access to the Services unless you explicitly consent to other communications. 
-
-###### Cookie Policy:
-
-We currently do not use any cookies on the OneTrust.com website. 
-
-##### Will OneTrust Share Any of the Confidential Information it Receives?
-
-We do not rent or sell your Personal Information in personally identifiable form to anyone. We may share your Personal Information with third parties as described in this section: 
-
-**Agents:** We employ other companies and people to perform tasks on our behalf and need to share your information with them to provide products or services to you; for example, we may use a payment processing company, a website analytics company or an email service provider (e.g. MailChimp). Unless we tell you differently and you consent, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us. 
-
-**Business Transfers:** We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party. 
-
-**Protection of OneTrust and Others:** We reserve the right to access, read, preserve, and disclose any information that we believe is necessary to comply with law or court order; enforce or apply our agreements with you and other agreements; or protect the rights, property, or safety of OneTrust, our employees, our users, or others. 
-
-##### Is Personal Information about me secure?
-
-We have established commercially reasonable security practices to protect Personal Information we hold in our records, but unfortunately, we cannot guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. Among other practices, your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account. 
-
-##### What Personal Information can I access?
-
-Within the Services, you may access, and, in some cases, edit or delete the following information you’ve provided to us:
-
-  * name and password
-  * email address
+  * To administer our Website, our events and for internal operations, including troubleshooting, data analysis, testing, statistical and survey purposes;
+  * To improve our Website to ensure that content is presented in the most effective manner for you and for your computer;
+  * Analyze customers’ use of the Websites for trend monitoring, marketing and advertising purposes;
+  * For purposes made clear to you at the time you submit your information – for example, to fulfill your request for a demo, to provide you with access to one of our webinar’s or whitepaper’s or to provide you with information you have requested about our Services; and
+  * As part of our efforts to keep our Website safe and secure.
 
 
 
-The information you can view, update, and delete may change as the Services change. If you have any questions about viewing or updating information we have on file about you, please contact us at support@onetrust.com . 
+_Services:_ We may use the information we collect from our customers and their users in connection with the Services we provide for a range of reasons, including to:
 
-California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: support@OneTrust.com 
+  * To set up a user account,
+  * Provide, operate and maintain the Services;
+  * Process and complete transactions, and send related information, including transaction confirmations and invoices;
+  * Manage our customers’ use of the Services, respond to enquiries and comments and provide customer service and support;
+  * Send customers technical alerts, updates, security notifications, and administrative communications;
+  * Investigate and prevent fraudulent activities, unauthorized access to the Services, and other illegal activities; and
+  * For any other purposes about which we notify customers and users.
 
-##### What choices do I have?
+
+
+We may also use the information you send to us via the Websites and/or Services, to communicate with you via email and, possibly, other means, regarding products, services, offers, promotions and events we think may be of interest to you or to send you our newsletter, if this is in accordance with your marketing preferences.  However, you will always be able to opt-out of such communications at any time (see the “Your Choices” section below).
+
+## How do we share and disclose information to third parties?
+
+We do not rent or sell your Personal Information to anyone. We may share and disclose information (including Personal Information) about our customers in the following limited circumstances:
+
+_Vendors, consultants and other service providers:_   We may share your information with third party vendors, consultants and other service providers who we employ to perform tasks on our behalf. These companies include (for example) our payment processing providers, website analytics companies (e.g., [Google Analytics](https://www.google.com/policies/privacy/partners/)), product feedback or help desk software providers (e.g. ZenDesk), CRM service providers (e.g., Salesforce), email service providers (e.g., Sendgrid) and others.
+
+If OneTrust has received your Personal Information in the United States and subsequently transfers that information to a third party agent or service provider for processing, OneTrust shall remain responsible for ensuring that such third party agent or service provider processes your Personal Information to the standard required by our Privacy Shield commitments (see the section below headed “Additional Information for European Users”). Unless we tell you differently and you consent, our agents do not have any right to use the Personal Information we share with them beyond what is necessary to assist us.
+
+_Business Transfers:_  We may choose to buy or sell assets, and may share and/or transfer customer information in connection with the evaluation of and entry into such transactions. Also, if we (or our assets) are acquired, or if we go out of business, enter bankruptcy, or go through some other change of control, Personal Information could be one of the assets transferred to or acquired by a third party.
+
+_OneTrust Group Companies:_ We may also share your personal data with our parent companies, subsidiaries and/or affiliates for purposes consistent with this Privacy Policy.
+
+_Protection of OneTrust and Others:  _We reserve the right to access, read, preserve, and disclose any information as necessary to comply with law or court order; enforce or apply our agreements with you and other agreements; or protect the rights, property, or safety of OneTrust, our employees, our users, or others.
+
+_Disclosures for National Security or Law Enforcement:_ Under certain circumstances, we may be required to disclose your Personal Information in response to valid requests by public authorities, including to meet national security or law enforcement requirements.
+
+##  Is Personal Information about me secure?
+
+We use appropriate technical, organizational and administrative security measures to protect any information we hold in our records from loss, misuse, and unauthorized access, disclosure, alteration and destruction.  Unfortunately, no company or service can guarantee complete security. Unauthorized entry or use, hardware or software failure, and other factors, may compromise the security of user information at any time. Among other practices, your account is protected by a password for your privacy and security. You must prevent unauthorized access to your account and Personal Information by selecting and protecting your password appropriately and limiting access to your computer or device and browser by signing off after you have finished accessing your account.
+
+## Cookies and other tracking technologies
+
+Our Websites and some of our Services use cookies (small text files containing a string of alphanumeric characters that we put on your computer) and other similar tracking technologies (like web beacons, tags and scripts) to uniquely identify your browser and to gather information about how you interact with the Websites and Services. We use this information for the following purposes:
+
+  * Assisting you in navigation;
+  * Assisting in registration, login, and your ability to provide feedback;
+  * Analyzing your use of our products, services or applications; and
+  * Assisting with our promotional and marketing efforts;
+
+
+
+We also may use clear gifs in HTML-based emails sent to our users to track which emails are opened by recipients. This information is used to enable more accurate reporting, improve the effectiveness of our marketing, and make our Services and Websites better for our users.
+
+We also utilize Google Analytics, a web analysis service provided by Google, to better understand your use of our Websites and Services. Google Analytics collects information such as how often users visit the Websites, what pages they visit and what other sites they used prior to visiting. Google uses the data collected to track and examine the use of the Websites, to prepare reports on its activities and share them with other Google services. Google may use the data collected on the Websites to contextualize and personalize the ads of its own advertising network. Google’s ability to use and share information collected by Google Analytics about your visits to the Websites is restricted by the [Google Analytics Terms of Use](https://www.google.com/analytics/terms/us.html) and the [Google Privacy Policy](http://www.google.com/policies/privacy/). Google offers an opt-out mechanism for the web available [here](https://tools.google.com/dlpage/gaoptout/).
+
+## Your Privacy Rights
+
+### What choices do I have?
 
 You can always opt not to disclose information to us, but keep in mind some information may be needed to register with us or to take advantage of some of our features.
 
-You may be able to add, update, or delete information as explained above. Until you terminate your use of the Services, when you update information, we may maintain a copy of the unrevised information in our records. You may request deletion of your account by emailing support@OneTrust.com. Some information may remain in our records after your deletion of such information from your account. As stated earlier, if you provide us with notice that you plan on terminating your use of our Service, we will use our best efforts to promptly delete all of your Personal Information and cease any use thereof, provided that to the extent that we have already improved the Service or any product based on our use of your Personal Information (as allowed herein), we will continue to use those improvements, provided that any information incorporated therein has been aggregated and de-identified. 
+### Cookies
 
-##### Additional information for European Union users
+You can set or amend your web browser controls to accept or reject cookies. If you choose to reject cookies, you may still use our Websites and Services, however your access to some functionality and areas of our Websites or Services may be severely restricted.
 
-We are the data controller for sign-up and account information that you provide to us from the European Union, but you are the data controller for any Personal Information you upload or submit through the Services, and we will only process such information in accordance with your instructions. You agree to comply with applicable data protection laws when you collect and submit Personal Information to us, such as requirements to inform data subjects about the uses and disclosures of their data. Please note that for users located in the EU, the term Personal Information used in this policy is equivalent to the term “personal data” under European data protection laws. 
+### Marketing Communications
 
-IP addresses: Our servers automatically record the incoming IP addresses of our website visitors, and we store such IP addresses in log files. We use these log files for the following purposes: security purposes, system administration, controlling spam, Service analytics, determining your rough city or country location, and tracking referrals. By agreeing to this Privacy Policy, you expressly consent to OneTrust using your IP address for the foregoing purposes. 
+You can opt-out of receiving certain promotional or marketing communications from us at any time, by using the unsubscribe link in the emails communications we send or by contacting us at [support@onetrust.com](mailto:support@onetrust.com) with the word “UNSUBSCRIBE” in the subject field of the email.  If you have any account for our Services, we will still send you non-promotional communications, like service related emails.
 
-You have the right to access, amend or delete any Personal Information we hold about you. Please contact us at support@OneTrust.com to exercise such right. 
+### How can I update and access my information?
 
-Personal Information you submit on the Website or through the Services is sent to the United States and will be primarily processed by us in the United States, on our servers or on our hosted service providers’ cloud servers on our behalf. Some of our product offerings include the ability to host your data in servers located in the EU or other countries. To request this capability, contact support@OneTrust.com. The United States does not have similar data protection laws to the European Union. You expressly consent and agree that we may transfer and process your Personal Information to and in the United States. Your consent is voluntary, and you may revoke it by opting out at any time by contacting us at support@OneTrust.com. Please note that if you opt-out, we may no longer be able to provide you our Services. 
+We provide individuals with the opportunity to access, review, update, and delete any Personal Information we hold about them. You can send an email to [support@onetrust.com](mailto:support@onetrust.com) for this purpose.
 
-##### What if I have questions about this policy?
+If you ask us to delete your information, we will use our best efforts to promptly delete all of your Personal Information and cease any use thereof, provided that nothing in this Privacy Policy shall prevent us from using any aggregated and de-identified Personal Information that does not identify any individual. Please note that we may also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
-If you have any questions or concerns regarding our privacy policies, please send us a detailed message to support@OneTrust.com, and we will try to resolve your concerns.
+California residents are entitled to ask us for a notice identifying the categories of Personal Information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to: [support@onetrust.com](mailto:support@onetrust.com)
+
+If you are resident in the European Economic Area, please see the section below headed “Additional Information for users in the European Economic Area” for further information about your privacy rights.
+
+## Additional information for users in the European Economic Area (“EEA”)
+
+This section sets out the privacy principles we follow with respect to transfers of Personal Information from the EEA to the United States, including Personal Information we receive from individuals residing in the EEA who visits our Websites and/or who may use of our Services or otherwise interact with us.
+
+Please note that for users located in the EEA, the term Personal Information used in this policy is equivalent to the term “personal data” under applicable European data protection laws.
+
+OneTrust LLC complies with the EU-U.S. Privacy Shield Framework (“Privacy Shield”) as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of Personal Information from European Union member countries. OneTrust LLC has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability.  If there is any conflict between the policies in this Privacy Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern.
+
+To learn more about the Privacy Shield program, see the US Department of Commerce’s Privacy Shield website located at [https://www.privacyshield.gov](https://www.privacyshield.gov/).  To view our certification on the Privacy Shield list, please visit <https://www.privacyshield.gov/>
+
+In compliance with the EU-U.S. Privacy Shield Principles, we commit to resolve complaints about your privacy and our collection or use of your Personal Information.  Individuals located within the EEA with inquiries or complaints regarding this Privacy Policy should first contact OneTrust at:
+
+**Andrew Clearwater**  
+Director of Privacy  
+[aclearwater@onetrust.com](mailto:aclearwater@onetrust.com)
+
+We will investigate and attempt to resolve any complaints or disputes regarding the use or disclosure of personal data within 45 days of receiving your complaint. OneTrust LLC has further committed to refer unresolved privacy complaints under the EU-U.S. Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](http://www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint.
+
+Under certain limited circumstances, individuals in the EEA may invoke binding Privacy Shield arbitration as a last resort if all other forms of dispute resolution (discussed above) have been unsuccessful. To learn more about this method of resolution and its availability to you, please visit <https://www.privacyshield.gov/>.
+
+OneTrust LLC is subject to the jurisdiction of the U.S. Federal Trade Commission for purposes of Privacy Shield enforcement.
+
+Please note that OneTrust LLC is required to disclose Personal Information in response to lawful requests by public authorities, including to meet national security or law enforcement requirements.
+
+## U.S.-Swiss Safe Harbor
+
+OneTrust complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from Switzerland.  OneTrust has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  If there is any conflict between the policies in this privacy policy and the U.S.-Swiss Safe Harbor Privacy Principles, the U.S.-Swiss Safe Harbor Privacy Principles shall govern. To learn more about the U.S.-Swiss Safe Harbor and to view our certification page, please visit http://www.export.gov/safeharbor/swiss
+
+In compliance with the U.S.-Swiss Safe Harbor Principles, OneTrust commits to resolve complaints about your privacy and our collection or use of your personal information.  Swiss citizens with inquiries or complaints regarding this privacy policy should first contact OneTrust at:
+
+**Andrew Clearwater**  
+Director of Privacy  
+[aclearwater@onetrust.com](mailto:aclearwater@onetrust.com)
+
+OneTrust has further committed to refer unresolved privacy complaints under the U.S.-Swiss Safe Harbor to an independent dispute resolution mechanism operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit www.bbb.org/us/safe-harbor-complaints for more information and to file a complaint.
+
+## International Data Transfers
+
+Personal Information you submit on the Websites or through the Services is sent to the United States and will be primarily processed by us in the United States and potentially in other countries, on our servers or on our hosted service providers’ cloud servers on our behalf.  These countries may not have similar data protection laws to those in your country of residence. However, we will always protect your information in accordance with this Privacy Policy wherever it is processed. Some of our product offerings include the ability to host your data in servers located in the EU or other countries. To request this capability, contact [support@onetrust.com](mailto:support@onetrust.com).
+
+## California and Delaware “Do Not Track” Disclosures
+
+California and Delaware law require OneTrust to indicate whether it honors “Do Not Track” settings in your browser concerning targeted advertising. “Do Not Track” is a standard that is currently under development. As it is not yet finalized, OneTrust adheres to the standards set out in this Privacy Policy and does not monitor or respond to Do Not Track browser requests.
+
+## Linked Websites
+
+For your convenience, hyperlinks may be posted on the Websites that link to other websites (the “Linked Sites”). We are not responsible for, and this Privacy Policy does not apply to, the privacy practices of any Linked Sites or of any companies that we do not own or control. Linked Sites may collect information in addition to that which we collect on the Websites. We do not endorse any of these Linked Sites, the services or products described or offered on such Linked Sites, or any of the content contained on the Linked Sites. We encourage you to seek out and read the privacy policy of each Linked Site that you visit to understand how the information that is collected about you is used and protected.
+
+## Children
+
+We do not knowingly collect or solicit personal information from anyone under the age of 13. If you are under 13, please do not attempt to register for the Services or send any Personal Information about yourself to us. If we learn that we have collected Personal Information from a child under age 13, we will delete that information as quickly as possible. If you believe that a child under 13 may have provided us Personal Information, please contact us at [support@onetrust.com](mailto:support@onetrust.com).
+
+## Will OneTrust ever change this Privacy Policy?
+
+We’re constantly trying to improve our Websites and Services, so we may need to change this Privacy Policy from time to time as well. We will alert you to material changes by, for example, placing a notice on our Websites and/or by sending you an email (if you have registered your e-mail details with us) when we are required to do so by applicable law. You can see when this Privacy Policy was last updated by checking the date at the top of this page. You are responsible for periodically reviewing this Privacy Policy.
+
+## What if I have questions about this policy?
+
+If you have any questions or concerns regarding our privacy policies, please send us a detailed message to [support@onetrust.com](mailto:support@onetrust.com), and we will try to resolve your concerns.
