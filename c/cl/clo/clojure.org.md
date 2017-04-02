@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the clojure.org privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127143705id_/http%3A//clojure.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clojure.org privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402195924id_/https%3A//clojure.org/privacy) for the most accurate reproduction.*
 
 # Clojure - Privacy
 
