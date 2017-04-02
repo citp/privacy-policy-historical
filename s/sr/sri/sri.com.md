@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sri.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214135037id_/https%3A//www.sri.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sri.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403013354id_/https%3A//www.sri.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | SRI International
-
-## SRI Privacy Policy
 
 SRI International (SRI) is a nonprofit organization that performs research and development activities for a broad range of customers. The Internet sites linking to this Privacy Policy (the "Sites") are operated and maintained by SRI.
 
