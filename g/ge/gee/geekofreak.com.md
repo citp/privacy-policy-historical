@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekofreak.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122170401id_/http%3A//geekofreak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekofreak.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402065148id_/http%3A//geekofreak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Computer FrEaKs
 
