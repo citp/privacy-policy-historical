@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teamtailor.com privacy policy that was archived on 2016-12-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161201122742id_/http%3A//www.teamtailor.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teamtailor.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402090316id_/http%3A//www.teamtailor.com/privacy_policy) for the most accurate reproduction.*
 
 # Teamtailor – Grow your business
 
@@ -75,10 +75,10 @@ If you have any questions about this Privacy Policy, the practices of this site,
 
 **Teamtailor AB**  
 www.teamtailor.com  
-TEGNÉRGATAN 34  
-113 59 Stockholm  
+ÅSÖGATAN 119  
+116 24 Stockholm  
 Stockholms län  
 +46735000131  
 [support@teamtailor.com](mailto:support@teamtailor.com)
 
-_This document was last updated on February 19, 2015_
+_This document was last updated on March 1, 2017_
