@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the gen.xyz privacy policy that was archived on 2016-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160326044512id_/https%3A//gen.xyz/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gen.xyz privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402185724id_/https%3A//gen.xyz/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | .xyz Domain Names | Join Generation XYZ
 
 Gen.xyz respects your privacy. We have created this privacy statement in order to demonstrate our commitment to you, our customer. This privacy statement discloses the privacy practices for this website, http://gen.xyz (the “Website”, “Us”, “Our”). By using the Website you agree to the privacy practices disclosed below.
 
-Privacy Practices
+## Privacy Practices
 
   * We do not give third parties access to your personal information other than as outlined in this privacy policy.
-  * We only send email to you if you have elected to receive it.
   * If we determine that any account with us is being used for the purpose of sending spam or engaging in malicious activities, we will take action to shut it down as soon as possible.
 
 
@@ -20,8 +19,10 @@ We may use both session ID cookies and persistent cookies. A session ID cookie e
 
 We also may use cookies to store your username if you request to remember your username during login. That information will be used to pre-fill the login form at a later time. If you are referred to our website through an ad or a partner, we will store the referral information in the cookies.
 
+We, our affiliate(s) and/or third parties may also promote product and service offerings to you via email, sms-text message, or telephone. You may receive emails, sms-text messages, or telephone contacts for as long as you wish to continue to receive such contacts. You can be removed from our contact lists at any time with no questions asked. To remove your information from our database to not receive future marketing communications contact us at [supportteam@gen.xyz](mailto:supportteam@gen.xyz).
+
 In addition to using cookies and related technologies as described above, we also may permit certain third party companies to help us tailor advertising that we think may be of interest to users and to collect and use other data about user activities on our Sites and/or Services (e.g., to allow them to tailor ads on third party services). These companies may deliver ads that might also place cookies and otherwise track user behavior.
 
 We use Google Analytics’ 3rd-party audience data such as age, gender and interests to better understanding the behavior of our customers and work with companies that collect information about your online activities to provide advertising targeted to suit your interests and preferences. For example, you may see certain ads on this website or other websites because we contract with Google and other similar companies to target our ads based on information we or they have collected, including information that was collected through automated means (such as cookies and web beacons). These companies also use automated technologies to collect information when you click on our ads, which helps track and manage the effectiveness of our marketing efforts.
 
-You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by editing your Google Display Network ads’ preferences at http://www.google.com/ads/preferences/. For further information regarding the privacy practices of our advertisement provider, please visit http://www.google.com/privacypolicy.html
+You may opt out of the automated collection of information by third-party ad networks for the purpose of delivering advertisements tailored to your interests, by editing your Google Display Network ads’ preferences at http://www.google.com/ads/preferences/. For further information regarding the privacy practices of our advertisement provider, please visit http://www.google.com/privacypolicy.html.
