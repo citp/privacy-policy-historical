@@ -1,12 +1,10 @@
-> *The following text is extracted and transformed from the voicesofliberty.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427161840id_/http%3A//www.voicesofliberty.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the voicesofliberty.com privacy policy that was archived on 2017-04-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170402192801id_/https%3A//voicesofliberty.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Voices of Liberty, Liberty-Minded Multi-Channel Network
-
-ANON
+# Privacy Policy – Voices of Liberty
 
 **Voices of Liberty Privacy Policy**
 
-Social Programming Network, Inc. (“ **SPN** “, “ **we** “, “ **us** “, or “ **our** “) operates Voices of Liberty and is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at www.voicesofliberty.com (the “ **Site** “) and online services (“ **Services** “). However, this Privacy Policy does not address your use of any other SPN offerings at other websites, which are governed by their own respective privacy policies.
+Social Programming Network, Inc. (“ **SPN** “, “ **we** “, “ **us** “, or “ **our** “) operates Voices of Liberty and is committed to protecting your privacy. We have prepared this Privacy Policy to describe to you our practices regarding the Personal Information (as defined below) we collect from users of our website, located at [http://www.voicesofliberty.com](http://www.voicesofliberty.com/) (the “ **Site** “) and online services (“ **Services** “). However, this Privacy Policy does not address your use of any other SPN offerings at other websites, which are governed by their own respective privacy policies.
 
 If you have any questions or concerns or complaints about our Privacy Policy or our information collection or processing practices, or if you want to report any security violations to us, please contact us at info@voicesofliberty.com or at 4929 Wilshire Blvd., Suite 960, Los Angeles, CA, 90010.
 
@@ -101,6 +99,6 @@ This Privacy Policy addresses only our use and disclosure of information we coll
 The Site may contain content or links to other websites that are not owned or controlled by us. We have no control over, do not review and are not responsible for the privacy policies of or content displayed on such other websites. When you click on such a link, you will leave our Site and go to another site. During this process, another entity may collect Personal Information or Anonymous Information from you. The Site may also contain links to other websites controlled by us but which operates under different privacy policies. Please review the privacy policy of any new site you visit.
 
 **Changes to this Privacy Policy.**  
-This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here www.voicesofliberty.com and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes.
+This Privacy Policy may be updated from time to time for any reason. We will notify you of any changes to our Privacy Policy by posting the new Privacy Policy here [http://www.voicesofliberty.com](http://www.voicesofliberty.com/) and we will change the “Last Updated” date above. You should consult this Privacy Policy regularly for any changes.
 
 This Policy was last revised: June 5, 2014.
