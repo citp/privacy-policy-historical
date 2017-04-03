@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the taxjar.com privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806112704id_/http%3A//www.taxjar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the taxjar.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403192929id_/https%3A//www.taxjar.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - TaxJar
 
@@ -87,7 +87,7 @@ TaxJar takes reasonable steps to protect the Personal Data provided via our serv
 
 ### Other Terms and Conditions
 
-Your access to and use of our services is subject to the License Agreement for TaxJar Software and Services at http://www.taxjar.com/terms-of-service/.
+Your access to and use of our services is subject to the License Agreement for TaxJar Software and Services at https://www.taxjar.com/terms-of-service/.
 
 ### Changes to our Privacy Statement
 
