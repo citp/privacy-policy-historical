@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the eharmony.com.br privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229045713id_/http%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eharmony.com.br privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403082801id_/http%3A//www.eharmony.com/privacy/policy) for the most accurate reproduction.*
 
 # eHarmony Privacy Policy - #1 Trusted Relationship Site
-
-No Credit Card Required. Does not include photos. Promotion ends on January 3, 2017 at 11:59PM PT.
 
 This privacy statement discloses the privacy practices of eHarmony, Inc. and all websites owned or operated by eHarmony, Inc. and its subsidiaries and corporate affiliates.
 
