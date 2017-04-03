@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hevercastle.co.uk privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105031257id_/http%3A//www.hevercastle.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hevercastle.co.uk privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404011044id_/https%3A//www.hevercastle.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Hever Castle Privacy Policy
 
