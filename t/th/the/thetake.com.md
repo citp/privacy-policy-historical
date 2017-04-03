@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thetake.com privacy policy that was archived on 2016-03-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160313032859id_/https%3A//thescript.thetake.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thetake.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403131501id_/https%3A//thescript.thetake.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - TheScript at TheTake
 
@@ -64,7 +64,7 @@ The Operators participate in interest-based advertising (IBA), also known as On
 
 We allow third-party companies to collect certain information when you visit our websites or use our mobile applications. This information may be used to serve ads for products or services or for the products or services of other companies when you visit this website or other websites. These companies use non-personally-identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over, hardware/software information, cookie and session ID) and personally identifiable information (e.g., static IP address) during your visits to this and other websites in order to provide advertisements about goods and services likely to be of greater interest to you. These parties typically use a cookie, web beacon, or other similar tracking technologies to collect this information.
 
-**Our Do Not Track Policy:** Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt out of interest based advertising. To learn more about IBA or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance website](http://www.aboutads.info/choices/). Options you select are browser and device-specific.
+ **Our Do Not Track Policy:** Some browsers have a “do not track” feature that lets you tell websites that you do not want to have your online activities tracked. At this time, we do not respond to browser “do not track” signals, but we do provide you the option to opt out of interest based advertising. To learn more about IBA or to opt-out of this type of advertising, visit the [Network Advertising Initiative website](http://www.networkadvertising.org/choices/) and the [Digital Advertising Alliance website](http://www.aboutads.info/choices/). Options you select are browser and device-specific.
 
 ## How We Use Your Information
 
