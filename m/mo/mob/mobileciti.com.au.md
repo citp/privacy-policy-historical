@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mobileciti.com.au privacy policy that was archived on 2016-03-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160308050716id_/https%3A//www.mobileciti.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mobileciti.com.au privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403192057id_/https%3A//www.mobileciti.com.au/privacy-policy-cookie-restriction-mode) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,15 +6,11 @@
 
 Mobileciti is dedicated to keeping your details private. Any information, we collect in relation to you, is kept strictly secured. We do not pass on/sell/swap any of your personal details with anyone. We use this information to identify your orders, provide you with our monthly newsletter (if applicable) and to personalise your shopping experience with us; that's all. Mobileciti uses cookies to allow you to login to your account, maintain a shopping cart and to purchase items in your shopping cart. Cookies sent to your computer from Mobileciti only last while you’re browsing our website. We do not store persistent cookies on your computer. Cookies also allow us to give you a more personalised shopping experience by displaying products that interest you throughout our product pages, thus providing you with a more friendly, interesting and enjoyable shopping experience. Whenever you use our web site, or any other web site, the computer on which the web pages are stored (the Web server) needs to know the network address of your computer so that it can send the requested web pages to your Internet browser. The unique network address of your computer is called its "IP address," and is sent automatically each time you access any Internet site. From a computer's IP address, it is possible to determine the general geographic location of that computer, but otherwise it is anonymous. We do not keep a record of the IP addresses from which users access our site except where you have specifically provided us with information about yourself, in which case we also record your IP address for security purposes. An example of this would be when proceeding to a checkout to finalise an order you may wish to make. After completing the form provided, your IP address will be stored along with a transaction number that allows us to track your order. 
 
+This privacy policy sets out how Mobileciti Online uses and protects any information that you give Mobileciti Online when you use this website. Mobileciti Online is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Mobileciti Online may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
+
 ### Security Policy
 
 When purchasing from Mobileciti your financial details are passed through a secure server using the latest 128-bit SSL (secure sockets layer) encryption technology.128-bit SSL encryption is approximated to take at least one trillion years to break, and is the industry standard. If you have any questions regarding our privacy policy, please contact our customer support centre.
-
-### Pricing Policy
-
-Mobileciti pricing online retailer industry and therefore is carefully monitored by our staff to provide our customers with the latest, competitive prices. All of our prices are in Australian dollars (AUD) and include GST (Goods and services tax) as of [the updated date here] Product prices are dynamically updated by our in house purchasing system when price changes are received from our suppliers. If you find a cheaper advertised price somewhere else, email or phone us with the details of the supplier together with prices of the product required and we will endeavor to provide you with a more competitive price.
-
-This privacy policy sets out how Mobileciti Online uses and protects any information that you give Mobileciti Online when you use this website. Mobileciti Online is committed to ensuring that your privacy is protected. Should we ask you to provide certain information by which you can be identified when using this website, then you can be assured that it will only be used in accordance with this privacy statement. Mobileciti Online may change this policy from time to time by updating this page. You should check this page from time to time to ensure that you are happy with any changes. 
 
 ### What we collect
 
@@ -73,7 +69,7 @@ If you believe that any information we are holding on you is incorrect or incomp
 
 ## List of cookies we collect
 
-The table below lists the cookies we collect and what information they store.
+The [table](https://www.mobileciti.com.au/mobile-tablets "Buy tablet online") below lists the cookies we collect and what information they store.
 
 COOKIE name | COOKIE Description  
 ---|---  
