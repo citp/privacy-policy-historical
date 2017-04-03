@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2016-06-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160604203159id_/https%3A//www.phone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phone.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403062826id_/https%3A//www.phone.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Phone.com
+# IP Phones for Business | Privacy Policy | Phone.com
 
 This website is located generally at **phone.com** and is the official website for **Phone.com** (the “Site”). This Site is owned and operated by **Phone.com, Inc** (“Phone.com”).
 
 Your privacy is very important to us. Because we gather certain types of personally identifiable information (“Personal Information”) from users of our Site, subscribers of our services and for various other operational and business purposes, we feel you should know how we collect, use, disclose, manage, and store the Personal Information that you may voluntarily provide us and the Personal Information that is collected passively through the use of cookies or image tags on our Site. This Privacy Policy is incorporated by reference in the Site’s [General Terms of Use](https://web.archive.org/general-terms/ "General Terms"), which is binding on all Site users. This Policy applies only to the Personal Information collected by Phone.com via the Site and does not govern any such information collected by its corporate affiliates (“Affiliates”), or any other company, unless specifically stated.
 
- **If you do not agree with this Privacy Policy, please do not participate in the online or off-line activities and services that require you to provide your Personal Information. (The type of Personal Information collected is listed below.)** This Policy provides information regarding your choices to either Opt-out or Opt-in when your Personal Information is used for various promotional and marketing purposes by Phone.com, the Site, its corporate affiliates, and/or our advertisers, service providers, sponsors, or promotional partners (collectively, “Advertisers”).
+**If you do not agree with this Privacy Policy, please do not participate in the online or off-line activities and services that require you to provide your Personal Information. (The type of Personal Information collected is listed below.)** This Policy provides information regarding your choices to either Opt-out or Opt-in when your Personal Information is used for various promotional and marketing purposes by Phone.com, the Site, its corporate affiliates, and/or our advertisers, service providers, sponsors, or promotional partners (collectively, “Advertisers”).
 
 ### YOUR CALIFORNIA PRIVACY RIGHTS
 
@@ -16,18 +16,18 @@ This site qualifies for the alternative option; it has a comprehensive privacy p
 
 If you are a California resident and have an established business relationship with us and want to receive information about how to exercise your third party disclosure choices you must send a request to the following address with a preference on how our response to your request should be sent (email or postal mail). You may contact us in two ways. Send email to Privacy Administrator at [legal@phone.com](mailto:legal@phone.com). **Alternatively, you may contact Phone.com at:**
 
- **Phone.com**  
+**Phone.com**  
 184 South Livingston Avenue  
 Suite 9-222  
 Livingston, NJ 07039  
 Attn: Your California Privacy Rights  
 c/o Privacy Administrator
 
- **For requests sent via email, you must put the statement “Your California Privacy Rights” in the subject field of your email. All requests sent via postal mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or not sent properly, or do not have complete information.
+**For requests sent via email, you must put the statement “Your California Privacy Rights” in the subject field of your email. All requests sent via postal mail must be labeled “Your California Privacy Rights” on the envelope or post card and clearly stated on the actual request.** For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.) We will not accept requests via the telephone or by facsimile. We are not responsible for notices that are not labeled or not sent properly, or do not have complete information.
 
 To all other users of this Site, if you have other questions about this Privacy Policy, please contact our Privacy Administrator at the following email address: [legal@phone.com](mailto:legal@phone.com) **or:**
 
- **Phone.com**  
+**Phone.com**  
 184 South Livingston Avenue  
 Suite 9-222  
 Livingston, NJ 07039  
