@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the precisionroller.com privacy policy that was archived on 2016-03-25.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160325033924id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the precisionroller.com privacy policy that was archived on 2017-04-03.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170403191438id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xmlns:og="http://ogp.me/ns#" xmlns:fb="http://www.facebook.com/2008/fbml" xmlns:business="http://ogp.me/ns/business#" xmlns:place="http://ogp.me/ns/place#"><head>
 	<title>Security And Privacy Policies | Precision Roller</title>
@@ -10,9 +10,10 @@
 	<meta name="keywords" content="Security And Privacy Policies, toner, toner cartridges, printer toner, copier toner, fax toner, printer parts, copier parts, cartridge printer">
 	<meta name="GOOGLEBOT" content="index, follow">
 	<meta name="robots" content="index, follow">
-		<link rel="shortcut icon" href="http://www.precisionroller.com/favicon.ico?v=1">
+		<link rel="shortcut icon" href="/favicon.ico?v=1">
 	<link rel="stylesheet" type="text/css" href="/res/css/pc/common.css">
 	<link rel="stylesheet" type="text/css" href="/res/css/pc/jquery-ui-1.10.3.custom.css">
+	<link rel="stylesheet" type="text/css" href="/res/css/qtip/jquery.qtip.min.css">
 	<style type="text/css">
 	div.olark-chat {
 		background-color: #12293b;
@@ -38,7 +39,7 @@
 		display:block;
 		width:504px;
 		height:84px;
-		background: url("/images/holiday/christmas-2015/christmas-2015-left.png") no-repeat 0 0;
+		background: url("/images/holiday/new-year-2016/NY-Banner-2016-Left-Side.png") no-repeat 0 0;
 		background-position: 0 0; 
 	}
 	div.header_logo_holiday a:hover {
@@ -52,7 +53,7 @@
 		width:502px; 
 		float:right;
 		height:84px; 
-		background: url("/images/holiday/christmas-2015/new-years-2015-right.png") no-repeat 0 0;
+		background: url("/images/holiday/new-year-2016/NY-Banner-2016-Right-Side.png") no-repeat 0 0;
 	}
 	</style>
 
@@ -229,104 +230,43 @@ ul.faq_list li ul li {
 				}
 			});
 			$.getScript('/res/js/common.js', function(){});
+			$("body").append('<div id="coupon_pop" style="display:none;"><div class="coupon_pop">The price shown here includes the discount for the coupon already in your cart.</div></div>');
+			$.getScript('/res/js/qtip/jquery.qtip.min.js', function() {
+				$(document).ready(function() {
+					if (typeof postload != "undefined" && typeof postload.init != "undefined") {
+						postload.init();
+					}
+					$(document).on("mouseover", ".pop-div", function() {
+						$(this).qtip({
+							overwrite: false,
+							show: {
+								ready: true
+							},
+							content: {
+								text: function(event, api) {
+									return ($("#" + $(this).attr("rel")).html());
+								}
+							},
+							style: {
+								classes: "qtip-light qtip-rounded shadow qtipborder qtip-narrow qtip-shadow", 
+								tip: { 
+									width: 32, 
+									height: 16 
+								}
+							},
+							position: {
+								my: "bottom right",
+								at: "top left"
+							}
+						});
+					});
+				});
+			});
 		});
+
 	-->
 	</script>
 <!-- begin olark code -->
-<script data-cfasync="false" type="text/javascript">/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
-f[z]=function(){
-(a.s=a.s||[]).push(arguments)};var a=f[z]._={
-},q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
-f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
-0:+new Date};a.P=function(u){
-a.p[u]=new Date-a.p[0]};function s(){
-a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
-hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
-return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
-b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
-b.contentWindow[g].open()}catch(w){
-c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
-var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
-b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
-loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-/* custom configuration goes here (www.olark.com/documentation) */
-olark.configure('features.feedback', true );
-olark.configure('box.inline', true);
-olark.configure('system.give_location_to_operator', true );
-olark.identify('5599-653-10-4158');/*]]>*/</script><noscript><a href="https://www.olark.com/site/5599-653-10-4158/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
-<script type="text/javascript">
-var	chat_window = {
-	getCookie: function(cookie_name) {
-		var i, x, y, gv, gv_sess = 0;
-		var cookies = document.cookie.split(";");
-		for(i=0;i < cookies.length;i++) { 
-			x = $.trim(cookies[i].substr(0, cookies[i].indexOf("=")));
-			y = $.trim(cookies[i].substr(cookies[i].indexOf("=") + 1));
-			if (x.toLowerCase() == cookie_name.toLowerCase()) {
-				return y;
-			}
-		}
-		return false;
-	},
-	openchat: function() {
-		var chat_coords = {0:0,1:0,2:0};
-		if (chat_coords = chat_window.getCookie('chat_coords')) {
-			chat_coords = chat_coords.split("::");
-		}
-		dt = new Date();
-		if (typeof chat_coords[2] == "undefined" || chat_coords[2] == 0) {
-			olark('api.chat.sendNotificationToOperator', {body: "Visitor re-opened chat."});
-		}
-		dt.setTime(dt.getTime()+(30*60*1000));
-		expires = "; expires=" + dt.toGMTString() + "; domain=.precisionroller.com; path=/";
-		document.cookie = "chat_coords=" + chat_coords[0] + "::" + chat_coords[1] + "::1" + expires;  
-		olark('api.box.expand');
-		$("div.olark-chat").show();
-	}
-}
-$(document).ready(function() {
-	olark('api.chat.onOperatorsAvailable', function() {
-		$("a.olark_offline").hide();
-		$("a.olark_online").show();
-		var chat_coords = {0:0,1:0,2:0};
-		if (chat_coords = chat_window.getCookie('chat_coords')) {
-			chat_coords = chat_coords.split("::");
-			$("div.olark-chat").offset({top: chat_coords[1], left: chat_coords[0]});
-			if (chat_coords[2] == 1) {
-				$("div.olark-chat").show();
-			}
-		}
-	});
-	olark('api.box.onExpand', function() {
-		var chat_coords = {0:0,1:0,2:0};
-		if (chat_coords = chat_window.getCookie('chat_coords')) {
-			chat_coords = chat_coords.split("::");
-		}
-		dt = new Date();
-		dt.setTime(dt.getTime()+(30*60*1000));
-		expires = "; expires=" + dt.toGMTString() + "; domain=.precisionroller.com; path=/";
-		document.cookie = "chat_coords=" + chat_coords[0] + "::" + chat_coords[1] + "::1" + expires; 
-		$("div.olark-chat").show();
-		// Use getDetails to grab visitor information
-		olark('api.visitor.getDetails', function(details){
-			// isConversing tells you if any messages has been exchanged
-			// between the visitor and the operator
-			if (!details.isConversing) {
-			}
-		});
-	});
-	$("#close_chat").click(function() {
-		var coord = $(this).position();
-		dt = new Date();
-		dt.setTime(dt.getTime()+(30*60*1000));
-		expires = "; expires=" + dt.toGMTString() + "; domain=.precisionroller.com; path=/";
-		document.cookie = "chat_coords=" + coord.left + "::" + coord.top + "::0" + expires; 
-		$("div.olark-chat").hide();
-		olark('api.box.shrink');
-		olark('api.chat.sendNotificationToOperator', {body: "Visitor closed the chat window."});
-	});
-});
-</script>
 <!-- end olark code -->
 
 <!-- Google Analytics -->
@@ -369,7 +309,8 @@ $(document).ready(function() {
 	</script>
 <!-- End Google Analytics -->
 </head>
-<body style=""><div id="olark" style="display: none;"><olark><iframe frameborder="0" id="olark-loader"></iframe></olark></div>
+<body style="">
+	<div id="pr_body_content" style="position:relative;">
 	<div class="olark-chat">
 		<table width="100%" class="grey_button drag_button">
 			<tbody><tr>
@@ -456,7 +397,7 @@ $(document).ready(function() {
 			<table width="100%" cellpadding="0" cellspacing="0" id="header_trust_table">
 				<tbody><tr>
 					<td width="193" style="padding:3px 0 0 10px;">
-						<a href="http://www.precisionroller.com/contact.php" target="chat46343922" style="display:none;" class="olark_online" onclick="javascript:chat_window.openchat();return false;"><img src="/images/pc/en/liveperson/reponline.gif" name="hcIcon" border="0" alt="Live Chat"></a><a href="http://www.precisionroller.com/contact.php" class="olark_offline" target="_blank"><img src="/images/pc/en/liveperson/repoffline.gif" name="hcIcon" border="0" alt="Contact"></a>						<!--<img src="/images/pc/en/liveperson/repoffline.gif" style="" />-->
+						<a href="http://www.precisionroller.com/contact.php" target="chat46343922" style="display:none;" onclick="javascript:chat_window.openchat();return false;" class="olark_online"><img src="/images/pc/en/liveperson/reponline.gif" name="hcIcon" border="0" alt="Live Chat"></a><a href="http://www.precisionroller.com/contact.php" class="olark_offline" target="_blank"><img src="/images/pc/en/liveperson/repoffline.gif" name="hcIcon" border="0" alt="Contact"></a>						<!--<img src="/images/pc/en/liveperson/repoffline.gif" style="" />-->
 					</td>
 					<td width="16"></td>
 					<td align="center" width="*">
@@ -558,6 +499,7 @@ $(document).ready(function(){
 <option value="162">Okidata</option>
 <option value="164">Panasonic</option>
 <option value="165">Pitney Bowes</option>
+<option value="1">Precision Roller</option>
 <option value="172">Ricoh</option>
 <option value="175">Samsung</option>
 <option value="180">Sharp</option>
@@ -601,7 +543,7 @@ $(document).ready(function(){
 		</tr>
 		<tr>
 			<td>
-				<a href="/category/label-printers.htm" title="New! Affordable label printers" vpage="/nav/side/labelprinters" class="analytics" style="display:block; margin-bottom:7px;">Label Printers <span style="color:#C00; font-variant:small-caps; font-size:95%;">(new!)</span></a>
+				<a href="/category/label-printers.htm" title="Affordable label printers" vpage="/nav/side/labelprinters" class="analytics" style="display:block; margin-bottom:7px;">Label Printers</a>
 			</td>
 		</tr>
 		<tr>
@@ -652,7 +594,7 @@ $(document).ready(function(){
 	</div>
 	<div class="btn_big">
 		<a href="/last-chance.php" class="analytics" vpage="/nav/side/closeout">
-		Closeout Specials
+		Last Chance Corner
 		</a>
 	</div>
 	<div class="btn_big">
@@ -727,7 +669,8 @@ $(document).ready(function(){
 </tbody></table>				</td>
 			<!-- End Left Nav -->
 			<!-- Start body -->
-				<td class="body" valign="top" align="left"><div class="breadcrumbs">
+				<td class="body" valign="top" align="left">
+<div class="breadcrumbs">
 	<div class="breadcrumb" itemscope="" itemtype="http://data-vocabulary.org/Breadcrumb">
 		<a href="/" title="Precision Roller" itemprop="url"><span itemprop="title">Home</span></a> <span>►</span>
 	</div>
@@ -939,6 +882,7 @@ $(document).ready(function(){
 									<a class="analytics" vpage="/nav/footer/newaccount" title="Create an Account" href="https://secure.precisionroller.com/new-account.php">Create an Account</a>
 								</li>
 								<li><a class="analytics" vpage="/nav/footer/orderhistory" title="Order History" href="https://secure.precisionroller.com/my-orders.php">Order History</a></li>
+								<li><a class="analytics" vpage="/nav/footer/myitems" title="My Purchases" href="https://secure.precisionroller.com/my-purchases.php">My Purchases</a></li>
 								<li><a class="analytics" vpage="/nav/footer/preferences" title="Preferences" href="https://secure.precisionroller.com/my-preferences.php">Preferences</a></li>
 								<li><a class="analytics" vpage="/nav/footer/favorites" title="Favorite Items" href="https://secure.precisionroller.com/my-favorites.php">Favorite Items</a></li>
 								<li><a class="analytics" vpage="/nav/footer/shoppinglists" title="Shopping Lists" href="https://secure.precisionroller.com/shopping-cart.php?step=2">Shopping Lists</a></li>
@@ -973,7 +917,7 @@ $(document).ready(function(){
 		</div>
 	</div>
 	<div class="copyright">
-		©2003-2016 Precision Roller. • 2102 West Quail Avenue, Suite 1 • (800) 323-9523 / (623) 581-3330 • M-F 7:00am - 5:00pm MST (noDST)
+		©2003-2017 Precision Roller. • 2102 West Quail Avenue, Suite 1 • Phoenix, AZ 85027 • (800) 323-9523 / (623) 581-3330 • M-F 7:00am - 5:00pm MST (noDST)
 		<div>
 			Individual brands are copyrighted by their respective owners. Precision Roller is in no way affiliated, sponsored or endorsed by these copyright owners or their affiliates or dealers<br>
 			This website uses a secure server to encrypt all sensitive information.<br><br>
@@ -985,24 +929,7 @@ $(document).ready(function(){
  
 
 
-<script type="text/javascript">
-/* <![CDATA[ */
-var google_conversion_id = 1072719110;
-var google_conversion_language = "en";
-var google_conversion_format = "3";
-var google_conversion_color = "ffffff";
-var google_conversion_label = "mCIWCLHD7gIQhsrB_wM";
-var google_conversion_value = 0;
-/* ]]> */
-</script>
-<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
-</script>
-<noscript>
-<div style="display:inline;">
-<img src="https://www.googleadservices.com/pagead/conversion/1072719110/?label=mCIWCLHD7gIQhsrB_wM&amp;guid=ON&amp;script=0" alt="" style="width:1px; height:1px; border-style:none;" />
-</div>
-</noscript>
-
+	</div>
 
 <!-- BEGIN: Google Trusted Store logo -->
 <script type="text/javascript">
@@ -1010,7 +937,6 @@ var google_conversion_value = 0;
 	gts.push(["id", "193663"]);
 	gts.push(["badge_position", "USER_DEFINED"]);
 	gts.push(["badge_container", "GTS_CONTAINER"]);
-	gts.push(["google_base_offer_id", ""]);
 	gts.push(["google_base_subaccount_id", "1383934"]);
 	gts.push(["google_base_country", "US"]);
 	gts.push(["google_base_language", "EN"]);
@@ -1026,11 +952,29 @@ var google_conversion_value = 0;
 	})();
 </script>
 <!-- END: Google Trusted Store logo -->
-
-
-	<!-- Code executed in 0.0314 seconds. -->
-	<!-- Template executed in 0.2067 seconds. -->
-	<!-- Page executed in 0.2381 seconds. -->
+<script type="text/javascript">
+/* <![CDATA[ */
+var google_conversion_id = 1072719110;
+var google_conversion_language = "en";
+var google_conversion_format = "3";
+var google_conversion_color = "ffffff";
+var google_conversion_label = "mCIWCLHD7gIQhsrB_wM";
+var google_conversion_currency = "USD"; 
+var google_conversion_value = 0.00;
+var google_remarketing_only = true;
+var google_custom_params = window.google_tag_params;
+/* ]]> */
+</script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion.js">
+</script>
+<noscript>
+<div style="display:inline;">
+<img src="https://www.googleadservices.com/pagead/conversion/1072719110/?value=0.00&amp;currency_code=USD&amp;label=mCIWCLHD7gIQhsrB_wM&amp;guid=ON&amp;script=0" alt="" style="width:1px; height:1px; border-style:none;" />
+</div>
+</noscript>
+	<!-- Code executed in 0.0328 seconds. -->
+	<!-- Template executed in 0.1528 seconds. -->
+	<!-- Page executed in 0.1856 seconds. -->
 
 
 
