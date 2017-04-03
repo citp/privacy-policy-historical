@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ultrashare.net privacy policy that was archived on 2016-12-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161225000916id_/http%3A//ultrashare.net/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ultrashare.net privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403181644id_/http%3A//ultrashare.net/privacy.html) for the most accurate reproduction.*
 
 # ultrashare.NET - Simple Free File Hosting
 
