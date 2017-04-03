@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107092903id_/https%3A//maas.museum/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the powerhousemuseum.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403094027id_/https%3A//maas.museum/privacy) for the most accurate reproduction.*
 
 # Privacy – Museum Of Applied Arts And Sciences
 
@@ -74,4 +74,4 @@ This site has security measures in place to protect against the loss, misuse and
 
 ### **Contact details**
 
-If you have any questions about this Online Privacy Statement, please contact the Museum’s Privacy Officer by telephoning (02) 9217 0575.
+If you have any questions about this Online Privacy Statement, please contact the Museum’s Privacy Officer by telephoning (02) 9217 0350.
