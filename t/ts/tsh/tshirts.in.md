@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tshirts.in privacy policy that was archived on 2016-07-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160722043623id_/http%3A//www.tshirts.in/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tshirts.in privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403185622id_/http%3A//www.tshirts.in/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | tshirts.in
 
