@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325033924id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the precisionroller.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403191438id_/https%3A//secure.precisionroller.com/policies.php) for the most accurate reproduction.*
 
 # Security And Privacy Policies | Precision Roller
 
