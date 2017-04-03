@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the bamboohr.com privacy policy that was archived on 2016-10-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161004054640id_/https%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bamboohr.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403125701id_/https%3A//www.bamboohr.com/privacy.php) for the most accurate reproduction.*
 
 # BambooHR Privacy Policy
 
-Effective Date: September 23, 2016
+Last Updated: March 15, 2017
 
 **BambooHR is committed to protect the privacy of our individuals who visit our website (“Visitors”) and individuals who register to use the BambooHR Services on behalf of BambooHR’s Clients (“Users”) (collectively “you” or “your”).** This Privacy Policy applies to your data provided on or through the BambooHR website located at [www.bamboohr.com](http://www.bamboohr.com/), the BambooHR web application owned and operated by BambooHR, and the services offered by BambooHR through the website and apps (collectively, the “Services”). This Privacy Policy describes BambooHR’s privacy practices in relation to the use of our website, apps and Services. It also describes the choices available to you with regard to the use of your personal information and how you can access and update this information. The use of information collected through the BambooHR Services shall be limited to the purpose of providing the Services for which the User or Client has engaged BambooHR.
 
