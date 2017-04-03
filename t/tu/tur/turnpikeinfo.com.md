@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2016-03-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160317210355id_/https%3A//turnpikeinfo.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the turnpikeinfo.com privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403170258id_/https%3A//turnpikeinfo.com/legal/privacy.php) for the most accurate reproduction.*
 
-# PRIVACY POLICY FOR TURNPIKEINFO.COM
+# CURRENT PRIVACY POLICY - TURNPIKEINFO.COM
 
 ## Privacy Policy
 
-## Privacy Policy: Updated July 17, 2015
+## Privacy Policy: Updated August 31, 2016
 
-[VIEW THE PREVIOUS VERSION OF THIS PAGE](https://web.archive.org/web/20160317210355id_/https%3A//turnpikeinfo.com/legal/privacy-2012-06-28.php)
+[VIEW THE PREVIOUS VERSION OF THIS PAGE](https://web.archive.org/web/20170403170258id_/https%3A//turnpikeinfo.com/legal/privacy-2015-07-17.php)
 
 Welcome to this website, owned and operated by Turnpike Information Company ("TURNPIKE"), a wholly-owned subsidiary of Rodan Media Group Corporation ("RODAN"). Both companies are corporations organized under the laws of the state of Florida. Use of this website is subject the terms and conditions delineated herein. We strongly recommend you also read our [Terms Of Use](https://web.archive.org/legal/terms.php) and our [Refund Policy](https://web.archive.org/legal/refunds.php). 
 
@@ -58,8 +58,12 @@ Turnpike Information Company
 
 c/o Donnie Goodwin, Esq.
 
-200 SE 6th Street
+Fifth Floor Suite 507
 
-Suite 507
+200 SE 6th Street 
 
 Fort Lauderdale, FL 33301
+
+**SUPPLEMENTAL/ADDITIONAL PRIVACY TERMS**
+
+Additional privacy terms govern hotel reservations and lodging. Please, be sure to review the [privacy policy](http://reserve.turnpikeinfo.com/hotels/help/privacy/?refid=5955) associated with hotel reservations.
