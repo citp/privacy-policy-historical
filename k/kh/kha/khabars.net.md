@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the khabars.net privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205080640id_/http%3A//www.khabars.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the khabars.net privacy policy that was archived on 2017-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170403122710id_/http%3A//www.khabars.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - KHABARS.NET
 
