@@ -1,100 +1,89 @@
-> *The following text is extracted and transformed from the oliverstravels.com privacy policy that was archived on 2012-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120314200414id_/http%3A//www.godaddy.com/agreements/ShowDoc.aspx%3Fpageid%3Dprivacy_parkedpage) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oliverstravels.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404052034id_/http%3A//www.oliverstravels.com/terms/privacy-policy) for the most accurate reproduction.*
 
-# Legal Agreement
+# Privacy Policy | Oliver's Travels
 
-**Go Daddy Respects Your Privacy**
+Oliver’s Travels Ltd understands and respects the importance of your privacy and we are committed to safeguarding your personal information. In providing our service to you, we must collect personal information from you and this policy outlines how we treat your personal data after it has been collected by any of our channels which include our website, call centre and any future digital services or channels as they evolve.
 
-**This Privacy Policy explains our privacy and information gathering practices, such as the types of information we collect and under what circumstances that information is shared.**
+ **What information will we collect?  
+** We may collect all or some of the following information relating to you or other members of your party:  
+\- Names and contact/address details including telephone number and email address;  
+\- Credit/ debit card or other payment details (including card number, cardholder name, expiry date);  
+\- Special requirements such as those relating to any disability or medical condition which may affect the chosen arrangements;   
+\- Dietary restrictions (which may disclose your religious beliefs).
 
-**Please take the time to review the terms of this Policy.   By using this Site, you agree to accept the terms provided.**
+You are responsible for ensuring that other members of your party are aware of the content of this Policy and consent to your acting on their behalf in all your dealings with us.
 
-**Other than as described in this Policy, we will not give any information about you to others without your express permission.**
+Some of the information we collect (such as about health or religion) may be considered “sensitive personal data” under the Data Protection Act 1998. We collect it to cater to your needs or act in your interest, and we are only prepared to accept sensitive personal data from you on the condition that we have your positive consent. We will seek this consent when necessary.
 
-**Information Collection and Use**
+ **How will we collect this information?  
+** We will only collect personal information from you by specifically asking for it:  
+\- When you purchase a product or service from or through us  
+\- When you subscribe to our newsletter  
+\- When you register an account with us  
+\- When you speak to any of our team  
+\- When you complete a survey or enter a competition  
+\- When we use cookies (see our Cookies Policy below).
 
-Although this Site is primarily for informational purposes, we may ask you to provide us with your name, email address or other information that could be used to identify you personally.  For example, we may collect this information in the event that you register as a member of this Site, post a comment, sign-up to receive email communications, or submit demographic information as part of a survey.
+ **What will we do with it?  
+** (1) We will use your name, address and credit card details to complete your booking with us.   
+(2) We will also use your details to manage your arrangements, send you notifications and communicate with you generally.    
+(3) For the purpose of completing your booking, we may have to disclose some of your information to the providers of the services making up your arrangements (who could be located outside the UK/EEA). We may also have to disclose some information to third parties in relation to customer services, credit card processing, or other services.     
+(4) We may need to disclose your information where required by law, where such a request is made by a legal authority.   
+(5) We may need to disclose our customer list including any personal information relating to you to a third party who acquires or attempts to acquire all or substantially all of the asset/ stock in our company or our website.   
+(6) We may also disclose information to organisations who act as “data processors” on our behalf, or to other organisations that perform business functions on our behalf, some of whom are outside the UK/EEA. These functions include administration, providing services (and contacting you where necessary), customer care, business management and operation, re-organisation/structuring/sale of our business (or our group companies), risk assessment, security and crime prevention/detection, research and analysis, marketing, monitoring, measuring and assessing customer purchasing preferences and trends, dispute resolution, credit checking and debt collection.   
+(7) We may from time to time contact you with information about special offers, brochures, new products, forthcoming events or competitions. If you do not wish to receive such information, you may ask us in writing not to receive it.  
+(8) We may pass your details to other parties who offer goods or services which we feel may be of interest to you. However we will not do this without your express prior consent.  
 
-We receive and store any information you enter on our Site or give us in any other way, including through email, telephone, or other communications. If you contact us for support, we will keep an internal record of our communication with you.
+We would also like to store and use your personal details for future marketing purposes (for example, emailing you our newsletter). All details you give us in connection with your booking will be kept but we will use only names and contact details for marketing purposes unless you have indicated that you do not wish us to do so. 
 
-We may use your information to contact you regarding the information and services available on our Site, functionality changes to our Site, and special offers we think you'll find valuable. If you would rather not receive this information, please see the "Updating Your Information" section below on how to change your preferences.
+We have taken all reasonable steps to have appropriate security measures in place to protect your information. Outside the European Economic Area, controls on data protection may not be as wide as the legal requirements in this country. The transmission of information via the internet is never completely secure. We exclude our liability for personal data lost in transmission to the website. 
 
-We may also use your information to present a co-branded offer with our partners or affiliates. If we collect information from you in connection with a co-branded offer, it will be clear at the point of collection who is collecting the information and whose privacy statement applies.
+**What can I do?  
+** If you do not agree to our use of the information as set out above, you should inform us as soon as possible by writing to us at Oliver’s Travels, Unit 6G, Clapham North Art Centre, 26-32 Voltaire Road, London or by email at info@oliverstravels.com. 
 
-We use information gathered about you from our Site statistics (for example, your IP address) to help diagnose problems with our server, and to administer our Site. We also gather broad demographic information from this data to help us improve our Site and make your browsing and purchasing experience more enjoyable. This is not linked to any personally identifiable information, except as necessary to prevent fraud or abuse on our system.
+In accordance with the Data Protection Act 1998, you may ask us in writing for a copy of the information we hold about you (for which we may charge an administration fee) and to correct any inaccuracies in your information. We aim to respond to you within 21 days from the date of request.
 
-Our Site uses cookies to enhance your experience with our Site.  Cookies are data files that are placed in your browser to keep track of your personal preferences and to facilitate easy navigation through our Site.  We use cookies to identify you so you don't need to log in each time you visit our Site.  You may opt-out of the use of cookies by altering settings on your browser.  Please note, however, that some areas of the Site will be easier to navigate with the use of cookies..
+You can also choose not to provide us with some of the information we request, however as a result we may not be able to complete your arrangements. 
 
-This Site also contains links to other websites. Unfortunately, we are not responsible for the privacy practices or the content of such sites.
+**Opt-Out Policy  
+** Subscribers can opt out of receiving further information from us at any time.  You will also be given a fast and easy option of opting out on all communications.  Email us at info@oliverstravels.com to unsubscribe. 
 
-**Security**
+**Cookies  
+** Please note that in order for us to provide you with optimum service, we use ‘Cookies’ on our website. 
 
-This Site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
+**What are cookies?  
+** A cookie is a text-only string of information that a website transfers to the cookie file of the browser on your computer's hard disk so that the website can remember who you are. Cookies will typically contain the name of the domain from which the cookie has come, the "lifetime" of the cookie, and a value, usually a randomly generated unique number. Two types of cookies are used on this web site - session cookies, which are temporary cookies that remain in the cookie file of your browser until you leave the site, and persistent cookies, which remain in the cookie file of your browser for much longer (though how long will depend on the lifetime of the specific cookie). 
 
-**Updating Your Information**
+Cookies allow us to obtain information regarding users of our site which essentially helps us to provide you with a better user experience and tailor our services to your individual needs. We may collect information such as your IP address, online activity, web browser details and online activity. We will not however collect or store any of your passwords or other highly sensitive data. 
 
-You may alter your account information or opt out of receiving communications from us and our partners at any time. We have the following options for changing and modifying your account information or contact preferences.
+**By using our website with your browser settings adjusted to accept all cookies, we will take this to mean that you want to use our products and services, and that you consent to our use of cookies and other technologies as described in this Policy.  
+**  
+ **Browser settings:** Most browsers have options that allow the visitor to control whether the browser will accept cookies, reject cookies, or notify the visitor each time a cookie is sent. You may elect to reject cookies by adjusting your browser's settings, but doing so will limit the range of features available to the visitor on our site and most other major websites that use cookies. 
 
-        i.      You may send an email to [support@godaddy.com ](mailto:support@godaddy.com)
+We use the following types of cookies on our website: 
 
-       ii.      You may send mail to Go Daddy at the following postal address:   
-               14455 North Hayden Road, Suite 219, Scottsdale, AZ. 85260 USA
+**Category 1: Strictly necessary cookies  
+** These cookies are essential in order to enable you to move around the website and use its features, such as accessing secure areas of the website. Without these cookies services you have asked for, like shopping baskets or e-billing, cannot be provided. 
 
-      iii.      You may call us at: (480) 505-8800
+**Category 2: Performance cookies  
+** These cookies collect information about how visitors use a website, for instance which pages visitors go to most often, and if they get error messages from web pages. These cookies don’t collect information that identifies a visitor. All information these cookies collect is aggregated and therefore anonymous. It is only used to improve how a website works. 
 
-       iv.      You may fax us at: (480) 505-8844
+By using our website, you agree that we can place these types of cookies on your device.
 
-**Sending Emails**
+ **Further information  
+** To find out more information about cookies, please visit www.allaboutcookies.org. **
 
-We use emails to communicate with you and to send information that you have requested.  We also provide email links to allow you to contact us directly. We strive to promptly reply to your messages.
+Protecting your information
 
-The information you send to us may be stored and used to improve this Site and our products, or it may be reviewed and discarded.
+** We take website security very seriously and we are committed to safeguarding your personal information. We take a number of administrative and technical steps to ensure the security of the information you provide to us. 
 
-**Compliance with Laws and Law Enforcement**
+**External Links  
+** Please note that our website contains certain literature and hyperlinks to websites owned by third parties. This privacy statement covers websites owned and controlled by us only.  Links to other websites and any information collected by these sites are not covered by this privacy statement.
 
-We cooperate with government and law enforcement officials and private parties to enforce and comply with the law. We will disclose any information about you to government or law enforcement officials or private parties as we, in our sole discretion, believe necessary or appropriate to respond to claims and legal process (including without limitation subpoenas), to protect our property and rights or the property and rights of a third party, to protect the safety of the public or any person, or to prevent or stop activity we consider to be illegal or unethical. We will also share your information to the extent necessary to comply with ICANN's rules, regulations and policies.
+ **Monitoring  
+** To ensure that we carry out your instructions accurately, to help improve our service and in the interest of security, we may monitor and/or record: (1) your telephone calls; and (2) customer transactions and activities on our website. All recordings are and shall remain our sole property. 
 
-**Third Party Service Providers**
+**Updates and Changes  
+** As our privacy statement may change due to developments in the law we encourage you to re read this from time to time so you are aware of any changes in how we gather and use your personal information. Any changes to this Policy will be either posted on our website, brochure and/or made available on request. 
 
-We may at times provide information about you to third parties to provide various services on our behalf, such as serving advertisements, conducting contests or surveys, performing analyses of our user demographics, shipping of goods or services, and user relationship management. We will only share information about you that is necessary for the third party to provide the requested service. These companies are prohibited from retaining, sharing, storing or using your personally identifiable information for any secondary purposes.
-
-In the event that we use third party advertising companies to serve ads on our behalf, these companies may employ cookies and action tags (also known as single pixel gift or web beacons) to measure advertising effectiveness. Any information that these third parties collect via cookies and action tags is completely anonymous. If you would like more information about this practice and your choices, click [here. ](http://www.networkadvertising.org/managing/opt_out.asp)
-
-**Supplementation of Information**
-
-In order to provide certain services to you, we may on occasion supplement the personal information you submit to us with information from third party sources ( _e.g.,_ information from our strategic partners, service providers, or the United States Postal Service).  We do this to enhance our ability to serve you, to tailor our products and services to you, and to offer you opportunities to purchase products or services that we believe may be of interest to you.
-
-**Contests/Surveys**
-
-From time-to-time, we may provide you with the opportunity to participate in contests or surveys. If you choose to participate, we may request certain personally identifiable information from you. Participation in these contests or surveys is completely voluntary and you therefore have a choice whether or not to disclose the requested information. The requested information typically includes contact information (such as name and address), and demographic information (such as zip code and age level - note that you must be 18 or above to enter). We use this information to notify contest winners and award prizes, to monitor Site traffic, and to personalize our Site.
-
-We may use a third party service provider to conduct these surveys or contests. When we do, that company will be prohibited from using our users' personally identifiable information for any other purpose. We will not share the personally identifiable information you provide through a contest or survey with other third parties unless we give you prior notice and choice.
-
-**Tell-A-Friend**
-
-If a user elects to use our referral service to inform a friend about our Site, we ask the user for the friend's name and email address. Go Daddy will automatically send the friend a one-time email inviting them to visit our Site. Go Daddy stores this information for the sole purpose of sending this one-time email. The friend may contact Go Daddy at [support@godaddy.com ](mailto:support@godaddy.com)to request the removal of this information from our database.
-
-**What Happens to my Personal Information if I Opt Out?**
-
-If you advise us that you wish to opt out of receiving further communications from us, we will place your personally identifiable information in "deactivated" status on our relevant databases. However, you should know that placement of your information in "deactivated" status does not mean your personally identifiable information has been deleted from our database entirely. We will retain and use your personally identifiable information as necessary in order to comply with our legal obligations, resolve disputes, or enforce our agreements.
-
-**Transfer of Data Abroad**
-
-If you are visiting this Site from a country other than the country in which our servers are located, your communications with us may result in the transfer of information across international boundaries.  By visiting this Site and communicating electronically with us, you consent to such transfers.
-
-**Changes in Our Practices**
-
-We reserve the right to modify this Privacy Policy at any time. If we decide to change our Privacy Policy, we will post those changes to this Privacy Policy and any other places we deem appropriate, so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it.
-
-If we make material changes to this Policy, we will notify you here, by email, or by means of a notice on our home page, at least thirty (30) days prior to the implementation of the changes.
-
-**Contacting Our Site**
-
-If you have any questions about our Privacy Policy, the practices of this Site, or your dealings with this Site, please contact us at:
-
-* * *
-
-Go Daddy   
-ATTN: Web Team   
-14455 North Hayden Rd.   
-Suite 219   
-Scottsdale, AZ, 85260, U.S.A.
+Last Updated: April 2014
