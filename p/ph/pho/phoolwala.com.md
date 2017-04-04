@@ -1,32 +1,22 @@
-> *The following text is extracted and transformed from the phoolwala.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419141942id_/http%3A//www.phoolwala.com/page/privacy-policy/190) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the phoolwala.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404051830id_/https%3A//www.phoolwala.com/florist-online/privacy-policy-delivery/190) for the most accurate reproduction.*
 
-# Phoolwala.com Privacy Policy to Send Flowers Gifts to India-Phoolwala.com
-
-Browse by Categories
-
-Quick Search
-
-Same Day Flower Delivery!
-
-[ ](http://www.phoolwala.com/products/golden-n-silver-roses/ "Golden N Silver Roses") [ ](http://www.phoolwala.com/products/express-delivery/ "Send Sameday Gifts To India")
-
-**Privacy Policy: Phoolwala.com**
+# Phoolwala.com Privacy Policy to Send Flowers Gifts to India| Phoolwala.com
 
 Phoolwala.com gathers personal information to help improve our products and customer support, to communicate with our customers, to process your orders, to provide an enhanced and more personalized shopping experience and to inform you, and your gift and message recipients, of special offers and discounts from us. We recognize and respect the importance of maintaining the privacy of our customers, registered members and users, and have established this Privacy Policy as a result. 
 
-**1.   How do we handle my contact information which I enter during the purchasing process?**
+**1\. How do we handle my contact information which I enter during the purchasing process?**
 
-  All customers’ contact information, choice of bouquets, and delivery date entered at the Delivery Information Form during the purchasing process are stored in our secured merchant server database. All the printouts for record purpose are securely kept. 
+All customers’ contact information, choice of bouquets, and delivery date entered at the Delivery Information Form during the purchasing process are stored in our secured merchant server database. All the printouts for record purpose are securely kept. 
 
-2.  **For what purpose will my contact information be used?**
+2\. **For what purpose will my contact information be used?**
 
- Customer's contact information will be used for the following purposes:   
-  a. Market Analysis Such information as customer's choice of flowers/gifts, country of the senders and the recipients, are used to identify markets that need our services. The information and the result of analysis are solely meant for internal use and will be kept confidentially.  
+Customer's contact information will be used for the following purposes:   
+a. Market Analysis Such information as customer's choice of flowers/gifts, country of the senders and the recipients, are used to identify markets that need our services. The information and the result of analysis are solely meant for internal use and will be kept confidentially.  
 b. Channel for Communicating Purchase and Delivery Status Sender's email will be used as a channel for communicating purchase status (e.g. confirmation of purchase by forwarding the receipt to the customer) and delivery status (e.g. update customer if the order has been fulfilled).   
 c. Products Update Sender and recipient's email addresses will be used for forwarding new products updates.  
 d. Festival and Other Promotions: Sender and recipient's email addresses will be used for Festival and Other Promotions. 
 
-3.  **Do we collect and store my credit card information?**
+3\. **Do we collect and store my credit card information?**
 
 No. We do not collect and store your credit card information. We do not get any idea of Credit Card number. During the purchasing process, you will enter your credit card information directly into the form posted by the credit card payment gateway. Hence, all your credit card information will be collected and secured by the credit card payment gateway directly in most secured way.
 
@@ -38,7 +28,7 @@ Registered users can modify and update their membership information (including n
   
 **Your Consent and Changes to this Policy  
 **  
-Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy from time to time as new features  are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified.
+Subject to the above provisions, by using our Web Site, you consent to the terms of this Privacy Policy and the Terms of Use, of which this policy is a part. We may change our Privacy Policy from time to time as new features are added, suggestions from our customers are incorporated or other changes are made. We will post the revised Privacy Policy on our Web Site at least 30 days prior to their effective date - unless we believe changes must take effect sooner to comply with law or to protect the Company or our customers, users, Members, recipients, Sponsors, Providers, Licensors, Merchants, Associates and Affiliates, in which case the changes will be effective upon posting or as otherwise specified.
 
 **Your Comments**
 
@@ -71,3 +61,5 @@ If you want Opt out from Phoolwala.com’s newsletter list, you can simply reply
 6\. **What can I do if I find unsolicited mail from a Phoolwala.com affiliate?**
 
 We encourage you to contact immediately to our Customer Support. Please give us as much details as you can. 
+
+[Delhi Flowers Delivery](http://www.phoolwala.com/florist-online/delhi-florists-delivery/37/ "Delhi flowers delivery online") | [Online Flowers Delivery](http://www.phoolwala.com/ "flowers delivery online") | [Mumbai Flowers Delivery](http://www.phoolwala.com/florist-online/flowers-gifts-and-cakes-to-mumbai-india-delivery/25/ "Online Flowers Delivery  in Mumbai") | [Bangalore Flowers Delivery](http://www.phoolwala.com/florist-online/flowers-to-bangalore-delivery/24/ "Online flowers delivery in Bangalore") | [Hyderabad Flowers Delivery](http://www.phoolwala.com/florist-online/flowers-gifts-to-hyderabad-delivery/34/ "Online flowers delivery to Hyderabad")
