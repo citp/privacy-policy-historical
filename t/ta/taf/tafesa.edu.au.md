@@ -1,14 +1,12 @@
-> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000229id_/http%3A//www.tafesa.edu.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tafesa.edu.au privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404100552id_/https%3A//www.tafesa.edu.au/privacy) for the most accurate reproduction.*
 
 # Privacy - TAFE SA
 
 This statement sets out this site's policies relating to the privacy and security of your personal information and security of your other information. This privacy and security statement applies only to this site.
 
-This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained on the [Department of the Premier and Cabinet website](http://dpc.sa.gov.au/premier-and-cabinet-circulars).
+This site is operated in compliance with the Government of South Australia's information privacy principles (IPPs), a copy of which can be obtained on the [Department of the Premier and Cabinet website](http://dpc.sa.gov.au/what-we-do/services-for-government/premier-and-cabinet-circulars).
 
-This site collects and uses the following information from users:
-
-A record of your visit and logs the following information for statistical purposes - the user's IP address, the date and time of the visit to the site, the pages accessed and documents downloaded, the previous website visited and the type of browser used. No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect our service provider's logs. This information is analysed at the end of each month to determine the site's usage statistics.
+This website records your visit and logs the following information for statistical purposes - the user's IP address, the date and time of the visit to the site, the pages accessed and documents downloaded, the previous website visited and the type of browser used. No attempt will be made to identify users or their browsing activities except, in the unlikely event of an investigation, where a law enforcement agency may exercise a warrant to inspect our service provider's logs. This information is analysed at the end of each month to determine the site's usage statistics.
 
 The site retains the email address of people who send emails through the 'Contact us' form, for the purpose of sending a response. They are stored in a secure area within the Government of South Australia's message services system and will not be used for any other purpose, nor disclosed without your consent.
 
