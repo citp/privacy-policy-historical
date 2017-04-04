@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the contentgems.com privacy policy that was archived on 2016-04-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160427060738id_/https%3A//contentgems.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the contentgems.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404195918id_/https%3A//contentgems.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # ContentGems
 
