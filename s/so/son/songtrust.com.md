@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the songtrust.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529084541id_/https%3A//www.songtrust.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the songtrust.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404212545id_/https%3A//app.songtrust.com/privacy) for the most accurate reproduction.*
 
-# Songtrust | Privacy
+# Songtrust - Terms of Service
 
 Effective as of December 8, 2010
 
@@ -53,5 +53,3 @@ The Sites are not intended for, and we do not knowingly accept collect personall
 Any promotional e-mails you receive from us will include specific instructions on how to unsubscribe from our e-mail list, and you may unsubscribe at any time. You may also send an email to us at: [cancellation@songtrust.com](mailto:cancellation@songtrust.com) to update or correct the personal information we have on file for you or to be unsubscribed from all or any particular types of e-mailings.
 
 California residents may request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes. To make such a request, please send an e-mail to [legal@songtrust.com](mailto:help@songtrust.com) or write to us at [485 Broadway, 3rd Floor New York, NY 10013], Attn: [Joe Conyers]. California residents who have an established business relationship with us may also choose to opt-out of our disclosing personal information about them to third parties. If you do not want us to share your personal information with such third parties, please send us your name, address and phone number to legal@songtrust.com.
-
-Copyright © 2016 Songtrust. All rights reserved. Songtrust and the microphone logo are registered trademarks of ST Music LLC. 
