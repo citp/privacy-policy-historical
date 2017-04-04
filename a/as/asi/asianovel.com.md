@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianovel.com privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108013505id_/http%3A//www.asianovel.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianovel.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404182500id_/http%3A//www.asianovel.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Asia Novel
 
@@ -38,4 +38,4 @@ Ads appearing on any of our websites may be delivered to users by advertising pa
 
 Although most changes are likely to be minor, Asia Novel may change its Privacy Policy from time to time, and in Asia Novel’s sole discretion. Asia Novel encourages visitors to frequently check this page for any changes to its Privacy Policy. If you have a asianovel.com account, you might also receive an alert informing you of these changes. Your continued use of this site after any change in this Privacy Policy will constitute your acceptance of such change.
 
-(Visited 48 times, 1 visits today)
+(Visited 316 times, 2 visits today)
