@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ideasgames.com privacy policy that was archived on 2016-11-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161106035637id_/http%3A//www.ideasgames.com/page/2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ideasgames.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404033736id_/http%3A//www.ideasgames.com/page/2) for the most accurate reproduction.*
 
 # Ideas Games! - Privacy Policy
 
