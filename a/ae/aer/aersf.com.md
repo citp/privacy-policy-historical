@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the aersf.com privacy policy that was archived on 2016-10-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161010002453id_/http%3A//www.aersf.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aersf.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404130558id_/https%3A//www.aersf.com/privacy) for the most accurate reproduction.*
 
-# PRIVACY — Aer | Modern gym bags, travel bags and accessories designed for the city
+# Privacy — Aer | Modern gym bags, travel bags and accessories designed for the city
 
 Your privacy is very important to us. Accordingly, we have developed this Policy in order for you to understand how we collect, use, communicate and disclose and make use of personal information. The following outlines our privacy policy.
 
