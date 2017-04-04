@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the createcoolapps.com privacy policy that was archived on 2016-09-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160928221205id_/http%3A//www.createcoolapps.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the createcoolapps.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404222649id_/http%3A//www.createcoolapps.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy — Create Cool Apps
 
