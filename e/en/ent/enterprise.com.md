@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the enterprise.com privacy policy that was archived on 2016-10-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161009205127id_/https%3A//www.enterprise.com/en/privacy-policy.html%3Ficid%3Dfooter.legal-_-privacy-_-ENUS.NULL) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the enterprise.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404174924id_/https%3A//www.enterprise.com/en/privacy-policy.html%3Ficid%3Dfooter.legal-_-privacy-_-ENUS.NULL) for the most accurate reproduction.*
 
 # Privacy Policy - Enterprise Rent-A-Car
 
