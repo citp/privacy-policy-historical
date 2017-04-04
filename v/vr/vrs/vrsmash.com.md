@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the vrsmash.com privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204222227id_/http%3A//www.vrsmash.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vrsmash.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404204411id_/http%3A//www.vrsmash.com/info/privacy) for the most accurate reproduction.*
 
-# VR Porn Videos - VRSmash
+# Privacy Policy | VR Porn Videos - VRSmash
 
-Disable AdBlock if you want to support us. Ad income helps us pay servers. - Jobe, VRSMASH Admin
+__Looks like you've enabled Adblock. Ads suck. Why don't you try the new Premium? It has everything you know and love but with full length HD videos and NO ADS.
 
 **_PRIVACY POLICY_**
 
@@ -40,7 +40,7 @@ We may also disclose your information in special cases if required to do so by l
 
 **How long do we retain information?**
 
-We retain personal information for such period of time as we feel is necessary to ensure that you have a reasonable opportunity to access the information.  If you no longer consent to us retaining your personal information, you can contact us and request that it be removed at: vrpornlist@gmail.com.
+We retain personal information for such period of time as we feel is necessary to ensure that you have a reasonable opportunity to access the information.  If you no longer consent to us retaining your personal information, you can contact us and request that it be removed at: support@vrsmash.com.
 
 **Do we save any correspondence that you send to us?**
 
@@ -60,4 +60,4 @@ No. The Website contains links to other Internet websites.  By clicking on a th
 
 **Can we update/correct your information?**
 
-Yes.  You may correct or update your personal information by writing to our Privacy Contact at [vrpornlist@gmail.com](mailto:vrpornlist@gmail.com). 
+Yes.  You may correct or update your personal information by writing to our Privacy Contact at [support@vrsmash.com](mailto:support@vrsmash.com). 
