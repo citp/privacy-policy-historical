@@ -1,10 +1,10 @@
-<!--The following is the downloaded HTML source of the enterprise.com privacy policy that was archived on 2016-10-09.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161009205127id_/https%3A//www.enterprise.com/en/privacy-policy.html%3Ficid%3Dfooter.legal-_-privacy-_-ENUS.NULL) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the enterprise.com privacy policy that was archived on 2017-04-04.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170404174924id_/https%3A//www.enterprise.com/en/privacy-policy.html%3Ficid%3Dfooter.legal-_-privacy-_-ENUS.NULL) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
+<!DOCTYPE html><html class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
     
 
-<!--Fri Oct 07 13:43:12 CDT 2016 -->
+<!--Tue Apr 04 10:29:50 CDT 2017 -->
 
 
 
@@ -17,34 +17,35 @@
 
 
     <!--[if IE]>
-    <link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/main-ie.min.css" type="text/css"/>
+    <link rel="stylesheet" href="/etc/designs/ecom/clientlibs2017-03-14-14-11/main-ie.min.css" type="text/css"/>
 
     <![endif]-->
 
 <!--[if !IE]><!-->
 
     
-<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/main.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2017-03-14-14-11/main.min.css" type="text/css">
 
 
 
 <!--<![endif]-->
 
     
-<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2016-10-04-11-43/icons.min.css" type="text/css">
+<link rel="stylesheet" href="/etc/designs/ecom/clientlibs2017-03-14-14-11/icons.min.css" type="text/css">
 
 
 
 
-<link rel="stylesheet" media="all" href="/etc/designs/ecom/dist/css/static.css?v=2016-10-04-11-43">
+<link rel="stylesheet" media="all" href="/etc/designs/ecom/dist/css/static.css?v=2017-03-14-14-11">
 
-<link rel="stylesheet" media="print" href="/etc/designs/ecom/dist/css/print.css?v=2016-10-04-11-43">
+<link rel="stylesheet" media="print" href="/etc/designs/ecom/dist/css/print.css?v=2017-03-14-14-11">
 
 <!-- Keep it empty for basepage -->
 
 
     
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/jquery.min.js"></script>
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2017-03-14-14-11/jquery.min.js"></script>
+
 
 
 
@@ -72,7 +73,9 @@
         defaultLanguageCode: "en",
         pricingOrderDisplayTotalFirst: false,
         aem: {
-            path: "/en"
+            path: "/en",
+            homePath: "",
+            defaultReservePath: "https://www.enterprise.com/en/reserve.html"
         },
         comarch: {
             path: "https://enterpriseplus.enterprise.com/group/ehi/"
@@ -94,18 +97,16 @@
         prepayUrl: {
             path: "https://sps.farepayment.com/chdp/html/register"
         },
-        epPaymentPanguiUrl: {
-            path: ""
-        },
         age: [{"value":"18","label":"18","selected":false},{"value":"19","label":"19","selected":false},{"value":"20","label":"20","selected":false},{"value":"21","label":"21","selected":false},{"value":"22","label":"22","selected":false},{"value":"23","label":"23","selected":false},{"value":"24","label":"24","selected":false},{"value":"25","label":"25+","selected":true}],
         acceptPrivacyRequired: false,
         hidePrepay: false,
         hideRedemption: false,
         hideRedemptionModify: true,
         hidePrepayModify: false,
+        prepayType: "noModal",
         inResEnrollment: true,
         disableIpRedirect: false,
-        hideEpPaymentOptions: false,
+        hideCreditCard: false,
         fareOfficeFormId: "4",
         defaultPaymentOption: "",
         exoticCarsUrl: "https://exoticcars.enterprise.com",
@@ -127,7 +128,17 @@
             "3": 'costCenter',
             "2": 'employeeId',
             "1": 'requisitionNo'
-        }
+        },
+        prepayNACreditCards: {
+            "": 'Mastercard',
+            "": 'Visa',
+            "": 'Credit Card',
+            "": 'American Express',
+            "": 'Eurocard',
+            "": 'Bankcard'
+        },
+        googleMapsClientID: "gme-enterpriseholdings1",
+		googleMapsChannel: "Enterprise_NA"
     };
 
     enterprise.settings = {
@@ -137,22 +148,21 @@
             safari: 8,
             chrome: 51
         },
+        panguiTimeout: 30000, // 30 seconds
         browserClientSideRedirect: true,   // @todo: make dynamic feature flag
         browserClientSideDetection: true,       // @todo: are we doing a client-side browser detection?
         browserServerSideDetection: true,   // @todd: are we doing server-side detection?
         browserUpgradeUrl: "browsernotice.html"
     };
     enterprise.settings.browserUpgradeUrl = enterprise.aem.path + '/' + enterprise.settings.browserUpgradeUrl;
-    enterprise.languagesByDomain = {"ecom":["en_us","es_us"],"co-ca":["en_ca","fr_ca"],"co-uk":["en_gb"],"co-ie":["en_gb"],"co-de":["de_de","en_gb"],"co-fr":["fr_fr","en_gb"],"co-es":["es_es","en_gb"]};
+    enterprise.languagesByDomain = {"ecom":["en_us","es_us"],"co-ca":["en_ca","fr_ca"],"co-uk":["en_gb"],"co-ie":["en_gb"],"co-de":["de_de","en_gb"],"co-fr":["fr_fr","en_gb"],"co-es":["es_es","en_gb"],"franchisee-nl":["nl_nl","en_gb"],"franchisee-ec":["es_us","en_us"],"franchisee-jm":["en_us"],"franchisee-lv":["lv_lv","en_gb"],"franchisee-be":["nl_be","fr_be","en_gb"],"franchisee-it":["it_it","en_gb"],"franchisee-hu":["hu_hu","en_gb"]};
+
 </script>
 
-
-    <script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
-    <!-- This is prod -->
-    <script src="//assets.adobedtm.com/637ae9c62c9fe0a9a2fd27b1350da0b838190621/satelliteLib-64715503a5c3f03a9c38350e5a8825412fb1d39a.js"></script>
+<script type="text/javascript" src="https://www.googleadservices.com/pagead/conversion_async.js" charset="utf-8"></script>
 
 
-
+<script src="//assets.adobedtm.com/637ae9c62c9fe0a9a2fd27b1350da0b838190621/satelliteLib-64715503a5c3f03a9c38350e5a8825412fb1d39a.js" :=""></script>
 
 <!--[if gte IE 9]>
 <style type="text/css">
@@ -180,7 +190,7 @@
 <meta property="og:url" content="https://www.enterprise.com/en/privacy-policy.html">
 <meta name="twitter:card" content="summary">
 
-
+<meta name="apple-itunes-app" content="app-id=1020641417">
 
 
 
@@ -208,20 +218,22 @@
         <div class="header-nav">
             <div class="header-nav-left">
                 <div class="logo header-nav-item">
+                    <!-- TODO: Remove this fedex-exclusive div when the customHomeUrl is able to point to fedex landing page -->
                     
                     
-                        <a class="header-logo-link" href="/en.html">
+                        <a class="header-logo-link" href="https://www.enterprise.com/en/home.html">
                             <img src="/content/dam/ecom/logo-enterprise.png" alt="enterprise">
                         </a>
                     
                     
                 </div>
                 <div class="mobile-logo header-nav-item">
+                    <!-- TODO: Remove this fedex-exclusive div when the customHomeUrl is able to point to fedex landing page -->
                     
                     
-                        <a class="header-logo-link" href="/en.html">
+                        <a class="header-logo-link" href="https://www.enterprise.com/en/home.html">
                             <i class="icon icon-nav-mobile-e-icon-white"></i>
-                            <span>Enterprise</span>
+                            <span class="is-vishidden">Enterprise</span>
                             
                         </a>
                     
@@ -229,25 +241,29 @@
                 <div id="codebanner-container" class="header-nav-item"></div>
             </div>
             <div class="header-nav-right">
-                <nav class="header-nav-item" id="utility-nav">
-        <ul class="utility-nav">
-          <li tabindex="-1" class="career-section">
+                <nav class="header-nav-item" id="utility-nav" aria-label="Utility Menu">
+        <ul class="utility-nav" role="menu">
+          <li class="career-section" role="presentation">
             <div class="careerlink career">
-<a role="menuitem" href="http://go.enterpriseholdings.com?cm_mmc=EnterpriseWebsite-_-Header-_-info.careers-_-ENUS" target="_blank">Careers</a></div>
+<a role="menuitem" href="http://go.enterpriseholdings.com?cm_mmc=EnterpriseWebsite-_-Header-_-info.careers-_-ENUS" target="_blank">Careers</a>
+</div>
 </li>
-          <li class="help">
+          <li class="help" role="presentation">
               <div class="help">
-<div role="button" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="contactInfo">
+<div role="menuitem" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="contactInfo">
 	<span class="utility-nav-label">Help</span>
 	<i class="icon icon-utility-notch"></i>
 </div>
 <div id="contactInfo" class="utility-nav-content col-2">
-	<fieldset role="menu">
+	<fieldset>
 		
 			<div class="field-container">
 				<div class="title">Help &amp; FAQs</div>
 				<a href="https://enterprise.custhelp.com?cm_mmc=EnterpriseWebsite-_-Header-_-help.support-_-ENUS" target="_blank" class="btn">Get Answers</a>
-				
+				<p>For fastest service, read these answers first!</p>
+
+
+
 			</div>
 		
 			<div class="field-container">
@@ -260,10 +276,10 @@
 </div>
 </div>
 </li>
-          <li class="currency">
+          <li class="currency" role="presentation">
               
 
-    <div role="button" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="currencySelector" data-currency="usd">
+    <div role="menuitem" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="currencySelector" data-currency="usd">
         <span class="utility-nav-label">USD ($)
         </span>
         <i class="icon icon-utility-notch"></i>
@@ -318,11 +334,11 @@
 <script>
     var CurrencySelectorModule = (function ($) {
         var $radioGroup,
-                $currencyLabel,
-                $currencyNode,
-                endpointPrefix = enterprise.services.path,
-                endpoint = endpointPrefix + "/changecurrency/",
-                credentials = (endpointPrefix !== enterprise.solr.path) ? true : false;
+            $currencyLabel,
+            $currencyNode,
+            endpointPrefix = enterprise.services.path,
+            endpoint = endpointPrefix + "/changecurrency/",
+            credentials = (endpointPrefix !== enterprise.solr.path) ? true : false;
 
         function init() {
             var cookieCurrency = getCookie();
@@ -330,7 +346,7 @@
             $radioGroup = $("input[name='currency']");
             $currencyNode = $(".currency");
             $currencyLabel = $currencyNode.find('.utility-nav-label');
-            enterprise.selectedCurrency = $currencyLabel.data('currency');
+            enterprise.selectedCurrency = $radioGroup.filter(':checked').val();
             attachListeners();
 
             if (cookieCurrency) {
@@ -414,11 +430,11 @@
     });
 </script>
 </li>
-          <li class="language">
+          <li class="language" role="presentation">
                   <div class="countrylanguageselector countrylanguage">
 <div>
 
-	<div role="button" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="languageSelector">
+	<div role="menuitem" class="utility-nav-button" tabindex="0" aria-haspopup="true" aria-expanded="false" aria-controls="languageSelector">
 		<span class="utility-nav-label"><i class="icon icon-nav-globe-green"></i>
 		USA (en</span>)
 		<i class="icon icon-utility-notch"></i>
@@ -429,18 +445,46 @@
 			<div class="field-container language-select">
 				<div class="title">Select a Language</div>
 				
-					<div data-country="esp">
+					<div data-country="hun">
 						
 							<label>
-								<a class=" country-language-href" href="https://www.enterprise.es/es.html">
-									Spanish
+								<a class=" country-language-href" href="https://www.enterprise.hu/hu.html">
+									hu
 									<i class="icon icon-checkmark-circle-green"></i>
 								</a>
 							</label>
 						
 							<label>
-								<a class=" country-language-href" href="https://www.enterprise.es/en.html">
+								<a class=" country-language-href" href="https://www.enterprise.hu/en.html">
 									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
+
+
+				
+					<div data-country="cro">
+						
+					</div>
+					
+
+
+				
+					<div data-country="can">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.ca/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.ca/fr.html">
+									French
 									<i class="icon icon-checkmark-circle-green"></i>
 								</a>
 							</label>
@@ -471,27 +515,6 @@
 
 
 				
-					<div data-country="can">
-						
-							<label>
-								<a class=" country-language-href" href="https://www.enterprise.ca/en.html">
-									English
-									<i class="icon icon-checkmark-circle-green"></i>
-								</a>
-							</label>
-						
-							<label>
-								<a class=" country-language-href" href="https://www.enterprise.ca/fr.html">
-									French
-									<i class="icon icon-checkmark-circle-green"></i>
-								</a>
-							</label>
-						
-					</div>
-					
-
-
-				
 					<div data-country="fra">
 						
 							<label>
@@ -503,34 +526,6 @@
 						
 							<label>
 								<a class=" country-language-href" href="https://www.enterprise.fr/en.html">
-									English
-									<i class="icon icon-checkmark-circle-green"></i>
-								</a>
-							</label>
-						
-					</div>
-					
-
-
-				
-					<div data-country="gbr">
-						
-							<label>
-								<a class=" country-language-href" href="https://www.enterprise.co.uk/en.html">
-									English
-									<i class="icon icon-checkmark-circle-green"></i>
-								</a>
-							</label>
-						
-					</div>
-					
-
-
-				
-					<div data-country="irl">
-						
-							<label>
-								<a class=" country-language-href" href="https://www.enterprise.ie/en.html">
 									English
 									<i class="icon icon-checkmark-circle-green"></i>
 								</a>
@@ -568,6 +563,174 @@
 
 
 				
+					<div data-country="irl">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.ie/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
+
+
+				
+					<div data-country="bel">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterpriserentacar.be/nl.html">
+									nl
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterpriserentacar.be/fr.html">
+									French
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterpriserentacar.be/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
+
+
+				
+					<div data-country="nld">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.nl/nl.html">
+									nl
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.nl/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
+
+
+				
+					<div data-country="esp">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.es/es.html">
+									Spanish
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.es/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
+
+
+				
+					<div data-country="ita">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterpriserentacar.it/it.html">
+									it
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterpriserentacar.it/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
+
+
+				
+					<div data-country="pol">
+						
+					</div>
+					
+
+
+				
+					<div data-country="aus">
+						
+					</div>
+					
+
+
+				
+					<div data-country="jam">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.com.jm/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
+
+
+				
+					<div data-country="gbr">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.co.uk/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
+
+
+				
+					<div data-country="lat">
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.lv/lv.html">
+									lv
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+							<label>
+								<a class=" country-language-href" href="https://www.enterprise.lv/en.html">
+									English
+									<i class="icon icon-checkmark-circle-green"></i>
+								</a>
+							</label>
+						
+					</div>
+					
+
+
+				
 			</div>
 		</fieldset>
 	</div>
@@ -582,10 +745,10 @@
               <a href="/en/account.html">Sign In</a>
           </div>
       </div>
-    <nav class="header-nav-item" id="mobile-nav" aria-expanded="false">
+    <nav class="header-nav-item" id="mobile-nav" aria-label="Mobile Menu">
         <ul class="mobile-nav">
             <li class="primary-nav-toggle">
-                <button id="mobile-toggle" aria-label="Explore Enterprise Menu Options">
+                <button id="mobile-toggle" aria-label="Explore Enterprise Menu Options" aria-expanded="false" aria-controls="primary-nav">
                     <i class="icon icon-hamburger-white"></i>
                 </button>
             </li>
@@ -613,8 +776,6 @@
 		
 	
 		
-	
-		
 			
 				
 				
@@ -630,6 +791,26 @@
 				
 				
 			
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
+		
+	
 		
 	</select>
 </div></div>
@@ -686,7 +867,9 @@
 
             </div>
         </div>
-        <div class="nav-container"><nav class="nav" id="primary-nav">
+        <div class="nav-container">
+            <div><div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys primarynavpar"><div class="primarynav section"><nav class="nav" id="primary-nav" aria-label="Sub Menu">
     <ul class="primary-nav active-cols-6" role="menu">
         <li tabindex="0" role="menuitem" aria-haspopup="true" class="primary-item"><div class="megamenu megamenu-rent"><div class="primary-nav-label">Rent</div>
 <div class="primary-nav-content">
@@ -757,8 +940,13 @@
 			<ul class="sub-menu">
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/car-rental/insurance-replacement.html?icid=header.rent.replacement-_-insurance.replacement-_-ENUS.NULL">
-						Information About Replacement Vehicles</a>
+					<a href="/en/car-rental/replacement-vehicle.html?icid=header.rent.replacement-_-rental.replacement-_-ENUS.NULL">
+						Replacement Rental</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/car-rental/replacement-vehicle/insurance-replacement.html?icid=header.rent.replacement-_-insurance.replacement-_-ENUS.NULL">
+						Rental Reimbursement Insurance</a>
 				</li>
 				</ul>
 		</div>
@@ -801,25 +989,25 @@
 			<ul class="sub-menu">
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavHP&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.browse-_-ENUS">
+					<a class="external-link" target="_blank" href="https://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavHP&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.browse-_-ENUS">
 						Browse Selection<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
 						</a>
 				</li>
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/ti-hub?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavTradeIn&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.appraisal-_-ENUS">
+					<a class="external-link" target="_blank" href="https://www.enterprisecarsales.com/trade-in-appraisal?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavTradeIn&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.appraisal-_-ENUS">
 						Free Trade-In Appraisal<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
 						</a>
 				</li>
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/locations?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavLoc&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.locator-_-ENUS">
+					<a class="external-link" target="_blank" href="https://www.enterprisecarsales.com/locations?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavLoc&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.locator-_-ENUS">
 						Store Locator<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
 						</a>
 				</li>
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/under-15k-hub?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=Nav15k&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.under-_-ENUS">
+					<a class="external-link" target="_blank" href="https://www.enterprisecarsales.com/under-15k-hub?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=Nav15k&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.under-_-ENUS">
 						Vehicles Under $15,000<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
 						</a>
 				</li>
@@ -912,13 +1100,13 @@
 				</li>
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/mobility-solutions.html?icid=header.learn.company-_-mobility.solutions-_-ENUS.NULL">
-						Total Mobility Solutions</a>
+					<a href="/en/about/community.html?icid=header.learn.inspiration-_-sustainability-_-ENUS.NULL">
+						Community &amp; Sustainability</a>
 				</li>
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="https://www.drivealliance.com?cm_mmc=EnterpriseWebsite-_-Header-_-learn.drive-_-ENUS">
-						Drive Alliance®<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
+					<a class="external-link" target="_blank" href="/en/about/mobility-solutions.html?icid=header.learn.company-_-mobility.solutions-_-ENUS.NULL">
+						Total Mobility Solutions<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
 						</a>
 				</li>
 				<li role="menuitem" aria-haspopup="true">
@@ -942,17 +1130,22 @@
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
 					<a href="/en/inspiration.html?icid=header.learn.inspiration-_-inspiration-_-ENUS.NULL">
-						Travel &amp; Lifestyle</a>
+						Pursuits with Enterprise™</a>
 				</li>
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/sustainability.html?icid=header.learn.inspiration-_-sustainability-_-ENUS.NULL">
-						Sustainability</a>
+					<a href="/en/inspiration/scenic-drives.html">
+						Scenic Drives by Pursuits with Enterprise™</a>
 				</li>
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a href="/en/about/renewable-fuels.html?icid=header.learn.inspiration-_-renewable.fuel-_-ENUS.NULL">
-						Renewable Fuel Research</a>
+					<a href="/en/inspiration/weekend-adventures.html">
+						Weekend Adventures by Pursuits with Enterprise™</a>
+				</li>
+				<li role="menuitem" aria-haspopup="true">
+					<i class="icon icon-nav-carrot-white"></i>
+					<a href="/en/inspiration/most-driven-fans.html">
+						Most Driven Fans: Hockey</a>
 				</li>
 				</ul>
 		</div>
@@ -1030,7 +1223,7 @@
 				</li>
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavHP?cm_mmc=EnterpriseWebsite-_-Header-_-locations.carsales-_-ENUS">
+					<a class="external-link" target="_blank" href="https://www.enterprisecarsales.com/locations?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=NavLoc&amp;cm_mmc=EnterpriseWebsite-_-Header-_-carsales.locator-_-ENUS">
 						Car Sales Locations<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
 						</a>
 				</li>
@@ -1085,13 +1278,7 @@
 				</li>
 				<li role="menuitem" aria-haspopup="true">
 					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://www.efleets.com/contact?cm_mmc=EnterpriseWebsite-_-Header-_-nav-_-en_US?cm_mmc=EnterpriseWebsite-_-Header-_-fleet.contact-_-ENUS">
-						Contact Us<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
-						</a>
-				</li>
-				<li role="menuitem" aria-haspopup="true">
-					<i class="icon icon-nav-carrot-white"></i>
-					<a class="external-link" target="_blank" href="http://login.efleets.com/fleets/Home.action?cm_mmc=EnterpriseWebsite-_-Header-_-fleet.client-_-ENUS">
+					<a class="external-link" target="_blank" href="https://login.efleets.com/fleets">
 						Client Login<i class="icon icon-nav-external-link-green"></i><i class="icon icon-nav-external-link-white"></i>
 						</a>
 				</li>
@@ -1106,6 +1293,10 @@
     </ul>
 </nav>
 </div>
+</div>
+</div>
+</div>
+        </div>
     </div>
 
 </header>
@@ -1409,9 +1600,10 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
 </div>
     <footer class="cf">
 	<div class="logo">
-		<a href="/en.html"><img src="/content/dam/ecom/logo-enterprise.png" alt="Enterprise"></a>
+		<a href="https://www.enterprise.com/en/home.html"><img src="/content/dam/ecom/logo-enterprise.png" alt="Enterprise"></a>
 	</div>
-<nav class="nav" id="footer-nav">
+<div class="section"><div class="new"></div>
+</div><div class="iparys_inherited"><div class="parsys iparsys footernavpar"><div class="footer section"><nav class="nav" id="footer-nav" aria-label="Site Map">
         <div class="g g-4up">
              <div class="gi">
                 <div class="footermenu footer-1"><div class="hide">RESERVATIONS</div>
@@ -1497,7 +1689,7 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
 
         <ul id="BUY-list">
       		<li>
-      		    <a target="_blank" href="http://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=FooterHP&amp;cm_mmc=EnterpriseWebsite-_-Footer-_-buy.carsales-_-EN_US">Enterprise Car Sales</a>
+      		    <a target="_blank" href="https://www.enterprisecarsales.com/?utm_source=Enterprise&amp;utm_medium=Referral&amp;utm_campaign=FooterHP&amp;cm_mmc=EnterpriseWebsite-_-Footer-_-buy.carsales-_-EN_US">Enterprise Car Sales</a>
       	    </li>
         	</ul>
       <div class="hide">SHARE</div>
@@ -1520,13 +1712,7 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
 
         <ul id="INSPIRATION-list">
       		<li>
-      		    <a href="/en/inspiration.html?icid=footer.inspiration-_-inspiration-_-ENUS.NULL">Travel &amp; Lifestyle</a>
-      	    </li>
-        	<li>
-      		    <a href="/en/about/sustainability.html?icid=footer.inspiration-_-sustainability-_-ENUS.NULL">Sustainability</a>
-      	    </li>
-        	<li>
-      		    <a href="/en/about/renewable-fuels.html?icid=footer.inspiration-_-renewable.fuel-_-ENUS.NULL">Renewable Fuel Research</a>
+      		    <a href="/en/inspiration.html?icid=footer.inspiration-_-inspiration-_-ENUS.NULL">Pursuits with Enterprise</a>
       	    </li>
         	</ul>
       <div class="hide">INTERNATIONAL WEBSITES</div>
@@ -1608,6 +1794,9 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
       		    <a href="/en/about.html?icid=footer.company-_-about-_-ENUS.NULL">About Us</a>
       	    </li>
         	<li>
+      		    <a target="_blank" href="/en/about/community.html?icid=footer.inspiration-_-sustainability-_-ENUS.NULL">Community &amp; Sustainability</a>
+      	    </li>
+        	<li>
       		    <a target="_blank" href="http://www.enterpriseholdings.com/?cm_mmc=EnterpriseWebsite-_-Footer-_-company.holdings-_-ENUS">Enterprise Holdings®</a>
       	    </li>
         	<li>
@@ -1620,7 +1809,7 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
       		    <a href="/en/about/enterprise-affiliate.html?icid=footer.company-_-affiliate.programs-_-ENUS.NULL">Affiliate Programs</a>
       	    </li>
         	<li>
-      		    <a href="/en/about/youth-sports.html?icid=footer.company-_-youth.sports-_-ENUS.NULL">Youth Sports Fundraising</a>
+      		    <a href="/en/about/youth-sports-fundraising.html?icid=footer.company-_-youth.sports-_-ENUS.NULL">Youth Sports Fundraising</a>
       	    </li>
         	</ul>
       </div>
@@ -1645,6 +1834,9 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
       		    <a target="_blank" href="http://www.enterprisetrucks.com/truckrental/en_US/businessUse.html?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.truck-_-ENUS">Enterprise Truck Rental</a>
       	    </li>
         	<li>
+      		    <a target="_blank" href="https://www.enterprise.com/en/ec-unauthenticated-loyalty-landing-page.html">Travel Administrator</a>
+      	    </li>
+        	<li>
       		    <a target="_blank" href="https://legacy.enterprise.com/car_rental/travelAgent.do?cm_mmc=EnterpriseWebsite-_-Footer-_-businesses.travel-_-ENUS">Travel Agents</a>
       	    </li>
         	<li>
@@ -1664,9 +1856,6 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
       		    <a href="/en/about/sponsorships/ncaa.html?icid=footer.sponsorships-_-ncaa.landing-_-ENUS.NULL">NCAA®</a>
       	    </li>
         	<li>
-      		    <a href="/en/about/sponsorships/ncaa/march-madness.html?icid=footer.sponsorships-_-march.madness-_-ENUS.NULL">March Madness®</a>
-      	    </li>
-        	<li>
       		    <a href="/en/about/sponsorships/nhl.html?icid=footer.sponsorships-_-nhl.landing-_-ENUS.NULL">NHL</a>
       	    </li>
         	<li>
@@ -1684,14 +1873,14 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
         	</ul>
       </div>
 <div class="gettheapp"><div class="get-app">
-    <p>Get the Enterprise Mobile App</p>
+    <p></p>
     <div class="badge-icon">
-      <a target="_blank" class="badge-icon-link" href="http://appstore.com/EnterpriseRentACar">
+      <a target="_blank" class="badge-icon-link">
         <img alt="Apple" src="/etc/designs/ecom/dist/img/vector-icons/app-store-icons/en_us.svg">
       </a>
     </div>
     <div class="badge-icon">
-      <a target="_blank" class="badge-icon-link" href="https://play.google.com/store/apps/details?id=com.ehi.enterprise.android">
+      <a target="_blank" class="badge-icon-link">
         <img alt="Google" src="/etc/designs/ecom/dist/img/raster-icons/google-play-icons/en_us.png">
       </a>
     </div>    
@@ -1762,7 +1951,8 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
 				
 					
 					<li>
-						<a target="_blank">© 2016 Enterprise Holdings, Inc.
+						<a target="_blank">© 2016 Enterprise Holdings, Inc.<br>
+<br>
 							
 						</a>
 					</li>
@@ -1777,12 +1967,15 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
 	</div>
 </div>
 </div>
+</div>
+</div>
+</div>
 
 
 
 
 </footer>
-    <div class="modal-container">
+    <div class="modal-container" aria-hidden="true">
         <div class="modal-content">
             <div class="modal-header">Enterprise
                 <button class="close-modal">☓</button>
@@ -1798,48 +1991,46 @@ Canadian Customers may also seek advice from the Office of the Privacy Commissio
     
         
     
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/prod-libs.min.js"></script>
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2017-03-14-14-11/prod-libs.min.js"></script>
 
 
 
     
     
 
-    <script src="/en.i18nmap.js?v=2016-10-04-11-43"></script>
+    <script src="/en.i18nmap.js?v=2017-03-14-14-11"></script>
 
     
-      
-    
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/home.min.js"></script>
-
-
-
 
       
     
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/nav.min.js"></script>
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2017-03-14-14-11/home.min.js"></script>
 
 
 
 
-      
-    
-<script type="text/javascript" src="/etc/designs/ecom/clientlibs2016-10-04-11-43/content.min.js"></script>
-
-
-
-
-      
     
 
     
 
+    
+    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2017-03-14-14-11/nav.min.js"></script>
+
+
+
 
     
-        <!-- This is prod -->
-        <script>_satellite.pageBottom();</script>
     
-    
+<script type="text/javascript" src="/etc/designs/ecom/clientlibs2017-03-14-14-11/content.min.js"></script>
+
+
+
+
+
+    <script>_satellite.pageBottom();</script>
+
+
 
 
 
