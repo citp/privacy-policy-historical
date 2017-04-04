@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014122425id_/https%3A//www.thomasville.com/about-us/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thomasville.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404081629id_/https%3A//www.thomasville.com/about-us/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Thomasville
+# Privacy Policy | Thomasville Furniture
 
 Effective Date: January 2014
 
