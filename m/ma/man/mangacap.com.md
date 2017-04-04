@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mangacap.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121051544id_/http%3A//nexusformulas.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mangacap.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404120932id_/http%3A//nexusformulas.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Nexus Formulas » Nexus Formulas
 
@@ -56,18 +56,18 @@ From time to time, we may use third party suppliers to provide services on our w
 In the event that we go through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. You will be notified via email and/or prominent notice on our Web site for 30 days of any such change in ownership or control of your personal information.
 
 **ARTICLES**  
-Our Web site offers publicly accessible articles. You should be aware that any information you provide while leaving comments within this area of our site may be read, collected, and used by others who access them. To request removal of your personal information from our articles, contact us at [support@nexusformulas.com](mailto:support@nexusformulas.com)In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
+Our Web site offers publicly accessible articles. You should be aware that any information you provide while leaving comments within this area of our site may be read, collected, and used by others who access them. To request removal of your personal information from our articles, contact us at [support@nexusformulas.com](http://nexusformulas.com/cdn-cgi/l/email-protection#c2b1b7b2b2adb0b682aca7bab7b1a4adb0afb7aea3b1eca1adaf)In some cases, we may not be able to remove your personal information, in which case we will let you know if we are unable to do so and why.
 
 **ACCESS TO PERSONAL INFORMATION**  
-If your personal information changes, or if you no longer desire our service, you may correct, amend, delete inaccuracies or deactivate it by contacting us at [support@nexusformulas.com](mailto:support@nexusformulas.com). We will respond to your access request within 30 days.
+If your personal information changes, or if you no longer desire our service, you may correct, amend, delete inaccuracies or deactivate it by contacting us at [support@nexusformulas.com](http://nexusformulas.com/cdn-cgi/l/email-protection#e4979194948b9690a48a819c9197828b968991888597ca878b89). We will respond to your access request within 30 days.
 
-We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at[support@nexusformulas.com](mailto:support@nexusformulas.com). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+We will retain your information for as long as your account is active or as needed to provide you services. If you wish to cancel your account or request that we no longer use your information to provide you services contact us at[support@nexusformulas.com](http://nexusformulas.com/cdn-cgi/l/email-protection#d7a4a2a7a7b8a5a397b9b2afa2a4b1b8a5baa2bbb6a4f9b4b8ba). We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 **AUTORESPONDERS**  
-We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to[support@nexusformulas.com](mailto:support@nexusformulas.com), or sending us mail to the address listed below.
+We may use autoresponders to communicate with you by e-mail. To protect your privacy, we use a verified opt-in system for such communications and you can always opt-out of such communications using the links contained in each autoresponder message. If you have difficulties opting out, you may contact us by sending an e-mail to[support@nexusformulas.com](http://nexusformulas.com/cdn-cgi/l/email-protection#85f6f0f5f5eaf7f1c5ebe0fdf0f6e3eaf7e8f0e9e4f6abe6eae8), or sending us mail to the address listed below.
 
 **OPTING-OUT**  
-We provide you the opportunity to opt-out from any promotional or marketing emails that we may send you. You may do so by following the instructions included in each communication or by emailing us at [support@nexusformulas.com](mailto:support@nexusformulas.com)
+We provide you the opportunity to opt-out from any promotional or marketing emails that we may send you. You may do so by following the instructions included in each communication or by emailing us at [support@nexusformulas.com](http://nexusformulas.com/cdn-cgi/l/email-protection#56252326263924221638332e23253039243b233a37257835393b)
 
 **SECURITY**  
 The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, we cannot guarantee its absolute security.
@@ -82,7 +82,7 @@ We encourage you to be aware when you leave our site and to read the privacy pol
 This privacy policy applies only to information collected by our Web sites.
 
 **Testimonials**  
-We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@nexusformulas.com](mailto:support@nexusformulas.com)
+We display personal testimonials of satisfied customers on our site in addition to other endorsements. With your consent we may post your testimonial along with your name. If you wish to update or delete your testimonial, you can contact us at [support@nexusformulas.com](http://nexusformulas.com/cdn-cgi/l/email-protection#a8dbddd8d8c7dadce8c6cdd0dddbcec7dac5ddc4c9db86cbc7c5)
 
 **Social Media Widgets**  
 Our Web site includes Social Media Features, such as the Facebook Like button [and Widgets, such as the Share this button or interactive mini-programs that run on our site]. These Features may collect your IP address, which page you are visiting on our site, and may set a cookie to enable the Feature to function properly. Social Media Features and Widgets are either hosted by a third party or hosted directly on our Site. Your interactions with these Features are governed by the privacy policy of the company providing it.
@@ -90,7 +90,7 @@ Our Web site includes Social Media Features, such as the Facebook Like button [a
 **POLICY CHANGES**  
 We may update this privacy policy to reflect changes to our information practices. If we make any material changes we will notify you by email (sent to the e-mail address specified in your account) or by means of a notice on this Site prior to the change becoming effective. We encourage you to periodically review this page for the latest information on our privacy practices.
 
-Any questions or concerns about this policy should be brought to our attention by sending an e-mail to[support@nexusformulas.com](mailto:support@nexusformulas.com) and providing us with information relating to your concern.
+Any questions or concerns about this policy should be brought to our attention by sending an e-mail to[support@nexusformulas.com](http://nexusformulas.com/cdn-cgi/l/email-protection#89fafcf9f9e6fbfdc9e7ecf1fcfaefe6fbe4fce5e8faa7eae6e4) and providing us with information relating to your concern.
 
 You may also mail your concerns to us at the following address:  
 Nexus Formulas LLC  
@@ -99,7 +99,7 @@ New York, NY 10001
 United States
 
 **CALIFORNIA PRIVACY RIGHTS**  
-If you are a California resident and our customer, Cal. Civ. Code 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to [support@nexusformulas.com](mailto:support@nexusformulas.com) or write us at the following address:  
+If you are a California resident and our customer, Cal. Civ. Code 1798.83 permits you to request certain information about our disclosure of personal information to third parties for their direct marketing purposes. To request this information, please send an e-mail to [support@nexusformulas.com](http://nexusformulas.com/cdn-cgi/l/email-protection#94e7e1e4e4fbe6e0d4faf1ece1e7f2fbe6f9e1f8f5e7baf7fbf9) or write us at the following address:  
 Nexus Formulas LLC  
 244 Fifth Avenue #V234  
 New York, NY 10001  
