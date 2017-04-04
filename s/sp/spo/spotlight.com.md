@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203113817id_/https%3A//www.spotlight.com/aboutus/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spotlight.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404171002id_/https%3A//www.spotlight.com/the-small-print/privacy-policy) for the most accurate reproduction.*
 
-# Spotlight - professional acting jobs and auditions since 1927
+# Privacy Policy
 
-## Privacy Policy
-
-Spotlight is committed to protecting the privacy of its users. This Privacy Policy sets out the type of personal information that we collect, what it is used for and the rights you have in relation to this information. By using Spotlight's Services and/or this Site and/or Spotlight's software Application(s) you accept the terms of this Privacy Policy. This Privacy Policy should be read in conjunction with our terms of use as they apply to you:
+**Spotlight is committed to protecting the privacy of its users. This Privacy Policy sets out the type of personal information that we collect, what it is used for and the rights you have in relation to this information. By using Spotlight's Services and/or this Site and/or Spotlight's software Application(s) you accept the terms of this Privacy Policy. This Privacy Policy should be read in conjunction with our terms of use as they apply to you:**
 
 For Spotlight Member Service Terms [see here](http://www.spotlight.com/terms/ "see here").
 
@@ -32,7 +30,7 @@ In this Privacy Policy:
 
 We will collect personal information from you when you sign-up to or otherwise use our Site and/or Services. We may also collect information from you if you access or use our site's other features, such as entering competitions and communicating with us directly. We may process data including the following personal information about you, where supplied: Name, gender, date of birth, address(es), email, telephone number(s), information pertaining to disability and ethnicity, IP address, photographs, video and audio clips and career history.
 
- **Please note, that as many of our Services are primarily promotional tools, personal data included in these public profiles may be accessible by other Spotlight users and/or the public via wide circulation or redistribution, and via our historical archives. Therefore you should never include any personal data on your profile that you would wish to remain private.**
+**Please note, that as many of our Services are primarily promotional tools, personal data included in these public profiles may be accessible by other Spotlight users and/or the public via wide circulation or redistribution, and via our historical archives. Therefore you should never include any personal data on your profile that you would wish to remain private.**
 
 ### How will we use your personal information?
 
@@ -53,8 +51,9 @@ We (or third party data processors acting on our behalf) may collect, store, use
 
 
 
-In addition to the above, we may disclose your personal data to carefully selected and trusted third parties in the following circumstances:
+In addition to the above, we may disclose certain personal data to carefully selected and trusted third parties in the following circumstances:
 
+  * Spotlight network partners, circulating breakdown information via their casting platforms in other territories,
   * subcontractors assisting us in providing our service to our users,
   * third parties who provide service enhancements or additional functionality to our users related to how they use our services. See below under 'Enhanced or additional functionality' for more information and examples,
   * third parties who are involved in furthering research and technology in areas connected with our service. See below under 'Research' for more information and examples,
@@ -88,8 +87,7 @@ If you experience any payment problems when placing an order via our Site, we ad
 
 Spotlight is your Data Controller. We regard the lawful and correct treatment of your personal information by us as very important to our business. To this end we fully endorse and adhere to data protection law in the UK. As your Data Controller, Spotlight has notified its activities to the Office of the Information Commissioner as required under the Data Protection Act 1998, and can be found in the Data Protection Public Register.
 
-If you are a Spotlight Member please note that your agent (if you are represented) or training establishment may also act as your Data Controller both for the supply of your information to Spotlight and its use in submissions made by your Agent on your behalf via The Spotlight Link, and additionally for any third party tools your Agent or training establishment may employ to administer your data. It is your responsibility to ensure that your Agent or training establishment only processes your personal data in accordance with your wishes  
-
+If you are a Spotlight Member please note that your agent (if you are represented) or training establishment may also act as your Data Controller both for the supply of your information to Spotlight and its use in submissions made by your Agent on your behalf via The Spotlight Link, and additionally for any third party tools your Agent or training establishment may employ to administer your data. It is your responsibility to ensure that your Agent or training establishment only processes your personal data in accordance with your wishes
 
 ### Links to other website
 
@@ -104,7 +102,7 @@ Please contact us as soon as possible if you believe that any information we are
 
 You have the right to access the personal information which we hold about you and to have any errors corrected. You may check the personal information we have about you by contacting us at the address below. However, please note that no information can be released by us until your identification has been verified.
 
-If you have previously agreed to us using your personal information for direct marketing purposes by Spotlight, you may change your mind at any time by writing to us or emailing us at [unsubscribe@spotlight.com](mailto:unsubscribe@spotlight.com "unsubscribe@spotlight.com").
+If you have previously agreed to us using your personal information for direct marketing purposes by Spotlight, you may change your mind at any time by writing to us or emailing us at[unsubscribe@spotlight.com](mailto:unsubscribe@spotlight.com "unsubscribe@spotlight.com").
 
 ### Cookies, IP Addresses and Analytics
 
@@ -113,9 +111,9 @@ Spotlight also uses cookies to track and analyse visits to our site and the use 
 
 Cookies from third parties may also be used by Spotlight to help us understand how our visitors engage with the website and to determine the number of people who click on an advertisement and subsequently buy our services. To gather this information, Spotlight uses Google Analytics and Google AdWords. For more information on how Google uses cookies for analytics and conversion tracking visit [Google's Advertising and Privacy information pages](http://www.google.co.uk/privacy_ads.html "Google's Advertising and Privacy information pages"). Spotlight also uses Google Analytics Measurement Protocol to track and analyse usage of the Spotlight Casting Mac application. More information is available [here](https://developers.google.com/analytics/devguides/collection/protocol/v1/ "here").
 
-You can also see a full list of all third party cookies on your web browser by visiting this website: <http://www.youronlinechoices.com/uk/>.
+You can also see a full list of all third party cookies on your web browser by visiting this website:<http://www.youronlinechoices.com/uk/>.
 
-To see a comprehensive list of the cookies used on the Spotlight website, and their purpose, please [click here](https://web.archive.org/aboutus/privacy/CookiesTable.html "Spotlight Cookies Table").
+To see a comprehensive list of the cookies used on the Spotlight website, and their purpose, please[click here](https://www.spotlight.com/aboutus/privacy/CookiesTable.html "Spotlight Cookies Table").
 
 For more information about cookies, including how to remove and disable them, visit the following website: <http://ico.org.uk/for_the_public/topic_specific_guides/online/cookies>.
 
@@ -127,13 +125,11 @@ In relation to any digital edition/Application, previously or currently offered 
 
 ### Changes to this Privacy Policy
 
-We keep our Privacy Policy under regular review. This Privacy Policy was last updated in April 2016.  
-
+We keep our Privacy Policy under regular review. This Privacy Policy was last updated in April 2016.
 
 ### Queries and Requests
 
-If you have any queries about the way your data is used by Spotlight, or would like to remove your details from our records, please contact the Data Manager.   
-
+If you have any queries about the way your data is used by Spotlight, or would like to remove your details from our records, please contact the Data Manager.
 
 Data Manager  
 Spotlight  
