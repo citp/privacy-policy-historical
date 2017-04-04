@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ediblearrangements.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016020847id_/https%3A//www.ediblearrangements.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ediblearrangements.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404171804id_/https%3A//www.ediblearrangements.com/Legal/PrivacyPolicy.aspx) for the most accurate reproduction.*
 
 # Edible Arrangements – Privacy Policy
 
