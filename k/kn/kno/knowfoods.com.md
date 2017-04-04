@@ -1,80 +1,119 @@
-> *The following text is extracted and transformed from the knowfoods.com privacy policy that was archived on 2016-06-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160625063156id_/https%3A//www.hugedomains.com/privacy_policy.cfm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knowfoods.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404065710id_/https%3A//knowfoods.com/pages/privacy) for the most accurate reproduction.*
 
-# HugeDomains.com - Privacy Policy
+# Privacy - KNOW FOODS
 
-[Home](https://www.hugedomains.com/) _ _ Privacy Policy
+This Privacy Policy (the “Policy”) describes the information that Live Oak Central, Inc. (“Live Oak Central,” “we,” “us”) collect through the website located at http://KnowFoods.com (“Site”). We want you (the “User” or the “End User”) to understand how and why we collect, use and disclose the personal information about you on our Site. This Policy applies only to our online information-gathering and dissemination practices in connection with the Site, and does not apply to any of our practices conducted offline.   If you have additional questions or would like further information on this topic, please feel free to write to us at KnowTeam@knowfoods.com. We may update this Policy from time to time, so please check this Policy periodically for changes.   
+SUMMARY 
 
-**What information do we collect?**
+  This Policy notifies you of: 
 
-We collect information from you when you register on our site, place an order or fill out a form. 
+  ♣ what personally identifiable information of yours is collected from you through our Site,   
+♣ the organization(s) collecting the information,   
+♣ how the information is used,   
+♣ with whom the information may be shared,   
+♣ what choices are available to you regarding collection, use and distribution of the information,   
+♣ the kind of procedures we employ in an effort to hinder the unauthorized access, deletion, alteration, use or disclosure of information you provide to us or on any Site, and   
+♣ how you can correct any inaccuracies in the information you provide to us.   
+PLEASE READ THIS PRIVACY POLICY CAREFULLY. BY ACCESSING OR USING OUR WEBSITE, YOU ACKNOWLEDGE THAT YOU HAVE READ, UNDERSTAND, AND AGREE TO BE BOUND TO ALL THE TERMS OF THIS PRIVACY POLICY AND OUR WEBSITE TERMS OF USE. IF YOU DO NOT AGREE TO THESE TERMS, EXIT THIS PAGE AND DO NOT ACCESS OR USE THE WEBSITE.
 
-When ordering or registering on our site, as appropriate, you may be asked to enter your: name, e-mail address, mailing address, phone number or credit card information. You may, however, visit our site anonymously. 
+MINIMUM AGE OF SITE USERS   
+We are strongly committed to preserving online privacy for all of visitors of our Site, including children. Our Site is a general audience website, and we do not knowingly collect information about children or provide services to children. Consistent with the Children's Online Privacy Protection Act, we will not knowingly collect any information from children under the age of 13. The Site is not designed to attract anyone under the age of 18. We do not sell products for purchase by children under the age of 18. In certain instances, we may sell children's products for purchase by adults. 
 
-**What do we use your information for?**
+  Types of Information Collected and Uses of Collected Information   
+We collect two types of information about our Site Users: Personally Identifiable Information and Non-Personally Identifiable Information. 
 
-Any of the information we collect from you may be used in one of the following ways: 
+  Personally Identifiable Information. Personally Identifiable Information is information that identifies a specific End User, such as your first and last name, mailing address (including zip code), email address, home and/or mobile telephone number and date of birth. When you engage in certain activities on the Site, such as creating an account, ordering a product or service from us or the participating Merchants, submitting content and/or posting content in discussion forums, entering a contest or sweepstakes sponsored by us or our partners, filling out a survey, posting a review, sending us or our partners feedback, requesting information about our services, submitting an affiliate agreement, applying for a job, posting a video or signing up for special offers from third parties through the Site, we may ask you to provide certain information about yourself. It is optional for you to provide Personally Identifiable Information to us. When you order products or services, we may also ask you to provide us with your credit card number, expiration date and authentication codes or related information. Depending on the activity, some of the information we ask you to provide is identified as mandatory and some is identified as voluntary. If you do not provide the mandatory information for a particular activity that requires it, you will not be permitted to engage in that activity. 
 
-• To personalize your experience  
-(your information helps us to better respond to your individual needs) 
+  Tell-A-Friend/Buy it for a Friend. If you choose to use our referral service or buy a deal for a friend, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email with the gift you bought for them or inviting him or her to visit the Site. Live Oak Central stores this information for the sole purpose of sending this one-time email, sending their gift, and tracking the success of our referral program. Your friend may contact us at KnowTeam@knowfoods.com to request that we remove this information from our database.
 
-• To improve our website  
-(we continually strive to improve our website offerings based on the information and feedback we receive from you) 
+We use Personally Identifiable Information to provide products and services to you, administer sweepstakes and contests, enhance the operation of the Site, improve our marketing and promotional efforts, analyze Site use, improve our product and service offerings, and to tailor your experience with third parties as described in this Policy. For example, if you send our customer service an email we may use your comments and feedback to tell others about our services, and may post your comment in our marketing materials or on our Site. Your comments may contain personal information such as your name and city and/or state of residence, we will obtain consent from you to post your name along with your comment prior to posting your comment for public view. In addition, if you use our Site to send information or a product to another person, we may store your personal information. We may also use Personally Identifiable Information to troubleshoot, resolve disputes, accomplish administrative tasks, contact you, enforce our agreements with you, including our Site Terms of Use and this Policy, comply with applicable law, and cooperate with law enforcement activities. 
 
-• To improve customer service  
-(your information helps us to more effectively respond to your customer service requests and support needs) 
+  Non-Personally Identifiable Information. Non-Personally Identifiable Information is information that does not identify a specific End User. This type of information may include things like the Uniform Resource Locator (“URL”) of the website you visited before coming to our Site, the URL of the website you visit after leaving our Site, the type of browser you are using and your Internet Protocol (“IP”) address. We, and/or our authorized Third Party Service Providers and Advertisers, may automatically collect this information when you visit our Site through the use of electronic tools like Cookies and Web beacons or Pixel tags, as described in this Policy. We use Non-Personally Identifiable Information to troubleshoot, administer the Site, analyze trends, gather demographic information, comply with applicable law, and cooperate with law enforcement activities. We may also share this information with our authorized Third Party Service Providers and Advertisers to measure the overall effectiveness of our online advertising, content, and programming. 
 
-• To process transactions
+  Release of Personally Identifiable Information   
+We will not share, sell, rent, or trade your Personally Identifiable Information with other parties except as provided below: 
 
-> Your information will be used to deliver the product you purchased. With domain purchases this means that that your name, address, city, state, zip, phone number, email address and fax number can and will be used to create an account at the current domain registrar on your behalf, or to move the domain into an existing account at the current registrar and might be visible in public whois records.
+  We may share your information with participating Merchants. From time to time, we provide offers from particular merchants (referred to herein as “participating Merchants”) who, as part of the offer, request information on customers who purchased the offer in order to aid redemption. In those cases, we may share some of your Personally Identifiable Information with participating Merchants. Sharing this Information may allow a participating Merchant to market directly to you should they choose to do so and subject to applicable law. We specifically disclaim any responsibility or liability for the actions of such participating Merchant. While we inform them that they are only permitted to communicate with you for the purposes of the specific promotion, we do not have any responsibility for the actions of the participating Merchant, and the actions of the participating Merchant are not in our control. 
 
-• To send periodic emails
+  We may share your information with Authorized Third Party Service Providers. We provide services and products through third parties. These “Third Party Service Providers” perform functions on our behalf, like sending out and distributing our administrative and promotional emails. We may share your Personally Identifiable Information with such Service Providers to fulfill orders, deliver packages, send postal or email, administer contests or sweepstakes, remove repetitive information on customer lists, analyze data, provide marketing assistance, provide search results and links, process credit card payments, operate the Site, troubleshoot, and provide customer service. We may also collect personal information from individuals and companies (“Affiliates”) with whom we have business relationships and may share your information with Service Providers to accomplish our administrative tasks. For example, when you order a service, we release your credit card information to the card-issuing bank to confirm payment for the service and, if applicable, release your address to the delivery service to deliver the service. Likewise, we may release an Affiliate’s information to our bank to send out a payment. We encourage participating Merchants and Third Party Service Providers to adopt and post privacy policies. However, the use of your Personally Identifiable Information by such parties is governed by the privacy policies of such parties. 
 
-> The email address you provide for order processing, will only be used to send you information and updates pertaining to your order.
+  We may remarket your information. Remarketing is a way for us to connect with users, based upon your past interactions with our Site. Third-party marketing vendors may be hired by us to perform remarketing services. As a result and in accordance with applicable law, third-party vendors, including Google, may show our ads on sites on the Internet. Third-party vendors, including Google, use cookies to serve ads based on a user's prior visits to the website. Users may opt out of Google's use of cookies by visiting the Google advertising opt-out page at http://www.google.com/privacy_ads.html. This information is used only for remarketing purposes and will not be used by them for any other purpose. 
 
-If you decide to opt-in to a mailing list, you will receive emails that may include company news, updates, related product or service information, etc. 
+  We may share your information in a Business Transfer. As with any other business, we could merge with, or be acquired by another company. If this occurs, the successor company would acquire the information we maintain, including Personally Identifiable Information. However, Personally Identifiable Information would remain subject to this Policy. 
 
-Note: If at any time you would like to unsubscribe from receiving future emails, we include detailed unsubscribe instructions at the bottom of each email. 
+  We may share your information for our Protection and the Protection of Others. We reserve the right to disclose your personally identifiable information as required by law and when we believe that disclosure is necessary to protect our rights and/or comply with a judicial proceeding, court order, or legal process served on our Site; enforce or apply this Policy, our Site Terms of Use or other agreements; or protect the rights, property or safety of the Site, its Users or others. 
 
-**How do we protect your information?**
+  Release of Non-Personally Identifiable Information
 
-We implement a variety of security measures to maintain the safety of your personal information when you place an order or access your personal information. 
+We may disclose or share Non-Personally Identifiable Information with Partners, Affiliates and Advertisers. For example, we may share aggregated demographic information (which does not include any Personally Identifiable Information) with “Third Party Advertisers” or “Third Party Advertising Companies” and other parties as provided below:
 
-We offer the use of a secure server. All supplied sensitive/credit information is transmitted via Secure Socket Layer (SSL) technology and then encrypted into our Payment gateway providers database only to be accessible by those authorized with special access rights to such systems, and are required to keep the information confidential. 
+We use Third Party Advertising Companies to serve ads when you visit our Site. These companies may use Non-Personally Identifiable Information about your visits to this and other websites in order to provide, through the use of network tags, advertisements about goods and services that may be of interest to you. Some of these Third Party Advertising Companies may be advertising networks that are members of the Network Advertising Initiative (“NAI”). If you would like more information about any NAI member company, or you would like to opt-out of targeted advertising from any NAI member company, click here: http://www.networkadvertising.org/consumer/opt_out.asp
 
-After a transaction, your private information (credit cards, social security numbers, financials, etc.) will not be kept on file for more than 60 days. 
+We also use Third Party Service Providers to track and analyze Non-Personally Identifiable usage and volume statistical information from our Users to administer our Site and constantly improve its quality. We may also publish this information for promotional purposes or as a representative audience for Advertisers. Please note that this is not Personally Identifiable Information, only general summaries of the activities of our Users. Such data is collected on our behalf, and is owned and used by us. 
 
-**Do we use cookies?**
+  Updating and Correcting Information   
+We believe that you should have the ability to access and edit the Personally Identifiable Information you provide us. You may change any of your Personally Identifiable Information by logging into your account and accessing the "my account" section of the Site, sending us an email at KnowTeam@knowfoods.com or writing to us at:
 
-Yes, cookies are small files that a site or its service provider transfers to your computers hard drive through your Web browser (if you allow) that enables the sites or service providers systems to recognize your browser and capture and remember certain information 
+Live Oak Central, Inc.   
+3475 Oak Valley Road NE   
+Suite 2150   
+Atlanta, GA 30326-1289
 
-We use cookies to help us remember and process the items in your shopping cart, understand and save your preferences for future visits, keep track of advertisements and compile aggregate data about site traffic and site interaction so that we can offer better site experiences and tools in the future. 
+Please indicate your name, address and email address, and what information you would like to update when you contact us. We encourage you to promptly update your Personally Identifiable Information if it changes. You may ask to have the information on your account deleted or removed; however, because we keep track of past transactions, you cannot delete information associated with past transactions on the Site. In addition, it may be impossible for us to completely delete all of your information because we periodically backup information. If you choose to store credit card information on the Site, this is stored on a secure page and you may delete your credit card information at any time by going to your account section on the Site. 
 
-If you prefer, you can choose to have your computer warn you each time a cookie is being sent, or you can choose to turn off all cookies via your browser settings. Like most websites, if you turn your cookies off, some of our services may not function properly. However, you can still place orders over the telephone or by contacting customer service. 
+  User Choices on Collection and Use of Information   
+As discussed above, you can always choose not to provide information, although it may be required to engage in a certain activity on the Site. As a condition of purchase of our products and services, we will send you Administrative and Promotional emails. We will send you information regarding your account activity and purchases as well as updates about our products and promotional offers. You cannot opt-out of Administrative Emails. “Administrative Emails” relate to a User’s activity on the Site, and include emails regarding a particular User’s account, requests or inquiries, and purchases of products and services. In contrast to Administrative Emails, however, you do have a choice with respect to Promotional Emails. Promotional Emails advertise our products and services, including exclusive sales and other offers, and/or the products and services of our Advertisers and Affiliates. If you do not want to receive Promotional Emails from us, you may elect to opt-out of receiving Promotional Emails at any time after registering by e-mailing us at KnowTeam@knowfoods.com, by writing to us at the address contained herein, or by hitting the “unsubscribe” button at the bottom of any of our e-mails. When contacting us, please indicate your name, address, email address, and what Promotional Emails you do not want to receive. 
 
-**Do we disclose any information to outside parties?**
+  Security and Confidentiality of Information   
+We restrict access to Personally Identifiable Information collected about you and information collected about your company, if applicable, at our Site to our employees, its affiliates' employees, or others who need to know that information to provide services to you or in the course of conducting our normal business operations. While no website can guarantee security, we maintain appropriate physical, electronic, and procedural safeguards to protect your Personally Identifiable Information and your company's information, if applicable, collected on our Site. We protect our databases with various physical, technical and procedural measures and we restrict access to such Personally Identifiable Information by unauthorized persons. We also advise our employees and affiliate employees about their responsibility to protect Personally Identifiable Information and we provide them with appropriate guidelines for adhering to our business ethics standards and confidentiality policies. We do not guarantee that any information you provide will not be intercepted by a third party during transmission over any public networks or otherwise. You bear the risk of communicating with us electronically and we are not responsible for any resulting loss or damage.    
+Data Tracking   
+Cookies. To facilitate and customize your experience with the Site, we store cookies on your computer. A cookie is a small text file that is stored on a User’s computer for record-keeping purposes which contains information about that User. We use cookies to save you time while using the Site, remind us who you are, and track and target User interests in order to provide a customized experience. Cookies also allow us to collect Non-Personally Identifiable Information from you, like which pages you visited and what links you clicked on. Use of this information helps us to create a more user-friendly experience for all visitors. Most browsers automatically accept cookies, but you may be able to modify your browser settings to decline cookies. Please note that if you decline or delete these cookies, some parts of the Site may not work properly.   
+Other Tracking Devices. We may use other industry standard technologies like pixel tags and web beacons to track your use of our Site pages and promotions, or we may allow our Third Party Service Providers to use these devices on our behalf. Pixel tags and web beacons are tiny graphic images placed on certain pages on our Site, or in our emails that allow us to determine whether you have performed a specific action. When you access these pages or open or click an email, pixel tags and web beacons generate a Non-Personally Identifiable notice of that action. Pixel tags allow us to measure and improve our understanding of visitor traffic and behavior on our Site, as well as give us a way to measure our promotions and performance. We may also utilize pixel tags and web beacons provided by our Affiliates and/or marketing partners for the same purposes. 
 
-Upon purchasing a domain from HugeDomains your personal information may be provided to the current registrar of record, allowing you to gain control and access to your domain name. Please note domain name registration contact information is made public through "whois" services, and by providing information to HugeDomains.com means the contact information may be made public as required by the domain name registrar which maintains the domain registration. 
+  Privacy Policies of Third Party Sites   
+This Policy only addresses the use and disclosure of information we collect from you on our Site. For your convenience, we may provide links to other websites and web pages that we do not control. We cannot be responsible for the privacy practices of any websites or pages not under our control and we do not endorse any of these websites or pages, the services or products described or offered on such sites or pages, or any of the content contained on those sites or pages. PLEASE NOTE THAT THIS POLICY DOES NOT ADDRESS THE PRIVACY OR INFORMATION PRACTICES OF ANY THIRD PARTY WEBSITES OR THIRD PARTIES. 
 
-**Online Privacy Policy Only**
+  GENERAL NOTICES
 
-This online privacy policy applies only to information collected through our website and not to information collected offline. 
+Public Areas. We may provide areas on our Site where you can publicly post information about yourself, can communicate with others such as discussion boards or blogs, or can review products, restaurants, and submit media content. This information may be accessible by other consumers and companies and may appear on other websites or web searches, and therefore this information could be read, collected, and used by others. For example, if you post your email address along with a public restaurant review, you may receive unsolicited messages. We have no control over who reads your postings or what other users may do with the information you voluntarily post, so please use caution when posting any personal information. We do obtain consent from our users to post their name along with their reviews.   
+Facebook Connect. The Site may allow users to access Facebook Connect to interact with friends and to share on Facebook on walls and friends' News Feeds. If you are logged into the Site and Facebook, when you click on "Connect with Facebook" your profiles will merge if the email addresses match. If the email addresses don't match, we ask you if you want to merge them and you must enter your Site password to validate that they control that account. If you are already logged into the Site but not logged into Facebook, when you click on "Connect with Facebook" you will be prompted to enter your Facebook credentials or to "Sign up for Facebook." By proceeding you are allowing the Site to access your information and you are agreeing to the Facebook Terms of Use in your use of the Site.   
+Alternatively, if you are not currently registered as a Site user and you click on "Sign in Using Facebook," you will first be asked to enter your Facebook credentials and then be given the option to register and join the Site. Once you register on the Site and Connect with Facebook, you will be able to automatically post recent activity back to Facebook. You have the option to disable Facebook Connect at any time by logging into "My Profile" and clicking on "My Facebook Profile." Further, you can edit privacy settings for the reviews that appear on Facebook or disconnect this service by visiting the Facebook Application Settings page.   
+Special Notification for Individual California Users. Under California law, we are required to provide you with a summary of your privacy rights under the California Online Privacy Protection Act (the “Act”) and the California Business and Professions Code. As required by the Act, we will provide you with the categories of Personally Identifiable Information that we collect through the Site and the categories of third party persons or entities with whom such Personally Identifiable Information may be shared for direct marketing purposes at your request. Under California law, you are required to receive, at your request, (1) the categories of Personally Identifiable Information we collect and what third parties we share that information with; (2) the names and addresses of those third parties; and (3) examples of the products and services marketed by those companies. Under the Act, you can specify with whom we can share your information for direct marketing purposes. To inform us if we cannot share your information with third parties for direct marketing purposes, please send a request by email or standard mail to the address found below. When contacting us, please indicate your name, address, email address, and what Personally Identifiable Information you do not want us to share with affiliated businesses or marketing partners. The request should be sent to the attention of our legal department, and labeled “California Customer Choice Notice.” Please allow 30 days for a response. Also, please note that there is no charge for controlling the sharing of your Personally Identifiable Information or requesting this notice.   
+Retention Period. Unless otherwise required by applicable law, regulations or standards, we will retain Personally Identifiable Information about you for the period necessary to fulfill the purposes described in this Policy or on our Site.    
+Geographic Limitations; Use of the Site outside of the US. We do not represent or warrant that the Site, or any part thereof, are appropriate or available for use in any particular geographic location. If you choose to access our Site, you do so on your own initiative and at your own risk, and are responsible for complying with all local laws, rules, and regulations applicable in your jurisdiction. We reserve the right to limit the Site's availability, in whole or in part, to any person, geographic area, or jurisdiction we choose, at any time and in our sole discretion. If you are visiting our Site from outside the United States, please be aware that your information may be transferred to, stored or processed in the United States, where our servers are located and our central database is operated. The data protection and other laws of the United States and other countries might not be as comprehensive as those in your country, but please be assured that we take steps to protect your privacy. By buying goods or services through our Site, you understand that your information may be transferred to our facilities and those third parties with whom we share it as described in this Policy.
 
-**Terms and Conditions**
+Web Push notifications
 
-Please also visit our [Terms and Conditions](https://web.archive.org/terms.cfm) section establishing the use, disclaimers, and limitations of liability governing the use of our website at [ //www.hugedomains.com](https://www.hugedomains.com/index.cfm)
+[Web Push notifications](https://firepush.io/?utm_source=Embed_Privacy_policy) are automated customer alerts that are delivered via web browser platforms to subscribers for the purposes of marketing. They are functional across a number of browsers and operating systems.
 
-**Your Consent**
+Subscriber list
 
-By using our site, you consent to our web site privacy policy. 
+The Company ensures that all subscriber lists remain private and confidential. The Company will not sell, rent, loan or invite external access to a customer's contact lists. Nor will Company themselves use customer's contact lists for any purpose.
 
-**Changes to our Privacy Policy**
+Use of information collected
 
-If we decide to change our privacy policy, we will post those changes on this page, send an email notifying you of any changes, and/or update the Privacy Policy modification date below. 
+The Company shall not distribute, circulate or pass onto any third party any of the information that is collected through the licensing and use of the product. All information gathered will be used only for the improvement of the product or services and the betterment of the customer, and will remain private and confidential.
 
-This policy was last modified on 1/10/2012 
+Everything you need to know about [web push notifications](https://firepush.io/en/blog/everything-you-need-to-know-to-make-web-browser-push-notifications-work-for-you/?utm_source=Embed_Privacy_policy)
 
-**Contacting Us**
+CHANGES TO OUR WEBSITE PRIVACY POLICY
 
-If there are any questions regarding this privacy policy you may use the [contact us](https://www.hugedomains.com/contact.cfm) form on this Web site. 
+We reserve the right to modify this Policy at any time, so please review it frequently. You can determine if the Policy has been revised since your last visit by referring to the "Effective Date of This Privacy Policy" section below. By continuing to use the Site after any such revision, your use constitutes your acceptance of such revised Policy. To more easily determine if changes have been made to this Policy, you should print, save or otherwise retain a copy of the Policy (and of any revised version) for your records. This Policy is not intended to and does not create any contractual or other legal right in or on behalf of any party.
 
-HugeDomains.com
+Contacting Us   
+We want to hear from you whether you’re a new or loyal customer, restaurant owner, marketer, publisher, media member or job seeker. Please note that email communications will not necessarily be secure; accordingly you should not include credit card information or other sensitive information in your email correspondence with us. We’d like to stay connected, so please contact us at the following:
+
+Corporate Address
+
+Live Oak Central, Inc.   
+3475 Oak Valley Road NE   
+Suite 2150   
+Atlanta, GA 30326
+
+For Customers
+
+Customer Service Inquiries | KnowTeam@knowfoods.com
+
+Effective Date of this Policy
+
+This Privacy Policy was last updated on April 30, 2016.
