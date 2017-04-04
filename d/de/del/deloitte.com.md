@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the deloitte.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012222125id_/http%3A//www2.deloitte.com/us/en/footerlinks1/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deloitte.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405013316id_/https%3A//www2.deloitte.com/us/en/footerlinks1/privacy.html%3Ficid%3Dbottom_privacy) for the most accurate reproduction.*
 
 # Privacy
 
 **Introduction**
 
-[Deloitte LLP and its subsidiaries](http://www2.deloitte.com/us/en.html) (the **"Deloitte U.S. Firms"** , also referred to below as **"we"** , **"us"** and **"our"** ) is a privacy conscious organization. This Privacy Statement explains how we protect your information gathered via (1) the Web pages of the Deloitte.com website that are designated as United States in the upper right hand corner or Web pages of any other website with respect to which this Privacy Statement is posted or linked (such Web pages are referred to herein as the " **Website** "), or (2) downloadable applications accessed from mobile devices with respect to which this Privacy Statement is posted or linked (" **Mobile Apps"** ). By using the Website or Mobile Apps you agree to the use of such information in accordance with this Privacy Statement.
+[Deloitte](http://www2.deloitte.com/us/en.html) (also referred to below as **"we"** , **"us"** and **"our"** ) is a privacy conscious organization. This Privacy Statement explains how we protect your information gathered via (1) the Web pages of the Deloitte.com website that are designated as United States in the upper right hand corner or Web pages of any other website with respect to which this Privacy Statement is posted or linked (such Web pages are referred to herein as the " **Website** "), or (2) downloadable applications accessed from mobile devices with respect to which this Privacy Statement is posted or linked (" **Mobile Apps"** ). By using the Website or Mobile Apps you agree to the use of such information in accordance with this Privacy Statement.
 
-The Deloitte.com website also includes Web pages provided by Deloitte Touche Tohmatsu Limited (" **DTTL** "), which are designated as "Global," and Web pages provided by other DTTL member firms or their related entities, which are designated according to the location identified in the upper right hand corner next to "Location." These Web pages are provided by the designated entities and are _not_ the responsibility of the Deloitte U.S. Firms. Such Web pages, as well as other websites that may be linked to the Website, are _not_ governed by this Privacy Statement. We encourage you to review the applicable privacy statements before disclosing any personal information.
+The Deloitte.com website also includes Web pages provided by Deloitte Touche Tohmatsu Limited (" **DTTL** "), which are designated as "Global," and Web pages provided by other DTTL member firms or their related entities, which are designated according to the location identified in the upper right hand corner next to "Location." These Web pages are provided by the designated entities and are _not_ the responsibility of Deloitte. Such Web pages, as well as other websites that may be linked to the Website, are _not_ governed by this Privacy Statement. We encourage you to review the applicable privacy statements before disclosing any personal information.
 
 As used in this Privacy Statement, "Deloitte Network" means DTTL and its member firms and their affiliates and related entities.
 
@@ -24,11 +24,11 @@ We do not usually seek to collect sensitive personal information (i.e., data rel
 
 **Log information, cookies and Web beacons**
 
-The Website and Mobile Apps collect standard Internet log information including your IP address, browser type and language, access times and referring website addresses. To ensure that the Website and Mobile Apps are well managed and to facilitate improved navigation, we or our service provider(s) may also use cookies (small text files stored in a user's browser) or Web beacons (electronic images that allow the website to count users who have accessed a particular page and to access certain cookies) to collect aggregate data. Additional information on how we use cookies and other tracking technologies and how you can control these can be found in our [Cookie Notice](https://web.archive.org/us/en/legal/cookies.html).
+The Website and Mobile Apps collect standard Internet log information including your IP address, browser type and language, access times and referring website addresses. To ensure that the Website and Mobile Apps are well managed and to facilitate improved navigation, we or our service provider(s) may also use cookies (small text files stored in a user's browser) or Web beacons (electronic images that allow the website to count users who have accessed a particular page and to access certain cookies) to collect aggregate data. Additional information on how we use cookies and other tracking technologies and how you can control these can be found in our [Cookie Notice](https://web.archive.org/content/www/us/en/footerlinks1/cookies.html).
 
 **Privacy Shield Notice**
 
-The Deloitte U.S. Firms adhere to the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce with respect to personally identifiable information that is transferred from the European Economic Area to the United States within the scope of the Deloitte U.S. Firms’ Privacy Shield certification. To learn more, see our [Privacy Shield Notice](https://web.archive.org/us/en/legal/privacy-shield.html).
+Deloitte LLP and its affiliates adhere to the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce with respect to personally identifiable information that is transferred from the European Economic Area to the United States within the scope of Deloitte LLP and its affiliates’ Privacy Shield certification. To learn more, see our [Privacy Shield Notice](https://web.archive.org/content/www/us/en/footerlinks1/privacy-shield.html).
 
 **Information use**
 
@@ -56,11 +56,12 @@ The Website may host various blogs, forums, wikis and other social media applica
 
 **Privacy Practices of Third Parties**
 
-This Privacy Statement only addresses the use and disclosure of information by the Deloitte U.S. Firms through your interaction with the Website and the Mobile Apps. Other websites or mobile apps that may be accessible through links from the Website or Mobile Apps may have their own privacy statements and personal information collection, use and disclosure practices. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information.
+This Privacy Statement only addresses the use and disclosure of information by Deloitte through your interaction with the Website and the Mobile Apps. Other websites or mobile apps that may be accessible through links from the Website or Mobile Apps may have their own privacy statements and personal information collection, use and disclosure practices. We encourage you to familiarize yourself with the privacy statements provided by these other parties prior to providing them with information.  
+
 
 **Access to information**
 
-If you choose to register with the Website or a Mobile App you may access your user profile, correct and update your details, or unsubscribe at any time. If you decide that you no longer wish to have your third party social network site account (e.g., LinkedIn, Facebook, or Twitter) linked to your profile on the Website or a Mobile App, you may change your account settings at any time. If you have any problem accessing your profile, or would like to request a copy of your personal information, please [contact us](https://web.archive.org/us/en/footerlinks/contact-us.html). In all cases we will treat requests to access information or change information in accordance with applicable legal requirements.
+If you choose to register with the Website or a Mobile App you may access your user profile, correct and update your details, or unsubscribe at any time. If you decide that you no longer wish to have your third party social network site account (e.g., LinkedIn, Facebook, or Twitter) linked to your profile on the Website or a Mobile App, you may change your account settings at any time. If you have any problem accessing your profile, or would like to request a copy of your personal information, please [contact us](https://web.archive.org/content/www/us/en/footerlinks/contact-us.html). In all cases we will treat requests to access information or change information in accordance with applicable legal requirements.
 
 **Special notices to California residents**
 
@@ -82,4 +83,5 @@ We understand the importance of protecting children's online privacy. The Websit
 
 **Questions**
 
-If you have any questions or concerns regarding your privacy while using the Website or a Mobile App, please [contact us](https://web.archive.org/us/en/footerlinks/contact-us.html).
+If you have any questions or concerns regarding your privacy while using the Website or a Mobile App, please [contact us](https://web.archive.org/content/www/us/en/footerlinks/contact-us.html).  
+
