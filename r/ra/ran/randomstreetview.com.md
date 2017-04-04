@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the randomstreetview.com privacy policy that was archived on 2016-03-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160307173506id_/http%3A//randomstreetview.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the randomstreetview.com privacy policy that was archived on 2017-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170404041203id_/https%3A//randomstreetview.com/privacy.html) for the most accurate reproduction.*
 
 # randomstreetview.com - privacy policy
 
