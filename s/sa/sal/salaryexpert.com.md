@@ -1,13 +1,12 @@
-> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115105616id_/http%3A//downloads.erieri.com/pdf/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the salaryexpert.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405162510id_/http%3A//downloads.erieri.com/pdf/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy Last Updated:
 
-                                             Privacy Policy
-  Last Updated: July 2015
+                                                Privacy Policy
+  Last Updated: March 2017
   This Privacy Policy ("Policy") tells you about the information ERI Economic Research Institute,
   Inc. ("ERI") collects through the services available on the ERI family of websites, including:
-  www.erieri.com, www.eri-executive-compensation.com, www.eri-nonprofit-salaries.com,
-  www.cost-of-living.com, www.costofliving.net, www.paq.com, and www.salaryexpert.com
+  www.erieri.com, www.eri-nonprofit-salaries.com, www.paq.com, and www.salaryexpert.com
   (collectively the "Site"), how ERI uses that information, and how you (the end-user) can opt out of
   certain uses of information that ERI may collect.
   By using ERI's services and accessing the Site, you are consenting to the information collection
@@ -46,10 +45,10 @@
            renewing your subscription or about other available products, programs, and services
            provided by ERI.
              Internal Analyses, Promotions, and Databases. ERI may use information about
+           you for ERI's internal statistical, design, and operational purposes, such as to estimate
 1
 
 
-          you for ERI's internal statistical, design, and operational purposes, such as to estimate
           the Site's audience size; measure aggregate traffic patterns; and understand
           demographics, customer interest, purchasing, and other trends among the Site's guests
           and ERI's subscribers. ERI may also use your Personal Information to market and
