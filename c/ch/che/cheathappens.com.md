@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cheathappens.com privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229042915id_/http%3A//www.cheathappens.com/privacypolicy.asp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cheathappens.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405023126id_/http%3A//www.cheathappens.com/privacypolicy.asp) for the most accurate reproduction.*
 
 # Privacy Policy | Cheat Happens
 
-This privacy policy discloses the privacy practices for Cheat Happens (http://www.cheathappens.com). If you have any question regarding this privacy policy, please contact Chris O'Rorke (see: [About Us](https://web.archive.org/web/20161229042915id_/http%3A//www.cheathappens.com/aboutus.asp)).
+This privacy policy discloses the privacy practices for Cheat Happens (http://www.cheathappens.com). If you have any question regarding this privacy policy, please contact Chris O'Rorke (see: [About Us](https://web.archive.org/web/20170405023126id_/http%3A//www.cheathappens.com/aboutus.asp)).
 
-Cheat Happens is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Cheat Happens collects information from our users at several different points on our website.
+Cheat Happens is the sole owner of the information collected on this site. We will not sell, share, or rent this information to others in ways different from what is disclosed in this statement. Cheat Happens collects information from our users at several different points on our website. Third parties that advertise through our website may also collect information through cookies and you may find their privacy policy at the corresponding advertiser's website. Our Live Chat software may also collect information through cookies and their privacy policy may be found here: <https://www.livechatinc.com/privacy-policy/>
 
 A cookie is a piece of data stored on the user’s hard drive containing information about the user. Cheat Happens uses cookies to enhance the user's experience, often allowing a user to browse the site more quickly. The storage of such cookie is optional, and the user will still be able to use the website, with the exception of our member's area which requires a cookie to determine a member's login status. Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies.
 
