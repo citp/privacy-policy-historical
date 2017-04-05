@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119005442id_/http%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the consequenceofsound.net privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405042033id_/http%3A//consequenceofsound.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Consequence of Sound
 
 ### General:
 
-This is the web site of Consequence of Sound (<http://consequenceofsound.net/>)
+This is the web site of Consequence of Sound (<https://consequenceofsound.net/>)
 
 We can be reached via e-mail at [info@consequenceofsound.net](mailto:info@consequenceofsound.net).
 
@@ -68,7 +68,7 @@ We are in compliance with the requirements of COPPA (Childrens Online Privacy Pr
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our Website at <http://consequenceofsound.net/terms-conditions/>
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our Website at <https://consequenceofsound.net/terms-conditions/>
 
 ### Your Consent
 
@@ -84,5 +84,5 @@ This policy was last modified on September 16, 2016.
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-[http://consequenceofsound.net](http://consequenceofsound.net/)  
+[http://consequenceofsound.net](https://consequenceofsound.net/)  
 [info@consequenceofsound.net](mailto:info@consequenceofsound.net)
