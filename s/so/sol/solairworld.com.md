@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the solairworld.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208115530id_/http%3A//solairworld.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the solairworld.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405024543id_/http%3A//solairworld.com/privacy-policy) for the most accurate reproduction.*
 
-# Your right to privacy with Solair World
+# Privacy
 
 We recognise the importance of protecting the privacy of information collected about visitors to our sites, in particular information that is capable of identifying an individual ("personal information"). This Internet Privacy Policy governs the manner in which your personal information, obtained through the web site, will be dealt with. This Privacy Policy should be reviewed periodically so that you are updated on any changes.
 
