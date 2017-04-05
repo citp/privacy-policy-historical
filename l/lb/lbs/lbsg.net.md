@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the lbsg.net privacy policy that was archived on 2016-09-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160907163656id_/http%3A//lbsg.net/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lbsg.net privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405175356id_/https%3A//lbsg.net/privacy-policy) for the most accurate reproduction.*
 
-# Hydreon Corporation Privacy Policy - Lifeboat Network
+# Lifeboat Privacy Policy - Lifeboat Network
 
 Section 1 Introduction  
 Section 2 Use of Information  
@@ -31,7 +31,7 @@ You can use most of our game servers without registering, in which case we colle
 
 When you register an account on our server network, the only personal information that is required and collected is your username and email address.  We do not collect your physical address to play on our servers.
 
-When you purchase a virtual product, such as VIP, through Apple or Google on the Lifeboat+ app, he only personal information that is required and collected is your username and email address.  We do not collect your physical address to purchase virtual products.  Credit card information is handled by Apple and Google.
+When you purchase a virtual product, such as VIP, through Apple or Google on the Lifeboat+ app, the only personal information that is required and collected is your username and email address.  We do not collect your physical address to purchase virtual products.  Credit card information is handled by Apple and Google.
 
 When you purchase a product (either physical or virtual) from our website, or purchase part of the buying and selling process, we collect the personal information you give us such as your username, name, address and email address.  This is also true of no-cost promotional products obtained via our website.
 
