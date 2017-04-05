@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the brentozar.com privacy policy that was archived on 2016-06-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160614121017id_/https%3A//www.brentozar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brentozar.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405072503id_/https%3A//www.brentozar.com/privacy-policy) for the most accurate reproduction.*
 
-# privacy policy - Brent Ozar Unlimited® by Brent Ozar Unlimited®
+# Privacy Policy - Brent Ozar Unlimited®
 
-PRIVACY POLICY for www.brentozar.com
+PRIVACY POLICY for www.BrentOzar.com
 
 This website (the “Website”) is the property of Brent Ozar PLF, LLC, d/b/a Brent Ozar Unlimited (“Ozar,” “we” or “us”). We take the privacy of all visitors to this Website very seriously. Accordingly, this privacy policy (the “Privacy Policy”) sets forth our position regarding certain privacy matters. This Privacy Policy covers all “Personal Data” (as defined below) that is shared by you through the use of this Website, including data affirmatively provided by you or collected via the operation of the Website.
 
