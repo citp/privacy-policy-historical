@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rpnet.biz privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025234803id_/http%3A//premium.rpnet.biz/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rpnet.biz privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405225912id_/https%3A//premium.rpnet.biz/privacy.php) for the most accurate reproduction.*
 
 # Rapid Premium v3.0 - Convenient Content Aggregation
 
