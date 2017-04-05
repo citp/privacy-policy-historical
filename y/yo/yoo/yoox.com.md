@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the yoox.com privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103082344id_/http%3A//www.yoox.com/us/Legal/Privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the yoox.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405224443id_/http%3A//www.yoox.com/us/Legal/Privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
