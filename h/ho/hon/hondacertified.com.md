@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hondacertified.com privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127183715id_/http%3A//automobiles.honda.com/information/consumer-privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hondacertified.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405185948id_/http%3A//automobiles.honda.com/information/consumer-privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy - Official Honda Web Site
 
