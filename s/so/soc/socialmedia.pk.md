@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the socialmedia.pk privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108220020id_/http%3A//socialmedia.pk/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the socialmedia.pk privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405152049id_/http%3A//socialmedia.pk/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Socialmedia.pk
 
@@ -12,15 +12,15 @@ Socialmedia.pk cares about how your personal information is used and shared, and
 
 
 
- **In details**
+**In details**
 
-  1.  **What does Socialmedia.pk Privacy Policy Covers?** All the personal information we collect is noted on your profile page. That includes your name, email, date of birth and biographic information. The personal information that you provide is used for Registration purpose. In order for you to participate in Socialmedia.pk forum discussion or submit content or post your comments you must complete a registration form. As part of registration form, we require your email address.
-  2.  **Profile Information** Socialmedia.pk allows other users to browse your full name, instant messaging URL, and other details within your member profile should you provide this optional information. Socialmedia.pk allows for the RSS syndication of all of its public content within the website.
-  3.  ** **What about Cookies?****  
+  1. **What does Socialmedia.pk Privacy Policy Covers?** All the personal information we collect is noted on your profile page. That includes your name, email, date of birth and biographic information. The personal information that you provide is used for Registration purpose. In order for you to participate in Socialmedia.pk forum discussion or submit content or post your comments you must complete a registration form. As part of registration form, we require your email address.
+  2. **Profile Information** Socialmedia.pk allows other users to browse your full name, instant messaging URL, and other details within your member profile should you provide this optional information. Socialmedia.pk allows for the RSS syndication of all of its public content within the website.
+  3. ****What about Cookies?****  
 
 Cookies are alphanumeric identifiers that we transfer to your computer’s hard drive through your Web browser to enable our systems to recognize your browser in order to check in if you are logged in or out. All the other information is located in Socialmedia.pk server. Some of our business partners may use cookies on our website (for example advertisers). However, we have no access to or control over these cookies.
 
-  4.  **Membership Validity?** We reserve the right to delete any message, ban any member for any or no reason whatsoever. Members found to be abusing the contact form, using it for commercial purposes, or otherwise breaking the Community Guidelines will have his/her membership suspended. Please read [Terms of Use](http://www.onepakistan.com/data/terms/) for more information.
-  5.  **Children below 13 DO NOT Register** The Federal Trade Commission’s Children Online Privacy Protection Act of 1998 (COPPA) require that Web Sites are to obtain parental consent before collecting, using, or disclosing personal information from children under 13. If you are below 13 then you cannot use this forum. Do NOT register if you are below the age of 13.
+  4. **Membership Validity?** We reserve the right to delete any message, ban any member for any or no reason whatsoever. Members found to be abusing the contact form, using it for commercial purposes, or otherwise breaking the Community Guidelines will have his/her membership suspended. Please read [Terms of Use](http://www.onepakistan.com/data/terms/) for more information.
+  5. **Children below 13 DO NOT Register** The Federal Trade Commission’s Children Online Privacy Protection Act of 1998 (COPPA) require that Web Sites are to obtain parental consent before collecting, using, or disclosing personal information from children under 13. If you are below 13 then you cannot use this forum. Do NOT register if you are below the age of 13.
 
 
