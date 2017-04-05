@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tubevids.net privacy policy that was archived on 2016-11-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161103151910id_/http%3A//tubevids.net/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tubevids.net privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406010259id_/http%3A//tubevids.net/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
