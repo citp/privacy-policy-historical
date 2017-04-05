@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the reasonclothing.com privacy policy that was archived on 2015-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151028004519id_/http%3A//reasonclothing.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reasonclothing.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406012152id_/https%3A//reasonclothing.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -46,4 +46,4 @@ http://www.reasonclothing.com
 262 E. 2nd Street #1A  
 New York, New York 10009  
 USA  
-info@reasonclothing.com - See more at: http://reasonclothing.com/privacy#sthash.coeJOeR0.dpuf 
+info@reasonclothing.com - See more at: http://reasonclothing.com/privacy#sthash.coeJOeR0.dpuf
