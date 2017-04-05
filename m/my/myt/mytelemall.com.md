@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytelemall.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115131806id_/http%3A//mytelemall.com/page-privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytelemall.com privacy policy that was archived on 2017-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170405215810id_/http%3A//www.mytelemall.com/page-privacy-policy.php) for the most accurate reproduction.*
 
 # Welcome at My TeleMall a Place for Metaslim, Slim n Lift , Sauna Belt , Easy Slimming Tea, Epilator, Aire Bra, X5 Steam Cleaner, Sandhi Sudha Plus, Salad Chef
 
