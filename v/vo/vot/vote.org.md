@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the vote.org privacy policy that was archived on 2016-09-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160917055640id_/https%3A//www.vote.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vote.org privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406013647id_/https%3A//www.vote.org/privacy) for the most accurate reproduction.*
 
-# VOTE.org Privacy Policy - VOTE.org - Everything you need to vote
+# Vote.org Privacy Policy - VOTE.org - Everything you need to vote
 
-**Last updated:  August 24, 2016**
+**Last updated: March 31, 2017**
 
-Vote.org has created this privacy policy to explain how Vote.org (or “we”) use information that we collect from you while you visit the Vote.org websites, currently located at [www.vote.org](http://www.sumofus.org/) (the “Site”), or while you use a Vote.org that is embedded on another website (the “Services”).  Vote.org may modify this policy from time to time so we encourage you to check this page when revisiting the Site.  The date of the most recent revision is listed below.
+Vote.org has created this privacy policy to explain how Vote.org (or “we”) use information that we collect from you while you visit the Vote.org website, currently located at [www.vote.org](http://www.sumofus.org/) (the “Site”), or while you use a Vote.org tool that is embedded on another website (the “Services”).  Vote.org may modify this policy from time to time so we encourage you to check this page when revisiting the Site.  The date of the most recent revision is listed above.
 
 ## **How  we use your information**
 
 When you register to vote, check your registration status, order your absentee ballot, donate, join our newsletter, or take any other action on this Site, we may ask you to give us contact information, including your name, address, email address and telephone number. We may also obtain information about you from outside sources and combine it with the information we collect through this Site. We use this information to operate this Site, to sends you news and information about Vote.org, to measure the effectiveness of our programs, and to send you timely election reminders. You may opt-out of receiving messages from Vote.org by sending any email to info@vote.org and asking that you not receive future email messages.  You may also opt-out by following the unsubscribe link at the bottom of each email.
 
-Some information on our supporter lists, such as names, email addresses, and addresses, may be exchanged with named partners and other organizations with principles and/or missions that overlap with those of Vote.org. Supporters may opt out of such supporter list exchanges at any time. Our purpose is to protect your information while making sure you have what you need to make an informed decision on Election Day and build our power as a political voting bloc. After you mail in or electronically submit your voter registration application form to local or state election officials, it generally becomes a matter of public record from your state of residence. This means it will be available for inspection and use by candidates for public office and their campaign organizations as well as by others who satisfy the requirements of the State law governing its use.
+After you mail in or electronically submit your voter registration application form to local or state election officials, it generally becomes a matter of public record from your state of residence. This means it will be available for inspection and use by candidates for public office and their campaign organizations as well as by others who satisfy the requirements of the State law governing its use.
 
 ## **Donations and credit card information**
 
-When you contribute to Vote.org online, we collect credit card information from you. That information is used solely for processing your contribution; it is not maintained by SumOfUs; and is never disclosed to anyone, for any other purpose other than for processing your contribution.
+When you contribute to Vote.org online, we collect credit card information from you. That information is used solely for processing your contribution; it is not maintained by Vote.org; and is never disclosed to anyone, for any other purpose other than for processing your contribution.
 
 ## **Security**
 
@@ -50,7 +50,7 @@ By using and/or visiting our Site, you understand and  agree to be bound by thi
 
 ## **How to contact us**
 
-If you have any questions about this Privacy Policy, you may contact us by sending an e-mail at info@vote.org. YOu can also write to us at the following address:
+If you have any questions about this Privacy Policy, you may contact us by sending an e-mail at info@vote.org. You can also write to us at the following address:
 
 Vote.org  
 1270 Grove Street #301  
