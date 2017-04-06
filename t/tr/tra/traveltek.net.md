@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the traveltek.net privacy policy that was archived on 2016-11-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161127131310id_/http%3A//www.traveltek.net/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the traveltek.net privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406113747id_/http%3A//www.traveltek.net/privacy) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy for www.traveltek.net & Traveltek Group Ltd
 
 ## What is this Privacy Policy for?
 
