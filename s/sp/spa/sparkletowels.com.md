@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012060159id_/https%3A//gp.com/Footer/Legal/Privacy-Notice) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sparkletowels.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406155349id_/https%3A//gp.com/Footer/Legal/Privacy-Notice) for the most accurate reproduction.*
 
 # Georgia-Pacific Privacy Notice
 
@@ -166,7 +166,7 @@ Any information, communications, or material of any type or nature that you subm
 
 We offer you certain choices about what information we collect from you, how we use and share the information, and how we communicate with you. We do not charge for opt out service. To help protect your privacy and security, we may take reasonable steps to verify your identity, such as requiring a password and user ID.
 
-You may opt out of (i) sharing your personal information with third parties for those parties' own purposes, (ii) using your personal information to provide you with information or offers; and (iii) receiving newsletters, emails or other communications by clicking [here](https://web.archive.org/Footer/Privacy_Form) or writing to:
+You may opt out of (i) sharing your personal information with third parties for those parties' own purposes, (ii) using your personal information to provide you with information or offers; and (iii) receiving newsletters, emails or other communications by clicking [here](mailto:gpcomfeedback@gapac.com?subject=Georgia-Pacific:%20Privacy%20Question) or writing to:
 
 Georgia-Pacific LLC  
 Attention: Privacy Office  
@@ -243,7 +243,7 @@ Please review our Privacy Notice periodically, as we may change it at any time a
 
 #### How to Contact Us
 
-If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by clicking [here ](https://web.archive.org/Footer/Privacy_Form)or writing to: 
+If you have any questions or comments about this Privacy Notice, or if you would like us to update information we have about you or your preferences, please contact us by clicking [here ](mailto:gpcomfeedback@gapac.com?subject=Georgia-Pacific:%20%20Privacy%20Question)or writing to: 
 
 Georgia-Pacific LLC  
 Attention: Privacy Office  
