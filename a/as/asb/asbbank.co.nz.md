@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asbbank.co.nz privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014185106id_/https%3A//www.asb.co.nz/legal/privacy.html%3Ffm%3Dfooter%3Alink%3Aprivacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asbbank.co.nz privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406123738id_/https%3A//www.asb.co.nz/legal/privacy.html%3Ffm%3Dfooter%3Alink%3Aprivacy) for the most accurate reproduction.*
 
 # Privacy | ASB
 
@@ -17,7 +17,7 @@ We use technology in order to offer you the most convenient, secure and relevant
 
 Cookies are very small text files that your browser stores on your computer when you visit certain websites. Every time you visit a website that has issued a cookie to your computer, your browser sends the data that it has stored in that cookie back to the website's server.
 
-We use cookies for a number of purposes, including to maintain the secure connection between your browser and our servers while you are using our secure websites. These cookies can be identified as being issued from the website domains fnb.asb.co.nz or asbbank.co.nz.
+We use cookies for a number of purposes, including to maintain the secure connection between your browser and our servers while you are using our secure websites. These cookies can be identified as being issued from the website domains fnb.asb.co.nz. asbbank.co.nz, asb.co.nz or online.asb.co.nz.
 
 You may be able to configure your browser to notify you when you are offered a cookie and decide whether or not to accept it. You may choose not to accept cookies when browsing our websites. However, you may be unable to log on to our secure services without accepting the cookies outlined above.  
 
