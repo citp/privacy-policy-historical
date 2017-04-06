@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the teencategories.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202090215id_/http%3A//teencategories.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the teencategories.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406130642id_/http%3A//teencategories.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Teen Categories
 
