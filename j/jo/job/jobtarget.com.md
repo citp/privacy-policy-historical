@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the jobtarget.com privacy policy that was archived on 2016-01-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160122132243id_/https%3A//jobtarget.com/oc/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jobtarget.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406075357id_/https%3A//www.jobtarget.com/oc/privacy-policy) for the most accurate reproduction.*
 
-# We make finding and recruiting talent easy | JobTarget.com
+# 
 
 JobTarget maintains a great respect for the privacy and security of our users. We recognize that the reason we can remain in business is because of you.
 
