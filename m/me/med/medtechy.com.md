@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the medtechy.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909055837id_/https%3A//www.medtechy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the medtechy.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406101354id_/https%3A//www.medtechy.com/privacy-policy) for the most accurate reproduction.*
 
 # Medtech[y] Privacy Policy | Medtech[y] Message Boards
 
