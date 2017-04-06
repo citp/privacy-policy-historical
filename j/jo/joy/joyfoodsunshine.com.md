@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the joyfoodsunshine.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024100625id_/http%3A//joyfoodsunshine.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the joyfoodsunshine.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407012848id_/http%3A//joyfoodsunshine.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Joyfoodsunshine
 
