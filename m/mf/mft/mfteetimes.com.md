@@ -1,71 +1,104 @@
-> *The following text is extracted and transformed from the mfteetimes.com privacy policy that was archived on 2016-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160409095837id_/http%3A//www.membersfirst.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mfteetimes.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406132511id_/https%3A//www.membersfirst.com/privacy-policy) for the most accurate reproduction.*
 
-# MembersFirst - Terms of Use
+# MembersFirst, Inc. View Library Document: Privacy Policy
 
-MembersFirst is committed to respecting the privacy of both our clients (generally, member-based organizations such as clubs, associations, and churches) and other users of our software (generally, members of a client's organization). Any personally identifiable information (any information by which you can be directly identified) that we collect will only be used to support user relationships with their member-based organization and client relationships with MembersFirst.
+## MembersFirst a Jonas Company
 
-We do not sell this information to 3rd parties. In the event that MembersFirst is involved in a merger, acquisition, reorganization, bankruptcy, or sale of assets, your information may be sold or transferred as part of that transaction. The promises in this Privacy Statement will apply to your information as transferred to the new entity.
+Gary Jonas Computing Ltd. and its worldwide subsidiaries and affiliates that comprise the Jonas Family of Companies ("Jonas," "we," "us," "our") are committed to protecting your privacy. There are various ways that you might interact with Jonas, and the information you provide when doing so allows us to improve our services. By using this website and our related websites (collectively, the "Site") and by supplying your details to Jonas, you consent to Jonas collecting and processing your information.
 
-### Awareness
+Our privacy policy explains:
 
-MembersFirst provides this Privacy Statement to make you aware of our privacy policy and practices and of the choices you can make about the way information about you or your use of our software and websites is used. To make this notice easy to find, we make it available from the bottom of every MembersFirst client webpage and every page on MembersFirst.com.
+  * What information we collect, and why we collect it;
+  * How we use that information;
+  * How we protect that information;
+  * How you can control your information, including accessing, updating and deleting what we store; and
+  * How we share information collected.
 
-With ever-evolving technology and the changing needs of our clients and their members, this Privacy Statement may be updated from time to time without notice. We will notify clients about significant changes by sending a notice to the primary email address specified in their MembersFirst account or by placing a prominent notice on our site.
 
-### Data Security
 
-MembersFirst is committed to ensuring the security of your information. To prevent unauthorized access, maintain data accuracy, and ensure the appropriate use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard the information we receive online.
+## Compliance
 
-MembersFirst makes a serious effort to keep our systems safe and secure from unauthorized access, including offering encrypted communications for nearly all software and services. As covered in MembersFirst's Terms of Use, you are responsible for reporting unauthorized use of your account and are restricted from behaviors that may damage the security of our websites and/or software or that conflict with this Privacy Statement or the Terms of Use.
+Jonas adheres to Canadian and international statutes and regulations which govern the protection of personal information. In Canada Jonas adheres to the Personal Information and Protection of Electronic Documents Act ("PIPEDA"). In the United States, Jonas adheres to statutes of general application and statutes of specific application such as the Health Insurance Portability and Accountability Act ("HIPPA") where applicable. In Australia, Jonas complies with the Privacy Act, 1988, a federal statute as well as with State and Territory laws pertaining to protection of personal information, including the Health Records Act 2001(VIC) where applicable. In New Zealand, Jonas follows the Privacy Act, 1993. In Europe, Jonas adheres to the Data Protection Act, 1998, the European Union ("EU") Data Protection (95/46/EC) and ePrivacy (2002/58/ED) Directives (as transposed into national law), the EU Privacy Directive dated May 26, 2012 (regarding cookies and other matters) and registers annually with the Information Commissioner’s Office.
 
-### Data We Receive + How We Use It
+## Information We Collect & Share
 
-There are two kinds of data we receive; Personally Identifiable Information (PII), that is, information or a collection of information in which you can be identified, and Non-Personally Identifiable Information (Anonymous or Non-PII), that is, information that is not connected to information in which you can be individually identified.
+We may collect or record basic personal information (e.g., name, e-mail address, mailing address, phone number) which you voluntarily provide through forms on our Site, through electronic mail you send to us, or through other means of communication between you and us.
 
-In general, Anonymous Information is used to better understand user behaviors to improve our services and to improve marketing efforts, while PII is used to provide a service to you, respond to your requests, to keep you informed regarding your relationship with MembersFirst and/or your member organization, and to personalize our websites and services to you.
+We only collect personal information of a more sensitive nature (e.g. social security or other governmental ID numbers, credit card details and account numbers) where it is appropriate or necessary for conducting business. This information will be collected, stored, accessed and processed in a secure manner. We may also collect general non-personal information pertaining to users of our sites, including IP addresses, source domain names, specific web pages, length of time spent, and pages accessed. This information is collected, among other things, to aggregate statistical information, facilitate system administration and improve the Site. We recognize and have controls in place to ensure that the privacy of personal information about an identifiable individual used in the course of commercial activity is protected and managed.
 
-When using any of our websites or web-based applications you can expect the collection and storage of your information on USA-based servers and in and any other country where MembersFirst or its member entities and/or business partners operate.
+We also collect, use, and disclose identifiable information about individual contacts for our customers ("Business Contact Information") in the ordinary course of our business for managing and maintaining customer relationships. In particular, we may obtain the following types of Business Contact Information: name, address, invoice information including bank account information, and order information. Unless otherwise specified or prohibited, we may share information with affiliates, business partners, service providers, subsidiaries or contractors who are required to provide you with services which you have requested from us.
 
-On some web pages you can make requests or register to receive materials from MembersFirst or our Clients. The types of PII recieved from these pages generally include contact information, interests, and demographic information. There are other ways you may volunteer this information such as providing it over the phone, in writing, and via email.
+We may also post links to third party websites as a service to you. These third party websites are operated by companies that are outside of our control, and your activities at those third party websites will be governed by the policies and practices of those third parties. We encourage you to review the privacy policies of these third parties before disclosing any information, as we are not responsible for the privacy policies of those websites.
 
-If you are employed by a Client of MembersFirst and/or have an Administrative User Account, we may use your PII to contact you for market research or to provide you with marketing information we think would be of particular interest. At a minimum, we will always give you the opportunity to opt out of receiving direct marketing, and we will not send unsolicited mass emails.
+## How We Use Information
 
-Like nearly all service-based websites, MembersFirst uses "cookies" to improve your experience and support various interactive features. A cookie is a file containing a string of code stored by your web browser for later reference. For example, with cookies saved by your browser, our system can recognize you when returning to one of our sites so as to present you with personalized content. If you choose not to take advantage of these kinds of features, you can set up your browser to reject cookies or to alert you when a cookie has been sent. Many features cannot function without the use of cookies.
+We use the information we collect to provide you with services which you request and to improve our existing services and the content of our Site. When you contact us, we may keep a record of your communication to help solve any issues that you might be facing. Your information may be retained for a reasonable time for use in future contact with you, or for future improvements to our services. You have the option to opt-out or opt-in for further communications from us.
 
-When visiting one of our sites your computer may also receive cookies from third parties or from our clients. These cookies are covered by the additional policies of the specific website you are visiting and not this policy.
+We may also use or disclose your personal information when we believe, in good faith, that such use or disclosure is reasonably necessary to (i) comply with law, (ii) enforce or apply the terms of any of our user agreements, or (iii) protect our rights, property or safety, or the rights, property or safety of our users, or others. We reserve the right to transfer and disclose your information if we become involved in a business divestiture, change of control, sale, merger, or acquisition of all or a part of our business.
 
-We also use "pixel tags" (also known as "web beacons, "action tags", and "single pixel gifs") in some web pages and emails to determine when a user views that piece of content. No PII is transmitted through pixel tags, but the information may later be combined with PII in our database in order to confirm if you successfully received an e-mail or other important message.
+In certain cases, we also operate as an information processor for our business customers. Our business customers remain the information controllers with respect to any customer information that they provide to us for our provision of services. We therefore act in accordance with the instructions of such customers regarding the collection, processing, storage, deletion and transfer of customer information, as well as other matters such as the provision of access to and rectification of customer information.
 
-MembersFirst products, services, and websites use Google Analytics to analyze site traffic and trends, user behavior, and user characteristics. The information (including your IP address) stored in the Google Analytics cookie about your use of the website is transmitted to Google. This information is then used to evaluate visitors' use of the site and to compile statistical reports on website activity in conjunction with Google's inferred Demographics and Interest Reporting.
+We do not sell our services to children. As such, our Sites are designed for adult user interaction. We do not intentionally collect personally identifiable information from children under the age of 13.
 
-Non-PII about users may also be used for online marketing purposes by MembersFirst or our Clients. For example, MembersFirst may use Display Advertising and Remarketing services from Google to show ads about MembersFirst products and services on other websites after a user visits the MembersFirst website. We may also utilize behavior tracking tools such as heat maps from clicks on a website to identify and fix poorly performing aspects of the site.
+## Web User Tracking – Use of Cookies, IP Addresses and Aggregate Information
 
-Users can control and opt out of this kind of reporting by changing [their privacy settings with Google.](https://www.google.com/settings/ads) Google Analytics will not collect or send PII to Google, however, MembersFirst or a client may be able to identify individuals by cross-referencing data from Analytics with their own private database, or through the MembersFirst User Audit Tracking feature of their website. This is typically done to ensure any particular user completed a neccessary action on the website, such as participating in a proxy vote, reading board minutes, or aggreeing to updated member terms.
+Cookies are a technology that can be used to help personalize your use of a website. A cookie is an element of information that a website can send to your browser, which may then store it on your system. You can set your browser to notify you when you receive a cookie, giving you the chance to decide whether to accept it or decline at any time. To enable us to assess the effectiveness and usefulness of this Site, and to give you the best user experience, we collect and store information such as pages viewed by you, your domain names and similar information. Our Site makes use of anonymous cookies for the purposes of:
 
-For the entire privacy policy regarding information collected within Google Analytics please view the [Google Analytics Privacy Overview](http://www.google.com/intl/en/analytics/learn/privacy.html).
+  * Completion and support of Site activity;
+  * Site and system administration;
+  * Research and development; and
+  * Anonymous user analysis, user profiling, and decision-making.
 
-### Who We Share It With
 
-MembersFirst will not sell, rent, or lease your PII to others. Unless we have your permission or are required by law, we will only share the PII you provide online with other member entities and/or business partners who are acting on our behalf to complete the activities described above. Such member entities and/or business partners, including those located in other countries, are governed by our privacy policies with respect to the use of this data. 
 
-In general, we provide access to your personal information only to employees and contractors we believe need that access in order to do their jobs and to provide products or services to you. 
+An Internet Protocol ("IP") address is associated with your computer’s connection to the internet. We may use your IP address to help diagnose problems with our server, to administer the Site and to maintain contact with you as you navigate through the Site. Your computer’s IP address also may be used to provide you with information based upon your navigation through the Site.
 
-Notwithstanding anything to the contrary in this Privacy Statement, we may preserve or disclose your information if we believe that it is reasonably necessary to comply with a law, regulation or legal request; to protect the safety of any person; to address fraud, security or technical issues; or to protect MembersFirst's rights or property. However, nothing in this Online Privacy Policy is intended to limit any legal defenses or objections that you may have to a third party’s, including a government’s, request to disclose your information.
+Aggregate information is used to measure the visitors’ interest in, and use of, various areas of the Site and the various programs that we administer. We will rely upon aggregate information, which is information that does not identify you, such as statistical and navigational information. With this aggregate information, we may undertake statistical and other summary analyses of the visitors’ behaviors and characteristics. Although we may share this aggregate information with third parties, none of this information will allow anyone to identify you, or to determine anything else personal about you.
 
-### Children
+## Collection and Use of Employee Personal Information
 
-MembersFirst needs to ask all users, including children under age 13, for personal information that is reasonably necessary to determine the user's eligibility to use some features or services. In compliance with the Children's Online Privacy Protection Act, many of the website's interactive services are only available to users and members who are at least thirteen years old. If you are under thirteen, you may not have access to many features nor your own user account.
+We also collect personal information from our employees and from job applicants (human resource data) in connection with administration of our human resources programs and functions. These programs and functions include, but are not limited to: job applications and hiring programs, compensation and benefit programs, performance appraisals, training, access to our facilities and computer networks, employee profiles, employee directories, human resource recordkeeping, and other employment related purposes. It is our policy to keep all past and present employee information private from disclosure to third parties. There are certain business related exceptions and they are:
 
-If you become aware that a child has created a user account, please contact us so that we may take steps to remove their information and terminate the child's user account. 
+  * To comply with municipal, regional, provincial or federal agency requests;
+  * Inquiries from third parties with a signed authorization from the employee to release the information, except in situations where limited verbal verifications are acceptable (see below);
+  * Third parties with which we have contractual agreements to assist in administration of company sponsored benefits.
 
-### Choice
 
-MembersFirst will not use or share the PII provided to us online in ways unrelated to the ones described above without first letting you know and offering you a choice. As previously stated, we will also provide you the opportunity to let us know if you do not wish to receive unsolicited direct marketing materials from us and we will do everything we can to honor such requests.
 
-As a client or member of a client, we reserve the right to send you certain important communications relating to our services, such as service announcements and administrative messages throughout the term of your MembersFirst account without offering you the opportunity to opt-out of receiving those communications.
+Prospective employers, government agencies, financial institutions, and residential property managers routinely contact us requesting information on a former or current employee’s work history and salary. All such requests of this type shall be referred to and completed on a confidential basis by the human resources department or payroll department. For written verification of employment requests, information will be provided on the form only when it is accompanied by an employee’s signed authorization to release information. The form will be returned directly to the requesting party and filed as part of the human resources or payroll department’s confidential records.
 
-### Additional Information
+## Security
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this website, you can contact [support@membersfirst.com](mailto:support@membersfirst.com).
+The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it.
 
-_Revised September 2014_
+We use reasonable measures to safeguard personally identifiable information, which measures are appropriate to the type of information maintained, and follows applicable laws regarding the safeguarding of any such information under our control. In addition, in some areas of our Sites, we may use encryption technology to enhance information privacy and help prevent loss, misuse, or alteration of the information under our control. We also employ industry-standard measures and processes for detecting and responding to inappropriate attempts to breach our systems.
+
+No method of transmission over the Internet, or method of electronic storage, can be 100% secure. Therefore, we cannot guarantee the absolute security of your information. The Internet by its nature is a public forum, and we encourage you to use caution when disclosing information online. Often, you are in the best situation to protect yourself online. You are responsible for protecting your username and password from third party access, and for selecting passwords that are secure.
+
+## Monitoring and Enforcement
+
+We regularly review our compliance with our privacy policy. We also adhere to several self-regulatory frameworks in addition to complying with applicable law. If we receive formal written complaints, we will follow up with the person making the complaint. We work with the appropriate regulatory authorities to resolve any complaints that cannot be resolved directly.
+
+## Accessing and Updating Your Personal Information
+
+If you have provided us with your personal information, you may have the right to inspect the information stored by us for accuracy, or may request that the information be removed from our files. We will make a reasonable effort to comply with such requests except where it would require a disproportionate effort (for example developing a new system or changing an existing practice). We may require that you verify your identity before we act on a request to edit or remove your information. Please direct any questions about your information to the Privacy Contact identified below to review any personal information held about you.
+
+## Social Media and Online Engagement
+
+We occasionally use a variety of new technologies and social media options to communicate and interact with customers, potential customers, employees and potential employees. These sites and applications include popular social networking and media sites, open source software communities and more. To better engage the public in ongoing dialog, certain of our businesses use certain third-party platforms including, but not limited to, Facebook, Twitter and LinkedIn. Third-Party Websites and Applications (TPWA) are Web-based technologies that are not exclusively operated or controlled by us. When interacting on those websites, you may reveal certain personal information to us or to third parties. Other than when used by our employees for the purpose of responding to a specific message or request, we will not use, share, or retain your personal information.
+
+  * The Facebook privacy policy is available at <http://www.facebook.com/policy.php>.
+  * The Twitter privacy policy is available at <http://twitter.com/privacy>.
+  * The LinkedIn privacy policy is available at <http://www.linkedin.com/static?key=privacy_policy>.
+
+
+
+## Changes to this Privacy Policy
+
+We may change this privacy policy from time to time. If this privacy policy changes, the revised privacy policy will be posted at the "Privacy Policy" link on the Site’s home page. In the event that the change is significant or material, we will notify you of such a change by revising the link on the home page to read "Newly Revised Privacy Policy." Please check the privacy policy frequently. Your continued use of the Site constitutes acceptance of such changes in the privacy policy, except where further steps are required by applicable law. This privacy policy was last updated on the date set out at the end of the policy.
+
+## Contacting Us
+
+Questions regarding this privacy policy should be directed to [info@membersfirst.com](mailto:info@membersfirst.com) or at (508) 653-3399.
+
+**LAST UPDATED: September 2016**
