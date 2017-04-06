@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the itison.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223144210id_/https%3A//www.itison.com/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the itison.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406071119id_/https%3A//www.itison.com/pages/privacy) for the most accurate reproduction.*
 
 # Privacy – itison
 
@@ -86,6 +86,6 @@ If you decide at any time that you no longer wish to be contacted by us, please 
 
 ### Get in touch
 
-itison is operated and managed by itison Ltd., Argyll Chambers, 30 Buchanan Street, Glasgow, G1 3LB, United Kingdom
+itison is operated and managed by itison Ltd., 29 Cochrane Street, Glasgow, G1 1HL.
 
 If you have any queries concerning your personal information or any questions on our use of the information, please contact [support@itison.com](mailto:support@itison.com) or call 0141 223 8843.
