@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companiesmadesimple.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019041155id_/https%3A//www.companiesmadesimple.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesmadesimple.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406025426id_/https%3A//www.companiesmadesimple.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy - Online Company Formation & Registration by Company Formation MadeSimple
 
