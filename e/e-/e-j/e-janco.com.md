@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the e-janco.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228023138id_/http%3A//e-janco.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-janco.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406230333id_/https%3A//www.e-janco.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy e-janco.com - Janco Associates
 
