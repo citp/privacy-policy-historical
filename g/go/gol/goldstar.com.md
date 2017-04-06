@@ -1,28 +1,38 @@
-> *The following text is extracted and transformed from the goldstar.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224110839id_/https%3A//www.goldstar.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goldstar.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407001156id_/https%3A//www.goldstar.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Company | Goldstar
 
-This privacy policy ("Privacy Policy") is effective on December 18, 2015.
+This privacy policy ("Privacy Policy") is effective on March 29th, 2017.
 
 ### Overview
 
-[](https://privacy.truste.com/privacy-seal/Goldstar-Events-Inc-/validation?rid=2f32fb10-3500-4ede-9729-9bed61fe317e "TRUSTe online privacy certification")
+[](https://privacy.truste.com/privacy-seal/validation?rid=2f32fb10-3500-4ede-9729-9bed61fe317e)
 
-This privacy policy applies to https://www.goldstar.com owned and operated by Goldstar Events Inc. (collectively, "We", "Us", "Our" and "Goldstar"). This privacy policy describes how Goldstar Events Inc. collects and uses the personal information you provide on our web site: https://www.goldstar.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [https://www.goldstar.com](https://www.goldstar.com/) owned and operated by Goldstar Events Inc. (collectively, "We", "Us", "Our" and "Goldstar"). This privacy policy describes how Goldstar Events Inc. collects and uses the personal information you provide on our web site: https://www.goldstar.com. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Goldstar Events Inc. has received TRUSTe's Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program does not cover information that may be collected through downloadable software. The TRUSTe program covers only information that is collected through this Web site, www.goldstar.com.
-
-If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback­form.truste.com/watchdog/request](https://web.archive.org/company/privacy).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 At Goldstar, we are committed to protecting the privacy of our users. We do not share any personal information with third parties in ways that are not disclosed in this Privacy Policy.
 
-Visitors to the goldstar.com Web site ("Site") can access many informational areas of the Site, such as browsing information about Goldstar policies, and help content. While visitors can browse these portions of the Site without sharing personal information, visitors must become registered members in order to enjoy the full benefits and features of what the Site has to offer, including purchasing event admissions. We use the information we collect about our members to create a more personalized online experience. Users must be 18 years of age or older to purchase tickets through the Site.
+Visitors to the [goldstar.com](https://www.goldstar.com/) Web site ("Site") can access many informational areas of the Site, such as browsing information about Goldstar policies, and help content. While visitors can browse these portions of the Site without sharing personal information, visitors must become registered members in order to enjoy the full benefits and features of what the Site has to offer, including purchasing event admissions. We use the information we collect about our members to create a more personalized online experience. Users must be 18 years of age or older to purchase tickets through the Site.
 
 By using the Site, you consent to the collection, use and disclosure of your information as described below. This Privacy Policy may change from time to time, so please check back periodically. If we make material changes to this Privacy Policy, we will notify you here, by email, or by means of a notice on the Site's home page prior to the change becoming effective.
+
+### Mobile Application
+
+When you download and use our Services, we automatically collect information on the type of device you use and operating system version.
+
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application.
+
+### Geolocation
+
+We may share your geo-location data with third parties for the purpose of them serving you ads for places (such as restaurants) in your area. If you do not wish to allow us to share your information in this manner please opt-out by contacting us at help@goldstar.com.
 
 ### Business Transitions
 
 In the event Goldstar goes through a business transition, such as a merger, acquisition by another company, or sale of all or a portion of its assets, your personal information will likely be among the assets transferred. You will be notified via email and/or prominent notice on the Site for 30 days of any such change in ownership or control of your personal information.
+
+You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at help@goldstar.com.
 
 ### Your IP Address
 
@@ -65,6 +75,17 @@ In the case your purchase is a gift for another person, we may require and colle
 We will ask you for your friend's name and email address, when you choose to use our referral service to tell a friend. We will automatically send your friend an email inviting him or her to visit the site. We’ll let you know if they join. Goldstar Events Inc. stores your friend's information for the purpose of communicating with them and tracking the success of our referral program.
 
 Your friend may [contact us](https://web.archive.org/help/contact_us) to request that we remove this information from our database.
+
+### User Data Supplementation
+
+We may receive information about you from other sources, including publicly available databases or third parties from whom we have purchased data, and combine this data with information we already have about you.  This helps us to update, expand and analyze our records, identify new customers, and provide products and services that may be of interest to you.  If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us.
+
+Examples of the types of personal information that may be obtained from public sources or purchased from third parties and combined with information we already have about you, may include:
+
+  * Address information about you from third party sources, such as the U.S. Postal Service, to verify your address so we can properly ship your order to you and to prevent fraud.
+  * Purchased marketing data about our customers from third parties that is combined with information we already have about you, to create more tailored and products.
+
+
 
 ### How We Use Contact Information
 
@@ -112,7 +133,7 @@ We follow generally accepted standards to protect the personal information submi
 
 ### How You Can Update/ Delete Your Personal Information
 
-The Site gives you the opportunity to change, modify and/or delete your account information you have provided to us through our [edit account](https://web.archive.org/account/edit) page. If you have created a Public Member Profile, you can change, modify and/or delete the profile information you have provided to us by editing feedback in your [profile](https://web.archive.org/account/edit). Changing or deleting any of this data will change or delete the data only in our member database, but will not change or delete information which we have collected as part of a particular ticket purchase in our transactions database. Users may change or update information related to transactions by [contacting us](https://web.archive.org/help/contact_us) or replying to their confirmation email. We will respond to your request within a reasonable timeframe.
+Upon request Goldstar will provide you with information about whether we hold any of your personal information. The Site gives you the opportunity to change, modify and/or delete your account information you have provided to us through our [edit account](https://web.archive.org/account/edit) page. If you have created a Public Member Profile, you can change, modify and/or delete the profile information you have provided to us by editing feedback in your [profile](https://web.archive.org/account/edit). Changing or deleting any of this data will change or delete the data only in our member database, but will not change or delete information which we have collected as part of a particular ticket purchase in our transactions database. Users may change or update information related to transactions by [contacting us](https://web.archive.org/help/contact_us) or replying to their confirmation email. We will respond to your request within a reasonable timeframe.
 
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
@@ -122,7 +143,7 @@ You agree that, in the event any dispute or claim arises out of or relating to y
 
 ### Legal Disclaimer
 
-_We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, to any other third party with your prior consent to do so and/or to comply with a judicial proceeding, court order, or legal process served on our Web site._
+In certain situations, Goldstar may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. _We reserve the right to disclose your personal information as required by law and when we believe that disclosure is necessary to protect our rights, protect your safety or the safety of others, investigate fraud, to any other third party with your prior consent to do so and/or to comply with a judicial proceeding, court order, or legal process served on our Web site._
 
 If you have any questions or concerns about this Privacy Policy, Goldstar's practices, or your dealings with the Site, please [contact us online](https://web.archive.org/help/contact_us) or write to Goldstar Events, Inc., PO Box 277, Altadena, CA 91003. Our physical address is 141 S. Lake Avenue, Suite 200, Pasadena, CA 91101.
 
