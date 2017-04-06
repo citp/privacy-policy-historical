@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the bankbazaar.com privacy policy that was archived on 2016-12-21.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161221232100id_/https%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the bankbazaar.com privacy policy that was archived on 2017-04-06.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170406111525id_/https%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
     <meta charset="utf-8">
@@ -18,10 +18,10 @@
 <style id="ajax-content">
 </style>
 
-<script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TRB8XL"></script><script type="text/javascript">
+<script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-TRB8XL"></script><script type="text/javascript">
     var proceedWithAjaxCalls = false;
     // Javascript Ajax support implementation
-
+    var EXPERIMENT_COOKIE = 'xt';
     function getNewImage() {
         return (window.Image ? new Image() : document.createElement('img'));
     }
@@ -43,11 +43,61 @@
                 results = regex.exec(location.search);
         return results === null ? "" : decodeURIComponent(results[1].replace(/\+/g, " "));
     }
+
+    /**
+     * Get the value for a particular cookie value
+     */
+    function getCookieValue(cname) {
+        var name = cname + "=";
+        var ca = document.cookie.split(';');
+        for (var i = 0; i < ca.length; i++) {
+            var c = ca[i];
+            while (c.charAt(0) == ' ') c = c.substring(1);
+            if (c.indexOf(name) != -1) return c.substring(name.length, c.length);
+        }
+        return null;
+    }
+
+    function getCookieExpireForDate(date) {
+        return "; expires=" + date.toUTCString();
+    }
+
+    function extractValue(element,key){
+        if(element==null || element == undefined)
+            return "";
+        if(element.getElementsByClassName(key)== null || element.getElementsByClassName(key)== undefined || element.getElementsByClassName(key).length < 1)
+            return "";
+        else
+        return element.getElementsByClassName(key)[0].value ;
+    }
+
+    function setCookie(cookieName, cookieVaue, expires, path, secure) {
+        var cookie = cookieName + "=" + cookieVaue;
+
+        //the caller should calculate the expires by using getCookieExpireForDate()
+        if(expires !=  null) {
+            cookie += expires;
+        }
+
+        if(path != null) {
+            cookie += "; path=" + path;
+        }
+
+        if(secure === true) {
+            cookie += "; secure";
+        }
+
+        document.cookie = cookie;
+    }
+
     var ctx = "/";
     
         var pt = '';
         var url = pt + "/ajax-content.html?ajax=true";
-
+        if(getCookieValue(EXPERIMENT_COOKIE)!=null) {
+            //set the experiment so that session parameters can be set
+            url = url + "&xt="+getCookieValue(EXPERIMENT_COOKIE)+"&origin_path="+document.location.pathname;
+        }
         var variant = getParameterByName('variant');
         var isSentence = false;
         
@@ -64,7 +114,7 @@
             url = url + "&" + window.location.search.split("?")[1];
         }
 
-        setTimeout(function() {
+        setTimeout(function () {
             var request = getXmlHttpRequestObject();
             request.open('POST', url);
             request.setRequestHeader('BB_Referer', document.referrer);
@@ -73,25 +123,10 @@
                     proceedWithAjaxCalls = true;
                     document.getElementById("ajax-content").innerHTML = request.responseText;
                     
-                        var channel = '';
-                        var productType = '';
-                        var website = 'MARKETPLACE';
-                        var deviceType = 'DESKTOP';
-                        var returningUser = 'true';
-                        var internalAccess = 'false';
-                        var isMonitoringAgent = 'false';
-                        var partnerName = '';
-
-                        if (channel != '' && productType != '' && website != '' && deviceType != '') {
-                            var logType = 'VISIT';
-                            var pagehitTime = new Date().getTime(); //so that image doesnt get cached in browser
-                            var pagehitreq = ctx + "images/pagehit.gif?channel=" + channel + "&logType=" + logType + "&deviceType=" + deviceType + "&productType=" + productType + "&website=" + website +
-                                    "&returningUser=" + returningUser + "&internalAccess=" + internalAccess + "&isMonitoringAgent=" + isMonitoringAgent + "&partnerName=" + partnerName + "&t=" + pagehitTime;
-                            getNewImage().src = pagehitreq;
-                        }
+                        firePgHitPixel(request.responseText);  //Fire pghit pixel
                     
                     // Report the same window login case.
-                    if(typeof(reportSameWindowLoginResult) === typeof(Function)) {
+                    if (typeof(reportSameWindowLoginResult) === typeof(Function)) {
                         reportSameWindowLoginResult();
                     }
                 } else {
@@ -99,9 +134,37 @@
                 }
             };
             request.send();
-
         }, 0);
     
+
+    function firePgHitPixel(content)
+    {
+        
+            var response = document.createElement('html');
+            response.innerHTML = content;
+            var channel = extractValue(response,"channelKey");
+            var productType =extractValue(response,"productTypeKey");
+            var website = extractValue(response,"websiteKey");
+            var deviceType =extractValue(response,"deviceTypeKey");
+            var returningUser =extractValue(response,"returningUserKey");
+            var internalAccess = extractValue(response,"isInternalAccessKey");
+            var isMonitoringAgent =extractValue(response,"isMonitoringAgentKey");
+            var partnerName =extractValue(response,"partnerFromRequestKey");
+
+            if (channel != '' && productType != '' && website != '' && deviceType != '') {
+                var logType = 'VISIT';
+                var pagehitTime = new Date().getTime(); //so that image doesnt get cached in browser
+                var pagehitreq = ctx + "images/pagehit.gif?channel=" + channel + "&logType=" + logType + "&deviceType=" + deviceType + "&productType=" + productType + "&website=" + website +
+                        "&returningUser=" + returningUser + "&internalAccess=" + internalAccess + "&isMonitoringAgent=" + isMonitoringAgent + "&partnerName=" + partnerName + "&t=" + pagehitTime;
+                if(getCookieValue(EXPERIMENT_COOKIE)!=null) {
+                    pagehitreq = pagehitreq +"&xt="+getCookieValue(EXPERIMENT_COOKIE);
+                }
+                getNewImage().src = pagehitreq;
+            }
+        
+    }
+    
+
     function firePixel() {
         setTimeout(function() {
             var request = getXmlHttpRequestObject();
@@ -112,10 +175,12 @@
                 if (request.readyState == 4 && request.status == 200) {
                     var logType = 'PAGE_FRAMED';
                     var pagehitTime = new Date().getTime(); //so that image doesnt get cached in browser
-                    var pagehitreq = ctx + "images/pageframed.gif?&logType=" + logType + "&t=" + pagehitTime + "&BB_Referer=" + document.referrer + "&Framed_page=" + self.location.href;
+                    var pagehitreq = ctx + "images/pageframed.gif?&logType=" + logType +
+                            "&t=" + pagehitTime + "&BB_Referer=" + document.referrer + "&Framed_page=" + self.location.href;
                     getNewImage().src = pagehitreq;
                 }
             }
+
             request.send();
         }, 1000);
     }
@@ -136,7 +201,7 @@
 <meta name="keywords" content="">
     <meta name="description" content="Get special discounts, lowered interest rates, lowered processing fees and save thousands on your home loan, personal loan and car loan only on BankBazaar.com">
 
-<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,t,n){function r(n){if(!t[n]){var o=t[n]={exports:{}};e[n][0].call(o.exports,function(t){var o=e[n][1][t];return r(o||t)},o,o.exports)}return t[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(e,t,n){function r(){}function o(e,t,n){return function(){return i(e,[(new Date).getTime()].concat(u(arguments)),t?null:this,n),t?void 0:this}}var i=e("handle"),a=e(2),u=e(3),c=e("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var s=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],l="api-",p=l+"ixn-";a(s,function(e,t){f[t]=o(l+t,!0,"api")}),f.addPageAction=o(l+"addPageAction",!0),f.setCurrentRouteName=o(l+"routeName",!0),t.exports=newrelic,f.interaction=function(){return(new r).get()};var d=r.prototype={createTracer:function(e,t){var n={},r=this,o="function"==typeof t;return i(p+"tracer",[Date.now(),e,n],r),function(){if(c.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return t.apply(this,arguments)}finally{c.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,t){d[t]=o(p+t)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,(new Date).getTime()])}},{}],2:[function(e,t,n){function r(e,t){var n=[],r="",i=0;for(r in e)o.call(e,r)&&(n[i]=t(r,e[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],3:[function(e,t,n){function r(e,t,n){t||(t=0),"undefined"==typeof n&&(n=e?e.length:0);for(var r=-1,o=n-t||0,i=Array(o<0?0:o);++r<o;)i[r]=e[t+r];return i}t.exports=r},{}],ee:[function(e,t,n){function r(){}function o(e){function t(e){return e&&e instanceof r?e:e?c(e,u,i):i()}function n(n,r,o){if(!p.aborted){e&&e(n,r,o);for(var i=t(o),a=v(n),u=a.length,c=0;c<u;c++)a[c].apply(i,r);var f=s[w[n]];return f&&f.push([y,n,r,i]),i}}function d(e,t){b[e]=v(e).concat(t)}function v(e){return b[e]||[]}function g(e){return l[e]=l[e]||o(n)}function m(e,t){f(e,function(e,n){t=t||"feature",w[n]=t,t in s||(s[t]=[])})}var b={},w={},y={on:d,emit:n,get:g,listeners:v,context:t,buffer:m,abort:a,aborted:!1};return y}function i(){return new r}function a(){(s.api||s.feature)&&(p.aborted=!0,s=p.backlog={})}var u="nr@context",c=e("gos"),f=e(2),s={},l={},p=t.exports=o();p.backlog=s},{}],gos:[function(e,t,n){function r(e,t,n){if(o.call(e,t))return e[t];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,t,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[t]=r,r}var o=Object.prototype.hasOwnProperty;t.exports=r},{}],handle:[function(e,t,n){function r(e,t,n,r){o.buffer([e],r),o.emit(e,t,n)}var o=e("ee").get("handle");t.exports=r,r.ee=o},{}],id:[function(e,t,n){function r(e){var t=typeof e;return!e||"object"!==t&&"function"!==t?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");t.exports=r},{}],loader:[function(e,t,n){function r(){if(!h++){var e=y.info=NREUM.info,t=l.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&t))return f.abort();c(b,function(t,n){e[t]||(e[t]=n)}),u("mark",["onload",a()],null,"api");var n=l.createElement("script");n.src="https://"+e.agent,t.parentNode.insertBefore(n,t)}}function o(){"complete"===l.readyState&&i()}function i(){u("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var u=e("handle"),c=e(2),f=e("ee"),s=window,l=s.document,p="addEventListener",d="attachEvent",v=s.XMLHttpRequest,g=v&&v.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:v,REQ:s.Request,EV:s.Event,PR:s.Promise,MO:s.MutationObserver},e(1);var m=""+location,b={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},w=v&&g&&g[p]&&!/CriOS/.test(navigator.userAgent),y=t.exports={offset:a(),origin:m,features:{},xhrWrappable:w};l[p]?(l[p]("DOMContentLoaded",i,!1),s[p]("load",r,!1)):(l[d]("onreadystatechange",o),s[d]("onload",r)),u("mark",["firstbyte",a()],null,"api");var h=0},{}]},{},["loader"]);</script><!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
+<script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script><!-- HTML5 shim, for IE6-8 support of HTML5 elements. All other JS at the end of file. -->
     <!--[if lt IE 9]>
     <script type="text/javascript" src="/gzip_1938818735/bundles/html5shiv.js" ></script>
 <script type="text/javascript" src="/gzip_N522412095/bundles/respond.js" ></script>
@@ -160,17 +225,17 @@
 <meta name="mobile-web-app-capable" content="yes">
 <meta name="apple-mobile-web-app-title" content="BankBazaar"><meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="@BankBazaar">
+
     <meta name="twitter:title" content="Loans – Apply for personal loan, home loan, car loan at BankBazaar.com
- ">
-    <meta name="twitter:description" content="loan, loans, loan India, loans India, car loans, personal loans, home loans, loans in India, ICICI loans, HDFC loans ">
+">
+    <meta name="twitter:description" content="loan, loans, loan India, loans India, car loans, personal loans, home loans, loans in India, ICICI loans, HDFC loans">
     <meta name="twitter:image" content="https://cdn1-bb-image.bankbazaar.com/mp/social-share/bb-social-share-v1.jpg">
-<link rel="stylesheet" type="text/css" media="screen" href="/gzip_1047895534/bundles/lwDefaultDecorator.css">
-<link rel="stylesheet" type="text/css" media="screen" href="/gzip_1129676306/bundles/lw-landingPage.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/gzip_248932876/bundles/lwDefaultDecorator.css">
+<link rel="stylesheet" type="text/css" media="screen" href="/gzip_N767980074/bundles/lw-landingPage.css">
 <style type="text/css">
         .dontshow {display: none;}.preLoad-Image{height:0; overflow: hidden; font-size: 0; line-height: 0;}
-          
-
-
+        .bb-banner{background-image:url(https://www.bankbazaar.com/images/gateway/bb-gateway-banner-summer-april-2017.jpg);background-position:0 -76px;}
+ 
 .product-interlinks .panel-body ul li { margin: 0 0 10px 0; }.mobile .offers-page .zopim{display:none !important;}
 .disqus_iframe {position: relative;}
 .disqus_iframe:after {content: "";display: block;height: 54px;width: 100%;position: absolute;bottom: 0;background: white;}
@@ -180,30 +245,43 @@
 .footer-social-icons .bbicons-ft-gp{background-position:-164px -41px;} 
 .footer-social-icons .bbicons-ft-instg{background-position:-190px -41px;}
 .icon-bank-58{background-position: -335px -115px !important;}
-@media only screen and (max-width: 767px) {
-.icon-bank-58{background-position: -216px -76px !important;}
-}
+.p1-cc .bbicons-details {background-position: 4px -786px;}
+.p1-cc {background-color: #eef5fd;}
+.offer-section-content .card img.offer-logo-md {max-width: 80px;width: auto;}
+.MARUTI-SUZUKI-ALTO-800_round {background-position: -210px -210px;}
+.bb-products .bbicons-cs {background-position: center -1260px;}
 
-.MARUTI-SUZUKI-ALTO-800_round {
-    background-position: -210px -210px;
-}
 @media only screen and (max-width: 767px){
-.MARUTI-SUZUKI-ALTO-800_round {
-    background-position: -130px -130px;
+.icon-bank-58{background-position: -216px -76px !important;}
+.MARUTI-SUZUKI-ALTO-800_round {background-position: -130px -130px;}
+.bb-products .bbicons-cs {background-position: center -3295px;}
+.bb-products .bbicons-mobileapp {
+background-position: center -3018px;
 }
 }
 
 @media screen and (min-width: 1024px){
-.bb-products li{width:8.33%;}
+.bb-products li{width:7.691%;}
 }
 .offers-section .annual-fee-strike{width:16.5%;text-align:center;}
+
 @media only screen and (max-width: 1162px){
 .offers-section .annual-fee-strike{width:12.5%;}
 }
 .newstaggered-modal .form-group input[type="text"], .newstaggered-modal .form-group input[type="text"]:focus {background: #fff !important;}
-
-
-</style>
+.ifsc-inner-KEB_HANA_BANK {background-position: -228px -1612px;}
+.ifsc-inner-THE_PANDHARPUR_URBAN_COOPERATIVE_BANK_LTD {background-position: -226px -1639px;}
+/*Maha March*/
+@media screen and (max-width:1024px){
+.bb-banner{background-image: url(https://www.bankbazaar.com/images/gateway/bb-gateway-banner-summer-april-2017-tablet.jpg);background-position:0 0;background-size: initial;}
+.bb-product-search{padding-top:205px !important;}
+}
+@media screen and (max-width:768px){
+.bb-banner{background-color:#2cacc9;}
+.ipad .bb-banner, .tablet .bb-banner{background-position: -143px -1px;}
+}
+.bb-products{margin:0;}
+.trust-icons{background-color: #116a9e;padding:10px 0;}</style>
 </head>
 <body onunload="">
 
@@ -219,13 +297,17 @@
 
 <!-- Google Analytics Social Button Tracking -->
 <script type="text/javascript">
-    function BB_trackGoogleEventWithLabel(category, action, label) { //prefixing BB so that fn name do not clash [just in case]
+    function BB_trackGoogleEventWithLabel(category, action, label, nonInteraction) { //prefixing BB so that fn name do not clash [just in case]
         //_gaq.push(['_trackEvent', category, action, label]);
+        if (nonInteraction == "" || nonInteraction == undefined) {
+            nonInteraction = false;
+        }
         dataLayer.push({
             'event': 'sendEvent',
             'eventCategory': category,
             'eventAction': action,
-            'eventLabel': label // Optional: only include if label needs to be sent
+            'eventLabel': label, // Optional: only include if label needs to be sent
+            'nonInteraction' : nonInteraction
         });
 
     }
@@ -265,9 +347,11 @@
         });
     }
 </script>
-<!-- Include appropriate header -->
+<div id="ajax-hidden-variable" class="ajax-hidden-variable">
+    </div>
+    <!-- Include appropriate header -->
     <header>
-    <div class="logo"><a href="/" data-actionloc="landingPage:home" data-action="click:click" title="Bankbazaar"><img src="/images/bankbazaar-logo.png" lazyload="false" alt="Bankbazaar" title="Low Interest home loan, personal loans &amp; car loans from all banks in India"></a></div>
+    <div class="logo"><a href="/" data-actionloc="landingPage:home" data-action="click:click" title="Bankbazaar"><img src="/images/bankbazaar-logo.png" alt="BankBazaar" title="Low Interest home loan, personal loans &amp; car loans from all banks in India" class="lazy"></a></div>
     <span class="logo-border"></span><nav class="menu-nav">
         <ul class="menu-left">
             <li class="loans-menu">
@@ -426,6 +510,9 @@
                                         <li><a href="/finance-tools/index.html" data-product="finance-calculator" data-target="#finance-calculator-tab" title="Finance Calculator" data-action="click:menuClick:inclData" data-name="productType">Finance Calculator</a></li>
                                         </ul>
                         </li>
+                    <li class="no-arrow">
+                            <a href="/credit-score.html" data-target="#creditscore" data-actionloc=":hamBurgerMenu" data-action="click:menuClick:inclData" title="Credit Score" class="sprite-menu bbicons-menu-creditscore">Credit Score<span class="free-badge">Free</span></a>
+                            </li>
                     <li>
                             <a data-target="#utility-documents" title="Utility Documents Online" class="sprite-menu bbicons-menu-utilityDocuments">UTILITY DOCUMENTS</a>
                             <ul class="child-main-menu" data-actionloc=":hamBurgerMenu">
@@ -439,7 +526,9 @@
                                         </ul>
                         </li>
                     <li class="no-arrow">
-                            <a href="/getapp.html" data-target="#downloadApp" data-actionloc=":hamBurgerMenu" data-action="click:menuClick:inclData" title="Download Mobile App" class="sprite-menu bbicons-menu-downloadApp">DOWNLOAD MOBILE APP</a>
+                            <a href="/getapp.html" data-target="#downloadApp" data-actionloc=":hamBurgerMenu" data-action="click:menuClick:inclData" title="Download Mobile App" class="sprite-menu bbicons-menu-downloadApp">DOWNLOAD MOBILE APP
+<span class="sprite-menu android-star-badge"></span>
+</a>
                             </li>
                     <li>
                             <a data-target="#more" title="More" class="sprite-menu bbicons-menu-more">MORE</a>
@@ -482,7 +571,7 @@
             <div class="sticky-section" id="getitnow" style="opacity: 1; position: relative; top: 0px; display: block;">
                 <div class="row container">
                     <div class="col-md-3 sticky-logo">
-                        <img src="/images/bankbazaar-logo.png" lazyload="false" alt="Bankbazaar" title="Low Interest home loan, personal loans &amp; car loans from all banks in India"></div>
+                        <img src="/images/bankbazaar-logo.png" alt="BankBazaar" title="Low Interest home loan, personal loans &amp; car loans from all banks in India" class="lazy"></div>
                     <div class="col-xs-4 col-sm-4 col-md-3 content">
                     Whoever said wishes don’t come true hasn’t explored our offers!
                 </div>
@@ -496,7 +585,8 @@
             </div>
         </div>
     </div>
-<div class="screen-block-hamburger dontshow"></div><!-- Include Login Form -->
+<div class="screen-block-hamburger dontshow"></div><!-- Include delay popup -->
+    <!-- Include Login Form -->
     <div class="modal fade bb-login" id="js-sign-in-box" tabindex="-1" role="dialog" aria-labelledby="continueLabel1" aria-hidden="true">
 
     <div class="ajax-hidden-variable"></div>
@@ -745,8 +835,10 @@
 <p>8th of November 2016</p>
 
  </div></div>
+    <div id="mobileAppStickyFooter">
+        </div>
 
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"33277502","applicationTime":54,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"755798193d","transactionName":"NldTZkBTVxJXWkALXg8dYkZAR00Sd1pAC14PHV1TXFZQD1EURANWBB9CW19CVQQbVVUbXhRG","agent":"","errorBeacon":"bam.nr-data.net"}</script><input type="hidden" name="bank" value="allBank" id="bank"><input type="hidden" name="city" value="allCity" id="city"><input type="hidden" name="mode" value="" id="mode"><input type="hidden" name="originalRequestURL" value="https%3A%2F%2Fwww.bankbazaar.com%2Flanding-page-simple-layout.html" id="originalRequestURL"><input type="hidden" name="bb-footer" value="true" id="bb-footer"><li class="dontshow">
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"applicationID":"33277502","applicationTime":64,"beacon":"bam.nr-data.net","queueTime":0,"licenseKey":"755798193d","transactionName":"NldTZkBTVxJXWkALXg8dYkZAR00Sd1pAC14PHV1TXFZQD1EURANWBB9CW19CVQQbVVUbXhRG","agent":"","errorBeacon":"bam.nr-data.net"}</script><input type="hidden" name="bank" value="allBank" id="bank"><input type="hidden" name="city" value="allCity" id="city"><input type="hidden" name="mode" value="" id="mode"><input type="hidden" name="originalRequestURL" value="https%3A%2F%2Fwww.bankbazaar.com%2Flanding-page-simple-layout.html" id="originalRequestURL"><input type="hidden" name="bb-footer" value="true" id="bb-footer"><li class="dontshow">
 
 <input type="hidden" name="emailAvailable" value="NO" id="emailAvailable">
 </li><li class="dontshow">
@@ -871,11 +963,11 @@
                 <a href="/aboutus.html" target="_blank" title="About">About</a>
                 <a href="/careers.html" target="_blank" title="Careers">Careers</a>
                 <a href="/aboutus.html#contactus" target="_blank" title="Contact Us">Contact Us</a>
-                <a href="http://blog.bankbazaar.com/" target="_blank" title="Blog">Blog</a>
+                <a href="https://blog.bankbazaar.com/" target="_blank" title="Blog">Blog</a>
                 <a href="/conditionsofuse.html" target="_blank" title="Terms">Terms</a>
                 </div>
             <div class="font-sm text-center copyrights">
-                <p class="font-sm">Copyright&nbsp;© 2016 &nbsp; BankBazaar.com.&nbsp;&nbsp;<a href="/privacy-policy.html">Privacy Policy</a></p></div>
+                <p class="font-sm">Copyright&nbsp;© 2017 &nbsp; BankBazaar.com.&nbsp;&nbsp;<a href="/privacy-policy.html">Privacy Policy</a></p></div>
         </section>
     </div>
 </footer>
@@ -886,7 +978,7 @@
 
 <input type="hidden" id="showFbGplusLayover" value="">
 <input type="hidden" id="fBLayover_StartTime" value="0">
-<input type="hidden" name="" value="" id="propertyCity"><input type="hidden" name="" value="SEOGoogle" id="mcIdVal"><input type="hidden" name="" value="false" id="isMobileReceived"><input type="hidden" name="" value="SEOGoogle" id="mcId"><input type="hidden" name="" value="97" id="pTypeId"><script type="text/javascript">
+<input type="hidden" name="" value="" id="propertyCity"><input type="hidden" name="" value="" id="mcIdVal"><input type="hidden" name="" value="false" id="isMobileReceived"><input type="hidden" name="" value="" id="mcId"><input type="hidden" name="" value="97" id="pTypeId"><script type="text/javascript">
 
     var sokrati_tracked = 'false';
     var mcId = document.getElementById("mcId").value;
@@ -1078,11 +1170,9 @@
 <div class="pixel dontshow">
     <div class="dontshow">
     </div>
-
-    reTH65gcmBgCJ7k - pingdom check string.
 </div><!-- Adding new scripts and styles based on page -->
-    <input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="productNameSpace" value="" id="productNameSpace"><input type="hidden" name="productShortName" value="L" id="productShortName"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="jawrDebug" value="" id="jawrDebug"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="MARKETPLACE" id="global_website"><input type="hidden" name="variantOptions" value="" id="variantOptions"><input type="hidden" name="cdnDomain" value="" id="cdnDomain"><input type="hidden" name="isBootstrapPage" value="true" id="isBootstrapPage"><input type="hidden" name="mobileSite" value="false" id="mobileSite"><input type="hidden" name="" value="false" id="internalAccess"><input type="hidden" name="" value="false" id="offlineChannel"><input type="hidden" name="appEmailPresent" value="" id="appEmailPresent"><input type="hidden" name="eligEmailPresent" value="false" id="eligEmailPresent"><input type="hidden" name="pageGroup" value="" id="pageGroup"><input type="hidden" name="pageName" value="landingPage" id="pageName"><input type="hidden" name="variantName" value="" id="variantName"><input type="hidden" name="firstInsuranceRedirectLink" value="https://www.bankbazaar.com/forward" id="firstInsuranceRedirectLink"><input type="hidden" name="insuranzoneRedirectUrl" value="https://www.bankbazaarinsurance.com/insurance/.html" id="insuranzoneRedirectUrl"><input type="hidden" name="getMpBrowserIdUrl" value="https://www.bankbazaar.com/getBrowserId.html" id="getMpBrowserIdUrl"><input type="hidden" name="returningUser" value="true" id="returningUser"><input type="hidden" name="customerSignUp" value="" id="customerSignUp"><input type="hidden" name="isCobrand" value="false" id="isCobrand"><input type="hidden" name="" value="false" id="isCRO"><!-- common file to be loaded across for jawr loading -->
-<script type="text/javascript" src="/1482068759021/jawr_loader.js"></script>
+    <input type="hidden" name="mobileReceivedCheck" value="false" id="mobileReceivedCheck"><input type="hidden" name="mobileProductNameSpace" value="" id="mobileProductNameSpace"><input type="hidden" name="productNameSpace" value="" id="productNameSpace"><input type="hidden" name="productShortName" value="L" id="productShortName"><input type="hidden" name="stage" value="prod" id="stageValue"><input type="hidden" name="jawrDebug" value="false" id="jawrDebug"><input type="hidden" name="mobilePropertyCity" value="" id="mobilePropertyCity"><input type="hidden" name="website" value="MARKETPLACE" id="global_website"><input type="hidden" name="variantOptions" value="" id="variantOptions"><input type="hidden" name="cdnDomain" value="" id="cdnDomain"><input type="hidden" name="isBootstrapPage" value="true" id="isBootstrapPage"><input type="hidden" name="mobileSite" value="false" id="mobileSite"><input type="hidden" name="" value="false" id="internalAccess"><input type="hidden" name="" value="false" id="offlineChannel"><input type="hidden" name="appEmailPresent" value="" id="appEmailPresent"><input type="hidden" name="eligEmailPresent" value="false" id="eligEmailPresent"><input type="hidden" name="pageGroup" value="" id="pageGroup"><input type="hidden" name="sessionMobileNumber" value="" id="session-mobile-number"><input type="hidden" name="pageName" value="landingPage" id="pageName"><input type="hidden" name="variantName" value="" id="variantName"><input type="hidden" name="BankbazaarInsuranceRedirectLink" value="https://www.bankbazaar.com/forward" id="BankbazaarInsuranceRedirectLink"><input type="hidden" name="BankbazaarInsuranceRedirectUrl" value="https://www.bankbazaarinsurance.com/insurance/.html" id="BankbazaarInsuranceRedirectUrl"><input type="hidden" name="customerSignUp" value="" id="customerSignUp"><input type="hidden" name="isCobrand" value="false" id="isCobrand"><input type="hidden" name="" value="false" id="isCRO"><input type="hidden" name="isWebEventsEnabled" value="true" id="isWebEventsEnabled"><!-- common file to be loaded across for jawr loading -->
+<script type="text/javascript" src="/1491325121136/jawr_loader.js"></script>
 <script type="text/javascript">
     JAWR.loader.getURLs = function (path, ptype) {
         var paths = [];
@@ -1120,10 +1210,10 @@
         return paths;
     }
 
-</script><script type="text/javascript" src="/gzip_N59957815/bundles/lwflatuiscripts.js"></script>
-<script type="text/javascript" src="/gzip_948355233/bundles/lwHeaderFooter.js"></script>
-<script type="text/javascript" src="/gzip_1233228132/bundles/lw-base.js"></script>
-<script type="text/javascript" src="/gzip_N1655966489/bundles/lw-landingPage.js"></script>
+</script><script type="text/javascript" src="/gzip_N1669456017/bundles/lwflatuiscripts.js"></script>
+<script type="text/javascript" src="/gzip_N1728849950/bundles/lwHeaderFooter.js"></script>
+<script type="text/javascript" src="/gzip_970200415/bundles/lw-base.js"></script>
+<script type="text/javascript" src="/gzip_N1072133711/bundles/lw-landingPage.js"></script>
 <script type="text/javascript">
 if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
     window.onpageshow = function(evt) {
@@ -1152,9 +1242,7 @@ if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
 </script>
 
 <div class="dontshow">
-
-        reTH65gcmBgCJ7k - pingdom check string.
-    </div>
+        reTH65gcmBgCJ7k</div>
 <div id="errorPage" class="dontshow">This Page is BLOCKED as it is using Iframes.</div>
     <div class="dontshow">
 </div><style type="text/css">
@@ -1435,7 +1523,7 @@ if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
 .ge-money-two-wheeler-loan{background-position: 0 -2986px;}
 
 </style><style type="text/css">
-.filter-section .bbicons-sprite-bank,.filter-section .bbicons-sprite-bank-website{background-image: url("/images/sprite/banks-sprite-v23.png"); background-repeat:no-repeat;background-position:0 100px;float:left;height:18px;margin-bottom:1px;width:22px;vertical-align:middle;}
+.filter-section .bbicons-sprite-bank,.filter-section .bbicons-sprite-bank-website{background-image: url("/images/sprite/banks-sprite-v24.png"); background-repeat:no-repeat;background-position:0 100px;float:left;height:18px;margin-bottom:1px;width:22px;vertical-align:middle;}
 .filter-section .bank-short-ICICI-Bank, .filter-section .bank-website-short-ICICI-Bank{background-position:-8px -8px;}
 .filter-section .bank-short-HDFC-Bank, .filter-section .bank-short-HDB-FINANCIAL-SERVICES, .filter-section .bank-website-short-HDFC-Bank, .filter-section .bank-website-short-HDB-FINANCIAL-SERVICES{background-position:-45px -8px;}
 .filter-section .bank-short-SBI-CARDS, .filter-section .bank-website-short-SBI-CARDS{background-position:-84px -8px;}
@@ -1507,6 +1595,8 @@ if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
 .filter-section .bank-short-Sundaram-Finance, .filter-section .bank-website-short-Sundaram-Finance{background-position: -47px -440px;}
 .filter-section .bank-short-sundram-finance, .filter-section .bank-short-Sundaram-BNP-Paribas-Home-Finance-Limited {background-position: -47px -440px;}
 .filter-section .bank-short-Corporation-Bank {background-position: -83px -441px;}
+
+.filter-section .bank-short-Jammu-and-Kashmir-Bank, .filter-section .bank-short-Jammu-and-Kashmir-Bank {background-position: -170px -441px}
 </style><style type="text/css">
 
 .bank-logo-fd{background-image:url("/images/sprite/bank-logos-fd-sprite-v19.png"); background-position:0 0;background-repeat:no-repeat;height:15px;margin-top:5px;padding-right:10px;width:55px}
@@ -1635,7 +1725,7 @@ if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
 .mf-morgan-stanley { background-position: 0 -1208px;}
 .mf-reliance { background-position: 0 -1240px;}
 
-.ccbank-logo{background:url("/images/sprite/bank-logo-v48.png") transparent no-repeat center top;margin:7px 0 0 4px; display: inline-block;height: 20px; width: 90px;}
+.ccbank-logo{background:url("/images/sprite/bank-logo-v52.png") transparent no-repeat center top;margin:7px 0 0 4px; display: inline-block;height: 20px; width: 90px;}
 .img_bankicon_ing, .img_bankicon_1 {background-position: 0 -387px; width: 80px}
 .img_bankicon_hdfc, .img_bankicon_2 {background-position:  0 -2138px; height: 19px;}
 .img_bankicon_amex, .img_bankicon_9 {background-position: -23px -815px; height: 32px; }
@@ -1726,7 +1816,10 @@ if ((/iphone|ipod|ipad.*os 5/gi).test(navigator.appVersion)) {
 .img_bankicon_jk {background-position: 0 -2779px;}
 .img_bankicon_obc {background-position: 0 -1744px;}
 
-</style><div class="lazyloadcss" rel="/bundles/landing-lazy-load.css"></div>
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+.img_bankicon_711 {background-position: 0 -2625px;}
+.img_bankicon_45 {background-position: 0 -2837px;}
+</style>
+<div class="lazyloadcss" rel="/bundles/landing-lazy-load.css"></div>
+
 
 </body></html>
