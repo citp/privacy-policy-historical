@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the checkfront.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024161411id_/https%3A//www.checkfront.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the checkfront.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406200315id_/https%3A//www.checkfront.com/privacy) for the most accurate reproduction.*
 
 # Checkfront Privacy Policy
 
