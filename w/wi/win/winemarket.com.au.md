@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winemarket.com.au privacy policy that was archived on 2016-03-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160303093211id_/http%3A//www.winemarket.com.au/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winemarket.com.au privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406162159id_/http%3A//www.winemarket.com.au/privacy-statement) for the most accurate reproduction.*
 
 # WineMarket Privacy Statement
 
