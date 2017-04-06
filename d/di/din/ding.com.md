@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ding.com privacy policy that was archived on 2016-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161017154017id_/https%3A//www.ding.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ding.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406130711id_/https%3A//www.ding.com/privacy-statement) for the most accurate reproduction.*
 
 # Ding Privacy and Cookies Statement – ding.com
 
@@ -6,9 +6,9 @@
 
 ### About us
 
-[www.ezetop.com](http://www.ezetop.com/), [www.ding.com](http://www.ding.com/) and associated ezetop and Ding mobile applications (each the “ **Website** ”) are operated by, and the Top-up and Cheap Calls services (“ **Services** ”) are provided by, ezetop Unlimited Company (“ **ezetop** ”, “ **we** ” or “ **us** ”). We are registered in Ireland with registered number 422514 and we have our registered office at Brooklawn House, Shelbourne Road, Dublin 4, Ireland. Our VAT number is 9576713i. Ding is a registered business name of ezetop.
+[www.ezetop.com](http://www.ezetop.com/), [www.ding.com](http://www.ding.com/) and associated ezetop and Ding mobile applications (each the “ **Website** ”) are operated by, and the Top-up and Cheap Calls services (“ **Services** ”) are provided by, ezetop Unlimited Company (“ **ezetop** ”, “ **we** ” or “ **us** ”). We are registered in Ireland with registered number 422514 and we have our registered office at 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, Ireland. Our VAT number is 9576713i. Ding is a registered business name of ezetop.
 
-ezetop Online Services LLC is a wholly owned subsidiary of _ezetop_. All correspondence in relation to any _ezetop_ company should be sent to Brooklawn House, Shelbourne Road, Dublin 4, Ireland. 
+ezetop Online Services LLC is a wholly owned subsidiary of _ezetop_. All correspondence in relation to any _ezetop_ company should be sent to 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, Ireland. 
 
 ### What is _ezetop_ ’s Privacy and Cookies statement?
 
@@ -180,13 +180,13 @@ Your Personal Data is held on our secure servers which are hosted by a third par
 
 Of course you can. Please tell us about any changes or inaccuracies in your Personal Data and we will update, correct or erase your Personal Data as requested. There is no charge for this and we will comply with your request as soon as practicable and in any event within not more than 40 days of receipt of your request.
 
-Please contact us at [customercare@ding.com](mailto:customercare@Ding.com) or at _ezetop_ , Brooklawn House, Shelbourne Road, Ballsbridge, Dublin 4, Ireland.
+Please contact us at [customercare@ding.com](mailto:customercare@Ding.com) or at _ezetop_ , 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, Ireland.
 
 ### Can I access my Personal Data?
 
 You may also request copies of your Personal Data held by us. We will provide you with a copy of the Personal Data held by us as soon as practicable and in any event within not more than 40 days of your request in writing. There may be a small charge for this (not exceeding €6.35) and we may also request proof of identification to verify your access request.
 
-Please contact us at [customercare@ding.com](mailto:customercare@Ding.com) or at _ezetop_ , Brooklawn House, Shelbourne Road, Ballsbridge, Dublin 4, Ireland.
+Please contact us at [customercare@ding.com](mailto:customercare@Ding.com) or at _ezetop_ , 3 Shelbourne Buildings, Crampton Avenue, Shelbourne Road, Ballsbridge, Dublin 4, Ireland.
 
 ### Can _ezetop_ change its Privacy and Cookies Statement?
 
