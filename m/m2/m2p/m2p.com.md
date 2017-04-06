@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the m2p.com privacy policy that was archived on 2015-04-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150429104504id_/http%3A//en.m2p.com/info/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the m2p.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406083537id_/https%3A//en.m2p.com/info/privacy) for the most accurate reproduction.*
 
-# M2P - Privacy Policy
+# 
 
 We, m2p Entertainment Ltd., are the owner of the www.m2p.com website. We are committed to protecting your privacy and security. Any information you as user of the website provide is received, stored and managed by us in line with our Privacy and Security policies detailed below which is in line with European and UK regulation. By using our website you are agreeing to this policy and the use of cookies in line with the terms in this policy. 
 
