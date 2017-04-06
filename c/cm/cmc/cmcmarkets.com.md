@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the cmcmarkets.com privacy policy that was archived on 2016-06-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160613091804id_/http%3A//www.cmcmarkets.com/en/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cmcmarkets.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406215713id_/https%3A//www.cmcmarkets.com/en/privacy) for the most accurate reproduction.*
 
-# Privacy & Security Policy | CMC Markets | CMC Markets
+# Privacy & Security Policy | CMC Markets
 
 CMC Markets is committed to protecting the privacy of all personal information obtained. Our privacy and security policy explains how we collect personal information about you, and how that information is maintained and used.​
 
@@ -66,7 +66,7 @@ CMC Markets uses cookies to gather information about your access to this website
 
 ​When cookies are used by us, they collect statistical and factual information about how you use our services. Most internet browsers are set up to accept cookies. If you do not wish to receive cookies, you may be able to change the settings of your browser to refuse all cookies or to have your computer notify you each time a cookie is sent to it, and thereby give yourself the choice whether to accept it or not. However, this may impair the quality of the services that we provide to you in relation to your account.​
 
-For more information about the types of cookies CMC Markets uses, please see our [Cookie Policy](http://www.cmcmarkets.com/en-gb/cookie-policy).
+For more information about the types of cookies CMC Markets uses, please see our [Cookie Policy](https://web.archive.org/en/cookies).
 
 CMC Markets takes security very seriously and adopts industry and information security best practices to protect your personal information and ensure it is not accessed by unauthorised persons. Measures include encryption of data during transmission, strong authentication mechanisms and secure access to machines and data.​
 
