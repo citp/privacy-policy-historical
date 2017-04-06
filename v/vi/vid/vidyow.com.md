@@ -1,0 +1,11 @@
+> *The following text is extracted and transformed from the vidyow.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406035353id_/https%3A//vidyow.com/privacy-policy) for the most accurate reproduction.*
+
+# Privacy Policy
+
+_Video Owner_
+
+You as the owner of your video have complete rights over your videos. If you think there is a problem or you want to completely remove it on our platform, please send an email to vidyowcom@gmail.com together with the URL of your video, our support team will remove access of your video usually in 1 - 72 hours.
+
+ _What do we collect?_
+
+At vidyow.com, we recognize that the privacy of your personal information is important. This article will inform you about the various types of personal information we receive and collect when you use and visit vidyow.com, and how we safeguard your information. We never sell or otherwise your personal information to third parties. This Website does not collect personally identifiable information from your computer when you browse the Website and request pages from our servers. This means that, unless you voluntarily and knowingly provide us with personally identifiable information, we will not know your name, your e-mail address, or any other personally identifiable information. As with most other websites, we only collect and use the data contained in log files. The information in the log files include your IP (internet protocol) address, your ISP (internet service provider, such as AOL or Shaw Cable), the type of browser you used to visit our site (such as Google Chrome, Internet Explorer or Mozilla Firefox), the time at which you visited our site and which pages you visited throughout our site. We allow third-party companies to serve ads and/or collect certain anonymous information when you visit our web site. These companies may use non-personally identifiable information (e.g., click stream information, browser type, time and date, subject of advertisements clicked or scrolled over) during your visits to this and other Web sites in order to provide advertisements about goods and services likely to be of greater interest to you. These companies typically use a cookie or third party web beacon to collect this information.
