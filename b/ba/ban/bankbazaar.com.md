@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bankbazaar.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221232100id_/https%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bankbazaar.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406111525id_/https%3A//www.bankbazaar.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Commitment - BankBazaar.com
 
@@ -149,7 +149,5 @@ The effective date of this Policy, as stated below, indicates the last time this
 Effective Date
 
 8th of November 2016
-
-reTH65gcmBgCJ7k - pingdom check string. 
 
 This Page is BLOCKED as it is using Iframes.
