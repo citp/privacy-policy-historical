@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the huel.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213010137id_/https%3A//huel.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the huel.com privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406185256id_/https%3A//huel.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Huel
 
@@ -20,7 +20,7 @@ If we ask for your personal information for a secondary reason, like marketing, 
 
 How do I withdraw my consent?
 
-If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at hello@huel.me or mailing us at: Huel 31 Turnfurlong Lane Aylesbury Buckinghamshire United Kingdom HP21 7PQ
+If after you opt-in, you change your mind, you may withdraw your consent for us to contact you, for the continued collection, use or disclosure of your information, at anytime, by contacting us at team@huel.com or mailing us at: Huel 31 Turnfurlong Lane Aylesbury Buckinghamshire United Kingdom HP21 7PQ
 
  **SECTION 3 - DISCLOSURE**
 
@@ -94,7 +94,7 @@ If our store is acquired or merged with another company, your information may be
 
  **QUESTIONS AND CONTACT INFORMATION**
 
-If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at hello@huel.me or by mail at Huel
+If you would like to: access, correct, amend or delete any personal information we have about you, register a complaint, or simply want more information contact our Privacy Compliance Officer at team@huel.com or by mail at Huel
 
 [Re: Privacy Compliance Officer]
 
