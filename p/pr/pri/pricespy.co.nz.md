@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2016-12-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161204104428id_/http%3A//pricespy.co.nz/info.php%3Ft%3Dabout_cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricespy.co.nz privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406024558id_/https%3A//pricespy.co.nz/info.php%3Ft%3Dabout_cookies) for the most accurate reproduction.*
 
 # Privacy policy - Compare prices and do more with your money!
 
@@ -10,7 +10,7 @@ This Privacy Policy tells you what information we collect, what we do with it an
 
 The information we collect
 
-Pricespy Media Ltd operates the website [www.pricespy.co.nz](http://www.pricespy.co.nz/). As part of our operations we may gather certain types of information about the users of our website:
+Pricespy Media Ltd operates the website [www.pricespy.co.nz](https://pricespy.co.nz/). As part of our operations we may gather certain types of information about the users of our website:
 
   1. Personally Identifiable Information.  
 This is provided by you when you register for an account or services that we may offer. Examples of these services could include newsletters or events. Providing this information will always be optional for you. However, some services may not be available to you if you choose not to provide it.  
