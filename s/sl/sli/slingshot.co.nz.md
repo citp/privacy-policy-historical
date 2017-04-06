@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the slingshot.co.nz privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013002217id_/https%3A//www.slingshot.co.nz/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the slingshot.co.nz privacy policy that was archived on 2017-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170406082735id_/https%3A//www.slingshot.co.nz/privacy-policy) for the most accurate reproduction.*
 
-# Slingshot » Privacy Policy
+# Privacy Policy / Slingshot Broadband
 
 _
 
