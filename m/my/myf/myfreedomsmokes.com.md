@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the myfreedomsmokes.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403090058id_/http%3A//www.myfreedomsmokes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the myfreedomsmokes.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407040628id_/https%3A//www.myfreedomsmokes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - MyFreedomSmokes
 
