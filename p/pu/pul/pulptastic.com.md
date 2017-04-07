@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulptastic.com privacy policy that was archived on 2016-04-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160405013639id_/http%3A//pulptastic.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulptastic.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407031738id_/http%3A//pulptastic.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,8 +9,7 @@ Pulptastic may change this policy from time to time by updating this page. You s
 **What we collect**  
 We may ask to collect the following information:
 
-  * e-mail address (for use to send you the daily Pulptastic newsletter, which you can unsubscribe from at any time) ** **  
-****
+  * e-mail address (for use to send you the daily Pulptastic newsletter, which you can unsubscribe from at any time)
 
 
 
