@@ -1,43 +1,85 @@
-> *The following text is extracted and transformed from the intakeq.com privacy policy that was archived on 2016-05-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160525110244id_/https%3A//intakeq.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the intakeq.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407205745id_/https%3A//intakeq.com/privacy) for the most accurate reproduction.*
 
 # IntakeQ - Privacy
 
-## Privacy
+### **PRIVACY POLICY**
 
-### 1\. Introduction
+**Last Modified: April 2016**
 
-First of all, we'd like to assure you that keeping all your information strictly confidential and otherwise protecting your privacy is on our top list of priorities. As we are going to use technical means to track your presence on our website and to collect some information on your use of our services, please read this Privacy Policy to better understand what kind of data we may gather. 
+**YOU CONSENT TO THE COLLECTION AND USE OF YOUR PERSONAL, HEALTH AND BUSINESS INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY, WHICH MAY CHANGE FROM TIME TO TIME.**
 
-### 2\. Data gathering
+_Collection of Personal and Business Information_
 
-To start using our services, you may have to provide some information about yourself to us. For instance, we may ask you for your name, e-mail address, and other personal details. Other information will be gathered by our system automatically when you access our website: we are going to track your use of our services via so-called "cookies" (please read more below), which may also be obtained when you are visiting our business partners' websites. Besides, you may want to provide us with more personal data by sending us e-mails and by filling in our registration forms, questionnaires, surveys, etc. Please understand that such information will not be intentionally disclosed to any third parties and will only be used for the stated purposes, such as communication, improvement of our services, and so forth. 
+To establish an account with us, we collect your personal and business information including your:
 
-### 3\. Protection of children's privacy
+  * Full name;
+  * Business name(s);
+  * Mailing address;
+  * Email address;
+  * Phone number;
+  * Social profiles and social profile user information (including, for example, where you elect to create an account and sign in using LinkedIn, Facebook, Google, Twitter and other accounts or where you elect to display your social media profiles and links);
+  * IP address and location data, including geo-location data;
+  * Website statistics and analytics data regarding your use of the Website and Service;
+  * Other types of raw data relating to how you interact with the Website and Service, for example, your browser information and session duration;
+  * Profile photos, business logos and trademarks (where you elect to upload them);
+  * Payment, banking and credit card information (stored via a third party payment provider); and
+  * All other information you provide on our Website or Service or otherwise;
+  * Please note that third-party service providers may have their own privacy policies on the collection and use of your information which either we or you provide them.
 
-While providing our commercial services to the general public, we do our best to protect the privacy of any children visiting our website. We do not wittingly gather personal data from anyone under the age of 13, and we reserve the right to remove any data deemed to violate our Privacy Policy. 
-
-### 4\. Use of the gathered data
-
-Each time you visit our website, our system automatically gathers and temporarily stores some data about your visit. For the most part, analyzing such data helps us to improve our services. For example, we may gather the following kinds of data: The website from which you came to our website;  
-The date and time of your visit;  
-Your IP address;  
-Your operating system and web browser;  
-The web pages that you visit on our site.  
-We reserve the right to share some of the collected information with our business partners.  
 
 
-### 5\. Web cookies
+**THE FUNCTIONALITY OF THE SERVICE PERMITS YOU, EITHER AS AN END-USER (PATIENT, CLIENT, CUSTOMER ETC.) OR A SERVICE PROVIDER, TO UPLOAD ADDITIONAL PERSONAL AND HEALTH INFORMATION. WHILE WE DO NOT REQUIRE SUCH INFORMATION OR USE SUCH INFORMATION, IF YOU ARE A SERVICE PROVIDER REQUESTING SUCH ADDITIONAL INFORMATION, YOU AGREE THAT YOU SHALL HAVE YOUR OWN PRIVACY POLICY IN PLACE WITH ALL PATIENTS, CLIENTS, CUSTOMERS OR OTHER USER YOU COLLECT OR RECORD INFORMATION FROM.**
 
-Basically, a cookie (also known as a web cookie and a browser cookie) is a special text file stored by a web browser on a user's hard disk. When you visit our website, our system may instruct your browser to create such a file so it can recognize you by that cookie next time you come to our site. The cookie also lets us track your use of our website, so that we can better know what you are interested in and refine our services accordingly. Though most web browsers let you reject some or all cookies, we suggest that you make sure that cookies from our website are accepted. 
+**TO THE EXTENT YOU (OR YOUR USERS) PROVIDE US WITH, OR UPLOAD DATA THAT INCLUDES THE PERSONAL OR HEALTH INFORMATION OF ANOTHER PERSON, YOU REPRESENT AND WARRANT THAT YOU HAVE THEIR AUTHORIZATION TO PROVIDE US WITH THAT INFORMATION IN ACCORDANCE WITH THIS PRIVACY POLICY AND OUR TERMS AND CONDITIONS OF USE. YOU FURTHER REPRESENT AND WARRANT THAT YOU WILL ONLY COLLECT, STORE AND PROVIDE US WITH THAT INFORMATION TO THE EXTENT IT IS LAWFUL FOR YOU TO DO SO.**
 
-### 6\. Generally, we do not disclose any data to third parties
+_Credit Card and Payment Processing Companies_
 
-While we do not sell, lease, license, or otherwise disclose data that we gather to any third parties (except our business partners with whom we jointly provide our services), we reserve the right to disclose any data if we deem it necessary to comply with laws, rights of property, copyrights, court orders, and so on. 
+We may also collect credit card and payment information from you via a third party payment provider. Their additional terms of service and privacy policies may apply to the collection and use of your personal information. If you have questions regarding our payment processor, please contact us.
 
-### 7\. We do not assume liability for any data disclosure
+_The Use of Your Personal Information_
 
-While doing our best to keep your data safe by enhancing our system, investing into security measures, and so on, we cannot guarantee that any data gathered is never disclosed to third parties or otherwise misused against our good intentions; therefore, we do not assume liability for the misuse of any data that we gather. Please note that if you buy any goods or services from another company, any information that you intentionally or unintentionally provide to that company will not be subject to our Privacy Policy. 
+The collection of your personal information, and the personal or health information of third parties you or they upload, may also be used to:
 
-### 8\. You consent to data gathering
+  * Facilitate the operation of the Website and Service, including for example to remind you appointments or provide to the relevant service provider;
+  * Verify your contact information;
+  * Promote our Website and Service offerings to you in various forms of communication and send or display informational and promotional materials from us to you;
+  * Support and improve the Website and Service we offer;
+  * Provide user support and communicate with you about your account or services we offer;
+  * Bill and collect money owed to us;
+  * Pursue available legal remedies to us and to prosecute or defend a court, arbitration or similar proceeding;
+  * Meet legal requirements;
+  * Seek the counsel of professional advisors, including lawyers;
+  * Enforce compliance with any terms and conditions and applicable law; and
+  * Enhance our Service offerings to you and offer you related products and services, whether by advertisements, electronic messages or otherwise.
 
-By starting to use our services, you agree that we can gather your data as per this Privacy Policy. We reserve the right to change the policy at any time without notifying you but only posting the updated version on our website, and we assume that you have accepted the changes if you continue to use our services after that. Please check our website from time to time for any changes to our Privacy Policy. 
+
+
+**TO THE EXTENT YOU USE OUR SERVICE TO COLLECT, STORE AND USE THE PERSONAL AND HEALTH INFORMATION OF A THIRD PARTY, YOU AGREE, REPRESENT AND WARRANT THAT YOU WILL ONLY COLLECT, STORE AND USE SUCH INFORMATION IF YOU HAVE THAT PERSON’S EXPRESS CONSENT AND TO THE EXTENT IT IS LAWFUL FOR YOU TO DO SO UNDER ANY APPLICABLE LAWS, RULES OR REGULATIONS.**
+
+_The Disclosure of Your Personal Information and Access to It_
+
+**WE RESERVE THE RIGHT TO PROVIDE YOUR CONTENT AND INFORMATION (INCLUDING BUT NOT LIMITED TO YOUR PERSONAL, HEALTH AND BUSINESS INFORMATION, AND THE PERSONAL OR HEALTH INFORMATION OF THIRD PARTIES) UPLOADED TO OR COLLECTED BY OUR WEBSITE, SERVICE OR OTHERWISE TO THIRD PARTIES, INCLUDING GOVERNMENTS OR GOVERNMENT AGENCIES, IF REQUIRED BY LAW (SUCH AS IN RESPONSE TO A SUBPOENA, COURT ORDER OR OTHER LEGAL PROCESS IN ANY JURISDICTION), AND TO COOPERATE WITH LAW ENFORCEMENT AUTHORITIES IN THE INVESTIGATION OF ANY CRIMINAL OR CIVIL MATTER.**
+
+**IF WE ARE REQUIRED BY LAW TO MAKE ANY DISCLOSURE OF SUCH INFORMATION, WE _MAY_ ( _BUT ARE NOT OBLIGATED TO_ ) PROVIDE YOU WITH WRITTEN NOTICE (TO THE EXTENT PERMITTED BY LAW) PRIOR TO SUCH DISCLOSURE SO THAT YOU MAY TAKE APPROPRIATE ACTION. **
+
+We may disclose your personal and business information (and the information of your patients and users uploaded to the Service) to our employees and contracted providers to use that information in connection with one or more of the purposes for which that personal information was collected.
+
+We operate the Websites and Service in conjunction with our independent contractors. Our independent contractors may have access to your personal information in providing services to us, or providing you with access to the Website and Service. We may use a variety of service providers, servers, employees in locations both inside and outside of Canada, which may make your personal information the subject of foreign laws and foreign legal proceedings.
+
+We may also disclose your personal information (and the personal or health information of the third parties who upload it) to our successors (if our business or the Service is acquired by another legal entity) or any assignee of our assets relating to the Website and Service.
+
+**WHILE WE TAKE REASONABLE MEASURES TO PROTECT PERSONAL AND HEALTH INFORMATION, YOU AGREE THAT, TO THE FULLEST EXTENT PERMITTED BY LAW, IN NO EVENT WILL WE, OUR AFFILIATES, OFFICERS, DIRECTORS, SHAREHOLDERS, EMPLOYEES, CONTRACTORS, AGENTS, SUPPLIERS, OR LICENSORS BE LIABLE, HOWSOEVER CAUSED, FOR THE LOSS OR THEFT OF YOUR PERSONAL OR HEALTH INFORMATION OR ANY DAMAGES CAUSED AS A RESULT THEREOF, SO LONG AS WE WERE NOT GROSSLY NEGLIGENT IN THE PROTECTION OF SAID INFORMATION.**
+
+_Retention of Your Personal Information_
+
+We keep your personal information for as long as it is required for the purpose for which it was collected. There is no single retention period applicable to the various types of personal information collected. If you would like us to delete your personal information, please contact us at cassio@intakeq.com.
+
+As a service provider, to the extent you are legally obligated to retain personal or health records of your patients, prospects or customers, you agree to comply with those obligations without reliance on our Service or us. You further agree that you are responsible for keeping your personal information, and the personal information of your users, clients, customers, patients, prospects and the like up to date and in conformity with all applicable laws, rules or regulations which govern you and us.
+
+_Inquiries_
+
+If you believe that we have not adhered to this Privacy Policy or would like to request an amendment to your personal information being held by us, please contact our Privacy Officer by e-mail sent to our privacy officer at hello@intakeq.com. Only amendments which can be verified by us will be accepted.
+
+_Use of Cookies_
+
+Our Website and Service may place a "cookie" in the browser files of your computer. Disabling cookies on your web browser may interrupt the proper use of the Website and Service.
