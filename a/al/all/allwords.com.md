@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the allwords.com privacy policy that was archived on 2016-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160401144813id_/http%3A//www.allwords.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwords.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407150257id_/http%3A//www.allwords.com/privacy.html) for the most accurate reproduction.*
 
 # allwords.com | Privacy Policy
 
