@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the kickoffpages.com privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526185034id_/https%3A//kickofflabs.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kickoffpages.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407075303id_/https%3A//kickofflabs.com/privacy-policy) for the most accurate reproduction.*
 
 # KickoffLabs LLC Privacy Policy - KickoffLabs
 
