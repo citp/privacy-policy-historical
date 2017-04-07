@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwantmyname.com privacy policy that was archived on 2016-01-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160123085337id_/https%3A//iwantmyname.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantmyname.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407162604id_/https%3A//iwantmyname.com/privacy) for the most accurate reproduction.*
 
 # Domain name privacy Policy
 
