@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the clickview.com.au privacy policy that was archived on 2016-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160411014823id_/http%3A//www.clickview.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clickview.com.au privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407213735id_/https%3A//www.clickview.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - ClickView
+# ClickView Privacy Policy
 
 ClickView Australia Pty Ltd (ACN 140 397 584) and its related and associated bodies corporate (“ **us, we, our** ”) maintain a policy of strict confidence concerning your (“ **you, your** ”) personal information (“ **Privacy Policy** ”). This Privacy Policy has been developed in accordance with the Privacy Act 1988 (Cth) (“ **Privacy Act** ”). The Privacy Policy applies to the collection, storage, use and dissemination of your personal information by us. The term “personal information”, as used in this Privacy Policy, is as defined under the Privacy Act. By accessing this site www.clickview.com.au (“ **Site** ”), the ClickView platform (“ **Platform** ”) or otherwise using our services you accept the terms of this Privacy Policy. This Privacy Policy applies to information provided to us whether via the Site, the Platform or any other means.
 
@@ -27,9 +27,11 @@ If someone other than you provides us with personal information about you that w
 
 ### Cookies
 
-When you visit the Site we may attach a "cookie" called CVONLINE2 to your computer's memory. This “cookie” is a small text file which assists us to store session information when you are logged into the Site and to facilitate seamless access between our different services. The cookie will expire after 1 day. 
+When you visit the Site we may attach a “cookie” called CVONLINE2 to your computer’s memory. This “cookie” is a small text file which assists us to store session information when you are logged into the Site and to facilitate seamless access between our different services. The cookie will expire after 1 day. 
 
-If you choose to do so, you should be able to configure your computer so that it disables “cookies” or does not accept them, however, this may impact the functionality of the Site. 
+If you choose to do so, you should be able to configure your computer so that it disables “cookies” or does not accept them, however, this may impact the functionality of the Site.
+
+We also use a third-party tool called Marketo for collecting data related to your visit to our Site. For more information, please visit: <http://legal.marketo.com/privacy>
 
 ### Use and disclosure of information
 
