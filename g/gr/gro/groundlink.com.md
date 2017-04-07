@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the groundlink.com privacy policy that was archived on 2016-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160318205337id_/https%3A//www.groundlink.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the groundlink.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408001245id_/https%3A//www.groundlink.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for Corporate Limo Service and Ground Transportation
 
@@ -18,7 +18,38 @@ By visiting GroundLink.com, you are accepting the practices described in this Pr
 
 Cookies are alphanumeric identifiers that we transfer to your computer's hard drive through your web browser to enable our systems to recognize your browser.
 
-The Help menu on the toolbar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of GroundLink.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our cookies, you will not be able to add items to your shopping cart, proceed to checkout, or use any GroundLink.com products and services that require you to sign in.
+The Help menu on the toolbar of most browsers will tell you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie or how to disable cookies altogether. Additionally, you can disable or delete similar data used by browser add-ons, such as Flash cookies, by changing the add-on's settings or visiting the website of its manufacturer. However, because cookies allow you to take advantage of some of GroundLink.com's essential features, we recommend that you leave them turned on. For instance, if you block or otherwise reject our necessary cookies, you will not be able to add items to your shopping cart, proceed to checkout, or use any GroundLink.com products and services that require you to sign in.
+
+Types of Cookies used by GroundLink?
+
+**Required Cookies** \- These cookies are required to enable core site functionality and are automatically enabled when you use this site.
+
+  * Remember log-in details and provide secure log-in
+  * Provide secure log-in
+  * Remember your task or transaction progress
+  * Remember how far you are through an order
+
+
+
+**Functional Cookies** \- These cookies enable additional functionality like saving preferences, allowing social interactions, and analyzing usage for site optimization.
+
+  * Analyze site usage to provide custom content
+  * Remember your log-in details
+  * Conduct analytics to optimize site functionality
+  * Remember what is in your shopping cart
+  * Allow third parties to provide social sharing tools
+  * Make sure the website looks consistent
+
+
+
+**Advertising and 3rd Party Cookies** \- These cookies are used by us and third parties to serve ads that are relevant to your interests.
+
+  * Provide you with interest-based offers or ads
+  * Allow you to share pages with social networks
+  * Allow you to post comments
+  * Serve ads relevant to your interests
+
+
 
 #### Does GroundLink.com Share the Information It Receives?
 
