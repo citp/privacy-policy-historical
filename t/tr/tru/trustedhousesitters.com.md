@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209001922id_/https%3A//www.trustedhousesitters.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedhousesitters.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407073839id_/https%3A//www.trustedhousesitters.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | TrustedHousesitters.com
 
@@ -8,7 +8,7 @@ We are committed to protecting and respecting your privacy. This Privacy Policy 
 
 This Privacy Policy sets out the basis on which any personal data we collect from you, or that you provide to us including personal information (together, "Information"), will be processed by us. Please read the following carefully to understand our practices regarding your personal Information and how we will treat it. If you do not agree with this Privacy Policy, please do not use our site.
 
-Data Controller: For the purposes of the Data Protection Act 1998 (the Act), the data controller is [TrustedHouseSitters](https://web.archive.org/web/20161209001922id_/) Limited.
+Data Controller: For the purposes of the Data Protection Act 1998 (the Act), the data controller is [TrustedHouseSitters](https://web.archive.org/web/20170407073839id_/) Limited.
 
 Information we may collection from you: Please do not submit your personal information to us if you are not agreeable to our collection of it. By using our site you are agreeing that we may collect and process the following Information about you (without limitation):
 
