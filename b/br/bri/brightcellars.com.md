@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the brightcellars.com privacy policy that was archived on 2016-07-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160731154214id_/https%3A//www.brightcellars.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the brightcellars.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408004755id_/https%3A//www.brightcellars.com/privacy) for the most accurate reproduction.*
 
 # Bright Cellars: the monthly wine club with the best wine for you
 
@@ -52,7 +52,7 @@ Our website, products and services are all directed to people who are at least 2
 
 ### Terms and Conditions
 
-Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at http://www.brightcellars.com/terms
+Please also visit our Terms and Conditions section establishing the use, disclaimers, and limitations of liability governing the use of our website at [brightcellars.com/terms](https://web.archive.org/terms/)
 
 ### Your Consent
 
@@ -65,7 +65,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 ### Contacting Us
 
 If there are any questions regarding this privacy policy you may contact us using the information below.  
-www.brightcellars.com  
-485 Massachusetts Avenue  
-Cambridge, MA 02139  
-concierge@brightcellars.com
+[brightcellars.com](https://web.archive.org/)  
+333 N Plankinton Avenue, Suite 208  
+Milwaukee, WI 53203  
+[concierge@brightcellars.com](mailto:concierge@brightcellars.com)
