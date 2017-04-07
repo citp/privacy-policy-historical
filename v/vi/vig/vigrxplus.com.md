@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vigrxplus.com privacy policy that was archived on 2016-02-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160206171828id_/https%3A//www.vigrxplus.com/emailpriv.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vigrxplus.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407140415id_/https%3A//www.vigrxplus.com/emailpriv.html) for the most accurate reproduction.*
 
 # VigRX Plus Email and Privacy Policy
 
@@ -50,16 +50,10 @@ or
 >  Victoria, British Columbia  
 >  Canada V9A 6X5 
 
-Copyright ©2016 Leading Edge Marketing. All rights reserved.
+Copyright ©2017 Leading Edge Marketing. All rights reserved.
 
-Our promise to you is simple: If you're not thrilled with the difference VigRX Plus™ makes in your sex life, with: 
+Our promise to you is simple: If you're not thrilled with the difference VigRX Plus® makes in your sex life...
 
-  * Improved sexual performance!
-  * Stamina and sex drive of a healthy teenager!
-  * Orgasms so intense, you will be shocked... then thrilled!
+#### ... Then simply send us your empty VigRX Plus® containers in the first 67 days and we will refund your entire purchase price -- no questions asked!
 
-
-
-#### ... Then simply send us your empty VigRX Plus™ containers in the first 67 days and we will refund your entire purchase price -- no questions asked!
-
-[](https://web.archive.org/web/20160206171828id_/https%3A//www.vigrxplus.com/order.html)
+[](https://web.archive.org/order.html)
