@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2016-10-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161022095344id_/http%3A//www.careers.govt.nz/about-careers-nz/about-this-site/website-copyright-privacy-disclaimers) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the careers.govt.nz privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407101142id_/https%3A//www.careers.govt.nz/about-careers-nz/about-this-site/website-copyright-privacy-disclaimers) for the most accurate reproduction.*
 
 # Website copyright, privacy and disclaimers
 
@@ -44,7 +44,7 @@ The content on this website is continually updated to ensure our information and
 
 We make a lot of our job and industry information available for use via a free API (application program interface). 
 
-  * [Find out more about our API](http://www.careers.govt.nz/about-careers-nz/about-this-site/api-overview/)
+  * [Find out more about our API](https://www.careers.govt.nz/about-careers-nz/about-this-site/api-overview/)
 
 
 
@@ -129,7 +129,7 @@ You are entitled to access, request or correct the personal information we hold 
 > PO Box 9446  
 > Wellington
 
-  * [Careers New Zealand contact details](http://www.careers.govt.nz/about-careers-nz/contact-us/)
+  * [Careers New Zealand contact details](https://www.careers.govt.nz/about-careers-nz/contact-us/)
 
 
 
@@ -235,8 +235,8 @@ A number of jobs, such as some medical jobs, are only advertised on specialist
 
 We value your comments and opinions. If you have comments, questions or complaints about any of our services or website policies please contact Careers New Zealand.
 
-  * [Contact Careers New Zealand](http://www.careers.govt.nz/about-careers-nz/contact-us/)
+  * [Contact Careers New Zealand](https://www.careers.govt.nz/about-careers-nz/contact-us/)
 
 
 
-Updated 19 Oct 2015
+Updated 3 Nov 2016
