@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2015-06-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150627171500id_/https%3A//www.thelotter.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thelotter.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408010733id_/https%3A//www.thelotter.com/privacy-policy) for the most accurate reproduction.*
 
 # Lottery Rules | Online Lottery Policy | theLotter
 
@@ -75,7 +75,7 @@ We may use your Personal Information to contact you in response to a "contact us
 
 3.4.
 
-If you chose to invite your Friend(s) to the Site, we will use the contact information that you provide us to automatically send your Friend(s) a one-time email inviting them to visit the Site, register a Site account, and participate in our services. The email that we send will include opt-out information to avoid receiving future emails from us. We will include your name in the invitation email. We store this information for the sole purpose of sending the one-time invitation email and tracking the success of whether your Friend registers a Site account and purchases a lottery ticket via the site. Your Friend may (i) contact us at [support@theLotter.com](mailto:service@theLotter.com) to request that we do not store this information; and/or (ii) choose to avoid receiving future invitation emails from us by following the opt-out instructions within the invitation email.
+If you chose to invite your Friend(s) to the Site, we will use the contact information that you provide us to automatically send your Friend(s) a one-time email inviting them to visit the Site, register a Site account, and participate in our services. The email that we send will include opt-out information to avoid receiving future emails from us. We will include your name in the invitation email. We store this information for the sole purpose of sending the one-time invitation email and tracking the success of whether your Friend registers a Site account and purchases a lottery ticket via the site. Your Friend may (i) [contact us](https://www.thelotter.com/contact-us/) to request that we do not store this information; and/or (ii) choose to avoid receiving future invitation emails from us by following the opt-out instructions within the invitation email.
 
 3.5.
 
@@ -139,7 +139,7 @@ The Site is not structured to attract individuals under the age of 18. According
 
 11.1. 
 
-The security of Personal Information is important to us. We follow generally accepted industry standards, including the use of appropriate administrative, physical and technical safeguards, to protect the Personal Information that we collect from you. To the extent that we collect sensitive Personal Information from you (for example, your credit card number or other financial Personal Information), we use SSL encryption to protect that information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. If you have any questions about security on the Site, you can contact us a [support@theLotter.com](mailto:service@theLotter.com).
+The security of Personal Information is important to us. We follow generally accepted industry standards, including the use of appropriate administrative, physical and technical safeguards, to protect the Personal Information that we collect from you. To the extent that we collect sensitive Personal Information from you (for example, your credit card number or other financial Personal Information), we use SSL encryption to protect that information. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, while we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security. If you have any questions about security on the Site, you can [contact us](https://www.thelotter.com/contact-us/).
 
   12. In the Event of Merger, Sale, or Bankruptcy. 
 
@@ -151,13 +151,13 @@ In the event that theLotter is acquired by or merged with a third party entity, 
 
 13.1. 
 
-California Civil Code Section 1798.83 permits customers of theLotter who are California residents to request certain information regarding its disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please send an email to [support@theLotter.com](mailto:service@theLotter.com). Please note that we are only required to respond to one request per customer each year. 
+California Civil Code Section 1798.83 permits customers of theLotter who are California residents to request certain information regarding its disclosure of Personal Information to third parties for their direct marketing purposes. To make such a request, please [contact us](https://www.thelotter.com/contact-us/). Please note that we are only required to respond to one request per customer each year. 
 
   14. Commitment. 
 
 14.1. 
 
-We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and we are constantly evolving our Site to meet these demands. If you have any comments or questions regarding our Privacy Policy, please contact us at [support@theLotter.com](mailto:service@theLotter.com). 
+We are committed to protecting your privacy. Protecting your privacy online is an evolving area, and we are constantly evolving our Site to meet these demands. If you have any comments or questions regarding our Privacy Policy, please [contact us](https://www.thelotter.com/contact-us/). 
 
   15. Facebook Connect. 
 
