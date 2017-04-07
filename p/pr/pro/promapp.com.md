@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the promapp.com privacy policy that was archived on 2016-11-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161110051523id_/http%3A//www.promapp.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the promapp.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407021307id_/https%3A//www.promapp.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
