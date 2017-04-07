@@ -1,18 +1,25 @@
-> *The following text is extracted and transformed from the i-to-i.com privacy policy that was archived on 2016-12-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161205022430id_/http%3A//www.i-to-i.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the i-to-i.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407051708id_/http%3A//www.i-to-i.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Our Privacy Policy | i-to-i
 
 The Teach and Travel Group Limited’s Privacy Policy sets out what information we collect, how we collect it, and what we do with it. Our Privacy Policy applies to you and is available on our website and through other channels. In all your dealings with us you must ensure that others you represent are aware of the content of our Privacy Policy and consent to your acting on their behalf.
 
-**INFORMATION ABOUT YOU**
+  * [Appeals policy](http://static.i-to-i.com/docs/privacy-policy/appeals-policy-and-procedure-updated-nov-16.pdf)
+  * [Malpractice and Maladministration policy](http://static.i-to-i.com/docs/privacy-policy/malpractice-and-maladministration-policy-updated-nov-16.pdf)
+  * [Staff Recruitment](http://static.i-to-i.com/docs/privacy-policy/staff-recruitment-induction-and-cpd-updated-311016.pdf)
+  * [Equality policy](http://static.i-to-i.com/docs/privacy-policy/tatg-equality-policy-nov-2016.pdf).
 
-**Your Information**
+
+
+## INFORMATION ABOUT YOU
+
+### Your Information
 
 This refers to a combination of information such as your name, contact details, travel preferences and special needs/disabilities/dietary requirements that you supply us or is supplied to us, including your social preferences, interests and activities and any information about other persons you represent (such as those on your booking). Your information is collected when you request information from us, contact us (and vice versa), make a booking, use our website(s)/apps, link to or from our website(s)/apps, connect with us via social media and any other engagement we or our business partners have with you.
 
 We will update your information whenever we can to keep it current, accurate and complete.
 
-**Our Use of Your Information**
+### Our Use of Your Information
 
 (1) For the purpose of providing you with our services, including your flight, holiday, security, incident/accident management or insurance, etc., we may disclose and process your information outside the UK/EEA. In order for you to travel abroad, it may be **mandatory** (as required by government authorities at the point(s) of departure and/or destination) to disclose and process your information for immigration, border control, security and anti-terrorism purposes, or any other purposes which they determine appropriate. Some countries will only permit travel if you provide your advance passenger data (for example Caricom API and US secure flight data). These requirements may differ depending on your destination and you are advised to check. Even if not mandatory, we may exercise our discretion to assist where appropriate.
 
@@ -22,7 +29,7 @@ We will update your information whenever we can to keep it current, accurate and
 
 _**If you do not agree to Our Use of Your Information above, we cannot engage/do business with you or accept your booking.**_
 
-**Marketing Material**
+## Marketing Material
 
 (1) Using your information, we may from time to time contact you with or make available to you (directly or indirectly) information on offers of goods and services, brochures, new products, forthcoming events or competitions from our holiday divisions and our group companies. We will tailor the information you receive or see; this will enable us to make available to you more personalised and relevant communications. We may use innovative technologies and work with business partners to achieve this.
 
@@ -32,32 +39,32 @@ _**If you do not agree to Our Use of Your Information above, we cannot engage/do
 
 (4) If you do not wish to receive such information or would like to change your preference, please refer to point (2) of "Your Rights" below.
 
-**Your Rights**
+## Your Rights
 
 (1) On completing our Data Subject Access Request form, you are entitled to a copy of the information we hold about you (for a £10 fee) and to correct any inaccuracies.
 
 (2) You have the right to ask in writing not to receive direct marketing material from us. If available, you can amend your previous preference on our website(s), use our "unsubscribe email", opt-out of personalised emails or refer to our literature containing instructions. Once properly notified by you, we will take steps to stop using your information in this way.
 
-(3) For a list of relevant brands, please send us your request. Please write to The Teach and Travel Group Limited, Woodside House, 261 Low Lane, Horsforth, Leeds, LS18 5NY, United Kingdom.
+(3) For a list of relevant brands, please send us your request. Please write to The Teach and Travel Group Limited, Suite 2, Chantry House, Victoria Road, Leeds, West Yorkshire, LS5 3JB, United Kingdom.
 
-**Foreign Controls**
+## Foreign Controls
 
 Outside the European Economic Area (EEA), data protection controls may not be as strong as the legal requirements in this country.
 
-**USE OF TOOLS/"COOKIES" AND LINKS TO OTHER WEBSITES**
+## USE OF TOOLS/"COOKIES" AND LINKS TO OTHER WEBSITES
 
 If our contact and dealing with you is via our website(s) or other e-platforms where our advertising is displayed, cookies may be used. To find out more about the types of cookies on our website(s), how we use cookies, to disable them or to change your preference and more, please refer to the information provided on our website(s). Other e-platforms may have different options and instructions. **By using our website(s), you consent to our use of cookies.**
 
 Our website(s) may contain links to third party websites or micro-sites not controlled or owned by us. For example, reference sites or ancillary products and services sites or websites owned by our sister companies. It is your responsibility to check the status of these sites before using them. Please read their applicable terms and conditions, etc. carefully.
 
-**MONITORING**
+## MONITORING
 
 To ensure that we carry out your instructions accurately, improve our service and for security and fraud, we may review, monitor and/or record: (1) telephone calls; (2) activities using CCTV in and around our premises; (3) transactions and activities at all points of contact; and (4) web, social media and app traffic, activities, etc. All recordings and derivative materials are and shall remain our sole property.
 
-**SECURITY STATEMENT**
+## SECURITY STATEMENT
 
 We have taken all reasonable steps and have in place appropriate security measures to protect your information.
 
-**CHANGES TO THIS POLICY**
+## CHANGES TO THIS POLICY
 
 Any changes to this Policy will be either posted on our website, brochure and/or made available on request.
