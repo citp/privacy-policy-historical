@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the simpletax.ca privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203025341id_/https%3A//simpletax.ca/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the simpletax.ca privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407132712id_/http%3A//simpletax.ca/privacy) for the most accurate reproduction.*
 
 # SimpleTax: Privacy Policy
 
@@ -26,7 +26,7 @@ You can delete your account, and all your data, at any time.
 
 ### SSL/TLS and HSTS
 
-The connection between you and our servers uses high-grade encryption. We use HTTPS across all our services with an Extended Validation (EV) certificate from [DigiCert](https://www.digicert.com/). We have an [A+ rating](https://www.ssllabs.com/ssltest/analyze.html?d=simpletax.ca&hideResults=on&latest) from SSL Labs. We also use [HSTS](http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) to ensure your browser only uses HTTPS. We are on the HSTS preloaded lists for both [Chrome](https://code.google.com/p/chromium/codesearch#chromium/src/net/http/transport_security_state_static.json) and [Firefox](http://mxr.mozilla.org/mozilla-central/source/security/manager/boot/src/nsSTSPreloadList.inc).
+The connection between you and our servers uses high-grade encryption. We use HTTPS across all our services with an Extended Validation (EV) certificate from [DigiCert](https://www.digicert.com/). We have an [A+ rating](https://www.ssllabs.com/ssltest/analyze.html?d=simpletax.ca&hideResults=on&latest) from SSL Labs. We also use [HSTS](http://en.wikipedia.org/wiki/HTTP_Strict_Transport_Security) to ensure your browser only uses HTTPS. We are on the HSTS preloaded lists for both Chrome and Firefox.
 
 ### Cookies
 
@@ -52,6 +52,6 @@ We collect diagnostic and usage data to improve SimpleTax and ensure everything 
 
 ### Questions or Concerns
 
-Should you have any questions or concerns, or would simply like to better understand the way we do things at SimpleTax, please don't hesitate to contact us.
+Should you have any questions or concerns, or would simply like to better understand the way we do things at SimpleTax, please don't hesitate to [contact us](mailto:hello@simpletax.ca).
 
 We last updated our Privacy Policy on March 2, 2016.
