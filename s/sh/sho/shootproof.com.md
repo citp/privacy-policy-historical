@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the shootproof.com privacy policy that was archived on 2015-10-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151017222605id_/https%3A//www.shootproof.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the shootproof.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407042301id_/https%3A//www.shootproof.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ShootProof
 
