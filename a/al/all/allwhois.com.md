@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the allwhois.com privacy policy that was archived on 2016-10-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161014130121id_/https%3A//www.markmonitor.com/legal/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the allwhois.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407205032id_/https%3A//www.markmonitor.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # MarkMonitor | Legal - Privacy Policy
 
 #### Privacy Statement
 
-This Privacy Statement relates to the online information collection and use practices of our Web Site located at [www.markmonitor.com](https://web.archive.org/index.php) and our MarkMonitor Mobile App (together the "Web Site"), and not to any subdomains of our Web Site. We recognize that many visitors and users of the Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
+This Privacy Statement relates to the online information collection and use practices of our Web Site located at [www.markmonitor.com](https://www.markmonitor.com/index.php) and our MarkMonitor Mobile App (together the "Web Site"), and not to any subdomains of our Web Site. We recognize that many visitors and users of the Web Site are concerned about the information they provide to us, and how we treat that information. This Privacy Statement, which may be updated from time to time, has been developed to address those concerns.
 
 Your use of this Web Site indicates to us that you have read and accept our privacy practices, as outlined in this Privacy Statement. If you have any questions or concerns regarding this Privacy Statement, please contact: [privacy.inquiries@markmonitor.com](mailto:privacy.inquiries@markmonitor.com).
 
 #### What Information About You Do We Collect?
 
-When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services. 
+When you visit our Web Site, you may provide us with two types of information: (1) personally identifiable information that you knowingly choose to disclose, which is collected on an individual basis, and (2) general user information that does not contain personally identifiable information, which is collected on an aggregate basis as you browse the Web Site. In some cases, if you choose not to provide us with requested information, you may not be able to access all of our Web Site's content or services.
 
 #### Personally Identifiable Information You Choose to Provide
 
-We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. We also request your name and e-mail address each time you contact us by clicking on the "Request Contact" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications. 
+We may ask for certain personal information from you for the purpose of providing to you content and/or services that you request. We also request your name and e-mail address each time you contact us by clicking on the "Request Contact" link. We may retain a record of users who have contacted us in order to respond properly to questions or concerns and for purposes of future communications.
 
 #### Non-Personally Identifiable Information We Collect
 
@@ -24,17 +24,17 @@ You can, of course, disable cookies on your computer by indicating this in the p
 
 _Third Party Services_ : We may use services hosted by third parties, such as Google Analytics, to assist in providing our services and to help us understand how our website is used. These services may collect information sent by a browser as part of a web page request, including IP addresses or cookies. If these third party services collect information, they do so anonymously and in the aggregate to provide information helpful to us such as website trends, without identifying individual visitors. Please see "Cookies" in the section above for information on how you can control the use of cookies on your computer.
 
-#### How Do We Use the Information We Collect? 
+#### How Do We Use the Information We Collect?
 
-We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive information from us, you may send us an email at [marketing@markmonitor.com](mailto:marketing@markmonitor.com) with ‘unsubscribe’ in the subject line; or follow the "unsubscribe" link provided in the e-mail that you receive. Please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site. 
+We use your personally identifiable information to provide you with the information or content that you have requested, and, in some cases, to contact you about our programs, products, features or services. If you no longer wish to receive information from us, you may send us an email at [marketing@markmonitor.com](mailto:marketing@markmonitor.com) with ‘unsubscribe’ in the subject line; or follow the "unsubscribe" link provided in the e-mail that you receive. Please be aware that your ability to opt out from receiving marketing and promotional materials does not change our right to contact you regarding your use of our Web Site.
 
-We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer. 
+We use non-identifying information collected on our Web Site in the aggregate to better understand your use of the Web Site and to enhance your enjoyment and experience. For example, we may use the information to improve the design and content of our Web Site or to analyze the programs and services that we offer.
 
-We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement. 
+We may employ other companies and individuals to perform functions on our behalf. Our employees, agents and contractors who have access to personally identifiable information are required to protect the information in a manner that is consistent with this Privacy Statement.
 
-We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose. 
+We may provide access to your personally identifiable information when legally required to do so, to cooperate with police investigations or other legal proceedings, to protect against misuse or unauthorized use of our Web Site, to limit our legal liability and protect our rights, or to protect the rights and safety of visitors to this Web Site or the public. In those instances, the information is provided only for that limited purpose.
 
-We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses. 
+We will not share your personally identifiable information in ways unrelated to those described above without providing you with an opportunity to opt out of such use or otherwise prohibit such unrelated uses.
 
 #### Privacy Protections for Children Using the Internet
 
@@ -42,16 +42,16 @@ Protecting children's privacy is important to us. For that reason, we do not col
 
 #### Data Security
 
-We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk. 
+We take reasonable steps to maintain the security of the personally identifiable information that we collect, including limiting the number of people who have physical access to our database servers, as well as installing electronic security systems that guard against unauthorized access. However, no data transmission over the Internet can be guaranteed to be completely secure. Accordingly, we cannot ensure or warrant the security of any information that you transmit to us, so you do so at your own risk.
 
 #### Consent to Transfer
 
-This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States and/or third countries. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer. 
+This Web Site is operated in the United States. If you are located outside of the United States, please be aware that any information you provide to us will be transferred to the United States and/or third countries. By using our Web Site, participating in any of our services and/or providing us with your information, you consent to this transfer.
 
 #### Links
 
-This Web Site contains links to third party sites. Please be aware that MarkMonitor is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson Reuters sites may differ from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site. 
+This Web Site contains links to third party sites. Please be aware that MarkMonitor is not responsible for the privacy practices of any third party sites. Please also be aware that the privacy policies of other Thomson Reuters sites may differ from the privacy policy of this Web Site. Therefore, we encourage our users to read the privacy statement of each and every Web site that collects personally identifiable information. This Privacy Statement applies solely to information collected by this Web Site.
 
-#### Revision Date 
+#### Revision Date
 
-This Privacy Statement was last revised in March 2015. 
+This Privacy Statement was last revised in March 2015.
