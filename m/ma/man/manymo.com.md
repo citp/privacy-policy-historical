@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the manymo.com privacy policy that was archived on 2016-03-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160328062914id_/https%3A//www.manymo.com/privacy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the manymo.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407025803id_/https%3A//www.manymo.com/privacy.pdf) for the most accurate reproduction.*
 
 # - 1 -
 
