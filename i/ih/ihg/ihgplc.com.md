@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ihgplc.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020190343id_/https%3A//www.ihgplc.com/en/services/privacy-and-cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ihgplc.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407042621id_/https%3A//www.ihgplc.com/en/services/privacy-and-cookie-policy) for the most accurate reproduction.*
 
 # Privacy and Cookie Policy - Services - InterContinental Hotels Group PLC
 
@@ -107,7 +107,7 @@ The website may contain links to other sites which are outside our control and n
 
 ## Your rights
 
-InterContinental Hotels Group PLC is required to comply with the provisions of the Data Protection Act 1998. This provides amongst other things that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should be kept up to date, where necessary, and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people. You have the right to see what is held about you and for any inaccuracies to be corrected by [contacting us directly](https://web.archive.org/en/contact-us/website-feedback).
+InterContinental Hotels Group PLC is required to comply with the provisions of the Data Protection Act 1998. This provides amongst other things that the data we hold about you should be processed lawfully and fairly. It should be accurate, relevant and not excessive. The information should be kept up to date, where necessary, and not retained for longer than is necessary. It should be kept securely to prevent unauthorised access by other people. You have the right to see what is held about you and for any inaccuracies to be corrected by [contacting us directly](https://web.archive.org/contact-us/website-feedback).
 
 ## Changes to our policy 
 
