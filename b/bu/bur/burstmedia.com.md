@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209123113id_/https%3A//www.rhythmone.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the burstmedia.com privacy policy that was archived on 2017-04-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170407035900id_/https%3A//www.rhythmone.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | RhythmOne
 
