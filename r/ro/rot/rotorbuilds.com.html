@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the rotorbuilds.com privacy policy that was archived on 2016-12-06.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161206091322id_/http%3A//rotorbuilds.com/privacy.php) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the rotorbuilds.com privacy policy that was archived on 2017-04-08.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170408024438id_/http%3A//rotorbuilds.com/privacy.php) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" xmlns:fb="http://ogp.me/ns/fb#"><head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
@@ -25,7 +25,7 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/select2/4.0.3/css/select2.min.css">
 
 <link type="text/css" href="/min/index.php?f=/theme/jquery-ui.css,/codemirror/lib/codemirror.css,/codemirror/theme/mdn-like.css,/javascript/lightGallery/css/lightgallery.min.css,/styles/css/style.css,/styles/icomoon.css" rel="StyleSheet">
-<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600,700|Roboto+Condensed:300,400,700" rel="stylesheet">
+<link href="https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,400,300,600,700|Roboto+Condensed:300,400,700|Droid+Sans+Mono" rel="stylesheet">
 
 <!--
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/2.1.4/jquery.min.js"></script>
@@ -69,22 +69,31 @@
 </head>
 <body class="">
 
+
 	<div class="offcanvas-wrapper">
 
 	<nav class="offcanvas st-menu st-left">
 		<ul class="nav navmenu-nav">
-			<li><a href="/"><i class="icon-home2"></i>Home</a></li>
-			<li><a href="/explore"><i class="icon-heart"></i>Featured Builds</a></li>
-			<li><a href="/planned"><i class="icon-ei-pencil"></i>Planned Builds</a></li>
-			<li><a href="/builds"><i class="icon-paper-plane"></i>Latest Builds</a></li>
+			<li><a href="/builds">Builds</a>
+			<ul>
+			<li><a href="/explore">Featured</a></li>
+			<li><a href="/planned">Mockups</a></li>
+			<li><a href="/builds">Latest</a></li>
+			</ul>
+			</li>
 			<li>
-            	<a data-toggle="collapse" href="#parts-menu"><i class="icon-tools"></i>Parts</a>
-                <ul id="parts-menu" class="collapse">
+				<a href="/parts">Parts</a>
+                <ul>
 					<li><a href="/parts">All Parts</a></li><li><a href="/parts/frame">Frames</a></li><li><a href="/parts/fc">Flight Controllers</a></li><li><a href="/parts/esc">ESCs</a></li><li><a href="/parts/motor">Motors</a></li><li><a href="/parts/prop">Propellers</a></li><li><a href="/parts/fpvcamera">FPV Cameras</a></li><li><a href="/parts/tx">FPV Transmitters</a></li><li><a href="/parts/antenna">Antennas</a></li><li><a href="/parts/rx">Receivers</a></li><li><a href="/parts/battery">Batteries</a></li><li><a href="/parts/pdb">Power Distribution</a></li><li><a href="/parts/osd">OSD</a></li><li><a href="/parts/misc">Misc Parts</a></li>
                	</ul>
 			</li>
-			<li><a href="/discussions"><i class="icon-chat"></i>Latest Discussions</a></li>
-			<li><a href="/builders"><i class="icon-cup"></i>Builder Scoreboard</a></li>
+			<li><a href="/follow/activities">Community</a>
+				<ul>
+					<li><a href="/follow/activities">Activity Stream</a></li>
+					<li><a href="/discussions">Latest Discussions</a></li>
+					<li><a href="/builders">Leaderboard</a></li>
+				</ul>
+			</li>
 		</ul>
 
 		<form action="/search.php" method="get" class="navbar-search">
@@ -109,12 +118,12 @@
 			<a href="/profile//"><img src=""><h2></h2></a>
 		</div>
 		<ul class="nav navmenu-nav">
-			<li><a href="/profile//">View profile</a></li>
-			<li><a href="/profile//builds">My Fleet</a></li>
+			<li><a href="/profile//">My Profile</a></li>
+			<!-- <li><a href='/profile//builds'>My Fleet</a></li>	-->
 			<li><a href="/account">Account</a></li>
 			<!-- <li><a href='/statistics/'>Statistics</a></li>	-->
 			<li><a href="/profile//following/">Following</a></li>
-			<li><a href="/follow/finder/">People you Know</a></li>
+			<!-- <li><a href='/follow/finder/'>People you Know</a></li> -->
 			<li><a href="/logout">Sign out</a></li>
 		</ul>
 	</div>
@@ -143,7 +152,7 @@
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Builds <span class="caret"></span></a>
                 	<ul class="dropdown-menu fade">
                   		<li><a href="/explore">Featured</a></li>
-                  		<li><a href="/planned">Planned</a></li>
+                  		<li><a href="/planned">Mockups</a></li>
                   		<li><a href="/builds">Latest</a></li>
                 	</ul>
 				</li>
@@ -156,9 +165,8 @@
 				<li class="dropdown ">
 					<a href="#" class="dropdown-toggle" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Community <span class="caret"></span></a>
                 	<ul class="dropdown-menu fade">
-						<li><a href="/follow/activities">Activity Stream</a></li>
 						<li><a href="/discussions">Discussions</a></li>
-						<li><a href="/builders">Scoreboard</a></li>
+						<li><a href="/builders">Leaderboard</a></li>
                 	</ul>
 				</li>
 			</ul>
