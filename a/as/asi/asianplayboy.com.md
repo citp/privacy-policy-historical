@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the asianplayboy.com privacy policy that was archived on 2016-07-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160704171407id_/http%3A//www.abcsofattraction.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the asianplayboy.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408183328id_/http%3A//www.abcsofattraction.com/privacy-policy) for the most accurate reproduction.*
 
 # ABCs Of Attraction | Privacy Policy
 
@@ -136,5 +136,5 @@ efforts to promptly determine and remedy the problem.
 
 Need help?    
 Call our full time Customer Service Representative tollfree at   
-1-888-689-GAME (4263)  
-Monday-Friday 12pm-8pm PST
+1-323-317-2431  
+Monday-Friday 12pm-5pm PST
