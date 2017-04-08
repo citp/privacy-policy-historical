@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the companiesoffice.govt.nz privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329173609id_/https%3A//www.business.govt.nz/companies/resolveUid/8754063355cf7c570aaa4b90cc7fd436) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the companiesoffice.govt.nz privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408155133id_/https%3A//www.companiesoffice.govt.nz/companies/resolveUid/8754063355cf7c570aaa4b90cc7fd436) for the most accurate reproduction.*
 
 # Privacy statement | Companies Office The Official Site
 
@@ -24,7 +24,7 @@ MBIE may ask or require you (including where required by legislation administere
 
 If you wish to apply for a job with us, you will be required to register your details with us in order to create an account, maintain a profile so we can match your skills and preferences against upcoming positions, apply for positions, sign up for and receive alerts, and manage any applications.
 
-[Top](https://www.business.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
+[Top](https://www.companiesoffice.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
 
 ### Holding of information
 
@@ -46,7 +46,7 @@ MBIE will only retain personal information as long as it is required for the pur
 
 Where any information provided (which may include personal information) to or through this site constitute public records, it will be retained to the extent required by the Public Records Act 2005. MBIE may also be required to disclose information under the Official Information Act 1982 or to a Parliamentary Select Committee or Parliament in response to a Parliamentary Question.
 
- [Top](https://www.business.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
+ [Top](https://www.companiesoffice.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
 
 ## Registered users
 
@@ -75,7 +75,7 @@ We understand your personal information is important to you, and we are committe
 
 Unless we have lawful reason for withholding this information, it will be made available if you request access to a transcript of your call by phoning 0508 266 726 and asking for the Privacy Officer.
 
- [Top](https://www.business.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
+ [Top](https://www.companiesoffice.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
 
 ## Rights of access and correction
 
@@ -102,7 +102,7 @@ Auckland 1142.
 
 For more information on the privacy laws in New Zealand and contact details for the Office of the Privacy Commissioner, please visit the [Privacy Commissioner's website](https://opcwebsite.cwp.govt.nz/ "\[link to Privacy Commissioner's website\]. ").
 
- [Top](https://www.business.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
+ [Top](https://www.companiesoffice.govt.nz/companies/about-this-site/privacy-statement# "\[bookmark\] Back to top. ")
 
 ## Statistical information and cookies
 
@@ -133,3 +133,8 @@ MBIE does not use cookies on this website to gather any personally identifiable 
 You can read Google’s privacy statement, and access a Google Analytics opt-out tool, at the [Google Privacy Center](http://www.google.com/intl/en/policies/privacy/ "\[link to Google website\] Privacy and terms. ").
 
 You can manually disable cookies at any time - check your browser's 'Help' to find out how (disabling cookies will not affect your ability to use this website).
+
+## Security
+
+MBIE websites have security measures in place to prevent the loss, misuse and alteration of information under our control. In order to maintain the cyber security of MBIE systems and information, MBIE systems are subject to ongoing monitoring (including activity logging), analysis and auditing. We may use information about your use of our websites and other IT systems to prevent unauthorised access or attacks on these systems or to resolve such events. We may use this information even if you are not involved in such activity. MBIE may utilise services from one or more third party suppliers to monitor or maintain the cyber security of its systems and information. These third party suppliers will have access to monitoring and logging information as well as information processed on MBIE websites and other IT systems.  
+ 
