@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the girlshideout.com privacy policy that was archived on 2016-09-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160927223406id_/http%3A//girlshideout.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the girlshideout.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408191628id_/http%3A//girlshideout.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | GirlsHideout
 
