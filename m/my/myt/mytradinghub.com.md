@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mytradinghub.com privacy policy that was archived on 2016-10-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161013194652id_/http%3A//www.mytradinghub.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mytradinghub.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408171447id_/http%3A//www.mytradinghub.com/privacy-policy) for the most accurate reproduction.*
 
 # None
 
