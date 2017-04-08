@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the networkgeneral.com privacy policy that was archived on 2016-06-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160623222049id_/http%3A//www.netscout.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the networkgeneral.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408222413id_/https%3A//www.netscout.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | NetScout.com
 
@@ -19,7 +19,7 @@ NetScout’s Site may also provide on-line newsgroups, chat forums and blogs for
 NetScout does not collect personal information when you visit NetScout’s Site unless you choose to provide it to NetScout.
 
 **How Does NetScout Use Personal Information?  
-**The personal information that NetScout collects allows us to keep you posted on NetScout’s latest product announcements, software updates, and upcoming events. It also helps us to improve our services, content, and advertising.  If you don’t want to be on our mailing list, you can opt out anytime by emailing [emarketing@netscout.com](mailto:emarketing@netscout.com) with the subject of Unsubscribe.   We also use personal information to help us develop, deliver, and improve our products, services, content, and advertising or we may use information submitted as part of a job application or inquiry to contact you as part of the recruiting and hiring process.
+**The personal information that NetScout collects allows us to keep you posted on NetScout’s latest product announcements, software updates, and upcoming events. It also helps us to improve our services, content, and advertising.  If you don’t want to be on our mailing list, you can opt out anytime at <http://pages.netscout.com/Unsubscribe.html>. We also use personal information to help us develop, deliver, and improve our products, services, content, and advertising or we may use information submitted as part of a job application or inquiry to contact you as part of the recruiting and hiring process.
 
 From time to time, we may use your personal information to send important notices, such as communications about purchases and changes to our terms, conditions, and policies. Because this information is important to your interaction with NetScout, you may not opt out of receiving these communications.
 
@@ -71,10 +71,10 @@ You can always unsubscribe or choose not to receive promotional information from
 
 NetScout strives to keep your personal information accurate. We have implemented technology, management processes and policies to maintain data integrity. We will provide you with access to your information when reasonable, or in accordance with relevant laws, including making reasonable effort to provide you with online access and the opportunity to change your information. To protect your privacy and security, we will take steps to verify your identity before granting access or making changes to your data. Requests to delete personal information are subject to any applicable legal and ethical reporting or document retention obligations. To access and/or correct information, you can do so online or notify us via the appropriate method below.
 
-NetScout Systems, Inc.: [mbiso@netscout.com](mailto:mbiso@netscout.com), 1-800-357-7666, 978-614,4000 or NetScout Systems, Inc., Attn: Information Security Office, 310 Littleton Road, Westford, MA, USA, 01866. Please include your name, title, company name, and e-mail address.
+NetScout Systems, Inc.: [mbiso@netscout.com](mailto:mbiso@netscout.com), 1-800-357-7666, 978-614-4000 or NetScout Systems, Inc., Attn: Information Security Office, 310 Littleton Road, Westford, MA, USA, 01866. Please include your name, title, company name, and e-mail address.
 
-**Unsubscribing  
-**If you do not want NetScout to contact you for marketing purposes by email, postal mail, fax and/or phone, you may unsubscribe by sending an email to [emarketing@netscout.com](mailto:emarketing@netscout.com), calling us at the above telephone number, or writing to us at the above address.  Please provide us with your name, email address and the title of the marketing material you wish to unsubscribe from or information you do not want us to share with other organizations.  If you are sending an email, place the word UNSUBSCRIBE in the subject line.
+**Unsubscribing**  
+If you do not want NetScout to contact you for marketing purposes by email, postal mail, fax and/or phone, you may unsubscribe at <http://pages.netscout.com/Unsubscribe.html>, or by calling us at 978-614-4000, or writing to us at 310 Littleton Road, Westford, MA 01866.  If writing, please provide us with your name, email address and the title of the marketing material you wish to unsubscribe from or information you do not want us to share with other organizations.
 
 **Links to Non-NetScout Web Sites and Third Parties  
 **The NetScout.com web Site may provide links to non-NetScout Sites we believe may be of interest to you. Those sites are beyond our control. You are advised to check the privacy policies and terms of use of any non-NetScout Sites before providing your personal information to them.
