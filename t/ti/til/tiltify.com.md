@@ -1,10 +1,6 @@
-> *The following text is extracted and transformed from the tiltify.com privacy policy that was archived on 2016-08-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160815220336id_/https%3A//tiltify.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiltify.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409015610id_/https%3A//tiltify.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # Tiltify - Livestream Fundraising
-
-## Last Updated: August 1, 2014
-
-* * *
 
 Protecting your privacy is really important to us. Accordingly, we’re providing this Privacy Policy to explain our practices regarding the collection, use and disclosure of information that we receive when you use our Services. This Privacy Policy does not apply to any third-party websites, services or applications, even if they are accessible through our Services. Any information that we collect is subject to the privacy policy in effect at the time that Information is collected. We may, however, modify and revise this Privacy Policy from time to time. If we make any material changes to this Privacy Policy, we’ll notify you of those changes by posting them on the Services or by sending you an email or other notification, and we’ll indicate when those changes will become effective. Also, please note that, unless we define a term in this Privacy Policy, all capitalized words used in this Privacy Policy have the same meanings as in our Terms of Service.
 
