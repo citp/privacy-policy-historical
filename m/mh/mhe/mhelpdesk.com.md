@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mhelpdesk.com privacy policy that was archived on 2016-08-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160826075645id_/http%3A//mhelpdesk.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mhelpdesk.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408162117id_/https%3A//www.mhelpdesk.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - mHelpDesk
 
@@ -69,7 +69,8 @@ We may make changes to this Privacy Policy from time to time, as our service bec
 
 16\. ADDITIONAL INFORMATION ABOUT OUR PRIVACY POLICY.
 
-For additional information or questions regarding this Privacy Policy or the practices of our Site, please contact mHelpDesk.com’s Security Administrator by e-mailing such questions to happy@mHelpDesk.com or by regular mail addressed to mHelpDesk.com, Inc Attn: Security Administrator, 3040 Williams Drive, Suite 550, Fairfax, VA 22031.  
-Last updated: April 28, 2014
+For additional information or questions regarding this Privacy Policy or the practices of our Site, please contact mHelpDesk.com’s Security Administrator by e-mailing such questions to happy@mHelpDesk.com or by regular mail addressed to mHelpDesk.com, Inc Attn: Security Administrator, 3040 Williams Drive, Suite 550, Fairfax, VA 22031.
 
-© mHelpDesk, Inc 2014
+Last updated: February 7, 2017
+
+© mHelpDesk, Inc 2017
