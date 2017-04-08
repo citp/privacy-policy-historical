@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the atomicbeats.com privacy policy that was archived on 2016-11-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161102023458id_/http%3A//www.atomicbeats.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the atomicbeats.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408081556id_/http%3A//www.atomicbeats.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # AtomicBeats - Privacy Policy
 
