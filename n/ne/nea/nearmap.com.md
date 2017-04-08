@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the nearmap.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514064004id_/http%3A//us.nearmap.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nearmap.com privacy policy that was archived on 2017-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170408134543id_/https%3A//go.nearmap.com/legal/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - nearmap
+# nearmap - Privacy Policy
 
-This Privacy Policy explains how information about you is collected, used and disclosed by nearmap US, Inc. ("nearmap", "we", "us" or "our"). This Privacy Policy applies to information we collect when you use our website and other online products and services, or when you otherwise interact with us.
+This Privacy Policy explains how information about you is collected, used and disclosed by Nearmap US, Inc. ("Nearmap", "we", "us" or "our"). This Privacy Policy applies to information we collect when you use our website and other online products and services, or when you otherwise interact with us.
 
 ### 1\. Changes to this Privacy Policy
 
-This policy was last updated on 15 September 2015. We might change this Privacy Policy from time to time. When we make changes, we will post a notice on our website homepage and make a new copy of the updated Privacy Policy available here. We encourage you to review the Privacy Policy whenever you access our website or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
+This policy was last updated on 1 February 2016\. We might change this Privacy Policy from time to time. For significant changes in our personal information practices, we will post a notice on our website homepage and make a new copy of the updated Privacy Policy available here. We encourage you to review the Privacy Policy whenever you access our website or otherwise interact with us to stay informed about our information practices and the ways you can help protect your privacy.
 
-If you disagree with any changes to this Privacy Policy, you will need to stop using the nearmap website and our other products and services.
+If you disagree with any changes to this Privacy Policy, you will need to stop using the Nearmap website and our other products and services.
 
 ### 2\. Information we collect
 
-####  2.1 Information You Provide to Us 
+#### 2.1 Information You Provide to Us
 
-We collect information you provide directly to us. For example, we collect information when you create an account, send us an email to enquire about our website or licence terms, participate in any interactive features of our website or other services, fill out a form, make a purchase, apply for a job, communicate with us via third party social media sites, request customer support or otherwise provide us with information about yourself. The types of information we may collect includes personal information, which is information or an opinion about you, from which you are, or may reasonably be, identified. This information may include (but is not limited to) your name, date of birth, phone number, email address, address, employment history and any other information you choose to provide.
+We collect information you provide directly to us. For example, we collect information when you create an account, send us an email to enquire about our website or licence terms, participate in any interactive features of our website or other services, fill out a form, make a purchase, apply for a job, communicate with us via third party social media sites, request customer support or otherwise provide us with information about yourself. The types of information we may collect includes personal information, which is information or an opinion about you, from which you are, or may reasonably be, identified. This information may include (but is not limited to) your name, date of birth, phone number, email address, address, payment card information (such as your payment card number, expiration date, authorization number or security code), employment history and any other information you choose to provide.
 
 Due to the nature of the services provided by us, we do not collect sensitive information (such as information about your religion, trade union membership, political opinion, health, sexual preference or criminal record) or credit information (information about loans that may have been provided to you) about you.
 
@@ -24,7 +24,7 @@ If you provide information (including personal information) to us about someone 
 
 Our server automatically collects information about your use of our website and other services (Log Data). Log Data includes, among other things, the type of browser you are using, access times, your IP address, the URL you have come from and the time spent at that URL, cookies and your domain type and server. This kind of information is collected by many sites. We use this information to monitor your use of our site and your compliance with our license terms.
 
-When you use our website, cookies will also be placed on your computer to keep track of your use of our website. For example, cookies allow us to remember which nearmap image you were viewing when you last visited our website. Cookies do not capture or track any personal information. You may elect to set your computer so that cookies are not placed on your computer. However, if you do not provide the information requested by us, we may not be able to provide you with our services.
+When you use our website, cookies will also be placed on your computer to keep track of your use of our website. For example, cookies allow us to remember which Nearmap image you were viewing when you last visited our website. Cookies do not capture or track any personal information. You may elect to set your computer so that cookies are not placed on your computer. However, if you do not provide the information requested by us, we may not be able to provide you with our services.
 
 #### 2.3 Information We Collect from Other Sources
 
@@ -41,7 +41,7 @@ We use the information we collect about you (including personal information to t
   * assess, process and manage your application to work with us;
   * respond to comments, questions, complaints, requests and provide customer service;
   * obtain analytic data;
-  * communicate with you about products, services, offers, promotions, rewards, and events offered by nearmap and others, and provide news and information we think will be of interest to you;
+  * communicate with you about products, services, offers, promotions, rewards, and events offered by Nearmap and others, and provide news and information we think will be of interest to you;
   * carry out any reasonably related secondary purposes; or
   * carry out any other purpose for which the information was collected.
 
@@ -73,7 +73,7 @@ Sometimes our website contains links to other websites, for your convenience and
 
 ### 6\. Advertising and analytics services provided by others
 
-We may allow others to provide advertising and analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of our website, products and services, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by nearmap to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity.
+We may allow others to provide advertising and analytics services. These entities may use cookies, web beacons and other technologies to collect information about your use of our website, products and services, including your IP address, web browser, pages viewed, time spent on pages, links clicked and conversion information. This information may be used by Nearmap to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests and better understand your online activity.
 
 ### 7\. Direct marketing
 
@@ -83,7 +83,7 @@ If you do not wish to receive marketing information, you may at any time decline
 
 ### 8\. Updating your information
 
-It is important to our relationship that the information we hold about you is accurate and up to date. If at any time you are of the view that information about you is not accurate, complete or up to date, please write to us with your request for correction. Our policy is to consider any requests for correction in a timely manner.
+It is important to our relationship that the information we hold about you is accurate and up to date. If at any time you are of the view that information about you is not accurate, complete or up to date, please write to us with your request for correction. Our policy is to consider any requests for correction in a timely manner. You may also update or correct your online account information at any time by logging into your account and navigating to the "Accounts" page if this function is enabled as part of your subscription. You can also contact us if you wish to deactivate your online account, but note that we may retain certain information as required by law or for legitimate business purposes. We may also retain cached or archived copies of information about you for a certain period of time. 
 
 ### 9\. Accessing your information
 
@@ -107,12 +107,12 @@ We will deal with any complaint by investigating the complaint, and providing a 
 
 You can contact us by:
 
-  1. sending an e-mail to us at: privacy.officer@nearmap.com; or
+  1. sending an e-mail to us at: [privacy.officer@nearmap.com](mailto:privacy.officer@nearmap.com); or
   2. writing to us at: 
 
-nearmap US, Inc.  
-Suite 401, 594 Howard Street,  
-San Francisco, California 94105  
+Nearmap US, Inc.  
+10897 South River Front Parkwat Suite 150  
+South Jordan UT 84095  
 USA
 
 
