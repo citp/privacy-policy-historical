@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the vincheckup.com privacy policy that was archived on 2016-11-19.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161119044433id_/http%3A//www.vincheckup.com/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the vincheckup.com privacy policy that was archived on 2017-04-09.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170409134336id_/http%3A//www.vincheckup.com/privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head>
 	<title>Privacy Policy | VINCHECKUP.com</title>
@@ -78,6 +78,7 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 
 	</head>
 <body>
+
 <script type="application/ld+json">
     {
       "@context": "http://schema.org",
@@ -125,7 +126,9 @@ a.async=true;a.type="text/javascript";b.parentNode.insertBefore(a,b)}, 1);
 		</div>
 	</header>
 <!--Header section End--> </div>
-<div class="learn-more-page page">
+<div class="footprint" id="footprintHtml"> 
+</div> 
+ <div class="learn-more-page page">
 	<div class="container">
 			<article>
 				<div id="privacy_policy">
@@ -224,17 +227,21 @@ We store information regarding any searches you may make via the Services for si
 					</div>
 
 
-					<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 menu-element" style="display:none">
+					<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 menu-element">
 				 
 						<ul>
 							<span class="footer_span">
 								USEFUL LINKS							</span>
-												</ul>
+													<li><a href="http://www.vincheckup.com/ohio/">Ohio title search by vin</a></li> 
+														<li><a href="http://www.vincheckup.com/how-it-works">History of vehicle by vin number</a></li> 
+														<li><a href="http://www.vincheckup.com/articles/vin-basics/how-much-is-a-used-car-really-worth">How buy used car</a></li> 
+														<li><a href="http://www.vincheckup.com/florida/">Check vin florida</a></li> 
+													</ul>
 					</div>
 					
 					<div class="col-lg-2 col-md-4 col-sm-6 col-xs-12 credits">
 						<img src="http://www.vincheckup.com/assets/images/vincheckup_logo.png" alt="logo" title="logo - vincheckup.com">
-						<p>Copyright 2012 - 2016 <br> All Rights Reserved</p>
+						<p>Copyright 2012 - 2017 <br> All Rights Reserved</p>
 										<div class="clear"></div> 
 P.O. Box 541450<br>
 Waltham, MA 02451
@@ -274,7 +281,6 @@ Waltham, MA 02451
 <script src="http://www.vincheckup.com/assets/js/production.js" type="text/javascript"></script>
 
 <script language="javascript" src="http://www.vincheckup.com/js/formvalidation.js" type="text/javascript"></script>
-
 <script>
 jQuery(document).ready(function(){
 jQuery('.lookupBtn').click(function(){ ga('send','event','button','click','lookup vin'); });
@@ -284,7 +290,24 @@ if(window.location.pathname =='/register.php')
 {
 jQuery('.button_register_page').click(function(){ ga('send','event','button','click','order now'); });
 }
+
+getFootprintHtml();
+
 });
+
+function getFootprintHtml(){
+     var data = 'sessionIDUser=8mfqol7ponpcg8pjigq4voofl1';
+	  $.ajax({
+		  url: "http://www.vincheckup.com/include/foot_printAjax.php",
+		  type: "post",
+		  data:data , 
+		  datatype: 'json',
+		  success: function(data){  
+					$("#footprintHtml") .html(data);
+				  						 
+		  }   
+		});   
+}  
 </script>
 
 
