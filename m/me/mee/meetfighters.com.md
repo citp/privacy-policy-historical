@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the meetfighters.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209140906id_/https%3A//www.meetfighters.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the meetfighters.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409124439id_/http%3A//meetfighters.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy for MeetFighters.com - MeetFighters.com
 
