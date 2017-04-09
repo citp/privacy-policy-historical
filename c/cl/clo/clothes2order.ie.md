@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the clothes2order.ie privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224063049id_/http%3A//www.clothes2order.ie/pages/privacy/%3Foscsid%3D57d4e54af59146c4c0d327ccdb53af9e) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the clothes2order.ie privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409163717id_/https%3A//www.clothes2order.ie/pages/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Clothes2order suppliers of Promotional Clothing, Uniforms, embroidered polo shirts and printed T-shirts.
 
 ## Privacy Policy
 
-At Clothes2order.com, we are committed to protecting your privacy. We want you to be able to place your order with us free from worry and have strict privacy measures to ensure this is the case. "We" means Clothes2order.com, a site run by Quayside Clothing Ltd. [Click here for our full company details](http://www.clothes2order.ie/contact.php).
+At Clothes2order.com, we are committed to protecting your privacy. We want you to be able to place your order with us free from worry and have strict privacy measures to ensure this is the case. "We" means Clothes2order.com, a site run by Quayside Clothing Ltd. [Click here for our full company details](https://www.clothes2order.ie/contact.php).
 
 #### Personal information required to process your order
 
@@ -44,4 +44,4 @@ Any future changes to this privacy policy will be updated as soon as possible on
 
 #### More information
 
-If you have any questions or concerns about this privacy policy, you can contact us at any time. [Click here to contact us](http://www.clothes2order.ie/contact.php).
+If you have any questions or concerns about this privacy policy, you can contact us at any time. [Click here to contact us](https://www.clothes2order.ie/contact.php).
