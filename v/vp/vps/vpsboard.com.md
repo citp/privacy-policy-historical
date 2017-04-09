@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vpsboard.com privacy policy that was archived on 2015-09-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150910063158id_/https%3A//vpsboard.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vpsboard.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409233909id_/http%3A//vpsboard.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - vpsBoard
 
