@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the youniqueproducts.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406130109id_/https%3A//www.youniqueproducts.com/business/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the youniqueproducts.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409221426id_/https%3A//www.youniqueproducts.com/business/privacy) for the most accurate reproduction.*
 
 # Younique - Uplift. Empower. Validate.
 
@@ -10,9 +10,13 @@ Younique, LLC, a company organized under the laws of the State of Utah (referred
 
 ### Information Collection
 
-Younique may collect two different types of information, Personally Identifiable Information and Non- Personally Identifiable Information.
+Younique may collect two different types of information: Personally Identifiable Information; and Non-Personally Identifiable Information.
 
-"Personally Identifiable Information" ("PII") is information that identifies you as an individual – for example, your name, address, telephone number, email address, credit card information, billing address and shipping information. "Non-Personally Identifiable Information" ("Non-PII") is aggregated information, demographic information, IP addresses, user behavior data from web interaction metrics tools and any other information that does not reveal your specific identity. In connection with our Presenter enrollment process, Younique may collect PII about you that may be considered sensitive. Younique may also collect PII about you from, among other places: information you provide directly to us, information regarding the services that Younique currently provides or has previously provided to you, information Younique receives from our affiliated entities or third parties relating to the establishment of our relationship or the provision of services to you. This information can be received in any manner, including in-person discussions, telephone conversations, and electronic or other written communications.
+Personally Identifiable Information (PII) is information that identifies you as an individual. This may include your name, address, telephone number, email address, credit card information, billing address and shipping information.
+
+Non-Personally Identifiable Information (Non-PII) is aggregate information. This may include demographic information, IP addresses, user behavior data from web interaction metrics tools and any other information that does not reveal your specific identity. Non-PII may be connected to other information we collect from you.
+
+In connection with our Presenter enrollment process, Younique may collect PII about you that may be considered sensitive. Younique may also collect PII about you from, among other places: information you provide directly to us, information regarding the services that Younique currently provides or has previously provided to you, information Younique receives from our affiliated entities or third parties relating to the establishment of our relationship or the provision of services to you. This information can be received in any manner, including in-person discussions, telephone conversations, and electronic or other written communications.
 
 * * *
 
