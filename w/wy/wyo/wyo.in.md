@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wyo.in privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016103039id_/http%3A//wyo.in/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wyo.in privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409121850id_/https%3A//wyo.in/pages/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – Wear Your Opinion - WYO.in
 
@@ -41,7 +41,7 @@ We may collect and use Your personal information for the following purposes:
   * We may use information to control your access to Our Site and services, to communicate with you, customize your experience by providing information that may be useful or interesting based on the content and personally identifiable information relating to you.
 
 
-  * We may use the email address to send Users information, administrative information, changes in account settings, changes to our services or updating you on new policies and updates pertaining to your order. Apart from this if Users choose to opt-in to our mailing list, they will receive periodic emails that may relate to company news, related product or service information, etc Email address may also be used for responding to any of your inquiries, questions, and/or any other requests. If You want to unsubscribe from receiving future emails from Us, please follow the “Unsubscribe” instructions provided at the bottom of each email.
+  * We may use the email address and phone number to send Users information, administrative information, changes in account settings, changes to our services or updating you on new policies and updates pertaining to your order. Users will receive periodic emails and SMS that may relate to company news, related product or service information, etc Email address may also be used for responding to any of your inquiries, questions, and/or any other requests. If You want to unsubscribe from receiving future emails from Us, please follow the “Unsubscribe” instructions provided at the bottom of each email.
 
 
   * We may use the information Users provide about them while placing an order, only to complete said order. We do not share this information with outside parties except to the extent necessary to provide the service.
@@ -76,7 +76,7 @@ Information posted and shared on the Website or on our social media pages by the
 
 
 
-We may update and revise this Privacy Policy from time to time. The revised Privacy Policy will be posted as notification on the main page of our Website on this link ___________. Users are encouraged to periodically check this page to stay informed about changes to our Privacy Policy. The revised Policy will be effective from the date stated on the revised Privacy Policy. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications. If you disagree to any of the changes to the Privacy Policy, please refrain from using or availing the services of the Website. Your continued use or availing of the Website following the posting of revised Policy will indicate your acceptance and acknowledgement of the changes and you will be bound by it.
+We may update and revise this Privacy Policy from time to time. The revised Privacy Policy will be posted as notification on the main page of our Website on this link itself. Users are encouraged to periodically check this page to stay informed about changes to our Privacy Policy. The revised Policy will be effective from the date stated on the revised Privacy Policy. You acknowledge and agree that it is your responsibility to review this Privacy Policy periodically and become aware of modifications. If you disagree to any of the changes to the Privacy Policy, please refrain from using or availing the services of the Website. Your continued use or availing of the Website following the posting of revised Policy will indicate your acceptance and acknowledgement of the changes and you will be bound by it.
 
   6. **CONTACTING US**
 
@@ -85,4 +85,4 @@ We may update and revise this Privacy Policy from time to time. The revised Priv
 If you have any questions about this Privacy Policy, the practices of this Website, or your dealings with this Website, Please contact us at info@wyo.in
 
    
-This document was last updated on 29nd January 2016
+This document was last updated on 17th Feburary 2017
