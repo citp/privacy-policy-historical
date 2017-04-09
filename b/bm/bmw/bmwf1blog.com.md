@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the bmwf1blog.com privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223081147id_/http%3A//www.bmwf1blog.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the bmwf1blog.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409220028id_/http%3A//www.bmwf1blog.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – BMWF1 Blog
 
@@ -57,4 +57,4 @@ By using our website, you hereby consent to our privacy policy and agree to its 
 This Privacy Policy was last updated on: Friday, August 19th, 2016.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
 
-184 total views, 1 views today
+403 total views, 2 views today
