@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121103255id_/http%3A//www.rent.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rent.com.au privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409125654id_/http%3A//rent.com.au/privacy) for the most accurate reproduction.*
 
 # Privacy - rent.com.au
 
@@ -36,7 +36,7 @@ We collect both current and historical personal information which may include in
 
 We collect personal information directly from you as well as from third parties including tenants, landlords, real estate agents, public sources, our related companies, your organisation, your representatives, information service providers, social media and the parties with whom we exchange information as described here. For example, we may collect information from:
 
-  * the National Tenancy Database (NTD), government records, court documents, ASIC, and other public databases if you or someone else conducts a RentCheck about you; and
+  * the Equifax National Tenancy Database (NTD), government records, court documents, ASIC, and other public databases if you or someone else conducts a RentCheck about you; and
   * your account with a third party service (such as your social media profile) when you use that account to login or connect with us.
 
 
@@ -189,8 +189,8 @@ The Agent certifies that any information The Agent provides to rent.com.au will 
 
 The credit reporting bodies rent.com.au uses may include:
 
-  * Veda, PO Box 964 North Sydney 2059, [www.mycreditfile.com.au](http://www.mycreditfile.com.au/), 1300 762 207
-  * Dun & Bradstreet, Level 7, 479 St. Kilda Road Melbourne 3004, [www.checkyourcredit.com.au](http://www.checkyourcredit.com.au/) [pacaustral@dnb.com.au](https://web.archive.org/web/20161121103255id_/http%3A//www.rent.com.au/pacaustral@dnb.com.au), 1300 734 806
+  * Equifax, PO Box 964 North Sydney 2059, [www.mycreditfile.com.au](http://www.mycreditfile.com.au/), 1300 762 207
+  * Dun & Bradstreet, Level 7, 479 St. Kilda Road Melbourne 3004, [www.checkyourcredit.com.au](http://www.checkyourcredit.com.au/) [pacaustral@dnb.com.au](https://web.archive.org/web/20170409125654id_/http%3A//rent.com.au/pacaustral@dnb.com.au), 1300 734 806
   * Experian, GPO Box 1969, North Sydney NSW 2060, www.experian.com.au, 1300 784 134
   * Tasmanian Collection Service, 29 Argyle Street, Hobart, [www.tascol.com.au](http://www.tascol.com.au/) [enquiries@tascol.com.au](mailto:enquiries@tascol.com.au), (03) 6213 5555
 
