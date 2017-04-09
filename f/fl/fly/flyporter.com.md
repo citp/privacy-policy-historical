@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the flyporter.com privacy policy that was archived on 2016-10-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161001162939id_/https%3A//www.flyporter.com/About/Privacy%3Fculture%3Den-US) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the flyporter.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409181518id_/https%3A//www.flyporter.com/en-ca/privacy) for the most accurate reproduction.*
 
-# Privacy Policy Statement - Porter Airlines
+# Privacy Policy | Porter Airlines
+
+Breadcrumb menus
 
 ## PORTER AIRLINES' COMMITMENT TO PRIVACY
 
@@ -8,7 +10,7 @@ Porter Airlines Inc. (“Porter” or “we” or “us”) is committed to prot
 
 ## PERSONAL INFORMATION
 
-Personal information is any information about an identifiable individual, such as Your name, email address, mailing addresses, financial information, travel document details, citizenship, gender, date of birth, information collected electronically through Porter’s web site at [www.flyporter.com](https://web.archive.org/?culture=en-US) (“Web Site”) and any other information that identifies who You are. Personal information about You may be collected by Porter directly or provided to Porter by third parties, such as travel agents or a credit card company.
+Personal information is any information about an identifiable individual, such as Your name, email address, mailing addresses, financial information, travel document details, citizenship, gender, date of birth, information collected electronically through Porter’s web site at [www.flyporter.com](https://web.archive.org/en-ca/) (“Web Site”) and any other information that identifies who You are. Personal information about You may be collected by Porter directly or provided to Porter by third parties, such as travel agents or a credit card company.
 
 ## WHAT PERSONAL INFORMATION DOES PORTER COLLECT ?
 
@@ -92,7 +94,7 @@ Similarly, Porter uses conversion beacons that allows Porter to keep track of em
 
 ## OPT OUT
 
-If You wish to be taken off of Porter’s email list You may opt by following the steps included in every email we send, or by going to our [Unsubscribe](https://web.archive.org/Viporter/EmailOptOut?culture=en-US) page and entering your email address.
+If You wish to be taken off of Porter’s email list You may opt by following the steps included in every email we send, or by going to our [Unsubscribe](https://web.archive.org/en-ca/special-offers/email-opt-out) page and entering your email address.
 
 ## CONTACTING PORTER
 
@@ -119,6 +121,12 @@ Porter reserves the right to modify this Policy at any time by posting an amende
 Press Escape to close the window.
 
 Check-In using our enhanced ‘Check-In’ flow? 
+
+You are now leaving Porter Airlines.
+
+The accessibility, privacy policies and other terms of use of flyporter.com do not apply to the site you have chosen to view.
+
+Porter does not control and is not responsible for any of its contents.
 
 Form submission failed. There are errors in the form. 
 
