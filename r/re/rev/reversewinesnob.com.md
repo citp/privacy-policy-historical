@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the reversewinesnob.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128173427id_/http%3A//www.reversewinesnob.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the reversewinesnob.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409111007id_/http%3A//www.reversewinesnob.com/p/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - Reverse Wine Snob®
+# Privacy Policy • Reverse Wine Snob®
 
 **ONLINE PRIVACY POLICY AGREEMENT**
 
