@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the vitarank.com privacy policy that was archived on 2016-01-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160103054450id_/https%3A//vitarank.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vitarank.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409114839id_/https%3A//vitarank.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Vitarank - Organic SEO Services
 
@@ -66,7 +66,7 @@ If we decide to change our privacy policy, we will post those changes on this pa
 
 If there are any questions regarding this privacy policy you may contact us using the information below.
 
-http://www.vitarank.com
+https://www.vitarank.com
 
 **VITARANK**
 
