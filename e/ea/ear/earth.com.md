@@ -1,63 +1,161 @@
-> *The following text is extracted and transformed from the earth.com privacy policy that was archived on 2012-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20121030143012id_/http%3A//earth.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the earth.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409213052id_/https%3A//www.earth.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Earth.com
+# Privacy Policy • Earth.com
 
-**Earth.com** is committed to protecting the privacy of your information. This privacy policy (the “Privacy Policy”) describes EARTH.COM’s information practices with respect to the websites owned or operated by EARTH.COM (“Sites”) and EARTH.COM products (“Products”) and services (“Services”) available or enabled via the Sites, provided that this Privacy Policy does not apply to EARTH.COM or EARTH.COM affiliated websites relating to loans and/or insurance or to any products or services available on such loan and/or insurance sites, all of which are governed by the privacy policies accessible directly from the applicable website(s). This Privacy Policy is subject to the Terms of Service posted on the applicable Site(s). By using EARTH.COM’s Sites, Products and/or Services, you expressly consent to EARTH.COM’s collection, storage, use and disclosure of your information as described in this Privacy Policy.
+Earth.com, Inc. Privacy Statement
 
-**INFORMATION COLLECTED**  
-• Automatic Collection: EARTH.COM uses common Internet technologies such as cookies and Web beacons to keep track of users’ interactions with EARTH.COM’s Sites, Products and Services and to improve the quality of its service. EARTH.COM may also collect your Internet Protocol (IP) address to track and aggregate non-personally identifiable information, your referring website addresses, browser type, domain name and access times.  
-o Cookie: When you visit one of EARTH.COM’s Sites and/or utilize a EARTH.COM Product or Service, EARTH.COM’s servers send a cookie (a small file with a string of characters) to your computer. Standing alone, cookies do not personally identify you but would recognize your web browser; unless you choose to identify yourself to EARTH.COM (through an account or otherwise), you will remain anonymous to EARTH.COM. A cookie can be either session based (assigned to you each time you sign in) or persistent (it identifies browsers that have previously visited EARTH.COM’s Sites or utilized a Product or Service). Most web browsers are initially set up to accept cookies, but you can disable your web browser’s ability to accept cookies; however, if you do so, certain Site, Product or Service features may not work.  
-o Web Beacon: A web beacon is an electronic image on a web page that recognizes certain types of information on your computer when you visit that particular web page.  
-o IP Address: an Internet Protocol Address is a numerical label that is assigned to each computer on the Internet.  
-o Referring website address: a referring website address identifies the address of the webpage you were on previously.  
-o Browser: A browser is a software application used for retrieving, presenting, and traversing information resources on the World Wide Web.  
-In addition, EARTH.COM may utilize third parties to track and analyze usage information, and in so doing may use third party cookies. Please see more detailed information below under “Third Parties” if you would like to know more about third party cookies.  
-• Voluntary Collection: EARTH.COM may collect certain information that personally identifies you (“PI”) or is protected personal information (“PPI”), such as your name, address, email address and/or billing information (collectively referred to herein as “personally identifiable information”), if you choose to share such information. For example, this information may be requested as part of account registration, the purchase of Products or Services, or some other information request. The decision to provide this information is optional; however, if you elect not to register or provide the requested information, you may not be able to access certain content, products, services or features or participate in certain areas of the Site.  
-• Publicly Posted: Information that you post on or through any public areas on the Sites (or elsewhere on the Internet) may be collected and used by anyone and may result in unsolicited messages or other contact from others.  
-**HOW DO WE USE THE INFORMATION WE COLLECT?**  
-The information we collect enables EARTH.COM to:  
-• customize the advertising and content you see  
-• fulfill your requests for Products and Services  
-• improve its services  
-• contact and communicate with you  
-• conduct research and analysis  
-• provide anonymous reporting for internal and external clients  
-• provide you with additional information  
-**WHEN DO WE SHARE OR DISCLOSE YOUR INFORMATION?**  
-• We may share non-personal information with others, such as advertisers, sponsors and business partners, in aggregate anonymous form (meaning the information shared will not contain any personally identifiable information about you).  
-• Other than as noticed in this Privacy Policy, we will not sell, share, rent or otherwise disclose to third parties your personally identifiable information without your permission.  
-o We may share your personally identifiable information with third parties who facilitate communication on behalf of EARTH.COM for EARTH.COM’s marketing and promotional efforts and/or for other information dissemination on behalf of EARTH.COM.  
-o We may sell, rent or share your personally identifiable information, provided we have received your prior permission, to third parties to send you marketing and promotional information not related to EARTH.COM that may be of interest to you.  
-o Your personally identifiable information may be transferred to third parties such as technical agents, payment processing vendors, consultants, advertising companies and among our affiliates for the performance of EARTH.COM services or making products available to you.  
-o As in any transaction, if you provide your credit card information to us for purchases, your credit card company will be provided with all relevant information about the vendor, items(s) purchased, cost and other information necessary to process the transaction.  
-o All companies working for and with us that EARTH.COM provides with your personally identifiable information are contractually required to protect your personally identifiable information and keep it confidential; they are not permitted to sell or otherwise disclose your information to third parties except as authorized by us and you or as permitted or required by law.  
-o Please also note further details about EARTH.COM’s disclosure of your personally identifiable information in the website-specific descriptions at the end of this Privacy Policy.  
-• In the event of a sale, merger, consolidation, change in control, transfer of substantial assets, reorganization or liquidation, we may transfer, sell or assign to third parties information concerning your relationship with us, including personally identifiable information that you provide and other information concerning your relationship with us.  
-• We may disclose your personally identifiable information if permitted by law or required to do so by law or where we believe such action is necessary in order to protect or defend our interests or the interests of our customers or users of our Sites, Products or Services.  
-• By agreeing to this Privacy Policy, you are authorizing us to share your personally identifiable information with and among EARTH.COM affiliated companies.  
-**PARTIES UNDER 13**  
-• We do not knowingly collect personal information online from children under 13 to ensure compliance with the Children’s Online Privacy Protection Act of 1998 (“COPPA”). COPPA and its accompanying regulations under United States federal law protect the privacy of children using the Internet. Because we do not knowingly collect personal information from children under the age of 13, we do not knowingly distribute information to third parties. Our Sites, Products and Services may include content that may be unsuitable for children under 13 and are not necessarily monitored. EARTH.COM encourages parents to talk to their children about online safety and to monitor their children’s use of the Internet.  
-THIRD PARTIES  
-This Privacy Policy does not cover how third parties use cookies or other technologies or any information third parties gather or share; third party information practices are addressed in the third parties’ privacy policies. EARTH.COM shall not be liable for information collected by third parties.  
-• Services:  
-o From time to time, EARTH.COM might establish a business relationship with other persons or entities to perform certain services on behalf of EARTH.COM. For example, EARTH.COM might contract with service providers to provide credit card processing, data management, promotional services, web hosting, web development, etc. In such cases, EARTH.COM would provide the service providers with the information needed for them to perform their respective services. Service providers may use third party cookies.  
-• Data Gathering:  
-o EARTH.COM may establish business relationships with third parties to track and analyze non-personally identifiable usage information from users who visit EARTH.COM’s Sites or utilize the Products or Services, or to track the performance of advertisements; such third parties may create reports on website traffic, statistics, advertisements, and “click-throughs” among others. These third parties may use third party cookies, web beacons and/or other monitoring technologies and may share information they gather with other third parties, or use other third parties to collect information on their behalf. Among others, EARTH.COM uses Media Online Inc. (“Magnetic”) to track and analyze Site information and to create reports; the full text of Magnetic’s privacy policy is at http://privacy.magnetic.is. In addition, note that you may go to http://www.networkadvertising.org/managing/opt_out.asp to opt-out of a wide selection of third party tracking.  
-• Advertisers:  
-o Advertisements appearing on the Sites or through Products and Services may be delivered to users by EARTH.COM or one of its advertising partners. Advertising partners may set third party cookies (or other technologies such as pixel tags), to compile information about where you or others who are using your computer saw their advertisements and analyze and optimize the performance of the ads.  
-**THIRD PARTY WEBSITES**  
-• The Sites, Products and Services may contain links to websites or content operated and maintained by third parties over which EARTH.COM has no control. Privacy policies on such linked websites may be different from our Privacy Policy, and you access such linked websites or third party content at your own risk.  
-**SECURITY**  
-Information that EARTH.COM collects from the Sites, Products and Services is stored on servers that EARTH.COM solely manages, using standard security procedures and practices appropriate to the nature of the information. Please be aware that no data transmission over the Internet can be guaranteed to be 100% secure. As a result, EARTH.COM cannot guarantee or warrant the security of any information you transmit on or through the Sites, Products or Services and you do so at your own risk.  
-**FOREIGN COUNTRIES**  
-Your personal information may be transferred to and maintained on servers or databases located outside your state or country or to a jurisdiction where the privacy laws may not be as protective as those in your location. If you are located outside of the United States, please be advised that EARTH.COM processes and stores all information in the United States and your consent to this Privacy Policy represents your agreement to and understanding of this processing.  
-**CHANGES TO PRIVACY POLICY**  
-EARTH.COM reserves the right to change this Privacy Policy at any time and will do so by posting the revised Privacy Policy on the Sites. The new Privacy Policy will apply to all current and past users of the Sites, Products and Services and will replace any prior Privacy Policies that are inconsistent. Your continued use of the Sites constitutes your agreement to the Privacy Policy as revised.  
-**DISPUTE RESOLUTION**  
-This Privacy Policy shall be governed by and construed in accordance with the laws of the State of California applicable to agreements made and performed in California, excluding the application of the conflict of laws provisions. You agree that any action or suit brought by a party to enforce or adjudicate your rights under this agreement shall be brought in the federal or state courts located in Los Angeles, California.  
-**CONTACT US**  
-If you have any questions about this Privacy Policy or EARTH.COM’s privacy practices, please email us at support@Earth.com.com.  
-Or you can contact us by mail at:  
-26500 W. Agoura Road, Suite 102-595  
-Calabasas, CA 91302  
-In addition, if you wish to exclude your personally identifiable information from our direct marketing or from being shared with, or rented or sold to a third party, or if you would like to update or delete your email address, mailing address or other personally identifiable information, or otherwise manage communications your receive from EARTH.COM, please contact us at the above.
+This privacy statement covers the site www.Earth.com.net. Because this Web site wants to demonstrate its commitment to our users’ privacy, it has agreed to disclose its information practices.
+
+What personally identifiable information Earth.com, Inc. collects.  
+What personally identifiable information third parties collect through the Web site.  
+What organization collects the information.  
+How Earth.com, Inc. uses the information.  
+With whom Earth.com, Inc. may share user information.  
+What choices are available to users regarding collection, use and distribution of the information.  
+What types of security procedures are in place to protect the loss, misuse or alteration of information under Earth.com, Inc. control.  
+How users can correct any inaccuracies in the information.  
+Information Collection and Use
+
+Information Collection
+
+Earth.com, Inc. is the sole owner of the information collected on Earth.com.com. Earth.com, Inc. collects information from our users at several different points on our Web site.
+
+Registration
+
+In order to use this Web site, a user must first complete the registration form. During registration a user is required to give contact information (such as name and email address). We use this information to contact the user about services on our site for which he has expressed interest. It is optional for the user to provide demographic information (such as income level and gender), and unique identifiers (such as, username and password), but encouraged so we can provide a more personalized experience on our site.
+
+Order
+
+We request information from the user on our order form. A user must provide contact information (such as name, email, and shipping address) and financial information (such as credit card number, expiration date). This information is used for billing purposes and to fill customer’s orders. If we have trouble processing an order, the information is used to contact the user.
+
+Information Use
+
+Profile
+
+We store information that we collect through cookies, log files, clear gifs, and/or third parties to create a profile of our users. A profile is stored information that we keep on individual users that details their viewing preferences. Consequently, collected information is tied to the users personally identifiable information to provide offers and improve the content of the site for the user. This profile is used to tailor a user’s visit to our Web site, and to direct pertinent marketing promotions to them. We do not share your profile with other third parties.
+
+Cookies
+
+A cookie is a piece of data stored on the user’s computer tied to information about the user. Usage of a cookie is in no way linked to any personally identifiable information while on our site. We use both session ID cookies [and] persistent cookies. For the session ID cookie, once users close the browser, the cookie simply terminates. A persistent cookie is a small text file stored on the user’s hard drive for an extended period of time. Persistent cookies can be removed by following Internet browser help file directions.
+
+We use cookies to enhance the Earth.com experience. By setting a cookie on our site, users would not have to log in a password more than once, thereby saving time while on our site. If users reject the cookie, they may still use our site. The only drawback to this is that the user will be limited in some areas of our site. For example, the user will not be able to participate in any of our sweepstakes, contests or monthly drawings that take place. Persistent cookies enable us to track and target the interests of our users to enhance the experience on our site. See the ‘Profile’ section.
+
+Some of our business partners use cookies on our site (for example, advertisers). However, we have no access to or control over these cookies, once we have given permission for them to set cookies for advertising.
+
+Third Party Advertising
+
+The ads appearing on this Web site are delivered to users by our ad serving software. Information about users’ visit to this site, such as number of times they have viewed an ad (but not user name, address, or other personal information), is used to serve ads to users on this site.  
+This privacy statement covers the use of cookies by Earth.com, Inc. only and does not cover the use of cookies by any advertisers.
+
+Third Party Advertising – Advertising.com
+
+We use third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements about goods and services of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, click here: http://www.networkadvertising.org/consumer/opt_out.asp
+
+Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie��? on your browser.
+
+Log Files
+
+Like most standard Web site servers we use log files. This includes internet protocol (IP) addresses, browser type, internet service provider (ISP), referring/exit pages, platform type, date/time stamp, and number of clicks to analyze trends, administer the site, track user?s movement in the aggregate, and gather broad demographic information for aggregate use. IP addresses, etc. are not linked to personally identifiable information We use a tracking utility called ClickTracks that uses log files to analyze user movement.
+
+Clear Gifs (Web Beacons/Web Bugs)
+
+We employ a software technology called clear gifs (a.k.a. Web Beacons/Web Bugs), that help us better manage content on our site by informing us what content is effective. Clear gifs are tiny graphics with a unique identifier, similar in function to cookies, and are used to track the online movements of Web users. The main difference between the two is that clear gifs are invisible on the page and are much smaller, about the size of the period at the end of this sentence. Clear gifs are not tied to users? personally identifiable information.
+
+Clear Gifs can “work with” existing cookies on a computer if they are both from the same Web site or advertising company. That means, for example, that if a person visited ‘www.companyX.com’, which uses an advertising company’s clear gif, the Web would match the clear gif’s identifier and the advertising company’s cookie ID number, to show the past online behavior for that computer.
+
+In addition, we use clear gifs in our HTML-based emails to let us know which emails have been opened by the recipients. This allows us to gauge the effectiveness of certain communications and the effectiveness of our marketing campaigns. If users would like to opt-out of these emails, please see the Opt-out section.
+
+Communications from the Site
+
+Special Offers and Updates
+
+We send all new members a welcoming email to verify password and username. Established members will occasionally receive information on products, services, special deals, and a newsletter. Out of respect for the privacy of our users we present the option to not receive these types of communications. Please see the Choice and Opt-out sections.
+
+Newsletter
+
+If a user wishes to subscribe to our newsletter, we ask for contact information such as name and email address. Out of respect for our users privacy we provide a way to opt-out of these communications. Please see the Choice and Opt-out sections.
+
+Service Announcements
+
+On rare occasions it is necessary to send out a strictly service related announcement. For instance, if our service is temporarily suspended for maintenance we might send users an email. Generally, users may not opt-out of these communications, though they can deactivate their account. However, these communications are not promotional in nature.
+
+Customer Service
+
+We communicate with users on a regular basis to provide requested services and in regards to issues relating to their account we reply via email or phone, in accordance with the users wishes.
+
+Sharing
+
+Legal Disclaimer
+
+Though we make every effort to preserve user privacy, we may need to disclose personal information when required by law wherein we have a good-faith belief that such action is necessary to comply with a current judicial proceeding, a court order or legal process served on our Web site.
+
+Aggregate Information (non-personally identifiable)
+
+We share aggregated demographic information with our partners and advertisers. This is not linked to any personally identifiable information.
+
+These are the instances in which we will share users personal information:  
+We DO NOT Share Personal Information with Third Parties
+
+Third Party Intermediaries
+
+We use an outside shipping company to ship orders, and a credit card processing company to bill users for goods and services. These companies do not retain, share, store or use personally identifiable information for any secondary purposes.
+
+Business Transitions
+
+In the event Earth.com, Inc. goes through a business transition, such as a merger, being acquired by another company, or selling a portion of its assets, users’ personal information will, in most instances, be part of the assets transferred. Users will be notified via email prior to a change of ownership or control of their personal information. If as a result of the business transition, the users? personally identifiable information will be used in a manner different from that stated at the time of collection they will be given choice consistent with our notification of changes section.
+
+Choice/Opt-out
+
+Our users are given the opportunity to ‘opt-out’ of having their information used for purposes not directly related to our site at the point where we ask for information. For example, our order form has an ‘opt-out’ mechanism so users who buy a product from us, but don’t want any marketing material, can keep their email address off of our lists.
+
+Users who no longer wish to receive our newsletter and promotional communications may opt-out of receiving these communications by replying to unsubscribe in the subject line in the email.
+
+Users of our site are always notified when their information is being collected by any outside parties. We do this so our users can make an informed choice as to whether or not they should proceed with services that require an outside party.
+
+Links
+
+This Web site contains links to other sites. Please be aware that we, Earth.com Inc., are not responsible for the privacy practices of such other sites. We encourage our users to be aware when they leave our site and to read the privacy statements of each and every Web site that collects personally identifiable information. This privacy statement applies solely to information collected by this Web site.
+
+Surveys [&amp; Contests]
+
+From time-to-time our site requests information from users via surveys or contests. Participation in these surveys or contests is completely voluntary and the user therefore has a choice whether or not to disclose this information. The requested information typically includes contact information (such as name and shipping address), and demographic information (such as zip code). Contact information will be used to notify the winners and award prizes. Anonymous Survey information will be used for purposes of monitoring or improving the use and satisfaction of this site. Users? personally identifiable information is not shared with third parties unless we give prior notice and choice. Though we may use an intermediary to conduct these surveys or contests, they may not use users’ personally identifiable information for any secondary purposes.
+
+Tell-A-Friend
+
+If a user elects to use our referral service for informing a friend about our site, we ask them for the friend’s name and email address. Earth.com, Inc. will automatically send the friend a one-time email inviting them to visit the site. Earth.com, Inc. stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. The friend may contact Earth.com, Inc. to request the removal of this information from our database.
+
+Security
+
+This Web site takes every precaution to protect our users’ information. When users submit sensitive information via the Web site, their information is protected both online and off-line.
+
+When our registration/order form asks users to enter sensitive information (such as credit card number and/or social security number), that information is encrypted and is protected with the best encryption software in the industry – SSL. While on a secure page, such as our order form, the lock icon on the bottom of Web browsers such as Netscape Navigator and Microsoft Internet Explorer becomes locked, as opposed to un-locked, or open, when users are just ‘surfing’.
+
+While we use SSL encryption to protect sensitive information online, we also do everything in our power to protect user-information off-line. All of our users’ information, not just the sensitive information mentioned above, is restricted in our offices. Only employees who need the information to perform a specific job (for example, our billing clerk or a customer service representative) are granted access to personally identifiable information. Our employees must use password-protected screen-savers when they leave their desk. When they return, they must re-enter their password to re-gain access to user information. Furthermore, ALL employees are kept up-to-date on our security and privacy practices. Every quarter, as well as any time new policies are added, our employees are notified and/or reminded about the importance we place on privacy, and what they can do to ensure our users’ information is protected. Finally, the servers that store personally identifiable information are in a secure environment, behind a locked cage in a locked facility.
+
+Supplementation of Information
+
+In order for this Web site to properly fulfill its obligation to users it is necessary for us to supplement the information we receive with information from 3rd party sources.
+
+Correcting/Updating/Deleting/Deactivating Personal Information
+
+If a user’s personally identifiable information changes (such as zip code, phone, email or postal address), or if a user no longer desires our service, we provide a way to correct, update or delete/deactivate users’ personally identifiable information. This can usually be done at the member information page or by emailing our Customer Support.
+
+Notification of Changes
+
+If we decide to change our privacy policy, we will post those changes to this privacy statement, the homepage, and other places we deem appropriate so our users are always aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. We will use information in accordance with the privacy policy under which the information was collected.
+
+If, however, we are going to use users’ personally identifiable information in a manner different from that stated at the time of collection we will notify users via email. Users will have a choice as to whether or not we use their information in this different manner. However, if users have opted out of all communication with the site, or deleted/deactivated their account, then they will not be contacted, nor will their personal information be used in this new manner. In addition, if we make any material changes in our privacy practices that do not affect user information already stored in our database, we will post a prominent notice on our Web site notifying users of the change. In some cases where we post a notice we will also email users, who have opted to receive communications from us, notifying them of the changes in our privacy practices.
+
+Third Party Advertising
+
+We use MaxOnline and other third-party advertising companies to serve ads when you visit our Web site. These companies may use information (not including your name, address, email address or telephone number) about your visits to this and other Web sites in order to provide advertisements on this site and other sites about goods and services that may be of interest to you. If you would like more information about this practice and to know your choices about not having this information used by these companies, please click here www.networkadvertising.org/optout_nonppii.asp
+
+Third Party Cookies
+
+In the course of serving advertisements to this site, our third-party advertiser may place or recognize a unique “cookie” on your browser.
+
+Contact Information  
+If users have any questions or suggestions regarding our privacy policy, please contact us at:  
+Web site URL : www.Earth.com.com
