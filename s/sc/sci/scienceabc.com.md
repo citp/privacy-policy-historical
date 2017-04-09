@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scienceabc.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820234823id_/https%3A//www.scienceabc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scienceabc.com privacy policy that was archived on 2017-04-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170409155742id_/https%3A//www.scienceabc.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy » Science ABC
 
