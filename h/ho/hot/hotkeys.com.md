@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hotkeys.com privacy policy that was archived on 2014-03-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140326040029id_/https%3A//www.hotkeys.com/m/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hotkeys.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410160920id_/https%3A//www.hotkeys.com/m/legal/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Privacy Policy | Hotkeys - Providing Superior Traffic Monetization
 
@@ -15,7 +15,7 @@
 
 ##### INTRODUCTION
 
-This Privacy Policy (the "Policy") describes how Hot Media, Inc. (“we” or “us”) collects, uses and shares your information when you use the Hotkeys website or service. Please read the complete Policy below and contact us at [privacy@demandmedia.com](mailto:privacy@demandmedia.com) with any questions. If you are not comfortable with this Policy, do not provide us with any personal information. By using this website or service, you expressly accept this Policy and consent to our collection, storage, use and disclosure of your personal information as described in this Policy, including without limitation its transfer to and storage on our servers in the United States or elsewhere in the world.
+This Privacy Policy (the "Policy") describes how Hot Media, Inc. (“Hot Media” or “we” or “us”) collects, uses and shares your information when you use the Hotkeys website or service. Please read the complete Policy below and contact us at legalnotice@rightside.co with any questions. If you are not comfortable with this Policy, do not provide us with any personal information. By using this website or service, you expressly accept this Policy and consent to our collection, storage, use and disclosure of your personal information as described in this Policy, including without limitation its transfer to and storage on our servers in the United States or elsewhere in the world.
 
 WE MAY MODIFY OUR POLICY AT ANY TIME. NON-MATERIAL CHANGES AND CLARIFICATIONS WILL TAKE EFFECT IMMEDIATELY; MATERIAL CHANGES WILL TAKE EFFECT 30 DAYS AFTER PROVIDING NOTICE VIA THIS WEBSITE OR THE EMAIL ADDRESS WE HAVE ON FILE FOR YOU. WE ENCOURAGE YOU TO KEEP YOURSELF UP-TO-DATE BY CHECKING THIS POLICY AT LEAST EVERY 30 DAYS. THE LATEST MODIFICATION DATE WILL BE DISPLAYED AT THE TOP OF THE POLICY.
 
@@ -27,15 +27,15 @@ This Policy is designed to assist you in understanding how we collect, use and s
 
 This section highlights the key takeaways from our Policy, but you should also read the full text of our Policy.
 
-**Personal Information:** We use the term “personal information” to describe information that is associated with a specific person and is used to directly identify that person. We collect personal information about you when you voluntarily disclose or authorize the disclosure of such information to us (such as by registering an account or posting on our forums). Information Uses: We may use your personal information to communicate with you, run and improve our services and website, personalize content, and ensure compliance with the law.
+**Personal Information:** We use the term “personal information” to describe information that is associated with a specific person and is used to directly identify that person. We collect personal information about you when you voluntarily disclose or authorize the disclosure of such information to us (such as by registering an account or posting on our forums). 
 
-**Uses:** We may use your personal information to communicate with you, run and improve our services and website, personalize content, and ensure compliance with the law.
+**Information Uses:** We may use your personal information to communicate with you, run and improve our services and website, personalize content, and ensure compliance with the law.
 
 **Information Sharing:** We do not knowingly disclose personal information that we collect from you to third parties other than our affiliated companies unless you consent to such transfer, or in the limited circumstances where such information is provided to a third party performing services for us under an obligation of confidentiality, in connection with a transfer of all or part of our business or assets, and for legal or regulatory compliance and safety purposes.
 
 **Your Choices:** You can manage your privacy by editing your information on your account, opting out of emails and certain interest-based advertising, and turning off cookies in your browser.
 
-Contact us by email at [privacy@demandmedia.com](mailto:privacy@demandmedia.com).
+Contact us by email at [legalnotice@rightside.co](mailto:legalnotice@rightside.co).
 
 ##### PRIVACY POLICY
 
@@ -45,7 +45,7 @@ Contact us by email at [privacy@demandmedia.com](mailto:privacy@demandmedia.com)
 
 We collect information you provide to us through the registration process on our website. We may also collect any information, including personal information, you post on any public areas of our website, like comments or forums, or that you may give us in any other way (such as through an email or survey) . Please note that we are not responsible for any personal information you post in public areas. Since information you post to public areas of our website is not considered private information, we may also feature your posted content, such as reviews or comments, on our website.
 
-We do not knowingly collect any personal information from any children under 13 or allow them to register on our website or use our services. If you become aware that a child has provided us with personal information without her parent’s or guardian’s consent, please contact us at [privacy@demandmedia.com](mailto:privacy@demandmedia.com).
+We do not knowingly collect any personal information from any children under 13 or allow them to register on our website or use our services. If you become aware that a child has provided us with personal information without her parent’s or guardian’s consent, please contact us at [legalnotice@rightside.co](mailto:legalnotice@rightside.co).
 
 **Other Information We Collect From You.**
 
@@ -84,12 +84,12 @@ We use your personal information to respond to your requests, personalize our se
 
 **Information Sharing.**
 
-We share your personal information if authorized by you or in the following limited instances:
+We share your personal information if authorized by you or in the limited instances described below. We may be subject to liability in cases of onward transfer to third parties that do not conform with this Policy.
 
   * **Third Party Services.** We use outside vendors and services to help us better understand how users interact with our website, and to provide services to us or to you on our behalf. These third parties may have access to your personal information for use solely in connection with these authorized business activities.
   * **Business Transfer.** We may transfer your personal information to a third party if we or any of our affiliates are involved in a corporate restructuring (e.g., a sale, merger, or other transfer of assets).
-  * **Affiliates.** We may share personal information with our corporate affiliates (see www.demandmedia.com for our major affiliates). Any use of your information by our corporate affiliates is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from our corporate affiliates.
-  * **Compliance and Safety.** We may disclose personal information when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others. We may also disclose personal information in response to a civil or criminal subpoena or other legal process.
+  * **Affiliates.** We are a member of the Rightside Group, Ltd. family of companies (the “Family of Companies”). The Family of Companies includes the following U.S. based companies: Acquire This Name, Inc.; DomainSite, Inc.; eNom, Incorporated; eNom1039, Inc.; eNom1040, Inc.; eNom623, Inc.; eNom625, Inc.; Hot Media, Inc.; Mobile Name Services Incorporated; Name.com, Inc.; Name.net, Inc.; Name104, Inc.; Name105, Inc.; Name106, Inc.; Name107, Inc.; Name108, Inc.; Name109, Inc.; Name110, Inc.; Name111, Inc.; Name112, Inc.; Name113, Inc.; Name114, Inc.; Name115, Inc.; Name116, Inc.; Name117, Inc.; Name118, Inc.; Name119, Inc.; Name120, Inc.; Rightside Group, Ltd.; Rightside Operating Co.; Secure Business Services, Inc.; Sipence, Incorporated; Vedacore.com, Inc.; and Whois Privacy Protection Services, Inc. The Family of Companies also includes the following non-U.S. based companies: Bejing United TLD Tech Co., Ltd.; DMIH Limited; eNom Canada Corp.; Rightside Australia Pty Ltd; Rightside Canada, Inc.; Rightside Domains Europe Limited; and United TLD Holdco Ltd. We may share personal information with our members of the Family of Companies. Any use of your information by members of the Family of Companies is subject to this Policy or another policy no less protective of your privacy. Conversely, we may obtain information about you from members of the Family of Companies. Each U.S. based member of the Family of Companies adheres to the Privacy Shield Principles (as discussed below).
+  * **Compliance and Safety.** We may disclose personal information when we believe disclosure is necessary to investigate, prevent, or respond to suspected illegal or fraudulent activity or to protect the safety, rights, or property of us, our users, or others. We may also disclose personal information when we believe release is appropriate in response to a lawful request by public authorities, including to meet national security or law enforcement requirements; enforce or apply our agreements; or protect our rights, property, or safety, our users, or others.
 
 
 
@@ -131,28 +131,30 @@ Where permitted by law, if we are required to disclose or provide notice of inva
 
 **California Privacy Rights**
 
-Residents of California who have an established business relationship with us may obtain certain information about the categories of personal information we have shared with third parties, as well as the names and addresses of those third parties and examples of the types of services and products they market. To request a copy of this information disclosure, email us at [privacy@demandmedia.com](mailto:privacy@demandmedia.com)and we will respond within 30 days.
+Residents of California who have an established business relationship with us may obtain certain information about the categories of personal information we have shared with third parties, as well as the names and addresses of those third parties and examples of the types of services and products they market. To request a copy of this information disclosure, email us at [legalnotice@rightside.co](mailto:legalnotice@rightside.co) and we will respond within 30 days.
 
 **FOR EUROPEAN UNION OR SWITZERLAND CITIZENS.**
 
-In compliance with the Safe Harbor Principles, Demand Media, Inc. commits to resolve complaints about your privacy and our collection or use of your personal information. In the first instance, European Union citizens or Switzerland citizens with inquiries or complaints regarding this privacy policy should contact: [privacy@demandmedia.com](mailto:privacy@demandmedia.com)
+Hot Media complies with the EU-US Privacy Shield Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries. Hot Media has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. If there is any conflict between the policies in this Policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield program, and to view our certification page, please visit <https://www.privacyshield.gov/>.
 
-The company complies with the U.S.-EU Safe Harbor Framework and the U.S. – Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland. The company has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor program, and to view Demand Media’s certification, please visit <http://www.export.gov/safeharbor/>.
+Note that you have the right to access, correct, or delete your personal data processed by Hot Media. Some personal data can be accessed, corrected, and deleted through your account. For assistance with accessing, correcting, or deleting your personal data, please contact us at legalnotice@rightside.co. Please be aware that deleting your personal data may result in termination of the services you receive through Hot Media.
 
-Demand Media, Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Demand Media, Inc., please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
+In compliance with the EU-US Privacy Shield Principles, Hot Media commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this Policy should first contact our parent company, Rightside Group, Ltd., at [legalnotice@rightside.co](mailto:legalnotice@rightside.co), or by postal mail at: Rightside Group, Ltd., Attn: Legal Department, 5808 Lake Washington Blvd NE, Suite 300, Kirkland, WA 98033 USA 
 
-**Dispute Resolution.**
+Hot Media has further committed to refer unresolved privacy complaints under the EU-US Privacy Shield Principles BBB EU PRIVACY SHIELD, a non-profit alternative dispute resolution provider located in the United States and operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed, please visit [www.bbb.org/EU-privacy-shield/for-eu-consumers/](https://web.archive.org/web/20170410160920id_/https%3A//www.hotkeys.com/m/legal/www.bbb.org/EU-privacy-shield/for-eu-consumers/) for more information and to file a complaint. In addition, it is possible, under certain limited conditions, for individuals to invoke binding arbitration before the Privacy Shield Panel to be created by the US Department of Commerce and the European Commission. Note that the US Federal Trade Commission (FTC) has enforcement authority over Hot Media’s compliance with this Policy.
 
-If you have any questions or concerns about this Policy, first contact us at [privacy@demandmedia.com](https://web.archive.org/web/20140326040029id_/https%3A//www.hotkeys.com/m/legal/privacy@demandmedia.com) and we will do our best to answer your questions and resolve your concerns in a timely and professional manner. But in the unfortunate and unlikely event that we are unable do so, we work with the Council of Better Business Bureaus (BBB) as an independent dispute resolution provider. You can contact BBB and follow their guidelines for initiating dispute resolution procedures here ([www.bbbonline.org/consumer/complaint.asp](http://www.bbbonline.org/consumer/complaint.asp)), by phone at 703-276-0100, or by mail at Council of Better Business Bureaus, Inc., 4200 Wilson Boulevard, Suite 800, Arlington, VA 22203
+US-Swiss Safe Harbor Framework
 
-European Union citizens with unresolved privacy concerns may also email BBB at [eusafeharbor@council.bbb.org](mailto:eusafeharbor@council.bbb.org) or direct your mail to Council of Better Business Bureaus, Inc., BBB EU Safe Harbor at the address listed above.
+Hot Media complies with the US-Swiss Safe Harbor Framework as set forth by the US Department of Commerce regarding the collection, use, and retention of personal information from Switzerland. Hot Media has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, accountability for onward transfer, security, data integrity and purpose limitation, access, and recourse, enforcement and liability. If there is any conflict between the policies in this Policy and the Safe Harbor Privacy Principles, the Safe Harbor Privacy Principles shall govern. To learn more about the US-Swiss Safe Harbor and to view our certification page, please visit <http://www.export.gov/safeharbor/>.
+
+In compliance with the US-Swiss Safe Harbor Principles, Hot Media commits to resolve complaints about your privacy and our collection or use of your personal information. Swiss citizens with inquiries or complaints regarding this Policy should first contact our parent company, Rightside Group, Ltd. at: [legalnotice@rightside.co](mailto:legalnotice@rightside.co), or by postal mail at: Rightside Group, Ltd., Attn: Legal Department, 5808 Lake Washington Blvd NE, Suite 300, Kirkland, WA 98033 USA. 
+
+Hot Media, Inc. has further committed to refer unresolved privacy complaints under the US-EU and US-Swiss Safe Harbor Principles to an independent dispute resolution mechanism, the BBB EU SAFE HARBOR, operated by the Council of Better Business Bureaus. If you do not receive timely acknowledgment of your complaint, or if your complaint is not satisfactorily addressed by Hot Media, Inc., please visit the BBB EU SAFE HARBOR web site at <http://www.bbb.org/us/safe-harbor-complaints> for more information and to file a complaint.
 
 ##### 5\. CONTACT US
 
-If you have any questions, concerns or complaints about privacy at Hot Media please email us at: [privacy@demandmedia.com](mailto:privacy@demandmedia.com). To send us a legal notice, mail it by certified mail (return receipt requested) to: Hot Media, Legal Department, 5808 Lake Washington Blvd., Suite 300, Kirkland, WA 98033. 
+If you have any questions, concerns or complaints about privacy at Hot Media please email us at: [legalnotice@rightside.co](mailto:legalnotice@rightside.co). To send us a legal notice, mail it by certified mail (return receipt requested) to: Rightside Group, Ltd., Attn: Legal Department, 5808 Lake Washington Blvd NE, Suite 300, Kirkland, WA 98033.
 
 We will contact you, including when we give a legal notice, at an email address that we have on file for you.
 
-Demand Media, Hotkeys, the Hotkeys logo, and Hot Media are trademarks and/or registered trademarks of Demand Media, Inc. in the United States and/or other countries.
-
-Copyright © 2012. Demand Media, Inc.
+Hotkeys, the Hotkeys logo, and Hot Media are trademarks and/or registered trademarks in the United States and/or other countries.
