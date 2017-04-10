@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sortedfood.com privacy policy that was archived on 2015-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150502162730id_/http%3A//sortedfood.tumblr.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sortedfood.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410072408id_/http%3A//sortedfood.tumblr.com/privacypolicy) for the most accurate reproduction.*
 
 # Sorted Food - Privacy Policy
 
