@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the helpowl.com privacy policy that was archived on 2016-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160905153221id_/https%3A//www.helpowl.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the helpowl.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410133242id_/https%3A//www.helpowl.com/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy
 
