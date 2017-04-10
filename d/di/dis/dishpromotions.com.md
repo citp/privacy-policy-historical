@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishpromotions.com privacy policy that was archived on 2016-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160418050519id_/http%3A//www.dishpromotions.com/dish-promotions-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishpromotions.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410122213id_/http%3A//www.dishpromotions.com/dish-promotions-privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | DISH Promotions
 
@@ -16,7 +16,7 @@ Our Site may use “cookies” to enhance User experience. User’s web browser 
  **Protecting Your Privacy**  
 Many website tools and plug-ins use cookies to enhance functionality and website user experience. We cannot eliminate all cookies from being stored on your PC from dishpromotions.com. Google does provide an opt out extension for tracking [here](https://tools.google.com/dlpage/gaoptout).
 
-To opt out of dishpromotions.com ID cookie tracking, click here. If you wish to Opt back in, you may click here. _(You must do this on every device you connect to dishpromotions.com from. If you delete your browser history and cookies, you will need to opt out again if visiting dishpromotions.com.)_
+To opt out of dishpromotions.com ID cookie tracking, click [here](http://www.networkadvertising.org/choices/). _(You must do this on every device you connect to dishpromotions.com from. If you delete your browser history and cookies, you will need to opt out again if visiting dishpromotions.com.)_
 
  **How we use collected information**  
 Dish Promotions may collect and use Users personal information for the following purposes:  
@@ -50,7 +50,7 @@ If you have any questions about this Privacy Policy, the practices of this site,
 N56 W13365 Silver Spring Drive  
 Menomonee Falls, WI 53051  
 1-855-629-3838  
-[Email Us](mailto:sterling@sterlingsatellite.com)  
+[Email Us](mailto:emailmarketing@dishpromotions.com)  
 www.dishpromotions.com
 
 This document was last updated on **January 29, 2015**
