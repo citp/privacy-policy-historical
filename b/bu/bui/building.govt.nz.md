@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the building.govt.nz privacy policy that was archived on 2016-10-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161012083159id_/https%3A//www.building.govt.nz/about-building-performance/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the building.govt.nz privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410220541id_/https%3A//www.building.govt.nz/about-building-performance/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Building Performance
 
