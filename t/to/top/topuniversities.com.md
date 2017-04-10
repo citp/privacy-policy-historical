@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the topuniversities.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118231400id_/http%3A//www.topuniversities.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topuniversities.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410060400id_/https%3A//www.topuniversities.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Top Universities
 
@@ -21,7 +21,7 @@ All data collected by QS is stored in a one database environment, regardless of 
 
 **A. Registration**
 
-In order to become a User, you must provide us the following information to create an account: first name, last name, email address and password. Without this minimal amount of information, you cannot create an account. QS requests other information from you during the registration process, (e.g., gender, location, etc.) that QS uses to provide better, more customized marketing services such as updates, better ads, and more valuable information. You acknowledge that this information is personal to you, and by creating an account on our websites; you allow QS and selected third parties, to identify you and to allow to use your information in accordance with our [User Agreement](http://www.topuniversities.com/user-agreement).
+In order to become a User, you must provide us the following information to create an account: first name, last name, email address and password. Without this minimal amount of information, you cannot create an account. QS requests other information from you during the registration process, (e.g., gender, location, etc.) that QS uses to provide better, more customized marketing services such as updates, better ads, and more valuable information. You acknowledge that this information is personal to you, and by creating an account on our websites; you allow QS and selected third parties, to identify you and to allow to use your information in accordance with our [User Agreement](https://www.topuniversities.com/user-agreement).
 
 **B. Cookies**
 
