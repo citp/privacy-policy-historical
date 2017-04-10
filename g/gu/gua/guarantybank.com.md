@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the guarantybank.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115114957id_/https%3A//www.guarantybank.com/media/1470/privacy-policy-2013.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the guarantybank.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410105440id_/https%3A//www.guarantybank.com/media/1747/privacy-notice-dec-2016.pdf) for the most accurate reproduction.*
 
 # 
 
-                                                                                                             Rev. 12/2013
+                                                                                                             Rev. 12/2016
              WHAT DOES Guaranty Bank (d/b/a BestBank in Michigan and Georgia) DO WITH YOUR
 FACTS
              PERSONAL INFORMATION?
@@ -93,12 +93,12 @@ Affiliates
                                             Companies not related by common ownership or control. They can
                                             be financial and nonfinancial companies.
 Nonaffiliates
-                                                 • Nonaffiliates we share with can include mortgage
+                                                 • Nonaffiliates we share with can include auto loan referral
                                                      companies.
                                             A formal agreement between nonaffiliated financial companies that
                                             together market financial products or services to you.
 Joint marketing                                  • Our joint marketing partners include companies such as
                                                      credit card companies, insurance companies, merchant
-                                                     service companies and mortgage companies.
+                                                     service companies and auto loan referral companies.
 Other important information
 Guaranty Bank does business as BestBank in Georgia and Michigan.
