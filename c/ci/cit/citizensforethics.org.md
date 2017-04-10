@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the citizensforethics.org privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209005122id_/http%3A//www.citizensforethics.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the citizensforethics.org privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410044346id_/http%3A//www.citizensforethics.org/privacy) for the most accurate reproduction.*
 
 # Privacy - CREW
 
