@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the outwar.com privacy policy that was archived on 2016-10-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161030060056id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the outwar.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410171111id_/http%3A//www.outwar.com/privacy.php) for the most accurate reproduction.*
 
 # Outwar | Browser Based MMORPG - No Download
 
