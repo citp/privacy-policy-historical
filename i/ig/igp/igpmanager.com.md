@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the igpmanager.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120101141id_/http%3A//igpmanager.com/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the igpmanager.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410202423id_/http%3A//igpmanager.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Policy
 
