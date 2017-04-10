@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hala4all.com privacy policy that was archived on 2015-04-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150401174404id_/http%3A//www.hala4all.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hala4all.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410151934id_/http%3A//www.hala4all.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Health and Fitness For All
 
