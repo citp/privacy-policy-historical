@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the xxxcj.com privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211052336id_/http%3A//www.xxxcj.com/i/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the xxxcj.com privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411012638id_/http%3A//www.xxxcj.com/i/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - XXXCJ.com
 
-Updated: December 11, 2016  
+Updated: April 11, 2017  
 Site: XXXCJ.com 
 
 Pursuant to our [Terms of Use](http://www.xxxcj.com/i/terms/), , this document describes how we treat personal information related to your use of XXXCJ.com (the “Website”), including information you provide when using it.
