@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nabble.com privacy policy that was archived on 2016-08-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160811225527id_/http%3A//www.nabble.com/PrivacyPolicy.jtp) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nabble.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410222414id_/http%3A//www.nabble.com/PrivacyPolicy.jtp) for the most accurate reproduction.*
 
 # Nabble • Privacy Policy
 
