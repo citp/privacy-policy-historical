@@ -1,71 +1,72 @@
-> *The following text is extracted and transformed from the studylink.govt.nz privacy policy that was archived on 2016-09-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160922160105id_/http%3A//www.studylink.govt.nz/about-studylink/about-this-site/copyright-privacy-and-disclaimer.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the studylink.govt.nz privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410133130id_/https%3A//www.studylink.govt.nz/about-this-site/privacy.html) for the most accurate reproduction.*
 
-# Copyright, Privacy and Disclaimer - StudyLink
+# Privacy - StudyLink
 
-Copyright, Privacy and Disclaimer information for this website.
+Privacy for this website.
 
-## Copyright
+## Privacy statement
 
-© Crown copyright
+The Ministry of Social Development includes Work and Income, MSD Housing Assessment, Senior Services, StudyLink and other service lines. The legislation administered by the Ministry of Social Development allows us to check the information that you give us. This may happen when you apply for assistance and at any time after that. The Privacy Act 1993 requires us to tell you why we collect the information and what we will do with it.
 
-Material featured on this site is subject to Crown copyright protection unless otherwise indicated. The Crown copyright protected material may be reproduced free of charge for personal use without requiring specific permission. This is subject to the material being reproduced accurately and not being used in a misleading context. Requests and enquiries concerning the reproduction of information on this website for any purpose other than personal use, or the use of scripts or codes, requires permission from Communications, National Office.
+### Why we collect information
 
-The permission to reproduce Crown copyright protected material does not extend to any material on this site that is identified as being the copyright of a third party. Authorisation to reproduce such material must be obtained from the copyright holders concerned.
+The information you give us or your Contracted Service Provider is collected under the authority of the legislation administered by the Ministry of Social Development. The information will be held by the Ministry of Social Development and/or your Contracted Service Provider.
 
-* * *
+The information is collected for the purposes of the legislation administered by the Ministry of Social Development including:
 
-## Disclaimer
-
-The information provided on this Ministry of Social Development website is intended to provide general information to the public and all reasonable measures have been taken to ensure that the information set out in this website is accurate.
-
-However, visitors to this website are advised that:
-
-  * The information provided does not replace or alter the laws of New Zealand or any other official guidelines or requirements 
-  * The contents of this website should not be construed as legal advice. Before relying on any information in this website users should independently verify its relevance for their purposes 
-  * The Ministry may change, delete, add to, or otherwise amend information contained on this website without notice 
-  * The Ministry is not responsible for the contents or reliability of any linked websites and does not necessarily endorse the views expressed within them. Linking is for convenience only and should not be taken as endorsement of any kind. The Ministry cannot guarantee that these links will work all of the time and has no control over availability of the linked pages 
-  * The Ministry does not implicitly or impliedly endorse any website, organisation, or people who have off-site links to the Ministry's website. 
+  * granting benefits and other assistance under the Social Security Act 1964
+  * granting Student Loans and Student Allowances under the Education Act 1989
+  * delivering superannuation services under the New Zealand Superannuation and Retirement Income Act 2001
+  * assessing eligibility for social housing and calculating income related rents under the Housing Restructuring and Tenancy Matters Act 1992
+  * care and protection needs of children under the Children, Young Persons and their Families Act 1989
+  * providing support and services for you and your family in relation to employment, education and housing
+  * assessing whether you and/or your partner (if you have one) may be entitled to an overseas pension, benefit or allowance.
 
 
 
-* * *
+MSD may also use the information for statistical and research purposes, and for providing advice to Government. The Ministry of Social Development and your Contracted Service Provider will exchange information about you in order to provide you with your correct financial assistance and other services. Your Contracted Service Provider may collect information from other agencies where that information is relevant to the services that the Contracted Service Provider is providing you. You are not required to give the Ministry of Social Development or your Contracted Service Provider information, but if you do not give them, or us, all the information we ask for, your application for benefits and other assistance may be declined.
 
-## Privacy
+The term Contracted Service Providers has the meaning given by section 125A(1), Social Security Act 1964, and references to Contracted Service Provider in this privacy statement only apply where one has been assigned to you.
 
-You may browse and access information contained within this website without providing any personal information. Where you voluntarily provide personal information (eg through online forms or email requests), we will only use that information to communicate with you, update our records or to provide you with advice or service.
+### We may use information for social housing
 
-We will keep any personal information that you provide secure. The Ministry of Social Development (MSD) uses Oracle New Zealand to provide this cloud-based online service. Oracle New Zealand is contractually obliged to MSD to keep any personal information collected through the online service that they provide for MSD secure. Your information may be held in Australia, Singapore or the United States of America. Oracle New Zealand is subject to the laws of these countries.
+Information you give us when you apply for assistance, and at any time after that, may also be used for social housing purposes under the Housing Restructuring and Tenancy Matters Act 1992, including reviewing your eligibility for social housing or your income related rent.
 
-## About your personal information
+Social housing is subsidised housing available to people in the greatest need of housing for the duration of their need. It is provided by Housing New Zealand and approved community housing providers.
 
-Under the terms of the Privacy Act 1993 you need to know:
+### We may contact health providers
 
-  * Any information you submit to the Ministry of Social Development using electronic forms on this website is collected and will be used for the purposes of: 
-    * providing a response to questions asked through the website
-    * analysing non-personalised statistics about the use of our website to continually improve it and to improve our customer service. 
+The Ministry of Social Development or your Contracted Service Provider may contact health providers to check any health related information you give us.
 
+### We may compare the information you give us with information held by other agencies
 
+The information you give us, or your Contracted Service Provider, may be compared with information held by other agencies such as Inland Revenue, the Ministry of Justice, the Department of Corrections, the New Zealand Customs Service, the Department of Internal Affairs, the Accident Compensation Corporation, Housing New Zealand Corporation, Ministry of Health and Immigration New Zealand. It may also be compared with social security information (for example, pension or benefit information) held by other governments (including Australia and the Netherlands).
 
-You can ask to see and correct any information we hold on you by writing to:
+### We may share information with Inland Revenue
 
-Manager Centralised Services  
-StudyLink  
-Private Bag 11070  
-Palmerston North 4442
+Under the Tax Administration Act 1994, if you have dependent children, the information you give us, or your Contracted Service Provider, may be shared with Inland Revenue for the purpose of administering Working for Families Tax Credits. Inland Revenue may also:
 
-* * *
-
-## Online security
-
-To keep yourself safe online, we strongly encourage you to take the following steps:
-
-  * Use up-to-date security software.
-  * Use the latest available browsing software and browser plugins.
-  * Do not share your account numbers or passwords with anyone.
-  * Log out when you have finished using MyStudyLink. 
+  * use the information for the purposes of child support, student loans and taxation
+  * disclose it to the Ministry of Business, Innovation, and Employment, Statistics New Zealand, the Ministry of Justice, the Accident Compensation Corporation, and the Ministry of Education
+  * disclose your personal information to your partner.
 
 
 
-* * *
+### We may give information to service providers, employers, social housing providers and childcare providers
 
-Last updated: 09 June 2016
+The Ministry of Social Development or your Contracted Service Provider may:
+
+  * give employers information about you to find you employment and contact the employer to discuss the result of any job interview that you are referred to
+  * share information with childcare centres to administer your entitlement to childcare assistance
+  * give information about you to the Tertiary Education Commission, Workbridge, training providers, career services or other agencies that have a formal agreement to provide services on behalf of the Ministry of Social Development
+  * share information about you with social housing providers (such as Housing New Zealand) to administer your housing related assistance.
+
+
+
+### We may use your information to give you a better service
+
+Other information that you give us or your Contracted Service Provider (for example, on your skills, aspirations, family circumstances) that is not required to assess your entitlement to a benefit may be used by us or your Contracted Service Provider to provide a better service to you.
+
+### You have the right to see your information and ask for it to be corrected
+
+Under the Privacy Act 1993 you have the right to ask to see all information we, or your Contracted Service Provider, hold about you and to ask them, or us, to correct that information.
