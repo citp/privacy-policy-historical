@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624041221id_/https%3A//www.amtrak.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the amtrak.com privacy policy that was archived on 2017-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170410024042id_/https%3A//www.amtrak.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Amtrak
 
-Updated: January 5, 2015
+Updated: August 16, 2016
 
 ##### Section 1 — Introduction
 
-At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using Amtrak.com; m.Amtrak.com; Amtrak applications for iPhone, Android, or Windows Phone; or AmtrakGuestRewards.com (referred to collectively as the "Site" or "Sites"). This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using the Site, you acknowledge that you understand and expressly agree to this Policy.
+At Amtrak, we respect your privacy and value the trust and confidence you place in us. We are committed to safeguarding your privacy while you're using Amtrak.com; m.Amtrak.com; Amtrak applications for iPhone orAndroid; or AmtrakGuestRewards.com (referred to collectively as the "Site" or "Sites"). This privacy policy (referred to on this page as the "Policy") describes our commitment to your privacy. By using the Site, you acknowledge that you understand and expressly agree to this Policy.
 
 When you use the Site, we may collect information about your visit to the Site, your usage of the Site, and information that you provide. This Policy describes:
 
