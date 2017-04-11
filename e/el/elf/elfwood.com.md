@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the elfwood.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123224355id_/http%3A//www.elfwood.com/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the elfwood.com privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411075729id_/http%3A//www.elfwood.com/privacy_policy) for the most accurate reproduction.*
 
 # Elfwood Fantasy and Sci fi art
 
