@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonly.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419091714id_/https%3A//adonly.com/page/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonly.com privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411203131id_/https%3A//adonly.com/page/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | AdOnly
 
