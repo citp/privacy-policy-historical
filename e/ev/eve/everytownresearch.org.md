@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the everytownresearch.org privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226222727id_/http%3A//everytownresearch.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the everytownresearch.org privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411222517id_/http%3A//everytownresearch.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - EverytownResearch.org
 
 **Everytown for Gun Safety Support Fund Privacy Statement**
 
-Updated: April, 2015 
+Updated: April, 2015
 
 EverytownResearch.org is a website of Everytown for Gun Safety Support Fund, Inc. This Privacy Statement describes the information collection, use, and disclosure practices of EverytownResearch.org (“Site”).
 
