@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dishnetwork.com privacy policy that was archived on 2016-06-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160602152540id_/http%3A//www.dish.com/downloads/legal/PrivacyStatement.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dishnetwork.com privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411162340id_/https%3A//www.dish.com/downloads/legal/PrivacyStatement.pdf) for the most accurate reproduction.*
 
 # 
 
