@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laketrust.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130030447id_/https%3A//laketrust.org/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laketrust.org privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411073542id_/https%3A//www.laketrust.org/help/privacy) for the most accurate reproduction.*
 
 # Privacy - Lake Trust Credit Union
 
