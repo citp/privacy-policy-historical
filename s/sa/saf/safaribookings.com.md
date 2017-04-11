@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the safaribookings.com privacy policy that was archived on 2016-11-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161107222727id_/https%3A//www.safaribookings.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the safaribookings.com privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411070637id_/https%3A//www.safaribookings.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | SafariBookings.com
 
@@ -90,7 +90,7 @@ These companies may use cookies, web beacons, and similar tracking technologies 
 
 On our site we work with the following ad networks: 
 
-    * [Google](https://www.google.com/adsense/?hl=en) ([their privacy policy](http://www.google.com/intl/en/privacy/ads/))
+    * [Google](https://www.google.com/adsense/?hl=en) ([their privacy policy](https://www.google.com/intl/en/policies/technologies/ads/))
   
 
   * **Third Party Websites**  
@@ -136,7 +136,7 @@ We are -at all times- entitled to change the way we collect, transmit and proces
 
 ### Contact
 
-Ximon Media B.V. is the responsible party for the processing of the personal information. Ximon Media B.V. is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Baroniehoeven 5, 5244 HX, Rosmalen, the Netherlands. 
+SafariBookings is the responsible party for the processing of the personal information. SafariBookings is a private limited liability company, incorporated under the laws of the Netherlands and has its offices at Veemarktkade 8, 5222 AE, 's-Hertogenbosch, the Netherlands, Europe. 
 
 The Dutch Data Protection Authority notification number is 1503031. For verification you can visit <https://www.collegebeschermingpersoonsgegevens.nl/asp/ORSearch.asp> and search for the notification number ('Meldingsnummer' in Dutch). 
 
