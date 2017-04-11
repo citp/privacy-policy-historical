@@ -1,380 +1,481 @@
-<!--The following is the downloaded HTML source of the ushmm.org privacy policy that was archived on 2016-12-02.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161202134250id_/https%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the ushmm.org privacy policy that was archived on 2017-04-11.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170411224603id_/https%3A//www.ushmm.org/copyright-and-legal-information/privacy-policy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class=" js flexbox canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
-
-    <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WFXT2L"></script><script>
-        // global variable to be used in determining whether to use video.js or <video>, pop-up or not
-        // safari + pop-up + <track> does not work in iPhone/iPod
-        var $_device_is_iphone = false;
-
-
-        function fetchStatus(address, shouldReturn) {
-            var client = new XMLHttpRequest();
-            client.onreadystatechange = function() {
-                // in case of network errors this might not give reliable results
-                if (this.readyState == 4 && shouldReturn) {
-                    returnStatus(this, this.status);
-                    // We have what we need, break out of any possible loop
-                    // (Windows Phone Fix)
-                    client.onreadystatechange = null;
-                    return;
-                }
-            };
-            client.open("HEAD", address);
-            client.send();
-        }
-
-        function returnStatus(req, status) {
-            if(status == 200) {
-                // mobile page exists
-                // alert for redirect
-                if (confirm('View Mobile Version?')) {
-                    // they want to go, so let's set a cookie and go!
-                    document.cookie = 'siteVersion=mobile; expires=; path=/';
-                    fetchStatus("http://www.ushmm.org/api/switchToMobile", false);
-                    window.location = expectedMobileURL;
-                } else {
-                    // they want to stay so let's remember that and reload!
-                    document.cookie = 'siteVersion=full; expires=; path=/';
-                    fetchStatus("http://www.ushmm.org/api/switchToFull", false);
-                    location.reload();
-                }
-            } else {
-                // stay here, there is no mobile version
-            }
-        }
-
-        function getCookie(name) {
-            var cookie;
-            var parts = document.cookie.split(name + "=");
-            if (parts.length == 2) {
-                cookie = parts.pop().split(";").shift();
-            }
-            if (cookie !== undefined) {
-                return cookie;
-            } else {
-                return '';
-            }
-        }
-
-        function goMobile(a) {
-            if (/(android|bb\d+|meego).+mobile|avantgo|bada\/|blackberry|blazer|compal|elaine|fennec|hiptop|iemobile|ip(hone|od)|iris|kindle|lge |maemo|midp|mmp|mobile.+firefox|netfront|opera m(ob|in)i|palm( os)?|phone|p(ixi|re)\/|plucker|pocket|psp|series(4|6)0|symbian|treo|up\.(browser|link)|vodafone|wap|windows (ce|phone)|xda|xiino/i.test(a)||/1207|6310|6590|3gso|4thp|50[1-6]i|770s|802s|a wa|abac|ac(er|oo|s\-)|ai(ko|rn)|al(av|ca|co)|amoi|an(ex|ny|yw)|aptu|ar(ch|go)|as(te|us)|attw|au(di|\-m|r |s )|avan|be(ck|ll|nq)|bi(lb|rd)|bl(ac|az)|br(e|v)w|bumb|bw\-(n|u)|c55\/|capi|ccwa|cdm\-|cell|chtm|cldc|cmd\-|co(mp|nd)|craw|da(it|ll|ng)|dbte|dc\-s|devi|dica|dmob|do(c|p)o|ds(12|\-d)|el(49|ai)|em(l2|ul)|er(ic|k0)|esl8|ez([4-7]0|os|wa|ze)|fetc|fly(\-|_)|g1 u|g560|gene|gf\-5|g\-mo|go(\.w|od)|gr(ad|un)|haie|hcit|hd\-(m|p|t)|hei\-|hi(pt|ta)|hp( i|ip)|hs\-c|ht(c(\-| |_|a|g|p|s|t)|tp)|hu(aw|tc)|i\-(20|go|ma)|i230|iac( |\-|\/)|ibro|idea|ig01|ikom|im1k|inno|ipaq|iris|ja(t|v)a|jbro|jemu|jigs|kddi|keji|kgt( |\/)|klon|kpt |kwc\-|kyo(c|k)|le(no|xi)|lg( g|\/(k|l|u)|50|54|\-[a-w])|libw|lynx|m1\-w|m3ga|m50\/|ma(te|ui|xo)|mc(01|21|ca)|m\-cr|me(rc|ri)|mi(o8|oa|ts)|mmef|mo(01|02|bi|de|do|t(\-| |o|v)|zz)|mt(50|p1|v )|mwbp|mywa|n10[0-2]|n20[2-3]|n30(0|2)|n50(0|2|5)|n7(0(0|1)|10)|ne((c|m)\-|on|tf|wf|wg|wt)|nok(6|i)|nzph|o2im|op(ti|wv)|oran|owg1|p800|pan(a|d|t)|pdxg|pg(13|\-([1-8]|c))|phil|pire|pl(ay|uc)|pn\-2|po(ck|rt|se)|prox|psio|pt\-g|qa\-a|qc(07|12|21|32|60|\-[2-7]|i\-)|qtek|r380|r600|raks|rim9|ro(ve|zo)|s55\/|sa(ge|ma|mm|ms|ny|va)|sc(01|h\-|oo|p\-)|sdk\/|se(c(\-|0|1)|47|mc|nd|ri)|sgh\-|shar|sie(\-|m)|sk\-0|sl(45|id)|sm(al|ar|b3|it|t5)|so(ft|ny)|sp(01|h\-|v\-|v )|sy(01|mb)|t2(18|50)|t6(00|10|18)|ta(gt|lk)|tcl\-|tdg\-|tel(i|m)|tim\-|t\-mo|to(pl|sh)|ts(70|m\-|m3|m5)|tx\-9|up(\.b|g1|si)|utst|v400|v750|veri|vi(rg|te)|vk(40|5[0-3]|\-v)|vm40|voda|vulc|vx(52|53|60|61|70|80|81|83|85|98)|w3c(\-| )|webc|whit|wi(g |nc|nw)|wmlb|wonu|x700|yas\-|your|zeto|zte\-/i.test(a.substr(0,4)))
-            {
-                if( navigator.userAgent.match(/ip(hone|od)/i) ) {
-                    $_device_is_iphone = true;
-                }
-
-                document.cookie = 'isMobile=true; expires=; path=/';
-                if (expectedMobileURL.indexOf('/mobile') !== -1) {
-                    if (getCookie('siteVersion') == '') {
-                        fetchStatus(expectedMobileURL, true);
-                    } else if (getCookie('siteVersion') == 'mobile') {
-                        window.location = expectedMobileURL;
-                    }
-                } else {
-                    if (getCookie('siteVersion') == 'mobile' && expectedMobileURL == '' && document.location.indexOf('.ushmm.org/mobile/') === -1) {
-                        // We want a mobile page, there is no redirect url and we are not on a mobile page
-                        alert('There is no mobile version of this page. The mobile layout will begin at the next matching page.');
-                    }
-                }
-            } else {
-                document.cookie = 'isMobile=false; expires=; path=/';
-            }
-        }
-
-        // THE ONLY THING WE HAVE TO SET
-        // this is the destination page for the mobile redirect
-        var expectedMobileURL = '/mobile/about-the-museum/privacy-policy';
-
-        // the expectedURL is for the mobile site
-        /*if (window.location.href == "https://www.ushmm.org/information/plan-a-visit") {
-            if (window.addEventListener) {
-                window.addEventListener("load", goMobile(navigator.userAgent||navigator.vendor||window.opera), true);
-            } else {
-                window.onload = goMobile(navigator.userAgent||navigator.vendor||window.opera);
-            }            
-        }*/
-
-        // if we made it this far we are staying here, please continue
-    </script>
-
+<!DOCTYPE html><html lang="en"><head>
 
     <meta charset="utf-8">
     <title>Privacy Policy — United States Holocaust Memorial Museum</title>
 
     <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
     <meta http-equiv="X-Frame-Options" content="sameorigin">
+    <meta content="width=device-width, initial-scale=1" name="viewport">
     <meta name="apple-itunes-app" content="app-id=901527212">
     <meta name="description" content="">
+
     <meta name="keywords" content="">
-    <meta name="viewport" content="width=960">    <link rel="shortcut icon" type="image/ico" href="/a/screen/favicon.ico">
-
-    
-    
-
-    <link rel="apple-touch-icon" href="/a/apple-touch-icon.png">
-    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/683468/690822/css/fonts.css">
-    <link href="/a/c/screen.css" rel="stylesheet" media="screen, projection" type="text/css">
-    <link href="/a/c/print.css" rel="stylesheet" media="print" type="text/css">
-    <!--[if IE 8]><link href="/a/c/ie8.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
-    <!--[if lt IE 8]><link href="/a/c/ie.css" rel="stylesheet" media="screen, projection" type="text/css" /><![endif]-->
-    <script type="text/javascript"><!--
-    document.write('<link href="/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css" />');
-    //-->
-    </script><link href="/a/c/enhanced.css" rel="stylesheet" media="screen, projection" type="text/css">
-    <link href="/a/c/royalslider.css" rel="stylesheet" media="screen, projection" type="text/css">
-
-    
-    
-    
-
-    
-    <script src="//ajax.googleapis.com/ajax/libs/jquery/1.8.3/jquery.min.js"></script>
     <meta name="google-site-verification" content="GNkxHPjfQA7o6nZ4hQ0bSjUqOMbPtX2ZBllxMuPlVyk">
+    
+    
+    <link rel="shortcut icon" type="image/ico" href="/a/screen/favicon.ico">
+    <link rel="apple-touch-icon" href="/a/apple-touch-icon.png">
+
+    
+    
+
+    <link href="/a/j/bootstrap/bootstrap-3.3.4/css/bootstrap.min.css" rel="stylesheet" type="text/css" media="screen">
+
+    <link href="/a/font-awesome/css/font-awesome.min.css" type="text/css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="//cloud.typography.com/683468/690822/css/fonts.css">
+
+    <link href="/a/c/responsive/global-header.css" rel="stylesheet" type="text/css">
+    <link href="/a/c/responsive/global-footer.css" rel="stylesheet" type="text/css">
+    <link href="/a/c/responsive/common.css" rel="stylesheet" type="text/css">
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="//oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+        <script src="//oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+    <![endif]-->
 
     
     
     
-    
+
     
                 <link href="/a/vplayer/video-js.css" rel="stylesheet" type="text/css">
-            <script src="/a/vplayer/video.js"></script>
+            <script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-WFXT2L"></script><script src="/a/vplayer/video.js"></script>
             
             <script>
                 videojs.options.flash.swf = "/a/vplayer/video-js.swf"
             </script>
 
-<link rel="stylesheet" type="text/css" href="/a/c/font-awesome-4.3.0/css/font-awesome.min.css"><meta property="og:site_name" content="United States Holocaust Memorial Museum"><meta property="og:type" content="article"><meta property="og:image" content="//www.ushmm.org/m/img/facebook.png"><style>* {margin:0; padding:0;}/**** THE STYLES FROM HERE TO THE END ARE THE ONES THAT MATTER FOR THE SOCIAL TOOLS ****/.social-share.desktop { background:none; border:none; color:#111;  z-index:9; width:45px; padding:5px 20px 0 0; text-align:center; margin-left:0; position:static;}.social-share.desktop h4 { color:#888; padding:0 0 5px 0; font-size:13px; text-transform:uppercase; letter-spacing:0.25px; margin:0; font-weight:bold; font-family:'Arial Narrow', sans-serif;}.social-share.desktop a { display:block; margin-bottom:-1px; background:#fff; border:1px solid #ccc; border-radius:0; font-size:21px; color:#cecece; width:45px; padding:10px 10px 8px 10px; box-shadow:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; transition: all 300ms; -webkit-transition: all 300ms;}.social-share.desktop a:hover { color:#4F6D91;}</style></head>
-<body class="full-text content-tmplt">
+    	<link rel="stylesheet" href="/a/c/responsive/basicpage.css">
+	
+
+   <script src="//ajax.googleapis.com/ajax/libs/jquery/3.1.0/jquery.min.js"></script>
+
+</head>
+<body class="basic-page-template">
+
+    <p class="move" style="display:none;"><a href="#skip" tabindex="0">Skip to main content</a></p>
+
+	<menu id="global-nav">
+	<a href="#" id="close-drawer"><i class="fa fa-times-circle" aria-hidden="true"></i></a>
+
+	<div id="parent-column">
+	
+		<h3>Visit the Museum</h3>
+		<div class="hidden-drop">
+			<ul>
+				<li><a href="/information/visit-the-museum/plan-your-visit">Plan Your Visit</a></li>
+				<li><a href="/information/visit-the-museum/hours-location-transportation">Hours, Location, and Transportation</a></li>
+				<li><a href="/information/visit-the-museum/admission-tickets">Admission and Tickets</a></li>
+				<li><a href="/information/visit-the-museum/group-reservations">Group Reservations</a></li>
+				<li><a href="/information/visit-the-museum/today-at-the-museum">Daily Programs and Activities</a></li>
+				<li><a href="/information/visit-the-museum/museum-cafe">Museum Cafe</a></li>
+				<li><a href="/information/visit-the-museum/tips">Tips for Your Visit</a></li>
+				<li><a href="/information/visit-the-museum/museum-accessibility">Museum Accessibility</a></li>
+			</ul>
+		</div>
+	
+		<h3>Exhibitions</h3>
+		<div class="hidden-drop">
+			<ul>
+				<li><a href="/information/exhibitions/museum-exhibitions">Current Museum Exhibitions</a></li>
+				<li><a href="/information/exhibitions/traveling-exhibitions">Traveling Exhibitions</a></li>
+				<li><a href="/information/exhibitions/online-exhibitions">Online Exhibitions</a></li>
+				<!--<li><a href="#">Past Exhibitions</a></li>-->
+			</ul>
+		</div>
+
+		<h3>Learn about the Holocaust</h3>
+		<div class="hidden-drop">
+			<ul>
+		    	<li><a href="/wlc/en/article.php?ModuleId=10005143">Introduction to the Holocaust</a></li>
+				<li><a href="/learn/students">Information for Students</a></li>
+				<li><a href="/educators">Resources for Educators</a></li>
+				<li><a href="/learn/timeline-of-events/before-1933">Timeline of Events</a></li>
+				<li><a href="/learn/holocaust-encyclopedia">Holocaust Encyclopedia</a></li>
+				<li><a href="/learn/mapping-initiatives">Holocaust and Related Maps</a></li>
+				<li><a href="/learn/students/learning-materials-and-resources">Learning Materials and Resources</a></li>
+				<li><a href="/information/exhibitions/online-features">Online Features</a></li>
+			</ul>
+		</div>
+
+		<h3>Research and Collections</h3>
+		<div class="hidden-drop">
+			<ul>
+				<li><a href="//collections.ushmm.org/search/">Collections Search</a></li>
+				<li><a href="/research/research-in-collections/collections-highlights">Collections Highlights</a></li>
+				<li><a href="/research/research-in-collections/curators-corner">Curators Corner</a></li>
+				<li><a href="//collections.ushmm.org/search/?f%5Bfnd_type%5D%5B%5D=photo">Photographs</a></li>
+				<li><a href="http://catalog.ushmm.org/vwebv/searchBasic">Library Search</a></li>
+				<li><a href="/research/research-in-collections/research-visit">Onsite Research</a></li>
+				<li><a href="/research/research-in-collections/search-the-collections">Research Resources Overview</a></li>
+				<li><a href="/research/research-in-collections/borrow-duplicate-and-donate/donating-to-collections-archives">Donate to the Collections</a></li>
+			</ul>
+		</div>
+
+		<h3>Remember Survivors and Victims</h3>
+		<div class="hidden-drop">
+			<ul>
+				<li><a href="/remember/days-of-remembrance">Days of Remembrance</a></li>
+				<li><a href="/remember/id-cards">Identification Cards</a></li>
+				<li><a href="/remember/the-holocaust-survivors-and-victims-resource-center">The Holocaust Survivors and Victims Resource Center</a></li>
+				<li><a href="/remember/office-of-survivor-affairs">Office of Survivor Affairs</a></li>
+				<li><a href="/remember/the-holocaust-survivors-and-victims-resource-center/survivors-and-victims/survivor-testimonies">Survivor Testimonies and Resources</a></li>
+			</ul>
+		</div>
+
+		<h3>Genocide Prevention</h3>
+		<div class="hidden-drop">
+			<ul>
+				<li><a href="/confront-genocide">Confront Genocide</a></li>
+				<li><a href="/confront-genocide/defining-genocide">What Is Genocide?</a></li>
+				<li><a href="/confront-genocide/justice-and-accountability">Justice and Accountability</a></li>
+				<li><a href="/confront-genocide/cases">Cases</a></li>
+				<li><a href="/confront-genocide/take-action-against-genocide">Take Action</a></li>
+			</ul>
+		</div>
+
+		<h3>Antisemitism and Holocaust Denial</h3>
+		<div class="hidden-drop">
+			<ul>
+				<li><a href="/confront-antisemitism/antisemitism-the-longest-hatred">Antisemitism: The Longest Hatred</a></li>
+				<li><a href="/confront-antisemitism/holocaust-denial-and-distortion">Holocaust Denial and Distortion</a></li>
+				<li><a href="/confront-antisemitism/antisemitism-podcast">Voices on Antisemitism Podcast</a></li>
+				<li><a href="/confront-antisemitism/teaching-about-antisemitism">Teaching about Antisemitism</a></li>
+			</ul>
+		</div>
+
+		<h3>Resources for Academics</h3>
+		<div class="hidden-drop">
+			<ul>
+				<li><a href="//collections.ushmm.org/search/">Collections Search</a></li>
+				<li><a href="/research/ask-a-research-question">Ask a Research Question</a></li>
+				<li><a href="/research/competitive-academic-programs">Competitive Academic Programs</a></li>
+				<li><a href="/research/scholarly-presentations">Scholarly Presentations</a></li>
+				<li><a href="/research/publications">Publications</a></li>
+				<li><a href="/research/research-in-collections/research-visit">Onsite Research</a></li>
+			</ul>
+		</div> 
+	</div> <!-- #parent-column -->
+
+	<div id="global-third-column">
+		<a class="donate-button" href="//engage.ushmm.org/support.html"><button type="button" class="btn btn-warning">Donate to the Museum</button></a>
+   		
+   		<div class="other-websites">
+			<h3>Other Museum Websites</h3>
+			<ul>
+				<li><a href="//newspapers.ushmm.org/?utm_source=ushmm&amp;utm_medium=web&amp;utm_campaign=nav" target="_blank">History Unfolded</a></li>
+				<li><a href="//earlywarningproject.org/?utm_source=ushmm&amp;utm_medium=web&amp;utm_campaign=nav" target="_blank">Early Warning Project</a></li>
+			</ul>
+		</div>
+
+	    <ul> 
+	       	<li><a href="/support">Support the Museum</a></li>
+			<li><a href="/information/connect-with-the-museum">Connect With the Museum</a></li>
+			<li><a href="/information/career-volunteer-opportunities">Career &amp; Volunteer Opportunities</a></li>
+			<li><a href="/online/calendar/">Public Events Calendar</a></li>
+			<li><a href="/information/press">Press Room</a></li>
+			<li><a href="/information/about-the-museum">About the Museum</a></li>
+			<li><a href="/professionals-and-student-leaders">Resources for Professional and Student Leaders</a></li>
+	    </ul>
+
+	</div> <!-- #global-third-column -->
+</menu>
 
 
+<!-- OLD VERSION: DELETE AFTER 2016 IF NOT USED
+<section id="nav-items">
 
-<p class="move"><a href="#skip" tabindex="0">Skip to main content</a></p>
+<script type="text/javascript">
 
-<div class="header" role="banner">
-	<div class="wrap">
-
-		
-		<strong class="move"><a href="https://www.ushmm.org/">United States Holocaust Memorial Museum</a></strong>
-		
-
-		<ul class="utility-nav" role="navigation">
-			<li class="utility-site">
-				<a onclick="return false;" href="#" class="drop-link">Site</a>
-				<div>
-                    <ul>
-                        
-                            <li lang=""><a href="/">English home page</a></li>
-                        
-                            <li lang="ar"><a href="/ar">المصادر بالعربية</a></li>
-                        
-                            <li lang="el"><a href="/el">Πηγές στα Ελληνικά</a></li>
-                        
-                            <li lang="es"><a href="/es">Recursos en español</a></li>
-                        
-                            <li lang="fa"><a href="/fa">منابع موجود به زبان فارسی</a></li>
-                        
-                            <li lang="fr"><a href="/fr">Ressources en français</a></li>
-                        
-                            <li lang="hu"><a href="/hu">Gyűjtemény és tudástár magyar nyelven</a></li>
-                        
-                            <li lang="id"><a href="/id">Sumber Bahasa Indonesia</a></li>
-                        
-                            <li lang="it"><a href="/it">Materiali e risorse in italiano</a></li>
-                        
-                            <li lang="ja"><a href="/ja">日本語のリソース</a></li>
-                        
-                            <li lang="ko"><a href="/ko">한국어 자료</a></li>
-                        
-                            <li lang="ptbr"><a href="/ptbr">Recursos em Português (do Brasil)</a></li>
-                        
-                            <li lang="ru"><a href="/ru">Материалы на русском языке</a></li>
-                        
-                            <li lang="tr"><a href="/tr">Türkçe Kaynaklar</a></li>
-                        
-                            <li lang="ur"><a href="/ur">اُردو ری سورسز</a></li>
-                        
-                            <li lang="zh"><a href="/zh">中文参考资料</a></li>
-                        
-                    </ul>
-				</div>
-			</li>
-			<li><a href="https://www.ushmm.org/online/calendar/">Events</a></li>
-			<li><a href="https://www.ushmm.org/information/visit-the-museum/plan-your-visit">Plan Your Visit</a></li>
-			<li><a href="https://www.ushmm.org/support">Support the Museum</a></li>
-			<li><a href="https://www.ushmm.org/information/connect-with-the-museum">Connect</a></li>
-			<li><a href="https://engage.ushmm.org/support.html" class="btn">Donate</a></li>
-		</ul>
-
-
-		<ul class="main-nav" role="navigation">
-			<li><a href="https://www.ushmm.org/learn"><strong>Learn About</strong> The Holocaust</a></li>
-			<li><a href="https://www.ushmm.org/remember"><strong>Remember</strong> Survivors and Victims</a></li>
-			<li class="alt-main-nav"><strong>Confront</strong> <a class="nav-genocide" href="https://www.ushmm.org/confront-genocide">Genocide</a> <span class="move">and</span> <a class="" href="https://www.ushmm.org/confront-antisemitism">Antisemitism</a></li>
-		</ul>
-
-		<form action="/search/results/" method="get" name="search" id="search" role="search" onsubmit="return validate_site_search()">
-			<p>
-				<label for="searchtext" class="move">Search the United States Holocaust Memorial Museum site:</label>
-				<input type="text" id="searchtext" name="q" value="Ex: Kristallnacht" class="filled">
-				<input type="submit" value="Search" class="btn">
-			</p>
-		</form>
-
-        <script type="text/javascript">
-        function validate_site_search() {
-            var value = document.search.q.value;
-
-            if( value == '' || value == 'Ex: Kristallnacht' )
-            {
-                alert( "Please enter a search term." );
-                document.search.q.value = '';
-                document.search.q.focus();
-                return false;
-            }
-
-            return true;
-        }
-        </script>
-
-	</div>
-</div>
-
-<div class="content">
-
-        <div class="foremost">
-
-        <a href="/" class="logo-link"><img src="/a/titles/logo-foremost.gif"></a>
-
-        <ul class="breadcrumbs">
-            <li class="first"><a href="https://www.ushmm.org/">Home</a></li>
-
-            
-
-                
-
-                    
-                    <li><a href="https://www.ushmm.org/copyright-and-legal-information">Copyright and Legal Information</a></li>
-                
-
-            
-        </ul>
-
-        <h1>
-        	        		Privacy Policy        		 
-        	        	
-        </h1>
-    </div>
+$(document).ready(function() {
     
-
-        <div class="wrap">
-
-                <div class="secondary">
-            <script type="text/javascript">
-function fixSocial() {
- var bodyTop = $('body').position().top + 300;
- var bottomStopper = ($(document).height() - 800);
- var margins = $(window).width() - 978;
- var oneMargin = margins/2;
- var rightPos = 978 + oneMargin;
- $('.social-share.desktop').css({'right':rightPos});
-
- if ( ($(window).scrollTop() > bodyTop) && ($(window).scrollTop() <= bottomStopper)) { 
-     $('.social-share.desktop').css({'top': '0', 'position':'fixed'}); 
- }
- else if ($(window).scrollTop() > bottomStopper) {
-     $('.social-share.desktop').css({'top': bottomStopper, 'position':'absolute'});
- }
- else {
-     $('.social-share.desktop').css({'top':bodyTop, 'position':'absolute'});
- }
-} // end desktop social share
-
-var USHMMShareDisplayElement = document.createElement("div");
-var USHMMShareDisplayIDAttribute = document.createAttribute("id");
-USHMMShareDisplayIDAttribute.value = "desktop-share-col";
-USHMMShareDisplayElement.setAttributeNode(USHMMShareDisplayIDAttribute);
-USHMMShareDisplayElement.innerHTML = "<div class='social-share desktop'><h4>Share</h4><a href='#' onclick=\"window.open('https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy','facebook-share-dialog','width=626,height=436'); return false;\"><i class='fa fa-facebook'></i></a><a href='#' onclick=\"window.open('https://twitter.com/share?url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy&lang=en&text=Privacy+Policy&related=HolocaustMuseum','Twitter-Share','width=626,height=436'); return false;\"><i class='fa fa-twitter'></i></a><a href='#' onclick=\"javascript:window.open('https://plus.google.com/share?url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy', 'Google Plus', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;\"><i class='fa fa-google-plus'></i></a><a href='#' onclick=\"window.open('//www.linkedin.com/shareArticle?mini=true&url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy&title=Privacy+Policy&summary=&source=United%20States%20Holocaust%20Memorial%20Museum','linkedIn-Share','width=626,height=436'); return false;\"><i class='fa fa-linkedin'></i></a><a href='mailto:?subject=I found something interesting on USHMM.org&body=Privacy+Policy%0D%0A%0D%0A%0D%0A%0D%0Ahttps%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy' target='_blank'><i class='fa fa-envelope'></i></a></div>";
-document.body.appendChild(USHMMShareDisplayElement);
-var USHMMShareLinkElement = document.createElement("link");
-var USHMMShareRelAttribute = document.createAttribute("rel");
-USHMMShareRelAttribute.value = "stylesheet";
-USHMMShareLinkElement.setAttributeNode(USHMMShareRelAttribute);
-var USHMMShareTypeAttribute = document.createAttribute("type");
-USHMMShareTypeAttribute.value = "text/css";
-USHMMShareLinkElement.setAttributeNode(USHMMShareTypeAttribute);
-var USHMMShareHrefAttribute = document.createAttribute("href");
-USHMMShareHrefAttribute.value = "/a/c/font-awesome-4.3.0/css/font-awesome.min.css";
-USHMMShareLinkElement.setAttributeNode(USHMMShareHrefAttribute);
-document.head.appendChild(USHMMShareLinkElement);
-var USHMMFacebookSiteNameMeta = document.createElement("meta");
-var USHMMFacebookSiteNamePropertyAttribute = document.createAttribute("property");
-USHMMFacebookSiteNamePropertyAttribute.value = "og:site_name";
-USHMMFacebookSiteNameMeta.setAttributeNode(USHMMFacebookSiteNamePropertyAttribute);
-var USHMMFacebookSiteNameContentAttribute = document.createAttribute("content");
-USHMMFacebookSiteNameContentAttribute.value = "United States Holocaust Memorial Museum";
-USHMMFacebookSiteNameMeta.setAttributeNode(USHMMFacebookSiteNameContentAttribute);
-document.head.appendChild(USHMMFacebookSiteNameMeta);
-var USHMMFacebookTypeMeta = document.createElement("meta");
-var USHMMFacebookTypePropertyAttribute = document.createAttribute("property");
-USHMMFacebookTypePropertyAttribute.value = "og:type";
-USHMMFacebookTypeMeta.setAttributeNode(USHMMFacebookTypePropertyAttribute);
-var USHMMFacebookTypeContentAttribute = document.createAttribute("content");
-USHMMFacebookTypeContentAttribute.value = "article";
-USHMMFacebookTypeMeta.setAttributeNode(USHMMFacebookTypeContentAttribute);
-document.head.appendChild(USHMMFacebookTypeMeta);
-var USHMMFacebookImageMeta = document.createElement("meta");
-var USHMMFacebookImagePropertyAttribute = document.createAttribute("property");
-USHMMFacebookImagePropertyAttribute.value = "og:image";
-USHMMFacebookImageMeta.setAttributeNode(USHMMFacebookImagePropertyAttribute);
-var USHMMFacebookImageContentAttribute = document.createAttribute("content");
-USHMMFacebookImageContentAttribute.value = "//www.ushmm.org/m/img/facebook.png";
-USHMMFacebookImageMeta.setAttributeNode(USHMMFacebookImageContentAttribute);
-document.head.appendChild(USHMMFacebookImageMeta);
-var USHMMShareStyleElement = document.createElement("style");
-USHMMShareStyleElement.innerHTML = "* {margin:0; padding:0;}/**** THE STYLES FROM HERE TO THE END ARE THE ONES THAT MATTER FOR THE SOCIAL TOOLS ****/.social-share.desktop { background:none; border:none; color:#111;  z-index:9; width:45px; padding:5px 20px 0 0; text-align:center; margin-left:0; position:static;}.social-share.desktop h4 { color:#888; padding:0 0 5px 0; font-size:13px; text-transform:uppercase; letter-spacing:0.25px; margin:0; font-weight:bold; font-family:'Arial Narrow', sans-serif;}.social-share.desktop a { display:block; margin-bottom:-1px; background:#fff; border:1px solid #ccc; border-radius:0; font-size:21px; color:#cecece; width:45px; padding:10px 10px 8px 10px; box-shadow:border-box; -webkit-box-sizing:border-box; -moz-box-sizing:border-box; transition: all 300ms; -webkit-transition: all 300ms;}.social-share.desktop a:hover { color:#4F6D91;}";
-document.head.appendChild(USHMMShareStyleElement);
-$(window).scroll(fixSocial);
-var fixd_social = setInterval(fixSocial, 100);
+    $('#nav-items h3:not(.other-websites h3)').click(function() {
+        // ga('send', 'event', 'drawer', 'click', 'nav-items h3', 1);
+		//$(this).next('ul').slideToggle(300);
+		
+		if( $(this).hasClass('openToggle') ) {
+			$(this).children('i').removeClass('fa-minus-circle');
+			$(this).children('i').addClass('fa-plus-circle');
+			$(this).next('ul').slideUp(300);
+			$(this).removeClass('openToggle');
+		}
+		else {
+			$(this).next('ul').slideDown(300);
+			$(this).children('i').removeClass('fa-plus-circle');
+			$(this).children('i').addClass('fa-minus-circle');
+			$(this).addClass('openToggle');
+		}
+	});
+	
+});
 
 </script>
 
+	<h3><i class="fa fa-plus-circle"></i> Plan Your Visit</h3>
+	<ul class="submenu">
+		<li><a href="/information/plan-a-visit">Things to Know before You Visit</a></li>
+		<li><a href="/information/plan-a-visit/museum-hours">Museum Hours</a></li>
+		<li><a href="/information/plan-a-visit#Admission and Ticketing">Admission and Tickets</a></li>
+		<li><a href="/information/exhibitions">Exhibitions</a></li>
+		<li><a href="/online/calendar/">Public Events Calendar</a></li>
+		<li><a href="/information/museum-cafe">Museum Cafe</a></li>
+        <li><a href="/information/plan-a-visit/groups">Group Visits</a></li>
+	</ul>
 
-            
-                
-                <ul id="nav-sub" class="nav">
-<li class="first"><a href="https://www.ushmm.org/copyright-and-legal-information/terms-of-use">Terms of Use</a></li>
-<li class="active"><a href="https://www.ushmm.org/copyright-and-legal-information/privacy-policy">Privacy Policy</a></li>
-<li><a href="https://www.ushmm.org/copyright-and-legal-information/annual-reports">Reports</a></li>
-<li><a href="https://www.ushmm.org/copyright-and-legal-information/irs-form-990">IRS Form 990</a></li>
-<li><a href="https://www.ushmm.org/copyright-and-legal-information/performance-and-accountability">Performance and Accountability</a></li>
-<li class="last"><a href="https://www.ushmm.org/copyright-and-legal-information/legal-and-tax-status-information">Legal and Tax Status Information</a></li>
-</ul>
+	<h3><i class="fa fa-plus-circle"></i> Learn About the Holocaust</h3>
+	<ul class="submenu">
+    	<li><a href="/wlc/en/article.php?ModuleId=10005143">Introduction to the Holocaust</a></li>
+		<li><a href="/learn/students">Information for Students</a></li>
+		<li><a href="/learn/timeline-of-events/before-1933">Timeline of Events</a></li>
+		<li><a href="/learn/holocaust-encyclopedia">Holocaust Encyclopedia</a></li>
+		<li><a href="/learn/mapping-initiatives">Holocaust and Related Maps</a></li>
+		<li><a href="/information/exhibitions/online-features">Online Features</a></li>
+        <li><a href="/learn/students/learning-materials-and-resources">Learning Materials and Resources</a></li>
+	</ul>
 
-            
+	<h3><i class="fa fa-plus-circle"></i> Research and Collections</h3>
+	<ul class="submenu">
+		<li><a href="//collections.ushmm.org/search/">Collections Search</a></li>
+        <li><a href="//collections.ushmm.org/search/?f%5Bfnd_type%5D%5B%5D=photo">Photographs</a></li>
+		<li><a href="http://catalog.ushmm.org/vwebv/searchBasic">Library Search</a></li>
+        <li><a href="/research/research-in-collections/research-visit">Onsite Research</a></li>
+		<li><a href="/research/research-in-collections/search-the-collections">Research Resources Overview</a></li>
+        <li><a href="/research/research-in-collections/borrow-duplicate-and-donate/donating-to-collections-archives">Donate to the Collections</a></li>
+	</ul>
 
-                    
+	<h3><i class="fa fa-plus-circle"></i> Remember Survivors and Victims</h3>
+	<ul class="submenu">
+		<li><a href="/remember/days-of-remembrance">Days of Remembrance</a></li>
+		<li><a href="/remember/id-cards">Identification Cards</a></li>
+		<li><a href="/remember/the-holocaust-survivors-and-victims-resource-center">The Holocaust Survivors and Victims Resource Center</a></li>
+		<li><a href="/remember/office-of-survivor-affairs">Office of Survivor Affairs</a></li>
+		<li><a href="/remember/the-holocaust-survivors-and-victims-resource-center/survivors-and-victims/survivor-testimonies">Survivor Testimonies and Resources</a></li>
+	</ul>
+
+	<h3><i class="fa fa-plus-circle"></i> Genocide Prevention</h3>
+	<ul class="submenu">
+		<li><a href="/confront-genocide/defining-genocide">What Is Genocide?</a></li>
+		<li><a href="/confront-genocide/justice-and-accountability">Justice and Accountability</a></li>
+		<li><a href="/confront-genocide/cases">Cases</a></li>
+		<li><a href="/confront-genocide/take-action-against-genocide">Take Action</a></li>
+	</ul>
+
+	<h3><i class="fa fa-plus-circle"></i> Antisemitism and Holocaust Denial</h3>
+	<ul class="submenu">
+		<li><a href="/confront-antisemitism/antisemitism-the-longest-hatred">Antisemitism: The Longest Hatred</a></li>
+		<li><a href="/confront-antisemitism/holocaust-denial-and-distortion">Holocaust Denial and Distortion</a></li>
+		<li><a href="/confront-antisemitism/antisemitism-podcast">Voices on Antisemitism Podcast</a></li>
+		<li><a href="/confront-antisemitism/teaching-about-antisemitism">Teaching about Antisemitism</a></li>
+	</ul>
+
+	<h3><i class="fa fa-plus-circle"></i> Resources for Academics</h3>
+	<ul class="submenu">
+		<li><a href="//collections.ushmm.org/search/">Collections Search</a></li>
+		<li><a href="/research/ask-a-research-question">Ask a Research Question</a></li>
+		<li><a href="/research/competitive-academic-programs">Competitive Academic Programs</a></li>
+		<li><a href="/research/scholarly-presentations">Scholarly Presentations</a></li>
+		<li><a href="/research/publications">Publications</a></li>
+		<li><a href="/research/research-in-collections/research-visit">Onsite Research</a></li>
+	</ul>
+
+	<a href="https://engage.ushmm.org/support.html" id="menu-donate">Donate to the Museum</a>
+
+	<div class="other-websites">
+		<h3>Other Museum Websites</h3>
+		<ul>
+			<li><a href="//newspapers.ushmm.org/?utm_source=ushmm&utm_medium=web&utm_campaign=nav" target="_blank" >History Unfolded</a></li>
+			<li><a href="//earlywarningproject.org/?utm_source=ushmm&utm_medium=web&utm_campaign=nav" target="_blank">Early Warning Project</a></li>
+		</ul>
+	</div>
+
+	<ul>
+    	<li><a href="/support">Support the Museum</a></li>
+		<li><a href="/information/connect-with-the-museum">Connect With the Museum</a></li>
+		<li><a href="/information/career-volunteer-opportunities">Career &amp; Volunteer Opportunities</a></li>
+		<li><a href="/online/calendar/">Public Events Calendar</a></li>
+		<li><a href="/information/press">Press Room</a></li>
+        <li><a href="/information/about-the-museum">About the Museum</a></li>
+	</ul>
+
+</section>--> <!-- #nav-items -->
+
+
+    <div class="body-wrapper">
+
+            <script type="text/javascript">
+	// Load header CSS if it isn't already in the head tag
+	if (!$("link[href='/a/c/responsive/global-header.css']").length) {
+		$("<link href='/a/c/responsive/global-header.css' rel='stylesheet' type='text/css' />").appendTo("head");
+	}
+</script>
+
+<div id="global-header">
+<!--
+	<nav class="global-nav-menu">
+
+	</nav>
+-->
+	<menu class="courtesy clearfix">
+		<div class="header-inner">
+
+			<ul>
+				<li id="language-drop"><a href="#"><i class="fa fa-caret-down"></i> Language</a>
+					<ul>
+						<li lang=""><a href="/">English home page</a></li>
+						<li lang="ar"><a href="/ar">المصادر بالعربية</a></li>
+						<li lang="el"><a href="/el">Πηγές στα Ελληνικά</a></li>
+						<li lang="es"><a href="/es">Recursos en español</a></li>
+						<li lang="fa"><a href="/fa">منابع موجود به زبان فارسی</a></li>
+						<li lang="fr"><a href="/fr">Ressources en français</a></li>
+						<li lang="id"><a href="/id">Sumber Bahasa Indonesia</a></li>
+						<li lang="it"><a href="/it">Materiali e risorse in italiano</a></li>
+						<li lang="hu"><a href="/hu">Gyűjtemény és tudástár magyar nyelven</a></li>
+						<li lang="ja"><a href="/ja">日本語のリソース</a></li>
+						<li lang="ko"><a href="/ko">한국어 자료</a></li>
+						<li lang="ptbr"><a href="/ptbr">Recursos em Português (do Brasil)</a></li>
+						<li lang="ru"><a href="/ru">Материалы на русском языке</a></li>
+						<li lang="tr"><a href="/tr">Türkçe Kaynaklar</a></li>
+						<li lang="ur"><a href="/ur">اُردو ری سورسز</a></li>
+						<li lang="zh"><a href="/zh">中文参考资料</a></li>
+					</ul>
+				</li>
+
+				<li><a href="/information/visit-the-museum/plan-your-visit">Plan Your Visit</a></li>
+				<li><a href="/online/calendar/">Upcoming Events</a></li>
+				<li><a href="/support">Support the Museum</a></li>
+				<li><a href="https://engage.ushmm.org/support.html" id="donate-top">Donate</a></li>
+			</ul>
+
+		</div>
+	</menu> <!-- .courtesy -->
+
+	<header>
+		<div class="header-inner">
+
+			<div id="menu-link-2" class="h-child nav-control" title="menu.html#nav-items">
+				<!-- page location is in title attribute. this could be added to the page or loaded another way -->
+				<a href="#"><i class="fa fa-bars"></i></a> <span>Menu</span>
+			</div> <!-- #menu-link -->
+
+			<div id="search-link" class="h-child">
+				<a href="#"><i class="fa fa-search"></i></a> <span>Search</span>
+			</div> <!-- #search-link -->
+
+			<a href="/" class="mobile"><img src="/a/i/USHMM_WhiteWhite.png" id="site-logo"></a>
+
+			<div class="desktop-menu-2 desktop">
+				<div class="top-item right">
+					<div>
+						<a href="/learn"><span>Learn About</span> the Holocaust</a>
+					</div>
+					<div>
+						<a href="/remember"><span>Remember</span> Survivors and Victims</a>
+					</div>
+					<div>
+						<span>Confront</span> <a href="/confront-genocide">Genocide</a> <em>|</em> <a href="/confront-antisemitism">Antisemitism</a>
+					</div>
+				</div> <!-- .top-item -->
+
+				<a href="/" class="desktop"><img src="/a/i/USHMM_WhiteWhite.png" id="site-logo"></a>
+			</div> <!-- .desktop-menu -->
+
+		</div> <!-- .container-inner -->
+	</header>
+
+	<div id="site-search">
+		<script>
+<!--
+var a='';var b='92s2%e%%2ith2%2ere2ocl%309elv0tS%nC%0%%hc22%xhn20m03C%-El-Apt30i2%EiA0%r%0%%02200020%022%r2tr%e%0an32%ea//E090Cs%2a%2tSE03dc22tDteeY0Hee301ra%%9styste%p0p%mA%22%%2%%2%%%m%%Doeseatal20%chgcheA90%l3ortaheee%u3a2f23paE2Sr2%i%22c093cb%b%Shu090C2220%%%020% 0fD2l-%u2de92r2203%n2%%0p%322De22E%3%iDel32p%lDr%%22/t0%tE000ne20u2/%9Ao%20002002%0 032r3tnnDvs%2e%s2d2Dru0930l%2os%%%309n2t0%l2%o3ur2%q%%CAat0%a%22%D3t330%00%22%%0002 0oa%siio30_ce2%22o%0%r2%%00D%%c3cral9C0rsi020r2%20%%%u-Kh-9i2%%ul3aCE%%%2%2%00022202%id0aa2iraerr3hm%t2%2s%%A9bc2fret0/%%92s2%%e2c2%cT22EE20n%%%%%2%ve2n0/933%%2%20%020 9%%h2c20ul_2%%2eam2tat0CE%2%2%er02l%9%%x%Dd%2l%reemDn33%i209u2p322r%%C3900%%0%22%22 Ar3csnnb%ns8oscDhDt3e/29%9ase2xEe0tA0t2e%s%y2et0aea22p%3s%%ns2tm22c%9%0fE20220%%%%% %Cec2nrmt2i2%Da%%%2iss3%%%%am3h2hiib0pitaleted%ohrn%32%xl30ClD2Da%%3%%E/%0002022%%0 ';var c='938247650149358270166283714095497213506836580421977294658013548290613775423896105483062971819546703226789035412650178493934701682506972584138643750219609182354770289456137062549381062183495751279036845631987402852940761385691372048532914607384790652125694831073128604975609187254369208573140642593781431659278013945806275201769843830195247619823406759250317486876953142060153492876591723048632510487976281403958437601259497620835183602174599014863752326104798594375620817608194352127846935067903451821523460987190753642885964103278530762914749615082309784326517831906425487250193690172645831437629580706532941860958721346429081735796341528014802736953695407821578213694079530612484572036891350294761879143026587562983014680719243571395806240297584136897635420102451936874682351097054162938728541736909367501248723148509661038492751509382674';for(var i=0;i<84;i++) for(var j=0;j<10;j++) a+=b.charAt((parseInt(c.charAt(i*10+j))*84)+i); document.writeln(unescape(a));
+-->
+</script>
+		<form id="search" class="container-inner" onsubmit="return validate_site_search()" role="search" name="search" method="get" action="/search/results/">
+			<p>
+				<label class="move" for="searchtext">Search the Entire Site</label>
+				<input id="searchtext" class="filled" type="text" placeholder="Enter Your Search Term Here" name="q"> <!-- Ex: Kristallnacht -->
+				<input class="btn" type="submit" value="Search">
+			</p>
+		</form>
+                                           
+
+<noscript>
+<I>[Please Enable JavaScript]</I>
+</noscript>
+
+	</div>
+
+	<!--<div class="border-bar"></div>-->
+
+</div>
+
+<div id="global-sticky-header"></div>
+
+		    
 
     
-    
+	
+	
+	
+<div id="main-wrap" class="wrap">
 
-        
-    
-        
-        </div>
-        
-        
+						<div id="page-title-header">
+				
 
-<div class="main text" id="skip" tabindex="0" role="main">
+				
+					
+						<div class="title-box no-top-img">
+					
+				 
 
+					<div class="title-content">
+						<h4><a href="https://www.ushmm.org/copyright-and-legal-information">Copyright and Legal Information</a></h4>
+						<h1>Privacy Policy</h1>
 
-    
+						
+							<h3></h3>
+						
 
+					</div>
 
-    
+					<section id="share-bar">
+						<div class="opt-content-inner">
+						<div class="optical-shadow"></div>
+						<span>Share</span>
+						<a href="#" onclick="window.open('https://www.facebook.com/sharer.php?u='+encodeURIComponent('https://www.ushmm.org/copyright-and-legal-information/privacy-policy'),'facebook-share-dialog','width=626,height=436'); return false;"><i class="fa fa-facebook" aria-hidden="true"></i></a>
+						<a href="#" onclick="window.open('https://twitter.com/share?url='+encodeURIComponent('https://www.ushmm.org/copyright-and-legal-information/privacy-policy')+'&amp;lang=en&amp;text='+encodeURIComponent('Privacy Policy')+'&amp;related=HolocaustMuseum','Twitter-Share','width=626,height=436'); return false;"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+						
+							<a href="#" onclick="window.open('https://pinterest.com/pin/create/link/?url=https://www.ushmm.org/copyright-and-legal-information/privacy-policy', 'Pinterest-Share','width=626,height=436')"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
+						
+						<a href="#" onclick="window.open('//www.linkedin.com/shareArticle?mini=true&amp;url='+encodeURIComponent('https://www.ushmm.org/copyright-and-legal-information/privacy-policy')+'&amp;title='+encodeURIComponent('Privacy Policy')+'&amp;summary=&amp;source=United%20States%20Holocaust%20Memorial%20Museum','linkedIn-Share','width=626,height=436'); return false;"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+						<a href="#" onclick="window.open('https://www.tumblr.com/share/link?url=https://www.ushmm.org/copyright-and-legal-information/privacy-policy', 'Tumblr-Share','width=626,height=436')"><i class="fa fa-tumblr" aria-hidden="true"></i></a>
+						<a href="mailto:?subject=I found something interesting on USHMM.org&amp;body=Privacy Policy%0D%0A%0D%0A%0D%0A%0D%0Ahttps://www.ushmm.org/copyright-and-legal-information/privacy-policy" target="_blank"><i class="fa fa-envelope" aria-hidden="true"></i></a>
+						
+						
+						<div class="clearfix"></div>
+						</div> <!-- .opt-content-inner -->
+					</section>
 
-    <div class="wysiwyg"><p>The United States Holocaust Memorial Museum (“Museum”) is committed to protecting the personal information that you provide to us when using our website. The Museum does not collect personal information about visitors to our website unless you choose to provide it to us.</p>
+				</div>
+
+			</div>
+
+		
+	
+	<section id="main-content" class="content-inner">
+
+		
+		
+
+			
+				<article id="page-main" class="col-item no-top-img">
+			
+
+				<section class="wysiwyg">
+					<p>The United States Holocaust Memorial Museum (“Museum”) is committed to protecting the personal information that you provide to us when using our website. The Museum does not collect personal information about visitors to our website unless you choose to provide it to us.</p>
 
 <p>This privacy policy describes how we handle all user information collected during your visit. Occasionally, changes in the technology, functionality, or content we provide on our website may require us to revise this policy. We encourage our visitors to return to this page periodically to learn about any changes we may have made.</p>
 
@@ -504,132 +605,285 @@ var fixd_social = setInterval(fixSocial, 100);
 	<li>Call our Member Services line at 866.998.7466.</li>
 </ol>
 
-<p>You can opt out of the Museum’s SMS correspondence or Premium SMS Services by texting STOP to the short code 20222. Text HELP for help or visit <a href="http://www.hmgf.org/t">hmgf.org/t</a> (external link). Messaging and data rates may apply.</p></div>
+<p>You can opt out of the Museum’s SMS correspondence or Premium SMS Services by texting STOP to the short code 20222. Text HELP for help or visit <a href="http://www.hmgf.org/t">hmgf.org/t</a> (external link). Messaging and data rates may apply.</p>
+				</section>
 
-    
+				<div class="clearfix"></div>
 
-</div>
+			</article>
 
-    </div>
-    
-    
-    
-    
+		
 
+		
+		 
 
+		
+		 
 
-</div><div id="desktop-share-col"><div class="social-share desktop"><h4>Share</h4><a href="#" onclick="window.open('https://www.facebook.com/sharer.php?u=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy','facebook-share-dialog','width=626,height=436'); return false;"><i class="fa fa-facebook"></i></a><a href="#" onclick="window.open('https://twitter.com/share?url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy&amp;lang=en&amp;text=Privacy+Policy&amp;related=HolocaustMuseum','Twitter-Share','width=626,height=436'); return false;"><i class="fa fa-twitter"></i></a><a href="#" onclick="javascript:window.open('https://plus.google.com/share?url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy', 'Google Plus', 'menubar=no,toolbar=no,resizable=yes,scrollbars=yes,height=600,width=600');return false;"><i class="fa fa-google-plus"></i></a><a href="#" onclick="window.open('//www.linkedin.com/shareArticle?mini=true&amp;url=https%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy&amp;title=Privacy+Policy&amp;summary=&amp;source=United%20States%20Holocaust%20Memorial%20Museum','linkedIn-Share','width=626,height=436'); return false;"><i class="fa fa-linkedin"></i></a><a href="mailto:?subject=I found something interesting on USHMM.org&amp;body=Privacy+Policy%0D%0A%0D%0A%0D%0A%0D%0Ahttps%3A%2F%2Fwww.ushmm.org%2Fcopyright-and-legal-information%2Fprivacy-policy" target="_blank"><i class="fa fa-envelope"></i></a></div></div>
+	</section>
 
-<div class="coda" role="navigation">
-	<div class="wrap">
-		<div class="coda-block first">
-			<h2>Museum <a href="/information/visit-the-museum/plan-your-visit">Information</a></h2>
-			<ul>
-                <li><a href="/information/visit-the-museum/today-at-the-museum">Today at the Museum</a></li>
-				<li><a href="/information/visit-the-museum/plan-your-visit">Plan Your Visit</a></li>
-				<li><a href="/information/exhibitions/museum-exhibitions">Exhibitions and Collections</a></li>
-				<li><a href="/information/exhibitions/traveling-exhibitions">Traveling Exhibitions</a></li>
-			</ul>
+	<section id="related-bar">
+
+		<div class="shadow-box"></div>
+
+		
+		
+
+			 
+
+		
+
+		
+		 
+
+		
+		 
+
+		
+
+	<div id="footer-context-nav">
+		<div class="opt-content-inner">
+			<h2>This Section</h2>
+			<div class="in-out-shadow"></div>
+
+			<div id="footer-context-nav-grid">
+			
+
+			
+
+			<ul id="nav-sub" class="top-lvl-nav">
+<li class="level-1 first"><a href="https://www.ushmm.org/copyright-and-legal-information/terms-of-use">Terms of Use</a></li>
+<li class="level-1 active"><a href="https://www.ushmm.org/copyright-and-legal-information/privacy-policy">Privacy Policy</a></li>
+<li class="level-1"><a href="https://www.ushmm.org/copyright-and-legal-information/annual-reports">Reports</a></li>
+<li class="level-1"><a href="https://www.ushmm.org/copyright-and-legal-information/irs-form-990">IRS Form 990</a></li>
+<li class="level-1"><a href="https://www.ushmm.org/copyright-and-legal-information/performance-and-accountability">Performance and Accountability</a></li>
+<li class="level-1 last"><a href="https://www.ushmm.org/copyright-and-legal-information/legal-and-tax-status-information">Legal and Tax Status Information</a></li>
+</ul>
+			</div>
+
 		</div>
-
-		<div class="coda-block">
-			<h2>Resources for <a href="/research">Academics and Research</a></h2>
-			<ul>
-                <li><a href="/research/ask-a-research-question">Ask a Research Question</a></li>
-				<li><a href="/research/research-in-collections">Research in Collections</a></li>
-				<li><a href="/remember/the-holocaust-survivors-and-victims-resource-center">Research about Survivors and Victims</a></li>
-				<li><a href="/research/the-center-for-advanced-holocaust-studies">Academic Programs</a></li>
-			</ul>
-		</div>
-
-		<div class="coda-block">
-			<h2>Resources for <a href="/educators">Educators</a></h2>
-			<ul>
-                <li><a href="/educators/teaching-about-the-holocaust">Teaching about the Holocaust </a></li>
-				<li><a href="/educators/professional-events-and-resources">Programs for Teachers</a></li>
-				<li><a href="/educators/teaching-materials">Teaching Materials</a></li>
-				<li><a href="/learn/holocaust-encyclopedia">Holocaust Encyclopedia</a></li>
-			</ul>
-
-		</div>
-
-		<div class="coda-block last">
-			<h2>Resources for <a href="/professionals-and-student-leaders">Professionals and Student Leaders</a></h2>
-			<ul>
-				<li><a href="/professionals-and-student-leaders/judiciary">Judiciary</a></li>
-				<li><a href="/professionals-and-student-leaders/military-professionals">Military</a></li>
-				<li><a href="/professionals-and-student-leaders/law-enforcement">Law Enforcement</a></li>
-				<li><a href="/research/the-center-for-advanced-holocaust-studies/programs-ethics-religion-the-holocaust">Faith and Interfaith Communities</a></li>
-			</ul>
-		</div>
-
-	</div><!--/wrap-->
-</div><!--/coda-->
-<div class="footer" role="contentinfo">
-	<div class="wrap">
-		<a class="logo-foot" href="/">United States Holocaust Memorial Museum</a>
-		<a href="//plus.google.com/100561664959124518865?rel=author" style="text-decoration: none; color: inherit; cursor: text;"><strong>United States Holocaust Memorial Museum</strong></a>
-
-		<div>
-			<p>
-				100 Raoul Wallenberg Place, SW<br>
-				Washington, DC 20024-2126<br>
-				Main telephone: 202.488.0400<br>
-				TTY: 202.488.0406
-			</p>
-		</div>
-		<ul class="social">
-			<li><a target="_blank" href="//www.facebook.com/holocaustmuseum"><img src="/a/screen/social/icon-fb.png" alt="Facebook"></a></li>
-			<li><a target="_blank" href="//www.twitter.com/holocaustmuseum"><img src="/a/screen/social/icon-twtr.png" alt="Twitter"></a></li>
-			<li><a target="_blank" href="//plus.google.com/+holocaustmuseum/"><img src="/a/screen/social/icon-gplus.png" alt="Google Plus"></a></li>
-			<li><a target="_blank" href="//www.youtube.com/ushmm"><img src="/a/screen/social/icon-ytube.png" alt="Youtube"></a></li>
-			<li><a target="_blank" href="//www.pinterest.com/ushmm"><img src="/a/screen/social/icon-pint.png" alt="Pinterest"></a></li>
-			<li class="last"><a target="_blank" href="//www.instagram.com/holocaustmuseum/"><img src="/a/screen/social/icon-inst.png" alt="Instagram"></a></li>
-		</ul>
-		<ul>
-			<li><a href="https://www.ushmm.org/information/about-the-museum">About the Museum</a></li>
-			<li><a href="https://www.ushmm.org/information/contact-the-museum">Contact the Museum</a></li>
-			<li><a href="https://www.ushmm.org/copyright-and-legal-information/terms-of-use">Terms of Use</a></li>
-			<li><a href="https://www.ushmm.org/copyright-and-legal-information/privacy-policy">Privacy</a></li>
-			<li><a href="https://www.ushmm.org/information/visit-the-museum/website-accessibility">Accessibility</a></li>
-			<li><a href="https://www.ushmm.org/copyright-and-legal-information/legal-and-tax-status-information">Legal</a></li>
-                        <script>
-                            if (getCookie('isMobile') == "true" && getCookie('siteVersion') == "full") {
-                                document.write("<li><a onclick=\"document.cookie='siteVersion=mobile; expires=; path=/';location.reload();\">Switch to Mobile Website</a></li>");
-                            }
-                        </script>
-		</ul>
-
 	</div>
-</div>
 
-<script type="text/javascript" src="/a/j/jquery.lightbox_me.js"></script>
-<script type="text/javascript" src="/a/j/json2.js"></script>
-<script type="text/javascript" src="/a/j/Capture.js"></script>
-<script type="text/javascript" src="/a/j/jquery.fitvids.js"></script>
-<script type="text/javascript" src="/a/j/jquery.bxSlider.min.js"></script>
-<script type="text/javascript" src="/a/j/jquery.easing-1.3.js"></script>
-<script type="text/javascript" src="/a/j/jquery.royalslider.min.js"></script>
 
-<!-- Shortcode includes -->
-<script type="text/javascript" src="/a/j/magnificPopup/jquery.magnific-popup.js"></script>
-<script type="text/javascript" src="/a/j/modernizr/modernizr-2.8.3.js"></script>
-<script type="text/javascript" src="/a/j/shortcodes/mediaCollection.js"></script>
 
-<script type="text/javascript" src="/a/j/functions.js"></script>
 
 <script>
+	$(document).ready(function(){
+
+		// modify structure HTML output to work with layout, differs for sections with and without children
+		$("#footer-context-nav li.level-1").each(function(){
+			if ( $(this).find("li.level-2").length ){
+				var section = $(this).find(">a").text();
+				$(this).prepend("<h3>" + section + "<i class='fa fa-arrow-circle-o-down' aria-hidden='true'></i></h3>");
+				$(this).find(">a").remove();
+			} else {
+				var section = $(this).find(">a");
+				$(this).prepend("<h3></h3>");
+				$(this).find('h3').prepend(section);
+			}
+		});
+
+		// expand or collapse nav sections
+		$('#footer-context-nav .top-lvl-nav li.level-1 h3').click(function() {
+			if ( $(this).parent().find("li.level-2").length ){
+				if( $(this).parent().hasClass('enabled') ) {
+					$(this).parent().find('> ul').slideUp(300);
+					$(this).parent().removeClass('enabled');
+				} else {
+					$(this).parent().addClass('enabled');
+					$(this).parent().find('> ul').slideDown(300);
+				}
+			}
+		});
+
+	});
+</script>
+
+	</section>
+
+</div>
+
+
+			<script type="text/javascript"> 
+	// Load footer CSS if it isn't already in the head tag
+	if (!$("link[href='/a/c/responsive/global-footer.css']").length) {
+		$("<link href='/a/c/responsive/global-footer.css' rel='stylesheet' type='text/css' />").appendTo("head");
+	}
+</script>
+
+<div id="global-footer">
+
+	<!-- CONNECT WITH THE MUSEUM -->
+	<section id="footer-connect-tools">
+		<div class="section-inner">
+			<h2>Connect with the Museum</h2>
+			<ul>
+				<span>
+				<!--<li class="app"><a href="/information/apps/ushmm-mobile" class="img-circle"><i class="fa fa-mobile"></i></a> <span>Museum App</span></li>-->
+				<li><a href="//www.facebook.com/holocaustmuseum" class="img-circle"><i class="fa fa-facebook"></i></a> <span>Facebook</span></li>
+				<li><a href="//www.twitter.com/holocaustmuseum" class="img-circle"><i class="fa fa-twitter"></i></a> <span>Twitter</span></li>
+				<li><a href="//plus.google.com/+holocaustmuseum/" class="img-circle"><i class="fa fa-google-plus"></i></a> <span>Google+</span></li>
+				</span>
+				<span>
+				<li><a href="//www.youtube.com/ushmm" class="img-circle"><i class="fa fa-youtube-play"></i></a> <span>YouTube</span></li>
+				<li><a href="//www.instagram.com/holocaustmuseum/" class="img-circle"><i class="fa fa-instagram"></i></a> <span>Instagram</span></li>
+				<li><a href="//www.pinterest.com/ushmm" class="img-circle"><i class="fa fa-pinterest"></i></a> <span>Pinterest</span></li>
+				<li><a href="//itunes.apple.com/institution/us-holocaust-memorial-museum/id427270691" class="img-circle"><i class="fa fa-graduation-cap"></i></a> <span>iTunes U</span></li>
+				</span>
+			</ul>
+
+		</div> <!-- .section-inner -->
+	</section> <!-- #homepage-connect-tools -->
+
+	<footer id="main-footer">
+		<div class="section-inner">
+
+			<div class="footer-left-side">
+				<a href="//www.ushmm.org"><img src="/a/i/USHMM_WhiteWhite.png" id="site-logo-footer"></a>
+
+				<!-- G+ verification link -->
+				<a href="//plus.google.com/100561664959124518865?rel=author" style="text-decoration: none; display:none;"></a>
+
+				<a href="#" id="footer-menu-button" class="nav-control" title="menu.html#nav-items">View Full Site Menu</a>
+
+				<p>100 Raoul Wallenberg Place, SW<br>
+				Washington, DC 20024-2126<br>
+				Main telephone: 202.488.0400<br>
+				TTY: 202.488.0406</p>
+			</div>
+
+			<script>
+				$(document).ready(function () {
+					$("#get-news2, #get-news3").on( "click", function() {$("#get-news4").val("Subscribe");});
+
+					$("#get-news4").on( "click", function() {
+						var $_email = $("#get-news2").val();
+						var $_postalCode = $("#get-news3").val();
+
+						if( $_email ) {
+							xmlhttp = new XMLHttpRequest();
+							xmlhttp.open('POST','https://www.ushmm.org/api/emailSubscribe',true);
+							xmlhttp.setRequestHeader('Content-type','application/x-www-form-urlencoded');
+							xmlhttp.send('formId=1198&email=' + $_email + '&postalCode=' + $_postalCode);
+
+							$("#get-news2").val('');
+							$("#get-news3").val('');
+							this.value = 'Thank You';
+							window.open('https://engage.ushmm.org/subscription-confirmation.html', '_blank');
+						}
+						else {
+							$("#get-news4").val("Enter your e-mail address");
+						}
+					});
+				});
+			</script>
+
+			
+            <form>
+				<label for="get-news2">Get the Latest News</label>
+				<input type="email" name="email" id="get-news2" placeholder="Your e-mail address" class="filled">
+				<input type="postalCode" name="postalCode" id="get-news3" placeholder="Postal Code" class="filled">
+                <input type="button" id="get-news4" name="submit-btn" class="btn" value="Subscribe">
+
+			</form>
+            
+
+
+
+			<div class="footer-menu-links">
+				<a href="/information/visit-the-museum/today-at-the-museum">Today at the Museum</a>
+				<a href="/information/visit-the-museum/plan-your-visit">Plan Your Visit</a>
+				<a href="/online/calendar/">Calendar of Events</a>
+				<a href="/support">Support the Museum</a>
+			</div>
+
+
+			<div class="footer-menu-links">
+				<a href="/learn/students">Information for Students</a>
+				<a href="/professionals-and-student-leaders">Resources for Professionals and Student Leaders</a>
+				<a href="/educators">Resources for Educators</a>
+				<a href="/research">Resources for Academics and Research</a>
+				<a href="//collections.ushmm.org/search/">Collections Search</a>
+				<a href="/remember/the-holocaust-survivors-and-victims-resource-center">Holocaust Survivors and Victims Resource Center</a>
+			</div>
+
+			<div class="clearfix"></div>
+
+			<div class="footer-links">
+				<ul>
+					<li><a href="/information/about-the-museum">ABOUT THE MUSEUM</a></li>
+					<li><a href="/information/contact-the-museum">CONTACT THE MUSEUM</a></li>
+					<li><a href="/copyright-and-legal-information/terms-of-use">TERMS OF USE</a></li>
+					<li><a href="/copyright-and-legal-information/privacy-policy">PRIVACY</a></li>
+					<li><a href="/information/visit-the-museum/website-accessibility">ACCESSIBILITY</a></li>
+					<li><a href="/copyright-and-legal-information/legal-and-tax-status-information">LEGAL</a></li>
+				</ul>
+			</div>
+
+		</div><!-- .section-inner -->
+	</footer> <!-- #main-footer -->
+
+</div>
+
+<!-- Script includes -->
+<script src="/a/j/bootstrap/bootstrap-3.3.4/js/bootstrap.js"></script>
+<script src="/a/j/responsive/global-header.js"></script>
+
+	
+	</div>
+
+	<script type="text/javascript" src="/a/j/jquery.fitvids.js"></script>
+	<script type="text/javascript" src="/a/j/jquery.bxSlider.min.js"></script>
+
+	<!-- Shortcode includes -->
+	<script type="text/javascript" src="/a/j/shortcodes/mediaCollection.js"></script>
+    <script type="text/javascript" src="/a/j/pym.min.js"></script>
+
+    <script> // Loads JS libraries only if certain elements load on the page
+        $(document).ready(function(){
+            if ( $('.mc-panZoom').length ){
+                $.getScript("/a/j/jquery.panzoom.min.js", function(){
+                    $(".mc-panZoom figure img").panzoom({
+                        minScale: 0.4,
+                        maxScale: 3,
+                        $reset: $("button.reset-panzoom"),
+                        $zoomIn: $("button.zoom-in"),
+                        $zoomOut: $("button.zoom-out"),
+                        //$zoomRange: $(".zoom-range"),
+                        panOnlyWhenZoomed: false
+                    });
+                });
+
+            }
+            if ( $('.mc-enlarge').length ){$.getScript("/a/j/magnificPopup/jquery.magnific-popup.js");}
+            if ( $('.mc-gallery').length ){$.getScript("/a/j/modernizr/modernizr-2.8.3.js");}
+        });
+    </script>
+
+	
+	<script type="text/javascript">
+		$(document).ready(function(){
+
+			// Centers article body if no side box shortcodes present
+			if ( $('.mc-pinnedBox, .featured-sidebar').length == 0 ){$('article#page-main').addClass('widest-col');} else {$('article#page-main').addClass('wider-col');}
+		});
+
+	</script>
+
+
+	<!-- </div> .body-wrapper -->
+
+		<script>
 <!--
-var a='';var b='0%A0A%9%0 ';var c='7341865029';for(var i=0;i<1;i++) for(var j=0;j<10;j++) a+=b.charAt((parseInt(c.charAt(i*10+j))*1)+i); document.writeln(unescape(a));
+var a='';var b='00%20 %%220 %%%%2%0%002 220%%0229%%2%2000%02%A20A02%20%000%2';var c='938247650149358270166283714095497213506836580421977294658013';for(var i=0;i<6;i++) for(var j=0;j<10;j++) a+=b.charAt((parseInt(c.charAt(i*10+j))*6)+i); document.writeln(unescape(a));
 -->
 </script>
-	
- 
+        	
+           
 
 <noscript>
 <I>[Please Enable JavaScript]</I>
 </noscript>
-
 
 
 <noscript><iframe src="//www.googletagmanager.com/ns.html?id=GTM-WFXT2L"
