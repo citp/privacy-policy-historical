@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fareharbor.com privacy policy that was archived on 2016-03-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160329031208id_/https%3A//fareharbor.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fareharbor.com privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412000509id_/https%3A//fareharbor.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | FareHarbor
 
@@ -17,7 +17,7 @@ Any of the information we collect from you may be used in one of the following w
   * **To personalize your experience** (your information helps us to better respond to your individual needs)
   * **To improve our website** (we continually strive to improve our website offerings based on the information and feedback we receive from you)
   * **To improve customer service** (your information helps us to more effectively respond to your customer service requests and support needs)
-  * **To process transactions** (In addition to processing your bookings with the companies that use our services, the email address you provide during booking processing may be used to send you information and updates pertaining to your reservation, in addition to receiving occasional company news, updates, related product or service information, 
+  * **To process transactions** (In addition to processing your bookings with the companies that use our services, the email address you provide during booking processing may be used to send you information and updates pertaining to your reservation, in addition to receiving occasional company news, updates, related product or service information,
   * **To provide services to the companies that use FareHarbor**
   * **To administer a contest, promotion, survey or other site feature**
   * **To send periodic emails**
@@ -68,9 +68,9 @@ All users of our site may update their information at any time by logging into t
 
 FareHarbor’s sites are a general audience websites and do not offer services directed to children. You must be 16 years of age or older to book using FareHarbor’s sites. Should a child whom we know to be under 13 send personal information to us, we will use that information only to respond directly to that child to inform him or her that we must have parental consent before receiving his or her personal information and will delete the information. Bookings made by underage individuals without consent will not be honored. If you believe that FareHarbor has been provided with the personal information of a child under 13 without parental consent, please notify us immediately at [customerservice@fareharbor.com](mailto:customerservice@fareharbor.com).
 
-## Use of Balanced
+## Use of Stripe
 
-[Information about our use of Balanced for payment services can be found here.](https://web.archive.org/legal/payments/)
+[Information about our use of Stripe for payment services can be found here.](https://web.archive.org/legal/payments/)
 
 ## Visiting our website from outside the United States
 
