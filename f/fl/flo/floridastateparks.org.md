@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the floridastateparks.org privacy policy that was archived on 2016-06-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160624005402id_/https%3A//www.floridastateparks.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the floridastateparks.org privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411224023id_/https%3A//www.floridastateparks.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Florida State Parks
 
@@ -10,13 +10,13 @@ Some content on this website is saved in an alternative format. To view these fi
 
 
 
-Under Florida law, e-mail addresses are public records. If you do not want your e-mail address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.
+Under Florida law, email addresses are public records. If you do not want your email address released in response to a public records request, do not send electronic mail to this entity. Instead, contact this office by phone or in writing.
 
-**Internet Privacy Policy**
+###  **Internet Privacy Policy**
 
-Thank you for visiting the Florida State Parks online Park Guide, [www.floridastateparks.org](http://www.floridastateparks.org/). Your privacy is important to us. Simply stated, our policy is to collect no personal information about you when you visit [www.floridastateparks.org](http://www.floridastateparks.org/), unless you affirmatively choose to make such information available to us.
+Thank you for visiting the Florida State Parks online Park Guide, [FloridaStateParks.org](http://www.floridastateparks.org/). Your privacy is important to us. Simply stated, our policy is to collect no personal information about you when you visit us online, unless you affirmatively choose to make such information available to us.
 
-When you visit this website, the web server automatically recognizes only the Internet domain and IP address from which you accessed the site. This information does not result in the identification of your personal e-mail address or other personal information.
+When you visit this website, the web server automatically recognizes only the Internet domain and IP address from which you accessed the site. This information does not result in the identification of your personal email address or other personal information.
 
 In addition, information is only gathered regarding the volume and timing of access to the site by collecting information on the date, time and pages you visited while at the site. This is done so that the content of the site can be improved and your personal information is not identified.
 
