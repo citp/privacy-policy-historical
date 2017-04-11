@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the fluentland.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119042216id_/http%3A//www.fluentland.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fluentland.com privacy policy that was archived on 2017-04-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170411075251id_/https%3A//www.fluentland.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Fluent LandFluent Land
+# Privacy Policy - Fluent Land
 
 Respecting users privacy is an important core principle of fluentland.com. Information on this page details how our site protects your privacy, and what type of information is collected.
 
@@ -34,6 +34,14 @@ Any advertisements served by Google, Inc., and affiliated companies may be contr
 
 ** **
 
-##### RECENT NOTES
+##### GAMES TO LEARN ENGLISH
+
+** **
+
+##### SONGS TO LEARN ENGLISH
+
+** **
+
+##### PRACTICE TESTS
 
 **
