@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124115643id_/http%3A//www.arla.com/legal-information/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the arla.com privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412105946id_/http%3A//www.arla.com/legal-information/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Arla
 
@@ -36,12 +36,3 @@ We will not pass any of your personal information to any third party, other than
 ### Changes to our Privacy Policy
 
 If we decide to change our Privacy Policy we will post the changes here. However, if we make material changes to the way we use your personal information we will ask for your consent before we do so.
-
-### Legal information
-
-  * [Privacy Policy](https://web.archive.org/legal-information/privacy-policy/)
-  * [Terms of use](https://web.archive.org/legal-information/standard-terms-of-website-use/)
-  * [Cookie Policy](https://web.archive.org/legal-information/cookie-policy/)
-  * [Payment Policy](https://web.archive.org/legal-information/payment-policy/)
-
-
