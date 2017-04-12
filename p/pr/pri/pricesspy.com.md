@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pricesspy.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019083354id_/http%3A//www.pricesspy.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pricesspy.com privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412112914id_/http%3A//www.pricesspy.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | PricesSpy.com
 
