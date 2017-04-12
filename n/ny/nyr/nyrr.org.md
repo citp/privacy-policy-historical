@@ -1,84 +1,192 @@
-> *The following text is extracted and transformed from the nyrr.org privacy policy that was archived on 2016-12-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161229041350id_/http%3A//www.nyrr.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nyrr.org privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412180439id_/http%3A//www.nyrr.org/privacy-policy-0) for the most accurate reproduction.*
 
 # Privacy Policy | NYRR
 
- Last Revised: December 8, 2014
+Last Revised: February 9, 2017
 
-Welcome to [www.nyrr.org](http://www.nyrr.org/), the official website of New York Road Runners, Inc. We may refer to ourselves on this page as: “New York Road Runners,” “NYRR,” “We,” “Our,” or “Us.” We refer to you as “You” or “Your” or “Yourself.”
+Welcome to [www.nyrr.org](http://www.nyrr.org/), the official website of New York Road Runners, Inc.  We may refer to ourselves, on this page, as: “New York Road Runners,” “NYRR,” “we,” “our,” or “us.”  We refer to you as “you” or “your” or “yourself.”
 
-We understand privacy online is important to users of our website, any other domain registered to NYRR, and mobile apps and social networking pages/profiles/feeds (collectively, our “Site”). This Privacy Policy (the “Policy”) governs our privacy practices with respect to: (i) visitors of our Site who visit without transacting business and (ii) users who register to transact business on our Site and make use of the various services (collectively “Services”) offered by New York Road Runners (“Visitors” or “Users,” respectively).
+This Privacy Policy (“Policy”) governs our privacy practices with respect to our website located at [www.nyrr.org](http://www.nyrr.org/) and any of NYRR’s other registered domains, mobile apps, or social networking pages, profiles, or feeds that post a link to this Policy (collectively, the “Services”).  It does not apply to information collected through NYRR’s races, classes, expos, or other events (“Events”), such as geolocation information collected through race bibs.
 
-By using our Site, You are agreeing to allow us to collect, use, store, and transfer Your information, including any Personally Identifiable Information (as described in Section 1, below) that You provide to us. Please note that this means, regardless of where You live, You will be giving us permission to transfer Your information to, and to store and process Your information within, the United States of America or other countries where NYRR or our affiliates, subsidiaries, or agents maintain facilities or business operations.
+By using our Services, you are agreeing to this Policy and to allow us to collect, use, store, and transfer your information, including any Personally Identifiable Information, (as described in Section 1, below) that you provide to us.  Please note that this means, regardless of where you live, you will be giving us permission to transfer your information to, and to store and process your information within, the United States of America or other countries where NYRR or our affiliates, subsidiaries, or agents maintain facilities or business operations.
 
-If You do not wish to agree to these terms, please do not provide Your information when requested and immediately cease use of our Site. Your use of our Site or web-connected software applications are also subject to “Terms of Use,” which are separate from this Policy, and located at [www.nyrr.org/terms-of-use](http://www.nyrr.org/terms-of-use).  
-You should review this Policy carefully, because if You do not agree with Our practices, Your ultimate choice is to not use the Site. Remember, by using any part of the Site, You accept and agree to Our privacy practices. If we update this Policy, Your continued use of the Site following the posting of the revised Policy means that You accept and agree to the terms of the revised Policy.
+If you do not wish to agree to these terms, please do not provide your information when requested and immediately cease use of the Services.  Your use of our Services is also subject to “Terms of Use,” which are separate from this Policy, and located at [www.nyrr.org/terms-of-use](http://www.nyrr.org/terms-of-use).
 
-**1.       ****_Collection of Your Information_**  
-Personally Identifiable Information refers to any information that identifies or can be used to identify, contact, or locate the person to whom such information pertains, including, without limitation, the following: name, address, phone number, fax number, email address, financial profiles, and credit card information. Personally Identifiable Information does not including information that is collected anonymously (for example, without identification of the individual accessing the Site), or demographic information not connected to an identified individual accessing the Site. For purposes of this Policy, Personally Identifiable Information is referred to as “Information.”
+You should review this Policy carefully, because if you do not agree with our practices, your ultimate choice is not to use the Services. If we update this Policy, your continued use of the Services following the posting of the revised Policy means that you accept and agree to the terms of the revised Policy.
 
-We collect and retain two types of Information about Visitors and/or Users: (i) personal information that individual Visitors provide when interacting on the Site, or voluntarily at certain other points (such as via forms or emails), including when registering for an account (“Account”), as described below, and (ii) tracking data (“Tracking Data”), which is automatically collected from every Visitor. The Information that we gather may include Your name, address, telephone number, email address, age, gender, or other elements of personal information. The type of Information collected may depend on the service or feature that You are trying to access or obtain. In addition, if You contact us, we may keep a record of Your correspondence, including any Information contained therein.
+1.     **_Collection of Your Information_**
 
-The Tracking Data we record includes, without limitation, data regarding the number and frequency of Visitors and Users to the Site, the date and time of visits to our Site, the web sites that Visitors and Users access before and after they visit the Site, and Our Visitors’ and Users’ IP addresses and internet service providers. We attempt to aggregate such tracking data so that no data is tied to You in any personally-identifiable manner. However, due to the nature of the Internet, this is not always feasible and tracking data may be traceable back to You. Further, if You choose not to provide us with certain Information, You may be precluded from accessing or from fully benefiting from the features, content, or services offered on the Site.
+**A.         Information You Provide.**
 
-Users of Our Site may  chose to register for and participate in one or more of Our road races (collectively, “Events”) and become participants (“Participants”). We provide Participants with race bibs that contain a device called a “B-Tag” designed to record race times at various physical location points over a given race course for purposes of timing and scoring Participants’ Events.Participants therefore generate a third type of Information, which concerns the Participants’ physical location at a particular time and in a particular place, as well as the Event results (the “Results Data”).   
+We collect information you provide directly via the Services. For example, we collect information when you create an account, become a member, register for a race, class, or volunteer opportunity, make an online purchase, make a donation, or otherwise communicate or transact with us through the Services.
 
-**2.       ****_Credit Card Privacy and Protection_**  
-Your credit card payment information is always safe. Our Secure Sockets Layer (SSL) software is the industry standard for securing commercial transactions. It encrypts all of Your credit card information.
+The information we collect may include Personally Identifiable Information.  
+Personally Identifiable Information refers to any information that identifies or can be used to identify the person to whom such information pertains, including the following: first and last name, address, phone number, fax number, email address, billing information, credit card information, professional affiliation and industry, airline miles number, ethnicity, educational level, annual household income, family member information, and personal photo.  Personally Identifiable Information does not include information that has been de-identified, or demographic information not connected to an identified individual accessing the Services. 
 
-**3.       ****_How We Use Your Information and Tracking Data_**  
-The Information that We collect and that You provide to Us is used for Our organizational purposes and the purpose for which You provided it, including, without limitation, to respond to Your requests or correspondence. The Information may also be analyzed so that We can operate the Site in the best manner possible through enhanced features and functions and to provide You with useful information.  
-We use Tracking Data for a variety of purposes, including, without limitation, for system administration, load balancing metrics, and to create reports on User and Visitor demographics and Site traffic patterns. The reports that are generated from Tracking Data are used for several purposes, including, for example, to improve the Site and Our services.
+**B.         Information Collected Automatically.**
 
-**4.       ****_How We Use Your Results Data_**
+We may automatically collect certain information about you when you access or use the Services (“Tracking Data”). Tracking Data includes data regarding the number and frequency of users to the Services, the date and time of visits to our Services, the web sites that users access before and after they visit the Services, and users’ IP addresses, device identifiers, browsers, operating systems, network connected hardware, and internet service providers. Except to the extent required by applicable law, NYRR does not consider Tracking Data to be Personally Identifiable Information. However, Tracking Data may be combined with your Personally Identifiable Information. To the extent that we combine Tracking Data with your Personally Identifiable Information, we will treat the combined information as Personally Identifiable Information under this Policy. 
 
-  Your Results Data is used to record Your Event performance for timing and scoring purposes. Results Data is posted to Our Site as it becomes available and/or is verified by Us. If You are participating in an Event for which there is an online application for “real time” Participant time and location progress, Your Results Data will become immediately available (and searchable by Your Name or Your bib number) to any Visitor to Our Site interested in tracking Your results. Results Data remains on Our Site indefinitely.
+The methods that may be used on the Services to collect Tracking Data include:
 
-  **5.       ****_Other Organizations that Collect Your Information and/or Tracking Data, and How They Use it_**  
-In addition to Our direct collection of Information and Tracking Data, Our third-party-service vendors (such as, credit card companies, vendors, and shipment service providers), who may provide such services as credit, sales, and shipping, may collect Information from our Visitors. We do not control how these third parties use such Information, but We do ask them to disclose how they use Information about Visitors obtained from the Site. Some of these third parties may be intermediaries that act solely as links in the distribution chain, and do not store, retain, or use the Information given to them.
+  * **Log Information** : Log information is data about your use of the Services, such as IP address, browser type, internet service provider, referring/exit pages, operating system, date/time stamps, and related data, which is stored in log files.
 
-We may also employ third-party agents or third-party service providers to operate the Site and to perform functions on Our behalf, such as sending postal mail and email, as well as analyzing data or performing other administrative tasks. These third parties have access to Information that is needed to perform their functions. We limit such third parties from using the Information that is shared with them for any reason other than performance of the services for which they have been engaged. However, We are not responsible for such third parties’ use of Information not in compliance with this Policy.  
-We may share Your Information in the following situations:
 
-A.  When We hire vendors to perform Services on Our behalf, such as helping us run Our Site, fulfill contests or sweepstakes, administer surveys, process online transactions, execute and optimize marketing/advertising campaigns, and manage and enhance Visitor data.
+  * **Information Collected by Tracking Technologies:**  Cookies, web beacons (also known as "tracking pixels"), embedded scripts, location-identifying technologies, device fingerprinting, in-app tracking methods, and other tracking technologies now and hereafter developed may be used to collect information about your interactions with the Services or e-mails, including information about your browsing and activity behavior.
+  * **Cookies:  **A cookie is a small piece of data sent from a web site and stored in the user’s web browser while that user is browsing that web site.  When the user loads that web site, the browser sends the cookie back to the server to notify the web site of the user’s previous activity.  Cookies are used for a variety of reasons.  We use cookies to obtain information about the preferences of our users and the services they select.  We also use cookies for securities purposes to protect our users.  For example, if a user is logged on and our Services are unused for an extended period of time, we may automatically log the user off.  As a user to the Services, you may choose to disable cookies on your browser.  However, if you choose to disable cookies, you will be unable to use certain functions on the Services.
 
-  B.  When We partner with reputable, independent companies to offer you jointly-sponsored promotions on NYRR products and services. For example, We work with another company to offer You special discounts when You purchase products or services on Our Site, and, as part of such promotion, provide Our partner with limited Information about Visitors who participated in the promotion (examples may include email addresses, products/services purchased, and/or discounts of which You have taken advantage).
 
-c. If We are required to share Your Information because We are legally compelled to do so. This includes, without limitation, complying with court orders or subpoenas, responding to requests from law enforcement agencies, enforcing contract terms, responding to and resolving any claims (including valid Visitor complaints), or otherwise protecting the safety of rights (including intellectual property rights) of New York Road Runners, our business customers, Visitors, or the general public.
+  * **Web Beacons (“Tracking Pixels”):  **Web beacons are small graphic images, also known as "internet tags" or "clear gifs," embedded in web pages and e-mail messages. Web beacons may be used to count the number of visitors to the Services, to monitor how users navigate the Services, and to count content views.
 
-**6.       ****_How Your Information Is Protected_**  
-Protecting the security of Your Information is very important to Us.When You transmit sensitive Information from Your computer to Our servers, Your information is protected by both a “firewall” (a combination of computer hardware and software that helps keep unauthorized individuals and/or entities from accessing Information within our computer network) and industry standard SSL (secure socket layer) encryption. Once we receive Your Information, We will take reasonable precautions to secure and protect the Information on Our systems. Unfortunately, no data transmission over the Internet can be 100% secure and, accordingly, We cannot guarantee or warrant the security of any Information you disclose or transmit to Us online. However, We strive to protect Your Information and privacy.
 
-The safety and security of Your Information also depends on You. Where We have given You (or where You have chosen) a password for access to certain parts of Our Site, You are responsible for keeping this password confidential. We ask You not to share your password with anyone. We urge You to be careful about giving out Information in public areas of the Site like message boards. The Information You share in public areas may be viewed by any User of the Site.
+  * **Embedded Scripts:  **An embedded script is programming code designed to collect information about your interactions with the Services. It is temporarily downloaded onto your device from our web server or a third party with whom we work, is active only while you are connected to the Services, and deleted or deactivated thereafter.
 
-**7.       ****_How You Can Update or Correct Your Information and Contact the Site_**  
-You can send a message to [sitefeedback@nyrr.org](mailto:sitefeedback@nyrr.org) to update or correct Your Information or haveYour Information removed from our records. Please contact us at [sitefeedback@nyrr.org](mailto:sitefeedback@nyrr.org) if You have any questions or concerns regarding the Site or this Policy.
 
-**8.       ****_Social Networking_**  
-You also can engage with Our Site though video, applications, and other offerings, on or through third-party social networking sites, such as Facebook or third-party social media plug-ins and applications. When You engage with Our Site on or through third-party social networking sites, plug-ins, and applications, You may allow Us to have access to certain information from Your social media profile (for example, name, email address, photo, gender, birthday, location, Your list of friends, people You follow and/or who follow You, Your posts or ‘likes’) to deliver the content or as part of the operation of the application. We may also obtain non-personally identifiable information (for example, content viewed, running performance, and information about advertisements within the content You have been shown or may have clicked on) from Your interaction with Our content. We may combine information which We obtain directly through social networking sites or applications with information we obtain directly through the NYRR Sites or from other sources. 
+  * **Location-identifying Technologies:  **GPS (global positioning systems) software, geo-filtering, and other location-aware technologies locate (sometimes precisely) you for purposes such as verifying your location and delivering or restricting relevant content based on your location.
 
-When You allow Us to access Information from Your social media account, it can enable Us to do things like: (i) deliver exclusive content to You, (ii) personalize Your online experience with Us within and outside our applications or web sites, and (iii) contact You through the social networking sites or directly using Your Information. By engaging with Our Site through social networking sites or applications, You consent to the use of this Information in accordance with this Policy. Additionally, when You provide Information in publicly visible areas of social networking sites or applications, it may be viewed by other members of these sites and We cannot prevent further use of the Information.
 
-**9.       ****_External Links_**  
-NYRR’s Site may contain links to other websites, but we are not responsible for the privacy policies, terms of use, or content of any such third-party websites.  
-We encourage You to familiarize Yourself with the privacy policies and terms of use of linked websites. You may agree to provide Information to other companies who provide content for various parts of Our Site. If You agree to provide Information to such companies, however, that Information will be subject to their privacy policies.
+  * **Device Fingerprinting:  **Device fingerprinting is the process of analyzing and combining sets of information elements from your device’s browser, such as JavaScript objects and installed fonts, in order to create a “fingerprint” of your device and uniquely identify your device and applications.
 
-**10.   ****_Cookies Used on Our Site_**  
-A cookie is a small piece of data sent from a website and stored in the User’s web brower while that User is browsing that website. Every time the User loads that website, the browser sends the cookie back to the server to notify the web site of the User’s pervious activity. Cookies are used for a variety of reasons. We use cookies to obtain information about the preferences of Our Users and Visitors and the services they select. We also use cookies for securities purposes to protect our Users and Visitors. For example, if a User is logged on and Our Site is unused for an extended period of time, We will automatically log the User off. Many websites automatically contain an option that allows You to disable cookies. As a Visitor or User to the Site, You may choose to disable cookies on your browser. However, if You choose to disable cookies, You will be unable to use certain functions on the Site.
 
-NYRR does not allow unrelated third parties to set cookies via NYRR’s Site.
+  * **In-App Tracking Methods:  **There are a variety of tracking technologies that may be included in mobile applications, and these are not browser-based like cookies and cannot be controlled by browser settings.  Some use device identifier, or other identifiers such as “Ad IDs” to associate app user activity to a particular app and to track user activity across apps. You can stop all collection of information via our mobile applications by uninstalling them. Also, you may be able to exercise specific privacy choices, such as enabling or disabling certain location-based services, by adjusting the permissions in your mobile device.
 
-**11.   ****_Privacy Policy Changes_**  
-We will inform our Users and Visitors of changes to this Policy by posting such changes on our Site. However, if we are changing this Policy in a manner that might cause disclosure of Information We previously advised would not be disclosed, We will contact our Users to allow such Users to prevent such disclosure.
 
-**12.   ****_Choice of Law_**  
-This Policy shall be governed by and construed in accordance with the laws of the State of New York, without regard to any principles of conflicts of law. You agree that any action at law or in equity arising out of or relating to this Policy shall be filed only in the state or federal courts located in the County and State of New York, and You hereby consent and submit to the personal jurisdiction of such courts for the purposes of litigating any action and waive any claim that such courts are an inconvenient forum for such actions.
 
-**13.   ****_Your California Privacy Rights_**  
-California Law permits our Visitors who are California residents to request certain information regarding Our disclosure of Information to third parties for their direct marketing purposes. To make such a request, please email [Californiavisitors@NYRR.com](mailto:Californiavisitors@NYRR.com) or write to us at 156 West 56th Street, 3rd floor, New York, NY 10019, Attn: General Counsel.
+For further information on tracking technologies and your choices regarding them, please see Section 8 below.
 
-**14.   ****_Safe Harbor_**  
-The United States Department of Commerce and the European Commission have agreed on a set of data protection principles and frequently asked questions to enable U.S. companies to satisfy the requirement under European Union law that adequate protection be given to personal information transferred from the EEA to the United States (the “U.S.-EU Safe Harbor”). The EEA also has recognized the U.S.-EU Safe Harbor as providing adequate data protection (OJ L 45, 15.2.2001, p. 47). The United States Department of Commerce and the Federal Data Protection and Information Commissioner (FDPIC) of Switzerland have agreed on a similar set of principles and frequently asked questions to enable U.S. companies to satisfy the requirement under Swiss law that adequate protection be given to personal information transferred from Switzerland to the United States (the “U.S.-Swiss Safe Harbor”). Consistent with its commitment to protect personal privacy, NYRR adheres to the principles set forth in the U.S.-EU Safe Harbor and the U.S.-Swiss Safe Harbor (the “Safe Harbor Principles”).
+**C.         Information from Events.**
 
-**15.   ****_NYRR Note to Parents_**  
-Our Site is directed to a general audience comprised primarily of adult Visitors and Users. Therefore, We do not typically collect Information from children under the age of 13. If NYRR creates online activities intended for children under the age of 13, the child will only be able to access the activity without providing Information. For example, children may be allowed to access child-friendly activities online (subject to offering) by entering a User Name or other non-personal login information. If We intend to collect Information from a child, we will take extra steps to protect the child’s privacy, including: (i) notifying parents about the types of Information we collect from children, how the children’s Information is used, and whether the children’s Information is disclosed to third parties; (ii) obtaining parental consent for the collection, use and disclosure of children’s Information; We reasonably verify parental consent by requesting Information from parents on portions of Our Site intended only for adults or through requesting from children a parent or guardian direct email address; (iii) giving parents the opportunity to access, review, edit, or delete the Information that We have collected from their children; we also allow parents the opportunity to refuse further collection of Information from their children, and, moreover, any children’s Information is generally stored as part of the corresponding adult’s Account with NYRR and can only be accessed by the adult Account holder; and (iv) limiting Our collection of children’s information to no more than is reasonably necessary to participate in an online activity.  
- 
+We may combine information collected through your participation in Events with information we have collected about you through the Services.  To the extent we combine Event information with Personally Identifiable Information we have collected about you on the Services, we will treat the combined information as Personally Identifiable Information under this Policy. 
+
+**D.         Information from Other Sources. **We may obtain information about you from other sources, including service providers and third party services, and combine such information with information we have collected about you.   To the extent we combine such third party sourced information with Personally Identifiable Information we have collected about you on the Services, we will treat the combined information as Personally Identifiable Information under this Policy.  We are not responsible for the accuracy of any information provided by third parties or third party policies or practices.
+
+2.     **_How We Use Your Information_**
+
+We may use information about you, including your Personally Identifiable Information, for any purpose consistent with our statements under this Policy, including to:
+
+  * Manage your registration, accounts, memberships, purchases, volunteer activities, classes, and donations.
+
+
+  * Respond to your requests or correspondence, and provide customer service.
+
+
+  * Send you technical notices, updates, security alerts, information regarding changes to our policies, and support and administrative messages.
+
+
+  * Prevent and address fraud, breach of policies or terms, and threats or harm.
+
+
+  * Assist with system administration, load balancing metrics, and to create reports on user demographics and Services traffic patterns.
+
+
+  * Conduct research, including focus groups and surveys.
+
+
+  * Manage your race data, including race activity and results.
+
+
+  * Improve the Services or other NYRR websites, applications, marketing efforts, products and services.
+
+
+  * Send you advertisements and communicate with you regarding our and third party products, services, offers, promotions, rewards and events we think you may be interested in (for information about how to manage these communications, see Sections 8 and 9 below).
+
+
+  * Fulfill any other purpose disclosed at the time you provide Personally Identifiable Information.
+
+
+
+3.     **_How We Share Your Information_**
+
+We may employ third party agents or third party service providers to operate the Services and to perform functions on our behalf, such as sending email, as well as analyzing data or performing other administrative tasks.  These third parties have access to information that is needed to perform their functions.  We limit such third parties from using the information that we share with them for any reason other than performance of the services for which they have been engaged.  However, we are not responsible for such third parties’ use of information not in compliance with this Policy.
+
+We may also share your information for any purposes consistent with our statements in this Policy, including in the following situations:
+
+  * When we hire vendors to perform services on our behalf, such as helping us run our Services, manage races and provide race data, fulfill contests or sweepstakes, administer surveys, process online transactions, execute and optimize marketing/advertising campaigns, and manage and enhance user data. 
+
+
+  * When we partner with third parties to offer you promotions on NYRR products and services.  For example, we work with third parties to offer you special discounts when you purchase products or services on our Services, and, as part of such promotion, we may provide these third parties with information about users who participated in the promotion.
+
+
+  * In connection with, or during negotiations of, any proposed or actual merger, purchase, sale or any other type of acquisition or business combination of all or any portion of our assets, or transfer of all or a portion of our business to another company.
+
+
+  * With our affiliates for internal business purposes.
+
+
+  * Where we are legally compelled to do so.  This includes complying with court orders, subpoenas, responding to requests from law enforcement agencies; enforcing contract terms; responding to and resolving any claims (including user complaints); or otherwise protecting the safety of rights (including intellectual property rights) of NYRR, our business customers, users, or the general public.
+
+
+  * For purposes disclosed at the time you provide Personally Identifiable Information.
+
+
+  * With your consent or at your direction.
+
+
+
+4.     **_Data Security_**
+
+We take reasonable precautions to secure and protect the information on our systems. Unfortunately, no data transmission over the internet can be 100% secure and, accordingly, we cannot guarantee or warrant the security of any information you disclose or transmit to us online.
+
+The safety and security of your information also depends on you.  You are responsible for keeping your password confidential.  We ask you not to share your password with anyone.  We urge you to be careful about giving out Information in public areas of the Services like message boards. 
+
+5.     **_How You Can Update or Correct Your Information_**
+
+You can send a message to [sitefeedback@nyrr.org](mailto:sitefeedback@nyrr.org) or log-in to your account to update or correct certain account information we have about you. We will make a good faith effort to make the requested changes in NYRR’s then-active databases as soon as practicable, but it may not be possible to completely update or correct your information. We reserve the right to retain information (a) as required by applicable law; and (b) for so long as reasonably necessary to fulfill the purposes for which the data is retained except to the extent prohibited by applicable law.
+
+6.     **_Social Networking_**
+
+You also can engage with our Services though video, applications, and other offerings, on or through third party social networking sites, such as Facebook or third party social media plug-ins and applications.  When you engage with our Services on or through third party social networking sites, plug-ins and applications, you may allow us to have access to certain information from your social media profile (for example, name, e-mail address, photo, gender, birthday, location, your list of friends, people you follow and/or who follow you, your posts or ‘likes’) to deliver the content or as part of the operation of the application.  We may combine information which we obtain directly through social networking sites or applications with information we obtain directly through the Services or from other sources. 
+
+When you allow us to access information from your social media account, it can enable us to do things like: (i) deliver exclusive content to you, (ii) personalize your online experience with us within and outside our applications or web sites, and (3) contact you through the social networking sites or directly using your information.  By engaging with our Services through social networking sites or applications, you consent to the use of this information in accordance with this Policy.  Additionally, when you provide information in publicly visible areas of social networking sites or applications, it may be viewed by other members of these sites and we cannot prevent further use of the information. We are not responsible for and make no representations regarding the policies or business practices of any social networking sites or third parties and encourage you to familiarize yourself with and consult their privacy policies and terms of use.
+
+7.     **_External Links_**
+
+NYRR’s Services may contain links to other web sites, including the site of the third party store, but we are not responsible for the privacy policies, terms of use, or content of any such third party web sites.
+
+We encourage you to familiarize yourself with the privacy policies and terms of use of linked web sites.  You may agree to provide information to other companies who provide content for various parts of our Services.  If you agree to provide information to such companies, however, that information will be subject to their privacy policies.
+
+8.     **_Analytics and Advertising Tracking Technologies._**
+
+We may use Google Analytics and other service providers for analytics services.  These analytics services may use tracking technologies to help us analyze Services users and how they use the Services. Information generated by these services (e.g., your IP address and other Tracking Data) may be transmitted to and stored by these service providers on servers in the U.S. (or elsewhere) and these service providers may use this information for purposes such as evaluating your use of the Services, compiling statistic reports on the Services’ activity, and providing other services relating to Services activity and other internet usage.  
+
+We may also engage and work with third parties to serve advertisements on the Services and/or on third party services. These third parties may use tracking technologies to tailor ads to your interests based on your browsing of the Services and elsewhere on the internet, sometimes referred to as “interest-based advertising” and “online behavioral advertising, which may include sending you an ad on a third party service after you have left the Services (i.e., “retargeting”). 
+
+You may exercise choices regarding the use of cookies from Google Analytics by going to _<https://tools.google.com/dlpage/gaoptout>_ or downloading the Google Analytics Opt-out Browser Add-on.
+
+You may choose whether to receive interest-based advertising by submitting opt-outs.  Some of the advertisers and service providers that perform advertising-related services for us and our partners may participate in the Digital Advertising Alliance ("DAA") Self-Regulatory Program for Online Behavioral Advertising.  To learn more about how you can exercise certain choices regarding Interest-based Advertising, visit [http://www.aboutads.info/choices](http://www.aboutads.info/choices/), and <http://www.aboutads.info/appchoices> for information on the DAA’s opt-out program for mobile apps.  Some of these companies may also be members of the Network Advertising Initiative (“NAI”). To learn more about the NAI and your opt-out options for their members, see <http://www.networkadvertising.org/choices/>.  Please be aware that, even if you are able to opt out of certain kinds of interest-based advertising, you may continue to receive other types of ads.  Opting out only means that those selected members should no longer deliver certain interest-based advertising to you, but does not mean you will no longer receive any targeted content and/or ads (e.g., from other ad networks).  NYRR is not responsible for effectiveness of, or compliance with, any third-parties’ opt-out options or programs or the accuracy of their statements regarding their programs. 
+
+Your browser settings may allow you to automatically transmit a “Do Not Track” signal to online services you visit.  Note, however, there is no industry consensus as to what site and app operators should do with regard to these signals.  Accordingly, we do not monitor or take action with respect to “Do Not Track” signals or other mechanisms.  For more information on “Do Not Track,” visit [http://www.allaboutdnt.com](http://www.allaboutdnt.com/).
+
+9.     **_Communications_**
+
+A. _E-mails and Push Notifications._ You can opt out of receiving certain promotional communications (e-mails and push notifications) from us at any time (i) for e-mails, follow the instructions as provided in e-mails to click on the unsubscribe link or by sending an e-mail to us at [sitefeedback@nyrr.org](mailto:sitefeedback@nyrr.org) with the word UNSUBSCRIBE in the subject field of the e-mail; (ii) for push notifications or in-app messages, adjust the permissions in your mobile device.  Please note that your opt-out is limited to the e-mail address, phone number, or device used and will not affect subsequent subscriptions or non-promotional communications, such as those about your account, transactions, servicing, or NYRR’s ongoing business relations.
+
+B **.** _Text Messages, Call Alerts._ If you participate in NYRR Events and agree to receive text messages and call alerts by signing the General Liability Waiver and Release (and not opting out), NYRR may send you ongoing text message and prerecorded call alerts (including by automatic dialing systems) regarding date or time changes, weather or route updates, your location and placement in a race and other race related information for any Events in which you participate. Your consent is not required to participate in any Event or a condition of any purchase, and you may withdraw your consent at any time for text message and prerecorded call alerts by sending an email to NYRR’s Runner Services at [mynyrr@nyrr.org](mailto:mynyrr@nyrr.org) stating that you no longer wish to receive text message alerts and prerecorded call alerts. Your withdrawal will be put into effect no later than 24 hours from the time your email is received by NYRR. Standard message, data and other fees may be charged by your carrier and carriers may deduct charges from pre-paid amounts or data allowances, for which you are responsible. Not all phone and/or carriers are supported. You may contact your carrier for further details.
+
+10.  **_Privacy Policy Changes_**
+
+We will inform our users of changes to this Policy by posting such changes on our Services.  However, if we are changing this Policy in a manner that might cause disclosure of information we previously advised would not be disclosed, we will contact our users to allow such users to prevent such disclosure.
+
+11.  **_Choice of Law_**
+
+This Policy shall be governed by and construed in accordance with the laws of the State of New York, without regard to any principles of conflicts of law.  You agree that any action at law or in equity arising out of or relating to this Policy shall be filed only in the state or federal courts located in the County and State of New York, and you hereby consent and submit to the personal jurisdiction of such courts for the purposes of litigating any action and waive any claim that such courts are an inconvenient forum for such actions.
+
+12.  **_Your California Privacy Rights_**
+
+California’s “Shine the Light” law permits our customers who are California residents to request certain information regarding our disclosure of information to third parties for their direct own marketing purposes. Under the law, a business should either provide California customers certain information upon request or permit California customers to opt in to, or opt out of, this type of sharing.
+
+NYRR may share “personal information” as defined by California’s “Shine the Light” law with third parties for such third parties own direct marketing purposes.  California residents may obtain information about our compliance with this law by sending an e-mail to [mynyrr@nyrr.org](mailto:mynyrr@nyrr.org) or writing to us at 156 West 56th Street, 3rd Floor, New York, NY 10019, Attn: General Counsel. Requests must include “California Privacy Rights Request” in the first line of the description and include your name, street address, city, state, and ZIP code.  Please note that NYRR is not required to respond to requests made by means other than through the provided e-mail address or mail address.
+
+13.  **_International Transfer_** **.**
+
+We are based in the U.S. and the information we and our service providers collect is governed by U.S. law.  If you are accessing the Services from outside of the U.S., please be aware that information collected through the Services may be transferred to, processed, stored and used in the U.S.  Data protection laws in the U.S. may be different from those of your country of residence. Your use of the Services or provision of any information therefore constitutes your consent to the transfer to and from, processing, usage, sharing and storage of your information, including Personally Identifiable Information, in the U.S. as set forth in this Policy.  
+
+14.  **_Children_**
+
+Our Services are directed to a general audience comprised primarily of adult users.  Therefore, for most parts of the Services, we do not collect personal information from children under the age of 13 as defined by the U.S. Children’s Privacy Protection Act (“COPPA”).  To the extent that a child under the age of 13 wants to participate in an Event, that child’s parent or legal guardian must register the child under the parent or legal guardian’s account and give consent to NYRR to collect and use the child’s personal information in compliance with COPPA.
+
+If you are a parent or guardian and believe NYRR has collected such information in a manner not permitted by COPPA, please contact us at [sitefeedback@nyrr.org](mailto:sitefeedback@nyrr.org) and we will remove such data to the extent required by COPPA. 
+
+15.  **_Contact Us._**
+
+Please contact us at [sitefeedback@nyrr.org](mailto:sitefeedback@nyrr.org) if you have any questions or concerns regarding the Services or this Policy.
