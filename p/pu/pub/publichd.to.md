@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the publichd.to privacy policy that was archived on 2015-03-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150318012532id_/https%3A//publichd.to/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the publichd.to privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413014407id_/https%3A//privatehd.to/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - PublicHD
+# Privacy Policy - PrivateHD
 
 **Your Privacy**
 
@@ -17,3 +17,7 @@ We use cookies to store your choices and preferences.
 **Privacy Policy Changes**
 
 We have all rights to change, alter or modify our privacy policy at any time without prior notice. We will immediately post changes on this page and let you get acquainted with them.
+
+* * *
+
+**Posted:**
