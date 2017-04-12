@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tr.im privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603205517id_/https%3A//tr.im/a/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tr.im privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412140944id_/https%3A//tr.im/a/privacy-policy) for the most accurate reproduction.*
 
 # tr.im - url shortener
 
