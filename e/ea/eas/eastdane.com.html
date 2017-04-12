@@ -1,12 +1,12 @@
-<!--The following is the downloaded HTML source of the eastdane.com privacy policy that was archived on 2016-11-07.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161107100342id_/https%3A//www.eastdane.com/ci/aboutShopBop/privacypolicy.html) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the eastdane.com privacy policy that was archived on 2017-04-12.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170412185213id_/https%3A//www.eastdane.com/ci/aboutShopBop/privacypolicy.html%23cs%3Dov%3D73957197170%2Cos%3D1%2Clink%3DfooterPrivacyPolicyEN) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html lang="en" class="a-ws a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-transform3d a-touch-scrolling a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition" data-aui-build-date="3.16.8.14-2016-09-14"><head><script async="" src="https://images-na.ssl-images-amazon.com/images/G/01/csminstrumentation/ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js"></script>
-        
+<!DOCTYPE html><html lang="en" class="a-ws a-js a-audio a-video a-canvas a-svg a-drag-drop a-geolocation a-history a-webworker a-autofocus a-input-placeholder a-textarea-placeholder a-local-storage a-gradients a-transform3d a-touch-scrolling a-text-shadow a-text-stroke a-box-shadow a-border-radius a-border-image a-opacity a-transform a-transition" data-aui-build-date="3.16.8.16-2016-10-05"><head><script async="" src="https://images-na.ssl-images-amazon.com/images/G/01/csminstrumentation/ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js"></script>
+		<script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
+		
             <script src="//cdn.optimizely.com/js/5031020523.js"></script>
         
 		
-  <script type="text/javascript">var ue_t0=window.ue_t0||+new Date();</script>
   <script type="text/javascript">(function(e){var c=e;var a=c.ue||{};a.main_scope="mainscopecsm";a.q=[];a.t0=c.ue_t0||+new Date();a.d=g;function g(h){return +new Date()-(h?0:a.t0)}function d(h){return function(){a.q.push({n:h,a:arguments,t:a.d()})}}function b(m,l,h,j,i){var k={m:m,f:l,l:h,c:""+j,err:i,fromOnError:1,args:arguments};c.ueLogError(k);return false}b.skipTrace=1;e.onerror=b;function f(){c.uex("ld")}if(e.addEventListener){e.addEventListener("load",f,false)}else{if(e.attachEvent){e.attachEvent("onload",f)}}a.tag=d("tag");a.log=d("log");a.reset=d("rst");c.ue_csm=c;c.ue=a;c.ueLogError=d("err");c.ues=d("ues");c.uet=d("uet");c.uex=d("uex");c.uet("ue")})(window);(function(e,d){var a=e.ue||{};function c(g){if(!g){return}var f=d.head||d.getElementsByTagName("head")[0]||d.documentElement,h=d.createElement("script");h.async="async";h.src=g;f.insertBefore(h,f.firstChild)}function b(){var k=e.ue_cdn||"z-ecx.images-amazon.com",g=e.ue_cdns||"images-na.ssl-images-amazon.com",j="/images/G/01/csminstrumentation/",h=e.ue_file||"ue-full-11e51f253e8ad9d145f4ed644b40f692._V1_.js",f,i;if(h.indexOf("NSTRUMENTATION_FIL")>=0){return}if("ue_https" in e){f=e.ue_https}else{f=e.location&&e.location.protocol=="https:"?1:0}i=f?"https://":"http://";i+=f?g:k;i+=j;i+=h;c(i)}if(!e.ue_inline){if(a.loadUEFull){a.loadUEFull()}else{b()}}a.uels=c;e.ue=a})(window,document);</script>
   <script type="text/javascript">
     if ( window.ue && window.ue.tag ) {
@@ -17,107 +17,95 @@
     }
   </script>
   <script type="text/javascript">
+      var bopCSM = {
+          csmAvailable: typeof window.uet === 'function',
+          pageType: '',
+          setCSMProp:   function (method, prop, key) {
+            if (this.csmAvailable) {
+                window[method](prop, key, {wb:1});
+            }
+          },
+          fireAjaxMarker: function(marker, scope){
+              if(this.csmAvailable){
+                  window.uet( marker, scope );
+                  window.uex( "ld", scope );
+              }
+          },
+          fireMarker:  function (marker) {
+              if(this.csmAvailable) {
+                  window.uet(marker);
+              }
+          },
+          fireMarkers: function (markers) {
+              for(var i = 0; i < markers.length; i++){
+                  this.fireMarker(markers[i]);
+              }
+          },
+          checkCacheElementsByMarker: function(container, marker){
+              var elements = container.getElementsByClassName(marker);
 
+              if(elements.length > 0){
+                  for (var i = 0;i < elements.length; i++) {
+                      if(!elements[i].complete){
+                          return;
+                      }
+                  }
+                  bopCSM.fireMarker(marker);
+              }
+          },
+          allElementsLoadedFromCache: function(){
+              var container = document.getElementById('siteContainer');
+              bopCSM.checkCacheElementsByMarker(container,'af');
+              bopCSM.checkCacheElementsByMarker(container,'cf');
+          } ,
+          fireImageCompleteWidgetTag: function(currentCount, maxCount, csmWidgetName){
+              if(currentCount === maxCount){
+                  this.setCSMProp('uex', 'ld', csmWidgetName);
+              }
+          },
+          allImagesLoaded: function(elementId, querySelector, csmWidgetName ){
+              var i,
+                  images,
+                  imageCounter = 0,
+                  imageLength = 0,
+                  imageContainer = document.getElementById(elementId);
+
+              if (!imageContainer || !this.csmAvailable) {
+                return;
+              }
+
+              images = imageContainer.querySelectorAll(querySelector);
+              imageLength = images.length;
+
+              for (i = 0; i < imageLength; i++){
+
+                if(images[i].complete){
+                  imageCounter++;
+                  this.fireImageCompleteWidgetTag(imageCounter, imageLength, csmWidgetName);
+                } else {
+                  var imageOnLoad =images[i].onload;
+                  images[i].onload = function(){
+                      imageCounter++;
+                      bopCSM.fireImageCompleteWidgetTag(imageCounter, imageLength, csmWidgetName);
+                      if(typeof imageOnLoad === 'function'){
+                          imageOnLoad.apply(this, arguments);
+                      }
+                  }
+                }
+            }
+          },
+    };
+
+    //Adding this function for backwards compatability, so that we can push out without breaking the page.
     function setCSMProp(method, prop, key) {
-        if (typeof window[method] == 'function') {
-            window[method](prop, key, {wb:1});
-        }
+        bopCSM.setCSMProp(method, prop, key);
     }
 
-    function csmSbBrowsePageATF(elementId,querySelector,imageCount){
-        var i,
-            image,
-            images,
-            csmAvailable = typeof window.uet === 'function',
-            numberOfCompleteImages = 0,
-            imageContainer = document.getElementById(elementId);
-
-        if (!imageContainer || !csmAvailable) {
-            return;
-        }
-
-        images = imageContainer.querySelectorAll(querySelector);
-
-        for (i = 0; i < images.length && i < imageCount; i++) {
-            image = images[i];
-
-            if (!image) {
-                continue;
-            }
-
-            image.onload = function () {
-                window.uet('af');
-            };
-
-            if (image.complete) {
-                numberOfCompleteImages++;
-            }
-        }
-
-        if (numberOfCompleteImages == imageCount) {
-            window.uet('af');
-        }
+    function csmAllImagesLoaded(elementId, querySelector, csmWidgetName){
+        bopCSM.allImagesLoaded(elementId, querySelector, csmWidgetName);
     }
-
-    function csmAllImagesLoaded(elementId, querySelector, csmWidgetName ){
-        var i,
-            images,
-            imageCounter = 0,
-            imageLength = 0,
-            csmAvailable = typeof window.uet === 'function',
-            imageContainer = document.getElementById(elementId);
-
-        if (!imageContainer || !csmAvailable) {
-            return;
-        }
-
-        images = imageContainer.querySelectorAll(querySelector);
-        imageLength = images.length;
-
-        for (i = 0; i < imageLength; i++){
-
-            if(images[i].complete){
-                imageCounter++;
-                fireImageCompleteWidgetTag(imageCounter, imageLength, csmWidgetName);
-            } else {
-                var imageOnLoad =images[i].onload;
-                images[i].onload = function(){
-                    imageCounter++;
-                    fireImageCompleteWidgetTag(imageCounter, imageLength, csmWidgetName);
-                    if(typeof imageOnLoad === 'function'){
-                        imageOnLoad.apply(this, arguments);
-                    }
-
-                }
-            }
-        }
-    }
-
-    function fireImageCompleteWidgetTag(currentCount, maxCount, csmWidgetName){
-        if(currentCount == maxCount){
-            setCSMProp('uex', 'ld', csmWidgetName);
-        }
-    }
-
-    function fireATF() {
-        var csmAvailable = typeof window.uet === 'function';
-        if(csmAvailable) {
-            window.uet('af');
-        }
-    }
-    window.addEventListener("DOMContentLoaded", function(){
-        var container = document.getElementById('siteContainer'),
-                elems = container.getElementsByClassName('atf');
-
-        if(elems.length > 0){
-            for (var i = 0;i < elems.length; i++) {
-                if(!elems[i].complete){
-                    return;
-                }
-            }
-            fireATF();
-        }
-    }, false);
+    // We want call this to see if elements might have been loaded from cache and we missed the onload event.
+    window.addEventListener("DOMContentLoaded",bopCSM.allElementsLoadedFromCache, false);
   </script>
 
 
@@ -177,42 +165,42 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
 
 <script type="text/javascript">
-    setCSMProp('uet', 'bb', 'cssContent');
+    bopCSM.setCSMProp('uet', 'bb', 'cssContent');
 </script>
 
 
-    <link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/css/f29a8eea0d2daad733db2c4ea5843e66acaf7fb973204e9ab6c35f4dffa84965.css" type="text/css">
+    <link rel="stylesheet" href="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/css/208aa8f204d2bee41746d3c8d2c4f31b695df9ae4b999b2c2f6a182f19798581.css" type="text/css">
 
 
 <script type="text/javascript">
-    setCSMProp('uex', 'ld', 'cssContent');
+    bopCSM.setCSMProp('uex', 'ld', 'cssContent');
 </script>
 
 
 <script type="text/javascript">
-    setCSMProp('uet', 'bb', 'synchronousJavaScript');
+    bopCSM.setCSMProp('uet', 'bb', 'synchronousJavaScript');
 </script>
 
 
     
     
-    	<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/js/d0fc27f1366c6ca644a54280179f90dd68a3baa82630f9ff9a9af1ca4eb8b2eb.js" type="text/javascript"></script>
+    	<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/js/92e5cde31660e6208da0bd4783fe2b6cf760431257d1205bdb2fa6cd4e7b83b8.js" type="text/javascript"></script>
     
 
 
 <script type="text/javascript">
-    setCSMProp('uex', 'ld', 'synchronousJavaScript');
+    bopCSM.setCSMProp('uex', 'ld', 'synchronousJavaScript');
 </script>
 
 
 <script type="text/javascript">
-    setCSMProp('uet', 'bb', 'dtmJavaScript');
+    bopCSM.setCSMProp('uet', 'bb', 'dtmJavaScript');
 </script>
 
-<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/dtm/js/41a/b2698c39d61437537d0b9151f218ccf38b2a6d46/satelliteLib-2cb957f37942ca921559b8e4082736efd6358c9e.js" type="text/javascript"></script>
+<script src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/dtm/js/45a/b2698c39d61437537d0b9151f218ccf38b2a6d46/satelliteLib-2cb957f37942ca921559b8e4082736efd6358c9e.js" type="text/javascript"></script>
 
 <script type="text/javascript">
-    setCSMProp('uex', 'ld', 'dtmJavaScript');
+    bopCSM.setCSMProp('uex', 'ld', 'dtmJavaScript');
 </script>
 
 
@@ -229,15 +217,15 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
 	<body id="top" data-lang="en" data-country="US" data-currency="USD" data-locale="en-US">
 		
-		<div id="visitid" style="display:none;" data-visitid="73117289835">73117289835</div>
-		<div id="seqnum" style="display:none;" data-seqnum="1">1</div>
+		<div id="visitid" style="display:none;" data-visitid="74031393511">74031393511</div>
+		<div id="seqnum" style="display:none;" data-seqnum="41">41</div>
 		<div id="availableMessage" style="display:none;">Only #{qta} left.</div>
 		
 		
 		
 
 			<script type="text/javascript">
-				setCSMProp('uet', 'bb', 'globalBar');
+				bopCSM.setCSMProp('uet', 'bb', 'globalBar');
 			</script>
 
 			<div class="global-bar">
@@ -248,7 +236,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
 <ul class="domain-list">
   <li class="domain">
-    <a class="link" href="https://www.shopbop.com/#cs=ov=73117289835,os=1,link=shopbopDomainHeader" data-at="womensLink">
+    <a class="link" href="https://www.shopbop.com/#cs=ov=74031393511,os=41,link=shopbopDomainHeader" data-at="womensLink">
       shop women's
     </a>
           
@@ -256,7 +244,7 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 
 
 
-<a href="https://www.shopbop.com/#cs=ov=73117289835,os=1,link=shopbopDomainHeader" class="domain-hover">
+<a href="https://www.shopbop.com/#cs=ov=74031393511,os=41,link=shopbopDomainHeader" class="domain-hover">
   <div class="uppercase intro-text">
     Shop Women's Fashion at
   </div>
@@ -297,22 +285,22 @@ var digitalData = {"page":{"pageInfo":{"authState":"anonymous","variant":"prod",
 .sui-country-flag{position:relative;top:2px;margin:0 .5em 0 1.5em}
 </style>
 <script>
-(function(q,t,u,e){function l(a,b){F&&F.count&&F.count("aui:"+a,0===b?0:b||(F.count("aui:"+a)||0)+1)}function k(a){try{return a.test(navigator.userAgent)}catch(b){return!1}}function h(a,b,c){a.addEventListener?a.addEventListener(b,c,!1):a.attachEvent&&a.attachEvent("on"+b,c)}function g(a,b,c,d){b=b&&c?b+a+c:b||c;return d?g(a,b,d):b}function f(a,b,c){try{Object.defineProperty(a,b,{value:c,writable:!1})}catch(d){a[b]=c}return c}function d(){return setTimeout(L,0)}function m(a,b){var c=a.length,e=c,
-f=function(){e--||(I.push(b),J||(d(),J=!0))};for(f();c--;)B[a[c]]?f():(K[a[c]]=K[a[c]]||[]).push(f)}function c(a,b,c,d){var e=t.createElement(a?"script":"link");h(e,"error",d);if(a){e.type="text/javascript";e.async=!0;if(a=c)a=-1!==b.indexOf("images/I")||/AUIClients/.test(b);a&&e.setAttribute("crossorigin","anonymous");e.src=b}else e.rel="stylesheet",e.href=b;t.getElementsByTagName("head")[0].appendChild(e)}function a(a,b){return function(d){function e(){c(b,d,f,function(b){p?l("resource_unload"):
-f?(f=!1,l("resource_retry"),e()):(l("resource_error"),a.log("Asset failed to load: "+d));b&&b.stopPropagation?b.stopPropagation():q.event&&(q.event.cancelBubble=!0)})}if(M[d])return!1;M[d]=!0;l("resource_count");var f=!0;return!e()}}function b(a){for(var b=[],c=0;c<a.length;c++)b[c]=S[a[c]];return b}function n(a,c,d,f,h){return function(n,k){function l(){var a=null;f?a=k:"function"===typeof k&&(v.start=H(),a=k.apply(q,b(p)),v.end=H());if(c){S[n]=a;a=n;for(B[a]=!0;(K[a]||[]).length;)K[a].shift()();
-delete K[a]}v.done=!0}var r=h||this;"function"===typeof n&&(k=n,n=e);c&&(n=(n||"__NONAME__").replace(/^prv:/,""),S.hasOwnProperty(n)&&r.error(g(" @ ","Component already registered",n),n),S[n]=e);for(var p=[],w=0;w<a.length;w++)p[w]=a[w].replace(/^prv:/,"");var v=ca[n]={depend:p,registered:H()};d?l():m(p,r.guardFatal(n,l))}}function r(a){return function(){return{execute:n(arguments,!1,a,!1,this),register:n(arguments,!0,a,!1,this)}}}function w(a,b){return function(c,d){d||(d=c,c=e);return function(){ja.push({attribution:a,
-name:c,logLevel:b});var e=d.apply(this,arguments);ja.pop();return e}}}function x(b,c){this.logError=function(a,c,d,e){return q.ueLogError?(c={message:c,logLevel:d||"ERROR",attribution:g(":",b,e)},q.ueLogError(a||c,a?c:null),!0):!1};this.error=function(a,c,d,e){a=Error(g(":",e,a,d));a.attribution=g(":",b,c);throw a;};this.guardError=w(b);this.guardFatal=w(b,"FATAL");this.load={js:a(this,!0),css:a(this)};f(this,"namespace",c)}function v(){t.body?ga.trigger("a-bodyBegin"):setTimeout(v,20)}function y(a,
-b){if(b){for(var c=a.className.split(" "),d=c.length;d--;)if(c[d]===b)return;a.className+=" "+b}}function A(a,b){for(var c=a.className.split(" "),d=[],f;(f=c.pop())!==e;)f&&f!==b&&d.push(f);a.className=d.join(" ")}function z(a){try{return a()}catch(b){return!1}}function C(){if(ba){var a=q.innerWidth?{w:q.innerWidth,h:q.innerHeight}:{w:la.clientWidth,h:la.clientHeight},b=!1;5<Math.abs(a.w-ua.w)||50<a.h-ua.h?(ua=a,qa=4,(b=ka.mobile||ka.tablet?a.w>a.h:1250<=a.w)?y(la,"a-ws"):A(la,"a-ws")):qa--&&(Da=
-setTimeout(C,16))}}function E(a){(ba=a===e?!ba:!!a)&&C()}function D(){return ba}var G=q.AmazonUIPageJS||q.P;if(G&&G.when&&G.register)throw Error("A copy of P has already been loaded on this page.");var F=q.ue;F&&F.tag&&(F.tag("aui"),F.tag("aui:aui_build_date:3.16.8.14-2016-09-14"));var H=u.now=u.now||function(){return+new u},I=[],J=!1,L;L=function(){for(var a=d(),b=H();I.length;)if(I.shift()(),50<H()-b)return;clearTimeout(a);J=!1};k(/OS 6_[0-9]+ like Mac OS X/i)&&h(q,"scroll",d);var B=
-{},K={},M={},p=!1;h(q,"beforeunload",function(){p=!0;setTimeout(function(){p=!1},1E4)});var S={},ca={},ja=[],ra=q.onerror;q.onerror=function(a,b,c,d,f){f&&"object"===typeof f||(f=Error(a,b,c),f.columnNumber=d,f.stack=b||c||d?g(String.fromCharCode(92),f.message,"at "+g(":",b,c,d)):e);var h=ja.pop()||{};f.attribution=g(":",f.attribution||h.attribution,h.name);f.logLevel=h.logLevel;f.attribution&&console&&console.log&&console.log([f.logLevel||"ERROR",a,"thrown by",f.attribution].join(" "));ja=[];ra&&
-(h=[].slice.call(arguments),h[4]=f,ra.apply(q,h))};x.prototype={log:function(a,b,c){return this.logError(null,a,b,c)},declare:n([],!0,!0,!0),register:n([],!0),execute:n([]),AUI_BUILD_DATE:"3.16.8.14-2016-09-14",when:r(),now:r(!0),trigger:function(a,b){var c=H();this.declare(a,{data:b,pageElapsedTime:c-(q.aPageStart||NaN),triggerTime:c})},handleTriggers:function(){this.log("handleTriggers deprecated")},attributeErrors:function(a){return new x(a)},_namespace:function(a,b){return new x(a,b)}};var ga=
-f(q,"AmazonUIPageJS",new x);ga._namespace("PageJS","AmazonUI").declare("prv:p-debug",ca);ga.declare("p-recorder-events",[]);ga.declare("p-recorder-stop",function(){});f(q,"P",ga);v();if(t.addEventListener){var aa;t.addEventListener("DOMContentLoaded",aa=function(){ga.trigger("a-domready");t.removeEventListener("DOMContentLoaded",aa,!1)},!1)}var la=t.documentElement,na=function(){var a=["O","ms","Moz","Webkit"],b=t.createElement("div");return{testGradients:function(){b.style.cssText=("background-image:-webkit-gradient(linear,left top,right bottom,from(#9f9),to(white));background-image:"+
-a.join("linear-gradient(left top,#9f9, white);background-image:")).slice(0,-17);return-1<b.style.backgroundImage.indexOf("gradient")},test:function(c){var d=c.charAt(0).toUpperCase()+c.substr(1);c=(a.join(d+" ")+d+" "+c).split(" ");for(d=c.length;d--;)if(""===b.style[c[d]])return!0;return!1},testTransform3d:function(){var a=!1;q.matchMedia&&(a=q.matchMedia("(-webkit-transform-3d)").matches);return a}}}(),G=la.className,pa=/(^| )a-mobile( |$)/.test(G),ya=/(^| )a-tablet( |$)/.test(G),ka={audio:function(){return!!t.createElement("audio").canPlayType},
+(function(q,t,u,b){function l(a,c){F&&F.count&&F.count("aui:"+a,0===c?0:c||(F.count("aui:"+a)||0)+1)}function k(a){try{return a.test(navigator.userAgent)}catch(c){return!1}}function h(a,c,b){a.addEventListener?a.addEventListener(c,b,!1):a.attachEvent&&a.attachEvent("on"+c,b)}function g(a,c,b,d){c=c&&b?c+a+b:c||b;return d?g(a,c,d):c}function f(a,c,b){try{Object.defineProperty(a,c,{value:b,writable:!1})}catch(d){a[c]=b}return b}function e(){return setTimeout(L,0)}function m(a,c){var b=a.length,d=b,
+f=function(){d--||(I.push(c),J||(e(),J=!0))};for(f();b--;)B[a[b]]?f():(K[a[b]]=K[a[b]]||[]).push(f)}function d(a,c,b,d){var e=t.createElement(a?"script":"link");h(e,"error",d);if(a){e.type="text/javascript";e.async=!0;if(a=b)a=-1!==c.indexOf("images/I")||/AUIClients/.test(c);a&&e.setAttribute("crossorigin","anonymous");e.src=c}else e.rel="stylesheet",e.href=c;t.getElementsByTagName("head")[0].appendChild(e)}function a(a,c){return function(b){function e(){d(c,b,f,function(c){p?l("resource_unload"):
+f?(f=!1,l("resource_retry"),e()):(l("resource_error"),a.log("Asset failed to load: "+b));c&&c.stopPropagation?c.stopPropagation():q.event&&(q.event.cancelBubble=!0)})}if(M[b])return!1;M[b]=!0;l("resource_count");var f=!0;return!e()}}function c(a){for(var c=[],b=0;b<a.length;b++)c[b]=S[a[b]];return c}function n(a,d,e,f,h){return function(k,l){function n(){var a=null;f?a=l:"function"===typeof l&&(w.start=H(),a=l.apply(q,c(p)),w.end=H());if(d){S[k]=a;a=k;for(B[a]=!0;(K[a]||[]).length;)K[a].shift()();
+delete K[a]}w.done=!0}var r=h||this;"function"===typeof k&&(l=k,k=b);d&&(k=(k||"__NONAME__").replace(/^prv:/,""),S.hasOwnProperty(k)&&r.error(g(" @ ","Component already registered",k),k),S[k]=b);for(var p=[],t=0;t<a.length;t++)p[t]=a[t].replace(/^prv:/,"");var w=Y[k]={depend:p,registered:H()};e?n():m(p,r.guardFatal(k,n))}}function r(a){return function(){return{execute:n(arguments,!1,a,!1,this),register:n(arguments,!0,a,!1,this)}}}function w(a,c){return function(d,e){e||(e=d,d=b);return function(){la.push({attribution:a,
+name:d,logLevel:c});var b=e.apply(this,arguments);la.pop();return b}}}function y(c,b){this.logError=function(a,b,d,e){return q.ueLogError?(b={message:b,logLevel:d||"ERROR",attribution:g(":",c,e)},q.ueLogError(a||b,a?b:null),!0):!1};this.error=function(a,b,d,e){a=Error(g(":",e,a,d));a.attribution=g(":",c,b);throw a;};this.guardError=w(c);this.guardFatal=w(c,"FATAL");this.load={js:a(this,!0),css:a(this)};f(this,"namespace",b)}function v(){t.body?da.trigger("a-bodyBegin"):setTimeout(v,20)}function x(a,
+c){if(c){for(var b=a.className.split(" "),d=b.length;d--;)if(b[d]===c)return;a.className+=" "+c}}function A(a,c){for(var d=a.className.split(" "),e=[],f;(f=d.pop())!==b;)f&&f!==c&&e.push(f);a.className=e.join(" ")}function z(a){try{return a()}catch(c){return!1}}function C(){if(ba){var a=q.innerWidth?{w:q.innerWidth,h:q.innerHeight}:{w:ma.clientWidth,h:ma.clientHeight},c=!1;5<Math.abs(a.w-ua.w)||50<a.h-ua.h?(ua=a,ra=4,(c=na.mobile||na.tablet?a.w>a.h:1250<=a.w)?x(ma,"a-ws"):A(ma,"a-ws")):ra--&&(Da=
+setTimeout(C,16))}}function E(a){(ba=a===b?!ba:!!a)&&C()}function D(){return ba}var G=q.AmazonUIPageJS||q.P;if(G&&G.when&&G.register)throw Error("A copy of P has already been loaded on this page.");var F=q.ue;F&&F.tag&&(F.tag("aui"),F.tag("aui:aui_build_date:3.16.8.16-2016-10-05"));var H=u.now=u.now||function(){return+new u},I=[],J=!1,L;L=function(){for(var a=e(),c=H();I.length;)if(I.shift()(),50<H()-c)return;clearTimeout(a);J=!1};k(/OS 6_[0-9]+ like Mac OS X/i)&&h(q,"scroll",e);var B=
+{},K={},M={},p=!1;h(q,"beforeunload",function(){p=!0;setTimeout(function(){p=!1},1E4)});var S={},Y={},la=[],sa=q.onerror;q.onerror=function(a,c,d,e,f){f&&"object"===typeof f||(f=Error(a,c,d),f.columnNumber=e,f.stack=c||d||e?g(String.fromCharCode(92),f.message,"at "+g(":",c,d,e)):b);var h=la.pop()||{};f.attribution=g(":",f.attribution||h.attribution,h.name);f.logLevel=h.logLevel;f.attribution&&console&&console.log&&console.log([f.logLevel||"ERROR",a,"thrown by",f.attribution].join(" "));la=[];sa&&
+(h=[].slice.call(arguments),h[4]=f,sa.apply(q,h))};y.prototype={log:function(a,c,b){return this.logError(null,a,c,b)},declare:n([],!0,!0,!0),register:n([],!0),execute:n([]),AUI_BUILD_DATE:"3.16.8.16-2016-10-05",when:r(),now:r(!0),trigger:function(a,c){var b=H();this.declare(a,{data:c,pageElapsedTime:b-(q.aPageStart||NaN),triggerTime:b})},handleTriggers:function(){this.log("handleTriggers deprecated")},attributeErrors:function(a){return new y(a)},_namespace:function(a,c){return new y(a,c)}};var da=
+f(q,"AmazonUIPageJS",new y);da._namespace("PageJS","AmazonUI").declare("prv:p-debug",Y);da.declare("p-recorder-events",[]);da.declare("p-recorder-stop",function(){});f(q,"P",da);v();if(t.addEventListener){var aa;t.addEventListener("DOMContentLoaded",aa=function(){da.trigger("a-domready");t.removeEventListener("DOMContentLoaded",aa,!1)},!1)}var ma=t.documentElement,ga=function(){var a=["O","ms","Moz","Webkit"],c=t.createElement("div");return{testGradients:function(){c.style.cssText=("background-image:-webkit-gradient(linear,left top,right bottom,from(#9f9),to(white));background-image:"+
+a.join("linear-gradient(left top,#9f9, white);background-image:")).slice(0,-17);return-1<c.style.backgroundImage.indexOf("gradient")},test:function(b){var d=b.charAt(0).toUpperCase()+b.substr(1);b=(a.join(d+" ")+d+" "+b).split(" ");for(d=b.length;d--;)if(""===c.style[b[d]])return!0;return!1},testTransform3d:function(){var a=!1;q.matchMedia&&(a=q.matchMedia("(-webkit-transform-3d)").matches);return a}}}(),G=ma.className,qa=/(^| )a-mobile( |$)/.test(G),xa=/(^| )a-tablet( |$)/.test(G),na={audio:function(){return!!t.createElement("audio").canPlayType},
 video:function(){return!!t.createElement("video").canPlayType},canvas:function(){return!!t.createElement("canvas").getContext},svg:function(){return!!t.createElementNS&&!!t.createElementNS("http://www.w3.org/2000/svg","svg").createSVGRect},offline:function(){return navigator.hasOwnProperty&&navigator.hasOwnProperty("onLine")&&navigator.onLine},dragDrop:function(){return"draggable"in t.createElement("span")},geolocation:function(){return!!navigator.geolocation},history:function(){return!(!q.history||
-!q.history.pushState)},webworker:function(){return!!q.Worker},autofocus:function(){return"autofocus"in t.createElement("input")},inputPlaceholder:function(){return"placeholder"in t.createElement("input")},textareaPlaceholder:function(){return"placeholder"in t.createElement("textarea")},localStorage:function(){return"localStorage"in q&&null!==q.localStorage},orientation:function(){return"orientation"in q},touch:function(){return"ontouchend"in t},gradients:function(){return na.testGradients()},hires:function(){var a=
-q.devicePixelRatio&&1.5<=q.devicePixelRatio||q.matchMedia&&q.matchMedia("(min-resolution:144dpi)").matches;l("hiRes"+(pa?"Mobile":ya?"Tablet":"Desktop"),a?1:0);return a},transform3d:function(){return na.testTransform3d()},touchScrolling:function(){return k(/Windowshop|android.([3-9]|[L-Z])|OS ([5-9]|[1-9][0-9]+)(_[0-9]{1,2})+ like Mac OS X|Chrome|Silk|Firefox|Trident.+?; Touch/i)},ios:function(){return k(/OS [1-9][0-9]*(_[0-9]*)+ like Mac OS X/i)},android:function(){return k(/android.([1-9]|[L-Z])/i)&&
-!k(/trident/i)},mobile:function(){return pa},tablet:function(){return ya}},O;for(O in ka)ka.hasOwnProperty(O)&&(ka[O]=z(ka[O]));for(var Z="textShadow textStroke boxShadow borderRadius borderImage opacity transform transition".split(" "),Y=0;Y<Z.length;Y++)ka[Z[Y]]=z(function(){return na.test(Z[Y])});var ba=!0,Da=0,ua={w:0,h:0},qa=4;C();h(q,"resize",function(){clearTimeout(Da);qa=4;C()});A(la,"a-no-js");y(la,"a-js");!k(/OS [1-8](_[0-9]*)+ like Mac OS X/i)||q.navigator.standalone||k(/safari/i)||y(la,
-"a-ember");ka.localStorage&&y(la,localStorage.getItem("a-skin-font-class"));G=[];for(O in ka)ka.hasOwnProperty(O)&&ka[O]&&G.push("a-"+O.replace(/([A-Z])/g,function(a){return"-"+a.toLowerCase()}));y(la,G.join(" "));la.setAttribute("data-aui-build-date","3.16.8.14-2016-09-14");ga.register("p-detect",function(){return{capabilities:ka,toggleResponsiveGrid:E,responsiveGridEnabled:D}});ga.declare("a-event-revised-handling",!1)})(window,document,Date);
+!q.history.pushState)},webworker:function(){return!!q.Worker},autofocus:function(){return"autofocus"in t.createElement("input")},inputPlaceholder:function(){return"placeholder"in t.createElement("input")},textareaPlaceholder:function(){return"placeholder"in t.createElement("textarea")},localStorage:function(){return"localStorage"in q&&null!==q.localStorage},orientation:function(){return"orientation"in q},touch:function(){return"ontouchend"in t},gradients:function(){return ga.testGradients()},hires:function(){var a=
+q.devicePixelRatio&&1.5<=q.devicePixelRatio||q.matchMedia&&q.matchMedia("(min-resolution:144dpi)").matches;l("hiRes"+(qa?"Mobile":xa?"Tablet":"Desktop"),a?1:0);return a},transform3d:function(){return ga.testTransform3d()},touchScrolling:function(){return k(/Windowshop|android.([3-9]|[L-Z])|OS ([5-9]|[1-9][0-9]+)(_[0-9]{1,2})+ like Mac OS X|Chrome|Silk|Firefox|Trident.+?; Touch/i)},ios:function(){return k(/OS [1-9][0-9]*(_[0-9]*)+ like Mac OS X/i)},android:function(){return k(/android.([1-9]|[L-Z])/i)&&
+!k(/trident/i)},mobile:function(){return qa},tablet:function(){return xa}},O;for(O in na)na.hasOwnProperty(O)&&(na[O]=z(na[O]));for(var Z="textShadow textStroke boxShadow borderRadius borderImage opacity transform transition".split(" "),U=0;U<Z.length;U++)na[Z[U]]=z(function(){return ga.test(Z[U])});var ba=!0,Da=0,ua={w:0,h:0},ra=4;C();h(q,"resize",function(){clearTimeout(Da);ra=4;C()});A(ma,"a-no-js");x(ma,"a-js");!k(/OS [1-8](_[0-9]*)+ like Mac OS X/i)||q.navigator.standalone||k(/safari/i)||x(ma,
+"a-ember");na.localStorage&&x(ma,localStorage.getItem("a-skin-font-class"));G=[];for(O in na)na.hasOwnProperty(O)&&na[O]&&G.push("a-"+O.replace(/([A-Z])/g,function(a){return"-"+a.toLowerCase()}));x(ma,G.join(" "));ma.setAttribute("data-aui-build-date","3.16.8.16-2016-10-05");da.register("p-detect",function(){return{capabilities:na,toggleResponsiveGrid:E,responsiveGridEnabled:D}});da.declare("a-event-revised-handling",!1)})(window,document,Date);
 </script>
 
 
@@ -336,7 +324,7 @@ q.devicePixelRatio&&1.5<=q.devicePixelRatio||q.matchMedia&&q.matchMedia("(min-re
 
 
 			<script type="text/javascript">
-				setCSMProp('uex', 'ld', 'globalBar');
+				bopCSM.setCSMProp('uex', 'ld', 'globalBar');
 			</script>
 		
 		<div id="siteContainer" class="page-container">
@@ -361,7 +349,7 @@ q.devicePixelRatio&&1.5<=q.devicePixelRatio||q.matchMedia&&q.matchMedia("(min-re
 
 
     
-  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#shipping#cs=ov=73117289835,os=1,link=headerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=1024,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping and FREE returns
+  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#shipping#cs=ov=74031393511,os=41,link=headerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=1,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=1024,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping and FREE returns
 Amazon Prime eligible">
           FREE 3-day shipping and FREE returns<br>
 Amazon Prime eligible
@@ -373,7 +361,7 @@ Amazon Prime eligible
 
   <div class="logo-container g4">
     <a class="logo-link" href="/" rel="nofollow">
-          <img class="logo" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/eastdane/images/east-dane-logo_1-2.png" alt="Shopbop privacy policy" width="242" height="38">
+          <img class="af logo" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/eastdane/images/east-dane-logo_1-2.png" alt="Shopbop privacy policy" width="242" height="38" onload="bopCSM.fireMarker('af')">
     </a>
   </div>
   <div class="login-container g4">
@@ -386,7 +374,7 @@ Amazon Prime eligible
 </div>
 
 				<script type="text/javascript">
-					setCSMProp('uet', 'bb', 'topNav');
+					bopCSM.setCSMProp('uet', 'bb', 'topNav');
 				</script>
 				<nav id="topNavTile" class="page-nav">
 					<ul id="navList" class="inline-navigation">
@@ -426,104 +414,6 @@ Amazon Prime eligible
 
         </a>
       </li>
-            <li class="subnav-item">
-        <a href=" /ci/desktop/landingpages/holiday/2016/ed-holiday-gift-guide-lp.html" class="promoItem emphasized-item link" data-cs-name="latest-${01}" data-at="${01}">
-             <img src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/eastdane/ci/images/nav/ed_dropdown_holidaygiftguide_1-0.png">
-
-        </a>
-      </li>
-          </ul>
-      </li>
-    <li class="navCategory nav-item">
-    
-        <a class="parent topnav-logged-in " href="/ci/desktop/landingpages/holiday/2016/ed-holiday-gift-guide-lp.html" data-cs-name="gifts" data-at="gifts">
-        Gifts
-
-    </a>
-    <a class="parent topnav-logged-out " href="/ci/desktop/landingpages/holiday/2016/ed-holiday-gift-guide-lp.html" data-cs-name="gifts" style="display: none">
-        Gifts
-
-    </a>
-    <span class="nolink">Gifts</span>
-        <ul id="submenu2" class="subnav">
-            <li class="subnav-item">
-        <a href="/shops-gift-shop-all-gifts/br/v=1/23370.htm" class=" link" data-cs-name="gifts-allgifts" data-at="allgifts">
-             All Gifts
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shops-gifts-east-dane-exclusives/br/v=1/32543.htm" class=" link" data-cs-name="gifts-eastdaneexclusives" data-at="eastdaneexclusives">
-             East Dane Exclusives
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shops-gifts-bags-accessories/br/v=1/42469.htm" class=" link" data-cs-name="gifts-bags&amp;accessories" data-at="bags&amp;accessories">
-             Bags &amp; Accessories
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shops-gifts-cold-weather-finds/br/v=1/23374.htm" class=" link" data-cs-name="gifts-cold-weatherfinds" data-at="cold-weatherfinds">
-             Cold-Weather Finds
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shops-gifts-holiday-attire/br/v=1/23373.htm" class=" link" data-cs-name="gifts-holidayattire" data-at="holidayattire">
-             Holiday Attire
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shops-gifts-home-curiosities/br/v=1/23372.htm" class=" link" data-cs-name="gifts-home&amp;curiosities" data-at="home&amp;curiosities">
-             Home &amp; Curiosities
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shops-gifts-casual-essentials/br/v=1/49462.htm" class=" link" data-cs-name="gifts-casualessentials" data-at="casualessentials">
-             Casual Essentials
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="//www.shopbop.com/ci/desktop/landingpages/holiday/2016/sb-holiday-gift-guide-lp.html" class=" link" data-cs-name="gifts-giftsforheratshopbop" data-at="giftsforheratshopbop">
-             Gifts for Her at Shopbop
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shops-gifts-under-50/br/v=1/32544.htm" class=" link" data-cs-name="gifts-giftsunder$50" data-at="giftsunder$50">
-             Gifts Under $50
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shops-gifts-gift-50-100/br/v=1/23371.htm" class=" link" data-cs-name="gifts-gift$50-$100" data-at="gift$50-$100">
-             Gift $50 - $100
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shops-gifts-100-250/br/v=1/49460.htm" class=" link" data-cs-name="gifts-gifts$100-$250" data-at="gifts$100-$250">
-             Gifts $100 - $250
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/shops-gifts-over-250/br/v=1/49461.htm" class=" link" data-cs-name="gifts-giftsover$250" data-at="giftsover$250">
-             Gifts Over $250
-
-        </a>
-      </li>
-            <li class="subnav-item">
-        <a href="/ci/desktop/landingpages/holiday/2016/ed-holiday-gift-guide-lp.html" class="promoItem emphasized-item link" data-cs-name="gifts-${01}" data-at="${01}">
-             <img src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/eastdane/ci/images/nav/ed_dropdown_holidaygiftguide_1-0.png">
-
-        </a>
-      </li>
           </ul>
       </li>
     <li class="navCategory nav-item">
@@ -537,7 +427,7 @@ Amazon Prime eligible
 
     </a>
     <span class="nolink">Designers</span>
-        <ul id="submenu3" class="subnav">
+        <ul id="submenu2" class="subnav">
             <li class="subnav-item">
         <a href="/actions/designerindex/viewAlphabeticalDesigners.action" class=" link" data-cs-name="designers-designersa-z" data-at="designersa-z">
              Designers A-Z
@@ -575,7 +465,7 @@ Amazon Prime eligible
 
     </a>
     <span class="nolink">Clothing</span>
-        <ul id="submenu4" class="subnav">
+        <ul id="submenu3" class="subnav">
             <li class="subnav-item">
         <a href="/clothing/br/v=1/19185.htm" class=" link" data-cs-name="clothing-shopall" data-at="shopall">
              Shop All
@@ -655,7 +545,7 @@ Amazon Prime eligible
 
     </a>
     <span class="nolink">Shoes</span>
-        <ul id="submenu5" class="subnav">
+        <ul id="submenu4" class="subnav">
             <li class="subnav-item">
         <a href="/shoes/br/v=1/19186.htm" class=" link" data-cs-name="shoes-shopall" data-at="shopall">
              Shop All
@@ -705,7 +595,7 @@ Amazon Prime eligible
 
     </a>
     <span class="nolink">Accessories</span>
-        <ul id="submenu6" class="subnav">
+        <ul id="submenu5" class="subnav">
             <li class="subnav-item">
         <a href="/accessories/br/v=1/19187.htm" class=" link" data-cs-name="accessories-shopall" data-at="shopall">
              Shop All
@@ -797,7 +687,7 @@ Amazon Prime eligible
 
     </a>
     <span class="nolink">The Shops</span>
-        <ul id="submenu7" class="subnav">
+        <ul id="submenu6" class="subnav">
             <li class="subnav-item">
         <a href="/shops-top-sellers/br/v=1/22686.htm" class=" link" data-cs-name="theshops-topsellers" data-at="topsellers">
              Top Sellers
@@ -828,6 +718,12 @@ Amazon Prime eligible
 
         </a>
       </li>
+            <li class="subnav-item">
+        <a href="/shops-gift-shop-all-gifts/br/v=1/23370.htm" class=" link" data-cs-name="theshops-gifts" data-at="gifts">
+             Gifts
+
+        </a>
+      </li>
           </ul>
       </li>
     <li class="navCategory nav-item">
@@ -844,16 +740,22 @@ Amazon Prime eligible
       </li>
     <li class="navCategory nav-item">
     
-        <a class="parent topnav-logged-in " href="/ci/lp/lp-sale.html" data-cs-name="sale" data-at="sale">
+        <a class="parent topnav-logged-in " href="/sale/br/v=1/19188.htm" data-cs-name="sale" data-at="sale">
         Sale
 
     </a>
-    <a class="parent topnav-logged-out " href="/ci/lp/lp-sale.html" data-cs-name="sale" style="display: none">
+    <a class="parent topnav-logged-out " href="/sale/br/v=1/19188.htm" data-cs-name="sale" style="display: none">
         Sale
 
     </a>
     <span class="nolink">Sale</span>
-        <ul id="submenu9" class="subnav">
+        <ul id="submenu8" class="subnav">
+            <li class="subnav-item">
+        <a href="/sale/br/v=1/19188.htm" class=" link" data-cs-name="sale-shopall" data-at="shopall">
+             Shop All
+
+        </a>
+      </li>
             <li class="subnav-item">
         <a href="/new-to-sale/br/v=1/19406.htm" class=" link" data-cs-name="sale-newtosale" data-at="newtosale">
              New to Sale
@@ -927,7 +829,7 @@ Amazon Prime eligible
 
     </a>
     <span class="nolink">My Details</span>
-        <ul id="submenu10" class="subnav">
+        <ul id="submenu9" class="subnav">
             <li class="subnav-item">
         <a href="/actions/myaccount/myAccountHomePageAction.action" class=" link" data-cs-name="mydetails-account" data-at="account">
              Account
@@ -969,7 +871,7 @@ Amazon Prime eligible
   </ul>
 				</nav>
 				<script type="text/javascript">
-					setCSMProp('uex', 'ld', 'topNav');
+					bopCSM.setCSMProp('uex', 'ld', 'topNav');
 				</script>
 				
 
@@ -1003,13 +905,13 @@ Amazon Prime eligible
 			<div id="pageContent" class="clearfix page-content">
 				
 				<script type="text/javascript">
-					setCSMProp('uet', 'bb', 'pageContentScope');
+					bopCSM.setCSMProp('uet', 'bb', 'pageContentScope');
 				</script>
 				<div id="content" class="content">
 					
 					<div class="page-container">
 <span style="color:#dd641d;"><b>Shopbop.com and EastDane.com (the “Websites”) Privacy Notice</b></span><br>
-Last updated: December 29, 2014.<br>
+Last updated: November 9, 2016.<br>
 
 We know that you care how information about you is used and shared, and we appreciate your trust that we will do so carefully and sensibly. This notice describes our privacy policy. <b>By visiting the Websites, you are accepting the practices described in this Privacy Notice.</b><br><br>
 <ul>
@@ -1064,7 +966,7 @@ The information we learn from customers helps us personalize and continually imp
 Information about our customers is an important part of our business, and we are not in the business of selling it to others. We share customer information only as described below and with our parent corporation, Amazon.com, Inc., and the subsidiaries it controls that either are subject to this Privacy Notice or follow practices at least as protective as those described in this Privacy Notice.
 <ul><br>
  <li><b>Affiliated Businesses We Do Not Control:</b> We work closely with affiliated businesses. In some cases, these businesses might sell offerings to you directly through the Websites.  In other cases, we might sell product lines jointly with these businesses. You can tell when a third party is involved in your transactions, and we share customer information related to those transactions with that third party.</li>
- <li><b>Third-Party Service Providers:</b> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing credit card payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.</li>
+ <li><b>Third-Party Service Providers:</b> We employ other companies and individuals to perform functions on our behalf. Examples include fulfilling orders, delivering packages, sending postal mail and e-mail, removing repetitive information from customer lists, analyzing data, providing marketing assistance, providing search results and links (including paid listings and links), processing payments, and providing customer service. They have access to personal information needed to perform their functions, but may not use it for other purposes.</li>
  <li><b>Promotional Offers:</b>
      Sometimes we send offers to selected groups of our customers on behalf of other businesses. When we do this, we do not give that business your name and address. If you do not want to receive such offers, please adjust your <a class="underline" href="/actions/myaccount/viewEmailPreferences.action">Email
      Preferences</a>.</li>
@@ -1082,7 +984,7 @@ Information about our customers is an important part of our business, and we are
 
 <ul>
  <li>We work to protect the security of your information during transmission by using Secure Sockets Layer (SSL) software, which encrypts information you input.</li>
- <li>We reveal only the last four digits of your credit card numbers when confirming an order. Of course, we transmit the entire credit card number to the appropriate credit card company during order processing.</li>
+ <li>We reveal only the last four digits of your payment instrument numbers when confirming an order. Of course, we transmit the entire payment instrument number to the appropriate payment processing company during order processing.</li>
  <li>It is important for you to protect against unauthorized access to your password and to your computer. Be sure to sign off when finished using a shared computer.</li>
 </ul>
 
@@ -1159,12 +1061,12 @@ Examples of information you can access easily at the Websites include up-to-date
 
 				</div>
 				<script type="text/javascript">
-					setCSMProp('uex', 'ld', 'pageContentScope');
+					bopCSM.setCSMProp('uex', 'ld', 'pageContentScope');
 				</script>
 			</div>
 			
 			<script type="text/javascript">
-				setCSMProp('uet', 'bb', 'pageFooter');
+				bopCSM.setCSMProp('uet', 'bb', 'pageFooter');
 			</script>
 			
 <div class="page-footer">
@@ -1173,12 +1075,12 @@ Examples of information you can access easily at the Websites include up-to-date
       SERVICES
     </li>
     <li class="item">
-      <a id="footer-customer-service" href="/ci/aboutShopBop/customerservice.html#cs=ov=73117289835,os=1,link=footerSvcsCustomerService" data-at="customerService">
+      <a id="footer-customer-service" href="/ci/aboutShopBop/customerservice.html#cs=ov=74031393511,os=41,link=footerSvcsCustomerService" data-at="customerService">
         Customer Service
       </a>
     </li>
     <li class="item">
-      <a href="/actions/giftCertificatePageAction.action#cs=ov=73117289835,os=1,link=footerSvcsGiftCertificates" data-at="giftCert">
+      <a href="/actions/giftCertificatePageAction.action#cs=ov=74031393511,os=41,link=footerSvcsGiftCertificates" data-at="giftCert">
         Gift Certificates
       </a>
     </li>
@@ -1193,12 +1095,12 @@ Examples of information you can access easily at the Websites include up-to-date
       </a>
     </li>
     <li class="item">
-      <a href="/ci/aboutShopBop/careers.html#cs=ov=73117289835,os=1,link=footerInformationCareers" data-at="careers">
+      <a href="/ci/aboutShopBop/careers.html#cs=ov=74031393511,os=41,link=footerInformationCareers" data-at="careers">
       Careers
       </a>
     </li>
     <li class="item">
-      <a href="/ci/aboutEastDane/east-dane-affiliate-program.html#cs=ov=73117289835,os=1,link=footerInformationAffiliateProgram" data-at="affiliate">
+      <a href="/ci/aboutEastDane/east-dane-affiliate-program.html#cs=ov=74031393511,os=41,link=footerInformationAffiliateProgram" data-at="affiliate">
       Affiliate Program
       </a>
     </li>
@@ -1208,27 +1110,27 @@ Examples of information you can access easily at the Websites include up-to-date
     PERSONALIZE
   </li>
   <li class="item">
-    <a href="/actions/myaccount/myAccountHomePageAction.action#cs=ov=73117289835,os=1,link=footerPersonalizeAccount" data-at="myAccount">
+    <a href="/actions/myaccount/myAccountHomePageAction.action#cs=ov=74031393511,os=41,link=footerPersonalizeAccount" data-at="myAccount">
     Account
     </a>
   </li>
   <li class="item">
-    <a href="/actions/hearts/viewHeartedProducts.action#cs=ov=73117289835,os=1,link=footerPersonalizeMyHearts" data-at="myLikes" rel="nofollow">
+    <a href="/actions/hearts/viewHeartedProducts.action#cs=ov=74031393511,os=41,link=footerPersonalizeMyHearts" data-at="myLikes" rel="nofollow">
     My Likes
     </a>
   </li>
   <li class="item">
-    <a href="/actions/wishlist/wishlistHome.action#cs=ov=73117289835,os=1,link=footerPersonalizeMyWishList" data-at="myWantList" rel="nofollow">
+    <a href="/actions/wishlist/wishlistHome.action#cs=ov=74031393511,os=41,link=footerPersonalizeMyWishList" data-at="myWantList" rel="nofollow">
     My Want List
     </a>
   </li>
   <li class="item">
-    <a href="/actions/designers/myDesigners.action#cs=ov=73117289835,os=1,link=footerPersonalizeMyDesigners" data-at="myDesigners" rel="nofollow">
+    <a href="/actions/designers/myDesigners.action#cs=ov=74031393511,os=41,link=footerPersonalizeMyDesigners" data-at="myDesigners" rel="nofollow">
     My Designers
     </a>
   </li>
   <li class="item">
-    <a href="/actions/reviews/myReviews.action#cs=ov=73117289835,os=1,link=footerPersonalizeMyReviews" data-at="myReviews" rel="nofollow">
+    <a href="/actions/reviews/myReviews.action#cs=ov=74031393511,os=41,link=footerPersonalizeMyReviews" data-at="myReviews" rel="nofollow">
     My Reviews
     </a>
   </li>
@@ -1237,32 +1139,38 @@ Examples of information you can access easily at the Websites include up-to-date
   <li class="header">
     CONNECT
   </li>
+    <li class="item">
+    <a class="wide-link" href="javascript:open_popup('https://www.instagram.com/eastdane/#cs=ov=74031393511,os=41,link=footerConnectInstagramlink', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="instagram">
+      <img id="instagramConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/shopbop/media/3/images/footer/instagram_grey_18px_1-1.jpg">
+      <span id="instagramConnectLabel">Instagram</span>
+    </a>
+  </li>
   <li class="item">
-    <a class="wide-link" href="javascript:open_popup('https://www.facebook.com/EastDane#cs=ov=73117289835,os=1,link=footerConnectFacebooklink', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="faceBook">
+    <a class="wide-link" href="javascript:open_popup('https://www.facebook.com/EastDane#cs=ov=74031393511,os=41,link=footerConnectFacebooklink', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="faceBook">
       <img id="facebookConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/facebook_grey_1-1.jpg">
       <span id="facebookConnectLabel">Facebook</span>
     </a>
   </li>
   <li class="item">
-    <a class="wide-link" href="javascript:open_popup('https://twitter.com/EastDane#cs=ov=73117289835,os=1,link=footerConnectTwitterlink', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="twitter">
+    <a class="wide-link" href="javascript:open_popup('https://twitter.com/EastDane#cs=ov=74031393511,os=41,link=footerConnectTwitterlink', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="twitter">
       <img id="twitterConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/twitter2x_1-1.gif">
       <span id="twitterConnectLabel">Twitter</span>
     </a>
   </li>
   <li class="item">
-    <a class="wide-link" href="javascript:open_popup('https://pinterest.com/shopbop/east-dane/#cs=ov=73117289835,os=1,link=footerConnectPinterestlink', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="pin">
+    <a class="wide-link" href="javascript:open_popup('https://pinterest.com/shopbop/east-dane/#cs=ov=74031393511,os=41,link=footerConnectPinterestlink', 'left=100,top=100,toolbar=0,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="pin">
       <img id="pinterestConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/Pinterest_grey_1-0.jpg">
       <span id="pinterestConnectLabel">Pinterest</span>
     </a>
   </li>
   <li class="item">
-    <a class="wide-link" href="javascript:open_popup('https://weibo.com/EastDane#cs=ov=73117289835,os=1,link=footerConnectWeibolinkCN', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="weibo">
+    <a class="wide-link" href="javascript:open_popup('https://weibo.com/EastDane#cs=ov=74031393511,os=41,link=footerConnectWeibolinkCN', 'left=100,top=100,toolbar=0,location=1,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=900,HEIGHT=700, resizable=yes');" rel="nofollow" data-at="weibo">
       <img id="weiboConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/media/3/images/footer/wiebo-logo_1-0.jpg">
       <span id="weiboConnectLabel">Weibo</span>
     </a>
   </li>
     <li class="item">
-      <a href="/actions/emailSignupPageAction.action#cs=ov=73117289835,os=1,link=footerConnectEmaillink" rel="nofollow" data-at="email">
+      <a href="/actions/emailSignupPageAction.action#cs=ov=74031393511,os=41,link=footerConnectEmaillink" rel="nofollow" data-at="email">
         <img alt="Get on our email list!" id="emailConnectImage" class="icon-small" src="https://images-na.ssl-images-amazon.com/images/G/01/Shopbop/p/pcs/_global/images/envelope_icon_1-1.png">
         <span id="emailConnectLabel">Get on our email list!</span>
       </a>
@@ -1285,7 +1193,7 @@ Examples of information you can access easily at the Websites include up-to-date
 
     
 <li class="item">
-  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#shipping#cs=ov=73117289835,os=1,link=footerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=1,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=1024,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping FREE returns
+  <a class="shipping-popup" href="javascript:open_popup('/ci/aboutShopBop/customerservice.html#shipping#cs=ov=74031393511,os=41,link=footerLocationShippingUS-EN,page=3', 'left=100,top=100,toolbar=1,location=0,directories=1,status=1,menubar=1,scrollbars=1,WIDTH=1024,HEIGHT=875, resizable=yes');" title="FREE 3-day shipping FREE returns
 Amazon Prime eligible">
   FREE 3-day shipping FREE returns<br>
 Amazon Prime eligible
@@ -1295,17 +1203,14 @@ Amazon Prime eligible
 </ul>
 
   <div class="copyright">
-  © 1999-2016 <a href="/">BOP LLC</a>. All Rights Reserved.
-  <a class="link" data-at="privacy" href="/ci/aboutShopBop/privacypolicy.html#cs=ov=73117289835,os=1,link=footerPrivacyPolicyEN">Privacy Notice</a>&nbsp;
-  <a class="link" data-at="condOfUse" href="/ci/aboutShopBop/conditions.html#cs=ov=73117289835,os=1,link=footerCopyrightEN">Conditions of Use</a>
+  © 1999-2017 <a href="/">BOP LLC</a>. All Rights Reserved.
+  <a class="link" data-at="privacy" href="/ci/aboutShopBop/privacypolicy.html#cs=ov=74031393511,os=41,link=footerPrivacyPolicyEN">Privacy Notice</a>&nbsp;
+  <a class="link" data-at="condOfUse" href="/ci/aboutShopBop/conditions.html#cs=ov=74031393511,os=41,link=footerCopyrightEN">Conditions of Use</a>
 </div>
-        <script language="JavaScript">
-      document.write('<img src="/actions/capabilitiesAction.action?request_seq=1&js=true&ts=1478513023166&visitid=73117289835&seqno=2" width="1" height="1" />');
-    </script><img src="/actions/capabilitiesAction.action?request_seq=1&amp;js=true&amp;ts=1478513023166&amp;visitid=73117289835&amp;seqno=2" width="1" height="1">
-    <span id="challengeToken" style="display: none;">097bf1e6-8851-4414-aec4-c7fb5af4ec3e</span>
+      <span id="challengeToken" style="display: none;">2fb4f3ce-0428-48aa-b1de-88d2bcd131ac</span>
 </div>
 			<script type="text/javascript">
-				setCSMProp('uex', 'ld', 'pageFooter');
+				bopCSM.setCSMProp('uex', 'ld', 'pageFooter');
 			</script>
 		</div><!-- siteContainer -->
 
@@ -1316,7 +1221,7 @@ Amazon Prime eligible
 		
 
 		<script type="text/javascript">
-			setCSMProp('uet', 'bb', 'pixelContentScope');
+			bopCSM.setCSMProp('uet', 'bb', 'pixelContentScope');
 		</script>
 		
 
@@ -1354,10 +1259,10 @@ if( window._satellite ) _satellite.pageBottom();
 		<!-- p13n -->
 
 		<script type="text/javascript">
-			setCSMProp('uex', 'ld', 'pixelContentScope');
+			bopCSM.setCSMProp('uex', 'ld', 'pixelContentScope');
 		</script>
 		<!-- syncVisitor -->
-	<iframe id="syncVisitor" src="https://www.shopbop.com/actions/syncVisitor.action?_=1478513023167&amp;syncData=2773f032928b83463b2897ccc26788d8dfc479f7dmlzaXRJZD03MzExNzI4OTgzNSx2aXNpdG9ySWQ9NzIwMTQ2OTU2NTg" style="width: 0px; height: 0px;" frameborder="0"></iframe>
+	<iframe id="syncVisitor" src="https://www.shopbop.com/actions/syncVisitor.action?_=1492023134257&amp;syncData=dbca887eda4e35b7df18eb0718142d71885f24e9dmlzaXRJZD03NDAzMTM5MzUxMSx2aXNpdG9ySWQ9NzI2ODA4NTI2MTI" style="width: 0px; height: 0px;" frameborder="0"></iframe>
 
 
 
