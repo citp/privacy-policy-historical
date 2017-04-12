@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the sottopelletherapy.com privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508082448id_/https%3A//sottopelletherapy.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sottopelletherapy.com privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412020656id_/https%3A//sottopelletherapy.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy - SottoPelle®
-
-## Privacy Policy
 
 Thank you for visiting [www.SottoPelleTherapy.com](https://www.sottopelletherapy.com/) (“the Site”). We provide this Privacy Statement to highlight our policies with regard to the privacy of information we may gather through your use of this Site.
 
