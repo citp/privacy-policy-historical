@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2016-05-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160508044223id_/https%3A//www.parship.co.uk/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the parship.co.uk privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413015417id_/https%3A//uk.parship.com/privacypolicy) for the most accurate reproduction.*
 
-# Online Dating Service: Serious Matchmaking for Singles at PARSHIP
+# Online Dating Service: Serious Matchmaking for Singles at Parship
 
-[ Print or download as pdf file](https://www.parship.co.uk/pics/downloads/en_GB/02_co-uk_parship_policy_2014_09_clean-version.pdf)
+[ Print or download as pdf file](https://www.parship.co.uk/pics/downloads/en_GB/01_co-uk_parship_policy_2016_09.pdf)
 
-### General Privacy Policy for the use of PARSHIP.co.uk - Version 30.09.2014 
+### General Privacy Policy for the use of PARSHIP.co.uk - Version 30.09.2016 
 
 **1\. Security and Anonymity**
 
@@ -25,7 +25,7 @@ To withdraw consent, it is sufficient to send an email with the following detail
 (1.) PARSHIP stored email address or username or cipher  
 (2.) service password 
 
-Send the email to support@parship.co.uk. Alternatively, the information may be sent by fax to 040 - 460026 - 596 or in writing to PARSHIP GmbH, - Customer Service United Kingdom -, Speersort 10, 20095 Hamburg, Germany. 
+Send the email to support@parship.co.uk. Alternatively, the information may be sent by fax to 040 - 460026 - 596 or in writing to PE Digital GmbH, - Customer Service PARSHIP United Kingdom -, Speersort 10, 20095 Hamburg, Germany. 
 
 2.3 Tying-in prohibition 
 
@@ -182,7 +182,7 @@ If you are a Facebook member and do not want Facebook to connect the data concer
 
 The customer may at any time request information about the data that has been stored about his or her person, its origin, the purpose for which it is stored and the recipient to whom the data will be given. This information is free and will be given in writing. 
 
-The request shall be in writing and signed by the customer. The request shall be addressed to PARSHIP GmbH, – Customer Service United Kingdom –, Speersort 10, 20095 Hamburg, Germany. The request must also contain the following information: 
+The request shall be in writing and signed by the customer. The request shall be addressed to PE Digital GmbH, – Customer Service PARSHIP United Kingdom –, Speersort 10, 20095 Hamburg, Germany. The request must also contain the following information: 
 
 (1.) the email address provided to PARSHIP, username or cipher  
 (2.) Service password 
@@ -196,7 +196,7 @@ The customer may send such a request in an email containing the following inform
 (1.) the email address provided to PARSHIP, username or cipher   
 (2.) service password 
 
-The email shall be sent to support@parship.co.uk. The customer may also send the request via Fax to 040 - 46 00 26 - 596 or in writing to PARSHIP GmbH, - Customer Service United Kingdom -, Speersort 10, 20095 Hamburg, Germany. 
+The email shall be sent to support@parship.co.uk. The customer may also send the request via Fax to 040 - 46 00 26 - 596 or in writing to PE Digital GmbH, - Customer Service PARSHIP United Kingdom -, Speersort 10, 20095 Hamburg, Germany. 
 
 **3.10 Verifying personal data**
 
