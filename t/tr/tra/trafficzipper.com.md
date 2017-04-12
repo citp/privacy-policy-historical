@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the trafficzipper.com privacy policy that was archived on 2016-06-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160603090226id_/http%3A//trafficzipper.com//privacyPolicy.php%3Faf%3D) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trafficzipper.com privacy policy that was archived on 2017-04-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170412072221id_/https%3A//trafficzipper.com//privacyPolicy.php%3Faf%3D) for the most accurate reproduction.*
 
 # Website Traffic Has Never Been Easier Thanks To Traffic Zipper, The Simple Traffic Machine.
 
@@ -104,4 +104,4 @@ Revisions to This Policy: Our company reserves the right to revise, amend, or mo
 
 Last updated:  **November 24,** **2009**
 
-Copyright © 2003-2009 internetmarketinglawproducts.com for Michael Purvis | 
+Copyright © 2003-2017 internetmarketinglawproducts.com for Michael Purvis | 
