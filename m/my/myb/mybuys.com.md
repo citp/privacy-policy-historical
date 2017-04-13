@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227020144id_/http%3A//www.magnetic.com/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mybuys.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414004326id_/http%3A//www.magnetic.com/about/privacy) for the most accurate reproduction.*
 
 # Magnetic Privacy Policy
 
