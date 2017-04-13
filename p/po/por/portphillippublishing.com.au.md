@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the portphillippublishing.com.au privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128093313id_/http%3A//portphillippublishing.com.au/%3Fpage_id%3D402) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the portphillippublishing.com.au privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413132118id_/https%3A//www.portphillippublishing.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Port Phillip Publishing
 
@@ -63,6 +63,14 @@ We may occasionally send you marketing emails. Our email marketing is permission
 Your data is stored on our behalf on Agora Inc’s databases and servers located in the US, so it is necessary to disclose your personal information to Agora Inc for this purpose. PPP ensures all data collected is protected and secure against unauthorised access, alteration or deletion. Any data you submit to us through an online order form is transferred to us via a Secure Sockets Layer — an encryption protocol — and is kept in databases that cannot be accessed from outside our firewall. Our firewall is a mechanism that prevents access to our servers by anyone outside of the company.
 
 The PPP website and e-mails may contain links to third party websites. Should you choose to click these links please be aware that our privacy policy will no longer apply. Please read and understand the privacy policy of the third party website before continuing further.
+
+**Google  Updates**
+
+Starting from 15 May 2017,  where users have chosen to enable Google to associate their web and app browsing history with their Google account, and to use information from their Google account to personalise ads, Google will use data from its signed-in users together with your Google Analytics data to build audience lists for cross-device remarketing.
+
+Google Analytics will collect Google-authenticated identifiers associated with users’ Google Accounts and will temporarily join these identifiers to our Google Analytics data
+
+Please note that all Google users can control their ads experience (or opt out of personalised ads altogether) at [My Account](http://myaccount.google.com/).
 
 **Updates to our privacy policy**
 
