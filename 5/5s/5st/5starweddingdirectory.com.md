@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the 5starweddingdirectory.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217024856id_/http%3A//www.5starweddingdirectory.com/website-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 5starweddingdirectory.com privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413165455id_/http%3A//www.5starweddingdirectory.com/website-privacy-policy) for the most accurate reproduction.*
 
 # WEBSITE PRIVACY POLICY
 
