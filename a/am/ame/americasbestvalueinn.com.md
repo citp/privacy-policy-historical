@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the americasbestvalueinn.com privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202130928id_/http%3A//www.americasbestvalueinn.com/pnp.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the americasbestvalueinn.com privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413105016id_/http%3A//www.americasbestvalueinn.com/pnp.html) for the most accurate reproduction.*
 
 # Vantage Hospitality Group, Inc. Privacy Policy
 
 **Vantage Hospitality Group, Inc. Privacy Policy**
 
-Vantage Hospitality Group, Inc. and its affiliates (referred to herein as "Vantage," "we," and "us") are concerned about privacy issues and want you to be familiar with how we collect, use and disclose certain information. This Privacy Policy (the "Policy") describes our practices in connection with information that we collect through our websites, which include, [www.americasbestvalueinn.com](http://www.americasbestvalueinn.com/), [www.lexingtonhotels.com](http://www.lexingtonhotels.com/), [www.canadasbestvalueinn.com](http://www.canadasbestvalueinn.com/) (collectively, the "Sites") and by other means.
+Vantage Hospitality Group, Inc. and its affiliates (referred to herein as "Vantage," "we," and "us") are concerned about privacy issues and want you to be familiar with how we collect, use and disclose certain information. This Privacy Policy (the "Policy") describes our practices in connection with information that we collect through our websites, which include, [www.vantagehotels.com](http://www.vantagehotels.com/), [www.lexingtonhotels.com](http://www.lexingtonhotels.com/), [www.jamesoninns.com](http://www.jamesoninns.com/), [www.americasbestvalueinn.com](http://www.americasbestvalueinn.com/), [www.countryhearth.com](http://www.countryhearth.com/), [www.canadasbestvalueinn.com](http://www.canadasbestvalueinn.com/),[www.americasbestinn.com](http://www.americasbestinn.com/),  (collectively, the "Sites") and by other means.
 
 By providing certain information to Vantage, you agree to the terms and conditions of this Policy. If you do not agree to the terms and conditions of this Policy, please do not provide any information to Vantage through our Sites or otherwise. We reserve the right to change this Policy without prior notice. Any changes to our Policy will become effective upon our posting of the revised Policy on the Sites. Use of the Sites following such changes constitutes your acceptance of the revised Policy then in effect. 
 
@@ -19,7 +19,7 @@ We may collect Information through the Sites, through reservation and call cente
 Vantage collects Information so that we can provide a better experience that is responsive to our guests' and visitors' needs. For example, Vantage may use collected Information in:
 
   * Fulfilling your requests to complete your transactions and/or to book reservations at any Member Hotel through our central reservations system, or in response to your, requests that we send marketing, informational or other newsletters to you. 
-  * Administering and operating membership loyalty programs to allow you to receive discounts, earn and redeem rewards, points or credits in connection with Member Hotels and rewards partners. 
+  * Administering and operating membership programs to allow you to receive discounts, earn and redeem rewards, points or credits in connection with Member Hotels and rewards partners. 
   * Sending important information regarding the Sites, changes to our terms, conditions and policies and/or other administrative information or otherwise to inform you of products, programs, services and promotions that we believe may be of interest to you. 
   * Conducting drawings, contests and other marketing or promotional activities (collectively, "Promotions"). We typically ask you for certain Information when you enter and, if applicable, win a prize, and we use such Information to administer the applicable Promotion. 
   * Tracking, processing and responding to guest relations inquiries. We may also transmit your Information to third party service providers and Member Hotels in connection with such guest relations inquiries. 
@@ -96,4 +96,4 @@ Attn: Legal Department
 Or contact us by e-mail at privacy@vantagehospitality.com
 
 Vantage Hospitality Group, Inc.  
-Last Updated: August 28, 2013
+Last Updated: May 16, 2016
