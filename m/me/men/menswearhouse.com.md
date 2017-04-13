@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the menswearhouse.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119085503id_/http%3A//www.menswearhouse.com/ContentAttachmentView%3FcontentName%3DMW4ABTprivacySecurity.html%26catalogId%3D12004%26top%3D%26parent_category_rn%3D%26categoryId%3D%26langId%3D-1%26storeId%3D12751) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the menswearhouse.com privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413071619id_/http%3A//www.menswearhouse.com/ContentAttachmentView%3FcontentName%3DMW4ABTprivacySecurity.html%26catalogId%3D12004%26top%3D%26parent_category_rn%3D%26categoryId%3D%26langId%3D-1%26storeId%3D12751) for the most accurate reproduction.*
 
 # Privacy and Security Policy | Men's Wearhouse
 
-##  Privacy Policy
+## Privacy Policy
 
-Updated June 21, 2016
+Updated December 1, 2016
 
 The Men’s Wearhouse, Inc. (“Men’s Wearhouse”, “us”, “our”, or “we”) is committed to protecting your privacy. This Privacy Policy describes the types of information we collect from and about you when you (a) visit the MensWearhouse.com website (“Site”), (b) download a Men’s Wearhouse mobile application (“App”), or (c) shop at our stores (“Stores”). The Site, App, and Stores are collectively the “Services.” This Privacy Policy also explains how we may use and disclose such information through the Services, as well as your ability to control certain uses of it. You should review this Privacy Policy from time to time as it may be changed. By using any of the Services, you agree to the collection, use, and disclosure of your personal information as described in this Privacy Policy. If you have any questions regarding this Privacy Policy, please contact us at 1-800-851-6744 or [Email us](https://www.menswearhouse.com/webapp/wcs/stores/servlet/MWAskAQuestionView?catalogId=12004&langId=-1&storeId=12751&krypto=7UAn6z8HwcG3b12yy2iyNh0Iw6oXYyTD06zpqimw4gDfYZm9JilxmkJL%2BQZLrEfikZa0oDTSzfP%2BCgbM7uZXbQ%3D%3D&ddkey=http%253AMWAskAQuestionVie).
 
@@ -27,9 +27,7 @@ Men’s Wearhouse collects personal information from you when you choose to shar
   * Geographic location
   * Personal information volunteered by visitors during registration / purchase.
 
-  
-
-
+ 
   * **Information Automatically Collected**
 
 
@@ -44,7 +42,7 @@ For example, we may automatically collect certain non-personal information from 
 
 Certain parts of our Site and App require cookies. You are free to set your browser or operating system settings to limit certain tracking or to decline cookies, but by doing so, you may not be able to use certain features on the Site or through the App or take full advantage of all of our offerings. Check the “Tools” or “Help” tabs in your browser (or your mobile device privacy settings) to learn how to change your cookie and other tracking preferences.
 
-Our system may not respond to Do Not Track requests or headers from some or all browsers. To learn more about the use of cookies or other technologies to deliver more relevant advertising and to know your choices about not having this information used by certain service providers, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.
+Our system may not respond to Do Not Track requests or headers from some or all browsers. We may use of cookies or other technologies to deliver more relevant advertising and to link data collected across other computers or devices that you may use. To learn more about these uses and to know your choices about not having this information used by certain service providers, please click [here](http://www.networkadvertising.org/managing/opt_out.asp). On your mobile device, you may also adjust your privacy and advertising settings to control whether you want to receive more relevant advertising.
 
   * **Information Collected From Other Sources**
 
@@ -56,7 +54,7 @@ We may obtain information about you from other sources, including social network
 
 
 
-We may combine the information we receive from and about you, including information you provide to us in-store and online with information we automatically collect when you visit our Site or App, as well as information collected from third parties or other online and offline sources.
+We may combine the information we receive from and about you, including information you provide to us in-store and online with information we automatically collect when you visit our Site or App, as well as information collected across other computers or devices that you may use and from third parties or other online and offline sources.
 
 **INFORMATION USE**
 
@@ -106,7 +104,7 @@ For customers who reside outside of the United States, including in Canada and t
 
 As a convenience to our customers, Men’s Wearhouse provides access to Ratings and Reviews on our Site and through our App. Men’s Wearhouse also has profiles on social networking sites. Please remember that any information disclosed in this area is available to the public. The dissemination of any personal information you provide in this area is beyond our control and you should therefore exercise caution before disclosing any personal information.
 
-**CHIDREN’S PRIVACY**
+**CHILDREN’S PRIVACY**
 
 Men’s Wearhouse is very concerned about the safety of children using the Internet. We do not direct the Site or App to, nor do we knowingly collect personal information from, any visitor under the age of 13.
 
@@ -128,31 +126,35 @@ If you are under the age of 18 and have a profile on our Site, you may ask us to
 
 If you have any questions, comments, or concerns, or if you prefer to “opt out” of having information used for purposes not directly related to placement, processing, fulfillment or delivery of a product order, you may:
 
-  1. **_Contact us in one of the following ways:_**
-    * Call: 800-851-6744   
-Fax: 281-776-7038   
-Hours of Operation:   
-     Monday-Friday: 8:00 a.m. to 11:00 p.m. CST   
-     Saturday: 9:00 a.m. to 8:00 p.m. CST   
+  1. **_Contact us in one of the following ways:_**  
+ 
+    * Call: 800-851-6744  
+Fax: 281-776-7038  
+Hours of Operation:  
+     Monday-Friday: 8:00 a.m. to 11:00 p.m. CST  
+     Saturday: 9:00 a.m. to 8:00 p.m. CST  
      Sunday: 10:00 a.m. to 8:00 p.m. CST
   
 
     * [Email Us](https://web.archive.org/webapp/wcs/stores/servlet/MWAskAQuestionView?catalogId=12001&langId=-1&storeId=12751)
   
 
-    * Write us at:   
-Men’s Wearhouse   
-Customer Relations   
-6380 Rogerdale Rd   
-Houston, Texas 77072   
+    * Write us at:  
+Men’s Wearhouse  
+Customer Relations  
+6380 Rogerdale Rd  
+Houston, Texas 77072  
 Attn: Online Customer Relations
+  
+ 
   2. **_Opt out of Email Marketing:_**
 
-At all times, you have the option of “opting out” of receiving future e-mail marketing messages from Men’s Wearhouse by clicking on the “unsubscribe” link at the bottom of an e-mail marketing message, or by logging into your Site account, selecting "Communication Preference" and unchecking the box indicating that you wish to receive e-mails. Please allow 10 business days for your request to take effect. 
+At all times, you have the option of “opting out” of receiving future e-mail marketing messages from Men’s Wearhouse by clicking on the “unsubscribe” link at the bottom of an e-mail marketing message, or by logging into your Site account, selecting "Communication Preference" and unchecking the box indicating that you wish to receive e-mails. Please allow 10 business days for your request to take effect.
 
 **REVISIONS TO THIS PRIVACY POLICY**
 
 Men’s Wearhouse reserves the right, at our sole discretion, to change, modify, add, remove, or otherwise revise portions of this Privacy Policy at any time. When we do, we will post the change(s) on the Site. Your continued use of the Site following the posting of changes to these terms means you accept these changes. If we change the Privacy Policy in a material way, we will provide appropriate notice to you.
 
 
-
+  
+ 
