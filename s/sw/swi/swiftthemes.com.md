@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the swiftthemes.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410031318id_/https%3A//swiftthemes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the swiftthemes.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414010530id_/https%3A//swiftthemes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
