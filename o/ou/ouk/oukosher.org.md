@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the oukosher.org privacy policy that was archived on 2016-08-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160810080345id_/https%3A//oukosher.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the oukosher.org privacy policy that was archived on 2017-04-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170413205039id_/https%3A//oukosher.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Kosher
 
