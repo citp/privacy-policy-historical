@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the caliberhomeloans.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016004102id_/https%3A//www.caliberhomeloans.com/tools-resources/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the caliberhomeloans.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414214925id_/https%3A//www.caliberhomeloans.com/tools-resources/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
