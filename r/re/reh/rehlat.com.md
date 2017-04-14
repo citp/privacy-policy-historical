@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the rehlat.com privacy policy that was archived on 2016-09-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160913005110id_/https%3A//www.rehlat.com/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rehlat.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415005158id_/https%3A//www.rehlat.com/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Rehlat
 
@@ -47,7 +47,7 @@ We use cookies to help us identify which of our website pages are being used mos
 
 ### Credit Card Data 
 
-When you make an online payment, all transactions are protected by a secure server. The Website Policies and Terms & Conditions may be changed or updated occasionally to meet requirements and standards. Therefore, Customers and Payment Gateway Provider/Bank will be notified about these changes. Such modifications will become effective on the day they are posted, and we encourage you to frequently review the Privacy Policy for any modifications. All credit/debit card details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties. 
+When you make an online payment, all transactions are protected by a secure server. The Website Policies and Terms & Conditions may be changed or updated occasionally to meet requirements and standards. Therefore, Customers and Payment Gateway Provider/Bank will be notified about these changes. Such modifications will become effective on the day they are posted, and we encourage you to frequently review the Privacy Policy for any modifications. All Credit / Debit card details and personally identifiable information will NOT be stored, sold, shared, rented or leased to any third parties. 
 
 ### Links to other websites 
 
@@ -55,4 +55,4 @@ Our website may include links to other websites that we think might be useful fo
 
 ### Finally 
 
-When you make a booking with us or provide us with your personal information you have consented to our use of your data as described in this policy. We may change this policy and we will let you know if we do this by updating this page. You should check this page from time to time to make sure that you are happy with any changes. This policy is effective from 10 June 2013. If you have any questions about our Privacy Policy or would like to check or correct the data that we hold about you, please contact us at: [customer.support@rehlat.com](mailto:customer.support@rehlat.com)
+When you make a booking with us or provide us with your personal information you have consented to our use of your data as described in this policy. We may change this policy and we will let you know if we do this by updating this page. You should check this page from time to time to make sure that you are happy with any changes. This policy is effective from 10 June 2013. If you have any questions about our Privacy Policy or would like to check or correct the data that we hold about you, please contact us at: [help@rehlat.com](mailto:help@rehlat.com)
