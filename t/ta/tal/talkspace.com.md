@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the talkspace.com privacy policy that was archived on 2016-04-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160410081844id_/https%3A//www.talkspace.com/public/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the talkspace.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414151516id_/https%3A//www.talkspace.com/public/privacy-policy) for the most accurate reproduction.*
 
 # therapy for how we live today
 
@@ -83,7 +83,7 @@ We respect other people's rights, and expect you to do the same. You will not po
 
 Portable Electronic Devices
 
-The Talkspace Platform is available on a multitude of portable electronic devices. We provide our connection to mobile services for free, but please be aware that your carrierâ€™s normal rates and fees, such as text messaging fees, may still apply. You provide all rights necessary to enable users to sync (including through an application) their contact lists with any basic information and contact information that is visible to them on Talkspace.com, as well as your name and profile picture.
+The Talkspace Platform is available on a multitude of portable electronic devices. We provide our connection to mobile services for free, but please be aware that your carrier's normal rates and fees, such as text messaging fees, may still apply. You provide all rights necessary to enable users to sync (including through an application) their contact lists with any basic information and contact information that is visible to them on Talkspace.com, as well as your name and profile picture.
 
 Your Use of Your Personal Data
 
@@ -127,7 +127,7 @@ We try to keep talkspace.com safe, but you use it at your own risk. We are provi
 
 We strive to create a global community with consistent standards for everyone, but we also strive to respect local laws. You consent to having your personal data transferred to and processed in the United States. If you are located in a country embargoed by the United States, or are on the U.S. Treasury Department's list of Specially Designated Nationals you will not engage in commercial activities on Talkspace.com (such as advertising or payments) By content we mean anything you post on Talkspace.com that would not be included in the definition of information. By data we mean content and information that third parties can retrieve from Talkspace.com or provide to Talkspace.com through Platform. By post we mean post on Talkspace.com or otherwise make available to us (such as by using an application). By use we mean use, copy, publicly perform or display, distribute, modify, translate, and create derivative works of.
 
-Talkspace.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to talkspace.com at he "contact us" link on the website.
+Talkspace.com openly volunteers its practices of collecting information, its targeting capabilities, and its use of cookies. If you have any questions pertaining to this privacy policy and its contents, please direct your correspondence to talkspace.com at the "contact us" link on the website.
 
 Understand, that we treat your use of our platform with the utmost respect to your privacy. We keep all information not disclosed above private between the Therapist and the User, keeping only non-decimated "file" copies for reference in case of legal dispute of by court order as we are required to under Federal Laws for period up to seven years. File retention protects both the User and the Therapists safety. The data will be protected at high levels of security and privacy, and should the user use a pseudonym, will not include their real name in the conversation records. 
 
