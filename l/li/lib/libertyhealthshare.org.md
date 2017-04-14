@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the libertyhealthshare.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122202152id_/http%3A//www.libertyhealthshare.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the libertyhealthshare.org privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414143743id_/https%3A//www.libertyhealthshare.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Liberty HealthShare
 
@@ -56,7 +56,7 @@ If you have questions or need further assistance regarding this Notice, you may 
 Liberty HealthShare℠  
 Attn: Privacy Request  
 4845 Fulton Dr. NW, Canton, Ohio 44718  
-855-585-4237, Monday though Friday, 8:30 a.m. to 7:30 p.m. EST  
+(855) 58-LIBERTY, Monday though Friday, 8:30 a.m. to 7:30 p.m. EST  
 
 
 **EFFECTIVE DATE**  
