@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the immigration.govt.nz privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113205909id_/https%3A//www.immigration.govt.nz/about-us/site-information/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the immigration.govt.nz privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414235500id_/https%3A//www.immigration.govt.nz/about-us/site-information/privacy) for the most accurate reproduction.*
 
 # Privacy | Immigration New Zealand
 
