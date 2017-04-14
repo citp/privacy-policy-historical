@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the rclone.org privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122032512id_/http%3A//rclone.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the rclone.org privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414144209id_/https%3A//rclone.org/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-## What is this Privacy Policy for?
+## __What is this Privacy Policy for?
 
-This privacy policy is for this website [http://rclone.org](http://rclone.org/) and governs the privacy of its users who choose to use it.
+This privacy policy is for this website [https://rclone.org](https://rclone.org/) and governs the privacy of its users who choose to use it.
 
 The policy sets out the different areas where user privacy is concerned and outlines the obligations & requirements of the users, the website and website owners. Furthermore the way this website processes, stores and protects user data and information will also be detailed within this policy.
 
-## The Website
+## __The Website
 
 This website and its owners take a proactive approach to user privacy and ensure the necessary steps are taken to protect the privacy of its users throughout their visiting experience. This website complies to all UK national laws and requirements for user privacy.
 
-## Use of Cookies
+## __Use of Cookies
 
 This website uses cookies to better the users experience while visiting the website. Where applicable this website uses a cookie control system allowing the user on their first visit to the website to allow or disallow the use of cookies on their computer / device. This complies with recent legislation requirements for websites to obtain explicit consent from users before leaving behind or reading files such as cookies on a user’s computer / device.
 
@@ -20,7 +20,7 @@ Cookies are small files saved to the user’s computers hard drive that track, s
 
 Users are advised that if they wish to deny the use and saving of cookies from this website on to their computers hard drive they should take necessary steps within their web browsers security settings to block all cookies from this website and its external serving vendors.
 
-This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read [Google’s privacy policy here](http://www.google.com/privacy.html) for further information.
+This website uses tracking software to monitor its visitors to better understand how they use it. This software is provided by Google Analytics which uses cookies to track visitor usage. The software will save a cookie to your computers hard drive in order to track and monitor your engagement and usage of the website, but will not store, save or collect personal information. You can read [Google’s privacy policy here](https://www.google.com/privacy.html) for further information.
 
 Other cookies may be stored to your computers hard drive by external vendors when this website uses referral programs, sponsored links or adverts. Such cookies are used for conversion and referral tracking and typically expire after 30 days, though some may take longer. No personal information is stored, saved or collected.
 
@@ -28,7 +28,7 @@ Users contacting this website and/or its owners do so at their own discretion an
 
 This website and its owners use any information submitted to provide you with further information about the products / services they offer or to assist you in answering any questions or queries you may have submitted.
 
-## External Links
+## __External Links
 
 Although this website only looks to include quality, safe and relevant external links, users are advised adopt a policy of caution before clicking any external web links mentioned throughout this website.
 
@@ -44,14 +44,14 @@ Users are advised to use social media platforms wisely and communicate / engage 
 
 This website may use social sharing buttons which help share web content directly from web pages to the social media platform in question. Users are advised before using such social sharing buttons that they do so at their own discretion and note that the social media platform may track and save your request to share a web page respectively through your social media platform account.
 
-## Resources & Further Information
+## __Resources& Further Information
 
   * [Data Protection Act 1998](http://www.legislation.gov.uk/ukpga/1998/29/contents)
   * [Privacy and Electronic Communications Regulations 2003](http://www.legislation.gov.uk/uksi/2003/2426/contents/made)
   * [Privacy and Electronic Communications Regulations 2003 - The Guide](https://ico.org.uk/for-organisations/guide-to-pecr/)
-  * [Twitter Privacy Policy](http://twitter.com/privacy)
-  * [Facebook Privacy Policy](http://www.facebook.com/about/privacy/)
-  * [Google Privacy Policy](http://www.google.com/privacy.html)
+  * [Twitter Privacy Policy](https://twitter.com/privacy)
+  * [Facebook Privacy Policy](https://www.facebook.com/about/privacy/)
+  * [Google Privacy Policy](https://www.google.com/privacy.html)
   * [Sample Website Privacy Policy](http://www.jamieking.co.uk/resources/free_sample_privacy_policy.html)
 
 
