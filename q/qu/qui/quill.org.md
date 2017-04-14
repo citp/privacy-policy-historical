@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quill.org privacy policy that was archived on 2016-08-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160804031131id_/https%3A//www.quill.org/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quill.org privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414023632id_/https%3A//www.quill.org/privacy) for the most accurate reproduction.*
 
 # Quill.org — Interactive Writing and Grammar
 
