@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the kevinfahey.net privacy policy that was archived on 2015-09-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150919092522id_/https%3A//kevinfahey.net/blog/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the kevinfahey.net privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414201433id_/https%3A//kevinfahey.net/blog/privacy) for the most accurate reproduction.*
 
-# Privacy Policy - Kevin Fahey -
+# Privacy Policy - Kevin Fahey
 
 1\. Our Commitment to Privacy. This Privacy Policy is designed to advise you about how we collect, use, and protect the Personally Identifiable Information you provide. By visiting this site, you are accepting the practices described in this Privacy Policy.
 
