@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the secretescapes.com privacy policy that was archived on 2015-11-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151116045028id_/http%3A//www.secretescapes.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the secretescapes.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414094340id_/https%3A//www.secretescapes.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Secret Escapes
 
-Secret Escapes Ltd is a UK registered company that wholly owns and operates the website www.secretescapes.com (“Secret Escapes”). Secret Escapes treats the handling of personal data seriously. This Privacy Policy details how Secret Escapes will treat your personal data after it has been collected by Secret Escapes, either through its website or otherwise, together with details on the type of information we may collect from you. Secret Escapes will only use your data as detailed in this Privacy Policy or for its legitimate business reasons. 
+Secret Escapes Ltd is a UK registered company that wholly owns and operates the website www.secretescapes.com (“Secret Escapes”). Secret Escapes treats the handling of personal data seriously. This Privacy Policy details how Secret Escapes will treat your personal data after it has been collected by Secret Escapes, either through its website or otherwise, together with details on the type of information we may collect from you. Secret Escapes will only use your data as detailed in this Privacy Policy or for its legitimate business reasons.
 
 ### Information we may collect from you
 
@@ -14,7 +14,7 @@ Members of Secret Escapes who have an account reserve the right to manage their 
 
 Some communications (for example, important account notifications and billing information) are considered transactional and are necessary for all of our customers. We will therefore continue to send these communications to you (where you have made a booking through us) even if you have unsubscribed from receiving marketing communications from us, unless you cancel your Secret Escapes account to unsubscribe from these communications and ask for your account to be removed. To cancel your Secret Escapes account, please email us at <a href='mailto:support@secretescapes.com'>support@secretescapes.com</a>. Please note that where you cancel your account with Secret Escapes, we will still hold on to any transactional data for a reasonable period of time, in case there are any issues that may need to be resolved relating to your booking. Those details will be stored in our secure database.
 
-When you make a booking through our website, you will be directed to the payment page where you can enter your payment details. **We do not store financial details such as credit card numbers.** Our payment platform provider will be passed the details of your booking that we have collected from you, so that they can process your payment to our account. Once we have received your payment into our account, we will then make the relevant payments to the provider of your holiday or travel arrangements.
+When you make a booking through our website, you will be directed to the payment page where you can enter your payment details.  **We do not store financial details such as credit card numbers.**  Our payment platform provider will be passed the details of your booking that we have collected from you, so that they can process your payment to our account. Once we have received your payment into our account, we will then make the relevant payments to the provider of your holiday or travel arrangements.
 
 ### How we use this information
 
@@ -28,9 +28,9 @@ We may disclose your personal information to any member of our group, which mean
 
 ### Cookies and our website
 
-In addition to personal information that you choose to give us we may also collect information about your computer (usually to verify that the activity on our website is from genuine sources) and about your general usage of the website. This may include your IP address, operating system, web browser software, screen resolution and referring website. 
+In addition to personal information that you choose to give us we may also collect information about your computer (usually to verify that the activity on our website is from genuine sources) and about your general usage of the website. This may include your IP address, operating system, web browser software, screen resolution and referring website.
 
-We use cookies primarily to make our website easier for you to use as well as for marketing and analytics purposes. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and to deliver a better and more personalised service. They enable us: 
+We use cookies primarily to make our website easier for you to use as well as for marketing and analytics purposes. Cookies contain information that is transferred to your computer's hard drive. They help us to improve our website and to deliver a better and more personalised service. They enable us:
 
   1. To estimate our audience size and usage pattern.
   2. To store information about your preferences, and so allow us to customise our site according to your individual interests.
@@ -39,9 +39,9 @@ We use cookies primarily to make our website easier for you to use as well as fo
 
 
 
-Our cookies don't store sensitive information such as your name, address or financial details. You can delete any cookies stored on your computer, or refused to accept cookies by activating this setting on your browser which allows you to refuse the setting of cookies. However, please note that if you select this setting, this may prevent you from accessing or using all or part of the website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our website. 
+Our cookies don't store sensitive information such as your name, address or financial details. You can delete any cookies stored on your computer, or refused to accept cookies by activating this setting on your browser which allows you to refuse the setting of cookies. However, please note that if you select this setting, this may prevent you from accessing or using all or part of the website. Unless you have adjusted your browser setting so that it will refuse cookies, our system will issue cookies when you log on to our website.
 
-Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access. 
+Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our website; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.
 
 ### Your rights
 
@@ -61,8 +61,8 @@ If you have any questions about this Privacy Policy or about the information we 
 
 Secret Escapes Ltd  
 4th Floor  
-29-35 Farringdon road  
-London   
-EC1M 3JB  
-[support@secretescapes.com](mailto:support@secretescapes.com)   
+120 Holborn  
+London   
+EC1N 2TD  
+[support@secretescapes.com](mailto:support@secretescapes.com)   
 0843 22 77 777
