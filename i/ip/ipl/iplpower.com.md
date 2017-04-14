@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iplpower.com privacy policy that was archived on 2016-04-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160403034253id_/https%3A//www.iplpower.com/Home/Privacy_Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iplpower.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414111123id_/https%3A//www.iplpower.com/Home/Privacy_Policy) for the most accurate reproduction.*
 
 # Privacy Policy | Indianapolis Power & Light Company
 
