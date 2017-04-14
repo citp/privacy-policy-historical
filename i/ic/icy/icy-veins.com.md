@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the icy-veins.com privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234224id_/http%3A//www.icy-veins.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the icy-veins.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414190249id_/https%3A//www.icy-veins.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Icy Veins
 
@@ -10,11 +10,11 @@ In addition, we use third party software, installed on the site, that collects p
 
 ## Server Logs
 
-[OVH](http://www.ovh.com/) is hosting this website and collects non personal information in their server logs: hour of connection, IP address, page requests, etc. Logs are kept for one year.
+[OVH](https://www.ovh.com/) is hosting this website and collects non personal information in their server logs: hour of connection, IP address, page requests, etc. Logs are kept for one year.
 
 ## Traffic Monitoring
 
-We monitor our traffic with [Google Analytics](http://www.google.com/analytics) and [Quantcast](http://www.quantcast.com/). Both consist in a javascript program, executed by your browser, that collect different types of non personal information and sends them to Google. Traffic statistics are then drawn from the collected data. Collected types of information include:
+We monitor our traffic with [Google Analytics](https://www.google.com/analytics). It consist in a javascript program, executed by your browser, that collect different types of non personal information and sends them to Google. Traffic statistics are then drawn from the collected data. Collected types of information include:
 
   * Internet browser type and version;
   * previously browsed page (where you came to the site from);
@@ -25,19 +25,19 @@ We monitor our traffic with [Google Analytics](http://www.google.com/analytics) 
 
 
 
-Through the use of a third-party cookie, Quantcast tracks the behaviours of our visitors on this site and others to establish various geographic and demographic statistics. To prevent Quantcast from using your browsing behaviour in their statistics, you can follow this [opt-out link](https://www.quantcast.com/opt-out).
-
 ## Advertisement
 
-## Intergi
-
-[Intergi](http://www.intergi.com/) handles all the advertising on our website. They may use information (not including your name, address email address, or telephone number) about your visits to Icy Veins and other Web sites in order to provide you with ads that you may be interested in. If you would like more information regarding this, please refer to <http://www.networkadvertising.org/managing/opt_out.asp>. You will also learn how you can refuse to have your browsing habits used for advertising purposes.
+[Proper.io](https://proper.io/) handles all the advertising on our website. They may use information (not including your name, address email address, or telephone number) about your visits to Icy Veins and other Web sites in order to provide you with ads that you may be interested in.
 
 ## Google Adsense
 
-Intergi serves [Google](http://www.google.com/intl/ln/ads/) premium ads on Icy Veins. Google makes use of cookies to track your habits and collect information about you (including personal information) when you navigate websites owned by Google or on which Google software is executed (such as the present site), in order to serve you what they deem to bethe most appropriate ads.
+Proper serves [Google](https://www.google.com/intl/ln/ads/) premium ads on Icy Veins. Google makes use of cookies to track your habits and collect information about you (including personal information) when you navigate websites owned by Google or on which Google software is executed (such as the present site), in order to serve you what they deem to be the most appropriate ads.
 
-We have no control over the type of information collected by Google. For more information, please visit [ the Advertising and Privacy](http://www.google.com/intl/en/privacy/ads/) page from Google. This page also explains how to opt out of Google advertising cookies.
+We have no control over the type of information collected by Google. For more information, please visit [ the Advertising and Privacy](https://www.google.com/policies/technologies/ads/) page from Google. This page also explains how to opt out of Google advertising cookies.
+
+## Cookies
+
+Cookies are used on Icy Veins for registration, traffic analysis, and advertisement purposes. The Guardian has a very good article written about cookies and we encourage you to read it [here](https://www.theguardian.com/info/cookies), as we feel that it would be pointless to try and write something ourselves that would end up being far inferior.
 
 ## Children's Privacy
 
@@ -49,6 +49,6 @@ The _User Control Panel_ of your forum account gives you ample control about the
 
 ## Further Information
 
-In conformity with French laws (article 23 of the law 78-17 from the 6th of January 1978, modified in 2004), the [CNIL](http://www.cnil.fr/english/) (French National Commission for Information Technology and Liberties) has been made aware of our user database and the nature of the data that we collect (declaration 1588056).
+In conformity with French laws (article 23 of the law 78-17 from the 6th of January 1978, modified in 2004), the [CNIL](https://www.cnil.fr/en/) (French National Commission for Information Technology and Liberties) has been made aware of our user database and the nature of the data that we collect (declaration 1588056).
 
 For enquiries regarding our privacy policy, please use [ privacy@icy-veins.com](mailto:privacy@icy-veins.com).
