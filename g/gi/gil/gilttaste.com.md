@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gilttaste.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616053557id_/http%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gilttaste.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415005811id_/https%3A//www.gilt.com/company/privacy) for the most accurate reproduction.*
 
 # Privacy Notice | Gilt Groupe | About
 
@@ -171,7 +171,7 @@ If you have any questions or comments about this Privacy Notice, or if you would
 
 GILT Groupe Holdings, Inc.  
 Attn: Legal Department  
-2 Park Avenue, 4th Floor  
-New York, New York 10016
+225 Liberty Street, 31st Floor  
+New York, New York 10281
 
-**Last Updated: January 5, 2016**
+Last Updated: August 26, 2016
