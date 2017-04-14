@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chatroulettegirls.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119012940id_/http%3A//chatroulettegirls.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chatroulettegirls.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414030920id_/https%3A//chatroulettegirls.com/privacy) for the most accurate reproduction.*
 
 # ChatrouletteGirls - Privacy Policy
 
