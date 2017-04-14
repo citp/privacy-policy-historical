@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tickpick.com privacy policy that was archived on 2016-08-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160831165802id_/https%3A//www.tickpick.com/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tickpick.com privacy policy that was archived on 2017-04-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170414031313id_/https%3A//www.tickpick.com/Privacy.aspx) for the most accurate reproduction.*
 
 # TickPick | Privacy Policy
 
