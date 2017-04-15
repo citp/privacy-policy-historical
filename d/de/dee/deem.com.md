@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the deem.com privacy policy that was archived on 2016-05-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160514024101id_/https%3A//www.deem.com/privacy/global-privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the deem.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415132659id_/https%3A//www.deem.com/privacy/global-privacy-statement) for the most accurate reproduction.*
 
-# Global Privacy Statement | Deem
+# Global Privacy Statement - Deem | Deem
 
 Effective Date: November 6, 2015
 
