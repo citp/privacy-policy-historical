@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128161254id_/http%3A//www.x-cart.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the qualiteam.biz privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415064924id_/https%3A//www.x-cart.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | X-Cart
 
-This Privacy Policy describes the types of information Qualiteam software LLC (“we”, “us”) collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use Qualiteam Products or Services (“Products or Services”) and do not access the Qualiteam’s websites located at [https://www.x-cart.com](https://www.x-cart.com/), [https://market.x-cart.com](https://market.x-cart.com/), and [https://my.x-cart.com](https://my.x-cart.com/) (“Site”, “Sites”).
+Rev. date: February 6, 2017
+
+This Privacy Policy describes the types of information Qualiteam software LLC (“we”, “us”) collects and how we use that information. If You do not agree to the terms of this Privacy Policy, please do not use Qualiteam Products or Services (“Products or Services”) and do not access the Qualiteam’s websites located at [https://www.x-cart.com](https://www.x-cart.com/), [https://market.x-cart.com](https://market.x-cart.com/addons), and [https://my.x-cart.com](https://my.x-cart.com/) (“Site”, “Sites”).
 
 ## Information We Collect
 
@@ -17,6 +19,17 @@ We collect and store the following information:
   * General information regarding the Products or Services You have registered to receive.
 
 
+
+Additionally, if you have a “Concierge” module enabled in your X-Cart 5 installation, the following information related to your store operation will be transmitted to us:
+
+  * Username, date and time of back-end logins / logouts
+  * Error messages / Error logs
+  * Changes made to product catalog
+  * Changes made to payment and shipping methods
+
+
+
+The “Concierge” module is supplied with and enabled by default in X-Cart v5.325 or later. You can disable it anytime in the “Modules” section of your store’s back-end.
 
 We do not store the following information normally:
 
@@ -44,13 +57,13 @@ Cookies help us collect important business and technical statistics. The informa
 We use Your personal information to:
 
   * provide Products and Services;
-  * resolve disputes, calculate and collect fees, and troubleshoot problems;
+  * calculate and collect fees, provide customer service and technical support;
+  * detect and resolve technical issues when providing customer support;
   * verify users’ identity and the information users provide;
   * encourage safe online experience and enforce our policies;
   * customize users’ experience, analyze site usage, improve and measure interest in our services, and inform users about services and updates;
   * communicate administrative announcements when we need to provide users with information that may affect their use of Products or Services;
   * communicate marketing and promotional offers to our users;
-  * provide customer service; and
   * perform other business activities as described when we collect the information.
 
 
