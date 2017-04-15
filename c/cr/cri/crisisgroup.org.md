@@ -1,79 +1,126 @@
-> *The following text is extracted and transformed from the crisisgroup.org privacy policy that was archived on 2016-06-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160610111154id_/http%3A//www.crisisgroup.org/en/about/legal/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the crisisgroup.org privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415054501id_/https%3A//www.crisisgroup.org/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - International Crisis Group
+# Privacy Policy | Crisis Group
 
-This statement comprises the privacy policy of the International Crisis Group (“Crisis Group”, “the Organisation”) as it pertains to the Organisation’s websites (“Websites”) over which Crisis Group has full control in terms of the software, hardware and other functionality that makes up the platform. 
+This statement comprises the privacy policy (the **“Policy”** ) of the International Crisis Group ( **“Crisis Group”/“we”/“us”/“our”** ) as it pertains to our website ( **“Website”** ). This Policy does not cover Crisis Group’s presence on social media platforms such as, including but not limited to: Youtube, Facebook, Google+, Linkedin, Twitter, Tumblr, Pinterest, Flickr, Soundcloud, and on publishing platforms such as, including but not limited to: Issuu, Scribd, Medium on which we have established our own presence. In the context of those platforms, we are merely another user and the privacy policies as well as the terms and conditions of those platforms are applicable.
 
-This Privacy Policy therefore does not cover Crisis Group’s presence on social media platforms such as, but not limited to: Youtube, Facebook, Google+, Linkedin, Twitter, Tumblr, Pinterest, Flickr, Soundcloud, and on publishing platforms such as, but not limited to: Issuu, Scribd, Medium on which the Organisation has established its own presence. In the context of those platforms, Crisis Group is merely another user and the privacy policies as well as terms and conditions of those platforms are applicable. 
+This Policy sets out the basis on which any information that personally identifies you or enables us to contact you ( **“Personal Information”** ) that we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your Personal Information and how we will treat it. If you feel that we are not abiding by this Policy, you should immediately [contact our Senior Online Editor Róisín Traynor](mailto:rtraynor@crisisgroup.org) and we will try to resolve your concerns.
 
-Crisis Group’s Websites include: its main website at [http://www.crisisgroup.org](http://www.crisisgroup.org/) (the “Main Website”), Crisis Group’s blogsite at[http://blog.crisisgroup.org](http://blog.crisisgroup.org/) (the “Blog site”) and any content made available on the domain crisisgroup.be (as standalone mini sites or embedded in other websites). 
+We welcome you to use our Website, which can be accessed and browsed without the need to submit any contact details or other Personal Information.
 
-We welcome you to use our Online Platforms, which can be accessed and browsed without the need to submit any contact details or other personally-identifiable information (“Personal Information”).  We strive to make sure that any Personal Information that you do provide to us is protected and secure.  Our privacy policy tells you how we treat the information about you that we receive through this Website.
-
-**THE INFORMATION WE COLLECT AND HOW WE USE IT  **
-
-Crisis Group collects your Personal Information when you send us a message, subscribe to our website, or make a donation online.  Your Personal Information will only be used for the purpose for which you have provided it (e.g., to send you email notifications of Crisis Group reports and briefings, as well as weekly update emails), and to send you occasional emails advising you of changes to Crisis Group’s website or requesting donations.  It will not be supplied to any other entity or used for any other purpose without your consent.  Specifically, Crisis Group collects your Personal Information on the Website as follows:
-
-**Contacting Crisis Group:**   If you choose to contact Crisis Group through the Website, we will collect the data you provide to us voluntarily on the contact submission form, which includes your name and email address.  We will use this information to respond to your inquiry. 
-
-**Email Newsletters:**   If you choose to sign up for our email newsletters, we will collect the data you provide to us voluntarily on the data forms, which includes your email address.  We will use this information to send you weekly email newsletters, email notifications of Crisis Group reports, the monthly Crisis Watch bulletin and briefings, and to send you occasional emails advising of changes to Crisis Group’s website or requesting donations.     
-
-**Donations:**   Crisis Group uses a third party, Ingenico (formerly known as Ogone), to process online donations to Crisis Group made electronically through the Website.  Any Personal Information you submit through the “Donations” section of the Website (including your name, email address, amount of donation, as well as optional information including your postal address and telephone number) to make an online donation will be kept private and will not be provided to any other organisation or person.  We use this information to maintain our records and contact you if there are problems with the donation. 
-
-Any Personal Information you submit through Ingenico’s secure donations website is provided directly by you to Ingenico and will be used by Ingenico to process your transaction.  Personal Information provided by you to Ingenico’s is subject to [Ingenico’s privacy policy](http://payment-services.ingenico.com/be/en/cookie-policy).  We do not control Ingenico’s privacy policy and practices, and we do not have access to Personal Information that you provide to Ingenico.  Ingenico will provide Crisis Group with certain Personal Information about you (including your name, billing address, email address, telephone number, donation amount and relationship to Crisis Group, but not your credit card number) when you choose to make an online donation to Crisis Group through the Website (unless you request that your donation remain anonymous, in which case Crisis Group will not receive your name and contact information).  Crisis Group will use this information to produce and send to you an acknowledgement letter.
-
-**Offline Personal Information Submissions:**   Crisis Group stores Personal Information provided by you offline (e.g., business cards), and occasionally when provided by your friends and colleagues, in order to send you our reports and briefings by email or post.  Your Personal Information will only be used for the purpose for which you have provided it and to send you occasional emails advising you of changes to Crisis Group’s website or requesting donations.  It will not be supplied to any other organisation or used for any other purpose without your consent. 
-
-In certain circumstances, as permitted by applicable law (in particular with regard to a transfer out of the EEA, as applicable), it may be necessary to provide your address to mailing houses (which may be located in jurisdictions which do not provide adequate data protection) in order for our report to be sent to you.  By voluntarily providing us with your Personal Information, you are giving your consent to the transfer of your Personal Information to mailing houses in such jurisdictions strictly for the purposes described in this policy.  However, your contact details will not be supplied to any other organisation or used for any other purpose without your consent.
-
-**WITH WHOM YOUR INFORMATION IS SHARED**
-
-Crisis Group will never share your Personal Information with any other company or third party without your permission, except in the following circumstances (each as permitted by applicable law, in particular with regard to a transfer out of the EEA, as applicable):  (i) as set forth above, (ii) in response to a subpoena or when we are required to do so by law, for example, in response to a court order or other legal obligation; (iii) in response to a valid request from a law enforcement agency; (iv) to protect the security or confidentiality of our records and systems; (v) in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with our rights, or (vi) in the event Crisis Group goes through a re-organisation (e.g. a merger into another organisation), in which case you will be notified via a prominent notice on the Website of any such event.
-
-**TRANSFER OF PERSONAL DATA OUT OF THE EUROPEAN ECONOMIC AREA (EEA)**
-
-Crisis Group operates globally and may have a need to transfer certain personal data (including Personal Information) to countries outside the EEA which do not provide the same level of data protection as the EEA. We have put terms in place (so called Standard Contractual Clauses) to ensure that your information is adequately protected and your privacy respected in the case of such a transfer.
-
-**OPTING OUT**
-
-If you have provided Crisis Group with your email address to receive email newsletters, you will be given the opportunity to opt out of receiving such emails by clicking on the link provided in the email.  You may then choose to opt out by following the instructions on the Website’s [Unsubscription Request page](http://www.crisisgroup.org/en/Newsletter/Unsubscribe.aspx). If you experience problems with automated un-subscription requests for some reason, please email [postmaster@crisisgroup.org](mailto:postmaster@crisisgroup.org) and a staff member will manually process your request.
-
-Please note that we will endeavor to implement your opt-out requests within a reasonable time, although for a short time you may continue to receive the email newsletter(s) to which you have subscribed based on information released prior to the implementation of your request.  Please also note that after your request is implemented, you may continue to receive information directly related to any online donations you make through the Website.
-
-**TRACKING AND COOKIES**  
-
-**Our Online Platforms**
-
-When you look at any of our Online Platforms, the hosting companies, server operating system/software, website CMS and other components for Crisis Group makes a record of your visit and logs the following non-personal information from you:
-
-  1. your IP address;
-  2. the pages you accessed and documents you download; every ‘HTTP Query’ your browser client sent to our server(s)
-  3. the type of browser and operating system your computer uses
+  1. **Collection of Information**  
+ 
+    1. We may collect and process your Personal Information that you provide in the following ways:  
+ 
+      * **Contacting Crisis Group:** If you choose to contact us through the Website for any reason, we will collect the information you voluntarily provide to us.  We use a third party platform, Recruitee, to manage the information submitted by you when you apply for career opportunities with Crisis Group. Any information you submit through the form on our Career Opportunities page is provided by you to Recruitee and is also subject to Recruitee’s [privacy policy](https://recruitee.com/privacy). We have the right to access such Personal Information and process the Personal Information for the purposes as set out below.  
+ 
+      * **Signing up for our email newsletters:** We use a third party platform, Mailchimp, to manage our email distribution lists. If you choose to register for our email newsletters by clicking “Register” on our Website, you will be presented with a secured form in which you will be asked to provide your Personal Information, which includes your email address, and you will be asked to select your mailing preferences. Any information you submit through this secured form is provided directly by you to Mailchimp and is also subject to Mailchimp’s [privacy policy](http://mailchimp.com/legal/privacy/). We have a data processing agreement in place with Mailchimp, as we are the controller of such Personal Information provided by you to Mailchimp and as we have the right to access such Personal Information and process the Personal Information for the purposes as set out below.  
+ 
+      * **Making a donation:** We use a third party, Stripe, to process online donations to Crisis Group made electronically through our Website. If you choose to make a donation by clicking “Support Crisis Group”, you will be transferred to Stripe’s secured form. Any information you submit via our Website through Stripe’s secured donations form is provided directly by you to Stripe and is subject to Stripe’s [privacy policy](https://stripe.com/be/privacy). Stripe will provide us with certain information about you (including your name, billing address, email address, donation amount, whether the donation is made in honour of someone, and the reason for the donation if applicable, but not your credit card number) when you choose to make an online donation to Crisis Group through the Website.   
+ 
+      * **Offline submissions:** We may also collect information provided by you offline (e.g., through written correspondence you to send to us or when you provide us with your business card).  
+ 
+    2. We may automatically collect the following information with regard to each of your visits to the Website:  
+​​​​​​​ 
+      * Technical information, including the operating system and platform, browser type and version; and  
+ 
+      * Details of your visits to the Website, including but not limited to: every ‘HTTP Query’ your browser client sent to our server(s); the full Uniform Resource Locators (URL) clickstream to, through and from the Website (including date and time); page response times, download errors, length of visits to certain pages, page interaction information (such as scrolling, clicks, and mouse-overs), methods used to browse away from the page, traffic data, location data, weblogs and other communication data. This information does not identify you.
 
 
+  2. **Use of information**  
+ 
+    1. Your Personal Information may be used in the following ways:  
+ 
+      * If you have signed up to receive email updates, etc. via the registration form on our Website, your Personal Information will be used by us to send you via MailChimp the requested publications and to send you occasional emails advising you of Crisis Group updates or requesting donations.  
+ 
+      * If you have contacted us via the contact details provided on our Website, we will use the information you have provided, including your name and email address, to respond to your inquiry.  
+ 
+      * Any Personal Information you submit when applying for career opportunities will be used solely for recruitment purposes (including for identifying job applicants, evaluating applications, making hiring and employment decisions, and contacting you by phone or in writing).  
+ 
+      * Any Personal Information you submit when making a donation through the “Donations” section of the Website will be used by Stripe to process your transaction. Stripe will provide us with certain personal information about you (including your name, billing address, email address, donation amount, whether the donation is made in honour of someone, and the reason for the donation if applicable, but not your credit card number) when you choose to make an online donation, and we will use this information to produce and send to you an acknowledgement letter and for our internal records. Please note that if you make a donation anonymously, Stripe will still share your name and other Personal Information with us for our own internal records - we will not include your name in our publications.  
+ 
+      * Any information you provide to us offline will only be used for the purpose for which you have provided it, e.g., if you provide us with your business card and request that we send you information.  
+ 
+    2. Your information may also be used for technical purposes, including:  
+ 
+      * To ensure that content from the Website is presented in the most effective manner for you and for your computer; and  
+ 
+      * statistical purposes.  
+ 
+  3. **Disclosure of information**  
+ 
+    1. We will never share your Personal Information with any other company or third party without your consent, except in the following circumstances (each as permitted by applicable law, in particular, with regard to a transfer out of the EEA, as applicable):  
+ 
+      * as set out in this Policy;  
+ 
+      * when we are required to do so by law, for example, in response to a subpoena, in response to a court order or other legal obligation, or in response to a valid request from a law enforcement agency;  
+ 
+      * to protect the security or confidentiality of our records and systems;  
+ 
+      * in special cases when we have reason to believe that disclosing this information is necessary to identify, contact, or bring legal action against someone who may be causing injury to or interference with our rights, or  
+ 
+      * in the event that we sell or transfer all, or any portion of, our business or assets (including in the event of any reorganisation, dissolution, spin-off, or liquidation) we reserve the right to transfer your Personal Information to the relevant acquirer, successor, purchaser or beneficiary, or any appropriate combination of them.  
+ 
+  4. **International data transfers**  
+ 
+    1. We operate globally and may have a need to transfer certain Personal Information to countries outside the EEA which do not provide an adequate level as required under EU data protection law. We use Standard Contractual Clauses to ensure that your Personal Information is adequately protected and your privacy respected in the case of such a transfer.  
+ 
+    2. When you sign up for email updates, MailChimp may transfer, process and store your Personal Information outside the EEA in line with its privacy policy.  
+ 
+    3. When you make a donation, Stripe may transfer, process and store your Personal Information outside the EEA in line with its privacy policy. Please see section 7 below for more information.  
+ 
+  5. **Cookies**  
+ 
+    1. Like most websites, our Website may place a “cookie” – a small text file – in the browser of your computer.  This cookie will assign you a unique number that allows us to save your information so that the information does not need to be re-entered.  Cookies can be either “persistent” or “session” based.  Our Website uses both types of cookies.  
+ 
+    2. Persistent cookies are stored on your computer, contain an expiration date (by default the cookies expire after 23 days), and may be used to track your browsing behaviour upon return to the issuing website or component (such as plugins or embedded media, e.g., a YouTube video embedded on our website).  You can remove persistent cookies by following directions provided in your internet browser’s “Help” menu.  
+ 
+    3. Session cookies are short-lived, are used only during a browsing session, and expire when you quit your browser.  
+ 
+    4. You may refuse to accept cookies by activating the setting on your browser which allows you to refuse the setting of cookies. Instructions on how to do so will vary from browser to browser but you can find out more at [www.aboutcookies.org](http://www.aboutcookies.org/). Some features and functionality may be lost if you choose to disable cookies.  Also, remember that you will have to adjust the cookie settings for each browser and device and you use to visit our Website.  
+ 
+    5. Our Website may contain links to other sites that may use cookie technology. We do not have access to, or control over, these cookies.  
+ 
+  6. **Security**  
+ 
+    1. We use reasonable precautions to protect your Personal Information and to store it securely.  Our Website has a secure SSL certificate, a global standard security technology that enables encrypted communication between the web browser and the web server.  
+ 
+    2. If you choose to make an electronic donation to Crisis Group, you will be transferred to Stripe’s secured form, where the donation process will be completed.  Please refer to section 1.1 above for further information concerning the electronic donations process.   
+ 
+    3. Unfortunately, the transmission of information via the internet is not completely secure. We will do our best to protect your Personal Information, but cannot guarantee the security of your information transmitted to our Website; any transmission is at your own risk.  
+ 
+  7. **Storage and accuracy of information**  
+ 
+    1. The accuracy of your Personal Information is important to us. If you change your email address or would like to change your email preferences,  you may do so by clicking “update your preferences” at the bottom of each of our email updates to which you have subscribed.  
+ 
+    2. The Personal Information you provide when applying for career opportunities on our Website is stored by Recruitee in accordance with their [privacy policy](https://recruitee.com/privacy).  
+ 
+    3. The Personal Information you provide when signing up for our email updates is stored on Mailchimp’s servers in the United States.  
+ 
+    4. The Personal Information you provide when making a donation via Stripe is stored on the servers of Stripe and Stripe’s third party hosting providers that are located in Belgium, Ireland and the United States. Our development team also stores the Personal Information of our donors on a third party platform, Raiser’s Edge, and is also subject to their [privacy policy](https://www.blackbaud.co.uk/privacy-policy.aspx).  
+ 
+    5. All other Personal Information that you provide to us is stored on our server in Belgium and kept in a reasonably secure environment. We will only store your Personal Information in our systems for as long as is necessary.  
+ 
+  8. **Direct marketing**  
+ 
+    1. We do not share your Personal Information with third parties without your consent except in the limited circumstances set out in section 3 above.  
+ 
+    2. If you have provided your email address to receive email updates, you may also receive occasional requests for donations as indicated in our registration form. If you have made a donation, you will receive a link in your donation receipt enabling you to sign up for our email updates. In these communications, however, you will be given the opportunity to opt out of receiving such emails by clicking on the link provided in the email. Please note that if you opt out of the occasional emails requesting donations, you will unsubscribe from all of our mailing lists.  
+ 
+  9. **Access to Personal Information**  
+ 
+    1. You have the right to access your Personal Information that we hold. Your right of access can be exercised in accordance with applicable privacy legislation.  
+ 
+    2. You may request at any time a copy of the information we hold on you by sending an e-mail to [Senior Online Editor Róisín Traynor](mailto:rtraynor@crisisgroup.org). Any access request may be subject to a fee to meet our costs in providing you with details of the information that we hold about you.  
+ 
+  10. **Changes to our Policy**  
+ 
+    1. Our Policy may change in the future. We encourage you to review this page periodically to understand our Policy regarding our collection and use of your Personal Information.  The date of this Policy, as stated below, indicates the last time this Policy was materially revised (the “ **Effective Date** ”).  Checking the Effective Date below allows you to determine whether there have been changes since the last time you reviewed this Policy.  
+ 
+  11. **Contact**  
+ 
+    1. Questions, comments and requests regarding this Policy are welcomed and should be addressed to our [Senior Online Editor Róisín Traynor](mailto:rtraynor@crisisgroup.org).
 
-We use this information, which does not identify individual users, for statistical purposes. 
 
-**Cookies**
 
-Like most websites, our Websites may place a “cookie,” – a small text file - in the browser of a visitor’s computer.  This cookie will assign a user a unique number that allows Crisis Group to save information so that the information does not need to be re-entered.  Cookies can be either “persistent” or “session” based.  Persistent cookies are stored on your computer, contain an expiration date, and may be used to track your browsing behavior upon return to the issuing web site or component (such as plugins or embedded media, e.g. a YouTube video embedded on our website).  You can remove persistent cookies by following directions provided in your Internet browser’s “help” file.  Session cookies are short-lived, are used only during a browsing session, and expire when you quit your browser. Our Online Platforms use both session cookies and persistent cookies.  
-
-You can configure your browser to accept all cookies, reject all cookies, or notify you when a cookie is set.  (For instructions on how to configure your browser, please consult your browser’s “Help” menu.)  If you choose not to allow us to place a cookie on your hard drive, you may be restricted from some pages and services on the Website.
-
-Our Online Platforms may contain links to other sites that may use cookie technology.  We do not have access to, or control over, these cookies. 
-
-**SECURITY OF YOUR INFORMATION**  
-
-Crisis Group uses reasonable precautions to protect your Personal Information and to store it securely.  The Website does not provide facilities for the secure transmission of information across the Internet.  If you choose to make an electronic donation to Crisis Group, however, you will be transferred to a secure website, run by the Belgian company Ingenico, where the donation process will be completed.  Please refer to the above section “Donations” for further information concerning the electronic donations process.  Personal Information, whether collected online or off-line, will be stored in a server located in Belgium and will be password protected.  The server on which we store Personal Information is kept in a reasonably secure environment.  You should be aware, however, that no method of transmission over the Internet or method of electronic storage is 100% secure. 
-
-**CORRECTING / UPDATING YOUR INFORMATION**
-
-To unsubscribe or to change your personal details or subscription choices, please visit our [subscription page](http://www.crisisgroup.org/en/Newsletter/Subscribe.aspx), or [contact us directly](http://www.crisisgroup.org/en/about/contact.aspx). Should none of the above methods get you a timely update or feedback, please write to [postmaster@crisisgroup.org](mailto:postmaster@crisisgroup.org) directly.
-
-Please do not hesitate to [contact Crisis Group](http://www.crisisgroup.org/en/about/contact.aspx) if you require further information.
-
-**CHANGES IN THIS PRIVACY POLICY**
-
-Our privacy policy may change in the future.  We encourage you to review this page periodically to understand our policy regarding our collection and use of Personal Information.  The Effective Date of this policy, as stated below, indicates the last time this policy was materially revised.  Checking the Effective Date below allows you to determine whether there have been changes since the last time you reviewed the policy.
-
-Effective Date of Privacy Policy: August 7, 2015
+**Effective Date of Privacy Policy:** August 2016
