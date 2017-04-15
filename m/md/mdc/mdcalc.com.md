@@ -1,8 +1,12 @@
-> *The following text is extracted and transformed from the mdcalc.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122071728id_/http%3A//www.mdcalc.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mdcalc.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415023300id_/http%3A//pages.mdcalc.com/privacy-policy.html) for the most accurate reproduction.*
 
-# Privacy Policy - MDCalc
+# MDCalc - Privacy Policy
 
-MD Aware, LLC (the owner of MDCalc.com) is committed to maintaining your confidence and trust with respect to the privacy of the personal information we collect from you.  Please read this privacy policy carefully to understand our practices about how we collect, use and share your personal information.
+## PRIVACY POLICY
+
+Effective Date: 15 February 2016
+
+MD Aware, LLC (the owner of MDCalc.com) is committed to maintaining your confidence and trust with respect to the privacy of the personal information we collect from you. Please read this privacy policy carefully to understand our practices about how we collect, use and share your personal information.
 
 ### A) ABOUT OUR PRIVACY POLICY
 
@@ -10,7 +14,7 @@ This privacy policy describes how the personal information that is collected whe
 
 ### B) INFORMATION WE COLLECT
 
-The Policy collects information from you in two ways: 1) directly from your input and 2) automatically through use of our services. 
+The Policy collects information from you in two ways: 1) directly from your input and 2) automatically through use of our services.
 
 #### Information You Provide
 
@@ -32,19 +36,19 @@ If you choose to register and sign in by using a third party account (such as yo
 
 The Service also automatically collects, through our servers and the use of cookies (small text files sent to your computer), web beacons (also known as clear or single pixel .gifs) and other technologies, information that tells us how you use the Service, such as:
 
-  * Internet Protocol (“IP”) address used to connect your computer to the Internet;
-  * Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier (“UDID”) and other technical identifiers;
-  * Uniform Resource Locator (“URL”) click stream data, including date and time stamp, referring and exit URLs, search terms you used, and pages you visited or searched for on the Service; and
+  * Internet Protocol ("IP") address used to connect your computer to the Internet;
+  * Computer, device and connection information, such as browser type and version, operating system, mobile platform and unique device identifier ("UDID") and other technical identifiers;
+  * Uniform Resource Locator ("URL") click stream data, including date and time stamp, referring and exit URLs, search terms you used, and pages you visited or searched for on the Service; and
 
 
 
-For location-aware services, the physical location of your device in order to provide you with more relevant content for where you are in the world. When you use our Services, in addition to information described in our Policy, such as your profile and contact information, we may automatically collect certain information from your device including your precise geolocation, information about your device such as the device type,  device ID, operating system, wireless service provider and information about the operation of our application and your usage of our application, including features you used, pages you viewed, and when and for how long you used the application. By using the MDCalc Services, you agree that we may collect this information and use, transmit, process, and store that information as described in our  Privacy Policy including to provide and improve our Services.
+For location-aware services, the physical location of your device in order to provide you with more relevant content for where you are in the world. When you use our Services, in addition to information described in our Policy, such as your profile and contact information, we may automatically collect certain information from your device including your precise geolocation, information about your device such as the device type, device ID, operating system, wireless service provider and information about the operation of our application and your usage of our application, including features you used, pages you viewed, and when and for how long you used the application. By using the MDCalc Services, you agree that we may collect this information and use, transmit, process, and store that information as described in our Privacy Policy including to provide and improve our Services.
 
 We may use and disclose information that does not reveal your identity or permit direct association with any specific individual, such as browser and device information, anonymous usage data and aggregated information, for any purpose, except where we are restricted by law. If we combine non-personal information with personal information, the combined information will be treated as personal information for as long as it remains combined.
 
-You can control cookies through your browser’s settings and other tools. However, if you block certain cookies, you may not be able to register, login to the Services, access certain parts of the Services or make full use of the Services.
+You can control cookies through your browser's settings and other tools. However, if you block certain cookies, you may not be able to register, login to the Services, access certain parts of the Services or make full use of the Services.
 
-### C) USE OF YOUR INFORMATION 
+### C) USE OF YOUR INFORMATION
 
 We may use your personal information to:
 
@@ -73,7 +77,7 @@ We may share your personal information with:
 
 We also may share your personal information with our affiliated group companies worldwide and with societies, sponsors and other non-affiliated third parties that wish to send you information about their products and services that may be of interest to you as determined by your choices in managing your communications preferences following the process described below.
 
-If our Services offer a content database or learning service (“Subscription Service”) and you access the Subscription Service through an institution-sponsored subscription, your personal information and certain usage data gathered through the Subscription Service, such as the number of items you downloaded, any non-subscribed items you accessed, and test scores, may be shared with your institution for the purposes of usage analysis, subscription management, course management and testing and remediation.  If your institution is a corporation or other business entity, additional usage data, such as the types of records you viewed and the number of searches you ran, also may be shared for the purposes of cost attribution and departmental budgeting.
+If our Services offer a content database or learning service ("Subscription Service") and you access the Subscription Service through an institution-sponsored subscription, your personal information and certain usage data gathered through the Subscription Service, such as the number of items you downloaded, any non-subscribed items you accessed, and test scores, may be shared with your institution for the purposes of usage analysis, subscription management, course management and testing and remediation. If your institution is a corporation or other business entity, additional usage data, such as the types of records you viewed and the number of searches you ran, also may be shared for the purposes of cost attribution and departmental budgeting.
 
 We also may need to disclose your personal information:
 
@@ -85,15 +89,15 @@ We also may need to disclose your personal information:
 
 
 
-The Service may let you post and share personal information, comments, materials and other content.  Any information you disclose publicly may be collected and used by others, may be indexable by search engines, and might not be able to be removed.  Please be careful when disclosing personal information in these public areas.
+The Service may let you post and share personal information, comments, materials and other content. Any information you disclose publicly may be collected and used by others, may be indexable by search engines, and might not be able to be removed. Please be careful when disclosing personal information in these public areas.
 
 ### E) YOUR CHOICES AND COMMUNICATIONS PREFERENCES
 
-You can manage your communications preferences when you register with the Service, by updating your account preferences, by using the “opt-out” or unsubscribe mechanism or other means provided within the communications that you receive from us or by contacting us.  We reserve the right to notify you of changes or updates to the Service whenever necessary.
+You can manage your communications preferences when you register with the Service, by updating your account preferences, by using the "opt-out" or unsubscribe mechanism or other means provided within the communications that you receive from us or by contacting us. We reserve the right to notify you of changes or updates to the Service whenever necessary.
 
 ### F) ACCESS AND ACCURACY OF YOUR INFORMATION
 
-The Service may allow registered users to access their account information and make corrections or updates upon log in at any time.  The accuracy of such information is solely the responsibility of the user.  You may also request access to other personal information about you that may be held in the Service.  If you request to deactivate your account or delete your personal information, we will endeavor to fulfill your request but some personal information may persist in backup copies for a certain period of time and may be retained as necessary for legitimate business purposes or to comply with our legal obligations.
+The Service may allow registered users to access their account information and make corrections or updates upon log in at any time. The accuracy of such information is solely the responsibility of the user. You may also request access to other personal information about you that may be held in the Service. If you request to deactivate your account or delete your personal information, we will endeavor to fulfill your request but some personal information may persist in backup copies for a certain period of time and may be retained as necessary for legitimate business purposes or to comply with our legal obligations.
 
 ### G) DATA SECURITY
 
@@ -103,11 +107,11 @@ Our website is scanned on a regular basis for security holes and known vulnerabi
 
 ### H) CROSS-BORDER TRANSFER OF YOUR INFORMATION
 
-Your personal information may be transferred to other countries for processing.  By using the Service you consent to the transfer of information to countries outside of your country of residence, which may have different personal data protection rules than in your country.
+Your personal information may be transferred to other countries for processing. By using the Service you consent to the transfer of information to countries outside of your country of residence, which may have different personal data protection rules than in your country.
 
 ### I) CHANGES TO OUR PRIVACY POLICY
 
-We may change this privacy policy from time to time.  Any changes will be posted on this page with an updated revision date.
+We may change this privacy policy from time to time. Any changes will be posted on this page with an updated revision date.
 
 ### J) THIRD-PARTY LINKS
 
@@ -125,7 +129,7 @@ CalOPPA is the first state law in the nation to require commercial websites and 
 
 ##### According to CalOPPA we agree to the following:
 
-Users can visit our site anonymously. Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website. Our Privacy Policy link includes the word ‘Privacy’ and can be easily be found on the page specified above. Users will be notified of any privacy policy changes when they login to their account.
+Users can visit our site anonymously. Once this privacy policy is created, we will add a link to it on our home page or as a minimum on the first significant page after entering our website. Our Privacy Policy link includes the word 'Privacy' and can be easily be found on the page specified above. Users will be notified of any privacy policy changes when they login to their account.
 
 ##### How does our site handle do not track signals?
 
@@ -161,4 +165,8 @@ If at any time you would like to unsubscribe from receiving future emails, you c
 
 If you have any questions, comments or requests regarding this privacy policy or our processing of your information, please contact:
 
-MD Aware, LLC ATTN: Privacy Officer 902 Broadway New York, NY 10010 privacy@mdcalc.com
+MD Aware, LLC  
+ATTN: Privacy Officer  
+93 4th Ave. #19  
+New York, NY 10003  
+[privacy@mdcalc.com](mailtop:privacy@mdcalc.com)
