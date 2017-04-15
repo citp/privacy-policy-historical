@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the johncornetta.com privacy policy that was archived on 2016-10-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161027152000id_/http%3A//johncornetta.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the johncornetta.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415035035id_/http%3A//www.johncornetta.com/privacy.html) for the most accurate reproduction.*
 
 # privacy
 
