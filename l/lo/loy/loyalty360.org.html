@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the loyalty360.org privacy policy that was archived on 2016-12-16.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161216015349id_/http%3A//loyalty360.org/Privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the loyalty360.org privacy policy that was archived on 2017-04-15.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170415130642id_/https%3A//www.loyalty360.org/Privacy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html><head id="head"><title>
 	Loyalty360 - The Association for Customer Loyalty
@@ -21,11 +21,9 @@ $(function(){
             $('#lg_username').focus();
             return false;
         });
-
         $('#btnlgSignUp').click(function () {                                  
                   location.href = "/join";
         });
-
         $('#btnlgLogin').click(function (){    
               var username = $.trim($('#lg_username').val());
               var password = $.trim($('#lg_password').val());               
@@ -38,26 +36,22 @@ $(function(){
                   location.href = c_url;      
               }                
          });          
-
          $("#div_Login .frmClose > img").click(function () {
                 $("#div_Login").css("display", "none");
                 return false;
          });       
-
-
         $("#div_Login .forgotPassword").click(function () {
             $(".lg_in").hide();
             $(".lg_f_pwd").show();
             $('#lg_username, #lg_password').val('');
-            $('.errorSection').hide();
+            $('#div_Login .errorSection').hide();
         });
         $("#div_Login .cancelLink").click(function () {
             $(".lg_in").show();
             $(".lg_f_pwd").hide();
             $('#lg_username').val('');
-            $('.errorSection').hide();
+            $('#div_Login .errorSection').hide();
         });
-
         $('#btnlgContinue').click(function () {
             var username = $('#lg_username').val();
             var isValid = false;
@@ -78,27 +72,22 @@ $(function(){
                 }
             }
         });
-
         $("#lg_username, #lg_password").on("keyup", function (event) {
             if (event.keyCode == 13) {
                 $("#btnlgLogin").get(0).click();
             }
         });
-        
         $(".signoutLink").on('click',function(){      
         //alert($(this).text());        
             SignOut();  
             return false;
         });
 });
-
 function ResetLoginPopUp() {
     $('#lg_username, #lg_password').val('');
     $(".lg_in").show();
     $(".lg_f_pwd, .errorSection").hide();
-
 }
-
 function SignOut() {  
   $.ajax({
     type: 'POST',
@@ -125,11 +114,9 @@ $(document).ready(function () {
   $(".searchFrom").click(function(){
       $(".searchFrom").addClass("searchFromClick");
   });
-
   $(".logoArrow").click(function(){
        $(".logoArrow ul").slideToggle("slow");
   });
-
   /*$("div.searchBox > input[type='text']").onChange(function(){
     var txtVal = $("div.searchBox > input[type='text']").val();
     if(txtVal = '' || txtVal = 'SEARCH'){
@@ -138,19 +125,24 @@ $(document).ready(function () {
       else
         alert(txtVal);
   });*/
+
+/* for replace blank div
+$('div').each(function() {
+      var $this = $(this); 
+      if($this.html().replace(/\s|&nbsp;/g, '').length == 0)
+         $this.remove();      
+  });
+  */
 });
 
 function doRedirect()
 {
   var SearchText =  $("#txtSearch").val();
-
  if(SearchText == 'SEARCH')
     return false;
-  
   window.location.href = "/Results?Key=" + SearchText;
   return false;
 }
-
 function RemoveCartCookie() {  
   $.ajax({
     type: 'POST',
@@ -169,11 +161,32 @@ function RemoveCartCookie() {
 </script><link href="/CMSPages/GetResource.ashx?_webparts=677" type="text/css" rel="stylesheet"> 
 </head>
 <body class="LTR ENUS ContentBody">
-    <form method="post" action="/privacy" id="form">
+    <form method="post" action="/privacy" onsubmit="javascript:return WebForm_OnSubmit();" id="form">
 <div class="aspNetHidden">
 <input type="hidden" name="manScript_HiddenField" id="manScript_HiddenField" value="">
+<input type="hidden" name="__EVENTTARGET" id="__EVENTTARGET" value="">
+<input type="hidden" name="__EVENTARGUMENT" id="__EVENTARGUMENT" value="">
 
 </div>
+
+<script type="text/javascript">
+//<![CDATA[
+var theForm = document.forms['form'];
+if (!theForm) {
+    theForm = document.form;
+}
+function __doPostBack(eventTarget, eventArgument) {
+    if (!theForm.onsubmit || (theForm.onsubmit() != false)) {
+        theForm.__EVENTTARGET.value = eventTarget;
+        theForm.__EVENTARGUMENT.value = eventArgument;
+        theForm.submit();
+    }
+}
+//]]>
+</script>
+
+
+<script src="/WebResource.axd?d=pynGkmcFUV13He1Qd6_TZJ1oq6YD3mbFYaFs04QmgNQ-JSO5EHYTmCct86rjuFNSW1NgHa0DxdJLXP5-PzYXaQ2&amp;t=635792775671809273" type="text/javascript"></script>
 
 <input type="hidden" name="lng" id="lng" value="en-US">
 <script src="/CMSPages/GetResource.ashx?scriptfile=%7e%2fCMSScripts%2fWebServiceCall.js" type="text/javascript"></script>
@@ -184,26 +197,43 @@ function PM_Postback(param) { if (window.top.HideScreenLockWarningAndSync) { win
 function PM_Callback(param, callback, ctx) { if (window.top.HideScreenLockWarningAndSync) { window.top.HideScreenLockWarningAndSync(1080); }if (window.CMSContentManager) { CMSContentManager.storeContentChangedStatus(); };WebForm_DoCallback('m$am',param,callback,ctx,null,true); }
 //]]>
 </script>
-<script src="/ScriptResource.axd?d=x6wALODbMJK5e0eRC_p1LeYYvupm32IPZrE5bNIQUDXxqQ52fYV4GMPqGE0wk-tkNgFImjWP_btauLnBFuQ8dbSuSDkEI7sc0t3H3GzogzdrisYCG8EYmRpRZuxYsmxA0&amp;t=7c776dc1" type="text/javascript"></script>
-<script src="/CMSPages/PortalTemplate.aspx?_TSM_HiddenField_=manScript_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60919.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aee051b62-9cd6-49a5-87bb-93c07bc43d63%3ade1feab2%3af9cec9bc%3a35576c48" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=qph9tUZ6hGPLbkznkRkqTSh8sh63WvnecZmuuwQrkMDG9julVIt3aU1etmDduQA_FrEKD8tmcRtnIvtnkz3wm5tcvhYL18buzt8_IBvuKCb8BylhZcvzxhJP0YHkK-4m0&amp;t=7c776dc1" type="text/javascript"></script>
+<script src="/ScriptResource.axd?d=TvpD2YGOOsCm1yWcLkKnBQN2blrYU2OobM1gfDv3ta4vO_TfyZpXn9TOqrIfZG_TK5MctZ5_4MWBqFmEQu1aomllgUJaVIbIHTvT-gePfobZdwUgDvMeQcFlo0I8vNN-0&amp;t=7c776dc1" type="text/javascript"></script>
+<script src="/CMSPages/PortalTemplate.aspx?_TSM_HiddenField_=manScript_HiddenField&amp;_TSM_CombinedScripts_=%3b%3bAjaxControlToolkit%2c+Version%3d4.1.60919.0%2c+Culture%3dneutral%2c+PublicKeyToken%3d28f01b0e84b6d53e%3aen-US%3aee051b62-9cd6-49a5-87bb-93c07bc43d63%3a475a4ef5%3aeffe2a26%3a7e63a579" type="text/javascript"></script>
 <script type="text/javascript">
 	//<![CDATA[
 
 var CMS = CMS || {};
 CMS.Application = {
-  "isDialog": false,
-  "applicationUrl": "/",
   "isRTL": "false",
-  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f"
+  "applicationUrl": "/",
+  "imagesUrl": "/CMSPages/GetResource.ashx?image=%5bImages.zip%5d%2f",
+  "isDialog": false
 };
 
 //]]>
 </script>
+<script type="text/javascript">
+//<![CDATA[
+function WebForm_OnSubmit() {
+null;
+return true;
+}
+//]]>
+</script>
+
 <div class="aspNetHidden">
 
 	<input type="hidden" name="__VIEWSTATEGENERATOR" id="__VIEWSTATEGENERATOR" value="A5343185">
+	<input type="hidden" name="__SCROLLPOSITIONX" id="__SCROLLPOSITIONX" value="0">
+	<input type="hidden" name="__SCROLLPOSITIONY" id="__SCROLLPOSITIONY" value="0">
 </div>
-    
+    <script type="text/javascript">
+//<![CDATA[
+Sys.WebForms.PageRequestManager._initialize('manScript', 'form', ['tp$lt$ctl02$StaticHTML_Footer$sys_pnlUpdate','','tctxM',''], ['p$lt$ctl02$StaticHTML_Footer',''], [], 90, '');
+//]]>
+</script>
+
     <div id="ctxM">
 
 </div>
@@ -228,7 +258,6 @@ CMS.Application = {
               <li>
                 <a href="/About-us/Brand-Members">Brand Members</a>
               </li>
-              
               <li>
                 <a href="/About-us/Opportunities">Opportunities</a>
                 <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
@@ -238,7 +267,8 @@ CMS.Application = {
                       <a href="/About-us/Opportunities/Media-Kit">Media Kit</a>
                     </li>
                     <li>
-                      <a href="/About-us/Opportunities/Advertising">Advertising</a>
+                     <!-- <a href="/About-us/Opportunities/Advertising">Advertising</a>-->
+                      <a href="/Advertise">Advertising</a>                      
                     </li>
                     <li>
                       <a href="/About-us/Opportunities/Media-Partnerships">Media Partnerships</a>
@@ -288,7 +318,6 @@ CMS.Application = {
               <li>
                 <a href="/Content-Gallery/Research-and-Reports">Research and Reports</a>
               </li>
-              
               <li>
                 <a href="/Content-Gallery/Loyalty360-Research">Loyalty360 Research</a>
                 <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
@@ -324,8 +353,6 @@ CMS.Application = {
             </ol>
           </div>
         </li>
-        
-        
         <li><a href="/Loyalty360-Events">Loyalty360 Events</a> <span class="expand"><i class="fa fa-plus parent-plus"></i></span>
           <div class="submenu-mobile" style="display: none;">
             <ol>
@@ -380,13 +407,13 @@ CMS.Application = {
   <!--Mobile Menu End-->
   <div class="wrapperContainer">
     <div class="loyalty360-Logo">
-      <a href="/"><img src="/Loyalty360/media/images/loyalty360-logo.png" alt="headerLogo"></a>
+      <a href="/"><img src="/Loyalty360/media/images/loyalty360-logo.png" width="344" height="57" alt="headerLogo"></a>
       <span class="logoArrow">
-        <a href="javascript:void(0);"><img src="/Loyalty360/media/images/logoArrow.png" alt="arrow"></a>
+        <a href="javascript:void(0);"><img src="/Loyalty360/media/images/logoArrow.png" width="15" height="10" alt="arrow"></a>
         <ul style="display:none;">
           <li><a href="http://loyalty360.eu" target="_blank">Loyalty360 EUROPE</a></li>
-          <li><a href="http://engagementexpo.com" target="_blank">Engagement Expo</a></li>
-          <li><a href="http://loyaltyexpo.com" target="_blank">Loyalty Expo</a></li>
+          <li><a href="https://engagementexpo.loyalty360.org/" target="_blank">Engagement Expo</a></li>
+          <li><a href="https://loyaltyexpo.loyalty360.org/" target="_blank">Loyalty Expo</a></li>
         </ul>
       </span>
     </div><div class="headerRight">
@@ -397,7 +424,6 @@ CMS.Application = {
  <a href="/join">Join</a>
 </li>
       <li><a href="/Press-Center">Press Center</a></li>
-          
       <li><a href="/content-gallery/press-releases">Press Releases</a></li>    -->   
       <li><a href="/Advertise">Advertise</a></li>
       <li><a href="/feeds">Subscribe</a></li>
@@ -413,7 +439,7 @@ CMS.Application = {
       <li><a href="/Feeds" target="_blank"><i class="fa fa-rss">&nbsp;</i></a></li>
     </ul>
   </div><div class="searchFrom">
-    <div class="inputField"><div id="p_lt_ctl00_SmartSearchBox_pnlSearch" class="searchBox">
+    <div class="inputField"><div id="p_lt_ctl00_SmartSearchBox_pnlSearch" class="searchBox" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_ctl00_SmartSearchBox_btnImageButton')">
 	
     <label for="p_lt_ctl00_SmartSearchBox_txtWord" id="p_lt_ctl00_SmartSearchBox_lblSearch" style="display:none;">Search for:</label>
     <input type="hidden" name="p$lt$ctl00$SmartSearchBox$txtWord_exWatermark_ClientState" id="p_lt_ctl00_SmartSearchBox_txtWord_exWatermark_ClientState"><input name="p$lt$ctl00$SmartSearchBox$txtWord" type="text" maxlength="1000" id="p_lt_ctl00_SmartSearchBox_txtWord" class="form-control">
@@ -426,12 +452,11 @@ CMS.Application = {
 </div>
 </div>
   </div>
-  
 </div>
 </div>
 </header>        <div id="navigation">
             <nav>
-                
+
 	<ul id="menuElem">
 		<li>
 			<a href="/about-us">About us</a>
@@ -452,7 +477,7 @@ CMS.Application = {
 							<a href="/about-us/opportunities/media-kit">Media Kit</a>
 						</li>
 						<li>
-							<a href="/about-us/opportunities/advertising">Advertising</a>
+							<a href="/advertise">Advertising</a>
 						</li>
 						<li>
 							<a href="/about-us/opportunities/media-partnerships">Media Partnerships</a>
@@ -604,10 +629,10 @@ CMS.Application = {
 
  </nav>
 </div><div class="whitepaperdownload" display="none" id="div_Login">
-<div class="frmClose"><img alt="close" src="/Loyalty360/media/images/slideout-close.gif" title="Close"></div>
+<div class="frmClose"><img alt="close" height="15" src="/Loyalty360/media/images/slideout-close.png" title="Close" width="15"></div>
 
 <div class="newLogin-section">
-<div class="loginLogo"><a href="javascript:void(0);"><img src="/loyalty360/media/images/Loyalty360Logo2015.png"></a></div>
+<div class="loginLogo"><a href="javascript:void(0);"><img height="50" src="/loyalty360/media/images/Loyalty360Logo2015.png" width="282"></a></div>
 
 <div class="errorSection" style="display:none;">Enter your username or email address and password.</div>
 
@@ -750,17 +775,17 @@ Cincinnati, OH 45255</p>
   <span>
     <img src="/Loyalty360/media/images/pencilIcon.png">
   </span>
-  <a href="/Content-Gallery/Daily-News/Uber-Continues-Pursuit-of-Customer-Loyalty-with-Ne">Uber Continues Pursuit of Customer Loyalty with New Shop Your Way Partnership</a>
+  <a href="/Content-Gallery/Daily-News/New-CMO-at-Kohl-s-Can-Build-Stronger-Customer-Enga">New CMO at Kohl’s Can Build Stronger Customer Engagement</a>
 </li><li class="joinMember-listHead">
   <span>
     <img src="/Loyalty360/media/images/pencilIcon.png">
   </span>
-  <a href="/Content-Gallery/Daily-News/Loyalty-Program-Design-Start-with-the-End-in-Mind">Loyalty Program Design: Start with the End in Mind</a>
+  <a href="/Content-Gallery/Daily-News/Domino-s-Offers-Loyalty-Program-Members-a-Special">Domino’s Offers Loyalty Program Members a Special Appreciation Week</a>
 </li><li class="joinMember-listHead">
   <span>
     <img src="/Loyalty360/media/images/pencilIcon.png">
   </span>
-  <a href="/Webinars/Event/Using-Mobile-Wallet-to-Drive-Loyalty-and-Action">Using Mobile Wallet to Drive Loyalty and Action:  Today’s Opportunity for Brands</a>
+  <a href="/Content-Gallery/Daily-News/Loyalty-Program-Key-to-Memorable-Customer-Experien">Loyalty Program Key to Memorable Customer Experience at Papa John’s</a>
 </li> </ul>
 </div>
 <div class="right-addCon">
@@ -774,7 +799,7 @@ Cincinnati, OH 45255</p>
 </div><div class="ee-contentHead-New">
   The <strong>L<span></span>yalty Pulse</strong>
   <a href="/PulseChart" class="viewBtn">View All</a>
-</div><div id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_pnlControl" class="PollControl">
+</div><div id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_pnlControl" class="PollControl" onkeypress="javascript:return WebForm_FireDefaultButton(event, 'p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_btnVote')">
 	
     <span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lblTitle" class="PollTitle"></span>
     <span id="p_lt_ctl01_pageplaceholder_p_lt_ctl02_StaticHTML_Pulse_widget1_ctl00_viewPoll_lblQuestion" class="PollQuestion">What is the most important way you differentiate your loyalty program from your competitors?</span>
@@ -843,12 +868,12 @@ Cincinnati, OH 45255</p>
 </div>
 </div>
 
-<div class="footer_logo-new"><a class="footerLogo" href="javascript:;"><img alt="footer logo" src="http://image.loyalty360.org/Loyalty360/media/images/footer_logo-new.png"> </a></div>
+<div class="footer_logo-new"><a class="footerLogo" href="javascript:;"><img alt="footer logo" height="51" src="/Loyalty360/media/images/footer_logo-new.png" width="290"> </a></div>
 </div>
 </footer>
 
 <div class="copyrightText-new">
-<div class="wrapperContainer">© Copyright 2016 Loyalty360. All Rights Reserved. <a href="/Privacy">Privacy Policy</a> | <a href="/terms-and-condition">Terms of Use</a> | <a href="/Member-terms">Member Terms</a></div>
+<div class="wrapperContainer">© Copyright 2017 Loyalty360. All Rights Reserved. <a href="/Privacy">Privacy Policy</a> | <a href="/terms-and-condition">Terms of Use</a> | <a href="/Member-terms">Member Terms</a></div>
 </div>
 
 </div>
@@ -863,17 +888,25 @@ Cincinnati, OH 45255</p>
 
 <script type="text/javascript">
 	//<![CDATA[
-WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/Footer-Section/Privacy","DocumentCultureCode":"en-US","UrlReferrer":""}')
+WebServiceCall('/cmsapi/webanalytics', 'LogHit', '{"NodeAliasPath":"/Footer-Section/Privacy","DocumentCultureCode":"en-US","UrlReferrer":"https://www.loyalty360.org/Privacy"}')
 //]]>
 </script>
 <script type="text/javascript">
 //<![CDATA[
+
+var callBackFrameUrl='/WebResource.axd?d=beToSAE3vdsL1QUQUxjWdZIxr2lbKQ-GMkYg-LILeFRKLcF6Gy6u51UnTXtvZqyIz3xfh4flcFOB6BsgRE5MDQ2&t=635792775671809273';
+WebForm_InitCallback();
+theForm.oldSubmit = theForm.submit;
+theForm.submit = WebForm_SaveScrollPositionSubmit;
+
+theForm.oldOnSubmit = theForm.onsubmit;
+theForm.onsubmit = WebForm_SaveScrollPositionOnSubmit;
 Sys.Application.add_init(function() {
     $create(Sys.Extended.UI.TextBoxWatermarkBehavior, {"ClientStateFieldID":"p_lt_ctl00_SmartSearchBox_txtWord_exWatermark_ClientState","WatermarkText":"SEARCH","id":"p_lt_ctl00_SmartSearchBox_txtWord_exWatermark"}, null, null, $get("p_lt_ctl00_SmartSearchBox_txtWord"));
 });
 //]]>
 </script>
-  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="KTpM+U5pMDKp4WvfbFh+hW4CnlIfywuA7QxW6lD14Y0UErsD7M7i8aluLBHaQOilK2t3GXOSWtKsbrDy00KbynGdxNjy0FX2JMM3pdlwV9x5cfJER1Np+UBtQZmnJtQST0NnoizZABXVRF6/AbJx6cfJxxgZfuIngYeu+GcEEGfIqtZNae0IRRC6P87rwRz+qTp9zlI1cE2omevYVgFEHTSVHpBjme+54kYIWALyVVVwjOfINRoya9D3RkokIPvDrxrn8l/XUCVgWtUR9LdRSeGZclJY5CGT9+MnYr4sTG3ZpHUSUBwb7BHOL9PjFvdsH3LIP13Tmdu0hKL0xhArm5O2dA6P6SwTXw3qM8QhFV/6scuL4i/3/x0XeYTAJytnEEhsyHnPiRydsA/zvXplNP2YTJIv6IK1tGq5hSnQtZlOFtV/2VzivvwrIlMKnlcV31IowOBbxrZriu7QY/l9tHDJN1781WycFT0IgolkJbISYgp0Vipqa1VN50oTF/w+x7SL3XEAYGx63N5c0Q78MWjlKfVJqaulH5fmiRcUpNmyE/zeI8JKRws3/CCG/aJjoEaRjQWBIcHXqCokwGuernCOBrUbjmMgnNUwZNDQr9F1Dp7UAdOgpsLiIf3TZxUEFKP5zfaVBSUKywkEw3UT9Iv3UjNUOJb1NEfuIIM+gMgyq9vBfCuH+FbZAi4P/h00VVw1RgmeJL4RTSbXFnxZL+PIsoZ1FEE0vxaLH7Q3Uoab4idr9dfHdJjXLs8u1ia5uzXIPmqLlwNQspsEXEpd8fEU/O4Pgc0oW6wIz3m/whoMZpMIF4CQKyVqLZoYD3o5Zs1z+kHN/BvJQE4ok2gB+gNI9hz3D9qDLzNwjjR16wb15/eNlCw1JWxxEpSCyxHk+ODeI2YBgTesA7JxQCF2GgwlWah/NXCJJLbj2kZahYtFkMhKofvSVYONYeBxdARUDGeHh6d0pX9+b7CpDy65nZQUFnIttDZxlVCts5kHSK1I+fhvLEhDnijpyJO57sIo8ifEeN8I2JOcQDd2mtCS5kxMSEGDopO7h9X4EWfuWrSN7iGK5AWmX+6vOdY6kgIUlf/ZsUh9vQYILP+2jD4tMrG256z0vSudLvPz7EgwwRKPeBRq7a1JS4G2eQrgz+61/EKaMV21LHLKvJuvEfi1YNqB/ly3puLMV1WRHAlMWDLcATHpwjgDXquOp1BaqOzlzg0XCZ76EQhOlp7vzT3vhBAvNFxtXpHsCzJymNOhR9+g8tvDpP46pszN4Py5mF+84Zifx8PNLA5PEnUS2R6XFd9wvyEP9hy80diclpRYFzgcr9rNqfLCFfinXoM/qd90uqIdoEyRe4QGxw+NBIYZX5V0svrM7FZsP9c5x3J3cFC6+fpKDdvxOSPFrfY3hGN57rirYpVl1NtD0oEoKyg742tBsXD2aIJfWIgAPG6fLvlC7KkgDK2ZSyURXQ16ndVaeiKklwODY6hSYYVSO5ZWrmZVRpKImAsk33xMTFIDQ4bHmlnDRAYqLEpFw8A/Xcas">
+  <input type="hidden" name="__VIEWSTATE" id="__VIEWSTATE" value="uOdbLu4yeivbCtjG2Aaw2oMWoNuvHsSIBJC8eqCf1C9QZifK+mVGUJXaoHdYtABLLclxAuy1ezbmbWUn8xHBANlHT5oSz3Zw09q8C65K47ORNnlm04M2p7Lksp7hlYarNacdEvQqxF8/fkO8jM6e+7ex0ACTpOrEQ69LczhPxR62UlWWxePFn4ceWcQHIudukx4h325qYIB3z4lwYvmU9QZF/suTzq8zlC5gA1E5njegrILNSITHuJ4+rNUHDf4HbF3CwAUEBt16QXuiRhe7VKuAYv6RBx6iMJ+fSI4sUe+i1kD+9nedGLgRPWaOSY4UYkjQZzXSpalisZqfPSMFHuTy96IQ5TnukAHLJXQ6bKFLfdzwug4/pz+lkeGtDV/D+qgxbDmnKcj3B1keB+wQvOJ4nM692On/sUWmSj5mKEZUeArFacp/FCgsNbeCKGyHQLc0WTBbZ7JzCVr1XsTVTXKgM/FDioyvhjaUNwc2qyfAeZfiqEL7y0XUtfqSlZfMniRCTalGWqKGTNEhyhF2n8n6zGgXRyaSHJD4ctcRNp/ZsLTds2tp8flKun5NdGTJJhldM+00Id+5UisFXeg1u2u/bbEgIB/kiXfnMUy8HRn0RzBfqoasJEfQahaDfqloAhtJXhJlAAcUSVgN9iVDMUG9e6JXcOPn5cNAV0gVXtOwpQ6HnBkDcr7Wc21ZOBsceHcGmXfRJuoPPl7a/OVsDVpo6GoW7sBUhPIq22Kj3kYwrA2sty/BkccF68WdunPP5oP3JEVMSW0e1rBWzmyV1viHRwrn2CBVCA9Q3vPmiTfVRAuYAIeI/yJoTKTF7xfPROF4sDFteLCJuJ/cmMcYRYWeTr6d2UGkpI6wosUUtbwuRqS/5NauDwA8pSKG8QAJutsPco1TWdCROThhBIgtl13bHkAqz/MxKLh9MflQPll4CuHP2Wch+n0Bh1tjBsRjUhYdJG2d8/qZC42l5DM3y1JmHAMjnJPcWDvma6mqb2S+ujVgVi2qWBDpxBz6xh/E7Z3GO3cmTj+K7UZGewo9xGiKso1bGHqm+lgHn+s0rr3W1v3TPDqpGrIYTucBrfjyf5n169RvBGqCvvg/3mOzcKVT2b5l/leZlOeD0hYLhQxDVjDghgvbTZ3YItITYs5dz0DmubXGAZ9yzyzQhL9GjJ+VRf854fLAs7tAAkJNFLHe3/StsoY754OMBltjQlcgZ2n/YEs257KkFxZ3Arj17GpFLUpGzZHUxjlxwAUUP1sucGf5hVjvRYgR+gH62EYjPnSUp1HNCILyad038mh50yLqnMB+FtHc41sF1SqqAzTLyoC2Z4csTfxlIuv8wq8viey7pg5tbuDyhdVCTYoYLzusbMb6xPbdXqUkVkfiQgjeIebioRpv5g2F3h0lVdJ72ejqprEasj+ndvLFHSbu3KPIjrMqNCbyqhFPUxNTvo71hlpTxh2rOrnfOk8z7Z6azUaa6p5pEVfhEG//GL12A/xrswJJAdT730zYDACZ+Q2i+2c1Aw2dJaVYC2MQ6xrK">
   <script type="text/javascript"> 
       //<![CDATA[
       if (window.WebForm_InitCallback) { 
@@ -884,6 +917,6 @@ Sys.Application.add_init(function() {
       //]]>
     </script>
   </form>
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
+
 
 </body></html>
