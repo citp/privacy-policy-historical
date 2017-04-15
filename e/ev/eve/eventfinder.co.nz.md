@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the eventfinder.co.nz privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122133431id_/http%3A//www.eventfinda.co.nz/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the eventfinder.co.nz privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415151551id_/https%3A//www.eventfinda.co.nz/about/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Eventfinda
 
