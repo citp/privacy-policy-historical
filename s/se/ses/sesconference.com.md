@@ -1,11 +1,11 @@
-> *The following text is extracted and transformed from the sesconference.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231131535id_/http%3A//www.clickz.com/static/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sesconference.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415115339id_/https%3A//www.clickz.com/static/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | ClickZ
 
 **1\. INTRODUCTION**  
 ClickZ Group Limited and all companies within its Group (“ClickZ Group” or “We”) are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](https://web.archive.org/web/20161231131535id_/http%3A/static/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
+This policy (together with our [terms of use](https://web.archive.org/web/20170415115339id_/https%3A/static/terms-conditions) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it.
 
 For the purpose of the Data Protection Act 1998 (“the Act”), the data controller is ClickZ Group Limited of 1 Hammersmith Broadway, London, W6 9DL.
 
@@ -88,7 +88,7 @@ We may disclose your personal information to any member of our group, which mean
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If ClickZ Group or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
   * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our  
-View our [terms and conditions of use](https://web.archive.org/web/20161231131535id_/http%3A/static/terms-conditions/) and other agreements; or to protect the rights, property, or safety of ClickZ Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+View our [terms and conditions of use](https://web.archive.org/web/20170415115339id_/https%3A/static/terms-conditions/) and other agreements; or to protect the rights, property, or safety of ClickZ Group, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
