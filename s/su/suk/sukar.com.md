@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2016-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161123113540id_/http%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the sukar.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415143027id_/https%3A//uae.souq.com/ae-en/privacy-policy/c) for the most accurate reproduction.*
 
 # Souq.com | Privacy policy
 
@@ -10,14 +10,14 @@ By "personal information" we mean information that can be associated with a spec
 By providing us with your personal information you expressly consent to us processing your personal information in accordance with the terms of our privacy policy.
   3. We may amend our privacy policy at any time by posting a revised version on the Site.  
 The revised version will be effective at the time we post it and, following such posting, your continued use of the Site will constitute your express consent to us continuing to process your personal information in accordance with the terms of our revised privacy policy.
-  4. We last amended our privacy policy on 4 November 2009 and we would encourage you to check the Site regularly for the announcement of any amendments to our privacy policy.
+  4. We would encourage you to check the Site regularly for the announcement of any amendments to our privacy policy.
 
 
 
 **Our privacy policy covers the following topics:**
 
   1. our collection of your personal information
-  2. our use of your personal informationy.
+  2. our use of your personal information
   3. your use of your and other users’ personal information
   4. accessing, reviewing and amending your personal information
   5. third party website links
@@ -34,7 +34,7 @@ The revised version will be effective at the time we post it and, following such
 Additionally, in order for us to verify your identity, we may need to request from you valid proof of identification (e.g. in the form of a copy of your passport, resident’s visa or permit, national ID card and/or driver’s license).
   2. We will also need to collect selected financial information from you, such as your credit card and/or bank account details.
   3. You will need to input this financial information into the "My Account" section of the Site.   
-We use this financial information for billing purposes and for the fulfilment of your orders.   
+We use this financial information for billing purposes and for the fulfillment of your orders.   
 Following your registration on the Site, you should not post any personal information (including any financial information) anywhere on the Site other than on the My Account section of the Site.   
 Restricting the posting of personal information to the My Account section of the Site protects you from the possibility of fraud or identity theft. The posting by you of any personal information anywhere on the Site other than on the My Account section of the Site may lead to the suspension of your use of the Site.
   4. We will collect transactional information based on your activities using the Site (such as buying and selling items and participating in auctions), This transactional information is used solely in relation to the transactions you undertake on the Site and for no other reasons.
@@ -55,7 +55,6 @@ Where we aggregate personal information for statistical purposes, such aggregate
   2. Though we make every effort to preserve your privacy, we may need to disclose your personal information to law enforcement agencies, government agencies or other third parties where we are compelled so to do by court order or similar legal procedure; where we are required to disclose your personal information to comply with law; where we are cooperating with an ongoing law enforcement investigation or where we have a good faith belief that our disclosure of your personal information is necessary to prevent physical harm or financial loss, to report suspected illegal activity or to investigate a possible violation of our User Agreement.
   3. In the event of a sale of Souq.com FZ-LLC, any of its affiliates and subsidiaries or any related business assets, your personal information may be disclosed to any potential purchaser for the purposes of the continued provision of the Site or otherwise in relation to any such sale.  
 We may share your personal information with our other group companies so as to provide joint content and services to you, to help detect illegal acts and/or the violations of our policies.   
-We may also share your personal information with other Site members as part of an auction or "Buy Now" purchase on the Site. For example, at the end of a successful auction on the Site we will provide the seller and the successful buyer with each other’s contact information.  
 This contact information will be the personal information provided by you to us on registration and, as a result, should always be kept up-to-date.
   4. Additionally, information relating to items you are buying or selling or auctions you are participating in be displayed on the Site. This information can include details of your user ID, feedback ratings and associated comments relating to your use of the Site. Otherwise, we will only disclose your personal information to a third party with your express permission.
   5. We do not sell or rent any of your personal information to third parties in the normal course of doing business and will only share your personal information with third parties in accordance with this privacy policy.
@@ -65,7 +64,7 @@ If, at any time, you decide that you do not wish to receive any such emails, you
 
 
 
-**Your use of your and other users’ personal information**
+**Your use of your and other users’ personal information.**
 
   1. Site members may need to share personal information (including financial information) with each other to complete transactions on the Site. You should respect, at all times, the privacy of other Site members.
   2. We cannot guarantee the privacy of your personal information when you share personal information with other Site members so you should always seek information on the privacy and security policies of any other Site members with whom you are transacting prior to sharing any of your personal information with another Site member.
@@ -101,8 +100,8 @@ We do not tolerate spam. To report Site related spam or spoof emails, please for
 
 **Protecting your personal information**
 
-  1. We hold your personal information on servers located in the United Kingdom and the United States.
-  2. By providing us with personal information, you consent to the transfer of your personal information to, and its storage on, our servers located in the United Kingdom and/or the United States. We take every precaution to safeguard all your personal information from unauthorised access, use or disclosure.
+  1. We hold your personal information on servers located in Ireland/Dublin and the United States.
+  2. By providing us with personal information, you consent to the transfer of your personal information to, and its storage on, our servers located in the Ireland/Dublin and the United States. We take every precaution to safeguard all your personal information from unauthorized access, use or disclosure.
   3. All personal information is encrypted.   
 However, the Internet is not a secure medium and we cannot guarantee the privacy of your personal information.
   4. You must enter your username and password each time you want to access your account or make transactions on the Site.
@@ -116,4 +115,6 @@ However, the Internet is not a secure medium and we cannot guarantee the privacy
 
 If you have questions or concerns about our collection and use of your personal information, please contact our customer support team at the "Customer Support" link at the top of any Site webpage. 
 
-Souq.com FZ LLC, Dubai Internet City, Thuraya 2 Tower, Office 1902 Dubai, United Arab Emirates 
+Souq.com FZ LLC, Dubai Internet City, Aurora Tower, Office 1901 Dubai, United Arab Emirates 
+
+**Last update: February 9th, 2017**
