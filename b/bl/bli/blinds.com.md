@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the blinds.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028221846id_/https%3A//www.blinds.com/infopage/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blinds.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415052328id_/https%3A//www.blinds.com/infopage/privacy-policy) for the most accurate reproduction.*
 
 # Blinds.com order policies, terms, conditions
 
@@ -17,5 +17,7 @@ We use cookies and web beacons to deliver our web content, improve and measure t
 We are committed to the protection of the personally identifiable information that you share with us. We utilize a combination of physical and electronic security technologies, procedures, and organizational measures to help protect your personally identifiable information from unauthorized access, use or disclosure. When we transfer sensitive personal information (for example, credit card information) over the Internet, we protect it using Secure Sockets Layer (SSL) encryption technology. While we strive to safeguard your personal information once we receive it, no transmission of data over the Internet or any other public network can be guaranteed to be 100% secure and, accordingly, we cannot guarantee or warrant the security of any information you disclose or transmit to us. 
 
 If you are a California resident and would like a copy of our notice describing what categories of personal information we share with third parties or corporate affiliates for their direct marketing purposes and the names and addresses of the third parties and affiliates that received your information in the past year, please submit a written request to the following address: Global Custom Commerce at 10255 Richmond Ave Ste 300, Houston TX 77042; attn: California Privacy. Please allow up to 30 days for us to process your request. We are able to respond to one such a request per year. 
+
+To unsubscribe from Blinds.com promotional emails, click on the unsubscribe link in the footer of any email or contact us at [subscription@blinds.com](mailto:subscription@blinds.com) to be removed from the mailing list.
 
 Effective Date: January 1, 2013
