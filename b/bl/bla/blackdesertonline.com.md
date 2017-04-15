@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the blackdesertonline.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506123905id_/https%3A//www.blackdesertonline.com/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the blackdesertonline.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415111540id_/https%3A//blackdesertonline.com/legal/privacy-policy) for the most accurate reproduction.*
 
 # Black Desert Online, the next gen MMORPG
 
-We at Daum Games Europe B.V., a Dutch company registered with the Dutch Trade register under n° 62780476, having its registered office at Stroombaan 12, 1181 VX Amstelveen, Netherlands (hereinafter, “Daum Games Europe” or “we”), are committed to provide our players with transparency especially with regards to their personal data. The present document (our “Privacy Policy”) aims at providing you with simple and accurate information on the personal data we collect, how we collect it and for what purposes. Your rights with regards to the collected personal data are also stated in our Privacy Policy. If you have any question or comment, you can contact us directly at the following email address: support@blackdesert.zendesk.com 
+We at Kakao Games Europe B.V., a Dutch company registered with the Dutch Trade register under n° 62780476, having its registered office at Stroombaan 12, 1181 VX Amstelveen, Netherlands (hereinafter, “Kakao Games Europe” or “we”), are committed to provide our players with transparency especially with regards to their personal data. The present document (our “Privacy Policy”) aims at providing you with simple and accurate information on the personal data we collect, how we collect it and for what purposes. Your rights with regards to the collected personal data are also stated in our Privacy Policy. If you have any question or comment, you can contact us directly at the following email address: support@blackdesert.zendesk.com 
 
 **What do you mean by “personal data”?**
 
 In application of article 2 of [Directive 95/46/EC](http://eur-lex.europa.eu/legal-content/en/ALL/?uri=CELEX:31995L0046), personal data means any information related to you that would allow to directly or indirectly identify you. 
 
-**What personal data does Daum Games Europe collect and process when I browse on the blackdesertonline.com website?**
+**What personal data does Kakao Games Europe collect and process when I browse on the blackdesertonline.com website?**
 
 **Google Analytics**
 
-Purpose: Google Analytics allow us to measure the audience on our website. The data is collected by Google and Daum Games Europe. 
+Purpose: Google Analytics allow us to measure the audience on our website. The data is collected by Google and Kakao Games Europe. 
 
 Consent: When you access our website, a banner is displayed informing you which cookies will be installed if you continue to browse on our website. By either continuing to browse or clicking “Got it!” on the banner, you give us your consent to the installation of Google Analytics cookies on your browser. Accessing the Privacy Policy from the banner will not trigger the use of Google Analytics cookies 
 
@@ -36,7 +36,7 @@ Expiration: Facebook Pixel is not a cookie but a tracking JavaScript code in the
 
 Purpose: When you click on one of our commercial banners located on third party’s website directing you to our website, we use a tracking code that allows us to monitor the accounts created and the licenses sold to people who clicked on that specific commercial banner. This allows us to pay our advertisers based on the number of copies of the game sold to users coming from their website(s).< /P>
 
-Consent: Since commercial banners are located on third parties’ websites, we have no control over them, on the information you received regarding cookies and on the application of your right to oppose to such data collection. Daum Games will however use its best efforts to ensure that third parties obtain your consent on Daum Games Europe’s behalf when one of our commercial banner is placed on their website(s). 
+Consent: Since commercial banners are located on third parties’ websites, we have no control over them, on the information you received regarding cookies and on the application of your right to oppose to such data collection. Kakao Games will however use its best efforts to ensure that third parties obtain your consent on Kakao Games Europe’s behalf when one of our commercial banner is placed on their website(s). 
 
 Data collected and processed: 
 
@@ -79,7 +79,7 @@ Duration:
 
 You can find how to do remove cookies from your computer in our knowledge base article: [Removing Cookies](https://blackdesert.zendesk.com/hc/en-us/articles/205696422)
 
-**What Personal data does Daum Games Europe collect and process when I create an account?**
+**What Personal data does Kakao Games Europe collect and process when I create an account?**
 
 When you decide to create an account on our website blackdesertonline.com, you are required to provide the following information: 
 
@@ -104,7 +104,7 @@ You can unsubscribe from our mailing list at any time by clicking on the link pr
 
 We may send you, from time to time, emails informing you about any major change we made to our Privacy Policy and/or our Terms of Service. You can stop receiving such emails by contacting customer support and requesting the deletion of your account. 
 
-**What personal data does Daum Games Europe collect and process when I play Black Desert Online?**
+**What personal data does Kakao Games Europe collect and process when I play Black Desert Online?**
 
 In order to connect to the game, you will be prompted to enter the username you registered on our website and your password. 
 
@@ -131,7 +131,7 @@ All personal data collected while you play Black Desert Online will be kept a du
 
 We also keep a copy of all in-game chat logs for a duration of 24 months. 
 
-**What personal data does Daum Games Europe collect and process when I buy a license for Black Desert Online or “Pearls” for the virtual items shop?**
+**What personal data does Kakao Games Europe collect and process when I buy a license for Black Desert Online or “Pearls” for the virtual items shop?**
 
 Your billing information allow us to properly process your order, provide you customer support if required, comply with taxes and maintain business records. We require billing information for any transaction you perform on our website, for instance if you decide to acquire: 
 
@@ -155,13 +155,13 @@ The following personal data are collected for billing purposes:
 
 Your billing information are collected and processed by third parties who provide us billing services (Global Collect and Paypal). 
 
-Daum Games Europe will keep a copy of your billing data as well as the API key for the relevant payment method. 
+Kakao Games Europe will keep a copy of your billing data as well as the API key for the relevant payment method. 
 
 Duration: we keep the collected data for the duration required by law for billing documents. 
 
 **Who do you share my personal data with? Where are you storing my data?**
 
-By default, all the personal data we collected from you can only be accessed by duly authorized employees of Daum Games Europe for the purposes mentioned in our privacy policy. 
+By default, all the personal data we collected from you can only be accessed by duly authorized employees of Kakao Games Europe for the purposes mentioned in our privacy policy. 
 
 We may share your personal data with: 
 
@@ -186,6 +186,6 @@ We may be required to change our Privacy Policy from time to time in order to ke
 
 In accordance with the Dutch Data Protection Act (“ _Wet bescherming persoonsgegevens_ ”), the collection and processing of personal data on our website and on Black Desert Online has been declared to the Dutch Data Protection Authority ( _College Bescherming Persoonsgegevens_ ). 
 
-In application of articles 35.1 and 36.1 of the Dutch Data Protection Act, you can request the communication and, if applicable, the correction or suppression of your personal data processed and stored by Daum Games Europe by contacting us at the following email address: support@blackdesert.zendesk.com 
+In application of articles 35.1 and 36.1 of the Dutch Data Protection Act, you can request the communication and, if applicable, the correction or suppression of your personal data processed and stored by Kakao Games Europe by contacting us at the following email address: support@blackdesert.zendesk.com 
 
 Effective Date: 8thof December 2015 
