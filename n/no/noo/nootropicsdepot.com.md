@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120065359id_/http%3A//nootropicsdepot.com/privacy-policy-1) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nootropicsdepot.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415051728id_/http%3A//nootropicsdepot.com/privacy-policy-1) for the most accurate reproduction.*
 
 # Contact Us - Privacy Policy - Nootropics Depot
 
@@ -27,6 +27,20 @@ In each of the instances above, we typically ask for your name, e-mail address, 
 
 To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online.
 
+### BROWSE OUR PRODUCTS
+
+[](http://nootropicsdepot.com/adaptogens/ "Buy Adaptogen Supplements") | [](http://nootropicsdepot.com/antioxidants/ "Buy Antioxidant Supplements") | [](http://nootropicsdepot.com/cholinergics/ "Buy Cholinergic Supplements ") | [](http://nootropicsdepot.com/energy/) | [](http://nootropicsdepot.com/fish-oil-capsules/) | [](http://nootropicsdepot.com/mitochondrial-support/ "Buy Mitochondrial Support Supplements") | [](http://nootropicsdepot.com/mushroom-extracts/ "Buy Whole Fruiting Body Medicinal Mushroom Extracts") | [](http://nootropicsdepot.com/nootropics/ "Browse Nootropic Powders and Capsules") | [](http://nootropicsdepot.com/racetam-capsules/ "Buy Nootropic Capsules") | [](http://nootropicsdepot.com/sample-packs/)  
+---|---|---|---|---|---|---|---|---|---  
+[**Adaptogens**](http://nootropicsdepot.com/adaptogens/ "Buy Adaptogen Supplements") | [**Antioxidants**](http://nootropicsdepot.com/antioxidants/ "Buy Antioxidant Supplements") | **[Cholinergics](http://nootropicsdepot.com/cholinergics/ "Buy Cholinergic Supplements")  
+** | ****[Energy](http://nootropicsdepot.com/energy/ "Buy Energy Supplements")  
+**** | [**Fish Oil**](http://nootropicsdepot.com/fish-oil-capsules/ "Buy Fish Oil Softgel Capsules") | [**Mitochondrial  
+Support**](http://nootropicsdepot.com/mitochondrial-support/ "Buy Mitochondrial Support Supplements") | [**Mushrooms**](http://nootropicsdepot.com/mushroom-extracts/ "Buy Whole Fruiting Body Medicinal Mushroom Extracts") | [**Nootropics**](http://nootropicsdepot.com/nootropics/ "Browse Nootropic Powders and Capsules") | **[**Racetam  
+Capsules**](http://nootropicsdepot.com/racetam-capsules/)** | ****[Sample  
+Packs](http://nootropicsdepot.com/sample-packs/ "Buy Nootropic Sample Packs")****  
+  
+**Browse More:  [Fitness](http://nootropicsdepot.com/fitness/ "Buy Fitness Supplements")  |  [Metabolic Support](http://nootropicsdepot.com/metabolism/ "Buy Metabolic Support Supplements")  |  [Natural Plant Extracts](http://nootropicsdepot.com/natural-extracts/ "Buy Natural Plant Extract Supplements")  |  [Natural Nootropic Capsules](http://nootropicsdepot.com/natural-capsules/ "Buy Natural Nootropic Capsules")  | **   **[Patented Extracts](http://nootropicsdepot.com/brands/ "Buy Patented, Clinically Tested Natural Plant Extracts")  
+**
+
 #### In-House Purity Testing
 
 Did you know we have an in-house testing lab with equipment from Thermo Scientific and Agilent Technologies to ensure product purity?
@@ -50,5 +64,6 @@ Be the first to learn about new product releases, exclusive sales and special pr
   
 
 
-All prices are in USD. © 2016 Nootropics Depot   
+  
+All prices are in USD. © 2017 Nootropics Depot   
 
