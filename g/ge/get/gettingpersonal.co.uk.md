@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113003116id_/https%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the gettingpersonal.co.uk privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415025129id_/https%3A//www.gettingpersonal.co.uk/privacypolicy.htm) for the most accurate reproduction.*
 
 # Privacy Policy | GettingPersonal.co.uk
 
@@ -80,6 +80,8 @@ Your use of the Website is also governed by the Website's general [Terms and Con
 (e) if we have a duty pursuant to the law to do so or if the law allows us to do so. 
 
 2.2 We refer above to the fact that we may carry out credit reference agency searches to obtain information about you. These agencies record those searches. In addition to the purposes listed above, we may also share information about you and the conduct of your account with credit reference agencies, other lenders and relevant third parties including our legal advisors and debt recovery agencies.
+
+2.3 We may also share your information with Documobi, a partner working with us on a trial of video messaging.  This is a free trial for selected customers only and any data shared is purely for the delivery of this service and will not be retained thereafter.
 
  **3 Crime prevention**
 
