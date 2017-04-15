@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the urbanintellectuals.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119195140id_/http%3A//urbanintellectuals.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the urbanintellectuals.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415033559id_/https%3A//urbanintellectuals.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Urban Intellectuals
 
@@ -126,5 +126,3 @@ United States
 info[@] Urbanintellectuals.com
 
 Last Edited on 2015-12-04
-
-### Use Facebook to Comment on this Post
