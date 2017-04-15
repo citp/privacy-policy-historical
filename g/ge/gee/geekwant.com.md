@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the geekwant.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119201244id_/http%3A//geekwant.com/privacy%2520policy/362/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the geekwant.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415134522id_/http%3A//geekwant.com/privacy%2520policy/362/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
