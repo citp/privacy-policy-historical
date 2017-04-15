@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the e-file.com privacy policy that was archived on 2015-03-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150330080209id_/https%3A//www.e-file.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the e-file.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415071416id_/https%3A//www.e-file.com/privacy-policy.php) for the most accurate reproduction.*
 
-# Privacy Policy
+# Privacy Policy | E-file.com
 
 The privacy of your personal information is very important to us. We have gone to great lengths to ensure that any information you give us is safe.
 
@@ -17,3 +17,7 @@ This website also collects **non-identifiable** visitor information. This data i
 The information recorded in these may include the internet browser being used, IP address and service provider, a time stamp and the visited web pages. If this practice concerns a user they can chose to disable "cookies" and tracking within their internet browser. 
 
 If during your visit to this site you create an account and in doing so provide us with your email address, we promise to only send communications to you in regards to your visit and the products/service provided by E-file.com.
+
+## Ready to start your tax filing now?
+
+[Start Now](https://e-file.com/start-filing.php)
