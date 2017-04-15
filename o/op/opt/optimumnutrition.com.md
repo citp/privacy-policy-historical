@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the optimumnutrition.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230154400id_/http%3A//www.optimumnutrition.com/en_US/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the optimumnutrition.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415145942id_/http%3A//www.optimumnutrition.com/en_US/privacy) for the most accurate reproduction.*
 
 # Optimum Nutrition | PRIVACY POLICY
 
