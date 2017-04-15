@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the loyalty360.org privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216015349id_/http%3A//loyalty360.org/Privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the loyalty360.org privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415130642id_/https%3A//www.loyalty360.org/Privacy) for the most accurate reproduction.*
 
 # Loyalty360 - The Association for Customer Loyalty
 
