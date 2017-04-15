@@ -1,20 +1,20 @@
-> *The following text is extracted and transformed from the globalwitness.org privacy policy that was archived on 2016-10-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161015031455id_/https%3A//www.globalwitness.org/en/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalwitness.org privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415043035id_/https%3A//www.globalwitness.org/en/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Global Witness
 
 Introduction
 
-This is the privacy policy for http://globalwitness.org ( **Site** ).  The Site is operated by Global Witness ( **we** , **us** and **our** ).  For the purposes of the UK Data Protection Act 1998, we are the data controller.
+This is the privacy policy for http://globalwitness.org ( **Site** ).  The Site is operated by Global Witness ( **we** , **us** and **our** ). Global Witness is registered with the Information Commissioner for the United Kingdom. Its processing and retention of personal information is governed by the Data Protection Act 1998.  
 
 We are committed to protecting your privacy online.  We appreciate that you do not want the personal information you provide to us distributed indiscriminately and here we explain how we collect information, what we do with it and what controls you have.
 
 By using the Site, you consent to the collection and use of information in accordance with this privacy policy.
 
-We reserve the right to change this privacy policy from time to time by changing it on the Site. This privacy policy was last updated on 16 April 2015.
+We reserve the right to change this privacy policy from time to time by changing it on the Site. This privacy policy was last updated on 21 December 2016.
 
- **Information we may collect from you**
+We may collect information about you by email, when you fill in forms on the website, by telephone or by post.
 
-If you visit the Site, we may collect and process the following information about you:
+When you visit the Site, we may collect and process the following information about you:
 
   * information (such as your name and email address) that you provide by completing forms on the Site, such as when you register for our newsletter;  
 
@@ -31,9 +31,7 @@ When you visit the Site, we may automatically collect additional information abo
 
  **Cookies**
 
-Cookies are small pieces of information which may be issued to your computer when you visit a website and which store and sometimes track information about your use of the Site.
-
-Our Site does not currently issue any cookies to users of the Site. If that changes in the future, this section of this privacy policy will be updated accordingly. ****
+Please click here for information on our [cookie policy](https://web.archive.org/en/privacy-policy/cookie-policy/).
 
  **Uses made of your information**
 
@@ -49,12 +47,21 @@ We will use the information you provide to:
 
   * carry out research on our users' demographics;  
 
-  * send you information we think you may find useful or which you have requested from us, including information about our products and services provided you have indicated that you do not object to being contacted for these purposes.   
+  * send you information we think you may find useful or which you have requested from us, including information about our products and services provided you have indicated that you do not object to being contacted for these purposes;   
+
+  * We may ask what you are interested in about our work, in order to keep you up to date;  
+
+  * We may use your name and address to contact you by telephone;  
+
+  * We may use other publicly available information to ensure that we hold relevant information about you.  
 
 
 
 
-You can tell us not to contact you with information regarding our services either at the point such information is collected on the Site (by checking or un-checking (as directed) the relevant box) or, where you do not wish us to continue to use your information in this way, by following the unsubscribe instructions on any communications sent to you.  You can also exercise the right at any time by contacting us using the Contacting us details at the end of this privacy policy.
+You can tell us not to contact you with information regarding our services either at the point such information is collected on the Site (by checking or un-checking (as directed) the relevant box) or, where you do not wish us to continue to use your information in this way, by following the unsubscribe instructions on any communications sent to you. You can also ask us to amend or delete the information we hold about you. Our contact details are set out at the end of this policy.  
+
+You can find out more about your rights under Data Protection Act 1998 [here](https://ico.org.uk/).  
+
 
  **Information sharing**
 
@@ -88,7 +95,7 @@ It is advisable to close your browser when you have finished your user session t
 
  **Storage of your information**
 
-Information that you submit via the Site will only be stored for as long as we legitimately need it or as required by the law.  This information is sent to and stored on secure servers located in the United Kingdom.  This is necessary in order to process the information.  Information submitted by you may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above (see Information sharing), which may be situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA.  The countries concerned may not have similar data protection laws to the EEA.  Where we transfer your information we will take all reasonable steps to ensure that your privacy rights continue to be protected. 
+Information that you submit via the Site will only be stored for as long as we legitimately need it or as required by the law.  This information is sent to and stored on secure servers.  This is necessary in order to process the information.  Information submitted by you may be transferred by us to our other offices and/or to the third parties mentioned in the circumstances described above (see Information sharing), which may be situated outside the European Economic Area (EEA) and may be processed by staff operating outside the EEA.  The countries concerned may not have similar data protection laws to the EEA.  Where we transfer your information we will take all reasonable steps to ensure that your privacy rights continue to be protected. 
 
 **Your rights**
 
@@ -98,4 +105,4 @@ You have a legal right under the Data Protection Act 1998 to a copy of certain i
 
 Please submit any questions, concerns or comments you have about this privacy policy or any requests concerning your personal data by email to mail@globalwitness.org or write to us at:
 
-Global Witness, Lloyds Chamber, 1 Portsoken Street, London E1 8BT.
+Global Witness, Lloyds Chambers, 1 Portsoken Street, London E1 8BT.
