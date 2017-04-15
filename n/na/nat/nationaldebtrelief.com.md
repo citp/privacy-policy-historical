@@ -1,18 +1,20 @@
-> *The following text is extracted and transformed from the nationaldebtrelief.com privacy policy that was archived on 2015-09-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150912075038id_/https%3A//www.nationaldebtrelief.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nationaldebtrelief.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415095523id_/https%3A//www.nationaldebtrelief.com/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-Last updated: August 5, 2015
+Last updated: June 20, 2016
 
 Please note that all calls with the company may be recorded or monitored for quality assurance and training purposes.
 
-## Verified by TRUSTe: May 26, 20151
+## Verified by TRUSTe: June 20, 20161
+
+[](https://privacy.truste.com/privacy-seal/validation?rid=e0c88ae4-c80c-4c6c-9e69-ba3500ae3c5f "TRUSTe Privacy Certification")
 
 This Online Privacy Policy applies to www.nationaldebtrelief.com, owned and operated by National Debt Relief, LLC (sometimes referred to as “Company”), and any Company affiliate or subsidiary online interface that links to this Policy, (each, a “Site,” and collectively, the “Sites”). This Policy describes how National Debt Relief, LLC collects and uses the personal information you provide. It also describes the choices available to you regarding the use of, your access to, and how to update and correct your personal information.
 
 **Agreement to this Policy** : By using this Site you consent to this Online Privacy Policy, including your consent to our use and disclosure of information about you in the manner described herein.
 
-1 The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected through software downloaded from the website.
+1 The TRUSTe program covers only information that is collected through this website, and does not cover information that may be collected behind the login and through software downloaded from the website.
 
 In order to view our relationship with TRUSTe please visit the validation page visible by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at <https://feedback-form.truste.com/watchdog/request>.
 
@@ -69,7 +71,7 @@ We use this information, which does not usually identify individual users, to an
 
 We may record your IP addresses when you place an order through our site in order to detect and prevent fraud.
 
-We use Local Shared Objects, such as Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use Flash cookies and HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. To manage Flash cookies, please click here: <http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html>
+We use Local Shared Objects, such as Local Storage, such as HTML5, to store content information and preferences. Third parties with whom we partner to provide certain features on our website or to display advertising based upon your web browsing activity also use HTML5 to collect and store information. Various browsers may offer their own management tools for removing HTML5. 
 
 We partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking here <http://preferences-mgr.truste.com/> (or if located in the European Union click here). Please note this does not opt you out of being served ads. You will continue to receive generic ads.
 
@@ -86,6 +88,8 @@ We partner with a third party to either display advertising on our website or to
 **Security** The security of your personal information is important to us. We follow generally accepted industry standards to protect the personal information submitted to us, both during transmission and once we receive it. No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
 
 If you have any questions about security on our website, you can contact us at [service@nationaldebtrelief.com](mailto:service@nationaldebtrelief.com).
+
+**Frames** Some of our pages utilize framing techniques to serve content to/from our partners while preserving the look and feel of our website. Please be aware that you are providing your personal information to these third parties and not to National Debt Relief, LLC.
 
 **California Do Not Track Disclosures**
 
@@ -127,4 +131,4 @@ New York NY 10004
 [service@nationaldebtrelief.com ](mailto:info@nationaldebtrelief.com)  
 888-703-4948
 
-**Please print and retain a copy of this privacy policy for your records** **.**
+**Please print and retain a copy of this privacy policy for your records.**
