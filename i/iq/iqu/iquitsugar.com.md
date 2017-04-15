@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iquitsugar.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113034455id_/https%3A//iquitsugar.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iquitsugar.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415160253id_/https%3A//iquitsugar.com/privacy-policy) for the most accurate reproduction.*
 
 # I Quit Sugar Privacy Policy - I Quit Sugar
 
@@ -63,7 +63,7 @@ When creating remarketing lists, we can’t and don’t use any sensitive inform
 
 
 
-You can opt out of Google Analytics for display advertising and customise Google Display ads using the Ads Preferences Manager by visiting [www.google.com/settings/ads](https://web.archive.org/web/20161113034455id_/https://iquitsugar.com/privacy-policy/www.google.com/settings/ads).
+You can opt out of Google Analytics for display advertising and customise Google Display ads using the Ads Preferences Manager by visiting [www.google.com/settings/ads](https://web.archive.org/web/20170415160253id_/https://iquitsugar.com/privacy-policy/www.google.com/settings/ads).
 
 _Kissmetrics_
 
