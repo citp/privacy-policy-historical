@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the quickappninja.com privacy policy that was archived on 2016-04-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160408165919id_/https%3A//quickappninja.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quickappninja.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415232048id_/http%3A//quickappninja.com/privacy-policy) for the most accurate reproduction.*
 
-# QuickApp Ninja: Privacy Policy
+# QuickApp Ninja - Privacy Policy
 
 ## Privacy Policy
 
