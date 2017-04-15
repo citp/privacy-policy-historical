@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the techfabia.com privacy policy that was archived on 2016-08-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160805160113id_/http%3A//www.techfabia.com/p/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the techfabia.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415130627id_/http%3A//www.techfabia.com/p/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | TechFabia - A Tech Blog
 
