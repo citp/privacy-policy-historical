@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the onefc.com privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121061914id_/http%3A//onefc.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the onefc.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415092903id_/https%3A//onefc.com/privacy-policy) for the most accurate reproduction.*
 
-# ONE Championship - Privacy Policy
+# Privacy Policy - ONE Championship
 
 Thank you for visiting ONE Championship Website. Your privacy is important to us. We will not collect any information from you for use on this website or any other related website unless you choose to provide your information to us.
 
