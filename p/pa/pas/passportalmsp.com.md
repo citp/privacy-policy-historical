@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the passportalmsp.com privacy policy that was archived on 2016-12-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161226195849id_/http%3A//www.passportalmsp.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the passportalmsp.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415075406id_/https%3A//www.passportalmsp.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy — Passportal
+# Privacy Policy
 
-## Passportal Privacy Policy.
+* * *
 
- **Your Privacy**
+**Your Privacy**
 
 We try to know as little as possible about you.
 
@@ -14,7 +14,7 @@ Your info is not sold, traded or disseminated.
 
 Your email is used for emergencies, notifications and support only.
 
- **Your Rights**
+**Your Rights**
 
 Change the email associated with your account.
 
@@ -24,7 +24,7 @@ Ask us what information we have on file for you.
 
 Request that we delete all traces of you in our systems, including support emails.
 
- **Welcome!**
+**Welcome!**
 
 This web site, Passportal, is administered by Passportal Inc. We appreciate you visiting our site and considering our service. Passportal recognizes the importance of information by which you can be identified, such as your name, address, or e-mail address.
 
@@ -34,49 +34,49 @@ This Privacy Policy sets out the purposes of Passportal's data handling in respe
 
 By using the Passportal service and this website, you consent to the information practices described in this policy. Keep in mind that your use of the Passportal service is also subject to, and controlled by, the Passportal Terms and Conditions and the Passportal User Agreement.
 
- **Data Handler**
+**Data Handler**
 
-The Data Handler and Contact Person for Data Protection is Colin Knox. Should you have any questions, recommendations, or complaints about this Privacy Policy or our data handling activities, please contact us.
+The Data Handler and Contact Person for Data Protection is Passportal. Should you have any questions, recommendations, or complaints about this Privacy Policy or our data handling activities, please contact us.
 
- _via e-mail at:_[ _info@passportalmsp.com_](mailto:info@passportalmsp.com) __
+_via e-mail at:_[ _info@passportalmsp.com_](mailto:info@passportalmsp.com)
 
 **Data Handling**
 
 Data handling associated with customer support for the Passportal website and service is located at the Data Handler’s address and is subject to Canadian Laws. The data centers where Passportal's servers are housed are located in Canada and the United States of America, and are subject to respective Federal Laws.
 
- **Rights of the Data Subject**
+**Rights of the Data Subject**
 
 You can request a summary of the information that we have for you by contacting us at [info@passportalmsp.com](mailto:info@passportalmsp.com).  If you find any errors, we will correct them in a timely manner.
 
 These are your rights as set out by paragraph 12 of the Canadian Privacy Act:
 
- _"_ ** _12._** _(1) Subject to this Act, every individual who is a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the_[Immigration and Refugee Protection Act](http://laws-lois.justice.gc.ca/eng/acts/I-2.5) _has a right to and shall, on request, be given access to_
+_"_ ** _12._** _(1) Subject to this Act, every individual who is a Canadian citizen or a permanent resident within the meaning of subsection 2(1) of the_[Immigration and Refugee Protection Act](http://laws-lois.justice.gc.ca/eng/acts/I-2.5) _has a right to and shall, on request, be given access to_
 
- _(_ a _) any personal information about the individual contained in a personal information bank; and_
+_(_ a _) any personal information about the individual contained in a personal information bank; and_
 
- _(_ b _) any other personal information about the individual under the control of a government institution with respect to which the individual is able to provide sufficiently specific information on the location of the information as to render it reasonably retrievable by the government institution._
+_(_ b _) any other personal information about the individual under the control of a government institution with respect to which the individual is able to provide sufficiently specific information on the location of the information as to render it reasonably retrievable by the government institution._
 
- _Other rights relating to personal information_
+_Other rights relating to personal information_
 
- _(2) Every individual who is given access under paragraph (1)(_ a _) to personal information that has been used, is being used or is available for use for an administrative purpose is entitled to_
+_(2) Every individual who is given access under paragraph (1)(_ a _) to personal information that has been used, is being used or is available for use for an administrative purpose is entitled to_
 
- _(_ a _) request correction of the personal information where the individual believes there is an error or omission therein;_
+_(_ a _) request correction of the personal information where the individual believes there is an error or omission therein;_
 
- _(_ b _) require that a notation be attached to the information reflecting any correction requested but not made; and_
+_(_ b _) require that a notation be attached to the information reflecting any correction requested but not made; and_
 
- _(_ c _) require that any person or body to whom that information has been disclosed for use for an administrative purpose within two years prior to the time a correction is requested or a notation is required under this subsection in respect of that information_
+_(_ c _) require that any person or body to whom that information has been disclosed for use for an administrative purpose within two years prior to the time a correction is requested or a notation is required under this subsection in respect of that information_
 
- _(i) be notified of the correction or notation, and_
+_(i) be notified of the correction or notation, and_
 
- _(ii) where the disclosure is to a government institution, the institution make the correction or notation on any copy of the information under its control._
+_(ii) where the disclosure is to a government institution, the institution make the correction or notation on any copy of the information under its control._
 
- _Extension of right of access by order_
+_Extension of right of access by order_
 
- _(3) The Governor in Council may, by order, extend the right to be given access to personal information under subsection (1) to include individuals not referred to in that subsection and may set such conditions as the Governor in Council deems appropriate. "_
+_(3) The Governor in Council may, by order, extend the right to be given access to personal information under subsection (1) to include individuals not referred to in that subsection and may set such conditions as the Governor in Council deems appropriate. "_
 
 This means that if we have incorrect information about you, you have the right to correct it.  If you feel that we have wrongly used your data, or if you feel there is no reason we should have it (for example, if you delete your account), you can request that we remove every reference to you in our systems. 
 
- **Changing or Removing Information**
+**Changing or Removing Information**
 
 In an effort to facilitate your ability to exercise your rights, and ensure that you have appropriate control over your Personally Identifiable Information, the Passportal service provides an interface where you can change your Registration or Customer Information.
 
@@ -84,7 +84,7 @@ If at any time you would like to delete your Personally Identifiable Information
 
 Since Anonymous Information is by its very nature non-personally identifying, we have no way to locate Anonymous Information obtained by your use of the service. In addition, Anonymous Information is often aggregated. Therefore, we cannot remove Anonymous Information obtained from you or as a result of your usage of the website or service.
 
- **Collection of Personally Identifiable Information**
+**Collection of Personally Identifiable Information**
 
 Personally Identifiable Information is information that can be used to locate you, contact you, or determine your specific identity. When other information is linked to Personally Identifiable Information, it also becomes Personally Identifiable Information.
 
@@ -104,7 +104,7 @@ Your response to the above requests for information is completely voluntary: if 
 
 By submitting your information you consent to the use of that information as set out in this Privacy Policy.
 
- **Collection of Non-Personally Identifiable (Anonymous) Information**
+**Collection of Non-Personally Identifiable (Anonymous) Information**
 
 Whenever you visit the Passportal site, we may also automatically receive and record information from your browser, including your IP address, your computer's name, the type and version of your web browser, referrer addresses, and other generally-accepted log information. We may also record page views (hit counts) and other general statistical and tracking information.
 
@@ -112,23 +112,23 @@ This information is collected automatically by the system and the software proce
 
 This data enables us to become more familiar with which parts of the world visitors to our site come from, how often they visit, and what parts of the site they visit most often. We analyze this data for trends and statistics, we use them exclusively to help us better understand how our site is being used, to improve the value and user-friendliness of our web site as well as detect any technical problems as early as possible. To help us record and understand our website traffic we may also use a third party service, such as Google Analytics or website page counters - in which case absolutely _no_ Personally Identifiable Information is recorded by the third party service, nor associated with the aggregate anonymous website data.
 
- **Sensitive Data**
+**Sensitive Data**
 
 Passportal does not specifically seek to collect sensitive Personally Identifiable Information (such as data revealing political opinions, religious beliefs or data concerning health or sex life) through this site. If Passportal does seek to collect such data, your prior consent hereto will be asked.
 
 The very nature, however, of the Passportal service is to provide a place for you to store and protect sensitive data such as, but not limited to, passwords. The data you choose to store and manage via the Passportal application is not considered "collected" data in that it is encrypted and cannot be decrypted or read by Passportal or any other third party. Only those with access to your private decryption key can decrypt and read the data you store at Passportal.
 
- **Data Processing**
+**Data Processing**
 
 Your Personally Identifiable Information will be processed manually and/or by automated systems that guarantee security and confidentiality, in strict accordance with, and complete respect of, the purposes described in this Privacy Policy.
 
- **Cookies**
+**Cookies**
 
 Some pages on this site use "cookies," which are small files that the site places on your hard drive for identification purposes. Cookies are alphanumeric identifiers that we transfer to your computer's hard disk which help our servers recognize your computer when you visit again, so that it is easier for you to navigate our website and make the best use of your visit. You should note that cookies cannot read data off of your hard drive. Your web browser may allow you to be notified when you are receiving a cookie, giving you the choice to accept it or not.
 
 By not accepting cookies, you may not be able to access certain functionalities on this site. In particular, Passportal application requires the use of cookies and may have limited functionality if you do not allow cookies.
 
- **Disclosure of Personally Identifiable Information**
+**Disclosure of Personally Identifiable Information**
 
 Your Personally Identifiable Information will not be matter of dissemination. The data will be disclosed to the employees or third parties expressly appointed by the Data Handler as Data processor and the individuals in charge for the data handling.
 
@@ -148,7 +148,7 @@ Passportal will reveal information, including Personally Identifiable Informatio
 
 Passportal may transfer information it collects, including any Personally Identifiable Information, in connection with a sale of all or most of the assets of the company. Should your Personally Identifiable Information be transferred as the result of such sale, you will be notified in your Account.
 
- **Use and disclosure of Anonymous Information**
+**Use and disclosure of Anonymous Information**
 
 Anonymous Information is any information collected from you or by the Passportal service, other than Personally Identifiable Information, including aggregate information derived from Personally Identifiable Information.
 
@@ -158,21 +158,21 @@ Passportal may disclose Anonymous Information to third parties for a variety of 
 
 Anonymous Information will not include any Personally Identifiable Information and Passportal will not disclose any Personally Identifiable Information except as expressly stated elsewhere in this policy.
 
- **Security**
+**Security**
 
 We employ reasonable and current security methods to prevent unauthorized access, maintain data accuracy, and ensure correct use of information. Your personal data will be stored within a database that is located behind a firewall. The server housing the database is physically protected at a secure data center.
 
 Any transmission to the Passportal web site or service of Personally Identifiable Information or credit card information uses SSL encryption.
 
- **Other Web Sites**
+**Other Web Sites**
 
 Please note that the informative note is given only for the Passportal website and application: this Privacy Policy does not extend to third party sites linked to this web site.
 
- **Children**
+**Children**
 
 The Passportal service is not directed to children (persons under the age of 18), and we do not knowingly collect, either online or offline, personally identifiable information from children. 
 
- **Amendments**
+**Amendments**
 
 From time to time, Passportal may change this Privacy Policy. If we make any changes regarding disclosure of Personally Identifiable Information to third parties, then we'll notify you by email prior to the date the modified policy takes effect. We will also post noticeable advisement of the new policy on our home page. Any new policy will have prospective effect only, meaning it will not apply to information previously gathered without your express consent. 
 
