@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126221314id_/http%3A//garden.org/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the garden.org privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415110837id_/http%3A//garden.org/about/privacy) for the most accurate reproduction.*
 
-# Privacy Policy (National Gardening Association)
+# Privacy Policy - Garden.org
 
 Your privacy is critically important to us. At Garden.org we have a few fundamental principles: 
 
