@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the quavermusic.com privacy policy that was archived on 2015-11-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151123103408id_/http%3A//www.quavermusic.com/ParentTeacher/pdfs/PrivacyPolicy.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quavermusic.com privacy policy that was archived on 2017-04-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170415155042id_/https%3A//www.quavermusic.com/ParentTeacher/pdfs/PrivacyPolicy.pdf) for the most accurate reproduction.*
 
 # Privacy Policy
 
