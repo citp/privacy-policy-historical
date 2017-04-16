@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the midea.com.cn privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207004820id_/http%3A//us.midea.com/us/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the midea.com.cn privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416225846id_/http%3A//us.midea.com/us/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
