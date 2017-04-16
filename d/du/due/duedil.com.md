@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the duedil.com privacy policy that was archived on 2016-10-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161024191829id_/https%3A//www.duedil.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the duedil.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417011400id_/https%3A//www.duedil.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | DueDil
 
-  1. (Last Updated: 09 February 2015) 
+  1. (Last Updated: 03 April 2017) 
 
   2. **PLEASE CAREFULLY READ THIS PRIVACY POLICY BEFORE USING THIS WEBSITE OR ANY OTHER SERVICES OFFERED BY DUEDIL**
 
@@ -36,6 +36,11 @@ We require this information to understand your needs and provide you with a bett
     * To administer our Site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes.
     * As part of our efforts to keep our Site safe and secure.
     * To improve our products and services.
+    * If you have linked an email account to the Site:
+      * to map your network of contacts to their associated companies
+      * to use your contacts to search for publically available information to add that information to DueDil’s aggregated network of all contacts
+      * to share your network of contacts with other DueDil users within your DueDil Enterprise account only
+      * to periodically update the above information to enable us to provide the best possible service.
 
 We may periodically send promotional emails about new features, products, or other information you have requested from us or that we feel you may find useful and interesting unless you indicate that you do not wish to be contacted for such purposes.
 
@@ -44,6 +49,14 @@ We may periodically send promotional emails about new features, products, or oth
 All information you provide to use is stored on our secure servers. Any payment transactions will be encrypted using commercial grade encryption technology. We are committed to ensuring that your information is secure and have put in place various physical, electronic and managerial procedures in order to attempt to safeguard and secure the information we collect online. Unfortunately, however, the transmission of information via the internet is not completely secure and whilst we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our Site. Accordingly, any transmission is at your own risk. 
 
 Where we have given you or you have chosen a password that enables access to all or part of our Site, you are responsible for keeping this password confidential and we would ask that you do not share this password. 
+
+    * If you have linked an email account to the Site:
+      * We never access the bodies or attachments of your messages. We only access the addresses of your email contacts
+      * We do not expose your contact’s email address(es) to other DueDil users outside of your DueDil Enterprise account
+      * We attempt to use OAuth to access Linked Accounts in order to limit our collection of your passwords
+      * We know that your email data is sensitive, and we are committed to protecting it. We use SSL to encrypt all data transferred to and from our servers. Our databases are accessible only to employees who have a need to access user data in order to provide the DueDil service.
+
+We are committed to maintaining the highest standards of data security. DueDil's Information Security Management System (ISMS) has been certified to the ISO 27001:2013 standard. 
 
   7. **5\. HOW WE USE COOKIES**
 
