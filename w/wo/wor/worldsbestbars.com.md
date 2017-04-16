@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldsbestbars.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820045828id_/http%3A//www.worldsbestbars.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldsbestbars.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416201143id_/https%3A//www.worldsbestbars.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | World's Best Bars
 
