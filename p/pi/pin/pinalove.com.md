@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pinalove.com privacy policy that was archived on 2016-05-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160504185041id_/https%3A//www.pinalove.com/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pinalove.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416183941id_/https%3A//www.pinalove.com/privacy.php) for the most accurate reproduction.*
 
 # PinaLove Privacy Policy
 
