@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the appian.com privacy policy that was archived on 2016-12-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161215230806id_/http%3A//www.appian.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the appian.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416134023id_/http%3A//www.appian.com/privacy) for the most accurate reproduction.*
 
 # Privacy Information | Appian BPM
 
@@ -10,9 +10,9 @@ Appian Corporation and its subsidiaries (together, “Appian”) respect the pri
 
 We will use Your Information to respond to requests you may make of us.  We may also use Your Information to contact you and/or provide you with general information about our products, services, partners, promotions and events. We may use the information collected to better improve our websites, products and services. We may also enhance or merge Your Information with data obtained from third parties for the same purposes.
 
-Appian does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.  Appian may share information with other companies that work on Appian’s behalf or that partner with Appian.
+Appian does not share, sell, rent, or trade personally identifiable information with third parties for their promotional purposes.  Appian may share information with other companies that work on Appian’s behalf or that partner with Appian. Appian will share personal information to meet any applicable law, regulation or lawful request by public authorities, including for national security or law enforcement requirements.
 
-Appian’s policy is to restrict these affiliates, subsidiaries, agents, contractors or partners from using shared information in any way other than to provide services for Appian, or services for the collaboration in which they and Appian are engaged.
+Appian’s policy is to restrict affiliates, subsidiaries, agents, contractors or partners from using shared information in any way other than to provide services for Appian, or services for the collaboration in which they and Appian are engaged. If we transfer personal information received under the Privacy Shield to a third party, the third party’s access, use, and disclosure of the personal data must also be in compliance with our Privacy Shield obligations, and we will remain liable under the Privacy Shield for any failure to do so by the third party unless we prove we are not responsible for the event giving rise to the damage.
 
 ## Our Website Technology:
 
@@ -40,7 +40,9 @@ Additionally, Appian can also offer customers and partners a data processing add
 
 Appian’s policy is to require our third party providers to either subscribe to the Privacy Shield Principals, be subject to the EU Privacy Directive or another adequacy finding, or enter into a written agreement that requires them to provide at least the same level of privacy protection as is required by the EU Privacy Directive, including the so-called “Model Clauses”.
 
-In compliance with the Privacy Shield Principles, Appian commits to resolve complaints about our collection or use of your personal information.  European Union individuals with inquiries or complaints regarding our Privacy Shield policy should first contact Appian at:
+## Access and Requests Regarding Your Personal Information:
+
+In compliance with the Privacy Shield Principles, Appian commits to provide you reasonable access to your personal information, the option to control Appian’s use and disclosure of your information when it is within our sole power to do so, and to resolve any complaints about our collection or use of your personal information.  Individuals with inquiries or complaints regarding their personal information and/or our Privacy Shield policy should first contact Appian at:
 
 Cathy Lazarus
 
@@ -64,3 +66,5 @@ Appian Corporation
 Attention: Legal Department  
 11955 Democracy Drive, Suite 1700  
 Reston, Virginia 20190 (USA)
+
+Effective date: February 10, 2017
