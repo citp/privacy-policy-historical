@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the nga.net.au privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616181046id_/http%3A//www.acendre.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nga.net.au privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416091623id_/http%3A//www.acendre.com/privacy-statement) for the most accurate reproduction.*
 
-# Privacy Statement
+# Privacy Statement | Acendre
 
 ### Introduction
 
@@ -57,10 +57,10 @@ Email: [enquiries@oaic.gov.au](mailto:enquiries@oaic.gov.au) ****
 
 When visiting Acendre’s web site, the site server makes a record of the visit and logs the following information for statistical and administrative purposes: ****
 
-  * the user’s server address – to consider the users who use the site regularly and tailor the site to their interests and requirements;
-  * the date and time of the visit to the site – this is important for identifying the website’s busy times and ensuring maintenance on the site is conducted outside these periods;
-  * pages accessed and documents downloaded – this indicates to Acendre which pages or documents are most important to users and also helps identify important information that may be difficult to find;
-  * duration of the visit – this indicates to us how interesting and informative the Acendre site is to candidates; the type of browser used – this is important for browser specific coding
+  * The user’s server address – to consider the users who use the site regularly and tailor the site to their interests and requirements;
+  * The date and time of the visit to the site – this is important for identifying the website’s busy times and ensuring maintenance on the site is conducted outside these periods;
+  * Pages accessed and documents downloaded – this indicates to Acendre which pages or documents are most important to users and also helps identify important information that may be difficult to find;
+  * Duration of the visit – this indicates to us how interesting and informative the Acendre site is to candidates; the type of browser used – this is important for browser specific coding
   * In order to optimise the Acendre  web site and better understand it’s usage, we collect the visiting domain name or IP address, Computer Operating System, Browser Type and Screen Resolution
 
 
@@ -76,7 +76,7 @@ Acendre will take reasonable steps to protect your personally identifiable infor
 However, you should keep in mind that the transmission of information over the Internet is not completely secure or error-free. In particular, e-mail sent to or from this website may not be secure, and you should therefore take special care in deciding what information you send to us via e-mail.
 
 To view our secure SSL site please visit:  
-[https://acendre.worldsecuresystems.com ](https://acendre.worldsecuresystems.com/)
+[https://acendre.worldsecuresystems.com](https://acendre.worldsecuresystems.com/)
 
 ### Miscellaneous
 
@@ -88,9 +88,9 @@ The information on the Acendre website is intended as a general reference. Acend
 
 ### Acendre
 
-  * accept no liability for any use of or reliance placed on the said information and data;
-  * make no representations, either expressed or implied, as to the suitability of the said information and data for any particular purpose; and
-  * make no warranties that the said information and data are free of infection by computer viruses or other contamination.
+  * Accept no liability for any use of or reliance placed on the said information and data;
+  * Make no representations, either expressed or implied, as to the suitability of the said information and data for any particular purpose; and
+  * Make no warranties that the said information and data are free of infection by computer viruses or other contamination.
 
 
 
