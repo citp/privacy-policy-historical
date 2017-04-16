@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224110046id_/https%3A//www.ashampoo.com/en/usd/ppy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ashampoo.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416193645id_/https%3A//www.ashampoo.com/uk/gbp/ppy) for the most accurate reproduction.*
 
 # Ashampoo® - Company - Privacy Policy
 
@@ -39,7 +39,7 @@ Back to top
 
 This website uses cookies in several places. These cookies are used to make our services more user-friendly, more effective and more secure. Cookies are small text files that your browser saves on your computer. Most of the cookies we use are so-called “Session Cookies”. These will be automatically deleted after your visit. Cookies cannot do damage to your computer and do not contain viruses. Cookies can also be saved for a longer period of time, e.g. for a website to recognize your user profile without the need to log in. You can customize how cookies are handled in your browser settings. 
 
-  * On some websites we use Google Ads. Google as a third party provider uses additional cookies to place ads on these websites.
+  * On some websites we use Google Ads. Google as a third party provider uses additional cookies to place ads on these websites
   * The use of so-called DART cookies enables Google’s ad placement according to user visits on our websites and websites in the Ashampoo company group.
   * Go to [ Privacy Policy for Google Ads and the Google content network ](http://www.google.com/privacy_ads.html) to deactivate the use of so-called DART cookies. [ Click here ](http://www.google.com/privacy_ads.html)
 
@@ -47,18 +47,17 @@ This website uses cookies in several places. These cookies are used to make our 
 
 Back to top 
 
-This website uses Google Analytics with the code **"anonymizeIP()"** which ensures that IP addresses are anonymized.  
-
-
 ## Advertising
 
-On some websites we make use of third party providers to place ads when you visit our website. These companies possibly use information (these don’t include your name, your address, e-mail address or phone number) on your visit of this and other websites in order to place ads on products and services that might interest you. If you would like to learn more about these techniques and would like to know what possibilities you have to prevent these companies from using that information, go [Click here](http://www.google.com/privacy_ads.html)
+On some websites we make use of third party providers to place ads when you visit our website. These companies possibly use information (these don’t include your name, your address, e-mail address or phone number) on your visit of this and other websites in order to place ads on products and services that might interest you. If you would like to learn more about these techniques and would like to know what possibilities you have to prevent these companies from using that information, go. [Click here](http://www.google.com/privacy_ads.html)
 
 ## Criteo
 
 This web site uses technology by Criteo GmbH to anonymously monitor and collect information about the surfing behavior of page visitors for marketing purposes. This data is stored on your computer as cookie files. Criteo employs an algorithm to analyze your surfing behavior and provide suitable product recommendations in the form of personalized ad banners on other web sites (called publishers). This data cannot be used to personally identify page visitors. It is only used to improve our product offerings. We will never share this information with third parties.
 
 You will find more detailed information on the technology provided by Criteo and a way to disable it in their privacy policy at: <http://www.criteo.com/privacy/>.
+
+## Microsoft Bing Ad's Universal Event Tracking
 
 Back to top    
 
@@ -75,7 +74,7 @@ Some of the software we deliver leads to an entry into several distribution list
 In order to process an order we need your address data, your date of birth, e-mail, telephone number (if applicable), the total purchase price, purchase order date and information about the handling of payments. 
 
   * To secure your information in transmission we use Secure Sockets Layer software (SSL) where needed. This software encrypts the information you submit. 
-  * Of course this is also true for credit card payments. The credit card information is only stored temporarily and deleted after being handed on to the respective payment provider 
+  * Of course this is also true for credit card payments. The credit card information is only stored temporarily and deleted after being handed on to the respective payment provider. 
   * It is important for you to take precautions against unauthorized access to your password and your computer. If you share your computer with others, you should remember to always log off after each session. 
 
 
@@ -98,35 +97,6 @@ The following information is transmitted when you activate a program with a lice
 
 
 You can check your current license keys at any time. Just visit MyAshampoo at http://www.ashampoo.com/en/usd/mai. Your personal MyAshampoo data is protected against unauthorized access, you can log in with your email address and a password you choose yourself. Your personal data will be stored anonymously unless you choose to enter your name, which is entirely optional. Our privacy policies for managing your data are very strict and we will never share your information with any third parties.  Back to top    
-
-
-##  Social Plug-ins 
-
-Ashampoo uses so-called social plug-ins by Facebook like, for example, the “Recommend” or the “Like” button on the Ashampoo website as well as in Ashampoo products. These plug-ins are provided by Facebook Inc., 1601 S. California Ave, Palo Alto, CA 94304, USA and are characterized by either the Facebook logo or a “Thumbs up” symbol. If you open a website by Ashampoo that contains such a plug-in, your browser will establish a connection to the Facebook servers. The content of the plug-in is sent from Facebook directly to your browser and displayed accordingly on Ashampoo websites; without Ashampoo having any influence on the content of the plug-ins. 
-
-With the transfer of data Facebook might be able to trace your visit on our website and to associate it with your Facebook account, if you are a Facebook user or if you recently visited either a Facebook website or a website with content by Facebook. If you actively use those plug-ins, for example by clicking on a “recommend” or “like” button, information on this will be sent directly from your browser to Facebook, without Ashampoo having or being able to exert any influence on this. For information on to what extent or in what way your data are collected and sent to Facebook as well as for information on what happens to that information, please visit Facebook’s Privacy Policy (http://www.facebook.com/policy.php). Furthermore you can also learn about the rights to privacy (privacy protection) and you can adjust settings to protect your privacy on Facebook. 
-
-In order to avoid that Facebook collects information on your visits to our websites or when you use our software, you should log off Facebook before visiting our website or using Ashampoo software. You should also make sure that any possibly present cookies by Facebook are deleted from your browser.   
-[What are cookies?](http://www.ashampoo.com/en/eur/ppy#cookie)
-
-**Instructions on how to delete cookies for the most common browsers:**
-
-  * Microsoft Internet Explorer 7:[Instructions](http://windows.microsoft.com/en-US/windows-vista/Block-or-allow-cookies)
-  * Microsoft Internet Explorer 8 or above:[Instructions](http://windows.microsoft.com/en-us/internet-explorer/delete-manage-cookies#ie=ie-11)
-  * Mozilla Firefox:[Instructions](http://support.mozilla.com/en-US/kb/Deleting%20cookies)
-  * Google Chrome:[Instructions](http://www.google.com/support/chrome/bin/answer.py?hl=de&answer=95647)
-  * Apple Safari:[Instructions](http://docs.info.apple.com/article.html?path=Safari/3.0/de/11471.html)
-  * Opera:[Instructions](http://help.opera.com/Windows/9.10/en/cookies.html)
-
-
-
-Within Ashampoo websites we are also using, in addition to social plug-ins of other providers, the +1 button by Google.com, which is operated by Google Inc., 1600 Amphitheatre Parkway, Mountain View, CA 94043, USA. This button can be found at the bottom of each page and is marked by the logo “+1”. 
-
-As soon as a page within our web presence is called up, the Internet browser establishes a direct connection with the servers of Google whereby the button by Google submits to the browser – and is displayed on our website. By integrating the button Google receives the information that this specific page of our Internet presence was called up. If you are logged into your Google account at the time of the visit, Google is able to associate that visit with you. If you then click on the +1 button this information is sent to Google directly and will be saved in your user account. 
-
-For information about the purpose, way and scale of the data collection as well as the further use of data by Google, please see the Google privacy policy. Here you can also learn how to change this – if unwanted – in terms of privacy protection. [Google privacy policy](http://www.google.com/intl/en/privacy/plusone/)
-
-If you do not agree with the submission of your data to Google, you have to log off your Google account before you visit our websites.  Back to top    
 
 
 ##  Other 
