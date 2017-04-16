@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the torguard.net privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109102550id_/https%3A//torguard.net/privacy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the torguard.net privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416201553id_/https%3A//torguard.net/privacy.php) for the most accurate reproduction.*
 
 # Privacy Policy | TorGuard
 
@@ -22,7 +22,10 @@ Users' privacy is very important to TorGuard. We are committed to safeguarding t
 
 TorGuard.net does not store or log any traffic or usage from its Virtual Private Network (VPN) or Proxy.
 
-TorGuard collects personally identifiable information from Users through online forms for ordering products and services. We may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We use "cookies" to track how Users use our Web site. 
+TorGuard collects personally identifiable information from Users through online forms for ordering products and services. We may also collect information about how Users use our Web site, for example, by tracking the number of unique views received by the pages of the Web site or the domains from which Users originate. We use "cookies" to track how Users use our Web site.  
+
+
+TorGuard uses anonymized Google Analytics data to better our website and service offerings. Google Analytics may store a cookie. You can opt out with Google’s [plugin.](https://tools.google.com/dlpage/gaoptout "Opt Out Analytics")
 
   
 
