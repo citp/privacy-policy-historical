@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2016-12-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161211060654id_/http%3A//www.netlawman.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the netlawman.co.uk privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416170139id_/https%3A//www.netlawman.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Notice For The Net Lawman UK Site
 
@@ -184,6 +184,6 @@ This confidentiality policy has been compiled so as to comply with the law of ev
 
 If you wish us to remove personally identifiable information from our web site, you may contact us at [support@netlawman.co.uk](mailto:support@netlawman.co.uk) to better safeguard your information, we will also take reasonable steps to verify your identity before granting access or making corrections to your information.
 
-If you have any question regarding the privacy policy, please [contact us](http://www.netlawman.co.uk/contact)
+If you have any question regarding the privacy policy, please [contact us](https://www.netlawman.co.uk/contact)
 
-Now [take me back](https://web.archive.org/) where I was before reading this.
+Now [take me back](https://www.netlawman.co.uk/ia/limits-ndas) where I was before reading this.
