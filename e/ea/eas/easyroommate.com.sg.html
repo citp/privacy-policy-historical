@@ -1,159 +1,120 @@
-<!--The following is the downloaded HTML source of the easyroommate.com.sg privacy policy that was archived on 2016-11-20.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20161120194117id_/http%3A//www.easyroommate.com.sg/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyroommate.com.sg privacy policy that was archived on 2017-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170416233356id_/http%3A//www.easyroommate.com.sg/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class="no-js"><!--<![endif]--><head>
-        <script src="https://js-agent.newrelic.com/nr-998.min.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-NCFNM8"></script><script async="" src="//try.abtasty.com/fd27a2f914fe2439ea82f8fbf2c79608.js"></script><script>
-            (function (i, s, o, g, r, a, m) {
-                i[r] = i[r] || [], i['abtiming'] = 1 * new Date();
-                a = s.createElement(o),
-                m = s.getElementsByTagName(o)[0]; a.async = 1; a.src = g; m.parentNode.insertBefore(a, m)
-            })(window, document, 'script', '//try.abtasty.com/fd27a2f914fe2439ea82f8fbf2c79608.js', '_abtasty');
-        </script>
-        <meta charset="UTF-8"><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0995df106e","applicationID":"4072902","transactionName":"MVVVZkoFVkFQUUNbWggfemR7S2hdXVtUW1AVc1hcTBZXXl1XRR1lFFlBU1sd","queueTime":0,"applicationTime":261,"ttGuid":"58FDFBE1A1A54B29","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwAFUl9aGwcAU1NbBwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,(new Date).getTime(),!0])}catch(s){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(14)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(14)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(14)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(w=-w,b.data=w)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(14)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var g=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,g),g.prototype=p.prototype,d.inPlace(g.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var w=1,b=document.createTextNode(w);new h(a).observe(b,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var a=0;a<d;a++)e.addEventListener(u[a],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[(new Date).getTime()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=NREUM;"undefined"==typeof window.newrelic&&(newrelic=f);var u=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit"],d="api-",l=d+"ixn-";a(u,function(t,e){f[e]=o(d+e,!0,"api")}),f.addPageAction=o(d+"addPageAction",!0),f.setCurrentRouteName=o(d+"routeName",!0),e.exports=newrelic,f.interaction=function(){return(new r).get()};var p=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(l+"tracer",[Date.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[Date.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[Date.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){p[e]=o(l+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o){if(!l.aborted){t&&t(n,r,o);for(var i=e(o),a=h(n),c=a.length,s=0;s<c;s++)a[s].apply(i,r);var f=u[g[n]];return f&&f.push([w,n,r,i]),i}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",g[n]=e,e in u||(u[e]=[])})}var y={},g={},w={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return w}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=w.info=NREUM.info,e=d.getElementsByTagName("script")[0];if(setTimeout(f.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return f.abort();s(y,function(e,n){t[e]||(t[e]=n)}),c("mark",["onload",a()],null,"api");var n=d.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===d.readyState&&i()}function i(){c("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var c=t("handle"),s=t(12),f=t("ee"),u=window,d=u.document,l="addEventListener",p="attachEvent",h=u.XMLHttpRequest,m=h&&h.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:h,REQ:u.Request,EV:u.Event,PR:u.Promise,MO:u.MutationObserver},t(9);var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-998.min.js"},g=h&&m&&m[l]&&!/CriOS/.test(navigator.userAgent),w=e.exports={offset:a(),origin:v,features:{},xhrWrappable:g};d[l]?(d[l]("DOMContentLoaded",i,!1),u[l]("load",r,!1)):(d[p]("onreadystatechange",o),u[p]("onload",r)),c("mark",["firstbyte",a()],null,"api");var b=0},{}]},{},["loader",2,7]);</script>
-        <title>Privacy policy</title>
+<!DOCTYPE html><html class="no-js"><head>
+    <meta charset="UTF-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-NCFNM8"></script><script type="text/javascript">window.NREUM||(NREUM={});NREUM.info = {"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"0995df106e","applicationID":"4072902","transactionName":"MVVVZkoFVkFQUUNbWggfemR7S2hdXVtUW1AVc1hcTBZXXl1XRR1lFFlBU1sd","queueTime":0,"applicationTime":223,"ttGuid":"36AB42F9EF9EA166","agent":""}</script><script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwAFUl9aGwcAU1NbBwM="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
+    <title>Privacy policy</title>
 
-        <meta id="e_metaDescription" name="DESCRIPTION" content="Learn more about EasyRoommate's privacy policy">
+    <meta name="viewport" content="initial-scale=1, maximum-scale=1, user-scalable=no, width=device-width">
+
+        <meta property="erm:version" content="1.65.4.7">
+
+    <meta id="e_metaDescription" name="DESCRIPTION" content="Learn more about EasyRoommate's privacy policy">
 <meta id="e_metaKeywords" name="KEYWORDS">
-<meta name="robots" content="noodp">
+
+    <meta name="robots" content="index, follow">
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-    <link rel="canonical" href="http://www.easyroommate.com.sg/privacy">    
+    <link rel="canonical" href="http://www.easyroommate.com.sg/privacy">
 
 
 
 
-        <link href="//fonts.googleapis.com/css?family=Lato:300,400" rel="stylesheet" type="text/css">
-        <link rel="apple-touch-icon" href="http://static.erm-assets.com/r1-57-0-31/assets/Shared/img/Global/apple-touch-icon.png">
-        <meta name="msapplication-TileColor" content="#2574a9">
-        <meta name="msapplication-TileImage" content="http://static.erm-assets.com/r1-57-0-31/assets/Shared/img/Global/mstile-144x144.png">
-
-<meta name="viewport" content="width=device-width">
-
-        <!--[if lt IE 9]>
-            <script>
-                document.createElement('header');
-                document.createElement('nav');
-                document.createElement('menu');
-                document.createElement('section');
-                document.createElement('article');
-                document.createElement('aside');
-                document.createElement('hgroup');
-                document.createElement('footer');
-            </script>
-        <![endif]-->
-        
-    <link href="http://static.erm-assets.com/r1-57-0-31/assets/Desktop/css/min/ErmCss.PrivacyPolicy.min.css" rel="stylesheet" type="text/css">
+    
+    <link href="http://static.erm-assets.com/r1-65-4-7/assets/Responsive/css/min/ErmCss.PrivacyPolicy.min.css" rel="stylesheet" type="text/css">
 
 
-        
-    </head>
+    
+    <script>
+    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+    new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+    j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+    'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+    })(window, document, 'script', 'dataLayer', 'GTM-NCFNM8');
+    </script>
+
+</head>
+
 <body>
+    <div id="lightbox-bkg" class="lightbox-fade ease-out"></div>
 
-<div id="blackOverlay" class="black-out ui-pointer"></div>
+<!-- SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="ico-sidemenu-open" viewBox="0 0 25 25">
+        <path d="M0,2 L25,2 L25,6 L0,6 L0,2 Z M0,10 L25,10 L25,14 L0,14 L0,10 Z M0,18 L25,18 L25,22 L0,22 L0,18 Z"></path>
+    </symbol>
+    <symbol id="ico-sidemenu-close" viewBox="0 0 512 512">
+        <polygon points="445.2,109.2 402.8,66.8 256,213.6 109.2,66.8 66.8,109.2 213.6,256 66.8,402.8 109.2,445.2 256,298.4 402.8,445.2   445.2,402.8 298.4,256 "></polygon>
+    </symbol>
+</svg>
+<!-- END SVG -->
 
-<header>
-    <nav class="navbar">
-        <div class="header-wrapper header-logout cf">
-            <a class="navbar-brand tbl fLeft" href="http://www.easyroommate.com.sg">
-                <img src="http://static.erm-assets.com/r1-57-0-31/images/SG/r_logo.png" alt="Room share, Rooms to Rent, House Share">
+<!-- HEADER -->
+<div class="header" id="header">
+    <div class="header_content">
+        <div class="icon_sidemenu_open" id="icon_sidemenu_open">
+            <svg class="header_icon_svg">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ico-sidemenu-open"></use>
+            </svg>
+        </div>
+        <div class="icon_sidemenu_close" id="icon_sidemenu_close">
+            <svg class="header_icon_svg">
+                <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ico-sidemenu-close"></use>
+            </svg>
+        </div>
+        <div class="header_logo">
+            <a href="http://www.easyroommate.com.sg">
+                <img src="http://static.erm-assets.com/r1-65-4-7/images/SG/r_logo.png" alt="Rooms for Rent and Roommates | EasyRoommate">
             </a>
+        </div>
 
-                <div class="nav-right-links header-logout-links fRight" id="nav-main-right-links">
-                        <ul class="nav">
-
-                            <li class="head-btn ease-out">
-                                <a class="noselect" href="/misc/faq.aspx" id="posting-top-button" data-tracking="other_clickhavearoom" data-test="hp-help-link">Help</a>
-                            </li>
-
-                                <li id="nav-login-button" class="head-btn ease-out" data-test="hp-login">
-                                    <a class="noselect">Login</a>
-                                </li>
-                            
-                            <li id="post-ad-link" class="cta noselect ease-out post-ad-link">
-                                <a class="button button-green white" href="/content/have/profilehave.aspx?id=1&amp;opt=H" data-test="hp-post-room">Post your room</a>
-                            </li>
-                        </ul>
+        <ul class="header_links_area">
+            <li class="fright">
+                <div class="header_button_container">
+                    <a class="header_button button-green post_ad_link" href="/content/have/profilehave.aspx?id=1&amp;opt=H" rel="nofollow" data-test="hp-post-room">Post your room</a>
                 </div>
-        </div>
-    </nav>
+            </li>
+
+                <li class="fright">
+                    <a href="/login" data-test="hp-login" class="header_link ease-out" rel="nofollow">Login</a>
+                </li>
+
+            <li class="fright">
+                <a href="/misc/faq.aspx" class="header_link ease-out" data-test="hp-help-link">Help</a>
+            </li>
+        </ul>
+
+    </div>
+</div>
+
+<!-- END HEADER -->
+
+<!-- SIDE MENU -->
+<div class="side_menu" id="side_menu">
+    <ul class="side_menu_nav" id="side_menu_nav">
+        <li class="side_menu_item">
+            <a href="/login" class="side_menu_link" rel="nofollow">Login</a>
+        </li>
+        <li class="side_menu_item">
+            <a href="/misc/faq.aspx" class="side_menu_link" rel="nofollow" data-test="hp-side-help-link">Help</a>
+        </li>
+        <li class="side_menu_item">
+            <a href="/content/have/profilehave.aspx?id=1&amp;opt=H" class="side_menu_link" rel="nofollow">Post your room</a>
+        </li>
+        <li class="side_menu_item">
+            <a href="/m/misc?view=contact" class="side_menu_link" rel="nofollow">Contact Us</a>
+        </li>
+        <li class="side_menu_item">
+            <a href="/privacy" class="side_menu_link" rel="nofollow">Privacy policy</a>
+        </li>
+    </ul>
+</div>
+<!-- END SIDE MENU -->
+
     
 
 
-<form id="login-box">
-    
-    <div id="login-error" class="error-message" data-test="lb-invalidform">
-        Invalid log in details. Please try again or click "Forgot password".
-    </div>
-    <div class="form-group">
-        <span class="main-sprite validation-icon"></span>
-        <label for="login-username" class="placeholder-label">Email</label>
-        <input id="login-username" type="email" class="form-control ease-out ui-form--wide" placeholder="Email" data-test="lb-email">
-    </div>
-    <div class="form-group checkbox-assisgned">
-        <span class="main-sprite validation-icon"></span>
-        <label for="login-password" class="placeholder-label">Password</label>
-        <input id="login-password" type="password" class="form-control ease-out ui-form--wide" placeholder="Password" data-test="lb-password">
-    </div>
-    <div class="checkbox custom-checkbox">
-        <input id="remember-me" type="checkbox" data-test="lb-remember">
-        <label class="noselect ui-pointer" for="remember-me">Remember me</label>
-    </div>
-    <button id="login-button" type="submit" class="button-orange button button--long button--tall" data-test="lb-login">
-        Login
-        <span id="loader" class="ui-loader">
-            <span class="loader-1"></span><span class="loader-2"></span><span class="loader-3"></span><span class="loader-4"></span>
-        </span>
-    </button>
-    <div id="forgotpassword">
-        <a class="mediun-gray" data-test="lb-forgot">Forgot password?</a>
-    </div>
-</form>
 
-
-<div id="forgot-password-box">
-    <form id="forgot-password-form">
-        <p>Enter your email address and we'll send you a link to reset your password.</p>
-
-        <div id="error-message-div" class="error-message">
-            <p>Invalid: Email</p>
-        </div>
-
-        <div class="form-group">
-            <span class="main-sprite validation-icon"></span>
-            <label for="email-input" class="placeholder-label">Email address</label>
-            <input id="email-input" type="email" class="form-control ease-out ui-form--wide" placeholder="Email address">
-        </div>
-
-        <button id="btn-forgot-password-send-email" type="submit" class="button-orange button button--long button--tall">
-            Send link
-            <span id="loader" class="ui-loader">
-                <span class="loader-1"></span><span class="loader-2"></span><span class="loader-3"></span><span class="loader-4"></span>
-            </span>
-        </button>
-    </form>
-
-    <div id="forgot-password-success-div" style="display:none;">
-        <p>Reset link sent</p>
-        <p>We have sent you an email containing a link to reset your password.</p>
-
-        <button id="btn-forgot-password-close" class="button-orange button button--long button--tall">Close</button>
-    </div>
-</div></header>
-
-<script type="text/javascript">
-    var ErmJSHeaderBuilder = function() {
-        ErmJS.Desktop.Header.LoggedOut.View('/Account/Login', '/Account/Login', '/Account/ForgotPassword/SendEmail', {"LoginViewModel":{"UserName":null,"Password":null,"CaptionEmail":"Email","CaptionPassword":"Password","CaptionRememberMe":"Remember me","CaptionEnter":"Login","CaptionForgotPassword":"Forgot password?","CaptionInvalidLogin":"Invalid log in details. Please try again or click \"Forgot password\".","ForgotPasswordUrl":"/account/forgotpassword/","LoginActionUrl":"/account/login","LegacyLoginActionUrl":"/account/login/legacylogin","LoginResultUrl":null,"RememberMe":false,"LoginSuccessful":false,"CaptionForgotPasswordTitle":"Did you forget your password?","CaptionForgotPasswordDescription":"Enter your email address and we\u0027ll send you a link to reset your password.","CaptionForgotPasswordEmail":"Email address","CaptionForgotPasswordSendButton":"Send link","CaptionForgotPasswordCancelButton":"Cancel","CaptionForgotPasswordEmailSent":"Reset link sent","IsLook":null,"IsBasic":false,"CaptionTitle":null,"Context":null},"ForgotPasswordViewModel":{"IsSuccess":false,"Email":null,"Result":null,"CaptionDescription":"Enter your email address and we\u0027ll send you a link to reset your password.","CaptionSendLink":"Send link","CaptionCancel":"Cancel","CaptionEmailAddress":"Email address","CaptionInvalidEmail":"Invalid: Email","SendEmailUrl":"/Account/ForgotPassword/SendEmail","CaptionTitle":"Did you forget your password?","CaptionClose":"Close","CaptionEmailSentMessage":"We have sent you an email containing a link to reset your password.","CaptionChangePasswordSent":"Reset link sent","Context":null},"CaptionRentYourRoom":"Post your room","LogoImageSrc":"http://static.erm-assets.com/r1-57-0-31/images/SG/r_logo.png","LogoImageAlt":"Room share, Rooms to Rent, House Share","LogoUrl":"http://www.easyroommate.com.sg","CaptionLogin":"Login","PostingFormUrl":"/content/have/profilehave.aspx?id=1\u0026opt=H","UserType":"None","PageName":"PrivacyPolicyPage","DomainUrl":"http://www.easyroommate.com.sg","HideOptions":false,"ShowPostRoomButton":true,"ShowLoginButton":true,"HideNavigation":false,"HelpUrl":"/misc/faq.aspx","HelpButtonText":"Help","DataTest":{"Logo":null},"Context":null});
-    };
-</script>
-
-<div id="lightbox-bkg" class="lightbox-fade ease-out"></div>
-
-
-
-
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-
-
-<div class="page-container">
+<main class="main policies__main">
     <h1 class="policies__title ui-title ui-text--blue ui-text--lighter">Privacy policy</h1>
     <div class="policies__content">
         <div class="policies-section">
@@ -241,348 +202,351 @@
 	</p>
 </div>
     </div>
-</div>
+</main>
 
 
 
+    
+<!-- SVG -->
+<svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
+    <symbol id="ico-arrow-down" viewBox="0 0 10 6">
+        <path d="M426.01,127l5-5.452L430.3,121l-4.288,4.675L421.724,121l-0.712.541,5,5.452h0Z" transform="translate(-421 -121)"></path>
+    </symbol>
+</svg>
+<!-- END SVG -->
 
+<div class="footer">
+    <div class="footer_content">
+        <ul class="footer-links">
+            <li>
+                <b>About Us</b>
+            </li>
+            <li>
+                <a href="/misc/help.aspx" rel="nofollow" class="footer-link">
+                    Need help?
+                </a>
+            </li>
 
-
-
-    <footer>
-        <nav class="wrapper">
-            <ul class="footer-nav">
-
-                <li class="second">
-                    <h4>About Us</h4>
-                    <ul>
-                        <li>
-                            <a href="/misc/help.aspx">Need help?</a>
-                        </li>
-                        <li>
-                            <a href="/misc/press.aspx">Press</a>
-                        </li>
+                <li>
+                    <a href="/RC/job-board" rel="nofollow" class="footer-link">
+                        Our Job Board
+                    </a>
+                </li>
+                <li>
+                    <a href="/RC/visitoragreements" rel="nofollow" class="footer-link">
+                        Website Visitor &amp; User Agreements
+                    </a>
+                </li>
                             <li>
-                                <a href="/RC/job-board">Our Job Board</a>
-                            </li>
-                            <li>
-                                <a href="/RC/visitoragreements">Website Visitor &amp; User Agreements</a>
-                            </li>
-                        <li>
-                            <a href="/s/affiliate/">Become an affiliate</a>
-                        </li>
-                        <li>
-                            <a href="/misc/pledge.aspx">Our pledge</a>
-                        </li>
-                        <li>
-                            <a href="/privacy">Privacy policy</a>
-                        </li>
-                    </ul>
+                    <a href="/s/affiliate/" rel="nofollow" class="footer-link">
+                        Become an affiliate
+                    </a>
                 </li>
 
-                <li class="last">
-                    <h4>Discover</h4>
-                    <ul>                       
-                        <li>
-                            <a href="/misc/LandlordZone.aspx">Landlord zone</a>
-                        </li>
-                            <li>
-                                <a href="" target="_blank">EasyRoommate Blog</a>
-                            </li>
-                                                                    </ul>
-            </li></ul>
+            <li>
+                <a href="/privacy" rel="nofollow" class="footer-link">
+                    Privacy policy
+                </a>
+            </li>
+        </ul>
 
-     <div class="header-wrapper header-logout cf">
-         <div class="nav-right-links header-logout-links fLeft" id="nav-main-left-links">
-             <ul class="nav">
-                 <li class="dropdown" data-test="hp-countrylist">
-                     <a class="dropdown-toggle noselect">
-                         <label class="coutry-title">Country</label>
-                         <span class="main-sprite dropdown-symbol dropdown-symbol-black"></span>
-                         <p>
-                             <span class="flag-ico SG"></span>
-                             <label class="country-value">Singapore</label>
-                         </p>
-                     </a>
-                     <ul id="countrySelector" class="dropdown-menu head-country-selection pull-top" data-test="hp-countrylist">
 
-                                    <li class="" data-test="hp-country-0">
-                                        <a href="http://www.compartodepto.com" id="id-AR">
-                                        <span class="flag-ico AR"></span>Argentina
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-1">
-                                        <a href="http://www.easywg.at" id="id-AT">
-                                        <span class="flag-ico AT"></span>Austria
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-2">
-                                        <a href="http://au.easyroommate.com" id="id-AU">
-                                        <span class="flag-ico AU"></span>Australia
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-3">
-                                        <a href="http://www.appartager.be" id="id-BE">
-                                        <span class="flag-ico BE"></span>Belgium
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-4">
-                                        <a href="http://www.easyquarto.com.br" id="id-BR">
-                                        <span class="flag-ico BR"></span>Brazil
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-5">
-                                        <a href="http://ca.easyroommate.com" id="id-CA">
-                                        <span class="flag-ico CA"></span>Canada
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-6">
-                                        <a href="http://www.easywg.ch" id="id-CH">
-                                        <span class="flag-ico CH"></span>Switzerland
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-7">
-                                        <a href="http://www.compartodepto.cl" id="id-CL">
-                                        <span class="flag-ico CL"></span>Chile
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-8">
-                                        <a href="http://www.compartoapto.com" id="id-CO">
-                                        <span class="flag-ico CO"></span>Colombia
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-9">
-                                        <a href="http://www.easywg.de" id="id-DE">
-                                        <span class="flag-ico DE"></span>Germany
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-10">
-                                        <a href="http://www.easykot.be" id="id-BE">
-                                        <span class="flag-ico EK"></span>Belgium (Flemish)
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-11">
-                                        <a href="http://www.easypiso.com" id="id-ES">
-                                        <span class="flag-ico ES"></span>Spain
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-12">
-                                        <a href="http://www.appartager.com" id="id-FR">
-                                        <span class="flag-ico FR"></span>France
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-13">
-                                        <a href="http://www.easyroommate.com.hk" id="id-HK">
-                                        <span class="flag-ico HK"></span>Hong Kong
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-14">
-                                        <a href="http://ie.easyroommate.com" id="id-IE">
-                                        <span class="flag-ico IE"></span>Ireland
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-15">
-                                        <a href="http://www.easystanza.it" id="id-IT">
-                                        <span class="flag-ico IT"></span>Italy
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-16">
-                                        <a href="http://www.appartager.lu" id="id-LU">
-                                        <span class="flag-ico LU"></span>Luxembourg
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-17">
-                                        <a href="http://www.compartodepa.com.mx" id="id-MX">
-                                        <span class="flag-ico MX"></span>Mexico
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-18">
-                                        <a href="http://www.easykamer.nl" id="id-NL">
-                                        <span class="flag-ico NL"></span>Netherlands
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-19">
-                                        <a href="http://www.easyroommate.co.nz" id="id-NZ">
-                                        <span class="flag-ico NZ"></span>New Zealand
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-20">
-                                        <a href="http://www.easyquarto.com.pt" id="id-PT">
-                                        <span class="flag-ico PT"></span>Portugal
-                                        </a>
-                                    </li>
-                                    <li class="active" data-test="hp-country-21">
-                                        <a href="http://www.easyroommate.com.sg" id="id-SG">
-                                        <span class="flag-ico SG"></span>Singapore
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-22">
-                                        <a href="http://uk.easyroommate.com" id="id-GB">
-                                        <span class="flag-ico UK"></span>United Kingdom
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-23">
-                                        <a href="http://www.easyroommate.com" id="id-US">
-                                        <span class="flag-ico US"></span>United States
-                                        </a>
-                                    </li>
-                                    <li class="" data-test="hp-country-24">
-                                        <a href="http://www.compartoapto.com.ve" id="id-VE">
-                                        <span class="flag-ico VE"></span>Venezuela
-                                        </a>
-                                    </li>
-
-                     </ul>
-                 </li>
-                 <li class="dropdown" data-test="hp-languagelist">
-                     <a class="dropdown-toggle noselect language-size">
-                         <label class="language-title">Language</label>
-                         <span class="main-sprite dropdown-symbol"></span>
-                         <p>
-                            <label class="language-value">English</label>
-                         </p>
-                     </a>
-                     <ul id="languageSelector" class="dropdown-menu head-lang-selection pull-top" data-test="hp-languagelist">
-
-                                    <li data-id="5" id="5" class="" data-test="hp-language-0">
-                                        <a>Dutch</a>
-                                    </li>
-                                    <li data-id="1" id="1" class="active" data-test="hp-language-1">
-                                        <a>English</a>
-                                    </li>
-                                    <li data-id="3" id="3" class="" data-test="hp-language-2">
-                                        <a>Español</a>
-                                    </li>
-                                    <li data-id="2" id="2" class="" data-test="hp-language-3">
-                                        <a>Français</a>
-                                    </li>
-                                    <li data-id="7" id="7" class="" data-test="hp-language-4">
-                                        <a>German</a>
-                                    </li>
-                                    <li data-id="6" id="6" class="" data-test="hp-language-5">
-                                        <a>Italiano</a>
-                                    </li>
-                                    <li data-id="14" id="14" class="" data-test="hp-language-6">
-                                        <a>Portuguese</a>
-                                    </li>
-
-                     </ul>
-                 </li>
-             </ul>
-         </div>
-     </div>
-
-             <div class="copy-wrapper">
-               <p class="center">© EasyRoommate 1999-2016</p>
-             </div>
- </nav>
-
-</footer>        
-
-<!-- set blackout to black-out ui-pointer lightbox-fade ease-in -->
-<div id="photoBox" class="light-box light-box--medium light-box--animate light-box--top">
-    <!-- svgs globally in layout ? -->
-
-    <svg xmlns="http://www.w3.org/2000/svg" style="display: none;">
-        <symbol id="ico-error" viewBox="0 0 24 22">
-            <circle stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" cx="11" cy="9" r="9.5"></circle><line stroke-miterlimit="10" x1="7.5" y1="5.5" x2="14.6" y2="12.5"></line><line stroke-miterlimit="10" x1="14.5" y1="5.5" x2="7.5" y2="12.5"></line>
-        </symbol>
-        <symbol id="ico-plus" viewBox="0 0 512 512">
-            <path d="m475 289l-186 0 0 186-66 0 0-186-186 0 0-66 186 0 0-186 62 0 0 186 190 0z"></path>
-        </symbol>
-        <symbol id="ico-curvarrow" viewBox="0 0 14 14">
-            <path fill="none" d="M3.4,4.6c-1.1-1.4-3-2.8-2.9-3.3c0.1-0.5,3-0.5,4.6-0.8 M8.6,13.3c2.1-5-0.9-9.8-7.2-11.8"></path>
-        </symbol>
-    </svg>
-
-    <div class="light-box__box">
-        <h3 class="light-box__title light-box__title--large light-box__title--light photo__title">Make your profile stand out!</h3>
-        <div class="grid photo__row">
-            <div class="ui-relative">
-                <div id="icoAdd" class="ico--add" data-test="psu-addimage">
-                    <svg class="svg-ico svg-ico--white svg-ico--add">
-                        <use xlink:href="#ico-plus"></use>
+        <div class="country_language_area">
+            <div class="country_box dropdown" id="country_box">
+                <div>
+                    Country
+                    <svg class="arrow_down_ico">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ico-arrow-down"></use>
                     </svg>
                 </div>
-                <div class="photo__photowrap">
-                    <div id="uploadBox" class="photo__photo photo__photo--circle no-pic__room no-pic__room--small" data-test="psu-image">
-                        <div id="loader" class="ui-loader ui-loader--blue ui-loader--mid">
-                            <span class="loader-1"></span><span class="loader-2"></span><span class="loader-3"></span><span class="loader-4"></span>
-                        </div>
-                        <input id="uploadBtn" type="file" class="photo__upload ui-hidden" accept="image/*" enctype="multipart/form-data">
-                        <img id="userImg" class="resize-image">
-                    </div>
+                <div class="country_box_country_name" id="country_name">
+                    <span class="flag-ico SG"></span>Singapore
                 </div>
+
+                <ul id="countrySelector" class="dropdown-menu head-country-selection pull-top" data-test="hp-countrylist">
+
+                        <li class="" data-test="hp-country-0">
+                            <a href="http://www.compartodepto.com" id="id-AR" rel="nofollow">
+                                <span class="flag-ico AR"></span>Argentina
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-1">
+                            <a href="http://www.easywg.at" id="id-AT" rel="nofollow">
+                                <span class="flag-ico AT"></span>Austria
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-2">
+                            <a href="https://au.easyroommate.com" id="id-AU" rel="nofollow">
+                                <span class="flag-ico AU"></span>Australia
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-3">
+                            <a href="http://www.appartager.be" id="id-BE" rel="nofollow">
+                                <span class="flag-ico BE"></span>Belgium
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-4">
+                            <a href="http://www.easyquarto.com.br" id="id-BR" rel="nofollow">
+                                <span class="flag-ico BR"></span>Brazil
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-5">
+                            <a href="http://ca.easyroommate.com" id="id-CA" rel="nofollow">
+                                <span class="flag-ico CA"></span>Canada
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-6">
+                            <a href="http://www.easywg.ch" id="id-CH" rel="nofollow">
+                                <span class="flag-ico CH"></span>Switzerland
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-7">
+                            <a href="http://www.compartodepto.cl" id="id-CL" rel="nofollow">
+                                <span class="flag-ico CL"></span>Chile
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-8">
+                            <a href="http://www.compartoapto.com" id="id-CO" rel="nofollow">
+                                <span class="flag-ico CO"></span>Colombia
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-9">
+                            <a href="http://www.easywg.de" id="id-DE" rel="nofollow">
+                                <span class="flag-ico DE"></span>Germany
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-10">
+                            <a href="http://www.easykot.be" id="id-BE" rel="nofollow">
+                                <span class="flag-ico EK"></span>Belgium (Flemish)
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-11">
+                            <a href="http://www.easypiso.com" id="id-ES" rel="nofollow">
+                                <span class="flag-ico ES"></span>Spain
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-12">
+                            <a href="http://www.appartager.com" id="id-FR" rel="nofollow">
+                                <span class="flag-ico FR"></span>France
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-13">
+                            <a href="http://www.easyroommate.com.hk" id="id-HK" rel="nofollow">
+                                <span class="flag-ico HK"></span>Hong Kong
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-14">
+                            <a href="http://ie.easyroommate.com" id="id-IE" rel="nofollow">
+                                <span class="flag-ico IE"></span>Ireland
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-15">
+                            <a href="http://www.easystanza.it" id="id-IT" rel="nofollow">
+                                <span class="flag-ico IT"></span>Italy
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-16">
+                            <a href="http://www.appartager.lu" id="id-LU" rel="nofollow">
+                                <span class="flag-ico LU"></span>Luxembourg
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-17">
+                            <a href="http://www.compartodepa.com.mx" id="id-MX" rel="nofollow">
+                                <span class="flag-ico MX"></span>Mexico
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-18">
+                            <a href="http://www.easykamer.nl" id="id-NL" rel="nofollow">
+                                <span class="flag-ico NL"></span>Netherlands
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-19">
+                            <a href="http://www.easyroommate.co.nz" id="id-NZ" rel="nofollow">
+                                <span class="flag-ico NZ"></span>New Zealand
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-20">
+                            <a href="http://www.easyquarto.com.pt" id="id-PT" rel="nofollow">
+                                <span class="flag-ico PT"></span>Portugal
+                            </a>
+                        </li>
+                        <li class="active" data-test="hp-country-21">
+                            <a href="http://www.easyroommate.com.sg" id="id-SG" rel="nofollow">
+                                <span class="flag-ico SG"></span>Singapore
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-22">
+                            <a href="http://uk.easyroommate.com" id="id-GB" rel="nofollow">
+                                <span class="flag-ico UK"></span>United Kingdom
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-23">
+                            <a href="http://www.easyroommate.com" id="id-US" rel="nofollow">
+                                <span class="flag-ico US"></span>United States
+                            </a>
+                        </li>
+                        <li class="" data-test="hp-country-24">
+                            <a href="http://www.compartoapto.com.ve" id="id-VE" rel="nofollow">
+                                <span class="flag-ico VE"></span>Venezuela
+                            </a>
+                        </li>
+
+                </ul>
             </div>
-            <div id="uploadTxt" class="photo__arrow">
-                <svg class="svg-ico svg-ico--grey svg-ico--arrow">
-                    <use xlink:href="#ico-curvarrow"></use>
-                </svg>
-                <span class="photo__arrowtext">Add your best shot. Profiles with photos receive up to 500% more contacts</span>
+            <div class="language_box dropdown" id="language_box">
+                <div>
+                    Language
+                    <svg class="arrow_down_ico">
+                        <use xmlns:xlink="http://www.w3.org/1999/xlink" xlink:href="#ico-arrow-down"></use>
+                    </svg>
+                </div>
+                <div class="language_box_language_name" id="language_name">
+                    English
+                </div>
+                <ul id="languageSelector" class="dropdown-menu head-lang-selection pull-top" data-test="hp-languagelist">
+                        <li data-id="5" id="5" class="" data-test="hp-language-0">
+                            <a rel="follow" href="/redirects/language/5">Dutch</a>
+                        </li>
+                        <li data-id="1" id="1" class="active" data-test="hp-language-1">
+                            <a rel="follow" href="/redirects/language/1">English</a>
+                        </li>
+                        <li data-id="3" id="3" class="" data-test="hp-language-2">
+                            <a rel="follow" href="/redirects/language/3">Español</a>
+                        </li>
+                        <li data-id="2" id="2" class="" data-test="hp-language-3">
+                            <a rel="follow" href="/redirects/language/2">Français</a>
+                        </li>
+                        <li data-id="7" id="7" class="" data-test="hp-language-4">
+                            <a rel="follow" href="/redirects/language/7">German</a>
+                        </li>
+                        <li data-id="6" id="6" class="" data-test="hp-language-5">
+                            <a rel="follow" href="/redirects/language/6">Italiano</a>
+                        </li>
+                        <li data-id="14" id="14" class="" data-test="hp-language-6">
+                            <a rel="follow" href="/redirects/language/14">Portuguese</a>
+                        </li>
+                </ul>
             </div>
+            <div class="dropdown_slim" id="country_box_slim">
+                <select>
+                    <option value="">
+                        Country
+                    </option>
+                        <option id="id-slim-AR" value="http://www.compartodepto.com" data-test="hp-country-slim-0">
+                            Argentina
+                        </option>
+                        <option id="id-slim-AT" value="http://www.easywg.at" data-test="hp-country-slim-1">
+                            Austria
+                        </option>
+                        <option id="id-slim-AU" value="https://au.easyroommate.com" data-test="hp-country-slim-2">
+                            Australia
+                        </option>
+                        <option id="id-slim-BE" value="http://www.appartager.be" data-test="hp-country-slim-3">
+                            Belgium
+                        </option>
+                        <option id="id-slim-BR" value="http://www.easyquarto.com.br" data-test="hp-country-slim-4">
+                            Brazil
+                        </option>
+                        <option id="id-slim-CA" value="http://ca.easyroommate.com" data-test="hp-country-slim-5">
+                            Canada
+                        </option>
+                        <option id="id-slim-CH" value="http://www.easywg.ch" data-test="hp-country-slim-6">
+                            Switzerland
+                        </option>
+                        <option id="id-slim-CL" value="http://www.compartodepto.cl" data-test="hp-country-slim-7">
+                            Chile
+                        </option>
+                        <option id="id-slim-CO" value="http://www.compartoapto.com" data-test="hp-country-slim-8">
+                            Colombia
+                        </option>
+                        <option id="id-slim-DE" value="http://www.easywg.de" data-test="hp-country-slim-9">
+                            Germany
+                        </option>
+                        <option id="id-slim-BE" value="http://www.easykot.be" data-test="hp-country-slim-10">
+                            Belgium (Flemish)
+                        </option>
+                        <option id="id-slim-ES" value="http://www.easypiso.com" data-test="hp-country-slim-11">
+                            Spain
+                        </option>
+                        <option id="id-slim-FR" value="http://www.appartager.com" data-test="hp-country-slim-12">
+                            France
+                        </option>
+                        <option id="id-slim-HK" value="http://www.easyroommate.com.hk" data-test="hp-country-slim-13">
+                            Hong Kong
+                        </option>
+                        <option id="id-slim-IE" value="http://ie.easyroommate.com" data-test="hp-country-slim-14">
+                            Ireland
+                        </option>
+                        <option id="id-slim-IT" value="http://www.easystanza.it" data-test="hp-country-slim-15">
+                            Italy
+                        </option>
+                        <option id="id-slim-LU" value="http://www.appartager.lu" data-test="hp-country-slim-16">
+                            Luxembourg
+                        </option>
+                        <option id="id-slim-MX" value="http://www.compartodepa.com.mx" data-test="hp-country-slim-17">
+                            Mexico
+                        </option>
+                        <option id="id-slim-NL" value="http://www.easykamer.nl" data-test="hp-country-slim-18">
+                            Netherlands
+                        </option>
+                        <option id="id-slim-NZ" value="http://www.easyroommate.co.nz" data-test="hp-country-slim-19">
+                            New Zealand
+                        </option>
+                        <option id="id-slim-PT" value="http://www.easyquarto.com.pt" data-test="hp-country-slim-20">
+                            Portugal
+                        </option>
+                        <option id="id-slim-SG" value="http://www.easyroommate.com.sg" selected="" data-test="hp-country-slim-21">
+                            Singapore
+                        </option>
+                        <option id="id-slim-GB" value="http://uk.easyroommate.com" data-test="hp-country-slim-22">
+                            United Kingdom
+                        </option>
+                        <option id="id-slim-US" value="http://www.easyroommate.com" data-test="hp-country-slim-23">
+                            United States
+                        </option>
+                        <option id="id-slim-VE" value="http://www.compartoapto.com.ve" data-test="hp-country-slim-24">
+                            Venezuela
+                        </option>
+                </select>
+            </div>
+            <div class="dropdown_slim" id="language_box_slim">
+                <select>
+                        <option data-id="slim-5" data-test="hp-language-slim-0" value="/redirects/language/5">
+                            Dutch
+                        </option>
+                        <option data-id="slim-1" data-test="hp-language-slim-1" value="/redirects/language/1" selected="">
+                            English
+                        </option>
+                        <option data-id="slim-3" data-test="hp-language-slim-2" value="/redirects/language/3">
+                            Español
+                        </option>
+                        <option data-id="slim-2" data-test="hp-language-slim-3" value="/redirects/language/2">
+                            Français
+                        </option>
+                        <option data-id="slim-7" data-test="hp-language-slim-4" value="/redirects/language/7">
+                            German
+                        </option>
+                        <option data-id="slim-6" data-test="hp-language-slim-5" value="/redirects/language/6">
+                            Italiano
+                        </option>
+                        <option data-id="slim-14" data-test="hp-language-slim-6" value="/redirects/language/14">
+                            Portuguese
+                        </option>
+                </select>
+            </div>
+            <div class="clear"></div>
         </div>
 
-        <div class="photo__row" id="profileDesc">
-            <textarea placeholder="Add a few lines about what you are looking for..." id="txtDescription" class="ui-textarea photo__tarea" data-test="psu-description"></textarea>
-            <p id="descriptionError" class="ui-error__text ui-vishidden">
-                <svg class="svg-ico--red ico--18 ui-icon--error">
-                    <use xlink:href="#ico-error"></use>
-                </svg>
-                Please enter a valid description
-            </p>
-        </div>
-
-        <div class="photo__row">
-            <button id="btnComplete" disabled="" class="photo__btn button button-orange button--long" data-test="psu-done">
-                Save
-            </button>
-        </div>
-
-        <div id="linkSkip" class="photo__row">
-            <a class="ui-link" data-tracking="other_skipped" data-test="psu-skipthisstep">Skip this step</a>
+        <div class="footer_copyright">
+            © EasyRoommate 1999-2017
         </div>
     </div>
 </div>
 
 
-<input type="hidden" id="pageName" value="PrivacyPolicyPage">
-<input type="hidden" id="subscriptionStatus" value="Basic">
-<input type="hidden" id="currentCountryIsoCode" value="SG">
-
-<script src="http://static.erm-assets.com/r1-57-0-31/assets/Desktop/js/min/ErmJS.Desktop.Common.min.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-    ErmJS.init(false, '','', 'Basic', 'SG', "PrivacyPolicyPage", null)
-    ErmJSHeaderBuilder();
-</script>
-
-
-
-<script type="text/javascript">window.GTO = {"page":{"pageName":"PrivacyPolicyPage","pageTargetUserType":"None","pageLocation":"None","pageLocationLat":0.0,"pageLocationLong":0.0}};</script><script src="/user/context.js" type="text/javascript"></script>
-
-<script type="text/javascript">
-
     
-    // Google Tag Manager
-    (function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
-            new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
-            j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
-            '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-    })(window,document,'script','dataLayer','GTM-NCFNM8');
-    // Google Tag Manager
 
-    ErmJS.Tracking.InitialiseGATracking({
-        countryAccount: "UA-114618-22",
-        globalAccount: "UA-6191592-1"
-    }, null);
-</script>
-
-<script>
-    $(function() {
-        $("body").css("padding-bottom", parseInt($("footer").height()) + 'px');
-    });
-</script>
-
+    <script src="http://static.erm-assets.com/r1-65-4-7/assets/Responsive/js/min/Erm.Common.min.js" type="text/javascript"></script>
 
 
 
