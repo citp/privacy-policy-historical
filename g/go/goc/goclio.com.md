@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the goclio.com privacy policy that was archived on 2016-08-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160809021313id_/https%3A//www.goclio.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the goclio.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416235628id_/https%3A//www.clio.com/privacy) for the most accurate reproduction.*
 
 # Clio | Privacy Policy
 
 [](https://privacy.truste.com/privacy-seal/validation?rid=f44895d4-7131-4971-9e75-144de5f6a1c3 "TRUSTe Privacy Certification")
 
-### Effective date: June 16, 2016
+### Effective date: September 26, 2016
 
-Themis Solutions, Inc. (“We”) are committed to protecting and respecting your privacy.
+Themis Solutions, Inc. (“We”, “Our”, “Us”) are committed to protecting and respecting your privacy.
 
 This policy sets out the basis on which any personal data we collect from you, that you provide to us, or that is provided to us by a subscriber to our services (under the brand name ‘Clio’), will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting www.goclio.com you are accepting and consenting to the practices described in this policy.
 
@@ -23,11 +23,11 @@ We may collect and process the following data about you:
 
 ### Cookies
 
-We use cookies for content personalization, analytics/performance, functional purposes, as well as the ability to access secure areas of our site . Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
+We use cookies for content personalization, analytics/performance, functional purposes, as well as the ability to access secure areas of our site. Users can control the use of cookies at the individual browser level. If you reject cookies, you may still use our site, but your ability to use some features or areas of our site may be limited.
 
 ### Tracking Technologies
 
-Technologies such as: cookies, beacons, tags and scripts are used by Themis Solutions, Inc. and our marketing partners, affiliates, or analytics or online customer support service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
+Technologies such as: cookies, beacons, tags and scripts are used by Themis Solutions, Inc. and our marketing partners, affiliates, or analytics or online customer support service providers. These technologies are used in analyzing trends, administering the site, tracking users’ movements around the site and to gather demographic information about our user base as a whole. We may receive reports based on the use of these technologies by these companies on an individual as well as aggregated basis.
 
 ### Analytics/Log Files
 
@@ -37,7 +37,7 @@ We may combine this automatically collected log information with other informati
 
 ### Local Storage
 
-We use Local Storage (LSs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
+We use Local Storage (LSs) such as HTML5 to store content information and preferences. Third parties with whom we partner to provide certain features on our site or to display advertising based upon your Web browsing activity use LSs such as HTML 5 to collect and store information. Various browsers may offer their own management tools for removing HTML5 LSOs.
 
 ### Behavioural Targeting
 
@@ -52,7 +52,7 @@ We use information held about you in the following ways:
   * **Information you give to us.** We will use this information: 
     * to carry out our obligations arising from any contracts entered into between you and us or between a Subscriber and us and to provide you with the information, products and services that you or a Subscriber request from us;
     * to provide you with information about other goods and services we offer that are similar to those that you have already purchased or enquired about;
-    * to provide you with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer we will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way please do not tick the relevant box situated on the form on which we collect your data (the registration form);
+    * to provide you with information about goods or services we feel may interest you. If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale or negotiations of a sale to you. If you are a new customer we will contact you by electronic means only if you have consented to this. If you do not want us to use your data in this way, please do not tick the relevant box situated on the form on which we collect your data (the registration form);
     * to notify you about changes to our service;
     * to ensure that content from our site is presented in the most effective manner for you and for your computer.
   * **Information we collect about you.** We will use this information: 
@@ -88,7 +88,7 @@ We will not share personal information about you or any Content with any third p
 
 
 
-We may disclose your personal information to third parties:
+In certain situations, Themis Solutions, Inc. may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. We may disclose your personal information to third parties:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
@@ -111,7 +111,7 @@ On our App website (app.goclio.com) which is for Subscribers to our service and 
 
 ### User Access and Choice
 
-If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it] by making the change on our member information page [or by emailing our Customer Support at [support@clio.com](mailto:support@clio.com) or by contacting us by telephone or postal mail at the contact information listed below. We will respond to your request to access within 30 days.  
+Themis Solutions Inc. will make commercially reasonable efforts to provide you reasonable access to any of your personally identifying information we maintain within 30 days of your access request. If your personally identifiable information changes, or if you no longer desire our service, you may [correct, update, amend, delete/remove, ask to have it removed from a public forum, directory or testimonial on our site or deactivate it] by making the change on our member information page [or by emailing our Customer Support at [support@clio.com](mailto:support@clio.com) by contacting us by telephone or postal mail at the contact information listed below.  
 We will retain your information for as long as your account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
 
 ### Opt-out Preferences
@@ -156,9 +156,7 @@ Any material changes we may make to our privacy policy in the future will be pos
 
 ### Certification
 
-Themis Solutions, Inc. has received TRUSTe’s Privacy Seal signifying that this privacy policy and our practices have been reviewed for compliance with the TRUSTe program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through this web site, http://www.goclio.com and does not cover information that may be collected through our mobile applications and downloadable software.
-
-If you have questions or concerns regarding this Statement, you should first contact support@clio.com. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe at [https://feedback-form.truste.com/watchdog/request](http://feedback-form.truste.com/watchdog/request).
+If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact our U.S.-based third party dispute resolution provider (free of charge) at <https://feedback-form.truste.com/watchdog/request>.
 
 ### Contact
 
