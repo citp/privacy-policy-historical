@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the southbeachsmoke.com privacy policy that was archived on 2016-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161016230445id_/https%3A//www.southbeachsmoke.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the southbeachsmoke.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416225206id_/https%3A//www.southbeachsmoke.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy Policy | South Beach Smoke
 
