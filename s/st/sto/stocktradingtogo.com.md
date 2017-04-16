@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the stocktradingtogo.com privacy policy that was archived on 2015-10-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151016165226id_/https%3A//www.stocktrader.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the stocktradingtogo.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416190943id_/https%3A//www.stocktrader.com/privacy-policy) for the most accurate reproduction.*
 
 # PRIVACY POLICY - StockTrader.com
 
-This Privacy Policy controls and governs your use and access to any and all of Reink Media Group, LLC’s websites: StockBrokers.com, InvestingTeacher.com, StockTrader.com, and Ticker.tv (collectively the “Website”).  
+This Privacy Policy controls and governs your use and access to any and all of Reink Media Group, LLC’s websites: StockBrokers.com, ForexBrokers.com, StockTrader.com, and InvestingTeacher.com (collectively the “Website”).
 
 **WEBSITE VISITORS**
 
@@ -28,8 +28,22 @@ If you are a registered user of the Website and have supplied your email address
 
 **COOKIES**
 
-A cookie is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns.  The Website uses cookies to help Reink Media identify and track visitors, their usage of the Website, and their website access preferences.  Visitors of the Website who do not wish to have cookies placed on their computer should set their browsers to refuse cookies before using the Website, with the caveat that certain features to the Website may not function properly without the aid of cookies.
+A cookie or like-technology such as a web-beacon (“cookies”) is a string of information that a website stores on a visitor’s computer, and that the visitor’s browser provides to the website each time the visitor returns. The Website uses cookies to help Reink Media identify and track visitors, their usage of the Website, and their website access preferences. All of Reink Media’s cookies are both Session (only during your current session) and Persistent (remains with you beyond current session). Users of Reink Media’s websites may also experience both Session and Persistent third-party cookies, as described in the reference chart below. 
 
+Visitors of the Website who do not wish to have cookies placed on their computer may opt out by either setting their internet browsers to refuse cookies before using the Website or, in the case of third-party cookies, by opting out directly with the third-party websites, by visiting the websites listed in the reference chart below and making the appropriate changes to the user preference setting. For clarity’s sake, most cookie-like technology such as web beacons are reliant on cookies to function properly, so in many instances declining cookies through a third-party website user preference setting will impair their functioning. Users should be advised that by opting out of receiving cookies, certain features to the Website may not function properly. Users should be further advised that by compliance with Reink Media’s informed consent policy, users have expressly granted their informed consent to the use of all cookies, including but not limited to, first-party Persistent cookies and third-party Session and Persistent cookies. For purposes of the informed consent policy, the duration of a user’s informed consent to the use of all cookies shall not exceed one-year. Following the expiration of the one-year period from the date of the user’s granting of informed consent, the user shall be again required to either grant Reink Media their informed consent for the use of cookies or opt out in a manner set forth above. 
+
+**INFORMED CONSENT WAIVER FOR COOKIES**
+
+“By visiting this website and scrolling, you agree to our cookie policy and that we may use cookies for the best possible user experience.”
+
+**INFORMATION REGARDING COOKIES AND ORIGIN SOURCE**
+
+**Types of cookie** | **Who serves these cookies**  
+---|---  
+User experience cookies: These cookies are strictly for the use throughout our website and provide you with the best user experience. | StockBrokers.com, ForexBrokers.com, StockTrader.com, InvestingTeacher.com, FuturesBrokers.com, Retirement.net  
+**Analytics cookies:** These cookies collect data that is used to help analyze how our websites are being used or how effective our marketing campaigns are. | Google, DoubleClick, CrazyEggs, AdWords  
+**Advertising cookies:** These cookies allow us to show relevant advertising messages to you based on your interests. | Facebook, Twitter, Adobe, Integral Ad Science, MOAT, White Ops, Adometry, Commission Junction  
+  
 **CALIFORNIA PRIVACY POLICY  **
 
 If you are a California resident you have the right to request information from Reink Media regarding the manner in which Reink Media shares certain categories of your personal information with third parties, for the third parties’ marketing purposes.  California law provides that you have the right to submit a request to Reink Media at its designated address and receive the following information:
@@ -38,7 +52,7 @@ If you are a California resident you have the right to request information from 
 
 – The names and addresses of the third parties that received such information, or if the nature of their business cannot be determined from the name, then examples of the products or services marketed.
 
-You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually.  You may make such a request by contacting Reink Media by phone or mail/electronic mail at: Reink Media Group, LLC, 306 S. Washington, Suite 214, Royal Oak, Michigan 48067; (248) 956-0328; email: [admin@reinkmedia.com](mailto:admin@reinkmedia.com).
+You are entitled to receive a copy of this information in a standardized format and the information will not be specific to you individually.  You may make such a request by contacting Reink Media by phone or mail/electronic mail at: Reink Media Group, LLC, 306 S. Washington, Suite 200, Royal Oak, Michigan 48067; (248) 956-0328; email: [admin@reinkmedia.com](mailto:admin@reinkmedia.com).
 
 **PRIVACY POLICY CHANGES**
 
