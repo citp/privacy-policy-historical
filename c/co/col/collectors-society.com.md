@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2016-11-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161126162010id_/http%3A//www.collectiblesgroup.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the collectors-society.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416082723id_/http%3A//www.collectiblesgroup.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,10 +6,10 @@ This website is operated by the Certified Collectibles Group (“CCG”)
 
 This Privacy Policy covers how CCG (also “we” or “us”) collects, uses, retains, processes, discloses and transfers Personal Information on the websites of the CCG Companies and on our mobile application NGC Coin Details (together the “Site” or the “Website”). The websites of the CCG companies include:
 
-  * Numismatic Guaranty Corporation (NGC): [www.ngccoin.com](https://www.ngccoin.com/), [www.ngc-coin.co.za](http://www.ngc-coin.co.za/), [www.ngccoin.cn](https://www.ngccoin.cn/), [www.ngccoin.hk](https://www.ngccoin.hk/), [www.ngccoin.jp](http://www.ngccoin.jp/), [www.ngccoin.sg](http://www.ngccoin.sg/), [www.ngccoins.kr](http://www.ngccoins.kr/), [www.ngccoin.tw](http://www.ngccoin.tw/), [www.ngccoin.de](https://www.ngccoin.de/), [www.ngccoin.es](http://www.ngccoin.es/), [www.ngccoin.fr](http://www.ngccoin.fr/), [www.ngccoin.it](http://www.ngccoin.it/), [www.ngc-coin.pl](http://www.ngc-coin.pl/), [www.ngccoin.ru](http://www.ngccoin.ru/), [www.ngccoin.ch](http://www.ngccoin.ch/) and [www.ngccoin.co.uk](http://www.ngccoin.co.uk/)
+  * Numismatic Guaranty Corporation (NGC): [www.ngccoin.com](https://www.ngccoin.com/), [www.ngccoin.co.za](http://www.ngccoin.co.za/), [www.ngccoin.cn](https://www.ngccoin.cn/), [www.ngccoin.hk](https://www.ngccoin.hk/), [www.ngccoin.jp](http://www.ngccoin.jp/), [www.ngccoin.sg](http://www.ngccoin.sg/), [www.ngccoin.kr](http://www.ngccoin.kr/), [www.ngccoin.tw](http://www.ngccoin.tw/), [www.ngccoin.de](https://www.ngccoin.de/), [www.ngccoin.es](http://www.ngccoin.es/), [www.ngccoin.fr](http://www.ngccoin.fr/), [www.ngccoin.it](http://www.ngccoin.it/), [www.ngccoin.pl](http://www.ngccoin.pl/), [www.ngccoin.ru](http://www.ngccoin.ru/), [www.ngccoin.ch](http://www.ngccoin.ch/) and [www.ngccoin.co.uk](http://www.ngccoin.co.uk/)
   * Numismatic Conservation Services (NCS): [www.ncscoin.com](http://www.ncscoin.com/)
   * Paper Money Guaranty (PMG): [www.pmgnotes.com](https://www.pmgnotes.com/), [www.pmgnotes.cn](https://www.pmgnotes.cn/), [www.pmgnotes.hk](https://www.pmgnotes.hk/), [www.pmgnotes.kr](https://www.pmgnotes.kr/) and [www.pmgnotes.tw](https://www.pmgnotes.tw/)
-  * Certified Guaranty Company (CGC): [www.cgccomics.com](http://www.cgccomics.com/), [www.cgcmagazines.com](http://www.cgcmagazines.com/), [www.certifiedguaranty.com](http://www.certifiedguaranty.com/) and [www.cgcsignatureseries.com](http://www.cgcsignatureseries.com/)
+  * Certified Guaranty Company (CGC): [www.cgccomics.com](http://www.cgccomics.com/), [www.cgcmagazines.com](http://www.cgcmagazines.com/), [www.certifiedguaranty.com](http://www.certifiedguaranty.com/)
   * Classic Collectible Services (CCS): [www.ccspaper.com](http://www.ccspaper.com/)
   * Certified Collectibles Group (CCG): [www.collectiblesgroup.com](http://www.collectiblesgroup.com/) and [www.collectors-society.com](http://www.collectors-society.com/)
 
