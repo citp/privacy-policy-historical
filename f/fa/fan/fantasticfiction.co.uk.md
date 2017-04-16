@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the fantasticfiction.co.uk privacy policy that was archived on 2016-03-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160304135328id_/http%3A//www.fantasticfiction.co.uk/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasticfiction.co.uk privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416182200id_/https%3A//www.fantasticfiction.com/privacy.htm) for the most accurate reproduction.*
 
 # Privacy Statement
 
-[](http://www.fantasticfiction.co.uk/)
+[](https://www.fantasticfiction.com/)
 
   
 
@@ -12,11 +12,11 @@
   
 
 
-**Fantastic Fiction** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Fantastic Fiction](http://www.fantasticfiction.co.uk/)
+**Fantastic Fiction** has created this privacy statement in order to demonstrate our firm commitment to privacy. The following discloses the information gathering and dissemination practices for this Web site: [Fantastic Fiction](https://www.fantasticfiction.com/)
 
 Information Automatically Logged
 
-This web site does not set any cookies. 
+We use cookies to ensure you get the best experience on our website. [More info](https://www.fantasticfiction.com/cookie-policy.htm). 
 
 Advertisers
 
@@ -41,7 +41,8 @@ Abebooks
 
 Contacting the Web Site
 
-If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@fantasticfiction.co.uk](mailto:webmaster@fantasticfiction.co.uk)
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: [webmaster@fantasticfiction.com](mailto:webmaster@fantasticfiction.com)
 
+  
   
 
