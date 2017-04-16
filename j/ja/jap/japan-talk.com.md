@@ -1,8 +1,7 @@
-> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2013-03-10. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130310073612id_/http%3A//www.japan-talk.com/jt/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the japan-talk.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417004338id_/http%3A//www.japan-talk.com/jt/PrivacyServlet) for the most accurate reproduction.*
 
 # Privacy Policy - Japan Talk
 
-|  |    
 Japan Talk takes your privacy seriously. Please read the following to learn more about our privacy policy.
 
 ## What This Privacy Policy Covers
