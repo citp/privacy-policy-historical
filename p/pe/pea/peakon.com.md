@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the peakon.com privacy policy that was archived on 2016-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160315021712id_/https%3A//peakon.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the peakon.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416174431id_/https%3A//peakon.com/privacy-policy) for the most accurate reproduction.*
 
-# Peakon - Employee Engagement Software
+# Privacy Policy
 
-Last updated: December 15, 2015
+Last updated: March 21, 2017
 
 Peakon ApS ("us", "we", or "our") operates the https://peakon.com website (the "Service").
 
@@ -56,7 +56,7 @@ If Peakon ApS is involved in a merger, acquisition or asset sale, your Personal 
 
 ## Security
 
-The security of your Personal Information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage is 100% secure. While we strive to use commercially acceptable means to protect your Personal Information, we cannot guarantee its absolute security.
+We take security very seriously at Peakon and invest in infrastructure, processes and services to protect and store our client's data. We use third party audits to externally measure and test our processes and internal policies, security bounty programmes to get expert penetration testing and automated security scans to discover application and configuration issues.
 
 ## Links To Other Sites
 
