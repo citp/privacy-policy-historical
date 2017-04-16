@@ -1,15 +1,14 @@
-<!--The following is the downloaded HTML source of the fantasticfiction.com privacy policy that was archived on 2015-11-27.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20151127001222id_/http%3A//www.fantasticfiction.co.uk/privacy.htm) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fantasticfiction.com privacy policy that was archived on 2017-04-16.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170416182200id_/https%3A//www.fantasticfiction.com/privacy.htm) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html><head>
-<base href="http://www.fantasticfiction.co.uk/">
+<!DOCTYPE html><html lang="en"><head>
+<base href="https://www.fantasticfiction.com/">
 <title>Privacy Statement</title>
 <meta http-equiv="Content-Type" content="text/html;charset=utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="author" content="webmaster@fantasticfiction.co.uk - http://www.fantasticfiction.co.uk">
+<meta name="author" content="webmaster@fantasticfiction.com - http://www.fantasticfiction.com">
 <meta name="robots" content="NOINDEX, FOLLOW">
-<link href="/css/ff-v4.002-min.css" rel="stylesheet" type="text/css">
-<!--head--><!--/head-->
+<link href="/css/ff.002.css" rel="stylesheet" type="text/css">
 </head>
 
 <body>
@@ -32,7 +31,7 @@
 <a href="/"><img alt="Fantastic Fiction" src="/fflogo.png" width="250" height="25"></a>
 </div>
 <div class="banner">
-<form action="/search/"><strong>Search for</strong> &nbsp;<select name="searchfor" onchange="javascript:this.form.keywords.focus();"><option selected="selected" value="author">Author&nbsp;&nbsp;&nbsp;&nbsp;</option><option value="book">Book</option><option value="isbn">ISBN</option></select> &nbsp;<input type="text" name="keywords" size="29" maxlength="60"> &nbsp;<input type="submit" value="Find"></form>
+<form action="/search/"><strong>Search for</strong> &nbsp;<select name="searchfor" onchange="javascript:this.form.keywords.focus();"><option selected="selected" value="author">Author&nbsp;&nbsp;&nbsp;&nbsp;</option><option value="book">Book</option></select> &nbsp;<input type="text" name="keywords" size="29" maxlength="60"> &nbsp;<input type="submit" value="Find"></form>
 </div>
 <div class="spacer"></div>
 <div class="ffmenu">
@@ -51,11 +50,11 @@
 <div class="blurb">
 <strong>Fantastic Fiction</strong> has created this privacy statement in order to demonstrate our firm commitment to privacy. 
 The following discloses the information gathering and dissemination practices for this Web site:
-<a href="http://www.fantasticfiction.co.uk/">Fantastic Fiction</a>
+<a href="https://www.fantasticfiction.com/">Fantastic Fiction</a>
 <br><br><br>
 <span class="g">Information Automatically Logged</span>
 <br><br>
-This web site does not set any cookies.
+We use cookies to ensure you get the best experience on our website. <a href="/cookie-policy.htm">More info</a>.
 <br><br>
 <span class="g">Advertisers</span>
 <br><br>
@@ -91,24 +90,47 @@ Abebooks
 <span class="g">Contacting the Web Site</span>
 <br><br>
 If you have any questions about this privacy statement, the practices of this site, or your dealings with this Web site, you can contact: 
-<a href="mailto:webmaster@fantasticfiction.co.uk">webmaster@fantasticfiction.co.uk</a>
+<a href="mailto:webmaster@fantasticfiction.com">webmaster@fantasticfiction.com</a>
 <br><br>
 </div>
 </div>
-<div class="ff1">
-<table width="100%"><tbody><tr><td align="center" valign="bottom"><form name="booksearchform2" action="/search/" onsubmit="javascript:if (document.booksearchform2.searchfor.options[document.booksearchform2.searchfor.selectedIndex].value=='isbn') {return checkisbn(document.booksearchform2.keywords.value)} else {return true}"><strong>Search for</strong> <select name="searchfor" onchange="document.booksearchform2.keywords.focus();"><option value="author">Author&nbsp;&nbsp;&nbsp;&nbsp;</option><option selected="selected" value="book">Book&nbsp;&nbsp;&nbsp;&nbsp;</option><option value="isbn">ISBN&nbsp;&nbsp;&nbsp;&nbsp;</option></select>&nbsp;&nbsp;&nbsp;<input type="text" name="keywords" value="" size="30" maxlength="60"><input name="btn" type="submit" value="Find"></form><br></td></tr></tbody></table>
-</div>
-<div class="ffftr">
-© 2015 <strong>Fantastic</strong>Fiction<br>
-Questions? Comments? Corrections? Please email <a href="mailto:webmaster@fantasticfiction.co.uk">webmaster@fantasticfiction.co.uk</a><br>
-</div>
+
+<!--footer-->
 <br>
+<form action="/search/"><strong>Search for</strong> &nbsp;<select name="searchfor" onchange="this.form.keywords.focus();"><option selected="selected" value="author">Author&nbsp;&nbsp;&nbsp;&nbsp;</option><option value="book">Book</option></select> &nbsp;<input type="text" name="keywords" size="29" maxlength="60"> &nbsp;<input type="submit" value="Find"></form>
+<br>
+<div class="footer">
+© 1999 - <script async="" src="//www.google-analytics.com/analytics.js"></script><script>document.write(new Date().getFullYear());</script>2020 Fantastic Fiction<br>
+Questions? Comments? Corrections? Please email <a href="mailto:webmaster@fantasticfiction.com">webmaster@fantasticfiction.com</a><br>
+<a href="/privacy.htm">Privacy Policy</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/about.htm">About Fantastic Fiction</a>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<a href="/preferences.htm">Preferences</a>
+</div>
+<!--/footer-->
+
 </div>
 </div>
-<script async="" src="//www.google-analytics.com/analytics.js"></script><script src="/js/ff-usr-v5-e.js"></script>
+
+<!--error-handler-->
+<!--/error-handler-->
+
+<script src="/clu/"></script>
+<script src="/js/ff.007.js"></script>
 <script>
-initUser();
+if (typeof country === 'undefined') {country = 'US'}
+
+if ((!getCookie('cookieconsent_dismissed'))&&(country !== 'US')&&(country !== 'CA')) {
+  loadScript('/cookie-consent/cookieconsent.min.js');
+}
+
+if (getCookie('ff-plc')) {
+  document.getElementById('ffuser').innerHTML = '<a href="/editors/">' + getCookie('ff-plc').split(',')[0] + '</a> <font size="-1">[<a href="javascript:signOut()">x</a>]</font>';
+}
 </script>
+
+<!--logging-->
+<script>pageView('privacy');</script>
+<!--/logging-->
+
+<!--analytics-->
 <script>
   (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
   (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
@@ -119,4 +141,6 @@ initUser();
   ga('set', 'dimension1', 'priv');
   ga('send', 'pageview');
 </script>
+<!--/analytics-->
+
 </body></html>
