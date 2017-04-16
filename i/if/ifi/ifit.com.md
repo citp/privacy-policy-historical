@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114172506id_/https%3A//www.ifit.com/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ifit.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416173734id_/https%3A//www.ifit.com/privacypolicy) for the most accurate reproduction.*
 
 # Read iFit’s privacy policy about your information.
 
@@ -112,6 +112,12 @@ We want you to feel confident using the Site. However, no system can be complete
 
 Users may find advertising or other content on our Site that link to the sites and services of our partners, suppliers, advertisers, sponsors, licensors and other third parties. We do not control the content or links that appear on these sites and are not responsible for the practices employed by websites linked to or from our Site. In addition, these sites or services, including their content and links, may be constantly changing. These sites and services may have their own privacy policies and customer service policies. Browsing and interaction on any other website, including websites which have a link to our Site, is subject to that website's own terms and policies.
 
+###### Advertising Disclaimer
+
+iFit shares no affiliation with any political party or its views. iFit ads visible on political websites are there as a result of remarketing, not a partnership, affiliation, or endorsement. 
+
+Remarketing lets us show ads to people who've visited our website. When people leave our website without buying anything, remarketing helps us reconnect with them by showing relevant ads across their different devices and websites. The ads simply follow the user to the sites they visit.
+
 ###### Changes to this privacy policy
 
 We reserve the right to update and change this privacy policy at any time without notice to you. We encourage Users to frequently check this page for any changes to stay informed about how we are helping to protect the personal information we collect. You acknowledge and agree that it is your responsibility to review this privacy policy periodically and become aware of modifications.
@@ -128,4 +134,4 @@ California Civil Code Section 1798.83 permits users of our Site that are Califor
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:
 
-This document was last updated on June 9, 2016.
+This document was last updated on March 1, 2017.
