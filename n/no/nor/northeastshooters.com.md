@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the northeastshooters.com privacy policy that was archived on 2015-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20151025213304id_/https%3A//www.northeastshooters.com/vbulletin/faq.php%3Ffaq%3Dvb3_board_faq%23faq_ppolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the northeastshooters.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416231359id_/https%3A//www.northeastshooters.com/vbulletin/faq.php%3Ffaq%3Dvb3_board_faq%23faq_ppolicy) for the most accurate reproduction.*
 
 # Board FAQ
 
