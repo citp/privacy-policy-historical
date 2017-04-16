@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theupsstorelocal.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818014701id_/https%3A//www.theupsstore.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theupsstorelocal.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416210918id_/https%3A//www.theupsstore.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | theupsstore.com
 
