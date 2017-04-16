@@ -1,16 +1,10 @@
-> *The following text is extracted and transformed from the lezhin.com privacy policy that was archived on 2016-03-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160325025734id_/http%3A//www.lezhin.com/policy/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lezhin.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416152326id_/https%3A//www.lezhin.com/en/policy/privacy) for the most accurate reproduction.*
 
 # Lezhin Comics - Premium Comic Service
 
-NOTICE TO OUR USERS FROM THE REPUBLIC OF KOREA AND JAPAN:
+Last Modified: September 1, 2016
 
-IF YOU ARE A RESIDENT OF, OR ACCESS OUR SERVICE FROM WITHIN THE REPUBLIC OF KOREA, THE TERMS OF USE AND PRIVACY POLICY LOCATED [HERE](https://web.archive.org/ko/policy/privacy) APPLY TO YOU. THE PRIVACY POLICY BELOW DOES NOT APPLY TO YOU.
-
-IF YOU ARE A RESIDENT OF, OR ACCESS OUR SERVICE FROM WITHIN JAPAN, THE TERMS OF USE AND PRIVACY POLICY LOCATED [HERE](https://web.archive.org/ja/policy/privacy) APPLY TO YOU. THE PRIVACY POLICY BELOW DOES NOT APPLY TO YOU.
-
-Last Modified: December 13, 2015
-
-Lezhin Entertainment, Inc. (“ **LEZHIN** ”) respects the privacy rights of its users and protects the personal information collected, stored and used in connection with our service (our " **Service** "). To further this commitment, we have adopted this Privacy Policy (" **Privacy Policy** ") to guide how we collect, store, and use the information you provide us.
+Lezhin Entertainment, LLC. (“ **LEZHIN** ”) respects the privacy rights of its users and protects the personal information collected, stored and used in connection with our service (our " **Service** "). To further this commitment, we have adopted this Privacy Policy (" **Privacy Policy** ") to guide how we collect, store, and use the information you provide us.
 
 By accessing our Service, including registering for a LEZHIN account, downloading and using software made available by LEZHIN, or by clicking the “I accept” button (or its equivalent), you are accepting the practices described in this Privacy Policy. If you do not agree to this Privacy Policy, please do not register for an account with LEZHIN, download software made available by LEZHIN, or otherwise access our Service.
 
