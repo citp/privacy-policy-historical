@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the wilsonsleather.com privacy policy that was archived on 2016-03-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160314192722id_/https%3A//www.wilsonsleather.com/category/customer-service/privacy-and-security.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wilsonsleather.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417014405id_/https%3A//www.wilsonsleather.com/category/customer-service/privacy-and-security.do) for the most accurate reproduction.*
 
 # Privacy and Security - Wilsons Leather
 
@@ -44,7 +44,7 @@ As with any business, it is possible that as our business develops, we might sel
 
 ### Secure Shopping
 
-Orders placed on our website are encrypted using Secure Socket Layer (SSL) technology, the industry-standard authentication and encryption technology, to protect transactions. In order for SSL security to work properly, you must use an SSL enabled browser. Data transmissions over the Internet or any wireless network cannot be guaranteed as completely secure, and you understand through your use of this website that certain Internet security issues are beyond our control. If you have any concerns, you may place your order by phone by calling 1-866-305-4704, 9:00 a.m. to 9:00 p.m. EST, 7 days a week.
+Orders placed on our website are encrypted using Secure Socket Layer (SSL) technology, the industry-standard authentication and encryption technology, to protect transactions. In order for SSL security to work properly, you must use an SSL enabled browser. Data transmissions over the Internet or any wireless network cannot be guaranteed as completely secure, and you understand through your use of this website that certain Internet security issues are beyond our control. If you have any concerns, you may place your order by phone by calling 1-866-305-4704.
 
 Please note that email is not encrypted and is not considered a secure means of transmitting sensitive information, including credit card numbers. We will never ask for sensitive information via email, and if you receive an email that appears to be an email from Wilsons Leather requesting sensitive information, do not respond, as this might be a scam designed to steal such information.
 
