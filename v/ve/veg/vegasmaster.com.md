@@ -1,10 +1,8 @@
-> *The following text is extracted and transformed from the vegasmaster.com privacy policy that was archived on 2016-03-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160324052549id_/http%3A//www.vegasmaster.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vegasmaster.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416201441id_/https%3A//www.vegasmaster.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy for VegasMaster
 
-A
-
-t VegasMaster we are committed to safeguarding and preserving the privacy of our visitors.  
+At VegasMaster we are committed to safeguarding and preserving the privacy of our visitors.  
 This Privacy Policy explains what happens to any personal data that you provide to us, or that we collect from you whilst you visit our site.We do update this Policy from time to time so please do review this Policy regularly.
 
 ## Information We Collect
@@ -61,4 +59,4 @@ In accordance with the Data Protection Act 1998 you have the right to access any
 
 ## Contacting Us
 
-Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at info@vegasmaster.com or in writing to Anapavseos 1, 2nd floor, 3096 Limassol, Cyprus.
+Please do not hesitate to contact us regarding any matter relating to this Privacy Policy at info@vegasmaster.com or in writing to Anapavseos 1, 2nd Floor, 3096 Limassol, Cyprus.
