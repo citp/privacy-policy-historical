@@ -1,83 +1,111 @@
-> *The following text is extracted and transformed from the jkrowling.com privacy policy that was archived on 2012-02-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20120228215257id_/http%3A//www.jkrowling.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the jkrowling.com privacy policy that was archived on 2017-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170416234552id_/https%3A//www.jkrowling.com/privacy-policy-cookies) for the most accurate reproduction.*
 
-# J.K. Rowling - Privacy Policy
+# Privacy & Cookies Policy - J.K. Rowling
 
 J.K. Rowling Website Limited (the “Company”) is committed to protecting and respecting your privacy.
 
-This policy (together with the Company’s [terms of use](https://web.archive.org/web/20120228215257id_/http%3A//www.jkrowling.com/terms.html) and any other documents referred to on it) sets out the basis on which any personal data the Company collects from you, or that you provide to the Company, will be processed by the Company. Please read the following carefully to understand the Company’s views and practices regarding your personal data and how the Company will treat it.  
+This policy (together with the Company’s terms of use and any other documents referred to on it (the “Terms and Conditions”)) sets out the basis on which any personal data and information the Company collects from you, or that you provide to the Company, will be processed by the Company during your use of [www.jkrowling.com](http://www.jkrowling.com/) (the “site”). Please read the following carefully to understand the Company’s views and practices regarding your personal data and information, how the Company will treat it and the Company’s practises with regards to use of cookies.
+
 For the purpose of the Data Protection Act 1998 (the “Act”), the data controller is J.K. Rowling Website Limited whose registered address is 89 New Bond Street, London W1S 1DA.
 
-## INFORMATION THE COMPANY MAY COLLECT FROM YOU
+Please see our terms of use for more information about, and the basis on which we provide, the site.
 
-The Company may collect and process the following data about you:
+YOUR INFORMATION
 
-  * Information that you provide by filling in forms on the site [www.jkrowling.com](http://www.jkrowling.com/) (the “site”). This includes, without limitation, your first name, last name and email address provided at the time of subscribing to the newsletter. The Company may also ask you for information from time to time (for example, if the Company runs any competitions, when you enter such competition), and when you report a problem with the site.
+We will not collect information that personally identifies you. **We do not collect any personal data.**
 
-  * If you contact the Company, the Company may keep a record of that correspondence.
+COOKIES
 
-  * Details of your visits to our site [including, but not limited to, traffic data, location data, weblogs and other communication data] and the resources that you access.
+Like many online services, the site uses a feature called a cookie, which is a small data file that is sent to your browser from a web server and stored on your computer or device’s hard drive.
 
+The site uses cookies that automatically log certain non-personal information, including aggregated, statistical data about how you are using the site to analyse its performance and usage. This information may include the URL of the website which linked you to the site, your IP address and the number and duration of visits to the site. The IP address indicates the location of your computer on the internet. This information is collected in an anonymous way that does not identify you personally.
 
+Various different types of cookies are used via the site:
 
-
-## COOKIES
-
-Like many online services, the Company may use a feature called a cookie. A cookie is a small data file that is sent to your browser from a web server and stored on your computer’s hard drive. The Company uses the cookies (including some provided to the Company through online analytics services such as Google Analytics) and other automatically tracked information to track visitors to the site to analyse performance and usage of the site, in order to develop the site in accordance with visitors’ requirements.  
-You can delete cookies from your hard drive at any time. You can set your internet browser so that it will not allow cookies to be stored on your device. Further information on how to prevent cookies from being stored on your device can be found on [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) under the ‘manage cookies’ section. Alternatively, you can access further information by going to the help menu within your internet browser. To opt out of being tracked by Google Analytics across all websites visit <http://tools.google.com/dlpage/gaoptout>.
-
-## WHERE THE COMPANY STORES YOUR PERSONAL DATA
-
-The data that the Company collects from you may be transferred to, and stored at, a destination outside the European Economic Area (“EEA”). It may also be processed by staff operating outside the EEA who work for the Company or for one of the Company’s suppliers. By submitting your personal data, you agree to this transfer, storing or processing. The Company will take all steps reasonably necessary to ensure that your data is treated securely and in accordance with this privacy policy.  
-All information you provide to the Company is stored on our secure servers. Unfortunately, the transmission of information via the internet is not completely secure. Although the Company will do its best to protect your personal data, the Company cannot guarantee the security of your data transmitted to the site; any transmission is at your own risk. Once the Company has received your information, the Company will use strict procedures and security features to prevent unauthorised access.
-
-## USES MADE OF THE INFORMATION
-
-The Company uses information held about you in the following ways:
-
-  * To ensure that content from the site is presented in the most effective manner for you and for your computer.
-
-  * To provide you with the newsletter or other information or services that you request from the Company from time to time.
-
-  * To carry out its obligations arising from any contracts entered into between you and the Company.
-
-  * To notify you about changes to the site.
+  * “Session cookies” are used (which will usually be deleted when you log out) to keep track of your internet session, which, for instance, allows the Company to remember the site language. Without these cookies the online services that you have asked for cannot be provided. Session cookies are necessary and/or useful for the functioning of the site
+  * “Persistent cookies” are used (which are longer-term) to help you move around and enjoy the features on the site more easily and to remember preferences, actions and settings to improve your visit (at your request).
 
 
 
+The cookies outlined above expire after varying periods from around 30 minutes up to 2 years or more. The length of time that a cookie remains on your computer or mobile device depends on whether it is a “persistent” or “session” cookie. Session cookies last until you stop browsing and persistent cookies last until they expire or are deleted.
 
-Only where you have consented to be contacted for such purposes, the Company may also use your data, or permit selected third parties to use your data, to provide you with information about goods and services which may be of interest to you and the Company or they may contact you about these by email. If you do not want the Company to pass your details on to third parties for marketing purposes, please tick the relevant box situated on the form on which the collects your data.  
-If at any time, you wish to stop receiving the newsletter or any marketing communications (if any), you may unsubscribe by clicking on the link contained in any newsletter you receive by email.
+In further detail, the cookies fall into the following categories:
 
-## DISCLOSURE OF YOUR INFORMATION
+1 Analytics (e.g. Google Analytics; Webengage)  
+These cookies are used to compile various (anonymised) metrics for our users to get a better understanding of how the site is used (pages visited and time spent on the site, for example), so that the Company can deliver more of the content you want, and less of the content you don’t. This information also helps us to make better decisions for our future initiatives. We use partners like [Webengage](http://webengage.com/privacy) and [Google Analytics](http://www.google.co.uk/intl/en-GB/policies/technologies/types/). These analytics cookies are set by those partners, and are in accordance with the relevant partner’s own privacy and cookies policies.
 
-The Company may disclose your personal information to third parties:
+2\. Performance data  
+This lets us track how long it takes users to load each page, what pages we can cache.
 
-  * In the event that it sells or buys any business or assets, in which case the Company may disclose your personal data to the prospective seller or buyer of such business or assets.
+3\. Embedded video (YouTube)  
+We know that many of you love films, so the site may make use of clips on YouTube. YouTube sets its own cookies, and the [YouTube cookies policy](https://www.google.com/policies/technologies/types/) can be found here.
 
-  * If the Company or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
+4\. Social media (Twitter)  
+J.K. Rowling isn’t just a master of novel writing – she’s also pretty handy within the confines of 140 characters! The Company uses cookies to enable you to enjoy the social media features on the site. In order to host her tweets, we embed Twitter links. Twitter sets its own cookies, and [Twitter’s cookies policy](https://support.twitter.com/articles/20170514) can be found here.
 
-  * If it is under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://web.archive.org/web/20120228215257id_/http%3A//www.jkrowling.com/terms.html) and other agreements; or to protect the rights, property, or safety of the Company, the users of the site, or others.
+5\. Preferences  
+The Company uses this type of cookie to ensure that it doesn’t show you things you’ve already seen before, like the cookie policy acceptance and the intro page. This means you get to spend more time with the content you love, and less time with the content you don’t.
 
+6\. Session state  
+Websites often collect information about how users interact with a website. This may include the pages that users visit most often, and whether users get error messages from certain pages. The Company uses these so-called “session state cookies” to help us improve the Company’s services, in order to improve our users’ browsing experience. Blocking or deleting these cookies will not render the site unusable.
 
+By agreeing to the Company’s Terms and Conditions, you agree to the Company using the cookies and your information in these ways, but you can delete any of these cookies at any time if you wish.
 
+You may refuse to accept cookies by activating the setting on your web browser that allows you to refuse the setting of cookies, or you can modify your browser so that it notifies you when cookies are sent to it. The Help portion of your browser, most likely found on the toolbar, typically tells you how to prevent your browser from accepting new cookies, how to have the browser notify you when you receive a new cookie, or how to disable cookies altogether. You can check whether these settings are currently enabled on your computer – or find out how to change your current settings – here:
 
-## YOUR RIGHTS
+Javascript: [www.enable-javascript.com](https://www.pottermore.com/about/www.enable-javascript.com)  
+Cookies: [www.whatarecookies.com](https://www.pottermore.com/about/www.whatarecookies.com)
 
-You have the right to ask the Company not to process your personal data for marketing purposes. The Company will ask you (before collecting your data) if you wish to provide the Company with your data for such purposes or if you agree to the Company sharing your information with any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms the Company uses to collect your data.   
-The site may, from time to time, contain links to and from the websites of the Company’s partner sites or those of its commercial partners and sponsors. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that the Company does not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+Alternatively, you may wish to visit the “manage cookies” section on [www.allaboutcookies.org](https://www.pottermore.com/about/www.allaboutcookies.org), which contains information on how to prevent cookies from being stored on your device as well as other helpful advice.
 
-## ACCESS TO INFORMATION
+To opt out of being tracked by Google Analytics across all websites visit: <http://tools.google.com/dlpage/gaoptout/>
 
-The Act gives you the right to access information held about you. Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet the Company’s costs in providing you with details of the information held about you. Please address any access requests to:
+Unless you do this, cookies will be issued when you use the site. If you do not accept cookies or decide to disable them, you will still be able to access and use the site, but you may lose some features and functionality.
 
-The Data Protection Officer  
+You can find out more about cookies at [www.youronlinechoices.eu](http://www.youronlinechoices.eu/).
+
+WHERE THE COMPANY STORES YOUR INFORMATION
+
+The Company will take all steps reasonably necessary to ensure that your information is treated securely and in accordance with this Privacy & Cookies Policy.
+
+All information you provide to the Company is stored on our secure servers. Unfortunately, the transmission of information via the internet is not completely secure. Although the Company will do its best to protect your information, the Company cannot guarantee the security of the information you transmit to the site; any transmission is at your own risk.
+
+Once the Company has received your information, the Company will use strict procedures and security features to prevent unauthorised access, as required by applicable laws. In particular, we take steps to protect the security of your information with appropriate physical, technological and administrative measures. You accept the inherent risks of providing information and dealing online and will not hold us responsible for any breach of security that is due to circumstances beyond our reasonable control.
+
+If you have any concerns about the security of your information or should you wish to access written information about our policies and practices regarding any of our authorised third-party service providers, please see the end of this Privacy & Cookies Policy for details of how to contact us.
+
+USES MADE OF THE INFORMATION
+
+The Company uses information held about you to ensure that content from the site is presented in the most effective manner for you and for your computer, to provide you with the services outlined in this policy, and to understand how you use the site and how it is functioning so that the Company can maintain and improve the site.
+
+The Company may use the information we collect to comply with law, to investigate a complaint made by another user or a potential breach of the site’s Terms and Conditions or to prevent and detect unlawful or criminal activity, fraud and misuse of, or damage to, the site or the products, content and services made available through it, and to take appropriate legal action against those responsible.
+
+The Company may on occasion link or combine the information that we collect about you with information that we receive from other sources. The Company may combine this information with information you give to us and information the Company collects about you. (For example, we may decide to combine two or more databases into a single database of information.) We may use this information and the combined information for your and/or the Company’s benefit (for example, to allow the Company to provide a more seamless support and/or to provide you with better, personalised services and content).
+
+DISCLOSURE OF YOUR INFORMATION
+
+The Company may disclose information that does not identify you personally including aggregated or de-identified data, in our discretion.
+
+YOUR RIGHTS
+
+The site may, from time to time, contain links to and from the websites of third parties. If you follow a link to any of these websites, please note that these websites have their own terms and conditions and privacy & cookies policies and that the Company does not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
+
+CONTACTING US
+
+Please contact us to request the information that the Company holds on you,
+
+If you would like to make a ‘data subject access request’ please be advised that any request may be subject to a fee of £10 to meet the Company’s costs in providing you with details of the information held about you. Please address any requests to:
+
 J.K. Rowling Website Limited  
 c/o The Blair Partnership  
-1st Floor  
-8–14 Vine Hill  
+P.O. Box 7828  
 London  
-EC1R 5DX
+W1A 4GE
 
-## CHANGES TO THIS PRIVACY POLICY
+Please be advised that any personal information that you choose to provide us with when contacting us will be utilised in accordance with the Act (and any other applicable laws) and will be destroyed after the Company replies to any queries that you may raise.
 
-Any changes the Company may make to this privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.
+CHANGES TO THIS PRIVACY & COOKIES POLICY
+
+Any changes the Company may make to this Privacy & Cookies Policy in the future will be posted on this page.
+
+ _19th December 2016_
