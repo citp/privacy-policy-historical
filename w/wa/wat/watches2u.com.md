@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the watches2u.com privacy policy that was archived on 2016-06-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160606161115id_/http%3A//www.watches2u.com/info/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the watches2u.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417114709id_/https%3A//www.watches2u.com/info/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
