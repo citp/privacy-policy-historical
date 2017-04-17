@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lemontreehotels.com privacy policy that was archived on 2016-08-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160803175858id_/https%3A//www.lemontreehotels.com/privacy-policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lemontreehotels.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418004130id_/https%3A//www.lemontreehotels.com/privacy-policy.aspx) for the most accurate reproduction.*
 
 # Official Website of Lemon Tree Hotels, India
 
