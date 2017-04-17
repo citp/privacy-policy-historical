@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the mcdelivery.co.in privacy policy that was archived on 2016-12-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161224133537id_/https%3A//www.mcdelivery.co.in/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the mcdelivery.co.in privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417125335id_/http%3A//www.mcdelivery.co.in/PrivacyPolicy) for the most accurate reproduction.*
 
 # Home
 
