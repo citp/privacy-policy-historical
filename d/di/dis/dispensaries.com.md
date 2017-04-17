@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dispensaries.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115123723id_/https%3A//www.dispensaries.com/page/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dispensaries.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417030128id_/https%3A//www.dispensaries.com/page/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Dispensaries
 
@@ -67,7 +67,3 @@ The Services have security measures in place to prevent the loss, misuse, and al
 **Access to and Modification of Personal Information.** Regarding your Personal Information, we will use commercially reasonable efforts to provide you with access so you can request that we correct data that is inaccurate or delete data if we are not required to retain it by law or for legitimate business purposes. We may decline to process requests that we deem are unreasonable, repetitive, require technical modifications, jeopardize the privacy of others, are impractical or for which access is not otherwise required by local law.
 
 **Policy Updates and Changes.** We reserve the right, at any time and without notice, to add to, change, update, or modify this Policy, simply by posting such change, update, or modification on the Services. Any such change, update, or modification will be effective immediately upon posting on the Services. It is your responsibility to review this Policy from time to time to ensure that you continue to agree with all of its terms. 
-
-Copyright ©2015-2016 dispensaries.com. All Rights Reserved.
-
-[](https://play.google.com/store/apps/details?id=com.dispensaries) [](https://geo.itunes.apple.com/us/app/dispensaries.com/id1122512542?mt=8)
