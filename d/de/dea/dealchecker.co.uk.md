@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2016-11-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161124174644id_/http%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dealchecker.co.uk privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417070027id_/https%3A//www.dealchecker.co.uk/site/privacy.html) for the most accurate reproduction.*
 
 # Privacy
 
@@ -82,9 +82,9 @@ Some cookies are permanently stored by your browser, whilst others are deleted a
 
 Our third parties use cookies to serve up adverts that are most relevant to you, but only store anonymised data in the cookies they use.
 
-If you’d like to learn more [click here to see our Cookie Policy](https://web.archive.org/web/20161124174644id_/http%3A//www.dealchecker.co.uk/site/cookies.html) which includes a complete list of all the cookies dealchecker uses. 
+If you’d like to learn more [click here to see our Cookie Policy](https://web.archive.org/web/20170417070027id_/https%3A//www.dealchecker.co.uk/site/cookies.html) which includes a complete list of all the cookies dealchecker uses. 
 
-If you’re worried about cookies you can choose to clear your browser’s cookies history or even to disable cookies entirely - [click here](https://web.archive.org/web/20161124174644id_/http%3A//www.dealchecker.co.uk/site/cookies.html#clearing) to learn how.
+If you’re worried about cookies you can choose to clear your browser’s cookies history or even to disable cookies entirely - [click here](https://web.archive.org/web/20170417070027id_/https%3A//www.dealchecker.co.uk/site/cookies.html#clearing) to learn how.
 
   
 
