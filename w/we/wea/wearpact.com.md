@@ -1,6 +1,8 @@
-> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2016-10-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161025054845id_/https%3A//wearpact.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wearpact.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417025532id_/https%3A//wearpact.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Wear PACT
+# Privacy Policy | PACT Organic
+
+privacy policy
 
 ###### Our Commitment To Privacy
 
@@ -49,10 +51,6 @@ PACT wants to communicate with you only if you want to hear from us. If you pref
 Please be sure to include your full name and the email address you used when you registered with or made a purchase on wearPACT.com or by phone. If you ask us to remove your name and address from promotional lists, we will maintain your name in a "do not contact" file to ensure that we can honor your request. It may take up to 10 days to process your email request, during which period you may continue to receive communications from us. 
 
 Please note that when you make additional purchases at wearPACT.com or by phone, we will continue to confirm your order status and shipment by email. We may also need to contact you via telephone, email or postal mail with questions or information regarding your order. 
-
-###### How do I Know my Personal Information is Secure?
-
-We do our best to provide you with a safe and convenient shopping experience. When you enter your personal information on wearPACT.com, we use Secure Sockets Layer (SSL) technology to protect your information as it is transmitted to us and then to Cybersource for payment processing. If you have accessed our secure server, the first characters of the address in the URL should change from "http" to "https". 
 
 ###### How do I Know my Personal Information is Secure?
 
