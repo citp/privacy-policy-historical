@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the expensify.com privacy policy that was archived on 2016-12-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161213202648id_/https%3A//www.expensify.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the expensify.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417115146id_/https%3A//www.expensify.com/privacy) for the most accurate reproduction.*
 
 # Expensify - Privacy Policy
 
-Last Updated: October 28th, 2016 
+Last Updated: March 30th, 2017 
 
 At Expensify, Inc. ("Expensify", "we", "us", or "our" which include our group and affiliated companies), our most important asset is our relationship with our user community. We are committed to maintaining the confidentiality, integrity and security of information about our users and their organizations. This Privacy Policy describes how we collect, use, share and secure the personal and company information you provide when you visit the Expensify Website <https://www.expensify.com/> ("the Site") or use the Expensify Service and mobile application. It also describes your choices regarding the use, access and correction of your personal information. 
 
@@ -32,13 +32,13 @@ We do not intentionally gather Personal Data about visitors who are under the ag
 
 ##  3\. TYPES OF PERSONAL DATA WE COLLECT 
 
-Expensify collects Personal Data and Anonymous Data from you when you visit our Site, when you send us information or communications in connection with your use of the Expensify Service, and/or when you download and use the Expensify Software. "Personal Data" means data that allows someone to identify or contact you, including, for example, your name, address, geographic location of your computer or mobile device, telephone number, credit card number, email address and bank account information, as well as any other non-public information about you that is associated with or linked to any of the foregoing data. "Anonymous Data" means data about you that is not associated with or linked to your Personal Data; Anonymous Data does not permit the identification of individual persons. We collect Personal Data and Anonymous Data, as described below. 
+Expensify collects Personal Data from you when you visit our Site, when you send us information or communications in connection with your use of the Expensify Service, and/or when you download and use the Expensify Software. "Personal Data" means data that allows someone to identify or contact you, including, for example, your name, address, geographic location of your computer or mobile device, telephone number, credit card number, email address and bank account information. 
 
 ###  Personal Data You Provide To Us 
 
 We collect Personal Data from you, such as first and last name, email and mailing addresses, telephone number, professional title, company name, and password, when you register for the Expensify Service. In addition, we (or our third-party credit card or payment processor on our behalf) will collect Personal Data including your credit card number or account information when you upgrade to a paid account. We also retain information on your behalf, such as the Personal Data described above and any correspondence. If you provide us feedback or contact us via email, we will collect your name and email address, IP address, as well as any other content included in the email, in order to send you a reply, and any information that you submit to us, such as a resume. If we conduct a survey in which you participate, we may collect additional profile information. We may also collect Personal Data at other instances in the Site or Application user experience where we state that Personal Data is being collected. 
 
-If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. If your friend is a resident of the European Union, please make sure they are happy to be contacted by us. 
+If you choose to use our referral service to tell a friend about our site, we will ask you for your friend's name and email address. We will automatically send your friend a one-time email inviting him or her to visit the site. Expensify stores this information for the sole purpose of sending this one-time email and tracking the success of our referral program. If your friend is a resident of the European Union, please make sure they are happy to be contacted by us. 
 
 When you provide us with personal information about your contacts we will only use this information for the specific reason for which it is provided. 
 
@@ -48,9 +48,9 @@ Your friend may also contact us at [help@expensify.com](mailto:help@expensify.co
 
 ###  Personal Data Collected by Third Parties 
 
-We may receive Personal Data about you from companies that distribute the Expensify Service by way of a co-branded or private-labeled website, companies that offer their products and/or services via the Expensify Service, or companies that provide services (such as payment processing services) in connection with the Expensify Service (collectively, "Partner Companies"). Our Partner Companies may supply us with Personal Data, such as your name and email and mailing address information or your login credentials for such Partner Company's website or service, in order to help us establish the account or fulfill orders. We may add this information to the information we have already collected from you via our website in order to perform and improve the Expensify Service. 
+We may receive Personal Data about you from companies that distribute the Expensify Service by way of a co-branded or private-labeled website, companies that offer their products and/or services via the Expensify Service, or companies that provide services (such as payment processing services) in connection with the Expensify Service (collectively, "Partner Companies"). Our Partner Companies may supply us with Personal Data, such as your name and email and mailing address information or your login credentials for such Partner Company's website or service, in order to help us establish the account or fulfill orders. We may add this information to the information we have already collected from you via our website in order to perform and improve the Expensify Service. If you provide us personal information about others, or if others give us your information, we will only use that information for the specific reason for which it was provided to us. 
 
-This Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use the Expensify Service or the Site. Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave the Expensify Service or our Site and go to another site. During this process, a third party may collect Personal Data or Anonymous Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on a link to a third party. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
+This Privacy Policy applies only to the use and disclosure of Personal Data that we collect while you use the Expensify Service or the Site. Our provision of a link to any other website or location is for your convenience and does not signify our endorsement of such other website or location or its contents. When you click on such a link, you will leave the Expensify Service or our Site and go to another site. During this process, a third party may collect Personal Data from you. We have no control over, do not review, and cannot be responsible for, these outside websites or their content. Please be aware that the terms of this Privacy Policy do not apply to these outside websites or content, or to any collection of data after you click on a link to a third party. If you submit personal information to any of those sites, your information is governed by their privacy policies. We encourage you to carefully read the privacy policy of any Web site you visit. 
 
 ###  Personal Data Collected via Technology 
 
@@ -62,7 +62,7 @@ We use Identifiers to:
 
   * remember that you have visited us before; this means we can identify the number of unique visitors we receive; 
   * customize elements of the promotional layout and/or content of the pages of the Site or Application; 
-  * collect anonymous statistical information about how you use the Site or App (including how long you spend on the Site or Application) and where you have come to the Site or Application from, so that we can improve the Site and learn which parts of the Site and which functions of the Application are most popular with users 
+  * collect statistical information about how you use the Site or App (including how long you spend on the Site or Application) and where you have come to the Site or Application from, so that we can improve the Site and learn which parts of the Site and which functions of the Application are most popular with users 
 
 
 
@@ -76,13 +76,23 @@ Most web and mobile device browsers automatically accept cookies but, if you pre
 
 In addition to cookies, web beacons may be set by us or third parties in respect of your use of the Site or Application. Web beacons are small image files within the content of the Site or Application for analytics purposes so we or third parties can understand parts of the Site or Application are visited and which functions of the Site or Application are used and whether particular content is of interest. 
 
+When you download and use our Services, we automatically collect information on the type of device you use and operating system version. 
+
+We send you push notifications from time-to-time in order to update you about any events or promotions that we may be running. If you no longer wish to receive these types of communications, you turn them off at the device level. To ensure you receive proper notifications, we will need to collect certain information about your device such as operating system and user identification information. 
+
+We collect your location based information for the purpose of mileage tracking and providing location specific features. We may share your geo-location data with third parties for the sole purpose of providing these services. If you do not wish to allow us to share your information in this manner please opt out by contacting us at [help@expensify.com](mailto:help@expensify.com). 
+
+You may opt-out of location based services at any time by editing the setting at the device level or by emailing us at [help@expensify.com](mailto:help@expensify.com). 
+
+We use mobile analytics software to allow us to better understand the functionality of our Mobile Software on your phone. This software may record information such as how often you use the application, the events that occur within the application, aggregated usage, performance data, and where the application was downloaded from. We do not link the information we store within the analytics software to any personally identifiable information you submit within the mobile application. 
+
 ###  3rd Party Tracking Technologies 
 
-We and our affiliates (Google Analytics and New Relic) use cookies and similar tracking technologies to monitor performance and usage on the site for internal analytics and performance monitoring. These cookies are being used to help the website collect and store information regarding your visit, such as session state, authentication tokens. Users can control the use of cookies at the individual browser level. 
+We and our affiliates (Google Analytics and New Relic) use cookies and similar tracking technologies to monitor performance and usage on the site for internal analytics and performance monitoring. These cookies are being used to help the website collect and store information regarding your visit, such as session state, authentication tokens. Users can control the use of cookies at the individual browser level but if you choose to disable cookies, it may limit your use of certain features or functions on our website or service. To manage Flash cookies, please click [here](http://www.macromedia.com/support/documentation/en/flashplayer/help/settings_manager07.html). 
 
 ###  Behavioural Advertising 
 
-We may partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to not have this information used for the purpose of serving you interest-based ads, you may opt-out by clicking [here](http://www.aboutads.info/choices/) (or if located in the European Union click [here](http://www.youronlinechoices.com/)). Please note this does not opt you out of being served ads. You will continue to receive generic ads. 
+We may partner with a third party to either display advertising on our website or to manage our advertising on other sites. Our third party partner may use technologies such as cookies to gather information about your activities on this website and other sites in order to provide you advertising based upon your browsing activities and interests. If you wish to opt out of interest-based advertising click [here](https://preferences-mgr.truste.com/) [or if located in the European Union click [here](https://www.youronlinechoices.eu/)]. Please note you will continue to receive generic ads. 
 
 ##  4\. USE OF YOUR PERSONAL DATA 
 
@@ -101,8 +111,6 @@ Expensify uses your Personal Data in the following ways:
 
 
 
-We may create Anonymous Data records from Personal Data by excluding information (such as your name and email) that render the data personally identifiable to you. We use this Anonymous Data to analyse request and usage patterns so that we may enhance the content and functionality of the Expensify Service. Expensify reserves the right to use for other purposes and to disclose Anonymous Data to third parties in its discretion. 
-
 If you provide feedback on the Expensify Service, we may use such feedback for any purpose, provided we will not associate such feedback with your Personal Data. Expensify will collect and store any information contained in such communication and will treat the Personal Data in such communication in accordance with this Privacy Policy. 
 
 Any information, including Personal Data, which you elect to make publicly available on the Expensify Service will be available to other Members. If you remove information that you have made public on the Expensify Service, copies may remain viewable in cached and archived pages of the Expensify Service, or if other Members have copied or saved that information. 
@@ -117,7 +125,7 @@ Any subsidiaries, joint ventures, or other companies under common control with u
 
 Expensify may sell/divest/transfer the company (including any shares in the company), or any combination of its products, services, assets and/or businesses. Personal Data may be among the items sold or otherwise transferred in these types of transactions, you will be notified via email and/or a prominent notice on our Web site of any change in ownership or uses of your personal information. We may also sell, assign or otherwise transfer such information in the course of corporate divestitures, mergers, acquisitions, bankruptcies, dissolutions, reorganizations, liquidations, similar transactions or proceedings involving all or a portion of the company. 
 
-Regardless of any choices you make regarding your Personal Data (if applicable), Expensify may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants or lawful requests from government authorities served on Expensify; or (b) protect or defend the rights, reputation or property of Expensify or users of the Expensify Service. 
+In certain situations, Expensify may be required to disclose personal data in response to lawful requests by public authorities, including to meet national security or law enforcement requirements. Regardless of any choices you make regarding your Personal Data (if applicable), Expensify may disclose Personal Data if it believes in good faith that such disclosure is necessary to (a) comply with relevant laws or to respond to subpoenas or warrants or lawful requests from government authorities served on Expensify; or (b) protect or defend the rights, reputation or property of Expensify or users of the Expensify Service. 
 
 Except as otherwise stated in this policy, we do not sell, trade, share, or rent the Personal Data collected from our services to third parties. You expressly consent to the sharing of your Personal Data as described in this policy. 
 
