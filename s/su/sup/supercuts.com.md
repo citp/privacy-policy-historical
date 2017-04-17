@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the supercuts.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020213201id_/https%3A//www.supercuts.com/about-supercuts/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the supercuts.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417142631id_/https%3A//www.supercuts.com/about-supercuts/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy | Supercuts
 
