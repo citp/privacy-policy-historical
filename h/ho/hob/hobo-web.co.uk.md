@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hobo-web.co.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118234303id_/http%3A//www.hobo-web.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hobo-web.co.uk privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417032221id_/http%3A//www.hobo-web.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - hobo
 
@@ -110,4 +110,4 @@ Please let us know if the personal information which we hold about you needs to 
 
 **(11)    Contact**
 
-If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [info@hobo-web.co.uk](mailto:mail@therapyadvertising.com) or by post to Hobo-Web LTD, The Stables, 24 Patrick Street, Greenock, PA16 8NB, Scotland, UK.
+If you have any questions about this privacy policy or our treatment of your personal data, please write to us by email to [info@hobo-web.co.uk](mailto:mail@therapyadvertising.com) or by post to MBSA Marketing Ltd, 68 Finnart Street, , Greenock, PA16 8HJ, Scotland, UK.
