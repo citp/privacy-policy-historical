@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the wellsfargoadvisors.com privacy policy that was archived on 2016-06-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160629174206id_/https%3A//www.wellsfargoadvisors.com/disclosures/privacy.htm) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wellsfargoadvisors.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417105748id_/https%3A//www.wellsfargoadvisors.com/disclosures/privacy.htm) for the most accurate reproduction.*
 
 # Wells Fargo Advisors | Privacy
 
-_This policy is effective as of October 1, 2013._
+_This policy is effective as of November 11, 2016_
 
 FACTS | **WHAT DOES WELLS FARGO DO WITH YOUR PERSONAL INFORMATION?**  
 ---|---  
@@ -182,7 +182,7 @@ Your choices will apply individually unless you tell us otherwise. Any account h
 **Affiliates**   
 Companies related by common ownership or control. They can be financial and non- financial companies.
 
-  * Our affiliates include financial companies with Wells Fargo in their name such as Wells Fargo Bank, N.A., Wells Fargo Insurance, Inc., and Wells Fargo Advisors, LLC.
+  * Our affiliates include financial companies with Wells Fargo in their name such as Wells Fargo Bank, N.A., Wells Fargo Insurance, Inc., and Wells Fargo Clearing Services, LLC.
 
 
 
@@ -212,13 +212,11 @@ A formal agreement between nonaffiliated financial companies that together marke
 
 **Trust or fiduciary accounts** for which Wells Fargo is the trustee or service provider, including employer-sponsored retirement accounts, are protected under special rules of confidentiality. Information about these accounts is not shared for marketing purposes without specific consent.
 
-**Wells Fargo Advisors Financial Advisors:** If your financial advisor's affiliation with Wells Fargo Advisors ends and they join a non-affiliated securities broker-dealer, your financial advisor may be permitted to use limited information to contact you to join their new firm, as a usual means to continue to service and maintain your accounts. The information they may use is limited to your name, address, email address, phone number and account title.
+**Wells Fargo Clearing Services, LLC Financial Advisors:** If your financial advisor's affiliation with Wells Fargo Clearing Services, LLC ends and they join a non-affiliated securities broker-dealer, your financial advisor may be permitted to use limited information to contact you to join their new firm, as a usual means to continue to service and maintain your accounts. The information they may use is limited to your name, address, email address, phone number and account title.
 
 ## Wells Fargo U.S. legal entities and businesses covered by this notice
 
-Wells Fargo U.S. banks and companies with "Wells Fargo" in their names, including Wells Fargo Advisors, LLC; Wells Fargo Bank, N.A. doing business as Flatiron Capital; as well as American Mortgage Network, LLC, doing business as Vertice; and Abbott Downing, a Wells Fargo business.
-
-This privacy disclosure also describes the privacy practices of First Clearing, LLC ("First Clearing"), which is an affiliated clearing firm of Wells Fargo Advisors, LLC. First Clearing does not market to holders of accounts carried by First Clearing or provide information regarding such accounts or regarding your creditworthiness to other Wells Fargo companies for their own marketing or everyday business purposes, and the choices in this notice do not apply to First Clearing.
+Wells Fargo U.S. banks, except banks listed below as having their own privacy notice, and companies with “Wells Fargo” in their names, including Wells Fargo Clearing Services, LLC; Wells Fargo Clearing Services, LLC doing business as Wells Fargo Advisors or as First Clearing; Wells Fargo Bank, N.A. doing business as Flatiron Capital; as well as American Mortgage Network, LLC, doing business as Vertice; and Abbot Downing, a Wells Fargo Business.
 
 The following legal entities and businesses are **not** covered by this notice and have separate privacy notices:
 
