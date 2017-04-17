@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fun.com privacy policy that was archived on 2016-11-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161122081136id_/http%3A//www.fun.com/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fun.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417061608id_/http%3A//www.fun.com/privacy-policy.html) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -6,9 +6,9 @@
 
 Effective on date 03/17/2016
 
-This privacy policy applies to [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) owned and operated by Fun.com, Inc. This privacy policy describes how Fun.com collects and uses the personal information you provide on our Web site [www.Fun.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) and does not cover information that may be collected through software downloaded from the website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
+This privacy policy applies to [www.HalloweenCostumes.com](https://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) owned and operated by Fun.com, Inc. This privacy policy describes how Fun.com collects and uses the personal information you provide on our Web site [www.Fun.com](https://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/) and does not cover information that may be collected through software downloaded from the website. It also describes the choices available to you regarding our use of your personal information and how you can access and update this information.
 
-Fun.com has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with the [TRUSTe](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these web sites: [www.HalloweenCostumes.com](http://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/).
+Fun.com has received TRUSTe's Privacy Seal signifying that this privacy policy and practices have been reviewed for compliance with the [TRUSTe](http://www.truste.com/privacy_seals_and_services/consumer_privacy/privacy-programs-requirements.html) program viewable on the validation page available by clicking the TRUSTe seal. The TRUSTe program covers only information that is collected through these web sites: [www.HalloweenCostumes.com](https://www.halloweencostumes.com/), [www.Shirts.com](http://www.shirts.com/) and [www.fun.com](http://www.fun.com/).
 
 If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request).
 
@@ -140,9 +140,8 @@ Fun.com
 2080 Lookout Drive  
 North Mankato, MN 56003
 
-Phone: (507) 386-8383 (Monday to Friday 7am - 7pm CST  
-Saturday 10am - 4pm CST  
-Closed Thanksgiving.)
+Phone: (507) 386-8383 (Monday to Thursday 7am - 7pm CST  
+Friday 9am - 5pm CST.)
 
 [Contact Form](http://www.fun.com/contact-us.aspx)
 
