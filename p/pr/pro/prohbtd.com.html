@@ -1,0 +1,3984 @@
+<!--The following is the downloaded HTML source of the prohbtd.com privacy policy that was archived on 2017-04-17.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170417101508id_/https%3A//prohbtd.com/privacy) for the most accurate reproduction.-->
+
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8"><script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript">window.NREUM||(NREUM={}),__nr_require=function(e,n,t){function r(t){if(!n[t]){var o=n[t]={exports:{}};e[t][0].call(o.exports,function(n){var o=e[t][1][n];return r(o||n)},o,o.exports)}return n[t].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<t.length;o++)r(t[o]);return r}({1:[function(e,n,t){function r(){}function o(e,n,t){return function(){return i(e,[c.now()].concat(u(arguments)),n?null:this,t),n?void 0:this}}var i=e("handle"),a=e(2),u=e(3),f=e("ee").get("tracer"),c=e("loader"),s=NREUM;"undefined"==typeof window.newrelic&&(newrelic=s);var p=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],d="api-",l=d+"ixn-";a(p,function(e,n){s[n]=o(d+n,!0,"api")}),s.addPageAction=o(d+"addPageAction",!0),s.setCurrentRouteName=o(d+"routeName",!0),n.exports=newrelic,s.interaction=function(){return(new r).get()};var m=r.prototype={createTracer:function(e,n){var t={},r=this,o="function"==typeof n;return i(l+"tracer",[c.now(),e,t],r),function(){if(f.emit((o?"":"no-")+"fn-start",[c.now(),r,o],t),o)try{return n.apply(this,arguments)}finally{f.emit("fn-end",[c.now()],t)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(e,n){m[n]=o(l+n)}),newrelic.noticeError=function(e){"string"==typeof e&&(e=new Error(e)),i("err",[e,c.now()])}},{}],2:[function(e,n,t){function r(e,n){var t=[],r="",i=0;for(r in e)o.call(e,r)&&(t[i]=n(r,e[r]),i+=1);return t}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],3:[function(e,n,t){function r(e,n,t){n||(n=0),"undefined"==typeof t&&(t=e?e.length:0);for(var r=-1,o=t-n||0,i=Array(o<0?0:o);++r<o;)i[r]=e[n+r];return i}n.exports=r},{}],4:[function(e,n,t){n.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],ee:[function(e,n,t){function r(){}function o(e){function n(e){return e&&e instanceof r?e:e?f(e,u,i):i()}function t(t,r,o,i){if(!d.aborted||i){e&&e(t,r,o);for(var a=n(o),u=m(t),f=u.length,c=0;c<f;c++)u[c].apply(a,r);var p=s[y[t]];return p&&p.push([b,t,r,a]),a}}function l(e,n){v[e]=m(e).concat(n)}function m(e){return v[e]||[]}function w(e){return p[e]=p[e]||o(t)}function g(e,n){c(e,function(e,t){n=n||"feature",y[t]=n,n in s||(s[n]=[])})}var v={},y={},b={on:l,emit:t,get:w,listeners:m,context:n,buffer:g,abort:a,aborted:!1};return b}function i(){return new r}function a(){(s.api||s.feature)&&(d.aborted=!0,s=d.backlog={})}var u="nr@context",f=e("gos"),c=e(2),s={},p={},d=n.exports=o();d.backlog=s},{}],gos:[function(e,n,t){function r(e,n,t){if(o.call(e,n))return e[n];var r=t();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(e,n,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return e[n]=r,r}var o=Object.prototype.hasOwnProperty;n.exports=r},{}],handle:[function(e,n,t){function r(e,n,t,r){o.buffer([e],r),o.emit(e,n,t)}var o=e("ee").get("handle");n.exports=r,r.ee=o},{}],id:[function(e,n,t){function r(e){var n=typeof e;return!e||"object"!==n&&"function"!==n?-1:e===window?0:a(e,i,function(){return o++})}var o=1,i="nr@id",a=e("gos");n.exports=r},{}],loader:[function(e,n,t){function r(){if(!x++){var e=h.info=NREUM.info,n=d.getElementsByTagName("script")[0];if(setTimeout(s.abort,3e4),!(e&&e.licenseKey&&e.applicationID&&n))return s.abort();c(y,function(n,t){e[n]||(e[n]=t)}),f("mark",["onload",a()+h.offset],null,"api");var t=d.createElement("script");t.src="https://"+e.agent,n.parentNode.insertBefore(t,n)}}function o(){"complete"===d.readyState&&i()}function i(){f("mark",["domContent",a()+h.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(u=Math.max((new Date).getTime(),u))-h.offset}var u=(new Date).getTime(),f=e("handle"),c=e(2),s=e("ee"),p=window,d=p.document,l="addEventListener",m="attachEvent",w=p.XMLHttpRequest,g=w&&w.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:w,REQ:p.Request,EV:p.Event,PR:p.Promise,MO:p.MutationObserver};var v=""+location,y={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},b=w&&g&&g[l]&&!/CriOS/.test(navigator.userAgent),h=n.exports={offset:u,now:a,origin:v,features:{},xhrWrappable:b};e(1),d[l]?(d[l]("DOMContentLoaded",i,!1),p[l]("load",r,!1)):(d[m]("onreadystatechange",o),p[m]("onload",r)),f("mark",["firstbyte",u],null,"api");var x=0,E=e(4)},{}]},{},["loader"]);</script>
+<title>PRØHBTD</title>
+<meta name="description" content="">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<link rel="apple-touch-icon" sizes="180x180" href="https://prohbtd.com/themes/prohbtd/assets/images/apple-touch-icon.png?v=lkg3YmgjbO">
+<link rel="icon" type="image/png" href="https://prohbtd.com/themes/prohbtd/assets/images/favicon-32x32.png?v=lkg3YmgjbO" sizes="32x32">
+<link rel="icon" type="image/png" href="https://prohbtd.com/themes/prohbtd/assets/images/favicon-16x16.png?v=lkg3YmgjbO" sizes="16x16">
+<link rel="manifest" href="https://prohbtd.com/themes/prohbtd/assets/images/manifest.json?v=lkg3YmgjbO">
+<link rel="mask-icon" href="https://prohbtd.com/themes/prohbtd/assets/images/safari-pinned-tab.svg?v=lkg3YmgjbO" color="#5bbad5">
+<link rel="shortcut icon" href="https://prohbtd.com/themes/prohbtd/assets/images/favicon.ico?v=lkg3YmgjbO">
+<meta name="msapplication-config" content="https://prohbtd.com/themes/prohbtd/assets/images/browserconfig.xml?v=lkg3YmgjbO">
+<meta name="theme-color" content="#ffffff">
+<meta property="fb:pages" content="333575123497300">
+<link href="https://prohbtd.com/themes/prohbtd/assets/css/theme.css" rel="stylesheet">
+<script>
+    (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+        (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+            m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+    })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+
+    ga('create', 'UA-58852827-1', 'auto');
+    ga('send', 'pageview');
+
+</script>
+</head>
+<body>
+<div id="offcanvas" class="hidden">
+<div id="offcanvas-left">
+<div id="offcanvas-brand">
+</div>
+<ul class="offcanvas-menu">
+<li>
+<a id="watch-link" href="/watch">Watch</a>
+</li>
+<li>
+<a id="read-link" href="/stories">Read</a>
+</li>
+<li>
+<a id="learn-link" href="/learn">Learn</a>
+</li>
+<li>
+<a id="stash-link" href="/stash">Stash</a>
+</li>
+</ul>
+</div>
+<div id="offcanvas-right">
+<i id="offcanvas-bars" class="fa fa-bars fa-2x"></i>
+</div>
+</div>
+<div id="main-container">
+<div id="header-container">
+<header>
+<nav id="navbar-top">
+<div id="mobile-search-container">
+<div id="search-cancel"><i class="fa fa-times fa-3x"></i></div>
+<div id="mobile-search-input">
+<form action="https://prohbtd.com/search" method="GET">
+<input name="q" type="text" placeholder="Search">
+<button type="submit" class="submit-search-button">Search</button>
+</form>
+</div>
+</div>
+<div id="hide-me">
+<div id="bars">
+<button><i class="fa fa-bars fa-2x"></i></button>
+</div>
+<div id="navbar-links">
+<ul id="navbar">
+<li>
+<a id="navtab-1" href="https://prohbtd.com/watch" target="_self" class="">
+Watch
+</a>
+</li>
+<li>
+<a id="navtab-2" href="https://prohbtd.com/stories" target="_self" class="">
+Read
+</a>
+</li>
+<li>
+<a id="navtab-3" href="https://prohbtd.com/learn" target="_self" class="">
+Learn
+</a>
+</li>
+<li>
+<a id="navtab-4" href="https://prohbtd.com/stash" target="_self" class="">
+Stash
+</a>
+</li>
+</ul>
+</div>
+<div id="navbar-brand">
+<a href="https://prohbtd.com">
+<img alt="PRØHBTD" height="60" src="https://prohbtd.com/themes/prohbtd/assets/images/brand_logo.png" onerror="this.onerror=null; this.src='https://prohbtd.com/themes/prohbtd/assets/images/brand_logo.png'">
+</a>
+</div>
+<div id="navbar-search-mobile">
+<i class="fa fa-search fa-2x"></i>
+</div>
+<div id="navbar-share-search">
+<div id="top-share">
+<a target="_blank" href="https://twitter.com/prohbtd"><i class="fa fa-twitter"></i></a>
+<a target="_blank" href="https://www.facebook.com/prohbtd"><i class="fa fa-facebook"></i></a>
+<a target="_blank" href="https://instagram.com/prohbtd"><i class="fa fa-instagram"></i></a>
+<a target="_blank" href="https://www.youtube.com/channel/UCfyL5SjNXoycaIvQKPkO5kA"><i class="fa fa-youtube-play"></i></a>
+</div>
+<form method="GET" action="https://prohbtd.com/search" accept-charset="UTF-8" id="nav-search">
+<input placeholder="Search" name="q" type="text"><button type="submit" class="submit-search-button"><i class="fa fa-search"></i></button>
+</form> </div>
+</div>
+<div class="clearfix"></div>
+</nav>
+</header>
+</div> 
+<div id="megamenu">
+<section id="megamenu-inner">
+<div class="megamenu-item" id="megamenu-1">
+<ul id="ul-1" class="megamenu-ul">
+<li id="li-11">
+<a href="https://prohbtd.com/watch" target="_self">
+Featured
+</a>
+</li>
+<li id="li-12">
+<a href="https://prohbtd.com/watch/originals" target="_self">
+Originals
+</a>
+</li>
+<li id="li-13">
+<a href="https://prohbtd.com/watch/remx" target="_self">
+RE/MX
+</a>
+</li>
+<li id="li-14">
+<a href="https://prohbtd.com/spliff" target="_self">
+Spliff
+</a>
+</li>
+</ul>
+<div id="mega-11" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/clockwork-orange-song">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58f/138/858/thumb_5084_320x180_0_0_crop.jpg" alt="Clockwork Orange Song">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/clockwork-orange-song">Clockwork Orange Song</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/white-chocolate-green-tea-cookies">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/be0/a9a/thumb_5043_320x180_0_0_crop.png" alt="White Chocolate Green Tea Cookies">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/white-chocolate-green-tea-cookies">White Chocolate Green Tea Cookies</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/they-live-remix">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/e9e/968/thumb_5069_320x180_0_0_crop.jpg" alt="<i>They Live</i> Remix">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/they-live-remix"><i>They Live</i> Remix</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-force-remix">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58f/10d/a8c/thumb_5080_320x180_0_0_crop.jpg" alt="The Force Remix">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-force-remix">The Force Remix</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/platinum-blue-dream">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/335/thumb_2919_320x180_0_0_crop.jpg" alt="Platinum Blue Dream">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/platinum-blue-dream">Platinum Blue Dream</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/prohbtd-cities-austin-brandon-boyd">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/c56/e3a/thumb_5021_320x180_0_0_crop.jpg" alt="PRØHBTD Cities | Austin | Brandon Boyd of Incubus">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/prohbtd-cities-austin-brandon-boyd">PRØHBTD Cities | Austin | Brandon Boyd of Incubus</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/prohbtd-cities-los-angeles-robert-schwartzman">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/d94/thumb_1825_320x180_0_0_crop.jpg" alt="PRØHBTD Cities | Los Angeles | Robert Schwartzman of Rooney">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/prohbtd-cities-los-angeles-robert-schwartzman">PRØHBTD Cities | Los Angeles | Robert Schwartzman of Rooney</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/lil-dicky-pillow-talking-feat-brain">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/e93/349/thumb_5065_320x180_0_0_crop.jpg" alt="Lil Dicky - &quot;Pillow Talking&quot; feat. Brain">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/lil-dicky-pillow-talking-feat-brain">Lil Dicky - "Pillow Talking" feat. Brain</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/thor-remix">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/d52/484/thumb_5055_320x180_0_0_crop.jpg" alt="Thor Remix">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/thor-remix">Thor Remix</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-loud-w-slink-johnson-episode-3">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/05c/thumb_1935_320x180_0_0_crop.jpg" alt="Get LOUD! w/ Slink Johnson | Episode 3">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-loud-w-slink-johnson-episode-3">Get LOUD! w/ Slink Johnson | Episode 3</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/pot-pie-episode-6">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/586/c40/8fe/thumb_4483_320x180_0_0_crop.jpg" alt="Pot Pie | Episode 6">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/pot-pie-episode-6">Pot Pie | Episode 6</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/acdc">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/519/thumb_2979_320x180_0_0_crop.jpg" alt="AC/DC">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/acdc">AC/DC</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/ted-remix">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/57d/1d6/thumb_5039_320x180_0_0_crop.jpg" alt="TED Remix">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/ted-remix">TED Remix</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabis-tincture">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/582/0de/b48/thumb_4196_320x180_0_0_crop.png" alt="Cannabis Tincture">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabis-tincture">Cannabis Tincture</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/extremely-dangerous-glass-skateboard-you-make-it-we-skate-it-episode-13">
+<div class="darken-img">
+<img src="https://i.ytimg.com/vi/KMwhGE0vd-w/mqdefault.jpg" alt="Extremely Dangerous Glass Skateboard – You Make It We Skate It, Episode 13">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/extremely-dangerous-glass-skateboard-you-make-it-we-skate-it-episode-13">Extremely Dangerous Glass Skateboard – You Make It We Skate It, Episode 13</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-loud-episode-2">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/234/thumb_2021_320x180_0_0_crop.jpg" alt="Get LOUD! w/ Slink Johnson | Episode 2">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-loud-episode-2">Get LOUD! w/ Slink Johnson | Episode 2</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/richard-oliver-art-in-action">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/aff/b1a/thumb_4994_320x180_0_0_crop.jpg" alt="Richard J. Oliver: Art in Action">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/richard-oliver-art-in-action">Richard J. Oliver: Art in Action</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/americann-harvest-episode-6">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/5b2/b5a/thumb_4969_320x180_0_0_crop.jpg" alt="Americann Harvest | Episode 6">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/americann-harvest-episode-6">Americann Harvest | Episode 6</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/girl-scout-cookies">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/3f1/thumb_2928_320x180_0_0_crop.jpg" alt="Girl Scout Cookies">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/girl-scout-cookies">Girl Scout Cookies</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/jhanko">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/f86/thumb_1894_320x180_0_0_crop.jpg" alt="PRØHBTD Cities | Havana | Jhanko">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/jhanko">PRØHBTD Cities | Havana | Jhanko</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-12" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/edibles">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58a/21a/323/thumb_4751_320x180_0_0_crop.jpg" alt="Edibles with Birdie">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/edibles">Edibles with Birdie</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/moderngrower">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/eda/8f0/thumb_3361_320x180_0_0_crop.jpg" alt="Modern Grower">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/moderngrower">Modern Grower</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/americann-harvest">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/589/e38/448/thumb_4743_320x180_0_0_crop.jpg" alt="Americann Harvest">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/americann-harvest">Americann Harvest</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/getloud">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/fb3/ff5/thumb_3363_320x180_0_0_crop.jpg" alt="Get Loud">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/getloud">Get Loud</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/thesmokingpot">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/fb4/4db/thumb_3367_320x180_0_0_crop.jpg" alt="The Smoking Pot">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/thesmokingpot">The Smoking Pot</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/wellness">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/589/e38/250/thumb_4742_320x180_0_0_crop.jpg" alt="Wellness with Heather Hoffman">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/wellness">Wellness with Heather Hoffman</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/prohbtdcities">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/fb3/ee5/thumb_3362_320x180_0_0_crop.jpg" alt="PRØHBTD Cities">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/prohbtdcities">PRØHBTD Cities</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/potpie">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/fb4/24d/thumb_3365_320x180_0_0_crop.jpg" alt="Pot Pie">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/potpie">Pot Pie</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/budbox">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/fb4/3b5/thumb_3366_320x180_0_0_crop.jpg" alt="Bud Box">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/budbox">Bud Box</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/strainprofile">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/fb4/118/thumb_3364_320x180_0_0_crop.jpg" alt="Strain Profiles">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/strainprofile">Strain Profiles</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-13" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/eclecticmethod">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/fb4/a2d/thumb_3368_320x180_0_0_crop.jpg" alt="RE/MX: Eclectic Method">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/eclecticmethod">RE/MX: Eclectic Method</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/highfidelity">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/fb4/b4b/thumb_3369_320x180_0_0_crop.jpg" alt="RE/MX: High Fidelity">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/highfidelity">RE/MX: High Fidelity</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/watch/videovaudeville">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/fb4/c69/thumb_3370_320x180_0_0_crop.jpg" alt="RE/MX: Video Vaudeville">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/watch/videovaudeville">RE/MX: Video Vaudeville</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-14" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/spliff/high-rise-tv">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/581/a53/13c/thumb_4149_320x180_0_0_crop.jpg" alt="High Rise TV">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/spliff/high-rise-tv">High Rise TV</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/spliff/high-hipsters">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/581/a47/3f1/thumb_4148_320x180_0_0_crop.jpg" alt="High Hipsters">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/spliff/high-hipsters">High Hipsters</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/spliff/great-american-pot-show">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/581/a56/409/thumb_4151_320x180_0_0_crop.jpg" alt="Great American Pot Show">
+</div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/spliff/great-american-pot-show">Great American Pot Show</a></h3>
+</div>
+</div> </div> </div>
+<div class="clearfix"></div>
+</div>
+<div class="megamenu-item" id="megamenu-2">
+<ul id="ul-2" class="megamenu-ul">
+<li id="li-21">
+<a href="https://prohbtd.com/stories/feature" target="_self">
+Feature
+</a>
+</li>
+<li id="li-22">
+<a href="https://prohbtd.com/stories/interview" target="_self">
+Interviews
+</a>
+</li>
+<li id="li-23">
+<a href="https://prohbtd.com/stories/culturalist" target="_self">
+The Culturalist
+</a>
+</li>
+<li id="li-24">
+<a href="https://prohbtd.com/stories/50-states" target="_self">
+50 States
+</a>
+</li>
+<li id="li-25">
+<a href="https://prohbtd.com/stories/pot-pourri" target="_self">
+Pot Pourri
+</a>
+</li>
+</ul>
+<div id="mega-21" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/druuuuuugs-in-spaaaaaaaace">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/ae8/b52/thumb_4880_320x180_0_0_crop.jpg" alt="Druuuuuugs In Spaaaaaaaace: Will astronauts be able to catch a buzz on the Red Planet?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/druuuuuugs-in-spaaaaaaaace">Druuuuuugs In Spaaaaaaaace: Will astronauts be able to catch a buzz on the Red Planet?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/7-reasons-trump-cant-stop-the-cannabis-movement">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/048/2e1/thumb_4899_320x180_0_0_crop.jpg" alt="7 Reasons Trump Can't Stop the Cannabis Movement">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/7-reasons-trump-cant-stop-the-cannabis-movement">7 Reasons Trump Can't Stop the Cannabis Movement</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-best-ways-to-cure-store-and-keep-buds-fresh">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/0ba/83d/thumb_4845_320x180_0_0_crop.jpg" alt="The Best Ways to Cure, Store and Keep Buds Fresh">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-best-ways-to-cure-store-and-keep-buds-fresh">The Best Ways to Cure, Store and Keep Buds Fresh</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/i-went-to-see-black-sabbath-and-ended-up-eating-sheep-brains">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/bdb/6e9/thumb_4997_320x180_0_0_crop.jpg" alt="I Went To See Black Sabbath and Ended Up Eating Sheep Brains">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/i-went-to-see-black-sabbath-and-ended-up-eating-sheep-brains">I Went To See Black Sabbath and Ended Up Eating Sheep Brains</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/doctor-pot-works-best-if-you-put-it-up-your-butt">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/42a/149/thumb_4954_320x180_0_0_crop.jpg" alt="Doctor: Pot Works Best if You Put It Up Your Butt">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/doctor-pot-works-best-if-you-put-it-up-your-butt">Doctor: Pot Works Best if You Put It Up Your Butt</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/and-the-worlds-no-1-restaurant-is">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/579/eb4/thumb_5038_320x180_0_0_crop.jpg" alt="And the World's No. 1 Restaurant Is…">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/and-the-worlds-no-1-restaurant-is">And the World's No. 1 Restaurant Is…</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-you-need-to-know-about-pesticides">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/5cc/c5c/thumb_4970_320x180_0_0_crop.jpg" alt="What You Need to Know about Pesticides">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-you-need-to-know-about-pesticides">What You Need to Know about Pesticides</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/prohbtd-stops-by-the-emerald-exchange-in-malibu">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/56d/f32/thumb_4960_320x180_0_0_crop.jpeg" alt="PRØHBTD Stops by the Emerald Exchange in Malibu">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/prohbtd-stops-by-the-emerald-exchange-in-malibu">PRØHBTD Stops by the Emerald Exchange in Malibu</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/35-years-ago-this-cannabis-report-made-nixon-furious">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/c21/b39/thumb_4881_320x180_0_0_crop.jpg" alt="35 Years Ago This Report Made Nixon Furious">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/35-years-ago-this-cannabis-report-made-nixon-furious">35 Years Ago This Report Made Nixon Furious</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-bizarre-history-of-psychoactive-toads">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/046/56a/thumb_4898_320x180_0_0_crop.jpg" alt="The Bizarre History of Psychoactive Toads">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-bizarre-history-of-psychoactive-toads">The Bizarre History of Psychoactive Toads</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/pros-and-cons-of-cannabis-legalization-in-california-grower-viewpoints">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58a/e57/30c/thumb_4792_320x180_0_0_crop.jpg" alt="Pros and Cons of Cannabis Legalization in California: Grower Viewpoints">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/pros-and-cons-of-cannabis-legalization-in-california-grower-viewpoints">Pros and Cons of Cannabis Legalization in California: Grower Viewpoints</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/our-17-favorite-things-about-donald-trump">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/c11/f58/thumb_5014_320x180_0_0_crop.jpg" alt="Our 17 Favorite Things About Donald Trump">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/our-17-favorite-things-about-donald-trump">Our 17 Favorite Things About Donald Trump</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/an-un-american-guide-to-drinking-like-a-european">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/ae5/231/thumb_4878_320x180_0_0_crop.jpg" alt="An Un-American Guide to Drinking Like a European">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/an-un-american-guide-to-drinking-like-a-european">An Un-American Guide to Drinking Like a European</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/this-is-what-measure-m-means-for-los-angeles">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/2f4/a08/thumb_4868_320x180_0_0_crop.jpeg" alt="This Is What Measure M Means for Los Angeles">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/this-is-what-measure-m-means-for-los-angeles">This Is What Measure M Means for Los Angeles</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/springs-best-food-wine-and-smoke-fests">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/9a9/aa2/thumb_4873_320x180_0_0_crop.jpg" alt="Spring's Best Food, Wine and Smoke Fests">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/springs-best-food-wine-and-smoke-fests">Spring's Best Food, Wine and Smoke Fests</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/germans-troll-trump-at-karneval">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/1bd/53e/thumb_4855_320x180_0_0_crop.jpg" alt="Germans Troll Trump at Karneval">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/germans-troll-trump-at-karneval">Germans Troll Trump at Karneval</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/this-is-the-state-of-cannabis-in-europe">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58b/628/553/thumb_4815_320x180_0_0_crop.jpg" alt="This Is the State of Cannabis in Europe">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/this-is-the-state-of-cannabis-in-europe">This Is the State of Cannabis in Europe</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/jillionaire-drops-soca-mix-for-carnival">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58b/4b7/dbc/thumb_4813_320x180_0_0_crop.jpg" alt="Jillionaire Drops Soca Mix for Carnival">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/jillionaire-drops-soca-mix-for-carnival">Jillionaire Drops Soca Mix for Carnival</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/study-smart-teens-more-likely-to-smoke-cannabis">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58b/756/85a/thumb_4817_320x180_0_0_crop.jpg" alt="Study: Smart Teens More Likely to Smoke Cannabis">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/study-smart-teens-more-likely-to-smoke-cannabis">Study: Smart Teens More Likely to Smoke Cannabis</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/professor-x-uses-medical-cannabis">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/045/ec9/thumb_4897_320x180_0_0_crop.jpg" alt="Professor X Uses Medical Cannabis">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/professor-x-uses-medical-cannabis">Professor X Uses Medical Cannabis</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-22" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/okuda-san-miguel-puts-a-maya-twist-on-american-iconography">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/945/588/thumb_4971_320x180_0_0_crop.jpg" alt="Okuda San Miguel Puts a Maya Twist on American Iconography">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/okuda-san-miguel-puts-a-maya-twist-on-american-iconography">Okuda San Miguel Puts a Maya Twist on American Iconography</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/alex-gross-on-asian-art-and-travel">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/d52/b89/thumb_5056_320x180_0_0_crop.jpg" alt="Alex Gross on Asian Art and Travel">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/alex-gross-on-asian-art-and-travel">Alex Gross on Asian Art and Travel</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/this-drug-war-victim-became-the-king-of-hip-hop-ice-cream">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/95a/556/thumb_4980_320x180_0_0_crop.jpeg" alt="This Drug War Victim Became the King of Hip-Hop Ice Cream">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/this-drug-war-victim-became-the-king-of-hip-hop-ice-cream">This Drug War Victim Became the King of Hip-Hop Ice Cream</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-secret-life-of-a-wanted-iranian-street-artist">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/c2a/847/thumb_4885_320x180_0_0_crop.jpeg" alt="The Secret Life of a Wanted Iranian Street Artist">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-secret-life-of-a-wanted-iranian-street-artist">The Secret Life of a Wanted Iranian Street Artist</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/david-cooleys-art-is-an-acid-trippers-paradise">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/048/fbb/thumb_4903_320x180_0_0_crop.jpg" alt="David Cooley's Art Is an Acid-Tripper's Paradise">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/david-cooleys-art-is-an-acid-trippers-paradise">David Cooley's Art Is an Acid-Tripper's Paradise</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/stephen-marley-kaya-music-festival">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58b/df2/e7c/thumb_4837_320x180_0_0_crop.jpg" alt="Stephen Marley Wants to Smoke and Groove with You">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/stephen-marley-kaya-music-festival">Stephen Marley Wants to Smoke and Groove with You</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/this-artist-dosed-iranian-currency-with-acid">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/c17/314/thumb_5019_320x180_0_0_crop.jpg" alt="This Artist Dosed Iranian Currency with Acid">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/this-artist-dosed-iranian-currency-with-acid">This Artist Dosed Iranian Currency with Acid</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/sourcing-the-finest-farm-centric-cannabis-starts-here">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/599/dd6/thumb_4968_320x180_0_0_crop.jpg" alt="Sourcing the Finest Farm-Centric Cannabis Starts Here">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/sourcing-the-finest-farm-centric-cannabis-starts-here">Sourcing the Finest Farm-Centric Cannabis Starts Here</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/jillionaire-of-major-lazer-is-ready-to-party">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58a/de2/367/thumb_4770_320x180_0_0_crop.jpg" alt="Jillionaire of Major Lazer Is Ready to Party Till &quot;Sunrise&quot;">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/jillionaire-of-major-lazer-is-ready-to-party">Jillionaire of Major Lazer Is Ready to Party Till "Sunrise"</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/hanz-on-discusses-smoke-like-we-do">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/42a/aa6/thumb_4955_320x180_0_0_crop.jpeg" alt="Hanz On Discusses &quot;Smoke Like We Do&quot;">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/hanz-on-discusses-smoke-like-we-do">Hanz On Discusses "Smoke Like We Do"</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/taravat-talepasand-the-meth-to-her-madness">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/8c1/5dd/thumb_4870_320x180_0_0_crop.jpeg" alt="Taravat Talepasand: The Meth to Her Madness">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/taravat-talepasand-the-meth-to-her-madness">Taravat Talepasand: The Meth to Her Madness</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/this-san-francisco-speakeasy-specializes-in-food-and-smoke-pairings">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/04b/648/thumb_4840_320x180_0_0_crop.jpg" alt="This San Francisco Speakeasy Specializes in Food and Smoke Pairings">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/this-san-francisco-speakeasy-specializes-in-food-and-smoke-pairings">This San Francisco Speakeasy Specializes in Food and Smoke Pairings</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/rich-simmons-paints-like-a-punk-rocker">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58b/499/42a/thumb_4806_320x180_0_0_crop.jpg" alt="Rich Simmons Paints Like a Punk Rocker">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/rich-simmons-paints-like-a-punk-rocker">Rich Simmons Paints Like a Punk Rocker</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/ricardo-zarate-takes-prohbtd-on-a-tijuana-food-tour">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58a/f4c/490/thumb_4799_320x180_0_0_crop.jpg" alt="Ricardo Zarate Takes PRØHBTD on a Tijuana Food Tour">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/ricardo-zarate-takes-prohbtd-on-a-tijuana-food-tour">Ricardo Zarate Takes PRØHBTD on a Tijuana Food Tour</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/taravat-talepasand-when-life-gives-you-poppy-make-pop-art">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58a/357/88d/thumb_4757_320x180_0_0_crop.jpg" alt="When Life Gives You Poppy, Make Pop Art">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/taravat-talepasand-when-life-gives-you-poppy-make-pop-art">When Life Gives You Poppy, Make Pop Art</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/elcielo-gives-miami-a-new-taste-of-colombia">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57e/372/937/thumb_3649_320x180_0_0_crop.jpg" alt="This Chef Made a Dish with Cannabis, Coca and Poppy">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/elcielo-gives-miami-a-new-taste-of-colombia">This Chef Made a Dish with Cannabis, Coca and Poppy</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/you-need-to-read-this-before-getting-a-tat">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58a/e47/080/thumb_4789_320x180_0_0_crop.jpg" alt="You Need to Read This Before Getting a Tat">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/you-need-to-read-this-before-getting-a-tat">You Need to Read This Before Getting a Tat</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/british-exports-the-big-moon-are-on-the-rise">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/589/b7c/503/thumb_4727_320x180_0_0_crop.jpg" alt="British Exports The Big Moon Are on the Rise">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/british-exports-the-big-moon-are-on-the-rise">British Exports The Big Moon Are on the Rise</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/prohbtd-gets-antisocial-with-alex-gross">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/589/cca/15b/thumb_4733_320x180_0_0_crop.jpg" alt="PRØHBTD Gets Antisocial with Alex Gross">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/prohbtd-gets-antisocial-with-alex-gross">PRØHBTD Gets Antisocial with Alex Gross</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/taravat-talepasand-wipe-your-feet-on-the-crying-kim-persian-rug">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58a/354/1e2/thumb_4756_320x180_0_0_crop.jpg" alt="Wipe Your Feet on the Crying Kim Persian Rug">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/taravat-talepasand-wipe-your-feet-on-the-crying-kim-persian-rug">Wipe Your Feet on the Crying Kim Persian Rug</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-23" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-this-edible-is-kicking-my-ass">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/038/c99/thumb_4889_320x180_0_0_crop.jpg" alt="Dear Culturalist: This Edible Is Kicking My Ass!">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-this-edible-is-kicking-my-ass">Dear Culturalist: This Edible Is Kicking My Ass!</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-is-it-cool-to-do-blow-in-the-bathroom">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/05c/12b/thumb_4911_320x180_0_0_crop.jpg" alt="Dear Culturalist: Is It Cool to Do Blow in the Bathroom?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-is-it-cool-to-do-blow-in-the-bathroom">Dear Culturalist: Is It Cool to Do Blow in the Bathroom?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-i-wanna-be-a-dope-traveler">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/95f/224/thumb_4871_320x180_0_0_crop.jpg" alt="Dear Culturalist: I Wanna Be a Dope Traveler!">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-i-wanna-be-a-dope-traveler">Dear Culturalist: I Wanna Be a Dope Traveler!</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-help-me-blow-glass">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/588/107/a93/thumb_4595_320x180_0_0_crop.jpg" alt="Dear Culturalist: Help Me Blow Glass">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-help-me-blow-glass">Dear Culturalist: Help Me Blow Glass</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-is-pot-making-me-fail-college">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/584/a13/fa7/thumb_4402_320x180_0_0_crop.jpg" alt="Dear Culturalist: Is Pot Making Me Fail College?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-is-pot-making-me-fail-college">Dear Culturalist: Is Pot Making Me Fail College?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-does-cannabis-lube-work">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/582/cde/487/thumb_4309_320x180_0_0_crop.jpg" alt="Dear Culturalist: Does Cannabis Lube Work?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-does-cannabis-lube-work">Dear Culturalist: Does Cannabis Lube Work?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-my-neighbors-slingin-dope">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57f/e9a/63c/thumb_3888_320x180_0_0_crop.jpg" alt="Dear Culturalist: My Neighbor’s Slingin’ Dope">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-my-neighbors-slingin-dope">Dear Culturalist: My Neighbor’s Slingin’ Dope</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-my-dealer-shorted-me">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57e/372/8b8/thumb_3628_320x180_0_0_crop.jpg" alt="Dear Culturalist: My Dealer Shorted Me">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-my-dealer-shorted-me">Dear Culturalist: My Dealer Shorted Me</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-wine-and-art">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/c07/thumb_138_320x180_0_0_crop.jpg" alt="Dear Culturalist: I Get Sloshed at Art Openings">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-wine-and-art">Dear Culturalist: I Get Sloshed at Art Openings</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-how-do-i-curb-the-munchies">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/e1c/thumb_248_320x180_0_0_crop.jpg" alt="Dear Culturalist: How Do I Curb the Munchies?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-how-do-i-curb-the-munchies">Dear Culturalist: How Do I Curb the Munchies?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-is-it-a-bad-idea-to-date-a-cop">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/178/3d4/thumb_4918_320x180_0_0_crop.jpg" alt="Dear Culturalist: Is It a Bad Idea to Date a Cop?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-is-it-a-bad-idea-to-date-a-cop">Dear Culturalist: Is It a Bad Idea to Date a Cop?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-dont-let-nagging-be-your-drug-of-choice">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e68/a49/thumb_928_320x180_0_0_crop.jpg" alt="Dear Culturalist: Don't Let Nagging Be Your Drug of Choice">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-dont-let-nagging-be-your-drug-of-choice">Dear Culturalist: Don't Let Nagging Be Your Drug of Choice</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-strains-to-make-me-look-sexy">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/581/a2e/9f0/thumb_4134_320x180_0_0_crop.jpg" alt="Dear Culturalist: Strains to Make Me Look Sexy">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-strains-to-make-me-look-sexy">Dear Culturalist: Strains to Make Me Look Sexy</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-my-ex-is-naked-on-tv">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e68/cc7/thumb_1055_320x180_0_0_crop.jpg" alt="Dear Culturalist: My Ex Is Naked on TV">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-my-ex-is-naked-on-tv">Dear Culturalist: My Ex Is Naked on TV</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-should-i-take-a-job-in-the-green-rush">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e68/ed1/thumb_1168_320x180_0_0_crop.jpg" alt="Dear Culturalist: Should I Take a Job in the Green Rush?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-should-i-take-a-job-in-the-green-rush">Dear Culturalist: Should I Take a Job in the Green Rush?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-i-got-shatter-in-my-hair-help-me-get-it-out">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57e/234/05b/thumb_3509_320x180_0_0_crop.jpg" alt="Dear Culturalist: Help! I Got Shatter in my Hair!">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-i-got-shatter-in-my-hair-help-me-get-it-out">Dear Culturalist: Help! I Got Shatter in my Hair!</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-my-boyfriend-named-his-bong">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/589/8f2/323/thumb_4723_320x180_0_0_crop.jpg" alt="Dear Culturalist: My Boyfriend Named His Bong">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-my-boyfriend-named-his-bong">Dear Culturalist: My Boyfriend Named His Bong</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-culturalist-dont-be-scared-of-the-big-bad-brownie">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/058/thumb_1244_320x180_0_0_crop.jpg" alt="Dear Culturalist: Don’t Be Scared of the Big, Bad Brownie">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-culturalist-dont-be-scared-of-the-big-bad-brownie">Dear Culturalist: Don’t Be Scared of the Big, Bad Brownie</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-culturalist-does-my-would-be-romeo-roll">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/345/thumb_1404_320x180_0_0_crop.jpg" alt="Dear Culturalist: Does My Would-Be Romeo Roll?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-culturalist-does-my-would-be-romeo-roll">Dear Culturalist: Does My Would-Be Romeo Roll?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/dear-culturalist-my-pipe-is-really-really-dirty">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/451/thumb_1440_320x180_0_0_crop.jpg" alt="Dear Culturalist: My Pipe Is Really, Really Dirty!">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/dear-culturalist-my-pipe-is-really-really-dirty">Dear Culturalist: My Pipe Is Really, Really Dirty!</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-24" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-recap-for-2016">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/585/865/d22/thumb_4453_320x180_0_0_crop.jpg" alt="50 States Recap for 2016">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-recap-for-2016">50 States Recap for 2016</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-connecticut">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e68/eda/thumb_1169_320x180_0_0_crop.jpg" alt="50 States: Connecticut">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-connecticut">50 States: Connecticut</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-american-samoa">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/e5c/thumb_263_320x180_0_0_crop.jpg" alt="50 States: American Samoa">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-american-samoa">50 States: American Samoa</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-utah">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e68/cf3/thumb_1063_320x180_0_0_crop.jpg" alt="50 States: Utah">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-utah">50 States: Utah</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-kentucky">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e68/c19/thumb_1021_320x180_0_0_crop.jpg" alt="50 States: Kentucky">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-kentucky">50 States: Kentucky</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-colorado">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e68/f0f/thumb_1177_320x180_0_0_crop.jpg" alt="50 States: Colorado">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-colorado">50 States: Colorado</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-north-dakota">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/a37/thumb_44_320x180_0_0_crop.jpg" alt="50 States: North Dakota">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-north-dakota">50 States: North Dakota</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-hawaii">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/5ad/thumb_1499_320x180_0_0_crop.jpg" alt="50 States: Hawaii">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-hawaii">50 States: Hawaii</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-south-carolina">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e68/19b/thumb_451_320x180_0_0_crop.jpg" alt="50 States: South Carolina">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-south-carolina">50 States: South Carolina</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-oregon">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/4f0/thumb_1469_320x180_0_0_crop.jpg" alt="50 States: Oregon">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-oregon">50 States: Oregon</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-wyoming">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/b88/thumb_111_320x180_0_0_crop.jpg" alt="50 States: Wyoming">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-wyoming">50 States: Wyoming</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-alabama">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/47a/thumb_1446_320x180_0_0_crop.jpg" alt="50 States: Alabama">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-alabama">50 States: Alabama</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-virginia">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/a2f/thumb_43_320x180_0_0_crop.jpg" alt="50 States: Virginia">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-virginia">50 States: Virginia</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-north-carolina">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/d76/thumb_210_320x180_0_0_crop.jpg" alt="50 States: North Carolina">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-north-carolina">50 States: North Carolina</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-guam">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/547/thumb_1481_320x180_0_0_crop.jpg" alt="50 States: Guam">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-guam">50 States: Guam</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-south-dakota">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/9e6/thumb_19_320x180_0_0_crop.jpg" alt="50 States: South Dakota">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-south-dakota">50 States: South Dakota</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-wisconsin">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/a9f/thumb_65_320x180_0_0_crop.jpg" alt="50 States: Wisconsin">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-wisconsin">50 States: Wisconsin</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-northern-mariana-islands">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/ae4/thumb_77_320x180_0_0_crop.jpg" alt="50 States: Northern Mariana Islands">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-northern-mariana-islands">50 States: Northern Mariana Islands</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-tennessee">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/c0e/thumb_139_320x180_0_0_crop.jpg" alt="50 States: Tennessee">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-tennessee">50 States: Tennessee</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/50-states-puerto-rico">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e67/d20/thumb_199_320x180_0_0_crop.jpg" alt="50 States: Puerto Rico">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/50-states-puerto-rico">50 States: Puerto Rico</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-25" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/are-you-a-pipe-cleaner">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/83c/e2c/thumb_5042_320x180_0_0_crop.jpg" alt="Are You a Pipe Cleaner?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/are-you-a-pipe-cleaner">Are You a Pipe Cleaner?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/life-is-better-under-the-sea">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/147/afb/thumb_5022_320x180_0_0_crop.jpg" alt="Life is Better Under the Sea">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/life-is-better-under-the-sea">Life is Better Under the Sea</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/where-to-hide-a-strange-mind">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/2ea/457/thumb_4940_320x180_0_0_crop.jpg" alt="Where To Hide a Strange Mind">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/where-to-hide-a-strange-mind">Where To Hide a Strange Mind</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/trains-locomotivation-and-you">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/d8c/f26/thumb_4886_320x180_0_0_crop.jpg" alt="Trains- Locomotivation and You">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/trains-locomotivation-and-you">Trains- Locomotivation and You</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/inventors-how-stoned-were-they">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/069/2ea/thumb_4843_320x180_0_0_crop.jpg" alt="Inventors- How Stoned Were They?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/inventors-how-stoned-were-they">Inventors- How Stoned Were They?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/psycho-dietary-ailments-and-their-effects">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58b/894/d34/thumb_4820_320x180_0_0_crop.jpg" alt="Psycho-Dietary Ailments and Their Effects">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/psycho-dietary-ailments-and-their-effects">Psycho-Dietary Ailments and Their Effects</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/glorious-landscapes-and-the-man-who-paints-them">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58b/4a2/d20/thumb_4812_320x180_0_0_crop.jpg" alt="Glorious Landscapes and the Man Who Paints Them">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/glorious-landscapes-and-the-man-who-paints-them">Glorious Landscapes and the Man Who Paints Them</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/even-more-heroes-of-cannabis-legalization">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58a/4e7/516/thumb_4762_320x180_0_0_crop.jpg" alt="Even More Heroes of Cannabis Legalization">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/even-more-heroes-of-cannabis-legalization">Even More Heroes of Cannabis Legalization</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/getting-the-right-gift-for-your-sweetie">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/589/e02/122/thumb_4738_320x180_0_0_crop.jpg" alt="Getting The Right Gift For Your Sweetie">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/getting-the-right-gift-for-your-sweetie">Getting The Right Gift For Your Sweetie</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-remarkable-slow-flow">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/589/384/c62/thumb_4706_320x180_0_0_crop.jpg" alt="The Remarkable Slow Flow">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-remarkable-slow-flow">The Remarkable Slow Flow</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/stash-your-stash-hiding-places-and-you">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/588/f9d/416/thumb_4651_320x180_0_0_crop.jpg" alt="Stash Your Stash: Hiding Places and You">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/stash-your-stash-hiding-places-and-you">Stash Your Stash: Hiding Places and You</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabis-themed-toys-for-the-enlightened-hound">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/588/4fe/67b/thumb_4619_320x180_0_0_crop.jpg" alt="Cannabis-Themed Toys for the Enlightened Hound">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabis-themed-toys-for-the-enlightened-hound">Cannabis-Themed Toys for the Enlightened Hound</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/soda-brand-pursues-new-flavor-verticals">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/587/535/f8f/thumb_4546_320x180_0_0_crop.jpg" alt="Soda Brand Pursues New Flavor Verticals">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/soda-brand-pursues-new-flavor-verticals">Soda Brand Pursues New Flavor Verticals</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/sculpting-with-dab">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/586/ffc/112/thumb_4541_320x180_0_0_crop.jpg" alt="Sculpting with Dab">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/sculpting-with-dab">Sculpting with Dab</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/enjoy-this-promotional-12-month-calendar">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/586/41d/b00/thumb_4464_320x180_0_0_crop.jpg" alt="Enjoy This Promotional 12 Month Calendar">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/enjoy-this-promotional-12-month-calendar">Enjoy This Promotional 12 Month Calendar</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-impact-of-legalization-on-peoples-lives">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/585/331/415/thumb_4438_320x180_0_0_crop.jpg" alt="The Impact of Legalization on People's Lives">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-impact-of-legalization-on-peoples-lives">The Impact of Legalization on People's Lives</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/whats-in-the-box-holiday-edition">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/585/9eb/3cc/thumb_4462_320x180_0_0_crop.jpg" alt="What's In the Box? Holiday Edition">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/whats-in-the-box-holiday-edition">What's In the Box? Holiday Edition</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/clean-sweep-cannabis-industry-janitors">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/584/9fe/19a/thumb_4401_320x180_0_0_crop.jpg" alt="Clean Sweep: Cannabis Industry Janitors">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/clean-sweep-cannabis-industry-janitors">Clean Sweep: Cannabis Industry Janitors</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/rent-controllers">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/584/05b/746/thumb_4336_320x180_0_0_crop.jpg" alt="Rent Controllers">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/rent-controllers">Rent Controllers</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-to-make-money-in-real-estate">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/582/ca0/e2a/thumb_4305_320x180_0_0_crop.jpg" alt="How to Make Money In Real Estate">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-to-make-money-in-real-estate">How to Make Money In Real Estate</a></h3>
+</div>
+</div> </div> </div>
+<div class="clearfix"></div>
+</div>
+<div class="megamenu-item" id="megamenu-3">
+<ul id="ul-3" class="megamenu-ul">
+<li id="li-31">
+<a href="https://prohbtd.com/learn/medical" target="_self">
+Medical
+</a>
+</li>
+<li id="li-32">
+<a href="https://prohbtd.com/learn/history" target="_self">
+History
+</a>
+</li>
+<li id="li-33">
+<a href="https://prohbtd.com/learn/legal" target="_self">
+Legal
+</a>
+</li>
+<li id="li-34">
+<a href="https://prohbtd.com/learn/science" target="_self">
+Science
+</a>
+</li>
+<li id="li-35">
+<a href="https://prohbtd.com/learn/grow" target="_self">
+Grow
+</a>
+</li>
+<li id="li-36">
+<a href="https://prohbtd.com/learn/elevation" target="_self">
+Elevation
+</a>
+</li>
+</ul>
+<div id="mega-31" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-cannabis-affects-anxiety-and-paranoia">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/a34/thumb_2472_320x180_0_0_crop.jpg" alt="How Cannabis Affects Anxiety and Paranoia">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-cannabis-affects-anxiety-and-paranoia">How Cannabis Affects Anxiety and Paranoia</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-anxiety-experiments">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/a39/thumb_2473_320x180_0_0_crop.jpg" alt="The Anxiety Experiments">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-anxiety-experiments">The Anxiety Experiments</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/anxiety-thc-vs-cbd">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/a2d/thumb_2471_320x180_0_0_crop.jpg" alt="Anxiety: THC vs. CBD">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/anxiety-thc-vs-cbd">Anxiety: THC vs. CBD</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-cbd-affects-anxiety">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/a28/thumb_2470_320x180_0_0_crop.jpg" alt="How CBD Affects Anxiety">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-cbd-affects-anxiety">How CBD Affects Anxiety</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/treat-anxiety-with-cbd">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/a1e/thumb_2468_320x180_0_0_crop.jpg" alt="Treat Anxiety with CBD">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/treat-anxiety-with-cbd">Treat Anxiety with CBD</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/is-cannabis-medicine">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/dfc/thumb_2656_320x180_0_0_crop.jpg" alt="Is Cannabis Medicine?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/is-cannabis-medicine">Is Cannabis Medicine?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabis-in-chinese-medicine">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/df7/thumb_2655_320x180_0_0_crop.jpg" alt="Cannabis in Chinese Medicine">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabis-in-chinese-medicine">Cannabis in Chinese Medicine</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/medical-cannabis-in-india">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/df2/thumb_2654_320x180_0_0_crop.jpg" alt="Medical Cannabis in India">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/medical-cannabis-in-india">Medical Cannabis in India</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/medical-cannabis-in-the-us">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/de8/thumb_2652_320x180_0_0_crop.jpg" alt="Medical Cannabis in the U.S.">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/medical-cannabis-in-the-us">Medical Cannabis in the U.S.</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/should-medical-marijuana-be-legalized-our-thoughts">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/76f/thumb_2320_320x180_0_0_crop.jpg" alt="Should Medical Marijuana Be Legalized? Our Thoughts">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/should-medical-marijuana-be-legalized-our-thoughts">Should Medical Marijuana Be Legalized? Our Thoughts</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-are-terpenes">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/003/thumb_2748_320x180_0_0_crop.jpg" alt="What Are Terpenes?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-are-terpenes">What Are Terpenes?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/medical-benefits-of-terpenes">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/fee/thumb_2745_320x180_0_0_crop.jpg" alt="Medical Benefits of Terpenes">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/medical-benefits-of-terpenes">Medical Benefits of Terpenes</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-is-cbd">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/743/thumb_3087_320x180_0_0_crop.jpg" alt="What is CBD?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-is-cbd">What is CBD?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cbd-without-thc">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/724/thumb_3078_320x180_0_0_crop.jpg" alt="CBD Without THC">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cbd-without-thc">CBD Without THC</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cbd-and-anxiety">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/71e/thumb_3077_320x180_0_0_crop.jpg" alt="CBD and Anxiety">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cbd-and-anxiety">CBD and Anxiety</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-thc-and-cbd-interact">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/717/thumb_3076_320x180_0_0_crop.jpg" alt="How THC and CBD Interact">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-thc-and-cbd-interact">How THC and CBD Interact</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cbd-as-medicine-adults-children-and-pets">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/5e6/thumb_3016_320x180_0_0_crop.jpg" alt="CBD as Medicine: Adults, Children and Pets">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cbd-as-medicine-adults-children-and-pets">CBD as Medicine: Adults, Children and Pets</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-to-do-if-you-consume-too-much-and-experience-adverse-effects">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/f64/thumb_2716_320x180_0_0_crop.jpg" alt="What to Do if You Consume Too Much and Experience Adverse Effects?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-to-do-if-you-consume-too-much-and-experience-adverse-effects">What to Do if You Consume Too Much and Experience Adverse Effects?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/safety-and-medical-recommendations-for-edible-consumption">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/f5d/thumb_2715_320x180_0_0_crop.jpg" alt="Safety and Medical Recommendations for Edible Consumption">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/safety-and-medical-recommendations-for-edible-consumption">Safety and Medical Recommendations for Edible Consumption</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cooking-with-sativa-indica-and-hybrids">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/f51/thumb_2713_320x180_0_0_crop.jpg" alt="Cooking with Sativa, Indica and Hybrids">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cooking-with-sativa-indica-and-hybrids">Cooking with Sativa, Indica and Hybrids</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-32" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/richard-nixons-drug-war">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/1ea/thumb_2013_320x180_0_0_crop.jpg" alt="Richard Nixon's Drug War">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/richard-nixons-drug-war">Richard Nixon's Drug War</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/prohibitions-racist-roots">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/1e2/thumb_2012_320x180_0_0_crop.jpg" alt="Prohibition’s Racist Roots">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/prohibitions-racist-roots">Prohibition’s Racist Roots</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/nixon-vs-lennon">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/195/thumb_1995_320x180_0_0_crop.jpg" alt="Nixon vs. Lennon">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/nixon-vs-lennon">Nixon vs. Lennon</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/nixon-vs-shafer-commission">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/190/thumb_1994_320x180_0_0_crop.jpg" alt="Nixon vs. Shafer Commission">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/nixon-vs-shafer-commission">Nixon vs. Shafer Commission</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-boggs-act-mandatory-minimums">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/430/thumb_2136_320x180_0_0_crop.jpg" alt="The Boggs Act &amp; Mandatory Minimums">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-boggs-act-mandatory-minimums">The Boggs Act &amp; Mandatory Minimums</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabis-vs-heroin">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/42a/thumb_2135_320x180_0_0_crop.jpg" alt="Cannabis vs. Heroin">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabis-vs-heroin">Cannabis vs. Heroin</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/protect-the-children">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/425/thumb_2134_320x180_0_0_crop.jpg" alt="Protect the Children">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/protect-the-children">Protect the Children</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/to-the-states">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/415/thumb_2130_320x180_0_0_crop.jpg" alt="To the States!">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/to-the-states">To the States!</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/myth-busting-420-edition">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/588/thumb_2211_320x180_0_0_crop.jpg" alt="Myth Busting: 420 Edition">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/myth-busting-420-edition">Myth Busting: 420 Edition</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/debunked-420-myths">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/582/thumb_2210_320x180_0_0_crop.jpg" alt="Debunked 420 Myths">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/debunked-420-myths">Debunked 420 Myths</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/420-in-popular-culture">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/56d/thumb_2204_320x180_0_0_crop.jpg" alt="420 in Popular Culture">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/420-in-popular-culture">420 in Popular Culture</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/wheres-waldo">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/568/thumb_2203_320x180_0_0_crop.jpg" alt="Where's Waldo?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/wheres-waldo">Where's Waldo?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-marihuana-tax-act-of-1937">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/650/thumb_2257_320x180_0_0_crop.jpg" alt="The Marihuana Tax Act of 1937">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-marihuana-tax-act-of-1937">The Marihuana Tax Act of 1937</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-about-farmer-bob">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/64a/thumb_2256_320x180_0_0_crop.jpg" alt="What About Farmer Bob?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-about-farmer-bob">What About Farmer Bob?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-ama-vs-anslinger">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/644/thumb_2255_320x180_0_0_crop.jpg" alt="The AMA vs. Anslinger">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-ama-vs-anslinger">The AMA vs. Anslinger</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-first-marihuana-tax-act-arrest">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/620/thumb_2244_320x180_0_0_crop.jpg" alt="The First Marihuana Tax Act Arrest">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-first-marihuana-tax-act-arrest">The First Marihuana Tax Act Arrest</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/timothy-leary-vs-marihuana-tax-act">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/619/thumb_2243_320x180_0_0_crop.jpg" alt="Timothy Leary vs. Marihuana Tax Act">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/timothy-leary-vs-marihuana-tax-act">Timothy Leary vs. Marihuana Tax Act</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/henry-anslinger-the-godfather-of-cannabis-prohibition">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57e/234/16d/thumb_3543_320x180_0_0_crop.jpg" alt="Harry Anslinger: The Godfather of Cannabis Prohibition">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/henry-anslinger-the-godfather-of-cannabis-prohibition">Harry Anslinger: The Godfather of Cannabis Prohibition</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/anti-cannabis-propaganda">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/6f0/thumb_2288_320x180_0_0_crop.jpg" alt="Anti-Cannabis Propaganda">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/anti-cannabis-propaganda">Anti-Cannabis Propaganda</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-anslinger-gore-files">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/6ea/thumb_2287_320x180_0_0_crop.jpg" alt="The Anslinger Gore Files">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-anslinger-gore-files">The Anslinger Gore Files</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-33" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-controlled-substances-act">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/33d/thumb_2082_320x180_0_0_crop.jpg" alt="The Controlled Substances Act">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-controlled-substances-act">The Controlled Substances Act</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-substance-schedules">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/308/thumb_2068_320x180_0_0_crop.jpg" alt="The Substance Schedules">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-substance-schedules">The Substance Schedules</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/scheduling-conflicts">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/332/thumb_2080_320x180_0_0_crop.jpg" alt="Scheduling Conflicts">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/scheduling-conflicts">Scheduling Conflicts</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabis-and-the-csa">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/302/thumb_2067_320x180_0_0_crop.jpg" alt="Cannabis and the CSA">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabis-and-the-csa">Cannabis and the CSA</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-can-i-avoid-arrest">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/638/thumb_1524_320x180_0_0_crop.jpg" alt="How Can I Avoid Arrest?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-can-i-avoid-arrest">How Can I Avoid Arrest?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-to-say-or-not-to-say">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/900/thumb_3190_320x180_0_0_crop.jpg" alt="What to Say or Not to Say">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-to-say-or-not-to-say">What to Say or Not to Say</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-to-transport-cannabis">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/8f3/thumb_3187_320x180_0_0_crop.jpg" alt="How to Transport Cannabis">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-to-transport-cannabis">How to Transport Cannabis</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/you-are-under-arrest">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/859/thumb_3150_320x180_0_0_crop.jpg" alt="You Are Under Arrest">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/you-are-under-arrest">You Are Under Arrest</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/legal-rights-driver-vs-passenger-in-a-traffic-stop">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/0fd/thumb_2811_320x180_0_0_crop.jpg" alt="Legal Rights: Driver vs. Passenger in a Traffic Stop">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/legal-rights-driver-vs-passenger-in-a-traffic-stop">Legal Rights: Driver vs. Passenger in a Traffic Stop</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/record-the-traffic-stop-and-call-your-lawyer">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/103/thumb_2812_320x180_0_0_crop.jpg" alt="Record the Traffic Stop and Call your Lawyer">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/record-the-traffic-stop-and-call-your-lawyer">Record the Traffic Stop and Call your Lawyer</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-to-handle-search-requests">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/0f8/thumb_2810_320x180_0_0_crop.jpg" alt="How to Handle Search Requests">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-to-handle-search-requests">How to Handle Search Requests</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/should-cannabis-be-legal">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/d65/thumb_2625_320x180_0_0_crop.jpg" alt="Should Cannabis be Legal?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/should-cannabis-be-legal">Should Cannabis be Legal?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/prohibition-ruins-lives">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/d5e/thumb_2624_320x180_0_0_crop.jpg" alt="Prohibition Ruins Lives">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/prohibition-ruins-lives">Prohibition Ruins Lives</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/less-spending-more-revenue">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/d5a/thumb_2623_320x180_0_0_crop.jpg" alt="Less Spending, More Revenue">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/less-spending-more-revenue">Less Spending, More Revenue</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/america-wants-legal-cannabis">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/d51/thumb_2622_320x180_0_0_crop.jpg" alt="America Wants Legal Cannabis">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/america-wants-legal-cannabis">America Wants Legal Cannabis</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/california-medical-marijuana-laws-what-you-should-know">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/904/thumb_2415_320x180_0_0_crop.jpg" alt="California Medical Marijuana Laws: What You Should Know">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/california-medical-marijuana-laws-what-you-should-know">California Medical Marijuana Laws: What You Should Know</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-pure-food-and-drug-act-of-1906">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/aba/thumb_2495_320x180_0_0_crop.jpg" alt="The Pure Food and Drug Act of 1906">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-pure-food-and-drug-act-of-1906">The Pure Food and Drug Act of 1906</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-muckrakers">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/ab4/thumb_2494_320x180_0_0_crop.jpg" alt="The Muckrakers!">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-muckrakers">The Muckrakers!</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/wacky-wiley">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/aaf/thumb_2493_320x180_0_0_crop.jpg" alt="Wacky Wiley">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/wacky-wiley">Wacky Wiley</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-start-of-cannabis-prohibition">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/aa6/thumb_2492_320x180_0_0_crop.jpg" alt="The Start of Cannabis Prohibition">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-start-of-cannabis-prohibition">The Start of Cannabis Prohibition</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-34" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-problem-with-cannabis-studies">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/0fa/thumb_1967_320x180_0_0_crop.jpg" alt="The Problem with Cannabis Studies">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-problem-with-cannabis-studies">The Problem with Cannabis Studies</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/top-4-cannabis-claims-debunked">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/30c/thumb_2913_320x180_0_0_crop.jpg" alt="Top 4 Cannabis Claims Debunked">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/top-4-cannabis-claims-debunked">Top 4 Cannabis Claims Debunked</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/myth-1-cannabis-lowers-iq">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/306/thumb_2912_320x180_0_0_crop.jpg" alt="Myth #1: Cannabis Lowers IQ">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/myth-1-cannabis-lowers-iq">Myth #1: Cannabis Lowers IQ</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/myth-2-cannabis-causes-schizophrenia">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/300/thumb_2911_320x180_0_0_crop.jpg" alt="Myth #2: Cannabis Causes Schizophrenia">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/myth-2-cannabis-causes-schizophrenia">Myth #2: Cannabis Causes Schizophrenia</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/myth-3-cannabis-makes-you-lazy">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/2ce/thumb_2901_320x180_0_0_crop.jpg" alt="Myth #3: Cannabis Makes You Lazy">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/myth-3-cannabis-makes-you-lazy">Myth #3: Cannabis Makes You Lazy</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/myth-4-legalization-increases-cannabis-use">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/2c3/thumb_2900_320x180_0_0_crop.jpg" alt="Myth #4: Legalization Increases Cannabis Use">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/myth-4-legalization-increases-cannabis-use">Myth #4: Legalization Increases Cannabis Use</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-are-cannabinoids">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/a0c/thumb_3241_320x180_0_0_crop.jpg" alt="What are Cannabinoids?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-are-cannabinoids">What are Cannabinoids?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-thc-and-myrcene-interact">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/99c/thumb_3219_320x180_0_0_crop.jpg" alt="How THC and Myrcene Interact">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-thc-and-myrcene-interact">How THC and Myrcene Interact</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabinol-cbn">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/a21/thumb_3246_320x180_0_0_crop.jpg" alt="Cannabinol (CBN)">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabinol-cbn">Cannabinol (CBN)</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-thc-and-cbd-interact">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/717/thumb_3076_320x180_0_0_crop.jpg" alt="How THC and CBD Interact">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-thc-and-cbd-interact">How THC and CBD Interact</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cbd-without-thc">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/724/thumb_3078_320x180_0_0_crop.jpg" alt="CBD Without THC">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cbd-without-thc">CBD Without THC</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cbd-and-anxiety">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/71e/thumb_3077_320x180_0_0_crop.jpg" alt="CBD and Anxiety">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cbd-and-anxiety">CBD and Anxiety</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-is-cbd">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/743/thumb_3087_320x180_0_0_crop.jpg" alt="What is CBD?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-is-cbd">What is CBD?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cbd-without-thc">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/724/thumb_3078_320x180_0_0_crop.jpg" alt="CBD Without THC">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cbd-without-thc">CBD Without THC</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cbd-and-anxiety">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/71e/thumb_3077_320x180_0_0_crop.jpg" alt="CBD and Anxiety">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cbd-and-anxiety">CBD and Anxiety</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-thc-and-cbd-interact">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/717/thumb_3076_320x180_0_0_crop.jpg" alt="How THC and CBD Interact">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-thc-and-cbd-interact">How THC and CBD Interact</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cbd-as-medicine-adults-children-and-pets">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/5e6/thumb_3016_320x180_0_0_crop.jpg" alt="CBD as Medicine: Adults, Children and Pets">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cbd-as-medicine-adults-children-and-pets">CBD as Medicine: Adults, Children and Pets</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/is-cannabis-addictive">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/ceb/thumb_2606_320x180_0_0_crop.jpg" alt="Is Cannabis Addictive?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/is-cannabis-addictive">Is Cannabis Addictive?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/physical-addiction-to-cannabis">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/ce5/thumb_2605_320x180_0_0_crop.jpg" alt="Physical Addiction to Cannabis">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/physical-addiction-to-cannabis">Physical Addiction to Cannabis</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/physical-dependence-on-cannabis">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/cdb/thumb_2603_320x180_0_0_crop.jpg" alt="Physical Dependence on Cannabis">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/physical-dependence-on-cannabis">Physical Dependence on Cannabis</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-35" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/curing-and-storing-keeping-buds-fresh">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/582/a43/95e/thumb_4301_320x180_0_0_crop.jpg" alt="Curing and Storing: Keeping Buds Fresh">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/curing-and-storing-keeping-buds-fresh">Curing and Storing: Keeping Buds Fresh</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/indica-vs-sativa">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/67d/thumb_3053_320x180_0_0_crop.jpg" alt="Indica vs. Sativa">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/indica-vs-sativa">Indica vs. Sativa</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabis-indica">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/5bb/thumb_3006_320x180_0_0_crop.jpg" alt="Cannabis Indica">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabis-indica">Cannabis Indica</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabis-sativa">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/5b4/thumb_3005_320x180_0_0_crop.jpg" alt="Cannabis Sativa">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabis-sativa">Cannabis Sativa</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabis-ruderalis">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/5ac/thumb_3004_320x180_0_0_crop.jpg" alt="Cannabis Ruderalis">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabis-ruderalis">Cannabis Ruderalis</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabis-hybrids">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/5a7/thumb_3003_320x180_0_0_crop.jpg" alt="Cannabis Hybrids">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabis-hybrids">Cannabis Hybrids</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-is-hemp">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/1d1/thumb_2864_320x180_0_0_crop.jpg" alt="What is Hemp?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-is-hemp">What is Hemp?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/hemp-in-history">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/1c3/thumb_2861_320x180_0_0_crop.jpg" alt="Hemp in History">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/hemp-in-history">Hemp in History</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/environmental-impact">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/1a9/thumb_2854_320x180_0_0_crop.jpg" alt="Environmental Impact">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/environmental-impact">Environmental Impact</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/insecticides-and-pesticides">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/1a2/thumb_2853_320x180_0_0_crop.jpg" alt="Insecticides and Pesticides">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/insecticides-and-pesticides">Insecticides and Pesticides</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/comprehensive-uses">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/129/thumb_2820_320x180_0_0_crop.jpg" alt="Comprehensive Uses">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/comprehensive-uses">Comprehensive Uses</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/who-is-old-hemp">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/19c/thumb_2852_320x180_0_0_crop.jpg" alt="Who is Old Hemp?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/who-is-old-hemp">Who is Old Hemp?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/the-history-benefits-and-roadblocks-to-using-hemp">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/774/thumb_2321_320x180_0_0_crop.jpg" alt="The History, Benefits and Roadblocks to Using Hemp">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/the-history-benefits-and-roadblocks-to-using-hemp">The History, Benefits and Roadblocks to Using Hemp</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/marijuana-strains-the-most-popular-types">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/8f4/thumb_2412_320x180_0_0_crop.jpg" alt="Marijuana Strains: The Most Popular Types">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/marijuana-strains-the-most-popular-types">Marijuana Strains: The Most Popular Types</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-36" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/how-is-bho-made">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/01d/thumb_1923_320x180_0_0_crop.jpg" alt="How is BHO Made?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/how-is-bho-made">How is BHO Made?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/intro-to-edibles">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/53d/thumb_2984_320x180_0_0_crop.jpg" alt="Intro to Edibles">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/intro-to-edibles">Intro to Edibles</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-dosage-is-right-for-me">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/4b3/thumb_2961_320x180_0_0_crop.jpg" alt="What Dosage is Right for Me?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-dosage-is-right-for-me">What Dosage is Right for Me?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-is-decarboxylation">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/493/thumb_2956_320x180_0_0_crop.jpg" alt="What is Decarboxylation?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-is-decarboxylation">What is Decarboxylation?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/edible-high-versus-inhalation-high">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/4ea/thumb_2972_320x180_0_0_crop.jpg" alt="Edible High Versus Inhalation High">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/edible-high-versus-inhalation-high">Edible High Versus Inhalation High</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-to-do-if-you-consume-too-much-and-experience-adverse-effects">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/f64/thumb_2716_320x180_0_0_crop.jpg" alt="What to Do if You Consume Too Much and Experience Adverse Effects?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-to-do-if-you-consume-too-much-and-experience-adverse-effects">What to Do if You Consume Too Much and Experience Adverse Effects?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/safety-and-medical-recommendations-for-edible-consumption">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/f5d/thumb_2715_320x180_0_0_crop.jpg" alt="Safety and Medical Recommendations for Edible Consumption">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/safety-and-medical-recommendations-for-edible-consumption">Safety and Medical Recommendations for Edible Consumption</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/general-recommendations-on-edible-making">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/f57/thumb_2714_320x180_0_0_crop.jpg" alt="General Recommendations on Edible Making">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/general-recommendations-on-edible-making">General Recommendations on Edible Making</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cooking-with-sativa-indica-and-hybrids">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/f51/thumb_2713_320x180_0_0_crop.jpg" alt="Cooking with Sativa, Indica and Hybrids">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cooking-with-sativa-indica-and-hybrids">Cooking with Sativa, Indica and Hybrids</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/710-what-is-oil-shatter-wax-hash">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/aa4/thumb_3266_320x180_0_0_crop.jpg" alt="710: What is Oil, Shatter, Wax &amp; Hash?">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/710-what-is-oil-shatter-wax-hash">710: What is Oil, Shatter, Wax &amp; Hash?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/710-shatter-overview">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/a9e/thumb_3265_320x180_0_0_crop.jpg" alt="710: Shatter Overview">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/710-shatter-overview">710: Shatter Overview</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/710-wax-overview">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/a98/thumb_3264_320x180_0_0_crop.jpg" alt="710: Wax Overview">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/710-wax-overview">710: Wax Overview</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/710-oil-overview">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/a52/thumb_3253_320x180_0_0_crop.jpg" alt="710: Oil Overview">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/710-oil-overview">710: Oil Overview</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/710-hash-overview">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/a4d/thumb_3252_320x180_0_0_crop.jpg" alt="710: Hash Overview">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/710-hash-overview">710: Hash Overview</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/710-rosin-technique">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6b/a1c/thumb_3245_320x180_0_0_crop.jpg" alt="710: Rosin Technique">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/710-rosin-technique">710: Rosin Technique</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/what-exactly-did-the-hashish-eaters-eat">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/ef9/thumb_2703_320x180_0_0_crop.jpg" alt="What Exactly Did the Hashish Eaters Eat?">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/what-exactly-did-the-hashish-eaters-eat">What Exactly Did the Hashish Eaters Eat?</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/cannabis-oil-vs-smoking-marijuana">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/8fe/thumb_2414_320x180_0_0_crop.jpg" alt="Cannabis Oil Vs. Smoking Marijuana">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/cannabis-oil-vs-smoking-marijuana">Cannabis Oil Vs. Smoking Marijuana</a></h3>
+</div>
+</div> </div> </div>
+<div class="clearfix"></div>
+</div>
+<div class="megamenu-item" id="megamenu-4">
+<ul id="ul-4" class="megamenu-ul">
+<li id="li-41">
+<a href="https://prohbtd.com/stash/stash-shopping-network" target="_self">
+Stash Shopping Network
+</a>
+</li>
+<li id="li-42">
+<a href="https://prohbtd.com/stash/go" target="_self">
+GO Reviews
+</a>
+</li>
+<li id="li-43">
+<a href="https://prohbtd.com/stash/get" target="_self">
+GET Reviews
+</a>
+</li>
+</ul>
+<div id="mega-41" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/haze-technologies">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/822/1ea/thumb_5041_320x180_0_0_crop.jpg" alt="Haze Technologies">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/haze-technologies">Haze Technologies</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/stash-shopping-network-presents-loosey-lus">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57f/587/e0d/thumb_3856_320x180_0_0_crop.jpg" alt="Stash Shopping Network presents Loosey Lu’s">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/stash-shopping-network-presents-loosey-lus">Stash Shopping Network presents Loosey Lu’s</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/stash-shopping-network-presents-haze-dual-v3">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57f/ec8/ea5/thumb_3927_320x180_0_0_crop.png" alt="Stash Shopping Network presents Haze Dual V3">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/stash-shopping-network-presents-haze-dual-v3">Stash Shopping Network presents Haze Dual V3</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/stash-shopping-network-presents-sol-selects">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57e/234/111/thumb_3526_320x180_0_0_crop.jpg" alt="Stash Shopping Network presents Sol Selects">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/stash-shopping-network-presents-sol-selects">Stash Shopping Network presents Sol Selects</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/stash-shopping-network-presents-chongs-choice">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/e7e/thumb_1845_320x180_0_0_crop.jpg" alt="Stash Shopping Network presents Chong's Choice">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/stash-shopping-network-presents-chongs-choice">Stash Shopping Network presents Chong's Choice</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/stash-shopping-network-presents-juju-joints">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57e/c18/ef0/thumb_3773_320x180_0_0_crop.jpg" alt="Stash Shopping Network presents JUJU Joints">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/stash-shopping-network-presents-juju-joints">Stash Shopping Network presents JUJU Joints</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/flowermate-v50s-pro">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57e/234/099/thumb_3515_320x180_0_0_crop.jpg" alt="FlowerMate V5.0S Pro">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/flowermate-v50s-pro">FlowerMate V5.0S Pro</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/stash-shopping-network-presents-lord-jones">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/d25/thumb_1810_320x180_0_0_crop.jpg" alt="Stash Shopping Network presents Lord Jones">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/stash-shopping-network-presents-lord-jones">Stash Shopping Network presents Lord Jones</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/stash-shopping-network-presents-integra-boost">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/e40/thumb_1839_320x180_0_0_crop.jpg" alt="Stash Shopping Network presents Integra Boost">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/stash-shopping-network-presents-integra-boost">Stash Shopping Network presents Integra Boost</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/stash-shopping-network-presents-hemper-monthly-subscription-box">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/ef2/thumb_1855_320x180_0_0_crop.jpg" alt="Stash Shopping Network presents Hemper Monthly Subscription Box">
+</div>
+<div class="slider-item-icon play"><i class="fa fa-play"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/stash-shopping-network-presents-hemper-monthly-subscription-box">Stash Shopping Network presents Hemper Monthly Subscription Box</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-42" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-spring-break-forever">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/2ce/1db/thumb_5023_320x180_0_0_crop.jpg" alt="GO Spring Break... forever">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-spring-break-forever">GO Spring Break... forever</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-revolution-and-uproot-the-status-quo">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/584/73e/b25/thumb_4388_320x180_0_0_crop.jpg" alt="GO Revolution and uproot the status quo">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-revolution-and-uproot-the-status-quo">GO Revolution and uproot the status quo</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-inauguration">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/587/d1e/be2/thumb_4566_320x180_0_0_crop.jpg" alt="Go Inauguration and make America just OK again!">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-inauguration">Go Inauguration and make America just OK again!</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-comfort">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/586/be4/5b0/thumb_4481_320x180_0_0_crop.jpg" alt="GO Comfort and get cuffed">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-comfort">GO Comfort and get cuffed</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-harvest-and-indulge-in-some-fresh-picks">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/582/264/fc3/thumb_4220_320x180_0_0_crop.jpg" alt="GO Harvest and indulge in some fresh picks">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-harvest-and-indulge-in-some-fresh-picks">GO Harvest and indulge in some fresh picks</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-animals">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/588/f94/953/thumb_4636_320x180_0_0_crop.jpg" alt="GO Animals and pay homage to our free-roaming counterparts">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-animals">GO Animals and pay homage to our free-roaming counterparts</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-island-hopping">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58a/dec/9fc/thumb_4771_320x180_0_0_crop.png" alt="GO Island Hopping and jaunt to a tropical locale">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-island-hopping">GO Island Hopping and jaunt to a tropical locale</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-day-of-the-dead">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/580/544/6f1/thumb_3948_320x180_0_0_crop.png" alt="GO Day of the Dead and honor the departed">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-day-of-the-dead">GO Day of the Dead and honor the departed</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-to-the-movies-and-hibernate">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57f/577/2a4/thumb_3823_320x180_0_0_crop.jpg" alt="GO to the Movies and hibernate">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-to-the-movies-and-hibernate">GO to the Movies and hibernate</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-fashion-weak-and-honor-the-biannual-spectacle">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57e/234/0b2/thumb_3518_320x180_0_0_crop.jpg" alt="GO Fashion Weak and honor the biannual spectacle">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-fashion-weak-and-honor-the-biannual-spectacle">GO Fashion Weak and honor the biannual spectacle</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-labor-day-for-the-last-three-day-party-of-the-summer">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/cfd/thumb_1805_320x180_0_0_crop.jpg" alt="GO Labor Day for the last three-day party of the summer">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-labor-day-for-the-last-three-day-party-of-the-summer">GO Labor Day for the last three-day party of the summer</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-staycation-kick-back-and-do-nothing">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/db2/thumb_1827_320x180_0_0_crop.jpg" alt="GO Staycation, kick back and do nothing">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-staycation-kick-back-and-do-nothing">GO Staycation, kick back and do nothing</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-road-trip-and-explore-possibilities-of-the-unknown">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/e58/thumb_1841_320x180_0_0_crop.jpg" alt="GO Road Trip and explore possibilities of the unknown">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-road-trip-and-explore-possibilities-of-the-unknown">GO Road Trip and explore possibilities of the unknown</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-summer-camp-back-to-a-more-innocent-time-when-you-had-to-be-slightly-sneaky-about-getting-stoned">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e69/eb4/thumb_1848_320x180_0_0_crop.jpg" alt="GO Summer Camp back to a more innocent time when you had to sneak a smoke">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-summer-camp-back-to-a-more-innocent-time-when-you-had-to-be-slightly-sneaky-about-getting-stoned">GO Summer Camp back to a more innocent time when you had to sneak a smoke</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-codependence-day-and-celebrate-with-a-semi-ironic-wink">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/024/thumb_1924_320x180_0_0_crop.jpg" alt="GO Codependence Day and celebrate with a semi-ironic wink">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-codependence-day-and-celebrate-with-a-semi-ironic-wink">GO Codependence Day and celebrate with a semi-ironic wink</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-pool-party">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/12f/thumb_1971_320x180_0_0_crop.jpg" alt="GO Pool Party and passive-aggressively push people into a body of water">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-pool-party">GO Pool Party and passive-aggressively push people into a body of water</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-session-for-a-maximum-high-with-minimal-chaos">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/2c7/thumb_2053_320x180_0_0_crop.jpg" alt="GO Session for a maximum high with minimal chaos">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-session-for-a-maximum-high-with-minimal-chaos">GO Session for a maximum high with minimal chaos</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-cinco-de-mayo">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/4fb/thumb_2181_320x180_0_0_crop.jpg" alt="GO Cinco de Mayo and become belligerent in the process with these hand-selected items">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-cinco-de-mayo">GO Cinco de Mayo and become belligerent in the process with these hand-selected items</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-vinyl-with-sex-drugs-and-rock-n-roll">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/612/thumb_2242_320x180_0_0_crop.jpg" alt="GO Vinyl with Sex, drugs, and rock ‘n’ roll">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-vinyl-with-sex-drugs-and-rock-n-roll">GO Vinyl with Sex, drugs, and rock ‘n’ roll</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/go-street-style">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/57c/e6a/986/thumb_2443_320x180_0_0_crop.jpg" alt="GO Street Style with our new pick of cool products">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/go-street-style">GO Street Style with our new pick of cool products</a></h3>
+</div>
+</div> </div> </div>
+<div id="mega-43" class="megamenu-sliders-container hidden">
+<div class="slider-container-mega">
+<div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-off-white-x-jennifer-fisher-radiating-energy-earrings">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/ae3/4a4/thumb_4991_320x180_0_0_crop.jpg" alt="GET Off-White x Jennifer Fisher Radiating Energy Earrings">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-off-white-x-jennifer-fisher-radiating-energy-earrings">GET Off-White x Jennifer Fisher Radiating Energy Earrings</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-trump-the-road-to-impeachment-adult-coloring-activity-book">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58e/d15/e92/thumb_5044_320x180_0_0_crop.jpg" alt="GET The Road to Impeachment Adult Coloring Book">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-trump-the-road-to-impeachment-adult-coloring-activity-book">GET The Road to Impeachment Adult Coloring Book</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-defonce-chocolatier">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/586/fdc/180/thumb_4539_320x180_0_0_crop.jpeg" alt="GET Défoncé Chocolatier">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-defonce-chocolatier">GET Défoncé Chocolatier</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-vaporous">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58c/ae7/0d9/thumb_4879_320x180_0_0_crop.jpg" alt="GET Vaporous">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-vaporous">GET Vaporous</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-breez-mints">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/04a/33c/thumb_4906_320x180_0_0_crop.png" alt="GET Breez Mints">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-breez-mints">GET Breez Mints</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-blackstone-denim">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/588/fac/cd3/thumb_4652_320x180_0_0_crop.jpg" alt="GET Blackstone Denim">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-blackstone-denim">GET Blackstone Denim</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-redone-champion-oversized-crewnecks-and-hoodies">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/588/134/ec1/thumb_4609_320x180_0_0_crop.jpg" alt="GET: Re/Done Champion Oversized Crewnecks and Hoodies">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-redone-champion-oversized-crewnecks-and-hoodies">GET: Re/Done Champion Oversized Crewnecks and Hoodies</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-eat-beautiful-by-wendy-rowe">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/585/762/c7a/thumb_4447_320x180_0_0_crop.jpg" alt="GET <i>Eat Beautiful</i> by Wendy Rowe">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-eat-beautiful-by-wendy-rowe">GET <i>Eat Beautiful</i> by Wendy Rowe</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-ovo-x-canada-goose-special-edition-chilliwack-bomber">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/585/2f8/4c9/thumb_4436_320x180_0_0_crop.jpg" alt="GET OVO x Canada Goose Special-Edition Chilliwack Bomber">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-ovo-x-canada-goose-special-edition-chilliwack-bomber">GET OVO x Canada Goose Special-Edition Chilliwack Bomber</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-extractcrafts-source-turbo">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/584/1bd/d05/thumb_4337_320x180_0_0_crop.jpg" alt="GET ExtractCraft’s Source Turbo">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-extractcrafts-source-turbo">GET ExtractCraft’s Source Turbo</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-vetements-grinder-necklace">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/58d/04a/df6/thumb_4909_320x180_0_0_crop.jpg" alt="GET Vetements Grinder Necklace">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-vetements-grinder-necklace">GET Vetements Grinder Necklace</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-pure-vape-premium-c02-oil-wiz-khalifa-og">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/583/33d/c74/thumb_4321_320x180_0_0_crop.png" alt="GET Pure Vape Premium C02 Oil: Wiz Khalifa OG">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-pure-vape-premium-c02-oil-wiz-khalifa-og">GET Pure Vape Premium C02 Oil: Wiz Khalifa OG</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-plastic-religion-barbie-dolls">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/584/5b4/f92/thumb_4346_320x180_0_0_crop.jpg" alt="GET Plastic Religion Barbie Dolls">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-plastic-religion-barbie-dolls">GET Plastic Religion Barbie Dolls</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-holiday-treats">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/583/744/e9a/thumb_4329_320x180_0_0_crop.jpg" alt="GET Jazz Dispensary <i>Holiday Treats</i>">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-holiday-treats">GET Jazz Dispensary <i>Holiday Treats</i></a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/hmbldt-bliss-targeted-formulas-precise-dosage">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/582/cf1/d89/thumb_4311_320x180_0_0_crop.jpg" alt="GET Hmbldt Bliss: Targeted Formulas, Precise Dosage">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/hmbldt-bliss-targeted-formulas-precise-dosage">GET Hmbldt Bliss: Targeted Formulas, Precise Dosage</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-frame-x-lara-stone-collection">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/582/f9f/8d4/thumb_4315_320x180_0_0_crop.jpg" alt="GET Frame x Lara Stone Collection">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-frame-x-lara-stone-collection">GET Frame x Lara Stone Collection</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-the-cool-hunter-donut-mirror">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/582/a37/230/thumb_4292_320x180_0_0_crop.jpg" alt="GET The Cool Hunter Donut Mirror">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-the-cool-hunter-donut-mirror">GET The Cool Hunter Donut Mirror</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-skodia-softwear">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/581/a34/e47/thumb_4144_320x180_0_0_crop.jpg" alt="GET Sködia Softwear">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-skodia-softwear">GET Sködia Softwear</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-courtney-love-x-nasty-gal-holiday-collection">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/580/7ec/482/thumb_3967_320x180_0_0_crop.jpg" alt="GET Courtney Love x Nasty Gal Holiday Collection">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-courtney-love-x-nasty-gal-holiday-collection">GET Courtney Love x Nasty Gal Holiday Collection</a></h3>
+</div>
+</div> <div class="slider-item">
+<div class="slider-img-wrapper">
+<a href="https://prohbtd.com/get-tom-ford-beauty-shimmer-shot">
+<div class="darken-img">
+<img src="https://s3-us-west-1.amazonaws.com/prohbtd/uploads/public/580/7eb/b27/thumb_3966_320x180_0_0_crop.jpg" alt="GET Tom Ford Beauty Shimmer Shot">
+</div>
+<div class="slider-item-icon read"><i class="fa fa-align-left"></i></div>
+</a>
+</div>
+<div class="slide-meta">
+<h3><a href="https://prohbtd.com/get-tom-ford-beauty-shimmer-shot">GET Tom Ford Beauty Shimmer Shot</a></h3>
+</div>
+</div> </div> </div>
+<div class="clearfix"></div>
+</div>
+</section>
+</div>
+<div class="clearfix"></div>
+<div id="inner-container">
+<article>
+<div id="main-content">
+<div id="article-body">
+<div class="single-content">
+<h1>PRØHBTD Privacy Policy</h1>
+<p>Effective Date: March 6, 2017</p>
+<p>Welcome to PRØHBTD.com (the "Site", and together with the PRØHBTD mobile applications, and related services the “Services”), provided by PRØHBTD Media, Inc. (together with its affiliates, collectively, "Us", "We", or "PRØHBTD"). Your privacy is important to us, and we are committed to protecting the personally identifiable information (“Personal Information”) you disclose to us. Personal Information may include, among other things, your name, email address, postal address, phone number, and/or any other personal identifier by which you may be identified or contacted. This PRØHBTD.com Privacy Policy ("Policy") is designed to help you understand the type of information we may collect from our users (“user” or “you”) of the Site, how we use Personal Information and non-personally identifiable information that we collect, and how we protect your Personal Information.</p>
+<p>Please read the following Policy carefully before using the Services. By accessing or using the Services, you acknowledge that you have read, understand, and agree to this Policy.</p>
+<p>If you do not agree to this Policy, you may not use the Services.</p>
+<p><strong>Children&nbsp;</strong></p>
+<p>In compliance with the Children's Online Privacy Protection Act of 1998, 15 U.S.C. §§ 6501-6506 and the regulations promulgated thereunder, the Company does not permit children under 13 years of age to register on the Site or Services and does not knowingly collect Personal Information from anyone under the age of 13. If you register on the Site or Services or use the Site or Services in any other manner, you represent that you are 18 years of age or older.&nbsp;</p>
+<p><strong>Information We Collect</strong></p>
+<p>When you use our Services, we collect Personal Information, such as:</p>
+<ol>
+<li>Information you provide us when you respond to a communication such as email, or participate in any other feature made available on the Services;</li>
+<li>Demographic information such as your gender and location;</li>
+<li>Any other information, such as reviews, content, and biographical information, that you provide us;</li>
+<li>Information you provide to third parties through the Services, including without limitation, information provided to our business partners.</li>
+</ol>
+<p>We automatically collect non-personally-identifiable information such as: (i) Internet protocol addresses, (ii) domain server information; (iii) geo-location information, (iv) your browser type, language, browser settings and plug-ins, and other identifying information, (v) your operating system and application version, (vi) device types, (vii) device model and manufacturer, (viii) device identifiers, (ix) your device operating system type and version, and (x) pages viewed and other general tracking information.</p>
+<p>We also use cookies, Web beacons, and URL information to gather information regarding the date and time of your visit and the information for which you searched and which you viewed. Cookies are small pieces of information that a website sends to your computer's hard drive while you are viewing a website. We may use both session cookies (which expire once you close your web browser) and persistent cookies (which usually stay on your computer until you delete them) to provide you with a more personal and interactive experience on our Site. Web beacons are digital images that are used to log information on the Services or in our emails. We use Web beacons to manage cookies, count visits, and to learn what marketing works and what does not. We also use Web beacons to tell if you open or act on our emails. We do not honor “Do Not Track” signals.</p>
+<p>Others, including third party analytics service providers and advertising partners may also collect Personal Information and other information about your online activities over time and across different Web sites when you use our Services, including as described in this Policy. This Policy does not apply to and we are not responsible for those other parties. Third party analytics services may use cookies and web beacons through our Site (for example Google Analytics and Mixpanel.) We encourage you to review the privacy policies of these third parties to learn about your choices about information they collect from you.</p>
+<p><strong>Sharing Of Your Information</strong></p>
+<p>The Services may allow you to connect and share your actions, comments, content, profile, and other information, including but not limited to, personally identifiable information, publicly or with other people. Please be mindful of your own privacy needs as you choose who to connect with and what to share and make public. We cannot control the privacy or security of information you choose to make public or share with others.</p>
+<p>The Services may also provide you with the option to share certain information from the Services with social networking services like Facebook, Google, Twitter, Instagram, etc. We are not responsible for the use or re-sharing by others of any of your information once it is made public. If you do not want your information to be made public, you should not use the PRØHBTD Services in this manner and/or you should adjust your privacy settings on the applicable social networking service accordingly. We are not responsible for and we do not control these social networking services privacy practices. Please review the applicable privacy policy for information about how they use your information.</p>
+<p><strong>How PRØHBTD Uses Your Personal Information</strong></p>
+<p>PRØHBTD generally uses your Personal Information to:</p>
+<ol>
+<li>Identify you as a user in our system;</li>
+<li>Provide, personalize, and improve the Services;</li>
+<li>Communicate with you about your use of the Services;</li>
+<li>Develop new products and services;</li>
+<li>Customize the advertising you view and recommend content to you;</li>
+<li>Fulfill your requests;</li>
+<li>Send newsletters, surveys, offers and promotional materials related to the Services and for other marketing purposes of PRØHBTD using your contact information;</li>
+<li>Protect, investigate, and prevent potentially fraudulent, unauthorized, or illegal activities;&nbsp;</li>
+<li>Protect our rights and the rights of other users; and</li>
+<li>As otherwise described in this Privacy Policy or in notices we provided to you.</li>
+</ol>
+<p>If you correspond with us or submit comments or suggestions, we may also store your Personal Information on our servers. We may also use your information to verify your geographic location. We may use your geographic location data to personalize our Service, to recommend content, determine whether the information you have requested is available in your location.</p>
+<p><strong>How PRØHBTD Discloses Your Personal Information</strong></p>
+<p>The Company treats its users’ information with the utmost sensitivity and does not knowingly disclose your Personal Information to third parties except as follows:</p>
+<ol>
+<li>We may share your Personal Information to fulfill the purpose for which your provide the Personal Information.</li>
+<li>We may share your Personal Information with your consent or at your direction.</li>
+<li>We may also share your Personal Information with others who perform services on our behalf.</li>
+<li>We may disclose your Personal Information if we believe we are required to do so by law, or to comply with a court order, judicial or other government subpoena, or warrant, or other legal process.</li>
+<li>We also may disclose your Personal Information if we believe doing so is appropriate or necessary to prevent any liability, or fraudulent, abusive, or unlawful uses or to protect PRØHBTD and our Services; or any rights, property, or personal safety of PRØHBTD or others.</li>
+<li>We may disclose your Personal Information to a buyer or other successor to PRØHBTD’s business, whether by merger, divestiture, restructuring, reorganization, dissolution, or other sale or transfer of some or all of the Company’s assets, in which personal information about the Services’ users is among the assets transferred, or in the event of insolvency, bankruptcy, or receivership.</li>
+</ol>
+<p><strong>How PRØHBTD Uses Your Non-Personally Identifiable Information</strong></p>
+<p>We keep track of the pages visited by each user and may aggregate certain non-personally identifiable information with data on the pages visited by other users to track overall visitor traffic patterns. We may also use third-party automatic data collection technologies (for example, Google Analytics or HubSpot) to collect information about your online activities over time and across third-party websites or other online services (behavioral tracking). We use this information to, among other things, improve the Services by making it more responsive to the needs and preferences of our users. We may also share this aggregated and anonymized data with our partners, advertisers, and other third parties. This information does not identify you personally.</p>
+<p><strong>Third Party Advertisers</strong></p>
+<p>We permit advertisements to be delivered to you by third party Internet advertising companies (also called ad networks or network advertisers). These companies may use cookies, Web beacons, platform device identifiers, software agents, and other technologies to collect non-personally identifiable information about your visits over time on our Service and across other websites to deliver advertisements to you targeted to your interests, measure their effectiveness and personalize advertising content, and to understand the usage and visitation of the Services and the other applications and websites tracked by these advertising companies. We do not have access to or control over cookies, Web beacons, platform device identifiers, software agents, or other technologies that they may use. We are not responsible for the privacy practices of third party advertisers. You should check the privacy policy of the third party advertiser to determine how it handles information it separately collects from you. In addition, the <a href="http://www.networkadvertising.org/">Network Advertising Initiative</a> offers information about some of the Internet advertising companies we may use.</p>
+<p><strong>Security</strong></p>
+<p>PRØHBTD takes commercially reasonable steps to help protect your Personal Information against loss, misuse and unauthorized access, or disclosure. Notwithstanding the foregoing, PRØHBTD makes no guarantee that such Personal Information is free from access, disclosure, alteration, or destruction as a result of a breach of any of PRØHBTD’s safeguards. Any transmission of Personal Information is at your own risk. We are not responsible for circumvention of any privacy settings or security measures contained on the Services.</p>
+<p><strong>Dispute Resolution</strong></p>
+<p>If you believe that PRØHBTD has not adhered to this Policy, please contact PRØHBTD by e-mail at info@prohbtd.com. We will do our best to address your concerns. If you feel that your complaint has been addressed incompletely, we invite you to let us know for further investigation.</p>
+<p><strong>Information Choices</strong></p>
+<p>You may opt out of receiving promotional emails from PRØHBTD by following the instructions in those emails. If you opt out, we may still send you non-promotional emails, such as emails about our ongoing business relations. You may also send requests about your Personal Information, including changes to your contact preferences, changes to or deletions of your information or content you post, and requests to opt-out of sharing your Personal Information with third parties by emailing support@prohbtd.com. Please note that deletion of your information or content does not ensure complete or comprehensive removal of the content or information posted on the Services.</p>
+<p>When you visit the Site, we and others give you the following choices about use of mechanisms for tracking, including tracking of your online activities over time and across different websites and online services by third parties. Most Web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove cookies and to reject cookies from our Site or from third parties. If you choose to remove cookies or reject cookies, this could affect certain features or services of our Site. To opt-out of Google Analytics web tracking for certain browsers, you can download <a href="http://tools.google.com/dlpage/gaoptout">Google Analytics Opt-out Browser Add-on</a>. You may opt out of other cookies that may be present on the Site by following the directions on <a href="http://www.google.com/settings/ads">Google's opt-out page</a>,<a href="http://www.scorecardresearch.com/optout.aspx?returnurl=vfoptout&amp;source=sroptout">ScorecardResearch's opt-out page</a>, and <a href="http://www.quantcast.com/opt-out">Quantcast's opt out page</a>. You can also choose to opt-out of use of cookies by some of our third party advertising partners to deliver ads tailored to your profile and preferences. To find out more and opt-out click <a href="http://www.networkadvertising.org/choices">here</a>. However, while we and others give you choices as described in this policy, there are many ways in which Web browser signals and other similar mechanisms can indicate your choice to disable tracking, and our Site may not be aware of or honor every mechanism.</p>
+<p><strong>Your California Privacy Rights</strong></p>
+<p>You may have the right to know what Personal Information PRØHBTD has about you and to correct any inaccuracies. Further California Civil Code Section § 1798.83 permits users of the Site that are California residents to request certain information regarding our disclosure of Personal Information to third parties for their direct marketing purposes. Please direct any such requests by email to <a href="mailto:info@prohbtd.com">info@prohbtd.com</a> or by one of the other means listed below.</p>
+<p><strong>Changes and Updates to this Privacy Policy</strong></p>
+<p>From time to time, we may revise the Policy. To help you stay current of any changes, we note the date the Privacy Policy was last updated above.</p>
+<p><strong>PRØHBTD Contact Information</strong></p>
+<p>Please contact PRØHBTD with any questions or comments about this Policy, your information, our third-party disclosure practices, or your consent choices.</p>
+<p>PRØHBTD Media, Inc.
+<br>Attention: Privacy Officer
+<br>P.O. Box 3231
+<br>Culver City, CA 90231
+<br>Email: <a href="mailto:info@prohbtd.com">info@prohbtd.com</a></p>
+<p>&nbsp;</p>
+</div>
+</div>
+</div>
+</article>
+</div>
+</div>
+ 
+<div class="clearfix"></div>
+<footer>
+<div class="clearfix"></div>
+<div id="footer">
+<div class="footer-links">
+<ul>
+<li><a class="foot_privacy" href="https://prohbtd.com/privacy">Privacy</a></li>
+<li><a class="foot_terms" href="https://prohbtd.com/terms">Terms</a></li>
+<li><a class="foot_manifesto" href="https://prohbtd.com/about">About</a></li>
+<li><a href="mailto:whatsgood@prohbtd.com">Contact Us</a></li>
+</ul>
+<div class="rights"><p>2017 PRØHBTD Media Inc, All Rights Reserved</p></div>
+</div>
+<div class="footer-share">
+<ul>
+<li>
+<a target="_blank" href="https://twitter.com/prohbtd"><i class="fa fa-twitter"></i></a>
+</li>
+<li>
+<a target="_blank" href="https://www.facebook.com/prohbtd"><i class="fa fa-facebook"></i></a>
+</li>
+<li>
+<a target="_blank" href="https://www.youtube.com/channel/UCfyL5SjNXoycaIvQKPkO5kA"><i class="fa fa-youtube-play"></i></a>
+</li>
+<li>
+<a target="_blank" href="https://instagram.com/prohbtd"><i class="fa fa-instagram"></i></a>
+</li>
+</ul>
+</div>
+</div>
+<div id="footer-mobile">
+<div class="footer-share">
+<ul>
+<li>
+<a href="https://twitter.com/prohbtd"><i class="fa fa-twitter"></i></a>
+</li>
+<li>
+<a href="https://www.facebook.com/prohbtd"><i class="fa fa-facebook"></i></a>
+</li>
+<li>
+<a href="https://www.youtube.com/channel/UCfyL5SjNXoycaIvQKPkO5kA"><i class="fa fa-youtube-play"></i></a>
+</li>
+<li>
+<a href="https://instagram.com/prohbtd"><i class="fa fa-instagram"></i></a>
+</li>
+</ul>
+</div>
+<div class="footer-links">
+<ul>
+<li><a class="foot_privacy" href="https://prohbtd.com/privacy">Privacy</a></li>
+<li><a class="foot_terms" href="https://prohbtd.com/terms">Terms</a></li>
+<li><a class="foot_manifesto" href="https://prohbtd.com/about">About</a></li>
+<li><a href="mailto:whatsgood@prohbtd.com">Contact Us</a></li>
+</ul>
+<div class="rights"><p>2017 PRØHBTD Media Inc, All Rights Reserved</p></div>
+</div>
+</div>
+</footer>
+ 
+ 
+ 
+<script src="//s3.amazonaws.com/mailmunch/static/site.js" id="mailmunch-script" data-mailmunch-site-id="79792" async="async"></script>
+<link href="https://fonts.googleapis.com/css?family=Roboto:400,500,700|Roboto+Condensed:400,700|Roboto+Slab" rel="stylesheet" type="text/css">
+<link href="https://fonts.googleapis.com/css?family=Playfair+Display:400,500,700,900" rel="stylesheet" type="text/css">
+ 
+<script src="https://prohbtd.com/themes/prohbtd/assets/compiled/js/all.js"></script>
+<script src="https://prohbtd.com/combine/81f0c69f3818484de9632690759580ea-1486539046"></script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","licenseKey":"9b855ca908","applicationID":"30015008","transactionName":"MgdVZBMAW0dWBRcIVgtNdlMVCFpaGCUOEmUmDlZDEgRGaHQLECJWCxZFXw0NUEZ3FBYP","queueTime":0,"applicationTime":148,"atts":"HkBWElsaSEk=","errorBeacon":"bam.nr-data.net","agent":""}</script>
+</body></html>
