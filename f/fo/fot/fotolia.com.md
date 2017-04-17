@@ -1,71 +1,63 @@
-> *The following text is extracted and transformed from the fotolia.com privacy policy that was archived on 2016-10-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161018121525id_/https%3A//www.fotolia.com/Info/Agreements/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fotolia.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417051718id_/https%3A//www.fotolia.com/Info/Agreements/PrivacyPolicy) for the most accurate reproduction.*
 
 # Fotolia - Royalty-free licenses and other agreements from our image bank
 
-This Privacy Policy, as amended from time to time (the “Policy”), governs Fotolia’s collection and use of your personal information. By using the [Fotolia.com](https://us.fotolia.com/ "Fotolia.com") Website you consent to the collection, use and disclosure of your personal information in accordance with this Policy. This Policy is governed by the laws of the State of California irrespective of your location. By using Fotolia’s Website, you agree to be bound by the English-language version of this Policy, found at <http://us.fotolia.com/Info/Agreements/PrivacyPolicy>, and acknowledge that, in the event of conflict between the English-language version and this translated version, the English-language version shall prevail. If you have questions related to our Policy, please contact the applicable Zone Manager, listed below. Your Zone Manager is dependent on the zone in which you are registered. 
+This Privacy Policy, as amended from time to time (the "Policy"), describes how Fotolia, a wholly owned subsidiary of Adobe, collects, uses and shares information about you when you visit or use the [Fotolia.com](https://us.fotolia.com/ "Fotolia.com") website or otherwise interact with us. If you have questions related to this Policy, please contact us at [enterprise@fotolia.com](mailto:enterprise@fotolia.com). 
 
-**US Zone**   
-[enterprise@fotolia.com](mailto:enterprise@fotolia.com)   
-345 Park Ave   
-San Jose, CA 95110   
-USA 
+##  1\. Information Collection  Top 
 
-This Website is intended for adults. If you are between the ages of 13 and 18, please ask your parent or legal guardian for permission before you enter Fotolia’s Website. 
+**Information You Provide to Us.** We collect information you provide directly to us. For example, when you register with Fotolia, we collect the information that you submit such as your name, address, email address, telephone number, credit card numbers, and country of origin ("Registration Information"). If you elect to utilize an "alias" so that your user ID cannot be seen by other users of Fotolia, we collect that alias. For Contributors (as identified on our Website), Registration Information may also include verification of your identity with a government issued ID and your tax forms, such as IRS Forms W-8 or W-9 required for tax purposes. If you post to our Forums or Blog or complete a comment form, we collect the alias you select and whatever comments or other content you post. Fotolia also collects and tracks copyright infringement claims through its membership management module. 
 
-NOTICE TO CHILDREN UNDER THE AGE OF 13 AND THEIR PARENTS OR GUARDIANS: 
+**Information We Collect Automatically.** When you visit this Website, we may automatically collect certain information such as your Internet Protocol ("IP") address, browser type, operating system, number of uploads and downloads on our website, profile changes, content changes, and Forum activity. 
 
-FOTOLIA DOES NOT KNOWINGLY COLLECT PERSONAL INFORMATION FROM CHILDREN UNDER THE AGE OF 13. IF YOU ARE UNDER THE AGE OF 13, YOU MUST NOT USE THIS WEBSITE. PLEASE DO NOT SEND FOTOLIA ANY PERSONAL INFORMATION INCLUDING YOUR EMAIL, NAME AND/OR CONTACT INFORMATION. IF YOU WANT TO CONTACT FOTOLIA, YOU MAY ONLY DO SO THROUGH YOUR PARENT OR LEGAL GUARDIAN. 
+**Cookies and Other Tracking Technologies.** Fotolia and its partners use cookies, web beacons, and other technologies to collect information about users’ activities. “Cookies” are small text files transferred by a web server to your hard drive or device memory and thereafter stored on your computer or device. Cookies and similar technologies help us improve our services and your experience, see which areas and features of our services are popular, and count visits. Web beacons are electronic images that may be used in our services or emails and help deliver cookies, count visits, and understand usage and campaign effectiveness. The type of information a cookie collects includes the date and time you visited, your browsing history, your preferences, and your username. For more information about cookies, and how to disable them, please see "Your Choices" below. 
 
-##  2\. Type of information collected  Top 
+We work with other companies to provide analytics services and serve advertisements on our behalf across the Internet and in mobile apps. These entities may use cookies, web beacons, device identifiers, and other technologies to collect information about your use of the services and other websites and apps, including your IP address, web browser, mobile network information, pages viewed, time spent on pages, links clicked, and conversion information. This information may be used by Fotolia and others to, among other things, analyze and track data, determine the popularity of certain content, deliver advertising and content targeted to your interests on our services and other websites and apps and better understand your online activity. For more information about interest-based ads, or to opt out of having your web browsing information used for behavioral advertising purposes, please click [here](https://info.evidon.com/pub_info/7628?v=1&nt=0&nw=false). 
 
-When you visit this Website, we may collect certain non-personal information such as your Internet Protocol (“IP”) address, browser type, and operating system. This type of information does not identify you personally. When you register with Fotolia, we may also collect the personal information that you submit such as your name, address, email address, credit card numbers, and country of origin (“Registration Information”). For contributors (as identified on our Website), Registration Information may include verification of your identity with a government issued ID. Additionally, we may collect certain information from our contributors for tax purposes. 
+Fotolia uses the information it collects to: 
 
-We may also collect non-Registration Information from our users, including the number of uploads and downloads on the Website, profile changes, content changes, and forum activity. Fotolia uses an outside third party credit card processing company to bill you for your purchases or compensate you for your uploads, which may in some instances include the storage of your personal information by the third party, such as your credit card number. Additionally, Fotolia may track copyright infringement claims through its membership management module. Information related to copyright infringement claims may be stored by Fotolia. 
-
-When you visit our Website, you may search and review certain information without disclosing your identity. We may use cookies to manage a visitor’s session and to enable registered users to utilize the “remember me” function. Cookies may be used irrespective of whether you register with us or not. “Cookies” are small text files transferred by a web server to your hard drive and thereafter stored on your computer. The type of information a cookie collects includes the date and time you visited, your browsing history, your preferences, and your username. 
-
-In some instances, our third party service providers may use cookies on our Website. We cannot control or access cookies used by third party service providers. This Policy covers only cookies used by Fotolia, and not any cookies used by third parties. 
-
-You have the ability to either accept or decline the use of cookies on your computer. Typically, you can configure your browser to not to accept cookies, however, declining the use of cookies may limit your access to certain features of the Fotolia Website. For example, you may have difficulty logging in or using certain interactive features of our Website, such as our member-only areas, payment features, and Fotolia Forum. You should be able to experience the basic functions on Fotolia’s Website, even if you decline the use of cookies. 
-
-Fotolia uses third party service providers such as PayPal and Bibit to process purchases made on our Website. In addition, our Website may occasionally contain links to other sites. If you click on these links, you leave the Fotolia Website and we are not responsible for the content or the security of your personal information when using the other site. These sites may have their own privacy policies governing the storage and retention of your personal information. They may collect information such as your name, mailing address, IP address, browser specifications, and credit card number. This Policy does not govern personal information provided to, stored on, or used by third party sites. We recommend that when you enter a third party site, you review the third party’s privacy policy as it relates to safeguarding your personal information. 
-
-##  5\. How your information is used  Top 
-
-Fotolia may use your personal information to: 
-
-  * Verify a user’s identity for security purposes 
-  * Create and manage your membership account 
-  * Process your transactions 
-  * Provide customer services 
-  * Display services or offers that may be of interest to you. 
-  * Monitor our users’ uploads, downloads, changes in profiles, and forum participation. 
+  * Verify users' identities for security purposes; 
+  * Provide, maintain and improve our services; 
+  * Provide and deliver products and services you request, process transactions and send you related information, including confirmations and invoices; 
+  * Track copyright claims; 
+  * Monitor and analyze trends, usage, and activities in connection with our services; 
   * If you are a contributor, to compensate you and prepare your tax forms. 
-  * To communicate with you about your transactions, new products and services 
-  * To run our interactive features such as the Blog or Forum. 
+  * Communicate with you about products, services, offers, promotions, surveys, and events offered by Fotolia and others, and provide news and information we think will be of interest to you; 
+  * Facilitate your participation in our interactive features such as the Blog or Forum; 
+  * Detect, investigate, and prevent fraudulent and illegal activities and protect the rights and property of Fotolia and others; and 
+  * Carry out any other purpose described to you at the time the information was collected. 
 
 
 
-We may also convert your information into anonymous data in order to help us monitor traffic on our Website. For example, we may also use the personal information disclosed to us to assist you with technical difficulties you may experience while using our Website. We may share your personal information and the demographic information we have collected with our third party service providers. 
+##  4\. Information Sharing  Top 
 
-##  6\. Protecting your personal information  Top 
+We may share the information we collect as follows or as otherwise described in this Privacy Policy: 
 
-As a valued customer, we recognize that protecting your privacy is important to you. For this reason, Fotolia is committed to protecting your personal information in several ways. Our servers are only accessible to a select number of authorized personnel. Your Registration Information is protected by a unique customer password and user ID, and your password is encrypted. You should not disclose your password information to anyone and you should always remember to log off if using a shared computer. We also use secure socket layer technology (SSL) for specific types of information, such as your login and payment information. Lastly, when you register with Fotolia, we allow you to utilize an “alias” so that your user ID cannot be seen by other users of Fotolia. We may retain your personal information for as long as is required to fulfill our business objective. 
+  * With vendors, consultants, and other service providers who need access to such information to carry out work on our behalf; 
+  * In response to a request for information if we believe disclosure is in accordance with, or required by, any applicable law, regulation, or legal process; 
+  * If we believe your actions are inconsistent with our user agreements or policies, or to protect the rights, property, and safety of Fotolia or others; 
+  * In connection with, or during negotiations of, any merger, sale of company assets, financing or acquisition of all or a portion of our business by another company; 
+  * Between and among Fotolia and our current and future parents, affiliates, subsidiaries and other companies under common control and ownership; and 
+  * With your consent or at your direction. 
 
-Additionally, the personal information collected by Fotolia may be stored and processed in a country other than your home country. By providing us with your personal information and using the Fotolia Website, you are consenting to any such transfer of information outside of your home country. 
 
-We have taken certain security protections in safeguarding your personal information. However, as with most electronic transactions, no method is 100% safe. While we strive to use a commercially acceptable means to protect your personal information, we cannot guarantee its security. Therefore, Fotolia assumes no liability regarding the theft, loss, alteration or misuse of personal or other information, including without limitation such information that we have provided to third parties, or with regards to the failure of a third party to abide by the privacy policy or agreement between Fotolia and a third party. 
 
-As a registered user of Fotolia, you may participate in Fotolia’s Blog or Forum. Information posted to Fotolia’s Forum is only available for viewing by other members registered in the same Fotolia zone. Blog postings are visible to any guest of our Website. We strongly discourage posting any information that you do not want others to see on these features. In addition to whatever comments you post to the Blog or Forum, we will post the alias you selected when completing our comment form. Messages posted to the Blog or Forum may be retained so long as the Fotolia Website is operational. 
+We may also share aggregated or de-identified information, which cannot reasonably be used to identify you. 
 
-You may review and change the information you provide to us by going to the “My Profile” section of the Website. You may opt out of receiving our newsletters when you register with Fotolia. By opting out, you will no longer receive certain special offers or promotions. We may continue to send you any legally required notifications and certain notifications, including but not limited to service related notices or notices regarding a change to any of Fotolia’s policies (“Required Notices”). For example, we may send you a notice regarding server problems or scheduled Website maintenance. In order to opt-out of receiving Required Notices, you may need to deactivate your account. 
+As a registered user of Fotolia, you may participate in Fotolia’s Blog or Forum. Information posted to Fotolia's Forum is available for viewing by other registered users of Fotolia. Blog postings are visible to any guest of our website. We strongly discourage posting any information that you do not want others to see on these features. In addition to whatever comments you post to the Blog or Forum, we will post the alias you selected when completing our comment form. Messages posted to the Blog or Forum may be retained so long as the Fotolia website is operational. 
 
-On rare occasions, Fotolia may be required to disclose your personal information due to legal or regulatory requirements. In such instances, we reserve the right to disclose your personal information as required in order to comply with Fotolia’s legal obligations, including, but not limited to, complying with court orders, warrants, subpoenas, service of process requirements, or discovery requests. 
+As a valued customer, we recognize that protecting your privacy is important to you. For this reason, Fotolia is committed to protecting your personal information and takes reasonable measures to help protect information about you from loss, theft, misuse and unauthorized access, disclosure, alteration and destruction. You should not disclose your password information to anyone and you should always remember to log off if using a shared computer. We use secure socket layer technology (SSL) for specific types of information, such as your login and payment information. We may retain your personal information for as long as is required to fulfill our business objective. 
 
-##  9\. Notification of changes  Top 
+##  6\. Transfer of Information to the U.S. and Other Countries  Top 
 
-We reserve the right to change this Policy from time to time, and at our sole discretion. You should make note of the “last updated date” at the top of this Policy. With this information, you should be able to identify if the Policy has been updated recently. 
+The information collected by Fotolia may be stored and processed in a country other than your home country. By providing us with your personal information and using the Fotolia Website, you consent to the processing, transfer and storage of information outside of your home country, where you may not have the same rights and protections as you do under local law. 
 
-Please note that if you have limited your account preferences, we will not change your preferences without your consent. If substantially all of Fotolia’s assets are sold or merged with another company, Fotolia will notify you of the transaction. The acquiring company will be given access to your personal information without your consent. If Fotolia sells only a part of its business, the acquiring entity will have access to your personal information without your consent and Fotolia may send you a notice regarding this sale. 
+**Updating Information.** You may review or change the information you provide to us by going to the "My Profile" section of the Website. If you wish to delete your information or deactivate your account, contact us via telephone or the “Contact Us” form on the Website, but note that we may retain certain information as required by law or for legitimate purposes. We may also retain cached or archived copies of information about you for a certain period of time. 
 
-Any disputes regarding your privacy are subject to this Privacy Policy and Fotolia’s Terms and Conditions, including but not limited to any provisions related to indemnification, limitations on damages, and choice of law. 
+**Cookies.** Most web browsers are set to accept cookies by default. If you prefer, you can usually choose to set your browser to remove or reject cookies. Note that if you choose to remove or reject cookies, this could affect the availability and functionality of our services. 
+
+**Promotional Communications.** You may opt in to receiving our newsletters when you register with Fotolia. You may opt out of receiving promotional emails and newsletters from us by going to the "My Profile" section of the Website or by following the instructions in those emails. By opting out, you will no longer receive certain special offers or promotions, but we may continue to send you non-promotional communications, such as those about your account or our ongoing business relations. 
+
+##  8\. Notification of Changes  Top 
+
+We may change this Policy from time to time, and at our sole discretion. If we make changes, we will notify you by revising the "last updated date" at the top of this Policy and highlighting this on the Website. We encourage you to review the Privacy Policy whenever you access the services or otherwise interact with us to stay informed about our information practices and the choices available to you. 
