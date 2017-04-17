@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the ironsocket.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228003905id_/https%3A//ironsocket.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the ironsocket.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417123746id_/https%3A//ironsocket.com/privacy-policy) for the most accurate reproduction.*
 
 # IronSocket - Privacy Policy
 
