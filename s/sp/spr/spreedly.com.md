@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the spreedly.com privacy policy that was archived on 2016-05-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160502185211id_/https%3A//spreedly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the spreedly.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417042852id_/https%3A//www.spreedly.com/privacy) for the most accurate reproduction.*
 
 # Spreedly Privacy Policy
 
-Spreedly is a service that offers a single API and secure credit card tokenization that allows you to integrate to over 60 gateways around the world. We value and respect your privacy and will take all reasonable steps to protect your and your customers’ personal information. 
+Spreedly is a service that offers a single API and secure credit card tokenization that allows you to integrate to over 100 gateways around the world. We value and respect your privacy and will take all reasonable steps to protect your and your customers’ personal information. 
 
 This Privacy Policy will help you understand what personal data Spreedly collects and how we collect, hold, use and disclose that information as well as the purposes of such collection and disclosure. 
 
@@ -74,7 +74,11 @@ Spreedly owns the data storage, databases and all rights to the Spreedly applica
 
 To offer our service we are required to retain certain data you provide us to ensure transactions are processed correctly, to identify fraudulent activity, and to comply with applicable laws and regulations. Accordingly, even if you close your Spreedly account and we export your data to a third party, we will retain certain information as necessary to meet these obligations. 
 
-##  5\. Security and protection of information 
+##  5\. Credit Card transactional data 
+
+Spreedly sits in a unique position, seeing credit card transactional data from a wide range of global credit cards running across a diverse set of financial payment providers. In an attempt to help improve the performance of payment networks, Spreedly may aggregate credit card transactional information and may sell that aggregated data to interested third parties. "Interested third parties" are customers of our data as a service (DaaS) offering. They are typically focused on comparing their experience of credit card transaction service (specifically, success and decline rates and gateway latency) to the industry overall, with an eye to reducing decline rates and thus improving the payment experience for all involved. By "aggregated data" we mean data collected at the gateway level across all merchants transacting through that gateway. We DO NOT collect or share any personal identifying information of any individual (such as name, address, credit card or social security number, or other identifiers), any data concerning any Spreedly merchant customer, or any type of Stock Keeping Unit identification code or other information that indicates what product or service was purchased. 
+
+##  6\. Security and protection of information 
 
 The security of your personal information is important to us. We take all reasonable steps and follow generally accepted industry standards to ensure that the personal information we hold is protected from misuse, interference, loss, unauthorized access, modification or disclosure by the use of various methods including access limitation, and industry-standard Secure Socket Layer (SSL) encryption technology. We take all reasonable steps to ensure that the personal information we collect, use or disclose is accurate, complete, up-to-date, relevant and stored securely. Security safeguards include data encryption, firewalls, and physical access controls to building and files. Spreedly’s systems are certified as Level 1 PCI compliant and all data retention and credit card information is maintained in accordance with the PCI standards as determined by the PCI Security Standards Council. 
 
@@ -86,22 +90,36 @@ Spreedly maintains strict administrative technical, and physical procedures to p
 
 No method of transmission over the Internet, or method of electronic storage, is 100% secure, however. Therefore, while we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security. 
 
-If you have any questions about security on our Website, you can send email us at support@spreedly.com. 
+If you have any questions about security on our Website, you can send email us at [support@spreedly.com](mailto:support@spreedly.com). 
 
-##  6\. Safe Harbor Framework 
+##  7\. EU-U.S. Privacy Shield Policy 
 
-Spreedly complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from European Union member countries and Switzerland. Spreedly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor Framework, and to view Spreedly’s certification, please visit http://www.export.gov/safeharbor. 
+Spreedly, Inc. complies/adheres with the EU-US Privacy Shield Framework in regards to the collection, use, storing, protecting of personal data transferred from the European Union [EU] member countries. Spreedly has certified that it adheres to the Privacy Shield Principles of Notice, Choice, Accountability for Onward Transfer, Security, Data Integrity and Purpose Limitation, Access, and Recourse, Enforcement and Liability. Spreedly is subject to the investigatory and enforcement powers of the FTC with respect to our adherence to Privacy Shield. If there is any conflict between the policies in this privacy policy and the Privacy Shield Principles, the Privacy Shield Principles shall govern. To learn more about the Privacy Shield Framework and to view our certification, please visit [https://www.privacyshield.gov](https://www.privacyshield.gov/). 
 
-##  7\. Changes to this Privacy Policy 
+In cases of onward transfers to third parties of data of EU individuals received pursuant to the EU-US Privacy Shield, Spreedly Inc., is potentially liable, unless Spreedly., proves that it is not responsible for the event giving rise to the damage.
+
+####  EU-US Privacy Shield – Inquiries & Complaints 
+
+In compliance with the EU-US Privacy Shield Principles, Spreedly Inc., commits to resolve complaints about your privacy and our collection or use of your personal information. European Union individuals with inquiries or complaints regarding this privacy policy should first contact Spreedly at: [support@spreedly.com](mailto:support@spreedly.com).
+
+We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the Safe Harbor Framework. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using JAMS as a third party resolution provider. For more information on filing a complaint with JAMS, please visit: <https://www.jamsadr.com/about/submit-a-case>.
+
+If your complaint is not resolved through the above channel, in certain limited circumstances you may qualify to invoke binding arbitration before the ‘Privacy Shield Panel’ set up by the US Department of Commerce and the European Commission.
+
+####  U.S.-Swiss Safe Harbor Framework 
+
+Spreedly complies with the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use and retention of personal information from Switzerland. Spreedly has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement. To learn more about the Safe Harbor Framework, and to view Spreedly’s certification, please visit <http://www.export.gov/safeharbor>. 
+
+We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the Safe Harbor Framework. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using JAMS as a third party resolution provider. For more information on filing a complaint with JAMS, please visit: <https://www.jamsadr.com/about/submit-a-case>. 
+
+##  8\. Changes to this Privacy Policy 
 
 We reserve the right to modify this privacy statement at any time, so please review it occasionally to ensure you're still in agreement with its provisions. If we make material changes to this policy, we will notify you here or by means of a notice on our Website so that you are aware of what information we collect, how we use it, and under what circumstances, if any, we disclose it. You agree that electronic disclosures and notices have the same meaning and effect as if we had provided you with a paper copy. 
 
-##  8\. Questions; Access, Corrections and Complaints 
+##  9\. Questions; Access, Corrections and Complaints 
 
-If you have any questions about this Privacy Policy or would like to access or seek correction of your personal information, or if you have any complaints regarding our privacy practices, please contact us at support@spreedly.com. 
+If you have any questions about this Privacy Policy or would like to access or seek correction of your personal information, or if you have any complaints regarding our privacy practices, please contact us at [support@spreedly.com](mailto:support@spreedly.com). 
 
-Merchants can correct their personal information by logging into their Spreedly account and updating their account information. For all other corrections please contact us at support@spreedly.com. 
+Merchants can correct their personal information by logging into their Spreedly account and updating their account information. For all other corrections please contact us at [support@spreedly.com](mailto:support@spreedly.com). 
 
-We will investigate and attempt to resolve complaints and disputes regarding use and disclosure of personal information in accordance with the Safe Harbor Framework. If a complaint or dispute cannot be resolved through our internal process, we agree to dispute resolution using JAMS as a third party resolution provider. For more information on filing a complaint with JAMS, please visit: http://www.jamsadr.com/file-safe-harbor-claim/ 
-
-This Privacy Policy was last updated on September 21, 2015. As our service continues to evolve, we may update this policy so please check back frequently. 
+This Privacy Policy was last updated on February 14, 2017. As our service continues to evolve, we may update this policy so please check back frequently. 
