@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2016-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160419020549id_/http%3A//www.cyberguys.com/company-information/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cyberguys.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417164836id_/https%3A//www.cyberguys.com/company-information/Privacy.aspx) for the most accurate reproduction.*
 
 # Cyberguys.com - Privacy Policy
 
 |  |  |   
 ---  
-| [](http://www.cyberguys.com/ "Continue Shopping") |  |   
+| [](https://www.cyberguys.com/ "Continue Shopping") |  |   
 ---|---|---  
   
 | 
