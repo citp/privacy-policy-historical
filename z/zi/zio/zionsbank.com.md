@@ -1,9 +1,8 @@
-> *The following text is extracted and transformed from the zionsbank.com privacy policy that was archived on 2016-08-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160820035909id_/https%3A//www.zionsbank.com/pdfs/privacy_notice.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zionsbank.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417095501id_/https%3A//www.zionsbank.com/pdfs/privacy_notice.pdf) for the most accurate reproduction.*
 
 # FACTS
 
-                                                                                                                    07RRD102715
-                                                                                                               Rev. 01/2016
+                                                                                                              Rev. 01/2017
   FACTS              WHAT DO ZB, N.A., AND ITS AFFILIATES
                      DO WITH YOUR PERSONAL INFORMATION?
   Why?               Financial companies choose how they share your personal information. Federal law gives
@@ -57,8 +56,9 @@ Questions?            question.
 
 Page 2
 Who we are
-                                                      ZB, N.A., Amegy Investments, Inc., Amegy Mortgage Company, LLC,
-Who is providing this notice?                         Amegy Insurance, Inc., Zions Direct, Inc., and Zions Capital Advisors, Inc.
+                                                      ZB, N.A., Zions Direct, Inc., Zions Capital Advisors, Inc., and Zions
+Who is providing this notice?
+                                                      Insurance Agency, Inc.
 What we do
 How do ZB, N.A. and its affiliates protect            To protect your personal information from unauthorized access and
 my personal information?                              use, we use security measures that comply with federal law. These
@@ -85,9 +85,8 @@ someone else?
 Definitions
 Affiliates                                            Companies related by common ownership or control. They can be
                                                       financial and nonfinancial companies.
-                                                           Our affiliates include Amegy Investments, Inc., Amegy Mortgage
-                                                            Company, LLC, Amegy Insurance, Inc., Zions Capital Advisors, Inc.,
-                                                            and Zions Direct, Inc.
+                                                           Our affiliates include Zions Capital Advisors, Inc., Zions Direct, Inc.,
+                                                            and Zions Insurance Agency, Inc.
 Nonaffiliates                                         Companies not related by common ownership or control. They can be
                                                       financial and nonﬁnancial companies.
                                                           We do not share with nonaffiliates so they can market to you.
@@ -103,9 +102,8 @@ applicable state laws before sharing nonpublic personal information about you. W
 notice of those rights to you.
 Nevada residents: We are providing you this notice pursuant to Nevada law. If you prefer not to receive marketing calls
 from us, you may be placed on our Internal Do Not Call List by calling the number associated to the ZB, N.A. division or
-affiliate noted on the first page of this notice, or writing us at Corporate Privacy, 550 North Hope Street, #300, Los
+affiliate noted on the first page of this notice, or writing to us at Corporate Privacy, 550 North Hope Street, #300, Los
 Angeles, CA 90071. For more information contact us at the address above, or email
 NevadaTelemarketingOptOut@zionsbancorp.com. You may also contact the Bureau of Consumer Protection, Office of
 the Nevada Attorney General, 555 E. Washington St., Ste. 3900, Las Vegas, NV 89101; telephone: 702-486-3132; email:
 BCPINFO@ag.state.nv.us.
-                                                                                                                         ZBNAPP 12/15
