@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juniqe.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230175331id_/https%3A//www.juniqe.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juniqe.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417142728id_/https%3A//www.juniqe.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | JUNIQE
 
