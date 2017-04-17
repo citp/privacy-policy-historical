@@ -1,18 +1,18 @@
-> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2016-11-13. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161113000021id_/http%3A//robbreport.com/Resources/Privacy-Policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the robbreport.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418005649id_/http%3A//robbreport.com/Resources/Privacy-Policy) for the most accurate reproduction.*
 
 # Privacy Policy | The Best Luxury Cars, Jets, Yachts, Travel, Watches | Robb Report
 
-**CurtCo Robb Media, LLC**
+**Robb Report Media, LLC**
 
 **Online Privacy Policy**  (including California Privacy Rights) 
 
 _This Privacy Policy was last modified and is_ _effective as of July 6, 2016._
 
-This Online Privacy Policy provides guidelines concerning how CurtCo Robb Media, LLC (“CurtCo”), gathers and uses personally identifiable information you provide only to us (as compared to publically available postings) as part of your interaction with all of CurtCo’s digital properties, including CurtCo’s Website(s) and other related digital products. 
+This Online Privacy Policy provides guidelines concerning how  Robb Report Media, LLC (“Robb Report"), gathers and uses personally identifiable information you provide only to us (as compared to publically available postings) as part of your interaction with all of Robb Report’s digital properties, including Robb Report’s Website(s) and other related digital products. 
 
 Our official Privacy Policy forms part of your legal agreement with us under our [TERMS and CONDITIONS](file:///C:/Users/AnthonyA/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/NJ1OLZOX/TERMS%20&%20CONDITIONS).  Please read our Privacy Policy carefully in conjunction with our Terms and Conditions to be sure you understand:  1) how we collect and use information and under what circumstances we share information about you; and 2) the terms and conditions of your use of our website and related digital properties, including, but not limited to, RobbReport.com and other related international websites, iPad, iPhone and other digital applications.
 
-In the event that you have any questions or concerns about the guidelines included in the Online Privacy Policy or how we use information which you have given us or which has been derived from your use of our Website(s) and other digital applications, please contact us at [privacypolicy](mailto:PrivacyPolicy@CurtCo.com)[@curtco.com](mailto:PrivacyPolicy@CurtCo.com).
+In the event that you have any questions or concerns about the guidelines included in the Online Privacy Policy or how we use information which you have given us or which has been derived from your use of our Website(s) and other digital applications, please contact us at [privacypolicy](mailto:PrivacyPolicy@CurtCo.com)[@robbreport.com](mailto:PrivacyPolicy@CurtCo.com).
 
 Any terms not defined in this Privacy Policy are defined in our [TERMS and CONDITIONS](file:///C:/Users/AnthonyA/AppData/Local/Microsoft/Windows/Temporary%20Internet%20Files/Content.Outlook/NJ1OLZOX/TERMS%20&%20CONDITIONS).
 
@@ -94,7 +94,7 @@ The Internet is an international public network of networks, and we cannot guara
 
 **YOUR RIGHTS REGARDING YOUR PERSONAL INFORMATION**
 
-We will provide you with a mechanism to allow and enable you to correct or update the Personal Information in our records that we have obtained from you.  You always can review and change your Personal Information by contacting us by email at PrivacyPolicy@CurtCo.com or by telephone at (310) 589-7700, or by clicking the link to the Mailing Preference Center located at the bottom of each email we send you and following the instructions on that page. Certain Personal Information may not be changed without authentication.  Therefore, you may be asked to provide additional information to allow us to confirm your identity in order to change that Information.  If you ask us to remove your Personal Information, we still reserve the right to retain as much of your Personal Information and for so long as necessary to comply with our legal, regulatory, internal audit and record-keeping requirements.
+We will provide you with a mechanism to allow and enable you to correct or update the Personal Information in our records that we have obtained from you.  You always can review and change your Personal Information by contacting us by email at PrivacyPolicy@RobbReport.com or by telephone at (310) 589-7700, or by clicking the link to the Mailing Preference Center located at the bottom of each email we send you and following the instructions on that page. Certain Personal Information may not be changed without authentication.  Therefore, you may be asked to provide additional information to allow us to confirm your identity in order to change that Information.  If you ask us to remove your Personal Information, we still reserve the right to retain as much of your Personal Information and for so long as necessary to comply with our legal, regulatory, internal audit and record-keeping requirements.
 
 **CHILDREN**
 
@@ -106,15 +106,15 @@ Occasionally we make our subscriber list available to carefully screened compani
 
 **YOUR CALIFORNIA PRIVACY RIGHTS**
 
-If you are a resident of the State of California, under the California Civil Code, you have the right to request information on how to exercise your disclosure choice options from companies conducting business in California. To do so, please send us a request for information along with your preference regarding how you would like us to respond to your request (i.e. by email or postal mail). To request such information, either send an email to our designated Privacy Administrator at [PrivacyPolicy@CurtCo.com](mailto:PrivacyPolicy@CurtCo.com), or you may contact us via postal mail, proper postage prepaid, at:
+If you are a resident of the State of California, under the California Civil Code, you have the right to request information on how to exercise your disclosure choice options from companies conducting business in California. To do so, please send us a request for information along with your preference regarding how you would like us to respond to your request (i.e. by email or postal mail). To request such information, either send an email to our designated Privacy Administrator at [PrivacyPolicy@RobbReport.com](mailto:PrivacyPolicy@CurtCo.com), or you may contact us via postal mail, proper postage prepaid, at:
 
 Attn: Privacy Administrator - California Privacy Rights
 
-CurtCo Robb Media, LLC 
+Robb Report Media, LLC 
 
-29160 Heathercliff Road, Suite 200 
+11175 Santa Monica Blvd 
 
-Malibu, CA 90265 
+Los Angeles, CA 90025 
 
 **All requests sent via postal mail must be labeled "California Privacy Rights" on the envelope or post card and clearly stated on the actual request.**  For all requests, please include your name, street address, city, state, and zip code. (Your street address is optional if you wish to receive a response to your request via email. Please include your zip code for our own recordkeeping.)  **We will not accept requests via the telephone or by facsimile.**  We are not responsible for notices that are not labeled or sent properly, or that do not have complete information.
 
@@ -122,14 +122,12 @@ Malibu, CA 90265
 
 For questions or concerns relating to privacy, we can be contacted by:
 
-E-Mail:  [PrivacyPolicy@CurtCo.com](mailto:PrivacyPolicy@CurtCo.com)
+E-Mail:  [PrivacyPolicy@RobbReport.com](mailto:PrivacyPolicy@CurtCo.com)
 
 Phone: (310) 589-7700
 
 Mail:      Attn: Privacy Administrator
 
-CurtCo Robb Media, LLC 
-
-29160 Heathercliff Road, Suite 200 
-
-Malibu, CA 90265 
+Robb Report Media, LLC  
+11175 Santa Monica Blvd  
+Los Angeles, CA 90025 
