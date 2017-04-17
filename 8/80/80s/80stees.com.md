@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the 80stees.com privacy policy that was archived on 2015-09-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150905065925id_/https%3A//www.80stees.com/pages/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the 80stees.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417135816id_/https%3A//www.80stees.com/pages/privacy-policy) for the most accurate reproduction.*
 
 # 80sTees.com Privacy Policy
 
-Updated 8.30.2013
+Updated October 15th, 2015
 
 Your Information 
 
@@ -14,7 +14,7 @@ We do not store your credit card information, nor do we have access to your cred
 
 Your Email Address 
 
-80sTees will not sell your email address. We will not contact you with promotional email unless you opt-in to our email list. We use your email address to send you transactional email messages. Transactional email messages include: Order Confirmation, Shipment Notification, Delivery Notification, Request for Product Reviews, and any other email communication needed to facilitate your order. You will be given the option to add your email address to our mailing list when you place your order. We suggest you do, because we give out discount coupons and announce sales from our mailing list.
+80sTees will not sell your email address. We will not contact you with promotional email unless you opt-in to our email list. We use your email address to send you transactional email messages. Transactional email messages include: Order Confirmation, Shipment Notification, Delivery Notification, Request for Product Reviews, and any other email communication needed to facilitate your order. You will be given the option to add your email address to our mailing list when you place your order. We suggest you do, because we give out discount coupons and announce sales from our mailing list. You can unsubscribe from our marketing email list [here](https://web.archive.org/pages/unsubscribe).
 
 Your Phone Number 
 
