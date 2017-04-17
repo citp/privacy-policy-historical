@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the javacodegeeks.com privacy policy that was archived on 2016-09-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160911105227id_/http%3A//www.javacodegeeks.com/about/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the javacodegeeks.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417023328id_/http%3A//www.javacodegeeks.com/about/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Java Code Geeks - 2016
+# Privacy Policy | Java Code Geeks - 2017
 
 Java Code Geeks is committed to protecting your privacy. The following privacy policy describes the ways in which Java Code Geeks gathers and shares your personal information as well as how you can access and update this information. Java Code Geeks reserves the right to update this privacy policy at any time. Any modifications to our privacy policy will be reflected on Java Code Geeks. If there is a material change in our privacy policy, we will indicate on [www.javacodegeeks.com](http://www.javacodegeeks.com/) our privacy policy has changed and provide a link to the new privacy statement.
 
