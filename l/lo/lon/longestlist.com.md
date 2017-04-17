@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the longestlist.com privacy policy that was archived on 2016-12-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161216122420id_/http%3A//longestlist.com/privacy-policy-2) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the longestlist.com privacy policy that was archived on 2017-04-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170417212539id_/http%3A//longestlist.com/privacy-policy-2) for the most accurate reproduction.*
 
 # Privacy Policy | Longestlist
 
