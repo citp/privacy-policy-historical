@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the force9.co.uk privacy policy that was archived on 2016-11-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161118062345id_/https%3A//www.plus.net/help/legal/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the force9.co.uk privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419015711id_/https%3A//www.plus.net/help/legal/privacy-policy) for the most accurate reproduction.*
 
 # Privacy policy | Help & Support - Plusnet
 
@@ -41,9 +41,9 @@ In the below we’ve detailed what personal information we’ll collect when you
 
 ### When you sign up for our service(s):
 
-  * **What we collect:** when you sign up for a service or services with us we'll ask you for your name, address, phone number, email address, mobile number, payment information and some other general information about how you want to use the service(s) and what other services you have. We’ll ask you to create a username and a password and we’ll also create a unique identifier for you. 
+  * **What we collect:** when you sign up for a service or services with us we'll ask you for your name, address, phone number, email address, mobile number, payment information and some other general information about how you want to use the service(s) and what other services you have. We’ll ask you to create a username and a password and we’ll also create a unique identifier for you. For some services we’ll also collect some extra information, such as your date of birth and previous addresses. 
 
-  * **Why we collect it:** we ask you for this information so we’re able to place your order, contact you about your order’s progress, process your payment and provide you with the service(s). We may also use it to check or confirm your identity. Your address and phone number, and the general information you provide on how you want to use our services, allow us to check what services we can provide you and to discuss the best service option for you.
+  * **Why we collect it:** we ask you for this information so we’re able to place your order, contact you about your order’s progress, process your payment and provide you with the service(s). We may also use it to check or confirm your identity. Your address and phone number, and the general information you provide on how you want to use our services, allow us to check what services we can provide you and to discuss the best service option for you. If you sign up for Plusnet Mobile we may also do a credit or fraud prevention check.
 
 
 
@@ -52,12 +52,14 @@ In the below we’ve detailed what personal information we’ll collect when you
 
 ### When you use any of our services:
 
-  * **What we collect:** our network records information on how much you use our service (for example, how long you connect to the Internet, how long you speak on the phone, and what numbers you call). We also collect information on the websites you visit. We'll also use some of the information you provide when you sign up when you use our services.
+  * **What we collect:** our network records information on how much you use our services (for example, the number of texts you send, how long you connect to the Internet, how long you speak on the phone, and what numbers you call). We also collect information on the websites you visit. We’ll also use some of the information you provide when you sign up when you use our services.
 
-  * **Why we collect it:** we are not Big Brother and only want to collect this information so we can provide our services, manage demand across our network, manage faults and bill you for the service. We’re legally required to keep this information. Sometimes court orders and agreements also mean we have to collect this information. The information might also be necessary if we need to contact you if you are using our service to access third party content in an unlawful way, or if we need to notify you about changes to our services (for example, to tell you that we have upgraded the service on your line, or to tell you when new technologies, such as fibre broadband, are available).
+  * **Why we collect it:** we collect this information so we can provide our services, manage demand across our network, manage faults and bill you for the service. We may also use some of this usage information (including IP addresses and other traffic data) to look at how we can make our services better or to decide what marketing or products you might be interested in.
 
 
 
+
+We’re legally required to keep this information. Sometimes court orders and agreements also mean we have to collect this information. The information might also be necessary if we need to contact you if you are using our service to access third party content in an unlawful way, or if we need to notify you about changes to our services (for example, to tell you that we have upgraded the service on your line, or to tell you when new technologies, such as fibre broadband, are available).
 
 * * *
 
@@ -69,6 +71,21 @@ In the below we’ve detailed what personal information we’ll collect when you
 
 
 
+
+* * *
+
+### When you take Plusnet Mobile:
+
+  * **What we collect:** we’ll capture and collect certain location information. Normally it’s only an approximate location, which is based on where you are relative to the nearest mobile phone masts. So we can’t tell if you’re in a particular house or shop. We’ll also collect details about the mobile phone you’re using, such as your hardware model, operating system version, unique device identifier and advertising identifiers on your device. And we’ll collect the setting you’re using on your phone, for example if you’ve got roaming on or off. We might collect some information about your broadband account with us as well.
+
+  * **Why we collect it:** we use the [information you give us when you sign up](https://web.archive.org/web/20170419015711id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-sign-up-for-our-service-s-#what-information), the [information we collect when you use our services](https://web.archive.org/web/20170419015711id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-use-any-of-our-services-#what-information), some location information and the device information to be able to provide our mobile service. We’ll also use location information to make sure you’re getting the most from your network coverage, to manage our network, and for reporting of network issues in particular areas. We may collect some information about your broadband account to see if you’re eligible for any special offers.
+
+
+
+
+When you install some apps, they might ask that your mobile phone collects location, calling and other personal information. We aren’t responsible for how these apps use your personal information so we’d recommend you look at these apps privacy policies before installing them. 
+
+Location information might be shared with the emergency services if you make an emergency call so they can respond more quickly to the call. Sometimes public authorities will use location data to get in touch with you in the event of a public emergency. For example, the Environment Agency might send a warning about very severe flooding in your area.
 
 * * *
 
@@ -92,18 +109,35 @@ Further information on the YouView TV services’ use of personal information ca
 
 
 
-As the Community is publically available, we’re not responsible for the security of any personal information you upload or post within the public section of the Community, or any further use of that information by third parties.
+As the Community is publically available, we're not responsible for the security of any personal information you upload or post within the public section of the Community, or any further use of that information by third parties.
+
+Personal information that you have made publicly available on the Community may be used by our community provider to measure your influence and interests, and improve the Community platform. Their [Privacy Policy](https://klout.com/corp/privacy/) provides more information on this and how you can opt-out of this use of your information.
 
 * * *
 
-### When you are referred to us by another customer:
+### When you are taking advantage of our referrals scheme:
 
-  * **What we collect:** if you’ve been referred to us by a friend or another third party who is a Plusnet customer, we’ll let them know you’ve become a customer.
+  * **What we collect:** where you have referred a customer to us, we’ll collect information about your account (normally the username of the broadband account and maybe the post code) from the person you’ve referred.
 
-  * **Why we collect it:** we do this so they can receive their referral bonus. If someone has referred you to us, we have to let them know whether they are still eligible to receive a referral bonus. As this eligibility depends on a number of things you do (for example, remaining a customer and making payments on time), this may involve indirectly letting them know certain limited information about you but we’ll never provide the exact reason why they are no longer eligible to receive a referral bonus. 
+  * **Why we collect it:** we do this so you can receive your referral bonus.
 
 
 
+
+If you’re a customer who has been referred to us, we have to let the person who referred you know whether they are still eligible to receive a referral bonus. As this eligibility depends on a number of things you do (for example remaining a customer and making payments on time), this may involve indirectly letting the person who referred you know certain limited information about you. However, we’ll never provide the exact reason why they are no longer eligible to receive a referral bonus. 
+
+* * *
+
+### When someone in your family is taking advantage of discounts or benefits because you already take a Plusnet service:
+
+  * **What we collect:** where a family member or someone in your household gets a discount or benefit because you’ve got broadband or another service with us, we’ll collect information about your account (normally your username and post code).
+
+  * **Why we collect it:** we do this to check if the customer is eligible to receive the discounts or benefits.
+
+
+
+
+If you’ve given your details out so a family member, or someone in your household, gets a discount or benefit, you need to make sure they are someone you can trust with these details. In addition, we have to let people with these discounts or benefits know when they aren’t eligible to receive them anymore. As this eligibility depends on things you do (for example remaining a customer), this may involve indirectly letting them know certain limited information about you.
 
 * * *
 
@@ -111,7 +145,7 @@ As the Community is publically available, we’re not responsible for the securi
 
   * **What we collect:** we may collect information via cookies (see below) and other tracking devices. We may also create unique identifiers that match our records with these providers’ records. Where you sign up for service(s), either online or via the phone, through one of these providers, these providers may collect the information to sign you up for the service(s) on our behalf, rather than us collecting the information from you directly.
 
-  * **Why we collect it:** we use the tracking information and unique identifiers to see whether you’ve been referred to us by a comparison website or cashback provider and to be able to process payments that are due. The information collected to sign you up for service(s) is collected for the same reasons as when you sign up with us directly and the [When you sign up for our service(s) section](https://web.archive.org/web/20161118062345id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-sign-up-for-our-service-s-#what-information) provides full details on this.
+  * **Why we collect it:** we use the tracking information and unique identifiers to see whether you’ve been referred to us by a comparison website or cashback provider and to be able to process payments that are due. The information collected to sign you up for service(s) is collected for the same reasons as when you sign up with us directly and the [When you sign up for our service(s) section](https://web.archive.org/web/20170419015711id_/https://www.plus.net/help/legal/privacy-policy/?scrollTo=when-you-sign-up-for-our-service-s-#what-information) provides full details on this.
 
 
 
