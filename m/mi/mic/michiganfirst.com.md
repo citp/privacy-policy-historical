@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the michiganfirst.com privacy policy that was archived on 2016-06-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160630172750id_/https%3A//michiganfirst.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the michiganfirst.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418030812id_/https%3A//michiganfirst.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Michigan First Credit Union
 
-[Printable Version](https://michiganfirst.com/wp-content/themes/michiganfirst/pdf/Michigan-First-Privacy-Policy.pdf) | [Children’s Online Privacy Statement](https://web.archive.org/wp-content/uploads/2014/04/ChildrensOnlinePrivacyStatement.pdf)
+[Printable Version](http://michiganfirst.com/wp-content/themes/michiganfirst/pdf/Michigan-First-Privacy-Policy.pdf) | [Children’s Online Privacy Statement](https://web.archive.org/wp-content/uploads/2014/04/ChildrensOnlinePrivacyStatement.pdf)
 
 Facts | What does Michigan First Credit Union do with your personal information?  
 ---|---  
@@ -30,7 +30,7 @@ For non-affiliates to market to you | No | We don’t share
 To limit our sharing | 
 
   * Call 800.664.3828 and speak with a representative or
-  * [Opt-Out Online](https://michiganfirst.com/data-sharing-opt-out)
+  * [Opt-Out Online](http://michiganfirst.com/data-sharing-opt-out)
 
 
 
@@ -39,7 +39,7 @@ To limit our sharing |
 However, you can contact us at any time to limit our sharing.  
   
 ---|---  
-Questions? | Call 800.664.3828 or [contact us](https://michiganfirst.com//bank-your-way/contact-us/ "Contact Us - Michigan First Credit Union"). You can also [opt-out of data sharing and marketing here](https://web.archive.org/data-sharing-opt-out/).  
+Questions? | Call 800.664.3828 or [contact us](http://michiganfirst.com//bank-your-way/contact-us/ "Contact Us - Michigan First Credit Union"). You can also [opt-out of data sharing and marketing here](https://web.archive.org/data-sharing-opt-out/).  
 What we do |   
 ---|---  
 How does Michigan First Credit Union collect my personal information? | We collect your personal information, for example, when you: 
