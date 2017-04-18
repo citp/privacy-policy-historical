@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the usdirect.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221101354id_/http%3A//www.usdirect.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the usdirect.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418121645id_/http%3A//www.usdirect.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -26,7 +26,7 @@ We collect various types of Customer Information. A summary of the types of info
 
  **  Security Measures**
 
-Clear Link Technologies, LLC has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access. We also maintain procedural safeguards that restrict access to your Customer Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Customer Information in order to provide the products and services that you request.
+Clearlink Technologies, LLC has implemented a variety of encryption and security technologies and procedures to protect information stored in our computer systems from unauthorized access. We also maintain procedural safeguards that restrict access to your Customer Information to employees (or people working on our behalf and under confidentiality agreements) who need to know your Customer Information in order to provide the products and services that you request.
 
  **Use and sharing of customer information**
 
@@ -40,7 +40,7 @@ All of your Customer Information is used in an effort to process your orders and
 
  **Opt-out Procedures**
 
--Email Promotions. To opt out from receiving further email communications from us regarding other offers and promotions, you may email us at privacy@clearlink.com or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. Additionally, you may opt-out by visiting the website at http://clearlink.com/unsubscribe.
+-Email Promotions. To opt out from receiving further email communications from us regarding other offers and promotions, you may email us at privacy@clearlink.com or write to Clearlink Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. Additionally, you may opt-out by visiting the website at http://clearlink.com/unsubscribe.
 
 -Third Party Cookies. To opt-out of anonymous third-party advertising cookies, visit the Network Advertising Initiative website, click here http://www.networkadvertising.org/choices/.
 
@@ -54,7 +54,7 @@ We will update this Privacy Policy from time to time to reflect changes in our b
 
  **Access to information**
 
-Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at privacy@clearlink.com or write to Clear Link Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, Clear Link Technologies will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.
+Should you have any questions about the Customer Information we have about you or to access your information that we have on file, you may email us at privacy@clearlink.com or write to Clearlink Technologies, LLC, Privacy Department, 5202 W. Douglas Corrigan Way, STE 300, Salt Lake City, Utah 84116. We may ask you to pay an administrative fee for accessing or copying your information, but will inform you of the anticipated charges and confirm that you want us to proceed before processing your request. If you believe that the Customer Information about you that we have collected is incomplete or inaccurate, Clearlink Technologies will correct the information upon verification of the omission or error and that the person requesting the change is the person about whom the Customer Information relates.
 
  **If You Are a Resident of California or Delaware**
 
@@ -67,4 +67,4 @@ If you are a California or Delaware resident, in addition to the rights set fort
 
 
 
-The Effective Date hereto shall be August 25, 2016.
+The Effective Date hereto shall be January 5, 2017.
