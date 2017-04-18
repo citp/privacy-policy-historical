@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the truckersmp.com privacy policy that was archived on 2016-11-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161109210843id_/https%3A//truckersmp.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the truckersmp.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418091145id_/https%3A//truckersmp.com/policy) for the most accurate reproduction.*
 
 # Truckers MP
 
@@ -26,7 +26,7 @@ If you have any questions regarding this privacy policy, please contact [support
 
 ### 2.1 Information you provide to us
 
-When you register you provide information such as your username and email address, if you contact [support](http://truckersmp.com/support) Information you share there is also collected. Optionally after registration you may attach a steam account to your TruckersMP account where we then will also collect ownership information of ATS and ETS2. By providing this information you agree to it's use acording to this privacy policy and our [Terms of Use](http://truckersmp.com/terms).
+When you register you provide information such as your username, email address and attach a steam account to your TruckersMP account where we then will also collect ownership information of ATS and ETS2, if you contact [support](http://truckersmp.com/support) Information you share there is also collected. By providing this information you agree to it's use acording to this privacy policy and our [Terms of Use](http://truckersmp.com/terms).
 
 ### 2.2 Information from usage
 
