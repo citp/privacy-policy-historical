@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the surveyanyplace.com privacy policy that was archived on 2016-08-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160818000429id_/https%3A//surveyanyplace.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the surveyanyplace.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418175624id_/https%3A//surveyanyplace.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - Survey Anyplace
 
@@ -57,7 +57,7 @@ This Privacy Policy only covers the Survey Anyplace Site. We are not responsible
 
 ### Cookies
 
-Cookies may be used by us to provide you with customised information from the Site. A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to establish the most popular areas of our web site. Cookies are also used to maintain a session, which tells us you are logged in. Your password, or any other personal information, is never stored in this cookie. We use cookies so that we can give you a better experience when you return to our Site. Most web browsers automatically accept cookies. You do not have to accept cookies, and you should read the information that came with your browser software to see how you can set up your browser to notify you when you receive a cookie, this will give you the opportunity to decide whether to accept it. If you disable cookies from your browser you may not be able to access certain features of a particular web site.
+Cookies may be used by us to provide you with customized information from the Site. A cookie is an element of data that a web site can send to your browser, which may then store it on your system. Cookies allow us to understand who has seen which pages and advertisements, to determine how frequently particular pages are visited and to establish the most popular areas of our web site. Cookies are also used to maintain a session, which tells us you are logged in. Your password, or any other personal information, is never stored in this cookie. We use cookies so that we can give you a better experience when you return to our Site. Most web browsers automatically accept cookies. You do not have to accept cookies, and you should read the information that came with your browser software to see how you can set up your browser to notify you when you receive a cookie, this will give you the opportunity to decide whether to accept it. If you disable cookies from your browser you may not be able to access certain features of a particular web site.
 
 ### Keeping your Personal Data correct and complete
 
@@ -81,4 +81,4 @@ The Website is operated from Belgium, and therefore Belgian law applies (includi
 
 Survey Anyplace reserves the right to make changes to and update this Privacy Policy from time to time. If we make any material changes to this Privacy Policy we will notify you by posting the new version of the Privacy Policy on the Site or may send each User a courtesy email.  It is your responsibility to check the Site for updates to this Privacy Policy.
 
-Last Updated: September 5, 2013
+Last Updated: September 5,  2013
