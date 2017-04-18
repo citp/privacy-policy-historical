@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nowpublic.com privacy policy that was archived on 2016-12-31. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nowpublic.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html) for the most accurate reproduction.*
 
 # AXS Privacy Policy
 
@@ -12,22 +12,22 @@ This Privacy Policy discloses what information we may collect when you use our S
 
 Through your use of any of our Services, you consent to the practices described in this Policy.
 
-  * [Types of information that may be collected](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-1)
-  * [How is this information collected and used?](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-2)
-  * [How we process the information we collect](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-3)
-  * [To whom the information may be disclosed](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-4)
-  * [What choices do I have about AXS collecting, using, and sharing my information?](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-5)
-  * [How we secure your Personal Information](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-6)
-  * [Links to other Websites and Services](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-7)
-  * [Frames](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-8)
-  * [Single Sign-On](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-9)
-  * [A special note for parents concerning privacy](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-10)
-  * [International Users/Transfers](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-11)
-  * [EU-US Privacy Shield](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-12)
-  * [Limitation of Liability](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-13)
-  * [Notification of changes and acceptance of the Privacy Policy](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-14)
-  * [Correcting, updating and removing Personal Information](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-15)
-  * [Whom do I contact with questions or concerns about this privacy policy?](https://web.archive.org/web/20161231125006id_/http%3A//www.axs.com/about-privacy-policy.html#us-16)
+  * [Types of information that may be collected](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-1)
+  * [How is this information collected and used?](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-2)
+  * [How we process the information we collect](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-3)
+  * [To whom the information may be disclosed](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-4)
+  * [What choices do I have about AXS collecting, using, and sharing my information?](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-5)
+  * [How we secure your Personal Information](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-6)
+  * [Links to other Websites and Services](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-7)
+  * [Frames](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-8)
+  * [Single Sign-On](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-9)
+  * [A special note for parents concerning privacy](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-10)
+  * [International Users/Transfers](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-11)
+  * [EU-US Privacy Shield](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-12)
+  * [Limitation of Liability](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-13)
+  * [Notification of changes and acceptance of the Privacy Policy](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-14)
+  * [Correcting, updating and removing Personal Information](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-15)
+  * [Whom do I contact with questions or concerns about this privacy policy?](https://web.archive.org/web/20170418133220id_/https%3A//www.axs.com/about-privacy-policy.html#us-16)
 
 
 
