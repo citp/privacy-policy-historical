@@ -1,16 +1,6 @@
-> *The following text is extracted and transformed from the nordicbetpartners.com privacy policy that was archived on 2016-04-04. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160404155812id_/https%3A//www.nordicbet.com/en/customer-service/cookie-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nordicbetpartners.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418194459id_/https%3A//www.nordicbet.com/en/customer-service/cookie-policy) for the most accurate reproduction.*
 
-# Find out more information about NordicBet's cookie policies
-
-
-
-
-    * [ FAQ ](https://web.archive.org/en/customer-service/faq)
-    * [ Game rules ](https://web.archive.org/en/customer-service/game-rules/casino)
-    * [ Payment Options ](https://web.archive.org/en/customer-service/deposit-options)
-    * [ Responsible gaming ](https://web.archive.org/en/customer-service/responsible-gaming/information)
-
-
+# Find out more information about Nordicbet's cookie policies
 
 * ## What cookies are and what we use them for
 
@@ -62,6 +52,12 @@ We use several cookies on site, whose aims are the below:
 • Provide you with correct information depending on your entry point on site, such as through a search engine or affiliate network.  
 • Remember promotions you were interested in to provide you with relevant content based on your preferences. 
 
+
+
+
+
+
+We use cookies to ensure you get the best gaming experience from NordicBet. By using nordicbet.com you accept the use of cookies as outlined in our [Cookie Policy](https://www.nordicbet.com/en/customer-service/cookie-policy). If you don't want to see this message again, you can click the "X"-button on the right.
 
 
 
