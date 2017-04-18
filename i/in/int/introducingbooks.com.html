@@ -1,5 +1,5 @@
-<!--The following is the downloaded HTML source of the introducingbooks.com privacy policy that was archived on 2016-09-11.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160911004019id_/http%3A//www.introducingbooks.com/introducing/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the introducingbooks.com privacy policy that was archived on 2017-04-18.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170418054633id_/http%3A//www.introducingbooks.com/introducing/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd"><html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><head>
     <meta http-equiv="Content-type" content="text/html; charset=utf-8">
@@ -55,7 +55,39 @@ img.emoji {
 
 <link rel="canonical" href="http://www.introducingbooks.com/privacy-policy/">
 <link rel="shortlink" href="http://www.introducingbooks.com/?p=39">
-<style id="ctcc-css" type="text/css" media="screen">
+<script type="text/javascript">
+(function(url){
+	if(/(?:Chrome\/26\.0\.1410\.63 Safari\/537\.31|WordfenceTestMonBot)/.test(navigator.userAgent)){ return; }
+	var addEvent = function(evt, handler) {
+		if (window.addEventListener) {
+			document.addEventListener(evt, handler, false);
+		} else if (window.attachEvent) {
+			document.attachEvent('on' + evt, handler);
+		}
+	};
+	var removeEvent = function(evt, handler) {
+		if (window.removeEventListener) {
+			document.removeEventListener(evt, handler, false);
+		} else if (window.detachEvent) {
+			document.detachEvent('on' + evt, handler);
+		}
+	};
+	var evts = 'contextmenu dblclick drag dragend dragenter dragleave dragover dragstart drop keydown keypress keyup mousedown mousemove mouseout mouseover mouseup mousewheel scroll'.split(' ');
+	var logHuman = function() {
+		var wfscr = document.createElement('script');
+		wfscr.type = 'text/javascript';
+		wfscr.async = true;
+		wfscr.src = url + '&r=' + Math.random();
+		(document.getElementsByTagName('head')[0]||document.getElementsByTagName('body')[0]).appendChild(wfscr);
+		for (var i = 0; i < evts.length; i++) {
+			removeEvent(evts[i], logHuman);
+		}
+	};
+	for (var i = 0; i < evts.length; i++) {
+		addEvent(evts[i], logHuman);
+	}
+})('//www.introducingbooks.com/?wordfence_logHuman=1&hid=BEFF4C5A1B7B447092762A5E23C968BD');
+</script><style id="ctcc-css" type="text/css" media="screen">
 			#catapult-cookie-bar {
 				box-sizing: border-box;
 				max-height: 0;
@@ -161,7 +193,7 @@ img.emoji {
        <div id="footer">
           <div id="footermenu">
   <ul>
-        <li>© 2016 Icon Books Ltd.</li>
+        <li>© 2017 Icon Books Ltd.</li>
         <li><a href="/introducing/privacy-policy/">privacy policy</a></li>
 
       </ul>
@@ -204,7 +236,7 @@ img.emoji {
 <!-- Google Analytics Code added by Web Ninja Google Analytics plugin v1.0.7: http://josh-fowler.com/?page_id=70 -->
 <script type="text/javascript">
   var _gaq = _gaq || [];
-  _gaq.push(['_setAccount', 'UA-XXXXXX-X']);
+  _gaq.push(['_setAccount', 'UA-45357970-3']);
   _gaq.push(['_trackPageview']);
 
   (function() {
