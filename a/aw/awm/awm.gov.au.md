@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2016-12-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161223020045id_/https%3A//www.awm.gov.au/about/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the awm.gov.au privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418020145id_/https%3A//www.awm.gov.au/about/privacy) for the most accurate reproduction.*
 
 # Privacy Statement | Australian War Memorial
 
@@ -6,9 +6,9 @@ In accordance with the [Guidelines for Federal and ACT Government World Wide Web
 
 You may also like to read our [Privacy policy](https://web.archive.org/about/privacy-policy/).
 
-### Site visit data
+### Website visit data
 
-Our server makes a record of your visit and logs the following information for statistical purposes:
+Our server makes a record of your visit to our website ([www.awm.gov.au](https://web.archive.org/)) and logs the following information for statistical purposes:
 
   * the user's server address
   * the user's top level domain name (eg. .com, .gov, .au, .uk etc.)
@@ -40,10 +40,12 @@ The Australian War Memorial is fully committed to protecting your privacy. Any p
 
 From time to time, we may use parts of the data you and other users provide us with to better understand how our services are used and to provide information for future improvements. The data used to do these reviews does not include any direct personal information that identifies you as our customer.
 
+The Australian War Memorial makes information available through multiple social media services. You should familiarise yourself with privacy policy and terms of use for each relevant social media service prior to accessing any of the social media channels.
+
 To enhance your online ordering and shopping experience, and to provide a more personalised service to you, we will ask you if we can use your personal information to contact you about upcoming products and items of interest. You will have the ability to choose whether or not you would like to receive this information from the Memorial. You can unsubscribe from this service at any time.
 
 We will not use your personal details for any other purpose, and will not disclose it, without your consent.
 
 ### Security
 
-The Memorial wants to ensure that you can purchase online with complete confidence. The Memorial's online purchasing technology uses the National Australia Bank's Secure Internet Payment Service. This employs SSL technology with 128 bit encryption and ensures that your card details are only accessible by NAB, not by the Memorial, and are stored behind their security firewall. For more information go to[ ](http://www.nab.com.au/personal/credit-cards/manage-your-credit-card/credit-card-security)[NAB Credit Card Security](http://www.nab.com.au/Personal_Finance/0,,29254,00.html).
+The Memorial wants to ensure that you can purchase online with complete confidence. The Memorial's online purchasing technology uses the National Australia Bank's Secure Internet Payment Service which they state uses SSL technology with 128 bit encryption and ensures that your card details are only accessible by NAB, not by the Memorial, and are stored behind their security firewall. For more information go to [NAB Credit Card Security](http://www.nab.com.au/Personal_Finance/0%2C%2C29254%2C00.html).
