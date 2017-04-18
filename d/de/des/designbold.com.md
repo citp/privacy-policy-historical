@@ -1,71 +1,71 @@
-> *The following text is extracted and transformed from the designbold.com privacy policy that was archived on 2016-02-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160209175847id_/http%3A//www.designbold.com/policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the designbold.com privacy policy that was archived on 2017-04-18. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170418110716id_/https%3A//www.designbold.com/policy) for the most accurate reproduction.*
 
-# policy - DesignBold.com
+# Privacy Policy
 
-### Designbold was designed with you in mind
+This policy covers how DesignBold ("DesignBold," "we," "us," or "our") treats personal information that it collects and receives on www.designbold.com. We are not in the business of selling information about you: we use information shared with us for the sole purpose of running and improving our services. This notice tells you what information we collect, steps we take to protect and secure it, how we use and share information, and finally, how you can contact us with question or concerns.
 
-Look no more, you have found it - a design studio in the palm of your hands without any technical savvy or pricey software required! 
+### 1\. INFORMATION WE GATHER
 
-Welcome to Designbold.com, the websiteand online service of Designbold (“Designbold,”“we,” “our” or “us”). Our Privacy Policy explains how we collect, use,disclose, transfer, and store your information. 
+DesignBold collects personal information when you register with us, use DesignBold products or services or post content on a DesignBold web site or blog. This information is limited to your email address, and any information you post on your site. Your password is stored securely using a salted, variable work factor, one-way hash function.
 
-1\. Collection and Use of Personal Information / Content
+DesignBold automatically receives and records information on our server logs from your browser, including your IP address, cookies, and the pages you request. We also collect other use information as part of our analytics services, in order to improve the service. However, we do not link such information to any personally identifiable information you submit while on our site. DesignBold may collect billing information if you sign up for a paid service, which may include your name, address, telephone number, credit card details, and other information that is necessary in order to process the transaction. Under no circumstance do we store any of your sensitive billing details. DesignBold uses information for the following general purposes: products and services provision, identification and authentication, services improvement, support, contact, research, and anonymous reporting.
 
-Personalinformation may be collected in a number of ways when you use any of theproducts or services offered by Designbold. We may prompt you to voluntarilyprovide information, including personal information. For example, we may askfor certain information such as your username, first and last name, birthdates,phone number and e-mail address whenever you register for a Designbold account,or contact us via email. 
+### 2\. INFORMATION WE MAY RECEIVE FROM THIRD PARTIES
 
-Fromtime-to-time, we may also collect personal information you provide inconnection with your participation in surveys, sweepstakes, contests,promotional offers, and other activities on the Site.
+We may receive information about you from third parties. For example, if you access our websites or Service through a third-party connection or log-in, for example, through Facebook Connect, by “following,” “liking,” adding the DesignBold application, linking your account to the DesignBold Service, etc., that third party may pass certain information about your use of its service to DesignBold. This information could include, but is not limited to, the user ID associated with your account (for example, your Facebook UID), an access token necessary to access that service, any information that you have permitted the third party to share with us, and any information you have made public in connection with that service. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the DesignBold Service. You may also unlink your third party account from the Service by adjusting your settings on the third party service. If you unlink your third party account, we will no longer receive information collected about you in connection with that service.
 
-When you use ouremail support services, we collect your correspondence in order to build up apublic knowledge base, which will be available to all users of the Site. Yourcorrespondence will most likely not be used verbatim, but paraphrased in an FAQformat. We may also retain any messages you send through the Service, and maycollect information you provide in User Content you post to the Service.
+### 3\. ANALYTICS INFORMATION
 
-We may receiveinformation about you from third parties. For example, if you access ourwebsites or Service through a third-party connection or log-in, for example,through Facebook Connect, by “following,” “liking,” linking your account to theDesignbold Service, etc., that third party may pass certain information about youruse of its service to Designbold. This informationcould include, but is not limited to, the user ID associated with your account(for example, your Facebook UID), an access token necessary to access thatservice, any information that you have permitted the third party to share withus, and any information you have made public in connection with that service.You may also unlink your third party account from the Service by adjusting yoursettings on the third party service. If you unlink your third party account, wewill no longer receive information collected about you in connection with thatservice.
+We may directly collect analytics data, or use third-party analytics tools, to help us measure traffic and usage trends for the Service. These tools collect information sent by your browser or mobile device, including the pages you visit and other information that assists us in improving the Service. We collect and use this analytics information in aggregate form such that it cannot reasonably be manipulated to identify any particular individual user.
 
-2\. Collection and Use of Non-personal Information
+### 4\. COOKIES
 
-We may collectnon-personal information, such as data that does not allow direct associationwith any specific individual. Non-personal data is collected, used,transferred, and disclosed for a number of purposes. 
+A cookie is a small amount of data, which often includes an anonymous unique identifier that is sent to your browser from a web site's computers and stored on your computer's hard drive. 
 
-We may directlycollect analytics data, or use third-party analytics tools, to help us measuretraffic and usage trends for the Service. These tools collect information sentby your browser or mobile device, including the pages you visit and otherinformation that assists us in improving the Service. We collect and use thisanalytics information in aggregate form such that it cannot reasonably bemanipulated to identify any particular individual user.
+If you reject all cookies, you may not be able to use DesignBold services or products that require you to "sign in" and you may not be able to take full advantage of all offerings. You can configure your browser to accept all cookies, reject all cookies or notify you when a cookie is set. DesignBold uses its own cookies for a number of purposes, including to:
 
-When you visit the Service, we may send one or morecookies to your computer that uniquely identifies your browser and lets Designbold help you log infaster and enhance your navigation through the site. Most Internet browsers automaticallyaccept cookies. We use information collected from cookies to improve users’experience and the overall quality of our services. You can reset your web browser to refuse all cookies or to indicate when acookie is being sent. However, some features of the Service may not functionproperly if the ability to accept cookies is disabled.
+• Require you to re-enter your password after a certain period of time has elapsed to protect you against others accidentally accessing your account contents. Keep track of preferences you specify while you are using the DesignBold Sites, Products and Services.  
+• Estimate and report our total audience size and traffic.  
+• Conduct research to improve the content and services provided on the DesignBold Sites, Products and Services. 
 
-Log file informationis automatically reported by your browser or mobile device each time you accessthe Service. When you use our Service, our servers automatically record certainlog file information. These server logs may include anonymous information suchas your web request, Internet Protocol (“IP”) address, browser type, referring/ exit pages and URLs, number of clicks and how you interact with links on theService, domain names, landing pages, pages viewed, and other such information.
+### 5\. IP Address
 
-3\. General Uses and Share of Information
+DesignBold occasionally obtains IP addresses from users depending upon how you access our web sites. IP addresses, browser and session information may be used for various purposes, including to:
 
-(i)            to communicate directly with you. We may send you email containing newsletters, promotions and special offers. If you do notwant to receive such email messages, you will be given the option to opt out orchange your preferences. We also use your information to send youService-related emails (e.g., account verification, changes/updates to featuresof the Service, technical and security notices). You may not opt out ofService-related e-mails;
+• Diagnose and prevent service or technology problems reported by our users or engineers that are associated with the IP addresses controlled by a specific web company or ISP.  
+• Estimate the total number of users visiting DesignBold's web sites from specific geographical regions.  
+• Help determine which users have access privileges to certain content, services or resources that we offer. Monitor and prevent fraud and abuse. 
 
-(ii)           to process your requests;
+### 6\. BILLING INFORMATION
 
-(iii)          to operate, maintain, and improve the site;
+When you purchase items on DesignBold’s web sites, we require your billing information in order to process the transaction. We will retain the last 4 digits of your credit card number and credit card type, so that you may identify that card used in the future. We do not store any other billing information, as this information is discarded after your transaction has been processed. All transactions are processed over an industry standard SSL/TLS connection, with a minimum of 128-bit encryption.
 
-(iv)          to customize the services and/or products we provide to you;
+### 7\. INFORMATION RELATING TO CHILDREN
 
-(v)           to assist with our product and service development;
+Individuals under the age of 13 are prohibited from creating or using accounts through DesignBold.com.
 
-(vi)          to perform marketing analysis;
+### 8\. INFORMATION USE, SHARING AND DISCLOSURE
 
-(vii)         for other purposes related to our business.
+DesignBold does not share personal information we learn about you from your use of the DesignBold’s web sites, products and services with others except as described in this policy. We do not share, sell, rent or trade personally identifiable information with third parties for their promotional purposes. 
 
-We will not rent orsell your information into third parties outside Designbold and its groupcompanies (including any parent, subsidiaries and affiliates) without yourconsent.
+DesignBold may use or share your personal information where it is necessary to complete a transaction, to operate or improve the DesignBold products and services, or to do something that you have asked us to do. We use other third parties such as a credit card processing company to bill you for goods and services. These third parties are prohibited from using your personally identifiable information for promotional purposes.
 
-We may share yourinformation with third-party business partners for the purpose of providing theService to you. Those business partners will be given limited access to yourinformation as is reasonably necessary to deliver the Service, and we willrequire that such third parties comply with this Privacy Policy.
+When you register for DesignBold, we collect user-submitted account information such as username and email address to identify users and send notifications related to the use of the service. When you post content on a DesignBold’s web sites or blog, you have the ability to post content which may include personally identifiable information about yourself. If you post personal information online that is accessible to the public, you may receive unsolicited messages from other parties in return. You should be aware that any information you provide in these areas may be read, collected, and used by others who access them.
 
-Any information orcontent that you voluntarily disclose for posting to the Service, such as UserContent, becomes available to the public, as controlled by any applicableprivacy settings. Subject to your profile and privacy settings, any UserContent that you make public is searchable by other Users. If you removeinformation that you posted to the Service, copies may remain viewable incached and archived pages of the Service, or if other Users have copied orsaved that information.
+### 9\. CONFIDENTIALITY AND SECURITY
 
-4\. Keeping yourinformation safe
+No data transmissions over the Internet can be guaranteed to be 100% secure. Consequently, we cannot ensure or warrant the security of any information you transmit to us and you do so at your own risk. Once we receive your transmission, we make efforts to ensure security on our systems. We use physical, electronic, and procedural safeguards to protect personal information about you. Your account information is password-protected. Additionally, your account's password is stored using a salted, variable work factor, one-way hash algorithm.
 
-Designbold cares aboutthe security of your information, and uses commercially reasonable safeguardsto preserve the integrity and security of all information collected through theService. To protect your privacy and security, we take reasonable steps (such asrequesting a unique password) to verify your identity before granting youaccess to your account. You are responsible for maintaining the secrecy of yourunique password and account information, and for controlling access to youremail communications from Designbold, at all times. 
+In certain areas, DesignBold uses industry-standard SSL-encryption to protect data transmissions. However, please note that this is not a guarantee that such information may not be accessed, disclosed, altered or destroyed by breach of such firewalls and secure server software. If DesignBold learns of a security systems breach we may attempt to notify you electronically so that you can take appropriate protective steps. By using DesignBold or providing personal information to us you agree that we can communicate with you electronically regarding security, privacy and administrative issues relating to your use of those sites, products and services. We may post a notice on our applicable web sites if a security breach occurs. We may also send an email to you at the email address you have provided to us in these circumstances. 
 
-However, Designboldcannot ensure or warrant the security of any information you transmit to Designboldor guarantee that information on the Service may not be accessed, disclosed,altered, or destroyed. Your privacy settings may also be affected by changes tothe functionality of third party sites and services that you add to the DesignboldService, such as social networks. Designbold is not responsible for thefunctionality or security measures of any third party.
+### 10\. CHANGING YOUR PREFERENCES AND PERSONAL INFORMATION
 
-In the event that anyinformation under our control is compromised as a result of a breach ofsecurity, Designbold will take reasonable steps to investigate the situationand where appropriate, notify those individuals whose information may have beencompromised and take other steps, in accordance with any applicable laws andregulations.
+You can edit your account information with DesignBold at any time. You can delete your applicable account by visiting the applicable account deletion page; we will retain your information for as long as your account is active or as needed to provide you services, however, please note that some personal information, primarily your contact information, may remain in our records to the extent necessary to protect our legal interests or document compliance with regulatory requirements. 
 
-5. Your choices aboutyour information
+If your personally identifiable information changes, or if you no longer desire our service, you may correct, update, or delete such information by making the change on our user home page, or by emailing our Customer Support at [hello@designbold.com.](mailto:hello@designbold.com)
 
-You may update youraccount information and email-communication preferences at any time by loggingin to your account and changing your profile settings. You can also stopreceiving promotional email communications from us by clicking on the“unsubscribe link” provided in such communications. We make every effort topromptly process all unsubscribe requests. As noted above, you may not opt outof Service-related communications (e.g., account verification, changes/updatesto features of the Service, technical and security notices).
+### 11\. CHANGES TO THIS PRIVACY POLICY
 
-You may configure yourbrowser to block cookies, including cookies associated with our services.However, many of our services may not function correctly with cookies disabled.You can also control which social websites you upload images to.
+DesignBold may revise, modify or update this policy. We will notify you about significant changes in the way we treat personal information by sending a notice to the primary email address specified in your particular DesignBold account or by placing a prominent notice on our site prior to the change becoming effective.
 
-6. Changes to ourPrivacy Policy
-
-Designbold may modifyor update this Privacy Policy from time to time to reflect the changes in ourbusiness and practices, and so you should review this page periodically. In the event of significant changes, we willprovide a more prominent notice.
-
-If you have any questions about this Privacy Policy orthe Service, please contact us at: [community@designbold.com](mailto:community@designbold.com)
+Please contact us at [hello@designbold.com.](mailto:hello@designbold.com) with any questions regarding this Policy.
