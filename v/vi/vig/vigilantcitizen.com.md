@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the vigilantcitizen.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023041803id_/http%3A//vigilantcitizen.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vigilantcitizen.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419204717id_/https%3A//vigilantcitizen.com/privacy-policy) for the most accurate reproduction.*
 
-# The Vigilant Citizen - Symbols Rule the World
+# The Vigilant Citizen
 
 **Privacy Policy for www.vigilantcitizen.com**
 
