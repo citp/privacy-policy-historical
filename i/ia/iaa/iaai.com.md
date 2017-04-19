@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iaai.com privacy policy that was archived on 2016-11-11. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161111030313id_/https%3A//www.iaai.com/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iaai.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419051332id_/https%3A//www.iaai.com/PrivacyPolicy) for the most accurate reproduction.*
 
 # Privacy Policy | IAA-Insurance Auto Auctions
 
