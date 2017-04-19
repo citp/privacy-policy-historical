@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zalora.com.hk privacy policy that was archived on 2016-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160416151748id_/http%3A//www.zalora.com.hk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zalora.com.hk privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419063823id_/http%3A//www.zalora.com.hk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | ZALORA.com.hk
+# ZALORA Hong Kong | Privacy Policy
 
 _**We take our customers privacy seriously and we will only collect and use your personal information as outlined below**.   
 Data protection is a matter of trust and your privacy is important to us. We shall therefore only use your name and other information, which relates to you in the manner set out in this Privacy Policy. We will only collect information where it is necessary for us to do so and we will only collect information if it is relevant to our dealings with you.
@@ -9,8 +9,8 @@ We will only keep your information for as long as we are either required to by l
 
 You can visit the Site and browse without having to provide personal details. During your visit to the Site you remain anonymous and at no time can we identify you unless you have an account on the Site and log on with your user name and password.
 
-If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at customer@hk.zalora.com.  
-Alternatively you may call us on **+852 3999 4200** – this telephone number will be open to receive calls between 9am to 6pm. 
+If you have any comments or suggestions, we would be pleased to receive them at our address or by emailing us at [www.zalora.com.hk/contact/](https://www.zalora.com.hk/contact/).  
+Alternatively you may call us on **+852 3999 4200** – this telephone number will be open to receive calls between Monday and Friday, from 9am to 7pm (excluding Public Holidays). 
 
 _
 
@@ -43,7 +43,7 @@ We may pass your name and address on to a third party in order to make delivery 
 
 When you register as a user on ZALORA website, we will also use your personal information to send you marketing and/or promotional materials from time to time. You can unsubscribe from marketing information at anytime by using the unsubscribe function within the electronic marketing material.
 
-Payments that you make through the Site will be processed by our agent Cybersource. You must only submit to us or our Agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.
+Payments that you make through the Site will be processed by our agent Adyen. You must only submit to us or our Agent or the Site information which is accurate and not misleading and you must keep it up to date and inform us of changes.
 
   
 
@@ -64,7 +64,7 @@ ZALORA uses 128 - bit SSL (secure sockets layer) encryption technology when proc
 **Disclosure of Personal Information**  
 We will not share your information with any other organisations other than related companies and those third parties directly related to the delivery of the products you have purchased from ZALORA website. In exceptional circumstances ZALORA may be required to disclose personal information, such as when there are grounds to believe that the disclosure is necessary to prevent a threat to life or health, or for law enforcement purposes. ZALORA is committed to complying with the Privacy Act and the National Privacy principles. 
 
-**If you believe that your privacy has been breached by ZALORA please contact us at customer@hk.zalora.com and we will resolve the issue.**
+**If you believe that your privacy has been breached by ZALORA please contact us at[www.zalora.com.hk/contact/](https://www.zalora.com.hk/contact/) and we will resolve the issue. **
 
 **Collection of Computer Data**  
 When you visit ZALORA, our company servers will automatically record information that your browser sends whenever you visit a website. This data may include:   
@@ -84,5 +84,5 @@ ZALORA also uses Remarketing with Google Analytics to advertise online; third-pa
 ZALORA reserves the right to modify and change the Privacy Statement at any time. Any changes to this policy will be published on our site. 
 
 **Complaints about breeches of privacy**  
-If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at **customer@hk.zalora.com**  
+If you are not satisfied with the way in which we handle your enquiry or complaint, please don't hesitate to contact us at **[www.zalora.com.hk/contact/](https://www.zalora.com.hk/contact/)**  
 
