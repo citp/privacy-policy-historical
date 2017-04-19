@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the warrock.it privacy policy that was archived on 2016-08-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160806210648id_/http%3A//www.warrock.it/community/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the warrock.it privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419101811id_/https%3A//www.warrock.it/community/privacypolicy) for the most accurate reproduction.*
 
 # Privacy Policy - GameGamers Network - There's no better way to play
 
@@ -13,6 +13,6 @@ Protecting the privacy of the very young is especially important. For that reaso
 This website does not store any information that would, on its own, allow us to identify individual users of this service without their permission. Any cookies that may be used by this website are used either solely on a per session basis or to maintain user preferences. Cookies are not shared with any third parties. 
 
   1.  
-  2. [Privacy Policy](http://warrock.it/community/privacypolicy/)
+  2. [Privacy Policy](https://warrock.it/community/privacypolicy/)
 
 
