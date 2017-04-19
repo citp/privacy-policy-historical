@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the nten.org privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130163430id_/http%3A//www.nten.org/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the nten.org privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419082638id_/https%3A//www.nten.org/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy – NTEN
 
