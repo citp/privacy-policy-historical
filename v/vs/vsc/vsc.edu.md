@@ -1,47 +1,46 @@
-> *The following text is extracted and transformed from the vsc.edu privacy policy that was archived on 2010-05-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20100527090930id_/http%3A//www.vsc.edu/Privacy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the vsc.edu privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419231302id_/https%3A//www.vsc.edu/web-privacy-statement) for the most accurate reproduction.*
 
-# Home
+# Web Privacy Statement - Vermont State Colleges System
 
-Vermont State College is committed to protecting your privacy and developing technology that gives you the most powerful and safe online experience. This Statement of Privacy applies to the Vermont State College Web site and governs data collection and usage. By using the Vermont State College website, you consent to the data practices described in this statement.
+The Vermont State Colleges (VSC) are committed to preserving and maintaining the privacy of visitors to VSCS websites. The following discloses the information gathering and dissemination practices for the VSCS ([https://www.vsc.edu/](https://www.vsc.edu/)) websites. By visiting any of the VSCS websites, you are accepting the practices described in this statement.
 
-Collection of your Personal Information
+### Information Gathering
 
-Vermont State College collects personally identifiable information, such as your e-mail address, name, home or work address or telephone number. Vermont State College also collects anonymous demographic information, which is not unique to you, such as your ZIP code, age, gender, preferences, interests and favorites.
+We use your Internet domain and the Internet address of the computer you are using, the type of browser and operating system you are using, and the date and time of access to help diagnose problems with our servers and to administer our websites. We identify which parts of our sites are most heavily used, and which portion of our audience comes from within and outside of the VSCS network. We do not link your computer Internet address to anything personally identifiable. This means that user sessions may be tracked, but the users will remain anonymous.
 
-There is also information about your computer hardware and software that is automatically collected by Vermont State College. This information can include: your IP address, browser type, domain names, access times and referring Web site addresses. This information is used by Vermont State College for the operation of the service, to maintain quality of the service, and to provide general statistics regarding use of the Vermont State College Web site.
+Some of the Vermont State Colleges use Google Analytics to monitor traffic on websites. Google Analytics places “cookies,” or text files, on your computer to help us analyze how visitors use our site so we can improve its usefulness. Personal information is not stored with cookies. You can set the preferences on your browser to refuse cookies, or to alert you when cookies are being set.
 
-Please keep in mind that if you directly disclose personally identifiable information or personally sensitive data through Vermont State College public message boards, this information may be collected and used by others. Note: Vermont State College does not read any of your private online communications.
+Other information is collected only if you choose to send it. For example you may complete an online form, make an online purchase, or send an email.
 
-Vermont State College encourages you to review the privacy statements of Web sites you choose to link to from Vermont State College so that you can understand how those Web sites collect, use and share your information. Vermont State College is not responsible for the privacy statements or other content on Web sites outside of the Vermont State College and Vermont State College family of Web sites.
+### Use of Information
 
-Use of your Personal Information
+As noted above, the VSCS uses the information we collect to tailor site content to user needs, to generate aggregate statistical reports, to help diagnose problems and otherwise to administer our websites. At no time do we disclose site usage by individual computer Internet address.
 
-Vermont State College collects and uses your personal information to operate the Vermont State College Web site and deliver the services you have requested. Vermont State College also uses your personally identifiable information to inform you of other products or services available from Vermont State College and its affiliates. Vermont State College may also contact you via surveys to conduct research about your opinion of current services or of potential new services that may be offered.
+Information you choose to send on our sites is used to complete transactions (such as registering for a course or sending an email).
 
-Vermont State College does not sell, rent or lease its customer lists to third parties. Vermont State College may, from time to time, contact you on behalf of external business partners about a particular offering that may be of interest to you. In those cases, your unique personally identifiable information (e-mail, name, address, telephone number) is not transferred to the third party. In addition, Vermont State College may share data with trusted partners to help us perform statistical analysis, send you email or postal mail, provide customer support, or arrange for deliveries. All such third parties are prohibited from using your personal information except to provide these services to Vermont State College, and they are required to maintain the confidentiality of your information.
+The VSCS may employ independent contractors to help manage web-based services, and such contractors may have access to data similar to the access we give our employees. In such instances, we take precautions to protect against re-disclosure of personal information.
 
-Vermont State College does not use or disclose sensitive personal information, such as race, religion, or political affiliations, without your explicit consent.
+### Security
 
-Vermont State College keeps track of the Web sites and pages our customers visit within Vermont State College, in order to determine what Vermont State College services are the most popular. This data is used to deliver customized content and advertising within Vermont State College to customers whose behavior indicates that they are interested in a particular subject area.
+This site has security measures in place to protect against the loss, misuse or alteration of the information under our control.
 
-Vermont State College Web sites will disclose your personal information, without notice, only if required to do so by law or in the good faith belief that such action is necessary to: (a) conform to the edicts of the law or comply with legal process served on Vermont State College or the site; (b) protect and defend the rights or property of Vermont State College; and, (c) act under exigent circumstances to protect the personal safety of users of Vermont State College, or the public.
+### Contacting the Homepage
 
-Use of Cookies
+If you have any questions about this privacy statement, the practices of this site, or your dealings with this site, you can contact:
 
-The Vermont State College Web site use "cookies" to help you personalize your online experience. A cookie is a text file that is placed on your hard disk by a Web page server. Cookies cannot be used to run programs or deliver viruses to your computer. Cookies are uniquely assigned to you, and can only be read by a web server in the domain that issued the cookie to you.
+Webmaster  
+Vermont State Colleges  
+PO Box 7  
+Montpelier, VT 05601
 
-One of the primary purposes of cookies is to provide a convenience feature to save you time. The purpose of a cookie is to tell the Web server that you have returned to a specific page. For example, if you personalize Vermont State College pages, or register with Vermont State College site or services, a cookie helps Vermont State College to recall your specific information on subsequent visits. This simplifies the process of recording your personal information, such as billing addresses, shipping addresses, and so on. When you return to the same Vermont State College Web site, the information you previously provided can be retrieved, so you can easily use the Vermont State College features that you customized.
+VSCS websites contain links to other independently run websites within the VSCS network and to some sites outside the “vsc.edu” domain. The VSCS is not responsible for the privacy practices or the content of such websites.
 
-You have the ability to accept or decline cookies. Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to fully experience the interactive features of the Vermont State College services or Web sites you visit.
+### Changes to this Statement
 
-Security of your Personal Information
+This statement will be prominently displayed either directly or by link on the home page of the VSCS and of each member college. An announcement of any changes to this statement will be posted prominently on the first page of our website.
 
-Vermont State College secures your personal information from unauthorized access, use or disclosure. Vermont State College secures the personally identifiable information you provide on computer servers in a controlled, secure environment, protected from unauthorized access, use or disclosure. When personal information (such as a credit card number) is transmitted to other Web sites, it is protected through the use of encryption, such as the Secure Socket Layer (SSL) protocol.
+**Effective Date**
 
-Changes to this Statement
+The effective date of this statement is June 25, 2009.
 
-Vermont State College will occasionally update this Statement of Privacy to reflect company and customer feedback. Vermont State College encourages you to periodically review this Statement to be informed of how Vermont State College is protecting your information.
-
-Contact Information
-
-Vermont State College welcomes your comments regarding this Statement of Privacy. If you believe that Vermont State College has not adhered to this Statement, please contact Vermont State College at [admin@change.me](mailto:admin@change.me). We will use commercially reasonable efforts to promptly determine and remedy the problem. 
+**Reviewed** : September 6, 2013
