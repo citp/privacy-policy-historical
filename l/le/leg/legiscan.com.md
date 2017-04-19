@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the legiscan.com privacy policy that was archived on 2016-11-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161115151634id_/https%3A//legiscan.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the legiscan.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419205923id_/https%3A//legiscan.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | LegiScan
 
@@ -16,7 +16,7 @@ Like most websites, LegiScan collects non-personally-identifying information of 
 
 LegiScan also collects potentially personally-identifying information like Internet Protocol (IP) addresses. LegiScan does not use such information to identify its visitors, however, and does not disclose such information, other than under the same circumstances that it uses and discloses personally-identifying information, as described below.
 
-LegiScan also requires a US zipcode to register, this information is used for the sole purpose of identifying the geographic location of the user to present the proper data.
+LegiScan also requires a US state to register, this information is used for the sole purpose of identifying the geographic location of the user to present the proper data.
 
 LegiScan may collect statistics about the behavior of visitors to its websites. LegiScan may collect statistic about the support/opposition of legislative documents. LegiScan may display this information publicly or provide it to others. However, LegiScan does not disclose personally-identifying information.
 
@@ -24,7 +24,7 @@ LegiScan uses cookies to help identify and track visitors, usage of the LegiScan
 
 If you have any questions or comments on our privacy policy please contact us by one of the following methods:
 
-By e-mail: [Contact form](https://web.archive.org/contact "Contact LegiScan via email")
+By e-mail: [Contact form](https://web.archive.org/feedback?reason=privacy "Contact LegiScan via email")
 
 By phone: 800.618.2750
 
