@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the juststopscreaming.com privacy policy that was archived on 2016-09-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160909062615id_/http%3A//juststopscreaming.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juststopscreaming.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419121316id_/http%3A//juststopscreaming.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | A Daily Dose of Toni
-
-**0** Flares Filament.io **0** Flares ×
 
 This Privacy Policy governs the manner in which A Daily Dose of Toni collects, uses, maintains and discloses information collected from users (each, a “User”) of the [http://www.juststopscreaming.com](http://www.juststopscreaming.com/) website (“Site”).
 
@@ -74,8 +72,6 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us.
 
 This document was last updated on May 24, 2015
-
-**0** Flares Twitter 0 Facebook 0 Google+ 0 StumbleUpon 0 LinkedIn 0 Reddit 0 Buffer 0 Email \-- Filament.io **0** Flares ×
 
 The following two tabs change content below.
 
