@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the popcultcha.com.au privacy policy that was archived on 2016-07-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160702093704id_/https%3A//www.popcultcha.com.au/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the popcultcha.com.au privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419035030id_/https%3A//www.popcultcha.com.au/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
