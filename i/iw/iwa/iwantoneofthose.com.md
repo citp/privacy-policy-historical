@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the iwantoneofthose.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119222525id_/http%3A//www.iwantoneofthose.com/help/privacy-policy.list) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the iwantoneofthose.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419174701id_/https%3A//www.iwantoneofthose.com/help/privacy-policy.list) for the most accurate reproduction.*
 
 # Privacy Policy | IWantOneOfThose.com
 
@@ -18,9 +18,11 @@ We have business and technical partners whom we share data with to handle orders
 
 In the event that we sell or buy any business or assets, we may disclose your personal data to the prospective seller or buyer of such business or assets.
 
-We may also use your data, or permit our group companies to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by. If you do not want us to use your data in this way, please change the settings in your account. Replying to the 'unsubscribe' link in promotional mail will also ensure that your name is removed from our mailing list.
+We may also use your data (e.g. your email address or mobile number if you decide to provide one), or permit our group companies to use your data, to provide you with information about goods and services which may be of interest to you and we or they may contact you about these by. If you do not want us to use your data in this way, please change the settings in your account or use the other opt-out option provided, for example, in the case of SMS messages, by **texting ‘STOP’ to 88440.** Clicking the 'unsubscribe' link in promotional mails will also ensure that your name is removed from our mailing list.   
 
-This website employs VeriSign and industry-standard SSL to provide secure credit card transactions. SSL is a communications protocol for transmitting private information over the internet. It works by encrypting data that is transmitted over the SSL connection. When you place an order, your credit/debit card information is encrypted and then sent over the internet using an SSL connection. No one can read or access the data that is being transmitted.
+
+This website employs VeriSign and industry-standard SSL to provide secure credit card transactions. SSL is a communications protocol for transmitting private information over the internet. It works by encrypting data that is transmitted over the SSL connection. When you place an order, your credit/debit card information is encrypted and then sent over the internet using an SSL connection. No one can read or access the data that is being transmitted.  
+
 
 It is important for you to protect against unauthorised access to your password and to your computer. Ensure that you log out when you finish using a shared computer.
 
@@ -30,4 +32,4 @@ We take the risk of internet fraud very seriously. With the volume of fraudulent
 
 ## Contact Us
 
-If you have any queries on any aspect of the above policy, please [contact us](https://www.iwantoneofthose.com/iwootint/customerQuery.secure?action=postQuery&skeletonAccount=true).
+If you have any queries on any aspect of the above policy, please [contact us](https://web.archive.org/iwootint/customerQuery.secure?action=postQuery&skeletonAccount=true).
