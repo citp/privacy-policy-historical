@@ -1,22 +1,10 @@
-> *The following text is extracted and transformed from the dwolla.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114145648id_/https%3A//www.dwolla.com/legal/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dwolla.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420015353id_/https%3A//www.dwolla.com/legal/privacy) for the most accurate reproduction.*
 
 # Privacy Policy
 
-#### Last Updated: October 9, 2015
-
-[](https://privacy.truste.com/privacy-seal/Dwolla/validation?rid=b8ff2192-aa52-489a-9cff-09fa78dc481b "TRUSTe online privacy certification")
+#### Last Updated: January 10, 2017
 
 Dwolla, Inc. (“Dwolla”) is committed to protecting your privacy and earning your trust. This Privacy Policy discloses our privacy practices for personal information we collect when you use or access our products, services, features, or content through any website, application, or service (“Dwolla Services”), even if you have not opened a Dwolla account or visited our websites [www.dwolla.com](https://www.dwolla.com/ "Dwolla"), [www.dwollalabs.com](https://www.dwollalabs.com/ "Dwolla labs"), or our mobile application (“Dwolla Sites”). We may, in our sole discretion, change this Privacy Policy from time to time by posting a revised version at [www.dwolla.com/legal/privacy](https://www.dwolla.com/legal/privacy "Dwolla Privacy Policy"). If we make any material change, we will notify you by email (as listed in your account profile) or by means of a notice on [www.dwolla.com/legal/privacy](https://www.dwolla.com/legal/privacy "Dwolla privacy policy") prior to the change becoming effective.
-
-The TRUSTe certification applies to the following properties:
-
-  * [www.dwolla.com](https://www.dwolla.com/ "Dwolla")
-  * [www.dwollalabs.com](https://www.dwollalabs.com/ "Dwolla labs")
-  * Dwolla mobile application
-
-
-
-In order to understand our relationship with TRUSTe please visit the TRUSTe validation page by clicking on the TRUSTe seal. If you have an unresolved privacy or data use concern that we have not addressed satisfactorily, please contact TRUSTe [here](https://feedback-form.truste.com/watchdog/request "TRUSTe Feedback and Resolution System").
 
 ### What information does Dwolla collect
 
