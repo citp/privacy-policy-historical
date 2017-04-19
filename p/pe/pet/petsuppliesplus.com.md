@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the petsuppliesplus.com privacy policy that was archived on 2016-12-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161219150744id_/http%3A//petsuppliesplus.com/content.jsp%3FpageName%3DPrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the petsuppliesplus.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419185152id_/https%3A//www.petsuppliesplus.com/en/Privacy-Policy) for the most accurate reproduction.*
 
-# Pet Supplies Plus : Privacy Policy
+# Pet Supplies Plus
 
-Untitled
+**Pet Supplies Plus® Privacy Policy**
 
 This Privacy Policy ("Policy") applies to Pet Supplies Plus, L.L.C.., its affiliates, subsidiaries, divisions and designees. ("Pet Supplies Plus" or "we"). This Policy describes how Pet Supplies Plus collects, shares, uses, and safeguards customer personal information ("Personal Information"). This Policy covers Personal Information we collect anywhere. This includes our Pet Supplies Plus retail stores, our websites at Pet Supplies Plus.com, and other websites where we post this Policy (collectively the "Site").
 
-## INFORMATION WE COLLECT
+**INFORMATION WE COLLECT**
 
 We may automatically collect some information when you come to our Site. This information helps us improve our Site and your experience on our Site.
 
@@ -14,13 +14,13 @@ What we collect automatically includes information about the computer or device 
 
 Cookies. Like many websites, our Site uses "cookie" technology. A "cookie" is a small data file. Our Site may store cookies on your hard drive. Cookies help us know when you come back to our Site. Cookies also help us "remember" information about you. We may try to remember things such as what products you prefer and your log-in information. Personal Information may be tied to these cookies. We do this to help bring you a better shopping experience. It can make check out faster. It also helps us make shopping more personal to you. You can set your browser to not accept cookies.
 
-Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes. Such cookies do not contain personally identifiable information. 
+Our company and our trusted third parties may share with one another anonymous versions of user information collected at this site. We may use that information to link to and issue anonymous cookies containing demographic or intent-based data for online behavioral advertising purposes. Such cookies do not contain personally identifiable information.
 
 Pixel Tags. Our Site and our e-mails use pixel tags. Pixel tags are small electronic images. We use Pixel tags to deliver cookies, count visits, understand how our Site is used and tell how well our marketing is working. Pixel tags can also tell us if an e-mail has been opened and acted upon.
 
 Third Party Analytics. We may also use companies, such as Google Analytics, to help us collect information about our Site. These companies may use their own cookies and web beacons on our Site.
 
-Personal Information: 
+Personal Information:
 
   * You may give us "Personal Information" that tells us who you are and other things about you. Personal Information we may collect includes your name, postal address, telephone number, e-mail address, and Preferred Pet Club account number. We may also collect your user name and password.
   * We may collect demographic data from surveys or third parties. Demographics help us know our customers. For example demographics can tell us your age, your gender, and what type of pets you own.
@@ -28,9 +28,9 @@ Personal Information:
 
 
 
-## USE OF INFORMATION
+**USE OF INFORMATION**
 
-We may use your Personal Information to, among other things: 
+We may use your Personal Information to, among other things:
 
   * Operate and improve our Site, business and services. We may keep a customer database and other business records for reasonable periods.
   * Provide customer service to you.
@@ -46,44 +46,52 @@ We may use your Personal Information to, among other things:
 
 
 
-#### DISCLOSURE OF PERSONAL INFORMATION
+**DISCLOSURE OF PERSONAL INFORMATION**
 
-We do not rent or sell your personal information to any third party. We will not disclose your personal information to third parties for their own marketing purposes without your explicitly confirmed consent. We may disclose your Personal Information to third parties: 
+We do not rent or sell your personal information to any third party. We will not disclose your personal information to third parties for their own marketing purposes without your explicitly confirmed consent. We may disclose your Personal Information to third parties:
 
   * With your consent, for example, when you let us share your information with third parties for their own marketing purposes subject to their own privacy policies.
   * As needed to meet legal, regulatory, insurance, audit, and security requirements.
-  * For legal reasons if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:
+  * For legal reasons if we have a good-faith belief that access, use, preservation or disclosure of the information is reasonably necessary to:  
+
     * meet any applicable law, regulation, legal process or enforceable governmental request.
     * enforce applicable Terms of Service, including investigation of potential violations.
     * detect, prevent, or otherwise address fraud, security or technical issues.
     * protect against harm to the rights, property or safety of Pet Supplies Plus, our users or the public as required or permitted by law.
   * As permitted or required by law, including to respond to lawful requests and legal process, to protect the rights and property of Pet Supplies Plus our agents, customers, members, and others, to enforce our agreements, policies and terms of use, in an emergency to protect the personal safety of Pet Supplies Plus, its customers, or any person.
   * In connection with any proposed or actual merger, sale of company assets, financing or acquisition of all or a part of our business to another company to evaluate and/or perform the transaction.
-  * We may also share information that does not directly identify you. This information may be in aggregated or anonymous form.
+  * We may also share information that does not directly identify you. This information may be in aggregated or anonymous form. 
+
+**INFORMATION CHOICE AND ACCESS**
+
+You can "opt-out" of Pet Supplies Plus Marketing Communications. If you opted-in to our sharing of your Personal Information with third party marketers, you can opt-out of that too. You may also request to access or change your Personal Information. You may also ask us to change your preferences for how we use your Personal information. To make these requests:
 
 
-
-## INFORMATION CHOICE AND ACCESS
-
-You can "opt-out" of Pet Supplies Plus Marketing Communications. If you opted-in to our sharing of your Personal Information with third party marketers, you can opt-out of that too. You may also request to access or change your Personal Information. You may also ask us to change your preferences for how we use your Personal information. To make these requests: 
 
   * Follow opt-out instructions in promotional e-mails we send to you.
   * Contact us as described in Questions or Concerns below. Please include your full name, address, phone number and e-mail address. Also, tell us what information you would like to access, change or add to our "opt-out" list. This will help us process your request.
-  * If you would like to opt out of online behavioral advertising, click on one of these links: <http://www.aboutads.info/choices> or <http://networkadvertising.org/choices>
+  * If you would like to opt out of online behavioral advertising, click on one of these links: http://www.aboutads.info/choices or http://networkadvertising.org/choices
   * If you "opt-out" of our Pet Supplies Plus Marketing Communications, you may still get business communications. Business communications include order confirmations, product recall information, or other administrative information.
-
-
-
-## SECURITY OF PERSONAL INFORMATION
+****
+**SECURITY OF PERSONAL INFORMATION**
 
 Pet Supplies Plus takes reasonable steps to help protect Personal Information that we have or control against loss or theft, as well as unauthorized access, disclosure, copying, use or modification.
 
-## Questions or Concerns
+**QUESTIONS OR CONCERNS**
 
-If you have questions or concerns about how we use your Personal Information, please [Contact Us](http://www.petsuppliesplus.com/custserv/contactus.jsp)
+If you have questions or concerns about how we use your Personal Information, please Contact Us
 
-## CHANGES/UPDATES TO THIS POLICY
+**CHANGES/UPDATES TO THIS POLICY**
 
-If we intend to use or disclose Personal Information in any way materially different than what we say in this Policy, we will make reasonable efforts to let you know about this change. If we make any changes to this Policy, we will change the "Revised" date below. 
+If we intend to use or disclose Personal Information in any way materially different than what we say in this Policy, we will make reasonable efforts to let you know about this change. If we make any changes to this Policy, we will change the "Revised" date below. 
 
-September 18, 2015
+February 01, 2017
+
+
+
+
+Please select more products to compare
+
+You can't select more than 3 products
+
+There should be atleast two products to compare
