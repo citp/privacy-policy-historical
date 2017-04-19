@@ -1,12 +1,12 @@
-> *The following text is extracted and transformed from the trustedproxies.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506201620id_/https%3A//www.trustedproxies.com/about-trusted-proxies/terms-and-conditions/privacy-policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the trustedproxies.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419123004id_/https%3A//trustedproxies.com/about-trusted-proxies/terms-and-conditions/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
 Appstractor Corporation (UK) Limited trading as Trusted Proxies ("We") are committed to protecting and respecting your privacy.
 
-This policy (together with our [terms of use](http://www.trustedproxies.com/about-trusted-proxies/terms-and-conditions/website-terms-of-use.html) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting http://trustedproxies.com/about-trusted-proxies/terms-and-conditions.html you are accepting and consenting to the practices described in this policy.
+This policy (together with our [terms of use](https://trustedproxies.com/about-trusted-proxies/terms-and-conditions/website-terms-of-use/) and any other documents referred to on it) sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By visiting https://trustedproxies.com/about-trusted-proxies/terms-and-conditions/ you are accepting and consenting to the practices described in this policy.
 
-For the purpose of the Data Protection Act 1998 (the Act), the data controller is Appstractor Corporation (UK) Limited trading as Trusted Proxies of Cardinal Point (C/O Caplan Associates), Park Road, Rickmansworth, Hertfordshire, United Kingdom, WD3 1RE.
+For the purpose of the Data Protection Act 1998 (the Act), the data controller is Appstractor Corporation (UK) Limited trading as Trusted Proxies of 3 Stirling Court, Stirling Way, Borehamwood, Herts, WD6 2FX, UK.
 
 **INFORMATION WE MAY COLLECT FROM YOU**
 
@@ -21,9 +21,9 @@ We may collect and process the following data about you:
 
 
 
-##### COOKIES
+**COOKIES**
 
-Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](http://www.trustedproxies.com/about-trusted-proxies/terms-and-conditions/cookie-policy.html).
+Our website uses cookies to distinguish you from other users of our website. This helps us to provide you with a good experience when you browse our website and also allows us to improve our site. For detailed information on the cookies we use and the purposes for which we use them see our [Cookie policy](https://trustedproxies.com/about-trusted-proxies/terms-and-conditions/cookie-policy/).
 
 **USES MADE OF THE INFORMATION**
 
@@ -43,7 +43,7 @@ We use information held about you in the following ways:
 
   * to administer our site and for internal operations, including troubleshooting, data analysis, testing, research, statistical and survey purposes;
   * to improve our site to ensure that content is presented in the most effective manner for you and for your computer;
-  *   * to allow you to participate in interactive features of our service when you choose to do so;
+  * to allow you to participate in interactive features of our service when you choose to do so;
   * as part of our efforts to keep our site safe and secure;
   * to measure or understand the effectiveness of advertising we serve to you and others, and to deliver relevant advertising to you;
   * to make suggestions and recommendations to you and other users of our site about goods or services that may interest you or them.
@@ -52,7 +52,7 @@ We use information held about you in the following ways:
 
 **Information about how you use our proxy servers and other products and services.**
 
-We may inspect proxy server logs if we reasonably suspect abuse or breach of our [No Black Hat: Acceptable Use Policy](http://www.trustedproxies.com/about-trusted-proxies/terms-and-conditions/no-black-hat-policy.html) or any other term of a contract between you and us, or to investigate specific server performance issues, failures or bugs.
+We may inspect proxy server logs if we reasonably suspect abuse or breach of our [No Black Hat: Acceptable Use Policy](https://trustedproxies.com/about-trusted-proxies/terms-and-conditions/no-black-hat-policy/) or any other term of a contract between you and us, or to investigate specific server performance issues, failures or bugs.
 
 If we need to inspect the logs to investigate server issues, we do not look at what sites you visit and record or export that information, we are looking for generic performance and response code data only.
 
@@ -75,7 +75,7 @@ We may share your information with selected third parties including:
 
   * In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.
   * If Appstractor Corporation (UK) Limited trading as Trusted Proxies or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.
-  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](http://www.trustedproxies.com/about-trusted-proxies/terms-and-conditions/website-terms-of-use.html) or [terms and conditions of supply](http://www.trustedproxies.com/about-trusted-proxies/terms-and-conditions/website-terms-of-supply.html) and other agreements; or to protect the rights, property, or safety of Appstractor Corporation (UK) Limited trading as Trusted Proxies our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
+  * If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our [terms of use](https://trustedproxies.com/about-trusted-proxies/terms-and-conditions/website-terms-of-use/) or [terms and conditions of supply](https://trustedproxies.com/about-trusted-proxies/terms-and-conditions/terms-of-supply/) and other agreements; or to protect the rights, property, or safety of Appstractor Corporation (UK) Limited trading as Trusted Proxies our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.
 
 
 
@@ -89,7 +89,7 @@ Unfortunately, the transmission of information via the internet is not completel
 
 **YOUR RIGHTS**
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us using the information on our [Contact page](http://www.trustedproxies.com/contact).
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes or if we intend to disclose your information to any third party for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also exercise the right at any time by contacting us using the information on our [Contact page](https://trustedproxies.com/contact-us/).
 
 Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies. Please check these policies before you submit any personal data to these websites.
 
@@ -103,4 +103,4 @@ Any changes we may make to our privacy policy in the future will be posted on th
 
 **CONTACT**
 
-Questions, comments and requests regarding this privacy policy are welcomed. Please see our [Contact page](http://www.trustedproxies.com/contact) for our contact details.
+Questions, comments and requests regarding this privacy policy are welcomed. Please see our [Contact page](https://trustedproxies.com/contact-us/) for our contact details.
