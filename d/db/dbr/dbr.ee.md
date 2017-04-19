@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the dbr.ee privacy policy that was archived on 2016-03-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160321145629id_/http%3A//dbr.ee/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the dbr.ee privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419105039id_/https%3A//dbr.ee/privacy) for the most accurate reproduction.*
 
 # Privacy Policy - DBREE
 
