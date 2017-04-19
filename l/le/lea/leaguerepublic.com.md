@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2016-10-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161019002722id_/https%3A//www.leaguerepublic.com/privacy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the leaguerepublic.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419073334id_/https%3A//www.leaguerepublic.com/privacy.html) for the most accurate reproduction.*
 
 # Privacy - LeagueRepublic
 
@@ -41,7 +41,7 @@ Unfortunately, the transmission of information via the Internet is not completel
 
 We may also use your data to provide you with information about goods and services which may be of interest to you and we may contact you about these by post or telephone.
 
-If you do not want us to use your data in this way, please [Contact Us](https://web.archive.org/contact.html)
+If you do not want us to use your data in this way, please Contact Us
 
 ### Disclosure of your information
 
@@ -62,7 +62,7 @@ We use third-party analytics services to help understand your usage of our servi
 
 ### Your Rights
 
-You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also change your preferences at any time by [contacting us](https://web.archive.org/contact.html)
+You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data. You can also change your preferences at any time by contacting us
 
 You have the right to access information held about you. You can find out what information we hold about you by making a Subject Access Request under the Act. If we hold personal information about you we will give you a description of it, tell you why we are holding it and let you have a copy of it. 
 
