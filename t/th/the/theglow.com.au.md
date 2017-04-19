@@ -1,34 +1,239 @@
-> *The following text is extracted and transformed from the theglow.com.au privacy policy that was archived on 2015-03-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150315052431id_/http%3A//www.theglow.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theglow.com.au privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419024243id_/http%3A//www.mamamia.com.au/privacy-policy) for the most accurate reproduction.*
 
-# Privacy - The Glow
+# Privacy Policy - Mamamia
 
-At the Glow, we take your privacy seriously. This Privacy Policy describes our privacy practices and policy regarding the collection and use of information (including personally identifiable information) made available to us through the [www.theglow.com.au](http://www.theglow.com.au/) website (the “Glow Site”).
+**1\. Your Privacy**
 
-You are, of course, free to use the majority of the Glow Site without providing any information to us. However, to the extent that you or other users do provide or make available any information to us, that information can generally be categorised as either anonymous or personally identifiable. Anonymous information is information that cannot be traced back to a specific individual. Personally identifiable information is information from which you or another individual can be identified. This information can include your name, email, address, postcode, age, etc.
+Mamamia.com.au Pty Limited (ACN 105 572 192) (“Mamamia”, “We”, “Us”, “Our”) recognises that Your privacy is very important to You and believes that information received by Us that can be used to identify an individual user (“You”, “Your”, “User”) should be treated with respect. We are serious about adhering to the Australian Privacy Principals and other applicable privacy legislation. 
 
-Opt In  
-When you register as a member of theglow.com.au or sign up for any of the services that we offer to members or other users on a subscription basis, for example, newsletters and/or email communications about news and events (“Services”) you will be asked to ‘opt in’ to our Privacy Policy i.e. to confirm that you agree to our use of any personally identifiable information that we may collect from you or be provided with by you in connection with your use of the theglow.com.au Site. By ‘opting-in’ you agree to our use of your information in accordance with the terms of this Privacy Policy. If you do not provide your consent, you will not be able to become a member of theglow.com.au and/or use the Services. If you do subscribe to any of our Services you may also unsubscribe from the relevant distribution list(s) at any time. You may also withdraw your consent to our use of any other personally identifiable information that we hold on you at any time. If you wish to unsubscribe from our Services or withdraw any consent that you have previously provided to our use of your personally identifiable information, please see paragraph 12 below (Unsubscribing, Correction and Deletion of Personally Identifiable Information).
+Before providing Us with any information, You should read through this policy so that You understand and are comfortable with exactly how We will collect and what We will do with any information You share with Us. This Privacy Policy will also tell You how to access Your information and/or seek correction of Your information if desired.
 
-Our privacy policy is simple.
+By using the Mamamia Sites and/or Services covered by this Policy and providing Personal Information to Us, You agree that We can communicate with You electronically regarding security, privacy and administrative issues relating to Your account information and usage.
 
-1\. Collection of Personally Identifiable Information  
-the Glow collects the details provided by you when you register as a member of theglow.com.au or sign up for any of our Services together with any personally identifiable information we learn about you through your use of the Services. For example, we may collect additional personally identifiable information through your participation in any promotions and competitions offered by us.
+Please refer to the “Enforcement” Section (Section 11) at the end of this Privacy Policy for Our contacts details should you wish to contact Us about this Privacy Policy or Our privacy practices. 
 
-We will notify our members when we make any material changes to our Privacy Policy that affect the use of any personally identifiable information we collect. We will not make new use of any personally identifiable information which the Glow gathered from individual members or users prior to any such change in our Privacy Policy without first obtaining the member’s or user’s consent for any new uses.
+**2\. What We Collect**
 
-2\. Security  
-The security of your personally identifiable information is a priority to us. Unfortunately, no security system, or system of transmitting data over the internet, can be guaranteed to be 100 per cent secure. As a result, while we strive to protect your personally identifiable information, we cannot guarantee the security of our servers, the means by which information is transmitted between your computer and our servers, or any information provided to us or to any third party through or in connection with the the Glow Site. You provide all such information at your own risk.
+**Personal and Non-Personally Identifiable Information**
 
-3\. Newsletter and Email Communications Subscribers  
-If you decide not to become a member of theglow.com.au but wish to subscribe to one or more of our newsletters or email communications services, we will need to collect your email address in order to send our newsletters and/or email communications to you. We will not use your email address for any purpose except in connection with sending you the newsletters and/or emails you have requested, maintaining our subscription and unsubscription lists, communicating with you in the event of a change in the ownership of the Glow or its business, or notifying you of changes to the Glow Site, business practices, Terms of Service or Privacy Policy, unless (i) we are required to do so by applicable law or pursuant to a court or similar order; (ii) as deemed necessary, in the Glow’s discretion, to protect the legal rights or the property of the Glow, a member or third party, or to prevent personal injury; or (iii) you have provided your consent for us to do so.
+We collect “Personal Information”, as well as non-personally identifiable information on Mamamia Sites and/or Services. 
 
-4\. Sensitive Personally Identifiable Information  
-It is possible that the selections you make or information that you provide when using our Services may indicate information about you that is sensitive such as the state of your health or your sexual orientation. As with all of the personally identifiable information you provide to us, you can be assured that any sensitive information you choose to supply to us will be used only in accordance with this Privacy Policy and/or applicable law.
+“Personal Information,” as used in this Policy, is personally identifiable information, such as Your first and last name, mailing address, email address, billing information, IP addresses, demographics, passwords, telephone number and/or other online contact information.
 
-5\. How we use the Personally Identifiable Information you provide  
-We use the personally identifiable information we collect to supply our Services to you. We may also use your contact details to communicate with you (including without limitation in the event of a change in ownership of the Glow or its business, our business practices, or our Terms of Service or Privacy Policy). Except where you have asked us not to, we may contact you by email, post, text message or telephone. We may also use your personally identifiable information to send you information, special offers, promotions, coupons and free samples whether on behalf of ourselves or our group companies or on behalf of carefully selected third parties.
+**Sensitive Information**
 
-6\. Disclosure of your Personally Identifiable Information  
-Your personally identifiable information may be passed to and used by our group companies including our parent company in the United States and to our third party partners and service providers in connection with providing services to you over the Glow Site, delivering or making the Services available to you and/or in association with our operation of the Glow Site. Please note that some of our group companies and third party partners and service providers may be located overseas in countries which do not have as extensive data protection laws as in Australia.
+Mamamia does not collect sensitive information from users for marketing purposes. Sensitive information includes information about a person’s racial or ethnic origin, religious beliefs or affiliations, philosophical beliefs, health or genetic information, sexual preference or information about whether an individual is a member of a professional or trade association or union.
 
-We may also disclose your personally identifiable information in the following instances: (i) if we are required to do so by applicable law or pursuant to a court or similar order; (ii) as deemed necessary, in the Glow’s discretion, to protect the legal rights or the property of the Glow, a member or third party, or to prevent personal injury; and/or (iii) in connection with a sale, merger, assignment, joint venture or other transfer or disposition of a portion or all of the assets or stock of the Glow or its affiliated entities (including, without limitation, in connection with any bankruptcy or similar proceedings). In addition, the Glow reserves the right to allow access to its systems to third parties providing necessary technical services when such access is required in order to provide those services and to provide your personally identifiable information to third parties who provide services on behalf of the Glow, provided that such third parties are bound by the Glow’s Privacy Policy.
+Sensitive information might be collected during the course of surveys or competitions administered by Mamamia or its affiliated third parties, but only if volunteered by Users with their consent.
+
+You can choose not to actively volunteer information to Mamamia. However if You do provide information to Mamamia when asked or prompted, including sensitive information, You are also providing consent for Mamamia to collect, store and use that information as necessary for the purpose of collecting it.
+
+**3\. How We Collect Information**
+
+We collect information in three ways. 
+
+(1) Voluntarily 
+
+(2) Automatically
+
+(3) Via Third Party Sources
+
+**Voluntarily**
+
+We collect information You provide to Us in optional, voluntary submissions, including but not limited to  registration forms, user profiles, promotional signups, sweepstakes/contest entries, email or phone requests for customer service, software and mobile application downloads and curriculum vitae submissions. 
+
+**Automatically**
+
+Like virtually all other sites, We will create and record information automatically when You visit Our Site. We use cookies (or files sent directly to Your computer or device) and other similar technology to collect information such as Your IP address, the site You visited immediately prior to Our Site and the frequency and duration of Your visit to Our Site. 
+
+We may track activity relating to Your interaction with Our email communications and with links contained within Our email communications and Our Site. This information is generally non-personally identifiable.
+
+We may also collect, use, and share, with Mamamia partners, service providers and licensees, precise location data, including the real-time location of Your mobile or fixed location device. 
+
+Some cookies may be associated with Personal Information about You and some may not. This information is generally collected, used and stored to deliver relevant messaging and enhance Your experience when visiting Our Site. 
+
+**Via Third Party Sources**
+
+**  
+** We may also obtain information, including Personal Information, from third party sources. This may include soliciting third parties to collect Personal Information on Our behalf. In such cases We instruct those third parties to comply with this Policy.
+
+We may use analytics tools and other third party technologies, to collect non-personally identifiable information in the form of various usage and user metrics when You use Our Sites and/or Services. These third party analytics companies may combine the information collected for Us with other information they have independently collected across their network of websites, products and services. Many of these companies collect and use information under their own privacy policies.
+
+Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, like Digital Content Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at <http://www.nielsen.com/digitalprivacy>.
+
+**4\. Security and Integrity**
+
+We take reasonable measures, including the implementation and maintenance of physical, electronic, and managerial procedures, in an effort to assure the security, integrity, and accuracy of all Personal Information that We collect. If We learn of a security systems breach, We may attempt to notify You electronically so that You can take appropriate protective steps. 
+
+We will destroy or de-identify Your information if We no longer require the information to provide You with access to Our Site/s or Services and if the information is not required to be saved under Australian law or other Commonwealth record. 
+
+**5\. Storage**
+
+We store Your information on networks in Australia and the US and take reasonable steps to protect Your Personal Information from misuse, loss or unauthorized access. These reasonable steps include password access, firewalls, and encryption of credit card details and secure servers.
+
+**6\. How We Use Information**
+
+Generally, We use Personal Information to establish and enhance Our relationship with Our Users through four main categories: 
+
+(1) Communication 
+
+(2) Optimization
+
+(3) Marketing & Advertising; and 
+
+(4) Sharing Features. 
+
+Below, We provide some specific examples of how We use the information We collect.
+
+**Communication and Responding to Requests**
+
+To provide You with customer support, process transactions, respond to users’ requests, send newsletters and updates, send special offers and advertisements, seek Your opinions and feedback, and connect users to Mamamia Sites and/or Services and to products and services of Our partners and licensees.
+
+**Optimisation**
+
+To provide, improve, and maintain Our Sites and Services, to develop new products and services, to prevent abuse and fraud, to personalise and display advertisements and other content for You, and for other administrative and internal business purposes.
+
+**Marketing & Advertising**
+
+To personalise and display advertisements and other content for You.
+
+We may share your anonymised email address with one or more of our third party business partners, so that You will receive more relevant online ads from us and other parties.  This works by dropping a cookie on your browser linked to data that is known about you so that third party advertisers can show you more relevant ads.
+
+We may also use various measurement services and companies to analyse collected data about Your engagement with Our Sites and Services. The information that is collected is not personally identifiable, and is pseudonymous or agrgregarde data that does not identify any individual user.
+
+The third party analytics companies that We use may share the User information they collect from Our Sites with other measurement companies, who gather data from various sources, analyse and report on it for their clients. The reported information will cover various elements, for example it may summarise how many people have viewed a certain webpage within a certain age bracket.
+
+By using our Sites and Services, You consent to the collection of data by Mamamia’s ad servers or third party affiliates, or the transfer of information to them, wherever necessary for the Network’s performance optimisation. (See Point 8, Marketing and Advertising for Opt Out Options)
+
+**Sharing Features**
+
+To provide You with various ways to connect and share content with third parties. 
+
+By using any third party service to share links to content, You permit Us to access, use and disclose any information relating to Your account on each such third party service (such as Your user name and profile information) available to Us through the third party service.
+
+**7\. When We Disclose Personal Information**
+
+Mamamia will not sell, license or otherwise disclose Your Personal Information to third parties unless such disclosure is for the purposes set out in this Privacy Policy. 
+
+**Between Mamamia’s Networks**
+
+In order to ensure that our various Sites and Services work together optimally, as described above, We share information (including Your information) between Our multiple online networks. 
+
+**Service Providers**
+
+We may provide Personal Information to Our third party service providers for their use in performing internal business functions or collecting information on Our behalf. 
+
+Whenever possible, We require such third-parties to only collect and use Personal Information in accordance with this Policy, and for no purpose other than providing Us with Our requested services.
+
+**Mamamia’s Partners**
+
+When You visit or use a part of any Site or Product that is co-branded or that is a part of a joint promotion involving Mamamia and one or more third parties (each a “Co-Branded Party”), You are providing and consenting to provide Your collected information to Mamamia and each of the Co-Branded Parties. Please note that We do not control any Co-Branded Parties’ use or treatment of information. You should consult each of their joint or separate privacy policies to determine Your rights with respect to their use and treatment of Your information. 
+
+We may share Your anonymized email address with one or more of Our third party business partners in order to facilitate advertisement tailoring for Our Users. 
+
+**Legal Requirements**
+
+We may disclose Your information if We are legally bound to do so or if, in Our reasonable opinion, such disclosure is necessary to prevent harm to ourselves, other users or any other third party. We will notify You of such disclosure in all such instances.
+
+**Change of Ownership**
+
+In the event that there is a change of control at Mamamia such that We transfer part or all of Our assets to a third party, then that third party will obtain access to any information We have collected either automatically or directly from You. 
+
+We will make reasonable efforts to notify You by posting a notice on Our Sites and/or Services and, sending You an email if We have Your email address.
+
+**Interactive Features**
+
+Any Personal Information that You submit, display, or publish on a forum, blog, channel, bulletin board, chat room, user commenting feature or other interactive sharing or social feature offered through Our Sites and/or Services, is considered publicly available and can be read, collected, used, and disclosed by other users of those features, by Us and other third parties without restriction, except to the extent limited access features are available. 
+
+**8\. Your Choices**
+
+**Submitting Personal Information**
+
+Please note that if You do not wish to submit Personal Information, You may not be able to access and/or participate in certain Mamamia Sites and/or Services that require Your Personal Information. For example, You will not be able to register for an account with Us, participate in certain contests or promotions, or access and/or use certain Mamamia product features or online services. In addition, Your refusal to submit Personal Information may limit Our ability to respond to Your customer support inquiry in a timely fashion.
+
+**Accessing Personal Information**
+
+You may request access to any Personal Information We hold about You by contacting Us at as per the details under the Enforcement section in this Policy. Whenever You are entitled to access such information, We will provide such information to You via email or post without charging You for such access.
+
+**Editing Personal Information**
+
+You may, at any time, update, correct, or delete certain Personal Information that You have provided to Us by updating Your preferences on the Account Settings page or by contacting Us as per the details under the Enforcement section in this Policy. You are entitled to request that Your Personal Information is dealt with by Us either anonymously or under a pseudonym. 
+
+If we are not able to remove Your Personal Information for any reason, we will notify You of this with an accompanying explanation. 
+
+When Personal Information is updated it may take up to 30 days from accessible systems, and up to 90 days from backup systems, for Us to update such Personal Information.
+
+**Cookies and Similar Technology**
+
+You can change Your browser’s privacy settings to delete or control cookies or other similar technology as You wish. Please note that updating these settings may prevent You from using various functionality features, products or services of Our Site. 
+
+**Marketing & Advertising **
+
+If You do not wish to have Your browsing activity tracked or Your information used for the purpose of delivering You targeted advertisements as explained under Point 6, Marketing & Advertising, You may opt-out of the services currently used by Mamamia. Please note, You will still continue to receive generic advertisements.
+
+Click on the relevant “Opt Out” links provided below if You would like to opt out of interest based advertising that any of them deliver:
+
+**Appnexus**
+
+[http://www.appnexus.com/en/company/platform-privacy-policy#choices](http://www.appnexus.com/en/company/platform-privacy-policy#choices)
+
+**Google’s AdX and Double Click for Publishers:**
+
+[https://www.google.com/settings/u/0/ads/authenticated?hl=en](https://www.google.com/settings/u/0/ads/authenticated?hl=en)
+
+**Liverail:**
+
+[http://ad3.liverail.com/privacy/?optout](http://ad3.liverail.com/privacy/?optout)
+
+**Krux**
+
+[http://www.krux.com/privacy/consumer-choice/](http://www.krux.com/privacy/consumer-choice/)
+
+**Sizmek:**
+
+[http://www.sizmek.com/about-us/privacy](http://www.sizmek.com/about-us/privacy)
+
+**Tremor:**
+
+[http://teads.tv/en/privacy-policy/ad-interest-manager/](http://teads.tv/en/privacy-policy/ad-interest-manager/)
+
+**Teads:**
+
+[http://teads.tv/en/privacy-policy/ad-interest-manager/](http://teads.tv/en/privacy-policy/ad-interest-manager/)
+
+**Account Deletion**
+
+If You delete Your account, Your Personal Information and any and all other account related information will also be permanently deleted. Deletion of Your data may take up to 30 days from accessible systems and up to 90 days from backup systems. 
+
+If You choose to have an account with Us in the future, You will have to sign up for a new account as none of the information You previously provided or saved within Your account will have been saved.
+
+**9\. Third Party Websites**
+
+**When Your information Leaves Australia**
+
+We may disclose Your Personal Information to third party suppliers or partners located outside of Australia. These third party suppliers are located globally. 
+
+In the event that We are required to disclose Your Personal Information to overseas third parties, We will take reasonable steps to ensure that such disclosures are subject to reasonable confidentiality terms, that the overseas third party is subject to a law or binding scheme that has protects Your information in a way that, overall, is at least substantially similar to the way in which the Australian Privacy Principles protect Your information or that the overseas third party takes steps to prevent a breach of the Australian Privacy Principles in relation to Your information. 
+
+**Third Party Login Functionality**
+
+We may permit users with accounts on certain third party services to bypass the standard applicable registration process. If You connect through an authorised third party service, You will be able to use Your third party login information to log in to Your Mamamia account or access Mamamia content, Sites and/or Services. By doing this, You permit Us to access, store and use all information related to Your third party account that may be accessible to Us through the third party service, pursuant to this Policy. We are not responsible for the information gathering, sharing or storage practices of any third party service that may be triggered by using third party login functionality. Please review their terms of service and privacy policies carefully before using third party login functionality to access any Mamamia Sites and/or Services.  
+
+
+**Third Party Services and Links**
+
+Occasionally We will include links to third party websites on Our Site or Communications with You. Whenever You choose to follow such links to any other websites You should be aware that Our privacy policy no longer applies and that each third party website’s privacy policy will govern their collection, storage and use of any of Your Personal Information from the moment You leave Our Site.
+
+**10\. Changes and Updates to This Policy**
+
+Mamamia regularly reviews its compliance with this Privacy Policy. This Privacy Policy was last updated on 22 June 2015 and may be updated by Us, from time to time, in Our sole discretion. We will notify You of any such changes by providing the current version of the Privacy Policy on Our Site.
+
+We encourage You to review this Policy periodically to stay informed about Our collection, use and disclosure of Personal Information. Your continued use of Our Sites and/or Services or any other content, products or services covered by this Policy constitutes Your agreement to this Policy and any updates.
+
+**11\. Enforcement**
+
+Please feel free to direct any questions concerns or complaints regarding Our Privacy Policy or Mamamia’s treatment of Personal Information by contacting Us at info@mamamia.com.au or by writing to Us at Privacy Group, c/o Mamamia, Level 3, 68 Wentworth Ave Surry Hills 2010. 
+
+Mamamia will contact the complaining party regarding his or her concerns and will cooperate with the appropriate regulatory authorities, to resolve any complaints regarding Personal Information that cannot be resolved internally.
+
+Further information can be found at the Government Privacy web site: [www.privacy.gov.au](http://www.privacy.gov.au/)
