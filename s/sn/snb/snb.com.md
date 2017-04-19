@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the snb.com privacy policy that was archived on 2016-10-23. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161023130839id_/https%3A//www.snb.com/stuff/contentmgr/files/0/5fbd606ec33af27faa17ebd50a9706ca/download/sterling_national_bank_privacy_notice_revised_april_2016_f.pdf) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the snb.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419062043id_/https%3A//www.snb.com/stuff/contentmgr/files/0/5fbd606ec33af27faa17ebd50a9706ca/download/sterling_national_bank_privacy_notice_revised_april_2016_f.pdf) for the most accurate reproduction.*
 
 # 
 
