@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the globalscape.com privacy policy that was archived on 2016-12-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161208020102id_/https%3A//www.globalscape.com/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the globalscape.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419093601id_/https%3A//www.globalscape.com/company/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | Globalscape
 
@@ -13,24 +13,24 @@ We use your name and other personal information to identify you as a registered 
 
 We use your credit card billing information only to obtain payment for our software. We may use your personal information to enter you in contests, such as sweepstakes, that we hold from time to time.
 
-You can correct factual errors in your personal information or remove your personal information by submitting a request using this [form](https://web.archive.org/contact.aspx).
+You can correct factual errors in your personal information or remove your personal information by submitting a request using this [form](https://www.globalscape.com/contact.aspx).
 
 **Web Visit**  
 When you visit our Web site, our server logs your IP address, the time and duration of your visit, and the time and duration of the pages on our Web site that you view.
 
-We will also place a "cookie" on your computer’s hard drive. A cookie is an alphanumeric identifier that is unique to your browser. This cookie will identify your browser when you visit our site again so that we may customize your visit. If you do not wish to have a cookie on your computer, check the "help" feature of your browser for instructions. Most browsers can be set to refuse cookies.
+We use cookies, tracking pixels and related technologies. Cookies are small data files that are served by our platform and stored on your device. Our site uses cookies dropped by us or third parties for a variety of purposes including to operate and personalize the website. Also, cookies may also be used to track how you use the site to target ads to you on other websites. If you do not wish to have a cookie on your computer, check the "help" feature of your browser for instructions. Most browsers can be set to refuse cookies.
 
 Web visit information is used to generate aggregate statistical data that we use to measure interest in our Web pages. We may also tie this information to your personal information.
 
-**Web Beacons:** A Web beacon is a small image we place in our Web-based e-mail communications. Web beacons allow us to access our cookie to tell us whether you have viewed our e-mail. This information may be tied to personal information we have about you. If you set your browser to refuse cookies, the Web beacon will provide us only with information that an e-mail has been viewed, but we will not be able to identify the visit with your browser.
+**Web Beacons:**  A Web beacon is a small image we place in our Web-based e-mail communications. Web beacons allow us to access our cookie to tell us whether you have viewed our e-mail. This information may be tied to personal information we have about you. If you set your browser to refuse cookies, the Web beacon will provide us only with information that an e-mail has been viewed, but we will not be able to identify the visit with your browser.
 
-**User Surveys:** Your participation in surveys is optional, although we may require your participation as a condition to a trial use of our software. We may ask you to describe the ways in which you and your company manage your IT resources or your experience with our software or Web sites. We may also ask you for demographic information such as age, gender, or areas of interest. We use this information to help us improve our software, plan marketing initiatives, and develop new products that may interest you. We may tie this information to other personal information that we have about you.
+**User Surveys:**  Your participation in surveys is optional, although we may require your participation as a condition to a trial use of our software. We may ask you to describe the ways in which you and your company manage your IT resources or your experience with our software or Web sites. We may also ask you for demographic information such as age, gender, or areas of interest. We use this information to help us improve our software, plan marketing initiatives, and develop new products that may interest you. We may tie this information to other personal information that we have about you.
 
-**Shopping Cart:** We use cookies to identify you as a previous visitor to our Web site and keep track of items in your shopping cart. We may tie the cookie to any personal information we have about you.
+**Shopping Cart:**  We use cookies to identify you as a previous visitor to our Web site and keep track of items in your shopping cart. We may tie the cookie to any personal information we have about you.
 
-**Software Reporting:** The software includes a feature which assigns a unique number to your computer based on system information. The software reports this number to us when you use the Software during the trial period. The Software may also identify and report to us your Windows language identifier setting, IP address, and the date and time of program use. We use this information to count the number of installations, measure frequency of use, detect piracy of our software, and develop rough statistical data regarding the geographic location of our users. If you register our software, we may tie this information to any personal information that we have about you.
+**Software Reporting:**  The software includes a feature which assigns a unique number to your computer based on system information. The software reports this number to us when you use the Software during the trial period. The Software may also identify and report to us your Windows language identifier setting, IP address, and the date and time of program use. We use this information to count the number of installations, measure frequency of use, detect piracy of our software, and develop rough statistical data regarding the geographic location of our users. If you register our software, we may tie this information to any personal information that we have about you.
 
-**Purchase:** In addition to obtaining your name and other personal information, we will identify and log your browser type when you purchase our software online. We use this information to help us detect piracy of our software.
+**Purchase:**  In addition to obtaining your name and other personal information, we will identify and log your browser type when you purchase our software online. We use this information to help us detect piracy of our software.
 
 **Web Survey:**   Your Web Survey results are collected and transmitted to you by our server.  The results and certain statistics regarding the results are stored on our server for the purpose of facilitating the reporting features of the software.  We do not view the results or statistics or share that information with any person.
 
@@ -54,4 +54,10 @@ We may share non-personally identifiable aggregate statistical information about
 Your credit card information is encrypted before transmission over the Internet through the use of a security protocol known as Secure Sockets Layer, and we have security measures in place to protect your personal information that we maintain here.
 
 **Children's Online Privacy Protection**  
-Neither our Web sites nor our products are designed for or directed to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13.
+Neither our Web sites nor our products are designed for or directed to children under the age of 13, and we will not intentionally maintain information about anyone under the age of 13.  
+
+
+**Changes to This Privacy Policy**  
+From time to time, we may use customer information for new, unanticipated uses not previously disclosed in our privacy notice. Any material changes to this privacy policy will be communicated to users through this Web page, so please be sure to visit this page periodically.
+
+Last updated April 18, 2017
