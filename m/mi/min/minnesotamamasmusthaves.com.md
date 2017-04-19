@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the minnesotamamasmusthaves.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217003848id_/http%3A//musthavemom.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the minnesotamamasmusthaves.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419065326id_/http%3A//musthavemom.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Must Have Mom
 
