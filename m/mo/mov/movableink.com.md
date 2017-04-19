@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2016-11-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161114190731id_/https%3A//movableink.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the movableink.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419103809id_/https%3A//movableink.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Movable Ink
 
@@ -96,7 +96,7 @@ Please note that when you use the Services, your information may be sent to the 
 
 Movable has certified with the EU-U.S. Privacy Shield Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of “personal data” (as defined under the Privacy Shield principles) from applicable European Union member countries. Movable has certified that it adheres to the Privacy Shield Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement for such personal data. To learn more about the Privacy Shield, view a list of entities who have current certifications under Privacy Shield, or view Movable's certification, please visit [http://www.privacyshield.gov](http://www.privacyshield.gov/). As required under the principles, when Movable receives information under the Privacy Shield and then transfers it to a third-party service provider acting as an agent on Movable's behalf, Movable has certain liability under the Privacy Shield if both (i) the agent processes the information in a manner inconsistent with the Privacy Shield and (ii) Movable is responsible for the event giving rise to the damage. 
 
-If you have any questions or complaints about Movable's privacy practices, including questions related to the Privacy Shield, you may contact us via email at privacy@movableink.com or by mail at Movable, Inc., Attention Legal Department, 636 Avenue of Americas, 6th Floor, New York, NY 10011. 
+If you have any questions or complaints about Movable's privacy practices, including questions related to the Privacy Shield, you may contact us via email at privacy@movableink.com or by mail at Movable, Inc., Attention Legal Department, 5 Bryant Park, 9th Floor, NYC, NY 10018. 
 
 If you are a resident of the European Union and are dissatisfied with the manner in which we have addressed your concerns about our privacy practices, you may seek further assistance, at no cost to you, from our designated Privacy Shied independent recourse mechanism: JAMS Privacy Shield Program: <https://www.jamsadr.com/eu-us-privacy-shield>
 
@@ -118,8 +118,8 @@ Your questions and comments about our privacy policy or related matters are welc
 You can contact us at:  
 
 
-Movable, Inc.  
-Attention Legal Department  
-636 Avenue of Americas, 6th Floor  
-New York, NY 10011  
+5 Bryant Park  
+9th Floor  
+NYC  
+NY 10018   
 [privacy@movableink.com](mailto:privacy@movableink.com)
