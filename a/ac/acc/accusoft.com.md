@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the accusoft.com privacy policy that was archived on 2015-09-24. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150924085413id_/https%3A//www.accusoft.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the accusoft.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419024715id_/https%3A//www.accusoft.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement - Accusoft
 
@@ -38,7 +38,7 @@ Security methods include:
   * Security controls to restrict access to databases housing personally identifiable information.
   * Accusoft sends you e-mails regarding products and services only if you have indicated you wish to receive e-mail from us.
 
-You may remove yourself from our e-mail list at any time. 
+You may remove yourself from our e-mail list at any time.
 
   * Accusoft only sends e-mails to customers regarding Accusoft products and their promotions, Accusoft support, and Accusoft services if the customer wishes to receive these e-mails.
   * The customer has the ability to opt-out of these communications during the registration process or anytime afterwards by replying with “unsubscribe” in the subject line.
