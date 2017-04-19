@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the omax.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120233021id_/https%3A//www.omax.com/omax-privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the omax.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419042138id_/https%3A//www.omax.com/omax-privacy-policy) for the most accurate reproduction.*
 
-# OMAX Privacy Policy | OMAX Abrasive Waterjets
+# OMAX Privacy Policy | Abrasive Water Jet Cutting Machine
 
 Privacy Statement Effective as of September 2, 2008
 
