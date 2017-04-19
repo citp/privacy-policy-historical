@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the freepeople.com privacy policy that was archived on 2016-12-27. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161227223336id_/https%3A//www.freepeople.com/help/privacy-security) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the freepeople.com privacy policy that was archived on 2017-04-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170419084428id_/https%3A//www.freepeople.com/help/privacy-security) for the most accurate reproduction.*
 
 # Help & info: Privacy & Security - Free People Clothing Boutique
 
