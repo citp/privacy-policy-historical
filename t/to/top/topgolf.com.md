@@ -1,8 +1,8 @@
-> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2016-10-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161028145958id_/http%3A//topgolf.com/uk/company/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the topgolf.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420010137id_/https%3A//topgolf.com/us/company/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Topgolf UK
+# Privacy Policy - Topgolf
 
-_UPDATED: September 21st, 2016_
+_UPDATED: February 15, 2016_
 
 Topgolf International, Inc. and its subsidiaries ("Topgolf" or "we" or "our" or "us") are committed to respecting your privacy. This Privacy Policy describes the types of information collected from you, what we do with it and with whom we share it. It is your responsibility to review this Privacy Policy carefully, especially before providing any personal information at our physical locations ("Locations") or through this website at <http://www.topgolf.com/> (this "Site").
 
@@ -88,11 +88,6 @@ Topgolf controls and operates this Site in the United States of America. Our onl
 **Language**
 
 This English-language Privacy Policy is Topgolf's official statement of its online privacy practices. In case of any inconsistency between this English-language Privacy Policy and its translation into another language, this English-language document controls.
-
- **  
-Access to Information**
-
-The Data Protection Act 1998 (“DPA”) gives you the right to access information held about you. Your right of access can be exercised in accordance with the DPA. Any access request will be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.
 
 **For More Information**
 
