@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2016-04-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160426112407id_/https%3A//www.kingandmcgaw.com/help/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the easyart.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420095822id_/https%3A//www.kingandmcgaw.com/help/privacy) for the most accurate reproduction.*
 
 # Privacy Policy at King & McGaw
 
@@ -18,13 +18,13 @@ To request a correction or deletion of your private information, or if you have 
 
 #### Address
 
-King & McGaw
+  * King & McGaw
+  * Unit 12 E Plan Estate
+  * New Road
+  * Newhaven
+  * Sussex
+  * BN9 0EX
 
-Unit 12 E Plan Estate  
-New Road  
-Newhaven  
-Sussex  
-BN9 0EX  
 
 
 #### Telephone:
@@ -215,27 +215,13 @@ All data collected by these third parties is anonymous and will never contain yo
 
 More information on King & McGaw's third party, network and supplier relationships - and the King & McGaw websites to which they apply can be found below.
 
-Partner | kingandmcgaw.com | kingandmcgaw.fr | kingandmcgaw.de | kingandmcgaw.se  
+Partner | kingandmcgaw.com | easyart.fr | easyart.de | easyart.se  
 ---|---|---|---|---  
-Criteo | × |  |  |   
-Affiliate Window | × |  |  |   
 Triggered Messaging | × |  |  |   
 Google | × | × | × | ×  
 Yahoo! | × | × | × | ×  
 MSN/Bing | × | × | × | ×  
   
-### Criteo
-
-Criteo Technology may place anonymous cookies in your browser. These cookies collect browsing data - like the products you have viewed. This data may then be used by other website(s) in their network to serve advertisements containing products that you may have looked at or similar.
-
-Advertisements will always include a link to Criteo's Privacy Policy page. If you'd like to opt out of ad targeting, or would like to see more information on why you are being retargeted, simply click the 'i' which appears in the top left hand corner of every advertisement. Alternatively, if you wish to opt out of receiving Criteo advertisements altogether, please go to [www.criteo.com/privacy-policy/opt-out](http://www.criteo.com/privacy-policy/opt-out).
-
-### Affiliate Window
-
-Affiliate Window's tracking technology uses cookies, flash cookies and ETag requests. Flash cookies are similar to normal cookies but they use flash rather than HTML. ETags are pieces of code that behave similarly to cookies and help speed up browsing.
-
-These cookies and tag requests store information on your computer so that when you click on an Affiliate Window link, information is stored about the click - such as the time of day and the advertisement that referred you to us.
-
 ### Triggered Messaging
 
 Places a cookie on the computers of vistors to help us better understand browsing and send more tailored and relevant communications.
