@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the knok.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230060806id_/http%3A//www.knok.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the knok.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420042725id_/http%3A//www.knok.com/privacy-policy) for the most accurate reproduction.*
 
 # Knok - Home Exchange, Apartment Rental and Travel Guide for Families
 
