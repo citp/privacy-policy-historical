@@ -1,26 +1,28 @@
-<!--The following is the downloaded HTML source of the easyart.com privacy policy that was archived on 2016-04-26.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160426112407id_/https%3A//www.kingandmcgaw.com/help/privacy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the easyart.com privacy policy that was archived on 2017-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170420095822id_/https%3A//www.kingandmcgaw.com/help/privacy) for the most accurate reproduction.-->
 
-<!DOCTYPE html><html class=" has-js no-touchevents flexbox" style=""><head>
-  <script src="https://js-agent.newrelic.com/nr-918.min.js"></script><script async="" src="https://chat.chatra.io/chatra.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WQ8TS6"></script><script src="https://cdn.optimizely.com/js/94797635.js"></script>
-  <script>document.documentElement.className += " has-js";</script>
+<!DOCTYPE html><html class="js has-js csspositionsticky no-touchevents flexbox supports csstransforms3d"><!--<![endif]--><head>
+  <!-- <script src="https://cdn.optimizely.com/js/94797635.js"></script> -->
+  <script src="https://js-agent.newrelic.com/nr-1026.min.js"></script><script async="" src="https://www.googletagmanager.com/gtm.js?id=GTM-WMLFZM"></script><script>document.documentElement.className += " has-js";</script>
   <link rel="canonical" href="https://www.kingandmcgaw.com/help/privacy">
   <meta charset="utf-8">
-<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"e3fce4c026","applicationID":"2745064","transactionName":"eldXTEteWlhSREtCBV5dShdKWVlD","queueTime":10,"applicationTime":83,"agent":""}</script>
-<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwYFUFRWGwEHUFRSAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{s.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(11),s={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(s.console=!0,-1!==o.indexOf("dev")&&(s.dev=!0),-1!==o.indexOf("nr_dev")&&(s.nrDev=!0))}catch(c){}s.nrDev&&i.on("internal-error",function(t){r(t.stack)}),s.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),s.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(s,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(s){try{i("ierr",[s,(new Date).getTime(),!0])}catch(c){}}return"function"==typeof f?f.apply(this,a(arguments)):!1}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,(new Date).getTime()])}var i=t("handle"),a=t(12),s=t("ee"),c=t("loader"),f=window.onerror,u=!1,d=0;c.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),c.xhrWrappable&&t(6),u=!0)}s.on("fn-start",function(t,e,n){u&&(d+=1)}),s.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),s.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),s.on("internal-error",function(t){i("ierr",[t,(new Date).getTime(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){s.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),s=t(13)(a),c=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){if(t[1]){var n=t[1];if("function"==typeof n){var r=c(n,"nr@wrapped",function(){return s(n,"fn-",null,n.name||"anonymous")});this.wrapped=t[1]=r}else"function"==typeof n.handleEvent&&s.inPlace(n,["handleEvent"],"fn-")}}),a.on(d+"-start",function(t){var e=this.wrapped;e&&(t[1]=e)})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(13)(r);e.exports=r,o.inPlace(window,["requestAnimationFrame","mozRequestAnimationFrame","webkitRequestAnimationFrame","msRequestAnimationFrame"],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(13)(i);e.exports=i,a.inPlace(window,["setTimeout","setImmediate"],"setTimer-"),a.inPlace(window,["setInterval"],"setInterval-"),a.inPlace(window,["clearTimeout","clearImmediate"],"clearTimeout-"),i.on("setInterval-start",r),i.on("setTimer-start",o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",s)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",s)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function s(t,e){return e}function c(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(13)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(c(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",s),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;l>r;r++)t.removeEventListener(d[r],this.listener,!1);if(!e.aborted){if(n.duration=(new Date).getTime()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var a=t.getResponseHeader("X-NewRelic-App-Data");a&&(e.cat=a.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,u.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return i(r)}function i(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}function a(t,e){var n=f(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var s=t("loader");if(s.xhrWrappable){var c=t("handle"),f=t(8),u=t("ee"),d=["load","error","abort","timeout"],l=d.length,p=t("id"),h=t(10),m=window.XMLHttpRequest;s.features.xhr=!0,t(6),u.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,h&&(h>34||10>h)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),u.on("open-xhr-start",function(t){this.params={method:t[0]},a(this,t[1]),this.metrics={}}),u.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),u.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var a=i(r);a&&(n.txSize=a)}this.startTime=(new Date).getTime(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}};for(var s=0;l>s;s++)e.addEventListener(d[s],this.listener,!1)}),u.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),u.on("xhr-load-added",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),u.on("xhr-load-removed",function(t,e){var n=""+p(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),u.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-added",[t[1],t[2]],e)}),u.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&u.emit("xhr-load-removed",[t[1],t[2]],e)}),u.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=(new Date).getTime()))}),u.on("fn-end",function(t,e){this.xhrCbStart&&u.emit("xhr-cb-time",[(new Date).getTime()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(t,e){return function(){o(t,[(new Date).getTime()].concat(a(arguments)),null,e)}}var o=t("handle"),i=t(11),a=t(12);"undefined"==typeof window.newrelic&&(newrelic=NREUM);var s=["setPageViewName","addPageAction","setCustomAttribute","finished","addToTrace","inlineHit"],c=["addPageAction"],f="api-";i(s,function(t,e){newrelic[e]=r(f+e,"api")}),i(c,function(t,e){newrelic[e]=r(f+e)}),e.exports=newrelic,newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),o("err",[t,(new Date).getTime()])}},{}],10:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],11:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],12:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(0>o?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],13:[function(t,e,n){function r(t){return!(t&&"function"==typeof t&&t.apply&&!t[a])}var o=t("ee"),i=t(12),a="nr@original",s=Object.prototype.hasOwnProperty,c=!1;e.exports=function(t){function e(t,e,n,o){function nrWrapper(){var r,a,s,c;try{a=this,r=i(arguments),s="function"==typeof n?n(r,a):n||{}}catch(u){d([u,"",[r,a,o],s])}f(e+"start",[r,a,o],s);try{return c=t.apply(a,r)}catch(l){throw f(e+"err",[r,a,l],s),l}finally{f(e+"end",[r,a,c],s)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,u(t,nrWrapper),nrWrapper)}function n(t,n,o,i){o||(o="");var a,s,c,f="-"===o.charAt(0);for(c=0;c<n.length;c++)s=n[c],a=t[s],r(a)||(t[s]=e(a,f?s+o:o,i,s))}function f(e,n,r){if(!c){c=!0;try{t.emit(e,n,r)}catch(o){d([o,e,n,r])}c=!1}}function u(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){d([r])}for(var o in t)s.call(t,o)&&(e[o]=t[o]);return e}function d(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),e.inPlace=n,e.flag=a,e}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,a,i):i()}function n(n,r,o){t&&t(n,r,o);for(var i=e(o),a=l(n),s=a.length,c=0;s>c;c++)a[c].apply(i,r);var u=f[v[n]];return u&&u.push([y,n,r,i]),i}function d(t,e){m[t]=l(t).concat(e)}function l(t){return m[t]||[]}function p(t){return u[t]=u[t]||o(n)}function h(t,e){c(t,function(t,n){e=e||"feature",v[n]=e,e in f||(f[e]=[])})}var m={},v={},y={on:d,emit:n,get:p,listeners:l,context:e,buffer:h};return y}function i(){return new r}var a="nr@context",s=t("gos"),c=t(11),f={},u={},d=e.exports=o();d.backlog=f},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!m++){var t=h.info=NREUM.info,e=u.getElementsByTagName("script")[0];if(t&&t.licenseKey&&t.applicationID&&e){c(l,function(e,n){t[e]||(t[e]=n)});var n="https"===d.split(":")[0]||t.sslForHttp;h.proto=n?"https://":"http://",s("mark",["onload",a()],null,"api");var r=u.createElement("script");r.src=h.proto+t.agent,e.parentNode.insertBefore(r,e)}}}function o(){"complete"===u.readyState&&i()}function i(){s("mark",["domContent",a()],null,"api")}function a(){return(new Date).getTime()}var s=t("handle"),c=t(11),f=window,u=f.document;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:f.XMLHttpRequest,REQ:f.Request,EV:f.Event,PR:f.Promise,MO:f.MutationObserver},t(9);var d=""+location,l={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-918.min.js"},p=window.XMLHttpRequest&&XMLHttpRequest.prototype&&XMLHttpRequest.prototype.addEventListener&&!/CriOS/.test(navigator.userAgent),h=e.exports={offset:a(),origin:d,features:{},xhrWrappable:p};u.addEventListener?(u.addEventListener("DOMContentLoaded",i,!1),f.addEventListener("load",r,!1)):(u.attachEvent("onreadystatechange",o),f.attachEvent("onload",r)),s("mark",["firstbyte",a()],null,"api");var m=0},{}]},{},["loader",2,7]);</script>
+<script type="text/javascript">window.NREUM||(NREUM={});NREUM.info={"beacon":"bam.nr-data.net","errorBeacon":"bam.nr-data.net","licenseKey":"e3fce4c026","applicationID":"2745064","transactionName":"eldXTEteWlhSREtCBV5dShdKWVlD","queueTime":4,"applicationTime":18,"agent":""}</script>
+<script type="text/javascript">(window.NREUM||(NREUM={})).loader_config={xpid:"VwYFUFRWGwEHUFRSAQU="};window.NREUM||(NREUM={}),__nr_require=function(t,e,n){function r(n){if(!e[n]){var o=e[n]={exports:{}};t[n][0].call(o.exports,function(e){var o=t[n][1][e];return r(o||e)},o,o.exports)}return e[n].exports}if("function"==typeof __nr_require)return __nr_require;for(var o=0;o<n.length;o++)r(n[o]);return r}({1:[function(t,e,n){function r(t){try{c.console&&console.log(t)}catch(e){}}var o,i=t("ee"),a=t(12),c={};try{o=localStorage.getItem("__nr_flags").split(","),console&&"function"==typeof console.log&&(c.console=!0,o.indexOf("dev")!==-1&&(c.dev=!0),o.indexOf("nr_dev")!==-1&&(c.nrDev=!0))}catch(s){}c.nrDev&&i.on("internal-error",function(t){r(t.stack)}),c.dev&&i.on("fn-err",function(t,e,n){r(n.stack)}),c.dev&&(r("NR AGENT IN DEVELOPMENT MODE"),r("flags: "+a(c,function(t,e){return t}).join(", ")))},{}],2:[function(t,e,n){function r(t,e,n,r,o){try{d?d-=1:i("err",[o||new UncaughtException(t,e,n)])}catch(c){try{i("ierr",[c,s.now(),!0])}catch(u){}}return"function"==typeof f&&f.apply(this,a(arguments))}function UncaughtException(t,e,n){this.message=t||"Uncaught error with no additional information",this.sourceURL=e,this.line=n}function o(t){i("err",[t,s.now()])}var i=t("handle"),a=t(13),c=t("ee"),s=t("loader"),f=window.onerror,u=!1,d=0;s.features.err=!0,t(1),window.onerror=r;try{throw new Error}catch(l){"stack"in l&&(t(5),t(4),"addEventListener"in window&&t(3),s.xhrWrappable&&t(6),u=!0)}c.on("fn-start",function(t,e,n){u&&(d+=1)}),c.on("fn-err",function(t,e,n){u&&(this.thrown=!0,o(n))}),c.on("fn-end",function(){u&&!this.thrown&&d>0&&(d-=1)}),c.on("internal-error",function(t){i("ierr",[t,s.now(),!0])})},{}],3:[function(t,e,n){function r(t){for(var e=t;e&&!e.hasOwnProperty(u);)e=Object.getPrototypeOf(e);e&&o(e)}function o(t){c.inPlace(t,[u,d],"-",i)}function i(t,e){return t[1]}var a=t("ee").get("events"),c=t(15)(a,!0),s=t("gos"),f=XMLHttpRequest,u="addEventListener",d="removeEventListener";e.exports=a,"getPrototypeOf"in Object?(r(document),r(window),r(f.prototype)):f.prototype.hasOwnProperty(u)&&(o(window),o(f.prototype)),a.on(u+"-start",function(t,e){var n=t[1],r=s(n,"nr@wrapped",function(){function t(){if("function"==typeof n.handleEvent)return n.handleEvent.apply(n,arguments)}var e={object:t,"function":n}[typeof n];return e?c(e,"fn-",null,e.name||"anonymous"):n});this.wrapped=t[1]=r}),a.on(d+"-start",function(t){t[1]=this.wrapped||t[1]})},{}],4:[function(t,e,n){var r=t("ee").get("raf"),o=t(15)(r),i="equestAnimationFrame";e.exports=r,o.inPlace(window,["r"+i,"mozR"+i,"webkitR"+i,"msR"+i],"raf-"),r.on("raf-start",function(t){t[0]=o(t[0],"fn-")})},{}],5:[function(t,e,n){function r(t,e,n){t[0]=a(t[0],"fn-",null,n)}function o(t,e,n){this.method=n,this.timerDuration="number"==typeof t[1]?t[1]:0,t[0]=a(t[0],"fn-",this,n)}var i=t("ee").get("timer"),a=t(15)(i),c="setTimeout",s="setInterval",f="clearTimeout",u="-start",d="-";e.exports=i,a.inPlace(window,[c,"setImmediate"],c+d),a.inPlace(window,[s],s+d),a.inPlace(window,[f,"clearImmediate"],f+d),i.on(s+u,r),i.on(c+u,o)},{}],6:[function(t,e,n){function r(t,e){d.inPlace(e,["onreadystatechange"],"fn-",c)}function o(){var t=this,e=u.context(t);t.readyState>3&&!e.resolved&&(e.resolved=!0,u.emit("xhr-resolved",[],t)),d.inPlace(t,v,"fn-",c)}function i(t){y.push(t),h&&(g=-g,x.data=g)}function a(){for(var t=0;t<y.length;t++)r([],y[t]);y.length&&(y=[])}function c(t,e){return e}function s(t,e){for(var n in t)e[n]=t[n];return e}t(3);var f=t("ee"),u=f.get("xhr"),d=t(15)(u),l=NREUM.o,p=l.XHR,h=l.MO,m="readystatechange",v=["onload","onerror","onabort","onloadstart","onloadend","onprogress","ontimeout"],y=[];e.exports=u;var w=window.XMLHttpRequest=function(t){var e=new p(t);try{u.emit("new-xhr",[e],e),e.addEventListener(m,o,!1)}catch(n){try{u.emit("internal-error",[n])}catch(r){}}return e};if(s(p,w),w.prototype=p.prototype,d.inPlace(w.prototype,["open","send"],"-xhr-",c),u.on("send-xhr-start",function(t,e){r(t,e),i(e)}),u.on("open-xhr-start",r),h){var g=1,x=document.createTextNode(g);new h(a).observe(x,{characterData:!0})}else f.on("fn-end",function(t){t[0]&&t[0].type===m||a()})},{}],7:[function(t,e,n){function r(t){var e=this.params,n=this.metrics;if(!this.ended){this.ended=!0;for(var r=0;r<d;r++)t.removeEventListener(u[r],this.listener,!1);if(!e.aborted){if(n.duration=a.now()-this.startTime,4===t.readyState){e.status=t.status;var i=o(t,this.lastSize);if(i&&(n.rxSize=i),this.sameOrigin){var s=t.getResponseHeader("X-NewRelic-App-Data");s&&(e.cat=s.split(", ").pop())}}else e.status=0;n.cbTime=this.cbTime,f.emit("xhr-done",[t],t),c("xhr",[e,n,this.startTime])}}}function o(t,e){var n=t.responseType;if("json"===n&&null!==e)return e;var r="arraybuffer"===n||"blob"===n||"json"===n?t.response:t.responseText;return h(r)}function i(t,e){var n=s(e),r=t.params;r.host=n.hostname+":"+n.port,r.pathname=n.pathname,t.sameOrigin=n.sameOrigin}var a=t("loader");if(a.xhrWrappable){var c=t("handle"),s=t(8),f=t("ee"),u=["load","error","abort","timeout"],d=u.length,l=t("id"),p=t(11),h=t(10),m=window.XMLHttpRequest;a.features.xhr=!0,t(6),f.on("new-xhr",function(t){var e=this;e.totalCbs=0,e.called=0,e.cbTime=0,e.end=r,e.ended=!1,e.xhrGuids={},e.lastSize=null,p&&(p>34||p<10)||window.opera||t.addEventListener("progress",function(t){e.lastSize=t.loaded},!1)}),f.on("open-xhr-start",function(t){this.params={method:t[0]},i(this,t[1]),this.metrics={}}),f.on("open-xhr-end",function(t,e){"loader_config"in NREUM&&"xpid"in NREUM.loader_config&&this.sameOrigin&&e.setRequestHeader("X-NewRelic-ID",NREUM.loader_config.xpid)}),f.on("send-xhr-start",function(t,e){var n=this.metrics,r=t[0],o=this;if(n&&r){var i=h(r);i&&(n.txSize=i)}this.startTime=a.now(),this.listener=function(t){try{"abort"===t.type&&(o.params.aborted=!0),("load"!==t.type||o.called===o.totalCbs&&(o.onloadCalled||"function"!=typeof e.onload))&&o.end(e)}catch(n){try{f.emit("internal-error",[n])}catch(r){}}};for(var c=0;c<d;c++)e.addEventListener(u[c],this.listener,!1)}),f.on("xhr-cb-time",function(t,e,n){this.cbTime+=t,e?this.onloadCalled=!0:this.called+=1,this.called!==this.totalCbs||!this.onloadCalled&&"function"==typeof n.onload||this.end(n)}),f.on("xhr-load-added",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&!this.xhrGuids[n]&&(this.xhrGuids[n]=!0,this.totalCbs+=1)}),f.on("xhr-load-removed",function(t,e){var n=""+l(t)+!!e;this.xhrGuids&&this.xhrGuids[n]&&(delete this.xhrGuids[n],this.totalCbs-=1)}),f.on("addEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-added",[t[1],t[2]],e)}),f.on("removeEventListener-end",function(t,e){e instanceof m&&"load"===t[0]&&f.emit("xhr-load-removed",[t[1],t[2]],e)}),f.on("fn-start",function(t,e,n){e instanceof m&&("onload"===n&&(this.onload=!0),("load"===(t[0]&&t[0].type)||this.onload)&&(this.xhrCbStart=a.now()))}),f.on("fn-end",function(t,e){this.xhrCbStart&&f.emit("xhr-cb-time",[a.now()-this.xhrCbStart,this.onload,e],e)})}},{}],8:[function(t,e,n){e.exports=function(t){var e=document.createElement("a"),n=window.location,r={};e.href=t,r.port=e.port;var o=e.href.split("://");!r.port&&o[1]&&(r.port=o[1].split("/")[0].split("@").pop().split(":")[1]),r.port&&"0"!==r.port||(r.port="https"===o[0]?"443":"80"),r.hostname=e.hostname||n.hostname,r.pathname=e.pathname,r.protocol=o[0],"/"!==r.pathname.charAt(0)&&(r.pathname="/"+r.pathname);var i=!e.protocol||":"===e.protocol||e.protocol===n.protocol,a=e.hostname===document.domain&&e.port===n.port;return r.sameOrigin=i&&(!e.hostname||a),r}},{}],9:[function(t,e,n){function r(){}function o(t,e,n){return function(){return i(t,[f.now()].concat(c(arguments)),e?null:this,n),e?void 0:this}}var i=t("handle"),a=t(12),c=t(13),s=t("ee").get("tracer"),f=t("loader"),u=NREUM;"undefined"==typeof window.newrelic&&(newrelic=u);var d=["setPageViewName","setCustomAttribute","setErrorHandler","finished","addToTrace","inlineHit","addRelease"],l="api-",p=l+"ixn-";a(d,function(t,e){u[e]=o(l+e,!0,"api")}),u.addPageAction=o(l+"addPageAction",!0),u.setCurrentRouteName=o(l+"routeName",!0),e.exports=newrelic,u.interaction=function(){return(new r).get()};var h=r.prototype={createTracer:function(t,e){var n={},r=this,o="function"==typeof e;return i(p+"tracer",[f.now(),t,n],r),function(){if(s.emit((o?"":"no-")+"fn-start",[f.now(),r,o],n),o)try{return e.apply(this,arguments)}finally{s.emit("fn-end",[f.now()],n)}}}};a("setName,setAttribute,save,ignore,onEnd,getContext,end,get".split(","),function(t,e){h[e]=o(p+e)}),newrelic.noticeError=function(t){"string"==typeof t&&(t=new Error(t)),i("err",[t,f.now()])}},{}],10:[function(t,e,n){e.exports=function(t){if("string"==typeof t&&t.length)return t.length;if("object"==typeof t){if("undefined"!=typeof ArrayBuffer&&t instanceof ArrayBuffer&&t.byteLength)return t.byteLength;if("undefined"!=typeof Blob&&t instanceof Blob&&t.size)return t.size;if(!("undefined"!=typeof FormData&&t instanceof FormData))try{return JSON.stringify(t).length}catch(e){return}}}},{}],11:[function(t,e,n){var r=0,o=navigator.userAgent.match(/Firefox[\/\s](\d+\.\d+)/);o&&(r=+o[1]),e.exports=r},{}],12:[function(t,e,n){function r(t,e){var n=[],r="",i=0;for(r in t)o.call(t,r)&&(n[i]=e(r,t[r]),i+=1);return n}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],13:[function(t,e,n){function r(t,e,n){e||(e=0),"undefined"==typeof n&&(n=t?t.length:0);for(var r=-1,o=n-e||0,i=Array(o<0?0:o);++r<o;)i[r]=t[e+r];return i}e.exports=r},{}],14:[function(t,e,n){e.exports={exists:"undefined"!=typeof window.performance&&window.performance.timing&&"undefined"!=typeof window.performance.timing.navigationStart}},{}],15:[function(t,e,n){function r(t){return!(t&&t instanceof Function&&t.apply&&!t[a])}var o=t("ee"),i=t(13),a="nr@original",c=Object.prototype.hasOwnProperty,s=!1;e.exports=function(t,e){function n(t,e,n,o){function nrWrapper(){var r,a,c,s;try{a=this,r=i(arguments),c="function"==typeof n?n(r,a):n||{}}catch(f){l([f,"",[r,a,o],c])}u(e+"start",[r,a,o],c);try{return s=t.apply(a,r)}catch(d){throw u(e+"err",[r,a,d],c),d}finally{u(e+"end",[r,a,s],c)}}return r(t)?t:(e||(e=""),nrWrapper[a]=t,d(t,nrWrapper),nrWrapper)}function f(t,e,o,i){o||(o="");var a,c,s,f="-"===o.charAt(0);for(s=0;s<e.length;s++)c=e[s],a=t[c],r(a)||(t[c]=n(a,f?c+o:o,i,c))}function u(n,r,o){if(!s||e){var i=s;s=!0;try{t.emit(n,r,o,e)}catch(a){l([a,n,r,o])}s=i}}function d(t,e){if(Object.defineProperty&&Object.keys)try{var n=Object.keys(t);return n.forEach(function(n){Object.defineProperty(e,n,{get:function(){return t[n]},set:function(e){return t[n]=e,e}})}),e}catch(r){l([r])}for(var o in t)c.call(t,o)&&(e[o]=t[o]);return e}function l(e){try{t.emit("internal-error",e)}catch(n){}}return t||(t=o),n.inPlace=f,n.flag=a,n}},{}],ee:[function(t,e,n){function r(){}function o(t){function e(t){return t&&t instanceof r?t:t?s(t,c,i):i()}function n(n,r,o,i){if(!l.aborted||i){t&&t(n,r,o);for(var a=e(o),c=h(n),s=c.length,f=0;f<s;f++)c[f].apply(a,r);var d=u[w[n]];return d&&d.push([g,n,r,a]),a}}function p(t,e){y[t]=h(t).concat(e)}function h(t){return y[t]||[]}function m(t){return d[t]=d[t]||o(n)}function v(t,e){f(t,function(t,n){e=e||"feature",w[n]=e,e in u||(u[e]=[])})}var y={},w={},g={on:p,emit:n,get:m,listeners:h,context:e,buffer:v,abort:a,aborted:!1};return g}function i(){return new r}function a(){(u.api||u.feature)&&(l.aborted=!0,u=l.backlog={})}var c="nr@context",s=t("gos"),f=t(12),u={},d={},l=e.exports=o();l.backlog=u},{}],gos:[function(t,e,n){function r(t,e,n){if(o.call(t,e))return t[e];var r=n();if(Object.defineProperty&&Object.keys)try{return Object.defineProperty(t,e,{value:r,writable:!0,enumerable:!1}),r}catch(i){}return t[e]=r,r}var o=Object.prototype.hasOwnProperty;e.exports=r},{}],handle:[function(t,e,n){function r(t,e,n,r){o.buffer([t],r),o.emit(t,e,n)}var o=t("ee").get("handle");e.exports=r,r.ee=o},{}],id:[function(t,e,n){function r(t){var e=typeof t;return!t||"object"!==e&&"function"!==e?-1:t===window?0:a(t,i,function(){return o++})}var o=1,i="nr@id",a=t("gos");e.exports=r},{}],loader:[function(t,e,n){function r(){if(!b++){var t=x.info=NREUM.info,e=l.getElementsByTagName("script")[0];if(setTimeout(u.abort,3e4),!(t&&t.licenseKey&&t.applicationID&&e))return u.abort();f(w,function(e,n){t[e]||(t[e]=n)}),s("mark",["onload",a()+x.offset],null,"api");var n=l.createElement("script");n.src="https://"+t.agent,e.parentNode.insertBefore(n,e)}}function o(){"complete"===l.readyState&&i()}function i(){s("mark",["domContent",a()+x.offset],null,"api")}function a(){return E.exists&&performance.now?Math.round(performance.now()):(c=Math.max((new Date).getTime(),c))-x.offset}var c=(new Date).getTime(),s=t("handle"),f=t(12),u=t("ee"),d=window,l=d.document,p="addEventListener",h="attachEvent",m=d.XMLHttpRequest,v=m&&m.prototype;NREUM.o={ST:setTimeout,CT:clearTimeout,XHR:m,REQ:d.Request,EV:d.Event,PR:d.Promise,MO:d.MutationObserver};var y=""+location,w={beacon:"bam.nr-data.net",errorBeacon:"bam.nr-data.net",agent:"js-agent.newrelic.com/nr-1026.min.js"},g=m&&v&&v[p]&&!/CriOS/.test(navigator.userAgent),x=e.exports={offset:c,now:a,origin:y,features:{},xhrWrappable:g};t(9),l[p]?(l[p]("DOMContentLoaded",i,!1),d[p]("load",r,!1)):(l[h]("onreadystatechange",o),d[h]("onload",r)),s("mark",["firstbyte",c],null,"api");var b=0,E=t(14)},{}]},{},["loader",2,7]);</script>
   <title>Privacy Policy at King &amp; McGaw</title>
-  <link rel="stylesheet" media="all" href="/assets/application-21e47ac117ae062291777a4a5e258d8e346bfa46b54195354180ca6add5ea874.css">
-  <script src="/assets/modernizr.custom-8a17dff03f1ad9e599e43511c9687ca55aa5141d956f78ce296daaa70b0b6a06.js"></script>
-  <meta name="csrf-param" content="authenticity_token">
-<meta name="csrf-token" content="R9AWj8rLjL5H746pVjRbdZLx/Ka9dg/OxlXmyBPBGbyVjgbcaeAes+O2B65TkStvNxHyg4bqSN1Zs0Xf4Ol79Q==">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Use this rather than page title when adding to homescreen, iOS and Android -->
+  <meta name="apple-mobile-web-app-title" content="King &amp; McGaw">
+  <meta name="application-name" content="King &amp; McGaw">
+
   
   
   
   
 
-    <script src="https://use.typekit.net/mxq6qwz.js"></script>
-    <script>try{Typekit.load({ async: true });}catch(e){}</script>
+  <link type="application/opensearchdescription+xml" rel="search" href="/opensearch.xml">
+
+    <script async="" src="//use.typekit.net/mxq6qwz.js" onload="try{Typekit.load({ async: true });}catch(e){}"></script>
 
   <script>var dataLayer = dataLayer || [];</script>
 
@@ -52,10 +54,12 @@
 <!-- Certain old but not too old Chrome versions mishandle ico -->
 <link rel="icon" sizes="32x32" href="/favicon-32.png">
 
+
+  <link rel="stylesheet" media="all" href="/assets/application-f67fabf3a34e7a8d829c7ea6a4e3865f2316c3c1e177162f044d09be81232a17.css">
 </head>
 
 
-<body id="privacy-page" class="t-4151663060-orig t-5479852397-orig" data-ga-event-category="privacy-page">
+<body id="privacy-page" class="" data-ga-event-category="privacy-page">
 
   <!--[if lte IE 8]>
   <div class="browsehappy">
@@ -65,73 +69,51 @@
   </div>
   <![endif]-->
 
-  <div class="promo-stripe js-timed-promo hide">
+
+  <div class="promo-stripe js-timed-promo hide ttu">
   <div class="l-container promo-stripe-body animated slideInDown">
-    <span class="emoji"><img src="/assets/promo/emoji-hatching-chick-976466bcfc7c57c731d7e0198273f3f4096feec4531a8e3c406757c0d3b24a56.png" alt="Emoji hatching chick"></span>
-    <h5><strong class="sale-highlight">20% off</strong> orders over £20</h5>
-    <h5 class="countdown">00:00:00</h5>
-    <h5>Use code <strong class="sale-highlight">EASTERART</strong></h5>
-    <span class="emoji"><img src="/assets/promo/emoji-hatching-chick-976466bcfc7c57c731d7e0198273f3f4096feec4531a8e3c406757c0d3b24a56.png" alt="Emoji hatching chick"></span>
+    <span class="emoji">🐣</span>
+    <h5><strong>20% off all orders over £20</strong></h5>
+    <span class="emoji hide-xs hide-sm hide-md">🐣</span>
+    <h5>Enter <strong>EASTERART</strong> at checkout</h5>
+    <span class="emoji">🐣</span>
   </div>
 </div>
 
 
-    <div class="header l-container" itemscope="" itemtype="http://schema.org/Organization">
+      <div class="header l-container">
 
-  <div class="header-tagline">
-    <p>Art prints &amp; frames, handmade in England since 1982</p>
-  </div>
-
-  <ul class="header-utils">
-
-    <li class="nav-trade">
-      <a href="/trade">Trade</a>
+  <ul class="header-utils fr-md">
+    <li class="header-utils-item nav-trade hide-xs hide-sm hide-md">
+      <a class="fancybox-ajax" data-ga-event="click-trade-link" href="/modals/trade">Trade</a>
     </li>
 
-    <li class="nav-contact">
+    <li class="header-utils-item nav-contact hide-xs hide-sm hide-md">
       <a href="/contact"><i class="fa fa-phone"></i> Contact</a>
     </li>
 
-    <li class="has-popover">
-      <a href="#"><i class="fa fa-user"></i> Account <i class="fa fa-caret-down"></i></a>
-      <div class="popover">
-        <ul>
-          <li><a class="iframe-link" href="https://secure.kingandmcgaw.com/scripts/login/login.pl">Account</a></li>
-          <li><a class="iframe-link" href="https://secure.kingandmcgaw.com/scripts/gallery/gallery.pl">Gallery</a></li>
-        </ul>
-      </div>
+    <li class="header-utils-item hide-md hide-lg hide-xl">
+      <a class="js-mobile-search" href="#"><i class="fa fa-search"></i> Search</a>
     </li>
 
-    <li class="header-utils-cart has-popover cart-view" data-ga-event="header:cart-link" id="cart-view">
-      <a href="/cart" id="cart-link"><i class="fa fa-shopping-cart"></i> Cart <span class="cart-count" id="cart-count"></span> <i class="fa fa-caret-down"></i></a>
-      <div class="popover popover-right cart-popover">
-        <div id="minicart-content" class="minicart-content"></div>
+    <li class="header-utils-item">
+      <a href="/gallery" id="gallery-header-link"><i class="fa fa-heart"></i> Gallery</a>
+    </li>
+
+    <li class="header-utils-item">
+      <a href="/account"><i class="fa fa-user"></i> Account</a>
+    </li>
+
+    <li class="header-utils-item header-utils-cart js-has-popover has-popover cart-view" data-ga-event="header:cart-link" id="cart-view">
+      <a href="/cart" id="cart-link"><i class="fa fa-shopping-cart"></i> Cart <span class="cart-count" id="cart-count" style="display: none;">0</span></a>
+      <div class="popover popover-right cart-popover" style="left: 897px;">
+        <div id="minicart-content" class="minicart-content"><div class="alert alert-danger minicart-alert-empty text-center" style="margin-bottom:0;"><strong>Your cart is empty</strong></div></div>
       </div>
     </li>
   </ul>
-</div>
 
-    <div class="nav-container l-container">
-  <div class="header-logo col-md-3 col-lg-3 col-xl-3" itemscope="" itemtype="http://schema.org/Organization">
-    <a itemprop="url" href="/"><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" x="0px" y="0px" viewBox="0 0 732.8 71.3" enable-background="new 0 0 732.8 71.3" xml:space="preserve" id="kingandmcgaw-logo">
-<polygon points="732.8,1.3 720.1,1.3 708,44.2 688.8,0.7 687.5,0.7 668.4,44.5 656.1,1.3 643.2,1.3 665.2,70.9 667,71.1 688,23.5 709.3,71.1 711.2,70.9" class="logo-text"></polygon>
-<path d="M615.8 0.4h-1.7l-31.6 69.4h12.1l6.6-15.7h27.1l6.6 15.7h12.3L615.8 0.4z M605.1 44.9l9.7-22.9l9.7 22.9 H605.1z" class="logo-text"></path>
-<polygon points="415.6,69.8 412.7,0.5 410.8,0.3 381.2,45.7 350.8,0.3 349.1,0.5 346.2,69.8 357.7,69.8 358.4,28.7 380.2,61.5 381.6,61.5 403.2,28.8 404.1,69.8" class="logo-text"></polygon>
-<path d="M323.3 37.3c-1.8 2.6-3.9 5.5-6.3 8.6c-2.4 3.2-4.9 6.2-7.7 9c-3.8-3.7-7.5-7.3-11-11 c-3.5-3.7-6.3-7-8.4-9.9c5.8-2.3 10.4-4.9 13.7-7.9c3.3-3 5-6.8 5-11.2c0-1.6-0.3-3.3-1-4.8c-0.7-1.6-1.6-3-2.8-4.3 c-1.2-1.2-2.7-2.2-4.5-3c-1.8-0.7-3.8-1.1-6.1-1.1c-2 0-4 0.4-5.8 1.2c-1.9 0.8-3.5 1.9-4.9 3.3s-2.5 3.1-3.4 5 c-0.9 1.9-1.3 4.1-1.3 6.4c0 2.5 0.6 5 1.7 7.6c1.1 2.6 2.5 5.1 4.1 7.6c-5.4 2.2-9.5 4.8-12.5 7.9c-3 3.1-4.4 7.2-4.4 12.3 c0 2.6 0.5 4.9 1.4 7c0.9 2.1 2.3 3.9 4 5.5c1.8 1.6 3.8 2.8 6.3 3.6c2.4 0.9 5.1 1.3 7.9 1.3c4 0 7.8-1 11.4-3 c3.7-2 7.1-4.6 10.4-7.8c2.5 2.3 4.8 4.4 7 6.4c2.2 2 4.2 3.8 6 5.3l2.3-2.6c-1.9-1.6-3.9-3.3-6.1-5.3c-2.2-1.9-4.4-4-6.8-6.2 c2.9-3 5.5-6.1 7.9-9.3c2.4-3.2 4.5-6.1 6.3-8.7L323.3 37.3z M304.1 19.8c-0.5 1.5-1.5 2.9-2.7 4.2c-1.3 1.3-3 2.6-5.1 3.9 c-2.1 1.2-4.8 2.5-8 3.7c-1.6-2.3-2.9-4.7-4-7.1c-1.1-2.4-1.6-4.7-1.6-7c0-1.9 0.3-3.6 0.9-5.1c0.6-1.6 1.5-2.9 2.6-4 c1.1-1.1 2.3-2 3.7-2.7c1.4-0.7 2.9-1 4.4-1c3.5 0 6.2 1.1 7.9 3.2c1.8 2.1 2.7 4.5 2.7 7.1C304.9 16.7 304.6 18.3 304.1 19.8 M297.6 64.5c-3.2 1.8-6.6 2.7-10.1 2.7c-2.3 0-4.5-0.4-6.4-1.1c-1.9-0.7-3.6-1.7-5-2.9c-1.4-1.2-2.5-2.7-3.3-4.5 c-0.8-1.8-1.2-3.6-1.2-5.7c0-4.2 1.3-7.7 3.8-10.6c2.5-2.8 6.3-5.2 11.2-7.1c1.2 1.5 2.5 3.1 4 4.9c1.5 1.8 3.2 3.6 5 5.5 c1.8 1.9 3.7 3.8 5.6 5.8c1.9 1.9 3.9 3.9 5.8 5.7C304 60.3 300.8 62.7 297.6 64.5" class="logo-text"></path>
-<polygon points="160.7,70.8 160.7,1.3 149,1.3 149,44.6 106.7,0 104.8,0.4 104.8,69.8 116.5,69.8 116.5,25.9 159.4,71.1" class="logo-text"></polygon>
-<rect x="71.5" y="1.3" width="11.7" height="68.5" class="logo-text"></rect>
-<polygon points="54.2,69.8 22.8,34.2 52.7,1.3 38.6,1.3 11.7,32.2 11.7,1.3 0,1.3 0,69.8 11.7,69.8 11.7,36.9 39.7,69.8" class="logo-text"></polygon>
-<path d="M493.8 62l-4.9-9.3c-1.2 1-2.5 1.9-3.9 2.7c-2.4 1.2-4.9 2.3-7.7 3.1c-3.3 1-6.5 1.5-9.5 1.5 c-3.7 0-7.1-0.6-10.1-1.8c-3-1.2-5.6-2.9-7.7-5c-2.1-2.1-3.8-4.7-4.9-7.7c-1.2-3-1.7-6.3-1.7-9.9c0-3.6 0.6-6.9 1.7-10 c1.1-3 2.7-5.6 4.8-7.8c2.1-2.1 4.6-3.8 7.6-5c3-1.2 6.4-1.8 10.1-1.8c3.1 0 6.2 0.5 9.3 1.4c3.1 0.9 6 2.2 8.6 3.7 c0.9 0.6 1.8 1.2 2.6 1.9l5.3-9.3c-1.4-1.1-3.2-2.2-5-3.1c-1.6-0.9-3.2-1.7-5-2.4c-0.1 0-0.2-0.1-0.2-0.1c-0.9-0.4-1.8-0.7-2.6-0.9 C480.3 2.1 480 2 479.8 2c-3.7-1.2-7.8-1.8-12.1-1.8c-5.4 0-10.3 0.9-14.8 2.7c-4.5 1.8-8.4 4.3-11.7 7.4c-3.3 3.2-5.8 6.9-7.7 11.3 c-1.8 4.3-2.8 9-2.8 14.1c0 5.1 0.9 9.8 2.7 14.1c1.8 4.3 4.3 8 7.6 11.2c3.3 3.1 7.2 5.6 11.7 7.4c4.5 1.8 9.5 2.7 14.9 2.7 c4.3 0 8.4-0.6 12.2-1.9c3.8-1.2 7.1-2.7 10-4.5C491.4 63.8 492.7 62.9 493.8 62z" class="logo-text"></path>
-<path d="M576.3 34.6h-35v10.2h22.8c-0.4 2.2-1.2 4.2-2.3 6.1c-1.1 1.9-2.5 3.6-4.3 5c-1.7 1.4-3.8 2.6-6.2 3.4 c-2.4 0.8-5 1.3-8 1.3c-3.2 0-6.3-0.6-9.2-1.9c-2.9-1.2-5.4-3-7.5-5.1c-2.1-2.2-3.8-4.8-5-7.9c-1.2-3.1-1.8-6.4-1.8-10 c0-3.4 0.5-6.6 1.6-9.6c1.1-3 2.7-5.6 4.7-7.9c2.1-2.2 4.6-4 7.6-5.3c3-1.3 6.5-1.9 10.3-1.9c3.2 0 6.4 0.5 9.6 1.5 c2.4 0.8 4.6 1.7 6.9 2.9c0.6 0.4 1.2 0.7 1.8 1.1c0.1 0.1 1.7 1.2 2.4 1.7l5.3-9.3c-0.7-0.5-1.4-1.1-2.2-1.6c0 0 0 0-0.1 0l0 0 c-3.5-2.2-7.2-3.9-11-5.2c-3.8-1.3-8.3-1.9-13.4-1.9c-4.8 0-9.4 0.8-13.7 2.5c-4.4 1.7-8.2 4.1-11.5 7.2c-3.3 3.1-6 6.8-8 11.2 c-2 4.3-3 9.2-3 14.5c0 5.3 1 10.1 2.9 14.4c1.9 4.3 4.5 8 7.8 11.1c3.3 3.1 7.1 5.5 11.4 7.2c4.4 1.7 9 2.6 13.8 2.6 c4.9 0 9.5-0.9 13.6-2.6c4.1-1.7 7.7-4.2 10.7-7.3c3-3.2 5.3-7 6.9-11.5C576 45 576.6 40.1 576.3 34.6z" class="logo-text"></path>
-<path d="M246.6 34.6h-35v10.2h22.8c-0.4 2.2-1.2 4.2-2.3 6.1c-1.1 1.9-2.5 3.6-4.3 5c-1.7 1.4-3.8 2.6-6.2 3.4 c-2.4 0.8-5 1.3-8 1.3c-3.2 0-6.3-0.6-9.2-1.9c-2.9-1.2-5.4-3-7.5-5.1c-2.1-2.2-3.8-4.8-5-7.9c-1.2-3.1-1.8-6.4-1.8-10 c0-3.4 0.5-6.6 1.6-9.6c1.1-3 2.7-5.6 4.7-7.9c2.1-2.2 4.6-4 7.6-5.3c3-1.3 6.5-1.9 10.3-1.9c3.2 0 6.4 0.5 9.6 1.5 c2.4 0.8 4.6 1.7 6.9 2.9c0.6 0.4 1.2 0.7 1.8 1.1c0.1 0.1 1.7 1.2 2.4 1.7l5.3-9.3c-0.7-0.5-1.4-1.1-2.2-1.6c0 0 0 0-0.1 0l0 0 c-3.5-2.2-7.2-3.9-11-5.2c-3.8-1.3-8.3-1.9-13.4-1.9c-4.8 0-9.4 0.8-13.7 2.5c-4.4 1.7-8.2 4.1-11.5 7.2c-3.3 3.1-6 6.8-8 11.2 c-2 4.3-3 9.2-3 14.5c0 5.3 1 10.1 2.9 14.4c1.9 4.3 4.5 8 7.8 11.1c3.3 3.1 7.1 5.5 11.4 7.2c4.4 1.7 9 2.6 13.8 2.6 c4.9 0 9.5-0.9 13.6-2.6c4.1-1.7 7.7-4.2 10.7-7.3c3-3.2 5.3-7 6.9-11.5C246.3 45 246.9 40.1 246.6 34.6z" class="logo-text"></path>
-<image src="/assets/global/kingandmcgaw-logo.png" xlink:href="/assets/svg/kingandmcgaw-logo.svg" itemprop="logo" class="fallback-logo-black"></image>
-<image src="/assets/global/kingandmcgaw-logo-white.png" xlink:href="/assets/svg/kingandmcgaw-logo.svg" itemprop="logo" class="fallback-logo-white"></image>
-</svg>
-</a>
-  </div>
-
-  <div class="search-form col-lg-3 col-xl-3">
-    <form action="/prints" method="get" autocomplete="off" id="search-form">
+  <div class="search-form mobile-search-form hide-md hide-lg hide-xl">
+    <form action="/prints" method="get" autocomplete="off" id="search-form" class="t-search-form">
       <div role="search">
         <div class="input-group">
           <input class="search-query form-control" type="search" name="s" placeholder="Find something amazing" data-ga-event="search-form-focus">
@@ -141,284 +123,262 @@
     </form>
   </div>
 
-  <ul class="nav">
-    <li class="nav-item nav-browse">
-      <a href="/categories" class="unlink" data-nav-toggle="#submenu-browse" data-ga-event="click-nav:Art Prints">Art Prints <i class="fa fa-caret-down"></i></a>
-    </li>
-    <li class="nav-item nav-artists">
-      <a href="/artists" class="unlink" data-nav-toggle="#submenu-artists" data-ga-event="click-nav:Artists">Artists <i class="fa fa-caret-down"></i></a>
-    </li>
-    <li class="nav-item nav-love">
-      <a href="/inspiration" class="unlink" data-nav-toggle="#submenu-inspiration" data-ga-event="click-nav:Inspiration">Inspiration <i class="fa fa-caret-down"></i></a>
-    </li>
-  </ul>
-</div>
-
-
-<div id="submenu" class="nav-submenu hide l-container">
-  <div class="submenu-child submenu-browse hide" id="submenu-browse">
-    <div class="l-grid">
-      <div class="col-sm-9 col-md-9 col-lg-9 col-xl-9">
-        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/edits" data-ga-event="click-nav:The Edit"><img src="/assets/navigation/art-prints/edits-9c732f9517744641a0df3be0e9fac6d4b42ee4d7ebdde1c40d4c6851e169e2c6.jpg" alt="Edits" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/edits" data-ga-event="click-nav:The Edit">The Edit</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/collections" data-ga-event="click-nav:Museums &amp; Archives"><img src="/assets/navigation/art-prints/museums-archives-b504e308fe4e9ae3a013ffb3abe6002facc42be6337ae387cc5e8e7281dc94bb.jpg" alt="Museums archives" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/collections" data-ga-event="click-nav:Museums &amp; Archives">Museums &amp; Archives</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/gifts" data-ga-event="click-nav:Gifts"><img src="/assets/navigation/art-prints/gifts-19fd74d725a2ee4d687b29ba840cd8d1e7ce0f0668e6aa953bbd04314c501398.jpg" alt="Gifts" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/gifts" data-ga-event="click-nav:Gifts">Gifts</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/modern-art" data-ga-event="click-nav:Modern Art"><img src="/assets/navigation/art-prints/modern-art-163cb0e044960377d35b2c7629341e96c1d44d208f90f64ccd8d192a0f77994a.jpg" alt="Modern art" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/modern-art" data-ga-event="click-nav:Modern Art">Modern Art</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/photography" data-ga-event="click-nav:Photography"><img src="/assets/navigation/art-prints/photography-9575c31ede6a0ad2696a77725d04243b42e9bc6de145045ff992f497fb362dbe.jpg" alt="Photography" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/photography" data-ga-event="click-nav:Photography">Photography</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/vintage-posters" data-ga-event="click-nav:Vintage"><img src="/assets/navigation/art-prints/vintage-d886e8ed1fce5fc1167ff5be75c5f33d65c3120af80e7f92958cdccc725c67f1.jpg" alt="Vintage" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/vintage-posters" data-ga-event="click-nav:Vintage">Vintage</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/abstract" data-ga-event="click-nav:Abstract"><img src="/assets/navigation/art-prints/abstract-c5e4abf4abb8986c5a025808d9c45ac5dbf85d92a36d1ed89f05cf6dc0dd312e.jpg" alt="Abstract" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/abstract" data-ga-event="click-nav:Abstract">Abstract</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/contemporary" data-ga-event="click-nav:Contemporary"><img src="/assets/navigation/art-prints/contemporary-b0808bb307f594a07f461c3acfd2d02b97c86662cedd67a46224375d1ed886b5.jpg" alt="Contemporary" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/contemporary" data-ga-event="click-nav:Contemporary">Contemporary</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/rare-limited" data-ga-event="click-nav:Rare &amp; Limited"><img src="/assets/navigation/art-prints/rare-limited-c0916696747ba927865d4b042b03357ea07d6cf0639af388ab06291e3ffe7274.jpg" alt="Rare limited" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/rare-limited" data-ga-event="click-nav:Rare &amp; Limited">Rare &amp; Limited</a></h3>
-    </div>
-  </div>
-</div>
-
-      </div>
-
-      <div class="col-sm-3 col-md-3 col-lg-3 col-xl-3 card-item ghost-card">
-        <a href="/categories" class="unlink" data-ga-event="click-nav:All Categories">
-          <h5><img src="/assets/navigation/art-prints/all-categories-a985bd845f4fbff32e3e4d06b56c8c9ad33a26147b1b73fc12a3c2940ef3bd02.png" alt="" class="nav-all-img">More Categories <i class="fa fa-angle-right"></i> <small class="text-muted">over 50,000 prints</small></h5>
-        </a>
-      </div>
-    </div>
+  <div class="header-logo fl-md">
+    <a href="/">
+      <svg height="26" width="265" viewBox="0 0 265 26" id="kingandmcgaw-logo">
+        <image height="26" width="265" src="/assets/global/kingandmcgaw-logo-826e6abb837b4a00695010e8db1cc8def1fedc3154c2d6ddfe5b040376e28e68.png" xlink:href="/assets/svg/kingandmcgaw-logo-bdd47fecf91ed88e843f267108b3618d456c4071399d69e53c9ca22f4298ffa3.svg"></image>
+      </svg>
+    </a>
   </div>
 
-
-  <div class="submenu-child submenu-artists hide" id="submenu-artists">
-    <div class="row">
-      <div class="col-sm-9 col-md-9 col-lg-9 col-xl-9">
-        <div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/andy-warhol" data-ga-event="click-nav:Andy Warhol"><img src="/assets/navigation/artists/andy-warhol-feea44c829a11108663146034280bd45173f94464cef97fa96ea0928fab26823.jpg" alt="Andy warhol" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/andy-warhol" data-ga-event="click-nav:Andy Warhol">Andy Warhol</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/pablo-picasso" data-ga-event="click-nav:Pablo Picasso"><img src="/assets/navigation/artists/pablo-picasso-75a2d2871d62718a9d9a2f39f6b534d2611cd2cb44c61ae2924ca270b73dc2ef.jpg" alt="Pablo picasso" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/pablo-picasso" data-ga-event="click-nav:Pablo Picasso">Pablo Picasso</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/jackson-pollock" data-ga-event="click-nav:Jackson Pollock"><img src="/assets/navigation/artists/jackson-pollock-465fe68292a92cd95f40cee26b8066d5c190c38db891f363adc0d1965d993987.jpg" alt="Jackson pollock" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/jackson-pollock" data-ga-event="click-nav:Jackson Pollock">Jackson Pollock</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/jean-michel-basquiat" data-ga-event="click-nav:Jean-Michel Basquiat"><img src="/assets/navigation/artists/jean-michel-basquiat-d46ff52a02c2dbe3c35e69850be2891efdceb6ae5b85f0f42cab2f5f2c845141.jpg" alt="Jean michel basquiat" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/jean-michel-basquiat" data-ga-event="click-nav:Jean-Michel Basquiat">Jean-Michel Basquiat</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/banksy" data-ga-event="click-nav:Banksy"><img src="/assets/navigation/artists/banksy-767d05e2f212e8df83124b1fb5eb1614541611cfd3b3567372572e5727fc1cda.jpg" alt="Banksy" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/banksy" data-ga-event="click-nav:Banksy">Banksy</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/l-s-lowry" data-ga-event="click-nav:LS Lowry"><img src="/assets/navigation/artists/l-s-lowry-248ba0c6247549a514ca412d224e2b5699529ea0593ae851dccb3f2d84b48705.jpg" alt="L s lowry" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/l-s-lowry" data-ga-event="click-nav:LS Lowry">LS Lowry</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/mark-rothko" data-ga-event="click-nav:Mark Rothko"><img src="/assets/navigation/artists/mark-rothko-cc8a3f8b798c9d32b70a587badc2a86253c17c6bb5df0d7bbf721b6b5f6316d1.jpg" alt="Mark rothko" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/mark-rothko" data-ga-event="click-nav:Mark Rothko">Mark Rothko</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/marion-mcconaghie" data-ga-event="click-nav:Marion McConaghie"><img src="/assets/navigation/artists/marion-mcconaghie-dafd926cda8e5990c1e0dbaa83c8bf3a1048feb3d3844f663c92a0bd3f48860e.jpg" alt="Marion mcconaghie" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/marion-mcconaghie" data-ga-event="click-nav:Marion McConaghie">Marion McConaghie</a></h3>
-    </div>
-  </div>
-</div>
-<div class="col-sm-6 col-md-6 col-lg-4 col-xl-4">
-  <div class="flag">
-    <div class="flag-img">
-      <a href="/prints/inaluxe" data-ga-event="click-nav:Inaluxe"><img src="/assets/navigation/artists/inaluxe-c6ac337d9d771e242df28644b385c2c7d712903da54757ee9efb1917e8453f16.jpg" alt="Inaluxe" width="40" height="40"></a>
-    </div>
-    <div class="flag-body">
-      <h3 class="text-overflow"><a href="/prints/inaluxe" data-ga-event="click-nav:Inaluxe">Inaluxe</a></h3>
-    </div>
-  </div>
+  <p class="header-strapline hide-xs hide-sm fl-md">Art prints &amp; frames, handmade in England since 1982</p>
 </div>
 
-      </div>
-
-      <div class="col-sm-3 col-md-3 col-lg-3 col-xl-3 card-item ghost-card">
-        <a href="/artists" class="unlink" data-ga-event="click-nav:All Artists">
-          <h5><img src="/assets/navigation/artists/all-artists-87a393fa3dc4bf32c206d9b261c5e2dff2985d17049b244b57dd2560b73bb581.png" alt="" class="nav-all-img">All Artists <i class="fa fa-angle-right"></i><small class="text-muted">over 7000</small></h5>
-        </a>
-      </div>
-
+      <nav class="text-center">
+  <div class="nav-container-wrapper">
+    <div class="nav-container l-container">
+      <span class="js-trigger-nav-overlay">
+        <div class="nav-item js-trigger-active" data-ga-event-label="art-prints">
+          <a href="/categories" class="unlink" data-ga-event="main-nav-item:art-prints">Art Prints <i class="fa fa-angle-down hide-xs hide-sm"></i></a>
+          <div class="nav-active-border"></div>
+<div class="mega-menu-panel l-container pa2 pr3">
+  <div class="l-grid">
+    <div class="col-md-3 nav-subnav-list">
+      <h5 class="ttu"><a data-ga-event="subnav-item:art-prints-submenu_contemporary" href="/prints/contemporary">Contemporary</a></h5>
+      <h5 class="ttu"><a data-ga-event="subnav-item:art-prints-submenu_modern-masters" href="/prints/modern-art">Modern Masters</a></h5>
+      <h5 class="ttu"><a data-ga-event="subnav-item:art-prints-submenu_museum-masters" href="/prints/classics-masters">Museum Masters</a></h5>
+      <h5 class="ttu"><a data-ga-event="subnav-item:art-prints-submenu_photography" href="/prints/photography">Photography</a></h5>
+      <h5 class="ttu"><a data-ga-event="subnav-item:art-prints-submenu_vintage" href="/prints/vintage-posters">Vintage</a></h5>
+      <h5 class="ttu"><a data-ga-event="subnav-item:art-prints-submenu_collections" href="/collections">Museums &amp; Archives</a></h5>
+      <h5 class="ttu"><a data-ga-event="subnav-item:art-prints-submenu_rare-limited" href="/prints/rare-limited">Rare &amp; Limited</a></h5>
+      <h5 class="ttu"><a data-ga-event="subnav-item:art-prints-submenu_gifts" href="/prints/gifts">Gifts</a></h5>
     </div>
 
-  </div>
-
-
-  <div class="submenu-child submenu-inspiration hide" id="submenu-inspiration">
-    <div class="l-grid l-grid-large" data-ga-event="blog-featured-post">
-      <div class="card-item feature-card col-sm-6 col-md-3 col-lg-3 col-xl-3">
-  <a href="/inspiration/category/meet-the-artist" data-ga-event="click-nav:Meet the Artist" class="unlink-white">
-    <div class="card-image" style="background-image: url('/assets/navigation/inspiration/meet-the-artist-667513bcecae0dfc299fec69fceb48dce56799fa080f55126fb312a7e4e66e0b.jpg')">
-      <div class="card-panel">
-        <div class="card-panel-details">
-            <div class="card-title"><h3>Meet the Artist</h3></div>
+    <div class="col-md-9 bg-gray-lighter nav-inner-panel">
+      <h5 class="ttu">Popular</h5>
+      <div class="l-grid">
+        <div class="col-md-5ths col-lg-3">
+          <ul>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_abstract" href="/prints/abstract">Abstract</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_floral" href="/prints/floral">Floral</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_figures" href="/prints/figures">Figures</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_landscape" href="/prints/landscape-seascape">Landscape/Seascape</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_cityscapes" href="/prints/cityscape">Cityscapes</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_seascape" href="/prints/seascape">Seascape</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_fashion" href="/prints/fashion">Fashion</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_movies-music" href="/prints/movies-music">Movies &amp; Music</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_travel" href="/prints/travel">Travel</a></li>
+          </ul>
         </div>
-        <div class="card-panel-bg"></div>
-      </div>
-    </div>
-  </a>
-</div>
-<div class="card-item feature-card col-sm-6 col-md-3 col-lg-3 col-xl-3">
-  <a href="/inspiration/category/ideas" data-ga-event="click-nav:Ideas" class="unlink-white">
-    <div class="card-image" style="background-image: url('/assets/navigation/inspiration/ideas-31fa46f305806796e3bb9c57dc41887d488af571ddc6b43d14972eacec64adc9.jpg')">
-      <div class="card-panel">
-        <div class="card-panel-details">
-            <div class="card-title"><h3>Ideas</h3></div>
+        <div class="col-md-5ths col-lg-3">
+          <ul>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_kids" href="/prints/childrens-posters">Kids</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_impressionism" href="/prints/impressionism">Impressionism</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_surrealism" href="/prints/surrealism">Surrealism</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_art-deco" href="/prints/art-deco">Art Deco</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_pop-art" href="/prints/pop-art">Pop Art</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_graphic-art" href="/prints/graphic-art">Graphic Art</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_street-art" href="/prints/street-art">Street Art</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_vogue" href="/prints/vogue">Vogue</a></li>
+            <li class="text-overflow"><a data-ga-event="subnav-item:art-prints-submenu_penguin" href="/prints/penguin">Penguin</a></li>
+          </ul>
         </div>
-        <div class="card-panel-bg"></div>
       </div>
+      <a href="/categories" class="btn btn-ghost-dark" data-ga-event="subnav-item:art-prints-submenu_see-all-link">More categories <i class="fa fa-angle-right"></i></a>
     </div>
-  </a>
-</div>
-<div class="card-item feature-card col-sm-6 col-md-3 col-lg-3 col-xl-3">
-  <a href="/inspiration/category/introducing" data-ga-event="click-nav:Introducing" class="unlink-white">
-    <div class="card-image" style="background-image: url('/assets/navigation/inspiration/introducing-475bebb0dd8b95fc00272778e290f394d9e50c54596c58685d228f0c63840dc0.jpg')">
-      <div class="card-panel">
-        <div class="card-panel-details">
-            <div class="card-title"><h3>Introducing</h3></div>
-        </div>
-        <div class="card-panel-bg"></div>
-      </div>
-    </div>
-  </a>
+  </div>
 </div>
 
+        </div>
+        <div class="nav-item js-trigger-active" data-ga-event-label="artists">
+          <a href="/artists" class="unlink" data-ga-event="main-nav-item:artists">Artists <i class="fa fa-angle-down hide-xs hide-sm"></i></a>
+          <div class="nav-active-border"></div>
+<div class="mega-menu-panel l-container pa2">
+  <div class="l-grid">
+    <div class="col-md-5ths col-lg-5ths col-xl-5ths pt3">
+      <h5 class="ttu"><a data-ga-event="subnav-item:artists-submenu_contemporary" href="/prints/contemporary">Contemporary <i class="fa fa-angle-right"></i></a></h5>
+      <ul>
+        <li><a data-ga-event="subnav-item:artists-submenu_bluebellgray" href="/prints/bluebellgray">bluebellgray</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_hannah-cole" href="/prints/hannah-cole">Hannah Cole</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_inaluxe" href="/prints/inaluxe">Inaluxe</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_kathy-ramsay-carr" href="/prints/kathy-ramsay-carr">Kathy Ramsay Carr</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_marion-mcconaghie" href="/prints/marion-mcconaghie">Marion McConaghie</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_michelle-collins" href="/prints/michelle-collins">Michelle Collins</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_ron-lawson" href="/prints/ron-lawson">Ron Lawson</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_kelly-hall" href="/prints/kelly-hall">Kelly Hall</a></li>
+      </ul>
+    </div>
+    <div class="col-md-5ths col-lg-5ths col-xl-5ths pt3">
+      <h5 class="ttu"><a data-ga-event="subnav-item:artists-submenu_photography" href="/prints/photography">Photography <i class="fa fa-angle-right"></i></a></h5>
+      <ul>
+        <li><a data-ga-event="subnav-item:artists-submenu_deborah-schenck" href="/prints/deborah-schenck">Deborah Schenck</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_doug-chinnery" href="/prints/doug-chinnery">Doug Chinnery</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_henry-clarke" href="/prints/henry-clarke">Henry Clarke</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_henry-reichold" href="/prints/henry-reichhold">Henry Reichold</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_john-french" href="/prints/john-french">John French</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_jean-guichard" href="/prints/jean-guichard">Jean Guichard</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_niki-gorick" href="/prints/niki-gorick">Niki Gorick</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_robert-cadloff" href="/prints/robert-cadloff">Robert Cadloff</a></li>
+      </ul>
+    </div>
+    <div class="col-md-5ths col-lg-5ths col-xl-5ths pt3">
+      <h5 class="ttu"><a data-ga-event="subnav-item:artists-submenu_modern-masters" href="/prints/modern-art">Modern Masters <i class="fa fa-angle-right"></i></a></h5>
+      <ul>
+        <li><a data-ga-event="subnav-item:artists-submenu_andy-warhol" href="/prints/andy-warhol">Andy Warhol</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_henri-matisse" href="/prints/henri-matisse">Henri Matisse</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_jackson-pollock" href="/prints/jackson-pollock">Jackson Pollock</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_jean-michel-basquiat" href="/prints/jean-michel-basquiat">Jean-Michel Basquiat</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_keith-haring" href="/prints/keith-haring">Keith Haring</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_mark-rothko" href="/prints/mark-rothko">Mark Rothko</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_pablo-picasso" href="/prints/pablo-picasso">Pablo Picasso</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_salvador-dali" href="/prints/salvador-dali">Salvador Dali</a></li>
+      </ul>
+    </div>
+    <div class="col-md-5ths col-lg-5ths col-xl-5ths pt3">
+      <h5 class="ttu"><a data-ga-event="subnav-item:artists-submenu_museum-masters" href="/prints/classics-masters">Museum Masters <i class="fa fa-angle-right"></i></a></h5>
+      <ul>
+        <li><a data-ga-event="subnav-item:artists-submenu_claude-monet" href="/prints/claude-monet">Claude Monet</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_edgar-degas" href="/prints/edgar-degas">Edgar Degas</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_gustav-klimt" href="/prints/gustav-klimt">Gustav Klimt</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_joseph-mallord-william-turner" href="/prints/joseph-mallord-william-turner">JMW Turner</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_leonardo-da-vinci" href="/prints/leonardo-da-vinci">Leonardo Da Vinci</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_pierre-auguste-renoir" href="/prints/pierre-auguste-renoir">Pierre Auguste Renoir</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_vincent-van-gogh" href="/prints/vincent-van-gogh">Vincent Van Gogh</a></li>
+        <li><a data-ga-event="subnav-item:artists-submenu_william-morris" href="/prints/william-morris">William Morris</a></li>
+      </ul>
+    </div>
+    <div class="col-md-5ths col-lg-5ths col-xl-5ths pt3">
+      <h5 class="ttu">New &amp; Trending</h5>
+      <div class="mb2 ">
+  <div class="flag">
+    <div class="flag-img">
+      <a href="/prints/michelle-collins" data-ga-event="nav-card:michelle-collins"><img src="/assets/navigation/artists/new-trending-michelle-collins-c691c6ee9fb1e7c47e2d036eb582f9338bdb58acf8fade1f8a9fb32c6e4bbbb6.jpg" alt="New trending michelle collins" width="40" height="40"></a>
+    </div>
+    <div class="flag-body">
+      <h3 class="text-overflow"><a href="/prints/michelle-collins" data-ga-event="nav-card:michelle-collins">Michelle Collins</a></h3>
+    </div>
+  </div>
+</div>
 
-      <div class="col-sm-6 col-md-3 col-lg-3 col-xl-3 card-item ghost-card">
-        <a href="/inspiration" class="unlink" data-ga-event="click-nav:All Articles">
-          <h5><img src="/assets/navigation/inspiration/all-articles-7506860cdc55a2feb7ae7fb82b5ac449ad0d9d56ea306e274bb90fe0b851f995.png" alt="" class="nav-all-img">All Articles <i class="fa fa-angle-right"></i><small class="text-muted">Read the Blog</small></h5>
-        </a>
-      </div>
+      <div class="mb2 ">
+  <div class="flag">
+    <div class="flag-img">
+      <a href="/prints/veebee" data-ga-event="nav-card:veebee"><img src="/assets/navigation/artists/new-trending-veebee-48bb1603f9c9bd7062d09de30fbd78a9f92ae3fdacadba2e6f57fc3607079293.jpg" alt="New trending veebee" width="40" height="40"></a>
+    </div>
+    <div class="flag-body">
+      <h3 class="text-overflow"><a href="/prints/veebee" data-ga-event="nav-card:veebee">VeeBee</a></h3>
+    </div>
+  </div>
+</div>
+
+      <div class="mb2 ">
+  <div class="flag">
+    <div class="flag-img">
+      <a href="/prints/jean-michel-basquiat" data-ga-event="nav-card:jean-michel-basquiat"><img src="/assets/navigation/artists/new-trending-jean-michel-basquiat-d620cd26e6f749cd38e099ab5a57b57c4a74d9f8114581dfe46d0308150dfa1d.jpg" alt="New trending jean michel basquiat" width="40" height="40"></a>
+    </div>
+    <div class="flag-body">
+      <h3 class="text-overflow"><a href="/prints/jean-michel-basquiat" data-ga-event="nav-card:jean-michel-basquiat">Jean-Michel Basquiat</a></h3>
+    </div>
+  </div>
+</div>
 
     </div>
   </div>
-
+  <div class="text-right">
+    <a href="/artists" class="btn btn-ghost-dark" data-ga-event="subnav-item:artists-submenu_see-all-link">All artists <i class="fa fa-angle-right"></i></a>
+  </div>
 </div>
 
+        </div>
+        <div class="nav-item js-trigger-active" data-ga-event-label="inspiration">
+          <a href="/inspiration" class="unlink" data-ga-event="main-nav-item:inspiration">Inspiration <i class="fa fa-angle-down hide-xs hide-sm"></i></a>
+          <div class="nav-active-border"></div>
+<div class="mega-menu-panel inspiration-mega-menu-panel l-container pa2 pr3">
+  <div class="l-grid">
+    <div class="col-md-2 col-lg-2 col-xl-2 pt3">
+      <h5 class="ttu"><a data-ga-event="subnav-item:inspiration-submenu_art-by-room" href="/inspiration/art-by-room">Art by room <i class="fa fa-angle-right"></i></a></h5>
+      <ul>
+        <li><a data-ga-event="subnav-item:inspiration-submenu_living-room" href="/inspiration/art-by-room/living-rooms">Living Room</a></li>
+        <li><a data-ga-event="subnav-item:inspiration-submenu_bedroom" href="/inspiration/art-by-room/bedrooms">Bedroom</a></li>
+        <li><a data-ga-event="subnav-item:inspiration-submenu_kitchen" href="/inspiration/art-by-room/kitchens">Kitchen</a></li>
+        <li><a data-ga-event="subnav-item:inspiration-submenu_study" href="/inspiration/art-by-room/studies">Study</a></li>
+        <li><a data-ga-event="subnav-item:inspiration-submenu_hallway" href="/inspiration/art-by-room/hallways">Hallway</a></li>
+        <li><a data-ga-event="subnav-item:inspiration-submenu_bathroom" href="/inspiration/art-by-room/bathrooms">Bathroom</a></li>
+        <li><a data-ga-event="subnav-item:inspiration-submenu_kids" href="/inspiration/art-by-room/kids">Kids</a></li>
+        <li><a data-ga-event="subnav-item:inspiration-submenu_nurseries" href="/inspiration/art-by-room/nurseries">Nurseries</a></li>
+        <li><a data-ga-event="subnav-item:inspiration-submenu_teenagers" href="/inspiration/art-by-room/teenagers">Teenagers</a></li>
+      </ul>
+    </div>
+    <div class="col-md-4 col-lg-4 col-xl-4 pt3">
+      <h5 class="ttu"><a data-ga-event="subnav-item:inspiration-submenu_the-edit" href="/edits">The Edit <i class="fa fa-angle-right"></i></a></h5>
+      <div class="l-grid">
+        <div class="col-md-6 col-lg-6 col-xl-6">
+          <ul>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_culture-vulture" href="/edits/culture-vulture">Culture Vulture</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_oriental" href="/edits/oriental">Oriental</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_romantics" href="/edits/romantics">Romantics</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_design-heads" href="/edits/design-heads">Design Heads</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_fashionista" href="/edits/fashionista">Fashionista</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_collector" href="/edits/collector">Collectors</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_vintage-enthusiast" href="/edits/vintage-enthusiast">Vintage Enthusiast</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_abstract" href="/edits/abstract-colour">Abstract</a></li>
+          </ul>
+        </div>
+        <div class="col-md-6 col-lg-6 col-xl-6">
+          <ul>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_pop-art" href="/edits/warhol-haring-basquiat">Pop Art</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_scandi" href="/edits/scandi">Scandi</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_coastal" href="/edits/coastal">Coastal</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_mid-century-modern" href="/edits/mid-century-modern">Mid-Century Modern</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_urban-loft" href="/edits/urban-loft">Urban Loft</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_modern-garden" href="/edits/modern-garden">Modern Garden</a></li>
+            <li><a data-ga-event="subnav-item:inspiration-submenu_modern-rustic" href="/edits/modern-rustic">Modern Rustic</a></li>
+          </ul>
+        </div>
+      </div>
+    </div>
+    <div class="col-md-6 col-lg-6 col-xl-6 bg-gray-lighter nav-inner-panel inspo-nav-inner-panel">
+      <div class="l-grid">
+        <div class="col-md-7 col-lg-7 col-xl-7 text-center pt4 pr0 pb4 pl0">
+          <h5 class="ttu">Art inspiration for stylish living</h5>
+          <p>Discover the latest interior trends, artist interviews, gift ideas and tips on decorating with art.</p>
+          <a href="/inspiration" class="btn btn-ghost-dark">Inspire me</a>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        </div>
+      </span>
+      <div class="nav-item frames-nav-item no-menu">
+        <a href="/frames" class="unlink" data-ga-event="main-nav-item:frames">Frames</a>
+      </div>
+      <div class="nav-item heals-nav-item no-menu">
+        <a href="/heals" class="unlink" data-ga-event="main-nav-item:heals">Visit our shop<span class="nav-new-label">New</span></a>
+      </div>
+
+
+      <div class="search-form hide-xs hide-sm fr-md">
+        <form action="/prints" method="get" autocomplete="off" id="search-form">
+          <div role="search">
+            <div class="input-group">
+              <input class="search-query form-control" type="search" name="s" placeholder="Search" data-ga-event="search-form-focus">
+              <div class="input-group-btn"><button type="submit" class="btn" data-ga-event="search-form-submit"><i class="fa fa-search"></i></button></div>
+            </div>
+          </div>
+        </form>
+      </div>
+
+      <hr class="nav-bottom-border hide">
+
+    </div>
+
+    <div class="nav-fade hide-sm hide-md hide-lg hide-xl"><i class="fa fa-angle-right mr2"></i></div>
+  </div>
+
+  <div class="nav-overlay"></div>
+</nav>
 
 
   
@@ -426,41 +386,66 @@
   
 <div class="l-container">
 
-  <ul class="breadcrumb" itemscope="" itemtype="http://schema.org/BreadcrumbList">
-  <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
-    <a itemprop="item" href="https://www.kingandmcgaw.com">
-      <span itemprop="name">Home</span>
-    </a>
-    <meta itemprop="position" content="1">
-  </li>
-    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+  <ul class="breadcrumb pv1 pv2-md mb4 ">
+  <li class="dib"><a href="https://www.kingandmcgaw.com">Home</a></li>
+    <li class="dib">
       <i class="fa fa-angle-right"></i>
-        <a itemprop="item" href="https://www.kingandmcgaw.com/help">
-          <span itemprop="name">Help</span>
+        <a href="https://www.kingandmcgaw.com/help">
+          Help
         </a>
-      <meta itemprop="position" content="2">
     </li>
-    <li itemprop="itemListElement" itemscope="" itemtype="http://schema.org/ListItem">
+    <li class="dib">
       <i class="fa fa-angle-right"></i>
-        <span itemprop="item">
-          <span itemprop="name">Privacy</span>
-        </span>
-      <meta itemprop="position" content="3">
+        Privacy
     </li>
 </ul>
 
+<script type="application/ld+json">
+  {
+    "@context": "http://schema.org",
+    "@type": "BreadcrumbList",
+    "itemListElement": [
+      {
+        "@type": "ListItem",
+        "position": 1,
+        "item": {
+          "@id": "https://www.kingandmcgaw.com",
+          "name": "Home"
+        }
+      }
+      ,{
+        "@type": "ListItem",
+        "position": "2",
+        "item": {
+          "@id": "https://www.kingandmcgaw.com/help",
+          "name": "Help"
+        }
+      }
+      ,{
+        "@type": "ListItem",
+        "position": "3",
+        "item": {
+          "@id": "https://www.kingandmcgaw.com/help/privacy",
+          "name": "Privacy"
+        }
+      }
+    ]
+  }
+</script>
 
-  <div class="sidebar">
-    <ul>
+
+  <div class="l-grid">
+    <div class="col-md-3">
+  <ul>
   <li><h4 class="heading-divider"><a href="/help">Help</a></h4></li>
   <li><a rel="nofollow" href="/contact">Contact us</a></li>
   <li><a rel="nofollow" href="/help/shipping">Shipping</a></li>
   <li><a rel="nofollow" href="/help/returns">Returns</a></li>
   <li><a rel="nofollow" href="/trade/business">Business buyers</a></li>
-  <li><a rel="nofollow" target="_blank" href="http://www.reviews.co.uk/company-reviews/store/king-and-mcgaw">Reviews</a></li>
+  <li><a rel="nofollow" target="_blank" href="https://www.reviews.co.uk/company-reviews/store/king-and-mcgaw">Reviews</a></li>
 </ul>
 
-<ul>
+  <ul>
   <li><h4 class="heading-divider"><a href="/about">About us</a></h4></li>
   <li><a rel="nofollow" href="/about">About King &amp; McGaw</a></li>
   <li><a rel="nofollow" href="/help/environment">Environment</a></li>
@@ -468,268 +453,248 @@
   <li><a rel="nofollow" href="/help/price-promise">Price promise</a></li>
   <li><a rel="nofollow" href="/help/privacy">Privacy &amp; cookies</a></li>
   <li><a rel="nofollow" href="/help/terms">Terms &amp; conditions</a></li>
-  <li><a rel="nofollow" href="/help/jobs">Jobs</a></li>
+  <li><a rel="nofollow" href="/help/careers">Careers</a></li>
 </ul>
 
-    <ul>
+  <ul>
   <li><h4 class="heading-divider"><a href="/guides">Guides</a></h4></li>
   <li><a href="/guides/how-to-choose-an-art-print">How to choose an art print</a></li>
+  <li><a href="/guides/how-to-choose-a-frame">How to choose a frame</a></li>
+  <li><a href="/guides/frame-your-picture">How to fit your picture into your frame</a></li>
   <li><a href="/guides/how-to-hang-your-art">How to hang your art</a></li>
   <li><a href="/guides/how-to-take-care-of-your-art">How to take care of your art</a></li>
-  <li><a href="/guides/how-to-choose-a-frame">How to choose a frame</a></li>
   <li><a href="/guides/how-are-king-and-mcgaw-art-prints-printed">How are King &amp; McGaw art prints printed</a></li>
-  <li><a href="/guides/what-is-a-custom-frame">What is a custom frame</a></li>
-  <li><a href="/guides/what-is-an-art-print">What is an art print</a></li>
-  <li><a href="/guides/what-is-canvas-art">What is canvas art</a></li>
+  <li><a href="/guides/what-is-a-custom-frame">What is a custom frame?</a></li>
+  <li><a href="/guides/what-is-an-art-print">What is an art print?</a></li>
+  <li><a href="/guides/what-is-canvas-art">What is canvas art?</a></li>
 </ul>
 
+</div>
+
+
+    <div class="col-md-9">
+      <h1>King &amp; McGaw privacy policy</h1>
+      <h2>Effective Date: 01 February 2011</h2>
+
+      <h3 class="heading-divider">Privacy Policy</h3>
+      <p>King &amp; McGaw ("We") are committed to protecting and respecting your privacy.</p>
+      <p>Our Privacy Policy is designed to assist you, businesses, consumers and the general public, in understanding how we collect and use the personal information you give us. It sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. We also want to help you make informed decisions when using our web site and all of our related services therein. </p>
+      <p>Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using our website your consent to our collection and use of your personal information as described in this Privacy Policy.</p>
+
+      <h3 class="heading-divider">Contact Information</h3>
+      <p>To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us at <a href="mailto:customercare@kingandmcgaw.com">customercare@kingandmcgaw.com</a>.</p>
+      <h4>Address</h4>
+      <ul>
+        <li>King &amp; McGaw</li>
+        <li>Unit 12 E Plan Estate</li>
+        <li>New Road</li>
+        <li>Newhaven</li>
+        <li>Sussex</li>
+        <li>BN9 0EX</li>
+      </ul>
+      <h4>Telephone:</h4>
+      <ul>
+        <li>01273 511 942</li>
+        <li>+44 (0)1273 511 942 from outside the UK</li>
+      </ul>
+      <h4>Email:</h4>
+      <p><a href="mailto:customercare@kingandmcgaw.com">customercare@kingandmcgaw.com</a></p>
+
+      <h3 class="heading-divider">What Information Do We Collect?</h3>
+      <p>We may collect and process the following data items related to you:</p>
+      <ol>
+        <li>Information that you provide by filling in forms on our site www.kingandmcgaw.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.</li>
+        <li>If you contact us, we may keep a record of that correspondence.</li>
+        <li>King &amp; McGaw may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
+        <li>Details of transactions you carry out through our site and of the fulfilment of your orders.</li>
+        <li>Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</li>
+      </ol>
+
+      <h3 class="heading-divider">How Do We Use the Information That You Provide to Us?</h3>
+      <p>We use information held about you in the following ways:</p>
+      <ol>
+        <li>To ensure that content from our site is presented in the most effective manner for you and for your computer.</li>
+        <li>To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.</li>
+        <li>To carry out our obligations arising from any contracts entered into between you and us.</li>
+        <li>To allow you to participate in interactive features of our service, when you choose to do so.</li>
+        <li>To notify you about changes to our service.</li>
+      </ol>
+      <p>If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.</p>
+      <p>If you do not want us to use your data in this way, please opt-out as directed below.</p>
+      <h2>Personal Information You Choose to Provide</h2>
+
+      <h3 class="heading-divider">Registration Information</h3>
+      <p>You will provide us information about yourself, your firm or company, and your practices when you register to be a user of our services, register for certain services, or register for email newsletters and alerts.</p>
+
+      <h3 class="heading-divider">Email Information</h3>
+      <p>If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. If you use our "Email this page" feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient's email address will not be used for any other purpose.</p>
+
+      <h3 class="heading-divider">Disclosure of your information</h3>
+      <p>We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
+
+      <h3 class="heading-divider">We may disclose your personal information to third parties:</h3>
+      <ul>
+        <li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
+        <li>If King &amp; McGaw or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
+        <li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or <a href="/help/terms">terms and conditions of supply</a> and other agreements; or to protect the rights, property, or safety of King &amp; McGaw, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
+      </ul>
+
+      <h3 class="heading-divider">Choice/Opt-out</h3>
+      <p>If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by using the opt-out mechanism on the User Account Settings Web page, or by sending an e-mail with the subject line "Unsubscribe" to our e-mail address - see above.</p>
+
+      <h3 class="heading-divider">Sharing Information with Third Parties</h3>
+      <p>We use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these business operations, our partners and other third parties may have access to your personal information for use in connection with business activities.</p>
+      <h2>How Do We Protect Your Information?</h2>
+
+      <h3 class="heading-divider">Secure Information Transmissions</h3>
+      <p>Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 256 bit encryption services. Pages utilizing this technology will have URL's that start with HTTPS instead of HTTP. Please contact us on 01273 511 942 (+44 (0)1273 511 942 Outside UK) if you have any questions or concerns.</p>
+      <p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
+      <p>Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
+
+      <h3 class="heading-divider">Your rights</h3>
+      <p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at <a href="mailto:customercare@kingandmcgaw.com">customercare@kingandmcgaw.com</a>.</p>
+      <p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.</p>
+
+      <h3 class="heading-divider">How Can You Access and Correct Your Information?</h3>
+      <p>The Act gives you the right to access information held about you. You may request access to all your personally identifiable information that we collect online and maintain in our database by contacting us (contact information above). Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
+
+      <h3 class="heading-divider">Changes to our privacy policy</h3>
+      <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
+
+      <h3 class="heading-divider">Contact</h3>
+      <p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="mailto:customercare@kingandmcgaw.com">customercare@kingandmcgaw.com</a>.</p>
+
+
+      <h2>Cookies: Information and Policy</h2>
+      <p>King &amp; McGaw's websites use cookies. Cookies are pieces of code that allow small amounts of information to be passed from your internet browser to our web server. King &amp; McGaw use our own cookies, as well as those from third parties, serving several purposes. They allow us to remember whether you are logged in to the site, to remember what items you had in your shopping basket, to serve you with content tailored specifically for you and to help us learn about how you like to use our website and where we can make it better.</p>
+      <p>King &amp; McGaw will never disclose your personal details to any third parties. All data passed by cookies is anonymous and will never contain your name, address, telephone number, email address, IP address or payment details.</p>
+      <p>You can learn more about cookies, how we use them, how to manage them and about our third party partnerships below.</p>
+
+      <h3 class="heading-divider">What is a cookie?</h3>
+      <p>Cookies are small text files that are created by your browser and placed on your computer or browsing device, at the request of websites that you visit. Cookies allow websites to recognise your computer or web browser. They can help to analyse which products or parts of a website you looked at, and how long for.</p>
+      <p>Websites may also use web beacons or 'tags' to do a similar job. Like cookies, web beacons are used to collect non-personal information about the way you browse websites. An example of this could be remembering what products you placed in your shopping basket last time you visited.</p>
+      <p>A web beacon is a transparent graphic image that is placed on a website or in an email and is used to see when that web page or email has been displayed.</p>
+      <p>Third party cookies and web beacons can also be used to help present you with appropriate offers and advertising as you browse other sites on the internet.</p>
+      <p>Note:</p>
+      <ul>
+        <li>Cookies and web beacons are not able to retrieve any information from your computer that you have not already given to a website.</li>
+        <li>Cookies and web beacons are not able to be used to put malware or viruses on your computer.</li>
+        <li>Cookies and web beacons are not able to be used to control the functionality or settings of your computer or web browsing device.</li>
+      </ul>
+
+      <h3 class="heading-divider">Why does King &amp; McGaw use cookies?</h3>
+      <p>Cookies allow us to present you with relevant products and services that are based on the way that you want to use our website, providing you with an enhanced browsing and shopping experience.</p>
+      <p>For example, cookies allow us to remember what products you placed in your shopping basket, whether you were logged in or not, and what language you were using to read the site last time you visited.</p>
+      <p>Cookies and web beacons allow us to work alongside our web analytics partner to see how our customers like to use our websites and which pages or special functions they prefer. This helps us to continually improve our service.</p>
+      <p>Third party cookies and web beacons are also used with our marketing partners to present you with appropriate offers and advertising as you browse other sites on the internet, based on the products you looked at while on our site.</p>
+      <p>Note:</p>
+      <ul>
+        <li>King &amp; McGaw's cookies and those of our third party partners will never be used to collect any personal data. This includes your name, address, telephone number, email address, credit card information or any other payment details.</li>
+      </ul>
+
+      <h3 class="heading-divider">Turning off and deleting cookies</h3>
+      <p>Most web browsers will provide the option to disallow cookies and web beacons. How you do this depends on the web browser you're using. Instructions for disallowing cookies can usually be found in the browser's 'Help' menu.</p>
+      <p>Cookies can also be deleted using your internet browser. However, unless they are disallowed they will be re-applied the next time you visit a website.</p>
+      <p>Note:</p>
+      <ul>
+        <li>In common with most other transactional websites, refusing cookies via your web browser will mean that you are unable to make a transactional purchase on King &amp; McGaw's websites. You will also find that the functionality of many other websites and services will be affected.</li>
+      </ul>
+      <p>Disallowing cookies will prevent web beacons from tracking your specific activity online. However, web beacons may still record anonymous data from your IP address.</p>
+      <p>For more detailed information about cookies and web beacons please visit <a target="_blank" href="http://allaboutcookies.org">www.allaboutcookies.org</a>.</p>
+
+      <h3 class="heading-divider">Where exactly do King &amp; McGaw use cookies?</h3>
+      <p>Cookies are used by all King &amp; McGaw transactional websites.</p>
+      <p>There are two types of cookie that may be used during your visit to an King &amp; McGaw website:</p>
+
+      <h3 class="heading-divider">1. Session cookies</h3>
+      <p>Session cookies are deleted after each 'session'. For example, when you are browsing an King &amp; McGaw website, it will remember you for the duration of your visit, but the cookie will be removed from your computer as soon as you close down your internet browser.</p>
+      <p>Without a session cookie, every time you open a new web page the web server where that page is stored will treat you like a completely new visitor and items placed in your shopping basket will disappear by the time you reach the checkout.</p>
+
+      <h3 class="heading-divider">2. Persistent cookies</h3>
+      <p>Persistent cookies remember you for a set period of time (unless you delete them).</p>
+      <p>On your first visit to an King &amp; McGaw site, you will be presented the site in a default manner. Over time, the version of the site you see may change, as persistent cookies remember items you have viewed, preference changes you have made, or whether you logged into or out of your account while browsing.</p>
+      <p>Here is a list of the different types of cookies used by King &amp; McGaw:</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Cookie purpose</th>
+            <th>Cookie type</th>
+            <th>Summary</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr>
+            <td>Transaction</td>
+            <td>Session cookie</td>
+            <td>Used to maintain your transaction with King &amp; McGaw and minimise the need to transfer your information across the internet.</td>
+          </tr>
+          <tr>
+            <td>Navigation</td>
+            <td>Last viewed product</td>
+            <td>Used to help you return to the last viewed product, for instance after adding an item to the cart.</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3 class="heading-divider">King &amp; McGaw third party marketing partner cookies</h3>
+      <p>King &amp; McGaw work with several partners who serve advertisements on our behalf. Most of these third party marketing sites use both session and persistent cookies.</p>
+      <p>All data collected by these third parties is anonymous and will never contain your name, address, telephone number, email address or payment details. You can delete your cookies at any time from any of the third party marketing sites and technology partners mentioned below. King &amp; McGaw will never disclose your personal details to third parties without your permission.</p>
+      <p>More information on King &amp; McGaw's third party, network and supplier relationships - and the King &amp; McGaw websites to which they apply can be found below.</p>
+      <table>
+        <thead>
+          <tr>
+            <th>Partner</th>
+            <th>kingandmcgaw.com</th>
+            <th>easyart.fr</th>
+            <th>easyart.de</th>
+            <th>easyart.se</th>
+        </tr></thead>
+        <tbody>
+          <tr>
+            <td>Triggered Messaging</td>
+            <td>×</td>
+            <td></td>
+            <td></td>
+            <td></td>
+          </tr>
+          <tr>
+            <td>Google</td>
+            <td>×</td>
+            <td>×</td>
+            <td>×</td>
+            <td>×</td>
+          </tr>
+          <tr>
+            <td>Yahoo!</td>
+            <td>×</td>
+            <td>×</td>
+            <td>×</td>
+            <td>×</td>
+          </tr>
+          <tr>
+            <td>MSN/Bing</td>
+            <td>×</td>
+            <td>×</td>
+            <td>×</td>
+            <td>×</td>
+          </tr>
+        </tbody>
+      </table>
+
+      <h3 class="heading-divider">Triggered Messaging</h3>
+      <p>Places a cookie on the computers of vistors to help us better understand browsing and send more tailored and relevant communications.</p>
+
+      <h3 class="heading-divider">Google</h3>
+      <p>Google uses cookies to serve you relevant advertisements based on your recent searches and browsing behaviour on our website.</p>
+
+      <h3 class="heading-divider">Yahoo!</h3>
+      <p>Yahoo! use cookies across their advertising products and their third party advertising network. Yahoo! may set and access Yahoo! cookies on your computer. Yahoo! use web beacons to access Yahoo! cookies inside and outside of their network of websites and in connection with Yahoo! products and services.</p>
+
+      <h3 class="heading-divider">MSN / Bing</h3>
+      <p>Bing search use cookies across their advertising products. When you use Bing Search they place a cookie on your machine which contains a unique identifier known as a 'Search ID'. If you have previously signed into a Microsoft site or service using a Windows Live ID, King &amp; McGaw can also read one or more additional unique identifiers contained in other Microsoft cookies when you conduct a search.</p>
+    </div>
   </div>
 
-  <div class="content-area">
-    <h1>King &amp; McGaw privacy policy</h1>
-    <h2>Effective Date: 01 February 2011</h2>
-
-    <h3>Privacy Policy</h3>
-    <p>King &amp; McGaw ("We") are committed to protecting and respecting your privacy.</p>
-    <p>Our Privacy Policy is designed to assist you, businesses, consumers and the general public, in understanding how we collect and use the personal information you give us. It sets out the basis on which any personal data we collect from you, or that you provide to us, will be processed by us. We also want to help you make informed decisions when using our web site and all of our related services therein. </p>
-    <p>Please read the following carefully to understand our views and practices regarding your personal data and how we will treat it. By using our website your consent to our collection and use of your personal information as described in this Privacy Policy.</p>
-
-    <h3>Contact Information</h3>
-    <p>To request a correction or deletion of your private information, or if you have any questions and general comments about this privacy policy, please contact us at <a href="mailto:customercare@kingandmcgaw.com">customercare@kingandmcgaw.com</a>.</p>
-    <h4>Address</h4>
-    <span class="postal-address" itemscope="" itemtype="http://schema.org/Organization">
-      <span itemprop="name">King &amp; McGaw</span><br>
-      <p itemprop="address" itemscope="" itemtype="http://schema.org/PostalAddress">
-        <span itemprop="streetAddress">Unit 12 E Plan Estate</span><br>
-        <span itemprop="streetAddress">New Road</span><br>
-        <span itemprop="addressLocality">Newhaven</span><br>
-        <span itemprop="addressRegion">Sussex</span><br>
-        <span itemprop="postalCode">BN9 0EX</span><br>
-      </p>
-    </span>
-    <h4>Telephone:</h4>
-    <ul>
-      <li>01273 511 942</li>
-      <li>+44 (0)1273 511 942 from outside the UK</li>
-    </ul>
-    <h4>Email:</h4>
-    <p><a href="mailto:customercare@kingandmcgaw.com">customercare@kingandmcgaw.com</a></p>
-
-    <h3>What Information Do We Collect?</h3>
-    <p>We may collect and process the following data items related to you:</p>
-    <ol>
-      <li>Information that you provide by filling in forms on our site www.kingandmcgaw.com (our site). This includes information provided at the time of registering to use our site, subscribing to our service, posting material or requesting further services. We may also ask you for information when you report a problem with our site.</li>
-      <li>If you contact us, we may keep a record of that correspondence.</li>
-      <li>King &amp; McGaw may also ask you to complete surveys that we use for research purposes, although you do not have to respond to them.</li>
-      <li>Details of transactions you carry out through our site and of the fulfilment of your orders.</li>
-      <li>Details of your visits to our site including, but not limited to, traffic data, location data, weblogs and other communication data, whether this is required for our own billing purposes or otherwise and the resources that you access.</li>
-    </ol>
-
-    <h3>How Do We Use the Information That You Provide to Us?</h3>
-    <p>We use information held about you in the following ways:</p>
-    <ol>
-      <li>To ensure that content from our site is presented in the most effective manner for you and for your computer.</li>
-      <li>To provide you with information, products or services that you request from us or which we feel may interest you, where you have consented to be contacted for such purposes.</li>
-      <li>To carry out our obligations arising from any contracts entered into between you and us.</li>
-      <li>To allow you to participate in interactive features of our service, when you choose to do so.</li>
-      <li>To notify you about changes to our service.</li>
-    </ol>
-    <p>If you are an existing customer, we will only contact you by electronic means (e-mail or SMS) with information about goods and services similar to those which were the subject of a previous sale to you.</p>
-    <p>If you do not want us to use your data in this way, please opt-out as directed below.</p>
-    <h2>Personal Information You Choose to Provide</h2>
-
-    <h3>Registration Information</h3>
-    <p>You will provide us information about yourself, your firm or company, and your practices when you register to be a user of our services, register for certain services, or register for email newsletters and alerts.</p>
-
-    <h3>Email Information</h3>
-    <p>If you choose to correspond with us through email, we may retain the content of your email messages together with your email address and our responses. If you use our "Email this page" feature to send a copy of that page to someone else, your email address will appear as the sender of the email. Both your email address and the recipient's email address will not be used for any other purpose.</p>
-
-    <h3>Disclosure of your information</h3>
-    <p>We may disclose your personal information to any member of our group, which means our subsidiaries, our ultimate holding company and its subsidiaries, as defined in section 1159 of the UK Companies Act 2006.</p>
-
-    <h3>We may disclose your personal information to third parties:</h3>
-    <ul>
-      <li>In the event that we sell or buy any business or assets, in which case we may disclose your personal data to the prospective seller or buyer of such business or assets.</li>
-      <li>If King &amp; McGaw or substantially all of its assets are acquired by a third party, in which case personal data held by it about its customers will be one of the transferred assets.</li>
-      <li>If we are under a duty to disclose or share your personal data in order to comply with any legal obligation, or in order to enforce or apply our terms of use or <a href="/help/terms">terms and conditions of supply</a> and other agreements; or to protect the rights, property, or safety of King &amp; McGaw, our customers, or others. This includes exchanging information with other companies and organisations for the purposes of fraud protection and credit risk reduction.</li>
-    </ul>
-
-    <h3>Choice/Opt-out</h3>
-    <p>If you do not wish to receive any promotional or marketing e-mails and/or surface mail marketing letters, you may opt-out of receiving those communications by using the opt-out mechanism on the User Account Settings Web page, or by sending an e-mail with the subject line "Unsubscribe" to our e-mail address - see above.</p>
-
-    <h3>Sharing Information with Third Parties</h3>
-    <p>We use third parties to facilitate our business, including, but not limited to, sending email and processing credit card payments. In connection with these business operations, our partners and other third parties may have access to your personal information for use in connection with business activities.</p>
-    <h2>How Do We Protect Your Information?</h2>
-
-    <h3>Secure Information Transmissions</h3>
-    <p>Email is not recognized as a secure medium of communication. For this reason, we request that you do not send private information to us by email. Some of the information you may enter on our Web site may be transmitted securely via Secure Sockets Layer SSL, 256 bit encryption services. Pages utilizing this technology will have URL's that start with HTTPS instead of HTTP. Please contact us on 01273 511 942 (+44 (0)1273 511 942 Outside UK) if you have any questions or concerns.</p>
-    <p>Unfortunately, the transmission of information via the internet is not completely secure. Although we will do our best to protect your personal data, we cannot guarantee the security of your data transmitted to our site; any transmission is at your own risk. Once we have received your information, we will use strict procedures and security features to try to prevent unauthorised access.</p>
-    <p>Where we have given you (or where you have chosen) a password which enables you to access certain parts of our site, you are responsible for keeping this password confidential. We ask you not to share a password with anyone.</p>
-
-    <h3>Your rights</h3>
-    <p>You have the right to ask us not to process your personal data for marketing purposes. We will usually inform you (before collecting your data) if we intend to use your data for such purposes. You can exercise your right to prevent such processing by checking certain boxes on the forms we use to collect your data.  You can also exercise the right at any time by contacting us at <a href="mailto:customercare@kingandmcgaw.com">customercare@kingandmcgaw.com</a>.</p>
-    <p>Our site may, from time to time, contain links to and from the websites of our partner networks, advertisers and affiliates.  If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for these policies.  Please check these policies before you submit any personal data to these websites.</p>
-
-    <h3>How Can You Access and Correct Your Information?</h3>
-    <p>The Act gives you the right to access information held about you. You may request access to all your personally identifiable information that we collect online and maintain in our database by contacting us (contact information above). Your right of access can be exercised in accordance with the Act. Any access request may be subject to a fee of £10 to meet our costs in providing you with details of the information we hold about you.</p>
-
-    <h3>Changes to our privacy policy</h3>
-    <p>Any changes we may make to our privacy policy in the future will be posted on this page and, where appropriate, notified to you by e-mail.</p>
-
-    <h3>Contact</h3>
-    <p>Questions, comments and requests regarding this privacy policy are welcomed and should be addressed to <a href="mailto:customercare@kingandmcgaw.com">customercare@kingandmcgaw.com</a>.</p>
-
-
-    <h2>Cookies: Information and Policy</h2>
-    <p>King &amp; McGaw's websites use cookies. Cookies are pieces of code that allow small amounts of information to be passed from your internet browser to our web server. King &amp; McGaw use our own cookies, as well as those from third parties, serving several purposes. They allow us to remember whether you are logged in to the site, to remember what items you had in your shopping basket, to serve you with content tailored specifically for you and to help us learn about how you like to use our website and where we can make it better.</p>
-    <p>King &amp; McGaw will never disclose your personal details to any third parties. All data passed by cookies is anonymous and will never contain your name, address, telephone number, email address, IP address or payment details.</p>
-    <p>You can learn more about cookies, how we use them, how to manage them and about our third party partnerships below.</p>
-
-    <h3>What is a cookie?</h3>
-    <p>Cookies are small text files that are created by your browser and placed on your computer or browsing device, at the request of websites that you visit. Cookies allow websites to recognise your computer or web browser. They can help to analyse which products or parts of a website you looked at, and how long for.</p>
-    <p>Websites may also use web beacons or 'tags' to do a similar job. Like cookies, web beacons are used to collect non-personal information about the way you browse websites. An example of this could be remembering what products you placed in your shopping basket last time you visited.</p>
-    <p>A web beacon is a transparent graphic image that is placed on a website or in an email and is used to see when that web page or email has been displayed.</p>
-    <p>Third party cookies and web beacons can also be used to help present you with appropriate offers and advertising as you browse other sites on the internet.</p>
-    <p>Note:</p>
-    <ul>
-      <li>Cookies and web beacons are not able to retrieve any information from your computer that you have not already given to a website.</li>
-      <li>Cookies and web beacons are not able to be used to put malware or viruses on your computer.</li>
-      <li>Cookies and web beacons are not able to be used to control the functionality or settings of your computer or web browsing device.</li>
-    </ul>
-
-    <h3>Why does King &amp; McGaw use cookies?</h3>
-    <p>Cookies allow us to present you with relevant products and services that are based on the way that you want to use our website, providing you with an enhanced browsing and shopping experience.</p>
-    <p>For example, cookies allow us to remember what products you placed in your shopping basket, whether you were logged in or not, and what language you were using to read the site last time you visited.</p>
-    <p>Cookies and web beacons allow us to work alongside our web analytics partner to see how our customers like to use our websites and which pages or special functions they prefer. This helps us to continually improve our service.</p>
-    <p>Third party cookies and web beacons are also used with our marketing partners to present you with appropriate offers and advertising as you browse other sites on the internet, based on the products you looked at while on our site.</p>
-    <p>Note:</p>
-    <ul>
-      <li>King &amp; McGaw's cookies and those of our third party partners will never be used to collect any personal data. This includes your name, address, telephone number, email address, credit card information or any other payment details.</li>
-    </ul>
-
-    <h3>Turning off and deleting cookies</h3>
-    <p>Most web browsers will provide the option to disallow cookies and web beacons. How you do this depends on the web browser you're using. Instructions for disallowing cookies can usually be found in the browser's 'Help' menu.</p>
-    <p>Cookies can also be deleted using your internet browser. However, unless they are disallowed they will be re-applied the next time you visit a website.</p>
-    <p>Note:</p>
-    <ul>
-      <li>In common with most other transactional websites, refusing cookies via your web browser will mean that you are unable to make a transactional purchase on King &amp; McGaw's websites. You will also find that the functionality of many other websites and services will be affected.</li>
-    </ul>
-    <p>Disallowing cookies will prevent web beacons from tracking your specific activity online. However, web beacons may still record anonymous data from your IP address.</p>
-    <p>For more detailed information about cookies and web beacons please visit <a target="_blank" href="http://allaboutcookies.org">www.allaboutcookies.org</a>.</p>
-
-    <h3>Where exactly do King &amp; McGaw use cookies?</h3>
-    <p>Cookies are used by all King &amp; McGaw transactional websites.</p>
-    <p>There are two types of cookie that may be used during your visit to an King &amp; McGaw website:</p>
-
-    <h3>1. Session cookies</h3>
-    <p>Session cookies are deleted after each 'session'. For example, when you are browsing an King &amp; McGaw website, it will remember you for the duration of your visit, but the cookie will be removed from your computer as soon as you close down your internet browser.</p>
-    <p>Without a session cookie, every time you open a new web page the web server where that page is stored will treat you like a completely new visitor and items placed in your shopping basket will disappear by the time you reach the checkout.</p>
-
-    <h3>2. Persistent cookies</h3>
-    <p>Persistent cookies remember you for a set period of time (unless you delete them).</p>
-    <p>On your first visit to an King &amp; McGaw site, you will be presented the site in a default manner. Over time, the version of the site you see may change, as persistent cookies remember items you have viewed, preference changes you have made, or whether you logged into or out of your account while browsing.</p>
-    <p>Here is a list of the different types of cookies used by King &amp; McGaw:</p>
-    <table>
-      <thead>
-        <tr>
-          <th>Cookie purpose</th>
-          <th>Cookie type</th>
-          <th>Summary</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Transaction</td>
-          <td>Session cookie</td>
-          <td>Used to maintain your transaction with King &amp; McGaw and minimise the need to transfer your information across the internet.</td>
-        </tr>
-        <tr>
-          <td>Navigation</td>
-          <td>Last viewed product</td>
-          <td>Used to help you return to the last viewed product, for instance after adding an item to the cart.</td>
-        </tr>
-      </tbody>
-    </table>
-
-    <h3>King &amp; McGaw third party marketing partner cookies</h3>
-    <p>King &amp; McGaw work with several partners who serve advertisements on our behalf. Most of these third party marketing sites use both session and persistent cookies.</p>
-    <p>All data collected by these third parties is anonymous and will never contain your name, address, telephone number, email address or payment details. You can delete your cookies at any time from any of the third party marketing sites and technology partners mentioned below. King &amp; McGaw will never disclose your personal details to third parties without your permission.</p>
-    <p>More information on King &amp; McGaw's third party, network and supplier relationships - and the King &amp; McGaw websites to which they apply can be found below.</p>
-    <table>
-      <thead>
-        <tr>
-          <th>Partner</th>
-          <th>kingandmcgaw.com</th>
-          <th>kingandmcgaw.fr</th>
-          <th>kingandmcgaw.de</th>
-          <th>kingandmcgaw.se</th>
-      </tr></thead>
-      <tbody>
-        <tr>
-          <td>Criteo</td>
-          <td>×</td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Affiliate Window</td>
-          <td>×</td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Triggered Messaging</td>
-          <td>×</td>
-          <td></td>
-          <td></td>
-          <td></td>
-        </tr>
-        <tr>
-          <td>Google</td>
-          <td>×</td>
-          <td>×</td>
-          <td>×</td>
-          <td>×</td>
-        </tr>
-        <tr>
-          <td>Yahoo!</td>
-          <td>×</td>
-          <td>×</td>
-          <td>×</td>
-          <td>×</td>
-        </tr>
-        <tr>
-          <td>MSN/Bing</td>
-          <td>×</td>
-          <td>×</td>
-          <td>×</td>
-          <td>×</td>
-        </tr>
-      </tbody>
-    </table>
-
-    <h3>Criteo</h3>
-    <p>Criteo Technology may place anonymous cookies in your browser. These cookies collect browsing data - like the products you have viewed. This data may then be used by other website(s) in their network to serve advertisements containing products that you may have looked at or similar.</p>
-    <p>Advertisements will always include a link to Criteo's Privacy Policy page. If you'd like to opt out of ad targeting, or would like to see more information on why you are being retargeted, simply click the 'i' which appears in the top left hand corner of every advertisement. Alternatively, if you wish to opt out of receiving Criteo advertisements altogether, please go to <a target="_blank" href="http://www.criteo.com/privacy-policy/opt-out">www.criteo.com/privacy-policy/opt-out</a>.</p>
-
-    <h3>Affiliate Window</h3>
-    <p>Affiliate Window's tracking technology uses cookies, flash cookies and ETag requests. Flash cookies are similar to normal cookies but they use flash rather than HTML. ETags are pieces of code that behave similarly to cookies and help speed up browsing.</p>
-    <p>These cookies and tag requests store information on your computer so that when you click on an Affiliate Window link, information is stored about the click - such as the time of day and the advertisement that referred you to us.</p>
-
-    <h3>Triggered Messaging</h3>
-    <p>Places a cookie on the computers of vistors to help us better understand browsing and send more tailored and relevant communications.</p>
-
-    <h3>Google</h3>
-    <p>Google uses cookies to serve you relevant advertisements based on your recent searches and browsing behaviour on our website.</p>
-
-    <h3>Yahoo!</h3>
-    <p>Yahoo! use cookies across their advertising products and their third party advertising network. Yahoo! may set and access Yahoo! cookies on your computer. Yahoo! use web beacons to access Yahoo! cookies inside and outside of their network of websites and in connection with Yahoo! products and services.</p>
-
-    <h3>MSN / Bing</h3>
-    <p>Bing search use cookies across their advertising products. When you use Bing Search they place a cookie on your machine which contains a unique identifier known as a 'Search ID'. If you have previously signed into a Microsoft site or service using a Windows Live ID, King &amp; McGaw can also read one or more additional unique identifiers contained in other Microsoft cookies when you conduct a search.</p>
-  </div>
 
 </div> <!-- // .l-container -->
 
@@ -741,10 +706,10 @@ dataLayer.push({
 </script>
 
 
-  <div class="footer">
-  <div class="history-section">
-    <div class="l-container history-container" id="history-container"></div>
+      <div class="footer bg-gray-lighter pt3 pb4">
 
+  <div class="history-section pb3">
+    <div class="l-container history-container" id="history-container"></div>
   </div>
 
   <div class="l-container text-muted">
@@ -755,7 +720,7 @@ dataLayer.push({
         <li><a href="/prints/photography">Photography</a></li>
         <li><a href="/canvas-prints">Canvas prints</a></li>
         <li><a href="/prints/rare-limited">Rare &amp; Limited</a></li>
-        <li><a href="/guides/what-is-a-custom-frame">Framing</a></li>
+        <li><a href="/frames">Framing</a></li>
       </ul>
     </div>
 
@@ -771,24 +736,19 @@ dataLayer.push({
       </div>
 
       <div class="l-grid-item">
-        <ul class="social-icons footer-social-buttons list-inline">
+        <ul class="social-icons footer-social-buttons mv3">
   <li>
     <a href="https://twitter.com/kingandmcgaw" target="_blank" class="social-icon" data-ga-event="footer-social-link:twitter">
       <i class="fa fa-twitter"></i>
     </a>
   </li>
   <li>
-    <a href="https://plus.google.com/+kingandmcgaw" rel="publisher" target="_blank" class="social-icon" data-ga-event="footer-social-link:googleplus">
-      <i class="fa fa-google-plus"></i>
-    </a>
-  </li>
-  <li>
-    <a href="http://instagram.com/kingandmcgaw" target="_blank" class="social-icon" data-ga-event="footer-social-link:instagram">
+    <a href="https://www.instagram.com/kingandmcgaw/" target="_blank" class="social-icon" data-ga-event="footer-social-link:instagram">
       <i class="fa fa-instagram"></i>
     </a>
   </li>
   <li>
-    <a href="http://www.pinterest.com/kingandmcgaw" target="_blank" class="social-icon" data-ga-event="footer-social-link:pinterest">
+    <a href="https://uk.pinterest.com/kingandmcgaw/" target="_blank" class="social-icon" data-ga-event="footer-social-link:pinterest">
       <i class="fa fa-pinterest"></i>
     </a>
   </li>
@@ -797,7 +757,7 @@ dataLayer.push({
       <i class="fa fa-facebook">
           <small>
             <span class="small stats">
-              <i class="fa fa-thumbs-up"></i>&nbsp;<span class="stats-data">96.4k</span>
+              <i class="fa fa-thumbs-up"></i>&nbsp;<span class="stats-data">99.1k</span>
             </span>
           </small>
       </i>
@@ -809,12 +769,12 @@ dataLayer.push({
 
       <div class="l-grid-item">
         <h4>Sign up for a weekly dose of art</h4>
-        <div id="footer-subscribe" class="footer-subscribe col-sm-6" data-ga-event="footer-subscribe">
+        <div class="subscribe-form" data-ga-event="footer-subscribe">
   <div id="mc_embed_signup">
     <div class="alert alert-success hide"></div>
     <div class="alert alert-error hide"></div>
-    <form action="https://easyart.us5.list-manage.com/subscribe/post?u=c5becf127cc8199da3351679e&amp;id=a197418d13" method="post" id="footer-subscribe-form-modal" name="footer-subscribe-form" class="validate form-inline" target="_blank" novalidate="">
-        <div id="control-group" class="mc-field-group input-group">
+    <form action="https://easyart.us5.list-manage.com/subscribe/post?u=c5becf127cc8199da3351679e&amp;id=a197418d13" method="post" id="footer-subscribe-form-modal" name="footer-subscribe-form" class="validate form-inline mb0" target="_blank" novalidate="">
+        <div id="control-group" class="mc-field-group input-group mb0">
           <input type="email" value="" name="EMAIL" class="email form-control" id="mce-EMAIL" placeholder="Enter email address" required="">
           <!-- captcha -->
           <div style="position: absolute; left: -5000px;"><input type="text" name="b_c5becf127cc8199da3351679e_a197418d13" tabindex="-1" value=""></div>
@@ -833,7 +793,7 @@ dataLayer.push({
 
     <div class="l-grid l-grid-medium">
       <div class="l-grid-item">
-        <h4>Need help?</h4>
+        <h4><a href="/help">Need help?</a></h4>
         <ul>
           <li><a href="/contact">Contact us</a></li>
           <li><a href="/help/shipping">Shipping</a></li>
@@ -844,7 +804,7 @@ dataLayer.push({
       </div>
 
       <div class="l-grid-item">
-        <h4>About us</h4>
+        <h4><a href="/about">About us</a></h4>
         <ul>
           <li><a href="/about">Our story</a></li>
           <li><a href="/help/privacy">Privacy &amp; Cookies</a></li>
@@ -857,16 +817,16 @@ dataLayer.push({
       <div class="l-grid-item">
         <h4>Working with us</h4>
         <ul>
-          <li><a target="_blank" href="https://darwin.affiliatewindow.com/merchant-profile/556">Affiliate program</a></li>
           <li><a href="/trade/business">Art for businesses</a></li>
           <li><a href="/artist-submissions">Artist submissions</a></li>
           <li><a href="/trade">Trade</a></li>
+          <li><a href="/help/careers">Careers</a></li>
         </ul>
       </div>
 
       <div class="l-grid-item">
         <h4>Shop with confidence</h4>
-          <div class="reviews">
+          <div class="reviews mb3">
     <div class="stars">
       <a href="http://www.reviews.co.uk/company-reviews/store/king-and-mcgaw" title="4.8 out of 5">
           <i class="fa fa-star c-yellow"></i>
@@ -877,16 +837,26 @@ dataLayer.push({
       </a>
     </div>
     <div>
-      <a href="http://www.reviews.co.uk/company-reviews/store/king-and-mcgaw">1243 independent reviews</a>
+      <a href="http://www.reviews.co.uk/company-reviews/store/king-and-mcgaw">1583 independent reviews</a>
     </div>
     <!-- Reviews metadata -->
-    <div class="reviewsBadge" itemscope="itemscope" itemtype="http://schema.org/LocalBusiness">
-      <h3 class="storeName hide" itemprop="name">King &amp; McGaw</h3>
-      <div itemprop="aggregateRating" itemscope="itemscope" itemtype="http://schema.org/AggregateRating">
-        <meta itemprop="ratingValue" content="4.8">
-        <meta itemprop="ratingCount" content="1243">
-      </div>
-    </div>
+    <script type="application/ld+json">
+      {
+        "@context" : "http://schema.org",
+        "@type" : "Organization",
+        "name" : "King & McGaw",
+        "logo" : "https://www.kingandmcgaw.com/logo.png",
+        "url" : "https://www.kingandmcgaw.com",
+        "description" : "Retailer and wholesaler of art prints and frames",
+        "sameAs" : [
+          "https://twitter.com/kingandmcgaw",
+          "https://www.facebook.com/kingandmcgaw",
+          "https://www.instagram.com/kingandmcgaw/",
+          "https://uk.pinterest.com/kingandmcgaw/",
+          "https://plus.google.com/+kingandmcgaw"
+        ]
+      }
+    </script>
   </div>
 
 
@@ -901,21 +871,28 @@ dataLayer.push({
 
     <hr>
 
-    <p><small>All art prints and images on this website are copyright their respective owners. All rights reserved. Website © 1999–2016 <a href="https://www.kingandmcgaw.com/">King &amp; McGaw</a>.</small></p>
+    <p class="text-small text-center">All art prints and images on this website are copyright their respective owners. All rights reserved. Website © 1999–2017 <a href="https://www.kingandmcgaw.com/">King &amp; McGaw</a>.</p>
   </div>
-</div>
-
-<div class="cookie-message hide">
-  <div class="cookie-message-inner">
-    This site uses cookies. By continuing to use this website you are agreeing to our use of cookies. <a href="/help/privacy">Find out more</a>
-    <a id="close-cookie-message" href="#">× Close</a>
+  <div class="cookie-message hide l-container text-muted">
+    <p class="text-small">This site uses cookies. By continuing to use this website you are agreeing to our use of cookies. <a href="/help/privacy">Find out more.</a></p>
   </div>
 </div>
 
 
-  
+  <div id="i18n-welcome-message" class="i18n-welcome-message text-center pa2" style="display: none;">
+  <div class="js-i18n-flag"></div>
+  <h2 class="js-i18n-welcome-heading"></h2>
+  <p>Shipping from £<span class="js-i18n-shipping-cost"></span> <span class="text-muted">(<span class="js-i18n-shipping-xch"></span>)</span></p>
+  <p class="js-i18n-shipping text-muted"></p>
+  <p>
+    <a href="#" class="btn btn-primary close-modal">Start Shopping</a>
+  </p>
+</div>
 
-  <script src="/assets/application-b8400286f616386c2180bcd37b2c9b250e928981d1d1bd44bdf79329f2d3b97d.js"></script>
+
+  <script src="/assets/modernizr-custom-f4c4c862ba4f4c81a055587955975aa68b51c58bbf5cfb9a685b4a5ee48078af.js"></script>
+
+  <script src="/assets/application-3a2048de15606050bcdf841e66f6b8c26c28307454e689dcf27c3a8bf81b84c6.js"></script>
 
   <script>
 // Track Javascript errors
@@ -947,34 +924,18 @@ $("img").on("error", function() {
 
 
   <!-- Google Tag Manager -->
-<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WQ8TS6"
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-WMLFZM"
 height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
 new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
 j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
 'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
-})(window,document,'script','dataLayer','GTM-WQ8TS6');</script>
+})(window,document,'script','dataLayer','GTM-WMLFZM');</script>
 <!-- End Google Tag Manager -->
 
 
-  <script>
-  ChatraID = '2zM443EWi22hxrFAr';
-  (function(d, w, c) {
-    var n = d.getElementsByTagName('script')[0],
-      s = d.createElement('script');
-    w[c] = w[c] || function() {
-      (w[c].q = w[c].q || []).push(arguments);
-    };
-    s.async = true;
-    s.src = (d.location.protocol === 'https:' ? 'https:': 'http:')
-      + '//chat.chatra.io/chatra.js';
-    n.parentNode.insertBefore(s, n);
-  })(document, window, 'Chatra');
-</script>
+  <!-- 2017-04-20T08:20:20+00:00 -->
 
 
-  <!-- 2016-04-26T11:24:08+00:00 -->
-
-<script type="text/javascript">/* <![CDATA[ */(function(d,s,a,i,j,r,l,m,t){try{l=d.getElementsByTagName('a');t=d.createElement('textarea');for(i=0;l.length-i;i++){try{a=l[i].href;s=a.indexOf('/cdn-cgi/l/email-protection');m=a.length;if(a&&s>-1&&m>28){j=28+s;s='';if(j<m){r='0x'+a.substr(j,2)|0;for(j+=2;j<m&&a.charAt(j)!='X';j+=2)s+='%'+('0'+('0x'+a.substr(j,2)^r).toString(16)).slice(-2);j++;s=decodeURIComponent(s)+a.substr(j,m-j)}t.innerHTML=s.replace(/</g,'&lt;').replace(/>/g,'&gt;');l[i].href='mailto:'+t.value}}catch(e){}}}catch(e){}})(document);/* ]]> */</script>
 
 </body></html>
