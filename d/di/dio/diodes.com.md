@@ -1,47 +1,33 @@
-> *The following text is extracted and transformed from the diodes.com privacy policy that was archived on 2016-12-03. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161203225437id_/http%3A//www.diodes.com/policy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the diodes.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420142333id_/https%3A//www.diodes.com/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Diodes
+# Pericom Privacy Policy | Diodes Incorporated
 
-## Website Privacy Policy
+## Privacy Policy
 
-### 1\. Scope and Content
+Pericom cares about your right to privacy. This policy explains how we intend to handle any personally identifying information you give us online. Personally identifying information is information that enables us to identify you, for example, your e-mail address, name, home phone number, etc.
 
-This Privacy Policy explains how Diodes Incorporated, 4949 Hedgcoxe Road, Suite 200, Plano, Texas 75024 USA ("Diodes") handles your Personal Data collected through Diodes' website. Personal Data is any information relating to an identified or identifiable person, for example, your e-mail address, name or phone number. This Privacy Policy does not apply to information that Diodes collects offline.
+#### How We Collect and Use Personally Identifying Information
 
-### 2\. Anonymous Usage of Diodes' Website
+You are welcome to visit Pericom's web sites while remaining anonymous and not revealing any personally identifying information. Sharing your personally identifying information is strictly voluntary.
 
-You are welcome to visit Diodes' website while remaining anonymous and not revealing any Personal Data. Sharing your Personal Data is voluntary. However, if you choose not to provide certain information, you may not be able to take advantage of many of Diodes' features and programs. The information you provide to Diodes will better enable Diodes to communicate with you regarding our products and your product needs.
+Sharing your personally identifying information makes it easier for you to:
 
-### 3\. Data We Collect and How We Use it
+  * Request information or materials concerning our products.
+  * Receive personalized newsletters and other messages about our products that we feel may be relevant to your interests, and generally facilitate future communication with you.
+  * Participate in surveys or register to participate in a promotion (such as contests or give-a-ways).
 
-Diodes collects the Personal Data you enter into forms on the website, for example, your e-mail address that you enter when you submit a Contact Us form request. This data will be used to serve your request, for example, to provide you with the product and service information you asked for. Diodes also uses Personal Data to enhance the service of Diodes' website and to personalize information provided to you online or offline. Additional information on the purpose for which we use your data may be provided to you when entering your Personal Data in a particular form.
 
-Your Personal Data is collected through, stored and processed by Diodes or service providers of Diodes.
 
-In addition to Personal Data, Diodes collects certain information on an anonymous basis, and such information cannot be associated with you personally. For example, Diodes collects the number of visitors to our websites, browsing patterns and areas of interest. We analyze this data to assess trends, statistics and customers' needs, to help us improve our websites, products and better serve our customers.
+We also collect certain anonymous information that cannot be associated with you personally, such as the domains from which you visit us, the number of visitors to our web sites, browsing patterns and areas of interest. We analyze this data to assess trends, statistics and customers' needs, to help us improve our web sites, products and better serve our customers.
 
-### 4\. Disclosure to Other Companies
+#### You May Opt Out at Any Time
 
-Under certain circumstances, Personal Data may be given to Diodes' business partners when we believe your business interests will be served. For instance, if we need to ship products to you, we will share your name and address with a carrier. Diodes will also release Personal Data if compelled by law to do so. Otherwise, Diodes will not provide your Personal Data to any third party outside the Diodes' group of companies without your consent.
+You may opt out at any time. By way of example, when you are registered with Pericom, you will have the option of choosing not to receive additional communications from Pericom on our products and services that we feel may be of interest to you. If you choose to receive these additional communications and later change your mind, you may unsubscribe at any time. For example, e-mail messages will contain instructions on how to "unsubscribe" from receiving the email in question.
 
-### 5\. Cookies
+#### Safeguarding Personally Identifying Information
 
-Cookies are small text files that our websites ask to place on your computer's hard drive. If your browser is set to accept cookies, then your browser adds the text in a small file. We do not use cookies to read any other information on your computer's hard drive. We use cookie technology to authenticate your access to various areas of our website, tailor its content to your preferences, to help us analyze web traffic in general and to track when site visitors complete surveys, so that we do not present a survey again for 90 days. Cookies may be used in interactions where you request something from Diodes Incorporated's Contact Us technical support. Most browsers are initially set to accept cookies. If you prefer, you can set yours to refuse cookies, or to warn you before a cookie is placed. If you choose not to accept cookies, you may have to manually input user IDs and passwords to receive certain data.
+We aim to protect the personally identifying information you share with us. Pericom uses a variety of commercially available security technologies to protect your personally identifying information, including secure servers, firewalls and encryption of financial data.
 
-### 6\. Data Security
+#### Contact us
 
-We aim to protect your Personal Data. Diodes uses a variety of commercially available security technologies to protect your Personal Data, including secure servers, firewalls and encryption of financial data.
-
-### 7\. Children under the Age of 13
-
-Diodes' website does not target and is not intended for children under the age of 13. Diodes' values the privacy needs of these children and encourages parents to be an active participant in their child's online activities and interests. We abide by the Children's Online Privacy Protection Act (COPPA) requirements. Diodes' website does not target children and will not knowingly collect data from them. If we discover Personal Data from a child that has been provided through Diodes' website that is targeted to adults and older children, we will eliminate that data.
-
-### 8\. Changes to this Privacy Policy
-
-We reserve the right to change this policy. While we do not intend to make changes to this policy very often, it is always a good idea to double check our most current policy statement when you visit us to be sure that you have read and agree with what information we collect, how we use it and under what circumstances we disclose it. For more information on using Diodes' website, see the Terms of Use.
-
-### 9\. Diodes' Contact
-
-If you have any questions about our privacy policy, you can click here at [Corporate Legal](mailto:rick_yeh@diodes.com) to send an email request.
-
-Policy last revised on April 29, 2011
+If you have any questions about our privacy policy, please [contact us](https://www.diodes.com/about/contact-us/) .
