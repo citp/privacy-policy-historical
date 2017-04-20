@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the macrium.com privacy policy that was archived on 2016-11-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161130100611id_/http%3A//www.macrium.com/pages/terms.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the macrium.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420132055id_/https%3A//www.macrium.com/terms-and-privacy-policy) for the most accurate reproduction.*
 
-# Terms & Privacy Policy - Macrium Software
+# Terms and Privacy Policy | Macrium Software
 
 #### Terms
 
-All purchases of Macrium Reflect software are subject to a 30-day, no question, money-back guarantee. In the unlikely event that you are not satisfied with your purchase, please [contact us](https://web.archive.org/support.aspx#tickets) and your request will be dealt with promptly by our team.
+All purchases of Macrium Reflect software are subject to a 30-day, no question, money-back guarantee. In the unlikely event that you are not satisfied with your purchase, please [contact us](http://www.macrium.com/support.aspx#tickets) and your request will be dealt with promptly by our team.
 
 All purchases made online via our website are fulfilled by our distribution partner cleverbridge Ag. Full details of their terms and condition and privacy policy are accessible via the links on the shopping cart page. Please note that Paramount Software UK Limited never have access to or store any of your credit card information.
 
@@ -64,7 +64,7 @@ You may choose to restrict the collection or use of your personal information in
 
   * Any marketing email you receive from us will always include a link to easily unsubscribe from our marketing list.
   * If you have previously agreed to us using your personal information for direct marketing purposes, you may change your mind at any time by writing to or   
-[sending us a ticket](https://web.archive.org/support.aspx#tickets).
+[sending us a ticket](http://www.macrium.com/support.aspx#tickets).
 
 
 
