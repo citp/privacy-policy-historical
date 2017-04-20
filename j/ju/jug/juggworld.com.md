@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juggworld.com privacy policy that was archived on 2016-12-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161217033347id_/http%3A//juggworld.com/privacy-policy-for-jugg-world) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juggworld.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420133609id_/http%3A//juggworld.com/privacy-policy-for-jugg-world) for the most accurate reproduction.*
 
 # Privacy Policy | Jugg World
 
