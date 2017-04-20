@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the miamimusicweek.com privacy policy that was archived on 2016-06-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160621051906id_/https%3A//miamimusicweek.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the miamimusicweek.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420164415id_/https%3A//www.miamimusicweek.com/privacy-policy) for the most accurate reproduction.*
 
-# Miami Music Week | March 15 - 20, 2016
+# Miami Music Week | March 21 - 26, 2017
 
 This Privacy Policy Statement (“Privacy Policy”) describes the types of personal information that Miami Music Week collects via the website [/](https://web.archive.org/) (the “MMW Website”), and how the personal information is protected, used and shared. This Privacy Policy only governs the collection of information through the MMW Website and does not govern the collection of any personal information through any third party websites, or any other means.
 
