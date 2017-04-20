@@ -1,8 +1,10 @@
-> *The following text is extracted and transformed from the cdnetworks.com privacy policy that was archived on 2015-06-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20150608123941id_/http%3A//www.cdnetworks.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the cdnetworks.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420054947id_/https%3A//www.cdnetworks.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | CDNetworks
 
 Thank you for your interest in CDNetworks Inc. (“we” “us” “our” or “CDNetworks”) and for visiting this website (“Website”). We care about your privacy. By visiting or using this Website, you are accepting the terms of this Privacy Statement.
+
+CDNetworks complies with the U.S.-EU Safe Harbor Framework and the U.S.-Swiss Safe Harbor Framework as set forth by the U.S. Department of Commerce regarding the collection, use, and retention of personal information from European Union member countries and Switzerland.  CDNetworks has certified that it adheres to the Safe Harbor Privacy Principles of notice, choice, onward transfer, security, data integrity, access, and enforcement.  To learn more about the Safe Harbor program, and to view CDNetworks’s certification, please visit <http://www.export.gov/safeharbor/>
 
 **Information Collection and Use  
 **For each visitor to this Website, we automatically collect non-personal information (such as IP address, or which pages you visit on this Website) about your visit in order to help us better understand how people use this Website. We may use such information to provide better services to Website visitors, customize the site based on your preferences, compile and analyze statistics and trends, and otherwise administer and improve this Website for your use. We may share non-personal, aggregated information with our partners, advertisers, or other third parties. Aggregated information is not linked to any personal information that can identify an individual person.
@@ -51,7 +53,9 @@ Please note that if you disable cookies, you may not be able to use all function
 Any questions or complaints relating to the collection and processing of your personal data should be sent by email to the following address: [info@cdnetworks.com](mailto:info@cdnetworks.com). At this address you can also request to change your personal data, or have your personal data deleted. CDNetworks will answer your request within a reasonable time. You can also send your requests in writing to the following address:
 
 **CDNetworks address  
-**Juxon House, 100 St Paul’s Churchyard, London. EC4M 8BU , United Kingdom
+**1919 S. Bascom Avenue, Ste. 600  
+Campbell, CA 95008-2220  
+408 228 3700
 
 **Contacting Us  
 **If you have any questions or comments about this Privacy Statement, please contact us at [privacy@cdnetworks.com](mailto:privacy@cdnetworks.com).
