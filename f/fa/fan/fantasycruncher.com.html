@@ -1,31 +1,38 @@
-<!--The following is the downloaded HTML source of the fantasycruncher.com privacy policy that was archived on 2016-07-15.
- Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20160715001924id_/https%3A//www.fantasycruncher.com/privacy-policy) for the most accurate reproduction.-->
+<!--The following is the downloaded HTML source of the fantasycruncher.com privacy policy that was archived on 2017-04-20.
+ Please check the original snapshot on the Wayback Machine (https://web.archive.org/web/20170420183930id_/https%3A//www.fantasycruncher.com/privacy-policy) for the most accurate reproduction.-->
 
 <!DOCTYPE html><html style="" class=" js flexbox flexboxlegacy canvas canvastext webgl no-touch geolocation postmessage websqldatabase indexeddb hashchange history draganddrop websockets rgba hsla multiplebgs backgroundsize borderimage borderradius boxshadow textshadow opacity cssanimations csscolumns cssgradients cssreflections csstransforms csstransforms3d csstransitions fontface generatedcontent video audio localstorage sessionstorage webworkers applicationcache svg inlinesvg smil svgclippaths"><head>
         <meta charset="utf-8">
         <meta name="description" content="Fantasy Cruncher is a daily fantasy sports lineup optimizer for NFL, NBA, MLB, NHL and PGA. Generate lineups for FanDuel, DraftKings, Yahoo, Fantasyaces, and more!">
-        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+        <meta name="viewport" content="width=device-width, height=device-height, initial-scale=1, maximum-scale=1, user-scalable=0">
+
+        <meta name="mobile-web-app-capable" content="yes">
+        <meta content="yes" name="apple-mobile-web-app-capable">
+        <meta content="black" name="apple-mobile-web-app-status-bar-style">
+        <link rel="shortcut icon" sizes="196x196" href="/img/icon-196x196.png">
+        <link rel="apple-touch-icon" href="/img/icon-196x196.png">
+
         <title>NBA Lineup Optimizer | Daily Fantasy Sports Lineup Tool</title>
         <link rel="shortcut icon" href="/favicon.ico">
-        <link rel="chrome-webstore-item" href="https://chrome.google.com/webstore/detail/geddlbjlbpgcnckmjdkfjeimbciokpcn">
 
-        <link rel="stylesheet" href="/css/vendor-combined.css?v=3.78">
-        <link rel="stylesheet" href="/style.php?p=style.scss&amp;v=3.78">
-        <link rel="stylesheet" href="/css/style.css?v=3.78">
+
+        <link rel="stylesheet" href="/css/vendor-combined.css?v=4.74">
+        <link rel="stylesheet" href="/style.php?p=style.scss&amp;v=4.74">
+        <link rel="stylesheet" href="/css/style.css?v=4.74">
         <link rel="stylesheet" href="/css/sweetalert.css">
-
+        <link rel="stylesheet" href="/js/chosen_v1.6.2/chosen.css">
 
         
         
         <script src="/js/vendor/modernizr.js"></script>
-        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.2.4/jquery.min.js"></script>
         <script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.11.1/jquery-ui.min.js"></script>
         <script src="/js/jquery.ui.touch-punch.min.js"></script>
         <script src="/js/jquery.cookie.js"></script>
         <script>
 
-        	$(function(){
-        		$(document).foundation();
+        	jQuery(function(){
+        		jQuery(document).foundation();
         	});
 
 				  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
@@ -38,14 +45,14 @@
 
 				  var site = "fanduel";
 				  var league = "NBA";
-                  var period = "2016-05-27";
+                  var period = "2017-04-20";
 				  var period2 = "";
 				  var userid = "";
 				  var min_Proj = "3"
 
+                  var user_settings = {}
         </script>
 
-        
     </head>
         <body>
     
@@ -59,35 +66,131 @@
     				      <a class="left-off-canvas-toggle menu-icon" onclick="return true;"><span>menu</span></a>
     				    </section>
     				    <a href="/" class="logo logo-header">
-			    			<img src="/img/logo_410x55.png" alt="FantasyCruncher">
+			    			<img src="/img/logo_white.svg" alt="FantasyCruncher">
 		    			</a>
     				  </nav>
 
     			    <!-- Off Canvas Menu -->
-    			    <nav class="left-off-canvas-menu">
-    			      <ul class="off-canvas-list">
-		  			      <li><label class="first">Tools</label></li>
-		  			      <li><a href="/lineup-cruncher/fanduel/NBA/2016-05-27"><i class="fa fa-gear"></i>Lineup Cruncher</a></li>
-			    				<li><a href="/my-lineups/NBA/2016-05-27"><i class="fa fa-list"></i>My Lineups</a></li>
-		              <li><a href="/lineup-rewind/fanduel/NBA/2016-05-27"><i class="fa fa-backward"></i>Lineup Rewind</a></li>
-		    					<li><label class="first">Connect</label></li>
-		    					<li><a href="/forum/"><i class="fa fa-comments"></i>Forums</a></li>
-		    					<li><a href="/articles"><i class="fa fa-book"></i>Articles</a></li>
-		    				<!-- If not logged in display these links -->
-			    				<li><label class="first">Help</label></li>
-			    				<li><a href="/help/faqs"><i class="fa fa-question"></i>FAQ's</a></li>
-			    				<li><a href="/help/tutorials"><i class="fa fa-book"></i>Tutorials</a></li>
-			    				<li><a href="/help/about"><i class="fa fa-users"></i>About</a></li>
-			    				<li><a href="/help/contact"><i class="fa fa-comment-o"></i>Contact Us</a></li>
-			    				<li><label class="first">Account</label></li>
-			    				<!-- If not premium display -->
-			    							    				<li><a href="/upgrade"><i class="fa fa-trophy"></i>Premium</a></li>
-			    				
-			    							    				<li><a href="/register"><i class="fa fa-pencil"></i>Register</a></li>
-			    				<li><a href="/login"><i class="fa fa-user"></i>Login</a></li>
-			    							    				<!-- If logged in display these links -->
-			    				    			      </ul>
-    			    </nav>
+					<nav class="left-off-canvas-menu">
+						<ul class="off-canvas-list">
+							<li><label class="first">Tools</label></li>
+							<li><a class="off-canvas-submenu-call"><i class="fa fa-gear"></i>Lineup Cruncher</a></li>
+									<ul class="off-canvas-submenu">
+									<li><a class="off-canvas-submenu-call"><div class="site-icon draftkings"></div>Draftkings</a></li>
+										<ul class="off-canvas-submenu">
+											<li><a href="/lineup-cruncher/draftkings/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
+											<li><a href="/lineup-cruncher/draftkings/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
+											<li><a href="/lineup-cruncher/draftkings/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
+											<li><a href="/lineup-cruncher/draftkings/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
+											<li><a href="/lineup-cruncher/draftkings/MMA/2017-04-22"><i class="fa fa-hand-rock-o"></i>MMA</a></li>
+											<li><a href="/lineup-cruncher/draftkings/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
+											<li><a href="/lineup-cruncher/draftkings/EURO/2017-04-19"><i class="icon-golf home-sport-icon"></i>EURO</a></li>
+											<li><a href="/lineup-cruncher/draftkings/NAS/2017-04-23"><i class="icon-racing home-sport-icon"></i>NAS</a></li>
+											<li><a href="/lineup-cruncher/draftkings/CFL/2016-week-20"><i class="icon-football home-sport-icon"></i>CFL</a></li>
+										</ul>
+
+									<li><a class="off-canvas-submenu-call"><div class="site-icon fanduel"></div>Fanduel</a></li>
+										<ul class="off-canvas-submenu">
+											<li><a href="/lineup-cruncher/fanduel/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
+											<li><a href="/lineup-cruncher/fanduel/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
+											<li><a href="/lineup-cruncher/fanduel/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
+											<li><a href="/lineup-cruncher/fanduel/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
+											<li><a href="/lineup-cruncher/fanduel/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
+										</ul>
+
+									<li><a class="off-canvas-submenu-call"><div class="site-icon fantasydraft"></div>FantasyDraft</a></li>
+										<ul class="off-canvas-submenu">
+											<li><a href="/lineup-cruncher/fantasydraft/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
+											<li><a href="/lineup-cruncher/fantasydraft/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
+											<li><a href="/lineup-cruncher/fantasydraft/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
+											<li><a href="/lineup-cruncher/fantasydraft/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
+										</ul>
+
+									<li><a class="off-canvas-submenu-call"><div class="site-icon yahoo"></div>Yahoo</a></li>
+										<ul class="off-canvas-submenu">
+											<li><a href="/lineup-cruncher/yahoo/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
+											<li><a href="/lineup-cruncher/yahoo/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
+											<li><a href="/lineup-cruncher/yahoo/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
+											<li><a href="/lineup-cruncher/yahoo/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
+										</ul>
+
+									</ul>								
+
+							<!-- <li><a href="/my-lineups/NBA/2017-04-20"><i class="fa fa-list"></i>My Lineups</a></li> -->
+							<li><a class="off-canvas-submenu-call"><i class="fa fa-backward"></i>Lineup Rewind</a></li>
+								<ul class="off-canvas-submenu">
+									<li><a class="off-canvas-submenu-call"><div class="site-icon draftkings"></div>Draftkings</a></li>
+										<ul class="off-canvas-submenu">
+											<li><a href="/lineup-rewind/draftkings/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
+											<li><a href="/lineup-rewind/draftkings/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
+											<li><a href="/lineup-rewind/draftkings/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
+											<li><a href="/lineup-rewind/draftkings/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
+											<li><a href="/lineup-rewind/draftkings/MMA/2017-04-22"><i class="fa fa-hand-rock-o"></i>MMA</a></li>
+											<li><a href="/lineup-rewind/draftkings/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
+											<li><a href="/lineup-rewind/draftkings/EURO/2017-04-19"><i class="icon-golf home-sport-icon"></i>EURO</a></li>
+											<li><a href="/lineup-rewind/draftkings/NAS/2017-04-23"><i class="icon-racing home-sport-icon"></i>NAS</a></li>
+											<li><a href="/lineup-rewind/draftkings/CFL/2016-week-20"><i class="icon-football home-sport-icon"></i>CFL</a></li>
+										</ul>
+
+									<li><a class="off-canvas-submenu-call"><div class="site-icon fanduel"></div>Fanduel</a></li>
+										<ul class="off-canvas-submenu">
+											<li><a href="/lineup-rewind/fanduel/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
+											<li><a href="/lineup-rewind/fanduel/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
+											<li><a href="/lineup-rewind/fanduel/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
+											<li><a href="/lineup-rewind/fanduel/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
+											<li><a href="/lineup-rewind/fanduel/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
+										</ul>
+
+									<li><a class="off-canvas-submenu-call"><div class="site-icon fantasydraft"></div>FantasyDraft</a></li>
+										<ul class="off-canvas-submenu">
+											<li><a href="/lineup-rewind/fantasydraft/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
+											<li><a href="/lineup-rewind/fantasydraft/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
+											<li><a href="/lineup-rewind/fantasydraft/PGA/2017-04-20"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
+										</ul>
+
+									<li><a class="off-canvas-submenu-call"><div class="site-icon yahoo"></div>Yahoo</a></li>
+										<ul class="off-canvas-submenu">
+											<li><a href="/lineup-rewind/yahoo/NFL/2016-week-21"><i class="icon-football home-sport-icon"></i>NFL</a></li>
+											<li><a href="/lineup-rewind/yahoo/MLB/2017-04-20"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
+											<li><a href="/lineup-rewind/yahoo/NBA/2017-04-20"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
+											<li><a href="/lineup-rewind/yahoo/NHL/2017-04-20"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
+										</ul>
+
+									</ul>
+
+							<li><label class="first">Insights</label></li>
+								<li><a href="/articles/home/"><i class="fa fa-home" aria-hidden="true"></i>Insights Home</a></li>
+								<li><a class="off-canvas-submenu-call"><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Specific Sport</a></li>
+									<ul class="off-canvas-submenu">
+										<li><a href="/articles/category/dfs-football-nfl/"><i class="icon-football home-sport-icon"></i>NFL</a></li>
+		    							<li><a href="/articles/category/dfs-basketball-nba/"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
+		    							<li><a href="/articles/category/dfs-hockey-nhl/"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
+		    							<li><a href="/articles/category/dfs-golf-pga/"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
+		    							<li><a href="/articles/category/draftkings-cfl/"><i class="icon-football home-sport-icon"></i>CFL</a></li>
+		    							<li><a href="/articles/category/dfs-baseball-mlb/"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
+		    							<!-- <li><a href="/articles/category/"><i class="fa fa-hand-rock-o"></i>MMA</a></li> -->
+		    							<!-- <li><a href="/articles/category/"><i class="icon-racing home-sport-icon"></i>NAS</a></li> -->
+									</ul>
+								
+
+							<li><label class="first">Connect</label></li>
+							<li><a href="/forum/"><i class="fa fa-comments"></i>Forums</a></li>
+
+							<!-- If not logged in display these links -->
+							<li><label class="first">Help</label></li>
+							<li><a href="/help/faqs"><i class="fa fa-question"></i>FAQ's</a></li>
+							<li><a href="/help/tutorials"><i class="fa fa-book"></i>Tutorials</a></li>
+							<li><a href="/help/about"><i class="fa fa-users"></i>About</a></li>
+							<li><a href="/help/contact"><i class="fa fa-comment-o"></i>Contact Us</a></li>
+							<li><label class="first">Account</label></li>
+							<!-- If not premium display -->
+														<li><a href="/upgrade"><i class="fa fa-trophy"></i>Premium</a></li>
+							
+														<li><a href="/register"><i class="fa fa-pencil"></i>Register</a></li>
+							<li><a href="/login"><i class="fa fa-user"></i>Login</a></li>
+														<!-- If logged in display these links -->
+													</ul>
+					</nav>
 
     			   
     			  <a class="exit-off-canvas"></a>
@@ -102,16 +205,136 @@
     		<div class="row navigation-container show-for-medium-up clearfix">
     			<header class="main-header">
 		    		<a href="/" class="logo logo-header">
-			    		<img src="/img/logo_410x55.png" alt="FantasyCruncher">
+			    		<img src="/img/logo_white.svg" alt="FantasyCruncher">
 		    		</a>
 			    		<ul class="main-nav-links">
 			    			<li onclick="return true;"><a><i class="fa fa-wrench"></i>Tools</a>
-			    				<ul>
-			    					<li><a href="/lineup-cruncher/fanduel/NBA/2016-05-27"><i class="fa fa-gear"></i>Lineup Cruncher</a></li>
-			    					<li><a href="/my-lineups/NBA/2016-05-27"><i class="fa fa-list"></i>My Lineups</a></li>
-                    <li><a href="/lineup-rewind/fanduel/NBA/2016-05-27"><i class="fa fa-backward"></i>Lineup Rewind</a></li>
+			    				<ul id="tools-submenu">
+			    					<li><a onclick="return true;"><i class="fa fa-gear"></i>Lineup Cruncher</a>
+			    						<div class="mega-submenu shadow1">
+			    							<div class="site-col">
+			    								<span class="site-col-title"><div class="site-icon draftkings"></div>Draftkings</span>
+			    								<div class="site-col-list">
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/EURO/"><i class="icon-golf home-sport-icon"></i>EURO</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/NAS/"><i class="icon-racing home-sport-icon"></i>NASCAR</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/draftkings/MMA/"><i class="fa fa-hand-rock-o"></i>MMA</a></div>
+			    								</div>
+			    							</div>
+
+			    							<div class="site-col">
+			    								<span class="site-col-title"><div class="site-icon fanduel"></div>Fanduel</span>
+			    								<div class="site-col-list">
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fanduel/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fanduel/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fanduel/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fanduel/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fanduel/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
+			    								</div>
+			    							</div>
+
+			    							<div class="site-col">
+			    								<span class="site-col-title"><div class="site-icon fantasydraft"></div>FantasyDraft</span>
+			    								<div class="site-col-list">
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fantasydraft/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fantasydraft/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fantasydraft/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
+			    									<!-- <div class="mega-menu-link"><a href="/lineup-cruncher/fantasydraft/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div> -->
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/fantasydraft/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
+			    								</div>
+			    							</div>
+
+			    							<div class="site-col">
+			    								<span class="site-col-title"><div class="site-icon yahoo"></div>Yahoo</span>
+			    								<div class="site-col-list">
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/yahoo/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/yahoo/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/yahoo/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-cruncher/yahoo/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
+			    								</div>
+			    							</div>
+
+			    						</div>
+			    					</li>
+			    					<!-- <li><a href="/my-lineups/NBA/2017-04-20"><i class="fa fa-list"></i>My Lineups</a></li> -->
+                    				<li><a onclick="return true;"><i class="fa fa-backward"></i>Lineup Rewind</a>
+                    					<div class="mega-submenu shadow1">
+			    							<div class="site-col">
+			    								<span class="site-col-title"><div class="site-icon draftkings"></div>Draftkings</span>
+			    								<div class="site-col-list">
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/EURO/"><i class="icon-golf home-sport-icon"></i>EURO</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/NAS/"><i class="icon-racing home-sport-icon"></i>NASCAR</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/draftkings/MMA/"><i class="fa fa-hand-rock-o"></i>MMA</a></div>
+			    								</div>
+			    							</div>
+
+			    							<div class="site-col">
+			    								<span class="site-col-title"><div class="site-icon fanduel"></div>Fanduel</span>
+			    								<div class="site-col-list">
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/fanduel/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/fanduel/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/fanduel/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/fanduel/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/fanduel/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
+			    									
+			    								</div>
+			    							</div>
+
+			    							<div class="site-col">
+			    								<span class="site-col-title"><div class="site-icon fantasydraft"></div>FantasyDraft</span>
+			    								<div class="site-col-list">
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/fantasydraft/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/fantasydraft/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/fantasydraft/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
+			    									<!-- <div class="mega-menu-link"><a href="/lineup-rewind/fantasydraft/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div> -->
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/fantasydraft/PGA/"><i class="icon-golf home-sport-icon"></i>PGA</a></div>
+			    								</div>
+			    							</div>
+
+			    							<div class="site-col">
+			    								<span class="site-col-title"><div class="site-icon yahoo"></div>Yahoo</span>
+			    								<div class="site-col-list">
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/yahoo/NFL/"><i class="icon-football home-sport-icon"></i>NFL</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/yahoo/NBA/"><i class="icon-basketball home-sport-icon"></i>NBA</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/yahoo/MLB/"><i class="icon-baseball home-sport-icon"></i>MLB</a></div>
+			    									<div class="mega-menu-link"><a href="/lineup-rewind/yahoo/NHL/"><i class="icon-hockey home-sport-icon"></i>NHL</a></div>
+			    								</div>
+			    							</div>
+			    							
+			    						</div>
+                    				</li>
 			    				</ul>
 			    			</li>
+
+			    			<li onclick="return true;"><a><i class="fa fa-lightbulb-o" aria-hidden="true"></i>Insights</a>
+			    				<ul>
+			    					<li><a href="/articles/home/"><i class="fa fa-home" aria-hidden="true"></i>Insights Home</a></li>
+			    					
+			    					<li><a onclick="return true;"><i class="fa fa-dot-circle-o" aria-hidden="true"></i>Specific Sport</a>
+			    						<ul>
+			    							<li><a href="/articles/category/dfs-football-nfl/"><i class="icon-football home-sport-icon"></i>NFL</a></li>
+			    							<li><a href="/articles/category/dfs-basketball-nba/"><i class="icon-basketball home-sport-icon"></i>NBA</a></li>
+			    							<li><a href="/articles/category/dfs-hockey-nhl/"><i class="icon-hockey home-sport-icon"></i>NHL</a></li>
+			    							<li><a href="/articles/category/dfs-golf-pga/"><i class="icon-golf home-sport-icon"></i>PGA</a></li>
+			    							<li><a href="/articles/category/draftkings-cfl/"><i class="icon-football home-sport-icon"></i>CFL</a></li>
+			    							<li><a href="/articles/category/dfs-baseball-mlb/"><i class="icon-baseball home-sport-icon"></i>MLB</a></li>
+			    							<!-- <li><a href="/articles/category/"><i class="fa fa-hand-rock-o"></i>MMA</a></li> -->
+			    							<!-- <li><a href="/articles/category/"><i class="icon-racing home-sport-icon"></i>NAS</a></li> -->
+			    						</ul>
+			    					</li>
+
+			    				</ul>
+			    			</li>
+
 			    			<!-- If not premium display -->
 			    						    			<li><a href="/upgrade"><i class="fa fa-trophy"></i>Premium</a></li>
 			    			
@@ -122,7 +345,6 @@
 			    			<!-- If logged in display these links -->
 			    			
 			    			<li><a href="/forum/"><i class="fa fa-comments"></i>Forums</a></li>
-			    			<li><a href="/articles"><i class="fa fa-book"></i>Articles</a></li>
 
 
 			    			<li onclick="return true;"><a><i class="fa fa-question-circle"></i>Help</a>
@@ -142,6 +364,132 @@
 		    	</header>
     		</div>
     		    		<div class="wrapper clearfix">
+
+
+
+<div id="create-account-modal" class="reveal-modal" data-reveal="">
+    <a class="close-reveal-modal">×</a>
+
+
+    <div class="row narrow" id="create-account-container">
+        <div class="large-12 columns">
+            <form>
+                <h3>Create User Account</h3>
+                <fieldset id="inputs">
+                    <div><i class="fa fa-envelope"></i></div><input class="input-field" id="user_email" name="user_email" type="text" placeholder="Email address" required="" autofocus="">  
+                    <div><i class="fa fa-user"></i></div><input class="input-field" id="user_username" name="user_username" type="text" placeholder="Choose username" required="">
+                    <div><i class="fa fa-key"></i></div><input class="input-field" id="user_password" name="user_password" type="password" placeholder="Choose Password" required="">
+                    <div class="errorMsg"></div>
+                    <a class="button expand" id="submit-modal-signup">Create Account</a>
+                    <span>An email will be sent to you for verification before account will be active.</span>
+                </fieldset>
+            </form>
+        </div>
+    </div>
+
+    <div class="row narrow" id="verification-code-container">
+        <div class="large-12 columns">
+            <h3>Enter Verification Code</h3>
+            <span class="passcode-details">A 4 digit verification code has been emailed to you.  Please enter the code here.</span>
+            <input type="text" id="verification-code" name="verification-code">
+            <div class="verificationErrorMsg"></div>
+            <input class="button expand" type="submit" onclick="return false;" id="submit-verification-code" value="Verify">
+            <p class="verify-info">
+            	If you have not received your verification code, please check your spam folder, or <a class="resend-verification">click here to resend the code.</a>
+            </p>
+            <p class="resent-success" style="display:none">A verification email has been re-sent.</p>
+        </div>
+    </div>
+
+</div>
+
+<script type="text/javascript">
+	function openCreateUserModal(){
+		$('#create-account-modal').foundation('reveal', 'open');
+	}
+
+	$('#submit-modal-signup:not(.disabled)').click(function(){
+		
+		$(this).html('<span><div class="loader"></div>Creating Account...</span>');
+		$(this).addClass('disabled');
+
+		var user_email = $('#user_email').val();
+		var user_username = $('#user_username').val();
+		var user_password = $('#user_password').val();
+
+		$('.errorMsg').text(''); //reset error message
+
+		$.post('/login-funcs/modal-signup.php', {user_email:user_email, user_username:user_username, user_password:user_password}, function(data){
+			if(data.status == 'error'){
+				$('.errorMsg').text(data.msg);
+				$('#inputs').effect( "shake" );
+			}
+			if(data.status == 'success'){
+				$('#submit-modal-signup').attr('value','Success').addClass('success');
+				setTimeout(function(){
+					$('#create-account-container').hide()
+					$('#verification-code-container').show()
+				}, 300);					
+			}
+
+		});
+
+		$(this).attr('value','Create Account');
+		$(this).removeClass('disabled');
+
+	})
+
+
+	$('#submit-verification-code:not(.disabled)').click(function(){
+
+		$(this).addClass('disabled');
+		$(this).html('<span><div class="loader"></div>Verifying Account...</span>');
+
+		var user_email = $('#user_email').val();
+		var user_password = $('#user_password').val();
+		var code = $('#verification-code').val();
+
+		$.post('/login-funcs/verify2.php', {email:user_email, code:code}, function(data){
+			if(data.status == 'error'){
+				$('.verificationErrorMsg').text(data.msg);
+			}
+			if(data.status == 'success'){
+				$('#submit-verification-code').attr('value','Verified... Logging in...').addClass('success');
+
+				//log user in:
+				$.post('/login', {user_email:user_email, user_password:user_password, referer:window.location.pathname}, function(data){
+					location.reload();
+				})
+			}
+
+		});
+
+		$(this).removeClass('disabled');
+
+	})
+
+	$('.resend-verification').click(function(){
+		$.get('/login-funcs/resend-verification-email.php', function(data) {
+			$('.resent-success').show();
+			setTimeout(function() {
+				$('.resent-success').fadeOut();
+			}, 5000)
+		});
+	})
+
+</script>
+
+
+<script type="text/javascript">
+	jQuery(function(){
+		jQuery(".off-canvas-submenu").hide();
+		jQuery(".off-canvas-submenu-call").click(function() {
+			var icon = jQuery(this).parent().next(".off-canvas-submenu").is(':visible') ? '+' : '-';
+			jQuery(this).parent().next(".off-canvas-submenu").slideToggle('fast');
+			jQuery(this).find("span").text(icon);
+		});
+	})
+</script>
     		
 	    	<div class="row content-padding" style="max-width:1000px">
 <a name="top"></a>
@@ -302,7 +650,7 @@
       	<div class="clear footbottom"></div>
 
       	<div class="medium-4 columns">
-      		<p>&copy; 2014 - 2016 Fantasy Cruncher Inc</p>
+      		<p>&copy; 2014 - 2017 Fantasy Cruncher Inc</p>
       	</div>
       	<div class="medium-4 columns">
       		<p><a href="/tos">Terms of Service</a> | <a href="/privacy-policy">Privacy Policy</a></p>
@@ -317,33 +665,48 @@
       <div class="footer-content">
             <div class="row narrow">
                   <div class="medium-8 columns">
-                        <h4>ABOUT</h4>
-                        <p>FantasyCruncher is a tool designed to help you create your optimal lineup. It will save you the time and hassle of hunting down the information you need to make critical decisions during crunch time. Whether you play on Fanduel, Draftkings, Yahoo or Fantasyaces we have you covered.</p>
+
+                        <div style="margin-bottom:50px">
+                              <h4>ABOUT</h4>
+                              <p>FantasyCruncher is a tool designed to help you create your optimal lineup. It will save you the time and hassle of hunting down the information you need to make critical decisions during crunch time. Whether you play on Fanduel, Draftkings, Yahoo or FantasyDraft we have you covered.</p>
+                              <p>We support optimizing liuneups for NFL, NBA, MLB, NHL, Nascar, MMA, PGA and the Euro Tour.</p>
+                        </div>
+                        
+                        <div class="medium-6 columns">
+                              <p>© 2014 - 2017 Fantasy Cruncher Inc</p>
+                        </div>
+                        <div class="medium-6 columns">
+                              <p><a href="/tos">Terms of Service</a> | <a href="/privacy-policy">Privacy Policy</a></p>
+                        </div>
+
                   </div>
+
+
                   <div class="medium-4 columns">
                         <h4>CONNECT</h4>
                         <a href="https://twitter.com/fantasycruncher" target="_blank"><i class="fa fa-twitter-square"></i></a>
                         <a href="https://www.facebook.com/fantasycruncher" target="_blank"><i class="fa fa-facebook-square"></i></a>
-                        <p>Email:<a href="mailto:support@fantasycruncher.com"> support@fantasycruncher.com</a></p>
+                        <p style="margin-top: 20px">Email:<a href="mailto:support@fantasycruncher.com"> support@fantasycruncher.com</a></p>
+                        <hr style="border-color: rgba(255, 255, 255, 0.3);">
+                        <div class="attributed-container">
+                              <a href="http://www.sportradar.us/" target="_blank"><img src="/img/powered-by-sportradar-reversed-300w.png"></a>
+                              <a href="https://www.wunderground.com/" target="_blank"><img src="/img/wundergroundLogo_4c_rev_horz.png"></a>
+                        </div>
                   </div>
             </div>
 
-            <div class="row narrow footer-content">
-                  <div class="medium-4 columns">
-                        <p>© 2014 - 2016 Fantasy Cruncher Inc</p>
-                  </div>
-                  <div class="medium-4 columns">
-                        <p><a href="/tos">Terms of Service</a> | <a href="/privacy-policy">Privacy Policy</a></p>
-                  </div>
-                  <div class="medium-4 columns">
-                        <a href="http://www.sportradar.us/" target="_blank"><img src="/img/logo_sportradar.png"></a>
-                  </div>
-            </div>
       </div>
 
 </footer>
 
 <style type="text/css">
+      .attributed-container{
+            text-align: center;
+      }
+      .attributed-container a{
+            display: block;
+      }
+
       #footer-container{
             background-color: #10355a;
             color: #E4E4E4;
@@ -358,39 +721,34 @@
       .footer-content .fa-facebook-square{color:#3B5998}
       .footer-content .fa-twitter-square{color:#00a0d2;}
       .footer-content .fa{font-size:3em; margin:0 10px; cursor:pointer;}
-      .footer-content .fa:hover{color:rgba(255,255,255,.5);
+      .footer-content .fa:hover{color:rgba(255,255,255,.5)}
+      .footer-content .fa-facebook-square:hover {color:#496ebb}
+      .footer-content .fa-twitter-square:hover {color:#03bbf5}
 
-      /*#site-footer h4 {font-weight: bold; color:#ffffff;}
-      #site-footer p{color:#cccccc;}
-      #site-footer .fa-facebook-square{color:#3B5998}
-      #site-footer .fa-twitter-square{color:#00a0d2;}
-      #site-footer .fa{font-size:3em; margin:0 10px; cursor:pointer;}
-      #site-footer .fa:hover{color:rgba(255,255,255,.5);}
-      #site-footer .footbottom{margin-top:30px;}
-      #site-footer .clear{clear:both;}
-      #site-footer a{color:#008cba;}
-      #site-footer a:hover{color: #0078a0;}*/
-</style>
+</style>	    	
+                        
 
-<script type="text/javascript">
-$("#joyride-start").click(function() {
-	$(document).foundation('joyride', 'start');
-});
-</script>	    	
-            <script src="/js/html2canvas.js"></script>
+            <script src="/js/html2canvas.js?v=.5"></script>
             <script src="/js/jquery.zclip.min.js"></script>
-            <script src="/js/jquery.dataTables.min.js"></script>         
-	    	<script src="/js/datatables.customSorting.js"></script>
-	    	<script src="/js/parallax.min.js"></script>
+            <script src="/js/datatables.1.10.12.min.js"></script>         
+            <script src="/js/datatables.customSorting.js"></script>
+            <script src="/js/chosen_v1.6.2/chosen.jquery.min.js"></script>
 	    	
-                           <script src="/js/main.min.js?v=3.78"></script>
-                <script src="/js/worker.min.js?v=3.78"></script>
+                           <script src="/js/main.min.js?v=4.74"></script>
+                <script src="/js/worker.min.js?v=4.74"></script>
             
 
 	    	
             <script src="/js/vendor-combined.js"></script>
             <script src="/js/o.min.js"></script>
 
+
+            <ul class="team-card-select-custom-menu">
+              <li data-action="above">Select lineups above</li>
+              <li data-action="below">Select lineups below</li>
+              <li data-action="above-remove">UNselect lineups above</li>
+              <li data-action="below-remove">UNselect lineups below</li>
+            </ul>
 
     
 
