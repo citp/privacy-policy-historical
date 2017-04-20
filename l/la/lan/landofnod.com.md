@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the landofnod.com privacy policy that was archived on 2016-12-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161214011531id_/http%3A//www.landofnod.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the landofnod.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421015708id_/http%3A//www.landofnod.com/Customer-Service/Privacy-Policy.aspx) for the most accurate reproduction.*
 
 # The Land of Nod
 
-By sharing the Privacy Policy for Crate and Barrel, CB2 and The Land of Nod (collectively, “we” or “us”), we hope to help you understand how information can create new opportunities for our customers, as well as to reassure you that we respect and honor customer requests to restrict and protect personal information.
+By sharing the Privacy Policy for Crate and Barrel, CB2 and The Land of Nod (collectively, ‘we’ or ‘us’), we hope to help you understand how information can create new opportunities for our customers, as well as to reassure you that we respect and honor customer requests to restrict and protect personal information. 
 
-By using crateandbarrel.com, cb2.com, landofnod.com, or our mobile apps (collectively, “Websites”), coming to our stores, making a purchase from our catalogs, calling customer service, engaging with us on social media, interacting with us in any way, or utilizing any of our services, you consent to this Privacy Policy.
+By using crateandbarrel.com, cb2.com, landofnod.com, or our mobile apps (collectively, ‘Websites’), coming to our stores, making a purchase from our catalogs, calling customer service, engaging with us on social media, interacting with us in any way, or utilizing any of our services, you consent to this Privacy Policy. 
+
+We will comply with our Canadian Privacy Policy in our communications with all customers who are Canadian residents. 
 
   
 
@@ -49,7 +51,7 @@ We also gather customer information by taking note of the purchases you make. Th
 
 ###  In-Store Information: 
 
-We use Wi-Fi technology to track location analytics in some of our store locations. This data is used to improve the store layout and enhance the customer shopping experience in our stores. The data collected is anonymous and works by sensing the presence of smartphones. Certain device information is collected, but no personal information is collected, unless you consent to that collection. This service is provided to us by our Service Providers (defined below). To learn more about customer location and your choices from our Service Providers, visit [www.smart-places.org](http://www.smart-places.org/). We also use cameras in our stores for the same purposes and also for security and loss prevention purposes. 
+We use Wi-Fi technology to track location analytics in some of our store locations. This data is used to improve the store layout and enhance the customer shopping experience in our stores. The data collected is anonymous and works by sensing the presence of smartphones. Certain device information is collected, but no personal information is collected, unless you consent to that collection. This service is provided to us by our Service Providers (defined below). To learn more about customer location and your choices from our Service Providers, visit [www.smart-places.org](https://www.smart-places.org/). We also use cameras in our stores for the same purposes and also for security and loss prevention purposes. 
 
 Back to Top
 
@@ -63,9 +65,11 @@ Back to Top
 
 "Cookies" are small amounts of data that are stored on your computer. They find their way to your browser via a Web server. Cookies flag information about your activity on our Websites. This information helps us improve our Websites and make them friendlier and easier to use and allows us to market to you more effectively. We never use cookies to save passwords, credit card numbers or other highly confidential information. However, we may use them and other tracking technologies to provide enhanced online marketing based on your interests and preferences. 
 
+To opt out of our cookies used for these personalized online ads, please click here. We will place an "opt-out cookie" on your computer should you opt out of the Service Providers who use cookies. The "opt-out cookie" is browser specific and device specific and only lasts until cookies are cleared from your browser or device. The opt-out cookie will not work for some cookies that are important to how our websites and mobile apps work ("essential cookies"). If the cookie is removed or deleted, if you upgrade your browser or if you visit us from a different computer, you will need to return to this form to re-select your preferences. If you would like to opt out of accepting cookies altogether, you can generally set your browser to not accept cookies or to notify you when you are sent a cookie, giving you the chance to decide whether or not to accept it. However, certain features of our web sites or other services may not work if you delete or disable cookies. 
+
 Web cookies are used in some email messages and on our Websites to help us measure the effectiveness of those emails and for other analytical purposes. You can "opt out" of this email cookie at any time by deleting your name from our email mailing list(s), as detailed below. 
 
-We also contract with a Service Provider to help us assess visitation to our Websites. To do this, we place small pixel tags and cookies on our Websites. While these do allow our Service Provider to track your visits, the data retrieved cannot be used for any reason without our authorization. Although our Service Provider logs the information about your visit, we control how that data may and may not be used. We may track this information across the different devices you use to access the Websites. You can opt out of this Website analysis tool by clicking here. 
+We also contract with a Service Provider to help us assess visitation to our Websites. To do this, we place small pixel tags and cookies on our Websites. While these do allow our Service Provider to track your visits, the data retrieved cannot be used for any reason without our authorization. Although our Service Provider logs the information about your visit, we control how that data may and may not be used. We may track this information across the different devices you use to access the Websites. You can opt out of this Website analysis tool by clicking here 
 
 Back to Top
 
@@ -111,6 +115,8 @@ Opting out of sharing your information for marketing purposes will not prevent y
 
 Your information may be shared among any or all of the Crate and Barrel brands: Crate and Barrel, CB2, and The Land of Nod. 
 
+If you have installed our mobile app, we may send push notifications to your mobile device. You can deactivate these messages at any time by changing the notification settings on your mobile device.
+
 Back to Top
 
 ##  Update Your Information 
@@ -121,7 +127,7 @@ Back to Top
 
 ##  Remove Your Name From Our Lists at Any Time 
 
-To remove your name from our email contact lists, please follow these simple [email opt-out instructions](https://web.archive.org/customer-service/email-preference.aspx). Please note that, to provide you with more control of your experience with us, opting out of one brand does not automatically opt you out of our other brands. For example, if you click through to opt out of emails from The Land of Nod, you will not be opted out of emails from Crate and Barrel or CB2; if you wish to opt out of either or both of those brands, you must visit each of their respective opt out pages and follow the opt out instructions. 
+To delete your name from our email contact lists, please follow these simple [email opt-out instructions](https://web.archive.org/customer-service/email-preference.aspx). Please note that, to provide you with more control of your experience with us, opting out of one brand does not automatically opt you out of our other brands. For example, if you click through to opt out of emails from The Land of Nod, you will not be opted out of emails from Crate and Barrel or CB2; if you wish to opt out of either or both of those brands, you must visit each of their respective opt out pages and follow the opt out instructions. 
 
 To request to have your name removed from the catalog mailing list, please complete this quick [catalog opt-out form](https://web.archive.org/customer-service/catalog-preference.aspx). We appreciate your patience while we process your request. When you make subsequent purchases at Crate and Barrel, CB2 or The Land of Nod, you may provide contact information for customer service only, and request that your name not be forwarded to either mailing list. If you have already opted out, you do not need to opt out again; your information will not be used for purposes other than the customer service you have requested, unless you affirmatively ask to opt in again, in which case you will be opted in and will receive emails from us until you again request to be opted out again. 
 
@@ -129,7 +135,7 @@ Back to Top
 
 ##  Notice to California Residents/Your California Privacy Rights 
 
-As set forth in this Privacy Policy, we offer our customers the ability to opt out of sharing personal information with third parties for their direct marketing purposes. To make such a request, follow [email opt-out instructions](https://web.archive.org/customer-service/email-preference.aspx) AND / OR [catalog opt-out form](https://web.archive.org/customer-service/catalog-preference.aspx), and clearly state your request, including your name, mailing address, email address and phone number. Please see the Your Information Sharing Choices section of this Privacy Policy for additional information. 
+As set forth in this Privacy Policy, we offer our customers the ability to opt out of sharing personal information with third parties for their direct marketing purposes. To make such a request, follow [ email opt-out instructions ](https://web.archive.org/customer-service/email-preference.aspx) AND / OR [ catalog opt-out form ](https://web.archive.org/customer-service/catalog-preference.aspx), and clearly state your request, including your name, mailing address, email address and phone number. Please see the  Your Information Sharing Choices  section of this Privacy Policy for additional information. 
 
 Back to Top
 
@@ -215,7 +221,7 @@ If you have any questions regarding our Privacy Policy, we will do our best to a
 
 **Phone:**  
 Customer Service Department  
-(800) 933-9904    
+[(800)933-9904](tel:8009339904)   
 Monday - Sunday, 7 days a week
 
 **Email:**  
@@ -230,4 +236,4 @@ Morton Grove, IL 60053
 
 Back to Top
 
-_Last Updated, January 13, 2016_
+_Last Updated, February 8, 2017_
