@@ -1,95 +1,144 @@
-> *The following text is extracted and transformed from the backpage.com.au privacy policy that was archived on 2016-05-26. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160526212541id_/http%3A//australia.backpage.com/classifieds/PrivacyPolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the backpage.com.au privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420114021id_/http%3A//australia.backpage.com.au/classifieds/PrivacyPolicy) for the most accurate reproduction.*
 
-# Australia classifieds for apts, jobs, and items for sale - backpage.com
+# Australia classifieds for apts, jobs, and items for sale - backpage.com.au
 
-**Privacy Policy  
-Last Revised: _June 1, 2015_**
+**Website Privacy Policy**
 
-backpage.com and its affiliates (collectively, the “Site”) respect your privacy. Here is our Privacy Policy for this Site:
+Last revised: April 8, 2017 
 
-**Acceptance of Privacy Policy**
+This website ("Site") is owned and operated by Payment Solutions B.V. and/or affiliates at Keizersgracht 127, 1015 CJ, Amsterdam, The Netherlands (“Backage”, “we”, “us”).
 
-Each time you access, use, post, submit a post or reply, or browse the Site, you signify your acceptance of the then-current Privacy Policy.  If you do not accept this Privacy Policy, you are not authorized to use the Site and must discontinue use of the Site immediately.
+Your use of the Site is governed by this website privacy policy ("Privacy Policy") and to our [Terms of Use](http://nederland.backpage.com/classifieds/TermsOfUse). By using this Site, we may collect, use and disclose your personal data as set forth in this Privacy Policy. Please read the following carefully to understand our practices regarding your personal data and how we will treat it. If you do not agree to this Privacy Policy, we recommend that you discontinue use of the Site immediately. 
 
-**Collection and Use of Personal Information**
+The Site may contain links to third-party websites / content / services that are not owned or controlled by backpage. We are not responsible for how these parties treat your personal data. We recommend that you read the privacy policies of these parties carefully. 
 
-We collect personal information about you whenever you engage in commerce transactions on the Site, use the Site’s products or services, request information or materials, create or update account information, place orders or make purchases, communicate with us, or visit the Site. The personal information we collect and store about you may include without limitation your first and last name, email address, credit or debit card number, telephone numbers, billing and shipping information, order history, and other non-public information about you.
+**Personal data we collect and process**
 
-We may use the information we collect to: 
+We may collect and process different types of personal data (i.e. any information relating to an identified or identifiable natural person). Such personal data may include the following.
 
-  *      Provide superior services; 
-  *      Keep you apprised of information and developments that you may find of interest; 
-  *      Alert you to new features, terms, content, products or services; 
-  *      Contact you regarding your posts, replies, and/or account information; 
-  *      Process and respond to your inquires; 
-  *      Improve the Site; 
-  *      Administer, monitor and control use of the Site, including posts, replies, and account information; and 
-  *      Enforce the [Terms of Use](https://web.archive.org/en-au/online/TermsOfUse) (collectively, the “Activities”).
+  * _Personal data you provide to us_
+Some of our services may require you to provide us with personal data. For example, we process your contact information, such as your address, location, ZIP code and email address when you create an account with us, when you leave an advertisement or when you comment on an item through our Site. In order to be able to use these services, you will be asked to provide a password and user identification. Depending on the services that you use, we may ask you to provide financial information and company information (such as company name and phone number). If you choose to place an advertisement through our Site or to provide feedback or send an email to us, we may keep a record of that posting or correspondence. Content you disclose when you place an advertisement, including the videos and images that you choose to add thereto, will naturally be available to the public. 
+  * _Personal data we automatically collect_
+We automatically receive and record information on our server logs from your browser as well as through other analysis of the Sites. Such information may include your IP address, the pages you request, type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome, Internet Explorer), information regarding your internet service provider, your activities while visiting the Site and the content you accessed. We gather such information through cookies and other web technologies. See also our "Cookies and other web technologies" section below to find more information. 
+  * _Personal data we receive from other sources_   
+We may also receive information about you from other sources. For example, we may receive your personal data if you use any of the other (web) services we - or our affiliated companies – provide. Also, we may do business with third parties (like business partners or analytical providers), from which we may obtain your personal data. Please read the privacy notice available through these services / parties to learn more.
 
 
 
-You authorize the Site to transmit email to you to respond to your communications and administer Activities. If you choose to receive mobile notifications, you authorize and agree that the Site may send text messages to your mobile phone, and you will be responsible for any message or data charges that may apply..
+**Purposes for which we collect, process and share your personal data**
 
- **Disclosure of Personal Information to Third Parties**
+Generally, we may process your personal data we collect through this Site for the following purposes: 
 
-We may disclose your personal information to agents and operators under confidentiality or similar agreements, including shippers, vendors, payment processors, and advertisers, who we believe reasonably need to come into contact with that information: (i) to provide products or services to you; (ii) to administer our business or the Site, including fulfilling and shipping orders; (iii) to provide customer service; (iv) to update account information; (v) to forward updates, announcements, and newsletters; (vi) to respond to your communications, and communicate with you about the Site and other activities related to the Site; (vii) in the event of any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of the Site’s business or operations (including without limitation in connection with bankruptcy or any similar proceedings); or (viii) as otherwise authorized by you. 
+  * to provide the products, services and information you request;
+  * to administer our business, including fulfilling and shipping orders;
+  * to contact you, for example with information and notices related to your advertisements;
+  * to respond to your communications, and communicate with you about the Site and activities related to the Site; 
+  * to validate your account and to update your account information;
+  * to confirm eligibility for the use of our services;
+  * to provide effective customer service and support;
+  * to improve the content, functionality and usability of the Site;
+  * to analyze trends and statistics and to monitor Site usage;
+  * to better understand your needs and preferences;
+  * to send you updates, announcements, newsletters and other marketing related information;
+  * to investigate, prevent or take action against illegal activities, suspected fraud, violations (e.g. of our Terms of Use), threats to the rights or safety of the Site, us, our affiliated companies or any third party or for any other security, credit or fraud prevention purpose;
+  * to protect the Site, our legal rights or defend ourselves against legal claims;
+  * for any reorganization, merger, sale, joint venture, assignment, transfer or disposition of all or any portion of our business or operations (including without limitation in connection with bankruptcy or any similar proceedings); 
+  * to respond to court order or subpoena, to respond to any request by government, law enforcement or investigative authority;
+  * for other legitimate business purposes where permitted or required by applicable laws and regulations.
 
-**Disclosure in Other Circumstances**
 
-We may also disclose your name, email address, telephone numbers, or other information about you, including personal information if (i) required to do so by law, court order or subpoena, or as requested by other government, law enforcement, or investigative authority, (ii) we in good faith believe that such disclosure is necessary or advisable, including without limitation to protect the rights or properties of the Site, (iii) we have reason to believe that disclosing your personal information is necessary to identify, contact or bring legal action against someone who may be causing interference with our rights or properties, or has breached an agreement, or if anyone else could be harmed by such activities or interference, (iv) if we determine an ad posted violates our Terms of Use or the rights of a third party, or (v) there is an emergency involving personal danger.  We may also provide information about you if we believe it is necessary to share information in order to investigate, prevent or take action regarding illegal activities, suspected fraud, situations involving potential threats to the physical safety of any person, or as otherwise required or permitted by law. 
 
-Please note that if you post any of your personal information on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post or otherwise make public.
+**Disclosing and sharing your personal data**
 
-**Collection of Non-Personal Information Using Cookies**
+We may share your personal data for the purposes described in this Privacy Policy. For example, we may share your personal data with our affiliated companies for our legitimate business purposes.
 
-We and certain service providers operating on our behalf collect information about your activity on our Site using tracking technologies such as cookies. This tracking data is used for many purposes, including, for example, to (i) deliver relevant content based on your preferences, usage patterns and location; (ii) monitor and evaluate the use and operation of our Site; and (iii) analyze traffic on our Site and on the sites of third parties. 
+Also, we may disclose your personal data to trusted third parties, including shippers, vendors, payment processors, hosting providers, advertisers and other third party service providers, for the purposes set out above. For example, we engage third party service providers to provide technical support services, to fulfill shipping orders or to analyze data. Consistent with applicable legal requirements, we take commercially reasonable steps to require these third parties to adequately safeguard your personal data in accordance with this Privacy Policy and applicable legislation. 
 
-Non-personal information collected includes, without limitation, your Internet Protocol (“IP”) address, the pages you request, the type of computer operating system you use (e.g., Microsoft Windows or Mac OS), the type of browser you use (e.g., Firefox, Chrome or Internet Explorer), the domain name of the Internet service provider, your activities while visiting the Site and the content you accessed. We may also collect your geolocation information when you visit our Site, including location information either provided by a mobile device interacting with our Site, or associated with your IP address, where we are permitted by law to process this information. 
+In the event of a merger, acquisition or a transfer, we may disclose personal data to the prospective seller or buyer of such business or assets. You will be notified on our Site of any material changes to this Privacy Policy. 
 
-Advertisers and third parties also may collect information about your activity on our Site and on third-party sites and applications using tracking technologies. Tracking data collected by these advertisers and third parties is used to decide which ads you see on third-party sites and applications, but does not identify you personally. You may choose not to receive targeted advertising from many ad networks, data exchanges, marketing analytics and other service providers. You may also choose to control targeted advertising you receive within applications by using your mobile device settings (for example, by re-setting your device’s advertising identifier and/or opting out of interest based ads). We adhere to the Digital Advertising Alliance’s Self-Regulatory Principles for Online Behavioral Advertising.
+Furthermore, we may also disclose your personal data if disclosure is required by law or in the context of an investigation, regulatory requirement, judicial proceeding, court order or legal process served on us, or to protect the rights or safety of the Site, us, our affiliated companies or any third party. 
 
-**Communication from the Site/Opt-Out**
+Please note that if you post any of your personal data on the Site, such information may be collected and used by others over whom the Site has no control. The Site is not responsible for the use by third parties of information you post on the Site or otherwise make public. 
 
-From time to time, we may send you information with announcements and updates about the Site and your account. You may elect to opt-out of ongoing e-mail communication from us, such as newsletters, subscriptions, account information, promotional materials, contest results, survey inquiries, etc. by using a simple “opt out” procedure. You need only reply to the communication with the word “unsubscribe” (without the quotation marks) in the body of your e-mail response and your name will be removed from that mailing list. However, if you opt-out of receiving our announcements and updates about your account, you may no longer have access to areas restricted to account members.
+**Cookies and other web technologies**
 
-**Correction/Update of Personal Information**
+Cookies are small text files that are placed on your device and they allow websites to store and retrieve information about you from your device. The Site does serve cookies to track individual Site usage for later aggregation. We use the information obtained through these cookies to better understand and improve Site user experience, services and offerings as well as to manage our interactions with you. For example, we use cookies to help us to understand how you engage with and navigate our Site. We do not use cookies in order to retrieve any information from your computer other than information originally sent in a Site cookie, such as a user code. 
 
-If your personal information changes, you may review/correct/update your personal information previously provided at any time by sending us an email at [support@backpage.com](mailto:support@backpage.com). You may also have your personal profile data deleted from our database by sending us an email to [support@backpage.com](mailto:support@backpage.com). However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas restricted to account members and certain benefits for account members.
+We may use the following cookies on our Site: 
 
- **Contact Us:**
+**Cookies**
 
-Email: [Contact us](http://posting.www.backpage.com/classifieds/Contact)   
-Telephone: +44 1929290057
+Primary Cookies
 
-Postal Address:   
-International Correspondence:   
-Payment Solutions BV.  
-Keizersgracht 127  
-1015 CJ Amsterdam  
-The Netherlands
+Cookie Name  |  Purpose   
+---|---  
+site  |  This cookie expires after one year. This cookie is used to remember the last site/city a user visited at backpage, so they can be automatically directed to that site/city on their next visit to backpage.   
+login  |  This cookie expires after the current browser session ends, or after 8.5 days if the 'remember me' option is selected. This cookie is used to maintain the user's login during their visit.   
+login_do_not_remember_me  |  This cookie expires after one year. This cookie stores the user's browser-only preference for the login cookie.   
+postingUrl  |  This cookie expires after the current browser session ends. This cookie is used to return a user to the posting process after logging in.   
+affiliate  |  This cookie expires after one year. This cookie is used to correlate affiliate information when applicable.   
+cookieLawDisclaimer  |  This cookie expires after one year. This cookie is used to acknowledge consent to cookies in accordance with local laws.   
+  
+Third Party Cookies
+
+We work with CloudFlare, a content delivery network, to improve the user experience and enhance page load times. As a part of their network, CloudFlare uses a cookie to ensure you are able to access our website, even if neighboring computers are infected with malware. For more information, see <https://support.cloudflare.com/hc/en-us/articles/200170156-What-does-the-Cloudflare-cfduid-cookie-do>. 
+
+_How to manage cookies_
+
+Your web browser can be set to allow you to control whether you will accept cookies, reject cookies, or to notify you each time a cookie is sent to your browser. If your browser is set to reject cookies, some of our services may be prevented from working correctly and it is possible that you do not have access to (some of the features on) our Site. The 'Help' section of your browser will tell you how to prevent your browser from accepting cookies, or follow the links below to clear, enable and manage cookies in your browser: 
+
+  * [InternetExplorer](https://support.microsoft.com/en-us/help/17442/windows-internet-explorer-delete-manage-cookies)
+  * [Mozilla Firefox](https://support.mozilla.org/en-US/kb/cookies-information-websites-store-on-your-computer?redirectlocale=en-US&redirectslug=Cookies)
+  * [Google Chrome](https://support.google.com/chrome/answer/95647?hl=en)
+  * [Safari](https://support.apple.com/kb/PH5042?locale=en_US)
+  * [Opera](https://www.opera.com/help/tutorials/security/privacy/)
+
+
+
+If you are using a smartphone, set your preferences through the 'Settings' app of your smartphone and/or the browser(s) app(s). 
+
+There are also software products available that can manage cookies for you. You can also use [www.ghostery.com](https://web.archive.org/web/20170420114021id_/http%3A//australia.backpage.com.au/classifieds/www.ghostery.com) to accept or refuse each cookie used on the Site.
+
+To find out more about cookies, including how to see what cookies have been set and how to manage or delete them, visit [www.allaboutcookies.org](https://web.archive.org/web/20170420114021id_/http%3A//australia.backpage.com.au/classifieds/www.allaboutcookies.org). 
+
+**Controlling your personal data**
+
+_Updates to your personal data_
+
+ __You can request access to, and have the opportunity to update and amend your personal data, and you can exercise any other rights you enjoy under applicable data protection laws, by sending us an email at support@backpage.com. For example, if your personal data such as your address changes, you may update such information previously provided at any time.
+
+You may also have your personal profile data deleted from our database by sending us an email to support@backpage.com. However, if you have your personal profile data deleted from our database, you may forfeit entrance rights to areas on the Site restricted to account members and certain benefits for account members.
+
+_Opt-out from our communications_
+
+From time to time, we may send you information with announcements and updates about the Site and your account. You may elect to opt-out of ongoing email communication from us, such as newsletters, subscriptions, account information, promotional materials, contest results, survey inquiries, etc. by using the simple "opt out" link at the bottom of each email. Alternatively, you may reply to the communication with the word "unsubscribe" (without the quotation marks) in the body of your email response and your email address will be removed from that mailing list. However, if you opt-out of receiving our announcements and updates about your account, you may no longer have access to areas on the Site restricted to account members. 
+
+_Notice of privacy rights of California residents_
+
+California law permits residents of California to request certain details about how their information is shared with third parties for direct marketing purposes. Under the law, a business must either provide this information or permit California residents to opt-in to, or opt-out of, this type of sharing. We qualify for this alternative option. To opt-out of having information about you shared with third parties for direct marketing purposes, please contact us. 
+
+**Data retention and security**
+
+We will retain your data only for the period necessary to fulfil the purposes outlined in this Privacy Policy, unless a longer retention period is required or permitted by applicable law. 
+
+We understand that storing and processing data in a secure manner is important. We use industry standard efforts, reasonable and technically feasible, and physical, technical and administrative safeguards against risks, such as loss, theft, misuse, unauthorized access, disclosure, alteration, copying, accidental or unlawful destruction and any other forms of unlawful processing. All commerce transactions that take place on the Site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. 
+
+Please be aware that the Site and data storage are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond our control. We cannot guarantee the security of the information on and sent from the Site. Therefore, although we take reasonable measures to protect your data, we cannot ensure the security of any information you transmit to us or our Site and online services and you do so at your own risk. Once we receive your transmission, we will use industry standard efforts to ensure its security on our systems. 
+
+On our Site, you may have the opportunity to follow a link to other websites that may be of interest to you. We are not responsible for the privacy practices of those websites or the content provided thereon. We disclaim any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. 
 
 **Children**
 
-The Site is not intended for children under the age of 13 nor does the Site knowingly collect personal information from children under 13. The Site does not orient this Site toward children or target them as an audience, nor does it screen them from using the Site. Some of the material on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children’s use. The Site does not collect or distribute information indicating whether a user is a child.
+The Site is not intended for children under the age of 13 nor does the Site knowingly collect personal information from children under 13. We do not orient this Site towards children or target them as an audience, nor do we screen them from using the Site. Some of the materials on this Site is for mature audiences, and parents and guardians should take responsibility for monitoring their children's use. The Site does not collect or distribute information indicating whether a user is a child. 
 
-**Links to Other sites**
+If we learn that we have personal data on a child under the age of 13, we will delete that information from our systems. 
 
-This Site provides links and pointers to Web sites maintained by other organizations. The Site provides these links as a convenience to users, but it does not operate, control or endorse such sites. The Site also disclaims any responsibility for the information on those sites and any products or services offered there, and cannot vouch for the privacy policies of such sites. The Site does not make any warranties or representations that any linked sites (or even this Site) will function without error or interruption, that defects will be corrected, or that the sites and their servers are free of viruses and other problems that can harm your computer.
+**Privacy Policy updates**
 
-**E-Commerce and Our Secure Server**
+This Privacy Policy may be revised from time to time. All updates to this Privacy Policy will be posted on the Site. We display an effective date on the upper left corner of the Privacy Policy so that it will be easier for you to know when there has been a change. Accordingly, you should check the Privacy Policy on a regular basis for the most current privacy practices as your use of the Site is governed by the then-current version of the Privacy Policy. 
 
-We understand that storing data in a secure manner is important.  We store personal information using industry standard, reasonable and technically feasible, physical, technical and administrative safeguards against foreseeable risks, such as unauthorized access.  All commerce transactions that take place on the Site are processed through our secure server in order to make every reasonable effort to insure that your personal information is protected. 
+Any changes in the Privacy Policy will take effect upon posting and apply only to personal data collected from you on and after the date of the last revision, unless we provide notice or communicate otherwise to you. 
 
-Please be aware that the Site and data storage are run on software, hardware and networks, any component of which may, from time to time, require maintenance or experience problems or breaches of security beyond the Site’s control.  We cannot guarantee the security of the information on and sent from the Site. 
+**More questions?**
 
-On our Site, you may have the opportunity to follow a link to other sites that may be of interest to you.  We are not responsible for the privacy practices of those sites or the content provided thereon.  We disclaim any responsibility for transactions conducted on those sites and cannot vouch for the security of the information submitted in those transactions. 
-
-**Policy Changes and Acceptance**
-
-The Privacy Policy may be revised from time to time as we add new features and services, as laws change, and as industry privacy and security best practices evolve.  We display an effective date on the upper left corner of the Privacy Policy so that it will be easier for you to know when there has been a change. Accordingly, you should check the Privacy Policy on a regular basis for the most current privacy practices.  Each time you access, use or browse the Site, you signify your acceptance of the then-current changes to the Privacy Policy applying to your personal information collected by us on and from the effective date of such changes. 
-
-Any changes in the Privacy Policy will take effect upon posting and apply only to information collected from you on and after Last Revised date, unless we provide notice or have other communications with you. 
-
-**More Questions?**
-
-If you have any questions about this Privacy Policy, e-mail them to [abuse@backpage.com](mailto:abuse@backpage.com), and be sure to indicate the specific site you’re visiting and the nature of your question or concern.
+If you have any questions about this Privacy Policy, your personal data or if you require assistance in managing your choices , e-mail them to support@backpage.com and be sure to indicate the specific section of the Site you're visiting and the nature of your question or concern. 
