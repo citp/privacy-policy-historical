@@ -1,56 +1,85 @@
-> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2016-06-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160616190642id_/http%3A//www.satisfaction.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the satisfaction.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420214840id_/https%3A//www.satisfaction.com/privacy-policy) for the most accurate reproduction.*
 
-# Satisfaction | Privacy Policy
+# Satisfaction - Privacy Policy
 
-Satisfaction.com strongly believes in the privacy of all information collected through this site and we do not sell, rent or otherwise transfer any personally identifiable information about our users to any third party without the prior consent of the individual user.
+## PRIVACY POLICY
 
-We believe that our site is best served when our users know that their privacy is respected above and beyond any commercial gains that can arise out of the use/misuse of such information.
+**WE SHARE YOUR CONCERNS ABOUT SAFEGUARDING YOUR PERSONAL INFORMATION**
 
-Our objective is to build an online community based on integrity and trust. We will always champion and support that mission. We trust that our users will use our site properly and in return, we respect them and will not betray their trust.
+Satisfaction Adult Store facilitates the operation of the shopping website located at Satisfaction.com (referred to later as the “Site,” “we,” or “us”). We fully understand the need to protect your personal information while online and we have developed this policy as a means to provide you with the utmost privacy possible. This Privacy Policy (referred to later as “Policy”) describes our practices regarding the collection and use of information throughout out the Site. By using the Site or obtaining any product or service through this Site, you agree the limited collection and use of information as outlined in this Policy. If you do not agree to this Policy, please do not use the Site.
 
-Our Commitment To Privacy
+We may from time to time update this Policy to reflect changing technology and other factors. We will notify you of changes to the Policy by posting the updated Policy on this page. We ask that you bookmark and periodically review this page to ensure that you remain familiar with the most current version of the Policy. You can determine when this Policy was last revised by checking the “LAST REVISED” legend at the bottom of the Policy.
 
-Your privacy is important to us. To better protect your privacy we provide this notice explaining our online information practices and the choices you can make about the way your information is collected and used. To make this notice easy to find, we make it available on our homepage and at every point where personally identifiable information may be requested. 
+The Site collects two basic types of information during your visits to our Site.
 
-Satisfaction.com adheres to the Network Advertising Initiative ("NAI"), a cooperative of online marketing and analytics companies committed to building consumer awareness and establishing responsible business and data management practices and standards. More information about the NAI and its 2008 NAI Principles can be found at [http://www.networkadvertising.org](http://www.networkadvertising.org/). To opt-out from such information collection and use, visit the NAI's opt-out page at <http://www.networkadvertising.org/managing/opt_out.asp>. 
+First, we collect non-personally identifiable information. This is general information that cannot be traced to individuals and contains no personalized data, think of it as a simple census form. When visitors come to our Site, we collect and aggregate information indicating, among other things, which pages of the Site were visited, the order in which they were visited and which links on the site were clicked by visitors. We use this information in making modifications and improvements to the site to provide you, the user, with both a smoother and more efficient shopping experience.
 
-The Information We Collect:
+We also use non-invasive “cookies” and other tracking technologies to collect non-personally identifiable information which we then use to provide you with an easier shopping experience. Cookies are alphanumeric identifiers that are stored on your computer’s hard drive by your Web browser. These cookies do not track other websites you might visit and they do not plant malware on your computer. Our non-invasive cookies simply make it possible for us to recognize your browser once you visit our Site. By doing this, we can personalize your return visits and save you time during checkout. Your browser must be set to accept cookies in order for you to enjoy the benefits of being a registered user of the Site. If you are uncomfortable with the cookies on your computer, you can always remove them by accessing the options menu of your browser. Please refer to your browser’s help menu for more specific directions if needed.
 
-This notice applies to all information collected or submitted on the Satisfaction.com website. On some pages, you can sign up, make requests and register. The types of personal information collected at these pages are: 
+Second, we collect personally identifiable information as needed to fulfill your order. In general, our Site uses an order form (shopping cart), and a registration form so that you can request information, products and services from us. These forms require that you provide us with personally identifiable information, such as your name, email address, physical address and telephone number to receive the requested services or products.
 
-Name   
-City   
-Email address 
+When you use the Site to purchase a product or service as a gift, we will collect from you personally identifiable information regarding the gift recipient or potential gift recipient so that we can deliver the gift to them if requested.
 
+Please take some time to familiarize yourself with the different ways that the Site uses the information that we gather. Keep in mind that, while we encourage all third parties involved in running our business to adhere to our policies regarding the privacy of our visitors and to handle personally identifiable information in a responsible manner, we cannot and do not assume any responsibility for any actions or omissions of third parties, including the manner in which they use information received either from the Site or independently.
 
+Non-personally identifiable information
 
+The Site uses non-personally identifiable information, such as your IP address and the pages that you visit on our Site, to help diagnose problems with our servers and to administer our Site and improve Site-related services and features. Your IP address and other non-personally identifiable information also may be used to gather broad demographic information and to recognize customer traffic patterns and Site usage trends. This information aids us in developing the design and layout of the Site.
 
-The Way We Use Information:
+Personally Identifiable Information
 
-We use the information you provide about yourself in order to properly run our site. We do not share this information with outside parties. 
+The Site uses personally identifiable information collected from you to complete transactions initiated by you, particularly the sale and delivery of products and services. Your personally identifiable information is also used to contact you when necessary regarding questions about any order you might place. We may also use personally identifiable information to contact you to make sure you are satisfied with our goods and services or to find out how we can serve you better. Your decision to participate in any survey or questionnaire about this is completely voluntary.
 
-We use return email addresses to answer the email we receive on our contact form. Such addresses are not used for any other purpose and are not shared with outside parties. 
+Financial information (credit card numbers, credit card expiration dates, billing address, and so forth) is used solely to bill you for products and services and we make every effort to keep your information secure from theft or fraud. We do not store your credit card information on our servers.
 
-You can register with our website if you would like to receive our newsletter as well as updates on our services. Newsletter subscriptions are on a user opt-in basis. Members may opt-out of newsletter subscriptions at any time. Critical site service-related or system-related notices affecting site functionality or security will be emailed to all active members regardless of newsletter preference.
+You may, from time to time, receive opt-in information from us regarding new features, new products and services and special offers, or newsletters that we think you’ll find valuable. If you’d like to opt out of receiving future mailings from the Site, please follow the procedure outlined in the Choice/Opt-out section below.
 
-We use non-identifying and aggregate information to better design our website and to share with advertisers. For example, we may tell an advertiser that X number of individuals visited a certain area on our website or that Y number people filled out our registration form, but we would not disclose anything that could be used to identify those individuals. 
+The Site also may use your personally identifiable information to “pre-populate” forms that are used by the Site to facilitate transactions with us and save you from entering every data field on the checkout each time.
 
-Finally, we never use or share the personally identifiable information provided to us online in ways unrelated to the ones described above without also providing you an opportunity to opt-out or otherwise prohibit such unrelated uses. 
+Gift Recipients
 
-Our Commitment To Data Security
+As noted above, we collect personally identifiable information regarding gift recipients and people to whom you may wish to give gifts in the future. This is done in order to accommodate proper gift delivery to such recipients. We do not sell or rent any personally identifiable information that you provide to us regarding such persons.
 
-To prevent unauthorized access, maintain data accuracy, and ensure the correct use of information, we have put in place appropriate physical, electronic, and managerial procedures to safeguard and secure the information we collect online. 
+Service Providers
 
-Our Commitment To Children's Privacy:
+We work with third parties who provide services, including but not limited to website hosting, order processing and fulfillment, credit card clearance, data analysis, emailing and other services of an administrative nature. Personally identifiable information, including financial information, is shared with such third parties for the purpose of providing you services or products and is limited to the intended purpose only.
 
-Protecting the privacy of the very young is especially important. For that reason, we never collect or maintain information at our website from those we actually know are under 18, and no part of our website is structured to attract anyone under 18. 
+Subject to applicable law, we reserve the right to release information concerning any Site visitor where such visitor is believed to be in violation of his or her obligations to us, is partaking (or is suspected of partaking) in any illegal activity, in response to civil subpoenas and discovery requests, to protect the interests of the Site, our customers or others, and as otherwise permitted or required by law as regards to these special cases.
 
-How You Can Access Or Correct Your Information
+The Site seeks to use reasonable security measures to help protect against the loss, misuse and alteration of personally identifiable information that is under our control. While no security system, or system of transmitting data over the Internet, can be guaranteed to be 100% secure, we seek to protect your personally identifiable information through several sources. First, all pages containing personal information are encrypted using secure https protocol. Second, customer credit card numbers are not visible in their entirety (i.e., XXXX XXXX XXXX 1234) when entered. Third, we use Stripe for all payment processing. Stripe one of the world’s leading credit card processing companies. Your credit card information is never stored on our servers- It is sent directly and securely to Stripe. We cannot guarantee the means by which information is transmitted between your computer and the Site servers, or any information provided to us or to any third party through or in connection with the Site. You provide all such information at your own risk, but please remember that these risks can be minimized by using responsible browsing habits such as the use of https, anti-virus software and similar protection measures.
 
-You can access all your personally identifiable information that we collect online and maintain it by logging in to your account and making the appropriate changes at any time. 
+If you have signed up for an account with the Site, you may update your mailing address, email address, name changes or telephone number by clicking “my account” located at the top of the page. This takes you to a page with your account information and preferences. Please take the time to make sure your information is accurate for timely delivery as well as keeping your mailing preferences updated.
 
-To protect your privacy and security, we will also take reasonable steps to verify your identity before granting access to your account and/or making corrections to your information. 
+If you have any questions about this Policy, the data collection and usage practices of this Site, or your dealings with this Site, or if you wish to report a violation of this Policy, you can contact us.
 
-How To Contact Us
+Email Preferences
 
-Should you have other questions or concerns about this privacy policy, please [contact us](http://www.satisfaction.com/contactus.php). 
+By placing an order, you will NOT be automatically subscribed to our newsletter program. If you would like to receive our newsletters and/or promotional communications, you may do so at check out or through managing your email preferences in My Account. Your information is secure and confidential and will not be sold or shared with any 3rd parties except as necessary to fulfill your order.
+
+OPT-IN EMAILS: QUESTIONS AND ANSWERS
+
+What type of opt-in emails will I receive from the Site?
+
+Exclusives, Sales & Special Offers, Newsletters: Get the scoop on promotional events, email exclusive discounts and more.
+
+I signed up, so why am I not receiving emails from the Site in my personal inbox? 
+
+First, make sure your email address is correct in your account profile. Next, Emails from us may be going to your spam folder, if so, please add our email to your address book.
+
+If I uncheck the box will I still receive emails from the Site? 
+
+You will no longer receive any type of marketing or promotional emails, however for every purchase you make you may receive the following types of emails: Order Updates & Confirmations and Online Shipping Confirmations.
+
+How do I opt out of emails from the Site?
+
+If you provide our website with your email address, you may receive emails from us. If you do not want to receive marketing or promotional emails from us, please click on the unsubscribe link in any email from the Site or update your email preferences in My Account.
+
+If I have an online account, how do I change my email address with the site?
+
+If you have a website account and wish to update your email address, please enter your changes in My Account.
+
+Can I create an online account and not receive marketing or promotional emails from the Site?
+
+Yes. After setting up an account, you can log in and set your preference to not receive promotional emails.
+
+LAST REVISED: January 13, 2017
