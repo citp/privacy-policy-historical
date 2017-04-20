@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the scribie.com privacy policy that was archived on 2016-12-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161221155922id_/https%3A//scribie.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scribie.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420094341id_/https%3A//scribie.com/privacy-policy) for the most accurate reproduction.*
 
-# Scribie | Privacy Policy
+# Scribie Audio/Video Transcription | Privacy Policy
 
 ##  Audio/Video Transcription Service 
 
