@@ -1,125 +1,130 @@
-> *The following text is extracted and transformed from the beamly.com privacy policy that was archived on 2014-04-16. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20140416021317id_/http%3A//beamly.com/help/privacy-and-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the beamly.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421012441id_/https%3A//www.coty.com/privacy-policy) for the most accurate reproduction.*
 
-# zeebox - Privacy and Cookies
+# Privacy Policy | Coty
 
-## Who we are
+**Last Modified: June 2012**
 
-Zeebox Inc. is a corporation incorporated in Delaware, USA with its principal office at 84 Wooster Street, Suite 703, New York, NY 10012, USA. 
+Coty Inc. and its affiliates and subsidiaries (collectively, “ **Coty** ”, “ **our** ”, “ **us** ” or “ **we** ”) respect your privacy and the relationship we have with you. This Privacy Policy describes the type of personal information Coty collects on the website accessible at [www.coty.com](http://www.coty.com/) and Coty’s various brand websites, including any mobile versions or related mobile applications (collectively, the “ **Coty Sites** ”), and how we may use and share that information, and what your choices are regarding your information.
 
-We are committed to respecting the privacy rights and concerns of all users of our website located at http://zeebox.com ( **"Site"** ), the zeebox digital app ( **"App"** ), our **"** **Software"** (which includes the software we developed to run our App, any related documentation or data distributed to you and any future fixes, updates and upgrades), and the various services that we provide ( **"Service"** ) (we refer to the Site, the App, the Software and the Service collectively as **"zeebox"** ). 
+**You acknowledge, by accessing, using and visiting the Coty Sites and by providing information to Coty, that you accept this Privacy Policy and Coty's privacy practices, including with regard to Coty’s collection, use and disclosure of personal information. Please do not provide us with any personal information that you do not want to be used by Coty in the manner set out in this Privacy Policy.**
 
-This Privacy and Cookies Policy ( **"Privacy Policy"** ) sets out how we deal with data we collect from you when you are using or accessing zeebox. It also covers our treatment of any data that our business partners share with us or that we share with our business partners. 
+Unless otherwise defined in this Privacy Policy, capitalized terms used in this Privacy Policy have the same meaning as in our Terms of Use, accessible at <http://coty.com/terms-use>.
 
-## What data do we collect?
+How We Collect Information  
+What Information We Collect & How We Use It  
+Cookies  
+Pixel Tags  
+How We Share Information  
+Your Privacy Choices  
+Transfer of Data to Other Countries  
+Security  
+Third Party Links  
+Social Networks & Public Forums  
+Contest and Promotions  
+Children’s Privacy  
+Notice to California Residents  
+Updates to this Privacy Policy  
+Contact Us
 
-We may collect "personal data" (data that identifies you). For example, when you download zeebox, you will be asked to create a zeebox account by registering with your name, email address, a password and your date of birth (or using your Facebook account log in details). You may also choose to connect to a third party social networking service (e.g. Twitter or Facebook) via zeebox which authorizes us to interact with your accounts including for the purpose of accessing and publishing data (e.g. your image, your tweets) within zeebox as well as on these third party services. It is our policy not to ask you for personal data that we don't really need. 
+#### How we collect information
 
-We may also collect non-personal data. For example, we may track and compile data with respect to general viewing trends / Site usage on a non-personally identifiable basis. When you visit our Site or use the App we may automatically log your IP (internet protocol) address which is a unique identifier for your computer or other access device. This will typically tell us the date and time of your visit to our Site, your choice of ISP (internet service provider) and your geographic location. Other non-personal data, such as randomly assigned numeric identifiers, may be collected by our partners for statistical purposes. Non-personal data relating to application usage such as the kind of mobile devices our users use, the operating system on our users’ mobile devices, when the App is downloaded and how and how often the App is used may be collected by our analytics service providers through receiving and storing users’ unique device identifiers such as the Apple Advertising Identifier (a non-permanent, non-personal device identifier associated with users’ Apple mobile devices). All of this information is used by us internally for the purpose of understanding how zeebox is being used and improving the App. 
+We collect information that you voluntarily provide when you use certain features of the Coty Sites, such as such as when you sign up to obtain Coty’s newsletters or information on Coty products or events, apply for employment, request free samples, call or email us or communicate with us through social media, or when you participate in events or other promotions.
 
-Some features of zeebox allow you to provide content to zeebox, such as written comments. All content submitted by you to the zeebox may be retained by us indefinitely, even after you terminate your account. We may continue to disclose such content to third parties in a manner that does not reveal personal information, as described in this Privacy Policy.
+When you visit or use the Coty Sites, technological tools including “Cookies” and “Pixel Tags” may also collect certain information, as explained below. 
 
-## How do we use the data we collect?
+#### What information we collect & how we use it
 
-### Personal data
+The types of personal information Coty may collect include: first name, last name, email address, postal address, date of birth, phone number, gender, country of residence, visitors' lifestyle/interests, product preferences, and information by which you or the device you are using to connect to the Coty Sites can be identified. 
 
-Information about your viewing habits and information you post is shared with the public according to the preferences accepted or set by you when you join zeebox or updated by you at a later time under the Settings menu. Your profile is visible to your friends in accordance with your settings.
+If you would prefer that we not collect any personal information from you, please do not provide us with any such information or opt out of providing such information where applicable.
 
-If you submit any information to zeebox by way of posting or tweeting, you should have no expectation of privacy with respect to any such submission. Please keep in mind that whenever you give out personal information online, that information can be collected and used by people you don’t know. We cannot guarantee the security of any information you disclose online; you make such disclosures at your own risk.
+Coty, or third parties on our behalf, may use the personal information that you provide for the following purposes:
 
-We may collect other personal data from you so that we can provide zeebox to you and enhance your experience of zeebox. For example, we may use your previous viewing habits to recommend other programming to you and to make you aware of special offers, new products or services or functionality changes relating to zeebox. We may personalize your repeat visits to our Site and formulate our marketing on our Site so that it is targeted based on your television viewing or online behavior. We may use your personal data to contact you and, if you agree, to enable our affiliates/partners/advertisers to contact you. For example, we may contact you to give you notices about your zeebox account, app updates, new zeebox services and features or to fulfil the purpose of a zeebox feature (such as when you click on the “Follow” Button on our (or on certain of our partners’) website, you automatically elect to allow us and/or certain of our partners to contact you via email with feeds and reminders about the shows you are following). We may also use your personal data to contact you about certain of our partners’ services that may be of interest to you. If you do not want us to use your information in this way, please adjust your Alert Settings in your account profile or email us at info@zeebox.com.
+**• Marketing Communications:** If you so elect, we may use the personal information you provide to us to deliver you newsletters, emails, surveys or other communications about our products, sweepstakes and contests, promotions or other information that may be of interest to you.
 
-### Non-personal data
+**• Customer Service:** We may use your personal information you provide to us to process and respond to your questions and/or inquiries.
 
-We may use anonymous data collected from zeebox for site administration, analytics, advertising and promotional purposes, and we may share such information with other entities (such as service providers) for such purposes. We may also aggregate data to enable research or analysis so that we can better understand and serve you and others. For example, we may conduct research on your demographics and viewing behavior. Although this aggregated data may be based in part on personal data, it does not identify you personally. zeebox may share this type of anonymous data with others, including service providers, our affiliates, agents and current and prospective business partners. We may use your anonymous data outside of zeebox to improve third party marketing or use your data in combination with third party data to improve your experiences both in and outside zeebox. We may retain your IP address and/or other device-identifying data in order to help us diagnose problems with our servers, to administer zeebox including personalizing content or links relevant to your geographic area or device-type, to verify that your account is not being used by others, to gather broad anonymous demographic data (such as the number of visitors from a geographic area), to enforce compliance with our [Terms of Use](https://web.archive.org/help/terms-of-use) or otherwise in order to protect our services, Sites, customers, or other third parties.
+**• Site Optimization and Management:** We may use your personal information provided to us to administer the Coty Sites, customizing future visits based on your interests, and improving the Coty Sites. In addition, Coty may collect and store IP addresses in an aggregated way in order to analyse trends, administer the Coty Sites, track traffic patterns and gather information for aggregate use.
 
-We use analysis tools including Mixpanel and Flurry Analytics. These provide us with information about how our users use the App. Mixpanel and Flurry Analytics use the data they collect (such as platform, application version, device identifier, device model, manufacture and operating system version, session stop/start time, location, time zone and network status (e.g. WiFi)) to create reports for us to analyze our user base and improve the app. 
+**• Employment:** We may use your personal information that you provide to us with respect to employment, such as your resume, only to consider you for current and future employment opportunities and to contact you with respect to employment with the Coty company you have expressed interest in or one of our affiliates or subsidiaries. We will retain your recruiting information for further recruitment opportunities that may arise, unless you tell us that you no longer wish for us to retain your information.
 
-## What control do I have over zeebox's use of my personal data?
+#### Cookies
 
-We want you to retain as much control as possible over your personal data and your use of zeebox generally. You may use certain zeebox features without any registration. If you would like us to delete/correct personally identifiable data, let us know and we will action your request as soon as practicable. If you would like to dictate what is published and what others can see, please update your preferences accordingly. If you would like to modify the ways we access and use data we obtain as a result of our interaction with third party login services such as Twitter or Facebook, please change your app settings on these third party login services. 
+Subject to your prior explicit consent where such consent is required by the applicable law in your jurisdiction, Coty may place small data files on your computer, known as "cookies", in order to facilitate your browsing on the Coty Sites and improve the quality of the Coty Sites. A "cookie" primarily stores information concerning your visits and preferences as to your browsing on the Coty Sites, so you do not have to re-enter your settings when you come back to a Coty Site. Learn more about cookie settings [here](http://www.coty.com/cookie-policy). 
 
-Make sure you keep your account and password secure and that access to your device is protected by password. Your account information will be protected by a password for your privacy and security. You need to prevent unauthorized access to your account and personal information by selecting and protecting your password appropriately and limiting access to your computer or device and by signing off after you have finished accessing your account. 
+You can prevent this storing by refusing the cookies when applicable, or by changing your browser settings. Most browsers will tell you how to stop accepting new cookies, how to be notified when you receive a new cookie, and how to disable existing cookies. However, please be aware that when you disable cookies, some features and services on the Coty Sites may not function properly. In addition, disabling cookies may cancel opt-outs that rely on cookies, such as web analytics.
 
-If you are a registered user, you can access information associated with your account by logging into zeebox. 
+Certain Coty Sites may use analytics partners including Omniture and Google Analytics to gather anonymous statistical and analytical information about how you use such Coty Site. In particular, Google Analytics, a service provided by Google, Inc. (“Google”), uses cookies to compile anonymous, aggregated statistics about website users. The information generated by the cookie about your use of the website (including your IP address) will be transmitted to and stored by Google on servers in the United States. Google will use this information for the purpose of evaluating your use of a particular Coty Site, compiling reports on website activity for website operators and providing other services relating to website activity and Internet usage. Google may also transfer this information to third parties where required to do so by law, or where such third parties process the information on Google’s behalf. Your browser settings may allow you to opt out. Google will not associate your IP address with any other data held by Google. You may visit Google’s website at google.com to learn more about Google Analytics and any opt-out features provided by Google to website users. By using the Coty Sites, you consent to the processing of data about you by Google in the manner and for the purposes set out above. You may opt out of the aggregation and analysis of data collected about you on the Coty Sites by our web analytics vendors by clicking [here](http://www.omniture.com/en/privacy/product#optout) and [here](https://tools.google.com/dlpage/gaoptout) and selecting the opt-out link at the bottom of the linked site.
 
-_California Privacy Rights_ : Under California Civil Code sections 1798.83-1798.84, California residents are entitled to ask us for a notice identifying the categories of personal customer information which we share with our affiliates and/or third parties for marketing purposes, and providing contact information for such affiliates and/or third parties. If you are a California resident and would like a copy of this notice, please submit a written request to the following address: 84 Wooster Street, Suite 703, New York, NY 10012, USA. Email: [info@zeebox.com](mailto:info@zeebox.com) . 
+#### Pixel Tags
 
-## Will we share your data with third parties?
+Subject to your prior explicit consent where such consent is required by the applicable law in your jurisdiction, Coty may use pixel tags (also known as "clear gifs" or "web beacons"), tracking links and/or similar technology to monitor the activity of some of the pages you visit on the Coty Sites in order to personalize your experience, facilitate your browsing on the Coty Sites and improve the quality of the Coty Sites. Coty may use the information collected through pixel tags, tracking links and similar technology in combination with your personally identifiable information.
 
-We may share non-personal data with third parties to, for example (but not by way of limitation), improve zeebox and to enable data aggregation (as described above). 
+#### How we share information
 
-With your consent, we may share your personal data with subcontractors (only when necessary), our affiliates and/or partners (subject to confidentiality obligations to use it only for the purposes for which we disclose it to them and pursuant to our instructions) and advertisers. For example, our partners may use your email address to contact you in relation to your favourite shows. We will require our partners to allow you to notify them if you want to opt-out from receiving any such emails or other promotional materials from them. If you do not want to receive such emails from our partners, please contact them directly or use the relevant ‘Unsubscribe’ link in our partners’ emails (or our partners’ opt-out mechanism, as applicable). 
+Your information (personal and non personal) may be shared within the Coty group of companies (Coty Inc. and its affiliates and subsidiaries). However, Coty does not disclose or sell your personal data to third parties, except to specific third parties as described below:
 
-We may also share personal data with interested parties in the event that zeebox anticipates a change in control or the acquisition of all or part of our business or assets or with interested parties in connection with the licensing of our technology.
+**Third Parties for Marketing Purposes**  
+Certain promotions and events sponsored by Coty or certain portions of the Coty Sites may offer you the opportunity to consent to the sharing of your information with Coty’s business partners such as Coty’s licensors or promotion co-sponsors. If you have given your explicit consent, your information will be shared with that specific third party and the information you provide may be used by such third party for their own purposes and in accordance with their own policies (including how to opt-out with such third party). 
 
-If zeebox is sold or makes a sale or transfer, we may, in our sole discretion, transfer, sell or assign your personal data to a third party as part of or in connection with that transaction. Upon such transfer, the Privacy Policy of the acquiring entity may govern the further use of your personal data. In all other situations your data will still remain protected in accordance with this Privacy Policy (as amended from time to time).
+**Service Providers**  
+Coty engages third party service providers to perform functions on Coty’s behalf. Examples include data analyses firms, customer support specialists, fulfillment companies (e.g., companies that coordinate email campaigns, sweepstakes, contests or promotions) and web-hosting companies. Such third parties may be provided with access to your information (personal and non personal) as needed to perform their functions. However, they are not authorized by Coty to use such information for any other purpose or transfer it to anyone else.
 
-We may share your personal data at any time if required for legal reasons or in order to enforce our [Terms of Use](https://web.archive.org/help/terms-of-use) or this Privacy Policy.
+**Aggregated Information**  
+Coty may share certain information you provide in an aggregated and anonymous form with third parties we have engaged for internal business and planning purposes, such as statistics or developing marketing plans. Any aggregated information shared in these contexts will not contain your personal information. 
 
-## How does zeebox protect customer data?
+**Business Transfers**  
+Coty may transfer, divest, assign, share, sell or otherwise engage in a transaction that involves some or all of our assets, including any or all of your information, in the course of a corporate divestiture, merger, acquisition, joint venture, bankruptcy, dissolution, reorganization, or any other similar transaction or proceeding.
 
-zeebox is concerned with keeping your data secure and protecting it from inappropriate disclosure. We implement a variety of security measures to ensure the security of your personal data on our systems. Any personal data collected by us is contained behind secured networks and is only accessible by a limited number of employees who have special access rights to such systems. Where sensitive data is collected by us it will be transmitted and protected via Secure Socket Layer technology and HTTPS protocol and encrypted in our databases to be accessed only as stated above. If and when we use subcontractors to store your data, we will not relinquish control of your personal data or expose it to security risks that would not have arisen had the data remained in our possession. However, unfortunately, no transmission of data over the internet is guaranteed to be completely secure. It may be possible for third parties not under the control of zeebox to intercept or access transmissions or private communications unlawfully. While we strive to protect your personal data, we cannot ensure or warrant the security of any personal data you transmit to us. Any such transmission is done at your own risk. If you believe that your interaction with us is no longer secure, please contact us. 
+**Compliance with Laws**  
+Coty may disclose any information, including personal information, we deem necessary, in our sole discretion, to comply with any applicable law, regulation, legal process, or governmental request. We may also disclose personal information where necessary for the establishment, exercise or defence of legal claims, as part of the administration of our risk reduction program, or as otherwise permitted by law. 
 
-## Cookies
+#### Your privacy choices
 
-Cookies are small files of letters and numbers downloaded onto your computer or access device when you access certain websites. The use of cookies is standard on the internet and many websites use them to improve the user experience. There are different types of cookies (described further below). For more information about cookies and how they work see [allaboutcookies.org](http://www.allaboutcookies.org/)
+**Opt-Outs**  
+If you decide at any time that you no longer wish to receive marketing communications or other information that you requested from Coty (e.g. newsletters or promotional emails), you may opt out by clicking on a link in the email you receive or by sending us an [email](https://web.archive.org/contact) or by sending a letter to: E-business Consumer Contact, Coty Inc., 350 Fifth Avenue, 17th Floor NY, NY 10118.
 
-BY USING ZEEBOX, YOU AGREE THAT WE CAN PLACE THE FOLLOWING TYPES OF COOKIES ON YOUR DEVICE :
+If you decide at any time that you no longer wish to accept cookies from the Coty Sites for any of the purposes described in this Privacy Policy, then you can instruct your browser, by changing its settings, to stop accepting cookies or to prompt you before accepting a cookie from the websites you visit. Consult your browser’s technical information.
 
-(a) **Strictly necessary cookies** – These cookies make our Site work. These cookies are essential in order to enable you to move around our Site and use our features, such as accessing secure areas. Without these cookies, we would not be able to remember your previous actions, determine whether you are logged in or not or enable you to see the electronic programme guide tailored to your chosen provider/region. 
+You may also opt out of the aggregation and analysis of data collected about you on the Coty Sites by certain web analytics vendors by [clicking here](http://www.omniture.com/en/privacy/product#optout) and [here](https://tools.google.com/dlpage/gaoptout) and selecting the opt-out link at the bottom of the linked site.
 
-(b) **Performance cookies** – These cookies improve the performance of our Site. These cookies collect information about how visitors use our Site, for instance which pages visitors go to most often, and if visitors get error messages from web pages. These cookies don’t identify you personally. All information these cookies collect is aggregated and anonymous. These cookies enable us to manage errors and the performance and design of the Site, to track ad response rates and your visits to our affiliate websites, and to show you which shows are most popular. 
+**Changing or Deleting Your Information**  
+You may review, update, correct or delete your personal information by sending us an [email](https://web.archive.org/contact) or by sending a letter to: E-business Consumer Contact, Coty Inc., 350 Fifth Avenue, 17th Floor NY, NY 10118. Please note that if you request the deletion of your personal information, we may retain an archived copy of your records as required by law or to enforce our rights. 
 
-(c) **Functionality cookies** – These cookies save you time. These cookies remember your user name and can also be used to remember settings that you can customise. These cookies allow us to remember choices you make (e.g. whether you want to share your activity on Facebook) and provide enhanced, more personal features. They may also be used to provide services you have asked for such as watching a video or commenting. Without these cookies, we won’t be able to distinguish you from other users and, as a result, save you time. We also won’t be able to remember your family mode setting (which allow you to hide profane tweets). 
+#### Transfer of data to other countries 
 
-(d) **Targeting or advertising cookies** – These cookies make the advertising you see relevant. These cookies are used to deliver adverts or links more relevant to you and your interests. They are also used to limit the number of times you see an ad as well as help measure the effectiveness of ad campaigns. They may be placed by us, or advertising networks with our, or our affiliate’s, permission. Without these cookies, you may still receive advertising – the advertising, however, will be less relevant to you. 
+As an international entity, in order to provide certain services through the Coty Sites, Coty may need to transfer and process your information (personal and non-personal) internationally, notably throughout Coty’s worldwide entities located in countries which may not guarantee the same level of protection for personal information as the one in which you reside. Your consent to this Privacy Policy followed by your submission of your personal information through any Coty Site represents express consent to such transfer and processing.
 
-(e) **Third party cookies** \- Our Site allows third parties to set cookies on your device (e.g. Facebook and Twitter). This means that when we display content or widgets from a third party (e.g. from a streaming video service) this third party may set their own cookies or similar technologies onto your device. We do not control the use of such cookies and in many instances have no access to the data collected by these third parties. Third party use of cookies is subject to their respective privacy policies. 
+#### Security
 
-### How to manage cookies
+Coty understands that you care how your personal information is used and/or shared with others, and we value your trust and seek to safeguard your personal information. Coty implements reasonable physical, administrative and technical safeguards to help us protect your personal information from unauthorized access, use and disclosure. However, please be aware that no electronic transmission of information can be entirely secure. We cannot guarantee that the security measures we have in place to safeguard personal information will never be defeated or fail, or that those measures will always be sufficient or effective.
 
-You can manage cookies to a certain extent by amending and setting controls on your internet browser (e.g. via your “Preferences”). You should be able to:
+#### Third party links
 
-(a) block specific cookies (e.g. from third parties and advertisers) or all cookies either across the web or from a particular website; and
+The Coty Sites may contain links to and from other third-party websites and services (collectively, “Third Party Sites”) that are not controlled and operated by Coty. Please be aware that Coty is not responsible for the privacy practices of such Third Party Sites and has no control over the content, policies or actions of these Third Party Sites. We encourage you to read the privacy policies and terms of use of each Third Party Site to which you link from the Coty Sites.
 
-(b) receive notifications when cookies are set. 
+#### Social networks & public forums
 
-You may also limit or prevent the placement of cookies by advertising networks or by setting your preferences for the major technology providers at [youronlinechoices.com/uk/your-ad-choices](http://www.youronlinechoices.com/uk/your-ad-choices) and [choice.live.com](http://www.choice.live.com/). 
+The Coty Sites may facilitate easy access to certain third party social networking websites and other websites or services with user-generated content features. This may include click-through access to such websites such as a brand’s YouTube video, or activation of such websites when you make a comment or click "like" on the Coty Sites using a Facebook social plug-in. In each instance, such third party’s privacy policy will to your interaction with that website or service.
 
-## Individuals under 18 years of age
+The Coty Sites may also allow you to submit content for customer reviews, discussion forums, message boards and other public features (“ **Public Forums** ”). We do not restrict the distribution of personal information that you voluntarily disclose in these Public Forums, so please be aware that any information you disclose there may be collected and used by others. For this reason, we encourage you to refrain from providing or sharing personal information about yourself in the Public Forums. Coty cannot prevent third parties from using such information in a way that may violate this Privacy Policy or applicable law.
 
-You must not use zeebox unless you are aged 18 or older. 
+#### Contests & promotions
 
-If you are aged 13-18 you should have a parent’s or guardian’s approval to use zeebox and review our Terms with a parent or guardian to make sure you and your parent/guardian understand them. 
+Coty and its third party service providers or business partners may offer sweepstakes, contests and surveys (each, a “ **Promotion** ”) through a Coty Site. In certain cases, the third party’s privacy policy may apply to any personal information you provide in connection with such Promotion. We encourage you to carefully note who is operating the Promotion in question, and the terms, conditions, policies and rules that apply.
 
-If you are under 18, and you access zeebox by lying about your age, or are otherwise in breach of our Terms and this Privacy Policy,you must immediately stop using zeebox and terminate your Account. We will block your access to zeebox if we determine that you are misrepresenting your age or in breach of these Terms. 
+#### Children's privacy
 
-Please note that some of the content and/or advertising on zeebox may be unsuitable for minors under the age of 18.
+The Coty Sites are not directed toward or designed for the use by persons aged 13 and under. Coty does not solicit or knowingly collect personal information from children aged 13 and under. If we become aware that we have inadvertently received personal information from a visitor under the age of thirteen on the Coty Sites, we will delete the information from our records.
 
-zeebox is not directed at children under 13. If you become aware that your child has been using zeebox without your consent, please contact us at info@zeebox.com. We do not knowingly collect personal data from children under 13. If we become aware that a child has provided us with personal data, we will take steps to remove such information and terminate the child’s account. 
+#### Notice to California residents
 
-If you become aware that your child under 13 has provided any of our partners with personal data without your consent, you may elect to notify such partner directly and request that it remove or destroy any personal information in its possession concerning your child. zeebox cannot be responsible for ensuring that our partners remove or destroy such personal information. However, zeebox requires its partners to agree to remove or destroy such personally identifiable information if requested to do so.
+If you are a California resident, you have the right to request information regarding the disclosure of your personal information by Coty (including its affiliates or subsidiaries) to third parties for the third parties' direct marketing purposes. With respect to these third parties, this Privacy Policy applies only to their activities within the State of California. To make such a request, please send us an [email](https://web.archive.org/contact) or a letter to: E-business Consumer Contact, Coty Inc., 350 Fifth Avenue, 17th Floor NY, NY 10118.
 
-## Third party links and co-brand relationships
+#### Updates to this privacy policy
 
-In an attempt to enhance users' experiences of zeebox, we may choose various third party websites to link to, and frame within zeebox. We also participate in co-branding and other relationships to offer e-commerce and other services and features to our users. However, even if the third party is affiliated with us, we have no control over these linked sites, each of which has separate privacy and data collection practices independent of us. Data collected by our co-brand partners or third party web sites (even if offered on or through zeebox) is not received by us. As such, we have no responsibility or liability for the treatment of your data by these sites. These linked sites are for your convenience and you access them at your own risk. When you sign into zeebox using a third party login service (e.g. Twitter or Facebook), your use is also subject to these third party’s Privacy Policies and in accordance with your account settings with these third parties. 
+To the full extent permissible by applicable law in your jurisdiction, Coty reserves the right to modify or update this Privacy Policy at any time without notice and your continued use of the Coty Sites after we post any revised Privacy Policy means you agree to be bound by such modifications or updates. We will notify you of any changes to this Privacy Policy by posting a new Privacy Policy and updating the “last modified” date at the top of this page. 
 
-## Transfer of Business Assets
+#### Contact us
 
-In some cases, we may choose to buy or sell assets. In these types of transactions, user information is typically one of the transferred business assets. Moreover, if we, or substantially all of our assets, were acquired, or if we go out of business or enter bankruptcy, user information would be one of the assets that is transferred or acquired by a third party. You acknowledge that such transfers may occur, and that any acquirer of us or our assets may continue to use your personal information as set forth in this Privacy Policy.
-
-## International transfer of data
-
-Your information may be stored and processed in the US or other countries or jurisdictions outside the US where zeebox has facilities. We are currently storing data in the EU and so, by using zeebox, you are permitting and consenting to the transfer of information, including personal data, outside of the US.
-
-## Notification of changes 
-
-We keep our Privacy Policy under review and will place any updates on this webpage. This version is dated **January 2014**. By using zeebox, you consent to the collection and use of data by us as set out in this Privacy Policy. Continued access or use of zeebox shall constitute your express acceptance of any modifications to this Privacy Policy. 
-
-## Terms of Use
-
-Please also see our [Terms of Use](https://web.archive.org/help/terms-of-use) which set out the terms, disclaimers, and limitations of liability governing your use of zeebox. 
-
-## How to contact us
-
-If you have a question about this Privacy Policy or a complaint or want to know more about how your data may be used by us or would like to access or delete your data held by us or correct any inaccuracies, please email us at [info@zeebox.com](mailto:info@zeebox.com) and we will respond as promptly as we can. 
+If you have any questions or comments regarding this Privacy Policy, please send us an [email](https://web.archive.org/contact) or a letter to: E-business Consumer Contact, Coty Inc., 350 Fifth Avenue, 17th Floor New York, NY 10118.
