@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the tiobe.com privacy policy that was archived on 2016-11-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161119000321id_/http%3A//www.tiobe.com/privacy-statement) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the tiobe.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420133422id_/https%3A//tiobe.com/privacy-statement) for the most accurate reproduction.*
 
 # Privacy Statement | TIOBE - The Software Quality Company
 
