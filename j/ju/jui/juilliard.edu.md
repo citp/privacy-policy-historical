@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121182138id_/http%3A//www.juilliard.edu/juilliard-website-privacy-policy-your-privacy-rights) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the juilliard.edu privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420162835id_/http%3A//www.juilliard.edu/juilliard-website-privacy-policy-your-privacy-rights) for the most accurate reproduction.*
 
 # Juilliard Website Privacy Policy: Your Privacy Rights | The Juilliard School
 
