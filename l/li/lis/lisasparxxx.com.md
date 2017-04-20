@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the lisasparxxx.com privacy policy that was archived on 2016-05-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160501033536id_/http%3A//lisasparxxx.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the lisasparxxx.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420024505id_/http%3A//www.lisasparxxx.com/privacy) for the most accurate reproduction.*
 
 # Lisa Sparxxx | Privacy Policy
 
@@ -6,17 +6,17 @@ Thank you for accessing this website (the “Site”), operated by the individua
 
 Capitalized terms not defined herein shall have the meaning set forth in the Website Terms and Conditions (“Terms and Conditions”). **IF YOU DO NOT AGREE TO TERMS OF THIS PRIVACY POLICY IN THEIR ENTIRETY, YOU MAY NOT ACCESS OR OTHERWISE USE THE MODEL OFFERINGS AND YOUR SHOULD LEAVE THE SITE IMMEDIATELY.**
 
-**Your California Privacy Rights**
+ **Your California Privacy Rights**
 
-**If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared by ModelCentro™ and/or Model, as applicable, with third-parties, what categories of personal information that ModelCentro™ and/or Model have shared with third-parties in the preceding year, as well as the names and addresses of those third-parties, please contact Model utilizing the contact features set forth on the Site and/or contact ModelCentro™ at:[support@modelcentro.com](mailto:support@modelcentro.com).**
+ **If you are a resident of the State of California and would like to learn how your “personal information” (as defined in the Shine the Light Law, Cal. Civ. Code § 1798.83) is shared by ModelCentro™ and/or Model, as applicable, with third-parties, what categories of personal information that ModelCentro™ and/or Model have shared with third-parties in the preceding year, as well as the names and addresses of those third-parties, please contact Model utilizing the contact features set forth on the Site and/or contact ModelCentro™ at:[support@modelcentro.com](mailto:support@modelcentro.com).**
 
-**If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information by ModelCentro™ and/or Model to any third-party for marketing purposes, please contact Model utilizing the contact features set forth on the Site and/or contact ModelCentro™ at:[support@modelcentro.com](mailto:support@modelcentro.com). Please be advised that where California State residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from ModelCentro™ and/or Model, as applicable, in accordance with applicable law.**
+ **If you are a resident of the State of California and would like to opt-out from the disclosure of your personal information by ModelCentro™ and/or Model to any third-party for marketing purposes, please contact Model utilizing the contact features set forth on the Site and/or contact ModelCentro™ at:[support@modelcentro.com](mailto:support@modelcentro.com). Please be advised that where California State residents opt-out from permitting their personal information to be shared, such individuals may still receive selected offers directly from ModelCentro™ and/or Model, as applicable, in accordance with applicable law.**
 
-**Personal Information Collected**
+ **Personal Information Collected**
 
 For the purposes of this Privacy Policy, “personal information” shall mean individually identifiable information from and/or about an individual. Model and/or ModelCentro™ collect(s) personal information when you register to access certain of the ModelCentro™ Offerings. The personal information may include, without limitation, name, mailing address, telephone number, email address and mailing address. In addition, where you register as a VIP Member and/or purchase Model Products, ModelCentro™ will collect your credit card information or other payment information. For purposes of this Privacy Policy, your credit card information or other payment Information shall be referred to as “Sensitive Information.”
 
-**Use/Sharing of personal information**
+ **Use/Sharing of personal information**
 
 Model and/or ModelCentro™ use the personal information that you supply to personalize your experience with the Model Offerings, facilitate your request for Model Offerings and/or Model Products and for verification purposes. You agree that Model and/or ModelCentro™ may contact you at any time with updates and/or any other information that Model and/or ModelCentro™, as applicable, may deem appropriate for you to receive in connection with your continued request for Model Products, use of the Model Offerings and to keep you informed of our other products and services that may be of interest to you.
 
@@ -26,48 +26,52 @@ Your personal information may also be shared with advertisers and marketers on a
 
 Model and ModelCentro™ reserve the right to release current or past personal information: (i) in the event that either believes or suspects that the Model Offerings are being, or have been, used in violation of the Terms and Conditions or to commit unlawful acts; (ii) if the information is subpoenaed; provided, however, that, where permitted by applicable law, the subpoenaed party shall provide you with e-mail notice, and opportunity to challenge the subpoena, prior to disclosure of any personal information pursuant to a subpoena; or (iii) if Model and/or ModelCentro™, as applicable, are sold, merge with a third party or are acquired; provided, however, that if either Model or ModelCentro™ is involved in a merger, acquisition or sale of all or a portion of its assets, you will be notified via email and/or a prominent notice on the Site of any change in ownership or uses of your personal information, as well as any choices that you may have regarding your personal information. Moreover, you hereby consent to disclosure of any record or communication to any third-party when Model and/or ModelCentro™, in its/their sole discretion, determine(s) the disclosure to be appropriate including, without limitation, sharing your e-mail address with third-parties for suppression purposes in compliance with the CAN-SPAM Act of 2003, as amended from time to time.
 
-**Interactive Services/Social Media Websites**
+ **Interactive Services/Social Media Websites**
 
 If you submit personal information via Feedback and/or otherwise by and through the Interactive Services and/or any applicable Social Media Pages appearing on Social Media Websites, you should be aware that the personal information that you submit in such forums can be read, collected or used by other users of these forums (depending on your privacy settings, in the case of Social Media Websites), and could be used to send you unsolicited messages or otherwise contact you without your consent or desire. We are not responsible for the personal information that you choose to submit in these forums.
 
 Further, by submitting Feedback and/or other material, you: (a) represent and warrant that Model’s and/or ModelCentro’s™ use of your submission does not and will not breach any agreement, violate any law, violate any Social Media Website’s terms of service or infringe upon any third party’s rights; (b) agree that Model and/or ModelCentro’s™ is/are free to use in any manner all or part of the Feedback and/or other material on an unrestricted basis without the obligation to notify, identify or compensate you or anyone else; and (c) grant Model and ModelCentro’s™ all necessary rights, including a waiver of all copyright, trademark, privacy and moral rights, to use all Feedback, Photos and/or other material, in whole or in part, or as a derivative work, without any duty of Model and/or ModelCentro™ to anyone whatsoever.
 
-**Non-personal information Collection and Use**
+ **Non-personal information Collection and Use**
 
 We may collect certain non-personally identifiable information about you when you visit the Site. We may also automatically or passively collect information and statistics about connections to the Site (“Usage Information”) using a variety of technologies (including but not limited to, cookies, web beacons, and embedded scripts), and we may use third party service providers for these purposes. We use this information to enhance the user experience on the Site and to identify frequent visitors. This non-personally identifiable information includes, without limitation, the type of browser that you use (e.g., Safari, Chrome, Internet Explorer), your IP address, the type of operating system that you use (e.g., Windows or iOS) and the domain name of your Internet service provider (e.g., Verizon, AT&T). We use the non-personally identifiable information that we collect to improve the design and content of the Site and to enable us to personalize your Site experience. We also may use this information in the aggregate to analyze Site usage. We also reserve the right to use aggregate or group data about our visitors for any and all lawful purposes. Aggregate or group data is data that describes the demographics, usage and/or characteristics of our visitors as a group. By visiting and/or supplying your personal information at the Site, you agree to allow us to provide such aggregate data to third parties.
 
-**Cookies**
+ **Cookies**
 
 When an end-user visits the Site, Model and/or ModelCentro™ may send one (1) or more cookies, gif files and/or other data identifiers (collectively, “Cookies”) to assign a unique identifier that may be anonymous to the applicable end-user’s computer or other device. A Cookie is a piece of data stored on your hard drive containing non-personally identifiable information about you. Cookies have many benefits to enhance your experience at the Site. To find out more about Cookies, please visit www.cookiecentral.com. Model and ModelCentro™ use Cookies to improve the quality of the Model Offerings, including for storing user preferences and tracking Site-user trends (such as pages opened and length of stay at the Site).
 
 Most Internet browsers are initially set up to accept Cookies, but you can reset your browser to refuse all Cookies or to indicate when a cookie is being sent. To disable and reject certain Cookies, follow the instructions associated with your Internet browser. Even in the case where a user rejects a Cookie, he or she may still use the Site; provided, however, that certain functions of the Model Offerings may be impaired or rendered inoperable if the use of Cookies is disabled. We reserve the right to retain Cookie data indefinitely.
 
-**Information Collection from Mobile Devices**
+ **Information Collection from Mobile Devices**
 
 If you access the Site, on your mobile telephone or other mobile device, we also may collect your unique device identifier and mobile device IP address, as well as information about your device’s operating system, mobile carrier, and mobile Internet browsers, your precise location information, and other information described in this Privacy Policy.   
 Aggregate Data
 
 Model and ModelCentro™ reserve the right to transfer aggregate or group data about users of the Model Offerings for lawful purposes in order to improve the performance of the Model Offerings. Aggregate or group data is data that describes the demographics, usage or other characteristics of Model Offerings users as a group, without disclosing personally identifiable information.
 
-**Third-Party Websites**
+ **Aggregate Data**
+
+Model and ModelCentro™ reserve the right to transfer aggregate or group data about users of the Model Offerings for lawful purposes in order to improve the performance of the Model Offerings. Aggregate or group data is data that describes the demographics, usage or other characteristics of Model Offerings users as a group, without disclosing personally identifiable information.
+
+ **Third-Party Websites**
 
 The Site and/or Model Offerings may contain links to third-party owned and/or operated websites including, without limitation, the Social Media Websites. Neither Model nor ModelCentro™ is responsible for the privacy practices or the content of such websites. In some cases, you may be able to make a purchase through one of these third-party websites. In these instances, you may be required to provide certain information, such as a credit card number, to register or complete a transaction at such website. These third-party websites have separate privacy and data collection practices and neither Model nor ModelCentro™ has any responsibility or liability relating to them.
 
-**Security**
+ **Security**
 
 Model and ModelCentro™ endeavor to safeguard and protect end-users’ personal information. When end-users make personal information available to Model and ModelCentro™, their personal information is protected both online and offline (to the extent that Model and/or ModelCentro™ maintain any personal information offline). When the registration process asks users to submit Sensitive Information, and when ModelCentro™ transmits such Sensitive information, that Sensitive Information is encrypted and is protected with SSL encryption software. Access to your personal information is strictly limited, and Model and ModelCentro™ take reasonable measures to ensure that your personal information is not accessible to the public. Please be advised, however, that no storage facility, technology, software, security protocols or data transmission over the Internet can be guaranteed to be 100% secure. Computer hackers that circumvent the security measures in place may gain access to certain portions of your personal information, and technological bugs, errors and glitches may cause inadvertent disclosures of your personal information. For the reasons mentioned above, neither Model nor ModelCentro™ warrant that your personal information will be absolutely secure. Any transmission of data at or through the Site is at your own risk.
 
-**Minors**
+ **Minors**
 
 Visitors under eighteen (18) years of age are not permitted to use the Model Offerings and/or submit their personal information at the Site. Neither Model nor ModelCentro™ knowingly solicits or collects information from visitors under eighteen (18) years of age. Model and ModelCentro™ encourage parents and guardians to spend time online with their children and to participate and monitor the interactive activities of their children.
 
-**Opt-Out/Unsubscribe**
+ **Opt-Out/Unsubscribe**
 
 To opt-out of receiving e-mail communications from Model, you can follow the instructions at the end of the applicable e-mail message or utilize the contact features set forth on the Site. To opt-out of receiving e-mail communications from ModelCentro™, you can e-mail ModelCentro™ at: [support@modelcentro.com](mailto:support@modelcentro.com).
 
 Notwithstanding the foregoing, Model and/or ModelCentro™ may continue to contact you for the purpose of communicating information relating to your request for Model Offerings, Model Products as well as to respond to any inquiry or request made by you. To opt-out of receiving Model Offerings-related, Model Products-related and inquiry response-related messages from Model and/or ModelCentro™, you must cease requesting and/or utilizing the Model Products, Model Offerings and cease submitting inquiries to Model and/or ModelCentro™, as applicable.
 
-**Deleting, Modifying and Updating Your Information**
+ **Deleting, Modifying and Updating Your Information**
 
 At your request, Model and ModelCentro™ will: (a) inform you of what personal information each party, respectively, has on file for you; (b) amend the personal information that such party has on file for you; and/or (c) remove personal information that you have provided to such party(ies), or that such party(ies) has/have collected. To make such a request of Model, you can utilize the contact features set forth on the Site. To make such a request of ModelCentro™, you can e-mail ModelCentro™ at: [support@modelcentro.com](mailto:support@modelcentro.com). Users must identify themselves and the information requested to be accessed, corrected or removed before processing such requests and, to the extent permitted by applicable law, Model and ModelCentro™, as applicable, may decline to process requests that are unreasonably repetitive or systematic, require disproportionate technical effort, jeopardize the privacy of others or would be extremely impractical (for instance, requests concerning information residing on backup tapes).
 
@@ -75,10 +79,10 @@ Please be advised that deleting your personal information may terminate your acc
 
 Please be further advised that, after you delete your personal information, residual copies may take a period of time before they are deleted from the applicable servers and may remain in applicable backup systems.
 
-**Changes to this Privacy Policy**
+ **Changes to this Privacy Policy**
 
 Model and ModelCentro™ reserve the right to change or update this Privacy Policy at any time by posting a notice on the Site. If the manner in which Model and/or ModelCentro™ use personal information changes, such party(ies) will notify end-users by: (a) sending the modified policy to end-users via email; and/or (b) by any other reasonable means acceptable under applicable state and federal law. You will have a choice as to whether or not your information is used in this different manner and Model and ModelCentro™ will only use your information in this different manner where you opt-in to such use.
 
-**Contact Us**
+ **Contact Us**
 
 If you have any questions about this Privacy Policy, you can contact Model utilizing the contact features set forth on the Site and/or e-mail ModelCentro™ at: [support@modelcentro.com](mailto:support@modelcentro.com).
