@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the fantasycruncher.com privacy policy that was archived on 2016-07-15. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160715001924id_/https%3A//www.fantasycruncher.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the fantasycruncher.com privacy policy that was archived on 2017-04-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170420183930id_/https%3A//www.fantasycruncher.com/privacy-policy) for the most accurate reproduction.*
 
 # NBA Lineup Optimizer | Daily Fantasy Sports Lineup Tool
 
