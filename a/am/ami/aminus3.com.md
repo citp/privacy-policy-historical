@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the aminus3.com privacy policy that was archived on 2016-11-25. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161125234248id_/http%3A//www.aminus3.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the aminus3.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422012832id_/https%3A//www.aminus3.com/privacy) for the most accurate reproduction.*
 
 # Aminus3 Privacy Policy
 
@@ -60,7 +60,7 @@ All financial transactions involving credit card data are handled by PayPal. Ami
 
 When you create an account on Aminus3, you are asked to create a password. It is your responsibility to use a secure password and to ensure the confidentiality of this information. Aminus3 will never ask you for your password in an unsolicited phone call or email.
 
-You are responsible for your conduct on Aminus3 and any activity that occurs on your account. If you believe your account has been compromised for malicious intent, please [contact us](http://www.aminus3.com/contact/).
+You are responsible for your conduct on Aminus3 and any activity that occurs on your account. If you believe your account has been compromised for malicious intent, please [contact us](https://www.aminus3.com/contact/).
 
 ## Privacy Policy Changes
 
@@ -68,4 +68,4 @@ We may update this Privacy Policy from time to time as our services change and e
 
 ## Further Information
 
-If you have further questions or concerns in regard to our Privacy Policy, please [contact us](http://www.aminus3.com/contact/).
+If you have further questions or concerns in regard to our Privacy Policy, please [contact us](https://www.aminus3.com/contact/).
