@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2016-08-19. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160819010623id_/http%3A//www.centrecom.com.au/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the centrecom.com.au privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422015754id_/https%3A//www.centrecom.com.au/privacy) for the most accurate reproduction.*
 
 # | Centre Com : Best PC Hardware Prices!
 
