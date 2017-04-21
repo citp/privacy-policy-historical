@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pagestat.com privacy policy that was archived on 2016-12-09. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161209131317id_/http%3A//pagestat.com/pp.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pagestat.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421035149id_/http%3A//pagestat.com/pp.php) for the most accurate reproduction.*
 
 # Privacy Policy PageStat.com
 
