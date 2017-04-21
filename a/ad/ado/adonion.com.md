@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the adonion.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120170550id_/http%3A//www.adonion.com/privacy_policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the adonion.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421212142id_/http%3A//adonion.com/privacy_policy.php) for the most accurate reproduction.*
 
 # Privacy Policy| Web Traffic Package | Adonion
 
