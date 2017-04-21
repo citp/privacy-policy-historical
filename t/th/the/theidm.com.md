@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2016-07-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160729193908id_/https%3A//www.theidm.com/privacy-cookies) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the theidm.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421202737id_/https%3A//www.theidm.com/privacy-cookies) for the most accurate reproduction.*
 
 # Privacy & Cookies
 
@@ -53,10 +53,10 @@ If you register or enrol you will receive email communications alerting you to n
 
 **Transfer of data**
 
-By the nature of the Internet, the personal data you supply through this website may be sent electronically to servers anywhere in the world. It may be used, stored and processed anywhere in the world, including countries outside the European Economic Area. Bear in mind that many countries outside the EEA do not adequately protect your rights as a data subject.  
+By the nature of the Internet, the personal data you supply through this website may be sent electronically to servers anywhere in the world. It may be used, stored and processed anywhere in the world, including countries outside the European Economic Area. IDM transfers the data outside the EEA it will ensure that all reasonable security measures are taken and that any third party processers will be required to process the data in accordance with the DPA.  
  
 
-To whom might we disclose your personal data?  
+**To whom might we disclose your personal data?**  
  
 
 The IDM does not sell, trade or rent your personal information to others. Your details will be added to the IDM database in order to process your request, and so that you can be kept up to date with relevant details of our education, training, information and membership services. From time to time the IDM holds joint events with selected partners. If you book to attend one of these events your details will be made available to the event partner. You will be advised of this at the time of booking, to opt-out of receiving any communications from the IDM and/or the event partner, please notify us.  
@@ -91,7 +91,7 @@ We endeavour to keep your personal data accurate and up to date. If you become a
 
 **Changes to this policy**
 
-The IDM privacy policy may change at any time, so you may wish to check it each time you visit our website.
+The IDM privacy policy may change at any time, so you may wish to check it each time you visit our website. This page was updated on 1st November 2016.
 
 **Online Advertising We Use**  
 We use Google AdWords Remarketing to advertise the IDM across the Internet. AdWords remarketing will display relevant ads tailored to you based on what parts of the IDM website you have viewed by placing a cookie on your internet browser. The cookie does NOT in anyway identify you or give access to your device. Google AdWords Remarketing allows us to tailor our marketing to better suit your needs and only display ads that are relevant to you.
@@ -104,7 +104,7 @@ You can also opt out of any third-party vendor's use of cookies by visiting [www
 In order to provide you with the best, tailored experience of idm.com, our site will need to place small text files, or 'cookies', or you computer.  
  
 
-Most cookies that we use are 'session' cookies and only exist for the time that you are using our site. They perform functional tasks – such as remembering that you are logged as you move from page to page, or to pre-load your personal details into forms to save you time.
+Most cookies that we use are 'session' cookies and only exist for the time that you are using our site. They perform functional tasks – such as remembering that you are logged in as you move from page to page, or to pre-load your personal details into forms to save you time.
 
 We also track cookies anonymously to fuel our site analytics and learn how to improve your idm.com experience and hone the relevance of our products and services.  
  
@@ -149,5 +149,11 @@ Visitor status
 | 
 
 These cookies are used to store a unique identifier for your session.  
+  
+Communigator
+
+| 
+
+The cookie tracks company IP's, website history and additional contact info which is proivided from a variety of data sources.  
   
 The IDM logo and contents of this website (including text, design and graphics) are trademarked and copyrighted materials of either the IDM or its partners. All rights are reserved.
