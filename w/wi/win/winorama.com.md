@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the winorama.com privacy policy that was archived on 2016-12-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161230104103id_/http%3A//www.winorama.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the winorama.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421195554id_/http%3A//www.winorama.com/privacy-policy/privacypolicy.html) for the most accurate reproduction.*
 
 # Privacy and Security Policy | Winorama
 
@@ -48,8 +48,6 @@ About us
 Hermione Ltd.
 
 Inomenon Ethnon 44, Larnaka 6042, Cyprus
-
-Telephone: +443300109328
 
 This Privacy and Security Terms & Conditions has been drafted in English. In the event of any discrepancy between the meanings of any translated versions of this Policy and the English language version, the meaning of the English language version shall prevail.
 
