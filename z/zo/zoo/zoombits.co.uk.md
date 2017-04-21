@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the zoombits.co.uk privacy policy that was archived on 2016-03-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160322051104id_/http%3A//www.zoombits.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zoombits.co.uk privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421085250id_/https%3A//www.zoombits.co.uk/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy | Zoombits
+# Privacy Policy | Zoombits | Zoombits UK
 
 We are committed, in a fair and equitable manner, and strictly to protecting your privacy. We will only use the information that we collect about you lawfully (in accordance with Jersey Law). The information we collect about you enables us to process your order and provide you with the best service possible. We only send promotional emails with your permission, and do not pass your details onto third parties without your prior consent.
 
