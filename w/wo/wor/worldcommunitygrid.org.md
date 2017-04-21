@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the worldcommunitygrid.org privacy policy that was archived on 2016-11-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161121095622id_/http%3A//www.worldcommunitygrid.org/viewMemberPolicy.do) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the worldcommunitygrid.org privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421084451id_/https%3A//www.worldcommunitygrid.org/viewMemberPolicy.do) for the most accurate reproduction.*
 
 # World Community Grid - Privacy and Security - Member Policy
 
@@ -61,7 +61,7 @@ The WCG Site may provide features that allow members to promote World Community 
 
 World Community Grid provides social communication features on our Web site to enable online sharing and collaboration among members. These include forums, wikis, and other forms of communications. When you use social communication features, you may be asked to provide certain personal information. Your email address and password will be subject to and protected in accordance with this Privacy Statement unless you choose to make your email address public. These social communication features may also include supplemental privacy statements with specific information about collection and handling practices. Read those supplemental statements to understand what the tools and applications may do.
 
-Any other content you post, such as pictures, information, opinions, or any other type of personal information that you make available to other participants utilizing these social communication features, is not subject to this Privacy Statement. You should be aware that the content you post on any such social communication features may be made broadly available to others inside and outside World Community Grid. Please review our [Communications Guidelines](https://web.archive.org/web/20161121095622id_/http%3A//www.worldcommunitygrid.org/viewCommPolicy.do). 
+Any other content you post, such as pictures, information, opinions, or any other type of personal information that you make available to other participants utilizing these social communication features, is not subject to this Privacy Statement. You should be aware that the content you post on any such social communication features may be made broadly available to others inside and outside World Community Grid. Please review our [Communications Guidelines](https://web.archive.org/web/20170421084451id_/https%3A//www.worldcommunitygrid.org/viewCommPolicy.do). 
 
 ### Protect the Rights and Property of IBM and Others
 
@@ -91,7 +91,7 @@ As mentioned above, we collect information from your visits to our Web site to h
 
 Cookies are typically categorized as "session" cookies or "persistent" cookies. Session cookies help you navigate through the Web site efficiently, keeping track of your progression from page to page so that you are not asked for information you have already provided during the current visit. Session cookies are stored in temporary memory and erased when the web browser is closed. Persistent cookies, on the other hand, store user preferences for current and successive visits. They are written on your device's hard disk, and are still valid when you restart your browser. We use persistent cookies, for example, to record your choice of language and country location. 
 
-You can generally express your privacy preferences regarding the use of most cookies and similar technologies though your web browser. Look under the heading "Tools" (or similar heading) in your particular browser for information about controlling cookies. You can set your browser in most instances to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also generally set your browser to turn off cookies. Since cookies allow you to take advantage of some of our Web sites' features, we recommend that you leave them turned on. If you block, turn off or otherwise reject our cookies, some Web pages may not display properly or you will not be able to use any Web site services that require you to sign in.
+You can generally express your privacy preferences regarding the use of most cookies and similar technologies though your web browser. Look under the heading "Tools" (or similar heading) in your particular browser for information about controlling cookies. You can set your browser in most instances to notify you before you receive a cookie, giving you the chance to decide whether to accept it or not. You can also generally set your browser to turn off cookies. Since cookies allow you to take advantage of some of our Web sites' features, we recommend that you leave them turned on. If you block, turn off or otherwise reject our cookies, some Web pages may not display properly or you will not be able to use any Web site services that require you to log in.
 
 We utilize Google Analytics in order to understand how users arrive at and interact with our Web site. This allows us to measure and thereby improve the Web site for our participants. Using Google Analytics, we anonymously collect basic information such as the type of browser or operating system you are using. We also collect information about the order in which you view different pages on our Web site and your use of our Web site on different devices so that we understand your entire experience while visiting our Web site. You may opt-out of us collecting information about you through Google Analytics by clicking [here](). You will need to do this for each browser you use to access our website. Should you delete or clear this cookies on your browser, then you will need to opt-out again by clicking [here](). 
 
@@ -119,9 +119,9 @@ Back to top
 
 ## Privacy Questions and Access
 
-If you have a question about this Privacy Statement or IBM's handling of your information, you may [contact us](https://web.archive.org/web/20161121095622id_/http%3A//www.worldcommunitygrid.org/viewContactUs.do).
+If you have a question about this Privacy Statement or IBM's handling of your information, you may [contact us](https://web.archive.org/web/20170421084451id_/https%3A//www.worldcommunitygrid.org/viewContactUs.do).
 
-If you become aware your information is incorrect, you are unable to correct it on our Web site, and you would like us to correct it, you may [contact us](https://web.archive.org/web/20161121095622id_/http%3A//www.worldcommunitygrid.org/viewContactUs.do).
+If you become aware your information is incorrect, you are unable to correct it on our Web site, and you would like us to correct it, you may [contact us](https://web.archive.org/web/20170421084451id_/https%3A//www.worldcommunitygrid.org/viewContactUs.do).
 
 Before IBM is able to provide you with any information or correct any inaccuracies, however, we may ask you to verify your identity and to provide other details to help us to respond to your request. 
 
