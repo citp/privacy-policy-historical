@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the evolution-slimming.com privacy policy that was archived on 2016-04-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160430102606id_/http%3A//www.evolution-slimming.com/store/privacy-policy/info_6.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the evolution-slimming.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421201638id_/https%3A//www.evolution-slimming.com/store/privacy-policy/info_6.html) for the most accurate reproduction.*
 
 # Privacy Policy at Evolution Slimming
 
@@ -107,7 +107,7 @@ Excellent Customer
 Services and we guarantee  
 satisfaction.
 
-100% Safe & Secure
+100% Safe & Secure!
 
 Secure Payments secured by HTTPS or PayPal Checkout & Bank Transfer
 
@@ -127,6 +127,5 @@ We're Mobile
 
 Check your order status. Read product reviews - all from your mobile device. 
 
-  
   
 
