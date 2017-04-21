@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the scambook.com privacy policy that was archived on 2016-05-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160506061025id_/https%3A//www.scambook.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the scambook.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421072109id_/https%3A//www.scambook.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Scambook
 
@@ -6,13 +6,7 @@
 
 **Effective Date: March 6, 2013**
 
-Please read this privacy policy (the " _Privacy Policy_ ") carefully. Your registration at [www.scambook.com](http://www.scambook.com/) (the " _Website_ ") to access the services and information (the " _Services_ ") offered by Scambook.com, LLC (" _Scambook_ " or " _we_ " or " _our_ " or " _us_ ") on the Website, and your acceptance of the Terms and Conditions (the " _Agreement_ ") by clicking the "I accept" box on the registration page of the Website creates a binding, legal agreement between Scambook and you (" _you_ " or " _your_ "). Your access to the Website and use of the Services shall be governed by the Agreement and also by this Privacy Policy. This Privacy Policy also describes how Scambook collects and uses information you post to the Website. The Agreement and the Privacy Policy may be collectively referred to as the Agreement, are intended to be read together, and in the event of conflict between the Agreement and this Privacy Policy, the terms of this Privacy Policy shall prevail. Your registration and acceptance of the Agreement shall also become the effective date of this Privacy Policy (the " _Effective Date_ "). If you choose to accept this Privacy Policy, you must do so as written, without modification. If you do not accept this Privacy Policy, you will not be allowed to access the Services. By using the Website, you accept the terms and conditions described in this Privacy Policy. You warrant and represent that you are at least 18 years of age and that you have the legal authority to enter into this Privacy Policy as an individual or on behalf of your employer. Scambook and you are individually, a " _party_ " and collective, the " _parties_." 
-
-[](https://privacy.truste.com/privacy-seal/Scambook-LLC/validation?rid=40be6fbd-817b-4576-a019-990195ffae72 "TRUSTe online privacy certification")
-
-Scambook.com LLC has been awarded TRUSTe's Privacy Seal signifying that this Privacy Policy and practices described herein have been reviewed by TRUSTe for compliance with [TRUSTe's program requirements](http://www.truste.com/privacy-program-requirements/) including transparency, accountability and choice regarding the collection and use of your Personal Information. The TRUSTe program covers only information that is collected through this Website, [www.scambook.com](http://www.scambook.com/). 
-
-TRUSTe's mission, as an independent third party, is to accelerate online trust among consumers and organizations globally through its leading privacy Trustmark and innovative trust solutions. If you have questions or complaints regarding this Privacy Policy or practices described herein, please contact us at [support@Scambook.com](mailto:support@scambook.com). If you are not satisfied with our response you can contact [TRUSTe here](https://feedback-form.truste.com/watchdog/request). 
+Please read this privacy policy (the " _Privacy Policy_ ") carefully. Your registration at [www.scambook.com](http://www.scambook.com/) (the " _Website_ ") to access the services and information (the " _Services_ ") offered by Business Resolve, Inc. (" _Scambook_ " or " _we_ " or " _our_ " or " _us_ ") on the Website, and your acceptance of the Terms and Conditions (the " _Agreement_ ") by clicking the "I accept" box on the registration page of the Website creates a binding, legal agreement between Scambook and you (" _you_ " or " _your_ "). Your access to the Website and use of the Services shall be governed by the Agreement and also by this Privacy Policy. This Privacy Policy also describes how Scambook collects and uses information you post to the Website. The Agreement and the Privacy Policy may be collectively referred to as the Agreement, are intended to be read together, and in the event of conflict between the Agreement and this Privacy Policy, the terms of this Privacy Policy shall prevail. Your registration and acceptance of the Agreement shall also become the effective date of this Privacy Policy (the " _Effective Date_ "). If you choose to accept this Privacy Policy, you must do so as written, without modification. If you do not accept this Privacy Policy, you will not be allowed to access the Services. By using the Website, you accept the terms and conditions described in this Privacy Policy. You warrant and represent that you are at least 18 years of age and that you have the legal authority to enter into this Privacy Policy as an individual or on behalf of your employer. Scambook and you are individually, a " _party_ " and collective, the " _parties_." 
 
 ### 1\. Personal Information
 
@@ -72,7 +66,7 @@ The term of this Privacy Policy shall begin on the Effective Date and continue u
 
 Except as expressly permitted herein, all other notices provided for herein shall be effected either by recognized international express courier, postage pre-paid, or by First Class United States Mail, postage pre-paid, to the address listed on the Website in our case, and to the address you listed in your registration page in your case. Notice shall be deemed received two days following tender to such courier and three days following posting by Mail. 
 
-Scambook LLC  
+Business Resolve, Inc.  
 501 Franklin Avenue, Suite 200  
 Garden City, NY 11530  
 1-844-815-SCAM  
