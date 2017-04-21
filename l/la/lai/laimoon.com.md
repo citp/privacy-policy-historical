@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the laimoon.com privacy policy that was archived on 2016-04-06. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160406120252id_/https%3A//laimoon.com/page/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the laimoon.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421110818id_/https%3A//laimoon.com/page/privacy-policy) for the most accurate reproduction.*
 
 # Discover jobs, courses and all things career : Laimoon.com : Laimoon.com
 
@@ -14,7 +14,7 @@ various information in order to conduct and optimize the job/candidate search an
 process. All information is submitted exclusively on a voluntary basis. Please find below details  
 of our member privacy practices.
 
-**Registration**
+ **Registration**
 
 To fully participate in the Service, we require you to register as a member.
 
@@ -27,7 +27,7 @@ provide our users with a personalized experience every time they log onto the Se
 end we may direct you to jobs/articles/forums etc. that we think may assist you in your career  
 activities.
 
-**Personal Profiles**
+ **Personal Profiles**
 
 Members build their personal profiles on the Service through entering specific personal data,  
 making preference choices, freely answering questions or attaching their CVs.
@@ -64,7 +64,7 @@ like viewing your personal profile is your current employer.
 You may edit/change/amend information on personal profile at any point in time. You may also  
 remove your CVs from the Service at any point in time.
 
-**Job Postings**
+ **Job Postings**
 
 Employers are asked to submit detailed contact information and information about the position  
 requirements as part of their job posting activity. Information is submitted purely voluntarily. Job  
@@ -74,7 +74,7 @@ thus be assured while job seekers have the option to apply for the posting.
 
 You may change/modify/delete any information you provide at any point in time.
 
-**Links**
+ **Links**
 
 Please be aware that the Service may contain links to third-party websites. This Privacy  
 Policy applies solely to information collected by this website. This Privacy Policy does  
@@ -83,7 +83,7 @@ conduct of such websites. We encourage our users to be aware when they leave our
 and to read the privacy policies of each and every website including those that collect  
 personally identifiable information.
 
-**Cookies**
+ **Cookies**
 
 Cookies are packets of information that are stored on your computer's hard drive. At  
 [www.Laimoon.com](http://www.laimoon.com/), cookies allow us to keep track of the areas of the site you visit  
@@ -95,7 +95,7 @@ accept cookies, but you can consult your browser help file if you wish to change
 settings. If you elect not to receive cookies, registered users will not be able to view a  
 personalized home page, and will view the default homepage instead.
 
-**Privacy Commitment Changed**
+ **Privacy Commitment Changed**
 
 The Company will continue to commit itself to protecting and maximizing our users' privacy.
 
