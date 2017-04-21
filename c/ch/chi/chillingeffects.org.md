@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the chillingeffects.org privacy policy that was archived on 2016-02-01. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160201055608id_/https%3A//www.lumendatabase.org/pages/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the chillingeffects.org privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421195723id_/https%3A//lumendatabase.org/pages/privacy) for the most accurate reproduction.*
 
 # Privacy :: Lumen
 
@@ -11,7 +11,7 @@ We collect only two kinds of information on the Lumen website: (1) Anonymous use
     * We use this information to measure the number of visitors to different sections of the site, to diagnose and correct system errors, and to improve the site. We do not connect this information to your name or identity.
     * If your browser sends referer information to our site, we may use that information to provide you with further viewing options and may aggregate that data for research purposes.
     * We use [Piwik](http://piwik.org/) for our data analytics and store the resulting information on our own servers.
-  2. The Lumen project also invites users to submit Cease and Desist notices and to sign up to receive news updates by email. If you use our online forms to submit information (e.g., to report receiving a C&D Notice) you can choose to: 
+  2. The Lumen project also invites users to submit Cease and Desist notices. If you use our online forms to submit information (e.g., to report receiving a C&D Notice) you can choose to: 
     * Do so anonymously
     * Include your contact information (name, address, phone number, email) but have it kept confidential by Lumen, or
     * Include your contact information in the publicly available database.
@@ -20,21 +20,9 @@ We collect only two kinds of information on the Lumen website: (1) Anonymous use
     * If you submit your contact information for inclusion in the publicly available cease & desist letter database it will be available to anyone who visits the site.
     * We use contact information to compile more accurate statistics on the use of cease and desist notices, and to contact you if we have a question.
     * We will not use or disclose your information for any other purpose, unless compelled by law (see below)
-    * Itf you submit a notice directly to our site, **it is up to you to decide what information to provide as part of your submission**.
+    * If you submit a notice directly to our site, **it is up to you to decide what information to provide as part of your submission**.
 
 
-
-## News and updates:
-
-If you sign up to receive news or updates, then we will request your e-mail address. We will use that address only for the purpose of sending you the requested information. We will not use or disclose it for any other purpose unless compelled by law.
-
-## If you send us an email asking for further information:
-
-If you use the email contact addresses for the clinics that are identified on the web site (as listed on the "about us" page), your email will go directly to an attorney at the clinic. If this email seeks legal advice, we believe that it will be protected by the confidentiality provisions of the attorney-client privilege in the states where the clinics are located. We will not use or disclose this information for any other purpose unless compelled by law. (see below)
-
-## If you want to get information about you that may be in our records, or if you want us to correct or remove such information:
-
-Contact the site's privacy administrator at team@Lumendatabase.org.
 
 ## Law enforcement and other compelled disclosures:
 
