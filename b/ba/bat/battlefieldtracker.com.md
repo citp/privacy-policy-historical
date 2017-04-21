@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the battlefieldtracker.com privacy policy that was archived on 2016-10-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161020062644id_/http%3A//battlefieldtracker.com/home/privacypolicy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the battlefieldtracker.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421124843id_/https%3A//battlefieldtracker.com/home/privacypolicy) for the most accurate reproduction.*
 
 # Battlefield Tracker Privacy Policy
 
 ## Privacy Policy
 
-This Privacy Policy governs the manner in which Battlefield Tracker. collects, uses, maintains and discloses information collected from users (each, a "User") of the [http://battlefieldtracker.com](http://battlefieldtracker.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Battlefield Tracker.
+This Privacy Policy governs the manner in which Battlefield Tracker. collects, uses, maintains and discloses information collected from users (each, a "User") of the [https://battlefieldtracker.com](https://battlefieldtracker.com/) website ("Site"). This privacy policy applies to the Site and all products and services offered by Battlefield Tracker.
 
 **Personal identification information**
 
@@ -66,8 +66,8 @@ By using this Site, you signify your acceptance of this policy. If you do not ag
 **Contacting us**
 
 If you have any questions about this Privacy Policy, the practices of this site, or your dealings with this site, please contact us at:  
-[Battlefield Tracker.](http://battlefieldtracker.com/)  
-[http://battlefieldtracker.com](http://battlefieldtracker.com/)  
-privacy@http://battlefieldtracker.com
+[Battlefield Tracker.](https://battlefieldtracker.com/)  
+[https://battlefieldtracker.com](https://battlefieldtracker.com/)  
+privacy@https://battlefieldtracker.com
 
 This document was last updated on October 02, 2014
