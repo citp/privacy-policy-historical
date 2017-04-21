@@ -1,10 +1,12 @@
-> *The following text is extracted and transformed from the thesleepjudge.com privacy policy that was archived on 2016-11-05. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161105005809id_/http%3A//www.thesleepjudge.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the thesleepjudge.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421093945id_/http%3A//www.thesleepjudge.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy & Disclaimer
 
-If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](http://www.thesleepjudge.com/contact-us/).
+If you require any more information or have any questions about our privacy policy, please feel free to contact us by email at [Privacy](https://web.archive.org/web/20170421093945id_/http://www.thesleepjudge.com/contact-us/).
 
 At www.thesleepjudge.com we consider the privacy of our visitors to be extremely important. This privacy policy document describes in detail the types of personal information is collected and recorded by www.thesleepjudge.com and how we use it.
+
+The Sleep Judge does not share personal information with third-parties nor does thesleepjudge.com store information collected about your visit for use other than to analyze web site performance through the use of cookies, which you can turn off at anytime by modifying your Internet browser’s settings. The Sleep Judge is not responsible for the republishing of the content found on this blog on other web sites or media without permission.
 
 **Log Files**  
 Like many other Web sites, www.thesleepjudge.com makes use of log files. These files merely logs visitors to the site – usually a standard procedure for hosting companies and a part of hosting services’s analytics. The information inside the log files includes internet protocol (IP) addresses, browser type, Internet Service Provider (ISP), date/time stamp, referring/exit pages, and possibly the number of clicks. This information is used to analyze trends, administer the site, track user’s movement around the site, and gather demographic information. IP addresses, and other such information are not linked to any information that is personally identifiable.
@@ -38,6 +40,8 @@ The Sleep Judge is a participant in the Amazon Services LLC Associates Program, 
 
 All review ratings are our own.
 
+We periodically review and adjust ratings as we review more products and research product quality. We also adjust ratings based on on-going tests over time.
+
 Amazon, the Amazon logo, MYHABIT, and the MYHABIT logo are trademarks of Amazon.com, Inc. or its affiliates.
 
 Occasionally we will receive free products in exchange for reviews. However, this does not affect our review process and we only recommend products that stand above the rest in terms of quality and value.
@@ -56,11 +60,19 @@ We believe it is important to provide added protection for children online. We e
 **Online Privacy Policy Only**  
 This privacy policy applies only to our online activities and is valid for visitors to our website and regarding information shared and/or collected there. This policy does not apply to any information collected offline or via channels other than this website.
 
+**California Privacy Rights**
+
+If you are a California resident, California Civil Code Section 1798.83 provides you the right to receive (a) information identifying any third party(ies) to whom we may have disclosed, within the preceding calendar year, your personal information for that third party’s direct marketing purposes; and (b) a description of the categories of personal information disclosed.  To obtain such information free of charge, please [submit your request here](https://www.thesleepjudge.com/contact-us/).  We will respond to these requests within thirty (30) days.  Requests that come to us by other means may result in a delayed response.
+
 **Consent**  
 By using our website, you hereby consent to our privacy policy and agree to its terms.
 
 [](http://www.privacypolicyonline.com/ "PrivacyPolicyOnline.com Approved Site")
 
 **Update**  
-This Privacy Policy was last updated on:  April 2, 2016.  
+This Privacy Policy was last updated on:  April 5 2017.  
 _Should we update, amend or make any changes to our privacy policy, those changes will be posted here._
+
+**Disclaimer**
+
+The information contained on The Sleep Judge is intended for informational and educational purposes only. Any statements made on this website have not been evaluated by the FDA and any information or products discussed are not intended to diagnose, cure, treat or prevent any disease or illness. Please consult a healthcare practitioner before making changes to your diet, taking supplements that may interfere with medications. Please consult a professional before making any decisions regarding the health of your children.
