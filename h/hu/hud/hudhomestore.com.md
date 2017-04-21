@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the hudhomestore.com privacy policy that was archived on 2013-08-30. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20130830111528id_/http%3A//portal.hud.gov/portal/page/portal/HUD/privacy_policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the hudhomestore.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421052753id_/http%3A//portal.hud.gov/portal/page/portal/HUD/privacy_policy) for the most accurate reproduction.*
 
 # Privacy
 
@@ -31,3 +31,5 @@ HUD systems are also protected by EINSTEIN cybersecurity capabilities, under the
 Changes to this policy: We will revise or update this policy if our practices change, or as we develop better ways to keep you informed about them. You should refer back to this page often for the latest information and the effective date of any changes. If we decide to change this policy, we will post a new policy on our site and change the date at the bottom. Changes to the policy shall not apply retroactively.
 
 If you have any questions or concerns, please [contact us](http://portal.hud.gov/hudportal/HUD?src=/contact).
+
+[Latest Privacy Incident](http://portal.hud.gov/hudportal/HUD?src=/privacy)
