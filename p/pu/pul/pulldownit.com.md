@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the pulldownit.com privacy policy that was archived on 2016-11-20. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161120165133id_/http%3A//www.pulldownit.com/privacy-policy.php) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the pulldownit.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421180421id_/http%3A//www.pulldownit.com/privacy-policy.php) for the most accurate reproduction.*
 
 # Pulldownit : Next Step in Dynamics for VFX
 
