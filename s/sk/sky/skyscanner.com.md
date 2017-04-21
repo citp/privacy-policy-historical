@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the skyscanner.com privacy policy that was archived on 2016-12-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161228172951id_/https%3A//www.skyscanner.com/privacypolicy.aspx) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the skyscanner.com privacy policy that was archived on 2017-04-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170421084621id_/https%3A//www.skyscanner.com/privacypolicy.aspx) for the most accurate reproduction.*
 
 # Privacy policy
 
