@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the wpfreeware.com privacy policy that was archived on 2016-11-28. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161128142451id_/https%3A//www.wpfreeware.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the wpfreeware.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422014941id_/https%3A//www.wpfreeware.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy policy - WpFreeware
+# Privacy policy - wpfreeware
 
 This privacy policy has been compiled to better serve those who are concerned with how their ‘Personally Identifiable Information’ (PII) is being used online. Please read our privacy policy carefully to get a clear understanding of how we collect, use, protect or otherwise handle your Personally Identifiable Information in accordance with our website. We may update these privacy policies from time to time without giving you any prior notice, so please visit this page at any time in order to keep yourself updated.
 
