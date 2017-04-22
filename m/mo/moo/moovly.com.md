@@ -1,8 +1,6 @@
-> *The following text is extracted and transformed from the moovly.com privacy policy that was archived on 2016-11-17. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161117022614id_/https%3A//www.moovly.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the moovly.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422201155id_/https%3A//www.moovly.com/privacy) for the most accurate reproduction.*
 
 # Privacy Policy | Moovly
-
-## PRIVACY POLICY
 
 Moovly and its subsidiaries and affiliates (“Moovly” or “we”) respect your preferences concerning the treatment of personal information that we may collect from your use of the Platform. This Privacy Policy informs you about how we collect and use your personal information, and how you can control its use. This Privacy Policy describes the broadest potential use of personal information throughout the Platform that is consistent with the terms of this policy. However, we may make far less use of your personal information.
 
@@ -64,7 +62,7 @@ To provide website visitors with more choice on how their data is collected by G
 
 Most Web browsers automatically accept cookies, but you can usually modify your browser setting to decline cookies if you prefer. If you choose to decline cookies, you may not be able to sign in or use other interactive features of Moovly sites and services that depend on cookies.
 
-To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/) which includes information on how to manage your settings for the major browser providers.
+To find out more about cookies, including how to see what cookies have been set and how to manage and delete them, visit [www.allaboutcookies.org](http://www.allaboutcookies.org/)which includes information on how to manage your settings for the major browser providers.
 
 ### Use of Web Beacons
 
@@ -85,5 +83,5 @@ If you have questions regarding this statement, you may contact us at:
 Moovly NV  
 Koning Albertlaan 114  
 B-9000 Ghent  
-Belgium   
-Email: info @ Moovly.com
+Belgium  
+Email: [info@moovly.com](mailto:info@moovly.com)
