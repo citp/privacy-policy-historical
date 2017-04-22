@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the recruitment4jobs.in privacy policy that was archived on 2016-12-02. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161202042145id_/http%3A//www.recruitment4jobs.in/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the recruitment4jobs.in privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422032915id_/http%3A//www.recruitment4jobs.in/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy - Recruitment 4 Jobs
 
-If you require any more information or have any questions about our [privacy policy](http://www.recruitment4jobs.in/privacy-policy/ "privacy policy Jobs"), please feel free to [contact us](http://www.recruitment4jobs.in/contact-us/)
+If you require any more information or have any questions about our privacy policy, please feel free to [contact us](http://www.recruitment4jobs.in/contact-us/)
 
-At [www.recruitment4jobs.in](http://www.recruitment4jobs.in/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how [it](http://www.recruitment4jobs.in/it/ "it Jobs") is used.
+At [www.recruitment4jobs.in](http://www.recruitment4jobs.in/), the privacy of our visitors is of extreme importance to us. This privacy policy document outlines the types of personal information is received and collected by us and how it is used.
 
  **Log Files**
 
@@ -26,10 +26,10 @@ Google, as a third party vendor, uses cookies to serve ads on our sarkari naukri
 
  **Google Adsense**
 
-These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.recruitment4jobs.in](http://www.recruitment4jobs.in/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also [be](http://www.recruitment4jobs.in/be/ "be Jobs") used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
+These third-party ad servers or ad networks use technology to the advertisements and links that appear on [www.recruitment4jobs.in](http://www.recruitment4jobs.in/) send directly to your browsers. They automatically receive your IP address when this occurs. Other technologies ( such as cookies, JavaScript, or Web Beacons ) may also be used by the third-party ad networks to measure the effectiveness of their advertisements and / or to personalize the advertising content that you see.
 
 [www.recruitment4jobs.in](http://www.recruitment4jobs.in/) has no access to or control over these cookies that are used by third-party advertisers.
 
 You should consult the respective privacy policies of these third-party ad servers for more detailed information on their practices as well as for instructions about how to opt-out of certain practices. www.recruitment4jobs.in's privacy policy does not apply to, and we cannot control the activities of, such other advertisers or web sites.
 
-If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie [management](http://www.recruitment4jobs.in/management/ "management Jobs") with specific web browsers can be found at the browsers' respective websites.
+If you wish to disable cookies, you may do so through your individual browser options. More detailed information about cookie management with specific web browsers can be found at the browsers' respective websites.
