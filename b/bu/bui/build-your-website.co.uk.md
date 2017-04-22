@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2016-11-08. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161108120050id_/http%3A//www.build-your-website.co.uk/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the build-your-website.co.uk privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422115528id_/http%3A//www.build-your-website.co.uk/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy
 
@@ -9,7 +9,7 @@ personal information we collect and how we use it.
 
 ### Routine Information Collection
 
-All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages.
+All web servers track basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, time stamps and referring pages.
 
 None of this information can personally identify specific visitors to this site.
 
@@ -28,8 +28,6 @@ In particular this site use Google Adsense and,
   * Google, as a third-party vendor, uses cookies to serve ads on this site.
   * Google’s use of the DART cookie enables it to serve ads to users based  
 on their visit to this site and other sites on the Internet.
-  * Users may opt out of the use of the DART cookie by visiting the  
-[Google ad and content network privacy policy.](http://www.google.co.uk/privacy_ads.html)
 
 
 
