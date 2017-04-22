@@ -1,6 +1,6 @@
-> *The following text is extracted and transformed from the andrewspenceonline.com privacy policy that was archived on 2016-06-12. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160612100010id_/http%3A//www.andrewspenceonline.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the andrewspenceonline.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422033305id_/http%3A//www.andrewspenceonline.com/privacy-policy) for the most accurate reproduction.*
 
-# Privacy Policy - Andrew Spence
+# Privacy Policy
 
 Andrew Spence Online and All Related Websites
 
