@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the zeald.com privacy policy that was archived on 2016-12-07. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20161207193957id_/http%3A//www.zeald.com/About/Legal/Privacy%2BPolicy.html) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the zeald.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422131859id_/http%3A//www.zeald.com/About/Legal/Privacy%2BPolicy.html) for the most accurate reproduction.*
 
 # Zeald Privacy Policy
 
