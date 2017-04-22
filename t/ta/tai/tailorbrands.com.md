@@ -1,0 +1,54 @@
+> *The following text is extracted and transformed from the tailorbrands.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422163620id_/https%3A//www.tailorbrands.com/pp) for the most accurate reproduction.*
+
+# Tailor Brands - Instant Logo Maker & Online Logo Design - Privacy Policy
+
+## **Tailor Brands Privacy Policy**
+
+#### Last updated: July 27, 2014
+
+At Tailor Brands, our users' privacy is important. Below you will find our Privacy Policy, which covers all personally identifiable information shared through Tailor Brands. Our Privacy Policy applies to www.TailorBrands.com (the "Site"), owned and operated by Tailor Brands, LTD. (“Tailor Brands”), it describes how Tailor Brands collects and uses the personal information you provide throughout our Service and the options you have regarding how we use and access that information. Please note, you are not obligated to provide us with any personal information by law. You hereby agree and acknowledge that you are providing us with personal information at your own free will. We are big fans of privacy and we do not sell, lease or exchange your personal data to third parties in ways other than described in this Privacy Policy. By visiting our Site or using the services provided by Tailor Brands and detailed in our Terms of Service (collectively, the “Service”) you agree to be bound by our Terms of Service and our Privacy Policy. All term shall have the meaning ascribed to them in our Terms of Service Agreement, unless stated specifically otherwise in this Privacy Policy.
+
+####    
+1.Collecting Information
+
+**  
+a. Design Process –** During our Design Process we will collect information related to your business as well as cookies. We will keep this information on our secure servers in order to personalize your End Products. You must provide at least some of this information in order to obtain an End Product. After completing our registration form and purchasing the End Product, you will gain access to your new End Product using an Account.  
+**  
+b. Registration –** Once you purchase an End Product, Tailor Brands will require an access credentials in order to provide you with your personalized Account. During our account registration process, we will collect an email address, and a password. We will keep this information on our secure servers in order to allow access to your Account. You must provide all of this information in order to obtain an Account. After completing our registration form, you will receive a welcome email describing your new Tailor Brands Account, and how to access that Account.
+
+**c. Payment Processors -** Tailor Brands uses a third party payment processor service called 2Checkout ("2Checkout") to assist it in securely processing your personally identifiable payment information. 2Checkout's use of your personal information is governed by their respective privacy policies which may or may not contain privacy protections as protective as our Privacy Policy. We recommend going over 2Checkout’s Privacy Policy if you wish to learn more.
+
+**d. Social Sharing –** During our checkout process, we may allow you to gain a discount or promote the Service using social networks. During that process you may be asked to give out additional personal information. Your communication with these networks, and any information you provide in connection are often publicly viewable outside our domain. Each social media site has its own privacy policy, which may be more or less protective than this Policy. If you do not wish for this information to be disclosed, we advise you to not use these social networks in conjunction with our Service.  
+**  
+e. Communication –** In order to send you Account related information, as well as promotional emails, we will use your email address provided within the registration process, or within any other activity on the Site that requires a valid email address to be provided. By registering to Tailor Brands, or providing your email for any other function within the Site, you agree to receive emails. We will send you account-related emails when it is necessary to do so, for instance, if our Service is temporarily shut down. You may not opt-out of these communications, which are not promotional in nature. We also send emails that include special offers to our members, If you no longer wish to receive these promotional emails you may follow the unsubscribe instructions contained in the promotional communications which you receive. Our emails are sent using third party vendors. Any personal information disclosed through such communications will be governed by such third party vendors' privacy policy.
+
+**f. Hosted website –** We use Digital Ocean for hosting our Site. Personal information hosted by or through Tailor Brands is subject to Digital Ocean's privacy policy Please review Digital Ocean's privacy policy if you wish to learn more.
+
+**g. Other stuff we use to design better -** Throughout the design process we may try and log your access URL, IP, time, geo-location and other information to provide us with a better understanding of how to build our designs. This information may also be used to identify problematic users that try to harm our Service. Otherwise, this information is used in the aggregate, and is never linked back to any personally identifiable information. 
+
+####    
+2\. Using Information
+
+**a. General -** The aforementioned personally identifiable information is collected in order to improve our Service, including the improvement of the personalized designs created for you. Information collected is used only to identify potential cases of abuse of the system, to improve the personalization of our design and to establish statistical information regarding our traffic. This statistical information is not otherwise aggregated in such a way that would identify any particular user of the system. Tailor Brands is the sole owner of information collected on our Site. Your information is never shared, leased or given to any third parties in ways other than disclosed in this Privacy Policy. We also use information, or share it with our third party providers to send out account-related and promotional emails. We will also retain some of your information for as long as your Account is active or as needed to provide you services. We will retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.  
+**  
+b. Security - **All of the information we collect is stored on our secured databases, which is protected via a variety of industry-standard access controls. Secure passwords, SSL encryption, disk-based encryption, firewalls, and other measures are in place that helps us to protect your data. It is important to note that despite our measures, no company, including Tailor Brands, can fully eliminate security risks associated with the transmission of personal information through online transactions, and you do so at your own risk.  
+**  
+c. Personal Information** Some of our services, including emails, hosting and credit card processing, are done using third-party service providers. These service providers have access to personal information needed to complete the task on our behalf. We may also release account and other personal information when we believe release is appropriate to comply with the law; enforce or apply our Terms of Service; or protect the rights, property, or safety of Tailor Brand. Other than as set out above, you will receive notice when information about you might go to third parties, and you will have an opportunity to choose not to share the information.  
+**  
+d. Aggregated information -** Some information is aggregated and than shared about with our marketing partners. This information does not identify you as an individual User, it contains statistics related to traffic and the geographic location of our customers. We also may share aggregated User information with third parties who help us to analyze our User base to improve the Service.  
+**  
+e. Logs and Cookies -** This Privacy Policy covers the use of cookies by Tailor Brands only. As is true of most websites, we gather some information automatically, such as IP addresses, browser type, internet service providers, referral links, geo-locations and clickstream data. This information does not identify individual users. We also collect data called cookies, stored on users computers. Cookies let us keep track of your preferences and use it to create better designs for you. In order to initiate a Design Process with Tailor Brands, cookies must be collected. Users who disable cookies will not be able to use our Services. These cookies can be tied back to personally identifiable information only in the event that you are logged in to our Service. If you are logged in to our Service, the cookies on your computer will uniquely identify your account within our system.  
+**  
+f. Links and Ads -** This Privacy Policy covers the use of cookies by Tailor Brands only and does not cover that of advertisers and partners of on our Site. Tailor Brands is not responsible for the privacy practices of sites not owned by Tailor Brands and to which you arrive by clicking certain links on the Site (such as ads or affiliated services).
+
+#### 3\. Your Control
+
+**a. Changing info –** Tailor Brands enables you to change your contact email at any time using you Tailor Brands account interface. We also encourage you to keep those details up to date so your costumer service requests and billing process operate at ease.  
+**  
+b. Removing Info -** In order to remove your personally identifiable information from our system, including information used to create your End Products, submit your Account for deactivation. Your personal information will be removed, and you will no longer be able to access your designs using your account interface. Though your actual login your name will remain reserved on our system until re-collection, we recommended that you backup any existing designs before proceeding with such action.  
+**  
+c. Keeping up to date -** If we decide to change our Privacy Policy, we will post those changes to our Site. We reserve the right to modify this Privacy Policy at any time but will not materially change our policies and practices to make them less protective of customer information collected in the past without the consent of affected customers.  
+**  
+d. Underage use –** Tailor Brands is not directed to children under 16 years of age and we do not internationally collect information on such users.  
+**  
+e. Contacting us -** If you have any questions about this privacy policy, please contact us. You may also contact us by mail at: 6 Wissotzky 6 Tel Aviv, Israel.
