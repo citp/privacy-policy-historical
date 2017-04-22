@@ -1,4 +1,4 @@
-> *The following text is extracted and transformed from the etundra.com privacy policy that was archived on 2016-08-21. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160821191505id_/https%3A//www.etundra.com/privacy-policy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the etundra.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422090439id_/https%3A//www.etundra.com/privacy-policy) for the most accurate reproduction.*
 
 # Privacy Policy | eTundra
 
