@@ -1,26 +1,26 @@
-> *The following text is extracted and transformed from the confluent.io privacy policy that was archived on 2016-08-14. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160814043914id_/http%3A//www.confluent.io/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the confluent.io privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422084916id_/https%3A//www.confluent.io/privacy) for the most accurate reproduction.*
 
-# Privacy Policy | Confluent
+# Privacy - Confluent
 
-Confluent, Inc. (“Confluent,” “we,” “our,” or “us”) understands that privacy is important to our online visitors to our website (our "Website") and users of our products and services (our "Products"). This Privacy Policy explains how we collect, use, share and protect your personal information that we collect in relation to the use of our Website and our Products. By using our Website and our Products, you agree to the terms of this Privacy Policy and our [Terms of Use](https://web.archive.org/terms-of-use) at http://www.confluent.io/terms-of-use.
+Confluent, Inc. (“Confluent,” “we,” “our,” or “us”) understands that privacy is important to our online visitors to our website (our “Website”) and users of our products and services (our “Products”). This Privacy Policy explains how we collect, use, share and protect your personal information that we collect in relation to the use of our Website and our Products. By using our Website and our Products, you agree to the terms of this Privacy Policy and our [Terms of Use](https://www.confluent.io/terms-of-use) at https://www.confluent.io/terms-of-use.
 
-**Click on the links below to jump to each section:**
+ **Click on the links below to jump to each section:**
 
-  1. WHAT INFORMATION DO WE COLLECT AND FOR WHAT PURPOSE?
-  2. HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGY TO COLLECT INFORMATION
-  3. SHARING OF YOUR INFORMATION
-  4. YOUR CHOICES ABOUT YOUR INFORMATION
-  5. HOW WE STORE AND PROTECT YOUR INFORMATION
-  6. CHILDREN’S PRIVACY
-  7. LINKS TO OTHER WEBSITES AND SERVICES
-  8. HOW TO CONTACT US
-  9. CHANGES TO OUR PRIVACY POLICY
+  1. [WHAT INFORMATION DO WE COLLECT AND FOR WHAT PURPOSE?](https://www.confluent.io/privacy#1)
+  2. [HOW WE USE COOKIES AND OTHER TRACKING TECHNOLOGY TO COLLECT INFORMATION](https://www.confluent.io/privacy#2)
+  3. [SHARING OF YOUR INFORMATION](https://www.confluent.io/privacy#3)
+  4. [YOUR CHOICES ABOUT YOUR INFORMATION](https://www.confluent.io/privacy#4)
+  5. [HOW WE STORE AND PROTECT YOUR INFORMATION](https://www.confluent.io/privacy#5)
+  6. [CHILDREN’S PRIVACY](https://www.confluent.io/privacy#6)
+  7. [LINKS TO OTHER WEBSITES AND SERVICES](https://www.confluent.io/privacy#7)
+  8. [HOW TO CONTACT US](https://www.confluent.io/privacy#8)
+  9. [CHANGES TO OUR PRIVACY POLICY](https://www.confluent.io/privacy#9)
 
 
 
 ### WHAT INFORMATION DO WE COLLECT AND FOR WHAT PURPOSE?
 
-We may collect and store personal information that you enter in our Website or provide to us in some other manner, or that we gather or collect from your use of our Products (including through a technical support request that you initiate) including your name, entity name, email address, location, Internet protocol (("IP") address,  product interest, and any notes you enter into a web form. We may also collect any communications between you and us, as well as any information you provide if you take part in any interactive features of the Website.
+We may collect and store personal information that you enter in our Website or provide to us in some other manner, or that we gather or collect from your use of our Products (including through a technical support request that you initiate) including your name, entity name, email address, location, Internet protocol ((“IP”) address,  product interest, and any notes you enter into a web form. We may also collect any communications between you and us, as well as any information you provide if you take part in any interactive features of the Website.
 
 We may also receive information about you when you interact with us through various social media, for example, by liking us on Facebook or following us on Twitter. The data we receive from your social network is dependent upon your privacy settings with the social network. You should always review, and if necessary, adjust your privacy settings on third-party websites and services before linking or connecting them to the Website. We use this information to operate, maintain, and provide to you our Website and our Products. We may use this information to communicate with you, such as to send you email messages, and to send you information about our activities. For more information about your communication preferences, see “Your Choices Regarding Your Information” below.
 
@@ -52,27 +52,27 @@ We may also aggregate or otherwise strip data of all personally identifying char
 
 ### YOUR CHOICES ABOUT YOUR INFORMATION
 
-**How to control your communications preferences:** You can stop receiving email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of Website-related communications (e.g., changes/updates to features of the Website, technical and security notices, etc.).
+ **How to control your communications preferences:** You can stop receiving email communications from us by clicking on the “unsubscribe link” provided in such communications. We make every effort to promptly process all unsubscribe requests. You may not opt out of Website-related communications (e.g., changes/updates to features of the Website, technical and security notices, etc.).
 
-**Online Advertising.** We may permit third party online advertising networks or social media companies to collect information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or apps. Typically, the information we share is provided through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). If you access our service on your mobile device, you may not be able to control tracking technologies through settings.
+ **Online Advertising.** We may permit third party online advertising networks or social media companies to collect information about your use of our website over time so that they may play or display ads that may be relevant to your interests on our Service as well as on other websites or apps. Typically, the information we share is provided through cookies or similar tracking technologies. The only way to completely “opt out” of the collection of any information through cookies or other tracking technology is to actively manage the settings on your browser or mobile device. Please refer to your browser’s or mobile device’s technical information for instructions on how to delete and disable cookies, and other tracking/recording tools. (To learn more about cookies, clear gifs/web beacons and related technologies, you may wish to visit [http://www.allaboutcookies.org](http://www.allaboutcookies.org/) and/or the Network Advertising Initiative’s online resources, at [http://www.networkadvertising.org](http://www.networkadvertising.org/)). If you access our service on your mobile device, you may not be able to control tracking technologies through settings.
 
-**How to control collection of your IP address related to your use of our Products:** If you prefer that we do not collect certain cluster and broker metadata from your use of our Products, you can turn off the collection of this metadata by setting 
+ **How to control collection of your IP address related to your use of our Products:** If you prefer that we do not collect certain cluster and broker metadata from your use of our Products, you can turn off the collection of this metadata by setting
 
 confluent.support.metrics.enable=false
 
-in the broker configuration and restarting the broker. See the [Confluent Platform documentation](https://web.archive.org/developer#documentation) for more information.  Please note that if you initiate a support request, you may be required to provide us with certain log information or other cluster or broker metadata in order for us to provide such support services.
+in the broker configuration and restarting the broker. See the [Confluent Platform documentation](https://www.confluent.io/developer#documentation) for more information.  Please note that if you initiate a support request, you may be required to provide us with certain log information or other cluster or broker metadata in order for us to provide such support services.
 
 ### HOW WE STORE AND PROTECT YOUR INFORMATION
 
-**Storage and processing:** Your information collected through the Website may be stored and processed in the United States or any other country in which Confluent or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Confluent or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
+ **Storage and processing:** Your information collected through the Website may be stored and processed in the United States or any other country in which Confluent or its subsidiaries, affiliates or service providers maintain facilities. If you are located in the European Union or other regions with laws governing data collection and use that may differ from U.S. law, please note that we may transfer information, including personal information, to a country and jurisdiction that does not have the same data protection laws as your jurisdiction, and you consent to the transfer of information to the U.S. or any other country in which Confluent or its parent, subsidiaries, affiliates or service providers maintain facilities and the use and disclosure of information about you as described in this Privacy Policy.
 
-**Keeping your information safe:** Confluent cares about the security of your information, and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through the Website and our Products. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, Confluent will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
+ **Keeping your information safe:** Confluent cares about the security of your information, and uses commercially reasonable physical, administrative, and technological safeguards to preserve the integrity and security of all information collected through the Website and our Products. However, no security system is impenetrable and we cannot guarantee the security of our systems 100%. In the event that any information under our control is compromised as a result of a breach of security, Confluent will take reasonable steps to investigate the situation and where appropriate, notify those individuals whose information may have been compromised and take other steps, in accordance with any applicable laws and regulations.
 
-**Retention** : We will retain your information for as long as your account is active or as needed to provide you with our Products, however, please note that some personal information, may remain in our records to the extent necessary to protect our legal interests, improve our Products, or document compliance with regulatory requirements.
+ **Retention** : We will retain your information for as long as your account is active or as needed to provide you with our Products, however, please note that some personal information, may remain in our records to the extent necessary to protect our legal interests, improve our Products, or document compliance with regulatory requirements.
 
 ### CHILDREN’S PRIVACY
 
-Confluent does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [contact@confluent.io](mailto:contact@confluent.io)[ ](mailto:contact@confluent.io)
+Confluent does not knowingly collect or solicit any information from anyone under the age of 13 or knowingly allow such persons to register as Users. In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible. If you believe that we might have any information from a child under 13, please contact us at [contact@confluent.io](mailto:contact@confluent.io)
 
 ### LINKS TO OTHER WEB SITES AND SERVICES
 
@@ -80,10 +80,10 @@ Our Website may integrate with or contain links to other third party sites and s
 
 ### HOW TO CONTACT US
 
-If you have any questions about this Privacy Policy or the Website, please contact us at [contact@confluent.io](mailto:contact@confluent.io)[](mailto:contact@confluent.io)
+If you have any questions about this Privacy Policy or the Website, please contact us at [contact@confluent.io](mailto:contact@confluent.io)
 
 ### CHANGES TO OUR PRIVACY POLICY
 
 Confluent may modify or update this Privacy Policy from time to time to reflect the changes in our business and practices, and so you should review this page periodically.
 
-_This privacy policy was last modified on 8  December 2015._
+ _This privacy policy was last modified on 8  December 2015._
