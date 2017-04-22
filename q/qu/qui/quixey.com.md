@@ -1,10 +1,10 @@
-> *The following text is extracted and transformed from the quixey.com privacy policy that was archived on 2016-05-29. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20160529082657id_/https%3A//www.quixey.com/privacy) for the most accurate reproduction.*
+> *The following text is extracted and transformed from the quixey.com privacy policy that was archived on 2017-04-22. Please check the [original snapshot on the Wayback Machine](https://web.archive.org/web/20170422221246id_/https%3A//www.quixey.com/privacy) for the most accurate reproduction.*
 
 # Quixey | Privacy Policy
 
 We have updated our privacy policy.
 
-Effective: October 26, 2015 ([view prior version](https://web.archive.org/privacy/privacy-09-10-2015.html))
+Effective: August 23, 2016 ([view prior version](https://web.archive.org/privacy/privacy-10-26-2016.html))
 
 This Privacy Policy covers the treatment of personal information such as name, phone number, email address, and location information (“Personal Information”) that we gather when you are accessing or using the Site and Services owned and operated by Quixey Incorporated (“Quixey”) and its subsidiaries and corporate affiliates. Our Services are designed to optimize your mobile experience by surfacing or suggesting mobile app functionality in response to searches or activity on your device. To do this, we gather various types of information, including Personal Information, from our users and use it internally in connection with our Services, as explained in more detail below. In certain cases, we may also share some Personal Information with third parties, but only as described below. This Privacy Policy does not apply to any third-party services and applications that you may access through our Services.
 
@@ -143,6 +143,10 @@ In some instances, you can log in to our Site and Services using sign-in service
 Children’s Privacy
 
 We do not knowingly collect or solicit Personal Information from anyone under the age of 13. If you learn that your minor child has provided us with Personal Information without your consent, please contact us. If we become aware that we have collected Personal Information from a child under age 13 without verification of parental consent, we take steps to remove that information.
+
+Quixey Skype Bot
+
+Our Quixey Bot is enabled by Microsoft Bot Framework. The Microsoft Bot Framework is a set of web-services that enable intelligent services and connections using conversation channels you authorize. As a service provider, Microsoft will transmit content you provide to our bot/service in order to enable the service. For more information about Microsoft privacy policies please see their privacy statement here: <http://go.microsoft.com/fwlink/?LinkId=521839>. In addition, your interactions with this bot/service are also subject to the conversational channel's applicable terms of use, privacy and data collection policies. To report abuse when using a bot that uses the Microsoft Bot Framework to Microsoft, please visit the Microsoft Bot Framework website at [https://www.botframework.com](https://www.botframework.com/) and use the “Report Abuse” link in the menu to contact Microsoft. 
 
 Changes to Our Privacy Policy
 
